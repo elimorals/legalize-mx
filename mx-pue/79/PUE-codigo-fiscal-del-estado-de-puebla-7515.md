@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2015-12-31"
+last_updated: "2017-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CODIGO FISCAL DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2017.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -91,15 +93,13 @@ Las contribuciones se clasifican en impuestos y derechos.
 
 Impuestos son las contribuciones establecidas en la Ley, que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho, prevista por la misma y que sean distintas a los derechos.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
 
-Son derechos las contribuciones establecidas en ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público. También son derechos las contribuciones que perciban los organismos públicos descentralizados y que se encuentren incluidas en la Ley de Ingresos del Estado.
+Son derechos las contribuciones establecidas en ley, por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público. También son derechos las contribuciones que perciban los organismos públicos descentralizados u órganos constitucionalmente autónomos y que se encuentren incluidas en la Ley de Ingresos del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
 
 La prestación de los servicios a que se refiere el párrafo que antecede se llevará a cabo por el Estado, siempre y cuando los sujetos obligados al pago de los derechos cumplan con los requisitos que señalan para tales efectos, las disposiciones fiscales y administrativas vigentes que resulten aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -131,8 +131,6 @@ Los recargos, las sanciones, los gastos de ejecución e indemnizaciones por cheq
 
 Son participaciones, fondos y recursos participables, aportaciones, incentivos económicos y reasignaciones, las cantidades que el Estado tiene derecho a percibir con arreglo a las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 8.
@@ -142,6 +140,10 @@ Son créditos fiscales los que tenga derecho a percibir el Estado o sus Organism
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 La recaudación proveniente de todos los ingresos del Estado aun cuando se destinen a un fin específico, se hará a través de la Secretaría de Finanzas y Administración o por las oficinas que la misma designe.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2017)</small>
+
+Las sanciones económicas que impongan las autoridades distintas a las autoridades fiscales estatales y que se remitan a la Secretaría de Finanzas y Administración para su cobro, deberán cumplir con los requisitos que mediante reglas de carácter general emita y publique dicha Dependencia.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
 
@@ -639,11 +641,11 @@ Si los contribuyentes no tuvieran la dirección de correo electrónico a que se 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-Il.- Presentar los avisos respectivos de cambio de nombre, denominación o razón social, de domicilio fiscal, de actividad preponderante, de representante legal; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación al Registro Estatal de Contribuyentes; declaraciones normales, complementarias, provisionales e informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
+II.- Presentar los avisos respectivos de cambio de nombre, denominación o razón social, de domicilio fiscal, de actividad preponderante, de representante legal; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación al Registro Estatal de Contribuyentes; declaraciones normales, complementarias, provisionales e informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
 
-Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público Registrado, sobre estados financieros, y que sean sujetos del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal; Sobre Servicios de Hospedaje y/o Estatal Sobre la Realización de Juegos con Apuestas y Sorteos, tendrán la obligación de proporcionar, en la misma fecha en que hayan presentado el citado dictamen, un escrito a la Dirección de Fiscalización de la Secretaría de Finanzas y Administración del Estado, en el que señalen mes a mes las bases gravables de los Impuestos Estatales a que se refiere esta fracción, causadas por los meses y ejercicios que se señalen en dicho dictamen, indicando en el mismo, en su caso, los meses pendientes de pago.
+Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público Registrado, sobre estados financieros, y que sean sujetos del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal y Sobre Servicios de Hospedaje, tendrán la obligación de proporcionar, en la misma fecha en que hayan presentado el citado dictamen, un escrito a la Dirección de Fiscalización de la Secretaría de Finanzas y Administración del Estado, en el que señalen mes a mes las bases gravables de los Impuestos Estatales a que se refiere esta fracción, causadas por los meses y ejercicios que se señalen en dicho dictamen, indicando en el mismo, en su caso, los meses pendientes de pago.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -1079,7 +1081,7 @@ Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de 
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2003)</small>
 
-Cuando la autoridad requiera al contribuyente las datos, informes o documentos necesarios para verificar la procedencia de su solicitud de devolución, el periodo transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación del plazo para la devolución arriba señalado (sic).
+Cuando la autoridad requiera al contribuyente las datos, informes o documentos necesarios para verificar la procedencia de su solicitud de devolución, el periodo transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación del plazo para la devolución arriba señalado.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
@@ -1855,6 +1857,10 @@ Cuando las autoridades no emitan la resolución correspondiente dentro del plazo
 
 Asimismo, cuando los contribuyentes no proporcionen documentación o la proporcionen incompleta, dentro del ejercicio de las facultades de comprobación a que se refiere los incisos b) y c) de la fracción VII del artículo 41 de este Código, aquélla no podrá ser valorada por autoridad distinta a la que conoció de la revisión.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2017)</small>
+
+El plazo para notificar la resolución a que se refiere este artículo se suspenderá en los casos previstos en las fracciones I, II y III del artículo 46-D de este Código.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 47.
@@ -2621,8 +2627,6 @@ V.- Por instructivo, solamente en los casos y las formalidades a que se refiere 
 
 La Secretaría de Finanzas y Administración podrá habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo con las formalidades de este Código, en los términos de la normatividad que para tal efecto se emita.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 77.
@@ -2645,9 +2649,9 @@ Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales,
 
 Toda notificación personal, realizada con quien deba entenderse, será legalmente válida, aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento la cantidad equivalente a dos salarios mínimos vigentes en el Estado en el momento en que se realice la misma. Respecto a estos gastos de notificación, la autoridad fiscal los determinará conjuntamente con la propia notificación y se pagarán al cumplir con el requerimiento.
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento la cantidad equivalente a dos veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se realice la notificación de que se trate. Respecto a estos gastos de notificación, la autoridad fiscal los determinará conjuntamente con la propia notificación y se pagarán al cumplir con el requerimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -2710,6 +2714,32 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 Si la garantía consiste en depósito de dinero en alguna entidad financiera o sociedad cooperativa de ahorro y préstamo, una vez que el crédito fiscal quede firme se ordenará su aplicación por la autoridad fiscal.
 
 Tratándose de fianza otorgada por institución autorizada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se aplicarán los procedimientos establecidos en la Ley de Instituciones de Seguros y Fianzas.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2017)</small>
+
+###### ARTICULO 81-B.
+
+Para garantizar el interés fiscal sobre un mismo crédito fiscal podrán combinarse las diferentes formas que al efecto establece el artículo 81 de este Código, así como sustituirse entre sí, en cuyo caso antes de cancelarse la garantía original deberá constituirse la garantía sustituta, siempre y cuando la garantía que se pretende sustituir no sea exigible.
+
+La garantía constituida podrá garantizar uno o varios créditos fiscales siempre que la misma así lo señale y comprenda los conceptos previstos en el artículo 83 de este Código respecto de los créditos a garantizar.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2017)</small>
+
+###### ARTICULO 81-C.
+
+La cancelación de la garantía del interés fiscal procederá en los siguientes casos:
+
+I.- Por sustitución de garantía;
+
+II.- Por el pago del crédito fiscal;
+
+III.- Cuando en definitiva quede sin efectos la resolución que dio origen al otorgamiento de la garantía;
+
+IV.- Cuando fenezca la fecha de la vigencia de la garantía; y
+
+V.- En cualquier otro caso en que deba cancelarse de conformidad con las disposiciones fiscales.
+
+Las inscripciones de las garantías efectuadas ante el correspondiente Registro Público de la Propiedad, se cancelarán mediante oficio signado por la Autoridad Fiscal, dirigido al citado Registro.
 
 ###### ARTICULO 82.
 
@@ -2831,21 +2861,25 @@ Son aplicables al embargo precautorio a que se refiere este artículo, las dispo
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2017)</small>
 
-###### ARTICULO 87.
+###### Artículo 87.
 
-Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y morales pagarán por concepto de gastos de ejecución, por cada una de las diligencias de notificación, del requerimiento de pago, embargo, remate, enajenación fuera de remate o adjudicación al fisco estatal; así como por concepto de honorarios por intervención, las tasas que establezca la Ley de Ingresos del Estado y en los términos que en la misma se señalen.
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y morales pagarán por concepto de gastos de ejecución, por cada una de las diligencias de notificación, del requerimiento de pago, embargo, remate, enajenación fuera de remate o adjudicación al fisco estatal; así como por concepto de honorarios por intervención, los porcentajes que establezca la Ley de Ingresos del Estado y en los términos que en la misma se señalen.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
 Asimismo se pagarán por concepto de gastos de ejecución, las erogaciones extraordinarias en que se incurra con motivo del Procedimiento Administrativo de Ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, avalúos, de impresión y publicación de convocatorias y edictos que correspondan, los de guarda, conservación y mantenimiento; inscripciones o cancelaciones en el Registro Público, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
 
-En ningún caso los honorarios a que se refieren los párrafos anteriores podrán exceder de la cantidad que represente seiscientos salarios mínimos diarios vigentes en el Estado.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
 
-Para los efectos de este artículo se entenderá como salario mínimo diario vigente en el Estado, el que resulte aplicable en el momento en que se efectúen las erogaciones respectivas.
+En ningún caso los honorarios a que se refieren los párrafos anteriores podrán exceder de una cantidad equivalente a seiscientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se realice el pago respectivo.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 16 DE ENERO DE 2017)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -2983,9 +3017,9 @@ Los fondos de la cuenta del contribuyente únicamente podrán transferirse al Fi
 
 En tanto el crédito fiscal garantizado no quede firme, el contribuyente titular de las cuentas embargadas podrá ofrecer otra forma de garantía de acuerdo con el artículo 81 de este Código, en sustitución del embargo de las cuentas. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de diez días. La autoridad tendrá la obligación de comunicar a la entidad financiera o la sociedad cooperativa de ahorro y préstamo el sentido de la resolución, enviándole copia de la misma, dentro del plazo de quince días siguientes a aquél en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la entidad o sociedad de que se trate levantará el embargo de la cuenta.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
 
-La inmovilización de cuentas a que se refiere el presente artículo, procederá siempre y cuando el monto del crédito fiscal y sus accesorios sea de cuando menos 400 salarios mínimos diarios vigentes en el Estado.
+La inmovilización de cuentas a que se refiere el presente artículo, procederá siempre y cuando el monto del crédito fiscal y sus accesorios sea de cuando menos una cantidad equivalente a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3219,9 +3253,7 @@ El remate deberá ser convocado para una fecha fijada, al día siguiente de habe
 
 La convocatoria se fijará en el sitio visible y usual de la Oficina de la Autoridad Fiscal competente, y en los lugares públicos que se estime conveniente. Además, la convocatoria se dará a conocer en la página electrónica de las autoridades fiscales. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-En el caso de que el valor de los bienes exceda de $23,280.00, la convocatoria se publicará en uno de los periódicos de mayor circulación de la Entidad, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 108.
 
@@ -3249,13 +3281,17 @@ Si el importe de la postura es menor al crédito fiscal, se rematarán de contad
 
 La autoridad exactora podrá enajenar a plazos los bienes embargados en los casos y condiciones que previamente se establezcan en las Reglas de Carácter General que autorice y de a conocer el Secretario de Finanzas y Administración. En este supuesto quedará liberado de la obligación de pago el embargado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2017)</small>
+
+###### Artículo 112.
+
+Si el remate es en subasta pública, celebrado en el local de la Autoridad Fiscal, al escrito en que se haga la postura se acompañará necesariamente billete de depósito por un importe cuando menos del diez por ciento del valor fijado a los bienes en la convocatoria expedida al efecto. En las poblaciones donde no haya alguna institución financiera, el depósito se hará en efectivo en la propia oficina ejecutora.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
+Si el remate es en subasta pública a través de medios electrónicos, las posturas deberán enviarse en documento digital a la dirección electrónica que se señale en la convocatoria para el remate. La autoridad fiscal mandará los mensajes que confirmen la recepción de posturas.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-###### ARTICULO 112.
-
-Al escrito en que se haga la postura se acompañará necesariamente billete de depósito por un importe cuando menos del diez por ciento del valor fijado a los bienes en la convocatoria expedida al efecto. En las poblaciones donde no haya alguna de esas instituciones, el depósito se hará en efectivo en la propia oficina ejecutora o a través de medios electrónicos, debiéndose enviar en documento digital a la dirección electrónica que señale la convocatoria para el remate.
-
-La autoridad fiscal mandará los mensajes que confirmen la recepción de las posturas.
 
 Para intervenir en una subasta será necesario que el postor, antes de enviar su postura realice una transferencia electrónica de fondos equivalente cuando menos al diez por ciento del valor fijado a los bienes en la convocatoria.
 
@@ -3265,7 +3301,9 @@ Para intervenir en una subasta será necesario que el postor, antes de enviar su
 
 El importe de los depósitos que se constituyan de acuerdo con lo que establece el artículo anterior servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados.
 
-Si el remate es subasta pública que se celebra en el local de la Autoridad Fiscal, inmediatamente después de fincado el remate, previa orden de la Autoridad Fiscal, se devolverán en el acto los billetes de depósito a los postores, y a través de medios electrónicos, después de fincado el remate se devolverán a los postores los fondos transferidos electrónicamente, excepto el que corresponda al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y en su caso, como parte del precio de venta.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
+Si el remate es subasta pública que se celebra en el local de la oficina ejecutora o en el lugar que designe la Autoridad Fiscal, inmediatamente después de fincado el remate, previa orden de la Autoridad Fiscal, se devolverán en el acto los billetes de depósito a los postores; y si el remate es subasta pública a través de medios electrónicos, después de fincado el remate se devolverán a los postores los fondos transferidos electrónicamente, excepto el que corresponda al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y en su caso, como parte del precio de venta.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -3775,7 +3813,7 @@ Diputado Secretario.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los veinticuatro días del mes de diciembre de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado.- Lic. Mariano Piña Olaya.- El Secretario de Gobernación.- Lic. Marco Antonio Rojas Flores.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 30 DE DICIEMBRE DE 1988.
 
@@ -4066,5 +4104,13 @@ P.O. 31 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
