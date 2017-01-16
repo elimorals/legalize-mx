@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-20043
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-29"
-last_updated: "2016-08-22"
+last_updated: "2017-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 29 de enero de 2001.
 
@@ -761,7 +761,9 @@ I.- La esposa o, a falta de ésta, la mujer con quien ha vivido como si lo fuera
 
 Si el servidor público o pensionista tiene varias concubinas, ninguna de ellas tendrá derecho a la prestación.
 
-Del mismo derecho gozará cuando se encuentre totalmente incapacitado para trabajar, el esposo de la servidora pública o pensionista, o a falta de éste, el concubinario si reúne los requisitos del párrafo anterior;
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
+Del mismo derecho gozará el esposo de la servidora pública o pensionista, o a falta de éste, el concubino si reúne los requisitos del párrafo anterior;
 
 II.- Los hijos menores de dieciséis años del servidor público o pensionista; y
 
@@ -895,7 +897,9 @@ II.- A falta de la cónyuge supérstite, la concubina sola o en concurrencia con
 
 Si al morir el servidor público o pensionista tuviere varias concubinas, ninguna tendrá derecho a pensión;
 
-III.- El cónyuge supérstite sólo o en concurrencia con los hijos, siempre que no viva en concubinato y sea mayor de cincuenta y cinco años, o esté incapacitado para trabajar y hubiera dependido económicamente de la esposa servidora pública o pensionista;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2017)</small>
+
+III.- El cónyuge supérstite, sólo o en concurrencia con los hijos, siempre que no viva en concubinato;
 
 IV.- A falta del cónyuge supérstite, el concubinario de la servidora pública o pensionista siempre que reúna los requisitos señalados en el primer párrafo de la fracción II y fracción III de este Artículo;
 
@@ -933,7 +937,9 @@ I.- Llegar a la mayoría de edad los hijos del servidor público o pensionado, s
 
 II.- Porque la mujer o el varón pensionado contraigan nupcias o llegaran a vivir en concubinato. Al contraer matrimonio la viuda, viudo, concubina o concubinario, recibirán como única y última prestación, el importe de seis meses de la pensión que venían disfrutando, siendo como requisito para obtener esta prestación, avisar al Instituto dentro de los treinta días naturales siguientes a la fecha en que ocurrió, o de lo contrario la prestación quedará sin efectos.
 
-La divorciada no tendrá derecho a la pensión de quien haya sido su cónyuge a menos que a la muerte del servidor público, éste estuviera pagándole pensión alimenticia por condena judicial y siempre que no exista viuda, hijos, concubina y ascendientes con derecho a la misma. Cuando la divorciada disfrutara de la pensión en los términos de este Artículo, perderá dicho derecho si contrae nuevas nupcias, o si viviera en concubinato; y
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
+La divorciada o divorciado no tendrá derecho a la pensión de quien haya sido su cónyuge a menos que a la muerte de la o el servidor público, le estuviera pagando pensión alimenticia por condena judicial y siempre que no exista viuda o viudo, hijos, concubina o concubino y ascendientes con derecho a la misma. Cuando la divorciada o divorciado disfrute de la pensión en los términos de este Artículo, perderá dicho derecho si contrae nuevas nupcias, o si viviera en concubinato; y
 
 III.- Por fallecimiento. En tal caso, la parte proporcional se distribuirá entre las demás personas que tengan tal derecho.
 
@@ -1689,9 +1695,11 @@ V.- Las aportaciones a que se refiere este Artículo se harán de manera quincen
 
 ### CAPITULO IX. De los Servicios de la Estancia de Bienestar Infantil
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 163.
 
-El servicio de la Estancia de Bienestar Infantil establecido en la fracción X del Artículo 34 de este Ordenamiento, tendrá por objeto brindar una adecuada atención para el bienestar y desarrollo infantil de los hijos de las servidoras públicas, de los hijos del servidor público viudo o divorciado que conserve la custodia de éstos, y de los menores a cargo de aquellos servidores públicos que jurídicamente se les haya otorgado la tutela de los mismos, en tanto no contraigan nupcias o vivan en concubinato.
+El servicio de la Estancia de Bienestar Infantil establecido en la fracción X del Artículo 34 de este Ordenamiento, tendrá por objeto brindar una adecuada atención para el bienestar y desarrollo infantil de los hijos de las servidoras públicas, de los hijos de los servidores públicos, y de los menores a cargo de aquellos servidores públicos que jurídicamente se les haya otorgado la tutela de los mismos, en tanto no contraigan nupcias o vivan en concubinato.
 
 ###### ARTICULO 164.
 
@@ -2048,3 +2056,15 @@ P.O. 22 DE AGOSTO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 38.- SE REFORMAN LOS ARTÍCULOS 48, 64, 68 Y 163 DE LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
