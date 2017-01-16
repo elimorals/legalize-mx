@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-libre-y-soberano-de-puebla-78369"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-08"
-last_updated: "2015-12-31"
+last_updated: "2017-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2017.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 8 de diciembre de 2010.
 
@@ -107,11 +107,11 @@ La ubicación de los lugares de pago, así como los procedimientos, medios elect
 
 Los pagos se harán utilizando las formas oficiales que autorice y publique la citada Dependencia.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
 
 ###### Artículo 7.
 
-Los contribuyentes de los impuestos a que se refiere esta Ley, que no les resulte cantidad a pagar en cualquiera de los meses del ejercicio fiscal correspondiente, deberán presentar declaración periódica en ceros.
+Los contribuyentes de los impuestos a que se refiere esta Ley, que no les resulte cantidad a pagar en cualquiera de los meses del ejercicio fiscal correspondiente, deberán presentar declaración periódica en ceros, a través de los medios electrónicos a que se refiere el artículo 6 de la presente Ley.
 
 ###### Artículo 8.
 
@@ -211,17 +211,15 @@ Los conceptos señalados en las fracciones II, V, VI, VII y VIII deberán ademá
 
 El impuesto a que se refiere este Capítulo, se causará en el momento en que se realicen las erogaciones a que se refiere el artículo 10 de esta Ley y se pagará a más tardar el día 17 del mes siguiente a la fecha en que se cause.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
 
-Cuando ocasionalmente se realicen las erogaciones objeto de este impuesto, el contribuyente estará obligado a presentar declaración dentro de los diez días hábiles siguientes a aquél en que se cause el impuesto; en este caso, los contribuyentes quedan relevados de cumplir con la obligación de presentar el aviso de inscripción al Registro Estatal de Contribuyentes.
+Cuando ocasionalmente se realicen las erogaciones objeto de este impuesto, el contribuyente estará obligado a presentar declaración dentro de los diez días hábiles siguientes a aquél en que se cause el impuesto.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 Se considera acto ocasional si no se gravan dos o más periodos de forma consecutiva.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
-
-Los contribuyentes que no se hubieran inscrito en el Registro Estatal de Contribuyentes y que presenten dos o más declaraciones de pago durante un ejercicio fiscal, quedarán automáticamente inscritos en dicho Registro.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 16 DE ENERO DE 2017)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -835,9 +833,7 @@ Los sujetos obligados al pago del impuesto a que se refiere este Capítulo, debe
 
 I.- Solicitar la inscripción del vehículo de que se trate en el Registro Estatal Vehicular;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-II.- Presentar anualmente declaración informativa en la que ratifique o modifique los datos del Registro Estatal Vehicular, en términos del artículo 87 de esta Ley; y
+II.- (DEROGADA, P.O. 16 DE ENERO DE 2017)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -869,7 +865,9 @@ III.- Estar al corriente en el pago de los derechos previstos en la Ley de Ingre
 
 IV.- (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
-V.- Ratificar y, en los casos que proceda, actualizar los datos en el Registro Estatal Vehicular mediante la presentación de la declaración informativa o de los actos administrativos correspondientes.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2017)</small>
+
+V.- Actualizar los datos en el Registro Estatal Vehicular mediante los actos administrativos correspondientes; y
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -1067,13 +1065,13 @@ Las participaciones en ingresos federales, los fondos y recursos participables, 
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2017)</small>
 
 ###### Artículo 79.
 
-Son ingresos extraordinarios, aquéllos cuya percepción se decreta excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso, los que autorice el Ejecutivo del Estado o el Secretario de Finanzas y Administración.
+Son ingresos extraordinarios, aquéllos cuya percepción se decrete excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local o en su caso, los que autorice el Ejecutivo del Estado o el Secretario de Finanzas y Administración, los cuales se registrarán en los términos establecidos por la normatividad aplicable en materia de armonización contable.
 
-Dentro de esta categoría quedan comprendidos las donaciones, legados, herencias y reintegros, las aportaciones extraordinarias y de mejoras, así como de los financiamientos que obtenga el Gobierno del Estado y los que deriven de los programas especiales que instrumente el mismo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE ENERO DE 2017)</small>
 
 ## TÍTULO OCTAVO. DE LOS REGISTROS ESTATALES
 
@@ -1145,9 +1143,7 @@ Los propietarios, tenedores o usuarios de los vehículos inscritos en el Registr
 
 ###### Artículo 87.
 
-Los propietarios, tenedores o usuarios de los vehículos deberán presentar dentro de los tres primeros meses de cada ejercicio fiscal, declaración informativa en la que ratificarán o modificarán los datos asentados en el Registro Estatal Vehicular.
-
-La obligación a que se refiere este artículo, no libera al contribuyente de realizar los trámites o movimientos señalados en el artículo 88 de esta Ley.
+(DEROGADO, P.O. 16 DE ENERO DE 2017)
 
 ###### Artículo 88.
 
@@ -1356,6 +1352,14 @@ SEGUNDO. Se derogan todas aquéllas disposiciones que contravengan lo dispuesto 
 P.O. 31 DE DICIEMBRE DE 2015.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
 
