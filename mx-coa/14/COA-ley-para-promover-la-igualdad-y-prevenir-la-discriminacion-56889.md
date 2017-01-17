@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2016-08-09"
+last_updated: "2017-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -49,11 +49,13 @@ Esta ley tiene por objeto:
 
 I. Promover y garantizar el derecho a la igualdad real de oportunidades y trato de las personas, a participar y beneficiarse de manera incluyente en las actividades educativas, de salud, productivas, económicas, laborales, políticas, culturales, recreativas, y en general en todas aquellas que permiten el desarrollo pleno e integral de las personas, y
 
-II. Prevenir toda forma de discriminación en contra de cualquier persona, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social, económica o de salud, estado de gravidez, lengua, religión, expresión de las ideas u opiniones, preferencias sexuales, estado civil, filiación e identidad política, o cualquier otra que atente contra la dignidad humana y que represente obstáculo para su desarrollo pleno e integral, en los términos de lo establecido en los artículos séptimo y octavo de la Constitución Política del Estado de Coahuila de Zaragoza.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE ENERO DE 2017)</small>
 
-(ADICIONADA, P.O. 28 DE JUNIO DE 2016.
+II. Prevenir toda forma de discriminación en contra de cualquier persona, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social, económica o de salud, estado de gravidez, lengua, religión, expresión de las ideas u opiniones, preferencias sexuales, estado civil, filiación e identidad política, apariencia física o cualquier otra que atente contra la dignidad humana y que represente obstáculo para su desarrollo pleno e integral, en los términos de lo establecido en los artículos séptimo y octavo de la Constitución Política del Estado de Coahuila de Zaragoza.
 
-III.- Definir los tipos de discriminación que viven los diversos grupos afectados por este hecho, en función de sus propias características o forma de vida, por su origen étnico o nacional, el sexo, la edad, la discapacidad, la condición de salud, el embarazo, la lengua, la religión, las opiniones, las preferencias sexuales, el estado civil y otras diferencias que pueden ser motivos de distinción y exclusión o restricción de derechos. Conforme a su participación social o ámbito de acción, priorizando el carácter educativo y formativo de esta la (sic) ley para la población de la entidad, particularmente de las nuevas generaciones.
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2016)</small>
+
+III. Definir los tipos de discriminación que viven los diversos grupos afectados por este hecho, en función de sus propias características o forma de vida, por su origen étnico o nacional, el sexo, la edad, la discapacidad, la condición de salud, el embarazo, la lengua, la religión, las opiniones, las preferencias sexuales, el estado civil y otras diferencias que pueden ser motivos de distinción y exclusión o restricción de derechos. Conforme a su participación social o ámbito de acción, priorizando el carácter educativo y formativo de esta la (sic) ley para la población de la entidad, particularmente de las nuevas generaciones.
 
 ###### ARTÍCULO 3.
 
@@ -71,7 +73,9 @@ IV. Dirección: La Dirección para Promover la Igualdad y Prevenir la Discrimina
 
 V. Discapacidad: Toda restricción o ausencia de la capacidad de realizar alguna actividad en la forma o dentro del margen que se considera normal para un ser humano;
 
-VI. Discriminación: Toda ley, acto, hecho o conducta que provoque distinción, exclusión, restricción o rechazo, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social o económica o de salud, estado de gravidez, lengua, religión, opiniones, preferencia sexual, estado civil, filiación o identidad política, o cualquier otra que atente contra la dignidad humana y tenga por efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE ENERO DE 2017)</small>
+
+VI. Discriminación: Toda ley, acto, hecho o conducta que provoque distinción, exclusión, restricción o rechazo, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social o económica o de salud, estado de gravidez, lengua, religión, opiniones, preferencia sexual, estado civil, filiación o identidad política, apariencia física o cualquier otra que atente contra la dignidad humana y tenga por efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
 VII. Estado: El Estado Libre y Soberano de Coahuila de Zaragoza;
 
@@ -221,75 +225,123 @@ II. Inmediatez: Tiene por objeto que mediante procedimientos breves, sencillos y
 
 ### CAPÍTULO TERCERO. DE LAS MEDIDAS PARA PREVENIR LA DISCRIMINACIÓN
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 13.
 
-Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades.
+Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades. Se consideran prácticas discriminatorias:
 
-Se consideran prácticas discriminatorias:
+I. Aplicar cualquier tipo de uso o costumbre que atente contra la dignidad e integridad humana;
 
-I. Impedir el acceso a la educación pública o privada, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables;
+II. Trato diferenciado, excluyente o restrictivo basado en el origen étnico-cultural (hábitos, costumbres, indumentaria, símbolos, formas de vida, sentido de pertenencia, idioma y creencias de un grupo social determinado) y/o en las características físicas de las personas (como el color de piel, facciones, estatura, color de cabello, etc.) que tenga como objetivo o por resultado anular o menoscabar el reconocimiento, goce o ejercicio de los derechos y libertades fundamentales de las personas en la esfera política, económica, social y cultural;
 
-II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad, o que difundan una condición de subordinación;
+III. Tratar a alguien de manera diferente por el hecho de provenir de un lugar diferente, por nacionalidad distinta o no ser originarios del país o lugar en el que residen, por aquellos que nacieron en el país o tienen mayor antigüedad en él o en un lugar específico;
 
-III. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo, así como limitar el ingreso a los programas de capacitación y formación profesional;
+IV. Impedir o limitar la libre expresión de ideas, conciencia, religión, o de prácticas o costumbres religiosas, siempre que éstas no atenten contra el orden público;
 
-IV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
+V. Negar asistencia religiosa a personas privadas de la libertad, que presten servicio en seguridad pública estatal o municipal, o que estén internadas en instituciones de salud o asistencia;
 
-V. Limitar el acceso a los programas de capacitación y de formación profesional;
+VI. Trato distintivo o despreciativo por no practicar la creencia religiosa mayoritaria de la sociedad en la que vive o por no profesar creencia alguna;
 
-VI. Negar o limitar información relacionada con sus derechos reproductivos, o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos;
+VII. Impedir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole;
 
-VII. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones relacionadas con su tratamiento médico o terapéutico, dentro de sus posibilidades y medios;
+VIII. Negar o condicionar el derecho de participación política, y específicamente el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el desarrollo y ejecución de políticas y programas de gobierno, en los casos y de acuerdo a los términos que establezcan las disposiciones aplicables y las excepciones que las mismas señalen;
 
-VIII. Impedir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole;
+IX. Negar un servicio, una oportunidad, o el acceso a un determinado lugar, el acceso a la justicia, a la atención médica, de forma injustificada aludiendo solamente a su género, puede ser a un hombre o a una mujer;
 
-IX. Negar o condicionar el derecho de participación política, y específicamente el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el desarrollo y ejecución de políticas y programas de gobierno, en los casos y de acuerdo a los términos que establezcan las disposiciones aplicables y las excepciones que las mismas señalen;
+X. Impedir la libre elección de cónyuge o pareja;
 
-X. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo, salvo las excepciones establecidas en la ley;
+XI. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecución o exclusión de las personas;
 
-XI. Impedir el acceso a la procuración e impartición de justicia;
+XII. Realizar o fomentar el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación sexual;
 
-XII. Impedir, obstaculizar o retardar que se les escuche en todo procedimiento jurisdiccional o administrativo en que se vean involucrados o en la asistencia de intérpretes en dichos procedimientos, de conformidad con las normas aplicables;
+XIII. Rechazo a un patrón de atracción sexual, erótica, emocional o amorosa de un determinado grupo de personas definidas por su sexo que se alejan del canon predominante;
 
-XIII. Aplicar cualquier tipo de uso o costumbre que atente contra la dignidad e integridad humana;
+XIV. Tratar de manera despectiva, o menospreciar a las personas que no gozan de cierta formación cultural, o no disfrutan de una adecuada situación o posición económica;
 
-XIV. Impedir la libre elección de cónyuge o pareja;
+XV. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad, o que difundan una condición de subordinación;
 
-XV. Ofender, ridiculizar o promover la violencia en los supuestos a que se refiere la fracción VI del artículo 3° de esta ley, a través de mensajes o imágenes en los medios de comunicación;
+XVI. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo, así como limitar el ingreso a los programas de capacitación y formación profesional;
 
-XVI. Impedir o limitar la libre expresión de ideas, conciencia, religión, o de prácticas o costumbres religiosas, siempre que éstas no atenten contra el orden público;
+XVII. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
 
-XVII. Negar asistencia religiosa a personas privadas de la libertad, que presten servicio en seguridad pública estatal o municipal, o que estén internadas en instituciones de salud o asistencia;
+XVIII. Limitar el acceso a los programas de capacitación y de formación profesional;
 
-XVIII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por la legislación en materia de acceso a la información, tanto estatal como federal, así como en instrumentos jurídicos internacionales aplicables;
+XIX. No otorgar igual pago por igual trabajo en el mismo establecimiento, por el hecho de ser hombre-mujer o mujer-hombre, sin que sea necesario que los trabajos sean idénticos, sino que deben ser substancialmente iguales;
 
-XIX. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo saludable;
+XX. No pagar salarios iguales a hombres y mujeres que realizan trabajos que requieren igual habilidad, esfuerzo y responsabilidad y que se realizan bajo condiciones de trabajo similares dentro del mismo establecimiento;
 
-XX. Impedir el acceso a la seguridad social y sus beneficios, o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
+XXI. Tratar de forma inferior porque la imagen personal o vestimenta no encaja con el ideal de belleza establecido en la sociedad en la que vive;
 
-XXI. Limitar el derecho a la alimentación, vivienda, recreo y a los servicios de atención médica adecuados, en los casos que la ley así lo prevea;
+XXII. Rechazo solo por el color de piel, por la complexión, estatura o tipo de vestimenta;
 
-XXII. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;
+XXIII. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones relacionadas con su tratamiento médico o terapéutico, dentro de sus posibilidades y medios;
 
-XXIII. Explotar a cualquier persona, o dar un trato abusivo o degradante;
+XXIV. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo saludable;
 
-XXIV. Restringir la participación en actividades deportivas, recreativas o culturales;
+XXV. Impedir el acceso a la seguridad social y sus beneficios, o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;
 
-XXV. Restringir o limitar el uso de su lengua, usos, costumbres o cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;
+XXVI. Ser tratado con cierto recelo o desprecio por el hecho de estar enferma;
 
-XXVI. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable;
+XXVII. Ser estigmatizado por el hecho de ser portador del VIH-Sida, o alguna otra enfermedad de transmisión sexual;
 
-XXVII. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecución o exclusión de las personas;
+XXVIII. Restringir la participación en actividades deportivas, recreativas o culturales;
 
-XXVIII. Realizar o fomentar el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación sexual, y
+XXIX. Menospreciar, o tratar de manera despreciativa a persona que vive bajo algún tipo de discapacidad, bien será física, mental o intelectual;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+XXX. Restringir las oportunidades de desarrollo, empleo, salud, superación personal por el hecho de vivir bajo alguna discapacidad;
 
-XXIX. Condicionar, limitar o restringir las oportunidades de empleo, permanencia o ascenso laborales en razón de: embarazo, discapacidad, edad en los términos de la legislación laboral vigente; por tener la calidad de persona egresada de alguna institución pública o privada de educación; por motivaciones injustificadas de salud, y
+XXXI. Trato diferente, ser sujeto de burlas o restringir el derecho de desarrollo, empleo, servicio de salud, educación, o superación personal por atravesar una condición de Sobre peso u Obesidad, o cualquier otro desorden alimenticio;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2015)</small>
+XXXII. Menospreciar bajo los entendidos de que no está en condiciones de salud apropiada para realizar algún tipo de tarea por el hecho de atravesar una condición de sobre peso u obesidad, o cualquier otro desorden alimenticio;
 
-XXX. En general cualquier conducta discriminatoria, en los términos de la fracción VI del artículo 3° de esta ley.
+XXXIII. Negar o limitar información relacionada con sus derechos reproductivos, o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos;
+
+XXXIV. Negar la contratación de un trabajo, limitar el acceso a un servicio, o ser expuesta a burlas, comentarios despectivos o discriminatorios por el hecho de encontrarse en situación de embarazo; Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser adulto mayor;
+
+XXXV. Tratar de manera discriminante, de abandono, abuso o maltrato, ser sujeto de burlas, estigmas o menosprecio, o negar algún tipo de servicio por el hecho de ser adulto mayor;
+
+XXXVI. Ser víctima de prácticas violentas o de trato desigual, o algún tipo de opresión, burlas, estigmas, transgresiones, descalificaciones por (sic) hecho de ser mujer;
+
+XXXVII. Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser mujer;
+
+XXXVIII. Trato desigual, o ser víctima de perjuicios (sic), estigmas, o algún tipo de opresión, transgresiones, descalificaciones por el hecho de ser joven o adolescente;
+
+XXXIX. Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser joven o adolescente;
+
+XL. Ser víctima de prácticas violentas, o de disciplinas violentas, de maltrato, de castigo, o de trato desigual, o algún tipo de opresión, burlas, estigmas, transgresiones, descalificaciones por (sic) hecho de ser niño o niña;
+
+XLI. Negar o atentar contra algún tipo de derecho emanado de los acuerdos internacionales de protección y cuidado infantil;
+
+XLII. Explotar a cualquier persona, o dar un trato abusivo o degradante;
+
+XLIII. Violación de los derechos, a los tratados internacionales, explotación económica, inseguridad social, menosprecio, racismo, secuestro, así como el riesgo de muerte por el hecho de ser migrante o refugiado;
+
+XLIV. Impedir el acceso a la educación pública o privada, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables;
+
+XLV. Menosprecio por poseer un cierto nivel académico, que derive en el trato injusto, otorgamiento de servicios, trabajos, remuneraciones, o estigmas de alguna naturaleza;
+
+XLVI. Restringir las oportunidades laborales, salariales o de crecimiento profesional por el hecho de cursar los estudios en determinada unidad académica, escuela o colegio, sea esta pública o del sector privado;
+
+XLVII. Restringir o limitar el uso de su lengua, usos, costumbres o cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;
+
+XLVIII. Tratar diferente a causa del idioma nativo u otras características de su manera de hablar o expresarse, sea esta manera oral, escrita o simbólica;
+
+XLIX. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo, salvo las excepciones establecidas en la ley;
+
+L. Impedir el acceso a la procuración e impartición de justicia;
+
+LI. Impedir, obstaculizar o retardar que se les escuche en todo procedimiento jurisdiccional o administrativo en que se vean involucrados o en la asistencia de intérpretes en dichos procedimientos, de conformidad con las normas aplicables;
+
+LII. Ofender, ridiculizar o promover la violencia en los supuestos a que se refiere la fracción VI del artículo 3° de esta ley, a través de mensajes o imágenes en los medios de comunicación;
+
+LIII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por la legislación en materia de acceso a la información, tanto estatal como federal, así como en instrumentos jurídicos internacionales aplicables;
+
+LIV. Limitar el derecho a la alimentación, vivienda, recreo y a los servicios de atención médica adecuados, en los casos que la ley así lo prevea;
+
+LV. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;
+
+LVI. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable.
 
 ### CAPÍTULO CUARTO. DE LAS MEDIDAS POSITIVAS Y COMPENSATORIAS
 
@@ -976,3 +1028,15 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 614.- SE ADICIONAN LA FRACCIÓN II AL ARTÍCULO 2 Y LA FRACCIÓN VI AL ARTÍCULO 3 Y SE REFORMA AL ARTÍCULO 13, DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
