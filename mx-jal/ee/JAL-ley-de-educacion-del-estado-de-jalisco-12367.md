@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2016-11-10"
+last_updated: "2017-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -1315,9 +1315,9 @@ DE LA EQUIDAD EN LA EDUCACIÓN.
 
 En la esfera de su competencia la Autoridad Educativa, los municipios y sus Organismos Descentralizados, tomarán las medidas necesarias para hacer expedito el derecho a la educación que tiene todo habitante del Estado, en igualdad de circunstancias y oportunidades de acceso y permanencia al sistema educativo estatal.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
-ARTICULO 90 BIS.- La Autoridad Educativa observará que en los centros escolares públicos o privados de cualquier nivel y modalidad en el Estado, otorguen dentro de sus facultades y atribuciones, apoyo educativo para coadyuvar a que las niñas, niños y adolescentes en circunstancias especialmente difíciles, den inicio, continuación y conclusión a sus estudios, conforme lo previsto en la presente Ley, la Ley de las Niñas, los Niños y Adolescentes del Estado de Jalisco, y demás ordenamientos legales aplicables.
+ARTICULO 90 BIS.- La Autoridad Educativa observará que en los centros escolares públicos o privados de cualquier nivel y modalidad en el Estado, otorguen dentro de sus facultades y atribuciones, apoyo educativo para coadyuvar a que las niñas, niños y adolescentes en circunstancias especialmente difíciles, den inicio, continuación y conclusión a sus estudios, conforme lo previsto en la presente Ley, la Ley de las Niñas, los Niños y Adolescentes del Estado de Jalisco, Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco y demás ordenamientos legales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -3914,3 +3914,11 @@ P.O. 10 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25890/LXI/16 QUE REFORMA LAS FRACCIONES XXI, XXII Y XXIII Y SE ADICIONAN LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO".]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26186/LXI/16 QUE REFORMA EL ARTÍCULO 90 BIS DE LA LEY DE EDUCACIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo, a través de la dependencia o entidad competente, podrá dictar criterios o regular los aspectos mínimos para la promoción de la educación familiar en libertad, subsidiariedad y responsabilidad.
