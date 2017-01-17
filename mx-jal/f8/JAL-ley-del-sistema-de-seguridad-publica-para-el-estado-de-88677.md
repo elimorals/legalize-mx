@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2016-10-27"
+last_updated: "2017-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -49,13 +49,13 @@ Ley del Sistema de Seguridad Pública Para el Estado de Jalisco
 
 ### Capítulo Único
 
-###### Artículo 1.
+###### Artículo 1°.
 
-° La presente ley es de orden público e interés social y tiene por objeto establecer las bases para regular la función de seguridad pública en el estado y sus municipios, los lineamientos para el desarrollo y coordinación de esta función a cargo de las autoridades competentes, así como las modalidades de los servicios de seguridad privada en el estado de Jalisco.
+La presente ley es de orden público e interés social y tiene por objeto establecer las bases para regular la función de seguridad pública en el estado y sus municipios, los lineamientos para el desarrollo y coordinación de esta función a cargo de las autoridades competentes, así como las modalidades de los servicios de seguridad privada en el estado de Jalisco.
 
-###### Artículo 2.
+###### Artículo 2°.
 
-° La seguridad pública es la función gubernamental que prestan en forma institucional, exclusiva y en el ámbito de su competencia, el Estado y los municipios, la cual se regirá bajo los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo y honradez, respetando del gobernado sus derechos humanos consagrados en nuestra carta magna y la Constitución particular del Estado.
+La seguridad pública es la función gubernamental que prestan en forma institucional, exclusiva y en el ámbito de su competencia, el Estado y los municipios, la cual se regirá bajo los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo y honradez, respetando del gobernado sus derechos humanos consagrados en nuestra carta magna y la Constitución particular del Estado.
 
 La seguridad pública tendrá como fines:
 
@@ -127,29 +127,27 @@ XVIII. Personal ministerial: a los agentes del Ministerio Público, actuarios y 
 
 XIX. Personal pericial: los peritos del Instituto Jalisciense de Ciencias Forenses;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XX. Policía Procesal: elemento operativo cuya función será garantizar la seguridad y la paz en los recintos judiciales; realizar los traslados de personas procesadas y sentenciadas a los recintos judiciales en donde se celebrarán sus audiencias; restablecer el orden durante el desahogo de audiencias, previa instrucción; revisar que quienes ingresen a las salas no porten armas, estén en estado de ebriedad o bajo el influjo de estupefacientes que pongan en riesgo la seguridad de los presentes; mantener la secrecía de lo ocurrido durante el desahogo de la audiencia y cumplir los mandamientos expresamente ordenados por el juez o autoridad judicial de adscripción, siempre que no le correspondan a otros cuerpos de seguridad pública;
+XX. Registro: el Registro Estatal de Información sobre Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXI. Registro: el Registro Estatal de Información sobre Seguridad Publica; y
+XXI. Sistema de Información: el Sistema Estatal de Información sobre Seguridad Pública; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXII. Sistema de Información: el Sistema Estatal de Información sobre
+XXII. Supervisor de Libertad: la autoridad administrativa que depende del Poder Ejecutivo y que da seguimiento a las personas sentenciadas que gozan de libertad condicionada.
 
-Seguridad Pública.
+###### Artículo 4°.
 
-###### Artículo 4.
-
-° Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional.
+Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional.
 
 Las relaciones jurídicas de los ministerios públicos, secretarios y actuarios del Ministerio Público, los peritos y los elementos operativos de las instituciones policiales se regirán por la fracción XIII, del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la presente ley y demás disposiciones legales aplicables.
 
-###### Artículo 5.
+###### Artículo 5°.
 
-° Para el mejor cumplimiento de los objetivos de las instituciones policiales, éstas desarrollarán cuando menos las siguientes unidades operativas:
+Para el mejor cumplimiento de los objetivos de las instituciones policiales, éstas desarrollarán cuando menos las siguientes unidades operativas:
 
 I. Investigación, que será la encargada de la investigación, sistemas de obtención de información, clasificación de la misma, así como su registro y evaluación, en los términos de la Ley General del Sistema Nacional de Seguridad Pública;
 
@@ -165,25 +163,25 @@ Lo anterior, sin perjuicio de las unidades que en materia de investigación cien
 
 La unidad correspondiente de la Fiscalía General utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias de los actos dirigidos contra la confidencialidad, la integridad y la disponibilidad de los sistemas, redes y datos informáticos, y para tal fin los particulares, prestadores de servicios de información y, en general, todas aquellas personas físicas o jurídicas de carácter privado que procesen, traten o tengan en su poder bases de datos personales de terceros, estarán obligados a otorgar o transferir la información en los términos que se les solicite, para el caso concreto de la investigación.
 
-###### Artículo 6.
+###### Artículo 6°.
 
-° Ninguna persona de las obligadas por esta ley podrá ingresar ni permanecer en las instituciones de seguridad pública si no ha sido debidamente certificada, ya sea por los centros de control de confianza federales, por el Centro o por las unidades de control de confianza respectivamente de conformidad con las disposiciones legales aplicables en la materia, y así mismo deberá registrarse en las bases de datos de personal de seguridad pública administrados por la plataforma tecnológica nacional que se establezca para tal fin.
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
-###### Artículo 7.
-
-° Las facultades que este ordenamiento otorga a la Fiscalía General serán ejercidas por su titular, que para el debido cumplimiento de las mismas podrá delegar funciones, en los términos de la normatividad aplicable.
+Ninguna persona de las obligadas por esta ley podrá ingresar ni permanecer en las instituciones de seguridad pública si no ha sido debidamente certificada, ya sea por los centros de control de confianza federales, por el Centro o por las unidades de control de confianza respectivamente de conformidad con las disposiciones legales aplicables en la materia, y así mismo deberá registrarse en las bases de datos de personal de seguridad pública administrados por la plataforma tecnológica nacional que se establezca para tal fin.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-###### Artículo 8.
+###### Artículo 7°.
 
-° La Fiscalía General en el ejercicio de sus atribuciones podrá requerir la intervención de las corporaciones policiales, quienes estarán obligadas a brindar el apoyo necesario dentro del ámbito de su competencia, atendiendo a sus capacidades de operatividad.
+Las facultades que este ordenamiento otorga a la Fiscalía General serán ejercidas por su titular, que para el debido cumplimiento de las mismas podrá delegar funciones, en los términos de la normatividad aplicable.
 
-###### Artículo 9.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-° Todos los vehículos blindados deberán estar inscritos en el registro que al efecto lleve a cabo el Consejo Estatal, conforme al reglamento respectivo.
+###### Artículo 8°.
+
+La Fiscalía General en el ejercicio de sus atribuciones podrá requerir la intervención de las corporaciones policiales, quienes estarán obligadas a brindar el apoyo necesario dentro del ámbito de su competencia, atendiendo a sus capacidades de operatividad.
+
+###### Artículo 9°.
+
+Todos los vehículos blindados deberán estar inscritos en el registro que al efecto lleve a cabo el Consejo Estatal, conforme al reglamento respectivo.
 
 ## Título Segundo. Del Sistema Estatal de Seguridad Pública
 
@@ -195,7 +193,7 @@ El Sistema Estatal de Seguridad Pública tiene por objeto desarrollar las bases 
 
 ###### Artículo 11.
 
-El Sistema Estatal de Seguridad Pública se integra con las instancias, instrumentos, políticas y acciones previstos en el presente título, tendientes a cumplir los objetivos y fines de la seguridad pública.
+El Sistema Estatal de Seguridad Pública se integra con las instancias, instrumentos, políticas y acciones previstos (sic) en el presente título, tendientes a cumplir los objetivos y fines de la seguridad pública.
 
 ###### Artículo 12.
 
@@ -245,7 +243,7 @@ III. Sistemas de seguimiento y control de aspirantes y personal operativo de los
 
 IV. Organización, administración, operación y modernización tecnológica de las instituciones de seguridad pública;
 
-V Las propuestas de aplicación de recursos para la seguridad pública, incluido el financiamiento conjunto;
+V. Las propuestas de aplicación de recursos para la seguridad pública, incluido el financiamiento conjunto;
 
 VI. Suministro, intercambio y sistematización, de forma permanente y periódica, de todo tipo de información sobre seguridad pública;
 
@@ -299,7 +297,9 @@ a) Los diputados presidentes de las comisiones legislativas de Seguridad Públic
 
 b) El Presidente del Supremo Tribunal de Justicia del Estado.
 
-IV. Los presidentes municipales de la zona metropolitana de Guadalajara, así como de cada una de las sedes de las regiones en que se integran los municipios del estado;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+IV. Los presidentes municipales del área metropolitana de Guadalajara, así como de cada una de las sedes de las regiones en que se integran los municipios del estado;
 
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2013)</small>
 
@@ -354,6 +354,22 @@ IV. Acreditar los exámenes de control de confianza, y
 V. Ser de reconocida capacidad y probidad, así como contar con experiencia comprobable en áreas de seguridad pública.
 
 La Secretaría Ejecutiva del Consejo Estatal y su personal adscrito dependerán administrativamente de la Secretaria General de Gobierno. El reglamento establecerá el personal que deberá acreditar los exámenes de control de confianza, para su ingreso, promoción y permanencia.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+###### Artículo 18 Bis.
+
+La Fiscalía de Reinserción Social tendrá a su cargo a los supervisores de libertad, quienes tendrán las siguientes atribuciones:
+
+I. Dar seguimiento a la ejecución de las sanciones penales, medidas de seguridad y restrictivas impuestas por el Juez de Ejecución fuera de los Centros Penitenciarios con motivo de la obtención de la libertad condicionada;
+
+II. Realizar los informes relativos al cumplimiento de las condiciones impuestas por el Juez de Ejecución;
+
+III. Coordinar y ejecutar la aplicación del seguimiento de los programas para las personas que gozan de la medida de libertad condicionada en términos de los que disponga la sentencia; y
+
+IV. Las demás que determine el Juez de Ejecución.
+
+La Fiscalía de Reinserción Social podrá celebrar convenios con dependencias o entidades federales o municipales, así como con organizaciones de la sociedad civil sin fines de lucro que estén certificadas de conformidad con las disposiciones aplicables, para coadyuvar en la supervisión de la libertad.
 
 ###### Artículo 19.
 
@@ -507,7 +523,7 @@ Los cuerpos de bomberos y protección civil tendrán el carácter de auxiliares 
 
 ###### Artículo 27.
 
-Se consideran como elementos operativos los integrantes de las instituciones de seguridad pública, procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5.° de esta ley.
+Se consideran como elementos operativos los integrantes de las instituciones de seguridad pública, procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5°. de esta ley.
 
 Los nombramientos a que se refiere el párrafo anterior tienen carácter confidenciales respecto a los datos personales y reservados en los demás datos cuando menos tres años posteriores a la terminación de la conclusión del servicio.
 
@@ -2592,3 +2608,11 @@ P.O. 27 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25893/LXI/16 QUE REFORMA LOS ARTÍCULOS 3, 26 Y 85 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26183/LXI/16 QUE REFORMA LOS ARTÍCULOS 3° Y 17 Y ADICIONA EL ARTÍCULO 18 BIS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del Poder Ejecutivo deberá realizar todas las modificaciones presupuestales y administrativas para dar cumplimiento con lo establecido en el presente decreto.
