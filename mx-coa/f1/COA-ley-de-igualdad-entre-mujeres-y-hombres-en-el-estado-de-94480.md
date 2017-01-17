@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2016-06-21"
+last_updated: "2017-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -223,31 +223,61 @@ Seguimiento y evaluación de los acuerdos.
 
 Se preverá que en el seguimiento y evaluación de los resultados que se obtengan por la ejecución de los convenios y acuerdos a que se refiere este capítulo, intervenga el área responsable de la Comisión de Derechos Humanos del Estado de Coahuila, en su calidad de responsable de la protección, observancia, promoción, estudio y divulgación de los derechos humanos en la entidad, de acuerdo con las atribuciones que su propia ley le confiere.
 
-### Capítulo tercero. Del Gobierno Estatal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ENERO DE 2017)</small>
+
+### Capítulo Tercero. Atribuciones de los Poderes Ejecutivo, Legislativo y Judicial del Estado
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
 ###### Artículo 16.
 
-Atribuciones del titular del Ejecutivo.
+Atribuciones de los tres poderes del Estado:
 
-Corresponde al titular del Ejecutivo:
+A.- Corresponde al Poder Ejecutivo:
 
 I. Conducir la política estatal en materia de igualdad entre mujeres y hombres;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
 II. Incorporar en el presupuesto de egresos del Estado la asignación de recursos para el cumplimiento de las normas y objetivos para el logro de la igualdad entre mujeres y hombres;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
 
 III. Crear, vigilar el cumplimiento y fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres por medio de instancias administrativas que promuevan la igualdad sustantiva mediante el enfoque de género;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+IV. Elaborar políticas públicas estatales cuyo eje rector sea la perspectiva de género y la transversalidad, con una proyección de mediano y largo alcance. Lo anterior debe estar armonizado con los programas nacionales para dar cumplimiento efectivo a esta ley; y
 
-IV. Elaborar políticas públicas estatales cuyo eje rector sea el enfoque de género y la transversalidad, con una proyección de mediano y largo alcance. Lo anterior debe estar armonizado con los programas nacionales para dar cumplimiento efectivo a esta ley; y
+V. Suscribir convenios a través de la Secretaría de las Mujeres, a fin de impulsar, fortalecer y promover la difusión y el conocimiento de la presente ley; así como, velar por el cumplimiento de la misma en el Estado en los ámbitos público y privado;
 
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2016)</small>
+VI. Coordinarse con las dependencias de la administración pública federal y municipal para promover la aplicación de la presente ley.
 
-V. Coordinarse con las dependencias de la administración pública federal y municipal para promover la aplicación de la presente ley.
+B.- Corresponde al Poder Legislativo:
+
+I. Aprobar y difundir normas que garanticen los derechos de igualdad entre mujeres y hombres, acordes a la inclusión social y la igualdad de oportunidades;
+
+II. Aprobar reformas que instauren la participación equilibrada de mujeres y hombres en las candidaturas electorales y en la toma de decisiones;
+
+III. Aprobar la aplicación de las normas y políticas que garanticen la igualdad de oportunidades entre mujeres y hombres, en el ámbito de su competencia;
+
+IV. Asegurar la asignación de presupuestos necesarios para cumplir con los objetivos de la Ley y fiscalizar su cumplimiento;
+
+V. Favorecer el trabajo legislativo con la perspectiva de género;
+
+VI. Difundir los tratados internacionales vinculantes al estado mexicano relacionados con esta materia; y
+
+VII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
+
+C.- Corresponde al Poder Judicial:
+
+I. Garantizar el acceso e impartición de justicia en igualdad de oportunidades entre mujeres y hombres, impulsando la modificación de concepciones, actitudes y valores discriminatorios de impartidores de justicia;
+
+II. Desarrollar programas de formación, capacitación y sensibilización del personal de impartición de justicia y quienes se desempeñen como funcionarios encargados de la aplicación de la ley, incorporando en dichos programas, contenidos sobre igualdad y derechos humanos de las mujeres y hombres y sus deberes;
+
+III. Implementar políticas que permitan el desarrollo de procedimientos justos, efectivos y oportunos en concordancia con los instrumentos internacionales firmados y ratificados por el estado mexicano, eliminando los obstáculos que existan para el acceso a la justicia, en particular de las mujeres rurales o de escasos recursos;
+
+IV. Vigilar que la impartición de justicia esté libre de prejuicios, parcialidad, pensamientos, actitudes y aspectos discriminatorios;
+
+V. Institucionalizar programas al personal de impartición de justicia incorporando contenidos sobre igualdad, derechos humanos de las mujeres, aplicación, conocimiento y cumplimiento de los tratados internacionales vinculantes para el estado mexicano;
+
+VI. Facilitar servicios periciales gratuitos, tratándose de mujeres y hombres que no puedan acceder a estos servicios, previo estudio socioeconómico realizado por la propia institución; y
+
+VII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
 ### Capítulo cuarto. De la Secretaría de las Mujeres
 
@@ -255,7 +285,7 @@ V. Coordinarse con las dependencias de la administración pública federal y mun
 
 Atribuciones de la Secretaría de las Mujeres.
 
-Corresponde a la Secretaria de las Mujeres:
+Corresponde a la Secretaría de las Mujeres:
 
 I. Formular, conducir y evaluar la política estatal en materia de igualdad entre mujeres y hombres:
 
@@ -271,13 +301,19 @@ VI. Promover en coordinación con las dependencias de la administración públic
 
 VII. Fomentar e instrumentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades, la participación equitativa entre hombres y mujeres en el ámbito social, económico, político, civil, cultural y familiar;
 
-VIII. Concertar acciones positivas en los ámbitos gubernamental y privado a fin de garantizar en el estado la igualdad de oportunidades;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-IX. Establecer vínculos de colaboración permanente con organismos públicos, privados para la efectiva aplicación y cumplimiento de la presente ley;
+VIII. Concertar acciones positivas en los ámbitos gubernamental, social y privado a fin de garantizar en el estado la igualdad de oportunidades;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+IX. Establecer vínculos de colaboración permanente con organismos públicos, sociales y privados para la efectiva aplicación y cumplimiento de la presente ley;
 
 X. Proponer al Ejecutivo Estatal las bases para la integración y funcionamiento del Sistema Estatal para la Igualdad entre Mujeres y Hombres;
 
-XI. Promover sin distingo partidistas la participación equilibrada entre mujeres y hombres con los cargos de elección popular;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XI. Promover y evaluar sin distingo partidistas (sic) la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
 
 XII. Conocer y resolver, a través de su titular o de la persona en quien se delegue dicha atribución, del procedimiento para la igualdad; y,
 
@@ -285,9 +321,17 @@ XII. Conocer y resolver, a través de su titular o de la persona en quien se del
 
 XIII. Formular un programa anual que tenga como objetivo la difusión trimestral a la ciudadanía sobre los derechos de las mujeres y la equidad de género en el Estado de Coahuila de Zaragoza.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XIV. Los demás que esta ley y otros ordenamientos aplicables le confieran.
+XIV. Suscribir los convenios necesarios para el cumplimiento de la presente ley.
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XV. Evaluar la aplicación de la presente ley en los ámbitos público y privado.
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XVI. Los demás que esta ley y otros ordenamientos aplicables le confieren.
 
 ### Capítulo quinto. De los municipios
 
@@ -453,7 +497,15 @@ VIII. Elaborar y recomendar estándares que garanticen la transmisión en los me
 
 IX. Concertar, con los medios de comunicación pública y privada, la adopción de medidas de autorregulación, a efecto de contribuir al cumplimiento de la presente ley, mediante la adopción progresiva de la transmisión de una imagen igualitaria, libre de estereotipos y plural de mujeres y hombres;
 
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
 X. Otorgar un reconocimiento a las empresas que se distingan por su alto compromiso con la igualdad entre mujeres y hombres;
+
+De acuerdo a los siguientes lineamientos:
+
+a) Dicho compromiso deberá ser acreditado por las empresas interesadas, que certificarán los avances en lo concerniente a la igualdad entre mujeres y hombres en: las relaciones laborales, políticas de comunicación, fomento de la igualdad sustantiva, propaganda no sexista, políticas de empleo, como: el reclutamiento e ingreso de personal, retribución, capacitación, promoción y distribución equilibrada entre mujeres y hombres en todas las plazas, prioritariamente en las de toma de decisiones.
+
+b) La Secretaría de las Mujeres será la encargada de llevar a cabo la evaluación de la información proporcionada para el otorgamiento de los reconocimientos;
 
 XI. Fomentar acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar y establecer los medios y mecanismos tendientes a la convivencia sin menoscabo del pleno desarrollo humano;
 
@@ -505,7 +557,7 @@ IV. Promover el desarrollo de programas y servicios, que fomenten la igualdad en
 
 Regulación del sistema estatal.
 
-La Secretaría las (sic) Mujeres, elaborará el proyecto de reglamento para el funcionamiento del sistema estatal y lo presentará a sus integrantes para su estudio y aprobación, en su caso.
+La Secretaría (sic) las Mujeres, elaborará el proyecto de reglamento para el funcionamiento del sistema estatal y lo presentará a sus integrantes para su estudio y aprobación, en su caso.
 
 ###### Artículo 33.
 
@@ -725,22 +777,6 @@ VIII. Integrar el principio de igualdad en la formación del personal del servic
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
 
-Artículo 47 bis. Será objetivo de la Política del Estado la eliminación de los estereotipos que fomentan la discriminación y la violencia contra las mujeres.
-
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
-
-Artículo 47 ter. Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
-
-I. Promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género;
-
-II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
-
-III. Vigilar la integración de una perspectiva de género en todas las políticas públicas;
-
-IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales; y
-
-V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
-
 ###### Artículo 46.
 
 Igualdad en la vida civil.
@@ -802,6 +838,26 @@ XII. Establecer los mecanismos para la atención de las víctimas en todos los t
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2016)</small>
 
 ### Capítulo sexto. Del derecho a la información y la participación social en materia de igualdad entre mujeres y hombres
+
+###### Artículo 47 Bis.
+
+Será objetivo de la Política del Estado la eliminación de los estereotipos que fomentan la discriminación y la violencia contra las mujeres.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2016)</small>
+
+###### Artículo 47 Ter.
+
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes desarrollarán las siguientes acciones:
+
+I. Promover acciones que contribuyan a erradicar toda discriminación, basada en estereotipos de género;
+
+II. Desarrollar actividades de concientización sobre la importancia de la igualdad entre mujeres y hombres;
+
+III. Vigilar la integración de una perspectiva de género en todas las políticas públicas;
+
+IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales; y
+
+V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
 
 ### Capítulo único. Autoridad competente y acciones en materia de observancia
 
@@ -1039,7 +1095,7 @@ HOMERO RAMOS GLORIA
 
 P.O. 22 DE MARZO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 394.- SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 17 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 394.- SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 17 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1075,7 +1131,7 @@ Se derogan todas las disposiciones que se opongan al siguiente Decreto
 
 P.O. 21 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 455.- SE REFORMA EL ARTÍCULO 20, MODIFICÁNDOSE LAS FRACCIONES V Y VI Y RECORRIÉNDOSE EL TEXTO Y LA NUMERACIÓN DE LAS ACTUALES, DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 455.- SE REFORMA EL ARTÍCULO 20, MODIFICÁNDOSE LAS FRACCIONES V Y VI Y RECORRIÉNDOSE EL TEXTO Y LA NUMERACIÓN DE LAS ACTUALES, DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1096,3 +1152,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación (sic)
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al siguiente Decreto.
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 613.- SE AGREGA LA FRACCIÓN V AL ARTÍCULO 16, Y SE RECORRE EL V AL (SIC) VI; SE REFORMA EL ARTÍCULO 17 EN SUS FRACCIONES VIII, IX, XI Y SE AGREGAN LAS FRACCIONES XIV Y XV, Y SE REFORMA EL ARTÍCULO 29 EN SU FRACCIÓN X DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 615.- SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO TERCERO, DEL TÍTULO II Y EL ARTÍCULO 16 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
