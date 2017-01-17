@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-presupuesto-y-gasto-publico-del-estado-de-puebla-91331"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2017-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91331&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
 
 Ley publicada en la Vigésima Primera Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -47,13 +47,19 @@ LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE PUEBLA.
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, su observancia es general, obligatoria, y tiene por objeto normar y regular las acciones relativas a la programación, presupuestación, asignación, ejercicio, control, seguimiento y evaluación del Gasto Público Estatal, los procedimientos de coordinación para el registro e información de estas materias, y corresponde su aplicación al Ejecutivo Estatal a través de la Secretaría, la cual dictará las normas para su aplicación.
+La presente Ley es de orden público, su observancia es general, obligatoria, y tiene por objeto normar y regular las acciones relativas a la programación, presupuestación, asignación, ejercicio, control, seguimiento, monitoreo y evaluación del Gasto Público Estatal, los procedimientos de coordinación para el registro e información de estas materias, y corresponde su aplicación al Ejecutivo Estatal a través de la Secretaría, la cual dictará las normas para su aplicación.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
 ###### Artículo 2.
 
-Los Ejecutores de Gasto en la administración de los Recursos Públicos estatales, deberán observar que se ejerzan con base en criterios de legalidad, honestidad, honradez, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, perspectiva de género y enfocados a la obtención de resultados.
+Los Ejecutores de Gasto en la administración de los Recursos Públicos estatales, deberán observar que se ejerzan con base en principios de legalidad, honestidad, honradez, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, rendición de cuentas, Perspectiva de Género y obtención de resultados que se deriven de la Programación Estratégica, del monitoreo y la evaluación del desempeño.
+
+Asimismo, en materia de responsabilidad hacendaria y financiera se sujetarán a las disposiciones establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y en la presente Ley para un manejo sostenible de sus finanzas públicas.
 
 ###### Artículo 3.
 
@@ -65,101 +71,265 @@ II. Afectaciones Presupuestales: Las ampliaciones y reducciones al Presupuesto d
 
 III. Ahorros Presupuestarios: Los remanentes de Recursos Públicos generados durante el periodo de vigencia del Presupuesto de Egresos, una vez que se ha dado cumplimiento a los objetivos y metas de los Programas Presupuestarios;
 
-IV. Asignaciones Presupuestales: La ministración que de los Recursos Públicos aprobados por el Congreso Local, mediante el Presupuesto de Egresos, realiza el Ejecutivo Estatal a través de la Secretaría a los Ejecutores de Gasto;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-V. Ayudas: Las aportaciones de Recursos Públicos en numerario o en especie otorgadas por el Gobierno del Estado a personas, instituciones y diversos sectores de la población para propósitos sociales en términos de esta Ley;
+IV. Asignaciones Presupuestales: La ministración que de los Recursos Públicos aprobados por el Congreso del Estado, mediante el Presupuesto de Egresos, realiza el Ejecutivo Estatal a través de la Secretaría a los Ejecutores de Gasto;
 
-VI. Clasificaciones del Presupuesto de Egresos del Estado: Es el orden y la distribución de las Asignaciones Presupuestales con el fin de sistematizar la orientación de los Recursos Públicos, registrar y analizar la estructura del Gasto Público, conforme a los criterios de la armonización contable;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-VII. Clasificador: El Clasificador por Objeto del Gasto para la Administración Pública Estatal, vigente;
+V. Ayudas: Las aportaciones de Recursos Públicos en numerario o en especie otorgadas por el Gobierno del Estado, a través de las Dependencias y Entidades a personas, instituciones y diversos sectores de la población para propósitos sociales en términos de esta Ley;
 
-VIII. Clasificador por Objeto del Gasto para la Administración Pública Estatal: El documento técnico normativo que permite registrar los gastos que se realizan en el proceso presupuestario. Resume, ordena y presenta los gastos programados en el Presupuesto, de acuerdo con la naturaleza de los bienes, servicios, activos y pasivos financieros. Alcanza a todas las transacciones que realizan las Dependencias y Entidades para obtener bienes y servicios que se utilizan en la prestación de servicios públicos y en la realización de Transferencias en el marco de la Ley;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-IX. Contraloría: La Secretaría de la Contraloría del Gobierno del Estado de Puebla;
+VI. Balance Presupuestario: La diferencia entre los Ingresos Totales incluidos en la Ley de Ingresos del Estado de Puebla, y los Gastos Totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-X. Contratos Multianuales: Aquellos suscritos para la realización de adquisiciones, arrendamientos, prestación de servicios u obra pública y servicios relacionados con la misma, autorizados por la Secretaría y que implican erogaciones para un mínimo de veinticuatro meses continuos;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XI. Contratos para la Instrumentación de Proyectos para Prestación de Servicios: Aquéllos suscritos para la realización de Proyectos para Prestación de Servicios;
+VII. Balance Presupuestario de Recursos Disponibles: La diferencia entre los Ingresos de Libre Disposición, incluidos en la Ley de Ingresos del Estado de Puebla, más el Financiamiento Neto y los gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-XII. Dependencias: Las previstas en la Ley Orgánica de la Administración Pública del Estado de Puebla, incluyendo sus respectivos órganos desconcentrados y las unidades administrativas que dependen directamente del Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XIII. Disponibilidad Presupuestaria: Los Recursos Públicos del Presupuesto de Egresos de los que disponen los Ejecutores de Gasto conforme a las ministraciones de los mismos, hasta que son aplicados o ejercidos a los conceptos de gasto correspondientes;
+VIII. Clasificaciones del Presupuesto de Egresos: Es el orden y la distribución de las Asignaciones Presupuestales con el fin de sistematizar la orientación de los Recursos Públicos, registrar y analizar la estructura del Gasto Público, conforme a las disposiciones en vigor de la contabilidad gubernamental;
 
-XIV. Economías Presupuestarias: Los remanentes de Recursos Públicos del Presupuesto de Egresos, no comprometidos al término del Ejercicio Fiscal;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XV. Ejecutivo Estatal: El Gobernador Constitucional del Estado Libre y Soberano de Puebla;
+IX. Clasificador: El Clasificador por Objeto del Gasto para la Administración Pública Estatal vigente, entendiéndose por éste el documento técnico-normativo que permite registrar los gastos que se realizan en el proceso presupuestario. Resume, ordena y presenta los gastos programados en el presupuesto, de acuerdo con la naturaleza de los bienes, servicios, activos y pasivos financieros. Engloba a todas las transacciones que realizan las Dependencias y Entidades para obtener bienes y servicios que se utilizan en la prestación de servicios públicos y en la realización de transferencias en el marco de la Ley;
 
-XVI. Ejecutores de Gasto: Los Poderes Legislativo y Judicial, los Organismos Constitucionalmente Autónomos, las Dependencias y Entidades que realizan erogaciones con cargo a Recursos Públicos, y en su caso, los Municipios;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XVII. Ejercicio Fiscal o Presupuestal: El periodo comprendido del primero de enero al treinta y uno de diciembre de cada año;
+X. Contraloría: La Secretaría de la Contraloría del Gobierno del Estado de Puebla;
 
-XVIII. Entidades: Las que conforman la Administración Pública Paraestatal a que se refiere la Ley Orgánica de la Administración Pública del Estado de Puebla y la Ley de Entidades Paraestatales del Estado de Puebla;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XIX. Fideicomisos Públicos: Aquéllos que autorice el Ejecutivo Estatal y se constituyan de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Puebla y la Ley de Entidades Paraestatales del Estado de Puebla, por conducto de la Secretaría como fideicomitente con Recursos Públicos, con el objeto de auxiliar a aquél en sus atribuciones, los cuales podrán contar con estructura orgánica que en su caso, permita considerar a la mayoría de su personal como servidores públicos del Estado y en cuyo Órgano de Gobierno participe la Dependencia coordinadora de sector que corresponda, dos o más Dependencias y Entidades, siendo facultad del Ejecutivo Estatal la designación del Director General o su equivalente;
+XI. Contratos Multianuales: Aquellos suscritos para la realización de adquisiciones, arrendamientos, prestación de servicios u obra pública y servicios relacionados con la misma, autorizados por la Secretaría y que implican obligaciones contractuales para un mínimo de veinticuatro meses continuos;
 
-XX. Fideicomisos Públicos no Constituidos como Entidades: Aquéllos que sean creados con Recursos Públicos, distintos a los constituidos de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Puebla y la Ley de Entidades Paraestatales del Estado de Puebla, los cuales no contarán con estructura orgánica y su operación y administración estará a cargo de la Dependencia coordinadora de sector o de la Dependencia o Entidad que hubiere gestionado su creación, debiendo participar invariablemente en su comité técnico, la Secretaría y la Contraloría, salvo que por la naturaleza del instrumento financiero, no cuente con dicho órgano;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXI. Gasto Comprometido: El momento contable del gasto, que refleja la aprobación por autoridad competente de un acto administrativo u otro instrumento jurídico que formaliza una relación jurídica con terceros, para la adquisición de bienes y servicios o ejecución de obras. En el caso de las obras a ejecutarse o de bienes y servicios a recibirse durante varios Ejercicios Fiscales, el compromiso será registrado por la parte que se ejecutará o recibirá durante cada Ejercicio Presupuestal;
+XII. Contratos para la Instrumentación de Proyectos para Prestación de Servicios: Aquellos suscritos para la realización de Proyectos para Prestación de Servicios;
 
-XXII. Gasto Corriente: Las erogaciones en bienes y servicios destinados a la ejecución de los Programas Presupuestarios y actividades institucionales a cargo de las Dependencias y Entidades. Incluye los Recursos Públicos que se ministran como Transferencias a los Poderes, Organismos Autónomos y a Entidades para financiar Gasto Corriente; los Subsidios aprobados; pensiones y jubilaciones, y las Ayudas otorgadas a la población y a los sectores social y privado;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXIII. Gasto Devengado: Es el derivado del registro que hace el Ejecutor de Gasto en el Sistema de Contabilidad Gubernamental, de la información necesaria para generar la orden de pago a favor de terceros por la recepción de conformidad, de bienes, servicios y obras contratadas, así como de las obligaciones que derivan de tratados, leyes, decretos, resoluciones y sentencias definitivas;
+XIII. Criterios Generales de Política Económica: El documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación;
 
-XXIV. Gasto de Inversión: Son las asignaciones de Recursos Públicos destinadas a la adquisición y construcción de bienes de capital (bienes muebles e inmuebles y obra pública), o a la conservación de los ya existentes y a la adquisición de valores financieros, así como, los recursos transferidos a otros sectores para los mismos fines, que contribuyan a acrecentar y conservar los activos fijos patrimoniales o financieros del Gobierno del Estado. Incluye las erogaciones destinadas a cubrir la amortización de la deuda pública derivada de la contratación de créditos con instituciones nacionales;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXV. Gasto de Operación: El conjunto de erogaciones que se realizan para adquirir los bienes y servicios necesarios que permiten el funcionamiento permanente y regular de la Administración Pública Estatal. Estas erogaciones se registran en las partidas que corresponden a los Capítulos "Materiales y Suministros" y "Servicios Generales", del Clasificador;
+XIV. Dependencias: Las previstas en la Ley Orgánica de la Administración Pública del Estado de Puebla, incluyendo sus respectivos órganos desconcentrados y las unidades administrativas que dependen directamente del Ejecutivo Estatal;
 
-XXVI. Gasto No Programable: Las erogaciones a cargo del Estado, que derivan del cumplimiento de obligaciones legales o del Presupuesto de Egresos, que no corresponden directamente a los programas para proveer bienes y servicios públicos a la población;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXVII. Gasto Programable: Los Recursos Públicos que se destinan al cumplimiento de los fines y funciones propias del Estado, por lo cual están directamente relacionados con los programas a cargo de los Ejecutores de Gasto previamente establecidos, para alcanzar los objetivos y metas, que tienen un efecto directo en la actividad económica y social;
+XV. Disciplina Financiera: La observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de Obligaciones por los Entes Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero;
 
-XXVIII. Gasto Público: Las erogaciones que con cargo a Recursos Públicos realizan los Ejecutores de Gasto;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXIX. Impacto Presupuestal: Es el costo total por Ejercicio Fiscal que generaría para el erario estatal la aplicación de nuevas leyes, decretos, reglamentos, convenios y demás documentos análogos que deba suscribir el Ejecutivo Estatal;
+XVI. Disponibilidad Presupuestaria: Los Recursos Públicos del Presupuesto de Egresos de los que disponen los Ejecutores de Gasto conforme a las ministraciones de los mismos, hasta que son comprometidos o devengados, conforme a los conceptos previstos de gasto correspondientes;
 
-XXX. Indicador: Instrumento que permite medir el logro de los objetivos de los Programas Presupuestarios y un referente para el seguimiento de los avances y para la evaluación de los resultados alcanzados;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXXI. Ingresos Excedentes: Los Recursos Públicos que durante el Ejercicio Fiscal se obtienen adicionalmente a los aprobados en la Ley de Ingresos del Estado de Puebla, vigente;
+XVII. Economías Presupuestarias: Los remanentes de Recursos Públicos del Presupuesto de Egresos no comprometidos al término del Ejercicio Fiscal;
 
-XXXII. Ingresos Extraordinarios: Aquéllos cuya percepción se establezca excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso, los que autorice el Ejecutivo Estatal, y previo acuerdo con éste, el Secretario de Finanzas. Dentro de esta categoría quedan comprendidas las donaciones, legados, herencias y reintegros, las aportaciones extraordinarias y de mejoras, así como los de financiamientos que obtenga el Gobierno del Estado, y los que deriven de los programas especiales que instrumente el mismo;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXXIII. Ingresos Propios: Los Recursos Públicos que por cualquier concepto obtengan las Entidades, distintos a los previstos en la Ley de Ingresos del Estado de Puebla para el Ejercicio Fiscal correspondiente, que reciben por Transferencias con cargo al Presupuesto de Egresos y que deberán considerarse en su presupuesto de ingresos y en sus estados financieros;
+XVIII. Ejecutivo Estatal: El Gobernador Constitucional del Estado Libre y Soberano de Puebla;
 
-XXXIV. Ley: La Ley de Presupuesto y Gasto Público del Estado de Puebla;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXXV. Matriz de Indicadores para Resultados: Herramienta de planeación estratégica que expresa en forma sencilla, ordenada y homogénea, la lógica interna de los Programas Presupuestarios, a la vez que alinea su contribución a los ejes de política pública y objetivos del Plan Estatal de Desarrollo y sus programas derivados;
+XIX. Ejecutores de Gasto: Los Poderes Legislativo y Judicial, los Organismos Constitucionalmente Autónomos, las Dependencias y Entidades que realizan erogaciones con cargo a Recursos Públicos, y en su caso, los Municipios; así como cualquier otro ente sobre el que el Gobierno del Estado y los Municipios tengan control sobre sus decisiones o acciones;
 
-XXXVI. Organismos Constitucionalmente Autónomos: Aquéllos que con esta naturaleza prevea la Constitución Política del Estado Libre y Soberano de Puebla;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXXVII. Órganos de Gobierno: Las Juntas, Consejos y Comités Directivos o cualquier Órgano Colegiado o figura creada conforme a la legislación correspondiente, encargada de conducir las actividades sustantivas y administrativas de las Entidades;
+XX. Ejercicio Fiscal o Presupuestal: El periodo comprendido del primero de enero al treinta y uno de diciembre de cada año;
 
-XXXVIII. Poder Judicial: El Honorable Tribunal Superior de Justicia del Estado, la Junta de Administración del Poder Judicial del Estado y los Juzgados correspondientes;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XXXIX. Poder Legislativo: El Honorable Congreso del Estado y la Auditoría Superior del Estado de Puebla, como una unidad dependiente del mismo;
+XXI. Entidades: Las que conforman la Administración Pública Paraestatal a que se refiere la Ley Orgánica de la Administración Pública del Estado de Puebla y la Ley de Entidades Paraestatales del Estado de Puebla;
 
-XL. Presupuesto basado en Resultados: Instrumento metodológico y el modelo de cultura organizacional cuyo objetivo es que los Recursos Públicos se asignen prioritariamente a los programas que generan más beneficios a la población y que se corrija el diseño de aquellos que no están funcionando correctamente;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XLI. Presupuesto de Egresos: Es el documento jurídico, contable y de política fiscal, que aprueba el Congreso Local, a iniciativa del Gobernador del Estado, en el cual se consigna, de acuerdo con su naturaleza y cuantía, el Gasto Público, que deben ejercer los Poderes Legislativo y Judicial, las Dependencias y Entidades de la Administración Pública Estatal y los Organismos Constitucionalmente Autónomos, en el desempeño de sus funciones en un Ejercicio Fiscal, para realizar los programas y proyectos de producción de bienes y prestación de servicios públicos y el fomento de la actividad económica y social;
+XXII. Estructura Programática: Conjunto de categorías y elementos programáticos ordenados en forma coherente, el cual define las acciones que efectúan los Ejecutores de Gasto para alcanzar sus objetivos y metas de acuerdo con las políticas definidas en el Plan Estatal de Desarrollo y aquéllos que de él deriven, y en los Programas Presupuestarios, así como ordena y clasifica las acciones de los Ejecutores de Gasto para delimitar la aplicación del gasto y permite conocer los resultados esperados de la utilización de los Recursos Públicos;
 
-XLII. Programa Presupuestario: Categoría programática-presupuestal que permite organizar, en forma representativa y homogénea las actividades integradas y articuladas que proveen productos (bienes y servicios), tendientes a lograr un resultado y beneficio en una población objetivo;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XLIII. Proyectos de Inversión: Aquellos proyectos, convenios, contratos o concesiones, relacionados con obra pública, bienes, adquisiciones o servicios que celebre el Gobierno del Estado, los Organismos Públicos Descentralizados, las Empresas de Participación Estatal Mayoritaria o los Fideicomisos Públicos considerados Entidades Paraestatales, de conformidad con la legislación aplicable, que tienen por objeto obtener directa o indirectamente un beneficio social y que resultan en una ventaja financiera frente a otras formas de contratación;
+XXIII. Fideicomisos Públicos: Aquéllos que autorice el Ejecutivo Estatal y se constituyan con Recursos Públicos de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Puebla y la Ley de Entidades Paraestatales del Estado de Puebla, por conducto de la Secretaría como fideicomitente, con el objeto de auxiliar a aquél en sus atribuciones, los cuales podrán contar con estructura orgánica que en su caso, permita considerar a la mayoría de su personal como servidoras y servidores públicos del Estado y en cuyo Órgano de Gobierno participen dos o más Dependencias y Entidades, incluida la Dependencia coordinadora de sector a la que pertenezca, correspondiendo al Ejecutivo Estatal la designación del Director General o su equivalente;
 
-XLIV. Proyecto para Prestación de Servicios: Proyecto en que un Inversionista Proveedor se obliga a prestar, a largo plazo, con financiamiento privado, uno o varios servicios consistentes de manera enunciativa en el diseño, disponibilidad de espacio, operación, mantenimiento o administración, sobre bienes propios o de un tercero, incluyendo el sector público, o provea dichos activos por sí o a través de un tercero, incluyendo el sector público, a cambio de una contraprestación pagadera por la contratante por los servicios proporcionados. Para efectos de esta fracción, se entenderá como largo plazo, aquellos que involucran diversos Ejercicios Fiscales;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XLV. Recursos Públicos: Los recursos humanos, materiales y financieros que por cualquier concepto obtengan, contraten, dispongan o apliquen los Ejecutores de Gasto;
+XXIV. Fideicomisos Públicos no Constituidos como Entidades: Aquéllos que sean creados con Recursos Públicos, distintos a los constituidos de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Puebla y la Ley de Entidades Paraestatales del Estado de Puebla, los cuales no contarán con estructura orgánica, por lo que su operación y administración, así como el cumplimiento de obligaciones a que estén sujetos este tipo de fideicomisos en términos de la legislación que les resulte aplicable, correrá a cargo de la Dependencia o Entidad que hubiere gestionado su creación y/o aquella que tenga conferidas atribuciones afines al objeto del Fideicomiso, debiendo participar invariablemente en su comité técnico, la Secretaría y la Contraloría, salvo que por la naturaleza del instrumento financiero, no cuente con dicho órgano;
 
-XLVI. Resultados: Son el conjunto de servicios y bienes que se generan por la acción gubernamental y que generan beneficios concretos y medibles en los niveles de bienestar de la ciudadanía;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XLVII. Secretaría: La Secretaría de Finanzas del Gobierno del Estado de Puebla;
+XXV. Financiamiento: Toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los entes públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, celebrado con instituciones financieras en los casos que proceda, independientemente de la forma mediante la que se instrumente;
 
-XLVIII. Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permitan realizar una valoración objetiva del desempeño de programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión, que permitan conocer el impacto social de los Programas Presupuestarios y de los proyectos;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-XLIX. Subsidios: Las asignaciones de Recursos Públicos que se destinan al desarrollo de actividades productivas prioritarias consideradas de interés general, así como proporcionar a usuarios y consumidores, bienes y servicios básicos a precios y tarifas por debajo de los del mercado o de forma gratuita y su otorgamiento no implica contraprestación alguna;
+XXVI. Financiamiento Neto: La diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la Deuda Pública;
 
-L. Suficiencia Presupuestaria: La capacidad de Recursos Públicos de un Ejecutor de Gasto en función de las Asignaciones Presupuestales autorizadas en esta Ley y durante el Ejercicio Fiscal correspondiente, para el desarrollo de los Programas Presupuestarios a su cargo; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-LI. Transferencias: Los Recursos Públicos previstos en el Presupuesto de Egresos para el cumplimiento de los objetivos y metas de los Programas Presupuestarios y la prestación de los bienes y servicios públicos a cargo de los Poderes, Organismos Constitucionalmente Autónomos y Entidades Apoyadas.
+XXVII. Gasto Comprometido: El momento contable del gasto, que refleja la aprobación por autoridad competente de un acto administrativo u otro instrumento jurídico que formaliza una relación jurídica con terceros, para la adquisición de bienes y servicios o ejecución de obras. En el caso de las obras a ejecutarse o de bienes y servicios a recibirse durante varios Ejercicios Fiscales, el compromiso será registrado por la parte que se ejecutará o recibirá durante cada Ejercicio Presupuestal;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXVIII. Gasto Corriente: Las erogaciones en bienes y servicios destinados a la ejecución de los Programas Presupuestarios y actividades institucionales a cargo de las Dependencias y Entidades. Incluye los Recursos Públicos que se ministran como Transferencias a los Poderes, Organismos Constitucionalmente Autónomos y a Entidades para financiar Gasto Corriente; los subsidios aprobados; pensiones y jubilaciones, y las Ayudas otorgadas a la población y a los sectores social y privado;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXIX. Gasto Devengado: El momento contable derivado del registro que hace el Ejecutor de Gasto en el Sistema Automatizado de Administración y Contabilidad Gubernamental de la información necesaria para generar la orden de pago a favor de terceros por la recepción a entera satisfacción de bienes, servicios y obras contratadas, así como de las obligaciones que derivan de tratados, leyes, decretos, resoluciones y sentencias definitivas;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXX. Gasto de Inversión: Son las asignaciones de Recursos Públicos destinadas a la adquisición y construcción de bienes de capital (bienes muebles e inmuebles y obra pública), o a la conservación de los ya existentes y a la adquisición de valores financieros, así como, los recursos transferidos a otros sectores para los mismos fines, que contribuyan a acrecentar y conservar los activos fijos patrimoniales o financieros del Gobierno del Estado. Incluye las erogaciones destinadas a cubrir la amortización de la deuda pública derivada de la contratación de financiamiento con instituciones nacionales;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXI. Gasto de Operación: El conjunto de erogaciones que se realizan para adquirir los bienes y servicios necesarios que permiten el funcionamiento permanente y regular de la Administración Pública Estatal. Estas erogaciones se registran en las partidas que corresponden a los capítulos "Materiales y Suministros" y "Servicios Generales", del Clasificador;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXII. Gasto Etiquetado: Las erogaciones que realizan los Ejecutores de Gasto y los Municipios con cargo a las Transferencias Federales Etiquetadas. En el caso de los Municipios, adicionalmente se incluyen las erogaciones que realizan con recursos de la Entidad Federativa con un destino específico;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXIII. Gasto No Etiquetado: Las erogaciones que realizan los Ejecutores de Gasto y los Municipios con cargo a sus Ingresos de Libre Disposición y Financiamientos. En el caso de los Municipios, se excluye el gasto que realicen con recursos de la Entidad Federativa con un destino específico;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXIV. Gasto No Programable: Las erogaciones a cargo del Gobierno del Estado, que derivan del cumplimiento de obligaciones legales o del Presupuesto de Egresos, que no corresponden directamente a los programas para proveer bienes y servicios públicos a la población;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXV. Gasto Programable: Los Recursos Públicos que se destinan al cumplimiento de los fines y funciones propias del Gobierno del Estado, para lo cual están directamente relacionados con los programas a cargo de los Ejecutores de Gasto previamente establecidos, para alcanzar los objetivos y metas, que tienen un efecto directo en la actividad económica y social;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXVI. Gasto Público: Las erogaciones que con cargo a Recursos Públicos realizan los Ejecutores de Gasto;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXVII. Gasto Total: La totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos del Estado de Puebla vigente, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXVIII. Impacto Presupuestal: Es el costo total por Ejercicio Fiscal que generaría para el erario estatal la aplicación de nuevas leyes, decretos, reglamentos, convenios y demás documentos análogos que deba suscribir el Ejecutivo Estatal;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XXXIX. Indicador: Instrumento que permite medir el logro de los objetivos de los Programas Presupuestarios y un referente para el seguimiento de los avances y para la evaluación de los resultados alcanzados;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XL. Ingresos de Libre Disposición: Los Ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLI. Ingresos Excedentes: Los Recursos Públicos que durante el Ejercicio Fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos del Estado de Puebla vigente;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLII. Ingresos Extraordinarios: Aquéllos cuya percepción se establezca excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso, los que autorice el Ejecutivo Estatal o la o el Titular de la Secretaría de Finanzas y Administración. Dentro de esta categoría quedan comprendidas las donaciones, legados, herencias y reintegros, las aportaciones extraordinarias y de mejoras, así como los de financiamientos que obtenga el Gobierno del Estado, y de los programas especiales que instrumente el mismo;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLIII. Ingresos Propios: Los Recursos Públicos que por cualquier concepto obtengan las Entidades, distintos a los que reciben por Transferencias con cargo al Presupuesto de Egresos, así como a los previstos en la Ley de Ingresos del Estado de Puebla vigente;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLIV. Ingresos Totales: La totalidad de los Ingresos de Libre Disposición, las Transferencias Federales Etiquetadas y el Financiamiento Neto;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLV. Ley: La Ley de Presupuesto y Gasto Público del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLVI. Metodología de Marco Lógico (MML): Herramienta de Programación Estratégica basada en la estructuración y solución de problemas, que permite organizar de manera sistemática y lógica los objetivos de un programa y sus relaciones de causalidad; identificar y definir los factores externos al programa que pueden influir en el cumplimiento de los objetivos; evaluar el avance en la consecución de los mismos, así como examinar el desempeño del programa en todas sus etapas;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLVII. Oficio de Autorización: Documento mediante el cual el Ejecutivo Estatal, por conducto de la Secretaría, autoriza los Recursos Públicos previstos en los Programas Presupuestarios a cargo de los Ejecutores de Gasto, especificando el concepto, fuente de los recursos, partida, tipo de gasto y monto.
+
+Este oficio únicamente informa la Suficiencia Presupuestaria de acuerdo a las atribuciones conferidas en la Ley Orgánica de la Administración Pública del Estado de Puebla y en el Reglamento Interior de la Secretaría de Finanzas y Administración para cubrir el concepto requerido conforme a la solicitud de los Ejecutores de Gasto; sin implicar ninguna responsabilidad relacionada con el ejercicio presupuestal, manejo, uso, aplicación o comprobación del recurso por parte de la autoridad que lo emite;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLVIII. Organismos Constitucionalmente Autónomos: Aquéllos que con esta naturaleza prevea la Constitución Política del Estado Libre y Soberano de Puebla;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XLIX. Órganos de Gobierno: Las Juntas, Consejos y Comités Directivos o cualquier Órgano Colegiado o figura creada conforme a la legislación correspondiente, encargada de conducir las actividades sustantivas y administrativas de las Entidades;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+L. Perspectiva de Género: Concepto utilizado en la Programación Estratégica del gasto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las mujeres, que se pretenden justificar con base en las diferencias biológicas entre mujeres y hombres, así como en las acciones que deben emprenderse para crear las condiciones de cambio que permitan solucionar los desequilibrios que existen entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LI. Poder Judicial: El Honorable Tribunal Superior de Justicia del Estado, la Junta de Administración del Poder Judicial del Estado y los Juzgados correspondientes;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LII. Poder Legislativo: El Honorable Congreso del Estado y la Auditoría Superior del Estado de Puebla, como una unidad dependiente del mismo;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LIII. Presupuesto basado en Resultados (PbR): Instrumento metodológico cuyo objetivo es que los Recursos Públicos se asignen prioritariamente a los programas que generan beneficios a la población y que se corrija el diseño de aquellos que sean susceptibles de mejora. Un presupuesto con enfoque en el logro de resultados consiste en que los órganos públicos establezcan de manera puntual los objetivos que se alcanzarán con los recursos que se asignen a sus respectivos programas y que el grado de consecución de dichos objetivos pueda ser efectivamente confirmado;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LIV. Presupuesto con Perspectiva de Género: Presupuesto que incorpora las necesidades, derechos y obligaciones diferenciales de mujeres y hombres en el reparto de los Recursos Públicos;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LV. Presupuesto de Egresos: Es el documento jurídico, contable y de política fiscal, que aprueba el Congreso Local, a iniciativa del Gobernador del Estado, en el cual se consigna, de acuerdo con su naturaleza y cuantía, el Gasto Público, que deben ejercer los Poderes Legislativo y Judicial, las Dependencias y Entidades de la Administración Pública Estatal y los Organismos Constitucionalmente Autónomos, en el desempeño de sus funciones en un Ejercicio Fiscal, para realizar los programas y proyectos de producción de bienes y prestación de servicios públicos y el fomento de la actividad económica y social;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LVI. Programa Presupuestario: Categoría programática-presupuestal que permite organizar, en forma representativa y homogénea las actividades integradas y articuladas que proveen productos (bienes y servicios), tendientes a lograr un resultado y beneficio en una población objetivo;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LVII. Programación Estratégica: Proceso por el cual se programan las acciones gubernamentales con base en la Metodología de Marco Lógico y del establecimiento de indicadores estratégicos, que permitan medir la generación del valor público, considerando las necesidades y requerimientos de la población desagregada por mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LVIII. Proyectos de Inversión: Aquellos proyectos, convenios, contratos o concesiones, relacionados con obra pública, bienes, adquisiciones o servicios que celebre el Gobierno del Estado, los Organismos Públicos Descentralizados, las Empresas de Participación Estatal Mayoritaria o los Fideicomisos Públicos considerados Entidades Paraestatales, de conformidad con la legislación aplicable, que tienen por objeto obtener directa o indirectamente un beneficio social y que resultan en una ventaja financiera frente a otras formas de contratación;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LIX. Proyecto para Prestación de Servicios: Proyecto en que un Inversionista Proveedor se obliga a prestar, a largo plazo, con recursos privados, uno o varios servicios consistentes de manera enunciativa en el diseño, disponibilidad de espacio, operación, mantenimiento o administración, sobre bienes propios o de un tercero, incluyendo el sector público, o provea dichos activos por sí o a través de un tercero, incluyendo el sector público, a cambio de una contraprestación pagadera por la contratante por los servicios proporcionados.
+
+Para efectos de esta fracción, se entenderá como largo plazo, aquéllos que involucran diversos Ejercicios Fiscales;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LX. Recursos Públicos: Los recursos humanos, materiales y financieros que por cualquier concepto obtengan, contraten, dispongan o apliquen los Ejecutores de Gasto;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LXI. Resultados: Son el conjunto de servicios y bienes que se generan por la acción gubernamental y que otorgan beneficios concretos y medibles en los niveles de bienestar de mujeres y hombres, de acuerdo a sus necesidades e intereses;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LXII. Secretaría: La Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LXIII. Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permitan realizar una valoración objetiva del desempeño de programas, bajo el principio de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión, que permitan conocer el impacto social de los Programas Presupuestarios y de los proyectos;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LXIV. Subsidios: Las asignaciones de Recursos Públicos que se destinan al desarrollo de actividades productivas prioritarias consideradas de interés general, así como proporcionar a usuarios y consumidores, bienes y servicios básicos a precios y tarifas por debajo de los del mercado o de forma gratuita y su otorgamiento no implica contraprestación alguna;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LXV. Suficiencia Presupuestaria: La capacidad de Recursos Públicos de un Ejecutor de Gasto en función de las Asignaciones Presupuestales autorizadas en esta Ley y durante el Ejercicio Fiscal correspondiente, para el desarrollo de los Programas Presupuestarios a su cargo;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LXVI. Transferencias: Los Recursos Públicos previstos en el Presupuesto de Egresos para el cumplimiento de los objetivos y metas de los Programas Presupuestarios y la prestación de los bienes y servicios públicos a cargo de los Poderes, Organismos Constitucionalmente Autónomos y Entidades Apoyadas; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+LXVII. Transferencias Federales Etiquetadas: Los recursos que reciben de la Federación las Entidades Federativas y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación.
 
 ###### Artículo 4.
 
@@ -171,21 +341,35 @@ II. El Poder Judicial;
 
 III. Los Organismos Constitucionalmente Autónomos;
 
-IV. Las Dependencias; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-V. Las Entidades.
+IV. Las Dependencias;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+V. Las Entidades, y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+VI. Cualquier otro ente sobre el que el Gobierno del Estado y los Municipios tengan control sobre sus decisiones o acciones.
 
 Los Ejecutores de Gasto antes mencionados están obligados a rendir cuentas por la administración de los Recursos Públicos en términos de la presente Ley y demás disposiciones aplicables.
 
-En el supuesto que los Municipios ejerzan Recursos Públicos estatales, observarán en lo conducente las disposiciones contenidas en la presente Ley.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+Cuando los Municipios ejerzan Recursos Públicos transferidos por el Gobierno del Estado, deberán cumplir con las obligaciones de los Ejecutores de Gasto establecidas en la presente Ley, así como las derivadas de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2017)</small>
 
 ###### Artículo 5.
 
-La Secretaría será la instancia competente en el ámbito del Poder Ejecutivo en materia de programación, presupuestación, ejercicio, control, seguimiento y evaluación del Gasto Público para lo cual, sin perjuicio de lo que establecen otras disposiciones legales, deberá:
+La Secretaría será la instancia competente en el ámbito del Poder Ejecutivo en materia de programación, presupuestación, ejercicio, control, seguimiento, monitoreo y evaluación del Gasto Público para lo cual, sin perjuicio de lo que establecen otras disposiciones legales, deberá:
 
 I. Emitir el conjunto de las políticas, normas y lineamientos para la programación, presupuestación, asignación, ejercicio, control, seguimiento y evaluación de los Recursos Públicos al que deben sujetarse los Ejecutores de Gasto;
 
-II. Formular y emitir lineamientos para definir la estructura presupuestal que contenga la clave presupuestaria, así como la estructura programática correspondiente aplicable a los Ejecutores de Gasto;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+II. Formular y emitir lineamientos para definir la Estructura Programática aplicable a los Ejecutores de Gasto;
 
 III. Aprobar los Programas Presupuestarios que propongan los Ejecutores de Gasto;
 
@@ -221,11 +405,13 @@ Las Dependencias orientarán y coordinarán la programación, presupuestación y
 
 Los Ejecutores de Gasto, a través de sus áreas administrativas serán los encargados de programar y presupuestar el Gasto Público para el desarrollo de sus Programas Presupuestarios y presentarán sus propuestas a la Secretaría.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 10.
 
-Los Ejecutores de Gasto a que se refieren las fracciones IV y V del artículo 4 de esta Ley, sólo podrán concertar financiamientos o empréstitos para financiar programas incluidos en su presupuesto, que hayan sido debidamente autorizados por el Congreso del Estado y la Secretaría, según corresponda.
+Los Ejecutores de Gasto a que se refiere el artículo 4 de esta Ley, sólo podrán contraer obligaciones o Financiamientos de conformidad con lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley de Deuda Pública para el Estado Libre y Soberano de Puebla y demás disposiciones aplicables.
 
-En todos los casos, se deberán tomar en consideración las bases, montos y conceptos que establezca el Congreso del Estado, en los términos de la Constitución Política del Estado Libre y Soberano de Puebla.
+En todos los casos, se deberán tomar en consideración las bases, montos máximos y conceptos que establezca el Congreso del Estado, en los términos de la Constitución Política del Estado Libre y Soberano de Puebla, así como, en la Ley de Deuda Pública para el Estado Libre y Soberano de Puebla y demás disposiciones aplicables.
 
 ###### Artículo 11.
 
@@ -261,7 +447,9 @@ V. Los convenios y acuerdos de coordinación y concertación celebrados con el G
 
 Los Programas Presupuestarios, deberán contener:
 
-I. Los objetivos, sus indicadores de desempeño y metas que se pretendan alcanzar, determinados conforme a la Matriz de Indicadores para Resultados;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+I. Los objetivos, sus indicadores de desempeño y metas que se pretendan alcanzar, determinados conforme a la Metodología del Marco Lógico;
 
 II. Los bienes y servicios que se generen, así como los beneficiarios, identificando el género, las legiones y los grupos vulnerables a atender;
 
@@ -275,9 +463,11 @@ VI. La calendarización del Gasto Público de conformidad con las clasificacione
 
 VII. La demás información y previsiones que se estimen necesarias.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 15.
 
-Los Municipios en el ámbito de su respectiva competencia, sin menoscabo de su autonomía, podrán realizar las acciones a que se refieren los artículos 12, 13 y 14 de la presente Ley para integrar sus respectivos Presupuestos de Egresos.
+Los Municipios en el ámbito de su respectiva competencia, sin menoscabo de su autonomía, aplicarán en lo conducente las acciones a que se refieren los artículos 12, 13 y 14 de la presente Ley para integrar sus respectivos Presupuestos de Egresos.
 
 ###### Artículo 16.
 
@@ -293,21 +483,35 @@ La Ley de Ingresos del Estado de Puebla vigente, será la que apruebe el Congres
 
 La Secretaría en los términos que señalen las disposiciones legales aplicables, será la encargada de recaudar, concentrar y administrar los ingresos del erario estatal para sustentar el ejercicio del gasto establecido en los presupuestos de egresos, salvo los casos que expresamente determinen las leyes, decretos o reglamentos.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 19.
 
-El Ejecutivo Estatal, por conducto de la Secretaría, formulará el proyecto de Ley de Ingresos.
+El Ejecutivo Estatal, por conducto de la Secretaría, formulará la iniciativa de Ley de Ingresos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2017)</small>
 
 ###### Artículo 20.
 
-El proyecto de Ley de Ingresos contendrá:
+La iniciativa de Ley de Ingresos contendrá:
 
 I. La exposición de motivos en la que se señale:
 
-a) La estimación de los ingresos totales para el Gobierno del Estado del Ejercicio Fiscal para el que se presupuesta;
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
-b) Los ingresos provenientes de la coordinación fiscal; y
+a) La estimación de los Ingresos Totales para el Gobierno del Estado del Ejercicio Fiscal para el que se presupuesta;
 
-c) Las expectativas de ingresos por financiamiento.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+b) Los ingresos provenientes de la coordinación fiscal;
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+c) Las expectativas de ingresos por financiamiento; y
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+d) Los elementos previstos en el artículo 5 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios que resulten aplicables, además, conforme a las normas que para tal efecto emita el Consejo Nacional de Armonización Contable.
 
 II. El monto de los ingresos previstos para cada uno de los conceptos de la Ley;
 
@@ -317,7 +521,13 @@ IV. Los demás ingresos a recaudar.
 
 No se tomarán en cuenta los Ingresos Extraordinarios.
 
-Los Municipios en el ámbito de su respectiva competencia, sin menoscabo de su autonomía en la integración de su proyecto de Ley de Ingresos, podrán aplicar en lo conducente lo dispuesto en el presente artículo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 17 DE ENERO DE 2017)</small>
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+###### Artículo 20 Bis.
+
+Los Municipios en el ámbito de su respectiva competencia, sin menoscabo de su autonomía en la integración de su iniciativa de Ley de Ingresos, aplicarán en lo conducente lo dispuesto en el artículo 20 de la presente Ley, así como, en el artículo 18 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 21.
 
@@ -333,7 +543,9 @@ El proyecto de Presupuesto de Ingresos del Gobierno del Estado, para que pueda i
 
 Cuando por cualquier causa no sea aprobada por el Congreso del Estado la Ley de Ingresos antes del primero de enero del año en que deba entrar en vigor, se aplicará la del ejercicio inmediato anterior en tanto se emite la del Ejercicio Fiscal correspondiente.
 
-### CAPÍTULO III. DEL PRESUPUESTO DE EGRESOS DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ENERO DE 2017)</small>
+
+### CAPÍTULO III. DEL PRESUPUESTO DE EGRESOS
 
 ###### Artículo 24.
 
@@ -347,9 +559,11 @@ La Secretaría, verificará que los anteproyectos de presupuestos de egresos que
 
 El Presupuesto de Egresos, estará contenido en la Ley de Egresos que apruebe el Congreso del Estado, a iniciativa del Ejecutivo Estatal, para expensar durante el período del 1 de enero al 31 de diciembre del Ejercicio Fiscal correspondiente, las actividades, las obras y los servicios públicos previstos en los Programas Presupuestarios a cargo de los Ejecutores de Gasto que en el propio presupuesto se señalen. Los programas que comprendan más de un Ejercicio Presupuestario, se sujetarán a las asignaciones que se consignen en el Presupuesto de cada año.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 27.
 
-El Presupuesto de Egresos incluirá las previsiones del Gasto Público que habrán de realizar los Ejecutores de Gasto, manteniendo el equilibrio fiscal con base en la estimación de los ingresos para el Ejercicio Fiscal de que se trate, en la Ley de Ingresos del Estado.
+El Presupuesto de Egresos incluirá las previsiones del Gasto Público que habrán de realizar los Ejecutores de Gasto, con base en la estimación de los ingresos para el Ejercicio Fiscal de que se trate, en la Ley de Ingresos del Estado, con el objeto de generar un Balance Presupuestario sostenible.
 
 ###### Artículo 28.
 
@@ -393,9 +607,17 @@ El Ejecutivo Estatal, por conducto de la Secretaría, conforme a lo señalado en
 
 ### CAPÍTULO IV. DE LA ELABORACIÓN DEL PRESUPUESTO DE EGRESOS
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 36.
 
-Para la elaboración de los anteproyectos de presupuesto de egresos que deben realizar los Ejecutores de Gasto, el Ejecutivo Estatal a través de la Secretaría, establecerá los lineamientos en materia de Gasto Público, así como las normas y políticas que se aplicarán en la formulación del presupuesto de egresos. Para tal efecto, la Secretaría emitirá la normatividad correspondiente y la comunicará a los responsables de las actividades de programación y presupuestación para su aplicación.
+En la elaboración de los anteproyectos de presupuesto de egresos los Ejecutores de Gasto deberán observar lo siguiente:
+
+I. Guardar congruencia con los Criterios Generales de Política Económica y observar las disposiciones contenidas en los artículos 5 y 6 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+II. Cumplir con las disposiciones contenidas en los lineamientos, criterios o políticas en materia de Gasto Público, así como las normas y políticas que se aplicarán en la formulación del presupuesto de egresos que emita el Ejecutivo Estatal a través de la Secretaría, y que serán comunicados a los responsables de las actividades de programación y presupuestación para su aplicación; y
+
+III. Realizar la asignación óptima de recursos financieros de forma racional y eficiente
 
 ###### Artículo 37.
 
@@ -415,21 +637,29 @@ Los Poderes Legislativo y Judicial, los Organismos Constitucionalmente Autónomo
 
 La estructura programática deberá facilitar el examen del Presupuesto y sólo tendrá modificaciones cuando éstas tengan el objetivo de fortalecer los principios establecidos en el presente artículo, en los términos de las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 38.
 
-El proyecto de presupuesto de egresos se presentará y aprobará, conforme a las siguientes clasificaciones:
+El proyecto de presupuesto de egresos se presentará, desglosará y aprobará, conforme a las siguientes clasificaciones:
 
-I. La programática, es aquella que presenta los distintos programas con su respectiva asignación, conformando el Gasto Programable, así como el gasto que se considera Gasto No Programable, constituyendo ambos el gasto total;
+I. Clasificación Administrativa: Aquella que tiene como propósitos básicos identificar las unidades administrativas a través de las cuales se realiza la asignación, gestión y rendición de los recursos financieros públicos, así como establecer las bases institucionales y sectoriales para la elaboración y análisis de las estadísticas fiscales, organizadas y agregadas, mediante su integración y consolidación, tal como lo requieren las mejores prácticas y los modelos universales establecidos en la materia. Esta clasificación además permite delimitar con precisión el ámbito del sector público de cada orden de gobierno y por ende los alcances de su probable responsabilidad fiscal y cuasi fiscal;
 
-II. La administrativa, es aquélla que categoriza el Presupuesto de Egresos, identificando las Asignaciones Presupuestales otorgadas a los distintos Ejecutores de Gasto, con sus correspondientes unidades responsables;
+II. Clasificación Económica: Aquella que agrupa a las previsiones de recursos en función de su naturaleza económica y objeto, en erogaciones corrientes, inversión física, inversión financiera, otras erogaciones de capital, subsidios, transferencias, ayudas, participaciones y aportaciones federales;
 
-III. La funcional, la cual agrupa a las previsiones de recursos con base en las actividades que por disposición legal le corresponden realizar a los Ejecutores de Gasto y de acuerdo con los resultados que se proponen alcanzar;
+III. Clasificación Funcional del Gasto: Aquella que agrupa los gastos según los propósitos u objetivos socioeconómicos que persiguen los diferentes Ejecutores de Gasto;
 
-IV. La económica, que agrupa a las previsiones de recursos en función de su naturaleza económica y objeto, en erogaciones corrientes, inversión física, inversión financiera, otras erogaciones de capital, subsidios, transferencias, ayudas, participaciones y aportaciones federales;
+IV. Clasificación Geográfica: Aquella que agrupa a las previsiones de recursos con base en su destino geográfico;
 
-V. La geográfica, agrupa a las previsiones de recursos con base en su destino geográfico; y
+V. Clasificación por Fuente de Financiamiento: Aquella que permite identificar las fuentes u orígenes de los ingresos que financian los egresos y precisar la orientación específica de cada fuente a efecto de controlar su aplicación;
 
-VI. La de género, la cual agrupa las previsiones de gasto con base en su destino por género, diferenciando entre mujeres y hombres.
+VI. Clasificación por Género: Aquella que agrupa las previsiones de gasto con base en su destino por género, diferenciando entre mujeres y hombres;
+
+VII. Clasificación por Tipo de Gasto: Aquella que relaciona las transacciones públicas que generan gastos con los grandes agregados de la clasificación económica, presentándolos en Gasto Corriente; Gasto de Inversión; Amortización de la Deuda; Disminución de Pasivos; Pensiones y Jubilaciones; así como Participaciones; y
+
+VIII. Clasificación Programática: Aquella que establece la clasificación de los Programas Presupuestarios de los Ejecutores de Gasto, que permitirá organizar, en forma representativa y homogénea, las asignaciones de recursos de los Programas Presupuestarios.
+
+Las clasificaciones anteriormente señaladas en el presente artículo serán complementadas conforme los criterios o lineamientos que llegue a emitir el Consejo Nacional de Armonización Contable.
 
 ### CAPÍTULO V. DE LA ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
 
@@ -445,15 +675,33 @@ b) Las condiciones económicas y hacendarias del Estado;
 
 c) La situación de la deuda pública del último Ejercicio Fiscal y la estimación de la que se tendrá al concluir el Ejercicio Fiscal en curso;
 
-d) Las estimaciones de ingresos y egresos del Ejercicio Fiscal correspondiente; y
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
-e) La política de gasto que establece el Ejecutivo Estatal a través de la Secretaría.
+d) Las estimaciones de ingresos y egresos del Ejercicio Fiscal correspondiente;
 
-II. La previsión de gasto para las diversas Clasificaciones del Presupuesto de Egresos del Estado;
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+e) La política de gasto que establece el Ejecutivo Estatal a través de la Secretaría; y
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+f) Los elementos previstos en el artículo 5 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios que resulten aplicables, además de observar las normas que para tal efecto emita el Consejo Nacional de Armonización Contable.
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+II. La previsión de gasto para las diversas Clasificaciones del Presupuesto de Egresos;
 
 III. Descripción de los Programas Presupuestarios en donde se señalen objetivos, metas e indicadores de desempeño, y los responsables de su ejecución, así como su cuantificación en costo;
 
-IV. Los tabuladores desglosados de las remuneraciones que se proponen perciban los servidores públicos, la indicación de las plazas presupuestadas que incluye y la remuneración integrada mensual y anual que les corresponda;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+IV. En materia de erogaciones correspondientes al gasto en servicios personales, lo siguiente:
+
+a) Observar lo dispuesto en el artículo 10, fracción I de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+b) Los tabuladores desglosados de las remuneraciones que se proponen perciban los servidores públicos, detallando las percepciones ordinarias y extraordinarias, e incluyendo las erogaciones por obligaciones de carácter fiscal y seguridad social inherente a dichas remuneraciones; y
+
+c) Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral.
 
 V. En el caso de Gasto de Inversión, se deberá especificar:
 
@@ -467,9 +715,17 @@ d) Los Proyectos de Inversión, en los que se identifique su Impacto Presupuesta
 
 VI. La mención especial de los Proyectos para Prestación de Servicios, en la que se especifique el tipo de gasto que corresponda;
 
-VII. Las previsiones salariales y económicas para cubrir incrementos salariales, creación de plazas y otras medidas económicas de índole laboral; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-VIII. En general, toda la información que se considere útil para proporcionar elementos de juicio para su aprobación.
+VII. Una previsión financiera para atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionada por la ocurrencia de desastres naturales, así como para llevar a cabo acciones para prevenir y mitigar su impacto en las finanzas estatales, en términos de lo dispuesto en el artículo 9 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+VIII. La información presupuestal por rubros específicos, la cual permitirá una transparencia fiscal y cumplir con la legislación aplicable en la materia y rendición de cuentas; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+IX. En general, toda la información que se considere útil para proporcionar elementos de juicio para su aprobación.
 
 ###### Artículo 40.
 
@@ -477,27 +733,39 @@ Los Poderes Ejecutivo y Legislativo en su último año de gestión constituciona
 
 Los Municipios, en el ámbito de su respectiva competencia, sin menoscabo de su autonomía, en su último año de gestión constitucional, podrán incluir en sus respectivos presupuestos de egresos, una asignación presupuestaria específica para el proceso de entrega-recepción, con el objeto de eficientar, agilizar y transparentar este proceso.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+###### Artículo 40 Bis.
+
+Los Municipios en el ámbito de su respectiva competencia, sin menoscabo de su autonomía en la integración de sus anteproyectos y proyectos de presupuestos de egresos, aplicarán en lo conducente lo dispuesto en los Capítulos IV y V del presente Título de esta Ley, así como, en el artículo 18 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
 ## TÍTULO TERCERO. DEL GASTO PÚBLICO
 
-### CAPÍTULO I. DEL EJERCICIO DEL PRESUPUESTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ENERO DE 2017)</small>
+
+### CAPÍTULO I. DEL EJERCICIO DEL PRESUPUESTO ORIENTADO A RESULTADOS
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
 ###### Artículo 41.
 
-Los Ejecutores de Gasto en el ejercicio de su Presupuesto de Egresos, deberán:
+Los Ejecutores de Gasto en el ejercicio de su Presupuesto de Egresos, además de lo señalado en el presente Título, deberán observar las disposiciones establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley de Egresos del Estado de Puebla, para el Ejercicio Fiscal respectivo, así como, en lo siguiente:
 
-I. Sujetarse a los calendarios presupuestales que autorice y comunique la Secretaría;
+I. Sujetarse a los calendarios presupuestales, que autorice y comunique la secretaría;
 
-II. Verificar la Suficiencia Presupuestaria para cubrir erogaciones;
+II. Verificar previamente la Suficiencia Presupuestaria para comprometer recursos, identificando la fuente de ingresos;
 
-III. Justificar las erogaciones de los bienes adquiridos o los trabajos desarrollados, documentalmente en original y con la autorización del funcionario competente;
+III. Realizar pagos por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
 
-IV. Cumplir en el ámbito de su respectiva competencia y autonomía constitucional con la normatividad aplicable y la que al efecto emita la Secretaría;
+IV. Justificar las erogaciones de los bienes adquiridos o los trabajos desarrollados, documentalmente en original y con la autorización del funcionario competente;
 
-V. Cumplir en el ámbito de su respectiva competencia y autonomía constitucional, con las Medidas de Racionalidad y Eficiencia en el Ejercicio del Gasto que emita el Ejecutivo Estatal a través de la Secretaría, durante el Ejercicio Fiscal;
+V. Cumplir en el ámbito de su respectiva competencia y autonomía constitucional con la normatividad aplicable y la que al efecto emita la Secretaría;
 
-VI. Entregar a la Secretaría, en los casos que proceda, los informes que deban rendirse en los términos de la legislación aplicable; y
+VI. Cumplir en el ámbito de su respectiva competencia y autonomía constitucional, con las Medidas de Racionalidad y Eficiencia en el Ejercicio del Gasto que emita el Ejecutivo Estatal a través de la Secretaría, durante el Ejercicio Fiscal;
 
-VII. Contar con el oficio de autorización de la Secretaría, en los casos que corresponda, para iniciar cualquier procedimiento de contratación o compra y llevar a cabo el compromiso de los Recursos Públicos.
+VII. Entregar a la Secretaría, en los casos que proceda, los informes que deban rendirse en los términos de la legislación aplicable; y
+
+VIII. Contar con el oficio de autorización de la Secretaría, en los casos que corresponda, para iniciar cualquier procedimiento de contratación o compra y llevar a cabo el compromiso de los Recursos Públicos.
 
 ###### Artículo 42.
 
@@ -509,11 +777,21 @@ Las Dependencias y Entidades excepto en los casos que cuenten con la autorizaci�
 
 I. Realizar erogaciones mayores a los montos aprobados en el Presupuesto de Egresos;
 
-II. Contraer obligaciones no autorizadas en el Presupuesto de Egresos; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-III. Comprometer Recursos Públicos de subsecuentes ejercicios fiscales.
+II. Comprometer Recursos Públicos sin contar previamente con Suficiencia Presupuestaria;
 
-La vigencia de los instrumentos jurídicos que se autoricen en los supuestos de las fracciones I y II no podrá exceder el Ejercicio Fiscal en que se formalicen.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+III. Contraer obligaciones no autorizadas en el Presupuesto de Egresos; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+IV. Comprometer Recursos Públicos de subsecuentes ejercicios fiscales.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+La vigencia de los instrumentos jurídicos que se autoricen en los supuestos de las fracciones I y III no podrá exceder el Ejercicio Fiscal en que se formalicen; salvo aquellos casos que por la magnitud y naturaleza del objeto mismo así se requiera.
 
 Asimismo, deberán abstenerse de pactar pagos que contravengan el cumplimiento de los objetivos y las metas de los programas aprobados para el Ejercicio Fiscal respectivo.
 
@@ -525,9 +803,11 @@ Las Entidades, además, requerirán de la autorización de su Órgano de Gobiern
 
 El Ejecutivo Estatal, por conducto de las Dependencias y Entidades, deberá observar que los convenios que celebre con la Federación, otras Entidades Federativas, Ayuntamientos y con los sectores social o privado, se realicen de conformidad con las prioridades y estrategias del Plan Estatal de Desarrollo, Programas Sectoriales e Institucionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 45.
 
-El Ejecutivo Estatal por conducto de la Secretaría, podrá suspender, cancelar o diferir las ministraciones de fondos a las Dependencias y Entidades cuando:
+El Ejecutivo Estatal por conducto de la Secretaría, podrá suspender, cancelar, modificar o diferir las ministraciones de fondos a las Dependencias, Entidades y demás instancias ejecutoras de gasto cuando:
 
 I. No envíen la información que les sea requerida, en relación con la ejecución de sus programas y el ejercicio de sus presupuestos;
 
@@ -539,23 +819,31 @@ IV. En el manejo de sus disponibilidades financieras, no cumplan con las normas 
 
 V. En general, no ejerzan sus presupuestos de conformidad con las disposiciones aplicables; y
 
-VI. La situación financiera del Estado no permita seguir otorgando los recursos a las Dependencias y Entidades por causas supervinientes.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+VI. La situación financiera del Estado no permita seguir otorgando los recursos a las Dependencias, Entidades y demás instancias ejecutoras de gasto por causas supervinientes.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
 ###### Artículo 46.
 
-El Ejecutivo Estatal, por conducto de la Secretaría, efectuará las reducciones, diferimientos, cancelaciones o ajustes a los montos de los presupuestos de egresos aprobados de las Dependencias y Entidades, cuando se presenten contingencias que no permitan obtener los ingresos presupuestados.
+El Ejecutivo Estatal, por conducto de la Secretaría, efectuará las reducciones, diferimientos, cancelaciones o ajustes a los montos de los presupuestos de egresos aprobados de las Dependencias y Entidades, cuando exista una disminución de los ingresos presupuestados.
 
-Las reducciones, diferimientos, cancelaciones o ajustes que se efectúen en observancia del presente artículo deberán realizarse en forma selectiva, procurando no afectar las metas sustantivas de los Programas Presupuestarios y los principales Proyectos de Inversión.
+Las reducciones, diferimientos, cancelaciones o ajustes que se efectúen en observancia del presente artículo deberán realizarse en forma selectiva, procurando no afectar las metas sustantivas de los Programas Presupuestarios y los principales Proyectos de Inversión y se deberán ajustar a lo señalado en el artículo 15 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 47.
 
 Los titulares de los Ejecutores de Gasto serán los responsables de la ejecución de los Programas Presupuestarios y deberán informar los avances y resultados obtenidos a la Secretaría y a la Contraloría en los términos en que éstas establezcan.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 48.
 
-El Ejecutivo Estatal, por conducto de la Secretaría, podrá asignar los recursos adicionales de los previstos en el Presupuesto de Egresos, a los programas prioritarios y autorizará las reasignaciones de recursos cuando sea procedente.
+El Ejecutivo Estatal, por conducto de la Secretaría, podrá asignar los recursos adicionales de los previstos en el Presupuesto de Egresos, con cargo a los Ingresos Excedentes, a programas prioritarios y autorizará las reasignaciones de recursos cuando sea procedente.
 
-En lo que corresponde a los ingresos adicionales y a los extraordinarios derivados de empréstitos, el gasto deberá ajustarse a lo dispuesto por la Ley de Deuda Pública del Estado Libre y Soberano de Puebla.
+Quedan exceptuados de lo señalado en el párrafo anterior los Ingresos Excedentes derivados de Ingresos de Libre Disposición, los cuales se destinarán conforme lo establece el artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+En lo que corresponde a los ingresos adicionales y a los extraordinarios derivados de Financiamientos, el gasto deberá ajustarse a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública para el Estado Libre y Soberano de Puebla.
 
 De los movimientos que se efectúen en los términos de este artículo, el Ejecutivo Estatal informará a las instancias que corresponda en los términos establecidos en la legislación aplicable en la materia.
 
@@ -601,6 +889,10 @@ La ministración de los fondos correspondientes a cada uno de los Programas Pres
 
 La Contraloría dará seguimiento y evaluará el avance de la gestión de los Programas Presupuestarios y proyectos de las Dependencias y Entidades.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+Asimismo, la Contraloría cuando lo considere necesario dará seguimiento de los recursos financieros ejercidos por las demás instancias ejecutoras de gasto.
+
 ###### Artículo 56.
 
 Las erogaciones con cargo al Presupuesto de Egresos se realizarán con cargo a los Programas Presupuestarios y deberán cumplir con los siguientes requisitos:
@@ -611,15 +903,19 @@ II. Que la partida respectiva cuente con Suficiencia Presupuestaria para cubrirl
 
 III. Que se ajuste al texto de la partida que recibe el cargo, con base en el Clasificador.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 57.
 
-Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá hacer pagos con base en él, por los conceptos comprometidos en el año que corresponda y siempre que se hubieren programado y contabilizado debida y oportunamente las operaciones correspondientes.
+Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integren el pasivo circulante al cierre del ejercicio; o bien, cuando las disposiciones normativas aplicables permitan continuar ejerciendo los recursos en ejercicios fiscales subsecuentes.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
 ###### Artículo 58.
 
-Los Poderes Legislativo y Judicial, los Organismos Constitucionalmente Autónomos respecto de las Transferencias que reciban por cualquier motivo al 31 de diciembre del Ejercicio Fiscal conserven recursos, incluyendo los rendimientos obtenidos, deberán informar el importe disponible a la Secretaría dentro de los 15 días naturales siguientes al cierre del ejercicio.
+Los Poderes Legislativo y Judicial, los Organismos Constitucionalmente Autónomos respecto de las Transferencias que reciban y por cualquier motivo al 31 de diciembre del Ejercicio Fiscal conserven recursos, incluyendo los rendimientos obtenidos, deberán informar el importe disponible a la Secretaría dentro de los nueve días naturales siguientes al cierre del ejercicio.
 
-Por lo que respecta a las Dependencias y Entidades que reciban asignación presupuestal o Transferencias deberán reintegrarlas en el plazo establecido en el párrafo anterior.
+Por lo que respecta a las Dependencias, Entidades y demás instancias ejecutoras de gasto que reciban asignación presupuestal o Transferencias deberán reintegrarlas en el plazo establecido en el párrafo anterior.
 
 ###### Artículo 59.
 
@@ -637,13 +933,17 @@ La Secretaría será la beneficiaria de todas las garantías que se otorguen en 
 
 Las Dependencias y Entidades remitirán oportunamente a la Secretaría, la documentación relativa de conformidad con las disposiciones aplicables y será la Contraloría, la que vigile su debido cumplimiento.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 61.
 
-El Gobierno del Estado no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago con cargo a sus presupuestos de egresos, distintas a las previstas en la Ley de Deuda Pública para el Estado Libre y Soberano de Puebla, con excepción de que la Secretaría autorice la viabilidad de su otorgamiento cuando se trate de Proyectos para Prestación de Servicios y Proyectos de Inversión. Para tales efectos, el Ejecutivo Estatal podrá constituir los mecanismos financieros requeridos, incluyendo la creación de fideicomisos.
+El Gobierno del Estado no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago con cargo a sus presupuestos de egresos, distintas a las previstas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, Ley de Deuda Pública para el Estado Libre y Soberano de Puebla, con excepción de que la Secretaría autorice la viabilidad de su otorgamiento cuando se trate de Proyectos para Prestación de Servicios y Proyectos de Inversión. Para tales efectos, el Ejecutivo Estatal podrá constituir los mecanismos financieros requeridos, incluyendo la creación de fideicomisos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2017)</small>
 
 ###### Artículo 62.
 
-Para el ejercicio del Gasto Público, las Dependencias y Entidades deberán observar lo dispuesto en esta Ley, y las disposiciones que al efecto expida el Ejecutivo Estatal, a través de la Secretaría. En los casos que no puedan preverse su monto y fecha de pago, se ejercerán mediante comprobantes del Secretario de Finanzas aprobados por el Ejecutivo Estatal, no siendo necesaria, otra comprobación. La Secretaría realizará lo conducente, para efecto de registro en los presupuestos de los programas.
+Para el ejercicio del Gasto Público, las Dependencias y Entidades deberán observar lo dispuesto en esta Ley, y las disposiciones que al efecto expida el Ejecutivo Estatal, a través de la Secretaría. En los casos que no puedan preverse su monto y fecha de pago, se ejercerán mediante comprobantes de la o el Titular de la Secretaría de Finanzas y Administración aprobados por el Ejecutivo Estatal, no siendo necesaria, otra comprobación. La Secretaría realizará lo conducente, para efecto de registro en los presupuestos de los programas.
 
 Las obligaciones de pago que deriven de Contratos para la Instrumentación de Proyectos para Prestación de Servicios que deban realizar las Dependencias y Entidades, serán consideradas Gasto Corriente y deberán cubrirse con cargo a sus respectivos presupuestos autorizados para el Ejercicio Fiscal correspondiente, en términos de las disposiciones aplicables.
 
@@ -653,11 +953,15 @@ Para el caso de que en los contratos a que se refiere el párrafo anterior, se h
 
 En términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal, los procedimientos de adjudicaciones, se determinarán con base en la asignación presupuestal autorizada a cada objeto de gasto, con la finalidad de determinar si queda comprendida dentro de los montos máximos y mínimos establecidos en la Ley de Egresos del Estado de Puebla vigente; en el entendido de que, en ningún caso, el importe total de las adjudicaciones en cada rubro de gasto podrá ser fraccionado para quedar comprendido en algún supuesto distinto al que le corresponda originalmente.
 
-Los criterios específicos para los procedimientos de adjudicación serán determinados por la Secretaría de Administración.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+Los criterios específicos para los procedimientos de adjudicación serán determinados por la Secretaría.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
 ###### Artículo 64.
 
-En términos de la Ley de Obra Pública y Servicios Relacionados con la Misma y con el fin de determinar en cuál de los rangos establecidos se llevará a cabo el procedimiento de adjudicación respectivo, se estará a los montos máximos y mínimos establecidos en la Ley de Egresos del Estado de Puebla vigente; en el entendido de que, en ningún caso, el importe total de la obra podrá ser fraccionado, considerándose ésta individualmente.
+En términos de la Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado de Puebla y con el fin de determinar en cuál de los rangos establecidos se llevará a cabo el procedimiento de adjudicación respectivo, se estará a los montos máximos y mínimos establecidos en la Ley de Egresos del Estado de Puebla vigente; en el entendido de que, en ningún caso, el importe total de la obra podrá ser fraccionado, considerándose ésta individualmente.
 
 ###### Artículo 65.
 
@@ -681,7 +985,9 @@ El Gobierno del Estado, a través de la Secretaría podrá coordinarse y apoyar 
 
 Las Dependencias o Entidades que intervengan en la instrumentación y suscripción de los convenios y demás instrumentos jurídicos análogos, que el Ejecutivo Estatal o los Titulares de las mismas en el ámbito de su competencia celebren con la Federación, otras entidades federativas, los municipios u otras instancias públicas o privadas, para la Transferencia de Recursos Públicos, cuidarán que en éstos se establezcan:
 
-I. El monto de los Recursos Públicos a comprometer, previa y expresa autorización de la Secretaría;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+I. El monto de los Recursos Públicos a comprometer, debiendo contar previa y expresamente con la autorización de la Secretaría a efecto de no generar una presión de gasto;
 
 II. La estructura financiera que detalle las aportaciones de cada una de las partes;
 
@@ -737,9 +1043,11 @@ V. No existan las condiciones presupuestales para seguir otorgándolas.
 
 El Ejecutivo Estatal otorgará los Subsidios a través de la Secretaría con cargo al Presupuesto de Egresos, en función de las atribuciones que tiene el Gobierno del Estado en materia de fomento económico y de asistencia social.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 74.
 
-Para el otorgamiento de Subsidios deberán observarse criterios de objetividad, equidad, transparencia, selectividad y temporalidad. Los Subsidios se deberán solicitar por escrito y se asignarán a un fin determinado.
+Para el otorgamiento de Subsidios deberán observarse criterios de equidad, transparencia, selectividad, Perspectiva de Género y temporalidad a efecto de identificar a la población objetivo, el propósito o destino principal. Los Subsidios se deberán solicitar por escrito y se asignarán a un fin determinado.
 
 ###### Artículo 75.
 
@@ -773,19 +1081,23 @@ III. Ampliaciones y reducciones líquidas al Presupuesto de Egresos correspondie
 
 Los Poderes Legislativo y Judicial y los Organismos Constitucionalmente Autónomos, a través de sus respectivas unidades de administración, podrán autorizar adecuaciones a sus respectivos presupuestos, siempre que permitan mejorar el cumplimiento de los objetivos de los Programas Presupuestarios a su cargo y deberán emitir las normas aplicables. Dichas adecuaciones deberán ser informadas a las instancias competentes en materia de supervisión, control y fiscalización, buscando no afectar la funcionalidad financiera de los demás programas, especialmente los proyectos estratégicos.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 81.
 
-Cuando los Ejecutores de Gasto requieran de ampliaciones a su Presupuesto de Egresos, para cubrir erogaciones provenientes de la modificación o creación de Programas Presupuestarios, deberán presentar la solicitud correspondiente en la forma y términos que establezca la Secretaría, la que tramitará sólo aquéllas que considere procedentes a través del procedimiento aplicable.
+Cuando los Ejecutores de Gasto requieran de ampliaciones a su Presupuesto de Egresos, para cubrir erogaciones provenientes de la modificación o creación de Programas Presupuestarios, deberán presentar la solicitud correspondiente en la forma y términos que establezca la Secretaría, la que tramitará sólo aquéllas que considere procedentes en términos del artículo 8 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, a través del procedimiento aplicable.
 
 ###### Artículo 82.
 
-Corresponde a la Comisión Gasto Financiamiento del Gobierno del Estado, regular el Gasto Público y los asuntos concernientes al mismo, conforme a sus atribuciones legales y a las disposiciones que emanan de esta Ley. Los acuerdos y resoluciones que dicte la Comisión Gasto Financiamiento del Gobierno del Estado, se asentarán en actas que serán firmadas por cada uno de sus integrantes o en su caso, sus representantes o suplentes.
+(DEROGADO, P.O. 17 DE ENERO DE 2017)
 
 ###### Artículo 83.
 
 Los Ejecutores de Gasto que elaboren proyectos de iniciativas de leyes y decretos que se tenga programado presentar al Poder Legislativo, así como reglamentos, decretos, convenios, acuerdos y demás documentos análogos que impliquen repercusiones financieras, realizarán una evaluación sobre su Impacto Presupuestal, el cual deberá adjuntarse al proyecto y remitirse a la Secretaría para el trámite de suficiencia presupuestal.
 
-Para el trámite de suficiencia presupuestal en el caso de las Dependencias y Entidades, requerirán la autorización de la Secretaría previo a la realización de los trámites ante la Secretaría de Servicios Legales y Defensoría Pública, así como a las demás instancias que proceda.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+Para el trámite de suficiencia presupuestal en el caso de las Dependencias y Entidades, requerirán la autorización de la Secretaría previo a la realización de los trámites ante la Secretaría General de Gobierno, así como a las demás instancias que proceda.
 
 ###### Artículo 84.
 
@@ -797,19 +1109,31 @@ II. Las modificaciones que deberán hacerse a los programas aprobados de los Eje
 
 III. El establecimiento de nuevas atribuciones y actividades que deberán realizar los Ejecutores de Gasto;
 
-IV. La inclusión de disposiciones generales que incidan en la regulación en materia presupuestal y organizacional; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-V. El destino específico de Gasto Público de conformidad con el Clasificador. En caso de que el proyecto tenga un impacto en el Presupuesto de Egresos, los Ejecutores de Gasto deberán señalar la fuente de financiamiento de los nuevos gastos.
+IV. La inclusión de disposiciones generales que incidan en la regulación en materia presupuestal y organizacional;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+V. El destino específico de Gasto Público de conformidad con el Clasificador. En caso de que el proyecto tenga un impacto en el Presupuesto de Egresos, los Ejecutores de Gasto deberán señalar la fuente de financiamiento de los nuevos gastos; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+VI. La modificación de los elementos de las contribuciones, la creación o eliminación de fuentes de ingresos públicos, así como el otorgamiento de estímulos fiscales o de Subsidios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2017)</small>
 
 ###### Artículo 85.
 
-Los Ejecutores de Gasto presentarán a la Secretaría la solicitud de Suficiencia Presupuestaria acompañada de la evaluación del Impacto Presupuestal de los proyectos a que se refieren los artículos 83 y 84 de la Ley, la cual autorizará las que sean procedentes de conformidad con las prioridades de desarrollo del Estado y de la capacidad financiera de la Hacienda Pública Estatal.
+Los Ejecutores de Gasto presentarán a la Secretaría la solicitud de Suficiencia Presupuestaria acompañada de la evaluación del Impacto Presupuestal de los proyectos a que se refieren los artículos 83 y 84 de la Ley, la cual autorizará las que sean procedentes de conformidad con las prioridades de desarrollo del Estado, en el marco del principio de balance presupuestario sostenible y de la capacidad financiera de la Hacienda Pública Estatal.
 
 La Secretaria podrá solicitar al ejecutor de gasto que presente la información complementaria que considere pertinente para continuar con el trámite respectivo.
 
 La Secretaría emitirá recomendaciones sobre las disposiciones jurídicas del ordenamiento sujeto a revisión que incidan en el ámbito presupuestal, cuando así lo considere. La referida evaluación y en su caso, la autorización que emita la Secretaría, se anexarán a los proyectos a que se refieren los artículos 83 y 84 de la Ley, para presentarlos a la suscripción del Ejecutivo Estatal.
 
-La Secretaría de Servicios Legales y Defensoría Pública cuando lo considere necesario, podrá solicitar a las Dependencias y Entidades la presentación de la resolución emitida por la Secretaría sobre los proyectos de disposiciones generales.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+La Secretaría General de Gobierno cuando lo considere necesario, podrá solicitar a las Dependencias y Entidades la presentación de la resolución emitida por la Secretaría sobre los proyectos de disposiciones generales.
 
 ###### Artículo 86.
 
@@ -817,17 +1141,23 @@ La Secretaría analizará y en los casos que determine procedentes autorizará l
 
 ### CAPÍTULO V. DE LA INVERSIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 87.
 
-Los Recursos Públicos que las Dependencias y Entidades destinen a inversión pública, se ejercerán en las obras y acciones que integran los objetivos y proyectos estratégicos del Plan Estatal de Desarrollo vigente, de conformidad con lo establecido en la Ley de la materia.
+Los Recursos Públicos que las Dependencias, Entidades y otros Ejecutores de Gasto destinen a inversión pública, se ejercerán en las obras y acciones que integran los objetivos y proyectos estratégicos del Plan Estatal de Desarrollo vigente, de conformidad con lo establecido en la Ley de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2017)</small>
 
 ###### Artículo 88.
 
-Las Dependencias y Entidades, en el ejercicio de sus recursos asignados a Gasto de Inversión deberán:
+Las Dependencias, Entidades y otros Ejecutores de Gasto, en el ejercicio de sus recursos asignados a Gasto de Inversión deberán:
 
 I. Otorgar prioridad a la conclusión de los proyectos y obras de beneficio social con especial atención a aquéllos que se orienten a satisfacer las necesidades de las comunidades rurales, áreas urbanas marginadas y comunidades indígenas; a las acciones de reconstrucción de la infraestructura física estatal de las regiones afectadas por fenómenos naturales y a la modernización de la infraestructura básica y otros proyectos socialmente necesarios, así como a las obras que contribuyan al desarrollo económico del Estado;
 
-II. Realizar nuevas obras y proyectos cuando tengan Suficiencia Presupuestaria. Los proyectos deben contar con una evaluación costo-beneficio que muestre que la propuesta incrementa la disponibilidad de servicios básicos, así como los estudios de prefactibilidad y factibilidad y la cuantificación de costos de operación, conservación y mantenimiento de las obras y acciones concluidas;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+II. Realizar nuevas obras y proyectos cuando tengan Suficiencia Presupuestaria. Los proyectos deben contar con una evaluación socioeconómica que muestre que la propuesta incrementa la disponibilidad de bienes y servicios y en su caso, los estudios de prefactibilidad y factibilidad y la cuantificación de costos de operación, conservación y mantenimiento de las obras y acciones una vez concluidas;
 
 III. Aprovechar al máximo la mano de obra e insumos locales y la capacidad instalada, por lo que, en igualdad de condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, se deberá dar prioridad a los contratistas y proveedores locales en la adjudicación de contratos de obra pública y servicios relacionados con la misma, así como de adquisiciones, arrendamientos y prestaciones de servicios de cualquier naturaleza;
 
@@ -835,15 +1165,33 @@ IV. Considerar preferentemente la adquisición de productos y la utilización de
 
 V. Estimular la coinversión con los distintos órdenes de Gobierno y los sectores social y privado en proyectos de infraestructura y de producción, estratégicos y prioritarios comprendidos en los Planes Nacional y Estatal de Desarrollo, así como en los programas de mediano plazo y demás proyectos formulados con base en la Ley de Planeación para el Desarrollo del Estado. En el caso de programas y obras de beneficio social se concertará, con apego a la Ley, la participación activa de las comunidades locales;
 
-VI. Los Recursos Públicos destinados a la realización de inversión pública con cargo a los presupuestos de egresos de las Dependencias y Entidades y de conformidad con lo establecido en la presente Ley, deberán contar con la previa autorización que otorgue la Secretaría, de conformidad con la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
-VII. Observar los plazos de vencimientos de los Recursos Públicos autorizados.
+VI. Los Recursos Públicos destinados a la realización de inversión pública con cargo a los presupuestos de egresos de las Dependencias y Entidades y de conformidad con lo establecido en la presente Ley, deberán contar con la previa autorización que otorgue la Secretaría, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+VII. Observar los plazos de vencimientos de los Recursos Públicos autorizados;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+VIII. Solicitar oportunamente y bajo su más estricta responsabilidad, a la Secretaría en el ámbito de competencia de ésta, la validación de aquellos informes y/o reportes que de conformidad con los convenios, acuerdos y demás instrumentos legales, estén obligados a presentar;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+IX. Realizar oportunamente el reintegro de recursos federales que de conformidad con la legislación y normatividad aplicable, deban ser enterados a la Federación; en caso contrario, deberán cubrir por cuenta propia las cargas financieras y demás penalizaciones que se deriven; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2017)</small>
+
+X. Solicitar oportunamente y bajo su responsabilidad las cancelaciones de los proyectos autorizados que por diversas causas no se ejecuten, así como, las modificaciones que presenten en sus metas o periodos de ejecución.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
 ###### Artículo 89.
 
-La ejecución de obra pública y la contratación de servicios relacionados con la misma, cuya programación financiera haya sido aprobada por la Secretaría, se ejercerá bajo la responsabilidad de las Dependencias, Entidades y otros ejecutores de obra, incluyendo la concertada a través de convenios.
+La ejecución de obra pública y la contratación de servicios relacionados con la misma, cuya programación financiera haya sido aprobada por la Secretaría, se ejercerá bajo la responsabilidad de las Dependencias, Entidades y otros Ejecutores de Gasto, incluyendo la concertada a través de convenios.
 
-Los ejecutores de obra deberán respetar en todo momento la estructura financiera que autorice la Secretaría.
+Los Ejecutores de Gasto deberán respetar en todo momento la estructura financiera que autorice la Secretaría, salvo en los casos que las disposiciones normativas o los instrumentos legales que sustenten el ejercicio de los recursos asignados establezcan lo contrario.
 
 ### CAPÍTULO VI. DE LAS MEDIDAS DE RACIONALIDAD Y EFICIENCIA EN EL EJERCICIO DEL GASTO
 
@@ -851,7 +1199,9 @@ Los ejecutores de obra deberán respetar en todo momento la estructura financier
 
 El Ejecutivo Estatal a través de la Secretaría, establecerá en la Ley de Egresos, las medidas de racionalidad y eficiencia para el ejercicio del presupuesto que deberán observar las Dependencias y Entidades en el Ejercicio Fiscal correspondiente.
 
-Los Ahorros Presupuestarios como resultado de la aplicación de dichas medidas podrán ser reasignados, en los términos que establezca el Ejecutivo Estatal a través de la Secretaría, a los programas prioritarios.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+Los Ahorros Presupuestarios como resultado de la aplicación de dichas medidas deberán destinarse en primer lugar a corregir desviaciones del balance presupuestario de recursos disponible negativo, y en segundo lugar a los programas prioritarios en los términos que establezca el Ejecutivo Estatal a través de la Secretaría.
 
 ###### Artículo 91.
 
@@ -867,11 +1217,19 @@ Los Poderes Legislativo y Judicial, así como los Organismos Constitucionalmente
 
 Los Proyectos de Inversión serán aquellos proyectos, convenios, contratos o concesiones, relacionados con obra pública, bienes, adquisiciones o servicios, que celebre el Gobierno del Estado, los organismos públicos descentralizados, las empresas de participación estatal mayoritaria o los Fideicomisos Públicos considerados entidades paraestatales, de conformidad con la legislación aplicable, respecto de los cuales la Secretaría hubiere emitido un dictamen en el sentido de que están plenamente justificados, que tienen por objeto obtener directa o indirectamente un beneficio social y que resultan en una ventaja financiera frente a otras formas de contratación.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+###### Artículo 93 Bis.
+
+En el ejercicio o contratación de un Proyecto de Inversión cuyo monto rebase el equivalente a 10 millones de unidades de inversión, se deberá contar con el análisis costo y beneficio conforme lo señalado en el artículo 13, fracción III de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás legislación y normatividad aplicable en la materia.
+
 ###### Artículo 94.
 
 El Ejecutivo Estatal, a través de la Secretaría, estará facultado para afectar, total o parcialmente, de forma irrevocable, sin mayores requisitos que los establecidos en este Capítulo, sus ingresos presentes y futuros derivados de participaciones en ingresos federales, fondos federales, contribuciones, impuestos, derechos, productos, aprovechamientos, accesorios u otros conceptos o ingresos susceptibles de afectación, como fuente de pago, garantía, o ambas, de todo tipo de obligaciones que asuma el Gobierno del Estado, los organismos públicos descentralizados, las empresas de participación estatal mayoritaria, los Fideicomisos Públicos considerados entidades paraestatales o terceros prestadores de bienes o servicios, derivados de Proyectos de Inversión.
 
-Tratándose de la afectación de participaciones en ingresos federales y de fondos federales, se deberá observar lo establecido en la legislación federal aplicable.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+Tratándose de la afectación de participaciones en ingresos federales y de fondos federales, se deberá observar lo establecido en la legislación federal y estatal aplicable.
 
 El Gobierno del Estado no podrá revocar o revertir las afectaciones de que se trate, sino hasta que se hayan liquidados las obligaciones y se haya obtenido el previo consentimiento de los acreedores respectivos.
 
@@ -885,9 +1243,11 @@ Los ingresos afectos al fideicomiso formarán parte del patrimonio del fideicomi
 
 El Ejecutivo Estatal, a través de la Secretaría, informará al Congreso del Estado del ejercicio de la facultad establecida en el presente artículo.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 96.
 
-La Secretaría deberá crear y mantener el registro de proyectos, en términos de los lineamientos que al efecto emita la propia Secretaría y en el cual se inscribirán para su control los Proyectos de Inversión. La Secretaría estará obligada a proporcionar al Congreso del Estado, en el primer periodo ordinario de sesiones de cada año, información acerca del registro de proyectos o bien de los Proyectos de Inversión ahí inscritos.
+La Secretaría deberá crear y mantener el registro de programas y Proyectos de Inversión del Gobierno del Estado de Puebla, en términos de los lineamientos que en su caso emita la propia Secretaría y en el cual se inscribirán para su control los Proyectos de Inversión. La Secretaría estará obligada a proporcionar al Congreso del Estado, en el primer periodo ordinario de sesiones de cada año, información acerca del registro de programas y Proyectos de Inversión del Gobierno del Estado, o bien de los Proyectos de Inversión ahí inscritos.
 
 ###### Artículo 97.
 
@@ -915,7 +1275,11 @@ Las Dependencias y Entidades deberán remitir a la Secretaría y a la Contralor�
 
 Las Dependencias y Entidades podrán celebrar Contratos Multianuales de obras públicas, adquisiciones, arrendamientos y prestación de servicios durante el Ejercicio Fiscal, siempre que:
 
-I. Soliciten por escrito la autorización de la Secretaría a más tardar el último día hábil de agosto del Ejercicio Fiscal;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+I. Soliciten por escrito la autorización de la Secretaría a más tardar el último día hábil de agosto del Ejercicio Fiscal.
+
+Quedará exceptuado el plazo señalado en el párrafo anterior de la presente fracción, cuando al Gobierno del Estado le sean radicados recursos de origen federal que rebasen dicho plazo y sean destinados a gasto en materia de inversión;
 
 II. Justifiquen el plazo de la contratación y que el mismo no afecte negativamente la competencia económica en el sector de que se trate;
 
@@ -937,9 +1301,15 @@ Las Dependencias y Entidades no celebrarán Contratos Multianuales que impliquen
 
 Cuando el monto autorizado originalmente resulte insuficiente para llevar a cabo la contratación, se elaborará la justificación respectiva debidamente fundada y motivada para solicitar la nueva autorización.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+En gasto de inversión, la autorización de recursos para obras multianuales estará sujeta a la Disponibilidad Presupuestaria del año que corresponda, siempre que las disposiciones normativas del recurso asignado así lo permitan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 101.
 
-En casos excepcionales debidamente justificados, el Ejecutivo Estatal, por conducto de la Secretaría, podrá autorizar que se celebren contratos de obra pública, de adquisiciones, de prestación de servicios o de otra índole que rebasen las Asignaciones Presupuestales aprobadas para el año, pero en estos casos los compromisos excedentes no cubiertos, quedarán sujetos para los fines de su ejecución y pago, a la disponibilidad presupuestal que autorice el Congreso del Estado para los años subsecuentes.
+En casos excepcionales debidamente justificados, el Ejecutivo Estatal, por conducto de la Secretaría, podrá autorizar que se celebren contratos de obra pública, de adquisiciones, de prestación de servicios o de otra índole que rebasen las Asignaciones Presupuestales aprobadas para el año, pero en estos casos los compromisos excedentes no cubiertos, quedarán sujetos para los fines de su ejecución y pago, a la Disponibilidad Presupuestaria que autorice el Congreso del Estado para los años subsecuentes.
 
 Cuando se trate de programas o proyectos especiales, cuyos presupuestos se incluyen en el Presupuesto de Egresos, se hará mención especial en estos casos al presentar el proyecto de presupuesto de egresos al Congreso del Estado.
 
@@ -953,11 +1323,17 @@ Quienes ejerzan Gasto Público, estarán obligados a proporcionar a la Secretar�
 
 Para el caso de las Dependencias y Entidades estarán obligadas a proporcionar a la Secretaría y a la Contraloría, con la periodicidad que éstas determinen y en el ámbito de sus respectivas competencias, la información presupuestal, financiera y de otra índole que requiera.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+Los Ejecutores de Gasto al presentar la información señalada en los dos párrafos anteriores del presente artículo se sujetarán a la Ley General de Contabilidad Gubernamental, sin perjuicio de las obligaciones de información establecidas en la Ley de Coordinación Fiscal, Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás legislación y normatividad aplicable en la materia.
+
 ###### Artículo 103.
 
 El Ejecutivo Estatal, a través de la Secretaría, formulará la Cuenta de la Hacienda Pública del Estado para su rendición al Poder Legislativo. Para tal efecto, las Dependencias y Entidades proporcionarán a la Secretaría, con la periodicidad que ésta determine, la información presupuestal, financiera y de otra índole que requiera.
 
-Los Poderes Legislativo y Judicial y los Organismos Constitucionalmente Autónomos enviaran a la Secretaria, previa solicitud de la misma, la información básica acerca de las acciones y resultados más relevantes obtenidos de la aplicación de sus presupuestos en sus Programas Presupuestarios.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+Los Poderes Legislativo y Judicial y los Organismos Constitucionalmente Autónomos enviarán a la Secretaría, previa solicitud de la misma, la información básica acerca de las acciones y resultados más relevantes obtenidos de la aplicación de sus presupuestos en sus Programas Presupuestarios.
 
 Lo anterior, sin detrimento de la información financiera que deban presentar durante el Ejercicio Fiscal correspondiente en los términos de la legislación aplicable.
 
@@ -1105,19 +1481,29 @@ Para efectos de esta Ley incurren en responsabilidad todos aquellos servidores p
 
 Si derivado de lo anterior existieren conductas de los servidores públicos que infrinjan las disposiciones de esta Ley, independientemente de las sanciones administrativas a que hubiere lugar de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, se ejercitarán las acciones penales o civiles a que haya lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 122.
 
-Los servidores públicos que tengan a su cargo la administración de los Recursos Públicos, serán responsables de cualquier daño o perjuicio estimable en dinero que afecte la Hacienda Pública Estatal, por actos u omisiones que les sean imputables, o bien por incumplimiento o inobservancia de las obligaciones derivadas de esta Ley, inherentes a su cargo o relacionadas con su función o actuación.
+Los servidores públicos y las personas físicas o morales que causen daño o perjuicio estimable en dinero a la Hacienda Pública Estatal o Municipal, incluyendo en su caso, los beneficios obtenidos indebidamente por actos u omisiones que les sean imputables, o por incumplimiento de obligaciones derivadas de esta Ley, serán responsables del pago de la indemnización correspondiente, en los términos de la legislación aplicable en la materia.
 
-Las responsabilidades se constituirán en primer término a las personas que directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y subsidiariamente, a los servidores y demás personal que por la índole de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
-Serán responsables solidarios con los servidores públicos involucrados, los particulares en los casos en que hayan participado y originen una responsabilidad.
+Las responsabilidades se fincarán en primer término a quienes directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los que por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+Serán responsables solidarios con los servidores públicos involucrados, las personas físicas o morales privadas en los casos en que hayan participado y originen una responsabilidad.
 
 Los presuntos responsables, garantizarán mediante fianza y en forma individual el importe de pliegos preventivos a que se refiere el artículo anterior, en tanto la Contraloría determina la responsabilidad definitiva.
 
 ###### Artículo 123.
 
 Las sanciones que se constituyan por responsabilidades definitivas, tendrán por objeto indemnizar por los daños y perjuicios que se ocasionen a la Hacienda Pública Estatal y las que tendrán el carácter de créditos fiscales y se fijarán por la Contraloría en cantidad líquida, misma que se cobrará a través de la Secretaría por medio del procedimiento administrativo de ejecución, sin perjuicio de lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+Los servidores públicos de los Ejecutores de Gasto informarán a la autoridad competente cuando las infracciones a la presente Ley, y a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, impliquen la comisión de una conducta sancionada en términos de la legislación penal, de la Ley de Fiscalización y Rendición de Cuentas de la Federación, y de la Ley General del Sistema Nacional Anticorrupción.
 
 ## TRANSITORIOS
 
@@ -1152,3 +1538,19 @@ Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los trece días del mes de diciembre de dos mil doce.- Diputado Presidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- RAMÓN FELIPE LÓPEZ CAMPOS.- Rúbrica.- Diputado Secretario.- JESÚS SALVADOR ZALDÍVAR BENAVIDES.- Rúbrica.- Diputado Secretario.- ALEJANDRO OAXACA CARREÓN.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los catorce días del mes de diciembre de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE PUEBLA”]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO. Los asuntos que se encuentren en trámite o en proceso al entrar en vigor el presente Decreto, se seguirán tramitando hasta su conclusión en términos de los artículos que aplicaron en su temporalidad.
+
+TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto en la presente Ley.
+
+CUARTO. Los recursos que sean otorgados a los Ejecutores de Gasto a través del esquema de los certificados de infraestructura educativa nacional, pertenecientes al Programa Escuelas al CIEN, quedarán exentos del reintegro que deba realizarse a la Tesorería de la Federación, señalado por el artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y estarán a lo dispuesto en dicho programa.
+
+QUINTO. Lo establecido en los artículos 20 Bis y 40 Bis de la presente Ley, referente a observar el artículo 18 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, comenzará a surtir sus efectos a partir del Ejercicio Fiscal 2018.
