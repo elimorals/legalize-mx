@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-a-la-lectura-y-el-libro-para-el-estado-de-79682"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-15"
-last_updated: "2016-11-15"
+last_updated: "2017-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el martes 15 de febrero de 2011.
 
@@ -253,7 +253,11 @@ XIII. Promover la participación del Estado en ferias o festivales nacionales e 
 
 XIV. Opinar sobre el diseño de paquetes de apoyo, por parte de la Secretaría de Educación y Cultura para estimular a las librerías establecidas o por establecerse en la entidad; y
 
-XV. Las demás que determine el Reglamento respectivo.
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+XV. Realizar las gestiones necesarias ante el Gobierno Estatal, cuando un ciudadano solicite que su biblioteca personal se convierta en patrimonio cultural de la entidad, en los términos de la Ley de Desarrollo Cultural para el Estado de Coahuila de Zaragoza.
+
+XVI. Las demás que determine el Reglamento respectivo.
 
 ###### Artículo 19.
 
@@ -452,3 +456,11 @@ P.O. 15 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 567.- SE REFORMA LA FRACCIÓN II Y SE CREA UN NUEVO CONTENIDO PARA LA FRACCIÓN III, RECORRIENDO EL ACTUAL A LA SIGUIENTE FRACCIÓN; Y SE RECORRE EL DE LAS SUBSECUENTES FRACCIONES, DEL ARTÍCULO 1 DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 610.- SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN XV, Y SE RECORRE AL ACTUAL A LA XVI, QUE SE CREA, DEL ARTÍCULO 18 DE LA LEY DEL FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
