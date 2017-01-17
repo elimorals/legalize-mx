@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-de-acceso-a-la-98890"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-02-20"
-last_updated: "2014-02-20"
+last_updated: "2017-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98890&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-02-12"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION Y PROTECCION DE DATOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL D.O.F. DE 17 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de febrero de 2014.
 
@@ -972,3 +974,21 @@ TERCERO.- Hasta en tanto se integre el organismo garante que establece el artíc
 CUARTO.- Una vez integrado el organismo autónomo, de manera inmediata se convocará al Pleno para la elección de Comisionado Presidente atento a lo ordenado en el artículo 6o. constitucional, apartado A, fracción VIII, párrafo décimo segundo y en términos del artículo 17 del presente reglamento.
 
 Así lo acordó el Pleno del Instituto Federal de Acceso a la Información y Protección de Datos, en sesión celebrada el día doce del mes de febrero de dos mil catorce.- El Comisionado Presidente, Gerardo Laveaga Rendón.- Rúbrica.- Los Comisionados: Sigrid Arzt Colunga, María Elena Pérez-Jaén Zermeño, Ángel Trinidad Zaldívar.- Rúbricas.- La Secretaria de Acceso a la Información, Cecilia Azuara Arai.- Rúbrica.- El Director General de Normatividad, Consulta y Atención Regional, firma en suplencia por ausencia del Secretario de Protección de Datos Personales, con fundamento en el artículo 41, fracción III del Reglamento Interior del Instituto Federal de Acceso a la Información y Protección de Datos, Edgardo Martínez Rojas.- Rúbrica.- El Secretario General, Juan Pablo Guerrero Amparán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE APRUEBA EL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Federal de Acceso a la Información y Protección de Datos Personales publicado en el Diario Oficial de la Federación el veinte de febrero de dos mil catorce, así como el Acuerdo ACT-PUB-23-09-2015.06 del veintitrés de septiembre de dos mil quince.
+
+TERCERO. Se derogan el Segundo Punto del Acuerdo ACT-PUB-20-08-2014.06 del veinte de agosto de dos mil catorce, así como el Segundo Punto del Acuerdo ACT-PUB-24-06-2015.04 del veinticuatro de junio de dos mil quince, correspondientes a las atribuciones de las Coordinaciones y Direcciones Generales que se crearon, y las Direcciones Generales que se reasignaron y transformaron, así como las que se adicionan a las unidades administrativas aprobadas mediante el acuerdo ACT-PUB-/20/08/2014.06.
+
+CUARTO. Los asuntos y procedimientos que se estén sustanciando previo a la entrada en vigor del presente Estatuto Orgánico, deberán concluirse en sus términos, con la norma aplicable correspondiente y ante la unidad administrativa competente prevista en este Estatuto.
+
+QUINTO. En términos de los artículos 35, fracciones I y VI, y Sexto Transitorio de la Ley Federal de Transparencia y Acceso a la Información Pública, en relación con el Cuarto Transitorio de la Ley General de Transparencia y Acceso a la Información Pública, dentro de los siguientes treinta días hábiles a la entrada en vigor del presente Estatuto, se someterá a consideración del Pleno la propuesta de los lineamientos correspondientes al sistema interno de rendición de cuentas claras, transparentes y oportunas, los cuales estarán a cargo de un grupo de trabajo integrado, por las Direcciones Generales de Administración; de Asuntos Jurídicos; de Atención al Pleno; de Planeación y Desempeño Institucional y el Órgano Interno de Control.
+
+SEXTO. Dentro de los siguientes treinta días hábiles a la entrada en vigor del presente Estatuto, se someterá a consideración del Pleno la propuesta de lineamientos para regular el funcionamiento del mismo, elaborados por la Secretaría Técnica del Pleno, por conducto de la Dirección General de Atención al Pleno.
