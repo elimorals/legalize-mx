@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2015-07-27"
+last_updated: "2017-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -799,13 +799,19 @@ IX.- Hacer las deducciones en los salarios que soliciten los sindicatos correspo
 
 X.- Integrar los expedientes de los trabajadores y remitir los informes que se les soliciten para el trámite de las prestaciones sociales, dentro de los términos que señalen los ordenamientos respectivos; y
 
-> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2017)</small>
 
-XI.- Conceder licencias hasta por tres días a sus trabajadores con goce de sueldo y sin afectar sus derechos y antigüedad, en los casos siguientes:
+XI.- Conceder licencias hasta por cinco días hábiles a sus trabajadores mujeres y varones, con goce de sueldo y sin afectar sus derechos y antigüedad, en los casos siguientes:
 
-A.- Por nacimiento de un hijo, sólo en el caso de los trabajadores varones;
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
 
-B.- Por adopción de un hijo recién nacido; y
+A.- Por nacimiento de un hijo o hija;
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+B.- Por adopción de un menor, a partir del día en que sea legalmente entregado el niño, la niña, o los niños, al trabajador por la autoridad competente; y
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2009)</small>
 
 C.- Por enfermedad o accidente que ponga en grave peligro la vida de alguno de sus menores hijos, de su cónyuge, concubina o concubinario.
 
@@ -2018,3 +2024,15 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 39.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 57 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
