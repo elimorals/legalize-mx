@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2016-11-25"
+last_updated: "2017-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -1031,9 +1031,11 @@ En los parques y reservas estatales solo podrá permitirse la realización de ac
 
 Las formaciones naturales son áreas que contienen uno o varios elementos naturales de importancia estatal, consistentes en lugares u objetos naturales que por su carácter único o excepcional, interés estético, valor histórico o cultural, o sean símbolos de identidad estatal, se incorporan a un régimen de protección.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 49.
 
-Las áreas estatales de protección hidrológica son aquellas destinadas a la preservación de ríos, manantiales y aguas subterráneas, a través de la protección de cuencas, áreas boscosas, llanuras y todas aquellas áreas que tengan impacto en las fuentes de producción y/o abastecimiento de agua.
+Las áreas estatales de protección hidrológica son aquellas destinada (sic) a la preservación de ríos, manantiales, humedales y aguas subterráneas, a través de la protección de cuencas, áreas boscosas, llanuras y todas aquellas áreas que tengan impacto en las fuentes de producción y/o abastecimiento de agua.
 
 ###### Artículo 50.
 
@@ -2417,7 +2419,7 @@ El Secretario General de Gobierno
 
 Lic. Enrique Romero González
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 21 DE DICIEMBRE DE 1999.
 
@@ -2576,3 +2578,9 @@ SEGUNDO. La medida de seguridad relativa al retiro de la circulación de un veh�
 TERCERO. El Titular del Poder Ejecutivo deberá, durante los 60 días siguientes a la entrada en vigor del presente Decreto, emitir las modificaciones Reglamentarias que estime pertinentes.
 
 CUARTO. Los talleres acreditados dentro del actual "Programa de Verificación Vehicular Obligatorio del Estado de Jalisco", podrán participar con criterios de preferencia en la convocatoria para el otorgamiento de líneas de verificación del nuevo programa que publique el Ejecutivo del Estado, siempre que adquieran los equipos bajo la tecnología unificada que determine la Secretaría de Medio Ambiente y Desarrollo Territorial, adecúen los procedimientos de medición para la verificación de los límites de emisiones de contaminantes provenientes de los vehículos automotores, implementen la prueba dinámica en sustitución de la prueba estática, en los términos de la NOM-047-SEMARNAT-2014, y se sujeten a las condiciones y bases de la convocatoria que se emita al efecto.
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26184/LXI/16 QUE REFORMA EL ARTÍCULO 49 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
