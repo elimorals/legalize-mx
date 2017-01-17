@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2016-09-27"
+last_updated: "2017-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
 
@@ -313,9 +313,53 @@ i) Cualquier otro acto que limite o restrinja la participación política de las
 
 IX. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, culminando en homicidio y otras formas de muerte violenta de mujeres; y
 
-X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+X. Violencia Mediática o Publicitaria: Aquella difusión o publicación de imágenes estereotipadas y mensajes a través de anuncios publicitarios en exhibición al público en general, que de manera directa o indirectamente promueven la explotación de la mujer en imágenes sexistas que injurien, difamen, discriminen, deshonren, humillen y atenten contra la dignidad humana, legitimando la desigualdad de trato o construya parámetros sociales generadores de violencia contra la mujer.
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+
+XI. Cualesquiera otras formas análogas que lesionen o sean susceptible (sic) de dañar la dignidad, integridad o libertad de las mujeres
 
 Las políticas de prevención, atención, investigación, sanción y reparación integral del daño derivado de los tipos de violencia del presente Capítulo, atenderán y garantizarán en todo momento el cumplimiento de los principios del interés superior de la niñez y la autonomía progresiva en el ejercicio de los derechos de las niñas.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+###### Artículo 8 Bis.
+
+Se considera violencia obstétrica: el tipo de violencia ejercida por el profesional de salud sobre el cuerpo y los procesos reproductivos de las mujeres. Esta clase de violencia se expresa mayoritariamente -aunque no con exclusividad- en el trato deshumanizado hacia la mujer embarazada, en la tendencia a apologizar los procesos reproductivos naturales y en múltiples manifestaciones que resultan amenazantes en el contexto de la atención de la salud sexual, embarazo, parto y post parto.
+
+En este sentido dicha acción, se configura por parte del personal médico, paramédico, de enfermería y administrativo de las instituciones de salud cuando se dañe o denigre a la mujer durante el embarazo, el parto, post parto o en emergencias obstétricas, vulnerando sus derechos mediante tratos crueles, inhumanos o degradantes.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+###### Artículo 8 Ter.
+
+Son actos u omisiones constitutivos de violencia obstétrica, de manera enunciativa, pero no limitativa, los siguientes:
+
+I. No atender o no brindar atención oportuna y eficaz a las mujeres en el embarazo, parto, puerperio o en emergencias obstétricas.
+
+II. Presionar psicológica u ofensivamente a una parturienta.
+
+III. Obligar a la mujer a parir acostada sobre su columna y con las piernas levantadas o en forma distinta a la que sea propia de sus usos, costumbres y tradiciones obstétricas, aun cuando existan los medios necesarios para la realización del parto vertical.
+
+IV. Alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer.
+
+V. Practicar el parto por vía de cesárea, sin obtener el consentimiento voluntario, expreso e informado de la mujer, no obstante de existir condiciones para el parto natural.
+
+VI. Obstaculizar, sin causa médica justificada, el apego de la niña o el niño con su madre, mediante la negación a ésta de la posibilidad de cargarle o de amamantarle inmediatamente después de nacer.
+
+VII. Intervenir quirúrgicamente sin consentimiento o autorización de la paciente, en términos de las disposiciones aplicables.
+
+VIII. Realizar la esterilización sin el consentimiento voluntario, expreso e informado de la mujer, así como las consecuencias físicas y psicológicas de dicha intervención.
+
+IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+###### Artículo 8 Quater.
+
+El Gobierno del Estado, a través de la Secretaría de Salud, deberá desarrollar programas que fomenten la atención integral de la mujer durante el embarazo, el parto, el puerperio o en emergencias obstétricas, e instrumentará políticas públicas transversales para prevenir, erradicar y sancionar la violencia obstétrica.
 
 ###### Artículo 9.
 
@@ -465,11 +509,13 @@ II. Preventivas; y
 
 III. De naturaleza civil.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
 ###### Artículo 19.
 
-Las órdenes de protección de emergencia deberán ser implementadas por el Agente del Ministerio Público, en un término no mayor de ocho horas siguientes al conocimiento del hecho que las generen en todos los casos relacionados con violencia familiar, violencia de género y delitos contra la libertad, la seguridad sexual y contra la familia.
+Las órdenes de protección de emergencia y preventivas deberán ser otorgadas por la autoridad competente y ser implementadas por el Agente del Ministerio Público, en un término no mayor de ocho horas siguientes al conocimiento del hecho que las generen en todos los casos relacionados con violencia familiar, violencia de género y delitos contra la libertad, la seguridad sexual y contra la familia.
 
-Las órdenes de protección de emergencia tendrán una duración máxima de sesenta días naturales, prorrogables hasta por treinta días, para garantizar la vida, integridad y seguridad de las víctimas, y en su caso de las víctimas indirectas.
+Las órdenes de protección de emergencia y preventivas tendrán una duración que dependerá directamente con que la víctima de violencia deje de estar expuesta al riesgo, garantizando la vida, integridad y seguridad de las víctimas, y en su caso de las víctimas indirectas.
 
 Previo a la suspensión de las órdenes de protección decretadas por la autoridad, ésta deberá asegurarse bajo su más estricta responsabilidad que la situación de riesgo o peligro de la víctima ha cesado.
 
@@ -1756,3 +1802,39 @@ El presente Decreto entrará en vigor al día siguiente de su publicación el (s
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al siguiente decreto.
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 616.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 8° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente decreto.
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 617.- SE REFORMA Y ADICIONA EL ARTÍCULO 8 BIS, 8 TER Y 8 QUATER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 618.- SE REFORMA EL ARTÍCULO 19 DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
