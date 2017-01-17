@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-nominas-del-estado-de-quintana-roo-11119
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2015-12-15"
+last_updated: "2017-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL IMPUESTO SOBRE NOMINAS DEL ESTADO DE QUINTANA ROO
 
-LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -77,7 +79,9 @@ Para los efectos de este impuesto la prestación del servicio personal debe real
 
 Son sujetos pasivos de este impuesto, las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo 2 de esta ley, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aun cuando éstos sujetos tengan su domicilio fuera del Estado.
 
-Cuando en la contratación de trabajadores para una persona física, moral o unidad económica, a fin de que ejecuten trabajos o presten servicios para su actividad, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta ley. Las personas físicas, morales y unidades económicas que contraten los servicios de intermediarios laborales, deberán de presentar aviso por cada uno de los establecimientos en donde contraten los servicios de personal; dicho aviso deberá presentarse mediante las formas aprobadas por la Secretaría de Finanzas y Planeación dentro de los siguientes cinco días posteriores a la fecha de la firma del contrato suscrito o inicio de la prestación de los servicios o bien, de la fecha de su modificación, en el que especifique el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su proveedor; así como el número de empleados, el monto de la operación contratada, la vigencia del contrato, los establecimientos y las actividades por las que se contrata el servicio.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+
+Están obligadas a retener y enterar este impuesto las personas físicas, morales o unidades económicas que contraten la prestación de servicios de personal con un tercero, intermediario laboral o cualquiera que sea su denominación domiciliado dentro o fuera del territorio del Estado. Las personas físicas, morales y unidades económicas que contraten los servicios de personal con un tercero, intermediario laboral o cualquiera que sea su denominación, deberán presentar aviso por cada uno de los establecimientos, en donde contraten los servicios de personal; dicho aviso deberá presentarse mediante las formas aprobadas por la Secretaría de Finanzas y Planeación dentro de los siguientes cinco días posteriores a la fecha de la firma del contrato suscrito o inicio de la prestación de los servicios o bien, de la fecha de su modificación, en el que especifique el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su proveedor; así como el número de empleados, el monto de la operación contratada, la vigencia del contrato, los establecimientos y las actividades por las que se contrata el servicio.
 
 ## TÍTULO III. DE LA BASE Y DE LA TASA
 
@@ -89,7 +93,9 @@ Será base de este impuesto, el total de las erogaciones efectuadas en términos
 
 El presente impuesto se causará y pagará aplicando la tasa del 3% sobre la base gravable señalada en el artículo anterior.
 
-## TÍTULO IV. DE LAS OBLIGACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ENERO DE 2017)</small>
+
+## TÍTULO IV. DE LA ÉPOCA DE PAGO
 
 ###### Artículo 7.
 
@@ -143,7 +149,9 @@ Cuando se realicen las erogaciones a que se refiere el artículo 2 de esta ley, 
 
 Cuando el contribuyente realice la erogación a que se refiere el párrafo anterior por única ocasión, no estará obligado a inscribirse en el Registro Estatal de Contribuyentes.
 
-## TÍTULO V. DE LAS EXENCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ENERO DE 2017)</small>
+
+## TÍTULO V. DE LAS OBLIGACIONES
 
 ###### Artículo 12.
 
@@ -169,6 +177,14 @@ En las declaraciones que se presenten en los términos del párrafo que antecede
 
 Tratándose de intermediarios laborales deberán manifestar el número de empleados e impuesto causado por cada uno de los establecimientos donde se le hubiese contratado.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 17 DE ENERO DE 2017)</small>
+
+## TÍTULO VI. DE LAS RETENCIONES
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+### CAPÍTULO I. DE LAS RETENCIONES EN LO GENERAL
+
 ###### Artículo 14.
 
 Quienes realicen pagos y erogaciones por cuenta de terceros gravados por este impuesto, a personas que presten servicios en el Estado, estarán obligados a retener el impuesto correspondiente y a enterarlo en la Oficina Recaudadora de Rentas que corresponda al lugar en que se realice el pago en los términos y plazos establecidos por el artículo 7 de esta ley.
@@ -184,6 +200,66 @@ Las dependencias y organismos auxiliares de la Administración Pública Federal,
 Para determinar la cantidad a retener se tomará como base del impuesto, la cantidad establecida por concepto de la mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 6 de esta ley, por cada pago de estimaciones por trabajos ejecutados, que se otorgue a la empresa constructora a cuenta de pago final y hasta la terminación de la obra.
 
 El pago del impuesto retenido, deberá efectuarse dentro de los 10 días del mes siguiente a aquel en el cual se efectuaron las retenciones, mediante declaración definitiva en las formas aprobadas por la propia Secretearía (sic) de Finanzas y Planeación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE ENERO DE 2017)</small>
+
+### CAPÍTULO II. DE LAS RETENCIONES POR PRESTACIÓN DE SERVICIOS
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+###### Artículo 16 Bis.
+
+Las personas físicas, morales o unidades económicas con domicilio fiscal en el Estado, que contraten la prestación de servicios por la que se tenga la obligación de pagar el impuesto, con personas domiciliadas dentro o fuera del territorio del Estado, deberán:
+
+I. Retener el impuesto que se cause conforme a las disposiciones de esta Ley y expedir al prestador del servicio constancia de la retención dentro de los 15 días siguientes a la fecha en que se efectuó dicha retención y pago correspondiente en el formato que para tal efecto autorice la Secretaría de Finanzas y Planeación del Estado. La retención se efectuará en el momento en que se pague la contraprestación por los servicios contratados, y
+
+II. Declarar y enterar el impuesto retenido, en el plazo ordinario previsto en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+###### Artículo 16 Ter.
+
+La retención a que se refiere la fracción I del artículo anterior, se determinará conforme a lo siguiente:
+
+I. El comprobante fiscal que expida el prestador del servicio, señalará en forma expresa y por separado el o los importes de los conceptos por el o los que se cause el impuesto, dichos montos serán la base para el cálculo de la retención, y
+
+II. En caso de que el comprobante no se expida en los términos de la fracción anterior, el retenedor deberá solicitar por escrito dentro de los 5 días hábiles siguientes a la fecha de expedición del comprobante, al prestador del servicio causante del impuesto, que le dé a conocer por el mismo medio el importe total de los conceptos por el o los que se cause el gravamen. Dicho importe será la base para la retención.
+
+La información a que se refiere el párrafo anterior, deberá suministrarse por el prestador del servicio causante del impuesto en términos de esta Ley, al retenedor dentro de los 5 días hábiles posteriores, a la recepción del escrito mencionado.
+
+En el supuesto de que, el prestador del servicio causante del gravamen estatal no expida el comprobante fiscal, a que se refiere este artículo, o bien, no proporcione el escrito previsto en la fracción II del mismo, la base para la retención será el total de las contraprestaciones efectivamente pagadas en el mes que corresponda.
+
+La base a que se refiere el párrafo anterior, se determinará sin incluir la contribución que se traslade en forma expresa y por separado en el comprobante, independientemente de la denominación con que se designe.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+###### Artículo 16 Quáter.
+
+Los retenedores de este impuesto tendrán, además de las obligaciones señaladas en este título, las siguientes:
+
+I. Presentar aviso de alta o aumento de obligaciones por el inicio de la retención del impuesto, dentro de los 15 días siguientes a la fecha de la primera retención que efectúen, adjuntando copia del contrato celebrado con el prestador del servicio;
+
+II. Presentar declaraciones mensuales provisionales del impuesto retenido y hacer el entero del mismo, a más tardar el día 17 del mes siguiente a aquél en que se efectúa la retención.
+
+Las declaraciones a que se refiere el párrafo anterior, se presentarán aun cuando no exista contribución a pagar, mientras no se presente el aviso de disminución de obligaciones como retenedor;
+
+III. Llevar registros contables, que permitan identificar los importes de las retenciones que de conformidad con este título estén obligados a efectuar.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+###### Artículo 16 Quinquies.
+
+En caso que el retenedor hubiera retenido en exceso el importe de la contribución al prestador del servicio, este podrá solicitar la devolución del pago indebido o la compensación que proceda, en términos de lo dispuesto en el Código Fiscal del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+###### Artículo 16 Sexies.
+
+El retenedor será responsable solidario en términos de lo dispuesto en el artículo 23 del Código Fiscal del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2017)</small>
+
+## TÍTULO VII. DE LAS EXENCIONES
 
 ###### Artículo 17.
 
@@ -258,3 +334,13 @@ EL SECRETARIO DE GOBIERNO
 DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORIA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 040 POR El QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1o. de enero de 2017, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
