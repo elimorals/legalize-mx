@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-de-informacion-publica-del-poder-88675"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-28"
-last_updated: "2012-07-28"
+last_updated: "2017-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERNO DE INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL CONGRESO DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 17 DE ENERO DE 2017; ESTE ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS DIEZ DÍAS SIGUIENTES A SU APROBACIÓN.]</small>
+
 REGLAMENTO INTERNO DE INFORMACIÓN PÚBLICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el sábado 28 de julio de 2012.
 
@@ -346,3 +348,27 @@ GUADALAJARA, JAL. MÉXICO
 LIC. JOSÉ MANUEL CORREA CESEÑA
 
 SECRETARIO GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26179/LXI/16 MEDIANTE EL CUAL SE CREA EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL CONGRESO DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor a los diez días siguientes a su aprobación.
+
+Segundo. Publíquese en el periódico oficial "El Estado de Jalisco".
+
+Tercero. Se abroga el Reglamento Interno de Información Pública del Estado de Jalisco del 23 de julio de 2012.
+
+Cuarto. La Unidad de Transparencia en coordinación con la Dirección de Apoyo informático deberán de realizar las adecuaciones necesarias al Portal Web del Congreso y a la Sección de Transparencia de acuerdo con la Ley General, la Ley, los lineamientos del Sistema Nacional, el Instituto, el presente reglamento y las disposiciones que emita el Comité en un plazo de sesenta días a partir de la aprobación del presente reglamento.
+
+Quinto. La Unidad de Transparencia, la Dirección de Procesos, la Dirección de Apoyo Informático y la Dirección de Biblioteca, Archivo y Editorial, realizarán las adecuaciones necesarias del Sistema de Información Legislativa del Estado de Jalisco, en lo sucesivo INFOLEJ, y de la Gaceta Legislativa, así como al SIP de acuerdo con los lineamientos del Sistema Nacional, el Instituto, el presente Reglamento y las disposiciones que emita el Comité en un plazo de noventa días a partir de la aprobación del presente reglamento.
+
+Sexto. Para generar las Tablas de Aplicabilidad de las Obligaciones de Transparencia definitivas correspondientes al Congreso, la Unidad realizará la propuesta correspondiente al Comité, para que le remita al Instituto las consideraciones en los términos dispuestos en el último párrafo del artículo 70 de la Ley General y de la fracción I del noveno numeral de las Disposiciones Generales de estos Lineamientos Técnicos Generales para la Publicación, Homologación y Estandarización de la Información de las Obligaciones establecidas en el Título Quinto y en la Fracción IV del Artículo 31 de la Ley General de Transparencia y Acceso a la Información Pública, que deben de Difundir los Sujetos Obligados en los Portales de Internet y en la Plataforma Nacional De Transparencia, a más tardar 30 días hábiles posteriores a la entrada en vigor del presente Reglamento.
+
+Séptimo. El artículo 6° del presente reglamento entrará en vigor dentro (sic) sesenta días posteriores a la entrada en vigor del presente Reglamento. La Unidad de Transparencia y la Dirección de Apoyo informático en tanto entra en vigor el artículo deberán realizar las adecuaciones necesarias para su cumplimiento.
+
+Octavo. Los procedimientos de protección de datos personales se atendrán a la normatividad aplicable en lo federal o en lo estatal, corriendo dicho procedimiento a través de la Plataforma Nacional, en tanto no se apruebe la Ley General de Protección de Datos; en el módulo que para tal efecto se establezca, identificando plenamente el acceso, rectificación, cancelación u oposición de datos personales y el medio de impugnación o por medio del sistema implementado por los organismos garantes.
+
+Noveno. En tanto la Unidad no cuente con el personal para que se haga cargo del soporte informático, la Dirección de Apoyo informático deberá auxiliar técnicamente a la Unidad de Transparencia.
