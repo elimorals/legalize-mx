@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-procuraduria-de-proteccion-al-60506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-27"
-last_updated: "2008-03-27"
+last_updated: "2017-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DE LA PROCURADURIA DE PROTECCION AL AMBIENTE DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 18 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA PROCURADURIA DE PROTECCION AL AMBIENTE DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el jueves 27 de marzo de 2008.
 
@@ -400,3 +402,13 @@ CATALINA ROSAS MONGE
 Secretaria de Urbanismo y Medio Ambiente
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA PROCURADURIA DE PROTECCION AL AMBIENTE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Reglamento Interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento Interior de la Procuraduría de Protección al Ambiente del Estado, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 27 de marzo del 2008, Tomo CXLIII séptima sección, y se dejan sin efecto todas las disposiciones de carácter administrativo en lo que se opongan al presente Reglamento.
