@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-notariado-del-estado-de-nuevo-leon-7614"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "2011-09-28"
+last_updated: "2017-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEON
 
-LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEON
+LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 1983.
 
@@ -131,7 +131,7 @@ El Notario residirá en uno de los Municipios que corresponda a su demarcación 
 
 Los Notarios no serán remunerados por el Gobierno del Estado, sino que tendrán derecho de cobrar a los interesados, en cada caso, los honorarios correspondientes conforme a las reglas que señale el Arancel correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 18.
 
@@ -513,7 +513,7 @@ En cualquier caso en que el Protocolo no quede regularizado por los Notarios sus
 
 Una vez clausurado un Protocolo, se remitirá a la Dirección de Archivo General de Notarías con sus Apéndices y demás documentos que integren el Archivo de la Notaría, incluyendo el Sello de Autorizar, quedando facultado el titular de dicha dependencia para tramitar los Instrumentos ya autorizados y para expedir los testimonios, copias y certificaciones que se soliciten por parte interesada. La falta del Titular de la dependencia citada, será suplida por el Director del Registro Público de la Propiedad y del Comercio en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 77.
 
@@ -625,7 +625,7 @@ Cuando se tramite una sucesión ante notario público se deberá recabar el info
 
 Los Notarios, en el ejercicio de su profesión, deben guardar reserva sobre lo pasado ante ellos y están sujetos a las disposiciones del Código Penal sobre violación al secreto profesional, salvo los informes que obligatoriamente establezcan las Leyes respectivas.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO SEGUNDO. DEL PROTOCOLO ABIERTO, SU APENDICE E INDICE
 
@@ -701,7 +701,7 @@ En caso de extravío o destrucción total o parcial de los folios, el Notario o 
 
 ###### Artículo 95.
 
-Cuando el Notario advierta que ha asentado el último instrumento que conformará el libro, cerrará el mismo dentro un (sic) plazo de noventa días naturales contados a partir de la fecha del último instrumento. El cierre expresará el lugar, día y hora en que se realiza, el número del libro, el número de folios utilizados, las aclaraciones a que se refiere el artículo anterior, el número de instrumentos autorizados y el de los que no pasaron, así como los que quedan pendientes de autorización relacionando aquellos y expresando el motivo de estar pendientes estos, haciendo referencia de la fecha y número ordinal de la última escritura del libro objeto del cierre y autorizará con su firma y sello.
+Cuando el Notario advierta que ha asentado el último instrumento que conformará el libro, cerrará el mismo dentro (sic) un plazo de noventa días naturales contados a partir de la fecha del último instrumento. El cierre expresará el lugar, día y hora en que se realiza, el número del libro, el número de folios utilizados, las aclaraciones a que se refiere el artículo anterior, el número de instrumentos autorizados y el de los que no pasaron, así como los que quedan pendientes de autorización relacionando aquellos y expresando el motivo de estar pendientes estos, haciendo referencia de la fecha y número ordinal de la última escritura del libro objeto del cierre y autorizará con su firma y sello.
 
 A partir de la fecha de cierre del libro, el Notario dispondrá de un plazo de cuatro meses para encuadernarlo sólidamente y empastarlo.
 
@@ -779,7 +779,9 @@ El Notario redactará las escrituras en idioma español, sin perjuicio de adicio
 
 I.- Expresará el número del libro y el de la escritura, el lugar y la fecha en que se extienda, así como la hora en los casos en que la Ley así lo prevenga, su nombre y apellidos, su carácter de Titular, Asociado o Suplente y el número de la Notaría;
 
-II.- Expresará el nombre, apellidos, edad, fecha de nacimiento, estado civil, registro federal de contribuyentes, lugar de origen, nacionalidad, profesión u oficio y domicilio de las personas que intervengan en el acto. Al expresar el domicilio no sólo mencionará la población en general, sino también, de ser posible, el número de la casa, nombre de la calle, o cualquier otro dato que precise dicho domicilio. Asimismo, hará constar los nombres y apellidos, denominación o razón social de las personas representadas y sus demás generales;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
+
+II.- Expresará el nombre, apellidos, fecha de nacimiento, estado civil, registro federal de contribuyentes, lugar de origen, nacionalidad, profesión u oficio y domicilio de las personas que intervengan en el acto. Al expresar el domicilio no sólo mencionará la población en general, sino también, de ser posible, el número de la casa, nombre de la calle, o cualquier otro dato que precise dicho domicilio. Asimismo, hará constar los nombres y apellidos, denominación o razón social de las personas representadas y sus demás generales;
 
 III.- Consignará las declaraciones que hagan los otorgantes como antecedentes o preliminares y certificará que ha tenido a la vista los documentos que se le hubieren presentado y que se hayan relacionado o inserto en la parte expositiva de la escritura. Si se tratare de inmuebles, relacionará cuando menos el último título de propiedad del bien o del derecho a que se refiere la escritura y citará su inscripción en el Registro Público de la Propiedad o expresará la razón por la cual no ha sido registrada;
 
@@ -791,9 +793,13 @@ VI.- Designará con exactitud las cosas que sean objeto del acto, de tal modo qu
 
 VII.- Determinará las renuncias de derechos o de Leyes que válidamente hagan los otorgantes;
 
-VIII.- Dejará acreditada la personalidad de quien comparezca en representación de otro, relacionando los documentos respectivos e insertando la parte conducente, o bien agregándolos en su original o copia certificada al Apéndice y haciendo mención de ellos en el Instrumento;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
 
-IX.- Insertará íntegramente o en lo conducente según el caso, cualesquiera otros documentos que se le presenten, o agregará el original o la copia certificada que de él se tome al legajo respectivo del Apéndice. Esto último hará con los planos y documentos relacionados en idioma extranjero que se le exhiban;
+VIII.- Dejará acreditada la personalidad y en su caso la existencia y subsistencia legal, de quien comparezca en representación de otro, relacionando los documentos respectivos e insertando la parte conducente, ya sea en el cuerpo de la escritura o bien, en un escrito detallado que se agregará al apéndice y que deberá trascribirse en los testimonios correspondientes.
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
+
+IX.- Insertará íntegramente o en lo conducente según el caso, cualesquiera otros documentos que se le presenten, o agregará el original o la copia certificada o copia simple con sello notarial que de él se tome al legajo respectivo del Apéndice. Esto último hará con los planos y documentos relacionados en idioma extranjero que se le exhiban;
 
 X.- Al agregar al Apéndice cualquier documento, expresará el número del legajo y la letra bajo la cual se coloca en el legajo;
 
@@ -883,7 +889,7 @@ Todas las razones o anotaciones llevarán la rúbrica del Notario o de quien lo 
 
 Se prohibe a los Notarios consignar revocaciones, rescisiones o modificaciones al contenido de una escritura por simple razón al pie de la misma. En estos casos debe extenderse nueva escritura y hacerse referencia de ella, al pie de la antigua, salvo disposición expresa de la Ley en sentido contrario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 121.
 
@@ -989,9 +995,13 @@ Los preceptos del capítulo anterior relativos a las escrituras, serán aplicabl
 
 Cuando se solicite al Notario que dé fe de varios hechos relacionados entre sí, que tengan lugar en diversos sitios o momentos, el Notario podrá asentarlos en una sola acta, una vez que todos se hayan realizado.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2017)</small>
+
 ###### Artículo 138.
 
-Los Notarios llevarán un libro autorizado por el Ejecutivo del Estado o por el Funcionario que tenga delegada dicha facultad, el que constará de trescientas páginas, en las que se registrarán con numeración progresiva y por orden cronológico todas las actas que autoricen fuera de Protocolo, y un asiento debidamente explicativo de cada una de ellas, el cual por ningún concepto deberá borrarse o alterarse. Este libro se cerrará cada año con la anotación correspondiente, autorizada por el Notario y formará parte del Archivo de la Notaría. Una vez que se agote la capacidad del libro de que se trate, quien tenga delegada dicha facultad de acuerdo a la Ley Orgánica de la Administración Pública, asentará la anotación de cierre correspondiente, y el Notario se proveerá de nuevo libro para seguir actuando, el cual se autorizará conforme a los términos antes indicados.
+Los Notarios llevarán un libro abierto con 300 páginas autorizado por el Ejecutivo del Estado o por el Funcionario que tenga delegada dicha facultad en el que se registrarán con numeración progresiva y por orden cronológico todas las actas que autoricen fuera de Protocolo mediante un asiento debidamente explicativo que contenga el acto o hecho jurídico y las partes intervinientes de cada una de ellas, el cual por ningún concepto deberá borrarse o alterarse. Este libro se cerrará cada año con la anotación correspondiente, autorizada por el Notario y formará parte del Archivo de la Notaría. Una vez que se agote la capacidad del libro de que se trate, quien tenga delegada dicha facultad de acuerdo a la Ley Orgánica de la Administración Pública, asentará la anotación de cierre correspondiente, y el Notario se proveerá de nuevo libro para seguir actuando, el cual se autorizará conforme a los términos antes indicados.
+
+Los Notarios remitirán al Archivo General de Notarias durante el mes de agosto un respaldo electrónico de las actas del libro abierto realizadas durante el primer semestre del año y otro respaldo electrónico durante el mes de febrero de las actas generadas durante el segundo semestre del año previo.
 
 ###### Artículo 139.
 
@@ -1145,7 +1155,7 @@ VIII.- Las demás que le confieren esta Ley, sus reglamentos y los Estatutos del
 
 ### CAPITULO SEGUNDO. DE LA INSPECCION DE NOTARIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 157.
 
@@ -1417,7 +1427,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 GRACIANO BORTONI URTEAGA.
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 20 DE ENERO DE 1997.
 
@@ -1454,3 +1464,13 @@ Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicaci
 P.O. 28 DE SEPTIEMBRE DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 182. POR EL QUE SE REFORMA POR MODIFICACIÓN DE LA FRACCIÓN V DEL ARTÍCULO 2907 Y EL ARTÍCULO 2910 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; TAMBIÉN REFORMA POR MODIFICACIÓN DE LAS FRACCIONES II, VIII Y IX DEL ARTÍCULO 106 Y EL ARTÍCULO 138 DE LA LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEÓN; ADEMÁS REFORMA POR MODIFICACIÓN DE LA FRACCIÓN VII DEL ARTÍCULO 29 DE LA LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día primero de enero de 2017.
+
+Segundo.- Los avisos, inscripciones, escrituras, y demás trámites llevados a cabo previo a la entrada en vigor del presente decreto se sujetarán a los plazos, términos y condiciones vigentes al momento de su realización.
+
+Tercero.- El primer informe a que (sic) referencia el segundo párrafo del artículo 138 de la Ley del Notariado del Estado de Nuevo León deberá presentarse durante el mes de agosto de 2017.
