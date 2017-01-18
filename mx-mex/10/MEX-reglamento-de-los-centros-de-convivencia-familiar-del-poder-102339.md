@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-los-centros-de-convivencia-familiar-del-poder-102
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-09-01"
-last_updated: "2014-09-01"
+last_updated: "2017-01-18"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE MÉXICO, PUBLICADO EN EL P.O. DE 18 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO QUEDADA SIN EFECTOS.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE MÉXICO, PUBLICADO EN EL G.G. DE 18 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
 
 REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE ENERO DE 2017 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el lunes 1 de septiembre de 2014.
 
@@ -312,3 +312,13 @@ SECRETARIO GENERAL DE ACUERDOS
 LIC. JOSÉ ANTONIO PINAL MORA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 18 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Por ser de interés general, publíquese este reglamento en el Periódico Oficial “Gaceta del Gobierno" y en el Boletín Judicial.
+
+SEGUNDO: El Presente reglamento entrará en vigor al día siguiente de su publicación, quedando sin efectos el Reglamento anterior.
