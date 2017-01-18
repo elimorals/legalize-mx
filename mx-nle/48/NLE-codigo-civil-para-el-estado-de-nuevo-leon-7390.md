@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2016-12-14"
+last_updated: "2017-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -16603,7 +16603,11 @@ III.- El valor de los bienes o derechos a que se refieren las fracciones anterio
 
 IV.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantizado, y si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr;
 
-V.- Los nombres, edades, domicilios y profesiones de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto. Las personas morales se designarán por el nombre oficial que lleven y las sociedades, por su razón o denominación;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
+
+V.- Los nombres, fecha de nacimiento, domicilios y profesiones de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto. Las personas morales se designarán por su nombre oficial, razón social o denominación.
 
 VI.- La naturaleza del acto o contrato;
 
@@ -16619,19 +16623,23 @@ Los interesados deberán presentar para su registro los documentos por duplicado
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2017)</small>
 
 ###### Art. 2910.
 
-En los casos de trámites para adquisición, transmisión, modificación o extinción de la propiedad o posesión de bienes raíces o para que se haga constar un crédito que tenga preferencia desde que se ha registrado, únicamente el Notario Público ante quien se realicen dichos trámites, bajo su más estricta responsabilidad, incluirá en la solicitud que haga para esos efectos, del certificado de gravámenes o de libertad de éstos, la expresión "con carácter de aviso pre-preventivo", señalando los datos esenciales y los nombres de las personas entre quienes se propala la operación, lo que bastará para que el Registrador Público, previo el pago de los derechos correspondientes, haga inmediatamente la anotación al margen de la inscripción de propiedad, misma que surtirá efectos durante treinta días naturales.
+En los casos de trámites para adquisición, transmisión, modificación o extinción de la propiedad o posesión de bienes raíces o para que se haga constar un gravamen que tenga preferencia desde que se ha registrado, únicamente el Notario Público ante quien se realicen dichos trámites, bajo su más estricta responsabilidad, incluirá en la solicitud que haga para esos efectos, del certificado de gravámenes o de libertad de éstos, la expresión "con carácter de aviso pre-preventivo", señalando el o los actos jurídicos y los nombres de las personas entre quienes se propala la operación, lo que bastará para que el Registrador Público, previo el pago de los derechos correspondientes, haga inmediatamente la anotación al margen de la inscripción de propiedad, misma que surtirá efectos durante cuarenta y cinco días naturales contados a partir de la presentación del aviso. El "aviso pre-prepreventivo (sic)" tendrá prelación desde el momento de su presentación ante el Registrador Público independientemente que este sea devuelto para alguna corrección siempre y cuando los datos proporcionados permitan realizar la anotación al margen de la inscripción.
 
-Si antes de transcurrir los treinta días, los propalantes de la operación suprimen definitivamente los trámites, el Notario Público está obligado a comunicarlo de inmediato al Registrador, para que éste cancele la anotación pre-preventiva.
+Si antes de transcurrir los cuarenta y cinco días indicados en el párrafo que antecede, los propalantes de la operación suprimen definitivamente los trámites, el correspondiente Notario Público está obligado a comunicarlo en un plazo no mayor de cinco días hábiles al Registrador, para que éste cancele la anotación pre-preventiva. La solicitud de los propalantes de suprimir definitivamente los trámites deberá hacerse por escrito al correspondiente Notario Público.
 
-Cuando quede debidamente comprobado que el aviso pre-preventivo se presentó sin darse los supuestos anteriores y se origine en consecuencia la simulación de un acto que acarrée perjuicio a terceros, el fedatario público se hará acreedor a que el Ejecutivo del Estado le revoque la patente.
+Cuando quede debidamente comprobado que el aviso pre-preventivo se presentó sin darse los supuestos anteriores y se origine en consecuencia la simulación de un acto que acarrée perjuicio a terceros, el respectivo Notario Público se hará acreedor a que el Ejecutivo del Estado le revoque la patente.
 
-Una vez que se firme la escritura, en los casos a que se refiere el primer párrafo de este Artículo, el Notario que la autorice dará al Registro el aviso en el que conste el inmueble de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituído, transmitido, modificado o extinguido el derecho real sobre él, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo o sección en que estuviere inscrita la propiedad en el Registro. El Registrador, previo el pago de los derechos correspondientes, hará, inmediatamente de recibido el aviso, la anotación preventiva al margen de la inscripción de propiedad. Si dentro de los dos meses siguientes a la fecha en que se hubiere firmado la escritura se presentare testimonio respectivo, su inscripción surtirá efectos contra terceros desde la fecha de la anotación pre-preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+Una vez que se firme la escritura, dentro del plazo y en los casos a que se refiere el primer párrafo de este Artículo, el Notario Público que la autorice dará al Registro el aviso en el que conste la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido, modificado o extinguido el derecho real sobre el inmueble de que se trate, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo o sección en que estuviere inscrita la propiedad en el Registro. El Registrador, previo el pago de los derechos correspondientes, hará, inmediatamente de recibido el aviso, la anotación preventiva al margen de la inscripción de propiedad. Si dentro de los noventa días siguientes a la fecha en que se hubiere firmado la escritura se presentare ante el registro público el testimonio respectivo de la escritura que contuviere el acto jurídico por el que se hubiere presentado el correspondiente aviso preventivo, su inscripción surtirá efectos contra terceros desde la presentación del aviso pre-preventivo, la cual se citará en el registro definitivo. Si el testimonio se presenta después del plazo indicado, su registro sólo surtirá efectos desde el momento de su respectiva presentación.
 
-Si fuere privado el documento en que conste alguna de las citadas operaciones, deberán dar el aviso a que se refiere la primera parte del párrafo anterior, las autoridades de que habla la Fracción III del Artículo 2903, y el mencionado aviso producirá los mismos efectos que el dado por el Notario.
+Si se firma la escritura y se presenta al Registro dentro del plazo de cuarenta y cinco días naturales contados a partir de la presentación del aviso pre-preventivo para los casos a que se refiere el primer párrafo de este Artículo, su inscripción surtirá efectos contra terceros desde la presentación del aviso pre-preventivo, la cual se citará en el registro definitivo, independientemente de la presentación o no del aviso preventivo. Si el testimonio se presenta después del plazo indicado y no se presentó aviso preventivo, su registro sólo surtirá efectos desde el momento de su respectiva presentación.
+
+Si se hubiere firmado la escritura sin la presentación del aviso pre-preventivo que se menciona en el primer párrafo de este artículo, el Notario Público que la autorice dará aviso preventivo en los términos del párrafo cuarto. Si dentro de los noventa días siguientes a la fecha en que se hubiere firmado la escritura se presentare ante el Registro Público el testimonio respectivo de la escritura que contuviere el acto jurídico por el que se hubiere presentado el correspondiente aviso preventivo, su inscripción surtirá efectos contra terceros desde la presentación del aviso preventivo, la cual se citará en el registro definitivo. Si el testimonio se presenta después del plazo indicado, su registro solo surtirá efectos desde su presentación.
 
 ###### Art. 2911.
 
@@ -17384,6 +17392,16 @@ Segundo.- Resulta aplicable el presente Decreto a los matrimonios celebrados con
 Tercero.- La entrada en vigor del presente Decreto, no altera los derechos adquiridos en los juicios de divorcio concluidos en forma ejecutoriada.
 
 Cuarto.- Los asuntos en trámite al entrar en vigor las reformas contenidas en este Decreto, seguirán su curso en la forma que iniciaron y, en su caso, se resolverán observando la jurisprudencia por contradicción 73/2014, publicada en el Semanario Judicial de la Federación, 10 de julio de 2015.
+
+P.O. 18 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 182. POR EL QUE SE REFORMA POR MODIFICACIÓN DE LA FRACCIÓN V DEL ARTÍCULO 2907 Y EL ARTÍCULO 2910 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; TAMBIÉN REFORMA POR MODIFICACIÓN DE LAS FRACCIONES II, VIII Y IX DEL ARTÍCULO 106 Y EL ARTÍCULO 138 DE LA LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEÓN; ADEMÁS REFORMA POR MODIFICACIÓN DE LA FRACCIÓN VII DEL ARTÍCULO 29 DE LA LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día primero de enero de 2017.
+
+Segundo.- Los avisos, inscripciones, escrituras y demás trámites llevados a cabo previo a la entrada en vigor del presente decreto se sujetarán a los plazos, términos y condiciones vigentes al momento de su realización.
+
+Tercero.- El primer informe a que (sic) referencia el segundo párrafo del artículo 138 de la Ley del Notariado del Estado de Nuevo León deberá presentarse durante el mes de agosto de 2017.
 
 ###### ARTICULO TERCERO.
 
