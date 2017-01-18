@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-la-juventud-35835"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2014-11-28"
+last_updated: "2017-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -403,11 +403,11 @@ VI. Las demás que le correspondan.
 
 #### Sección Tercera. Del Director General del Instituto
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2017)</small>
 
 ###### Artículo 21.
 
-El Director General será nombrado y removido por el Titular del Poder Ejecutivo del Estado. Para ser Director General del Instituto se requiere tener como edad máxima la de 29 años al día de su nombramiento, ser ciudadano nuevoleonés o residencia en el Estado por más de tres años al día de su nombramiento, estudios de nivel superior y acreditar experiencia en áreas de atención a la juventud.
+El Director General será nombrado por el Titular del Poder Ejecutivo del Estado. Para ser Director General del Instituto se requiere tener como edad máxima la de 29 años al día de su nombramiento, ser ciudadano Nuevoleonés o residencia en el Estado por más de tres años al día de su nombramiento, estudios de nivel superior y acreditar experiencia en áreas de atención a la juventud, la designación será por un periodo de hasta seis años sin posibilidad de reelección.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
@@ -553,7 +553,7 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 27 DE ABRIL DE 2007.
 
@@ -576,3 +576,9 @@ P.O. 30 DE OCTUBRE DE 2013.
 P.O. 28 DE NOVIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 220. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 21 DE LA LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
