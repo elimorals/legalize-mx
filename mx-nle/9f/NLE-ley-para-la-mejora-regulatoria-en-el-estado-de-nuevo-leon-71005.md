@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-mejora-regulatoria-en-el-estado-de-nuevo-leon-71005
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-01"
-last_updated: "2016-04-06"
+last_updated: "2017-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA MEJORA REGULATORIA Y LA SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 18 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el jueves 1 de octubre de 2009.
 
@@ -700,3 +702,29 @@ Sexto.- Las licitaciones, adquisiciones o procedimientos no jurisdiccionales que
 Séptimo.- El Ejecutivo del Estado o la entidad a quien legalmente le corresponda, deberá emitir las modificaciones a los Reglamentos de las dependencias y entidades materia de la reforma, para los efectos establecidos en el artículo segundo transitorio.
 
 Octavo.- Se abroga la Ley, que crea el Comité para el Desarrollo del Estado de Nuevo León publicada en el Periódico Oficial del Estado el 1° de mayo de 1981.
+
+P.O. 18 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 216. POR EL QUE SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA Y LA SIMPLIFICACIÓN ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Se abroga la Ley para la Mejora Regulatoria del Estado de Nuevo León, publicada en el Periódico Oficial del Estado en fecha 01 de octubre de 2009.
+
+Tercero.- Los Programas de Mejora Regulatoria a que se refieren los Artículos 39 al 44, deberán ser expedidos en un plazo de 180 días naturales contados a partir de la entrada en vigor de esta Ley.
+
+Cuarto.- El Ejecutivo Estatal expedirá el Reglamento de la presente Ley en un periodo de 180 días naturales a partir de la publicación de la presente Ley. Hasta en tanto se emitan dichos reglamentos, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no la contravengan.
+
+Quinto.- El Consejo Estatal de Mejora Regulatoria se instalará dentro del mes siguiente a la entrada en vigor de la presente Ley, y propondrá al Ejecutivo Estatal su Reglamento Interior, en un plazo no mayor a 180 días naturales, contados a partir de la fecha de su instalación.
+
+Sexto.- Se deberá adecuar la legislación en materia de mejora regulatoria de los municipios, en atención a lo dispuesto en el artículo 17 de esta Ley, en un plazo no mayor de 180 días naturales contado a partir de la entrada en vigor de la misma.
+
+Séptimo.- Los sujetos obligados deberán informar a la Comisión Estatal, en un lapso de un mes a la instalación formal de ésta, del nombramiento de su Enlace Oficial de mejora regulatoria.
+
+Octavo.- El Catálogo Estatal de Trámites y Servicios deberá estar integrado en un término de tres meses a partir de la entrada en vigor de esta Ley, y las disposiciones aplicables entrarán en vigor una vez que la Comisión publique en el Periódico Oficial del Estado el acuerdo de que el Catálogo se encuentra operando.
+
+Noveno.- Los municipios expedirán su propio reglamento en la materia en un plazo de 6 meses, contado a partir de la entrada en vigor de la Ley, el cual será publicado en el Periódico Oficial del Estado. Concluido este plazo, las Comisiones Municipales de Mejora Regulatoria deberán integrarse e instalarse en un plazo de un mes.
+
+Décimo.- La VUMAT y VUC deberán estar integradas y operando en un término de un año a partir de la entrada en vigor de esta Ley, y las disposiciones aplicables entrarán en vigor una vez que el R. Ayuntamiento publique en su gaceta municipal los tramites a operar y los mecanismos de cada una.
+
+Décimo Primero.- Todos los asuntos pendientes de resolución en materia de Mejora Regulatoria, pasarán a la Comisión Estatal o Comisiones Municipales, según corresponda, instalada en los términos de la presente Ley.
