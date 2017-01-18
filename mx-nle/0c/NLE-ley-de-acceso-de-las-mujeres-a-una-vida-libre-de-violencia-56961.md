@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2016-04-01"
+last_updated: "2017-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -111,15 +111,17 @@ IV. Patrimonial: La acción u omisión que dañe intencionalmente el patrimonio 
 
 V. Violencia Económica: Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, o la percepción de un salario menor por igual trabajo en un mismo centro laboral;
 
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2017)</small>
+
+VI. Violencia Política: Es el conjunto de acciones u omisiones cometidas por una o varias personas o a través de terceros, basadas en elementos de género que causen daño a una mujer y que tengan por objeto menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o prerrogativas inherentes a un cargo público.
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
+
+VII. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden culminar en homicidio y otras formas de muerte violenta de mujeres.
+
 > <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
 
-VI. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden culminar en homicidio y otras formas de muerte violenta de mujeres.
-
-En los casos de feminicidio se aplicará lo previsto en el Artículo 331 Bis 2 del Código Penal para el Estado de Nuevo León; y
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
-
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 7.
 
@@ -942,3 +944,9 @@ P.O. 1 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 083. SE ADICIONA UNA FRACCIÓN II AL ARTÍCULO 40 DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 18 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 218. SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 6 Y SE REORDENA EL CONTENIDO DE LAS FRACCIONES VI Y VII, DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
