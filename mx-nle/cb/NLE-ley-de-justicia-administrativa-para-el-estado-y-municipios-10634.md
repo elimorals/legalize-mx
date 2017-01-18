@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2014-09-26"
+last_updated: "2017-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEON - ANTES LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON -
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -81,15 +83,11 @@ Todas las sesiones de la Sala Superior del Tribunal serán públicas, con excepc
 
 ### CAPITULO II. DE LA INTEGRACION DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+###### Artículo 5o.
 
-###### Articulo 5o.
-
-El Tribunal se conformará por cuatro salas, una de las cuales será la Sala Superior, que funcionará colegiadamente y se integrará por tres Magistrados; las demás salas serán ordinarias y unitarias, pudiendo cualquiera de ellas conocer del juicio oral, por acuerdo de la Sala Superior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Tribunal se conformará por una Sala Superior, que funcionará colegiadamente y se integrará por tres Magistrados; así como de las demás Salas Ordinarias y unitarias que sean necesarias, pudiendo cualquiera de las Salas Ordinarias conocer del juicio oral, por acuerdo de la Sala Superior:
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -104,8 +102,6 @@ II.- Un Secretario General de Acuerdos;
 III.- Secretarios de Estudio y Cuenta;
 
 IV.- Actuarios, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -193,8 +189,6 @@ IV.- No ser ministro de algún culto o asociación religiosa; y
 
 V.- No haber desempeñado cargo de elección popular, federal, estatal o municipal, Secretario de Despacho del Ejecutivo, o Procurador General de Justicia, cuando menos los dos años previos al día de su nombramiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 9o.
@@ -207,7 +201,9 @@ Son causas de terminación del cargo de Magistrado del Tribunal, padecer incapac
 
 Cuando algún Magistrado esté por concluir el período para el que haya sido nombrado, el Presidente del Tribunal, con por lo menos tres meses de anticipación, comunicará esa circunstancia al Gobernador del Estado para los efectos de la propuesta consecuente al Congreso, la cual se hará aun en caso de incumplirse la comunicación a que se refiere este párrafo
 
-La falta definitiva de cualquiera de los Magistrados o la actualización de alguna otra causa de terminación de su cargo, será comunicada inmediatamente por el Presidente del Tribunal al Gobernador del Estado, a fin de que proponga al Congreso el nuevo nombramiento.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2017)</small>
+
+Cuando existan circunstancias especiales, entendiéndose estas por exceso en la carga de trabajo o mandato de ley, que hagan necesaria la creación de una nueva sala ordinaria, la Sala Superior deberá comunicarlo por escrito al Gobernador del Estado para que, en caso de así estimarlo conveniente, envié la propuesta del nuevo nombramiento al Congreso.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -335,8 +331,6 @@ XIV.- Los demás que se promuevan en contra de actos o resoluciones que por su n
 
 De igual manera, el Tribunal será competente, por medio de la Sala Superior o del Magistrado de la Sala Ordinaria, según sea el caso, para conocer y resolver los recursos de revisión y queja que se promuevan conforme a lo dispuesto en los Artículos 90, 91 y 92 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 17 Bis.
@@ -379,9 +373,17 @@ XIV.- Dictar las medidas administrativas para el buen funcionamiento del Tribuna
 
 XV.- Conocer y resolver las denuncias, quejas o irregularidades administrativas que cometieren o se formulen contra los Magistrados y demás empleados del Tribunal en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
 
-XVI.- Conocer y resolver el recurso de revocación previsto en el Articulo 105 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipio de Nuevo León, y
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
 
-XVII.- Las demás que señale la Ley.
+XVI.- Conocer y resolver el recurso de revocación previsto en el Artículo 105 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipio de Nuevo León;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
+
+XVII.- Determinar el número de las Salas Ordinarias en razón de los nombramientos de Magistrados de Salas Ordinarias que expida con anterioridad el Congreso del Estado de Nuevo León; y
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2017)</small>
+
+XVIII.- Las demás que señale la Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3479,21 +3481,9 @@ I. A partir de los 90 días naturales siguientes al de la publicación del prese
 
 II. A partir de los noventa días naturales siguientes al de la publicación del presente Decreto en el Periódico Oficial del Estado, iniciará la operación del procedimiento oral en los juicios contenciosos administrativos que versen sobre los asuntos que se refieren en el artículo 17, fracción III de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
 
-III. La operación gradual de la oralidad en relación con los actos a que se refieren las demás fracciones del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, se operará conforme a las siguientes etapas:
+III.- (DEROGADA, P.O. 18 DE ENERO DE 2017)
 
-PRIMERA ETAPA: A partir del primero de junio del 2016, iniciará la operación de la oralidad en los juicios contenciosos administrativos que versen sobre los actos administrativos previstos en las fracciones I y II del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
-
-SEGUNDA ETAPA: A partir del primero de septiembre del 2016, iniciará la operación de la oralidad en los juicios contenciosos administrativos que versen sobre los actos administrativos previstos en la fracciones, VII, VIII y XI del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
-
-TERCERA ETAPA: A partir del primero de enero del 2017, iniciará la operación de la oralidad en los juicios contenciosos administrativos que versen sobre los actos administrativos previstos en la fracciones IV y VI del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
-
-CUARTA ETAPA: A partir del primero de marzo del 2017, iniciará la operación de la oralidad en los juicios contenciosos administrativos que versen sobre los actos administrativos previstos en la fracciones V, IX y XII del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
-
-QUINTA ETAPA: A partir del primero de Junio del 2017, iniciará la operación de la oralidad en los juicios contenciosos administrativos que versen sobre los actos administrativos previstos en las fracciones X, XIII y XIV del artículo 17 de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2014)</small>
-
-Tercero.- La Sala Superior del Tribunal de Justicia Administrativa deberá emitir la declaratoria de inicio de operaciones de cada una de las etapas antes referidas, debiendo tomar en cuenta la suficiencia presupuestal con motivo de requerimiento de ampliación de personal, instalaciones, equipamiento y capacitación. La declaratoria surtirá sus efectos legales al día siguiente de la publicación en el Periódico Oficial del Estado.
+Tercero.- (DEROGADO, P.O. 18 DE ENERO DE 2017)
 
 Cuarto.- Para los juicios contenciosos administrativos que versen sobre actos que de acuerdo con las reglas anteriores aún no les fuera aplicable la vía oral prevista en la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, se seguirá aplicando lo previsto en el título Segundo, titulado "DEL PROCEDIMIENTO ORDINARIO" de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
 
@@ -3503,13 +3493,17 @@ Sexto.- El Titular del Poder Ejecutivo del Estado al presentar la iniciativa de 
 
 Séptimo.- Los procedimientos en trámite en el Tribunal de Justica Administrativa del Estado, seguirán su procedimiento hasta su sentencia conforme a las disposiciones jurídicas vigentes al momento de su inicio.
 
-Octavo.- Los procedimientos bajo el sistema de oralidad ante el Tribunal de Justica Administrativa del Estado, o Municipales en su caso, deberán operar a más tardar el 31 de diciembre de 2017.
+Octavo.- (DEROGADO, P.O. 18 DE ENERO DE 2017)
 
 P.O. 26 DE SEPTIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 304.- SE ADICIONA EL ARTÍCULO 6º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+P.O. 18 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 185. SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS 5 PRIMER PÁRRAFO, 9 ÚLTIMO PÁRRAFO, 18 FRACCIONES XVII Y XVIII, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
