@@ -4,7 +4,7 @@ identifier: "NLE-ley-reglamentaria-del-registro-publico-de-la-propiedad-y-7911"
 country: "mx"
 rank: "ley"
 publication_date: "1972-01-22"
-last_updated: "2010-06-16"
+last_updated: "2017-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO PARA EL ESTADO DE NUEVO LEON
 
-LEY REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO PARA EL ESTADO DE NUEVO LEON
+LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 22 de enero de 1972.
 
@@ -287,19 +287,17 @@ IV.- La naturaleza, extensión, condiciones y cargas del derecho que se constitu
 
 V.- El valor de los bienes o derechos a que se refieren las fracciones anteriores, salvo que se trate de un derecho cuya cuantía sea indeterminada;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 VI.- Que el acto de que se trate contenga todas las condiciones esenciales propias a su naturaleza jurídica;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+VII.- Nombre, nacionalidad, fecha de nacimiento, estado civil, domicilio, profesión u ocupación de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto, debiendo en este último caso, consignarse las generales del representante. Tratándose de personas físicas de nacionalidad mexicana, deberán proporcionar además su Clave Única de Registro de Población. Las personas morales deberán mencionar su denominación o razón social, así como su Registro Federal de Contribuyentes; y
 
-VII.- Nombre, nacionalidad, edad, estado civil, domicilio, profesión u ocupación de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto, debiendo en este último caso, consignarse las generales del representante. Tratándose de personas físicas de nacionalidad mexicana, deberán proporcionar además su Clave Única de Registro de Población. Las personas morales deberán mencionar su denominación o razón social, así como su Registro Federal de Contribuyentes; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
@@ -630,3 +628,13 @@ Segundo.- Las disposiciones de este decreto se aplicarán a los documentos ingre
 P.O. 16 DE JUNIO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 182. POR EL QUE SE REFORMA POR MODIFICACIÓN DE LA FRACCIÓN V DEL ARTÍCULO 2907 Y EL ARTÍCULO 2910 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; TAMBIÉN REFORMA POR MODIFICACIÓN DE LAS FRACCIONES II, VIII Y IX DEL ARTÍCULO 106 Y EL ARTÍCULO 138 DE LA LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEÓN; ADEMÁS REFORMA POR MODIFICACIÓN DE LA FRACCIÓN VII DEL ARTÍCULO 29 DE LA LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO PARA EL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el día primero de enero de 2017.
+
+Segundo.- Los avisos, inscripciones, escrituras, y demás trámites llevados a cabo previo a la entrada en vigor del presente decreto se sujetarán a los plazos, términos y condiciones vigentes al momento de su realización.
+
+Tercero.- El primer informe a que (sic) referencia el segundo párrafo del artículo 138 de la Ley del Notariado del Estado de Nuevo León deberá presentarse durante el mes de agosto de 2017.
