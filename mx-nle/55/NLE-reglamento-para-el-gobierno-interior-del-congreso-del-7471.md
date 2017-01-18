@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2016-10-05"
+last_updated: "2017-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -1685,6 +1685,10 @@ Se otorgará el uso de la palabra a los Diputados que inicien un tema, hasta por
 
 Para llevar a cabo el orden de discusiones, se atenderá en lo conducente lo dispuesto por los artículos 99 Bis, 126, 127, párrafos segundo y tercero, y 129 de este Reglamento.
 
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2017)</small>
+
+Durante los apartados de la sesión que se designen para la presentación de iniciativas y asuntos generales, los diputados podrán suscribir las propuestas presentadas en Tribuna por el diputado promovente.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 92.
@@ -2653,8 +2657,14 @@ P.O. 26 DE SEPTIEMBRE DE 2016.
 
 P.O. 5 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 147. SE REFORMAN POR MODIFICACIÓN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; ASÍ COMO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO AMBOS DEL ESTADO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 147. SE REFORMAN POR MODIFICACIÓN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; ASÍ COMO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO AMBOS DEL ESTADO DE NUEVO LEÓN”.]
 
 Primero.- El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- El H. Congreso del Estado de Nuevo León, deberá hacer las adecuaciones necesarias a sus procedimientos, en un plazo no mayor a 60 días hábiles, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 18 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 219. SE REFORMA POR ADICIÓN DE UN TERCERO Y CUARTO PÁRRAFO AL ARTÍCULO 91 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
