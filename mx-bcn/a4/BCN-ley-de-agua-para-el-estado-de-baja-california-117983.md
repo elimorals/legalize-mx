@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-agua-para-el-estado-de-baja-california-117983"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-30"
-last_updated: "2016-12-30"
+last_updated: "2017-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE AGUA PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 19 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL AGUA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2017 (ABROGADA).
 
 Ley publicada en la Sección I al Número 58 del Periódico Oficial del Estado de Baja California, el viernes 30 de diciembre de 2016.
 
@@ -3488,3 +3490,15 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 63 MEDIANTE EL CUAL SE CREA LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Se abroga la Ley del Agua para el Estado de Baja California, publicada el 30 de diciembre de 2016, en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto mediante el que se expide la Ley que Reglamenta el Servicio del Agua Potable en el Estado de Baja California, entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- El Ejecutivo del Estado, por conducto de sus dependencias y entidades, establecerá las medidas necesarias para efecto de dar cumplimiento a lo previsto en la presente.
