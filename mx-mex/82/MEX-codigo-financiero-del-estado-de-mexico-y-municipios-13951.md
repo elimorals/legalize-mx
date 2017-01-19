@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2016-12-21"
+last_updated: "2017-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -28,6 +28,8 @@ state: "MEX"
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 19 DE ENERO DE 2017.]</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -17255,7 +17257,7 @@ CUARTO.- Los artículos 60 E y 60 H no serán aplicables para vehículos cuyo mo
 
 I. En el caso de automóviles de uso particular y embarcaciones la determinación será atendiendo al número de cilindros del motor, conforme a lo siguiente:
 
-…
+.
 
 Tratándose de aeronaves se pagará una cuota fija, conforme a lo siguiente:
 
@@ -17263,13 +17265,17 @@ Tipo de vehículo Cuota
 
 Aeronaves
 
-De pistón, Turbohélice y Helicópteros $3,135
+> <small>(F. DE E., G.G. 19 DE ENERO DE 2017)</small>
 
-Reacción $4,530
+De pistón, Turbohélice y Helicópteros $3,285
+
+> <small>(F. DE E., G.G. 19 DE ENERO DE 2017)</small>
+
+Reacción $4,747
 
 II. a IV. ...
 
-…
+.
 
 QUINTO.- Para los ejercicios 2017 a 2018, los municipios que pretendan contratar créditos al amparo de este Decreto, tendrán que realizar la previsión o reforma correspondiente en sus Leyes de Ingresos y Presupuestos de Egresos del año de que se trate, o en su defecto, obtener la autorización de la Legislatura para que el importe del financiamiento a contratar sea considerado como ingreso adicional para el ejercicio de que se trate.
 
