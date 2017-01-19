@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2016-12-30"
+last_updated: "2017-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2017.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -63,11 +63,11 @@ Ninguna contribución podrá recaudarse si no está prevista por la Ley anual de
 
 En este último caso, la exigibilidad o cumplimiento de las obligaciones fiscales no legitimará esos hechos o circunstancias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 4
 
-1.- Las contribuciones que perciban los Organismos Descentralizados, Concesionarios, Empresas de Participación Estatal o Paraestatales, por la prestación de un servicio público, ya sea de los establecidos como Derechos o cualquier otra denominación hacendaria, se fijarán mediante cuotas o tarifas que en su caso corresponda. Ninguna contribución mencionada en el presente artículo podrá recaudarse si no está prevista por la Ley anual de ingresos correspondiente, o por una ley posterior que lo establezca. Tratándose de los servicios públicos que presten los organismos operadores del agua, las cuotas y tarifas podrán ser fijadas en la Ley de la materia.
+1.- Las contribuciones que perciban los Organismos Descentralizados, Concesionarios, Empresas de Participación Estatal o Paraestatales, por la prestación de un servicio público, ya sea de los establecidos como Derechos o cualquier otra denominación hacendaria, se fijarán mediante cuotas o tarifas que en su caso corresponda. Ninguna contribución mencionada en el presente artículo podrá recaudarse si no está prevista por la Ley anual de ingresos correspondientes, o por una ley posterior que lo establezca.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
 
@@ -2305,11 +2305,11 @@ Los servicios que el Gobierno del Estado proporcione en forma directa o a travé
 
 En el caso de los Organismos Descentralizados, Concesionarios, Empresas de Participación Estatal o Paraestatales, deberán sujetarse a lo establecido en el artículo 4-1 del presente ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 158.
 
-Los derechos se causarán y pagarán de conformidad con las tasas, cuotas y tarifas que establezca la Ley de Ingresos del Estado. Tratándose de los servicios públicos que presten los organismos operadores del agua, las cuotas y tarifas podrán ser fijadas en la Ley de la materia.
+Los derechos se causarán y pagarán de conformidad con las tasas, cuotas y tarifas que establezca la Ley de Ingresos del Estado.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
 
@@ -3229,8 +3229,14 @@ CUARTO.- No se aprueban las reformas a los artículos 1480, 1481, 1482, 1451 BIS
 
 P.O. 30 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 56 MEDIANTE EL CUAL SE REFORMAN LOS PRIMEROS PÁRRAFOS DE LOS ARTÍCULOS 4-1 Y 158, DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 56 MEDIANTE EL CUAL SE REFORMAN LOS PRIMEROS PÁRRAFOS DE LOS ARTÍCULOS 4-1 Y 158, DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4-1 Y 158 DE LA LEY DE HACIENDA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto mediante el que se reforman los artículos 4-1 y 158 de la Ley de Hacienda del Estado de Baja California, entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
