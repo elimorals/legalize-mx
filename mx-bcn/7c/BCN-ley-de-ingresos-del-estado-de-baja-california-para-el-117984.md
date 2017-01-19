@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-117984"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2017-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2017
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2017 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2017.
 
 Ley publicada en la Sección I al Número 59 del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 2016.
 
@@ -355,11 +357,15 @@ DERECHOS POR LA PRESTACIÓN DE LOS SIGUIENTES SERVICIOS PÚBLICOS.
 
 SERVICIOS DE AGUA.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 11.
 
-Los derechos por servicios de agua se pagarán conforme lo establecido en la ley especial en materia de agua y lo dispuesto en el presente artículo.
+Los derechos por consumo de agua se pagarán mensualmente en la Recaudación Auxiliar de Rentas adscrita a cada uno de los Organismos que presten el servicio, en los establecimientos y en las instituciones bancarias de la localidad autorizados para tal efecto, y están obligados al pago de las cuotas por consumo de agua, todas las personas físicas y morales, particulares, dependencias de los Gobiernos Federal, Estatal y Municipal, así como las Entidades Paraestatales, Paramunicipales, Educativas o de Asistencia Pública o Privada, independientemente de que en otras Leyes no sean objeto, sujeto, no causen o estén exentos de dichos derechos. Se otorgará una exención del pago correspondiente a personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados, siempre que éstos no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, en los Municipios de Tijuana, Playas de Rosarito, Tecate y Ensenada con exención total del pago de los derechos por consumo de agua, siempre y cuando sus consumos no excedan de 25 m3; se otorgará exención del 50% del crédito fiscal cuando sus consumos mensuales no excedan de 40 m3, quedando exento del pago por los primeros 25 m3; y tratándose del consumo excedente de 40 m3 mensuales pagarán por el consumo total de acuerdo a la tarifa normal de Ley. En tanto que, por condiciones climáticas extremas en el Municipio de Mexicali, cuando los consumos domésticos de dicho sector de la población no excedan de 30 m3 mensuales se les otorgará exención total del pago; se exentará el 50% del crédito fiscal cuando sus consumos mensuales no excedan de 60 m3, quedando exento del pago por los primeros 30 m3; y por el excedente de 60 m3 mensuales pagarán por el consumo total de acuerdo a la tarifa normal de Ley. Este beneficio será únicamente por un domicilio del beneficiario, previo estudio socioeconómico elaborado por el Organismo respectivo y siempre que se cumpla con las reglas generales que para tal efecto determine el citado Organismo.
 
-Con independencia de las exenciones señaladas en el Título IX de la Ley de Hacienda del Estado de Baja California, se otorgará una exención del pago correspondiente a personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados, siempre que éstos no obtengan ingresos mayores al equivalen te a cinco veces el salario mínimo general, en los Municipios de Tijuana, Playas de Rosarito, Tecate y Ensenada con exención total del pago de los derechos por consumo de agua, siempre y cuando sus consumos no excedan de 25 m3; se otorgará exención del 50% del crédito fiscal cuando sus consumos mensuales no excedan de 40 m3, quedando exento del pago por los primeros 25 m3; y tratándose del consumo excedente de 40 m3 mensuales pagarán por el consumo total de acuerdo a la tarifa normal de Ley. En tanto que, por condiciones climáticas extremas en el Municipio de Mexicali, cuando los consumos domésticos de dicho sector de la población no excedan de 30 m3 mensuales se les otorgará exención total del pago; se exentará el 50% del crédito fiscal cuando sus consumos mensuales no excedan de 60 m3, quedando exento del pago por los primeros 30 m3; y por el excedente de 60 m3 mensuales pagarán por el consumo total de acuerdo a la tarifa normal de Ley. Este beneficio será únicamente por un domicilio del beneficiario, previo estudio socioeconómico elaborado por el Organismo respectivo y siempre que se cumpla con las reglas generales que para tal efecto determine el citado Organismo.
+Las personas mencionadas en el párrafo anterior, están igualmente obligadas al pago de los derechos de conexión de las redes, tanto de agua como drenaje, salvo las exenciones señaladas en el Título IX de la Ley de Hacienda del Estado de Baja California.
+
+La falta de pago oportuno de los derechos a que se refiere este Capítulo, o la autorización para el pago en parcialidades de los mismos causarán recargos a la tasa que establece el Artículo 37 de la Ley de Ingresos del Estado.
 
 Los usuarios podrán hacer pagos anticipados a cuenta del consumo de agua de todo el año, durante los meses de enero y febrero del mismo año, en cuyo caso gozarán quienes hagan el pago total aproximado por los servicios obtenidos, de un 12% de descuento, sin que se causen los recargos correspondientes durante el mes de enero si es pagado en febrero.
 
@@ -369,11 +375,2149 @@ Los Centros de Reinserción Social (CERESOS) y las escuelas públicas de educaci
 
 Las instituciones públicas de educación superior que cuenten con planta de tratamiento de aguas residuales y que las utilicen en los usos propios de la institución, se les disminuirá en su consumo de agua potable el equivalente a 35 litros por educando, maestro y personal administrativo con que cuente la institución, por día natural por mes, en el caso del Municipio de Mexicali y de 30 litros por educando, maestro y personal administrativo con que cuente la institución, por día natural por mes, en el caso de los Municipios de Ensenada, Tecate, Tijuana y Playas de Rosarito, siempre y cuando el volumen utilizado de aguas residuales sea mayor o igual a la disminución referida. Al excedente de consumo de agua potable se le aplicará la tarifa no doméstica respectiva al Municipio donde se ubique. Se entenderá como educando a los alumnos que cuando menos asistan en promedio 4 horas por día hábil en calendario escolar.
 
+En el caso de aquellos usuarios que no requieran de los servicios por consumo de agua, podrán solicitar la suspensión temporal de los mismos, siempre y cuando reúnan los siguientes requisitos: Hacer la petición por escrito, la suspensión sea por un periodo no menor a treinta días, que el inmueble se encuentre deshabitado y no presentar adeudo por contribuciones relativas al servicio de agua. En este caso no se causará la cuota mínima que establece esta Ley, circunstancia que prevalecerá hasta en tanto el usuario solicite la reanudación de los servicios correspondientes, o bien, haya consumo de agua.
+
 Tratándose de consumos de agua de organismos públicos, poblados de los ejidos y colonias rurales de los municipios del Estado, asociaciones civiles de vecinos, derivados de tomas instaladas para el riego de camellones, parques y jardines públicos, los derechos correspondientes se causarán al 30% del importe de la tarifa respectiva a cargo de los mismos. Para gozar del beneficio se deberá cumplir con las reglas generales que para el uso eficiente del agua establezca el Organismo operador de agua.
 
 Los beneficios fiscales mencionados en los párrafos anteriores, serán aplicables siempre y cuando no se tenga el beneficio de otro estímulo fiscal para los servicios de agua potable y alcantarillado sanitario.
 
-Se derogan las disposiciones que se establezcan en otras Leyes, reglamentos, acuerdos, circulares o disposiciones administrativas en la parte que contengan exenciones, totales o parciales, beneficios o estímulos fiscales, o consideren a personas como no sujetos de estos derechos, distintas a las comprendidas en las Leyes que establezcan contribuciones locales, Código Fiscal del Estado de Baja California y en la ley especial en materia de agua.
+Las tarifas y cuotas contenidas en cada una de las secciones de este Capítulo, se actualizarán mensualmente, a partir del mes de febrero, con el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor, que se publique en el Diario Oficial de la Federación por el Instituto Nacional de Estadística y Geografía, o por la dependencia federal que en sustitución de ésta lo publique, del último mes inmediato anterior al mes por el cual se hace el ajuste, entre el citado índice del penúltimo mes inmediato anterior al del mismo mes que se actualiza.
+
+Los derechos por consumo de agua que a continuación se expresan para cada uno de los Municipios, se calcularán aplicando la tarifa por metro cúbico consumido que estén previstas en cada uno de los distintos rangos en forma escalonada, es decir, por el excedente de los mismos, de forma tal que el monto a pagar por dicho consumo será la suma de todos y cada uno de los rangos consumidos.
+
+Se derogan las disposiciones que se establezcan en otras Leyes, reglamentos, acuerdos, circulares o disposiciones administrativas en la parte que contengan exenciones, totales o parciales, beneficios o estímulos fiscales, o consideren a personas como no sujetos de estos derechos, distintas a las comprendidas en las Leyes que establezcan contribuciones locales y al Código Fiscal del Estado.
+
+#### SECCIÓN I
+
+MUNICIPIO DE MEXICALI.
+
+A).- SERVICIO MEDIDO.
+
+1.- Uso doméstico.
+
+a).- Los usuarios que tengan medidor en las Ciudades de Mexicali y San Felipe causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente:
+
+T A R I F A:
+
+1.- De 0 hasta 5 m3, cuota mínima $ 54.90
+
+2.- Por el excedente de 5 y hasta 10 m3,
+
+por cada m3 consumido $ 3.58
+
+3.- Por el excedente de 10 y hasta 15 m3,
+
+por cada m3 consumido $ 4.82
+
+4.- Por el excedente de 15 y hasta 25 m3,
+
+por cada m3 consumido $ 5.34
+
+5.- Por el excedente de 25 y hasta 30 m3,
+
+por cada m3 consumido $ 5.55
+
+6.- Por el excedente de 30 y hasta 40 m3,
+
+por cada m3 consumido $ 6.80
+
+7.- Por el excedente de 40 y hasta 50 m3,
+
+por cada m3 consumido $ 11.69
+
+8.- Por el excedente de 50 y hasta 60 m3,
+
+por cada m3 consumido $ 14.44
+
+9.- Por el excedente de 60 m3 en adelante,
+
+por cada m3 consumido $ 20.95
+
+b).- Los usuarios que tengan medidor en los poblados Guadalupe Victoria, Ciudad Morelos, así como los ejidos o polos de desarrollo que pertenezcan a dichos poblados en administración, operación y mantenimiento, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente tarifa:
+
+GPE. VICTORIA
+
+CD. MORELOS
+
+1.- De 0 hasta 5 m3, cuota mínima $ 53.07
+
+2.- Por el excedente de 5 y hasta 10 m3,
+
+por cada m3 consumido $ 3.53
+
+3.- Por el excedente de 10 y hasta 15 m3,
+
+por cada m3 consumido $ 3.92
+
+4.- Por el excedente de 15 y hasta 20 m3,
+
+por cada m3 consumido $ 3.92
+
+5.- Por el excedente de 20 y hasta 25 m3,
+
+por cada m3 consumido $ 4.62
+
+6.- Por el excedente de 25 y hasta 30 m3,
+
+por cada m3 consumido $ 4.81
+
+7.- Por el excedente de 30 y hasta 40 m3,
+
+por cada m3 consumido $ 5.33
+
+8.- Por el excedente de 40 y hasta 50 m3,
+
+por cada m3 consumido $ 9.16
+
+9.- Por el excedente de 50 y hasta 60 m3,
+
+por cada m3 consumido $ 9.16
+
+10.- Por el excedente de 60 y hasta 150 m3,
+
+por cada m3 consumido $ 9.16
+
+11.- Por el excedente de 150 y hasta 300 m3,
+
+por cada m3 consumido $ 10.88
+
+12.- Por el excedente de 300 m3 en adelante,
+
+por cada m3 consumido $ 15.92
+
+A los usuarios domésticos que efectúen su pago mensual y lo hagan antes de la fecha de vencimiento durante tres meses consecutivos, en el cuarto pago oportuno gozarán de un descuento del 15% sobre el importe de este último, sin que se interrumpa la consecutividad de los pagos mensuales cuando éstos comprendan dos ejercicios fiscales.
+
+Este descuento será aplicable siempre y cuando no se tenga el beneficio de otro estímulo fiscal para este servicio.
+
+Para continuar gozando de este descuento, además de seguir cumpliendo con lo dispuesto en el párrafo anterior, deberán transcurrir por lo menos tres meses entre la obtención de cada beneficio.
+
+2.- Uso comercial, industrial, gubernamental y otros no domésticos.
+
+a).- Los usuarios que tengan medidor en la Ciudad de Mexicali, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente tarifa:
+
+1.- De 0 hasta 5 m3, cuota mínima $ 243.84
+
+2.- Por el excedente de 5 y hasta 10 m3,
+
+por cada m3 consumido $ 38.49
+
+3.- Por el excedente de 10 y hasta 15 m3,
+
+por cada m3 consumido $ 38.49
+
+4.- Por el excedente de 15 y hasta 20 m3,
+
+por cada m3 consumido $ 38.49
+
+5.- Por el excedente de 20 y hasta 30 m3,
+
+por cada m3 consumido $ 38.49
+
+6.- Por el excedente de 30 y hasta 40 m3,
+
+por cada m3 consumido $ 38.49
+
+7.- Por el excedente de 40 y hasta 50 m3,
+
+por cada m3 consumido $ 45.18
+
+8.- Por el excedente de 50 y hasta 60 m3,
+
+por cada m3 consumido $ 45.18
+
+9.- Por el excedente de 60 y hasta 100 m3,
+
+por cada m3 consumido $ 45.18
+
+10.- Por el excedente de 100 y hasta 500 m3,
+
+por cada m3 consumido $ 46.79
+
+11.- Por el excedente de 500 y hasta 10,000 m3,
+
+por cada m3 consumido $ 46.80
+
+12.- Por el excedente de 10,000 m3 en adelante,
+
+por cada m3 consumido $ 54.85
+
+b).- Los usuarios que tengan medidor, en los Poblados Guadalupe Victoria, Cd. Morelos, San Felipe, así como los ejidos o polos de desarrollo que pertenezcan a dichos poblados en administración, operación y mantenimiento, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente tarifa:
+
+GPE. VICTORIA SAN
+
+Y CD. MORELOS FELIPE
+
+1.- De 0 hasta 5 m3, cuota mínima $ 175.48 $ 175.48
+
+2.- Por el excedente de 5 y hasta 10 m3,
+
+por cada m3 consumido. $ 6.69 $ 11.67
+
+3.- Por el excedente de 10 y hasta 15 m3,
+
+por cada m3 consumido. $ 6.69 $ 11.67
+
+4.- Por el excedente de 15 y hasta 20 m3,
+
+por cada m3 consumido. $ 6.69 $ 11.67
+
+5.- Por el excedente de 20 y hasta 30 m3,
+
+por cada m3 consumido. $ 7.13 $ 17.60
+
+6.- Por el excedente de 30 y hasta 40 m3,
+
+por cada m3 consumido. $ 9.57 $ 19.68
+
+7.- Por el excedente de 40 y hasta 50 m3,
+
+por cada m3 consumido. $ 14.49 $ 22.59
+
+8.- Por el excedente de 50 y hasta 60 m3,
+
+por cada m3 consumido. $ 17.96 $ 26.91
+
+9.- Por el excedente de 60 y hasta 100 m3,
+
+por cada m3 consumido $ 22.00 $ 38.77
+
+10.- Por el excedente de 100 y hasta 500 m3,
+
+por cada m3 Consumido $ 26.08 $ 39.12
+
+11.- Por el excedente de 500 y hasta 10,000 m3,
+
+por cada m3 consumido $ 28.18 $ 39.38
+
+12.- Por el excedente de 10,000 m3 en adelante,
+
+por cada m3 consumido $ 29.28 $ 46.81
+
+El 5 por ciento de la tarifa prevista en este numeral se destinará al proyecto Plan de Pluviales en Mexicali, a través del fideicomiso público o instrumento jurídico que para tal efecto determine la Secretaría de Planeación y Finanzas.
+
+3.- Agua sin potabilizar y puesta en el punto de conexión que determine el Organismo.
+
+Los usuarios no domésticos causarán mensualmente por cada metro cúbico consumido de agua sin potabilizar y puesta en el punto de conexión que determine el organismo $13.95
+
+Los Organismos Públicos que produzcan agua para consumo humano, causarán mensualmente por cada metro cúbico consumido de aguas sin potabilizar y puesta en el punto de conexión que determine el organismo $ 6.31
+
+Los grandes consumidores de agua sin potabilizar que consuman 10(diez) millones de metros cúbicos anuales o volúmenes mayores y ubicada en el sitio que determine el Organismo conforme al proyecto de que se trate, causarán mensualmente por cada metro cúbico consumido 2.69
+
+4.- El costo de agua por servicio y suministro en tomas fijas para ser distribuidas en camiones cisterna, exclusivamente a usuarios que no cuenten con sistemas de redes de agua potable en sus predios, por cada m3 $ 25.95
+
+5.- Aguas residuales en planta o fuera de planta a quienes lo soliciten.
+
+a).- Tratada por cada m3 entregada en planta. $ 4.10
+
+b).- Tratada por cada m3 entregada en el
+
+domicilio del usuario $ 12.49
+
+c).- Sin tratar por cada m3 entregada en
+
+planta $ 0.73
+
+6.- Derecho anual de reserva de aguas residuales, tratadas y no tratadas.
+
+a).- Por cada m3 $ 0.26
+
+7.- Recepción y tratamiento de aguas residuales.
+
+Por el servicio de tratamiento de aguas residuales para los parámetros que se descarguen en forma excedida de los límites establecidos por la normatividad vigente en materia ambiental y los ordenamientos técnicos.
+
+a).- Remover la demanda bioquímica de oxígeno (DBO)
+
+por cada Kg $ 5.07
+
+b).- Remover los sólidos suspendidos totales (SST)
+
+por cada Kg $ 5.07
+
+c).- Remover grasas y aceites (G y A),
+
+por cada Kg $ 5.07
+
+d).- Remover demanda química de oxigeno (DQO)
+
+por cada Kg $ 4.94
+
+e).- Por cada revisión y verificación de las
+
+condiciones de las descargas de aguas residuales
+
+a la red de alcantarillado sanitario $ 701.50
+
+f).- Recepción y tratamiento de aguas residuales
+
+sanitarias vertida por camiones cisterna (pipa),
+
+por m3 $ 8.84
+
+g).- Análisis de laboratorio de los parámetros
+
+conforme a la NOM-002-SEMARNAT-1996 $ 6,719.02
+
+h).- Análisis de laboratorio de parámetros
+
+físicoquímicos básicos en forma individual,
+
+por toma de muestreo compuesto $ 1,344.74
+
+i).- Análisis de laboratorio de parámetros
+
+fisicoquímicos básicos en forma individual,
+
+por toma de muestreo simple $ 731.77
+
+Adicionalmente al costo por toma de muestra, por cada parámetro que se solicite:
+
+Potencial de hidrogeno (ph) $ 44.77
+
+Temperatura $ 89.57
+
+Demanda bioquímica de oxigeno (DBO5) $ 629.93
+
+Grasas y aceites $ 519.45
+
+Sólidos sedimentables $ 206.00
+
+Sólidos suspendidos $ 268.88
+
+Nitrógeno total $ 931.45
+
+Fósforo total $ 298.05
+
+Arsénico $ 502.99
+
+Cadmio $ 344.63
+
+Cianuro $ 484.35
+
+Cobre $ 344.63
+
+Cromo $ 344.63
+
+Mercurio $ 502.99
+
+Níquel $ 344.63
+
+Plomo $ 344.63
+
+Zinc $ 344.63
+
+Cromo Hexavalente $ 344.63
+
+Coliformes fecales $ 467.12
+
+Huevos de Helmintos $ 931.45
+
+Materia flotante $ 214.22
+
+Demanda química de oxígeno $ 654.91
+
+j).- Por la recepción de lodos estabilizados, provenientes de plantas de tratamiento de aguas residuales de fraccionamientos habitacionales y de empresas con giros que no utilicen ni contengan residuos peligrosos, por m3 $ 410.76
+
+k).- Por la recepción de lodos sin estabilizar, provenientes de plantas de tratamiento de aguas residuales de fraccionamientos habitacionales y de empresas con giros que no utilicen ni contengan residuos peligrosos, por m3 $ 821.52
+
+l).- Por la recepción de agua residual fuera de norma, proveniente de descargas al sistema de alcantarillado, de procesos productivos de empresas con giros industriales o comerciales, así como de Plantas de Tratamiento de Aguas Residuales de fraccionamientos habitacionales, de conformidad con el artículo 277-B, fracción I, y Octavo Transitorio de la Ley Federal de Derechos, por cada m3 $ 0.71
+
+m).- Registro de descarga de aguas potencialmente contaminantes $ 3,533.24
+
+n).- Revaluación a los registros de descargas de aguas potencialmente contaminantes a los sistemas de alcantarillado sanitario $ 2,014.42
+
+ñ).- Análisis de solicitud de prórroga para presentar revaluación de los registros de descarga de aguas potencialmente contaminantes a los sistemas de alcantarillado sanitario $ 941.26
+
+o).- Cambios de razón social, fusiones, transferencias de derechos y obligaciones respecto a resoluciones o trámites en general $ 2,826.54
+
+p).- Por el análisis para reconsideración de condicionantes de permiso de descarga de agua residual $ 1,645.32
+
+q).- Análisis de solicitud de prórroga para dar cumplimiento a condicionantes del permiso de descarga de agua residual $ 983.60
+
+r).- Análisis de solicitud de exención al trámite de permiso de descarga de agua residual $ 983.60
+
+La prestación del servicio será en los términos que establezca la Comisión Estatal de Servicios Públicos de Mexicali.
+
+B).- TOMAS COMUNALES.
+
+Los consumos de las cuentas de este tipo de tomas, serán divididos entre el número de usuarios servidos del mismo medidor y a la resultante se le aplicará la tarifa doméstica vigente de acuerdo con la tarifa del punto número uno.
+
+C).- SERVICIO SIN MEDIDOR.
+
+Para los usuarios domésticos sin servicio medido, los consumos serán estimados por el organismo de acuerdo al consumo medido promedio de la zona, y para los no domésticos, el consumo será determinado de acuerdo al consumo medido promedio del giro correspondiente, con base a las estadísticas de consumo para este tipo de usuarios.
+
+D).- DERECHOS DE CONEXIÓN AL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO SANITARIO.
+
+1.- Para los terrenos habitacionales unifamiliares de fraccionamientos y colonias populares definidos de conformidad con el Artículo Quinto Transitorio de esta Ley, y cuyo uso sea exclusivamente para casa habitación:
+
+a).- A las redes del sistema de agua potable, por m2 de superficie vendible, incluyendo áreas de donación $ 14.42
+
+b).- A las redes del sistema de alcantarillado sanitario por m2 de superficie vendible, incluyendo áreas de donación $ 8.97
+
+2.- Para los terrenos destinados a desarrollos de vivienda de interés social, popular y de nivel medio, definidos de conformidad con el Artículo Quinto Transitorio de esta Ley, por la incorporación a los sistemas de agua potable y alcantarillado sanitario por cada casa habitación construida o por construir, será de:
+
+a).- Tratándose de vivienda de interés social:
+
+1).- Por agua potable $ 2,022.13
+
+2).- Por alcantarillado sanitario $ 1,348.08
+
+b).- Tratándose de vivienda popular y de nivel medio:
+
+1).- Por agua potable $ 3,385.80
+
+2).- Por alcantarillado sanitario $ 2,257.20
+
+2 Bis.- Para las viviendas unifamiliares, de los poblados de los ejidos y colonias rurales del Municipio de Mexicali, con excepción del Puerto de San Felipe, Baja California, cuyo uso sea exclusivamente para casa habitación, sin tomar en cuenta el tipo o clasificación de la construcción, e indistintamente del régimen de propiedad al que se sujete:
+
+a).- A las redes del sistema de agua potable. $ 3,027.92
+
+b).- A las redes del sistema de alcantarillado $ 2,001.50
+
+3.- Para terrenos en fraccionamientos residenciales unifamiliares y cuyo uso sea exclusivamente para casa habitación:
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de superficie vendible, incluyendo áreas
+
+de donación $ 46.65
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por m2 de superficie vendible,
+
+incluyendo áreas de donación $ 29.81
+
+4.- Para los terrenos destinados a condominios y departamentos de renta:
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de terreno $ 27.91
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por m2 de terreno $ 17.86
+
+c).- Adicionalmente a los incisos a) y b), por
+
+m2 de construcción $ 19.26
+
+La superficie que servirá como base para realizar este cálculo, deberá de acreditarse mediante documentación oficial que emita la autoridad municipal competente.
+
+5.- Para locales, establecimientos y desarrollos comerciales, industriales, de gobierno, turísticos y otros no domésticos, el cobro lo determinará el organismo previo análisis, en función a las necesidades de abasto de agua, infraestructura y capacidad de diseño, de acuerdo a las siguientes tarifas:
+
+a).- A las redes del sistema de agua potable,
+
+por litro por segundo $ 926,475.64
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por litro por segundo $ 510,745.83
+
+c).- En aquellos casos en que no sea posible determinar las necesidades de abasto e infraestructura, la determinación del cobro se hará conforme lo establezca o haya establecido el organismo previo análisis.
+
+A excepción de los destinados a escuelas, parques, jardines y parques deportivos, de carácter públicos, que estarán exentos del pago de estos derechos. También estarán exentos del pago de estos derechos los campos y parques deportivos públicos que pertenezcan a los poblados de colonias agrícolas o ejidos del Valle de Mexicali.
+
+Tratándose de los apartados de este inciso D), los dueños de los fraccionamientos y desarrollos, serán los obligados al pago de los derechos correspondientes para la prestación de los servicios de agua potable y alcantarillado sanitario.
+
+Los usuarios tendrán derecho a un descuento del 12% sobre el importe total de las tarifas, en los siguientes casos:
+
+a).- Cuando se pague de contado, los derechos de conexión a los sistemas de agua potable y alcantarillado sanitario.
+
+b).- Cuando se pague de contado el costo de la introducción o reposición de tubería principal, para servicio de agua potable o alcantarillado sanitario.
+
+En todo caso se entenderá que el pago es al contado, cuando los derechos que se causen se enteren en la oficina de Recaudación de Rentas adscrita a dicho Organismo, dentro de los 15 días siguientes a la fecha en que se notifique el costo del servicio.
+
+En los casos en que el usuario cambie el uso de suelo de doméstico a no doméstico, el organismo al tener conocimiento, cobrará la diferencia que resulte por el cambio del tipo de servicio.
+
+Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la Ley de Ingresos vigente en la fecha que se determine la diferencia.
+
+E).- TOMAS Y DESCARGAS NO REGISTRADAS.
+
+1.- En caso de que sea detectada una toma no registrada instalada en este Municipio, el cobro será de la siguiente manera:
+
+a).- En la detección de tomas no registradas domésticas, se tomará como base para el cobro 250 litros por día y por habitante, considerando hasta 4 habitantes por familia, por un máximo de hasta por 5 años, al 100% de la tarifa para uso doméstico aprobada por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+
+En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 11, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
+
+b).- En la detección de tomas no registradas en locales, establecimientos y desarrollos comerciales, turísticos, industriales y gubernamentales, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+
+La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
+
+Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+
+2.- En caso de que sea detectada una descarga no registrada instalada en este Municipio, y que no cuenten con el servicio de agua potable, el cobro será de la siguiente manera:
+
+a).- En la detección de descargas no registradas domésticas, se tomará como base para el cobro 120 litros por día y por habitante, considerando hasta 4 habitantes por familia, por un máximo de hasta por 5 años, al precio aprobado por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
+
+b).- En la detección de descargas no registradas comerciales, gubernamentales, industriales y de desarrollos turísticos, así como otras no domésticas, los cobros serán estimados por el organismo de acuerdo al consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, hasta por un período de 5 años, al 40% de la tarifa de servicio medido vigente en la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
+
+La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red de descargas de agua.
+
+Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+
+F).- OTROS SERVICIOS:
+
+1.- Por la expedición de dictamen de factibilidad de servicios de agua potable, alcantarillado sanitario o alcantarillado pluvial, con vigencia de seis meses, por servicio:
+
+a).- Para terrenos de uso residencial, comercial, industrial y turístico $ 374.20
+
+2.- Por revisión de proyecto para la construcción de redes de agua potable, alcantarillado sanitario y alcantarillado pluvial, en predios hasta de 5,000 m2 de superficie, por red $ 3,517.04
+
+Más, por cada m2 de superficie adicional, por red $ 0.02
+
+3.- Por revisión de obras de agua potable, alcantarillado sanitario y alcantarillado pluvial, conforme a proyectos autorizados en predios hasta de 5,000 m2 de superficie, por red, por mes $ 14,441.80
+
+Más, por cada m2 de superficie adicional, por red, por mes $ 0.03
+
+4.- Por hidrante contra incendios instalado del sistema de agua potable, el equivalente a 5 m3 mensuales a la tarifa para uso comercial, industrial, gubernamental y otros no domésticos.
+
+5.- Por expedición y certificación de documentos,
+
+con vigencia de seis meses $ 140.66
+
+6.- Por expedición de certificados de libertad
+
+de gravamen $ 140.66
+
+7.- Por localización de toma o descarga por hora. $ 508.50
+
+8.- Instalación de medidor y protección de los mismos, instalación de toma de agua domiciliaria y descarga de drenaje de aguas negras, así como el costo de la introducción de las redes de agua potable y alcantarillado, y otros servicios no contemplados en este capítulo, se pagará el importe de acuerdo con el presupuesto que previamente formule el organismo que preste el servicio.
+
+El costo de la introducción de las redes de agua potable y alcantarillado sanitario, se pagarán de acuerdo a los presupuestos que previamente formule el organismo que presta el servicio. Para aquellos usuarios que después de 12 meses de haber sido ejecutada y notificada la obra y el presupuesto, no hayan contratado, el costo que deberá cubrir será aquel que resulte de haber aplicado el porcentaje de incremento que haya tenido el salario mínimo general vigente, desde la fecha de notificación del presupuesto a los beneficiarios de dicha obra hasta la fecha de contratación.
+
+9.- Los propietarios o poseedores de predios que tengan una o varias fuentes de abastecimiento de agua y que utilicen el sistema de alcantarillado de aguas negras, se les aplicará el 40% de la tarifa de agua potable aplicable, sobre el volumen vertido a las descargas de aguas negras, restando en su caso el volumen facturado por el organismo operador.
+
+10.- Por la remoción de reductor en servicio doméstico $ 106.30
+
+11.- Por la reconexión del servicio de uso comercial, industrial, gubernamental y otros no domésticos $ 106.30
+
+12.- Por el sondeo de descarga domiciliaria $ 318.89
+
+13.- Por revisión de proyecto para la construcción de plantas de tratamiento y cárcamos de bombeo:
+
+A).- Hasta 10 lps $ 16,420.55
+
+B).- De 10.1 a 30 lps $ 23,544.41
+
+C).- Más de 30.1 lps $ 30,798.72
+
+#### SECCIÓN II
+
+MUNICIPIO DE ENSENADA.
+
+A).- SERVICIO MEDIDO.
+
+1.- Uso doméstico.
+
+a).- Los usuarios que tengan medidor en la Ciudad de Ensenada y áreas conurbadas, desarrollos turísticos como: Puerto Salina, Punta Piedra, Bajamar, Las Olas, Ejido Úrsulo Galván, así como otros que se desarrollen o incorporen al sistema, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente:
+
+T A R I F A:
+
+1).- De 0 hasta 5 m3, cuota mínima $ 57.28
+
+2).- Por el excedente de 5 y hasta 10 m3. $ 13.17
+
+3).- Por el excedente de 10 y hasta 15 m3. $ 15.01
+
+4).- Por el excedente de 15 y hasta 20 m3. $ 16.82
+
+5).- Por el excedente de 20 y hasta 25 m3. $ 25.72
+
+6).- Por el excedente de 25 y hasta 30 m3. $ 27.75
+
+7).- Por el excedente de 30 y hasta 40 m3. $ 48.07
+
+8).- Por el excedente de 40 y hasta 50 m3. $ 51.87
+
+9).- Por el excedente de 50 y hasta 60 m3. $ 54.21
+
+10).- Por el excedente de 60 m3 $ 54.90
+
+b).- Los usuarios que tengan medidor en los poblados no contemplados en el inciso a), así como los ejidos o polos de desarrollo que pertenezcan a dichos poblados en administración, operación y mantenimiento, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente:
+
+T A R I F A:
+
+1).- De 0 hasta 5 m3, cuota mínima $ 34.37
+
+2).- Por el excedente de 5 y hasta 10 m3. $ 7.91
+
+3).- Por el excedente de 10 y hasta 15 m3. $ 8.99
+
+4).- Por el excedente de 15 y hasta 20 m3. $ 10.11
+
+5).- Por el excedente de 20 y hasta 25 m3. $ 15.44
+
+6).- Por el excedente de 25 y hasta 30 m3. $ 16.64
+
+7).- Por el excedente de 30 y hasta 40 m3. $ 28.84
+
+8).- Por el excedente de 40 y hasta 50 m3. $ 31.14
+
+9).- Por el excedente de 50 y hasta 60 m3. $ 32.53
+
+10).- Por el excedente de 60 m3 $ 32.95
+
+A los usuarios domésticos que efectúen su pago mensual y lo hagan antes de la fecha de vencimiento durante tres meses consecutivos, en el cuarto pago oportuno gozarán de un descuento del 15% sobre el importe de este último; sin que se interrumpa la consecutividad de los pagos mensuales cuando éstos comprendan dos ejercicios fiscales.
+
+Este descuento será aplicable siempre y cuando no se tenga el beneficio de otro estímulo fiscal para este servicio.
+
+Para continuar gozando de este descuento, además de seguir cumpliendo con lo dispuesto en el párrafo anterior, deberán transcurrir por lo menos tres meses entre la obtención de cada beneficio.
+
+2.- Uso comercial, industrial, gubernamental y otros no domésticos.
+
+a).- Los usuarios que tengan medidor en la Ciudad de Ensenada y áreas conurbadas, desarrollos turísticos como: Puerto Salina, Punta Piedra, Bajamar, Las Olas, Ejido Úrsulo Galván, así como otros que se desarrollen o incorporen al sistema, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente:
+
+TARIFA:
+
+1).- De 0 hasta 5 m3, cuota mínima $ 392.80
+
+2).- Por el excedente de 5 y hasta 10 m3 $ 34.64
+
+3).- Por el excedente de 10 y hasta 15 m3 $ 47.40
+
+4).- Por el excedente de 15 y hasta 20 m3 $ 55.84
+
+5).- Por el excedente de 20 y hasta 30 m3 $ 65.53
+
+6).- Por el excedente de 30 y hasta 40 m3 $ 66.75
+
+7).- Por el excedente de 40 y hasta 50 m3 $ 70.10
+
+8).- Por el excedente de 50 y hasta 60 m3 $ 71.50
+
+9).- Por el excedente de 60 y hasta
+
+10,000 m3 $ 74.91
+
+10).- Por el excedente de 10,000 m3 por
+
+cada m3 $ 49.15
+
+b).- Los usuarios que tengan medidor en los poblados no contemplados en el inciso a), así como los ejidos o polos de desarrollo que pertenezcan a dichos poblados en administración, operación y mantenimiento, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente:
+
+TARIFA:
+
+1).- De 0 hasta 5 m3, cuota mínima $ 235.38
+
+2).- Por el excedente de 5 y hasta 10 m3 $ 20.78
+
+3).- Por el excedente de 10 y hasta 15 m3. $ 28.46
+
+4).- Por el excedente de 15 y hasta 20 m3. $ 33.52
+
+5).- Por el excedente de 20 y hasta 30 m3. $ 39.34
+
+6).- Por el excedente de 30 y hasta 40 m3. $ 39.34
+
+7).- Por el excedente de 40 y hasta 50 m3. $ 42.03
+
+8).- Por el excedente de 50 y hasta 60 m3. $ 42.90
+
+9).- Por el excedente de 60 y hasta 10,000 m3 $ 44.96
+
+10).- Por el excedente de 10,000 m3 por cada m3 $ 29.47
+
+3.- Aguas residuales en planta o fuera de planta a quienes lo soliciten.
+
+a).- Tratadas, por cada m3 $ 4.80
+
+b).- Sin tratar, por cada m3 $ 0.75
+
+4.- El costo de agua entregada en bloque
+
+a).-Por cada m3 para uso doméstico sin exceder de 1 m3 $ 24.36
+
+b).-Entregada a domicilio por cada m3 para uso doméstico $ 51.51
+
+c).-Por cada m3 para uso no Doméstico $ 76.17
+
+5.- Derecho anual de reserva de aguas residuales, tratadas y no tratadas.
+
+a).- Por cada m3 $ 0.30
+
+6.- Recepción y tratamiento de aguas residuales.
+
+Por el servicio de tratamiento de aguas residuales para los parámetros que se descarguen en forma excedida de los límites establecidos por la normatividad vigente en materia ambiental y los ordenamientos técnicos.
+
+a).- Remover la demanda bioquímica de oxígeno (DBO)
+
+por cada Kg $ 11.38
+
+b).- Remover los sólidos suspendidos totales (SST)
+
+por cada Kg $ 11.38
+
+c).- Remover grasas y aceites (G y A),
+
+por cada Kg $ 11.38
+
+d).- Remover la demanda química de oxígeno (DQO)
+
+por cada Kg $ 11.38
+
+e).- Por cada revisión y verificación de las
+
+condiciones de las descargas de aguas residuales
+
+a la red de alcantarillado sanitario $ 534.57
+
+f).- Recepción y tratamiento de aguas residuales
+
+sanitarias y de proceso vertidas por camiones cisterna
+
+(pipa), por m3 $ 41.08
+
+g).- Análisis de laboratorio de los parámetros
+
+conforme a la NOM-002-SEMARNAT-1996 $ 6,920.61
+
+h).- Por toma de muestras puntual para análisis $ 1,509.72
+
+Adicionalmente al costo por toma de muestra, por cada parámetro que se solicite:
+
+Potencial de hidrogeno (ph) $ 46.12
+
+Temperatura $ 92.25
+
+Demanda bioquímica de oxigeno (DBO5) $ 645.73
+
+Grasas y aceites $ 535.03
+
+Sólidos sedimentables $ 212.17
+
+Sólidos suspendidos $ 276.74
+
+Por demanda química de oxígeno (DQO) $ 464.40
+
+i).- Por la recepción de lodos estabilizados,
+
+provenientes de plantas de tratamiento de aguas
+
+residuales de fraccionamientos habitacionales y
+
+de empresas con giros que no utilicen ni
+
+contengan residuos peligrosos, por m3 $ 423.08
+
+j).- Por la recepción de lodos sin estabilizar,
+
+provenientes de plantas de tratamiento de aguas
+
+residuales de fraccionamientos habitacionales y
+
+de empresas con giros que no utilicen ni
+
+contengan residuos peligrosos, por m3 $ 846.18
+
+k).- Por expedición de documento de calidad
+
+de agua potable $ 256.61
+
+l).- Registro de descarga de aguas
+
+potencialmente contaminantes $ 3,533.24
+
+m).- Revaluación a los registros de descargas de
+
+aguas potencialmente contaminantes a los sistemas
+
+de alcantarillado sanitario. $ 2,014.42
+
+ñ).- Análisis de solicitud de prórroga para presentar
+
+revaluación de los registros de descarga de aguas
+
+potencialmente contaminantes a los sistemas de
+
+alcantarillado sanitario $ 941.26
+
+La prestación del servicio será en los términos que establezca la Comisión Estatal de Servicios Públicos de Ensenada.
+
+B).- TOMAS COMUNALES.
+
+Los consumos de las cuentas de este tipo de tomas, serán divididos entre el número de usuarios servidos del mismo medidor y a la resultante se le aplicará la tarifa doméstica vigente de acuerdo con el punto número uno.
+
+C).- SERVICIO SIN MEDIDOR.
+
+Para los usuarios domésticos sin servicio medido, los consumos serán estimados por el organismo de acuerdo al consumo medido promedio de la zona y para los no domésticos, el consumo será determinado de acuerdo al consumo medido promedio del giro correspondiente, con base a las estadísticas de consumo para este tipo de usuarios.
+
+D).- DERECHOS DE CONEXIÓN AL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO SANITARIO:
+
+1.- Para los terrenos residenciales unifamiliares de fraccionamientos y colonias populares, definidos de conformidad con el Artículo Quinto Transitorio de esta Ley, y cuyo uso sea exclusivamente para casa habitación:
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de superficie vendible, incluyendo
+
+área de donación $ 4.69
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario por m2 de superficie vendible,
+
+incluyendo área de donación $ 3.05
+
+2.- Para los terrenos destinados a desarrollos de vivienda de interés social, popular y de nivel medio, definidos de conformidad con el Artículo Quinto Transitorio de esta Ley, el derecho a pagar por la incorporación a los sistemas de agua potable y alcantarillado por cada casa habitación construida o por construir, será de:
+
+a).- Tratándose de vivienda de interés social:
+
+1).- Por agua potable $ 2,067.30
+
+2).- Por alcantarillado sanitario $ 1,018.33
+
+b).- Tratándose de vivienda popular y de nivel medio:
+
+1).- Por agua potable $ 3,536.59
+
+2).- Por alcantarillado sanitario $ 1,741.64
+
+3.- Para terrenos residenciales unifamiliares y turísticos cuyo uso sea exclusivamente para casa habitación:
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de superficie vendible, incluyendo
+
+áreas de donación $ 37.20
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por m2 de superficie vendible,
+
+incluyendo áreas de donación $ 24.64
+
+4.- Para los terrenos destinados a condominios y departamentos de renta:
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de terreno $ 36.24
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por m2 de terreno $ 23.82
+
+c).- Adicionalmente a los incisos a) y b), por
+
+m2 de construcción $ 11.82
+
+5.- Para locales, establecimientos y desarrollos comerciales, industriales, de gobierno, turísticos y otros no domésticos, el cobro lo determinará el organismo previo análisis, en función a las necesidades de abasto de agua, infraestructura y capacidad de diseño, de acuerdo a las siguientes tarifas:
+
+a).- A las redes del sistema de agua potable,
+
+por litro por segundo $ 694,591.90
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por litro por segundo $ 453,395.36
+
+c).- En el caso de escuelas y universidades públicas y privadas, la necesidad de abasto de agua e infraestructura, se determinará considerando 60 litros por alumno por día, de acuerdo a las tarifas de los incisos a) y b) de este numeral.
+
+d).- En aquellos casos en que no sea posible determinar las necesidades de abasto e infraestructura, la determinación del cobro se hará conforme lo establezca o haya establecido el organismo, previo análisis.
+
+De conformidad con los Artículos 21 y 65 del Reglamento de Fraccionamientos del Estado, tratándose de los apartados de este inciso, los dueños de los fraccionamientos, serán los obligados al pago de los derechos correspondientes para la prestación de los servicios de agua potable y alcantarillado sanitario.
+
+Los usuarios tendrán derecho a un descuento del 12% cuando los derechos de conexión a los sistemas de agua potable y alcantarillado sanitario, sean pagados de contado; se entenderá que el pago es de contado, cuando los derechos que se causen se enteren en la oficina de Recaudación de Rentas adscrita a dicho Organismo, dentro de los 15 días siguientes a la fecha en que se notifique el costo del servicio.
+
+En los casos en que el usuario cambie el uso de suelo de doméstico a no doméstico, el organismo al tener conocimiento, cobrará la diferencia que resulte del cálculo del cambio.
+
+Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la Ley de Ingresos vigente en la fecha que se determine la diferencia.
+
+E).- TOMAS Y DESCARGAS NO REGISTRADAS.
+
+1.- En caso de que sea detectada una toma no registrada instalada en este Municipio, el cobro será de acuerdo a la siguiente manera:
+
+a).- En la detección de tomas domésticas no registradas, se tomará como base para el cobro, lo que resulte de considerar un gasto de 250 litros por día y por habitante, considerando hasta 4 habitantes por familia, por un máximo de hasta por 5 años, a la tarifa doméstica aprobada por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+
+En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 11, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
+
+b).- En la detección de tomas no registradas comerciales, industriales, de desarrollos turísticos, gubernamentales, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha toma.
+
+La determinación del período para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
+
+Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+
+2.- En caso de que sea detectada una descarga no registrada instalada en este Municipio, y que no cuenten con el servicio de agua potable el cobro será de acuerdo a la siguiente manera:
+
+a).- En la detección de descargas no registradas domésticas, se tomará como base para el cobro 120 litros por día y por habitante, considerando 4 habitantes por familia, por un máximo de hasta por 5 años, a la tarifa doméstica aprobada por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
+
+b).- En la detección de descargas no registradas comerciales, industriales, de desarrollos turísticos, gubernamentales y otras no domésticas, los cobros serán estimados por el organismo de acuerdo al consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, hasta por un período de 5 años, al 40% de la tarifa vigente en la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
+
+La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de descarga de agua.
+
+Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+
+F).- OTROS SERVICIOS:
+
+1.- Por la expedición de constancias de factibilidad de servicios de agua potable y alcantarillado sanitario, con vigencia de seis meses.
+
+a).- Para terrenos de uso doméstico $ 265.97
+
+b).- Para terrenos de uso no doméstico $ 541.63
+
+2.- Por localización de toma o descarga por hora $ 491.31
+
+3.- Por revisión de proyecto para la construcción
+
+de redes de agua potable y alcantarillado, en predios
+
+hasta de 5,000 m2 de superficie, por plano $ 1,333.72
+
+Por cada m2 de superficie adicional, por plano. $ 0.03
+
+4.- Por hidrante contra incendios instalado del sistema de agua potable, el equivalente a 5 m3 mensuales de la tarifa para uso comercial, industrial, gubernamental y otros no domésticos.
+
+5.- Por expedición y certificación de documentos,
+
+con vigencia de seis meses $ 134.84
+
+6.- Por expedición de certificados de libertad
+
+de gravamen $ 137.73
+
+7.- Por instalación de medidor, instalación de toma de agua domiciliaria y descarga de drenaje de aguas negras, así como el costo de la introducción de las redes de agua potable y alcantarillado sanitario y otros servicios no contemplados en este capítulo, se pagará el importe de acuerdo con el presupuesto que previamente formule el organismo que preste el servicio.
+
+El costo de la introducción de las redes de agua potable y alcantarillado sanitario, se pagarán de acuerdo a los presupuestos que previamente formule el organismo que presta el servicio. Para aquellos usuarios que después de 12 meses de haber sido ejecutada y notificada la obra y el presupuesto, no hayan contratado, el costo que deberá cubrir será aquel que resulte de haber aplicado el porcentaje de incremento que haya tenido el salario mínimo general vigente, desde la fecha de notificación del presupuesto a los beneficiarios de dicha obra hasta la fecha de contratación.
+
+8.- Los propietarios o poseedores de predios que tengan una o varias fuentes de abastecimiento de agua y que utilicen el sistema de alcantarillado de aguas negras, se les aplicará el 40% de la tarifa de agua potable aplicable, sobre el volumen vertido a las descargas de aguas negras, restando en su caso el volumen facturado por el organismo operador. En los casos en donde no sea posible determinar el volumen vertido a las descargas de aguas negras, el cálculo se realizará de conformidad al promedio de consumo del giro comercial en cuestión o de acuerdo al promedio de los últimos seis meses de consumo real facturado.
+
+9.- Por la remoción de reductor en servicio doméstico $ 106.30
+
+10.- Por la reconexión del servicio de uso comercial, industrial, gubernamental y otros no domésticos $ 106.30
+
+11.- Por el sondeo de descarga domiciliaria $ 318.89
+
+12.- Por revisión de agua potable, alcantarillado sanitario y pozos de visita conforme a proyecto autorizado:
+
+Costo unitario por visita $ 494.15
+
+Por hora adicional $ 164.72
+
+#### SECCIÓN III
+
+MUNICIPIO DE TIJUANA.
+
+A).- SERVICIO MEDIDO.
+
+1.- Uso doméstico.
+
+Los usuarios que tengan medidor en el Municipio de Tijuana, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente:
+
+T A R I F A:
+
+a).- De 0 hasta 5 m3, cuota mínima $ 84.07
+
+b).- Por el excedente de 5 y hasta 10 m3,
+
+por cada m3 consumido $ 17.02
+
+c).- Por el excedente de 10 y hasta 15 m3,
+
+por cada m3 consumido $ 17.39
+
+d).- Por el excedente de 15 y hasta 20 m3,
+
+por cada m3 consumido $ 19.84
+
+e).- Por el excedente de 20 y hasta 25 m3,
+
+por cada m3 consumido $ 33.27
+
+f).- Por el excedente de 25 y hasta 30 m3,
+
+por cada m3 consumido $ 34.39
+
+g).- Por el excedente de 30 y hasta 35 m3,
+
+por cada m3 consumido $ 43.46
+
+h).- Por el excedente de 35 y hasta 40 m3,
+
+por cada m3 consumido $ 43.84
+
+i).- Por el excedente de 40 y hasta 45 m3,
+
+por cada m3 consumido $ 49.56
+
+j).- Por el excedente de 45 y hasta 50 m3,
+
+por cada m3 consumido $ 49.74
+
+k).- Por el excedente de 50 y hasta 60 m3,
+
+por cada m3 consumido $ 57.91
+
+l).- Por el excedente de 60 m3 en adelante,
+
+por cada m3 consumido $ 58.32
+
+A los usuarios domésticos que efectúen su pago mensual y lo hagan antes de la fecha de vencimiento durante tres meses consecutivos, en el cuarto pago oportuno gozarán de un descuento del 15% sobre el importe de este último; sin que se interrumpa la consecutividad de los pagos mensuales cuando éstos comprendan dos ejercicios fiscales.
+
+Este descuento será aplicable siempre y cuando no se tenga el beneficio de otro estímulo fiscal para este servicio.
+
+Para continuar gozando de este descuento, además de seguir cumpliendo con lo dispuesto en el párrafo anterior, deberán transcurrir por lo menos tres meses entre la obtención de cada beneficio.
+
+2.- Uso comercial, industrial, gubernamental y otros no domésticos.
+
+Los usuarios que tengan medidor en el Municipio de Tijuana, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente:
+
+TARIFA:
+
+a).- De 0 hasta 5 m3, cuota mínima $ 289.26
+
+b).- Por el excedente de 5 y hasta 30 m3,
+
+por cada m3 consumido $ 57.81
+
+c).- Por el excedente de 30 y hasta 1,000 m3,
+
+por cada m3 consumido $ 59.80
+
+d).- Por el excedente de 1,000 m3 en adelante,
+
+por cada m3 consumido $ 60.98
+
+3.- Aguas residuales en planta o fuera de planta a quienes lo soliciten.
+
+a).- Tratada, por cada m3 $ 4.40
+
+b).- Sin tratar, por cada m3 $ 0.77
+
+4.- El costo de agua por servicio y suministro en tomas fijas para ser distribuidas en camiones cisterna, exclusivamente a usuarios que no cuenten con sistemas de redes de agua potable en sus predios, por cada m3 $ 24.43
+
+5.- Derecho anual de reserva de aguas residuales, tratadas y no tratadas.
+
+a).- Por cada m3 $ 0.28
+
+6.- Recepción y tratamiento de aguas residuales.
+
+Por el servicio de tratamiento de aguas residuales para los parámetros que se descarguen en forma excedida de los límites establecidos por la normatividad vigente en materia ambiental y los ordenamientos técnicos.
+
+a).- Remover la demanda química de oxígeno (DQO)
+
+por cada Kg $ 9.98
+
+b).- Remover la demanda bioquímica de oxígeno (DBO)
+
+por cada Kg $ 10.11
+
+c).- Remover los sólidos suspendidos totales (SST)
+
+por cada Kg $ 10.11
+
+d).- Por cada revisión y verificación de las
+
+condiciones de las descargas de aguas residuales
+
+a la red de alcantarillado sanitario $ 722.34
+
+e).- Recepción de aguas residuales sanitarias
+
+vertida por camiones cisterna (pipa), por m3 $ 8.18
+
+f).- Análisis de laboratorio de los parámetros
+
+conforme a la NOM-002-SEMARNAT-1996 $ 6,572.55
+
+g).- Por recepción y evaluación de la documentación
+
+relativa a la firma del contrato de tratamiento
+
+conjunto de aguas residuales $ 4,490.77
+
+h).- Revaluación anual del contrato de tratamiento
+
+conjunto de aguas residuales $ 2,560.36
+
+i).- Recepción, tratamiento y confinamiento de
+
+lodos de plantas de tratamiento de aguas
+
+residuales de fraccionamientos habitacionales:
+
+I.- Por recepción y evaluación de la documentación
+
+relativa a la firma del contrato de confinamiento
+
+de lodos $ 4,490.77
+
+II.- Reevaluación anual del contrato de confinamiento
+
+de lodos $ 2,560.36
+
+III.- Recepción de lodos estabilizados (biosólidos)
+
+provenientes de plantas de tratamiento de aguas
+
+residuales de fraccionamientos habitacionales,
+
+por m3 $ 431.29
+
+IV.- Recepción de lodos sin estabilizar provenientes
+
+de plantas de tratamiento de aguas residuales de
+
+fraccionamientos habitacionales, por m3 $ 862.61
+
+j).- Por los servicios de toma de muestras y análisis del laboratorio de aguas residuales:
+
+I.- Por el servicio de muestreo simple de
+
+aguas residuales $ 622.60
+
+II.- Por el servicio de muestreo compuesto
+
+de aguas residuales $1,432.36
+
+III.- Por el análisis del parámetro:
+
+PH $ 71.59
+
+Demanda Bioquímica de Oxígeno. $ 402.71
+
+Demanda Química de Oxígeno $ 232.67
+
+Grasas y aceites $ 340.07
+
+Fósforo Total $ 241.64
+
+Detergentes $ 340.07
+
+Nitrógeno Total $ 340.07
+
+Nitrógeno Amoniacal $ 340.07
+
+Cloro Residual $ 179.01
+
+Coliformes Totales $ 429.59
+
+Coliformes Fecales $ 429.59
+
+Conductividad $ 71.59
+
+Temperatura $ 35.80
+
+% Salinidad $ 71.59
+
+Sólidos Totales $ 134.23
+
+Sólidos Totales Disueltos $ 161.08
+
+Sólidos Totales Volátiles $ 161.08
+
+Sólidos Suspendidos Totales $ 161.08
+
+Sólidos Suspendidos Volátiles $ 187.89
+
+Sólidos Sedimentables $ 107.40
+
+Aluminio $ 349.03
+
+Arsénico $ 349.03
+
+Bario $ 349.03
+
+Boro $ 349.03
+
+Cadmio $ 349.03
+
+Calcio $ 349.03
+
+Cobre $ 349.03
+
+Cianuro Total $ 89.48
+
+Cromo Hexavalente $ 349.03
+
+Cromo Total $ 349.03
+
+Estaño $ 349.03
+
+Fierro $ 349.03
+
+Magnesio $ 349.03
+
+Mercurio $ 349.03
+
+Níquel $ 349.03
+
+Plata $ 349.03
+
+Plomo $ 349.03
+
+Potasio $ 349.03
+
+Sodio $ 349.03
+
+Zinc $ 349.03
+
+Otros $ 349.03
+
+k).- Por la recepción de agua residual fuera de norma, proveniente de descargas al sistema de alcantarillado, de procesos productivos de empresas con giros industriales o comerciales, así como de Plantas de Tratamiento de Aguas Residuales de fraccionamientos habitacionales, de conformidad con el artículo 277-B, fracción I, y Octavo Transitorio de la Ley Federal de Derechos, por cada m3 $ 0.71
+
+l).- Registro de descarga de aguas potencialmente contaminantes $ 3,533.24
+
+m).- Revaluación a los registros de descargas de aguas potencialmente contaminantes a los sistemas de alcantarillado sanitario $ 2,014.42
+
+n).- Análisis de solicitud de prórroga para presentar revaluación de los registros de descarga de aguas potencialmente contaminantes a los sistemas de alcantarillado sanitario $ 941.26
+
+ñ).- Cambios de razón social, fusiones, transferencias de derechos y obligaciones respecto a resoluciones o trámites en general $ 2,826.54
+
+o).- Por el análisis para reconsideración de condicionantes de permiso de descarga de agua residual $ 1,645.32
+
+p).- Análisis de solicitud de exención al trámite de permiso de descarga de agua residual $ 983.60
+
+La prestación del servicio será en los términos que establezca la Comisión Estatal de Servicios Públicos de Tijuana.
+
+7.- Los usuarios que tengan medidor en el Municipio de Tijuana, causarán mensualmente por cada metro cúbico consumido de agua sin potabilizar y puesta en el punto de conexión que determine el organismo $ 34.59
+
+8.- Por el análisis de muestras de agua potable en laboratorio certificado del organismo, según los parámetros preestablecidos a solicitud del usuario $ 839.77
+
+B).- TOMAS COMUNALES.
+
+Los consumos de las cuentas de este tipo de tomas, serán divididos entre el número de usuarios servidos del mismo medidor y a la resultante se le aplicará la tarifa doméstica vigente de acuerdo con el punto número uno.
+
+C).- SERVICIO SIN MEDIDOR.
+
+Para los usuarios domésticos sin servicio medido los consumos serán estimados por el organismo de acuerdo al consumo medido promedio de la zona y para los no domésticos, el consumo será determinado de acuerdo al consumo medido promedio del giro correspondiente, con base a las estadísticas de consumo para este tipo de usuarios.
+
+D).- DERECHOS DE CONEXIÓN AL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO:
+
+1.- Para los terrenos residenciales unifamiliares de fraccionamientos y colonias populares, definidos de conformidad con el Artículo Quinto Transitorio de esta Ley, y cuyo uso sea exclusivamente para casa habitación:
+
+a).- A las redes del sistema de agua potable, por m2
+
+de superficie vendible incluyendo áreas de
+
+donación $ 5.30
+
+b).- A las redes del sistema de alcantarillado, por m2
+
+de superficie vendible incluyendo áreas de
+
+donación $ 4.40
+
+2.- Para los terrenos destinados a desarrollos de vivienda de interés social y popular, definidos de conformidad con el Artículo Quinto Transitorio de esta Ley, el derecho a pagar por la incorporación a los sistemas de agua potable y alcantarillado por cada casa habitación construida o por construir, será de:
+
+a).- Tratándose de vivienda de interés social:
+
+1).- Por agua potable $ 1,762.89
+
+2).- Por alcantarillado sanitario $ 868.29
+
+b).- Tratándose de vivienda popular:
+
+1).- Por agua potable $ 2,969.14
+
+2).- Por alcantarillado sanitario $ 1,453.57
+
+3.- Para los terrenos destinados a desarrollos de vivienda de interés social en condominio, acreditados como tales por la Secretaría de Infraestructura y Desarrollo Urbano del Estado y Dirección de Administración Urbana del Municipio de Tijuana y cuyo uso sea exclusivamente para casa habitación:
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de terreno $ 31.65
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por m2 de terreno $ 21.32
+
+4.- Para terrenos residenciales unifamiliares y cuyo uso sea exclusivamente para casa habitación:
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de superficie vendible, incluyendo
+
+áreas de donación $ 47.41
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario por m2 de superficie vendible, incluyendo
+
+áreas de donación $ 26.03
+
+5.- Para los terrenos destinados a condominios:
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de terreno $ 46.40
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por m2 de terreno $ 25.00
+
+c).- Adicionalmente a los incisos a) y b), por
+
+m2 de construcción $ 11.10
+
+La superficie que servirá como base para realizar este cálculo, deberá de acreditarse mediante documentación oficial que emita la autoridad municipal competente.
+
+6.- Para locales, establecimientos y desarrollos comerciales, industriales, turísticos, gubernamentales y otros no domésticos, así como los terrenos de propiedad gubernamental destinados a escuelas, parques, jardines y campos deportivos públicos, el cobro lo determinará el organismo previo análisis, en función a las necesidades de abasto de agua, infraestructura y capacidad de diseño, de acuerdo a las siguientes tarifas:
+
+a).- A las redes del sistema de agua potable,
+
+por litro por segundo $ 698,668.40
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por litro por segundo $ 380,508.60
+
+c).- En aquellos casos en que no sea posible determinar las necesidades de abasto e infraestructura, la determinación del cobro se hará conforme lo establezca o haya establecido el organismo previo análisis.
+
+En el caso de escuelas y universidades públicas y privadas, la necesidad de abasto de agua e infraestructura, se determinará considerando 60 litros por alumno/día de acuerdo a las tarifas de los incisos a) y b) de este numeral.
+
+Tratándose de los apartados de este inciso D), los dueños de los fraccionamientos y desarrollos, serán los obligados al pago de los derechos correspondientes para la prestación de los servicios de agua potable y alcantarillado sanitario.
+
+Los usuarios tendrán derecho a un descuento del 12% sobre el importe total de las tarifas, en los siguientes casos:
+
+a).- Cuando se pague de contado, los derechos de conexión a los sistemas de agua potable y alcantarillado sanitario.
+
+b).- Cuando se pague de contado el costo de la introducción o reposición de tubería principal y accesorios, para la dotación del servicio de agua potable o alcantarillado sanitario.
+
+En todo caso se entenderá que el pago es al contado, cuando los derechos que se causen se enteren en la oficina de Recaudación de Rentas adscrita a dicho Organismo, dentro de los 15 días siguientes a la fecha en que se notifique el costo del servicio.
+
+En los casos en que el usuario cambie el uso de suelo de doméstico a no doméstico, el organismo al tener conocimiento, cobrará la diferencia que resulte del cálculo del cambio.
+
+Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la Ley de Ingresos vigente en la fecha que se determine la diferencia.
+
+E).- TOMAS Y DESCARGAS NO REGISTRADAS.
+
+1.- En caso de que sea detectada una toma no registrada instalada en el Municipio de Tijuana, el cobro será de acuerdo a la siguiente manera:
+
+a).- En la detección de tomas no registradas domésticas, se tomará como base para el cobro 230 litros por día y por habitante, considerando hasta 4.1 habitantes por familia, por un máximo de hasta por 5 años, al 100% de la tarifa para uso doméstico aprobada por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+
+En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 11, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
+
+b).- En la detección de tomas no registradas comerciales, industriales, gubernamentales y desarrollos turísticos, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+
+La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
+
+Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+
+2.- En caso de que sea detectada una descarga no registrada instalada en el Municipio de Tijuana, y que no cuenten con el servicio de agua potable, el cobro será de acuerdo a la siguiente manera:
+
+a).- En la detección de descargas no registradas domésticas, se tomará como base para el cobro 80 litros por día y por habitante, considerando hasta 4.1 habitantes por familia, por un máximo de hasta por 5 años, al 40% de la tarifa aprobada por consumo de agua para uso doméstico por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
+
+b).- En la detección de descargas no registradas comerciales, gubernamentales, industriales y de desarrollos turísticos, así como otras no domésticas, los cobros serán estimados por el organismo de acuerdo al consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, hasta por un período de 5 años, al 40% de la tarifa de servicio medido vigente en la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha descarga.
+
+En caso de que sea detectada una descarga no registrada instalada en el Municipio de Tijuana, en usuarios registrados para el suministro del servicio de agua potable, el cobro será por los conceptos de derechos de conexión para alcantarillado sanitario, derrama de obra e instalación de descarga.
+
+La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de descarga de agua.
+
+Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+
+F).- OTROS SERVICIOS.
+
+1.- Por la expedición de opiniones técnicas para los servicios de agua potable y alcantarillado sanitario, con vigencia de seis meses.
+
+a).- Para terrenos de uso Residencial $ 227.74
+
+b).- Para terrenos de uso Comercial, Industrial y
+
+otros no residenciales $ 463.70
+
+Para la expedición de la factibilidad de servicios de agua potable y alcantarillado sanitario, deberán estar cubiertos o convenidos los derechos de conexión correspondientes.
+
+2.- Por revisión de proyecto para la
+
+construcción de redes de agua potable y
+
+alcantarillado, en predios hasta de 5,000 m2
+
+de superficie, por plano $ 1,141.95
+
+Más, por cada m2 de superficie adicional,
+
+por proyecto $ 0.03
+
+Para la autorización de los proyectos deberá presentarse el uso de suelo emitido por la autoridad correspondiente.
+
+3.- Por hidrante contra incendios instalado del sistema de agua potable el equivalente a 5 m3 mensuales a la tarifa para uso comercial, industrial, gubernamental y otros no domésticos.
+
+4.- Por expedición y certificación de documentos,
+
+con vigencia de seis meses $ 117.95
+
+5.- Por expedición de certificados de liberta
+
+de gravamen $ 117.95
+
+6.- Cambios de medidor, costo del aparato y protección de los mismos, instalación de toma de agua domiciliaria y descarga de drenaje de aguas negras, así como el costo de la introducción de las redes de agua potable y alcantarillado, y otros servicios no contemplados en este capítulo, se pagará el importe de acuerdo con el presupuesto que previamente formule el organismo que preste el servicio.
+
+El costo de la introducción de las redes de agua potable y alcantarillado sanitario, se pagarán de acuerdo a los presupuestos que previamente formule el organismo que presta el servicio. Para aquellos usuarios que después de 12 meses de haber sido ejecutada y notificada la obra y el presupuesto, no hayan contratado, el costo que deberá cubrir será aquel que resulte de haber aplicado el porcentaje de incremento que haya tenido el salario mínimo general vigente, desde la fecha de notificación del presupuesto a los beneficiarios de dicha obra hasta la fecha de contratación.
+
+7.- Los propietarios o poseedores de predios que tengan una o varias fuentes de abastecimiento de agua y que utilicen el sistema de alcantarillado de aguas negras, se les aplicará el 40% de la tarifa de agua potable aplicable, sobre el volumen vertido a las descargas de aguas negras, restando en su caso el volumen facturado por el organismo operador.
+
+8.- Por la detección de fugas no visibles dentro de los domicilios particulares y que sean solicitados por el usuario $ 770.41
+
+9.- Por la remoción de reductor en servicio doméstico $ 106.30
+
+10.- Por la reconexión del servicio de uso comercial, industrial, gubernamental y otros no domésticos $ 106.30
+
+11.- Por el sondeo de descarga domiciliaria $ 318.89
+
+12.- Por localización de toma de agua potable $ 314.73
+
+13.- Por localización de descarga $ 314.73
+
+#### SECCIÓN IV
+
+MUNICIPIO DE PLAYAS DE ROSARITO.
+
+A).- SERVICIO MEDIDO.
+
+1.- Uso doméstico.
+
+Los usuarios que tengan medidor en el Municipio de Playas de Rosarito, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente
+
+T A R I F A:
+
+a).- De 0 hasta 5 m3, cuota mínima $ 84.07
+
+b).- Por el excedente de 5 y hasta 10 m3,
+
+por cada m3 consumido $ 17.02
+
+c).- Por el excedente de 10 y hasta 15 m3,
+
+por cada m3 consumido $ 17.39
+
+d).- Por el excedente de 15 y hasta 20 m3,
+
+por cada m3 consumido $ 19.84
+
+e).- Por el excedente de 20 y hasta 25 m3,
+
+por cada m3 consumido $ 33.27
+
+f).- Por el excedente de 25 y hasta 30 m3,
+
+por cada m3 consumido $ 34.39
+
+g).- Por el excedente de 30 y hasta 35 m3,
+
+por cada m3 consumido $ 43.46
+
+h).- Por el excedente de 35 y hasta 40 m3,
+
+por cada m3 consumido $ 43.84
+
+i).- Por el excedente de 40 y hasta 45 m3,
+
+por cada m3 consumido $ 49.56
+
+j).- Por el excedente de 45 y hasta 50 m3,
+
+por cada m3 consumido $ 49.74
+
+k).- Por el excedente de 50 y hasta 60 m3,
+
+por cada m3 consumido $ 57.91
+
+l).- Por el excedente de 60 m3 en adelante,
+
+por cada m3 consumido $ 58.32
+
+A los usuarios domésticos que efectúen su pago mensual y lo hagan antes de la fecha de vencimiento durante tres meses consecutivos, en el cuarto pago oportuno gozarán de un descuento del 15% sobre el importe de este último; sin que se interrumpa la consecutividad de los pagos mensuales cuando éstos comprendan dos ejercicios fiscales.
+
+Este descuento será aplicable siempre y cuando no se tenga el beneficio de otro estímulo fiscal para este servicio. Para continuar gozando de este descuento, además de seguir cumpliendo con lo dispuesto en el párrafo anterior, deberán transcurrir por lo menos tres meses entre la obtención de cada beneficio.
+
+2.- Uso comercial, industrial, gubernamental y otros no domésticos.
+
+Los usuarios que tengan medidor en el Municipio de Playas de Rosarito, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente
+
+TARIFA:
+
+a).- De 0 hasta 5 m3, cuota mínima $ 289.26
+
+b).- Por el excedente de 5 y hasta 30 m3,
+
+por cada m3 consumido $ 57.81
+
+c).- Por el excedente de 30 y hasta 1,000 m3,
+
+por cada m3 consumido $ 59.80
+
+d).- Por el excedente de 1,000 m3 en adelante,
+
+por cada m3 consumido $ 60.98
+
+3.- Aguas residuales en planta o fuera de planta a quienes lo soliciten.
+
+a).- Tratada, por cada m3 $ 4.40
+
+b).- Sin tratar, por cada m3 $ 0.77
+
+4.- El costo de agua por servicio y suministro en tomas fijas para ser distribuidas en camiones cisterna, exclusivamente a usuarios que no cuenten con sistemas de redes de agua potable en sus predios, por cada m3 $ 24.43
+
+5.- Derecho anual de reserva de aguas residuales, tratadas y no tratadas.
+
+a).- Por cada m3 $ 0.28
+
+6.- Recepción y tratamiento de aguas residuales.
+
+Por el servicio de tratamiento de aguas residuales para los parámetros que se descarguen en forma excedida de los límites establecidos por la normatividad vigente en materia ambiental y los ordenamientos técnicos.
+
+a).- Remover la demanda química de oxígeno (DQO)
+
+por cada Kg $ 9.98
+
+b).- Remover la demanda bioquímica de oxígeno (DBO)
+
+por cada Kg $ 10.11
+
+c).- Remover los sólidos suspendidos totales (SST)
+
+por cada Kg $ 10.11
+
+d).- Por cada revisión y verificación de las
+
+condiciones de las descargas de aguas residuales
+
+a la red de alcantarillado sanitario $ 722.34
+
+e).- Recepción de aguas residuales sanitarias vertida
+
+por camiones cisterna (pipa), por m3 $ 8.18
+
+f).- Análisis de laboratorio de los parámetros
+
+conforme a la NOM-002-SEMARNAT-1996 $ 6,572.55
+
+g).- Por recepción y evaluación de la documentación
+
+relativa a la firma del contrato de tratamiento
+
+conjunto de aguas residuales $ 4,490.77
+
+h).- Revaluación anual del contrato de tratamiento
+
+conjunto de aguas residuales $ 2,560.36
+
+i).- Recepción, tratamiento y confinamiento de lodos de plantas de tratamiento de aguas residuales de fraccionamientos habitacionales:
+
+I.- Por recepción y evaluación de la documentación
+
+relativa a la firma del contrato de confinamiento
+
+de lodos $ 4,490.77
+
+II.- Reevaluación anual del contrato de
+
+confinamiento de lodos $ 2,560.36
+
+III.- Recepción de lodos estabilizados (biosólidos)
+
+provenientes de plantas de tratamiento de aguas
+
+residuales de fraccionamientos habitacionales,
+
+por m3 $ 431.29
+
+IV.- Recepción de lodos sin estabilizar
+
+provenientes de plantas de tratamiento de
+
+aguas residuales de fraccionamientos
+
+habitacionales, por m3 $ 862.61
+
+j).- Por los servicios de toma de muestras y análisis del laboratorio de aguas residuales:
+
+I.- Por el servicio de muestreo simple
+
+de aguas residuales $ 622.60
+
+II.- Por el servicio de muestreo compuesto
+
+de aguas residuales $ 1,432.36
+
+III.- Por el análisis del parámetro:
+
+PH $ 71.59
+
+Demanda Bioquímica de Oxígeno $ 402.71
+
+Demanda Química de Oxígeno $ 232.67
+
+Grasas y aceites $ 340.07
+
+Fósforo Total $ 241.64
+
+Detergentes $ 340.07
+
+Nitrógeno Total $ 340.07
+
+Nitrógeno Amoniacal $ 340.07
+
+Cloro Residual $ 179.01
+
+Coliformes Totales $ 429.59
+
+Coliformes Fecales $ 429.59
+
+Conductividad $ 71.59
+
+Temperatura $ 35.80
+
+% Salinidad $ 71.59
+
+Sólidos Totales $ 134.23
+
+Sólidos Totales Disueltos $ 161.08
+
+Sólidos Totales Volátiles $ 161.08
+
+Sólidos Suspendidos Totales $ 161.08
+
+Sólidos Suspendidos Volátiles $ 187.89
+
+Sólidos Sedimentables $ 107.40
+
+Aluminio $ 349.03
+
+Arsénico $ 349.03
+
+Bario $ 349.03
+
+Boro $ 349.03
+
+Cadmio $ 349.03
+
+Calcio $ 349.03
+
+Cobre $ 349.03
+
+Cianuro Total $ 89.48
+
+Cromo Hexavalente $ 349.03
+
+Cromo Total $ 349.03
+
+Estaño $ 349.03
+
+Fierro $ 349.03
+
+Magnesio $ 349.03
+
+Mercurio $ 349.03
+
+Níquel $ 349.03
+
+Plata $ 349.03
+
+Plomo $ 349.03
+
+Potasio $ 349.03
+
+Sodio $ 349.03
+
+Zinc $ 349.03
+
+Otros $ 349.03
+
+k).- Por la recepción de agua residual fuera de norma, proveniente de descargas al sistema de alcantarillado, de procesos productivos de empresas con giros industriales o comerciales, así como de Plantas de Tratamiento de Aguas Residuales de fraccionamientos habitacionales, de conformidad con el artículo 277-B, fracción I, y Octavo Transitorio de la Ley Federal de Derechos, por cada m3 $ 0.71
+
+l).- Registro de descarga de aguas potencialmente contaminantes $ 3,533.24
+
+m).- Revaluación a los registros de descargas de aguas potencialmente contaminantes a los sistemas de alcantarillado sanitario $ 2,014.42
+
+n).- Análisis de solicitud de prórroga para presentar revaluación de los registros de descarga de aguas potencialmente contaminantes a los sistemas de alcantarillado sanitario $ 941.26
+
+ñ).- Cambios de razón social, fusiones, transferencias de derechos y obligaciones respecto a resoluciones o trámites en general $ 2,826.54
+
+o).- Por el análisis para reconsideración de condicionantes de permiso de descarga de agua residual $ 1,645.32
+
+p).- Análisis de solicitud de exención al trámite de permiso de descarga de agua residual $ 983.60
+
+La prestación del servicio será en los términos que establezca la Comisión Estatal de Servicios Públicos de Tijuana.
+
+7.- Los usuarios que tengan medidor en el Municipio de Tijuana, causarán mensualmente por cada metro cúbico consumido de agua sin potabilizar y puesta en el punto de conexión que determine el organismo $ 34.59
+
+8.- Por el análisis de muestras de agua potable en laboratorio certificado del organismo, según los parámetros preestablecidos a solicitud del usuario $ 839.77
+
+B).- TOMAS COMUNALES.
+
+Los consumos de las cuentas de este tipo de tomas, serán divididos entre el número de usuarios servidos del mismo medidor y a la resultante se le aplicará la tarifa doméstica vigente de acuerdo con el punto número uno.
+
+C).- SERVICIO SIN MEDIDOR.
+
+Para los usuarios domésticos sin servicio medido los consumos serán estimados por el organismo de acuerdo al consumo medido promedio de la zona y para los no domésticos, el consumo será determinado de acuerdo al consumo medido promedio del giro correspondiente, con base a las estadísticas de consumo para este tipo de usuarios.
+
+D).- DERECHOS DE CONEXIÓN AL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO:
+
+1.- Para los terrenos residenciales unifamiliares de fraccionamientos y colonias populares, definidos de conformidad con el Artículo Quinto Transitorio de esta Ley, y cuyo uso sea exclusivamente para casa habitación:
+
+a).- A las redes del sistema de agua potable, por m2 de superficie vendible incluyendo áreas de donación $ 5.30
+
+b).- A las redes del sistema de alcantarillado, por m2 de superficie vendible incluyendo áreas de donación $ 4.40
+
+2.- Para los terrenos destinados a desarrollos de vivienda de interés social y popular, definidos de conformidad con el Artículo Quinto Transitorio de esta Ley, el derecho a pagar por la incorporación a los sistemas de agua potable y alcantarillado por cada casa habitación construida o por construir, será de:
+
+a).- Tratándose de vivienda de interés social:
+
+1).- Por agua potable $ 1,762.89
+
+2).- Por alcantarillado sanitario $ 868.29
+
+b).- Tratándose de vivienda popular:
+
+1).- Por agua potable $ 2,969.14
+
+2).- Por alcantarillado sanitario $ 1,453.57
+
+3.- Para los terrenos destinados a desarrollos de vivienda de interés social en condominio, acreditados como tales por la Secretaría de Infraestructura y Desarrollo Urbano del Estado y Dirección de Desarrollo Urbano y Ecología del Municipio de Playas de Rosarito y cuyo uso sea exclusivamente para casa habitación.
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de terreno $ 31.65
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por m2 de terreno $ 21.32
+
+4.- Para terrenos residenciales unifamiliares y cuyo uso sea exclusivamente para casa habitación.
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de superficie vendible, incluyendo
+
+áreas de donación $ 47.41
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario por m2 de superficie vendible,
+
+incluyendo áreas de donación $ 26.03
+
+5.- Para los terrenos destinados a condominios:
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de terreno $ 46.40
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por m2 de terreno $ 25.00
+
+c).- Adicionalmente a los incisos a) y b), por
+
+m2 de construcción $ 11.10
+
+La superficie que servirá como base para realizar este cálculo, deberá de acreditarse mediante documentación oficial que emita la autoridad municipal competente.
+
+6.- Para locales, establecimientos y desarrollos comerciales, industriales, turísticos, gubernamentales y otros no domésticos, así como los terrenos de propiedad gubernamental destinados a escuelas, parques, jardines y campos deportivos públicos, el cobro lo determinará el organismo previo análisis, en función a las necesidades de abasto de agua, infraestructura y capacidad de diseño, de acuerdo a las siguientes tarifas:
+
+a).- A las redes del sistema de agua potable,
+
+por litro por segundo $ 698,668.40
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por litro por segundo $ 380,508.60
+
+c).- En aquellos casos en que no sea posible determinar las necesidades de abasto e infraestructura, la determinación del cobro se hará conforme lo establezca o haya establecido el organismo previo análisis.
+
+En el caso de escuelas y universidades públicas y privadas, la necesidad de abasto de agua e infraestructura, se determinará considerando 60 litros por alumno/día de acuerdo a las tarifas de los incisos a) y b) de este numeral.
+
+Tratándose de los apartados de este inciso D), los dueños de los fraccionamientos y desarrollos, serán los obligados al pago de los derechos correspondientes para la prestación de los servicios de agua potable y alcantarillado sanitario.
+
+Los usuarios tendrán derecho a un descuento del 12% sobre el importe total de las tarifas, en los siguientes casos:
+
+a).- Cuando se pague de contado, los derechos de conexión a los sistemas de agua potable y alcantarillado sanitario.
+
+b).- Cuando se pague de contado el costo de la introducción o reposición de tubería principal y accesorios, para la dotación del servicio de agua potable o alcantarillado sanitario.
+
+En todo caso se entenderá que el pago es al contado, cuando los derechos que se causen se enteren en la oficina de Recaudación de Rentas adscrita a dicho Organismo, dentro de los 15 días siguientes a la fecha en que se notifique el costo del servicio.
+
+En los casos en que el usuario cambie el uso de suelo de doméstico a no doméstico, el organismo al tener conocimiento, cobrará la diferencia que resulte del cálculo del cambio.
+
+Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la ley de ingresos vigente en la fecha que se determine la diferencia.
+
+E).- TOMAS Y DESCARGAS NO REGISTRADAS.
+
+1.- En caso de que sea detectada una toma no registrada instalada en el Municipio de Playas de Rosarito, el cobro será de acuerdo a la siguiente manera:
+
+a).- En la detección de tomas no registradas domésticas, se tomará como base para el cobro 230 litros por día y por habitante, considerando hasta 4.1 habitantes por familia, por un máximo de hasta por 5 años, al 100% de la tarifa para uso doméstico aprobada por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+
+En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 11, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
+
+b).- En la detección de tomas no registradas comerciales, industriales, gubernamentales y desarrollos turísticos, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+
+La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
+
+Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+
+2.- En caso de que sea detectada una descarga no registrada instalada en el Municipio de Playas de Rosarito, y que no cuenten con el servicio de agua potable, el cobro será de acuerdo a la siguiente manera:
+
+a).- En la detección de descargas no registradas domésticas, se tomará como base para el cobro 80 litros por día y por habitante, considerando hasta 4.1 habitantes por familia, por un máximo de hasta por 5 años, al 40% de la tarifa aprobada por consumo de agua para uso doméstico por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
+
+b).- En la detección de descargas no registradas comerciales, gubernamentales, industriales y de desarrollos turísticos, así como otras no domésticas, los cobros serán estimados por el organismo de acuerdo al consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, hasta por un período de 5 años, al 40% de la tarifa de servicio medido vigente en la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha descarga.
+
+En caso de que sea detectada una descarga no registrada instalada en el Municipio de Playas de Rosarito, en usuarios registrados para el suministro del servicio de agua potable, el cobro será por los conceptos de derechos de conexión para alcantarillado sanitario, derrama de obra e instalación de descarga.
+
+La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de descarga de agua.
+
+Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+
+F).- OTROS SERVICIOS.
+
+1.- Por la expedición de opiniones técnicas para los servicios de agua potable y alcantarillado sanitario, con vigencia de seis meses.
+
+a).- Para terrenos de uso Residencial $ 227.74
+
+b).- Para terrenos de uso Comercial, Industrial y
+
+otros no residenciales $ 463.70
+
+Para la expedición de la factibilidad de servicios de agua potable y alcantarillado sanitario, deberán estar cubiertos o convenidos los derechos de conexión correspondientes.
+
+2.- Por revisión de proyecto para la construcción de redes de agua potable y alcantarillado, en predios hasta de 5,000 m2 de superficie, por plano $ 1,141.95
+
+Más, por cada m2 de superficie adicional, por proyecto $ 0.03
+
+Para la autorización de los proyectos deberá presentarse el uso de suelo emitido por la autoridad correspondiente.
+
+3.- Por hidrante contra incendios instalado del sistema de agua potable el equivalente a 5 m3 mensuales a la tarifa para uso comercial, industrial, gubernamental y otros no domésticos.
+
+4.- Por expedición y certificación de documentos, con vigencia de seis meses $ 117.95
+
+5.- Por expedición de certificados de libertad de gravamen $ 117.95
+
+6.- Cambios de medidor, costo del aparato y protección de los mismos, instalación de toma de agua domiciliaria y descarga de drenaje de aguas negras, así como el costo de la introducción de las redes de agua potable y alcantarillado, y otros servicios no contemplados en este capítulo, se pagará el importe de acuerdo con el presupuesto que previamente formule el organismo que preste el servicio.
+
+El costo de la introducción de las redes de agua potable y alcantarillado sanitario, se pagarán de acuerdo a los presupuestos que previamente formule el organismo que presta el servicio. Para aquellos usuarios que después de 12 meses de haber sido ejecutada y notificada la obra y el presupuesto, no hayan contratado, el costo que deberá cubrir será aquel que resulte de haber aplicado el porcentaje de incremento que haya tenido el salario mínimo general vigente, desde la fecha de notificación del presupuesto a los beneficiarios de dicha obra hasta la fecha de contratación.
+
+7.- Los propietarios o poseedores de predios que tengan una o varias fuentes de abastecimiento de agua y que utilicen el sistema de alcantarillado de aguas negras, se les aplicará el 40% de la tarifa de agua potable aplicable, sobre el volumen vertido a las descargas de aguas negras, restando en su caso el volumen facturado por el organismo operador.
+
+8.- Por la detección de fugas no visibles dentro de los domicilios particulares y que sean solicitados por el usuario $ 770.41
+
+9.- Por la remoción de reductor en servicio doméstico $ 106.30
+
+10.- Por la reconexión del servicio de uso comercial, industrial, gubernamental y otros no domésticos $ 106.30
+
+11.- Por el sondeo de descarga domiciliaria $ 318.89
+
+12.- Por localización de toma de agua potable $ 314.73
+
+13.- Por localización de descarga $ 314.73
+
+#### SECCIÓN V
+
+MUNICIPIO DE TECATE.
+
+A).- SERVICIO MEDIDO.
+
+1.- Uso Doméstico.
+
+Los usuarios que tengan medidor en el Municipio de Tecate, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente
+
+T A R I F A:
+
+a).- De 0 hasta 5 m3, cuota mínima $ 58.20
+
+b).- Por el excedente de 5 y hasta 10 m3,
+
+por cada m3 consumido $ 11.49
+
+c).- Por el excedente de 10 y hasta 15 m3,
+
+por cada m3 consumido $ 11.72
+
+d).- Por el excedente de 15 y hasta 20 m3,
+
+por cada m3 consumido $ 11.92
+
+e).- Por el excedente de 20 y hasta 25 m3,
+
+por cada m3 consumido $ 16.04
+
+f).- Por el excedente de 25 y hasta 30 m3,
+
+por cada m3 consumido $ 22.88
+
+g).- Por el excedente de 30 y hasta 40 m3,
+
+por cada m3 consumido $ 31.33
+
+h).- Por el excedente de 40 y hasta 50 m3,
+
+por cada m3 consumido $ 40.36
+
+i).- Por el excedente de 50 y hasta 60 m3,
+
+por cada m3 consumido $ 44.65
+
+j).- Por el excedente de 60 m3 en adelante,
+
+por cada m3 consumido $ 47.58
+
+A los usuarios domésticos que efectúen su pago mensual y lo hagan antes de la fecha de vencimiento durante tres meses consecutivos, en el cuarto pago oportuno gozarán de un descuento del 15% sobre el importe de este último; sin que se interrumpa la consecutividad de los pagos mensuales cuando éstos comprendan dos ejercicios fiscales.
+
+Este descuento será aplicable siempre y cuando no se tenga el beneficio de otro estímulo fiscal para este servicio.
+
+Para continuar gozando de este descuento, además de seguir cumpliendo con lo dispuesto en el párrafo anterior, deberán transcurrir por lo menos tres meses entre la obtención de cada beneficio.
+
+2.- Uso comercial, industrial, gubernamental y otros no domésticos.
+
+Los usuarios que tengan medidor en el Municipio de Tecate, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente
+
+TARIFA:
+
+a).- De 0 hasta 5 m3, cuota mínima $ 386.92
+
+b).- Por el excedente de 5 y hasta 30 m3,
+
+por cada m3 consumido $ 30.02
+
+c).- Por el excedente de 30 y hasta 100 m3,
+
+por cada m3 consumido $ 50.25
+
+d).- Por el excedente de 100 y hasta 500 m3,
+
+por cada m3 consumido $ 50.25
+
+e).- Por el excedente de 500 y hasta 1,000 m3,
+
+por cada m3 consumido $ 50.25
+
+f).- Por el excedente de 1,000 m3 con excepción de
+
+lo establecido en el inciso siguiente, por cada m3
+
+consumido $ 53.26
+
+g).- Para consumidores, con un promedio anual mínimo
+
+de 600,000 m3, por cada m3 consumido $ 28.42
+
+3.- Aguas residuales en planta o fuera de planta a quienes lo soliciten.
+
+a).- Tratada por cada m3 $ 4.17
+
+b).- Sin tratar por cada m3 $ 0.88
+
+4.- El costo de agua por servicio y suministro en tomas fijas para ser distribuidas en camiones cisterna, exclusivamente a usuarios que cuenten con sistemas de redes de agua potable en sus predios, por cada m3 $ 25.18
+
+5.- Derecho anual de reserva de aguas residuales, tratadas y no tratadas.
+
+a).- Por cada m3 $ 0.30
+
+6.- Recepción y tratamiento de aguas residuales.
+
+Por el servicio de tratamiento de aguas residuales para los parámetros que se descarguen en forma excedida de los límites establecidos por la normatividad vigente en materia ambiental y los ordenamientos técnicos.
+
+a).- Remover la demanda bioquímica de oxígeno (DBO)
+
+por cada Kg $ 7.16
+
+b).- Remover los sólidos suspendidos totales (SST)
+
+por cada Kg $ 7.16
+
+c).- Remover grasas y aceites (G y A), por cada Kg $ 9.42
+
+d).- Por revisión y verificación de la documentación
+
+relativa a la firma del convenio de tratamiento
+
+conjunto de aguas residuales $ 4,701.01
+
+e).- Revalidación anual del convenio de tratamiento
+
+conjunto de aguas residuales $ 2,820.62
+
+f).- Por administración del convenio de tratamiento
+
+conjunto de aguas residuales y análisis de laboratorio
+
+de la descarga, mensualmente $ 2,444.53
+
+g).- Recepción y tratamiento de aguas residuales
+
+sanitarias vertida por camiones cisterna (pipa),
+
+por m3 $ 18.80
+
+h).- Análisis de laboratorio de los parámetros
+
+conforme a la NOM-002- SEMARNAT- 1996 $ 4,418.97
+
+i).- Registro de descarga de aguas potencialmente
+
+contaminantes $ 3,533.24
+
+j).- Revaluación a los registros de descargas de
+
+aguas potencialmente contaminantes a los sistemas
+
+de alcantarillado sanitario $ 2,014.42
+
+k).- Análisis de solicitud de prórroga para presentar
+
+revaluación de los registros de descarga de aguas
+
+potencialmente contaminantes a los sistemas de
+
+alcantarillado sanitario $ 941.26
+
+La prestación del servicio será en los términos que establezca la Comisión Estatal de Servicios Públicos de Tecate.
+
+7.- Los usuarios que tengan medidor en el Municipio de Tecate, causarán mensualmente por cada metro cúbico consumido de agua sin potabilizar y puesta en el punto de conexión que determine el organismo $ 35.72
+
+B).- TOMAS COMUNALES.
+
+Los consumos de las cuentas de este tipo de tomas, serán divididos entre el número de usuarios servidos del mismo medidor y a la resultante se le aplicará la tarifa doméstica vigente de acuerdo con el punto número uno.
+
+C).- SERVICIO SIN MEDIDOR.
+
+Para los usuarios domésticos sin servicio medido, los consumos serán estimados por el organismo de acuerdo al consumo promedio de la zona y para los no domésticos, el consumo será determinado de acuerdo al consumo medido promedio del giro correspondiente, con base a las estadísticas de consumo para este tipo de usuarios.
+
+D).- DERECHOS DE CONEXIÓN AL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO SANITARIO:
+
+1.- Para los terrenos residenciales unifamiliares de fraccionamientos y colonias populares, definidos de conformidad con el Artículo Quinto Transitorio de esta Ley, y cuyo uso sea exclusivamente para casa habitación.
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de superficie vendible, incluyendo
+
+áreas de donación $ 8.58
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por m2 de superficie vendible, incluyendo
+
+áreas de donación $ 4.51
+
+2.- Para los terrenos destinados a desarrollos de vivienda de interés social y popular, definidos de conformidad con el Artículo Quinto Transitorio de esta Ley, el derecho a pagar por la incorporación a los sistemas de agua potable y alcantarillado por cada casa habitación construida o por construir, será de:
+
+a).- Tratándose de vivienda de interés social
+
+1).- Por agua potable $ 1,880.94
+
+2).- Por alcantarillado sanitario $ 926.45
+
+b).- Tratándose de vivienda popular:
+
+1).- Por agua potable $ 3,148.07
+
+2).- Por alcantarillado sanitario $ 1,550.52
+
+3.- Para terrenos residenciales unifamiliares y cuyo uso sea exclusivamente para casa habitación.
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de superficie vendible, incluyendo
+
+áreas de donación $ 45.93
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por m2 de superficie vendible, incluyendo
+
+áreas de donación $ 25.21
+
+4.- Para los terrenos destinados a condominios:
+
+a).- A las redes del sistema de agua potable,
+
+por m2 de terreno $ 43.40
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por m2 de terreno $ 23.83
+
+c).- Adicionalmente a los incisos a) y b), por m2
+
+de construcción $ 11.92
+
+La Superficie que servirá como base para realizar este cálculo deberá acreditarse mediante documentación oficial que emita la autoridad municipal competente.
+
+5.- Para locales, establecimientos y desarrollos comerciales, industriales, turísticos, gubernamentales y otros no domésticos, así como los terrenos de propiedad gubernamental destinados a escuelas, parques, jardines y campos deportivos públicos, el cobro lo determinará el organismo previo análisis, en función de las necesidades de abasto de agua potable, capacidad de diseño e infraestructura, de acuerdo a lo siguiente:
+
+a).- A las redes del sistema de agua potable,
+
+por litro por segundo $ 665,762.83
+
+b).- A las redes del sistema de alcantarillado
+
+sanitario, por litro por segundo $ 360,145.52
+
+c).- En aquellos casos en que no sea posible determinar las necesidades de abasto e infraestructura, la determinación del cobro se hará conforme lo establezca o haya establecido el organismo previo análisis.
+
+En el caso de escuelas y universidades públicas y privadas, la necesidad de abasto de agua e infraestructura, se determinará considerando 60 litros por alumno/día de acuerdo a las tarifas de los incisos a) y b) de este numeral.
+
+Tratándose de los apartados de este inciso D), los dueños de los fraccionamientos y desarrollos, serán los obligados al pago de los derechos correspondientes para la prestación de los servicios de agua potable y alcantarillado sanitario.
+
+Los usuarios tendrán derecho a un descuento del 12% sobre el importe total de las tarifas, en los siguientes casos:
+
+a).- Cuando se pague de contado, los derechos de conexión a los sistemas de agua potable y alcantarillado sanitario.
+
+b).- Cuando se pague de contado el costo de la introducción o reposición de tubería principal, para servicio de agua potable o alcantarillado sanitario.
+
+En todo caso se entenderá que el pago es al contado, cuando los derechos que se causen se enteren en la oficina de Recaudación de Rentas adscrita a dicho Organismo, dentro de los 15 días siguientes a la fecha en que se notifique el costo del servicio.
+
+En los casos en que el usuario cambie el uso de suelo de doméstico a no doméstico, el organismo al tener conocimiento, cobrará la diferencia que resulte del cálculo del cambio.
+
+Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la Ley de Ingresos vigente en la fecha que se determine la diferencia.
+
+E).- TOMAS Y DESCARGAS NO REGISTRADAS.
+
+1.- En caso de que sea detectada una toma no registrada instalada en este Municipio, el cobro será de acuerdo a la siguiente manera:
+
+a).- En la detección de tomas domésticas no registradas, se tomará como base para el cobro 250 litros por día y por habitante, considerando hasta 4.1 habitantes por familia, por un máximo de hasta por 5 años, al 100% de la tarifa para uso doméstico aprobada por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+
+En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 11, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
+
+b).- En la detección de tomas no registradas comerciales, industriales, gubernamentales y desarrollos turísticos, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
+
+La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
+
+Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+
+2.- En caso de que sea detectada una descarga no registrada instalada en este Municipio, y que no cuenten con el servicio de agua potable, el cobro será de acuerdo a la siguiente manera:
+
+a).- En la detección de descargas no registradas domésticas, se tomará como base para el cobro 100 litros por día y por habitante, considerando hasta 4.1 habitantes por familia, por un máximo de hasta por 5 años, al 40% de la tarifa de servicio medido aprobada por consumo de agua para uso doméstico por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
+
+b).- En la detección de descargas no registradas comerciales, gubernamentales, industriales y desarrollos turísticos, así como otras no domésticas, los cobros serán estimados por el organismo de acuerdo al consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, hasta por un período de 5 años, al 40% de la tarifa de servicio medido vigente en la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha descarga.
+
+En caso de que sea detectada una descarga no registrada instalada en el Municipio de Tecate, en usuarios registrados para el suministro del servicio de agua potable, el cobro será por los conceptos de derechos de conexión para alcantarillado sanitario, derrama de obra e instalación de descarga.
+
+La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de descarga de agua.
+
+Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+
+F).- OTROS SERVICIOS.
+
+1.- Por la expedición de constancias de factibilidad de servicios de agua potable y alcantarillado sanitario, con vigencia de seis meses.
+
+a).- Para terrenos de uso Residencial $ 256.72
+
+b).- Para terrenos de uso Comercial e Industrial. $ 496.26
+
+2.- Derechos de revisión de proyecto para la construcción de redes de agua potable y alcantarillado, en predios hasta de 5,000 m2 de superficie, por plano $ 1,330.84
+
+Más, por cada m2 de superficie adicional, por plano $ 0.03
+
+3.- Por hidrante contra incendios instalado del sistema de agua potable, el equivalente a 5 m3 mensuales a la tarifa para uso comercial, industrial, gubernamental y otros no domésticos.
+
+4.- Por expedición y certificación de documentos, con vigencia de seis meses $ 133.62
+
+5.- Por expedición de certificados de libertad de gravamen $ 315.92
+
+6.- Instalaciones de medidor y protección de los mismos, instalación de toma de agua domiciliaria y descarga de drenaje de aguas negras, así como el costo de otros servicios no contemplados en este capítulo, se pagará el importe de acuerdo con el presupuesto que previamente formule el organismo que preste el servicio.
+
+El costo de la introducción de las redes de agua potable y alcantarillado sanitario, se pagarán de acuerdo a los presupuestos que previamente formule el organismo que presta el servicio. Para aquellos usuarios que después de 12 meses de haber sido ejecutada y notificada la obra y el presupuesto, no hayan contratado, el costo que deberá cubrir será aquel que resulte de haber aplicado el porcentaje de incremento que haya tenido el salario mínimo general vigente, desde la fecha de notificación del presupuesto a los beneficiarios de dicha obra hasta la fecha de contratación.
+
+7.- Los propietarios o poseedores de predios que por cualquier motivo utilicen el alcantarillado de aguas negras, sin ser contribuyentes de los derechos de consumo de agua o bien aquellos no domésticos que tengan el servicio suspendido, pagarán:
+
+En el primer caso, el 40% del consumo de agua estimado por el organismo operador previo análisis a las cuotas que señala el inciso A), puntos 1 y 2.
+
+En el segundo caso, el 40% de su consumo de agua promedio de los últimos 6 meses, a las cuotas que señala el inciso A), puntos 1 y 2.
+
+8.- Por la remoción de reductor en servicio doméstico $ 106.30
+
+9.- Por la reconexión del servicio de uso comercial, industrial, gubernamental y otros no domésticos $ 106.30
+
+10.- Por el sondeo de descarga domiciliaria $ 318.89
 
 ### CAPÍTULO II
 
@@ -785,7 +2929,7 @@ A).- Matrícula de un comerciante persona física…… $621.33
 
 B).- Inscripción de documentos públicos o privados, resoluciones judiciales o administrativas, por virtud de los cuales se establezca, declare, adquiera, transmita, modifique o extinga la propiedad industrial o la propiedad de buques, aeronaves y en general de bienes mercantiles, sobre el valor mayor que resulte entre el de factura o avalúo certificado, practicado por Institución Bancaria o Perito Valuador autorizado…… 5.0 al millar
 
-En ningún caso el derecho correspondiente excederá de......... $28,l07.78
+En ningún caso el derecho correspondiente excederá de......... $28,107.78
 
 C).- De los instrumentos públicos en los que se consigne la constitución, escisión, aumento de capital o fusión de sociedades mercantiles, sobre el aumento o el incremento que experimente, incluyendo las Asociaciones en
 
@@ -2042,3 +4186,17 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 67 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 11 DE LA LEY DE INGRESOS PARA EL ESTADO DE BAJA CALIFORNIA, PARA EL EJERCICIO FISCAL 2017”.]
+
+PRIMERO.- El presente Decreto mediante el que se reforma el artículo 11 de la Ley de Ingresos para el Estado de Baja California para el ejercicio fiscal del año 2017, entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Comisiones Estatales de Servicios Públicos de Mexicali, Tijuana, Tecate y Ensenada, deberán facturar el periodo durante el cual se encontró vigente la Ley del Agua que se abroga, con base en las tarifas que se contienen en el artículo 11 de la Ley de Ingresos para el Estado de Baja California para el Ejercicio Fiscal del año 2017 que se modifica mediante el presente decreto.
+
+A los usuarios del servicio público del agua que en el ejercicio fiscal 2017, hayan realizado el pago de derechos conforme a la tarifas previstas en la Ley del Agua del Estado de Baja California, la Comisión Estatal de Servicios Públicos correspondiente, les deberá compensar o en su caso devolver el importe que se genere a su favor, por la diferencia de las tarifas de la ley que se abroga en relación con las establecidas en el artículo 11 de la Ley de Ingresos para el Estado de Baja California para el Ejercicio Fiscal del año 2017, que se modifica mediante el presente decreto.
+
+TERCERO.- El Ejecutivo del Estado, por conducto de sus dependencias y entidades, establecerá las medidas necesarias para efecto de dar cumplimiento a lo previsto en la presente.
