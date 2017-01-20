@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-593-de-aprovechamiento-y-gestion-integral-de-los-613
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-23"
-last_updated: "2010-08-20"
+last_updated: "2017-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61331&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 593 DE APROVECHAMIENTO Y GESTION INTEGRAL DE LOS RESIDUOS DEL ESTADO DE GUERRERO
 
-LEY NUMERO 593 DE APROVECHAMIENTO Y GESTION INTEGRAL DE LOS RESIDUOS DEL ESTADO DE GUERRERO
+LEY NÚMERO 593 DE APROVECHAMIENTO Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 23 de mayo de 2008.
 
@@ -33,7 +33,9 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA QUINCUAGÉSIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-CON S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 47 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -75,7 +77,7 @@ XII. Brindar certeza jurídica a la participación privada en la gestión integr
 
 ###### ARTÍCULO 2.
 
-En la aplicación de esta Ley, El (sic) Estado y los Municipios, a través de sus autoridades en el ámbito de sus respectivas competencias, deben observar los principios contenidos en la Ley General y los que a continuación se señalan:
+En la aplicación de esta Ley, El Estado y los Municipios, a través de sus autoridades en el ámbito de sus respectivas competencias, deben observar los principios contenidos en la Ley General y los que a continuación se señalan:
 
 I.- El desarrollo sustentable se fortalece con la responsabilidad de cada individuo respecto de la protección del medio ambiente y la conservación de los recursos naturales, al realizar acciones presentes que determinarán la calidad de vida de las futuras generaciones;
 
@@ -101,7 +103,7 @@ l.- Acopio: La acción de reunir residuos en un lugar determinado que cumpla con
 
 II.- Almacenamiento: Retención temporal de los residuos en lugares propicios para prevenir daños al ambiente, a los recursos naturales y a la salud de la población, en tanto son reutilizados, reciclados, tratados para su aprovechamiento y/o disposición final;
 
-III.- Bolsa de Subproductos: El sistema de información pública en el que se registran los subproductos industriales y los materiales valorizables recuperados de los residuos sólidos urbanos·disponibles para su aprovechamiento o comercialización;
+III.- Bolsa de Subproductos: El sistema de información pública en el que se registran los subproductos industriales y los materiales valorizables recuperados de los residuos sólidos urbanos disponibles para su aprovechamiento o comercialización;
 
 IV.- Biodegradable: La cualidad que tiene la materia de tipo orgánico para ser metabolizada por medios biológicos;
 
@@ -305,7 +307,7 @@ III.- Coadyuvar a prevenir la contaminación de sitios con materiales y residuos
 
 IV.- Coadyuvar a vigilar la gestión de los residuos peligrosos que se generen en los hogares en cantidades iguales o menores a las que generan los microgeneradores o en oficinas, instituciones, dependencias y demás entidades can características domiciliarias, de acuerdo con los planes de manejo que se establezcan siguiendo lo dispuesto en este ordenamiento y de conformidad con lo que disponga la normatividad que se cree para tal efecto;
 
-V.- Participar en el control de lo residuos peligrosos generados o manejados por microgeneradores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con los gobiernos de las entidades federativas respectivas, de conformidad con lo establecido en esta Ley y en la Ley General;
+V.- Participar en el control de los residuos peligrosos generados o manejados por microgeneradores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con los gobiernos de las entidades federativas respectivas, de conformidad con lo establecido en esta Ley y en la Ley General;
 
 VI.- Determinar los castos de las distintas etapas de la operación de los servicios de limpia, y definir los mecanismos a través de los cuales se establecerá el sistema de cobro y tarifas correspondientes, en función del volumen y características de los residuos recolectados, así como del tipo de generadores y hacer del conocimiento público la información sobre todos estos aspectos. Asimismo establecer los mecanismos para aplicar los ingresos al fortalecimiento de la infraestructura de dicho servicio, así como hacerlos del conocimiento público, con la autorización previa del Congreso del Estado y en los términos de la Legislación fiscal aplicable;
 
@@ -433,7 +435,7 @@ El Estado y los Municipios, en el ámbito de sus respetivas competencias deberá
 
 Los programas para la prevención y gestión integral de los residuos, además de observar los criterios y lineamientos establecidos por la Ley General, deberán de tomar en cuenta los siguientes:
 
-I.- Contar con un diagnostico básica para la gestión integral de residuos;
+I.- Contar con un diagnostico básica (sic) para la gestión integral de residuos;
 
 II.- Promoverán la difusión y aplicación de los principios de valorización, responsabilidad compartida y manejo integral de residuos ambientalmente eficiente, económicamente viable y socialmente aceptable;
 
@@ -693,7 +695,7 @@ II.- Promover la participación de las escuelas, universidades, organismos no gu
 
 III.- Fomentar la participación de empresas públicas y privadas en el desarrollo de programas de educación ambiental que promuevan la minimización de residuos y su manejo adecuado;
 
-IV.- Desarrollar los programas de sensibilización ambiental dirigidos a lo (sic) distintos organismos privados y sociales y a la ciudadanía en general;
+IV. - Desarrollar los programas de sensibilización ambiental dirigidos a lo (sic) distintos organismos privados y sociales y a la ciudadanía en general;
 
 V.- Establecer proyectos de sensibilización y orientación al turismo para que éste contribuya a prevenir la contaminación por residuos;
 
@@ -819,9 +821,19 @@ Los grandes generadores de residuos orgánicos, deberán establecer planes de ma
 
 Los establecimientos industriales, comerciales y de servicios que sean pequeños generadores de residuos sólidos urbanos están obligados a:
 
-I.- Separar sus residuos en orgánicos e inorgánicos para su recolección selectiva de conformidad con lo que establezcan los servicios municipales correspondientes; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
 
-II.- Acopiar o almacenar temporalmente sus residuos de manera que no ocasionen molestias, ni daños a la salud y al ambiente.
+I.- Separar sus residuos en orgánicos e inorgánicos para su recolección selectiva de conformidad con lo que establezcan los servicios municipales correspondientes;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
+
+II.- Acopiar o almacenar temporalmente sus residuos de manera que no ocasionen molestias, ni daños a la salud y al ambiente; y
+
+ADICIONADA, P.O. 20 DE ENERO DE 2017)
+
+III.- Sustituir las bolsas, envases y embalajes de plástico y de otros materiales no reciclables utilizados en la prestación de sus servicios, por aquellos que sean reutilizables, reciclables o biodegradables.
+
+El otorgamiento de popotes y bolsas de material plástico desechable, deberá ser a solicitud expresa del cliente o consumidor y, los establecimientos, deberán implementar una campaña permanente tendiente a la reducción del uso de los mismos.
 
 ###### ARTÍCULO 50.
 
@@ -893,11 +905,11 @@ II.- El inventario de residuos generados en el Estado, de los diversos sectores 
 
 III.- La infraestructura disponible y necesaria para el manejo integral de los residuos;
 
-IV. - Los incentivos para alentar la inversión del sector privado;
+IV.- Los incentivos para alentar la inversión del sector privado;
 
 V.- Los objetivos a corto, mediano y largo plazo para la gestión y manejo integral de residuos;
 
-VI.- El inventario de sitios de disposición final no controlados en la entidad;
+VI. - El inventario de sitios de disposición final no controlados en la entidad;
 
 VII.- El marco legal regulatorio y de instrumentos económicos aplicables;
 
@@ -1003,7 +1015,7 @@ Mexicanas que resulten aplicables;
 
 V.- En el caso de la disposición final, contar con un programa de cierre de las instalaciones y de supervisión posterior al cierre por una duración mínima de veinte años, sustentado en garantías financieras; y
 
-VI.- Los demás que se especifiquen el (sic) Reglamento de esta Ley.
+VI.- Los demás que se especifiquen (sic) el Reglamento de esta Ley.
 
 ###### ARTÍCULO 70.
 
@@ -1541,7 +1553,9 @@ Las autoridades correspondientes, podrán solicitar el auxilio de la fuerza púb
 
 La SEMAREN y los municipios podrán promover ante autoridades competentes, si ocurriere alguna contingencia ambiental, la adopción de las medidas de seguridad que correspondan y se encuentren previstas en otros ordenamientos aplicables.
 
-ARTÍCULO145.- Las autoridades competentes que dicten las medidas de seguridad a las que hace referencia el artículo 144, podrán ordenar acciones al infractor para que subsane las irregularidades que motivaron la imposición de esas medidas, así como los plazos para su realización. Una vez cumplidas estas acciones y asegurada la protección del medio ambiente y la salud, se ordenará el retiro de las medidas de seguridad impuestas.
+###### ARTÍCULO 145.
+
+Las autoridades competentes que dicten las medidas de seguridad a las que hace referencia el artículo 144, podrán ordenar acciones al infractor para que subsane las irregularidades que motivaron la imposición de esas medidas, así como los plazos para su realización. Una vez cumplidas estas acciones y asegurada la protección del medio ambiente y la salud, se ordenará el retiro de las medidas de seguridad impuestas.
 
 ### CAPÍTULO IV. DE LAS INFRACCIONES
 
@@ -1639,7 +1653,7 @@ IV.- La suspensión o revocación de las autorizaciones correspondientes.
 
 > <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2010)</small>
 
-V.- En el caso de quien queme a cielo abierto o incinere residuos sólidos urbanos y de manejo especial, se sancionará con una multa de 20 mil a 60 mil días de salario mínimo vigente en el Municipio.La suspensión o revocación de las autorizaciones correspondientes.
+V.- En el caso de quien queme a cielo abierto o incinere residuos sólidos urbanos y de manejo especial, se sancionará con una multa de 20 mil a 60 mil días de salario mínimo vigente en el Municipio. La suspensión o revocación de las autorizaciones correspondientes.
 
 ###### ARTÍCULO 149.
 
@@ -1829,7 +1843,7 @@ LIC. SABÁS ARTURO DE LA ROSA CAMACHO.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 20 DE AGOSTO DE 2010.
 
@@ -1844,3 +1858,13 @@ Comuníquese al Titular del Poder Ejecutivo para su conocimiento y efectos legal
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 429 POR EL QUE SE REFORMAN LAS FRACCIONES I Y II Y SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 49 DE LA LEY NÚMERO 593 DE APROVECHAMIENTO Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE GUERRERO Y, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 217 DE LA LEY NÚMERO 878 DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para que a través de la SEMAREN (Secretaría de Medio Ambiente y Recursos Naturales) y, los Presidentes Municipales del Estado de Guerrero, se realicen acciones tendientes a la difusión de esta campaña, como lo establecen los Artículos 7 fracción VII de la Ley Numero 593 de Aprovechamiento y Gestión Integral de los Residuos Sólidos en el Estado de Guerrero y 229 Fracción V de la Ley Número 878 de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en el portal Web del H. Congreso del Estado y en 3 diarios de circulación estatal, para el conocimiento general.
