@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-consejo-de-ciencia-y-tecnologia-del-888
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-30"
-last_updated: "2012-07-30"
+last_updated: "2017-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2017.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de julio de 2012.
 
@@ -77,13 +77,17 @@ II. El Director General:
 
 III. Las siguientes Unidades Administrativas:
 
-a) Secretario Técnico;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2017)</small>
+
+a) Subdirección de Vinculación;
 
 b) Dirección de Desarrollo de Programas y Proyectos en Investigación;
 
 c) Dirección de Apoyo a Proyectos y Programas;
 
-d) Dirección de Investigación para la Formación de Recursos Humanos;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2017)</small>
+
+d) Dirección de Investigación para la Formación del Factor Humano;
 
 e) Dirección de Investigación Científica y Tecnológica; y
 
@@ -153,11 +157,15 @@ XVII. Las demás que en materia de su competencia se establezcan en los ordenami
 
 Las atribuciones contenidas en este artículo se podrán delegar en los servidores públicos del Consejo, en los términos que se establezca en este Reglamento o el Acuerdo Delegatorio correspondiente, con excepción de las atribuciones previstas en las fracciones I, II, III, V, VIII, IX, XI, XII y XIII.
 
-### CAPÍTULO III. DEL SECRETARIO TÉCNICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2017)</small>
+
+### CAPÍTULO III. DEL SUBDIRECTOR DE VINCULACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2017)</small>
 
 ###### Artículo 10.
 
-El Secretario Técnico dependerá directamente del Director General, y tendrá las atribuciones siguientes:
+El Subdirector de Vinculación dependerá directamente del Director General y tendrá las atribuciones siguientes:
 
 I. Dar seguimiento a los acuerdos tomados en las sesiones de la Junta Directiva;
 
@@ -193,7 +201,7 @@ VII. Supervisar que el personal adscrito a la Dirección a su cargo, cumpla debi
 
 VIII. Proponer al Director General el ingreso, licencias, promoción y rescisión, en términos de las disposiciones legales aplicables, del personal de la Unidad Administrativa a su cargo;
 
-IX. Coadyuvar con la Dirección de Planeación y Administración, en la elaboración de los manuales de organización, de procedimientos, de servicios y demás que sean necesarios en el Consejo;
+IX. (DEROGADA, P.O. 20 DE ENERO DE 2017)
 
 X. Proponer al Director General las acciones que fomenten la participación ciudadana, en aquellos asuntos de interés público competencia del Consejo;
 
@@ -221,9 +229,21 @@ V. Coadyuvar previo acuerdo del Director General y de conformidad con la normati
 
 VI. Coordinar el proceso de entrega de los premios estatales de Ciencia y Tecnología del Estado, que otorga el Consejo anualmente según las bases que al efecto se expidan, de conformidad con la disponibilidad presupuestal;
 
-VII. Dar seguimiento a los avances de los programas y proyectos de investigación, en coordinación con las instituciones correspondientes, para el cumplimiento de los objetivos del Consejo, informando los resultados correspondientes al Director General; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
 
-VIII. Establecer, operar y aplicar con apoyo de la Dirección de Planeación y Administración, los fondos y demás mecanismos financieros que se establezcan para la investigación y actividades científicas, tecnológicas y humanísticas, los cuales se definirán y sujetarán a los criterios establecidos en la Ley.
+VII. Dar seguimiento a los avances de los programas y proyectos de investigación, en coordinación con las instituciones correspondientes, para el cumplimiento de los objetivos del Consejo, informando los resultados correspondientes al Director General;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
+
+VIII. Establecer, operar y aplicar con apoyo de la Dirección de Planeación y Administración los fondos y demás mecanismos financieros que se establezcan para la investigación y actividades científicas, tecnológicas y humanísticas, los cuales se definirán y sujetarán a los criterios establecidos en la Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2017)</small>
+
+IX. Coadyuvar con la Dirección de Planeación y Administración en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo, y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2017)</small>
+
+X. Elaborar en coordinación con la Dirección de Planeación y Administración, los manuales de organización, de procedimientos, de servicios, y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo.
 
 ### CAPÍTULO VI. DE LA DIRECCIÓN DE APOYO A PROYECTOS Y PROGRAMAS
 
@@ -243,15 +263,31 @@ V. Apoyar a los sectores público, productivo, científico y académico en el im
 
 VI. Revisar, evaluar y actualizar periódicamente, las políticas y estrategias de apoyo del Consejo, con la finalidad de analizar sus resultados en la solución de los problemas del Estado y en la generación y transferencia del conocimiento;
 
-VII. Participar con los sectores público, privado o social con injerencia en la investigación para la identificación de las necesidades y oportunidades tecnológicas, a fin de adecuar los instrumentos de apoyo del Consejo; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
 
-VIII. Coordinar la elaboración y ejecución del programa estatal de ciencia y tecnología, con base en las propuestas que le presenten los sectores públicos, privado y social, en materia científica, tecnológica y humanística, que apoyen o realicen investigación en la materia.
+VII. Participar con los sectores público, privado o social con injerencia en la investigación para la identificación de las necesidades y oportunidades tecnológicas, a fin de adecuar los instrumentos de apoyo del Consejo;
 
-### CAPÍTULO VII. DE LA DIRECCIÓN DE INVESTIGACIÓN PARA LA FORMACIÓN DE RECURSOS HUMANOS
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
+
+VIII. Coordinar la elaboración y ejecución del programa estatal de ciencia y tecnología, con base en las propuestas que le presenten los sectores público, privado y social, en materia científica, tecnológica y humanística que apoyen o realicen investigación en la materia;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2017)</small>
+
+IX. Coadyuvar con la Dirección de Planeación y Administración en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo, y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2017)</small>
+
+X. Elaborar en coordinación con la Dirección de Planeación y Administración, los manuales de organización, de procedimientos, de servicios, y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2017)</small>
+
+### CAPÍTULO VII. DE LA DIRECCIÓN DE INVESTIGACIÓN PARA LA FORMACIÓN DEL FACTOR HUMANO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2017)</small>
 
 ###### Artículo 14.
 
-El Titular de la Dirección de Investigación para la Formación de Recursos Humanos, dependerá directamente del Director General, y tendrá además de las atribuciones señaladas en el artículo 11 de este Reglamento, las siguientes:
+El titular de la Dirección de Investigación para la Formación del Factor Humano, dependerá directamente del Director General, y tendrá además de las atribuciones señaladas en el artículo 11 de este Reglamento, las siguientes:
 
 I. Coordinar las actividades relacionadas con los procesos de otorgamiento de becas y estímulos, tanto directas como en las que el Consejo colabore por medio de convenios, de conformidad con las disposiciones legales aplicables;
 
@@ -277,9 +313,21 @@ XI. Integrar, administrar y actualizar las bases de organización y funcionamien
 
 XII. Recopilar, procesar, sistematizar y difundir la información concerniente a actividades científicas y tecnológicas que se generen a nivel nacional e internacional, en beneficio del Estado;
 
-XIII. Coordinar y promover programas de apoyos y becas para la realización de estudios de postgrado, encaminados a la formación de recursos humanos de alto nivel académico que satisfagan las necesidades de conocimiento, investigación, innovación y transferencia de tecnología en las áreas prioritarias del Estado, de conformidad con las disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
 
-XIV. Fomentar programas de intercambio a nivel estatal, nacional e internacional de académicos, investigadores y técnicos en las áreas de ciencia y tecnología.
+XIII. Coordinar y promover programas de apoyos y becas para la realización de estudios de posgrado, encaminados a la formación de recursos humanos de alto nivel académico que satisfagan las necesidades de conocimiento, investigación, innovación y transferencia de tecnología en las áreas prioritarias del Estado, de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
+
+XIV. Fomentar programas de intercambio a nivel estatal, nacional e internacional de académicos, investigadores y técnicos en las áreas de ciencia y tecnología;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2017)</small>
+
+XV. Coadyuvar con la Dirección de Planeación y Administración en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo, y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2017)</small>
+
+XVI. Elaborar en coordinación con la Dirección de Planeación y Administración, los manuales de organización, de procedimientos, de servicios, y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo.
 
 ### CAPÍTULO VIII. DE LA DIRECCIÓN DE INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
 
@@ -297,9 +345,21 @@ IV. Colaborar con el Director General, en la asesoría materia del Consejo, a lo
 
 V. Realizar las acciones necesarias para impulsar la ciencia y la tecnología, en coordinación con los sectores público, social y privado;
 
-VI. Coadyuvar con las instituciones educativas de nivel medio superior y superior del Estado, para el impulso de la ciencia y tecnología; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
 
-VII. Organizar previo acuerdo con su superior jerárquico, los eventos de divulgación científica y tecnológica en el Estado.
+VI. Coadyuvar con las instituciones educativas de nivel medio superior y superior del Estado para el impulso de la ciencia y tecnología;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
+
+VII. Organizar previo acuerdo con su superior jerárquico, los eventos de divulgación científica y tecnológica en el Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2017)</small>
+
+VIII. Coadyuvar con la Dirección de Planeación y Administración en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo, y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2017)</small>
+
+IX. Elaborar en coordinación con la Dirección de Planeación y Administración, los manuales de organización, de procedimientos, de servicios, y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo.
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN DE PLANEACIÓN Y ADMINISTRACIÓN
 
@@ -311,7 +371,9 @@ I. Administrar los recursos humanos, materiales y financieros del Consejo, de co
 
 II. Coordinar la planeación, desarrollo administrativo e informático del Consejo;
 
-III. Elaborar y someter a consideración del Director General el anteproyecto del Presupuesto de Ingresos y Egresos que ejercerá el Consejo, para su posterior aprobación por la Junta Directiva;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
+
+III. Elaborar con la participación de las demás unidades administrativas y someter a consideración del Director General, el anteproyecto del presupuesto de Ingresos y Egresos que ejercerá el Consejo, para su posterior aprobación por la Junta Directiva;
 
 IV. Asesorar al Director General en la aplicación y control del presupuesto de egresos que ejercerá el Consejo y proponer las modificaciones al mismo;
 
@@ -359,9 +421,21 @@ El Consejo Técnico es el órgano auxiliar en la planeación y evaluación cient
 
 Las ausencias y licencias de los servidores públicos que no sean mayores de quince días hábiles, serán suplidas de la siguiente manera:
 
-I. El Director General por el Secretario Técnico o cualquiera de los Directores que deba suplirlo conforme al ámbito de su competencia, sin perjuicio de las facultades que correspondan a la Junta Directiva, para determinar la suplencia a favor de alguno de los servidores públicos del Consejo; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
 
-II. Los Directores de Área y el Secretario Técnico serán suplidos por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias, sin perjuicio de las facultades que correspondan a la Junta Directiva, para determinar la suplencia a favor de alguno de los servidores públicos del Consejo.
+I. El Director General por el titular de la Subdirección de Vinculación o cualquiera de los Directores que deba suplirlo conforme al ámbito de su competencia, sin perjuicio de las facultades que correspondan a la Junta Directiva, para determinar la suplencia a favor de alguno de los servidores públicos del Consejo, y
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2017)</small>
+
+II. Los directores de área y el Subdirector de Vinculación serán suplidos por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan en los asuntos de sus respectivas competencias, o en su caso, por quienes determine el Director, sin perjuicio de las facultades que correspondan a la Junta Directiva, para determinar la suplencia a favor de alguno de los servidores públicos del Consejo.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2017)</small>
+
+###### Artículo 19.
+
+Para el caso de las ausencias del Director General mayores a quince días hábiles, se deberá observar lo dispuesto por el Consejo.
+
+En los casos de ausencias temporales por más de quince días hábiles de los directores de área y del Subdirector de Vinculación, el Consejo podrá dictar las medidas administrativas necesarias para la atención de las atribuciones que correspondan a los servidores públicos de cuya ausencia se trate.
 
 ## TRANSITORIOS
 
@@ -370,3 +444,13 @@ PRIMERO.- El presente Reglamento deberá publicarse en el Periódico Oficial del
 SEGUNDO.- Se deja sin efectos el Reglamento Interior del Consejo Estatal de Ciencia y Tecnología, publicado en el Periódico Oficial del Estado el uno de septiembre de dos mil cuatro, así como las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los veintitrés días del mes de enero de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- El Secretario de Educación Pública.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se dejan sin efecto las disposiciones de la misma naturaleza que se opongan al presente Decreto.
