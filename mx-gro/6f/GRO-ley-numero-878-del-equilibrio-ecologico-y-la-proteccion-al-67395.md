@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-878-del-equilibrio-ecologico-y-la-proteccion-al-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-03"
-last_updated: "2015-08-25"
+last_updated: "2017-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67395&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 878 DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 3 de marzo de 2009.
 
@@ -2459,6 +2459,10 @@ La contravención a lo dispuesto en este artículo, será objeto de sanción, pa
 
 Los establecimientos comerciales y de servicios deberán sustituir las bolsas, envases y embalajes de plástico y de otros materiales no reciclables utilizados en la prestación de sus servicios, por aquellos que sean reutilizables, reciclables o biodegradables.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2017)</small>
+
+El otorgamiento de popotes y bolsas de material plástico desechable, deberá ser a solicitud expresa del cliente o consumidor y, los establecimientos, deberán implementar una campaña permanente tendiente a la reducción del uso de los mismos.
+
 ###### ARTÍCULO 218.
 
 Los Municipios dentro de su circunscripción territorial, deberán sanear y clausurar los tiraderos de residuos a cielo abierto, además de regularizar sus sitios de disposición final conforme a la Norma Oficial Mexicana en la materia.
@@ -3118,3 +3122,13 @@ SEGUNDO. El titular del Poder Ejecutivo del Estado expedirá, el Reglamento de l
 TERCERO. Remítase el presente Decreto al Poder Ejecutivo del Estado, para sus efectos legales conducentes.
 
 CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado y en el Portal Web de este Poder Legislativo, para su conocimiento general.
+
+P.O. 20 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 429 POR EL QUE SE REFORMAN LAS FRACCIONES I Y II Y SE ADICIONA LA FRACCIÓN III AL ARTICULO 49 DE LA LEY NÚMERO 593 DE APROVECHAMIENTO Y GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE GUERRERO Y, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTICULO 217 DE LA LEY NÚMERO 878 DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para que a través de la SEMAREN (Secretaría de Medio Ambiente y Recursos Naturales) y, los Presidentes Municipales del Estado de Guerrero, se realicen acciones tendientes a la difusión de esta campaña, como lo establecen los Artículos 7 fracción VII de la Ley Numero 593 de Aprovechamiento y Gestión Integral de los Residuos Sólidos en el Estado de Guerrero y 229 Fracción V de la Ley Número 878 de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en el portal Web del H. Congreso del Estado y en 3 diarios de circulación estatal, para el conocimiento general.
