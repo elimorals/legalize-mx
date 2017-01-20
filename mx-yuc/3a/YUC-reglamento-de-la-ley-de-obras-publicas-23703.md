@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-obras-publicas-23703"
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-03-27"
-last_updated: "1989-03-27"
+last_updated: "2017-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY DE OBRAS PUBLICAS
 
-REGLAMENTO DE LA LEY DE OBRAS PUBLICAS
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL REGLAMENTO DE LA LEY DE OBRA PÚBLICA Y SERVICIOS CONEXOS DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 20 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 1 DE ABRIL DE 2017.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY DE OBRAS PÚBLICAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 27 de marzo de 1989.
 
@@ -568,3 +570,25 @@ LIC. MARCO ANTONIO MARTINEZ ZAPATA.
 EL SECRETARIO DE DESARROLLO OBRAS PÚBLICAS, ECOLOGIA Y VIVIENDA.
 
 ING. ROBERTO PENICHE AGUILAR.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 20 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 451/2017 POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DE OBRA PÚBLICA Y SERVICIOS CONEXOS DEL ESTADO DE YUCATÁN.”]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de abril de 2017, previa publicación en el diario oficial del estado.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto queda abrogado el Reglamento de la Ley de Obras Públicas, publicado en el diario oficial del estado el 27 de marzo de 1989.
+
+Tercero. Elaboración de políticas, bases y lineamientos
+
+La Secretaría de Obras Públicas y las entidades que tengan dentro de su competencia material la ejecución de obras deberán elaborar las políticas, bases y lineamientos a que se refiere el artículo 1 de la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán dentro de los ciento veinte días naturales contados a partir de la entrada en vigor de este decreto.
+
+Cuarto. Vigencia de actos y contratos
+
+Los actos y contratos que las dependencias y entidades hayan celebrado con anterioridad a la entrada en vigor de este decreto se regirán de acuerdo con las disposiciones legales y administrativas vigentes al momento de su inicio o celebración.
