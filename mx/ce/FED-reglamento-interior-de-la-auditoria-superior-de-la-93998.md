@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-auditoria-superior-de-la-93998"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-29"
-last_updated: "2016-04-27"
+last_updated: "2017-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93998&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-04-23"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN, PUBLICADA EN EL D.O.F. DE 20 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de abril de 2013.
 
@@ -2418,3 +2420,31 @@ D.O.F. 27 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN”.]
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior de la Federación publicado en el Diario Oficial de la Federación el 29 de abril de 2013, así como el Acuerdo por el que se reforman y adicionan diversas disposiciones del Reglamento Interior de la Auditoría Superior de la Federación publicado en el Diario Oficial de la Federación el 27 de abril de 2016, conforme a lo dispuesto en los artículos transitorios subsecuentes.
+
+TERCERO.- Las unidades administrativas de la Auditoría Superior de la Federación podrán fundamentar sus actuaciones tanto en el presente Reglamento Interior como en el Reglamento Interior publicado en el Diario Oficial de la Federación el 29 de abril de 2013, tratándose de cualquier asunto que esté relacionado con las Cuentas Públicas 2015 y anteriores, así como cualquier asunto que guarde relación con lo establecido en el artículo Cuarto Transitorio del "Decreto por el que se expide la Ley de Fiscalización y Rendición de Cuentas de la Federación; y se reforman el artículo 49 de la Ley de Coordinación Fiscal, y el artículo 70 de la Ley
+
+General de Contabilidad Gubernamental.", publicado en el Diario Oficial de la Federación el 18 de julio de 2016 y en el artículo Tercero Transitorio del "Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa.", publicado en el Diario Oficial de la Federación el 18 de julio de 2016.
+
+CUARTO.- Las referencias, remisiones o contenidos del presente Reglamento Interior que estén vinculados con la aplicación de la Ley General del Sistema Nacional Anticorrupción, de la Ley General de Responsabilidades Administrativas y de las nuevas facultades del Tribunal Federal de Justicia Administrativa, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes;
+
+QUINTO.- Las Unidades Administrativas Auditoras darán seguimiento hasta su conclusión a las auditorías, acciones y demás asuntos de su competencia conforme a lo establecido en el artículo Cuarto Transitorio del "Decreto por el que se expide la Ley de Fiscalización y Rendición de Cuentas de la Federación; y se reforman el artículo 49 de la Ley de Coordinación Fiscal, y el artículo 70 de la Ley General de Contabilidad Gubernamental.", publicado en el Diario Oficial de la Federación el 18 de julio de 2016.
+
+SEXTO.- Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, iniciados por la Dirección General de Investigación y Evaluación, los continuará la Dirección General de Evaluación del Gasto Federalizado, adscrita a la Auditoría Especial del Gasto Federalizado, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
+
+SÉPTIMO.- Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, iniciados por la Unidad de Sistemas e Información, los continuará la Unidad de Sistemas, Información y Transparencia, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
+
+OCTAVO.- Las Direcciones Generales de Responsabilidades y de Responsabilidades a los Recursos Federales en Estados y Municipios ejercerán sus atribuciones hasta la conclusión de los asuntos que hayan iniciado o que inicien por irregularidades conforme a lo establecido en el artículo Cuarto Transitorio del "Decreto por el que se expide la Ley de Fiscalización y Rendición de Cuentas de la Federación; y se reforman el artículo 49 de la Ley de Coordinación Fiscal, y el artículo 70 de la Ley General de Contabilidad Gubernamental." y en el artículo Tercero Transitorio del "Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa.", publicados en el Diario Oficial de la Federación el 18 de julio de 2016.
+
+NOVENO.- Las Direcciones Generales de Investigación y de Substanciación iniciarán el ejercicio de sus atribuciones cuando entre en vigor la Ley General de Responsabilidades Administrativas, conforme a lo establecido en el artículo Tercero Transitorio del "Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa", publicado en el Diario Oficial de la Federación el 18 de julio de 2016.
+
+DÉCIMO.- El personal de las Direcciones Generales de Investigación y de Substanciación, en tanto no inicie el ejercicio de sus atribuciones, apoyarán a las Direcciones Generales de Responsabilidades y de Responsabilidades a los Recursos Federales en Estados y Municipios en los Procedimientos para el Fincamiento de las Responsabilidades Resarcitorias.
+
+DÉCIMO PRIMERO.- Las atribuciones que se confieren a la Dirección de Apoyo Jurídico adscrita a la Unidad General de Administración, surtirán sus efectos a los sesenta días naturales siguientes a la publicación del presente Reglamento Interior de la Auditoría Superior de la Federación en el Diario Oficial de la Federación, hasta en tanto, la Dirección General Jurídica adscrita a la Unidad de Asuntos Jurídicos continuará ejerciendo las atribuciones en materia de contratos y laboral de conformidad con el Reglamento Interior que se abroga y, dentro de dicho periodo se verificará la transferencia de los asuntos y recursos correspondientes.
