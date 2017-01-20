@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2016-09-30"
+last_updated: "2017-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ENERO DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -9507,7 +9507,9 @@ V. Establecer los lineamientos que fueren necesarios para los informes, datos y 
 
 VI. Fijar las bases para la selección del personal de la Contraloría, y ordenar al Director de Administración la tramitación de los nombramientos para su firma;
 
-VII. Establecer los lineamientos y políticas que orienten la colaboración que conforme a la Ley deba prestar esta Secretaría a la Contaduría Mayor de Hacienda, para el cumplimiento de sus respectivas responsabilidades;
+> <small>(REFORMADA, D.O. 20 DE ENERO DE 2017)</small>
+
+VII. Establecer los lineamientos y políticas que orienten la colaboración que deba prestar la contraloría a la Auditoría Superior del Estado, para el cumplimiento de sus respectivas responsabilidades;
 
 VIII. Elaborar y someter a la consideración del Titular del Poder Ejecutivo el Programa Anual de Control y Auditoría de las dependencias y entidades;
 
@@ -9531,7 +9533,9 @@ XIV. Aprobar la organización y funcionamiento de la Contraloría Interna de est
 
 XV. Proponer y, en su caso, designar, por acuerdo del Titular del Poder Ejecutivo, en las dependencias y entidades, a las personas que realizarán las auditorías externas, conforme a las disposiciones legales aplicables. Asimismo, someter a la consideración del Titular del Poder Ejecutivo las estructuras orgánicas de las unidades de contraloría interna en las dependencias y entidades, y demás unidades administrativas, proponiendo para tal efecto los tabuladores de sueldos de los integrantes de dichas unidades;
 
-XVI. Designar al auditor que deberá participar en la suscripción de las actas de entrega recepción de los titulares y demás servidores públicos obligados de las dependencias y entidades;
+> <small>(REFORMADA, D.O. 20 DE ENERO DE 2017)</small>
+
+XVI. Designar al personal que deberá participar en los procesos de transferencia de dependencias o entidades de la Administración Pública estatal y de desincorporación de las entidades paraestatales.
 
 > <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
@@ -9561,9 +9565,13 @@ XXIV. Ordenar, las auditorías a las dependencias y entidades de conformidad al 
 
 XXV. Solicitar a dependencias y entidades del ámbito federal, estatal y municipal y a las personas físicas o morales del sector social y privado, la información que se requieran (sic) para el cumplimiento de las facultades de la Contraloría; y
 
+> <small>(ADICIONADA, D.O. 20 DE ENERO DE 2017)</small>
+
+XXVI. Proponer al gobernador los lineamientos técnicos para regular el desarrollo de los procesos de transferencia de las dependencias o entidades de la Administración Pública estatal y de desincorporación de las entidades paraestatales, y
+
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXVI. Las demás que le otorgan las leyes de Responsabilidades de los Servidores Públicos; de Obra Pública y Servicios Conexos; de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, todas del Estado de Yucatán, este Reglamento y otras disposiciones legales aplicables.
+XXVII. Las demás que le otorgan las leyes de Responsabilidades de los Servidores Públicos; de Obra Pública y Servicios Conexos; de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, todas del Estado de Yucatán, este Reglamento y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -10791,7 +10799,11 @@ XIV. Mantener en todo momento, independencia en todas aquellas acciones de la En
 
 XV. Recopilar la información sobre las actividades con el fin de rendir el informe mensual de actividades, que contendrá los avances de hallazgos, actividades desarrolladas en el período, informes de cumplimiento de las entidades y demás que se requieren integrar por la Dirección para efectos del informe trimestral al superior, y
 
-XVI. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, D.O. 20 DE ENERO DE 2017)</small>
+
+XVI. Vigilar y dar seguimiento a los procesos de transferencia y desincorporación; fungir como representante de la contraloría ante las instancias que intervengan en estos procesos y requerir a estas la información necesaria para el cumplimiento de sus funciones; así como emitir recomendaciones para promover la conclusión de los procesos con estricto apego a las disposiciones aplicables, y
+
+XVII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 549.
 
@@ -12529,13 +12541,17 @@ VII. Perspectivas.
 
 La desincorporación de las entidades paraestatales de la Administración Pública Estatal, se llevará a cabo con base en lo señalado en el Código de la Administración Pública de Yucatán, mediante la disolución, liquidación, extinción, fusión, enajenación u otra forma similar.
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ENERO DE 2017)</small>
 
 ###### Artículo 640.
 
-Para el caso de la extinción de un organismo descentralizado, la Junta de Gobierno establecerá los lineamientos para el desarrollo de la extinción y designará un responsable quién deberá:
+Para la extinción de un organismo público descentralizado, la junta de gobierno designará un responsable, quien deberá realizar lo siguiente:
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 I. Levantar el inventario de los bienes, obligaciones y procesos en trámite inherentes al organismo;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 II. Someter al dictamen del auditor designado por la Secretaría de la Contraloría General del Estado, los estados financieros inicial y final de extinción y, cuando proceda, los anuales intermedios;
 
@@ -12543,15 +12559,19 @@ II. Someter al dictamen del auditor designado por la Secretaría de la Contralor
 
 III. Informar mensualmente a las secretarías de Administración y Finanzas, y de la Contraloría General, así como a la dependencia coordinadora del sector, sobre el avance o estado que guarda el proceso;
 
-IV. Verificar que se formalice la entrega-recepción de los bienes y recursos respectivos, y
+> <small>(REFORMADA, D.O. 20 DE ENERO DE 2017)</small>
+
+IV. Verificar que se formalice la transferencia de los bienes y recursos del organismo.
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 V. Aplicar las demás disposiciones legales propias del proceso de extinción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ENERO DE 2017)</small>
 
 ###### Artículo 641.
 
-Para el caso de la extinción de un Fideicomiso Público que conforme al Código reúna las características de entidad paraestatal, la Secretaría de Administración y Finanzas, o a indicación de ésta, el Comité Técnico de que se trate, emitirá los lineamientos conforme a los cuales se llevará a cabo el proceso de extinción.
+Para el caso de la extinción de un fideicomiso público que conforme al código reúna las características de entidad paraestatal, la Secretaría de Administración y Finanzas, o a indicación de esta, el comité técnico de que se trate, en coordinación con la contraloría, emitirá los lineamientos conforme a los cuales se llevará a cabo el proceso de extinción.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -12565,37 +12585,33 @@ La extinción de los fideicomisos se formalizará mediante la firma del convenio
 
 En el caso de que el Comité Técnico no hubiere sesionado durante el año anterior a la fecha en que se autorice la extinción del fideicomiso, la Dependencia Coordinadora de Sector, con base en las propuestas que formule la fiduciaria someterá a la aprobación de la Secretaría de Administración y Finanzas como fideicomitente único de la Administración Pública Estatal, las acciones que deba adoptar con respecto a la extinción del fideicomiso.
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 20 DE ENERO DE 2017)</small>
 
 ###### Artículo 642.
 
-Para el proceso de liquidación de una Empresa de Participación Estatal Mayoritaria, el Consejo de Administración establecerá los lineamientos para el desarrollo de la liquidación y designará un responsable quien deberá
+Para el proceso de liquidación de una empresa de participación estatal mayoritaria, el consejo de administración designará un responsable, quien deberá:
 
-> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+I. Informar mensualmente a las secretarías de Administración y Finanzas, y de la Contraloría General, así como a la dependencia coordinadora del sector, sobre el avance o estado que guarda el proceso;
 
-I. Informar a las secretarías de Administración y Finanzas, y de la Contraloría General, así como a la dependencia coordinadora del sector, sobre el avance o estado que guarda el proceso;
+II. Someter al dictamen del auditor designado por la contraloría, los estados financieros inicial y final de liquidación y, cuando proceda, los anuales intermedios, y
 
-II. Someter al dictamen del auditor designado por la Secretaría de la Contraloría General del Estado, los estados financieros inicial y final de liquidación y, cuando proceda, los anuales intermedios, y
+III. Verificar que se formalice la transferencia de los bienes y recursos del organismo.
 
-III. Verificar que se formalice la entrega-recepción de los bienes y recursos respectivos.
+El proceso de liquidación se sujetará a los lineamientos que emita el consejo de administración, en coordinación con la contraloría, con apego a las disposiciones que sobre el particular existan en los estatutos o en la legislación aplicable a la sociedad de que se trate.
 
-La persona designada como responsable para realizar las actividades señaladas en las fracciones anteriores deberá informar al Titular de la dependencia cabeza de sector el avance del proceso.
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 20 DE ENERO DE 2017)</small>
 
 ###### Artículo 643.
 
-En cuanto a la fusión de entidades paraestatales, la Junta de Gobierno o equivalente establecerá los lineamientos para el desarrollo de la fusión y designará un responsable, quien deberá:
+Para el caso de la fusión de entidades paraestatales, la junta de gobierno o equivalente designará un responsable, quien deberá:
 
-I. Levantar el inventario de los bienes de la Entidad fusionante y someter al dictamen del auditor designado para tal efecto por la Secretaría de la Contraloría General del Estado los últimos estados financieros;
+I. Levantar el inventario de los bienes de la entidad fusionante y someter al dictamen del auditor designado para tal efecto por la contraloría, los últimos estados financieros;
 
-> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+II. Informar mensualmente a las secretarías de Administración y Finanzas, y de la Contraloría General, así como a la dependencia coordinadora del sector, sobre el avance o estado que guarda el proceso;
 
-II. Informar a las secretarías de Administración y Finanzas, y de la Contraloría General, así como a la dependencia coordinadora del sector, sobre el avance o estado que guarda el proceso;
+III. Verificar que se formalice la transferencia de los bienes y recursos del organismo.
 
-III. Verificar que se formalice la entrega-recepción de los bienes y recursos respectivos.
-
-La persona designada como responsable para realizar las actividades señaladas en las fracciones anteriores deberá informar al Órgano de Gobierno el avance del proceso.
+La persona designada como responsable para realizar las actividades señaladas en las fracciones anteriores deberá informar al órgano de gobierno el avance del proceso.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -13102,3 +13118,19 @@ Se abroga el Decreto 183/2014 por el que se crea la Unidad Especializada en la E
 Tercero. Referencia
 
 En lo sucesivo, cuando en alguna norma se haga referencia a la Policía Ministerial Investigadora, se entenderá hecha a la Policía Estatal de Investigación.
+
+D.O. 20 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 450/2017 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE EXTINCIÓN DE ENTIDADES”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Obligación normativa
+
+El gobernador deberá expedir los lineamientos a que se refiere la fracción XXVI del artículo 525 del Reglamento del Código de la Administración Pública de Yucatán, en un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Aplicación de la normativa vigente
+
+En tanto entran en vigor los lineamientos a que se refiere el artículo transitorio anterior, las autoridades competentes continuarán aplicando la normatividad vigente en la materia, en lo que no se oponga a este decreto.
