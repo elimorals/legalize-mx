@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-y-defensa-del-contribuyente-del-estado-1187
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2017-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "ZAC"
 
 > <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2018.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ENERO DE 2017.]</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -591,7 +591,9 @@ Octavo. La Comisión Estatal de la Defensa del Contribuyente realizará una camp
 
 COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
 
-DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del Estado de Zacatecas, a los 21 días de (sic) mes de diciembre del año dos mil dieciséis. Diputada Presidenta.- DIP. NORMA ANGÉLICA CASTORENA BERRELLEZA. Diputadas Secretarias.- DIP. MA. GUADALUPE GONZÁLEZ MARTÍNEZ y DIP. MARÍA ELENA ORTEGA CORTÉS.- Rúbricas.
+> <small>(F. DE E., P.O. 21 DE ENERO DE 2017)</small>
+
+DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del Estado, a los quince días del mes de diciembre del año dos mil dieciséis. Diputada Presidenta.- DIP. NORMA ANGÉLICA CASTORENA BERRELLEZA. Diputadas Secretarias.- DIP. MA. GUADALUPE GONZÁLEZ MARTÍNEZ y DIP. MARÍA ELENA ORTEGA CORTÉS.- Rúbricas.
 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
