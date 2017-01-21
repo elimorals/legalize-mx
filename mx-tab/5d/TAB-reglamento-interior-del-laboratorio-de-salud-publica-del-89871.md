@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-laboratorio-de-salud-publica-del-89871"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-22"
-last_updated: "2012-08-25"
+last_updated: "2017-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL LABORATORIO DE SALUD PUBLICA DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL LABORATORIO DE SALUD PÚBLICA, DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL LABORATORIO DE SALUD PÚBLICA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 25 DE AGOSTO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento F del Periódico Oficial del Estado de Tabasco, el miércoles 22 de agosto de 2012.
 
@@ -526,3 +526,19 @@ SECRETARIO DE SALUD.
 M. A OLGA ELENA PIÑA GUTIÉRREZ
 
 DIRECTORA DEL LABORATORIO DE SALUD PÚBLICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL LABORATORIO DE SALUD PÚBLICA".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Laboratorio de Salud Pública publicado en el Suplemento "F" al Periódico Oficial del Estado número 7300, de fecha 22 de agosto de 2012; así como se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos que con motivo de este Reglamento deban pasar de una Unidad Administrativa o Técnica a otra, serán resueltos por la Dirección del Laboratorio conforme a las disposiciones del presente ordenamiento.
+
+CUARTO. Cuando en otras disposiciones legales se dé una denominación distinta a alguna unidad administrativa cuyas funciones estén establecidas por el presente Reglamento, dichas atribuciones se entenderán concedidas para su ejercicio a la unidad administrativa que determine este ordenamiento.
+
+QUINTO. El Director deberá resolver cualquier duda de interpretación de este Reglamento en tanto no se expidan los manuales administrativos y técnicos que en su interior se mencionan.
