@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-11830
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2017-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2017
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE MICHOACÁN DE OCAMPO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2017
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ENERO DE 2017.]</small>
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de Michoacán de Ocampo, el sábado 31 de diciembre de 2016.
 
@@ -1023,11 +1023,17 @@ I. Licencia para la Prestación de Servicios Inmobiliarios (LSI) $ 1,095.00
 
 II. Licencia para la Prestación de Servicios Inmobiliarios Profesional (LIP) $ 1,460.00
 
-#### SECCIÓN XI. DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE LA DIRECCIÓN DE PROTECCIÓN CIVIL DEL ESTADO
+#### SECCIÓN XI
+
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2017)</small>
+
+DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL
+
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2017)</small>
 
 ###### Artículo 26.
 
-Los Derechos que se causen por la prestación de Servicios de la Dirección de Protección Civil del Estado, se cubrirán de conformidad con las siguientes:
+Los Derechos que se causen por la prestación de Servicios de la Coordinación Estatal de Protección Civil, se cubrirán de conformidad con las siguientes:
 
 CONCEPTO CUOTA $
 
