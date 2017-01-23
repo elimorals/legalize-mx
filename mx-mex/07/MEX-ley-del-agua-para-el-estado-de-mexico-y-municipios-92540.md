@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2016-12-20"
+last_updated: "2017-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DEL AGUA PARA EL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 23 DE ENERO DE 2017.]</small>
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -2383,7 +2383,9 @@ Una vez que la Comisión, el municipio o el organismo operador abastezcan a las 
 
 La tarifa por la venta de agua potable al consumidor por parte de los permisionarios de distribución, en ningún caso podrá exceder del valor diario de una Unidad de Medida y Actualización vigente, por metro cúbico.
 
-La tarifa por la venta de agua tratada al consumidor por parte de los permisionarios de distribución, en ningún caso podrá exceder de 0.9 de la Unidad de Medida y Actualización vigente, por metro cúbico.
+> <small>(F. DE E., G.G. 23 DE ENERO DE 2017)</small>
+
+La tarifa por la venta de agua tratada al consumidor por parte de los permisionarios de distribución, en ningún caso podrá exceder de 0.9 del valor diario de la Unidad de Medida y Actualización vigente, por metro cúbico.
 
 ## TÍTULO CUARTO. DE LA VERIFICACIÓN, INFRACCIONES Y SANCIONES
 
@@ -2665,7 +2667,7 @@ DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, 
 
 G.G. 20 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
