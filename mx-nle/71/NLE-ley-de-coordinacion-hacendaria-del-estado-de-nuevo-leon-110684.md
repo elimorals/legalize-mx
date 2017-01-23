@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-coordinacion-hacendaria-del-estado-de-nuevo-leon-110684"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-03"
-last_updated: "2016-03-17"
+last_updated: "2017-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de diciembre de 2015.
 
@@ -349,7 +349,7 @@ Las fechas de pago de las participaciones federales y estatales a Municipios, lo
 
 Adicionalmente, la Secretaría de Finanzas y Tesorería General del Estado enviará dicha información al Congreso del Estado en forma impresa y en formato electrónico de texto modificable de base de datos, en forma trimestral, en el mes siguiente al período a que corresponda.
 
-Si durante un ejercicio fiscal se redujeran los montos reales totales a participar a los Municipios de los fondos referidos en el (sic) artículo (sic) 14 y 16 de esta Ley, la distribución se hará utilizando los respectivos coeficientes efectivos del año previo para cada municipio.
+Si durante un ejercicio fiscal se redujeran los montos reales totales a participar a los Municipios de los fondos referidos en el artículo (sic) 14 y 16 de esta Ley, la distribución se hará utilizando los respectivos coeficientes efectivos del año previo para cada municipio.
 
 ###### Artículo 20.
 
@@ -509,9 +509,65 @@ Los montos que correspondan a cada municipio serán dados a conocer en la Ley de
 
 De no cumplirse con la entrega de los recursos señalados en el presente artículo se aplicaran recargos a favor de los Municipios a la tasa de recargos que en el Código Fiscal del Estado se establece para los casos de pagos a plazos de contribuciones, a partir del día siguiente de que se incurra en incumplimiento, siendo lo anterior independiente de las sanciones a que puedan ser acreedores los funcionarios responsables.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE ENERO DE 2017)</small>
+
+### CAPÍTULO QUINTO. DEL FONDO DE SEGURIDAD PARA LOS MUNICIPIOS
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2017)</small>
+
+###### Artículo 31 Bis.
+
+El Gobierno del Estado constituirá el Fondo denominado Fondos de Seguridad para los Municipios esta aportación tendrá como destino la prestación de seguridad pública de los municipios y podrá ser destinado a capacitación, equipamiento, prevención del delito, inversión y cualquier otro tipo de gasto en seguridad.
+
+El fondo se constituirá con dos fuentes de ingresos y el monto a repartir no podrá ser menor a la cantidad que resulte mayor entre la suma del 1.84% del monto de participaciones que efectivamente reciba el estado en el ejercicio fiscal correspondiente y el 35% de lo recaudado por concepto del impuesto a las erogaciones de juegos con apuestas, y el monto autorizado en la ley de egresos del ejercicio correspondiente para este fondo, distribuyéndose de la siguiente forma:
+
+A) El 1.84% del monto de participaciones se repartirá bajo las siguientes reglas:
+
+I. Para efectos de lo anterior, se considerará el 1.84% del monto de participaciones que correspondan al Estado según el presupuesto aprobado para el ejercicio fiscal correspondiente, a efectos de realizar los cálculos preliminares que sean necesarios.
+
+II. De manera trimestral, se realizarán los cálculos correspondientes a fin de determinar cualquier incremento en los montos a entregar a los Municipios por incremento en la recaudación del impuesto a las erogaciones de juego con apuestos (sic).
+
+III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondiente para determinar la diferencia entre los montos entregados a los Municipios en el año anterior y lo que efectivamente les corresponda de acuerdo a la cantidad recaudada en el ejercicio fiscal.
+
+Como participaciones se entenderán todos los rubros de recursos por participaciones contempladas en la Ley de Ingresos del Estado señalada al año fiscal correspondiente, además de lo señalado en el artículo 2, fracción VIII de esta Ley.
+
+Este Fondo se distribuirá en dos fórmulas la primera será de forma equitativa y la segunda por población con la que cuente cada municipio de acuerdo al último censo de población publicado por el INEGI.
+
+I.- Por la fórmula de repartición equitativa se asignará un monto fijo anual de $3,000,000.00 a cada municipio del Estado.
+
+II.- Por la fórmula de población se repartirá el resto del fondo una vez restado el monto repartido en la fracción anterior separando un 60 % a los Municipios de la Zona Metropolitana y un 40% para los Municipios de la Zona No Metropolitana y distribuyéndolo en proporción a la población que tiene cada municipio en relación a la población total de la Zona Metropolitana o Zona No Metropolitana según sea el caso, de acuerdo al último dato poblacional disponible.
+
+Para estos efectos, se entenderá como Zona Metropolitana la conformada por los Municipios de: Apodaca, Cadereyta Jiménez, García, San Pedro Garza García, General Escobedo, Guadalupe, Juárez, Monterrey, Salinas Victoria, San Nicolás de los Garza, Santa Catarina y Santiago.
+
+El resto de los Municipios se considerará como Zona No Metropolitana.
+
+B) El 35% de lo recaudado por concepto de ingresos de Impuesto a las Erogaciones de Juegos con Apuestas se distribuirá bajo las siguientes reglas:
+
+I. Para efectos de lo anterior, se considerará el 35% de lo recaudado por concepto de ingresos de Impuesto a las Erogaciones de Juegos con Apuestas según el presupuesto aprobado para el ejercicio fiscal correspondiente, a efectos de realizar los cálculos preliminares que sean necesarios.
+
+II. De manera trimestral, se realizarán los cálculos correspondientes a fin de determinar cualquier incremento en los montos a entregar a los Municipios por incremento en la recaudación del Impuesto a las Erogaciones de Juegos con Apuestas.
+
+III. Al inicio de cada ejercicio fiscal, se realizará el cálculo correspondiente para determinar la diferencia entre los montos entregados a los Municipios en el año anterior y lo que efectivamente les corresponda de acuerdo a la cantidad recaudada en el ejercicio fiscal.
+
+Este apartado del fondo se distribuirá en dos fórmulas la primera será de forma equitativa y la segunda por población con la que cuente cada municipio de acuerdo al último censo de población publicado por el INEGI.
+
+I. La fórmula de repartición de acuerdo al criterio de ingreso mínimo garantizado se asignará un monto fijo anual de $1 ,000,000.00.
+
+II. Por la fórmula de población se repartirá el resto del fondo una vez restado el monto repartido en la fracción anterior se asignara un 60% a los Municipios de la Zona Metropolitana y un 40% para los Municipios de la Zona No Metropolitana y distribuyéndolo en proporción a la población que tiene cada municipio en relación a la población total de la Zona Metropolitana o Zona No Metropolitana según sea el caso.
+
+Para estos efectos, se entenderá como Zona Metropolitana la conformada por los Municipios de: Apodaca, Cadereyta Jiménez, García, San Pedro Garza García, General Escobedo, Guadalupe, Juárez, Monterrey, Salinas Victoria, San Nicolás de los Garza, Santa Catarina y Santiago.
+
+El resto de los Municipios se considerará como Zona No Metropolitana.
+
+Los recursos de este Fondo se ministrarán a los Municipios, de acuerdo a los coeficientes que resulten de esta Ley, los cuales serán ministrados en partes iguales en forma mensual.
+
+Los montos que correspondan a este Fondo serán dados a conocer en la Ley de Egresos del Estado de cada ejercicio fiscal; dicho Fondo no podrá ser menor a lo señalado en la presente Ley.
+
+De no cumplirse con la entrega de los recursos señalados en el presente artículo se aplicaran recargos a favor de los Municipios a la tasa de recargos que en el Código Fiscal del Estado se establece para los casos de pagos a plazos de contribuciones, a partir del día siguiente de que se incurra en incumplimiento, siendo lo anterior independiente de las sanciones a que puedan ser acreedores los funcionarios responsables.
 
 ## TÍTULO QUINTO. DE LAS CONTROVERSIAS
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 32.
 
@@ -602,3 +658,9 @@ Segundo.- En el caso de Fondo Descentralizado que menciona el artículo 31 de es
 Tercero.- Además de lo señalado en el artículo anterior, el Gobierno del Estado deberá crear una provisión económica que será usada como Fondo Compensatorio para cumplir con lo establecido en el cuarto párrafo del artículo 31, durante el ejercicio 2016 solamente.
 
 Cuarto.- En el caso de que exista una disminución en la Recaudación Federal Participable con respecto a lo estimado en la Ley de Ingresos, que deriven en una compensación con los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas, el Estado destinará un 20% veinte por ciento de dichos ingresos para compensar la baja de participaciones a los municipios, los cuales se distribuirán de conformidad con lo establecido en el artículo 14 de esta Ley.
+
+P.O. 23 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 215. SE REFORMA POR ADICIÓN DE UN CAPÍTULO QUINTO, FONDO DE SEGURIDAD PARA LOS MUNICIPIOS Y UN ARTÍCULO 31 BIS A LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor el día primero de enero del 2017.
