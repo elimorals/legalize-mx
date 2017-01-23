@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2017-01-19"
+last_updated: "2017-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,7 +29,7 @@ CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2016.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 19 DE ENERO DE 2017.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 23 DE ENERO DE 2017.]</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -7885,13 +7885,13 @@ Están obligadas al pago de este impuesto las personas físicas o jurídicas col
 
 Este impuesto, se pagará bimestralmente dentro de los cinco días siguientes al bimestre en que se causó, cuando se efectúe la publicidad, de acuerdo con la siguiente:
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016) (F. DE E., G.G. 23 DE ENERO DE 2017)
 
 TARIFA
 
 CONCEPTO NÚMERO DE VECES EL
 
-VALOR DIARIO DDE (SIC)
+VALOR DIARIO DE
 
 LA UNIDAD DE MEDIDA
 
@@ -8311,9 +8311,9 @@ Para el caso de la autorización de la suspensión en derivaciones, el usuario p
 
 III. Por la reparación del aparato medidor del consumo de agua, se pagarán los siguientes derechos:
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016) (F. DE E., G.G. 23 DE ENERO DE 2017)
 
-A). Para uso doméstico 2 veces el valor diario de la Unidad de Medida y Actualización vigente.
+A). Para uso doméstico: 2 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -8379,13 +8379,13 @@ TARIFA MENSUAL
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 44.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 20 DE DICIEMBRE DE 2016, PÁGINA 22.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 20 DE DICIEMBRE DE 2016, PÁGINA 22 Y F. DE E., G.G. 23 DE ENERO DE 2017, PÁGINA 26.]</small>
 
 TARIFA BIMESTRAL
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 44.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 20 DE DICIEMBRE DE 2016, PÁGINA 22.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 20 DE DICIEMBRE DE 2016, PÁGINA 22 Y F. DE E., G.G. 23 DE ENERO DE 2017, PÁGINA 26.]</small>
 
 En caso de que el medidor se encuentre descompuesto, el usuario pagará las descargas de drenaje y alcantarillado de conformidad al promedio de consumos del último año inmediato anterior, según sea el caso, en que estuvo funcionando el aparato.
 
@@ -8567,7 +8567,7 @@ Diámetro en mm
 
 II. Por la conexión del drenaje a los sistemas generales:
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016) (F. DE E., G.G. 23 DE ENERO DE 2017)
 
 TARIFA
 
@@ -9311,7 +9311,7 @@ B). Relotificaciones
 
 subsecuentes. 1.21
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016) (F. DE E., G.G. 23 DE ENERO DE 2017)
 
 V. Por la autorización para realizar obras de modificación, rotura o corte de pavimento o concreto en calles, guarniciones y banquetas para llevar a cabo obras o instalaciones subterráneas, se causará y pagará por cada metro cuadrado de vía pública afectada 1.0 veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de obras realizadas por personas físicas y 1.5 veces el valor diario de la Unidad de Medida y Actualización vigente tratándose de obras realizadas por personas jurídicas colectivas.
 
@@ -9381,11 +9381,11 @@ de 15 metros. 8.39 5.67
 
 B). Asignación de número oficial. 2.83 1.89
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016) (F. DE E., G.G. 23 DE ENERO DE 2017)
 
 XI. Por la autorización de cambios de uso del suelo, de densidad e intensidad de su aprovechamiento, así como por cambios de altura de edificaciones, se pagará una cuota equivalente a 50.0 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016) (F. DE E., G.G. 23 DE ENERO DE 2017)
 
 XII. Por la expedición de cédulas informativas de zonificación, se pagará una cuota equivalente a 2.84 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
@@ -9523,9 +9523,9 @@ superficie útil o
 
 vendible. 44.61 39.20
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016) (F. DE E., G.G. 23 DE ENERO DE 2017)
 
-IV. Tratándose de regularización de la tenencia de la tierra, mediante programas, acciones o campañas promovidas por organismos públicos federales, estatales o municipales creados para tal efecto, en beneficio de asentamientos humanos de escasos recursos, únicamente se pagará por concepto de los derechos señalados en las fracciones I y II de este artículo 1.0 el valor diario de la Unidad de Medida y Actualización vigente por cada predio o lote resultante.
+IV. Tratándose de regularización de la tenencia de la tierra, mediante programas, acciones o campañas promovidas por organismos públicos federales, estatales o municipales creados para tal efecto, en beneficio de asentamientos humanos de escasos recursos, únicamente se pagará por concepto de los derechos señalados en las fracciones I y II de este artículo 1.0 veces el valor diario de la Unidad de Medida y Actualización vigente por cada predio o lote resultante.
 
 ###### Artículo 146.
 
@@ -9599,9 +9599,9 @@ VII. Corrección o rectificación de datos en
 
 documentos aportados por el contribuyente. 1.0
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016) (F. DE E., G.G. 23 DE ENERO DE 2017)
 
-Únicamente se pagarán por concepto de los derechos señalados en la fracción III de este artículo 1.0 el valor diario de la Unidad de Medida y Actualización vigente, tratándose de regularización de la tenencia de la tierra, mediante programas y campañas promovidas por organismos públicos federales, estatales o municipales creados para tal efecto.
+Únicamente se pagarán por concepto de los derechos señalados en la fracción III de este artículo 1.0 veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de regularización de la tenencia de la tierra, mediante programas y campañas promovidas por organismos públicos federales, estatales o municipales creados para tal efecto.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -15775,9 +15775,9 @@ Los interventores con cargo a caja o en administración, así como los administr
 
 I. Para los interventores con cargo a caja y los administradores de bienes inmuebles que causen rentas, los honorarios serán por un monto igual al 7% del importe recuperado, sin que los honorarios referidos sean inferiores a ciento doce veces el valor diario de la Unidad de Medida y Actualización vigente, ni mayores a mil setecientas veces el valor diario de la Unidad de medida y Actualización vigente.
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016) (F. DE E., G.G. 23 DE ENERO DE 2017)
 
-II. Para los interventores en administración, los honorarios a que se refiere el primer párrafo de este artículo serán por un monto equivalente al 10°/0 (sic) del importe recuperado, los cuales no podrán ser inferiores a trescientas diez veces el valor diario de la Unidad de Medida y Actualización vigente, ni mayores a mil ochocientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+II. Para los interventores en administración, los honorarios a que se refiere el primer párrafo de este artículo serán por un monto equivalente al 10 % del importe recuperado, los cuales no podrán ser inferiores a trescientas diez veces el valor diario de la Unidad de Medida y Actualización vigente, ni mayores a mil ochocientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
