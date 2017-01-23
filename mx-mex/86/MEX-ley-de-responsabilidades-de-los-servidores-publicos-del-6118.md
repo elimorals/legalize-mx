@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2016-12-20"
+last_updated: "2017-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2017 EN LA G. G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 23 DE ENERO DE 2017.]
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -719,9 +719,9 @@ l. La cantidad líquida de la sanción económica impuesta, se dividirá entre e
 
 II. El cociente se multiplicará por el valor mensual de la Unidad de Medida y Actualización vigente al día de pago de la sanción.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016) (F. DE E., G.G. 23 DE ENERO DE 2017)
 
-Para los efectos de esta Ley se entenderá por valor mensual de la Unidad de Medida y Actualización, el equivalente a multiplicar el valor diario de la unidad de medida y actualización por 30.4 veces.
+Para los efectos de esta Ley se entenderá por valor mensual de la Unidad de Medida y Actualización, el equivalente a multiplicar el valor diario de la Unidad de Medida y Actualización por 30.4 veces.
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
@@ -797,11 +797,11 @@ Cuando por motivo de las funciones que realice la Secretaría, resultare respons
 
 En los casos de que se trate de irregularidades en los supuestos a que se refiere el artículo 72 de esta Ley, se estará a sus disposiciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016) (F. DE E., G.G. 23 DE ENERO DE 2017)
 
 ###### Artículo 58.
 
-La Secretaría y el superior jerárquico informando previamente ésta, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad no constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor, y el daño causado no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+La Secretaría y el superior jerárquico informando previamente a ésta, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad no constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor, y el daño causado no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Lo anterior, es aplicable a los Poderes Judicial y Legislativo, como también a los Ayuntamientos a través de sus órganos competentes.
 
