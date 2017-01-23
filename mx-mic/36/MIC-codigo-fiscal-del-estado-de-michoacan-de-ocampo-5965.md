@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2016-12-31"
+last_updated: "2017-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # CODIGO FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ENERO DE 2017.]</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -1709,11 +1709,11 @@ Cuando las multas no se paguen en la fecha establecida en las disposiciones fisc
 
 Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con las disposiciones aplicables de la ley de ingresos y este Código.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016) (F. DE E., P.O. 23 DE ENERO DE 2017)
 
 ###### ARTÍCULO 53-A.
 
-Las multas que este Capítulo establece, aplicables a los contribuyentes que tributen conforme al Título II, Capítulo IV, Sección I y Capítulo IV, sección I, de la Ley de Hacienda del Estado, se considerarán reducidas en los casos de (sic) durante el ejercicio de facultades de comprobación del cumplimiento de las obligaciones fiscales el contribuyente corrija su situación fiscal:
+Las multas que este Capítulo establece, aplicables a los contribuyentes que tributen conforme al Título Segundo, Capítulo IV, Sección I, de la Ley de Hacienda del Estado, se considerarán reducidas en los casos que durante el ejercicio de facultades de comprobación del cumplimiento de las obligaciones fiscales el contribuyente corrija su situación fiscal:
 
 I. En un 50%, cuando el contribuyente solicite la reducción de multas a que se refiere este artículo antes de que la autoridad emita oficio de observaciones o levante última acta parcial, en el ejercicio de facultades de comprobación del cumplimiento de las obligaciones fiscales;
 
