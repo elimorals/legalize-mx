@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2016-09-12"
+last_updated: "2017-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2017.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -723,7 +723,7 @@ Las comisiones deberán vigilar que se ejecuten las disposiciones y acuerdos del
 
 Habrá Comisiones permanentes que funcionarán por todo el trienio y comisiones especiales que podrán ser nombradas por acuerdo del ayuntamiento para el estudio de un asunto determinado.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 36.
 
@@ -741,23 +741,23 @@ V.- Desarrollo Urbano y Obras Públicas;
 
 VI.- Agua Potable y Alcantarillado;
 
-VII.- Educación y Cultura;
+VII.- Educación, Cultura y Deporte;
 
 VIII.- Salud Municipal;
 
-IX.- Alumbrado Público, Mercados y Panteones;
+IX.- Servicios Públicos;
 
-X.- Parques, Jardines, Limpia y Recolección de Basura;
+X.- Participación Ciudadana;
 
-XI.- Participación Ciudadana;
+XI.- Desarrollo y Fomento Agropecuario;
 
-XII.- Desarrollo y Fomento Agropecuario;
+XII.- Desarrollo y Fomento Económico y Turístico;
 
-XIII.- Desarrollo y fomento Económico;
+XIII.- Planeación y Desarrollo Sustentable;
 
-XIV.- Planeación y Desarrollo Sustentable;
+XIV.- Apoyo al Migrante;
 
-XV.- Deportes; y
+XV.- Equidad de Género, y
 
 XVI.- Control Integral de la Gestión Municipal.
 
@@ -987,11 +987,11 @@ V.- Proponer la realización de nuevas obras y ampliaciones de redes, con base e
 
 VI.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y FUSIONADOS ANTES ARTÍCULOS 54 Y 62], P.O. 23 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 54.
 
-Corresponden a la Comisión de Educación y Cultura los siguientes asuntos:
+Corresponden a la Comisión de Educación, Cultura y Deporte los siguientes asuntos:
 
 I.- Realizar visitas periódicas a los centros educativos para observar el desarrollo de los planes y sistemas educativos;
 
@@ -1007,9 +1007,27 @@ VI.- Promover que se levante una encuesta de las necesidades en materia educativ
 
 VII.- Coordinarse con las autoridades competentes a efecto de efectuar programas para evitar la deserción escolar y para alcanzar un mayor promedio de escolaridad en el municipio;
 
-VIII.- Mantener contacto con las asociaciones de padres de familia, a efecto de estar pendiente de las necesidades en materia educativa municipal; y
+VIII.- Mantener contacto con las asociaciones de padres de familia, a efecto de estar pendiente de las necesidades en materia educativa municipal;
 
-IX.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
+Corresponden a la Comisión de Deporte los siguientes asuntos:
+
+IX.- Vigilar que se promueva la práctica planificada y coordinada del deporte, a efecto de propiciar el desarrollo físico y mental de los habitantes;
+
+X.- Proponer la construcción de campos, canchas y unidades deportivas en el municipio;
+
+XI.- Vigilar que se realice la conservación, rehabilitación y buen funcionamiento de los campos, canchas y unidades deportivas dentro del municipio;
+
+XII.- Mantener comunicación con las diferentes autoridades, asociaciones y clubes deportivos a fin de lograr una mayor proyección de los deportistas del Municipio;
+
+XIII.- Proponer la realización de eventos deportivos;
+
+XIV.- Propiciar que se apoye a los deportistas destacados, mediante estímulos y becas;
+
+XV.- Mantener comunicación permanente con el responsable del área deportiva del municipio, supervisando sus actividades;
+
+XVI.- Asistir a las inauguraciones, clausuras, premiaciones y todo tipo de actividades que tengan relación con el deporte; y
+
+XVII.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -1037,17 +1055,17 @@ IX.- Verificar que la inspección reglamentaria municipal cumpla estrictamente c
 
 X.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y FUSIONADOS ANTES ARTÍCULOS 56 Y 57], P.O. 23 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 56.
 
-Corresponden a la Comisión de Alumbrado Público, Mercados y Panteones los siguientes asuntos:
+Corresponden a la Comisión de Servicios Públicos los siguientes asuntos:
 
 I.- Supervisar que las unidades administrativas de la Presidencia Municipal y particularmente el área de servicios públicos, preste con eficiencia, continuidad y regularidad los servicios de alumbrado público, panteones y mercados;
 
 II.- Proponer áreas o zonas en las comunidades, delegaciones, subdelegaciones, colonias, barrios o rancherías del municipio en cuanto a la instalación, mantenimiento y supervisión de los sistemas de alumbrado público;
 
-III.-Proponer al H. Ayuntamiento la instalación y mejoramiento del alumbrado público en las vías de comunicación y lugares de tránsito, así como lugares donde se requiera la ampliación del mismo;
+III.- Proponer al H. Ayuntamiento la instalación y mejoramiento del alumbrado público en las vías de comunicación y lugares de tránsito, así como lugares donde se requiera la ampliación del mismo;
 
 IV.- Recorrer el municipio para detectar las deficiencias en materia de alumbrado público;
 
@@ -1065,47 +1083,39 @@ X.- Proponer la reestructuración, modernización y funcionalidad de los panteon
 
 XI.- Supervisar la prestación del servicio de mercados públicos, tianguis y en general el comercio en la vía pública;
 
-XII.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
+XII.- Elaborar el dictamen relativo a la nomenclatura de las calles, colonias, fraccionamientos, parques, jardines, y en general todo espacio público de propiedad municipal;
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+XIII.- Proponer al H. Ayuntamiento la uniformidad de la nomenclatura externa domiciliaria y comercial;
+
+XIV.- Proponer, opinar y dictaminar en lo relativo al alineamiento, conservación y apertura de vías públicas;
+
+XV.- Supervisar que las dependencias de la administración pública municipal correspondientes, mantengan en las mejores condiciones de uso y libres de obstáculos, las vías públicas, parques, jardines y demás espacios públicos de propiedad municipal;
+
+XVI.- Proponer la realización de campañas para mejorar la conservación, mantenimiento y perfeccionamiento de las vías públicas, parques, jardines y demás espacios públicos de propiedad municipal;
+
+XVII.- Realizar estudios para establecer la normatividad aplicable en materia de ornato, anuncios y demás elementos que repercuten en la imagen urbana;
+
+XVIII.- Proponer al ayuntamiento las mejoras necesarias en las vialidades, parques, jardines y demás espacios públicos de propiedad municipal, a efecto de que sean contempladas en los programas de obra público (sic), y en su caso en presupuesto de egresos;
+
+XIX.- Proponer la creación de nuevos parques y jardines en las comunidades o colonias en donde sean necesarios, así como la apertura de nuevas vialidades;
+
+XX.- Supervisar y vigilar el funcionamiento del área administrativa municipal encargada de los servicios de limpia y recolección de basura, a efecto de que este servicio se preste con regularidad y eficiencia, teniendo la mayor cobertura posible;
+
+XXI.- Vigilar el aprovechamiento óptimo de la Estación de Transferencia de Residuos sólidos en el municipio;
+
+XXII.- Estudiar y vigilar que se propongan al H. Ayuntamiento, los planes y sistemas de aseo público que se estime adecuados para el municipio;
+
+XXIII.- Promover programas con la colaboración de los vecinos, los clubes de servicio, organizaciones civiles, obreros, campesinos y empresarios, a efecto de realizar campañas de limpieza; y
+
+XXIV.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 58], P.O. 23 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 57.
 
-Corresponden a la Comisión de Parques, Jardines, Limpia y Recolección de Basura los siguientes asuntos:
-
-I.- Elaborar el dictamen relativo a la nomenclatura de las calles, colonias, fraccionamientos, parques, jardines, y en general todo espacio público de propiedad municipal;
-
-II.- Proponer al H. Ayuntamiento la uniformidad de la nomenclatura externa domiciliaria y comercial;
-
-III.- Proponer, opinar y dictaminar en lo relativo al alineamiento, conservación y apertura de vías públicas;
-
-IV.- Supervisar que las dependencias de la administración pública municipal correspondientes, mantengan en las mejores condiciones de uso y libres de obstáculos, las vías públicas, parques, jardines y demás espacios públicos de propiedad municipal;
-
-V.- Proponer la realización de campañas para mejorar la conservación, mantenimiento y perfeccionamiento de las vías públicas, parques, jardines y demás espacios públicos de propiedad municipal;
-
-VI.- Realizar estudios para establecer la normatividad aplicable en materia de ornato, anuncios y demás elementos que repercuten en la imagen urbana;
-
-VII.- Proponer al ayuntamiento las mejoras necesarias en las vialidades, parques, jardines y demás espacios públicos de propiedad municipal, a efecto de que sean contempladas en los programas de obra pública, y en su caso en presupuesto de egresos;
-
-VIII.- Proponer la creación de nuevos parques y jardines en las comunidades o colonias en donde sean necesarios, así como la apertura de nuevas vialidades;
-
-IX.- Supervisar y vigilar el funcionamiento del área administrativa municipal encargada de los servicios de limpia y recolección de basura, a efecto de que este servicio se preste con regularidad y eficiencia, teniendo la mayor cobertura posible;
-
-X.- Vigilar el aprovechamiento óptimo de la Estación de Transferencia de Residuos sólidos en el municipio;
-
-XI.- Estudiar y vigilar que se propongan al H. Ayuntamiento, los planes y sistemas de aseo público que se estime adecuados para el municipio;
-
-XII.- Promover programas con la colaboración de los vecinos, los clubes de servicio, organizaciones civiles, obreros, campesinos y empresarios, a efecto de realizar campañas de limpieza; y
-
-XIII.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-###### ARTICULO 58.
-
 Corresponden a la Comisión de Participación Ciudadana los siguientes asuntos:
 
-I.- Supervisar que se promueva la participación ciudadana en las principales obras, acciones y servicios que se lleven a cabo por parte del Ayuntamiento y la Presidencia Municipal;
+I.- Supervisar que se promueva la participación ciudadana en las principales obras, acciones y servicios que se lleven a cabo por parte del ayuntamiento y la Presidencia Municipal;
 
 II.- Verificar que la participación ciudadana sea efectiva en los distintos organismos que conforme a la ley deban incluir entre sus integrantes a personas representativas de la sociedad civil o miembros de los sectores social y privado;
 
@@ -1113,11 +1123,11 @@ III.- Organizar reuniones en todas las comunidades, a efecto de integrar los org
 
 IV.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 59], P.O. 23 DE ENERO DE 2017)</small>
 
-###### ARTICULO 59.
+###### ARTICULO 58.
 
-Corresponden a la Comisión de Desarrollo y Fomento Agropecuario los siguientes asuntos:
+Corresponden a la Comisión de Desarrollo y fomento Agropecuario los siguientes asuntos:
 
 I.- Promover que se incluya en el Plan Municipal, acciones, obras y servicios, que impulsen el desarrollo de la producción agropecuaria en todas sus modalidades;
 
@@ -1129,11 +1139,11 @@ IV.- Impulsar la participación de los productores del municipio en diferentes f
 
 V.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 60], P.O. 23 DE ENERO DE 2017)</small>
 
-###### ARTICULO 60.
+###### ARTICULO 59.
 
-Corresponden a la Comisión de Desarrollo y Fomento Económico los siguientes asuntos:
+Corresponden a la Comisión de Desarrollo y fomento Económico y Turístico los siguientes asuntos:
 
 I.- Vigilar que los convenios que se establezcan cumplan con los objetivos de fortalecer la capacidad económica, administrativa y financiera del municipio;
 
@@ -1149,23 +1159,23 @@ VI.- Formular recomendaciones en todas las áreas de la administración pública
 
 VII.- Proponer obras, acciones y servicios con el objeto de crear una infraestructura atractiva para el turismo y rescatar los sitios de belleza natural o panorámica que puedan cumplir con este objetivo;
 
-VIII.- Presentar al Ayuntamiento programas de difusión de los atractivos turísticos del municipio entre sus propios habitantes y de otros lugares; y
+VIII.- Presentar al Ayuntamiento programas de difusión de los atractivos turísticos del municipio entre sus propios habitantes, y de otros lugares; y
 
 IX.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 61], P.O. 23 DE ENERO DE 2017)</small>
 
-###### ARTICULO 61.
+###### ARTICULO 60.
 
 Corresponden a la Comisión de Planeación y Desarrollo Sustentable los siguientes asuntos:
 
 I.- Supervisar que las acciones emprendidas por la administración pública municipal se apeguen a lo dispuesto por el Plan de Desarrollo Municipal y a los programas que de él se deriven;
 
-II.- Dictaminar acerca del proyecto de Plan Municipal de Desarrollo y conjuntamente con la Comisión de la materia de que se traten, de los programas que de él se deriven;
+II.- Dictaminar acerca del proyecto de Plan Municipal de Desarrollo y conjuntamente con la Comisión de la materia de que se trate, de los programas que de él se deriven;
 
 III.- Vigilar que en el proceso de formulación de los planes y programas de desarrollo se observen las disposiciones legales aplicables;
 
-IV.- Proponer al Ayuntamiento la realización de campañas de concientización ecológica;
+IV.- Proponer al ayuntamiento la realización de campañas de concientización ecológica;
 
 V.- Proponer al Ayuntamiento una iniciativa de programa ecológico municipal, así como de programas específicos para la preservación de determinadas zonas con características de belleza panorámica, o valor ecológico;
 
@@ -1175,31 +1185,47 @@ VII.- Proponer que determinas zonas, áreas o predios sean considerados como res
 
 VIII.- Proponer las medidas que se consideren necesarias para el mejoramiento y conservación del medio ambiente; y
 
-IX.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
+> <small>(ADICIONADO [N. DE E. SU CONTENIDO], P.O. 23 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+###### ARTICULO 61.
+
+Corresponden a la Comisión de Apoyo al Migrante los siguientes asuntos:
+
+I.- Conocer de los asuntos relativos a políticas, planes, programas y estrategias a favor de los migrantes;
+
+II.- Proponer acuerdos administrativos con las diversas instancias gubernamentales y de la sociedad civil que tienen como finalidad la atención de los migrantes;
+
+III.- Vigilar que la Dirección de Desarrollo Social del municipio promueva el censo de los pabellonenses que habitan en el extranjero, así como de las familias que residan en el municipio cuyos jefes de familia residan en el extranjero;
+
+IV.- Establecer lineamientos para la conformación de clubes de pabellonenses en la Unión Americana, así como su participación en el desarrollo local a través del Programa 3X1;
+
+V.- Dictaminar acerca de las propuestas de hermanamiento de la cabecera municipal con ciudades o poblaciones del extranjero;
+
+VI.- Proponer medidas administrativas para la atención de las personas que estén de paso por el municipio a efecto de que les sean respetados sus derechos humanos; y
+
+VII.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 62.
 
-Corresponden a la Comisión de Deporte los siguientes asuntos:
+Corresponden a la Comisión de Equidad de Género los siguientes asuntos:
 
-I.- Vigilar que se promueva la práctica planificada y coordinada del deporte, a efecto de propiciar el desarrollo físico y mental de los habitantes;
+I.- Proponer políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del Municipio, a fin de lograr su plena participación en los ámbitos económico, político, social, cultural, laboral y educativo;
 
-II.- Proponer la construcción de campos, canchas y unidades deportivas en el municipio;
+II.- Supervisar que en la función pública municipal se garantice el acceso de las mujeres pabellonenses al derecho a una vida libre de violencia, tanto en el ámbito público como en el privado:
 
-III.- Vigilar que se realice la conservación, rehabilitación y buen funcionamiento de los campos, canchas y unidades deportivas dentro del municipio;
+III.- Verificar que en el municipio se implemente el Sistema Municipal de Prevención, Atención, Sanción y Erradicación de la Violencia, y vigilar su correcta instalación y funcionamiento;
 
-IV.- Mantener comunicación con las diferentes autoridades, asociaciones y clubes deportivos a fin de lograr una mayor proyección de los deportistas del Municipio;
+IV.- Dictaminar sobre la propuesta del Programa Municipal para prevenir, atender, sancionar y erradicar la violencia, el cual se diseñará con base a la perspectiva de género;
 
-V.- Proponer la realización de eventos deportivos;
+V.- Presentar iniciativas de reformas o adiciones a los ordenamientos jurídicos del municipio, relacionadas con la promoción de la igualdad entre las personas, sin importar el género, raza, edad, creencias religiosas, condición social o económica, cultura, discapacidades, preferencias sexuales y demás actividades y comportamientos humanos que pudieran causar discriminación o segregación social o humanas;
 
-VI.- Propiciar que se apoye a los deportistas destacados, mediante estímulos y becas;
+VI.- Proponer medidas de acción afirmativas tendientes a desaparecer las desigualdades existentes entre hombres y mujeres, con el fin de posibilitar los cambios sociales requeridos que permitan hacer efectivo el ejercicio del principio de equidad;
 
-VII.- Mantener comunicación permanente con el responsable del área deportiva del municipio, supervisando sus actividades;
+VII.- Vigilar que se incorporen en todas las políticas públicas municipales la perspectiva de género que permita incorporar a la mujer como sujeto social, y
 
-VIII.- Asistir a las inauguraciones, clausuras, premiaciones y todo tipo de actividades que tengan relación con el deporte; y
-
-IX.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
+VIII.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2283,27 +2309,17 @@ Los manuales de organización y procedimiento de cada dependencia, entidad o ár
 
 Las dependencias de la Administración Pública Municipal contarán con las siguientes unidades administrativas:
 
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
+
 I.- Oficina del C. Presidente Municipal:
 
 a).- Secretaría Particular;
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-b).- Departamento de Atención a la ciudadanía;
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+b).- Coordinación de Gabinete;
 
 c).- Departamento de Comunicación Social y Relaciones Públicas;
 
-d).- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
-
-e).- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
-
-f).- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
-
-g).- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
-
-h).- (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
+d).- Departamento de Atención a la ciudadanía;
 
 II.- Secretaría del H. Ayuntamiento:
 
@@ -2626,6 +2642,34 @@ VI.- Estar al pendiente de las condiciones de seguridad e higiene de las áreas 
 VII.- Apoyar al Presidente Municipal en el desarrollo de sus funciones, y
 
 VIII.- Las demás que el Presidente Municipal le encomiende.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2017)</small>
+
+ARTICULO 209 BIS.- Corresponde a la Coordinación de Gabinete lo siguiente:
+
+I.- Coordinar las relaciones entre las diversas dependencias y entidades de la administración pública municipal, a efecto de que la función administrativa se desarrolle en un ámbito de coherencia y eficiencia;
+
+II.- Establecer mecanismos para el adecuado flujo de información entre el Presidente Municipal y las diversas áreas que conforman la administración pública centralizada y paraestatal;
+
+III.- Programar las actividades protocolarias del Presidente Municipal en los actos oficiales propuestos por las diferentes áreas administrativas;
+
+IV.- Resolver conflictos de competencia que se presenten en la actividad diaria de las diversas dependencias y entidades de la administración pública municipal;
+
+V.- Organizar las reuniones del gabinete;
+
+VI.- Dar seguimiento a los acuerdos adoptados en las reuniones de gabinete, así como a las instrucciones giradas por el Presidente Municipal;
+
+VII.- Servir de enlace entre los diversos sectores sociales a efecto de que reciban una atención adecuada tanto de la oficina del Presidente Municipal como de las distintas áreas administrativas;
+
+VIII.- Colaborar en las situaciones que requieran el pronunciamiento del Presidente Municipal, supervisando que estén dadas las condiciones para que éste se dé con fluidez, calidad y corrección;
+
+IX.- Coordinar el desarrollo de ceremonias de carácter político, administrativo y social;
+
+X.- Cuidar el adecuado cumplimiento de las normas relacionadas con el protocolo en cada una de las actividades públicas en donde participe el Presidente Municipal;
+
+XI.- Proponer mecanismos que permitan recoger las inquietudes e intereses de la comunidad para asegurar la respuesta de la autoridad municipal, y
+
+XII.- Las demás que le otorguen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ###### ARTICULO 210.
 
@@ -24266,6 +24310,18 @@ Se derogan todas las disposiciones reglamentarias municipales en lo que se opong
 P.O. 12 DE SEPTIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DE "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente acuerdo.
+
+P.O. 23 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMA Y ADICIONA EL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
 
 ###### ARTÍCULO PRIMERO.
 
