@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2016-08-09"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -157,9 +157,13 @@ i) Trabajar en condiciones que afecten su desarrollo e integridad física y ment
 
 j) Ser víctimas del delito;
 
-k) Menores en conflicto con la ley;
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-l) Menores de edad que intervengan en un procedimiento legal, velando siempre porque se respete su interés superior;
+k) Niños, niñas y adolescentes en conflicto con la ley;
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+l) Niños, niñas y adolescentes que intervengan en un procedimiento legal, velando siempre porque se respete su interés superior;
 
 m) Ser hijos de padres que padezcan enfermedades terminales y en condiciones de extrema pobreza;
 
@@ -169,6 +173,10 @@ o) Ser víctimas de conflictos armados y de persecución étnica o religiosa, o
 
 p) Ser madres adolescentes.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2017)</small>
+
+q) Ser hijos de padres o madres que cumplan con una condena privativa de la libertad.
+
 II. Las mujeres:
 
 a) En estado de gestación o lactancia, carentes de recursos económicos, y sus hijos en edad de infancia temprana;
@@ -177,35 +185,47 @@ b) En situación de maltrato o abandono, o
 
 c) En situación de explotación, incluyendo la sexual.
 
-III. Indígenas en situación de maltrato, explotación en cualquiera de sus modalidades, marginación, exclusión o pobreza alimentaria;
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2017)</small>
 
-IV. Migrantes en situación de vulnerabilidad;
+III. Los hombres:
 
-V. Adultos mayores en desamparo, incapacidad, marginación o sujetos a maltrato;
+a) Los padres adolescentes y padres solos que tengan a su cuidado hijos menores de dieciocho años de edad,
+
+b) En situación de maltrato o abandono, y
+
+c) En situación de explotación incluyendo la sexual.
+
+IV. Indígenas en situación de maltrato, explotación en cualquiera de sus modalidades, marginación, exclusión o pobreza alimentaria;
+
+V. Migrantes en situación de vulnerabilidad;
+
+VI. Adultos mayores en desamparo, incapacidad, marginación o sujetos a maltrato;
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-VI. Personas con discapacidad;
+VII. Personas con discapacidad;
 
-VII. Dependientes de personas privadas de su libertad, de enfermos terminales, de alcohólicos o de fármaco dependientes;
+VIII. Dependientes de personas privadas de su libertad, de enfermos terminales, de alcohólicos o de fármaco dependientes;
 
-VIII. Víctimas de la comisión de delitos;
+IX. Víctimas de la comisión de delitos;
 
-IX. Indigentes;
+X. Indigentes;
 
-X. Alcohólicos y fármaco dependientes, cuando por estas causas se encuentran en estado de abandono o indigencia;
+XI. Alcohólicos y fármaco dependientes, cuando por estas causas se encuentran en estado de abandono o indigencia;
 
-XI. Personas afectadas por desastres naturales y que queden en estado de necesidad y desamparo;
+XII. Personas afectadas por desastres naturales y que queden en estado de necesidad y desamparo;
 
-XII. Las carentes de capacidad para satisfacer sus requerimientos básicos de subsistencia;
+XIII. Las carentes de capacidad para satisfacer sus requerimientos básicos de subsistencia;
 
-XIII. Personas que por su extrema ignorancia requieran de los servicios de asistencia, y
+XIV. Personas que por su extrema ignorancia requieran de los servicios de asistencia, y
 
-XIV. Las demás personas consideradas en otras disposiciones jurídicas aplicables.
+XV. Las demás personas consideradas en otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 ###### Artículo 7.
 
-El Estado asume la atención y protección de menores en sus aspectos físico, mental y moral, como coadyuvante de los deberes y derechos de la patria potestad o la tutela, sin perjuicio de las disposiciones previstas sobre la materia en los ordenamientos e instrumentos aplicables.
+El Estado asume la atención y protección de niños, niñas y adolescentes en sus aspectos físico, mental y moral, como coadyuvante de los deberes y derechos de la patria potestad o la tutela, sin perjuicio de las disposiciones previstas sobre la materia en los ordenamientos e instrumentos aplicables.
 
 ###### Artículo 8.
 
@@ -239,11 +259,15 @@ VII. Del desarrollo e integración familiar;
 
 VIII. Del desarrollo comunitario en las localidades o zonas de atención prioritaria con personas o grupos en situación de vulnerabilidad, y
 
-IX. De acciones para reforzar la paternidad y maternidad responsable, que propicien la preservación de los derechos de los menores.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+IX. De acciones para reforzar la paternidad y maternidad responsable, que propicien la preservación de los derechos de niños, niñas y adolescentes.
 
 B. De prevención:
 
-I. Del maltrato, abuso, violencia familiar, explotación, desamparo, abandono o negligencia en la atención de menores de edad, mujeres, adultos mayores, y personas con discapacidad;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+I. Del maltrato, abuso, violencia familiar, explotación, desamparo, abandono o negligencia en la atención de niños, niñas y adolescentes, mujeres, adultos mayores, y personas con discapacidad;
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -251,7 +275,9 @@ II. De enfermedades y situaciones de discapacidad;
 
 III. De la malnutrición;
 
-IV. Del embarazo no deseado, particularmente en menores de edad;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+IV. Del embarazo no deseado, particularmente en niñas y adolescentes;
 
 V. De las adicciones, y
 
@@ -271,19 +297,25 @@ III. A mujeres de escasos recursos, en períodos de gestación o lactancia;
 
 IV. A adictos y farmacodependientes;
 
-V. A menores en riesgo de farmacodependencia, farmacodependientes y/o susceptibles de incurrir en hábitos y conductas antisociales y delictivas;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+V. A niños, niñas y adolescentes en riesgo de farmacodependencia, farmacodependientes y/o susceptibles de incurrir en hábitos y conductas antisociales y delictivas;
 
-VI. Mediante la prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores en situación extraordinaria, personas adultas mayores, personas con discapacidad o incapaces sin recursos;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+VI. Mediante la prestación de servicios de asistencia jurídica y de orientación social, especialmente a niños, niñas y adolescentes en situación extraordinaria, personas adultas mayores, personas con discapacidades o incapaces sin recursos;
 
 VII. En rehabilitación de personas con discapacidad;
 
-VIII. Mediante el ejercicio de la tutela de menores, en términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+VIII. Mediante el ejercicio de la tutela de niños, niñas y adolescentes, en términos de las disposiciones legales aplicables;
 
 IX. Mediante el apoyo en educación y capacitación para el trabajo de las personas en situación de vulnerabilidad;
 
-X. Para la educación especial a personas menores de edad o en situación de discapacidad;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+X. Para la educación especial a niñas, niños y adolescentes o personas en situación de discapacidad;
 
 XI. Neurológica, psiquiátrica y psicológica a personas en situación de vulnerabilidad y su familia;
 
@@ -295,11 +327,13 @@ XIV. De las personas afectadas por desastres de origen natural o antropogénico.
 
 E. De supervisión:
 
-I. De la legislación laboral aplicable a menores, en colaboración y auxilio a las autoridades laborales competentes;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+I. De la legislación laboral aplicable a niños, niñas y adolescentes, en colaboración y auxilio a las autoridades laborales competentes;
 
-II. A las instituciones públicas y privadas que alberguen o brinden cuidados alternativos a menores, adultos mayores, mujeres víctimas de maltrato, personas con discapacidad, así como de centros de rehabilitación, y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+II. A las instituciones pública y privadas que alberguen o brinden cuidados alternativos a niños, niñas y adolescentes, adultos mayores, mujeres víctimas de maltrato, discapacitados, así como de centros de rehabilitación, y
 
 III. A las instituciones públicas y privadas que brinden servicios de asistencia social.
 
@@ -533,7 +567,9 @@ XXXVII. Promover acciones para el bienestar de las personas adultas mayores, as�
 
 XXXVIII. Proveer alimentos con alto valor nutritivo a población que por su condición económica así lo requiera;
 
-XXXIX. Operar establecimientos de asistencia social en beneficio de menores en situación extraordinaria, de adultos mayores en situación de desamparo, personas con discapacidad carentes de recursos y de otros sujetos de asistencia social;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+XXXIX. Operar establecimientos de asistencia social en beneficio de niños, niñas y adolescentes en situación extraordinaria, de adultos mayores en situación de desamparo, personas con discapacidad carentes de recursos y de otros sujetos de asistencia social;
 
 XL. Supervisar centros de asistencia públicos y privados que presten servicios de asistencia social a personas vulnerables;
 
@@ -855,7 +891,7 @@ La Procuraduría para Niños, Niñas y la Familia es el organismo público centr
 
 (DEROGADO, P.O. 18 DE MARZO DE 2014)
 
-###### Articulo 59.
+###### Artículo 59.
 
 (DEROGADO, P.O. 18 DE MARZO DE 2014)
 
@@ -989,9 +1025,11 @@ La Procuraduría para Niños, Niñas y la Familia es el organismo público centr
 
 #### SECCIÓN CUARTA. PROCESO ADMINISTRATIVO DE ADOPCIONES DE MENORES INSTITUCIONALIZADOS
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
 ###### Artículo 90.
 
-Es facultad del organismo, a través del Consejo Técnico de Adopciones, conocer de las solicitudes de adopción que se presenten en relación con los menores que se encuentren institucionalizados y en aptitud legal de ser adoptados, así como de emitir su opinión respecto de las promovidas ante el Poder Judicial sobre menores no institucionalizados o, en su caso, de nombrarles un hogar sustituto, de conformidad con lo dispuesto en el Código Civil y de Procedimientos Civiles para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+Es facultad del organismo, a través del Consejo Técnico de Adopciones, conocer de las solicitudes de adopción que se presenten en relación con los niños, niñas y adolescentes que se encuentren institucionalizados y en aptitud legal de ser adoptados, así como de emitir su opinión respecto de las promovidas ante el Poder Judicial sobre menores no institucionalizados o, en su caso, de nombrarles un hogar sustituto, de conformidad con lo dispuesto en el Código Civil y Procesal Civil para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
 ###### Artículo 91.
 
@@ -1001,13 +1039,17 @@ Es facultad del organismo, a través del Consejo Técnico de Adopciones, conocer
 
 (DEROGADO, P.O. 18 DE MARZO DE 2014)
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
 ###### Artículo 93.
 
-Cuando un menor sea susceptible de ser adoptado, el área correspondiente analizará de manera interdisciplinaria las características del menor, así como los expedientes de las familias que desean adoptar, a fin de proponer ante el Consejo Técnico de Adopciones las opciones más adecuadas de empatamiento para armonizar las condiciones especiales del menor y de las familias propuestas.
+Cuando un niño, niña o adolescente sea susceptible de ser adoptado, el área correspondiente analizará de manera interdisciplinaria las características del mismo, así como los expedientes de las familias que desean adoptar, a fin de proponer ante el Consejo Técnico de Adopciones las opciones más adecuadas de empatamiento para armonizar las condiciones especiales del niño, niñas o adolescente y de las familias propuestas.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 ###### Artículo 94.
 
-El Consejo Técnico de Adopciones, atendiendo al interés superior del menor y protegiendo el derecho del mismo a vivir en familia, en base a los estudios que señala el artículo que antecede asignará una familia adecuada a sus necesidades, garantizando un desarrollo humano integral y una vida digna, que le generé las condiciones materiales que le permitan vivir plenamente y alcanzar el máximo bienestar personal, familiar y social posible.
+El Consejo Técnico de Adopciones, atendiendo al interés superior del niño, niña o adolescente y protegiendo el derecho del mismo a vivir en familia, en base a los estudios que señala el artículo que antecede asignará una familia adecuada a sus necesidades, garantizando un desarrollo humano integral y una vida digna, que le genere las condiciones materiales que le permitan vivir plenamente y alcanzar el máximo bienestar personal, familiar y social posible.
 
 ###### Artículo 95.
 
@@ -1093,7 +1135,7 @@ NOVENO.- Los procedimientos y asuntos pertenecientes a "Casa Cuna del Estado de 
 
 Por lo anterior, todas las facultades, derechos y obligaciones correspondientes a "Casa Cuna del Estado de Coahuila", se entenderán vigentes a favor del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, por lo que cualquier referencia que se haga en un contrato o instrumento distinto que los contenga, se entenderá conferido en los términos de lo previsto por el presente Decreto.
 
-DADO en el Salón de Sesiones del Congreso del Estado, en la ciudad de Saltillo, Coahuila de Zaragoza, a los trece días del mes de abril del año dos mil doce.
+DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila de Zaragoza, a los trece días del mes de abril del año dos mil doce.
 
 DIPUTADA PRESIDENTA
 
@@ -1123,7 +1165,7 @@ RUBÉN IGNACIO MOREIRA VALDEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 20 DE NOVIEMBRE DE 2012.
 
@@ -1144,3 +1186,31 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 729.- SE REFORMAN LOS INCISOS K) Y L) DE LA FRACCIÓN I, DEL ARTÍCULO 6; ARTÍCULO 7; LA FRACCIÓN IX DEL APARTADO A, LAS FRACCIONES I Y IV DEL APARTADO B, LAS FRACCIONES V, VI, VIII Y X DEL APARTADO D, LAS FRACCIONES I Y II, APARTADO E DEL ARTÍCULO 10; LA FRACCIÓN XXXIX DEL ARTÍCULO 32 Y LOS ARTÍCULOS 90, 93 Y 94 DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 730.- SE ADICIONA UN INCISO Q) A LA FRACCIÓN I DEL ARTÍCULO 6 DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 735.- SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 6 RECORRIENDO ULTERIORES DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
