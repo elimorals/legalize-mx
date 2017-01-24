@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48155"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2015-06-27"
+last_updated: "2017-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en el Suplemento No. 80 del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -55,11 +55,11 @@ D E C R E T O No. 318
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-###### ARTÍCULO 1º.
+###### ARTÍCULO 1°.
 
-Los usuarios de los servicios públicos de agua potable, alcantarillado y saneamiento, del municipio de Ixtlahuacán, en lo sucesivo la CAPAI, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en unidades de salarios mínimos general del Estado.
+Los usuarios de los servicios públicos de agua potable, alcantarillado y saneamiento, del municipio de Ixtlahuacán, en lo sucesivo la CAPAI, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en unidades de medida y actualización.
 
 ###### ARTÍCULO 2º.
 
@@ -75,9 +75,9 @@ Comprende:
 
 Colonia Gobernadores, Carlos de la Madrid, El Mojotal, Colonia Centro, Colonia Daniel Contreras Lara y Llanos de San Gabriel.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-CUOTA BIMESTRAL 1.680 SM cuota mínima
+CUOTA BIMESTRAL 1.680 UMA cuota mínima
 
 b).- Para uso doméstico casa habitación (Zona Rural)
 
@@ -85,9 +85,9 @@ Comprende:
 
 Jiliotupa, Aquiles Serdán (Tamala), Lázaro Cárdenas, La Presa, Las Trancas, Zinacamitlan, Las Conchas, Plan del Zapote, Cautan y 26 de Julio.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-CUOTA BIMESTRAL 1.384 SM cuota mínima
+CUOTA BIMESTRAL 1.384 UMA cuota mínima
 
 ###### ARTÍCULO 4º.
 
@@ -99,9 +99,9 @@ Comprende:
 
 RESTAURANTES, TALLERES, TORTILLERIAS, LOCALES Y ESTABLECIMIENTOS QUE POR SUS CARACTERISTICAS SU TOMA SE IDENTIFIQUE COMO COMERCIAL, EDIFICIOS PUBLICOS Y PRIVADOS Y OTROS SERVICIOS.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-CUOTA BIMESTRAL 2.160 SM cuota mínima
+CUOTA BIMESTRAL 2.160 UMA cuota mínima
 
 b).- Comercial (Zona Rural y Cabecera)
 
@@ -109,9 +109,9 @@ Comprende:
 
 FARMACIAS, TIENDAS DE ABARROTES, JOYERÍAS, TIENDAS DE ROPA, PAPELERÍAS, FERRETERÍAS, DULCERÍAS, TIENDAS DE DEPORTES, ZAPATERÍAS, TIENDAS DE ARTESANÍAS, REFACCIONARIAS, CONSULTORIOS, MERCERÍAS, MADERERÍAS, TALLERES ELÉCTRICOS, MECÁNICOS, LIBRERÍAS, OFINICAS (SIC) (QUE NOS SEAN PARTE COMPLEMENTARIA DE OTROS SERVICIOS) Y OTRAS QUE POR SUS CARACTERÍSTICAS DE USO DE AGUA SE IDENTIFIQUEN QUE NO OBSTANTE DE SER DE TIPO COMERCIAL, SU USO NO FORMA PARTE INTEGRANTE DEL NEGOCIO.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-CUOTA BIMESTRAL 2.160 SM cuota mínima
+CUOTA BIMESTRAL 2.160 UMA cuota mínima
 
 ###### ARTÍCULO 5º.
 
@@ -123,9 +123,9 @@ Comprende:
 
 FABRICAS DE HIELO Y CUBOS DE HIELO, PALETERIAS, LAVANDERIAS, HOTELES, MOTELES, BUNGALOWS, GASOLINERAS, LAVADOS DE VEHICULOS, HOSPITALES, CLINICAS, SANATORIOS, PLANTAS INDUSTRIALES Y ESTABLECIMIENTOS EN LOS CUALES PROCESAN CUALQUIER TIPO DE PRODUCTOS, ASI COMO ESTABLECIMIENTOS QUE POR SUS CARACTERISTICAS SU TOMA SE IDENTIFIQUE COMO INDUSTRIAL O ALTOS CONSUMOS.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-CUOTA BIMESTRAL 2.160 SM cuota mínima
+CUOTA BIMESTRAL 2.160 UMA cuota mínima
 
 ###### ARTÍCULO 6º.
 
@@ -135,57 +135,65 @@ Comprende:
 
 TODOS AQUELLOS PREDIOS DONDE SE ENCUENTREN NEGOCIOS DE TIPO COMERCIAL Y CASA HABITACION.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-CUOTA BIMESTRAL 2.160 SM cuota mínima
+CUOTA BIMESTRAL 2.160 UMA cuota mínima
 
 ###### ARTÍCULO 7º.
 
 Los usuarios de los servicios de agua potable, pagarán los derechos por la conexión a la red, de conformidad con las siguientes cuotas:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 a).- Domiciliaria de la red de agua potable
 
-sin material 2.889 SM cuota mínima
+sin material 2.889 UMA cuota mínima
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 b).- Reconexiones y/o modificaciones de
 
-las formas originales 2.889 SM cuota mínima
+las formas originales 2.889 UMA cuota mínima
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 c).- Tipo Comercial:
 
-Comercial de ½ pulgada 10.498 SM cuota mínima
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-Comercial de ¾ pulgada 25.310 SM cuota mínima
+Comercial de ½ pulgada 10.498 UMA cuota mínima
 
-Comercial de 1” pulgada 45.015 SM cuota mínima
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-Comercial de 1 ½” pulgada 94.037 SM cuota mínima
+Comercial de ¾ pulgada 25.310 UMA cuota mínima
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+Comercial de 1” pulgada 45.015 UMA cuota mínima
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+Comercial de 1 ½” pulgada 94.037 UMA cuota mínima
 
 ###### ARTÍCULO 8º.
 
 Los usuarios de los servicios de agua potable, pagarán por la conexión a la red de alcantarillado cuando la descarga se realice por debajo de las concentraciones permisibles conforme a las normas técnicas ecológicas y las condiciones particulares de descarga vigente, los derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 a).- Conexión domiciliaria del sistema de
 
-drenaje sin material 3.203 SM cuota mínima
+drenaje sin material 3.203 UMA cuota mínima
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 b).- Reconexión y/o modificaciones a
 
-las descargas 3.203 SM cuota mínima
+las descargas 3.203 UMA cuota mínima
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-c).- Conexión comercial de drenaje 12.642 SM cuota mínima
+c).- Conexión comercial de drenaje 12.642 UMA cuota mínima
 
 ###### ARTÍCULO 9º.
 
@@ -221,15 +229,21 @@ Con independencia de la periodicidad del pago de los derechos establecida en la 
 
 Por la prestación de otros servicios se pagarán los siguientes derechos:
 
-I.- Expedición de constancias de no adeudo: 1 día de salario mínimo.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+I.- Expedición de constancias de no adeudo: 1 Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 II.- Limpieza y sondeo de descargas domiciliarias
 
-En forma manual con varillas: 4 días de salario mínimo.
+en forma manual con varillas: 4 Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 III.- Expedición de constancias de factibilidad de
 
-servicios de agua potable y alcantarillado: 1 día de salario mínimo.
+servicios de agua potable y alcantarillado: 1 Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 16º.
 
@@ -380,3 +394,9 @@ P.O. 4 DE ABRIL DE 2015.
 P.O. 27 DE JUNIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 228 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
