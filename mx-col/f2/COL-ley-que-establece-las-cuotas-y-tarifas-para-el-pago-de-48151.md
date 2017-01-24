@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48151"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2015-06-27"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTÉMOC, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -55,9 +55,11 @@ D E C R E T O No. 316
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTÉMOC, COLIMA.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 1.
 
-Los usuarios de los servicios públicos de agua potable, alcantarillado, y demás que presta la Comisión de agua potable y alcantarillado del Municipio de Cuauhtémoc, Colima, en lo sucesivo la C.A.P.A.M.C. pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente Ley, expresadas en unidades de salario mínimo general diario vigente en el área geográfica en la que está ubicado el Estado de Colima, que resulte de aplicar las cuotas y tarifas establecidas en el presente ordenamiento.
+Los usuarios de los servicios públicos de agua potable, alcantarillado, y demás que presta la Comisión de agua potable y alcantarillado del Municipio de Cuauhtémoc, Colima, en lo sucesivo la C.A.P.A.M.C. pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente Ley, expresadas en Unidades de Medida y Actualización.
 
 ###### ARTÍCULO 2.
 
@@ -67,47 +69,51 @@ El pago de los Derechos a que se refiere el Artículo anterior, se pagarán dura
 
 Por el servicio doméstico de agua potable se pagarán las siguientes tarifas, por cada toma de media pulgada.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-I.- CUOTA FIJA ALTA 2.67 SM
+I.- CUOTA FIJA ALTA 2.67 UMA
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 Comprende la zona Centro de la Cabecera Municipal y las Colonias siguientes: Las Higueras, La Presa, la Griselda Álvarez, Los Monos, El Rastro, Ejidal, San Jerónimo, El Toreo y las Localidades de Quesería, Alcaraces, Palmillas, Alzada, Cóbano, El Parían, El Trapiche, San Joaquín Buenavista, Bajío de la Leona y Ejido Fernández.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-II.- CUOTA FIJA BAJA 1.93 SM
+II.- CUOTA FIJA BAJA 1.93 UMA
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 Comprende las Localidades de Chiapa, Ocotillo, Montitlán y Cerro Colorado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-III.- CUOTA FIJA RESIDENCIAL 3.73 SM
+III.- CUOTA FIJA RESIDENCIAL 3.73 UMA
 
 Comprende el Fraccionamiento San Rafael de la Cabecera Municipal.
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-IV.- CUOTA FIJA RURAL 1.86 SM
+IV.- CUOTA FIJA RURAL 1.86 UMA
 
 ###### ARTÍCULO 4.
 
 Por el servicio comercial de agua potable se pagarán las siguientes tarifas por cada toma de media pulgada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-I.- CUOTA FIJA COMSUMO BAJO 2.67 SM
+I.- CUOTA FIJA COMSUMO BAJO 2.67 UMA
 
 Comprende las agencias de viajes, abarrotes almacenes de ropa, boutiques, carpinterías, cerrajerías, dulcerías, estacionamientos, estanquillos, farmacias, ferreterías, florerías, foto estudio, funerarias, huaracherías, licorerías, loncherías, misceláneas, mini súper, mueblerías, panaderías, papelerías, peluquerías, laminado y pintura, refaccionarias, reparación de aparatos electrodomésticos, reparación de llantas, relojerías, sastrerías, talleres de mecánica y electricidad, tapicerías, templos, tlapalerías, vidrierías y zapaterías.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-II.- CUOTA FIJA CONSUMO MEDIO 3.36 SM
+II.- CUOTA FIJA CONSUMO MEDIO 3.36 UMA
 
 Comprende las academias, alquiler de loza, muebles y manteles, salones de belleza, bares, billares, bodegas de frutas y verdura, bodegas de almacenamiento, carnicería, cenadurías, fábrica de dulces, fondas y cocinas económicas, obradores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-III.- CUOTA FIJA CONSUMO ALTO 3.94 SM
+III.- CUOTA FIJA CONSUMO ALTO 3.94 UMA
 
 Comprende las casas de huéspedes, centros botaneros, edificios públicos de gobierno y espectáculos, fábrica de materiales para construcción, hoteles, moteles, sanitarios, lavado de carros, lavanderías de ropa, molinos de nixtamal, tintorerías, Tortillerías, Albercas.
 
@@ -119,37 +125,41 @@ Por el servicio de agua potable medido se pagarán las siguientes tarifas:
 
 I.- CONSUMO DOMESTICO
 
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
 DE HASTA TARIFA
 
 M3 C/MTS3
 
-0 30 1.86 SM cuota mínima bimestral
+0 30 1.86 UMA cuota mínima bimestral
 
-31 40 0.12 SM
+31 40 0.12 UMA
 
-41 60 0.16 SM
+41 60 0.16 UMA
 
-61 100 0.20 SM
+61 100 0.20 UMA
 
-101 En adelante 0.27 SM
+101 En adelante 0.27 UMA
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 II.- CONSUMO NO DOMESTICO
 
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
 DE HASTA TARIFA
 
 M3 C/MTS3
 
-0 30 2.67 SM cuota mínima bimestral
+0 30 2.67 UMA cuota mínima bimestral
 
-31 40 0.12 SM
+31 40 0.12 UMA
 
-41 60 0.16 SM
+41 60 0.16 UMA
 
-61 100 0.24 SM
+61 100 0.24 UMA
 
-101 En adelante 0.29 SM
+101 En adelante 0.29 UMA
 
 Los metros cúbicos de la cuota mínima no son acumulables, tampoco serán acumulables después de cada lectura de bimestre.
 
@@ -171,13 +181,17 @@ DE HASTA M3 TARIFA C/MTS3/MES
 
 Además de lo anterior y previa a la contratación del servicio, el usuario tendrá las siguientes obligaciones y derechos:
 
-a).- Cubrir el importe de 305 días de salarios, por cada toma conectada a la red sin permiso de la Comisión. Además de pagar el contrato o convenio por regularizar.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+a).- Cubrir el importe de 305 días de Unidades de Medida y Actualización, por cada toma conectada a la red sin permiso de la Comisión. Además de pagar el contrato o convenio por regularizar.
 
 b).- Tendrá derecho a una paja de ½ pulgada, para una pila de 2X2X1.2 con su medidor.
 
 c).- La cuota por contrato o convenio por cada paja a otorgar, siempre y cuando la línea pase por su parcela, será de 101.01 salarios mínimos.
 
-d).- Las tomas que se otorguen serán para uso doméstico, debiendo colocar por parte del usuario un medidor de agua, del cual estará pendiente su funcionamiento.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+d).- La cuota por contrato o convenio por cada paja a otorgar, siempre y cuando la línea pase por su parcela, será de 101.01 Unidades de Medida y Actualización.
 
 e).- Durante el período de agosto a octubre no se dará el servicio por mantenimiento de la red.
 
@@ -185,7 +199,7 @@ e).- Durante el período de agosto a octubre no se dará el servicio por manteni
 
 IV. CONSUMO INDUSTRIAL
 
-DE HASTAM3 TARIFA C/MTS3 TRIMESTRAL
+DE HASTA M3 TARIFA C/MTS3 TRIMESTRAL
 
 0 60 3.00
 
@@ -199,21 +213,21 @@ Los metros cúbicos de la cuota mínima no son acumulables, tampoco serán acumu
 
 Los usuarios de los servicios de agua potable pagarán los derechos por la conexión individual de media pulgada a la red no incluye mano de obra, ni los materiales, en los entronques o conexiones éstos son cubiertos por los usuarios que solicitan, siendo supervisados por personal de la C.A.P.A.M.C. cumpliendo con la normatividad de la Comisión Nacional del Agua.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-I.- Uso Doméstico 5.28 SM
+I.- Uso Doméstico 5.28 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-II.- Uso Comercial 7.93 SM
+II.- Uso Comercial 7.93 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-III.- Reconexiones 6.61 SM
+III.- Reconexiones 6.61 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-IV.- Industrial 11.86 SM
+IV.- Industrial 11.86 UMA
 
 ###### ARTÍCULO 7.
 
@@ -247,19 +261,25 @@ II.- por el saneamiento, el usuario pagará por cada conexión de alcantarillado
 
 Los usuarios del servicio de la red de alcantarillado pagarán las siguientes tarifas por cada entronque individual a la red, no incluye mano de obra ni materiales en los entronques o conexiones estos son cubiertos por los usuarios solicitantes siendo supervisados por personal de la C.A.P.A.M.C.
 
-I.- Por Uso Doméstico 5.88 SM
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-II.- Por Uso Comercial 7.93 SM
+I.- Por Uso Doméstico 5.28 UMA
 
-III.- Por Reconexiones y Modificaciones en las descargas 6.61 SM
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-IV.- Por Uso Industrial 11.86 SM
+II.- Por Uso Comercial 7.93 UMA
+
+III.- Por Reconexiones y Modificaciones en las descargas 6.61 UMA
+
+IV.- Por Uso Industrial 11.86 UMA
 
 Entronque Colectivo; se entiende por entronque colectivo, la conexión a la línea que abastece a los nuevos fraccionamientos o desarrollo comercial, industrial o habitaciones a la red municipal al cual se aplicará.
 
 Si cuenta con fuente de abasto se cobrará el importe de los gastos que origine el entronque.
 
-Si no cuenta con fuente de abasto, además de los gastos de entronque se cobrará por derechos ----1,650.86 SM, por cada litro por segundo de agua potable que requiera como gasto medio anual, mismo que será determinado por el organismo operador del Municipio.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+Si no cuenta con fuente de abasto, además de los gastos de entronque se cobrará por derechos - - - - 1,650.86 Unidades de Medida y Actualización, por cada litro por segundo de agua potable que requiera como gasto medio anual, mismo que será determinado por el organismo operador del Municipio.
 
 Por entronque colectivo a la red de drenaje se cobrará el 35 por ciento del importe a pagar por derechos del entronque agua potable.
 
@@ -271,15 +291,21 @@ En cualquiera de los casos comprendidos en este artículo se deberá recabar la 
 
 Por la prestación de otros servicios se pagarán los siguientes derechos:
 
-I.- Expedición de constancias de no adeudos 2 SM
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+I.- Expedición de constancias de no adeudos 2 UMA
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 II.- Limpieza y sondeo de descargas domiciliarias
 
-En forma manual con varillas 5 SM
+En forma manual con varillas 5 UMA
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 III.- Expedición de constancias de factibilidad
 
-De servicios de agua potable y alcantarillado 10 SM
+De servicios de agua potable y alcantarillado 10 UMA
 
 ###### ARTÍCULO 12.
 
@@ -402,6 +428,14 @@ SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad 
 P.O. 27 DE JUNIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 228 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Colima”.
+
+El Gobernador del Estado dispondrá se publique, circule y observe.
 
 ###### ARTÍCULO UNICO.
 
