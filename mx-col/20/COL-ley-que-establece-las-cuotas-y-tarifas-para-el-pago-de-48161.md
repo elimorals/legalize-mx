@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48161"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2015-08-22"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -51,9 +51,11 @@ D E C R E T O No. 321
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 1.
 
-Los usuarios de los servicios públicos de agua potable, alcantarillado, saneamiento y demás que presta la Comisión de Agua Potable, Drenaje y Alcantarillado de Manzanillo, en lo sucesivo la CAPDAM, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en unidades de salario mínimo general diario vigente del área geográfica en la que está ubicada el Estado de Colima.
+Los usuarios de los servicios públicos de agua potable, alcantarillado, saneamiento y demás que presta la Comisión de Agua Potable, Drenaje y Alcantarillado de Manzanillo, en lo sucesivo la CAPDAM, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en Unidades de Medida y Actualización.
 
 ###### ARTICULO 2.
 
@@ -373,7 +375,9 @@ Primeros
 
 0-3 4-6 7-12 13-24
 
-(En Salarios mínimos)
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+(En Unidades de Medida y Actualización)
 
 DBO5 0.02663 0.04042 0.12540 0.42051
 
@@ -838,6 +842,12 @@ P.O. 27 DE JUNIO DE 2015.
 P.O. 22 DE AGOSTO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 228 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
