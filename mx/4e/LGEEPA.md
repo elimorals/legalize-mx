@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2016-05-13"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -1928,15 +1928,25 @@ La Secretaría y las demás dependencias competentes, establecerán los mecanism
 
 ARTICULO 87 BIS 1.- Los ingresos que la Federación perciba por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de flora y fauna silvestre, conforme lo determinen los ordenamientos aplicables, se destinarán a la realización de acciones de preservación y restauración de la biodiversidad en las áreas que constituyan el hábitat de las especies de flora y fauna silvestre respecto de las cuales se otorgaron los permisos, licencias o autorizaciones correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2017)</small>
 
-ARTICULO 87 BIS 2.- El Gobierno Federal, los gobiernos de los Estados, del Distrito Federal y de los Municipios, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
+ARTICULO 87 BIS 2.- El Gobierno Federal, los gobiernos de los Estados, de la Ciudad de México y de los Municipios, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La regulación sobre trato digno y respetuoso se formulará con base a los siguientes principios básicos:
 
-> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 2015)</small>
+I. Suministrar a los animales agua y alimento suficientes, a efecto de mantenerlos sanos y con una nutrición adecuada;
 
-Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyen condiciones de cautiverio, exhibición, transporte, alimentación, explotación, entrenamiento, manutención y sacrificio de los animales, así como vigilar su cumplimiento.
+II. Proporcionar a los animales un ambiente adecuado para su descanso, movimiento y estancia, de acuerdo a cada tipo de especie;
+
+III. Suministrar a los animales atención médica preventiva y en caso de enfermedad brindar tratamiento médico expedito avalado por un médico veterinario;
+
+IV. Permitir a los animales la expresión de su comportamiento natural, y
+
+V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie.
+
+Asimismo, en el ámbito de sus respectivas competencias, establecerán la prohibición de organizar, inducir o provocar peleas de perros, determinando las sanciones correspondientes.
+
+Corresponde al Gobierno Federal expedir las normas oficiales mexicanas que determinen los principios básicos de trato digno y respetuoso previsto por esta Ley, que incluyen condiciones de captura, cautiverio, comercialización, cuarentena, entrenamiento, exhibición, explotación, manutención, transporte, y sacrificio de los animales, así como vigilar su cumplimiento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3851,3 +3861,11 @@ D.O.F. 13 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 39 DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 87 BIS 2 DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas competencias, deberán adecuar la legislación en un plazo no mayor a 360 días siguientes al día de su publicación en el Diario Oficial de la Federación, para dar cumplimiento al presente Decreto.
