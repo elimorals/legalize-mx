@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2016-08-09"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -963,6 +965,10 @@ VI. En materia de desarrollo económico y social:
 
 3. Coadyuvar con la federación y el estado para el desarrollo integral de sus comunidades.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2017)</small>
+
+4. Promover y proteger los derechos de asociación, capacitación y salud, de los trabajadores no asalariados, tales como, aseadores de calzado; estibadores, maniobristas y clasificadores de frutas y legumbres; mariachis; músicos, trovadores y cantantes; organilleros; artistas de la vía pública, plomeros, hojalateros, afiladores y reparadores de carrocerías; fotógrafos; mecanógrafos y peluqueros; albañiles; reparadores de calzado; pintores; trabajadores auxiliares de los panteones; cuidadores y lavadores de vehículos; compradores de objetos varios, ayateros; vendedores de billetes de lotería, de publicaciones y revistas atrasadas; trabajadores sexuales; y demás individuos que desarrollen cualquier actividad similar a las anteriores, a través de la expedición de licencias de trabajo expedidas por la autoridad administrativa que determine el reglamento correspondiente.
+
 VII. En materia de educación y cultura, asistencia y salud públicas:
 
 1. Fomentar las actividades educativas, científicas, tecnológicas, culturales, recreativas y deportivas.
@@ -973,7 +979,9 @@ VII. En materia de educación y cultura, asistencia y salud públicas:
 
 4. Promover y procurar la salud pública en el Municipio y auxiliar a las autoridades sanitarias estatales y municipales en la planeación y ejecución de sus disposiciones.
 
-5. Prevenir y combatir los juegos prohibidos, la vagancia, el alcoholismo, la prostitución, la farmacodependencia y toda actividad que implique una conducta antisocial, con el apoyo de las distintas dependencias oficiales.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+5. Prevenir y combatir los juegos prohibidos, la vagancia, el alcoholismo, la farmacodependencia y toda actividad que implique una conducta antisocial, con el apoyo de las distintas dependencias oficiales.
 
 6. Cumplir y hacer cumplir las disposiciones legales en materia electoral, de cultos y de protección integral a menores.
 
@@ -1367,9 +1375,11 @@ Los titulares de la Administración Pública Municipal centralizada, serán desi
 
 El titular de la Secretaría del Ayuntamiento cumplirá los mismos requisitos exigidos para ser munícipe y las obligaciones generales que este código impone a los miembros del Ayuntamiento. De preferencia deberá ser licenciado en derecho.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 126.
 
-El Secretario del Ayuntamiento, además de las que le señale el Reglamento Interior, tendrá las siguientes facultades y obligaciones:
+El Secretario del Ayuntamiento, será nombrado por el ayuntamiento a propuesta del Presidente Municipal como lo señala el artículo 124 del presente Código, sus ausencias temporales serán cubiertas por quien designe el ayuntamiento, y además de las que le señale el Reglamento Interior, tendrá las siguientes facultades y obligaciones:
 
 I. Previo acuerdo del presidente municipal o de las dos terceras partes de los regidores, citar por escrito a los miembros del Ayuntamiento a las sesiones de Cabildo, mencionando en el citatorio, lugar, día y hora de la sesión, así como la demás información que se especifica en este código a propósito del funcionamiento del Ayuntamiento.
 
@@ -1405,7 +1415,9 @@ XV. Expedir copias certificadas de documentos y constancias que obren en el arch
 
 XVI. Tramitar los nombramientos de los servidores públicos y empleados municipales.
 
-XVII. Expedir las constancias de residencia que le soliciten los habitantes del Municipio.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+XVII. Expedir las constancias de identidad, residencia y vecindad que le soliciten los habitantes del Municipio.
 
 XVIII. Las demás que le confiere ésta y otras leyes, reglamentos, bandos municipales y acuerdos del Ayuntamiento.
 
@@ -1475,7 +1487,9 @@ IV. Coadyuvar con las autoridades judiciales, cuando lo soliciten.
 
 V. Participar en la organización y ejecución de los programas del Sistema Municipal de Protección Civil para la prevención y solución de situaciones de emergencia.
 
-VI. Mantener y vigilar la tranquilidad y seguridad pública, evitando toda alteración del orden social, impidiendo la realización de los juegos prohibidos y procurando prevenir y controlar la prostitución y la vagancia.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+VI. Mantener y vigilar la tranquilidad y seguridad pública, evitando toda alteración del orden social, impidiendo la realización de los juegos prohibidos y procurando prevenir y controlar la vagancia.
 
 VII. Llevar control y registro de infractores a los reglamentos municipales y de hechos delictuosos de que tenga conocimiento.
 
@@ -2170,6 +2184,10 @@ III. Los reglamentos que tiendan a asegurar la creación, funcionamiento y prest
 38). Funcionamiento de expendios de bebidas alcohólicas.
 
 39). Anuncios.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2017)</small>
+
+40). Reglamento para los Trabajadores no Asalariados.
 
 ###### ARTÍCULO 183.
 
@@ -4368,3 +4386,25 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 733.- SE REFORMAN EL NUMERAL 5, DE LA FRACCIÓN VII, DEL ARTÍCULO 102; LA FRACCIÓN VI DEL ARTÍCULO 131. SE ADICIONAN UN NUMERAL 4, A LA FRACCIÓN VI DEL ARTÍCULO 102 Y UN NUMERAL 40 A LA FRACCIÓN III DEL ARTÍCULO 182; DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Municipios contarán con un plazo de 90 días para expedir el reglamento sobre trabajo no asalariado al que se refiere la presente iniciativa de reforma.
+
+###### ARTÍCULO TERCERO.
+
+Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 734.- SE REFORMA EL PRIMER PÁRRAFO Y SE COMPLEMENTA LA FRACCIÓN XVII DEL ARTÍCULO 126; DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado
