@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48153"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2015-06-27"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERÍA, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -49,9 +49,11 @@ LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIO
 
 ### CAPITULO I. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 1.
 
-Los usuarios de los servicios públicos de agua potable, alcantarillado, saneamiento y demás que presta La Comisión de Agua Potable y Alcantarillado del Municipio de Armería, Colima, en lo sucesivo el Organismo, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en unidades de salario mínimo general diario vigente en el área geográfica en el que éste ubicado el Estado de Colima.
+Los usuarios de los servicios públicos de agua potable, alcantarillado, saneamiento y demás que presta La Comisión de Agua Potable y Alcantarillado del Municipio de Armería, Colima, en lo sucesivo el Organismo, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en Unidades de Medida y Actualización.
 
 ###### ARTICULO 2.
 
@@ -839,7 +841,9 @@ En el caso de nuevos fraccionamientos o predios, edificaciones comerciales e ind
 
 I.- Si cuenta con fuente de abastecimiento se cobrará el importe de los gastos que se originen en el entronque; y
 
-II.- Si no cuenta con fuente de abastecimiento, además de los gastos de entronque, se cobrará por derechos la cantidad de 2,083.995 salarios mínimos por cada litro por segundo de agua potable que requieran como gasto máximo diario, mismo que será determinado por el Organismo, en base al proyecto autorizado del desarrollo en cuestión.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+II.- Si no cuenta con fuente de abastecimiento, además de los gastos de entronque, se cobrará por derechos la cantidad de 2,083.995 Unidades de Medida y Actualización por cada litro por segundo de agua potable que requieran como gasto máximo diario, mismo que será determinado por el Organismo, en base al proyecto autorizado del desarrollo en cuestión.
 
 Los constructores de conjuntos habitacionales o desarrollos comerciales tendrán la obligación de entregar al organismo operador las instalaciones y conexiones individuales de agua potable con un sistema de medición de los servicios, con las características que señale el Organismo, mismo que realizará la inspección de las instalaciones, en caso de no existir red.
 
@@ -1180,3 +1184,9 @@ P.O. 4 DE ABRIL DE 2015.
 P.O. 27 DE JUNIO DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor el día 01 de julio de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 228 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
