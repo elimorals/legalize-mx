@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2015-06-27"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -49,11 +49,11 @@ LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 ###### ARTÍCULO 1.
 
-Los usuarios de los servicios públicos de agua potable, alcantarillado, saneamiento y demás que presta la Comisión Intermunicipal de Agua Potable y Alcantarillado de los Municipios de Colima y Villa de Álvarez, en lo sucesivo "LA CIAPACOV", pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente Ley, expresadas en unidades de salario mínimo general diario del área geográfica en la que está ubicado el Estado de Colima.
+Los usuarios de los servicios públicos de agua potable, alcantarillado, saneamiento y demás que presta la Comisión Intermunicipal de Agua Potable y Alcantarillado de los Municipios de Colima y Villa de Álvarez, en lo sucesivo "LA CIAPACOV", pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente Ley, expresadas en Unidades de Medida y Actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
@@ -135,7 +135,9 @@ En el caso de los usuarios a que se refiere el presente artículo, que consuman 
 
 El servicio medido de agua potable, alcantarillado y saneamiento para uso comercial, institucional y de servicios, comprende:
 
-Abarrotes, agencias de viaje, almacenes de ropa, alquiler de loza y manteles, salones de belleza, boutiques, bufetes, consultorios, despachos y oficinas, cerrajerías, depósito de vinos y licores, venta de dulces, estacionamientos, estanquillos, farmacias, ferreterías, florerías, estudios fotográficos, venta de huaraches, zapaterías, imprentas, mini súper, misceláneas, mueblerías, expendio de nieves y paletas, papelerías, peluquería, editoriales de periódicos, refaccionarías, relojerías, reparación de aparatos electrónicos y electrodomésticos, reparación de llantas, sastrerías, servicio de transporte y fletes, servicio auxiliar de diagnóstico, venta de sombreros, talleres mecánicos, de pintura, laminado, eléctrico y torno, tapicería, tienda de regalos, tlapalería, venta de libros, periódicos y revistas, alquiler de videocasetes, vidrierías, clubes deportivos, sindicatos, salones de fiesta, academias, auto baños, bares, carnicerías, instituciones de asistencia privada, instituciones religiosas, clubes sociales, colegios, guarderías y escuelas particulares, cines, instituciones bancarias, fondas y cocinas económicas, funerarias, gasolineras, lavado de muebles, lavanderías y planchadurías, venta de tortillas, vulcanizadoras y vitalizadoras de llantas, lencerías y los que resulten de acuerdo a las características de la toma que se identifiquen como uso comercial.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+Abarrotes, agencias de viaje, almacenes de ropa, alquiler de loza y manteles, salones de belleza, boutiques, bufetes, consultorios, despachos y oficinas, cerrajerías, depósito de vinos y licores, venta de dulces, estacionamientos, estanquillos, farmacias, ferreterías, florerías, estudios fotográficos, venta de huaraches, zapaterías, imprentas, mini súper, misceláneas, mueblerías, expendio de nieves y paletas, papelerías, peluquería, editoriales de periódicos, refaccionarías, relojerías, reparación de aparatos electrónicos y electrodomésticos, reparación de llantas, sastrerías, servicio de transporte y fletes, servicio auxiliar de diagnóstico, venta de sombreros, talleres mecánicos, de pintura, laminado, eléctrico y torno, tapicería, tienda de regalos, tlapalería, venta de libros, periódicos y revistas, alquiler de videocasetes, vidrierías, clubes deportivos, sindicatos, salones de fiesta, academias, auto baños, bares, restaurantes y establecimientos que expendan alimentos condimentados, carnicerías, instituciones de asistencia privada, instituciones religiosas, clubes sociales, colegios, guarderías y escuelas particulares, cines, instituciones bancarias, fondas y cocinas económicas, funerarias, gasolineras, lavado de muebles, lavanderías y planchadurías, venta de tortillas, vulcanizadoras y vitalizadoras de llantas, lencerías y los que resulten de acuerdo a las características de la toma que se identifiquen como uso comercial.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -151,13 +153,19 @@ Los usuarios a que se refiere este artículo cubrirán adicionalmente, el import
 
 En el caso de los usuarios que consuman hasta diez metros cúbicos mensuales de agua, pagarán el 60% de la cuota mínima del concepto de saneamiento.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2017)</small>
+
+En los predios e inmuebles deshabitados o que no hagan uso del servicio de agua potable, cuenten o no con servicio medido, se les determinará como cuota mensual, únicamente media Unidad de Medida y Actualización por concepto de Alcantarillado y Saneamiento, previa inspección efectuada por personal autorizado de "LA CIAPACOV".
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 5.
 
 Los servicios de agua potable en "servicio medido", alcantarillado y saneamiento para uso industrial comprende:
 
-Embotelladoras; fábricas de: dulces, huaraches, sombreros, artesanía, hielo, cubos de hielo, paletas, nieves y telas; purificadora de agua; bloqueras; molinos de nixtamal; pastelerías; panaderías; restaurantes; hoteles; moteles; bungalows; hospitales; clínicas; plantas industriales y establecimientos que por las características de su toma se identifiquen como industriales o altos consumidores.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+Embotelladoras; fábricas de: dulces, huaraches, sombreros, artesanía, hielo, cubos de hielo, paletas, nieves y telas; purificadora de agua; bloqueras; molinos de nixtamal; pastelerías; panaderías; hoteles; moteles; bungalows; hospitales; clínicas; plantas industriales y establecimientos que por las características de su toma se identifiquen como industriales o altos consumidores.
 
 Los usuarios en los municipios de Colima y Villa de Álvarez comprendidos en ese artículo, pagarán los derechos que resulte de aplicar la siguiente:
 
@@ -1178,6 +1186,20 @@ P.O. 4 DE ABRIL DE 2015.
 P.O. 27 DE JUNIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 117 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA, VILLA DE ÁLVAREZ Y TECOMÁN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 228 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
