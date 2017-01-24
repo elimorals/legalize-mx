@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-y-trato-digno-a-los-seres-sintientes-para-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2016-10-14"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -275,6 +275,14 @@ VII.- Los certificados que se otorguen; y
 
 VIII.- Los animales considerados potencialmente peligrosos;
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2017)</small>
+
+Cualquier incidente producido por animales potencialmente peligrosos, conocidos por autoridades administrativas o judiciales, se hará constar en la hoja registral de cada animal.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2017)</small>
+
+Así mismo se hará constar en cada hoja registral un diagnóstico anual que acredite la situación sanitaria del animal y la inexistencia de enfermedades o trastornos que lo hagan especialmente peligroso.
+
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
 
 IX.- Las demás que establezca el reglamento de la presente Ley;
@@ -331,23 +339,31 @@ IX.- El uso de animales en la celebración de ritos, y usos tradicionales medici
 
 X.- Entrenar animales con fines ilícitos;
 
-XI.- El uso de animales vivos, como instrumento de entrenamiento en animales de guardia, ataque, o como medio para verificar su agresividad; y
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2017)</small>
+
+XI. El adiestramiento de animales dirigido exclusivamente a acrecentar y reforzar su agresividad.
+
+Quedan exceptuados de lo previsto en el párrafo anterior los perros y animales pertenecientes a las fuerzas armadas y cuerpos de seguridad.
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+XII.- El uso de animales vivos, como instrumento de entrenamiento en animales de guardia, ataque, o como medio para verificar su agresividad;
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
 
-XII.- La celebración y realización de espectáculos circenses públicos o privados en los cuales se utilicen animales vivos sea cual sea su especie, con fines de explotación, exposición, exhibición y/o participación.
+XIII.- La celebración y realización de espectáculos circenses públicos o privados en los cuales se utilicen animales vivos sea cual sea su especie, con fines de explotación, exposición, exhibición y/o participación.
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2014)</small>
 
-XIII.- Los desfiles de animales por las vialidades del Estado, con fines circenses
+XIV.- Los desfiles de animales por las vialidades del Estado, con fines circenses
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2015)</small>
 
-XIV.- Las corridas de toros, novillos, becerros o vaquillas y los rejoneos; el entrenamiento de animales para su utilización en este tipo de espectáculos, así como las tientas;
+XV.- Las corridas de toros, novillos, becerros o vaquillas y los rejoneos; el entrenamiento de animales para su utilización en este tipo de espectáculos, así como las tientas;
 
 > <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2015)</small>
 
-XV.- Las demás que establezca la presente Ley y los ordenamientos jurídicos aplicables.
+XVI.- Las demás que establezca la presente Ley y los ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
@@ -379,9 +395,17 @@ VII.- La persona que tenga un animal de raza que haya adquirido, cuyo objeto no 
 
 VIII.- Para la presencia y circulación en espacios públicos de los Animales Potencialmente Peligrosos, deberán llevar el equipamiento apropiado a la tipología racial del animal para ser conducidos y controlados, cuidando de no alterar de manera sustancial su conducta, en cuestión de volverlos más agresivos o inestables.
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-IX.- Para el caso de la tenencia de animales potencialmente peligrosos, se requerirá la previa obtención de una licencia administrativa, que será otorgada por los Ayuntamientos, en términos del reglamento respectivo.
+IX.- Para el caso de la tenencia de animales potencialmente peligrosos, se requerirá la previa obtención de una licencia administrativa, que será otorgada por los Ayuntamientos, en términos de la presente Ley y del reglamento respectivo. El otorgamiento de la licencia se realizará una vez se haya verificado el cumplimiento de al menos los siguientes requisitos:
+
+a) Ser mayor de edad y no estar incapacitado para proporcionar los cuidados necesarios al animal.
+
+b) No haber sido condenado por delitos de homicidio, lesiones, tortura, contra la libertad o contra la integridad física, la libertad sexual y la salud, así como no haber cometido infracciones en materia de tenencia de animales potencialmente peligrosos.
+
+c) Certificado de aptitud psicológica, otorgado por institución pública.
+
+d) Acreditación de haber contratado un seguro de responsabilidad civil por daños a terceros que puedan ser causados por sus animales, por la cuantía mínima que reglamentariamente se determine.
 
 ###### Artículo 23.
 
@@ -922,3 +946,11 @@ P.O. 14 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para adecuar el reglamento respectivo, el Ejecutivo del Estado contará con un plazo de 60 días naturales, a partir de la entrada en vigor del presente Decreto, el cual deberá establecer los criterios para considerar a un animal potencialmente peligroso, y los requisitos para que los Ayuntamientos otorguen las licencias a las que se refiere la presente reforma, incluyendo dentro de sus disposiciones la obligación de contar con un curso de acreditación en el manejo de animales.
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 722.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1877 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 22; SE ADICIONAN DOS PÁRRAFOS A LA FRACCIÓN VIII DEL ARTÍCULO 15, Y LA FRACCIÓN XI AL ARTÍCULO 20 RECORRIÉNDOSE LAS ULTERIORES, DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
