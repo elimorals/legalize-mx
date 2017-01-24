@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48159"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2015-06-27"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -49,11 +49,11 @@ LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIO
 
 ### CAPITULO I. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 1.
 
-Los usuarios de los servicios públicos de agua potable y alcantarillado, saneamiento y demás que presta la Comisión de Agua Potable, Drenaje y Alcantarillado del Municipio de Tecomán, Colima, en lo sucesivo la COMAPAT, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en unidades de salario mínimo general diario vigente en el área geográfica en la que está ubicado el Estado de Colima.
+Los usuarios de los servicios públicos de agua potable y alcantarillado, saneamiento y demás que presta la Comisión de Agua Potable, Drenaje y Alcantarillado del Municipio de Tecomán, Colima, en lo sucesivo la COMAPAT, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -79,6 +79,8 @@ I.- Por los servicios de agua potable en servicio “sin medidor”, alcantarill
 
 Los usuarios cuyos servicios se ubiquen en estos incisos pagarán la siguiente cuota fija mensual:
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
 CUOTA
 
 AGUA ALCANTA SANEA
@@ -89,13 +91,15 @@ a).-Popular uno. Comprende:
 
 Casas de materiales económicos,
 
-no duraderos. 1.205 SM .2410 .65126
+no duraderos. 1.205 UMA .2410 .65126
 
 b).- Popular dos. Comprende:
 
 Casas de ladrillo con teja de barro,
 
 cemento o asbesto. 1.724 .3448 .65126
+
+2
 
 c).- Popular tres. Comprende:
 
@@ -193,6 +197,92 @@ grande 3.826 .7652 2.2956
 
 No estarán obligados al pago de derechos por servicio de saneamiento aquellos usuarios de este inciso, que aun cuando cuenten con el servicio de alcantarillado, no sea factible proporcionar el servicio de saneamiento.
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 228 PUBLICADO EN EL P.O. 24 DE ENERO DE 2017 SE ADVIERTE QUE EL CONTENIDO DE LOS INCISOS 1.1. AL 1.10. ES SIMILAR AL QUE TUVO EN SU FRACCIÓN I HASTA ANTES DE LA REFORMA PUBLICADA EN EL P.O. DE 25 DE DICIEMBRE DE 2010. VÉASE LA CRONOLOGÍA DE ESTE ARTÍCULO]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+
+1.1. (…) (SIC)
+
+Casas de materiales económicos,
+
+no duraderos. 1.205 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+
+1.2. (…) (SIC)
+
+Casas de Ladrillo con teja de barro,
+
+cemento o asbesto. 1.724 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+
+1.3. (…) (SIC)
+
+Pie de casa, con habitación de vaciado
+
+y acabados económicos. 1.842 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+
+1.4. (…) (SIC)
+
+Casa habitación, de vaciado, bóveda y
+
+concreto con acabado económico. 2.244 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+
+1.5. (…) (SIC)
+
+Casa habitación con bóveda y vaciado de
+
+concreto, de dos plantas, de interés social,
+
+acabados económicos 2.480UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+
+1.6. (…) (SIC)
+
+Casa habitación con bóveda y vaciado de
+
+concreto, de dos plantas, con acabados de
+
+primera 3.047UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+
+1.7. (…) (SIC)
+
+Comprende casas habitación de popular
+
+uno a popular cuatro con tendajón 2.267 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+
+1.8. (…) (SIC)
+
+Comprende: Todas aquellas casas habitación que por su tipo de construcción se consideren como residenciales, teniendo un frente mínimo de terreno de 10 metros y una superficie mínima de 300 metros cuadrados; así mismo encuadran en esta categoría las casas habitación de más de dos pisos y casas habitación de vaciado, bóveda y concreto con acabados de primera calidad. 4.535 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+
+1.9. (…) (SIC)
+
+a) Consumo Bajo. 1.323 UMA
+
+b) Consumo Alto. 2.669 UMA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+
+1.10. (…) (SIC)
+
+a).- Enramadas. 2.386 UMA
+
+b).- Construcción pequeña. 2.669 UMA
+
+c).- Construcción grande. 3.826 UMA
+
 II.- Por los servicios de agua potable en “servicio medido”, alcantarillado y saneamiento para uso doméstico se pagarán los derechos de conformidad con la siguiente tarifa:
 
 a).- DOMÉSTICO.- Comprende las señaladas en la fracción anterior y pagarán la siguiente tarifa mensual que resulte de conformidad con aplicar la siguiente tabla:
@@ -222,6 +312,16 @@ DE HASTA
 90.01 a 110.00 0.147 0.0294 0.61963
 
 110.01 en adelante 0.183 0.0366 0.61963
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 228 PUBLICADO EN EL P.O. 24 DE ENERO DE 2017 SE ADVIERTE QUE EL CONTENIDO DEL CUADRO DE LA FRACCIÓN II “SERVICIO MEDIDO” ES SIMILAR AL QUE TUVO EN SU FRACCIÓN II HASTA ANTES DE LA REFORMA PUBLICADA EN EL P.O. DE 25 DE DICIEMBRE DE 2010. VÉASE LA CRONOLOGÍA DE ESTE ARTÍCULO]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2017)</small>
+
+II) SERVICIO MEDIDO:
+
+DOMÉSTICO.- […] (SIC)
+
+[N. DE E. VÉASE CUADRO EN EL P.O. DE 24 DE ENERO DE 2017, PÁGINA 181.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -765,6 +865,12 @@ a) Si es casa habitación con un negocio comercial o industrial, la cuota mayor 
 
 b) Si son más de dos los tipos de uso en el mismo predio, la cuota mayor se pagará al 100 por ciento y las demás al 50 por ciento de su cuota.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2017)</small>
+
+ARTICULO 9 BIS.- No será aplicable la relación de tarifas contenida en el artículo anterior, cuando se trate de predios donde coexistan una vivienda y un negocio comercial o industrial, y el último no rebase el 50 por ciento de la superficie del inmueble; en cuyo caso únicamente se pagará la cuota menor.
+
+En el supuesto descrito en el párrafo anterior, el servicio se considerará como de uso doméstico, para efectos de la reducción, por falta oportuna de pago contemplada en el artículo 77 de la Ley de Aguas del Estado de Colima. Por lo tanto, sólo cuando el usuario haya cesado el pago del servicio por cinco bimestres, podrá la COMAPAT realizar tal reducción; garantizando siempre el suministro básico e indispensable del volumen de agua necesario para la vida y salud de los usuarios.
+
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10.
@@ -877,51 +983,79 @@ I.- Contratación individual:
 
 A) Tratándose de tomas de ½ pulgada de diámetro, hasta 6 metros de longitud o fracción:
 
-1) Uso doméstico 11.658 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-2) Uso comercial consumo bajo 19.220 SM
+1) Uso doméstico 11.658 UMA
 
-3) Uso comercial medio 29.027 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-4) Uso comercial alto 46.731 SM
+2) Uso comercial consumo bajo 19.220 UMA
 
-5) Uso industrial, previo acuerdo de factibilidad 60.395 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+3) Uso comercial medio 29.027 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+4) Uso comercial alto 46.731 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+5) Uso industrial, previo acuerdo de factibilidad 60.395 UMA
 
 B) Tratándose de tomas de ¾ pulgadas de diámetro:
 
-1) Uso doméstico 27.970 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-2) Uso comercial 56.078 SM
+1) Uso doméstico 27.970 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+2) Uso comercial 56.078 UMA
 
 3) Uso industrial según acuerdo de factibilidad emitido por la COMAPAT.
 
 C) Tratándose de tomas de 1 pulgada de diámetro:
 
-1) Uso comercial 116.175 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+1) Uso comercial 116.175 UMA
 
 2) Uso industrial, según acuerdo de factibilidad emitido por la COMAPAT.
 
 D) Tratándose de tomas de 1 1/2 pulgada de diámetro:
 
-1) Uso comercial 255.577 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+1) Uso comercial 255.577 UMA
 
 2) Uso industrial según acuerdo de factibilidad emitido por la COMAPAT.
 
 E) Tratándose de tomas de 2 pulgadas de diámetro:
 
-1) Uso comercial 511.154 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+1) Uso comercial 511.154 UMA
 
 2) Uso industrial según acuerdo de factibilidad emitido por la COMAPAT.
 
 II.- Los usuarios a que se refiere este artículo, que excedan los 6 metros de longitud cubrirán adicionalmente:
 
-A).- En uso doméstico por cada metro lineal 2.30 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-B).- En uso comercial bajo por cada metro lineal 3.4839 SM
+A).- En uso doméstico por cada metro lineal 2.30 UMA
 
-C).- En uso comercial medio por cada metro lineal 5.8053 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-D).- En uso comercial medio por cada metro lineal 5.8053 SM
+B).- En uso comercial bajo por cada metro lineal 3.4839 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+C).- En uso comercial medio por cada metro lineal 5.8053 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+D).- En uso comercial medio por cada metro lineal 5.8053 UMA
 
 Las cuotas anteriores no incluyen el costo de los materiales ni del medidor empleados en las obras necesarias para la conexión. Por lo que el costo de los materiales y los derechos que se causen por la mano de obra, serán por cuenta del interesado.
 
@@ -931,39 +1065,39 @@ Las conexiones industriales al sistema se cobraran según resultado del estudio 
 
 Los usuarios pagarán la reconexión a la red de agua potable cuando la suspensión sea por causa imputable al propio usuario conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 I.- Por reconexión al servicio en el
 
-uso Domestico 6.048 SM
+uso Domestico 6.048 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 II.- Por reconexión al servicio en el
 
-uso comercial consumo bajo 7.164 SM
+uso comercial consumo bajo 7.164 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 III.- Por reconexión al servicio en el
 
-uso comercial consumo medio 8.706 SM
+uso comercial consumo medio 8.706 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 IV.- Por reconexión al servicio en el
 
-uso comercial consumo alto 11.144 SM
+uso comercial consumo alto 11.144 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 V.- Por reconexión al servicio en el uso industrial, la cuota se fijara de acuerdo al estudio de factiblidad (sic) emitido por la COMAPAT
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 VI.- En los sistemas rurales y
 
-comerciales en playas 8.571 SM
+comerciales en playas 8.571 UMA
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -1047,9 +1181,9 @@ Dicho descuento se aplicará exclusivamente a los lotes que se encuentren consid
 
 En la incorporación individual de predios o de predios de fraccionamientos ya adheridos, subdivisión de lotes para construcción de vivienda unifamiliar o construcción de nuevas viviendas en colonias incorporadas a la COMAPAT, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-Por los derechos de incorporación, para el otorgamiento de los servicios e incrementar la infraestructura de captación, potabilización y redes de conducción por una sola vez, por metro cuadrado de superficie total del predio: 0.367 SM
+Por los derechos de incorporación, para el otorgamiento de los servicios e incrementar la infraestructura de captación, potabilización y redes de conducción por una sola vez, por metro cuadrado de superficie total del predio: 0.367 UMA.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -1093,19 +1227,31 @@ Los usuarios de los servicios de drenaje, pagarán los derechos por la conexión
 
 I.- Contratación individual tratándose de descargas de aguas residuales con diámetro no mayor a 6", para usuarios con toma de agua de 1/2":
 
-1) Uso doméstico y doméstico residencial 20.373 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-2) Uso doméstico en playas 20.373 SM
+1) Uso doméstico y doméstico residencial 20.373 UMA
 
-3) Uso comercial consumo bajo 34.899 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-4) Uso comercial medio 41.504 SM
+2) Uso doméstico en playas 20.373 UMA
 
-5) Uso comercial alto 52.943 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-6) Uso industrial (a reservad (sic) el estudio
+3) Uso comercial consumo bajo 34.899 UMA
 
-de factibilildad (sic) 90.740 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+4) Uso comercial medio 41.504 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+5) Uso comercial alto 52.943 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+6) Uso industrial (a reserva del estudio
+
+de factibilildad 90.740 UMA
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -1115,17 +1261,29 @@ En este caso se deberá recabar la factibilidad técnica de "LA COMAPAT" indepen
 
 Los Usuarios a que se refiere esta fracción, que excedan los 6 metros de longitud cubrirán adicionalmente:
 
-A) En uso domésticos por cada metro lineal 4.0746 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-B) En uso doméstico en playas por cada metro lineal 4.0746 SM
+A) En uso domésticos por cada metro lineal 4.0746 UMA
 
-C) En uso comercial bajo por cada metro lineal 6.9798 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-D) En uso comercial medio por cada metro lineal 8.3007 SM
+B) En uso doméstico en playas por cada metro lineal 4.0746 UMA
 
-E) En uso comercial alto por cada metro lineal 10.5885 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-F) En uso comercial por cada metro lineal 18.144 SM
+C) En uso comercial bajo por cada metro lineal 6.9798 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+D) En uso comercial medio por cada metro lineal 8.3007 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+E) En uso comercial alto por cada metro lineal 10.5885 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+F) En uso comercial por cada metro lineal 18.144 UMA
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -1151,7 +1309,7 @@ Concreto hidráulico 28.17233
 
 Los usuarios pagarán la reconexión a la red de alcantarillado cuando la suspensión sea por causa imputable al propio usuario conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 I.- Por reconexión a la red de drenaje
 
@@ -1165,13 +1323,13 @@ red por la aplicación del artículo 99
 
 de la Ley de Aguas para el Estado
 
-de Colima 12.091 SM
+de Colima 12.091 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 II.- Por reconexión y/o modificación
 
-de la descarga 14.526 SM
+de la descarga 14.526 UMA
 
 ###### ARTICULO 27.
 
@@ -1181,11 +1339,11 @@ de la descarga 14.526 SM
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 29.
 
-Los usuarios que utilicen el servicio de drenaje sanitario para el desalojo de volúmenes de agua provenientes de otras fuentes de abastecimiento, independientemente del agua potable de la COMAPAT, pagarán una cuota por metro cúbico de .408 SM, además de atender a los siguientes lineamientos:
+Los usuarios que utilicen el servicio de drenaje sanitario para el desalojo de volúmenes de agua provenientes de otras fuentes de abastecimiento, independientemente del agua potable de la COMAPAT, pagarán una cuota por metro cúbico de .408 UMA, además de atender a los siguientes lineamientos:
 
 I.- Para efectos de facturación del volumen descargado al sistema de alcantarillado, se instalará un dispositivo de medición en la descarga y en caso de no contar con esta medición se aplicará el 60% del volumen mensual correspondiente a la última declaración del pago relativo a los derechos por el uso o aprovechamiento de aguas nacionales que se notifica a la Comisión Nacional del Agua en cumplimiento a la Ley Federal de Derechos.
 
@@ -1217,7 +1375,9 @@ Dichas obras se integrarán al patrimonio de “LA COMAPAT”, una vez que esté
 
 En la incorporación individual de predios o de predios de fraccionamientos ya adheridos, subdivisión de lotes para construcción de vivienda unifamiliar o construcción de nuevas viviendas en colonias incorporadas a la COMAPAT, se pagarán las siguientes cuotas:
 
-I.- Para incrementar la infraestructura de captación, conducción y alejamiento de aguas residuales por una sola vez, por metro cuadrado de superficie total del predio: 0.367 SM
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+I.- Para incrementar la infraestructura de captación, conducción y alejamiento de aguas residuales por una sola vez, por metro cuadrado de superficie total del predio: 0.367 UMA
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -1283,17 +1443,25 @@ restaurantes y giros
 
 similares). 21.00840 0.10500
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 38.
 
-Para recibir los servicios señalados en el artículo anterior, los solicitantes deberán celebrar contrato de prestación de servicios con la COMAPAT y pagar un derecho de: 5.013 SM
+Para recibir los servicios señalados en el artículo anterior, los solicitantes deberán celebrar contrato de prestación de servicios con la COMAPAT y pagar un derecho de: 5.013 UMA
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 Las empresas dedicadas a la renta de sanitarios portátiles, limpieza de fosas sépticas y fosas desgrasadoras mencionadas deberán de presentar a la COMAPAT el registro y permiso vigente de la autoridad competente, como requisito para la celebración del contrato de servicio.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 Los usuarios que suscriban el contrato a que se refiere este artículo estarán obligados a descargar las aguas residuales en el punto determinado que la COMAPAT señale para el efecto.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 Las empresas a que se refiere este artículo estarán obligadas a que sus descargas cumplan con las disposiciones legales aplicables, así como los parámetros más estrictos, condiciones, restricciones y demás estipulaciones que en razón de los tipos y características de las aguas residuales que la COMAPAT establezcan en forma general o que se estipulen en los contratos de servicio que se celebren con el propio organismo, pudiéndose realizar por éste las muestras y análisis en las aguas residuales a descargas que resulten necesarios para vigilar el cumplimiento de las disposiciones legales, cuyo costo será con cargo al usuario. Se rechazarán las descargas que no cuenten con los requisitos mencionados en éste artículo.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 Los usuarios previstos en los párrafos 3 y 5 de éste artículo pagarán los servicios conforme a la siguiente tabla de tarifas:
 
@@ -1339,101 +1507,111 @@ ARTICULO 38 BIS.- Los desarrolladores y/o urbanizadores con obras terminadas, qu
 
 Los propietarios o poseedores de lotes baldíos, predios urbanos que no estén conectados a las redes de agua potable y alcantarillado y cuenten con las instalaciones adecuadas para que los servicios sean utilizados, están obligados a contratar los mismos y pagar las cuotas por mantenimiento a redes de conformidad con la siguiente tarifa:
 
-De 0.01 m2 hasta 200.00 m2 0.9412 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-De 200.01 m2 hasta 500.01 m2 1.3345 SM
+De 0.01 m2 hasta 200.00 m2 0.9412 UMA
 
-De 500.01 m2 hasta 1,000.00 m2 1.9955 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-De 1000.01 m2 o más 2.669 SM
+De 200.01 m2 hasta 500.01 m2 1.3345 UMA
 
-Las casas deshabitadas pagarán la siguiente cuota por mantenimiento a redes de conformidad con la siguiente tarifa 0.9412 SM.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+De 500.01 m2 hasta 1,000.00 m2 1.9955 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+De 1000.01 m2 o más 2.669 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+Las casas deshabitadas pagarán la siguiente cuota por mantenimiento a redes de conformidad con la siguiente tarifa 0.9412 UMA.
 
 ###### ARTICULO 40.
 
 Los interesados en los servicios a que hace referencia este artículo, pagarán los derechos con forme a la siguiente cuota:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 I.- Constancia de no adeudo a petición
 
-del Usuario: 1.406 SM
+del Usuario: 1.406 UMA
 
 II.-Constancia de factibilidad de servicios:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-a) fraccionamiento habitacional 44.874 SM
+a) fraccionamiento habitacional 44.874 UMA
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-b) centro comercial 30.704 SM
+b) centro comercial 30.704 UMA
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-c) industrial 35.428 SM
+c) industrial 35.428 UMA
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-d) Otras 1.725 SM
+d) Otras 1.725 UMA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-III.- cambio de propietario 1.725 SM
+III.- cambio de propietario 1.725 UMA
 
 No tendrá costo cuando el cambio del propietario sea por
 
 actualización del padrón por parte del organismo.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 IV.- Certificación de planos de servicios
 
 especializados dependiendo el avaluó
 
-emitido por la dirección operativa. 6.632 SM
+emitido por la dirección operativa. 6.632 UMA
 
 hasta
 
-66.321 SM
+66.321 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 V.- Reposición de empedrado
 
-por metro cuadrado 1.181 SM
+por metro cuadrado 1.181 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 VI.- Reposición de pavimento
 
-por metro cuadrado 2.952 SM
+por metro cuadrado 2.952 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-VII.- Cancelación de toma de agua 5.433 SM
+VII.- Cancelación de toma de agua 5.433 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-VIII.- Cancelación de toma de drenaje 7.086 SM
+VIII.- Cancelación de toma de drenaje 7.086 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-IX.- Cambio de material de agua 11.172 SM
+IX.- Cambio de material de agua 11.172 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-X.- Cambio de material de drenaje 13.746 SM
+X.- Cambio de material de drenaje 13.746 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 XI.- Instalación de medidor de ½” a 2 “ de
 
 diámetro para toma de agua
 
-(no incluye material) 22.349 SM
+(no incluye material) 22.349 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 XII.- Servicios especiales de agua
 
@@ -1443,21 +1621,21 @@ COMAPAT a domicilio en la ciudad y
 
 por viaje hasta una capacidad de
 
-10, 000.00 litros máximo 22.549 SM
+10, 000.00 litros máximo 22.549 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 XIII.- Servicio de agua por solicitud
 
 de particulares a lugares circunvecinos
 
-en pipa propiedad de la COMAPAT de 22.107 SM
+en pipa propiedad de la COMAPAT de 22.107 UMA
 
 a
 
-54.039 SM
+54.039 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 XIV.- Por cancelación de un recibo
 
@@ -1465,45 +1643,45 @@ emitido por error de información por
 
 parte del usuario y/o solicitud de
 
-devolución 1.725 SM
+devolución 1.725 UMA
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 XV.- metro cúbico de agua
 
-vendido a particulares 0.398 SM
+vendido a particulares 0.398 UMA
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-XVI.- Por reparación de medidores de ½” a 2” 7.69 SM
+XVI.- Por reparación de medidores de ½” a 2” 7.69 UMA
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 XVII.- Por cancelación provisional del
 
-servicio de agua potable en predios baldíos 6.00000 SM
+servicio de agua potable en predios baldíos 6.00000 UMA
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-XVIII.- Por reubicación de medidor 12.00000 SM
+XVIII.- Por reubicación de medidor 12.00000 UMA
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-XIX.- Por instalación de cuadro 6.00000 SM
+XIX.- Por instalación de cuadro 6.00000 UMA
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-XX.- por instalación de válvula 2.00000 SM
+XX.- por instalación de válvula 2.00000 UMA
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
 XXI.- Por expedición de constancia de
 
-descarga de aguas residuales 3.00000 SM
+descarga de aguas residuales 3.00000 UMA
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-XXII.- Suspensión del servicio de agua potable 6.00000 SM
+XXII.- Suspensión del servicio de agua potable 6.00000 UMA
 
 (REUBICADO, P.O. 26 DE DICIEMBRE DE 2006)
 
@@ -1533,9 +1711,9 @@ II. A los usuarios de servicio medido, se concede un 12 por ciento de descuento 
 
 En caso de que el consumo medio exceda al estimado, se facturará la diferencia de acuerdo a la tarifa que le corresponda, debiendo pagar el usuario el importe dentro del plazo que se especifique en el estado de cuenta que se emita para el efecto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-III. Los usuarios que paguen el servicio de agua potable, alcantarillado y saneamiento, por anualidad durante los meses de enero y febrero o pago puntual, que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 salarios mínimos diarios de la zona económica del Estado de Colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberá exhibir a el Organismo previamente los siguientes documentos:
+III. Los usuarios que paguen el servicio de agua potable, alcantarillado y saneamiento, por anualidad durante los meses de enero y febrero o pago puntual, que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 Unidades de Medida y Actualización de la zona económica del Estado de Colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberá exhibir a el Organismo previamente los siguientes documentos:
 
 a) Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y
 
@@ -1690,3 +1868,17 @@ P.O. 4 DE ABRIL DE 2015.
 P.O. 27 DE JUNIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 117 POR EL QUE SE ADICIONA UN ARTÍCULO 9 BIS A LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMÁN, COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 228 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial “El Estado de Colima”.
