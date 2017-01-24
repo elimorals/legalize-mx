@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48147"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2015-06-27"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -59,11 +59,11 @@ LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIO
 
 ### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 1.
 
-Es objeto de esta Ley, el que los usuarios de los servicios públicos de agua potable y alcantarillado y demás que presta la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de COMALA, en lo sucesivo la COMAPAC, paguen los derechos y aprovechamientos establecidos en unidades de salario mínimo general diario vigente en el área geográfica en el que está ubicado el Estado de Colima, que resulten de aplicar las cuotas y tarifas establecidas en el presente ordenamiento.
+Es objeto de esta Ley, el que los usuarios de los servicios públicos de agua potable y alcantarillado y demás que presta la Comisión de Agua Potable, Alcantarillado y Saneamiento del Municipio de COMALA, en lo sucesivo la COMAPAC, paguen los derechos y aprovechamientos establecidos en Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -85,27 +85,27 @@ El pago de los derechos a que se refiere el artículo anterior, se pagarán dura
 
 Por el servicio doméstico de agua potable los usuarios de cuota fija tratándose de tomas de media pulgada de diámetro, pagarán los derechos de conformidad con las siguientes cuotas mensuales:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-A).- URBANA DEL CENTRO 1.720 SM
+A).- URBANA DEL CENTRO 1.720 UMA
 
 Comprende las zonas delimitadas al sur por las calles, Álvaro Obregón y Cuauhtémoc, al norte, por las calles Zaragoza y 16 de Septiembre, al oriente, por las calles Allende y Miguel Hidalgo, al Poniente, por las calles 5 de Mayo y Benito Juárez.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-B).- POPULAR 1.581 SM
+B).- POPULAR 1.581 UMA
 
 Comprende las colonias: Lázaro Cárdenas, Los Aguajes, La Trinidad, Ejido el Pedregal, Cuauhtémoc. Lomas del Pedregal, Solidaridad Aguajitos, Celsa Virgen, Santa Cecilia, Miguel de la Madrid Hurtado así como el Barrio de San Miguel y el Barrio Alto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-C).- RESIDENCIAL 2.396 SM
+C).- RESIDENCIAL 2.396 UMA
 
 Comprende los fraccionamientos existentes sobre la avenida de la Ex Hacienda la Cañada, las Huertas de Comala, Fracc. Lomas de Comala, Fracc. Real Nogueras, Fracc. Campestre San Juan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-D).- COMUNIDADES 1.153 SM
+D).- COMUNIDADES 1.153 UMA
 
 a).- Las comunidades de Nogueras y Los Llanitos.
 
@@ -113,27 +113,27 @@ a).- Las comunidades de Nogueras y Los Llanitos.
 
 Por el servicio no doméstico de agua potable se pagarán las siguientes tarifas:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-a).- Los establecimientos comerciales cuyos giros a continuación se mencionan se describen como Bajo Consumo y pagarán una cuota mensual de: 2.709 SM
+a).- Los establecimientos comerciales cuyos giros a continuación se mencionan se describen como Bajo Consumo y pagarán una cuota mensual de: 2.709 UMA
 
 Abarrotes con venta de bebidas alcohólicas, Boutiques, Bufetes, consultorios, despachos y oficinas, Carpinterías, Cerrajerías, Venta de Dulces, Estacionamientos, Estanquillos, Farmacias, Ferreterías, Florerías, Foto estudios, Funerarias, Huaracherías, Fabricación de Huaraches, Jugueterías, Licorerías, Loncherías, Materiales para Construcción (ventas), Misceláneas, Minisupers, Mueblerías, Nieves y paletas, (Industria y expendios) de Panaderías (Industria y Expendio), Papelerías, Pastelerías, Peluquerías, Pintura y laminado de vehículos, Refaccionarías, Relojerías, Reparación de aparatos electrodomésticos, Reparación de llantas, Sastrerías, Servicio de transporte y fletes (sin lavado), Fabricación y venta de sombreros, Talleres mecánicos, eléctricos y tornos, Tapicerías, Taquerías, Templos, Tiendas de regalos, Tlapalerías, Venta de libros, periódicos y revistas, Videocasetes, alquiler de, Videojuegos, Vidrierías, Vinaterías, Zapaterías.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-b).- Los establecimientos comerciales cuyos giros a continuación se relacionan están clasificados como Consumo Medio y pagarán una cuota mensual de: 4.436 SM
+b).- Los establecimientos comerciales cuyos giros a continuación se relacionan están clasificados como Consumo Medio y pagarán una cuota mensual de: 4.436 UMA
 
 Academias y Escuelas, Alquiler de loza, muebles y manteles, Agencias de Autos, Bares, Belleza, salones de Billares, Bodega de Frutas y Verduras, Bodega de Almacenamiento, Carnicerías, Cenadurías y Birrierías, Elaboración y venta de productos derivados de leche, Estacionamientos con caseta de cobro, Fabricación de dulces, Fondas y cocinas económicas, Lavado de Muebles, Gasolineras sin servicio de lavado, Neverías, Paleterías, Pizzerías, Servicios auxiliares de diagnóstico, Talleres de artesanías, Tenerías y curtidurías, Tiendas de Autoservicio, Tortillerías sin molino, Vulcanizadoras y Vitalizadoras.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-c).- Los establecimientos comerciales cuyos giros a continuación se enlistan se consideran grandes consumidores en tanto no tengan medidor instalado pagarán una cuota fija mensual de: 8.980 SM
+c).- Los establecimientos comerciales cuyos giros a continuación se enlistan se consideran grandes consumidores en tanto no tengan medidor instalado pagarán una cuota fija mensual de: 8.980 UMA
 
 Locales comerciales, Molinos de nixtamal, Servicio de lavado de vehículos, Tortillerías sin molino, Tortillerías con molino, Gasolineras sin servicio de lavado y con servicio de lavado, Restaurantes con servicio de baños, Hospitales, Casa de huéspedes, Escuelas y Colegios, Hoteles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-d) Por Servicios a Gobierno y Organismos Públicos, mensualmente. 2.709 SM
+d) Por Servicios a Gobierno y Organismos Públicos, mensualmente. 2.709 UMA
 
 Quedan comprendidos en este inciso los bienes del dominio privado de la Federación, del Estado y de los Municipios, no así los inmuebles comprendidos en el artículo 115, fracción IV inciso c) de la Constitución Política de los Estados Unidos Mexicanos; lo anterior no exime a sus propietarios de la obligación de hacer un uso racional del agua y cumplir además las siguientes obligaciones:
 
@@ -459,7 +459,7 @@ Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mi
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 4 DE ABRIL DE 2006.
 
@@ -516,3 +516,9 @@ P.O. 4 DE ABRIL DE 2015.
 P.O. 27 DE JUNIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 228 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Colima”.
