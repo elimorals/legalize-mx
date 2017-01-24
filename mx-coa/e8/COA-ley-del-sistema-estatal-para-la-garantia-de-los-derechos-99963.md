@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2016-12-06"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -151,7 +151,9 @@ Niños, niñas y adolescentes son sujetos titulares de los derechos humanos reco
 
 I. A la vida, la supervivencia y el desarrollo integral;
 
-II. Al disfrute del más alto nivel de salud;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+II. Al disfrute del más alto nivel de salud y en ese sentido a ser sujetos de programas de asistencia social cuando se encuentren o vivan circunstancias de desventaja social, que garanticen la protección integral en tanto puedan valerse por sí mismos y que le auxilien a recuperar su salud y equilibrio personal, en caso de daño físico o mental.
 
 III. A vivir en un ambiente sano y a contar con servicios públicos básicos. Para ello se promoverán la protección, preservación y mejoramiento del medio ambiente mediante la articulación de políticas públicas;
 
@@ -191,7 +193,9 @@ XVI. A la protección de sus datos personales;
 
 XVII. A la no utilización de trabajo de personas menores de catorce años de edad;
 
-XVIII. A una vida libre de violencia, a la integridad, la libertad y la seguridad;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+XVIII. A una vida libre de violencia, a la integridad, la libertad y la seguridad. Quienes tengan trato con niñas, niños y adolescentes deberán abstenerse de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal; observando especialmente su desarrollo emocional y psicológico, en todos los entornos incluyendo el seno familiar, las escuelas, las instituciones de readaptación social y otros centros alternativos.
 
 XIX. A la protección contra la prostitución, la pornografía infantil, el secuestro, la venta y la trata de personas;
 
@@ -615,7 +619,9 @@ La Procuraduría tendrá las facultades y obligaciones siguientes:
 
 I. La promoción y protección de los derechos de niños, niñas y adolescentes, en el ámbito de su competencia;
 
-II. Elaborar programas tendientes a prevenir, detectar, y atender la violencia familiar, escolar y comunitaria, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+II. Elaborar programas tendientes a prevenir, detectar, y atender la violencia familiar, escolar y comunitaria, en el ámbito de su competencia e instrumentar mecanismos, acciones legales y campañas de información necesarias para prevenir el castigo corporal con fines disciplinarios.
 
 III. Proporcionar asesoría y orientación a las personas que lo soliciten, en todos los asuntos de controversias familiares;
 
@@ -1568,3 +1574,19 @@ P.O. 6 DE DICIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 731.- SE REFORMA Y ADICIONA LA FRACCIÓN II DEL ARTÍCULO 4 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 732.- SE REFORMAN LA FRACCIÓN XVIII DEL ARTÍCULO 4 Y LA FRACCIÓN II DEL ARTÍCULO 27 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
