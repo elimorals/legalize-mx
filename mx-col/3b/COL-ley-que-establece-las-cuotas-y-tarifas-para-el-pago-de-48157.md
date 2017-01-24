@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48157"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2015-06-27"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS, PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE MINATITLÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -55,9 +55,11 @@ LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS, PARA EL PAGO DE DERECHOS POR LOS SERVICI
 
 ### CAPITULO I. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 1°.
 
-Los usuarios de los servicios públicos de agua potable, alcantarillado, saneamiento y demás que presta La Comisión de Agua Potable y Alcantarillado del Municipio de Minatitlán, Colima, en lo sucesivo el Organismo, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en unidades de salario mínimo general diario vigente en el área geográfica en la que esta ubicado el Estado de Colima, que resulte de aplicar las cuotas y tarifas establecidas en el presente ordenamiento.
+Los usuarios de los servicios públicos de agua potable, alcantarillado, saneamiento y demás que presta La Comisión de Agua Potable y Alcantarillado del Municipio de Minatitlán, Colima, en lo sucesivo el Organismo, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en Unidades de Medida y Actualización.
 
 ###### ARTICULO 2°.
 
@@ -69,23 +71,23 @@ El pago de los derechos a que se refiere el artículo anterior, se pagarán dura
 
 Por el servicio doméstico de agua potable se pagarán mensualmente las siguientes tarifas:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-a) Para uso doméstico, por casa habitación, cabecera municipal 0.761 SM
+a) Para uso doméstico, por casa habitación, cabecera municipal. 0.761 UMA
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-b) Para uso doméstico, por casa habitación y cada negocio anexo 1.427 SM
+b) Para uso doméstico, por casa habitación y cada negocio anexo 1.427 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 c) Para uso no doméstico vecindades o casa de huéspedes
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+1).- por cada habitación con servicio colectivo o privado 0.288 UMA
 
-1).- por cada habitación con servicio colectivo o privado 0.288 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-d) Para uso doméstico, por casa habitación, comunidades rurales 0.572 SM
+d) Para uso doméstico, por casa habitación, comunidades rurales 0.572 UMA
 
 ###### ARTICULO 4°.
 
@@ -93,51 +95,31 @@ Por el servicio comercial de agua potable se pagarán mensualmente las siguiente
 
 I.- CUOTA FIJA:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-a) Los comercios que a continuación se mencionan
-
-se describen como “Comercial Bajo Consumo” y
-
-pagarán la cuota de 0.809 SM
+a) Los comercios que a continuación se mencionan se describen como "Comercial Bajo Consumo" y pagarán la cuota de 0.809 UMA
 
 Abarrotes con ventas de bebidas alcohólicas; agencia de viajes; almacenes de ropa; boutiques; bufetes, Consultorios, despachos y oficinas; carpinterías en pequeño; cerrajerías; venta de dulces; editoriales y/o venta de libros; venta de periódicos y revistas; estacionamientos; estanquillos; farmacias; ferreterías en pequeño; florerías; foto estudios; funerarias; fabricación y/o venta de huaraches; imprentas, Jugueterías; licorerías; material para construcción (ventas); mini súper; misceláneas; panaderías (Industria y expendio); papelerías; pastelerías; peluquerías; pintura y laminado de vehículos; expendio de pintura; refaccionarías, relojerías; reparación de aparatos electrodomésticos; reparación de llantas; sastrerías; servicio de transporte y flete (sin lavado); fábrica y venta de sombreros; tapicerías; taquerías; talleres; venta de telas; templos; tiendas de regalos; tiendas naturistas; tiendas de semillas y cereales; tlapalerías; alquiler de videocasetes; videojuegos; vidrierías; y zapaterías.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-b) Los comercios que a continuación se mencionan
-
-se describen como “Comercial Consumo Medio” y
-
-pagarán la cuota de 1.050 SM
+b) Los comercios que a continuación se mencionan se describen como "Comercial Consumo Medio" y pagarán la cuota de 1.050 UMA
 
 Academias y escuelas; alquiler de loza, muebles y manteles; Agencia de autos; bares; salones de belleza; billares, bodegas de frutas y verduras; Bodega de almacenamiento; Carnicerías, carpinterías en mayor escala, cenadurías, clubes sociales, sin billar ni restaurante; estacionamiento con caseta de cobro; fábrica de dulces; ferreterías con oficinas; fonda y cocina económicas, lavado de muebles, neverías, peleterías, salas de velación, servicios auxiliares de diagnóstico, servicio de taxis, talleres de artesanías o herrería, tenerías o curtidoras, tiendas de autoservicio; y vulcanizadoras y/o vitalizadoras de llantas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-c) Los comercios que a continuación se mencionan se
-
-describen como “Comercial Consumo Alto”” y pagarán
-
-la cuota de 1.523 SM
+c) Los comercios que a continuación se mencionan se describen como "Comercial Consumo Alto" y pagarán la cuota de 1.523 UMA
 
 Cantinas, Bares, Restaurantes, Centro botaneros, Lavanderías, Lavado de Carros, Purificador y Embotelladora de Agua, para consumo humano, toma de Agua para Abrevaderos, Rastros, Taller de Servicio de Lavado y Sopleteado, Gasolinera con servicio de Lavado, Molinos de Nixtamal, Tortillerías, Edificios de Espectáculos, Plaza de toros, Salón de Fiestas.
 
-d) Edificios públicos, que comprenden las dependencias
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-públicas del gobierno federal, estatal o municipal, tendrán
+d) Edificios públicos, que comprenden las dependencias públicas del gobierno federal, estatal o municipal, tendrán la cuota siguiente: 0.837 UMA
 
-la cuota siguiente: 0.837 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-e) Instituciones de beneficencia pública y/o social,
-
-mismas que comprenden a los hospitales públicos,
-
-asilos, protección civil, bomberos, centros comunitarios
-
-o de recreación: 0.837 SM
+e) Instituciones de beneficencia pública y/o social, mismas que comprenden a los hospitales públicos, asilos, protección civil, bomberos, centros comunitarios o de recreación: 2.19 UMA
 
 ###### ARTICULO 5°.
 
@@ -145,13 +127,13 @@ Servicio Medido.
 
 Usuarios con Tarifa Popular
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-Poblado Peña Colorada 0.29 SM por cada metro cúbico
+Poblado Peña Colorada 0.29 UMA por cada metro cúbico
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-Servicio Industrial 1.43 SM por cada metro cúbico
+Servicio Industrial 1.43 UMA por cada metro cúbico
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -167,11 +149,13 @@ En caso de que en un mismo predio se localice una vivienda y un negocio y ambos 
 
 Los usuarios a que se refiere este artículo pagarán adicionalmente por el servicio público de alcantarillado, una cuota equivalente al 25 por ciento del importe correspondiente al servicio de agua potable.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 7°.
 
 Por el servicio de agua potable destinado para otros usos se pagará la cuota siguiente:
 
-I.- Metro cúbico de agua vendida a pipas particulares: 1.36 SM
+I.- Metro cúbico de agua vendida a pipas particulares: 1.36 UMA
 
 ###### ARTICULO 8°.
 
@@ -179,27 +163,43 @@ Los usuarios de los servicios de agua potable, pagarán los derechos por la cone
 
 I.- Contratación individual tratándose de tomas de media pulgada de diámetro:
 
-a).- Uso doméstico 7.39 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-b).- Uso comercial “Consumo Bajo” 14.83 SM
+a).- Uso doméstico 7.39 UMA
 
-c).- Uso comercial “Consumo Medio” 31.47 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-b) (sic).- Uso comercial “Consumo Alto” 50.85 SM
+b).- Uso comercial "Consumo Bajo" 14.83 UMA
 
-e).- Uso Industrial 84.41 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-II.- Contracción individual tratándose de tomas de más ½” de diámetro:
+c). Uso comercial "Consumo Medio" 31.47 UMA
 
-a).- Media pulgada 11.606 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-b).- Tres cuartos de Pulgada 13.057 SM
+b) (sic).- Uso comercial "Consumo Alto" 50.85 UMA
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-c).- Una pulgada 25.524 SM
+e).- Uso Industrial 84.41 UMA
 
-d).- Una y media y media 59.284 SM
+II.- Contracción individual tratándose de tomas de más ½" de diámetro:
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+a).- Media pulgada 11.606 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+b).- Tres cuartos de Pulgada 13.057 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+c).- Una pulgada 25.524 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+d).- Una y media 59.284 UMA
 
 III.- Por conexiones eventuales a la red de agua potable siempre que se refiera a una toma de media pulgada de diámetro, se cobrará el tipo de uso del que se trate por el tiempo de utilización del servicio; cuando sea en un término menor a seis meses, se cubrirá el costo en una sola exhibición en el momento de celebrar el contrato.
 
@@ -215,7 +215,9 @@ En el caso de nuevos fraccionamientos o predios, edificaciones comerciales e ind
 
 I.- Si cuenta con fuente de abastecimiento se cobrará el importe de los gastos que se originen en el entronque; y
 
-II.- Si no cuenta con fuente de abastecimiento, además de los gastos de entronque, se cobrará por derechos la cantidad de 1,135.07 VSM por cada litro por segundo de agua potable que requieran como gasto máximo diario, mismo que será determinado por el organismo, en base al proyecto autorizado del desarrollo en cuestión.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+II.- Si no cuenta con fuente de abastecimiento, además de los gastos de entronque, se cobrará por derechos la cantidad de 1,135.07 UMA por cada litro por segundo de agua potable que requieran como gasto máximo diario, mismo que será determinado por el organismo, en base al proyecto autorizado del desarrollo en cuestión.
 
 III.- Por entronque colectivo a la red de drenaje se cobrará una cantidad igual al 50 por ciento del importe a pagar de derechos de entronque a la red de agua.
 
@@ -239,15 +241,25 @@ Los usuarios de servicios de agua potable, pagarán los derechos por la conexió
 
 I.- Contratación individual tratándose de descargas de aguas residuales con diámetro no mayor a seis pulgadas.
 
-a).- Uso doméstico 7.269 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-b).- Uso comercial “Consumo Bajo” 13.057 SM
+a).- Uso doméstico 7.269 UMA
 
-c).- Uso Comercial “Consumo Medio” 25.524 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-d).- Uso Comercial “Consumo alto” 26.115 SM
+b).- Uso comercial "Consumo Bajo" 13.057 UMA
 
-e).- Uso industrial 46.426 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+c).- Uso Comercial "Consumo Medio" 25.524 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+d).- Uso Comercial "Consumo alto" 26.115 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+e).- Uso industrial 46.426 UMA
 
 II.- Por derecho de entronque colectivo al sistema de drenaje, además de los gastos de entronque, se cobrará por derechos 50 por ciento al costo señalado en el Artículo 10° Fracción II.
 
@@ -279,25 +291,33 @@ Los propietarios o poseedores de predios que estén conectados a las redes de ag
 
 Los interesados en los servicios a que hace referencia este artículo, pagarán los derechos con forme (sic) a la siguiente cuota:
 
-I.- Constancia de no adeudo a petición del usuario: 3 SM
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-II.- Constancia de factibilidad de servicios: 10 SM
+I.- Constancia de no adeudo a petición del usuario: 3 UMA
 
-III.- Cambio de propietario 2 SM
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-IV.- Certificación a planos de servicios especializados: 23 SM
+II.- Constancia de factibilidad de servicios: 10 UMA
 
-V.- Por instalar y derecho de uso de medidor: 5 SM
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-VI.- Por desazolve y sondeo de descargas
+III.- Cambio de propietario: 2 UMA
 
-domiciliarias en forma manual: 10 SM
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-VII.- Por cancelación de un recibo emitido
+IV.- Certificación a planos de servicios especializados: 23 UMA
 
-por error de información por parte del
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
 
-usuario y/o solicitud de devolución: 1 SM
+V.- Por instalar y derecho de uso de medidor: 5 UMA
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+VI.- Por desazolve y sondeo de descargas domiciliarias en forma manual: 10 UMA
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+VII.- Por cancelación de un recibo emitido por error de información por parte del usuario y/o solicitud de devolución: 1 UMA
 
 ### CAPITULO VI. DISPOSICIONES GENERALES
 
@@ -339,21 +359,17 @@ c) Al efectuarse el cambio del propietario; el usuario o nuevo propietario es re
 
 El Organismo, pondrá la sanción correspondiente conforme a la siguiente tarifa:
 
-a) Por entronque a la red de agua potable
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-y/o drenaje, sin autorización independientemente
+a) Por entronque a la red de agua potable y/o drenaje, sin autorización independientemente de los derechos que corresponda 50 UMA
 
-de los derechos que corresponda 50 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-b) Por taponamiento a la red de drenaje, por
+b) Por taponamiento a la red de drenaje, por causa imputable a los usuarios o poseedores y fincas (desechos de sebos de carnicerías, menuderías, restaurantes, etc.) 30 UMA
 
-causa imputable a los usuarios o poseedores
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
-y fincas (desechos de sebos de carnicerías,
-
-menudearías (sic), restaurantes, etc.) 30 SM
-
-c) Tiraderos de agua 15 SM
+c) Tiraderos de agua 15 UMA
 
 1.- Regar calle.
 
@@ -365,9 +381,13 @@ c) Tiraderos de agua 15 SM
 
 5.- Por tiraderos de agua provenientes de tinacos sin control de flotadores
 
-d) Por bombeo directamente de la red 70 SM
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-e) Daños a la red, más el importe de los trabajos de reparación y cuantificación de los volúmenes de agua tirada. 30 SM
+d) Por bombeo directamente de la red 70 UMA
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+e) Daños a la red, más el importe de los trabajos de reparación y cuantificación de los volúmenes de agua tirada 30 UMA
 
 ###### ARTICULO 20°.
 
@@ -454,6 +474,12 @@ P.O. 4 DE ABRIL DE 2015.
 P.O. 27 DE JUNIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2015, previa su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 24 DE ENERO DE 2017.
+
+"N. DE E. TRANSITORIO DEL "DECRETO NO. 228 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
