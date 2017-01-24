@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-118011"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-22"
-last_updated: "2017-01-05"
+last_updated: "2017-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2017
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE ENERO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 26259/LXI/16 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 22 de diciembre de 2016.
 
@@ -1023,13 +1021,17 @@ Pagarán el 50% por derecho de refrendo anual y holograma para automóviles, cam
 
 Tratándose de vehículos eléctricos, estarán exentos del pago de derecho de refrendo anual y holograma, previsto en los incisos a) y b) de esta fracción, al 100%.
 
-El pago previsto en la presente fracción deberá efectuarse en el periodo comprendido del 2 de enero al último día hábil del mes de marzo de 2017 dos mil diecisiete.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-A los pagos efectuados hasta el 31 treinta y uno de enero de 2017 dos mil diecisiete, por concepto del derecho previsto en el inciso a) de esta fracción, se concederá un descuento de 10%.
+El pago previsto en la presente fracción deberá efectuarse en el período comprendido del 2 de enero al último día hábil del mes de abril de 2017 dos mil diecisiete.
 
-Cuando se efectúe el pago a partir del 1º primero de febrero y hasta el día 28 veintiocho de febrero de 2017 dos mil diecisiete, se concederá un descuento de 5%.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-Cuando se efectúe el pago a partir del 1º primero de marzo y hasta el 31 treinta y uno de marzo de 2017 dos mil diecisiete, se concederá un descuento de 5%.
+A los pagos efectuados a partir del 2 de enero y hasta el 30 treinta de abril de 2017 dos mil diecisiete, por concepto del derecho previsto en el inciso a) de esta fracción, se concederá un descuento de 10%.
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
+
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 24 DE ENERO DE 2017)</small>
 
 IV. Permisos provisionales para que circulen vehículos:
 
@@ -1633,9 +1635,17 @@ c) Para probar hechos relacionados con las demandas de indemnización civil prov
 
 d) Por las autoridades en el ramo de educación, a petición de instituciones iguales y penitenciarias;
 
-e) Para los juicios de alimentos cuando sean solicitados por el acreedor alimentista, así como aquellos en los que intervienen menores, adultos mayores o incapaces; y
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
-f) Para ser utilizadas en juicios o trámites de cualquier índole, que sean patrocinados por la Procuraduría Social del Estado a personas de escasos recursos.
+e) Para los juicios de alimentos cuando sean solicitados por el acreedor alimentista, así como aquellos en los que intervienen menores, adultos mayores o incapaces;
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+f) Para ser utilizadas en juicios o trámites de cualquier índole, que sean patrocinados por la Procuraduría Social del Estado a personas de escasos recursos; y
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2017)</small>
+
+g) Por la Dirección General del Registro Civil, tratándose de las copias de las actas del registro de nacimiento que se soliciten para trámites escolares de nivel preescolar, básico y medio superior.
 
 III. Las certificaciones que asienten en los expedientes los Secretarios de los Tribunales, sobre hechos o actos ocurridos en la tramitación de los juicios;
 
@@ -2252,3 +2262,11 @@ ROBERTO LÓPEZ LARA
 (RÚBRICA)
 
 > <small>[N. DE E. VÉANSE ANEXOS EN EL P.O. 22 DE DICIEMBRE DE 2016, PÁGINAS DE LA 95 A LA 105.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26266/LXI/16 QUE REFORMA LOS ARTÍCULOS 24 Y 28 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, EJERCICIO FISCAL 2017”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
