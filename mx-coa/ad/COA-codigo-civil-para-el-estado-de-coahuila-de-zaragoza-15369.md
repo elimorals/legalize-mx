@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2016-08-09"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -10751,7 +10751,9 @@ En la misma forma establecida en el artículo anterior, responderán los jefes d
 
 El dueño de un animal pagará el daño causado por éste, si no probare alguna de estas circunstancias:
 
-I. Que lo guardaba y vigilaba con el cuidado necesario.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+I. Que lo guardaba y vigilaba con el cuidado necesario. Si se tratase de un animal potencialmente peligroso deberá probar haber adoptado las medidas necesarias para evitar el daño en los términos de la Ley de Protección y Trato Digno a los Animales para el Estado de Coahuila de Zaragoza.
 
 II. Que el animal fue provocado.
 
@@ -21140,3 +21142,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 722.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1877 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 22; SE ADICIONAN DOS PÁRRAFOS A LA FRACCIÓN VIII DEL ARTÍCULO 15, Y LA FRACCIÓN XI AL ARTÍCULO 20 RECORRIÉNDOSE LAS ULTERIORES, DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
