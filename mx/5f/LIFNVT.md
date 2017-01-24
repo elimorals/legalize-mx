@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2016-04-27"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -86,15 +86,19 @@ V.- Con los rendimientos que obtenga de la inversión de los recursos a que se r
 
 Las aportaciones de los patrones a las subcuentas de vivienda son patrimonio de los trabajadores.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 6o.
 
-Los órganos del Instituto serán: la Asamblea General, el Consejo de Administración, la Comisión de Vigilancia, el Comité de Auditoría, el Director General, dos Directores Sectoriales, la Comisión de Inconformidades, el Comité de Transparencia y Acceso a la Información y las Comisiones Consultivas Regionales.
+Los órganos del Instituto serán: la Asamblea General, el Consejo de Administración, la Comisión de Vigilancia, el Comité de Auditoría, el Director General, dos Directores Sectoriales, la Comisión de Inconformidades, el Comité de Transparencia y las Comisiones Consultivas Regionales.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 Los integrantes de los órganos del Instituto serán responsables para con éste por el cumplimiento de las obligaciones que esta Ley les impone.
 
-Los integrantes del Consejo de Administración, de la Comisión de Vigilancia, del Comité de Auditoría, de la Comisión de Inconformidades, del Comité de Transparencia y Acceso a la Información y de las Comisiones Consultivas Regionales, que en cualquier asunto relacionado con el mismo tuvieren o conocieren de un posible conflicto de intereses personal o de alguno de los demás miembros del Órgano, deberán manifestarlo y, el que tuviere el conflicto, abstenerse de toda intervención en dicho asunto. Igualmente deberán abstenerse de promover o participar, a título personal, en la atención de solicitudes, planteamientos o recursos que cualquier tercero promueva ante el Instituto.
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2017)</small>
+
+Los integrantes del Consejo de Administración, de la Comisión de Vigilancia, del Comité de Auditoría, de la Comisión de Inconformidades, del Comité de Transparencia y de las Comisiones Consultivas Regionales, que en cualquier asunto relacionado con el mismo tuvieren o conocieren de un posible conflicto de intereses personal o de alguno de los demás miembros del Órgano, deberán manifestarlo y, el que tuviere el conflicto, abstenerse de toda intervención en dicho asunto. Igualmente deberán abstenerse de promover o participar, a título personal, en la atención de solicitudes, planteamientos o recursos que cualquier tercero promueva ante el Instituto.
 
 ###### ARTICULO 7o.
 
@@ -154,13 +158,13 @@ VIII.- Aprobar las políticas de crédito;
 
 IX.- Aprobar el Código de Ética del Instituto y ordenar al Director General su expedición;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2017)</small>
 
-X.- Aprobar normatividad en materia de transparencia y acceso a la información y ordenar al Director General su expedición;
+X.- Aprobar la normatividad interna del Instituto en materia de transparencia y acceso a la información pública conforme a la legislación general y federal aplicable, así como ordenar al Director General su expedición;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2017)</small>
 
-XI.- Designar a propuesta de la Comisión de Vigilancia a los miembros del Comité de Transparencia y Acceso a la Información y de la Comisión de Inconformidades;
+XI.- Designar a propuesta de la Comisión de Vigilancia a los miembros del Comité de Transparencia y de la Comisión de Inconformidades;
 
 > <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
@@ -338,9 +342,13 @@ III.- Vigilar que los integrantes de los Órganos del Instituto actúen conforme
 
 IV.- Informar, una vez al año, a la Asamblea General sobre el funcionamiento de los Órganos del Instituto;
 
-V.- Proponer a la Asamblea General la designación o remoción de los miembros del Comité de Transparencia y Acceso a la Información y de la Comisión de Inconformidades;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2017)</small>
 
-VI.- Vigilar la actuación del Comité de Transparencia y Acceso a la Información y de la Comisión de Inconformidades;
+V.- Proponer a la Asamblea General la designación o remoción de los miembros del Comité de Transparencia y de la Comisión de Inconformidades;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2017)</small>
+
+VI.- Vigilar la actuación del Comité de Transparencia y de la Comisión de Inconformidades;
 
 VII.- En los casos que a su juicio lo amerite, convocar a Asamblea General;
 
@@ -542,13 +550,17 @@ La Comisión conocerá, substanciará y resolverá los recursos que promuevan an
 
 La Comisión conocerá de las controversias que se susciten sobre el valor de las prestaciones que las empresas estuvieren otorgando a los trabajadores, en materia de habitación, para decidir si son inferiores, iguales o superiores al porcentaje consignado en el Artículo 136 de la Ley Federal del Trabajo y poder determinar las aportaciones que deban enterar al Instituto o si quedan exentas de tal aportación. Una vez tramitadas las controversias en los términos de la normatividad respectiva, la Comisión presentará un dictamen sobre las mismas a la Comisión de Vigilancia, que resolverá lo que a su juicio proceda.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 25 Bis.
 
-El Comité de Transparencia y Acceso a la Información se integrará en forma tripartita, por un representante del sector de los trabajadores, uno del sector empresarial y uno del Gobierno Federal, los cuales serán designados por la Asamblea General, durarán en su cargo seis años.
+El Comité de Transparencia se integrará en forma tripartita, por un representante del sector de los trabajadores, uno del sector empresarial y uno del Gobierno Federal, los cuales serán designados por la Asamblea General, durarán en su cargo seis años.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 El Comité será presidido en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus miembros, se encuentran mencionadas en el Artículo 7o.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 Los miembros del Comité, no podrán serlo de algún otro Órgano del Instituto y deberán cumplir con los siguientes requisitos:
 
@@ -560,27 +572,43 @@ Los miembros del Comité, no podrán serlo de algún otro Órgano del Instituto 
 
 4. No estar inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano, así como no haber sido declarado como quebrado o concursado.
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 25 Bis 1.
 
-Son funciones del Comité de Transparencia y Acceso a la Información:
+Son funciones del Comité de Transparencia, además de las establecidas en la Ley General y la Ley Federal en materia de Transparencia y Acceso a la Información Pública, las siguientes:
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 I.- Proveer lo necesario para que toda persona pueda tener acceso a la información de conformidad con la normatividad vigente del Instituto y apegada a los principios y políticas generales de la materia;
 
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
 II.- Transparentar la gestión mediante la difusión de la información que genera el Instituto;
 
-III.- Garantizar la protección de los datos personales en posesión del Instituto;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2017)</small>
 
-IV.- Favorecer la rendición de cuentas a los ciudadanos, de manera que puedan valorar el desempeño del Instituto;
+III.- Garantizar la protección de los datos personales en posesión del Instituto y el ejercicio de los derechos de acceso, rectificación, corrección y oposición;
+
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2017)</small>
+
+IV.- Favorecer la rendición de cuentas a las personas, de manera que puedan valorar el desempeño del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 V.- Mejorar la organización, clasificación y manejo de los documentos;
 
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2005)</small>
+
 VI.- Contribuir a la democratización de la sociedad mexicana y la plena vigencia del Estado de derecho;
 
-VII.- Resolver el recurso de revisión promovido por los solicitantes en los casos de negativa de acceso a la información o por la inexistencia de los documentos solicitados, y
+VII.- (DEROGADA, D.O.F. 24 DE ENERO DE 2017)
 
-VIII.- Publicar un informe anual que contenga las actividades realizadas para garantizar el acceso a la información y remitir una copia del mismo al Instituto Federal de Acceso a la Información Pública.
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2017)</small>
+
+VIII.- Publicar un informe anual que contenga las actividades realizadas para garantizar el acceso a la información y remitir una copia del mismo al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2005)</small>
 
 Las anteriores funciones se reglamentarán en la normatividad que en esta materia expida la Asamblea General.
 
@@ -600,11 +628,11 @@ III.- Las de carácter administrativo que establezca el Reglamento de las Delega
 
 IV.- Las demás de carácter consultivo que les encomiende el Director General.
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 28.
 
-En la Asamblea General cada sector contará con un voto. En el Consejo de Administración, en la Comisión de Vigilancia, en el Comité de Auditoría, en el Comité de Transparencia y Acceso a la Información y en la Comisión de Inconformidades, cada uno de sus miembros tendrá un voto.
+En la Asamblea General cada sector contará con un voto. En el Consejo de Administración, en la Comisión de Vigilancia, en el Comité de Auditoría, en el Comité de Transparencia y en la Comisión de Inconformidades, cada uno de sus miembros tendrá un voto.
 
 ###### ARTICULO 29.
 
@@ -1621,3 +1649,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. El Instituto podrá seguir otorgando créditos para la adquisición de vivienda que se referencien o actualicen con base en el salario mínimo, en términos de lo dispuesto por el sexto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016, a partir del cual y hasta 720 días naturales posteriores a la entrada en vigor del mismo se podrán otorgar dichos créditos.
 
 Tercero. Los contratos que tenga celebrado el Instituto, vigentes a la fecha de entrada en vigor del presente Decreto, que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que, a partir de la entrada en vigor de este Decreto, los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+D.O.F. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
