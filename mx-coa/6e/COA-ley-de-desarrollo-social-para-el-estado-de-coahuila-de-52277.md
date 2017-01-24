@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-social-para-el-estado-de-coahuila-de-52277"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2016-08-09"
+last_updated: "2017-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2006.
 
@@ -49,7 +51,7 @@ La presente Ley es de orden público, de interés social y de observancia genera
 
 La aplicación de la presente Ley corresponde al Ejecutivo del Estado por conducto de sus dependencias y entidades y a los Ayuntamientos en el ámbito de su jurisdicción.
 
-###### Articulo 3.
+###### Artículo 3.
 
 Queda prohibida cualquier práctica discriminatoria en la prestación de los bienes y servicios contenidos en los programas para el Desarrollo Social en el Estado de Coahuila.
 
@@ -189,6 +191,10 @@ Serán sujetos de Desarrollo Social toda persona, familias, y grupos sociales en
 
 Los sujetos del desarrollo social podrán beneficiarse de los programas de desarrollo social, siempre y cuando cumplan con la elegibilidad y la normatividad que cada programa establezca.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+
+En los planes, programas y acciones de desarrollo social se otorgará preferencia a la población indígena establecida en la entidad, las personas o grupos sociales en situación de vulnerabilidad, marginación, pobreza o cuyas condiciones de vida no se encuentren en los niveles mínimos de bienestar social.
+
 ###### Artículo 13.
 
 Las personas sujetos del desarrollo social tendrán derecho a:
@@ -257,7 +263,9 @@ III. Evaluar anualmente, el impacto social de los programas, midiendo el avance 
 
 IV. modificar o ampliar los programas de acuerdo a los resultados de las evaluaciones.
 
-V. Establecer las reglas de operación de los programas.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+V. Proponer al Titular del Ejecutivo y difundir los Lineamientos Generales para la Elaboración de Reglas de Operación de los Programas Sociales, las cuales deberán garantizar la transparencia en la aplicación de los recursos públicos, la simplificación de trámites y procedimientos, y establecer mecanismos que garanticen que los programas de desarrollo social no serán usados con fines electorales o de promoción personal de los servidores públicos.
 
 VI. Promover la organización y participación ciudadana en los programas.
 
@@ -267,7 +275,9 @@ VIII. Formular, definir, conducir y articular la Política Social.
 
 IX. Impulsar, coordinar y concertar la ejecución de programas especiales y de emergencia social.
 
-X. Promover la Cultura De La Transparencia Informativa, estableciendo las unidades de atención según lo establecido en el art. 14 y 18 de la Ley De Acceso A La Información Pública Del Estado De Coahuila De Zaragoza.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2017)</small>
+
+X. Fomentar la cultura de la transparencia y el respeto del derecho a la información pública y de acceso a la información pública, según lo establecido en la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza.
 
 XI. Proponer los métodos, y acciones de coordinación entre los programas sociales del Gobierno Federal, Estatal y los Ayuntamientos.
 
@@ -275,7 +285,13 @@ XII. Promover la obtención de recursos públicos, privados, o extranjeros para 
 
 XIII. Suscribir, previo acuerdo del Ejecutivo del Estado, los convenios necesarios para el cumplimiento de sus atribuciones.
 
-XIV. Los demás que determinen las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2017)</small>
+
+XIV. Incentivar y difundir a los inversionistas privados y públicos los beneficios fiscales por invertir en proyectos productivos en las zonas prioritarias que se establecen (sic) la presente ley.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2017)</small>
+
+XV. Los demás que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 19.
 
@@ -303,7 +319,13 @@ X. Establecer mecanismos de participación social en los programas.
 
 XI. Fomentar actividades productivas para la generación de empleos e ingresos de personas, familias, grupos y organizaciones productivas; y
 
-XII. Las demás que le señale esta Ley, su reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2017)</small>
+
+XII. Incentivar y difundir a los inversionistas privados y públicos los beneficios fiscales por invertir en proyectos productivos en las zonas prioritarias que se establecen (sic) la presente ley.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE ENERO DE 2017)</small>
+
+XIII. Los demás que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
 ## TITULO II. DE LA PLANEACIÓN Y PROGRAMACIÓN
 
@@ -363,7 +385,13 @@ VII. Los demás que se estimen convenientes para el desarrollo pleno de los suje
 
 Los recursos públicos asignados a desarrollo social en el presupuesto de egresos, podrán complementarse con recursos provenientes de aportaciones de organismos Internacionales y de los sectores social y privado.
 
-Artículo. 27. Los recursos que se reciban de fuentes externas también deberán ser fiscalizados por el Congreso del Estado de Coahuila.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2017)</small>
+
+De acuerdo a las disposiciones aplicables, se podrán conceder subsidios y estímulos fiscales a las inversiones públicas o privadas que se trasladen a proyectos productivos en las zonas prioritarias que establecen los artículos 30 y 31 de la presente ley, de conformidad con el artículo 38 fracción III del Código Fiscal para el Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
+Artículo. 27. Los recursos que se reciban de fuentes externas también deberán ser fiscalizados por la Auditoría Superior del Estado.
 
 ###### Artículo 28.
 
@@ -393,15 +421,17 @@ VI. Acceso a los servicios básicos en la vivienda;
 
 VII. Acceso a la alimentación;
 
-VIII Grado de cohesión social;
+VIII. Grado de cohesión social;
 
 IX. Acceso a la recreación;
 
 XI. Medios de Transporte Familiar.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
 ###### Artículo 31.
 
-La Secretaría determinará en los meses de septiembre a noviembre, las zonas y comunidades de atención prioritaria, cuya población registre los índices mas elevados del artículo anterior, a efecto de reorientar los programas sociales y la asignación Presupuestaria necesaria para lograr la equidad en la asignación de los recursos.
+La Secretaría dará prioridad en los meses de septiembre a noviembre, las zonas y comunidades de atención prioritaria, cuya población registre los índices más elevados del artículo anterior, a efecto de reorientar los programas sociales y la asignación presupuestaria necesaria para lograr la equidad en la asignación de los recursos, tomando como base, la determinación que realice la Secretaría de Desarrollo Social Federal, acorde a los criterios de resultados que para el efecto defina el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
 
 ###### Artículo 32.
 
@@ -565,29 +595,47 @@ IX. Las demás que sean necesarios para el cumplimiento de sus funciones que se 
 
 Toda persona u organización podrá solicitar información sobre los programas que aplica la Secretaría de Desarrollo Social.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
 ###### Artículo 49.
 
-La Secretaría de Desarrollo Social del Estado, establecerá un organismo que tendrá la función de cumplir con los requerimientos que establece la Ley de Transparencia y Acceso a la Información Pública. A través de este organismo cualquier ciudadano puede solicitar información sobre los programas de desarrollo social.
+La Secretaría de Desarrollo Social del Estado, establecerá una Unidad de Transparencia para el seguimiento y respuesta a las solicitudes de acceso a la información, publicar la información pública de oficio y demás atribuciones previstas en la Ley de Acceso a la Información Pública, Protección de Datos Personales para el Estado de Coahuila de Zaragoza y demás disposiciones que resulten aplicables.
+
+A través de esta instancia cualquier ciudadano puede solicitar información sobre los programas de desarrollo social.
 
 ## TITULO V. DE LA EVALUACIÓN DE LA POLITICA DE DESARROLLO SOCIAL
 
 ### CAPITULO I. De la Evaluación de la Política Social
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
+
 ###### Artículo 50.
 
-La evaluación de la política de desarrollo social estará a cargo de la Secretaría de Desarrollo Social del Estado y el Congreso del Estado de Coahuila, que podrán realizarla por sí mismos o a través de los Organismos independientes que el Congreso del Estado determine, y tiene por objeto, revisar periódicamente el cumplimiento del objetivo social de los programas, metas y acciones de la Política de Desarrollo Social, para presentar al Gobernador del Estado, propuestas para corregirlos, modificarlos, adicionarlos, reorientarlos o suspenderlos total o parcialmente.
+La evaluación de la política de desarrollo social y de los programas que deriven de esta, estará a cargo de la Secretaría de Desarrollo Social del Estado, la cual tiene por objeto revisar el cumplimiento de la política pública social, sus programas, metas y acciones para presentar al Titular del Ejecutivo, propuestas para corregirlos, modificarlos, adicionarlos, reorientarlos o suspenderlos total o parcialmente.
+
+Sin perjuicio de lo previsto en el párrafo anterior, el Congreso del Estado de Coahuila podrá designar organismos independientes para evaluar la política de desarrollo social.
+
+La Secretaría será la responsable de emitir los lineamientos de evaluación de los indicadores de resultados a fin de generar información relevante y parámetros de efectividad en la operación de los programas.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 ###### Artículo 51.
 
-Los organismos evaluadores independientes que podrán participar serán instituciones de educación superior, de investigación científica u organizaciones no lucrativas. Cuando las evaluaciones se lleven a cabo por un organismo distinto será el Congreso del Estado quien lo determine.
+Los organismos evaluadores independientes que podrán participar serán instituciones de educación superior, de investigación científica u organizaciones no lucrativas, que cuenten con especialistas de amplia experiencia en la materia.
+
+La evaluación deberá de llevarse a cabo mediante métodos científicos y publicarse en el portal de internet de la Secretaría.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 ###### Artículo 52.
 
-Las dependencias de la Administración Pública, Estatal, y Municipal, ejecutoras de los programas a evaluar, proporcionarán toda la información y las facilidades necesarias para la realización de la evaluación.
+Para la evaluación, de manera invariable los programas sociales deberán incluir los indicadores para medir su cobertura, calidad e impacto. Las dependencias u organismos Estatales o Municipales ejecutores de los programas a evaluar, proporcionarán a los responsables de la evaluación, toda la información y las facilidades necesarias para su realización.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
 ###### Artículo 53.
 
-Los indicadores de gestión y servicios que se establezcan deberán reflejar los procedimientos y la calidad de los servicios de los programas, metas y acciones de la Política Estatal de Desarrollo Social.
+Los resultados de la evaluación deberán reflejar el cumplimiento de los objetivos sociales de los programas, así como las metas y acciones de la Política Estatal de Desarrollo Social.
 
 ###### Artículo 54.
 
@@ -736,3 +784,15 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 712.- SE REFORMA EL ARTÍCULO 12, FRACCIÓN V, X Y XV DEL ARTÍCULO 18, LA FRACCIÓN XII DEL ARTÍCULO 19, LOS ARTÍCULOS 26, 27, 31, 49, 50, 51, 52 Y 53; Y ADICIONAR LA FRACCIÓN XV AL ARTÍCULO 18 Y LA XIII AL ARTÍCULO 19 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
