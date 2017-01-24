@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-desarrollo-forestal-sustentable-28605"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-25"
-last_updated: "2016-05-10"
+last_updated: "2017-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 25 de febrero de 2003.
 
@@ -244,31 +244,35 @@ XL. Servicios técnicos forestales: Las actividades realizadas para la planifica
 
 XLI. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
 
-XLII. Terreno forestal: El que está cubierto por vegetación forestal;
+> <small>(ADICIONADA, D.O.F. 24 DE ENERO DE 2017)</small>
 
-XLIII. Terreno preferentemente forestal: Aquel que habiendo estado, en la actualidad no se encuentra cubierto por vegetación forestal, pero por sus condiciones de clima, suelo y topografía resulte más apto para el uso forestal que para otros usos alternativos, excluyendo aquéllos ya urbanizados;
+XLII. Subproducto forestal: Aquellos bienes obtenidos de un proceso de transformación de productos forestales, con otra denominación, nuevas características y uso final distinto;
 
-XLIV. Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales. La consideración de terreno forestal temporal se mantendrá durante un periodo de tiempo no inferior al turno de la plantación;
+XLIII. Terreno forestal: El que está cubierto por vegetación forestal;
+
+XLIV. Terreno preferentemente forestal: Aquel que habiendo estado, en la actualidad no se encuentra cubierto por vegetación forestal, pero por sus condiciones de clima, suelo y topografía resulte más apto para el uso forestal que para otros usos alternativos, excluyendo aquéllos ya urbanizados;
+
+XLV. Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales. La consideración de terreno forestal temporal se mantendrá durante un periodo de tiempo no inferior al turno de la plantación;
 
 > <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-XLV. Turno: Periodo de regeneración de los recursos forestales que comprende desde su extracción hasta el momento en que éstos son susceptibles de nuevo aprovechamiento;
+XLVI. Turno: Periodo de regeneración de los recursos forestales que comprende desde su extracción hasta el momento en que éstos son susceptibles de nuevo aprovechamiento;
 
-XLVI. Unidad de manejo forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
+XLVII. Unidad de manejo forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
 
-XLVII. Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de sus necesidades básicas en el medio rural;
+XLVIII. Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de sus necesidades básicas en el medio rural;
 
-XLVIII. Vegetación forestal: El conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando bosques, selvas, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
+XLIX. Vegetación forestal: El conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando bosques, selvas, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
 
-XLIX. Vegetación exótica: Conjunto de plantas arbóreas, arbustivas o crasas ajenas a los ecosistemas naturales;
+XL. Vegetación exótica: Conjunto de plantas arbóreas, arbustivas o crasas ajenas a los ecosistemas naturales;
 
-L. Ventanilla única: El sistema administrativo que reúne al mayor número posible de las dependencias y entidades del sector público forestal, tanto federal, estatal como municipal, para la atención integral de los distintos usuarios del sector;
+LI. Ventanilla única: El sistema administrativo que reúne al mayor número posible de las dependencias y entidades del sector público forestal, tanto federal, estatal como municipal, para la atención integral de los distintos usuarios del sector;
 
-LI. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y demás disposiciones legales aplicables;
+LII. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y demás disposiciones legales aplicables;
 
 > <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2008)</small>
 
-LII. Vivero forestal: Sitio que cuenta con un conjunto de instalaciones, equipo, herramientas e insumos, en el cual se aplican técnicas apropiadas para la producción de plántulas forestales con talla y calidad apropiada según la especie, para su plantación en un lugar definitivo.
+LIII. Vivero forestal: Sitio que cuenta con un conjunto de instalaciones, equipo, herramientas e insumos, en el cual se aplican técnicas apropiadas para la producción de plántulas forestales con talla y calidad apropiada según la especie, para su plantación en un lugar definitivo.
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION Y ADMINISTRACION DEL SECTOR PUBLICO FORESTAL
 
@@ -588,7 +592,9 @@ XXIV. Regular, expedir y validar la documentación con la que se acredite la leg
 
 XXV. Regular el transporte de materias primas productos y subproductos forestales;
 
-XXVI. Expedir los certificados y demás documentación fitosanitaria para la exportación e importación de materias primas y productos forestales;
+> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2017)</small>
+
+XXVI. Expedir los certificados y demás documentación fitosanitaria para la exportación e importación de materias primas, productos y subproductos forestales;
 
 XXVII. Intervenir en foros internacionales respecto de las materias competencia de la Secretaría con la participación que corresponda a la Secretaría de Relaciones Exteriores y proponer a ésta la celebración de tratados y acuerdos internacionales en tales materias, y
 
@@ -2553,3 +2559,9 @@ D.O.F. 10 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 7 Y 16 DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
