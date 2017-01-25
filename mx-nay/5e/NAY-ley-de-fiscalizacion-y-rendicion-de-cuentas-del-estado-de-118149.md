@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-11814
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2016-12-27"
+last_updated: "2017-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,3573 +21,1131 @@ state: "NAY"
 ---
 # LEY DE FISCALIZACION Y RENDICION DE CUENTAS DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT
 
-LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2024.
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE ENERO DE 2017.]</small>
 
-Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
+Ley publicada en la Sección Quinta al Número 126 del Periódico Oficial del Estado de Nayarit, el martes 27 de diciembre de 2016.
 
-LIC. GABINO CUE MONTEAGUDO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
+Al margen un Sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.
 
-QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE:
+Poder Legislativo.- Nayarit.
 
-DECRETO NÚM. 6
+ROBERTO SANDOVAL CASTAÑEDA, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
 
-LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
+Que el H. Congreso Local, se ha servido dirigirme para su promulgación, el siguiente:
 
-LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
+DECRETO
 
-## TÍTULO I. DISPOSICIONES GENERALES
+El Congreso del Estado Libre y Soberano de Nayarit representado por su XXXI Legislatura, decreta:
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2024)</small>
+###### Artículo 1.
 
-###### ARTÍCULO 1.
+La presente Ley es de orden público y tiene por objeto reglamentar la función de fiscalización superior que ordenan los artículos 116 fracción II, párrafos Sexto, Séptimo y Octavo de la Constitución Política de los Estados Unidos Mexicanos y 47, fracciones XXVI, XXVI-A y XXVI-B, 121 de la Constitución Política del Estado Libre y Soberano de Nayarit, así como establecer las normas de la organización y funcionamiento de la Auditoría Superior del Estado.
 
-La presente Ley tiene por objeto establecer las bases de organización, competencias, atribuciones y funcionamiento del Poder Ejecutivo, a través de la Administración Pública Estatal: Centralizada y Paraestatal, con fundamento en las disposiciones de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+Asimismo, la presente Ley establece la organización de la Auditoría Superior del Estado, sus atribuciones, incluyendo aquéllas para conocer, investigar y substanciar la comisión de faltas administrativas que detecte en sus funciones de fiscalización, en términos de esta Ley, la Ley General de Responsabilidades Administrativas y la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit; así como su evaluación, control y vigilancia por parte del Congreso.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 2.
 
-###### ARTÍCULO 2.
+La Auditoría Superior del Estado, es un ente del Congreso del Estado de Nayarit, especializado en materia de fiscalización, dotado con autonomía técnica y de gestión, así como para decidir sobre su presupuesto, organización interna, funcionamiento y resoluciones.
 
-El ejercicio del Poder Ejecutivo, se deposita en un solo individuo que se denomina Gobernador del Estado, quien tendrá las facultades y obligaciones que le señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente Ley y las demás leyes, reglamentos y disposiciones jurídicas vigentes en el Estado.
+La fiscalización superior se llevará a cabo conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+La Auditoría Superior del Estado, administrará sus recursos con base a los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
 
-###### ARTÍCULO 3.
+###### Artículo 3.
 
-En el ejercicio de sus atribuciones y para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo del Estado, contará con la Administración Pública Estatal, que se regirá por la presente Ley y las demás disposiciones legales aplicables, y se organizará conforme a lo siguiente:
+Para efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+I. Auditoría Superior del Estado: El órgano especializado en materia de fiscalización del Congreso, a que se refiere el artículo 121 de la Constitución Política del Estado libre y Soberano de Nayarit;
 
-I. Administración Pública Centralizada: Integrada por la Gubernatura, Secretarías de Despacho, Consejería Jurídica y Asistencia Legal del Estado y la Dirección General del Instituto de Planeación para el Bienestar, así como por los órganos auxiliares, las unidades administrativas que dependan directamente del Gobernador del Estado y los órganos desconcentrados, a todas estas áreas administrativas se les denominará genéricamente Dependencias;
+II. Auditor Superior: Titular de la Auditoría Superior del Estado de Nayarit;
 
-II. La Administración Pública Paraestatal: Integrada por Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos, así como, por las Entidades Auxiliares del Ejecutivo Estatal, integrándose éstas por los Consejos, Comisiones, Comités, Juntas, Patronatos y aquellas instituciones que por su naturaleza no estén comprendidas dentro de la Administración Pública Centralizada, a las que genéricamente se les denominará como Entidades, estarán reguladas por sus leyes, decretos de creación y reglamentos respectivos; y
+III. Auditoría: Proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por los entes sujetos a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada;
 
-III. Los Órganos Auxiliares realizan una función diferenciada, específica y de responsabilidad directa; como Unidades Responsables, les son aplicables los sistemas de organización, comunicación, coordinación, planeación, programación, control y evaluación de actividades contemplados en esta Ley Orgánica y en específico, los reglamentos, lineamientos y demás normatividad que expidan las instancias normativas, y la que por la naturaleza de sus actividades y materia de su competencia, les sea impuesta por los diversos ordenamientos normativos.
+IV. Autonomía de gestión: La facultad de la Auditoría Superior del Estado para decidir sobre su organización interna, estructura y funcionamiento, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución Política local y esta Ley;
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2022)</small>
+V. Autonomía técnica: La facultad de la Auditoría Superior del Estado para decidir sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización superior;
 
-En el ejercicio de sus funciones el Poder Ejecutivo implementará la buena administración, el principio de gobierno abierto orientado en los principios de transparencia de la información, rendición de cuentas, evaluación de la gestión gubernamental, participación ciudadana, y uso de tecnologías de información.
+VI. Auditoria al desempeño: Es una revisión independiente, objetiva y confiable sobre si las acciones, sistemas, operaciones, programas, actividades u organizaciones del gobierno operan de acuerdo con los principios de economía, eficiencia y eficacia, y sobre si existen áreas de mejora;
 
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+VII. Auditoría de Obra Pública: Es la fiscalización de la planeación, programación, presupuestación, contratación, construcción, instalación, conservación, mantenimiento, reparación y demolición de bienes inmuebles destinados a un servicio público o al uso común, así como, los servicios relacionados con la obra pública, incluidos los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de obra; los servicios relativos a las investigaciones, asesorías y consultorías especializadas y la dirección o supervisión de la ejecución de las obras;
 
-(ADICIONADO, P.O. 12 DE MARZO DE 2020) (REPUBLICADO, P.O. 12 DE MARZO DE 2020)
+VIII. Auditoría Financiera: Es la fiscalización de los ingresos y egresos de los sujetos fiscalizables, que se realiza a efecto de comprobar su adecuada administración, manejo, custodia, aplicación, debida comprobación y justificación; comprende el análisis y examen de la información financiera, contable, patrimonial, programática y presupuestal, para determinar su apego a los principios básicos de contabilidad gubernamental y demás disposiciones legales aplicables;
 
-Los servidores públicos de la administración pública estatal promoverán la participación e inclusión de la población en la toma de decisiones relacionadas con el servicio público.
+IX. Auditoria de Gabinete: Es la revisión que se desarrolla directamente en las oficinas de la Auditoría Superior;
 
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+X. Auditoría de Visita Domiciliaria: Es la revisión que se lleva a cabo directamente en el domicilio fiscal de los sujetos fiscalizables y en las instalaciones donde se encuentre el objeto de la verificación;
 
-(ADICIONADO, P.O. 12 DE MARZO DE 2020) (REPUBLICADO, P.O. 12 DE MARZO DE 2020)
+XI. Auditoría Mixta: Es la aplicación simultánea de las auditorías de gabinete y visita domiciliaria;
 
-El Titular del Poder Ejecutivo impulsará a través de lineamientos de gobierno abierto la implementación de prácticas de transparencia, participación ciudadana y de evaluación de la gestión gubernamental para alcanzar los principios contemplados en el presente artículo.
+XII. Comisión: La Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso del Estado;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+XIII. Congreso: El Congreso del Estado;
 
-###### ARTÍCULO 4.
+XIV. Cuenta Pública: El documento a que se refiere (sic) los artículos 47, fracción XXVI, 121 apartado B, primer párrafo de la Constitución Política del Estado Libre y Soberano de Nayarit, acorde con lo dispuesto por los numerales 53, 54 y 55 de la Ley General de Contabilidad Gubernamental;
 
-Para los efectos de esta Ley, se denominará como servidores públicos a los funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones y de acuerdo a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+XV. Debida Justificación y Comprobación: Es la obligación de los sujetos fiscalizables de llevar un estricto control de la documentación original que justifique y compruebe cualquier operación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+Son documentos justificantes, las disposiciones legales y documentos que demuestren, en el marco de las acciones, tareas y procesos propios de la gestión pública que realizan los Sujetos Fiscalizables, la obligación de hacer un pago, recibir un ingreso o realizar cualquier operación registrada en su contabilidad.
 
-###### ARTÍCULO 5.
+Son documentos comprobatorios, aquellos que generan y amparan registros en la contabilidad y demuestran que:
 
-El Gobernador del Estado podrá autorizar mediante acuerdo o decreto, la creación, sectorización, modificación, adscripción, supresión, liquidación, transferencia o fusión de las Áreas Administrativas de la Administración Pública Centralizada, Comisiones Intersecretariales y demás que requiera la Administración Pública Estatal, asignándoles las funciones correspondientes; de igual manera, podrá autorizar la supresión de plazas cuando las funciones asignadas a las mismas desaparezcan.
+a. Recibió o proporcionó bienes o servicios.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+b. Obtuvo o entregó dinero en efectivo o títulos de crédito.
 
-Asimismo, podrá nombrar y remover libremente a los titulares de la Administración Pública Centralizada y Paraestatal, y demás servidores públicos cuyo nombramiento o remoción no esté determinada de otro modo en la Constitución Política del Estado, o en alguna otra normatividad aplicable.
+c. Sufrió transformaciones internas o se dieron eventos cuantificables que modificaron la estructura de sus recursos o de sus fuentes.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+Estos documentos deberán reunir y ajustarse a los requisitos y disposiciones de las leyes fiscales aplicables al efecto;
 
-###### ARTÍCULO 6.
+XVI. Deuda Pública: Cualquier Financiamiento contratado por los Entes Públicos;
 
-El Gobernador del Estado es titular originario de todas las atribuciones y facultades del Poder Ejecutivo, las que por razones de división del trabajo podrán encomendarse a otros servidores públicos, excepto aquellas indelegables por mandato expreso de la Constitución Política del Estado Libre y Soberano de Oaxaca y las leyes aplicables.
+XVII. Dictamen: Opinión que en el marco de la fiscalización superior se formula respecto de la revisión practicada a cada sujeto;
 
-La delegación de atribuciones y facultades que realice el Gobernador del Estado se harán por Ley, reglamentos o mediante acuerdos que deberán ser publicados en el Periódico Oficial del Gobierno del Estado.
+XVIII. Entes Públicos: Las personas de derecho público de carácter estatal y municipal, por disposición legal o constitucional, que comprende entre otros los poderes Ejecutivo, Legislativo y Judicial, los organismos autónomos del Estado y los Municipios; los organismos descentralizados, empresas de participación mayoritaria y fideicomisos del Estado y los Municipios, mandatos, fondos con participación estatal o municipal, así como cualquier otro ente sobre el que el Estado y los Municipios tengan control sobre sus decisiones o acciones;
 
-La distribución de funciones que esta Ley establece para servidores públicos subalternos, no impedirá al Gobernador del Estado el ejercicio directo de sus atribuciones y facultades cuando así lo considere.
+XIX. Faltas administrativas graves: Las así señaladas en la Ley General de Responsabilidades Administrativas;
 
-De igual forma, podrá transferir, coordinar y concentrar temporalmente atribuciones entre Dependencias o entre éstas y las Entidades, con el objeto de cumplir con los fines de la planeación para el desarrollo del Estado o responder a situaciones emergentes. En los casos en que el ejercicio de esta facultad implique actos de molestia, deberá ser publicado el acuerdo respectivo, en el Periódico Oficial del Gobierno del Estado.
+XX. Financiamiento y otras obligaciones: Toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, u obligación de pago, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-El Gobernador del Estado, podrá delegar facultades a los titulares de las Dependencias y Entidades, para celebrar acuerdos, convenios y demás actos jurídicos legales, de conformidad con lo establecido con esta Ley.
+XXI. Fiscalía Especializada: Fiscalía Especializada en Combate a la Corrupción del Estado de Nayarit;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+XXII. Fiscalización Superior: La revisión que realiza la Auditaría Superior del Estado, en los términos constitucionales y de esta ley;
 
-### CAPÍTULO II. DE LAS DEPENDENCIAS
+XXIII. Gestión Financiera: Las acciones, tareas y procesos que realizan los Sujetos Fiscalizables para la administración, manejo, custodia y aplicación de los ingresos financieros, egresos, fondos y en general de los recursos públicos que éstos utilicen para la ejecución de los objetivos contenidos en los programas aprobados;
 
-ARTÍCULO 33 BIS. (DEROGADO, P.O. 31 DE ENERO DE 2024)
+XXIV. Informe de Avance de Gestión Financiera: El informe que en términos de esta ley, se rinde de manera consolidada sobre los avances físicos y financieros de los programas aprobados en los presupuestos respectivos por los sujetos obligados a presentar Cuenta Pública;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+XXV. Informe General: El Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública;
 
-###### ARTÍCULO 7.
+XXVI. Informe específico: Al informe derivado de denuncias a que se refiere el artículo 121, apartado A, fracción I, último párrafo, de la Constitución Política del Estado Libre y Soberano de Nayarit;
 
-Los titulares de las Dependencias y Entidades de la Administración Pública Estatal, se coordinarán entre sí y con la Secretaría General de Gobierno, para proveer y dar cumplimiento a los compromisos contraídos en la atención de los asuntos de política interior.
+XXVII. Informes Individuales: Son los informes de cada una de las auditorías practicadas a los sujetos fiscalizados. Este documento tendrá una versión preliminar, misma que se remite al sujeto fiscalizado correspondiente para efectos de solventación, siendo el Informe Individual definitivo el que deberá remitirse al Congreso;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+XXVIII. Órgano interno de control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como de la investigación, substanciación y, en su caso, de sancionar las faltas administrativas que le competan en los términos previstos en la Ley General de Responsabilidades Administrativas y en la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit;
 
-###### ARTÍCULO 8.
+XXIX. Procesos concluidos: Cualquier acción que se haya realizado durante el año fiscal en curso que deba registrarse como pagado conforme a la Ley General de Contabilidad Gubernamental;
 
-Los titulares de las Dependencias y Entidades de la Administración Pública Estatal, tienen la obligación de coordinar sus acciones y actividades entre sí, cuando el desempeño de sus funciones así lo requiera y conforme al ámbito de sus atribuciones, en el logro de sus objetivos comunes.
+XXX. Programas: Los contenidos en los presupuestos aprobados a los que se sujeta la Gestión o actividad de los Sujetos de Fiscalización;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+XXXI. Secretaría: La dependencia del Poder Ejecutivo del Estado, competente para efectuar la recaudación de los ingresos del estado y para el cobro coactivo de créditos fiscales;
 
-###### ARTÍCULO 9.
+XXXII. Servidores públicos: Los que se consideran como tales en la Constitución Política del Estado Libre y Soberano de Nayarit y en la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit;
 
-El Ejecutivo del Estado podrá convenir con el Ejecutivo Federal, con otras entidades federativas, el Distrito Federal, ayuntamientos y particulares, la prestación de servicios, la ejecución de obras o la realización de cualquier otro propósito de beneficio colectivo, o bien, concesionarlas a los sectores social o privado en los términos de las disposiciones Constitucionales y legales aplicables.
+XXXIII. Sujetos fiscalizables: Los entes públicos; las entidades de interés público distintas a los partidos políticos y en general, cualquier persona, física o moral, pública o privada que recaude, administre, maneje o ejerza recursos financieros públicos; independientemente de no estar obligados a presentar cuenta pública;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+XXXIV. Tribunal: El Tribunal de Justicia Administrativa del Estado de Nayarit, y
 
-###### ARTÍCULO 10.
+XXXV. Unidad de Medida y Actualización: La Unidad de Medida y Actualización considerando su valor en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
-El Gobernador del Estado determinará qué Dependencias y Entidades de la Administración Pública Estatal, deberán coordinarse con la Administración Pública Federal, con las entidades federativas y municipal o con los particulares, para el cumplimiento de cualquiera de los propósitos a que se refiere el artículo anterior.
+Las demás definiciones previstas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley General de Contabilidad Gubernamental, serán aplicables a la presente ley.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 4.
 
-###### ARTÍCULO 11.
+Tratándose de los informes a que se refieren las fracciones XXV, XXVI y XXVII del artículo anterior, la información contenida en los mismos será publicada en la página de Internet de la Auditoría Superior del Estado, en formatos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit, siempre y cuando no se revele información que se considere temporalmente reservada o que forme parte de un proceso de investigación, en los términos previstos en la legislación aplicable. La información reservada se incluirá una vez que deje de serlo.
 
-Las Dependencias y Entidades de la Administración Pública Estatal, deberán conducir sus actividades en forma programada y con base en el Plan Estatal de Desarrollo, así como las políticas, prioridades y restricciones que para el logro de los objetivos y metas de los planes de Gobierno, establezca el Gobernador del Estado.
+###### Artículo 5.
 
-Los titulares de dichos órganos periódicamente le rendirán un informe al Titular del Ejecutivo; así mismo, darán cuenta al Congreso del Estado, cuando éste lo solicite, sobre el estado que guarden sus respectivas Dependencias y Entidades, o en los casos en que por instrucciones directas del Gobernador del Estado, atiendan un asunto específico concerniente a la Administración Pública, de conformidad a sus facultades y competencias.
+La fiscalización de la Cuenta Pública que realiza la Auditoría Superior del Estado se lleva a cabo de manera posterior al término de cada ejercicio fiscal, una vez que el programa anual de auditoría esté aprobado y publicado en su página de internet; tiene carácter externo y por lo tanto se efectúa de manera independiente y autónoma de cualquier otra forma de control o fiscalización que realicen los órganos internos de control.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+La fiscalización a la gestión financiera, así como al cumplimiento de los objetivos contenidos en los programas autorizados en el presupuesto de egresos de la Auditoría Superior del Estado estará a cargo del Congreso por conducto de la Comisión con apoyo de la Contraloría Interna; ésta se realizará con sujeción a las mismas formalidades y obligaciones que establece esta ley para los demás sujetos de fiscalización.
 
-A la Comisión Estatal de Arbitraje Médico de Oaxaca, que por razón de la materia es un Órgano Autónomo de base legal, le son aplicables los sistemas de organización, comunicación, coordinación, planeación, programación, control, evaluación y rendición de cuentas contemplados en esta Ley Orgánica en el ámbito administrativo y conforme al artículo 16, Fracción XII de su Ley, deberán remitir el informe respectivo al Titular del Poder Ejecutivo, en el momento en que le sea requerido.
+En todo caso, los resultados de la fiscalización a la Auditoría Superior del Estado, deberán incorporarse anualmente por la Comisión al dictamen que emita ésta sobre el Informe General que debe presentarse al pleno del Congreso.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 6.
 
-###### ARTÍCULO 12.
+A falta de disposición expresa en la ley, se aplicarán en forma supletoria y en lo conducente, la Ley General de Contabilidad Gubernamental, la Ley General de Responsabilidades Administrativas y las demás leyes de aplicación general en todo lo relativo; asimismo la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit, la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como las disposiciones relativas del derecho presupuestario, común, sustantivo y procesal.
 
-Los titulares de las Dependencias y Entidades, a que se refiere esta Ley, formularán los programas, anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y órdenes necesarias para el desempeño de sus funciones, acordes con el Plan Estatal de Desarrollo y las políticas públicas del Gobierno del Estado, cuyas materias correspondan a sus facultades y competencias.
+### CAPÍTULO II. DE LA AUDITORÍA SUPERIOR DEL ESTADO
 
-Para el caso de anteproyectos de Ley, deberán remitirlos al Gobernador del Estado para su valoración y revisión por conducto de la Consejería Jurídica del Gobierno del Estado, por lo menos con treinta días hábiles de anticipación a la fecha en que deban ser remitidos al Congreso del Estado, salvo aquellas que por su propia naturaleza y a juicio del Gobernador del Estado ameriten una valoración y revisión expedita.
+#### SECCIÓN PRIMERA. DE SU COMPETENCIA
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 7.
 
-###### ARTÍCULO 13.
+La Auditoría Superior del Estado será competente para:
 
-Los titulares de las Dependencias y Entidades, administrarán los recursos humanos, financieros, materiales y demás a su cargo, para el cumplimiento de sus atribuciones, con base en los principios de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez.
+I. Realizar, conforme a su programa anual, auditorías e investigaciones. Para la práctica de Auditorías, la Auditoría Superior del Estado podrá solicitar información y documentación durante el desarrollo de las mismas, a efecto de proceder a su revisión durante sus visitas domiciliarias y/o directamente en sus oficinas;
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+II. Verificar, si la gestión y el ejercicio del gasto público de los Sujetos Fiscalizables, se efectuaron conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad, obligaciones fiscales y laborales, contratación de servicios personales y generales, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
-Para tal efecto, se implementarán las delegaciones a que se refiere el artículo 47, fracción XXXII, de la presente Ley, las cuales, dependerán jerárquica y administrativamente de la Secretaría de la Contraloría y Transparencia Gubernamental, quien regulará su funcionamiento conforme a la normatividad aplicable. Dichas delegaciones, serán con cargo al presupuesto de las Dependencias, Entidades y Órganos Auxiliares correspondientes.
+III. Comprobar y verificar si la recaudación, administración, manejo y aplicación de recursos estatales y municipales; los actos, contratos, convenios, concesiones u operaciones que los Sujetos Fiscalizables celebraron o realizaron, se ajustaron a la legalidad, y si no causaron daños o perjuicios en contra de las Haciendas Públicas Estatal y Municipales, o a su patrimonio;
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2017)</small>
+IV. Verificar que los Sujetos Fiscalizables que hayan captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los planes y programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes; además, con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-Además de lo dispuesto en los párrafos que anteceden, los titulares de las dependencias y entidades, en su actuar, deberán regirse por los principios de legalidad, honradez, lealtad, eficiencia, máxima publicidad e imparcialidad, por lo que establecerán acciones efectivas para el cumplimiento de estos principios.
+V. Verificar obras, bienes adquiridos y servicios contratados por los Sujetos Fiscalizables para comprobar si los recursos de las inversiones y los gastos autorizados a los Sujetos Fiscalizables se ejercieron en los términos de las disposiciones aplicables;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+VI. Fiscalizar la aplicación de los subsidios o estímulos fiscales que los Sujetos Fiscalizables, hayan recibido, u otorgado con cargo a su presupuesto, a municipios, particulares y en general a cualquier persona pública o privada, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
 
-###### ARTÍCULO 14.
+VII. Practicar auditarías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales y municipales, conforme a los indicadores establecidos en el Presupuesto de Egresos y tomando en cuenta el Plan Estatal de Desarrollo, los Planes de Desarrollo Municipal, los programas sectoriales, regionales, operativos anuales, y demás programas de los sujetos fiscalizables, entre otros, a efecto de verificar el desempeño de los mismos y en su caso, el uso de recursos públicos estatales y municipales; contribuyendo a la rendición de cuentas y a la transparencia;
 
-Para la programación, presupuestación, control, supervisión y evaluación de los proyectos de inversión, las Dependencias y Entidades responsables de la ejecución de programas, se coordinarán con las Secretarías de: Finanzas, Administración, y de la Contraloría y Transparencia Gubernamental, así como, con las demás dependencias, y entidades que guarden relación en el ámbito de sus atribuciones.
+VIII. Emitir los lineamientos técnicos y criterios para la ejecución y seguimiento de las auditorías, así como establecer procedimientos de investigaciones, aplicación de encuestas y compulsas necesarias para la fiscalización superior;
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
+IX. Efectuar visitas domiciliarias para exigir la exhibición de libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de datos, documentos o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades para los cateos; así como realizar visitas de campo, entrevistas y reuniones con particulares o servidores públicos de los Sujetos Fiscalizables, para allegarse la información que se considere necesaria para el ejercicio de sus atribuciones;
 
-Las Dependencias y Entidades son responsables de formular los proyectos y programas de inversión de su competencia y realizar los estudios de preinversión necesarios para su evaluación, validación y autorización. Asimismo, serán responsables exclusivos de su ejecución, con base en los recursos que les hayan sido aprobados.
+X. Solicitar, obtener y tener acceso a toda la información y documentación, que a juicio de la Auditoría Superior del Estado sea necesaria para llevar a cabo la auditaría correspondiente, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+a) Los Sujetos Fiscalizables;
 
-###### ARTÍCULO 15.
+b) La Secretaría de la Contraloría General del Estado;
 
-Para su validez y observancia los Decretos, Acuerdos, Reglamentos, Convenios, Circulares, Ordenes, Despachos y demás disposiciones de carácter general que suscriba o expida el Gobernador del Estado, conforme a la Constitución Política del Estado Libre y Soberano de Oaxaca y demás ordenamientos legales aplicables, deberán ser firmados por el Titular de la Secretaría General de Gobierno y los titulares de las Secretarías competentes u Órganos Auxiliares o, en su caso, los titulares de las Dependencias que sectorizan, según correspondan, además deberán firmar los Directores Generales de las Entidades Paraestatales u Órganos Desconcentrados respectivos, conforme al artículo 84 de la Constitución Política del Estado Libre y Soberano de Oaxaca, publicándose en el Periódico Oficial del Gobierno del Estado.
+c) Los órganos internos de control;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+d) Los auditores externos de los Sujetos Fiscalizables;
 
-Tratándose de la orden de publicación de leyes o decretos expedidos por el Congreso del Estado, solo se requerirá la firma del Gobernador del Estado y del Secretario General de Gobierno.
+e) Instituciones de crédito, fideicomisos u otras figuras del sector financiero, y
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+f) Autoridades hacendarias federales y locales.
 
-###### ARTÍCULO 16.
+La Auditoría Superior del Estado tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos y egresos estatales y la deuda pública, estando obligada a mantener la misma reserva, en términos de las disposiciones aplicables. Dicha información solamente podrá ser solicitada en los términos de las disposiciones aplicables, de manera indelegable por el titular de la Auditoría y los auditores especiales a que se refiere esta Ley.
 
-Para su obligatoriedad, todas las disposiciones de carácter general que sean expedidas por las Dependencias y Entidades del Ejecutivo Estatal, deberán ser publicadas en el Periódico Oficial del Gobierno del Estado, conforme al artículo 4, de la Ley de Justicia Administrativa para el Estado de Oaxaca.
+Cuando derivado de la práctica de auditorías se entregue a la Auditoría Superior del Estado información de carácter reservado o confidencial, ésta deberá garantizar que no se incorpore en los resultados, observaciones, recomendaciones y acciones de los informes de auditoría respectivos, información o datos que tengan esta característica en términos de la legislación aplicable. Dicha información será conservada por la Auditoría Superior del Estado en sus documentos de trabajo y sólo podrá ser revelada a la autoridad competente, en términos de las disposiciones aplicables;
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2018)</small>
+XI. Requerir a terceros que hubieran contratado con los Sujetos Fiscalizables obra pública, bienes o servicios mediante cualquier título legal y, a cualquier entidad o persona física o moral, pública o privada, o aquellas que hayan sido subcontratados (sic) por terceros, la información relacionada con la documentación justificativa y comprobatoria del ejercicio de los recursos públicos, a efecto de realizar las compulsas correspondientes;
 
-###### ARTÍCULO 17.
+XII. Celebrar convenios de coordinación y colaboración con su similar de la Federación, para efectos de la fiscalización de recursos federales que ejerzan los Sujetos Fiscalizables;
 
-Los servidores públicos, que de acuerdo a sus funciones y a las disposiciones aplicables que así lo requieran, al tomar posesión del cargo deberán registrar su firma y sello en la Consejería Jurídica del Gobierno del Estado, y otorgar fianza cuando las leyes así lo establezcan; del mismo modo los notarios públicos en ejercicio de la función notarial registrarán sus firmas y sellos.
+XIII. Celebrar convenios con autoridades federales y de otras entidades federativas, así como con personas físicas o morales, públicas o privadas con el propósito de dar cumplimiento al objeto de esta ley;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+XIV. Requerir a los auditores externos copia de todos los informes y dictámenes de las auditorías y revisiones por ellos practicadas a los sujetos fiscalizables y de ser requerido, el soporte documental;
 
-###### ARTÍCULO 18.
+XV. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o presunta conducta ilícita, o comisión de faltas administrativas, en los términos establecidos en esta Ley, en la Ley General de Responsabilidades Administrativas y en la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit;
 
-Los titulares de Dependencias y Entidades de la Administración Pública Estatal, al tomar posesión de su cargo y al concluirlo, deberán levantar un inventario de los bienes que tengan bajo su resguardo, con la intervención de las dependencias competentes.
+XVI. Promover las responsabilidades administrativas, para lo cual la Unidad Administrativa a cargo de las investigaciones de la Auditoría Superior del Estado presentará el informe de presunta responsabilidad administrativa correspondiente, ante la autoridad substanciadora de la misma Auditoría Superior del Estado, para que ésta, de considerarlo procedente, turne y presente el expediente, ante el Tribunal o, en el caso de las no graves, ante el órgano interno de control;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+Cuando detecte posibles responsabilidades no graves dará vista a los órganos internos de control competentes, para que continúen la investigación respectiva y, en su caso, promuevan la imposición de las sanciones que procedan;
 
-###### ARTÍCULO 19.
+XVII. Dar seguimiento ante las autoridades competentes para la imposición de las sanciones que correspondan a los servidores públicos y particulares a los que refiere esta Ley;
 
-Los titulares de Dependencias y Entidades a que se refiere esta Ley, no podrán desempeñar ningún otro empleo, cargo, o comisión públicos del Estado y de los Municipios, por los que disfruten sueldo, honorarios o gratificación, o cualquier otra ministración de dinero, con excepción a los relativos a los ramos de educación y beneficencia pública.
+XVIII. Presentar las denuncias y querellas penales, que correspondan ante la Fiscalía Especializada y fungir como coadyuvante, en términos de la legislación penal aplicable;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+XIX. Obtener durante el desarrollo de las auditorías e investigaciones copia de los documentos originales que se tengan a la vista, y certificarlas mediante cotejo con sus originales así como también poder solicitar la documentación en copias certificadas;
 
-###### ARTÍCULO 20.
+XX. Expedir certificaciones de los documentos que obren en los archivos de la Auditoría Superior del Estado;
 
-Cuando alguna Dependencia o Entidad de la Administración Pública Estatal, necesite informes, datos o la cooperación técnica de otra, deberá solicitarlo por escrito; la institución que reciba dicha solicitud deberá proporcionar lo solicitado dentro del ámbito de sus atribuciones, y en los términos previstos por la Constitución y las leyes secundarias.
+XXI. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de las multas que imponga;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+XXII. Recurrir, a través de la unidad administrativa a cargo de las investigaciones de la Auditoría Superior del Estado, las determinaciones del Tribunal y de la Fiscalía Especializada, en términos de las disposiciones legales aplicables;
 
-###### ARTÍCULO 21.
+XXIII. Elaborar su proyecto de presupuesto anual, conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emite el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; e incluirá cuando menos lo establecido en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit; y en caso de ser necesario de ampliaciones al mismo; de igual manera, autorizar transferencias presupuestales que sean necesarias; estas modificaciones se harán del conocimiento del Congreso en los informes que sobre su gestión financiera se le presenten.
 
-Para ser titular de una Dependencia o Entidad, de la Administración Pública Estatal se requiere:
+El proyecto propuesto deberá de contribuir a un balance presupuestario sostenible;
 
-I. Ser ciudadana o ciudadano mexicano;
+XXIV. Entregar al Congreso, a través de la Comisión, el Informe General e Informes Individuales;
 
-II. Tener por lo menos 25 años de edad en la fecha de su designación;
+XXV. Participar en foros nacionales e internacionales, cuyas funciones sean acordes con sus atribuciones;
 
-III. Contar con cédula profesional, título o equivalente, o experiencia probada en actividades laborales, profesionales o académicas en el ramo para el cual sea propuesto;
+XXVI. Participar en el Sistema Local Anticorrupción así como en su Comité Coordinador, en los términos de lo dispuesto por el artículo 127, fracción I de la Constitución Política del Estado Libre y Soberano de Nayarit y de la ley local en la materia;
 
-IV. Estar en pleno ejercicio de sus derechos civiles y políticos;
+XXVII. Constatar la existencia, procedencia y registro de los activos y pasivos de los Sujetos Fiscalizables, de los fideicomisos, fondos y mandatos o cualquier otra figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares de la Cuenta Pública;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+XXVIII. Fiscalizar el financiamiento público en los términos establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como en las demás disposiciones aplicables;
 
-V. No haber sido condenado por delitos intencionales, patrimoniales y no estar inhabilitado para desempeñar un empleo, cargo o comisión; y
+XXIX. Formular recomendaciones, solicitudes de aclaración, Informe General, Informe Específico, Informes Individuales, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa, informes de presunta responsabilidad administrativa, denuncias de hechos y denuncias de juicio político;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+XXX. Solicitar la información financiera, incluyendo los registros contables, presupuestarios, programáticos y económicos, así como los reportes institucionales y de los sistemas de contabilidad gubernamental que los entes públicos están obligados a operar con el propósito de consultar la información contenida en los mismos;
 
-VI. Tener un modo honesto de vivir y aprobar la evaluación de control de confianza establecida en la ley de la materia.
+XXXI. Podrá solicitar a los Sujetos Fiscalizables Información del ejercicio en curso, respecto de procesos concluidos, para la planeación de la fiscalización de la Cuenta Pública. Lo anterior sin perjuicio de la revisión y fiscalización que la Auditoría Superior del Estado lleve a cabo conforme a lo contenido en esta Ley;
 
-VII. (DEROGADA, P.O. 15 DE OCTUBRE DE 2016)
+XXXII. Integrar el Sistema Local de Fiscalización en los términos de la ley local en materia de anticorrupción;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+XXXIII. Fiscalizar el cumplimiento de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como el de los ordenamientos locales relacionados con esa materia, y
 
-VIII. No haber sido condenada o condenado mediante resolución firme por violencia familiar; por delitos cometidos por razones de género y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de los (sic) dispuesto en la ley de la materia.
+XXXIV. Las demás que le sean conferidas por la Constitución Política del Estado Libre y Soberano de Nayarit, esta ley o cualquier otro ordenamiento legal.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+###### Artículo 8.
 
-Los subsecretarios, directores de área, coordinadores o sus equivalentes, jefes de departamento y jefes de oficina, deberán cumplir los mismos requisitos, salvo lo establecido en las fracciones II y III.
+Los Sujetos Fiscalizables facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2022)</small>
+Los servidores públicos, personas físicas o morales, públicas o privadas, fideicomisos, mandatos o fondos, o cualquier otra figura jurídica, que capten, reciban, recauden, administren, manejen, custodien o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, durante la planeación y desarrollo de las auditorías e investigaciones, dentro de los plazos establecidos en esta ley, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
-Todos serán nombrados con base en los principios de idoneidad, honorabilidad, paridad de género, apartidismo en el ejercicio de sus funciones y no discriminación; procurando la inclusión de personas con discapacidad.
+De no proporcionar la información, los responsables serán sancionados en los términos de la Ley General de Responsabilidades Administrativas, la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit y, en su caso, en términos de la legislación penal aplicable.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+Cuando esta Ley no prevea plazo, la Auditoría Superior del Estado podrá fijarlo y no será inferior a tres días hábiles ni mayor a diez días hábiles contados a partir del día siguiente a que haya surtido efectos la notificación correspondiente.
 
-###### ARTÍCULO 22.
+Derivado de la complejidad de los requerimientos de información formulados por la Auditoría Superior del Estado, los sujetos fiscalizables podrán solicitar, previo a su vencimiento y por escrito fundado en causa justificada, un plazo mayor para atenderlo; la Auditoría Superior del Estado determinará si lo concede, el cual será improrrogable.
 
-Los nombramientos de los Secretarios de Despacho, llevados a cabo por el Gobernador del Estado, deberán ser remitidos inmediatamente al Honorable Congreso del Estado para su conocimiento.
+Las personas a que se refiere este artículo deberán acompañar a la información solicitada, los anexos, estudios soporte, memorias de cálculo y demás documentación soporte relacionada con la solicitud.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+###### Artículo 9.
 
-Los nombramientos a que hace referencia el párrafo anterior habrán de establecerse bajo el principio de paridad de género propiciando que haya igual número de hombres y mujeres, cumpliendo con los requisitos previstos en el artículo 21 de la presente Ley.
+La Auditoría Superior del Estado podrá imponer multas, conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+I. Cuando los servidores públicos y las personas físicas o morales, públicas o privadas no atiendan los requerimientos a que refiere el artículo precedente, salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad, la Auditoría Superior del Estado podrá imponerles una multa mínima de ciento cincuenta a una máxima de dos mil veces el valor diario de la Unidad de Medida y Actualización;
 
-###### ARTÍCULO 23.
+La reincidencia se sancionará con una multa hasta del doble de la impuesta anteriormente, sin perjuicio de que persista la obligación de atender el requerimiento respectivo;
 
-Los titulares de las Dependencias y Entidades, podrán delegar en sus subalternos cualesquiera de sus atribuciones, salvo aquellas que la Constitución Política del Estado Libre y Soberano de Oaxaca, las leyes y reglamentos dispongan que deban ser ejercidas directamente por ellos.
+II. Se aplicarán las multas previstas en este artículo a los terceros que hubieran firmado contratos o subcontratado obra pública, administración de bienes o prestación de servicios mediante cualquier título legal con los sujetos fiscalizados, cuando no entreguen la documentación e información que les requiera la Auditoría Superior del Estado;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+III. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad liquida. La Secretaría se encargará de hacer efectivo su cobro coactivo de estos ingresos, y
 
-###### ARTÍCULO 24.
+IV. Las multas que se impongan en términos de este artículo son independientes de las sanciones administrativas y penales en términos de las leyes aplicables en dichas materias, por la negativa a entregar información a la Auditaría Superior del Estado, así como por los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora o la entrega de información falsa.
 
-El Ejecutivo Estatal, emitirá los Reglamentos Internos, en los que se establecerá la estructura y funciones específicas de las dependencias de la Administración Pública Estatal Centralizada, tratándose de la Administración Paraestatal los emitirá el Órgano de Gobierno respectivo.
+#### SECCIÓN SEGUNDA. DE SU INTEGRACIÓN Y ORGANIZACIÓN
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 10.
 
-###### ARTÍCULO 25.
+Al frente de la Auditoría Superior del Estado habrá un Auditor Superior cuyo nombramiento recaerá en la persona que cumpla los requisitos establecidos por la Constitución Política del Estado Libre y Soberano de Nayarit y la presente Ley.
 
-El Gobernador del Estado implementará audiencias públicas periódicas para que los ciudadanos del Estado, le planteen de manera directa asuntos de interés público, a él como titular del Poder Ejecutivo del Estado y a los titulares de las Dependencias y Entidades y deberá dar informe del cumplimiento de las peticiones recibidas en las audiencias públicas; en su informe anual y en los medios de publicación oficial.
+###### Artículo 11.
 
-Estas audiencias deberán desarrollarse por lo menos una vez al año en cada región.
+La designación del Auditor Superior se sujetará al procedimiento siguiente:
 
-## TÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
+I. El Congreso, por conducto de la Comisión formulará la convocatoria pública correspondiente, a efecto de recibir durante un periodo de diez días hábiles contados a partir de la fecha de publicación de la convocatoria, las solicitudes para ocupar el puesto de Auditor Superior;
 
-###### ARTÍCULO 26.
+La Comisión podrá consultar a las organizaciones de la sociedad civil y académicas que estime pertinente, para postular los candidatos idóneos para ocupar el cargo;
 
-Las Secretarías de Despacho, la Consejería Jurídica y Asistencia Legal del Gobierno del Estado y la Dirección General del Instituto de Planeación para el Bienestar, tendrán igual rango cada cual de acuerdo a su naturaleza y entre ellas no habrá preeminencia alguna, sus titulares ejercerán en su ámbito de competencia las funciones encomendadas por la Constitución Política del Estado Libre y Soberano de Oaxaca, la presente Ley y demás ordenamientos normativos.
+II. Concluido el plazo anterior, y recibidas las solicitudes con los requisitos y documentos que señale la convocatoria, la Comisión, dentro de los cinco días naturales siguientes, procederá a la revisión y análisis de las mismas;
 
-ARTÍCULO 26 BIS. (DEROGADO, P.O. 31 DE ENERO DE 2024)
+III. Del análisis de las solicitudes los integrantes de la Comisión entrevistarán por separado para la evaluación respectiva y dentro de los cinco días naturales siguientes, a los candidatos que hayan satisfecho los requisitos para la conformación de una terna;
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+IV. Conformada la terna, en un plazo que no deberá exceder de tres días naturales, la Comisión formulará su dictamen, a fin de proponer al Pleno los tres candidatos, para que éste proceda, en los términos del artículo anterior, a la designación del Auditor Superior, y
 
-###### ARTÍCULO 27.
+V. La persona designada, previo al inicio de su cargo, protestará ante el Pleno del Congreso.
 
-Para el ejercicio de sus atribuciones y el despacho de los asuntos que son de su competencia, el Gobernador del Estado, contará con las siguientes dependencias de la Administración Pública Centralizada.
+En caso de que ningún candidato de la terna propuesta en el dictamen para ocupar el cargo de Auditor Superior, haya obtenido la votación de las dos terceras partes de los miembros presentes del Congreso, se volverá a someter una nueva propuesta en los términos del presente artículo.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+Ningún candidato propuesto en el dictamen rechazado por el Pleno podrá participar de nueva cuenta en el proceso de selección.
 
-I. Secretaría de Gobierno;
+###### Artículo 12.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+El Auditor Superior durará en su cargo ocho años y podrá ser nombrado nuevamente por una sola vez; podrá ser removido por el Congreso por las causas graves a que se refiere el artículo 20 de esta ley, con la misma votación requerida para su nombramiento o por las causas y conforme a los procedimientos previstos en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Nayarit y la ley de la materia.
 
-II. Secretaría de Seguridad y Protección Ciudadana;
+###### Artículo 13.
 
-III. Secretaría de Salud;
+Para ser Auditor Superior se requiere satisfacer los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos, sin tener ni antes ni durante el encargo doble nacionalidad;
 
-IV. Secretaría de Infraestructuras y Comunicaciones;
+II. Ser vecino del Estado de Nayarit con una residencia mínima de cinco años;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2022)</small>
+III. Tener cuando menos treinta y cinco años cumplidos al día de la designación;
 
-V. Secretaría de Educación Pública;
+IV. Contar con experiencia de al menos cinco años en materia de control, auditora financiera y de responsabilidades;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2022)</small>
+V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-VI. Secretaría del Trabajo;
+VI. No haber sido Gobernador, Magistrado, Fiscal General, miembro del Consejo de la Judicatura, Senador, Diputado Federal o local, Presidente, Regidor, Síndico o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2018)</small>
+VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia, y
 
-VII. Secretaría de Movilidad;
+VIII. Poseer, al día del nombramiento, título y cédula profesional de licenciatura en el área de Sociales, Humanidades o Económico Administrativas, expedidos por autoridad o Institución legalmente facultada para ello.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+Dicho titular, durante el ejercicio de su encargo, no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
-VIII. Secretaría de las Culturas y Artes;
+###### Artículo 14.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+Son atribuciones del Auditor Superior las siguientes:
 
-IX. Secretaría de Bienestar, Tequio e Inclusión;
+I. Representar legalmente a la Auditoría Superior del Estado e intervenir en toda clase de juicios en que ésta sea parte. El Auditor Superior no podrá absolver posiciones y sólo estará obligado a rendir declaración, siempre que las preguntas se formulen por medio de oficio expedido por autoridad competente, mismas que contestará por escrito dentro del término que señale la ley;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+II. Elaborar el proyecto de presupuesto anual de la Auditoría Superior del Estado y remitirlo al Congreso por conducto de la Comisión para su inclusión en el proyecto de Presupuesto de Egresos en los plazos y formas que se determinen por la ley de la materia; en dicho proyecto se presupuestarán todos los recursos que por cualquier concepto deba ejercer la Auditoría Superior del Estado. En todo caso, al proyecto de presupuesto se deberá acompañar el tabulador de sueldos, compensaciones ordinarias y extraordinarias a los que podrán ser objeto los servidores públicos adscritos a la Auditoría Superior del Estado;
 
-X. Secretaría de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas;
+III. Presentar la cuenta pública y los informes de avance de gestión financiera de la Auditoría Superior del Estado al Congreso por conducto de la Comisión para su fiscalización, en los términos de esta ley;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+IV. Administrar los bienes y recursos a cargo de la Auditoría Superior del Estado; así como gestionar la incorporación, destino, desincorporación o enajenación de bienes inmuebles del dominio público del Estado, afectos a su servicio. La adquisición y enajenación de bienes muebles y la prestación de servicios, deberá sujetarse a lo dispuesto en las leyes de la materia; asimismo, aprobar las modificaciones al presupuesto de egresos de la Auditoría Superior del Estado derivadas de ampliaciones de recursos al monto total aprobado o transferencias de partidas de un mismo capítulo y entre capítulos distintos;
 
-XI. Secretaría de Fomento Agroalimentario y Desarrollo Rural;
+V. Presentar el Programa Operativo Anual de la Auditoría Superior del Estado para el conocimiento de la Comisión conjuntamente con su proyecto de presupuesto de egresos. Este programa deberá reflejar los proyectos de los programas que realizara la Auditaría Superior del Estado durante el ejercicio fiscal siguiente; asimismo, deberá incluirse el orden cronológico de sus actividades el costo aproximado de éstas, las unidades responsables de su ejecución, las metas y los objetivos estimados;
 
-XII. Secretaría de Finanzas;
+VI. Expedir el Reglamento Interior de la Auditoría Superior del Estado, que tendrá por objeto la distribución de atribuciones entre sus unidades administrativas, delegación de facultades, señalamiento de aquellas de carácter delegable y las que no podrán ser y delegables del Auditor Superior, régimen de suplencia de sus titulares y los requisitos para su nombramiento. Para su debida validez el Reglamento Interior deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+VII. Presentar para su conocimiento a la Comisión el programa anual de auditorías, que deberá contener los sujetos a fiscalizar y el alcance de los trabajos a realizar. Dicho programa se remitirá a más tardar en el mes de enero del año de qué se trate, previo inicio de la fiscalización;
 
-XIII. Secretaría de Administración;
+VIII. Expedir los manuales de organización y procedimientos, así como los lineamientos necesarios para el funcionamiento de la Auditoría Superior del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+IX. Expedir reglas técnicas, procedimientos, métodos y sistemas de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de la fiscalización;
 
-XIV. Secretaría de Honestidad, Transparencia y Función Pública;
+X. Expedir oficios de comisión, credenciales y demás documentos necesarios para el desempeño de las funciones que les sean conferidas;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+XI. Expedir nombramientos del personal de la Auditoría Superior del Estado;
 
-XV. Secretaría de Desarrollo Económico;
+XII. Requerir a los titulares de los sujetos fiscalizables, la remisión de información y documentación específica para el cumplimiento de la función de Fiscalización Superior;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+XIII. Formular y entregar al Congreso, por conducto de la Comisión, el Informe General e Informes Individuales a más tardar el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública;
 
-XVI. Secretaría de Turismo;
+XIV. Ordenar, en su caso, la práctica de visitas, auditorías, inspecciones, verificaciones, compulsas y demás acciones necesarias para la realización de investigaciones; así como determinar improcedencia del inicio de los procedimientos de responsabilidades con base a las constancias que obren en los expedientes de la Auditoría Superior del Estado y a las demás circunstancias pertinentes;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+XV. Promover y emitir acciones en los términos de esta Ley, la Ley General de Responsabilidades Administrativas y la ley local aplicable en la materia;
 
-XVII. Secretaría de las Mujeres; y
+XVI. Tramitar, instruir y resolver el recurso de reconsideración interpuesto en contra de las multas que se impongan conforme a esta Ley;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+XVII. Recurrir las resoluciones del Tribunal, así como las determinaciones de la Fiscalía Especializada, en los términos que disponga la legislación aplicable;
 
-XVIII. Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad.
+XVIII. Solicitar a la autoridad competente la aplicación del procedimiento administrativo de ejecución para el cobro de resarcimientos y multas derivadas de la actuación de la Auditoría Superior del Estado;
 
-XIX. (DEROGADA, P.O. 31 DE ENERO DE 2024)
+XIX. Acordar la conformación de los comités internos que estime convenientes para la adecuada coordinación de las actividades en materia de capacitación, adquisiciones, arrendamientos, servicios e inversiones físicas;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+XX. Autorizar, previa denuncia y demás supuestos que establece esta Ley, la revisión durante el ejercicio fiscal en curso a los sujetos fiscalizables, así como respecto de ejercicios anteriores;
 
-### CAPÍTULO III
+XXI. Presidir de forma conjunta con el titular de la Secretaría de la Contraloría General del Estado, el Comité Rector del Sistema Local de Fiscalización;
 
-###### ARTÍCULO 28.
+XXII. Formar parte del Comité Coordinador del Sistema Nacional Anticorrupción en los términos del artículo 127 fracción I, de la Constitución Política del Estado Libre y Soberano de Nayarit y la Ley Local de la materia;
 
-El Gobernador del Estado definirá las dependencias, subsecretarias, direcciones, áreas administrativas, de asesoría, apoyo y de coordinación, que las necesidades de su función requieran en áreas prioritarias que él mismo determine, de acuerdo con el presupuesto de egresos autorizado atendiendo al artículo 82 de la Constitución Política del Estado.
+XXIII. Establecer los mecanismos necesarios para fortalecer la participación ciudadana en la rendición de cuentas, y
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+XXIV. Las demás que señalen esta ley y las disposiciones legales aplicables.
 
-###### ARTÍCULO 29.
+###### Artículo 15.
 
-Los titulares de las Dependencias y Entidades, para el cumplimiento de sus atribuciones se auxiliarán de los servidores públicos previstos en las leyes, reglamentos, decretos o acuerdos respectivos y conforme al presupuesto de egresos autorizado.
+Corresponde originalmente al Auditor Superior el trámite y resolución de los asuntos de la competencia de la Auditoría Superior del Estado, pero para la mejor organización del trabajo podrá delegar en servidores públicos subalternos cualquiera de sus atribuciones, excepto las mencionadas en las fracciones II, V, VI, VIII y XI del artículo anterior, o aquellas que señale de manera expresa el Reglamento Interior de la Auditoría Superior del Estado, las cuales no podrán ser delegables. Para su validez, los actos de delegación deberán constar por escrito y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-Cuando el titular de alguna de las dependencias, se ausente de sus funciones por más de un día y menos de quince días hábiles, se encargará del despacho de los asuntos, el subsecretario o funcionario que determine el Reglamento Interno correspondiente.
+###### Artículo 16.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+En caso de falta absoluta o renuncia del Auditor Superior, la presidencia de la Mesa Directiva la hará del conocimiento del Congreso y solicitará a la Comisión que proceda de conformidad a lo previsto por el artículo 11 de la presente ley, a efecto de designar al Auditor Superior que iniciará un nuevo periodo. En tanto el Congreso realiza la designación fungirá de encargado el subalterno que señale el Reglamento Interior de la Auditoría Superior del Estado.
 
-Ante la falta del titular de la Dependencia o Entidad, el Gobernador del Estado podrá nombrar un encargado de despacho.
+El Auditor Superior para poder ausentarse del ejercicio de la función temporalmente hasta por quince días naturales deberá dar aviso al Congreso, por conducto de la Comisión.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+Las ausencias temporales mayores a quince días naturales deberán ser autorizadas por la Comisión, otorgándose ésta por el voto de la mayoría simple de sus miembros.
 
-###### ARTÍCULO 30.
+No requerirán autorización las ausencias temporales que se motiven por la comisión de actividades oficiales propias del encargo dentro o fuera del Estado o aquellas que deriven del goce de los periodos vacacionales a los cuales tenga derecho. De éstas sólo deberá dar aviso a la Comisión.
 
-Será obligación de los titulares de las Dependencias y Entidades, la emisión de sus Manuales de Organización y de Procedimientos necesarios para su funcionamiento, de acuerdo con su Reglamento Interno y los lineamientos que establezca la Secretaría de Administración.
+En cualquier caso, las ausencias temporales del Auditor Superior serán suplidas por el subalterno que señale el Reglamento Interior de la Auditoría Superior del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 17.
 
-### CAPÍTULO IV. DE LA CONSEJERÍA JURÍDICA Y ASISTENCIA LEGAL DEL ESTADO
+Para el mejor desempeño de sus funciones, la Auditoría Superior del Estado en su estructura administrativa contará con auditores especiales, titulares de unidades, directores generales, directores de área, coordinadores, jefaturas, auditores, y demás servidores públicos que al efecto señale el Reglamento Interior de la Auditoría Superior del Estado, de conformidad con el presupuesto autorizado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+La Auditoría Superior del Estado, en los términos de su reglamento interior, contará además con un órgano interno de control, con las facultades para prevenir, corregir e investigar actos u omisiones que, en el ámbito de su competencia pudieran constituir responsabilidades administrativas para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-###### ARTÍCULO 31.
+###### Artículo 18.
 
-Para la adecuada atención en materia de educación, el Ejecutivo Estatal determinará las dependencias o entidades de la Administración Pública Estatal, que deberán atender dichos asuntos, de conformidad con el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos.
+Para ejercer el cargo de Auditor Especial se deberán cumplir además de lo previsto por las fracciones I, II, V, VI, y VII del artículo 13 de esta ley, con los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+I. Tener cuando menos, treinta años cumplidos al día de la designación;
 
-###### ARTÍCULO 32.
+II. Poseer, al día del nombramiento, título y cédula profesional de licenciatura, expedidos por autoridad o institución legalmente facultada para ello, y
 
-El Gobernador del Estado, en términos de lo dispuesto por el artículo 79, fracción IV de la Constitución Política del Estado Libre y Soberano de Oaxaca, instruirá a los titulares de las Dependencias y Entidades correspondientes, cada vez que le sea solicitado por el Poder Legislativo, para que ante éste expongan y argumenten en la discusión de las leyes, decretos, planes, programas o proyectos relativos a sus respectivos ramos, así como, cuando sean citados para responder a preguntas que se les formulen.
+III. Contar al momento de su designación con una experiencia de al menos tres años en la Administración Pública, preferentemente en el control, manejo o fiscalización de recursos públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+Los Auditores Especiales durarán en su encargo cuatro años, los cuales podrán ser ratificados por el Auditor Superior, por una sola vez, y para su remoción deberá considerarse el contenido del artículo 20 de esta Ley.
 
-###### ARTÍCULO 33.
+###### Artículo 19.
 
-El Gobernador del Estado, además de las dependencias señaladas en el artículo 27 de esta Ley, contará con los siguientes Órganos Auxiliares que dependerán directamente de él:
+El Auditor Superior y los Auditores Especiales durante el ejercicio de su cargo, tendrán prohibido:
 
-I. (DEROGADA, P.O. 29 DE MARZO DE 2023)
+I. Formar parte de partido político alguno, participar en actos políticos partidistas y hacer cualquier tipo de propaganda o promoción partidista;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+II. Desempeñar otro empleo o encargo en los sectores público, privado o social, salvo los no remunerados en asociaciones científicas, culturales, docentes, artísticas o de beneficencia o Colegios Profesionales en representación de la Auditoría Superior del Estado, y
 
-II. Coordinación de Comunicación Social;
+III. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia la Auditoría Superior del Estado para el ejercicio de sus atribuciones, la cual deberá utilizarse sólo para los fines a que se encuentra afecta.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+Durante el año siguiente a la conclusión de su ejercicio, el Auditor Superior estará impedido para ocupar algún cargo de elección popular local; así como para desempeñar empleo, cargo o comisión dentro de alguna de las entidades o dependencias de los Sujetos Fiscalizables a los que alude esta ley. Durante ese año, el Auditor Superior gozará de un haber por retiro similar al monto del salario que percibía a la fecha de conclusión.
 
-III. Coordinación para la Atención de los Derechos Humanos;
+###### Artículo 20.
 
-IV. (DEROGADA, P.O. 31 DE ENERO DE 2024)
+El Auditor Superior podrá ser removido de su cargo por las siguientes causas:
 
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+I. Ubicarse en los supuestos de prohibición establecidas en el artículo anterior;
 
-V. (DEROGADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
+II. Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y sus disposiciones reglamentarias;
 
-VI. (DEROGADA, P.O. 17 DE FEBRERO DE 2018)
+III. Ausentarse de sus labores por más de un mes sin mediar autorización del Congreso;
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+IV. Abstenerse de presentar en el período correspondiente y en los términos de la presente Ley, sin causa justificada, los Informes Individuales y el Informe General;
 
-Asimismo, podrán estar directamente sectorizadas a la Gubernatura del Estado, las entidades paraestatales o áreas administrativas que el Gobernador determine.
+V. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e Información que por razón de su cargo tenga a su cuidado o custodia o que exista en la Auditoría Superior del Estado;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2012)</small>
+VI. Aceptar la injerencia de los partidos políticos en el ejercicio de sus funciones y de esta circunstancia, conducirse con parcialidad en el proceso de revisión de la Cuenta Pública y en los procedimientos de fiscalización e imposición de sanciones a que se refiere esta Ley;
 
-###### ARTÍCULO 34.
+VII. Conducirse u ordenar a sus subalternos actuar con parcialidad en los procesos de revisión y en los procedimientos de fiscalización de su competencia, así como en el cumplimiento de las disposiciones de esta ley, y
 
-A la Secretaría de Gobierno le corresponde el despacho de los siguientes asuntos:
+VIII. Incurrir en cualquiera de las conductas consideradas faltas administrativas graves, en los términos de la Ley General de Responsabilidades Administrativas y la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 21.
 
-I. Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones que emita el Gobernador del Estado, así como atender los asuntos que le encomiende;
+La Comisión dictaminará sobre la existencia de los motivos de la remoción del Auditor Superior por causas graves de responsabilidad administrativa, y deberá dar derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes del Congreso.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 22.
 
-II. Cumplir con las directrices en materia de política interior del Gobernador y conducir la política interior en el Estado, así como, facilitar la conciliación, acuerdos y resolución de conflictos políticos y/o sociales, proveyendo lo necesario para mantener relaciones armónicas entre sus habitantes;
+El Auditor Superior y los Auditores Especiales sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación de la Auditoría Superior del Estado o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 23.
 
-III. Atender las demandas públicas promoviendo un sano equilibrio entre el Estado y la sociedad civil, para propiciar el desarrollo económico, social, institucional y duradero;
+El Auditor Superior podrá adscribir orgánicamente las unidades administrativas establecidas en el Reglamento Interior de la Auditoría Superior del Estado.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+Los acuerdos en los cuales se adscriban unidades administrativas se publicarán en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-IV. Concertar acciones y participación de las Dependencias y Entidades del Poder Ejecutivo, con el fin de garantizar la gobernabilidad del Estado, coadyuvando en la formulación de propuestas sobre planeación, aplicación y orientación de las políticas públicas;
+###### Artículo 24.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+La Auditoría Superior del Estado elaborará su proyecto de presupuesto anual que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo, el cual será remitido a la Comisión antes de los plazos establecidos en el artículo 13 de la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit. La Auditoría Superior del Estado ejercerá autónomamente su presupuesto aprobado de conformidad con las disposiciones aplicables.
 
-V. Prevenir y conducir la resolución de conflictos que se susciten durante o a consecuencia del funcionamiento de nuevos proyectos, mediante acciones de conciliación, mediación y sinergia entre grupos vulnerables, sociedad civil y organizaciones no gubernamentales que permitan orientar y facilitar los procesos de desarrollo político social;
+###### Artículo 25.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+Los servidores públicos de la Auditoría Superior del Estado se clasifican como trabajadores de confianza y trabajadores de base, y se regirán por el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y el Estatuto Jurídico de los Trabajadores al Servicio del Estado.
 
-VI. Establecer comunicación y coordinación con los Poderes del Estado, así como, con los órganos constitucionales autónomos, los Ayuntamientos de los Municipios del Estado, los Poderes de la Unión y los Gobiernos de las Entidades Federativas, para la atención y resolución de los asuntos de interés público;
+###### Artículo 26.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+Son trabajadores de confianza: El Auditor Superior, los Auditores Especiales, titulares de unidades, directores generales, directores de área, coordinadores, jefaturas de departamento, auditores y los demás trabajadores que tengan tal carácter conforme a lo previsto en el Estatuto Jurídico de los Trabajadores al Servicio del Estado y el Reglamento Interior de la Auditoría Superior del Estado.
 
-VII. Encargarse del despacho del Poder Ejecutivo Estatal en las ausencias temporales del Gobernador del Estado que no excedan de treinta días, en los términos del artículo 70 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
+###### Artículo 27.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+Son trabajadores de base los que desempeñen labores en puestos no incluidos en el párrafo anterior y que estén previstos con tal carácter en el Estatuto Jurídico para los Trabajadores al Servicio del Estado, Municipios, e Instituciones Descentralizadas de Carácter Estatal.
 
-VIII. Hacer llegar al Honorable Congreso del Estado las iniciativas de ley y decretos del Gobernador del Estado y ordenar la publicación de las disposiciones que sean expedidas por la Legislatura y el titular del Poder Ejecutivo Estatal;
+La relación jurídica de trabajo se entiende establecida entre el Congreso, a través del Auditor Superior y los trabajadores a su servicio para todos los efectos.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+### CAPÍTULO III. DE LA COMISIÓN
 
-IX. Tramitar excitativas para la pronta y expedita administración de justicia;
+#### SECCIÓN ÚNICA. DE SUS ATRIBUCIONES
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 28.
 
-X. Coadyuvar en el cumplimiento de las disposiciones constitucionales y legales en materia de culto público, iglesias, agrupaciones y asociaciones religiosas;
+La Comisión coordinará y evaluará el funcionamiento de la Auditoría Superior del Estado y tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+I. A través de su presidente, ser el conducto de comunicación entre el Congreso y la Auditoría Superior del Estado;
 
-XI. Planear y desarrollar las políticas y acciones en materia de protección civil, orientadas a proteger la integridad física de la población, de sus bienes materiales y su entorno ante la eventualidad de un desastre provocado por fenómenos naturales y/o por la actividad humana;
+II. Recibir del Congreso o, en su caso, de la Diputación Permanente su Cuenta Pública y los Informes de Avance de Gestión Financiera y turnarlos a la Auditoría Superior del Estado;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+III. Recibir el Informe General e Informes Individuales que presente la Auditoría Superior del Estado y emitir el dictamen correspondiente, y turnarlo al Pleno del Congreso;
 
-XII. Proponer al Gobernador del Estado el otorgamiento de pensiones de gracia o premios extraordinarios en beneficio de oaxaqueños distinguidos;
+IV. Citar y, en su caso, requerir documentación o información específica al Auditor Superior para conocer y profundizar en el estudio y análisis del Informe General e Informes Individuales de la fiscalización de las cuentas públicas;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+V. Presentar al Pleno del Congreso la terna propuesta de los candidatos a ocupar el cargo de Auditor Superior, así como la solicitud de su remoción de conformidad a lo dispuesto por la ley;
 
-XIII. Solicitar la declaratoria de emergencia a la Secretaría de Gobernación en caso de fenómenos de origen natural;
+VI. Conocer y realizar las investigaciones sobre las quejas, denuncias o inconformidades en contra de los servidores públicos de la Auditoría Superior del Estado que presenten los sujetos de fiscalización, los particulares y cualquier persona física o moral, pública o privada, siempre y cuando aporten pruebas idóneas por el incumplimiento de las disposiciones legales;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+VII. Presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos de la Auditoría Superior del Estado;
 
-XIV. Instaurar y tramitar los procedimientos, integrando los expedientes respectivos, y ejecutar los acuerdos que emita el Gobernador en materia de expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública y de acuerdo con la normatividad aplicable;
+VIII. Llevar el registro y análisis de la situación patrimonial de los servidores públicos adscritos a la Auditoría Superior del Estado;
 
-XV. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
+IX. Expedir certificaciones de los documentos que obren en sus archivos en los casos en que sean solicitados por autoridades competentes en el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+X. Fiscalizar, la gestión financiera de la Auditoría Superior del Estado así como el cumplimiento de los objetivos contenidos en los Programas aprobados en el Presupuesto de Egresos, al efecto podrá ordenar y efectuar auditorías, inspecciones o visitas a las diversas unidades administrativas que integran la Auditoría Superior del Estado, cumpliendo con las formalidades legales; por conducto del personal del Congreso que al efecto se comisione o a través de servicios de auditoría externos, con la finalidad de verificar que los recursos públicos que por cualquier concepto hubieren recaudado, manejado, administrado o ejercido, lo hayan realizado conforme a los programas y montos autorizados, con apego a las disposiciones aplicables, así como para verificar el cumplimiento de los objetivos de la fiscalización a que alude esta ley. El desahogo de los procedimientos disciplinarios para la imposición de las sanciones, derivadas de las responsabilidades que en su caso se deriven de dicha fiscalización, se realizará por la contraloría interna del Congreso en apoyo a la Comisión;
 
-XVI. Intervenir en auxilio o coordinación con las autoridades federales en los términos de las leyes relativas en materia de loterías, rifas y juegos prohibidos;
+XI. Recibir y dar trámite al proyecto de presupuesto de egresos de la Auditoría Superior del Estado, debiéndolo integrar al proyecto de presupuesto del Congreso para los trámites legales a que haya lugar, y
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+XII. Las demás que le atribuyan expresamente las disposiciones legales y la normatividad interior del Congreso.
 
-XVII. Intervenir en auxilio o coordinación con las autoridades federales en los términos de las leyes y convenios relativos, en materia de migración, política poblacional, cultos religiosos;
+Para el cumplimiento de las atribuciones que esta ley le otorga a la Comisión, ésta contará con los servicios de apoyo técnico de la Contraloría Interna del Congreso y de la asesoría que éste apruebe de conformidad a las posibilidades presupuestales.
 
-XVIII. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
+###### Artículo 29.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+Cualquier ciudadano en pleno ejercicio de sus derechos y bajo su más estricta responsabilidad, podrá presentar ante la Comisión, denuncia escrita por la que se solicite la remoción del Auditor Superior o de alguno de los Auditores Especiales de la Auditoría Superior del Estado, sujetándose a las siguientes formalidades:
 
-XIX. Certificar todo tipo de documentos, así como, dar legalidad a todos los actos relativos al despacho de los asuntos del Ejecutivo;
+I. Presentar ante la Comisión, el escrito de denuncia señalando nombre y domicilio para recibir notificaciones, y la causa grave de las previstas en el artículo 20 de esta ley, por la que solicita la remoción;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+II. Ofrecer, en su escrito de denuncia, los medios de prueba idóneos con los que se trate de demostrar la existencia de la conducta denunciada, y
 
-XX. Recibir del Instituto Estatal Electoral y de Participación Ciudadana, las salas competentes del Tribunal Electoral del Poder Judicial de la Federación y del Estado, o en su caso, del Congreso del Estado, el padrón de firmas de las autoridades municipales y auxiliares, e integrar, legalizar, certificar o expedir la acreditación administrativa respectiva;
+III. Dentro de los tres días hábiles siguientes al de la presentación del escrito de denuncia, ratificar en comparecencia el contenido del escrito. Si la denuncia cumple con lo señalado en las fracciones anteriores, la Comisión, en sesión que celebre dentro de los tres días hábiles siguientes a la ratificación de la denuncia, se pronunciará respecto de su admisión, ordenando que se notifique al denunciado, sobre la materia de ésta, haciéndole saber su derecho de defensa y que deberá, a su elección, comparecer o informar por escrito, dentro de los diez días hábiles siguientes a la notificación.
 
-XXI. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
+Una vez agotado el término para tales efectos, la Comisión, en un plazo no mayor de quince días emitirá el dictamen respectivo. Si la denuncia no cumple con alguna de las formalidades a que se refieren las fracciones I a III de este artículo, la Comisión formulará, por sí, escrito por el que se desechará de plano la denuncia, lo que deberá notificarse personalmente al denunciante en el domicilio que señale para tal efecto.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+Cuando por la naturaleza de las pruebas ofrecidas se requiera de mayor tiempo para su desahogo, la Comisión podrá ampliar, en no más de diez días hábiles, el plazo señalado en el párrafo anterior.
 
-XXII. Establecer anualmente el calendario oficial y ordenar la publicación del calendario oficial que regirá en el Estado;
+###### Artículo 30.
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+Analizados los elementos aportados por las partes, si la Comisión, por votación de la mitad más uno de sus integrantes, determina que ha lugar al procedimiento de remoción, turnará de inmediato el dictamen correspondiente al Pleno del Congreso para que éste, por el voto de las dos terceras partes de sus integrantes presentes, apruebe, en su caso, el dictamen. Si la Comisión dictamina que no ha lugar a la remoción, ordenará por sí que se archive el expediente de la denuncia como asunto total y definitivamente concluido.
 
-XXIII. Tramitar lo relacionado con las facultades del Poder Ejecutivo establecidas en las fracciones X y XXIV del artículo 79 y el artículo 100 párrafo IV y 102 de la Constitución del Estado Libre y Soberano de Oaxaca, garantizando el principio de paridad de género.
+### CAPÍTULO IV. DE LAS CUENTAS PÚBLICAS Y DE LOS INFORMES DE AVANCE DE GESTIÓN FINANCIERA
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 31.
 
-XXIV. Coordinar las acciones de Gobierno, políticas de conciliación y concertación en el territorio del Estado;
+Para los efectos de esta ley, la Cuenta Pública y el Informe de Avance de Gestión Financiera se constituirán por:
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+A.- La Cuenta Pública:
 
-XXV. Coordinar la planeación, elaboración, producción y trasmisión de programas de radio y televisión que promuevan el desarrollo del Estado, difundan y preserven la cultura de sus pueblos, los programas educativos de las autoridades competentes y las actividades gubernamentales que en cumplimiento a las disposiciones legales y al contenido del Plan Estatal de Desarrollo, realicen por conducto de órganos, Dependencias y Entidades del Estado;
+I. Información contable, con la desagregación siguiente:
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+a) Estado de situación financiera;
 
-XXVI. Apoyar a los organismos electorales del Estado, en el ejercicio de sus atribuciones;
+b) Estado de variación en la hacienda pública;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+c) Estado de cambios en la situación financiera;
 
-XXVII. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios y proyectos tendientes al fortalecimiento del desarrollo municipal y fomentar la participación ciudadana;
+d) Informes sobre pasivos contingentes;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+e) Notas a los estados financieros;
 
-XXVIII. Refrendar con su firma las leyes o decretos enviados para su promulgación y publicación por el Congreso del Estado, así como los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que expide el Gobernador del Estado y aquellas que deban de regir en la entidad y establezca la normatividad aplicable en la materia, remitiéndolos inmediatamente a la consejería jurídica del gobierno del Estado para su publicación en el Periódico Oficial del Gobierno del Estado;
+f) Estado analítico del activo;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+g) Estado analítico de la deuda y otros pasivos, del cual se derivarán las siguientes clasificaciones:
 
-XXIX. Proponer al Gobernador del Estado, la solicitud de referéndum, en los asuntos que así lo requieran;
+1. Corto plazo, incluyendo por lo menos importe, tasas, plazo, comisiones y cualquier costo relacionado. Adicionalmente, deberá incluir la tasa efectiva de las obligaciones a corto plazo a que hace referencia el artículo 26, fracción IV, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, calculada conforme a la metodología que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+2. Largo plazo.
 
-XXX. Dirigir, planear, desarrollar y promover la aplicación de la política de población, en coordinación con las autoridades federales y municipales, y en congruencia con los ordenamientos nacionales y las necesidades particulares de las regiones del Estado;
+3. Fuentes de financiamiento.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+h) La información detallada de cada financiamiento u obligación contraída por los entes públicos, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados.
 
-XXXI. Coordinar, supervisar y evaluar las actividades y resultados de sus órganos desconcentrados y las entidades sectorizadas a la Secretaría;
+II. Información presupuestaria, con la desagregación siguiente:
 
-XXXII. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
+a) Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto;
 
-XXXIII. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
+b) Estado analítico del ejercicio del presupuesto de egresos del que se derivarán las siguientes clasificaciones:
 
-XXXIV. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
+1. Administrativa;
 
-XXXV. (DEROGADA, P.O. 24 DE ABRIL DE 2017)
+2. Económica y por objeto del gasto, y
 
-XXXVI. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022)
+3. Funcional-programática.
 
-XXXVII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022)
+c) Endeudamiento neto, financiamiento menos amortización, del que derivará la clasificación por su origen en interno y externo;
 
-XXXVIII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022)
+d) Intereses de la deuda;
 
-XXXIX. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022)
+e) Un flujo de fondos que resuma todas las operaciones y los indicadores de la postura fiscal, y
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+f) En caso de aumento o creación de gasto al presupuesto de egresos, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado.
 
-XL. Tramitar el nombramiento de los encargados de la Administración Municipal que designe el Gobernador del Estado;
+III. Información programática, con la desagregación siguiente:
 
-XLI. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022)
+a) Gasto por categoría programática;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+b) Programas y proyectos de inversión, y
 
-XLII. Aplicar los programas, normas y ordenamientos en materia de seguridad e higiene en el trabajo en las unidades económicas del Estado en coordinación con las autoridades del trabajo competentes y en su caso, con la participación de los sectores empresarial, de los trabajadores, sindicatos, académicos y profesionales de la sociedad que inciden en este ámbito;
+c) Indicadores de resultados.
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+IV. Análisis cualitativo de los indicadores de la postura fiscal, estableciendo su vínculo con los objetivos y prioridades definidas en la materia, en el programa económico anual:
 
-XLIII. Fortalecer la vinculación institucional con sindicatos y organismos empresariales para el fomento de buenas prácticas laborales;
+a) Ingresos presupuestarios;
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2018)</small>
+b) Gastos presupuestarios;
 
-XLIV. A solicitud de las autoridades municipales auxiliar en los trámites y gestiones que deban realizar ante las oficinas de la administración pública federal y estatal; y
+c) Postura fiscal, y
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+d) Deuda pública.
 
-XLV. Promover la aplicación de la política de población, tanto a nivel estatal como municipal, en congruencia con fas lineamientos nacionales y las necesidades particulares de cada región;
+V. La información a que se refieren las fracciones I a III de este artículo, organizada por dependencia y entidad;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+VI. Incluir la información relativa al cumplimiento de los convenios en materia de Deuda Estatal Garantizada;
 
-XLVI. Procurar la atención de la población y las comunidades migrantes oaxaqueñas, apoyando todas aquellas acciones encaminadas a preservar la integridad física, protección jurídica, la dignidad y el patrimonio de los migrantes.
+VII. Tratándose de los balances presupuestarios de recursos disponibles negativo (sic), a que se refiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, contendrá el avance de acciones tendientes a recuperar el presupuesto sostenible de recursos disponibles, y
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+VIII. Los demás estados complementarios y aclaratorios, documentos e información general que, a juicio de la Auditoría Superior de Estado, sean indispensables para el análisis de resultados.
 
-XLVII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicadas.
+B.- El Informe de Avance de Gestión Financiera deberá referirse a los programas a cargo del sujeto obligado a su presentación, para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados y contendrá:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+I. El flujo contable de ingresos y egresos del trimestre del que se informe.
 
-###### ARTÍCULO 35.
+II. El avance del cumplimiento de los programas con base en los indicadores aprobados en el Presupuesto de Egresos correspondiente.
 
-A la Secretaría de Seguridad y Protección Ciudadana le corresponde el despacho de los siguientes asuntos:
+III. Tratándose de los balances presupuestarios de recursos disponibles negativos, a que hace referencia la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, contendrá el avance de las acciones tendientes a recuperar el presupuesto sostenible de recursos disponibles.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+IV. El número, nombre y ubicación de las obras y acciones realizadas, indicando la inversión aprobada, los recursos ejercidos, y los saldos generados; así como el avance físico y financiero de cada uno de ellas.
 
-I. Conducir y desarrollar la política estatal en materia de seguridad pública, de prevención del delito y reinserción social, privilegiando el respeto a los derechos humanos;
+V. En caso de aumento o creación de gasto al presupuesto de egresos, revelará la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+VI. La información detallada de cada financiamiento u obligación contraída por los entes públicos, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados.
 
-II. Implementar y ejecutar, conforme a la normatividad de la materia, los planes y programas orientados a la capacitación y profesionalización de las corporaciones policiales estatales y municipales;
+VII. La información detallada de las obligaciones a corto plazo contraídas en los términos del Capítulo II, Título Tercero, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, incluyendo por lo menos importe, tasas, plazo, comisiones y cualquier costo relacionado. Adicionalmente, deberá incluir la tasa efectiva de las Obligaciones a corto plazo a que hace referencia el artículo 26, fracción IV, de la Ley en cita, calculada conforme a la metodología que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+VIII. Incluir la información relativa al cumplimiento de los convenios en materia de Deuda Estatal Garantizada.
 
-III. Dictar acuerdos, circulares, lineamientos, protocolos y demás instrumentos administrativos y técnicos para fortalecer la actividad institucional de la dependencia;
+La Auditoría Superior del Estado analizará los Informes de Avance de Gestión Financiera con el propósito de proyectar la planeación de sus trabajos de fiscalización.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+Lo dispuesto en este numeral se entiende sin perjuicio de lo que señale (sic) los artículos 53 y 55 de la Ley General de contabilidad Gubernamental y los acuerdos que emita el Consejo Nacional de Armonización Contable.
 
-IV. Integrar y desarrollar, conforme a sus competencias, el Sistema Estatal de Seguridad Pública y establecer mecanismos de coordinación con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+###### Artículo 32.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+La Cuenta Pública y el Informe de Avance de Gestión Financiera serán presentados por los sujetos obligados al Congreso, en términos de esta ley, a través de la Auditoría Superior del Estado.
 
-V. Colaborar con el Sistema Nacional de Seguridad Pública, en el ámbito de su competencia y conforme al marco normativo del mismo;
+###### Artículo 33.
 
-VI. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
+La Auditoría Superior del Estado, en el ámbito de sus competencias, establecerá los procedimientos y criterios que deben ser considerados por las Unidades Administrativas que conforman la Auditoría Superior del Estado, para la recepción, digitalización, registro, seguimiento, organización, clasificación, localización, uso, transferencia, resguardo, conservación, selección y destino final de los documentos y expedientes que se generen, obtengan, adquieran o conserven en sus archivos como resultado de su gestión, sujetándose a las disposiciones legales contenidas en la Constitución Política del Estado Libre y Soberano de Nayarit, la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit, su reglamento, la Ley de Archivos del Estado de Nayarit, su reglamento y demás disposiciones legales aplicables.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 34.
 
-VII. Establecer y ordenar la ejecución de los programas permanentes para la vigilancia del orden público y prevención de delitos;
+La Auditoría Superior del Estado conservará en su poder las Cuentas Públicas, mientras sean exigibles, conforme a los plazos de prescripción que señalen la Constitución y leyes del Estado para las responsabilidades derivadas de las presuntas irregularidades que, en su caso, se detecten en las operaciones objeto de revisión.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 35.
 
-VIII. Establecer y fomentar los mecanismos de participación ciudadana, para la formulación de los planes y programas de Seguridad Pública estatales;
+Los Sujetos Fiscalizables tendrán la obligación de conservar en su poder durante cinco años, los libros, registros de contabilidad y la información financiera correspondiente, así como los documentos justificativos y comprobatorios de la cuenta de la Hacienda Pública, mientras no prescriban las acciones derivadas de las operaciones en ellos consignadas, computándose el término a partir de que el Congreso del Estado haya recibido de la Auditoría Superior del Estado el Informe Individual relativo al ejercicio fiscal en el que se haya generado dicha documentación.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+### CAPÍTULO V. DE LA PRESENTACIÓN DE LAS CUENTAS PÚBLICAS Y DE LOS INFORMES DE AVANCE DE GESTIÓN FINANCIERA
 
-IX. Aplicar las normas técnicas y operativas para el tránsito de personas y vehículos en las vías públicas del Estado, así como, proponer planes de mejora y reordenamiento vial, auxiliando a las autoridades de transporte en materia de vialidad, a través de la Dirección de la Policía Vial Estatal;
+###### Artículo 36.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+La presentación de las cuentas públicas y de los informes de avance de gestión financiera deberá sujetarse a lo siguiente:
 
-X. Elaborar y ejecutar los programas de reinserción social de los infractores sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte;
+I. La Cuenta Pública se presentará anualmente, a más tardar el treinta de abril siguiente al ejercicio fiscal del que se informe;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+II. Los Informes de Avance de Gestión Financiera comprenderán información relativa a los meses de enero a marzo, de abril a junio, de julio a septiembre, y de octubre a diciembre deberán presentarse dentro de los treinta días naturales posteriores al último día del trimestre del que se informe;
 
-XI. Dirigir, administrar y operar el Sistema Penitenciario Estatal, de conformidad con las disposiciones legales aplicables;
+III. En la remisión de la Cuenta Pública y de los Informes de Avance de Gestión Financiera de los sujetos obligados a presentar dicha información, se incluirán de manera consolidada y analítica, la información correspondiente a sus organismos públicos descentralizados, fideicomisos, fondos, mandatos públicos o privados y empresas de participación estatal o municipal, según sea el caso, así como de las personas físicas o morales que hayan recibido recursos públicos con cargo a sus respectivos erarios.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+A fin de dar cumplimiento a lo establecido en el párrafo anterior, los titulares de las entidades de la administración pública estatal y municipal, harán llegar con la debida anticipación al Ejecutivo Estatal o al Ayuntamiento, según corresponda, por conducto de la Secretaria o de la Tesorería Municipal, la información y documentación correspondiente. Para tal efecto, éstas deberán requerir en el ámbito de sus competencias, a las entidades estatales o municipales, la información adicional que estimen necesaria para cumplir en tiempo y forma con la presentación de la cuenta pública y de los Informes de Avance de Gestión Financiera;
 
-XII. Tramitar y sustanciar conforme a la normatividad aplicable, las solicitudes de extradición y traslado de reos, y auxiliar a la autoridad judicial en la ejecución de penas;
+IV. En el caso de los Poderes Legislativo y Judicial así como de los demás entes públicos no considerados en la fracción anterior, la remisión de sus cuentas públicas se hará por conducto de la Secretaría. Los Informes de Avance de Gestión Financiera se presentarán directamente al Congreso por conducto de la Auditoría Superior del Estado, en los términos de esta ley;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+V. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública y del Informe de Avance de Gestión Financiera cuando medie solicitud del titular del sujeto obligado suficientemente justificada a juicio del Congreso o de la Diputación Permanente, debiendo comparecer en todo caso el titular de la dependencia correspondiente a informar de las razones que lo motiven; la prórroga no deberá exceder de 15 días naturales. En el caso de que la prórroga se conceda para la presentación de la Cuenta Pública, la Auditoría Superior del Estado contará con el mismo tiempo adicional para la presentación del Informe General e Informes Individuales.
 
-XIII. Celebrar convenios con los sectores públicos y privados, para el efecto de establecer fuentes de trabajo dentro y fuera de los Centros de Reinserción Social, en beneficio de los procesados, sentenciados y liberados;
+Las solicitudes se presentarán con al menos diez días naturales de anticipación al vencimiento del plazo, y se desahogarán ante la Comisión debiendo emitir el dictamen sobre su procedencia para su resolución al Pleno o a la Diputación Permanente, según sea el caso. La concesión de prórrogas se otorgará de manera excepcional debiéndose considerar la autorización de las solicitudes sólo por causas debidamente justificadas.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+La resolución a la petición de prórrogas deberá ser notificada a los solicitantes y a la Auditoría Superior del Estado, con al menos cinco días de anticipación al vencimiento del plazo para la presentación de las cuentas públicas y de los informes de avance de gestión financiera, y
 
-XIV. Proponer y aplicar las políticas y lineamientos en materia de prevención del delito tratándose de adolescentes; así como, administrar y vigilar los centros de internamiento respectivos auxiliando a la autoridad competente en la ejecución de las sanciones;
+VI. La falta de la presentación injustificada de la Cuenta Pública y de los Informes de Avance de Gestión Financiera en los plazos establecidos en este artículo, será sancionable en los términos de la Ley General de Responsabilidades Administrativas y la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+El incumplimiento de los Sujetos Fiscalizables a la obligación de presentar la Cuenta Pública y/o avances de gestión financiera en los tiempos y con las formalidades establecidas, no impide el ejercicio de las atribuciones de fiscalización de la Auditoría Superior del Estado contenidas en la Constitución Política del Estado Libre y Soberano de Nayarit y en esta ley.
 
-XV. Celebrar convenios de coordinación con el Gobierno Federal, entidades federativas y los municipios del Estado, en materia de seguridad pública;
+Vencido el plazo para presentación de la Cuenta Pública y los Informes de Avance de Gestión Financiera sin que estos informes se hayan presentado en tiempo y forma y sin que medie justificación procedente, la Auditoría Superior del Estado procederá inmediatamente a promover las acciones de responsabilidad por esta omisión en contra de los titulares de los Sujetos Fiscalizables en los términos de las leyes de la materia, debiéndose hacer del conocimiento de dicha circunstancia al Congreso por conducto de la Comisión.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+### CAPÍTULO VI. DE LA REVISIÓN DE LA CUENTA PÚBLICA Y DE LOS INFORMES DE AVANCE DE GESTIÓN FINANCIERA
 
-XVI. Celebrar convenios de coordinación en materia de seguridad pública, con organismos internacionales, con autoridades de la Administración Pública Federal, con las entidades federativas y municipios del interior del país, con la intervención de titulares de Dependencias y Entidades cuando conforme a sus facultades deban participar;
+###### Artículo 37.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+La Auditoría Superior del Estado, para revisar las Cuentas Públicas, establecerá las normas, procedimientos, métodos y sistemas de auditoría y fiscalización y promoverá la elaboración de los manuales correspondientes para su aplicación interna.
 
-XVII. Expedir los acuerdos, circulares y demás disposiciones jurídicas conducentes para el buen despacho de sus asuntos;
+###### Artículo 38.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+La Auditoría Superior del Estado, para el cumplimiento de las atribuciones que le confieren la Constitución Política del Estado Libre y Soberano de Nayarit y esta ley, tiene plenas facultades para fiscalizar toda clase de libros, instrumentos, documentos y objetos, practicar visitas, inspecciones, auditorías y en general, recabar los elementos de información necesarios para cumplir con sus funciones; para tal efecto, podrá citar a comparecer en forma personal ante él a personas vinculadas con el manejo y la aplicación del gasto público y en general servirse de cualquier medio lícito que conduzca al esclarecimiento de los hechos, aplicando en su caso, técnicas y procedimientos de auditoría y periciales.
 
-XVIII. Coordinarse y auxiliar a las autoridades federales, en los términos de las leyes correspondientes, en la prevención y persecución de delitos federales relacionados con la materia de pirotecnia, detonantes, portación de armas de fuego, piratería y migración, y llevar a cabo los trámites que en dichas materias correspondan al Poder Ejecutivo del Estado;
+Podrá, igualmente, determinar qué sujetos de fiscalización deben presentar su cuenta pública, dictaminada por contador público externo u otro profesional autorizado.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+###### Artículo 39.
 
-XIX. Presidir la Comisión de Honor y Justicia, que tendrá por objeto normar, conocer y resolver toda controversia que se suscite con relación a los procedimientos disciplinarios que se instruyan a la Policía Estatal; Cuerpos de Seguridad, Vigilancia y Custodia Penitenciaria en los Centros Penitenciarios, Guías Técnicos en los Centros Especializados de Internamiento; de Detención Preventiva; del Órgano Desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial (PABIC) de la Secretaría de Seguridad Pública; así como las demás corporaciones policiales de la Secretaría de Seguridad Pública con motivo de las infracciones cometidas en la prestación del servicio, exceptuando a la Agencia Estatal de Investigaciones de la Fiscalía General del Estado de Oaxaca y a las policías municipales;
+Los Sujetos Fiscalizables pondrán a disposición de la Auditoría Superior del Estado, la información, archivos digitales y documentación que solicite, para efectos de sus auditorías e investigaciones.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+La falta de documentación comprobatoria o justificativa del ingreso, gasto o cualquier operación registrada será suficiente, en su caso, para presumir la afectación a la hacienda pública, correspondiendo al Sujeto Fiscalizable y a quienes se les imputen responsabilidades, desacreditar dicha imputación, por lo que ellos deberán demostrar que no han causado ningún daño ni perjuicio en contra de la hacienda pública ni del patrimonio del ente público.
 
-XX. Ejecutar las disposiciones sobre los servicios de seguridad privada en el Estado, así como, vigilarlos y supervisarlos, sancionando las faltas e irregularidades de los mismos, de conformidad con las leyes y normas de la materia;
+Si en la realización de las auditorías la documentación comprobatoria y justificativa del ingreso y del gasto y la demás relativa a la gestión financiera del sujeto fiscalizado es presentada de manera posterior a la presentación de los Informes Individuales preliminares durante la fase de solventación, la Auditoría Superior del Estado procederá a revisar dicha documentación y si de su análisis se advierte la existencia de nuevas observaciones y/o de distintos responsables, éste procederá a incorporarlas dentro del contenido del Informe Individual y a promover las responsabilidades a que haya lugar.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 40.
 
-XXI. Establecer, operar y coordinar el sistema estatal de información de seguridad pública, de conformidad con la Ley del Sistema Estatal de Seguridad Pública de Oaxaca y demás disposiciones legales aplicables;
+La Auditoría Superior del Estado tendrá acceso a contratos, convenios, documentos, datos, libros, archivos y documentación justificativa y comprobatoria relativa al ingreso, gasto público y cumplimiento de los objetivos de los programas de los entes públicos, así como a la demás información que resulte necesaria para la revisión y fiscalización de la Cuenta Pública siempre que al solicitarla se expresen los fines a que se destine dicha información.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+###### Artículo 41.
 
-XXII. Investigar, a través de la Dirección General de Asuntos Internos, las denuncias por anomalías que se susciten en la conducta de los integrantes de la Policía Estatal, Cuerpos de Seguridad, Vigilancia y Custodia Penitenciaria en los Centros Penitenciarios, Guías Técnicos en los Centros Especializados de Internamiento, de Detención Preventiva; del Órgano Desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial de la Secretaría de Seguridad Pública, así como las demás corporaciones policiales de la Secretaría de Seguridad Pública, exceptuando a la Agencia Estatal de Investigaciones de la Fiscalía General del Estado de Oaxaca y a las policías municipales, con motivo de faltas administrativas o infracciones disciplinarias;
+Los Órganos Internos de Control de los entes públicos deberán colaborar con la Auditoría Superior del Estado, y otorgarán las facilidades que permitan a éste realizar sus funciones y le deberán proporcionar la documentación que les solicite sobre los resultados de sus auditorías que sobre la gestión financiera y la evaluación del desempeño efectúen, o cualquier otra que se les requiera en el ejercicio de sus funciones.
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+###### Artículo 42.
 
-XXIII. Fomentar y promover la incorporación de la perspectiva de género en la planeación, programación, acciones, proyectos y políticas públicas de la Secretaría;
+Las auditorías que se efectúen en los términos de esta ley, se practicarán por el personal expresamente comisionado para el efecto por la Auditoría Superior del Estado o mediante la contratación de prestadores de servicios profesionales o despachos externos habilitados por el mismo para efectuar auditorías, visitas o inspecciones, siempre y cuando no exista conflicto de intereses.
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+Las personas a que se refiere el párrafo anterior tendrán el carácter de representantes de la Auditoría Superior del Estado y deberán observar los lineamientos que para tal efecto emita la Auditoría Superior del Estado en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente el oficio de comisión y, en su caso, la orden respectiva, e identificarse plenamente como personal actuante de la Auditoría Superior del Estado.
 
-XXIV. Brindar servicios de mediación para la solución de conflictos interpersonales derivados de las condiciones de convivencia interna de los Centros Penitenciarios del Estado y de justicia restaurativa de conformidad con la normatividad aplicable;
+###### Artículo 43.
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+Durante sus actuaciones, los representantes de la Auditoría Superior del Estado que realicen visitas domiciliarias para la realización de auditorías, inspecciones o compulsas con terceros deberán levantar actas circunstanciadas en presencia de dos testigos propuestos por el visitado o, en su ausencia o negativa, por quien practique la diligencia, en las que se harán constar, en su caso, los hechos u omisiones que se hubieren detectado. Las actas, así como las declaraciones, manifestaciones o hechos en ellas contenidos, harán prueba en términos de ley.
 
-XXV. Implementar la industria penitenciaria en los Centros Penitenciarios del Estado, encaminada a cumplir los mecanismos para la reinserción social de las personas privadas de la libertad;
+Las auditorías que se desarrollen directamente en las oficinas de la Auditoría Superior del Estado se ajustarán a las formalidades que al efecto emita el Auditor Superior. En su caso, los informes que de ellas emitan los auditores comisionados igualmente harán prueba en términos de ley.
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(F. DE E., P.O. 25 DE ENERO DE 2017)</small>
 
-XXVI. Dirigir, administrar y operar la Unidad de Medidas Cautelares, de conformidad con las disposiciones legales aplicables, y
+Las auditorías de obra pública serán de gabinete, mixtas, o en su defecto podrán realizarse a través de visitas domiciliarias.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 44.
 
-XXVII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+Los servidores públicos de la Auditoría Superior del Estado, así como los prestadores de servicios contratados, deberán guardar estricta reserva y confidencialidad sobre las actuaciones, observaciones e información de que tengan conocimiento, excepto en los casos en que sean requeridos expresamente por la Comisión o por autoridad competente en ejercicio de sus funciones. La violación a esta disposición se sancionará en los términos de ley.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+La Auditoría Superior del Estado será responsable subsidiariamente por los daños y perjuicios que cause la actuación ilícita de sus servidores públicos, así como por la de los prestadores de servicios contratados para el ejercicio de sus funciones.
 
-### CAPÍTULO V. DE LOS ÓRGANOS AUXILIARES
+###### Artículo 45.
 
-###### ARTÍCULO 36.
+La función de fiscalización tiene por objeto determinar:
 
-A la Secretaría de Salud le corresponde el despacho de los siguientes asuntos:
+I. La ejecución de la Ley de Ingresos y el ejercicio del Presupuesto de Egresos para verificar la forma y términos en que los ingresos fueron recaudados, obtenidos, captados y administrados; constatar que los recursos provenientes de financiamientos y otras obligaciones y empréstitos se contrataron, recibieron y aplicaron de conformidad con lo aprobado; y revisar que los egresos se ejercieron en los conceptos y partidas autorizados, incluidos, entre otros aspectos, la contratación de servicios y obra pública, las adquisiciones, arrendamientos, subsidios, aportaciones, donativos, transferencias, aportaciones a fondos, fideicomisos y demás instrumentos financieros, así como cualquier esquema o instrumento de pago a largo plazo;
 
-I. Establecer y conducir la política estatal en materia de salud, de conformidad con el Sistema Nacional de Salud;
+II. Si los programas y su ejecución se ajustan a los términos y montos aprobados;
 
-II. Planear, coordinar y evaluar el Sistema Estatal de Salud de conformidad con el Plan Estatal de Desarrollo y las disposiciones legales en la materia, propiciando la participación de los sectores público, social y privado;
+III. Si las cantidades correspondientes a los ingresos o a los egresos se ajustan o corresponden a los conceptos y a las partidas respectivas;
 
-III. Elaborar en coordinación con las autoridades competentes los programas de salud y presentarlos a la aprobación del Gobernador del Estado;
+IV. Verificar el cumplimiento de los objetivos contenidos en los programas:
 
-IV. Realizar programas de atención medica, preferentemente en beneficio de grupos vulnerables y en situación de desventaja, así como lo relacionado con los derechos reproductivos y la salud sexual de hombres y mujeres y la atención materno infantil;
+a) Realizar auditorías del desempeño de los programas, verificando la eficiencia, la eficacia y la economía en el cumplimiento de los objetivos de los mismos;
 
-V. Planear, operar, controlar y evaluar el Sistema Estatal de Donación de Órganos Humanos para trasplante;
+b) Si se cumplieron las metas de los indicadores aprobados en el Presupuesto de Egresos y si dicho cumplimiento tiene relación con el Plan Estatal de Desarrollo y los programas sectoriales, y
 
-VI. Promover la capacitación y desarrollo de los recursos humanos para la salud incorporando la perspectiva de género en su diseño y promoción, garantizando la igualdad de oportunidades;
+c) Si se cumplieron los objetivos de los programas y las metas de gasto que promuevan la igualdad entre mujeres y hombres.
 
-VII. Mantener actualizado el diagnóstico de salud en la entidad, estableciendo y coordinando el sistema de información en el Estado y supervisando que sea elaborado con base en estadísticas desagregadas por sexo, grupos de edad y tipo de localidad;
+V. Si los recursos provenientes de financiamiento y otras obligaciones se obtuvieron en términos autorizados y se aplicaron con la periodicidad y forma establecidas por las leyes y demás disposiciones aplicables, y si se cumplieron los compromisos adquiridos en los actos respectivos;
 
-VIII. Promover y participar en las actividades de investigación para la salud dando oportunidad al desarrollo de aquellas que se ocupen de problemas de salud sexual y reproductiva con especial énfasis en los adolescentes;
+VI. La exactitud y justificación de los cobros y. pagos hechos de acuerdo con los precios y tarifas autorizados, de mercado o avalúo;
 
-IX. Planear, operar, controlar y evaluar el Sistema de Información de Salud del Estado, participando todas las dependencias y organismos auxiliares que proporcionen servicios de salud, así como, el Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+VII. En forma posterior a la conclusión de los procesos correspondientes, el resultado de la gestión financiera de sujetos fiscalizables;
 
-X. Normar el ejercicio privado de la medicina y profesiones afines, así como promover su participación activa en acciones concretas de los programas establecidos;
+VIII. Si en la gestión financiera cumplió con las disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles: almacenes y demás activos y recursos materiales, y demás normativa aplicable al ejercicio del gasto público;
 
-XI. Adecuar y difundir las normas y procedimientos técnicos para la ejecución de programas en materia asistencial, enseñanza, investigación y educación para la salud;
+IX. Si la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de recursos públicos, incluyendo subsidios, transferencias y donativos, y si los actos, contratos, convenios, concesiones, mandatos, fondos, fideicomisos, prestación de servicios públicos, operaciones o cualquier acto que los sujetos fiscalizables celebren o realicen, relacionados con el ejercicio del gasto público, se ajustaron a la legalidad, y si no han causado daños o perjuicios en contra del Estado en su Hacienda Pública Estatal o Municipal, o al patrimonio de los entes públicos, y
 
-XII. Organizar y fomentar la prestación de servicios de planificación familiar;
+X. Promover las acciones o denuncias correspondientes para la imposición de las sanciones administrativas y penales por las faltas graves que se adviertan derivado de sus auditorías e investigaciones, así como dar vista a las autoridades competentes cuando detecte la comisión de faltas administrativas no graves para que continúen la investigación respectiva y promuevan la imposición de las sanciones que procedan.
 
-XIII. Ejecutar la dictaminación sanitaria en el Estado;
+###### Artículo 46.
 
-XIV. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente;
+A solicitud de-la Auditoría Superior del Estado, los sujetos de fiscalización le informarán de los actos y convenios de los que les resulten derechos y obligaciones, con objeto de verificar si de sus términos y condiciones pudieran derivarse daños y perjuicios en contra de la hacienda pública estatal o municipal que impliquen incumplimiento de alguna ley relacionada con la materia.
 
-XV. Proponer e implementar la infraestructura sanitaria necesaria que procure niveles de sanidad mínimos entre la población;
+###### Artículo 47.
 
-XVI. Dictar las medidas de seguridad sanitarias que sean necesarias para proteger la salud de la población;
+La negativa a proporcionar la información o documentación solicitada por la Auditoria Superior del Estado o a permitirle la revisión o fiscalización de los libros, instrumentos y documentos de fiscalización comprobatorios y justificativos del ingreso y del gasto público, así como la obstaculización a la práctica de visitas, inspecciones y auditorías será causa de responsabilidad en términos de las leyes aplicables.
 
-XVII. Vigilar y fomentar la regulación sanitaria de la publicidad;
+###### Artículo 48.
 
-XVIII. Apoyar y supervisar el ejercicio de la medicina tradicional, fomentando la cooperación interinstitucional para apoyo y financiamiento de programas;
+Los sujetos fiscalizados deberán proporcionar a la Auditoría Superior del Estado los medios y facilidades necesarias para el cumplimiento de sus atribuciones, tales como espacios físicos adecuados de trabajo y en general cualquier otro apoyo que posibilite la realización de sus actividades.
 
-XIX. Proponer al Ejecutivo Estatal, para su aprobación acuerdos de coordinación con las instituciones del sector salud, tendientes a promover y apoyar los programas de medicina preventiva; y
+###### Artículo 49.
 
-XX. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+El proceso de fiscalización podrá iniciarse a partir de la culminación del ejercicio fiscal a revisar y se conforma de las siguientes etapas:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+I. Planeación de los trabajos de fiscalización.
 
-### CAPÍTULO VI. DE LAS COMISIONES INTERSECRETARIALES
+A fin de determinar la cantidad y el tipo de auditorías a ser realizadas, la Auditoría Superior del Estado, deberá considerar la información y documentación proporcionada por los sujetos fiscalizables, los antecedentes que de auditorías a ejercicios anteriores se deriven, las denuncias presentadas, las solicitudes de auditorías que de manera expresa realice el Congreso, los compromisos de fiscalización que deriven de convenios y los recursos disponibles.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+II. Ejecución de los trabajos de fiscalización.
 
-###### ARTÍCULO 37.
+Los trabajos de fiscalización se realizarán de conformidad a lo que establece esta ley, y podrán iniciarse a partir del día siguiente de que concluya el ejercicio fiscal a revisar; previamente la Auditoría Superior del Estado notificará a los sujetos fiscalizables a quienes vaya a practicar auditorías, el inicio de dichos trabajos.
 
-A la Secretaría de Infraestructuras y Comunicaciones le corresponde el despacho de los siguientes asuntos:
+En todo caso, los auditores comisionados deberán obtener el mayor número de elementos que permitan soportar la existencia de probables irregularidades. Al efecto, se procurará dar participación a los servidores públicos y a los particulares que de manera directa se relacionen con las acciones u omisiones que presuntivamente constituyan una irregularidad.
 
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+III. Emisión del Informe Individual preliminar y su solventación.
 
-(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2020) (REPUBLICADO, P.O. 12 DE MARZO DE 2020)
+El Auditor Superior, formulará a los sujetos fiscalizados, el Informe Individual preliminar que contendrá además de las observaciones, las recomendaciones y cargos derivados de la fiscalización superior de la Cuenta Pública de que se trate tanto a los servidores públicos como a los particulares que hayan coparticipado en el ingreso o en el gasto de recursos públicos. El Informe Individual preliminar determinará la presunta responsabilidad de los infractores, y en su caso se fijará en cantidad líquida el monto de los daños y perjuicios.
 
-I. Formular en colaboración con la Secretaría de Bienestar del Estado de Oaxaca la instrumentación y coordinación de las políticas públicas del sector de la infraestructura social y ejecutar por sí o por conducto de terceros las obras públicas y servicios relacionados con:
+Los sujetos fiscalizados, dentro de los veinte días naturales contados a partir del día siguiente de la fecha de recibo del Informe Individual preliminar deberán solventarlo ante la Auditoría Superior del Estado; debiendo remitir los argumentos, documentos y comentarios que se estimen pertinentes.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+Durante este periodo el sujeto fiscalizado podrá solicitar reunión de aclaraciones.
 
-a) Infraestructura Social: Entendiéndose por ésta, las edificaciones e instalaciones para ofrecer servicios de salud, educación, patrimonio edificado, vivienda e infraestructura urbana;
+Una vez que la Auditoría Superior del Estado valore las justificaciones, aclaraciones y demás información a que hacen referencia los párrafos anteriores, podrá determinar la procedencia de eliminar, rectificar o ratificar los resultados y las observaciones preliminares que les dio a conocer a los sujetos fiscalizados, para efectos de la elaboración del Informe Individual definitivo al que refiere la fracción IV del presente artículo.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+En caso de que la Auditoría Superior del Estado considere que los sujetos fiscalizados no aportaron elementos suficientes para atender las observaciones correspondientes, deberá incluir en el apartado específico del Informe Individual, una síntesis de las justificaciones, aclaraciones y demás información presentada por dichos sujetos.
 
-b) Infraestructura Básica: Entendiéndose por ésta, el desarrollo de obras e instalaciones para agua; así como, promover actividades para el cuidado, mejoramiento y restauración del medio ambiente, comunicaciones, transportes y energías; y
+Lo previsto en los párrafos anteriores se realizará sin perjuicio de que la Auditoría Superior del Estado convoque a las reuniones de trabajo que estime necesarias durante las auditorias correspondientes, para la revisión de los resultados.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+Si los Informes Individuales preliminares no son solventados dentro del plazo señalado, o bien, la documentación y argumentos presentados no son suficientes para desvirtuar las observaciones, se promoverán las responsabilidades a que haya lugar.
 
-c) Infraestructura Productiva: Entendiéndose por ésta, las edificaciones e Instalaciones en materia agrícola, ganadera, forestal, pesca, turismo, comercio e industria.
+Durante la etapa de solventación, los sujetos fiscalizados procurarán la participación de las personas, físicas o morales, a quienes de manera directa se señalen como presuntos responsables de las irregularidades detectadas, a fin de que ante ellos, realicen las manifestaciones o aporten los elementos que estimen pertinentes. De dicha circunstancia, el sujeto fiscalizado deberá presentar las constancias correspondientes al momento de remitir su solventación.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+En todo caso, el Informe Individual preliminar a que se refiere esta fracción, deberá notificarse a los sujetos fiscalizados a más tardar el treinta y uno de octubre del año siguiente al fiscalizado. Cuando los sujetos fiscalizados hayan obtenido prórroga para la presentación de su Cuenta Pública, la fecha límite para la notificación del Informe Individual preliminar se ampliará en un término similar a la prórroga autorizada.
 
-II. Aplicar las disposiciones técnicas y normativas en materia de infraestructuras en lo general, y en lo particular en materia de obra pública, construcción, fraccionamiento, ordenamiento territorial y desarrollo urbano;
+IV. Presentación del Informe General e Informes Individuales definitivos.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+La Auditoría Superior del Estado presentará al Congreso, por conducto de la Comisión, el Informe General e Informes Individuales definitivos a más tardar el veinte de febrero del año siguiente al de la presentación de la Cuenta Pública, mismo que tendrá carácter público y mientras ello no suceda, la Auditoría Superior del Estado deberá guardar reserva de sus actuaciones e informaciones, salvo cuando se trate de información o actuaciones que deriven del resultado de auditorías realizadas a recursos federales por convenio los cuales deban ser comunicados a la Auditoría Superior de la Federación previamente a la presentación de dicho informe. A petición de la Auditoría Superior del Estado, por causa justificada y atendiendo a las circunstancias específicas del caso, la Comisión mediante acuerdo de trámite podrá autorizar se prorrogue la presentación del Informe General e Informes Individuales definitivos.
 
-III. Procurar que en la generación de infraestructuras social, básica y productiva, se fomente la cohesión social, se propicie el equilibrio regional y la competitividad económica; articulando y ordenando el territorio para lograr la igualdad de oportunidades mediante la consolidación de una infraestructura integral, sustentable y compensatoria;
+El Auditor Superior, enviará a los sujetos fiscalizados los informes individuales definitivos de las auditorías que les corresponda, dentro de los 10 días hábiles posteriores a que sea entregado al Congreso el Informe General e Informes Individuales definitivos, donde se le darán a conocer las recomendaciones y acciones promovidas.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+En el caso de las recomendaciones derivadas de la evaluación de desempeño, los sujetos fiscalizados deberán informar ante la Auditoría Superior del Estado las mejoras realizadas o, en su caso, justificar su improcedencia, dentro de un plazo de sesenta días hábiles, contados a partir de la fecha en que las reciban. La Auditoría Superior del Estado, deberá pronunciarse en un plazo de treinta días hábiles sobre las respuestas emitidas por los sujetos fiscalizados, en caso de no hacerlo, se tendrán por atendidas dichas recomendaciones;
 
-IV. Impulsar criterios de sustentabilidad en la construcción de infraestructuras social, básica y productiva, así como, la conservación y mejoramiento del medio ambiente en coordinación con las instancias competentes;
+V. Dictaminación y aprobación del Informe General e Informes Individuales.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+El Congreso del Estado concluirá el proceso de fiscalización de las cuentas públicas a más tardar el treinta de mayo del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas contenidas en los informes que presente la Auditoría Superior del Estado, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas sigan su curso.
 
-V. Coordinar, en el ámbito de su competencia, la planeación integral de las infraestructuras con visión de largo plazo, fomentando la participación ciudadana a través de órganos consultivos;
+Al efecto, la Comisión procederá al estudio de los informes a fin de valorar su contenido, emitir el dictamen y turnarlo para su aprobación al pleno del Congreso. El decreto que al efecto recaiga, deberá enviarse para su publicación al Periódico Oficial, Órgano del Gobierno del Estado.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 50.
 
-VI. Promover la creación de reserva territorial y suelo para el establecimiento de las infraestructuras.
+Las observaciones que, en su caso, emita la Auditoría Superior del Estado derivado de la fiscalización superior, podrán derivar en:
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+I. Acciones. Incluyendo solicitudes de aclaración, informes de presunta responsabilidad administrativa, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa, denuncias de hechos ante la Fiscalía Especializada y denuncias de juicio político, y
 
-VII. Promover, vigilar y operar de manera permanente en el sector de las infraestructuras la innovación como política para la competitividad, la mejora continua y la eficiencia para que los servicios que proporciona tengan la calidad que requieren los oaxaqueños.
+II. Recomendaciones.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 51.
 
-VIII. Promover y asegurar que la construcción de infraestructura coadyuve a la competitividad del Estado y sus regiones.
+La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información y documentación de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el Presupuesto de Egresos en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de auditorías sobre el desempeño. Las observaciones, incluyendo las acciones y recomendaciones que la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+Lo anterior, sin perjuicio que de encontrar en la revisión que se practique presuntas responsabilidades a cargo de servidores públicos o particulares, correspondientes a otros ejercicios fiscales, se da vista a la unidad administrativa a cargo de las investigaciones de la Auditoría Superior del Estado para que proceda a formular las promociones de responsabilidades administrativas o las denuncias correspondientes.
 
-IX. Crear un banco de proyectos ejecutivos de obras, que permitan una planeación y ejecución eficiente con los objetivos del Plan Estatal de Desarrollo.
+### CAPÍTULO VII. DEL INFORME GENERAL E INFORMES INDIVIDUALES
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 52.
 
-X. Formular proyectos ejecutivos de obras, que permitan una planeación y ejecución eficiente con los objetivos del Plan Estatal de Desarrollo;
+El Informe General contendrá como mínimo:
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+I. Un resumen de las auditorías realizadas y las observaciones realizadas;
 
-XI. Integrar un registro de los contratistas que deseen ejecutar obra pública en cualquiera de las Dependencias y Entidades de la Administración Pública Estatal, que cubran los requisitos de capacidad técnica, competencia, experiencia y solvencia económica;
+II. Las áreas claves con riesgo identificadas en la fiscalización;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+III. La descripción de la muestra del gasto público auditado, señalando la proporción respecto del ejercicio de cada sujeto fiscalizado, y
 
-XII. Presidir el Comité Estatal de Licitación de Obra Pública y emitir las políticas, bases y lineamientos para su funcionamiento;
+IV. La demás Información que se considere necesaria.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+###### Artículo 53.
 
-XIII. Participar en la gestión, suscripción y ejecución de los convenios en materia de infraestructuras con los gobiernos federal, estatales y municipales, así como, con el sector privado y social para el cumplimiento de sus funciones y de los objetivos del Plan Estatal de Desarrollo;
+Los Informes Individuales contendrán como mínimo:
 
-XIV. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2013)
+I. Los criterios de selección, el objetivo, el alcance, los procedimientos de Auditoría aplicados y el dictamen de la revisión de la Cuenta Pública;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+II. La evaluación de la Gestión Financiera y del avance o cumplimiento de los programas y subprogramas aprobados;
 
-XV. Coordinar la elaboración y ejecución de programas y acciones en materia de infraestructura para la movilidad y el transporte en el Estado.
+III. Las observaciones, recomendaciones y comentarios de las actuaciones que, en su caso, se hubieren efectuado;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+IV. El análisis sobre el cumplimiento de la normatividad y de los postulados básicos de contabilidad gubernamental; así como el resultado de la valoración de los sistemas de control interno sobre la gestión financiera y la evaluación del desempeño;
 
-XVI. Coordinar la integración y actualización del inventario de las infraestructuras del Estado.
+V. El señalamiento, en su caso, y las acciones promovidas;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+VI. Las justificaciones y aclaraciones que, en su caso, los sujetos fiscalizados hayan presentado sobre las mismas, y
 
-XVII. Formular, regular, vigilar y ejecutar el Plan Estatal de ordenamiento Territorial, desarrollo urbano, y de las infraestructuras en coordinación con las instancias federales, estatales, municipales competentes.
+VII. Los resultados de la verificación del desempeño en el cumplimiento de los objetivos y metas de los programas revisados.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+El Informe Individual preliminar al que alude la fracción III del artículo 49 de esta Ley, contendrá lo dispuesto en las fracciones III y VII del presente artículo, esto sin perjuicio de la demás información que se considere relevante a efecto de que el sujeto fiscalizado proceda a su solventación.
 
-XVIII. Reglamentar las normas técnicas y operativas para el tránsito de vehículos en las poblaciones, carreteras y caminos de jurisdicción estatal;
+###### Artículo 54.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+La Auditoría Superior del Estado, en el Informe General, dará cuenta al Congreso del seguimiento de las acciones promovidas con motivo de sus observaciones.
 
-XIX. Formular, coordinar y ejecutar obras de abastecimiento de agua potable; de servicios de drenaje y alcantarillado; las relacionadas con el desarrollo y equipamiento urbano; y las obras y servicios que le sean asignadas;
+### CAPÍTULO VIII. DE LA DETERMINACIÓN DE LOS DAÑOS Y PERJUICIOS Y DEL FINCAMIENTO DE RESPONSABILIDADES
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+#### SECCIÓN PRIMERA. DE LAS ACCIONES DERIVADAS DE LA FISCALIZACIÓN
 
-XX. Proponer y ejecutar el programa anual de obra pública del Estado, en coordinación con las Entidades del sector;
+###### Artículo 55.
 
-XXI. (DEROGADA, P.O. 28 DE ENERO DE 2017)
+La Auditoría Superior del Estado al promover o emitir las acciones a que se refiere esta Ley, observará lo siguiente:
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+I. A través de las solicitudes de aclaración, requerirá a los sujetos fiscalizados que presenten información adicional para atender las observaciones que se hayan realizado;
 
-XXII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+II. A través del informe de presunta responsabilidad resarcitoria, determinará en cantidad líquida los daños o perjuicios, o ambos a la Hacienda Pública Estatal o Municipal o, en su caso, al patrimonio de los entes públicos;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2022)</small>
+III. Mediante las promociones del ejercicio de la facultad de comprobación fiscal, informará a la autoridad competente sobre un posible incumplimiento de carácter fiscal detectado en el ejercicio de sus facultades de fiscalización;
 
-###### ARTÍCULO 38.
+IV. A través del informe de presunta responsabilidad administrativa, la Auditoría Superior del Estado promoverá ante el Tribunal, en los términos de la Ley General de Responsabilidades Administrativas y la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, así como sanciones a los particulares vinculados con dichas faltas.
 
-A la Secretaría de Educación Pública le corresponde el despacho de los siguientes asuntos:
+En caso de que la Auditoría Superior del Estado determine la existencia de daños o perjuicios, o ambos a las Haciendas Públicas o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos de la Ley General de Responsabilidades Administrativas;
 
-I. Proponer, planear y definir la política educativa estatal y emitir las directrices necesarias para su aplicación, en coordinación con las autoridades en materia educativa y con apego a lo dispuesto en la Constitución federal, las leyes federales, los tratados internacionales en materia de derechos humanos, la Constitución local, la legislación estatal, decretos, reglamentos y demás disposiciones aplicables en materia educativa;
+V. Por medio de las promociones de responsabilidad administrativa, dará vista a los órganos internos de control cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la Ley General de Responsabilidades Administrativas y las disposiciones que los regulen;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+VI. Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía Especializada, la posible comisión de hechos delictivos, fungiendo además como coadyuvante, y
 
-II. Dar cumplimiento a los principios, criterios, acuerdos y normatividad, así como a los planes y programas de estudio aplicables al Sistema Educativo Estatal, en los tipos, niveles y modalidades que lo conforman, en coordinación con las Autoridades Educativas Federales, Estatales y Municipales;
+VII. Por medio de la denuncia de juicio político, hará del conocimiento del Congreso la presunción de actos u omisiones de los servidores públicos, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, a efecto de que se substancie el procedimiento y resuelva sobre la responsabilidad política correspondiente.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+###### Artículo 56.
 
-III. Promover la incorporación del principio de interculturalidad y perspectiva de género en los contenidos regionales que hayan de incluirse en los planes y programas de estudio, en coordinación con las instancias correspondientes y de conformidad con la legislación de la materia;
+La Auditoría Superior del Estado, podrá promover, en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante el Tribunal; así como la denuncia de hechos ante la Fiscalía Especializada, la denuncia de juicio político ante el Congreso, o los informes de presunta responsabilidad administrativa ante el órgano interno de control competente.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE ENERO DE 2024)</small>
+#### SECCIÓN SEGUNDA. DE LA DETERMINACIÓN DE DAÑOS Y PERJUICIOS
 
-IV. Impulsar acciones y eventos que tiendan al fortalecimiento de la educación en el Estado y al respeto, preservación y desarrollo de las culturas de los pueblos y comunidades indígenas y afromexicanas;
+###### Artículo 57.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+Si de la fiscalización que realice la Auditoría Superior del Estado se detectaran irregularidades que permitan presumir la existencia de responsabilidades a cargo de servidores públicos o particulares, procederá a:
 
-V. Establecer las políticas para la ampliación de la oferta educativa e incremento de la matrícula en las Instituciones Educativas en el Estado, de acuerdo a las prioridades establecidas en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y en sus respectivos programas sectoriales;
+I. Promover ante el Tribunal, en los términos de la Ley General de Responsabilidades Administrativas y la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que detecte durante sus auditorías e investigaciones, en que incurran los servidores públicos, así como sanciones a los particulares vinculados con dichas faltas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE ENERO DE 2024)</small>
+II. Dar vista a los órganos internos de control competentes de conformidad con la Ley General de Responsabilidades Administrativas y la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit cuando detecte posibles responsabilidades administrativas distintas a las mencionadas en la fracción anterior.
 
-VI. Vigilar y garantizar que la educación en el Estado sea universal e inclusiva, con la finalidad de evitar toda forma de discriminación, exclusión o condicionamiento estructural que se conviertan en barreras al aprendizaje y/o a la participación;
+En caso de que la Auditoría Superior del Estado determine la existencia de daños o perjuicios, que deriven de faltas administrativas no graves, procederá en los términos del artículo 50 de la Ley General de Responsabilidades Administrativas; y la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+III. Presentar las denuncias y querellas penales, que correspondan ante la Fiscalía Especializada, por los probables delitos que se detecten derivado de sus auditorías;
 
-VII. Ser el conducto oficial y autoridad educativa en el Estado para tratar los asuntos relacionados con la Educación en todos sus tipos, niveles y modalidades;
+IV. Coadyuvar con la Fiscalía Especializada en los procesos penales correspondientes, tanto en la etapa de investigación, como en la judicial. En estos casos, la Fiscalía Especializada recabará previamente la opinión de la Auditoría Superior del Estado, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2024)</small>
+Previamente a que la Fiscalía Especializada determine declinar su competencia, abstenerse de investigar los hechos denunciados, archivar temporalmente las investigaciones o decretar el no ejercicio de la acción penal, deberá hacerlo del conocimiento de la Auditoría Superior del Estado para que exponga las consideraciones que estime convenientes. La Auditoría Superior del Estado podrá impugnar ante la autoridad competente las omisiones de la Fiscalía Especializada en la investigación de los delitos, así como las resoluciones que emita en materia de declinación de competencia, reserva, no ejercicio o desistimiento de la acción penal, o suspensión del procedimiento, y
 
-VIII. Promover, concertar y desarrollar proyectos y acciones que impulsen la consolidación de formación, capacitación y actualización continua en la Educación, Ciencia y Tecnología en el Estado;
+V. Presentar las denuncias de juicio político ante el Congreso que, en su caso, correspondan en términos de las disposiciones aplicables. Las denuncias penales de hechos presuntamente ilícitos y las denuncias de juicio político, deberán presentarse por parte de la Auditoría Superior del Estado cuando se cuente con los elementos que establezcan las leyes en dichas materias. Las resoluciones del Tribunal podrán ser recurridas por la Auditoría Superior del Estado, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+###### Artículo 58.
 
-IX. Contribuir al desarrollo de la Ciencia, la Tecnología y la Innovación, en coordinación con las autoridades educativas de la materia y las demás que integren la Administración Pública del Estado;
+La promoción del procedimiento a que se refiere la fracción I del artículo anterior, tienen por objeto resarcir el monto de los daños y perjuicios estimables en dinero que se hayan causado a la Hacienda Pública Estatal o Municipal o, en su caso, al patrimonio de los entes públicos.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+Lo anterior, sin prejuicio de las demás sanciones administrativas que, en su caso, el Tribunal imponga a los responsables.
 
-X. Establecer los mecanismos de vinculación con el sector académico, instituciones de capacitación para el trabajo, educación media superior y superior, centros e institutos de investigación, así como con el sector productivo, público, privado y social, conforme a las perspectivas del desarrollo sostenible en el Estado de Oaxaca;
+Las sanciones que imponga el Tribunal se fincarán independientemente de las demás acciones a que se refiere el artículo anterior y las sanciones que impongan las autoridades competentes.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+###### Artículo 59.
 
-XI. Promover y suscribir convenios con la Federación, Estados, Municipios y Organismos nacionales e internacionales públicos o privados, para el fortalecimiento del sector educativo, conforme a la normatividad aplicable en la materia;
+La unidad administrativa a cargo de las investigaciones de la Auditoría Superior del Estado promoverá el informe de presunta responsabilidad administrativa ante la unidad de la propia Auditoría encargada de fungir como autoridad sustanciadora, cuando las observaciones resarcitorias no sean solventadas por los sujetos fiscalizados.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+Lo anterior, sin prejuicio de que la unidad administrativa a cargo de las investigaciones podrá promover el informe de presunta responsabilidad administrativa, en cualquier momento en que cuente con los elementos necesarios.
 
-XII. Realizar estudios sobre la demanda, cobertura, factibilidad y pertinencia para buscar la excelencia y la mejora continua de la educación media superior, preparatoria abierta, educación superior, ciencia y tecnología, propiciando su consolidación y desarrollo;
+El procedimiento para promover el informe de presunta responsabilidad administrativa y la imposición de sanciones por parte del Tribunal, se regirá por lo dispuesto en la Ley General de Responsabilidades Administrativas y la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+###### Artículo 60.
 
-XIII. Resolver sobre el otorgamiento y retiro del reconocimiento de validez oficial de estudios a los particulares, que pretendan ofertar servicios de educación media superior y superior en el Estado, así como, para impartir capacitación para el trabajo.
+De conformidad con lo dispuesto en la Ley General de Responsabilidades Administrativas, la unidad administrativa de la Auditoría Superior del Estado a la que se le encomiende la substanciación ante el Tribunal, deberá ser distinta de la que se encargue de las labores de investigación.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2024)</small>
+Para efectos de lo previsto en el párrafo anterior, el Reglamento Interior de la Auditoría Superior del Estado, deberá contener una unidad administrativa a cargo de las investigaciones que será la encargada de ejercer las facultades que la Ley General de Responsabilidades Administrativas le confiere a las autoridades investigadoras; así como una unidad que ejercerá las atribuciones que la citada Ley otorga a las autoridades substanciadoras. Los titulares de las unidades referidas deberán cumplir para su designación con los requisitos que se prevén en el artículo 18 de esta Ley.
 
-XIV. Revalidar, convalidar u otorgar equivalencias de estudios para la educación media superior y superior de acuerdo a los lineamientos legales correspondientes;
+###### Artículo 61.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+Los órganos internos de control deberán informar a la Auditoría Superior del Estado, dentro de los treinta días hábiles siguientes de recibido el informe de presunta responsabilidad administrativa, el número de expediente con el que se inició la investigación o procedimiento respectivo.
 
-XV. Establecer y verificar los sistemas de control escolar de las instituciones públicas y particulares en capacitación para el trabajo, educación media superior, preparatoria abierta y educación superior;
+Asimismo, los órganos internos de control deberán informar a la Auditoría Superior del Estado de la resolución definitiva que se determine o recaiga a sus promociones, dentro de los diez días hábiles posteriores a que se emita dicha resolución.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
+###### Artículo 62.
 
-XVI. Suscribir títulos y grados académicos que expidan las instituciones de educación media superior y superior particulares en el Estado;
+La Auditoría Superior del Estado, en los términos de la Ley del Sistema Local Anticorrupción, incluirá en la plataforma local digital establecida en dicha ley, la información relativa a los servidores públicos y particulares sancionados por resolución definitiva firme, por la comisión de faltas administrativas graves o actos vinculados a éstas a que hace referencia el presente Capítulo.
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+###### Artículo 63.
 
-XVII. Validar títulos y grados académicos de los servicios de educación normal y para la formación de docentes que expide el Instituto de Educación Pública de Oaxaca, que deban ser suscritos por el Titular del Poder Ejecutivo;
+La Secretaría deberá informar semestralmente a la Auditoría Superior del Estado y a la Comisión, de los trámites que se vayan realizando para la ejecución de los cobros respectivos derivados de resarcimientos y cobros de multas derivadas de la actuación de la propia Auditoría.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE ENERO DE 2024)</small>
+### CAPÍTULO IX. DEL RECURSO DE RECONSIDERACIÓN
 
-XVIII. Emitir recomendaciones a Instituciones Educativas para optimizar la vigencia de los principios de la educación que se imparta en el Estado;
+###### Artículo 64.
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+La tramitación del recurso de reconsideración, en contra de las multas impuestas por la Auditoría Superior del Estado, se sujetará a las disposiciones siguientes:
 
-XIX. Gestionar y promover la obtención de recursos destinados al desarrollo y consolidación de la capacitación para la Educación Media Superior, Preparatoria Abierta, Educación Superior, Ciencia y Tecnología;
+I. Se iniciará mediante escrito que deberá presentarse dentro del término de quince días contados a partir de que surta efectos la notificación de la multa, que contendrá: la mención de la autoridad administrativa que impuso la multa, el nombre y firma autógrafa del recurrente, el domicilio que señala para oír y recibir notificaciones, la multa que se recurre y la fecha en que se le notificó, los agravios que a juicio del sujetos (sic) fiscalizado y, en su caso, de los servidores públicos, o del particular, persona física o moral, les cause la sanción impugnada, asimismo se acompañará copia de ésta y de la constancia de notificación respectiva, así como las pruebas documentales o de cualquier otro tipo supervenientes que ofrezca y que tengan relación inmediata y directa con la sanción recurrida;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+II. Cuando no se cumpla con alguno de los requisitos establecidos en este artículo para la presentación del recurso de reconsideración, la Auditoría Superior del Estado prevendrá por una sola vez al inconforme para que, en un plazo de tres días hábiles, subsane la irregularidad en que hubiere incurrido en su presentación;
 
-XX. Coordinar a la Comisión Estatal para la Planeación y Programación de la Educación Media Superior del Estado de Oaxaca y la Comisión Estatal para la Planeación de la Educación Superior, de conformidad con la normatividad que las rige;
+III. La Auditoría Superior del Estado al acordar sobre la admisión de las pruebas documentales y supervenientes ofrecidas, desechará de plano las que no fueren ofrecidas conforme a derecho y las que sean contrarias a la moral o al derecho, y
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+IV. Desahogadas las pruebas, si las hubiere, la Auditoría Superior del Estado examinará todos y cada uno de los agravios hechos valer por el recurrente y emitirá resolución dentro de los sesenta días hábiles siguientes, a partir de que declare cerrada la instrucción, notificando dicha resolución al recurrente dentro de los veinte días naturales siguientes a su emisión.
 
-XXI. Planear y supervisar la infraestructura educativa en el Estado;
+El recurrente podrá desistirse expresamente del recurso antes de que se emita la resolución respectiva, en este caso, la Auditoria Superior del Estado lo sobreseerá sin mayor trámite.
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+Una vez desahogada la prevención, la Auditoría Superior del Estado, en un plazo que no excederá de quince días hábiles, acordará sobre la admisión o el desechamiento del recurso.
 
-XXII. Establecer y coordinar los programas de apoyo económico a través de becas y créditos que promuevan el desempeño académico para el ingreso, permanencia y egreso de los estudiantes de educación media superior y superior;
+Procede el desechamiento, cuando se ubique en los siguientes supuestos: se presente fuera del plazo señalado; el escrito de impugnación no se encuentre firmado por el recurrente; no acompañe cualquiera de los documentos a que se refiere la fracción anterior; los actos impugnados no afecten los intereses jurídicos del promovente; no se exprese agravio alguno; o si se encuentra en trámite ante el Tribunal algún recurso o defensa legal o cualquier otro medio de defensa interpuesto por el promovente, en contra de la sanción recurrida.
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+###### Artículo 65.
 
-XXIII. Coordinar la planeación, programación, presupuestación y evaluación de los servicios que ofrezca el conjunto de instituciones, subsistemas de educación media superior, preparatoria abierta, superior, ciencia y tecnología que funcionen en el Estado, en congruencia con la legislación federal y estatal en la materia;
+La resolución que ponga fin al recurso tendrá por efecto confirmar, modificar o revocar la multa impugnada.
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
+###### Artículo 66.
 
-XXIV. Conformar un sistema de información que permita generar la información estadística para la consolidación de toda (sic) de decisiones en el Sector Educativo Estatal; y
+La interposición del recurso suspenderá la ejecución de la multa recurrida, siempre y cuando el recurrente garantice de cualquiera de las formas establecidas por la legislación aplicable.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE ENERO DE 2024)</small>
+### CAPÍTULO X. DE LA PRESCRIPCIÓN DE RESPONSABILIDADES
 
-XXV. Las demás que prevea la Constitución federal, los tratados internacionales en materia de derechos humanos, las leyes federales, la Constitución local, la presente Ley y demás leyes locales, decretos y las disposiciones aplicables.
+###### Artículo 67.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2022)</small>
+La acción para fincar responsabilidades e imponer las sanciones por faltas administrativas graves prescribirá en siete años.
 
-###### ARTÍCULO 39.
+El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
 
-A la Secretaría del Trabajo, le corresponde el despacho de los siguientes asuntos:
+En todos los casos, la prescripción a que alude este precepto se interrumpirá en los términos establecidos en la Ley General de Responsabilidades Administrativas y la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit
 
-I. Vigilar la observancia y aplicación, en el ámbito de su competencia, de las disposiciones contenidas en el artículo 123 y demás relativos de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y las demás disposiciones normativas de la materia; a través de la inspección a los centros de trabajo y la instauración de los procedimientos administrativos correspondientes;
+###### Artículo 68.
 
-II. Dar cumplimiento a los convenios internacionales en materia de derechos laborales;
+Las responsabilidades distintas a las mencionadas en el artículo anterior, que resulten por actos u omisiones, prescribirán en la forma y tiempo que fijen las leyes aplicables.
 
-III. Fomentar el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales aplicables;
+### CAPÍTULO XI. DEL INSTITUTO DE CAPACITACIÓN Y DESARROLLO PARA LA FISCALIZACIÓN SUPERIOR
 
-IV. Promover y consolidar acciones que generen ocupación productiva en condiciones de igualdad entre mujeres y hombres;
+###### Artículo 69.
 
-V. Gestionar las acciones para fortalecer las capacidades de la Secretaría de (sic) Trabajo, mediante la celebración de mecanismos de colaboración con organismos del sector público, privado o social nacional e internacional;
+La Auditoría Superior del Estado contará con un Instituto de Capacitación y Desarrollo para la Fiscalización Superior, cuyo propósito será la capacitación de su personal, así como de las personas físicas o morales, públicas o privadas interesadas en la fiscalización superior, cuenta pública, rendición de cuentas, transparencia y ética en la gestión gubernamental, régimen de responsabilidades de los servidores públicos y particulares y demás objetivos que se establezcan al Instituto.
 
-VI. (DEROGADA, P.O. 15 DE JULIO DE 2023);
+Los cursos, diplomados, seminarios, maestrías y demás estudios que en su caso imparta el Instituto de Capacitación y Desarrollo para la Fiscalización Superior gozarán de validez y reconocimiento oficial; las constancias respectivas se expedirán con base a lo dispuesto por las leyes de la materia. Éste dispondrá del presupuesto que se le asigne anualmente, así como de los ingresos autogenerados que obtenga por la recuperación de cuotas por los servicios que preste y otras actividades que realice relacionadas con sus objetivos.
 
-VII. Contar con un banco de información e investigación estadística y archivo documental sobre temáticas laborales abiertos a personas trabajadoras, Instituciones Académicas, Organizaciones de la Sociedad Civil o Empresariales;
+### CAPÍTULO XII. DE LA REVISIÓN DURANTE EL EJERCICIO FISCAL EN CURSO O EJERCICIOS ANTERIORES
 
-VIII. Promover la formalización de toda clase de sociedades cooperativas y demás formas de organización social para el trabajo en coordinación con las dependencias competentes;
+###### Artículo 70.
 
-IX. Promover la formalización del empleo, a través de acuerdos, estímulos y otro tipo de estrategias que permitan disminuir la tasa de ocupación informal;
+Cuando se presenten denuncias que acompañen elementos de prueba, o bien con motivo de convenios o solicitudes formuladas por los propios sujetos fiscalizables, la Auditoría Superior del Estado, podrá revisar durante el ejercicio fiscal en curso a los sujetos fiscalizables, así como respecto de ejercicios anteriores.
 
-X. Emitir los lineamientos generales que propicien un mejoramiento en el nivel y calidad de vida de los trabajadores no asalariados, principalmente de aquellos que realizan sus actividades económicas en la vía pública;
+La Auditoría Superior del Estado rendirá un informe específico al Congreso y, en su caso, promoverá las acciones que correspondan ante el Tribunal, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
 
-XI. Auxiliar y coordinar con las autoridades federales, los Ayuntamientos y el sector privado, las acciones para aumentar la cobertura y calidad de la capacitación y la certificación en materia de higiene y seguridad en los centros de trabajo conforme a la normatividad aplicable;
+###### Artículo 71.
 
-XII. Desarrollar investigaciones que les permita conducir y mejorar las condiciones laborales de las personas trabajadoras en el estado;
+los sujetos de fiscalización, deberán rendir a la Auditoría Superior del Estado, en un plazo de diez días hábiles contados a partir de la recepción del requerimiento, un informe respecto a los hechos que se denuncien, el resultado de sus actuaciones, el nombre de los servidores públicos que pudieran resultar involucrados y, en su caso, las sanciones que se les hubieren impuesto o a las que se hubieren hecho acreedores.
 
-XIII. Dirigir y coordinar las instancias públicas de la defensa del trabajo en la entidad;
+###### Artículo 72.
 
-XIV. Promover las actividades culturales y de recreación entre los trabajadores y sus familias;
+Las denuncias que se presenten deberán estar fundadas con documentos y evidencias mediante los cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos o de su desvío, en los supuestos establecidos en esta Ley.
 
-XV. Adoptar políticas públicas para promover la inclusión laboral y el respeto de los derechos de las personas trabajadoras en condición migratoria;
+El escrito de denuncia deberá contar, como mínimo, con los siguientes elementos:
 
-XVI. Vigilar que los empleadores cumplan la igualdad salarial entre mujeres y hombres en los centros de trabajo, así como vigilar la observancia de este principio al interior de la propia Secretaría;
+I. El ejercicio en que se presentan los presuntos hechos irregulares, y
 
-XVII. Promover, coordinar y vigilar las políticas públicas, programas y acciones para prevenir y erradicar el trabajo infantil;
+II. Descripción de los presuntos hechos irregulares.
 
-XVIII. Aplicar las políticas que establezca la persona titular de la Gubernatura, para la promoción y protección de los derechos de las personas menores en edad permitida para trabajar, atendiendo en todo momento el principio de interés superior de niñas, niños y adolescentes.
+Al escrito de denuncia deberán acompañarse los elementos de prueba, cuando sea posible, que se relacionen directamente con los hechos denunciados. La Auditoría Superior (sic) Estado deberá proteger en todo momento la identidad del denunciante.
 
-XIX. Vigilar el cumplimiento de la normatividad que prohíbe la discriminación laboral que atente contra la dignidad de las personas y tengan por objeto anular o menoscabar los derechos y las libertades;
+###### Artículo 73.
 
-XX. Fomentar la cultura de la denuncia de los actos de acoso laboral y acoso sexual dentro del ámbito laboral;
+Las denuncias deberán referirse a presuntos daños o perjuicios a la Hacienda Pública Estatal o Municipal, o al patrimonio de los entes públicos, en algunos de los siguientes supuestos para su procedencia:
 
-XXI. Promover la capacitación e inclusión laboral de los grupos de atención prioritaria y personas trabajadoras que por su condición de vulnerabilidad requieran de una atención especial, reconociendo su derecho al trabajo digno y a la independencia económica;
+I. Desvío de recursos hacia fines distintos a los que deben ser destinados;
 
-XXII. Promover acciones de coordinación con el sector público, privado y social, dirigidas a garantizar el respeto de los derechos de las personas trabajadoras del hogar y de cuidados y al acceso a las prestaciones comprendidas en el régimen obligatorio del seguro social de conformidad con la Ley Federal del Trabajo;
+II. Irregularidades en la capacitación o en el manejo y utilización de los recursos públicos;
 
-XXIII. Las demás que le señalen las leyes, reglamentos y decretos relacionados con la materia.
+III. Actos presuntamente irregulares en la contratación y ejecución de obras, contratación y prestación de servicios públicos, adquisición de bienes, y otorgamiento de permisos, licencias y concesiones entre otros;
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2018)</small>
+IV. Hechos que impliquen la comisión de probables conductas delictivas, y
 
-###### ARTÍCULO 40.
+V. Inconsistencia en la información financiera o programática de cualquier entidad fiscalizada que oculte o pueda originar daños o perjuicios a su patrimonio.
 
-A la Secretaría de Movilidad le corresponde el despacho, estudio, resolución y planeación de los siguientes asuntos:
+La Auditoría Superior del Estado informará al denunciante la resolución que tome sobre la procedencia de iniciar la revisión correspondiente.
 
-I. Proponer al Gobernador del Estado las políticas, programas y normatividad relativos a la movilidad en la entidad;
+###### Artículo 74.
 
-II. Celebrar convenios de colaboración en materia de movilidad, vialidad y transporte con los gobiernos federal, estatal y municipal, a fin de lograr el mejoramiento y modernización del sector;
+Asimismo procederá a la revisión determinada por el presente capítulo, en cualquiera de los supuestos siguientes:
 
-III. Coordinar los programas de Movilidad, Transporte y Vialidad en la entidad, que realice directamente o en forma concertada con la federación o los municipios;
+I. Cuando el servidor público encargado del manejo de los recursos económicos o programas abandona su cargo, y de conformidad con los hechos narrados en la denuncia implique un riesgo Inminente a las haciendas públicas, y
 
-IV. Regular, dirigir, planear y controlar el uso adecuado y funcional de las comunicaciones terrestres y del servicio de transporte en el Estado;
+II. Tratándose del año de la conclusión del ejercicio constitucional de los sujetos fiscalizables o culminación del cargo de su titular, siempre y cuando los avances de gestión financiera y cuenta pública en su caso, de los ejercicios fiscales transcurridos durante su encargo, se hubieran entregado en tiempo y forma como lo dispone la presente ley.
 
-V. Realizar las tareas relativas a la ingeniería de tránsito y transporte en el Estado, autorizando las modificaciones e interrupciones temporales a las mismas con motivo de la realización de obras y eventos públicos o privados, coordinando las acciones que deban llevarse a cabo para su debida atención;
+###### Artículo 75.
 
-VI. Proponer a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable las políticas y programas relativos a la construcción y mantenimiento de obras de transporte y vialidad;
+El Auditor Superior, con base en el dictamen que al efecto emita el área competente de la propia Auditoría autorizará, en su caso, la revisión de la gestión financiera correspondiente, ya sea del ejercicio fiscal en curso o de ejercicios anteriores a la Cuenta Pública en revisión.
 
-VII. Promover, vigilar y planear que los servicios de transporte de pasajeros y de carga en el Estado de Oaxaca, se efectúen con apego a la Ley de la materia;
+###### Artículo 76.
 
-VIII. Conocer, iniciar e instruir los trámites y procedimientos para otorgar, negar, revocar, cancelar, suspender, modificar, prorrogar, renovar, aprobar y dar por terminadas, según corresponda, las concesiones y permisos, para la explotación del servicio público de transporte en el Estado, que otorgue el Gobernador del Estado, en términos de la Ley de la materia;
+Los Sujetos Fiscalizables estarán obligados a proporcionar la información que les solicite la Auditoría Superior del Estado, caso contrario, la Auditoría Superior del Estado podrá imponer las medidas de apremio previstas en esta ley, en la Ley General de Responsabilidades Administrativas y en la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit.
 
-IX. Expedir la documentación para la prestación del servicio de transporte y vialidad, prevista en la Ley y los reglamentos de la materia de movilidad;
+Para efectos de lo contenido en el presente capítulo la Auditoría Superior del Estado contará con todas las atribuciones señaladas en esta Ley para la realización de sus auditorías.
 
-X. Dirigir, coordinar y controlar la ejecución de programas relativos a la construcción y reparación de las obras de transporte y vialidad, en coordinación con la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable, así como, evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social y aseguren el cumplimiento de las disposiciones en materia de impacto ambiental y de riesgo para la población;
+###### Artículo 77.
 
-XI. Realizar los estudios necesarios sobre transporte y circulación multimodal, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida y a la seguridad, a la protección del ambiente, comodidad y rapidez en el transporte de personas y de carga;
+De la revisión efectuada al ejercicio fiscal en curso o a los ejercicios anteriores, el Auditor Superior, formulará a los sujetos fiscalizados, un Informe Especifico preliminar que contendrá además de las observaciones, las recomendaciones y cargos derivados de la revisión de que se trate tanto a los servidores públicos como a los particulares que hayan coparticipado en el ingreso o en el gasto de recursos públicos. El Informe Específico preliminar determinará la presunta responsabilidad de los infractores, y en su caso se fijará en cantidad líquida el monto de los daños y perjuicios.
 
-XII. Establecer, administrar, resguardar y mantener actualizado el registro y control de las concesiones y permisos; así como las autorizaciones para el servicio especial, que de conformidad con la legislación aplicable le corresponda otorgar a la Secretaría, en coordinación con la Secretaría de Finanzas;
+Los sujetos fiscalizados, dentro de los veinte días naturales contados a partir de la fecha de recibo del Informe Especifico preliminar deberán solventarlo ante la Auditoría Superior del Estado; debiendo remitir los argumentos, documentos y comentarios que se estimen pertinentes.
 
-XIII. Llevar a cabo los estudios para determinar, con base en ellos, las medidas técnicas y operaciones de todos los medios de transporte urbano;
+Una vez que la Auditoría Superior del Estado valore las justificaciones, aclaraciones y demás información a que hacen referencia los párrafos anteriores, podrá determinar la procedencia de eliminar, rectificar o ratificar los resultados y las observaciones preliminares que les dio a conocer a los sujetos fiscalizados, para efectos de la elaboración del Informe Especifico que se deberá remitir al Congreso a más tardar los diez días hábiles posteriores a la conclusión de la valoración de la solventación.
 
-XIV. Aplicar las sanciones previstas en las disposiciones legales y reglamentarias en la materia de su competencia y dar seguimiento a la aplicación de las que correspondan a otras autoridades, así como, resolver los medios de defensa que le presenten, de conformidad con las disposiciones legales correspondientes;
+Si los Informes Específicos preliminares no son solventados dentro del plazo señalado, o bien, la documentación y argumentos presentados no son suficientes para desvirtuar las observaciones, se promoverán las responsabilidades a que haya lugar.
 
-XV. Iniciar, integrar y resolver los procedimientos administrativos establecidos en la Ley de la materia y sus reglamentos;
+### CAPÍTULO XIII. CONTRALORÍA SOCIAL
 
-XVI. Emitir acuerdos, circulares y demás disposiciones en el ámbito de su competencia, para la aplicación de las leyes y reglamentos en la materia;
+###### Artículo 78.
 
-XVII. Expedir tarjetas de circulación de transporte público y particular. En los casos de los servicios del transporte público, revisar y, en su caso, autorizar la documentación del solicitante y de ser procedente entregar los documentos previstos en la Ley de la materia, tales como título de concesión, cesión de concesión, tarjetón de concesión, tarjeta de circulación, engomado alfanumérico y placas de circulación, entre otros; así como, autorizar y entregar los permisos, placas y tarjetas de circulación y engomado alfanumérico del transporte público, previstos en la Ley de la materia, en coordinación con las instancias gubernamentales que se requieran;
+La Comisión recibirá peticiones, solicitudes y en su caso denuncias sustentadas en elementos de prueba idóneos, presentadas por la sociedad civil, las cuales deberán ser consideradas por la Auditoría Superior del Estado en el programa anual de auditorías, visitas e inspecciones y cuyos resultados deberán ser considerados en el informe individual respectivo.
 
-XVIII. Expedir licencias de manejo para conductores particulares y del servicio público estatal y llevar a cabo las acciones de emplacamiento vehicular y la emisión de permisos y tarjetas de circulación;
+###### Artículo 79.
 
-XIX. Realizar a través de las normas legales necesarias la certificación de conductores en materia de transporte público y particular, garantizando el cumplimiento de los requisitos en materia de aptitudes físicas y psicológicas con lo dispuesto en las leyes vigentes;
+La Comisión recibirá de parte de la sociedad opiniones, solicitudes y denuncias sobre el funcionamiento de la fiscalización que ejerce la Auditoría Superior del Estado a efecto de participar, aportar y contribuir a mejorar el funcionamiento de la revisión de la cuenta pública.
 
-XX. Diseñar, normar, organizar, instaurar, integrar, operar, manejar y actualizar el Registro Público Estatal del Sistema de Transporte en el Estado y establecer el Programa Estatal de Acreditación y Certificación de conductores y operadores del sistema de transporte público;
+## Artículos Transitorios
 
-XXI. Aplicar la Ley de la materia y sus reglamentos, las normas técnicas y operativas para el tránsito de vehículos en las poblaciones, carreteras y caminos del Estado, así como reglamentar lo conducente y proponer planes de mejora y reordenamientos viales;
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
 
-XXII. Regular y controlar la prestación de los servicios de transporte de pasajeros y de carga en el Estado de Oaxaca, en todas sus modalidades, así como, el equipamiento auxiliar de transporte, sea cualesquiera el tipo de vehículos y sus sistemas de propulsión, a fin que de manera regular, permanente, continua, uniforme e ininterrumpida se satisfagan las necesidades de la población;
+Segundo. Se abroga la Ley del Órgano de Fiscalización Superior del Estado, publicada en el Periódico Oficial, Órgano del Gobierno del Estado el 27 de diciembre de 2000, conforme a lo dispuesto en los artículos transitorios subsecuentes.
 
-XXIII. Coordinar las actividades en materia de movilidad, vialidad y transporte con las autoridades federales, estatales y municipales, así como con las entidades paraestatales o empresas subrogatarias cuya competencia u objeto se relacione con estas materias;
+Tercero. Las referencias, remisiones o contenidos de la presente Ley que estén vinculados con la aplicación de la Ley del Sistema Local Anticorrupción, de la Ley General de Responsabilidades Administrativas y de la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
 
-XXIV. Elaborar los planes, estudios y proyectos directamente, en coordinación con las autoridades federales y/o municipales, otras dependencias e instituciones, o a través de terceros, orientados a sustentar el otorgamiento de concesiones y permisos del transporte público, así como, en materia de mejoramiento del sistema del transporte y vialidad dentro del ámbito de su competencia;
+Las menciones a Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit, se entenderá la que expida el Congreso derivado de la armonización de la Ley General de Responsabilidades Administrativas.
 
-XXV. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzca a la más eficaz protección de la vida y a la seguridad, comodidad y fluidez en el transporte público y particular;
+Cuarto. Los procedimientos administrativos y resarcitorios iniciados de conformidad con la Ley del Órgano de Fiscalización Superior del Estado, así como los recursos que deriven de estos, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley del Órgano de Fiscalización Superior del Estado.
 
-XXVI. Realizar las acciones de planeación, programación y presupuesto para el mejoramiento de la infraestructura y la modernización del sistema de vialidad y transporte en la Entidad, así como de los servicios auxiliares;
+Asimismo, los procedimientos de responsabilidad iniciados por la Auditoría Superior del Estado con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas y la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit, serán tramitados de conformidad con la Ley del Órgano de Fiscalización Superior del Estado, publicada en el Periódico Oficial, Órgano del Gobierno del Estado el 27 de diciembre de 2000.
 
-XXVII. Coadyuvar con las autoridades federales, estatales y municipales en la planeación, elaboración y desarrollo de proyectos de vialidad y transporte en la entidad;
+Derivado del cambio de denominación, los expedientes que se encuentren en trámite ante el Órgano de Fiscalización Superior del Estado o en los que éste sea parte, así como los que deriven o sean consecuencia de los mismos, continuarán sustanciándose por la Auditoría Superior del Estado, hasta su total conclusión, conforme a las disposiciones aplicables.
 
-XXVIII. Fijar normas técnicas para el funcionamiento y operación de los servicios de vialidad y transporte de la entidad;
+Quinto.- El actual Auditor General del Órgano de Fiscalización Superior del Estado, será el titular de la Auditoría Superior del Estado de Nayarit, lo anterior derivado del cambio de denominación con fundamento en el "Decreto que Designa al licenciado Roy Rubio Salazar, como Auditor General del Órgano de Fiscalización Superior", publicado el 12 de diciembre de 2013, en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-XXIX. Promover y fomentar la participación de los diversos sectores de la sociedad, con el objeto de construir y llevar a cabo las acciones necesarias para dar solución a la problemática en materia de vialidad, transporte y servicios auxiliares;
+Para efectos del párrafo anterior, la Legislatura del Estado, expedirá el nombramiento del Auditor Superior del Estado de Nayarit, a la entrada en vigor del presente ordenamiento.
 
-XXX. Coadyuvar con la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, en la implementación del Programa Estatal de Verificación Vehicular sobre emisiones contaminantes;
+Sexto.- El Reglamento Interior del Órgano de Fiscalización Superior del Estado de Nayarit, publicado en el Periódico Oficial del Estado de Nayarit con fecha diez de marzo de dos mil diez, estará vigente en todo lo que no se oponga a la presente Ley y hasta en tanto se emita el ordenamiento que lo sustituya.
 
-XXXI. Regular, autorizar, planear e inspeccionar la publicidad en el servicio de transporte, así como, imponer las sanciones en caso de incumplimiento de acuerdo con las normas jurídicas y administrativas correspondientes;
+El Auditor Superior expedirá en el plazo de 180 días naturales siguientes a la entrada en vigor de la presente Ley, el Reglamento Interior de la Auditoría Superior del Estado.
 
-XXXII. Convocar, integrar y conducir el Consejo Estatal de Movilidad;
+Sin perjuicio de lo anterior, los asuntos que se encuentren en trámite o en proceso en la Auditoría Superior del Estado al entrar en vigor la Ley materia del presente Decreto, se seguirán tramitando hasta su conclusión en términos del Reglamento Interior del Órgano de Fiscalización Superior del Estado de Nayarit.
 
-XXXIII. Diseñar y promover esquemas de financiamiento para la modernización del parque vehicular del sistema del transporte público y los mecanismos de aseguramiento de cobertura de riesgo para los pasajeros usuarios de dicho sistema;
+Séptimo. Las funciones de fiscalización y revisión de la Auditoría Superior del Estado previstas en la presente Ley entrarán en vigor a partir de la Cuenta Pública del año 2016.
 
-XXXIV. Promover, regular y supervisar la construcción, reconstrucción, conservación, mantenimiento y modernización de la infraestructura vial, de tránsito y transporte que se efectúen en el Estado, directamente o a través de terceros, en coordinación y coadyuvancia con la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+Octavo. Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores entrarán en vigor al día siguiente de la publicación de la presente Ley.
 
-XXXV. Celebrar convenios, contratos y demás actos jurídicos necesarios, para el debido cumplimiento de sus atribuciones, así como, emitir las opiniones que procedan, en relación a los actos en que intervengan los prestadores de servicios del transporte público y vialidad;
+Noveno. Se ratifica el contenido de los acuerdos, circulares, guías, manuales y demás normatividad, sin embargo, la Auditoría Superior del Estado deberá actualizar dicha normativa, en un plazo no mayor a 180 días naturales contados a partir de la vigencia de la presente Ley.
 
-XXXVI. Normar e inspeccionar el uso adecuado de la infraestructura necesaria: paraderos, puentes peatonales, bahías, señalización, dispositivos de control de tránsito, entre otros, para el desempeño de las actividades del sistema de vialidad, tránsito y transporte en general;
+Décimo. Las referencias que se hagan en otras leyes y disposiciones reglamentarias y administrativas, a la Ley del Órgano de Fiscalización Superior del Estado, se entenderán por realizadas, a la presente Ley, a la Auditoría Superior del Estado y a su titular.
 
-XXXVII. Normar y establecer las políticas y criterios para llevar a cabo directamente, en coordinación con otras dependencias e instituciones, o a través de terceros, los estudios y proyectos de ingeniería de movilidad y tránsito;
+Décimo Primero. Los convenios y contratos que hubiere celebrado el Órgano de Fiscalización Superior del Estado con anterioridad a la entrada en vigor de la presente Ley, conservarán su valor y eficacia legal hasta su conclusión.
 
-XXXVIII. Diseñar y normar la instalación y mantenimiento de la señalización, semaforización y el uso de reductores de velocidad en las obras viales, tanto para el tráfico vehicular como peatonal, en el Estado;
+Décimo Segundo. Todos los bienes muebles e inmuebles, archivos, expedientes, papeles de trabajo, documentos, recursos presupuestales y humanos con que cuente el Órgano de Fiscalización Superior del Estado a la entrada en vigor del presente Decreto, formarán parte de la estructura orgánica y patrimonio de la Auditoría Superior del Estado, en los términos que establezca esta Ley y su Reglamento Interior.
 
-XXXIX. Autorizar, modificar, cancelar, formular y actualizar las rutas, horarios, itinerarios y tarifas del servicio de transporte público y comprobar su correcta aplicación;
+Décimo Tercero. En tanto se realizan las modificaciones conducentes a los sellos, formatos, papelería y demás documentación que obre en el Órgano de Fiscalización Superior del Estado, se seguirá utilizando, hasta que la Auditoría Superior del Estado realice las adecuaciones conducentes sin exceder de los 180 días naturales siguientes a la entrada de la presente Ley.
 
-XL. Determinar las características y la ubicación que deberán tener los dispositivos y señales para la regulación del tránsito en las vías de circulación, llevando a cabo su instalación, operación y mantenimiento de manera directa, a través de la contratación pública de dichos servicios de conformidad con la Ley, o la coordinación con las autoridades estatales y municipales correspondientes;
+Décimo Cuarto. Los servidores públicos del Órgano de Fiscalización Superior del Estado, no sufrirán afectación alguna en sus derechos laborales, con motivo de la entrada en vigor de la presente Ley.
 
-XLI. Establecer y autorizar los cambios de unidades y fijar frecuencias y horarios de los concesionarios de conformidad con la norma técnica y los estudios que al respecto realice la propia Secretaría o presenten para su análisis los prestadores del servicio;
+> <small>(F. DE E., P.O. 25 DE ENERO DE 2017)</small>
 
-XLII. Promover y organizar la capacitación, educación, investigación y desarrollo tecnológico en materia de movilidad, vialidad, tránsito y transporte en la entidad;
+Décimo Quinto. Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria del Estado, a que se refiere el artículo 31, apartado A, fracción VII; y apartado B, fracción III, de la presente Ley, entrarán en vigor para el ejercicio fiscal 2017.
 
-XLIII. Establecer con las instituciones educativas de todos los niveles, convenios de colaboración para el diseño y establecimiento de planes y programas que fomenten y consoliden las normas y derechos del uso correcto de la vialidad y respeto de las señalizaciones, tanto de los peatones, transporte no motorizado, como de los vehículos, para contribuir al desarrollo de una cultura de movilidad, vialidad y tránsito;
+> <small>(F. DE E., P.O. 25 DE ENERO DE 2017)</small>
 
-XLIV. Promover e implementar nuevas modalidades en la prestación del servicio del transporte público y sus servicios auxiliares, cuando se justifique su necesidad e interés colectivo;
+Décimo Sexto. Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria de los Municipios, a que se refiere el artículo 31, apartado A, fracción VII; y apartado B, fracción III, de la presente Ley, entrarán en vigor para el ejercicio fiscal 2018.
 
-XLV. Establecer la normatividad para elaborar, sin perjuicio de la competencia municipal, los estudios que contribuyan a determinar el diseño, la ubicación, construcción, tarifas y el funcionamiento de los estacionamientos públicos, así como la ubicación, instalación, control y vigilancia de parquímetros;
+Décimo Séptimo. Las reformas relativas a la Cuenta Pública y a los informes de Avance de Gestión Financiera, entrarán en vigor en el ejercicio fiscal 2017 y en el ejercicio fiscal 2018, según corresponda, de conformidad con lo dispuesto en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
 
-XLVI. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal, con los gobiernos federal y municipal;
+D A D O en la Sala de Sesiones "Lic. Benito Juárez García" de este Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los diecinueve días del mes de diciembre del año dos mil dieciséis.
 
-XLVII. Promover la aplicación de nuevas tecnologías en los vehículos, señalización y equipamiento del transporte y la vialidad;
+Dip. Jorge Humberto Segura López, Presidente.- Rúbrica.- Dip. José Ángel Martínez Inurriaga, Secretario.- Rúbrica.- Dip. Francisco Javier Jacobo Cambero, Secretario.- Rúbrica.
 
-XLVIII. Diseñar y supervisar la instalación del equipamiento, mobiliario y reductores de velocidad que proteja al peatón en las vialidades;
-
-XLIX. Promover e impulsar la cultura y seguridad vial, mediante la elaboración e implementación de programas respectivos;
-
-L. Intervenir en materia de movilidad y transporte en coordinación con las autoridades federales y municipales en el ámbito de su competencia;
-
-LI. Impulsar el desarrollo del transporte no motorizado, de turismo, colectivo, de personal y escolar, y todos aquellos esquemas de transporte que eviten la saturación de las vialidades y protejan el ambiente;
-
-LII. Proponer las adecuaciones en función de las innovaciones tecnológicas que se incorporen tanto a los sistemas de movilidad, viales, así como, al sistema del transporte público;
-
-LIII. Implementar de manera permanente una política social incluyente para los sectores vulnerables, en materia de movilidad, pudiendo coordinarse para este fin con los gobiernos federal y municipal, con la sociedad civil organizada, las comunidades, con instituciones públicas y privadas que atiendan a los diversos sectores de la población en materia de vulnerabilidad;
-
-LIV. Cumplir con los procedimientos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Oaxaca, en relación con las solicitudes y recursos correspondientes, y
-
-LV. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-###### ARTÍCULO 41.
-
-A la Secretarías (sic) de las Culturas y Artes, corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-I. Dirigir, planear y ejecutar las políticas en materia cultural del Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-II. Organizar y operar de manera eficiente y eficaz los esfuerzos (sic) instituciones de difusión del arte y promoción de las culturas, incluyendo el impulso y promoción de las culturas populares;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-III. Promover la cultura y las artes en coordinación con la Secretaría de Turismo y Desarrollo Económico para generar un mejoramiento en las condiciones económicas de este sector;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-IV. Procurar el acceso de toda la población, al disfrute de las expresiones artísticas y las manifestaciones culturales en el Estado;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-V. Promover el respeto a la creatividad de los autores y artistas, facilitando la interacción de la sociedad en la cultura;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-VI. Investigar, promover y difundir los valores culturales, populares y las artes;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-VII. Contribuir en la preservación, protección y explotación del patrimonio cultural, artístico, arqueológico, arquitectónico e intangible del Estado;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-VIII. Fomentar y promover las tradiciones, artes y costumbres de las comunidades;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-IX. Definir, concertar y ejecutar las iniciativas y proyectos culturales, que favorezcan la ampliación de las oportunidades de acceso a la cultura a todos los sectores de la población y el desarrollo equilibrado de los servicios culturales, fomentando la participación de las instituciones federales, estatales y municipales, de la comunidad artística e intelectual, así como, de los diversos grupos sociales;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-X. Gestionar financiamientos adicionales a los que otorgue el Gobierno del Estado, para promover las creaciones culturales, así como, para el mejoramiento y rehabilitación de la infraestructura cultural; a partir de la participación activa de la sociedad civil y en especial de los sectores económicos;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XI. Fomentar, propiciar y apoyar la creación artística en todas sus formas y manifestaciones;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XII. Promover y difundir entre la población, la cultura estatal, nacional e internacional en sus expresiones artísticas, científicas y tecnológicas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XIII. Estimular en todos los sectores de la población la educación artística, formal e informal, incluyendo el desarrollo de las bellas artes, lectura y todas aquellas manifestaciones artísticas y culturales;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XIV. Organizar y ejecutar actividades a través de las diferentes formas de participación social, para enriquecer la vida cultural y rescatar las tradiciones y festividades oaxaqueñas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XV. Operar un sistema de información y comunicación, a fin de promover de manera oportuna entre el público en general, la oferta y demanda cultural;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XVI. Promover la creación literaria, la difusión editorial y el hábito de la lectura;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XVII. Establecer las políticas y lineamientos para la creación, uso y aprovechamiento de los centros y espacios culturales;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XVIII. Proponer y gestionar la creación de instrumentos jurídicos que permitan garantizar el desarrollo cultural del Estado, así como, promover el desarrollo de convenios de cooperación cultural con todo tipo de organismos e instituciones, tanto públicos como privados, nacionales y extranjeros;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XIX. Promover las actividades de investigación, reflexión y discusión relativas a la cultura;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XX. Promover la creación y ampliación de diversas opciones de organización, administración y financiamiento, que permitan impulsar y fortalecer las actividades culturales;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXI. Otorgar reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes o promotores culturales, mediante evaluaciones sustentadas en los principios de objetividad, imparcialidad y equidad de género;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXII. Desarrollar la formación y capacitación de investigadores y promotores culturales;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXIII. Rescatar la música popular a través de la producción fonográfica;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXIV. Coordinar, organizar y supervisar el funcionamiento de instituciones, museos, unidades de servicios culturales y demás unidades auxiliares de la Administración Pública Estatal relacionadas con las culturas y las artes;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXV. Garantizar a los pueblos indígenas el derecho de conservar, enriquecer y difundir su identidad, así como, su patrimonio cultural y lingüístico, en coordinación con las instancias competentes; y
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXVI. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-###### ARTÍCULO 42.
-
-A la Secretaría de Bienestar, Tequio e Inclusión, corresponde el despacho de los siguientes asuntos:
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 12 DE MARZO DE 2020) (REPUBLICADA [N. DE E. CON SUS INCISOS], P.O. 12 DE MARZO DE 2020)
-
-I. Fortalecer el bienestar, el desarrollo, la inclusión y la cohesión social en el Estado mediante la instrumentación, coordinación, supervisión y seguimiento, en términos de la Ley y con los organismos respectivos, de las políticas siguientes:
-
-a).- Erradicación de la pobreza
-
-b).- Atención preponderante en materia de desarrollo social a los derechos de niñas, niños y adolescentes, adultos mayores, pueblos indígenas y afromexicano, y personas con discapacidad;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-II. Establecer las estrategias, planes y objetivos de carácter transversal y sostenible que incidan en la erradicación de la pobreza, el bienestar de la población y el desarrollo humano, así como proponer el marco jurídico que regula la participación estatal en los programas sociales del Estado;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-III. Elaborar y proponer al Ejecutivo del Estado el programa estatal en materia de desarrollo social, con el objeto de establecer la estrategia estatal de carácter transversal y sostenible para fortalecer el bienestar, el desarrollo, la inclusión y la cohesión social en el Estado;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-IV. Promover el seguimiento y la evaluación de las políticas, estrategias, programas y planes en materia de desarrollo social, que incidan en la erradicación a la pobreza, el bienestar de la población y el desarrollo humano, a través del organismo responsable del monitoreo y evaluación de la política gubernamental social;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-V. Identificar y gestionar los programas de desarrollo social y humano, así como de erradicación de la pobreza, ante organizaciones de la sociedad civil, organismos gubernamentales nacionales e internaciones (sic);
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-VI. Diseñar e implementar las políticas, proyectos y acciones, de carácter transversal y sostenible que deriven del Plan Estatal de Desarrollo o del Programa Estatal en materia de desarrollo social, propiciando la colaboración entre los tres niveles de gobierno y el sector social y privado;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-VII. Definir estrategias y mecanismos para la ejecución de los programas, proyectos y acciones para el bienestar, desarrollo, inclusión y cohesión social en el Estado; suscribiendo los convenios, acuerdos e instrumentos legales que resulten necesarios;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-VIII. Diseñar, implementar y coordinar con las dependencias federales, estatales y los ayuntamientos, programas y acciones sostenibles que incidan en el abatimiento de los niveles de pobreza y fomenten un mejor nivel de bienestar de la población, procurando que atiendan a los ejes de las políticas gubernamentales y los objetivos establecidos en los Planes Nacional y Estatal de Desarrollo, así como, a los lineamientos y reglas de operación que se establezcan para cada uno de ellos;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-IX. Formular y ejecutar los programas y proyectos de fortalecimiento de la economía familiar y comunitaria de los grupos de atención prioritaria; con la finalidad de lograr su bienestar;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-X. Emitir las reglas de operación de los programas de desarrollo social y verificar su difusión;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XI. Fomentar la participación de las instituciones académicas, de investigación y organizaciones de la sociedad civil, en el diseño e implementación de estrategias para erradicar la pobreza e impulsar el bienestar social de la población;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XII. Coordinar con las autoridades e instituciones educativas el servicio social para que se constituya como coadyuvante del desarrollo y bienestar social en el Estado;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XIII. Impulsar programas de desarrollo local, de carácter integral y sostenible, que sean propuestos por las organizaciones de la sociedad civil en materia de bienestar y desarrollo social;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XIV. Promover y coordinar a través del Organismo Descentralizado respectivo, el diseño y ejecución de los programas de vivienda en el Estado;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XV. Proporcionar asesoría y apoyo técnico a municipios y organizaciones de la sociedad civil, para la elaboración y ejecución de los programas y proyectos de bienestar y desarrollo social;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XVI. Promover en coordinación con la Secretaría correspondiente, la planeación participativa de la política gubernamental social en el diseño y ejecución de estrategias, planes y programas para el pleno ejercicio de los derechos de los pueblos indígenas y afromexicano, y de toda la población en general;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XVII. Facilitar y difundir los programas y servicios de gobierno en los municipios del Estado con especial atención a comunidades con mayores niveles de rezago o pobreza, excepcionalmente fuera del territorio del Estado en donde se encuentre población oaxaqueña;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XVIII. Impulsar el trabajo comunitario para el bienestar colectivo, a fin de dar cauce a la participación social en la identificación, formulación, ejecución y seguimiento de los proyectos en las localidades y municipios;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XIX. Promover la participación social organizada en el seguimiento y evaluación para el fortalecimiento de las políticas públicas y los programas de bienestar y desarrollo social;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XX. Promover, formular e implementar programas sociales de carácter transversal y sostenible, en coordinación con las dependencias y entidades del Estado vinculadas al fomento del bienestar y desarrollo social;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXI. Formular programas y proyectos de financiamiento para apoyar las iniciativas de las organizaciones de la sociedad civil, personas y grupos de trabajo, que promuevan su bienestar social;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXII. Participar en el diseño de políticas y programas que promuevan las instancias ejecutoras facultadas en materia alimentaria;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXIII. Fomentar políticas públicas orientadas a la distribución y abasto de productos de consumo básico, en beneficio de la población de escasos recursos;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXIV. Coordinar la difusión de programas y acciones para el bienestar y el desarrollo social;
-
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2023)</small>
-
-XXV. Implementar los servicios gratuitos de atención itinerante en materia de desarrollo social;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXVI. Colaborar con la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable, así como con los Órganos de la Administración Pública Estatal respectivos, en la instrumentación y coordinación de las políticas públicas de los programas de infraestructura social básica y de espacios públicos, vivienda, servicios de salud, alimentación y educación necesarios para fortalecer el bienestar, la inclusión, la cohesión y desarrollo social en el Estado;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXVII. Proveer información en materia de desarrollo social que coadyuve en la integración de la agenda de gobierno y evaluación de las políticas públicas;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXVIII. Coordinar y ejecutar los programas y acciones de atención al sector de ahorro y crédito popular, y Ex Trabajadores Migratorios Mexicanos, en el marco de la legislación aplicable, en coadyuvancia con las instancias federales correspondientes;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXIX. Difundir la normatividad correspondiente a los programas y acciones de ahorro y crédito;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXX. Diseñar, implementar y ejecutar en coordinación con dependencias federales, estatales y ayuntamientos, programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas áridas de las áreas rurales, así como de los colonos y marginados de las áreas urbanas, con el fin de elevar el nivel de vida de la población;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXXI. Participar en la coordinación e instrumentación de las políticas de desarrollo rural para elevar el nivel de bienestar de las familias, comunidades y ejidos;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXXII. Coadyuvar en el diseño e implementación de las políticas públicas orientadas a fomentar la agroforestería, la productividad, la economía social y el empleo en el ámbito rural y evitar la migración de las áreas rurales;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXXIII. Impulsar programas para promover la corresponsabilidad de manera equitativa entre las familias, el Estado y las instituciones de asistencia social y privada, para el cuidado de la niñez y de los grupos de atención prioritaria;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXXIV. Coadyuvar en las tareas que sean asignadas a los responsables de los programas federales en el Estado de Oaxaca, en materia de desarrollo social y;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXXV. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su reglamento interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-###### ARTÍCULO 43.
-
-A la Secretaría de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas, corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-I. Formular, organizar, promover, vigilar y ejecutar las políticas y acciones para el cumplimiento de las disposiciones constitucionales en materia indígena, tratados internacionales, la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca y demás ordenamientos jurídicos correspondientes;
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-II. Establecer las bases para integrar y operar el Sistema Estatal de Información y Estadística de pueblos y comunidades Indígenas y Afromexicano, conteniendo los elementos fundamentales de sus instituciones políticas, jurídicas, económicas, sociales y culturales, sus tierras, territorios y recursos;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-III. Formular y someter a la consideración del Gobernador del Estado y las instancias correspondientes, propuestas de reformas legales e institucionales para el pleno reconocimiento e implementación de los derechos de los pueblos indígenas;
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-IV. Diseñar, normar, impulsar y evaluar las políticas gubernamentales específicas y su aplicación, así como participar, en coordinación con las instancias competentes de las Dependencias y Entidades de la Administración Pública Estatal, en la formulación, ejecución y evaluación de los planes, programas y proyectos que realicen sobre pueblos y comunidades indígenas y Afromexicano, garantizando la transversalidad en el diseño de las políticas gubernamentales;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-V. Establecer las bases y mecanismos de colaboración con Dependencias y Entidades de la Administración Pública Estatal y Poderes del Estado; de coordinación con los demás órdenes de gobierno, de interlocución con los pueblos indígenas y comunidades afromexicanas; y de concertación con los sectores social y privado, para dar cumplimiento a los derechos de los pueblos indígenas, así como, sus formas y aspiraciones de desarrollo;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-VI. Instrumentar, coordinar, ejecutar y evaluar planes, programas, proyectos y acciones para el desarrollo integral sustentable de los pueblos y comunidades indígenas y afromexicanas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-VII. Ser instancia de consulta, asesoría y capacitación de las Dependencias y Entidades de la Administración Pública Estatal y Municipal en materia de derechos y cultura de los pueblos indígenas, con perspectiva intercultural;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-VIII. Proponer instrumentos normativos y acciones jurídicas para el desarrollo, la consolidación y concreción de los derechos de los pueblos y comunidades indígenas y afromexicanas ante la instancia competente;
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-IX. Instrumentar, operar, ejecutar y evaluar planes, programas, proyectos, obras y acciones para el desarrollo integral, intercultural y sustentable de pueblos y comunidades indígenas y afromexicanas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-X. Realizar, proponer, apoyar y dar seguimiento a las iniciativas y acciones de planeación para el desarrollo integral sustentable de las comunidades, municipios y asociaciones regionales de los pueblos y comunidades indígenas y afromexicanas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XI. Promover la aplicación de medidas de desarrollo, bienestar y defensa de los pueblos y comunidades indígenas y afromexicanas del Estado;
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-XII. Promover, formular e instrumentar los programas y medidas pertinentes, en coordinación con las instancias competentes, para la conservación y protección e (sic) la integridad de la biodiversidad y el medio ambiente de dichos pueblos, así como la defensa de los recursos naturales, con el propósito de generar o mantener su desarrollo sustentable.
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XIII. Ser instancia de consulta de las Dependencias y Entidades de la Administración Pública Estatal, con el fin de formular el proyecto de presupuesto consolidado en materia de desarrollo integral sustentable de los pueblos y comunidades indígenas y afromexicanas para ser incluido en el presupuesto de egresos del Estado;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XIV. Diseñar e implementar un sistema de participación, información y consulta indígena, para promover la participación de las autoridades, representantes e instituciones de los pueblos y comunidades indígenas y afromexicanas, respecto a medidas administrativas y legales susceptibles de afectarles.
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-XV. Constituir el consejo Consultivo de Pueblos Indígenas y Afromexicano de Oaxaca y formar parte de sus órganos de gobierno para constatar su adecuado funcionamiento y el seguimiento de sus acuerdos, teniendo a su cargo la Secretaría Técnica;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XVI. Coadyuvar al ejercicio de la libre determinación, autonomía y reconstitución de los pueblos indígenas; en particular para constituir y reconocer legalmente la asociación de comunidades y municipios a nivel regional, de conformidad con lo dispuesto en el artículo 113 fracción V de la Constitución Política del Estado;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XVII. Coadyuvar y asesorar en la conciliación y resolución de conflictos de tenencia de la tierra, políticos, electorales y/o relacionados con las formas propias de organización donde exista interés de pueblos indígenas;
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-XVIII. Crear enlaces regionales para promover y ejecutar las medidas y programas para la defensa o implementación de los derechos, así como el desarrollo integral y sustentable de pueblos y comunidades indígenas y afromexicanas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XIX. Participar en organismos, foros y proyectos de cooperación internacional relativos a los pueblos y comunidades indígenas y afromexicanas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XX. Establecer acuerdos y convenios de colaboración y coordinación para llevar a cabo programas, proyectos y acciones conjuntas a favor de los pueblos y comunidades indígenas y afromexicanas;
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-XXI. Promover, adoptar y ejecutar las medidas y programas correspondientes para preservar, proteger y desarrollar la propiedad intelectual, colectiva e individual, con relación al patrimonio cultural, material e inmaterial de los pueblos y comunidades indígenas y afromexicanas;
-
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2022)</small>
-
-XXII. Realizar programas, proyectos y acciones para el rescate, conservación, fortalecimiento y revitalización de las lenguas indígenas del Estado, coadyuvando en la edición, elaboración y difusión de material educativo en estas lenguas, en coordinación con las instancias competentes y promoviendo las acciones afirmativas necesarias para que estas garanticen los servicios de traducción e interpretación que permita a la población indígena el ejercicio efectivo de sus derechos.
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXIII. Coadyuvar en la consolidación de un sistema de educación indígena intercultural en el Estado, en coordinación con las instancias competentes;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXIV. Promover la práctica de la medicina tradicional desde la cosmovisión de salud-enfermedad de los pueblos indígenas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXV. Formular y actualizar las estadísticas de los pueblos y comunidades indígenas y afromexicanas del Estado;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXVI. Difundir las investigaciones, estudios, promociones y trabajos, cuando estas actividades involucren a los pueblos y comunidades indígenas y afromexicanas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXVII. Gestionar e implementar recursos adicionales a los que otorga el Gobierno del Estado para promover la vigencia de derechos y el desarrollo integral de los pueblos y comunidades indígenas y afromexicanas;
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-XXVIII. Generar y expedir las reglas de operación y, en su caso, lineamientos d elos (sic) programas que se diseñen e implementen orientados al desarrollo y demandas de los pueblos y comunidades indígenas y afromexicanas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXIX. Diseñar e implementar el programa de pueblos y comunidades indígenas y afromexicanas para la mitigación y adaptación al cambio climático; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2019)</small>
-
-XXX. Promover el desarrollo de las formas de organización política, social, económica, sus valores comunitarios y la cultura democrática de pueblos y comunidades indígenas y afromexicano, incorporando la igualdad de género;
-
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-XXXI. Promover el reconocimiento, respeto y protección de niñas, niños y adolescentes, adultos mayores indígenas y afromexicano con discapacidad de pueblos y comunidades indígenas;
-
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-XXXII. Establecer Acuerdos y Convenios de Coordinación con los poderes del Estado, organismos constitucionales autónomos, municipios, organizaciones de la sociedad civil, así como instancias internacionales, para llevar a cabo programas, proyectos y acciones conjuntas en favor de los derechos y el desarrollo de pueblos y comunidades indígenas y Afromexicano, conforme a las disposiciones normativas aplicables;
-
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-XXXIII. Promover y adoptar las medidas y programas correspondientes para mantener, proteger y desarrollar la propiedad intelectual, colectiva e individual, con relación al patrimonio cultural, material e inmaterial de pueblos y comunidades indígenas y afromexicanas;
-
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-XXXIV. Promover e instrumentar las medidas y acciones para el reconocimiento, respeto y ejercicio de los derechos y el desarrollo integral de mujeres indígenas y afromexicanas;
-
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-XXXV. Emitir recomendaciones para el debido ejercicio del presupuesto destinado a la atención de pueblos y comunidades indígenas y afromexicano; para lo cual las Dependencias y Entidades de la Administración Pública Estatal informarán semestralmente la asignación presupuestaria otorgada a la política transversal y su ejecución;
-
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-XXXVI. Instrumentar, gestionar, instalar, promover y ejecutar, en coordinación con las instancias competentes, las medidas necesarias para brindar mantenimiento y/o mejoramiento y/o ampliación de la infraestructura comunitaria que permitan la integración y reconstitución territorial de pueblos y comunidades indígenas y afromexicano, así como el fortalecimiento de su gobernanza, organización regional y capacidad económica, y
-
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2019)</small>
-
-XXXVII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-###### ARTÍCULO 44.
-
-A la Secretaría de Fomento Agroalimentario y Desarrollo Rural, corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-I. Planear, regular, fomentar y promover el desarrollo agrícola, ganadero, pesquero y acuícola del Estado, con la participación de organizaciones productivas y sociales propiciando el ordenamiento territorial bajo el enfoque de cuencas hidrológicas, así como criterios de regionalización y atención diferenciada de los productores para una mejor focalización de las políticas del sector;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-II. Coordinar y ejecutar convenios de desarrollo agrícola, ganadero, pesquero y acuícola que celebre el Gobierno del Estado con diversas Instancias del Gobierno Federal, otras entidades federativas, gobiernos municipales y organizaciones sociales;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-III. Promover y organizar a los productores agrícolas, ganaderos, pesqueros y acuícolas a través de las figuras asociativas previstas en la Ley de Desarrollo Rural Sustentable del Estado de Oaxaca y otras leyes relativas a la materia, privilegiando la formación de cooperativas de producción y consumo, cuyo propósito sea potencializar la producción, el consumo y el mercado;
-
-IV. Promover la generación de empleos productivos de carácter permanente y temporales en el ámbito de su competencia;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-V. Promover con las instancias competentes la elaboración y actualización del plan estatal de investigación y transferencia de tecnología, determinando y aplicando los métodos y procedimientos técnicos que permitan incrementar la productividad sustentable de las actividades agrícolas, ganaderas, acuícolas y pesqueras del Estado;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-VI. Coordinar organizar y supervisar el ejercicio y funcionamiento de la Comisión Estatal Forestal;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-VII. Coadyuvar en la investigación agrícola, ganadera, pesquera y acuícola, apoyando la creación y operación de laboratorios de patología, centros de desarrollo genético, campos experimentales, lotes demostrativos y semilleros;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-VIII. Promover y organizar congresos, seminarios y otros eventos similares que propicien el incremento e intercambio de conocimientos técnicos de los productores agrícolas, ganaderos, pesqueros y acuícolas del Estado;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-IX. Controlar el movimiento interno del ganado, llevando estadísticas de la producción, así como dictar las políticas de inspección ganadera en el ámbito de su competencia;
-
-X. Elaborar y ejecutar los programas de organización, capacitación y asistencia técnica a los productores del medio rural en el Estado, cuidando que sus contenidos garanticen la igualdad de oportunidades para ambos sexos;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-XI. Proponer la ejecución de aquellas obras de infraestructura que se requieran para el desarrollo agrícola, ganadero y pesquero;
-
-XII. Asesorar a las diversas comunidades, organizaciones y sociedad civil, respecto de los insumos, maquinaria y equipo procurando el máximo abatimiento de los costos;
-
-XIII. Promover y apoyar a los productores en la obtención y distribución oportuna de insumos para prevenir y combatir plagas y enfermedades;
-
-XIV. Fomentar, organizar y asesorar a las comunidades para el establecimiento de agroindustrias;
-
-XV. Coordinar sus actividades con las Dependencias y Entidades, así como con el sector social y privado que participen en la ejecución de programas agroindustriales, a fin de determinar las normas y criterios técnicos a seguir;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-XVI. Vigilar que los programas que se realicen en materia agrícola, ganadera, pesquera y acuícola, se apeguen a los programas y normas ecológicas previamente establecidas;
-
-XVII. Fomentar la producción, consumo y comercialización pesquera y acuícola en las comunidades del Estado, realizando las tareas de infraestructura, capacitación y enlace que para ello se requiera en el ámbito de su competencia;
-
-XVIII. Promover la instalación de empresas de producción pesquera y acuícola, con la participación de organizaciones de pescadores, proporcionándoles el apoyo técnico necesario;
-
-XIX. Promover y orientar el crédito de instituciones estatales, federales e internacionales, públicas y privadas, para el financiamiento de las acciones de su competencia;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-XX. Buscar y apoyar el posicionamiento de los productos agropecuarios, pesqueros y acuícolas en los mercados local, nacional e internacional en el ámbito de su competencia;
-
-XXI. En el ámbito de su competencia impulsar, coordinar, ejecutar y supervisar la correcta operación de las estrategias de desarrollo rural y seguridad alimentaria coadyuvando al desarrollo sustentable de la entidad;
-
-XXII. Coadyuvar con el Gobierno Federal en la aplicación de leyes, normas y campañas en materia de salud animal, de sanidad agrícola e inocuidad agroalimentaria;
-
-XXIII. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2013) (REPUBLICADA, P.O. 28 DE ENERO DE 2017)
-
-XXIV. Promover la protección, restauración y conservación de los ecosistemas en la planeación y desarrollo de los proyectos estratégicos; y
-
-XXV. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 45.
-
-A la Secretaría de Finanzas le corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-I. Diseñar y ejecutar las políticas fiscales, presupuestarias, hacendarias y de inversión, que contribuyan a un balance presupuestario sostenible;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-II. Realizar las proyecciones financieras que permitan la formulación de los instrumentos y estrategias de planeación para el desarrollo de Oaxaca, a fin de que la formulación y ejecución del Plan Estatal de Desarrollo y los programas sectoriales, especiales e institucionales cuenten con la viabilidad financiera necesaria, de conformidad con la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y la Ley de Planeación del Estado de Oaxaca;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-III. Coadyuvar con la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca para definir la visión estratégica estatal de mediano y largo plazo, conforme a la fracción II del artículo 49 Bis de la presente Ley;
-
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2020)</small>
-
-IV. Establecer los formatos y procedimiento que deberán utilizar los ejecutores de gasto para reportar la situación física y financiera de los proyectos de inversión autorizados, para efectos de su seguimiento, evaluación y fiscalización por las autoridades competentes. El contenido de dichos reportes es de la estricta responsabilidad del ejecutor del proyecto de inversión correspondiente;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-V. Determinar las adecuaciones presupuestarias que procedan, con base en los resultados de las evaluaciones del desempeño;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-VI. Autorizar las adecuaciones presupuestarias siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de las Dependencias y Entidades;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-VII. Participar en la concertación de recursos con los Sectores y/o Ayuntamientos en coordinación con la Secretaría General de Gobierno y la Coordinación General del COPLADE;
-
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2020)</small>
-
-VIII. Autorizar, programar, presupuestar, los proyectos de inversión pública del Estado, de manera previa a su ejecución;
-
-IX. Formular y coordinar el programa estatal de financiamiento para el desarrollo, con base en los principios de eficiencia, honestidad, equidad de género y sentido social;
-
-X. Formular los proyectos anuales de la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado, considerando los objetivos y prioridades del desarrollo del mismo, de acuerdo con la disponibilidad de recursos, así como, proponer para acuerdo del Gobernador, las actualizaciones y ajustes necesarios para el ejercicio de reconducción presupuestal, en su caso, y de conformidad con lo establecido en la Constitución y la legislación aplicable;
-
-XI. Recaudar los impuestos, derechos, productos, contribuciones de mejoras y aprovechamientos, así como hacer cumplir las disposiciones fiscales;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-XII. Establecer la circunscripción territorial de los Centros Integrales de Atención al Contribuyente, así como dictar medidas para llevar el control, supervisión y evaluación del desempeño de las actividades que tengan a su cargo;
-
-XIII. Notificar los actos, acuerdos o resoluciones que emita con motivo del ejercicio de sus facultades tributarias y de comprobación, y las que le otorguen los convenios o acuerdos de colaboración administrativa, con otras instancias u órdenes de gobierno;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-XIV. Emitir disposiciones administrativas para el ejercicio del Presupuesto de Egresos, efectuar los pagos a proveedores, contratistas y prestadores de servicio de la Administración Pública tratándose de recursos estatales. Realizar la ministración calendarizada del Presupuesto de Egresos a los Poderes Legislativo, Judicial y Órganos Autónomos;
-
-XV. Establecer los lineamientos para ejercer el gasto público, de acuerdo con los objetivos y prioridades del Plan Estatal de Desarrollo;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XVI. Administrar y actualizar el banco de proyectos de inversión pública del Estado, dando especial seguimiento a los de carácter estratégico;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XVII. Establecer las políticas y lineamientos generales para la integración de la estructura programática planeación-presupuesto a que deberán sujetarse las Dependencias y Entidades de la Administración Pública Estatal;
-
-XVIII. Integrar el Programa Operativo Anual de la Administración Pública Estatal;
-
-XIX. Conducir los proyectos dirigidos a los sectores social y privado en la formulación y ejecución de los planes y programas del Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
-
-XX. Ampliar y mantener actualizado el Registro Estatal de Contribuyentes;
-
-XXI. Ejercer las atribuciones derivadas de los convenios, que en materia fiscal celebre el gobierno del Estado con la federación o con los ayuntamientos;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXII. Orientar y brindar asistencia técnica a los sectores en la elaboración de proyectos y planes sectoriales, especiales e institucionales
-
-XXIII. Coordinar la función de catastro, definiendo lineamientos generales para la formulación del Plano Catastral y el Padrón de la Propiedad Urbana y Rural del Estado;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXIV. Intervenir en las operaciones de financiamiento, asegurando las mejores condiciones de mercado;
-
-XXV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
-
-XXVI. Formar parte del Órgano de Gobierno de las Entidades;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
-
-XXVII. Ordenar y practicar la comprobación del cumplimiento de las obligaciones fiscales a cargo de los contribuyentes de la Hacienda Pública Estatal a través de requerimientos, visitas domiciliarias, inspección, dictámenes, intervención y revisiones en las oficinas de la autoridad.
-
-XXVIII. Dirigir los servicios de inspección y vigilancia fiscal en el Estado;
-
-XXIX. Establecer criterios generales y transparentes para la cancelación de cuentas incobrables;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXX. Autorizar estímulos y subsidios fiscales e implementar los programas en que se desarrollarán los mismos;
-
-XXXI. Proporcionar asesoría a instituciones públicas y particulares en materia de interpretación y aplicación de las leyes tributarias, así como realizar una campaña permanente de orientación y difusión fiscal;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXXII. Coordinar las condiciones que permitan la inversión privada en obras y/o acciones a través de las diversas modalidades de asociaciones público-privadas;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XXXIII. Fijar los lineamientos que deba seguir la Administración Pública Estatal en la elaboración de la documentación necesaria para la formulación de informes de avances de gestión financiera e integrar dicha información, en coordinación con las Instancias competentes;
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
-
-XXXIV. Aclarar las observaciones que le finque el Congreso Local por conducto de la Auditoría Superior de Fiscalización del Estado de Oaxaca;
-
-XXXV. Elaborar los estados financieros e integrar la Cuenta Pública y someterla a consideración del Gobernador del Estado, para la presentación correspondiente ante el Honorable Congreso Local;
-
-XXXVI. Intervenir en los juicios de carácter fiscal que se desahoguen ante cualquier tribunal, cuando tenga interés la hacienda pública estatal, o en aquéllos derivados de los convenios, que en materia fiscal celebre el gobierno del Estado con la federación o con los ayuntamientos; y resolver los recursos administrativos que por ley o decreto le correspondan en la esfera de su competencia;
-
-XXXVII. Imponer las sanciones que correspondan por infracciones a las disposiciones fiscales;
-
-XXXVIII. Ejercer la facultad económica coactiva en el ámbito de sus atribuciones fiscales;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXXIX. Establecer el Sistema de Contabilidad Gubernamental y emitir los lineamientos para la integración de los soportes de los registros en el Sistema, así como de la documentación justificativa y comprobatoria de los mismos;
-
-XL. Formular mensualmente los estados financieros;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-XLI. Intervenir en los juicios y procedimientos por los que se requiera el pago de las garantías que responden a obligaciones fiscales y no fiscales otorgadas a favor del Gobierno del Estado, e intervenir en los procedimientos relacionados con la recaudación y pago de la reparación del daño.
-
-XLII. Coordinar el sistema de información estadístico y documental para el desarrollo;
-
-XLIII. Elaborar, analizar y difundir estadísticas relativas a la demografía, economía y desarrollo social del Estado;
-
-XLIV. Ejercer las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos de la hacienda pública del Estado;
-
-XLV. Presentar dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público; en su caso, sin perjuicio del erario estatal, otorgar el perdón al inculpado cuando proceda;
-
-XLVI. Expedir documentos para la identificación del personal que lleve a cabo facultades de recaudación, auditorías, servicios de inspección y vigilancia fiscal, económica coactiva y demás relacionadas con la hacienda pública estatal, así como de los convenios que en materia fiscal celebre el gobierno del Estado con la federación o los ayuntamientos;
-
-XLVII. Dictaminar la disponibilidad presupuestal para las estructuras de la Administración Pública Estatal de acuerdo al presupuesto de egresos que le sean presentadas por la Secretaría de Administración;
-
-XLVIII. Emitir dictamen de disponibilidad presupuestal en los casos en que se pretenda la contratación de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, cuya ejecución rebase uno o más ejercicios presupuestales; y previo a la firma de convenios que impliquen afectaciones presupuestales;
-
-XLIX. Integrar el programa anual de inversión pública del Estado; y
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2012)</small>
-
-L. Emitir reglas de carácter general que faciliten el cumplimiento de las obligaciones fiscales a cargo de los contribuyentes de la Hacienda Pública Estatal.
-
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-LI. Emitir lineamientos para la presentación de los informes de Avance de Gestión en términos de lo dispuesto por la Ley General de Contabilidad Gubernamental y la Ley Estatal de Presupuesto y Responsabilidad Hacendaria;
-
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-LII. Coordinar, supervisar y evaluar las actividades y resultados del Monte de Piedad del Estado de Oaxaca;
-
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-LIII. Atender los mecanismos de vigilancia y supervisión conjuntamente con las áreas involucradas en la planeación, organización y ejecución de las giras de trabajo y eventos especiales del Gobernador;
-
-LIV. (DEROGADA, P.O. 29 DE ABRIL DE 2021)
-
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
-
-LV. Administrar la Casa Oficial del Gobierno del Estado.
-
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
-
-LVI. Celebrar convenios y demás instrumentos jurídicos con dependencias y entidades federales;
-
-LVII. (DEROGADA, P.O. 29 DE ABRIL DE 2021)
-
-LVIII. (DEROGADA, P.O. 17 DE AGOSTO DE 2023)
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
-
-LIX. Coordinar, supervisar y evaluar las actividades y resultados de la Instancia Técnica de Evaluación;
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-LX. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 46.
-
-A la Secretaría de Administración le corresponde el despacho de los siguientes asuntos:
-
-I. Normar y controlar la administración del capital humano, recursos materiales, tecnológicos y servicios de apoyo de la Administración Pública Estatal;
-
-II. Aplicar y vigilar el cumplimiento de las disposiciones legales, convenios y contratos que rijan las relaciones laborales entre el Gobierno del Estado y sus trabajadores;
-
-III. Establecer una estrecha comunicación y coordinación con las organizaciones sindicales de los trabajadores al servicio del Gobierno del Estado a efecto de fortalecer las relaciones laborales;
-
-IV. Formular los objetivos, procedimientos y mecanismos aplicables para la administración del personal al servicio del Poder Ejecutivo;
-
-V. Normar, aplicar y administrar lo referente a sueldos y salarios de los trabajadores al servicio del Poder Ejecutivo;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-VI. Expedir los nombramientos y tramitar las remociones, renuncias, licencias y jubilaciones de los trabajadores de la Administración Pública Estatal.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-Revocar los nombramientos de los empleados de la Administración Pública Estatal, por causas justificadas, conforme a los lineamientos que marcan las leyes y normas aplicables, exceptuándose los señalados en el artículo 79, fracción V, de la Constitución Política del Estado Libre y Soberano de Oaxaca;
-
-VII. Brindar seguridad y servicios sociales a los trabajadores al servicio del Gobierno del Estado, atendiendo al principio de equidad de género;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-VIII. Mantener al corriente el escalafón de los trabajadores de la administración pública centralizada, Conforme a la Ley del Servicio Civil para los Empleados del Gobierno del Estado y el Reglamento de Escalafón del Gobierno del Estado, en los términos del presupuesto de egresos autorizado, y atendiendo al principio de equidad de género;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-IX. Contratar al capital humano adecuado, para el buen funcionamiento de la administración pública centralizada, en los términos del presupuesto de egresos autorizado, atendiendo al principio de equidad de género, tomando en cuenta el catálogo de puestos y perfiles profesionales;
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-Así como rescindir, por causa justificada, los contratos referidos, conforme a los lineamientos establecidos en las leyes y normas aplicables;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-X. Diseñar, implementar, supervisar y dar seguimiento al servicio profesional de carrera para las y los servidores públicos de confianza, así como mandos medios y superiores de la administración pública centralizada;
-
-XI. Implementar y coordinar los lineamientos y procedimientos de selección de personal que requiera la Administración Pública Estatal, así como, evaluar la productividad y el desempeño de los trabajadores con respecto al cumplimiento de sus actividades y responsabilidades;
-
-XII. (DEROGADA, P.O. 2 DE AGOSTO DE 2018)
-
-XIII. Establecer coordinadamente con las Dependencias y Entidades, programas de modernización y calidad administrativa, con el propósito de promover la eficacia y eficiencia de la Administración Pública, en los términos de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo;
-
-XIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
-
-XV. Normar los criterios metodológicos de niveles de las Dependencias y Entidades;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XVI. Diseñar, definir y validar las estructuras administrativas de las Dependencias y Entidades de la Administración Pública Estatal, previo análisis de impacto presupuestario convenido con la Secretaría de Finanzas, para la autorización final del Gobernador del Estado;
-
-XVII. Emitir las normas y disposiciones de la Administración Pública Estatal, para la adquisición, arrendamiento o enajenación de bienes y servicios, de conformidad con la normatividad aplicable;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-XVIII. Administrar el Archivo Histórico del Gobierno del Estado y el Archivo General del Poder Ejecutivo del Estado de Oaxaca. Normar y asesorar a Dependencias y Entidades del Poder Ejecutivo en la organización, control, registro y salvaguarda de sus archivos y a todos los poderes, órganos, municipios y demás Instituciones del Estado, en la organización, control, registro y salvaguarda de sus archivos históricos en coordinación con el Consejo Estatal de Archivos;
-
-XIX. Definir previo acuerdo del Gobernador del Estado, criterios y políticas de descentralización y desconcentración de servicios administrativos, coordinando los procesos respectivos con las diferentes Dependencias y Entidades de la Administración Pública Estatal;
-
-XX. Administrar y vigilar los almacenes generales del Gobierno del Estado;
-
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2021)</small>
-
-XX BIS. Administrar el Hangar Oficial del Gobierno del Estado;
-
-XXI. Registrar y controlar los vehículos y maquinaria del Poder Ejecutivo del Estado; supervisar las condiciones de uso y autorizar las reparaciones en general, servicios y mantenimiento de los mismos;
-
-XXII. Proponer a consideración del Gobernador del Estado, la creación, modificación, adscripción, supresión, fusión y extinción de áreas o unidades administrativas de Dependencias y Entidades de la Administración Pública Estatal;
-
-XXIII. Conducir y coordinar el desarrollo de programas de mejoramiento administrativo con Dependencias y Entidades de la Administración Pública Estatal, revisando permanentemente los sistemas, métodos y procedimientos de trabajo;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXIV. Llevar el registro de las adquisiciones de bienes muebles destinados al servicio de la Administración Pública, así como integrar el catálogo de bienes inmuebles del Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXV. Administrar el patrimonio mueble del Estado, así como autorizar y en su caso realizar el mantenimiento, conservación y remodelación de los inmuebles propiedad del Estado;
-
-XXVI. Realizar el procedimiento de enajenación y arrendamiento de bienes muebles, pertenecientes a la Administración Pública Estatal, conforme a la normatividad aplicable, previo acuerdo del Titular del Ejecutivo;
-
-XXVII. Establecer coordinación con las Dependencias y Entidades de la Administración Pública Estatal, a través de sus unidades de apoyo administrativo, para asegurar la adecuada administración de personal y recursos materiales, la conservación y el mantenimiento del patrimonio del gobierno del Estado, y en general el suministro oportuno de los bienes y servicios que requiera la ejecución de los programas de trabajo;
-
-XXVIII. Establecer los lineamientos para la elaboración de los documentos normativos de organización y operación de Dependencias y Entidades de la Administración Pública Estatal;
-
-XXIX. Revisar y autorizar en el ámbito administrativo, conjuntamente con la Consejería Jurídica del Gobierno del Estado, los reglamentos internos de las Dependencias y Entidades de la Administración Pública Estatal, así como los proyectos de decretos y acuerdos en los que intervenga la Secretaría;
-
-XXX. Expedir los documentos, constancias y credenciales de identificación de los servidores públicos del Poder Ejecutivo;
-
-XXXI. Elaborar, coordinar, supervisar y ejecutar programas y proyectos de profesionalización y capacitación, para el desarrollo y formación integral de los servidores públicos, con el fin de que otorguen un servicio eficiente y de calidad a los ciudadanos;
-
-XXXII. Integrar, actualizar, controlar y publicar el Registro de las Entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
-
-XXXIII. Establecer políticas generales y programas estratégicos para la mejora de procesos y la simplificación administrativa;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXXIV. Administrar los parques y espacios recreativos en su custodia;
-
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2021)</small>
-
-XXXIV BIS. Establecer políticas generales y programas estratégicos, para la aplicación de tecnologías de la información, así como reglamentar y coordinar el desarrollo de sistemas de información.
-
-XXXV. (DEROGADO, P.O. 21 DE ABRIL DE 2017)
-
-XXXVI. (DEROGADO, P.O. 21 DE ABRIL DE 2017)
-
-XXXVII. (DEROGADO, P.O. 21 DE ABRIL DE 2017)
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-XXXVIII. Representar al Estado en la defensa y recuperación de los bienes propiedad del Estado;
-
-XXXIX. Informar anualmente al Titular del Ejecutivo del resultado de las evaluaciones que en el ámbito de su competencia realice a las Dependencias y Entidades, y proponer las medidas correctivas que procedan;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XL. Llevar a cabo el trámite y registro de las obras intelectuales, marcas y licencias propiedad del Gobierno del Estado, en estrecha coadyuvancia con la Consejería Jurídica del Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XLI. Llevar y actualizar el registro, supervisión, seguimiento y control de las plantillas de personal, así como los movimientos de altas y bajas, de las Dependencias y Entidades de la Administración Pública Estatal;
-
-XLII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XLIII. Llevar y actualizar, el registro y control de tabuladores salariales y todo tipo de remuneración aplicable en la Administración Pública Estatal;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XLIV. Dictar las disposiciones administrativas, así como, coordinarse con los sectores especializados en materia del patrimonio edificado cultural o cualquier otro, a efecto de mantener actualizados los inventarios que corresponden a los bienes del Ejecutivo del Estado;
-
-XLV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XLVI. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-###### ARTÍCULO 46-A.
-
-A la Secretaría de Desarrollo Económico, corresponde el despacho de los siguientes asuntos:
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-I. Planear, regular y fomentar el desarrollo económico del Estado, promoviendo las actividades productivas que propicien la generación de empleos;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-II. Proponer al Gobernador las políticas, programas, proyectos y demás acciones que propicien el fomento de las actividades industriales y comerciales;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-III. Integrar la Información estadística del sector económico que coadyuve al desarrollo económico del Estado, y fungir como órgano de consulta y asesoría en materia de desarrollo económico tanto a los organismos públicos y privados como a las dependencias del Ejecutivo;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-IV. Formular y promover la propiedad industrial, protección de marcas registradas, denominaciones de origen e indicaciones geográficas en el Estado de Oaxaca que fomenten el consumo local y el posicionamiento de los productos y servicios de origen oaxaqueño en los mercados nacionales e internacionales;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-V. Fortalecer la productividad y competitividad de los emprendedores y de las unidades económicas en el estado, promoviendo la innovación empresarial a través del intercambio y desarrollo de competencias y nuevas tecnologías;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-VI. Fomentar la participación incluyente de las mujeres y población en situación de vulnerabilidad en el sector económico;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-VII. Impulsar la relación comercial con actores estratégicos a nivel estatal, nacional e internacional, contribuyendo en el intercambio de experiencias exitosas, así como la inversión en la producción y exportación de productos oaxaqueños;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-VIII. Desarrollar, promover, y dar seguimiento al catálogo de oportunidades de inversión en el Estado de Oaxaca;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-IX. Impulsar con diferentes actores relevantes del sector empresarial, foros, mesas de trabajo y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo económico del Estado;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-X. Promover proyectos que potencialicen el desarrollo económico sustentable en el Estado;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XI. Elaborar e impulsar proyectos estratégicos, innovadores y sustentables que permitan la generación de inversiones y empleos en la Entidad;
-
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
-
-XII. Implementar mecanismos para el establecimiento de empresas e industrias en el Estado;
-
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
-
-XIII. Ejecutar las políticas gubernamentales en materia de Mejora Regulatoria, a través de la Coordinación Estatal de Mejora Regulatoria del Estado de Oaxaca;
-
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
-
-XIV. Promover el desarrollo de las industrias extractivas de acuerdo a las disposiciones legales aplicables y con pleno respeto a las formas de vida tradicionales y en concordancia con el desarrollo sustentable;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XV. Realizar programas de promoción y fomento que tengan como propósito incrementar la productividad y la competitividad de los productos oaxaqueños, impulsando el comercio exterior;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XVI. Estimular la formación y participación activa en consejos, comités, patronatos o asociaciones de carácter público, privado o mixto, cuyo propósito sea el desarrollo industrial y comercial;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XVII. Coordinar a las entidades de la Administración Pública Paraestatal, que sean sectorizadas a la Secretaría por acuerdo del Gobernador;
-
-XVIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XIX. Participar en coordinación con las Dependencias y Entidades de los tres ámbitos de gobierno, en el diseño e implementación de estrategias y programas de abasto de productos básicos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2024)</small>
-
-XX. Procurar la integración y equilibrio entre los factores y sectores productivos, proponiendo y/o ejecutando políticas, programas, proyectos y demás acciones;
-
-XXI. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
-
-XXII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022) (F. DE E., P.O. 19 DE MAYO DE 2023)
-
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2023)</small>
-
-XXII Bis. Fomentar a través de la Coordinación del Servicio Nacional de Empleo Oaxaca, el empleo, la capacitación y el adiestramiento, así como auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capitación laboral, además de fomentar y apoyar la organización social para el trabajo, el autoempleo y la movilidad laboral;
-
-XXIII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2022)
-
-XXIV. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
-
-XXV. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XXVI. Gestionar los programas en beneficio y apoyo a las necesidades del desarrollo económico del Estado;
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XVII. Impulsar el desarrollo artesanal, por medio de programas de investigación, desarrollo, abasto de materias primas e insumos, capacitación, financiamiento, promoción, comercialización y difusión, que signifiquen un impulso al mejoramiento de las condiciones de vida de las familias de los artesanos;
-
-XXVIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
-
-XXIX. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2021)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE SEPTIEMBRE DE 2021)</small>
-
-XXX. Otorgar la certificación de origen a los productos de origen oaxaqueño, que cumplan con los requisitos que para tal efecto se establezcan; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2024)</small>
-
-XXXI. Integrar y promover el catálogo de la oferta de productos del Estado, que cuenten con las certificaciones necesarias y/o cumplan con la normatividad respectiva para su comercialización;
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XXXII. Promover e impulsar el desarrollo de la economía social en el Estado;
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XXXIII. Fomentar la cultura de responsabilidad social y la sustentabilidad en el sector económico del Estado;
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XXXIV. Instrumentar una red empresarial de apoyo que coadyuve al impulso y consolidación del desarrollo económico en el Estado;
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XXXV. Diseñar, formular, desarrollar y ejecutar políticas, estrategias, programas y acciones de fomento y apoyo a la cultura emprendedora;
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XXXVI. Fomentar la cultura emprendedora a través de la organización de cursos, conferencias, exposiciones, ferias, foros y en general eventos que impulsen la generación de nuevas iniciativas emprendedoras y la exposición de productos de origen oaxaqueño;
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XXXVII. Promover, estimular e impulsar el desarrollo del Corredor Interoceánico del Istmo de Tehuantepec, así como en los polos de desarrollo para el bienestar, corredores, puertos y zonas estratégicas dentro del Estado;
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XXXVIII. Promover, fomentar y, en su caso, participar en la creación de parques, corredores y ciudades industriales, puertos y polos de desarrollo, de competencia estatal;
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XXXIX. Otorgar o administrar becas, apoyos, subsidios e incentivos que contribuyan al desarrollo económico del Estado;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE ENERO DE 2024)</small>
-
-XL. Las demás que en el ámbito de su competencia le confiere directamente el Gobernador del Estado, su reglamento interno y demás disposiciones normativas aplicables.
-
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-###### ARTÍCULO 46-B.
-
-A la Secretaría de Turismo le corresponde el despacho de los siguientes asuntos:
-
-I. Planear, regular y fomentar el desarrollo turístico del Estado, promoviendo las actividades y rutas turísticas que propicien la generación de bienestar social;
-
-II. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades y rutas turísticas;
-
-III. Desarrollar, dirigir, coordinar y organizar la ejecución de los programas de fomento y promoción turística para el desarrollo de la Entidad;
-
-IV. Impulsar con diferentes actores relevantes del sector empresarial, foros y reuniones donde se propongan y analicen las mejores alternativas para el desarrollo turístico;
-
-V. Fomentar la comercialización, promoción y difusión de las rutas y destinos turísticos que se ofrecen en el Estado;
-
-VI. Establecer los mecanismos que permitan hacer del Estado de Oaxaca el mejor destino turístico a nivel nacional e internacional, fortaleciendo la vocación turística como pilar del desarrollo económico local;
-
-VII. Promover la inversión nacional y extranjera en el desarrollo de infraestructura turística en todo el territorio oaxaqueño;
-
-VIII. Impulsar la capacitación permanente de los prestadores de servicios buscando con ello generar una cultura de servicio y asistencia al turista;
-
-IX. Elaborar y emprender proyectos estratégicos, innovadores y sustentables que sean eficaces para lograr el desarrollo turístico conservando en un ámbito de respeto el patrimonio cultural.
-
-X. Promover de manera permanente y estratégica la imagen turística y las oportunidades de inversión en el Estado a nivel nacional e internacional;
-
-XI. Desarrollar de manera permanente fuentes alternas de turismo que estén en armonía con el entorno de vida de las diferentes comunidades;
-
-XII. Promover en coordinación con la Secretaría de las Culturas y Artes de Oaxaca, la realización de eventos que promuevan las expresiones y manifestaciones culturales, incrementando la afluencia turística;
-
-XIII. Desarrollar productos turísticos en coordinación con diferentes actores de la sociedad, que coadyuven en el desarrollo sustentable de la entidad oaxaqueña;
-
-XIV. Expedir o revocar previo acuerdo del Gobernador del Estado las concesiones para la explotación de los recursos o infraestructura turísticos del Estado;
-
-XV. Participar y coadyuvar con los Gobiernos Municipales, así como los sectores social y privado, dentro del proceso integral de planeación turística Estatal;
-
-XVI. Promover la celebración de acuerdos, convenios de coordinación y bases de colaboración con otras dependencias estatales, con los gobiernos federal y municipales y con organizaciones de los sectores social y privado, a fin de facilitar e intensificar las actividades turísticas; y
-
-XVII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-###### ARTÍCULO 46-C.
-
-A la Secretaría de las Mujeres, corresponde el despacho de los siguientes asuntos:
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-I. Elaborar el Programa Estatal de Igualdad, instrumento que deberá guiar la incorporación de la perspectiva de género en la administración pública estatal, mediante la institucionalización de normas, planes y proyectos orientados a eliminar la desigualdad de género y garantizar a las mujeres el ejercicio de sus derechos civiles, políticos, económicos y sociales.
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-II. Proponer, promover, ejecutar, impulsar y evaluar periódica y sistemáticamente las políticas, planes, programas y medidas encaminadas a incorporar la perspectiva de género, con un criterio transversal en todas las Dependencias y Entidades de la Administración Pública Estatal, a fin de impulsar la igualdad sustantiva, el acceso a las oportunidades y el desarrollo de las mujeres.
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-III. Dirigir como órgano rector a través del Ejecutivo Estatal, la política pública de igualdad sustantiva entre mujeres y hombres en las Dependencias y Entidades de la Administración Pública Estatal y municipal;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-IV. Formular, promover e instrumentar políticas públicas para la igualdad sustantiva entre mujeres y hombres, fomentando el desarrollo social, cultural, político y económico de las mujeres, que asegure la eliminación de la discriminación y violencia hacia las mujeres;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-V. Promover la participación de las mujeres en condiciones de igualdad sustantiva en el desarrollo económico, político, social y cultural con la intervención que corresponda a las dependencias que integran la administración pública del Estado;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-VI. Establecer y concertar acuerdos, convenios e instrumentos para el cumplimiento de las atribuciones de la Secretaría y las políticas, acciones y programas que se establezcan en el Plan Estatal de Desarrollo, el Programa Estatal para la Igualdad entre Mujeres y Hombres, el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres, las leyes generales y locales de Igualdad y No Violencia Contra las Mujeres;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-VII. Promover, instrumentar y evaluar de forma transversal los programas, proyectos y acciones que faciliten a las mujeres el pleno desarrollo de sus potencialidades;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-VIII. Celebrar convenios con las instituciones de la federación, estados, municipios, organismos nacionales e internacionales, iniciativa privada, asociaciones civiles, universidades y centros de investigación, para la implementación de programas, proyectos y acciones, que favorezcan el desarrollo integral de las mujeres en el Estado, a efecto de que participen en su elaboración e implementación, encausando la participación de la sociedad civil en la elaboración de los programas de participación social, económica, política y cultural de la mujer oaxaqueña;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-IX. Establecer y operar un sistema de seguimiento de las acciones institucionales de la federación y el estado, a fin de evaluar el seguimiento de las políticas de igualdad sustantiva en el estado y el impacto a nivel nacional de la agenda de género;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-X. Proponer al Gobernador del Estado iniciativas y reformas de ley en lo relativo a los derechos de las mujeres, sobre los programas que tengan a su cargo las dependencias y entidades federales, estatales y municipales, procurando la perspectiva de género y que la asignación de los recursos a los mismos, respondan a un enfoque de género, a fin de que se atiendan las necesidades de la mujer oaxaqueña;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XI. Coordinar programas de formación y capacitación que sensibilice en la temática de perspectiva de género a las y los servidores públicos de la administración pública estatal y municipal, a fin de asegurar la transversalidad con perspectiva de género en apego a los Derechos humanos de las Mujeres, en los programas y proyectos implementados institucionalmente:
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XII. Apoyar a los municipios en la formulación y puesta en marcha de programas que impulsen la incorporación integral de la mujer al desarrollo y mantener estrecha relación e intercambio de información con las autoridades municipales correspondientes, en coordinación con instituciones educativas y de investigación en la materia;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XIII. Impulsar el desarrollo económico de las mujeres mediante la gestión e implementación de programas que permitan mejorar el nivel de vida de las mujeres oaxaqueñas;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XIV. Proponer convenios con instituciones financieras y de crédito, públicas y privadas, para establecer condiciones que promuevan el desarrollo económico y social de las mujeres; que permitan lograr su autonomía, autodeterminación y empoderamiento para un mejor posicionamiento social y una mayor capacidad de toma de decisiones;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XV. Diseñar programas que promuevan el desarrollo económico de las mujeres jefas de familia, estableciendo como prioridad aquellas que se encuentran en condiciones de vulnerabilidad, encaminadas para su ejecución, ante la Secretaría de Bienestar del Estado de Oaxaca aquellos programas y proyectos estatales, federales e internacionales que promuevan la incorporación de las mujeres de Oaxaca en el bienestar social y a la actividad productiva;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XVI. Gestionar, fortalecer y dar seguimiento a Centros regionalizados para la atención directa a la violencia de género y acceso a la justicia de las mujeres;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XVII. Coordinar y evaluar los servicios de atención brindados a las mujeres por especialistas, con perspectiva de género y aplicación de protocolos especializados;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XVIII. Impulsar acciones que contribuyan a prevenir, atender, sancionar y erradicar la violencia de género en todas sus vertientes, en coordinación con las instancias correspondientes, proponiendo reformas legislativas que eliminen todo tipo de discriminación y que favorezcan la igualdad efectiva de las mujeres, adecuando el marco normativo a la legislación nacional e internacional en la materia;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XIX. Promover en los medios de comunicación local el conocimiento y respeto a los Derechos Humanos de las Mujeres; que prevenga la violencia de género, estereotipos, los roles de género y cualquier otra conducta que genere discriminación en contra de las mujeres;
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XX. Fortalecer la participación social, política y cultural de las mujeres, incluyendo la pluralidad de intereses y necesidades sociales de las mujeres para contribuir a la consolidación de la democracia, poniendo énfasis en los municipios que se rigen bajo el sistema normativo interno, coadyuvando con los órganos electorales, tanto federales y estatales, con un enfoque de interculturalidad;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-XXI. Promover la incorporación transversal de la perspectiva de género de los procesos educativos, en coordinación con el Instituto Estatal de Educación Pública de Oaxaca y la Secretaría de Educación Pública del Gobierno del Estado, en su respectivo ámbito de competencia, mediante la incorporación de materias curriculares de perspectiva de género en educación básica y media superior, así como el lenguaje incluyente y no discriminatorio de conocimientos y divulgación de la información tendientes a la generación de igualdad para las mujeres y hombres;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXII. Promover ante las autoridades correspondientes, las medidas y acciones que contribuyan a garantizar el acceso y permanencia de las mujeres en todos los niveles y modalidades del sistema educativo, haciendo énfasis en el medio rural;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXIII. Fomentar el acceso de las mujeres a un sistema de salud que favorezca su desarrollo personal y social, incorporando el respeto a la medicina tradicional y a las diferencias culturales;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXIV. Promover la creación de Instancias Municipales de las Mujeres, en coordinación con el Poder Legislativo y los ayuntamientos, con el objeto de que implementen y articulen la política municipal en materia de igualdad entre mujeres y hombres y la política orientada a erradicar la violencia contra las mujeres de conformidad con las políticas nacional y local correspondientes;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXV. Instrumentar acciones con perspectiva de género que mejoren las condiciones laborales;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXVI. Elaborar estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de las mujeres en los distintos ámbitos de la sociedad, así como los tipos y modalidades de la violencia de género contra las mujeres;
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XXVII. Formular la normativa necesaria para el desempeño de sus funciones de conformidad con el Plan Estatal de Desarrollo, el Programa Estatal para la igualdad entre Mujeres y Hombres, el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres y las políticas del Gobierno del Estado materia de las facultades y competencias de la Secretaría de las Mujeres de Oaxaca;
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XXVIII. Emitir a las Dependencias y Entidades de la Administración Pública Estatal:
-
-a) Opiniones consultivas, en materia de perspectiva e igualdad de género;
-
-b) Recomendaciones no vinculatorias sobre políticas públicas y programas gubernamentales que fomenten directa o indirectamente la discriminación contra las mujeres, la violación de sus derechos, el sexismo y la violencia simbólica contra las mujeres.
-
-Estas recomendaciones se rigen por el principio de máxima publicidad.
-
-c) Recomendaciones sobre retiro de la propaganda o publicidad gubernamental de la vía pública o medios de comunicación o difusión en caso de que ésta promueva la discriminación o la violencia contra las mujeres, la violación de sus derechos, así como la normalización de roles y estereotipos de género;
-
-d) Observaciones vinculatorias sobre políticas públicas, programas o planes gubernamentales que carezcan de perspectiva de género y su transversalidad a fin de que se incluyan.
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XXIX. Emitir opiniones consultivas a personas morales de la iniciativa privada, a solicitud de éstas, con el fin de incorporar la perspectiva e igualdad de género en sus procesos organizacionales y publicidad.
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XXX. Proponer a las Entidades de la Administración Pública Estatal, mecanismos de monitoreo, evaluación y rendición de cuentas, para abordar los factores estructurales que causan desigualdades entre mujeres y hombres.
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XXXI. Fortalecer la participación de las organizaciones de mujeres y otras organizaciones de la sociedad civil en el diseño y la supervisión en la implementación de las políticas de igualdad de género.
-
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XXXII. Operar el Banco Estatal de Datos sobre Capacitaciones en Igualdad de Género, Violencia contra las Mujeres y Derechos Humanos de las Mujeres, el cual será un instrumento para:
-
-a) Concentrar información relativa a la participación de quienes prestan un servicio público en las instituciones de la Administración Pública Estatal;
-
-b) Coordinar las estrategias de: capacitaciones, cursos, conferencias, pláticas, diplomados, talleres y técnicas reflexivas como Cine-debate y mesas reflexivas;
-
-c) Recabar la información necesaria para la elaboración de estadísticas, esta información deberá ser remitida a esta Secretaría de manera mensual y semestral por las Dependencias de Gobierno del Estado.
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XXXIII. Las que en el ámbito de su competencia le confiere directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-###### ARTÍCULO 46-D.
-
-A la Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad, corresponde el despacho de los siguientes asuntos:
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-I. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de protección al ambiente y sustentabilidad a los recursos naturales atribuidas al Ejecutivo Estatal;
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-II. Formular y conducir el plan sectorial y el programa estatal de protección al ambiente, en congruencia con el Plan Estatal de Desarrollo;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-III. Determinar las estrategias y criterios ecológicos que deban observarse en la aplicación del programa Estatal de protección al ambiente, mismos que guardarán congruencia con los que formule la Federación en la materia;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-IV. Formular los programas de ordenamiento ecológico estatal, regional y especiales o prioritarios con la participación municipal, guardando congruencia con el formulado por la Federación;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-V. Prevenir, preservar y restaurar el equilibrio ecológico, así como la protección del ambiente en el territorio de la entidad a través de las políticas publicas correspondientes;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-VI. Prevenir y controlar las emergencias y/o contingencias ecológicas cuando afecten uno o más Municipios y no rebasen la jurisdicción territorial de la entidad, cuando la intervención no sea exclusiva de la Federación;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-VII. Establecer políticas públicas para prevenir y controlar la contaminación atmosférica generada por fuentes emisoras de competencia Estatal;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-VIII. Prohibir en el ámbito de su competencia las emisiones contaminantes que rebasen los niveles máximos permisibles por ruido, vibraciones, energía térmica, lumínica y olores así como las correspondientes a la contaminación visual;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-IX. Implementar medidas y mecanismos para regular el aprovechamiento racional, prevención y el control de la contaminación en los recursos naturales y del medio ambiente en general;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-X. Evaluar el impacto ambiental previamente a la realización de las obras o actividades que sean de su competencia;
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XI. Regular las actividades señaladas en el artículo 7 fracción IV de la Ley General de Equilibrio Ecológico;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XII. Regular el manejo y disposición final, en el ámbito de su competencia de los residuos sólidos que no sean peligrosos, conforme a las disposiciones aplicables en la materia;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XIII. Formular, en el ámbito de su competencia los proyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas conducentes para la protección y sustentabilidad de los recursos naturales de la entidad;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XIV. Regular, declarar y administrar las áreas naturales protegidas de competencia Estatal;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XV. Diseñar y ejecutar en el ámbito de su competencia programas de control ambiental, reforestación y vigilancia de la flora y fauna silvestre;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XVI. Regular con fines ecológicos, en coordinación con los Municipios, el aprovechamiento de los minerales o sustancias que constituyan depósitos naturales semejantes a los componentes de los terrenos destinados a la fabricación de materiales para la construcción u ornamento;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XVII. Instrumentar en coordinación con las autoridades educativas programas de educación ambiental dirigidos a estudiantes y sociedad en general, y fomentar la protección del ambiente y el desarrollo sustentable de la entidad;
-
-XVIII. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2018)
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XIX. Participar en la formulación y ejecución de los convenios que en materia de protección al medio ambiente y sustentabilidad de recursos naturales celebre el Gobierno del estado con la Federación, Entidades Federativas o con los ayuntamientos;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XX. Concertar acciones con los sectores representativos de la sociedad, en materia de protección del medio ambiente y sustentabilidad de recursos naturales;
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-XXI. Promover y fomentar las investigaciones de protección del medio ambiente y sustentabilidad de recursos naturales;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XXII. Coadyuvar con las autoridades federales competentes, en el diseño, formulación y desarrollo de las políticas públicas, programas, proyectos y explotación, en materia de energías e infraestructura energética en el estado, dentro del ámbito de su competencia;
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XXIII. Impulsar políticas públicas, para la mitigación y adaptación al cambio climático y fomentar estudios e investigaciones en esta materia, en el ámbito de su esfera competencial;
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XXIV. Desarrollar e implementar acciones, programas o proyectos en materia de energías limpias y renovables, y demás que permitan la protección del ambiente y del equilibrio ecológico en los términos de la legislación aplicable de los instrumentos jurídicos que para el efecto se celebren con el Gobierno Federal, previa consulta de la comunidad a la que impacte, en los términos de la ley de la materia;
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XXV. Fortalecer el aprovechamiento sustentable, la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como, de las aguas nacionales que se tengan asignadas conforme a la legislación aplicable, previa consulta de la comunidad a la que impacte, en los términos de la ley de la materia;
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XXVI. Regular e implementar acciones de prevención y control de la contaminación generada por los vehículos automotores que circulen en el Estado, así como, ejecutar el servicio de verificación vehicular; y,
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-XXVVII (SIC). Las que en el ámbito de su competencia le confiera su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
-
-###### ARTÍCULO 47.
-
-A la Secretaría de Honestidad, Transparencia y Función Púbiica (sic) corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-I. Establecer y operar el sistema de control de la gestión pública estatal, así como las políticas, lineamientos, objetivos y acciones en materia de transparencia, participación ciudadana y prevención de la corrupción;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-II. Inspeccionar la aplicación del gasto público estatal y su congruencia con el Presupuesto de Egresos y demás normatividad aplicable;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-III. Realizar auditorías a las Dependencias y Entidades de la Administración Pública Estatal, con el propósito de proponer medidas correctivas en sus operaciones y el cumplimiento de los objetivos contenidos en sus programas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-IV. Participar a través del programa de la Contraloría Social, para la correcta aplicación de los recursos provenientes de programas estatales y los concertados con la federación conforme a sus reglas de operación;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-V. Vigilar que los recursos financieros destinados a la ejecución de programas para el desarrollo del Estado, sean enfocados a los objetivos propuestos y se apliquen con honestidad, transparencia y oportunidad;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-VI. Vigilar que las Dependencias y Entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de sistemas de registro, contabilidad, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación enajenación y baja de bienes;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-VII. Supervisar que la ejecución de los convenios celebrados entre el Gobierno del Estado con la Federación, Estados y los Ayuntamientos, cumplan con lo estipulado;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-VIII. Evaluar, supervisar, verificar, física y financieramente, el avance e información de los programas e (sic) inversión y obra pública, así como la aplicación de los recursos a ellos destinados, autorizados previamente y conforme a las disposiciones legales en la materia;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-IX. Revisar y auditar la ejecución física y financiera de los programas de inversión y obra pública, que se realicen en el Estado con recursos propios, provenientes de convenios con la federación o de otra índole;
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
-
-X. Establecer coordinación con la Auditoria Superior de Fiscalización del Estado de Oaxaca, para el cumplimiento de sus respectivas responsabilidades;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XI. Supervisar que los proveedores de bienes y servicios, y contratistas, cumplan lo estipulado en los contratos que celebren con las Dependencias y Entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XII. Participar en las licitaciones públicas convocadas para seleccionar a los proveedores de bienes, servicios y obras públicas, con el propósito de que las adjudicaciones se asignen, dentro de un procedimiento de legalidad y con estricto apego a los requerimientos de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XIII. Participar en la formulación de las normas de contabilidad y de control en materia de programación, presupuestación, administración de personal, recursos materiales y financieros que elaboren las Dependencias y Entidades correspondientes;
-
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
-
-XIV. Recibir y registrar las declaraciones patrimoniales, en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XV. Reglamentar y participar en el procedimiento de Entrega-Recepción de las oficinas de las Dependencias y Entidades de la Administración Pública del Poder Ejecutivo, en los términos de las disposiciones legales, aplicando en su caso, las responsabilidades en que incurran los funcionarios e imponer la sanción correspondiente;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XVI. Vigilar que la prestación de los servicios públicos sea conforme a los principios de legalidad, transparencia, honradez e imparcialidad, y atender e investigar las quejas, denuncias, peticiones, recomendaciones y sugerencias que presente cualquier interesado en relación con las responsabilidades de los servidores públicos de las dependencias, y entidades de la Administración Pública del Poder Ejecutivo, e investigar los actos, omisiones o conductas de los servidores públicos y, en su caso, fincar responsabilidades administrativas, para imponer sanciones de acuerdo con las disposiciones aplicables;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XVII. Asignar auditores externos, así como normar y controlar su actividad con el propósito de efectuar revisiones periódicas de la situación financiera y contable de las Entidades Paraestatales, llevando un registro de los mismos;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XVIII. Establecer las bases generales para la realización de auditorías en las Dependencias y Entidades, llevándolas a cabo en forma directa o por terceros, mismas que serán observadas únicamente en la práctica de las auditorías que dicha Secretaría realice;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XIX. Inspeccionar y vigilar que se efectúe, en los términos establecidos por la normatividad de la materia correspondiente, la aplicación de subsidios, aportaciones o transferencias de fondos que el Gobierno del Estado otorgue a favor de municipios, entidades, instituciones públicas o particulares;
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
-
-XX. Dar seguimiento a los resultados de las revisiones, inspecciones, fiscalizaciones y auditorías practicadas en las Dependencias y Entidades, por parte de la Auditoría Superior de Fiscalización del Estado de Oaxaca, o por parte de la federación a fin de asegurar que se solventen las observaciones;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXI. Evaluar, dar seguimiento e intervenir en los procesos de conciliación en materia de obra pública y emitir observaciones vinculatorias, así como, vigilar que las obras públicas se realicen de acuerdo a la planeación, programación, presupuesto y especificaciones convenidas, directamente, o a través de los órganos de control interno o contralorías internas, en su caso, de las Dependencias y Entidades de la Administración Pública del Poder Ejecutivo, a fin de supervisar desde la contratación, autorización y anticipo de pago de estimaciones, hasta su finiquito y entrega, sin demérito de la responsabilidad de dependencias, secretarías de despacho, entidades, órganos auxiliares y desconcentrados encargados de la ejecución de la obra;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXII. Vigilar e investigar los actos, omisiones o conductas de los servidores públicos que constituyan alguna responsabilidad administrativa, aplicando las sanciones en los términos de las disposiciones legales, y en su caso, formular la denuncia o querella correspondiente ante el Ministerio Público;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXIII. Formular las denuncias o querellas, cuando de las investigaciones y procedimientos administrativos que conozca la Secretaría se advierta la probable comisión de hechos tipificados como delitos, en su caso, ratificar las mismas y/o solicitar la coadyuvancia en la indagatoria;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXIV. Realizar el registro y control de los servidores públicos que han sido inhabilitados en los gobiernos federal, estatal y municipal, y expedir las constancias respectivas a aquellas personas que pretendan ingresar al servicio público estatal;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXV. Llevar el registro y control de los proveedores y contratistas que hayan sido sancionados en los gobiernos federal, estatal y municipal y expedir las constancias respectivas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXVI. Imponer la sanción económica y administrativa, procediendo a excluir del padrón correspondiente al prestador o proveedor de bienes y servicios y/o contratista de obra que no solvente dentro del término conferido las observaciones formuladas;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXVII. Formular en el ámbito de su competencia los lineamientos, criterios, determinaciones y resoluciones necesarios que deban ser aplicados por la Administración Pública Estatal y como órgano interno de control en materia de transparencia, dar el debido cumplimiento a las recomendaciones que emita el Instituto de Acceso a la Información Pública y Protección de Datos Personales, sancionado (sic) en su caso a los órganos administrativos del Poder Ejecutivo del Gobierno del Estado, que por negligencia u omisión incumplan con las mismas;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXVIII. Vigilar que las Dependencias y Entidades, cumplan para la celebración de sus contratos con lo dispuesto en la Ley de Obras Públicas y Servicios Relacionados del Estado de Oaxaca, la Ley para Adquisiciones, Arrendamientos y Servicios del Estado de Oaxaca y demás leyes aplicables;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXIX. Participar en la formulación y ejecución de los convenios que, en materia de control de la gestión pública celebre el Gobierno del Estado con la federación o los ayuntamientos;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXX. Informar permanentemente al Titular del Ejecutivo del resultado de las evaluaciones y auditorías realizadas, y proponer las medidas correctivas que procedan;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXXI. Fomentar entre los servidores públicos del Estado, la cultura de la legalidad, ética y calidad en el servicio público, a través de programas y acciones para la atención eficiente y de calidad, que las Dependencias y Entidades de la Administración Pública Estatal deban proporcionar a la ciudadanía;
-
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
-
-XXXII. Dirigir y coordinar la instalación de delegaciones ante las Dependencias, Entidades y Órganos Auxiliares de la Administración Pública Estatal, que considere necesarias para el mejor ejercicio de sus atribuciones; el nombramiento, remoción y rotación de los delegados, así como del personal que integre cada una de las delegaciones será facultad exclusiva del titular de esta Secretaría;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2017)</small>
-
-XXXIII. Integrar a través de su Titular el Comité Coordinador del Sistema Estatal de Combate a la Corrupción, formar parte del Sistema Nacional de Fiscalización, informando periódicamente al Titular del Ejecutivo las acciones implementadas, y cumplir con todas las obligaciones que le impongan la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción; y
-
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
-
-XXXIV. Las demás que en el ámbito de su competencia le confiera directamente el Titular del Ejecutivo del Estado, su Reglamento Interno, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; y demás disposiciones normativas aplicables.
-
-ARTÍCULO 47 BIS. (DEROGADO, P.O. 28 DE ENERO DE 2017)
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-###### ARTÍCULO 48.
-
-(DEROGADO, P.O. 17 DE OCTUBRE DE 2016)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-###### ARTÍCULO 49.
-
-La Consejería Jurídica y Asistencia Legal del Estado prevista en el artículo 98 Bis de la Constitución Política del Estado Libre y Soberano de Oaxaca, estará a cargo del Consejero Jurídico del Gobierno del Estado, quien dependerá directamente del Ejecutivo Estatal, ejercerá la representación jurídica del Estado, del Titular del Poder Ejecutivo y de la Gubernatura, y otorgará el apoyo técnico jurídico en forma permanente y directa al Gobernador del Estado.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-A la Consejería Jurídica y Asistencia Legal del Estado le corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-I. Representar legalmente al Estado de Oaxaca, al titular del Poder Ejecutivo y a la Gubernatura en todo juicio, proceso o procedimiento en que sean parte.
-
-Esta representación tendrá los efectos de mandato judicial y se entiende conferida sin perjuicio de que, en su caso, el Gobernador del Estado asuma por sí mismo la intervención que en dichos actos le corresponde;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-II. En los casos en que el Gobernador del Estado se encuentre ausente del recinto del Poder Ejecutivo del Estado, firmar promociones, informes e interponer recursos de impugnación en los asuntos en que sea parte, tenga interés jurídico o sea requerido para ello el Titular del mismo, y en el citado caso de ausencia temporal suscribir los informes previos y justificados y demás promociones que por juicios de amparo u otros medios de control constitucional establecidos en las leyes federales y locales deba realizar el Gobernador;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-III. Otorgar mandatos de conformidad al Código Civil del Estado y el Federal, respecto de la representación legal que le confiere el presente ordenamiento;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-IV. Suscribir convenios y contratos relacionados con el patrimonio inmobiliario del Estado, en los casos previstos por la legislación aplicable;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-V. Intervenir en la defensa del patrimonio del Estado ante todas las instancias, así como, ejercitar las acciones reivindicatorias y de cualquier otra índole que competan al Estado;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-VI. Representar al Ejecutivo del Estado y promover en las controversias constitucionales y acciones de inconstitucionalidad en las que éste sea parte;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-VII. Representar al titular del Ejecutivo del Estado en las investigaciones que ordene la Comisión Nacional de los Derechos Humanos, en uso de la facultad que le confiere el artículo 102 apartado B, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-VIII. Ser el conducto del Ejecutivo del Estado para prestar apoyo en materia jurídica a los municipios con los que así se acuerde, sin perjuicio de la competencia que corresponda a otras dependencias;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-IX. Fungir como Consejero Jurídico del Gobernador del Estado y en tal carácter, otorgarle apoyo técnico-jurídico en forma permanente y directa;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-X. Conocer y substanciar los procedimientos relativos a los recursos administrativos que deba resolver el Gobernador del Estado, dejándolos en estado previo a la resolución y proponerle el proyecto de la misma;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XI. Efectuar por conducto del funcionario que establezca la reglamentación interna de la Consejería, las notificaciones dispuestas en el trámite de los asuntos que conozca en el desempeño de sus funciones, así como las que sean ordenadas por el Gobernador, las que se harán con sujeción a lo dispuesto, en lo conducente, en el Código de Procedimientos Civiles para el Estado de Oaxaca;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XII. Presidir la Comisión de Estudios Jurídicos del Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XIII. Proporcionar asesoría jurídica a las Dependencias y Entidades de la Administración Pública Estatal y revisar los proyectos de disposiciones legales e instrumentos jurídicos que deban presentarse para firma del Gobernador del Estado;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XIV. Elaborar y presentar a consideración del Gobernador proyectos de iniciativas de leyes y decretos, así como, los demás instrumentos jurídicos que éste le encomiende o considere necesarios;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XV. Revisar y autorizar los instrumentos jurídicos, previos a la firma del Gobernador, relativos a la Administración Pública Estatal o por actos jurídicos que celebre el Estado con intervención del Titular del Poder Ejecutivo;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XVI. Opinar sobre los proyectos de convenios a celebrar el Ejecutivo del Estado con la federación, con los estados y los municipios, y respecto a asuntos relativos a dichas autoridades;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XVII. Llevar el control, archivo y resguardo de los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal, otros estados y los ayuntamientos y de los demás instrumentos jurídicos que el Gobernador suscriba;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XVIII. Fungir como órgano de consulta obligatoria para los titulares de las Dependencias y Entidades de la Administración Pública Estatal Centralizada, respecto de los procedimientos litigiosos en los que tengan interés jurídico, pudiendo asumir el patrocinio legal de tales asuntos por orden escrita del Gobernador del Estado;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XIX. Cooperar con las Dependencias y Entidades de la Administración Pública Estatal, en la elaboración de documentos jurídico - administrativos y sugerir las estrategias legales en las que intervengan;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XX. Coordinar las acciones en materia jurídica que se implementen en la Administración Pública Estatal, estableciendo los criterios jurídicos que aplicarán las dependencias y las entidades;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXI. Establecer criterios de aplicación de normas que sean competencia del Poder Ejecutivo del Estado en los casos que se requiera;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXII. Emitir opinión jurídica de los instrumentos legales que le sean turnados por las Dependencias y Entidades en los que el Estado, el Gobernador del Estado y la Gubernatura intervengan;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXIII. Solicitar a las Dependencias y Entidades de la Administración Pública Estatal, le proporcionen información y apoyo que requiera para el cumplimiento de sus atribuciones;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXIV. Recibir a las áreas jurídicas de las Dependencias y Entidades, informe sucinto que deberán rendirle sobre los asuntos que conozcan y de considerarse necesario requerirles la ampliación de los mismos;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXV. Poner a consideración del Gobernador del Estado en materia jurídica, los temas, la problemática y propuesta de solución que considere deban ser atendidos por el Ejecutivo, considerando las propuestas de las Dependencias y Entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
-
-XXVI. Presentar dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público, y otorgar el perdón al acusado cuando proceda;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2015)</small>
-
-XXVII. Revisar y autorizar en el ámbito de su competencia, conjuntamente con la Secretaría de Administración, los reglamentos internos de las Dependencias y Entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-XXVIII. Ordenar, vigilar y coordinar el cumplimiento de las disposiciones en materia de exhortos judiciales, legislativos y administrativos dirigidos al titular del Poder Ejecutivo;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-(REFORMADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-XXIX. Fungir como Unidad de Transparencia de la Gubernatura y de la propia Consejería Jurídica, para dar cumplimiento a las disposiciones aplicables en la materia;
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-XXX. (DEROGADA, P.O. 12 DE MARZO DE 2020) (REPUBLICADA, P.O. 12 DE MARZO DE 2020)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
-
-XXXI. Coordinar, organizar y supervisar el ejercicio y funcionamiento de la Dirección General de Notarías y Archivo General de Notarías;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
-
-XXXII. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado, vigilar y ordenar visitas periódicas de inspección, autorizar y sancionar las actividades de los notarios públicos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
-
-XXXIII. Administrar los Talleres Gráficos del Gobierno del Estado y publicar el Periódico Oficial del Gobierno del Estado;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2016)</small>
-
-XXXIV. Ordenar al área correspondiente, la publicación en el Periódico Oficial del Gobierno del Estado de las leyes o decretos expedidos por el Congreso del Estado, así como los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que expida el gobernador del Estado o emiten (sic) las dependencias, entidades, órganos auxiliares y desconcentrados, y de todas aquellas que deban regir en la entidad y establezca la normatividad en la materia; conforme a las disposiciones aplicables de la Ley Estatal de Derechos;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXXV. Compilar y archivar la legislación y reglamentación vigente en el Estado, y
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2018)</small>
-
-XXXVI. Registrar y legalizar las firmas y sellos de los servidores públicos que de acuerdo a sus funciones y a las disposiciones aplicables así lo requieran y de los notarios públicos en ejercicio de la función notarial;
-
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
-
-XXXVII. Firmar el apostillamiento de los documentos públicos estatales, de conformidad con la Convención por la que se suprime el Requisito de Legalización de los Documentos Públicos Extranjeros, adoptada en la Conferencia de la Haya de Derecho Internacional Privado;
-
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
-
-XXXVIII. Coordinar, organizar y supervisar el ejercicio y funcionamiento de la Dirección del Registro Civil;
-
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
-
-XXXIX. Coordinar, supervisar y evaluar las actividades y resultados de sus órganos desconcentrados y las entidades sectorizadas a la Consejería Jurídica;
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2018)</small>
-
-XL. Atender, vigilar y controlar todo lo relativo a la demarcación y conservación de los límites del Estado y de sus municipios;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2018)</small>
-
-XLI. Coadyuvar con las instancias competentes, así como con los núcleos agrarios en la atención de los asuntos de la materia, cuando así lo soliciten, y;
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-XLII. Coordinar la integración, establecimiento y funcionamiento de las Juntas Locales de Conciliación y Arbitraje, de la Junta de Arbitraje para los Empleados al Servicio de los Poderes del Estado, conforme a la Ley Federal del Trabajo y a la Ley del Servicio Civil para los Empleados del Gobierno del Estado. Se evaluarán anualmente el funcionamiento de las Juntas y se propondrán las medidas que procedan; y
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-XLIII. Recibir, tramitar, substanciar y resolver, los procedimientos administrativos que por sus funciones le competan, y en su caso, aplicar o ejecutar las sanciones impuestas, en los términos de las leyes, reglamentos y demás disposiciones jurídicas aplicables; y
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-XLIV. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su reglamento interno y la demás normatividad aplicable.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-ARTÍCULO 49 BIS. La Dirección General del Instituto de Planeación para el Bienestar, previsto en el artículo 137, párrafo décimo primero de la Constitución Política del Estado Libre y Soberano de Oaxaca, estará a cargo de un Director General, quien dependerá directamente del Ejecutivo Estatal.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-A la Dirección General del Instituto de Planeación para el Bienestar le corresponde el despacho de los siguientes asuntos:
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-I. Dirigir la planeación participativa para la elaboración del Plan Estatal de Desarrollo y coordinar la formulación y validación del mismo, y proponer parámetros para la focalización de acciones para los programas sectoriales, especiales e institucionales, de conformidad con las disposiciones legales aplicables en la materia, favoreciendo el establecimiento de mecanismos para la participación ciudadana;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-II. Definir con la Secretaría de Finanzas la visión estratégica del desarrollo del estado, de mediano y largo plazo, identificando las prioridades de política pública y orientación de recursos, las alternativas para su logro y la definición de metas del desempeño correspondientes, apoyándose en la participación de las dependencias y organismos del Poder Ejecutivo del Estado;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-III. Orientar la planeación para el desarrollo con sustentabilidad, definiendo regiones, microrregiones, zonas y localidades del Estado que requieran atención prioritaria, considerando aquellas que también sean priorizadas por las estrategias y programas federales;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-IV. Coordinar el Comité Estatal de Planeación para el Desarrollo de Oaxaca;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-V. Orientar, en coordinación con la Secretaría de Finanzas, a las dependencias y entidades en la planeación, diseño, promoción, aplicación, y conducción de los programas y proyectos de desarrollo del Estado, identificando las prioridades y estrategias que se alineen al Plan Estatal de Desarrollo, en congruencia con los programas de la administración pública federal y los de los municipios del Estado, e incluyendo la aportación ciudadana, tendientes a satisfacer el bienestar social;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-VI. Formular propuestas sobre planeación, aplicación y orientación de las políticas públicas, acciones y proyectos en el ámbito territorial, en coordinación con las políticas y programas sectoriales, mediante la coordinación de los esfuerzos institucionales, particularmente de los Subcomités Regionales, los Consejos de Desarrollo micro regional, y aquellas instancias de planeación que contribuyan a estas tareas, propiciando la colaboración de los sectores social y privado;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-VII. Proponer mecanismos y criterios de orientación y distribución de recursos de los diversos fondos de inversión hacia el financiamiento de obras y acciones que favorezcan el desarrollo equilibrado en el estado, conforme a los acuerdos establecidos en el seno del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
-
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
-
-VIII. Promover la creación de infraestructura y equipamiento productivo con énfasis en las regiones y sectores de la población con mayores desventajas;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-IX. Establecer estrategias y mecanismos de coordinación, colaboración, inducción y gestión de acciones con las dependencias, entidades y demás instancias federales, estatales y municipales, organizaciones de la sociedad civil y particulares, para la ejecución de los programas, proyectos e iniciativas en el ámbito territorial, así como, suscribir los convenios y acuerdos que resulten necesarios para fortalecer el desarrollo en el Estado, en coordinación con la Secretaría de Finanzas y la Secretaría General de Gobierno, en el ámbito de sus respectivas competencias;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-X. Proporcionar orientación, asistencia técnica y capacitación a las autoridades municipales, organizaciones de la sociedad civil y sociales, con el fin de fortalecer las tareas de planeación, ejecución y seguimiento de los planes, programas y proyectos de desarrollo municipal, microrregional y regional, coadyuvando en el establecimiento de una agenda desde lo local y en los mecanismos de respuesta ante la existencia de siniestros y contingencias;
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-XI. Dar seguimiento a los acuerdos y convenios suscritos en el seno del Comité Estatal de Planeación para el Desarrollo de Oaxaca, por el Ejecutivo del Estado o, en su caso, por la Dirección General del Instituto de Planeación para el Bienestar, la Secretaría de Finanzas o la Secretaría de Gobierno, con las dependencias y entidades del Ejecutivo Federal y Estatal, así como, con los ayuntamientos y organizaciones de la sociedad civil;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XII. Participar en el ámbito de su competencia con la Secretaría de Finanzas, en la elaboración de lineamientos y normas en la estrategia de mezcla de recursos con los ayuntamientos;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XIII. Asistir a los Ayuntamientos, particularmente de aquellos con baja capacidad administrativa, en la formulación de los Planes Municipales en coordinación con la Secretaría de Finanzas, quien atenderá lo referido a la planeación financiera y presupuestal, con el fin de que cumplan con elementos mínimos de planeación y de alineamiento con el Plan Estatal de Desarrollo, los Planes Regionales y programas micro regionales;
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
-
-XIV. Suscribir convenios de colaboración para coordinar la capacitación integral de los municipios, con las Secretarias de Finanzas, General de Gobierno, y la Secretaría de Honestidad, Transparencia y Función Pública, así como con la Auditaría Superior de Fiscalización del Estado de Oaxaca, y demás Instituciones públicas privadas, relacionadas con la materia;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XV. Convenir y aprobar los Programas de Desarrollo Institucional municipal, sobre la base de la asignación establecida en el Fondo de Infraestructura Social Municipal; así como, apoyarlos en la capacitación y seguimiento en el cumplimiento de la obligación de informar trimestralmente sobre los avances físicos y financieros de los recursos federales descentralizados;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XVI. Opinar en la definición del Programa Anual de Inversión Pública del Estado, tomando en cuenta para ello los acuerdos y prioridades establecidos en el seno del Comité Estatal de Planeación para el Desarrollo de Oaxaca, apoyando en la gestión de recursos para impulsar programas y proyectos;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XVII. Realizar estudios socioeconómicos de alcance regional y microrregional que orienten la política de desarrollo del Estado;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XVIII. Apoyar en el ámbito territorial e interinstitucional en la realización de los estudios técnicos y económicos de factibilidad de los proyectos de inversión pública que requiera el Gobierno del Estado;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XIX. Apoyar en el seguimiento del banco de proyectos sectoriales y regionales de inversión pública del Estado, para fortalecer la planeación de los mismos;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XX. Apoyar, a partir de los sistemas de evaluación al seguimiento de la situación física y financiera de la inversión en la Administración Pública Estatal, que realiza el Poder Ejecutivo con recursos propios y los provenientes de transferencias y reasignaciones de recursos federales;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXI. Coadyuvar en el establecimiento de los lineamientos generales e integración del Informe Anual sobre la situación que guarda la Administración Pública Estatal;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXII. Proponer al Ejecutivo Estatal, las modificaciones necesarias sobre las políticas, programas y acciones de desarrollo y, en su caso, verificar que las Reglas de Operación atiendan al marco de la planeación del Estado;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXIII. Coordinar el sistema de información para la planeación del desarrollo;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXIV. Definir con la Secretaría de Finanzas los requerimientos que deberán producir los sistemas de información estadística y documental para la planeación y el financiamiento del desarrollo, así como, el análisis y difusión de estadísticas y estudios relativos a la demografía, economía y desarrollo social del Estado, y
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2024)</small>
-
-XXV. Coordinar las acciones interinstitucionales necesarias para coadyuvar con el Ejecutivo del Estado para la presentación del informe sobre el estado que guarda la administración pública estatal ante el Congreso del Estado;
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XXVI. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 50.
-
-(DEROGADO, P.O. 29 DE MARZO DE 2023)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-###### ARTÍCULO 51.
-
-A la Coordinación de Comunicación Social, le corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-I. Proponer y aplicar los programas de comunicación social del Gobierno del Estado, de conformidad con las políticas, lineamientos y demás disposiciones jurídicas aplicables;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-II. Compilar y difundir la información sobre las actividades que en ejercicio de sus atribuciones lleven a cabo las distintas dependencias, entidades paraestatales, órganos desconcentrados, órganos auxiliares y fideicomisos públicos del poder ejecutivo del Estado, incluidas las plataformas digitales;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-III. Coordinar, supervisar y evaluar las actividades y resultados de los órganos sectorizados a la Coordinación;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-IV. Establecer, ejecutar, implementar, supervisar, evaluar, y elaborar todas y cada una de las acciones de manera exclusiva, referentes a la comunicación digital utilizada por (sic) Poder Ejecutivo del Estado;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-V. Coordinar, con el apoyo de las áreas administrativas de comunicación social de las dependencias y entidades de la Administración Pública Estatal, la realización de programas o campañas específicas de comunicación social, o información gubernamental, en términos de las disposiciones jurídicas aplicables, así como para la emisión de boletines y comunicados a los medios de comunicación;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-VI. Coordinar a las áreas administrativas de comunicación social de las dependencias y entidades de la Administración Pública Estatal, para dar congruencia a la información que el Gobierno del Estado difunda a la población;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-VII. Convocar a reuniones de trabajo a los titulares de las áreas administrativas de comunicación social de las dependencias y entidades de la Administración Pública Estatal, con objeto de diseñar y coordinar la estrategia de información gubernamental;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-VIII. Supervisar las acciones para la ejecución de la estrategia de información gubernamental, a que se refiere la fracción anterior;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-IX. Informar a la opinión pública y a los medios de comunicación acerca de los asuntos competencia del Gobierno del Estado, así como difundir sus objetivos, programas y acciones;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-X. Ampliar y, en su caso, precisar la información relacionada con los posicionamientos del Gobierno Estatal;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XI. Coordinar y atender las relaciones del Gobierno del Estado con los medios de comunicación;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XII. Establecer relaciones interinstitucionales con las áreas de comunicación social de los sectores público, social y privado;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XIII. Participar en la orientación, supervisión y evaluación de los programas de comunicación social de las dependencias y entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XIV. Suscribir acuerdos y convenios con los sectores público, social y privado en las materias de su competencia y disponer las acciones para su ejecución, en coordinación con las dependencias y entidades de la Administración Pública Estatal competentes;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XV. Cubrir los eventos institucionales del Gobierno del Estado, así como diseñar y producir los materiales informativos y de difusión de dichos eventos para radio, televisión y medios impresos, en coordinación con las instancias competentes;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XVI. Enviar, en términos de las disposiciones jurídicas aplicables, para su transmisión por radio, televisión y publicación en medios impresos, los materiales informativos y de difusión de las actividades del Gobierno del Estado, en coordinación con las instancias competentes;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XVII. Coordinar las entrevistas y conferencias de prensa de los servidores públicos de la Administración Pública Estatal y los Poderes del Estado;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XVIII. Atender los requerimientos de información de las actividades del Gobernador que formulen los medios de comunicación del país;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XIX. Participar en reuniones del Gabinete y de los gabinetes especializados a los que se le convoque;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XX. Conducir la política de identidad institucional de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XXI. Dirigir, coordinar y establecer los lineamientos que rijan el diseño y la difusión de información, campañas y publicaciones sobre las actividades y funciones de dependencias, entidades paraestatales, órganos desconcentrados, órganos auxiliares y fideicomisos públicos del Poder Ejecutivo del Estado para que el contenido de sus campañas y publicaciones sea acorde con el mensaje y estrategia de comunicación social;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XXII. Coordinar las acciones y estrategias para posicionar el mensaje gubernamental, con la participación que corresponda de las demás áreas competentes, así como de las dependencias y entidades de la Administración Pública Estatal;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XXIII. Supervisar el uso de la imagen institucional, así como coadyuvar en la producción y transmisión de los actos y eventos en los que participen los servidores públicos de la Administración Pública Estatal y de los Poderes del Estado;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XXIV. Dirigir estudios de evaluación de imagen institucional y medición de la opinión pública para generar estrategias de comunicación social que permitan difundir de forma eficiente las acciones de la administración pública estatal, y
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
-
-XXV. Las que en el ámbito de su competencia le confiera el Gobernador del Estado, su reglamento interno y demás normatividad aplicable.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
-
-### CAPÍTULO VII. DE LOS GABINETES SECTORIALES Y ESPECIALIZADOS
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 52.
-
-A la Coordinación para la Atención de los Derechos Humanos le corresponde el despacho de los siguientes asuntos:
-
-I. Coordinar acciones de difusión e interlocución con instancias internacionales y nacionales promotoras y protectoras de derechos humanos, así como, de los derechos de los migrantes y trabajadores oaxaqueños temporales en territorio extranjero, y las que se dedican al fortalecimiento de los sistemas de procuración y administración de justicia;
-
-II. Atender los requerimientos en tiempo y forma que le formule la Comisión Nacional de los Derechos Humanos, la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y Organismos Internacionales competentes y afines, a las autoridades y servidores públicos del Poder Ejecutivo del Estado;
-
-III. Coadyuvar con la Comisión Nacional de los Derechos Humanos, la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y organismos afines en la divulgación, promoción, conocimiento y capacitación en derechos humanos;
-
-IV. Promover y consolidar acciones que generen la garantía plena a los derechos humanos:
-
-V. Verificar que la organización y programación de acciones de formación, capacitación, vinculación, promoción y defensa a favor de los derechos humanos, sea conforme a los imperativos internacionales, nacionales y de acuerdo al Plan Estatal de Desarrollo, pugnando por establecer mejores estándares de protección y promoción de los mismos;
-
-VI. Coadyuvar en la implementación de políticas para la protección y mejoramiento de los derechos humanos;
-
-VII. Formular programas y proponer acciones en coordinación con las dependencias competentes que impulsen el cumplimiento dentro del estado de Oaxaca, de los ordenamientos jurídicos vigentes en materia de derechos humanos;
-
-VIII. Vigilar y dar seguimiento a las recomendaciones emitidas por organismos estatales, nacionales e internacionales en materia de derechos humanos, al Poder Ejecutivo del Estado;
-
-IX. Coadyuvar en la revisión y elaboración de iniciativas de Ley que permitan armonizar el marco normativo existente en el Estado conforme a los más altos estándares de derechos humanos;
-
-X. Colaborar en la elaboración, implementación y evaluación del diagnóstico y programa estatal de derechos humanos de Oaxaca;
-
-XI. Colaborar con instancias nacionales e internacionales para la atención, promoción y defensa de los derechos humanos en Oaxaca, a fin de robustecer las políticas públicas del Estado y atender el mejor estándar para ese efecto;
-
-XII. Promover y concretar convenios de colaboración de derecho (sic) humanos que el Ejecutivo suscriba, a fin de fortalecer con instancias nacionales e internacionales mejores prácticas de Estado a favor de los Derechos Humanos en Oaxaca;
-
-XIII. Promover mecanismos de diálogo y trabajo coordinado con la sociedad civil tanto a nivel local, nacional e internacional para favorecer estrategias conjuntas a favor de la defensa y promoción de los derechos humanos; y
-
-XIV. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
-
-###### ARTÍCULO 53.
-
-(DEROGADO, P.O. 31 DE ENERO DE 2024)
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-###### ARTÍCULO 54.
-
-(DEROGADO, P.O. 12 DE MARZO DE 2020) (REPUBLICADO, P.O. 12 DE MARZO DE 2020)
-
-ARTÍCULO 54 BIS. (DEROGADO, P.O. 17 DE FEBRERO DE 2018)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-### CAPÍTULO I. DE LAS ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 55.
-
-El Gobernador del Estado podrá constituir comisiones intersecretariales, para el despacho de asuntos en que deban intervenir varias Secretarías.
-
-Las Entidades de la Administración Pública Estatal podrán integrarse a dichas comisiones, cuando se trate de asuntos relacionados con su objeto.
-
-###### ARTÍCULO 56.
-
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
-
-###### ARTÍCULO 57.
-
-(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2013)
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 58.
-
-El Gobernador del Estado podrá constituir mediante acuerdo o decreto los gabinetes sectoriales o especializados que considere necesarios para el despacho de los asuntos en que deban intervenir las Dependencias y Entidades.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2024)</small>
-
-Todos los gabinetes serán presididos por el Gobernador del Estado y, en su ausencia, por el titular de la Dirección General del Instituto de Planeación para el Bienestar, o por el servidor público que el Gobernador del Estado designe.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-En estos gabinetes podrán participar, a invitación expresa, los titulares o servidores públicos de otras dependencias o entidades, así como, los servidores públicos del orden federal y municipal, y actores de los sectores social y privado, cuando se trate de asuntos relacionados con su objeto.
-
-Los gabinetes podrán contar con grupos de trabajo para la realización de tareas específicas en las materias de su competencia.
-
-Los acuerdos o decretos de creación de los gabinetes establecerán las atribuciones de cada uno, así como los términos y condiciones en los que habrán de sesionar.
-
-## TÍTULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 59.
-
-La Administración Pública Paraestatal está integrada por Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos, así como, por las Entidades Auxiliares del Ejecutivo Estatal, integrándose éstas por los Consejos, Comisiones, Comités, Juntas, Patronatos y aquellas instituciones que por su naturaleza no estén comprendidas dentro de la Administración Pública Centralizada, a las que genéricamente se les denominará como Entidades, estarán reguladas por la Ley de Entidades Paraestatales del Estado de Oaxaca, sus decretos de creación y reglamentos respectivos.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 60.
-
-Son organismos descentralizados los entes públicos creados por ley o decreto del congreso del estado o por decreto del gobernador del estado, con personalidad jurídica y patrimonio propios, cualquiera que sea la denominación, estructura y forma de organización que adopte, siempre que no sean sociedades, asociaciones o fideicomisos y su objeto preponderante sea la prestación de un servicio público o social, la protección, promoción, estudio o divulgación de un asunto de interés público o social, la explotación de bienes o recursos propiedad del estado, la investigación científica, difusión de la cultura, impartición de la educación o la obtención y aplicación de recursos para fines de asistencia o seguridad social, así como la obtención de cualquier información para prevenir conductas relativas al lavado de activos; la administración, enajenación y en general dar destino a los bienes que le sean transferidos y aquellos que tengan como fin tutelar, proteger y garantizar un interés general, en términos de la Ley de Entidades Paraestatales del Estado de Oaxaca y de las demás disposiciones aplicables.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 61.
-
-Se consideran Empresas de Participación Estatal, todas aquellas Entidades en las que el Gobierno del Estado aporte o sea propietario de un porcentaje de capital social, con autorización de la Legislatura del Estado, en términos de la Ley de Entidades Paraestatales del Estado de Oaxaca y de las demás disposiciones aplicables.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 62.
-
-Son Fideicomisos Públicos los que se establezcan por la Legislatura del Estado o por el Titular del Ejecutivo Estatal a través de decreto, que tengan como propósito auxiliar al Ejecutivo en la realización de actividades prioritarias, siendo fideicomitente único por parte del Gobierno del Estado, la Secretaría de Finanzas en representación del Titular del Poder Ejecutivo y se constituyan por la Administración Pública Estatal, con una estructura orgánica análoga a la de un Organismo Descentralizado, que permita considerar a la mayoría de su personal como servidores públicos del Estado y en cuyo Órgano de Gobierno participen dos o más dependencias u órganos auxiliares, correspondiendo al Ejecutivo la designación del Director, en términos de la Ley de Entidades Paraestatales del Estado de Oaxaca, Ley de Presupuesto y Responsabilidad Hacendaria y de las demás disposiciones aplicables.
-
-Los Fideicomisos Emisores de Valores a que se refiere el capítulo I de la Ley de Deuda Pública Estatal y Municipal, así como, los fideicomisos que se constituyan como mecanismos de pago y/o garantía, o ambos, de obligaciones contraídas por los entes públicos a que se refiere el artículo 3 fracciones I, III y V de la Ley de Deuda Pública Estatal y Municipal, no serán considerados Fideicomisos Públicos, ni formarán parte de la Administración Pública Paraestatal, por lo que no les es aplicable lo previsto por la presente Ley, ni lo previsto por la Ley que regula los Fideicomisos con Participación Estatal.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 63.
-
-Los Consejos, Comisiones, Comités, Juntas, Patronatos y aquellas Instituciones de carácter público que por su naturaleza no estén comprendidas dentro de la Administración Pública Centralizada, son órganos colegiados, denominados Entidades Auxiliares del Ejecutivo Estatal, cuyo objeto es colaborar de modo temporal o permanente en el desempeño de determinadas tareas o asuntos de la Administración Pública Estatal, o la promoción o concertación de acciones entre los diferentes niveles de gobierno.
-
-Contarán con personalidad jurídica y autonomía de gestión; podrán ser creadas por Ley o decreto de la Legislatura Local o por decreto del Gobernador del Estado, siempre y cuando, los asuntos que les corresponda desempeñar no estén expresamente conferidos a otras Entidades; sus funciones serán rectoras o directivas, de representación, consultivas y de colaboración dentro de la Administración Pública Estatal y se podrán integrar en gabinetes sectoriales o especializados.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2012)</small>
-
-### CAPÍTULO II. DE LOS ORGANISMOS DESCENTRALIZADOS
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
-
-###### ARTÍCULO 64.
-
-Las Entidades, para su desarrollo y operación, deberán sujetarse a la Ley de Entidades Paraestatales del Estado de Oaxaca, Ley Estatal de Planeación, al Plan Estatal de Desarrollo, a los programas sectoriales y regionales que deriven del mismo, a las directrices y políticas que en materia de programación y evaluación fijen en el ámbito de su competencia las Secretarías de Finanzas, de Honestidad, Transparencia y Función Pública, del Instituto de Planeación para el Bienestar y el coordinador de sector, en el ámbito de sus respectivas competencias y de las demás disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2024)</small>
-
-###### ARTÍCULO 65.
-
-La Secretaría de Honestidad, Transparencia y Función Pública, a través de su titular deberá fungir como Comisario para la vigilancia y control de las Entidades, pudiendo nombrar un suplente una vez instalado el Órgano de Gobierno.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-La Coordinadora de Sector, a través de su titular o el suplente del mismo, mediante su participación en los órganos de gobierno de las Entidades, podrá recomendar las medidas adicionales que estime pertinentes, sobre las acciones tomadas en materia de control y evaluación internos.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2012)</small>
-
-## TÍTULO IV. DE LA PARTICIPACIÓN CIUDADANA
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2012)</small>
-
-### CAPÍTULO ÚNICO
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 66.
-
-Con el propósito de fortalecer la Administración Pública Estatal, se establece en este Capítulo, la forma en que podrá vincularse la participación ciudadana con las acciones de las Dependencias y Entidades de la Administración Pública Estatal.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-### CAPÍTULO III. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 67.
-
-Los Titulares de Dependencias y Entidades de la Administración Pública Estatal, podrán promover la formalización de la participación ciudadana en asuntos sustantivos de su competencia, a través de la constitución de organismos que actúen como instancias de análisis y opinión y que tengan como objeto, manifestar los intereses de la sociedad.
-
-Estos organismos podrán funcionar permanente o temporalmente y se integrarán con beneficiarios de los programas sociales y representantes de los sectores público, privado y social de la entidad, cuya actuación será en forma colegiada.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 68.
-
-Los organismos de Participación Ciudadana sólo podrán crearse o extinguirse por decreto o acuerdo del Gobernador del Estado o por Ley, en el que se incluirán entre otros elementos, los siguientes:
-
-I. Denominación;
-
-II. Forma o estructura;
-
-III. Domicilio;
-
-IV. Objeto y lineamientos a seguir conforme a su naturaleza;
-
-V. Duración;
-
-VI. Integración;
-
-VII. Organización interna, y
-
-VIII. Forma de sesionar.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-### CAPÍTULO IV. DE LOS FIDEICOMISOS PÚBLICOS
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 69.
-
-El Decreto o Acuerdo de creación de los organismos de participación ciudadana, se publicarán en el Periódico Oficial del Gobierno del Estado y deberán contemplar genéricamente entre sus lineamientos a seguir, los siguientes:
-
-I. Ser órgano de análisis y opinión de la Administración Pública Estatal;
-
-II. Sugerir programas y acciones para la solución de problemas específicos que enfrenta la sociedad;
-
-III. Apoyar con creatividad y objetividad, las tareas de simplificación administrativa y de atención a las necesidades sociales;
-
-IV. Promover el bienestar, la productividad, la competitividad, el empleo, la estabilidad y el desarrollo integral de la sociedad;
-
-V. Presentar inconformidades, quejas o denuncias por la actuación indebida de servidores públicos, que obren en perjuicio de la sociedad; y
-
-VI. Enfatizar la prevención de problemas, a través de una permanente evaluación prospectiva de la problemática estatal, e impulsar reformas necesarias a nivel estatal que permitan descentralizar la toma de decisiones y unificar los esfuerzos de todos los sectores.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-### CAPÍTULO V. DE LOS CONSEJOS, COMISIONES, COMITÉS, PATRONATOS Y DEMÁS INSTITUCIONES DE CARÁCTER PÚBLICO
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 70.
-
-En las Dependencias y Entidades de la Administración Publica Estatal, la dirección y coordinación de los organismos de participación ciudadana, podrán estar a cargo de un Consejo, Comisión, Asamblea General o su equivalente, el cual podrá constituir comités y subcomités técnicos o ejecutivos, para apoyar la supervisión de la marcha normal del órgano; contando con una contraloría social, la que se encargará de atender problemas de organización, vigilar el cumplimiento de los acuerdos tomados, establecer los criterios que deban orientar sus actividades, instrumentar las medidas de control necesarias para garantizar el cumplimiento de su objeto, supervisar y dar seguimiento a los programas sociales estatales.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 71.
-
-Serán representantes del sector público estatal en los organismos de participación ciudadana, aquellos que determine el Gobernador del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2019)</small>
-
-###### ARTÍCULO 72.
-
-Los representantes de los sectores privado y social que integren este tipo de organismos, lo harán en forma honorífica, y en tal virtud, no podrán ser considerados como servidores públicos en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, y en ningún caso intervendrán en asuntos de materia política y electoral.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-Para los efectos del presente Título y su correspondiente Capítulo, podrá aplicarse en lo que corresponda y de manera supletoria la Ley del Consejo Consultivo del Estado, así como el Capítulo Séptimo de los Consejos Consultivos Ciudadanos, de la Ley de Participación Ciudadana para el Estado de Oaxaca en lo que corresponda y la Ley Reglamentaria del Apartado C, fracción VI, del Artículo 25 Constitucional, que expida en su momento el Congreso del Estado.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2012)</small>
-
-## TÍTULO V. DE LA ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 2012)</small>
-
-### CAPÍTULO ÚNICO. PROCEDIMIENTO DE LA ENTREGA-RECEPCIÓN
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 73.
-
-El año en que de conformidad con los periodos constitucionales ocurra la transmisión del Poder Ejecutivo, el Gobernador del Estado determinará la fecha en que los titulares de las Dependencias y Entidades de la Administración Pública Estatal, iniciarán el proceso para elaborar los expedientes relativos a la entrega de los asuntos que se les hayan encomendado, para lo cual deberán:
-
-I. Agilizar los programas que tengan fecha de terminación anterior a la de toma de posesión del Gobernador electo, para su oportuno cumplimiento;
-
-II. Señalar el estado que guardan los programas con fecha de terminación posterior a la toma de posesión del Gobernador Electo, así como sus antecedentes, procedimientos a seguir y en su caso, los motivos por los que se encuentre retrasado su avance, el estado financiero y los anexos que correspondan;
-
-III. Ordenar y actualizar el inventario de bienes a su cuidado;
-
-IV. Vigilar que las normas y trámites de las Dependencias y Entidades a su cargo se sigan aplicando las primeras y realizando los segundos; y
-
-V. Formular las actas de Entrega-Recepción.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 74.
-
-El Gobernador del Estado emitirá el reglamento que contendrá las normas y procedimientos a que se sujetará la Entrega-Recepción de las Dependencias y Entidades de la Administración Pública Estatal.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 75.
-
-Los servidores públicos al momento de terminar con su encomienda, deberán entregar la Dependencia o Entidad, a su cargo, mediante Acta de Entrega-Recepción, en los términos de la normatividad aplicable;
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 76.
-
-Los titulares de las Dependencias y Entidades, por acuerdo del Gobernador del Estado, informarán al Gobernador electo o a quienes éste designe, sobre el estado de los asuntos que tengan encomendados, realizando con ellos las reuniones de trabajo que se requieran.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-###### ARTÍCULO 77.
-
-Las disposiciones del presente capítulo, también serán aplicables para el caso de que, por cualquier causa, ocurra relevo del cargo de Gobernador del Estado.
-
-T R A N S I T O R I O S
-
-PRIMERO.- La presente ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
-
-TERCERO.- En todos los casos en que por la aplicación de esta ley se modifique la estructura orgánica de la dependencia de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables.
-
-CUARTO.- Cuando una unidad administrativa se transfiera de una dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
-
-QUINTO.- Se faculta a la Secretaría de Finanzas y a la de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de las modificaciones a esta Ley.
-
-SEXTO.- Cuando en diversas disposiciones legales, se haga referencia a:
-
-La Coordinación General de Delegaciones de Gobierno, se entenderá que se refiere a la Coordinación General de Módulos de Desarrollo Sustentable;
-
-La Coordinación General del Comité de Planeación para el Desarrollo de Oaxaca, se entenderá que se refiere a la Secretaría de Finanzas, en lo que corresponde a las atribuciones en materia de planeación, programación y presupuestación; y se entenderá que se refiere a la Coordinación de Módulos de Desarrollo Sustentable en lo que respecta a las atribuciones de Desarrollo Social;
-
-La Secretaría de Obras Públicas, se entenderá que se refiere a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
-
-La Secretaría de Cultura, se entenderá que se refiere a la Secretaría de las Culturas y Artes de Oaxaca;
-
-La Secretaría de Turismo y la Secretaría de Economía, se entenderá que se refieren a la Secretaría de Turismo y Desarrollo Económico;
-
-La Secretaría de Desarrollo Rural, se entenderá que se refiere a la Secretaría de Desarrollo Agropecuario, Forestal y Pesca.
-
-La Secretaría de la Contraloría, se entenderá que se refiere a la Secretaría de la Contraloría y Transparencia Gubernamental;
-
-El mismo criterio se aplicará para los titulares de dichas dependencias. Las obligaciones y derechos derivados de contratos; convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
-
-SÉPTIMO.- El Congreso del Estado contará con un término de noventa días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento de la presente ley.
-
-Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
-
-DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- San Raymundo Jalpan, Centro, Oax., 29 de noviembre de 2010.
-
-DIP. EUFROSINA CRUZ MENDOZA
-
-PRESIDENTA.
-
-DIP. ZORY MARYSTEL ZIGA MARTÍNEZ
-
-SECRETARIA.
-
-DIP. ANGELA HERNÁNDEZ SOLÍS
-
-SECRETARIA.
-
-Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Tlalixtac de Cabrera, Centro, Oax., a 01 de diciembre del 2010.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-LIC. GABINO CUE MONTEAGUDO.
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-DR. EVENCIO NICOLÁS MARTÍNEZ RAMÍREZ.
-
-Y lo comunico a usted, para su conocimiento y fines consiguientes.
-
-SUFRAGIO EFECTIVO. NO REELECCION.
-
-"EL RESPETO AL DERECHO AJENO ES LA PAZ"
-
-Tlalixtac de Cabrera, Centro, Oax., a 01 de diciembre del 2010.
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-DR. EVENCIO NICOLÁS MARTÍNEZ RAMÍREZ.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 10 DE MARZO DE 2012.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. Los actos jurídicos y administrativos suscritos por el COPLADE se refieren al Comité de Planeación para el Desarrollo del Estado de Oaxaca. La Coordinación General del COPLADE se refiere a la Secretaría de Finanzas, en su área de planeación, programación y presupuesto.
-
-Los actos jurídicos y administrativos suscritos en lo que corresponde a las atribuciones del Coordinador de dicho Comité, se entenderá que se refieren al Secretario de Finanzas y en lo que corresponde a las del Secretario Técnico, al Subsecretario que corresponda en la estructura de la Secretaría de Finanzas; Secretaría y Subsecretaría a quienes se deberán transferir los recursos materiales y financieros con que operaba el COMITÉ ESTATAL DE PLANEACIÓN PARA EL DESARROLLO DE OAXACA, que se instaló por Acta de fecha doce de enero de dos mil once, que por este Artículo transitorio debe perfeccionar su integración conforme a lo ordenado en el capítulo y artículos que lo regulan en esta Ley.
-
-El Comité Estatal de Planeación para el Desarrollo de Oaxaca, deberá expedir su Reglamento Interior, los manuales de organización y procedimientos, dentro de los noventa días hábiles siguientes a la entrada en vigencia de la presente Ley.
-
-Por lo que respecta a las atribuciones de Desarrollo Social, los actos jurídicos y administrativos suscritos por la Coordinación General de Módulos de Desarrollo Sustentable, se entenderá que se refieren a la Secretaría de Desarrollo Social y Humano, a quien se transferirán los recursos materiales, financieros y humanos con los que venía operando la Coordinación General de Módulos de Desarrollo Sustentable que por esta Ley cambia de denominación a Módulos de Desarrollo Social.
-
-Atento a lo anterior, se faculta a las Secretarías de Administración, Finanzas, y de la Contraloría y Transparencia Gubernamental, para que realicen todos los trámites necesarios para cumplir con el presente transitorio.
-
-Cuando en diversas disposiciones legales, se haga referencia a:
-
-La Coordinación General de Módulos de Desarrollo Sustentable, se entenderá que se refieren a la Secretaría de Desarrollo Social y Humano, a quien se transferirán los recursos materiales, financieros y humanos con los que venía operando la Coordinación General de Módulos de Desarrollo Sustentable que por esta Ley cambia de denominación a Módulos de Desarrollo Social.
-
-La Coordinación General de Transporte del Estado de Oaxaca y todos los recursos materiales, financieros y humanos que por decreto venía ejerciendo se deberán transferir a la Secretaría de Vialidad y Transporte que por esta Ley se crea; por lo que se faculta a las Secretarías de Administración, Finanzas, y de la Contraloría y Transparencia Gubernamental, para que realicen todos los trámites necesarios para cumplir con el presente transitorio.
-
-Los módulos de maquinaria que por estructura pertenecen a la Coordinación General de Módulos de Desarrollo Sustentable, que por esta Ley cambia de denominación a Módulos de Atención Social, pasan a formar parte de la estructura de Caminos y Aeropistas de Oaxaca, por lo que se faculta a las Secretarías de Administración, Finanzas y de la Contraloría y Transparencia Gubernamental, para que realicen todos los trámites necesarios para cumplir con el presente ordenamiento.
-
-La Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado, adscrita a la Gubernatura y los recursos materiales, financieros y humanos con que venía operando, se transfieren al área de Comunicación Social de la Jefatura de la Gubernatura, facultándose a las Secretarías de la Contraloría y Transparencia Gubernamental, Administración y Finanzas, para que lleven a cabo los actos necesarios para la extinción y la transferencia, ordenados en este transitorio, de igual manera los actos jurídicos y administrativos realizados por la Coordinación General de Comunicación Social del Poder Ejecutivo del Gobierno del Estado, se entenderán que se refieren a la Jefatura de la Gubernatura.
-
-Los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, se transfieren a la Consejería Jurídica del Gobierno del Estado, por esta razón los actos jurídicos y administrativos suscritos por estas unidades administrativas adscritas a la Secretaría General de Gobierno, en lo subsecuente se entenderán que se refieren a los Talleres Gráficos del Gobierno del Estado, el Periódico Oficial del Gobierno del Estado, la Dirección General de Notarías y el Archivo General de Notarías, dentro de la estructura de la Consejería Jurídica del Gobierno del Estado.
-
-Por lo que todos los recursos materiales, financieros y humanos con que venían operando dentro de la estructura de la Secretaría General de Gobierno se deberán transferir a la Consejería Jurídica del Gobierno del Estado; por lo que se faculta a las Secretarías de Administración, Finanzas, y de la Contraloría y Transparencia Gubernamental, para que realicen todos los trámites necesarios para cumplir con el presente transitorio.
-
-El Jefe de la Oficina de la Gubernatura, se entenderán que se refiere al Órgano Auxiliar denominado Jefatura de la Gubernatura, que por esta Ley cambia de denominación.
-
-La Coordinación General de Financiamiento y Vinculación Internacional, se entenderán que se refieren al órgano auxiliar denominado Coordinación General de Asuntos Internacionales, que por esta Ley cambia de denominación.
-
-La Secretaria de Desarrollo Agropecuario, Forestal y Pesca, se entenderán que se refieren a la Secretaria de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura, que por esta Ley cambia de denominación.
-
-La Coordinación General de Educación Media Superior, Superior, Ciencia y Tecnología, se entenderán que se refieren al órgano auxiliar denominado Coordinación General de Educación Media Superior y Superior.
-
-La Coordinación General de Asesores se entenderá que se refieren a la Unidad administrativa correspondiente, adscrita a la Oficina del Gobernador.
-
-TERCERO. Los asuntos que con motivo de esta Ley deban pasar de una Dependencia o Entidad a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Dependencia, o Entidad que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
-
-Cuando en esta Ley se dé una denominación nueva o distinta a alguna Dependencia o Entidad cuyas funciones estén establecidas por ley anterior, dichas atribuciones se entenderán concedidas a la Dependencia o Entidad que determine esta Ley y demás disposiciones relativas.
-
-CUARTO. Se faculta al Titular de la Secretaría de Finanzas para que, en términos de lo establecido en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, y su Reglamento, así como, en el Decreto que autoriza el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal dos mil doce, realice los ajustes presupuestales que correspondan, para dar cumplimiento al presente Decreto, informando a la Legislatura del Congreso del Estado, para los efectos legales conducentes.
-
-QUINTO. En todos los casos que por la aplicación de esta Ley se modifique la estructura orgánica de las Dependencias y Entidades o Unidades Administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
-
-SEXTO. Cuando una Unidad Administrativa se transfiera de una Dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental.
-
-SÉPTIMO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de éste Decreto. De igual manera, se faculta para que dichas Secretarías realicen los cambios que se susciten de las estructuras de los órganos que por esta Ley se creen o extingan.
-
-OCTAVO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por esta Ley cambian de denominación y sector o se extinguen y transfieren sus recursos humanos, materiales y financieros a otras áreas o unidades, se entenderán subrogadas y contraídas por sus correlativas.
-
-NOVENO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias cuyas funciones se reforman por virtud de esta Ley, se entenderán referidas a las Dependencias a quienes, respectivamente, correspondan tales funciones.
-
-DÉCIMO. Los recursos humanos, financieros y materiales con que cuenten las áreas administrativas de las Dependencias, cuyas funciones se transfieren, por esta Ley, a otras Dependencias, pasarán a formar parte de éstos, a fin de apoyar el cumplimiento de los programas y metas que les corresponden.
-
-DECIMO PRIMERO. El Poder Ejecutivo realizará las reformas a la normatividad aplicable, para el cumplimiento de la presente Ley.
-
-DÉCIMO SEGUNDO. Para dar cumplimiento a la modernización administrativa en materia registral, el Titular del Poder Ejecutivo a la brevedad posible, instrumentará las medidas pertinentes y necesarias para que la Dirección del Registro Público de la Propiedad y del Comercio y el Instituto Catastral del Estado de Oaxaca, se fusionen en el Instituto Registral y Catastral de Oaxaca, como Órgano Descentralizado de la Administración Pública Estatal.
-
-DÉCIMO TERCERO. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
-
-P.O. 27 DE DICIEMBRE DE 2012.
-
-ÚNICO.- El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 8 DE NOVIEMBRE DE 2013.
-
-PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. El Ejecutivo del Estado deberá expedir las actualizaciones a las estructuras de las Dependencias, en un plazo de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
-
-Asimismo las actualizaciones a los reglamentos internos de las Dependencias, cuyas atribuciones se reforman o adicionan por este Decreto, deberán ser publicadas en un plazo de ciento sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto. Entre tanto, seguirán vigentes los reglamentos aplicables, en lo que no se opongan a esta Ley.
-
-TERCERO. La Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, se constituirá con los recursos humanos, materiales y financieros de las áreas del Poder Ejecutivo del Estado, que dentro del plazo máximo de treinta días determine la Secretaría de Administración, lo que deberá constar en el acta de entrega recepción, así mismo, se transferirán los asuntos que se encuentren en trámite concernientes a la Coordinación General, por lo que los mismos se entenderán hasta su conclusión con ésta Coordinación.
-
-CUARTO. Los instrumentos jurídicos y asuntos en trámite que venía desarrollando la Coordinación General de Asuntos Internacionales se entenderán y se continuarán con la Jefatura de la Gubernatura, en lo que corresponda a la vinculación diplomática y las relaciones internacionales; y con la Secretaría de Turismo y Desarrollo Económico en lo que se refiere a las relaciones comerciales y la vinculación para la gestión de fondos, asesoría técnica y cooperación tecnológica a nivel nacional e internacional.
-
-Los instrumentos jurídicos y asuntos en trámite que venía desarrollando el área administrativa de la Secretaría de Seguridad Pública, denominada Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública, se entenderán y se continuarán con el Órgano Desconcentrado de la Secretaría General de Gobierno, denominado Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
-
-Los instrumentos jurídicos y asuntos en trámite que venía desarrollando el área administrativa de la Secretaría de Administración, denominada Dirección del Archivo General del Estado, que por este Decreto cambia de denominación, se entenderán y se continuarán con el área administrativa de dicha Secretaría denominada Archivo Histórico del Estado.
-
-QUINTO. Los recursos materiales, financieros y humanos de la Secretaría de Seguridad Pública, destinados para la operación del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública, se transfieren al Órgano Desconcentrado de la Secretaría General de Gobierno, denominado Secretariado Ejecutivo del Sistema Estatal de Seguridad Publica.
-
-Las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental, normarán y coordinarán el proceso de entrega recepción conforme al ámbito de su competencia, normatividad vigente y dentro de los plazos establecidos por la misma.
-
-SEXTO. La emisión de manuales y demás normatividad requerida para la implementación y operación de las Delegaciones de la Contraloría y Transparencia Gubernamental, a que se refiere la fracción XXXII del artículo 47 del presente Decreto, deberá realizarse dentro de los 90 días naturales siguientes a la entrada en vigor de la presente Ley.
-
-Las Dependencias que hayan sido modificadas por este Decreto, en sus atribuciones y estructuras organizacionales, deberán contemplar en sus programas operativos anuales, para el ejercicio fiscal 2014, dichas modificaciones, en coordinación con las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas competencias.
-
-Tratándose de las Secretarías General de Gobierno, de Desarrollo Social y Humano, del Trabajo, y de Seguridad Publica, deberán de realizar las modificaciones a sus programas operativos anuales y presupuestos, así como, las transferencias de personal y bienes, a más tardar el último día hábil del ejercicio fiscal 2013.
-
-SÉPTIMO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias cuyas funciones se reforman por virtud de este Decreto se entenderán referidas a las dependencias a quienes, respectivamente, correspondan tales funciones.
-
-OCTAVO. En un plazo no mayor a 30 días la Secretaría del Trabajo elaborará los instrumentos jurídicos necesarios para recepcionar del Instituto de Capacitación para el Trabajo, el Servicio Nacional de Empleo Oaxaca, en cumplimiento a la fracción V del artículo 39 del presente ordenamiento.
-
-NOVENO. La Jefatura de la Gubernatura, deberá emitir en un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente decreto, las normas y/o lineamientos, señalados en las fracciones IV y VI del artículo 50 del presente ordenamiento.
-
-DÉCIMO. Los derechos de los trabajadores de las áreas administrativas que con motivo de este Decreto se modifican o se transfieren a otra dependencia, se respetarán conforme a las disposiciones normativas aplicables.
-
-UNDÉCIMO. Las obligaciones y derechos derivados de los contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las Dependencias, Órganos Auxiliares y Áreas administrativas, que por este Decreto cambian de denominación y sector o se extinguen y transfieren sus recursos humanos, materiales y financieros a otras áreas o unidades, se entenderán subrogadas y contraídas por sus correlativos.
-
-DUODÉCIMO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
-
-P.O. 28 DE NOVIEMBRE DE 2013.
-
-PRIMERO. El presente Decreto entrará en vigor a al (sic) día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan o contravengan al presente Decreto.
-
-TERCERO. (DEROGADO, P.O. 28 DE ENERO DE 2017)
-
-CUARTO. (DEROGADO, P.O. 28 DE ENERO DE 2017)
-
-QUINTO. (DEROGADO, P.O. 28 DE ENERO DE 2017)
-
-SEXTO. (DEROGADO, P.O. 28 DE ENERO DE 2017)
-
-P.O. 27 DE DICIEMBRE DE 2014.
-
-ÚNICO. El presente Decreto entrará en vigor el uno de enero del dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 2 DE ENERO DE 2015.
-
-ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 22 DE ABRIL DE 2015.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Cuando en diversas disposiciones legales, se haga referencia a:
-
-La Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura (SEDAFPA), se entenderá que se refiere a la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura (SEDAPA).
-
-El mismo criterio se aplicará al nombrar al titular de dicha dependencia. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por la dependencia que por virtud de esta Ley cambian de denominación, se entenderán subrogadas y contraídas por la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura.
-
-TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
-
-CUARTO. El Congreso del Estado contará con un término de sesenta días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento del presente Decreto a partir de su entrada en vigor.
-
-P.O. 31 DE DICIEMBRE DE 2015.
-
-### CAPÍTULO VI. DEL DESARROLLO, CONTROL Y EVALUACIÓN
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2024)</small>
+Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintiséis días del mes de Diciembre del año dos mil dieciséis.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. Jorge Armando Gómez Arias.- Rúbrica.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1386.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
 
@@ -3688,565 +1246,3 @@ OCTAVO.- Cuando en disposiciones normativas, se haga referencia a la Dirección 
 El mismo criterio se aplicará para los titulares de dichas instancias. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
 
 P.O. 28 DE ENERO DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 564.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA".]
-
-PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias y órganos auxiliares que por esta Ley cambian de denominación y/o sector, o se extinguen y transfieren sus recursos humanos, materiales y financieros se entenderán subrogadas y contraídas por sus correlativas.
-
-TERCERO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias y órganos auxiliares, cuyas funciones se reforman en virtud de esta Ley, se entenderán referidas a las Dependencias y Órganos Auxiliares a quienes respectivamente, corresponden tales funciones.
-
-CUARTO. Los recursos humanos, financieros y materiales que venía utilizando la Representación del Gobierno del Estado de Oaxaca en la Ciudad de México, se trasferirán a la Coordinación General de Enlace Federal y Relaciones Internacionales, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
-
-QUINTO. Los recursos humanos, financieros y materiales que venía utilizando la Coordinación General de Comunicación Social, se trasferirán a la Coordinación General de Comunicación Social y Vocería, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
-
-SEXTO. Las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento de la presente reforma.
-
-SÉPTIMO. Los asuntos que con motivo de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca; deban pasar de una dependencia u órgano auxiliar a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las unidades administrativas que los transfieren se incorporen a la Dependencia u órgano auxiliar que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
-
-OCTAVO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar los cambios en las estructuras orgánicas que por esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se crean o extingan, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente Decreto, sin afectar el presupuesto ya asignado, informando las adecuaciones programáticas a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto.
-
-NOVENO. En todos los casos que por la aplicación de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se modifique la estructura orgánica de las dependencias y órganos auxiliares o unidades administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
-
-DÉCIMO. Se faculta al Titular de la Secretaría de Finanzas para que, en términos de lo establecido en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, y su Reglamento, así como, en el Decreto que autoriza el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal dos mil diecisiete, realice los ajustes presupuestales que correspondan, para el cumplimiento del presente decreto, sin afectar el presupuesto ya asignado, informando dichos ajustes a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto, para los efectos legales conducentes.
-
-DÉCIMO PRIMERO. El Titular del Poder Ejecutivo en un término no mayor a treinta días hábiles siguientes al de la entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2017)</small>
-
-DÉCIMO SEGUNDO. Con motivo de la derogación del artículo 47 Bis de la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca y transitorios TERCERO; CUARTO; QUINTO y SEXTO del decreto Núm. 2068, publicado en el Extra del Periódico Oficial del Gobierno del Estado el 28 de noviembre de 2013, que se realiza a través del presente Decreto, el Poder Ejecutivo del Estado de Oaxaca a través de la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, revisará y en su caso actualizará el Programa de Ordenamiento Ecológico Regional del Territorio del Estado de Oaxaca, informando dicha actualización a la Legislatura del Congreso del Estado.
-
-DÉCIMO TERCERO. Los archivos, expedientes y mobiliario que tenga en resguardo la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura (SEDAPA) respecto a la facultad a que aludía la fracción XXIII, del artículo 44, que por este decreto se transfiere a la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, pasarán a formar parte del Inventario de esta última Secretaría, así como los recursos humanos, financieros y materiales con que cuente la SEDAPA, para la operación de dicha facultad, informando los ajustes presupuestales a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto.
-
-DÉCIMO CUARTO. Los Subcomités que se hayan instalado previamente a las reformas de la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca, publicada en el Periódico Oficial No. 46, séptima Sección del 12 de noviembre de 2016, a que se refiere el presente Decreto, deberán ajustar su integración en un término de quince días hábiles contados a partir de la entrada en vigor del Reglamento de la Ley señalada.
-
-El Reglamento de la Ley, a que alude el párrafo anterior, deberá publicarse por lo menos dentro de los quince días hábiles siguientes al de la entrada en vigor del presente Decreto.
-
-En consecuencia se deroga el Transitorio Quinto, del citado Decreto 2091, mediante el cual se aprueba la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca.
-
-DÉCIMO QUINTO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
-
-P.O. 10 DE MARZO DE 2017.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 572.- MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 13 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 18 DE MARZO DE 2017.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 576.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO NÚMERO 564 EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE OAXACA EL VEINTIOCHO DE ENERO DE DOS MIL DIECISIETE".]
-
-ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 21 DE ABRIL DE 2017.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 578.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL MONTE DE PIEDAD DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA.”]
-
-PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las áreas administrativas a través de la Secretaría de Administración, que por este Decreto se transfieren o cambian de sector, o se extinguen y transfieren sus recursos humanos, materiales y financieros se entenderán subrogadas y contraídas por sus correlativas.
-
-TERCERO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las áreas y entidades, cuyas funciones se reforman en virtud de esta Ley, se entenderán referidas a las áreas y entidades a quienes respectivamente, corresponden tales funciones.
-
-CUARTO. Los recursos humanos, financieros y materiales que venía utilizando el área administrativa de Giras, el Hangar y Casa Oficial bajo la administración de la Secretaría de Administración, se trasferirán a la Secretaría de Finanzas, debiendo intervenir en el ámbito de sus competencias; la Secretaría de la Contraloría y Transparencia Gubernamental.
-
-QUINTO. Las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento del presente Decreto.
-
-SEXTO. Los asuntos que con motivo de estas reformas, deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las áreas administrativas que se trasfieren se incorporen a la Dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
-
-SÉPTIMO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar los cambios en las estructuras orgánicas que por esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se derogan o transfieren, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente Decreto, informando las adecuaciones a la Legislatura del Congreso del Estado.
-
-OCTAVO. En todos los casos que por la aplicación de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se modifique la estructura orgánica de las áreas administrativas y entidades o sus áreas administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
-
-NOVENO. Se faculta al Titular de la Secretaría de Finanzas para que, en términos de lo establecido en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, y su Reglamento, así como en el Decreto que autoriza el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal dos mil diecisiete, realice los ajustes presupuestales que correspondan, para el cumplimiento del presente Decreto, informando a la Legislatura del Congreso del Estado, para los efectos legales conducentes.
-
-DÉCIMO. El Consejo de Administración del Monte de Piedad deberá quedar instalado dentro de los siguientes 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
-
-DÉCIMO PRIMERO. El Titular del Poder Ejecutivo en un término no mayor a 60 días hábiles siguientes al de la entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
-
-P.O. 24 DE ABRIL DE 2017.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 595.- MEDIANTE EL CUAL SE ADICIONAN LA FRACCIÓN VI AL ARTICULO 33 Y EL ARTICULO 54 BIS; Y SE DEROGA LA FRACCIÓN XXXV DEL ARTICULO 34 A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
-
-TERCERO.- En todos los casos en que por la aplicación de este Decreto se modifique la estructura orgánica de la reciente dependencia de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables.
-
-CUARTO.- Cuando una unidad administrativa se transfiera de una dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, la Secretaría de Finanzas y la Secretaría de Administración.
-
-P.O. 20 DE MAYO DE 2017.
-
-## [N. DE E. TRANSITORIOS DE LAS “PARTES NO VETADAS.- DEL DECRETO NÚMERO 603, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE OAXACA; DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA Y DE LA LEY ESTATAL DE PLANEACIÓN”.]
-
-PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. La Junta de Gobierno de la Comisión deberá quedar instalada dentro de los treinta días naturales siguientes, al día de la entrada en vigor del presente Decreto.
-
-La Comisión deberá expedir su Reglamento Interno dentro de los treinta días naturales siguientes, al día de su instalación.
-
-TERCERO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por la Secretaría de Administración respecto a la Dirección de Tecnologías de la Información, así como las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de (sic) Dirección de Tecnologías de la Información se entenderán subrogadas, contraídas y referidas, por el Área administrativa de la Secretaría de Finanzas que lleve a cabo las atribuciones correspondientes a tecnologías de la información, que por esta reforma se le atribuyen a la citada Secretaría de Finanzas.
-
-CUARTO. Los recursos humanos, financieros y materiales que venía utilizando la Dirección de Tecnologías de la Información, de la Secretaría de Administración, se transferirán en un plazo no mayor a treinta días hábiles, al Área administrativa de la Secretaría de Finanzas que lleve a cabo las atribuciones correspondientes a tecnologías de la información, debiendo intervenir en el ámbito de sus competencias, la Secretaría de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
-
-QUINTO. Los asuntos que con motivo de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca; deban pasar de una dependencia u órgano auxiliar a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las unidades administrativas que los transfieren se incorporen a la Dependencia u órgano auxiliar que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
-
-SEXTO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas competencias, para realizar los cambios en las estructuras orgánicas, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente Decreto, informando las adecuaciones programáticas a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto.
-
-SÉPTIMO. En todos los casos que por la aplicación de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se modifique la estructura orgánica de las dependencias y áreas administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
-
-OCTAVO. Se faculta al Titular de la Secretaría de Finanzas para que, en términos de lo establecido en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, y su Reglamento, así como en el Decreto que autoriza el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal dos mil diecisiete, realice los ajustes presupuestales que correspondan, para el cumplimiento del presente decreto, sin afectar el presupuesto ya asignado, informando dichos ajustes a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto, para los efectos legales conducentes.
-
-Las Secretarías citadas en el párrafo que antecede, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento de la presente reforma.
-
-NOVENO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se le opongan, aun cuando no estén expresamente derogadas.
-
-P.O. 20 DE OCTUBRE DE 2017.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 705.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA".]
-
-ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
-
-P.O. 20 DE DICIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 780.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA".]
-
-ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciocho, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 17 DE FEBRERO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1396.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto aun cuando no estén expresamente derogadas.
-
-TERCERO. (DEROGADO, P.O. 10 DE OCTUBRE DE 2018)
-
-CUARTO. (DEROGADO, P.O. 10 DE OCTUBRE DE 2018)
-
-QUINTO. El Gobernador del Estado a través de las Secretarías de Finanzas, de Administración y de la Contraloria y Transparencia Gubernamental, en el ámbito de sus respectivas atribuciones realizarán las acciones necesarias para el cumplimiento del presente Decreto.
-
-P.O. 2 DE AGOSTO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1532.- MEDIANTE EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-TERCERO. El Congreso del Estado del (sic) Oaxaca, contará con un plazo de sesenta días posteriores a la publicación del presente Decreto, para realizar las modificaciones necesarias a los ordenamientos legales que hagan posible la aplicación del presente Decreto.
-
-CUARTO. Cuando en diversas disposiciones legales, se haga referencia a la Secretaría de Vialidad y Transporte, se entenderá que se refiere a la Secretaría de Movilidad.
-
-QUINTO. Los asuntos en trámite que venía desarrollando la Secretaría de Vialidad y Transporte, se entenderán y se continuarán ante la Secretaría de Movilidad, conforme a la normatividad vigente al momento de su inicio y en lo que no contravenga al presente Decreto.
-
-SEXTO. Los servidores públicos adscritos a la Secretaría de Vialidad y Transporte, que con motivo de este Decreto cambia de denominación, pasarán, sin afectar sus derechos laborales y de prestaciones sociales, a formar parte de la Secretaría de Movilidad.
-
-SÉPTIMO. El Gobernador del Estado a través de las Secretarías de Finanzas, Administración y de la Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas atribuciones realizarán las acciones necesarias para el cumplimiento del presente Decreto.
-
-P.O. 10 DE OCTUBRE DE 2018.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1587.- MEDIANTE EL CUAL SE DEROGAN LOS ARTÍCULOS TRANSITORIOS TERCERO Y CUARTO DEL DECRETO 1396, PUBLICADO EL 17 DE FEBRERO DE 2018, POR EL QUE SE REFORMÓ, ADICIONÓ Y DEROGARON DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 10 DE NOVIEMBRE DE 2018.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1620.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 10 DE NOVIEMBRE DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1627.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE OAXACA”.]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. Se derogan todas aquellas normas de igual o menor rango que se opongan al presente Decreto, aunque no estén expresamente derogadas
-
-TERCERO. La Unidad Administrativa encargada de la realización de las atribuciones concedidas a la Secretaría de Finanzas por virtud del presente Decreto deberá iniciar su operación en un plazo no mayor de 90 días hábiles contados a partir de la publicación del mismo, para lo cual deberán asignarse los recursos humanos, materiales, financieros y presupuestales necesarios, para su adecuada operación.
-
-Todos los servidores públicos que presten sus servicios en la referida Unidad deberán someterse a la certificación de control de confianza a la que se refiere la Ley General del Sistema Nacional de Seguridad Pública, para cuyo efecto, la Secretaría de Finanzas podrá celebrar los convenios correspondientes con las entidades facultadas para la realización de dicha certificación.
-
-P.O. 10 DE NOVIEMBRE DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1673.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- La Comisión del Servicio Profesional de Carrera, y Comisión de Honor y Justicia, deberá instalarse a más tardar dentro de los sesenta días naturales, contados a partir de la entrada en vigor de las reformas a la Ley del Sistema Estatal de Seguridad Pública de Oaxaca. Los asuntos iniciados ante el Consejo Estatal de Desarrollo Policial, previo a la entrada en vigor de las reformas y adiciones a la Ley del Sistema Estatal de Seguridad Pública de Oaxaca, deberán culminarse con las disposiciones normativas vigentes hasta la entrada en vigor.
-
-TERCERO.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a lo establecido en el presente Decreto.
-
-P.O. 10 DE NOVIEMBRE DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1674.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
-
-P.O. 27 DE ABRIL DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 632.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-TERCERO. Cuando en diversas disposiciones legales, se haga referencia a la Secretaría de Asuntos Indígenas, se entenderá que se refiere a la Secretaría de Pueblos Indígenas y Afromexicano.
-
-CUARTO. Los asuntos en trámite que venía desarrollando la Secretaría de Asuntos Indígenas se entenderán y se continuarán ante la Secretaría de Pueblos Indígenas y Afromexicano, conforme a la normatividad vigente al momento de su inicio y en lo que no contravenga al presente Decreto.
-
-QUINTO. Los servidores públicos adscritos a la Secretaría de Asuntos Indígenas, que con motivo de este Decreto cambia de denominación, pasarán sin afectar sus derechos laborales y prestaciones sociales, a formar parte de la Secretaría de Pueblos Indígenas y Afromexicano.
-
-SEXTO. El Titular de la Secretaría de Pueblos Indígenas y Afromexicano, deberá constituir el Consejo Consultivo de Pueblos Indígenas y Afromexicano de Oaxaca, en un plazo no mayor a treinta días a partir de la entrada en vigor del presente Decreto.
-
-SÉPTIMO. El Titular del Poder Ejecutivo, expedirá el Reglamento Interno de la Secretaría de Pueblos Indígenas y Afromexicano, en un plazo no mayor a treinta días contados a partir de la entrada en vigor del presente Decreto.
-
-OCTAVO. Se derogan todas las disposiciones de igual o menos jerarquía que se opongan al presente Decreto.
-
-P.O. 15 DE MAYO DE 2019.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 612.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 15 DE MAYO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 613.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. El presente Decreto entrará en vigor al 01 de Diciembre de 2022.
-
-P.O. 15 DE FEBRERO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1192.- MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PLANEACIÓN; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno. del Estado.
-
-TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
-
-CUARTO. En un término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán expedir los formatos y procedimientos a que hace referencia la fracción II del artículo 102 de la Ley Estatal de Planeación.
-
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
-
-P.O. 12 DE MARZO DE 2020.
-
-REPUBLICADO, P.O. 12 DE MARZO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1189.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3, LA FRACCIÓN IX DEL ARTÍCULO 27, LA FRACCIÓN I DEL ARTÍCULO 37, EL ARTÍCULO 42, FRACCIÓN XV DEL ARTÍCULO 46-C, LA FRACCIÓN XXVII DEL ARTÍCULO 47, LA FRACCIÓN XXIX DEL ARTÍCULO 49; SE ADICIONAN UN SEGUNDO, TERCER Y CUARTO PÁRRAFO DEL ARTÍCULO 3; SE DEROGAN LA FRACCIÓN V DEL ARTÍCULO 33, LA FRACCIÓN XXX DEL ARTÍCULO 49 Y EL ARTÍCULO 54, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. Los derechos laborales de los trabajadores adscritos a la Coordinación General de Enlace Federal y Relaciones Internacionales que por este Decreto se derogan, serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás normatividad aplicable.
-
-TERCERO. Los recursos humanos, financieros y materiales etiquetados para la Coordinación General de Enlace Federal y Relaciones Internacionales, pasarán a las áreas administrativas que sean creadas por el Titular del Poder Ejecutivo, para atender las funciones y atribuciones que sus instrumentos de creación contengan.
-
-CUARTO. Se faculta a la Secretaría de Finanzas, a la Secretaría de Administración; y a la Secretaría de la Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas competencias, para llevar a cabo los actos y gestiones necesarias a efecto de que se materialice lo ordenado en el presente Decreto.
-
-QUINTO. Los asuntos en trámite que venía desarrollando la Secretaría de Desarrollo Social y Humano, se entenderán y se continuarán ante la Secretaría de Bienestar del Estado de Oaxaca, conforme a la normatividad vigente al momento de su inicio y en lo que no contravenga al presente Decreto.
-
-SEXTO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por la Secretaría de Desarrollo Social y Humano, que con motivo del presente decreto cambian de denominación se entenderán subrogadas y contraídas por sus correlativas.
-
-SÉPTIMO. Los servidores públicos adscritos a la Secretaría de Desarrollo Social y Humano, que con motivo del presente decreto cambian de denominación, pasarán sin afectar sus derechos laborales y de prestaciones sociales, a formar parte de la Secretaría de Bienestar del Estado de Oaxaca.
-
-OCTAVO. La Secretaría de Desarrollo Social y Humano, que con motivo de este Decreto, cambian (sic) de denominación, podrá continuar utilizando sus logotipos actuales y papelería oficial, hasta en tanto cuenten con la suficiencia presupuestal para actualizarlos a su nueva denominación.
-
-NOVENO. Se derogan las disposiciones de igual o menor jerarquía normativa, que se opongan al presente Decreto.
-
-P.O. 29 DE ABRIL DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2493.- MEDIANTE EL CUAL, ADICIONAN LAS FRACCIONES XX BIS Y XXXIV BIS AL ARTÍCULO 46 Y SE DEROGAN LAS FRACCIONES LIV Y LVII AL ARTÍCULO 45 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
-
-PRIMERO. El presente Decreto entrera (sic) en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. Publíquese el presente Decreto el en (sic) Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-TERCERO. Los asuntos que con motivo de este Decreto deberán pasar a la Secretaría de Administración, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Secretaría de Administración, a través de la Entidad o el Órgano que se cree para dicho fin, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
-
-CUARTO. Cuando la Coordinación del Hangar Oficial del Gobierno de Oaxaca se transfiera a la Secretaría de Administración, se hará incluyendo los recursos humanos, financieros y materiales que venían utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental.
-
-QUINTO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación de este Decreto. De igual manera, se faculta para que dichas Secretarías realicen los cambios que se susciten de las estructuras de los Órganos que por este Decreto se crean o extingan. Dichos cambios y adecuaciones deberán concluirse a más tardar 120 días hábiles a partir de la entrada en vigor del presente Decreto.
-
-SEXTO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las Unidades Administrativas de la Secretaría de Finanzas que por esta Ley que contempla este Decreto, cambian de denominación y sector transfieren sus recursos humanos, materiales y financieros a otras áreas o unidades, se entenderán subrogadas y contraídas por sus correlativas.
-
-SÉPTIMO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición respecto de las dependencias cuyas funciones se reforman por virtud de esta Ley, se entenderán referidas a las Dependencias o Entidades a quienes, respectivamente correspondan tales funciones.
-
-OCTAVO. El Poder Ejecutivo realizará las reformas a los Reglamentos Interiores de las Secretarías de Finanzas y de Administración, y a la demás normatividad aplicable, para el cumplimiento del presente Decreto, a más tardar 120 días hábiles a partir de la entrada en vigor del presente Decreto.
-
-NOVENO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga al presente Decreto, aún cuando no estén expresamente derogadas.
-
-P.O. 5 DE MAYO DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2494.- MEDIANTE EL CUAL DEROGAN LA FRACCIÓN I DEL ARTÍCULO 33 Y EL ARTÍCULO 50, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. Publíquese este Decreto en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-TERCERO. Se continuará respetando los derechos laborales adquiridos de los servidores públicos que llevan a cabo funciones dentro de la Jefatura de la Gubernatura.
-
-CUARTO. El despacho de los asuntos que le correspondían a la Jefatura de la Gubernatura, serán realizados por las instancias que se determinen en los instrumentos jurídicos correspondientes.
-
-QUINTO. Cuando en las diversas disposiciones normativas se refieran a la Jefatura de la Gubernatura, se entenderán que se encuentran a cargo de las instancias a que hace referencia el artículo anterior.
-
-SEXTO. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto a este Decreto.
-
-P.O. 28 DE AGOSTO DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2529.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 52 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA; Y SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 34 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 18 DE SEPTIEMBRE DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2636.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XLII Y XLIII DEL ARTÍCULO 34, Y LAS FRACCIONES VI, VIII, XII, XIII, XIV, XV, XVII, XX, XXII, XXIII, XXVII Y XXX DEL ARTÍCULO 46-A; SE ADICIONA LA FRACCIÓN XXXI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 46-A; Y SE DEROGAN LAS FRACCIONES XVIII, XXI, XXIV, XXV, XXVIII Y XXIX DEL ARTICULO 46-A, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 9 DE ABRIL DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 578.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y EL PÁRRAFO TERCERO DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 30 DE JULIO DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 618.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 43 DE LA LEY ORGÁNICA DE PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 15 DE OCTUBRE DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 684.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3 DE LA LEY ORGÁNICA DE PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 30 DE NOVIEMBRE DE 2022.
-
-[N. DE. E. TRANSITORIOS DEL “DECRETO NÚM. 730.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DÉCIMO PRIMERO DEL ARTICULO 137, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN LA FRACCION I DEL ARTÍCULO 3, EL PÁRRAFO PRIMERO DEL ARTÍCULO 26 Y LOS PÁRRAFOS PRIMERO Y SEGUNDO, Y LA FRACCIÓN XI DEL ARTÍCULO 49 BIS, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria.
-
-TERCERO. El H. Congreso del Estado de Oaxaca deberá armonizar la legislación estatal que corresponda con lo dispuesto en el presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de la fecha de su entrada en vigor.
-
-CUARTO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
-
-QUINTO. La Creación del Instituto de Planeación para el Bienestar no representa impacto presupuestal alguno, toda vez que utilizará los recursos asignados a la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
-
-P.O. 30 DE NOVIEMBRE DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 731.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y la Gaceta Parlamentaria, para los efectos correspondientes.
-
-TERCERO. El H. Congreso del Estado de Oaxaca deberá armonizar la legislación estatal que corresponda con lo dispuesto en el presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de la fecha de su entrada en vigor.
-
-CUARTO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
-
-QUINTO. El Instituto Estatal de Educación Pública de Oaxaca, mantendrá sus facultades, atribuciones y competencias conforme a las leyes y decretos vigentes de la materia.
-
-SEXTO. El titular del Poder Ejecutivo del Estado de Oaxaca deberá prever la realización de los actos, los procesos administrativos y la asignación de los recursos financieros, humanos y materiales que sean necesarios para el funcionamiento y operación de las Secretarías de Educación Pública del Estado de Oaxaca, la Secretaría del Trabajo del Estado de Oaxaca y del órgano auxiliar denominado Jefatura del Gabinete, en el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal 2023, y subsecuentes.
-
-SÉPTIMO. La Secretaría de Administración en coordinación con la Secretaría de Finanzas, ambas del Gobierno del Estado, dentro del ámbito de sus respectivas competencias, autorizará las estructuras orgánicas de las Secretarías de Educación Pública del Estado de Oaxaca, la Secretaría del Trabajo del Estado de Oaxaca y del órgano auxiliar denominado Jefatura del Gabinete a los que se refiere el presente Decreto y, en su caso, realizará los cambios de adscripción del personal que sean necesarios, respetando en todo momento los derechos laborales adquiridos, con independencia de donde se encontraban adscritos.
-
-OCTAVO. La Creación del Instituto de Planeación para el Bienestar no representa impacto presupuestal adicional alguno, toda vez que utilizará para su funcionamiento los recursos asignados a la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
-
-NOVENO. El titular del Poder Ejecutivo del Estado de Oaxaca deberá expedir las disposiciones reglamentarias que deriven del presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de la fecha de su entrada en vigor.
-
-P.O. 23 DE FEBRERO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 874.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 42 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, para los efectos correspondientes.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-TERCERO. El titular del Poder Ejecutivo del Estado de Oaxaca deberá expedir las disposiciones reglamentarias que deriven del presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de la fecha de su entrada en vigor.
-
-P.O. 29 DE MARZO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1080.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 26; SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 26, EL ARTÍCULO 26 BIS, LA FRACCIÓN XIX DEL ARTÍCULO 27, Y EL ARTÍCULO 33 BIS; SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 33 Y EL ARTÍCULO 50, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
-
-CUARTO. Se deroga el Decreto por el que se crea la Dirección General de la Instancia Técnica de Evaluación, Órgano Desconcentrado de la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, publicado en el Periódico Oficial del Estado el 13 de julio del 2021.
-
-QUINTO. Se transfieren a la Jefatura de Gabinete los recursos humanos, financieros y materiales, junto con los archivos y expedientes asignados a la Dirección General de la Instancia Técnica de Evaluación, que se derogó por el Decreto Legislativo 731, publicado el 30 de noviembre de 2022 en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEXTO. Los actos administrativos celebrados por la Dirección General de la Instancia Técnica de Evaluación, y toda mención que refiera a la Instancia Técnica de Evaluación, se entenderá que se refieren a la Jefatura de Gabinete.
-
-SÉPTIMO. Se transfieren a la Jefatura de Gabinete los recursos humanos, financieros y materiales, junto con los archivos y expedientes asignados a la anteriormente denominada Coordinación de Atención Ciudadana y Vinculación Social, actual Dirección de Atención Ciudadana, adscrita a la Secretaría de Gobierno del Estado de Oaxaca.
-
-OCTAVO. Se transfieren a la Jefatura de Gabinete los recursos humanos, financieros y materiales, junto con los archivos y expedientes asignados a la anteriormente denominada Unidad de Control de Gestión de Gubernatura, actual Unidad de Organización Documental, adscrita a la Secretaría Técnica del Titular del Poder Ejecutivo.
-
-P.O. 1 DE ABRIL DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1074.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 91 Y LA FRACCIÓN VI DEL ARTÍCULO 126 QUINQUIES, AMBOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN X DEL ARTÍCULO 38 Y EL NUMERAL 6 DEL ARTÍCULO 44, AMBOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 91 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN X DEL ARTÍCULO 23 DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA; REFORMA EL INCISO N. Y SE ADICIONA EL INCISO Ñ. DE LA FRACCIÓN I DEL ARTÍCULO 44; REFORMA EL INCISO M. Y SE ADICIONA EL INCISO N. DE LA FRACCIÓN I DEL ARTÍCULO 45; REFORMA EL INCISO L. Y SE ADICIONA EL INCISO M. DE LA FRACCIÓN I DEL ARTÍCULO 46; SE REFORMA EL INCISO K) Y SE ADICIONA EL INCISO L) DE LA FRACCIÓN I DEL ARTÍCULO 46 BIS, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA; REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA EL PÁRRAFO SEGUNDO RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 143 DE LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA; ADICIONAN LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO DEL ARTÍCULO 175 Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 179 TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA”.]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
-
-P.O. 15 DE JULIO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1450.- MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 39 Y SE ADICIONA LA FRACCIÓN XXII BIS DEL ARTÍCULO 46-A, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
-
-SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-P.O. 29 DE JULIO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1451.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXXIX AL ARTÍCULO 4 DE LA LEY DE ARCHIVOS PARA EL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN XII AL ARTÍCULO 2 DE LA LEY DE ENTREGA-RECEPCÍON DE LOS RECURSOS Y BIENES DEL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 45, EL PRIMER PÁRRAFO Y LAS FRACCIONES X Y XX DEL ARTÍCULO 47 Y LA FRACCION XIV DEL ARTÍCULO 49 BIS TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
-
-P.O. 17 DE AGOSTO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1513.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES V, VI Y VII AL ARTÍCULO 20 DE LA LEY DE ENTIDADES PARA ESTATALES DEL ESTADO DE OAXACA; Y SE REFORMA EL ARTÍCULO 60 Y SE DEROGA LA FRACCIÓN LVIII DEL ARTÍCULO 45 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en el portal del Congreso del Estado.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
-
-P.O. 31 DE ENERO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1719.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES II, III, IV, V, VI, VII, VIII, IX, XV, XVII, XX, XXVI, XXVII Y XXXI; Y SE ADICIONAN LAS FRACCIONES XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX Y XL DEL ARTICULO 46-A DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-TERCERO. Se extingue el Instituto para el Fomento y la Protección de las Artesanías, como Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio.
-
-CUARTO. Se abroga la Ley que crea el Instituto para el Fomento y la Protección de las Artesanías, publicada el 4 de diciembre de 2004, en el Periódico Oficial del Gobierno del Estado.
-
-QUINTO. Se extingue el Instituto Oaxaqueño del Emprendedor y de la Competitividad como Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio.
-
-SEXTO. Se abroga la Ley que crea el Instituto Oaxaqueño del Emprendedor y de la Competitividad, publicada el 15 de octubre de 2016, en el Periódico Oficial del Gobierno del Estado.
-
-SÉPTIMO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las áreas administrativas del Instituto para el Fomento y la Protección de las Artesanías, o del Instituto Oaxaqueño del Emprendedor y de la Competitividad, que por este Decreto se extinguen, se entenderán contraídas por sus correlativas.
-
-OCTAVO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las áreas y entidades, cuyas funciones se reforman en virtud de esta Ley, se entenderán referidas a las áreas y entidades a quienes respectivamente, corresponden tales funciones.
-
-NOVENO. Los recursos humanos, financieros y materiales que venía utilizando el Instituto para el Fomento y la Protección de las Artesanías, y el Instituto Oaxaqueño del Emprendedor y de la Competitividad, se transferirán a la Secretaría de Desarrollo Económico, debiendo intervenir en el ámbito de sus competencias, la Secretaría de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública.
-
-DÉCIMO. Las Secretarías de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento del presente Decreto.
-
-DÉCIMO PRIMERO. Los asuntos que con motivo de estas reformas deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las áreas administrativas que se transfieren se incorporen a la Dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
-
-DÉCIMO SEGUNDO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar los cambios en las estructuras orgánicas que por esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se derogan o transfieren, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente Decreto.
-
-DÉCIMO TERCERO. Los nombramientos por condición laboral de Mandos Medios y Superiores otorgados desde la creación de Instituto para el Fomento y la Protección de las Artesanías, y del Instituto Oaxaqueño del Emprendedor y de la Competitividad, quedan sin efecto, por lo que los servidores públicos salientes deberán realizar las transferencias y procesos de entrega-recepción a la Secretaría de Desarrollo Económico.
-
-Los derechos laborales de los empleados de base que en su caso estén adscritos al Instituto para el Fomento y la Protección de las Artesanías, o al Instituto Oaxaqueño del Emprendedor y de la Competitividad, se respetarán conforme a las disposiciones normativas aplicables.
-
-DÉCIMO CUARTO. Se faculta al Instituto para el Fomento y la Protección de las Artesanías, y al Instituto Oaxaqueño del Emprendedor y de la Competitividad, para que, dentro del plazo máximo de 90 días naturales contados a partir de la publicación del presente Decreto, concluya ante las instancias competentes los trámites administrativos de índole presupuestal, contable, fiscal y en materia de transparencia, para dar cumplimiento al presente Decreto.
-
-DÉCIMO QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
-
-P.O. 31 DE ENERO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1720- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN I DEL ARTÍCULO 3, EL ARTÍCULO 26, LA FRACCIÓN XXXIII DEL ARTÍCULO 45, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 58, EL ARTÍCULO 64, EL PRIMER PÁRRAFO DEL ARTÍCULO 65; SE ADICIONAN LAS FRACCIONES XLV Y XLVI Y SE RECORRE LA FRACCIÓN SUBSECUENTE DEL ARTÍCULO 34; LA FRACCIÓN LIX Y SE RECORRE LA FRACCIÓN SUBSECUENTE DEL ARTÍCULO 45, LA FRACCIÓN XXV Y SE RECORRE LA FRACCIÓN SUBSECUENTE DEL ARTÍCULO 49 BIS, Y; SE DEROGAN EL ARTÍCULO 26 BIS, LA FRACCIÓN XIX DEL ARTÍCULO 27, EL ARTÍCULO 33 BIS, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-TERCERO. Se extingue la Jefatura de Gabinete; por lo que el Titular del Poder Ejecutivo Estatal en el ámbito de su competencia deberá dejar sin efectos las disposiciones normativas que se contravengan al objeto del presente Decreto.
-
-CUARTO. Las funciones, facultades y/o atribuciones que estaban encomendadas a la Jefatura de Gabinete como Instancia Técnica de Evaluación, específicamente en ese rubro, serán ejercidas por la Secretaría de Finanzas.
-
-El Titular del Poder Ejecutivo del Estado, en el plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar y/o proponer las adecuaciones a la normatividad correspondiente.
-
-QUINTO. Los recursos humanos, financieros y materiales etiquetados para la Jefatura de Gabinete, pasarán a las Áreas Administrativas que sean creadas o transferidas por el Titular del Poder Ejecutivo, para atender las funciones y atribuciones que contengan.
-
-SEXTO. Se extingue el Organismo Público Descentralizado denominado "Dirección General de Población de Oaxaca".
-
-SÉPTIMO. Se abroga el Decreto de creación del Organismo Público Descentralizado denominado "Dirección General de Población de Oaxaca" y sus reformas, publicadas el 10 de enero de 1998 y 25 de marzo de 2022, respectivamente, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-OCTAVO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las áreas administrativas de la Dirección General de Población de Oaxaca y Jefatura de Gabinete que por este Decreto se extinguen, se entenderán contraídas por sus correlativas.
-
-NOVENO. Los recursos humanos, financieros y materiales que venía utilizando la Dirección General de Población de Oaxaca, se transferirán a la Secretaría de Gobierno, debiendo intervenir en el ámbito de sus competencias, la Secretaría de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública.
-
-DÉCIMO. Las Secretarías de Finanzas, de Administración y de Honestidad, Transparencia y Función Pública, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento del presente Decreto.
-
-DÉCIMO PRIMERO. Los asuntos que con motivo de estas reformas deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las áreas administrativas que se transfieren se incorporen a la Dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
-
-DÉCIMO SEGUNDO. Los nombramientos por condición laboral de Mandos Medios y Superiores otorgados desde la creación de la "Dirección General de Población de Oaxaca" y de "Jefatura de Gabinete" quedan sin efecto, por lo que los servidores públicos salientes deberán realizar las transferencias y procesos de entrega-recepción correspondientes.
-
-Los derechos laborales de los empleados de base se respetarán conforme a las disposiciones normativas aplicables.
-
-DÉCIMO TERCERO. Se faculta a la Dirección General de Población de Oaxaca y a la Jefatura de Gabinete, para que, dentro del plazo máximo de 90 días naturales contados a partir de la publicación del presente Decreto, concluyan ante las instancias competentes los trámites administrativos de índole presupuestal, contable, fiscal y en materia de transparencia, para dar cumplimiento al presente Decreto.
-
-DÉCIMO CUARTO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición respecto de la Dirección General de Población de Oaxaca y la Jefatura de Gabinete por virtud del presente Decreto, se entenderán referidas a las Dependencias o Entidades a quienes, respectivamente, correspondan tales funciones.
-
-P.O. 31 DE ENERO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1721.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI, y SE ADICIONAN LAS FRACCIONES XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV y XXV AL ARTÍCULO 38; SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 33, Y EL ARTÍCULO 53 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-TERCERO. Se extingue la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología; por lo que el Titular del Poder Ejecutivo Estatal en el ámbito de su competencia deberá dejar sin efectos las disposiciones normativas que se contravengan al objeto del presente decreto.
-
-CUARTO. Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones de la extinta Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, se entenderán que se refieren en lo concerniente al contenido del presente Decreto, a la Secretaría de Educación Pública.
-
-QUINTO. Los recursos materiales y financieros que formen parte del patrimonio de la a (sic) Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, pasarán a formar parte de los activos de la Secretaría de Educación Pública de Oaxaca; debiendo intervenir en el ámbito de sus competencias la Secretaría de Finanzas, Secretaría de Administración y Secretaría de Honestidad, Transparencia y Función Pública.
-
-SEXTO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal, suscrito por la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, se entenderán subrogadas y contraídas por la Secretaría de Educación Pública de Oaxaca.
-
-Los archivos generados por la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, deberán ser entregados para su resguardo a la Secretaría de Educación Pública de Oaxaca.
-
-Se faculta a la entonces persona titular de la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, para que, dentro del plazo máximo de 90 días naturales contados a partir de la publicación del presente Decreto, concluya antes (sic) las instancias competentes los trámites administrativos de índole presupuestal, contable, fiscal y en materia de transparencia, para dar cumplimiento al presente Decreto.
-
-SÉPTIMO. Los nombramientos por condición laboral de Mandos Medios y Superiores otorgados desde la creación de la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología quedan sin efecto, por lo que los servidores públicos salientes deberán realizar las transferencias y procesos de entrega-recepción a la Secretaría de Educación Pública de Oaxaca.
-
-Los derechos laborales de los empleados de base que en su caso estén adscrito (sic) la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, se respetarán conforme a las disposiciones normativas aplicables.
-
-OCTAVO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
-
-P.O. 21 DE SEPTIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2400.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
