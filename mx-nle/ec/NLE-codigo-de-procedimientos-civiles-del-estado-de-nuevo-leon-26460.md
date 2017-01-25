@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2016-12-14"
+last_updated: "2017-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NLE"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE ENERO DE 2017.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -7509,13 +7511,9 @@ Se sujetarán al procedimiento oral:
 
 I.- Las controversias que se susciten con motivo de arrendamientos o de comodatos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 II.- Las controversias que se susciten con motivo de alimentos, custodia, convivencia y posesión de estado de padre o de hijo, cuando éstas constituyan el objeto de la acción principal;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -7525,8 +7523,6 @@ III.- Las solicitudes de divorcio por un mutuo consentimiento;
 
 IV.- Los actos de jurisdicción que versen sobre enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos, adopción y del cambio de régimen de matrimonio;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 V.- El divorcio incausado;
@@ -7535,11 +7531,13 @@ V.- El divorcio incausado;
 
 VI.- El trámite estipulado en la Ley que Regula el Procedimiento de Emisión de la Declaratoria de Ausencia por Desaparición en el Estado de Nuevo León; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+(ADICIONADA, P.O. 11 DE MAYO DE 2016) (F. DE E., P.O. 25 DE ENERO DE 2017)
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+VII.- Las controversias que se susciten con motivo de las obligaciones que nacen de los actos ilícitos.
 
-VII.- La homologación de los convenios obtenidos fuera de juicio como resultado de la aplicación de los mecanismos alternativos para la solución de controversias que versen sobre custodia, convivencia o alimentos.
+(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2016) (F. DE E., P.O. 25 DE ENERO DE 2017)
+
+VIII.- La homologación de los convenios obtenidos fuera de juicio como resultado de la aplicación de los mecanismos alternativos para la solución de controversias que versen sobre custodia, convivencia o alimentos.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
