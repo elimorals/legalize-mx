@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2016-12-29"
+last_updated: "2017-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -161,7 +161,9 @@ Es derecho de los partidos políticos o candidatos independientes, a través de 
 
 La determinación de la réplica no será unilateral, debe concurrir la conformidad del medio de comunicación y debe darse de forma inmediata posterior a la publicación que se considera falsa o denigrante. De no haberla, debe existir resolución del Consejo General que la determine, sin menoscabo de las sanciones administrativas correspondientes.
 
-ARTÍULO (SIC) 12. Cuando alguno de los sujetos legitimados para el ejercicio del derecho de réplica considere que un medio de comunicación escrito o electrónico ha difundido información falsa, injuriosa o denigrante en su perjuicio, podrán solicitarle al medio de comunicación la rectificación de la información o el responder desde éste en la misma proporción y espacio a las alusiones que se hayan dirigido.
+###### ARTÍCULO 12.
+
+Cuando alguno de los sujetos legitimados para el ejercicio del derecho de réplica considere que un medio de comunicación escrito o electrónico ha difundido información falsa, injuriosa o denigrante en su perjuicio, podrán solicitarle al medio de comunicación la rectificación de la información o el responder desde éste en la misma proporción y espacio a las alusiones que se hayan dirigido.
 
 Lo anterior, sin menoscabo de la interposición del procedimiento administrativo correspondiente que para tal efecto determina el presente Código.
 
@@ -2867,9 +2869,59 @@ El Sistema Michoacano de Radio y Televisión estará obligado a la transmisión 
 
 ### CAPÍTULO ÚNICO. DE LA DIVISIÓN TERRITORIAL Y SECCIONES
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 173.
 
-Las elecciones de Gobernador y diputados se harán con base en la división territorial del Estado en veinticuatro distritos electorales, conformados con la composición municipal y seccional que determine, con fundamento en sus atribuciones de geografía electoral, el Instituto Nacional Electoral.
+Las elecciones de Gobernador y diputados se harán con base en la división territorial del Estado en veinticuatro distritos electorales, conformados con la composición municipal y seccional determinada por el Instituto Nacional Electoral en los siguientes términos:
+
+Distrito 1. La Piedad: Churintzio, Ecuandureo, Ixtlán, La Piedad, Numarán, Tanhuato, Yurécuaro y Zináparo.
+
+Distrito 2. Puruándiro: Angamacutiro, Chucándiro, Huandacareo, Huaniqueo, Jiménez, José Sixto Verduzco, Morelos, Panindícuaro, Penjamillo y Puruándiro.
+
+Distrito 3. Maravatío: Áporo, Contepec, Epitacio Huerta, Maravatío, Senguio y Tlalpujahua.
+
+Distrito 4. Jiquilpan: Briseñas, Cojumatlán de Régules, Jiquilpan, Marcos Castellanos, Sahuayo, Venustiano Carranza y Vista Hermosa.
+
+Distrito 5. Paracho: Charapan, Cherán, Chilchota, Coeneo, Erongarícuaro, Nahuatzen, Paracho y Quiroga.
+
+Distrito 6. Zamora: Cabecera Zamora.
+
+Distrito 7. Zacapu: Jacona, Purépero, Tangancícuaro, Tlazazalca y Zacapu.
+
+Distrito 8. Tarímbaro: Álvaro Obregón, Charo, Copándaro, Cuitzeo, Indaparapeo, Santa Ana Maya y Tarímbaro.
+
+Distrito 9. Los Reyes: Chavinda, Cotija, Los Reyes, Pajacuarán, Tangamandapio, Tingüindín, Tocumbo y Villamar.
+
+Distrito 10. Morelia por la parte Noroeste, que comprende las 50 secciones electorales siguientes: de la 0941 a la 0948, de la 0951 a la 0953, de la 1191 a la 1193, de la 1197 a la 1204, de la 1208 a la 1214, de la 1216 a la 1220, de la 1252 a la 1261, de la 1263 a la 1265, 1283, 2677 y 2702.
+
+Distrito 11. Morelia por la parte Noreste, que comprende las 95 secciones electorales siguientes: de la 0969 a la 0992, de la 1031 a la 1041, de la 1076 a la 1078, de la 1080 a la 1117, de la 1185 a la 1190, de la 1194 a la 1196, de la 1205 a la 1207, 1237, 1238, 1262, 1284, 1285, 2675, 2692 y 2703.
+
+Distrito 12. Ciudad Hidalgo: Hidalgo, Irimbo, Queréndaro y Zinapécuaro.
+
+Distrito 13. Zitácuaro: Angangeo, Ocampo y Zitácuaro.
+
+Distrito 14. Uruapan por la parte Norte, que comprende las 88 secciones electorales siguientes: de la 2175 a la 2206, de la 2209 a la 2225, de la 2236 a la 2242, de la 2255 a la 2265, de la 2273 a la 2279, 2295, 2296, y de la 2299 a la 2310.
+
+Distrito 15. Pátzcuaro: Huiramba, Lagunillas, Pátzcuaro, Salvador Escalante, Tingambato, Tzintzuntzan y Ziracuaretiro.
+
+Distrito 16. Morelia por la parte Suroeste, que comprende las 80 secciones electorales siguientes: 0949, 0950, de la 0954 a la 0965, de la 0998 a la 1021, de la 1052 a la 1061, de la 1141 a la 1151, 1160, 1161, 1215, 1221, 1222, 1239, 1240, de la 1247 a la 1251, 1266, 1267, 1271, 1272, 1277, 1281, 1282, 1286 y 1287.
+
+Distrito 17. Morelia por la parte Sureste, que comprende las 127 secciones electorales siguientes: de la 0966 a la 0968, de la 0993 a la 0997, de la 1022 a la 1030, de la 1042 a la 1051, de la 1062 a la 1075, 1079, de la 1118 a la 1140, de la 1152 a la 1159, de la 1162 a la 1185, de la 1223 a la 1236, de la 1241 a la 1246, de la 1268 a la 1270, de la 1273 a la 1276, y de la 1278 a la 1280.
+
+Distrito 18. Huetamo: Carácuaro, Huetamo, Juárez, Jungapeo, San Lucas, Susupuato, Tiquicheo de Nicolás Romero, Tuxpan, Tuzantla y Tzitzio.
+
+Distrito 19. Tacámbaro: Acuitzio, Ario, Madero, Nocupétaro, Tacámbaro, Taretan y Turicato.
+
+Distrito 20. Uruapan por la parte Sur, que comprende las 54 secciones electorales siguientes: 2207, 2208, de la 2226 a la 2235, de la 2243 a la 2254, de la 2266 a la 2272, de la 2280 a la 2294, 2297, 2298, y de la 2311 a la 2316.
+
+Distrito 21. Coalcomán: Aguililla, Aquila, Buena Vista, Chinicuila, Coahuayana Coalcomán, Peribán y Tepalcatepec.
+
+Distrito 22. Múgica (Nueva Italia): Arteaga, Churumuco, Gabriel Zamora, La Huacana, Múgica, Nuevo Urecho, Parácuaro y Tumbiscatío.
+
+Distrito 23. Apatzingán: Apatzingán, Nuevo Parangaricutiro y Tancítaro.
+
+Distrito 24. Lázaro Cárdenas: Cabecera Lázaro Cárdenas.
 
 ###### ARTÍCULO 174.
 
@@ -3713,9 +3765,7 @@ VII. Constituyen infracciones al presente de las autoridades o los servidores p�
 
 a) La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
-b) La difusión, por cualquier medio, de propaganda (sic)
-
-gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
+b) La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
 
 c) El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución General, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
 
@@ -5035,57 +5085,7 @@ SEXTO. Las funciones correspondientes a la fiscalización, capacitación elector
 
 SÉPTIMO. En lo correspondiente a facilitar a los órganos de comités distritales y municipales, a los partidos políticos y a los representantes de candidatos independientes la información sobre seccionamiento y lista nominal de electores, hasta en tanto no se determine procedimiento por el Instituto Nacional Electoral, el Consejo General del Instituto Electoral de Michoacán determinará lo correspondiente.
 
-OCTAVO. Hasta en tanto el Instituto Nacional Electoral no ejerza su función en el rubro de geografía electoral, a efecto de determinar las secciones electorales de cada distrito electoral, la composición municipal será la siguiente:
-
-Distrito 01. Churintzio, Ecuandureo, Numarán, Penjamillo, La Piedad, Tanhuato, Yurécuaro y Zináparo. Cabecera: La Piedad.
-
-Distrito 02. Angamacutiro, Copándaro, Chucándiro, Huandacareo, José Sixto Verduzco, Morelos, Panindícuaro y Puruándiro. Cabecera: Puruándiro.
-
-Distrito 03. Aporo, Contepec, Epitacio Huerta, Maravatío, Senguio y Tlalpujahua. Cabecera: Maravatío.
-
-Distrito 04. Briseñas, Jiquilpan, Marcos Castellanos, Pajacuarán, Régules, Sahuayo, Venustiano Carranza y Vista Hermosa. Cabecera: Jiquilpan.
-
-Distrito 05. Chavinda, Chilchota, Ixtlán, Jacona, Tangamandapio, Tangancícuaro y Villamar. Cabecera: Jacona.
-
-Distrito 06. Zamora. Cabecera: Zamora.
-
-Distrito 07. Coeneo, Cherán, Huaniqueo, Jiménez, Nahuátzen, Purépero, Tlazazalca y Zacapu. Cabecera: Zacapu.
-
-Distrito 08. Álvaro Obregón, Cuitzeo, Charo, Indaparapeo, Santa Ana Maya, Tarímbaro y Zinapécuaro. Cabecera: Zinapécuaro.
-
-Distrito 09. Cotija, Charapan, Peribán, Los Reyes, Tancítaro, Tingüindín y Tocumbo. Cabecera: Los Reyes.
-
-Distrito 10. Morelia por la parte Noroeste, que comprende las secciones electorales siguientes: 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 959, 960, 961, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1191, 1192, 1193, 1197, 1198, 1199, 1200, 1201, 1202, 1203, 1204, 1208, 1209, 1210, 1211, 1212, 1213, 1214, 1218, 1219, 1220, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1263, 1283 y 2677. Cabecera: Morelia zona Noroeste.
-
-Distrito 11. Morelia por la parte Noreste, que comprende las secciones electorales siguientes: 962, 963, 964, 965, 966, 967, 968, 969, 970, 971, 972, 973, 974, 975, 976, 977, 978, 979, 980, 981, 982, 983, 984, 985, 986, 987, 988, 989, 990, 991, 992, 993, 994, 995, 996, 997, 998, 999, 1000, 1020, 1021, 1022, 1023, 1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032, 1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1042, 1088, 1089, 1090, 1091, 1092, 1093, 1094, 1095, 1096, 1097, 1098, 1099, 1100, 1101, 1102, 1103, 1104, 1105, 1106, 1194, 1195, 1196, 1205, 1206, 1207, 1237, 1238, 1262, 1284, 1285 y 2675. Cabecera: Morelia zona Noreste.
-
-Distrito 12. Hidalgo, Irimbo, Jungapeo, Queréndaro y Túxpan. Cabecera: Hidalgo.
-
-Distrito 13. Angangueo, Ocampo y Zitácuaro. Cabecera: Zitácuaro.
-
-Distrito 14. Paracho y por la parte norte de Uruapan que comprende las secciones electorales siguientes: 2175, 2176, 2177, 2178, 2179, 2180, 2181, 2182, 2183, 2184, 2185, 2186, 2187, 2188, 2189, 2190, 2191, 2192, 2193, 2194, 2195, 2196, 2197, 2198, 2199, 2200, 2201, 2202, 2203, 2204, 2205, 2206, 2208, 2209, 2210, 2211, 2212, 2213, 2214, 2215, 2216, 2217, 2218, 2219, 2220, 2221, 2222, 2223, 2224, 2225, 2226, 2227, 2228, 2229, 2230, 2231, 2236, 2237, 2238, 2295, 2296, 2297, 2298, 2299, 2300, 2301, 2302, 2303, 2304, 2305, 2306, 2307, 2308, 2309 y 2310. Cabecera: Uruapan zona Norte.
-
-Distrito 15. Erongarícuaro, Huiramba, Lagunillas, Pátzcuaro, Quiroga, Salvador Escalante, Tingambato y Tzintzuntzan. Cabecera: Pátzcuaro.
-
-Distrito 16. Morelia por la parte Suroeste, que comprende las secciones electorales siguientes: 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053, 1054, 1055, 1056, 1057, 1058, 1059, 1060, 1061, 1062, 1063, 1064, 1065, 1066, 1067, 1068, 1069, 1128, 1129, 1130, 1131, 1132, 1133, 1134, 1135, 1136, 1137, 1138, 1139, 1140, 1141, 1142, 1143, 1144, 1145, 1146, 1147, 1148, 1149, 1150, 1151, 1152, 1153, 1154, 1155, 1156, 1157, 1158, 1159, 1160, 1161, 1162, 1163, 1164, 1165, 1166, 1167, 1168, 1169, 1170, 1215, 1216, 1217, 1221, 1222, 1239, 1240, 1247, 1248, 1249, 1250, 1251, 1264, 1265, 1266, 1267, 1268, 1271, 1272, 1277, 1281 y 1282. Cabecera: Morelia zona Suroeste.
-
-Distrito 17. Morelia por la parte Sureste, que comprende las secciones electorales siguientes: 1043, 1044, 1045, 1070, 1071, 1072, 1073, 1074, 1075, 1076, 1077, 1078, 1079, 1080, 1081, 1082, 1083, 1084, 1085, 1086, 1087, 1107, 1108, 1109, 1110, 1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118, 1119, 1120, 1121, 1122, 1123, 1124, 1125, 1126, 1127, 1171, 1172, 1173, 1174, 1175, 1176, 1177, 1178, 1179, 1180, 1181, 1182, 1183, 1184, 1185, 1186, 1187, 1188, 1189, 1190, 1223, 1224, 1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232, 1233, 1234, 1235, 1236, 1241, 1242, 1243, 1244, 1245, 1246, 1269, 1270, 1273, 1274, 1275, 1276, 1278, 1279, 1280, 1286 y 1287. Cabecera: Morelia zona Sureste.
-
-Distrito 18. Carácuaro, Huetamo, Juárez, Nocupétaro, San Lucas, Susupuato, Tiquicheo de Nicolás Romero, Tuzantla y Tzitzio. Cabecera: Huetamo.
-
-Distrito 19. Acuitzio, Ario de Rosales, Madero, Tacámbaro y Turicato. Cabecera: Tacámbaro.
-
-Distrito 20. Nuevo Parangaricutiro, Taretan, Ziracuaretiro y la parte Sur de Uruapan que comprende las secciones electorales siguientes: 2207, 2232, 2233, 2234, 2235, 2239, 2240, 2241, 2242, 2243, 2244, 2245, 2246, 2247, 2248, 2249, 2250, 2251, 2252, 2253, 2254, 2255, 2256, 2257, 2258, 2259, 2260, 2261, 2262, 2263, 2264, 2265, 2266, 2267, 2268, 2269, 2270, 2271, 2272, 2273, 2274, 2275, 2276, 2277, 2278, 2279, 2280, 2281, 2282, 2283, 2284, 2285, 2286, 2287, 2288, 2289, 2290, 2291, 2292, 2293, 2294, 2311, 2312, 2313, 2314, 2315 y 2316. Cabecera: Uruapan zona Sur.
-
-Distrito 21. Aguililla, Aquila, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Chinicuila y Tepalcatepec. Cabecera: Coalcomán de Vázquez Pallares.
-
-Distrito 22. Arteaga, Churumuco, Gabriel Zamora, La Huacana, Múgica, Nuevo Urecho y Tumbiscatío. Cabecera: Múgica.
-
-Distrito 23. Apatzingán y Parácuaro. Cabecera: Apatzingán.
-
-Distrito 24. Lázaro Cárdenas. Cabecera: Lázaro Cárdenas.
-
-En la elección para Gobernador del Estado se considerarán los votos sufragados en el extranjero.
+OCTAVO. (DEROGADO, P.O. 25 DE ENERO DE 2017)
 
 NOVENO. Para efectos de lograr una norma que precise de manera más amplia sobre los criterios sustantivos y de procedimiento que regulen el sistema de elección por usos y costumbres, el Congreso desarrollará un proceso de consulta a los pueblos y comunidades indígenas del Estado, bajo los principios que regula el Derecho Internacional de los Derechos Humanos, en particular los de la materia, este proceso debe desarrollarse dentro de los noventas días contados a partir de que sea vigente la normatividad que regule el derecho de consulta a los pueblos indígenas. Éste último, deberá aprobarse dentro de los ciento veinte días siguientes de la publicación del presente decreto.
 
@@ -5142,3 +5142,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 25 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 293 POR EL QUE "SE REFORMA EL ARTÍCULO 173 Y SE DEROGA EL TRANSITORIO OCTAVO DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
