@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-05-2015-del-presidente-de-110
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-10"
-last_updated: "2015-11-10"
+last_updated: "2017-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110474&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-11-04"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015 DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EXPIDEN LOS LINEAMENTOS TEMPORALES PARA REGULAR EL PROCEDIMIENTO ADMINISTRATIVO INTERNO DE ACCESO A LA INFORMACIÓN PÚBLICA, ASÍ COMO EL FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITÉ DE TRANSPARENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de noviembre de 2015.
 
@@ -395,7 +395,9 @@ En términos de lo dispuesto en el artículo 43 de la Ley General, el Comité es
 
 I. Secretario Jurídico de la Presidencia, quien fungirá como Presidente del Comité.
 
-II. Secretario General de Acuerdos.
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 1/2017, DEL DIECISÉIS DE ENERO DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 25 DE ENERO DE 2017)</small>
+
+II. Titular de la Unidad General de Enlace con los Poderes Federales.
 
 III. Contralor.
 
@@ -688,3 +690,15 @@ TERCERO.- Publíquese el presente Acuerdo General en el Diario Oficial de la Fed
 Así lo acordó y firma el señor Ministro Luis María Aguilar Morales, Presidente de la Suprema Corte de Justicia de la Nación, el día tres de noviembre de dos mil quince, ante el Secretario Jurídico de la Presidencia, que certifica.- Rúbrica.
 
 EL LICENCIADO ALEJANDRO MANUEL GONZÁLEZ GARCÍA, SECRETARIO JURÍDICO DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN EL ARTÍCULO 8, FRACCIÓN XIII, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia del “ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EXPIDEN LOS LINEAMIENTOS TEMPORALES PARA REGULAR EL PROCEDIMIENTO ADMINISTRATIVO INTERNO DE ACCESO A LA INFORMACIÓN PÚBLICA, ASÍ COMO EL FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITÉ DE TRANSPARENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”, constante de doce fojas útiles, concuerda fiel y exactamente con su original que obra en esta Secretaría Jurídica y se certifica para el trámite correspondiente.- México, Distrito Federal, a cuatro de noviembre de dos mil quince.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 1/2017, DEL DIECISÉIS DE ENERO DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DE LOS ACUERDOS GENERALES DE ADMINISTRACIÓN 04/2015, DEL VEINTISÉIS DE AGOSTO Y 05/2015, DEL TRES DE NOVIEMBRE, AMBOS DEL DOS MIL QUINCE”.]
+
+Artículo Primero. El presente Acuerdo General entrará en vigor el día de su expedición.
+
+Artículo Segundo. Además de los artículos expresamente señalados, se derogan las disposiciones normativas internas que se opongan al objeto de regulación del presente Acuerdo General.
+
+Artículo Tercero. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
