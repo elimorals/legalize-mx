@@ -4,7 +4,7 @@ identifier: "MIC-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9327
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-12"
-last_updated: "2016-12-29"
+last_updated: "2017-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2017.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el martes 12 de marzo de 2013.
 
@@ -522,6 +522,10 @@ XII. La responsabilidad por daño ambiental es imputable a quien lo ocasione, qu
 XIII. El conocimiento de los hábitats naturales como base de la planeación ambiental estatal.
 
 Los ayuntamientos, en el ámbito de su competencia, observarán y aplicarán los principios a que se refiere este artículo, con arreglo a las disposiciones de esta Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2017)</small>
+
+ARTÍCULO 18 BIS. En la toma de decisiones para el desarrollo sustentable, el Estado y Municipios deberán considerar el marco ético global comprendido en la Carta Mundial de la Naturaleza, la Declaración de Río sobre el Medio Ambiente y Desarrollo, la Declaración de Johannesburgo sobre Desarrollo Sustentable, la Carta de la Tierra y la Declaración de la Conferencia de las Naciones Unidas sobre Desarrollo Sostenible «Nuestro Futuro Común», entre otras declaraciones aplicables en la materia de las que el Estado Mexicano sea parte.
 
 ### Capítulo IV. De los Instrumentos de Política Ambiental
 
@@ -2222,3 +2226,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 25 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 292 POR EL QUE "SE ADICIONA EL ARTÍCULO 18 BIS DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
