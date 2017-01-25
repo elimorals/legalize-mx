@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2016-12-30"
+last_updated: "2017-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ENERO DE 2017 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2016.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 25 DE ENERO DE 2017.]
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -1637,9 +1637,11 @@ e) Para casa habitación unifamiliar
 
 4. Zona 4. Conservación de los Recursos Naturales 25 Constancia
 
+> <small>(F. DE E., D.O. 25 DE ENERO DE 2017)</small>
+
 f) Para la instalación de infraestructura en bienes inmuebles propiedad del Municipio o en las vías públicas, excepto la que se señala en el inciso h)
 
-0.10 Por aparto (sic),
+.10 Por aparato,
 
 caseta o unidad.
 
@@ -3523,9 +3525,9 @@ Cuando el Municipio de Mérida realice la reconexión de los servicios de agua p
 
 #### Sección Vigésima. De los Derechos por la Prestación de Servicios en Materia de Protección Civil
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016) (F. DE E., D.O. 25 DE ENERO DE 2017)
 
-ARTÍCULO 144 A.- Son sujetos de los derechos establecidos en esta sección las personas físicas o morales que soliciten, cualquierade (sic) los servicios a que se refiere esta sección.
+ARTÍCULO 144 A.- Son sujetos de los derechos establecidos en esta sección las personas físicas o morales que soliciten, cualquiera de los servicios a que se refiere esta sección.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4577,7 +4579,7 @@ Cuando la aplicación de la Unidad de Medida y Actualización resultare una cant
 
 D.O. 30 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 440/2016 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 440/2016 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4663,7 +4665,7 @@ En ningún caso la aplicación del estímulo a que se refiere este artículo, da
 
 ###### ARTÍCULO SEXTO.
 
-Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2017, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros “A”, “B-1”, "B-2", “B-3” y "B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2017, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
 
 Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
 
