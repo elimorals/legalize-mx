@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-proteccion-a-los-animales-para-el-estado-de-sinaloa-9647
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-04"
-last_updated: "2016-12-28"
+last_updated: "2017-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 4 de noviembre de 2013.
 
@@ -459,9 +459,11 @@ Las autoridades estatales y municipales darán aviso a las instancias federales 
 
 ### CAPÍTULO VIII. DE LOS ANIMALES EN ESPECTÁCULO
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 38.
 
-Los propietarios o encargados de los circos deberán contar con los permisos de las autoridades competentes para establecer su espectáculo; el otorgamiento de estos permisos estará supeditado a la presentación de un programa de bienestar animal de conformidad con la legislación de la materia.
+Los propietarios o encargados de los circos deberán contar con los permisos de las autoridades competentes para establecer su espectáculo, el cual no podrá incluir el uso de animales silvestres.
 
 ###### ARTÍCULO 39.
 
@@ -469,17 +471,17 @@ En toda exhibición o espectáculo público o privado, filmación de películas,
 
 ###### ARTÍCULO 40.
 
-Las autoridades previstas en el artículo 6 de esta Ley vigilarán que los circos que se instalen, mantengan espacio suficiente que les permita a los animales libertad y amplitud de movimientos, y durante su traslado no sean inmovilizados en una posición que les ocasione lesiones o sufrimiento.
-
-Además vigilarán que los animales tengan condiciones adecuadas de higiene y medidas de seguridad tanto para la protección de ellos como del público espectador.
+(DEROGADO, P.O. 25 DE ENERO DE 2017)
 
 ###### ARTÍCULO 41.
 
-Los animales que por su gran tamaño, no sea factible que se encuentren confinados en jaulas, lo estarán en espacios protegidos por cercas o en su defecto, sujetos con cadena, procurando que el tamaño de ésta sea proporcional a la complexión del animal a efecto de evitarle algún daño o lesión.
+(DEROGADO, P.O. 25 DE ENERO DE 2017)
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2017)</small>
 
 ###### ARTÍCULO 42.
 
-Deberá informarse al público que asiste a los zoológicos y circos, que no está permitido dar alimentos a los animales.
+Deberá informarse al público que asiste a los zoológicos, que no está permitido dar alimentos a los animales.
 
 ### CAPÍTULO IX. DE LOS ANIMALES CALLEJEROS O ABANDONADOS
 
@@ -852,3 +854,13 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 25 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 63 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial el "Estado de Sinaloa".
+
+SEGUNDO. Los Municipios del Estado, por conducto de sus Ayuntamientos, en el ámbito de sus respectivas competencias deberán adecuar su normatividad para dar cumplimiento al presente Decreto, en un plazo que no exceda de noventa días naturales posteriores a su publicación.
+
+TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
