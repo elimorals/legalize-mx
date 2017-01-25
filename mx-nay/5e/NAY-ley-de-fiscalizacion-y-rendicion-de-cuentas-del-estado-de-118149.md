@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-11814
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2016-12-27"
+last_updated: "2017-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE FISCALIZACION Y RENDICION DE CUENTAS DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE ENERO DE 2017.]</small>
 
 Ley publicada en la Sección Quinta al Número 126 del Periódico Oficial del Estado de Nayarit, el martes 27 de diciembre de 2016.
 
@@ -725,7 +725,9 @@ Durante sus actuaciones, los representantes de la Auditoría Superior del Estado
 
 Las auditorías que se desarrollen directamente en las oficinas de la Auditoría Superior del Estado se ajustarán a las formalidades que al efecto emita el Auditor Superior. En su caso, los informes que de ellas emitan los auditores comisionados igualmente harán prueba en términos de ley.
 
-Las auditorías de obra pública serán mixtas, o en su defecto podrán realizarse a través de visitas domiciliarias.
+> <small>(F. DE E., P.O. 25 DE ENERO DE 2017)</small>
+
+Las auditorías de obra pública serán de gabinete, mixtas, o en su defecto podrán realizarse a través de visitas domiciliarias.
 
 ###### Artículo 44.
 
@@ -1129,9 +1131,13 @@ Décimo Tercero. En tanto se realizan las modificaciones conducentes a los sello
 
 Décimo Cuarto. Los servidores públicos del Órgano de Fiscalización Superior del Estado, no sufrirán afectación alguna en sus derechos laborales, con motivo de la entrada en vigor de la presente Ley.
 
-Décimo Quinto. Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria del Estado, a que se refiere el artículo 31, apartado A, fracción II, inciso f); y apartado B, fracción IV, de la presente ley, entrarán en vigor para el ejercicio fiscal 2017.
+> <small>(F. DE E., P.O. 25 DE ENERO DE 2017)</small>
 
-Décimo Sexto. Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria de los Municipios, a que se refiere el artículo 31, inciso A, fracción II, inciso f); y apartado B, fracción IV, de la presente Ley, entrarán en vigor para el ejercicio fiscal 2018.
+Décimo Quinto. Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria del Estado, a que se refiere el artículo 31, apartado A, fracción VII; y apartado B, fracción III, de la presente Ley, entrarán en vigor para el ejercicio fiscal 2017.
+
+> <small>(F. DE E., P.O. 25 DE ENERO DE 2017)</small>
+
+Décimo Sexto. Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria de los Municipios, a que se refiere el artículo 31, apartado A, fracción VII; y apartado B, fracción III, de la presente Ley, entrarán en vigor para el ejercicio fiscal 2018.
 
 Décimo Séptimo. Las reformas relativas a la Cuenta Pública y a los informes de Avance de Gestión Financiera, entrarán en vigor en el ejercicio fiscal 2017 y en el ejercicio fiscal 2018, según corresponda, de conformidad con lo dispuesto en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
 
