@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-patrimonio-estatal-6460"
 country: "mx"
 rank: "ley"
 publication_date: "1964-04-09"
-last_updated: "1964-04-09"
+last_updated: "2017-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL PATRIMONIO ESTATAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial, el jueves 9 de abril de 1964.
 
@@ -245,9 +245,15 @@ DE LOS INMUEBLES DE DOMINIO PRIVADO.
 
 La posesión, conservación y administración de los bienes del Estado corresponden, por regla general y a falta de prevención en contrario, al Departamento del Patrimonio Estatal, lo mismo que el conocimiento y la resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2017)</small>
+
 ###### Artículo 26.
 
-Los bienes propios del Estado, no destinados a un servicio público, o que no disfruten de iguales privilegios que aquéllos que si lo están, pueden enajenarse, siempre que no existan razones impongan (sic) la necesidad o la conveniencia de conservar dicho bien o que se justifique plenamente la necesidad de la enajenación por la importancia del fin que haya de realizarse con el producto de la venta. El Ejecutivo, para obtener la autorización del Congreso, está obligado a exponer los propósitos de la venta y a justificar posteriormente la inversión de los fondos que haya obtenido, precisamente en dichos propósitos.
+Los bienes propios del Estado, no destinados a un servicio público, o que no disfruten de iguales privilegios que aquéllos que si lo están, pueden enajenarse, siempre que no existan razones que impongan la necesidad o la conveniencia de conservar dicho bien o que se justifique plenamente la necesidad de la enajenación por la importancia del fin que haya de realizarse con el producto de la venta. El Ejecutivo, para obtener la autorización del Congreso, está obligado a exponer los propósitos de la venta y a justificar posteriormente la inversión de los fondos que haya obtenido, precisamente en dichos propósitos.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2017)</small>
+
+El Ejecutivo del Estado previa autorización del Congreso del Estado, podrá transferir o enajenar áreas o predios del Estado a los Ayuntamientos, entidades de la administración pública estatal o federal u organizaciones sociales y privadas, que tengan como objetivo la realización de acciones de desarrollo urbano, siempre y cuando cumplan con los requisitos señalados en el Código de Desarrollo Urbano del Estado de Michoacán de Ocampo.
 
 ###### Artículo 27.
 
@@ -257,9 +263,41 @@ Los particulares pueden adquirir por prescripción los inmuebles de dominio priv
 
 El Ejecutivo del Estado gestionará que el Gobierno Federal le ceda o enajene a título gratuito los bienes propios federales que se encuentren dentro del Estado y no estén destinados a algún servicio público social, en los términos del Artículo 38 de la Ley General de Bienes Nacionales.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2017)</small>
+
 ###### Artículo 29.
 
-La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y bajo las condiciones que fija esta Ley y previa autorización del Congreso.
+La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y bajo las condiciones que fija esta Ley y la legislación en la materia, previa autorización del Congreso, en ningún caso el Poder Ejecutivo podrá celebrar contrato de promesa de compraventa, sin contar primero con la autorización del Congreso del Estado.
+
+Tratándose de entidades públicas federales o municipales, el Ejecutivo podrá otorgar en comodato los predios de propiedad estatal, cuando se acredite:
+
+I.- Que serán destinados a equipamiento urbano;
+
+II.- La prestación de servicios públicos;
+
+III.- La viabilidad financiera del proyecto a realizarse o ejecutarse, o cuando se trate de la aplicación de recursos provenientes de algún programa.
+
+En estos casos, el término del comodato deberá corresponder a los proyectos, programas o necesidad de la prestación del servicio público.
+
+En los comodatos otorgados a las asociaciones, sociedades o particulares, se harán hasta por un término de cinco años, pudiéndose renovar cuando cumplan con el objeto para el cual fue otorgado el bien inmueble.
+
+El Ejecutivo del Estado, a través de la Dirección de Patrimonio, vigilará que se cumplan los fines, tiempos y condiciones por los que fue autorizada la desincorporación o el comodato, de no cumplirse, la enajenación será nula, regresándose el bien al patrimonio del Estado.
+
+El derecho de reversión implica la transferencia de vuelta del bien al patrimonio del Estado, aunque previamente se hubiera perdido la titularidad, la reversión será declarada por el Ejecutivo del Estado a través de la Dirección de Patrimonio Estatal.
+
+El procedimiento de reversión dará inicio de oficio por la Dirección de Patrimonio Estatal o a petición de la parte afectada.
+
+Se notificará el inicio del procedimiento de reversión a la parte afectada para que en un término de cinco días manifieste lo que a su derecho convenga.
+
+Una vez concluido el plazo señalado en el párrafo anterior, se abrirá el término de prueba hasta por diez días hábiles, contados a partir del día siguiente al de la notificación.
+
+Concluida la etapa de pruebas, se abrirá un periodo de alegatos por cinco días hábiles contados a partir del día siguiente de la notificación.
+
+Una vez concluido el término de alegatos, la Dirección de Patrimonio Estatal, dictará resolución en un término no mayor a diez días hábiles, notificándose al Congreso del Estado con copia certificada de la resolución así como a la parte afectada, para que manifieste lo que a su interés convenga.
+
+La resolución podrá ser reclamada ante la autoridad administrativa o ante la judicial sujetándose a lo previsto en esta Ley.
+
+El procedimiento de reversión es aplicable para los comodatos en los términos que establece esta Ley.
 
 ###### Artículo 30.
 
@@ -293,9 +331,11 @@ Cuando se trate de permutar bienes estatales, los que debe recibir el Gobierno s
 
 La infracción de cualquiera de los preceptos anteriores provocará la nulidad de la enajenación. También estarán sujetas a esos preceptos para su validez las enajenaciones de inmuebles, por cualquier título, adquiridos por el Gobierno del Estado que hagan los establecimientos públicos y empresas cuando el propio Gobierno tenga interés o se hayan verificado la enajenación con reserva de derechos.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2017)</small>
+
 ###### Artículo 37.
 
-Los bienes de dominio privado pueden ser objeto de todos los contratos que regula el derecho común con el requisito de que el Congreso los autorice cuando se trate de actos de dominio.
+Los bienes de dominio privado pueden ser objeto de todos los contratos que regula el derecho común, siempre que se observen los requisitos que establece esta Ley y los que el Congreso autorice, cuando se trate de actos de dominio.
 
 ###### Artículo 38.
 
@@ -331,9 +371,15 @@ Acordada la destrucción de un mueble inútil para el servicio, se dará de baja
 
 DEL REGISTRO DE LA PROPIEDAD ESTATAL.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2017)</small>
+
 ###### Artículo 44.
 
-El Jefe de la Dirección del Patrimonio Estatal llevará un registro de la propiedad estatal.
+El jefe de la Dirección de Patrimonio Estatal llevará un registro de la propiedad estatal, el cual mantendrá actualizado cada tres meses.
+
+Los inmuebles desincorporados del patrimonio del Estado y los bienes dados en comodato serán publicados en la página de internet del Gobierno del Estado. En el caso de éstos últimos se especificará el nombre del comodatario, el objeto y el tiempo por el que fue otorgado.
+
+El Ejecutivo del Estado informará al Congreso del Estado de los bienes inmuebles que forman parte del patrimonio estatal de manera anual en el mes de enero.
 
 ###### Artículo 45.
 
@@ -438,3 +484,15 @@ PALACIO DEL PODER LEGISLATIVO.- Morelia, Mich., a 15 de marzo del Año Legislati
 Por tanto mando se imprima publique, circule y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Mich., a 1º de abril de 1964.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO6 (sic), Lic. Agustín Arriaga Rivera.- EL PRIMER SECRETARIO GENERAL DE GOBIERNO, Lic. Rafael García de León.- Firmados.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 291 POR EL QUE “SE REFORMA Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 26, Y SE REFORMAN LOS ARTÍCULOS 29, 37 Y 44 DE LA LEY DEL PATRIMONIO ESTATAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Gobernador del Estado, tendrá un término de noventa días a la entrada en vigor del presente Decreto, para que emita el reglamento de seguimiento a las desincorporaciones y autorizaciones de comodatos.
+
+TERCERO. Por única ocasión, el Ejecutivo Estatal a través de la Dirección de Patrimonio Estatal, remitirá al Congreso del Estado, el informe de los bienes inmuebles que forman parte del patrimonio estatal, en un término de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto.
