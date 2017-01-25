@@ -4,7 +4,7 @@ identifier: "LGCFD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-06-07"
-last_updated: "2016-06-01"
+last_updated: "2017-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de junio de 2013.
 
@@ -100,9 +100,17 @@ IX. La distinción entre las diversas manifestaciones o modalidades del deporte 
 
 X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
 
-XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte, y
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2017)</small>
 
-XII. La existencia de una adecuada cooperación a nivel internacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte.
+XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
+
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2017)</small>
+
+XII. La existencia de una adecuada cooperación a nivel internacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE ENERO DE 2017)</small>
+
+XIII. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
 
 ###### Artículo 4.
 
@@ -506,7 +514,7 @@ VIII. Vigilar y dar seguimiento a los procesos de desincorporación de las entid
 
 IX. Verificar la debida integración y funcionamiento de la Junta Directiva;
 
-X. Vigilar que la CONADE, con la oportunidad y periodicidad que se señale, la información que requiera el Sistema Integral de Información de los Ingresos y Gastos Públicos; (sic)
+X. Vigilar que la CONADE, con la oportunidad y periodicidad que se señale, (sic) la información que requiera el Sistema Integral de Información de los Ingresos y Gastos Públicos;
 
 XI. Solicitar y verificar que se incluyan en el Orden del Día de las sesiones de la Junta Directiva, los asuntos que consideren necesarios;
 
@@ -634,7 +642,9 @@ XXII. Fijar criterios y verificar el cumplimiento de los mismos, con la particip
 
 Tratándose de las competiciones internacionales se considerará la opinión del COM y del COPAME, según sea el caso;
 
-XXIII. Definir los lineamientos para la lucha contra el dopaje en el deporte y la prevención de la violencia en el deporte;
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2017)</small>
+
+XXIII. Definir los lineamientos para la lucha contra el dopaje en el deporte, la prevención de la violencia y el fomento de la cultura de paz en el deporte;
 
 XXIV. Recibir apoyos económicos, técnicos y materiales en territorio nacional o extranjero, para el desarrollo de sus objetivos, sin contravenir las disposiciones legales aplicables al caso concreto;
 
@@ -1518,9 +1528,13 @@ Será obligación de las Comisiones Nacional y Estatales, la elaboración de un 
 
 Las atribuciones de dicha Comisión Especial además de las que se establezcan en el reglamento respectivo, serán:
 
-I. Promover e impulsar acciones de prevención contra la violencia en el deporte;
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2017)</small>
 
-II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia, con el fin de conseguir que el deporte sea un referente de integración y convivencia social;
+I. Promover e impulsar acciones de prevención contra la violencia y la cultura de paz en el deporte;
+
+> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2017)</small>
+
+II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia, así como de propiciar la cultura de paz con el fin de conseguir que el deporte sea un referente de integración y convivencia social;
 
 III. Asesorar, dentro del ámbito de su competencia siempre que lo requieran, a los organizadores de aquellos eventos o espectáculos deportivos en los que razonablemente se prevea la posibilidad de actos violentos;
 
@@ -1819,3 +1833,9 @@ D.O.F. 1 DE JUNIO DE 2016.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 25 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
