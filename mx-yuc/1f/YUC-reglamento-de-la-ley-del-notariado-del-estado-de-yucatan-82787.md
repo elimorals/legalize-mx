@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-del-notariado-del-estado-de-yucatan-82787"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-07"
-last_updated: "2013-07-17"
+last_updated: "2017-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ENERO DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 7 de septiembre de 2011.
 
@@ -457,13 +457,11 @@ El Ejecutivo del Estado difundirá a través del Diario Oficial del Gobierno del
 
 #### Sección Segunda. Del Seguro de Responsabilidad Civil Profesional
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, D.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 49.
 
-Los Notarios Públicos, para garantizar las responsabilidades en que pudieren incurrir en el ejercicio de sus funciones, de conformidad con el artículo 55 de la Ley, deberán contratar un seguro de responsabilidad civil profesional, u otorgar cualquier otro medio de garantía previsto en el Código Civil del Estado de Yucatán, a favor del Gobierno del Estado, por un importe de veinticinco mil salarios mínimos generales vigentes en el área geográfica a la que corresponde el Estado.
+Los notarios públicos, para garantizar las responsabilidades en que pudieren incurrir en el ejercicio de sus funciones, de conformidad con el artículo 55 de la ley, deberán contratar un seguro de responsabilidad civil profesional u otorgar cualquier otro medio de garantía previsto en el Código Civil del Estado de Yucatán, a favor del Gobierno del Estado, por un importe de veinticinco mil unidades de medida y actualización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1573,9 +1571,11 @@ El resultado de las visitas tanto ordinarias como especiales, se consignará en 
 
 El Director del Archivo Notarial pondrá una constancia alusiva en nota complementaria del apéndice de la última acta revisada. Si durante el periodo comprendido entre una visita y otra no se hubiera autorizado ningún acta se hará constar esta circunstancia en el protocolo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE ENERO DE 2017)</small>
+
 ###### Artículo 193.
 
-Si el Director del Archivo Notarial o en su caso el Notario Público designado como visitador no practicaran la visita en los términos de Ley u omitieren mencionar las faltas que se encontraron con motivo de la visita serán sancionados con multa de entre diez hasta cien días de salario mínimo general vigente en el Estado, según la gravedad de la infracción, sin perjuicio de las responsabilidades consiguientes en caso de delito.
+Si el Director del Archivo Notarial o en su caso el notario público designado como visitador no practicaran la visita en los términos de ley u omitieren mencionar las faltas que se encontraron con motivo de la visita serán sancionados con multa de diez a cien unidades de medida y actualización, según la gravedad de la infracción, sin perjuicio de las responsabilidades consiguientes en caso de delito.
 
 Esta multa será impuesta por la Consejería previo informe del Consejo de Notarios.
 
@@ -1692,3 +1692,11 @@ SEXTO. Los Notarios públicos deberán llevar a cabo la implementación de las m
 SÉPTIMO. En virtud de la reforma al artículo 49 de este Reglamento y la entrada en vigor del seguro de responsabilidad civil profesional, el Consejo de Notarios Públicos expedirá las reglas a que deberán sujetarse los notarios para la recuperación de las aportaciones que hubiesen realizado al fondo permanente de garantías.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+D.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 454/2017 POR EL QUE SE MODIFICAN NUEVE REGLAMENTOS ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
