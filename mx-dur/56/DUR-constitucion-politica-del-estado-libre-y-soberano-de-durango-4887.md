@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2015-08-20"
+last_updated: "2017-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 20 DE AGOSTO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1003,11 +1001,11 @@ Los diputados que sin licencia dejen de concurrir injustificadamente por más de
 
 La falta absoluta de algún Diputado propietario y de su respectivo suplente, se cubrirá: en el caso de los de mayoría relativa, el Congreso del Estado convocará a elecciones extraordinarias en los términos de esta Constitución, siempre que esta circunstancia no ocurra dentro del último año de ejercicio constitucional; en el caso de los diputados de representación proporcional la ausencia será cubierta por la fórmula de candidatos del mismo partido que siga en el orden de la lista respectiva.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 74.
 
-Los diputados deben rendir un informe anual del ejercicio de sus funciones ante el órgano de gobierno interior del Congreso del Estado, y si así lo estiman pertinente, ante sus representados. Los diputados de mayoría relativa podrán hacerlo, además, ante los ayuntamientos de los municipios comprendidos en sus respectivos distritos electorales.
+Los diputados representan los intereses de los ciudadanos; procurarán intervenir en la solución de los problemas que afecten a sus representados, promoviendo la realización de acciones que permitan el mejoramiento y desarrollo de las comunidades. Durante los periodos de receso, deberán, a los que les fuera confiado, atender las labores que les encomiende la Comisión Permanente.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1015,19 +1013,19 @@ Los diputados deben rendir un informe anual del ejercicio de sus funciones ante 
 
 El Congreso del Estado podrá trasladar su sede provisionalmente, cuando así lo acuerden las dos terceras partes de sus miembros presentes en la sesión en que se trate.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 76.
 
-El Congreso del Estado a través de la Legislatura que corresponda se instalará a partir del primero de septiembre del año de la elección para celebrar sesiones ordinarias de manera permanente. Podrá instalarse y sesionar con la concurrencia de la mayoría de los diputados que lo integran.
+El Congreso del Estado, a través de la Legislatura que corresponda, se instalará a partir del primero de septiembre del año de la elección para sesionar ordinariamente del primero de septiembre al 15 de diciembre y del quince de febrero al treinta y uno de mayo de cada año, funcionando en periodos extraordinarios cuando así lo convoque su Comisión Permanente, para tratar exclusivamente los asuntos que los motiven y se precisen en la convocatoria correspondiente. El Congreso del Estado deberá instalarse y sesionar con la concurrencia de la mayoría de los diputados que lo integran.
 
 Las sesiones serán públicas, con excepción de los casos señalados por la ley.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 77.
 
-Dentro de los tres meses siguientes a la instalación de la Legislatura, el Congreso del Estado aprobará el Plan de Desarrollo Institucional, que regirá para los tres años de ejercicio constitucional. En concordancia con éste deberá elaborarse una agenda legislativa común, para lo cual, deberán tomar en cuenta las agendas de los grupos, fracciones y representaciones de los partidos políticos. Tanto el Plan de Desarrollo como la agenda común deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+Dentro del primer periodo ordinario de sesiones que siga a la instalación de la Legislatura, el Congreso del Estado aprobará el Plan de Desarrollo Institucional, que regirá para los tres años de ejercicio constitucional. En concordancia con éste, deberá elaborarse una Agenda Legislativa Común, para lo cual, deberá tomarse en cuenta las agendas de las formas de organización parlamentaria y diputados independientes, si los hubiere. Tanto el Plan de Desarrollo Institucional como la Agenda Común, deberán publicarse en el Periódico Oficial del Gobierno del Estado.
 
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1113,7 +1111,13 @@ b) Decretar, en todo tiempo, las contribuciones que basten a cubrir los egresos 
 
 c) Expedir las bases legales sobre el límite del endeudamiento público del Estado y de los municipios.
 
-d) Autorizar al ejecutivo y a los ayuntamientos a contratar deuda pública y en su caso, a afectar como garantía fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2017)</small>
+
+d) Autorizar al ejecutivo, a los ayuntamientos, los organismos descentralizados, empresas públicas y fideicomisos, los montos máximos para contratar obligaciones y empréstitos y en su caso, a afectar como garantía fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2017)</small>
+
+Las autorizaciones a que se refiere este inciso deberán ser aprobados (sic) por el voto de las dos terceras partes de los miembros presentes del Congreso, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago y deberán realizarse bajo las mejores condiciones del mercado.
 
 e) Autorizar al Ejecutivo Estatal:
 
@@ -1197,31 +1201,65 @@ i) Decretar amnistías, en los casos que señala la ley.
 
 j) Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2017)</small>
+
+VI.- Durante los periodos de receso del Congreso, la representación del Poder Legislativo radicará en una Comisión Permanente, que se integrará por cinco diputados propietarios y sus respectivos suplentes.
+
+Dicha Comisión deberá nombrarse en la última sesión de un periodo ordinario, integrándose de la forma que establezca la ley y que fungirá durante todo el receso, aún cuando el Congreso funcione en periodos extraordinarios.
+
+Cada una de las formas de organización parlamentaria, y en su caso, diputado independiente, acreditarán un representante con voz ante la Comisión Permanente, la Ley Orgánica del Congreso determinará cuales de ellas tendrá derecho a voto.
+
+De su instalación, se dará noticia a los titulares de los Poderes Ejecutivo y Judicial del Estado, al Poder Legislativo Federal, a las Legislaturas de las otras entidades federativas y a los Ayuntamientos de los Municipios del Estado.
+
+La Comisión Permanente deberá instalarse el día de su elección y su funcionamiento será determinado por la ley.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI]</small>
+
+La Comisión Permanente tendrá las siguientes atribuciones:
+
+I.- Llevar la correspondencia;
+
+II.- Tomar la protesta de ley, en su caso, al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal de Menores Infractores, al Titular de la Entidad de Auditoría Superior del Estado, del Tribunal de Justicia Fiscal y Administrativa y a los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango;
+
+III.- Recibir los avisos de ausencia del Gobernador y conceder las autorizaciones o, en su caso, licencias que soliciten el Gobernador y los Magistrados del Tribunal Superior de Justicia, Magistrados Electorales, del Tribunal de Justicia Fiscal y Administrativa y del Tribunal de Menores Infractores y miembros del Consejo de la Judicatura;
+
+IV.- Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso;
+
+V.- Presidir los períodos extraordinarios de sesiones del Congreso;
+
+VI.- Recibir las iniciativas de ley y turnarlas para su estudio y dictamen a las comisiones legislativas que corresponda; y
+
+VII.- Las demás que le confiera esta Constitución y las leyes.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 83.
 
-El Congreso del Estado en los días posteriores a la entrega del informe de gestión gubernamental que rinda el Gobernador del Estado, citará a los secretarios de despacho y los titulares de las entidades de la administración pública, con motivo de la glosa y para informar sobre sus respectivos ramos, quienes estarán obligados a comparecer, ya sea ante el Pleno o ante las comisiones legislativas, según sea el requerimiento. Al concluir el examen del informe y de las comparecencias, el Congreso del Estado r emitirá (sic) al Poder Ejecutivo los posicionamientos y recomendaciones que resulten, en los términos que disponga la ley.
+El Congreso del Estado, en los días posteriores a la entrega del informe de gestión gubernamental que rinda el Gobernador del Estado, citará a los Secretarios de Despacho y, en su caso, a los titulares de las Entidades de la Administración Pública, con motivo de la glosa y para informar sobre sus respectivos ramos, quienes estarán obligados a comparecer, ya sea ante el Pleno o ante las comisiones legislativas, según sea el requerimiento.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+La Ley Orgánica del Congreso establecerá el procedimiento general mediante el cual se desarrollará la glosa del informe del Poder Ejecutivo, así como la comunicación de las preguntas, posicionamientos y recomendaciones que resulten.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 84.
 
-El Congreso del Estado se regirá por su ley orgánica en los términos que ésta disponga. Contará con un órgano de gobierno interior, encargado de la administración y de su representación política, de carácter colegiado y de integración plural.
+El Congreso del Estado se regirá por su Ley Orgánica en los términos que ésta disponga.
 
-El trabajo del Congreso y de las comisiones será asistido por un cuerpo permanente de personal técnico, administrativo y especialistas, que el órgano de gobierno interior estime necesario.
+Contará con un Órgano de Gobierno Interior, denominado Junta de de (sic) Gobierno y Coordinación Política, encargado de la administración y de su representación política, de carácter colegiado y de integración plural, en los términos que establezca la citada ley.
+
+El trabajo del Congreso y de las comisiones será asistido por los órganos técnicos que señalen esta Constitución y la Ley Orgánica del Congreso, los cuales estarán integrados por un cuerpo permanente de personal técnico, administrativo y especialistas que se determinen en dicha Ley.
 
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 #### Sección cuarta. De la Entidad de Auditoría Superior del Estado
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 85.
 
-La Entidad de Auditoría Superior del Estado es el órgano del Congreso del Estado con autonomía técnica y de gestión, en el ejercicio de sus atribuciones y para decidir sobre su administración y organización interna, funcionamiento y resoluciones en los términos que disponga la ley, encargado de la fiscalización de los recursos públicos que ejerzan los poderes y los municipios, sus entidades y dependencias, así como las administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y órganos constitucionales autónomos, y cualquier otro ente público.
+La Entidad de Auditoría Superior del Estado es el órgano del Congreso del Estado con autonomía técnica y de gestión, en el ejercicio de sus atribuciones y para decidir sobre su administración y organización interna, funcionamiento y resoluciones en los términos que disponga la ley, encargado de la fiscalización de las acciones del Estado y Municipios en materia de fondos, deuda pública y recursos públicos que ejerzan los poderes y los municipios, sus entidades y dependencias, así como las administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y órganos constitucionales autónomos, y cualquier otro ente público.
 
-La función de revisión y fiscalización tiene carácter, externo y permanente, y será ejercida conforme a los principios de anualidad, legalidad, definitividad, imparcialidad, confiabilidad y posterioridad.
+La función de revisión y fiscalización tiene carácter, externo y permanente, y será ejercida conforme a los principios de legalidad, imparcialidad y confiabilidad.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1413,7 +1451,9 @@ XIV. Conservar la paz, tranquilidad y el orden público en todo el territorio de
 
 XV. Promover la inversión pública, privada y extranjera, la generación de empleos y el desarrollo económico.
 
-XVI. Contratar empréstitos destinados a infraestructura e inversiones productivas, con la aprobación del Congreso del Estado.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2017)</small>
+
+XVI. Contratar, con la autorización del Congreso del Estado, obligaciones o empréstitos destinados a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado; así como informar de su ejercicio al rendir la cuenta pública;
 
 XVII. Enajenar previa autorización del Congreso del Estado, los bienes que pertenezcan al Ejecutivo Estatal.
 
@@ -1429,13 +1469,17 @@ XXII. Representar al Estado en las comisiones federales y en las comisiones inte
 
 XXIII. Presentar ante el Congreso del Estado iniciativas de ley o decreto y solicitar a la misma que inicie ante el Congreso de la Unión las de competencia federal.
 
-XXIV. Presentar al Congreso del Estado a más tardar el treinta de noviembre de cada año, las iniciativas de ley de ingresos y la ley que contiene el presupuesto de egresos, que deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, que deberán regir durante el año siguiente.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2017)</small>
+
+XXIV. Presentar al Congreso del Estado a más tardar el treinta de noviembre de cada año, las iniciativas de ley de ingresos y la ley que contiene el presupuesto de egresos, que deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, que deberán regir durante el año siguiente, dichas iniciativas deberán presentarse en los términos que disponga la legislación federal y local aplicable;
 
 XXV. Ejercer el derecho de veto, en los términos de la presente Constitución.
 
 XXVI. Ejercer la potestad reglamentaria, dictando los decretos, acuerdos, reglamentos e instrucciones que sean convenientes para la ejecución de las leyes.
 
-XXVII. Rendir al Congreso del Estado el 15 de marzo el informe anual que guarda la administración pública estatal, así como el avance y cumplimiento del Plan Estatal de Desarrollo de Gobierno, en los términos de esta Constitución y las leyes.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2017)</small>
+
+XXVII. Asistir al Congreso del Estado el 1 de septiembre a rendir el informe anual que guarda la Administración Pública Estatal, así como el avance y cumplimiento del Plan Estatal de Desarrollo;
 
 XXVIII. Enviar al Congreso del Estado al término de su periodo, una Memoria del ejercicio de su gestión.
 
@@ -1483,13 +1527,15 @@ II. No haber sido Gobernador del Estado por elección popular ordinaria o extrao
 
 III. Ser de reconocida probidad.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 101.
 
-Los secretarios de despacho, los directores y administradores de las entidades paraestatales, deberán concurrir al Congreso del Estado a solicitud expresa de este, para que informen, cuando se discuta una ley, se estudie un asunto concerniente a sus respectivos ramos o para que respondan a interpelaciones o preguntas.
+El Congreso del Estado, por sí o a solicitud de una cuarta parte de sus miembros, podrá citar a los Secretarios del Despacho del Ejecutivo, al Fiscal General, a los titulares de las Entidades de la Administración Pública Estatal y a los titulares de los Organismos a los que esta Constitución reconoce autonomía para que comparezcan, rindan informe, o respondan a los cuestionamientos que les formule el Congreso del Estado, previa solventación del procedimiento que fije la ley o el acuerdo parlamentario correspondiente.
 
-Los titulares de las dependencias, entidades y organismos del Gobierno estatal deberán proporcionar al Congreso del Estado, la información o documentación que les sea requerida mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor a quince días. El cumplimiento de esta obligación se realizará de conformidad con la ley.
+Igual obligación tendrán, cuando se discuta una ley o se estudie un negocio concerniente a su respectivo ramo, debiendo enviarles la Mesa Directiva respectiva, el citatorio correspondiente, con anticipación razonable y haciéndole saber el motivo exacto de su comparecencia.
+
+Los titulares de las dependencias, entidades y organismos del Gobierno Estatal, deberán proporcionar al Congreso del Estado, la información o documentación que les sea requerida mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor a quince días. El cumplimiento de esta obligación se realizará de conformidad con la ley.
 
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1515,7 +1561,9 @@ Asimismo, el Estado está obligado a entregar sin demora a los imputados o sente
 
 El Fiscal General será designado por el titular del Poder Ejecutivo del Estado con la ratificación del Congreso del Estado.
 
-Una vez que el Fiscal General rinda la protesta de ley correspondiente ante el Titular del Poder Ejecutivo, dentro de los treinta días posteriores deberá presentar ante el Congreso del Estado el programa de trabajo anual de la Fiscalía.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
+
+El Fiscal General presentará anualmente al Congreso del Estado un programa de trabajo que guardará concordancia con el Plan Estatal de Desarrollo.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2369,7 +2417,13 @@ Los entes públicos adoptarán las normas de contabilidad gubernamental aplicabl
 
 En el manejo de los recursos públicos, los poderes del Estado, los órganos constitucionales autónomos y los municipios se ajustarán a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad, honradez y responsabilidad social para satisfacer los objetivos a los que estén destinados.
 
-La deuda pública que se contrate con aprobación del Congreso del Estado, deberá tener como objetivo la infraestructura e inversiones productivas.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
+
+Las obligaciones o empréstitos que autorice el Congreso del Estado deberán destinarse a destinen a (sic) inversiones públicas productivas y a su refinanciamiento o reestructura, las cuales deberán realizarse bajo las mejores condiciones del mercado; en ningún caso podrán destinar empréstitos para cubrir gasto corriente.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2017)</small>
+
+El Estado y los Municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la ley general expedida por el Congreso de la Unión. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
 
 Las licitaciones públicas contempladas en la ley, tendrán por objeto asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
@@ -2419,7 +2473,9 @@ Son mecanismos del Sistema Estatal de Rendición de Cuentas, el informe de gesti
 
 ###### Artículo 164.
 
-El día quince del mes de marzo de cada año, el Gobernador del Estado rendirá un informe de la gestión gubernamental a su cargo y de actividades realizadas durante el año inmediato anterior; así mismo lo rendirán, en el mes de agosto de cada año los demás poderes públicos, los ayuntamientos y los órganos constitucionales autónomos. Los informes, serán públicos y se presentará ante las instancias y conforme al procedimiento y contenidos que señale esta Constitución y la ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2017)</small>
+
+El día 1 de septiembre de cada año, el Gobernador del Estado asistirá a la sede del Poder Legislativo a rendir un informe de la gestión gubernamental a su cargo y de las actividades realizadas durante el año inmediato anterior; en dicha sesión escuchará los posicionamientos de las formas de organización partidista y podrá responder los cuestionamientos que se le formulen. La Ley Orgánica del Congreso establecerá la forma en que se desarrolle esta sesión.
 
 Los informes de gestión a que se refiere el párrafo anterior, deberán señalar los resultados obtenidos, con base en lo establecido en los planes y programas, haciendo mención expresa de los indicadores y metas que den cuenta del cumplimiento de los objetivos.
 
@@ -2428,6 +2484,10 @@ Los informes de gestión a que se refiere el párrafo anterior, deberán señala
 ###### Artículo 165.
 
 El órgano de gobierno interior de administración y de representación política del Congreso del Estado, anualmente dará cuenta ante el Pleno de los resultados de la gestión legislativa realizada. El informe anual tendrá como referente los objetivos y metas establecidas en el plan de desarrollo institucional de la Legislatura de que se trate y el programa anual de trabajo respectivo.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2017)</small>
+
+Los diputados deben rendir un informe anual del ejercicio de sus funciones ante el órgano de gobierno interior del Congreso del Estado, y si así lo estiman pertinente, ante sus representados. Los diputados de mayoría relativa podrán hacerlo, además, ante los ayuntamientos de los municipios comprendidos en sus respectivos distritos electorales.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2441,7 +2501,9 @@ Al término de su gestión constitucional, entregará una Memoria, con los docum
 
 ###### Artículo 167.
 
-En el Poder Judicial, el informe anual sobre la situación que guarde la administración de justicia en el Estado, será rendido por el Magistrado Presidente ante el Pleno del Tribunal Superior de Justicia. Dicho documento tendrá como referente las políticas públicas y los lineamientos generales de la planeación institucional en materia de impartición de justicia, señalados en el Plan de Desarrollo Estratégico del Poder Judicial del Estado, las acciones previstas en el programa anual de actividades correspondiente, e incluirá los movimientos de ingresos y egresos del Fondo Auxiliar.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2017)</small>
+
+En la fecha que determine su Ley Orgánica, el Poder Judicial del Estado rendirá el informe anual sobre la situación que guarde la administración de justicia en el Estado, el que será rendido por el Magistrado Presidente ante el Pleno del Tribunal Superior de Justicia. Dicho documento tendrá como referente las políticas públicas y los lineamientos generales de la planeación institucional en materia de impartición de justicia, señalados en el Plan de Desarrollo Estratégico del Poder Judicial del Estado, las acciones previstas en el Programa Anual de Actividades correspondiente e incluirá los movimientos de ingresos y egresos del Fondo Auxiliar.
 
 Una vez aprobado el informe, el Tribunal Superior de Justicia lo enviará por escrito al Congreso del Estado.
 
@@ -2463,11 +2525,11 @@ Al término del periodo constitucional de cada Ayuntamiento, sus presidentes mun
 
 #### Sección segunda. De la Cuenta Pública
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 170.
 
-La fiscalización superior es una facultad exclusiva del Congreso del Estado que se ejerce a través de la Entidad de Auditoria Superior del Estado que tiene por objeto evaluar el desempeño de la gestión gubernamental, comprendiéndose en el examen, el cumplimiento de los objetivos y metas de los planes y programas de gobierno y la conformidad y justificación de las erogaciones realizadas con las partidas autorizadas en los correspondientes presupuestos de egresos.
+La fiscalización superior es una facultad exclusiva del Congreso del Estado que se ejerce a través de la Entidad de Auditoria Superior del Estado que tiene por objeto evaluar el desempeño de la gestión gubernamental, comprendiéndose en el examen, el cumplimiento de los objetivos y metas de los planes y programas de gobierno y la conformidad y justificación de las erogaciones realizadas con las partidas autorizadas en los correspondientes presupuestos de egresos y los demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2494,6 +2556,10 @@ V. La información general que permita el análisis de resultados.
 VI. Los resultados de la evaluación del desempeño de los programas ejercidos durante el periodo de que se trate, utilizando aquellos indicadores que permitan determinar el cumplimiento de las metas y objetivos de cada uno de ellos.
 
 Las cuentas públicas se entregarán a más tardar en el mes de febrero del año siguiente al del ejercicio fiscal anual que será objeto de fiscalización. Previamente, los entes obligados deberán entregar a la Entidad de Auditoría Superior del Estado, informes mensuales preliminares del avance de la gestión financiera y el desempeño gubernamental, en los términos que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2017)</small>
+
+En el caso de la Cuenta Pública que remita el Ejecutivo sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio de la Legislatura.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -3612,3 +3678,25 @@ PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su public
 > <small>(F. DE E., P.O. 20 DE AGOSTO DE 2015)</small>
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido de esta ley.
+
+P.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 48.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE DISCIPLINA FINANCIERA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En un plazo que no exceda de 60 días el Congreso del Estado deberá expedir la normatividad que corresponda para dar cumplimiento a este decreto.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 51.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El Congreso del Estado deberá expedir la reforma a su Ley Orgánica para dar cumplimiento a lo dispuesto en el presente decreto.
+
+SEGUNDO.- El Primer Informe de Gobierno correspondiente a la Administración Estatal 2016-2022 deberá ser rendido el 1 de septiembre de 2017, en los términos que dispone este decreto.
+
+TERCERO.- Por única ocasión, el Plan de Desarrollo Institucional y la Agenda Legislativa Común que expida el Congreso del Estado tendrá una vigencia de dos años y serán publicados en el Periódico Oficial del Estado, a más tardar el 15 de enero de 2017.
+
+CUARTO.- La Comisión Permanente será instalada, una vez que la presente reforma surta sus efectos constitucionales.
