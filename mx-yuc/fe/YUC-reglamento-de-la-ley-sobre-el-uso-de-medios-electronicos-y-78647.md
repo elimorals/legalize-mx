@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-sobre-el-uso-de-medios-electronicos-y-7864
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-18"
-last_updated: "2011-01-18"
+last_updated: "2017-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY SOBRE EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA DEL ESTADO DE YUCATAN
 
-REGLAMENTO DE LA LEY SOBRE EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA DEL ESTADO DE YUCATAN
+REGLAMENTO DE LA LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ENERO DE 2017.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el martes 18 de enero de 2011.
 
@@ -31,7 +31,9 @@ CIUDADANA IVONNE ARACELLY ORTEGA PACHECO, GOBERNADORA DEL ESTADO DE YUCATÁN, A 
 
 QUE EN EJERCICIO DE LAS ATRIBUCIONES CONFERIDAS AL TITULAR DEL PODER EJECUTIVO DEL ESTADO EN LOS ARTÍCULOS 55 FRACCIÓN II Y XXV, Y 60, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, Y CON FUNDAMENTO EN LOS ARTÍCULOS 14, FRACCIONES VIII Y IX, DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo ya expuesto y fundado, tengo a bien expedir el
 
@@ -113,7 +115,7 @@ Cualquier persona física o moral interesada en usar la Firma Electrónica Acred
 
 ###### Artículo 13.
 
-La Autoridades Certificadora (sic) o los Prestadores de Servicios de Certificación, para la expedición de un Certificado de Firma Electrónica Acreditada, una vez cumplidos los requisitos que señala la Ley, deberán requerir al solicitante:
+La Autoridades (sic) Certificadora o los Prestadores de Servicios de Certificación, para la expedición de un Certificado de Firma Electrónica Acreditada, una vez cumplidos los requisitos que señala la Ley, deberán requerir al solicitante:
 
 I. Clave Única de Registro de Población;
 
@@ -243,7 +245,7 @@ V. Tratándose de notarios, deberán acreditar tal carácter mediante copia cert
 
 VI. En caso de las personas morales, deberán exhibir copia certificada de su acta constitutiva, póliza u otro instrumento público, que acredite su constitución de acuerdo con las leyes mexicanas, y además el listado único de personas físicas a través de las que ejecutará los procesos de certificación, y
 
-VII. Acompañar a su solicitud, escrito en el que exprese su anuencia para ser auditado por la Autoridad Certificadora, a fin de que ésta constate el cumplimiento de lo dispuesto por la Ley, en este Reglamento y demás disposiciones legales aplicables; (sic)
+VII. Acompañar a su solicitud, escrito en el que exprese su anuencia para ser auditado por la Autoridad Certificadora, a fin de que ésta constate el cumplimiento de lo dispuesto por la Ley, en este Reglamento y demás disposiciones legales aplicables;
 
 ###### Artículo 30.
 
@@ -275,7 +277,9 @@ Cuando sea declarada la suspensión de un Certificado de Firma Electrónica Acre
 
 Artículo 34 (SIC). La Autoridad Certificadora podrá homologar los Certificados de Firma Electrónica Acreditada expedidos por otras Autoridades Certificadoras, siempre y cuando reúnan los requisitos señalados por la Ley, por este Reglamento y demás disposiciones legales aplicables.
 
-Artículo 35 (SIC). Los convenios que se celebren con otras Autoridades Certificadoras constituidas, en materia de homologación de Certificados de Firma Electrónica Acreditada, deberán incluir, entre otros aspectos, criterios y lineamientos de orden normativo y técnico, costos, alcances y vigencia.
+###### Artículo 35.
+
+Los convenios que se celebren con otras Autoridades Certificadoras constituidas, en materia de homologación de Certificados de Firma Electrónica Acreditada, deberán incluir, entre otros aspectos, criterios y lineamientos de orden normativo y técnico, costos, alcances y vigencia.
 
 ### CAPÍTULO IX. De las sanciones para los Prestadores de Servicios de Certificación
 
@@ -287,7 +291,9 @@ a) Sin causa justificada omita llevar a cabo un trámite relacionado a la expedi
 
 b) Proporcione un domicilio falso o una Dirección de correo Electrónico que no esté bajo su dominio;
 
-II. Multa de diez a doscientos días de salario mínimo general vigente en el Estado cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE ENERO DE 2017)</small>
+
+II. Multa de diez a doscientas unidades de medida y actualización cuando:
 
 a) Reincida en cualquiera de las conductas a que se refiere la fracción anterior, o
 
@@ -346,3 +352,13 @@ SECRETARIO DE HACIENDA
 C. LUIS ANTONIO HEVIA JIMÉNEZ
 
 OFICIAL MAYOR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 454/2017 POR EL QUE SE MODIFICAN NUEVE REGLAMENTOS ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
