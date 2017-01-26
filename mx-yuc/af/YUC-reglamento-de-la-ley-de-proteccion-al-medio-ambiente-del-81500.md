@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-proteccion-al-medio-ambiente-del-81500"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-26"
-last_updated: "2015-11-30"
+last_updated: "2017-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ENERO DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 26 de mayo de 2011.
 
@@ -2285,9 +2285,11 @@ Si no existiere el quórum necesario para realizar una sesión ordinaria, se lle
 
 ### Capítulo I. De las infracciones y sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE ENERO DE 2017)</small>
+
 ###### Artículo 239.
 
-Se sancionará con multa de quinientos a dos mil días de salario mínimo general vigente en el Estado, a quien cometa cualquiera de las siguientes infracciones:
+Se sancionará con multa de quinientas a dos mil unidades de medida y actualización, a quien cometa cualquiera de las siguientes infracciones:
 
 I. A toda persona física o moral que inicie una obra o actividad señalada en los artículos 31 y 32 de la Ley, sin haber obtenido previamente la autorización de impacto ambiental; en este supuesto se procederá además a la clausura de la obra o actividad;
 
@@ -2392,3 +2394,11 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 454/2017 POR EL QUE SE MODIFICAN NUEVE REGLAMENTOS ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
