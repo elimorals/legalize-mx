@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-tecnologico-superior-de-53806
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-22"
-last_updated: "2007-01-22"
+last_updated: "2017-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE LIBRES, PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE LIBRES, PUBLICADO EN EL P.O. DE 26 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE LIBRES, PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 22 de enero de 2007.
 
@@ -270,3 +272,15 @@ SEGUNDO.- Queda abrogada el Reglamento Interior del Instituto Tecnológico Super
 TERCERO.- Los decretos, acuerdos, circulares y demás disposiciones pronunciados antes y durante la autorización de este Reglamento, tendrán plena validez siempre y cuando no contravengan al mismo;
 
 Yo, Maestro en Ciencias Erick Hernández Castro, Director General del Instituto Tecnológico Superior de Libres, con fundamento a lo dispuesto del artículo 6, fracción XIV del Reglamento Interior del Instituto Tecnológico Superior de Libres, publicado en el Periódico Oficial del Estado de fecha 7 de julio de 2004, CERTIFICO: Que la presente copia fotostática del Acuerdo No. 22.03/060619 de la XXII Sesión Ordinaria del Órgano de Gobierno del Instituto Tecnológico Superior de Libres, mediante el cual se aprobó. El cual fue emitido el 19 de junio de dos mil seis, y concuerda fielmente en cada uno de sus puntos, con la que obra en los archivos de la Dirección General de este Plantel Educativo y que consta de dos fojas útiles; escritas únicamente en su anverso y que se extiende la presente para los usos y fines legales que convengan, en la Ciudad de Libres, Puebla, a los 13 días del mes de noviembre de dos mil seis.- Doy fe.- Director General.- MAESTRO EN CIENCIAS ERlCK HERNÁNDEZ CASTRO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE LIBRES”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Tecnológico Superior de Libres, publicado en el Periódico Oficial del Estado el veintidós de enero de dos mil siete.
+
+TERCERO. Los decretos, acuerdos, circulares y demás disposiciones pronunciados antes y durante la autorización de este Reglamento, tendrán plena validez siempre y cuando no contravengan al mismo.
