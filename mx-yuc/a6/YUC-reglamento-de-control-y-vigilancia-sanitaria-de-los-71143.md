@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-control-y-vigilancia-sanitaria-de-los-71143"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-10"
-last_updated: "2009-12-10"
+last_updated: "2017-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE CONTROL Y VIGILANCIA SANITARIA DE LOS ESTABLECIMIENTOS QUE EXPENDEN ALIMENTOS Y BEBIDAS EN GENERAL EN YUCATAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ENERO DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 10 de diciembre de 2009.
 
@@ -857,13 +857,21 @@ g) Que la acción u omisión implique riesgo sanitario que involucre el desarrol
 
 II. INFRACCIONES:
 
-a) En caso de que se realicen los supuestos de los incisos a), b), c) o d) de la fracción I de este artículo se impondrá multa de 200 a 5000 veces al salario mínimo general diario vigente en el Estado, sin perjuicio de imponer la clausura procedente;
+> <small>(REFORMADO, D.O. 26 DE ENERO DE 2017)</small>
 
-b) En el caso del inciso e), se impondrá como sanción una multa de 1 hasta 100 veces al salario mínimo general diario vigente en la zona económica de que se trate;
+a) En caso de que se realicen los supuestos de los incisos a), b), c) o d) de la fracción I de este artículo se impondrá multa de doscientas a cinco mil unidades de medida y actualización, sin perjuicio de imponer la clausura procedente;
 
-c) En el caso del inciso f), se impondrá como sanción una multa de 1 hasta 20 salarios mínimos, y
+> <small>(REFORMADO, D.O. 26 DE ENERO DE 2017)</small>
 
-d) En el caso del inciso g) se impondrá multa equivalente a 1 y hasta de 500 veces el salario mínimo atendiendo a la magnitud del riesgo y la actividad, servicio o proceso de productos afectados.
+b) En el caso del inciso e), se impondrá como sanción una multa de una a cien unidades de medida y actualización;
+
+> <small>(REFORMADO, D.O. 26 DE ENERO DE 2017)</small>
+
+c) En el caso del inciso f), se impondrá como sanción una multa de una a veinte unidades de medida y actualización y
+
+> <small>(REFORMADO, D.O. 26 DE ENERO DE 2017)</small>
+
+d) En el caso del inciso g) se impondrá multa de una a quinientas unidades de medida y actualización atendiendo a la magnitud del riesgo y la actividad, servicio o proceso de productos afectados.
 
 Cuando exista reincidencia, se procederá de conformidad con lo previsto por el artículo 308 de la Ley.
 
@@ -930,3 +938,13 @@ SECRETARIO DE SALUD
 C. DIANA DEL CARMEN CASTAÑEDA MEDINA
 
 SECRETARIA DE FOMENTO ECONÓMICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 454/2017 POR EL QUE SE MODIFICAN NUEVE REGLAMENTOS ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
