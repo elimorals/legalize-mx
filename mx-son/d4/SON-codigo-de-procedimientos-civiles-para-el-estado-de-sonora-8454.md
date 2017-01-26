@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2015-06-15"
+last_updated: "2017-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ENERO DE 2017.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -45,7 +47,7 @@ Disposiciones generales.
 
 Las disposiciones de este Código regirán en el Estado de Sonora, en asuntos civiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE ENERO DE 1988)</small>
 
 ###### Art. 2°.
 
@@ -667,7 +669,13 @@ II.- Abstenerse de emplear expresiones indecorosas u ofensivas;
 
 III.- Comparecer ante el juez cuando sean llamados para actos conciliatorios o para ser interrogados sobre los hechos de la causa, de acuerdo con las facultades a que se refieren las fracciones II y III del artículo 7º.
 
-La infracción a lo dispuesto en la fracción I será sancionada con la condena sobre daños y perjuicios conforme al artículo 86. La infracción a lo dispuesto en la fracción II, se sancionará con multa y el juez podrá además fijar para la persona ofendida una suma adecuada por concepto del daño no patrimonial que la misma haya sufrido. Para hacer cumplir lo dispuesto en la fracción III, el juez podrá usar de los medios de apremio que autoriza la ley.
+> <small>(ADICIONADA, B.O. 26 DE ENERO DE 2017)</small>
+
+IV.- Atender responsablemente y dar seguimiento al juicio para efectos de cumplir con las cargas procesales que la ley o un mandamiento judicial les impongan, así como con los requerimientos que se les hagan, ello para dar el impulso adecuado al asunto para su conclusión.
+
+> <small>(REFORMADO, B.O. 26 DE ENERO DE 2017)</small>
+
+La infracción a lo dispuesto en la fracción I será sancionada con la condena sobre daños y perjuicios conforme al artículo 86. La infracción a lo dispuesto en la fracción II, se sancionará con multa y el juez podrá además fijar para la persona ofendida una suma adecuada por concepto del daño no patrimonial que la misma haya sufrido. Para hacer cumplir lo dispuesto en la fracción III, el juez podrá usar los medios de apremio que autoriza la ley. Las partes, al no cumplir con las cargas procesales ni los requerimientos, según lo dispuesto en la fracción IV, perderán los derechos que se relacionen con el cumplimiento de tales cargas y requerimientos, y se les harán efectivos los apercibimientos de los que hayan sido objeto, además de la imposición, en su caso, de medios de apremio autorizados en la ley.
 
 ###### Art. 77.
 
@@ -1377,7 +1385,7 @@ II.- De cinco a partir de la fecha en que los autos queden en estado, si se trat
 
 III.- De quince a contar de la fecha de la audiencia de alegatos o de la en que expiró el plazo para alegar si se tratare de sentencias definitivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE ENERO DE 1988)</small>
 
 ###### Art. 162.
 
@@ -1493,15 +1501,27 @@ De las notificaciones.
 
 Las notificaciones se harán a más tardar el día siguiente al que se dicten las resoluciones que las prevengan, cuando el juez o la ley no dispongan otra cosa. Se impondrán de plano y a petición de parte, a los infractores de este artículo, una multa que no excederá de cinco veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se aplique la sanción.
 
+> <small>(REFORMADO, B.O. 26 DE ENERO DE 2017)</small>
+
 ###### Art. 170.
 
-Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deberán designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias necesarias. Igualmente deberán designar el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
+Todos los litigantes, en el primer escrito o en la primera diligencia judicial en que intervengan, deberán proporcionar dirección de correo electrónico para que en ella se les puedan realizar notificaciones personales durante el juicio, según lo disponga la ley o se determine a criterio del juez o tribunal, en los términos que prevé este Capítulo, así como señalar domicilio o casa ubicada en el lugar del juicio para que se les hagan las notificaciones que deban ser personales y se practiquen las diligencias necesarias. Quedarán excluidos de la carga legal de señalar dirección de correo electrónico quienes conforme a sus condiciones económicas, sociales, culturales o geográficas no dispongan de las herramientas de las tecnologías de la información y la comunicación o no tengan acceso a internet, en cuyo caso las notificaciones que debieran practicárseles vía correo electrónico les surtirán efectos mediante su publicación en lista de acuerdos. Igualmente deberán proporcionar la ubicación del domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
 
-Cuando alguna de las partes no cumpla con lo prevenido en cuanto a designación de domicilio para recibir notificaciones, éstas, aun las que conforme a la ley deban hacerse personalmente, se harán por cédula fijada en las puertas del juzgado; si omitieren la designación del domicilio de la persona contra quien promueven, no se le hará notificación alguna hasta que se subsane la omisión.
+Una vez proporcionada la dirección de correo electrónico, el Juzgado o Tribunal enviará un inicial correo de prueba, mismo que la parte de que se trate o, en su caso, el abogado autorizado, deberá responder para comprobar que la dirección proporcionada existe y está en condiciones de recibir las posteriores notificaciones que le sean enviadas mediante ese medio electrónico.
 
-Las partes tienen facultad para señalar domicilio para oír notificaciones durante el juicio, y tienen también libertad para cambiar esta designación cuando así lo deseen.
+El Pleno del Supremo Tribunal de Justicia del Estado de Sonora tomará los acuerdos necesarios para la debida operatividad del sistema empleado para la realización de notificaciones electrónicas.
 
-Entre tanto un litigante no haga nueva designación, seguirán haciéndosele las notificaciones personales en la casa que hubiere designado, a menos que no exista o esté desocupado el local, pues en este caso las notificaciones personales surtirán por medio de cédula fijada en las puertas del juzgado.
+Cuando alguna de las partes no cumpla con lo prevenido en cuanto a proporcionar una dirección de correo electrónico, o bien, no responda el correo de prueba que le envíe el Juzgado o Tribunal, las notificaciones correspondientes surtirán efectos mediante su publicación en lista de acuerdos; y cuando se omita la designación de domicilio para recibir notificaciones que conforme a la ley deban hacerse personalmente, se harán por cédula fijada en los estrados del Juzgado. Si omitieren aportar la ubicación del domicilio de la persona contra quien promueven, a ésta no se le hará notificación alguna mientras subsista la omisión.
+
+Cuando por cualquier circunstancia el sistema empleado por los Juzgados y Tribunales para enviar notificaciones electrónicas presente fallas o, en su caso, deje de funcionar temporal o permanentemente, las notificaciones que debieran practicarse por ese medio se efectuarán en el domicilio señalado por las partes para oír y recibir notificaciones, surtiendo efectos en la fecha de su realización. En caso de no haberse señalado domicilio las referidas notificaciones surtirán efectos mediante lista de acuerdos.
+
+Las partes tienen facultad para cambiar dirección de correo electrónico y domicilio para oír o recibir notificaciones durante el juicio, cambio que surtirá efectos una vez que les haya sido acordado de conformidad por el juez o tribunal.
+
+Entre tanto un litigante no haya proporcionado nueva dirección de correo electrónico o no haga nueva designación de domicilio, seguirán haciéndosele las notificaciones en el correo electrónico o la casa que hubiere designado. En caso de que el domicilio designado no exista, esté desocupado el local o éste aparezca cerrado o por cualquier motivo no se atienda al funcionario judicial encargado de efectuar la diligencia, la notificación personal surtirá efectos por medio de cédula que se fije en la puerta o lugar visible del propio domicilio o local, así como en los estrados del Juzgado.
+
+Sólo serán válidas las notificaciones realizadas por correo electrónico que hubieren sido ordenadas con posterioridad a la fecha en que se haya proporcionado la dirección respectiva y se hayan realizado en días y horas hábiles para la práctica de actuaciones judiciales a que alude el artículo 147 de este Código.
+
+Para efectos de la notificación a la que se hace referencia en el párrafo anterior, se entiende por "dirección de correo electrónico" el sistema de comunicación de mensaje o transmisión de datos a través de la red mundial informática comúnmente conocida como internet.
 
 ###### Art. 171.
 
@@ -1515,7 +1535,15 @@ b) Tratándose de personas morales, asociaciones, agrupaciones, instituciones o 
 
 II.- El emplazamiento deberá hacerse en el domicilio que señale la parte que lo pide, que deberá ser precisamente el lugar en que habita el emplazado, si es persona física, y si se trata de persona jurídica en el domicilio social, y en sus oficinas o principal establecimiento de sus negocios, salvo que se trate de establecimientos o sucursales, en que se estará a lo dispuesto por el artículo 108. El notificador deberá cerciorarse de que el señalamiento reúne estas circunstancias antes de hacerlo, pudiendo ser autorizado para notificarlo personalmente en el lugar donde habitualmente trabaje o en cualquier lugar en que se encuentre la persona física o representante emplazado dentro de la jurisdicción; pero en este caso, deberá entenderse directamente con la persona de que se trate, y el notificador hará constar específicamente en la diligencia los medios de que se valió para identificarla, comprobar su personalidad en caso de representación y demás particulares;
 
-III.- El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándosele copia de la demanda y demás documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio para hora fija, dentro de las horas hábiles del día siguiente. En caso de que no espere, se le hará notificación por cédula. La cédula en estos casos se entregará a los parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en las diligencias. Tratándose de arrendamiento o desahucio de vivienda o departamento, la cédula no podrá dejarse con personas que dependan del propietario. La cédula contendrá mención del juicio de que se trate y la inserción del auto o proveído que deba notificarse, y se entregará junto con las copias del traslado. La persona que la recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón en la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el juez determine lo que proceda. Sólo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no esté presente; en los demás casos deberá hacerse personal y directamente;
+> <small>(REFORMADA, B.O. 26 DE ENERO DE 2017)</small>
+
+III.- El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándosele copia de la demanda y demás documentos, así como del auto o proveído que deba notificarse.
+
+Si la persona física a quien se hace el emplazamiento no fuere encontrada en su domicilio, se le dejará citatorio para hora fija, dentro de las horas hábiles del día siguiente. En caso de que por cualquier motivo o razón no espere, se le hará notificación por cédula. La cédula en estos casos se entregará a los parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en el acta levantada con motivo de la diligencia. Tratándose de arrendamiento inmobiliario, la cédula no podrá dejarse con personas que dependan del propietario. La cédula contendrá mención del juicio de que se trate y la inserción del auto o proveído que deba notificarse, y se entregará junto con las copias del traslado. La persona que la recoja deberá firmar por su recibo; si se rehusare a hacerlo, se pondrá razón en el acta respectiva, debiendo expresarse el nombre de ella o la manifestación de que se negó a proporcionarlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio, se hará constar esa circunstancia a efecto de que el juez determine lo que proceda. Sólo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no se halle presente; en los demás casos deberá hacerse personal y directamente.
+
+En caso de que el emplazamiento deba hacerse por conducto de representante a las personas mencionadas en el inciso b) de la fracción I de este artículo, y éste no fuere encontrado en el domicilio señalado, previamente de que el notificador se haya cerciorado de que allí tiene su domicilio, conforme a lo dispuesto por la fracción II de este artículo, se le dejará citatorio para hora fija, dentro de las horas hábiles del día siguiente. En caso de que por cualquier motivo o razón no espere, se hará la notificación por cédula que se entregue a la persona que atienda la diligencia.
+
+En todo caso, cuando la persona física o moral no atienda por cualquier razón el citatorio, o la persona que atienda la diligencia se niegue a recibirla, o bien, el local o domicilio esté cerrado o por cualquier otro motivo no se atienda al funcionario judicial encargado de la notificación, ésta surtirá efecto por medio de cédula fijada en la puerta o lugar visible del propio domicilio o local, así como en los estrados del Juzgado, a partir de la fecha de la cédula.
 
 IV.- Cuando la persona a quien deba emplazarse no radique en el lugar del juicio, pero si dentro del mismo distrito judicial, se aplicará lo dispuesto por el artículo 164. Si se halla en otro partido distinto o fuera del Estado pero dentro de la República, y fuere conocido su domicilio, el emplazamiento se le hará por despacho o exhorto de acuerdo con la forma prevista en el Capítulo anterior. Si una vez despachado el exhorto sobreviniere un cambio de domicilio de la persona a quien se pretende emplazar, dentro de la jurisdicción del juez requerido, éste se entenderá facultado para hacer el emplazamiento en el nuevo domicilio, sin necesidad de nuevo exhorto, bastando que así lo pida la parte interesada ante el juez exhortado;
 
@@ -1527,33 +1555,49 @@ VII.- Cuando se trate de personas inciertas o ignoradas, el emplazamiento se har
 
 En todos los casos de emplazamiento, los jueces tendrán obligación de cerciorarse de oficio de que el emplazamiento se hizo de acuerdo con las reglas establecidas en este artículo, y de que la noticia del mismo pudo razonablemente llegar al interesado, y tienen facultades para mandar reponer el irregularmente hecho, antes de que el juicio continúe sus trámites.
 
+> <small>(REFORMADO, B.O. 26 DE ENERO DE 2017)</small>
+
 ###### Art. 172.
 
 Además del emplazamiento, se harán personalmente las siguientes notificaciones:
 
-I.- Del auto que ordene la absolución de posiciones o reconocimiento de documentos;
+I.- La primera resolución que se dicte, cuando por cualquier motivo se dejare de actuar en el juicio por más de seis meses;
 
-II.- La primera resolución que se dicte, cuando por cualquier motivo se dejare de actuar en el juicio por más de seis meses;
+II.- Las sentencias definitivas; y
 
-III.- Las sentencias definitivas;
+III.- Cuando se trate de casos urgentes o el juez o la ley así lo ordenen.
 
-IV.- Cuando se trate de casos urgentes o el juez o la ley así lo ordenen, y
+Las notificaciones a que hace referencia este artículo se harán mediante correo electrónico, salvo que el Juez, atendiendo a la naturaleza, urgencia o condiciones de la notificación, ordene que se practique en el domicilio o local señalado para oír y recibir notificaciones, en cuyo caso si el notificador no encontrare al interesado en el domicilio señalado por la parte, le dejará cédula en la que hará constar la fecha y hora en que la entrega, el nombre y apellido del promovente; el tribunal que manda practicar la diligencia; la determinación que se manda notificar, y el nombre y apellido de la persona a quien se entrega, que será de las mencionadas en la fracción III del artículo anterior, recogiéndole la firma en la razón que se asiente del acto, a menos que se rehusare a firmar o no supiere hacerlo, pues en estos casos se harán constar esas circunstancias. Para el caso de que el local o domicilio esté cerrado o por cualquier motivo no se atienda al funcionario judicial encargado de la diligencia, las notificaciones surtirán efecto por medio de cédula fijada en la puerta o lugar visible del propio domicilio o local, así como en los estrados del Juzgado, a partir de la fecha de la cédula.
 
-V.- El requerimiento de un acto a la parte que deba cumplirlo.
+Tratándose de notificación por correo electrónico, el Secretario de Acuerdos encargado de hacerla, en todo caso deberá imprimir la constancia que arrojará el medio electrónico empleado para remitir el correo, misma que contendrá los datos de envío y será firmada y sellada por el propio funcionario judicial, quien deberá agregarla al expediente judicial como auténtico acuse de recibo.
 
-Cuando variare el personal de un tribunal, no se proveerá acuerdo haciendo saber el cambio, sino que, al margen del primer proveído que se dicte después de ocurrido el cambio, se pondrán completos los nombres y apellidos de los nuevos funcionarios. Sólo que el cambio ocurriere cuando el negocio esté pendiente únicamente de la sentencia definitiva, se mandará hacer saber a las partes el cambio de personal.
+La dirección electrónica que se utilice para el envío de las notificaciones deberá ser aquella oficial que autorice el Pleno del Supremo Tribunal de Justicia del Estado.
 
-Las notificaciones de que habla este artículo se harán precisamente en el domicilio de las personas a quienes deba notificarse, o en la casa designada para oír notificaciones. Si el notificador no encontrare al interesado, le dejará cédula, en la que hará constar la fecha y hora en que la entrega, el nombre y apellido del promovente; el tribunal que manda practicar la diligencia; la determinación que se manda notificar, y el nombre y apellido de la persona a quien se entrega, que será de las mencionadas en la fracción III del artículo anterior, recogiéndole la firma en la razón que se asentará del acto, a menos de que se rehusare a firmar o no supiere hacerlo, pues en estos casos se harán constar estas circunstancias.
+> <small>(ADICIONADO, B.O. 26 DE ENERO DE 2017)</small>
+
+###### Art. 172 Bis.
+
+Las notificaciones de los autos que ordenen la absolución de posiciones o reconocimiento de documentos, así como los que contengan el requerimiento de un acto a cualquiera de las partes que deba cumplirlo, con determinado apercibimiento, surtirán plenos efectos mediante su publicación en la lista de acuerdos que se elabore en el Juzgado o Tribunal en términos del artículo 175 de este Código. Sin embargo, el Juez atendiendo a la naturaleza, urgencia o condiciones especiales del requerimiento de que se trate, podrá ordenar que éste se practique de manera personal en el domicilio o local señalado para oír y recibir notificaciones.
+
+Los autos a que se refiere el párrafo anterior deberán estar oportunamente glosados al expediente y a disposición de las partes para que se impongan de ellos. El incumplimiento de lo aquí establecido originará responsabilidad para el Secretario de Acuerdos respectivo, según se acredite su falta.
 
 ###### Art. 173.
 
 A solicitud de las partes el emplazamiento y notificaciones personales podrán hacerse por Notario Público o Corredor Público titulado, quienes los llevarán a cabo cumpliendo en lo conducente lo dispuesto en los dos artículos anteriores y expedirá constancia o certificación pormenorizada que se agregará a los autos como justificante de la diligencia.
 
+> <small>(REFORMADO, B.O. 26 DE ENERO DE 2017)</small>
+
 ###### Art. 174.
 
 Las partes tienen facultad para designar una o varias personas para que oigan notificaciones. En tanto no se revoque esta designación, las resoluciones que se notifiquen a los designados surtirán todos los efectos legales, como si se hubieran hecho personalmente a las partes que los designen.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+También podrán hacerse las notificaciones a los abogados de las partes en cualquier momento del proceso, a la dirección de correo electrónico que dichos profesionistas hayan aportado.
+
+Todas las notificaciones mediante correo electrónico se tendrán por practicadas y surtirán todos sus efectos legales en la fecha de envío que aparezca en la constancia que prevé el artículo 172, penúltimo párrafo, ello con independencia de la fecha en que el usuario consulte el correo electrónico respectivo.
+
+En caso de que las partes o sus abogados por cualquier motivo no puedan tener acceso al correo electrónico por ellos proporcionado, tendrán obligación de dar aviso oportuno al Juez o Tribunal y en su caso proporcionar una diversa dirección de correo electrónico para que se les practiquen las posteriores notificaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE ENERO DE 1988)</small>
 
 ###### Art. 175.
 
@@ -1593,9 +1637,11 @@ La nulidad se tramitará en la vía incidental. En el incidente sólo procederá
 
 De los términos judiciales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE ENERO DE 2017)</small>
+
 ###### Art. 180.
 
-Los términos judiciales empezarán a correr desde el día siguiente al en que se hubiere hecho el emplazamiento o notificación.
+Los términos judiciales empezarán a correr desde el día siguiente al en que se hubiere hecho el emplazamiento o notificación personal en el domicilio. Tratándose de notificación personal por correo electrónico, los términos correrán a partir del tercer día posterior de aquel en que haya surtido efectos según lo establecido en el artículo 174, penúltimo párrafo.
 
 Cuando fueren varias las partes y el término es común, se contará desde el día siguiente a aquél en que todas hayan quedado notificadas.
 
@@ -1963,7 +2009,7 @@ La consignación y el depósito de que tratan los artículos anteriores, pueden 
 
 El Notario se limitará a hacer el ofrecimiento y depósito y expedir al deudor la certificación respectiva. La substanciación de oposiciones del acreedor y declaración de liberación deberá hacerse por el juez competente.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ### CAPITULO CUARTO.
 
@@ -1994,8 +2040,6 @@ II.- La solicitud puede ser escrita o verbal, en la que se señalarán las causa
 III.- Cuando cualquiera de los cónyuges, concubina o concubino, sea quien solicita la separación y permanezca en el domicilio conyugal, se conminará al otro cónyuge, concubina o concubino, según sea el caso, para que se abstenga de concurrir al mismo mientras la medida subsista, sin perjuicio de que se le permita retirar su ropa, objetos personales y los bienes que sean necesarios para el ejercicio de su profesión, arte u oficio a que esta dedicado, además, cuando así lo considere necesario, el juez podrá imponer como medidas precautorias y de seguridad, la prohibición de ir a lugar determinado, caución de no ofender, abstenerse de realizar actos de perturbación o intimidación en contra del otro cónyuge, concubina o concubino, de sus bienes y familiares, en sus domicilios, lugares de trabajo, recreación o donde quiera que se encuentren, así como mantenerse alejado a una distancia que considere pertinente según las circunstancias del caso y, en general, las que considere necesarias para salvaguardar la integridad física, psíquica, moral y patrimonial del solicitante;
 
 IV.- El Juez podrá decretar las medidas que juzgue adecuadas para la realización de la separación y aplicará en lo conducente las reglas del artículo 447 del Código Civil y de la ejecución forzosa.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -2061,7 +2105,9 @@ Salvo los casos en que la ley disponga otra cosa, toda demanda deberá formulars
 
 I.- El tribunal ante quien se promueve;
 
-II.- El nombre y domicilio del actor;
+> <small>(REFORMADA, B.O. 26 DE ENERO DE 2017)</small>
+
+II.- El nombre, domicilio y dirección de correo electrónico del actor;
 
 III.- El nombre y domicilio del apoderado o representante legal y carácter con que promueve, en su caso;
 
@@ -2409,6 +2455,10 @@ Las partes tienen la carga de probar sus respectivas proposiciones de hecho, y l
 
 En casos de duda respecto a la atribución de la carga de la prueba, debe ésta rendirse por la parte que se encuentre en circunstancias de mayor facilidad para proporcionarla, o, si esto no puede determinarse, corresponderá a quien sea favorable el efecto jurídico del hecho que deba probarse.
 
+> <small>(ADICIONADO, B.O. 26 DE ENERO DE 2017)</small>
+
+La preparación de las pruebas quedará a cargo de las partes, quienes deben vigilar su oportuno desahogo y cumplir con las cargas que la ley o un mandato judicial les imponga. Si llegada la fecha para el desahogo de pruebas que requieren preparación, no se desahogan por causa imputable al oferente, se declararán desiertas.
+
 ###### Art. 261.
 
 Independientemente de la carga de la prueba impuesta a las partes conforme a los artículos anteriores, el juez o tribunal tendrán los siguientes poderes para conocer la verdad sobre los puntos controvertidos:
@@ -2563,9 +2613,13 @@ El juez queda facultado para calificar las posiciones y rechazar las que no se a
 
 Para desahogar la prueba de confesión judicial, se observarán las siguientes prevenciones:
 
-I.- La citación para absolver posiciones se hará a más tardar tres días antes del señalado para la diligencia;
+> <small>(REFORMADA, B.O. 26 DE ENERO DE 2017)</small>
 
-II.- Contendrá dicha citación el apercibimiento al que debe absolver las posiciones, de que si dejare de comparecer sin justa causa, será tenido por confeso;
+I.- La notificación de la citación para absolver posiciones se practicará mediante correo electrónico, y en caso de que la parte a cuyo cargo se ofrezca no haya proporcionado la dirección de correo respectiva, surtirá efectos mediante su publicación en lista de acuerdos, en la inteligencia de que la fecha de la diligencia de desahogo de la confesión será al menos tres días después de aquel en que surta efectos la notificación, sea ésta por correo electrónico o por lista del auto que contiene la citación;
+
+> <small>(REFORMADA, B.O. 26 DE ENERO DE 2017)</small>
+
+II.- El auto que cite para absolver posiciones contendrá el apercibimiento al que debe absolver las posiciones, de que, si dejare de comparecer sin justa causa, será tenido por confeso;
 
 III.- En caso de que el citado para absolver posiciones comparezca, el juez abrirá el pliego, y en su caso las calificará en la forma prevista en el artículo anterior. El absolvente podrá firmar el pliego de posiciones o estampar en él su huella digital. Si el articulante omite presentar el pliego con anticipación a la fecha de la diligencia y no concurre a ella, se le tendrá por desistido de la prueba; pero si concurre podrá articular posiciones en el acto, evitando que los que absuelvan primero se comuniquen con los que han de absolverlas después;
 
@@ -2595,7 +2649,9 @@ II.- Cuando compareciendo se niegue a declarar sobre las posiciones calificadas 
 
 III.- Cuando declare, pero insista en no responder categóricamente a las preguntas o trate de contestarlas con evasivas.
 
-En el caso de la fracción I no podrá ser declarado confeso el llamado a absolver posiciones, si no hubiere sido apercibido legalmente en la citación, de tenerlo como tal si, sin justa causa, no comparece; si el apercibimiento se hizo, el juez abrirá el pliego y calificará las posiciones antes de hacer la declaración.
+> <small>(REFORMADO, B.O. 26 DE ENERO DE 2017)</small>
+
+En el caso de la fracción I no podrá ser declarado confeso el llamado a absolver posiciones, si no hubiere sido apercibido legalmente en el auto que ordene absolver posiciones de tenerlo como tal si, sin justa causa, no comparece; si el apercibimiento se hizo, el juez abrirá el pliego y calificará las posiciones antes de hacer la declaratoria.
 
 En los casos de las fracciones II y III, el juez deberá hacer en el acto de la diligencia el apercibimiento de tenerlo por confeso, haciéndose constar esta circunstancia respecto de todo el pliego de preguntas, si la negativa fuere total o respecto de la pregunta o preguntas concretas a las que conteste con evasivas o se niegue a contestar.
 
@@ -2636,6 +2692,10 @@ II.- Cuando la citación para declarar sea distinta de la citación para absolve
 III.- No procede la confesión ficta en la prueba de declaración judicial;
 
 IV.- Serán aplicables a esta prueba, en lo conducente, las reglas de la prueba testimonial.
+
+> <small>(ADICIONADO, B.O. 26 DE ENERO DE 2017)</small>
+
+La notificación de la citación se practicará mediante correo electrónico, salvo el caso de que alguna de las partes no haya proporcionado la dirección de correo respectiva, en cuya virtud le surtirá efectos mediante su publicación en lista de acuerdos.
 
 ### CAPITULO TERCERO.
 
@@ -2749,9 +2809,11 @@ Los peritos deben tener título en la ciencia o arte a que pertenezca el punto s
 
 Si la profesión o el arte no estuvieren legalmente reglamentados, o estándolo, no hubiere peritos en el lugar, podrán ser nombrados cualesquiera personas entendidas, aun cuando no tengan título.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE ENERO DE 2017)</small>
+
 ###### Art. 293.
 
-Dentro del tercero día de la notificación del auto que admita la prueba pericial, cada parte podrá nombrar un perito, si no hubiere hecho antes la designación, perdiendo este derecho en los siguientes casos:
+- Dentro del tercer día de la notificación que surtirá efectos mediante lista de acuerdos del auto que admita la prueba pericial, cada parte podrá nombrar un perito, si no hubiere hecho antes la designación, perdiendo este derecho en los siguientes casos:
 
 I.- Si dejaren de hacer el nombramiento en el término señalado por este artículo;
 
@@ -2763,7 +2825,7 @@ IV.- Cuando el que fuere nombrado y aceptó el cargo, lo renunciare después, y
 
 V.- Si el designado por los litigantes no se encontrare en el lugar del juicio, o en el que deba practicarse la prueba.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE ENERO DE 1988)</small>
 
 ###### Art. 294.
 
@@ -2787,7 +2849,7 @@ Los peritos quedan autorizados para solicitar aclaraciones de las partes, requer
 
 El juez podrá ordenar que se repita o amplíe la prueba ofrecida por las partes, y que los peritos practiquen las investigaciones que les encomiende y suministren los informes u opiniones que les pida.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE ENERO DE 1988)</small>
 
 ###### Art. 297.
 
@@ -2819,9 +2881,11 @@ Prueba de reconocimiento o inspección judicial.
 
 A solicitud de parte o por orden del juez, pueden verificarse inspecciones o reconocimientos de lugares, de cosas, muebles o inmuebles, o de personas. Si la prueba es pedida por alguna de las partes, deberá indicar con toda precisión al ofrecerla, la materia u objeto de la inspección y su relación con algún punto del debate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE ENERO DE 2017)</small>
+
 ###### Art. 300.
 
-Al admitir la prueba, el juez ordenará que el reconocimiento o inspección se practique previa citación de las partes, fijándose el día, hora y lugar.
+Al admitir la prueba, el juez ordenará que el reconocimiento o inspección se practique con citación de las partes, fijándose el día, hora y lugar. La notificación de la citación se practicará mediante correo electrónico, y en caso de que no se haya proporcionado la dirección de correo respectiva, surtirá efectos mediante su publicación en lista de acuerdos del auto respectivo.
 
 Las partes, sus representantes o patronos, pueden concurrir a la inspección y hacer las observaciones que estimen oportunas.
 
@@ -2853,7 +2917,9 @@ La contraparte podrá, a su vez, dentro de los tres días siguientes al en que s
 
 Los hechos materia del examen deben referirse a los puntos del debate y no serán contrarios al derecho o a la moral; y su formulación se hará en artículos separados. Si alguno de los testigos no sabe el idioma castellano se indicará esta circunstancia para que se haga oportunamente por el juez la designación de intérprete.
 
-La falta de indicación del domicilio de los testigos impedirá la admisión de la prueba, a menos que la parte ofrezca presentarlos. Si el testigo no vive en el domicilio señalado, se tendrá al oferente por desistido de utilizarlo.
+> <small>(REFORMADO, B.O. 26 DE ENERO DE 2017)</small>
+
+Las partes deberán presentar a los testigos, y sólo en caso de que manifiesten la imposibilidad de hacerlo directamente, el Juez las auxiliará previa petición en la que se indique o proporcione la ubicación del domicilio de los testigos. La falta de indicación del domicilio o el hecho de que el testigo no viva en el mismo, será motivo suficiente para declarar desierta la probanza.
 
 Si alguno de los testigos propuestos reside fuera del lugar del juicio se le examinará por exhorto. En este caso la prueba se ofrecerá acompañando interrogatorios con copia para la contraparte, la que podrá formular preguntas dentro del tercer día; pliegos que serán calificados por el juez con arreglo a las prevenciones del párrafo tercero de este artículo, procurando además, que estén concebidas en términos claros y precisos y que en una sola no se comprenda más de un hecho, a menos que por la íntima relación que exista entre varios, no puedan enunciarse separadamente, y formen un sólo hecho complejo; calificación que se anotará en el mismo interrogatorio. Se dejará en el expediente respectivo copia del pliego autorizada por el secretario. El juez podrá formular por escrito el interrogatorio sobre los hechos propuestos por las partes, pudiendo incluir en el exhorto el pliego de preguntas y el de repreguntas en sobre cerrado y sellado.
 
@@ -3879,7 +3945,7 @@ VIII.- El tribunal podrá permitir que el acreedor, bajo protesta de decir verda
 
 IX.- Puede pedirse la revisión de una cuenta ya aprobada; pero sólo en los casos de error material, omisiones de ingresos o falsedad o duplicidad de cargos que se hayan descubierto posteriormente. La revisión, en estos supuestos, se substanciará en incidente por separado, en el que se cite al que rindió la cuenta y demás interesados; y se les recibirán las pruebas que ofrezcan. La resolución que se dicte será apelable, si procediere el recurso según la cuantía.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 416.
 
@@ -5111,13 +5177,9 @@ En el caso previsto en la parte final del artículo 3292 del Código Civil, no h
 
 Si comenzado el juicio se presentan alguno o algunos acreedores hipotecarios, se procederá conforme a las reglas de los concursos de acreedores hipotecarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 15 DE JUNIO DE 2015)</small>
 
 ### CAPITULO SEPTIMO.. Juicio especial en materia de arrendamiento inmobiliario
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
@@ -5126,8 +5188,6 @@ Si comenzado el juicio se presentan alguno o algunos acreedores hipotecarios, se
 A las controversias que versen sobre el arrendamiento inmobiliario serán aplicables las disposiciones de este capítulo. El juez tendrá las más amplias facultades, dentro de la normatividad que le confiere su competencia y jurisdicción, para impulsar el procedimiento y decidir lo que en derecho convenga teniendo como objetivo que sus resoluciones se emitan de manera pronta, completa e imparcial.
 
 A las acciones que se intenten contra el fiador que haya otorgado fianza de carácter civil o terceros por controversias derivadas del arrendamiento, se aplicarán las reglas de este título, en lo conducente, respetando en todo momento la esencia y naturaleza del contrato de fianza. Igualmente, la acción que intente el arrendatario para exigir al arrendador el derecho del tanto y el pago de los daños y perjuicios a que se refiere el artículo 2717 del Código Civil para el Estado de Sonora, se sujetará a lo dispuesto en este título.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
@@ -5138,8 +5198,6 @@ Para el ejercicio de cualesquiera de las acciones previstas en este título, el 
 La falta de contrato escrito no limita el ejercicio de esta acción, debiendo el actor acompañar con su escrito de demanda cualquier medio de prueba tendiente a demostrar las (sic) existencia de la relación contractual, con independencia de las pruebas relacionadas con el motivo de la controversia, pruebas con las cuales se le dará vista al demandado en el momento del emplazamiento, para que junto con la contestación manifieste lo a (sic) que su derecho convenga y ofrezca las pruebas de su parte.
 
 En la demanda, contestación, reconvención y contestación a la reconvención, las partes deberán ofrecer las pruebas que pretendan rendir durante el juicio, exhibiendo las documentales que tengan en su poder o el escrito sellado mediante el cual se hayan solicitado los documentos que no tuvieran en su poder en los términos de los artículos 228 y 229 de este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
@@ -5153,15 +5211,11 @@ Fijada la litis, o trascurridos los plazos para ello, el juez en el mismo auto a
 
 En el mismo auto de admisión de la demanda, el juez exhortará a las partes a resolver el conflicto mediante alguno de los Mecanismos Alternativos de Solución de Controversias, pudiendo hacer uso de este derecho en cualquier momento procesal hasta antes de la audiencia de ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 543.
 
 Es obligación de las partes vigilar el desahogo e impulso de sus pruebas; y una vez concluidos los términos fijados a las partes y sin necesidad de acuse de rebeldía, el juicio seguirá su curso precluyendo cualquier derecho relativo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
@@ -5175,8 +5229,6 @@ II.- Si llamado un testigo, perito o solicitado un documento que hayan sido admi
 
 III.- Las pruebas deben presentarse de tal forma que la contraparte tenga oportunidad de conocerlas y estudiarlas, según la naturaleza del medio de convicción; tiempo que, en ningún caso, será menor a tres días antes de celebrar la audiencia, sin contar en este plazo el día de la celebración de la misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 545.
@@ -5189,17 +5241,15 @@ II.- De no lograrse la conciliación se pasará al desahogo de las pruebas admit
 
 III.- Desahogadas las pruebas, y dentro de la misma audiencia, las partes alegarán lo que a su derecho convenga y el juez dictará de inmediato la resolución correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE ENERO DE 2017)</small>
 
 ###### Art. 546.
 
-En caso de que dentro del juicio a que se refiere este título, únicamente se demande el pago de rentas atrasadas por dos o más mensualidades, la parte actora podrá solicitar al juez que la demandada justifique en el acto de la diligencia de emplazamiento, con los recibos de renta correspondientes o escritos de consignación, que se encuentra al corriente en el pago de las rentas pactadas y no haciéndolo se embargarán bienes de su propiedad suficientes para cubrir las rentas adeudadas.
+En caso de que dentro del juicio a que se refiere este título se reclame entre otras prestaciones el pago de rentas, y con la demanda se haya exhibido el contrato de arrendamiento respectivo, la parte actora podrá solicitar al juez que la demandada justifique en el acto de la diligencia de emplazamiento, con los recibos de renta correspondientes o escritos de consignación, que se encuentra al corriente en el pago de las rentas pactadas y, no haciéndolo, se embargarán bienes de su propiedad suficientes para cubrir las rentas que se le reclamen como adeudadas. La falta de exhibición del contrato impedirá legalmente el requerimiento de pago y embargo, pero no el ejercicio de la acción.
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 En el caso de que al contestar la demanda, se acredite con documentos que se encuentra al corriente en dichos pagos, y después de haberle dado vista al actor por término de tres días y si no lo objeta dentro de este plazo, el Juez concluirá el juicio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
@@ -5207,23 +5257,17 @@ En el caso de que al contestar la demanda, se acredite con documentos que se enc
 
 Para los efectos de este título siempre se tendrá como domicilio legal del arrendatario el inmueble motivo del arrendamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 548.
 
 Los incidentes no suspenderán el procedimiento. Se tramitarán en los términos del artículo 484 de este Código, pero la resolución se pronunciará en la audiencia de ley conjuntamente con la sentencia definitiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 549.
 
 Para la tramitación de apelaciones respecto del juicio a que se refiere este capítulo, se estará a lo siguiente: Las resoluciones y autos que se dicten durante el procedimiento y que sean apelables, una vez interpuesta la apelación, el juez la admitirá si procede y reservará la tramitación para que se realice en su caso, conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante. Si no se presentara apelación por la misma parte en contra de la sentencia definitiva, se entenderán consentidos (sic) las resoluciones y autos que hubieran sido apelados durante dicho procedimiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
@@ -5235,21 +5279,15 @@ La apelación que se interponga en contra de la sentencia definitiva procederá 
 
 Tratándose de resoluciones dictadas con posterioridad a la sentencia definitiva procede la apelación en efecto devolutivo de tramitación inmediata.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 551.
 
 La apelación deberá interponerse en la forma y términos previstos por el Título cuarto, Capítulo tercero de este código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 Art. 551 BIS.- En el desahogo de las controversias que surjan sobre comodato de bienes inmuebles se observarán las disposiciones establecidas en este capítulo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2015)</small>
 
@@ -5271,8 +5309,6 @@ En todos los asuntos de que trata este Título tendrá intervención el Minister
 
 El juez dispondrá de las más amplias facultades para la determinación de la verdad material, sin que quede vinculado a las reglas de la prueba legal para lograr este resultado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 El Juez de Primera Instancia estará facultado para intervenir en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia intrafamiliar, pudiendo decretar de oficio medidas precautorias, de seguridad y órdenes de protección que tiendan a preservar la familia y proteger a sus miembros, observando en particular las previstas en el artículo 447 del Código Civil y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sonora.
@@ -5292,8 +5328,6 @@ V.- No tendrán aplicación las reglas formales de apreciación de las pruebas, 
 > <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
 
 Art. 553 BIS.- No se requieren formalidades especiales para acudir ante el Juez de Primera Instancia tratándose de actos de violencia intrafamiliar previstos en el artículo 489 bis del Código Civil para el Estado de Sonora.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -5557,7 +5591,7 @@ Ejecutoriado el divorcio, el juez remitirá copia al Oficial del Registro Civil 
 
 La sentencia definitiva es apelable en el efecto suspensivo y no podrá ejecutarse hasta que la apelación se decida, excepto en lo que se refiera a pensión alimenticia.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE ABRIL DE 2004)</small>
 
 ### CAPITULO SEXTO.
 
@@ -5647,7 +5681,7 @@ Los asuntos que versen sobre posesión de la patria potestad y calificación de 
 
 La resolución que se dicte no es apelable.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE AGOSTO DE 2008)</small>
 
 Art. 595 BIS.- Tratándose de menores acogidos por una institución pública de asistencia social, la pérdida de la patria potestad se tramitará en juicio especial de acuerdo a las reglas de la vía sumaria, con las siguientes modalidades:
 
@@ -8545,7 +8579,7 @@ Lic. Alberto Gaxiola G.
 
 Lic. Francisco Duarte Porchas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.]</small>
 
 B.O. 26 DE MAYO DE 1951.
 
@@ -8716,3 +8750,19 @@ DECRETO NÚMERO 176, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SÉPTI
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a los ciento veinte días naturales, contados a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 90, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días hábiles después de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+En aquellos asuntos que se encuentren en proceso al entrar en vigor el presente Decreto, las partes y sus abogados podrán de manera opcional proporcionar una dirección de correo electrónico para que en lo sucesivo se les realicen notificaciones a través de ese medio y con base en la normatividad de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las demandas interpuestas antes de la fecha de entrada en vigor de estas reformas, se regirán por la normatividad vigente en el momento de su presentación.
