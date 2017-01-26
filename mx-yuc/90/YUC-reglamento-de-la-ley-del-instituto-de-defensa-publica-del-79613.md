@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-del-instituto-de-defensa-publica-del-79613
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-07"
-last_updated: "2011-02-07"
+last_updated: "2017-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY DEL INSTITUTO DE DEFENSA PUBLICA DEL ESTADO DE YUCATAN
 
-REGLAMENTO DE LA LEY DEL INSTITUTO DE DEFENSA PUBLICA DEL ESTADO DE YUCATAN
+REGLAMENTO DE LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ENERO DE 2017.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el lunes 7 de febrero de 2011.
 
@@ -641,7 +641,7 @@ XIII. Las demás que le confieran el Defensor General, el Titular de la Unidad d
 
 Los Trabajadores Sociales, tendrán las facultades y obligaciones siguientes:
 
-l. Realizar investigaciones socioeconomicas a las personas que soliciten los servicios del Instituto;
+I. Realizar investigaciones socioeconomicas a las personas que soliciten los servicios del Instituto;
 
 II. Promover y ejecutar programas y proyectos sociales dirigidos a los usuarios;
 
@@ -815,7 +815,9 @@ II. Original y copia de algún comprobante domiciliario;
 
 III. Formato debidamente llenado del escrito en el cual declara bajo protesta de decir verdad que se encuentra desempleado y no percibe ingreso alguno, y
 
-IV. En su caso, original y copia del último recibo de nomina o comprobante de pago, en el que conste que percibe, por cualquier concepto o modalidad, un ingreso inferior a los tres salarios mínimos diarios.
+> <small>(REFORMADA, D.O. 26 DE ENERO DE 2017)</small>
+
+IV. En su caso, original y copia del último recibo de nómina o comprobante de pago, en el que conste que percibe, por cualquier concepto o modalidad, un ingreso mensual inferior a noventa unidades de medida y actualización.
 
 ###### Artículo 47.
 
@@ -845,7 +847,9 @@ Aquellos casos en los que sea urgente la intervención del Instituto, a través 
 
 Para acceder a los servicios del Instituto, tratándose de un caso de urgencia, el solicitante deberá suscribir previamente un escrito en el que manifestará bajo protesta de decir verdad:
 
-I. Que se encuentra desempleado y no percibe algún ingreso; o que percibe, por cualquier concepto o modalidad, ingresos inferiores a los tres salarios mínimos diarios, por lo que no se encuentra en condiciones de retribuir los servicios de un abogado postulante o que habiéndolo contratado para etapas anteriores del proceso, actualmente carece de recursos para seguir costeándolo. En este último caso, deberá suscribir además un escrito dirigido a la autoridad que conozca del asunto, en el que removerá del cargo al abogado particular;
+> <small>(REFORMADA, D.O. 26 DE ENERO DE 2017)</small>
+
+I. Que se encuentra desempleado y no percibe algún ingreso; o que percibe, por cualquier concepto o modalidad, ingresos mensuales inferiores a noventa unidades de medida y actualización, por lo que no se encuentra en condiciones de retribuir los servicios de un abogado postulante o que habiéndolo contratado para etapas anteriores del proceso, actualmente carece de recursos para seguir costeándolo. En este último caso, deberá suscribir además un escrito dirigido a la autoridad que conozca del asunto, en el que removerá del cargo al abogado particular;
 
 II. Que se compromete a proporcionar los documentos y medios de prueba con que cuente y que el Asesor Jurídico considere necesarios para la consecución exitosa del asunto, o en su caso, el lugar en el que se pueden ubicar y la forma de obtenerlos;
 
@@ -1227,7 +1231,7 @@ II. Transcurrido el término del emplazamiento el Defensor General citará a los
 
 III. Verificada la audiencia de pruebas y alegatos, el Defensor General, tendrá un término de cinco días para emitir la resolución debidamente fundada y motivada, misma que se notificará por escrito al quejoso y al servidor público al que se le impute la conducta infractora;
 
-IV. Contra las resoluciones del Defensor General se podrá interponer el Recurso de Revisión correspondiente. El procedimiento y la forma para interponer el recurso de revisión se sujetará a lo dispuesto en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán; (sic)
+IV. Contra las resoluciones del Defensor General se podrá interponer el Recurso de Revisión correspondiente. El procedimiento y la forma para interponer el recurso de revisión se sujetará a lo dispuesto en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán;
 
 ###### Artículo 98.
 
@@ -1274,3 +1278,13 @@ SECRETARIO GENERAL DE GOBIERNO
 C. SERGIO BOGAR CUEVAS GONZÁLEZ
 
 CONSEJERO JURÍDICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 454/2017 POR EL QUE SE MODIFICAN NUEVE REGLAMENTOS ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
