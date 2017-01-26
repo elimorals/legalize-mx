@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-desarrollos-inmobiliarios-del-87667"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-04"
-last_updated: "2012-05-04"
+last_updated: "2017-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ENERO DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 4 de mayo de 2012.
 
@@ -465,7 +465,7 @@ e) Áreas de cesión a título gratuito y su ubicación, anexando la memoria de 
 
 f) Requisitos de construcción;
 
-g) Vialidades, infraestructura, equipamiento, servicios y (sic)
+g) Vialidades, infraestructura, equipamiento, servicios y
 
 h) uso o destino del suelo, y
 
@@ -703,7 +703,7 @@ III. Copia de la licencia de construcción;
 
 IV. Una copia del plano autorizado;
 
-V. Listado con la dirección de los predios terminados, y (sic)
+V. Listado con la dirección de los predios terminados, y
 
 VI. Constancia de recepción del sistema de tratamiento de aguas residuales, o constancia de conexión a la red de drenaje sanitario emitido por la dependencia encargada de este, y
 
@@ -1405,23 +1405,35 @@ En toda visita de inspección que realice la autoridad competente, deberá de cu
 
 El procedimiento para imponer las infracciones previstas en la Ley y este Reglamento cometidas por los Desarrolladores Inmobiliarios, se ajustará conforme a lo establecido en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE ENERO DE 2017)</small>
+
 ###### Artículo 158.
 
-Los Montos para las infracciones previstas en la Ley y este Reglamento son las siguientes:
+Los montos para las infracciones previstas en la Ley y este Reglamento son las siguientes:
 
-> <small>N. DE E. VÉASE TABLA EN EL D.O. DE 4 DE MAYO DE 2012, PÁGINAS DE LA 39 A LA 41.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 4 DE MAYO DE 2012, PÁGINAS DE LA 39 A LA 41]</small>
 
-SMV: Salario Mínimo vigente en Yucatán.
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. DE 26 DE ENERO DE 2017, PÁGINAS 8 Y 9]</small>
 
-VCI: Valor Catrastal (sic) del Inmueble.
+> <small>(REFORMADO, D.O. 26 DE ENERO DE 2017)</small>
+
+UMA: Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 26 DE ENERO DE 2017)</small>
+
+VCI: Valor Catastral del Inmueble
+
+> <small>(REFORMADO, D.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 159.
 
-La autoridad competente determinará el monto de las sanciones que aplicará por la comisión de una infracción a lo dispuesto por la Ley y este Reglamento en la forma prevista en el artículo anterior y, en su caso, cuando el monto mínimo de las multas expresado en veces el salario mínimo vigente resulte superior al porcentaje previsto como sanción máxima, se aplicará esta última.
+La autoridad competente determinará el monto de las sanciones que aplicará por la comisión de una infracción a lo dispuesto por la Ley y este Reglamento en la forma prevista en el artículo anterior y, en su caso, cuando el monto mínimo de las multas resulte superior al porcentaje previsto como sanción máxima, se aplicará esta última.
+
+> <small>(REFORMADO, D.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 160.
 
-Para el cálculo del monto de las multas se considerará el equivalente al salario mínimo vigente en el Estado.
+Para el cálculo del monto de las multas se considerará la unidad de medida y actualización y del valor catastral del inmueble.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -2114,3 +2126,13 @@ Los desarrollos habitacionales de 15,000 habitantes o más que obtengan su licen
 a. Por cada 15,000 habitantes se considerará una base para transporte público con acceso a la vialidad primaria, con al menos tres cajones para estacionamiento temporal de autobús o microbuses.
 
 b. Se instalará una estación de transporte público con un cajón de autobús por cada 2,100 habitantes.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 454/2017 POR EL QUE SE MODIFICAN NUEVE REGLAMENTOS ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
