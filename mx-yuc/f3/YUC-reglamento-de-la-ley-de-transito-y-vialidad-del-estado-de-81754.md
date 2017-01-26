@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-transito-y-vialidad-del-estado-de-81754
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-21"
-last_updated: "2015-12-15"
+last_updated: "2017-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ENERO DE 2017.
 
 Reglamento publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 21 de junio de 2011.
 
@@ -6451,13 +6451,15 @@ Se entenderá que las infracciones a la Ley o a este Reglamento cometidas por Co
 
 Multa
 
-> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 451.
 
-Las infracciones leves serán sancionadas con multa de 1 hasta 15 salarios mínimos; las graves con multas de 16 a 25 salarios mínimos; y las muy graves, de 90 a 100 salarios mínimos, de conformidad con lo previsto en el Catálogo de Sanciones, previsto en el Anexo I de este Reglamento.
+Las infracciones leves serán sancionadas con multa de una a quince unidades de medida y actualización; las graves con multas de dieciséis a veinticinco unidades de medida y actualización; y las muy graves, de noventa a cien unidades de medida y actualización, de conformidad con lo previsto en el Catálogo de Sanciones, previsto en el Anexo I de este reglamento.
 
-La cuantía de la multa se determina aplicando la cantidad en pesos que corresponda, a un día de salario mínimo vigente en la ciudad de Mérida, Yucatán, al día de la comisión de la infracción, multiplicada por el número de días fijado en el Catálogo de Sanciones.
+> <small>(REFORMADO, D.O. 26 DE ENERO DE 2017)</small>
+
+La cuantía de la multa se determina aplicando la cantidad en pesos que corresponda a una unidad de medida y actualización, al día de la comisión de la infracción, multiplicada por el número de días fijado en el Catálogo de Sanciones.
 
 El monto de la multa será determinado de la siguiente manera:
 
@@ -7023,9 +7025,9 @@ C. LUIS FELIPE SAIDÉN OJEDA
 
 SECRETARIO DE SEGURIDAD PÚBLICA
 
-> <small>N. DE E. VÉASE ANEXO EN EL D.O. DE 21 DE JUNIO DE 2011, PÁGINAS DE LA 246 A LA 286. F. DE E. AL ANEXO, D.O. 24 DE JUNIO DE 2011.</small>
+> <small>[N. DE E. VÉASE ANEXO EN EL D.O. DE 21 DE JUNIO DE 2011, PÁGINAS DE LA 246 A LA 286. F. DE E. AL ANEXO, D.O. 24 DE JUNIO DE 2011.]</small>
 
-> <small>N. DE E. VÉASE REFORMAS AL ANEXO, D.O. 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 35 A LA 75; D.O. 27 DE JULIO DE 2015, PÁGINAS DE LA 4 A LA 5.</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO, D.O. 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 35 A LA 75; D.O. 27 DE JULIO DE 2015, PÁGINAS 4 Y 5; D.O. 26 DE ENERO DE 2017, PÁGINAS 6 Y 7.]</small>
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -7068,3 +7070,11 @@ En caso de que el Poder Ejecutivo determine la expedición del decreto por el qu
 Tercero. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 454/2017 POR EL QUE SE MODIFICAN NUEVE REGLAMENTOS ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
