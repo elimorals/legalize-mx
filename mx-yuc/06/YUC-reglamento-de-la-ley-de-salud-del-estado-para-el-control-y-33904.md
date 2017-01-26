@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-salud-del-estado-para-el-control-y-3390
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-03"
-last_updated: "1992-09-03"
+last_updated: "2017-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE SALUD DEL ESTADO PARA EL CONTROL Y VIGILANCIA DE SUBSTANCIAS INHALANTES QUE PRODUCEN EFECTOS PSICOTROPICOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ENERO DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 3 de septiembre de 1992.
 
 CIUDADANA LICENCIADA DULCE MARIA SAURI RIANCHO, GOBERNADORA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, QUE EN USO DE LA FACULTAD QUE CONCEDE AL EJECUTIVO EL ARTICULO 55 FRACCION II, DE LA CONSTITUCION POLITICA DEL ESTADO Y CON FUNDAMENTO EN LOS DIVERSOS, 1, 2, 4, 5, 6, 7 INCISO A FRACCION XVIII, 8, 15, 98, 165, 166, 168 Y DEMAS RELATIVOS A LA LEY DE SALUD DEL ESTADO DE YUCATAN, CONTENIDA EN EL DECRETO NUMERO 470 DE FECHA 14 DE MARZO DE 1992 Y PUBLICADO EN EL DIARIO OFICIAL DEL GOBIERNO ESTATAL EL LUNES 16 DEL PROPIO MES Y AÑO, Y
 
-C O N S I D E R A N D O :.
+C O N S I D E R A N D O :
+
+[...]
 
 OCTAVO: Que para mi Gobierno el control y vigilancia de substancias inhalantes para evitar y prevenir el uso y consumo de las mismas, es una prioridad en la protección de la salud pública y en especial, de la salud de los menores e incapaces, y como medio para disminuir las consecuencias sociales y económicas de las conductas adictivas, como pueden ser: La comisión de delitos, accidentes, desintegración familiar y disminución de la productividad, siendo necesario contar con un reglamento específico en la materia, en virtud de lo cual, he tenido a bien expedir el siguiente:
 
@@ -241,7 +243,7 @@ b).- La prohibición de expender o suministrar a menores de edad e incapaces;
 
 c).- Al expender a granel se etiquetará el recipiente con la Leyenda:
 
-“iADVERTENCIA!. ESTE PRODUCTO CONTIENE SUBSTANCIAS TOXICAS Y SU INHALACION O INGESTION PUEDE PRODUCIR DAÑOS GRAVES A LA SALUD. NO SE DEJE AL ALCANCE DE LOS NIÑOS.";
+“¡ADVERTENCIA!. ESTE PRODUCTO CONTIENE SUBSTANCIAS TOXICAS Y SU INHALACION O INGESTION PUEDE PRODUCIR DAÑOS GRAVES A LA SALUD. NO SE DEJE AL ALCANCE DE LOS NIÑOS.";
 
 d).- El establecimiento ostentará carteles en lugares visibles con la leyenda:
 
@@ -399,15 +401,17 @@ II.- Multas;
 
 III.- Clausura temporal o definitiva, que podrá ser parcial o total, y
 
-lV.- Arresto hasta por 36 horas.
+IV.- Arresto hasta por 36 horas.
 
 ###### ARTICULO 36.
 
 Para imponer las sanciones que correspondan por las infracciones a que se refiere el Artículo 34 de este reglamento, la Autoridad Sanitaria fundará y motivará la resolución de conformidad con lo que al respecto establece el Artículo 303 de la Ley.
 
+> <small>(REFORMADO, D.O. 26 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 37.
 
-Se sancionará con multa equivalente de 200 a 2000 veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los Artículos 10, 12, 14, 17, 18, 22 y 31 de este reglamento, considerando que dichas violaciones pueden dar lugar a daños en la salud de las personas, al producir alteraciones psíquicas, físicas, químicas o biológicas y sin menoscabo de imponer la clausura procedente al establecimiento.
+Se sancionará con multa de doscientas a dos mil unidades de medida y actualización, la violación de las disposiciones contenidas en los artículos 10, 12, 14, 17, 18, 22 y 31 de este reglamento, considerando que dichas violaciones pueden dar lugar a daños en la salud de las personas, al producir alteraciones psíquicas, físicas, químicas o biológicas y sin menoscabo de imponer la clausura procedente al establecimiento.
 
 ###### ARTICULO 38.
 
@@ -454,3 +458,13 @@ ABOG. ORLANDO PAREDES LARA
 EL SECRETARIO DE SALUD
 
 DR. RAUL PAZ HEREDIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 454/2017 POR EL QUE SE MODIFICAN NUEVE REGLAMENTOS ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
