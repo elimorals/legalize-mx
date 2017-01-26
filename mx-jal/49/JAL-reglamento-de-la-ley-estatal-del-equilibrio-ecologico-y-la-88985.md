@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-estatal-del-equilibrio-ecologico-y-la-8898
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-11"
-last_updated: "2014-01-18"
+last_updated: "2017-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE EMISIONES POR FUENTES MÓVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2017.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 11 de agosto de 2012.
 
@@ -148,7 +148,7 @@ XXXIX. Programa de Gestión de Calidad del Aire: programa basado en el diagnóst
 
 XL. Proveedor autorizado: ente autorizado por la Secretaría de Medio Ambiente para el Desarrollo Sustentable para abastecer de equipos de verificación de emisiones vehiculares a los establecimientos acreditados;
 
-XLI. Reglamento: el presente el Reglamento (sic) de la Ley Estatal del Equilibrio Ecológico y La Protección al Ambiente en Materia de Prevención y Control de Emisiones por Fuentes Móviles;
+XLI. Reglamento: el presente el (sic) Reglamento de la Ley Estatal del Equilibrio Ecológico y La Protección al Ambiente en Materia de Prevención y Control de Emisiones por Fuentes Móviles;
 
 XLII. Secretaría: la Secretaría de Medio Ambiente para el Desarrollo Sustentable;
 
@@ -166,9 +166,13 @@ XLVIII. Vehículo exento: vehículo que, de acuerdo a este Reglamento, no se enc
 
 XLIX. Vehículo eléctrico: aquel que utiliza baterías de energía eléctrica como fuente de energía, impulsado por uno o más motores eléctricos;
 
-L. Vehículo híbrido: aquel que utiliza dos o más tecnologías para su impulso, pudiendo ser un motor de combustión interna y un motor eléctrico; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2017)</small>
 
-LI. Verificación vehicular: medición de las emisiones contaminantes a la atmósfera provenientes de los vehículos automotores, que en apego a lo previsto en la Ley y el Reglamento es realizado por los establecimientos acreditados, a través de equipos de verificación de emisiones vehiculares que cumplen con los lineamientos que establece el presente Reglamento y el manual técnico.
+LI. Verificación fuera de plazo: medición de las emisiones contaminantes a la atmósfera provenientes de los vehículos automotores, que en apego a lo previsto en la Ley y Reglamento es realizado por los establecimeintos (sic) acreditados, a través de equipos de verificación de emisiones vehiculares que cumplan con los lineamientos que establece el presente reglamento y el manual técnico; fuera del plazo establecido en el calendario oficial.
+
+ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2017)
+
+LII. Verificación vehicular: medición de las emisiones contaminantes a la atmósfera provenientes de los vehículos automotores, que en apego a lo previsto en la Ley y el Reglamento es realizado por los establecimientos acreditados, a través de equipos de verificación de emisiones vehiculares que cumplen con los lineamientos que establece el presente Reglamento y el manual técnico.
 
 ### Capítulo II. De la Autoridad y sus Atribuciones
 
@@ -184,7 +188,9 @@ III. Impulsar ante las autoridades Federales competentes estrategias que incenti
 
 IV. Proponer al titular del Ejecutivo la suscripción de instrumentos jurídicos con otras autoridades municipales, estatales, de otras entidades federativas o federales, con la finalidad de prevenir la contaminación atmosférica por fuentes móviles;
 
-V. Establecer y operar el Programa, con sujeción a la Ley y el Reglamento;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2017)</small>
+
+V. Establecer y operar el Programa con sujeción a la Ley y al Reglamento, así como establecer el calendario de verificación vehicular;
 
 VI. Promover, ante las autoridades federales competentes, la instalación de dispositivos que disminuyan las emisiones de gases contaminantes por fuentes móviles;
 
@@ -271,6 +277,10 @@ V. Maquinaria agrícola, de construcción y minera;
 VI. Vehículos de colección; y
 
 VII. Vehículos que no requieran el uso de combustibles fósiles.
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2017)</small>
+
+VIII. Vehículos Híbridos.
 
 ###### Artículo 14.
 
@@ -684,41 +694,29 @@ En caso de requerirse la reposición del certificado de verificación vehicular,
 
 ### Capítulo VI. Del Calendario de Verificación Vehicular
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
+
 ###### Artículo 70.
 
-La verificación vehicular deberá realizarse una vez al año para vehículos de uso particular y semestralmente para vehículos de uso intensivo conforme al último dígito de las placas de circulación del automotor, con apego al siguiente calendario oficial permanente:
+La verificación vehicular deberá relizarse (sic) una vez al año para vehículos de uso particular y semestralmente para vehículos de uso intensivo conforme al último dígito de las placas de circulación del automotor, con apego al calendario oficial permantente (sic) que establezca la Secretaría.
 
-I. Para los vehículos de uso particular:
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2017)</small>
 
-Mes Terminación Mes Terminación Placa Placa
+###### Artículo 70 Bis.
 
-Enero 1 Julio 6
+La verificación vehicular podrá realizarse fuera del plazo, conforme a las fracciones I y II del presente numeral.
 
-Febrero 2 Agosto 7
+I. Los vehículos que no sean verificados conforme a lo establecido en el Calendario Oficial de Verificación, podrán someterse a la prueba de emisiones fuera del plazo establecido en el calendario oficial, para lo cual deberán acreditar lo siguiente según corresponda:
 
-Marzo 3 Septiembre 8
+a) Contar con permiso vigente expedido por la Secretaría de Movilidad para circular con el objeto de cumplir con el programa de verificación obligatoria fuera del plazo establecido en el calendario oficial; y,
 
-Abril 4 Octubre 9
+b) Presentar comprobante de pago de la multa que en su caso se le hubiere impuesto por no portar el holograma de verificación vigente, o por emitir visiblemente contaminantes a la atmósfera, en términos de la Ley de Movilidad.
 
-Mayo 5 Noviembre 0
+II. En el caso de no obtener una constancia de verificación aprobatoria en el período de vigencia que ampara el permiso al que se refiere el punto anterior, dicha autorización quedará sin efectos; debiendo adquirir una nueva, hasta en tanto no verifique de manera exitosa.
 
-Junio Diciembre
+III. Los vehículos nuevos tendrán un plazo máximo de 40 días hábiles posteriores al momento de registro, para someterse a la prueba de emisiones; asimismo aquellos automotores provenientes de otras entidades federativas que emplaquen por primera vez en el Estado.
 
-II. Para los vehículos de uso intensivo:
-
-Mes Terminación Mes Terminación Placa Placa
-
-Enero 1 y 2 Julio 1 y 2
-
-Febrero 3 y 4 Agosto 2 y 4
-
-Marzo 5 y 6 Septiembre 5 y 6
-
-Abril 7 y 8 Octubre 7 y 8
-
-Mayo 9 y 0 Noviembre 9 y 0
-
-Junio Diciembre
+Asimismo, aquellos vehículos que se encuentren registrados en el registro estatal de los servicios públicos de tránsito y transporte, deberán contar con holograma de verificación vigente para poder realizar cualquier trámite administrativo que implique la sustitución de placas.
 
 ## Título Quinto. Programa de Verificación Vehicular Obligatoria
 
@@ -1228,7 +1226,7 @@ Las violaciones a los preceptos y disposiciones de la Ley, el Reglamento y el ma
 
 I. Amonestación tratándose de las infracciones señaladas en las fracciones I, VIII, XVI, XVII, XIX, XXVII, XXXVI y XXXVIII del artículo 112; fracciones III, VII, VIII, X y XIII del artículo 113 y fracciones II, VII, IX, y XI del artículo 114 del presente Reglamento;
 
-II. Con excepción de los infracciones (sic) previstas en la fracción anterior, con multa por el equivalente de veinte a veinte mil días de salario mínimo vigente en la zona del estado donde se cometa la infracción, en el momento de imponer la sanción, las demás infracciones previstas en los artículos 112, 113 y 114 de este Reglamento;
+II. Con excepción de los (sic) infracciones previstas en la fracción anterior, con multa por el equivalente de veinte a veinte mil días de salario mínimo vigente en la zona del estado donde se cometa la infracción, en el momento de imponer la sanción, las demás infracciones previstas en los artículos 112, 113 y 114 de este Reglamento;
 
 III. Clausura temporal o definitiva, la cual podrá ser total o parcial, cuando:
 
@@ -1336,7 +1334,7 @@ Secretario de Vialidad y Transporte
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 21 DE DICIEMBRE DE 2013.
 
@@ -1353,3 +1351,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La acreditación otorgada a los establecimientos de verificación que se encuentren vigentes a la fecha de publicación del presente Acuerdo, seguirá surtiendo efectos jurídicos hasta la conclusión de dicha vigencia, salvo en el caso de revocación de la misma en términos de la Ley Estatal de Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en materia de Prevención y Control de Emisiones por Fuentes Móviles.
 
 TERCERO. Las normas vigentes al momento del otorgamiento de la acreditación a los establecimientos correspondientes, se seguirán aplicando en cuanto a las obligaciones, responsabilidades y sanciones, hasta en tanto concluya la vigencia de las mismas en los términos del artículo anterior y de acuerdo a la Ley Estatal de Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en materia de Prevención y Control de Emisiones por Fuentes Móviles.
+
+P.O. 26 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DIGELAG ACU 62/2016 QUE REFORMA Y MODIFICA EL REGLAMENTO DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE EMISIONES POR FUENTES MÓVILES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la fecha en que entre en vigor el presente acuerdo, se dejan sin efectos las disposiciones que (sic) opongan al mismo.
