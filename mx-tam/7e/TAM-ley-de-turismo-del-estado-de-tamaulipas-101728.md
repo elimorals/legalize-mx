@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2016-12-13"
+last_updated: "2017-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE ENERO DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -243,9 +243,9 @@ XXX. Analizar y coadyuvar con la Secretaría de Seguridad Pública del Estado, e
 
 XXXI. Promover y fomentar con la Secretaría de Educación Pública del Estado la investigación, educación y la cultura turística;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016) (F. DE E., P.O. 26 DE ENERO DE 2017)
 
-XXII (SIC). Colaborar con la Secretaría del Trabajo del Estado, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incorporando a las personas con discapacidad, así como revisar el marco normativo de la actividad turística con el objeto de promover reformas a las leyes y demás normatividad aplicable que redunden en el fortalecimiento de la infraestructura turística y la calidad de los servicios;
+XXXII. Colaborar con la Secretaría del Trabajo del Estado, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incorporando a las personas con discapacidad, así como revisar el marco normativo de la actividad turística con el objeto de promover reformas a las leyes y demás normatividad aplicable que redunden en el fortalecimiento de la infraestructura turística y la calidad de los servicios;
 
 XXXIII. Operar el Registro Nacional de Turismo en términos de la Ley General;
 
