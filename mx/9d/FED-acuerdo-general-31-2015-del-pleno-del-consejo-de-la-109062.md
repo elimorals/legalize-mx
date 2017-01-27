@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-31-2015-del-pleno-del-consejo-de-la-109062"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-07-22"
-last_updated: "2016-06-17"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,21 +19,45 @@ issue_date: "2015-06-24"
 ---
 # ACUERDO GENERAL 31/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, [QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE GUANAJUATO]
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+ACUERDO GENERAL 31/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE GUANAJUATO
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de julio de 2015.
 
-Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+ACUERDO GENERAL 31/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE GUANAJUATO.
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+CONSIDERANDO
 
-La LXII Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
+PRIMERO. En términos de lo dispuesto por los artículos 94, párrafo segundo; 100, párrafos primero y octavo, de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del mismo, con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus atribuciones;
 
-Decreto Número 336
+SEGUNDO. Los artículos 94, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos y 81, fracciones IV, V, VI y XXIV; y 144, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Federación, establecen que son atribuciones del Consejo de la Judicatura Federal determinar el número y límites territoriales y, en su caso, la especialización por materia de los juzgados de Distrito y tribunales de Circuito, en cada uno de los Circuitos en que se divide el territorio de la República Mexicana, así como proponer al Pleno para su aprobación, los acuerdos generales de creación de los Centros de Justicia Penal, esta última, que ejerce a través de la Comisión de Creación de Nuevos Órganos, en términos del artículo 42, fracción II Bis, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, publicado el veintidós de noviembre de dos mil trece en el Diario Oficial de la Federación;
+
+TERCERO. El artículo 17 de la Constitución Política de los Estados Unidos Mexicanos establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes; por lo que para cumplir con el mandato constitucional es necesaria la creación de órganos jurisdiccionales, a fin de garantizar que la impartición de justicia sea pronta, completa, imparcial y gratuita;
+
+CUARTO. El dieciocho de junio de dos mil ocho, se publicó en el Diario Oficial de la Federación el Decreto de modificación de diversos artículos constitucionales, para establecer en nuestro país el modelo de justicia procesal penal acusatorio y oral, que se rige por los principios de publicidad, contradicción, concentración, continuidad e inmediación. Como resultado de lo anterior, el Consejo de la Judicatura Federal en ejercicio de sus atribuciones debe dictar, en su ámbito de competencia, las disposiciones administrativas que sean necesarias para el cumplimiento de la norma constitucional, de manera tal que antes del dieciocho de junio de dos mil dieciséis, todo el territorio nacional opere bajo el nuevo modelo procesal penal;
+
+QUINTO. En sesión de ocho de mayo de dos mil trece, el Pleno del Consejo de la Judicatura Federal aprobó el Plan Maestro de Implementación de la Reforma Penal, en el cual se incluyó la instalación de dos Centro (sic) de Justicia Penal en el Estado de Guanajuato;
+
+SEXTO. En ese contexto, el cinco de marzo de dos mil catorce se publicó en el Diario Oficial de la Federación el Código Nacional de Procedimientos Penales, que tiene como objeto establecer las normas para la investigación, el procesamiento y la sanción de los delitos, esclarecer los hechos, proteger al inocente, procurar que el culpable no quede impune y se repare el daño, señalando como ámbito de aplicación en la persecución de ilícitos, la competencia de los órganos jurisdiccionales federales en el marco de los principios y derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado mexicano sea parte;
+
+SÉPTIMO. El artículo Segundo Transitorio, primer párrafo, del Código Nacional de Procedimientos Penales, señala que la entrada en vigor del mismo, a nivel federal será gradualmente en los términos previstos en la Declaratoria que al efecto emita el Congreso de la Unión, sin que pueda exceder del dieciocho de junio de dos mil dieciséis;
+
+OCTAVO. El diecinueve de noviembre de dos mil catorce se publicó en el Diario Oficial de la Federación el Acuerdo General 36/2014 del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y que reforma y adiciona disposiciones de diversos Acuerdos Generales;
+
+NOVENO. El Pleno del Consejo de la Judicatura Federal, en sesión de cuatro de febrero de dos mil quince, aprobó la propuesta del proyecto arquitectónico de edificación de los Centros de Justicia Penal Federal Provisionales, así como de la propuesta de la plantilla de personal de los mismos, en términos del modelo de 2 jueces de Distrito y 1 Sala de Juicio Oral;
+
+DÉCIMO. En sesión de cuatro de marzo de dos mil quince el Pleno del Consejo de la Judicatura Federal, aprobó el punto de acuerdo presentado por el grupo de trabajo para la Implementación del Sistema de Justicia Penal, relativo a la habilitación provisional como tribunales de alzada del nuevo Sistema de Justicia Penal a los Tribunales Unitarios de Circuito; y
+
+DÉCIMO PRIMERO. El veintinueve de abril de dos mil quince se publicó en el Diario Oficial de la Federación el Decreto del Congreso de la Unión de la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, a partir del uno de agosto de dos mil quince, en los Estados de Baja California Sur, Guanajuato, Querétaro y San Luis Potosí.
+
+Actualmente se cuenta con la infraestructura física para la instalación de un Centro de Justicia Penal Federal en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre.
+
+Por lo anterior, se expide el siguiente
+
+ACUERDO
 
 ###### ARTÍCULO ÚNICO.
 
@@ -45,219 +69,119 @@ P.O. 15 DE MARZO DE 2021.
 
 ### CAPÍTULO I. Objeto de la Ley
 
-###### Artículo 1°.
+###### Artículo 1.
 
-La presente Ley es de orden público y de observancia general en el Estado de Aguascalientes, en materia de transparencia y acceso a la Información.
+El presente Acuerdo tiene por objeto regular la organización, funcionamiento e inicio de funciones del Centro de Justicia Penal Federal, en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre.
 
-Tiene por objeto establecer los principios, bases generales y procedimientos para garantizar el Derecho de Acceso a la Información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Legislativo, Ejecutivo y Judicial, Municipios, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito Estatal o Municipal.
+###### Artículo 2.
 
-###### Artículo 2°.
+Para efectos del presente Acuerdo se entenderá por:
 
-Son objetivos de esta Ley:
+I. Administrador: Juez de Distrito encargado de la administración del Centro de Justicia Penal Federal;
 
-I. Establecer las bases mínimas que regirán los procedimientos para garantizar el ejercicio del Derecho de Acceso a la Información;
+II. Centro: Centro de Justicia Penal Federal en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre;
 
-II. Establecer procedimientos y condiciones homogéneas en el ejercicio del Derecho de Acceso a la Información, mediante procedimientos sencillos y expeditos;
+III. Consejo: Consejo de la Judicatura Federal;
 
-III. Establecer las bases y la Información de Interés Público que se debe difundir proactivamente;
+IV. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito;
 
-IV. Promover, fomentar y difundir la cultura de la transparencia en el ejercicio de la función pública, el acceso a la Información, la participación ciudadana, así como la rendición de cuentas, a través del establecimiento de políticas públicas y mecanismos que garanticen la publicidad de Información oportuna, verificable, comprensible, actualizada y completa, que se difunda en los formatos más adecuados y accesibles para todo el público y atendiendo en todo momento las condiciones sociales, económicas y culturales del Estado de Aguascalientes;
+V. Jueces de Distrito: Jueces de Distrito especializados en el sistema penal acusatorio;
 
-V. Propiciar la participación ciudadana en la toma de decisiones públicas a fin de contribuir a la consolidación de la democracia;
+VI. Juzgadores: Jueces de Control, así como tribunales de Enjuiciamiento y de Alzada;
 
-VI. Establecer los mecanismos para garantizar el cumplimiento y la efectiva aplicación de las medidas de apremio y las sanciones que correspondan;
+VII. Pleno: Pleno del Consejo; y
 
-VII. Regular las facultades del ITEA;
+VIII. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia Especializada en el Sistema Penal Acusatorio.
 
-VIII. Sentar las bases mediante las cuales el ITEA participará dentro del Sistema Nacional;
+###### Artículo 3.
 
-IX. Garantizar la publicidad de Información oportuna, verificable, comprensible, actualizada y completa;
+El Centro iniciará funciones a partir de las cero horas del uno de agosto de dos mil quince.
 
-X. Promover la cultura de la transparencia y apertura gubernamental a través de políticas de transparencia proactiva y gobierno abierto; y
+###### Artículo 4.
 
-XI. Mejorar la organización, clasificación y manejo de los Documentos así como adoptar medidas y procedimientos técnicos que garanticen la administración y conservación de los mismos, sus soportes, validez, autenticidad, confidencialidad, integridad y disponibilidad de acuerdo a sus especificaciones, medios y aplicaciones.
+El Centro se integra por tres jueces de Distrito y un Tribunal de Alzada, y los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la administración de justicia.
 
-###### Artículo 3°.
+Los jueces de Distrito a que se refiere este artículo tendrán competencia para actuar indistintamente como jueces de Control y tribunales de Enjuiciamiento, sin perjuicio de lo dispuesto en los artículos 7 y 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales. Uno de los jueces de Distrito fungirá como Administrador.
 
-Las definiciones establecidas en el Artículo 3° de la Ley General serán aplicables en lo conducente al presente ordenamiento, además de las siguientes:
+El Centro contará con la plantilla laboral autorizada, y la Administración del Centro se regirá conforme a las disposiciones del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
-I. Áreas: Instancias que cuentan o puedan contar con la Información. Tratándose del sector público, serán aquellas que estén previstas en el reglamento interior, estatuto orgánico respectivo o normatividad equivalente;
+> <small>(REFORMADO POR EL TRANSITORIO DÉCIMO DEL ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2016)</small>
 
-II. Comisionado: Cada uno de los integrantes del Pleno del ITEA;
+###### Artículo 5.
 
-III. Comité de Transparencia: Instancia a la que hace referencia el Artículo 43 de la presente Ley;
-
-IV. Consejo Consultivo: El Consejo Consultivo del ITEA;
-
-V. Datos Personales: La Información numérica, alfabética, gráfica fotográfica, acústica o de cualquier otro tipo concerniente a una persona física, identificada o identificable, entre otra, la relativa a su nombre asociado, a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, cuenta personal de correo electrónico, patrimonio, ideología y opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales, la huella digital, su Información genética, la fotografía o el número de seguridad social u otras análogas que afecten su intimidad;
-
-VI. Derecho de Acceso a la Información: La facultad que tienen las personas de solicitar a los Sujetos Obligados, en la forma y términos que establece esta Ley, la Información sin más limitaciones que las expresamente previstas en esta Ley;
-
-VII. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades, funciones y competencias de los Sujetos Obligados, sus Servidores Públicos e integrantes, sin importar su fuente o fecha de elaboración. Los Documentos podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
-
-VIII. Expediente: Unidad documental constituida por uno o varios Documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite de los Sujetos Obligados;
-
-IX. INAI: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
-
-X. Indicadores: La Información numérica que permite evaluar la eficacia y eficiencia en el cumplimiento de los propósitos, metas y resultados institucionales, el grado de ejecución de las actividades, la asignación y el uso de recursos en las diferentes etapas de los procesos, proyectos y programas;
-
-XI. Información: La contenida en escritos, mapas, fotografías, grabaciones, soporte informático o digital, o en cualquier otro elemento técnico que haya sido creado u obtenido por el sujeto obligado, requerido en el ejercicio de sus funciones, y que se encuentre en su posesión y bajo su control; así como cualquier tipo de documentación generada y elaborada, sea parcial o totalmente con cargo al erario, que haya servido para discusiones y toma de decisiones en el ejercicio de las funciones de los Sujetos Obligados;
-
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
-
-XII. Información Confidencial: La Información que contiene Datos Personales y se encuentra en posesión de los Sujetos Obligados, susceptible de ser tutelada por el derecho fundamental a la privacidad, intimidad, honor y dignidad, así como la referida en el Titulo Sexto, de la presente Ley;
-
-XIII. Información de Interés Público: Se refiere a la Información que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual, cuya divulgación resulta útil para que el público comprenda las actividades que llevan a cabo los Sujetos Obligados;
-
-XIV. Información Reservada: La Información que se encuentra temporalmente sujeta a alguna de las situaciones previstas en el Título Sexto, Capítulo II de la presente Ley;
-
-XV. ITEA: El Instituto de Transparencia del Estado de Aguascalientes;
-
-XVI. Ley: La Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
-
-XVII. Ley General: La Ley General de Transparencia y Acceso a la Información Pública;
-
-XVIII. Municipios: Los once municipios integrantes del Estado de Aguascalientes;
-
-XIX. Plataforma Nacional: La Plataforma Nacional de Transparencia a que hace referencia el artículo 49 de la Ley General;
-
-XX. Servidores Públicos: Los mencionados en los párrafos tercero y cuarto del Artículo 108 de la Constitución Política de los Estados Unidos Mexicanos y en el Artículo 73 de la Constitución Política del Estado de Aguascalientes;
-
-XXI. Sistema Nacional: Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, previsto en el Título Segundo, Capítulo I de la Ley General;
-
-XXII. Sujetos Obligados: Las personas previstas en el Artículo 11 de la Ley;
-
-XXIII. UMA: Unidad de Medida y Actualización;
-
-XXIV. Unidad de Transparencia: Instancia a la que hace referencia el Artículo 44 de esta Ley; y
-
-XXV. Versión Pública: Documento o Expediente en el que se da acceso a Información eliminando u omitiendo las partes o secciones clasificadas.
-
-###### Artículo 4°.
-
-El Derecho Humano de Acceso a la Información comprende solicitar, investigar, difundir, buscar y recibir Información.
-
-Toda la Información generada, obtenida, adquirida, transformada o en posesión de los Sujetos Obligados es pública y accesible a cualquier persona en los términos y condiciones que establece la Constitución Federal, los tratados internacionales de los que el Estado mexicano sea parte, la Ley General y este ordenamiento; sólo podrá ser clasificada excepcionalmente como reservada temporalmente por razones de interés público.
-
-###### Artículo 5°.
-
-No podrá clasificarse como reservada aquella Información que esté relacionada con violaciones graves a derechos humanos o delitos de lesa humanidad, de conformidad con el derecho nacional o los tratados internacionales de los que el Estado mexicano sea parte.
-
-Ninguna persona será objeto de inquisición judicial o administrativa con el objeto del ejercicio del Derecho de Acceso a la Información, ni se podrá restringir este derecho por vías o medios directos e indirectos.
+Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 8 y 9, del Acuerdo General 39/2016, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación.
 
 ## TÍTULO SEGUNDO. RESPONSABLES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
 ### CAPÍTULO II. De los Principios en Materia de Transparencia y Acceso a la Información así como Rectores del ITEA
 
-###### Artículo 6°.
+###### Artículo 6.
 
-El Estado garantizará el efectivo acceso de toda persona a la Información en posesión de cualquier entidad, autoridad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, de los Municipios, órganos autónomos, partidos políticos, fideicomisos y fondos públicos; así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
+La jurisdicción territorial de los juzgadores del Centro comprenderá el Estado de Guanajuato, con la totalidad de sus municipios.
 
-###### Artículo 7°.
+###### Artículo 7.
 
-El Derecho de Acceso a la Información o la clasificación de la Información se interpretarán bajo los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, la Ley General, la Constitución Política del Estado de Aguascalientes y la presente Ley.
+El domicilio del Centro será el ubicado en Carretera Cuatro Carriles Guanajuato-Silao, Glorieta Santa Fe, Número 5, Colonia Yerbabuena, código postal 36251, Guanajuato, Guanajuato.
 
-En la aplicación e interpretación de la presente Ley deberán prevalecer los principios pro persona y de máxima publicidad, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano sea parte, así como en las resoluciones y sentencias vinculantes que emitan los órganos nacionales e internacionales especializados, favoreciendo en todo tiempo a las personas la protección más amplia.
+Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
 
-Para el caso de la interpretación, se podrá tomar en cuenta los criterios, determinaciones y opiniones de los organismos nacionales e internacionales, en materia de transparencia.
+###### Artículo 8.
 
-En todo lo no previsto en esta Ley se aplicará de manera supletoria la Ley del Procedimiento Administrativo del Estado de Aguascalientes y el Código de Procedimientos Civiles del Estado de Aguascalientes, en ese orden, siempre que sus disposiciones no sean contrarias a los principios y bases que rigen el Derecho de Acceso a la Información.
+El Centro contará con una Oficialía de Partes Común, que dará servicio a los juzgadores que lo integran, de conformidad con las disposiciones aplicables.
 
-###### Artículo 8°.
+El sistema de turno y distribución de asuntos será automatizado y aleatorio, con excepción de lo siguiente:
 
-El ITEA, como organismo garante del Derecho de Acceso a la Información, deberá regir su funcionamiento de acuerdo a los principios de certeza, eficacia, imparcialidad, independencia, legalidad, máxima publicidad, objetividad, profesionalismo y transparencia, en términos de lo dispuesto por el Artículo 8 de la Ley General.
+I. Los asuntos urgentes que se reciban durante las guardias, cuya atención corresponderá al juez de Distrito que deba cubrirla; y
 
-###### Artículo 9°.
+II. Los asuntos relacionados durante las etapas procesales de investigación e intermedia o de preparación del juicio.
 
-En el ejercicio, tramitación e implementación de la presente Ley y demás normatividad aplicable, el ITEA deberá atender a los principios señalados en la Sección Segunda denominada “De los Principios en Materia de Transparencia y Acceso a la Información Pública” contenida en el Capítulo II del Título Primero de la Ley General.
+Corresponde a las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información el diseño operativo del sistema automatizado de turno y distribución de asuntos; y la elaboración de sus lineamientos, los cuales serán sometidos directamente por éstas a consideración y, en su caso, aprobación de la Comisión de Creación de Nuevos Órganos.
+
+En el diseño del sistema se deberá tomar en consideración las guardias, las vacaciones, las licencias, los impedimentos y las sustituciones de juzgadores.
+
+En aquellas situaciones en que por caso fortuito o fuerza mayor no pueda utilizarse el sistema automatizado, el Oficial de Partes con la anuencia y supervisión del Administrador turnará los asuntos nuevos en el estricto orden secuencial en que se presenten; y los relacionados a que se refiere la fracción II de este artículo al juzgador correspondiente, sin embargo, deberá observarse que aquellos jueces de Distrito que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
+
+###### Artículo 9.
+
+A partir de las cero horas del uno de agosto de dos mil quince, la Oficialía de Partes del Centro, funcionará las veinticuatro horas, todos los días del año, para la recepción, registro, turno y envío de los asuntos.
+
+No obstante lo dispuesto en el párrafo anterior, de lunes a viernes durante el horario de las dieciocho a las ocho horas con cincuenta y nueve minutos del día siguiente, así como los días inhábiles, la Oficialía de Partes sólo recibirá las promociones de término que se presenten.
 
 ###### Artículo 10.
 
-Quienes soliciten Información tienen derecho a su elección, a que la misma les sea proporcionada de manera verbal o por escrito y a obtener por cualquier medio la reproducción de los Documentos en que se contenga; en todo caso deberá dejarse constancia en el Expediente respectivo.
-
-Los Sujetos Obligados deberán documentar todo acto que derive del ejercicio de sus funciones.
-
-Los Sujetos Obligados preservarán sus Documentos en archivos administrativos organizados y actualizados de conformidad con las disposiciones aplicables y deberán contar con un control de préstamos de Expedientes; asimismo publicarán, a través de los medios electrónicos disponibles, la Información completa y actualizada sobre el ejercicio de los recursos públicos y sus Indicadores.
+Los juzgadores, así como el personal adscrito a los mismos, laborarán de lunes a viernes de las nueve a las quince horas y de las dieciséis a las dieciocho horas, con una hora para la ingesta de alimentos, fuera de las instalaciones del Centro, de las quince a las dieciséis horas, sin perjuicio de las medidas de organización interna que adopten sus titulares atendiendo a las necesidades del servicio.
 
 ###### Artículo 11.
 
-Son Sujetos Obligados a transparentar y permitir el acceso a su Información y proteger los Datos Personales que obren en su poder: cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, municipios, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en los ámbitos estatal o municipal.
+Las guardias de turno para la atención de asuntos en días y horas inhábiles de los jueces de Distrito en su función de control se realizarán de forma semanal, de conformidad con los registros y programación que realice el Administrador.
 
-Para el cumplimiento de los objetivos de esta Ley, los Sujetos Obligados deberán cumplir con las obligaciones establecidas el Artículo 24 de la Ley General, además de capacitar de forma permanente al personal en la cultura del Derecho de Acceso a la Información y protección de Datos Personales en términos del Artículo 53 de la Ley General, así como enviar al ITEA un informe anual en el que se deberá incluir:
+La guardia de turno en días y horas inhábiles, finaliza el día lunes de cada semana a las ocho horas con cincuenta y nueve minutos e inicia el mismo día a las nueve horas.
 
-I. El número de solicitudes atendidas en materia de acceso a la información y protección de Datos Personales, estas últimas siendo obligatorias sólo a los entes públicos;
-
-II. El tipo de solicitudes y respuestas otorgadas a las mismas; y
-
-III. Los costos de reproducción así como de envío de las solicitudes atendidas.
+El Administrador del Centro adoptará las medidas administrativas necesarias, a fin de que el Tribunal de Alzada del Centro esté en posibilidad de resolver las apelaciones de término previstas en el Código Nacional de Procedimientos Penales.
 
 ### CAPÍTULO III. De los Sujetos Obligados
 
 ###### Artículo 12.
 
-Los Sujetos Obligados serán los responsables del cumplimiento de las obligaciones, procedimientos y responsabilidades establecidas en esta Ley, la Ley General, y los demás ordenamientos aplicables.
+Los juzgadores que integran el Centro llevarán Libros de Gobierno Electrónicos, que se integrarán con la información que se registre en el sistema informático respectivo.
 
 ###### Artículo 13.
 
-Los fideicomisos y fondos públicos, considerados entidades paraestatales deberán dar cumplimiento a las obligaciones establecidas en las leyes a que se refiere el Artículo anterior por sí mismos, a través de sus propias Áreas, unidades de transparencia y Comités de Transparencia. En el caso de los fideicomisos y fondos públicos que no cuenten con estructura orgánica y, por lo tanto, no sean considerados una entidad paraestatal, así como de los mandatos públicos y demás contratos análogos, cumplirán con las obligaciones de esta Ley a través de la unidad administrativa responsable de coordinar su operación.
+Los reportes estadísticos deberán remitirse a la Dirección General de Estadística Judicial, en la forma y tiempos que ésta determine.
 
 ###### Artículo 14.
 
-El ITEA es un órgano autónomo, especializado, independiente, imparcial y colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar, en el ámbito de su competencia, el ejercicio de los Derechos de Acceso a la Información y la protección de Datos Personales, conforme a los principios, bases y procedimientos establecidos por el Artículo 6º de la Constitución Política de los Estados Unidos Mexicanos, la Ley General, esta Ley y en las demás disposiciones aplicables.
-
-El ITEA formará parte del Sistema Nacional y se sujetará a las bases de coordinación que se establezcan en la Ley General.
+Los juzgadores del Centro, deberán levantar de manera individual un acta administrativa, por duplicado, del inicio de sus funciones, cuyo formato les será proporcionado por la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, debiendo remitir un ejemplar a la propia Secretaría Ejecutiva.
 
 ### CAPÍTULO I. Del Instituto de Transparencia del Estado
 
 ###### Artículo 15.
 
-El ITEA, además de las atribuciones establecidas en el Artículo 42 de la Ley General, tendrá las siguientes:
-
-I. Vigilar y hacer cumplir la presente Ley;
-
-II. Garantizar el Derecho de Acceso a la Información y la protección de los Datos Personales;
-
-III. Interpretar en el ámbito de su competencia la presente Ley y las disposiciones que de ésta deriven, así como la normatividad que le resulte aplicable;
-
-IV. Determinar y ejecutar, según corresponda, las sanciones de conformidad con lo señalado en la Ley General y el presente ordenamiento;
-
-V. Presentar ante el Congreso del Estado por conducto de su Presidente, un informe anual de labores y resultados en términos de lo dispuesto por el Artículo 16 de la presente Ley;
-
-VI. Proponer a los sujetos legitimados, la presentación de Iniciativas destinadas a adecuar las disposiciones legales en la materia, así como asesorarlos en su formulación;
-
-VII. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley General el presente ordenamiento y las demás disposiciones aplicables;
-
-VIII. Presentar petición fundada al INAI para que conozca de los recursos de revisión que por su interés y trascendencia lo ameriten;
-
-IX. Interponer acciones de inconstitucionalidad en contra de leyes expedidas por el Congreso del Estado que vulneren el derecho de acceso a la Información pública y la protección de Datos Personales, en términos de lo dispuesto por el Artículo 42, Fracción XV de la Ley General;
-
-X. Elaborar su reglamento interior y las disposiciones necesarias para el cumplimiento de sus atribuciones;
-
-XI. Elaborar su Proyecto de Presupuesto de Egresos a fin de darle trámite en términos de lo dispuesto por la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
-
-XII. Ejercer y administrar su presupuesto;
-
-XIII. Tener acceso a la Información Reservada o confidencial para determinar su debida clasificación, desclasificación o la procedencia de otorgar su acceso;
-
-XIV. Elaborar y publicar estudios e investigaciones para difundir y socializar el conocimiento de las materias objeto de esta Ley, y sobre los probables impactos que provocaría el ejercicio de los derechos tutelados;
-
-XV. Expedir lineamientos complementarios;
-
-XVI. Suscribir convenios de colaboración para el cumplimiento de sus atribuciones; y
-
-XVII. Las demás que establezca esta Ley y demás disposiciones legales.
+El Centro contará con el número suficiente de defensores públicos y oficiales de apoyo, en razón de la cantidad de los juzgadores que lo integran.
 
 ###### Artículo 16.
 
-El ITEA antes del último día del mes de febrero y por conducto de su Presidente, deberá presentar por escrito un informe anual de labores y resultados al Congreso del Estado, en el cual se incluirá la información siguiente:
-
-El número de solicitudes de Información presentadas a los Sujetos Obligados de la presente Ley; el medio por el cual se presentaron las solicitudes; la Información objeto de las mismas; la cantidad de solicitudes respondidas; el tipo de respuesta otorgada; el tiempo de procesamiento; el número de requerimientos realizados a los solicitantes; la cantidad de solicitudes que se tuvieron como no presentadas, que fueron reasignadas, que se declararon inexistentes y/o que fueron clasificadas, señalando en el caso de estas últimas el tipo de clasificación; las prórrogas solicitadas por circunstancias excepcionales; el número de solicitudes pendientes; y los fundamentos de cada una de dichas resoluciones.
-
-Asimismo, contendrá el número de recursos de revisión atendidos; las estrategias para divulgar y promocionar la Información generada por cada uno de los Sujetos Obligados, en la que se den a conocer los avances sobre el acceso a la Información y la protección de Datos Personales; en su caso, el número de acciones de inconstitucionalidad promovidas; así como las dificultades observadas en el cumplimiento de esta Ley.
-
-El informe anual comprenderá la labor de un año calendario, será publicado y difundido con amplitud. Su circulación será obligatoria entre los Sujetos Obligados.
-
-#### SECCIÓN SEGUNDA. De los Comisionados del ITEA
+Los jueces de control contarán con un sistema de acceso electrónico, mediante mecanismos tecnológicos que aseguren la confidencialidad de la información, para favorecer la comunicación con el Ministerio Público de la Federación y demás autoridades, así como con las personas autorizadas por éstas, que por razón de su función deban ingresar solicitudes de providencias precautorias o relacionadas con medidas de protección, así como actos de investigación que requieren autorización judicial, solicitudes de órdenes de aprehensión o comparecencia, entre otras.
 
 ## TÍTULO TERCERO. VINCULACIÓN CON LA PLATAFORMA NACIONAL DE TRANSPARENCIA
 
@@ -265,69 +189,31 @@ El informe anual comprenderá la labor de un año calendario, será publicado y 
 
 ###### Artículo 17.
 
-El máximo órgano de dirección del ITEA será el Pleno, conformado por tres comisionados.
+En caso de que sea necesario sustituir a alguno de los jueces de Distrito del Centro se estará a lo siguiente:
 
-Para ser Comisionado se requiere:
+I. La sustitución recaerá en otro juez de Distrito del mismo Centro;
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos;
+II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en alguno de los jueces de Distrito del Centro de Justicia Penal más cercano.
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II. Tener al menos veinticinco años cumplidos al día de la designación;
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 54/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2017)</small>
 
-III. Contar con título profesional de licenciatura;
-
-IV. No haber sido condenado por delito doloso;
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
-
-V. Haber residido en el Estado durante los dos años anteriores al día de la designación;
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
-
-VI. Durante el año previo al día de su nombramiento, no haber tenido cargo de elección popular ni de dirección nacional, estatal o municipal en algún partido político; de Secretario, Subsecretario o su equivalente en la administración pública estatal o municipal; de Director General de alguna entidad paraestatal o paramunicipal; de Magistrado o Juez del Poder Judicial del Estado; y no haber sido titular o miembro del máximo órgano de dirección de otro organismo autónomo del Estado; y
-
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
-
-VII. Acreditar experiencia profesional y un destacado prestigio en materia del derecho humano de acceso a la información, o actividades afines reconocidas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
+Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios del Decimosexto Circuito con residencia en Guanajuato, Guanajuato, para conocer con ese carácter y en el orden numérico de su denominación, de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
 ###### Artículo 18.
 
-Los Comisionados serán electos por el Congreso del Estado mediante el siguiente procedimiento:
+El personal de los juzgados de Distrito del Centro junto con su titular disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 100 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, en el orden que los titulares de dichos órganos jurisdiccionales consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso deberán de permanecer dos jueces de Distrito en el Centro, para lo cual deberá contabilizarse al que funja como Administrador, supuesto en el cual se deberá observar lo previsto en el artículo 8, fracción I, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2022)</small>
+El personal del Tribunal de Alzada del Centro disfrutará de los períodos vacacionales en los términos precisados. Lo mismo sucederá con el personal de la Administración del Centro, sin embargo, en este caso el Administrador deberá tomar las medidas necesarias para que haya servidores públicos de guardia en el mismo, durante dicho periodo vacacional, a fin de que el Centro no detenga su actividad.
 
-I. La Comisión Legislativa de Transparencia y Anticorrupción, sesenta días antes de que concluya su encargo alguno de los comisionados, emitirá convocatoria a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos. La convocatoria deberá difundirse en el Periódico Oficial del Estado, en un diario local de mayor circulación y en el portal de internet del Congreso del Estado.
-
-Toda propuesta deberá acompañarse con la documentación que acredite que el candidato cumple con los requisitos de Ley;
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
-
-II. La Comisión de Transparencia y Anticorrupción podrá adoptar los acuerdos legislativos que estime pertinentes a fin de recabar elementos sobre la experiencia que los candidatos tengan en materia de acceso a la Información y protección de Datos Personales de los candidatos;
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
-
-III. La Comisión de Transparencia y Anticorrupción informará al Pleno Legislativo cuáles candidatos cumplen con los requisitos de Ley así como su experiencia en materia de acceso a la Información y protección de Datos Personales;
-
-IV. El Pleno Legislativo elegirá mediante el voto de las dos terceras partes de los diputados presentes, procurando privilegiar la experiencia en materia de acceso a la Información y protección de Datos Personales, así como la igualdad de género.
-
-En caso de no lograr la mayoría requerida, se repetirá la votación hasta por dos ocasiones más, previo receso para propiciar el dialogo parlamentario. Si luego de las tres votaciones de referencia no se obtiene la mayoría requerida para la designación, deberá desahogarse nuevamente el procedimiento previsto en el presente Artículo; y
-
-V. Una vez que el nombramiento haya quedado firme por haberse superado la objeción prevista en el Artículo 19, el Congreso del Estado llamará a quien haya sido designado Comisionado para que rinda la protesta de ley.
+La propia Comisión de Carrera Judicial, previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones fuera de los meses de julio y agosto y, diciembre y enero, siempre y cuando existan causas excepcionales y justificadas para ello.
 
 ###### Artículo 19.
 
-El nombramiento de algún Comisionado podrá ser objetado por el Gobernador del Estado en un plazo de 10 días hábiles contados a partir de que el Congreso del Estado le comunique la designación; si no lo objeta dentro de dicho plazo, ocupará el cargo el Comisionado nombrado.
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
-
-En caso de que el Gobernador del Estado objete el nombramiento, la Comisión Legislativa de Transparencia y Anticorrupción incluirá tal objeción en su informe y el Pleno legislativo elegirá nuevamente al Comisionado, conforme a lo dispuesto en el artículo 18 Fracción IV de esta ley.
-
-Si el segundo nombramiento es objetado se procederá en términos del párrafo anterior, pero una vez logrado un tercer nombramiento ya no podrá presentarse objeción y el elegido ocupará la vacante.
+El Pleno y las Comisiones del Consejo, en el ámbito de su competencia, interpretarán y resolverán todas las cuestiones administrativas que se susciten con motivo de la aplicación del presente Acuerdo.
 
 ###### Artículo 20.
 
@@ -383,10 +269,6 @@ Al concederse una licencia o aceptarse una renuncia, se dictarán las medidas en
 
 La falta de algún Comisionado será suplida por el Secretario Ejecutivo; si se trata de falta definitiva, el Secretario Ejecutivo suplirá la ausencia hasta en tanto el Congreso del Estado realice la nueva designación.
 
-#### SECCIÓN TERCERA. De la estructura orgánica del ITEA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
-
 ###### Artículo 24.
 
 Para su correcto funcionamiento, el ITEA tendrá la siguiente estructura administrativa para la gestión y el desempeño de sus atribuciones:
@@ -404,8 +286,6 @@ IV. La Secretaría Ejecutiva;
 V. El Órgano Interno de Control; y
 
 VI. Las demás direcciones o unidades administrativas que establezcan las disposiciones reglamentarias aplicables.
-
-#### SECCIÓN CUARTA. Del Pleno
 
 ###### Artículo 25.
 
@@ -444,8 +324,6 @@ X. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 XI. Aprobar el programa anual de trabajo del Órgano Interno de Control, así como los planes de trabajo anuales de las áreas que conforman el ITEA; y
 
 XII. Las demás que deriven de la Ley General, el presente ordenamiento y demás disposiciones legales, reglamentarias y administrativas.
-
-#### SECCIÓN QUINTA. La Presidencia
 
 ###### Artículo 27.
 
@@ -493,8 +371,6 @@ XIII. Realizar los actos previstos en la Ley de Bienes del Estado de Aguascalien
 
 XIV. Presentar ante el Congreso del Estado el informe a que se refiere el Artículo 16 de esta Ley, previa aprobación del Pleno. Asimismo, remitirlo a los Sujetos Obligados.
 
-#### SECCIÓN SEXTA. Del Consejo Consultivo
-
 ###### Artículo 30.
 
 El ITEA contará con un Consejo Consultivo que será una instancia plural que deberá velar por la transparencia, rendición de cuentas, participación ciudadana y uso de la tecnología para garantizar el Derecho de Acceso a la Información, por el aprovechamiento de la Información pública para potenciar su impacto social, por la promoción de la colaboración ciudadana, y por el seguimiento y evaluación de los resultados de las acciones emprendidas por los Sujetos Obligados.
@@ -506,18 +382,6 @@ Dicho consejo estará integrado por cinco consejeros cuyo cargo durará tres añ
 El Presidente del Consejo Consultivo será nombrado por la mayoría de los Consejeros; durará en el cargo un año pudiendo ser reelecto por un periodo más.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 30 Bis.
-
-En casos fortuitos o de fuerza mayor que impidan o hagan inconveniente la presencia física de los Consejeros en un mismo lugar, las sesiones podrán celebrarse de manera virtual, empleando herramientas tecnológicas, que permitan por lo menos:
-
-I. La identificación visual plena de los Consejeros, aunque deberá privilegiarse, en caso de que exista la posibilidad del uso de herramientas que lo permitan, la identificación mediante la firma electrónica avanzada;
-
-II. La interacción e intercomunicación en tiempo real para propiciar la correcta liberación de ideas y asuntos; y
-
-III. Dejar registro audiovisual de la sesión y sus acuerdos.
-
-En estos supuestos, la convocatoria, celebración de las sesiones virtuales, redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
 
 ###### Artículo 31.
 
@@ -555,8 +419,6 @@ V. Una vez alcanzada la votación requerida, el Congreso del Estado llamará a q
 
 El Consejo Consultivo tendrá las facultades establecidas en el Artículo 48 de la Ley General y las que deriven del presente ordenamiento así como las demás disposiciones reglamentarias o administrativas que resulten aplicables.
 
-#### SECCIÓN SÉPTIMA. Del Secretario Ejecutivo
-
 ###### Artículo 34.
 
 El Secretario Ejecutivo será nombrado por el Pleno a propuesta de su Presidente.
@@ -590,10 +452,6 @@ XII. Tener fe pública respecto a hechos o actos relacionados con las atribucion
 XIII. Las demás que les sean encomendadas por los comisionados o se prevean en otras disposiciones legales o reglamentarias aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2022)</small>
-
-#### SECCIÓN OCTAVA. Del Órgano Interno de Control
-
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
 
 ###### Artículo 35.
 
@@ -675,8 +533,6 @@ XVII. Presentar las denuncias que correspondan ante el Ministerio Público;
 
 XVIII. Las demás funciones que le atribuyan la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, otras disposiciones legales y reglamentarias, así como aquellas que le confiera el Pleno.
 
-#### SECCIÓN NOVENA. De las Direcciones
-
 ###### Artículo 38.
 
 El ITEA contará con las direcciones que establezca el reglamento de la presente Ley; sus directores serán auxiliados por los subdirectores, jefes de departamento y demás unidades administrativas y personal técnico que prevea el propio reglamento y el presupuesto de egresos.
@@ -700,8 +556,6 @@ V. Atender los requerimientos que, para el desahogo de sus funciones, realice el
 VI. Asistir al Pleno, su Presidente y al Secretario Ejecutivo para el debido cumplimiento de sus funciones, de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables; y
 
 VII. Las demás que les otorgue la presente Ley, su reglamento y cualquier disposición aplicable.
-
-#### SECCIÓN DÉCIMA. Del Servicio Civil de Carrera
 
 ###### Artículo 40.
 
@@ -1363,8 +1217,6 @@ El ITEA verificará que los Sujetos Obligados cumplan con las obligaciones de tr
 
 La verificación de las obligaciones de transparencia y en su caso, el contenido y forma de presentación de las denuncias por su incumplimiento, así como el procedimiento que al respecto se debe seguir, se ajustará a lo previsto en los Capítulos VI y VII del Título Quinto de la Ley General.
 
-## TÍTULO SEXTO. INFORMACIÓN CLASIFICADA
-
 ###### Artículo 69.
 
 La clasificación es el proceso mediante el cual el sujeto obligado determina que la Información en su poder actualiza alguno de los supuestos de reserva o confidencialidad.
@@ -1455,8 +1307,6 @@ Para efectos del inciso d) de la presente fracción, el Pleno del ITEA deberá a
 
 La información confidencial no estará sujeta a temporalidad alguna y sólo podrán tener acceso a ella quienes sean los titulares de la misma, sus representantes y los Servidores Públicos facultados para ello.
 
-## TÍTULO SÉPTIMO. PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN
-
 ###### Artículo 71.
 
 Cualquier persona por sí misma o a través de su representante, podrá presentar solicitud de acceso a Información ante las unidades de transparencia de los Sujetos Obligados y éstas deberán garantizar las medidas y condiciones de accesibilidad para que toda persona pueda ejercer el Derecho de Acceso a la Información, así como brindar apoyo en la elaboración de las solicitudes, de conformidad con las bases establecidas en el Título Séptimo denominado “Procedimientos de Acceso a la Información Pública” de la Ley General y lo dispuesto en la presente Ley.
@@ -1495,8 +1345,6 @@ Los Sujetos Obligados a los que no sean aplicables las leyes de ingresos a que s
 
 La Información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples. Las unidades de transparencia podrán exceptuar el pago de reproducción y envío atendiendo a las circunstancias socioeconómicas del solicitante.
 
-## TÍTULO OCTAVO. DE LOS PROCEDIMIENTOS DE IMPUGNACIÓN EN MATERIA DE ACCESO A LA INFORMACIÓN
-
 ###### Artículo 75.
 
 El solicitante podrá interponer, por sí mismo o a través de su representante, de manera directa o por medios electrónicos, recurso de revisión ante el ITEA o ante la Unidad de Transparencia que haya conocido de la solicitud, recurso que se sustanciará en términos de lo establecido en el Capítulo I del Título Octavo de la Ley General.
@@ -1528,8 +1376,6 @@ El Pleno del ITEA podrá solicitar al INAI que ejerza su facultad de atracción 
 ###### Artículo 79.
 
 Los Sujetos Obligados a través de la Unidad de Transparencia, darán estricto cumplimiento a las resoluciones del ITEA y deberán informar a éste sobre tal cumplimiento. Excepcionalmente, considerando las circunstancias especiales del caso, los Sujetos Obligados podrán solicitar de manera fundada y motivada, una ampliación de plazo para el cumplimiento de la resolución, en términos de lo previsto en el Capítulo VI del Título Octavo de la Ley General.
-
-## TÍTULO NOVENO. MEDIDAS DE APREMIO Y SANCIONES
 
 ###### Artículo 80.
 
@@ -1705,22 +1551,6 @@ Respecto a servidores públicos, la potestad de imponer y ejecutar las sanciones
 
 Tratándose de sanciones económicas, la prescripción estará a lo dispuesto en el Código Fiscal del Estado de Aguascalientes.
 
-###### Artículo 93.
-
-Las multas no podrán ser cubiertas con recursos públicos.
-
-Los recursos económicos que se recauden por la imposición de las multas, deberán destinarse al ITEA, el cual deberá utilizarlos para el cumplimiento de sus atribuciones.
-
-T R A N S I T O R I O S :
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto iniciará su vigencia la misma fecha que entren en vigor las reformas y adiciones a la Constitución Política del Estado de Aguascalientes en materia de transparencia contenidas en el Decreto número 335.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan las disposiciones contenidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 22 de mayo de 2006, mediante Decreto Número 169, a excepción de su Artículo 10; su Capítulo IV que contiene los Artículos 23 a 28; así como sus Artículos 48 en su primer párrafo y su Fracción XIII; 69; 71; párrafo primero en su Fracción I incisos a) y b), su Fracción II incisos b), c), d), e) y f), su Fracción III incisos a), b), c), d), e), f), g) y h), además de sus párrafos segundo y tercero; 72; 72 bis; 73; y 74, disposiciones que regirán en materia de Datos Personales en posesión de Sujetos Obligados, en términos de lo previsto en el Artículo Tercero Transitorio de la Ley General.
-
 ###### ARTÍCULO PRIMERO.
 
 Se declaran parcialmente procedentes las observaciones presentadas por el Poder Ejecutivo al Decreto número 336, en lo que respecta a los Artículos 4º, párrafo segundo; 15, Fracción VI; 84, párrafo segundo, Fracción I; y 92 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
@@ -1734,112 +1564,6 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALI
 ###### ARTÍCULO TERCERO.
 
 El ITEA es el mismo organismo público autónomo a que se refiere el Artículo 42 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 22 de mayo de 2006, mediante Decreto Número 169; en consecuencia, conservará los recursos financieros y materiales, así como sus trabajadores.
-
-###### ARTÍCULO CUARTO.
-
-Quienes actualmente se desempeñen como comisionados del ITEA, se les ratifica en el cargo para el periodo que comprende del 1º de enero al 31 de diciembre del 2017, esto con el propósito de que completen siete años de ejercicio.
-
-###### ARTÍCULO QUINTO.
-
-A más tardar el 15 de octubre de 2017, la Comisión de Gobierno del Congreso del Estado deberá emitir la convocatoria respectiva, a fin de designar a los comisionados del ITEA que fungirán a partir del 1 de enero de 2018, tomando en consideración lo siguiente:
-
-I.- Se elegirá a un Comisionado que durará en su encargo tres años;
-
-II.- Se elegirá a un Comisionado que durará en su encargo cinco años; y
-
-III.- Se elegirá a un Comisionado que durará en su encargo siete años.
-
-Los comisionados nombrados en términos de (sic) señalado en las fracciones anteriores, no tendrán derecho a reelección.
-
-###### ARTÍCULO SEXTO.
-
-Dentro de los siguientes 180 días hábiles contados a partir de que inicie su vigencia el presente Decreto, la Comisión de Gobierno del Congreso del Estado deberá emitir la convocatoria respectiva, a fin de designar a los miembros del Consejo Consultivo del ITEA, los cuales fungían a partir de que surta efectos su nombramiento, tomando en consideración lo siguiente:
-
-I.- Se elegirán a dos Consejeros que durarán en su encargo tres años;
-
-II.- Se elegirán a dos Consejeros que durarán en su encargo cinco años; y
-
-III.- Se elegirá a un Consejero que durará en su encargo siete años.
-
-Los consejeros nombrados en términos de (sic) señalado en las fracciones anteriores, no tendrán derecho a reelección.
-
-El Consejo Consultivo deberá instalarse a más tardar en treinta días hábiles, contados a partir de la designación de sus miembros.
-
-###### ARTÍCULO SÉPTIMO.
-
-Los Sujetos Obligados se incorporarán a la Plataforma Nacional de Transparencia en términos de los lineamientos que al respecto establezca el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
-
-###### ARTÍCULO OCTAVO.
-
-El desarrollo, administración, implementación y funcionamiento de la plataforma electrónica en términos de esta Ley, se hará de conformidad con la disponibilidad presupuestaria y de acuerdo a la implementación de la Plataforma Nacional de Transparencia, en términos de la Ley General.
-
-###### ARTÍCULO NOVENO.
-
-La Información que hasta la entrada en vigor de la Ley General obra en los sistemas electrónicos del ITEA, formará parte de la Plataforma Nacional de Transparencia, conforme a los lineamientos que al respecto emita el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
-
-###### ARTÍCULO DÉCIMO.
-
-El ITEA deberá realizar las adecuaciones correspondientes a su marco normativo aplicable en el plazo de 90 días naturales contados a partir del inicio de vigencia de este Decreto.
-
-###### ARTÍCULO DÉCIMO PRIMERO.
-
-Los Sujetos Obligados contarán con un plazo de 90 días naturales contados a partir del día siguiente a la entrada en vigor de este Decreto, para adecuarse y dar cumplimiento a las disposiciones de esta Ley.
-
-No obstante, derivado del inicio de vigencia de la Ley General, los Sujetos Obligados deberán tener a disposición la Información referente a las obligaciones establecidas en los Artículos 55 a 67 de la presente Ley, en términos de lo previsto en el párrafo cuarto del Artículo Octavo Transitorio de la propia Ley General.
-
-###### ARTÍCULO DÉCIMO SEGUNDO.
-
-Los Municipios con población menor a 70,000 habitantes cumplirán con las obligaciones de transparencia de conformidad con sus posibilidades presupuestarias, en tanto el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales emite los lineamientos, mecanismos y criterios correspondientes para determinar las acciones a tomar.
-
-Lo anterior, sin perjuicio de que dichos Municipios continuarán cumpliendo con las obligaciones de Información a que se refiere la Ley General de Contabilidad Gubernamental y las disposiciones que emanan de ésta, en los plazos, términos y condiciones previstas en dicha ley y en las disposiciones referidas.
-
-Dichos Municipios podrán solicitar al ITEA que, de manera subsidiaria, divulgue vía Internet las obligaciones de transparencia correspondientes.
-
-###### ARTÍCULO DÉCIMO TERCERO.
-
-El ITEA integrará a su informe anual de labores y resultados, los recursos de inconformidad presentados antes de la vigencia del presente Decreto en conjunto con los recursos de revisión que se interpongan una vez iniciada su vigencia. Asimismo empatará la información que corresponda en el informe anual previsto en el Artículo 16 de esta Ley; por única ocasión, el siguiente informe comprenderá del 1º de septiembre de 2015 al 31 de diciembre de 2016.
-
-###### ARTÍCULO DÉCIMO CUARTO.
-
-Los Sujetos Obligados que no cuenten con los implementos tecnológicos necesarios para realizar las transmisiones referidas por el último párrafo de la Fracción XXVIII del Artículo 55 de esta Ley, deberán cumplir con tal obligación dentro de los 90 días hábiles siguientes al inicio de vigencia del presente Decreto tratándose de la administración pública centralizada de Gobierno del Estado así como Municipios de más de 70,000 habitantes; y al iniciar el ejercicio fiscal del año 2017 tratándose del sector paraestatal de Gobierno del Estado, organismos constitucionales autónomos y municipios con menos de 70,000 habitantes.
-
-###### ARTÍCULO DÉCIMO QUINTO.
-
-Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto, se sustanciarán ante el ITEA conforme a la normativa vigente al momento de su inicio.
-
-###### ARTÍCULO DÉCIMO SEXTO.
-
-Queda derogada cualquier disposición que contravenga los principios, bases, procedimientos y derechos estipulados en el presente Decreto.
-
-Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los veinticinco días del mes de octubre del año dos mil dieciséis.
-
-Por lo tanto el Congreso ordena se imprima, publique y se le dé el debido cumplimiento.
-
-Aguascalientes, Ags., a 25 de octubre del año 2016.
-
-AT E N TA M E N T E
-
-LA MESA DIRECTIVA:
-
-Dip. Jorge Varona Rodríguez,
-
-PRESIDENTE.
-
-Dip. Marco Arturo Delgado
-
-Martín del Campo,
-
-PRIMER SECRETARIO.
-
-Dip. Oswaldo Rodríguez García,
-
-SEGUNDO SECRETARIO.
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 3 de noviembre de 2016.- Carlos Lozano de la Torre.- Rúbrica.- Lic. Alejandro Bernal Rubalcava, en suplencia del Secretario General de Gobierno por ministerio de Ley. Rúbrica.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 27 DE FEBRERO DE 2017.
 
 ###### ARTICULO ÚNICO.
 
@@ -1859,11 +1583,15 @@ El Administrador del Centro llevará a cabo las acciones de coordinación que se
 
 SEGUNDO. El turno como Administrador corresponderá al Juez de Distrito del Centro que sea designado por el Consejo, cuya duración en el cargo será determinada conforme lo dispuesto por el Acuerdo General 36/2014, del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
-TERCERO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Cuarto Tribunal Unitario del Decimosexto Circuito, con residencia en Guanajuato, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TRANSITORIO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-El tribunal unitario precisará en los actos procesales que celebre, la denominación con la que actúa, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 54/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2017)</small>
 
-Este tribunal unitario queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos de los artículos 17 y 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como tribunal unitario de Circuito.
+TERCERO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios del Decimosexto Circuito con residencia en Guanajuato, Guanajuato, para conocer, en el orden numérico de su denominación, de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+
+Los Tribunales Unitarios indicados precisarán en los actos procesales que celebren la denominación con la que actúan, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirán por las disposiciones aplicables como tribunal unitario de Circuito.
 
 CUARTO. En materia de ejecución de sanciones penales se deberá observar lo dispuesto en el Acuerdo General 28/2015 del Pleno del Consejo de la Judicatura Federal.
 
@@ -1877,100 +1605,120 @@ EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CO
 
 D.O.F. 22 DE FEBRERO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 65.- SE REFORMAN LOS ARTÍCULOS 3º Y 70 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR”.]
 
-###### ARTÍCULO PRIMERO.
+PRIMERO. El presente Acuerdo entrará en vigor al día de su aprobación.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
-###### ARTÍCULO SEGUNDO.
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-Se Derogan las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+D.O.F. 17 DE JUNIO DE 2016.
 
-P.O. 27 DE NOVIEMBRE DE 2017.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREAN JUZGADOS DE DISTRITO ESPECIALIZADOS EN MEDIDAS CAUTELARES Y CONTROL DE TÉCNICAS DE INVESTIGACIÓN”.]
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 176.- REFORMAS A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+PRIMERO. El presente Acuerdo entrará en vigor el veintiuno de junio de 2016, con excepción de lo dispuesto en el Transitorio OCTAVO.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 506.- SE REFORMA EL ARTÍCULO 58 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+TERCERO. Los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación conocerán de las solicitudes que se presenten a partir de la entrada en vigor de este Acuerdo. Sin embargo, tratándose de las relacionadas con el nuevo sistema procesal penal acusatorio, además, tendrán que ser derivadas de asuntos iniciados a partir de la entrada en vigor de dicho sistema, con independencia de que los hechos hayan acontecido con anterioridad.
 
-###### ARTÍCULO PRIMERO.
+CUARTO. Los asuntos regulados en el artículo 8 de este Acuerdo que a la entrada en vigor del mismo estén en trámite, en los Centros de Justicia Penal Federal, deberán concluirse con las disposiciones con las que fueron iniciados.
 
-El presente Decreto entrará en vigor el día 01 de marzo de 2022.
+QUINTO. Las firmas electrónicas que hayan sido expedidas con anterioridad a la entrada en vigor del presente Acuerdo seguirán vigentes.
 
-###### ARTÍCULO SEGUNDO.
+SEXTO. Se deroga toda disposición que se oponga al presente Acuerdo.
 
-El Poder Judicial deberá realizar las adecuaciones normativas y administrativas necesarias para dar cumplimento al presente Decreto, a más tardar al 31 de diciembre de 2021.
+SÉPTIMO. Los libros físicos que contengan las columnas que se modifican con motivo de la entrada en vigor de este Acuerdo que tengan en existencia el Consejo de la Judicatura Federal o los órganos jurisdiccionales o, cuya impresión ya haya sido contratada, podrán utilizarse.
 
-P.O. 2 DE AGOSTO DE 2021.
+OCTAVO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para que los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación inicien funciones con los insumos necesarios, en la fecha señalada en el Transitorio Primero de este Acuerdo.
+
+NOVENO. Se reforma el artículo 102, fracción VI; la denominación de la Sección Sexta del Capítulo Segundo del Título Tercero; el artículo 116, primer párrafo; las fracciones I a III; los incisos a) y b) de la fracción IV; y las fracciones V y VI del mismo precepto; así como la Tabla 5 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, para quedar como sigue:
+
+“Artículo 102. …
+
+I. a V. …
+
+VI. Libro seis: medidas precautorias y cautelares, así como técnicas de investigación;
+
+VII. a XVII. …
+
+#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
+
+###### Artículo 116.
+
+El libro medidas precautorias y cautelares, así como técnicas de investigación constará de seis columnas con los rubros: Número de orden, Autoridad solicitante, Tipo de medida o técnica solicitada, Resolución, Fecha de notificación a la autoridad y Observaciones, las cuales deberán llenarse de la siguiente forma:
+
+I. Número de orden: se anotarán con numeración progresiva y ascendente las solicitudes, atendiendo a la fecha de su recepción, según corresponda, en la oficialía de partes o en el sistema electrónico del propio órgano que deba conocer de la misma; si la recibe un secretario de ese juzgado, esta será la fecha que se asiente, pero si el secretario corresponde a un juzgado diverso, la fecha que se anotará será aquella en que se reciba en el juzgado del conocimiento;
+
+II. Solicitante: se señalará la denominación de la autoridad que solicite la medida o técnica de investigación o, en su caso, el nombre de quien promueve;
+
+III. Tipo de solicitud: se especificará de manera clara y concreta, el tipo de medida o técnica de investigación que corresponda, o si se trata de una solicitud de conclusión;
+
+IV. …
+
+a) Fecha de resolución: se anotará el día, mes y año en que se pronuncie la resolución que recaiga a la solicitud; y
+
+b) Sentido: se asentará la expresión “librada” o “parcialmente librada”, según corresponda, cuando se otorgue la medida o autorización de técnica de investigación, o bien, la palabra “negada”, cuando sea el caso; o de ser procedente “concluida”;
+
+V. Fecha de notificación: se asentará el día, el mes y el año en que se notifique a la autoridad solicitante el proveído que resuelva la petición o, en su caso, la conclusión a quien proceda; y
+
+VI. Observaciones: se deberán anotar los supuestos en que se promueva la apelación en contra de la resolución, así como el resultado obtenido en el mencionado recurso.
+
+…
+
+TABLA 5.
+
+> <small>[N. DE E. VÉASE TABLA 5 EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 17 DE JUNIO DE 2016, PÁGINA 90.]</small>
+
+DÉCIMO. Se reforma el artículo 5 de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 51/2014; 52/2014; 1/2015; 2/2015; 31/2015; 32/2015; 33/2015; 34/2015; 44/2015; 45/2015; 46/2015; 47/2015; 48/2015; 49/2015; 50/2015; 3/2016; 4/2016; 5/2016; 6/2016; 7/2016; 8/2016: 9/2016; 10/2016; 11/2016; 24/2016; 25/2016; 26/2016; 27/2016; 31/2016; 32/2016; 33/2016; y 37/2016 que crean los Centros de Justicia Penal Federal en los Estados de Puebla; Durango; Yucatán; Zacatecas; Guanajuato; Baja California Sur; Querétaro; San Luis Potosí; Coahuila de Zaragoza, con residencia en Torreón; Sinaloa, con residencia en Culiacán; Oaxaca, con residencia en San Bartolo Coyotepec; Chihuahua, con residencia en la ciudad del mismo nombre; Chiapas, con residencia en Cintalapa de Figueroa; Nayarit, con residencia en Tepic; Tlaxcala con residencia en Apizaco; Ciudad de México, con sede en los reclusorios Oriente, Sur y Norte; Estado de México, con residencia en Nezahualcóyotl; Morelos, con residencia en Cuernavaca; Hidalgo, con residencia en Pachuca; Colima, con residencia en la ciudad del mismo nombre; Aguascalientes, con residencia en la ciudad del mismo nombre; Tabasco, con residencia en Villahermosa; Nuevo León, con residencia en Cadereyta; Quintana Roo, con residencia en Cancún; Sonora, con residencia en Hermosillo; Veracruz, con residencia en las ciudades de Xalapa y Coatzacoalcos; Michoacán, con residencia en Morelia; Campeche, con residencia en San Francisco de Campeche; Tamaulipas, con residencia en Reynosa y Ciudad Victoria; Guerrero, con residencia en Acapulco; Baja California, con residencia en las ciudades de Mexicali y Tijuana; y Jalisco, con residencia en el complejo penitenciario Puente Grande; para quedar como sigue:
+
+“Artículo 5. Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 8 y 9, del Acuerdo General 39/2016, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación.”
+
+DÉCIMO PRIMERO. Se reforman los numerales SEGUNDO, fracción I, número 4; y CUARTO, fracción I, párrafo segundo; y se deroga el párrafo tercero de la fracción I del numeral CUARTO, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. …
+
+1. a 3. …
+
+4. Ocho Juzgados Federales Penales Especializados: seis en Cateos, Arraigos e Intervención de Comunicaciones, y dos en Medidas Cautelares y Control de Técnicas de Investigación, todos con residencia en la Ciudad de México.
+
+5. …
+
+II. a XXXII. …
+
+CUARTO. …
+
+I. …
+
+Los juzgados de Distrito con residencia en la Ciudad de México ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquélla, con excepción de los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones; los Juzgados de Distrito Especializados en Ejecución de Penas; y los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación; que ejercerán jurisdicción territorial, en toda la República Mexicana.
+
+Derogado.
+
+II. a XXXIII. …”.
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 54/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 31/2015, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE GUANAJUATO, RELACIONADO CON LA HABILITACIÓN DEL TRIBUNAL UNITARIO DE ALZADA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos que se encuentren ingresados en el Cuarto Tribunal Unitario del Decimosexto Circuito correspondientes al Centro de Justicia Penal Federal en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento del citado tribunal, hasta su conclusión.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+CUARTO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para, en su caso, compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17 último párrafo y TERCERO transitorio del Acuerdo General 31/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Guanajuato.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 575.- SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 8° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO)”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-###### ARTÍCULO SEGUNDO.
-
-Los Poderes Ejecutivo, Judicial y Organismos Constitucionales Autónomos deberán, en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el contenido del Párrafo Segundo del artículo 8° de esta Constitución.
-
-###### ARTÍCULO TERCERO.
-
-La observancia del contenido del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, y el articulo 8° de la Constitución Política del Estado de Aguascalientes, será aplicable a las siguientes administraciones que tomen posesión de su encargo, misma que habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley correspondiente, a partir del proceso electoral siguiente a la entrada en vigor del presente Decreto, según corresponda, de la siguiente manera:
-
-A. Para el Poder Legislativo, a partir del 15 de septiembre del 2021;
-
-B. Para el Poder Ejecutivo, a partir del 01 de octubre de 2022:
-
-C. Para los Ayuntamientos, a partir del 15 de octubre de 2021;
-
-D. Para el Poder Judicial a partir del 1° de enero de 2022.
-
-E. Por lo que hace a los Organismos Constitucionales Autónomos, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que corresponda, de conformidad con la legislación correspondiente.
-
-###### ARTÍCULO CUARTO.
-
-Las referencias o alusiones en la redacción de la Constitución Política del Estado de Aguascalientes y de las leyes que de ella emanen, hechas hacia mujeres u hombres, representa a ambos sexos, salvo que de la misma naturaleza de la norma se desprenda la individualización hacia un sexo determinado, que en ningún caso deberá Implicar discriminación o trato diferenciado injusto.
-
-P.O. 22 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 31.- SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 71 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 95.- REFORMAS A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS, Y A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
 
-###### ARTICULO ÚNICO.
-
-El presente Decreto iniciara su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 13 DE JUNIO DE 2022.
-
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 138.- SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 55 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 31 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 170.- SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
 
-###### ARTICULO PRIMERO.
-
-El presente Decreto iniciara su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
-
-###### ARTÍCULO TERCERO.
-
-Aquellos Consejeros que hayan tomado protesta por 7 años de encargo, concluirán su periodo conforme a su designación.
-
-P.O. 9 DE DICIEMBRE DE 2022.
-
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 226.- SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES; SE ADICIONA EL ARTÍCULO 25 BIS A LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
