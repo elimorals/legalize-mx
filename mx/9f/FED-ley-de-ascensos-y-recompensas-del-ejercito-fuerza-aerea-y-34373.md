@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-34373
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-30"
-last_updated: "2011-08-05"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34373&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2003-10-29"
 ---
 # LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL -- ANTES LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS --
 
-LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS
+LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de octubre de 2003.
 
@@ -251,7 +251,7 @@ III. Haber prestado sus servicios en el grado de la siguiente forma:
 
 A. Los Subtenientes:
 
-a. De Arma, encuadrados en las unidades del Ejército o en las unidades de vuelo de la Fuerza Aérea, y (sic)
+a. De Arma, encuadrados en las unidades del Ejército o en las unidades de vuelo de la Fuerza Aérea, y
 
 b. De Servicio, en los servicios orgánicos de las unidades del Ejército, de las unidades de vuelo de la Fuerza Aérea o en las unidades de sus servicios no encuadradas. En los servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad.
 
@@ -643,19 +643,45 @@ VIII. De Retiro;
 
 IX. De Servicios Distinguidos;
 
-X. De la Legión de Honor, y
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
 
-XI. Mérito Deportivo.
+X. De la Legión de Honor;
 
-Las condecoraciones a que se refieren las fracciones III, IV, V y VI podrán otorgarse a personas que no pertenezcan a las Fuerzas Armadas.
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+XI. Mérito Deportivo, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+XII. Distinción Militar.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+Las condecoraciones a que se refieren las fracciones II, III, IV, V, VI, IX y XII podrán otorgarse a personas que no pertenezcan a las Fuerzas Armadas.
 
 ###### ARTÍCULO 54.
 
 La Condecoración al Valor Heroico tiene por objeto premiar a los militares que, en tiempo de guerra o de paz, ejecuten actos de heroísmo excepcional con riesgo de su vida, calificados por el Presidente de la República a propuesta del Secretario.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 55.
 
-La Condecoración al Mérito Militar se otorgará por disposición del Presidente de la República a los militares mexicanos o extranjeros para premiar actos de relevancia excepcional en beneficio de las Fuerzas Armadas del País y a propuesta del Secretario.
+La Condecoración al Mérito Militar se otorgará por disposición del Presidente de la República, a propuesta del Secretario, a militares o civiles, nacionales o extranjeros, y tiene por objeto:
+
+I. Premiar a militares mexicanos, por los actos de relevancia excepcional que realicen en beneficio de las Fuerzas Armadas del País, y
+
+II. Reconocer a militares extranjeros, así como a civiles, nacionales o extranjeros, por sus actividades o acciones que contribuyan al desarrollo o representen un beneficio al Ejército y Fuerza Aérea.
+
+Esta condecoración será de cuatro grados:
+
+I. Orden, que se otorgará a Mandos Supremos y Altos Mandos o sus equivalentes;
+
+II. Banda, que se otorgará a militares nacionales;
+
+III. Placa, que se otorgará a militares extranjeros, y
+
+IV. Venera, que se otorgará a civiles nacionales o extranjeros.
 
 ###### ARTÍCULO 56.
 
@@ -723,9 +749,15 @@ La Condecoración de Retiro se otorgará por la Secretaría al personal del Ejé
 
 Esta condecoración es independiente de la Condecoración de Perseverancia, por conferirse sólo a quienes hayan pasado a situación de retiro y contribuido en su esfera de acción al progreso del Ejército y Fuerza Aérea.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 63.
 
-La Condecoración de Servicios Distinguidos se concederá a propuesta de los mandos superiores y por acuerdo del Secretario, a los militares que en el transcurso de su carrera militar, además, de perenne entrega y lealtad a la institución, demuestren sobrado celo, esmero y dedicación en el cumplimiento de su deber.
+La Condecoración de Servicios Distinguidos se concederá por acuerdo del Secretario en los supuestos siguientes:
+
+I. A los militares que en el transcurso de su carrera militar, además de perenne entrega y lealtad a la institución, demuestren sobrado celo, esmero y dedicación en el cumplimiento de su deber. Los mandos superiores formularán la propuesta correspondiente, y
+
+II. A militares extranjeros, así como a civiles nacionales o extranjeros, para reconocer sus actividades o hechos que sean de interés relevante para el Ejército y Fuerza Aérea.
 
 ###### ARTÍCULO 64.
 
@@ -737,6 +769,10 @@ La Condecoración al Mérito Deportivo se concederá a los miembros del Ejércit
 
 Esta Condecoración será de cuatro clases: Primera, Segunda, Tercera y Cuarta, en términos de la reglamentación de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+ARTÍCULO 65 BIS.- La Condecoración a la Distinción Militar se otorgará a los militares o civiles, nacionales o extranjeros por disposición del Secretario. Tiene como objeto corresponder a las atenciones o muestras de cortesía de otras naciones, así como para reconocer los actos o hechos que hagan patente el intercambio de experiencias y conocimientos con la institución militar.
+
 ###### ARTÍCULO 66.
 
 El derecho a la obtención y uso de las Condecoraciones se pierde por traición a la Patria, rebelión en contra de las instituciones del País, declaradas judicialmente, o por diversa sentencia que imponga la baja de las Fuerzas Armadas o la pérdida de los derechos inherentes a la nacionalidad o ciudadanía.
@@ -747,9 +783,13 @@ La Secretaría expedirá y llevará el registro de los Diplomas que acrediten el
 
 Los Diplomas serán autorizados por el Presidente de la República en los casos a que se refieren los artículos 54, 55, 56 y 59 de la presente Ley y, en los demás casos, por el Secretario.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 68.
 
-Para premiar los hechos heroicos o excepcionalmente meritorios de las Corporaciones del Ejército o Fuerza Aérea, se concederán a sus banderas o estandartes las Condecoraciones al Valor Heroico o al Mérito Militar, por acuerdo del Presidente de la República a propuesta del Secretario.
+Para premiar los hechos heroicos o excepcionalmente meritorios de las Corporaciones del Ejército o Fuerza Aérea, se concederán a sus banderas o estandartes las Condecoraciones al Valor Heroico o al Mérito Militar en Grado de Orden, por acuerdo del Presidente de la República a propuesta del Secretario.
+
+La Condecoración al Mérito Militar de Grado de Orden también podrá otorgarse a las banderas o estandartes de corporaciones u organismos, nacionales o internacionales, por hechos excepcionalmente meritorios en beneficio del Ejército y Fuerza Aérea.
 
 ###### ARTÍCULO 69.
 
@@ -850,3 +890,15 @@ Quinto.- Las erogaciones que deriven de la aplicación del presente Decreto ser�
 D.O.F. 5 DE AGOSTO DE 2011.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que se causen por la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto de la Secretaría de la Defensa Nacional.
+
+Tercero. A partir de la fecha en que entre en vigor el presente Decreto, se derogan las disposiciones jurídicas que se opongan al mismo.
+
+Cuarto. El Ejecutivo Federal deberá reformar el Reglamento de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, a partir de la entrada en vigor del presente Decreto.
