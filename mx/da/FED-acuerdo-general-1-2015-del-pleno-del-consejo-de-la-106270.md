@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-1-2015-del-pleno-del-consejo-de-la-106270"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-03-04"
-last_updated: "2016-06-17"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106270&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-02-24"
 
 ACUERDO GENERAL 1/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 4 de marzo de 2015.
 
@@ -195,7 +195,9 @@ II. En caso de no ser posible lo previsto en la fracción anterior, la sustituci
 
 III. Si tampoco fuera posible, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal más cercano, en el orden de su denominación.
 
-Tratándose del Tribunal de Alzada del Centro, la sustitución recaerá en el Tribunal Unitario del Decimocuarto Circuito, para lo cual en este caso se habilita a dicho Tribunal para conocer como Tribunal de Alzada respecto de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 53/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2017)</small>
+
+Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita al Tribunal Unitario del Trigésimo Primer Circuito con residencia en San Francisco de Campeche, Campeche, para conocer, con ese carácter, de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
 > <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL 39/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -344,3 +346,13 @@ Los juzgados de Distrito con residencia en la Ciudad de México ejercerán juris
 Derogado.
 
 II. a XXXIII. …”.
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 53/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 1/2015, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE YUCATÁN, RELACIONADO CON LA HABILITACIÓN DEL TRIBUNAL UNITARIO DE ALZADA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos que se encuentren ingresados en el Tribunal Unitario del Decimocuarto Circuito correspondientes al Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en la ciudad de Mérida, de conformidad con el artículo 17, último párrafo del Acuerdo General 1/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Yucatán, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento del referido tribunal, hasta su conclusión.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
