@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2016-11-23"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2017 EN EL PERIÓDICO OFICIAL DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -32,8 +34,6 @@ ALFONSO CABRERA, Gobernador Constitucional del Estado Libre y Soberano de Puebla
 S A B E D :
 
 Que la Legislatura del Estado ha decretado lo siguiente:
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2012, LAS REFERENCIAS QUE A LA ENTRADA EN VIGOR DE ESTE DECRETO SE HAGAN EN TODO INSTRUMENTO LEGAL, JURÍDICO O ADMINISTRATIVO Y NORMA EN SENTIDO FORMAL O MATERIAL AL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA Y A SU TITULAR, RESPECTIVAMENTE; SE ENTENDERÁN HECHAS A LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA Y A SU RESPECTIVO TITULAR.</small>
 
 CONSTITUCION POLITICA DEL ESTADO L. y S. de Puebla
 
@@ -361,7 +361,9 @@ IV.- La protección de las víctimas de los delitos y de quienes carezcan de ins
 
 V.- La atención de la salud de los habitantes del Estado, la promoción de una vida adecuada que asegure el bienestar de las personas y la satisfacción de las necesidades de instrucción y alimentación de las niñas y los niños;
 
-VI.- (DEROGADA, P.O. 25 DE JULIO DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ENERO DE 2017)</small>
+
+VI.- Establecer el derecho que tiene toda persona al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado conforme a las leyes regulará las bases y modalidades para el acceso y uso equitativo y sustentable de este recurso natural;
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
@@ -3483,7 +3485,7 @@ OCTAVO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que
 
 P.O. 23 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA, LA FRACCIÓN VII DEL ARTÍCULO 12 Y EL PRIMER PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 125 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA".]
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA, LA FRACCIÓN VII DEL ARTÍCULO 12 Y EL PRIMER PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 125 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3510,3 +3512,13 @@ QUINTO. Los asuntos que se encuentren en trámite o pendientes de resolución a 
 SEXTO. Los recursos financieros y materiales, así como los trabajadores adscritos a la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado, se transferirán al organismo público constitucional autónomo creado.
 
 SÉPTIMO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
