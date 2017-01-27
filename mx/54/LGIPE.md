@@ -4,7 +4,7 @@ identifier: "LGIPE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-05-23"
-last_updated: "2014-05-23"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100928&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGIPE"
 
 LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 Ley publicada en la Segunda y Tercera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -584,13 +584,21 @@ j) No ser ni haber sido miembro del Servicio Profesional Electoral, ni ser o hab
 
 3. El Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Consejo General podrán ser sujetos de juicio político. De igual manera estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Cuarto de la Constitución.
 
-4. La Contraloría General del Instituto será el órgano facultado para conocer de las infracciones administrativas cometidas por el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Consejo General e imponer, en su caso, las sanciones aplicables conforme a lo dispuesto en el Libro Octavo de esta Ley.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
-5. El Instituto contará con un Contralor General que será designado por la Cámara de Diputados con el voto de las dos terceras partes de sus miembros presentes a propuesta de instituciones públicas de educación superior.
+4. El Órgano Interno de Control del Instituto será el órgano facultado para conocer de las infracciones administrativas cometidas por el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Consejo General e imponer, en su caso, las sanciones aplicables conforme a lo dispuesto en el Libro Octavo de esta Ley.
 
-6. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la presidencia del Consejo General y mantendrá la coordinación técnica necesaria con la entidad de fiscalización superior de la Federación.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
-7. Para la elección del Contralor General, además de lo dispuesto por la Constitución, se observará el procedimiento previsto en la Ley.
+5. El titular del Órgano Interno de Control del Instituto será designado por la Cámara de Diputados con el voto de las dos terceras partes de sus miembros presentes a propuesta de instituciones públicas de educación superior.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+6. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la presidencia del Consejo General y mantendrá la coordinación técnica necesaria con la Auditoria Superior de la Federación.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+7. Para la elección del titular del Órgano Interno de Control, además de lo dispuesto por la Constitución, se observará el procedimiento previsto en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 
 ###### Artículo 40.
 
@@ -690,7 +698,9 @@ u) Efectuar el cómputo total de la elección de senadores por el principio de r
 
 v) Informar a las Cámaras de Senadores y Diputados sobre el otorgamiento de las constancias de asignación de senadores y diputados electos por el principio de representación proporcional, respectivamente, así como de los medios de impugnación interpuestos;
 
-w) Conocer los informes, trimestrales y anual, que la Junta General Ejecutiva rinda por conducto del Secretario Ejecutivo del Instituto, así como los que, en su caso, deba rendir la Contraloría General;
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+w) Conocer los informes, trimestrales y anual, que la Junta General Ejecutiva rinda por conducto del Secretario Ejecutivo del Instituto, así como los que, en su caso, deba rendir el titular del Órgano Interno de Control;
 
 x) Requerir a la Junta General Ejecutiva investigue, por los medios a su alcance, hechos que afecten de modo relevante los derechos de los partidos políticos o el proceso electoral federal;
 
@@ -740,7 +750,9 @@ e) Proponer al Consejo General el nombramiento del Secretario Ejecutivo, de los 
 
 f) Designar de entre los integrantes de la Junta General Ejecutiva a quien sustanciará en términos de la ley de la materia, el medio de impugnación que se interponga en contra de los actos o resoluciones del Secretario Ejecutivo;
 
-g) Recibir del Contralor General los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, así como hacerlos del conocimiento del Consejo General;
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+g) Recibir del titular del Órgano Interno de Control los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, así como hacerlos del conocimiento del Consejo General;
 
 h) Proponer anualmente al Consejo General el anteproyecto de presupuesto del Instituto para su aprobación;
 
@@ -806,7 +818,9 @@ p) Lo demás que le sea conferido por esta Ley, el Consejo General y su presiden
 
 1. La Junta General Ejecutiva será presidida por el Presidente del Consejo General y se integrará con el Secretario Ejecutivo y con los directores ejecutivos del Registro Federal de Electores, de Prerrogativas y Partidos Políticos, de Organización Electoral, del Servicio Profesional Electoral Nacional, de Capacitación Electoral y Educación Cívica y de Administración, así como los titulares de la Unidad Técnica de Fiscalización, de la Unidad Técnica de lo Contencioso Electoral y de la Unidad Técnica de Vinculación con los Organismos Públicos Locales.
 
-2. El Contralor General podrá participar, a convocatoria del Consejero Presidente, en las sesiones de la Junta General Ejecutiva.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+2. El titular del Órgano Interno de Control podrá participar, a convocatoria del Consejero Presidente, en las sesiones de la Junta General Ejecutiva.
 
 ###### Artículo 48.
 
@@ -836,7 +850,9 @@ k) Resolver los medios de impugnación que le competan, en contra de los actos o
 
 l) Integrar los expedientes relativos a las faltas administrativas en materia electoral y, en su caso, proponer las sanciones, en los términos que establece esta Ley;
 
-m) Recibir informes del Contralor General respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre imposición de sanciones a los servidores públicos del Instituto;
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+m) Recibir informes del titular del Órgano Interno de Control respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre imposición de sanciones a los servidores públicos del Instituto;
 
 n) Formular los estudios en los que se establezcan las condiciones, costos y plazos para que el Instituto asuma la organización de procesos electorales locales, formulando el proyecto de convenio correspondiente que, en su caso, deberá ser aprobado por el Consejo General antes de que inicie el proceso electoral local de que se trate;
 
@@ -874,7 +890,9 @@ g) Participar en los convenios que se celebren con las autoridades competentes r
 
 h) Suscribir, en unión del Consejero Presidente, los convenios que el Instituto celebre con las autoridades electorales competentes de las entidades federativas para asumir la organización de procesos electorales locales;
 
-i) Coadyuvar con el Contralor General en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a los servidores públicos del Instituto;
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+i) Coadyuvar con el titular del Órgano Interno de Control en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a los servidores públicos del Instituto;
 
 j) Aprobar la estructura de las direcciones ejecutivas, vocalías y demás órganos del Instituto conforme a las necesidades del servicio y los recursos presupuestales autorizados;
 
@@ -3012,7 +3030,9 @@ d) El titular de la Unidad Técnica de Fiscalización fungirá como Secretario T
 
 ###### Artículo 198.
 
-1. El personal de la Comisión de Fiscalización y la Unidad Técnica de Fiscalización de la misma está obligado a guardar reserva sobre el curso de las revisiones y auditorías en las que tenga participación o sobre las que disponga de información. La Contraloría General del Instituto conocerá de las violaciones a esta norma y en su caso impondrá las sanciones que correspondan de acuerdo a esta Ley.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+1. El personal de la Comisión de Fiscalización y la Unidad Técnica de Fiscalización de la misma está obligado a guardar reserva sobre el curso de las revisiones y auditorías en las que tenga participación o sobre las que disponga de información. El Órgano Interno de Control del Instituto conocerá de las violaciones a esta norma y en su caso impondrá las sanciones que correspondan de acuerdo a esta Ley.
 
 ###### Artículo 199.
 
@@ -5812,7 +5832,7 @@ c) Entregarlos junto con la solicitud de registro a que se refiere esta Ley.
 
 ## TÍTULO SEGUNDO. De las Responsabilidades de los Servidores Públicos del Instituto Nacional Electoral
 
-### CAPÍTULO II. Del Procedimiento para la Determinación de Responsabilidades Administrativas
+### CAPÍTULO II. Del Régimen de Responsabilidades Administrativas
 
 ###### Artículo 432.
 
@@ -5832,7 +5852,7 @@ c) Entregarlos junto con la solicitud de registro a que se refiere esta Ley.
 
 1. Los documentos electorales serán elaborados por el Instituto, aplicando en lo conducente lo dispuesto en esta Ley para la elaboración de la documentación y el material electoral.
 
-### Capítulo III. De la Contraloría General
+### CAPÍTULO III. Del Órgano Interno de Control
 
 ###### Artículo 436.
 
@@ -6576,9 +6596,15 @@ b) Imponer las sanciones que resulten procedentes en términos de lo dispuesto e
 
 ###### Artículo 478.
 
-1. Para los efectos del presente Capítulo, serán considerados como servidores públicos del Instituto el Consejero Presidente, los Consejeros Electorales del Consejo General y de los consejos locales y distritales, el Secretario Ejecutivo, el contralor general, los directores ejecutivos, el titular del Unidad Técnica de Fiscalización de la Comisión de Fiscalización, los jefes de unidades administrativas, los vocales ejecutivos de los órganos desconcentrados, los funcionarios y empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
-2. La Contraloría General del Instituto, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución y esta Ley confieren a los funcionarios del Instituto.
+1. Para los efectos del presente Capítulo, serán considerados como servidores públicos del Instituto: el Consejero Presidente, los Consejeros Electorales del Consejo General y de los consejos locales y distritales, el Secretario Ejecutivo, el titular del Órgano Interno de Control, los directores ejecutivos, el titular del (sic) Unidad Técnica de Fiscalización de la Comisión de Fiscalización, los jefes de unidades administrativas, los vocales ejecutivos de los órganos desconcentrados, los funcionarios y empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+2. El Órgano Interno de Control del Instituto, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución y esta Ley confieren a los funcionarios del Instituto.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL DECRETO PUBLICADO EN EL D.O.F. DE 27 DE ENERO DE 2017, LAS REFERENCIAS RELATIVAS A LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS SE ENTENDERÁN A LA LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS HASTA QUE ESTE ORDENAMIENTO LEGAL SE ABROGUE EL 17 DE JULIO DE 2017".]</small>
 
 ###### Artículo 479.
 
@@ -6606,99 +6632,73 @@ j) Las previstas, en lo conducente, en el artículo 8 de la Ley Federal de Respo
 
 k) Las demás que determine esta Ley o las leyes que resulten aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ENERO DE 2017)</small>
+
 ###### Artículo 480.
 
-1. El procedimiento para determinar las responsabilidades de los servidores públicos del Instituto a que se refiere este Título se iniciará de oficio o a petición de parte, por queja o denuncia, presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos o, en su caso por el Ministerio Público Federal. No se admitirán denuncias anónimas. Las responsabilidades administrativas a que se refiere este artículo, prescribirán en tres años.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+1. Para la determinación de las responsabilidades administrativas de los servidores públicos del Instituto por la comisión de faltas administrativas graves o no graves, o de los particulares vinculados con faltas administrativas graves, el Órgano Interno de Control se sujetará al régimen y procedimientos establecidos en la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 481.
 
-1. Las quejas o denuncias que se presenten, de oficio o a petición de parte, deberán estar apoyadas en elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
-
-2. Las quejas o denuncias serán improcedentes:
-
-a) Cuando se trate de actos u omisiones imputados a una misma persona que hayan sido materia de otra queja o denuncia ante la Contraloría General del Instituto y que cuenten con resolución definitiva;
-
-b) Cuando se denuncien actos u omisiones de los que la Contraloría General del Instituto resulte incompetente para conocer, y
-
-c) Cuando los actos u omisiones denunciados no constituyan causas de responsabilidad en los términos de este ordenamiento.
-
-3. Procederá el sobreseimiento del procedimiento sancionador:
-
-a) Cuando habiendo sido recibida la queja o denuncia, sobrevenga una causa de improcedencia, y
-
-b) Cuando el denunciante presente escrito de desistimiento, siempre y cuando se exhiba antes de que se dicte resolución. En ningún caso procederá el sobreseimiento cuando se trate de infracciones graves.
-
-4. El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia será de oficio.
+(DEROGADO, D.O.F. 27 DE ENERO DE 2017)
 
 ###### Artículo 482.
 
-1. Para la determinación de las responsabilidades a que se refiere este Capítulo deberá seguirse el siguiente procedimiento:
-
-a) Recibida la queja o denuncia, y de no encontrarse ninguna causa de improcedencia o de desechamiento, se enviará copia de la misma, con sus anexos, al servidor público presunto responsable para que, en un término de cinco días hábiles, formule un informe sobre los hechos, ofrezca las pruebas correspondientes y exponga lo que a su derecho convenga. El informe deberá referirse a todos y cada uno de los hechos comprendidos en la denuncia, afirmándolos, negándolos, expresando los que ignore, por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán ciertos los hechos de la denuncia sobre los cuales el denunciado no se pronuncie, salvo prueba en contrario. La aceptación de los hechos no entraña la aceptación de la responsabilidad administrativa que se le imputa;
-
-b) Recibido el informe y desahogadas las pruebas, se resolverá dentro de los treinta días hábiles siguientes sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y se notificará la resolución al servidor público y, en su caso, al denunciante, dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad señalados en los incisos b), d) al f), y h) al k) del artículo 479 de esta Ley;
-
-c) Cuando se trate de los casos comprendidos en los incisos a), c) y g) del artículo 479 de esta Ley, el contralor general citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor. Entre la fecha de citación y la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
-
-d) Si del informe o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar, en su caso, la celebración de otra u otras audiencias;
-
-e) Con excepción del Consejero Presidente, los Consejeros Electorales y el Secretario del Consejo General, la Contraloría General podrá determinar la suspensión temporal del presunto responsable de su cargo, empleo o comisión, siempre que así convenga para la conducción o continuación de las investigaciones; la suspensión cesará cuando así lo resuelva la propia Contraloría. La suspensión temporal no prejuzga sobre la responsabilidad que se impute al servidor público, lo cual se hará constar expresamente en la resolución respectiva;
-
-f) Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que hubiere estado suspendido, y
-
-g) Cuando se compruebe la existencia de la infracción motivo de la denuncia, el titular de la Contraloría impondrá la sanción que corresponda y dictará las medidas para su corrección o remedio inmediato.
+(DEROGADO, D.O.F. 27 DE ENERO DE 2017)
 
 ###### Artículo 483.
 
-1. Las sanciones aplicables a las faltas contempladas en el presente Capítulo y a las cometidas en contravención del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos consistirán en:
-
-a) Apercibimiento privado o público;
-
-b) Amonestación privada o pública;
-
-c) Sanción económica;
-
-d) Suspensión;
-
-e) Destitución del puesto, y
-
-f) Inhabilitación temporal, hasta por cinco años, para desempeñar empleos, cargos o comisiones en el servicio público.
-
-2. Tratándose del Consejero Presidente y los Consejeros Electorales del Consejo General, solo por infracciones administrativas que constituyan conductas graves y sistemáticas, el contralor general notificará al presidente de la Mesa Directiva de la Cámara de Diputados, acompañando el expediente del asunto fundado y motivado, a fin de que dicha Cámara, por el acuerdo de las dos terceras partes de los miembros presentes, resuelva sobre la responsabilidad.
-
-3. Tratándose del Secretario Ejecutivo y de los directores ejecutivos del Instituto, para la aplicación de las sanciones por las infracciones a que se refiere el párrafo anterior, el contralor general presentará ante el Consejo General el expediente respectivo a fin de que resuelva sobre la procedencia de la sanción.
+(DEROGADO, D.O.F. 27 DE ENERO DE 2017)
 
 ###### Artículo 484.
 
-1. Las faltas serán valoradas y, en su caso sancionadas, de conformidad con los criterios establecidos, en lo conducente, en los artículos 13, 14, 15 y 16 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
-
-2. En todo caso, se considerarán como faltas graves, el incumplimiento de las obligaciones señaladas en las fracciones X a XIV, XX, XXII y XXIII del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, así como en los incisos a) al e) y g) del artículo 479 de esta Ley.
+(DEROGADO, D.O.F. 27 DE ENERO DE 2017)
 
 ###### Artículo 485.
 
-1. Con independencia del sentido de la resolución que se dicte al final del procedimiento, el Contralor dictará las providencias oportunas para la corrección de las irregularidades administrativas que se detecten en ocasión del trámite de la queja, y si del contenido de ésta se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, procederá en los términos previstos en este Capítulo.
+(DEROGADO, D.O.F. 27 DE ENERO DE 2017)
 
 ###### Artículo 486.
 
-1. Las resoluciones por las que se impongan sanciones administrativas podrán ser impugnadas a través de los medios de defensa que establezcan el Estatuto y los demás ordenamientos de carácter reglamentario; los interesados podrán optar por la impugnación directa de aquéllas ante el Tribunal Federal de Justicia Fiscal y Administrativa en los términos que fije la ley correspondiente.
+(DEROGADO, D.O.F. 27 DE ENERO DE 2017)
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ENERO DE 2017)</small>
 
 ###### Artículo 487.
 
-1. La Contraloría General es el órgano de control interno del Instituto que tendrá a su cargo la fiscalización de los ingresos y egresos del Instituto; en el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
-2. El titular de la Contraloría General tendrá un nivel jerárquico equivalente a Director Ejecutivo.
+1. El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción; tendrá además a su cargo la fiscalización de los ingresos y egresos del Instituto.
 
-3. El titular de la Contraloría General será designado por la Cámara de Diputados, con el voto de las dos terceras partes de sus miembros presentes, a propuesta de instituciones públicas de educación superior, mediante los procedimientos y en los plazos que fije la Ley Orgánica del Congreso General.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+2. El titular del Órgano Interno de Control tendrá un nivel jerárquico equivalente a Director Ejecutivo.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+3. El titular del Órgano Interno de Control será designado por la Cámara de Diputados, con el voto de las dos terceras partes de sus miembros presentes, a propuesta de instituciones públicas de educación superior, mediante los procedimientos y en los plazos que fije la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+El titular del Órgano Interno de Control durará en su encargo seis años, y podrá ser reelecto para un solo periodo inmediato posterior al que se haya desempeñado, si cumple con los requisitos previstos en esta Ley y en el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 
 4. El electo rendirá la protesta de ley ante el Consejo General.
 
-5. La Contraloría contará con la estructura orgánica, personal y recursos que apruebe el Consejo General a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
-6. En su desempeño, la Contraloría General se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+5. El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Consejo General a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+6. En su desempeño, el Órgano Interno de Control se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 
 ###### Artículo 488.
 
-1. El contralor general deberá reunir los mismos requisitos que esta Ley establece para los directores ejecutivos del Instituto, y los siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+1. El titular del Órgano Interno de Control deberá reunir los mismos requisitos que esta Ley establece para los directores ejecutivos del Instituto, y los siguientes:
 
 a) No ser consejero electoral de cualquiera de los consejos del Instituto, salvo que se haya separado del cargo tres años antes del día de la designación;
 
@@ -6712,23 +6712,23 @@ e) No pertenecer o haber pertenecido en los cuatro años anteriores a su designa
 
 ###### Artículo 489.
 
-1. El contralor general podrá ser sancionado conforme a los artículos 480 al 484 de esta Ley por las siguientes causas graves de responsabilidad administrativa:
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
-a) Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de la legislación en la materia;
+1. El titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas, y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
 
-b) Dejar sin causa justificada, de fincar responsabilidades o aplicar sanciones pecuniarias, en el ámbito de su competencia, cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones que realice en el ejercicio de sus atribuciones;
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Instituto serán sancionados por el titular del Órgano Interno de Control, o por el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas.
 
-c) Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en la Contraloría General, con motivo del ejercicio de sus atribuciones;
+El titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades al Consejo General del Instituto, del cual marcará copia a la Cámara de Diputados.
 
-d) Conducirse con parcialidad en los procedimientos de supervisión e imposición de sanciones a que se refiere esta Ley, y
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
-e) Incurrir en alguna de las infracciones mencionadas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
-
-2. A solicitud del Consejo General, la Cámara de Diputados resolverá sobre la aplicación de las sanciones al contralor general, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes en la sesión.
+2. El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Instituto, de conformidad con la Ley General del Sistema Nacional Anticorrupción y la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 490.
 
-1. La Contraloría General tendrá las facultades siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+1. El Órgano Interno de Control tendrá las facultades siguientes:
 
 a) Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto;
 
@@ -6746,23 +6746,31 @@ g) Verificar las obras, bienes adquiridos o arrendados y servicios contratados, 
 
 h) Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
 
-i) Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos de la propia Contraloría General del Instituto, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
-j) Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto, y llevar el registro de los servidores públicos sancionados;
+i) Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos del Órgano Interno de Control del Instituto, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
 
-k) Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
-l) Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
+j) Investigar, calificar, y en su caso, substanciar, resolver y sancionar de conformidad con el procedimiento establecido en la Ley General de Responsabilidades Administrativas e integrar el expediente de presunta responsabilidad administrativa respecto de las denuncias que se presenten en contra de los servidores públicos del Instituto;
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+k) Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto, así como en el caso de cualquier irregularidad en el ejercicio del empleo, cargo o comisión de los servidores públicos del Instituto;
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+I) Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto, así como con el desempeño en sus funciones por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
 
 m) Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
 
 n) Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
 
-ñ) Formular pliegos de observaciones en materia administrativa;
+ñ) (DEROGADO, D.O.F. 27 DE ENERO DE 2017)
 
-o) Determinar los daños y perjuicios que afecten al Instituto en su patrimonio y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes;
+o) (DEROGADO, D.O.F. 27 DE ENERO DE 2017)
 
-p) Fincar las responsabilidades e imponer las sanciones en términos de los lineamientos respectivos;
+p) (DEROGADO, D.O.F. 27 DE ENERO DE 2017)
 
 q) Presentar a la aprobación del Consejo General sus programas anuales de trabajo;
 
@@ -6770,27 +6778,37 @@ r) Presentar al Consejo General los informes previo y anual de resultados de su 
 
 s) Participar, a través de su titular, con voz pero sin voto, en las reuniones de la Junta General Ejecutiva cuando por motivo del ejercicio de sus facultades, así lo considere necesario el Consejero Presidente;
 
-t) Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, a partir del nivel de jefe de departamento, conforme a los formatos y procedimientos que establezca la propia Contraloría. Serán aplicables en lo conducente las normas establecidas en la Ley de la materia;
+t) (DEROGADO, D.O.F. 27 DE ENERO DE 2017)
 
 u) Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda, y
 
-v) Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+v) Las demás que le otorgue esta Ley, la Ley General de Responsabilidades Administrativas, o las leyes aplicables en la materia.
 
 ###### Artículo 491.
 
-1. Los servidores públicos adscritos a la Contraloría General del Instituto y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+1. Los servidores públicos adscritos al Órgano Interno de Control del Instituto y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
 
 ###### Artículo 492.
 
-1. Los órganos, áreas ejecutivas y servidores públicos del Instituto estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente la Contraloría General, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+1. Los órganos, áreas ejecutivas y servidores públicos del Instituto estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
 
 ###### Artículo 493.
 
-1. Si transcurrido el plazo establecido por la Contraloría General, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, la Contraloría General procederá a fincar las responsabilidades que correspondan conforme a derecho.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+1. Si transcurrido el plazo establecido por el Órgano Interno de Control, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, el Órgano Interno de Control procederá a fincar las responsabilidades que correspondan conforme a derecho.
 
 2. El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
 
-3. La Contraloría General, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+3. El Órgano Interno de Control, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
 
 4. Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
 
@@ -6869,3 +6887,25 @@ Vigésimo Cuarto. Se derogan todas las disposiciones que se opongan al presente 
 México, D.F., a 15 de mayo de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE COMPETENCIA ECONÓMICA, DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, DE LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN, DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, Y DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
