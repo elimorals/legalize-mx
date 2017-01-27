@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2016-11-30"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "CFF"
 ---
 # CODIGO FISCAL DE LA FEDERACION
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 12 DE ENERO DE 2016.
 
@@ -6510,11 +6512,103 @@ Cuando se interponga un medio de impugnación, se suspenderá el efecto de la re
 
 Los plazos para cumplimiento de la resolución que establece este artículo empezarán a correr a partir de que hayan transcurrido los quince días para impugnarla, salvo que el contribuyente demuestre haber interpuesto medio de defensa.
 
-#### Sección Primera. Disposiciones generales
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE ENERO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+#### Sección Cuarta. Del Trámite y Resolución del Recurso de Revocación Exclusivo de Fondo
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 133-B.
+
+El recurso de revocación previsto en este Capítulo podrá tramitarse y resolverse conforme al procedimiento especializado previsto en esta Sección cuando el recurrente impugne las resoluciones definitivas que deriven del ejercicio de las facultades de comprobación a que se refiere el artículo 42, fracciones II, III o IX de este Código y la cuantía determinada sea mayor a doscientas veces la Unidad de Medida y Actualización, elevada al año, vigente al momento de la emisión de la resolución impugnada.
+
+En lo no previsto en la presente Sección, se aplicarán las demás disposiciones señaladas en este Capítulo, observando los principios de oralidad y celeridad.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 133-C.
+
+El promovente que haya optado por el recurso de revocación exclusivo de fondo no podrá variar su elección.
+
+Antes de admitir a trámite el recurso de revocación exclusivo de fondo, la autoridad deberá verificar que se cumplan los requisitos de procedencia y que no se configure alguna causal de sobreseimiento de conformidad con lo previsto en los artículos 18, 121, 122, 123, 124, 124-A y 126 de este Código.
+
+El promovente sólo podrá hacer valer agravios que tengan por objeto resolver exclusivamente sobre el fondo de la resolución que se recurre, sin que obste para ello que la misma se encuentre motivada en el incumplimiento total o parcial de los requisitos exclusivamente formales o de procedimiento establecidos en las disposiciones jurídicas aplicables.
+
+Para los efectos del recurso de revocación exclusivo de fondo, se entenderá como agravio de fondo aquel que se refiera al sujeto, objeto, base, tasa o tarifa, respecto de las contribuciones revisadas que pretendan controvertir conforme a alguno de los siguientes supuestos:
+
+I. Los hechos u omisiones calificados en la resolución impugnada como constitutivos de incumplimiento de las obligaciones revisadas.
+
+II. La aplicación o interpretación de las normas jurídicas involucradas.
+
+III. Los efectos que haya atribuido la autoridad emisora al contribuyente, respecto del incumplimiento total o parcial de requisitos formales o de procedimiento que impacten y trasciendan al fondo de la resolución recurrida.
+
+IV. La valoración o falta de apreciación de las pruebas relacionadas con los supuestos mencionados en las fracciones anteriores.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 133-D.
+
+El escrito de interposición del recurso de revocación exclusivo de fondo, deberá satisfacer los requisitos previstos en los artículos 18 y 122 de este Código y señalar además:
+
+I. La manifestación expresa de que se opta por el recurso de revocación exclusivo de fondo.
+
+II. La expresión breve y concreta de los agravios de fondo que se plantean.
+
+III. El señalamiento del origen del agravio, especificando si este deriva de:
+
+a) La forma en que se apreciaron los hechos u omisiones revisados;
+
+b) La interpretación o aplicación de las normas involucradas;
+
+c) Los efectos que le atribuyeron al incumplimiento total, parcial o extemporáneo, de los requisitos formales o de procedimiento que impacten o trasciendan el fondo de la controversia;
+
+d) Si cualquiera de los supuestos anteriores son coincidentes;
+
+e) Si requiere el desahogo de una audiencia para exponer las razones por las cuáles considera le asiste la razón, en presencia de la autoridad administrativa competente para resolver el recurso de revocación exclusivo de fondo y de la autoridad que emitió la resolución recurrida.
+
+El promovente deberá adjuntar al escrito en que se promueva el recurso de revocación exclusivo de fondo, los mismos documentos que prevé el artículo 123 del presente Código, observando las modalidades para las pruebas documentales que contiene dicho precepto legal, debiendo relacionar expresamente las pruebas que ofrezca con los hechos que pretende acreditar a través de las mismas.
+
+Cuando se omita alguno de los requisitos que debe contener el escrito de interposición del recurso de revocación exclusivo de fondo, se requerirá al promovente para que cumpla con dichos requisitos dentro del plazo de cinco días contados a partir de que surta efectos la notificación del citado requerimiento. De no hacerlo o si se advierte que únicamente se plantean agravios relativos a cuestiones de forma o procedimiento, el recurso de revocación se tramitará de forma tradicional.
+
+En el caso de que el promovente, una vez que optó por el recurso de revocación exclusivo de fondo, formule en su escrito de promoción agravios de fondo y forma o procedimiento, estos dos últimos se tendrán por no formulados y sólo se resolverán los agravios de fondo.
+
+Si el promovente satisface los requisitos que debe contener la promoción del recurso de revocación exclusiva de fondo, la autoridad encargada de la resolución del mismo emitirá el oficio a través del cual se tenga por admitido el recurso.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 133-E.
+
+En el caso de que el contribuyente en su escrito de promoción del recurso de revocación exclusivo de fondo, manifieste que requiere del desahogo de una audiencia para ser escuchado por la autoridad encargada de emitir la resolución del recurso respectivo, ésta deberá tener verificativo a más tardar dentro de los veinte días hábiles siguientes a aquel en que se emitió el oficio que tiene por admitido el recurso de revocación exclusivo de fondo, señalando en el mismo día, hora y lugar para su desahogo.
+
+La audiencia tendrá verificativo en las instalaciones de la autoridad administrativa que resolverá el recurso de revocación exclusivo de fondo, encontrándose presente la autoridad emisora de la resolución recurrida y el promovente.
+
+En caso de inasistencia del promovente, la audiencia respectiva no se podrá volver a programar, emitiéndose la lista de asistencia respectiva, que deberá ser integrada al expediente del recurso, excepto cuando el promovente con cinco días de anticipación a la fecha de la audiencia solicite se fije nuevo día y hora para su celebración, la cual deberá llevarse a cabo dentro de los cinco días siguientes a la primer fecha. La autoridad emisora de la resolución recurrida no podrá dejar de asistir a la audiencia ni solicitar se vuelva a programar la misma para lo cual, en su caso, podrá ser suplido en términos de las disposiciones administrativas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 133-F.
+
+En el supuesto de que el promovente acompañe al escrito de promoción del recurso de revocación exclusivo de fondo como prueba documental el dictamen pericial, la autoridad administrativa que resolverá el recurso tendrá la más amplia facultad para valorar no sólo la idoneidad y el alcance del referido dictamen exhibido, sino también la idoneidad del perito emisor, pudiendo citar al mismo a fin de que en audiencia especial, misma que se desahogará en forma oral, responda las dudas o los cuestionamientos que se le formulen, para ello el perito será citado con un plazo mínimo de cinco días anteriores a la fecha fijada para la audiencia.
+
+En el desahogo de la audiencia respectiva podrá acudir, tanto el promovente como la autoridad emisora de la resolución impugnada, para efectos de ampliar el cuestionario respectivo o en el caso de la autoridad, formular repreguntas.
+
+De conformidad con el artículo 130, cuarto párrafo de este Código, la autoridad que emitirá la resolución al recurso de revocación exclusivo de fondo podrá, para tener un mejor conocimiento de los hechos controvertidos, ordenar el desahogo de otra prueba pericial a cargo de un perito distinto y la valoración de ambos dictámenes periciales atenderá únicamente a razones técnicas referentes al área de especialidad de los peritos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 133-G.
+
+La resolución del recurso de revocación exclusivo de fondo se emitirá en el sentido de confirmar el acto impugnado, dejar sin efectos el mismo, modificarlo o dictar uno nuevo que lo sustituya, en términos de lo dispuesto por el artículo 133, fracciones II, IV y V de este Código. La resolución será favorable al promovente cuando:
+
+I. Los hechos u omisiones que dieron origen al acto impugnado no se produjeron;
+
+II. Los hechos u omisiones que dieron origen al acto impugnado fueron apreciados por la autoridad en forma indebida;
+
+III. Las normas involucradas fueron incorrectamente interpretadas o mal aplicadas, o
+
+IV. Los efectos atribuidos por la autoridad emisora al incumplimiento total, parcial o extemporáneo, de requisitos formales o de procedimiento a cargo del contribuyente resulten excesivos o desproporcionados por no haberse producido las hipótesis de causación de las contribuciones determinadas.
+
+Para el cumplimiento de las resoluciones del recurso de revocación exclusivo de fondo, será aplicable lo dispuesto en el artículo 133-A de este Código.
 
 ### CAPITULO II. De las Notificaciones y la Garantía del Interés Fiscal
 
@@ -6810,7 +6904,7 @@ Las autoridades fiscales continuarán con el procedimiento administrativo de eje
 
 ### CAPITULO III. Del Procedimiento Administrativo de Ejecución
 
-#### Sección Segunda. Del embargo
+#### Sección Primera. Disposiciones generales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7042,9 +7136,11 @@ Los ingresos recaudados por concepto de gastos de ejecución, se destinarán al 
 
 Cuando las autoridades fiscales ordenen la práctica de un avalúo, y éste resulte superior en más de un 10% del valor declarado por el contribuyente, éste deberá cubrir el costo de dicho avalúo.
 
-#### Sección Tercera. De la intervención
+#### Sección Segunda. Del embargo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 151.
 
@@ -7318,7 +7414,9 @@ En igual forma procederá el ejecutor cuando la persona con quien se entienda la
 
 Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos unidos a un inmueble o de difícil transportación, elejecutor (sic) trabará embargo sobre ellos y su contenido y los sellará; para su apertura se seguirá el procedimiento establecido en el párrafo anterior.
 
-#### Sección Cuarta. Del remate
+#### Sección Tercera. De la intervención
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 164.
 
@@ -7388,7 +7486,7 @@ La intervención se levantará cuando el crédito fiscal se hubiera satisfecho o
 
 Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida o a la enajenación de los bienes o derechos que componen la misma de forma separada, cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado período del año, en cuyo caso el porciento será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porciento del crédito que resulte.
 
-#### Sección Primera. De la reclamación
+#### Sección Cuarta. Del remate
 
 ###### Artículo 173.
 
@@ -7960,7 +8058,7 @@ BIS.- (DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCED
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
-#### Sección Segunda. De la Apelación
+#### Sección Primera. De la reclamación
 
 ###### Artículo 242.
 
@@ -7976,7 +8074,7 @@ BIS.- (DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCED
 
 (DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996) (REPUBLICADA, D.O.F. 1 DE DICIEMBRE DE 2005)
 
-#### Sección Tercera. De la revisión
+#### Sección Segunda. De la Apelación
 
 ###### Artículo 245.
 
@@ -7992,9 +8090,7 @@ BIS.- (DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCED
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, D.O.F. 1 DE DICIEMBRE DE 2005)</small>
 
-#### Sección Segunda. De la Apelación
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+#### Sección Tercera. De la revisión
 
 ###### Artículo 248.
 
@@ -9823,3 +9919,21 @@ III. El Servicio de Administración Tributaria mediante reglas de carácter gene
 ## Transitorio
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2017.
+
+D.O.F. 27 DE ENERO DE 2017.
+
+> <small>[N. DE E. "DISPOSICIONES TRANSITORIAS DEL CÓDIGO FISCAL DE LA FEDERACIÓN".]</small>
+
+Artículo Cuarto.- En relación con las modificaciones a que se refiere el Artículo Tercero de este Decreto, se estará a lo siguiente:
+
+Primero. Entrará en vigor a los 30 días naturales siguientes al día en que entre en vigor el presente Decreto.
+
+Segundo. Los recursos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se tramitarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de presentación del recurso, sin perjuicio de lo señalado en el siguiente párrafo.
+
+En el caso de que se cumplan los requisitos de procedencia señalados en los artículos 133-C y 133-D del presente Decreto, los contribuyentes tendrán la opción de solicitar a la unidad administrativa encargada de resolver el recurso de revocación, que el mismo se tramite en los términos del Título V, Capítulo I, Sección Cuarta del Código Fiscal de la Federación, siempre y cuando realice su solicitud en un plazo de diez días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO Y AL CÓDIGO FISCAL DE LA FEDERACIÓN".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que, en su caso, se requieran para cumplir con el presente Decreto, serán cubiertas con cargo al presupuesto aprobado para dicho fin en el ejercicio fiscal correspondiente.
