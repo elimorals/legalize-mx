@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-10-2016-del-pleno-del-consejo-de-la-113126"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-26"
-last_updated: "2016-06-17"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113126&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-02-18"
 
 ACUERDO GENERAL 10/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE NUEVO LEÓN, CON RESIDENCIA EN CADEREYTA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 26 de febrero de 2016.
 
@@ -177,7 +177,9 @@ II. En caso de no ser posible lo previsto en la fracción anterior, la sustituci
 
 III. Si tampoco fuera posible, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal más cercano.
 
-Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita al Primer Tribunal Unitario del Cuarto Circuito con residencia en Monterrey, Nuevo León, para conocer, con ese carácter, de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+> <small>(REFORMADO POR EL ACUERDO GENERAL 52/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2017)</small>
+
+Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios del Cuarto Circuito con residencia en Monterrey, Nuevo León, para conocer con ese carácter y en el orden numérico de su denominación, de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
 ###### Artículo 18.
 
@@ -199,11 +201,13 @@ Para las áreas administrativas del Consejo de la Judicatura Federal, entrará e
 
 El Administrador del Centro llevará a cabo las acciones de coordinación que sean necesarias para garantizar el funcionamiento del mismo en dicha fecha.
 
-SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Segundo Tribunal Unitario del Cuarto Circuito con residencia en Monterrey, Nuevo León, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+> <small>(REFORMADO POR EL ACUERDO GENERAL 52/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2017)</small>
 
-El Tribunal Unitario precisará en los actos procesales que celebre la denominación con la que actúa, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
+SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios del Cuarto Circuito con residencia en Monterrey, Nuevo León, para conocer, en el orden numérico de su denominación, de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
-Este Tribunal Unitario queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como tribunal unitario de Circuito.
+Los Tribunales Unitarios indicados precisarán en los actos procesales que celebren la denominación con la que actúan, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirán por las disposiciones aplicables como tribunal unitario de Circuito.
 
 TERCERO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para en su caso compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17 último párrafo y SEGUNDO transitorio del presente Acuerdo.
 
@@ -302,3 +306,15 @@ Los juzgados de Distrito con residencia en la Ciudad de México ejercerán juris
 Derogado.
 
 II. a XXXIII. …”.
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 52/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 10/2016, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE NUEVO LEÓN, CON RESIDENCIA EN CADEREYTA, RELACIONADO CON LA HABILITACIÓN DEL TRIBUNAL UNITARIO DE ALZADA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos que se encuentren ingresados en los Tribunales Primero y Segundo Unitarios del Cuarto Circuito correspondientes al Centro de Justicia Penal Federal en el Estado de Nuevo León, con residencia en Cadereyta, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento del tribunal que los recibió, hasta su conclusión.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+CUARTO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para en su caso compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17, último párrafo y SEGUNDO transitorio del Acuerdo General 10/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Nuevo León, con residencia en Cadereyta.
