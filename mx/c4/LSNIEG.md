@@ -4,7 +4,7 @@ identifier: "LSNIEG"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-16"
-last_updated: "2014-07-14"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60555&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSNIEG"
 
 LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 16 de abril de 2008.
 
@@ -930,9 +930,11 @@ Para la mejor organización del trabajo, el Presidente del Instituto podrá, sin
 
 Las ausencias temporales del Presidente del Instituto serán suplidas en los términos señalados por el segundo párrafo del artículo 71 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 81.
 
-El Presidente del Instituto tendrá la facultad de determinar el sector que, de entre los cuatro señalados en el artículo 79 de esta Ley, deberá atender y coordinar cada uno de los vicepresidentes de la Junta de Gobierno como parte de su labor ordinaria y cotidiana dentro del Instituto, así como con quién de ellos el titular de la Contraloría Interna del Instituto acordará los asuntos de su competencia.
+El Presidente del Instituto tendrá la facultad de determinar el sector que, de entre los cuatro señalados en el artículo 79 de esta Ley, deberá atender y coordinar cada uno de los vicepresidentes de la Junta de Gobierno como parte de su labor ordinaria y cotidiana dentro del Instituto.
 
 Al tomar las decisiones a que se refiere el párrafo anterior, el Presidente deberá tener en cuenta los antecedentes laborales y académicos de cada uno de los miembros de la Junta de Gobierno.
 
@@ -1026,23 +1028,95 @@ El Instituto deberá hacer del conocimiento público, a través de Internet, los
 
 La Junta de Gobierno, previa justificación, podrá determinar excepciones a la divulgación de la información a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 91.
 
-La vigilancia del Instituto estará encomendada:
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-I. A una Contraloría Interna, la que tendrá a su cargo recibir quejas, realizar investigaciones, llevar a cabo auditorías internas, y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos del Instituto, conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
 
-Asimismo, la Contraloría Interna deberá establecer y llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Instituto, desde el nivel de jefe de departamento u homólogo hasta el de Presidente.
+En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas.
 
-El titular de la Contraloría Interna deberá contar con reconocida solvencia moral, será designado por la Junta de Gobierno, y rendirá cuenta de sus funciones al vicepresidente que, de conformidad con lo dispuesto en el artículo 81 de esta Ley, determine el Presidente del Instituto.
+El Órgano Interno de Control tendrá las siguientes atribuciones:
 
-La Junta de Gobierno aprobará el anteproyecto de presupuesto necesario para cubrir los recursos humanos, materiales y financieros para el adecuado funcionamiento de la Contraloría Interna, y
+I. Las que contempla la Ley General de Responsabilidades Administrativas;
 
-II. A un auditor externo nombrado por la Junta de Gobierno de entre una terna de empresas de auditoría de reconocido prestigio que le proponga el Auditor Superior de la Federación. El auditor externo auxiliará a la Junta de Gobierno y reportará a ésta la información que conozca con motivo del ejercicio de sus funciones.
+II. Verificar que el ejercicio de gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
 
-El auditor externo vigilará, entre otras cosas, que la información financiera y contable del Instituto, se formule de conformidad con los lineamientos, normatividad y principios de contabilidad que le resulten aplicables.
+III. Presentar a la Junta de Gobierno del Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
 
-Al menos cada tres años se deberá designar a una nueva empresa de auditoría en términos de lo dispuesto en este artículo, para salvaguardar la eficacia en la vigilancia del Instituto.
+IV. Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
+
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el Órgano Interno de Control;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto, empleando la metodología que determine;
+
+IX. Recibir quejas y denuncias conforme a las leyes aplicables;
+
+X. Solicitar la información y efectuar visitas a las áreas y órganos del Instituto para el cumplimento de sus funciones;
+
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas;
+
+XII. Intervenir en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XIII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+XIV. Atender las solicitudes de los diferentes órganos del Instituto en los asuntos de su competencia;
+
+XV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+
+XVI. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+
+XVII. Presentar a la Junta de Gobierno del Instituto los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente del Instituto;
+
+XVIII. Presentar a la Junta de Gobierno del Instituto los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
+
+XIX. Las demás que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+ARTÍCULO 91 BIS.- El titular del Órgano Interno de Control será designado por la Cámara de Diputados del Congreso de la Unión, con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+ARTÍCULO 91 TER.- El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del Instituto y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior de la Federación a que se refiere el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
+
+El titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades al Instituto, del cual marcará copia a la Cámara de Diputados.
+
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+ARTÍCULO 91 QUÁTER.- El Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
+
+IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto, o haber fungido como consultor o auditor externo del Instituto, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII. No haber sido Secretario de Estado, Procurador General de la República o de Justicia de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+ARTÍCULO 91 QUINQUIES.- El Titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad administrativa en términos de la Ley General de Responsabilidades Administrativas; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Instituto serán sancionados por el Titular del Órgano Interno de Control, o por la persona en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas.
 
 ### CAPÍTULO II. De los Registros Nacionales de Información Estadística y Geográfica a cargo del Instituto
 
@@ -1691,3 +1765,23 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
 Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE COMPETENCIA ECONÓMICA, DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, DE LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN, DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, Y DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
