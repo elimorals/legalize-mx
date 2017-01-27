@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-y-radiodifusion-101766"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2014-07-14"
-last_updated: "2016-06-09"
+last_updated: "2017-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2014-07-14"
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE JUNIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 14 de julio de 2014.
 
@@ -573,7 +571,9 @@ VII. Aprobar y publicar el programa anual de trabajo del Instituto que le presen
 
 VIII. Aprobar los informes trimestrales de actividades del Instituto que le presente el Comisionado Presidente;
 
-IX. Conocer los informes que deba rendir el titular de la Contraloría Interna del Instituto;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+IX. Conocer los informes que deba rendir el titular del Órgano Interno de Control del Instituto;
 
 X. Fijar las políticas y los programas generales del Instituto;
 
@@ -621,13 +621,17 @@ VII. Coordinar u ordenar la ejecución de los acuerdos y resoluciones adoptados 
 
 VIII. Proponer al Pleno el nombramiento del titular de la autoridad investigadora, del secretario técnico del Pleno, y de los demás funcionarios que señale el estatuto orgánico;
 
-IX. Dar cuenta al Comité de Evaluación previsto en el artículo 28 de la Constitución y a la Cámara de Diputados, de las vacantes que se produzcan en el Pleno del Instituto o en la Contraloría Interna del Instituto, según corresponda, a efecto de su nombramiento;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+IX. Dar cuenta al Comité de Evaluación previsto en el artículo 28 de la Constitución de las vacantes que se produzcan en el Pleno del Instituto, y a la Cámara de Diputados de la vacante que se produzca respecto del titular del Órgano Interno de Control, a efecto de su nombramiento;
 
 X. Proponer anualmente al Pleno el anteproyecto de presupuesto del Instituto para su aprobación y remitirlo, una vez aprobado, a la Secretaría de Hacienda y Crédito Público, a fin de que se incluya en el Proyecto de Decreto de Presupuesto de Egresos de la Federación;
 
 XI. Presentar para aprobación del Pleno, dentro del mes de enero de cada año, el proyecto del programa anual de trabajo del Instituto y trimestralmente los proyectos de informes de actividades que incluyan: los resultados, las acciones y los criterios que al efecto hubiere aplicado; su contribución para cumplir con los objetivos y metas fijados en el Plan Nacional de Desarrollo y demás instrumentos programáticos, relacionados con los sectores de radiodifusión y telecomunicaciones; así como su impacto en el desarrollo, progreso y competitividad del país; debiendo remitirlos a los Poderes Ejecutivo y Legislativo de la Unión;
 
-XII. Recibir del titular de la Contraloría Interna del Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto y hacerlos del conocimiento del Pleno;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+XII. Recibir del titular del Órgano Interno de Control del Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto y hacerlos del conocimiento del Pleno;
 
 XIII. Nombrar y remover al personal del Instituto, salvo los casos previstos en la presente Ley o el estatuto orgánico;
 
@@ -747,7 +751,9 @@ Los comisionados y el titular de la autoridad investigadora, en el ejercicio de 
 
 I. Rechazar cualquier tipo de recomendación que tienda a influir en la tramitación o resolución de los asuntos de su competencia con el propósito de beneficiar o perjudicar indebidamente a algún agente regulado;
 
-II. Denunciar, ante el titular de la Contraloría Interna del Instituto, cualquier acto que pretenda deliberadamente vulnerar su autonomía e imparcialidad;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+II. Denunciar, ante el titular del Órgano Interno de Control del Instituto, cualquier acto que pretenda deliberadamente vulnerar su autonomía e imparcialidad;
 
 III. No involucrarse en actividades que afecten su autonomía;
 
@@ -757,7 +763,9 @@ V. Abstenerse de emitir públicamente opiniones que prejuzguen sobre un determin
 
 El incumplimiento de estas obligaciones será causal de responsabilidad administrativa, sin perjuicio de las que deriven de la Constitución y otras leyes.
 
-Los comisionados estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Cuarto de la Constitución. La Contraloría Interna del Instituto será el órgano facultado para conocer de las infracciones administrativas e imponer, en su caso, las sanciones aplicables conforme a lo dispuesto en esta Ley y en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+Los comisionados estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Cuarto de la Constitución. El Órgano Interno de Control del Instituto será el órgano facultado para conocer de las infracciones administrativas e imponer, en su caso, las sanciones aplicables conforme a lo dispuesto en esta Ley y en la Ley General de Responsabilidades Administrativas.
 
 Sin perjuicio de lo anterior, los comisionados en el ejercicio de sus funciones gozarán de la garantía consistente en que el sentido de su voto u opinión, no generará que sean cuestionados o reconvenidos bajo procedimientos legales, a fin de evitar que se afecte su esfera jurídica y el ejercicio de sus funciones, salvo en el caso en que los comisionados hayan ejercido sus funciones encontrándose impedidos para ello en términos de lo previsto por el artículo 24 de esta Ley.
 
@@ -771,7 +779,9 @@ De cada entrevista se llevará un registro que al menos deberá contener el luga
 
 Esta información deberá publicarse en el portal de Internet del Instituto.
 
-Las entrevistas serán grabadas y almacenadas en medios electrónicos, ópticos o de cualquier otra tecnología, manteniéndose como información reservada, salvo para las otras partes en los procedimientos seguidos en forma de juicio, los demás comisionados, el Contralor Interno y el Senado de la República en caso de que esté sustanciando un procedimiento de remoción de un comisionado. La grabación de cada entrevista deberá estar a disposición de los demás comisionados. Las entrevistas deberán realizarse en las instalaciones del Instituto.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+Las entrevistas serán grabadas y almacenadas en medios electrónicos, ópticos o de cualquier otra tecnología, manteniéndose como información reservada, salvo para las otras partes en los procedimientos seguidos en forma de juicio, los demás comisionados, el titular del Órgano Interno de Control y el Senado de la República en caso de que esté sustanciando un procedimiento de remoción de un comisionado. La grabación de cada entrevista deberá estar a disposición de los demás comisionados. Las entrevistas deberán realizarse en las instalaciones del Instituto.
 
 Los comisionados no podrán ser recusados por las manifestaciones que realicen durante las entrevistas, salvo que de éstas se advierta que se vulnera el principio de imparcialidad. En su caso, la recusación deberá ser calificada por el Pleno.
 
@@ -799,13 +809,17 @@ VII. No excusarse de participar en aquellas tomas de decisiones en las que sus i
 
 VIII. No emitir su voto razonado por escrito en casos de ausencia en los términos previstos en esta Ley;
 
-IX. Incurrir en responsabilidad administrativa grave en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, o
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+IX. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades Administrativas, o
 
 X. Haber sido condenado por delito doloso que amerite pena de prisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2017)</small>
+
 ###### Artículo 32.
 
-En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el titular de la Contraloría Interna del Instituto, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, notificará inmediatamente al presidente de la Mesa Directiva de la Cámara de Senadores, acompañando el expediente del asunto fundado y motivado, a fin de que dicha Cámara resuelva lo conducente.
+En caso de actualizarse alguno de los supuestos señalados en el artículo anterior, el titular del Órgano Interno de Control del Instituto, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, notificará inmediatamente al presidente de la Mesa Directiva de la Cámara de Senadores, acompañando el expediente del asunto fundado y motivado, a fin de que dicha Cámara resuelva lo conducente.
 
 En estos casos, la Cámara de Senadores resolverá sobre la remoción, conforme al siguiente procedimiento:
 
@@ -821,7 +835,9 @@ IV. Concluida la audiencia, se concederá al comisionado sujeto al proceso de re
 
 V. Desahogadas las pruebas que fueren admitidas, la Comisión Especial dentro de los cuarenta y cinco días siguientes someterá el dictamen con proyecto de resolución al Pleno de la Cámara de Senadores.
 
-La remoción requerirá del voto de las dos terceras partes de los miembros presentes en la sesión. Aprobada la remoción, ésta quedará firme y será notificada tanto al infractor como al titular de la Contraloría Interna del Instituto para su inmediato cumplimiento.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+La remoción requerirá del voto de las dos terceras partes de los miembros presentes en la sesión. Aprobada la remoción, ésta quedará firme y será notificada tanto al infractor como al titular del Órgano Interno de Control del Instituto para su inmediato cumplimiento.
 
 ###### Artículo 33.
 
@@ -847,67 +863,67 @@ El comisionado presidente del Instituto dotará de las instalaciones y elementos
 
 La participación en el Consejo Consultivo será personalísima y no podrá llevarse a cabo mediante representantes.
 
-### Capítulo III. De la Contraloría Interna del Instituto
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ENERO DE 2017)</small>
+
+### Capítulo III. Del Órgano Interno de Control del Instituto
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
 ###### Artículo 35.
 
-La Contraloría Interna del Instituto es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo la fiscalización de los ingresos y egresos del Instituto, así como la sustanciación de los procedimientos y, en su caso, la aplicación de las sanciones inherentes a las responsabilidades administrativas de los servidores públicos del Instituto, conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones que resulten aplicables.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-La Contraloría Interna del Instituto, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones que esta Ley y las demás disposiciones aplicables confieren a los servidores públicos del Instituto.
+El Órgano Interno de Control del Instituto, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones que esta Ley y las demás disposiciones aplicables confieren a los servidores públicos del Instituto.
 
-La Contraloría Interna del Instituto tendrá las siguientes atribuciones:
+El Órgano Interno de Control tendrá las siguientes atribuciones:
 
-I. Establecer mecanismos de orientación, asesoría y capacitación en materias de su competencia, para coadyuvar a que los servidores públicos del Instituto cumplan, adecuadamente, con sus responsabilidades administrativas;
+I. Las que contempla la Ley General de Responsabilidades Administrativas;
 
-II. Asesorar al Instituto en los procesos que involucren el ejercicio de recursos presupuestales;
+II. Verificar que el ejercicio de gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
 
-III. Recibir y dar respuesta puntual a las consultas y solicitudes de opinión que le formulen los funcionarios del Instituto, en el ámbito de su competencia, sin que ello signifique aval, garantía o corresponsabilidad por parte de la Contraloría Interna del Instituto;
+III. Presentar al Pleno del Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
 
-IV. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto y llevarlos a cabo;
+IV. Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
 
-V. Verificar los informes de avance de la gestión financiera respecto de los programas y procesos del Instituto;
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
 
-VI. Verificar el cumplimiento de los objetivos y metas fijadas en los programas y proyectos contenidos en el presupuesto de egresos del Instituto;
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
 
-VII. Verificar que las diversas áreas del Instituto que reciban, manejen, administren o ejerzan recursos lo hagan conforme a la normatividad aplicable, los programas aprobados, los montos autorizados y las partidas correspondientes;
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el Órgano Interno de Control;
 
-VIII. Verificar que las operaciones presupuestales que realice el Instituto se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto, empleando la metodología que determine;
 
-IX. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se hayan aplicado legalmente, al logro de los objetivos y metas de los programas aprobados;
+IX. Recibir quejas y denuncias conforme a las leyes aplicables;
 
-X. Requerir a terceros que hubieren contratado bienes o servicios con el Instituto, la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+X. Solicitar la información y efectuar visitas a las áreas y órganos del Instituto para el cumplimento de sus funciones;
 
-XI. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos de la Contraloría Interna del Instituto, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a la que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio (sic) y obras públicas;
 
-XII. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto y llevar el registro de los servidores públicos sancionados;
+XII. Intervenir en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores, en los términos de la normativa aplicable;
 
-XIII. Investigar, de oficio o mediante denuncia o queja, actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto por parte de sus servidores públicos y desahogar los procedimientos a que haya lugar;
+XIII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que éste Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
 
-XIV. Efectuar visitas a las sedes físicas de las áreas del Instituto, para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades establecidas en las leyes aplicables;
+XIV. Atender las solicitudes de los diferentes órganos del Instituto en los asuntos de su competencia;
 
-XV. Formular pliegos de observaciones en materia administrativa;
+XV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
 
-XVI. Determinar los daños y perjuicios que afecten el patrimonio del Instituto y determinar directamente a los responsables, las indemnizaciones y sanciones pecuniarias correspondientes;
+XVI. Formular su anteproyecto de presupuesto del Órgano Interno de Control;
 
-XVII. Fincar las responsabilidades, imponer las sanciones y formular las denuncias que correspondan, en términos de la normatividad aplicable;
+XVII. Presentar al Pleno del Instituto los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Comisionado Presidente;
 
-XVIII. Presentar al Pleno del Instituto sus programas anuales de trabajo;
+XVIII. Presentar al Pleno del Instituto los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas en el ámbito de su competencia, y
 
-XIX. Presentar al Pleno del Instituto y a la Cámara de Diputados, los informes previo y anual de resultados de su gestión;
+XIX. Las demás que le confieran otros ordenamientos.
 
-XX. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, a partir del nivel de jefe de departamento o equivalente, conforme a los formatos y procedimientos que establezca la propia Contraloría Interna del Instituto, así como dar seguimiento a la situación patrimonial de dichos servidores públicos. Serán aplicables en lo conducente, las normas establecidas en la ley de la materia;
+En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas.
 
-XXI. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda, y
+Para la determinación de las responsabilidades y aplicación de sanciones a las que se refiere este artículo deberá seguirse el procedimiento previsto en la Ley General de Responsabilidades Administrativas.
 
-XXII. Las establecidas en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás aplicables en la materia para los órganos internos de control o equivalentes, cuyo ejercicio se aplicará únicamente sobre el Instituto.
-
-Para la determinación de las responsabilidades y aplicación de sanciones a las que se refiere este artículo deberá seguirse el procedimiento previsto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones aplicables.
-
-Las resoluciones por las que la Contraloría Interna del Instituto determine responsabilidades administrativas e imponga sanciones, podrán ser impugnadas por el servidor público ante el Tribunal Federal de Justicia Fiscal y Administrativa.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2017)</small>
 
 ###### Artículo 36.
 
-Para ser titular de la Contraloría Interna del Instituto se requiere satisfacer los siguientes requisitos:
+El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -915,7 +931,9 @@ II. Tener por lo menos treinta y cinco años cumplidos el día de la designació
 
 III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión;
 
-IV. No haber sido Secretario de Estado, Procurador General de la República o de Justicia del Distrito Federal o de las entidades federativas, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno del Distrito Federal, dirigente, miembro de órgano rector o alto ejecutivo de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+IV. No haber sido Secretario de Estado, Procurador General de la República o de Justicia de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación;
 
 V. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos;
 
@@ -929,43 +947,41 @@ IX. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el se
 
 X. No haber ocupado ningún cargo directivo o haber representado de cualquier forma los intereses de algún agente regulado durante los cuatro años previos a su nombramiento.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
 ###### Artículo 37.
 
-El titular de la Contraloría Interna del Instituto será designado por la Cámara de Diputados con el voto de las dos terceras partes de sus miembros presentes, en los términos que lo establezca su reglamento.
+El titular del Órgano Interno de Control será designado por la Cámara de Diputados con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 
-El titular de la Contraloría Interna del Instituto durará en el encargo cuatro años. La Cámara de Diputados podrá renovar la designación del titular de la Contraloría Interna del Instituto hasta por el mismo plazo señalado por una sola vez.
+El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un período inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del Instituto, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior de la Federación a que se refiere el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
 ###### Artículo 38.
 
-El titular de la Contraloría Interna del Instituto podrá ser removido por la Cámara de Diputados con la misma votación requerida para su designación, por las causas y conforme a los procedimientos previstos en el Título Cuarto de la Constitución, así como por las siguientes faltas graves:
+El titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad administrativa en términos de la Ley General de Responsabilidades Administrativas y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
 
-I. Desempeñar otro empleo o encargo en los sectores público o privado, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia;
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
 
-II. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia la Contraloría Interna del Instituto para el ejercicio de sus atribuciones;
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Instituto serán sancionados por el titular del Órgano Interno de Control o el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas.
 
-III. Utilizar en beneficio propio o de terceros, la documentación e información confidencial o reservada a la que tenga acceso en los términos de la presente Ley y demás disposiciones aplicables;
-
-IV. Ausentarse de sus labores por más de una semana, excepción hecha de vacaciones y permisos programados, sin mediar autorización del Pleno del Instituto;
-
-V. Abstenerse de presentar, en los términos de la presente Ley, sin causa justificada, los informes de sus funciones;
-
-VI. Sustraer, destruir, ocultar o utilizar indebidamente, la documentación e información que por razón de su cargo tenga a su custodia o que exista en la Contraloría Interna del Instituto con motivo del ejercicio de sus atribuciones;
-
-VII. Aceptar la injerencia de los agentes regulados por el Instituto en el ejercicio de sus funciones, o por cualquier circunstancia conducirse con parcialidad en el proceso de revisión del Instituto y en los procedimientos de fiscalización e imposición de sanciones;
-
-VIII. Obtener una evaluación del desempeño poco satisfactoria a juicio de la Comisión de Vigilancia de la Cámara de Diputados, durante dos ejercicios consecutivos, y
-
-IX. Notificar a sabiendas, al Senado de la República, información falsa o alterada respecto de una causa de remoción de los comisionados.
-
-La Cámara de Diputados designará una comisión instructora que estudiará los hechos y propondrá una decisión fundada y motivada. La Cámara de Diputados dictaminará sobre la existencia de los motivos de la remoción del titular de la Contraloría Interna del Instituto por causas graves de responsabilidad administrativa y deberá dar derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
 ###### Artículo 39.
 
-El titular de la Contraloría Interna del Instituto será suplido en sus ausencias por los auditores en el orden que señale el estatuto orgánico del Instituto.
+El titular del Órgano Interno de Control del Instituto será suplido en sus ausencias por los servidores públicos correspondientes en el orden que señale el estatuto orgánico del Instituto.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
 ###### Artículo 40.
 
-El titular de la Contraloría Interna del Instituto será auxiliado en sus funciones por el personal que al efecto señale el estatuto orgánico del Instituto, de conformidad con el presupuesto autorizado. El titular de la Contraloría Interna del Instituto estará sujeto a las mismas reglas de contacto establecidas en esta Ley para los comisionados.
+El titular del Órgano Interno de Control del Instituto será auxiliado en sus funciones por el personal que al efecto señale el estatuto orgánico del Instituto, de conformidad con el presupuesto autorizado. El titular del Órgano Interno de Control del Instituto estará sujeto a las mismas reglas de contacto establecidas en esta Ley para los comisionados.
+
+El titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades a la Comisión, del cual marcará copia a la Cámara de Diputados.
+
+El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de todos los servidores públicos del Instituto, de conformidad con la Ley General del Sistema Nacional Anticorrupción y la Ley General de Responsabilidades Administrativas.
 
 ### Capítulo IV. Del Régimen Laboral de los Trabajadores del Instituto
 
@@ -4400,3 +4416,23 @@ D.O.F. 1 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 230 DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE COMPETENCIA ECONÓMICA, DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, DE LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN, DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, Y DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
