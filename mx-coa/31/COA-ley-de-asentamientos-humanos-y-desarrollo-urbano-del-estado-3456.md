@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2016-10-07"
+last_updated: "2017-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 7 DE OCTUBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 485 PUBLICADO EN EL P.O. DE 9 DE AGOSTO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -312,6 +310,14 @@ VII.- Cuando sean solicitadas con la finalidad de establecer instalaciones, real
 VIII.- Presentar la aprobación emitida por la autoridad federal de aeronáutica civil, cuando sean solicitadas con la finalidad de establecer instalaciones, realizar construcciones u obras en los terrenos adyacentes e inmediatos a los aeropuertos civiles, dentro de las zonas de protección de los mismos.
 
 Para efectos de la presente fracción, los terrenos adyacentes e inmediatos a los aeropuertos civiles, dentro de las zonas de protección de los mismos serán los señalados en el artículo 264-bis del presente ordenamiento.
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2017)</small>
+
+IX.- En caso de otorgamiento de constancias de uso de suelo y licencias de funcionamiento para estaciones de servicio destinadas para la venta directa al público en general, de gasolinas, diesel, gas l.p., gas natural y/o cualquier otro tipo de combustible autorizado, además de cumplir con las normas establecidas en esta ley y en los reglamentos municipales en la materia, deberán ubicarse a una distancia de mil quinientos metros a partir de sus límites más próximos y de diez mil metros en áreas rurales con carretera.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 27 DE ENERO DE 2017.]</small>
+
+Si en lados contrarios de una vía de doble sentido de circulación que cuente con camellón central, se pretenden establecer dos o más estaciones, los predios deberán tener una distancia mínima de quinientos metros a partir de sus límites más próximos.
 
 (REFORMADO, P.O. 21 DE JUNIO DE 1996) (F. DE E., P.O. 11 DE SEPTIEMBRE DE 2015)
 
@@ -1871,7 +1877,7 @@ I.- Un Presidente, que será el Gobernador del Estado;
 
 II.- Un Secretario Técnico, que será el Titular de la Secretaría;
 
-III.- Los presidente municipales de los ayuntamientos del Estado, en donde se localice la zona conurbada;
+III.- Los presidente (sic) municipales de los ayuntamientos del Estado, en donde se localice la zona conurbada;
 
 IV.- Los representantes de las dependencias y entidades estatales y federales que sean invitados por el Gobernador del Estado a formar parte de la Comisión; así como por los de los sectores social y privado que a juicio de la Comisión de Conurbación Interestatal deban invitarse a formar parte de la misma; y
 
@@ -3564,3 +3570,19 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 762.- SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 7 DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones de este Decreto no serán aplicadas de manera retroactiva a las estaciones de servicio que se encuentren instaladas o en funcionamiento al momento de su entrada en vigor; así como respecto de aquellos permisos que se hayan autorizado previamente y que se encuentren vigentes.
+
+###### ARTÍCULO TERCERO.
+
+Los Municipios deberán adecuar su reglamentación a los términos del presente Decreto.
