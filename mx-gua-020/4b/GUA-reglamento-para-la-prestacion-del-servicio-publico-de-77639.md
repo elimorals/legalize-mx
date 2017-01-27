@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-prestacion-del-servicio-publico-de-77639"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-26"
-last_updated: "2010-11-26"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 ---
 # REGLAMENTO PARA LA PRESTACION DEL SERVICIO PUBLICO DE PANTEONES EN EL MUNICIPIO DE LEON, GUANAJUATO
 
-REGLAMENTO PARA LA PRESTACION DEL SERVICIO PUBLICO DE PANTEONES EN EL MUNICIPIO DE LEON, GUANAJUATO
+REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO DE PANTEONES EN EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2017.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -57,7 +57,7 @@ Los cadáveres no pueden ser objeto de propiedad y siempre serán tratados con r
 
 Para los efectos del presente Reglamento, además de las definiciones establecidas en la Ley General de Salud, se atenderán a las siguientes:
 
-l. Acta de Defunción: Documento a través del cual se declara legalmente el fallecimiento de una persona, el cual es expedido por el oficial del registro civil correspondiente;
+I. Acta de Defunción: Documento a través del cual se declara legalmente el fallecimiento de una persona, el cual es expedido por el oficial del registro civil correspondiente;
 
 II. Autoridad Sanitaria: La Secretaria de Salud Federal y/o Estatal, así como las autoridades que la normativa vigente y el presente ordenamiento consideran como competentes en materia de control sanitario y destino final de cadáveres de seres humanos;
 
@@ -187,7 +187,7 @@ V. La Coordinación de Panteones.
 
 El Ayuntamiento tendrá las siguientes atribuciones:
 
-l. Autorizar el otorgamiento, transmisión y modificación de la concesión del servicio público de panteones, así como decretar su extinción por caducidad, revocación o rescate en los términos de la normatividad aplicable;
+I. Autorizar el otorgamiento, transmisión y modificación de la concesión del servicio público de panteones, así como decretar su extinción por caducidad, revocación o rescate en los términos de la normatividad aplicable;
 
 II. Autorizar las tarifas que los concesionarios podrán aplicar por la prestación del servicio público de panteones;
 
@@ -203,7 +203,7 @@ VI. Las demás que se deriven de la Ley, el Reglamento de la Ley, la Ley Orgáni
 
 El Presidente Municipal tendrá las siguientes atribuciones:
 
-l. Planear, orientar, fomentar, conducir y apoyar las acciones necesarias para que la prestación del servicio público de panteones en el Municipio, se realice eficaz y eficientemente, con sujeción al Plan de Gobierno Municipal y a las disposiciones que de carácter nacional, estatal y municipal que (sic) existen en esta materia;
+I. Planear, orientar, fomentar, conducir y apoyar las acciones necesarias para que la prestación del servicio público de panteones en el Municipio, se realice eficaz y eficientemente, con sujeción al Plan de Gobierno Municipal y a las disposiciones que de carácter nacional, estatal y municipal que (sic) existen en esta materia;
 
 II. Coordinar el ejercicio de las atribuciones de la Dirección General y de la Dirección, así como vigilar que éstas se realicen en estricto apego a la normatividad existente en materia de panteones;
 
@@ -237,7 +237,7 @@ VIII. Las demás que se deriven de la Ley, el Reglamento de la Ley, la Ley Orgá
 
 La Dirección, tendrá las siguientes atribuciones:
 
-l. Formular propuestas de los programas de trabajo, líneas de acción, políticas y lineamientos sobre los cuales debe prestarse el servicio público de panteones en el Municipio, así como generar un proyecto de bases técnicas sobre las cuales podrá prestarse dicho servicio bajo el régimen de concesión;
+I. Formular propuestas de los programas de trabajo, líneas de acción, políticas y lineamientos sobre los cuales debe prestarse el servicio público de panteones en el Municipio, así como generar un proyecto de bases técnicas sobre las cuales podrá prestarse dicho servicio bajo el régimen de concesión;
 
 II. Implementar Planes y Programas en materia del Servicio Público de panteones, así como analizar los resultados obtenidos de dicha implementación, proponiendo las acciones tendientes a mejorar los resultados obtenidos;
 
@@ -309,7 +309,7 @@ VII. Deberán contar con una señalización de secciones, líneas, zonas, clase 
 
 El proyecto ejecutivo para la construcción de un panteón, deberá contener como mínimo:
 
-l. Dimensiones del terreno, su topografía y la propuesta de distribución;
+I. Dimensiones del terreno, su topografía y la propuesta de distribución;
 
 II. Localización de las oficinas administrativas;
 
@@ -327,7 +327,7 @@ d) Las áreas mencionadas en la fracción II del artículo anterior.
 
 Las fosas separadas ubicadas en los panteones municipales, deberán atender a las siguientes normas:
 
-l. Para fosas grandes:
+I. Para fosas grandes:
 
 a) Se ubicaran a un mínimo de 1.50 metros de profundidad sobre el nivel del suelo; y,
 
@@ -369,7 +369,7 @@ En el caso especifico de las lápidas, estas deberán ser de color blanco, en el
 
 Para la instalación de lápidas, los marmoleros deberán cumplir con los siguientes requisitos:
 
-l. Acreditar que se encuentra como prestador del servicio ante la Dirección;
+I. Acreditar que se encuentra como prestador del servicio ante la Dirección;
 
 II. Registrarse en el panteón, donde vaya a prestar el servicio;
 
@@ -431,7 +431,7 @@ Los Panteones Municipales en servicio, estarán abiertos al público diariamente
 
 Los panteones sólo podrán suspender parcial o totalmente los servicios de inhumación, exhumación y reinhumación por alguna de las siguientes causas:
 
-l. Por disposición expresa de la Autoridad Sanitaria correspondiente o del Ayuntamiento; y
+I. Por disposición expresa de la Autoridad Sanitaria correspondiente o del Ayuntamiento; y
 
 II. Por caso fortuito o causa de fuerza mayor.
 
@@ -493,7 +493,7 @@ Adicionalmente deberá llevarse un control, donde se registren los traslados de 
 
 Además de los registros establecidos en los libros especiales, en los panteones podrá conformarse un archivo con la siguiente documental:
 
-l. Ordenes emitidas por las Autoridades Sanitarias;
+I. Ordenes emitidas por las Autoridades Sanitarias;
 
 II. Acuerdos emitidos por el Ayuntamiento;
 
@@ -573,7 +573,7 @@ En caso de epidemias o desastres, la Autoridad Municipal podrá disponer sin cos
 
 Los concesionarios tendrán las obligaciones siguientes:
 
-l. Prestar el servicio público de panteones a toda persona que lo solicite, sin distinción, de manera eficaz, uniforme, continua y en estricto apego a la normatividad vigente de carácter federal, estatal y municipal;
+I. Prestar el servicio público de panteones a toda persona que lo solicite, sin distinción, de manera eficaz, uniforme, continua y en estricto apego a la normatividad vigente de carácter federal, estatal y municipal;
 
 II. Contar con el personal, equipo e instalaciones suficientes y necesarias para cubrir las demandas del servicio que se concesiona;
 
@@ -665,11 +665,11 @@ Los cadáveres deberán inhumarse entre las doce y las cuarenta y ocho horas sig
 
 ###### Artículo 55.
 
-Queda estrictamente prohibido en los panteones admitir para su inhumación, cadáveres o restos humanos, que no se encuentren en ataúdes, hecha excepción de los casos fortuitos o de fuerza mayor; (sic)
+Queda estrictamente prohibido en los panteones admitir para su inhumación, cadáveres o restos humanos, que no se encuentren en ataúdes, hecha excepción de los casos fortuitos o de fuerza mayor;
 
 ###### Artículo 56.
 
-En los panteones, no se permitirá la inhumación de residuos biológico-infecciosos, salvo los casos y mandatos de las autoridades judiciales o sanitarias; (sic)
+En los panteones, no se permitirá la inhumación de residuos biológico-infecciosos, salvo los casos y mandatos de las autoridades judiciales o sanitarias;
 
 ###### Artículo 57.
 
@@ -719,7 +719,7 @@ Cumplidos los plazos a que se refiere el capitulo anterior, se procederá a la e
 
 Las exhumaciones se clasifican en:
 
-l. Exhumación por Disponente Secundario;
+I. Exhumación por Disponente Secundario;
 
 II. Exhumación por Administración; y,
 
@@ -759,7 +759,7 @@ IV. Los demás requisitos que establezca la Dirección y la Coordinación de Pan
 
 ###### Artículo 71.
 
-Los responsables del destino final de los restos áridos humanos, serán los disponentes secundarios; (sic)
+Los responsables del destino final de los restos áridos humanos, serán los disponentes secundarios;
 
 ###### Artículo 72.
 
@@ -789,7 +789,7 @@ En tratándose de la exhumación prematura, esta deberá realizarse en los horar
 
 Para el desahogo de la exhumación prematura, se deberá cumplir previamente con los siguientes requisitos:
 
-l. Orden escrita de la Autoridad Judicial competente, debidamente fundamentada y motivada;
+I. Orden escrita de la Autoridad Judicial competente, debidamente fundamentada y motivada;
 
 II. Permiso de la Autoridad Sanitaria para tal efecto;
 
@@ -805,7 +805,7 @@ VI. Recibo de pago correspondiente por la prestación del servicio.
 
 Para la ejecución de toda exhumación prematura, deben observarse las siguientes normas particulares:
 
-l. Únicamente se permitirá la presencia de encargado del panteón, autoridades sanitarias, judiciales y personal autorizado;
+I. Únicamente se permitirá la presencia de encargado del panteón, autoridades sanitarias, judiciales y personal autorizado;
 
 II. Las autoridades y el personal autorizado, están obligados a contar con equipo especial de protección que señalen las autoridades sanitarias;
 
@@ -825,11 +825,11 @@ Para el control de la emisión de gases generados por los hornos crematorios, se
 
 ###### Artículo 80.
 
-·Para el caso de que las cremaciones se pretendan realizar dentro de las primeras doce horas posteriores al fallecimiento, o después de las cuarenta y ocho horas de ocurrido éste, se requerirá la autorización o permiso de las autoridades sanitarias en los términos previstos en la Ley y el Reglamento de la Ley.
+Para el caso de que las cremaciones se pretendan realizar dentro de las primeras doce horas posteriores al fallecimiento, o después de las cuarenta y ocho horas de ocurrido éste, se requerirá la autorización o permiso de las autoridades sanitarias en los términos previstos en la Ley y el Reglamento de la Ley.
 
 ###### Artículo 81.
 
-Los responsables del destino final de las cenizas resultado del proceso de cremación, serán los disponentes secundarios; (sic)
+Los responsables del destino final de las cenizas resultado del proceso de cremación, serán los disponentes secundarios;
 
 ### CAPÍTULO VIII. DE LOS VISITANTES A LOS PANTEONES
 
@@ -837,7 +837,7 @@ Los responsables del destino final de las cenizas resultado del proceso de crema
 
 Son obligaciones de los visitantes a los panteones las siguientes:
 
-l. Cumplir con las disposiciones establecidas en este reglamento, así como las emanadas por la Dirección General y la Dirección; y,
+I. Cumplir con las disposiciones establecidas en este reglamento, así como las emanadas por la Dirección General y la Dirección; y,
 
 II. Las demás que establezcan los reglamentos internos de cada panteón.
 
@@ -897,7 +897,7 @@ El servicio funerario gratuito, será proporcionado a las personas que lo solici
 
 El servicio funerario gratuito, se compone de los siguientes elementos:
 
-l. La entrega del ataúd;
+I. La entrega del ataúd;
 
 II. El traslado del cadáver de su lugar de origen a su destino final en vehículo apropiado;
 
@@ -931,7 +931,9 @@ Para la aplicación de sanciones, la Dirección atenderá a lo dispuesto Código
 
 A quienes infrinjan las disposiciones contenidas en el presente reglamento, se les impondrá conjunta o separadamente, cualquiera de las siguientes sanciones:
 
-I. Multa de 10 hasta 200 veces el salario mínimo general diario vigente al momento de la infracción;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2017)</small>
+
+I. Multa de 10 hasta 200 veces la Unidad de Medida y Actualización Diaria.
 
 II. Suspensión temporal del panteón;
 
@@ -982,3 +984,11 @@ PRESIDENTE MUNICIPAL
 LIC. MAYRA ANGÉLICA ENRÍQUEZ VANDERKAM
 
 SECRETARÍA DEL H. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL H. AYUNTAMIENTO DE LEÓN, GTO., MEDIANTE EL CUAL SE REFORMAN ALGUNAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, A FIN DE ESTABLECER LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, CONFORME AL DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 27 DE ENERO DE 2016".]
+
+Único. Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
