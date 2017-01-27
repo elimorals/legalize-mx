@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-proyectos-de-prestacion-de-servicios-para-el-7764
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-26"
-last_updated: "2010-11-26"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 ---
 # REGLAMENTO DE PROYECTOS DE PRESTACION DE SERVICIOS PARA EL MUNICIPIO DE LEON, GUANAJUATO
 
-REGLAMENTO DE PROYECTOS DE PRESTACION DE SERVICIOS PARA EL MUNICIPIO DE LEON, GUANAJUATO
+REGLAMENTO DE PROYECTOS DE PRESTACIÓN DE SERVICIOS PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2017.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -125,9 +125,11 @@ Para efectos de este Reglamento, tiene la calidad de Proyecto de Prestación de 
 
 Monto mínimo para la contratación de un Proyecto de Prestación de Servicios
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2017)</small>
+
 ###### Artículo 7.
 
-El monto mínimo para llevar a cabo la contratación de un Proyecto de Prestación de Servicios, en ningún caso será menor al equivalente de treinta y un mil salarios mínimos vigentes en el Estado, elevados al mes, salvo que por unanimidad y con base en las proyecciones financieras correspondientes, el Ayuntamiento acuerde otro monto.
+El monto mínimo para llevar a cabo la contratación de un Proyecto de Prestación de Servicios, en ningún caso será menor al equivalente de treinta y un mil veces la Unidad de Medida y Actualización Diaria, elevada al mes, salvo que por unanimidad y con base en las proyecciones financieras correspondientes, el Ayuntamiento acuerde otro monto.
 
 Naturaleza de los actos efectuados al amparo del presente Reglamento
 
@@ -245,7 +247,7 @@ VI. Un representante de la Unidad de Inversión y Banco de Proyectos;
 
 VII. Un representante de la Dirección General de Obra Pública, y
 
-VIII. Los demás funcionarios de las Dependencias o Entidades que tienen relación con la materia; (sic)
+VIII. Los demás funcionarios de las Dependencias o Entidades que tienen relación con la materia;
 
 De las Sesiones de los Grupos de Trabajo
 
@@ -403,7 +405,7 @@ c) La Unidad de Inversión y Banco de Proyectos;
 
 d) El Contralor Municipal; y,
 
-e) Los demás titulares de las Dependencias o Entidades que tengan relación con la materia; (sic)
+e) Los demás titulares de las Dependencias o Entidades que tengan relación con la materia;
 
 Atribuciones del Comité
 
@@ -900,3 +902,11 @@ PRESIDENTE MUNICIPAL
 LIC. MAYRA ANGÉLICA ENRÍQUEZ VANDERKAM
 
 SECRETARIA DEL H. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL H. AYUNTAMIENTO DE LEÓN, GTO., MEDIANTE EL CUAL SE REFORMAN ALGUNAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, A FIN DE ESTABLECER LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, CONFORME AL DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 27 DE ENERO DE 2016”.]
+
+Único. Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
