@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-nacional-para-la-evaluacion-de-la-95785"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-11"
-last_updated: "2013-09-11"
+last_updated: "2017-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95785&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-09-10"
 
 LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 11 de septiembre de 2013.
 
@@ -391,7 +391,9 @@ III. Las unidades administrativas que se establezcan en su Estatuto;
 
 IV. Los órganos colegiados, y
 
-V. La Contraloría Interna.
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+V. El Órgano Interno de Control
 
 ###### Artículo 31.
 
@@ -439,9 +441,11 @@ Los integrantes de la Junta, por voto mayoritario de tres de sus integrantes, no
 
 La remuneración y prestaciones que reciban los integrantes de la Junta por el desempeño de su cargo serán equivalentes a las que perciban los subsecretarios de la Administración Pública Federal. El Presidente contará con una remuneración 7% mayor a la que corresponda a los demás integrantes. Esta disposición se realizará sujetándose a los límites de los tabuladores de percepciones que establezca la Cámara de Diputados, al aprobar el presupuesto de egresos de la federación para el ejercicio fiscal correspondiente.
 
+> <small>(REFORMADO PÁRRAFO PRIMERO, D.O.F. 27 DE ENERO DE 2017)</small>
+
 ###### Artículo 38.
 
-Son atribuciones de la Junta:
+Son facultades de la Junta:
 
 I. Expedir, a propuesta del Presidente, el Estatuto, los manuales de organización y de procedimientos, así como las demás normas de aplicación general necesarias para el funcionamiento y operación del Instituto;
 
@@ -473,13 +477,17 @@ XIV. Conocer y, en su caso, aprobar el informe y evaluación anual que, respecto
 
 XV. Aprobar los actos jurídicos de coordinación y colaboración a que se refiere la presente Ley;
 
-XVI. Designar, a propuesta del Presidente, a los titulares de las unidades administrativas previstas en el Estatuto, así como de la Contraloría Interna;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+XVI. Designar, a propuesta del Presidente, a los titulares de las unidades administrativas previstas en el Estatuto;
 
 XVII. Aprobar las políticas y normas para la administración de los recursos humanos, financieros y materiales del Instituto, con apego a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
 XVIII. Desahogar los asuntos relacionados con la aplicación de esta Ley, que sometan a su consideración sus integrantes;
 
-XIX. Conocer y aprobar, en su caso, los estados financieros respecto del ejercicio fiscal del Instituto; autorizar su publicación, así como el dictamen del Contralor Interno;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+XIX. Conocer y aprobar, en su caso, los estados financieros respecto del ejercicio fiscal del Instituto; autorizar su publicación, así como conocer y publicar el dictamen del titular del Órgano Interno de Control;
 
 XX. Emitir las normas y procedimientos para la regulación del servicio profesional al interior del Instituto;
 
@@ -529,7 +537,9 @@ V. Celebrar los actos jurídicos que al efecto resulten necesarios para la colab
 
 VI. Presentar a la Junta, para su aprobación, el Estatuto, los manuales de organización y de procedimientos, así como las demás normas de aplicación general necesarias para el funcionamiento y operación del Instituto;
 
-VII. Proponer a la Junta, para su designación, a los titulares de las unidades administrativas previstas en el Estatuto y de la Contraloría Interna;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+VII. Proponer a la Junta, para su designación, a los titulares de las unidades administrativas previstas en el Estatuto;
 
 VIII. Proponer a la Junta, para su aprobación, los programas anual y de mediano plazo del Instituto, así como los objetivos, programas, metas y acciones de las unidades administrativas del Instituto y los informes de desempeño de éstas;
 
@@ -543,7 +553,9 @@ XII. Presentar al Congreso de la Unión, a la Conferencia y a la sociedad en gen
 
 XIII. Presentar anualmente a la Junta, dentro de los sesenta días siguientes a la conclusión del ejercicio fiscal, un informe de la gestión y de los estados financieros del Instituto;
 
-XIV. Recibir del Contralor Interno los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, así como hacerlos del conocimiento a la Junta, y
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+XIV. Recibir del titular del Órgano Interno de Control los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, así como hacerlos del conocimiento a la Junta, y
 
 XV. Las demás que resulten de esta Ley, del Estatuto y de otras disposiciones aplicables.
 
@@ -627,33 +639,115 @@ Se considerará reservada la información que contenga datos cuya difusión pong
 
 #### Sección Sexta. De la Vigilancia, Transparencia y Rendición de Cuentas
 
+> <small>(REFORMADO PÁRRAFO PRIMERO, D.O.F. 27 DE ENERO DE 2017)</small>
+
 ###### Artículo 60.
 
-La Contraloría Interna es el órgano de control, vigilancia, auditoría y fiscalización de las actividades del Instituto, así como de investigación y denuncia ante las instancias competentes de las presuntas faltas administrativas o hechos que puedan ser constitutivos de delitos cometidos por los integrantes del personal directivo, técnico, académico o administrativo.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
 ###### Artículo 61.
 
-Son facultades del Contralor Interno:
+El Órgano Interno de Control tendrá las siguientes atribuciones:
 
-I. Vigilar que las erogaciones y gastos del Instituto se ajusten al presupuesto autorizado y se ejerza en términos de la normativa aplicable;
+I. Las que contempla la Ley General de Responsabilidades Administrativas;
 
-II. Vigilar y supervisar que los servidores públicos del Instituto cumplan con las normas y disposiciones en materia administrativa, de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y adquisiciones;
+II. Verificar que el ejercicio de gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
 
-III. Realizar auditorías de desempeño, con las que se evaluará el resultado del plan de trabajo y el logro de los objetivos y metas aprobados por la Junta;
+III. Presentar a la Junta de Gobierno del Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
 
-IV. Practicar auditorías económico financieras, que comprenderán el examen de las transacciones, operaciones y registros financieros, para determinar si la información que se produce al respecto es confiable y oportuna;
+IV. Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
 
-V. Promover y sugerir en el ámbito de su competencia, la aplicación de medidas o programas que contribuyan a mejorar, agilizar o modernizar aquellos procesos, sistemas o procedimientos de carácter administrativo que permitan un flujo más eficiente de los recursos presupuestarios, así como una administración de los recursos humanos, materiales y técnicos;
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
 
-VI. Recibir y atender las quejas y denuncias en contra de los servidores públicos del Instituto, derivadas de inconformidades en materia de adquisiciones, así como realizar los procedimientos correspondientes, turnándolos en su caso, a la Auditoría Superior de la Federación para los efectos a que haya lugar, debiendo informar a la Junta lo conducente;
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
 
-VII. Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto; así como, verificar y practicar las investigaciones que fueran pertinentes de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y las disposiciones reglamentarias aplicables, y
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que éste determine;
 
-VIII. Las demás que le confieran las disposiciones aplicables.
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto, empleando la metodología que determine;
+
+IX. Recibir quejas y denuncias conforme a las leyes aplicables;
+
+X. Solicitar la información y efectuar visitas a las áreas y órganos del Instituto para el cumplimento de sus funciones;
+
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas;
+
+XII. Intervenir en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XIII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités del que éste Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+XIV. Atender las solicitudes de los diferentes órganos del Instituto en los asuntos de su competencia;
+
+XV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+
+XVI. Formular su anteproyecto de presupuesto;
+
+XVII. Presentar a la Junta de Gobierno del Instituto los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente;
+
+XVIII. Presentar a la Junta de Gobierno del Instituto los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
+
+XIX. Las demás que le confieran otros ordenamientos.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
 ###### Artículo 62.
 
-La Junta observará en la designación del Contralor Interno que éste cumpla con los criterios de probidad, experiencia, capacidad e imparcialidad, de acuerdo con las disposiciones previstas en el Estatuto.
+El titular del Órgano Interno de Control será designado por la Cámara de Diputados, con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 62 Bis.
+
+El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
+
+IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o haber fungido como consultor o auditor externo del Instituto, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII. No haber sido Secretario de Estado, Procurador General de la República o de Justicia de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 62 Ter.
+
+El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del Instituto y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior de la Federación a que se refiere el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
+
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados con excepción de los cargos docentes.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 62 Quáter.
+
+El titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Instituto serán sancionados por el Titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 62 Quinquies.
+
+El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Instituto, de conformidad con la Ley General del Sistema Nacional Anticorrupción y la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 63.
 
@@ -663,7 +757,9 @@ I. El informe sobre el estado que guarden componentes, procesos y resultados del
 
 Este informe deberá hacerse del conocimiento público, sujetándose a las disposiciones que al efecto expida el propio Instituto.
 
-II. Un informe por escrito de las actividades y del ejercicio del gasto del año inmediato anterior, incluyendo las observaciones relevantes que, en su caso, haya formulado el Contralor Interno.
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+II. Un informe por escrito de las actividades y del ejercicio del gasto del año inmediato anterior, incluyendo las observaciones relevantes que, en su caso, haya formulado el titular del Órgano Interno de Control.
 
 Lo dispuesto en este artículo se realizará sin perjuicio de los datos e informes que el Instituto deba rendir en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de la Ley de Fiscalización y Rendición de Cuentas de la Federación y demás disposiciones aplicables.
 
@@ -744,3 +840,25 @@ Décimo Tercero. Los proyectos de trabajo y acciones administrativas que el Inst
 México, D.F., a 23 de agosto de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de septiembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE COMPETENCIA ECONÓMICA, DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, DE LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN, DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, Y DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
