@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-consejo-estatal-para-la-cultura-y-las-artes-800
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-14"
-last_updated: "2016-08-10"
+last_updated: "2017-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY QUE CREA EL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE SUPRIME EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE PUEBLA, PUBLICADO EN LA SEGUNDA SECCIÓN AL NÚMERO 20 DEL P.O. DE 27 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2017 (ABROGADA).
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Puebla, el lunes 14 de febrero de 2011.
 
@@ -640,3 +642,39 @@ SÉPTIMO. El Ejecutivo del Estado dentro los noventa días naturales siguientes 
 En tanto no se realicen las reformas a que se refiere el párrafo anterior, las instancias señaladas en este Decreto, seguirán aplicando los reglamentos vigentes en todo aquello que no la contravengan.
 
 OCTAVO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SUPRIME EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE PUEBLA, Y ABROGA LA LEY QUE CREA EL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES DE PUEBLA, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 5, QUINTA SECCIÓN, DE FECHA 14 DE FEBRERO DE 2011, TOMO CDXXX".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley que crea el Consejo Estatal para la Cultura y las Artes de Puebla, publicada en el Periódico Oficial del Estado el día catorce de febrero de dos mil once.
+
+TERCERO. El personal del Consejo Estatal para la Cultura y las Artes de Puebla, que se encuentre laborando en el mismo y que se considere indispensable para continuar con el seguimiento de los asuntos y expedientes por concluir, será transferido a la Secretaría de Turismo a la entrada en vigor del presente Decreto, respetando sus derechos laborales conforme a las disposiciones legales aplicables.
+
+CUARTO. En términos de la legislación aplicable, los recursos materiales y financieros que formen parte del patrimonio del Consejo Estatal para la Cultura y las Artes de Puebla y aquéllos que tenga derecho a percibir, se transferirán al Gobierno del Estado con destino, de manera preferente, a la Secretaría de Turismo, debiendo intervenir para ello, las Secretarías de Finanzas y Administración, y de la Contraloría, en el ámbito de sus respectivas atribuciones.
+
+QUINTO. Los bienes muebles que a la entrada en vigor del presente Decreto formen parte del patrimonio del Consejo Estatal para la Cultura y las Artes de Puebla, o que tenga derecho a incorporarlos al mismo, se transmitirán en propiedad al Gobierno del Estado con destino de manera preferente a la Secretaría de Turismo.
+
+Los bienes inmuebles asignados o destinados al Consejo Estatal para la Cultura y las Artes de Puebla, se destinarán de manera preferente a la Secretaría de Turismo, a través de la Secretaría de Finanzas y Administración.
+
+SEXTO. Los asuntos en trámite, así como los juicios, recursos y procedimientos en los que a la entrada en vigor del presente Decreto sea parte el Consejo Estatal para la Cultura y las Artes de Puebla, continuarán tramitándose a través de las unidades administrativas competentes de la Secretaría de Turismo.
+
+SÉPTIMO. Toda la documentación e información física y electrónica que corresponda al Consejo Estatal para la Cultura y las Artes de Puebla deberá ser transferida a la Secretaría de Turismo.
+
+OCTAVO. Los derechos, obligaciones, contratos, convenios y demás instrumentos jurídicos a favor o en los que se haga referencia al Organismo Público Descentralizado denominado "Consejo Estatal para la Cultura y las Artes de Puebla", se entenderán subrogados y concedidas las atribuciones a la Secretaría de Turismo.
+
+NOVENO. La persona que a la fecha de la entrada en vigor del presente Decreto haya sido designada como liquidador por el Órgano de Gobierno del "Consejo Estatal para la Cultura y las Artes de Puebla" deberá llevar a cabo los trámites legales y administrativos finales del Organismo que resulten con motivo de este Decreto hasta su total conclusión. El liquidador deberá solicitar a la Secretaría de Finanzas y Administración, los recursos necesarios para cubrir los gastos que se requieran para concluir los trabajos de supresión del Organismo.
+
+El liquidador deberá rendir informes de las acciones realizadas cada quince días a la Secretaría de Turismo.
+
+DÉCIMO. El liquidador a que se refiere el artículo anterior, deberá coordinarse con la Secretaría de la Contraloría y con las demás instancias competentes para llevar a cabo el proceso de entrega-recepción a que haya lugar.
+
+DÉCIMO PRIMERO. Los ordenamientos y disposiciones reglamentarias que norman las funciones de la Secretaría de Turismo, deberán modificarse dentro del término de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera al Consejo Estatal para la Cultura y las Artes de Puebla, se entenderá referido a la Secretaría de Turismo.
+
+DÉCIMO TERCERO. Con motivo de la entrada en vigor del presente Decreto y en cumplimiento de las medidas de racionalidad, eficiencia y austeridad para el ejercicio del gasto público, las formas oficiales, formatos y demás papelería existentes en los que conste la denominación Consejo Estatal para la Cultura y las Artes de Puebla, se seguirán utilizando hasta que se terminen.
+
+DÉCIMO CUARTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
