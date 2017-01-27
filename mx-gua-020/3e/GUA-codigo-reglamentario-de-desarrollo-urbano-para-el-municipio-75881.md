@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2015-10-06"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2017.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -3161,11 +3161,11 @@ IV. Equipamiento urbano vecinal y zonal.
 
 #### SECCIÓN PRIMERA. DE LOS FRACCIONAMIENTOS RESIDENCIALES
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2017)</small>
 
 ###### Artículo 178.
 
-Se consideran fraccionamientos habitacionales residenciales, aquellos que se ubique (sic) dentro de los centros de población delimitados en el POTE, cuyas viviendas o lotes se destinan a uso habitacional unifamiliar, cuyo monto, al término de su edificación, sea igual o mayor al valor que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado, elevada esa cantidad al año.
+Se consideran fraccionamientos habitacionales residenciales, aquellos que se ubique (sic) dentro de los centros de población delimitados en el POTE, cuyas viviendas o lotes se destinan a uso habitacional unifamiliar, cuyo monto, al término de su edificación, sea igual o mayor al valor que resulte de multiplicar por veinticinco veces la Unidad de Medida y Actualización Diaria, elevada esa cantidad al año.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3187,13 +3187,13 @@ Los lotes de los fraccionamientos residenciales urbanos tipo C habitacional de d
 
 #### SECCIÓN SEGUNDA. DE LOS FRACCIONAMIENTOS DE HABITACION POPULAR, DE INTERÉS SOCIAL O DENSIDAD ALTA
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2017)</small>
 
 ###### Artículo 181.
 
-Se consideran fraccionamientos habitacionales de tipo popular aquellos conformados por viviendas o unidades cuyo monto, al término de su edificación no exceda del valor que resulte de multiplicar por once el salario mínimo general diario vigente en el Estado, elevada esa cantidad al año.
+Se consideran fraccionamientos habitacionales de tipo popular aquellos conformados por viviendas o unidades cuyo monto, al término de su edificación no exceda del valor que resulte de multiplicar por once veces la Unidad de Medida y Actualización Diaria, elevada esa cantidad al año.
 
-Se consideran fraccionamientos habitacionales de interés social aquellos conformados por viviendas o unidades que sean susceptibles de ser adquiridas por trabajadores de bajos ingresos, sujetos a subsidio federal, estatal o municipal para adquisición de vivienda o por viviendas o unidades cuyo monto, al término de su edificación no exceda del valor que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado, elevada esa cantidad al año.
+Se consideran fraccionamientos habitacionales de interés social aquellos conformados por viviendas o unidades que sean susceptibles de ser adquiridas por trabajadores de bajos ingresos, sujetos a subsidio federal, estatal o municipal para adquisición de vivienda o por viviendas o unidades cuyo monto, al término de su edificación no exceda del valor que resulte de multiplicar por veinticinco veces la Unidad de Medida y Actualización Diaria, elevada esa cantidad al año.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3263,17 +3263,15 @@ VI. Las demás que determinen otras disposiciones legales.
 
 #### SECCIÓN CUARTA. DE LOS FRACCIONAMIENTOS CAMPESTRES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2017)</small>
 
 ###### Artículo 189.
 
-Se consideran fraccionamientos habitacionales de tipo campestres, aquellos que se ubiquen fuera de los centros de población delimitados en el POTE, cuyos lotes se destinan a uso habitacional unifamiliar, cuyo monto, al término de su edificación, sea igual o mayor al valor que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año.
+Se consideran fraccionamientos habitacionales de tipo campestres, aquellos que se ubiquen fuera de los centros de población delimitados en el POTE, cuyos lotes se destinan a uso habitacional unifamiliar, cuyo monto, al término de su edificación, sea igual o mayor al valor que resulte de multiplicar por veinticinco veces la Unidad de Medida y Actualización Diaria, elevada esta cantidad al año.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MAYO DE 2014)</small>
 
 Este tipo de fraccionamientos deberán estar ubicados dentro de la zona de crecimiento de la ciudad, señalada en el POTE y sus lotes tendrán como mínimo un frente de 20 metros, con una superficie no menor de 800 metros cuadrados; y cumplir con las obras de urbanización señaladas en el presente ordenamiento.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 Este tipo de fraccionamientos contarán además con lo siguiente:
 
@@ -7791,9 +7789,9 @@ Para la aplicación, determinación, imposición y caducidad de las sanciones pr
 
 La Dirección, en materia de zonificación, usos y destinos del suelo podrá imponer las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2017)</small>
 
-I. Multa por el equivalente de cincuenta a diez mil días de salario mínimo vigente en el Municipio al momento de cometer la infracción;
+I. Multa por el equivalente de cincuenta a diez mil veces la Unidad de Medida y Actualización Diaria, al momento de cometer la infracción.
 
 II. La revocación de los permisos, licencias y autorizaciones otorgadas;
 
@@ -7915,7 +7913,9 @@ Tratándose de DRO, Proyectista Arquitectónico y Proyectista Estructural corres
 
 I.- Suspensión temporal o definitiva del registro: y,
 
-II.- Multa por el equivalente de 10 a 500 días de salario mínimo vigente en el Estado, al momento de cometer la infracción.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2017)</small>
+
+II. Multa por el equivalente de 10 a 500 veces la Unidad de Medida y Actualización Diaria, al momento de cometer la infracción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -7961,13 +7961,17 @@ Podrá habilitarse nuevamente el registro de un DRO o Proyectista Arquitectónic
 
 Para la imposición de la multa, además de lo preceptuado por el Código del Procedimiento Administrativo, se fijará conforme a la siguiente clasificación de las infracciones cometidas por el DRO, Proyectista Arquitectónico y Proyectista Estructural:
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2017)</small>
 
-I. Leves: Que el daño es reparable y no tiene como consecuencia la suspensión de la obra. Si el daño es imputable al DRO, al Proyectista Arquitectónico o al Proyectista Estructural, le será suspendido el registro por un periodo mínimo de 3 meses y las multas serán hasta de 100 días de salario mínimo vigente en el Estado, al momento de cometer la infracción;
+I. Leves: Que el daño es reparable y no tiene como consecuencia la suspensión de la obra. Si el daño es imputable al DRO, al Proyectista Arquitectónico o al Proyectista Estructural, le será suspendido el registro por un periodo mínimo de 3 meses y las multas serán hasta de 100 veces la Unidad de Medida y Actualización Diaria, al momento de cometer la infracción;
 
-II. Graves: Que el daño tiene como consecuencia la suspensión del registro del profesionista y/o clausura parcial de la obra. En caso de suspensión al profesionista el período será de 6 meses y las multas serán hasta por 300 días de salario mínimo vigente en el Estado, al momento de cometer la infracción; y,
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2017)</small>
 
-III. Muy Graves: cuando existe falsedad, dolo, ignorancia o mala fe en la información y documentación presentada para la obtención de licencias, permisos o constancias de terminación de obra y el daño tiene como consecuencia la suspensión del registro del profesionista y/o los daños afectan al control del desarrollo y/o la obra debe ser clausurada totalmente o demolida parcial o totalmente. En este supuesto en caso de suspensión al profesionista, el período se suspensión será de 1 a 3 años, y las multas serán hasta por 500 días de salario mínimo vigente en el Estado al momento de cometer la infracción.
+II. Graves: Que el daño tiene como consecuencia la suspensión del registro del profesionista y/o clausura parcial de la obra. En caso de suspensión al profesionista el período será de 6 meses y las multas serán hasta por 300 veces la Unidad de Medida y Actualización Diaria, al momento de cometer la infracción; y,
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2017)</small>
+
+III. Muy Graves: Cuando existe falsedad, dolo, ignorancia o mala fe en la información y documentación presentada para la obtención de permisos o constancias de terminación de obra y el daño tiene como consecuencia la suspensión del registro del profesionista y/o los daños afectan al control del desarrollo y/o la obra debe ser clausurada totalmente o demolida parcial o totalmente. En este supuesto en caso de suspensión al profesionista, el período de suspensión será de 1 a 3 años, y las multas serán hasta por 500 veces la Unidad de Medida y Actualización Diaria, al momento de cometer la infracción.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -8055,21 +8059,21 @@ La revocación será dictada por la Dirección y en la resolución que declare l
 
 La aplicación de la sanción por multa, se fijará a los infractores, atendiendo a lo siguiente:
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2017)</small>
 
-I. Por violación a las disposiciones establecidas para los permisos tipo A para la instalación de anuncios, de 50 a 100 días de salario mínimo general diario vigente en el Estado, atendiendo a la gravedad de la infracción cometida;
+I. Por violación a las disposiciones establecidas para los permisos tipo A para la instalación de anuncios, de 50 a 100 veces la Unidad de Medida y Actualización Diaria, atendiendo a la gravedad de la infracción cometida;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2017)</small>
 
-II. Por violación a las disposiciones establecidas para los permisos tipo B para la instalación de anuncios, de 50 a 150 días de salario mínimo general diario vigente en el Estado, atendiendo a la gravedad de la infracción cometida;
+II. Por violación a las disposiciones establecidas para los permisos tipo B para la instalación de anuncios, de 50 a 150 veces la Unidad de Medida y Actualización Diaria, atendiendo a la gravedad de la infracción cometida;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2017)</small>
 
-III. Por violación a las disposiciones establecidas para los permisos tipo C para la instalación de anuncios, de 50 a 600 días de salario mínimo general diario vigente en el Estado, atendiendo a la gravedad de la infracción cometida; y,
+III. Por violación a las disposiciones establecidas para los permisos tipo C para la instalación de anuncios, de 50 a 600 veces la Unidad de Medida y Actualización Diaria, atendiendo a la gravedad de la infracción cometida; y,
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2017)</small>
 
-IV. Por violación a las disposiciones establecidas para los anuncios en zonas patrimoniales, zonas de monumentos y en los inmuebles con valor arqueológico, artístico e histórico de 50 a 500 días de salario mínimo general diario vigente en el Estado.
+IV. Por violación a las disposiciones establecidas para los anuncios en zonas patrimoniales, zonas de monumentos y en los inmuebles con valor arqueológico, artístico e histórico de 50 a 500 veces la Unidad de Medida y Actualización Diaria.
 
 ###### Artículo 584.
 
@@ -8105,7 +8109,9 @@ Tratándose del Especialista Estructural corresponderá a la Dirección la impos
 
 I.- Suspensión temporal o definitiva del registro: y,
 
-II.- Multa por el equivalente de 10 a 100 días de salario mínimo vigente en el Estado, al momento de cometer la infracción.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2017)</small>
+
+II. Multa por el equivalente de 10 a 100 veces la Unidad de Medida y Actualización Diaria, al momento de cometer la infracción.
 
 ###### Artículo 588.
 
@@ -8147,7 +8153,9 @@ La Dirección podrá imponer las medidas de seguridad previstas en el Código de
 
 Por infracción de las disposiciones relativas a la instalación de las Terrazas Móviles, contenidas en el anexo 7 del presente Código, la Dirección podrá imponer las sanciones siguientes:
 
-I.- Multa de 100 a 500 días del salario mínimo diario que rija en el Estado;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2017)</small>
+
+I. Multa de 100 a 500 veces la Unidad de Medida y Actualización Diaria;
 
 II.- Suspensión de la autorización hasta por 30 treinta días; y
 
@@ -8429,7 +8437,11 @@ P.O. 6 DE OCTUBRE DE 2015.
 
 Artículo único. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 360.- SE REFORMAN LOS ARTÍCULOS 55, 140, 146, 147, 150, 151 Y 190, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+P.O. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL H. AYUNTAMIENTO DE LEÓN, GTO., MEDIANTE EL CUAL SE REFORMAN ALGUNAS DISPOSICIONES DE DIVERSOS ORDENAMIENTO, A FIN DE ESTABLECER LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, CONFORME AL DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 27 DE ENERO DE 2016".]
+
+Único. Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 374.- SE ADICIONA EL ARTÍCULO 38 BIS AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
