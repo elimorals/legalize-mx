@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2014-04-02"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-25"
 
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -391,11 +391,95 @@ V.- Las demás que le señale la presente ley y el Presidente de la Comisión Na
 
 Los visitadores adjuntos auxiliarán en sus funciones a los Visitadores Generales en los términos que fije el Reglamento y para tal efecto deberán reunir los requisitos que establezca el mismo para su designación.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE ENERO DE 2017)</small>
+
+### CAPÍTULO VI. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTICULO 24 Bis.
+
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Comisión Nacional y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTICULO 24 Ter.
+
+El Órgano Interno de Control tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas;
+
+II. Verificar que el ejercicio de gasto de la Comisión Nacional se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+III. Presentar a la Comisión Nacional los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Comisión Nacional;
+
+IV. Revisar que las operaciones presupuestales que realice la Comisión Nacional, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión Nacional;
+
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el Órgano Interno de Control;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión Nacional, empleando la metodología que determine;
+
+IX. Recibir quejas y denuncias conforme a las leyes aplicables;
+
+X. Solicitar la información y efectuar visitas a las áreas y órganos de la Comisión Nacional para el cumplimento de sus funciones;
+
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y sus Reglamentos;
+
+XII. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión Nacional de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XIII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+XIV. Atender las solicitudes de los diferentes órganos de la Comisión Nacional en los asuntos de su competencia;
+
+XV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+
+XVI. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+
+XVII. Presentar a la Comisión Nacional los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente;
+
+XVIII. Presentar a la Comisión Nacional los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
+
+XIX. Las demás que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTICULO 24 Quáter.
+
+El Titular del Órgano Interno de Control será designado por la Cámara de Diputados del Congreso de la Unión, con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTICULO 24 Quinquies.
+
+El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
+
+IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida solvencia moral;
+
+VI. No pertenecer o haber pertenecido en los cinco años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión Nacional o haber fungido como consultor o auditor externo de la Comisión Nacional, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII. No haber sido Secretario de Estado, Procurador General de la República o de Justicia de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
 
 ## TITULO III. DEL PROCEDIMIENTO ANTE LA COMISION NACIONAL DE DERECHOS HUMANOS
 
-### CAPITULO II. DE LOS ACUERDOS Y RECOMENDACIONES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 25.
 
@@ -497,7 +581,7 @@ Las conclusiones del expediente, que serán la base de las recomendaciones, esta
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
-### CAPITULO III. DE LAS NOTIFICACIONES Y LOS INFORMES
+### CAPITULO II. DE LOS ACUERDOS Y RECOMENDACIONES
 
 ###### ARTICULO 43.
 
@@ -549,7 +633,7 @@ La Comisión Nacional no estará obligada a entregar ninguna de sus pruebas a la
 
 Las Recomendaciones y los acuerdos de no responsabilidad se referirán a casos concretos; las autoridades no podrán aplicarlos a otros casos por analogía o mayoría de razón.
 
-### CAPITULO IV. DE LAS INCONFORMIDADES
+### CAPITULO III. DE LAS NOTIFICACIONES Y LOS INFORMES
 
 ###### ARTICULO 50.
 
@@ -575,7 +659,7 @@ Asimismo, el informe podrá contener proposiciones dirigidas a las autoridades y
 
 Ninguna autoridad o servidor público dará instrucciones a la Comisión Nacional de Derechos Humanos, con motivo de los informes a que se refiere el artículo 52 de esta ley.
 
-### CAPITULO I. OBLIGACIONES Y COLABORACION
+### CAPITULO IV. DE LAS INCONFORMIDADES
 
 ###### ARTICULO 55.
 
@@ -641,7 +725,7 @@ d) La declaración de insuficiencia en el cumplimiento de la Recomendación del 
 
 ## TITULO IV. DE LAS AUTORIDADES Y LOS SERVIDORES PUBLICOS
 
-### CAPITULO II. DE LA RESPONSABILIDAD DE LAS AUTORIDADES Y SERVIDORES PUBLICOS
+### CAPITULO I. OBLIGACIONES Y COLABORACION
 
 ###### ARTICULO 67.
 
@@ -659,7 +743,7 @@ En los términos previstos en la presente ley, las autoridades y servidores púb
 
 Sin perjuicio de las atribuciones legales que correspondan a los organismos estatales de protección de los derechos humanos, la Comisión podrá celebrar convenios o acuerdos con dichas autoridades y servidores públicos para que puedan actuar como receptores de quejas y denuncias de competencia federal, las que remitirán a la Comisión Nacional por los medios más expeditos.
 
-### CAPITULO UNICO
+### CAPITULO II. DE LA RESPONSABILIDAD DE LAS AUTORIDADES Y SERVIDORES PUBLICOS
 
 ###### ARTICULO 70.
 
@@ -677,9 +761,35 @@ Respecto a los particulares que durante los procedimientos de la Comisión Nacio
 
 La Comisión Nacional deberá poner en conocimiento de las autoridades superiores competentes, los actos u omisiones en que incurran autoridades y servidores públicos, durante y con motivo de las investigaciones que realiza dicha Comisión, para efectos de la aplicación de las sanciones administrativas que deban imponerse. La autoridad superior deberá informar a la Comisión Nacional sobre las medidas o sanciones disciplinarias impuestas.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
-La Comisión Nacional solicitará al órgano interno de control correspondiente, en cualquier caso, el inicio del procedimiento de responsabilidades que deba instruirse en contra del servidor público respectivo.
+La Comisión Nacional solicitará al Órgano Interno de Control correspondiente, en cualquier caso, el inicio del procedimiento de responsabilidades que de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas deba instruirse en contra del servidor público respectivo.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTICULO 72 Bis.
+
+El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica de la Comisión Nacional, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior de la Federación a que se refiere el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
+
+El titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades a la Comisión Nacional, del cual marcará copia a la Cámara de Diputados.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTICULO 72 Ter.
+
+El titular del Órgano Interno de Control de la Comisión Nacional será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión Nacional serán sancionados por el titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTICULO 72 Quáter.
+
+El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos de la Comisión Nacional, de conformidad con la Ley General del Sistema Nacional Anticorrupción y la Ley General de Responsabilidades Administrativas.
+
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
 
 ###### ARTICULO 73.
 
@@ -698,6 +808,8 @@ En caso de que algún servidor público en respuesta a un requerimiento de infor
 ARTICULO 73 BIS.- La Comisión Nacional podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda la reiteración de las conductas cometidas por una misma autoridad o servidor público, que hayan sido materia de una recomendación previa que no hubiese sido aceptada o cumplida.
 
 ## TITULO V. DEL REGIMEN LABORAL
+
+### CAPITULO UNICO
 
 ###### ARTICULO 74.
 
@@ -810,3 +922,23 @@ D.O.F. 7 DE NOVIEMBRE DE 2013.
 D.O.F. 2 DE ABRIL DE 2014.
 
 Único. El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE COMPETENCIA ECONÓMICA, DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, DE LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN, DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, Y DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
