@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-transparencia-y-acceso-a-la-informacion-114447"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2016-05-09"
-last_updated: "2016-05-09"
+last_updated: "2017-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-05-06"
 
 LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 9 de mayo de 2016.
 
@@ -633,9 +633,11 @@ El Estatuto Orgánico del Instituto establecerá con claridad los motivos por lo
 
 #### Sección VII. Del Órgano Interno de Control
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
 ###### Artículo 51.
 
-El Instituto contará con un Órgano Interno de Control, cuyo Titular será designado por la Cámara de Diputados en los términos previstos en el artículo 74, fracción VIII, de la Constitución, quien ejercerá las facultades que a que se refiere la fracción III del artículo 109 de la Constitución y las que le confieren los ordenamientos jurídicos aplicables.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
 ###### Artículo 52.
 
@@ -647,7 +649,9 @@ II. Tener por lo menos treinta y cinco años cumplidos el día de la designació
 
 III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión;
 
-IV. No haber sido Secretario de Estado, Procurador General de la República o de Justicia de la Ciudad de México o de las entidades federativas, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector o alto ejecutivo de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+IV. No haber sido Secretario de Estado, Procurador General de la República o de Justicia de la Ciudad de México o de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación;
 
 V. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos;
 
@@ -658,6 +662,82 @@ VII. Contar con reconocida solvencia moral;
 VIII. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos que hubieren prestado sus servicios al Instituto o haber fungido como consultor o auditor externo del Instituto en lo individual durante ese periodo, y
 
 IX. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 52 Bis.
+
+El nombramiento y rendición de cuentas del titular del Órgano Interno de Control se regirá conforme a lo siguiente:
+
+I. El titular del Órgano Interno de Control será designado por la Cámara de Diputados del Congreso de la Unión, con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+II. El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+III. Tendrá un nivel jerárquico igual al de un Director General o su equivalente y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior de la Federación a que se refiere el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 52 Ter.
+
+En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas.
+
+El Órgano Interno de Control tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas;
+
+II. Verificar que el ejercicio de gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+III. Presentar al Pleno del Instituto los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
+
+IV. Revisar que las operaciones presupuestales que realice el Instituto, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
+
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el mismo;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto, empleando la metodología que determine;
+
+IX. Recibir quejas y denuncias conforme a las leyes aplicables;
+
+X. Solicitar la información y efectuar visitas a las áreas y órganos del Instituto para el cumplimento de sus funciones;
+
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio y obras públicas;
+
+XII. Intervenir en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XIII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que éste forme parte;
+
+XIV. Atender las solicitudes de los diferentes órganos del Instituto en los asuntos de su competencia;
+
+XV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+
+XVI. Formular su anteproyecto de presupuesto;
+
+XVII. Presentar al Pleno del Instituto los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Comisionado Presidente;
+
+XVIII. Presentar al Pleno del Instituto los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
+
+XIX. Las demás que le confieran otros ordenamientos.
+
+El titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades del Instituto, del cual marcará copia a la Cámara de Diputados.
+
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos y privados, con excepción de los cargos docentes.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 52 Quáter.
+
+El titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control del Instituto serán sancionados por el Titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### Artículo 52 Quinquies.
+
+El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Instituto, de conformidad con la Ley General del Sistema Nacional Anticorrupción y la Ley General de Responsabilidades Administrativas.
 
 ### Capítulo II. Del Consejo Consultivo
 
@@ -2650,3 +2730,25 @@ NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de la p
 Ciudad de México, a 21 de abril de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Sen. Hilda E. Flores Escalera, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de mayo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE COMPETENCIA ECONÓMICA, DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, DE LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN, DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, Y DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
