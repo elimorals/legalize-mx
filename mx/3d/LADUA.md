@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2014-12-29"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,13 @@ abbreviation: "LADUA"
 ---
 # LEY ADUANERA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ADUANERA
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2013.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA DE COMERCIO EXTERIOR: 29 DE DICIEMBRE DE 2014.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA DE COMERCIO EXTERIOR: 27 DE ENERO DE 2017.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -2552,8 +2554,6 @@ En los casos a que se refieren las fracciones I y II de este artículo, al efect
 
 La Secretaría, como excepción a lo dispuesto en el artículo 119 de esta Ley y siempre que se cumplan los requisitos de control que señale el Reglamento, podrá autorizar el establecimiento de depósitos fiscales de conformidad con lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL ARTÍCULO ÚNICO TRANSITORIO.</small>
-
 > <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2006)</small>
 
 I. Para la exposición y venta de mercancías extranjeras y nacionales en puertos aéreos internacionales, fronterizos y marítimos de altura. En este caso las mercancías no se sujetarán al pago de impuesto al comercio exterior y de cuotas compensatorias, siempre que las ventas se hagan a pasajeros que salgan del país directamente al extranjero y la entrega de dichas mercancías se realice en los puntos de salida del territorio nacional, debiendo llevarlas consigo al extranjero.
@@ -4282,9 +4282,13 @@ III. Transmitir información relacionada con la transportación de la mercancía
 
 Con independencia de las demás sanciones que procedan, se aplicarán las siguientes multas a quienes cometan las infracciones relacionadas con la obligación de transmitir la información referente al valor de la mercancía y los demás datos relativos a su comercialización, así como los relativos a su transportación a que se refiere el artículo 184-A de la Ley:
 
-I. Multa de $18,000.00 a $30,000.00 a la señalada en las fracciones I y II.
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE ENERO DE 2017)
 
-II. Multa de $1,420.00 a $2,030.00 a la señalada en la fracción III.
+I. Multa de $20,510.00 a $34,190.00 a la señalada en las fracciones I y II.
+
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE ENERO DE 2017)
+
+II. Multa de $1,620.00 a $2,310.00 a la señalada en la fracción III.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -4292,9 +4296,9 @@ II. Multa de $1,420.00 a $2,030.00 a la señalada en la fracción III.
 
 Se aplicarán las siguientes multas a quienes cometan las infracciones relacionadas con las obligaciones de presentar documentación y declaraciones, así como de transmisión electrónica de la información, previstas en el artículo 184 de esta Ley:
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE ENERO DE 2017)
 
-I. Multa de $2,930.00 a $4,400.00, en caso de omisión a las mencionadas en las fracciones I y II. Las multas se reducirán al 50% cuando la presentación sea extemporánea.
+I. Multa de $3,340.00 a $5,010.00, en caso de omisión a las mencionadas en las fracciones I y II. Las multas se reducirán al 50% cuando la presentación sea extemporánea.
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
 
@@ -4312,9 +4316,9 @@ IV. Multa de $3,690.00 a $5,520.00 a la señalada en la fracción V, por cada me
 
 V. Multa de $3,430.00 a $5,710.00 a la señalada en la fracción VI.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE ENERO DE 2017)
 
-VI. Multa de $3,050.00 a $5,080.00, en el caso señalado en la fracción VII, por cada pedimento o por cada aviso consolidado.
+VI. Multa de $3,480.00 a $5,790.00, en el caso señalado en la fracción VII, por cada pedimento o por cada aviso consolidado.
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -4344,9 +4348,9 @@ XII. Multa de $1,150.00 a $2,280.00, en el caso señalado en la fracción XIII, 
 
 XIII. Multa equivalente del 2% al 10% del valor comercial de las mercancías, a la señalada en la fracción XIV.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE ENERO DE 2017)
 
-XIV. Multa de $14,650.00 a $21,980.00, a la señalada en la fracción XVII, en caso de no presentar el aviso dentro del plazo establecido.
+XIV. Multa de $16,700.00 a $25,050.00, a la señalada en la fracción XVII, en caso de no presentar el aviso dentro del plazo establecido.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -4448,9 +4452,9 @@ II. Multa de $1,840.00 a $2,770.00, a la señalada en la fracción III.
 
 III. Multa equivalente del 70% al 100% de las contribuciones y cuotas compensatorias omitidas, cuando no se haya cubierto lo que correspondía pagar o del 30% al 50% del valor comercial de las mercancías si están exentas o se trata de retorno al extranjero, a la señalada en la fracción VI.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE ENERO DE 2017)
 
-IV. Multa de $16,380.00 a $24,570.00 a las señaladas en la fracción IX.
+IV. Multa de $18,670.00 a $28,000.00 a las señaladas en la fracción IX.
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 29 DE DICIEMBRE DE 2014)
 
@@ -4706,11 +4710,11 @@ México, D.F., a 7 de diciembre de 1995.- Dip. Oscar Cantón Zetina, Presidente.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O.F. 15 DE DICIEMBRE DE 1995.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE LA LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA, QUE SE RELACIONAN CON LA LEY.
+[SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA, QUE SE RELACIONAN CON LA LEY.]
 
 Primero. La presente Ley entrará en vigor el 1o. de julio de 1997.
 
