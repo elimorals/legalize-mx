@@ -4,7 +4,7 @@ identifier: "LFPCA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2005-12-01"
-last_updated: "2016-06-13"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46997&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPCA"
 
 LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2005.
 
@@ -84,9 +84,9 @@ X. (DEROGADA, D.O.F. 13 DE JUNIO DE 2016)
 
 XI. Firma Electrónica Avanzada: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados al mismo que permita identificar a su autor mediante el Sistema de Justicia en línea, y que produce los mismos efectos jurídicos que la firma autógrafa. La firma electrónica permite actuar en Juicio en Línea.
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
 
-XII. Juicio en la vía tradicional: El juicio contencioso administrativo federal que se substancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel, y formando un expediente también en papel, donde se agregan las actuaciones procesales, incluso en los casos en que sea procedente la vía sumaria.
+XII. Juicio en la vía tradicional: El juicio contencioso administrativo federal que se substancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel, y formando un expediente también en papel, donde se agregan las actuaciones procesales, incluso en los casos en que sea procedente la vía sumaria o el juicio de resolución exclusiva de fondo.
 
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -99,6 +99,10 @@ XIV. Juicio en la vía Sumaria: El juicio contencioso administrativo federal en 
 XV. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal.
 
 XVI. Tribunal: Tribunal Federal de Justicia Fiscal y Administrativa.
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+XVII. Juicio de resolución exclusiva de fondo: El juicio contencioso administrativo federal en aquellos casos a los que se refiere el Capítulo XII del Título II de esta Ley.
 
 ###### ARTÍCULO 2o.
 
@@ -916,6 +920,10 @@ II. Para el ejercicio de la facultad de atracción, se estará a las siguientes 
 
 a) La petición que, en su caso, formulen las Salas Regionales, el Magistrado Instructor o las autoridades deberá presentarse hasta antes del cierre de la instrucción.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+En el caso del juicio de resolución exclusiva de fondo, la petición señalada en el párrafo anterior sólo se podrá formular por las partes en el juicio o los Magistrados de la Sección de la Sala Superior competente.
+
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 b) La Presidencia del Tribunal comunicará el ejercicio de la facultad de atracción a la Sala Regional o al Magistrado Instructor antes del cierre de la instrucción.
@@ -1558,15 +1566,203 @@ En el momento en que el Magistrado Instructor advierta que el expediente se encu
 
 15. A falta de disposición expresa que establezca el plazo respectivo en la vía sumaria, se aplicará el de tres días.
 
-### CAPÍTULO I. De la Reclamación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2016)</small>
+### CAPÍTULO XII. Del Juicio de Resolución Exclusiva de Fondo
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+16.- El juicio de resolución exclusiva de fondo se tramitará a petición del actor, de conformidad con las disposiciones que se establecen en este Capítulo y, en lo no previsto, se aplicarán las demás disposiciones que regulan el juicio contencioso administrativo federal.
+
+En el juicio de resolución exclusiva de fondo se observarán especialmente los principios de oralidad y celeridad.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+17.- El Tribunal determinará las Salas Regionales Especializadas en materia del juicio de resolución exclusiva de fondo, el cual versará únicamente sobre la impugnación de resoluciones definitivas que deriven del ejercicio de las facultades de comprobación a que se refiere el artículo 42, fracciones II, III o IX del Código Fiscal de la Federación y la cuantía del asunto sea mayor a doscientas veces la Unidad de Medida y Actualización, elevada al año, vigente al momento de emisión de la resolución combatida.
+
+El juicio de resolución exclusiva de fondo no será procedente cuando se haya interpuesto recurso administrativo en contra de las resoluciones señaladas en el párrafo anterior, y dicho recurso haya sido desechado, sobreseído o se tenga por no presentado.
+
+El demandante sólo podrá hacer valer conceptos de impugnación que tengan por objeto resolver exclusivamente sobre el fondo de la controversia que se plantea, sin que obste para ello que la resolución que se controvierta se encuentre motivada en el incumplimiento total o parcial de requisitos exclusivamente formales o de procedimiento establecidos en las disposiciones jurídicas aplicables; siempre que el demandante acredite que no se produjo omisión en el pago de contribuciones.
+
+Para efectos del juicio de resolución exclusiva de fondo se entenderá por concepto de impugnación cuyo objeto sea resolver exclusivamente sobre el fondo de la controversia, entre otros, aquéllos que referidos al sujeto, objeto, base, tasa o tarifa de las obligaciones revisadas, pretendan controvertir alguno de los siguientes supuestos:
+
+I. Los hechos u omisiones calificados en la resolución impugnada como constitutivos de incumplimiento de las obligaciones revisadas.
+
+II. La aplicación o interpretación de las normas involucradas.
+
+III. Los efectos que haya atribuido la autoridad emisora al incumplimiento total o parcial de requisitos formales o de procedimiento que impacten o trasciendan al fondo de la controversia.
+
+IV. La valoración o falta de apreciación de las pruebas relacionadas con los supuestos mencionados en las fracciones anteriores.
+
+En ningún caso el juicio de resolución exclusiva de fondo podrá tramitarse a través del juicio en la vía tradicional, sumaria o en línea, regulados en la presente Ley. Una vez que el demandante haya optado por el juicio regulado en el presente Capítulo, no podrá variar su elección.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+18.- La demanda deberá contener, adicional a lo señalado en el artículo 14 de esta Ley, lo siguiente:
+
+I. La manifestación expresa de que se opta por el juicio de resolución exclusiva de fondo.
+
+II. La expresión breve y concreta de la controversia de fondo que se plantea, así como el señalamiento expreso de cuál es la propuesta de litis.
+
+III. El señalamiento respecto del origen de la controversia, especificando si ésta deriva de:
+
+a) La forma en que se apreciaron los hechos u omisiones revisados;
+
+b) La interpretación o aplicación de las normas involucradas;
+
+c) Los efectos que se atribuyeron al incumplimiento total, parcial o extemporáneo, de los requisitos formales o de procedimiento que impactan o trasciendan al fondo de la controversia, o
+
+d) Si cualquiera de los supuestos anteriores son coincidentes.
+
+IV). Los conceptos de impugnación que se hagan valer en cuanto al fondo del asunto.
+
+Se deberá adjuntar al escrito de demanda el documento que contenga el acto impugnado y su constancia de notificación, así como las pruebas que se ofrezcan, relacionándolas expresamente en su escrito de demanda con lo que se pretenda acreditar, incluyendo el dictamen pericial que, en su caso, se ofrezca.
+
+Cuando se omita alguno de los requisitos señalados en el presente artículo, se requerirá al demandante para que lo subsane dentro del término de cinco días, apercibiéndolo que, de no hacerlo en tiempo, se desechará la demanda.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+19.- El Magistrado Instructor determinará la procedencia del juicio de resolución exclusiva de fondo considerando lo siguiente:
+
+I. Analizará, en primer término, si se cumplen los requisitos señalados en el presente Capítulo.
+
+II. En su caso, una vez cumplido el requerimiento a que se refiere el último párrafo del artículo 58-18 de la presente Ley, si advierte que los conceptos de impugnación planteados en la demanda incluyen argumentos de forma o de procedimiento, éstos se tendrán por no formulados y sólo se atenderán a los argumentos que versen sobre el fondo de la controversia.
+
+III. Cuando advierta que en la demanda sólo se plantean conceptos de impugnación relativos a cuestiones de forma o procedimiento, y no a cuestiones relativas al fondo de la controversia, se remitirá a la Oficialía de Partes Común para que lo ingrese como juicio en la vía tradicional, tomando en cuenta la fecha de presentación de la demanda.
+
+El juicio de resolución exclusiva de fondo no procederá cuando la demanda se promueva en los términos del artículo 16 de esta Ley.
+
+Si el Magistrado Instructor admite la demanda, ordenará suspender de plano la ejecución del acto impugnado, sin necesidad de que el demandante garantice el interés fiscal. La suspensión así concedida operará hasta que se dicte la resolución que ponga fin al juicio exclusivo de fondo, sin perjuicio de los requisitos que para la suspensión establezcan las leyes que rijan los medios de impugnación que procedan contra la sentencia dictada en el mismo.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+20.- Si el Magistrado Instructor determina que la demanda no cumple con lo señalado en el artículo 58-18 de la presente Ley y, en consecuencia, resuelve desecharla, procederá el recurso de reclamación en términos del artículo 59 de esta Ley, mismo que deberá presentarse ante el Magistrado Instructor en un plazo de diez días contados a partir de que surta efectos la notificación del acuerdo de desechamiento; una vez presentado, se ordenará correr traslado a la contraparte para que en el término de cinco días exprese lo que a su derecho convenga y sin más trámite la Sala lo resolverá de plano en un plazo de cinco días.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+21.- El demandante podrá ampliar la demanda, únicamente cuando se actualice el supuesto previsto en la fracción IV del artículo 17 de esta Ley, en el plazo de diez días siguientes a aquél en que surta efectos la notificación del auto que tenga por presentada la contestación, y en su escrito deberán señalar con precisión cuál es la propuesta de litis de la controversia en la ampliación.
+
+La autoridad, al contestar la demanda y, en su caso, la ampliación de demanda, deberá señalar si coincide o no con la propuesta de litis del juicio, expresando en este último caso, cuál es su propuesta.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+22.- Recibida la contestación de la demanda y, en su caso, la contestación a la ampliación de la misma, el Magistrado Instructor citará a las partes para audiencia de fijación de litis, la que se desahogará sin excepción de manera oral dentro de los veinte días siguientes a la recepción de la contestación respectiva. El Magistrado Instructor expondrá de forma breve en qué consiste la controversia planteada por las partes, quienes manifestarán lo que a su derecho convenga, ajustándose a lo manifestado en la demanda, su ampliación o su contestación.
+
+La audiencia de fijación de litis deberá ser desahogada, sin excepción, ante la presencia del Magistrado Instructor quien podrá auxiliarse del Secretario de Acuerdos para que levante acta circunstanciada de la diligencia. Las partes podrán acudir personalmente o por conducto de sus autorizados legales. Los demás Magistrados integrantes de la Sala podrán acudir a la audiencia de fijación de litis. Cuando estando debidamente notificadas las partes, en términos de los artículos 67 y 68 de esta Ley, alguna no acuda a la audiencia de fijación de litis, ésta se llevará a cabo con la parte que esté presente.
+
+Quedará al prudente arbitrio del Magistrado Instructor, la regulación del tiempo que tengan las partes para exponer los motivos por los que estiman les asiste la razón, considerando estrictamente el principio de celeridad que rige esta vía.
+
+Cuando alguna de las partes no acuda a la audiencia de fijación de litis se entenderá que consiente los términos en que la misma quedó fijada por el Magistrado Instructor, precluyendo además su derecho para formular cualquier alegato posterior en el juicio, ya sea en forma verbal o escrita.
+
+En el caso de que se haya acordado procedente la atracción del juicio por la Sala Superior, el Magistrado Instructor reservará la celebración de las actuaciones previstas en el artículo 58-26, primer párrafo de esta Ley, para que éstas se lleven a cabo ante el Magistrado ponente que corresponda.
+
+Una vez celebrada la audiencia de fijación de litis, el Magistrado Instructor notificará a las partes el acuerdo a que se refiere el artículo 47 de esta Ley, salvo en los casos establecidos en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+23.- En caso de que durante la tramitación del juicio de resolución exclusiva de fondo, alguna de las partes solicite una audiencia privada con el Magistrado Instructor o con alguno de los Magistrados de la Sala Especializada, ésta deberá celebrarse invariablemente con la presencia de su contraparte; cuando estando debidamente notificadas las partes, en términos de los artículos 67 y 68 de esta Ley, alguna no acuda a la audiencia privada, ésta se llevará a cabo con la parte que esté presente.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+24.- En el juicio de resolución exclusiva de fondo, serán admisibles únicamente las pruebas que hubieren sido ofrecidas y exhibidas, en:
+
+I. El procedimiento de comprobación del que derive el acto impugnado;
+
+II. El procedimiento de Acuerdos Conclusivos regulado en el Código Fiscal de la Federación, o
+
+III. El recurso administrativo correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+25.- El desahogo de la prueba pericial en los términos del presente Capítulo, se llevará a cabo mediante la exhibición del documento que contenga el dictamen correspondiente, el cual deberá adjuntarse a la demanda, a la ampliación o a su contestación. El Magistrado Instructor tendrá la más amplia facultad para valorar no sólo la idoneidad y el alcance de los dictámenes exhibidos, sino también la idoneidad del perito que lo emite.
+
+El Magistrado Instructor, bajo su consideración decidirá si es necesario citar a los peritos que rindieron los dictámenes a fin de que en una audiencia especial, misma que se desahogará en forma oral, respondan las dudas o cuestionamientos que aquél les formule; para tal efecto las partes deberán ser notificadas en un plazo mínimo de cinco días anteriores a la fecha fijada para dicha audiencia. El Secretario de Acuerdos auxiliará en la diligencia y levantará el acta respectiva.
+
+Las partes podrán acudir a la audiencia a que se refiere el párrafo anterior para efectos de ampliar el cuestionario respecto del cual se rindió el dictamen pericial, así como para formular repreguntas al perito.
+
+Desahogada la audiencia, el Magistrado Instructor podrá designar a un perito tercero, cuando a su juicio ninguno de los dictámenes periciales rendidos en el juicio le proporcione elementos de convicción suficientes, o bien, si éstos son contradictorios. El dictamen del perito tercero deberá versar exclusivamente sobre los puntos de discrepancia de los dictámenes de los peritos de las partes.
+
+Los dictámenes periciales serán valorados por el Magistrado Instructor atendiendo a la litis fijada en la audiencia correspondiente.
+
+La valoración del dictamen pericial atenderá únicamente a razones técnicas referentes al área de especialidad de los peritos. El valor de la prueba pericial quedará a la prudente apreciación del Magistrado Instructor, atendiendo siempre al principio de proporcionalidad.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+26.- Celebrada la audiencia de fijación de litis, desahogadas las pruebas que procedan y formulados los alegatos, quedará cerrada la instrucción del juicio de resolución exclusiva de fondo, sin necesidad de una declaratoria expresa, y a partir del día siguiente empezarán a computarse los plazos previstos en el artículo 49 de esta Ley para dictar sentencia; lo anterior no aplicará para efectos de lo previsto en el artículo 58-22, sexto párrafo de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+27.- En las sentencias que se dicten en el juicio de resolución exclusiva de fondo se declarará la nulidad de la resolución impugnada cuando:
+
+I. Los hechos u omisiones que dieron origen a la controversia no se produjeron;
+
+II. Los hechos u omisiones que dieron origen a la controversia fueron apreciados por la autoridad en forma indebida;
+
+III. Las normas involucradas fueron incorrectamente interpretadas o mal aplicadas en el acto impugnado, o
+
+IV. Los efectos atribuidos por la autoridad emisora al incumplimiento total, parcial o extemporáneo, de requisitos formales o de procedimiento a cargo del contribuyente resulten excesivos o desproporcionados por no haberse producido las hipótesis de causación de las contribuciones determinadas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+28.- La sentencia definitiva podrá:
+
+I. Reconocer la validez de la resolución impugnada.
+
+II. Declarar la nulidad de la resolución impugnada.
+
+III. En los casos en que la sentencia implique una modificación a la cuantía de la resolución administrativa impugnada, la Sala Regional Especializada competente deberá precisar, el monto, el alcance y los términos de la misma para su cumplimiento.
+
+Tratándose de sanciones, cuando dicho Tribunal aprecie que la sanción es excesiva porque no se motivó adecuadamente o no se dieron los hechos agravantes de la sanción, deberá reducir el importe de la sanción apreciando libremente las circunstancias que dieron lugar a la misma.
+
+IV. Declarar la nulidad de la resolución impugnada y además:
+
+a) Reconocer al actor la existencia de un derecho subjetivo y condenar al cumplimiento de la obligación correlativa.
+
+b) Otorgar o restituir al actor en el goce de los derechos afectados.
+
+c) Declarar la nulidad del acto o resolución administrativa de carácter general, caso en que cesarán los efectos de los actos de ejecución que afectan al demandante, inclusive el primer acto de aplicación que hubiese impugnado. La declaración de nulidad no tendrá otros efectos para el demandante, salvo lo previsto por las leyes de la materia de que se trate.
+
+d) Reconocer la existencia de un derecho subjetivo y condenar al ente público federal al pago de una indemnización por los daños y perjuicios causados por sus servidores públicos.
+
+Las Salas Regionales Especializadas en materia del juicio de resolución exclusiva de fondo podrán apartarse de los precedentes establecidos por el Pleno o las Secciones, siempre que en la sentencia expresen las razones por las que se apartan de los mismos, debiendo enviar al Presidente del Tribunal copia de la sentencia.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 58
+
+29.- En contra de las sentencias dictadas en el juicio de resolución exclusiva de fondo, si éstas no favorecen a la autoridad demandada, podrá interponer el recurso de revisión previsto en el artículo 63 de esta Ley.
 
 ## TÍTULO III. De los Recursos
 
-### CAPÍTULO II. De la Revisión
+### CAPÍTULO I. De la Reclamación
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 59.
 
@@ -1592,9 +1788,9 @@ La Sala Regional podrá modificar o revocar su resolución cuando ocurra un hech
 
 El Pleno del Tribunal podrá ejercer de oficio la facultad de atracción para la resolución de los recursos de reclamación a que se refiere el presente artículo, en casos de trascendencia que así considere o para fijar jurisprudencia.
 
-### CAPÍTULO I. De las Notificaciones
+### CAPÍTULO II. De la Revisión
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 63.
 
@@ -1650,7 +1846,9 @@ Si el particular interpuso amparo directo contra la misma resolución o sentenci
 
 ## TÍTULO IV. Disposiciones Finales
 
-### CAPÍTULO II. De los Exhortos
+### CAPÍTULO I. De las Notificaciones
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 65.
 
@@ -1736,7 +1934,7 @@ La notificación personal o por correo certificado con acuse de recibo, también
 
 Una notificación omitida o irregular se entenderá legalmente hecha a partir de la fecha en que el interesado se haga sabedor de su contenido.
 
-### CAPÍTULO III. Del Cómputo de los Términos
+### CAPÍTULO II. De los Exhortos
 
 ###### ARTÍCULO 73.
 
@@ -1750,9 +1948,7 @@ Las diligencias de notificación o, en su caso, de desahogo de alguna prueba, qu
 
 Para diligenciar el exhorto el magistrado del Tribunal podrá solicitar el auxilio de alguna Sala del propio Tribunal, de algún juez o magistrado del Poder Judicial de la Federación o de la localidad, o de algún tribunal administrativo federal o de algún otro tribunal del fuero común.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2016)</small>
+### CAPÍTULO III. Del Cómputo de los Términos
 
 ###### ARTÍCULO 74.
 
@@ -1767,6 +1963,10 @@ III. Si están señalados en periodos o tienen una fecha determinada para su ext
 IV. Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario se entenderá en el primer caso que el plazo vence el mismo día del mes de calendario posterior a aquél en que se inició y en el segundo caso, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inició. Cuando no exista el mismo día en los plazos que se fijen por mes, éste se prorrogará hasta el primer día hábil del siguiente mes de calendario.
 
 ## TÍTULO V. De la Jurisprudencia
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2016)</small>
 
 ###### ARTÍCULO 75.
 
@@ -1919,3 +2119,29 @@ Tercero. Para los efectos de lo dispuesto en el artículo 19, penúltimo párraf
 Cuarto. A partir de la entrada en vigor del presente Decreto, todas las referencias hechas al Boletín Electrónico, se entenderán realizadas al Boletín Jurisdiccional.
 
 Quinto. Respecto de los montos señalados en la presente Ley, para determinar la cuantía de los juicios que se tramitan en la vía sumaria, así como para fijar las multas que se impondrán en caso de no cumplimentar lo estipulado en el articulado de la presente Ley, dejará de considerarse al salario mínimo como unidad de medida una vez que entre en vigor la Ley Reglamentaria al “Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo”, publicado en el Diario Oficial de la Federación, el 7 de enero de 2016.
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO Y AL CÓDIGO FISCAL DE LA FEDERACIÓN”.]
+
+DISPOSICIONES TRANSITORIAS DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+
+Artículo Segundo.- En relación con las modificaciones a que se refiere el artículo Primero de este Decreto, se estará a lo siguiente:
+
+Primero.- La Junta de Gobierno y Administración del Tribunal Federal de Justicia Administrativa, a más tardar al 30 de junio de 2017, adscribirá tres Salas Regionales Especializadas en materia del juicio de resolución exclusiva de fondo en las circunscripciones territoriales que esta misma determine.
+
+Las Salas Regionales Especializadas en materia del juicio de resolución exclusiva de fondo serán integradas por Magistrados que adscriba para tal efecto la Junta de Gobierno y Administración, entre aquéllos que cuenten con mayor experiencia en materia fiscal.
+
+Segundo.- La Junta de Gobierno y Administración del Tribunal Federal de Justicia Administrativa llevará a cabo las reformas necesarias de la normatividad aplicable, de conformidad con lo previsto en el presente Decreto.
+
+Tercero.- Los juicios de resolución exclusiva de fondo, podrán ser promovidos a partir del día hábil siguiente a aquél en que inicien sus funciones las Salas Regionales Especializadas en materia de resolución exclusiva de fondo, conforme al artículo Primero Transitorio del presente Decreto.
+
+Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Administrativa al momento de entrar en vigor el presente Decreto, se tramitarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de presentación de la demanda, sin perjuicio de lo previsto en el siguiente párrafo.
+
+En el caso de que se cumplan los requisitos de procedencia señalados en el artículo 58-17 de la Ley Federal de Procedimiento Contencioso Administrativo, la parte actora en algún juicio de los señalados en el párrafo anterior, tendrá la opción de solicitar ante el Magistrado Instructor que el juicio que promovió se remita a las Salas Regionales Especializadas en materia de resolución exclusiva de fondo y se tramite en los términos del Capítulo XII "Del Juicio de resolución exclusiva de fondo" de dicha Ley, siempre y cuando en el juicio iniciado anteriormente no se haya cerrado la instrucción y se haya realizado la solicitud en el plazo de diez días hábiles contados a partir del inicio de las funciones de dichas Salas, supuesto en el cual, sólo se estudiarán los argumentos de fondo que se hayan planteado en la demanda y ampliación de la misma.
+
+## Transitorios
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que, en su caso, se requieran para cumplir con el presente Decreto, serán cubiertas con cargo al presupuesto aprobado para dicho fin en el ejercicio fiscal correspondiente.
