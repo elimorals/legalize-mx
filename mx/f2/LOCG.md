@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2016-12-28"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -268,9 +268,9 @@ h) Designar las comisiones de cortesía que resulten pertinentes para cumplir co
 
 i) Elaborar el anteproyecto de la parte relativa del Estatuto por el cual se normará el servicio de carrera parlamentaria, a efecto de que la Conferencia para la Dirección y Programación de los Trabajos Legislativos lo considere para la redacción del proyecto de dicho instrumento normativo;
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
-j) Expedir la convocatoria aprobada por el Pleno a propuesta de la Junta de Coordinación Política para la designación del Consejero Presidente, de los consejeros electorales y del Contralor General del Instituto Nacional Electoral; y
+j) Expedir la convocatoria aprobada por el Pleno a propuesta de la Junta de Coordinación Política para la designación del Consejero Presidente y de los consejeros electorales del Instituto Nacional Electoral, así como de los titulares de los Órganos Internos de Control de los órganos a los que la Constitución Política de los Estados Unidos Mexicanos les reconoce autonomía y que ejerzan recursos del Presupuesto de Egresos de la Federación; y
 
 > <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2008)</small>
 
@@ -510,9 +510,9 @@ g) Elaborar y proponer a la Conferencia para la Dirección y Programación de lo
 
 h) Asignar, en los términos de esta ley, los recursos humanos, materiales y financieros, así como los locales que correspondan a los grupos parlamentarios;
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
 
-i) Proponer al Pleno la convocatoria para la designación del Consejero Presidente, de los consejeros electorales y del Contralor General del Instituto Nacional Electoral, en los términos establecidos en el Código Federal de Instituciones y Procedimientos Electorales, la presente ley y el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos, así como los procedimientos que de ella se deriven, con el consenso de los respectivos grupos parlamentarios; y
+i) Proponer al Pleno la convocatoria para la designación del Consejero Presidente, de los consejeros electorales y de los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto de Egresos de la Federación, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, las leyes que regulan dichos organismos, la presente ley y el Reglamento de la Cámara de Diputados, así como los procedimientos que de ellas se deriven, con el consenso de los respectivos grupos parlamentarios; y
 
 > <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 2008)</small>
 
@@ -522,7 +522,9 @@ j) Las demás que le atribuyen esta ley o los ordenamientos relativos.
 
 ARTICULO 34 BIS.
 
-1. La convocatoria para la designación del Consejero Presidente, de los consejeros electorales y del Contralor General del Instituto Federal Electoral, por lo menos, deberá contener:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+1. La convocatoria para la designación del Consejero Presidente, de los consejeros electorales y del titular del Órgano Interno de Control del Instituto Nacional Electoral, por lo menos, deberá contener:
 
 a) El proceso de designación para el que se convoca, los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos;
 
@@ -540,7 +542,9 @@ II. Presentadas las propuestas, el órgano o comisión encargado de entrevistar 
 
 f) Los criterios específicos con que se evaluará a los aspirantes.
 
-2. En el proceso de designación de los consejeros electorales del Instituto Federal Electoral, se procurará la inclusión paritaria de hombres y mujeres.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+2. En el proceso de designación de los consejeros electorales del Instituto Nacional Electoral, se procurará la inclusión paritaria de hombres y mujeres.
 
 ###### ARTICULO 35.
 
@@ -1138,17 +1142,81 @@ d) La permanencia y promoción de los funcionarios se sujetará a la acreditaci�
 
 3. Los miembros de los dos servicios de carrera serán considerados trabajadores de confianza, y sus relaciones laborales se regirán conforme a lo establecido por la fracción XIV del Apartado B del artículo 123 de la Constitución, por esta ley y por el Estatuto. A efecto de que reciban las prestaciones de seguridad social, se celebrarán los convenios pertinentes con el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-### CAPITULO PRIMERO. De la Sesión Constitutiva de la Cámara
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE ENERO DE 2017)</small>
 
-#### Sección Primera. De su integración, duración y elección
+### CAPITULO OCTAVO. De la Designación de los Titulares de los Órganos Internos de Control de los Órganos Constitucionales Autónomos
 
-#### Sección Segunda. De sus Facultades
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 27 DE ENERO DE 2017)</small>
 
-#### Sección Tercera. De su Presidente
+#### Sección Primera. De su Naturaleza Constitucional
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+ARTICULO 57 BIS.
+
+1. Conforme a lo previsto en el artículo 74, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, corresponde a la Cámara de Diputados designar, por el voto de las dos terceras partes de sus miembros presentes a los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto de Egresos de la Federación.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 27 DE ENERO DE 2017)</small>
+
+#### Sección Segunda. Del Proceso para su Designación
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+ARTICULO 57 TER.
+
+1. La designación de los titulares de los Órganos Internos de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+
+a) La Junta de Coordinación Política de la Cámara de Diputados propondrá al Pleno la convocatoria para la designación del titular del Órgano Interno de Control correspondiente, la que deberá contemplar que los aspirantes acompañen su declaración de intereses, de conformidad con las disposiciones aplicables;
+
+b) Esta convocatoria será abierta para todas las personas, contendrá las etapas completas para el procedimiento, las fechas límite y los plazos improrrogables, así como los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos;
+
+c) Para ser titular del Órgano Interno de Control de alguno de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos del Presupuesto de Egresos de la Federación, se deberán cumplir los requisitos que establezcan las leyes de dichos organismos autónomos;
+
+d) La Mesa Directiva expedirá la convocatoria pública aprobada por el Pleno para la elección del titular del Órgano Interno de Control, misma que deberá publicarse en el Diario Oficial de la Federación, en la Gaceta Parlamentaria de la Cámara de Diputados, en la página web de dicha Cámara y, preferentemente, en periódicos de circulación nacional;
+
+e) Una vez abierto el periodo a que se refiera la convocatoria correspondiente, se recibirán las solicitudes de los aspirantes, por duplicado, y la documentación a que se refiere el inciso a) del numeral 1 del presente artículo, el Presidente de la Mesa Directiva turnará los expedientes a las Comisiones Unidas de Transparencia y Anticorrupción y de Vigilancia de la Auditoría Superior de la Federación, mismas que se encargarán de realizar la revisión correspondiente a efecto de determinar aquellos aspirantes que acreditan el cumplimiento de los requisitos exigidos para el cargo por la Constitución y las leyes correspondientes;
+
+f) En caso de que las Comisiones Unidas de Transparencia y Anticorrupción y de Vigilancia de la Auditoría Superior de la Federación determinen que alguno de los aspirantes no cumple con alguno de los requisitos, procederá a desechar la solicitud;
+
+g) Las Comisiones Unidas de Transparencia y Anticorrupción y de Vigilancia de la Auditoría Superior de la Federación elaborarán un acuerdo que deberá publicarse en el Diario Oficial de la Federación, en la Gaceta Parlamentaria de la Cámara de Diputados y en la página web de dicha Cámara, y contendrá lo siguiente:
+
+I. El listado con los aspirantes que hayan cumplido con los requisitos exigidos por la Constitución y las leyes correspondientes;
+
+II. El plazo con que cuentan los aspirantes, cuya solicitud haya sido desechada, para recoger su documentación y fecha límite para ello;
+
+III. El día y hora en donde tendrán verificativo las comparecencias ante las Comisiones Unidas de Transparencia y Anticorrupción; y de Vigilancia de la Auditoría Superior de la Federación, de los aspirantes que hayan cumplido con los requisitos exigidos, a efecto de garantizar su garantía de audiencia y conocer su interés y razones respecto a su posible designación en el cargo;
+
+h) Una vez que se hayan desahogado las comparecencias, las Comisiones Unidas de Transparencia y Anticorrupción; y de Vigilancia de la Auditoría Superior de la Federación, sesionarán de manera conjunta con la finalidad de integrar y revisar los expedientes y entrevistas para la formulación del dictamen que contenga la lista de candidatos aptos para ser votados por la Cámara, y que se hará llegar a la Junta de Coordinación Política;
+
+i) Los Grupos Parlamentarios, a través de la Junta de Coordinación Política determinarán por el más amplio consenso posible y atendiendo a las consideraciones y recomendaciones que establezca el dictamen de las Comisiones Unidas de Transparencia y Anticorrupción; y de Vigilancia de la Auditoría Superior de la Federación, la propuesta del nombre del candidato a titular del Órgano Interno de Control que corresponda;
+
+j) En la sesión correspondiente de la Cámara de Diputados, se dará a conocer al Pleno la propuesta a que se refiere el inciso anterior, y se procederá a su discusión y votación en los términos que establezca la presente Ley y el Reglamento de la Cámara de Diputados;
+
+k) Aprobado el dictamen, cuando así lo acuerde el Presidente, el candidato cuyo nombramiento se apruebe en los términos del presente Capítulo, rendirá la protesta constitucional ante el Pleno de la Cámara de Diputados en la misma sesión.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE ENERO DE 2017)</small>
+
+#### Sección Tercera. De la Responsabilidad de los Titulares de los Órganos Internos de Control
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+ARTICULO 57 QUÁTER.
+
+1. La Cámara de Diputados a través de la instancia que determine la ley, podrá investigar, sustanciar, y resolver sobre las faltas administrativas no graves de los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos del Presupuesto de Egresos de la Federación.
+
+2. Asimismo será competente para investigar y sustanciar las faltas administrativas graves cuya sanción corresponde al Tribunal Federal de Justicia Administrativa, de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas y demás normas jurídicas aplicables.
+
+3. En el ejercicio de sus funciones, dicha instancia deberá garantizar la separación entre las áreas encargadas de la investigación, sustanciación y resolución de los procedimientos, en los términos previstos por la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2017)</small>
+
+ARTICULO 57 QUINQUIES.
+
+1. Cualquier persona, cuando presuma que los titulares de los Órganos Internos de Control de cualquiera de los organismos constitucionales autónomos, haya incurrido en los supuestos previstos en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, podrá presentar denuncias ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
 
 ## TITULO TERCERO. De la Organización y Funcionamiento de la Cámara de Senadores
 
-### CAPITULO SEGUNDO. De la Mesa Directiva
+### CAPITULO PRIMERO. De la Sesión Constitutiva de la Cámara
 
 ###### ARTICULO 58.
 
@@ -1216,9 +1284,9 @@ VIII. Designación de comisiones de cortesía para el ceremonial de la sesión d
 
 5. Antes del inicio de cada año legislativo subsecuente, la Cámara de Senadores realizará, dentro de los 10 días anteriores a la apertura de sesiones, una junta previa para elegir a la Mesa Directiva.
 
-### CAPITULO TERCERO. De los Grupos Parlamentarios
+### CAPITULO SEGUNDO. De la Mesa Directiva
 
-#### Sección Cuarta. De los Vicepresidentes y de los Secretarios
+#### Sección Primera. De su integración, duración y elección
 
 ###### ARTICULO 62.
 
@@ -1246,7 +1314,7 @@ VIII. Designación de comisiones de cortesía para el ceremonial de la sesión d
 
 2. La remoción a que se refiere el párrafo anterior tendrá efectos definitivos y se procederá a la designación del nuevo integrante de la Mesa Directiva, mediante el mecanismo previsto en esta Ley.
 
-#### Sección Primera. De su integración
+#### Sección Segunda. De sus Facultades
 
 ###### ARTICULO 66.
 
@@ -1288,7 +1356,7 @@ m) Las demás que se deriven de esta Ley o del Reglamento.
 
 3. Las facultades que se precisan en los incisos b), c), i), j) y k), serán ejercidas de manera colegiada, por acuerdo de la mayoría absoluta de los miembros presentes de la Mesa Directiva. En caso de empate, el Presidente de la misma tendrá voto de calidad. Para sesionar válidamente deberán asistir más de la mitad de sus integrantes.
 
-#### Sección Segunda. De sus Atribuciones
+#### Sección Tercera. De su Presidente
 
 ###### ARTICULO 67.
 
@@ -1348,7 +1416,7 @@ e) Inmediatamente después de concluido el plazo de la comisión o comisiones pa
 
 1. El Presidente de la Cámara estará subordinado en sus decisiones al voto del Pleno. Este voto será consultado cuando lo solicite algún senador, en cuyo caso se requerirá que al menos cinco senadores se adhieran a dicha solicitud. El trámite para que el Pleno resuelva acerca de la misma será establecido en el Reglamento.
 
-#### Sección Tercera. De las atribuciones del Presidente de la Junta de Coordinación Política
+#### Sección Cuarta. De los Vicepresidentes y de los Secretarios
 
 ###### ARTICULO 69.
 
@@ -1386,7 +1454,7 @@ m) Las demás que les atribuyan esta Ley, los ordenamientos relativos a la activ
 
 2. El pase de lista, la verificación del quórum y las votaciones nominales de leyes o decretos podrán realizarse a través de medios electrónicos.
 
-### CAPITULO CUARTO. De la Junta de Coordinación Política
+### CAPITULO TERCERO. De los Grupos Parlamentarios
 
 ###### ARTICULO 71.
 
@@ -1432,9 +1500,9 @@ c) Un ejemplar de los Estatutos, o documento equivalente, que norme el funcionam
 
 1. La ocupación de los espacios y los escaños en el salón de sesiones se hará de forma que los integrantes de cada grupo parlamentario queden ubicados en un área regular y continua. La asignación definitiva de las áreas que correspondan a los grupos estará a cargo del Presidente de la Cámara. Para ello, los coordinadores de los grupos podrán formular propuestas de ubicación. En todo caso, el Presidente resolverá con base en el número de integrantes de cada grupo, en orden decreciente, el número de grupos conformados y las características del salón de sesiones.
 
-### CAPITULO QUINTO. De las Comisiones
+### CAPITULO CUARTO. De la Junta de Coordinación Política
 
-#### Sección Segunda (sic). De su Integración
+#### Sección Primera. De su integración
 
 ###### ARTICULO 80.
 
@@ -1454,7 +1522,7 @@ c) Un ejemplar de los Estatutos, o documento equivalente, que norme el funcionam
 
 6. El Presidente de la Junta nombrará a un Secretario Técnico, quien será responsable de preparar los documentos para las reuniones, elaborar las actas y comunicar los acuerdos a las instancias correspondientes de la Cámara.
 
-#### Sección Tercera. De su Organización
+#### Sección Segunda. De sus Atribuciones
 
 ###### ARTICULO 82.
 
@@ -1480,7 +1548,7 @@ g) Las demás que se deriven de esta Ley y del Reglamento.
 
 1. La Junta de Coordinación Política sesionará, por lo menos, una vez a la semana durante los periodos de sesiones, y al menos una vez al mes durante los recesos; a las reuniones podrán asistir, previa convocatoria, los miembros de las juntas directivas de las comisiones, los senadores, o los funcionarios de la Cámara, siempre que se vaya a tratar un asunto de su respectiva competencia y dando previamente conocimiento al Presidente del Senado.
 
-#### Sección Primera. De la Secretaría General de Servicios Parlamentarios
+#### Sección Tercera. De las atribuciones del Presidente de la Junta de Coordinación Política
 
 ###### ARTICULO 84.
 
@@ -1496,7 +1564,7 @@ d) Representar a la Junta, en el ámbito de su competencia, ante los órganos de
 
 e) Las demás que deriven de esta Ley y del Reglamento.
 
-### CAPITULO SEXTO. De la Organización Técnica y Administrativa
+### CAPITULO QUINTO. De las Comisiones
 
 ###### ARTICULO 85.
 
@@ -1672,7 +1740,7 @@ b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo F
 
 1. El Reglamento establecerá los procedimientos y trámites para el despacho de los trabajos de las comisiones y los asuntos que por su naturaleza y trascendencia puedan ser resueltos por ellas mismas.
 
-#### Sección Segunda. De la Secretaría General de Servicios Administrativos
+#### Sección Segunda (sic). De su Integración
 
 ###### ARTICULO 104.
 
@@ -1686,7 +1754,7 @@ b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo F
 
 4. A propuesta de la Junta de Coordinación Política, el Pleno podrá constituir "grupos de amistad" para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas.
 
-#### Sección Tercera. De la Tesorería y la Contraloría
+#### Sección Tercera. De su Organización
 
 ###### ARTICULO 105.
 
@@ -1698,9 +1766,7 @@ b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo F
 
 4. No habrá retribución extraordinaria alguna por las tareas que los senadores realicen como integrantes de las comisiones.
 
-### CAPITULO PRIMERO. De la Iniciativa Ciudadana
-
-> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
+### CAPITULO SEXTO. De la Organización Técnica y Administrativa
 
 ###### ARTICULO 106.
 
@@ -1720,7 +1786,7 @@ c) Las unidades administrativas que acuerde la Mesa Directiva, las que depender�
 
 1. Independientemente de las atribuciones que esta Ley y el Reglamento concedan al Secretario General de Servicios Parlamentarios, al Secretario General de Servicios Administrativos y al Tesorero, éstos tienen facultades para formular, en el ámbito de su competencia, normas administrativas de carácter interno, previamente sancionadas por la Mesa Directiva de la Cámara.
 
-#### Sección Cuarta. Del Servicio Civil de Carrera
+#### Sección Primera. De la Secretaría General de Servicios Parlamentarios
 
 ###### ARTICULO 109.
 
@@ -1742,6 +1808,8 @@ g) Desahogar las consultas de carácter técnico-jurídico que le formulen las c
 
 h) Las demás que se deriven de esta Ley, del Reglamento, y de los acuerdos de la Mesa Directiva de la Cámara.
 
+#### Sección Segunda. De la Secretaría General de Servicios Administrativos
+
 ###### ARTICULO 110.
 
 1. La Secretaría General de Servicios Administrativos tiene a su cargo las siguientes atribuciones:
@@ -1751,6 +1819,8 @@ a) Encabezar y dirigir los servicios administrativos, a fin de que éstos se des
 b) Conducir las relaciones de trabajo establecidas con el personal de base de la Cámara; y
 
 c) Administrar los recursos humanos y materiales, así como los servicios generales, de informática, jurídicos y de seguridad de la Cámara.
+
+#### Sección Tercera. De la Tesorería y la Contraloría
 
 ###### ARTICULO 111.
 
@@ -1831,6 +1901,8 @@ d) Subcontraloría de Evaluación de la Gestión Parlamentaria, y
 e) Coordinación de Auditoría a Grupos Parlamentarios.
 
 3. Las resoluciones del contralor interno se darán a conocer previamente a la Mesa Directiva por conducto de su Presidente.
+
+#### Sección Cuarta. Del Servicio Civil de Carrera
 
 ###### ARTICULO 114.
 
@@ -1924,7 +1996,7 @@ c) Los diputados y senadores elegirán por mayoría, en votación por cédula un
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE MAYO DE 2014)</small>
 
-### CAPITULO SEGUNDO. De la Iniciativa Preferente
+### CAPITULO PRIMERO. De la Iniciativa Ciudadana
 
 > <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
@@ -1992,9 +2064,9 @@ e) En el caso de que la iniciativa ciudadana sea aprobada por la Cámara de orig
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE MAYO DE 2014)</small>
 
-### CAPITULO UNICO
+### CAPITULO SEGUNDO. De la Iniciativa Preferente
 
-> <small>(N. DE E. ANTES ARTÍCULO 130, D.O.F. 20 DE MAYO DE 2014)</small>
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 134.
 
@@ -2079,6 +2151,10 @@ II. Cuando la minuta sea desechada, en todo o en parte, modificada o adicionada 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES TÍTULO QUINTO], D.O.F. 20 DE MAYO DE 2014)</small>
 
 ## TITULO SEXTO. De la difusión e información de las actividades del Congreso
+
+### CAPITULO UNICO
+
+> <small>(N. DE E. ANTES ARTÍCULO 130, D.O.F. 20 DE MAYO DE 2014)</small>
 
 ###### ARTICULO 139.
 
@@ -2653,3 +2729,23 @@ Cuarto. Las unidades de administración de ambas Cámaras deberán realizar las 
 Quinto. Los servidores públicos que laboran en el Canal de Televisión del Congreso General de los Estados Unidos Mexicanos, preservan sus derechos y la vigencia de sus nombramientos, cargos y responsabilidades.
 
 Sexto. Queda sin efecto todo aquello que se oponga a lo dispuesto al presente Decreto.
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE COMPETENCIA ECONÓMICA, DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, DE LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN, DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, Y DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación previstos en este Decreto.
+
+Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
+
+Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que este ordenamiento legal se abrogue el 17 de julio de 2017.
+
+Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su legislación conforme al presente Decreto.
