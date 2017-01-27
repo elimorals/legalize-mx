@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2016-12-16"
+last_updated: "2017-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -780,11 +780,13 @@ III.- Servicios sociales y privados, sea cual fuere la forma en que se contraten
 
 IV.- Otros que se presten de conformidad con lo que establezca la autoridad sanitaria.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 35.
 
-Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los residentes del país que así lo requieran, regidos por criterios de universalidad y de gratuidad en el momento de usar los servicios, fundados en las condiciones socioeconómicas de los usuarios.
+Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los residentes del país que así lo requieran, preferentemente a favor de personas pertenecientes a grupos sociales en situación de vulnerabilidad, regidos por criterios de universalidad y de gratuidad en el momento de usar los servicios, fundados en las condiciones socioeconómicas de los usuarios.
+
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 Los derechohabientes de las instituciones de seguridad social podrán acceder a los servicios a que se refiere el párrafo anterior en los términos de los convenios que al efecto se suscriban con dichas instituciones, de conformidad con las disposiciones aplicables.
 
@@ -8623,3 +8625,9 @@ D.O.F. 16 DE DICIEMBRE DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las acciones que deban realizar los gobiernos Federal y de las entidades federativas para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en sus respectivos presupuestos de egresos
+
+D.O.F. 27 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 35 DE LA LEY GENERAL DE SALUD”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
