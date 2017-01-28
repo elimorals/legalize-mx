@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-general-de-gobierno-4068"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-03-21"
-last_updated: "1994-11-12"
+last_updated: "2017-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 28 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1994.
+REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE COLIMA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 21 de marzo de 1992.
 
@@ -35,7 +37,7 @@ Que en la Ley Orgánica de la Administración Pública se prevee (sic) la elabor
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-DEL AMBlTO DE LA COMPETENCIA Y ORGANIZACION DE LA SECRETARIA
+DEL AMBITO DE LA COMPETENCIA Y ORGANIZACION DE LA SECRETARIA
 
 ###### ARTICULO 1o.
 
@@ -117,7 +119,7 @@ Al frente de cada una (sic) las Direcciones habrá un Director quien se auxiliar
 
 Corresponde a los Directores las funciones específicas que a cada una le señala este reglamento, así como las siguientes funciones genéricas:
 
-l.- Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones correspondientes a la Dirección a su cargo;
+I.- Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones correspondientes a la Dirección a su cargo;
 
 II.- Proponer al Secretario las resoluciones, dictámenes y opiniones y proporcionar la información suficiente sobre cada uno de ellos;
 
@@ -161,7 +163,7 @@ XI.- Sustanciar los procedimientos administrativos de nulidad, revocación, canc
 
 XII.- Coordinar y vigilar el cumplimiento de las disposiciones legales en materia de jurados, registro civil, exhortos y panteones;
 
-XIlI.- Auxiliar al Secretario en aquellas funciones no delegables a fin de facilitar su cumplimiento;
+XIII.- Auxiliar al Secretario en aquellas funciones no delegables a fin de facilitar su cumplimiento;
 
 XIV.- Representar y sustituir en sus ausencias al Titular de la Secretaría;
 
@@ -227,7 +229,7 @@ X.- Coordinarse con la Oficialía Mayor para implementar cursos de capacitación
 
 XI.- Mantener el orden público y brindar protección a la población en sus derechos, propiedades y ante cualquier circunstancia especial;
 
-XIl.- Auxiliar al Ministerio Público, autoridades judiciales y administrativas en el cumplimiento de sus funciones;
+XII.- Auxiliar al Ministerio Público, autoridades judiciales y administrativas en el cumplimiento de sus funciones;
 
 XIII.- Aprehender en los casos de flagrante delito al delincuente y sus cómplices, poniéndolos a disposición de la autoridad, competente, en los términos de las disposiciones legales aplicables;
 
@@ -251,9 +253,9 @@ V.- Autorizar sitios y terminales de transporte de pasajeros y de carga, así co
 
 VI.- Participar en la actualización de leyes y reglamentos que correspondan al área, así como cuidar su aplicación y observar su cumplimiento;
 
-Vll.- Expedir autorizaciones para el funcionamiento de estacionamientos y proponer las tarifas correspondientes;
+VII.- Expedir autorizaciones para el funcionamiento de estacionamientos y proponer las tarifas correspondientes;
 
-Vlll.- Coordinarse con la Oficialía Mayor para proporcionar cursos de capacitación y actualización al personal técnico y administrativo; y
+VIII.- Coordinarse con la Oficialía Mayor para proporcionar cursos de capacitación y actualización al personal técnico y administrativo; y
 
 IX.- Las demás que le confieran las autoridades superiores y le señalen las leyes y disposiciones reglamentarias aplicables.
 
@@ -291,7 +293,7 @@ c).- Que se mantenga y refuerce la relación social, moral y económica de la fa
 
 XII.- Individualizar las modalidades de la ejecución de la sanción impuesta, con la edad, sexo, salud y constitución física del interno;
 
-XIIl.- Promover el otorgamiento o revocación de los beneficios de la libertad preparatoria, la remisión parcial de la pena, el tratamiento preliberacional y aplicar la retención en los casos que proceda; todo lo anterior fundamentado en estudios técnicos que revelen el grado de readaptación o peligrosidad, para así custodiar debidamente los intereses y la seguridad de la sociedad;
+XIII.- Promover el otorgamiento o revocación de los beneficios de la libertad preparatoria, la remisión parcial de la pena, el tratamiento preliberacional y aplicar la retención en los casos que proceda; todo lo anterior fundamentado en estudios técnicos que revelen el grado de readaptación o peligrosidad, para así custodiar debidamente los intereses y la seguridad de la sociedad;
 
 XIV.- Promover, en los términos de la fracción anterior, ante la Dirección General de Servicios Coordinados de Prevención y Readaptación Social, dependiente de la Secretaría de Gobernación, el otorgamiento o revocación de los beneficios y medidas enunciados en la misma;
 
@@ -299,7 +301,7 @@ XV.- Resolver lo procedente en los casos de conmutación de la pena;
 
 XVI.- Vigilar la ejecución de los sustitutivos de penas de prisión, ejerciendo la orientación y vigilacia (sic) necesarias sobre las personas que disfruten de ellos, al igual que con las personas sujetas a libertad preparatoria y pena condicional;
 
-XVIl.- Determinar, pevia (sic) valoración médico-psiquiátrica de los inimputables sujetos a procedimiento penal o a la ejecución de una sentencia y de la institución psiquiátrica adecuada para su tratamiento, la entrega a su familia cuando ésta cuenta con el apoyo moral y material de la misma o a la autoridad sanitaria cuando proceda, así como modificar o dar por concluída la medida;
+XVII.- Determinar, pevia (sic) valoración médico-psiquiátrica de los inimputables sujetos a procedimiento penal o a la ejecución de una sentencia y de la institución psiquiátrica adecuada para su tratamiento, la entrega a su familia cuando ésta cuenta con el apoyo moral y material de la misma o a la autoridad sanitaria cuando proceda, así como modificar o dar por concluída la medida;
 
 XVIII.- Acelerar la adecuada reincorporación social, gestionando la vinculación entre las actividades que se realizan en los centros de readaptación social de adultos y de menores infractores, con los centros y mercados laborales, educativos o asistenciales que en cada caso particular se requiera;
 
@@ -361,7 +363,7 @@ XVI.- Patrocinar y organizar exposiciones de trabajo y previsión social;
 
 XVII.- Coordinar la elaboración de la estadística general en materia de trabajo;
 
-XVIll.- Coordinar los estudios y documentos que sobre materia laboral se elaboren;
+XVIII.- Coordinar los estudios y documentos que sobre materia laboral se elaboren;
 
 XIX.- Mantener permanente contacto con las autoridades federales en materia de trabajo y coadyuvar con ellas en el cumplimiento de sus obligaciones;
 
@@ -415,8 +417,16 @@ Por lo tanto mando se imprima, publique, circule y observe.
 
 Dado en la residencia del Poder Ejecutivo Estatal, en la Ciudad de Colima, Colima, a los 18 días del mes (sic) marzo de 1992.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.-Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 P.O. 12 DE NOVIEMBRE DE 1994.
 
 UNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría General de Gobierno, publicado en el Periódico Oficial "El Estado de Colima", de fecha 21 de Marzo de 1992.
