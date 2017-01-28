@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2016-05-17"
+last_updated: "2017-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -91,7 +91,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Reglamento: el Reglamento de la presente Ley; y
 
-II. Secretaría: la Secretaría de Desarrollo Rural del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+
+II. La Secretaría: La Secretaría de Medio Ambiente y Desarrollo Territorial.
 
 ## TÍTULO SEGUNDO. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN EN MATERIA FORESTAL
 
@@ -471,11 +473,11 @@ VIII. Establecer y realizar la actualización permanente del Inventario Forestal
 
 ### CAPÍTULO II. De la Educación Forestal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2017)</small>
 
 ###### Artículo 40.
 
-La Secretaría, en coordinación con las secretarías de Medio Ambiente y Desarrollo Territorial y de Educación, y las instituciones educativas de nivel medio superior y superior, promoverá acciones tendientes a:
+La Secretaría, en coordinación con la Secretaría de Educación e instituciones educativas de nivel medio superior y superior, promoverá acciones tendientes a:
 
 I. La difusión de valores de respeto a los ecosistemas que permita su conservación y la formulación de una cultura forestal entre los jaliscienses;
 
@@ -659,11 +661,11 @@ El Gobierno del Estado, en coordinación con los Municipios y con la colaboraci�
 
 ### CAPÍTULO II. De la Denuncia Ciudadana
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
 
 ###### Artículo 61.
 
-Todo ciudadano deberá denunciar ante el municipio, la Secretaría, la Secretaría de Medio Ambiente y Desarrollo Territorial, la Procuraduría Estatal de Protección al ambiente, el Ministerio Público, o ante otras autoridades, todo hecho, acto u omisión que atente contra el equilibrio ecológico o contra el ecosistema forestal, que causen daños a los recursos forestales o que contravengan las disposiciones legales relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
+Todo ciudadano deberá denunciar ante el Municipio, ante la Secretaría, ante la Procuraduría Estatal de Protección al Ambiente, ante el Ministerio Púbico (sic), o ante otras autoridades, todo hecho, acto u omisión que atente contra el equilibrio ecológico o contra el ecosistema forestal, que causen daños a los recursos forestales o que contravengan las disposiciones legales relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
 
 ### CAPÍTULO III. De los Operativos de Inspección y Medidas de Prevención
 
@@ -792,3 +794,9 @@ P.O. 17 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6º DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7º DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7º DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3º DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4º DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4º DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8º Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26220/LXI/16 QUE REFORMA LOS ARTÍCULOS 5, 40 Y 61 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
