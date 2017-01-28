@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2016-11-12"
+last_updated: "2017-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MARZO DE 2017 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -327,9 +329,9 @@ XVI. Secretaría de Turismo;
 
 XVII. Secretaría de la Mujer Oaxaqueña y
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
 
-XVIII. Secretaría del Medio Ambiente y Desarrollo Sustentable.
+XVIII. Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -377,9 +379,9 @@ El Gobernador del Estado, además de las dependencias señaladas en el artículo
 
 I. Jefatura de la Gubernatura;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
 
-II. Coordinación General de Comunicación Social;
+II. Coordinación General de Comunicación Social y Vocería del Gobierno del Estado;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -389,9 +391,9 @@ III. Coordinación para la Atención de los Derechos Humanos;
 
 IV. Coordinación General de Educación Media Superior y Superior; Ciencia y Tecnología, y
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
 
-V. Representación del Gobierno del Estado de Oaxaca en el Distrito Federal.
+V. Coordinación General de Enlace Federal y Relaciones Internacionales.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -493,9 +495,9 @@ XXXIII. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
 XXXIV. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
 
-XXXV. Mediante la Coordinación General de Delegaciones de Gobierno, desarrollar acciones de fortalecimiento municipal a través de la vinculación y concertación;
+XXXV. Coordinar y Organizar las Delegaciones de Gobierno para desarrollar acciones de fortalecimiento municipal.
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -573,13 +575,17 @@ XVII. Expedir los acuerdos, circulares y demás disposiciones jurídicas conduce
 
 XVIII. Coordinarse y auxiliar a las autoridades federales, en los términos de las leyes correspondientes, en la prevención y persecución de delitos federales relacionados con la materia de pirotecnia, detonantes, portación de armas de fuego, piratería y migración, y llevar a cabo los trámites que en dichas materias correspondan al Poder Ejecutivo del Estado;
 
-XIX. Presidir el Consejo Estatal de Desarrollo Policial, que tendrá por objeto normar, conocer y resolver toda controversia que se suscite en relación con los procedimientos del servicio profesional de carrera, profesionalización y el régimen disciplinario de los integrantes de la Policía Estatal, de los cuerpos de vigilancia y custodia de establecimientos penitenciarios, de detención preventiva o centros de arraigo y del órgano desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial de la Secretaría de Seguridad Pública, así como, las demás corporaciones policiales de la Secretaría de Seguridad Pública; exceptuando a la Agencia Estatal de Investigaciones de la Procuraduría General de Justicia del Estado de Oaxaca y a las policías municipales;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+
+XIX. Presidir el Consejo Estatal de Desarrollo Policial, que tendrá por objeto normar, conocer y resolver toda controversia que se suscite en relación con los procedimientos del servicio profesional de carrera, profesionalización y el régimen disciplinario de los integrantes de la Policía Estatal, de los cuerpos de vigilancia y custodia de establecimientos penitenciarios, de detención preventiva o centros de arraigo y del órgano desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial de la Secretaría de Seguridad Pública, así como las demás corporaciones policiales de la Secretaría de Seguridad Pública; exceptuando a la Agencia Estatal de Investigaciones de la Fiscalía General del Estado de Oaxaca y a las policías municipales;
 
 XX. Ejecutar las disposiciones sobre los servicios de seguridad privada en el Estado, así como, vigilarlos y supervisarlos, sancionando las faltas e irregularidades de los mismos, de conformidad con las leyes y normas de la materia;
 
 XXI. Establecer, operar y coordinar el sistema estatal de información de seguridad pública, de conformidad con la Ley del Sistema Estatal de Seguridad Pública de Oaxaca y demás disposiciones legales aplicables;
 
-XXII. Investigar, a través de la Dirección General de Asuntos Internos, las denuncias por anomalías que se susciten en la conducta de los integrantes de la Policía Estatal, cuerpos de vigilancia y custodia de establecimientos penitenciarios, de detención preventiva o centros de arraigo y del órgano desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial de la Secretaria de Seguridad Pública, así como, las demás corporaciones policiales de la Secretaría de Seguridad Pública; exceptuando a la Agencia Estatal de Investigaciones de la Procuraduría General de Justicia del Estado de Oaxaca y a las policías municipales; con motivo de faltas administrativas o infracciones disciplinarias; y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+
+XXII. Investigar, a través de la Dirección General de Asuntos Internos, las denuncias por anomalías que se susciten en la conducta de los integrantes de la Policía Estatal, cuerpos de vigilancia y custodia de establecimientos penitenciarios, de detención preventiva o centros de arraigo y del órgano desconcentrado Policía Auxiliar, Bancaria, Industrial y Comercial de la Secretaría de Seguridad Pública, así como, las demás corporaciones policiales de la Secretaría de Seguridad Pública; exceptuando a la Agencia Estatal de Investigaciones de la Fiscalía General del Estado de Oaxaca y a las policías municipales; con motivo de faltas administrativas o infracciones disciplinarias; y
 
 XXIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
@@ -683,7 +689,7 @@ XIX. Formular, coordinar y ejecutar obras de abastecimiento de agua potable; de 
 
 XX. Proponer y ejecutar el programa anual de obra pública del Estado, en coordinación con las Entidades del sector;
 
-XXI. Coadyuvar en el ámbito de su competencia, a la regularización de la Tenencia de la tierra urbana; y
+XXI. (DEROGADA, P.O. 28 DE ENERO DE 2017)
 
 XXII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
@@ -739,11 +745,9 @@ XVIII. Fijar normas técnicas para el funcionamiento y operación de los servici
 
 XIX. Promover y fomentar la participación de los diversos sectores de la sociedad, con el objeto de construir y llevar a cabo las acciones necesarias para dar solución a la problemática en materia de vialidad, transporte y servicios auxiliares;
 
-> <small>[N. DE E. CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO 2054, PUBLICADO EN EL P.O. 17 DE OCTUBRE DE 2016, LOS ACTOS JURÍDICOS Y ADMINISTRATIVOS SUSCRITOS EN LO QUE CORRESPONDEN A LAS ATRIBUCIONES DEL EXTINTO INSTITUTO ESTATAL DE ECOLOGÍA Y DESARROLLO SUSTENTABLE, SE ENTENDERÁN A LA SECRETARÍA DEL MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE.]</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XX. Coadyuvar con el Instituto Estatal de Ecología y Desarrollo Sustentable, en la implementación del programa estatal de verificación vehicular sobre emisiones contaminantes;
+XX. Coadyuvar con la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, en la implementación del programa estatal de verificación vehicular sobre emisiones contaminantes;
 
 XXI. Regular, autorizar e inspeccionar la publicidad en el servicio de transporte, así como, imponer las sanciones en caso de incumplimiento de acuerdo con las normas jurídicas y administrativas correspondientes;
 
@@ -1093,7 +1097,7 @@ XXI. En el ámbito de su competencia impulsar, coordinar, ejecutar y supervisar 
 
 XXII. Coadyuvar con el Gobierno Federal en la aplicación de leyes, normas y campañas en materia de salud animal, de sanidad agrícola e inocuidad agroalimentaria;
 
-XXIII. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2013)
+XXIII. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2013) (REPUBLICADA, P.O. 28 DE ENERO DE 2017)
 
 XXIV. Promover la protección, restauración y conservación de los ecosistemas en la planeación y desarrollo de los proyectos estratégicos; y
 
@@ -1551,7 +1555,9 @@ XIX. Promover en los medios de comunicación local el conocimiento y respeto a l
 
 XX. Fortalecer la participación social, política y cultural de las mujeres, incluyendo la pluralidad de intereses y necesidades sociales de las mujeres para contribuir a la consolidación de la democracia, poniendo énfasis en los municipios que se rigen bajo el sistema normativo interno, coadyuvando con los órganos electorales, tanto federales y estatales;
 
-XXI. Promover la incorporación transversal de la perspectiva de género en los procesos educativos, en coordinación con el Instituto Estatal de Educación Para el Estado de Oaxaca, mediante la incorporación de materias curriculares de perspectiva de género en educación básica y media superior, así como, el lenguaje incluyente y no discriminatorio de conocimientos y divulgación de la información tendientes a la generación de igualdad para las mujeres y hombres;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+
+XXI. Promover la incorporación transversal de la perspectiva de género de los procesos educativos, en coordinación con el Instituto Estatal de Educación Pública de Oaxaca, mediante la incorporación de materias curriculares de perspectiva de género en educación básica y media superior, así como, el lenguaje incluyente y no discriminatorio de conocimientos y divulgación de la información tendientes a la generación de igualdad para las mujeres y hombres;
 
 XXII. Promover ante las autoridades correspondientes, las medidas y acciones que contribuyan a garantizar el acceso y permanencia de las mujeres en todos los niveles y modalidades del sistema educativo, haciendo énfasis en el medio rural;
 
@@ -1563,59 +1569,113 @@ XXV. Instrumentar acciones con perspectiva de género que mejoren las condicione
 
 XXVI. Elaborar estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de las mujeres en los distintos ámbitos de la sociedad, así como los tipos y modalidades de la violencia de género contra las mujeres;
 
-XXVII. Formular la normativa necesaria para el desempeño de sus funciones de conformidad con el Plan Estatal de Desarrollo, el Programa Estatal para la Igualdad entre Mujeres y Hombres, el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres y las políticas del Gobierno del Estado materia de las facultades y competencias de la Secretaría de las Mujeres Oaxaqueñas y;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+
+XXVII. Formular la normativa necesaria para el desempeño de sus funciones de conformidad con el Plan Estatal de Desarrollo, el Programa Estatal para la igualdad entre Mujeres y Hombres, el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres y las políticas del Gobierno del Estado materia de las facultades y competencias de la Secretaría de la Mujer Oaxaqueña, y
 
 XXVIII. Las demás que le confieran las normas jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2017)</small>
 
-###### ARTÍCULO 46-D.
+###### Artículo 46-D.
 
-La Secretaría del Medio Ambiente y Desarrollo Sustentable le corresponde el despacho de los siguientes asuntos:
+A la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable le corresponde el despacho de los siguientes asuntos:
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 I. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de protección al ambiente y sustentabilidad a los recursos naturales atribuidas al Ejecutivo Estatal;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 II. Formular y conducir el programa Estatal de protección al ambiente, en congruencia con el Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 III. Determinar las estrategias y criterios ecológicos que deban observarse en la aplicación del programa Estatal de protección al ambiente, mismos que guardarán congruencia con los que formule la Federación en la materia;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 IV. Formular los programas de ordenamiento ecológico estatal, regional y especiales o prioritarios con la participación municipal, guardando congruencia con el formulado por la Federación;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 V. Prevenir, preservar y restaurar el equilibrio ecológico, así como la protección del ambiente en el territorio de la entidad a través de las políticas publicas correspondientes;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 VI. Prevenir y controlar las emergencias y/o contingencias ecológicas cuando afecten uno o más Municipios y no rebasen la jurisdicción territorial de la entidad, cuando la intervención no sea exclusiva de la Federación;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 VII. Establecer políticas públicas para prevenir y controlar la contaminación atmosférica generada por fuentes emisoras de competencia Estatal;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 VIII. Prohibir en el ámbito de su competencia las emisiones contaminantes que rebasen los niveles máximos permisibles por ruido, vibraciones, energía térmica, lumínica y olores así como las correspondientes a la contaminación visual;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 IX. Implementar medidas y mecanismos para regular el aprovechamiento racional, prevención y el control de la contaminación en los recursos naturales y del medio ambiente en general;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 X. Evaluar el impacto ambiental previamente a la realización de las obras o actividades que sean de su competencia;
 
-XI. Regular las actividades que deban ser consideradas altamente riesgosas cuando por los efectos que puedan generar, impacten ecosistemas o el ambiente en la entidad de su competencia;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+
+XI. Regular las actividades que deban ser consideradas altamente riesgosas cuando por los efectos que puedan generar, impacten ecosistemas o el ambiente en la entidad;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 XII. Regular el manejo y disposición final, en el ámbito de su competencia de los residuos sólidos que no sean peligrosos, conforme a las disposiciones aplicables en la materia;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 XIII. Formular, en el ámbito de su competencia los proyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas conducentes para la protección y sustentabilidad de los recursos naturales de la entidad;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 XIV. Regular, declarar y administrar las áreas naturales protegidas de competencia Estatal;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 XV. Diseñar y ejecutar en el ámbito de su competencia programas de control ambiental, reforestación y vigilancia de la flora y fauna silvestre;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 XVI. Regular con fines ecológicos, en coordinación con los Municipios, el aprovechamiento de los minerales o sustancias que constituyan depósitos naturales semejantes a los componentes de los terrenos destinados a la fabricación de materiales para la construcción u ornamento;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 XVII. Instrumentar en coordinación con las autoridades educativas programas de educación ambiental dirigidos a estudiantes y sociedad en general, y fomentar la protección del ambiente y el desarrollo sustentable de la entidad;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 XVIII. Atender quejas y denuncias relacionadas con la contaminación del ambiente y en su caso, aplicar en el ámbito de su competencia las sanciones administrativas, por violaciones a la Ley del Equilibrio Ecológico del Estado de Oaxaca y demás disposiciones jurídicas aplicables;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 XIX. Participar en la formulación y ejecución de los convenios que en materia de protección al medio ambiente y sustentabilidad de recursos naturales celebre el Gobierno del estado con la Federación, Entidades Federativas o con los ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
 XX. Concertar acciones con los sectores representativos de la sociedad, en materia de protección del medio ambiente y sustentabilidad de recursos naturales;
 
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2016)</small>
+
 XXI. Promover y fomentar las investigaciones de protección del medio ambiente y sustentabilidad de recursos naturales;
 
-XXII. Los demás que le confieran las leyes, decretos, acuerdos y reglamentos.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+
+XXII. Coadyuvar con las autoridades federales competentes, en el diseño, formulación y desarrollo de las políticas públicas, programas, proyectos y explotación, en materia de energías e infraestructura energética en el estado, dentro del ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2017)</small>
+
+XXIII. Impulsar políticas públicas, para la mitigación y adaptación al cambio climático y fomentar estudios e investigaciones en esta materia, en el ámbito de su esfera competencial, y
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2017)</small>
+
+XXIV. Las demás que le confieran las leyes, decretos, acuerdos y reglamentos.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1691,47 +1751,7 @@ XXXII. Dirigir y coordinar la instalación de delegaciones ante las Dependencias
 
 XXXIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-ARTÍCULO 47 BIS.- A la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca le corresponde el despacho de los siguientes asuntos:
-
-I. Formular, evaluar y conducir la política estatal en materia de recursos naturales, gestión y regulación ambiental, en congruencia con el Plan Estatal de Desarrollo y con la participación que corresponda a otras dependencias y entidades federales, estatales y municipales;
-
-II. Orientar la implementación de un modelo de sustentabilidad, que permita a la población del Estado enfrentar la problemática ambiental prevaleciente;
-
-III. Determinar las estrategias y criterios ecológicos que deban observarse en la aplicación de la política ecológica estatal, mismos que guardarán congruencia con los que formule la Federación en la materia, instrumentando al efecto un programa estatal de protección al ambiente;
-
-IV. Formular y ejecutar acciones de mitigación y adaptación al cambio climático, en concordancia con las políticas adoptadas por el Ejecutivo Federal en la materia;
-
-V. Fomentar la protección, restauración y conservación de los ecosistemas, recursos naturales y bienes y servicios ambientales en el Estado, y propiciar su aprovechamiento y desarrollo sustentable;
-
-VI. Formular los programas de ordenamiento ecológico estatal, así como regionales, comunitarios o prioritarios, con la participación de los núcleos de población comunal y ejidal y, en su caso, de los municipios, guardando congruencia con lo establecido por la Federación;
-
-VII. Promover, regular, administrar y vigilar las áreas naturales protegidas y predios de certificación voluntaria, previstos en la legislación local, con la participación de los núcleos de población comunal y ejidal y, en su caso, de los municipios;
-
-VIII. Fortalecer procesos, programas y proyectos en materia de conservación y uso sostenible de la biodiversidad terrestre y de los recursos hídricos;
-
-IX. Impulsar la evaluación, medición y seguimiento de la gestión ambiental, mediante mecanismos y regulaciones que aseguren que las actividades, obras y proyectos operen con una visión de desarrollo sustentable;
-
-X. Impulsar el desarrollo de tecnologías basadas en energías renovables y proyectos en todo el estado, que puedan ofertarse en un mercado sustentable y viable, y así transitar hacia una economía con bajo consumo de carbón;
-
-XI. Consolidar una cultura ambiental de participación corresponsable con la ciudadanía, que facilite la transparencia de la aplicación de las políticas públicas y sus recursos. Apoyándose para ello, del Fondo Público Ambiental de Oaxaca, como un instrumento indispensable de asesoría y apoyo técnico al Ejecutivo Estatal para administrar y encauzar los recursos públicos, hacia los programas y estrategias establecidos para ejecutar la política ambiental en Oaxaca, observando lo establecido por su correspondiente Fideicomiso de Administración;
-
-XII. Vigilar y estimular el cumplimiento de las leyes, normas y programas relacionados con recursos naturales y medio ambiente y, en su caso, imponer las sanciones que procedan dentro del ámbito de su competencia legal;
-
-XIII. Formular, ejecutar y evaluar el programa estatal de protección al ambiente;
-
-XIV. Evaluar y dictaminar las manifestaciones de impacto ambiental de competencia estatal sobre proyectos de desarrollo que le presenten los sectores público, social y privado y resolver sobre los estudios de riesgo ambiental, así como sobre los programas para la prevención de accidentes con incidencia ecológica;
-
-XV. Establecer y promover un sistema de información ambiental estatal en coordinación con las dependencias y entidades federales, estatales y municipales e instituciones de investigación y de educación superior;
-
-XVI. Promover el uso de metodologías y procedimientos de evaluación económica del capital natural de Oaxaca, y de los bienes y servicios que presta;
-
-XVII. Conducir la política estatal de información, divulgación y educación en materia ambiental;
-
-XVIII. Consolidar la participación de organismos de los diversos niveles educativos, culturales y los medios de comunicación masiva, en la conservación del patrimonio natural y promover la formación de especialistas y la investigación científica y tecnológica en la materia; y
-
-XIX. Las demás atribuciones que le señalen las leyes y reglamentos en el Estado.
+ARTÍCULO 47 BIS. (DEROGADO, P.O. 28 DE ENERO DE 2017)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE OCTUBRE DE 2016)</small>
 
@@ -2033,39 +2053,67 @@ IX. Efectuar el seguimiento a los aspectos susceptibles de mejora, derivados de 
 
 X. Fomentar la creación de capacidades para el seguimiento y evaluación del desempeño y los resultados, mediante la asesoría técnica permanente a las Dependencias y Entidades en la formulación de instrumentos de su medición;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XI. Ser el conducto institucional entre el Poder Ejecutivo y las embajadas, consulados, representaciones y delegaciones de los diferentes países acreditados en el Gobierno Federal; y propiciar el acercamiento del Poder Ejecutivo del Estado con países extranjeros, organismos internacionales y gobiernos locales en un marco de relaciones e intercambios de interés mutuo, y
+XI. (DEROGADA, P.O. 28 DE ENERO DE 2017)
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 XII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
 
 ###### ARTÍCULO 51.
 
-A la Coordinación General de Comunicación Social le corresponde el despacho de los siguientes asuntos:
+A la Coordinación General de Comunicación Social y Vocería del Gobierno del Estado le corresponde el despacho de los siguientes asuntos:
 
-I. Garantizar a la población el derecho a la información de todas las acciones, programas y decisiones de interés público que ejecute el Gobierno del Estado, a través de estrategias de comunicación, desarrolladas con oportunidad y transparencia;
+I. Proponer y aplicar los programas de comunicación social del Gobierno del Estado, de conformidad con las políticas, lineamientos y demás disposiciones jurídicas aplicables;
 
-II. Establecer y ejecutar mecanismos que permitan fortalecer las relaciones respetuosas entre el Estado y los medios de comunicación;
+II. Compilar y difundir la información sobre las actividades que en ejercicio de sus atribuciones lleven a cabo las distintas dependencias, entidades paraestatales, órganos desconcentrados, órganos auxiliares y fideicomisos públicos del poder ejecutivo del Estado, incluidas las plataformas digitales;
 
-III. Realizar estudios de evaluación de imagen institucional y medición de la opinión pública, para generar estrategias de Comunicación Social, que permitan difundir de forma eficiente, las acciones de la Administración Pública Estatal;
+III. Coordinar, supervisar y evaluar las actividades y resultados de los órganos sectorizados a la Coordinación;
 
-IV. Establecer las normas o parámetros, para la producción de los mensajes por los diversos medios de comunicación, con el fin de informar eficiente y oportunamente sobre la actividad gubernamental;
+IV. Establecer, ejecutar, implementar, supervisar, evaluar, y elaborar todas y cada una de las acciones de manera exclusiva, referentes a la comunicación digital utilizada por (sic) Poder Ejecutivo del Estado;
 
-V. Autorizar y supervisar las publicaciones y materiales promocionales que se emplearán en la difusión del quehacer gubernamental;
+V. Coordinar, con el apoyo de las áreas administrativas de comunicación social de las dependencias y entidades de la Administración Pública Estatal, la realización de programas o campañas específicas de comunicación social, o información gubernamental, en términos de las disposiciones jurídicas aplicables, así como para la emisión de boletines y comunicados a los medios de comunicación;
 
-VI. Suscribir acuerdos, convenios y contratos en materia de comunicación con los tres órdenes de gobierno, o bien, con otras instituciones públicas y empresas del sector privado;
+VI. Coordinar a las áreas administrativas de comunicación social de las dependencias y entidades de la Administración Pública Estatal, para dar congruencia a la información que el Gobierno del Estado difunda a la población;
 
-VII. Compilar y difundir la información sobre las actividades que en ejercicio de sus atribuciones, lleven a cabo las distintas Dependencias, Entidades Paraestatales, Órganos Desconcentrados, Órganos Auxiliares y Fideicomisos Públicos del Poder Ejecutivo del Estado;
+VII. Convocar a reuniones de trabajo a los titulares de las áreas administrativas de comunicación social de las dependencias y entidades de la Administración Pública Estatal, con objeto de diseñar y coordinar la estrategia de información gubernamental;
 
-VIII. Coordinar con el apoyo de las Dependencias, Entidades Paraestatales, Órganos Desconcentrados, Órganos Auxiliares y Fideicomisos Públicos del Poder Ejecutivo del Estado, la realización de programas o campañas generales o específicas de comunicación;
+VIII. Supervisar las acciones para la ejecución de la estrategia de información gubernamental, a que se refiere la fracción anterior;
 
-IX. Establecer los lineamientos que rijan la difusión de información sobre las actividades y funciones de Dependencias, Entidades Paraestatales, Órganos Desconcentrados, Órganos Auxiliares y Fideicomisos Públicos del Poder Ejecutivo del Estado, y
+IX. Informar a la opinión pública y a los medios de comunicación acerca de los asuntos competencia del Gobierno del Estado, así como difundir sus objetivos, programas y acciones;
 
-X. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su reglamento interno y demás normatividad aplicable.
+X. Ampliar y, en su caso, precisar la información relacionada con los posicionamientos del Gobierno Estatal;
+
+XI. Coordinar y atender las relaciones del Gobierno del Estado con los medios de comunicación;
+
+XII. Establecer relaciones interinstitucionales con las áreas de comunicación social de los sectores público, social y privado;
+
+XIII. Participar en la orientación, supervisión y evaluación de los programas de comunicación social de las dependencias y entidades de la Administración Pública Estatal;
+
+XIV. Suscribir acuerdos y convenios con los sectores público, social y privado en las materias de su competencia y disponer las acciones para su ejecución, en coordinación con las dependencias y entidades de la Administración Pública Estatal competentes;
+
+XV. Cubrir los eventos institucionales del Gobierno del Estado, así como diseñar y producir los materiales informativos y de difusión de dichos eventos para radio, televisión y medios impresos, en coordinación con las instancias competentes;
+
+XVI. Enviar, en términos de las disposiciones jurídicas aplicables, para su transmisión por radio, televisión y publicación en medios impresos, los materiales informativos y de difusión de las actividades del Gobierno del Estado, en coordinación con las instancias competentes;
+
+XVII. Coordinar las entrevistas y conferencias de prensa de los servidores públicos de la Administración Pública Estatal y los Poderes del Estado;
+
+XVIII. Atender los requerimientos de información de las actividades del Gobernador que formulen los medios de comunicación del país;
+
+XIX. Participar en reuniones del Gabinete y de los gabinetes especializados a los que se le convoque;
+
+XX. Conducir la política de identidad institucional de la Administración Pública Estatal;
+
+XXI. Dirigir, coordinar y establecer los lineamientos que rijan el diseño y la difusión de información, campañas y publicaciones sobre las actividades y funciones de dependencias, entidades paraestatales, órganos desconcentrados, órganos auxiliares y fideicomisos públicos del Poder Ejecutivo del Estado para que el contenido de sus campañas y publicaciones sea acorde con el mensaje y estrategia de comunicación social;
+
+XXII. Coordinar las acciones y estrategias para posicionar el mensaje gubernamental, con la participación que corresponda de las demás áreas competentes, así como de las dependencias y entidades de la Administración Pública Estatal;
+
+XXIII. Supervisar el uso de la imagen institucional, así como coadyuvar en la producción y transmisión de los actos y eventos en los que participen los servidores públicos de la Administración Pública Estatal y de los Poderes del Estado;
+
+XXIV. Dirigir estudios de evaluación de imagen institucional y medición de la opinión pública para generar estrategias de comunicación social que permitan difundir de forma eficiente las acciones de la administración pública estatal, y
+
+XXV. Las que en el ámbito de su competencia le confiera el Gobernador del Estado, su reglamento interno y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -2171,39 +2219,67 @@ XVII. Expedir constancias, certificados de estudios, diplomas, títulos y grados
 
 XVIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, la legislación federal y estatal, su Reglamento Interno y demás normatividad aplicable en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
 
 ###### ARTÍCULO 54.
 
-A la Representación del Gobierno del Estado de Oaxaca en la Ciudad de México le corresponde el despacho de los siguientes asuntos:
+La Coordinación General de Enlace Federal y Relaciones Internacionales, estará a cargo de un Coordinador General, quien dependerá directamente del Ejecutivo Estatal.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+A la Coordinación General de Enlace Federal y Relaciones Internacionales, le corresponde el despecho (sic) de los siguientes asuntos:
 
-I. Conducir las relaciones e imagen del Gobierno del Estado de Oaxaca en el Distrito Federal, representándolo oficialmente en todas sus gestiones que emprenda y suscribir los convenios, acuerdos y demás documentos en el que el Estado sea parte, previo acuerdo del Gobernador;
+I. Cumplir con las directrices en materia de política federal y con las Entidades Federativas que determine el Titular del Poder Ejecutivo;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+II. Establecer comunicación y coordinación con los Poderes de la Unión, con la colaboración de la Secretaría de Finanzas, así como con los órganos y organismos constitucionales autónomos federales y nacionales, así como con los Gobiernos de las Entidades Federativas para la atención y resolución de los asuntos de interés público;
 
-II. Iniciar las gestiones, enlaces, concertaciones y demás acciones que las dependencias, entidades, órganos desconcentrados y auxiliares que la Administración Pública estatal deban realizar con sus homólogas e iniciativa privada domiciliadas en el Distrito Federal, sin afectar el ejercicio de sus atribuciones;
+III. Facilitar y promover la gestión de fondos federales e internacionales e inversiones en sectores estratégicos para el crecimiento económico sostenible del Estado;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+IV. Coordinar las acciones, planes, programas que se realicen con autoridades federales y con otras Entidades Federativas con la participación de las dependencias y entidades de la Administración Pública Estatal;
 
-III. Coordinar, coadyuvar y controlar las acciones que realicen en el Distrito Federal, en el ámbito de sus respectivas competencias, las dependencias, entidades, órganos desconcentrados y auxiliares de la Administración Pública estatal;
+V. Gestionar los trámites para la implementación de los programas de carácter federal;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+VI. Representar al titular del Ejecutivo del Estado en los asuntos que el Gobernador determine;
 
-IV. Atender en representación del Gobierno del Estado y en coordinación con la instancia que corresponda, los asuntos que le planteen los oaxaqueños radicados en el Distrito Federal;
+VII. Dar seguimiento a los acuerdos, convenios y programas que suscriba el Gobernador del Estado con los gobiernos federal y estatales con organismos nacionales e internacionales;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+VIII. Conducir las relaciones e imagen del Gobierno del Estado de Oaxaca en la Ciudad de México, representándolo oficialmente en todas sus gestiones que emprenda y suscribir los convenios, acuerdos y demás documentos en el que el Estado sea parte, previo acuerdo del Gobernador;
 
-V. Coadyuvar en la promoción comercial, turística, artesanal, agropecuaria y tecnológica del Estado en el Distrito Federal, coordinándose con las instancias estatales y federales que correspondan;
+IX. Iniciar las gestiones, enlaces, concertaciones y demás acciones que las dependencias, entidades, órganos desconcentrados y auxiliares que la Administración Pública estatal, deban realizar con sus homólogas e iniciativa privada domiciliadas en la Ciudad de México, sin afectar el ejercicio de sus atribuciones;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+X. Coordinar, coadyuvar y controlar las acciones que realicen en la Ciudad de México, en el ámbito de sus respectivas competencias, las dependencias, entidades, órganos desconcentrados y auxiliares de la Administración Pública estatal;
 
-VI. Intervenir en lo relativo a foros, comisiones, congresos, conferencias, exposiciones y demás eventos que se realicen en el Distrito Federal y en los que deba participar el Gobierno del Estado; y
+XI. Atender en representación del Gobierno del Estado y en coordinación con la instancia que corresponda, los asuntos que le planteen los oaxaqueños radicados en la Ciudad de México;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+XII. Coadyuvar en la promoción comercial, turística, artesanal, agropecuaria y tecnológica del Estado en la Ciudad de México, coordinándose con las instancias estatales y federales que correspondan;
 
-VII. Las demás que señalen las leyes, reglamentos y decretos.
+XIII. Intervenir en lo relativo a foros, comisiones, congresos, conferencias, exposiciones y demás eventos que se realicen en la Ciudad de México y en los que deba participar el Gobierno del Estado;
+
+XIV. Proponer al Gobernador, los instrumentos jurídicos correspondientes para el cumplimiento de las atribuciones de la Coordinación General de Enlace Federal y Relaciones Internacionales;
+
+XV. Participar en la evaluación del cumplimiento de objetivos y metas de la administración;
+
+XVI. Coordinar la vinculación académica internacional y la firma de acuerdos nacionales, con la finalidad de profesionalizar el servicio público de la entidad;
+
+XVII. Proponer políticas, programas y acciones, así como, mecanismos de cooperación en materia internacional para su instrumentación en beneficio del Estado;
+
+XVIII. Diseñar e impulsar estrategias de vinculación internacional, propiciando el acercamiento del Poder Ejecutivo del Estado, con países extranjeros, organismos internacionales y gobiernos locales en un marco de relaciones e intercambios de interés mutuo;
+
+XIX. Promover y asesorar investigaciones y estudios en materia internacional, que contribuyan al diseño de propuestas para el Gobierno del Estado, en beneficio de su población;
+
+XX. Fungir como órgano de enlace y coordinación entre el Poder Ejecutivo y la Secretaría de Relaciones Exteriores, y otras dependencias y organismos federales en materia internacional;
+
+XXI. Asesorar a las Dependencias y Entidades de la Administración Pública Estatal, en materia de política exterior y concertación internacional;
+
+XXII. Proponer, organizar y desarrollar acciones y eventos que promuevan la visibilidad y posicionamiento del Estado, sus recursos y potencialidades, que faciliten el intercambio con países extranjeros en materia económica, comercial, turística, académica, cultural y demás temas de beneficio para la Entidad;
+
+XXIII. Participar en eventos de contenido internacional, en el interior de la República Mexicana o en el extranjero de los que puedan desprenderse o en los que se identifiquen beneficios para el Estado;
+
+XXIV. Apoyar en el Estado el programa mexicano de Ciudades Hermanas y Cooperación descentralizada, para la cual brindará la asesoría correspondiente a los municipios del Estado que participen en el programa;
+
+XXV. Contribuir con las instituciones competentes en el diseño de políticas públicas en materia de atención a transmigrantes y oaxaqueños en el exterior;
+
+XXVI. Promover y desarrollar acciones y programas a favor de los oaxaqueños en el exterior, coordinándose con otras dependencias y organismos competentes en la materia, y
+
+XXVII. Las demás que señalen las leyes, reglamentos y decretos, así como las que le encomiende el Gobernador del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -2637,15 +2713,13 @@ PRIMERO. El presente Decreto entrará en vigor a al (sic) día siguiente de su p
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan o contravengan al presente Decreto.
 
-TERCERO. La Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca deberá crearse e instalarse para iniciar sus operaciones, en el año 2016. La Secretaría de Finanzas del Gobierno del Estado implantará las medidas conducentes para prever en el Presupuesto de Egresos del Estado, las partidas correspondientes para la creación, instalación y operación de la Secretaría del Medio Ambiente y Recursos Naturales del Estado.
+TERCERO. (DEROGADO, P.O. 28 DE ENERO DE 2017)
 
-CUARTO. La Secretaría de Administración del Estado, realizará las previsiones razonables, necesarias y pertinentes, para que el personal que labora en las diferentes dependencias y organismos de la Administración Pública del Estado, pasen a formar parte de la Secretaría del Medio Ambiente y Recursos Naturales, respetando sus derechos laborales.
+CUARTO. (DEROGADO, P.O. 28 DE ENERO DE 2017)
 
-Los archivos, expedientes y mobiliario que tengan en resguardo las diferentes dependencias y organismos de la Administración Pública del Estado involucradas en la materia y ecológica ambiental, pasarán a formar parte del inventario de la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca.
+QUINTO. (DEROGADO, P.O. 28 DE ENERO DE 2017)
 
-QUINTO. En tanto la Secretaría del Medio Ambiente y Recursos Naturales del Estado es creada e instalada, las Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura, seguirá ejerciendo las funciones que establece el artículo 44 en su fracción XXIII de esta Ley.
-
-SEXTO. En tanto la Secretaría del Medio Ambiente y Recursos Naturales del Estado es creada e instalada, las Secretarías y/o entidades involucradas en la materia ecológica y ambiental, seguirán ejerciendo sus facultades de acuerdo a las competencias distribuidas por la Ley Orgánica del Poder Ejecutivo del Estado. EI Instituto Estatal de Ecología y Desarrollo Sustentable de Oaxaca seguirá ejerciendo sus atribuciones conforme a lo establecido por la Ley que lo crea y la Ley del Equilibrio Ecológico del Estado de Oaxaca.
+SEXTO. (DEROGADO, P.O. 28 DE ENERO DE 2017)
 
 P.O. 27 DE DICIEMBRE DE 2014.
 
@@ -2731,7 +2805,7 @@ SEXTO.- Las obligaciones y derechos derivados de contratos, convenios o cualquie
 
 SÉPTIMO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias o entidades cuyas funciones se reforman en virtud de este Decreto, se entenderán referidas a las dependencias a quienes respectivamente corresponden tales funciones.
 
-OCTAVO.- Los asuntos que con motivo de esta reforma deban pasar de una dependencia o entidad a otra, permanencerán (sic) en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia o entidad que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+OCTAVO.- Los asuntos que con motivo de esta reforma deban pasar de una dependencia o entidad a otra, permanencerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia o entidad que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
 
 NOVENO.- El Titular del Poder Ejecutivo en un término no mayor de treinta días naturales a partir de la fecha de entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
 
@@ -2768,3 +2842,43 @@ SÉPTIMO.- El Gobernador del Estado a través de la Secretaría de Finanzas y de
 OCTAVO.- Cuando en disposiciones normativas, se haga referencia a la Dirección General del Registro Público de la Propiedad, se entenderá al Instituto de la Función Registral del Estado de Oaxaca.
 
 El mismo criterio se aplicará para los titulares de dichas instancias. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 564.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias y órganos auxiliares que por esta Ley cambian de denominación y/o sector, o se extinguen y transfieren sus recursos humanos, materiales y financieros se entenderán subrogadas y contraídas por sus correlativas.
+
+TERCERO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias y órganos auxiliares, cuyas funciones se reforman en virtud de esta Ley, se entenderán referidas a las Dependencias y Órganos Auxiliares a quienes respectivamente, corresponden tales funciones.
+
+CUARTO. Los recursos humanos, financieros y materiales que venía utilizando la Representación del Gobierno del Estado de Oaxaca en la Ciudad de México, se trasferirán a la Coordinación General de Enlace Federal y Relaciones Internacionales, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+QUINTO. Los recursos humanos, financieros y materiales que venía utilizando la Coordinación General de Comunicación Social, se trasferirán a la Coordinación General de Comunicación Social y Vocería, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+SEXTO. Las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento de la presente reforma.
+
+SÉPTIMO. Los asuntos que con motivo de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca; deban pasar de una dependencia u órgano auxiliar a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las unidades administrativas que los transfieren se incorporen a la Dependencia u órgano auxiliar que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+OCTAVO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar los cambios en las estructuras orgánicas que por esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se crean o extingan, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente Decreto, sin afectar el presupuesto ya asignado, informando las adecuaciones programáticas a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+NOVENO. En todos los casos que por la aplicación de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se modifique la estructura orgánica de las dependencias y órganos auxiliares o unidades administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
+
+DÉCIMO. Se faculta al Titular de la Secretaría de Finanzas para que, en términos de lo establecido en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, y su Reglamento, así como, en el Decreto que autoriza el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal dos mil diecisiete, realice los ajustes presupuestales que correspondan, para el cumplimiento del presente decreto, sin afectar el presupuesto ya asignado, informando dichos ajustes a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto, para los efectos legales conducentes.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo en un término no mayor a treinta días hábiles siguientes al de la entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
+
+DÉCIMO SEGUNDO. Con motivo de la derogación del artículo 47 Bis y transitorios TERCERO; CUARTO; QUINTO y SEXTO del decreto Núm. 2068, publicado en el Extra del Periódico Oficial del Gobierno del Estado el 28 de noviembre de 2013, que se realiza a través del presente Decreto, se abroga el Programa de Ordenamiento Ecológico Regional del Territorio del Estado de Oaxaca, en consecuencia la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, deberá realizar el Acuerdo respectivo por el que se emita el nuevo Programa de Ordenamiento Ecológico Regional del Territorio del Estado de Oaxaca, en tanto se emite el acuerdo citado, deberán aplicarse las Normas Oficiales NOM-022-SEMARNAT-2003, NOM-001-ECOL-1996, NOM-002-PESC-1993, NOM-009-PESC-1993 y demás Normas Oficiales Mexicanas, así como la normativa federal vigente en el Estado Mexicano y aplicable a los casos específicos que se susciten.
+
+Cuando en diversas disposiciones normativas se haga referencia al Instituto Estatal de Ecología y Desarrollo sustentable o a la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca, se entenderá que se refiere a la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable.
+
+DÉCIMO TERCERO. Los archivos, expedientes y mobiliario que tenga en resguardo la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura (SEDAPA) respecto a la facultad a que aludía la fracción XXIII, del artículo 44, que por este decreto se transfiere a la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, pasarán a formar parte del Inventario de esta última Secretaría, así como los recursos humanos, financieros y materiales con que cuente la SEDAPA, para la operación de dicha facultad, informando los ajustes presupuestales a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+DÉCIMO CUARTO. Los Subcomités que se hayan instalado previamente a las reformas de la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca, publicada en el Periódico Oficial No. 46, séptima Sección del 12 de noviembre de 2016, a que se refiere el presente Decreto, deberán ajustar su integración en un término de quince días hábiles contados a partir de la entrada en vigor del Reglamento de la Ley señalada.
+
+El Reglamento de la Ley, a que alude el párrafo anterior, deberá publicarse por lo menos dentro de los quince días hábiles siguientes al de la entrada en vigor del presente Decreto.
+
+En consecuencia se deroga el Transitorio Quinto, del citado Decreto 2091, mediante el cual se aprueba la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca.
+
+DÉCIMO QUINTO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
