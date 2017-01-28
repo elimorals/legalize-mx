@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-adquisiciones-enajenaciones-arrendamientos-117877"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2016-11-12"
+last_updated: "2017-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
 
 Ley publicada en la Séptima Sección al Número 46 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -349,7 +349,9 @@ I. Sesionará en forma Ordinaria como mínimo una vez al mes y en forma Extraord
 
 II. La convocatoria a Sesiones, el orden del día y la documentación relativa a éstas, deberán entregarse a los miembros del Comité con un mínimo de dos días hábiles de anticipación, si se trata de Sesión Ordinaria y de un día hábil, si se trata de Sesión Extraordinaria;
 
-III. Para la validez de los acuerdos del Comité, se requiere el quórum de asistencia de la totalidad de los miembros del Gobierno del Estado y votación aprobatoria de la mayoría de los miembros asistentes a la Sesión. En caso de empate, el Presidente tendrá voto de calidad, y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+
+III. Para la validez de los acuerdos del Comité, se requerirá el quórum de asistencia de la mayoría simple de los miembros con derecho a voz y voto integrantes del Gobierno del Estado, encontrándose entre ellos el Presidente y de manera adicional el Comisario, y la votación aprobatoria será de la mayoría de los miembros que integran el Comité. En caso de empate, el Presidente tendrá voto de calidad, y
 
 IV. El Secretario Técnico, elaborará el acta de la Sesión correspondiente, la cual firmarán los asistentes.
 
@@ -379,29 +381,29 @@ X. Dictaminar los casos de excepción a los que se refieren el artículo 46 de e
 
 XI. Las demás que le confieran esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
 ###### Artículo 26.
 
-Las Dependencias y Entidades deberán constituir sus Sub-Comités de Adquisiciones, Arrendamientos y Servicios, los cuales se integrarán de la siguiente forma:
+Las Dependencias y Entidades deberán constituir sus Sub-Comités de Adquisiciones, Arrendamientos y Servicios, con la integración mínima siguiente:
 
-I. Por el titular de la Dependencia o Entidad que origine la licitación de que se trate, quien lo presidirá, con voz y voto;
+I. Por el Titular de Dependencia o Entidad que corresponda, quien lo presidirá con voz, voto y voto de calidad;
 
-II. Por el representante de la Secretaría de Administración, vocal con voz y voto;
+II. Por el Titular del área de programación, presupuesto, finanzas o su equivalente de la Dependencia o Entidad, vocal con voz y voto;
 
-III. Por el representante de la Secretaría de Finanzas, vocal con voz y voto;
+III. Por el Titular del área jurídica o su equivalente de la Dependencia o Entidad, vocal con voz y voto;
 
-IV. Por el representante de la Consejería Jurídica del Gobierno del Estado, vocal con voz y voto;
+IV. Por el representante de la Secretaría de Administración, vocal con voz;
 
-V. Por el representante de la Secretaría de Economía, vocal con voz y voto;
+V. Por el representante de la Secretaría de Contraloría y Transparencia Gubernamental, quien fungirá como Comisario, con voz;
 
-VI. Por el representante de la Secretaría de Contraloría y Transparencia Gubernamental, quien fungirá como Comisario, con voz;
+VI. Por el titular del área de administración o su equivalente de la Dependencia o Entidad, quien fungirá como Secretario Técnico, con voz, y
 
-VII. Por el titular del área de administración de la Dependencia o Entidad que origine la licitación de que se trate, quien fungirá como Secretario Técnico, con voz, y
-
-VIII. Como invitados los servidores públicos, que a juicio de los integrantes del Sub-Comité, se requiera su intervención por considerarla necesaria para aclarar cualquier aspecto relacionados (sic) con los asuntos a tratar, con voz.
+VII. Como invitados los servidores públicos, que a juicio de los integrantes del Sub-Comité, se requiera su intervención por considerarla necesaria para aclarar cualquier aspecto relacionado con los asuntos a tratar, con voz.
 
 Los representantes de la Cámara de Comercio, Cámara Nacional de la Industria de la Transformación y la Confederación Patronal de la República Mexicana, formarán parte del Sub-Comité a invitación expresa por parte del Presidente de dicho Sub-Comité, participarán con derecho a voz.
 
-La organización, funcionamiento y designación de los miembros suplentes del Sub-Comité estará regulado por el Reglamento.
+La integración, organización, funcionamiento, así como la designación de los miembros suplentes del Sub-Comité estará regulado por el Reglamento.
 
 ###### Artículo 27.
 
@@ -1194,3 +1196,45 @@ Tlalixtac de Cabrera, Centro, Oax., 12 de noviembre del 2016.
 SECRETARIO GENERAL DE GOBIERNO.
 
 ING. CARLOS SANTIAGO CARRASCO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 564.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias y órganos auxiliares que por esta Ley cambian de denominación y/o sector, o se extinguen y transfieren sus recursos humanos, materiales y financieros se entenderán subrogadas y contraídas por sus correlativas.
+
+TERCERO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias y órganos auxiliares, cuyas funciones se reforman en virtud de esta Ley, se entenderán referidas a las Dependencias y Órganos Auxiliares a quienes respectivamente, corresponden tales funciones.
+
+CUARTO. Los recursos humanos, financieros y materiales que venía utilizando la Representación del Gobierno del Estado de Oaxaca en la Ciudad de México, se trasferirán a la Coordinación General de Enlace Federal y Relaciones Internacionales, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+QUINTO. Los recursos humanos, financieros y materiales que venía utilizando la Coordinación General de Comunicación Social, se trasferirán a la Coordinación General de Comunicación Social y Vocería, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+SEXTO. Las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental, en uso de sus facultades legales, realizarán todos los actos concernientes para el debido cumplimiento de la presente reforma.
+
+SÉPTIMO. Los asuntos que con motivo de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, deban pasar de una dependencia u órgano auxiliar a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las unidades administrativas que los trasfieren se incorporen a la Dependencia u órgano auxiliar que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+OCTAVO. Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de sus respectivas facultades, para realizar los cambios en las estructuras orgánicas que por esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se crean o extingan, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente Decreto, sin afectar el presupuesto ya asignado, informando las adecuaciones programáticas a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+NOVENO. En todos los casos que por la aplicación de esta Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca se modifique la estructura orgánica de las dependencias y órganos auxiliares o unidades administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
+
+DÉCIMO. Se faculta al Titular de la Secretaría de Finanzas para que, en términos de lo establecido en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, y su Reglamento, así como, en el Decreto que autoriza el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal dos mil diecisiete, realice los ajustes presupuestales que correspondan, para el cumplimiento del presente decreto, sin afectar el presupuesto ya asignado, informando dichos ajustes a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto, para los efectos legales conducentes.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo en un término no mayor a treinta días hábiles siguientes al de la entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
+
+DÉCIMO SEGUNDO. Con motivo de la derogación del artículo 47 Bis y transitorios TERCERO; CUARTO; QUINTO y SEXTO del decreto Núm. 2068, publicado en el Extra del Periódico Oficial del Gobierno del Estado el 28 de noviembre de 2013, que se realiza a través del presente Decreto, se abroga el Programa de Ordenamiento Ecológico Regional del Territorio del Estado de Oaxaca, en consecuencia la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, deberá realizar el Acuerdo respectivo por el que se emita el nuevo Programa de Ordenamiento Ecológico Regional del Territorio del Estado de Oaxaca, en tanto se emite el acuerdo citado, deberán aplicarse las Normas Oficiales NOM-022-SEMARNAT-2003, NOM-001-ECOL-1996, NOM-002-PESC-1993, NOM-009-PESC-1993 y demás Normas Oficiales Mexicanas, así como la normativa federal vigente en el Estado Mexicano y aplicable a los casos específicos que se susciten.
+
+Cuando en diversas disposiciones normativas, se haga referencia al Instituto Estatal de Ecología y Desarrollo sustentable o a la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca, se entenderá que se refiere a la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable.
+
+DÉCIMO TERCERO. Los archivos, expedientes y mobiliario que tenga en resguardo la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura (SEDAPA) respecto a la facultad a que aludía la fracción XXIII, del artículo 44, que por este decreto se transfiere a la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, pasarán a formar parte del Inventario de esta última Secretaría, así como los recursos humanos, financieros y materiales con que cuente la SEDAPA, para la operación de dicha facultad, informando los ajustes presupuestales a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+DÉCIMO CUARTO. Los Subcomités que se hayan instalado previamente a las reformas de la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca, publicada en el Periódico Oficial No. 46, séptima Sección del 12 de noviembre de 2016, a que se refiere el presente Decreto, deberán ajustar su integración en un término de quince días hábiles contados a partir de la entrada en vigor del Reglamento de la Ley señalada.
+
+El Reglamento de la Ley, a que alude el párrafo anterior, deberá publicarse por lo menos dentro de los quince días hábiles siguientes al de la entrada en vigor del presente Decreto.
+
+En consecuencia se deroga el Transitorio Quinto, del citado Decreto 2091, mediante el cual se aprueba la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca.
+
+DÉCIMO QUINTO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
