@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-del-trabajo-y-82092"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-25"
-last_updated: "2011-06-25"
+last_updated: "2017-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL, DEL ESTADO DE COLIMA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL DEL ESTADO DE COLIMA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, PUBLICADO EN EL P.O. DE 28 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL DEL ESTADO DE COLIMA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de junio de 2011.
 
 LIC. MARIO ANGUIANO MORENO, Gobernador Constitucional del Estado Libre y Soberano de Colima, en ejercicio de la facultad que al Ejecutivo a mi cargo le confiere el artículo 58, fracción III, de la Constitución Política del Estado Libre y Soberano de Colima y con fundamento en lo dispuesto por los artículos 3, 12 y 24 BIS 6 de la Ley Orgánica de la Administración Pública del Estado; y
 
-C O N S I D E R A N D O:.
+C O N S I D E R A N D O:
+
+[...]
 
 Por lo anteriormente expuesto, estando en tiempo y forma, se expide el siguiente:
 
@@ -608,3 +612,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR, J. JESÚS OROZCO ALFARO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL”.]
+
+PRIMERO. El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría del Trabajo y Previsión Social, expedido el 25 de junio de 2011, publicado en el Periódico Oficial "El Estado de Colima", y se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
+
+TERCERO. En un plazo de 60 días hábiles, a partir de la vigencia del presente ordenamiento la Secretaría del Trabajo y Previsión Social en apego a la metodología que establezca la Secretaría de Administración y Gestión Pública del Gobierno del Estado, expedirá los manuales de organización, políticas, procedimientos y sistemas de gestión administrativa, disponiendo su publicación; en tanto se expidan dichos manuales, seguirán vigentes los anteriores y en su caso el Secretario del Trabajo y Previsión Social resolverá las cuestiones de procedimiento y operación que se originen con la aplicación de este ordenamiento legal.
+
+CUARTO. En tanto entra en vigor la Fiscalía General del Estado, en términos de lo dispuesto por el artículo segundo transitorio del Decreto por el que se reformó y adicionó la Constitución Política del Estado Libre y Soberano de Colima, publicado el día 7 de noviembre de 2015 en el Periódico Oficial "El Estado de Colima", la referencia que el presente Decreto hace con relación al Fiscal General resultará aplicable al Procurador General de Justicia del Estado.
+
+QUINTO. Los procedimientos, y demás asuntos que se encuentren en curso, o pendientes de resolución a la entrada en vigor del presente Reglamento, que conforme al mismo deban pasar de una Unidad Administrativa a otra, continuarán su trámite y serán resueltos por la Unidad Administrativa competente en los términos del presente Reglamento.
+
+SEXTO. Los trabajadores que con motivo de la aplicación del presente Reglamento deban quedar adscritos a una Unidad Administrativa diferente a su actual centro de trabajo, continuarán laborando en las mismas condiciones laborales, con pleno reconocimiento de los derechos que hubieren generado.
