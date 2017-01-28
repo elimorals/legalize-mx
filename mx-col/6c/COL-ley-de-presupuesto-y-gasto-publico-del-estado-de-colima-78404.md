@@ -4,7 +4,7 @@ identifier: "COL-ley-de-presupuesto-y-gasto-publico-del-estado-de-colima-78404"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-25"
-last_updated: "2015-12-29"
+last_updated: "2017-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78404&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE PRESUPUESTO Y GASTO PUBLICO DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 28 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PRESUPUESTO Y GASTO PUBLICO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017. (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de diciembre de 2010.
 
@@ -772,3 +774,39 @@ P.O. 29 DE DICIEMBRE DE 2015
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 39 POR EL QUE SE REFORMA EL ARTÍCULO 5, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE COLIMA; ASÍ MISMO LA FRACCIÓN I, Y SE DEROGA LA FRACCIÓN IV, DEL ARTÍCULO 67 TER DE LA LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 230 SE EXPIDE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se abroga la Ley de Presupuesto y Gasto Público del Estado de Colima, publicada en el Periódico Oficial “El Estado de Colima” el 25 diciembre de 2010.
+
+TERCERO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en este Decreto.
+
+CUARTO. Las disposiciones relacionadas con los Balances Presupuestarios, las Reglas de Disciplina Financiera y Responsabilidad Hacendaria del Estado, a que se refieren los artículos 32, 37, 38, 43, 44, 45, 54 y 55 de esta Ley entrarán en vigor para efectos del ejercicio fiscal 2017, con las salvedades previstas en los transitorios Quinto, Séptimo, Octavo y Noveno del presente Decreto.
+
+QUINTO. Los recursos a que se refiere el artículo 32 de esta Ley, para realizar acciones preventivas o atender daños ocasionados por desastres naturales corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020, se observará el porcentaje establecido en el precepto señalado anteriormente.
+
+SEXTO. En materia de servicios personales, a que se refiere la fracción IV del artículo 29 y el artículo 47 de esta Ley, entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en la fracción IV del artículo 29 y el artículo 47, de esta Ley hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+SÉPTIMO. Los ingresos excedentes derivados de ingresos de libre disposición a que hace referencia el artículo 44 de esta Ley, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
+
+En el supuesto de que el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas que señala la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, los ingresos de libre disposición, además de poder destinarse a la amortización de la deuda, inversión pública productiva o a la creación de un Fondo cuyo objetivo sea compensar la caída de Ingresos de libre disposición de ejercicios subsiguientes, podrán destinarse a Gasto Corriente, hasta el ejercicio fiscal 2018.
+
+OCTAVO. El porcentaje a que hace referencia el artículo 55 de esta Ley, relativo a los adeudos del ejercicio fiscal anterior del Estado, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y, a partir del 2020, se observará el porcentaje establecido en el artículo citado.
+
+NOVENO. El registro de proyectos de inversión pública productiva y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 43, fracción III, segundo párrafo y la fracción V, segundo párrafo, respectivamente de esta Ley deberán estar en operación a más tardar el 1o. de enero de 2018.
+
+DÉCIMO. Los recursos que sean otorgados a los Entes Públicos a través del esquema de los certificados de infraestructura educativa nacional, pertenecientes al Programa Escuelas al CIEN, quedarán exentos del reintegro que deba realizarse a la Tesorería de la Federación, señalado por el artículo 60 de esta Ley y estarán a lo dispuesto en dicho programa.
+
+DÉCIMO PRIMERO. En tanto entra en vigor la Ley General de Responsabilidades Administrativas, en atención a lo dispuesto en los artículos primero, segundo y tercero transitorios del Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el día 18 de julio del 2016 en el Diario Oficial de la Federación, continuará aplicándose la legislación local en materia de responsabilidades que se encuentre vigente a la fecha de entrada en vigor del referido Decreto, observándose lo siguiente:
+
+Las responsabilidades que deriven de la fiscalización de las cuentas públicas continuarán siendo conocidas y sancionadas por el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y el Congreso del Estado en los términos previstos en la Constitución Política del Estado Libre y Soberano de Colima y la Ley de Fiscalización Superior del Estado.
+
+Las responsabilidades administrativas continuarán siendo conocidas y sancionadas por los Órganos Internos de Control de los Entes Públicos y, en su caso, por el superior jerárquico del servidor público responsable, en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos y de las leyes y normas que rijan el funcionamiento de tales Entes Públicos.
+
+DÉCIMO SEGUNDO. El Tribunal de Justicia Administrativa del Estado a que hace referencia el presente Decreto entrará en vigor hasta en tanto se le instituya en la Constitución Política del Estado Libre y Soberano de Colima y se expida su correspondiente ley orgánica, en términos de lo dispuesto en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado el día 27 de mayo del 2015 en el Diario Oficial de la Federación, así como en observancia al Decreto por el que se expide la Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el día 18 de julio del 2016 en el Diario Oficial de la Federación.
