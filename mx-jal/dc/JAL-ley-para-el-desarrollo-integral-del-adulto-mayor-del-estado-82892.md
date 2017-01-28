@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2016-10-11"
+last_updated: "2017-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -351,13 +351,17 @@ d) A recibir de parte de las instituciones públicas correspondientes, la capaci
 
 °-Bis. El Estado promoverá las adecuaciones urbanísticas y arquitectónicas acordes con las necesidades de este sector de la población, así como campañas de difusión en materia de educación vial.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2017)</small>
 
 ###### Artículo 6.
 
-°-Ter. Además de los derechos enunciados, las personas adultas mayores de setenta años de edad en adelante con una residencia de cuando menos tres años ininterrumpidos en el estado, recibirán una pensión económica equivalente a la mitad del salario mínimo mensual vigente en la zona metropolitana de Guadalajara, excepto aquellos que reciban una pensión o ayuda económica, de igual o superior monto al establecido en este ordenamiento, ya sean federales, estatales o municipales. Para el caso de las personas que reciban una pensión o ayuda económica menor a la que se establece en este ordenamiento, el Ejecutivo entregará una cantidad para que se iguale el monto.
+°-Ter. Además de los derechos enunciados, las personas adultas mayores de sesenta y cinco años de edad en adelante con una residencia de cuando menos tres años ininterrumpidos en el Estado, recibirán una pensión económica equivalente a la mitad del salario mínimo mensual vigente en el área metropolitana de Guadalajara, excepto aquellos que reciban una pensión o ayuda económica, de igual o superior monto al establecido en este ordenamiento, ya sean federales, estatales o municipales. Para el caso de las personas que reciban una pensión o ayuda económica menor a la que se establece en este ordenamiento, el Ejecutivo entregará una cantidad para que se iguale el monto.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 La forma como se hará valer la pensión económica, la verificación de la residencia, la elaboración y actualización permanente del padrón de beneficiarios y demás requisitos y procedimientos necesarios para el ejercicio del derecho establecido en este artículo, se fijarán en su reglamento y de acuerdo con el Presupuesto de Egresos correspondiente al ejercicio fiscal de que se trate.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 El titular del Poder Ejecutivo del Estado de Jalisco deberá incluir en el Proyecto de Presupuesto de Egresos del Estado de Jalisco la asignación que garantice, efectivamente, el derecho a la pensión económica a que se refiere el presente artículo.
 
@@ -1378,3 +1382,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25876/LXI/16 QUE REFORMA EL ARTÍCULO 16 DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; EL ARTÍCULO 6 DE LA LEY ORGÁNICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA; EL ARTÍCULO 8 DEL DECRETO NÚMERO 13555, POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TREN ELÉCTRICO URBANO; EL ARTÍCULO 7 DEL DECRETO NÚMERO 14139, POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO, SERVICIOS Y TRANSPORTES; Y LA DENOMINACIÓN DEL CAPÍTULO X DEL TÍTULO CUARTO DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26218/LXI/16 QUE REFORMA EL ARTÍCULO 6°-TER DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
