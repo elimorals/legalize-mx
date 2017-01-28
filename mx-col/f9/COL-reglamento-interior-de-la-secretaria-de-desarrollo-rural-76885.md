@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-desarrollo-rural-76885"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-09-11"
-last_updated: "2010-09-11"
+last_updated: "2017-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL DEL ESTADO DE COLIMA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL, PUBLICADO EN EL SUPLEMENTO 4 AL NO. 06 DEL P.O. DE 28 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2010.
 
@@ -988,3 +990,17 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en la residencia del Poder Ejecutivo Estatal, en la Ciudad de Colima, a los diecinueve días del mes de junio del año dos mil diez.
 
 ATENTAMENTE. SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO. Rúbrica. EL SECRETARIO DE DESARROLLO RURAL, C. JOSÉ VERDUZCO MORENO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL”.]
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Los procedimientos, y demás asuntos que se encuentren en curso, o pendientes de resolución a la entrada en vigor del presente Reglamento, que conforme al mismo deban pasar de una Unidad Administrativa a otra, continuarán su trámite y serán resueltos por la Unidad Administrativa competente en los términos del presente Reglamento.
+
+TERCERO. Los trabajadores que con motivo de la aplicación del presente Reglamento deban quedar adscritos a una Unidad Administrativa diferente a su actual centro de trabajo, continuarán laborando en las mismas condiciones laborales, con pleno reconocimiento de los derechos que hubieren generado.
+
+CUARTO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Rural, expedido el 11 de septiembre del año 2010, publicado en el Periódico Oficial "El Estado de Colima".
