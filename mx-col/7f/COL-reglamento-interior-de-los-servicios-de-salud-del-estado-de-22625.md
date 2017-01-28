@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-los-servicios-de-salud-del-estado-de-226
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-14"
-last_updated: "2011-02-12"
+last_updated: "2017-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS DE SALUD DEL ESTADO DE COLIMA", PUBLICADO EN EL P.O. DE 28 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 14 de julio de 2001.
 
@@ -438,7 +440,7 @@ XVIII. Nombrar, en auxilio de las autoridades judiciales y administrativas del o
 
 XIX. Las demás que le señalen las leyes, reglamentos, decretos y acuerdos o las autoridades superiores.
 
-> <small>(ADICIONADO,. P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
 ARTICULO 24 BIS. La Dirección del Régimen Estatal de Protección Social en Salud, tendrá las siguientes facultades y obligaciones:
 
@@ -1005,3 +1007,15 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se otorga un plazo de 60 días contados a partir de la publicación del presente Decreto, para la expedición del Reglamento que regule las funciones de la Dirección del Régimen Estatal de Protección Social en Salud.
 
 TERCERO.- El presente Decreto no crea nuevas plazas, ya que con el mismo personal adscrito se reorganizará la conformación de la Dirección del Régimen Estatal de Protección Social en Salud.
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS DE SALUD DEL ESTADO DE COLIMA"".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga el Reglamento Interior de los Servicios de Salud del Estado de Colima, publicado en el Periódico Oficial del Estado, el día 14 de julio de 2001.
+
+TERCERO. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
+
+CUARTO. Los Reglamentos Internos de las Jurisdicciones Sanitarias, Hospitales y Organismos Desconcentrados y Descentralizados, deberán actualizarse y expedirse, una vez publicado el presente Decreto.
