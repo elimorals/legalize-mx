@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-desarrollo-social-39717
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-05-15"
-last_updated: "2004-05-15"
+last_updated: "2017-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EN EL P.O. DE 28 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de mayo de 2004.
 
@@ -1996,3 +1998,15 @@ TRANSITORIOS (SIC)
 Artículo Único. Este Reglamento Interior entrará en vigor el día siguiente de su publicación en el Periódico Oficial ''El Estado de Colima''.
 
 Dado en la residencia del Poder Ejecutivo, en Palacio de Gobierno, a los 14 catorce días del mes de mayo del año 2004. PROFR. GUSTAVO ALBERTO VÁZQUEZ MONTES, GOBERNADOR CONSTITUCIONAL DEL ESTADO; Rúbrica. C. ARNOLDO OCHOA GONZÁLEZ, SECRETARIO GENERAL DE GOBIERNO; Rúbrica. LIC. JORGE HUMBERTO SILVA OCHOA, SECRETARIO DE DESARROLLO SOCIAL; Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL”.]
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social, expedido el 15 de mayo de 2004, publicado en el Periódico Oficial "El Estado de Colima", y se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
+
+TERCERO. En un plazo de 60 días hábiles, a partir de la vigencia del presente ordenamiento, la Secretaría de Desarrollo Social en apego a la metodología que establezca la Secretaría de Administración y Gestión Pública del Gobierno del Estado, expedirá los manuales de organización, políticas, procedimientos y sistemas de gestión administrativa, disponiendo su publicación; en tanto se expidan dichos manuales, seguirán vigentes los anteriores y en su caso el titular de la Secretaría de Desarrollo Social resolverá las cuestiones de procedimiento y operación que se originen con la aplicación de este ordenamiento legal.
