@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-para-el-estado-de-jalisco-y-sus-municipios-19
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-19"
-last_updated: "2016-09-20"
+last_updated: "2017-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de Diciembre de 2000.
 
@@ -797,7 +797,9 @@ I. El Gobernador del Estado;
 
 II. El Congreso del Estado;
 
-III. El Supremo Tribunal de Justicia con la aprobación de cuando menos dos de los plenos de los tribunales Administrativo y Electoral y del Consejo General del Poder Judicial;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2017)</small>
+
+III. En el Poder Judicial con la aprobación de cuando menos dos de los plenos que lo integran: del Supremo Tribunal, del Tribunal de lo Administrativo y del Consejo de la Judicatura;
 
 IV. El ayuntamiento; y
 
@@ -918,3 +920,9 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25863/LXI/16 QUE REFORMA EL ARTÍCULO 13 DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26219/LXI/16 QUE REFORMA EL ARTÍCULO 78-1 DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
