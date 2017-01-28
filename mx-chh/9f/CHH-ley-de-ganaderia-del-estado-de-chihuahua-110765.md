@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ganaderia-del-estado-de-chihuahua-110765"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-12"
-last_updated: "2015-12-12"
+last_updated: "2017-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE GANADERÍA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 12 de diciembre de 2015.
 
@@ -1767,9 +1767,11 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 
 Se abroga la Ley de Ganadería para el Estado de Chihuahua, expedida mediante Decreto No. 785/09 I P.O., publicado en el Periódico Oficial del Estado No. 17, de fecha 27 de febrero de 2010.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO TERCERO.
 
-Todas las obligaciones cuyo cumplimiento implique la aplicación del arete o identificador SINIDA, será exigible a partir del primer día del mes de enero del año 2017. El ganado que haya nacido antes de esta fecha, deberá quedar identificado con el arete SINIIGA, dentro de los seis meses de edad.
+Todas las obligaciones cuyo cumplimiento implique la aplicación del arete o identificador SINIDA, será exigible a partir del primer día del mes de febrero del año 2017. El ganado que haya nacido antes de esta fecha, deberá quedar identificado con el arete SINIIGA, dentro de los seis meses de edad.
 
 ###### ARTÍCULO CUARTO.
 
@@ -1804,3 +1806,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, A los veintisiete días del mes de noviembre del año dos mil quince.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0214/2016 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE GANADERÍA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
