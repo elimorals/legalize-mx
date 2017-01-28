@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-sostenible-del-estado-de-chihuahua-814
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-14"
-last_updated: "2016-11-19"
+last_updated: "2017-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de mayo de 2011.
 
@@ -608,6 +608,10 @@ c. Construcción, reparación, ampliación y demolición de obras que se ejecute
 d. Instalación de estructuras para telecomunicaciones, conducción o transmisión;
 
 e. Colocación de estructuras con fines publicitarios, nomenclatura urbana, informativos, vigilancia y cualesquiera otros ubicados en vía pública o propiedad privada.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2017)</small>
+
+f) Lo relativo a la construcción y operación de los estacionamientos de las Tiendas Departamentales y Centros Comerciales, a efecto de que estos se ofrezcan de forma gratuita y cumplan con las normas técnicas que para tal efecto se expidan.
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2013)</small>
 
@@ -3926,6 +3930,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 19 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1561/2016 XXI P.E., MEDIANTE EL CUAL SE REFORMAN LOS INCISOS N) Y O) Y SE ADICIONA UN INCISO P) A LA FRACCIÓN I DEL ARTÍCULO 92 DE LA LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA"].
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0211/2016 I P.O., POR MEDIO DEL CUAL SE ADICIONA UN INCISO F) A LA FRACCIÓN IX DEL ARTÍCULO 10 DE LA LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
