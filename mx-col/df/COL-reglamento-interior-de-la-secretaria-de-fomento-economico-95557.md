@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-fomento-economico-95557
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-17"
-last_updated: "2013-08-17"
+last_updated: "2017-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FOMENTO ECONÓMICO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 17 de agosto de 2013.
 
@@ -644,3 +644,15 @@ Por tanto mando, se imprima, publique y observe.
 Dado en la Residencia del Poder Ejecutivo Estatal, en la Ciudad de Colima, Colima, a los 9 días del mes de agosto del dos mil trece.
 
 ATENTAMENTE. SUFRAGIO EFECTIVO. "NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL SECRETARIO DE FOMENTO ECÓNOMICO, C. RAFAEL GUTIÉRREZ VILLALOBOS. Rúbrica. EL ENCARGADO DEL DESPACHO DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN, C.P. CLEMENTE MENDOZA MARTÍNEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE FOMENTO ECONÓMICO".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Fomento Económico del Gobierno del Estado de Colima expedido el 9 de agosto de 2013 y publicado en el Periódico Oficial "El Estado de Colima" el 17 de agosto de 2013.
+
+TERCERO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a lo señalado en el presente Reglamento.
