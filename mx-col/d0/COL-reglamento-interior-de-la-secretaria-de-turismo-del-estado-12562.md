@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-turismo-del-estado-1256
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-15"
-last_updated: "1997-11-15"
+last_updated: "2017-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO, PUBLICADO EN EL P.O. DE FECHA 28 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de noviembre de 1997.
 
@@ -228,3 +230,17 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en la residencia del Poder Ejecutivo estatal, en la ciudad de Colima, el primero de noviembre de mil novecientos noventa y siete.
 
 A t e n t a m e n t e.- ''SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA.- Rúbrica.- EL SECRETARIO DE TURISMO ENCARGADO DEL DESPACHO, LIC. MIGUEL DE LA MADRID ANDRADE.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO.”]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Turismo, expedido el 15 de noviembre de 1997, publicado en el Periódico Oficial "El Estado de Colima", y se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
+
+TERCERO. Los procedimientos, y demás asuntos que se encuentren en curso, o pendientes de resolución a la entrada en vigor del presente Reglamento, que conforme al mismo deban pasar de una Unidad Administrativa a otra, continuarán su trámite y serán resueltos por la Unidad Administrativa competente en los términos del presente Reglamento.
+
+CUARTO. Los trabajadores que con motivo de la aplicación del presente Reglamento deban quedar adscritos a una Unidad Administrativa diferente a su actual centro de trabajo, continuarán laborando en las mismas condiciones laborales, con pleno reconocimiento de los derechos que hubieren generado.
