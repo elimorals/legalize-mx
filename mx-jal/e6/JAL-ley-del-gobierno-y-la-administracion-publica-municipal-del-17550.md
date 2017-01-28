@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2016-11-26"
+last_updated: "2017-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1143,13 +1143,39 @@ b) En los Municipios en que el Ayuntamiento está integrado por más de catorce 
 
 El funcionario encargado de la Secretaría del Ayuntamiento, es el facultado para formular las actas de las sesiones que celebre el Ayuntamiento y autorizarlas con su firma, recabando a su vez la firma de los regidores que hubieren concurrido a la sesión y procediendo al archivo de las mismas; este funcionario también es el facultado para expedir las copias, constancias, credenciales y demás certificaciones que le requieran los regidores de acuerdo a sus facultades, o las solicitadas por otras instancias, de acuerdo a las disposiciones aplicables en la materia.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE ENERO DE 2017)</small>
 
-La Secretaría del Ayuntamiento puede recaer en el Síndico previa aprobación por mayoría absoluta del Ayuntamiento, sin que por ésta responsabilidad perciba una prestación económica adicional.
+Es también facultad del Secretario del Ayuntamiento, la expedición de la Carta de Origen a los jaliscienses que radican en el Estado, o bien a aquellos residentes en el extranjero, a solicitud del interesado o de sus familiares, de conformidad a la reglamentación que los Ayuntamientos emitan en la materia.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
+La Secretaría del Ayuntamiento puede recaer en el Síndico previa aprobación por mayoría absoluta del Ayuntamiento, sin que por esta responsabilidad perciba una prestación económica adicional.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 El Presidente Municipal, puede proponer en cualquier momento la designación de un nuevo encargado de la Secretaría del Ayuntamiento, en cuyo caso el Síndico cesa de realizar esta función, previa protesta que rinda el servidor público designado con tal carácter.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2017)</small>
+
+###### Artículo 63 Bis.
+
+La Carta de Origen es aquella certificación que tiene por objeto acreditar la autenticidad del origen del ciudadano mexicano en el extranjero carente de alguna identificación oficial con fotografía.
+
+En dicha certificación se hace constar el origen del peticionario, la fecha de registro de su nacimiento, sus padres y los datos regístrales del acta de nacimiento. El trámite se realizará en el municipio en el que se registró el nacimiento del peticionario.
+
+La Carta de Origen será expedida a petición de parte o a través de familiares consanguíneos hasta el cuarto grado, con carta poder simple, acompañados de dos testigos que aseguren conocer al interesado.
+
+Son requisitos para la expedición de la Carta de Origen:
+
+I. Copia certificada reciente del acta de nacimiento o de su extracto, de la persona respecto de la cual se solicita la Carta de Origen;
+
+II. Dos fotografías tamaño pasaporte a color con fondo blanco, de la persona respecto de la cual se solicita la Carta de Origen;
+
+III. Llenado de la solicitud en la que especifique el motivo por el cual requiere la Carta de Origen;
+
+IV. Copia certificada reciente del acta de nacimiento de los familiares comparecientes e identificación oficial; y
+
+V. Pago del derecho correspondiente.
 
 ###### Artículo 64.
 
@@ -2644,3 +2670,15 @@ P.O. 26 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25918/LXI/16 QUE REFORMA LOS ARTÍCULOS 7, 8, 9, 10, 11, 15, 17, 20, 23, 24, 25, 26, 27, 32, 36, 37, 38, 38 BIS, 39 BIS, 41, 44, 47, 48, 50, 51, 51 BIS, 51 TER, 60, 62, 65, 67, 68, 72, 73, 77, 79 BIS, 80, 88, 93, 93 BIS, 94, 95, 98, 102, 103, 104, 107, 119, 121, 123 BIS, 124, 125, 126, 127, 128, 129, 130, 131, 132, 132 BIS, 133 BIS, 134, 136, 142, 144, 145 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, LOS ARTÍCULOS 61, 69, Y 76 BIS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y EL ARTÍCULO 179 DE LA LEY DE HACIENDA PÚBLICA MUNICIPAL TODAS DEL ESTADO DE JALISCO".]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".]
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26214/LXI/16, QUE REFORMA EL ARTÍCULO 63 Y ADICIONA EL 63 BIS A LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. En tanto se actualizan las Leyes de Ingresos de los municipios, los derechos que se cobren por la emisión de las Cartas de Origen será un impuesto igual al que se cobre por la emisión de otro tipo de constancias, tomándose como base el cobro más bajo para cada una de ellas.
+
+TERCERO. En el cuerpo del texto de la Carta de Origen se deberá especificar que solamente tendrá validez para trámites ante la Secretaría de Relaciones Exteriores.
+
+CUARTO. La Secretaría General del Gobierno del Estado de Jalisco gestionará con los Ayuntamientos del Estado la unificación de criterios, costos, producción y emisión de un formato único de la Carta de Origen.
