@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2016-12-24"
+last_updated: "2017-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -672,6 +672,10 @@ XII.- Hacer uso del voto de calidad, en los casos de empate en las votaciones.
 XIII.- Turnar las iniciativas a la Comisión, Comisiones o Comités, en un plazo de tres días hábiles, contados a partir de que fueron presentadas.
 
 No obstante lo anterior, como casos de excepción, podrá hacer turnos simplificados de las iniciativas, inmediatamente después de su presentación, cuando la naturaleza de las mismas así lo amerite.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2017)</small>
+
+Las Diputadas y los Diputados pueden acudir ante la Mesa Directiva a solicitar el cambio en el turno realizado, para ello deberán exponer los motivos de su solicitud. La Presidencia pondrá a consideración de los integrantes de la Mesa Directiva los cambios sugeridos para efectos de su autorización, en su caso.
 
 XIV.- Exhortar a las comisiones y comités a realizar sus reuniones con la periodicidad reglamentaria, o de carácter urgente, en su caso, y presentar sus dictámenes en tiempo y forma.
 
@@ -1425,6 +1429,8 @@ No es aplicable lo dispuesto en el artículo anterior, a quien ejerza, cuando me
 
 ### CAPÍTULO VIII. DE LA UNIDAD DE IGUALDAD DE GÉNERO
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 136.
 
 El Congreso contará con una Unidad de Transparencia, cuyas funciones están contempladas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
@@ -1497,7 +1503,21 @@ El Instituto de Estudios e Investigación Legislativa se regulará por el Estatu
 
 ###### ARTÍCULO 143.
 
-En el Congreso se conformará la Unidad de Igualdad de Género, que será un mecanismo de coordinación para la institucionalización de la perspectiva de género.
+En el Congreso se conformará la Unidad de Igualdad de Género, que será un mecanismo de coordinación para la institucionalización de la perspectiva de género, misma que será la encargada de diseñar e implementar las estrategias para la transversalización de la misma; sus funciones serán las siguientes:
+
+a) Proponer acciones orientadas a la igualdad sustantiva en el H. Congreso del Estado;
+
+b) Coadyuvar con los diferentes órganos del H. Congreso del Estado para promover ambientes libres de acoso laboral, así como de acoso y hostigamiento sexual;
+
+c) Proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios de imparcialidad, objetividad, productividad, disposición y compromiso institucional;
+
+d) Contribuir en la formación y especialización del personal de todos los niveles en materia de perspectiva de género e igualdad sustantiva;
+
+e) Ser la responsable de la producción y sistematización de información con perspectiva de género;
+
+f) Generar el Programa anual de trabajo de la Unidad para calendarizar los objetivos y las acciones que tiendan a lograr la igualdad de derechos y oportunidades entre mujeres y hombres, y
+
+g) Vigilar que se cumplan los objetivos y las acciones del Programa anual de trabajo, en la Unidad y en el Congreso.
 
 ###### ARTÍCULO 144.
 
@@ -2250,3 +2270,11 @@ P.O. 24 DE DICIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Todos los asuntos que a la entrada en vigor del presente Decreto se encuentren turnados a la Comisión Especial de Familia, Asuntos Religiosos y Valores, pasan íntegros a la Comisión de Dictamen prevista en la fracción XXV del artículo 96 de la Ley Orgánica del Poder Legislativo, adicionada mediante el mismo.
+
+P.O. 28 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0258/2016 I P.O., POR MEDIO DEL CUAL SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN XIII DEL ARTÍCULO 75 Y SE REFORMA EL 143 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
