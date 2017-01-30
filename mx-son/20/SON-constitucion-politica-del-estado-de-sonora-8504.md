@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2017-01-16"
+last_updated: "2017-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE ENERO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 16 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ENERO DE 2017.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -34,8 +34,6 @@ CESAREO G. SORIANO, Gobernador Constitucional Interino del Estado Libre y Sobera
 Que el Congreso Constituyente del mismo, ha tenido a bien decretar lo siguiente:
 
 EL CONGRESO CONSTITUYENTE DE SONORA, reunido en esta Villa, en virtud de las facultades que le conceden los Decretos Números 90 y 91, de fecha 29 de Marzo de 1917, expedidos por el C. Gobernador Interino del Estado, de conformidad con el Artículo 1º. del Decreto de 22 de Marzo de 1917 del Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, y con apoyo en el Artículo 5º. del expresado Decreto, en nombre del pueblo sonorense ha tenido a bien expedir la siguiente:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 167, PUBLICADO EN EL B.O. 27 DE SEPTIEMBRE DE 2012, LAS MENCIONES QUE EN DIVERSOS ORDENAMIENTOS LEGALES Y REGLAMENTARIOS SE HAGAN AL CONSEJO ESTATAL ELECTORAL SE ENTENDERÁN REFERIDAS AL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA.</small>
 
 Constitución Política del Estado de Sonora, que reforma la de 1º. de Noviembre de 1872.
 
@@ -923,8 +921,6 @@ XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo 
 
 XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
 
 XIX Bis. Para ratificar o rechazar el nombramiento del Fiscal General de Justicia que haga el Ejecutivo del Estado, así como para objetar el nombramiento de los Fiscales Especializados en materia de delitos electorales y anticorrupción que haga el Fiscal General, las cuales serán por votación de las dos terceras partes de los diputados presentes en la sesión;
@@ -955,17 +951,19 @@ La contratación de las obras o servicios a que se refiere el párrafo anterior,
 
 Para este efecto el Ejecutivo del Estado deberá presentar, previamente al Congreso del Estado, la información técnica y financiera que corresponda a cada proyecto, cuya afectación presupuestal multianual deberá ser aprobada por el voto de las dos terceras partes de los integrantes del Poder Legislativo.
 
-Tratándose de la aprobación de recursos referidos en el párrafo segundo de la presente fracción que pretendan aplicarse durante ejercicios fiscales que trasciendan el periodo constitucional de la administración en la que se pretendan aprobar, no podrán comprometerse más del treinta porciento (sic) de los recursos aprobados para el capítulo de inversiones en infraestructura para el desarrollo del ejercicio fiscal en que se tome la decisión.
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 2017)</small>
 
-La disposición contenida en el párrafo anterior no aplica cuando se trate de afectar recursos para dos o más ejercicios fiscales dentro de un mismo periodo constitucional de gobierno.
+Tratándose de la aprobación de recursos referidos en el párrafo segundo de la presente fracción que pretendan aplicarse durante ejercicios fiscales que trasciendan el período constitucional de la administración en la que se pretendan aprobar, no podrán comprometerse más del treinta por ciento de los recursos aprobados para el capítulo de inversiones en infraestructura para el desarrollo del ejercicio fiscal en que se tome la decisión; siempre y cuando dicho porcentaje no afecte el Balance Presupuestario en términos de la Ley de la materia.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 2017)</small>
+
+Tratándose de la afectación de recursos para dos o más ejercicios fiscales dentro de un mismo período constitucional de gobierno, no aplicará el porcentaje previsto en el párrafo anterior, debiendo en todo momento vigilar que no se afecte el Balance Presupuestario.
 
 XXIII. (DEROGADA, B.O. 22 DE FEBRERO DE 2007)
 
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
 XXIV. Para discutir, modificar, aprobar o reprobar anualmente las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos, así como las modificaciones a dichos presupuestos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -978,8 +976,6 @@ XXIV Bis A. Para legislar y establecer las responsabilidades administrativas de 
 > <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
 XXV. Para revisar anualmente las cuentas públicas del Estado del año anterior que deberá presentar el Ejecutivo y revisar y fiscalizar las de los Municipios que deberán presentar los Ayuntamientos. La revisión de las Cuentas Públicas tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos aprobados en los programas, a cuya ejecución se hayan asignado los recursos presupuestados. Si de la glosa aparecieren discrepancias entre las cantidades ejercidas, las partidas aprobadas y las metas alcanzadas, o no existiere exactitud y justificación de gastos hechos, se determinarán las responsabilidades de acuerdo con la ley.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -1007,13 +1003,9 @@ XXXI. Para expedir la ley que regulará su estructura y funcionamiento internos,
 
 La ley y los reglamentos a que se refieren los párrafos anteriores no podrán ser vetados ni necesitarán la promulgación del Ejecutivo para tener vigencia.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
 
 XXXII. Para nombrar y remover, conforme a esta Constitución y a las leyes, a sus funcionarios y empleados.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 XXXII Bis. (DEROGADA, B.O. 13 DE ENERO DE 2017)
 
@@ -1058,8 +1050,6 @@ XLII. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
 XLIII. Para expedir Leyes y reglamentos concernientes a la recta aplicación de la Ley Federal del Trabajo, en las materias que ésta encomienda a las Autoridades Estatales; así mismo, para expedir las leyes que normen las relaciones de los servidores públicos de los Poderes del Estado y Ayuntamientos y de los trabajadores al servicio de los organismos descentralizados.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -1181,7 +1171,9 @@ F) Investigar los actos u omisiones relativos a irregularidades o conductas ilí
 
 G) Determinar y ejecutar las medidas conducentes a la recuperación de los daños y perjuicios que afecten al erario, en el caso de falta administrativa no grave, fincando a los responsables las indemnizaciones correspondientes, cuando sea detectada esta situación en el ejercicio de sus atribuciones fiscalizadoras. Asimismo, derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, en los términos de esta Constitución y la ley.
 
-> <small>(REFORMADO [N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA LEY DE REFORMAS NÚMERO 102, SE ADVIERTE QUE EL PRESENTE INCISO INCLUYE SEIS PÁRRAFOS], B.O. 13 DE ENERO DE 2017)</small>
+> <small>[N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA LEY DE REFORMAS NÚMERO 102, SE ADVIERTE QUE EL PRESENTE INCISO INCLUYE SEIS PÁRRAFOS]</small>
+
+> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
 
 H) Ejercer las atribuciones referidas a los apartados D, F y G con respecto a los ejercicios presupuestales de los organismos constitucionalmente autónomos.
 
@@ -2401,13 +2393,11 @@ De conformidad con las bases establecidas en la legislación secundaria, los Con
 
 Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ENERO DE 2017)</small>
 
 ###### Artículo 143.
 
-Se reputará como servidor público para los efectos de este título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal, directa o paraestatal, así como municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Instituto Estatal Electoral y de Participación Ciudadana, Consejeros Distritales Electorales, Consejeros Municipales Electorales, del Tribunal Estatal Electoral, del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, del Instituto Superior de Auditoría y Fiscalización, del Tribunal de Justicia Administrativa y quienes laboren en los organismos públicos con autonomía legal.
+Para los efectos de las responsabilidades a que alude este Título Sexto se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Poder Legislativo o en la Administración Pública Estatal, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
@@ -2477,8 +2467,6 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE ENERO DE 2017)</small>
 
 ###### Artículo 144.
@@ -2488,8 +2476,6 @@ El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores P
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE ABRIL DE 1984)</small>
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -2505,9 +2491,11 @@ II. Responsabilidad Penal, cuando los servidores públicos cometan delitos de cu
 
 Las leyes penales determinarán los casos y circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
 
-> <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ENERO DE 2017)</small>
 
-III. Responsabilidad Administrativa, exigible a los servidores públicos cuando éstos incurran en actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+III. Responsabilidad Administrativa, exigible a los servidores públicos cuando éstos incurran en actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones, incluyendo sin limitar, el manejo indebido de recursos públicos y de la deuda pública.
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
 Las sanciones aplicables a esta forma de responsabilidad, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación del servidor público, así como en sanciones económicas, que deberán establecerse de acuerdo con los beneficios obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
@@ -3824,3 +3812,11 @@ En atención al artículo sexto transitorio de la Ley del Servicio Civil, el Tri
 El Tribunal de Justicia Administrativa seguirá conociendo de los juicios y recursos en materia fiscal administrativa, responsabilidad administrativa, responsabilidad objetiva y de servicio civil, que actualmente se encuentran en trámite ante el Tribunal Contencioso Administrativo.
 
 Asimismo, todas aquellas leyes que dentro de sus disposiciones se mencione el Tribunal Contencioso Administrativo se entenderán referidas al Tribunal de Justicia Administrativa.
+
+B.O. 30 DE ENERO DE 2017
+
+## [N. DE E. TRANSITORIO DEL "LEY NÚMERO 99, QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
