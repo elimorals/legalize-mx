@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2015-08-15"
+last_updated: "2017-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 30 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -39,7 +41,7 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33, FRACCIÓN XLII Y 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
 
-C O N S I D E R A N D O
+C O N S I D E R A N D O...
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -499,7 +501,7 @@ El servicio de transporte público es aquél que se lleva a cabo de manera conti
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
-Los vehículos destinados al transporte público cualquiera que sea su clasificación, deberán llevar en la parte externa del capacete la matrícula que corresponda a su placa de circulación, conforme las especificaciones que determine el Reglamento. La falta de cumplimiento de las disposiciones señaladas, será suficiente para el aseguramiento del medio de trasporte (sic), hasta que sea subsanada dicha omisión, independientemente de las sanciones aplicables.
+Los vehículos destinados al transporte público cualquiera que sea su clasificación, deberán llevar en la parte externa del capacete la matrícula que corresponda a su placa de circulación, conforme las especificaciones que determine el Reglamento. La falta de cumplimiento de las disposiciones señaladas, será suficiente para el aseguramiento del medio de trasporte, hasta que sea subsanada dicha omisión, independientemente de las sanciones aplicables.
 
 El prestador del servicio podrá ser una entidad estatal, persona física o moral con fines lucrativos, autorizada para la prestación del servicio de transporte público y serán de:
 
@@ -2680,3 +2682,83 @@ PRIMERO- El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO.- Se concede a los concesionarios y permisionarios del servicio de transporte público, el plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para que, realicen las adecuaciones necesarias a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
 
 TERCERO.- El Ejecutivo del Estado a través de la Secretaría General de Gobierno y la Dirección General de Transporte y de la Seguridad Vial, deberán tomar las medidas pertinentes a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
+
+P.O. 30 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 240 POR EL QUE SE APRUEBA LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga la Ley del Transporte y de la Seguridad Vial del Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el 23 de septiembre de 2006.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+CUARTO. El Ejecutivo del Estado, en el ámbito de su competencia, estará facultado para emitir los reglamentos, acuerdos, decretos y lineamientos que estime pertinentes para proveer en la esfera administrativa la exacta observancia de las disposiciones contenidas en la presente ley. En tanto se expiden, se aplicará el Reglamento de Tránsito y Vialidad vigente, en todo aquello que no se oponga al contenido de la presente Ley.
+
+QUINTO. Los ayuntamientos, en el ámbito de su competencia, deberán expedir o adecuar los reglamentos municipales que deriven de esta Ley, permaneciendo entre tanto vigentes los reglamentos municipales existentes, en todo aquello que no se oponga al contenido de la presente Ley.
+
+SEXTO. A efecto de actualizar el Registro Estatal de Instrumentos de Relacionamiento Público-Privado, para contar con un control adecuado de las concesiones y permisos del servicio público de transporte y brindar certeza jurídica a quienes de manera continua y permanente lo han venido presentando sin contar formalmente con el acto administrativo de concesión o con el título de concesión correspondiente, la Secretaría continuará con el Programa de Actualización del Padrón de Concesiones de Transporte Público del Estado de Colima, instrumentándolo como un programa permanente.
+
+SÉPTIMO. Los permisos y autorizaciones otorgadas al amparo de la Ley que se abroga, conservarán su vigencia y quienes sean sus titulares mantendrán los derechos que de ellos se deriven, debiendo regirse en lo sucesivo, sin perjuicio de tal vigencia y derechos adquiridos, por las disposiciones de la presente Ley y sus reglamentos.
+
+Las concesiones otorgadas al amparo de la Ley que se abroga, conservarán su vigencia de forma indefinida y quienes sean sus titulares mantendrán los derechos que de ellos se deriven, debiendo regirse en lo sucesivo, sin perjuicio de tal vigencia y derechos adquiridos, por las disposiciones de la presente Ley y sus reglamentos.
+
+OCTAVO. Los titulares de concesiones otorgadas antes de la publicación de la presente Ley, tendrán derecho a contar con un Título de Concesión actualizado una vez que acredite haber cumplido con el Programa de Actualización del Padrón de Concesiones de Transporte Público del Estado de Colima, en el que avale la relación público-privada para la prestación del servicio, en los términos señalados en este ordenamiento.
+
+NOVENO. Los títulos de concesión que cuenten con una cotitularidad con anterioridad a la entrada en vigor de la presente Ley, persistirán sus efectos mientras sobrevivan los cotitulares.
+
+DÉCIMO. Con la finalidad de apoyar la consolidación de empresas de transporte público colectivo y el ajuste interno, escisión o fusión de las sociedades existentes, la Secretaría fungirá como facilitador de los procesos, ajustando el pago de las transmisiones que tenga dicho fin a un diez por ciento de su costo vigente durante los ciento ochenta días a la entrada en vigor de la Ley.
+
+DÉCIMO PRIMERO. A partir de la entrada en vigor de la presente Ley, se promoverá que los vehículos de transporte público motorizado individual (taxi) contengan en lo posible los dispositivos mínimos de seguridad que se establecen en la presente Ley para cada modalidad. Aquellos que se encuentren ya registrados podrán ser reemplazados por vehículos autorizados, cuando las condiciones físico-mecánicas requieran de la renovación anticipada del vehículo, o cuando cumplan con 9 años de servicio de acuerdo al año de fabricación, cualquiera que ocurra primero.
+
+DÉCIMO SEGUNDO. La tarifa preferencial aplicada a todos los estudiantes inscritos en instituciones adscritas en la Secretaría de Educación del Estado podrá ser aplicada una vez concluido el estudio tarifario dentro del Programa de Modernización del Transporte Público.
+
+DÉCIMO TERCERO. Para los vehículos que operan el servicio de transporte público individual que cumplan con los requerimientos físico-mecánicos y de operación de la modalidad de taxi estándar, se realizará el cambio de modalidad en el Título de Concesión correspondiente, dando preferencia a los concesionarios existentes.
+
+DÉCIMO CUARTO. Dentro de los 120 días posteriores a la entrada en vigor de la presente Ley, deberá revisarse la tarifa actual con respecto a las condiciones actuales de operación, para lograr el ajuste necesario en el mismo año.
+
+DÉCIMO QUINTO. La implementación de los nuevos esquemas de tarifa técnica y social, así como los subsidios correspondientes deberán ajustarse cuando el Estado esté en grado de invertir en la infraestructura y equipamiento necesario para apoyar la reducción de los costos de operación del sector de transporte.
+
+DÉCIMO SEXTO. La aplicación de los subsidios generalizados para los grupos vulnerables serán aplicados gradualmente respetando los acuerdos previos con los concesionarios, privilegiando la implementación gradual de los mismos, ajustados a la capacidad financiera del sistema y de las aportaciones del Estado. La aplicación de tarifas preferenciales deberán aplicarse en la medida en que se establezcan los acuerdos correspondientes.
+
+En el caso de la tarifa para estudiantes, la aplicación del subsidio se determinará y operará tomando en cuenta las disposiciones contenidas en los acuerdos celebrados entre el Ejecutivo del Estado, concesionarios y Federación de Estudiantes Colimenses de fecha 31 de octubre del 2012 y protocolizados ante fedatario público en fecha 30 de enero de 2013.
+
+DÉCIMO SÉPTIMO. Las tarifas preferenciales que hagan referencia al pago a través de sistemas de prepago, se aplicarán a partir de la implementación de dicha tecnología.
+
+DÉCIMO OCTAVO. En la Ley de Hacienda del Estado se deberán incluir los conceptos de cobro relativos a las autorizaciones, permisos y procesos que se prevén en la presente Ley.
+
+DÉCIMO NOVENO. La integración de Sistema de Transporte Público Convencional al Sistema Integrado de Transporte Público Regional, a que se refiere la presente Ley, deberá completarse en un plazo no mayor a diez años.
+
+Para llevar a cabo la integración señalada en el párrafo anterior, el Sistema de Transporte Público Convencional estará a lo siguiente:
+
+I. Se conformará de las modalidades de transporte colectivo, individual motorizado, especial y de carga que funciona bajo las condiciones establecidas en la Ley;
+
+II. Las modalidades de transporte colectivo e individual motorizado podrán incorporarse al Sistema Integrado de Transporte Público Regional, cuando los concesionarios cumplan con las características de organización y operación requerida (sic) para este tipo de servicio;
+
+III. Las rutas del Sistema de Transporte Público Convencional en las áreas urbanas se regirán bajo el rol único de planeación de servicios. Dichas rutas podrán incorporarse al Sistema Integrado de Transporte Público Regional cuando el concesionario cumpla con las características de organización y operación requeridas para los servicios que la integran;
+
+IV. Para lo anterior, la Secretaría establecerá el Programa de Modernización del Transporte Público para el Estado de Colima, estableciendo las reglas y mecanismos para dicha transferencia; y
+
+V. La Secretaría tomará las medidas pertinentes para mantener el equilibrio entre la oferta y la demanda, así como para evitar la superposición innecesaria de rutas, considerando para este último caso que la proporción de la longitud de los tramos donde coincidan no deberá exceder de un sesenta por ciento con relación a la longitud total de algunas de ellas.
+
+VIGÉSIMO. La Secretaría en coordinación con el Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima desarrollarán las gestiones para que el Estado cuente con el equipamiento necesario para la implementación de las disposiciones de verificación vehicular por emisiones contaminantes a los vehículos registrados en el Estado, misma que será condicionante para la implementación de dichas disposiciones.
+
+VIGÉSIMO PRIMERO. Los trámites y procedimientos administrativos, los de aplicación de sanciones y la substanciación de los recursos iniciados o interpuestos antes de la entrada en vigor de la presente Ley, serán concluidos y resueltos por las autoridades correspondientes, de conformidad con las disposiciones legales vigentes al momento de su inicio o aplicación respectivos.
+
+VIGÉSIMO SEGUNDO. Los convenios y acuerdos de coordinación y colaboración administrativa relativos al servicio público y especial de transporte, celebrados con anterioridad a la entrada en vigor de la presente Ley, quedarán sujetos a la ratificación por parte de la Secretaría a solicitud de las partes, en su caso se modificarán en atención a las reformas legales y reglamentos aplicables.
+
+VIGÉSIMO TERCERO. El Sistema de Recaudo para el Sistema Integrado de Transporte Público Regional previsto por el artículo 357 y demás correlativos y concordantes de la presente Ley, deberá establecerse una vez que la Secretaría y agrupaciones de transportistas establezcan los consensos para su implementación, que constituya un beneficio tangible para los usuarios.
+
+VIGÉSIMO CUARTO. Para el caso del servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas, la flota de vehículos no deberá superar el 4% del parque vehicular del servicio de transporte público individual motorizado en todas sus modalidades para el año 2017. Dicho porcentaje podrá modificarse anualmente de conformidad al informe técnico de la oferta y demanda que al respecto emita la Secretaría para su debida aprobación por el Ejecutivo del Estado.
+
+La Secretaría regulará el mecanismo para llevar a cabo el registro y control de los vehículos que presten el servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas, garantizando la competencia económica y el cumplimiento del porcentaje que establece el artículo 171 de la presente Ley.
+
+En el caso de la primera convocatoria los permisos para esta modalidad podrán otorgarse a vehículos de una antigüedad máxima de dos años, los cuales deberán contar con las características que exige la presente Ley para el servicio de taxi estándar y o taxi ejecutivo público, hasta en tanto se cubra el porcentaje señalado en el primer párrafo. Debiendo renovar su flota vehicular en un máximo de tres años, cumpliendo para ello con las características de los vehículos que señala el artículo 169 de la presente Ley.
+
+A partir de la segunda convocatoria, todos los vehículos que se registren deberán cubrir las características de los vehículos que señala el artículo 169 de la presente Ley.
+
+VIGÉSIMO QUINTO. Los contratos de arrendamiento a que se refiere el artículo 343 del presente Decreto, deberán regularizarse por el concesionario dentro de un año, contando a partir de la entrada en vigor de la presente Ley. De no hacerlo la Secretaría procederá a exigir la prestación personal y habitual de servicio en los casos descritos por dicho artículo.
+
+VIGÉSIMO SEXTO. En ningún caso el Ejecutivo del Estado podrá cancelar el derecho a la concesión cuando el concesionario haya demostrado el cumplimiento de sus obligaciones.
+
+El Gobernador del Estado dispondrá se publique, circule y observe.
