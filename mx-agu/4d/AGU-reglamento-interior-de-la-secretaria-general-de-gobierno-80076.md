@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-general-de-gobierno-80076"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-24"
-last_updated: "2016-05-30"
+last_updated: "2017-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el jueves 24 de febrero de 2011.
 
@@ -305,7 +305,7 @@ XLII. Organizar el servicio nacional de empleo en Aguascalientes, a efecto de pr
 
 > <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2014)</small>
 
-XLIII. Previo acuerdo delegatorio del Gobernador del Estado, expedir, cancelar y revocar las concesiones de competencia estatal, así como expedir los permisos, licencias y autorizaciones que no estén asignadas legalmente a otras dependencias o entidades. En materia de transporte público otorgar y revocar las concesiones para la prestación del servicio público de transporte local de pasajeros y de carga, así como ejercer las demás facultades que se le señalen en el capítulo IV del Titulo Décimo Quinto del Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes;
+XLIII. Previo acuerdo delegatorio del Gobernador del Estado, expedir, cancelar y revocar las concesiones de competencia estatal, así como expedir los permisos, licencias y autorizaciones que no estén asignadas legalmente a otras dependencias o entidades. En materia de transporte público otorgar y revocar las concesiones para la prestación del servicio público de transporte local de pasajeros y de carga, así como ejercer las demás facultades que se le señalen en el capítulo IV del Título Décimo Quinto del Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes;
 
 > <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2014)</small>
 
@@ -1181,6 +1181,70 @@ II. El Tribunal de Arbitraje para los Trabajadores al Servicio de los gobiernos 
 
 Los Tribunales Administrativos a que se refiere el artículo anterior se regirán por los ordenamientos jurídicos aplicables en su ámbito de competencia.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE ENERO DE 2017)</small>
+
+#### SECCIÓN DÉCIMA CUARTA. Del Órgano Desconcentrado Asesoría Jurídica de Atención a Víctimas u Ofendidos del Delito
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 42.
+
+Al Frente del Órgano Desconcentrado de Asesoría Jurídica de Atención a Víctimas u Ofendidos del Delito, habrá un Director General designado por el Secretario General del Gobierno, y dependerá orgánicamente de éste. El organismo deberá contar como mínimo con las áreas de Asesoría Jurídica, Representación en Litigio Oral a Víctimas, atención Psicológica y Vinculación Multidisciplinaria, para garantizar los derechos humanos de las Víctimas u Ofendidos del Delito.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 43.
+
+El Director General del Órgano Desconcentrado tendrá las mismas atribuciones genéricas señaladas para los Directores Generales en el Presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2017)</small>
+
+###### ARTÍCULO 44.
+
+Corresponde al Director General del Órgano Desconcentrado de Asesoría Jurídica de Atención a Víctimas u Ofendidos del Delito, la atención y despacho de las siguientes atribuciones y facultades:
+
+I. Organizar, dirigir, evaluar y controlar los servicios de asesoría jurídica a las víctimas u ofendidos de hechos delictivos y violación a sus derechos humanos;
+
+II. Garantizar los derechos de las víctimas u ofendidos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Local, los Tratados Internacionales de los que México sea parte y la demás normatividad aplicable, a fin de permitir el acceso a la justicia y a la reparación integral;
+
+III. Seleccionar y capacitar a los servidores públicos encargados de brindar el servicio de asesoría jurídica;
+
+IV. Remitir a la Secretaría de Fiscalización y Rendición de Cuentas las quejas de las víctimas presenten en contra del personal encargado de brindar el servicio de asesoría jurídica;
+
+V. Vigilar el cumplimiento de las obligaciones impuestas al personal de asesoría jurídica, en el Manual de Organización;
+
+VI. Celebrar convenios de coordinación con las autoridades competentes para la correcta defensa de los derechos de las víctimas u ofendidos;
+
+VII. Coordinarse con la Fiscalía General del Estado y el Supremo Tribunal de Justicia en el Estado y con las demás áreas que presten atención a las víctimas y ofendidos;
+
+VIII. Dirigir y liderar el proceso técnico-administrativo de planeación, programación, organización, formulación de requerimientos de recursos, ejecución, seguimiento, control y evaluación por lo que respecta a la atención especializada integral médica, psicológica, jurídica y de trabajo social, a víctimas u ofendidos de delito, así como a la vinculación, coordinación y colaboración interinstitucional correspondiente con todas las entidades y dependencias del Gobierno del Estado;
+
+IX. Dirigir y liderar los procesos específicos de los servicios de atención especializada a víctimas y ofendidos de delito, así como a familiares de éstas, ya sea de forma directa o en coordinación con las instituciones especializadas competentes, asegurando que dicha atención sea oportuna, integral y adecuada;
+
+X. Vigilar que con la intervención que corresponda a otras instancias, los servicios de atención especializada a víctimas y ofendidos de delito, así como a familiares de éstas, se brinden a los protocolos nacionales e internacionales y que la calidad de los servicios brindados sea la adecuada, implementando los ajustes recomendados en las evaluaciones que periódicamente se practiquen;
+
+XI. Establecer los mecanismos para el monitoreo y seguimiento del desahogo de la atención brindada tanto por el Órgano Desconcentrado, como por las entidades y dependencias del Gobierno del Estado sea oportuna, integral y adecuada;
+
+XII. Asegurar que, en los casos de urgencia, se valoren las necesidades prioritarias de víctimas y ofendidos de delito, así como a los familiares de manera que puedan ser atendidos en el marco de las disposiciones que resulten aplicables, a través de los medios de enlace y mecanismos institucionales establecidos, así como a través del Sistema Estatal de Atención a Víctimas u Ofendidos del Delito;
+
+XIII. Asegurar que operen los mecanismos de vinculación a las instancias competentes del Gobierno del Estado y Municipios, según las necesidades particulares que cada caso amerite;
+
+XIV. Contar con datos estadísticos y de información relacionados con víctimas u ofendidos de delitos, en la atención que éstos reciban tanto de la Fiscalía General del Estado, como de otras instancias públicas Federales y Estatales, en el marco de la colaboración prevaleciente;
+
+XV. Dirigir las gestiones que faciliten la solicitud de información y apoyo a las instituciones públicas, incluidas las involucradas en la investigación de los delitos, que se requieran para la atención especializada a víctimas y ofendidos de delitos, así como a los familiares de éstas, ya sea de forma directa o por instituciones especializadas, procurando el apego debido a la confidencialidad de datos personales y en el caso de la averiguación previa y el juicio penal a la reserva de las mismas;
+
+XVI. Participar en grupos y mesas de trabajo para la gestión e intercambio de información y de recursos con las instancias gubernamentales de los tres órdenes de gobierno, que requiera la consecución de la misión institucional, además de poder llevar a cabo la ejecución de proyectos y recursos para el crecimiento del Órgano;
+
+XVII. Disponer acciones para detectar las necesidades de capacitación, difusión y fomento de la cultura de la atención y detección de víctimas y ofendidos de delitos en los servidores públicos, así como de los organismos de los tres niveles de gobierno, de la sociedad civil y fundaciones, dedicados al apoyo de aquéllas;
+
+XVIII. Dirigir y liderar los procesos específicos de acompañamiento, asesoría y, en su caso, la representación legal, en los procesos penales en favor de las víctimas y ofendidos de delitos, ya sea de forma directa o en coordinación con las instituciones especializadas competentes, asegurando que dicha atención sea oportuna, integral y adecuada.
+
+XIX. Dirigir las gestiones que faciliten la solicitud de información y apoyo a las instituciones públicas, incluidas las involucradas en la investigación de los delitos, que se requiera para el otorgamiento de servicios jurídicos integrales y especializados, a víctimas y ofendidos de delitos, tanto en la fase de proceso penal como en los juicios de amparo, asegurando el apego debido a la confidencialidad de datos personales y a la reserva de la misma;
+
+XX. Asegurar el establecimiento de un adecuado y actualizado marco normativo interno, para la atención a las víctimas y ofendidos de delitos, y las diversas actividades que la organización realice, proporcionando regulación, seguridad y certeza jurídica a las Unidades Administrativas y los servidores públicos;
+
+XXI. Las demás que específicamente le confiera la Ley de Atención y Protección a la Víctima y al Ofendido del Delito para el Estado de Aguascalientes, la Legislación Federal, los Protocolos Internacionales y el propio Secretario General de Gobierno.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1238,3 +1302,11 @@ Las presentes modificaciones entrarán en vigencia al día siguiente de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Se abroga el Decreto por el cual se crea la Coordinación del Servicio LOCATEL, publicado en el Periódico Oficial del Estado el día 18 de enero de 2010.
+
+P.O. 30 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DE “REFORMAS AL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO”.]
+
+###### ARTICULO ÚNICO.
+
+Las presentes adiciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
