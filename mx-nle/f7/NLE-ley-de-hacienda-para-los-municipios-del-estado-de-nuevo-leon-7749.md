@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2016-12-30"
+last_updated: "2017-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "NLE"
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE ENERO DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2159,9 +2161,9 @@ Quedan exentos de los Derechos señalados en el Artículo 52 de esta Ley, los en
 
 Por la inscripción de nuevos fraccionamientos o ampliaciones a los ya existentes, que apruebe la Autoridad Municipal, se cubrirán los siguientes derechos por metro cuadrado del área vendible:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016) (F. DE E., P.O. 30 DE ENERO DE 2017)
 
-a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados 0.322 cuotas
+a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados 0.0322 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3053,9 +3055,9 @@ En el caso de los contribuyentes mencionados en los incisos a) y b), deberán ef
 
 Por ocupación de la vía pública:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016) (F. DE E., P.O. 30 DE ENERO DE 2017)
 
-I. Por ocupar la vía pública con toda clase de instalaciones fijas o semifijas, se pagarán 0.224 cuotas diarias por metro cuadrado completo o fracción. En ningún caso la cantidad a pagar será inferior a lo que corresponda por un metro.
+I. Por ocupar la vía pública con toda clase de instalaciones fijas o semifijas, se pagarán 0.0224 cuotas diarias por metro cuadrado completo o fracción. En ningún caso la cantidad a pagar será inferior a lo que corresponda por un metro.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
