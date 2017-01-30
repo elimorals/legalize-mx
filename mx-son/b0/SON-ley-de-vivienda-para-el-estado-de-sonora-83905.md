@@ -4,7 +4,7 @@ identifier: "SON-ley-de-vivienda-para-el-estado-de-sonora-83905"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-07"
-last_updated: "2016-09-29"
+last_updated: "2017-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 166 DE VIVIENDA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 7 de noviembre de 2011.
 
@@ -85,15 +85,25 @@ XI.- Promover y estimular la producción y distribución de materiales y element
 
 XII.- Difundir entre la población la información relativa a los programas públicos en materia de vivienda, así como los organismos y empresas que se apegan a ellas;
 
-XIII.- Implementar políticas ambientales en los planes y programas que maneje la Comisión; y
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 2017)</small>
 
-XIV.- Promover la participación social y la integración vecinal para mejorar la conservación, mantenimiento y el desarrollo social de los distintos desarrollos habitacionales.
+XIII.- Implementar políticas ambientales en los planes y programas que maneje la Comisión;
+
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 2017)</small>
+
+XIV.- Promover la participación social y la integración vecinal para mejorar la conservación, mantenimiento y el desarrollo social de los distintos desarrollos habitacionales; y
+
+> <small>(ADICIONADA, B.O. 30 DE ENERO DE 2017)</small>
+
+XV.- Instituir, proponer, someter y/o convenir en coordinación con las autoridades del orden municipal, estatal y federal, según sea el caso, las políticas y programas públicos de vivienda, encaminadas a la corrección y prevención del fenómeno social que afecta a la entidad, relacionada con el gran número de viviendas abandonadas y/o despojadas.
 
 ###### Artículo 4.
 
 Las políticas y los programas públicos de vivienda, así como sus instrumentos y apoyos, deberán considerar los distintos tipos y modalidades de producción habitacional, fundamentalmente la vivienda popular o económica y de interés social; en propiedad, arrendamiento o en otras formas legítimas de tenencia.
 
-Se deberán considerar también las diversas necesidades habitacionales, como son: adquisición o habilitación de suelo, en cualquiera de las modalidades de uso; lotes con infraestructura básica; parques de materiales para construcción de vivienda; mejoramiento de vivienda; sustitución de vivienda; vivienda nueva; capacitación; asistencia integral e investigación de vivienda y suelo.
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 2017)</small>
+
+Se deberán considerar también las diversas necesidades habitacionales, como son: adquisición o habilitación de suelo, en cualquiera de las modalidades de uso; lotes con infraestructura básica; parques de materiales para construcción de vivienda; mejoramiento de vivienda; sustitución de vivienda; vivienda nueva; capacitación; asistencia integral e investigación de vivienda y suelo; y, recuperación, remozamiento y venta de viviendas abandonadas.
 
 Además, se propiciará que la oferta de vivienda digna refleje los costos de suelo, infraestructura, servicios, edificación, financiamiento y titulación más bajos de los mercados respectivos, para lo cual, se deberán incorporar medidas de información, competencia, transparencia y las demás que sean convenientes para lograr este propósito.
 
@@ -117,7 +127,9 @@ VII.- Mejoramiento de vivienda: la acción tendiente a consolidar o renovar las 
 
 VIII.- Conectividad: se refiere a la habilitación física de la construcción que permite la canalización del medio necesario para posibilitar la conexión de la vivienda a redes de telecomunicaciones que facultan la prestación de servicios informáticos y de comunicaciones, que emanan de las tecnologías de información y telecomunicaciones. Las especificaciones para dicha habilitación serán establecidas en el reglamento de esta ley y deberán observar las normas técnicas, estándares internacionales y disposiciones aplicables en la materia;
 
-IX.- Políticas estatales de vivienda: el conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para las acciones de vivienda que realicen las autoridades del Estado y de los municipios, así como su concertación con los sectores privado y social, con la finalidad de cumplir con el mandato constitucional del derecho a la vivienda digna y decorosa, en congruencia con lo establecido en el Programa Nacional de Vivienda;
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 2017)</small>
+
+IX.- Políticas estatales de vivienda: el conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para las acciones de vivienda que realicen las autoridades del Estado y de los municipios, así como su concertación con los sectores privado y social, con la finalidad de cumplir con el mandato constitucional del derecho a la vivienda digna y decorosa, ya sea de vivienda de nueva creación o de recuperación de las viviendas abandonadas, en congruencia con lo establecido en el Programa Nacional de Vivienda;
 
 X.- Producción social de vivienda: aquélla que se realiza bajo el control de auto-productores y auto-constructores que operan sin fines de lucro y que se orienta prioritariamente a atender las necesidades habitacionales de la población de bajos ingresos; incluye aquélla que se realiza por procedimientos autogestivo y solidarios que dan prioridad al valor de uso de la vivienda por sobre la definición mercantil, mezclando recursos, procedimientos constructivos y tecnologías con base en sus propias necesidades y su capacidad de gestión y toma de decisiones;
 
@@ -129,9 +141,17 @@ XIII.- Vivienda de interés social: aquella que sea adquirida o susceptible de s
 
 XIV.- Vivienda digna y decorosa: la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, habitabilidad, salubridad, que cuente con los servicios básicos y de conectividad y que brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos;
 
-XV.- Vivienda popular o económica; aquella que sea adquirida o susceptible de ser adquirida por personas de bajo ingreso sujetos a subsidio federal, estatal o municipal para adquisición de vivienda. En el caso de no existir un programa de subsidios, se considerara aquella cuyo monto al término de su edificación, no exceda del valor que resulte de multiplicar por once el salario mínimo general diario vigente en el Distrito Federal, elevada esta cantidad al año; y
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 2017)</small>
 
-XVI.- Vivienda progresiva; aquella que se construye en etapas de acuerdo a los recursos económicos del beneficiario y necesidades de los propios usuarios.
+XV.- Vivienda popular o económica; aquella que sea adquirida o susceptible de ser adquirida por personas de bajo ingreso sujetos a subsidio federal, estatal o municipal para adquisición de vivienda. En el caso de no existir un programa de subsidios, se considerara aquella cuyo monto al término de su edificación, no exceda del valor que resulte de multiplicar por once el salario mínimo general diario vigente en el Distrito Federal, elevada esta cantidad al año;
+
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 2017)</small>
+
+XVI.- Vivienda progresiva; aquella que se construye en etapas de acuerdo a los recursos económicos del beneficiario y necesidades de los propios usuarios; y
+
+> <small>(ADICIONADA, B.O. 30 DE ENERO DE 2017)</small>
+
+XVII.- Vivienda abandonada; edificación cuyo estado es el abandono y deterioro de la misma, cuya situación pone en riesgo a la sociedad como foco de infección y fomento a la delincuencia.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ORGANISMOS AUXILIARES
 
@@ -249,7 +269,13 @@ XXXIV.- Formular el Programa Estatal de Vivienda en congruencia con los lineamie
 
 XXXV.- Evaluar y dar seguimiento a la aplicación de los fondos que se deriven de las acciones e inversiones convenidas con otras instancias públicas o privadas, en los términos de las fracciones anteriores;
 
-XXXVI.- Las demás que le señale la presente ley y las demás disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 2017)</small>
+
+XXXVI.- Implementar programas, esquemas y mecanismos, los cuales podrán ser en concurrencia con los ayuntamientos, para la adquisición de vivienda abandonada o en desuso por parte de personas interesadas, fungiendo como intermediario entre éstos y los propietarios de dichas viviendas, dependencias y organismos públicos, sociedades dedicadas a la construcción de vivienda e instituciones de crédito, como un medio para disminuir los índices de vandalismo en viviendas, prevenir su invasión y mejorar la salubridad; asimismo, se le impondrá la sanción administrativa correspondiente al propietario de toda aquella vivienda que no sea atendida y que se encuentre en estado de abandono; y
+
+> <small>(ADICIONADA, B.O. 30 DE ENERO DE 2017)</small>
+
+XXXVII.- Las demás que le señale la presente ley y las demás disposiciones legales y normativas aplicables.
 
 ###### Artículo 11.
 
@@ -853,7 +879,7 @@ Cuando las viviendas de interés social y lotes regidos por esta ley se constitu
 
 ###### Artículo 72 Bis.
 
-Dentro del documento o ínstrumento jurídico que utilice la Comisión de Vivienda del Estado de Sonora para la transmisión de propiedad para vivienda de interés social, popular o económica, deberá incluir la siguiente clausula: “El inmueble objeto de este acto jurídico, se encuentra destinado al patrimonio de familia, en beneficio de la familia adquiriente, por lo que es inalienable y no puede ser objeto de embargo ni gravamen alguno, así mismo quedará constituido el Testamento Público Simplificado de lo cual deberá tomarse nota al hacerse la inscripción en el Registro Público de la Propiedad”.
+Dentro del documento o ínstrumento jurídico que utilice la Comisión de Vivienda del Estado de Sonora para la transmisión de propiedad para vivienda de interés social, popular o económica, deberá incluir la siguiente clausula: “El inmueble objeto de este acto jurídico, se encuentra destinado al patrimonio de familia, en beneficio de la familia del adquiriente, por lo que es inalienable y no puede ser objeto de embargo ni gravamen alguno, así mismo quedará constituido el Testamento Público Simplificado de lo cual deberá tomarse nota al hacerse la inscripción en el Registro Público de la Propiedad”.
 
 ### CAPÍTULO XV. DE LOS COMITÉS DE PARTICIPACIÓN CIUDADANA
 
@@ -1030,6 +1056,14 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A
 P.O. 29 DE SEPTIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 80, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE SONORA"].
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 30 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 92 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
