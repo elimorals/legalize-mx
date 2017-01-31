@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ingresos-del-estado-de-quintana-roo-para-el-118250"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-21"
-last_updated: "2016-12-21"
+last_updated: "2017-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118250&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2017.
 
 Ley publicada en el Número 135 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 21 de diciembre de 2016.
 
@@ -44,6 +44,8 @@ LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2017
 En el Ejercicio Fiscal 2017, el Estado de Quintana Roo percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se mencionan:
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 21 DE DICIEMBRE DE 2016, PÁGINAS DE LA 70 A LA 75.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LAS TABLAS EN EL P.O. DE 31 DE ENERO DE 2017, PÁGINA 2.]</small>
 
 ###### ARTÍCULO 2.
 
@@ -170,3 +172,13 @@ C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 31 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 042 POR EL QUE SE REFORMAN LOS IMPORTES DE LA CLASE 011 EMPRÉSTITOS, DEL TIPO 01 ENDEUDAMIENTO INTERNO, DEL RUBRO O INGRESOS DERIVADOS DE FINANCIAMIENTOS Y EL TOTAL DE INGRESOS DEL GOBIERNO, DEL ARTÍCULO 1o. DE LA LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA El EJERCICIO FISCAL 2017”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
