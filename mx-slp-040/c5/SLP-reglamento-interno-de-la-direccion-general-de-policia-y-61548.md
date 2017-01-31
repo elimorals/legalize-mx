@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interno-de-la-direccion-general-de-policia-y-61548"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-29"
-last_updated: "2008-05-29"
+last_updated: "2017-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERNO DE LA DIRECCION GENERAL DE POLICIA Y TRANSITO DEL MUNICIPIO DE TAMUIN, S.L.P
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA DIRECCIÓN GENERAL DE POLICÍA Y TRÁNSITO MUNICIPAL DE TAMUÍN, S.L.P., PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA DIRECCION GENERAL DE POLICIA Y TRANSITO DEL MUNICIPIO DE TAMUIN, SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 29 de mayo de 2008.
 
@@ -727,7 +729,7 @@ DEFINICIÓN, SIGNIFICADO Y COLORES DE INSIGNIAS INSTITUCIONALES
 
 La Dirección General de Policía y Tránsito Municipal tiene como distintivo de la misma dos logotipos, uno de los cuales es el denominado "Sector", que tiene como color de fondo el gris, al centro aparece el escudo de armas del municipio, en la parte inferior de éste se encuentra el mapa del Estado, del cual se proyecta el área que comprende el Municipio hacia arriba a la derecha; en la parte media izquierda se aprecia una Rosa de los Vientos, cuyo significado en esta estructura es que la corporación se desempeñará en todos los puntos cardinales del territorio municipal; a los extremos está inscrito el lema de la corporación: "Servir-Proteger"; en la parte superior la leyenda "Policía y Tránsito" y debajo de esta "Tamuín, S.L.P." Este distintivo será el que porten los elementos en ambas mangas del uniforme.
 
-I.- Adicional al anterior, la DGPTM posee el logotipo de "Placa de pecho", el cual es de color dorado, con un círculo negro en el que se inscribe: "Dirección General de Policía y Tránsito", en la parte central del círculo aparece el escudo de armas del Municipio y en la parte superior el nombre de éste. Este distintivo lo portarán los integrantes de la corporación en la parte superior izquierda de la camisa del uniforme y en el tocado, ya sea keppy o gorra, los vehículos operativos lo ostentarán a ambos lados de los mismos y de manera proporcional al tamaño de la unidad.
+I.- Adicional al anterior, la DGPTM posee el logotipo de "Placa de pecho", el cual es de color dorado, con un círculo negro en el que se inscribe: "Dirección General de Policía y Tránsito", en la parte central del círculo aparece el escudo de armas del Municipio y en la parte superior el nombre de éste. Este distintivo lo portarán los integrantes de la corporación en la parte superior izquierda de la camisa del uniforme y en el tocado, ya sea keppy o gorra, los vehículos operativos lo ostentarán a ambas lados de los mismos y de manera proporcional al tamaño de la unidad.
 
 ###### Artículo 50.
 
@@ -794,3 +796,17 @@ EL SECRETARIO DEL AYUNTAMIENTO
 LIC. MARTHA ROSA SANTOS GONZALEZ
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA DIRECCIÓN GENERAL DE POLICÍA Y TRÁNSITO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interno de la Dirección General de Policía y Tránsito del Municipio de Tamuín, S.L.P.., publicado el día Jueves 29 de mayo del 2008, en el Periódico Oficial del Estado, se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por el presente Reglamento.
+
+TERCERO. Se deberá proceder a la Instalación en un término de 30 días naturales las Comisiones del Comisiones (sic) del Servicio Policial de Carrera y la de Honor y Justicia, así como 45 días para la Expedición del Reglamento Interno de ambas Comisiones.
+
+Se aprueba el Reglamento de la Dirección General de Policía y Tránsito Municipal de Tamuín, S.L.P..
