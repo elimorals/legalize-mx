@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-para-la-evaluacion-963
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-10-22"
-last_updated: "2015-09-04"
+last_updated: "2017-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96315&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2013-10-14"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL PARA LA EVALUACION DE LA EDUCACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN, PUBLICADO EN EL D.O.F. DE 31 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JULIO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O.F DE 4 DE SEPTIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2017 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de octubre de 2013.
 
@@ -1967,7 +1967,7 @@ OCTAVO.- Los órganos colegiados de consulta y asesoramiento del Instituto se in
 
 México, D.F., a 14 de octubre de 2013.- Junta de Gobierno del Instituto Nacional para la Evaluación de la Educación: la Consejera Presidenta, Sylvia Irene Schmelkes del Valle.- Rúbrica.- Los Consejeros: Eduardo Backhoff Escudero, Gilberto Ramón Guevara Niebla, Teresa Bracho González, Margarita María Zorrilla Fierro.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 29 DE JULIO DE 2015.
 
@@ -1980,3 +1980,21 @@ TERCERO.- La Dirección General para la Coordinación del Sistema Nacional de Ev
 CUARTO.- La Coordinación de Direcciones del INEE en las Entidades Federativas, así como las Direcciones Generales Operativa “A” y Operativa “B”, entrarán en funciones una vez que se hayan realizado los ajustes presupuestales por parte de la Unidad de Administración.
 
 QUINTO.- Cuando en la normatividad interna del Instituto Nacional para la Evaluación de la Educación se haga referencia a la Dirección General de Coordinación de las Oficinas en las Entidades Federativas, se entenderá que se trata de la Coordinación de Direcciones del INEE en las Entidades Federativas. Igualmente, cuando la normatividad interna se refiera a las Direcciones de Coordinación Zona “A” y de Coordinación Zona “B”, se entenderá que se trata de las Direcciones Generales Operativa “A” y Operativa “B”, respectivamente.
+
+D.O.F. 31 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN”.]
+
+PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto Nacional para la Evaluación de la Educación, publicado en el Diario Oficial de la Federación, el 22 de octubre de 2013, con efectos a partir del día en que entre en vigor el presente Estatuto.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias que se opongan a lo dispuesto en el presente Estatuto.
+
+CUARTO.- A la entrada en vigor del presente Estatuto Orgánico, los asuntos en trámite se continuarán substanciando por las unidades administrativas a que hace referencia este Acuerdo, de conformidad con las atribuciones conferidas.
+
+QUINTO.- La Unidad de Administración realizará las acciones necesarias para que los recursos humanos, financieros y materiales del Instituto que por virtud de la expedición del presente Estatuto se modifiquen, sean ubicados en las unidades administrativas que correspondan, atendiendo las instrucciones de la Junta.
+
+SEXTO.- Se instruye a la Unidad de Administración para que, en un término no mayor a 180 días hábiles posteriores a la entrada en vigor del presente Acuerdo, expida el Manual de Organización del Instituto, conforme al presente Estatuto.
+
+SÉPTIMO.- Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Estatuto se publique en el Diario Oficial de la Federación.
