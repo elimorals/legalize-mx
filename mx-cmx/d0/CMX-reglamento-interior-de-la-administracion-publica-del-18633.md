@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2016-11-16"
+last_updated: "2017-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2000-12-28"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 31 DE ENERO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -260,25 +262,23 @@ A) La Subsecretaría de Proyectos Estratégicos.
 
 2. Dirección General de Servicios Urbanos;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2017)</small>
 
-3. Dirección General de Proyectos Especiales;
+3.- Dirección General de Servicios Técnicos;
 
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2017)</small>
 
-4. Dirección General de Obras Concesionadas;
+4.- Dirección General de Construcción de Obras para el Transporte, y
 
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2017)</small>
 
-5. Dirección General de Servicios Técnicos.
+5.- Dirección General de Asuntos Jurídicos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE ABRIL DE 2008)</small>
 
 6. Dirección General de Obras Concesionadas.
 
 7. (DEROGADO, G.O. 16 DE JULIO DE 2009)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2013)</small>
 
@@ -307,8 +307,6 @@ VI. A la Secretaría de Desarrollo Social:
 Asimismo, se le adscribe el Órgano Desconcentrado denominado Instituto para la Atención de los Adultos Mayores en el Distrito Federal.
 
 6.- (DEROGADO, G.O. 3 DE SEPTIEMBRE DE 2009)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2013)</small>
 
@@ -4270,19 +4268,19 @@ DE LA SECRETARIA DE OBRAS Y SERVICIOS.
 
 Corresponde a la Dirección General de Obras Públicas:
 
-I. Proyectar, construir y supervisar las obras que de conformidad con el programa anual queden a su cargo;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
+I. Proyectar, construir y supervisar las obras públicas que queden a su cargo;
 
-II. Planear la construcción de escuelas, edificios públicos y obras especiales por su nivel de complejidad en el Distrito Federal, en coordinación con las autoridades competentes;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2013)</small>
+II. Planear la construcción de escuelas, edificios públicos y obras especiales por su nivel de complejidad en la Ciudad de México, en coordinación con las autoridades competentes;
 
-III. Planear, proyectar, construir y supervisar las obras de ampliación de la Red del Transporte Colectivo Metro y su equipamiento.
+III. (DEROGADA, G.O. 31 DE ENERO DE 2017)
 
-> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-IV. Proyectar, construir y supervisar la construcción de escuelas, edificios públicos y obras especiales por su nivel de complejidad que de conformidad con el Programa Anual queden a su cargo;
+IV. Proyectar, construir y supervisar la construcción de escuelas, edificios públicos y obras especiales que queden a su cargo;
 
 V. Emitir opinión sobre los programas de urbanismo y remodelación urbana;
 
@@ -4296,21 +4294,23 @@ VII. (DEROGADA, G.O. 15 DE FEBRERO DE 2013)
 
 VIII. Proyectar y construir la instalación aérea y subterránea en la vialidad primaria y, en su caso, secundaria;
 
-> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-IX. Realizar los estudios, proyectos, construcción, supervisión y mantenimiento de los puentes vehiculares y peatonales en la vialidad primaria, así como de los que comuniquen a dos o más demarcaciones delegacionales;
+IX. Realizar los estudios, proyectos, construcción, supervisión y mantenimiento de los puentes vehiculares y peatonales en la vialidad primaria, así como de los que comuniquen a dos o más demarcaciones territoriales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE JUNIO DE 2007)</small>
 
 X. Promover y realizar las obras de infraestructura requeridas, para la conservación, preservación, mejoramiento, rehabilitación, desarrollo y funcionamiento de las áreas de valor ambiental en suelo urbano en coordinación con la autoridad competente y en el ámbito de sus respectivas competencias;
 
-> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-XI. Coordinar con las dependencias, unidades administrativas, órganos político-administrativos y órganos desconcentrados de la administración pública, la ejecución y supervisión de los programas a su cargo;
+XI. Coordinar con las dependencias, unidades administrativas, órganos político- administrativos, órganos desconcentrados y entidades de la administración pública, la ejecución y supervisión de los programas a su cargo;
 
 XII. Coordinar con las autoridades competentes, las labores de protección civil;
 
-XIII. Informar a los Órganos Político-Administrativos, de las obras que, conforme al programa anual correspondiente, se proyecte ejecutar en sus jurisdicciones; y
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
+
+XIII. Informar a los Órganos Político-Administrativos, de las obras que, conforme al programa anual correspondiente, se proyecte ejecutar en sus jurisdicciones;
 
 XIV. Establecer los métodos constructivos aplicables en obras e instalaciones que se realicen en las vías o áreas públicas y verificar su adecuada ejecución;
 
@@ -4326,41 +4326,57 @@ XVI. Elaborar las bases de licitación, términos de referencia, modelos de cont
 
 XVII. Suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como la terminación anticipada y/o rescisión de los mismos, informando de tales acciones a su superior jerárquico.
 
-> <small>(ADICIONADA, G.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-XVIII. Colaborar con las dependencias, unidades administrativas, órganos político-administrativos y órganos desconcentrados de la administración pública, en la realización de estudios e investigaciones necesarios para optimizar, actualizar, ampliar, construir, equipar y supervisar la infraestructura de movilidad y transporte del Distrito Federal.
+XVIII. Emitir las políticas, estrategias y lineamientos en materia de planeación, proyecto, construcción, supervisión y control de las obras inducidas y complementarias de las obras a su cargo;
 
-> <small>(ADICIONADA, G.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-XIX. Planear, programar, presupuestar, ejecutar y supervisar la construcción de las obras de infraestructura de movilidad y transporte en el Distrito Federal y su equipamiento.
+XIX. Realizar el análisis y diagnóstico para determinar las obras susceptibles de ser concesionadas;
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-XX. Efectuar en coordinación con el Sistema de Transporte Colectivo Metro, los estudios e investigaciones, el proyecto ejecutivo, la construcción y equipamiento de las obras con motivo de la ampliación de la Red.
+XX. Elaborar, en su caso, las declaratorias de necesidad de las obras a concesionarse;
 
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-XXI. Elaborar los proyectos ejecutivos y de detalle para la construcción de las obras de ampliación del Sistema de Transporte Colectivo Metro.
+XXI. Elaborar las bases de licitación, términos de referencia, modelo de contrato y demás documentos necesarios para la concesión de obras públicas;
 
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-XXII. Construir y supervisar las obras e instalaciones fijas de las ampliaciones de la Red del Sistema de Transporte Colectivo Metro, incluyendo sus obras inducidas y complementarias; verificando que se hagan de acuerdo al proyecto, programa y presupuesto autorizados.
+XXII. Establecer los mecanismos para fijar y modificar precios, tarifas o contraprestaciones correspondientes a las obras concesionadas;
 
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-XXIII. Adquirir, transportar, suministrar e instalar los equipos y material de instalación fija que requieran las ampliaciones de la Red del Sistema de Transporte Colectivo Metro.
+XXIII. Elaborar los títulos de concesión de obras públicas, así como sus modificaciones y verificar su debido cumplimiento, de conformidad con la normatividad en la materia;
 
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-XXIV. Entregar las ampliaciones de la Red del Metro al Organismo Sistema de Transporte Colectivo, así como sus obras inducidas y complementarias a las dependencias, órganos desconcentrados, delegaciones y entidades operadoras.
+XXIV. Establecer mecanismos de evaluación y control que garanticen el cumplimiento de las obligaciones contractuales de las obras concesionadas;
 
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-XXV. Efectuar las pruebas requeridas para poner en servicio las ampliaciones de la Red del Sistema de Transporte Colectivo Metro, garantizando la seguridad integral del servicio; y
+XXV. Aprobar los proyectos ejecutivos de las obras concesionadas;
 
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-XXVI. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+XXVI. Supervisar de forma sistemática que la ejecución de los trabajos se lleve a cabo conforme a los términos de referencia establecidos y de acuerdo al proyecto ejecutivo aprobado;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2017)</small>
+
+XXVII. Motivar, fundamentar y tramitar, en su caso, los asuntos de nulidad, extinción, revocación y caducidad de las concesiones, así como elaborar la declaratoria de rescate de los bienes, cuando resulte procedente, en coordinación con la Dirección General de Asuntos Jurídicos, de acuerdo a las disposiciones legales, reglamentarias y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2017)</small>
+
+XXVIII. Dictar las medidas necesarias tendientes a proteger el interés público de las obras concesionadas;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2017)</small>
+
+XXIX. Verificar que la construcción y mantenimiento de obras concesionadas se lleve a cabo en coordinación con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados, así como con las Entidades de la Administración Pública, que corresponda; y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2017)</small>
+
+XXX. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -4400,137 +4416,145 @@ XIII. Llevar a cabo las licitaciones y suscribir los contratos que sean necesari
 
 XIV. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE ENERO DE 2017)</small>
+
 ###### Artículo 59.
-
-(DEROGADO, G.O. 16 DE JULIO DE 2009)
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE ABRIL DE 2008)</small>
-
-###### Artículo 60.
-
-Corresponde a la Dirección General de Proyectos Especiales:
-
-I. Acordar con su superior jerárquico, los asuntos inherentes a los proyectos especiales.
-
-II. Planear, programar y presupuestar los proyectos especiales a su cargo.
-
-III. Realizar los estudios y proyectos de las obras de construcción que por su naturaleza o grado de complejidad requieran trato especial.
-
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2013)</small>
-
-IV. Elaborar las bases de licitación, términos de referencia, modelos de contrato y demás documentos necesarios para la adjudicación de los proyectos, obras y servicios especiales, incluso las financiadas bajo cualquier modalidad prevista por la ley;
-
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2013)</small>
-
-V. Llevar a cabo las licitaciones y suscribir los contratos que sean necesarios para la ejecución de proyectos especiales, así como la terminación anticipada y/o rescisión de los mismos, informando de tales acciones a su superior jerárquico.
-
-VI. Establecer mecanismos de control que garanticen la seguridad de los recursos humanos y materiales durante el desarrollo de la construcción de los proyectos especiales.
-
-VII. Construir y supervisar las obras de los proyectos especiales.
-
-VIII. Verificar que la obra civil de los proyectos especiales, así como sus obras inducidas y complementarias, se realicen de acuerdo con el programa autorizado y de conformidad con los proyectos ejecutivos.
-
-IX. Coordinar con las dependencias, unidades administrativas, delegaciones, órganos desconcentrados, así como con las entidades de la Administración Pública correspondientes, lo relativo a los trabajos de construcción de los proyectos especiales.
-
-X. Verificar el uso del Manual de Aplicaciones de Señales Informativas, previo, durante y después de la ejecución de los proyectos a su cargo.
-
-XI. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
-
-###### Artículo 60 Bis.
-
-(DEROGADO, G.O. 15 DE FEBRERO DE 2013)
-
-> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
-
-###### Artículo 60 Ter.
-
-Corresponde a la Dirección General de Obras Concesionadas:
-
-I. Acordar con su superior jerárquico, los asuntos inherentes a las obras concesionadas a su cargo.
-
-II. Planear, programar y presupuestar los proyectos estratégicos a su cargo.
-
-III. Realizar el análisis y diagnóstico para determinar las obras susceptibles de ser concesionadas.
-
-IV. Elaborar, en su caso, las declaratorias de necesidades de las obras a concesionarse.
-
-V. Elaborar las bases de licitación, términos de referencia, modelo de contrato y demás documentos necesarios para la concesión de obras públicas.
-
-VI. Establecer los mecanismos para fijar y modificar precios, tarifas o contraprestaciones correspondientes a las obras concesionadas.
-
-VII. Elaborar los títulos de concesión de obras públicas, así como sus modificaciones y verificar su debido cumplimiento, de conformidad con la normatividad en la materia.
-
-VIII. Establecer mecanismos de evaluación y control que garanticen el cumplimiento de las obligaciones contractuales de las obras concesionadas.
-
-IX. Aprobar los proyectos ejecutivos de las obras concesionadas.
-
-X. Supervisar de forma sistemática que la ejecución de los trabajos se lleve a cabo conforme a los términos de referencia establecidos y de acuerdo al proyecto ejecutivo aprobado.
-
-XI. Fundamentar y tramitar, en su caso, los asuntos de nulidad, extinción, revocación y caducidad de las concesiones, así como elaborar la declaratoria de rescate de los bienes, cuando resulte procedente, de acuerdo a las disposiciones legales, reglamentarias y administrativas aplicables.
-
-XII. Dictar las medidas necesarias tendientes a proteger el interés público de las obras concesionadas.
-
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2013)</small>
-
-XIII. Difundir y verificar el uso del Manual de Aplicaciones de Señales Informativas, previo, durante y después de la ejecución de las obras concesionadas;
-
-XIV. Establecer mecanismos de control que garanticen la seguridad de los recursos humanos y materiales durante el desarrollo de las obras concesionadas.
-
-XV. Verificar que la construcción y mantenimiento de obras concesionadas se lleve a cabo en coordinación con las dependencias, unidades administrativas, delegaciones, órganos desconcentrados, así como con las entidades de la Administración Pública, que corresponda.
-
-> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2013)</small>
-
-XVI. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
-
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2013)</small>
-
-###### Artículo 60 Quater.
 
 Corresponde a la Dirección General de Servicios Técnicos:
 
-I. Acordar con su superior jerárquico los asuntos inherentes a los proyectos y servicios técnicos necesarios para la adecuada planeación, construcción, operación y conservación de la obra pública de la Ciudad de México;
+I. Planear, programar y presupuestar los proyectos y servicios técnicos necesarios para la adecuada planeación, construcción, operación y conservación de la obra pública de la Ciudad de México;
 
-II. Planear, programar y presupuestar los proyectos a su cargo;
+II. Realizar los proyectos y estudios técnicos de las obras de construcción a cargo de la Secretaría;
 
-III. Realizar los proyectos y estudios técnicos de las obras de construcción que determine el Titular de la Secretaría;
+III. Elaborar las bases de licitación, términos de referencia, modelos de contrato y demás documentos necesarios para la adjudicación de los proyectos y servicios técnicos a su cargo;
 
-IV. Elaborar las bases de licitación, términos de referencia, modelos de contrato y demás documentos necesarios para la adjudicación de los proyectos y servicios técnicos a su cargo;
+IV. Suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como la terminación anticipada y/o rescisión de los mismos, informando de tales acciones a su superior jerárquico;
 
-V. Suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como la terminación anticipada y/o rescisión de los mismos, informando de tales acciones a su superior jerárquico;
+V. Diseñar protocolos para la seguridad de los recursos humanos y materiales durante el desarrollo del proyecto y construcción de la obra pública;
 
-VI. Diseñar protocolos para la seguridad de los recursos humanos y materiales durante el desarrollo del proyecto y construcción de la obra pública;
+VI. Proponer y en su caso implementar alternativas tecnológicas que permitan desarrollar proyectos y construcciones desde un punto de vista de accesibilidad y sustentabilidad;
 
-VII. Proponer y en su caso implementar alternativas tecnológicas que permitan desarrollar proyectos y construcciones desde un punto de vista de accesibilidad y sustentabilidad;
+VII. Asesorar a las Dependencias, Unidades Administrativas, Órganos Político- Administrativos, Órganos Desconcentrados, así como a las Entidades de la Administración Pública que así lo requieran, en lo relativo a la elaboración de proyectos, construcción y mantenimiento de la obra pública;
 
-VIII. Asesorar a las dependencias, unidades administrativas, delegaciones, órganos desconcentrados, así como a las entidades de la Administración Pública que así lo requieran, en lo relativo a la elaboración de proyectos, construcción y mantenimiento de la obra pública;
+VIII. Emitir normas, lineamientos y especificaciones para la planeación, construcción, operación y conservación de la obra pública;
 
-IX. Emitir normas, lineamientos y especificaciones para la planeación, construcción, operación y conservación de la obra pública;
+IX. Evaluar el análisis costo-beneficio de las obras públicas que realicen las Unidades Administrativas de la Secretaría de Obras y Servicios y determinar, en su caso, la pertinencia de su ejecución;
 
-X. Coordinar la instrumentación y ejecución del programa de obras inducidas asociadas a proyectos específicos, a cargo de la Secretaría de Obras y Servicios;
+X. Emitir y difundir el Tabulador General de Precios Unitarios del Gobierno de la Ciudad de México, así como realizar las actualizaciones mensuales;
 
-XI. Emitir las políticas, estrategias y lineamientos en materia de planeación y control de las obras inducidas a cargo de la Secretaría de Obras y Servicios;
+XI. Verificar la aplicación de los criterios para el análisis y autorización de precios unitarios con base en las disposiciones aplicables en la materia;
 
-XII. Supervisar la ejecución de la obra principal, así como de las inducidas y complementarias;
+XII. Llevar el Registro de Concursantes y mantenerlo actualizado;
 
-XIII. Evaluar el análisis costo-beneficio de las obras públicas que realicen las unidades administrativas de la Secretaría de Obras y Servicios y determinar, en su caso, la pertinencia de su ejecución;
+XIII. Verificar la entrega-recepción de las obras ejecutadas por las diferentes Direcciones Generales de la Secretaría a las áreas usuarias para que éstas las administren de acuerdo a sus facultades;
 
-XIV. Emitir y difundir el Tabulador General de Precios Unitarios del Gobierno del Distrito Federal, así como realizar las actualizaciones mensuales;
+XIV. Emitir las políticas, estrategias y lineamientos para la elaboración de proyectos, cuya ejecución esté a cargo de la Secretaría de Obras y Servicios;
 
-XV. Verificar la aplicación de los criterios para el análisis y autorización de precios unitarios con base en las disposiciones aplicables en la materia;
+XV. Emitir lineamientos, políticas y estrategias para implementar, verificar y supervisar el Sistema de Gestión de Calidad en las obras y servicios a cargo de la Secretaría de Obras y Servicios; y
 
-XVI. Llevar el Registro de Concursantes y mantenerlo actualizado;
+XVI. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
-XVII. Coordinar la intervención de las dependencias, unidades administrativas, delegaciones, órganos desconcentrados, así como de las entidades de la Administración Pública del Distrito Federal en la ejecución de las obras que se realizan a través de la Secretaría de Obras y Servicios;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2017)</small>
 
-XVIII. Verificar la entrega-recepción de las obras ejecutadas por las diferentes Direcciones Generales de la Secretaría de Obras y Servicios a las áreas usuarias para que éstas las administren de acuerdo a sus facultades;
+###### Artículo 60.
 
-XIX. Dar seguimiento a las revisiones y auditorías realizadas por los órganos de fiscalización, a los proyectos de obras a cargo de la Secretaría de Obras y Servicios y coordinar el cumplimiento de las observaciones y recomendaciones formuladas;
+Corresponde a la Dirección General de Construcción de Obras para el Transporte:
 
-XX. Emitir los lineamientos para la presentación de los reportes de avance en la ejecución de obra pública a cargo de la Secretaría de Obras y Servicios;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
 
-XXI. Emitir las políticas, estrategias y lineamientos para la elaboración de proyectos, cuya ejecución esté a cargo de la Secretaría de Obras y Servicios, y
+I. Coordinar los trabajos de construcción de obras de infraestructura para el transporte y su equipamiento, con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados, así como con las Entidades de la Administración Pública;
 
-XXII. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
+
+II. Colaborar con las Dependencias, Unidades Administrativas, Órganos Político- Administrativos y Órganos Desconcentrados, así como con las Entidades de la Administración Pública, en la planeación, realización de estudios e investigaciones necesarios para optimizar, actualizar, ampliar, construir, equipar y supervisar las obras de infraestructura para el transporte de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
+
+III. Planear, presupuestar, ejecutar y supervisar la construcción de las obras de infraestructura para el transporte y su equipamiento;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
+
+IV. Elaborar estudios, proyectos ejecutivos y de detalle para la construcción de las obras de infraestructura para el transporte y su equipamiento;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
+
+V. Establecer y vigilar los métodos constructivos aplicables en obras e instalaciones de la infraestructura para el transporte;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
+
+VI. Elaborar las bases de licitación, términos de referencia, modelos de contrato y demás documentos necesarios para realizar la contratación de obras y servicios relacionados con las mismas a su cargo, incluso las financiadas bajo cualquier modalidad prevista por la ley;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
+
+VII. Construir y supervisar las obras e instalaciones fijas de la infraestructura para el transporte, incluyendo sus obras inducidas y complementarias; verificando que se hagan de acuerdo al proyecto ejecutivo, programa y presupuesto autorizados;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
+
+VIII. Emitir las políticas, estrategias y lineamientos en materia de planeación, proyecto, construcción, control y supervisión de las obras inducidas y complementarias inherentes a las obras de infraestructura para el transporte;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
+
+IX. Establecer mecanismos de control que garanticen la seguridad de los recursos humanos y materiales durante el desarrollo de la construcción de las obras de infraestructura del transporte;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
+
+X. Adquirir, transportar, suministrar e instalar los equipos y material de instalación fija que requieran las obras de infraestructura para el transporte;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2017)</small>
+
+XI. Suscribir los contratos y convenios que sean necesarios para el ejercicio de sus facultades, así como la terminación anticipada y/o rescisión de los mismos, informando de tales acciones a su superior jerárquico;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2017)</small>
+
+XII. Entregar las obras de infraestructura para el transporte, así como sus obras inducidas y complementarias a las Dependencias, Órganos Político-Administrativos, Órganos Desconcentrados, y Entidades operadoras de los mismos;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2017)</small>
+
+XIII. Efectuar las pruebas requeridas para poner en servicio las obras de infraestructura para el transporte, garantizando la seguridad integral del servicio;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2017)</small>
+
+XIV. Coordinar con las autoridades competentes, las labores de protección civil, durante la ejecución de las obras; y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2017)</small>
+
+XV. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE ENERO DE 2017)</small>
+
+Artículo 60 BIS.- Corresponde a la Dirección General de Asuntos Jurídicos:
+
+l. Dirigir y coordinar las acciones jurídicas necesarias para la defensa de los intereses de la Secretaría, así como de sus Unidades Administrativas;
+
+II. Representar ante toda clase de autoridades administrativas o judiciales, locales o federales, los intereses de la Secretaría, sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo, en todos los asuntos en los que sean parte, o cuando tengan interés jurídico o se afecte el patrimonio de la Ciudad de México, y estos asuntos se encuentren relacionados con las facultades que tienen encomendadas, así como rendir informes, contestar demandas, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, autorizar delegados e incluso allanarse y/o desistirse de las demandas;
+
+III. Asesorar a las Unidades Administrativas de la Secretaría para el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas en el ámbito de su competencia;
+
+IV. Rendir los informes que sean solicitados a la Secretaría por los órganos garantes de derechos humanos y coordinarse con las demás Unidades Administrativas para la rendición de los mismos;
+
+V. Analizar los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas que sean competencia de la Secretaría a fin de proponer los cambios que en su caso, sean necesarios para que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes;
+
+VI. Suplir al titular de la Secretaría en las sesiones de cuerpos colegiados en los que participe, con el carácter que tenga ante los mismos en materia de obra pública, en los que sea designado por éste;
+
+VII. Revisar y emitir opinión jurídica respecto de los convenios, contratos y demás instrumentos jurídicos y administrativos que suscriba el titular de la Secretaría o los titulares de sus Unidades Administrativas;
+
+VIII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos que tenga a la vista con motivo de las funciones de la Secretaría;
+
+IX. Solicitar información y documentos a las Unidades Administrativas y órganos desconcentrados adscritos a la Secretaría, así como a los demás entes de la Administración Pública de la Ciudad de México, cuando sea necesario para atender asuntos de su competencia.
+
+X. Presentar, ratificar y actuar como coadyuvante del Ministerio Público en las denuncias de hechos, por la posible comisión de delitos relacionados con las obras públicas que se lleven a cabo, así como aquellos en los que resulte afectada la Secretaría.
+
+XI. Difundir las normas jurídicas aplicables en materia de obra pública en la Ciudad de México, mediante la permanente actualización y compilación de las publicaciones oficiales correspondientes.
+
+XII. Coordinar la realización de las acciones jurisdiccionales y/o administrativas para la rescisión o terminación anticipada de contratos y convenios, cuando así proceda;
+
+XIII. Coordinar la atención y/o trámite de los recursos administrativos que sean presentados en contra de resoluciones emitidas por las Unidades Administrativas adscritas a la Secretaría, cuya resolución tenga que ser emitida por su titular; y
+
+XIV. Las demás atribuciones conferidas por el Secretario, conforme las funciones de la unidad a su cargo, así como las que expresamente le atribuyan este Reglamento, y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+Artículo 60 TER.- (DEROGADO, G.O. 31 DE ENERO DE 2017)
+
+Artículo 60 QUATER.- (DEROGADO, G.O. 31 DE ENERO DE 2017)
 
 #### SECCION VII
 
@@ -19285,3 +19309,19 @@ CUARTO.- La Dirección General del Laboratorio de Revisión de Obras, iniciará 
 QUINTO.- La Contraloría General deberá adecuar su estructura orgánica y su manual administrativo en los en los (sic) plazos y condiciones que establezca la Oficialía Mayor
 
 SEXTO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+G.O. 31 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- A las Unidades Administrativas de nueva creación, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Oficialía Mayor y la Secretaría de Finanzas de la Ciudad de México.
+
+CUARTO.- La Secretaría de Obras y Servicios deberá adecuar su estructura orgánica y su manual administrativo, en los plazos y condiciones que establezca la Oficialía Mayor.
+
+QUINTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este Decreto hubieran dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+SEXTO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente decreto.
