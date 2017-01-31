@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2015-12-02"
+last_updated: "2017-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE ENERO DE 2017.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -140,6 +140,10 @@ XXII Programa Sectorial: El Programa Veracruzano de Turismo, Cultura y Cinematog
 XXIII. Programa de Ordenamiento: El Programa de Ordenamiento Turístico del Territorio del Estado, considerado el instrumento de la política turística, concebido con un enfoque socioeconómico, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas adecuadas, con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
 
 XXIV. Programa Regional: El Programa de Ordenamiento Turístico Regional en el Estado;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2017)</small>
+
+XXIV Bis. Pueblo Mágico: Es todo aquel municipio que cuenta con el nombramiento y cumple con los requisitos de permanencia que establece la Secretaría de Turismo Federal, y que tiene atributos simbólicos, leyendas, historias, hechos trascendentes que a través del tiempo y ante la modernidad, ha conservado su valor y herencia cultural, y que significa en la actualidad una gran oportunidad para el aprovechamiento turístico.
 
 XXV. Región turística: El área geográfica que puede abarcar el territorio de dos o más municipios, los cuales se complementan por la cercana distancia de los atractivos turísticos y sus servicios;
 
@@ -274,6 +278,10 @@ XL. Administrar el Fondo;
 > <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
 XLI. Impulsar la profesionalización del sector turístico, favoreciendo la vinculación entre el sector público, privado y social; y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2017)</small>
+
+XLI Bis. Promover de conformidad con los Lineamientos de Pueblos Mágicos, y de acuerdo a la capacidad presupuestal de los municipios declarados Pueblo Mágico en el Estado de Veracruz, las acciones necesarias, con el objeto de garantizar su desarrollo y permanencia en el programa.
 
 > <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -1384,3 +1392,11 @@ G.O. 2 DE DICIEMBRE DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+G.O. 31 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 234 QUE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 4, Y LA FRACCIÓN XLI BIS AL ARTÍCULO 5, DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
