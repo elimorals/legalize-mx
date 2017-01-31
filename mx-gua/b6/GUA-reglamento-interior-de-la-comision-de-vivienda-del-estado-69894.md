@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-comision-de-vivienda-del-estado-69894
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-14"
-last_updated: "2009-08-14"
+last_updated: "2017-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE VIVIENDA DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE VIVIENDA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISION DE VIVIENDA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 14 de agosto de 2009.
 
@@ -692,3 +694,17 @@ JOSÉ GERARDO MOSQUEDA MARTINEZ
 EL SECRETARIO DE DESARROLLO SOCIAL Y HUMANO
 
 JUAN CARLOS LÓPEZ RODRÍGUEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 31 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 180, POR MEDIO DEL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DE LA COMISIÓN DE VIVIENDA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El Presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Interior de Coveg
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 115, por el cual se expidió el Reglamento Interior de la Comisión de Vivienda del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 130, Segunda Parte, del 14 de agosto de 2009.
