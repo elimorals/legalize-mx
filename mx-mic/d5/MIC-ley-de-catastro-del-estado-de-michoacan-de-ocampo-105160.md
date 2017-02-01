@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-de-ocampo-105160"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2016-12-31"
+last_updated: "2017-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CATASTRO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el martes 30 de diciembre de 2014.
 
@@ -423,9 +423,11 @@ Los servidores públicos de la Secretaría de Finanzas y Administración o de la
 
 #### SECCIÓN PRIMERA. DEL PROCEDIMIENTO SOBRE VARIACIONES CATASTRALES DE BIENES HEREDITARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 43.
 
-La Secretaría de Finanzas y Administración, a su juicio podrá autorizar la variación de cuentas catastrales sobre bienes hereditarios, si el total de éstos que se registren al autor de la sucesión en la fecha de presentación de la solicitud, no rebasan un valor equivalente a 4,000 días de salario mínimo vigente en el Estado de Michoacán de Ocampo, el cual se determinará mediante avaluó catastral practicado por perito que designe la propia Secretaría, y siempre que las pruebas que presenten los interesados sean suficientes para acreditar el parentesco de éstos con el autor de la herencia.
+La Secretaría de Finanzas y Administración a su juicio podrá autorizar la variación de cuentas catastrales sobre bienes hereditarios, si el total de éstos que se registren al autor de la sucesión en la fecha de presentación de la solicitud, no rebasan un valor equivalente a 5,000 Unidades de Medida y Actualización, el cual se determinará mediante avalúo catastral practicado por perito que designe la propia Secretaría, y siempre que las pruebas que presenten los interesados sean suficientes para acreditar el parentesco de éstos con el autor de la herencia.
 
 Los acuerdos que se emitan deberán ser por escrito, fundarse y motivarse en las razones que lo justifiquen.
 
@@ -694,3 +696,11 @@ P.O. 31 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero del año 2017, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado y al Titular de la Auditoría Superior de Michoacán, para los efectos conducentes.
+
+P.O. 1 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL NÚMERO 316 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 43 DE LA LEY DE CATASTRO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Gobernador del Estado para su conocimiento y seguimiento.
