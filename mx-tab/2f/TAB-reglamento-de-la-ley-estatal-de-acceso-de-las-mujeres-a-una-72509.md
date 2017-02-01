@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-estatal-de-acceso-de-las-mujeres-a-una-725
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-27"
-last_updated: "2010-01-27"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "TAB"
 ---
 # REGLAMENTO DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-REGLAMENTO DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
+REGLAMENTO DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 27 de enero de 2010.
 
 QUÍM. ANDRÉS RAFAEL GRANIER MELO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 51 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DE TABASCO Y 7 FRACCIÓN II DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por todo lo anteriormente expuesto y fundado he tenido a bien emitir el siguiente:
 
@@ -91,7 +93,7 @@ III. Ser integrales en el sentido de contemplar todos los tipos y modalidades de
 
 IV. Transversalizar la perspectiva de género en todas las acciones de las instituciones integrantes del Sistema Estatal encaminadas a la prevención, detección y erradicación de la violencia contra las mujeres así como las vinculadas con la atención y protección de las mujeres que son víctimas y en los mecanismos de rehabilitación para los agresores; y
 
-V. Contener mecanismos de seguimiento y evaluación permanente; (sic)
+V. Contener mecanismos de seguimiento y evaluación permanente;
 
 ###### ARTÍCULO 5.
 
@@ -107,107 +109,143 @@ IV. Modelos de rehabilitación y tratamiento para los agresores.
 
 Para el cumplimiento de lo dispuesto en este numeral, las autoridades estatales y municipales se basarán en los lineamientos y modelos que se creen en el Sistema Nacional, los cuales se complementarán con las acciones y políticas que se consideren necesarias de acuerdo con las particularidades propias del Estado y las de sus municipios.
 
-### CAPÍTULO II. DE LA ALERTA DE VIOLENCIA Y VIOLENCIA FEMINICIDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2017)</small>
+
+### CAPÍTULO II. DE LA ALERTA DE VIOLENCIA DE GÉNERO Y VIOLENCIA FEMINICIDA
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 6.
 
-Corresponde a la Secretaría de Seguridad Pública, la Procuraduría General de Justicia, el Instituto y, en su caso, el Sistema para el Desarrollo Integral de la Familia del Estado, tomar las medidas necesarias para erradicar el estado de riesgo de violencia y se coordinarán con las autoridades municipales y federales para evitar que el peligro se repita mediante acciones y políticas públicas encaminadas a prevenir situaciones que puedan constituir violencia feminicida.
+La declaratoria de alerta de violencia de género contendrá los elementos y disposiciones señaladas en la Ley General.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 7.
 
-En los casos del artículo anterior, la Secretaría de Gobierno, en su calidad de Secretaría Ejecutiva del Consejo y el Instituto, en su calidad de secretaría Técnica del Consejo valorarán conjuntamente la situación que prevalece en un municipio o comunidad determinada, y sí se considera que ésta ha rebasado los mecanismos de seguridad y justicia del Estado, convocaran al Sistema Estatal, a efectos de tomar una decisión colegiada de la procedencia o no de solicitar al Gobierno Federal de la Declaratoria de Alerta de Violencia de Género en los términos del artículo 21 de la Ley.
+La declaratoria de alerta de violencia de género por agravio comparado tendrá como finalidad eliminar las desigualdades producidas por un ordenamiento jurídico o políticas públicas que impidan el reconocimiento o el ejercicio pleno de las Derechos Humanos de las Mujeres protegidos en todos aquellos instrumentos internacionales reconocidos y ratificados por el Estado mexicano, a través de las acciones gubernamentales previstas en la Ley General.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 8.
 
-En caso que el Gobierno Federal decida emitir una Declaratoria de Alerta de Violencia de Género, el Sistema Estatal sesionará de manera permanente hasta que cese la situación que provocó la Declaratoria y se dé cumplimiento a las recomendaciones específicas del Gobierno Federal.
+El agravio comparado se presenta cuando un ordenamiento jurídico vigente o una política pública contenga alguno de los siguientes supuestos y éstos transgredan los derechos humanos de las mujeres:
+
+I. Distinciones, restricciones o derechos específicos diversos para una misma problemática o delito, en detrimento de las mujeres del Estado o de los municipios;
+
+II. No se proporcione el mismo trato jurídico en igualdad de circunstancias, generando una discriminación y consecuente agravio; o
+
+III. Se genere una aplicación desigual de la ley, lesionándose los derechos humanos de las mujeres, así como los principios de igualdad y no discriminación.
 
 ###### ARTÍCULO 9.
 
-Los organismos estatales de derechos humanos, los organismos de la sociedad civil y/o los organismos internacionales en los términos de la Ley General, podrán requerir una investigación para valorar la procedencia de una solicitud de Declaratoria de Alerta de Violencia de Género, en los términos del artículo 21 de la Ley.
-
-Este requerimiento se presentará por escrito ante la Secretaría Técnica del Sistema Estatal, directamente o a través del Servicio Postal Mexicano, quien lo hará del conocimiento del Sistema Estatal en un plazo no mayor a tres días hábiles contados a partir de la admisión de la misma.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 10.
 
-En el requerimiento de investigación a que se refiere el artículo anterior, se deberá hacer constar la siguiente información:
-
-I. Nombre de la persona solicitante;
-
-II. Carácter con el que actúa la persona solicitante;
-
-III. Domicilio para oír y recibir notificaciones;
-
-IV. Lugar o lugares donde se presenta dicha violencia;
-
-V. Descripción de los hechos violatorios de los derechos humanos de las mujeres;
-
-VI. Grupo de mujeres afectadas y número aproximado; y
-
-VII. Periodo de reiteración de las conductas.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 11.
 
-La omisión de alguno de los requisitos previstos en el artículo anterior, no impide que el Sistema Estatal constituya en su interior un equipo de trabajo para analizar los hechos descritos en la solicitud y realizar un breve estudio de campo en la zona, municipio o municipios en donde se alega existen elementos para proceder en términos del artículo 21 de la Ley.
-
-El equipo de trabajo deberá informar al Sistema Estatal los resultados de su investigación en un plazo de cinco días naturales, para que la Secretaría de Gobierno y el Instituto procedan conforme lo estipulado por el artículo 7 de este Reglamento.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 12.
 
-El resultado de la investigación y la decisión de solicitar o no, según sea el caso, la Declaratoria de Alerta de Violencia de Género, deberá ser informado por el Instituto al requirente en un plazo de 3 días naturales después de haberse tomado la determinación.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 13.
 
-Las solicitudes de la Declaratoria de Alerta de Violencia de Género sólo podrán realizarse si se valoró que:
-
-I. Existe violencia sistemática contra las mujeres;
-
-II. La violencia detectada se traduce en la comisión reiterada de delitos del orden común contra la vida, la libertad, la integridad y la seguridad jurídica de las mujeres en un contexto de impunidad o permisibilidad social; y
-
-III. La violencia proviene de un conjunto de conductas misóginas que perturban la paz social de una zona, municipio o del Estado
+(DEROGADO, P.O. 1 DE FEBRERO DE 2017)
 
 ### CAPÍTULO III. DE LA APLICACIÓN DE LAS ÓRDENES DE PROTECCIÓN
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 14.
 
-Las órdenes de emergencia podrán ser solicitadas en forma verbal o escrita por la víctima de violencia de género en cualquiera de sus tipos o excepcionalmente por otra persona que tenga conocimiento de la violencia, cuando exista una circunstancia que ponga en riesgo la integridad física o la vida de la víctima y ésta no pueda hacerlo personalmente. En éste último caso, una vez que la víctima se encuentre a salvo y hayan cesado las circunstancias que le impedían hacer la solicitud personalmente, ratificará ésta dentro de las veinticuatro horas siguientes.
+El otorgamiento de las órdenes de protección, emergentes y preventivas, se realizará de acuerdo a las siguientes disposiciones:
 
-###### ARTICULO 15.
+I. Las dependencias y entidades de la Administración Pública Estatal que conozcan de hechos de Violencia contra las Mujeres tendrán la obligación de salvaguardar la vida e integridad de la Víctima, informarle sobre la existencia de órdenes de protección, canalizar a la Víctima a la instancia competente, dar seguimiento al caso hasta el momento en que se envíe a la instancia correspondiente y documentarlo;
 
-Si por los hechos descritos en la solicitud de orden de emergencia el Agente del Ministerio Público tiene elementos para presuponer que el agresor se opondrá a cumplir voluntariamente con la misma, solicitará de inmediato el auxilio de la fuerza pública.
+II. Se podrán expedir nuevas órdenes de protección hasta que cese el riesgo hacia la Víctima;
+
+III. La solicitud podrá realizarse en forma verbal o escrita por la Víctima o por cualquier persona que tenga conocimiento de un estado de riesgo o cualquier otra circunstancia que genere Violencia contra las Mujeres. También podrán ser representadas legalmente o cuando así lo requieran por su abogado, Fiscal del Ministerio Público o cualquier servidor público especialista en Perspectiva de Género. La valoración de las órdenes se hará de conformidad con la Ley;
+
+IV. Cuando la Víctima la solicite, no será necesaria la presentación de pruebas para acreditar los hechos de violencia, y
+
+V. La autoridad jurisdiccional competente podrá considerar para otorgar las órdenes de protección, si de la declaración o entrevista de la Víctima, o solicitante se desprende alguno o algunos de los siguientes supuestos:
+
+a) Ataques previos con riesgo mortal, amenazas de muerte, o el temor de la Víctima a que la persona agresora la prive de la vida;
+
+b) Que la Víctima esté aislada o retenida por la persona agresora contra su voluntad o lo haya estado previamente;
+
+c) Aumento de la frecuencia o gravedad de la violencia;
+
+d) Que la Víctima, como consecuencia de las agresiones sufridas, haya o esté recibiendo atención médica;
+
+e) Intento o amenazas de suicidio o cualquier otra forma de medida intimidatoria por parte de la persona agresora;
+
+f) Que la persona agresora tenga una acusación o condena previa por delitos contra la integridad física o sexual de personas; que cuente con antecedentes de órdenes de protección dictadas en su contra; tenga antecedentes de violencia que impliquen una conducta agresiva o de peligrosidad; o que tenga conocimiento en el uso de armas, acceso a ellas o porte alguna;
+
+g) Cuando existan antecedentes de abuso físico o sexual de la persona agresora contra ascendientes, descendientes o familiares de cualquier grado de la Víctima, o
+
+h) Que exista o haya existido amenaza por parte de la persona agresora de llevarse a las hijas e hijos de la Víctima por cualquier circunstancia.
+
+Para los efectos de este artículo, debe tomarse en cuenta, al momento de evaluar el riesgo, si existe recurrencia de violencia y la posibilidad para la Víctima de salir de ésta.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+
+###### ARTÍCULO 15.
+
+Los Mecanismos para el adelanto de las mujeres, a través del Sistema Estatal, podrán articular las acciones correspondientes para la coordinación de las autoridades competentes para la emisión, ejecución y cumplimiento de las órdenes de protección.
 
 ###### ARTÍCULO 16.
 
-Transcurrida la vigencia de la orden de protección de emergencia, el Agente del Ministerio Público a petición de la víctima o de oficio podrá expedir una nueva orden de la misma naturaleza las veces que sea necesario si, a su criterio, continúa el riesgo que ponga en peligro la seguridad de la víctima que originó el pedimento.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 17.
 
-Las órdenes de protección preventivas son aquellas que emite la autoridad jurisdiccional cuando conoce de hechos de violencia familiar, ya sea como causa principal del proceso que se tramita ante él o como consecuencia del mismo, o cuando le son solicitadas por el Agente del Ministerio Público.
+(DEROGADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2017)
 
-El Agente del Ministerio Público podrá solicitar las ordenes de protección preventiva de oficio, sin la necesidad que haya concluido la vigencia de una orden de emergencia, de tal manera que las órdenes de protección preventiva pueden complementar las órdenes de protección de emergencia.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+
+El Fiscal del Ministerio Público podrá solicitar las órdenes de protección preventiva de oficio, sin necesidad que haya concluido la vigencia de una orden de emergencia, de tal manera que las órdenes de protección preventiva puedan complementar las órdenes de protección de emergencia.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 18.
 
-Serán elementos a tomar en cuenta por el Agente del Ministerio Público para emitir nuevas órdenes de protección los siguientes:
+Las autoridades de seguridad pública del Estado, ante un hecho de violencia flagrante en contra de las mujeres, en observancia al principio de máxima protección estarán obligadas a:
 
-I. El tiempo que ha durado el ejercicio de la violencia;
+I. Intervenir de manera inmediata y eficaz;
 
-II. Los antecedentes violentos del agresor;
+II. Hacer cesar el ejercicio de la violencia en contra de las Víctimas, y
 
-III. La gravedad del daño causado por la violencia, en función directa del bienestar de la víctima, de su vida, integridad física y psicológica;
+III. Ingresar al domicilio donde se esté perpetrando el acto de violencia ante peligro inmediato e inminente de muerte o lesiones a la Víctima.
 
-IV. La magnitud del daño causado por el agresor en la esfera íntima y social de la víctima en función del modo y lugar en que ocurren los hechos proyectado a través del tiempo; y
+En el supuesto señalado en el párrafo anterior, las autoridades de seguridad pública que intervengan, deberán prestar el auxilio inmediato que requiera la Víctima y canalizarla a las autoridades competentes para su atención integral.
 
-V. Cualquier otra información relevante de la condición de la víctima y del agresor.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 19.
 
-Toda orden de protección que se emita, deberá constar en documento por separado, que contendrá la fecha, hora, lugar, vigencia, nombre de la persona a quien protege y en contra de quien se expide, tipo de orden, autoridad que la emite, haciéndose del conocimiento de las autoridades competentes y encargadas de auxiliar en su cumplimiento.
+En ningún supuesto la Víctima será quien lleve a cabo la notificación de órdenes de protección a la persona agresora.
 
-El Sistema Estatal establecerá la coordinación necesaria con las autoridades municipales para dar la asistencia y protección necesaria a víctimas menores de edad.
+Las instancias policiales deberán brindar el apoyo necesario a las autoridades competentes que emitan órdenes de protección.
+
+Cuando se le notifique a las instancias policiales una orden de protección emitida por la autoridad competente deberá llevar un registro y prestar auxilio a la Víctima de manera inmediata.
+
+En caso de que la persona señalada como agresora tenga más de doce y menos de dieciocho años de edad quedará sujeta a las leyes en la materia, y se le hará saber la responsabilidad en que puede incurrir si persiste en su conducta.
+
+En caso de que la Víctima o la persona agresora no hablen el idioma español, tendrán derecho a contar en todo momento con la asistencia de un perito intérprete o traductor.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
-Las órdenes de naturaleza civil se regularán por lo que determinen las disposiciones normativas de conformidad con lo establecido en la fracción III del artículo 25 de la Ley.
+Las órdenes de naturaleza civil se emitirán en términos de la Ley y los Códigos Civil y de Procedimientos Civiles para el Estado de Tabasco por la Autoridad Judicial competente, dentro de un proceso jurisdiccional que se tramite ante ella y durarán hasta que dicte sentencia.
+
+Las órdenes de naturaleza civil se regularán por lo que determinen las disposiciones normativas de conformidad con lo establecido en el párrafo anterior.
 
 ### CAPÍTULO IV. DE LAS MEDIDAS PARA ERRADICAR LA VIOLENCIA DE GÉNERO Y PARA VALORAR EL ESTADO DE RIESGO
 
@@ -227,9 +265,11 @@ Para prevenir la violencia escolar la Secretaría de Educación, en el ámbito d
 
 La Secretaría de Educación deberá enviar al Sistema Estatal un informe semestral de las estrategias implementadas así como de los casos detectados y las medidas tomadas para restituir a las víctimas y sancionar a los agresores.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 24.
 
-La Secretaría de Seguridad Pública, la Procuraduría General de Justicia y el Instituto deberán compartir información y estadísticas con el fin de detectar violencia en la comunidad e implementar estrategias para prevenirla y erradicarla, debiendo coordinarse con las autoridades municipales para establecer las medidas necesarias para salvaguardar la vida e integridad física o psicológica de una mujer o varias mujeres de presentarse violencia en la comunidad.
+La Secretaría de Seguridad Pública, la Fiscalía General del Estado y el Instituto deberán compartir información y estadísticas con el fin de detectar violencia en la comunidad e implementar estrategias para prevenirla y erradicarla, debiendo coordinarse con las autoridades municipales para establecer las medidas necesarias para salvaguardar la vida e integridad física o psicológica de una mujer o varias mujeres de presentarse violencia en la comunidad.
 
 ###### ARTÍCULO 25.
 
@@ -261,7 +301,9 @@ VII. Diseñar la estructura básica de los Centros de Atención a las diferentes
 
 VIII. Diseñar la estructura básica para el funcionamiento de los refugios para las víctimas de violencia de género y promover su creación en las localidades y municipios que se requieran;
 
-IX. Establecer acuerdos con las instancias correspondientes para la aplicación y cumplimiento de la Norma Oficial Mexicana NOM-046-2005, Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2017)</small>
+
+IX. Establecer acuerdos con las instancias correspondientes para la aplicación y cumplimiento de la Norma Oficial Mexicana NOM-046-SSA2-2005, Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención;
 
 X. Alentar a los medios de comunicación a elaborar directrices adecuadas de difusión que contribuyan a erradicar la violencia contra las mujeres en todas sus modalidades y tipos, y el arraigo de los principios rectores de la Ley;
 
@@ -323,7 +365,9 @@ III. Disminuir el número de víctimas, mediante acciones disuasivas que desalie
 
 El diseño de las políticas públicas de prevención debe estar dirigida a influir en las actitudes existentes en la sociedad acerca de las mujeres y los hombres para eliminar los estereotipos que se manifiestan en la opresión, la desigualdad, la discriminación, la subordinación, la explotación, la exclusión y la violencia contra las mujeres y las niñas, y favorecer conductas solidarias y de responsabilidad compartida de las mujeres y hombres en todas las tareas que se desarrollan en el transcurso de la vida.
 
-Las acciones de prevención son responsabilidad primigenia del Poder Ejecutivo y su Administración Pública; sin embargo, por la naturaleza propia de sus funciones, la realización de estas acciones corresponderá principalmente a la Secretaría de Seguridad Pública, Educación, la Consejería Jurídica del Poder Ejecutivo, el Instituto Estatal de las Mujeres, el Sistema Estatal para el Desarrollo Integral de la Familia y la Unidad de Atención Social del Estado.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+
+Las acciones de prevención son responsabilidad primigenia del Poder Ejecutivo y sus dependencias y entidades; sin embargo, por la naturaleza propia de sus funciones, la realización de estas acciones corresponderá principalmente a las Secretarías de Gobierno, Seguridad Pública, Educación, Desarrollo Social, la Coordinación General de Asuntos Jurídicos, el Instituto Estatal de las Mujeres y el Sistema Estatal para el Desarrollo Integral de la Familia.
 
 Las políticas públicas de prevención se integran por las siguientes etapas:
 
@@ -333,7 +377,9 @@ II. Anticipación del riesgo para evitar la generación de la violencia en todas
 
 III. Identificación de los obstáculos que enfrentan las mujeres víctimas para el acceso a la justicia y la reparación del daño;
 
-IV. Detección oportuna los (sic) posibles actos o eventos de violencia contra las mujeres, y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2017)</small>
+
+IV. Detección oportuna de los posibles actos o eventos de violencia contra las mujeres, y
 
 V. Disminución del número de víctimas, mediante acciones disuasivas que desalienten la violencia contra las mujeres y la violencia social vinculada.
 
@@ -387,13 +433,19 @@ III. Designar en cada una de las dependencias y entidades que integran la Admini
 
 IV. Diseñar, crear e implementar la prestación de servicios públicos especializados en materia de prevención de la violencia contra las mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 38.
 
-En la Procuraduría General de Justicia, la prevención de la violencia feminicida debe incluir, además de los lineamientos de prevención del delito:
+En la Fiscalía General del Estado, la prevención de la violencia feminicida debe incluir, además de los lineamientos de prevención del delito:
 
-I. Los lineamientos que faciliten a la víctima demandar la reparación del daño u otros medios de compensación o resarcimiento económico a cargo de su agresor, en términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2017)</small>
 
-II. Los indicadores de factores de riesgo para la seguridad de la víctima tales como los antecedentes violentos del agresor o el incumplimiento de las órdenes de protección de éste, entre otros;
+I. Los lineamientos que faciliten a la víctima demandar la reparación integral del daño u otros medios de compensación o resarcimiento económico a cargo de la persona agresora, en términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2017)</small>
+
+II. Los indicadores de factores de riesgo para la seguridad de la víctima tales como los antecedentes violentos de la persona agresora o el incumplimiento de las órdenes de protección de éste, entre otros;
 
 III. Los mecanismos adecuados para evitar que las mujeres que han sufrido violencia vuelvan a ser víctimas de ésta, y
 
@@ -509,9 +561,13 @@ El seguimiento y la evaluación de la efectividad, aplicabilidad e impacto de lo
 
 I. La Secretaría Ejecutiva del Sistema Estatal integre un registro de los Modelos empleados por la Federación, los similares en otras entidades federativas y los diseñados en el Estado y los municipios del Estado de Tabasco;
 
-II. La Secretaría de Administración y Finanzas prevea la creación de El Fondo, administrado por la Secretaría Técnica del Sistema, destinado a sufragar los gastos de seguimiento y evaluación de tales Modelos.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2017)</small>
 
-III. La Secretaría Técnica del Sistema Estatal deberá prever en la propuesta de Presupuesto Anual que le presenta a la Secretaría de Administración y Finanzas la partida presupuestal que contemple los recursos para El Fondo.
+II. La Secretaría de Planeación y Finanzas prevea la creación de El Fondo, administrado por la Secretaría Técnica del Sistema, destinado a sufragar los gastos de seguimiento y evaluación de tales Modelos;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2017)</small>
+
+III. La Secretaría Técnica del Sistema Estatal deberá prever en la propuesta de Presupuesto Anual que le presenta a la Secretaría de Planeación y Finanzas la partida presupuestal que contemple los recursos para El Fondo; y
 
 IV. Los resultados de las evaluaciones a los Modelos, así como las propuestas que los hagan más efectivos serán publicados anualmente en el Portal de Transparencia de los integrantes del Sistema Estatal que sean dependencias o entidades públicas.
 
@@ -581,9 +637,11 @@ V. Emitir los lineamientos necesarios para determinar e integrar la información
 
 VI. Dar seguimiento a las acciones del Programa Estatal, en coordinación con los integrantes del Sistema Estatal, y efectuar su supervisión y evaluación en el ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 54.
 
-La Procuraduría General de Justicia para el cumplimiento de las obligaciones que establece el artículo 45 de la Ley, tendrá las siguientes atribuciones complementarias:
+La Fiscalía General del Estado para el cumplimiento de las obligaciones que establece el artículo 45 de la Ley, tendrá las siguientes atribuciones complementarias:
 
 I. Diseñar los modelos de formación, especialización y actualización para atender lo dispuesto en la fracción VII del artículo 45 de la Ley;
 
@@ -597,7 +655,9 @@ V. Brindar a las víctimas la información integral sobre las instituciones púb
 
 VI. Proporcionar a las víctimas información objetiva que les permita reconocer su situación;
 
-VII. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian, y (sic)
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2017)</small>
+
+VII. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
 
 VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
@@ -661,41 +721,41 @@ VIII. Dar seguimiento a las acciones del Programa Estatal, en coordinación con 
 
 ###### ARTÍCULO 58.
 
-La Secretaría de Desarrollo Económico, para el cumplimiento de las obligaciones que establece el artículo 49 de la Ley, tendrá las siguientes atribuciones complementarias:
+(DEROGADO, P.O. 1 DE FEBRERO DE 2017)
 
-I. Promover en sus programas de desarrollo económico el respeto a los derechos humanos de las mujeres para eliminar las expresiones de violencia en su contra;
-
-II. Celebrar convenios, acuerdos y bases de colaboración con dependencias u organismos de la Administración Pública Estatal, así como con las autoridades Municipales y las instancias federales correspondientes, para la promoción de acciones concurrentes de desarrollo económico del Estado con perspectiva de género, que favorezcan la atención y participación de las mujeres en los programas de desarrollo;
-
-III. Ejecutar acciones en materia de desarrollo económico orientadas a mejorar el nivel de vida de las mujeres en condiciones de pobreza y marginación y dar seguimiento a sus avances y resultados;
-
-IV. Difundir las acciones realizadas por los programas de desarrollo económico que promuevan el empoderamiento de las mujeres, la igualdad de oportunidades entre mujeres y hombres y la eliminación de las brechas de desigualdad, en el marco de operación del Programa Estatal, y
-
-V. Dar seguimiento a las acciones del Programa Estatal, en coordinación con los integrantes del Sistema, y efectuar su supervisión y evaluación en el ámbito de su competencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 59.
 
-La Consejería Jurídica del Poder Ejecutivo, para el cumplimiento de las obligaciones que establece el artículo 50 de la Ley, tendrá las siguientes atribuciones complementarias:
+La Coordinación General de Asuntos Jurídicos, para el cumplimiento de las obligaciones que establece el artículo 50 de la Ley, tendrá las siguientes atribuciones complementarias:
 
-I. Establecer lineamientos generales para la armonización de los reglamentos internos de todas las dependencias del Ejecutivo Estatal con los principios y normas establecidos en la Ley;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2017)</small>
+
+I. Establecer lineamientos generales para la armonización de los reglamentos internos de todas las dependencias del Ejecutivo Estatal con los principios y normas establecidos en la Ley; y
 
 II. Realizar, en coordinación con el Instituto, estudios sobre los avances normativos en el ámbito internacional y nacional en materia de derechos humanos de las mujeres, en especial del derecho a una vida libre de violencia y su justiciabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 60.
 
-La Unidad de Atención Social del Estado, para el cumplimiento de las obligaciones que establece el artículo 51 de la Ley, tendrá las siguientes atribuciones complementarias las facultades y obligaciones siguientes:
+La Secretaría de Desarrollo Social, para el cumplimiento de las obligaciones que establece el artículo 49 de la Ley, tendrá las siguientes atribuciones complementarias:
 
 I. Introducir, de manera transversal, la perspectiva de género sus programas de atención a las familias que se encuentran en situación de exclusión y pobreza;
 
 II. Incluir en los programas correspondientes, las acciones de desarrollo social orientadas a la prevención, atención y erradicación de la violencia contra las mujeres;
 
-III. Diseñar los lineamentos para la creación de los Centros de Refugio Temporal para Mujeres Víctimas de Violencia;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2017)</small>
+
+III. Diseñar los lineamentos para la creación de los Centros de Refugio Temporal para Mujeres Víctimas de Violencia; y
 
 IV. Diseñar mecanismos de promoción y difusión para la prevención y erradicación de la violencia de género en las comunidades indígenas.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 61.
 
-La Comisión Estatal de Derechos Humanos, deberá establecer un sistema de indicadores del cumplimiento de lo dispuesto en la Ley estatal y, en la Ley General para facilitar la detección temprana de posibles situaciones de violencia feminicida en todo el Estado.
+La Comisión Estatal de los Derechos Humanos, deberá establecer un sistema de indicadores del cumplimiento de lo dispuesto en la Ley estatal y, en la Ley General para facilitar la detección temprana de posibles situaciones de violencia feminicida en todo el Estado.
 
 ###### ARTÍCULO 62.
 
@@ -836,3 +896,13 @@ SECRETARIO DE GOBIERNO
 LIC. MIGUEL ALBERTO ROMERO PEREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE REFORMAN: LA DENOMINACIÓN DEL CAPÍTULO II "DE LA ALERTA DE VIOLENCIA Y VIOLENCIA FEMINICIDA", PARA QUEDAR COMO SIGUE: "DE LA ALERTA DE VIOLENCIA DE GÉNERO Y VIOLENCIA FEMINICIDA"; LOS ARTÍCULOS 6; 7; 8; 14; 15; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17; 18; 19; 20; 24; LA FRACCIÓN IX DEL ARTÍCULO 27; EL PÁRRAFO SEGUNDO Y LA FRACCIÓN IV DEL ARTÍCULO 33; EL PÁRRAFO PRIMERO, Y LAS FRACCIONES I Y II DEL ARTÍCULO 38; LAS FRACCIONES II Y III DEL ARTÍCULO 50; EL PÁRRAFO PRIMERO Y LA FRACCIÓN VII DEL ARTÍCULO 54; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 59; EL PÁRRAFO PRIMERO Y LA FRACCIÓN III DEL ARTÍCULO 60; Y 61, SE DEROGAN: LOS ARTÍCULOS 9; 10; 11; 12; 13; 16; EL PÁRRAFO PRIMERO DEL ARTÍCULO 17; Y EL ARTÍCULO 58; TODOS DEL REGLAMENTO DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que contravengan el presente Acuerdo.
