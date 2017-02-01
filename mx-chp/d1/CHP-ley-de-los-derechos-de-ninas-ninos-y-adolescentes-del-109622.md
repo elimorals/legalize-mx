@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109622"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-17"
-last_updated: "2016-07-06"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 17 de junio de 2015.
 
@@ -66,6 +66,10 @@ V. Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en l
 El Estado y los Municipios deberán garantizar que las autoridades incorporen en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
 
 El Congreso del Estado, deberá establecer dentro de su respectivo presupuesto, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2017)</small>
+
+VI. Fijar los lineamientos y establecer las bases para la participación de los sectores privado y social en la instrumentación y evaluación de las políticas públicas y de las acciones para garantizar el goce, la defensa y representación jurídica, asistencia, provisión, promoción, prevención, protección, restitución y vigencia de los derechos de las niñas, niños y adolescentes.
 
 ###### Artículo 3°.
 
@@ -361,9 +365,11 @@ Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y a
 
 ### Capítulo Quinto. Del Derecho a Vivir en Familia
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 24.
 
-Las niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
+Las niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de sus padres o de los familiares con los que conviva, ni causa para la pérdida de la patria potestad. Estas condiciones imputables directas exclusivamente a la pobreza económica y material no constituirán la única justificación para separar a niñas, niños o adolescentes del cuidado de sus padres, sino que deberán considerarse como un indicio de la necesidad de proporcionar a la familia el apoyo apropiado.
 
 ###### Artículo 25.
 
@@ -436,6 +442,10 @@ III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedim
 El Sistema DIF - Chiapas, deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, pudiéndose auxiliar con los Sistemas DIF Municipales.
 
 IV. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por Centros de Asistencia Social el menor tiempo posible. Esta medida especial de protección tendrá carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2017)</small>
+
+La autoridad competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada.
 
 El Sistema DIF Estatal y los Sistemas DIF municipales darán seguimiento de la situación en la que se encuentren niñas, niños y adolescentes durante y una vez que haya concluido el acogimiento o forma alternativa de cuidado, de conformidad con lo previsto por la Ley General, la presente Ley y demás disposiciones aplicables.
 
@@ -2330,3 +2340,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Todas las modificaciones a las disposiciones reglamentarias derivadas de lo establecido en el presente Decreto, deberán ser expedidas, en un término no mayor a 90 días hábiles, siguientes a la entrada en vigor del presente Decreto.
 
 Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 1 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 134 POR EL QUE SE REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
