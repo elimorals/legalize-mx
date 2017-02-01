@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-64679"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-27"
-last_updated: "2016-06-29"
+last_updated: "2017-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de agosto de 2008.
 
@@ -33,11 +33,11 @@ Decreto Número 228
 
 La Sexagésima Tercera Legislatura Constitucional del Honorable Congreso del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
 
-C o n s i d e r a n d o...
+C o n s i d e r a n d o
+
+[...]
 
 Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir el siguiente Decreto de:
-
-> <small>N. DE E. EL DECRETO NUMERO 521, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 Código de Elecciones y Participación Ciudadana
 
@@ -1465,31 +1465,27 @@ Los partidos políticos tendrán derecho al financiamiento público de sus activ
 
 La única fuente de financiamiento permitida en precampañas, será la de carácter privado. Los partidos políticos, en esta etapa, únicamente podrán destinar recursos para gastos operativos y de difusión de sus procesos internos, los cuales no serán mayores al treinta por ciento del monto de financiamiento público que por actividades ordinarias permanentes reciba en lo individual cada ente político en el año de la elección.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 91.
 
-Durante el mes de enero de cada año, el Consejo General fijará el monto del financiamiento público anual para el sostenimiento de sus actividades ordinarias permanentes, que recibirán los partidos políticos.
+Durante los primeros meses del año, el Consejo General fijará el monto del financiamiento público para el sostenimiento de sus actividades ordinarias permanentes, que recibirán los partidos políticos.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+El monto de financiamiento de los partidos políticos, se realizara conforme a las disposiciones hacendarias y presupuestales, establecidas en la legislación aplicable.
 
-Dicho monto se determinará multiplicando el número de ciudadanos inscritos en el padrón local a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del salario mínimo diario vigente en el Estado.
+Dicho monto se determinará multiplicando el número de ciudadanos inscritos en el padrón local a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento de la Unidad de Medida y Actualización.
 
 El financiamiento público anual que resulte de la aplicación de la fórmula prevista en el párrafo anterior, deberá repartirse conforme a las siguientes reglas:
 
 I. El treinta por ciento de la cantidad total que resulte se entregará en forma igualitaria a los partidos políticos con representación en el Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
-
 II. El setenta por ciento restante, se distribuirá según el porcentaje de la votación que hubiese obtenido cada partido político con representación en el Congreso del Estado, en la elección de Diputados inmediata anterior.
 
-Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
+Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que apruebe la instancia competente.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas a que se refiere el artículo 93 de este Código. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, por lo menos, el seis por cierto del financiamiento público ordinario.
 
-Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas a que se refiere el artículo 93 de este Código.
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
-
-Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, por lo menos, el tres por cierto del financiamiento público ordinario.
+En casos excepcionales, el Consejo General velando por el interés público y atendiendo la disminución presupuestal, que se derive de la situación financiera del estado, determinará el monto a que hace alusión el segundo párrafo del presente artículo, multiplicando el número de ciudadanos inscritos en el padrón local a la fecha de corte de julio de cada año, por treinta por ciento de la Unidad de Medida y Actualización.
 
 ###### Artículo 92.
 
@@ -2689,7 +2685,7 @@ VI. Realizar lo necesario para que los partidos políticos y candidatos independ
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2016)</small>
 
-VIl. Coadyuvar con los trabajos de la Comisión de Asociaciones Políticas.
+VII. Coadyuvar con los trabajos de la Comisión de Asociaciones Políticas.
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
 
@@ -8469,7 +8465,7 @@ El Gobernador del Estado, hará la convocatoria respectiva y el Instituto inicia
 
 ###### Artículo 612.
 
-En todo caso, la procedencia del plebiscito suspenderá la ejecución y/o la implementación de la decisión de (sic) gobierno del Gobernador o del Ayuntamiento hasta en tanto se conozca los resultados del mismo. El plebiscito será improcedente contra decisiones ejecutadas y/o implementadas.
+En todo caso, la procedencia del plebiscito suspenderá la ejecución y/o la implementación de la decisión de gobierno (sic) del Gobernador o del Ayuntamiento hasta en tanto se conozca los resultados del mismo. El plebiscito será improcedente contra decisiones ejecutadas y/o implementadas.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
 
@@ -9794,3 +9790,13 @@ Artículo Quinto.- A la entrada en vigor del presente Decreto, los asuntos susta
 Artículo Sexto.- El Consejo General del Instituto de Elecciones y Participación Ciudadana, para la nueva organización estructural se estará a lo dispuesto por este Código, el Estatuto, el Catálogo de Cargos y Puestos del Servicio Profesional Electoral Nacional y demás normatividad aplicable de acuerdo al sistema del Servicio Profesional Electoral en lo correspondiente al Organismo Público local Electoral, tanto para quienes integren el Servicio Profesional Electoral como para el personal de la Rama Administrativa.
 
 Artículo Séptimo.- El Consejo General del Organismo Público local Electoral, presentará en tiempo y forma ante la Secretaría de Hacienda, la nueva organización estructural para la adecuación presupuestal con base al Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa.
+
+P.O. 1 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 128 POR EL. QUE SE REFORMA EL ARTÍCULO 91 DEL CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrara (sic) vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+Artículo Tercero.- A partir de la entrada en vigencia del presente decreto, el Instituto de Elecciones y Participación Ciudadana, tendrá un plazo de 60 días naturales para modificar aquellos acuerdos que haya dictado sobre Financiamiento Público Ordinario para el Ejercicio 2017, los cuales quedaran sujetos a la fórmula que establece el presente decreto.
