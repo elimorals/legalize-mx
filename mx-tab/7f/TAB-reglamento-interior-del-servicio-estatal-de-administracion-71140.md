@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-servicio-estatal-de-administracion-7114
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-28"
-last_updated: "2009-11-28"
+last_updated: "2017-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL SERVICIO ESTATAL DE ADMINISTRACION DE BIENES ASEGURADOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL SERVICIO ESTATAL DE ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS, DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 1 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL SERVICIO ESTATAL DE ADMINISTRACION DE BIENES ASEGURADOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de noviembre de 2009.
 
@@ -518,3 +520,15 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
 L.C.P. JOSÉ MANUEL SAIZ PINEDA
 
 SECRETARIO DE ADMINISTRACIÓN Y FINANZAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL SERVICIO ESTATAL DE ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS, DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Servicio Estatal de Administración de Bienes Asegurados, publicado el 28 de noviembre de 2009, en el Suplemento "E" al Periódico Oficial del Estado, número 7015.
+
+TERCERO. Para su mejor funcionamiento, el Servicio Estatal de Administración deberá formular en un término de 120 días hábiles, a partir de la fecha de publicación del presente Reglamento Interior, sus respectivos manuales de organización y de procedimientos.
