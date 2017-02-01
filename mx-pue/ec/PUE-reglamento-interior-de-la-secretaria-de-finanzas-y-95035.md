@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-finanzas-y-95035"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-28"
-last_updated: "2015-06-16"
+last_updated: "2017-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN, PUBLICADO EN EL P.O. DE 1 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 28 de junio de 2013.
 
@@ -4250,3 +4252,21 @@ PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Est
 SEGUNDO. Se dejan sin efectos todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Todo trámite que se haya iniciado o se encuentre en proceso a la Entrada en vigor del presente Decreto, deberá continuar tramitándose de acuerdo a las disposiciones legales y normatividad vigentes al momento de iniciarse.
+
+P.O. 1 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el mismo día de su publicación.
+
+SEGUNDO. Derivado de la entrada en vigor del presente Reglamento, las unidades administrativas de la Secretaría de Finanzas y Administración deberán realizar las modificaciones conducentes en los sellos, declaraciones, avisos, manifiestos y demás documentos oficiales que utilizan para el adecuado desarrollo de sus funciones.
+
+TERCERO. Los asuntos que se refieran a actos o resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente Decreto, se tramitarán, resolverán, defenderán y en general, serán de la competencia de la Unidad Administrativa de la Secretaría de Finanzas y Administración a la que le sean conferidas las facultades que correspondan conforme a este Reglamento.
+
+CUARTO. Cuando las funciones de alguna Unidad Administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra de las que el mismo establece, o cuando se cambie su adscripción, el personal, el archivo, el mobiliario y en general, el equipo que aquélla haya utilizado, pasarán a la unidad competente.
+
+QUINTO. En tanto se expidan o modifiquen los manuales administrativos, el Secretario está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
+
+SEXTO. Se abroga el Reglamento Interior de la Secretaría de Finanzas y Administración, publicado en el Periódico Oficial del Estado el veintiocho de junio de dos mil trece.
+
+SÉPTIMO. Se dejan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
