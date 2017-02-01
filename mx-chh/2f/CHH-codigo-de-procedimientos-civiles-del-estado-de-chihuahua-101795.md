@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-101795
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-23"
-last_updated: "2015-10-21"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO N°. 967/2015 XI P.E. PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2015 Y DECRETO DE REFORMA N°. 1018/2015 I P.O. PUBLICADO EN EL P.O. DE 21 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL DISTRITO JUDICIAL MORELOS: EL VEINTIOCHO DE OCTUBRE DE DOS MIL QUINCE; Y EN EL RESTO DE LOS DISTRITOS JUDICIALES: EL VEINTICUATRO DE FEBRERO DE DOS MIL DIECISÉIS, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 23 de julio de 2014.
 
@@ -509,7 +507,9 @@ Si no fuera subsanable la de la parte actora, el juzgado de inmediato dará por 
 
 La incompetencia puede promoverse por declinatoria o por inhibitoria. El o la litigante que hubiere optado por uno de estos medios no podrá abandonarlo y recurrir al otro. Tampoco se podrán emplear simultáneamente, debiendo pasarse por el resultado de aquél que se hubiere preferido.
 
-La persona que promueva la cuestión de competencia protestará en el escrito o en la comparecencia en que lo hiciere, no haber empleado el otro medio diverso al que inicie. Si resultare falsa la protesta, se le impondrá una multa de 100 veces el salario mínimo, aunque se hubiere decidido en su favor la competencia o se desista de ella.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+
+La persona que promueva la cuestión de competencia protestará en el escrito o en la comparecencia en que lo hiciere, no haber empleado el otro medio diverso al que inicie. Si resultare falsa la protesta, se le impondrá una multa de hasta 100 veces el salario mínimo, aunque se hubiere decidido en su favor la competencia o se desista de ella.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
@@ -621,11 +621,11 @@ Los tribunales declarados competentes harán que las cosas se restituyan al esta
 
 Lo dispuesto en este artículo admite las excepciones expresamente consignadas en la ley.
 
-(REPUBLICADO, P.O. 21 DE OCTUBRE DE 2015)
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 57.
 
-Salvo los casos previstos en el artículo 54 de este código, en todos los demás en que sea declarada improcedente la incompetencia, la parte que la hubiere hecho valer será condenada en costas generadas en el procedimiento que hizo nacer y se le impondrá además una multa de 100 salarios mínimos.
+Salvo los casos previstos en el artículo 54 de este código, en todos los demás en que sea declarada improcedente la incompetencia, la parte que la hubiere hecho valer será condenada en costas generadas en el procedimiento que hizo nacer y se le impondrá además una multa de hasta 100 salarios mínimos.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
@@ -691,7 +691,9 @@ Si la excepción se opone antes de la celebración de la audiencia preliminar, s
 
 Si es opuesta después de la celebración de dicha audiencia, se substanciará y decidirá con suspensión del procedimiento, con arreglo a las disposiciones que este código establece para los incidentes.
 
-Si la excepción es declarada procedente, se condenará en costas, daños y perjuicios a la o el litigante contra quien se diere y se le impondrá además, de oficio, una multa de 100 veces el salario mínimo.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+
+Si la excepción es declarada procedente, se condenará en costas, daños y perjuicios a la o el litigante contra quien se diere y se le impondrá además, de oficio, una multa de hasta 100 veces el salario mínimo.
 
 (REPUBLICADO, P.O. 21 DE OCTUBRE DE 2015)
 
@@ -2467,11 +2469,11 @@ V. La admisión de pruebas; y,
 
 VI. La citación para audiencia de juicio.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 256.
 
-La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juzgado, se le impondrá una multa de 50 veces el salario mínimo.
+La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juzgado, se le impondrá una multa de hasta 50 veces el salario mínimo.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
@@ -6028,3 +6030,11 @@ P.O. 21 DE OCTUBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Código de Procedimientos Civiles del Estado, atendiendo a lo dispuesto por el Artículo Único del Decreto número 967/2015 XI P.E., de fecha 21 de septiembre de 2015, y previa publicación en el Periódico Oficial del Estado, iniciará su vigencia, en el Distrito Judicial Morelos, el día veintiocho de octubre de dos mil quince; en el resto de los Distritos Judiciales, el veinticuatro de febrero de dos mil dieciséis.
+
+P.O. 1 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFCOD/0115/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
