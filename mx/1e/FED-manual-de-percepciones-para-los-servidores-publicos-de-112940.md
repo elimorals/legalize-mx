@@ -4,7 +4,7 @@ identifier: "FED-manual-de-percepciones-para-los-servidores-publicos-de-112940"
 country: "mx"
 rank: "manual"
 publication_date: "2016-02-24"
-last_updated: "2016-02-24"
+last_updated: "2017-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112940&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-02-16"
 ---
 # MANUAL DE PERCEPCIONES PARA LOS SERVIDORES PUBLICOS DE MANDO DEL INSTITUTO NACIONAL ELECTORAL PARA EL EJERCICIO FISCAL 2016
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE PERCEPCIONES PARA LOS SERVIDORES PÚBLICOS DE MANDO DEL INSTITUTO NACIONAL ELECTORAL PARA EL EJERCICIO FISCAL 2017, PUBLICADO EN EL D.O.F. DE 1 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE PERCEPCIONES PARA LOS SERVIDORES PÚBLICOS DE MANDO DEL INSTITUTO NACIONAL ELECTORAL PARA EL EJERCICIO FISCAL 2016
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE FEBRERO DE 2017 (DEROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 24 de febrero de 2016.
 
@@ -58,3 +60,17 @@ El presente Acuerdo fue aprobado en sesión ordinaria de la Junta General Ejecut
 El Consejero Presidente del Consejo General y Presidente de la Junta General Ejecutiva del Instituto Nacional Electoral, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario Ejecutivo y Secretario de la Junta General Ejecutiva del Instituto Nacional Electoral, Edmundo Jacobo Molina.- Rúbrica.
 
 > <small>[N. DE E. VÉASE MANUAL DE PERCEPCIONES PARA LOS SERVIDORES PÚBLICOS DE MANDO DEL INSTITUTO NACIONAL ELECTORAL PARA EL EJERCICIO FISCAL 2016 EN EL D.O.F. DE 24 DE FEBRERO DE 2016, PÁGINAS DE LA 21 A LA 32.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE PERCEPCIONES PARA LOS SERVIDORES PÚBLICOS DE MANDO DEL INSTITUTO NACIONAL ELECTORAL PARA EL EJERCICIO FISCAL 2017".]
+
+Primero.- Las disposiciones del presente Manual entrarán vigentes (sic) en vigor al día siguiente de su aprobación y serán aplicables durante el ejercicio fiscal 2017.
+
+Segundo.- En el caso específico de la Secretaría Ejecutiva y Presidencia del Consejo, aquellos trámites administrativos que se deriven de la aplicación del presente Manual, podrán ser solicitados y/o autorizados en su caso, por la persona que designen por escrito sus titulares, quien no podrá tener nivel menor a subdirección de área u homólogo.
+
+En el caso de las oficinas de los Consejeros Electorales y su personal adscrito, los trámites se solicitarán y/o autorizarán por el titular del área que realice su gestión administrativa, actualmente denominada Unidad de Enlace Administrativo del Consejo General del Instituto Nacional Electoral, debiendo contar previamente con solicitud por escrito del Consejero Electoral o la persona que éste designe.
+
+Tercero.- Se derogan las disposiciones del Manual de Percepciones para los servidores públicos de mando del Instituto Nacional Electoral para el ejercicio fiscal 2016 y, los lineamientos o normas que se opongan a lo dispuesto en el presente Manual.
