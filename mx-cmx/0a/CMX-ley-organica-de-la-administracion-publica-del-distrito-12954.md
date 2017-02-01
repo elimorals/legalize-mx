@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2016-12-22"
+last_updated: "2017-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE FEBRERO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -1196,9 +1196,11 @@ XIX. Desarrollar actividades tendientes al mejoramiento y especialización de lo
 
 XX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO, PRIMER PÁRRAFO, G.O. 1 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 30.
 
-A la Secretaría de Finanzas corresponde el despacho de las materias relativas a: el desarrollo de las políticas de ingresos y administración tributaria, la programación, presupuestación y evaluación del gasto público del Distrito Federal, así como representar el interés del Distrito Federal en controversias fiscales y en toda clase de procedimientos administrativos ante los tribunales en los que se controvierta el interés fiscal de la Entidad.
+A la Secretaría de Finanzas, corresponde el despacho de las materias relativas al desarrollo de las políticas de ingresos y administración tributaria, la programación, presupuestación y evaluación del gasto público, el ingreso y administración del capital humano, así como representar el interés de la Administración Pública, en controversias fiscales y en toda clase de procedimientos administrativos, ante los tribunales en los que se controvierta el interés fiscal.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -1242,7 +1244,105 @@ XIX. Llevar y mantener actualizados los padrones fiscales;
 
 XX. Expedir las reglas de carácter general en materia de hacienda pública a que se refiere el Código Financiero del Distrito Federal, y
 
-XXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXI. Coordinar el ingreso y administración del capital humano de la Administración Pública, a través de la emisión de las normas, mecanismos y tecnologías, que le den integralidad al sistema, su planeación, regulación y evaluación; así mismo, determinar el monto que en forma anual ejercerán las dependencias, delegaciones y entidades por concepto de servicios personales;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXII. Fomentar el estricto ejercicio de la planeación del capital humano, de los diferentes servicios públicos y programas de gobierno, a fin de propiciar la puntual programación, financiamiento e implementación de las acciones en la Administración Pública;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXIII. Expedir lineamientos generales para la selección, evaluación, certificación y promoción de los servidores públicos de la Administración Pública, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXIV. Expedir los nombramientos de los servidores públicos de carrera que ocupen un cargo en la estructura de la Administración Pública, como resultado de los procedimientos de ingreso, movilidad y ascenso del servicio público de carrera;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXV. Expedir los nombramientos del personal de la Administración Pública, previo acuerdo de las Dependencias, Órganos Desconcentrados y Entidades competentes;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXVI. Determinar la política de sueldos y salarios, para el personal de la Administración Pública;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXVII. Autorizar los tabuladores para el pago de los servidores públicos de la Administración Pública centralizada y desconcentrada;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXVIII. Normar, operar y vigilar el Sistema Integral Desconcentrado de Nómina (SIDEN) y los demás sistemas de nómina de la Administración Pública, con apego a los principios de integralidad, oportunidad y permanencia en el pago de los sueldos y el otorgamiento de las prestaciones;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXIX. Dirigir el apoyo y la asistencia técnica para brindar los servicios de reclutamiento de personal, considerando para ello el sistema de capacitación a través de los programas de servicio social, la práctica profesional y los diferentes sistemas de becas otorgadas en la Administración Pública;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXX. Conducir el sistema de profesionalización en la Administración Pública, considerando al personal técnico-operativo y de estructura, a fin de promover el desarrollo, promoción y estabilidad en el empleo, a través de la Universidad Laboral, en coadyuvancia con la Secretaría de Educación y a través de los convenios de colaboración con instituciones educativas públicas y/o privadas;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXXI. Normar el funcionamiento de los Centros de Atención y Cuidado Infantil Delegacionales (CACIDEL) y administrar los Centros de de (sic) Atención y Cuidado Infantil adscritos a la Secretaría, que otorgan servicios educativo-asistenciales a los trabajadores de base sindicalizados, vigilando que se brinde una atención integral de calidad, y en coadyuvancia con la Secretaría de Educación;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXXII. Evaluar, registrar y vigilar a las Asociaciones Civiles y empresas que presten servicios de capacitación y profesionalización en la Administración Pública;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXXIII. Promover la inclusión y la equidad en plazas técnico-operativas de nueva creación, para personas con discapacidad y/o de grupos vulnerables;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXXIV. Promover la realización de estudios actuariales y proyecciones de pensiones, a fin de prever las necesidades financieras y la viabilidad de los sistemas de pensiones y jubilaciones de la Administración Pública, y presidir los consejos de gobierno de los entes encargados de la administración de estos conceptos, creados o que se puedan crear para tal fin; así como los fondos y/o fideicomisos creados o que se puedan crear a favor del personal al servicio de la Administración Pública;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXXV. Establecer los mecanismos para que el personal al servicio de la Administración Pública, tenga acceso a la adquisición de vivienda, con las instituciones públicas y privadas dentro del territorio de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXXVI. Dirigir el mejor funcionamiento de los sistemas de estabilidad, promoción y superación profesional a través de los servicios profesionales de carrera y de escalafón;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXXVII. Impulsar, en coordinación con la representación laboral, que la operación de los sistemas de escalafón del personal de base en la Administración Pública, se realice de conformidad con lo establecido en las normas y reglas de operación que se definan, bajo los preceptos de justicia, equidad e imparcialidad;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXXVIII. Asumir, como autoridad delegada, la representación patronal ante las negociaciones de orden laboral y revisiones o formalización de las Condiciones Generales de Trabajo y, en su caso, del Contrato Colectivo de Trabajo;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XXXIX. Dirigir y conducir las relaciones laborales del personal al servicio de la Administración Pública, así como, elaborar, revisar y sancionar la normatividad en materia de relaciones laborales;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XL. Nombrar, designar o remover, en su caso, a quienes deban representar a la Administración Pública, ante la Comisión Mixta de Escalafón, la Comisión Central de Seguridad y Salud en el Trabajo, y demás comisiones que se integren, de conformidad con las disposiciones laborales aplicables;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XLI. Promover la realización de visitas de verificación sobre la aplicación de las normas técnicas en materia de seguridad y salud en el trabajo, en las instalaciones de la Administración Pública;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XLII. Auxiliar al Jefe de Gobierno, para vigilar que las comisiones y subcomisiones de Seguridad en el Trabajo, se integren y funcionen de acuerdo a la normatividad vigente y los preceptos actuales de la medicina del trabajo;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XLIII. Representar al Gobierno de la Ciudad de México ante las autoridades fiscales federales y locales para la presentación de avisos, declaraciones, manifestaciones y en general los actos y actividades tendientes a cumplir centralmente con las obligaciones fiscales a cargo de las Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Entidades que utilizan el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2017)</small>
+
+XLIV. Implementar, Operar y Administrar los sistemas informáticos, plataformas, sitios web y en general los medios que permitan recibir de las Dependencias, Órganos Político Administrativos, Órganos Desconcentrados y Entidades que utilizan el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, los informes, reportes y bases de datos que permitan el adecuado cumplimiento de las obligaciones fiscales;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXI], G.O. 1 DE FEBRERO DE 2017)</small>
+
+XLV. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE JULIO DE 2014)</small>
 
@@ -1388,41 +1488,37 @@ XXIV. Administrar y programar las actividades de los museos, las agrupaciones mu
 
 XXV. Las demás que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 33.
 
-A la Oficialía Mayor corresponde el despacho de las materias relativas a la administración y desarrollo de personal, la modernización, innovación, simplificación administrativa, mejora regulatoria y atención ciudadana; los recursos materiales; los servicios generales; las tecnologías de la información y comunicaciones; el patrimonio inmobiliario; y, en general, la administración interna de la Administración Pública del Distrito Federal.
+A la Oficialía Mayor corresponde el despacho de las materias relativas a la modernización, innovación, simplificación, mejora regulatoria y atención ciudadana; los recursos materiales; los servicios generales, las tecnologías de la información y comunicaciones y el patrimonio inmobiliario en la Administración Pública.
 
 Específicamente cuenta con las siguientes atribuciones:
 
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2017)</small>
 
-I. Proponer al Jefe de Gobierno medidas técnicas y políticas para la organización, simplificación, modernización de innovación de la actuación y funcionamiento de la Administración Pública del Distrito Federal; así como de manera coordinada con la Secretaría de Ciencia, Tecnología e Innovación, la conclusión permanente de nuevas tecnologías en los procesos administrativos y de gestión pública que comprenden las actividades de las Dependencias que conforman la Administración Pública del Distrito Federal;
+I. Proponer al Jefe de Gobierno medidas técnicas y políticas para la organización, simplificación, modernización de innovación de la actuación y funcionamiento de la Administración Pública, exceptuando la materia del capital humano, así como de manera coordinada con la Secretaria de Ciencia, Tecnología e Innovación, la conclusión permanente de nuevas tecnologías en los procesos administrativos y de gestión pública, que comprendan las actividades de las Dependencias que conforman la Administración Pública;
 
 > <small>(REFORMADA, G.O. 15 DE ENERO DE 2014)</small>
 
 II. Diseñar, coordinar y normar las políticas y criterios para el desarrollo, simplificación e innovación en materia de administración interna que deben observar las dependencias, órganos desconcentrados y entidades que integran la Administración Pública del Distrito Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2017)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2009)</small>
+III. Determinar los lineamientos para la expedición de credenciales de acreditación de verificadores, que realicen las Dependencias, Órganos y Entidades de la Administración Pública;
 
-III. Expedir lineamientos para la expedición de credenciales de acreditación de verificadores que realicen las Dependencias, Órganos y Entidades de la Administración Pública;
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE ENERO DE 2009)</small>
-
-IV. Integrar, actualizar y difundir por Internet el padrón de verificadores administrativos de la Administración Pública del Distrito Federal;
+IV. Integrar, actualizar y difundir por Internet el padrón de verificadores administrativos, de la Administración Pública;
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
 
 V. Establecer la normatividad y dictaminar las modificaciones a la estructura orgánica de las dependencias, órganos desconcentrados y entidades paraestatales de la Administración Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2017)</small>
 
-VI. Normar, vigilar la aplicación de las medidas de desconcentración y descentralización administrativa que resulten de los procesos de modernización de la Administración Pública del Distrito Federal;
+VI. Supervisar la aplicación de las medidas de desconcentración y descentralización administrativa, que resulten de los procesos de actualización de la Administración Pública;
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
 
@@ -1432,31 +1528,23 @@ VIII. Apoyar al Jefe de Gobierno en la conducción de las entidades paraestatale
 
 IX. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
 
-> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
+X. (DEROGADA, G.O. 1 DE FEBRERO DE 2017)
 
-X. Participar en la operación de los Cuerpos del Servicio Público de Carrera de la Administración Pública del Distrito Federal, así como en la instrumentación de los Sistemas y procedimientos del mismo Servicio, de conformidad con las disposiciones aplicables;
+XI. (DEROGADA, G.O. 1 DE FEBRERO DE 2017)
 
-XI. Expedir lineamientos generales para la selección, evaluación, certificación y promoción de los servidores públicos de la Administración Pública del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
+XII. (DEROGADA, G.O. 1 DE FEBRERO DE 2017)
 
-> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
+XIII. (DEROGADA, G.O. 1 DE FEBRERO DE 2017)
 
-XII. Apoyar el funcionamiento del Consejo y de los Comités del Servicio Público de Carrera de la Administración Pública del Distrito Federal, así como dar seguimiento a las resoluciones y los acuerdos emitidos por estos órganos;
+XIV. (DEROGADA, G.O. 1 DE FEBRERO DE 2017)
 
-> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
+XV. (DEROGADA, G.O. 1 DE FEBRERO DE 2017)
 
-XIII. Expedir los nombramientos de los servidores públicos de carrera que ocupen un cargo en la estructura de la Administración Pública del Distrito Federal, como resultado de los procedimientos de ingreso, movilidad y ascenso del Servicio Público de Carrera;
+XVI. (DEROGADA, G.O. 1 DE FEBRERO DE 2017)
 
-XIV. Proponer al Jefe de Gobierno la designación o remoción, en su caso, de quienes deban representar al Distrito Federal ante la Comisión Mixta de Escalafón, la Comisión Mixta de Higiene y Seguridad y demás comisiones que se integren, de conformidad con las disposiciones laborales aplicables;
+XVII. (DEROGADA, G.O. 1 DE FEBRERO DE 2017)
 
-XV. Autorizar los tabuladores para el pago de los servidores públicos de la Administración Pública del Distrito Federal centralizada y desconcentrada, así como la normatividad y la política de sueldos y salarios del personal de la Administración Pública del Distrito Federal, así como determinar las políticas, normas y lineamientos administrativos respecto a la contratación de la prestación de servicios profesionales que lleve a cabo la Administración Pública del Distrito Federal;
-
-XVI. lntervenir en la formulación de las condiciones generales de trabajo, difundirlas y vigilar su aplicación;
-
-XVII. Expedir los nombramientos del personal de la Administración Pública del Distrito Federal, previo acuerdo de las dependencias, órganos desconcentrados y entidades competentes;
-
-> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
-
-XVIII. Establecer la normatividad y las políticas de capacitación del personal de la Administración Pública del Distrito Federal que no sea miembro del Servicio Público de Carrera;
+XVIII. (DEROGADA, G.O. 1 DE FEBRERO DE 2017)
 
 XIX. Establecer la normatividad correspondiente a los arrendamientos, enajenaciones y adquisiciones que realice el Distrito Federal, así como respecto de los servicios que le sean prestados e intervenir en unos y otros, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -1486,9 +1574,9 @@ XXVII. Conducir las políticas de modernización, simplificación y desregulaci�
 
 XXVIII. Coadyuvar con las dependencias, órganos desconcentrados, delegaciones y entidades, en el cumplimiento de las obligaciones de transparencia y acceso a la información pública así como de protección de datos personales;
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2017)</small>
 
-XXIX. Organizar, conducir y dar seguimiento a los procesos para la evaluación del desempeño de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal;
+XXIX. Organizar, conducir y dar seguimiento a los procesos para la evaluación del desempeño de las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, exceptuando lo relativo a la materia de Capital Humano.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2014)</small>
 
@@ -2729,3 +2817,21 @@ SÉPTIMO.- En la transferencia de la Unidad Administrativa que por la ejecución
 OCTAVO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite y deban ser atendidos por las unidades administrativas objeto de transferencia, serán resueltos por la dependencia que los recibe, dentro de los plazos establecidos al efecto, a excepción de los trámites urgentes o sujetos a plazo improrrogable.
 
 NOVENO.- En tanto se formaliza material, financiera y administrativamente la transferencia a la Consejería Jurídica y de Servicios Legales de los recursos humanos, materiales, técnicos y financieros de la Dirección General de Regularización Territorial, la Secretaría de Gobierno continuará ejerciendo los recursos presupuestales correspondientes a esta área administrativa de conformidad con los techos presupuestales aprobados en el Presupuesto de Egresos de la Ciudad de México para el ejercicio fiscal 2017.
+
+G.O. 1 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Túrnese para su correspondiente promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
+
+CUARTO.- Cuando en otra ley o disposición jurídica, se atribuya a otra área o dependencia de la Administración Pública, las facultades señaladas, se estarán a lo dispuesto en el presente decreto.
+
+QUINTO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores que le sean aplicables.
+
+SEXTO.- Las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y Órganos Desconcentrados de la Administración Pública, que con motivo de la entrada en vigor de estas reformas, deban transferir recursos humanos, materiales, técnicos y financieros a las Unidades Administrativas, Órganos Desconcentrados y a las Unidades Administrativas de apoyo técnico-operativo de nueva creación, a ellos adscritos, lo harán en los términos y condiciones que establezca la Secretaría de Finanzas.
+
+SÉPTIMO.- Cuando con motivo de la aplicación de estas reformas, los trabajadores de las Dependencias y Unidades Administrativas, pasen a formar parte de otra, sus derechos laborales serán respetados conforme a la ley.
