@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fiscalizacion-superior-del-estado-de-chiapas-33701"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-18"
-last_updated: "2012-12-24"
+last_updated: "2017-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 1 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el lunes 18 de agosto de 2003.
 
@@ -1644,3 +1646,19 @@ P.O. 24 DE DICIEMBRE DE 2012.
 Artículo Primero.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 132 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación, sin perjuicio de lo previsto en los transitorios siguientes.
+
+Artículo Segundo.- Se abroga la Ley de Fiscalización Superior del Estado de Chiapas, publicada en el Periódico Oficial número 188, mediante Decreto 207, en fecha 18 de agosto del año 2003, conforme a lo dispuesto en los artículos transitorios subsecuente (sic) y se derogan todas las disposiciones legales que contravengan o se opongan a la presente Ley.
+
+Artículo Tercero.- Los procedimientos administrativos iniciados de conformidad con la Ley de Fiscalización Superior del Estado de Chiapas que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta de la Hacienda Pública Estatal y Municipal del año 2016.
+
+Artículo Cuarto.- Las funciones de fiscalización y revisión de la Auditoría Superior del Estado previstas en la presente Ley entrarán en vigor a partir de la Cuenta de la Hacienda Pública Estatal y Municipal del año 2017.
+
+Artículo Quinto.- Las funciones de fiscalización y revisión a que se refiere el Título Cuarto de la Ley denominado “De la Fiscalización durante el Ejercicio Fiscal en curso o de Ejercicios Anteriores” entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+Artículo Sexto.- La Auditoría Superior del Estado deberá expedir su reglamento interior, así como actualizar su normatividad, conforme a lo previsto en esta Ley en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
