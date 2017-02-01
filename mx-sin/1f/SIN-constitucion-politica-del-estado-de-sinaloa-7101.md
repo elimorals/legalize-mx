@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2016-04-06"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -152,6 +152,14 @@ Dichas medidas cesarán cuando se hayan alcanzado los objetivos de igualdad en l
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2016)</small>
 
 IX. Todo individuo tiene derecho a recibir educación. El Estado y los Municipios garantizarán que la educación preescolar, primaria, secundaria y media superior que impartan sea obligatoria y gratuita.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2017)</small>
+
+X. Todas las personas tienen derecho al libre acceso al internet y a las tecnologías de la información y comunicación.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN X], P.O. 1 DE FEBRERO DE 2017)</small>
+
+El Estado y los Municipios deberán garantizar el acceso a internet gratuito inalámbrico de banda ancha, en los edificios e instalaciones de los diversos Poderes del Estado y de las dependencias y entidades de su administración, así como en los lugares públicos que para el efecto se determinen.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
 
@@ -1566,6 +1574,10 @@ En los contenidos de los planes y programas de estudio de los niveles de educaci
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DEL 2000)</small>
 
 Para apoyar la disciplina del estudio y los hábitos de lectura en los educandos, el Estado conforme a su disponibilidad presupuestal promoverá la creación de bibliotecas en los centros docentes de todos los niveles escolares.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2017)</small>
+
+En los mismos términos, el Estado garantizará que las escuelas públicas a su cargo cuenten con instalaciones y equipos para el acceso de los educandos a internet y a las tecnologías de la información y de la comunicación.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -3769,7 +3781,7 @@ P.O. 1 DE JUNIO DE 2015.
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
 
-Artículo Segundo. El congreso del Estado deberá expedir la nueva legislación secundaria en materia electoral, con la oportunidad necesaria para que entre en vigor por lo menos noventa días antes del inicio del proceso electoral inmediato siguiente.
+Artículo Segundo. El Congreso del Estado deberá expedir la nueva legislación secundaria en materia electoral, con la oportunidad necesaria para que entre en vigor por lo menos noventa días antes del inicio del proceso electoral inmediato siguiente.
 
 Artículo Tercero. La disposición contenida en el artículo 25 Bis, relativa a la reelección de Diputados Locales, no será aplicable a los legisladores que hayan protestado el cargo en la Legislatura que se encuentre en funciones a la fecha en que entre en vigor el presente Decreto.
 
@@ -3840,3 +3852,11 @@ P.O. 6 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 438 QUE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 4" BIS B DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 612 DEL H. CONGRESO DEL ESTADO.- QUE SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 4° BIS B, Y UN CUARTO PÁRRAFO AL ARTÍCULO 91, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Para dar cumplimiento a lo establecido en el presente Decreto, el Estado y los Municipios, implementarán de manera paulatina y en función de la suficiencia presupuestaria de cada uno de ellos, las medidas para destinar espacios, adquirir e instalar equipos y difundir socialmente cuáles son los espacios, escuelas y demás edificios públicos en los que se prestará el servicio.
