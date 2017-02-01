@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2016-12-23"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "NAY"
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE FEBRERO DE 2017.]</small>
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -2175,11 +2177,15 @@ Comete el delito de peculado toda persona encargada de un servicio público del 
 
 Al que cometa el delito de peculado se le aplicarán de uno a nueve años de prisión y multa de treinta a cincuenta días y destitución de empleo o cargo e inhabilitación para desempeñar otros similares.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 250.
 
 La sanción será de uno a seis meses de prisión y multa de cinco a quince días, si dentro de los treinta días siguientes a aquél en que se descubrió el delito devolviere el responsable lo sustraído.
+
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 2017)</small>
+
+Esta disposición se entiende sin perjuicio de la destitución, de la inhabilitación y de la multa correspondiente.
 
 ### CAPÍTULO VIII. DELITOS COMETIDOS EN LA CUSTODIA DE DOCUMENTOS
 
@@ -2773,7 +2779,7 @@ Los ascendientes o tutores que entreguen a un menor de siete años que esté baj
 
 ### CAPÍTULO VI. ABANDONO DE FAMILIARES
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 301.
 
@@ -2835,6 +2841,14 @@ Se aplicará esta última sanción en caso de incesto entre hermanos.
 
 Al que sin causa justificada, falte en forma total o parcial, ésta última sólo cuando ya se haya decretado la pensión provisional o definitiva por el juez de familia; o por convenio firmado ante cualquier autoridad distinta a la judicial, por más de treinta días naturales a la obligación de suministrar alimentos a sus hijos, cónyuge, concubina o cualquier otra persona con quien tenga el deber de asistencia conforme al Código Civil para el Estado de Nayarit, aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero, se le impondrá de dos a cinco años de prisión y multa de treinta a doscientos días.
 
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 2017)</small>
+
+La penalidad antes referida podrá aumentarse hasta en una mitad más, cuando el deudor alimentario abandone o incumpla sus obligaciones de asistencia alimentaria para con una mujer en estado de gravidez con quien se presuma la paternidad en razón de la relación de matrimonio o concubinato que los una.
+
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 2017)</small>
+
+Además de las sanciones señaladas y de la reparación del daño a que se tenga derecho, en caso de reincidencia el juez podrá decretar la suspensión o pérdida de los derechos de patria potestad, tutela, hereditarios o de alimentos que pudiere tener el sujeto activo a su favor respecto de la víctima.
+
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 307.
@@ -2884,6 +2898,8 @@ Tratándose del delito de violencia familiar, procederá el perdón de parte ofe
 En caso de que el sujeto activo abandone el tratamiento, quedará sin efecto el perdón y continuará el proceso en sus etapas respectivas.
 
 En caso de reincidencia por parte del agresor o que la víctima se encuentre en estado de gravidez o padezca algún trastorno mental, se aumentará hasta en una mitad más la pena que corresponda.
+
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 2017)</small>
 
 Si de la comisión de la violencia familiar resultaren otras conductas constitutivas de delitos como lesiones, homicidio o contra la libertad sexual, se aplicarán las reglas del concurso.
 
@@ -3341,11 +3357,11 @@ III. Cuando sean varias las lesiones, unas mortales y otras no y se ignore quié
 
 IV. Cuando las lesiones no fueren mortales sino por su número y no se pueda averiguar quiénes las infirieron, se aplicará de cuatro a siete años de prisión, a todos los que hubieren atacado al occiso.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 359.
 
-Salvo el caso de la fracción IX del artículo 361 de este código, al responsable de homicidio calificado se impondrá una pena de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
+Al responsable de homicidio calificado se impondrá una pena de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
 
 ### CAPÍTULO I. ROBO
 
@@ -3407,19 +3423,19 @@ f) El homicidio se cometa para ocultar una violación o evitar que se denuncie o
 
 g) La víctima haya sido incomunicada o privada de su libertad, de cualquier forma.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 2017)</small>
 
-A quien prive de la vida a una mujer por razones de misoginia se le impondrá una pena de veintidós a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
+A quien prive de la vida a una mujer por razones de misoginia se le impondrá una pena de veintidós a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días de salario mínimo.
 
 Si entre el activo y la víctima existió una relación de parentesco por consanguinidad, matrimonio, concubinato, noviazgo, amistad o cualquier otra relación sentimental de hecho, laboral, docente, vecinal o cualquier otra que implique confianza, subordinación, superioridad o ventaja, y se acredita cualquiera de los supuestos anteriores, se impondrán de veinticinco a cincuenta años de prisión.
 
 Tratándose de una relación de parentesco, se impondrá además de la prisión, la pérdida de derechos con respecto a la víctima u ofendidos, incluidos los de carácter sucesorio.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+(ADICIONADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
+
+ARTÍCULO 361 BIS.- Se impondrá de treinta a cincuenta años de prisión y multa de quinientos a mil días, a quien cometa el delito de feminicidio.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
-
-ARTÍCULO 361 BIS.- Se impondrán de treinta a cincuenta años de prisión y multa de quinientos a mil días de salario mínimo, a quien cometa el delito de feminicidio.
 
 Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen motivos de género, cuando se acredite alguna de las circunstancias siguientes:
 
@@ -3438,6 +3454,8 @@ VI. El homicidio se cometa para ocultar una violación o evitar que se denuncie 
 VII. La víctima haya sido incomunicada o privada de su libertad, de cualquier forma, o
 
 VIII. Que se cometa por odio, aversión obsesiva, discriminación o dominio hacia la mujer.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 En caso que no se acredite el feminicidio se aplicarán las reglas del homicidio.
 
@@ -3757,9 +3775,15 @@ Al que comercie con pieles, carnes u otros derivados obtenidos del Abigeato, se 
 
 Al que, con perjuicio de alguien, disponga para sí o para otro, de cualquier cosa ajena mueble, de la que se le haya transmitido la tenencia y no el dominio, se le sancionará con prisión de tres meses a dos años y multa de diez a treinta días, cuando el monto del abuso no exceda cien veces la Unidad de Medida y Actualización diaria.
 
-Si excede de esta cantidad pero no de quinientas veces la Unidad de Medida y Actualización diaria, la prisión será de dos a cuatro años y multa de quince hasta sesenta días.
+Si excede de esta cantidad, pero no de quinientas veces la Unidad de Medida y Actualización diaria, la prisión será de dos a cuatro años y multa de quince hasta sesenta días.
 
-Si el monto es mayor de quinientas pero no dos mil veces la Unidad de Medida y Actualización diaria, la prisión será de cuatro a diez años y la multa de veinte a cien días. Si el monto es mayor de dos mil Unidades de Medida y Actualización diarias, la prisión será de seis a doce años y multa de cuarenta a doscientos días.
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 2017)</small>
+
+Si el monto es mayor de quinientas pero no dos mil veces la Unidad de Medida y Actualización diaria, la prisión será de cuatro a diez años y la multa de veinte a cien días.
+
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 2017)</small>
+
+Si el monto es mayor de dos mil Unidades de Medida y Actualización diarias, la prisión será de seis a doce años y multa de cuarenta a doscientos días.
 
 ###### ARTÍCULO 398.
 
@@ -3877,7 +3901,7 @@ Las sanciones para este delito serán las mismas que para el fraude establece el
 
 ### CAPÍTULO I. ENCUBRIMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 404.
 
@@ -3890,6 +3914,8 @@ II. Al que aprovechando la notoria necesidad ajena, ignorancia o miseria, procur
 III. Al que haya adquirido un crédito o comisión usuraria con conocimiento de causa para enajenarlo o hacerlo valer.
 
 Para los efectos de esta fracción, se entenderá que los créditos, comisiones o préstamos son usurarios, cuando sean superiores al límite señalado en la fracción I del presente artículo.
+
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 2017)</small>
 
 Cuando una persona moral facilite los medios para la comisión del presente ilícito en cualquiera de sus modalidades, de modo que éste resulte cometido a su nombre, bajo su amparo o en su beneficio, se le impondrá suspensión de sus actividades hasta por un año, y además serán sancionados penalmente, los dirigentes, administradores y mandatarios que ordenen, permitan o ejecuten dichos delitos, conforme a lo prescripto en el primer párrafo de este artículo.
 
@@ -4027,13 +4053,13 @@ Se entiende por asentamiento humano irregular el grupo de personas que se establ
 
 ###### ARTÍCULO 417.
 
-Se impondrá de tres a siete años de prisión y multa hasta el equivalentes (sic) a treinta días, al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al responsable a eludir las investigaciones de la autoridad correspondiente o a sustraerse a la acción de ésta, u ocultare, destruyere o hiciere desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo.
+Se impondrá de tres a siete años de prisión y multa hasta el equivalente a treinta días, al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al responsable a eludir las investigaciones de la autoridad correspondiente o a sustraerse a la acción de ésta, u ocultare, destruyere o hiciere desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo.
 
 Igual sanción se aplicará a quien no procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sepa va a cometerse o se estén cometiendo si son de los que se persiguen de oficio.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
 
-Se impondrá de cuatro a diez años de prisión y multa hasta el equivalente a cien días, cuando el encubrimiento sea respecto de delitos de asalto, violación, homicidio doloso, parricidio, filicidio u homicidio contra la mujer por razón de misoginia.
+Se impondrá de cuatro a diez años de prisión y multa hasta el equivalente a cien días, cuando el encubrimiento sea respecto de delitos de asalto, violación, homicidio doloso, parricidio, filicidio o feminicidio.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
