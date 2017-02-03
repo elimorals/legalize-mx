@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2016-12-20"
+last_updated: "2017-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE FEBRERO DE 2017.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -2569,13 +2569,9 @@ Los jueces de control y los del Tribunal de Enjuiciamiento, tendrán las faculta
 
 Los jueces de control adscritos a los juzgados especializados en órdenes de cateo y de aprehensión podrán expedir dichos mandamientos por el medio electrónico previamente validado, así como en aquellos supuestos que expresamente se encuentren autorizados por el Pleno del Consejo de la Judicatura.
 
-(NOTA: EL 19 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 17 DE JUNIO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.G. 16 DE JUNIO DE 2016)</small>
-
 ###### Artículo 192.
 
-El plazo constitucional de setenta y dos horas para resolver la situación jurídica de un imputado detenido se computará a partir de que el Ministerio Público deje a su disposición al imputado en área de espera del establecimiento a cargo de la Dirección General de Prevención y Readaptación Social, la cual deberá notificarle dicho ingreso de manera inmediata y por cualquier medio oficial al administrador del Juzgado.
+(DEROGADO, G.G. 3 DE FEBRERO DE 2017)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3252,3 +3248,15 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 192.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 9, 58 EN SU CUARTO PÁRRAFO Y DEROGA DEL ARTÍCULO 69, LA FRACCIÓN V, EL CAPÍTULO XVII DENOMINADO "NO EJERCICIO DE LA ACCIÓN PENAL" DEL TÍTULO QUINTO DEL LIBRO PRIMERO Y EL ARTÍCULO 106 QUINTUS, EL CAPÍTULO II DENOMINADO "SECUESTRO" DEL SUBTÍTULO TERCERO, DEL TÍTULO TERCERO, ASÍ COMO LOS ARTÍCULOS 259, 260 Y 261 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; Y REFORMA LA DENOMINACIÓN "LEY DE INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO", EL ARTÍCULO 2, LAS FRACCIONES IV Y XVII DEL ARTÍCULO 3, EL APARTADO B DE LA FRACCIÓN I DEL ARTÍCULO 4, EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 10, LOS ARTÍCULOS 11, 12, 13, 14, 15, 16, 17 EN SU PRIMER PÁRRAFO, 18, 19, 20 EN SU SEGUNDO PÁRRAFO, 22, 23, 24 Y 25 Y SE DEROGAN LA FRACCIÓN III DEL ARTÍCULO 3, EL CAPÍTULO III DENOMINADO "DE LA CONMUTACIÓN DE LA PENA" Y LOS ARTÍCULOS 6, 7, 8 Y 9 DE LA LEY DEL INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO; Y DEROGA EL ARTÍCULO 192 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones jurídicas vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
