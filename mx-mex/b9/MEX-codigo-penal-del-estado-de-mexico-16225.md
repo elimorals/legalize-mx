@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2016-12-20"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE FEBRERO DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -141,13 +141,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-(NOTA: EL 8 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO, ASÍ COMO EN EL APARTADO IV DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo; el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177; el de delincuencia organizada, previsto en el artículo 178; los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205; los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206; el de lenocinio, previsto en los artículos 209 y 209 bis; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones, que señala el artículo 238, fracción V; el de homicidio, contenido en el artículo 241; el de feminicidio, previsto en el artículo 242 bis; EL DE SECUESTRO, SEÑALADO POR EL ARTÍCULO 259; el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo; el de extorsión contenido en los párrafos tercero y cuarto del artículo 266; el asalto a una población a que se refiere el artículo 267; el de trata de personas, contemplado en el artículo 268 bis; el de abuso sexual, señalado en el artículo 270; el de violación, señalado por los artículos 273 y 274; el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI y XVII y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto, y el de daño en los bienes, señalado en el artículo 311 y, en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V, el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110, el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156, el de evasión a que se refiere el artículo 160, el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174, el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo, el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177, el de delincuencia organizada; previsto en el artículo 178, los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189, el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195, el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205, los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206, el de lenocinio, previsto en los artículos 209 y 209 bis, el tráfico de menores, contemplado en el artículo 219, el de cremación de cadáver señalado en el artículo 225, el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229, el deterioro de área natural protegida, previsto en el artículo 230, el de lesiones, que señala el artículo 238, fracción V, el de homicidio, contenido en el artículo 241, el de feminicidio, previsto en el artículo 242 bis, el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo, el de extorsión contenido en los párrafos tercero y cuarto del artículo 266; el asalto a una población a que se refiere el artículo 267, el de trata de personas, contemplado en el artículo 268 bis, el de abuso sexual, señalado en el artículo 270, el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI y XVII y 292, el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV, el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto, y el de daño en los bienes, señalado en el artículo 311 y; en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -765,11 +763,9 @@ Si el inculpado al rendir su declaración en la audiencia de juicio confiesa esp
 
 Si el inculpado de un delito patrimonial, paga espontáneamente la reparación del daño antes de que concluya la audiencia de juicio, el órgano jurisdiccional, atendiendo a las circunstancias especiales del hecho, podrá reducir hasta en una mitad la pena.
 
-(NOTA: EL 8 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO, ASÍ COMO EN EL APARTADO IV DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
-> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
-
-La reducción a que se refiere este artículo no se concederá en delitos de extorsión, SECUESTRO, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
+La reducción a que se refiere este artículo no se concederá en delitos de extorsión, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
 
 ### CAPITULO II. CASOS DE TENTATIVA
 
@@ -885,9 +881,7 @@ III. Robo de vehículo;
 
 IV. Robo a casa habitación;
 
-(NOTA: EL 8 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO, ASÍ COMO EN EL APARTADO IV DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-V. SECUESTRO;
+V. (DEROGADA, G.G. 3 DE FEBRERO DE 2017)
 
 VI. Lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar;
 
@@ -1417,15 +1411,11 @@ El cumplimiento de lo acordado a través de un mecanismo alternativo de solució
 
 La suspensión condicional del proceso a prueba no revocada, extingue la acción penal.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 16 DE JUNIO DE 2016)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 3 DE FEBRERO DE 2017)</small>
 
-### CAPITULO XVII. NO EJERCICIO DE LA ACCIÓN PENAL
+### CAPÍTULO XVII. NO EJERCICIO DE LA ACCIÓN PENAL
 
-(NOTA: EL 19 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 17 DE JUNIO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.G. 16 DE JUNIO DE 2016)</small>
-
-Artículo 106 Quintus.- La determinación firme de no ejercicio de la acción penal extingue la acción penal e impide la persecución por los hechos determinados respecto del imputado, salvo que sea por diversos hechos o en contra de diferente persona.
+Artículo 106 quintus.- (DEROGADO, G.G. 3 DE FEBRERO DE 2017)
 
 # LIBRO SEGUNDO
 
@@ -3757,11 +3747,7 @@ En este delito sólo se procederá por querella del ofendido.
 
 > <small>(DEROGADO TERCER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO II. SECUESTRO
-
-(NOTA: EL 8 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO, ASÍ COMO EN EL APARTADO IV DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
+### CAPÍTULO II. SECUESTRO
 
 ###### Artículo 253.
 
@@ -3847,83 +3833,21 @@ III. Por medio de la violencia o la coacción impida a una persona ejecutar un a
 
 A quien incurra en este delito se le impondrán de uno a cuatro años de prisión y de treinta a cien días multa.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE FEBRERO DE 2017)</small>
+
 ### CAPITULO VIII. ALLANAMIENTO DE MORADA
 
 ###### Artículo 259.
 
-Al que por cualquier medio prive a otro de la libertad, con el fin de obtener rescate o causar daños o perjuicios al secuestrado o a otra persona relacionada con éste, se le impondrá de treinta a sesenta años de prisión y de setecientos a cinco mil días multa.
-
-La pena señalada en el párrafo anterior se atenuará o agravará en los términos de las siguientes fracciones:
-
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
-
-I. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cuarenta y ocho horas, cuando no le haya causado ningún daño o perjuicio, ni a la persona relacionada con éste, se le impondrán de dos a seis años de prisión y de cien a mil días multa;
-
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
-
-II. Al que sin haber recibido rescate pusiese espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción I del artículo 237, se le impondrán de tres a diez años de prisión y de ciento cincuenta a mil quinientos días multa;
-
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
-
-III. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción II del artículo 238, se le impondrán de ocho a veinte años de prisión y de doscientos a dos mil días multa;
-
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
-
-IV. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción III del artículo 238 o de las que pusieren en peligro la vida, se le impondrán de quince a treinta años de prisión y de doscientos cincuenta a tres mil días multa;
-
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
-
-V. Se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa:
-
-a) Cuando con motivo del secuestro se cause la muerte o falleciera el secuestrado, y
-
-b) Cuando se cause la muerte a personas relacionadas con el secuestro.
-
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
-
-VI. Al que solicite u obligue al secuestrado a retirar dinero de los cajeros electrónicos y/o de cualquier cuenta bancaria a la que este tenga acceso se le impondrá de treinta y cinco a cincuenta años de prisión y de setecientos a dos mil días multa.
-
-Se equipara al secuestro, al que detenga en calidad de rehén a una persona y amenace con privarla de la vida o con causarle un daño, sea a aquélla o a terceros, para obligar a la autoridad a realizar o dejar de realizar un acto de cualquier naturaleza; en tal caso se impondrán las penas señaladas en este artículo.
-
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
-
-Cuando en la comisión de este delito participe un elemento perteneciente a una corporación policíaca se agravará la pena en una mitad más de la que le corresponda, destitución e inhabilitación de diez a veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
-
-Siendo el secuestro un delito de los que se persiguen de oficio, la autoridad tendrá en todos los casos la obligación de intervenir en la investigación de los hechos y persecución del inculpado, tan pronto como tenga conocimiento del ilícito y aun cuando el ofendido o sus familiares se opongan a ello o no presenten denuncia formal. A los servidores públicos que teniendo el deber de hacerlo, no procedan en los términos de esta disposición, se les impondrán de tres meses a tres años de prisión y de treinta a cien días multa.
-
-(NOTA: EL 8 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO, ASÍ COMO EN EL APARTADO IV DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, G.G. 3 DE FEBRERO DE 2017)
 
 ###### Artículo 260.
 
-A quien simule encontrarse secuestrado con amenaza de su vida o daño a su persona con el propósito de obtener rescate o con la intención de que la autoridad o un particular realice o deje de realizar un acto cualquiera, se le impondrán de cuatro a diez años de prisión y de treinta a ciento cincuenta días multa.
-
-La misma pena se aplicará a cualquiera que participe en la comisión de este delito.
-
-(NOTA: EL 8 DE AGOSTO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO, ASÍ COMO EN EL APARTADO IV DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
+(DEROGADO, G.G. 3 DE FEBRERO DE 2017)
 
 ###### Artículo 261.
 
-A quien en relación con las conductas sancionadas por este capítulo y fuera de las causas de exclusión del delito y de la responsabilidad penal, se le impondrán de cinco a veinte años de prisión y de sesenta a mil quinientos días multa, cuando:
-
-I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
-
-II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
-
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
-
-III. Actúe con fines de lucro, como asesor o intermediario de quienes representen o gestionen en favor de la víctima;
-
-IV. Aconseje no presentar la denuncia del secuestro cometido o bien no colaborar u obstruir la actuación de las autoridades;
-
-V. Intimide a la víctima, a sus familiares, a sus representantes o gestores, durante o después del secuestro para que no colaboren con las autoridades competentes; y
-
-VI. Reciba cualquier pago con motivo de su intervención en el secuestro.
-
-> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
-
-VII. Actúe como asesor o intermediario de quienes representen o gestionen en favor de la víctima y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión de secuestro.
+(DEROGADO, G.G. 3 DE FEBRERO DE 2017)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE OCTUBRE DE 2010)</small>
 
@@ -6404,3 +6328,15 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 192.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 9, 58 EN SU CUARTO PÁRRAFO Y DEROGA DEL ARTÍCULO 69, LA FRACCIÓN V, EL CAPÍTULO XVII DENOMINADO "NO EJERCICIO DE LA ACCIÓN PENAL" DEL TÍTULO QUINTO DEL LIBRO PRIMERO Y EL ARTÍCULO 106 QUINTUS, EL CAPÍTULO II DENOMINADO "SECUESTRO" DEL SUBTÍTULO TERCERO, DEL TÍTULO TERCERO, ASÍ COMO LOS ARTÍCULOS 259, 260 Y 261 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; Y REFORMA LA DENOMINACIÓN "LEY DE INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO", EL ARTÍCULO 2, LAS FRACCIONES IV Y XVII DEL ARTÍCULO 3, EL APARTADO B DE LA FRACCIÓN I DEL ARTÍCULO 4, EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 10, LOS ARTÍCULOS 11, 12, 13, 14, 15, 16, 17 EN SU PRIMER PÁRRAFO, 18, 19, 20 EN SU SEGUNDO PÁRRAFO, 22, 23, 24 Y 25 Y SE DEROGAN LA FRACCIÓN III DEL ARTÍCULO 3, EL CAPÍTULO III DENOMINADO "DE LA CONMUTACIÓN DE LA PENA" Y LOS ARTÍCULOS 6, 7, 8 Y 9 DE LA LEY DEL INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO; Y DEROGA EL ARTÍCULO 192 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones jurídicas vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
