@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-imagen-urbana-del-municipio-de-los-cabos-baja-286
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-31"
-last_updated: "2004-10-10"
+last_updated: "2017-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCS"
 
 REGLAMENTO DE IMAGEN URBANA DEL MUNICIPIO DE LOS CABOS BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE FEBRERO DE 2017.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1999.
 
@@ -614,7 +614,7 @@ IV. En cualquier predio de las zonas centro en el que se valla (sic) a realizar 
 
 Deberá preverse la apertura, renovación y mantenimiento de zonas verdes, así como la aplicación de medidas similares para contrarrestar la contaminación ambiental y mejorar la calidad de vida en el municipio.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE OCTUBRE DE 2004)</small>
 
 ### CAPITULO X
 
@@ -1518,13 +1518,17 @@ La autoridad municipal mantendrá vigilancia constante, para verificar que las o
 
 DE LAS SANCIONES Y RECURSOS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 83.
 
-Las autoridades municipales, en términos de este capítulo aplicará (sic) a los infractores de este reglamento las siguientes sanciones:
+Las autoridades municipales, en términos de este capítulo aplicarán a los infractores de este reglamento las siguientes sanciones:
 
 I. Apercibimiento;
 
-II. Multa de 1 a 500 veces el salario mínimo general diario vigente en la entidad;
+> <small>(REFORMADA, B.O. 3 DE FEBRERO DE 2017)</small>
+
+II. Multa de 1 a 500veces (sic) el valor diario de la Unidad de Medida y Actualización (UMA) vigente;
 
 III. Arresto administrativo que no excederá de 36 horas;
 
@@ -1666,7 +1670,7 @@ C. Luis Armando Díaz.
 
 Secretario General.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 B.O. 10 DE OCTUBRE DE 2004.
 
@@ -1677,3 +1681,13 @@ SEGUNDO: los anuncios existentes que contravengan el presente reglamento deberá
 TERCERO: Los propietarios de letreros existentes cuentan con 180 días naturales a partir del día siguiente a su publicación, para cumplir con este ordenamiento.
 
 CUARTO: Se derogan aquellas disposiciones del Municipio que se opongan al presente reglamento.
+
+B.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO NO.: 186 ACTA NÚMERO: 32 SESIÓN EXTRAORDINARIA DICTAMEN QUE PRESENTA LA COMISIÓN EDILICIA PERMANENTE DE ESTUDIOS LEGISLATIVOS Y REGLAMENTARIOS DE ESTE HONORABLE DÉCIMO SEGUNDO AYUNTAMIENTO DE LOS CABOS, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO MEDIANTE EL CUAL SE MODIFICAN DIVERSOS NUMERALES DE LOS REGLAMENTOS MUNICIPALES, PARA SER SUSTITUIDOS POR LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN (UMA)".]
+
+PRIMERO. Se instruye al Secretario General Municipal, de este H. XII Ayuntamiento de Los Cabos, Baja California Sur, para que solicite la publicación del presente Dictamen, en el Boletín Oficial del Gobierno del Estado de Baja California Sur, para los fines que correspondan.
+
+SEGUNDO. Se instruye al Secretario General Municipal, comunique mediante los canales administrativos pertinentes, a las diferentes áreas de la administración municipal, el contenido del presente, para su debido cumplimiento y el de las disposiciones aplicables, emanadas de la legislación del Estado de Baja California Sur con relación a la desindexación del salario mínimo publicadas en el Número 44 del Boletín Oficial del Gobierno del Estado de Baja California Sur, de fecha 31 de octubre de 2016.
+
+TERCERO.- El presente Dictamen entrará en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
