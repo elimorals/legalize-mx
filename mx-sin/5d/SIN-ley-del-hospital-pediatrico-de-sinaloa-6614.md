@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-hospital-pediatrico-de-sinaloa-6614"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-29"
-last_updated: "1983-07-29"
+last_updated: "2017-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DEL HOSPITAL PEDIATRICO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 88: QUE EXTINGUE LA FIGURA JURÍDICA ADMINISTRATIVA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "HOSPITAL PEDIÁTRICO DE SINALOA", PARA FORMAR PARTE DEL ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS DE SALUD DE SINALOA" Y SE ABROGA LA LEY DEL HOSPITAL PEDIÁTRICO DE SINALOA, PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL HOSPITAL PEDIATRICO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el viernes 29 de julio de 1983.
 
@@ -302,3 +304,51 @@ ING. ERNESTO ORTEGON CERVERA
 El Secretario de Educación Pública y Cultura
 
 DR. J. MARIANO CARLON LOPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 88 QUE EXTINGUE LA FIGURA JURÍDICA ADMINISTRATIVA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "HOSPITAL PEDIÁTRICO DE SINALOA", PARA FORMAR PARTE DEL ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS DE SALUD DE SINALOA" Y SE ABROGA LA LEY DEL HOSPITAL PEDIÁTRICO DE SINALOA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
+
+SEGUNDO.- A partir del inicio de vigencia del presente Decreto el Hospital Pediátrico de Sinaloa se incorpora al Organismo Público Descentralizado denominado "Servicios de Salud Sinaloa", mismo que tendrá como objeto proporcionar atención médica infantil especializada y de hospitalización; impartir enseñanza para la formación de recursos humanos en la disciplina de pediatría; contribuir a la difusión de conocimientos en las diversas disciplinas relacionadas con los servicios que imparta; actuar como órgano de consulta en pediatría de las distintas dependencias y entidades públicas; y, apoyar y fomentar las acciones de medicina preventiva dirigidas a la niñez.
+
+TERCERO.- Se abroga la Ley del Hospital Pediátrico de Sinaloa, por la cual se crea el organismo público descentralizado "Hospital Pediátrico de Sinaloa", publicada en el Periódico Oficial "El Estado de Sinaloa" el día 29 de julio de 1983.
+
+CUARTO.- En términos de la legislación aplicable, los recursos materiales y financieros que formen parte del patrimonio del "Hospital Pediátrico de Sinaloa" y aquellos que tenga derecho a percibir, se transferirán al organismo público descentralizado denominado "Servicios de Salud de Sinaloa", mismo que fue creado por virtud del Decreto publicado en el Periódico Oficial "El Estado de Sinaloa" No 128 de fecha 23 de octubre de 1996, en términos de la legislación aplicable, a fin de que éste los destine al cumplimiento de su objeto.
+
+Los bienes muebles e inmuebles que a la entrada en vigor del presente Decreto formen parte del Patrimonio del "Hospital Pediátrico de Sinaloa", o tenga derecho a incorporarlos al mismo, se transmitirán en propiedad al organismo público descentralizado denominado "Servicios de Salud de Sinaloa".
+
+QUINTO.- El organismo descentralizado denominado "Servicios de Salud de Sinaloa", por conducto de su director general y la junta de gobierno, así como el Congreso del Estado, garantizarán que se proponga, apruebe y aplique de forma correcta el presupuesto necesario que garantice la viabilidad financiera y con ello se cumpla con la prestación de los servicios que como objeto tiene el Hospital Pediátrico de Sinaloa.
+
+SEXTO.- Toda la documentación e información física y electrónica que corresponda al "Hospital Pediátrico de Sinaloa", deberá ser transferida al organismo público descentralizado denominado "Servicios de Salud de Sinaloa".
+
+SÉPTIMO.- Los asuntos en trámite, así como los juicios, recursos y procedimientos en los que a la entrada en vigor del presente Decreto sea parte el "Hospital pediátrico de Sinaloa", continuarán tramitándose a través de las unidades administrativas competentes del organismo público descentralizado denominado "Servicios de Salud de Sinaloa". Asimismo, se comunicará a la Secretaría de Administración y Finanzas de los juicios, recursos y procedimientos que sean de su competencia, de conformidad con sus facultades y atribuciones señaladas en la ley.
+
+OCTAVO.- Los derechos y obligaciones contractuales contraídos por el "Hospital Pediátrico de Sinaloa", serán atribuidos al organismo público descentralizado denominado "Servicios de Salud de Sinaloa", con la figura de sustitución patronal.
+
+El organismo público descentralizado "Servicio de Salud de Sinaloa" tendrá el carácter de empleador en la nueva relación de trabajo.
+
+NOVENO.- Respecto de las relaciones laborales y al Contrato Colectivo de Trabajo celebrado entre el "Hospital Pediátrico de Sinaloa" y el Sindicato de Trabajadores al Servicio del Estado, se estará a las disposiciones aplicables en materia del trabajo, siendo responsabilidad del encargado de los trámites de extinción del organismo a que se refiere el artículo décimo tercero transitorio, realizar los acciones correspondientes ante las autoridades competentes.
+
+Asimismo, se garantizará a los trabajadores el respeto a todos los derechos, prerrogativas y prestaciones contenidas en la Ley de los Trabajadores al Servicio del Estado de Sinaloa y convenios celebrados entre el Gobierno del Estado de Sinaloa y el Sindicato de Trabajadores al Servicio del Estado, para el personal médico, paramédico y afín; así como las adoptadas en las condiciones generales de trabajo de la Secretaría de Salud, pactadas en los convenios celebrados con el Sindicato de Trabajadores al Servicio del Estado, y los que en el futuro se establezcan.
+
+DÉCIMO.- Se reconoce al Sindicato de Trabajadores al Servicio del Estado, como representante legal y legítimo de los derechos laborales de trabajadores de base, ante toda clase de autoridades, sin perjuicio del derecho del trabajador de hacerlo personalmente. Así como de los trabajadores de base, que en el futuro se incorporen al organismo público descentralizado denominado "Servicios de Salud de Sinaloa".
+
+DÉCIMO PRIMERO.- El organismo público descentralizado denominado "Servicios de Salud de Sinaloa", por sus medios retendrá las cuotas sindicales, de pensiones, de servicios médicos, de defunción, de ahorro y las demás que convengan, quedando obligado hacer los enteros a quien legalmente corresponda.
+
+El Régimen de Seguridad Social de los trabajadores no variará con motivo de la incorporación a los "Servicios de Salud de Sinaloa", continuarán con el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y en lo que toca a pensiones y jubilaciones en el Instituto de Pensiones del Estado de Sinaloa, en su caso, con las reglas de jubilación aprobadas por el patronato del propio "Hospital Pediátrico de Sinaloa".
+
+DÉCIMO SEGUNDO.- Con la intervención de la Secretaría de Transparencia y Rendición de Cuentas, el servidor público que a la fecha de publicación del presente Decreto realice las funciones de Director General del "Hospital Pediátrico de Sinaloa, en un plazo no mayor a cinco días hábiles a partir de la entrada en vigor de este Decreto, deberá hacer entrega, a quien designe el Director General del organismo público descentralizado denominado "Servicios de Salud de Sinaloa", de los recursos patrimoniales que haya tenido a su disposición, así como toda la documentación e información física o electrónica y asuntos relacionados con las funciones del organismo que se suprime.
+
+DÉCIMO TERCERO.- La persona que a la fecha de la entrada en vigor del presente decreto haya sido designada por el Patronato del "Hospital Pediátrico de Sinaloa", como encargada de llevar a cabo los trámites legales y administrativos finales del Organismo que resulten de este Decreto, deberá concluirlos dentro de los noventa días hábiles siguientes; una vez cumplido este plazo se entenderá que dicha función ha cesado. Los recursos necesarios para cubrir los gastos que se requieran para concretar los trabajos de extinción del Organismo, serán gestionados ante la Secretaría de Administración y Finanzas.
+
+DÉCIMO CUARTO.- Con motivo de la entrada en vigor del presente Decreto y en cumplimiento de las medidas de disciplina del gasto en el ejercicio presupuestal, así como para el uso ordenado, eficiente y transparente de los recursos públicos, aplicables a todas las dependencias y entidades de la Administración Pública Estatal de Sinaloa, las formas oficiales, formatos y demás papelería existentes en los que conste la denominación del "Hospital Pediátrico de Sinaloa", se seguirán utilizando hasta que se agoten.
+
+DÉCIMO QUINTO.- En un plazo no mayor a treinta días hábiles a partir de la entrada en vigor del presente Decreto, se realizarán las adecuaciones que, en su caso, resulten necesarias a las disposiciones reglamentarias del organismo público descentralizado denominado "Servicios de Salud de Sinaloa".
+
+DÉCIMO SEXTO.- Las Secretarías General de Gobierno, de Administración y Finanzas, y de Transparencia y Rendición de Cuentas, en el ámbito de sus respectivas atribuciones y de manera coordinada, darán seguimiento a las acciones que resulten conducentes para dar cumplimiento al presente Decreto.
+
+DÉCIMO SÉPTIMO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
