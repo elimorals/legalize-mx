@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2016-12-30"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -95,8 +95,6 @@ La administración y recaudación de los impuestos, contribuciones especiales, d
 
 Cuando en esta Ley o en alguna otra se dé una denominación nueva o distinta a la Secretaría de Finanzas y Tesorería General del Estado o a alguna de las Direcciones, Unidades, Departamentos o Dependencias que la integran, se entenderá que dicha disposición legislativa se está refiriendo a la denominación que para cada caso concreto, de acuerdo con las funciones y atribuciones respectivas, establece el Reglamento Interior de la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 9o. Bis.
@@ -104,8 +102,6 @@ Cuando en esta Ley o en alguna otra se dé una denominación nueva o distinta a 
 El pago de los créditos fiscales deberá hacerse en efectivo, salvo disposición expresa en contrario. Los pagos electrónicos realizados mediante el portal oficial del Gobierno del Estado, giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo y deberán expedirse a favor de la Secretaría de Finanzas y Tesorería General del Estado.
 
 Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas bancarias de crédito o débito y dispositivos similares, así como las transferencias electrónicas de fondos reguladas por el Banco de México, incluyendo los pagos electrónicos que podrán realizarse mediante el portal oficial del Gobierno del Estado. Las tarjetas bancarias y dispositivos similares, únicamente se aceptarán en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, mediante previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el Código Fiscal del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1045,31 +1041,21 @@ III.- Los empleados o Funcionarios Públicos que autoricen cualquier trámite de
 
 Es objeto de este Impuesto la percepción de premios derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase que celebren los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 También es objeto de este impuesto la percepción de premios derivados de la celebración de juegos con apuestas. Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas, independientemente del nombre con el que se les designe, aquellos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que la obtención del premio no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 Igualmente, quedan comprendidos en los juegos con apuestas, aquéllos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1091,15 +1077,11 @@ Cuando la persona que otorgue el premio pague por cuenta del contribuyente el im
 
 No se pagará el impuesto establecido en este capítulo por la obtención de reintegros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 116.
 
 El impuesto que resulte de aplicar la tasa indicada en el artículo precedente, será retenido por las personas que paguen los premios, quienes deberán enterarlo a la Secretaría de Finanzas y Tesorería General del Estado, dentro del mes siguiente al en que realicen la retención. Lo anterior independientemente de que se trate de administradores, organizadores o anfitriones de algún establecimiento donde se lleven a cabo algunos de los juegos mencionados en el artículo anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1127,43 +1109,31 @@ III.- Conservar la documentación relacionada con las constancias y las retencio
 
 ### CAPITULO QUINTO. Del Impuesto Sobre Tenencia o Uso de Vehículos
 
-> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINA 4.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINA 4.]</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION I. Disposiciones Generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 118.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 119.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 120.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINA 4.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINA 4.]</small>
 
 ###### ARTICULO 121.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINA 4.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2015, PÁGINA 4.]</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1171,71 +1141,47 @@ III.- Conservar la documentación relacionada con las constancias y las retencio
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 123.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION II. Automóviles
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 124.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 125.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 126.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 127.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 128.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 129.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 #### SECCION III. Otros vehículos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 130.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 131.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1243,41 +1189,27 @@ III.- Conservar la documentación relacionada con las constancias y las retencio
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 133.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 134.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 135.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 #### SECCION IV. Vehículos usados
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 136.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 137.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 #### SECCION DECIMA. De la Vigilancia
 
@@ -1369,8 +1301,6 @@ IV.- Pagar el impuesto en la forma que se señala en el presente Capítulo, y;
 
 V.- Adoptar las medidas de control y someterse a los actos de vigilancia que para el pago de este impuesto establezca la Tesorería General.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (REUBICADO [N. DE E. ANTES CAPÍTULO OCTAVO], P.O. 17 DE DICIEMBRE DE 2010)
 
 ### CAPITULO OCTAVO. Impuesto sobre Nóminas
@@ -1400,8 +1330,6 @@ El pago de este impuesto se hará dentro de los primeros quince días de cada me
 ###### ARTICULO 153.
 
 La Tesorería General podrá celebrar convenios con Petróleos Mexicanos para que la recaudación de este impuesto se realice por conducto de la mencionada institucin (sic), en los términos del Reglamento del artículo 21 de la Ley del Impuesto sobre Consumo de Gasolina.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO NOVENO], P.O. 17 DE DICIEMBRE DE 2010)
 
@@ -1433,8 +1361,6 @@ Antes de que se efectúe el primer pago de honorarios en el año de calendario d
 
 Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas que realicen los pagos a que se refiere el Artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 La Federación, el Estado, los Municipios, los Organismos Descentralizados, Fideicomisos y demás entidades públicas, deberán cubrir el impuesto a su cargo.
@@ -1458,8 +1384,6 @@ El pago del impuesto deberá efectuarse a más tardar el día diecisiete del mes
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Cuando se presente una declaración sin pago, se presumirá que no existe impuesto a pagar en las declaraciones posteriores y no se presentarán las mismas, hasta que exista cantidad a pagar, siempre que se presente conjuntamente con la primera declaración sin pago, escrito libre en el que se señalen las razones por las que no se tuvieron erogaciones gravadas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1705,8 +1629,6 @@ II.- En los términos del último párrafo del artículo 44 del Código Fiscal d
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (REUBICADO Y ADICIONADO [N. DE E. ANTES CAPÍTULOS DÉCIMO Y DÉCIMO PRIMERO], P.O. 17 DE DICIEMBRE DE 2010)
 
 ### CAPITULO DECIMO. Del Impuesto sobre Expendios de Bebidas Alcohólicas
@@ -1912,8 +1834,6 @@ No se pagará el impuesto tratándose de la prestación de servicios de hospedaj
 ###### ARTICULO 204.
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (REUBICADO Y ADICIONADO [N. DE E. ANTES CAPÍTULO DÉCIMO CUARTO], P.O. 17 DE DICIEMBRE DE 2010)
 
@@ -2175,8 +2095,6 @@ Las infracciones a esta Ley por lo que se refiere a marbetes se sancionará con 
 
 Cuando el retenedor o causante adhiera sobre el envase de bebidas alcohólicas marbetes cuyo valor no corresponda al impuesto que debió enterarse conforme al Artículo 215, se procederá como lo indica el Artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (REUBICADO [N. DE E. ANTES CAPÍTULO DÉCIMO QUINTO], P.O. 17 DE DICIEMBRE DE 2010)
 
 ### CAPITULO PRIMERO. Disposiciones Generales
@@ -2286,8 +2204,6 @@ ARTICULUO (SIC) 264.- En aquellos casos en que, por circunstancias especiales, e
 ###### ARTICULO 265.
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto anteriormente, será responsable de su pago.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -2454,8 +2370,6 @@ ni mayor a ….. 570 cuotas
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 d) En ningún caso la cantidad a pagar será menor a ….. 3 cuotas
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -2917,8 +2831,6 @@ Por los servicios prestados por la Secretaría de Finanzas y Tesorería General 
 
 I.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 II.- Por copia de documentos existentes en el expediente catastral:
@@ -2928,8 +2840,6 @@ a) Copia simple, por hoja 0.018 cuotas
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 b) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en el inciso anterior ….. 2 cuotas
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -2950,8 +2860,6 @@ c) Avalúo catastral simple ….. 3 cuotas
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 d) Avalúo catastral certificado ….. 4.5 cuotas
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -2989,8 +2897,6 @@ c) Predios omisos, por cada lote ….. 4 cuotas
 
 Por asignación de número de expediente catastral a planos de fraccionamientos ….. 10 cuotas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 VIII.- Por información y ubicación de predios, por cada uno:
@@ -3010,8 +2916,6 @@ IX.- Por baja de construcción por demolición u otras causas ….. 5 cuotas
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 X.- Resello de planos de construcción ….. 4 cuotas
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -3053,8 +2957,6 @@ b) Copia certificadas de planos manzaneros, región catastral, fraccionamientos,
 
 4. Mayor a 61 cm x 91 cm ….. 10 cuotas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 XII.- Impresión de plano de terreno de cartografía digital:
@@ -3078,8 +2980,6 @@ b) Plano certificado de lote de terreno, indicando medidas, y ubicación, según
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 2. Mayor a doble carta ….. 10 cuotas
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -3647,13 +3547,9 @@ En caso de que estos servicios sean prestados a trabajadores de patrones con má
 
 El examen médico, el análisis sanguíneo y el catastro torácico podrán ser practicados por personas o establecimientos públicos o particulares, autorizados para prestar servicios médicos. Una vez acreditado lo anterior, el certificado de salud se expedirá en forma gratuita.
 
-> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, VER ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEÓN, P.O. 13 DE ENERO DE 2007.</small>
-
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 III.- Por verificación semestral del cumplimiento de las disposiciones en materia de seguridad, ecología, salud e higiene, por metro cuadrado de área de trabajo, de servicios y de atención al público, N$0.50, sin que la cantidad a pagar por establecimiento sea inferior a N$50.00, ni mayor a N$850.00.
-
-> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, VER ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEÓN, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -3720,8 +3616,6 @@ h) Predios que no formen parte de un fraccionamiento autorizado por las autorida
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 Tratándose de fraccionamientos, cuando soliciten su incorporación únicamente a las redes de agua o sólo a las redes de drenaje, pagará el 50% de los derechos establecidos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -4601,6 +4495,10 @@ Año Porcentaje de Reduccón (sic)
 
 2018 100%
 
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
+Se faculta al Ejecutivo del Estado, a través de la Secretaría de Finanzas y Tesorería General del Estado para otorgar un subsidio a cargo de los ingresos estatales a las personas físicas y morales residentes del Estado que se encuentren al corriente en el cumplimiento de sus obligaciones fiscales y que tengan uno o varios vehículos, o vehículos de carga con peso bruto vehicular menor a 3.5 toneladas, denominadas Pick Up de hasta por la cantidad del 100% del cálculo del Impuesto Sobre Tenencia o Uso de Vehículos, así como, en los derechos por servicios de control vehicular previstos en el artículo 276, fracción XIII, inciso a) de la Ley de Hacienda del Estado de Nuevo León.
+
 Tercero.- Las obligaciones derivadas de esta contribución, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
 
 Cuarto.- El Titular del Ejecutivo del Estado, a través de la Secretaría de Finanzas y Tesorería General del Estado, deberá presentar al Congreso un informe sobre los resultados de la eliminación gradual.
@@ -4645,4 +4543,12 @@ La disminución de las cantidades mencionadas en este inciso solo se podrá (sic
 
 Tercero.- El Ejecutivo del Estado, deberá realizar los ajustes presupuestales que sean necesarios en relación con los ingresos adicionales a los previstos en la Ley de Ingresos del Estado para el año 2017, que resulten de la aplicación del sistema gradual de eliminación del Impuesto Sobre Tenencia o Uso de Vehículos aprobado mediante el presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 231. SE REFORMAN POR ADICIÓN DE UN PENÚLTIMO Y DE UN ÚLTIMO PÁRRAFOS AL ARTÍCULO 65 DE LA LEY DE EGRESOS DEL ESTADO DE NUEVO LEÓN, PARA EL EJERCICIO FISCAL 2017; Y POR ADICIÓN DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 028 DE FECHA DE PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO, 3 DE DICIEMBRE DE 2015 DE LA LEY DE HACIENDA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- La Secretaría de Finanzas y Tesorería General del Estado, publicará las tablas de subsidio que deberán de otorgarse conforme a este Decreto, así como las bases de los mismos y las bases de las devoluciones de los impuestos que se hayan cobrado con anterioridad a la publicación de este Decreto, en un plazo máximo de 15 días y no podrán variarse en el transcurso del Ejercicio Fiscal 2017.
+
+Una vez publicada la tabla de subsidios y sus bases será obligatorio otorgar dichos subsidios a todos quienes encuadren en los supuestos de las bases sin necesidad de solicitud expresa del contribuyente.
+
+Segundo.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
