@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2016-12-19"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE FEBRERO DE 2017.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -125,9 +125,21 @@ Las universidades y las demás instituciones de educación superior a las que la
 
 El Estado garantizará a todas las personas el acceso a la ciencia y a la tecnología; establecerá políticas de largo plazo e implementará mecanismos que fomenten el desarrollo científico y tecnológico de la entidad, que permitan elevar el nivel de vida de la población, combatir la pobreza y proporcionar igualdad de oportunidades.
 
-> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
-La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley.
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada o los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley.
+
+> <small>(ADICIONADO, G.G. 3 DE FEBRERO DE 2017)</small>
+
+Toda persona en el Estado de México, tiene derecho al libre acceso a la información plural y oportuna, así como a buscar recibir y difundir información e ideas de toda índole por cualquier medio de expresión.
+
+> <small>(ADICIONADO, G.G. 3 DE FEBRERO DE 2017)</small>
+
+Es inviolable la libertad de difundir opiniones, información e ideas, a través de cualquier medio. No se puede restringir este derecho por vías o medios indirectos, tales como el abuso de controles oficiales o particulares, de papel para periódicos, de frecuencias radioeléctricas o de enseres y aparatos usados en la difusión de información o por cualesquiera otros medios y tecnologías de la información y comunicación encaminados a impedir la transmisión y circulación de ideas y opiniones.
+
+> <small>(ADICIONADO, G.G. 3 DE FEBRERO DE 2017)</small>
+
+Ninguna ley ni autoridad puede establecer la previa censura, ni coartar la libertad de difusión, que no tiene más límites que los previstos en el párrafo décimo cuarto de este mismo artículo, de esta Constitución. En ningún caso podrán secuestrarse los bienes utilizados para la difusión de información, opiniones e ideas, como instrumento del delito.
 
 (ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015) (F. DE E., G.G. 15 DE SEPTIEMBRE DE 2015)
 
@@ -1579,15 +1591,17 @@ XV. Solicitar de la Legislatura Local, o en su caso, de la Diputación Permanent
 
 XVI. Hacer que las sentencias ejecutoriadas dictadas por los tribunales en materia penal sean debidamente ejecutadas;
 
-XVII. Conceder el indulto necesario y por gracia y conmutar las penas privativas de libertad, con arreglo a la ley de la materia;
+> <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2017)</small>
+
+XVII. Conceder el indulto necesario y por gracia, con arreglo a la ley de la materia.
 
 > <small>(REFORMADA, G.G. 8 DE AGOSTO DE 2014)</small>
 
 XVIII. Rendir a la Legislatura del Estado, a través de la entrega, por sí mismo o por medio de un representante, de un documento impreso o de un archivo en medio magnético o electrónico, dentro del mes de septiembre de cada año, previo aviso a la Legislatura, por lo menos, con ocho días naturales de anticipación, el informe acerca del estado que guarde la administración pública, con excepción del último año del período constitucional del Gobernador del Estado que deberá ser en los primeros quince días del mes de septiembre, en cuyo caso, el aviso deberá darse, por lo menos, con cinco días naturales de anticipación.
 
-> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE FEBRERO DE 2017)</small>
 
-XIX. Enviar cada año a la Legislatura, a más tardar el 21 de noviembre, los proyectos de ley de ingresos y presupuesto de egresos del Gobierno del Estado, que deberán regir en el año fiscal inmediato siguiente, o hasta el 20 de diciembre, cuando inicie su periodo Constitucional el Ejecutivo Federal, y presentar la cuenta de gastos del año inmediato anterior, a más tardar el 15 de mayo.
+XIX. Enviar cada año a la Legislatura, a más tardar el 21 de noviembre, los proyectos de ley de ingresos y presupuesto de egresos del Gobierno del Estado, que deberán regir en el año fiscal inmediato siguiente, o hasta el 20 de diciembre, cuando inicie su periodo Constitucional el Ejecutivo Federal, y presentar la cuenta pública del año inmediato anterior, a más tardar el 30 de abril;
 
 > <small>(ADICIONADO, G.G. 30 DE JULIO DE 2010)</small>
 
@@ -4364,3 +4378,33 @@ TERCERO. Se derogan las disposiciones de menor jerarquía que se opongan al pres
 CUARTO. La legislatura del Estado en un plazo no mayor a ciento veinte días hábiles posteriores a la entrada en vigor del presente decreto, deberá expedir la reforma integral a las leyes del estado relacionadas con el presente decreto.
 
 QUINTO. La Legislatura del Estado proveerá los recursos necesarios para la implantación del presente Decreto.
+
+G.G. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 189.- POR EL QUE SE REFORMA EL PÁRRAFO DÉCIMO CUARTO Y SE ADICIONAN LOS PÁRRAFOS DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 190.- POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 77 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones jurídicas vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 191.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN XIX DEL ARTÍCULO 77 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
