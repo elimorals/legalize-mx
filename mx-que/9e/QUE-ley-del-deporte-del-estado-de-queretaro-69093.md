@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-deporte-del-estado-de-queretaro-69093"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2014-02-07"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DEL DEPORTE DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 SEPTIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL DEPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -51,35 +53,69 @@ I. Asociaciones deportivas: al conjunto de personas legalmente constituidas, que
 
 II. COEDEMS: al Consejo Estatal del Deporte de Educación Media Superior;
 
-III. CONDE: a los Consejos Nacionales del Deporte Estudiantil;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN VI], P.O. 3 DE FEBRERO DE 2017)</small>
 
-IV. CONDEBA: al Consejo Nacional del Deporte de la Educación Básica;
+III. Comisión: a la Comisión del Arbitraje del Deporte en el Estado de Querétaro;
 
-V. INDEREQ: al Instituto del Deporte y la Recreación del Estado de Querétaro;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN III], P.O. 3 DE FEBRERO DE 2017)</small>
 
-VI. Comisión: a la Comisión del Arbitraje del Deporte en el Estado de Querétaro;
+IV. CONDE: a los Consejos Nacionales del Deporte Estudiantil;
 
-VII. Cultura Física: al conjunto de conocimientos, ideas, valores y elementos materiales que el hombre ha producido con relación al movimiento y uso de su cuerpo;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN IV], P.O. 3 DE FEBRERO DE 2017)</small>
 
-VIII. Deporte: a la actividad y ejercicios físicos, individuales o de conjunto, que, con fines competitivos o recreativos, se sujeten a reglas previamente establecidas y coadyuven a la formación integral de las personas y al desarrollo armónico y conservación de sus facultades físicas y mentales;
+V. CONDEBA: al Consejo Nacional del Deporte de la Educación Básica;
 
-IX. Organización deportiva: a los clubes, equipos, ligas y asociaciones deportivas radicados en el Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN VII], P.O. 3 DE FEBRERO DE 2017)</small>
 
-X. Programa: al Programa Estatal del Deporte;
+VI. Cultura Física: al conjunto de conocimientos, ideas, valores y elementos materiales que el hombre ha producido con relación al movimiento y uso de su cuerpo;
 
-XI. Recreación: a la actividad que tiene como objetivo el descanso sano, el restablecimiento activo y la organización del tiempo libre, utilizando estrategias lúdicas, deportivas y de activación física;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN VIII], P.O. 3 DE FEBRERO DE 2017)</small>
 
-XII. Registro: al Registro Estatal del Deporte;
+VII. Deporte: a la actividad y ejercicios físicos, individuales o de conjunto, que, con fines competitivos o recreativos, se sujeten a reglas previamente establecidas y coadyuven a la formación integral de las personas y al desarrollo armónico y conservación de sus facultades físicas y mentales;
 
-XIII. Reglamento: al Reglamento de la Ley del Deporte del Estado de Querétaro;
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
-XIV. SEDEQ: a la Secretaría de Educación del Estado de Querétaro;
+VIII. Deporte adaptado: a la actividad física reglamentada que intenta hacer posible la práctica deportiva a personas que tienen alguna discapacidad. Consiste en adaptar los distintos deportes a las posibilidades de los participantes o en crear deportes específicos, practicados exclusivamente por personas con problemas físicos, psíquicos o sensoriales;
 
-XV. Sistema: al Sistema Estatal del Deporte;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN V], P.O. 3 DE FEBRERO DE 2017)</small>
 
-XVI. Talentos: a los deportistas considerados con altas perspectivas de desarrollo deportivo; y
+IX. INDEREQ: al Instituto del Deporte y la Recreación del Estado de Querétaro;
 
-XVII. USEBEQ: a la Unidad de Servicios para la Educación Básica del Estado de Querétaro.
+> <small>(REFORMADA [N. DE E. Y REUBICADA ANTES FRACCIÓN IX], P.O. 3 DE FEBRERO DE 2017)</small>
+
+X. Organización deportiva: a los clubes, equipos, ligas y asociaciones deportivas radicados en el Estado de Querétaro;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN X], P.O. 3 DE FEBRERO DE 2017)</small>
+
+XI. Programa: al Programa Estatal del Deporte;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 3 DE FEBRERO DE 2017)</small>
+
+XII. Recreación: a la actividad que tiene como objetivo el descanso sano, el restablecimiento activo y la organización del tiempo libre, utilizando estrategias lúdicas, deportivas y de activación física;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XII], P.O. 3 DE FEBRERO DE 2017)</small>
+
+XIII. Registro: al Registro Estatal del Deporte;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XIII], P.O. 3 DE FEBRERO DE 2017)</small>
+
+XIV. Reglamento: al Reglamento de la Ley del Deporte del Estado de Querétaro;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XIV], P.O. 3 DE FEBRERO DE 2017)</small>
+
+XV. SEDEQ: a la Secretaría de Educación del Estado de Querétaro;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XV], P.O. 3 DE FEBRERO DE 2017)</small>
+
+XVI. Sistema: al Sistema Estatal del Deporte;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVI], P.O. 3 DE FEBRERO DE 2017)</small>
+
+XVII. Talentos: a los deportistas considerados con altas perspectivas de desarrollo deportivo; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVII], P.O. 3 DE FEBRERO DE 2017)</small>
+
+XVIII. USEBEQ: a la Unidad de Servicios para la Educación Básica del Estado de Querétaro.
 
 ### Capítulo Segundo. Del Sistema Estatal del Deporte
 
@@ -99,7 +135,7 @@ III. El (sic) Consejos Nacionales del Deporte Estudiantil (CONDE);
 
 IV. El Consejo Nacional del Deporte de la Educación Básica (CONDEBA);
 
-V. El lnstituto del Deporte y la Recreación del Estado de Querétaro (INDEREQ); y
+V. El Instituto del Deporte y la Recreación del Estado de Querétaro (INDEREQ); y
 
 VI. Los municipios, a través de la dependencia encargada del deporte.
 
@@ -139,7 +175,9 @@ III. Proponer y ejecutar las medidas que permitan fomentar la enseñanza y la pr
 
 IV. Establecer los procedimientos para la coordinación y concertación en materia deportiva entre las diferentes dependencias y entidades de la administración pública estatal y municipal, así como sumar la participación activa de las diferentes instituciones públicas y privadas;
 
-V. Diseñar y operar estrategias para fomentar la práctica deportiva entre los adultos mayores y de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+V. Diseñar y operar estrategias para fomentar y estimular el desarrollo de la práctica deportiva entre los adultos mayores y las personas con discapacidad;
 
 VI. Establecer planes y programas para el desarrollo, la promoción y la práctica de los deportes autóctonos y tradicionales;
 
@@ -155,9 +193,9 @@ X. Promover la creación y fomento de patronatos, fundaciones y demás organismo
 
 XI. Generar un informe anual sobre la evaluación del cumplimiento de los objetivos del Programa;
 
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
-XII. Procurar la igualdad de oportunidades de mujeres y hombres para participar en actividades deportivas independientemente de la edad, capacidades, condición social o estado civil; y
+XII. Procurar la igualdad de oportunidades entre mujeres y hombres para participar en actividades deportivas independiente de la edad, capacidades físicas e intelectuales, preferencias sexuales, condición étnica-racial, económica, social o estado civil; y
 
 XIII. Las demás obligaciones y atribuciones que le otorguen la presente Ley y otras disposiciones aplicables.
 
@@ -183,9 +221,17 @@ III. Mantener contacto y celebrar convenios con los organismos deportivos nacion
 
 IV. Coordinar la participación de las representaciones estatales deportivas de aficionados, para torneos regionales o nacionales, previniendo también el ámbito recreativo;
 
-V. Promover y realizar investigaciones en las ciencias y técnicas que inciden en los campos del deporte y la recreación, con especial énfasis en las áreas tecnológicas, de medicina deportiva y programas recreativos, divulgando los resultados obtenidos; y
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
-VI. Propiciar desde el sector educativo, una mayor actividad participativa de los estudiantes en los programas que realice el Instituto.
+V. Promover y realizar investigaciones en las ciencias y técnicas que inciden en los campos del deporte y la recreación, con especial énfasis en las áreas tecnológicas, de medicina deportiva y programas recreativos, divulgando los resultados obtenidos;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+VI. Propiciar desde el sector educativo, una mayor actividad participativa de los estudiantes en los programas que realice el Instituto; y
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+VII. Promover y apoyar la práctica del deporte considerando el pleno reconocimiento a la equidad e igualdad hacía los deportistas con discapacidad.
 
 ### Capítulo Cuarto. Del Programa Estatal del Deporte
 
@@ -273,7 +319,9 @@ V. Celebrar los convenios de coordinación necesarios para lograr la participaci
 
 VI. Promover la creación y apoyar a los organismos locales que desarrollen actividades deportivas, que estén adheridos o integrados al Sistema;
 
-VII. Garantizar la plena utilización de sus instalaciones deportivas, cuidando que las personas discapacitadas y los adultos mayores, tengan las facilidades de uso e instalaciones deportivas adecuadas para su libre acceso y desarrollo;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+VII. Garantizar la plena utilización de sus instalaciones deportivas, facilitando y permitiendo el acceso, uso y disfrute a las personas con alguna discapacidad y a los adultos mayores, facilitándoles el libre acceso y desarrollo, acorde a las necesidades de cada sector;
 
 VIII. Organizar y coordinar las actividades deportivas en las colonias, barrios, zonas y centros de población, a través de sus organismos deportivos;
 
@@ -315,6 +363,54 @@ XI. Recibir, en los términos de la presente Ley y su reglamento, un seguro de g
 
 XII. Los demás derechos que le otorgue la presente Ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
+###### Artículo 23 Bis.
+
+Para los efectos de esta Ley, se consideran deportistas con discapacidad a aquellas personas que practican algún deporte y que viven con alguna deficiencia anatómica, fisiológica o sensorial, de carácter permanente o temporal, que puede ser agravada por el entorno económico y social y que limita su capacidad para ejercer una o más actividades esenciales de la vida cotidiana.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
+###### Artículo 23 Ter.
+
+Son derechos de deportistas con discapacidad los siguientes:
+
+I. Ser tratados de manera igualitaria y con respeto a los demás deportistas;
+
+II. Tener acceso a las actividades recreativas, culturales, deportivas y turísticas, además de fomentar el desarrollo de sus capacidades artísticas y la protección de sus derechos de propiedad intelectual;
+
+III. Recibir acondicionamiento y entrenamiento libre en condiciones culturales, sociales y de infraestructura básica;
+
+IV. Acceder con igualdad y equidad a capacitación, entrenamiento y acondicionamiento deportivo en los diversos rubros y categorías deportivas;
+
+V. Tener garantizada la igualdad de oportunidades y apoyo para la participación en procesos de selección deportiva y competitividad en el deporte adaptado;
+
+VI. Desarrollar plenamente sus aptitudes deportivas y a gozar de una vida digna en su desarrollo personal y desempeño deportivo;
+
+VII. Ejercer con responsabilidad el desempeño de su actividad deportiva, en base a los lineamientos en la materia;
+
+VIII. Ser sujetos y beneficiarios de los programas de desarrollo deportivo, asistencia social y humano (sic) por medio de las autoridades responsables en el ámbito deportivo;
+
+IX. Contar con la accesibilidad que les permita desplazarse libremente y con seguridad; y
+
+X. Las demás que establezcan las normas jurídicas aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
+###### Artículo 23 Quater.
+
+El Estado, las instituciones deportivas y los municipios, en el ámbito de sus respectivas competencias, así como las establecidas en la Ley General de Cultura Física y Deporte, establecerán normas tendientes a:
+
+I. Aceptar y reconocer la existencia de las diversas discapacidades de los deportistas con discapacidad;
+
+II. Ofrecer apoyos educativos y formativos para padres y familias de deportistas con discapacidad, a fin de aportarles los medios necesarios para que puedan fomentar su desarrollo deportivo y profesional;
+
+III. Celebrar convenios de coordinación y colaboración entre los Estados, Municipios, Universidades y Entidades, con la finalidad de fomentar el deporte adaptado;
+
+IV. Crear los programas para la atención de deportistas con discapacidad, mismos que deberán contemplar los mecanismos necesarios para que puedan valerse por sí mismos, teniendo como su principal objetivo su participación de forma activa en las competencias paralímpicas o actividades deportivas adaptadas; y
+
+V. Las demás que establezcan las normas jurídicas aplicables a la materia.
+
 ###### Artículo 24.
 
 Son obligaciones de los deportistas en el Estado:
@@ -333,15 +429,19 @@ VI. Asistir a las reuniones, premiaciones y estímulos a los que fuere requerido
 
 VII. Cuidar y procurar la conservación y el mantenimiento de las instalaciones y equipo relacionados con su deporte;
 
-VIII. Fomentar la práctica del deporte y especialización en todas las formas y medios a su alcance; y
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+VIII. Fomentar la práctica del deporte y especialización, así como la promoción del deporte adaptado en todas sus formas y medios a su alcance; y
 
 IX. Las demás obligaciones que le señale la presente Ley y otras disposiciones aplicables.
 
 ### Capítulo Octavo. De los estímulos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 25.
 
-Las personas físicas o morales que realizan actividades destinadas al desarrollo, fomento e impulso del deporte que pertenezcan al Sistema, podrán solicitar al INDEREQ los siguientes beneficios:
+Las personas físicas o morales que realizan actividades destinadas al desarrollo, fomento e impulso del deporte que pertenezcan al Sistema, podrán solicitar al INDEREQ, de acuerdo a su respectiva competencia, los siguientes beneficios:
 
 I. Apoyos económicos;
 
@@ -509,7 +609,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 20 DE ENERO DE 2012.
 
@@ -526,3 +626,11 @@ P.O. 7 DE FEBRERO DE 2014.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DEL DEPORTE DEL ESTADO DE QUERÉTARO.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
