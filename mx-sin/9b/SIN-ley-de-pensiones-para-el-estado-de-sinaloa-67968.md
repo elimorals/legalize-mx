@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-pensiones-para-el-estado-de-sinaloa-67968"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-30"
-last_updated: "2009-03-30"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PENSIONES PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 30 de marzo de 2009.
 
@@ -193,13 +193,17 @@ El Instituto aprobará los formatos de los avisos a que se refiere este artícul
 
 Las cuotas se calcularán mensualmente en función de los días trabajados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 10.
 
-Los trabajadores aportarán el siete punto seiscientos veinticinco por ciento del salario sujeto a cotización, el cual les será descontado en la nómina y/o recibo de pago, distribuido de la siguiente manera:
+Los trabajadores aportarán el diez punto seiscientos veinticinco por ciento del salario sujeto a cotización, el cual les será descontado en la nómina y/o recibo de pago, distribuido de la siguiente manera:
 
 a). 6.125% para cuenta individual.
 
-b). 1.5% para invalidez y vida.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
+b). 4.5% para invalidez y vida.
 
 ###### Artículo 11.
 
@@ -245,9 +249,17 @@ El monto de la pensión por jubilación será el máximo entre la renta vitalici
 
 En caso de que la renta vitalicia resulte menor a la pensión mínima garantizada, el fondo de la cuenta individual pasará a formar parte del patrimonio del Instituto.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 20.
 
-En caso de que el trabajador no reúna los requisitos de edad o años de cotización, para recibir esta pensión, podrá retirar el saldo de su cuenta individual en una sola exhibición, o bien, contratar con el Instituto, una renta vitalicia sin que tenga derecho a la pensión mínima garantizada.
+El trabajador que al separarse del empleo no tenga derecho para recibir la pensión por jubilación, deberá elegir entre las siguientes opciones:
+
+I. Portabilidad de su Cuenta Individual: consistirá en que el trabajador transfiera el monto de su cuenta individual a otro régimen de seguridad social compatible con el sistema previsto en esta Ley, de acuerdo con lo establecido en el Capítulo VI del Título Tercero de esta Ley, o
+
+II. Mantener su cuenta individual en el Instituto: El saldo total de la cuenta individual del trabajador será manejado por el Instituto hasta el momento en que el titular alcance los 65 años de edad, se incapacite permanentemente, se invalide o fallezca. Una vez que se cumpla cualquiera de los supuestos establecidos en esta fracción, el trabajador o sus beneficiarios podrán retirar el saldo de su cuenta individual en una sola exhibición, o bien, contratar una renta vitalicia con el Instituto sin derecho a pensión mínima garantizada.
+
+La falta de manifestación del trabajador a cualquiera de las dos opciones anteriores por cualquier causa, se entenderá hecha a la segunda opción.
 
 ### CAPÍTULO III. PENSIÓN POR INVALIDEZ
 
@@ -565,17 +577,21 @@ El fondo del ahorro solidario será operado y administrado por el Instituto, en 
 
 ### CAPÍTULO VIII. RÉGIMEN VOLUNTARIO
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 58.
 
-El trabajador podrá solicitar la continuación voluntaria de su cuenta individual obligatoria mediante la formalización de convenio con el Instituto, debiendo cubrir tanto las cuotas como las aportaciones correspondientes a dicha cuenta.
+El trabajador que, de acuerdo con la fracción II del artículo 20, mantenga la cuenta individual en el Instituto y deseé continuar cubriendo sus cuotas correspondientes a dicha cuenta, deberá formalizar un convenio con el Instituto.
 
 ###### Artículo 59.
 
 Las cuotas y aportaciones podrán pagarse mensualmente o por anualidad anticipada; en este último caso, será considerada como año de servicio hasta que haya transcurrido el tiempo cubierto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 60.
 
-La solicitud de continuación voluntaria para conservar la cuenta individual, deberá presentarse por escrito ante el Instituto dentro del plazo de seis meses contados a partir de la fecha de baja; las cuotas y aportaciones corresponderán al porcentaje del último salario sujeto a cotización del solicitante.
+El convenio referido en el artículo 58 de esta Ley deberá presentarse por escrito ante el Instituto dentro del plazo de seis meses contados a partir de la fecha de baja.
 
 Las cuotas y aportaciones se actualizarán de acuerdo al incremento del salario sujeto a cotización del empleo, cargo o comisión que desempeñaba o su equivalente.
 
@@ -591,9 +607,15 @@ III. Reingreso al régimen obligatorio; y,
 
 IV. Fallecimiento.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 62.
 
-Una vez que se dé por terminado el convenio respectivo por las causas señaladas en las fracciones I, II y IV del artículo anterior, el cotizante o sus beneficiarios podrán retirar en una sola exhibición el monto de su cuenta individual, o bien, contratar con el Instituto una renta vitalicia.
+Una vez que se dé por terminado el convenio a que se refiere el artículo 58 de esta Ley por las causas señaladas en las fracciones I, II y IV del artículo anterior, el trabajador deberá elegir cualquiera de las siguientes opciones en relación a las cuotas y aportaciones a partir de la formalización del convenio mencionado:
+
+I. Portabilidad de su cuenta individual: consistirá en que el trabajador tendrá derecho a transferir el saldo de su cuenta individual a otro régimen de seguridad social compatible con el sistema previsto en esta Ley, de acuerdo con lo previsto en el Capítulo VI del Título Tercero de esta Ley, o
+
+II. Mantener el saldo de su cuenta individual: El trabajador tendrá derecho a que el saldo de la cuenta individual sea manejado por el Instituto hasta el momento en que éste alcance los sesenta y cinco años de edad, se incapacite permanentemente, se invalide o fallezca. Una vez que se cumpla cualquiera de los supuestos establecidos en esta fracción, el trabajador o sus beneficiarios podrán retirar dicho saldo en una sola exhibición, o bien, traspasar dicho saldo a la cuenta individual obligatoria y acogerse a lo establecido en la fracción II del artículo 20 de esta Ley.
 
 ###### Artículo 63.
 
@@ -647,7 +669,7 @@ XIV. Las demás que le otorguen esta Ley, su Reglamento y cualquier otra disposi
 
 ###### Artículo 67.
 
-Los actos y resoluciones que emita el Instituto en cumplimiento a esta Ley, serán de carácter administrativo.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2017)
 
 ### CAPÍTULO III. DEL PATRIMONIO DEL INSTITUTO
 
@@ -735,17 +757,29 @@ IV. La Dirección General.
 
 #### SECCIÓN I. DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 75.
 
-La Junta de Gobierno del Instituto será la autoridad suprema y estará integrada por siete miembros que serán los representantes de las instituciones siguientes:
+La Junta de Gobierno del Instituto será la autoridad suprema y estará integrada por ocho miembros que serán los representantes de las instituciones siguientes:
 
 I. El Gobernador del Estado, o el Secretario de Despacho que él designe, quien fungirá como Presidente del Instituto;
 
-II. Un representante del Poder Legislativo, que será un diputado designado por la Gran Comisión del Congreso del Estado;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
-III. Un representante del Poder Judicial, que será un Magistrado designado por el Pleno del Supremo Tribunal de Justicia; y
+II. Un representante del Gobierno designado por la Secretaría de Administración y Finanzas;
 
-IV. Cuatro representantes del Sindicato de Trabajadores al Servicio del Estado, siendo uno de ellos su Secretario General.
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+III. Un representante del Poder Legislativo, que será un Diputado designado por la Junta de Coordinación Política del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+IV. Un representante del Poder Judicial, que será una (sic) Magistrado designado por el Pleno del Supremo Tribunal de Justicia del Estado; y
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+V. Cuatro representantes del Sindicato de Trabajadores al Servicio del Estado, siendo uno de ellos su Secretario General.
 
 (F. DE. E., P.O. 17 DE ABRIL DE 2009)
 
@@ -757,11 +791,11 @@ La Junta de Gobierno será dirigida por su Presidente y deberá reunirse ordinar
 
 Las convocatorias para las sesiones de la Junta de Gobierno serán publicadas en el Periódico Oficial "El Estado de Sinaloa" con quince días naturales anteriores a su celebración, de no contar con quórum, las asambleas se podrán llevar a cabo tres días posteriores a la fecha de su celebración con los miembros que asistan incluido su Presidente.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 78.
 
-Las decisiones de la Junta de Gobierno se tomarán por mayoría de votos.
-
-El cargo como integrante de la Junta de Gobierno será honorífico.
+Las decisiones de la Junta de Gobierno se tomarán por mayoría de votos. En caso de empate el Presidente de la Junta de Gobierno tendrá voto de calidad. El cargo como integrante de la Junta de Gobierno será honorífico.
 
 ###### Artículo 79.
 
@@ -1223,7 +1257,9 @@ Para los efectos del párrafo anterior, los trabajadores y empleadores, conjunta
 
 El estímulo que se otorgue no será considerado para los efectos de la determinación del monto de la pensión jubilatoria cuando se solicite y se retire.
 
-Artículo Vigésimo Tercero.- A los trabajadores que adquieren su pensión por jubilación, a partir de la vigencia de esta Ley, el Instituto les otorgará una gratificación anual que deberá de ser cubierta, a más tardar, el día veinte de diciembre de cada año, equivalente al importe de treinta y cinco días, calculados sobre el monto mensual de su pensión.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
+Artículo Vigésimo Tercero.- A los trabajadores o sus beneficiarios que adquieran cualquiera de las pensiones contenidas en la presente Ley, el Instituto les otorgará una gratificación anual que deberá ser cubierta, a más tardar, el día veinte de diciembre de cada año, equivalente al importe de treinta y cinco días, calculados sobre el monto mensual de su pensión.
 
 Artículo Vigésimo Cuarto.- Las solicitudes de pensión o jubilación presentadas y en trámite con anterioridad al inicio de la vigencia del presente Decreto, se resolverán conforme al momento y a las condiciones en que se haya generado el derecho correspondiente, por lo que no serán afectadas por las modificaciones establecidas en esta Ley. Igual suerte correrán las que presenten los trabajadores con el derecho adquirido antes del inicio de la vigencia de este Decreto.
 
@@ -1231,7 +1267,9 @@ El Congreso del Estado, previa iniciativa del Ejecutivo, continuará conociendo 
 
 Artículo Vigésimo Quinto.- Los montos de las pensiones y jubilaciones que se otorguen a los trabajadores en transición que no migraron al sistema de pensiones de cuentas individuales se incrementarán cada año, partiendo de la fecha de su otorgamiento, conforme al cambio anualizado del Índice Nacional de Precios al Consumidor.
 
-Artículo Vigésimo Sexto.- Cuando un trabajador no haya migrado al sistema de cuentas individuales previsto en esta Ley y no tenga derecho a recibir ninguna de las pensiones previstas en la misma, el Instituto le reintegrará el total de sus aportaciones actualizadas con el índice Nacional de Precios al Consumidor durante todo el período, en un plazo no mayor a tres meses posteriores a que haya dejado de prestar sus servicios a cualquier empleador sujeto de esta Ley y de realizar sus aportaciones al Instituto.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
+Artículo Vigésimo Sexto.- Cuando un trabajador no haya migrado al sistema de cuentas individuales previsto en esta Ley y se llegara a pensionar por el Gobierno del Estado o alguno de los empleadores afilliados (sic) al Instituto de Pensiones, el Instituto le reintegrará el total de las cuotas y aportaciones al empleador que está jubilando a dicho trabajador, en un plazo no mayor a seis meses posteriores a que haya sido pensionado.
 
 Artículo Vigésimo Séptimo.- Para la administración de las pensiones en curso de pago, otorgadas con anterioridad a la vigencia de esta Ley, el Instituto deberá llevar por separado la contabilidad de los recursos que reciba para este fin. Los recursos que destine el empleador al Instituto para cubrir dichas pensiones, no se considerarán ingresos de este último.
 
@@ -1239,7 +1277,13 @@ Artículo Vigésimo Octavo.- El pago de las pensiones de jubilación, vejez e in
 
 TRABAJADORES EN TRANSICIÓN QUE MIGREN AL SISTEMA DE PENSIONES DE CUENTAS INDIVIDUALES
 
-Artículo Vigésimo Noveno.- Los trabajadores en transición que migren al nuevo sistema de pensiones de cuentas individuales, tendrán derecho a la acreditación de bonos de pensión en su cuenta individual, mismos que serán cubiertos por el Instituto. El empleador para el cual esté prestando servicios el trabajador deberá acreditar a favor del Instituto, por cada uno de ellos, el bono de referencia mismo que se hará efectivo cuando el trabajador haga exigible su cuenta individual. Para estos fines los empleadores deberán crear la reserva necesaria.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
+Artículo Vigésimo Noveno.- Los trabajadores en transición que migren al nuevo sistema de pensiones de cuentas individuales, tendrán derecho a la acreditación de bonos de pensión en su cuenta individual, mismos que serán cubiertos por el Instituto. El empleador para el cual esté prestando servicios el trabajador deberá acreditar a favor del Instituto, por cada uno de ellos, el bono de referencia.
+
+El bono en cuestión será redimible cuando los trabajadores alcancen el derecho a pensión, ya sea en el Instituto o bien en otra Institución de Seguridad Social compatible con la cual se haya efectuado el convenio de portabilidad correspondiente, o cumplan con lo establecido en los artículos 20, fracción II, o 62, fracción II de esta Ley, según corresponda.
+
+Para estos fines los empleadores deberán crear la reserva necesaria.
 
 Artículo Trigésimo.- El bono de pensión se contabilizará al momento de que se dé el cambio de régimen y su pago al Instituto, será efectivo al momento de acceder a la pensión correspondiente en términos de la tabla siguiente:
 
@@ -1261,7 +1305,7 @@ Artículo Trigésimo Segundo.- Los trabajadores contarán con un plazo de tres m
 
 RECONOCIMIENTO DE ANTIGÜEDAD
 
-Artículo Trigésimo Tercero.- A los trabajadores en transición los años que les sean reconocidos como de servicios, a la fecha de entrada en vigor de esta Ley, les podrán (sic) ser reconocidos como años de cotización, siempre y cuando los empleadores acrediten ante el Instituto el tiempo laborado mediante la documentación e información requerida para tal efecto.
+Artículo Trigésimo Tercero.- A los trabajadores en transición los años que les sean reconocidos como de servicios, a la fecha de entrada en vigor de esta Ley, les podrán ser reconocidos como años de cotización, siempre y cuando los empleadores acrediten ante el Instituto el tiempo laborado mediante la documentación e información requerida para tal efecto.
 
 Si con motivo del reconocimiento de antigüedad, los recursos que correspondan a cada empleador y sus trabajadores, resultaren insuficientes para cubrir las pensiones a que el Instituto esté obligado, se estará a lo dispuesto por el artículo 71 de esta Ley.
 
@@ -1304,3 +1348,17 @@ Lic. Rafael Oceguera Ramos
 El Secretario de Administración y Finanzas
 
 Lic. Quirino Ordaz Coppel
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 93 DEL H. CONGRESO DEL ESTADO.- MEDIANTE EL CUAL SE REFORMA LA LEY DE PENSIONES PARA EL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Las cuotas adicionales de tres puntos porcentuales, a que se refiere el inciso b) del artículo 10 de la Ley de Pensiones para el Estado de Sinaloa, sólo serán aplicables a los trabajadores que ingresen al servicio público a partir del día de la publicación del presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
