@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-40706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2015-03-06"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 16 de julio de 2004.
 
@@ -1025,33 +1025,35 @@ XV.- Cuando se exhiba documentación apócrifa, o se proporcionen informes o dat
 
 XVI.- Por así exigirlo el interés social.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 60.
 
-La revocación de un permiso por cualquiera de las causas establecidas en este u otros ordenamientos, será solicitada administrativamente por la Unidad, para que sean valorados los datos y el expediente relativo por el Secretario Fedatario y emita acuerdo para iniciar con el siguiente procedimiento:
+La revocación de un permiso por cualquiera de las causas establecidas en este u otros ordenamientos, se llevará a cabo por el Ayuntamiento, para que sean valorados los datos y el expediente relativo y emita la resolución bajo el siguiente procedimiento:
 
 I.- La Unidad Municipal de Transporte notificará por escrito al permisionario los motivos de caducidad, revocación, o extinción en que a su juicio haya incurrido y le señalará un plazo de 10 días para qué presente pruebas, alegatos y manifieste lo que a su derecho convenga;
 
-II.- Transcurrido dicho plazo el Secretario Fedatario emitirá acuerdo en el que en su caso, por la naturaleza de las pruebas ofrecidas, se señale una fecha dentro de los 15 días siguientes para su desahogo;
+II.- Transcurrido dicho plazo la Unidad emitirá acuerdo en el que en su caso, por la naturaleza de las pruebas ofrecidas, se señale una fecha dentro de los 15 días siguientes para su desahogo;
 
-III.- Concluido el periodo probatorio, El Secretario Fedatario cuenta con un término de 20 días para dictar resolución, la cual deberá notificarse en los estrados de la Secretaria al permisionario o a quién represente legalmente sus intereses.
+III.- Concluido el periodo probatorio, la Unidad cuenta con un término de 20 días para dictar resolución, la cual deberá notificarse en los estrados de la Unidad al permisionario o a quién represente legalmente sus intereses.
 
 En el caso de que se declare la revocación del permiso por cualquiera de los supuestos legales procedentes, el permisionario no tendrá derecho a compensación o indemnización alguna.
 
-La Secretaría está facultada para abstenerse de revocar los permisos, por una sola vez al titular, cuando lo estime pertinente y se justifique de manera fehaciente que se trata de hechos que no revisten gravedad, no constituyen delito y no se afecta la prestación del servicio. En este caso, tomando en cuenta los antecedentes y condiciones del permisionario, el daño causado y las circunstancias de ejecución de la conducta infractora, aplicará una suspensión del permiso por un término de un mes a un año.
+La Unidad está facultada para abstenerse de revocar los permisos, por una sola vez al titular, cuando lo estime pertinente y se justifique de manera fehaciente que se trata de hechos que no revisten gravedad, no constituyen delito y no se afecta la prestación del servicio.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
+En este caso, tomando en cuenta los antecedentes y condiciones del permisionario, el daño causado y las circunstancias de ejecución de la conducta infractora, aplicará una suspensión del permiso por un término de un mes a un año.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 61.
 
-La revocación de una concesión por cualquiera de las causas establecidas en este u otros ordenamientos, será solicitada administrativamente por la Unidad, para que sean valorados los datos y el expediente relativo por el Presidente Municipal y emita conjuntamente con el Secretario del Ayuntamiento acuerdo de procedencia bajo el siguiente procedimiento:
+La revocación de una concesión por cualquiera de las causas establecidas en este u otros ordenamientos, será solicitada administrativamente por la Unidad, para que sean valorados por el Ayuntamiento, los datos y el expediente relativo, bajo el siguiente procedimiento:
 
-I.- El Secretario Fedatario notificará por escrito al concesionario los motivos de caducidad, revocación, o extinción en que haya incurrido y le señalará un plazo de 10 días para que presente pruebas, alegatos y manifieste lo que a su derecho convenga;
+I.- La Unidad notificará por escrito al concesionario los motivos de caducidad, revocación, o extinción en que haya incurrido y le señalará un plazo de 10 días para que presente pruebas, alegatos y manifieste lo que a su derecho convenga;
 
-II.- Transcurrido dicho plazo el Secretario Fedatario emitirá acuerdo en el que en su caso, por la naturaleza de las pruebas ofrecidas, se señale una fecha dentro de los 15 días siguientes para su desahogo;
+II.- Transcurrido dicho plazo la Unidad emitirá acuerdo en el que en su caso, por la naturaleza de las pruebas ofrecidas, se señale una fecha dentro de los 15 días siguientes para su desahogo;
 
-III.- Concluido el periodo probatorio, el Secretario Fedatario cuenta con un término de 20 días para emitir un dictamen, el cual será presentado ante el Ayuntamiento por el Presidente Municipal, para que en forma colegiada se dicte la resolución que en derecho proceda, la cual deberá de notificarse en los estrados de la secretaría al permisionario o a quien represente legalmente sus intereses.
+III.- Concluido el periodo probatorio, el Ayuntamiento cuenta con un término de 20 días para emitir un proyecto de revocación, el cual será presentado ante el Ayuntamiento por el Presidente Municipal, para que en forma colegiada se dicte la resolución que en derecho proceda, la cual deberá de notificarse en los estrados de la Unidad al permisionario o a quien represente legalmente sus intereses.
 
 En el caso de que se declare la revocación del permiso por cualquiera de los supuestos legales procedentes, el permisionario no tendrá derecho a compensación o indemnización alguna.
 
@@ -1203,7 +1205,7 @@ Tanto la fijación inicial como las sucesivas revisiones de las tarifas, deberá
 
 Las tarifas del transporte público y de las actividades auxiliares y complementarias del transporte, deberán cubrir la totalidad de los costos reales en condiciones normales de productividad y organización, y permitirán una adecuada amortización y un razonable beneficio empresarial y una correcta prestación del servicio o realización de la actividad, no dejando de retribuir, en su caso, las prestaciones complementarias.
 
-La estructura tarifaría se ajustará a las características del transporte o de la actividad auxiliar o complementaria del mismo de que en cada caso se trate, y se configurará de forma que fomente la inversión, la seguridad y la calidad.
+La estructura tarifaría se ajustará a las características del transporte o de la actividad auxiliar o complementaria del mismo de que en cado caso se trate, y se configurará de forma que fomente la inversión, la seguridad y la calidad.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -1568,3 +1570,9 @@ UNICO.- Una vez aprobado el presente punto de acuerdo, publíquese en el Periód
 P.O. 6 DE MARZO DE 2015.
 
 Artículo Primero.- El presente Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y la Gaceta Municipal Órgano Oficial del Ayuntamiento.
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 004/2016, RELATIVO AL PROYECTO QUE REFORMA LOS ARTÍCULOS 60 Y 61 DEL REGLAMENTO DEL TRANSPORTE PÚBLICO DE MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
