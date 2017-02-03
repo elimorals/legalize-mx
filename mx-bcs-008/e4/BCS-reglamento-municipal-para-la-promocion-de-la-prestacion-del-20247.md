@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-municipal-para-la-promocion-de-la-prestacion-del-202
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-31"
-last_updated: "2001-01-31"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 ---
 # REGLAMENTO MUNICIPAL PARA LA PROMOCION DE LA PRESTACION DEL SERVICIO TURISTICO BAJO LA MODALIDAD DE TIEMPO COMPARTIDO Y SIMILARES DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-REGLAMENTO MUNICIPAL PARA LA PROMOCION DE LA PRESTACION DEL SERVICIO TURISTICO BAJO LA MODALIDAD DE TIEMPO COMPARTIDO Y SIMILARES
+REGLAMENTO MUNICIPAL PARA LA PROMOCIÓN DE LA PRESTACIÓN DEL SERVICIO TURÍSTICO BAJO LA MODALIDAD DE TIEMPO COMPARTIDO Y SIMILARES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE FEBRERO DE 2017.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 31 de enero de 2001.
 
@@ -181,13 +181,15 @@ III.- Verificar que el servicio se preste normal y eficientemente.
 
 IV.- Constatar el cumplimiento de las demás disposiciones contenidas en este Reglamento.
 
+> <small>(REFORMADO, B.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 20.
 
-Por cualquier infracción o violación alguna (sic) de las disposiciones contenidas en este Reglamento se aplicarán las siguientes sanciones:
+Por cualquier infracción o violación alguna de las disposiciones contenidas en este Reglamento se aplicarán las siguientes sanciones:
 
-I.- Los promotores serán sancionados con una multa equivalente treinta días de salario mínimo general vigente en esta zona y en caso de reincidencia, se duplicara la misma, si reincidiera por tercera ocasión se cancelará su credencial.
+I.- Los promotores serán sancionados con una multa equivalente a treinta veces el valor diario de la Unidad de Medida y Actualización (UMA) vigente al momento de imponersey (sic) en caso de reincidencia, se duplicará la misma, si reincidiera por tercera ocasión se cancelará su credencial.
 
-II.- A los Comercializadores se les sancionará con una multa equivalente a 100 días de salario mínimo general vigente en la zona y en caso de reincidencia se duplicara la sanción de acuerdo a lo señalado, si por tercera ocasión incurriese en faltas, se cancelara temporalmente la licencia respectiva por siete días a partir de la fecha de la infracción, sin perjuicio de la sanción correspondiente que será de trescientos salarios mínimos general vigente en la Entidad, quedando a juicio de la autoridad la resolución final.
+II.- A los Comercializadores se les sancionará con una multa equivalente a 100 veces el valor diario de la Unidad de Medida y Actualización (UMA) vigente al momento de imponerse, y en caso de reincidencia se duplicará la sanción de acuerdo a lo señalado, si por tercera ocasión incurriese en faltas, se cancelará temporalmente la licencia respectiva por siete días a partir de la fecha de la infracción, sin perjuicio de la sanción correspondiente que será de trescientas veces el valor diario de la Unidad de Medida y Actualización (UMA) vigente al momento de imponerse, quedando a juicio de la autoridad la resolución final.
 
 III.- Los Comercializadores serán solidariamente responsables de las sanciones que se apliquen a los Promotores.
 
@@ -354,3 +356,15 @@ Dado en la sala de Cabildo, sede del Honorable Ayuntamiento de los Cabos, Baja C
 C. LUIS ARMANDO DIAZ
 
 SECRETARIO GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DICTAMEN QUE PRESENTA LA COMISIÓN EDILICIA PERMANENTE DE ESTUDIOS LEGISLATIVOS Y REGLAMENTARIOS DE ESTE HONORABLE DÉCIMO SEGUNDO AYUNTAMIENTO DE LOS CABOS, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO MEDIANTE EL CUAL SE MODIFICAN DIVERSOS NUMERALES DE LOS REGLAMENTOS MUNICIPALES, PARA SER SUSTITUIDOS POR LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN (UMA)".]
+
+PRIMERO. Se instruye al Secretario General Municipal, de este H. XII Ayuntamiento de Los Cabos, Baja California Sur, para que solicite la publicación del presente Dictamen, en el Boletín Oficial del Gobierno del Estado de Baja California Sur, para los fines que correspondan.
+
+SEGUNDO. Se instruye al Secretario General Municipal, comunique mediante los canales administrativos pertinentes, a las diferentes áreas de la administración municipal, el contenido del presente, para su debido cumplimiento y el de las disposiciones aplicables, emanadas de la legislación del Estado de Baja California Sur con relación a la desindexación del salario mínimo publicadas en el Número 44 del Boletín Oficial del Gobierno del Estado de Baja California Sur, de fecha 31 de octubre de 2016.
+
+TERCERO. El presente Dictamen entrará en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
