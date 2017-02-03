@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-indulto-del-estado-de-mexico-antes-ley-de-indulto-y-1141
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-18"
-last_updated: "2016-12-20"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE INDULTO DEL ESTADO DE MEXICO -ANTES LEY DE INDULTO Y CONMUTACION DE PENAS DEL ESTADO DE MEXICO-
 
-LEY DE INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO
+LEY DE INDULTO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 3 DE FEBRERO DE 2017.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 18 de abril de 2016.
 
@@ -41,7 +41,9 @@ DECRETA:
 
 Se expide la Ley de Indulto y Conmutación de Penas del Estado de México, para quedar como sigue:
 
-LEY DE INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE FEBRERO DE 2017)</small>
+
+LEY DE INDULTO DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -49,11 +51,11 @@ LEY DE INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO
 
 Las disposiciones de esta Ley son de orden público e interés general, regirán en el Estado de México y su aplicación corresponde al Gobernador, a través de la Secretaría General de Gobierno por conducto de la Comisión Estatal de Seguridad Ciudadana, al Instituto de la Defensoría Pública y de la Dirección General de Prevención y Readaptación Social.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 2.
 
-El presente ordenamiento tiene como objeto establecer las bases para que el Gobernador pueda otorgar el indulto necesario y por gracia, ASÍ COMO CONMUTAR LAS PENAS PRIVATIVAS DE LIBERTAD a las y a los reos del fuero común que reúnan los requisitos señalados en esta Ley y que por sentencia ejecutoriada se encuentran a su disposición.
+El presente ordenamiento tiene como objeto establecer las bases para que el Gobernador pueda otorgar el indulto necesario y por gracia a las y a los reos del fuero común que reúnan los requisitos señalados en esta Ley y que por sentencia ejecutoriada se encuentran a su disposición.
 
 ###### Artículo 3.
 
@@ -63,13 +65,11 @@ I. Comisión: a la Comisión Estatal de Seguridad Ciudadana.
 
 II. Comisionado: al titular de la Comisión Estatal de Seguridad Ciudadana.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+III. (DEROGADA, G.G. 3 DE FEBRERO DE 2017)
 
-III. CONMUTACIÓN DE PENA: A LA FACULTAD DISCRECIONAL DEL EJECUTIVO DEL ESTADO, QUE CONSISTE EN QUE UNA PENA IMPUESTA COMO RESULTADO DE UNA SENTENCIA EJECUTORIADA PODRÁ SER SUSTITUIDA POR OTRA MENOS SEVERA PARA FAVORECER A LA O AL CONDENADO.
+> <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2017)</small>
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-IV. Consejo Consultivo: al Consejo Consultivo de Indulto Y CONMUTACIÓN DE PENAS, órgano colegiado conformado por los titulares o representantes de la Consejería Jurídica, del Poder Judicial, del Poder Legislativo, de la Comisión Estatal de Derechos Humanos, de la Universidad Autónoma del Estado de México, del Sistema para el Desarrollo Integral de la Familia de la Entidad y de la Comisión Ejecutiva de Atención a Víctimas del Estado de México, encargado de emitir opinión integral al Gobernador respecto de la viabilidad para otorgar el indulto O LA CONMUTACIÓN DE PENAS.
+IV. Consejo Consultivo: al Consejo Consultivo de Indulto, órgano colegiado conformado por los titulares o representantes de la Consejería Jurídica, del Poder Judicial, del Poder Legislativo, de la Comisión Estatal de Derechos Humanos, de la Universidad Autónoma del Estado de México, del Sistema para el Desarrollo Integral de la Familia de la Entidad y de la Comisión Ejecutiva de Atención a Víctimas del Estado de México, encargado de emitir opinión integral al Gobernador respecto de la viabilidad para otorgar el indulto.
 
 V. Consejo Técnico: al Consejo Técnico Interdisciplinario que es el órgano colegiado consultivo de la Dirección General de Prevención y Readaptación Social del Estado de México, integrado por los titulares o representantes de las áreas directivas, laboral, técnica y de seguridad de la misma, además de las correspondientes a la institución penitenciaria.
 
@@ -97,7 +97,9 @@ XVI. Indulto por gracia: facultad discrecional que ejerce el titular del Ejecuti
 
 XVII. Integrante de pueblo indígena: a la persona de una comunidad, pueblo o etnia indígena, que forma una unidad social, económica y cultural, asentada en un territorio y que reconocen autoridades propias, de acuerdo con sus usos y costumbres.
 
-XVIII. Ley: a la Ley de Indulto y Conmutación de Penas del Estado de México.
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
+
+XVIII. Ley: a la Ley de Indulto del Estado de México.
 
 ### CAPÍTULO II. DE LOS REQUISITOS DEL INDULTO NECESARIO Y POR GRACIA
 
@@ -123,9 +125,11 @@ c) Tratándose de un integrante de alguna comunidad indígena, se analizarán lo
 
 d) Que la conducta observada durante la prisión sea una base para inferir sobre la reinserción a la sociedad del sentenciado.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO B DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 20 DE FEBRERO DE 2020 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 17/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL APARTADO B DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE FEBRERO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 192, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-B. En el supuesto DE MUJERES que tengan uno o más hijos y/o hijas menores de dieciocho años, que se les haya impuesto una pena privativa de libertad que no exceda de 15 años y haya cumplido una quinta parte. No gozarán de este beneficio cuando existan datos de abandono o violencia en contra de sus hijos.
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
+
+B. En el supuesto de MUJERES que tengan uno o más hijos y/o hijas menores DE DOCE AÑOS que se les haya impuesto una pena privativa de libertad que no exceda de 15 años y haya cumplido una quinta parte. No gozarán de este beneficio cuando existan datos de abandono o violencia en contra de sus hijas o hijos.
 
 C. En el caso de personas mayores de 70 años y que hayan cumplido con una quinta parte de la pena privativa de libertad impuesta, independientemente del tiempo de su duración.
 
@@ -149,91 +153,33 @@ Tratándose de algún integrante de un pueblo indígena y una vez que de la revi
 
 El indulto que otorgue el Gobernador no comprende las penas de pago de la reparación del daño, inhabilitación o suspensión para el ejercicio de profesiones, derechos civiles o para desempeñar determinado cargo o empleo, el decomiso de instrumentos, objetos y productos relacionados con el delito, ni los efectos de la reincidencia.
 
-### CAPÍTULO III. DE LA CONMUTACIÓN DE LA PENA
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE FEBRERO DE 2017)</small>
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+### CAPÍTULO III. DE LA CONMUTACIÓN DE LA PENA
 
 ###### Artículo 6.
 
-La conmutación de la pena podrá ser otorgada a facultad del Gobernador, previo dictamen del Consejo Técnico, de conformidad al artículo 22 de esta ley, la cual beneficiará a las o los sentenciados siguientes:
-
-I. A personas mayores de 70 años de edad y que se le haya impuesto una pena privativa de libertad de hasta 4 años.
-
-II. A madres que tengan uno o más hijos y/o hijas menores de dieciocho años y que le haya sido impuesta una pena privativa de libertad de hasta 10 años.
-
-III. A mujeres embarazadas y que se les haya impuesto una pena privativa de libertad de hasta 15 años.
-
-IV. Enfermas o enfermos en fase terminal o crónico-degenerativa, dictaminados por una institución de salud pública y que la pena impuesta no exceda de 15 años.
-
-V. Tratándose de algún integrante de un pueblo indígena, que durante la tramitación y resolución del procedimiento penal se adviertan violaciones de fondo en el procedimiento penal y a sus derechos humanos.
-
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, G.G. 3 DE FEBRERO DE 2017)
 
 ###### Artículo 7.
 
-Las o los solicitantes de la conmutación de la pena deberán reunir los siguientes requisitos:
-
-I. Que no haya sido sentenciado por delito grave.
-
-II. Haber sido considerado delincuente primario.
-
-III. Acreditar, mediante los estudios que al efecto realice el Consejo Técnico, ser apto para la reinserción social.
-
-IV. Contar con el informe, debidamente documentado, emitido por la Dirección General, en el que se advierta la conducta del solicitante, los centros en los que se haya encontrado recluido, los motivos de sus reubicaciones, el tiempo que ha compurgado de la condena y las circunstancias en que la esté cumpliendo.
-
-V. Tratándose de personas enfermas en fase terminal, ser dictaminados por médico especialista de Institución de Salud Pública o perito oficial, independientemente del tiempo compurgado.
-
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, G.G. 3 DE FEBRERO DE 2017)
 
 ###### Artículo 8.
 
-La pena de prisión podrá ser conmutada, previo dictamen del Consejo Técnico, por el titular del Ejecutivo del Estado, en los siguientes términos:
-
-I. Por multa, de cincuenta a trecientos (sic) unidades de medida y actualización, cuando la pena de prisión no exceda de cuatro años.
-
-II. De cincuenta a cuatrocientas jornadas de trabajo a favor de la comunidad en actividades organizadas por instituciones públicas, cuando la pena impuesta no exceda de cinco años.
-
-III. Por tratamiento en semilibertad, cuando la pena de prisión no exceda de diez años, con alteración de periodos de privación de libertad y tratamiento en libertad del siguiente modo:
-
-a) Externamiento durante la semana de trabajo o educativa, con reclusión el fin de semana.
-
-b) Salida el fin de semana, con reclusión durante el resto de ésta o salida diurna con reclusión nocturna.
-
-IV. Por tratamiento en libertad condicionada al sistema de localización y rastreo, si le ha sido impuesta una pena mayor a tres y menor a quince años, debiendo cumplir con los siguientes requisitos:
-
-a) Que sea delincuente primario.
-
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
-
-b) Tratándose del delito de robo con violencia sólo cuando el monto de lo robado sea de hasta noventa veces el valor diario de la Unidad de Medida y Actualización vigente y no se hayan causado lesiones.
-
-c) Que alguna persona mayor de dieciocho años, con reconocida solvencia moral y arraigo se obligue a supervisar y cuidar que el beneficiado cumpla con las condiciones impuestas al momento de su liberación, la cual deberá residir en la misma localidad a la que se integrará el beneficiado dentro del Estado de México.
-
-d) Que compruebe contar en el exterior con un ofrecimiento de trabajo, un oficio, arte o profesión que le permita tener ingresos, o exhiba las constancias que acrediten que continuará estudiando.
-
-e) Que cuente con apoyo familiar o de la sociedad civil que garantice su vinculación a las condiciones que le fueron fijadas para el otorgamiento del beneficio.
-
-f) Que no se encuentre sujeto a ningún proceso pendiente por causa distinta ni tener sentencia ejecutoriada que cumplir en reclusión del fuero común o federal, sea cual fuere el delito.
-
-g) Que se cuente con los elementos técnicos necesarios para el funcionamiento del sistema de posicionamiento global en el domicilio laboral y de reinserción.
-
-h) Que se comprometa a no abandonar el perímetro permitido y a no comunicarse con la víctima u ofendido, familiares, ni testigos que depusieron en su contra, sin autorización judicial.
-
-i) Que cuente con domicilio laboral y de reinserción, que garantice la finalidad de la reinserción social.
-
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, G.G. 3 DE FEBRERO DE 2017)
 
 ###### Artículo 9.
 
-Las o los reos que estimen estar dentro del supuesto para tramitar la conmutación de la pena, lo solicitarán por escrito al Gobernador, quien lo turnará a la Secretaría General de Gobierno.
+(DEROGADO, G.G. 3 DE FEBRERO DE 2017)
 
 ### CAPÍTULO IV. SUPUESTOS DE IMPROCEDENCIA
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 10.
 
-En ningún caso podrán gozar del indulto O CONMUTACIÓN DE LA PENA:
+En ningún caso podrán gozar del indulto:
 
 I. Los delincuentes habituales o reincidentes.
 
@@ -245,53 +191,55 @@ IV. Los que de acuerdo con el dictamen emitido por el Consejo Técnico, consider
 
 V. Los internos que, de acuerdo con el dictamen emitido por el Consejo Técnico, sean considerados de alto riesgo o riesgo medio significativo.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.G. 3 DE FEBRERO DE 2017)</small>
 
-VI. Los internos que cuenten con reporte disciplinario de mala conducta y sanción impuesta el año anterior a la solicitud del indulto O CONMUTACIÓN DE LA PENA.
+VI. Las internas y los internos que cuenten con reporte disciplinario de mala conducta y sanción impuesta el año anterior a la solicitud del indulto.
 
 Para efectos del cumplimiento de la ley, el Director deberá emitir y notificar a los internos, cuando lo soliciten, un informe que contenga los reportes de conducta y sanciones.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 11.
 
-No se tramitará el indulto O CONMUTACIÓN DE LA PENA a las personas que tengan pendiente otro proceso, sino hasta que en ése se pronuncie sentencia ejecutoriada y ésta sea absolutoria.
+No se tramitará el indulto a las personas que tengan pendiente otro proceso, sino hasta que en ése se pronuncie sentencia ejecutoriada y ésta sea absolutoria.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 12.
 
-Las autoridades penitenciarias darán a esta Ley amplia publicidad y auxiliarán a las y los sentenciados en los trámites correspondientes, para en su caso obtener el indulto O CONMUTACIÓN DE LA PENA.
+Las autoridades penitenciarias darán a esta Ley amplia publicidad y auxiliarán a las y los sentenciados en los trámites correspondientes, para en su caso obtener el indulto.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 13.
 
-El Instituto de la Defensoría Pública del Estado de México, a solicitud de la o del interno, tendrá la obligación de asesorar y gestionar, gratuitamente, las solicitudes de indulto O CONMUTACIÓN DE LA PENA.
+El Instituto de la Defensoría Pública del Estado de México, a solicitud de la o el interno, tendrá la obligación de asesorar y gestionar, gratuitamente, las solicitudes de indulto.
+
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 14.
 
-Tratándose de solicitudes de las o los sentenciado (sic) integrantes de pueblos indígenas, el Instituto de la Defensoría Pública del Estado de México tiene la obligación de asignar defensor bilingüe o, en su caso, intérprete, que coadyuven en la solicitud y le informen del estado procesal en que se encuentre su trámite.
+Tratándose de solicitudes de las o los sentenciados integrantes de pueblos indígenas, el Instituto de la Defensoría Pública del Estado de México tiene la obligación de asignar defensor bilingüe o, en su caso, intérprete, que coadyuven en la solicitud y le informen del estado procesal en que se encuentre su trámite.
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 15.
 
-Las o los sentenciados que estimen estar dentro del supuesto para tramitar el indulto O CONMUTACIÓN DE LA PENA, lo solicitarán por escrito al Gobernador, quien lo turnará al Secretario General de Gobierno.
+Las o los sentenciados que estimen estar dentro del supuesto para tramitar el indulto, lo solicitarán por escrito al Gobernador, quien lo turnará al Secretario General de Gobierno.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 16.
 
-La sustanciación del indulto O CONMUTACIÓN DE LA PENA se llevará a cabo por la Dirección General.
+La sustanciación del indulto se llevará a cabo por la Dirección General.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 17.
 
-La solicitud de indulto O CONMUTACIÓN DE LA PENA deberá presentarse por los sentenciados, el defensor o sus familiares, acompañada de los documentos siguientes:
+La solicitud de indulto deberá presentarse por los sentenciados, el defensor o sus familiares, acompañada de los documentos siguientes:
 
 I. Copias certificadas de la sentencia y de la resolución que la declare ejecutoriada, en caso de no haberla en el expediente de la propia Dirección General.
 
@@ -301,25 +249,25 @@ III. Ficha signalética, con informes de condenas y prisiones.
 
 IV. El informe sobre antecedentes penales.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 18.
 
-La Dirección General procederá a analizar, formular y calificar, las solicitudes de indulto O CONMUTACIÓN DE PENA y, en caso de que no cumplan con los requisitos establecidos en la presente Ley, se lo comunicará a las o los promoventes, dando por terminado el procedimiento respectivo.
+La Dirección General procederá a analizar, formular y calificar, las solicitudes de indulto y, en caso de que no cumplan con los requisitos establecidos en la presente Ley, se lo comunicará alas (sic) o los promoventes, dando por terminado el procedimiento respectivo.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 19.
 
-En las solicitudes de indulto O CONMUTACIÓN DE LA PENA de las o los sentenciados de pueblos indígenas, se deberán ponderar, además, de los requisitos contemplados en la ley, sus usos, costumbres, tradiciones, cultura y circunstancias inherentes a dicha unidad social, en pleno respeto a los derechos humanos.
+En las solicitudes de indulto de las o los sentenciados de pueblos indígenas, se deberán ponderar, además, de los requisitos contemplados en la ley, sus usos, costumbres, tradiciones, cultura y circunstancias inherentes a dicha unidad social, en pleno respeto a los derechos humanos.
 
 ###### Artículo 20.
 
 Cuando la Dirección General integre debidamente el expediente respectivo, lo remitirá con la solicitud al Consejo Técnico para que éste dictamine lo procedente.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
-En caso positivo, se enviará al Gobernador del Estado para que valore la viabilidad del indulto O DE LA CONMUTACIÓN DE LA PENA.
+En caso positivo, se enviará al Gobernador del Estado para que valore la viabilidad del indulto.
 
 Si el dictamen fuera negativo, se notificará a la o al solicitante.
 
@@ -327,29 +275,29 @@ Si el dictamen fuera negativo, se notificará a la o al solicitante.
 
 Las autoridades que deban expedir las constancias que integren el expediente a que se refiere el artículo anterior, lo harán con carácter urgente, sin costo de ninguna clase y las remitirán inmediatamente a la autoridad que las solicite. Su incumplimiento será causa de responsabilidad administrativa en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios. Lo anterior, sin perjuicio de la responsabilidad civil o penal.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 22.
 
-El Gobernador del Estado remitirá el expediente al Consejo Consultivo para su opinión sobre la viabilidad del indulto O CONMUTACIÓN DE LA PENA.
+El Gobernador del Estado remitirá el expediente al Consejo Consultivo para su opinión sobre la viabilidad del indulto.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 23.
 
-Si el Gobernador concede el indulto O CONMUTACIÓN DE LA PENA, enviará el expediente respectivo al Comisionado, acompañando el acuerdo dictado y publicado al efecto, para su ejecución inmediata. Éste contendrá, en su caso, las restricciones de conducta que observará el beneficiado.
+Si el Gobernador concede el indulto, enviará el expediente respectivo al Comisionado, acompañando el acuerdo dictado y publicado al efecto, para su ejecución inmediata. Éste contendrá, en su caso, las restricciones de conducta que observará el beneficiado.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 24.
 
-El Gobernador resolverá revocar el indulto O CONMUTACIÓN DE LA PENA CONCEDIDA, cuando se demuestre que el beneficiado haya transgredido las condiciones establecidas para ello.
+El Gobernador resolverá revocar el indulto concedido, cuando se demuestre que el beneficiado haya transgredido las condiciones establecidas para ello.
 
-(NOTA: EL 20 DE FEBRERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 34/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 19 DE ABRIL DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 78, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 25.
 
-La víctima u ofendido del hecho ilícito, será notificado desde el inicio del trámite para ser escuchado en garantía de audiencia. Del mismo modo, deberá notificarse la determinación de libertad por indulto O DEL OTORGAMIENTO DE LA CONMUTACIÓN DE LA PENA en su domicilio legal, para su conocimiento y efectos legales conducentes.
+La víctima u ofendido del hecho ilícito será notificado desde el inicio del trámite para ser escuchado en garantía de audiencia. Del mismo modo, deberá notificarse la determinación de libertad por indulto en su domicilio legal, para su conocimiento y efectos legales conducentes.
 
 ###### Artículo 26.
 
@@ -408,3 +356,15 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 192.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 9, 58 EN SU CUARTO PÁRRAFO Y DEROGA DEL ARTÍCULO 69, LA FRACCIÓN V, EL CAPÍTULO XVII DENOMINADO “NO EJERCICIO DE LA ACCIÓN PENAL” DEL TÍTULO QUINTO DEL LIBRO PRIMERO Y EL ARTÍCULO 106 QUINTUS, EL CAPÍTULO II DENOMINADO “SECUESTRO” DEL SUBTÍTULO TERCERO, DEL TÍTULO TERCERO, ASÍ COMO LOS ARTÍCULOS 259, 260 Y 261 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; Y REFORMA LA DENOMINACIÓN "LEY DE INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO", EL ARTÍCULO 2, LAS FRACCIONES IV Y XVII DEL ARTÍCULO 3, EL APARTADO B DE LA FRACCIÓN I DEL ARTÍCULO 4, EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 10, LOS ARTÍCULOS 11, 12, 13, 14, 15, 16, 17 EN SU PRIMER PÁRRAFO, 18, 19, 20 EN SU SEGUNDO PÁRRAFO, 22, 23, 24 Y 25 Y SE DEROGAN LA FRACCIÓN III DEL ARTÍCULO 3, EL CAPÍTULO III DENOMINADO "DE LA CONMUTACIÓN DE LA PENA" Y LOS ARTÍCULOS 6, 7, 8 Y 9 DE LA LEY DEL INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO; Y DEROGA EL ARTÍCULO 192 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones jurídicas vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
