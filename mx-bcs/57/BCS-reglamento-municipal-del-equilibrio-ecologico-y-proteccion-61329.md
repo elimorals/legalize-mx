@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-municipal-del-equilibrio-ecologico-y-proteccion-6132
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-20"
-last_updated: "2008-05-20"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61329&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # REGLAMENTO MUNICIPAL DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL MUNICIPIO DE LOS CABOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-REGLAMENTO MUNICIPAL DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL MUNICIPIO DE LOS CABOS DEL ESTADO DE BAJA CALIFORNIA SUR
+REGLAMENTO MUNICIPAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL MUNICIPIO DE LOS CABOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE FEBRERO DE 2017.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de mayo de 2008.
 
@@ -261,7 +261,7 @@ V.- Los recursos naturales no renovables deben utilizarse de modo que se evite e
 
 VI.- La coordinación entre los distintos niveles de gobierno y la concertación con la sociedad, son indispensables para la eficacia de las acciones ecológicas.
 
-VIl.- El Ayuntamiento, en el ejercicio de las atribuciones que las leyes y reglamentos le confieren para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares, deberá considerar los criterios de prevención y restauración del equilibrio ecológico.
+VII.- El Ayuntamiento, en el ejercicio de las atribuciones que las leyes y reglamentos le confieren para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares, deberá considerar los criterios de prevención y restauración del equilibrio ecológico.
 
 VIII.- Toda persona tiene derecho a disfrutar de un ambiente sano, las autoridades, en los términos de este Reglamento y otras leyes, tomarán las medidas necesarias para preservar este derecho.
 
@@ -461,7 +461,7 @@ Se prohíbe producir, expeler, descargar o emitir contaminantes que alteren la a
 
 ###### ARTÍCULO 40.
 
-Queda prohibida la quema de cualquier tipo de residuos sólidos o líquidos en la vía pública o en lugares inadecuados, incluyendo la basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, lIantas, plásticos, lubricantes, solventes y otros.
+Queda prohibida la quema de cualquier tipo de residuos sólidos o líquidos en la vía pública o en lugares inadecuados, incluyendo la basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas, plásticos, lubricantes, solventes y otros.
 
 ###### ARTÍCULO 41.
 
@@ -739,7 +739,7 @@ Queda estrictamente prohibido la utilización de equipo para la aplicación de p
 
 Las empresas distribuidoras, fabricantes o almacenes y bodegas de agroquímicos deberán observar las siguientes disposiciones:
 
-l.-Tener un conocimiento amplio sobre la clase de productos plaguicidas que se manejan u almacenan, conocer su grado de toxicidad y total indicación sobre su manejo y precauciones.
+I.-Tener un conocimiento amplio sobre la clase de productos plaguicidas que se manejan u almacenan, conocer su grado de toxicidad y total indicación sobre su manejo y precauciones.
 
 II.- Deberán mantener un inventario completo y actualizarlo con indicaciones del número e identidad de los recipientes existentes en cada unidad de almacenamiento.
 
@@ -1277,7 +1277,7 @@ Cuando la Dirección ordene alguna de las medidas de seguridad previstas en este
 
 ###### ARTÍCULO 175.
 
-Cuando el riesgo de desequilibrio ecológico o casos de contaminación provengan de fuentes de jurisdicción federal, el Gobierno Municipal, a través de la Sindicatura Municipal y con el reporte técnico emitido por la Dirección Municipal de Ecología y Medio Ambiente, solicitará la intervención de de las autoridades federales correspondientes.
+Cuando el riesgo de desequilibrio ecológico o casos de contaminación provengan de fuentes de jurisdicción federal, el Gobierno Municipal, a través de la Sindicatura Municipal y con el reporte técnico emitido por la Dirección Municipal de Ecología y Medio Ambiente, solicitará la intervención de de (sic) las autoridades federales correspondientes.
 
 DE LAS SANCIONES
 
@@ -1285,23 +1285,31 @@ DE LAS SANCIONES
 
 Las violaciones a los ordenamientos de este Reglamento y disposiciones que del mismo emanen, constituyen infracciones y serán sancionadas por la Dirección Municipal de Ecología y Medio Ambiente, esto sin perjuicio de las sanciones que por las mismas pudieran aplicar las autoridades estatales o federales.
 
+> <small>(REFORMADO, B.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 177.
 
-Se impondrá multa por el equivalente de cien a diez mil días de salario mínimo general vigente en la zona y se presentará denuncia formal ante el Ministerio Público, al que sin contar con las autorizaciones respectivas o con violación de ellas, realice autorice u ordene la ejecución de actividades que conforme a este mismo Reglamento se consideren como riesgosas y pongan en peligro la flora, fauna, la salud pública, el ambiente y los ecosistemas. Cuando las actividades consideradas como riesgosas, se lleven acabo (sic) en un centro de población se podrá elevar la multa hasta por veinte mil días de salario mínimo general vigente en la zona.
+Se impondrá multa por el equivalente de cien a diez mil veces el valor diario de la Unidad de Medida y Actualización (UMA) y se presentará denuncia formal ante el Ministerio Público, al que sin contar con las autorizaciones respectivas o con violación de ellas, realice autorice u ordene la ejecución de actividades que conforme a este mismo Reglamento se consideren como riesgosas y pongan en peligro la flora, fauna, la salud pública, el ambiente y los ecosistemas. Cuando las actividades consideradas como riesgosas, se lleven acabo (sic) en un centro de población se podrá elevar la multa hasta por veinte mil veces el valor diario de la Unidad de Medida y Actualización (UMA).
+
+> <small>(REFORMADO, B.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 178.
 
-Se impondrá multa de cien a diez días de salario mínimo general vigente en la zona al en que contravengan las disposiciones de este Reglamento, al infractor que descargue, infiltre, deposite aguas residuales, deshechos (sic) contaminantes en corriente de agua en el Municipio, así mismo el que despida o descargue en al (sic) atmósfera gases, humos, polvos, vapores, olores que ocasionen o puedan ocasionar daños en la salud, el ambiente y al ecosistema.
+Se impondrá multa de cien a diez veces el valor diario de la Unidad de Medida y Actualización (UMA), al que contravenga las disposiciones de este Reglamento, al infractor que descargue, infiltre, deposite aguas residuales, deshechos contaminantes en corriente de agua en el Municipio, así mismo el que despida o descargue en la atmósfera gases, humos, polvos, vapores, olores que ocasionen o puedan ocasionar daños en la salud, el ambiente y al ecosistema.
+
+> <small>(REFORMADO, B.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 179.
 
-Se impondrá multa por el equivalente de diez a diez mil días de salario mínimo general vigente en la zona, al que sin autorización de la Dirección Municipal de Ecología y Medio Ambiente y en contravención a las disposiciones de este Reglamento y normas técnicas ecológicas aplicables, descargue, deposite, infiltre o los autorice u ordene, aguas residuales, deshechos o contaminantes, en suelos, ríos, cuencas, vasos, corrientes, o demás depósitos de agua de jurisdicción municipal, así como a quien genere, emisiones de ruido, vibraciones, energía térmica o lumínica en zonas de jurisdicción municipal que ocasionen o puedan ocasionar, graves daños a los ecosistemas. Cuando se trate de aguas para servicios de centros de población, la multa podrá elevarse a veinte mil cuotas de salario mínimo general vigente en la zona.
+Se impondrá multa por el equivalente de diez a diez mil veces el valor diario de la Unidad de Medida y Actualización (UMA), al que sin autorización de la Dirección Municipal de Ecología y Medio Ambiente y en contravención a las disposiciones de este Reglamento y normas técnicas ecológicas aplicables, descargue, deposite, infiltre o los autorice u ordene, aguas residuales, deshechos o contaminantes, en suelos, ríos, cuencas, vasos, corrientes, o demás depósitos de agua de jurisdicción municipal, así como a quien genere, emisiones de ruido, vibraciones, energía térmica o lumínica en zonas de jurisdicción municipal que ocasionen o puedan ocasionar, graves daños a los ecosistemas. Cuando se trate de aguas para servicios de centros de población, la multa podrá elevarse a veinte mil veces el valor diario de la Unidad de Medida y Actualización (UMA).
 
 ###### ARTÍCULO 180.
 
 La Dirección Municipal de Ecología y Medio Ambiente, en el ámbito de sus atribuciones y competencia impondrá las sanciones administrativas a las que se hicieren acreedores en virtud del artículo 176 de la siguiente forma:
 
-a) Multa por equivalente de cien a veinte mil salarios mínimos general vigente para la zona donde se cometa la infracción, al momento de imponerla; para ello el órgano encargado de aplicarla, observará la obligación de respetar el derecho de audiencia
+> <small>(REFORMADO, B.O. 3 DE FEBRERO DE 2017)</small>
+
+a) Multa por equivalente de cien a veinte milveces (sic) el valor diario de la Unidad de Medida y Actualización (UMA) vigente al momento de imponerla; para ello el órgano encargado de aplicarla, observará la obligación de respetar el derecho de audiencia
 
 b) Clausura total o parcial, definitiva o temporal;
 
@@ -1440,3 +1448,15 @@ SUFRAGIO EFECTIVO, NO REELECCION
 EL SECRETARIO GENERAL MUNICIPAL
 
 C. JUAN GARIBALDO ROMERO AGUILAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DICTAMEN QUE PRESENTA LA COMISIÓN EDILICIA PERMANENTE DE ESTUDIOS LEGISLATIVOS Y REGLAMENTARIOS DE ESTE HONORABLE DÉCIMO SEGUNDO AYUNTAMIENTO DE LOS CABOS, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO MEDIANTE EL CUAL SE MODIFICAN DIVERSOS NUMERALES DE LOS REGLAMENTOS MUNICIPALES, PARA SER SUSTITUIDOS POR LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN (UMA)”.]
+
+PRIMERO. Se instruye al Secretario General Municipal, de este H. XII Ayuntamiento de Los Cabos, Baja California Sur, para que solicite la publicación del presente Dictamen, en el Boletín Oficial del Gobierno del Estado de Baja California Sur, para los fines que correspondan.
+
+SEGUNDO. Se instruye al Secretario General Municipal, comunique mediante los canales administrativos pertinentes, a las diferentes áreas de la administración municipal, el contenido del presente, para su debido cumplimiento y el de las disposiciones aplicables, emanadas de la legislación del Estado de Baja California Sur con relación a la desindexación del salario mínimo publicadas en el Número 44 del Boletín Oficial del Gobierno del Estado de Baja California Sur, de fecha 31 de octubre de 2016.
+
+TERCERO.- El presente Dictamen entrará en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
