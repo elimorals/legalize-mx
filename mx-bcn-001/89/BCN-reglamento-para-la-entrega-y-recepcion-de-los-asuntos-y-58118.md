@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-entrega-y-recepcion-de-los-asuntos-y-58118"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-30"
-last_updated: "2007-11-30"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LA ENTREGA Y RECEPCION DE LOS ASUNTOS Y RECURSOS PUBLICOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO PARA LA ENTREGA Y RECEPCION DE LOS ASUNTOS Y RECURSOS PUBLICOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO PARA LA ENTREGA Y RECEPCIÓN DE ASUNTOS Y RECURSOS PÚBLICOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2007.
 
@@ -59,7 +59,9 @@ El Secretario Fedatario del XVIII Ayuntamiento de Ensenada
 
 LIC. JULIO CÉSAR ARENAS RUIZ
 
-REGLAMENTO PARA LA ENTREGA Y RECEPCION DE LOS ASUNTOS Y RECURSOS PUBLICOS DEL MUNICIPIO DE ENSENADA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE FEBRERO DE 2017)</small>
+
+REGLAMENTO PARA LA ENTREGA Y RECEPCION DE ASUNTOS Y RECURSOS PUBLICOS DEL MUNICIPIO DE ENSENADA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -237,11 +239,23 @@ El acto formal de Entrega - Recepción deberá llevarse a cabo a más tardar al 
 
 Los titulares o responsables de las dependencias y/o paramunicipales, informarán por escrito dentro de los 60 días siguientes al inicio de su gestión a la Sindicatura Municipal, los servidores públicos que por la naturaleza e importancia de sus funciones deben quedar sujetos a las obligaciones que impone el presente ordenamiento.
 
-###### ARTÍCULO 15.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
-En caso de fallecimiento o incapacidad física, o en el supuesto de que el servidor público saliente por causas de fuerza mayor no se presente a la Entrega - Recepción, en los términos que se señala (sic) en este Reglamento, ésta se llevará a cabo por el funcionario que designe por (sic) el Presidente Municipal con la asistencia de dos testigos y un representante de Sindicatura Municipal. En caso de que el Presidente Municipal esté impedido en los términos de este artículo, la entrega se realizará por el secretario particular del presidente municipal o por quien por acuerdo de cabildo se designe.
+###### Artículo 15.
 
-Si no existe nombramiento o designación del Titular entrante, la entrega se hará al superior jerárquico o al servidor público que designe el Presidente Municipal entrante.
+En caso de fallecimiento o incapacidad física, o en el supuesto de que el servidor público saliente por causas de fuerza mayor no se presente a la Entrega – Recepción, en los términos que se señala en este Reglamento, ésta se llevará a cabo por el funcionario que designe el Presidente Municipal con la asistencia de dos testigos y un representante de Sindicatura Municipal. En caso de que el Presidente Municipal esté impedido en los términos de este artículo, la entrega se realizará por el secretario particular del presidente municipal o por quien por acuerdo de cabildo se designe.
+
+En caso de que el Presidente Municipal entrante no haya designado un nuevo titular, el servidor público de jerarquía inmediata inferior del Ayuntamiento saliente, procederá con asistencia del representante de la Sindicatura Municipal y dos testigos, a levantar el acta circunstanciada en la que se le responsabilizara por la custodia provisional de los asuntos y bienes de la dependencia, delegación, entidad u organismo paraestatal o municipal, en tanto que el Presidente Municipal entrante realice una nueva designación. Posteriormente se realizara la entrega a la persona que sea designada formalmente para desempeñar el cargo, dejando constancia del estado en que se encuentran los asuntos y recursos de la dependencia, delegación, entidad u organismo paraestatal o municipal, sin menoscabo de las responsabilidades adquiridas durante el tiempo de sus respectivos encargos.
+
+El orden de preferencia en la designación interna en su (sic) caso de existir dos funcionarios con la misma jerarquía será la siguiente:
+
+I. El designado por el titular del cargo a suplir, siempre y cuando haya sido realizada antes de terminado su nombramiento.
+
+II. Trabajadores de base sobre los de confianza y,
+
+III. Sindicalizados sobre no sindicalizados.
+
+De no realizarse en los términos señalados, la entrega se hará al superior jerárquico o al servidor público que designe el Presidente Municipal entrante.
 
 ###### ARTÍCULO 16.
 
@@ -302,3 +316,11 @@ PRESIDENTE MUNICIPAL DEL H. XVIII AYUNTAMIENTO DE ENSENADA
 LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO DEL H. XVIII AYUNTAMIENTO DE ENSENADA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 005/2016, RELATIVO AL PROYECTO QUE REFORMA EL ARTÍCULO 15 DEL REGLAMENTO PARA LA ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
