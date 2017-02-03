@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2016-04-28"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -2047,9 +2047,9 @@ El presidente del Consejo de la Judicatura, deberá informar semestralmente por 
 
 Las demás facultades y obligaciones del presidente así como aquellas para el funcionamiento del Consejo de la Judicatura, serán previstas por la ley correspondiente.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
-Los consejeros, a excepción del presidente, durarán en el cargo tres años y no podrán ser designados para otro período inmediato posterior. Los consejeros no representarán a quien los designa y ejercerán su función con independencia e imparcialidad, durante su encargo sólo podrán ser removidos en los términos del Título XI de la presente Constitución.
+Los consejeros, serán designados en términos de la presente Constitución, y, a excepción del Presidente, durarán en el cargo tres años, y podrán ser ratificados única y exclusivamente por un período igual al que fueron nombrados, previa evaluación, y entrevista practicadas por quien lo designó, de conformidad con los lineamientos que para tal efecto emita. Los consejeros no representarán a quien los designa y ejercerán su función con independencia e imparcialidad, durante su encargo solo podrán ser removidos en los términos del Título XI de la presente Constitución.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -3762,3 +3762,19 @@ Los recursos materiales y financieros, asi como el personal que labora para la C
 ###### ARTÍCULO OCTAVO.
 
 En los ordenamientos jurídicos en que se haga referencia a la Comisión de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, se entenderá que se refiere al Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala.
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 313.- POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 85 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para el debido cumplimiento a este precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
