@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2017-01-25"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NLE"
 
 CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -769,31 +767,27 @@ III.- Conceder subsidios o estímulos fiscales.
 
 Las resoluciones que conforme a este artículo se dicten, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 42.
 
-Las autoridades fiscales podrán emplear las medidas de apremio que se indican a continuación, cuando los contribuyentes, los responsables solidarios o terceros relacionados con ellos, impidan de cualquier forma o por cualquier medio el inicio o desarrollo de sus facultades, observando estrictamente el siguiente orden:
+Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, éstas podrán indistinta o conjuntamente:
 
 I.- Solicitar el auxilio de la fuerza pública.
 
 II.- Imponer la multa que corresponda en los términos de este Código.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-III.- Practicar el aseguramiento precautorio de los bienes o de la negociación del contribuyente o responsable solidario, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme a lo establecido en el artículo 42 Bis de este Código.
+III.- (DEROGADA, P.O. 3 DE FEBRERO DE 2017)
 
 IV.- Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-Las autoridades fiscales no aplicarán la medida de apremio prevista en la fracción I, cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, no atiendan las solicitudes de información o los requerimientos de documentación que les realicen las autoridades fiscales, o al atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual acrediten el cumplimiento de las disposiciones fiscales a que estén obligados, o cuando destruyan o alteren la misma.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, manifiesten por escrito a la autoridad, que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito, y lo acrediten exhibiendo las pruebas correspondientes.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+ARTICULO 42 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
 
 ###### ARTICULO 42 Bis.
 
@@ -917,9 +911,7 @@ VI.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los 
 
 VII.- Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practique la Secretaría de Finanzas y Tesorería General del Estado tendrán el mismo valor probatorio que la Ley relativa concede a las actas de la policía judicial; y la propia Secretaría, a través de los abogados que designe, será coadyuvante del ministerio público, en los términos del Código de Procedimientos Penales vigente en el Estado.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-VIII.- Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de expedición de comprobantes fiscales y de presentación de solicitudes o avisos en materia del registro estatal de contribuyentes; verificar la operación de las máquinas, sistemas y registros electrónicos; así como para solicitar la exhibición de la documentación o los comprobantes que amparen la legal propiedad, posesión, estancia o tenencia de las mercancías, de conformidad con el procedimiento previsto en el artículo 54 de este Código.
+VIII.- (DEROGADA, P.O. 3 DE FEBRERO DE 2017)
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
@@ -1093,7 +1085,7 @@ Las autoridades fiscales que al ejercer las facultades de comprobación conozcan
 
 El plazo para emitir la resolución a que se refiere este Artículo se suspenderá en los casos previstos en el Artículo 48 Bis de este Código. Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa, dicho plazo se suspenderá desde la fecha en que se interponga el citado medio de defensa y hasta que se dicte resolución definitiva del mismo.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+ARTICULO 51 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
 
 ###### ARTICULO 51 Bis.
 
@@ -1147,25 +1139,9 @@ II.- Quince días contados a partir del siguiente a aquel en que se le notificó
 
 Los plazos a que se refiere este Artículo se podrán ampliar por las autoridades fiscales hasta veinte días más cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
 ###### ARTICULO 54.
 
-Para los efectos de lo dispuesto por la fracción VIII del artículo 44 de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
-
-I.- Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, puestos fijos y semifijos en la vía pública, de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen las mercancías o en donde se realicen las actividades relacionadas con las concesiones o autorizaciones o de cualquier padrón o registro.
-
-II.- Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregaran la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección.
-
-III.- Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
-
-IV.- En toda visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los visitadores, en los términos de este Código o, en su caso, las irregularidades detectadas durante la inspección.
-
-V.- Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la visita domiciliaria.
-
-VI.- Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación de la resolución correspondiente. Previamente se deberá conceder al contribuyente un plazo de tres días hábiles para desvirtuar la comisión de la infracción presentando las pruebas y formulando los alegatos correspondientes. Si se observa que el visitado no se encuentra inscrito en el registro estatal de contribuyentes, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
-
-La resolución a que se refiere el párrafo anterior deberá emitirse en un plazo que no excederá de tres meses contados a partir del vencimiento del plazo señalado en el párrafo que antecede.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2017)
 
 ###### ARTICULO 55.
 
@@ -1765,9 +1741,7 @@ I.- Se atribuya como propias actividades ajenas ante el registro estatal de cont
 
 II.- Expida, adquiera o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-III.- Realice actos jurídicos simulados que signifiquen el incumplimiento de una obligación de carácter fiscal.
+III.- (DEROGADA, P.O. 3 DE FEBRERO DE 2017)
 
 No se formulará querella, si quien encontrándose en el supuesto anterior informa del hecho a la autoridad fiscal.
 
@@ -1961,7 +1935,9 @@ V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso 
 
 VI.- Si son revocados los actos por la autoridad.
 
-VII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2016)
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+VII.- En caso de que no se amplíe el recurso de revocación o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 128 de este Código.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -2017,9 +1993,25 @@ El tercero que afirme ser propietario de los bienes o negociaciones, o titular d
 
 #### SECCION CUARTA. De la Impugnación de Notificaciones
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 128.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 2016)
+Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 116, se estará a las reglas siguientes:
+
+I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
+
+En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
+
+II.- Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiera practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
+
+El particular tendrá un plazo de 30 días a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación.
+
+III.- La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
+
+a) Si resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado con base en aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
+
+b) Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente desechará dicho recurso.
 
 #### SECCION QUINTA. Del Trámite y Resolución de los Recursos
 
@@ -2081,9 +2073,7 @@ V.- Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el r
 
 Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuatro meses, aún cuando haya transcurrido el plazo que señala el Artículo 67 de este Código.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 132 BIS.- En el ámbito estatal la notificación de los actos y resoluciones emitidos en el recurso de Revocación se realizara mediante el portal de internet, conforme a las Reglas Generales que emita la Secretaría de Finanzas y Tesorería General del Estado.
+ARTICULO 132 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
 
 ### CAPITULO II. De las Notificaciones y la Garantía del Interés Fiscal
 
@@ -3234,3 +3224,9 @@ Primero.- El presente Decreto entrara en vigor el día 1° de enero del año 201
 > <small>(F. DE E., P.O. 25 DE ENERO DE 2017)</small>
 
 Segundo.- La Secretaria de Finanzas y Tesorería General del Estado contará con un plazo de un año para emitir las Reglas Generales a que se refiere el artículo 132 BIS del Código Fiscal del Estado.
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 230. SE REFORMA EL ARTÍCULO 128; SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 123; SE DEROGAN, LA FRACCIÓN III Y EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 42; EL ARTÍCULO 42 BIS; LA FRACCIÓN VIII DEL ARTÍCULO 44; EL ARTÍCULO 51 BIS; EL ARTÍCULO 54; LA FRACCIÓN III DEL ARTÍCULO 104 Y EL ARTÍCULO 132 BIS TODOS DEL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
