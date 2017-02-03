@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2017-01-30"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2017 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -619,6 +619,16 @@ Cuando se hayan establecido bases provisionales para determinar el monto del imp
 
 Por el pago del impuesto, el contribuyente recibirá comprobante de pago en términos de lo dispuesto en el artículo 8 del Código Fiscal del Estado.
 
+(NOTA: EL 21 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 109/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 232 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO A ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
+SE FACULTA A LOS AYUNTAMIENTOS PARA PODER OTORGAR UN SUBSIDIO DE HASTA UN 100% DEL INCREMENTO DEL IMPUESTO PREDIAL PARA EL EJERCICIO FISCAL EN EL QUE SE HAYA APROBADO UNA ACTUALIZACIÓN DE LOS VALORES UNITARIOS DE SUELO O CONSTRUCCIÓN EN LOS USOS DE SUELO DE CASA HABITACIÓN.
+
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 21 Bis
@@ -876,6 +886,16 @@ En cualquier tiempo en que la Tesorería Municipal advierta que los contribuyent
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 Para efectos de la no-propiedad de predios, bastará que el interesado manifieste bajo protesta de decir verdad que no es propietario o poseedor de otro bien inmueble en el Estado, conservando el Municipio sus facultades de comprobación, por lo que en caso de falsedad en la declaración manifestada, el interesado será acreedor a una sanción del 50% al 100% de la contribución omitida.
+
+(NOTA: EL 21 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 109/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 232 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO A ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
+SE FACULTA A LOS AYUNTAMIENTOS PARA PODER OTORGAR UN SUBSIDIO POR HASTA EL 100% SOBRE EL EXCEDENTE DEL 2% DE LA TASA DEL IMPUESTO SOBRE ADQUISICIÓN DE INMUEBLES.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -1202,6 +1222,16 @@ En caso de espectáculos o diversiones eventuales, se pagará de inmediato.
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 V.- El Presidente Municipal queda facultado para establecer mediante convenio, una cantidad fija como impuesto, cuando no sea posible su recaudación en la forma y términos de las fracciones anteriores.
+
+(NOTA: EL 21 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 109/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 232 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO A ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2017)</small>
+
+SE FACULTA A LOS AYUNTAMIENTOS PARA PODER OTORGAR UN SUBSIDIO DE HASTA EL 100% SOBRE EL EXCEDENTE DEL 5% DE LA TASA DEL IMPUESTO SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS.
 
 ARTICULO 32 A.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
@@ -3936,3 +3966,23 @@ P.O. 30 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 222 SE EXPIDE LA LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN PARA EL EJERCICIO FISCAL 2017”.]
 
 Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2017
+
+(NOTA: EL 21 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 109/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 232, PUBLICADO EL TRES DE FEBRERO DE DOS MIL DIECISIETE EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN, LA CUAL SURTIÓ EFECTOS EL 21 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 232. SE REFORMAN POR ADICIÓN DE UN ÚLTIMO PÁRRAFO EL ARTÍCULO 21 BIS 12, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 28 BIS 1 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 32, TODOS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- Los Gobiernos Municipales deberán aprobar en sesión de Cabildo la tabla de subsidios a los impuestos y derechos que se otorgarán conforme a este Decreto, así como las bases de los mismos y de las devoluciones de los pagos correspondientes al Impuesto Predial que se hubiesen cobrado con anterioridad, en un término no mayor de siete días posteriores a la entrada en vigor del presente Decreto y no podrán variarse en el transcurso del Ejercicio Fiscal 2017.
+
+Una vez publicada la tabla de subsidios y sus bases, será obligatorio otorgar dichos subsidios a todos quienes encuadren en los supuestos de las bases sin necesidad de solicitud expresa del contribuyente.
+
+Así mismo, de conformidad con lo establecido en el Artículo 100, fracción IX de la Ley de Gobierno Municipal del Estado de Nuevo León, los Tesoreros Municipales deberán de incluir en el Informe de Avance de Gestión Financiera los subsidios otorgados.
+
+Durante el ejercicio fiscal 2017 en los Municipios donde se haya aprobado una actualización de los valores unitarios de suelo o construcción en los usos de suelo de casa habitación, el impuesto podrá pagarse por anualidad anticipada a más tardar el día 5° del mes de Junio, sin recargos. En el caso de que se pague a más tardar el día 5° del mes de Abril, gozará de una reducción del 15% de dicha anualidad y si lo cubre a más tardar el día 5° del mes de Mayo, gozará de una reducción del 10% de la misma.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
