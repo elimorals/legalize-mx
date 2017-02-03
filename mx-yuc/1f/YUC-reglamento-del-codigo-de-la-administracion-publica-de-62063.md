@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2017-01-20"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE FEBRERO DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -2885,37 +2885,39 @@ XVI. Las demás que le encomienden este Reglamento y otras disposiciones normati
 
 ### CAPÍTULO ÚNICO. De la organización y atribuciones de la Secretaría de Educación
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 125.
 
-Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, esta Secretaría contará con la siguiente estructura:
+Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, la Secretaría de Educación Pública contará con la siguiente estructura:
 
-I. Dirección de Educación Inicial y Preescolar;
+I. Dirección General de Educación Básica;
 
-II. Dirección de Educación Especial;
+a) Dirección de Educación Inicial y Preescolar;
 
-III. Dirección de Educación Primaria;
+b) Dirección de Educación Especial;
 
-IV. Dirección de Educación Secundaria;
+c) Dirección de Educación Primaria;
 
-V. Dirección de Educación Media Superior;
+d) Dirección de Educación Secundaria; y
 
-VI. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
+e) Dirección de Educación Indígena.
 
-VII. Dirección de Educación Física;
+II. Dirección General de Desarrollo Educativo y Gestión Regional;
 
-VIII. Dirección de Educación Indígena;
+a) Dirección de Desarrollo Educativo;
 
-IX. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
+b) Dirección de Servicios Regionales; y
 
-X. Dirección de Planeación;
+c) Dirección de Desarrollo Personal y Social.
 
-XI. Dirección Administrativa;
+III. Dirección de Educación Media Superior;
 
-XII. Dirección de Finanzas, y
+IV. Dirección de Planeación;
 
-XIII. Dirección Jurídica.
+V. Dirección de Administración y Finanzas; y
+
+VI. Dirección Jurídica.
 
 ###### Artículo 126.
 
@@ -2927,247 +2929,261 @@ Para la atención más eficaz en el despacho de los asuntos de su competencia, e
 
 Artículo 128 Los órganos desconcentrados tendrán las atribuciones que les sean otorgadas por las disposiciones de los instrumentos jurídicos que los originen, los cuales deberán ser publicados en el Diario Oficial del Gobierno del Estado de Yucatán, así como por las disposiciones de leyes y reglamentos aplicables, y las que, en su caso, dicte el Gobernador del Estado o el Secretario, en el ámbito de sus respectivas atribuciones.
 
+> <small>(REFORMADO, D.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 129.
 
 El Secretario de Educación tendrá las siguientes facultades y obligaciones:
 
-I. Fijar, dirigir y controlar la política de esta Secretaría, así como coordinar, en términos de la legislación aplicable, la del sector educativo;
+I. Establecer, dirigir y controlar la política de esta Secretaría, la de sus órganos desconcentrados y la del sector paraestatal que coordina, de conformidad con la legislación aplicable y con base en los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo, así como formular el programa sectorial correspondiente en materia de educación;
 
-II. Formular, en el contexto de la normatividad constitucional del Estado y dentro de los lineamientos señalados en el Plan Estatal de Desarrollo, el Programa Estatal de Educación, así como coordinar su ejecución y evaluar los resultados;
+II. Supervisar y evaluar la educación que se imparta en las escuelas de educación básica y media superior del Sistema Estatal de Educación;
 
-III. Realizar, de conformidad con la Ley de Educación del Estado de Yucatán, las adecuaciones al calendario escolar que deba regir en el Estado para los planteles de educación preescolar, especial, primaria, secundaria, normal y demás escuelas, para la formación de maestros de educación básica, y solicitar su publicación en el Diario Oficial del Gobierno del Estado de Yucatán;
+III. Realizar, de conformidad con la Ley de Educación del Estado de Yucatán, las adecuaciones al calendario escolar que deba regir en el estado para los planteles de educación preescolar, primaria y secundaria y demás para la formación de maestros de educación básica y solicitar su publicación en el diario oficial del estado;
 
-> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
-
-IV. Validar con su firma los grados académicos expedidos por las instituciones que están bajo la responsabilidad de esta secretaría, así como de aquellas cuyos programas le otorgan el reconocimiento de validez oficial de estudios, excepto los relativos a educación superior;
+IV. Validar con su firma los títulos académicos expedidos por las instituciones que están bajo la responsabilidad de esta Secretaría, así como de aquellas cuyos programas le otorgan el reconocimiento de validez oficial de estudios, excepto los relativos a educación superior;
 
 V. Expedir los lineamientos generales para el otorgamiento de las becas que sean competencia de esta Secretaría;
 
-> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+VI. Establecer los lineamientos generales que rijan el otorgamiento de autorizaciones y de reconocimientos de validez oficial de estudios a los particulares para impartir educación básica, así como suscribir los acuerdos correspondientes;
 
-VI. Establecer los lineamientos generales que rijan el otorgamiento de autorizaciones a los particulares para impartir educación preescolar, especial, primaria y secundaria; y el reconocimiento de validez oficial de estudios, con excepción de los relativos a la educación superior, y suscribir los acuerdos correspondientes;
+VII. Revalidar estudios realizados dentro del Sistema Educativo Nacional, así como aquellos realizados fuera de este, cuando estos sean equiparables con estudios que pertenezcan al propio Sistema;
 
-VII. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
+VIII. Impulsar el proceso de descentralización y regionalización educativa;
 
-> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+IX. Proponer al Gobernador, en el ámbito de su competencia, la vinculación entre el sector educativo y los diversos sectores productivos de la economía estatal;
 
-VIII. Proponer al Gobernador del estado la vinculación entre el sector educativo de su competencia y los diversos sectores productivos de la economía estatal;
+X. Supervisar, en el ámbito de su competencia, el cumplimiento y la aplicación de las disposiciones relativas al Servicio Profesional Docente;
 
-IX. Preservar el patrimonio cultural del Estado, en sus diversas manifestaciones;
+XI. Proponer a la Secretaría de Educación Pública la incorporación de contenidos regionales en los planes y programas de estudio para la educación básica;
 
-X. Fomentar las relaciones en materia educativa con otras entidades de la República;
+XII. Participar, en el ámbito de su competencia, en la conservación, el desarrollo y la ampliación del patrimonio cultural del estado en sus diversas manifestaciones;
 
-XI. Formular y promover la celebración de convenios de concertación con los sectores social y privado para la formulación y ejecución de los programas educativos, culturales y recreativos;
+XIII. Fomentar las relaciones con otras entidades de la república en las materias que son competencia de esta Secretaría;
 
-XII. Establecer los mecanismos para que los ciudadanos en general, padres de familia y maestros, participen en la definición de las políticas educativas que deban aplicarse en el Estado, y
+XIV. Formular y promover la celebración de convenios de concertación con los sectores social y privado para la formulación y ejecución de los programas culturales, recreativos y educativos de su competencia;
 
-XIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+XV. Establecer los mecanismos para que los ciudadanos, padres de familia y maestros participen en la definición de las políticas educativas que, de acuerdo con su competencia, deban aplicarse en el estado; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 18 DE FEBRERO DE 2016)</small>
+XVI. Las demás que le otorguen la Ley General de Educación, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación, la Ley de Educación del Estado de Yucatán, el Código de la Administración Pública de Yucatán, este Reglamento y otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 130.
 
-Los titulares de las direcciones mencionadas en las fracciones I, II, III, IV, V, VII y VIII del artículo 125, tendrán las siguientes facultades y obligaciones comunes:
+El Director General de Educación Básica tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+I. Supervisar la administración del personal de las escuelas públicas de educación básica del estado, en coordinación con la Dirección de Administración y Finanzas;
 
-I. Coordinar el estudio y despacho de los asuntos propios de su nivel o área, así como dar seguimiento y resolver los asuntos que le encomiende el Secretario;
+II. Proponer, a la Dirección de Planeación los ajustes a las estructuras ocupacionales de las escuelas públicas de educación básica del estado, de conformidad con el número de alumnos, planes, programas de estudio y modalidades en las que se imparta el servicio;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+III. Vigilar, en coordinación con las unidades administrativas competentes, que las plantillas de las escuelas de educación básica estén integradas de conformidad con la estructura ocupacional y los perfiles requeridos;
 
-II. Planear, organizar, dirigir y evaluar el adecuado cumplimiento de los planes y programas de estudio correspondientes a su nivel o área, con el fin de hacerlos acordes con las necesidades actuales consideradas en los planes nacional y estatal de desarrollo;
+IV. Coordinar la participación del personal docente de la Secretaría en las actividades de evaluación para la promoción, el reconocimiento y la permanencia a que se refiere la Ley General del Servicio Profesional Docente;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+V. Someter a la consideración del Secretario propuestas de las resoluciones para otorgar, negar o revocar la autorización a los particulares para impartir educación preescolar, primaria o secundaria;
 
-III. Proponer al Secretario los programas, objetivos, metas y acciones concretas para mejorar los servicios correspondientes a su nivel o área;
+VI. Coordinar las acciones de inspección y vigilancia de las instituciones particulares que operan servicios de educación básica en la entidad;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+VII. Analizar y desarrollar estrategias para la solución de los asuntos que le encomiende el Secretario;
 
-IV. Proponer al Titular de la Secretaría, en coordinación con la Dirección de Planeación, los siguientes asuntos:
+VIII. Proponer al Secretario las políticas y estrategias conducentes para el desarrollo de la educación básica que imparta el estado y sus organismos descentralizados; y
 
-a) Los proyectos sobre creación o reorganización de zonas de supervisión escolar de su nivel o área en el Estado, a los que haya lugar; así como los proyectos de distribución del personal docente de los planteles del citado nivel o área;
+IX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-b) Las prioridades de consolidación, ampliación, sustitución y ubicación de planteles de su nivel o área en el Estado;
-
-c) Las necesidades para la apertura de nuevas escuelas de su nivel o área;
-
-d) Las acciones conducentes para la expansión de los servicios de educación relativos a su nivelo área en zonas urbanas marginadas y rurales, y
-
-e) El proyecto de asignación de recursos que deban destinarse para la prestación de los servicios relativos a su nivelo área.
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-V. Programar y coordinar el desarrollo de los procesos de control escolar en los planteles de su nivel o área y, en su caso, consultar con el Secretario para dictar las medidas que procedan;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-VI. Difundir entre los supervisores y el personal directivo y docente del nivel o área de su competencia, las normas y los lineamientos para el desarrollo de las actividades de los servicios relativos a dicho nivel o área;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-VII. Registrar los resultados anuales del proceso de enseñanza-aprendizaje en el Estado, a efecto de identificar y determinar las necesidades de mejoramiento profesional del personal docente y del funcionamiento de los servicios relativos a su nivel o área;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-VIII. Promover el desarrollo de intercambios pedagógicos, jornadas de mejoramiento y orientación profesional del personal de supervisión, directivo, docente, administrativo y manual de su nivel o área, para evaluar y elevar la calidad del trabajo educativo y, en su· caso, proponer al Secretario las medidas que procedan;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-IX. Presentar al Secretario las iniciativas sobre el mejoramiento de los programas relativos a su nivel o área y sus apoyos colaterales;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-X. Supervisar que el personal adscrito a su nivel o área desarrolle sus funciones y actividades, de conformidad con las normas y lineamientos establecidos en los reglamentos de las condiciones generales de trabajo de la Secretaría;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XI. Comunicar al Departamento de Recursos Humanos, para efecto de su alta, la contratación del personal designado para ocupar las vacantes del nivel o área a su cargo;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XII. Planear, organizar, dirigir y evaluar, en el ámbito de su competencia, la actualización y superación profesional del personal adscrito a su nivel o área;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XIII. Promover el mejoramiento de la calidad de la educación impartida en su nivel o área, así como la solución de sus problemas específicos;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XIV. Tramitar los requerimientos materiales de las escuelas dependientes del nivel o área a su cargo;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XV. Impulsar y apoyar la planeación, investigación y evaluación como acciones sustantivas que garanticen el mejoramiento continuo del quehacer educativo;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XVI. Actualizar los programas de estudio, sus contenidos, materiales y métodos de enseñanza-aprendizaje, con elementos enfocados a impulsar las habilidades, conocimientos y competencias del educando, así como favorecer su incursión en el sector productivo;
-
-> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
-
-XVII. Promover la vinculación del sistema educativo básico y medio superior con el sector productivo, para mejorar la calidad de la educación y elevar los índices de productividad;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XVIII. Crear mecanismos sistemáticos de evaluación que permitan conocer los niveles de aprovechamiento de los alumnos, del desempeño magisterial y de los diversos niveles de dirección, supervisión y demás funciones que se desarrollan en el sistema educativo estatal;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XIX. Promover la realización de actos cívicos en las instituciones públicas y privadas en las fechas señaladas por el calendario oficial;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XX. Supervisar, en términos de la Ley de Educación del Estado de Yucatán, que los servicios de educación relativos a su nivel o área prestados por las escuelas oficiales y particulares incorporadas al Sistema Educativo Estatal, cumplan con las disposiciones legales y la normatividad aplicable y, en su caso, solicitar la imposición de las sanciones que procedan, por conducto de la unidad administrativa competente;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XXI. Organizar, en coordinación con la Dirección de Planeación y el Centro de Evaluación Educativa del Estado, los concursos de oposición para el ingreso al servicio de personal docente de su nivel o área a las escuelas públicas del Estado;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XXII. Autorizar la plantilla del personal docente contratado en las escuelas particulares del nivel educativo correspondiente, incorporadas al sistema educativo estatal;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XXIII. Comunicar a la Dirección Jurídica aquellos casos en que conozca de conductas presumiblemente delictivas o infractoras, previstas en las leyes y reglamentos relacionados con el ejercicio profesional y la autenticidad de documentos académicos oficiales, y
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XXIV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+> <small>(REFORMADO, D.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 131.
 
-Al Director de Educación Inicial y Preescolar, además de las facultades y obligaciones comunes a los directores mencionadas en el artículo anterior de este Reglamento, le corresponde el despacho de los siguientes asuntos:
+Los titulares de las direcciones establecidas en la fracción I del artículo 125 tendrán, en el ámbito de su competencia, las siguientes facultades y obligaciones comunes:
 
-I. Dictaminar, desde el punto de vista de los requerimientos educativos del nivel, las solicitudes de incorporación de las escuelas de educación preescolar particulares;
+I. Proponer al Director General de Educación Básica las estructuras ocupacionales para las escuelas públicas de educación básica, del estado, de conformidad con el número de alumnos, planes, programas de estudio y modalidades en las que se imparte el servicio;
 
-II. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+II. Coadyuvar en la integración de las (sic) documentos necesarios para que la Dirección de Administración y Finanzas autorice y registre los movimientos del personal de las escuelas públicas de educación básica en el estado;
 
-III. Vigilar el cumplimiento de los lineamientos y los programas de educación preescolar en estas escuelas, y
+III. Participar en la organización de las actividades para realizar las evaluaciones para el ingreso, la promoción, el reconocimiento y la permanencia en el Servicio Profesional Docente, en coordinación con las unidades administrativas competentes;
 
-IV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+IV. Participar en el análisis y resolución de los asuntos que afecten la prestación del servicio educativo, y apoyar a las comisiones de trabajo que, para el caso, se establezcan;
+
+V. Analizar las solicitudes y elaborar los anteproyectos de resolución para otorgar, negar o revocar la autorización a los particulares para impartir educación básica en el estado, según corresponda;
+
+VI. Vigilar que las instituciones particulares con autorización de estudios de la Secretaría cumplan con el otorgamiento de becas y las disposiciones legales y normativas aplicables;
+
+VII. Substanciar los procedimientos por las infracciones al marco jurídico, que cometan las instituciones particulares incorporadas a la Secretaría, y someter a la consideración del Director General de Educación Básica, los anteproyectos de resolución respectivos;
+
+VIII. Coadyuvar en la distribución de los libros de texto gratuitos y demás material educativo a las instituciones particulares incorporadas a la Secretaría;
+
+IX. Las demás que le confiera el Director General de Educación Básica, este reglamento y las otras disposiciones legales o normativas aplicables.
+
+> <small>(REFORMADO, D.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 132.
 
-Al Director de Educación Especial, además de las facultades y obligaciones comunes a los directores mencionadas en el artículo 130 de este Reglamento, le corresponde el despacho de los siguientes asuntos:
+El Director General de Desarrollo Educativo y Gestión Regional tendrá las siguientes facultades y obligaciones:
 
-I. Favorecer la integración de las personas con necesidades educativas especiales, con o sin discapacidad, a la vida educativa, social y laboral;
+I. Coordinar la operación del modelo de gestión regional;
 
-II. Gestionar la dotación de los recursos y apoyos técnicos necesarios para asegurar la mejor atención de los alumnos con necesidades educativas especiales, con o sin discapacidad, tanto en las escuelas regulares de educación inicial y básica, como en los Centros de Atención Múltiple;
+II. Diseñar e implementar programas, estrategias y acciones innovadoras que respondan a las necesidades educativas de las regiones y contribuyan a la calidad y equidad de la educación;
 
-III. Supervisar que la atención que se presta en las diversas áreas que contempla la educación especial, permita satisfacer las necesidades básicas de aprendizaje de los niños, niñas y jóvenes con necesidades educativas especiales, con o sin discapacidad;
+III. Coordinar los programas y acciones que permitan acercar a las distintas regiones del estado, los servicios que la Secretaría ofrece a los alumnos, padres de familia, escuelas, docentes, directores y demás personal de esta, de conformidad con los procedimientos, normas, directrices y políticas establecidas;
 
-IV. Contribuir en la promoción de la cultura de aceptación y de integración a la sociedad de las personas con discapacidad;
+IV. Dirigir y supervisar la prestación de los servicios que brinda la Secretaria a las escuelas de educación inicial y básica;
 
-V. Promover la realización de acciones de colaboración y vinculación con los distintos sectores, instituciones y organizaciones de la sociedad civil, que contribuyan a la atención integral de los alumnos y las alumnas con necesidades educativas especiales, con o sin discapacidad, y
+V. Operar y evaluar las actividades de supervisión y de apoyo técnico pedagógico de los servicios de educación inicial y básica;
 
-VI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+VI. Someter a la consideración del Secretario los contenidos regionales que recomienda proponer a la Secretaría de Educación Pública, para su inclusión en los planes y programas de estudio de la educación básica;
+
+VII. Vigilar el cumplimiento de los programas federales y locales de apoyo a la educación básica;
+
+VIII. Coordinar la distribución y entrega, a las escuelas públicas seleccionadas de los paquetes escolares, los libros de texto gratuitos y demás materiales educativos;
+
+IX. Impulsar y supervisar los programas y acciones destinados a fortalecer la autonomía de gestión de las escuelas de educación básica, el Servicio de Asistencia Técnica a la Escuela y la normalidad mínima de operación escolar;
+
+X. Proponer al Secretario el diseño, producción y difusión de los materiales educativos para el fortalecimiento de los servicios de educación básica del estado;
+
+XI. Realizar las acciones necesarias para hacer del conocimiento de las escuelas los procedimientos para llevar a cabo las inversiones en equipamiento y mantenimiento, en coordinación con las direcciones de Planeación y de Administración y Finanzas;
+
+XII. Someter a la consideración del Secretario, las propuestas de perfiles, parámetros e indicadores que para el ingreso, la promoción, el reconocimiento y la permanencia prevé la Ley General del Servicio Profesional Docente;
+
+XIII. Procurar que los servicios de formación continua que opere la Secretaría favorezca que la educación sea gratuita, diversa, incluyente y de calidad en función de las necesidades de desarrollo del personal sujeto al Servicio Profesional Docente; responda, en su dimensión regional, a los requerimientos que el personal solicite para su desarrollo profesional; tome en cuenta los ejercicios de planeación de las escuelas en las regiones de que se trate; y atienda a los resultados de las evaluaciones externas que aplique el Instituto Nacional para la Evaluación de la Educación;
+
+XIV. Coordinar las estrategias y acciones de la Secretaría para colaborar con otras dependencias, entidades y organismos, en materia de salud, cultura, deporte, medio ambiente, y desarrollo comunitario;
+
+XV. Supervisar las actividades de información estadística, de registro y certificación de estudios, de programación y presupuesto, así como de recursos, humanos, financieros, materiales y de servicios, que se efectúen oportunamente y de conformidad con la normativa aplicable, en coordinación con las direcciones de Planeación y de Administración y Finanzas de la Secretaría;
+
+XVI. Proponer al Secretario las circunscripciones correspondientes a los centros de desarrollo educativo, con base en las necesidades del servicio;
+
+XVII. Coordinar la participación de la Secretaría en las evaluaciones que en el marco del Sistema Nacional de Evaluación Educativa se programen;
+
+XVIII. Realizar las acciones necesarias para articular el nivel de secundaria con la educación media superior y facilitar la formación de los alumnos hasta la conclusión de su educación obligatoria;
+
+XIX. Impulsar, coordinar, supervisar y evaluar la incorporación y uso de las tecnologías en el proceso educativo para mejorar la calidad de la educación;
+
+XX. Impulsar la implementación de políticas y programas vinculados con la educación física y la cultura en las escuelas públicas de educación básica en el estado; y
+
+XXI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+
+> <small>(REFORMADO, D.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 133.
 
-Al Director de Educación Primaria, además de las facultades y obligaciones comunes a los directores mencionadas en el artículo 130 de este Reglamento, le corresponde el despacho de los siguientes asuntos:
+El Director de Desarrollo Educativo tendrá las siguientes facultades y obligaciones:
 
-I. Dictaminar, desde el punto de vista de los requerimientos educativos de su Dirección, las solicitudes de incorporación de las escuelas de educación primaria particulares al Sistema Educativo Estatal;
+I. Encauzar con los directores y docentes de las escuelas de educación básica, las medidas y acciones necesarias para orientar el currículo nacional hasta su concreción en la escuela y en el aula, de acuerdo con el contexto socioeconómico y cultural de la entidad;
 
-II. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+II. Proponer los contenidos regionales que hayan de proponerse a la Secretaría de Educación Pública para incluir en los planes y programas de estudio para la educación básica;
 
-III. Vigilar el cumplimiento de los lineamientos y los programas de educación primaria en estas escuelas, y
+III. Promover las acciones que propicien ambientes escolares favorables para el aprendizaje efectivo, la convivencia pacífica e inclusiva de la comunidad escolar y la formación del individuo, basadas en el respeto mutuo entre alumnos, padres de familia o tutores, docentes, directivos y demás personal escolar;
 
-IV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+IV. Implementar, conforme a los lineamientos que emita la Secretaría de Educación Pública federal, los programas y acciones destinados a fortalecer la autonomía de gestión de las escuelas de educación básica;
+
+V. Fomentar el desarrollo y cumplimiento de la normalidad mínima de operación escolar para el buen desempeño de la actividad docente y el logro de los aprendizajes de los alumnos;
+
+VI. Proponer programas y materiales para el fortalecimiento de los servicios de educación inicial y básica, incluyendo la indígena y la especial, así como propiciar su aplicación y difusión en la entidad, según corresponda;
+
+VII. Organizar y operar los servicios de formación continua, actualización, capacitación y superación profesional para los maestros de educación básica, de conformidad con lo establecido en la Ley General de Educación y la Ley General del Servicio Profesional Docente;
+
+VIII. Formular las propuestas de perfiles, parámetros e indicadores que para el ingreso, la promoción, el reconocimiento y la permanencia prevé la Ley General del Servicio Profesional Docente;
+
+IX. Organizar las actividades de supervisión y de apoyo técnico pedagógico de los servicios de educación inicial y básica, incluyendo la indígena y la especial;
+
+X. Integrar, coordinar, organizar y dar seguimiento a todas las acciones relativas a la gestión de programas federales y locales de apoyo a la educación básica, conforme a las reglas de operación y demás disposiciones aplicables;
+
+XI. Organizar y operar el funcionamiento del Servicio de Asistencia Técnica a la Escuela, conforme a los lineamientos generales que emita la Secretaría de Educación Pública federal; y
+
+XII. Las demás que le confiera el Director General de Servicios Educativos y Gestión Regional, este reglamento y las otras disposiciones legales o normativas aplicables.
+
+> <small>(REFORMADO, D.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 134.
 
-Al Director de Educación Secundaria, además de las facultades y obligaciones comunes a los directores mencionadas en el artículo 130 de este Reglamento, le corresponde el despacho de los siguientes asuntos:
+El Director de Servicios Regionales tendrá las siguientes facultades y obligaciones:
 
-I. Dictaminar, desde el punto de vista de los requerimientos educativos de su Dirección, las solicitudes de incorporación de las escuelas de educación secundaria particulares al Sistema Educativo Estatal;
+I. Organizar y operar la prestación de los servicios de educación inicial y básica, incluyendo la indígena y la especial, conforme a los planes y programas de estudio establecidos por el Gobierno federal y la regulación técnico-pedagógica correspondiente;
 
-II. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+II. Coordinar y dirigir las tareas de los centros de desarrollo educativo y las correspondientes a sus titulares, así como supervisar el cumplimiento de los servicios que operan o en los que participan;
 
-III. Vigilar el cumplimiento de los lineamientos y los programas de educación secundaria en estas escuelas;
+III. Organizar, en los centros de desarrollo educativo, los espacios físicos y el calendario, para propiciar que los supervisores de todos los niveles realicen un trabajo colegiado;
 
-IV. Proponer los incrementos de horas de clase para los docentes de las escuelas secundarias públicas del Estado, y
+IV. Impulsar que las propuestas de los supervisores fortalezcan la pertinencia de la educación y la gestión de las supervisiones y de las escuelas;
 
-V. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+V. Participar en el impulso y funcionamiento de los consejos de participación social a que se refiere la Ley General de Educación;
+
+VI. Proporcionar a las autoridades competentes los apoyos necesarios para la realización, en forma periódica y sistemática, de las evaluaciones que, en el marco del Sistema Nacional de Evaluación Educativa, se programen;
+
+VII. Participar en la identificación de las necesidades de infraestructura física educativa y gestionar el abastecimiento de recursos materiales y la prestación de servicios de apoyo a los planteles públicos de educación inicial y básica, incluyendo la indígena y la especial;
+
+VIII. Impulsar la vinculación de los centros de desarrollo educativo con los gobiernos municipales;
+
+IX. Formular propuestas para mejorar los procesos técnicos y administrativos que permitan consolidar la descentralización educativa en el estado; y
+
+X. Las demás que le confiera el Director General de Servicios Educativos y Gestión Regional, este reglamento y las otras disposiciones legales o normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 3 DE FEBRERO DE 2017)</small>
+
+###### Artículo 134 Bis.
+
+El Director de Desarrollo Personal y Social tendrá las siguientes facultades y obligaciones:
+
+I. Coordinar las actividades de la Secretaría relativas al fomento del deporte y la recreación;
+
+II. Implementar los programas vinculados con la educación física y la cultura deportiva en las escuelas públicas de educación básica en el estado;
+
+III. Contribuir a la formación integral de niños y adolescentes, para mejorar sus desempeños motores, establecer relaciones interpersonales, y promover el cuidado del cuerpo;
+
+IV. Promover la actividad física, la iniciación deportiva, el deporte escolar, el juego motor, y la expresión corporal;
+
+V. Emprender acciones que muestren la adquisición de estilos de vida saludables en relación con la actividad física;
+
+VI. Organizar, operar y desarrollar el programa integral de atención a la obesidad infantil en el estado, procurando generar modelos en materia de hábitos de alimentación y actividad física, para disminuir la prevalencia de obesidad de la población de educación básica;
+
+VII. Promover la organización de eventos especiales en materia de educación física, deporte escolar, y fomento cívico;
+
+VIII. Realizar acciones dirigidas a los padres de familia y docentes que contribuyan al fortalecimiento de los valores sociales, y a la generación de mejores espacios de convivencia familiar y social;
+
+IX. Las demás que le confiera el Director General de Servicios Educativos y Gestión Regional, este reglamento y las otras disposiciones legales o normativas aplicables.
+
+> <small>(REFORMADO, D.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 135.
 
-Al Director de Educación Media Superior, además de las facultades y obligaciones comunes a los directores mencionadas en el artículo 130 de este Reglamento, le corresponde el despacho de los siguientes asuntos:
+El Director de Educación Media Superior tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+I. Organizar, operar, desarrollar, supervisar y evaluar la educación media superior que imparta esta Secretaría, de conformidad con las disposiciones aplicables;
 
-I. Establecer mecanismos de coordinación con las instituciones que impartan la educación media superior en la entidad, a efecto de acordar políticas y acciones para la planeación, evaluación y el desarrollo educativo;
+II. Proponer al Secretario las estructuras ocupacionales adecuadas para las escuelas públicas de educación media superior, en función del número de alumnos, de los planes y programas de estudio y de las modalidades en las que se imparte el servicio;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+III. Participar, de conformidad con las disposiciones aplicables, en la integración de la documentación necesaria para que la Dirección de Administración y Finanzas autorice y registre los movimientos del personal de las escuelas públicas de educación media superior en el estado;
 
-II. Participar en el estudio y toma de decisiones, según sea el caso, de los proyectos para la ampliación, sustitución y ubicación de planteles y para la creación de nuevas instituciones y planes de estudios que impartan educación media superior en la entidad, así como de la oferta de nuevas modalidades y programas educativos de instituciones ya existentes;
+IV. Organizar y operar el funcionamiento del Servicio de Asistencia Técnica a la Escuela, conforme a los lineamientos generales que emita la Secretaría de Educación Pública federal;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+V. Organizar y supervisar el cumplimiento y aplicación de las disposiciones relativas al ingreso, la promoción, el reconocimiento y la permanencia en el Servicio Profesional Docente, de conformidad con lo dispuesto en la ley de la materia;
 
-III. Promover que en las instituciones de educación media superior, se realicen estudios y diagnósticos que permitan identificar las características y problemas de estos tipos educativos y conocer los resultados obtenidos;
+VI. Diseñar y ofrecer programas y cursos de formación continua, actualización y desarrollo profesional para los maestros de educación media superior, de conformidad con lo establecido en la Ley General de Educación y la Ley General del Servicio Profesional Docente;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+VII. Someter a la consideración del Secretario las propuestas de resolución para otorgar, negar o retirar el reconocimiento de validez oficial para impartir educación media superior en el estado;
 
-IV. Sistematizar, integrar y difundir la información necesaria para la evaluación global de la educación media superior;
+VIII. Sustanciar los procedimientos por infracciones al marco jurídico y, cuando corresponda, someter a la consideración del Director Jurídico los anteproyectos de resolución respectiva;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+IX. Realizar las acciones de inspección y vigilancia de las instituciones particulares que operan servicios de educación media superior en el estado;
 
-V. Promover la creación de redes de intercambio y cooperación académica entre las instituciones públicas y privadas de educación media superior, dentro de un esquema de calidad;
+X. Establecer mecanismos de coordinación con las instituciones que impartan la educación media superior en la entidad, a efecto de acordar políticas y acciones para la planeación, evaluación y el desarrollo educativo;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XI. Participar en el estudio y toma de decisiones, según sea el caso, de los proyectos para la ampliación, sustitución y ubicación de planteles y para la creación de nuevas instituciones y planes de estudios que impartan educación media superior en la entidad, así como de la oferta de nuevas modalidades y programas educativos de instituciones ya existentes;
 
-VI. Proponer, en coordinación con las unidades administrativas competentes de la Secretaría, la incorporación del conocimiento y aplicación de las tecnologías de la información y la comunicación en los programas académicos y materiales pedagógicos;
+XII. Promover que en las instituciones de educación media superior, se realicen estudios y diagnósticos que permitan identificar las características y problemas de este tipo educativo y conocer los resultados obtenidos;
 
-VII. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+XIII. Sistematizar, integrar y difundir la información necesaria para la evaluación global de la educación media superior;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XIV. Promover la creación de redes de intercambio y cooperación académica entre las instituciones públicas y privadas de educación media superior, dentro de un esquema de calidad;
 
-VIII. Vigilar el cumplimiento de los lineamientos y los programas de educación media superior en estas instituciones;
+XV. Proponer, en coordinación con las unidades administrativas competentes de la Secretaría, la incorporación del conocimiento y aplicación de las tecnologías de la información y la comunicación en los programas académicos y materiales pedagógicos;
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+XVI. Vigilar el cumplimiento de los lineamientos y los programas de educación media superior en las instituciones públicas y privadas;
 
-IX. Fungir como Secretario Técnico del Comité Interinstitucional de Coordinación del Sistema del (sic) Público de Educación Media Superior del Estado de Yucatán, para el logro de sus objetivos, y
+XVII. Fungir como Secretario Técnico del Comité Interinstitucional de Coordinación del Sistema Público de Educación Media Superior del Estado de Yucatán, para el logro de sus objetivos; y
 
-X. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+XVIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 ###### Artículo 135 Bis.
 
@@ -3175,59 +3191,21 @@ X. Las demás que le otorguen este Reglamento y otras disposiciones normativas a
 
 ###### Artículo 136.
 
-Al Director de Educación Física, además de las facultades y obligaciones comunes a los directores mencionadas en el artículo 130 de este Reglamento, le corresponde el despacho de los siguientes asuntos:
-
-I. Ofrecer, organizar, supervisar y evaluar los servicios de educación física y deporte escolar, en los planteles dependientes de esta Secretaría;
-
-II. Ofrecer y participar, conjuntamente con las direcciones que corresponda, en acciones de asesoría y orientación técnica al personal docente de su Dirección, a fin de aplicar los programas escolares de educación física;
-
-III. Organizar y coordinar las acciones de supervisión de la educación física escolar que se imparte en los planteles de educación básica, de acuerdo con las normas y lineamientos establecidos;
-
-IV. Coordinar las políticas públicas y actividades de la Administración Pública relativas al fomento de la recreación y el deporte;
-
-V. Procurar el cumplimiento de la Ley de Educación del Estado de Yucatán y en lo que competa de la Ley General de Educación, y demás disposiciones legales aplicables, en lo relativo al deporte;
-
-VI. Diseñar y formular los programas relativos a la recreación con base en la normatividad aplicable;
-
-VII. (DEROGADA, D.O. 1 DE ENERO DE 2013)
-
-VIII. Fomentar y coordinar con las autoridades y organismos competentes, la organización de eventos especiales en materia de educación física, deporte escolar, de integración social y de fomento cívico;
-
-IX. Proponer al Titular de esta Dependencia, en coordinación con la Dirección de Planeación, el proyecto de asignación de recursos que deban destinarse para la prestación de los servicios de educación física y deporte escolar en el Estado;
-
-X. Fomentar y promover el mejoramiento y difusión de los servicios y acciones de educación física;
-
-XI. Mantener la coordinación y comunicación con las demás direcciones de esta Secretaría que incidan con el funcionamiento de los servicios de educación física, y
-
-XII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 3 DE FEBRERO DE 2017)
 
 ###### Artículo 137.
 
-Al Director de Educación Indígena, además de las facultades y obligaciones comunes a los directores mencionadas en el artículo 130 de este Reglamento, le corresponde el despacho de los siguientes asuntos:
-
-I. Asegurar y mejorar el funcionamiento de los niveles de educación inicial indígena, preescolar indígena, primaria bilingüe y los de extensión educativa y atender la demanda existente;
-
-II. Investigar, establecer, evaluar y actualizar las normas y lineamientos pedagógicos de los planes y programas de estudio, con objeto de elevar la calidad del proceso de enseñanza-aprendizaje bilingüe intercultural del sistema de educación indígena;
-
-III. Fomentar la participación de los grupos sociales, pueblos y comunidades indígenas, en coordinación con los distintos niveles de gobierno e instituciones públicas y privadas, en el estudio y la investigación sobre la cultura maya;
-
-IV. Formular y ejecutar programas educativos en comunidades indígenas en coordinación con otras instancias competentes;
-
-V. Promover el establecimiento de escuelas bilingües que fortalezcan las tradiciones y cultura de las comunidades indígenas;
-
-VI. Promover que la educación se proporcione a la población indígena atendiendo a sus referentes culturales, utilizando su lenguaje de origen y enseñando el español como segunda lengua;
-
-VII. Promover y fomentar acciones cocurriculares y extracurriculares necesarias que fortalezcan la identidad cultural y refuercen la formación integral de los educandos, y
-
-VIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 3 DE FEBRERO DE 2017)
 
 ###### Artículo 138.
 
 (DEROGADO, D.O. 18 DE FEBRERO DE 2016)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 139.
 
-Al Director de Planeación le corresponde el despacho de los siguientes asuntos:
+El Director de Planeación tendrá las siguientes facultades y obligaciones:
 
 I. Proponer, en términos de las leyes de planeación y de educación del Estado, y del Plan Estatal de Desarrollo, los objetivos y metas del programa del sector educativo, así como de sus programas institucionales, regionales y especiales;
 
@@ -3235,9 +3213,9 @@ II. Coordinar y administrar los sistemas de información relacionados con la pla
 
 III. Mantener actualizado el registro de las instituciones educativas pertenecientes al Sistema Educativo Estatal;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 3 DE FEBRERO DE 2017)</small>
 
-IV. Proponer al Titular de la Secretaría, conjuntamente con la Dirección Jurídica, los ajustes al calendario escolar aplicable en el Estado para cada ciclo lectivo de educación preescolar, especial, primaria, secundaria, normal y en las escuelas para la formación de maestros de enseñanza básica, oficiales y particulares incorporadas al Sistema Educativo Estatal;
+IV. Proponer al Secretario, conjuntamente con la Dirección Jurídica, los ajustes al calendario escolar aplicable en el estado para cada ciclo lectivo de educación preescolar, primaria y secundaria;
 
 > <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -3247,35 +3225,37 @@ V. Preparar los informes de labores que deba rendir al Titular de la Secretaría
 
 VI. Elaborar el programa anual de construcción de obra pública destinado a la educación y la recreación;
 
-VII. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 3 DE FEBRERO DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+VII. Resolver sobre las estructuras ocupacionales de las escuelas públicas competencia de esta Secretaría, en función del número de alumnos, de los planes y programas de estudio y de las modalidades en las que se imparte el servicio de conformidad con las reglas que emita la Secretaría de Educación Pública federal;
 
-VIII. Coordinar con las direcciones del nivel educativo la elaboración de los proyectos que a continuación se relacionan:
+> <small>(REFORMADA, D.O. 3 DE FEBRERO DE 2017)</small>
 
-a) Creación o reorganización de zonas de supervisión escolar;
+VIII. Coordinar con el Director General de Desarrollo Educativo y Gestión Regional, la elaboración de los siguientes proyectos:
 
-b) Consolidación, ampliación, sustitución y ubicación de planteles educativos;
+a) Consolidación, ampliación, sustitución y ubicación de planteles educativos;
 
-c) Apertura de nuevas escuelas;
+b) Apertura de nuevas escuelas;
 
-d) Expansión de servicios educativos en zonas urbanas marginadas y rurales, y
+c) Expansión de servicios educativos en zonas urbanas marginadas y rurales; y
 
-e) Asignación de recursos destinados para la prestación de los servicios educativos.
+d) Asignación de recursos destinados para la prestación de los servicios educativos.
 
-> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O. 3 DE FEBRERO DE 2017)</small>
 
-IX. Llevar a cabo, en coordinación con las unidades administrativas correspondientes y de conformidad con la normatividad vigente, las actividades de registro y certificación de los niveles educativos de educación básica, preescolar, primaria, secundaria y media superior; así como la formación extraescolar;
+IX. Llevar a cabo, en coordinación con las unidades administrativas correspondientes y de conformidad con la normativa aplicable, las actividades de registro y certificación de los niveles educativos de educación básica, preescolar, primaria, secundaria, así como de las instituciones incorporadas a esta Secretaría;
 
-> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O. 3 DE FEBRERO DE 2017)</small>
 
-X. Vigilar el cumplimiento de las normas de control escolar correspondientes a los niveles educativos de educación básica, preescolar, primaria, secundaria y media superior, así como para la formación extraescolar;
+X. Vigilar el cumplimiento de las normas de control escolar correspondientes a la educación básica, en instituciones públicas y planteles incorporados a esta Secretaría;
 
 > <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
 
 XI. Comunicar a la Dirección Jurídica aquellos casos en que conozca de conductas presumiblemente delictivas o infractoras, previstas en las leyes y reglamentos relacionados con la autenticidad de documentos académicos oficiales;
 
-XII. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
+> <small>(ADICIONADA, D.O. 3 DE FEBRERO DE 2017)</small>
+
+XII. Participar conjuntamente con la Dirección de Administración y Finanzas, en el proceso de contratación de personal, validando las necesidades que presenten las diferentes las (sic) unidades administrativas de la Secretaría; y
 
 > <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -3283,83 +3263,65 @@ XIII. Verificar durante el proceso de registro de los alumnos, y a solicitud de 
 
 XIV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
+> <small>(REFORMADO, D.O. 3 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 140.
 
-Al Director Administrativo le corresponde el despacho de los siguientes asuntos:
+El Director de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+I. Establecer, con la aprobación del Secretario, las políticas, normas, sistemas y procedimientos, para la óptima administración del personal y recursos financieros e informáticos de la Secretaría;
 
-I. Establecer, con la aprobación del Titular de la Secretaría, las políticas, normas, sistemas y procedimientos, para la óptima administración del personal y recursos informáticos de la Secretaría;
+II. Atender, con base en las instrucciones del Secretario, los asuntos del personal adscrito a la Secretaría y autorizar sus movimientos;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+III. Integrar la documentación necesaria así como autorizar y registrar los movimientos del personal de las escuelas públicas de educación básica y media superior competencia de esta Secretaria;
 
-II. Atender, con base en las instrucciones del Titular de la Secretaría, los asuntos del personal adscrito a su área y autorizar sus movimientos;
+IV. Proveer la capacitación y adiestramiento del personal administrativo de la Secretaría para el buen desempeño de sus funciones;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+V. Aplicar los sistemas de estímulos y recompensas previstos por la ley de la materia y por las condiciones generales de trabajo;
 
-III. Proveer la capacitación y adiestramiento del personal administrativo de la Secretaría para el buen desempeño de sus funciones;
+VI. Coordinar el diseño, programación y operación de los servicios informáticos que requieran las unidades administrativas de la Secretaría;
 
-IV. Aplicar los sistemas de estímulos y recompensas previstos por la ley de la materia y por las condiciones generales de trabajo;
+VII. Elaborar, de acuerdo con las normas legales, el anteproyecto de presupuesto que corresponda a esta Secretaría y autorizar el ejercicio del presupuesto asignado;
 
-V. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+VIII. Atender las necesidades financieras de esta Secretaría, de conformidad con las políticas fijadas por su titular, mediante la administración de los recursos financieros que realiza su tesorería;
 
-VI. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+IX. Verificar y autorizar la documentación que compruebe y justifique las erogaciones que con cargo al presupuesto de esta Secretaría se realicen y, en su caso, presentar aquellas que deban ser autorizadas por su titular;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+X. Dar seguimiento a los presupuestos de ingresos y de egresos de esta Secretaría, así como coordinar las transferencias presupuestales que se realicen a los organismos públicos descentralizados del sector educativo estatal;
 
-VII. Coordinar el diseño, programación y operación de los servicios informáticos que requieran las unidades administrativas de la Secretaría, y
+XI. Consolidar y mantener actualizados los registros contables; elaborar los estados financieros y demás informes internos y externos que se requieran; difundir las normas y procedimientos a que deba sujetarse la contabilidad presupuestaria y patrimonial de esta Secretaría; y verificar su cumplimiento;
 
-VIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+XII. Atender los proyectos de la Secretaría para dotar a los planteles del Sistema Educativo Estatal de plataformas tecnológicas y equipos informáticos para facilitar el proceso educativo, de acuerdo con la disponibilidad presupuestal de esta Secretaría;
+
+XIII. Autorizar el entero o aplicación, en su caso, de las cantidades retenidas al personal de esta Secretaría a favor de las dependencias, entidades paraestatales y en general terceros que acrediten derechos en los términos de las disposiciones legales aplicables;
+
+XIV. Autorizar, desde la programación hasta la compra, la adquisición de bienes para atender las necesidades de esta Secretaría, sujetándose a la legislación vigente en la materia;
+
+XV. Realizar las acciones pertinentes para la administración de los almacenes y la distribución de mobiliario, materiales y equipo a oficinas y a centros escolares, y llevar el control de los inventarios;
+
+XVI. Elaborar e implementar los programas para la conservación y mantenimiento de los inmuebles destinados a esta Secretaría;
+
+XVII. Proveer lo necesario para la organización de los eventos de esta Secretaría;
+
+XVIII. Formular e implementar políticas, normas, sistemas, asesorías y procedimientos a observar, con la aprobación del secretario, que permitan la obtención de información financiera veraz, confiable y oportuna, así como la óptima administración de los recursos humanos, materiales y financieros en las unidades administrativas y centros de trabajo educativos de esta Secretaría;
+
+XIX. Coordinar y realizar el proceso de reclutamiento y contratación de personal, conforme a las necesidades que presenten las diferentes unidades administrativas de la Secretaría;
+
+XX. Realizar evaluaciones al control interno, a las operaciones administrativas y financieras realizadas en unidades administrativas y centros de trabajo educativos, a solicitud de los responsables de las áreas educativas;
+
+XXI. Intervenir y dirigir los procesos de entrega-recepción de las escuelas de educación básica y media superior, en coordinación con la Dirección Jurídica;
+
+XXII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 ###### Artículo 141.
 
-Al Director de Finanzas le corresponde el despacho de los siguientes asuntos:
+(DEROGADO, D.O. 3 DE FEBRERO DE 2017)
 
-I. Establecer, con la aprobación del Titular de esta Dependencia, las políticas, normas, sistemas y procedimientos para la óptima administración de los recursos financieros;
-
-II. Elaborar, de acuerdo con las normas legales, el anteproyecto de presupuesto que corresponda a esta Secretaría y autorizar el ejercicio del presupuesto asignado;
-
-III. Atender las necesidades financieras de esta Secretaría, de conformidad con las políticas fijadas por su Titular, mediante la administración de los recursos financieros que realiza su tesorería;
-
-IV. Verificar y autorizar la documentación que compruebe y justifique las erogaciones que con cargo al presupuesto de esta Secretaría se realicen y, en su caso, presentar aquéllas que deban ser autorizadas por su Titular;
-
-V. Dar seguimiento a los presupuestos de ingresos y de egresos de esta Secretaría, así como coordinar las transferencias presupuestales que se realizan a los organismos e instituciones descentralizados del sector educativo estatal;
-
-VI. Difundir las normas y procedimientos a que deba sujetarse la contabilidad presupuestaria y patrimonial de esta Secretaría, así como verificar su cumplimiento, consolidar y mantener actualizados los registros contables, y elaborar los estados financieros, y demás informes internos y externos que se requieran;
-
-VII. Dotar a los planteles del Sistema Educativo Estatal con plataformas tecnológicas y equipos informáticos para facilitar el proceso educativo, de acuerdo con la disponibilidad presupuestal de esta Secretaría;
-
-VIII. Autorizar el entero o aplicación, en su caso, de las cantidades retenidas al personal de esta Secretaría a favor de las dependencias, entidades paraestatales y en general terceros que acrediten derechos en los términos de las disposiciones legales aplicables;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-IX. Autorizar, desde la programación hasta la compra misma, la adquisición de bienes para atender las necesidades de esta Secretaría, sujetándose a la legislación vigente en la materia;
-
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-X. Realizar las acciones pertinentes para la administración de los almacenes y la distribución de mobiliario, materiales y equipo a oficinas y a centros escolares, y llevar el control de los inventarios;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XI. Proveer lo necesario para la conservación y mantenimiento de los inmuebles destinados a esta Secretaría y para la organización de sus eventos, así como para la contratación de servicios y suscribir los contratos que sean necesarios para estos fines;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XII. Elaborar e implantar, en coordinación con las direcciones del nivel educativo, los programas de mantenimiento, rehabilitación y equipamiento de los espacios educativos;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XIII. Formular e implementar políticas, normas, sistemas, asesorías y procedimientos a observar, con la aprobación del titular, que permitan la obtención de información financiera veraz, confiable y oportuna, así como la óptima administración de los recursos humanos, materiales y monetarios en las unidades administrativas y centros de trabajo educativos de la misma;
-
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XIV. Realizar evaluaciones al control interno, a las operaciones administrativas y monetarias realizadas en unidades administrativas y centros de trabajo educativos a solicitud de los responsables de áreas educativas, y
-
-XV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 142.
 
-Al Director Jurídico le corresponde el despacho de los siguientes asuntos:
+El Director Jurídico tendrá las siguientes facultades y obligaciones:
 
 I. Proponer, coordinar y evaluar las políticas y criterios generales de esta Secretaría en materia jurídica y normativa;
 
@@ -3385,9 +3347,9 @@ i) Celebrar transacciones judiciales y extrajudiciales, y
 
 j) Realizar cuantos actos sean procedentes en defensa de los intereses de esta Secretaría.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE FEBRERO DE 2017)</small>
 
-III. Representar a esta Secretaría ante el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado de Yucatán y cualquier otra autoridad jurisdiccional o administrativa de trabajo, con las facultades y en términos de los artículos 11 y 692 de la Ley Federal del Trabajo, aplicable supletoriamente, y sus correlativos de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, en las controversias que se susciten entre esta Dependencia y sus trabajadores; y ejercer dicha representación durante el proceso. En ejercicio de esta representación podrá:
+III. Representar a esta Secretaría ante el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios del Poder Judicial del Estado de Yucatán y cualquier otra autoridad jurisdiccional o administrativa de trabajo, del fuero común o federal, con las facultades y en términos de los artículos 11 y 692 de la Ley Federal del Trabajo, aplicable supletoriamente, y sus correlativos de la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, en las controversias que se susciten entre esta dependencia y sus trabajadores; y ejercer dicha representación durante el proceso. En ejercicio de esta representación podrá:
 
 a) Comparecer a todas las etapas del proceso laboral, inclusive la de conciliación, demanda y excepciones, pruebas, y cualesquiera otras del procedimiento jurisdiccional,
 
@@ -3401,13 +3363,17 @@ e) Realizar todos los demás actos a que se refieren ésta y la fracción anteri
 
 IV. Solicitar la publicación en el Diario Oficial del Gobierno del Estado de Yucatán, de las disposiciones de carácter general en la materia de competencia de esta Secretaría;
 
-V. Dictaminar la aplicación de sanciones, la baja de los servidores públicos de esta Secretaría, así como suscribir los oficios de baja respectivos;
+> <small>(REFORMADA, D.O. 3 DE FEBRERO DE 2017)</small>
+
+V. Dictaminar la aplicación de sanciones, la baja administrativa y laboral de los trabajadores y la rescisión de los contratos en que sea parte esta Secretaría;
 
 VI. Conocer los procedimientos administrativos que sean competencia de esta Secretaría y someter a consideración y aprobación de su Titular, los proyectos de resolución de los mismos;
 
 VII. Tramitar ante las autoridades competentes, la adquisición, regularización e incorporación de bienes inmuebles al dominio público del Estado, cuando éstos se destinen al servicio de esta Secretaría;
 
-VIII. Atender el funcionamiento de la Comisión Estatal de Escalafón, de conformidad con las disposiciones aplicables, y
+> <small>(REFORMADA, D.O. 3 DE FEBRERO DE 2017)</small>
+
+VIII. Certificar los documentos que obren en los archivos de la Secretaría; y
 
 IX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
@@ -13134,3 +13100,19 @@ El gobernador deberá expedir los lineamientos a que se refiere la fracción XXV
 Tercero. Aplicación de la normativa vigente
 
 En tanto entran en vigor los lineamientos a que se refiere el artículo transitorio anterior, las autoridades competentes continuarán aplicando la normatividad vigente en la materia, en lo que no se oponga a este decreto.
+
+D.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 457/2017 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE EDUCACIÓN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación
+
+Se abrogan los Acuerdos Segey 12/2016 por el que se delegan facultades en el director del Centro de Evaluación Educativa del Estado de Yucatán, y el Acuerdo por el cual el Titular de la Secretaría de Educación del Poder Ejecutivo del Gobierno del Estado de Yucatán, delega facultades en el Director Jurídico de la Secretaría de fecha 30 de marzo de 2009.
+
+Tercero. Derogación
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
