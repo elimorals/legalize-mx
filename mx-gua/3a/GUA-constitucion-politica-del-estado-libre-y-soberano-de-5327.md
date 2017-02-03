@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2016-09-06"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -1055,13 +1055,13 @@ Ninguno de los Diputados mencionados en el párrafo anterior, cuando hayan tenid
 
 La Diputación Permanente registrará las declaratorias de validez y las constancias de mayoría o, en su caso, de asignación, de los Diputados que hubieren resultado electos en los comicios y los convocará para que comparezcan a la sesión de instalación, a que se refiere el artículo 53 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 49.
 
-Los Diputados son inviolables por las opiniones que emitan en el desempeño de su cargo y jamás podrán ser reconvenidos ni juzgados por ellas.
+Los Diputados son irreprochables por las opiniones que emitan en el desempeño de su cargo y jamás podrán ser reconvenidos ni juzgados por ellas.
 
-El Presidente del Congreso y, en su caso, el de la Diputación Permanente, velará por el respeto al fuero constitucional de los Miembros del mismo y por la inviolabilidad del recinto donde se reúnan a sesionar.
+El Presidente del Congreso y, en su caso, el de la Diputación Permanente, velará por el respeto a lo señalado en el párrafo anterior, así como por la inviolabilidad del recinto donde se reúnan a sesionar.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1179,13 +1179,25 @@ I.- Acuerdos;
 
 II.- Resoluciones que dicte el Congreso erigido en Colegio Electoral;
 
-III.- Las que dicte el Congreso, en Juicio Político o en Declaración de Procedencia de Desafuero; y,
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
-IV.- Las Leyes y Reglamentos que se refieran a su estructura y funcionamiento;
+III.- Las que dicte el Congreso en Juicio Político;
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+IV.- La que declare la separación del cargo del servidor público que haya sido vinculado a proceso por delito que de acuerdo al artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, amerite prisión preventiva oficiosa;
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+V.- La que declare la restitución en el cargo del servidor público que hubiere sido absuelto por sentencia firme o bien el proceso penal concluya con resolución que tenga efectos absolutorios;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+VI.- Las Leyes y Reglamentos que se refieran a su estructura y funcionamiento; y
 
 > <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
 
-V.- Los decretos que abroguen o deroguen una Ley en cumplimiento a un proceso de referéndum.
+VII.- Los decretos que abroguen o deroguen una Ley en cumplimiento a un proceso de referéndum.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1293,9 +1305,9 @@ XV.- Expedir anualmente las Leyes de Ingresos para los Municipios del Estado. Si
 
 XVI.- Autorizar al Ejecutivo del Estado para que ejerza cualquier acto de dominio sobre los bienes inmuebles de dominio privado del Estado, fijando en cada caso las condiciones a que deben sujetarse. Esta facultad la tendrá, en su caso, la Diputación Permanente;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
-XVII.- Desafectar los bienes destinados a un servicio público o los de uso común del Estado;
+XVII.- Desafectar los bienes destinados a un servicio público o los de uso común del Estado; esta facultad la tendrá la Diputación Permanente durante los recesos;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
@@ -1305,7 +1317,9 @@ XVIII.- Fiscalizar la cuenta pública del Poder Ejecutivo incluyendo la de las e
 
 XIX.- Fiscalizar las cuentas públicas municipales incluyendo las de las entidades y organismos de la administración pública paramunicipal; de igual manera, verificar el desempeño en el cumplimiento de los objetivos de los programas. Para tal efecto, el Congreso se apoyará en la Auditoría Superior del Estado de Guanajuato;
 
-XX.- Nombrar y remover a sus empleados. Estas facultades las tendrá la Diputación Permanente en las épocas en que el Congreso no esté en Período Ordinario de Sesiones;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+XX.- Nombrar, remover y conocer de las renuncias de sus servidores públicos, en los términos de la Ley que regule al Poder Legislativo;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1353,7 +1367,9 @@ Designar, por el voto de las dos terceras partes de sus miembros, a los titulare
 
 XXII.- Erigirse en Jurado de Responsabilidades, en los casos de Juicio Político;
 
-XXIII.- Declarar si ha lugar a la formación de causa respecto de los Funcionarios que gocen de Fuero;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+XXIII.- Declarar la separación del cargo de los servidores públicos referidos en el artículo 127, así como la restitución en sus cargos, atendiendo lo previsto por el artículo 130, mediante el proceso que prevea su ley orgánica.
 
 XXIV.- Conceder amnistía, en circunstancias extraordinarias, por el voto de las dos terceras partes de los Diputados;
 
@@ -1413,9 +1429,13 @@ III.- (DEROGADA, P.O. 15 DE NOVIEMBRE DE 1994)
 
 IV.- Instalar y presidir la primera junta preparatoria del nuevo Congreso;
 
-V.- Nombrar y remover a los empleados del Congreso, dándole cuenta del ejercicio de esta facultad;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
-VI.- Conocer de las renuncias de los funcionarios y empleados del Congreso;
+V.- Nombrar y remover a los servidores públicos del Congreso, en los términos de la Ley que regule al Poder Legislativo, dando cuenta al Pleno del Congreso del ejercicio de esta facultad;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+VI.- Conocer de las renuncias de los servidores públicos del Congreso, en los términos de la Ley que regule al Poder Legislativo, dando cuenta al Pleno del Congreso del ejercicio de esta facultad;
 
 VII.- Expeditar los trabajos pendientes al tiempo del receso y ejecutar, en los nuevos, lo que fuere necesario, dando cuenta al Congreso con unos y con otros;
 
@@ -2773,47 +2793,49 @@ Si se recibiere resolución de la Cámara de Senadores, el Congreso del Estado, 
 
 Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996) (REUBICADO [N. DE E. ANTES ARTÍCULO 125], P.O. 6 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 126.
 
-Cuando se procediere penalmente contra el Gobernador del Estado, Diputados Locales, Magistrados del Supremo Tribunal de Justicia y miembros del Consejo del Poder Judicial, por delitos de carácter federal cometidos durante el tiempo de su encargo, en los términos de los artículos 111 y 114 de la Constitución Política de los Estados Unidos Mexicanos, recibida por el Congreso del Estado, la declaración de procedencia, éste resolverá, en ejercicio de sus atribuciones lo que corresponda.
+Cuando se procediere penalmente contra el Gobernador del Estado, Diputados Locales, Magistrados del Supremo Tribunal de Justicia y miembros del Consejo del Poder Judicial, por delitos de carácter federal cometidos durante el tiempo de su encargo, en los términos de los artículos 111 y 114 de la Constitución Política de los Estados Unidos Mexicanos, una vez recibida la declaración de procedencia por el Congreso del Estado, éste procederá a declarar la separación del cargo, atendiendo lo establecido en el artículo 127 de esta Constitución, siempre que se trate de delito que amerite prisión preventiva oficiosa en términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO [N. DE E. ANTES ARTÍCULO 126], P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+Las declaraciones y resoluciones del Congreso del Estado son inatacables.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 127.
 
-Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo del Poder Judicial, los titulares de las dependencias que señala la Ley Orgánica del Poder Ejecutivo, los miembros de los Ayuntamientos y los Magistrados del Tribunal de Justicia Administrativa, durante el tiempo de su encargo, sólo podrán ser juzgados por delitos intencionales del orden común que merezcan penas privativas de libertad, pero para ello es necesario que, previamente el Congreso del Estado, erigido en Jurado de Procedencia, lo declare así por el voto de las dos terceras partes de sus integrantes.
+El Gobernador del Estado, los Diputados Locales, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo del Poder Judicial, los titulares de las dependencias que señala la Ley Orgánica del Poder Ejecutivo, los miembros de los Ayuntamientos y los Magistrados del Tribunal de Justicia Administrativa, podrán ser sometidos a proceso judicial durante el tiempo de su encargo, pero sólo serán separados de su cargo cuando se trate de delitos comprendidos en el segundo párrafo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos o sus equivalentes en la ley penal.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+Recibida copia certificada del auto de vinculación a proceso, la Legislatura del Estado declarará la separación del cargo.
 
-El Gobernador del Estado, a partir de la declaratoria de su elección y hasta la terminación de su encargo, sólo podrá ser acusado por delitos graves de orden común.
+Una vez separado el servidor público, conocerá del proceso el juez de control que resulte competente.
 
-(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 127], P.O. 6 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 128.
 
-La resolución que dicte el Congreso no prejuzga sobre los fundamentos de la acusación.
+La separación del cargo que declare el Congreso del Estado respecto de los servidores públicos que vayan a ser sujetos a proceso penal, no prejuzga sobre los fundamentos de la inculpación.
 
-La prescripción de la acción penal no corre en favor de los Funcionarios a que se refiere el artículo anterior, en tanto gocen del Fuero constitucional.
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 128], P.O. 6 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 129.
 
-Si la resolución del Congreso declara que ha lugar a la acusación, por este solo hecho el Funcionario queda suspendido de su cargo, privado del Fuero constitucional y a disposición de las autoridades competentes.
+Tratándose de delitos que no ameriten prisión preventiva, el proceso penal se seguirá sin que el servidor público sea separado del cargo, sin embargo, si el proceso concluye con sentencia condenatoria firme que amerite pena privativa de la libertad, el servidor público será separado del cargo, mediante la declaratoria que realice el Congreso del Estado, tratándose de delitos dolosos.
 
-(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 6 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 130.
 
-La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente, por causa de enriquecimiento ilícito, a los Servidores Públicos.
+En los casos en que el proceso penal concluya con resolución que tenga efectos absolutorios, el servidor público podrá ser restituido en el cargo, en los términos de la Ley.
 
-(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 6 DE SEPTIEMBRE DE 2016)
+Para ello será necesaria la declaratoria que, sin mayor trámite, emita el Congreso del Estado, previa solicitud del interesado.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 131.
 
-En las demandas del Orden Civil, no hay fuero ni inmunidad para ningún Funcionario ni Empleado Público.
+En los procesos judiciales del orden civil y penal, no hay inmunidad para ningún servidor público.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3918,3 +3940,19 @@ Los recursos humanos, materiales, financieros y presupuestales con que cuenta el
 ###### ARTÍCULO DÉCIMO.
 
 Los trabajadores de base que se encuentren prestando sus servicios en el Tribunal de lo Contencioso Administrativo, a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Guanajuato a que se refiere el artículo segundo transitorio, del presente decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Tribunal de Justicia Administrativa, en los términos que dicha ley determine.
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 172, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO, RELATIVAS A LAS FACULTADES DE LA DIPUTACIÓN PERMANENTE DEL H. CONGRESO DEL ESTADO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 173, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
