@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2016-11-30"
+last_updated: "2017-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -961,19 +961,27 @@ La atención materno infantil tiene carácter prioritario y comprende las siguie
 
 I. La atención de la mujer durante el embarazo, el parto y el puerperio;
 
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+II. La atención de la Preeclampsia y la Eclampsia, de forma preventiva, periódica, sistemática y primordialmente clínica, mediante la aplicación de la prueba de microalbuminuria;
+
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-II. La atención del niño, previo y durante su nacimiento, así como la vigilancia de su crecimiento, nutrición adecuada y desarrollo integral, incluyendo la promoción de la vacunación oportuna;
+III. La atención del niño, previo y durante su nacimiento, así como la vigilancia de su crecimiento, nutrición adecuada y desarrollo integral, incluyendo la promoción de la vacunación oportuna;
 
-III. La protección de la integración y del bienestar familiar;
+IV. La protección de la integración y del bienestar familiar;
 
-IV. La detección temprana de la pérdida de audición y enfermedades visuales, y su tratamiento en todos sus grados, desde los primeros días del nacimiento; y
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
-V. El diagnóstico oportuno para resolver los problemas de salud visual y auditiva de los niños, en escuelas públicas y privadas.
+V. La detección temprana de la pérdida de audición y enfermedades visuales, y su tratamiento en todos sus grados, desde los primeros días del nacimiento;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+VI. El diagnóstico oportuno para resolver los problemas de salud visual y auditiva de los niños, en escuelas públicas y privadas; y
 
 > <small>(ADICIONADA, P.O. 9 DE MARZO DE 2012)</small>
 
-VI. Atención directa de profesionales de la salud física y mental a los menores que cursen la educación básica, para prevenir, detectar y atender fenómenos de violencia física o emocional.
+VII. Atención directa de profesionales de la salud física y mental a los menores que cursen la educación básica, para prevenir, detectar y atender fenómenos de violencia física o emocional.
 
 ###### Artículo 64.
 
@@ -991,7 +999,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 Las autoridades sanitarias estatales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-I. Acciones que privilegien la lactancia materna;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+I. Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida;
 
 II. Acciones de ayuda alimentaria directa, tendiente a mejorar el estado nutricional materno infantil; y
 
@@ -1005,19 +1015,25 @@ I. Los programas para padres destinados a promover la atención materno infantil
 
 II. Las actividades recreativas, de esparcimiento y culturales, destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas; y
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-IV. La vigilancia de los alimentos que se expendan en las cooperativas, así como en espacios comerciales donde se tenga a la venta o consuman alimentos en las instituciones de nivel básico, a efecto de que los mismos cumplan con alto contenido nutricional y evitar problemas de mal nutrición de menores de edad y adolescentes; y
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2012)</small>
+IV. La vigilancia de los alimentos que se expendan en las cooperativas, así como en espacios comerciales donde se tenga a la venta o consuman alimentos en las instituciones de nivel básico, a efecto de que los mismos cumplan con alto contenido nutricional y evitar problemas de malnutrición de menores de edad y adolescentes;
 
-V. Programas para prevenir y atender las manifestaciones de violencia contra los educandos, preservando la salud mental y física de los mismos; y
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+V. Programas para prevenir y atender las manifestaciones de violencia contra los educandos, preservando la salud mental y física de los mismos;
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
+
+VI. La lactancia materna en el entorno laboral, así como la instalación de lactarios en los centros de trabajo de los sectores público y privado; y
 
 > <small>(REFORMADA, P.O. 9 DE MARZO DE 2012)</small>
 
-VI. Las demás acciones que coadyuven a la protección de la salud materna infantil.
+VII. Las demás acciones que coadyuven a la protección de la salud materna infantil.
 
 ###### Artículo 68.
 
@@ -2226,5 +2242,21 @@ P.O. 30 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, LEY DE SALUD DEL ESTADO DE QUERÉTARO Y LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 63 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 3 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 66 Y 67 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
