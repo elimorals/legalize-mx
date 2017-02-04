@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-89193"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-08-10"
-last_updated: "2015-07-09"
+last_updated: "2017-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 9 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2015 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2017 (ABROGADO).
 
 Código publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 10 de agosto de 2012.
 
@@ -4411,9 +4409,11 @@ Artículo 267
 
 2. En el caso de elecciones extraordinarias, deberá observarse lo dispuesto por el artículo 86 de este Código.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2017)</small>
+
 Artículo 268
 
-Los miembros del ayuntamiento desempeñaran sus cargos durante el tiempo que sus tradiciones y prácticas democráticas de elección determinen. En ningún caso podrá exceder de tres años.
+Los integrantes de los Ayuntamientos desempeñarán sus cargos durante el tiempo que sus tradiciones y prácticas democráticas de elección determinen.
 
 # LIBRO SÉPTIMO. DE LOS REGÍMENES SANCIONADOR ELECTORAL Y DISCIPLINARIO INTERNO
 
@@ -5288,3 +5288,9 @@ SÉPTIMO: La Ley de Sistemas Electorales Indígenas referida en el artículo 34 
 Una vez publicada esta Ley los recursos humanos y materiales de la actual Dirección Ejecutiva de sistema normativos internos del Instituto pasarán a forma parte del Consejo Estatal de Sistema Normativos Electorales indígenas.
 
 OCTAVO: El Congreso del Estado procederá en un plazo máximo de treinta días naturales a partir de la entrada en vigor del presente Decreto a elegir el (sic) Secretario Ejecutivo del Instituto Estatal Electoral y de Participación Ciudadana.
+
+P.O. 4 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM 535.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 33 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA Y SE REFORMA EL ARTÍCULO 268 DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
