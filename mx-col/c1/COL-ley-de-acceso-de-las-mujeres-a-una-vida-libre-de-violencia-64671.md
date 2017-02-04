@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2016-11-22"
+last_updated: "2017-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2017.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -499,6 +499,44 @@ IV. Informar a la mujer de cualquier procedimiento médico o quirúrgico que deb
 
 V. Denunciar los actos de violencia obstétrica de los que tenga conocimiento por motivo de su actividad profesional.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE FEBRERO DE 2017)</small>
+
+#### SECCIÓN SÉPTIMA. VIOLENCIA POLÍTICA
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
+
+ARTÍCULO 30 TER.- Violencia Política son los actos u omisiones cometidos en contra de una mujer o sus familias, que le causen un daño físico, psicológico, sexual, económico o de otra índole, resultado de prejuicios de género, que tengan como objeto impedir su participación en campañas políticas, o restringir el ejercicio de un cargo público o partidista, o que inciten a la toma de decisiones en contra de su voluntad o de la ley, con el fin o no de restringir el ejercicio de un derecho político.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
+
+ARTÍCULO 30 QUÁTER.- Constituye violencia política:
+
+I. Impedir u obstaculizar el ejercicio de sus derechos político-electorales mediante la restricción de recursos, ocultamiento de información, aplicación de sanciones sin motivación y fundamentación, amenazas o amedrentamiento hacia su persona o familiares;
+
+II. Proporcionar de forma dolosa a las mujeres candidatas o electas, propietarias o suplentes o designadas para una función pública, información falsa o imprecisa que la induzca al inadecuado ejercicio de sus funciones políticas públicas;
+
+III. Obligar o instruir a las mujeres a realizar actos incompatibles a las funciones públicas propias de su encargo;
+
+IV. Asignar responsabilidades que limiten el ejercicio de su función pública;
+
+V. Evitar por cualquier medio que las mujeres electas, propietarias o suplentes o nombradas para una función pública, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres;
+
+VI. Proporcionar al Organismo Público Local Electoral datos falsos o información incompleta o errónea de la identidad de la mujer o mujeres candidatas a algún cargo de elección popular, con la finalidad de limitar o impedir su participación;
+
+VII. Impedir o restringir a las mujeres, la reincorporación al cargo público al que fue nombrada electa, posterior al ejercicio de una licencia o permiso justificado;
+
+VIII. Coartar o impedir el uso de las facultades inherentes en la Constitución y los ordenamientos jurídicos electorales, para proteger sus derechos frente a los actos que violenten o restrinjan el ejercicio de su representación política;
+
+IX. Efectuar cualquier acto de discriminación previsto en la Constitución, o en las leyes que la sancionen y que tengan como resultado impedir, negar, anular o menoscabar el ejercicio de los derechos humanos de las mujeres electas o en el ejercicio de su representación política;
+
+X. Publicar o revelar información personal, privada o falsa, de las mujeres candidatas, electas, designadas o en el ejercicio de su representación política o partidista dentro o fuera de un proceso electoral, con el objetivo de denostar o menoscabar su dignidad humana, con o sin el fin de obtener con estas acciones, la renuncia y/o licencia al cargo electo o en ejercicio; y
+
+XI. Obligar, intimidar o amenazar a suscribir documentos, a participar de proyectos o adoptar decisiones en contra de su voluntad o del interés público, aprovechándose de su representación política.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2017)</small>
+
+ARTÍCULO 30 QUINQUIES.- Las autoridades estatales, municipales, los organismos autónomos y los partidos políticos en el ámbito de sus competencias, garantizarán a las mujeres el acceso y ejercicio pleno de sus derechos de participación política.
+
 #### SECCIÓN PRIMERA. DEL TITULAR DEL EJECUTIVO DEL ESTADO
 
 #### SECCIÓN PRIMERA BIS. DEL SUPREMO TRIBUNAL DE JUSTICIA
@@ -524,8 +562,6 @@ VII.- Las demás que le atribuyan otros ordenamientos legales.
 #### SECCIÓN SEGUNDA. DE LA SECRETARÍA GENERAL DE GOBIERNO
 
 #### SECCIÓN TERCERA. DE LA SECRETARÍA DE DESARROLLO SOCIAL
-
-#### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA
 
@@ -857,7 +893,7 @@ El Ejecutivo Estatal y los Ayuntamientos, en el ámbito de sus competencias, pro
 
 ### CAPÍTULO IV. DE LA ATENCIÓN A LAS RECEPTORAS
 
-#### SECCIÓN QUINTA. DE LA SECRETARÍA DE SALUD Y BIENESTAR SOCIAL
+#### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
 
 ###### ARTÍCULO 55.
 
@@ -905,6 +941,8 @@ XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
+#### SECCIÓN QUINTA. DE LA SECRETARÍA DE SALUD Y BIENESTAR SOCIAL
+
 #### SECCIÓN QUINTA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
@@ -930,30 +968,6 @@ VIII.- En coordinación con el Instituto, realizar estudios estadísticos e inve
 IX.- Reconocer e incentivar a las empresas que se abstengan de solicitar a las mujeres certificados de no gravidez; y
 
 X.- Las demás que le señalen las disposiciones legales.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
-
-#### SECCIÓN QUINTA BIS 1. DE LA SECRETARÍA DE CULTURA
-
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
-
-ARTICULO 60 BIS 1.- Corresponde a la Secretaría de Cultura:
-
-I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
-
-II.- Promover a través de los programas y actividades culturales, los derechos humanos de las mujeres;
-
-III.- Promover que las mujeres dispongan de espacios para el esparcimiento, juegos y actividades recreativas, y participen en la vida cultural y artística;
-
-IV.- Desarrollar con otras dependencias y entidades, encargadas de promover la cultura campañas para prevenir la violencia contra las mujeres;
-
-V.- Elaborar programas artísticos y culturales, que difundan y promuevan una cultura de la igualdad entre mujeres y hombres;
-
-VI.- Formular, coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las mujeres para su empoderamiento y desarrollo integral a través de las diferentes manifestaciones culturales y artísticas;
-
-VII.- Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia en los centros de promoción de la cultura o en los espacios donde se desarrollen las actividades culturales y artísticas; y
-
-VIII.- Las demás que les señalen las disposiciones legales aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
@@ -993,27 +1007,29 @@ XV.- Celebrar convenios de coordinación y concertación con la participación q
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN QUINTA BIS 2. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+#### SECCIÓN QUINTA BIS 1. DE LA SECRETARÍA DE CULTURA
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
 
-ARTÍCULO 60 BIS 2.- La Secretaría de Seguridad Pública deberá:
+ARTICULO 60 BIS 1.- Corresponde a la Secretaría de Cultura:
 
 I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
 
-II.- Elaborar e implementar en coordinación con la Procuraduría, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
+II.- Promover a través de los programas y actividades culturales, los derechos humanos de las mujeres;
 
-III.- Generar mecanismos de prevención, detección y canalización de las mujeres víctima de violencia;
+III.- Promover que las mujeres dispongan de espacios para el esparcimiento, juegos y actividades recreativas, y participen en la vida cultural y artística;
 
-IV.- Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
+IV.- Desarrollar con otras dependencias y entidades, encargadas de promover la cultura campañas para prevenir la violencia contra las mujeres;
 
-V.- Diseñar la política integral para la prevención de delitos violentos contra las mujeres;
+V.- Elaborar programas artísticos y culturales, que difundan y promuevan una cultura de la igualdad entre mujeres y hombres;
 
-VI.- Realizar en coordinación con el Instituto Colimense de las Mujeres, campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres;
+VI.- Formular, coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las mujeres para su empoderamiento y desarrollo integral a través de las diferentes manifestaciones culturales y artísticas;
 
-VII.- Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres; y
+VII.- Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia en los centros de promoción de la cultura o en los espacios donde se desarrollen las actividades culturales y artísticas; y
 
 VIII.- Las demás que les señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1037,7 +1053,27 @@ VIII.- Celebrar convenios de cooperación, coordinación y concertación en la m
 
 IX.- Las demás previstas en esta Ley y demás disposiciones aplicables.
 
-#### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+#### SECCIÓN QUINTA BIS 2. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTÍCULO 60 BIS 2.- La Secretaría de Seguridad Pública deberá:
+
+I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
+
+II.- Elaborar e implementar en coordinación con la Procuraduría, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
+
+III.- Generar mecanismos de prevención, detección y canalización de las mujeres víctima de violencia;
+
+IV.- Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
+
+V.- Diseñar la política integral para la prevención de delitos violentos contra las mujeres;
+
+VI.- Realizar en coordinación con el Instituto Colimense de las Mujeres, campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres;
+
+VII.- Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres; y
+
+VIII.- Las demás que les señalen las disposiciones legales aplicables.
 
 ###### ARTÍCULO 59.
 
@@ -1077,7 +1113,7 @@ XVI.- Notificar en su calidad de garante en materia de violencia de género, a l
 
 XVII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
+#### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
 ###### ARTÍCULO 60.
 
@@ -1151,13 +1187,13 @@ XXII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE ENERO DE 2013)</small>
 
+#### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
+
 #### SECCIÓN OCTAVA. DEL INSTITUTO
 
 #### SECCIÓN NOVENA. DIF ESTATAL Y MUNICIPALES
 
 #### SECCIÓN DÉCIMA. DEL CEPAVI
-
-#### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
 
 ###### ARTÍCULO 61.
 
@@ -1215,7 +1251,7 @@ XVII.- Elaborar y aplicar protocolos especializados con perspectiva de género e
 
 XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
+#### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
 
 ###### ARTÍCULO 62.
 
@@ -1253,7 +1289,7 @@ XV.- Proporcionar a los cuerpos policiacos capacitación y formación en materia
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+#### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
 
 ###### ARTÍCULO 63.
 
@@ -1299,7 +1335,7 @@ XV.- Celebrar convenios de colaboración, coordinación y concertación en la ma
 
 XVI.- Las demás previstas para el cumplimiento de esta Ley.
 
-#### SECCIÓN PRIMERA. DE LOS MODELOS DE PREVENCIÓN
+#### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 64.
 
@@ -1347,7 +1383,7 @@ XX.- Celebrar convenios de colaboración, coordinación y concertación en la ma
 
 XXI.- Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
-#### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
+#### SECCIÓN PRIMERA. DE LOS MODELOS DE PREVENCIÓN
 
 ###### ARTÍCULO 65.
 
@@ -1367,13 +1403,13 @@ VI.- Proveer la ayuda necesaria a las diversas instancias que lo soliciten, para
 
 VII.- Las demás que se establecen en la Ley para la Prevención y Atención de la Violencia Intrafamiliar.
 
-#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
+#### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
 
 ###### ARTÍCULO 66.
 
 Los organismos, dependencias e instancias, en el ámbito Estatal y Municipal, harán cumplir las disposiciones de la presente Ley y demás disposiciones aplicables en la materia, buscando en todo la protección de los derechos humanos de la mujer.
 
-#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
+#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
 
 ###### ARTÍCULO 67.
 
@@ -1382,6 +1418,8 @@ Las corporaciones policiacas preventivas del Estado, y de los Municipios cumplir
 ###### ARTÍCULO 68.
 
 También integrarán una base de datos que contenga todos los aspectos relacionados con la violencia en contra de las mujeres.
+
+#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
 
 ###### ARTÍCULO 69.
 
@@ -1706,3 +1744,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 4 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. 235 "POR EL QUE SE REFROMAN (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
