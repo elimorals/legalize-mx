@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2017-01-14"
+last_updated: "2017-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -341,9 +339,11 @@ En los Municipios que se rigen por usos y costumbres, para la elección del Ayun
 
 El Ayuntamiento durará en su encargo tres años. El Ayuntamiento rendirá protesta el día primero de enero siguiente al de su elección y concluirá el treinta y uno de diciembre del año de las elecciones para su renovación.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 33.
 
-Los Ayuntamientos electos por el sistema de usos y costumbres, desempeñaran el cargo durante el tiempo que sus tradiciones y prácticas democráticas determinen; pero no podrá exceder de tres años.
+Los integrantes de los Ayuntamientos electos por Sistemas Normativos Internos, desempeñaran el cargo durante el tiempo que sus tradiciones y prácticas democráticas determinen.
 
 ###### ARTÍCULO 34.
 
@@ -2734,3 +2734,9 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca
 SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
 
 TERCERO.- El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo contradigan.
+
+P.O. 4 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 535.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 33 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA Y SE REFORMA EL ARTÍCULO 268 DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
