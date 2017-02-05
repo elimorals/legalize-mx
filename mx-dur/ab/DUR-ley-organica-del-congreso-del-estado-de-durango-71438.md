@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2016-11-29"
+last_updated: "2017-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -94,6 +94,10 @@ En el caso de elecciones extraordinarias, la elección y el periodo preparatorio
 ###### Artículo 7.
 
 El Congreso del Estado, a través del pleno, ejercerá sus atribuciones legales y constitucionales.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2017)</small>
+
+En los periodos de receso de la Legislatura, el Congreso del Estado será representado por la Comisión Permanente, la que tendrá las atribuciones que le confiere la Constitución Política del Estado Libre y Soberano de Durango y la presente ley.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
@@ -525,7 +529,9 @@ I. Rendir la protesta de ley para asumir su cargo;
 
 II. Ser defensores de los derechos de los habitantes que representan;
 
-III. Visitar su respectivo distrito;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2017)</small>
+
+III. Visitar su respectivo distrito en los períodos de receso del Congreso o en los períodos ordinarios cuando fuere necesario. En los períodos de receso, se exceptúa de esta obligación, a los diputados que integren la Comisión Permanente;
 
 IV. Cerciorarse del estado que guardan los programas de desarrollo económico y de bienestar social;
 
@@ -547,9 +553,9 @@ XI. Guardar prudente reserva de todo lo que se trate o resuelva en las sesiones 
 
 XII. Abstenerse de dictaminar en las iniciativas y asuntos en que tengan interés personal o que interesen de la misma manera a sus cónyuges o a sus parientes consanguíneos, en línea recta, sin limitación de grado; a los colaterales dentro del cuarto grado, y a los afines dentro del segundo;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2017)</small>
 
-XIII. Justificar ante el Presidente respectivo, las inasistencias a las sesiones del Congreso y de las comisiones legislativas;
+XIII. Justificar ante el Presidente respectivo, las inasistencias a las sesiones del Congreso, de la Comisión Permanente y de las comisiones legislativas;
 
 XIV. Observar las normas de cortesía y el respeto para con los miembros del Congreso, así como para con los servidores públicos e invitados al recinto oficial;
 
@@ -635,63 +641,73 @@ Los grupos parlamentarios dispondrán de locales adecuados en las instalaciones 
 
 ### CAPÍTULO IV. DE LAS SESIONES DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 51.
 
-Durante su ejercicio constitucional, la legislatura sesionará cuantas veces sea necesario para el despacho de los asuntos de su competencia, en los periodos vacacionales del personal del Congreso, el Pleno no celebrará sesiones a menos que estas tengan carácter de extraordinarias.
+Durante su ejercicio constitucional, la legislatura celebrará dos períodos ordinarios durante cada año de ejercicio constitucional; el primero, dará principio el día uno de septiembre y no podrá prolongarse sino hasta el día quince de diciembre; y el segundo, iniciará el día quince de febrero y no podrá prolongarse sino hasta el día treinta y uno de mayo.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+Los períodos extraordinarios de sesiones, serán aquéllos a los que convoque la Comisión Permanente del Congreso del Estado, por sí o a petición del Gobernador del Estado.
 
-Son sesiones extraordinarias aquellas que sean convocadas por el Presidente de la Mesa Directiva, o en su caso, por la mayoría de sus integrantes, en los periodos vacacionales o por tratarse de un asunto urgente, todas las demás sesiones se considerarán ordinarias.
+Fuera de los períodos ordinarios de sesiones, el Congreso podrá celebrar sesiones extraordinarias, cuando para el efecto fuere convocado por la Comisión Permanente por sí o a solicitud del Ejecutivo del Estado; pero en tales casos sólo se ocupará de los asuntos que se expresen en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+Los decretos de convocatoria y las declaraciones de apertura y clausura de los periodos ordinarios y extraordinarios de sesiones serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y comunicados al Titular del Poder Ejecutivo, al Tribunal Superior de Justicia, a los Ayuntamientos de la Entidad, a las Cámaras del H. Congreso de la Unión, a las legislaturas de las demás entidades federativas y a la Asamblea Legislativa del Distrito Federal
 
-Los decretos de convocatoria y las declaraciones de apertura y clausura de cada año de ejercicio constitucional serán publicados en el Periódico Oficial del Gobierno del Estado de Durango y comunicados al Titular del Poder Ejecutivo, al Tribunal Superior de Justicia, a los Ayuntamientos de la Entidad, a las Cámaras del H. Congreso de la Unión, a las legislaturas de las demás entidades federativas y a la Asamblea Legislativa del Distrito Federal.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 52.
 
+Durante los periodos ordinarios de sesiones, el pleno sesionará cuantas veces sea necesario para el despacho de los asuntos de su competencia, pero deberá celebrar como mínimo una sesión por semana.
+
 Durante los periodos vacacionales del personal del Congreso del Estado, no se efectuarán sesiones, salvo urgencia o necesidad determinada por el Presidente de la Mesa Directiva, o en su caso, por la mayoría de sus integrantes.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 53.
 
-La convocatoria a sesiones extraordinarias contendrá cuando menos, lo siguiente:
+Aprobada la realización de un periodo extraordinario de sesiones, la Comisión Permanente expedirá de inmediato la convocatoria respectiva, que contendrá cuando menos, lo siguiente:
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 I. Fecha y hora de apertura; y
 
-II. Asuntos a desahogar.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2017)</small>
 
-El pleno llevará a cabo las sesiones extraordinarias que sean necesarias para dar trámite a los asuntos señalados en la convocatoria.
+II. La relación pormenorizada de los asuntos a desahogar, incluyendo documentos e información de los asuntos a desahogar.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2017)</small>
+
+La Comisión Permanente fungirá como Mesa Directiva del Pleno durante el periodo extraordinario y suspenderá su calendario de sesiones, debiendo reiniciarlo al concluir el periodo referido.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 54.
 
-Para aperturar o clausurar cada uno de los años de ejercicio constitucional, según sea el caso, el Presidente de la Mesa Directiva hará la siguiente declaratoria:
+Durante el periodo extraordinario de sesiones, el pleno sesionará cuantas veces sea necesario, para desahogar los asuntos señalados en la convocatoria.
 
-Apertura:
+Para abrir o clausurar los periodos ordinarios y extraordinarios, según sea el caso, el Presidente de la Mesa Directiva hará la siguiente declaratoria:
 
-“La (número) legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, abre hoy día primero de septiembre de (año), su (número) año de ejercicio constitucional.”
+"La (número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, (abre o clausura) hoy día (número) de (mes) de (año), su (número) periodo ordinario de sesiones (o extraordinario) de sesiones correspondiente al (número) año de ejercicio constitucional".
 
-Conclusión:
-
-“La (número) legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, clausura, hoy día treinta y uno de agosto de (año), su (número) año de ejercicio constitucional.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 55.
 
-Las sesiones del pleno podrán ser ordinarias o extraordinarias. Éstas podrán ser:
+Las sesiones del Pleno podrán ser ordinarias o extraordinarias y se efectuarán en los periodos ordinarios o extraordinarios de sesiones, en forma respectiva. Éstas podrán ser:
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 I. Públicas, las que se efectúan con asistencia del público;
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 II. Privadas, aquéllas que se efectúen exclusivamente con la asistencia de los integrantes de la legislatura y el personal autorizado para ello; quienes intervengan en dichas sesiones, deberán guardar debida reserva de lo que en las mismas se trate. El Presidente de la Mesa Directiva correspondiente, cuidará de la reserva de lo tratado en dichas sesiones.
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 III. Solemnes, las que deban efectuarse para celebrar uno o varios actos con determinadas formalidades protocolarias; y
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 IV. Permanentes, las que se constituyan con ese carácter para tratar o desahogar el o los asuntos que se hubieren señalado en el orden del día.
 
@@ -771,7 +787,9 @@ IV. Lectura a la lista de la correspondencia oficial, recibida para su trámite;
 
 V. En su caso, el desahogo del “Espacio Solemne” cuando así lo haya aprobado el pleno;
 
-VI. En su caso, lectura discusión y votación de iniciativas presentadas por los diputados integrantes de la legislatura;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2017)</small>
+
+VI. En su caso, lectura de iniciativas presentadas por los diputados integrantes de la legislatura;
 
 VII. Dictámenes que rindan las comisiones legislativas respecto a las iniciativas y asuntos que les hayan sido encomendados;
 
@@ -784,6 +802,10 @@ X. Clausura de la sesión.
 El orden del día de las sesiones solemnes será determinado por el Presidente de la Mesa Directiva, según la naturaleza del acto o actos que se efectúen en las mismas.
 
 En el orden del día de la última sesión que le corresponda a una Mesa Directiva, previo al punto de asuntos generales, se agregará el relativo a la Elección de la Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2017)</small>
+
+En la segunda sesión de cada período ordinario, se deberá dar lectura al informe presentado por la Comisión Permanente.
 
 Los Diputados integrantes de la Legislatura podrán someter a la aprobación del pleno mediante Punto de Acuerdo, la inclusión en el orden del día de la sesión que corresponda de un “Espacio Solemne”, periodo de tiempo en el cual y de manera exclusiva, se dedicará a la realización de homenajes, enaltecimientos, conmemoraciones, reconocimientos, o cualquier otro objetivo aprobado.
 
@@ -819,17 +841,23 @@ Si algún diputado determina no hacer uso de la palabra cuando corresponda su tu
 
 ### CAPÍTULO V. DEL PALACIO LEGISLATIVO, DEL SALÓN DE SESIONES Y DEL CEREMONIAL
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 66.
 
-El recinto oficial del Congreso es inviolable. Toda fuerza pública estará impedida de tener acceso al mismo, salvo con permiso del Presidente de la Mesa Directiva, bajo cuyo mando quedará en este caso.
+El recinto oficial del Congreso es inviolable. Toda fuerza pública estará impedida de tener acceso al mismo, salvo con permiso del Presidente del Congreso o de la Comisión Permanente, bajo cuyo mando quedará en este caso.
 
-El Presidente de la Mesa Directiva, podrá solicitar el auxilio de la fuerza pública para salvaguardar la integridad de los diputados, servidores públicos del Congreso, público asistente y de los recintos.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2017)</small>
+
+El Presidente de la Mesa Directiva o de la Comisión Permanente, podrá solicitar el auxilio de la fuerza pública para salvaguardar la integridad de los diputados, servidores públicos del Congreso, público asistente y de los recintos.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 La autoridad requerida, deberá prestar sin demora, el auxilio solicitado, debiendo al efecto, poner la fuerza a su cargo a disposición del Presidente correspondiente.
 
-Cuando la fuerza pública se hubiere presentado sin previa solicitud o autorización, depondrá de inmediato sus armas ante el Presidente de la Mesa Directiva o ante quien designe; y si ello no sucediera, podrá suspender la sesión, debiendo reanudarla cuando aquélla haya abandonado el Palacio Legislativo o el recinto plenario, según sea el caso.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2017)</small>
+
+Cuando la fuerza pública se hubiere presentado sin previa solicitud o autorización, depondrá de inmediato sus armas ante el Presidente de la Mesa Directiva o el de la Comisión Permanente o ante quien designe; y si ello no sucediera, podrán suspender la sesión, debiendo reanudarla cuando aquélla haya abandonado el Palacio Legislativo o el recinto plenario, según sea el caso.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
@@ -837,7 +865,9 @@ Cuando la fuerza pública se hubiere presentado sin previa solicitud o autorizac
 
 El salón de sesiones es el recinto plenario del Congreso del Estado y estará destinado para que efectúe sus sesiones plenarias. En su pódium, se ubicará la mesa directiva y, en su caso, será eventualmente acompañada de los servidores públicos, según la sesión de que se trate.
 
-Cuando exista alguna causa justificada o no se pueda celebrar la o las sesiones en el Salón de Sesiones, el Presidente de la Mesa Directiva, podrá habilitar como recinto plenario, sedes alternas dentro del mismo Palacio Legislativo o fuera de él, siempre y cuando éste sea en la capital del Estado.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2017)</small>
+
+Cuando exista alguna causa justificada o no se pueda celebrar la o las sesiones en el Salón de Sesiones, el Presidente de la Mesa Directiva o el de la Comisión Permanente, podrán habilitar como recinto plenario, sedes alternas dentro del mismo Palacio Legislativo o fuera de él, siempre y cuando éste sea en la capital del Estado.
 
 Para la celebración de sesiones fuera de la Capital del Estado, se requerirá que el pleno por mayoría calificada, autorice el cambio provisional de residencia y de recinto plenario.
 
@@ -905,7 +935,9 @@ I. El Pleno;
 
 II. La Mesa Directiva;
 
-III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2017)</small>
+
+III. La Comisión Permanente;
 
 IV. La Gran Comisión; y
 
@@ -919,21 +951,27 @@ V. Las Comisiones Legislativas.
 
 El Pleno de la Legislatura, es el órgano máximo de deliberación y resolución del Congreso del Estado; deberá reunirse en los términos y plazos que los ordenamientos aplicables prescriban; estará representado por una Mesa Directiva, a la que corresponderá el manejo del orden del día y la conducción de las sesiones bajo la autoridad del Presidente.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 73.
 
-La Mesa Directiva, es un órgano de gobierno interior del Congreso, integrada por un Presidente, un Vicepresidente, dos secretarios propietarios y dos suplentes, quienes durarán en su encargo un mes. En su integración, prevalecerá el principio de pluralidad.
+La Mesa Directiva, es un órgano de gobierno interior del Congreso, integrada por un Presidente, un Vicepresidente, dos secretarios propietarios y dos suplentes, quienes durarán en su encargo durante los periodos ordinarios en que fueran electos y podrán ser reelectos para un periodo inmediato, siempre que sean propuestos nuevamente por el Grupo, Fracción o Representación Parlamentaria de la que sean integrantes.
 
-La Mesa Directiva deberá elegirse en la última sesión del mes mediante votación por cédula y por mayoría absoluta de los diputados presentes. Los integrantes de la Mesa Directiva, solo podrán ser sustituidos por el voto de las dos terceras partes de los diputados en la sesión de que se trate.
+En la integración de la Mesa Directiva del Congreso prevalecerá el principio de pluralidad.
+
+Los diputados independientes, cuando sean parte de la Mesa Directiva, bastará que manifiesten su interés en seguir integrando la Mesa y que el Pleno los ratifique.
+
+La Mesa Directiva deberá elegirse en la primera sesión del periodo ordinario mediante votación por cédula y por mayoría absoluta de los diputados presentes. Los integrantes de la Mesa Directiva, sólo podrán ser sustituidos por el voto de las dos terceras partes de los diputados en la sesión de que se trate.
 
 Realizada la elección de la Mesa Directiva, se comunicará por oficio a los poderes Ejecutivo y Judicial y a los Ayuntamientos del Estado; a las Cámaras del Honorable Congreso de la Unión, a las legislaturas de las demás entidades federativas y a la Asamblea Legislativa del Distrito Federal.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 74.
 
-El Presidente de la Legislatura ostentará la representación jurídica del Congreso del Estado. A falta del Presidente, ejercerá sus funciones el Vicepresidente. En ausencia de este, tomarán la representación, por su orden, los diputados que hubieran ocupado el cargo en los meses anteriores. En los juicios de amparo, su revisión, queja o inconformidad, las acciones de inconstitucionalidad, controversias constitucionales y en los juicios en los que el Congreso forme parte, se estará a lo dispuesto en la legislación aplicable.
+En los periodos ordinarios, el Presidente de la Legislatura ostentará la representación jurídica del Congreso del Estado. A falta del Presidente, ejercerá sus funciones el Vicepresidente. En ausencia de este, tomarán la representación, por su orden, los diputados que hubieran ocupado el cargo los semestres anteriores. En los juicios de amparo, su revisión, queja o inconformidad, las acciones de inconstitucionalidad, controversias constitucionales y en los juicios en los que el Congreso forme parte, se estará a lo dispuesto en la legislación aplicable.
+
+En los periodos de receso, la representación jurídica la tendrá el Presidente de la Comisión Permanente; y a falta de él, la ejercerá el Presidente Suplente. En ausencia de ambos, asumirán el cargo, por su orden, los Secretarios.
 
 Las faltas de los secretarios propietarios serán cubiertas por los suplentes, y en caso de ausencia de éstos, por quien designe el Presidente del Congreso del Estado.
 
@@ -993,7 +1031,9 @@ XV. Aplicar las medidas disciplinarias que le faculte expresamente la ley, al di
 
 XVI. Conocer de las solicitudes de permisos y licencias de los diputados y proceder en los términos de esta ley;
 
-XVII. Citar a sesiones extraordinarias, cuando lo señale la Ley, lo acuerde la asamblea o lo considere necesario, en cuyo caso deberá hacerlo con veinticuatro horas de anticipación como mínimo.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2017)</small>
+
+XVII. Citar a sesiones dentro de los períodos ordinarios, cuando lo señale la Ley, lo acuerde la asamblea o lo considere necesario, en cuyo caso deberá hacerlo con veinticuatro horas de anticipación como mínimo;
 
 XVIII. Preservar la libertad de expresión y conducir en orden los debates y las deliberaciones;
 
@@ -1039,35 +1079,75 @@ IX. Apoyarse para el desempeño de sus labores en la Oficialía Mayor del Congre
 
 X. Las demás que se deriven de esta Ley, de las disposiciones legales o acuerdos del Pleno.
 
-### CAPÍTULO III. DE LA COMISIÓN PERMANENTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE FEBRERO DE 2017)</small>
+
+### CAPÍTULO III. DE LA COMISION PERMANENTE
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 79.
 
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
+Durante los períodos de receso del Congreso, la representación política y jurídica del Poder Legislativo radicará en una Comisión Permanente, integrada por cinco diputados propietarios y cinco diputados suplentes.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 80.
 
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
+En la última sesión de un periodo ordinario, el Congreso deberá elegir un Presidente, dos secretarios y dos vocales, propietarios con sus respectivos suplentes, para integrar la Comisión Permanente que fungirá durante todo el receso, aun cuando el Congreso funcione en periodos extraordinarios.
+
+Si un partido político tuviere dos diputados acreditados en la Legislatura, uno de ellos podrá asistir a las sesiones de la Comisión Permanente con derecho a voz.
+
+Las faltas del Presidente o cualquiera de los secretarios o vocales, serán cubiertas por sus respectivos suplentes.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 81.
 
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
+La Comisión Permanente se instalará el primer día de su ejercicio y acordará los días y hora de sus sesiones, debiendo celebrar, cuando menos, una sesión semanal, en el recinto oficial del Congreso.
+
+La Comisión Permanente se reunirá siempre que fuere convocada por su Presidente y podrá funcionar con la asistencia de tres de sus integrantes, como mínimo.
+
+Los acuerdos de la Comisión Permanente se tomarán por el voto de la mayoría de los diputados integrantes presentes en la sesión.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 82.
 
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
+Son atribuciones de la Comisión Permanente:
+
+I.- Llevar la correspondencia;
+
+II.- Tomar la protesta de ley al Gobernador, a los Magistrados del Tribunal Superior de Justicia, al Titular de la Entidad de Auditoría Superior del Estado y a los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango.
+
+III.- Recibir los avisos de ausencia del Gobernador y conceder las autorizaciones, o, en su caso, licencias que solicite el Gobernador y los Magistrados del Tribunal Superior de Justicia y miembros del Consejo de la Judicatura;
+
+IV.- Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso;
+
+V.- Presidir los períodos extraordinarios de sesiones del Congreso; y
+
+VI.- Recibir las iniciativas de ley y turnarlas para su estudio y dictamen, a las comisiones legislativas que corresponda; y
+
+VII.- Las demás que le confiera esta Ley.
+
+La Comisión Permanente podrá otorgar premios y distinciones según las prevenciones establecidas en la legislación respectiva.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 83.
 
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
+En la segunda sesión del periodo ordinario siguiente de la Legislatura, la Comisión Permanente dará cuenta de las labores desarrolladas, entregando un informe acompañado de los expedientes que hubiere formado.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 84.
 
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
+Las iniciativas y demás asuntos que sean de competencia exclusiva del Pleno, la Comisión Permanente deberá reservarlos para el periodo ordinario siguiente, salvo que por su importancia, se convoque a periodo extraordinario de sesiones para sustanciarlos.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 85.
 
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2013)
+La elección de la Comisión Permanente deberá comunicarse por oficio a los titulares de los poderes Ejecutivo y Judicial y a los Ayuntamientos del Estado, a las Cámaras del Congreso de la Unión, a las Legislaturas de las entidades federativas y a la Asamblea Legislativa del Distrito Federal.
 
 ### CAPÍTULO IV. DE LA GRAN COMISIÓN
 
@@ -2889,11 +2969,21 @@ Si las observaciones sólo fueron parciales, el estudio y dictamen versará excl
 
 La Comisión o comisiones dictaminadoras, tendrán un plazo de hasta diez días hábiles, contados a partir de haberse declarado en Sesión Permanente para presentar su nuevo dictamen al Pleno.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2017)</small>
+
+Si el Congreso del Estado estuviere en receso, deberá entregarse el nuevo dictamen a la Comisión Permanente en la sesión inmediata a su aprobación en Comisión o comisiones dictaminadoras o, en su caso, el día en que concluya el plazo establecido.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 234.
 
-Recibido el nuevo dictamen por la Mesa Directiva, ésta convocará a sesión para que el pleno resuelva, dentro de los tres días hábiles siguientes a la fecha en que haya recibido el nuevo dictamen, para debatirlo y votarlo en el Pleno.
+Recibido el nuevo dictamen por la Comisión Permanente, ésta convocará a un periodo extraordinario de sesiones, que se abrirá dentro de los tres días hábiles siguientes a la fecha en que haya recibido el nuevo dictamen, para debatirlo y votarlo en el Pleno.
+
+La ratificación del contenido original de la ley o decreto observada por el Gobernador del Estado, deberá ser aprobada por las dos terceras partes de los diputados integrantes de la legislatura.
+
+En caso de ser ratificado el contenido original de la ley o decreto observado, se remitirá de nueva cuenta al Gobernador del Estado para su promulgación y publicación, en un plazo no mayor a diez días hábiles siguientes a su recepción.
+
+En caso de no hacerlo, el Presidente de la Mesa Directiva la promulgará y publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 ###### Artículo 235.
 
@@ -3732,3 +3822,15 @@ P.O. 29 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 5 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 58.- POR EL CUAL SE REFORMAN, MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Realizado lo anterior, el Presidente de la Mesa Directiva en funciones, mandará en la sesión ordinaria relativa, insertar en la orden del día, en punto relativo a la elección de la Comisión Permanente correspondiente al periodo de receso que corresponda.
+
+TERCERO.- La Comisión Permanente a la que se refiere la disposición anterior, será instalada al día siguiente en el que se declare clausurado el periodo de receso respectivo.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo contenido en el presente Decreto.
