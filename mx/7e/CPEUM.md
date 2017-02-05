@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2016-08-15"
+last_updated: "2017-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE FEBRERO DE 2017.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -700,8 +700,6 @@ VI. Solicitar las medidas cautelares y providencias necesarias para la protecci�
 
 VII. Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
 
-(VÉASE ARCHIVO ANEXO)
-
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 ###### Art. 21.
@@ -823,6 +821,10 @@ La ley establecerá los mecanismos que faciliten la organización y la expansió
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2013)</small>
 
 La ley alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones para que el desenvolvimiento del sector privado contribuya al desarrollo económico nacional, promoviendo la competitividad e implementando una política nacional para el desarrollo industrial sustentable que incluya vertientes sectoriales y regionales, en los términos que establece esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 5 DE FEBRERO DE 2017)</small>
+
+A fin de contribuir al cumplimiento de los objetivos señalados en los párrafos primero, sexto y noveno de este artículo, las autoridades de todos los órdenes de gobierno, en el ámbito de su competencia, deberán implementar políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establezca la ley general en la materia.
 
 > <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO DÉCIMO CUARTO DEL DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL D.O.F. 29 DE ENERO DE 2016, A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DE ESTE DECRETO, TODAS LAS REFERENCIAS QUE EN ESTA CONSTITUCIÓN Y DEMÁS ORDENAMIENTOS JURÍDICOS SE HAGAN AL "DISTRITO FEDERAL", DEBERÁN ENTENDERSE HECHAS A LA "CIUDAD DE MÉXICO".]</small>
 
@@ -2288,9 +2290,9 @@ Las leyes generales contemplarán también la distribución de competencias y la
 
 b) La legislación que establezca los delitos y las faltas contra la Federación y las penas y sanciones que por ellos deban imponerse; así como legislar en materia de delincuencia organizada;
 
-> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 5 DE FEBRERO DE 2017)</small>
 
-c) La legislación única en materia procedimental penal, de mecanismos alternativos de solución de controversias, de ejecución de penas y de justicia penal para adolescentes, que regirá en la República en el orden federal y en el fuero común.
+c) La legislación única en materia procedimental penal, de mecanismos alternativos de solución de controversias en materia penal, de ejecución de penas y de justicia penal para adolescentes, que regirá en la República en el orden federal y en el fuero común.
 
 Las autoridades federales podrán conocer de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales o delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta.
 
@@ -2353,6 +2355,10 @@ f).- Explotación forestal;
 g).- Producción y consumo de cerveza.
 
 Las entidades federativas participarán en el rendimiento de estas contribuciones especiales, en la proporción que la ley secundaria federal determine. Las legislaturas locales fijarán el porcentaje correspondiente a los Municipios, en sus ingresos por concepto del impuesto sobre energía eléctrica.
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2017)</small>
+
+XXIX-A. Para expedir la ley general que establezca los principios y bases en materia de mecanismos alternativos de solución de controversias, con excepción de la materia penal;
 
 > <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 1967)</small>
 
@@ -2436,9 +2442,9 @@ XXIX-P.- Expedir leyes que establezcan la concurrencia de la Federación, las en
 
 XXIX-Q.- Para legislar sobre iniciativa ciudadana y consultas populares.
 
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2017)</small>
 
-XXIX-R.- Para expedir la ley general que armonice y homologue la organización y el funcionamiento de los registros públicos inmobiliarios y de personas morales de las entidades federativas y los catastros municipales;
+XXIX-R. Para expedir las leyes generales que armonicen y homologuen la organización y el funcionamiento de los registros civiles, los registros públicos inmobiliarios y de personas morales de las entidades federativas y los catastros municipales;
 
 > <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
@@ -2463,6 +2469,14 @@ XXIX-W. Para expedir leyes en materia de responsabilidad hacendaria que tengan p
 > <small>(ADICIONADA, D.O.F. 25 DE JULIO DE 2016)</small>
 
 XXIX-X. Para expedir la ley general que establezca la concurrencia de la federación, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de las víctimas.
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2017)</small>
+
+XXIX-Y. Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de sus respectivas competencias, en materia de mejora regulatoria;
+
+> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2017)</small>
+
+XXIX-Z. Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de su respectiva competencia, en materia de justicia cívica e itinerante, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -8061,3 +8075,37 @@ D.O.F. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARAN REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS, MEJORA REGULATORIA, JUSTICIA CÍVICA E ITINERANTE Y REGISTROS CIVILES”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En un plazo que no excederá de 180 días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión expedirá las leyes generales a que se refieren las fracciones XXIX-A, XXIX-R, XXIX-Y y XXIX-Z de esta Constitución.
+
+Tercero.- La ley general en materia de registros civiles a que se refiere la fracción XXIX-R del artículo 73 de esta Constitución deberá prever, al menos: la obligación de trabajar con formatos accesibles de inscripción; la estandarización de actas a nivel nacional; medidas de seguridad física y electrónica; la posibilidad de realizar trámites con firmas digitales; de realizar consultas y emisiones vía remota; el diseño de mecanismos alternos para la atención de comunidades indígenas y grupos en situación de especial vulnerabilidad y marginación; mecanismos homologados de captura de datos; simplificación de procedimientos de corrección, rectificación y aclaración de actas.
+
+Los documentos expedidos con antelación a la entrada en vigor de la ley a que se refiere el segundo transitorio del presente Decreto, continuarán siendo válidos conforme a las disposiciones vigentes al momento de su expedición. Asimismo, los procedimientos iniciados y las resoluciones emitidas con fundamento en dichas disposiciones deberán concluirse y ejecutarse, respectivamente, conforme a las mismas.
+
+Cuarto.- La legislación federal y local en materia de mecanismos alternativos de solución de controversias continuará vigente hasta en tanto entre en vigor la legislación a que se refiere el presente Decreto, por lo que los procedimientos iniciados y las sentencias emitidas con fundamento en las mismas, deberán concluirse y ejecutarse, conforme a lo previsto en aquéllas.
+
+Quinto.- La legislación en materia de mecanismos alternativos de solución de controversias de la federación y de las entidades federativas deberá ajustarse a lo previsto en la ley general que emita el Congreso de la Unión conforme al artículo 73, fracción XXIX-A de esta Constitución.
+
+Sexto.- La ley general en materia de mejora regulatoria a que se refiere el artículo 73, fracción XXIX-Y de esta Constitución deberá considerar al menos, lo siguiente:
+
+a) Un catálogo nacional de regulaciones, trámites y servicios federales, locales y municipales con el objetivo de generar seguridad jurídica a los particulares.
+
+b) Establecer la obligación para las autoridades de facilitar los trámites y la obtención de servicios mediante el uso de las tecnologías de la información, de conformidad con su disponibilidad presupuestaria.
+
+c) La inscripción en el catálogo será obligatoria para todas las autoridades en los términos en que la misma disponga.
+
+Séptimo.- La ley general en materia de justicia cívica e itinerante a que se refiere el artículo 73, fracción XXIX-Z de esta Constitución deberá considerar, al menos lo siguiente:
+
+a) Los principios a los que deberán sujetarse las autoridades para que la justicia itinerante sea accesible y disponible a los ciudadanos;
+
+b) Las bases para la organización y funcionamiento de la justicia cívica en las entidades federativas, y
+
+c) Los mecanismos de acceso a la justicia cívica e itinerante y la obligación de las autoridades de cumplir con los principios previstos por la ley.
+
+Las legislaturas de las entidades federativas proveerán de los recursos necesarios para cumplir con lo dispuesto en el presente artículo transitorio.
