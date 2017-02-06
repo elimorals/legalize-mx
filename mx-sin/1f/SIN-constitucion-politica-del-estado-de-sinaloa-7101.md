@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2017-02-01"
+last_updated: "2017-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2017.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -583,9 +583,9 @@ Para poder figurar como candidato en la lista de la circunscripción electoral p
 
 III. Sea mayor de 21 años en la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
-IV. No podrán ser electos diputados propietarios o suplentes: El Gobernador del Estado, los Secretarios y Sub-Secretarios y titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal los Magistrados del Supremo Tribunal de Justicia y el Procurador General de Justicia; los Jueces de Primera Instancia, los Recaudadores de Rentas y los Presidentes Municipales, en los Distritos Electorales en donde ejerzan sus funciones; los diputados y senadores al Congreso de la Unión, que se encontraren en ejercicio; las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o Municipios y los Ministros de Cualquier culto. Los ciudadanos antes referidos, con excepción de los Ministros de los cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos 90 días antes de la elección.
+IV. No podrán ser electos diputados propietarios o suplentes: el Gobernador del Estado; los secretarios y subsecretarios y titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal; los titulares de los órganos constitucionales autónomos; los magistrados del Supremo Tribunal de Justicia; los jueces de Primera Instancia; los recaudadores de rentas y los presidentes municipales, en los distritos electorales en donde ejerzan sus funciones; los diputados y senadores al Congreso de la Unión que se encontraren en ejercicio; las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o municipios y los ministros de cualquier culto. Los ciudadanos antes referidos, con excepción de los ministros de cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos noventa días antes de la elección.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2015)</small>
 
@@ -697,9 +697,9 @@ El Congreso del Estado revisará, aprobará, hará observaciones o suspenderá y
 
 Cuando se decrete la suspensión de la aprobación de una cuenta pública, ésta deberá ser nuevamente discutida en el siguiente período ordinario de sesiones, previa a la revisión y aprobación en su caso, de la que corresponda al mismo.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
-En caso de que en la revisión de una cuenta pública o de la información sobre aplicación de recursos de cualquier ente fiscalizable, se encuentren irregularidades o hechos que hagan presumir la existencia de delitos o que impliquen responsabilidades de cualquier tipo, la Auditoría Superior del Estado presentará las denuncias o querellas que correspondan ante la Procuraduría General de Justicia del Estado, o ante los órganos de control interno de los Poderes del Estado o de los municipios, según el caso.
+En caso de que en la revisión de una cuenta pública o de la información sobre aplicación de recursos de cualquier ente fiscalizable, se encuentren irregularidades o hechos que hagan presumir la existencia de delitos o que impliquen responsabilidades de cualquier tipo, la Auditoría Superior del Estado deberá presentar las denuncias o querellas que correspondan ante la Fiscalía General del Estado. De igual forma las presentará ante los órganos de control interno de los Poderes del Estado, de los municipios o de los órganos constitucionales autónomos, según el caso.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
 
@@ -735,7 +735,9 @@ Si el Congreso estuviere en período extraordinario de sesiones cuando deba come
 
 El quince de noviembre de cada año, el Ejecutivo del Estado enviará al Congreso del Estado un informe por escrito sobre la situación que guarda la Administración Pública.
 
-El Congreso del Estado realizará el análisis del informe y podrá solicitar al titular del Ejecutivo del Estado ampliar la información mediante pregunta por escrito y citar a los Secretarios, al Procurador General del Estado, a los directores de las entidades paraestatales quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley Orgánica del Congreso regulará el ejercicio de esta facultad.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+
+El Congreso del Estado realizará el análisis del informe y podrá solicitar al titular del Ejecutivo del Estado ampliar la información mediante preguntas por escrito y citar a los secretarios de Despacho y a los directores de las entidades paraestatales, quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley Orgánica del Congreso regulará el ejercicio de esta facultad.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1961)</small>
 
@@ -915,7 +917,11 @@ XXXIV. Citar a comparecer a la autoridad o servidor público que se hubieren neg
 
 Lo anterior, a solicitud del Presidente de ese organismo y previo Dictamen de procedencia emitido por las Comisiones Permanentes de Derechos Humanos y la relativa al cargo que desempeñen dichos servidores, aprobado por el Pleno.
 
-XXXV. Todas las demás facultades que las leyes le otorguen.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE FEBRERO DE 2017)</small>
+
+XXXV. Elegir al Fiscal General del Estado y objetar su remoción, en los términos que precisa esta Constitución, así como tomarle la protesta de ley.
+
+XXXVI. Todas las demás facultades que las leyes le otorguen.
 
 ###### Art. 44.
 
@@ -1133,9 +1139,9 @@ III. Haber conservado su domicilio en el Estado, seis meses al menos, inmediatam
 
 IV. Haber obtenido la mayoría de sufragios legales. En caso de empate en la votación, se convocará a nuevas elecciones.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
-V. No haber sido Secretario, Sub-Secretario o titular de cualesquiera de las entidades de la Administración Pública Estatal o paraestatal; Magistrado del Supremo Tribunal de Justicia, Procurador General de Justicia; Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, Diputado y Senador al Congreso de la Unión, que se encontrare en ejercicio; haber tenido mando de fuerza de la Federación, Estado o Municipios o ser Ministro de cualquier culto. Los ciudadanos antes referidos, con excepción de los Ministros de los cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos 90 días antes de la elección.
+V. No haber sido Secretario, Subsecretario o titular de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal; los titulares de los órganos constitucionales autónomos; Magistrado del Supremo Tribunal de Justicia, Juez de Primera Instancia; Recaudador de Rentas o Presidente Municipal; Diputado y Senador al Congreso de la Unión que se encontrare en ejercicio; haber tenido mando de fuerza de la Federación, Estado o municipios, o ser ministro de cualquier culto. Los ciudadanos antes referidos, con excepción de los ministros de cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos 90 días antes de la elección.
 
 VI. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna azonada, motín a (sic) cuartelazo promovido contra las instituciones de la Nación o del Estado.
 
@@ -1271,9 +1277,9 @@ XXI Bis B. Incluir anualmente, dentro de la iniciativa de Ley de Ingresos y Pres
 
 XXI Bis C. Informar anualmente al Congreso, sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de la deuda pública estatal, al rendir la cuenta pública. Incluyendo, asimismo, información detallada sobre los contratos de colaboración público privada en vigor, sobre el otorgamiento de garantías y avales y sobre la afectación de sus ingresos, como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables, en su caso;
 
-> <small>(REFORMADA P.O. 13 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
-XXII. Designar, con la ratificación del Congreso del Estado o de su Diputación Permanente, al Procurador General de Justicia, ratificación sin la cual no surtirá efecto la designación.
+XXII. Participar en el proceso de elección y remoción del Fiscal General del Estado en términos de lo previsto por esta Constitución.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -1325,7 +1331,9 @@ Para ser válidos los decretos, reglamentos y acuerdos del Gobernador, deberán 
 
 Los Secretarios de la Administración Pública Estatal, al inicio de cada Período Ordinario de Sesiones, enviarán al Congreso del Estado un informe por escrito sobre la situación que guarda la Secretaría a su cargo.
 
-El Congreso del Estado podrá convocar a los Secretarios de Estado, al Procurador General de Justicia del Estado, a los Directores de las entidades paraestatales, así como a los titulares de los órganos autónomos, unidades administrativas, organismos descentralizados y desconcentrados o de carácter estatal para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades o para que respondan a interpelaciones o preguntas.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+
+El Congreso del Estado podrá convocar a los secretarios de Despacho, a los directores de las entidades paraestatales, así como a los titulares de los órganos constitucionales autónomos, unidades administrativas, organismos descentralizados y desconcentrados o de carácter estatal para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, o para que respondan a interpelaciones o preguntas.
 
 El Congreso del Estado podrá requerir información o documentación a los titulares de las dependencias y entidades del gobierno estatal, mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor de 15 días naturales a partir de su recepción. El ejercicio de estas atribuciones se realizará de conformidad con la Ley Orgánica del Congreso del Estado.
 
@@ -1393,39 +1401,77 @@ Para lograr la reinserción social de los delincuentes y menores infractores, el
 
 La Ley precisará los requisitos para ser titular e integrante de los centros e instituciones encargadas de la reinserción social y del tratamiento de menores infractores.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
 ###### Art. 76.
 
-El Ministerio Público es una institución de buena fe, dependiente del Poder Ejecutivo, con autonomía técnica para realizar las funciones de su competencia.
+El Ministerio Público, como representante de la sociedad en Sinaloa, se organiza en una Fiscalía General del Estado.
 
-Dicha institución tendrá como misión velar por la legalidad como principio rector de la convivencia social, investigar y perseguir los delitos del orden común en los términos que señale la Ley; participar en los procedimientos que afecten a personas a quienes las leyes otorguen especial protección, así como las facultades y obligaciones establecidas en su Ley Orgánica y otros ordenamientos legales.
+Como órgano público autónomo, dotado de personalidad jurídica, de patrimonio propio y capacidad para decidir para el ejercicio de su presupuesto, promotor, respetuoso, protector y garante de los derechos humanos, se regirá en su actuación por los principios de constitucionalidad, debido proceso, buena fe, autonomía, legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto de la dignidad humana.
 
-El Ministerio Público estará presidido por un Procurador General de Justicia, quien se auxiliará con los Agentes y demás personal que determine la Ley Orgánica de la institución, misma que fijará sus respectivas atribuciones y determinará su organización.
+Las bases de la Fiscalía General del Estado, son:
 
-Para la investigación de los delitos y persecución de los delincuentes, el Ministerio Público se auxiliará con una policía que estará bajo su autoridad y mando inmediato.
+a) Cumplir en el ámbito de su competencia, con las disposiciones que la Constitución Política de los Estados Unidos Mexicanos fundamenta en la actuación del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2001)</small>
+b) La investigación como la persecución ante los tribunales locales de los delitos del orden común cometidos en el territorio del Estado, corresponden al Ministerio Público y a los elementos policiacos del sistema de seguridad pública, los cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
+
+c) La Fiscalía General del Estado para el ejercicio de sus funciones contará con los vicefiscales general, especializados y/o regionales, policías de investigación y demás personal que estará bajo su autoridad en los términos que establezca la ley.
+
+d) El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público.
+
+La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial. El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
+
+e) El Ministerio Público procurará que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita, pedir la aplicación de las penas y la reparación del daño e intervenir en todos los negocios que la ley determine.
+
+f) La ley establecerá los medios de impugnación a través de los cuales las víctimas u ofendidos del delito podrán recurrir, por la vía jurisdiccional, las omisiones de la Fiscalía General en la investigación de los delitos, así como las resoluciones sobre la reserva de las investigaciones preliminares, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
+
+g) Contará con un Consejo Consultivo el cual será presidido por el Fiscal General quien será el único consejero que sea servidor público.
+
+El Consejo Consultivo estará integrado además por personas ciudadanas de la sociedad sinaloense de reconocido prestigio y cuya función la desempeñarán de forma honorífica.
+
+La Ley fijará las características y funciones del Consejo Consultivo, así como la elección de sus miembros honoríficos.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2017)</small>
+
+###### Art. 76 Bis.
+
+Al mando de la Fiscalía General del Estado estará un Fiscal General que durará en su encargo siete años y no podrá ser reelecto, el cual será designado y, en su caso, removido conforme a lo siguiente:
+
+I. La Coordinación General del Consejo Estatal de Seguridad Pública, previa Convocatoria Pública seleccionará cinco personas para ser propuestas al Gobernador del Estado a fin de que proponga al Congreso del Estado a tres personas que considere idóneas para ocupar el cargo de Fiscal General, quienes deberán cumplir con los requisitos de elegibilidad previstos en esta Constitución.
+
+II. El Congreso del Estado, previa comparecencia de aspirantes, designará al Fiscal General con el voto de las dos terceras partes de sus miembros presentes dentro del plazo de diez días hábiles. Si el Congreso del Estado no hace la designación en el plazo establecido, el Poder Ejecutivo en un término no mayor a cinco días naturales, designará al Fiscal General del Estado de entre la propuesta referida en la fracción I.
+
+III. El Fiscal General podrá ser removido por el Gobernador por las causas previstas en la ley. La remoción podrá ser objetada por el voto de las dos terceras partes de los miembros presentes en el Congreso dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+
+IV. En los recesos del Congreso, la Diputación Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General. En este caso, los plazos de diez días hábiles previstos en las fracciones II y III anteriores, se computarán a partir de la convocatoria a sesiones extraordinarias.
+
+V. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
+
+El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo del Estado un informe de actividades.
+
+Comparecerá ante cualquiera de ellos cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+El Fiscal General del Estado, los vicefiscales general, especializados y/o regionales, policías de investigación o demás personal bajo su autoridad, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+
+Durante el ejercicio de su cargo, el Fiscal General no podrá desempeñar actividades profesionales que impliquen el ejercicio libre y/o remunerado de su profesión, salvo las actividades docentes, científicas, culturales, de investigación o beneficencia.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
 ###### Art. 77.
 
-El Procurador General de Justicia será designado por el titular del Poder Ejecutivo Estatal, con ratificación del Congreso del Estado o de su Diputación Permanente, según corresponda. El Procurador podrá ser removido por causa justificada por el Ejecutivo. El Subprocurador General y los Subprocuradores Regionales serán nombrados y removidos por el Procurador General de Justicia, previo acuerdo con el Gobernador del Estado. Los Agentes del Ministerio Público y demás servidores públicos de la Procuraduría General de Justicia serán nombrados y removidos libremente por el Procurador General de Justicia.
+Para ser Fiscal General del Estado se requiere:
 
-Para ser Procurador General de Justicia se requiere:
+I. Ser ciudadano mexicano por nacimiento.
 
-I. Ser ciudadano sinaloense en pleno goce de sus derechos;
+II. Tener, cuando menos, treinta y cinco años cumplidos al día de su designación.
 
-II. Ser licenciado en derecho con título legalmente expedido;
+III. Contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho.
 
-III. Tener más de treinta años de edad;
+IV. Gozar de buena reputación.
 
-IV. Acreditar ejercicio profesional de diez años, por lo menos;
+V. No haber sido condenado por delito doloso.
 
-V. Ser de honradez y probidad notorias; y,
-
-VI. No haber sido condenado por delitos dolosos.
-
-El Procurador General de Justicia no podrá desempeñar otro cargo, empleo o comisión por el que se perciban emolumentos, excepto de enseñanza, ni litigar más que en asuntos propios. En caso de incumplimiento a esta disposición, será destituido.
+De igual forma percibirá las mismas prestaciones y emolumentos legales o normativos internos, salariales y/o de cualquier especie del Magistrado Presidente del Supremo Tribunal de Justicia del Estado.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ENERO DE 1993)</small>
 
@@ -1803,7 +1849,9 @@ V. Haber residido en el Estado de Sinaloa durante los últimos cinco años, salv
 
 Los Magistrados de Circuito sólo podrán ser privados de sus cargos conforme a las causas y procedimientos contenidos en esta Constitución.
 
-Las Salas del Supremo Tribunal de Justicia de oficio, o a petición fundada de las Salas de Circuito o del Procurador General de Justicia podrán conocer de los asuntos de competencia de las Salas de Circuito cuando por sus características especiales, su trascendencia o importancia así lo ameriten.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+
+Las Salas del Supremo Tribunal de Justicia, de oficio o a petición fundada de las Salas de Circuito, o por requerimiento del Fiscal General del Estado, podrán conocer de los asuntos de competencia de las Salas de Circuito cuando sus características especiales, su trascendencia o importancia así lo ameriten.
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1969,7 +2017,7 @@ La Comisión Estatal para el Acceso a la Información Pública coordinará sus a
 
 ### CAPITULO II. DEL JUICIO POLITICO
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
 ## TITULO V. DEL MUNICIPIO LIBRE
 
@@ -2323,7 +2371,7 @@ Ningún servidor público del Gobierno del Estado y de los Ayuntamientos tiene d
 
 ###### Art. 132.
 
-Podrán ser sujetos de juicio político, para sancionar su responsabilidad, el Gobernador, los Diputados Locales, los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados de las Salas de Circuito del Poder Judicial del Estado, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los Titulares y Directores, o sus equivalentes, de las entidades, instituciones u organismos que integren la administración pública paraestatal conforme al primer párrafo del artículo 130, así como los Presidentes Municipales, Regidores y Síndicos Procuradores de los Ayuntamientos y comisionados del organismo garante a que se refiere el artículo 109 Bis B de la presente Constitución.
+Podrán ser sujetos de juicio político, para sancionar su responsabilidad, el Gobernador, los diputados locales, los magistrados del Supremo Tribunal de Justicia del Estado, los magistrados de las Salas de Circuito del Poder Judicial del Estado, los secretarios de Despacho del Poder Ejecutivo, los jueces de Primera Instancia, así como los titulares y directores, o sus equivalentes, de las entidades, instituciones u organismos que integren, la Administración Pública Paraestatal, conforme al primer párrafo del artículo 130, así como los titulares de los órganos constitucionales autónomos, presidentes municipales, regidores y síndicos procuradores de los ayuntamientos.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2367,9 +2415,9 @@ La Legislatura Local procederá conforme a lo previsto en este Capítulo, tratá
 
 Todo servidor público es penalmente responsable por los delitos que cometa y su conducta delictuosa será perseguida y sancionada conforme a las leyes penales.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
-Se requiere declaratoria previa del Congreso del Estado, erigido en Jurado de Acusación, por mayoría absoluta de los Diputados presentes, de que ha lugar a proceder penalmente en contra del inculpado, tratándose de delitos atribuidos a Diputados de la Legislatura Local, Magistrados del Supremo Tribunal de Justicia, Secretarios del Despacho del Poder Ejecutivo, Procurador General de Justicia, Presidentes Municipales y Comisionados del organismo garante a que se refiere el artículo 109 Bis B de la presente Constitución, quienes serán juzgados por la autoridad competente.
+Se requiere declaratoria previa del Congreso del Estado, erigido en Jurado de Acusación por mayoría absoluta de los diputados presentes, de que ha lugar a proceder penalmente en contra del inculpado, tratándose de delitos atribuidos a diputados de la Legislatura Local, magistrados del Supremo Tribunal de Justicia, jueces de primera instancia, secretarios de Despacho del Poder Ejecutivo, presidentes municipales y titulares de órganos constitucionales autónomos, quienes serán juzgados por la autoridad competente.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2463,9 +2511,9 @@ II. La protesta se pide y se dá por interpelación entre los siguientes servido
 
 (2).- Al Gobernador y a los Magistrados del Supremo Tribunal de Justicia del Estado, les tomará la protesta en solemne sesión pública, ordinaria o extraordinaria, el Presidente de la Cámara.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
-(3).- A los titulares de las Entidades de la Administración Pública Estatal y Paraestatal, al Procurador General de Justicia y al Recaudador de Rentas con residencia en la Capital del Estado, les tomará la protesta el Ciudadano Gobernador y ellos a su vez, a los demás servidores públicos de sus dependencias que residen en la capital. En cuanto a los subalternos foráneos de las diversas dependencias administrativas del Ejecutivo, les tomará la protesta el Presidente Municipal en cuya circunscripción territorial ejerzan sus cargos.
+(3).- A los titulares de las entidades de la Administración Pública Estatal y Paraestatal, al Recaudador de Rentas con residencia en la capital del Estado, les tomará la protesta el ciudadano Gobernador y ellos, a su vez, a los demás servidores públicos de sus dependencias que residan en la capital. En cuanto a los subalternos foráneos de las diversas dependencias administrativas del Ejecutivo, les tomará la protesta el Presidente Municipal en cuya circunscripción territorial ejerzan sus cargos.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -3865,29 +3913,67 @@ PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su
 
 SEGUNDO. Para dar cumplimiento a lo establecido en el presente Decreto, el Estado y los Municipios, implementarán de manera paulatina y en función de la suficiencia presupuestaria de cada uno de ellos, las medidas para destinar espacios, adquirir e instalar equipos y difundir socialmente cuáles son los espacios, escuelas y demás edificios públicos en los que se prestará el servicio.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+P.O. 6 DE FEBRERO DE 2017.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial ‘Gaceta del Gobierno”.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 66 QUE REFORMA LOS ARTÍCULOS 25, FRACCIÓN IV; 37, PÁRRAFO OCTAVO; 40, PÁRRAFO SEGUNDO; 43, FRACCIÓN XXXV, RECORRIÉNDOSE LA VIGENTE EN SU ORDEN; 56, FRACCIÓN V; 65, FRACCIÓN XXII; 70, PÁRRAFO SEGUNDO; 76; 77; 105 BIS, PÁRRAFO ÚLTIMO; 132; 135, PÁRRAFO SEGUNDO, Y 144, FRACCIÓN II, NUMERAL 3; Y ADICIONA EL ARTÍCULO 76 BIS, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
-SEGUNDO. El presente Decreto entrará en vigor el primero de enero de dos mil diecisiete.
+###### ARTÍCULO PRIMERO.
 
-TERCERO. La Comisión Estatal de Factibilidad se deberá instalar en un plazo máximo de 30 días naturales siguientes a la entrada en vigor del presente Decreto.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
-CUARTO. La Comisión Estatal de Factibilidad emitirá su Reglamento interior dentro de los 30 días naturales posteriores a su instalación.
+###### ARTÍCULO SEGUNDO.
 
-QUINTO. A la entrada en vigor del presente decreto, los dictámenes y las prórrogas emitidas con anterioridad, conservarán la vigencia que tengan establecida.
+A partir de la entrada en vigor del presente decreto, la Coordinación General del Consejo Estatal de Seguridad Pública, previa Convocatoria Pública seleccionará cinco personas para ser propuestas al Gobernador del Estado a fin de que proponga al Poder Legislativo a más tardar en un término de cinco días naturales, la terna para la designación de Fiscal General del Estado. El Poder Legislativo deberá designar a la o el Fiscal General del Estado dentro del plazo de diez días hábiles contados a partir de recibida la propuesta para Fiscal General de parte del Poder Ejecutivo. Si el Poder Legislativo no hace la designación en el plazo establecido, el Poder Ejecutivo en un término no mayor a cinco días naturales designará al Fiscal General del Estado.
 
-SEXTO. Los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la legislación aplicable al momento en que se iniciaron.
+###### ARTÍCULO TERCERO.
 
-La persona física o jurídico colectiva que haya iniciado procedimientos antes de la entrada en vigor del presente decreto, podrá elegir la continuidad del mismo, o bien, reiniciar bajo los procedimientos establecidos en el presente decreto, en cuyo caso se admitirán los dictámenes ya obtenidos de las diferentes dependencias del Gobierno del Estado de México.
+El Congreso del Estado deberá expedir la Ley de la Fiscalía a más tardar en un plazo de 6 meses contado a partir de la fecha de publicación del presente decreto. En tanto el Congreso del Estado expide la Ley de la Fiscalía, la Fiscalía General creada por este decreto ejercerá sus atribuciones y competencia conforme al mismo como a la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sinaloa publicada en el periódico oficial "El Estado de Sinaloa" número 144 de fecha 29 de noviembre de 2013, en lo que no se oponga al presente decreto. Para estos efectos, las atribuciones previstas en tal ordenamiento para la Procuraduría General de Justicia del Estado de Sinaloa serán ejercidas por la Fiscalía General del Estado de Sinaloa, y las del Procurador General de Justicia del Estado de Sinaloa por el Fiscal General del Estado de Sinaloa.
 
-SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de factibilidad se tendrá por entendido que serán suplidos por el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad.
+###### ARTÍCULO CUARTO.
 
-OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
+La Fiscalía General del Estado seguirá aplicando todas las disposiciones legales, reglamentarias y administrativas vigentes que no se opongan al presente Decreto, hasta en tanto se expidan y entren en vigor sus propias disposiciones.
 
-NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+###### ARTÍCULO QUINTO.
 
-G.G. 13 DE SEPTIEMBRE DE 2016.
+La Ley de la Fiscalía fijará las vicefiscalías general, especializadas y/o regionales, órganos de supervisión y control interno, unidades de policía de investigación, de servicios periciales, de justicia restaurativa y demás unidades administrativas para el ejercicio de sus funciones, de conformidad con las normas aplicables y la disponibilidad presupuestal.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor de las presentes reformas, los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de Justicia pasarán a la Fiscalía General del Estado.
+
+Los recursos humanos operativos para ingresar al servicio de carrera, deberán cumplir los requisitos de permanencia que se establezcan en la Ley de la Fiscalía para ingresar a la nueva institución en los dos años siguientes a la entrada en vigor del presente Decreto, de lo contrario se ordenará su reasignación de las plazas, en este último caso, el Gobierno del Estado deberá dotarle al órgano autónomo la disponibilidad presupuestal para la creación de plazas equivalentes a las del personal que se reasigna dentro de los treinta días hábiles siguientes a que la Fiscalía le notifique el resultado de la evaluación a la Secretaría de Administración y Finanzas, a efecto de no reducir su estado de fuerza ni impactar el presupuesto del nuevo órgano.
+
+La relación de la Fiscalía con sus servidores públicos será de carácter administrativo, en términos de lo dispuesto por el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+
+Los procedimientos substanciados en la Procuraduría General de Justicia y los asuntos que deba asumir la Fiscalía General del Estado serán atendidos de inmediato por el personal que sea transferido a la misma.
+
+Los asuntos que sean de la Procuraduría General de Justicia del Estado, serán distribuidos por el Fiscal General, en términos de las disposiciones que se emitan.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todas las referencias que en la legislación, normatividad y convenios se hagan a la Procuraduría General de Justicia se tendrán por hechas a la Fiscalía General del Estado, salvo que se contrapongan al presente Decreto, caso en el cual se entenderán hechas a favor de la dependencia o entidad a la que competa dicha atribución o facultad.
+
+###### ARTÍCULO OCTAVO.
+
+Conforme a las disposiciones aplicables, el régimen presupuestario del organismo creado en los términos del presente Decreto, deberá garantizar la libre administración, y la suficiencia de recursos públicos. Lo anterior, para que el órgano esté en condiciones de dar cumplimiento a los planes y programas que formule en observancia de su Ley.
+
+La Fiscalía General del Estado tendrá sus propios recursos para el servicio de carrera de su personal, desde la formación inicial hasta la profesionalización.
+
+###### ARTÍCULO NOVENO.
+
+La Legislatura del Estado deberá aprobar los recursos necesarios para la correcta transición de la Procuraduría General de Justicia como dependencia del Ejecutivo Estatal a la Fiscalía General del Estado como órgano autónomo constitucional. Las partidas presupuestales deberán señalarse de manera inmediata en el presupuesto de egresos siguiente al ejercicio fiscal en que entre en vigor el presente Decreto. El presupuesto aprobado para la Procuraduría General de Justicia del Estado en el presente ejercicio fiscal, deberá destinarse al diseño y planeación estratégica, los cambios organizacionales y de gestión, la construcción y operación de la infraestructura, el equipamiento y las tecnologías de la información y comunicación propias del órgano autónomo y la profesionalización necesaria para agentes del Ministerio Público, policías investigadores, peritos, facilitadores de mecanismos alternativos y demás personal de la Institución.
+
+###### ARTÍCULO DÉCIMO.
+
+El titular del Poder Ejecutivo deberá proveer lo necesario para salvaguardar su representación jurídica y la correspondiente a las dependencias y organismos de la Administración Pública.
+
+Los asuntos en los que el Procurador General de Justicia ejerza la representación jurídica del Estado que se encuentren en trámite a la entrada en vigor del Decreto, deberán remitirse dentro de los 20 días hábiles siguientes, a la Secretaría General de Gobierno o a la dependencia que ésta determine.
+
+Los procedimientos señalados en el párrafo que antecede se suspenderán por un plazo de noventa días hábiles; en cada caso, la suspensión será decretada de oficio por los órganos jurisdiccionales ante los cuales se desahoguen dichos procedimientos.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Dentro de los seis meses siguientes de expedida la Ley de la Fiscalía, el Congreso del Estado deberá expedir la convocatoria para la designación de seis integrantes al Consejo Consultivo de la Fiscalía General quienes lo serán de manera honorífica y sus funciones se señalarán en dicha Ley de la Fiscalía.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 125.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES Y SE REFORMA EL PÁRRAFO TERCERO QUE PASA A SER CUARTO PÁRRAFO DEL ARTÍCULO 218 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
 
