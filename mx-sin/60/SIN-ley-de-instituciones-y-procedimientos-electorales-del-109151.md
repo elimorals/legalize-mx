@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2016-12-28"
+last_updated: "2017-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -817,27 +817,15 @@ El convenio que se celebre para integrar un frente deberá presentarse al Instit
 
 Los partidos políticos que integren un frente, conservarán su personalidad jurídica, su registro y su identidad.
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 60.
 
-La solicitud de registro del convenio de coalición, según sea el caso, deberá dirigirse al Consejo General del Instituto según la elección que lo motive, acompañado de la documentación pertinente, a más tardar treinta días antes de que se inicie el periodo de precampaña de la elección de que se trate.
-
-La presidencia del Consejo General del Instituto integrará el expediente e informará al Pleno del mismo.
-
-El Pleno resolverá a más tardar dentro de los diez días siguientes a la presentación del convenio.
-
-Una vez registrado un convenio de coalición, el Instituto dispondrá su publicación en el Periódico Oficial para que surta efectos legales.
-
-En materia de Coaliciones se estará a lo que dispone la Ley General de Partidos Políticos.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2017)
 
 ###### Artículo 61.
 
 Dos o más partidos pueden postular y registrar al mismo candidato, fórmula, planilla o lista de candidatos, pero para ello es indispensable el consentimiento de éstos.
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-LOS VOTOS EN LOS QUE SE HUBIESEN MARCADO MÁS DE UNA OPCIÓN DE LOS PARTIDOS QUE PARTICIPAN EN LA CANDIDATURA COMÚN, SERÁN CONSIDERADOS VÁLIDOS ÚNICAMENTE PARA EL CANDIDATO POSTULADO, CONTARÁN COMO UN SOLO VOTO Y SIN QUE PUEDAN SER TOMADOS EN CUENTA PARA LA ASIGNACIÓN DE REPRESENTACIÓN PROPORCIONAL U OTRAS PRERROGATIVAS.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE FEBRERO DE 2017)</small>
 
 La postulación de candidatos mediante candidaturas comunes deberá ser uniforme. Los partidos políticos que participen en esta forma de postulación, únicamente podrán hacerlo con el mismo o los mismos partidos políticos, en todas las elecciones en que estén participando.
 
@@ -881,11 +869,19 @@ Corresponde al Instituto la función de garantizar los derechos y el acceso a la
 
 ### Capítulo VIII. Del Financiamiento Público y Privado y de los Informes Financieros de los Partidos Políticos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 64.
 
-El financiamiento de los partidos políticos se constituye con el financiamiento público que le otorga el Estado conforme a esta Ley, así como el financiamiento privado y el autofinanciamiento. El financiamiento público debe prevalecer sobre el privado y el autofinanciamiento. Son aplicables en esta materia, en lo procedente, las disposiciones de los títulos quinto, sexto, séptimo y octavo de la Ley General de Partidos Políticos.
+Los partidos políticos tienen derecho a recibir, para desarrollar sus actividades, financiamiento público que se distribuirá de manera equitativa, conforme a lo establecido en la Constitución, Constitución Estatal, a lo dispuesto en la Ley General de Partidos Políticos y en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2017)</small>
+
+El financiamiento público deberá prevalecer sobre otros tipos de financiamiento y será destinado para el sostenimiento de actividades ordinarias permanentes, gastos de procesos electorales y para actividades específicas como entidades de interés público.
 
 Las disposiciones de este capítulo se aplicarán en lo que no contravengan a la Ley General de Partidos Políticos.
+
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ARTÍCULO CONTABA CON TRES APARTADOS; Y CON LA REFORMA PUBLICADA EN EL P.O. DE 6 DE FEBRERO DE 2017, SE PRECISAN ÚNICAMENTE LOS APARTADOS “A” Y “B”.]</small>
 
 ###### Artículo 65.
 
@@ -893,95 +889,67 @@ Los partidos políticos deberán integrar un órgano interno responsable de la o
 
 En caso de que el Instituto Nacional Electoral delegue el ejercicio de la facultad de fiscalización, el Instituto deberá contar con una Comisión que conozca de los asuntos relativos a dicha función. Asimismo deberá contar con una Unidad de Fiscalización, para la recepción, revisión, fiscalización y dictamen de los informes que los partidos políticos presenten sobre el origen y destino de sus recursos. En tal caso, su titular fungirá como Secretario Técnico de la Comisión de Fiscalización.
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL APARTADO A DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
-A. DEL FINANCIAMIENTO PÚBLICO
+A. Del financiamiento público
 
-EL FINANCIAMIENTO PÚBLICO SEGÚN SU DESTINO SE CLASIFICA EN:
+El financiamiento público según su destino se clasifica en:
 
-A) FINANCIAMIENTO ORDINARIO, QUE ES EL QUE SE APLICA EN EL GASTO CORRIENTE PARA LA REALIZACIÓN DE LAS ACTIVIDADES COTIDIANAS DE UN PARTIDO POLÍTICO; Y,
+a) Financiamiento ordinario, que es el que se aplica en el gasto corriente para la realización de las actividades cotidianas de un partido político; y,
 
-B) FINANCIAMIENTO PARA CAMPAÑAS ELECTORALES, QUE ES EL QUE SE APLICA EN LAS MISMAS, CON LA FINALIDAD DE PROMOVER LAS PLATAFORMAS ELECTORALES Y OBTENER EL VOTO DE LOS CIUDADANOS EN LOS COMICIOS CONSTITUCIONALES.
+b) Financiamiento para campañas electorales, que es el que se aplica en las mismas, con la finalidad de promover las plataformas electorales y obtener el voto de los ciudadanos en los comicios constitucionales.
 
-LOS PARTIDOS POLÍTICOS TENDRÁN DERECHO AL FINANCIAMIENTO PÚBLICO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES Y DE CAMPAÑA ELECTORAL, CONFORME A LAS REGLAS SIGUIENTES:
+Los partidos políticos tendrán derecho al financiamiento público de sus actividades ordinarias permanentes y de campaña electoral, conforme a las reglas siguientes:
 
-A) PARA EL SOSTENIMIENTO DE ACTIVIDADES ORDINARIAS PERMANENTES:
+a) Para el sostenimiento de actividades ordinarias permanentes:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+1. El Consejo General, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral de la entidad, a la fecha de corte del último día del mes de julio de cada año, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización vigente;
 
-1. El Consejo General, determinará anualmente el monto total que se distribuirá entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral de la entidad, a la fecha de corte del último día del mes de julio de cada año, por el setenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización;
+2. El resultado de la operación señalada en el numeral anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá en la siguiente forma: un treinta por ciento se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputaciones inmediata anterior;
 
-2. EL RESULTADO DE LA OPERACIÓN SEÑALADA EN EL NUMERAL ANTERIOR CONSTITUYE EL FINANCIAMIENTO PÚBLICO ANUAL A LOS PARTIDOS POLÍTICOS POR SUS ACTIVIDADES ORDINARIAS PERMANENTES Y SE DISTRIBUIRÁ EN LA SIGUIENTE FORMA: UN VEINTE POR CIENTO SE DIVIDIRÁ POR IGUAL ENTRE TODOS LOS PARTIDOS POLÍTICOS, EL OCHENTA POR CIENTO RESTANTE SE DIVIDIRÁ CONFORME A LA VOTACIÓN OBTENIDA POR CADA PARTIDO POLÍTICO EN LA ÚLTIMA ELECCIÓN DE DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL;
+3. Las cantidades que, en su caso, se determinen para cada partido, serán actualizadas durante la primer quincena del mes de enero de cada año, considerando el incremento que se otorgue del valor diario de la Unidad de Medida y Actualización vigente, y serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe junto con la actualización;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+4. Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales; y,
 
-3. Las cantidades que, en su caso, se determinen para cada partido, serán actualizadas durante la primer quincena del mes de enero de cada año, considerando el incremento que se otorgue al valor diario de la Unidad de Medida y Actualización, y se entregarán en ministraciones mensuales conforme al calendario presupuestal que se apruebe junto con la actualización;
+5. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el cinco por ciento del financiamiento público ordinario.
 
-4. CADA PARTIDO POLÍTICO DEBERÁ DESTINAR ANUALMENTE POR LO MENOS EL DOS POR CIENTO DEL FINANCIAMIENTO PÚBLICO QUE RECIBA PARA EL DESARROLLO DE LAS ACTIVIDADES ESPECÍFICAS, CONSISTENTES EN ACTIVIDADES DE FORMACIÓN IDEOLÓGICA, POLÍTICAS Y DE INVESTIGACIONES ACADÉMICAS Y EDITORIALES, Y,
+b) Para gastos de campañas electorales:
 
-5. PARA LA CAPACITACIÓN, PROMOCIÓN Y EL DESARROLLO DEL LIDERAZGO POLÍTICO DE LAS MUJERES, CADA PARTIDO POLÍTICO DEBERÁ DESTINAR ANUALMENTE, EL CINCO POR CIENTO DEL FINANCIAMIENTO PÚBLICO ORDINARIO.
+1. En el año de la elección en que se renueven el Poder Ejecutivo, el Congreso del Estado y los Ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al cincuenta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
 
-B) PARA EL FINANCIAMIENTO A LAS CAMPAÑAS ELECTORALES, SERÁN APLICABLES LAS REGLAS SIGUIENTES:
+2. En el año de la elección en que se renueven solamente el Congreso del Estado y los Ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al treinta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes les correspondan en ese año;
 
-1. EN EL AÑO DE LA ELECCIÓN EN QUE SE RENUEVEN EL PODER EJECUTIVO, EL CONGRESO DEL ESTADO Y LOS AYUNTAMIENTOS, A LOS PARTIDOS POLÍTICOS SE LES OTORGARÁ PARA GASTOS DE CAMPAÑA UN MONTO IGUAL AL DEL FINANCIAMIENTO PÚBLICO QUE PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES LE CORRESPONDA EN ESE AÑO;
+3. El financiamiento de campaña será distribuido aplicando la regla contenida en el numeral 2 del inciso anterior, de este artículo, y será administrado en su totalidad por los partidos políticos, estableciendo el prorrateo conforme lo previsto en la Ley General de Partidos Políticos; y,
 
-2. EN EL AÑO DE LA ELECCIÓN EN QUE SE RENUEVEN SOLAMENTE EL CONGRESO DEL ESTADO Y LOS AYUNTAMIENTOS, A LOS PARTIDOS POLÍTICOS, SE LES OTORGARÁ PARA GASTOS DE CAMPAÑA UN MONTO EQUIVALENTE AL CINCUENTA POR CIENTO DEL FINANCIAMIENTO PÚBLICO QUE PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES LES CORRESPONDAN EN ESE AÑO;
+4. En el caso de que se registren candidatos independientes para el proceso electoral de que se trate, éstos deberán ser considerados como un partido de nuevo registro para la distribución del financiamiento para campañas, por lo que participarán de la parte correspondiente al veinte por ciento que se distribuye de manera igualitaria entre todos los partidos políticos.
 
-3. EL FINANCIAMIENTO DE CAMPAÑA SERÁ DISTRIBUIDO APLICANDO LA REGLA CONTENIDA EN EL NUMERAL 2 DEL INCISO ANTERIOR, DE ESTE ARTÍCULO, Y SERÁ ADMINISTRADO EN SU TOTALIDAD POR LOS PARTIDOS POLÍTICOS, ESTABLECIENDO EL PRORRATEO CONFORME LO PREVISTO EN LA LEY GENERAL DE PARTIDOS POLÍTICOS, Y
+c) Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección, o aquellos que habiendo conservado registro legal no cuenten con representación en el Congreso del Estado, por lo que hace a los partidos locales, tendrán derecho a que se les otorgue financiamiento público, conforme a las bases siguientes:
 
-4. EN EL CASO DE QUE SE REGISTREN CANDIDATOS INDEPENDIENTES PARA EL PROCESO ELECTORAL DE QUE SE TRATE, ÉSTOS DEBERÁN SER CONSIDERADOS COMO UN PARTIDO DE NUEVO REGISTRO PARA LA DISTRIBUCIÓN DEL FINANCIAMIENTO PARA CAMPAÑAS, POR LO QUE PARTICIPARÁN DE LA PARTE CORRESPONDIENTE AL VEINTE POR CIENTO QUE SE DISTRIBUYE DE MANERA IGUALITARIA ENTRE TODOS LOS PARTIDOS POLÍTICOS.
+1. Se le otorgará a cada partido político el dos por ciento del monto que por financiamiento total les corresponda para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo, así como, en el año de la elección de que se trate, el financiamiento para gastos de campaña que corresponda con base en lo dispuesto por el inciso b) párrafo 1 del presente apartado. Las cantidades serán entregadas en la parte proporcional que corresponda a la anualidad, a partir de la fecha en que surta efectos el registro y tomando en cuenta el calendario presupuestal aprobado para el año; y
 
-C) LOS PARTIDOS POLÍTICOS QUE HUBIEREN OBTENIDO SU REGISTRO CON FECHA POSTERIOR A LA ÚLTIMA ELECCIÓN, TENDRÁN DERECHO A QUE SE LES OTORGUE FINANCIAMIENTO PÚBLICO, CONFORME A LAS BASES SIGUIENTES:
+2. Participarán del financiamiento público para actividades específicas como entidades de interés público sólo en la parte que se distribuya en forma igualitaria.
 
-1. A PARTIR DEL DÍA PRIMERO DEL MES SIGUIENTE EN QUE EL CONSEJO GENERAL APRUEBE SU REGISTRO, SE LE OTORGARÁ A CADA PARTIDO POLÍTICO LA CANTIDAD PROPORCIONAL QUE RESULTE DEL MONTO CORRESPONDIENTE AL VEINTE POR CIENTO QUE SE DISTRIBUYE DE FORMA IGUALITARIA, QUE AÚN NO SE HAYA ENTREGADO A LOS PARTIDOS POLÍTICOS.
+El Consejo General deberá aprobar los montos modificados para todos los partidos políticos incluidos los de nuevo registro a más tardar en la última semana del mes en que haya aprobado el registro de nuevos partidos.
 
-2. EL CONSEJO GENERAL DEBERÁ APROBAR LOS MONTOS MODIFICADOS PARA TODOS LOS PARTIDOS POLÍTICOS INCLUIDOS LOS DE NUEVO REGISTRO A MÁS TARDAR EN LA ÚLTIMA SEMANA DEL MES EN QUE HAYA APROBADO EL REGISTRO DE NUEVOS PARTIDOS.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
-3. EN EL AÑO DE LA ELECCIÓN DE QUE SE TRATE, EL FINANCIAMIENTO PARA GASTOS DE CAMPAÑA QUE CORRESPONDA CON BASE EN LO DISPUESTO POR INCISO B) DEL SEGUNDO PÁRRAFO DEL PRESENTE APARTADO.
+B. Del financiamiento privado
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+Además de lo establecido en el apartado que antecede, los partidos políticos podrán recibir financiamiento que no provenga del erario público, con las modalidades siguientes:
 
-B. DEL AUTOFINANCIAMIENTO.
+a) Financiamiento por la militancia;
 
-EL AUTOFINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS ESTARÁ CONSTITUIDO POR LOS INGRESOS QUE OBTENGA DE SUS ACTIVIDADES PROMOCIONALES, COMO SON CONFERENCIAS, ESPECTÁCULOS, FERIAS, FESTIVALES Y OTROS EVENTOS DE NATURALEZA SIMILAR, JUEGOS, RIFAS Y SORTEOS, EVENTOS CULTURALES, VENTAS DE PROPAGANDA UTILITARIA, CUOTAS ORDINARIAS Y EXTRAORDINARIAS DE SUS MIEMBROS ACTIVOS Y APORTACIONES DE SUS ORGANIZACIONES, LAS QUE SERÁN DETERMINADAS LIBREMENTE POR CADA PARTIDO POLÍTICO, ASÍ COMO DE CUALQUIER OTRA ACTIVIDAD SIMILAR QUE REALICEN PARA ALLEGARSE FONDOS, LAS QUE ESTARÁN SUJETAS A LAS LEYES CORRESPONDIENTES.
+b) Financiamiento de simpatizantes;
 
-EL LÍMITE DEL MONTO DE ESTE FINANCIAMIENTO SERÁ DEL CUARENTA POR CIENTO DEL FINANCIAMIENTO PÚBLICO QUE LES CORRESPONDA.
+c) Autofinanciamiento; y,
 
-EL ÓRGANO INTERNO RESPONSABLE DEL FINANCIAMIENTO DE CADA PARTIDO POLÍTICO REPORTARÁ LOS INGRESOS POR ESAS ACTIVIDADES EN LOS INFORMES RESPECTIVOS, QUE DEBERÁ REMITIR AL INSTITUTO ANEXO AL INFORME ANUAL.
+d) Financiamiento por rendimientos financieros, fondos y fideicomisos.
 
-EL PARTIDO POLÍTICO PARA OBTENER RENDIMIENTOS FINANCIEROS, PODRÁ CREAR FONDOS O FIDEICOMISOS CON SU PATRIMONIO, DEBIENDO SUJETARSE A LAS SIGUIENTES REGLAS:
+No podrán realizar aportaciones o donativos a los partidos políticos ni a los aspirantes, precandidatos o candidatos a cargos de elección popular, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia:
 
-A) A LAS APORTACIONES QUE SE REALICEN A TRAVÉS DE ESTAS MODALIDADES, LES SERÁN APLICABLES LAS PROHIBICIONES REFERIDAS AL FINANCIAMIENTO PRIVADO A QUE SE REFIERE EL INCISO SIGUIENTE;
+a) Los Poderes Ejecutivo, Legislativo y Judicial de la Federación, de los Estados y los Ayuntamientos, salvo en el caso del financiamiento público establecido en la Constitución y esta Ley;
 
-B) LOS FONDOS Y FIDEICOMISOS QUE SE CONSTITUYAN SERÁN MANEJADOS A TRAVÉS DE LAS OPERACIONES BANCARIAS Y FINANCIERAS QUE EL ÓRGANO RESPONSABLE DEL FINANCIAMIENTO DE CADA PARTIDO POLÍTICO CONSIDERE CONVENIENTE, QUEDANDO PROHIBIDA LA ADQUISICIÓN DE VALORES BURSÁTILES;
-
-C) LOS RENDIMIENTOS FINANCIEROS OBTENIDOS A TRAVÉS DE ESTAS MODALIDADES, DEBERÁN DESTINARSE ÚNICAMENTE PARA EL CUMPLIMIENTO DE LOS OBJETIVOS DE CADA PARTIDO POLÍTICO; Y,
-
-D) EL PARTIDO POLÍTICO NO PODRÁ SOLICITAR CRÉDITOS PROVENIENTES DE LA BANCA DE DESARROLLO PARA EL FINANCIAMIENTO DE SUS ACTIVIDADES.
-
-C. Del financiamiento privado.
-
-El financiamiento privado se constituye por las aportaciones que las personas físicas, simpatizantes de los partidos políticos, hacen a favor de éstos en efectivo o especie para el desarrollo y fortalecimiento de sus actividades.
-
-El monto total de este financiamiento no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de la Gubernatura.
-
-Las aportaciones que los simpatizantes realicen a favor de los partidos políticos, deberán cumplir los siguientes supuestos:
-
-a) De las aportaciones en dinero deberán expedirse recibos foliados autorizados por el Instituto conforme a reglas generales que emita al efecto y en los que se hagan constar los datos de identificación del aportante;
-
-b) Las aportaciones en especie se harán constar por escrito en contratos celebrados conforme a las leyes aplicables; y,
-
-c) Las aportaciones de bienes muebles o inmuebles deberán destinarse única y exclusivamente para el cumplimiento del objetivo del partido político.
-
-Ninguna persona podrá aportar más del uno por ciento del monto total del financiamiento privado que corresponda a cada partido político.
-
-El monto total que por financiamiento privado a través de colectas obtenga un partido político, no podrá ser superior al cinco por ciento del monto total que por ese financiamiento le corresponda.
-
-No podrán realizar aportaciones o donativos a los partidos políticos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia:
-
-a) Los Poderes Ejecutivo, Legislativo y Judicial de la Federación, de los Estados y los Ayuntamientos, salvo los establecidos en la ley;
-
-b) Las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, centralizadas o paraestatales;
+b) Las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, y centralizadas o paraestatales;
 
 c) Los partidos políticos, personas físicas o morales extranjeras;
 
@@ -989,9 +957,37 @@ d) Los organismos internacionales de cualquier naturaleza;
 
 e) Los ministros de culto, asociaciones religiosas, iglesias o agrupaciones de cualquier religión o secta;
 
-f) Las personas que vivan o trabajen en el extranjero; y,
+f) Las personas morales; y,
 
-g) Las personas morales.
+g) Las personas que vivan o trabajen en el extranjero.
+
+Los partidos políticos no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades, ni podrán recibir aportaciones de personas no identificadas.
+
+El financiamiento que no provenga del erario público tendrá las siguientes modalidades:
+
+a) Las aportaciones o cuotas individuales y obligatorias, ordinarias y extraordinarias, en dinero o en especie, que realicen los militantes de los partidos políticos;
+
+b) Las aportaciones voluntarias y personales, en dinero o en especie, que los precandidatos y candidatos aporten exclusivamente para sus precampañas y campañas; y,
+
+c) Las aportaciones voluntarias y personales que realicen los simpatizantes durante los procesos electorales locales estarán conformados por las aportaciones o donativos, en dinero o en especie, hechas a los partidos políticos en forma libre y voluntaria por las personas físicas mexicanas con residencia en el país.
+
+El financiamiento privado se ajustará a los siguientes límites anuales:
+
+a) Para el caso de las aportaciones de militantes, el dos por ciento del financiamiento público otorgado a la totalidad de los partidos políticos para el sostenimiento de sus actividades ordinarias y precampañas en el año de que se trate;
+
+b) Para el caso de las aportaciones de candidatos, así como de simpatizantes durante los procesos electorales, el diez por ciento del tope de gasto para la elección de Gobernador inmediata anterior, para ser utilizadas en las campañas de sus candidatos;
+
+c) Cada partido político, a través del órgano competente determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus militantes, así como de las aportaciones voluntarias y personales que los precandidatos y candidatos aporten exclusivamente para sus precampañas y campañas; y,
+
+d) Las aportaciones de simpatizantes, así como de los militantes, tendrán como límite individual anual el 0.5 por ciento del tope de gasto para la elección de Gobernador inmediata anterior.
+
+Los partidos políticos deberán expedir recibos foliados autorizados por el Instituto conforme a (sic) reglas generales que emita al efecto, en los que se hagan constar el nombre completo y domicilio, clave de elector y, en su caso, Registro Federal de Contribuyentes del aportante. Para el caso de que la aportación se realice con cheque o transferencia bancaria, la cuenta de origen deberá estar a nombre del aportante. Invariablemente, las aportaciones o cuotas deberán depositarse en cuentas bancarias a nombre del partido político, de conformidad con lo que establezca la normativa aplicable.
+
+Las aportaciones en especie se harán constar por escrito en un contrato celebrado entre el partido político y el aportante, conforme a las leyes aplicables.
+
+Las aportaciones de bienes muebles o inmuebles deberán destinarse únicamente para el cumplimiento del objeto del partido político que haya sido beneficiado con la aportación.
+
+Los partidos políticos podrán establecer en instituciones bancarias domiciliadas en México cuentas, fondos o fideicomisos para la inversión de sus recursos líquidos, a fin de obtener rendimientos financieros, sujetos a las reglas y verificaciones establecidas en la Ley General de Partidos Políticos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -1021,13 +1017,11 @@ Es derecho exclusivo de los partidos políticos y coaliciones, así como de los 
 
 En la propaganda que contraten los partidos políticos y coaliciones deberán circunscribirse a la promoción del voto, a difundir los principios ideológicos de los partidos, las plataformas electorales y propuestas específicas de los candidatos.
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
-Los partidos políticos, coaliciones y candidatos independientes en la propaganda electoral que difundan a través de los medios masivos de comunicación, evitarán cualquier OFENSA, DIFAMACIÓN O calumnia QUE DENIGRE a candidatos y terceros así como también se abstendrán de usar frases similares o alusivas a las utilizadas públicamente por cualquiera de las instancias de gobierno.
+Los partidos políticos, coaliciones y candidatos independientes en la propaganda electoral que difundan a través de los medios masivos de comunicación, evitarán cualquier calumnia a candidatos y terceros así como también se abstendrán de usar frases similares o alusivas a las utilizadas públicamente por cualquiera de las instancias de gobierno.
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-SE ENTENDERÁ POR CALUMNIA LA IMPUTACIÓN DE HECHOS O DELITOS FALSOS CON IMPACTO EN UN PROCESO ELECTORAL.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE FEBRERO DE 2017)</small>
 
 ## TÍTULO CUARTO. De las Candidaturas Independientes
 
@@ -1219,9 +1213,9 @@ g) Las personas que vivan o trabajen en el extranjero;
 
 V. Abstenerse de realizar por sí o por interpósita persona, actos de presión o coacción para obtener el apoyo ciudadano;
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
-VI. Abstenerse de proferir OFENSAS, DIFAMACIÓN, calumnia O CUALQUIER EXPRESIÓN QUE DENIGRE a otros aspirantes o precandidatos, personas e instituciones privadas;
+VI. Abstenerse de proferir calumnias a otros aspirantes o precandidatos, personas e instituciones privadas;
 
 VII. Rendir el informe de ingresos y egresos;
 
@@ -1389,9 +1383,9 @@ VI. Depositar únicamente en la cuenta bancaria registrada sus aportaciones y re
 
 VII. Abstenerse de utilizar símbolos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
-VIII. Abstenerse de proferir OFENSAS, DIFAMACIÓN, calumnia O CUALQUIER EXPRESIÓN QUE DENIGRE a otros candidatos, personas o instituciones privadas;
+VIII. Abstenerse de proferir calumnia a otros candidatos, personas o instituciones privadas;
 
 IX. Insertar en su propaganda de manera visible la leyenda: “Candidata Independiente”, o “Candidato Independiente” en su caso;
 
@@ -2123,7 +2117,7 @@ Para los fines de la presente ley, se entenderá por:
 
 I. Precampaña Electoral: El conjunto de actos que realizan los partidos políticos, sus militantes y los precandidatos a candidaturas a cargos de elección popular debidamente registrados por cada partido;
 
-II. Actos de Precampaña Electoral: Las reuniones públicas, asambleas, marchas y en general aquéllos en que los precandidatos a una candidatura se dirigen a los afiliados, simpatizantes o al electorado en general, con el objetivo de obtener su respaldo para ser postulado como candidato a un cargo de elección popular;;
+II. Actos de Precampaña Electoral: Las reuniones públicas, asambleas, marchas y en general aquéllos en que los precandidatos a una candidatura se dirigen a los afiliados, simpatizantes o al electorado en general, con el objetivo de obtener su respaldo para ser postulado como candidato a un cargo de elección popular;; (sic)
 
 III. Propaganda de precampaña electoral: El conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por esta Ley y el que señale la convocatoria respectiva difunden los precandidatos a candidaturas a cargos de elección popular con el propósito de dar a conocer sus propuestas. La propaganda de precampaña deberá señalar de manera expresa, por medios gráficos y auditivos, la calidad de precandidato de quien es promovido; y,
 
@@ -2303,9 +2297,7 @@ La propaganda electoral se sujetará en lo conducente a lo establecido en los ar
 
 I. Se prohíbe la utilización de símbolos, signos, expresiones, alusiones o fundamentaciones de carácter religioso, así como la realización de actos de proselitismo o cualquier actividad partidista en lugares o eventos destinados a cultos religiosos;
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-II. SE PROHÍBEN LAS EXPRESIONES VERBALES O ALUSIONES OFENSIVAS A LAS PERSONAS Y SU VIDA PRIVADA, A LAS AUTORIDADES, LOS CANDIDATOS, LOS PARTIDOS POLÍTICOS, LA COALICIÓN O EL CANDIDATO INDEPENDIENTE, SEGÚN SEA EL CASO Y AQUELLAS EXPRESIONES CONTRARIAS A LA MORAL, A LAS BUENAS COSTUMBRES Y LAS QUE INCITEN A LA DISCRIMINACIÓN, EL ODIO Y LA DENIGRACIÓN DE PERSONAS, DE GRUPOS E INSTITUCIONES PÚBLICAS O PRIVADAS LEGALMENTE CONSTITUIDAS;
+II. (DEROGADA, P.O. 6 DE FEBRERO DE 2017)
 
 III. Propiciará el conocimiento de los perfiles de los candidatos, la exposición, desarrollo y discusión ante el electorado de los programas y acciones propuestas por los partidos políticos y coaliciones de sus documentos básicos, y el candidato independiente de la plataforma electoral a saber: su diagnóstico sobre el desarrollo del Estado, los problemas sociales, económicos y políticos del Estado, así como su propuesta de solución a los mismos;
 
@@ -3447,7 +3439,7 @@ VIII. El incumplimiento de las demás disposiciones previstas en esta ley y dem�
 
 IX. La contratación, en forma directa o por terceras personas, de tiempo en cualquier modalidad en radio o televisión;
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 X. La difusión de propaganda política o electoral que contenga expresiones que impliquen calumnia, INFAMIA, INJURIA, DIFAMACIÓN O QUE PUEDA DENIGRAR a los ciudadanos, a las personas morales y candidatos o que realicen actos de violencia de género tendentes a impedir el ejercicio pleno de sus derechos políticos electorales;
 
@@ -3481,9 +3473,9 @@ V. Exceder el tope de gastos de precampaña o campaña establecidos;
 
 VI. El incumplimiento de las obligaciones establecidas por la presente ley en materia de retiro y borrado de propaganda electoral;
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
-VII. Realizar dolosamente propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, incurran en falsedad o sean contrarias al régimen jurídico y proferir expresiones que impliquen calumnia, INFAMIA, INJURIA, DIFAMACIÓN O QUE PUEDA DENIGRAR a los ciudadanos, a las instituciones, a las personas morales y a los candidatos; y,
+VII. Realizar dolosamente propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, incurran en falsedad o sean contrarias al régimen jurídico y proferir expresiones que impliquen calumnia, a los ciudadanos, a las instituciones, a las personas morales y a los candidatos; y,
 
 VIII. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley.
 
@@ -3515,9 +3507,9 @@ XI. La contratación, en forma directa o por terceras personas, de tiempo en cua
 
 XII. La obtención de bienes inmuebles con recursos provenientes del financiamiento público o privado;
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
-XIII. La difusión de propaganda política o electoral que contenga expresiones que impliquen calumnia, INFAMIA, INJURIA, DIFAMACIÓN O QUE PUEDA DENIGRAR a los ciudadanos, a las instituciones, a las personas morales y a los candidatos;
+XIII. La difusión de propaganda política o electoral que contenga expresiones que impliquen calumnia, a los ciudadanos, a las instituciones, a las personas morales y a los candidatos;
 
 XIV. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos Instituto; y,
 
@@ -3563,9 +3555,9 @@ I. Sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus
 
 II. Hacer proselitismo de cualquier tipo o manifestarse en favor de partido o candidato alguno;
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
-III. Externar cualquier expresión de OFENSA, DIFAMACIÓN O calumnia en contra de las instituciones, autoridades electorales, partidos políticos o candidatos; y,
+III. Externar cualquier expresión de calumnia en contra de las instituciones, autoridades electorales, partidos políticos o candidatos; y
 
 IV. Declarar el triunfo de algún candidato o partido político.
 
@@ -4129,61 +4121,9 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al d
 
 SEGUNDO.- Las disposiciones de la presente ley derogan de la Ley Electoral del Estado de Sinaloa publicada en el Periódico Oficial "El Estado de Sinaloa", No. 55, Segunda Sección, del día 6 de mayo de 1992, los artículos contenidos en sus Títulos Primero, Segundo, Tercero, Cuarto, Sexto, y los previstos en el Capítulo VI de su Título Séptimo.
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 364 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD DE QUINCE DE JULIO DE DOS MIL QUINCE INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+TERCERO.- (DEROGADO, P.O. 6 DE FEBRERO DE 2017)
 
-TERCERO.- HASTA EN TANTO EL INSTITUTO NACIONAL ELECTORAL EJERZA SUS FACULTADES EN MATERIA DE DISTRITACIÓN, CONFORME AL ARTÍCULO 41 APARTADO B, INCISO A), NUMERAL 2 DE LA CONSTITUCIÓN FEDERAL, SE MANTIENE LA DEMARCACIÓN TERRITORIAL DE LOS DISTRITOS ELECTORALES UNINOMINALES EN QUE SE DIVIDE EL ESTADO DE SINALOA, DE LA SIGUIENTE MANERA:
-
-PRIMER DISTRITO. COMPRENDE EL MUNICIPIO DE CHOIX, CABECERA: LA CIUDAD DE CHOIX.
-
-SEGUNDO DISTRITO. COMPRENDE EL MUNICIPIO DE EL FUERTE, CABECERA: LA CIUDAD DE EL FUERTE.
-
-TERCER DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE LOS MOCHIS Y DE LA ALCALDÍA CENTRAL Y DE LAS SINDICATURAS DE AHOME, HIGUERA DE ZARAGOZA Y TOPOLOBAMPO, DEL MUNICIPIO DE AHOME, CABECERA: LA CIUDAD DE LOS MOCHIS.
-
-CUARTO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE LOS MOCHIS Y DE LA ALCALDÍA CENTRAL Y LAS SINDICATURAS DE SAN MIGUEL ZAPOTITLÁN, HERIBERTO VALDEZ ROMERO Y GUSTAVO DÍAZ ORDAZ, DEL MUNICIPIO DE AHOME, CABECERA: LA CIUDAD DE LOS MOCHIS.
-
-QUINTO DISTRITO. COMPRENDE EL MUNICIPIO DE SINALOA, CABECERA: LA CIUDAD DE SINALOA DE LEYVA.
-
-SEXTO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE GUASAVE Y DE LA ALCALDÍA CENTRAL Y LAS SINDICATURAS DE JUAN JOSÉ RÍOS, RUIZ CORTINES, BENITO JUÁREZ Y LA TRINIDAD, DEL MUNICIPIO DE GUASAVE, CABECERA: LA CIUDAD DE GUASAVE.
-
-SÉPTIMO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE GUASAVE Y DE LA ALCALDÍA CENTRAL Y LAS SINDICATURAS DE TAMAZULA, LA BRECHA, EL BURRIÓN, SAN RAFAEL, NÍO, BAMOA Y LEÓN FONSECA, DEL MUNICIPIO DE GUASAVE, CABECERA: LA CIUDAD DE GUASAVE.
-
-OCTAVO DISTRITO. COMPRENDE EL MUNICIPIO DE ANGOSTURA, CABECERA: LA CIUDAD DE ANGOSTURA.
-
-NOVENO DISTRITO. COMPRENDE EL MUNICIPIO DE SALVADOR ALVARADO, CABECERA: LA CIUDAD DE GUAMÚCHIL.
-
-DÉCIMO DISTRITO. COMPRENDE EL MUNICIPIO DE MOCORITO CABECERA: LA CIUDAD DE MOCORITO.
-
-DÉCIMO PRIMER DISTRITO. COMPRENDE EL MUNICIPIO DE BADIRAGUATO, CABECERA: LA CIUDAD DE BADIRAGUATO.
-
-DÉCIMO SEGUNDO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE CULIACÁN Y DE LA ALCALDÍA CENTRAL, Y LAS SINDICATURAS DE IMALA, SANALONA Y LAS TAPIAS, CABECERA: LA CIUDAD DE CULIACÁN ROSALES.
-
-DÉCIMO TERCERO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE CULIACÁN Y LAS SINDICATURAS DE AGUARUTO, CULIACANCITO Y EL TAMARINDO, CABECERA: LA CIUDAD DE CULIACÁN ROSALES.
-
-DÉCIMO CUARTO DISTRITO. COMPRENDE LAS SINDICATURAS DE ELDORADO, COSTA RICA, QUILÁ, SAN LORENZO, BAILA, HIGUERAS DE ABUYA, EMILIANO ZAPATA, TACUICHAMONA Y EL SALADO, DEL MUNICIPIO DE CULIACÁN, CABECERA: ELDORADO.
-
-DÉCIMO QUINTO DISTRITO. COMPRENDE EL MUNICIPIO DE NAVOLATO, CABECERA: LA CIUDAD DE NAVOLATO.
-
-DÉCIMO SEXTO DISTRITO. COMPRENDE EL MUNICIPIO DE COSALÁ, CABECERA: LA CIUDAD DE COSALÁ.
-
-DÉCIMO SEPTIMO DISTRITO. COMPRENDE EL MUNICIPIO DE ELOTA, CABECERA: LA CIUDAD DE LA CRUZ.
-
-DÉCIMO OCTAVO DISTRITO. COMPRENDE EL MUNICIPIO DE SAN IGNACIO, CABECERA: LA CIUDAD DE SAN IGNACIO.
-
-DÉCIMO NOVENO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE MAZATLÁN Y DE LA ALCALDÍA CENTRAL, Y LAS SINDICATURAS DE MÁRMOL, LA NORIA, EL QUELITE, EL RECODO Y SIQUEROS, DEL MUNICIPIO DE MAZATLÁN, CABECERA: LA CIUDAD DE MAZATLÁN.
-
-VIGÉSIMO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE MAZATLÁN Y DE LA ALCALDÍA CENTRAL, Y LAS SINDICATURAS DE VILLA UNIÓN Y EL ROBLE, DEL MUNICIPIO DE MAZATLÁN, CABECERA: LA CIUDAD DE MAZATLÁN.
-
-VIGÉSIMO PRIMER DISTRITO. COMPRENDE EL MUNICIPIO DE CONCORDIA, CABECERA: LA CIUDAD DE CONCORDIA.
-
-VIGÉSIMO SEGUNDO DISTRITO. COMPRENDE EL MUNICIPIO DE ROSARIO, CABECERA: LA CIUDAD DE EL ROSARIO.
-
-VIGÉSIMO TERCER DISTRITO. COMPRENDE EL MUNICIPIO DE ESCUINAPA, CABECERA: LA CIUDAD DE ESCUINAPA.
-
-VIGÉSIMO CUARTO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE CULIACÁN Y DE LA ALCALDÍA CENTRAL Y LAS SINDICATURAS DE JESÚS MARÍA Y TEPUCHE, CABECERA: LA CIUDAD DE CULIACÁN ROSALES.
-
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 364 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD DE QUINCE DE JULIO DE DOS MIL QUINCE INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-CUARTO.- HASTA EN TANTO EL INSTITUTO NACIONAL ELECTORAL EJERZA SUS FACULTADES EN MATERIA DE DISTRITACIÓN, CONFORME AL ARTÍCULO 41 APARTADO B, INCISO A), NUMERAL 2 DE LA CONSTITUCIÓN FEDERAL, LOS CONSEJOS MUNICIPALES SOLO FUNCIONARÁN EN LOS MUNICIPIOS DONDE EXISTA MÁS DE UN DISTRITO ELECTORAL CONFORME AL TRANSITORIO ANTERIOR Y SE INSTALARÁN EN LA CABECERA RESPECTIVA.
+CUARTO.- (DEROGADO, P.O. 6 DE FEBRERO DE 2017)
 
 QUINTO.- Dentro de los quince días siguientes a que el Instituto Electoral del Estado de Sinaloa quede integrado en términos de lo dispuesto en el Artículo Noveno Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el diez de febrero de dos mil catorce, el Consejo General celebrará su primera sesión, con independencia de la convocatoria a elecciones ordinarias locales que al efecto expida el Congreso del Estado conforme a lo previsto en esta ley.
 
@@ -4246,3 +4186,13 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 6 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 89 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA".]
+
+PRIMERO.- Las declaraciones de invalidez decretadas en los resolutivos que recaen a las acciones de inconstitucionalidad 64/2015 y sus acumuladas 65/2015, 66/2015, 68/2015 y 70/2015, y contenidas en el presente Decreto, surtieron sus efectos a partir de su notificación al Congreso del Estado de Sinaloa, el día 16 de octubre de 2015, por ello, ordénese su publicación de manera urgente en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Notifíquese de manera inmediata del cumplimiento de los resolutivos de las sentencias de las acciones de inconstitucionalidad expresadas en el artículo transitorio anterior a la Suprema Corte de Justicia de la Nación.
+
+TERCERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
