@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2016-12-30"
+last_updated: "2017-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE FEBRERO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -81,9 +81,11 @@ c) (DEROGADO, G.O. 10 DE AGOSTO DE 2015)
 
 II. (DEROGADA, G.O. 10 DE AGOSTO DE 2015)
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 7.
 
-Al inicio de cada período de sesiones ordinarias, el Presidente del Congreso del Estado declarará en voz alta: "El Congreso del Estado de Veracruz de Ignacio de la Llave abre hoy (fecha) el Primer (o Segundo) Período de Sesiones Ordinarias del (Primer, Segundo o Tercer) Año de ejercicio de la (número ordinal) Legislatura".
+Al inicio de cada período de sesiones ordinarias, el Presidente del Congreso del Estado declarará en voz alta: “El Congreso del Estado de Veracruz de Ignacio de la Llave abre hoy (fecha) el Primer (o Segundo) Período de Sesiones Ordinarias del (Primer, Segundo o Tercer) Año de ejercicio de la (número ordinal) Legislatura”.
 
 > <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2011)</small>
 
@@ -167,11 +169,15 @@ Una vez efectuada la elección de la nueva Mesa Directiva, sus integrantes ocupa
 
 El Presidente de la nueva Mesa Directiva, para los efectos de lo dispuesto en la fracción III del artículo anterior, se pondrá de pie y lo mismo harán los demás integrantes del Congreso. Aquél prestará, con el brazo derecho extendido, la protesta siguiente:
 
-"Protesto guardar y hacer guardar la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y la Constitución Política de los Estados Unidos Mexicanos, mirando en todo por el bien del Estado; y si así no lo hiciere, que el pueblo me lo demande".
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+“Protesto guardar y hacer guardar la Constitución Política del Estado de Veracruz de Ignacio de la Llave y la Constitución Política de los Estados Unidos Mexicanos, mirando en todo por el bien del Estado; y si así no lo hiciere, que el pueblo me lo demande”.
 
 El resto de los integrantes del Congreso, para los efectos de la fracción IV del artículo anterior, permanecerá de pie y el Presidente de la Mesa Directiva les tomará la protesta siguiente:
 
-¿Protestan guardar y hacer guardar la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y la Constitución Política de los Estados Unidos Mexicanos, mirando en todo por el bien del Estado?
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+¿Protestan guardar y hacer guardar la Constitución Política del Estado de Veracruz de Ignacio de la Llave y la Constitución Política de los Estados Unidos Mexicanos, mirando en todo por el bien del Estado?
 
 Los Diputados electos responderán:
 
@@ -755,7 +761,7 @@ Las Comisiones del Congreso serán Permanentes, Especiales y de Protocolo y Cort
 
 Las Comisiones Permanentes tendrán la competencia que se deriva de su denominación y las especiales las de los asuntos que motivaron su integración.
 
-> <small>(REFORMADO, G.O. 3 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 39.
 
@@ -781,65 +787,65 @@ IX. Desarrollo Agropecuario, Rural y Forestal;
 
 X. Desarrollo Artesanal;
 
-XI. Desarrollo Económico;
+XI. Desarrollo Metropolitano;
 
-XII. Desarrollo Metropolitano;
+XII. Desarrollo Social, Humano y Regional;
 
-XIII. Desarrollo Social, Humano y Regional;
+XIII. Desarrollo Urbano, Ordenamiento Territorial, Vivienda y Fundo Legal;
 
-XIV. Desarrollo Urbano, Ordenamiento Territorial, Vivienda y Fundo Legal;
+XIV. Desarrollo y Fortalecimiento Municipal;
 
-XV. Desarrollo y Fortalecimiento Municipal;
+XV. Educación y Cultura;
 
-XVI. Educación y Cultura;
+XVI. Gobernación;
 
-XVII. Gobernación;
+XVII. Hacienda del Estado;
 
-XVIII. Hacienda del Estado;
+XVIII. Hacienda Municipal;
 
-XIX. Hacienda Municipal
+XIX. Instructora;
 
-XX. Instructora;
+XX. Justicia y Puntos Constitucionales;
 
-XXI. Justicia y Puntos Constitucionales;
+XXI. Juventud y Deporte;
 
-XXII. Juventud y Deporte;
+XXII. Límites Territoriales Intermunicipales;
 
-XXIII. Límites Territoriales Intermunicipales;
+XXIII. Medio Ambiente, Recursos Naturales y Cambio Climático;
 
-XXIV. Medio Ambiente, Recursos Naturales y Cambio Climático;
+XXIV. Organización Política y Procesos Electorales;
 
-XXV. Organización Política y Procesos Electorales;
+XXV. Para la Igualdad de Género;
 
-XXVI. Para la Igualdad de Género;
+XXVI. Participación Ciudadana, Gestoría y Quejas;
 
-XXVII. Participación Ciudadana, Gestoría y Quejas;
+XXVII. Pesca y Acuacultura;
 
-XXVIII. Pesca y Acuacultura;
+XXVIII. Población y Atención a Migrantes;
 
-XXIX. Población y Atención a Migrantes;
+XXIX. Procuración de Justicia;
 
-XXX. Procuración de Justicia;
+XXX. Promoción Comercial y Fomento a la Inversión;
 
-XXXI. Promoción Comercial y Fomento a la Inversión;
+XXXI. Protección Civil;
 
-XXXII. Protección Civil;
+XXXII. Salud y Asistencia;
 
-XXXIII. Salud y Asistencia;
+XXXIII. Seguridad Pública;
 
-XXXIV. Seguridad Pública;
+XXXIV. Seguridad Social;
 
-XXXV. Seguridad Social;
+XXXV. Trabajo y Previsión Social;
 
-XXXVI. Trabajo y Previsión Social;
+XXXVI. Transparencia y Acceso a la Información;
 
-XXXVII. Transparencia y Acceso a la Información;
+XXXVII. Transporte, Tránsito y Vialidad;
 
-XXXVIII. Transporte, Tránsito y Vialidad;
+XXXVIII. Turismo;
 
-XXXIX. Turismo; y
+XXXIX. Vigilancia; y
 
-XL. Vigilancia.
+XL. Zonas Especiales y Desarrollo Económico.
 
 > <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
@@ -1225,7 +1231,7 @@ QUINTO. Para los efectos de lo dispuesto por el artículo 14 de esta ley, relati
 
 Dada en el Salón de Sesiones de la H. LVIII Legislatura del Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los veintisiete días del mes de septiembre del año dos mil. Diputado presidente, Óscar Moncayo Quiroz.- Rúbrica. Diputado secretario, Edmundo Cristóbal Cruz.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 2 DE FEBRERO DE 2001.
 
@@ -1538,3 +1544,19 @@ G.O. 30 DE DICIEMBRE DE 2016.
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 6 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 240 QUE REFORMA EL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 6 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 245 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO, AMBOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
