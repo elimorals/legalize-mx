@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-99966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2016-12-28"
+last_updated: "2017-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 26 de marzo de 2014.
 
@@ -142,6 +142,10 @@ IX. Estimular la educación física y la práctica del deporte;
 X. Desarrollar actitudes solidarias en los individuos y crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
 
 XI. Inculcar los conceptos y principios fundamentales de la ciencia ambiental para impulsar un desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2017)</small>
+
+Fomentar e incorporar técnicas y procedimientos para el reciclaje y reuso de residuos sólidos en escuelas de educación básica, con el propósito de prevenir y reducir la generación de contaminantes.
 
 Proporcionar los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
@@ -303,9 +307,15 @@ Los terrenos que las autoridades municipales respectivas, otorguen para la edifi
 
 XXXII. Formalizar convenios con la federación, ayuntamientos, sectores productivos, organizaciones no gubernamentales, fundaciones y otras que directa o indirecta impacten el servicio educativo;
 
-XXXIII. Respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como reconocer aquellos adquiridos mediante acuerdos alcanzados a través de convenios, minutas y acuerdos celebrados por el Gobierno del Estado, a través de las instancias respectivas y su organización sindical, que estipulan beneficios laborales, profesionales, salariales y sociales, que no contravengan esta Ley y las Leyes Generales de la materia; y
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
-XXXIV. Las demás que sean necesarias para mejorar la calidad del servicio educativo.
+XXXIII. Respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como reconocer aquellos adquiridos mediante acuerdos alcanzados a través de convenios, minutas y acuerdos celebrados por el Gobierno del Estado, a través de las instancias respectivas y su organización sindical, que estipulan beneficios laborales, profesionales, salariales y sociales, que no contravengan esta Ley y las Leyes Generales de la materia;
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2017)</small>
+
+XXXIV. Prevenir y reducir la generación de contaminantes desde las escuelas de educación básica, especialmente con la instalación de contenedores para la separación de la basura en todos los planteles, a través de la Secretaría de Desarrollo Social y Humano, y de la Subsecretaría de Medio Ambiente y Recursos Naturales con la colaboración de los sectores privado y social, así como con las demás autoridades competentes; y
+
+XXXV. Las demás que sean necesarias para mejorar la calidad del servicio educativo.
 
 ###### Artículo 16.
 
@@ -1910,3 +1920,11 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 6 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 65 DEL H. CONGRESO DEL ESTADO.- SE REFORMA LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
