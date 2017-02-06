@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2016-11-17"
+last_updated: "2017-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 17 DE NOVIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -37,7 +35,7 @@ Por el que se expide el Reglamento para el Gobierno Interior del Poder Legislati
 
 Se expide el siguiente
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2003)</small>
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
@@ -163,19 +161,27 @@ IV. Ejercitar, en términos de lo dispuesto por el artículo 65 fracción II inc
 
 V. Formular votos particulares;
 
+> <small>(ADICIONADA, G.O. 6 DE FEBRERO DE 2017)</small>
+
+V Bis. Solicitar al Presidente que consulte al autor de una iniciativa, en caso de desear adherirse a la misma, si está de acuerdo;
+
 VI. Exigir de los demás miembros del Congreso, respeto a su persona y, en su defecto, solicitar al Presidente o al de la Permanente poner orden;
 
 VII. Solicitar a los servidores de la administración pública estatal o municipal, la información de su competencia que requieran para cumplir con las funciones que les señala el artículo 32 de la Constitución. Los servidores de las dependencias y entidades darán respuesta en el término constitucional;
 
 VIII. Proponer por escrito a la Junta de Trabajos Legislativos, asuntos para incluirse en el orden del día de las sesiones ordinarias o de las que celebre la Permanente;
 
-IX. Solicitar al Presidente que se verifique el quórum cuando se instale la sesión o cuando se vaya a votar algún asunto;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2017)</small>
+
+IX. Solicitar al Presidente que se verifique el quórum a través del Sistema Electrónico. Si no es posible su operación se verificará mediante el pase de lista cuando se instale la sesión o cuando se vaya a votar algún asunto;
 
 X. Recibir una dieta mensual, compensaciones, subsidios, ayudas y las demás percepciones necesarias para el cumplimiento de sus funciones legislativas, de control, de representación y de gestoría, de conformidad con las disposiciones presupuestales aplicables.
 
 Los integrantes de la Permanente en funciones recibirán una retribución económica adicional a sus dietas, debiendo incluirse la partida correspondiente en el presupuesto anual de egresos del Congreso;
 
-XI. Presentar anteproyectos de puntos de acuerdo; y
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2017)</small>
+
+XI. Presentar anteproyectos de puntos de acuerdo y pronunciamientos; y
 
 XII. Los demás que les otorgue la Constitución, la Ley y este Reglamento.
 
@@ -217,9 +223,9 @@ X. Dar aviso de inmediato al Presidente cuando ocurra alguna incompatibilidad, a
 
 XI. Presentar por escrito a la Directiva o de la Permanente, las solicitudes de licencia;
 
-> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2017)</small>
 
-XII. Dar aviso por escrito al Presidente, cuando se encuentren impedidos para concurrir a una sesión del Congreso o de la Permanente. De no avisar previamente, en casos de fuerza mayor, contarán con un plazo de hasta dos días hábiles posteriores a la fecha de la sesión para solicitar la justificación de su inasistencia;
+XII. Dar aviso por escrito al Presidente, cuando se encuentren impedidos para concurrir a una sesión del Congreso o de la Permanente;
 
 XIII. No invocar su condición de diputado para obtener un lucro para sí o para otro;
 
@@ -229,7 +235,11 @@ XV. Evitar firmar dictámenes sobre asuntos en los que hubiere interés personal
 
 XVI. Abstenerse de cometer actos graves en contra del patrimonio de la Nación, del Estado o del Congreso, así como por atentar públicamente en contra de la integridad física o moral de cualquier persona dentro del recinto del Congreso; y
 
-XVII. Las que establezcan la Constitución, la Ley, este Reglamento y las demás leyes del Estado.
+> <small>(ADICIONADA, G.O. 6 DE FEBRERO DE 2017)</small>
+
+XVII. En el ejercicio de la atribución de iniciar leyes o decretos, informar por escrito a la Presidencia de la Junta de Trabajos Legislativos su interés en presentar una iniciativa, para su inclusión en el orden del día de una sesión, y adjuntar a su escrito el texto de la misma, así como el archivo electrónico que la contenga, para su publicación en la Gaceta Legislativa; y
+
+XVIII. Las que establezcan la Constitución, la Ley, este Reglamento y las demás leyes del Estado.
 
 ### CAPÍTULO III. De las Prerrogativas
 
@@ -279,11 +289,37 @@ En el caso previsto por el párrafo anterior, el Presidente enviará a la Comisi
 
 La privación de los derechos de un diputado podrá abarcar un período ordinario o parte de él, y en casos graves hasta dos períodos de sesiones ordinarias. La sanción incluye los períodos de sesiones extraordinarias que se celebren durante ese lapso.
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 16.
 
-A los diputados que, injustificadamente o sin permiso del Presidente, faltaren a más de la mitad de las sesiones celebradas durante un mes, no se les cubrirá la dieta correspondiente a las reuniones en que hubiesen estado ausentes. Para efectuar el descuento, la Tesorería dividirá la dieta de cada diputado entre el número de sesiones que el Congreso haya celebrado durante el mes.
+La inasistencia de los diputados a las sesiones del Pleno o, en su caso, a las de la Permanente, únicamente se justificará cuando, con los medios idóneos, se acredite ante el Presidente alguna de las causas siguientes:
 
-> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2006)</small>
+I. Enfermedad u otros motivos de salud y, en su caso, durante los períodos pre y post parto;
+
+II. Asistencia a reuniones de trabajo en comisiones, que se realicen simultáneamente a la sesión;
+
+III. Cumplimiento de encomiendas oficiales del Pleno o de la Presidencia;
+
+IV. Participación en actos oficiales organizados por los otros Poderes del Estado, en los que sea indispensable su presencia;
+
+V. Caso fortuito o fuerza mayor; y
+
+VI. Permiso escrito otorgado por el mismo Presidente.
+
+Para el caso de la fracción VI, sólo se otorgará un permiso por mes al mismo diputado en períodos de sesiones ordinarias; para obtenerlo, el interesado deberá informar que notificó, en su caso, al coordinador de su grupo legislativo.
+
+Los diputados dispondrán de dos días hábiles, a partir del siguiente a cuando se produzca la inasistencia para, en su caso, remitir al Presidente la correspondiente solicitud de justificación, con los medios que la acrediten. En ese supuesto, en la siguiente sesión se informará de la justificación de la inasistencia y se harán las anotaciones pertinentes en la documentación relativa a la sesión.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+###### Artículo 16 Bis.
+
+En ningún caso el Presidente justificará más de seis inasistencias en un período de sesiones ordinarias, salvo por las causas señaladas en las fracciones I y III del artículo anterior.
+
+Las inasistencias por causa de enfermedad, o durante los períodos pre y post parto, se justificarán hasta por un máximo de ocho sesiones consecutivas o las que se efectúen en un máximo de ocho semanas.
+
+A los diputados que, injustificadamente o sin permiso del Presidente, faltaren a sesiones, no se les cubrirá la dieta correspondiente a las sesiones en que hubiesen estado ausentes. Para efectuar el descuento, la Tesorería dividirá la dieta de cada diputado entre el número de sesiones que el Congreso haya celebrado durante el mes.
 
 La documentación emitida por el Sistema Electrónico servirá de soporte, en su caso, para aplicar la sanción prevista en el párrafo anterior.
 
@@ -399,9 +435,9 @@ La Directiva dispondrá la integración de las comisiones de protocolo y cortes�
 
 Son atribuciones del Presidente, además de las establecidas por el artículo 24 de la Ley, las siguientes:
 
-> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2017)</small>
 
-I. Instruir al Secretario para que verifique la asistencia de los diputados a través, en su caso, del Sistema Electrónico, así como para justificar las ausencias que se le hubieren notificado previamente;
+I. Instruir al Secretario para que verifique la asistencia de los diputados a través del Sistema Electrónico. Si no es posible su operación, se procederá a la aplicación del registro a través del pase de lista; así como para justificar las ausencias que se le hubieren notificado previamente;
 
 II. Declarar que hay o no quórum al momento de instalar la sesión o cuando haya de efectuarse una votación si previamente lo solicitare un diputado;
 
@@ -473,9 +509,11 @@ V. Llevar un libro en el que se asienten, textualmente y por orden cronológico,
 
 Las leyes y decretos se identificarán en dicho libro por su número progresivo, por las claves que determine la Legislatura y por el período de su aprobación; estos datos aparecerán en la publicación de la Gaceta Oficial del estado;
 
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2017)</small>
 
-VI. Elaborar las actas de las sesiones del Congreso, firmarlas después de ser aprobadas por el Pleno o por la Diputación Permanente y asentarlas en el libro respectivo, debiendo ser turnadas, por conducto de la Secretaría General del Congreso, al área encargada del Diario de los Debates, para su incorporación y publicación, así como para difundirlas a través de la página en Internet del Congreso.
+VI. Elaborar las actas de las sesiones del Congreso haciéndolas circular de manera digital entre los Diputados, cuando menos veinticuatro horas antes de la sesión en que se procederá a aprobarlas, firmarlas posteriormente de ser aprobadas por el Pleno o por la Diputación Permanente y asentarlas en el libro respectivo, debiendo ser turnadas, por conducto de la Secretaría General del Congreso, al área encargada del Diario de los Debates, para su incorporación y publicación, así como para difundirlas a través de la página de Internet del Congreso.
+
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2005)</small>
 
 En caso de que el Congreso sesionare en la víspera de la conclusión del periodo constitucional de la Legislatura correspondiente, antes de terminar la sesión se declarará un receso en el que se elaborará el acta respectiva, se pondrá a consideración y aprobación del Pleno y, una vez aprobada, se firmará y registrará conforme a los dispuesto por el párrafo anterior;
 
@@ -525,7 +563,9 @@ Son atribuciones de la Junta de Coordinación Política, además de las establec
 
 I. Coadyuvar con la Directiva a organizar y conducir los trabajos del Congreso;
 
-II. Presentar al Pleno las propuestas de nombramiento, designación o ratificación, en su caso, del Representante del Poder Legislativo que formará parte del Consejo de la Judicatura del Poder Judicial del Estado; del Presidente de la Comisión Estatal de Derechos Humanos; de los miembros propuestos por los partidos políticos para integrar el Consejo General del Instituto Electoral Veracruzano; de los Magistrados del Poder Judicial del Estado; del titular de la Presidencia del Consejo Estatal de Protección al Ambiente; y, en general, de quien deba ser elegido o ratificado por el Pleno salvo disposición legal en contrario; y
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2017)</small>
+
+II. Presentar al Pleno las propuestas de quienes deban ser nombrados, designados o ratificados por el Pleno o, en su caso, por la Diputación Permanente, salvo disposición legal en contrario; y
 
 III. Las demás que le confieran la Constitución, la Ley, las leyes del Estado, este Reglamento y los acuerdos emanados del Congreso.
 
@@ -571,17 +611,27 @@ El Congreso contará con las comisiones permanentes que establezca la Ley. Cuand
 
 Las comisiones permanentes se integrarán por tres diputados elegidos por el Pleno, a propuesta de la Junta de Coordinación Política, procurando estar representados en ellas los diferentes grupos legislativos y los diputados que no los conformen. Esta regla no será aplicable para la integración de las comisiones especiales.
 
-Las comisiones permanentes contarán con una junta directiva integrada por un presidente, un secretario y un vocal, y las especiales podrán contar con los vocales que se estime necesarios.
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
-La Comisión Permanente de Vigilancia se integrará mediante el sistema de representación que tenga cada grupo legislativo y su número lo determinará la Junta de Coordinación Política.
+Las comisiones permanentes contarán con un presidente, un secretario y un vocal, y las especiales, con un presidente, un secretario y los vocales que se estime necesarios.
+
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+La Comisión Permanente de Vigilancia se integrará mediante el sistema de representación que tenga cada grupo legislativo y su número lo determinará la Junta de Coordinación Política, y contará con un presidente, un secretario y los vocales necesarios.
 
 Los diputados sólo podrán formar parte de tres comisiones permanentes.
 
+> <small>(REFORMADO, PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 45.
 
-Las comisiones se reunirán a convocatoria de su presidente en el lugar y hora que al efecto fije. De no convocar, el Secretario y el Vocal lo conminarán por escrito a hacerlo y, de persistir en la negativa, sesionarán el día y hora que determinen, sin perjuicio de informar de ello al Pleno. El quórum será de simple mayoría. Sólo habrá dictamen cuando lo firme la mayoría de sus miembros.
+Las comisiones se reunirán a convocatoria de su presidente en el lugar y hora que al efecto fije, mediante notificación indubitable, ya sea de manera digital o por escrito, a los integrantes de la misma, con cuarenta y ocho horas de anticipación. De no convocar, el secretario y el vocal lo conminarán por escrito a hacerlo y, de persistir en la negativa, sesionarán el día y la hora que determinen, sin perjuicio de informar de ello al Pleno. El quórum será de simple mayoría. Sólo habrá dictamen cuando lo firme la mayoría de sus miembros.
 
 Los presidentes de las comisiones informarán al Presidente el nombre de los diputados faltistas y el número de sus inasistencias en el mes a los trabajos de aquéllas.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+Las reuniones de las comisiones serán públicas y se transmitirán mediante los medios electrónicos oficiales, con excepción de las que por su naturaleza o los asuntos a tratar, deban ser privadas.
 
 ###### Artículo 46.
 
@@ -609,17 +659,25 @@ Las comisiones ordenarán sus trabajos aplicando en lo conducente las normas que
 
 Las comisiones permanentes, por el voto de la mayoría de sus integrantes, podrán declararse incompetentes para conocer de los asuntos que les hayan sido turnados, informando por escrito al Presidente.
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 51.
 
-Cuando un asunto sea de la competencia de dos o más comisiones permanentes, conocerán del mismo como comisiones unidas. El expediente respectivo se turnará a la primera comisión a quien se dirija el turno. La presidencia de las reuniones será rotativa en los términos que acuerden sus integrantes, por lo que el Presidente en turno será responsable del expediente.
+Cuando un asunto sea de la competencia de dos o más comisiones permanentes conocerán del mismo como comisiones unidas. El expediente respectivo se turnará a la primera comisión, y una copia del mismo a quienes presidan las demás. La presidencia de las reuniones será rotativa en los términos que acuerden sus integrantes, por lo que el Presidente en turno será responsable del expediente.
 
 ###### Artículo 52.
 
 Cuando uno o más diputados de una comisión tuvieren interés personal en algún asunto que les haya sido turnado, se abstendrán de votar y firmar el dictamen, informando por escrito al presidente de la comisión.
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 53.
 
-Los presidentes de las comisiones son responsables de los expedientes que se les turnen para su estudio y, al efecto, firmarán de recibido en el correspondiente libro de conocimientos. Dicha responsabilidad cesará cuando aquéllos hagan su devolución a la Secretaría General del Congreso.
+Los presidentes de las comisiones serán responsables de los expedientes que se les turnen para su estudio. Dicha responsabilidad cesará cuando aquéllos hagan su devolución, junto con el dictamen correspondiente, a la Junta de Trabajos Legislativos o, en su caso, a la Secretaría General, cuando esté por concluir la Legislatura, si es que no se hubiese emitido dictamen.
+
+Si los presidentes de las comisiones fueren sustituidos y no dejaren de desempeñar el cargo de diputados harán entrega de los expedientes a quienes los releven. En caso de falta definitiva de un presidente de comisión o de licencia para separarse del cargo, su personal de apoyo hará entrega inmediata de los expedientes a la Secretaría General, para que ésta los remita, en su oportunidad, al nuevo presidente.
+
+En todos los casos referidos en este artículo, con excepción de la devolución del expediente con dictamen, se levantarán actas circunstanciadas.
 
 ###### Artículo 54.
 
@@ -647,9 +705,11 @@ IV. Formular un programa anual de trabajo, dividido en actividades por períodos
 
 V. Entregar anualmente al órgano oficial de difusión interna del Congreso, un artículo sobre temas de su materia, el cual dará el crédito correspondiente al autor o autores y a la propia comisión.
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 58.
 
-Las comisiones tienen entre sus atribuciones, la facultad de reclamar ante el Pleno su competencia para conocer de una Iniciativa o propuesta.
+Las comisiones tendrán la facultad de reclamar ante el Pleno o la Permanente, por escrito firmado por la mayoría de sus integrantes, su competencia para conocer de una iniciativa o solicitud.
 
 #### SECCIÓN SEGUNDA. De las Comisiones Permanentes
 
@@ -667,9 +727,9 @@ Cuando exista causa justificada, la Junta de Coordinación Política podrá prop
 
 La competencia de las comisiones permanentes deriva de su denominación, con relación a las respectivas áreas de la administración pública estatal y municipal, así como de las normas que rigen el funcionamiento del Congreso, u otras disposiciones legales.
 
-> <small>(ADICIONADO, G.O. 17 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
-La Comisión Permanente de Equidad, Género y Familia cada año organizará el Parlamento de las Mujeres Veracruzanas en la sede que determine el Pleno o, en su caso, la Diputación Permanente.
+La Comisión Permanente para la Igualdad de Género cada año organizará el Parlamento de las Mujeres Veracruzanas, en la sede que determine el Pleno o, en su caso, la Permanente.
 
 > <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2016)</small>
 
@@ -681,27 +741,31 @@ En el área de su competencia, las comisiones permanentes ejercerán las funcion
 
 ###### Artículo 63.
 
-Las comisiones permanentes podrán subdividirse en los diferentes ramos de su competencia, dando aviso al Presidente y a la Junta de Coordinación Política.
+(DEROGADO, G.O. 6 DE FEBRERO DE 2017)
 
 ###### Artículo 64.
 
-Las comisiones permanentes del Congreso podrán unirse, constituyéndose en comisiones unidas, para agilizar el despacho de los asuntos que les haya encomendado la Directiva o la Permanente.
+(DEROGADO, G.O. 6 DE FEBRERO DE 2017)
+
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 65.
 
-Los dictámenes deberán contener una parte considerativa de las razones y fundamentos jurídicos que los motiven y concluir con propuestas claras y sencillas que sean susceptibles de someterse a votación.
+Los dictámenes, que podrán ser en sentido negativo o positivo, deberán señalar los fundamentos jurídicos que los motiven; los antecedentes de los asuntos materia de los mismos; un apartado con las consideraciones que los integrantes de las comisiones estimen necesarias para justificar la procedencia o improcedencia de lo propuesto; y el proyecto de resolución que corresponda.
+
+Los dictámenes podrán referirse a dos o más iniciativas de ley o decreto que se encuentren relacionadas o a asuntos de naturaleza similar, lo que habrá de consignarse en el apartado de antecedentes y de analizarse en la parte considerativa del dictamen correspondiente.
 
 ###### Artículo 66.
 
 Las comisiones emitirán su dictamen dentro de los diez días hábiles siguientes a la fecha en que hayan recibido el expediente, tomando en cuenta la agenda legislativa y la trascendencia e importancia del asunto en cuestión, así como las consultas o comparecencias que deban efectuarse.
 
-> <small>(ADICIONADO, G.O. 4 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
-La Presidencia y la Secretaría General del Congreso entregarán el expediente oficialmente a la Comisión a más tardar tres días hábiles siguientes de la sesión, del pleno o de la Diputación Permanente, en que se haya turnado el asunto respectivo.
+El Presidente y el Secretario de la Directiva o de la Permanente deberán firmar los oficios de turno a comisiones, a más tardar al día hábil siguiente de la sesión en que se hayan turnado a las mismas las iniciativas o los asuntos respectivos, a fin de que la Secretaría General los entregue a las presidencias de las comisiones, junto con el expediente del caso, a más tardar al día hábil posterior al que los reciba.
 
-> <small>(REFORMADO, G.O. 4 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
-La Comisión por su parte, podrá solicitar por escrito la ampliación o la prórroga del término para la conclusión del dictamen respectivo.
+Las comisiones, por su parte, podrán solicitar por escrito, con la firma de la mayoría de sus integrantes, la ampliación o la prórroga del término para la conclusión del dictamen respectivo.
 
 > <small>(REFORMADO, G.O. 4 DE ENERO DE 2006)</small>
 
@@ -781,9 +845,11 @@ Iniciativa ante el Congreso de la Unión, es la resolución del Congreso que est
 
 Las sesiones serán ordinarias, extraordinarias y solemnes, según el período a que correspondan o el asunto que las motive. Las dos primeras podrán ser públicas, privadas o permanentes; las solemnes siempre serán públicas.
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 82.
 
-El Congreso sesionará cuando menos cuatro veces al mes, durante los periodos de sesiones ordinarias, y la Permanente sesionará cuando menos dos veces al mes.
+El Congreso sesionará, cuando menos, una vez por semana, durante los periodos de sesiones ordinarias, y la Permanente sesionará, por lo menos, cada quince días.
 
 ###### Artículo 83.
 
@@ -793,41 +859,45 @@ Las sesiones extraordinarias del Congreso tendrán este carácter cuando se llev
 
 Por votación económica del Congreso, podrá declararse éste en sesión permanente, a efecto de tratar exclusivamente un asunto previamente determinado. Se levantará hasta que se tome alguna resolución al respecto.
 
-El Congreso podrá celebrar sesiones solemnes, cuyo único propósito será conmemorar un hecho relevante de la vida nacional, estatal o rendir un homenaje. Estas sesiones serán convocadas por el Presidente, o por el de la Permanente, dentro o fuera de los períodos de sesiones. En ellas no se podrá tratar ningún otro asunto y no darán lugar a debate o pronunciamiento alguno.
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ABRIL DE 2005)</small>
+El Congreso podrá celebrar sesiones solemnes, cuyo único propósito será conmemorar un hecho relevante de la vida nacional o estatal, rendir un homenaje, recibir a visitantes distinguidos nacionales o extranjeros, o entregar los premios previstos en la ley. Estas sesiones serán convocadas por el Presidente, o por el de la Permanente, dentro o fuera de los períodos de sesiones. En ellas no se podrá tratar ningún otro asunto y no darán lugar a debate alguno, y sólo podrán intervenir los diputados y otras personas que previamente acuerde la Junta de Trabajos Legislativos en el proyecto de orden del día respectivo.
+
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 84.
 
-En las sesiones ordinarias, extraordinarias y de la Diputación Permanente, de acuerdo a las atribuciones que les confiera la ley, se dará cuenta de los asuntos listados de conformidad con el siguiente orden:
+En las sesiones ordinarias del Pleno o en las de la Permanente, se dará cuenta de los asuntos listados, de conformidad con el siguiente orden:
 
 I. Lista de asistencia;
 
 II. Lectura y aprobación del orden del día;
 
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2005)</small>
+III. Lectura del acta de la sesión anterior para su aprobación. Por instrucciones del Presidente, la Secretaría de la Directiva hará las correcciones que procedan. Las actas deberán ser aprobadas en la sesión ordinaria inmediata siguiente a la que se haga constar en ellas, de tal manera que la Diputación Permanente aprobará el acta de la última sesión del periodo ordinario que le antecede y el Pleno hará lo mismo con el acta de la última sesión de la Diputación Permanente. Tratándose de periodos extraordinarios, el acta se aprobará en la siguiente sesión, ya sea del periodo ordinario o del receso;
 
-III. Lectura del acta de la sesión anterior para su aprobación. Por instrucciones del presidente, la Secretaría de la Directiva hará las correcciones que procedan.
+IV. Lectura de la correspondencia recibida, que deba ser del conocimiento del Pleno o de la Permanente;
 
-Las acta deberán ser aprobadas en la sesión ordinaria inmediata siguiente a la que se haga constar en ellas, de tal manera que la Diputación Permanente aprobará el acta de la última sesión del periodo ordinario que le antecede y el Pleno hará lo mismo con el acta de la última sesión de la Diputación Permanente. Tratándose de periodos extraordinarios, el acta se aprobará en la siguiente sesión, ya sea del periodo ordinario o del receso;
+V. Minutas Proyecto de Decreto de reformas a la Constitución Federal, remitidas por cualquiera de las Cámaras del Congreso de la Unión;
 
-IV. Comunicaciones del Ejecutivo estatal, del Tribunal Superior de Justicia del Estado, de los diputados que integran el Poder Legislativo, de los ayuntamientos, de los organismos autónomos, de los gobernadores de otras entidades federativas, de las legislaturas de los estados y del Distrito Federal, así como solicitudes de los particulares;
+VI. Iniciativas de ley o decreto, así como proyectos de iniciativas ante el Congreso de la Unión;
 
-V. Iniciativas y minutas de ley o decreto;
+VII. Dictámenes a discusión:
 
-VI. Dictámenes a discusión:
+a) Dictámenes con proyecto de ley;
 
-a) Dictámenes con proyecto de ley.
+b) Dictámenes con proyecto de decreto;
 
-b) Dictámenes con proyecto de decreto.
+c) Dictámenes con proyecto de iniciativa ante el Congreso de la Unión;
 
-c) Dictámenes con proyecto de acuerdo sobre las propuestas presentadas a las comisiones.
+d) Dictámenes con proyecto de acuerdo.
 
-VII. Lectura de informes de los órganos del Congreso;
+VIII. Lectura de informes de los órganos del Congreso;
 
-VIII. Proyectos de punto de acuerdo; y
+IX. Proyectos de punto de acuerdo de la Junta de Coordinación Política;
 
-IX. Pronunciamientos.
+X. Anteproyectos de punto de acuerdo; y
+
+XI. Pronunciamientos.
 
 ###### Artículo 85.
 
@@ -885,9 +955,9 @@ Al efecto se declarará un receso en tanto las comisiones cumplen su cometido.
 
 Acto seguido, el Presidente, permaneciendo sentado, agradecerá la presencia de los representantes de los otros dos poderes y dirá, tras pedir a todos permanecer de pie:
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
-“LA HONORABLE (el número ordinal correspondiente) LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, ABRE HOY (dirá la fecha) SU (número ordinal que corresponda) PERIODO DE SESIONES ORDINARIAS".
+“LA HONORABLE (el número ordinal correspondiente) LEGISLATURA DEL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE ABRE HOY (dirá la fecha) SU (número ordinal que corresponda) PERIODO DE SESIONES ORDINARIAS".
 
 En esta sesión no se abrirá ningún debate, ni se admitirán interpelaciones de ninguna especie.
 
@@ -899,7 +969,9 @@ De no asistir los titulares referidos, el Presidente designará comisiones de cu
 
 Al concluir un período de sesiones, el Presidente hará la siguiente declaración:
 
-"LA HONORABLE (número ordinal que corresponda) LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, CIERRA HOY (la fecha que corresponda) SU PERIODO (número ordinal que corresponda) DE SESIONES (ordinarias o extraordinarias) CORRESPONDIENTES AL (primer, segundo o tercer) AÑO DE SU EJERCICIO CONSTITUCIONAL".
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+"LA HONORABLE (número ordinal que corresponda) LEGISLATURA DEL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CIERRA HOY (la fecha que corresponda) SU PERIODO (número ordinal que corresponda) DE SESIONES (ordinarias o extraordinarias) CORRESPONDIENTES AL (primer, segundo o tercer) AÑO DE SU EJERCICIO CONSTITUCIONAL".
 
 ### CAPÍTULO IV. De las Votaciones
 
@@ -985,7 +1057,9 @@ V. Discusión y aprobación, en su caso, por el voto de las dos terceras partes,
 
 VI. Aprobación de los municipios.
 
-El mismo procedimiento se seguirá para las reformas parciales, con excepción del requisito establecido en la fracción IV de este artículo.
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+El mismo procedimiento se seguirá para las reformas parciales, con excepción del requisito establecido en la fracción IV de este artículo y, en su caso, del señalado en la fracción V, si se tratare del procedimiento especial previsto en el artículo 84 de la Constitución y su ley reglamentaria.
 
 ### CAPÍTULO V. De las Iniciativas
 
@@ -1007,6 +1081,14 @@ V. Las consideraciones de tiempo, lugar, modo, oportunidad y demás circunstanci
 
 VI. El articulado del decreto o ley que se propone, dividido y estructurado según lo aconseje la técnica legislativa.
 
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+###### Artículo 102 Bis.
+
+Los diputados podrán hacer uso de la tribuna, ante el Pleno o la Permanente, para presentar iniciativas de ley o decreto, así como proyectos de iniciativas ante el Congreso de la Unión, y dispondrán para tal efecto de hasta diez minutos. Si fuere más de un autor, se designará a quien la presente; no obstante, si más de uno quisiere intervenir, lo podrán hacer hasta en un máximo de tres coautores, siempre que el tiempo señalado se divida entre el número de participantes.
+
+Las iniciativas de ley o decreto suscritas por los diputados y senadores al Congreso de la Unión que se encuentren en funciones y que hayan sido elegidos en el Estado, el Gobernador del Estado, el Tribunal Superior de Justicia, los ayuntamientos o concejos municipales, los organismos autónomos de Estado, y los ciudadanos, mediante iniciativa popular, sólo se publicarán en la Gaceta Legislativa, se harán del conocimiento del Pleno o de la Permanente en la sesión inmediata a su recepción y se turnarán a comisiones.
+
 #### SECCIÓN SEGUNDA. Del Trámite Legislativo
 
 > <small>(F. DE E., G.O. 18 DE AGOSTO DE 2004)</small>
@@ -1014,6 +1096,10 @@ VI. El articulado del decreto o ley que se propone, dividido y estructurado seg�
 ###### Artículo 103.
 
 Presentada una iniciativa, sin moción o debate alguno, se le dará el trámite que establecen los artículos 35 de la Constitución y 49 de la Ley.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+Si un diputado deseare adherirse a una iniciativa, al finalizar la presentación de la misma deberá solicitar al Presidente que consulte a su autor si está de acuerdo. En caso afirmativo, la Secretaría hará el registro correspondiente, para que así se consigne en el oficio de turno a comisiones y en el apartado de antecedentes del dictamen respectivo, mas no se contabilizará como iniciativa presentada por un diputado aquella a la que sólo se hubiese adherido.
 
 ###### Artículo 104.
 
@@ -1029,29 +1115,39 @@ Ningún proyecto de ley o decreto podrá ser votado sin el correspondiente dicta
 
 #### SECCIÓN PRIMERA. Del Procedimiento en las Comisiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 106.
 
-Recibida por el Presidente de la comisión la iniciativa o proyecto correspondiente, será inmediatamente distribuida entre sus miembros y se citará a una sesión en la que se le dará lectura, se designarán los apoyos técnicos legislativos y se acordarán las consultas y comparecencias de los servidores públicos o de particulares que se considere procedente.
+Recibida por el Presidente de la comisión la iniciativa o solicitud correspondiente será inmediatamente distribuida entre sus miembros y se citará a una sesión en la que se le dará lectura, se designarán los apoyos técnicos legislativos y se acordarán las consultas y comparecencias de los servidores públicos o de particulares que se considere procedente.
 
 Para la celebración de los actos preparatorios del dictamen se estará a lo establecido por el artículo 47 y demás relativos de este Reglamento.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+El mismo procedimiento deberá seguirse, en caso de que la iniciativa o solicitud se hubiese turnado a comisiones unidas.
 
 ###### Artículo 107.
 
 Si por motivo de su competencia, debiera turnarse un asunto a dos o más comisiones, éstas emitirán conjuntamente, por mayoría, su dictamen.
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 108.
 
-El día fijado para la firma del proyecto de dictamen de la comisión, el diputado que disienta del mismo, dará a conocer a los demás integrantes su decisión de emitir voto particular. Dicho voto se presentará a la Junta de Trabajos Legislativos por conducto del coordinador del grupo legislativo a que pertenezca o bien por el propio diputado si no conforma grupo legislativo. La Junta de Trabajos Legislativos, a su vez, lo enlistará para su desahogo en la sesión correspondiente.
+El día fijado para la firma del proyecto de dictamen de la comisión, el diputado que disienta del mismo dará a conocer a los demás integrantes su decisión de emitir voto particular. Dicho voto se presentará a la presidencia de la Junta de Trabajos Legislativos, en forma impresa y en archivo electrónico. La Junta de Trabajos Legislativos, a su vez, lo enlistará para su desahogo en la sesión correspondiente.
 
 #### SECCIÓN SEGUNDA. Del Enlistamiento, la Observación y la Propuesta de Modificación de los Dictámenes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 109.
 
-Aprobado un dictamen, el presidente de la Comisión lo turnará al Presidente de la Junta de Trabajos Legislativos, para que se enliste en el orden del día de la sesión que corresponda, en los términos de este Reglamento. Dicho dictamen será escaneado y distribuido vía electrónica entre los coordinadores de los grupos legislativos, para que éstos, por la misma vía, lo hagan llegar a sus miembros, así como entre los diputados que no conformen grupo legislativo, y quedará en observación, por lo menos, durante cuarenta y ocho horas previas a la celebración de la sesión dentro de la cual se discuta.
+Emitido un dictamen, el presidente de la Comisión lo turnará al Presidente de la Junta de Trabajos Legislativos, junto con el archivo electrónico respectivo, para que se enliste en el orden del día de la sesión que corresponda, en los términos de este Reglamento. La versión impresa del dictamen será remitida inmediatamente a la Secretaría General, para que ésta proceda a escanearla y distribuirla vía electrónica entre los coordinadores de los grupos legislativos, para que éstos, por la misma vía, lo hagan llegar a sus miembros, así como entre los diputados que no conformen grupo legislativo, y quedará en observación, por lo menos, durante cuarenta y ocho horas previas a la celebración de la sesión dentro de la cual se discuta.
 
-El voto particular deberá presentarse a la Junta de Trabajos Legislativos, quien instruirá a la Secretaría General del Congreso para que, con veinticuatro horas de antelación a la celebración de la sesión dentro de la cual se discutirá el dictamen correspondiente, lo distribuya entre los miembros del Congreso.
+La versión electrónica del dictamen que reciba la presidencia de la Junta de Trabajos Legislativos se remitirá de inmediato a la Secretaría General, para que disponga su publicación en la Gaceta Legislativa.
+
+El voto particular deberá escanearse y distribuirse entre los diputados coordinadores de Grupos Legislativos y entre quienes no los conforman, por lo menos con veinticuatro horas de anticipación a la celebración de la sesión en la que se discuta el dictamen correspondiente. La versión electrónica de dicho voto particular servirá para su publicación en la Gaceta Legislativa.
 
 ###### Artículo 110.
 
@@ -1075,9 +1171,11 @@ No se podrá modificar ni adicionar ningún proyecto de punto de acuerdo que por
 
 #### SECCIÓN CUARTA. Del Desahogo de Votos Particulares
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 114.
 
-Concluida la lectura del dictamen o dispensada ésta, se procederá a leer el voto particular, si lo hubiere.
+Concluida la lectura del dictamen o dispensada ésta, se procederá a leer, en su caso, el voto particular. El que el voto particular estuviere publicado en la Gaceta Legislativa no impedirá su lectura por parte del diputado que lo formuló, a menos de que éste solicite expresamente al Presidente omitir la lectura o no se encuentre presente.
 
 ###### Artículo 115.
 
@@ -1117,7 +1215,7 @@ Todo dictamen se discutirá primero en lo general y después en lo particular. S
 
 La duración de la discusión en lo general, no será mayor de dos horas, pero por decisión del Pleno, en votación económica, podrá prorrogarse por el tiempo que se acuerde.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2009)</small>
 
 El presidente declarará abierto el debate en lo general y, en el mismo, se hará uso de la palabra en los términos siguientes:
 
@@ -1143,11 +1241,17 @@ Cuando el artículo a reservar conste de varios apartados, párrafos, fracciones
 
 Una vez registradas todas las reservas por la Secretaría, ésta informará respecto de las mismas y, si ya no hay diputado que desee formular alguna reserva, la Presidencia declarará cerrado el registro de éstas. Después de dicha declaración no se admitirá otra nueva reserva, salvo que, como resultado de algún cambio aprobado durante la discusión en lo particular, deba considerarse una propuesta adicional, en cuyo caso será necesaria la aprobación del Pleno en votación económica, previa consulta que le formule el Presidente. Las propuestas adicionales se discutirán una vez que se hayan agotado la discusión y votación de las originalmente registradas.
 
-Las propuestas relativas a las reservas enlistadas se discutirán separadamente una por una, aunque se refieran a un mismo párrafo, fracción o apartado del artículo reservado.
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+Las propuestas relativas a las reservas enlistadas se discutirán separadamente una por una, aunque se refieran a un mismo párrafo, fracción o apartado del artículo reservado, salvo en el caso previsto en el párrafo final de este artículo.
 
 Una vez expuesta la propuesta por su autor, el Presidente consultará al Pleno si se admite para su discusión. Si no se admite ninguna propuesta para una determinada parte de un artículo, el Presidente declarará que dicha parte queda aprobada junto con los demás artículos que no se hubieren reservado.
 
 Si discutida la propuesta es aprobada por el Pleno, la Secretaría tomará nota de la misma. Si es rechazada, se tendrá por aprobado el texto original sin modificación.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+Si un diputado hubiese realizado más de una reserva podrá solicitar al Presidente dar lectura a todas sus propuestas en una sola intervención, pero al final de ésta, cada una de ellas deberá someterse al procedimiento previsto en los dos párrafos anteriores.
 
 ###### Artículo 123.
 
@@ -1183,35 +1287,47 @@ De no aprobarse un dictamen en lo general, la asamblea decidirá, en votación e
 
 En la votación en lo particular, la Secretaría dará cuenta de los votos que alcance cada propuesta o contrapropuesta e informará a la Presidencia del texto que finalmente se apruebe, para que ésta realice la declaratoria respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 129.
 
-Todos los dictámenes de las comisiones permanentes que versen acerca de asuntos distintos a leyes y decretos, se regirán por lo establecido en este capítulo. Los informes que las comisiones especiales rindan al Pleno serán objeto de debate, pero no de votación.
+Todos los dictámenes de las comisiones permanentes que versen acerca de asuntos distintos a leyes y decretos se regirán, en lo conducente, por lo establecido en este capítulo. Los informes que las comisiones especiales rindan al Pleno serán objeto de debate, pero no de votación.
 
 Los proyectos de puntos de acuerdo adoptados por consenso de los grupos legislativos serán votados de inmediato.
 
 #### SECCIÓN OCTAVA. De la Corrección de Estilo
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 130.
 
-La corrección de estilo se realizará en los términos y con los alcances que proponga el Cuerpo Técnico Profesional de Apoyo de la Secretaría General del Congreso a la Junta de Coordinación Política. Los integrantes de la comisión permanente encargados de la elaboración del dictamen de que se trate podrán emitir su opinión, cuando consideren que los trabajos relacionados con la corrección de estilo de un proyecto de ley o decreto cambien el sentido de las disposiciones en ellos contenidas.
+La corrección de estilo se realizará en los términos y con los alcances que proponga la Secretaría General del Congreso a la Junta de Coordinación Política. Los integrantes de la comisión permanente encargada de la elaboración del dictamen de que se trate podrán emitir su opinión, cuando consideren que los trabajos relacionados con la corrección de estilo de un proyecto de ley o decreto cambien el sentido de las disposiciones en ellos contenidas.
 
 ###### Artículo 131.
 
 La Secretaría General del Congreso se encargará de revisar la publicación de las leyes, decretos o acuerdos en la Gaceta Oficial del Estado y, en su caso, promoverá la publicación oportuna de la fe de erratas que sea necesaria.
 
-#### SECCIÓN NOVENA. De las Propuestas
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE FEBRERO DE 2017)</small>
+
+#### SECCIÓN NOVENA. De los anteproyectos de punto de acuerdo y de los pronunciamientos
+
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 132.
 
-Las propuestas que no sean iniciativas de ley o decreto, presentadas por uno o más diputados o por los grupos legislativos, se sujetarán a los trámites siguientes:
+Los anteproyectos de punto de acuerdo presentados por uno o más diputados o por los grupos legislativos, se sujetarán a las reglas siguientes:
 
-I. Se entregarán por escrito y firmadas por sus autores al Presidente. Serán leídas en la sesión en que sean presentadas y su autor o autores podrán exponer las razones en que la funden;
+I. Su inclusión al proyecto de orden del día será solicitada por el coordinador del grupo legislativo correspondiente o, en su caso, por quienes no conformen grupo, a la Junta de Trabajos Legislativos;
 
-II. El Presidente, a petición expresa del autor o de los autores de la propuesta o por considerarlo conveniente, podrá turnarla a la comisión competente y pedirle que informe al respecto en una próxima sesión;
+II. En la sesión en la que se incluyan, sus autores podrán hacer uso de la palabra para presentarlos, hasta por diez minutos en total por cada anteproyecto o pronunciamiento;
 
-III. En las discusiones sobre asuntos que no sean proyectos de ley o decreto ni propuestas que estén listados en el orden del día, podrán hablar hasta por diez minutos los diputados que fijen la posición de cada grupo legislativo, así como los que no conformen grupo. Para aclarar hechos y alusiones personales, cada diputado dispondrá de hasta diez minutos; y
+III. Se entregarán por escrito y firmados por sus autores a la Presidencia de la Mesa;
 
-IV. Los pronunciamientos tendrán lugar cuando un diputado o un grupo legislativo haga del conocimiento del Congreso o de la Permanente, su punto de vista sobre un asunto de interés general. Estas intervenciones no podrán ser votadas.
+IV. Luego de su presentación, podrán intervenir los diputados que así lo soliciten para expresar sus opiniones sobre los mismos, por un tiempo máximo de diez minutos, cada uno; y
+
+V. Serán turnados a la Junta de Coordinación Política.
+
+Los pronunciamientos tendrán lugar cuando un diputado o un grupo legislativo hagan del conocimiento del Congreso o de la Permanente su punto de vista sobre un asunto de interés general. Se les aplicarán, con excepción del turno a la Junta de Coordinación Política, las reglas señaladas en las fracciones anteriores.
 
 ### CAPÍTULO VII. De las Incidencias en el Debate
 
@@ -1237,7 +1353,9 @@ I. Porque el Pleno acuerde dar preferencia a otro asunto de mayor importancia, u
 
 II. Por alteración grave del orden en el recinto del Congreso;
 
-III. Por moción suspensiva que presente alguno o algunos de los miembros del Congreso y que el Pleno apruebe; y
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2017)</small>
+
+III. Por moción suspensiva que presente cualquier grupo legislativo, o por lo menos, tres diputados, y que el Pleno apruebe; y
 
 IV. Cuando por una moción aclaratoria, algún diputado pida la lectura de un documento oficial relacionado con el debate. En este caso, hecho lo anterior, inmediatamente continuará el orador en el uso de la palabra.
 
@@ -1245,15 +1363,19 @@ IV. Cuando por una moción aclaratoria, algún diputado pida la lectura de un do
 
 La moción suspensiva tiene por objeto diferir la discusión y modificar el texto de un dictamen, por lo que, aceptada la misma, el Presidente ordenará que aquél sea devuelto a la comisión o comisiones dictaminadoras.
 
-La moción suspensiva sólo podrá pedirse por escrito al iniciarse el debate en lo general. En este caso se leerá la proposición y, sin otro requisito que oír a su autor, si la quiere fundar y a otro orador en contra si lo hubiere y sin alusiones personales o rectificación de hechos, se preguntará al Pleno, en votación económica, si se toma en consideración inmediatamente. En caso afirmativo, se discutirá y votará en el acto, pudiendo hablar, al efecto, diputados en pro y en contra; pero si la resolución del Congreso fuere negativa, la propuesta se tendrá por desechada.
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
+La moción suspensiva sólo podrá pedirse por escrito al iniciarse el debate en lo general. En este caso se leerá la proposición y, sin otro requisito que oír a su autor, si la quiere fundar y a otro orador en contra si lo hubiere y sin alusiones personales o rectificación de hechos, se preguntará al Pleno, en votación económica, si se toma en consideración inmediatamente. En caso afirmativo, se discutirá y votará en el acto, pudiendo hablar, al efecto, dos diputados en pro y dos en contra, quienes dispondrán de hasta cinco minutos para su intervención; pero si la resolución del Congreso fuere negativa, la propuesta se tendrá por desechada.
 
 ###### Artículo 138.
 
 Durante el desahogo de un trámite de moción suspensiva, no podrá darse curso a ningún otro asunto. El tiempo del desahogo del trámite de la moción suspensiva no se computará como parte del debate, pero sí como parte de la sesión.
 
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 139.
 
-Sólo podrá ser devuelto un dictamen a comisión si ésta así lo solicita, por la aprobación de un voto particular o de una moción suspensiva. La votación general en contra implica el desechamiento total del dictamen y, por ende, de la iniciativa.
+Sólo podrá ser devuelto un dictamen a comisión, si la mayoría de los integrantes de ésta así lo solicita, o por la aprobación de un voto particular o de una moción suspensiva. La votación general en contra implica el desechamiento total del dictamen y, por ende, de la iniciativa.
 
 ###### Artículo 140.
 
@@ -1341,7 +1463,7 @@ II. Para informar del estado que guarden las dependencias a su cargo, previa con
 
 III. Cuando se delibere o discuta una ley o se estudie un asunto relativo a sus respectivos ramos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 154.
 
@@ -1445,9 +1567,11 @@ El Diario de los Debates se distribuirá oportunamente entre los diputados y los
 
 ### CAPÍTULO II. De la Gaceta Legislativa y de la Crónica Legislativa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 161.
 
-El Congreso contará con un órgano oficial de difusión interna denominado Gaceta Legislativa, con la que se comunicará la víspera de las sesiones ordinarias, extraordinarias y de la Permanente, los asuntos a desahogar de acuerdo al orden del día aprobado por la Junta de Trabajos Legislativos.
+El Congreso contará con un órgano oficial de difusión interna denominado Gaceta Legislativa, en la que se publicarán las iniciativas de ley o decreto, los proyectos de iniciativas ante el Congreso de la Unión y los dictámenes que se vayan a desahogar en las sesiones, de acuerdo con el proyecto de orden del día aprobado por la Junta de Trabajos Legislativos.
 
 En la Gaceta Legislativa, además, se publicarán los reglamentos que apruebe el Congreso e información sobre eventos y actividades diversas que se lleven a cabo en el palacio legislativo.
 
@@ -1565,7 +1689,7 @@ Felipe Amadeo Flores Espinosa, diputado presidente.- Rúbrica.
 
 Natalio Alejandro Arrieta Castillo, diputado secretario.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 G.O. 18 DE MARZO DE 2003.
 
@@ -1694,3 +1818,11 @@ G.O. 15 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2 QUE REFORMA LOS ARTÍCULOS 21 Y 154 EN SUS FRACCIONES IV, VII Y VIII; SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIENDO EN SU ORDEN EL SUBSECUENTE, LAS FRACCIONES I BIS Y I TER Y UN SEGUNDO PÁRRAFO A LAS FRACCIONES III BIS Y VIII DEL ARTÍCULO 154, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+G.O. 6 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 245 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO, AMBOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
