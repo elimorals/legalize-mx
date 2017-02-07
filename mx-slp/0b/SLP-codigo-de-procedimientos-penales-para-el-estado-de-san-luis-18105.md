@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2015-09-05"
+last_updated: "2017-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "SLP"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO Y SU TRANSITORIO ÚNICO DEL DECRETO NÚMERO 752, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 30 DE SEPTIEMBRE DE 2014.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2017 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO Y SU TRANSITORIO ÚNICO DEL DECRETO NÚMERO 752, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 30 DE SEPTIEMBRE DE 2014.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -37,7 +39,7 @@ DECRETO 572
 
 LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
@@ -1223,13 +1225,13 @@ Dicho plazo correrá a partir de que el Ministerio Público notifique el requeri
 
 Lo anterior sin perjuicio de que la parte interesada decida replantear nuevamente su denuncia o querella y le dé seguimiento, en tanto la acción penal no prescriba.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 167.
 
-Cuando en vista de la averiguación previa, el Ministerio Público determine que no es de ejercitarse la acción penal por los hechos que se hayan denunciado como delictuosos o por lo que se hubiera presentado querella, enviará las diligencias a la Procuraduría General de Justicia dentro del término de quince días para que, el titular o subprocurador autorizado mediante acuerdo general, oyendo el parecer de sus agentes auxiliares decida en definitiva si confirma o revoca tal determinación.
+Cuando en vista de la averiguación previa, el Ministerio Público determine que no es de ejercitarse la acción, penal por los hechos que se hayan denunciado como delictuosos o por los que se hubiera presentado querella, enviará las diligencias a la Fiscalía General dentro del término de quince días para que, el titular o funcionario autorizado mediante acuerdo general, oyendo el parecer de sus agentes auxiliares, decida en definitiva si confirma o revoca tal determinación.
 
-Las resoluciones del Procurador General de Justicia o del subprocurador autorizado que confirmen las determinaciones de no ejercicio de la acción penal del Ministerio Público, sólo podrán ser impugnadas ante el Tribunal Estatal de lo Contencioso Administrativo.
+Las resoluciones del Fiscal General o del funcionario público autorizado que confirmen las determinaciones de no ejercicio de la acción penal del Ministerio Público, serán impugnadas ante Juez Penal en turno, mediante el incidente respectivo.
 
 ###### ARTICULO 168.
 
@@ -4138,3 +4140,13 @@ P.O. 5 DE SEPTIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0564.- SE REFORMA EL ARTÍCULO 167, DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Las referencias hechas al Fiscal General del Estado, se entenderán hechas a la Procuraduría General de Justicia del Estado.
