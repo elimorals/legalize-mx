@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2016-12-21"
+last_updated: "2017-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -1481,6 +1481,10 @@ El Ejecutivo del Estado y los ayuntamientos, podrán celebrar convenios con la F
 
 En Tamaulipas funcionará un sistema estatal de becas, créditos y estímulos que integrará y coordinará los diferentes esfuerzos destinados a apoyar el acceso y la permanencia en la escuela, así como a alentar el aprendizaje en los alumnos y alumnas de todos los tipos, niveles y modalidades de educación, con los requisitos que se establezcan en el Reglamento que para tal efecto se expida. Comprenderá tanto programas que propicien el desempeño escolar sobresaliente, -criterio de competencia- como programas compensatorios, -criterio de equidad- para las y los estudiantes con carencias económicas, así como a personas con algún tipo de discapacidad. Las becas se destinarán a estudiantes de educación básica y de educación media superior, los créditos a estudiantes de educación superior y los estímulos a la superación personal a estudiantes de todos los niveles.
 
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2017)</small>
+
+Las autoridades y entes públicos y privados competentes en la materia deberán difundir, promover, regular y transparentar los programas de becas, créditos y estímulos educativos al desempeño escolar en las escuelas públicas y particulares del Estado, comprendidos en el sistema estatal de becas, créditos y estímulos educativos, con base en la legislación que regula la transparencia y el acceso a la información pública del Estado.
+
 ### CAPITULO VIII. LA PARTICIPACION SOCIAL EN LA EDUCACION
 
 #### SECCION PRIMERA. DE LAS ASOCIACIONES DE LOS PADRES DE FAMILIA
@@ -2188,3 +2192,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 7 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-111 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 80 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
