@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-del-instituto-electoral-del-estado-de-72862
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-08"
-last_updated: "2009-12-08"
+last_updated: "2017-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO SEGUNDO POR EL QUE SE APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 7 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 8 de diciembre de 2009.
 
@@ -43,7 +45,7 @@ SEGUNDO. El Reglamento Interior del Instituto Electoral del Estado de Guerrero, 
 
 TERCERO. Publíquese el presente acuerdo y el Reglamento aprobado en el Periódico Oficial del Gobierno del Estado de Guerrero, para los efectos legales a que haya lugar.
 
-Se notifica este acuerdo a los representantes de los partidos políticos acreditados ante este Instituto Electoral en términos del lo dispuesto por el artículo 34 de la Ley del Sistema de Medios de Impugnación en Materia Electoral.
+Se notifica este acuerdo a los representantes de los partidos políticos acreditados ante este Instituto Electoral en términos de lo dispuesto por el artículo 34 de la Ley del Sistema de Medios de Impugnación en Materia Electoral.
 
 El presente Acuerdo fue aprobado por unanimidad de votos en la Novena Sesión Extraordinaria celebrada por el Consejo General del Instituto Electoral el día veintitrés de noviembre del año dos mil nueve.
 
@@ -345,7 +347,7 @@ Las Comisiones, por conducto de su Presidente, cuando así lo consideren necesar
 
 ###### ARTÍCULO 20.
 
-La Junta es un Órgano central de naturaleza colegiada, que se integra de conformidad con lo que establece el articulo 114 de la Ley. Las sesiones de la Junta se regirán por el reglamento específico que expida el Consejo; (sic)
+La Junta es un Órgano central de naturaleza colegiada, que se integra de conformidad con lo que establece el articulo 114 de la Ley. Las sesiones de la Junta se regirán por el reglamento específico que expida el Consejo;
 
 ###### ARTÍCULO 21.
 
@@ -757,7 +759,7 @@ VII. Elaborar y presentar los proyectos de informes, acuerdos, dictámenes y res
 
 VIII. Llevar el control, registro y archivo de los representantes de partidos políticos y coaliciones, acreditados ante el Consejo General y los Consejos Distritales Electorales;
 
-IX. Proveer lo relativo a la convocatoria y programa para la constitución y registro de partidos políticos estatales, y (sic)
+IX. Proveer lo relativo a la convocatoria y programa para la constitución y registro de partidos políticos estatales, y
 
 X. Coadyuvar con la Comisión de Prerrogativas y Partidos Políticos en la solicitud de las tarifas y cobertura de los medios impresos del estado de Guerrero y remisión de éstas a los partidos políticos o coaliciones, en términos de lo que establece el artículo 56 de la Ley;
 
@@ -821,7 +823,7 @@ La Dirección Ejecutiva de Administración y del Servicio Profesional Electoral,
 
 a) Unidad Técnica de Recursos Materiales y Servicios;
 
-b) Unidad Técnica de Contabilidad y Finanzas y; (sic)
+b) Unidad Técnica de Contabilidad y Finanzas y;
 
 c) Unidad Técnica de Recursos Humanos;
 
@@ -903,7 +905,7 @@ DE LA UNIDAD TÉCNICA DE COMUNICACIÓN SOCIAL
 
 ###### ARTÍCULO 54.
 
-La Unidad Técnica de Comunicación Social es el área responsable de coordinar y ejecutar las actividades de difusión y comunicación social del Instituto, procurando mantener contacto permanente con los representantes de los medios de comunicación, con la finalidad de garantizar la plena y oportuna información a los ciudadanos en general acerca de los programas, campañas y todas las actividades que desarrolle el Instituto y los demás organismos dependientes; (sic)
+La Unidad Técnica de Comunicación Social es el área responsable de coordinar y ejecutar las actividades de difusión y comunicación social del Instituto, procurando mantener contacto permanente con los representantes de los medios de comunicación, con la finalidad de garantizar la plena y oportuna información a los ciudadanos en general acerca de los programas, campañas y todas las actividades que desarrolle el Instituto y los demás organismos dependientes;
 
 ###### ARTÍCULO 55.
 
@@ -1784,3 +1786,17 @@ El presente Reglamento entrará en vigor a partir del día de su aprobación por
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO 007/SE/02-02-2017, POR EL QUE SE APRUEBA EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO".]</small>
+
+PRIMERO. Se aprueba el Reglamento Interior del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, mismo que corre agregado y forma parte del presente acuerdo.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Electoral del Estado de Guerrero, aprobado mediante Acuerdo número 080/SE/23-11-2009, en la Novena Sesión Extraordinaria del 23 de noviembre de 2009.
+
+TERCERO. El presente Acuerdo entrará en vigor y surtirá efectos a partir de su aprobación por el Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
+
+CUARTO. Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado, así como en la página web del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
