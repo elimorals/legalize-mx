@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2016-12-13"
+last_updated: "2017-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -103,9 +103,9 @@ VIII.- Indigentes;
 
 IX.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2017)</small>
 
-X.- Víctimas de la comisión de delitos en estado de abandono;
+X.- Víctimas de la comisión de delitos;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -289,13 +289,17 @@ XXI.- Prestar servicios para la prevención y la atención de las causas y los e
 
 XXII.- Colaborar y auxiliar a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a los menores;
 
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2017)</small>
+
+XXIII.- Fomentar las acciones de paternidad responsable, que propicien el respeto de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2017)</small>
+
+XXIV.- Cooperar con las instituciones de procuración e impartición de justicia en la prestación de servicios de asistencia social para aquellos sujetos susceptibles de recibirlos; y
+
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XXIII.- Fomentar las acciones de paternidad responsable, que propicien el respeto de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental; y
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-XXIV.- Las análogas y conexas a las anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
+XXV.- Las análogas y conexas a las anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
 
 ###### ARTICULO 15.
 
@@ -443,13 +447,17 @@ XXV.- Cuidar a niños expósitos investigando la solvencia moral de quienes los 
 
 XXVI.- Establecer programas tendientes a evitar y prevenir el maltrato de los menores, proporcionándoles atención, cuidado y vigilancia, sin perjuicio de denuncias ante las autoridades competentes en los casos de infracción o delito;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2017)</small>
 
-XXVII.- Prestar servicios de mediación a través de los Centros que al efecto se establezcan conforme a la ley de la materia; y
+XXVII.- Prestar servicios de mediación a través de los Centros que al efecto se establezcan conforme a la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2017)</small>
+
+XXVIII.- Brindar atención a víctimas de delitos susceptibles de recibir servicios de asistencia social; y
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2007)</small>
 
-XXVIII.- Las demás que establezcan las disposiciones aplicables en la materia.
+XXIX.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 ###### ARTICULO 20.
 
@@ -922,6 +930,14 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 P.O. 13 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-112 MEDIANTE EL CUAL EL (SIC) SE REFORMAN LOS ARTÍCULOS 5o. FRACCIÓN X, 14 FRACCIÓN XXIII, Y 19 FRACCIÓN XXVII; Y SE ADICIONAN LA FRACCIÓN XXIV AL ARTÍCULO 14, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XXIV PARA SER XXV; Y, UNA FRACCIÓN XXVIII AL ARTÍCULO 19, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XXVIII PARA SER XXIX, DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL".]
 
 ###### ARTÍCULO ÚNICO.
 
