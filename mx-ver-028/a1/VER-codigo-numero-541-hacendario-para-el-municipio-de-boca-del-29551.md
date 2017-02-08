@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-541-hacendario-para-el-municipio-de-boca-del-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-02-19"
-last_updated: "2016-11-23"
+last_updated: "2017-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ-LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE FEBRERO DE 2017.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 19 de febrero de 2003.
 
@@ -123,7 +123,7 @@ XVIII. Oficina Ejecutora: La oficina de Ejecución Fiscal de la Tesorería o su 
 
 XIX. Presidente: El Presidente Municipal del Ayuntamiento;
 
-XX. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo apruebe y publique, de conformidad por lo establecido por este Código, para conceder derechos o imponer obligaciones a los sujetos pasivos de la relación tributaria;.
+XX. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo apruebe y publique, de conformidad por lo establecido por este Código, para conceder derechos o imponer obligaciones a los sujetos pasivos de la relación tributaria;
 
 XXI. Síndico: El Síndico del Ayuntamiento;
 
@@ -933,7 +933,7 @@ II. No proporcionen la documentación, informes o datos que les soliciten, o los
 
 III. No tengan la documentación a que estén obligados;
 
-IV. La información que se obtenga de terceros ponga de manifiesto discrepancias con sus datos o informes manifestados o declarados;.
+IV. La información que se obtenga de terceros ponga de manifiesto discrepancias con sus datos o informes manifestados o declarados;
 
 V. No manifiesten a la autoridad fiscal, en las formas y plazos establecidos, que se ha modificado el valor de un inmueble, se transmitió la propiedad o posesión del mismo, variaron sus características físicas, o se realizó cualquier otro hecho que sea relevante para la determinación de las contribuciones relacionadas con éstos;
 
@@ -1957,7 +1957,7 @@ Es base de esta contribución el importe de los pagos por concepto de los impues
 
 ###### Artículo 172.
 
-Esta contribución se causará y pagará, aplicando a la base que corresponda, las tarifas o tasas siguientes:.
+Esta contribución se causará y pagará, aplicando a la base que corresponda, las tarifas o tasas siguientes:
 
 I. Siete y medio por ciento adicional sobre el impuesto predial;
 
@@ -2005,7 +2005,7 @@ Cuando un mismo contribuyente realice más de un fraccionamiento deberá registr
 
 ###### Artículo 181.
 
-Lo previsto en este Capitulo se aplicará sin perjuicio de las obligaciones que se deriven de la Ley de Catastro y de la Ley de Desarrollo Regional y Urbano del Estado de Veracruz de Ignacio de la Llave.
+Lo previsto en este Capítulo se aplicará sin perjuicio de las obligaciones que se deriven de la Ley de Catastro y de la Ley de Desarrollo Regional y Urbano del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 182.
 
@@ -2015,7 +2015,7 @@ I. Fraccionador: la persona física o moral que realice un fraccionamiento con f
 
 II. Fraccionamiento: división, aprobada por la autoridad competente, de un terreno en lotes, con servicios de infraestructura y equipamiento;
 
-III. Valor Catastral: valor de un bien inmueble, que se obtiene al aplicar las técnicas de valuación establecidas en el Capitulo IV de la Ley de Catastro; y
+III. Valor Catastral: valor de un bien inmueble, que se obtiene al aplicar las técnicas de valuación establecidas en el Capítulo IV de la Ley de Catastro; y
 
 IV. Enajenación: toda transmisión de propiedad, aun en la que el enajenante se reserve el dominio del bien enajenado.
 
@@ -2471,7 +2471,21 @@ mínimos
 
 En ningún caso la cuota a pagar será menor a 5 salarios mínimos.
 
-Por cambio de uso de suelo, en caso de que el Municipio contare con un Programa de Ordenamiento Urbano, en términos de la normatividad aplicable, se pagará el cincuenta por ciento de la cuota establecida para un dictamen de uso de suelo.
+> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2017)</small>
+
+Por cambio de uso de suelo, en caso de que el municipio contare con un Programa de Ordenamiento Urbano, en términos de la normatividad aplicable, se pagará el cincuenta por ciento de la cuota establecida para un dictamen de uso de suelo; y
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2017)</small>
+
+VII. Por expedición de congruencia de uso de suelo para trámites en la zona federal Marítimo Terrestre y Terrenos Ganados al Mar, según clasificación, por metro cuadrado.
+
+Uso Unidad de Medida
+
+y Actualización
+
+l. Protección u ornato 1
+
+2. General 1
 
 La modificación o revalidación de proyectos causarán derechos, a razón de un cincuenta por ciento sobre las cuotas que correspondan a la fracción V.
 
@@ -4703,7 +4717,7 @@ I. Los no comprendidos en el artículo anterior;
 
 II. Los inmuebles que formen parte del fundo legal no enajenados a particulares;
 
-III. Los excesos o demasías en inmuebles del fundo legal enajenados a particulares, si fueren mayores al diez por ciento de la superficie declarada en el título de propiedad;.
+III. Los excesos o demasías en inmuebles del fundo legal enajenados a particulares, si fueren mayores al diez por ciento de la superficie declarada en el título de propiedad;
 
 IV. Los que hayan formado parte del patrimonio de las Entidades que se extingan o liquiden, en la proporción que corresponda al Municipio;
 
@@ -5200,3 +5214,9 @@ G.O. 23 DE NOVIEMBRE DE 2016.
 Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 247 POR ELQUE SE REFORMA EL TERCER PÁRRAFO DE LA FRACCIÓN VI Y ADICIONA LA FRACCIÓN VII AL ARTÍCULO 206 DEL CÓDIGO NÚMERO 541 HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERA CRUZ DE IGNACIO DE LA LLAVE".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
