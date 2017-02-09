@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-federal-electoral-en-materia-de-96130"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-07"
-last_updated: "2013-10-07"
+last_updated: "2017-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-08-29"
 ---
 # REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, PUBLICADO EN EL D.O.F. DE 9 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE FEBRERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 7 de octubre de 2013.
 
@@ -3272,3 +3274,21 @@ No se tomarán en cuenta en la Resolución del recurso hechos, documentos o aleg
 ## TRANSITORIO
 
 PRIMERO (SIC).- El Instituto Federal Electoral publicará en la página de internet del Instituto la información relativa a los procesos de adquisiciones, arrendamientos y servicios en Materia de Obras Públicas y Servicios Relacionados con las Mismas que se mencionan en el artículo 17 del presente Reglamento. El 31 de diciembre del 2013 se implementará el sistema electrónico de información del Instituto Federal Electoral sobre Obras Públicas y Servicios Relacionados con las Mismas (CompraIFE), a través del cual se continuaran llevando las publicaciones.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abroga el Reglamento de Obras Públicas y Servicios Relacionadas con las Mismas de Instituto Federal Electoral a la entrada en vigor del presente Reglamento.
+
+TERCERO. Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se opongan al presente Reglamento, en tanto se expiden las que deban sustituirlas.
+
+CUARTO. La Junta General Ejecutiva deberá expedir las Políticas, Bases y Lineamientos del Instituto Nacional Electoral en Materia de Obras Públicas y Servicios Relacionados con las Mismas, dentro de los 180 días posteriores a la entrada en vigor del presente Reglamento.
+
+QUINTO. El Manual de Integración y Funcionamiento del Comité Central de Obras y Servicios Relacionados con las Mismas del Instituto Nacional Electoral, deberá de aprobarse dentro de los 180 días posteriores a la entrada en vigor del presente Reglamento.
+
+SEXTO. Todos los asuntos que se encuentren en trámite o pendiente de resolución al momento de la expedición del presente Reglamento se concluirán conforme a las disposiciones vigentes al momento en que se iniciaron.
