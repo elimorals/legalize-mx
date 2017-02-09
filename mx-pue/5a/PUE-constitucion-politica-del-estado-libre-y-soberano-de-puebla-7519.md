@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2017-01-31"
+last_updated: "2017-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE ENERO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 27 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -519,17 +517,23 @@ IV.- Realizar sus actividades y usar y disponer de sus bienes, en forma que no p
 
 ### CAPITULO IV. DE LOS POBLANOS Y DE LOS CIUDADANOS DEL ESTADO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 18.
 
-Son poblanos:
+Son poblanos por nacimiento o por residencia, ejerciendo los mismos derechos y cumpliendo las mismas obligaciones en los términos que señale la presente Constitución y las leyes de la materia:
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2009)</small>
 
 I.- Los nacidos en territorio del Estado;
 
-II.- Los mexicanos hijos de padre poblano o madre poblana, nacidos fuera del territorio del Estado, mayores de edad, que manifiesten ante el Congreso local, su deseo de ser poblanos y obtengan del mismo su aprobación para ser considerados como tales; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2017)</small>
 
-III.- Los mexicanos nacidos fuera del territorio del Estado, hijos de padres no poblanos, con residencia continua y comprobable de cinco años dentro del mismo, mayores de edad, que manifiesten ante el Congreso local su deseo de ser poblanos y obtengan del mismo su aprobación para ser considerados como tales.
+II.- Los mexicanos mayores de edad hijos de padre o madre poblana, nacidos fuera del territorio del Estado, o
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2017)</small>
+
+III.- Los mexicanos mayores de edad nacidos fuera del territorio del Estado, hijos de padres no poblanos, con residencia continua y comprobable de cinco años dentro del mismo, previa certificación que realice el Ayuntamiento del Municipio en el que residan.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
 
@@ -3516,6 +3520,16 @@ SÉPTIMO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara q
 P.O. 27 DE ENERO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 9 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES II Y III DEL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
