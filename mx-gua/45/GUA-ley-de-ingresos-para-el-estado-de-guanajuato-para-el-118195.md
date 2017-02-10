@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ingresos-para-el-estado-de-guanajuato-para-el-118195"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-27"
-last_updated: "2016-12-27"
+last_updated: "2017-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2017
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE FEBRERO DE 2017 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO, PARA EL EJERCICIO FISCAL DEL AÑO 2017
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE FEBRERO DE 2017.]
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -3051,7 +3051,9 @@ número oficial del establecimiento no procederá
 
 el cobro de la misma.
 
-XV.(sic) Por cambio de giro de licencia de funcionamiento
+> <small>(F. DE E., P.O. 10 DE FEBRERO DE 2017)</small>
+
+XXV. Por cambio de giro de licencia de funcionamiento
 
 se causará el cobro de la diferencia entre la tarifa
 
