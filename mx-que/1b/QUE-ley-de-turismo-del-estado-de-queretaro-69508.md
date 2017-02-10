@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-turismo-del-estado-de-queretaro-69508"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2013-08-30"
+last_updated: "2017-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TURISMO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -73,23 +73,27 @@ II. Fideicomiso: el Fideicomiso Promotor del Turismo en el Estado de Querétaro 
 
 III. Prestador de servicios turísticos: la persona física o jurídica que habitualmente proporcione, intermedie o contrate con el turista;
 
-IV. Secretaría: la Secretaría de Turismo del Estado de Querétaro;
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2017)</small>
 
-V. Servicios turísticos: todos los servicios que, de manera general, son ofrecidos o proporcionados al turista por cualquier prestador de servicios en zona turística y, de manera particular, los que se ofrecen a través de los lugares señalados en la presente Ley;
+IV. Pueblo Mágico: Localidad que a través del tiempo y ante la modernidad, ha conservado su valor y herencia histórica, cultural y la manifiesta en diversas expresiones a través de su patrimonio tangible e intangible irremplazable, que cuenta con el nombramiento correspondiente otorgado por la Secretaría de Turismo Federal;
+
+V. Secretaría: la Secretaría de Turismo del Estado de Querétaro;
+
+VI. Servicios turísticos: todos los servicios que, de manera general, son ofrecidos o proporcionados al turista por cualquier prestador de servicios en zona turística y, de manera particular, los que se ofrecen a través de los lugares señalados en la presente Ley;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
-VI. Turismo: las actividades que se realizan a fin de ofrecer bienes y servicios a las personas que se desplazan de su domicilio o residencia habitual, con la intención de visitar lugares que les proporcionen esparcimiento, descanso, salud, cultura, entretenimiento, diversión o recreo, generándose de estas actividades beneficios económicos y sociales que contribuyen al desarrollo del Estado;
+VII. Turismo: las actividades que se realizan a fin de ofrecer bienes y servicios a las personas que se desplazan de su domicilio o residencia habitual, con la intención de visitar lugares que les proporcionen esparcimiento, descanso, salud, cultura, entretenimiento, diversión o recreo, generándose de estas actividades beneficios económicos y sociales que contribuyen al desarrollo del Estado;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
-VII. Turismo cultural: viaje turístico motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social como destino específico;
+VIII. Turismo cultural: viaje turístico motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social como destino específico;
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
 
-VIII. Turismo de reuniones y negocios: actividad turística, encaminada a impulsar y promover en la Entidad, la realización de actividades vinculadas con aspectos tales como mercadeo o actividades laborales, profesionales o económicas con diferentes propósitos, que requieren infraestructura y servicios específicos para su realización, para distinto número de participaciones; y
+IX. Turismo de reuniones y negocios: actividad turística, encaminada a impulsar y promover en la Entidad, la realización de actividades vinculadas con aspectos tales como mercadeo o actividades laborales, profesionales o económicas con diferentes propósitos, que requieren infraestructura y servicios específicos para su realización, para distinto número de participaciones; y
 
-IX. Turista: la persona nacional o extranjera, que viaja, trasladándose temporalmente fuera de su domicilio o residencia habitual y que contrata o utiliza cualquiera de los servicios a que se refiere esta Ley u otros ordenamientos legales aplicables.
+X. Turista: la persona nacional o extranjera, que viaja, trasladándose temporalmente fuera de su domicilio o residencia habitual y que contrata o utiliza cualquiera de los servicios a que se refiere esta Ley u otros ordenamientos legales aplicables.
 
 ###### Artículo 4.
 
@@ -179,7 +183,13 @@ IV. La coordinación de acciones con el Gobierno Federal, con otras entidades fe
 
 La Secretaría promoverá y participará en los acuerdos y convenios que celebre el Gobernador del Estado con el Gobierno Federal, los municipios y los prestadores de servicios turísticos.
 
-Asimismo, promoverá la participación del Estado en los programas turísticos que abarquen a varias entidades federativas, suscribiendo al efecto los convenios necesarios para la difusión de los valores artísticos, culturales, históricos y arqueológicos de la Entidad, a nivel nacional e internacional.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2017)</small>
+
+Promoverá la participación del Estado en los programas turísticos que abarquen a varias entidades federativas, suscribiendo al efecto los convenios necesarios para la difusión de los valores artísticos, culturales, históricos y arqueológicos de la Entidad, a nivel nacional e internacional.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2017)</small>
+
+Asimismo, brindará especial atención a las localidades con el nombramiento de Pueblo Mágico.
 
 ###### Artículo 10.
 
@@ -792,3 +802,11 @@ P.O. 30 DE AGOSTO DE 2013.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 10 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE TURISMO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
