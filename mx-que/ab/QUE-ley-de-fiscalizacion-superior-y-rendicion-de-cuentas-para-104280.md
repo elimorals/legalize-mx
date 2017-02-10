@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2016-05-30"
+last_updated: "2017-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -659,9 +659,11 @@ IX. Cualquier otro documento o apartado que permita un mayor entendimiento de su
 
 La ESFE dará cuenta a la Legislatura, en el Informe del Resultado, de las observaciones, recomendaciones y, en su caso, de la imposición de las multas o sanciones respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 49.
 
-El Pleno de la Legislatura del Estado, conocerá de los informes del resultado presentado por el titular de la ESFE y los someterá al procedimiento que establece el Capítulo siguiente. Una vez hecho lo anterior, los remitirá al Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+El Pleno de la Legislatura del Estado, conocerá de los informes del resultado presentado por el titular de la ESFE y los remitirá al Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 La Legislatura ordenará a los órganos internos de control, inicie los procedimientos correspondientes, de acuerdo a la normatividad aplicable.
 
@@ -669,23 +671,21 @@ Los órganos internos de control de los sujetos de esta Ley, deberán atender la
 
 En el caso de las recomendaciones plasmadas en el Informe del Resultados, las Entidades fiscalizadas deberán precisar las mejoras efectuadas, las acciones a realizar o las consideraciones que estimen por las cuales no resulta factible su implementación.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2017)</small>
+
 ### Capítulo IV. De la Fiscalización de las Cuentas Públicas Municipales
 
 ###### Artículo 50.
 
-La Mesa Directiva enviará los informes de resultado de los Municipios y sus organismos paramunicipales a la Comisión de Planeación y Presupuesto, para su estudio y dictamen.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2017)
 
 ###### Artículo 51.
 
-En aquellos casos en que la Comisión considere necesario aclarar o profundizar el contenido del Informe del Resultado, podrá solicitar a la ESFE las explicaciones pertinentes, a fin de realizar las aclaraciones correspondientes, sin que ello implique la reapertura del proceso de Fiscalización Superior del que originó el Informe del Resultado.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2017)
 
 ###### Artículo 52.
 
-La Comisión elaborará el Dictamen correspondiente con base en todo lo actuado, debiendo presentarlo ante el Pleno de la Legislatura a más tardar a los 30 días naturales siguientes a la presentación que del Informe del Resultado se haya hecho al Presidente de la Legislatura.
-
-La Comisión podrá considerar el Informe del Resultado y todo lo actuado, para la dictaminación de las leyes de ingresos de las Entidades fiscalizadas municipales.
-
-El análisis de la Comisión podrá derivar, en su caso, en las iniciativas de ley que juzgue conveniente.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2017)
 
 ## Título Cuarto. De la Fiscalización de Recursos Federales
 
@@ -986,3 +986,19 @@ Artículo Sexto. Dentro del plazo de 120 días hábiles contados a partir del in
 Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Estado de Querétaro, publicada el 13 de mayo de 2016, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, toda aquella referencia en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, sobre la Comisión Estatal de Información Gubernamental, en adelante se entiende como la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
 
 Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
+
+P.O. 10 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 49 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 10 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
