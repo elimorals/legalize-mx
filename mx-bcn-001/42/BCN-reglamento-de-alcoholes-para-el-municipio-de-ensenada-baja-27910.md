@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2016-08-05"
+last_updated: "2017-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -85,11 +85,11 @@ El objeto del presente ordenamiento es regular la venta, almacenaje y consumo de
 
 La venta, almacenaje y consumo público de bebidas alcohólicas, sólo podrán realizarse en los establecimientos o lugares que establezca éste ordenamiento, previo permiso que para tal efecto, otorgue el Ayuntamiento de Ensenada o el Ejecutivo municipal en su caso.
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O.10 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 3.
 
-Para los efectos de éste Reglamento, se entenderá por:
+Para los efectos de este Reglamento, se entenderá por:
 
 (REPUBLICADA, P.O. 1 DE JULIO DE 2016)
 
@@ -135,9 +135,9 @@ XX. Regularización.- Procedimiento que realiza el Ayuntamiento para otorgar per
 
 XXI. Co-titularidad.- Es la autorización por el presidente municipal a una persona física y una persona moral a compartir los derechos para operar un establecimiento mercantil, donde se expenda bebidas alcohólicas y/o cerveza, únicamente en envase cerrado. Estas licencias deberán reunir todos los requisitos exigidos por este reglamento.
 
-(REPUBLICADA, P.O. 1 DE JULIO DE 2016)
+> <small>(REFORMADA, P.O.10 DE FEBRERO DE 2017)</small>
 
-XXII. Cancelación.- Resolución emitida por el ejecutivo municipal, mediante la cual queda sin efecto el permiso, conforme al procedimiento establecido en el presente ordenamiento.
+XXII.- Cancelación.- Resolución emitida por el Presidente Municipal una vez aprobado por el Cabildo, mediante la cual queda sin efecto el permiso, conforme al procedimiento establecido en el presente ordenamiento.
 
 > <small>(ADICIONADA, P.O. 1 DE JULO DE 2016)</small>
 
@@ -399,7 +399,7 @@ VI.- Depósito, Agencia y Sub-agencia.- Son los establecimientos cuya actividad 
 
 VII.- Bodega.- Establecimiento habilitado exclusivamente para almacenar bebidas alcohólicas mercancías diversas para su posterior distribución al mayoreo; y
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)
+(REPUBLICADO PRIMER PÁRRAFO, P.O.10 DE FEBRERO DE 2017)
 
 ###### ARTÍCULO 20.
 
@@ -421,7 +421,9 @@ VII.- Salón Social.- Establecimiento mercantil, que cuenta con las dimensiones 
 
 VIII.- Discoteca, Café cantante.- Son los establecimientos cuya actividad principal son el esparcimiento y la venta de bebidas alcohólicas cualquiera que sea su graduación en envase abierto, sin alimentos, mismos que deberán contar con la mayoría de los servicios adicionales, como lo son, pista de baile, música grabada, música en vivo, espectáculo artístico.
 
-IX.- Centro de espectáculos, Cabaret.- Establecimiento mercantil cuya actividad accesoria es la venta de bebidas alcohólicas, cualquiera que sea su graduación, siendo por ello su actividad principal, la presentación de espectáculos artísticos consistentes en la presentación de artistas profesionales, actuaciones de bailes artísticos denominados "tabledance" o "cheap & dale".
+> <small>(REFORMADA, P.O.10 DE FEBRERO DE 2017)</small>
+
+IX.- Centro de espectáculos, Cabaret.- Establecimiento mercantil cuya actividad accesoria es la venta de bebidas alcohólicas, cualquiera que sea su graduación, siendo por ello su actividad principal, la presentación de espectáculos artísticos consistentes en la presentación de artistas profesionales, actuaciones de bailes artísticos denominados "tabledance" o "chippendale".
 
 X.- Eventos.- Son todos los eventos temporales en donde se congrega la gente para celebrar o degustar, que se lleven a cabo en el territorio municipal, en los que se expenden, y consumen, bebidas alcohólicas, vinos de mesa, licores o cerveza en envase abierto, los días de lunes a domingo en el horario autorizado para tal efecto. En cada evento se requerirá el permiso por escrito de la autoridad municipal competente, especificando en el mismo la clasificación de las bebidas alcohólicas para su consumo y venta al publico lo cual solo podrá hacerse por personas mayores de edad y en envase desechable, así mismo, no deberá permitirse la venta y consumo a personas que no acrediten su mayoría de edad.
 
@@ -1041,9 +1043,11 @@ XI.- Los inspectores podrán solicitar el auxilio de la fuerza pública para hac
 
 Son responsables de las infracciones que se comentan a la Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas y al presente ordenamiento: los propietarios, administradores y los encargados de los establecimientos, así como aquellas personas que organicen cualquier evento público o privado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O.10 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 70.
 
-Corresponde al Presidente Municipal por conducto de la Secretaria del Ayuntamiento, determinar en su caso la cancelación de los permisos, cuando se den los siguientes supuestos:
+Corresponde al Cabildo determinar en su caso la cancelación de los permisos, cuando se den los siguientes supuestos:
 
 I.- Cuando la operación del negocio o establecimiento afecte el bienestar social, la seguridad pública, la paz o la tranquilidad de la comunidad.
 
@@ -1171,15 +1175,15 @@ Recibida el acta de infracción, el Secretario del Ayuntamiento por conducto de 
 
 Si del acta de infracción se desprendieren causales señaladas en el artículo 78 de este reglamento, se ordenará por el Secretario del Ayuntamiento la clausura definitiva, cuando no se hayan desvirtuado en la audiencia a la que fue citado el interesado, los hechos que motivaron el levantamiento de los reportes o actas de las que se le dio vista.
 
+> <small>(REFORMADO, P.O.10 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 82.
 
-Para la cancelación de los permisos por los motivos señalados en el artículo 70 de este Reglamento se procederá conforme a lo siguiente:
+Para la cancelación de los permisos por los motivos señalados en el artículo 70 de este Reglamento se procederá conforme a lo siguiente: El Secretario Fedatario del Ayuntamiento, podrá proponer la cancelación del permiso; para tal efecto se notificará al permisionario que se dará inicio al procedimiento de cancelación, y se señalará día y hora hábil para que tenga verificativo una audiencia de pruebas y alegatos, para no violentar la garantía de audiencia del permisionario, en la cual el afectado podrá aportar todas y cada una de las pruebas reguladas por el Código de Procedimientos Civiles en el Estado de Baja California, a excepción de la prueba confesional y la declaración de parte.
 
-El Secretario Fedatario del Ayuntamiento, podrá proponer la cancelación del permiso; para tal efecto se notificará al permisionario que se dará inicio al procedimiento de cancelación, y se señalará día y hora hábil para que tenga verificativo una audiencia de pruebas y alegatos, para no violentar la garantía de audiencia del permisionario, en la cual el afectado podrá aportar todas y cada una de las pruebas reguladas por el Código de Procedimientos Civiles en el Estado de Baja California, a excepción de la prueba confesional y la declaración de parte.
+Una vez que el permisionario haya sido, oído y vencido en el procedimiento, el Secretario Fedatario del Ayuntamiento presentará la propuesta de cancelación del permiso al Presidente Municipal quien en junta de cabildo la turnará a la Comisión de Gobernación y Legislación para su análisis debiendo emitirse opinión por escrito, anexándose a la propuesta.
 
-Una vez que el permisionario haya sido oído y vencido en el procedimiento, el Secretario Fedatario del Ayuntamiento presentará la propuesta de cancelación al Presidente Municipal quien en junta de cabildo la turnará a la Comisión de Gobernación y Legislación para su análisis debiendo emitirse opinión por escrito, anexándose a la propuesta. Posteriormente, la Comisión la presentará ante el H. Cabildo, para que en ejercicio de sus facultades citadas en el presente ordenamiento, autorice la cancelación del permiso, en el caso de que sea procedente.
-
-Autorizada la propuesta de cancelación del permiso, el Secretario Fedatario del Ayuntamiento a través del Director de Alcoholes y Espectáculos Públicos, notificará al Interesado, la resolución definitiva emitida por el H. Cabildo, mismo que tendrá 10 días hábiles a partir del siguiente al de su notificación, para Interponer el recurso de revisión.
+Posteriormente la Comisión de Gobernación y Legislación presentará ante el H. Cabildo, para que en ejercicio de sus facultades citadas en el presente ordenamiento, autorice la cancelación del permiso, en el caso de que sea procedente. Autorizado (sic) la propuesta de cancelación del permiso, el Secretario Fedatario del Ayuntamiento a través del Director de Alcoholes y Espectáculos Públicos, notificará al interesado la resolución definitiva emitida por el Presidente Municipal, mismo que tendrá 10 días hábiles a partir del siguiente al de su notificación, para interponer el recurso de revisión.
 
 ### CAPITULO DÉCIMO SEGUNDO. DEL CONSEJO CONSULTIVO MUNICIPAL
 
@@ -1456,3 +1460,9 @@ TERCERO.- Publíquese en el Periódico Oficial del Estado de Baja California.
 CUARTO.- Cúmplase.
 
 > <small>[N. DE E. EL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL ARTÍCULO 1 TRANSITORIO DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O.10 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 3, 20, 70 Y 82 DEL REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 002/2017”.]
+
+UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
