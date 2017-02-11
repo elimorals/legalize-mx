@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-universidad-autonoma-de-nayarit-33691"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-23"
-last_updated: "2003-11-15"
+last_updated: "2017-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE NAYARIT
 
-LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE NAYARIT
+LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2017.
 
-Ley publicada en el Periódico Oficial el Sábado 23 de Agosto de 2003.
+Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 23 de agosto de 2003.
 
 C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
 
@@ -161,6 +161,10 @@ b) La Fundación Universitaria;
 
 c) Los que se establezcan en la legislación universitaria y en las demás disposiciones y acuerdos que dicte el Consejo General Universitario.
 
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+La Universidad Autónoma de Nayarit contará con un Órgano Interno de Control con las facultades establecidas en la Constitución Política del Estado Libre y Soberano de Nayarit, esta ley y las demás leyes aplicables.
+
 ### Capítulo V. De las autoridades colegiadas
 
 ###### Artículo 14.
@@ -211,7 +215,7 @@ VII. Aprobar y vigilar la correcta administración y aplicación del presupuesto
 
 VIII. Expedir los nombramientos que le correspondan conforme a la legislación universitaria, y recibir la protesta de ley;
 
-IX. Fijar los lineamientos y establecer el órgano para la fiscalización y control interno de la Universidad y, de acuerdo con lo señalado en el Estatuto de Gobierno, aprobar su integración y funcionamiento;
+IX. (DEROGADA, P.O. 11 DE FEBRERO DE 2017)
 
 X. Aprobar la adquisición y destino de los bienes de la Universidad, en los términos de las leyes y normatividad que resulten aplicables;
 
@@ -309,7 +313,9 @@ f) Los demás requisitos que se establecen en esta ley y el Estatuto de Gobierno
 
 Las facultades y obligaciones del Rector de la Universidad, se establecerán en el Estatuto de Gobierno, las cuales de manera enunciativa y no limitativa, comprenderán:
 
-I. En lo administrativo: las relativas a nombramientos y remociones de los titulares de las dependencias y demás funcionarios universitarios cuya competencia no esté reservada al Consejo General Universitario, y las de dirigir y supervisar el funcionamiento de la administración general de la Universidad para que ésta cumpla con su objeto y principios;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2017)</small>
+
+I. En lo administrativo: las relativas a nombramientos y remociones de los titulares de las dependencias y demás funcionarios universitarios cuya competencia no esté reservada al Consejo General Universitario o al H. Congreso del Estado de Nayarit, y las de dirigir y supervisar el funcionamiento de la administración general de la Universidad para que ésta cumpla con su objeto y principios;
 
 II. En lo académico: las relacionadas con la organización, coordinación y vigilancia de las funciones académicas sustantivas, de conformidad con el sistema de planeación y los programas respectivos;
 
@@ -493,7 +499,9 @@ La Universidad, observando la reglamentación que al efecto se expida, otorgará
 
 1. Los integrantes de la comunidad universitaria, son responsables por la infracción a las prohibiciones o el incumplimiento de las obligaciones que imponga el marco jurídico de la institución, de acuerdo con la reglamentación correspondiente.
 
-2. Los procedimientos de responsabilidades de los servidores universitarios se harán valer, en primer término, ante sus superiores jerárquicos. Los que correspondan a los estudiantes serán conocidos por los órganos colegiados competentes.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+2. Los procedimientos de responsabilidades de los servidores universitarios serán substanciados por el Órgano Interno de Control. Los que correspondan a los estudiantes serán conocidos por los órganos colegiados competentes.
 
 ###### Artículo 35.
 
@@ -501,7 +509,9 @@ Son faltas graves de responsabilidad para los miembros de la comunidad universit
 
 I. Disponer, en beneficio propio, o para fines distintos a los que estén destinados, de los bienes que constituyen el patrimonio de la Universidad, así como el daño o destrucción de los mismos; y,
 
-II. Las demás que establezca el Estatuto de Gobierno.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2017)</small>
+
+II. Las demás que establezca la ley de la materia y el Estatuto de Gobierno.
 
 ###### Artículo 36.
 
@@ -509,9 +519,87 @@ II. Las demás que establezca el Estatuto de Gobierno.
 
 2. Los daños al patrimonio universitario serán reparados en los términos de la ley, sin perjuicio de que se apliquen otras sanciones.
 
-3. El Estatuto de Gobierno establecerá el órgano contencioso que será competente para conocer en última instancia de los asuntos relacionados con este capítulo.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+3. El Estatuto de Gobierno establecerá el órgano contencioso que será competente para conocer en última instancia de los asuntos relacionados con este capítulo, sin perjuicio de los que sean competencia del Órgano Interno de Control.
 
 4. Cuando se cometan delitos dentro de las instalaciones de la Universidad se harán las denuncias respectivas ante las autoridades competentes, conforme a lo prescrito en las leyes de la materia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2017)</small>
+
+### Capítulo XI. Del Órgano Interno de Control
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 37.
+
+La Universidad Autónoma de Nayarit contará con un Órgano Interno de Control a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno, así como la investigación, substanciación y calificación de las faltas administrativas de su competencia.
+
+En su desempeño el Órgano Interno de Control se sujetará a los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
+
+El titular del Órgano Interno de Control de la Universidad Autónoma de Nayarit será designado por el H. Congreso del Estado de Nayarit, en la forma y términos que determine la Ley Orgánica del Poder Legislativo del Estado de Nayarit. Durará seis años en el cargo y podrá ser reelecto por una sola vez.
+
+El Órgano Interno de Control contará con los recursos presupuestales necesarios para el debido cumplimiento de sus atribuciones.
+
+Será un órgano administrativo de la Universidad Autónoma de Nayarit y mantendrá la coordinación técnica para el cumplimiento de sus funciones con el Sistema Local Anticorrupción.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 38.
+
+Además de las atribuciones señaladas con anterioridad, el Órgano Interno de Control será competente para:
+
+I. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Local Anticorrupción;
+
+II. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales, según corresponda en el ámbito de su competencia, y
+
+III. Presentar denuncias por hechos que las leyes señalen como delitos de corrupción ante la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 39.
+
+Para prevenir la comisión de faltas administrativas y hechos de corrupción, el Órgano Interno de Control, realizará las siguientes acciones:
+
+I. Previo diagnóstico que al efecto realice, podrá implementar acciones para orientar el criterio que en situaciones específicas deberán observar los Servidores Universitarios de la Universidad Autónoma de Nayarit en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Local Anticorrupción;
+
+II. Corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa;
+
+III. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
+
+IV. Efectuar visitas a los demás organismos internos de la Universidad para solicitar la exhibición de los libros y documentos indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+
+V. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos de la Universidad cumplan adecuadamente con sus responsabilidades administrativas;
+
+VI. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos de la Universidad, conforme a los formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la ley de la materia, y
+
+VII. Las demás que establezcan las leyes de la materia y los lineamientos emitidos por el Sistema Local Anticorrupción.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 40.
+
+El Órgano Interno de Control deberá valorar las recomendaciones que haga el Comité Coordinador del Sistema Local Anticorrupción a las autoridades, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno y con ello la prevención de faltas administrativas y hechos de corrupción. Asimismo, deberá informar a dicho Comité de la atención que se dé a éstas y, en su caso, sus avances y resultados.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 41.
+
+Los servidores públicos adscritos al Órgano Interno de Control y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 42.
+
+Los demás organismos internos y servidores públicos de la Universidad estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones legales.
+
+Si el área requerida, sin causa justificada, no presenta el informe o documentos que se le soliciten, el Órgano Interno de Control procederá a fincar las responsabilidades que correspondan conforme a derecho.
+
+El fincamiento de responsabilidades y la imposición de sanciones no relevarán al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
+
+El Órgano Interno de Control, además de imponer la sanción respectiva, requerirá al infractor para que, dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, se impondrá la sanción correspondiente.
+
+Durante el desahogo de los procedimientos administrativos tendientes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de los derechos fundamentales establecidos en la Constitución Federal y la Local, y podrán interponer los recursos legales que señale la ley de la materia.
 
 ## Transitorios
 
@@ -533,8 +621,20 @@ DADO en la Biblioteca Magna de la Universidad Autónoma de Nayarit, declarada re
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su capital, a los diecinueve días del mes de agosto del año dos mil tres.- Antonio Echevarría Domínguez.- Rúbrica.- El Secretario General de Gobierno, Adán Meza Barajas.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 15 DE NOVIEMBRE DE 2003.
 
 Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 11 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS A LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA, DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, con las salvedades previstas en los transitorios siguientes.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto el H. Congreso del Estado iniciará el procedimiento respectivo para la designación del titular del Órgano Interno de Control.
+
+TERCERO. En un plazo que no deberá exceder del día 18 de julio del presente año, la Universidad Autónoma de Nayarit deberá adecuar la legislación universitaria de acuerdo al presente decreto.
+
+CUARTO. Se deberán realizar las adecuaciones presupuestarias a efecto de lograr el debido funcionamiento del Órgano Interno de Control creado en el presente decreto.
