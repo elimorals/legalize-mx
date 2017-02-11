@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-fiscalia-general-del-estado-de-119672
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2017-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA FISCALIA GENERAL DEL ESTADO DE TABASCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE FEBRERO DE 2017 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE FEBRERO DE 2017.]</small>
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 31 de diciembre de 2016.
 
@@ -1597,6 +1597,8 @@ La Fiscalía Especializada para la Búsqueda de Personas Desaparecidas e Investi
 
 A) Búsqueda de Personas:
 
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2017)</small>
+
 I. Coordinar la investigación e inicio de las carpetas de investigación que versen sobre hechos relacionados con la desaparición de personas, de conformidad con la legislación aplicable, así como supervisar la actuación del Fiscal del Ministerio Público en el desarrollo de dichas tareas;
 
 II. Coordinar la operatividad de los programas Alerta AMBER, Alerta ALBA y Búsqueda de Personas Desaparecidas;
@@ -1631,15 +1633,57 @@ l. Supervisar las acciones para cualquier sitio en el que se presuma la existenc
 
 II. Conocer respecto de las carpetas de investigación que se inicien en otras sedes del Ministerio Público, cuando la comisión del delito de desaparición forzada de personas, se considere vinculada con el crimen organizado, en términos de la legislación aplicable;
 
-III. Coordinar, organizar y vigilar las actuaciones del Fiscal del Ministerio Público ante la autoridad judicial, en la sustanciación de los procesos relacionados con (sic)
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2017)</small>
 
-XI (SIC). Promover la formación y capacitación en materia de tortura y otros tratos o penas crueles, inhumanos o; degradantes dentro de la fiscalía y coadyuvar a la definición de los perfiles de puesto correspondientes; y
+III. Coordinar, organizar y vigilar las actuaciones del Fiscal del Ministerio Público ante la autoridad judicial, en la sustanciación de los procesos relacionados con desaparición forzada de personas, asegurando su debida actuación y observancia del marco normativo aplicable;
+
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2017)</small>
+
+IV. Capacitar al personal de enlace sobre los programas y protocolos de desaparición forzada de personas; y
+
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2017)</small>
+
+V. Las demás que le confieran las disposiciones normativas aplicables o que le encomiende su superior jerárquico.
+
+> <small>(F. DE E., P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 51.
+
+La Fiscalía Especializada para la Investigación de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, tendrá las atribuciones y obligaciones específicas siguientes:
+
+I. Coordinar la investigación, determinación y litigación de las carpetas de investigación que versen sobre hechos relacionados a la tortura y otros tratos o penas crueles, inhumanos o degradantes, de conformidad con la legislación aplicable, así como supervisar la actuación del Fiscal del Ministerio Público en el desarrollo de dichas tareas;
+
+II. Cumplir con las obligaciones previstas por los artículos 35, 59 Y demás aplicables de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+III. Respecto del Sistema Procesal Mixto:
+
+a. Conocer y tramitar hasta su conclusión las averiguaciones previas iniciadas en otras sedes del Ministerio Publico, por la comisión del delito de tortura y otros tratos o penas crueles, inhumanos o degradantes;
+
+b. Determinar el no ejercicio de la acción penal o el acuerdo de reserva en los casos en que sea procedente de conformidad a lo dispuesto en el presente reglamento;
+
+IV. Supervisar las acciones para cualquier sitio en el que se presuma la existencia de víctimas del delito de tortura y otros tratos o penas crueles, inhumanos o degradantes;
+
+V. Conocer respecto de las carpetas de investigación que se inicien en otras sedes del Ministerio Público por la comisión del delito de tortura y otros tratos o penas crueles, inhumanos o degradantes;
+
+VI. Remitir a las autoridades correspondientes las carpetas de investigación que sean competencia del Ministerio Público del fuero común, en caso de un delito diverso;
+
+VII. Determinar el no ejercicio de la acción penal en los casos en que sea procedente de conformidad a lo dispuesto en el marco normativo aplicable y remitir la indagatoria a la Vicefiscalía de Derechos Humanos y Atención a Víctimas para que resuelva lo conducente;
+
+VIII. Auxiliar a las autoridades del Estado de Tabasco, a las autoridades federales y a las de las demás entidades federativas que lo soliciten en términos de la legislación aplicable y convenios de colaboración suscritos para tales efectos;
+
+IX. Proporcionar la información correspondiente al Registro Nacional del Delito de Tortura, previsto por la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+X. Remitir la carpeta de investigación al Ministerio Público de la Federación cuando éste ejerza su facultad de atracción, por los motivos establecidos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+XI. Promover la formación y capacitación en materia de tortura y otros tratos o penas crueles, inhumanos o; degradantes dentro de la fiscalía y coadyuvar a la definición de los perfiles de puesto correspondientes; y
 
 XII. Las demás que le confieran las disposiciones normativas aplicables o que le encomiende su superior jerárquico.
 
 ### CAPÍTULO IV:. Del Fiscal del Ministerio Público
 
-Artículo 52 (sic).- En la investigación, el Fiscal del Ministerio Público tendrá las atribuciones y obligaciones específicas siguientes:
+###### Artículo 52.
+
+En la investigación, el Fiscal del Ministerio Público tendrá las atribuciones y obligaciones específicas siguientes:
 
 I. Implementar estrategias de investigación del delito para el desarrollo adecuado de la teoría de la investigación, en coordinación con la Policía de Investigación y Servicios Periciales;
 
