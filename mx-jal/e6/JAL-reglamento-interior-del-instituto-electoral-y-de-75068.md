@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-y-de-75068"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2016-09-22"
+last_updated: "2017-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -661,6 +661,8 @@ VIII. Los demás que establezca el Consejo General.
 
 ###### Artículo 13.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE FEBRERO DE 2017)</small>
+
 1. Los Directores del Instituto, tienen las obligaciones siguientes:
 
 I. Cumplir con los acuerdos, resoluciones e instrucciones del Consejo General, del Presidente y del Secretario Ejecutivo;
@@ -694,6 +696,10 @@ XIV. Fomentar la participación de los integrantes de la Dirección a su cargo e
 XV. Las demás que les sean conferidas por el Código, el Consejo General, el Presidente o el Secretario Ejecutivo; y
 
 XVI. Acordar con el Secretario Ejecutivo, los asuntos competentes a la Dirección correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2017)</small>
+
+XVII. Aportar los insumos necesarios y coadyuvar en la elaboración de la agenda de trabajo de las Comisiones del instituto.
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -1273,11 +1279,15 @@ De las Comisiones y Comités.
 
 1. Las Comisiones contribuyen al desempeño de las atribuciones del Consejo General y ejercen las facultades que les confiere el Código, los acuerdos y resoluciones que emita el propio Consejo General; al momento de su integración, deberá procurarse la participación equitativa de los Consejeros Electorales.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 34.
 
-1. Las Comisiones tendrán la obligación de presentar al Consejo General para su aprobación, el informe de actividades en el que se precisen las tareas desarrolladas, su vinculación con las metas programadas y demás consideraciones que se estimen convenientes, el cual deberá presentarse en la primera sesión del Consejo General del año siguiente al del ejercicio que se informe.
+1. Las Comisiones tendrán la obligación de presentar al Consejo General para su aprobación:
+
+I. Una agenda de trabajo para la gestión de los asuntos de la comisión de que se trate, acorde a las atribuciones previstas en el reglamento en el caso de las permanentes, y a su objeto, en el caso de las temporales; el cual deberá de presentarse dentro de los treinta días naturales siguientes a su integración o en su caso la rotación de sus presidencias, y
+
+II. Un informe anual de actividades en el que se precisen las tareas desarrolladas.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -1918,3 +1928,9 @@ P.O. 22 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE APRUEBA REFORMAR EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO (IEPC-ACG-045/2016".]
 
 PRIMERO. Las reformas al presente Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO IEPC-ACG-004/2017 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE REFORMA EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO”.]
+
+ARTÍCULO TRANSITORIO. Por única ocasión las comisiones del instituto, deberán presentar su agenda de trabajo dentro de los 30 (treinta) días naturales siguientes a la fecha de entrada en vigor del presente reglamento.
