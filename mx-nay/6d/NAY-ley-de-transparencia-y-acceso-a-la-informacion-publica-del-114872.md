@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1148
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2016-10-21"
+last_updated: "2017-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el martes 3 de mayo de 2016.
 
@@ -569,8 +571,6 @@ XLVI. Las actas de sesiones ordinarias y extraordinarias, así como las opinione
 
 XLVII. Para efectos estadísticos, el listado de solicitudes a las empresas concesionarias de telecomunicaciones y proveedores de servicios o aplicaciones de Internet para la intervención de comunicaciones privadas, el acceso al registro de comunicaciones y la localización geográfica en tiempo real de equipos de comunicación, que contenga exclusivamente el objeto, el alcance temporal y los fundamentos legales del requerimiento, así como, en su caso, la mención de que cuenta con la autorización judicial correspondiente, y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
 
 XLVIII. El seguimiento de las obligaciones de responsabilidad hacendaria establecidas en los convenios sobre los niveles de endeudamiento elevado de los entes públicos, respectivos, y
@@ -604,8 +604,6 @@ f. Las disposiciones administrativas, directamente o a través de la autoridad c
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 g. El avance de las acciones realizadas para recuperar el presupuesto sostenible de recursos disponibles, en términos de la legislación aplicable.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1440,6 +1438,14 @@ IX. Transparencia: Obligación del Instituto de dar publicidad a las deliberacio
 El Instituto se integrará por tres Comisionados, que formarán el Pleno, de los cuales uno será su presidente; un Consejo Consultivo, un secretario ejecutivo, tres secretarios de estudio y cuenta, un director de vinculación y capacitación, un director de contraloría, un director de administración, un coordinador de monitoreo de portales de transparencia, actuarios y demás empleados necesarios para el cumplimiento de sus atribuciones, conforme al presupuesto.
 
 El Comisionado Presidente del Instituto será designado por los propios Comisionados mediante voto secreto para un periodo de tres años y seis meses con posibilidad de ser reelecto por un periodo igual.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+El Instituto contará con un Órgano Interno de Control con las facultades establecidas en la Constitución local, esta ley y las demás leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+Los servidores públicos del Instituto solo podrán ser removidos de sus cargos por causa de responsabilidad en términos de lo previsto por el Título Octavo de la Constitución Local y la ley de la materia.
 
 ###### Artículo 106.
 
@@ -2481,6 +2487,86 @@ En caso de que el incumplimiento de las determinaciones del Instituto implique l
 
 Las personas físicas o morales que reciban y ejerzan recursos públicos o ejerzan actos de autoridad deberán proporcionar la información que permita al sujeto obligado que corresponda, cumplir con sus obligaciones de trasparencia y para atender las solicitudes de acceso correspondientes.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2017)</small>
+
+## Titulo Noveno. Del Órgano Interno de Control
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE FEBRERO DE 2017)</small>
+
+### Capítulo Único. De su estructura y funcionamiento
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 204.
+
+El Instituto contará con un Órgano Interno de Control a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno, así como la investigación, substanciación y calificación de las faltas administrativas de su competencia.
+
+En su desempeño el Órgano Interno de Control se sujetará a los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
+
+El titular del Órgano Interno de Control del Instituto será designado por el Congreso del Estado, en la forma y términos que determine la Ley Orgánica del Poder Legislativo del Estado de Nayarit. Durará seis años en el cargo y podrá ser reelecto por una sola vez.
+
+El Órgano Interno de Control contará con los recursos presupuestales necesarios para el debido cumplimiento de sus atribuciones.
+
+Estará adscrito administrativamente al Instituto y mantendrá la coordinación técnica para el cumplimiento de sus funciones con el Sistema Local Anticorrupción.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 205.
+
+Además de las atribuciones señaladas con anterioridad, el Órgano Interno de Control será competente para:
+
+l. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Local Anticorrupción;
+
+II. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales, según corresponda en el ámbito de su competencia, y
+
+III. Presentar denuncias por hechos que las leyes señalen como delitos de corrupción ante la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 206.
+
+Para prevenir la comisión de faltas administrativas y hechos de corrupción, el Órgano Interno de Control, realizará las siguientes acciones:
+
+l. Previo diagnóstico que al efecto realice, podrá implementar acciones para orientar el criterio que en situaciones específicas deberán observar los Servidores Públicos del Instituto en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Local Anticorrupción;
+
+II. Corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa;
+
+III. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
+
+IV. Efectuar visitas a los organismos internos del Instituto para solicitar la exhibición de los libros y documentos indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+
+V. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
+
+VI. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, conforme a los formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la ley de la materia, y
+
+VII. Las demás que establezcan las leyes de la materia y los lineamientos emitidos por el Sistema Local Anticorrupción.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 207.
+
+El Órgano Interno de Control deberá valorar las recomendaciones que haga el Comité Coordinador del Sistema Local Anticorrupción a las autoridades, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno y con ello la prevención de faltas administrativas y hechos de corrupción. Asimismo, deberá informar a dicho Comité de la atención que se dé a éstas y, en su caso, sus avances y resultados.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 208.
+
+Los servidores públicos adscritos al Órgano Interno de Control y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+###### Artículo 209.
+
+Las demás áreas administrativas y servidores públicos del Instituto estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones legales.
+
+Si el área requerida, sin causa justificada, no presenta el informe o documentos que se le soliciten, el Órgano Interno de Control procederá a fincar las responsabilidades que correspondan conforme a derecho.
+
+El fincamiento de responsabilidades y la imposición de sanciones no relevarán al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
+
+El Órgano Interno de Control, además de imponer la sanción respectiva, requerirá al infractor para que, dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, se impondrá la sanción correspondiente.
+
+Durante el desahogo de los procedimientos administrativos tendientes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de los derechos fundamentales establecidos en la Constitución Federal y la Local, y podrán interponer los recursos legales que señale la ley de la materia.
+
 ## Artículos Transitorios
 
 Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Nayarit.
@@ -2524,3 +2610,13 @@ P.O. 21 DE OCTUBRE DE 2016.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, con la salvedad prevista en el transitorio siguiente.
 
 Artículo Segundo.- Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria del Estado, a que se refiere el presente Decreto, entrarán en vigor en las fechas señaladas en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
+
+P.O. 11 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ADICIONA DIVERSOS ARTÍCULOS A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, con las salvedades previstas en los transitorios siguientes.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto el Congreso del Estado iniciará el procedimiento respectivo para la designación del titular del Órgano Interno de Control.
+
+TERCERO. Se deberán realizar las adecuaciones presupuestarias a efecto de lograr el debido funcionamiento del Órgano Interno de Control creado en el presente decreto.
