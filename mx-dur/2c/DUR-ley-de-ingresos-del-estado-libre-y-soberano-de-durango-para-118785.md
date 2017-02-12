@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ingresos-del-estado-libre-y-soberano-de-durango-para-118
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-22"
-last_updated: "2016-12-22"
+last_updated: "2017-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO PARA EL EJERCICIO FISCAL 2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el jueves 22 de diciembre de 2016.
 
@@ -421,9 +421,13 @@ B. DERECHOS POR CONTROL VEHICULAR.
 
 I. Cuando se efectúe el pago en efectivo de replaqueo y refrendo 2017, se concederá un subsidio conforme a lo siguiente:
 
-a) Hasta el 31 de enero de 2017, el 15% del costo total.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2017)</small>
 
-b) Del 1º al 28 de febrero de 2017, un 10% del costo total.
+a) Del 1° de enero al 30 de junio de 2017, el 100% del costo total del replaqueo, a personas físicas.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2017)</small>
+
+b) Del 1° de enero al 30 de junio de 2017, el 15% del costo del total del refrendo.
 
 c) Del 1º al 31 de marzo de 2017, un 5% del costo total.
 
@@ -546,3 +550,15 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 94.- POR EL CUAL SE REFORMA EL ARTICULO 7 DE LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANGO, PARA EL EJERCICIO FISCAL 2017, EN SU NUMERAL B, FRACCIÓN I”.]
+
+PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente Decreto.
+
+TERCERO. El Estado implementará un mecanismo de reintegración a los contribuyentes que hayan realizado el pago por el juego de placas en el presente ejercicio fiscal.
