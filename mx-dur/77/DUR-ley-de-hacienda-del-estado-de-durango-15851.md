@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2016-12-25"
+last_updated: "2017-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -3003,9 +3003,9 @@ excepto agrícolas. 17
 
 6.- Placas de demostración. 21
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2017)</small>
 
-El pago por servicio de control en la dotación de placas, por canje o replaqueo, deberá realizarse cada seis años en la forma y términos indicados en el artículo 61 de la presente ley.
+El pago por servicio de control en la dotación de placas, por canje o replaqueo, deberá realizarse cada ocho años en la forma y términos indicados en los artículos 60 y 61 de la presente ley.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3740,3 +3740,15 @@ Solo aquellos municipios del Estado de Durango, que celebren convenio con el Gob
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 12 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 95.- POR EL CUAL SE REFORMA EL ARTÍCULO 60, FRACCIÓN I EN SU ÚLTIMO PÁRRAFO".]
+
+PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Respecto de los subsidios para el canje o replaqueo y refrendo, se estará a lo dispuesto en el artículo 7 de la Ley de Ingresos del Estado Libre y Soberano de Durango para el ejercicio fiscal 2017.
+
+TERCERO. El Estado implementará un mecanismo de reintegración a los contribuyentes que hayan realizado el pago por el juego de placas en el presente ejercicio fiscal.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
