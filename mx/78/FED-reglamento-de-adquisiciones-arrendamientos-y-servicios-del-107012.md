@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-adquisiciones-arrendamientos-y-servicios-del-1070
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-03-31"
-last_updated: "2015-03-31"
+last_updated: "2017-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107012&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-03-26"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2015.
 
@@ -1455,10 +1455,20 @@ SEGUNDO.- Se instruye por única ocasión a la Dirección General de Administrac
 
 TERCERO.- Se instruye a la Dirección General de Administración para que elabore las Políticas, Bases y Lineamientos, a que hace referencia el párrafo quinto del artículo 1o. del presente Reglamento, en un término que no deberá de exceder de treinta días hábiles contados a partir de que entre en vigor el presente ordenamiento y someta las Políticas a la aprobación del Pleno; y las Bases y Lineamientos a la aprobación del Comité.
 
-CUARTO.- El Instituto Federal de Acceso a la Información y Protección de Datos contará con un Sistema Electrónico denominado COMPRAIFAI para publicar los procedimientos establecidos en este Reglamento; mismo que entrará en operación antes de que finalice el mes de diciembre de 2016, en tanto no se desarrolle este sistema, la publicación de los procedimientos de contratación se seguirán llevando a cabo a través del sistema CompraNet.
+> <small>(REFORMADO, 13 DE FEBRERO DE 2017)</small>
+
+CUARTO.- El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, utilizará el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet, para la celebración de los procedimientos de contratación a los que se refiere el Reglamento de Adquisiciones, Arrendamientos y Servicios del Instituto Federal de Acceso a la Información y Protección de Datos.
 
 QUINTO.- Los procedimientos de contratación, de inconformidades, de sanción a licitantes, proveedores o contratistas, y de recursos de revisión que se encuentren en trámite a la fecha de la entrada en vigor del presente Reglamento, continuarán hasta su conclusión en los términos y las disposiciones establecidas en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y su Reglamento vigente a la fecha.
 
 SEXTO.- Los contratos celebrados antes de la entrada en vigor del presente Reglamento, continuarán regulándose hasta su terminación por las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y su Reglamento vigentes a la fecha del inicio del trámite.
 
 SÉPTIMO.- Las Pobalines referidas en el presente Reglamento, deberán ser aprobadas a más tardar en los siguientes treinta días hábiles posteriores a la publicación de este Reglamento en el Diario Oficial de la Federación. En tanto, se aplicarán las Políticas, Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Servicios del IFAI que se encuentran vigentes a la fecha.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEXTO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
