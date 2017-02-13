@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2017-01-23"
+last_updated: "2017-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2017.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -2235,53 +2235,33 @@ cuando para la atención de algún asunto exista duda respecto de la competencia
 
 ### CAPITULO SEGUNDO. De las Dependencias de la Administración Pública Municipal
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 199.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes unidades administrativas:
 
-I.- Oficina del Presidente Municipal;
+I.- Oficina del Presidente Municipal.
 
 II.- Secretaría del H. Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+III.- Dirección de Finanzas y Administración;
 
-III.- Dirección de Seguridad Pública y Vialidad;
+IV.- Dirección Jurídica;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+V.- Dirección de Seguridad pública y Vialidad;
 
-V (sic). Dirección de Finanzas y Administración;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-IV (sic). Dirección Jurídica;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-VI. Dirección de Obras Públicas y Desarrollo Urbano;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+VI.- Dirección de Obras Públicas y Desarrollo Urbano;
 
 VII.- Dirección de Servicios Públicos Municipales y Mantenimiento;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-VIII. Dirección de Desarrollo Social;
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+VIII.- Dirección de Desarrollo Social;
 
 IX.- Contraloría Municipal;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
 X.- Sistema para el Desarrollo Integral de la Familia;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XI.- Instancia Municipal de las Mujeres; y
-
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+XI.- Instancia Municipal de las Mujeres, y
 
 XII.- Subdelegación del INAPAM.
 
@@ -2303,13 +2283,11 @@ Con base en las políticas, prioridades y restricciones establecidas por el Pres
 
 Los manuales de organización y procedimiento de cada dependencia, entidad o área municipal donde se describan todos los servicios o productos a generar y que autorice el Ayuntamiento con base a lo dispuesto por el presente ordenamiento, serán complementarios del mismo y de observancia obligatoria para los servidores públicos municipales.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 203.
 
 Las dependencias de la Administración Pública Municipal contarán con las siguientes unidades administrativas:
-
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
 
 I.- Oficina del C. Presidente Municipal:
 
@@ -2323,41 +2301,15 @@ d).- Departamento de Atención a la ciudadanía;
 
 II.- Secretaría del H. Ayuntamiento:
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+a).- Departamento de Reglamentos y Licencias;
 
-a).- Dirección de Seguridad Pública;
+b).- Departamento de Regulación Sanitaria;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+c).- Departamento de Acción Cívica y Logística;
 
-a.1.- Subdirección de Policía Preventiva;
+d).- Departamento de Protección Civil;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
-
-a.2.- Subdirección de Policía Vial;
-
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
-
-a.3.- Departamento de Profesionalización;
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-b).- Departamento de Reglamentos y Licencias;
-
-c).- Departamento de Regulación Sanitaria;
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-d).- Departamento de Acción Cívica y Logística;
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-e).- Departamento de Protección Civil;
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-f).- Departamento de Sistemas Informáticos.
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+e).- Departamento de Sistemas Informáticos.
 
 III.- Dirección de Finanzas y Administración:
 
@@ -2369,35 +2321,37 @@ a.2.- Departamento de Capital Humano.
 
 b).- Subdirección de Finanzas:
 
-b.1).- Departamento de Contabilidad;
+b.1.- Departamento de Contabilidad;
 
-b.2).- Departamento de Control Presupuestal;
+b.2.- Departamento de Control Presupuestal;
 
-b.3).- Departamento de Recaudación;
+b.3.- Departamento de Recaudación;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+IV.- Dirección Jurídica:
 
-III (sic).- Dirección Jurídica.
+V.- Dirección de Seguridad Pública y Vialidad;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+a).- Subdirección de Seguridad Púbica (sic);
 
-V.- Dirección (sic) Obras Públicas y Desarrollo Urbano:
+b).- Subdirección de Vialidad;
+
+VI.- Dirección Obras Públicas y Desarrollo Urbano:
 
 a).- Subdirección de Obras Púbicas (sic):
 
-a.1). Departamento de Costos y Licitaciones;
+a.1.- Departamento de Costos y Licitaciones;
 
-a.2).- Departamento de Proyectos;
+a.2.- Departamento de Proyectos;
 
-a.3).- Departamento de Supervisión;
+a.3.- Departamento de Supervisión;
 
 b).- Subdirección de Desarrollo Urbano:
 
-b.1).- Departamento de Desarrollo Urbano;
+b.1.- Departamento de Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+b.2.- Departamento de Planeación;
 
-VI.- Dirección de Servicios Púbicos (sic) Municipales y Mantenimiento:
+VII.- Dirección de Servicios Púbicos (sic) Municipales y Mantenimiento:
 
 a).- Departamento de Alumbrado Público;
 
@@ -2407,41 +2361,35 @@ c).- Departamento de Parques, Jardines y Panteones;
 
 d).- Departamento de Ecología;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-VII.- Dirección de Desarrollo Social:
+VIII.- Dirección de Desarrollo Social:
 
 a).- Subdirección de Desarrollo Social:
 
-a.1).- Departamento de Programas Coordinados;
+a.1.- Departamento de Programas Coordinados;
 
-a.2).- Departamento de Fomento a la Cultura;
+a.2.- Departamento de Fomento a la Cultura;
 
-a.3).- Departamento de Fomento al Deporte;
+a.3.- Departamento de Fomento al Deporte;
 
-a.4).- Departamento de Desarrollo Rural;
-
-a.5).- Representación del INJUVE;
+a.4.- Representación del INJUVE;
 
 b).- Subdirección de Desarrollo Económico:
 
-b.1).- Departamento de Fomento a la Inversión, Empleo y Desarrollo Emprendedor;
+b.1.- Departamento de Fomento a la Inversión y Desarrollo Emprendedor;
 
-b.2).- Departamento de Turismo;
+b.2.- Departamento de Turismo;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+b.3.- Departamento de Desarrollo Rural;
 
-VIII.- Contraloría Municipal:
+IX.- Contraloría Municipal:
 
 a).- Departamento de Obra Pública;
 
-b).- Departamento de Auditoria Administrativa y Financiera;
+b).- Departamento de Auditoría Administrativa y Financiera;
 
 c).- Departamento de Seguimiento, Responsabilidades y Control Patrimonial;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-IX.- Sistema para el Desarrollo Integral de la Familia:
+X.- Sistema para el Desarrollo Integral de la Familia:
 
 a).- Presidencia;
 
@@ -2453,17 +2401,13 @@ d).- Coordinación de Programas;
 
 e).- Coordinación de Servicios Médicos y Salud Menta (sic);
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-X.- Instancia Municipal de las Mujeres:
+XI.- Instancia Municipal de las Mujeres:
 
 a).- Coordinación;
 
 b).- Coordinación Operativa;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XI.- Subdelegación del INAPAM:
+XII.- Subdelegación del INAPAM
 
 a).- Coordinación de Programas;
 
@@ -10667,7 +10611,7 @@ XXXIX.- Mantener en buen estado el armamento, material, municiones y equipo que 
 
 XL.- Abstenerse de abandonar el servicio o la comisión que desempeñe antes de que llegue su relevo o bien atender asuntos de índole personal sin la autorización correspondiente;
 
-XLI.- Abstenerse de tomar parte activa durante el desempeño de su servicio en cualquier tipo de actividades de carácter político o religioso; y (sic)
+XLI.- Abstenerse de tomar parte activa durante el desempeño de su servicio en cualquier tipo de actividades de carácter político o religioso; y
 
 XLII.- Realizar en cualquier forma la comisión de un delito o falta administrativa;
 
@@ -24322,6 +24266,18 @@ Se derogan todas las disposiciones jurídicas de carácter reglamentario municip
 P.O. 23 DE ENERO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMA Y ADICIONA EL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente acuerdo.
+
+P.O. 13 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA”.]
 
 ###### ARTÍCULO PRIMERO.
 
