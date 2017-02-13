@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2017-01-02"
+last_updated: "2017-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -1445,9 +1445,7 @@ I. Planificar, coordinar, supervisar y evaluar las actividades de las unidades a
 
 II. Proponer proyectos de acuerdos y lineamientos que permitan optimizar el aprovechamiento de los recursos del Poder Judicial de la Federación;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
-
-III. Aprobar los certificados de necesidad a que se refiere el artículo 296 Bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
+III. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN Y DEROGAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 13 DE FEBRERO DE 2017)
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
@@ -2203,9 +2201,7 @@ IX. Fungir como enlace operativo e integrante de la instancia tripartita, a la q
 
 X. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de los Centros de Justicia Penal Federal, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL, D.O.F. 11 DE NOVIEMBRE DE 2016)</small>
-
-XI. Aprobar de manera conjunta con la Secretaría Ejecutiva de Administración y la Dirección General de Asuntos Jurídicos, los certificados de necesidad a que se refiere el artículo 296 Bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, cuando se trate de procedimientos de contratación necesarios para la consolidación del nuevo sistema de justicia penal;
+XI. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN Y DEROGAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 13 DE FEBRERO DE 2017)
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL, D.O.F. 11 DE NOVIEMBRE DE 2016)</small>
 
@@ -3305,9 +3301,7 @@ XVII. Emitir opinión respecto de las inconformidades que se presenten en el des
 
 XVIII. Emitir dictamen respecto del apego a la normativa de las fianzas que otorgan los proveedores y contratistas para garantizar la legalidad de las propuestas y el cumplimiento de las obligaciones a su cargo, derivadas de los contratos que celebren con el Consejo, antes de su formalización y realizar las gestiones necesarias ante las instancias pertinentes para su reclamación, cuando dichos proveedores o contratistas incumplan sus propuestas o las obligaciones que asumieron;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
-
-XIX. Aprobar de manera conjunta con la Secretaría Ejecutiva de Administración y la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, los certificados de necesidad a que se refiere el artículo 296 Bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, cuando se trate de procedimientos de contratación necesarios para la consolidación del nuevo sistema de justicia penal.
+XIX. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN Y DEROGAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 13 DE FEBRERO DE 2017)
 
 XX. Asesorar en los asuntos relacionados con los bienes asegurados y decomisados en que tenga injerencia el Consejo;
 
@@ -5782,3 +5776,11 @@ QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidade
 SEXTO. Los asuntos que se encuentren en trámite en la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos a la entrada en vigor del presente Acuerdo, serán atendidos por la Secretaría Ejecutiva de Carrera Judicial o por la Secretaría Ejecutiva de Creación de Nuevos Órganos, según corresponda conforme a su ámbito de competencia.
 
 SÉPTIMO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
+
+D.O.F. 13 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN Y DEROGAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE CERTIFICADOS DE NECESIDAD”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
