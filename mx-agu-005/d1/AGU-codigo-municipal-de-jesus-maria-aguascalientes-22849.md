@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2016-11-28"
+last_updated: "2017-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO DEL ACUERDO DE REFORMA, PUBLICADO EN EL P.O. 13 DE FEBRERO DE 2017, "CUANDO EN EL PRESENTE CÓDIGO U OTRO ORDENAMIENTO JURÍDICO SE REFIERAN A LAS FUNCIONES O ATRIBUCIONES PARA LA DIRECCIÓN DE PLANEACIÓN, ASÍ COMO LAS RELATIVAS AL DESARROLLO URBANO, LAS MISMAS SE ENTENDERÁN CONFERIDAS A LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO MUNICIPAL; LAS CORRESPONDIENTES A LA DIRECCIÓN DE OBRAS PÚBLICAS, SE ENTENDERÁN CONFERIDAS A LA SECRETARÍA DE OBRAS PÚBLICAS; LAS CORRESPONDIENTES A LAS DIRECCIONES DE SEGURIDAD PÚBLICA Y DE TRÁNSITO Y VIALIDAD, SE ENTENDERÁN CONFERIDAS A LA SECRETARÍA DE SEGURIDAD PÚBLICA Y VIALIDAD; LAS CORRESPONDIENTES A LA SUBDIRECCIÓN DE PROTECCIÓN AMBIENTAL Y DEPARTAMENTO DE MEDIO AMBIENTE, SE ENTENDERÁN CONFERIDAS A LA SECRETARÍA DE MEDIO AMBIENTE Y SUSTENTABILIDAD; LAS CORRESPONDIENTES A LA CONTRALORÍA MUNICIPAL, SE ENTENDERÁN CONFERIDAS A LA SECRETARIA DE AUDITORÍA FINANCIERA Y FISCALIZACIÓN; LAS CORRESPONDIENTES A COMUNICACIÓN SOCIAL, SE ENTENDERÁN CONFERIDAS A LA DIRECCIÓN DE COMUNICACIÓN Y DIFUSIÓN; LAS CORRESPONDIENTES A LA DIRECCIÓN DE SALUD, SE ENTENDERÁN CONFERIDAS A LA INSTANCIA DE SALUD PÚBLICA; LAS CORRESPONDIENTES AL COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y VOLUNTARIADO, SE ENTENDERÁN CONFERIDAS AL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA; CUANDO EN ESTE CÓDIGO SE DENOMINE ALGUNA ÁREA COMO DIRECCIÓN, LAS ATRIBUCIONES O FUNCIONES SE ENTENDERÁN CONFERIDAS A LA SECRETARIA O INSTANCIA QUE CORRESPONDA, SEGÚN EL ÁMBITO DE SU COMPETENCIA, ELLO HASTA EN TANTO SE REFORMEN LAS DISPOSICIONES LEGALES CORRESPONDIENTES".]</small>
+
 CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2017.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -254,7 +256,7 @@ A) Inscribirse en el catastro de la municipalidad, manifestando la propiedad que
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
-B) Hacer que sus hijas e hijos o pupilos concurran a las escuelas públicas o particulares para obtener en igualad de condiciones y oportunidades la educación básica;
+B) Hacer que sus hijas e hijos o pupilos concurran a las escuelas públicas o particulares para obtener en igualdad de condiciones y oportunidades la educación básica;
 
 C) Desempeñar los cargos declarados obligatorios por la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen;
 
@@ -852,45 +854,51 @@ A más tardar en la segunda sesión ordinaria posterior a la de la instalación 
 
 Las comisiones del Ayuntamiento tendrán por objeto el estudio, dictamen y propuestas de solución al Ayuntamiento en pleno, de los problemas de los distintos servicios de la administración municipal. Las comisiones establecidas podrán ser modificadas en su número y composición, en cualquier momento, por acuerdo de la mayoría de los miembros del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 83.
 
 El Ayuntamiento de Jesús María, para el eficaz desempeño de sus funciones y el cabal cumplimiento de sus obligaciones, contará con las siguientes comisiones:
 
-1. Gobernación y Licencias;
+1- Gobernación y Licencias
 
-2. Hacienda;
+2.- Hacienda
 
-3. Seguridad Pública y Tránsito;
+3.- Seguridad Pública, Tránsito y Protección Civil
 
-4. Programación Urbana y Rural;
+4.- Asuntos Metropolitanos
 
-5. Agua Potable y Alcantarillado;
+5.- Desarrollo Urbano y Territorial
 
-6. Obra Pública y Alumbrado Público;
+6.- Desarrollo Agrario y Rural
 
-7. Desarrollo Social;
+7.- Obras Públicas
 
-8. Mercados y Rastros;
+8.- Servicios Públicos
 
-9. Educación Pública y Acción Cívica;
+9.- Desarrollo Social y Deporte
 
-10. Protección al Medio Ambiente;
+10.- Educación y Acción Cívica
 
-11. Limpia;
+11.- Desarrollo Económico e Innovación Tecnológica y Calidad Regulatoria
 
-12. Salubridad, Beneficencia Pública y Espectáculos;
+12.- Salud
 
-13. Parques y Jardines;
+13.- Agua Potable y Alcantarillado
 
-14. Acción Social y Deportes;
+14.- Asuntos Internacionales y Hermanamientos
 
-15. Relojes y Panteones; y
+15.- Transparencia y Rendición de Cuentas
 
-> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+16.- Patrimonio Municipal
 
-16. De Equidad y Género; y
+17.- Ecología y Sustentabilidad
 
-Todas aquellas que el Ayuntamiento considere necesarias con base en la demanda de la ciudadanía.
+18.- Derechos Humanos, Igualdad de Género y Juventud
+
+19.- Desarrollo Integral de la Familia
+
+20.- Cultura, Turismo y Ferias
 
 ###### ARTICULO 84.
 
@@ -950,233 +958,239 @@ En el caso de que se decida la remoción de un funcionario o empleado municipal,
 
 ### CAPITULO PRIMERO. De las Dependencias
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL ACUERDO SIN NÚMERO, PUBLICADO EN EL P.O. 24 DE FEBRERO DE 2014, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
-(REFORMADO, P.O. 17 DE ENERO DE 2011).
+###### Articulo 96.
 
-###### ARTICULO 96.
-
-Para el adecuado ejercicio de las atribuciones y responsabilidades ejecutivas que le corresponden, el Ayuntamiento de Jesús María, contara con el apoyo de las siguientes dependencias administrativas, subordinadas y supervisadas por el Presidente Municipal, así como de los organismos públicos descentralizados que al efecto se propongan y constituyan en términos de la presente normatividad:
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+Para el adecuado ejercicio de las atribuciones y responsabilidades ejecutivas que le corresponden, el Ayuntamiento de Jesús María, contará con el apoyo de las siguientes dependencias administrativas, subordinadas y supervisadas por el Presidente Municipal, así como de los organismos públicos descentralizados que al efecto se propongan y constituyan en términos de la presente normatividad:
 
 I. Corporación Municipal
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
-
 II. Presidencia Municipal
 
-Jefe de Gabinete
+Secretaría Privada
 
-Coordinador de Análisis y Estudios
+Coordinación de Relaciones Públicas
 
-Secretario Particular
+Departamento de Giras y Eventos
 
-Gestión Social
+Dirección de Comunicación y Difusión:
 
-Dirección de Comunicación
+Departamento de Información
 
-Difusión Institucional
+Departamento de Difusión Institucional
 
-Prensa
+Departamento de Medios Digitales
 
 Instancia de la Mujer
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+Instancia de la Juventud
 
-III. Secretaría del H. Ayuntamiento y Dirección General de Gobierno
+Instancia del Deporte
 
-Dirección Seguridad Pública y Vialidad
+Instancia de la Cultura
 
-Coordinación Delegados Municipales
+Departamento de Turismo
 
-Jefe de departamento Protección Civil
+Instancia de Salud Pública
 
-Jefe de Departamento Acción Cívica
+Departamento de Servicios Médicos y Regulación Sanitaria
 
-Jefe de Departamento Reglamentos
+Departamento de Medicina Alternativa
 
-Jefe de Departamento Áreas Comerciales
+III. Jefe de Gabinete
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+Dirección de Políticas y Programas Federales
 
-IV. Secretaría de Finanzas
+Dirección de Proyectos Especiales y del SIPINNA
 
-Dirección Finanzas
+Coordinación de Mejores Prácticas de Gobierno y Calidad Regulatoria
 
-Jefe de Departamento Ingresos
+Centro de Información y Atención Ciudadana
 
-Jefe de Departamento Egresos
+IV. Secretario Particular:
 
-Jefe de Departamento Contabilidad
+Departamento de Acción Cívica
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+Departamento de Gestión Social
 
-V. Secretaría de Administración
+V. Secretaría del H. Ayuntamiento y Dirección General de Gobierno
 
-Jefe de Departamento de Recursos Humanos
+Departamento de Protección Civil
 
-Jefe de Departamento Adquisiciones y Control Patrimonial
+Departamento de Reglamentos
 
-Jefe de Departamento Modernización Tecnológica
+Departamento de Áreas Comerciales y Mercados
 
-Jefe de Departamento Servicios Generales
+Dirección de Asuntos Jurídicos
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+Departamento de Asuntos Administrativos, Contratos y Convenios
 
-VI. Secretaría de Servicios Públicos
+Departamento de Asuntos Contenciosos
 
-Dirección de Servicios Públicos
+Dirección de Asuntos Internacionales
 
-Jefe de Departamento Limpia y Aseo Público
+Departamento de Hermanamientos y Atención al Migrante
 
-Jefe de Departamento Panteones
+Coordinación de Asesores
 
-Jefe de Departamento Rastro
+Coordinación de Delegados Municipales
 
-Jefe de Departamento Jardines
+Coordinación de Jueces Calificadores
 
-Jefe de Departamento de Mantenimiento de Áreas Públicas
+VI. Secretaría de Finanzas
 
-Jefe de Departamento Alumbrado Público
+Departamento Jurídico
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+Dirección de Asuntos Financieros
 
-VII. Secretaría de Desarrollo Social
+Departamento de Ingresos
+
+Departamento de Egresos
+
+Departamento de Contabilidad
+
+Dirección de Compras y Licitaciones
+
+VII. Secretaría de Seguridad Pública y Vialidad
+
+Departamento de Policía Vial e Ingeniería de Tránsito
+
+Departamento de Policía Preventiva
+
+Departamento de Asuntos Internos
+
+Dirección Administrativa
+
+VIII. Secretaría de Administración
+
+Coordinación Jurídica
+
+Dirección de Control Administrativo
+
+Oficialía de Partes
+
+Departamento de Recursos Humanos
+
+Departamento de Servicios Generales
+
+Departamento de Enlaces Administrativos
+
+Coordinación de Innovación Tecnológica
+
+Dirección de Control Patrimonial
+
+IX. Secretaría de Servicios Públicos
+
+Departamento Jurídico
+
+Dirección Operativa de Servicios
+
+Departamento de Limpia y Aseo Público
+
+Departamento de Panteones
+
+Departamento de Rastro
+
+Departamento de Jardines
+
+Departamento de Mantenimiento de Áreas Públicas
+
+Departamento de Alumbrado Público
+
+Departamento de Almacén y Enlace Administrativo
+
+Dirección de Estación de Transferencia
+
+X. Secretaría de Desarrollo Social
+
+Departamento del Derecho a la Educación
+
+Departamento de Programa de Acción Municipal (PAM)
 
 Dirección de Programas Sociales
 
-Dirección de Deportes
+Departamento de Centros de Desarrollo Comunitarios (CEDECOS)
 
-Dirección de Educación
+Departamento de Concertación Social
 
-Dirección de Cultura
+XI. Secretaría de Desarrollo Agrario, Territorial y Urbano Municipal
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+Departamento de Desarrollo Agrario y Rural
 
-VIII. Secretaría de Desarrollo Agrario, Territorial y Urbano Municipal
+Dirección de Administración y Control Urbano
 
-Director Desarrollo Agrario y Urbano
+Departamento de Administración y Control Urbano
 
-Jefe de Departamento Planeación y Proyectos
+Departamento de Planeación Urbana
 
-Jefe de Departamento Administración y Control Urbano
+Departamento de Estadística, Información y Geografía Municipal
 
-Jefe de Departamento Desarrollo Agrario y Rural
+Departamento de Fraccionamientos y Condominios
 
-Jefe de Departamento Medio Ambiente y Sustentabilidad
+Dirección Jurídica
 
-Jefe de Departamento Estadística, Información y Geografía Municipal
+XII. Secretaría de Medio Ambiente y Sustentabilidad
 
-Director Desarrollo Municipal
+Departamento de Gestión Ambiental, Recursos Naturales y Biodiversidad
 
-Jefe de Departamento Políticas Públicas y Programas Federales
+Departamento de Educación Ambiental
 
-Jefe de Departamento Participación Ciudadana
+XIII. Secretaría de Obras Públicas
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+Dirección Operativa de Obras Públicas
 
-IX. Secretaría de Obras Públicas
+Departamento de Licitaciones
 
-Director de Obras Públicas
+Departamento de Enlace Gubernamental
 
-Jefe de Departamento Analista de Licitaciones
+Departamento de Costos y Presupuestos
 
-Jefe de Departamento Gestión y Enlace Gubernamental
+Departamento de Supervisión
 
-Jefe de Departamento Supervisión de Obras por Contrato y Administración
+Departamento de Proyectos de Edificación
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+Departamento de Proyectos de Vialidades
 
-X. Contraloría Municipal
+Departamento de Instalaciones
 
-Jefe de Departamento Auditoría
+Departamento de Expedientes Técnicos y Auditorías
 
-Jefe de Departamento Jurídico
+XIV. Secretaría de Auditoría Financiera y Fiscalización
 
-Jefe de Departamento Obra y Servicios Públicos
+Departamento de Auditoría Financiera y Gubernamental
 
-Coordinación de Transparencia
+Departamento Jurídico
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
+Departamento de Auditoria de Obras Públicas
 
-XI. Sistema para el Desarrollo Integral de la Familia
+Departamento de Transparencia
 
-Director DIF
+XV. Sistema para el Desarrollo Integral de la Familia
 
-Coordinación de Programas Alimentarios
+Dirección del Desarrollo Integral de la Familia
 
-Coordinación Administrativa
+Departamento del Voluntariado
 
-Coordinación CEDECOS
+Departamento de Fortalecimiento Familiar
 
-Coordinación INAPAM
+Departamento de Trabajo Social
 
-Coordinación CENDI
+Departamento Jurídico
 
-Instancia de la Juventud
+Departamento de Programas de Alimentos
 
-Dirección de Salud Pública
+Departamento Administrativo
 
-Jefatura de Departamento de Regulación Sanitaria
+Departamento de INAPAM
 
-Jefatura de Departamento de Unidad Básica de Rehabilitación
+XVI. Secretaría de Desarrollo Económico
 
-Jefatura de Departamento de (sic) Médico
+Dirección de Fomento Económico
 
-Jefatura de Departamento de Psicología
+Departamento de Promoción y Desarrollo Empresarial
 
-Jefatura de Departamento de Medicina Alternativa
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
-
-XII. Secretaría de Asesores
-
-Jefatura de Departamento de Unidad de Información y Análisis Estratégico
-
-Jefatura de Departamento de Control Administrativo
-
-Jefatura de Departamento de Innovación Gubernamental
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
-
-XIII. Secretaría de Asuntos Internacionales y Hermanamientos
-
-Jefatura de Departamento Jurídico
-
-Jefatura de Oficina de Enlace con la Secretaría de Relaciones Exteriores
-
-Jefatura de Departamento de Hermanamientos y Comercio Internacional
-
-Jefatura de Departamento de Migración
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
-
-XIV. Secretaría de Desarrollo Económico
-
-Director
-
-Jefatura de Departamento Promoción y Desarrollo Empresarial
-
-Jefatura de Departamento Mejora Regulatoria e Investigación Económica
-
-Jefatura de Departamento Turismo
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
-
-XV. Secretario de Asuntos Jurídicos
-
-Jefatura de Departamento Justicia Municipal
-
-Jefatura de Departamento de Asuntos Internos de la Dirección de Seguridad Pública y Vialidad
-
-Coordinación de Asuntos Administrativos, Contratos y Convenios
-
-Coordinación de Asuntos Contenciosos
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2014)</small>
-
-XVI. C.A.P.A.S
+Departamento de la Unidad Regional de Empleo
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
 
@@ -4960,7 +4974,7 @@ XXVII.- Ser el primer responsable de ejecutar las disposiciones que en uso de su
 
 XXVIII.- Depurar permanentemente al personal que cometa faltas graves de conformidad con los reglamentos respectivos;
 
-XXIX.- Recoger del personal que cause baja el servicio, el arma, credencial, equipo, uniforme y divisas que se te hayan asignado para el desempeño o sus funciones; (sic)
+XXIX.- Recoger del personal que cause baja el servicio, el arma, credencial, equipo, uniforme y divisas que se te hayan asignado para el desempeño o sus funciones;
 
 XXX.- Exigir como requisito indispensable a los aspirantes a ingresar a la corporación su capacitación previa en la Academia de Policía del Estado;
 
@@ -5386,7 +5400,7 @@ Los promotores voluntarios de educación vial, serán auxiliares de tránsito pa
 
 ###### ARTICULO 585.
 
-Los conductores de transporte escolar cuando se detengan en la vía pública para el asenso y descenso de los escolares, deberán poner en funcionamiento las luces intermitentes de advertencia de la operación.
+Los conductores de transporte escolar cuando se detengan en la vía pública para el asenso (sic) y descenso de los escolares, deberán poner en funcionamiento las luces intermitentes de advertencia de la operación.
 
 ###### ARTICULO 586.
 
@@ -6449,6 +6463,8 @@ CONSEJO MUNICIPAL DE PROTECCION AL AMBIENTE
 ###### ARTICULO 698.
 
 El Consejo Municipal de Protección al Ambiente, podrá recibir denuncias por actos u omisiones realizados por cualquier persona que contravenga las disposiciones legales dictadas en la materia, asimismo servirá de enlace entre el particular y las autoridades municipales, estatales y federales, para gestionar la solución de la problemática ambiental; también promoverá permanentemente la participación ciudadana y la formación de una auténtica cultura ecológica entre los habitantes del Municipio.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DE REFORMAS PUBLICADO EN EL P.O. DE 13 DE FEBRERO DE 2017, CUANDO SE REFIERAN A LA COMISIÓN DE ECOLOGÍA Y PROTECCIÓN AMBIENTAL, SE ENTENDERÁN A LA DE ECOLOGÍA Y SUSTENTABILIDAD.]</small>
 
 ###### ARTICULO 699.
 
@@ -13732,6 +13748,8 @@ El comité técnico de municipalización es un órgano público de consulta en m
 
 Municipalización es el acto formal mediante el cual se realiza la entrega-recepción por parte del fraccionador al Ayuntamiento, de los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento, que cumpliendo con lo dispuesto en el Código Urbano para el Estado de Aguascalientes y demás disposiciones jurídicas aplicables se encuentran en posibilidad de operar suficiente y adecuadamente, permitiendo al Ayuntamiento, en la esfera de su competencia, prestar los servicios públicos necesarios para el bienestar de sus residentes.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DE REFORMAS PUBLICADO EN EL P.O. DE 13 DE FEBRERO DE 2017, CUANDO SE REFIERAN A LA COMISIÓN DE DESARROLLO URBANO, SE ENTENDERÁN A LA DE DESARROLLO URBANO Y TERRITORIAL.]</small>
+
 ###### ARTICULO 1257.
 
 El Comité Técnico de Municipalización estará integrado de la siguiente manera:
@@ -14735,3 +14753,19 @@ P.O. 28 DE NOVIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR LOS QUE “SE REFORMA AL ARTÍCULO 83 DEL CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES”.]</small>
+
+Segundo.- En virtud a la presente reforma, cuando en el presente Código u otro ordenamiento jurídico se refieran a alguna participación con la Comisión de Desarrollo Urbano, la misma, se entenderá a la de Desarrollo Urbano y Territorial; las correspondientes a la Comisión de Ecología y Protección Ambiental, se entenderán a la de Ecología y Sustentabilidad; cuando en este Código se señale alguna Comisión con alguna denominación distinta a las contenidas en el artículo 83 que se reforma, se le tendrán asignadas a la Comisión según la materia y el ámbito de su competencia, ello hasta en tanto se reformen las disposiciones legales correspondientes.
+
+Tercero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR LO QUE SE "REFORMA AL ARTÍCULO 96 DEL CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Segundo.- En virtud a la presente reforma, cuando en el presente Código u otro ordenamiento jurídico se refieran a las funciones o atribuciones para la Dirección de Planeación, así como las relativas al Desarrollo Urbano, las mismas se entenderán conferidas a la Secretaría de Desarrollo Agrario, Territorial y Urbano Municipal; las correspondientes a la Dirección de Obras Públicas, se entenderán conferidas a la Secretaría de Obras Públicas; las correspondientes a las Direcciones de Seguridad Pública y de Tránsito y Vialidad, se entenderán conferidas a la Secretaría de Seguridad Pública y Vialidad; las correspondientes a la Subdirección de Protección Ambiental y Departamento de Medio Ambiente, se entenderán conferidas a la Secretaría de Medio Ambiente y Sustentabilidad; las correspondientes a la Contraloría Municipal, se entenderán conferidas a la Secretaria de Auditoría Financiera y Fiscalización; las correspondientes a Comunicación Social, se entenderán conferidas a la Dirección de Comunicación y Difusión; las correspondientes a la Dirección de Salud, se entenderán conferidas a la Instancia de Salud Pública; las correspondientes al Comité municipal para el Desarrollo Integral de la Familia y Voluntariado, se entenderán conferidas al Sistema para el Desarrollo Integral de la Familia; cuando en este Código se denomine alguna área como Dirección, las atribuciones o funciones se entenderán conferidas a la Secretaria o Instancia que corresponda, según el ámbito de su competencia, ello hasta en tanto se reformen las disposiciones legales correspondientes.
+
+Tercero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
