@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-la-contraloria-75934"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-24"
-last_updated: "2010-07-24"
+last_updated: "2017-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA GENERAL, DEL ESTADO DE NAYARIT
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA GENERAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL, PUBLICADO EN EL P.O. DE 14 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DEL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el sábado 24 de julio de 2010.
 
@@ -802,3 +804,25 @@ QUINTO. En tanto no se expidan los manuales y se emitan las disposiciones de car
 Dado en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su capital, a los veintitrés días del mes de Junio del dos mil diez.
 
 A T E N T A M E N T E "SUFRAGIO EFECTIVO; NO REELECCIÓN" LIC. NEY GONZÁLEZ SÁNCHEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Rúbrica.- DR. ROBERTO MEJÍA PÉREZ, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.- C.P. EFRÉN VELÁZQUEZ IBARRA, SECRETARIO DE LA CONTROLORÍA (SIC) GENERAL.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaria de la Contraloría General, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 24 de julio del año 2010, y se derogan todas las disposiciones de su misma naturaleza que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Mientras no se apruebe la inclusión en el Presupuesto de Egresos del Poder Ejecutivo el Departamento de Modernización Administrativa, el Secretario adoptará las medidas administrativas necesarias para el cumplimiento de las atribuciones y funciones que este Reglamento y el Manual General de Organización de la Contraloría respectivamente le confieren.
+
+###### ARTÍCULO CUARTO.
+
+En tanto no se expidan los manuales y se emitan las disposiciones de carácter general e individual a que se hace referencia en este Reglamento, el Secretario, queda facultado para tomar las decisiones que correspondan y en su caso, resolver lo conducente.
