@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-68080
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-14"
-last_updated: "2016-05-19"
+last_updated: "2017-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE FEBRERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 14 de abril de 2009.
 
@@ -1214,3 +1214,19 @@ G.G. 19 DE MAYO DE 2016.
 PRIMERO.- El presente acuerdo surte sus efectos a partir de la fecha de su suscripción.
 
 SEGUNDO.- Publíquese las presentes modificaciones en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+G.G. 14 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese este Reglamento en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interno de la Comisión de Derechos Humanos del Estado de México publicado en el Periódico Oficial "Gaceta del Gobierno" el 14 de abril de 2009.
+
+CUARTO.- Se derogan las demás disposiciones que se opongan con el presente Reglamento.
+
+QUINTO.- Los procedimientos y trámites iniciados conforme a las disposiciones del Reglamento que se abroga, se sustanciarán y resolverán de acuerdo al mismo; y en lo que fuere procedente, y resulte en beneficio de los interesados, serán aplicables los preceptos contenidos en este Reglamento.
+
+SEXTO.- Se instruye a la Dirección de Administración y Finanzas para que en plazo no mayor de tres meses contados a partir de la publicación de este Reglamento, realice las adecuaciones administrativas que deriven de las modificaciones a la estructura interna de la Comisión de Derechos Humanos del Estado de México.
