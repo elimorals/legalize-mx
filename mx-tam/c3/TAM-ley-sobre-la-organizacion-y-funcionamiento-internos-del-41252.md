@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2017-02-07"
+last_updated: "2017-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -661,11 +661,9 @@ f) De la Medalla al Mérito "Luis García de Arellano", a cargo de la recepción
 
 ###### ARTICULO 39.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2017)</small>
 
-1. Las comisiones ordinarias se constituyen normalmente durante el primer mes de ejercicio de la Legislatura, podrán tener hasta ocho integrantes y su encargo será por el término de la propia Legislatura. Ningún diputado podrá pertenecer a más de nueve comisiones, salvo que se trate de la Comisión Instructora, de la comisión a que se refiere el artículo 128, fracción II, del Código Electoral para el Estado de Tamaulipas o de comisiones especiales.
-
-Ningún diputado podrá pertenecer a más de ocho comisiones, salvo que se trate de la Comisión Instructora o de una comisión especial.
+1. Las comisiones ordinarias se constituyen normalmente durante el primer mes de ejercicio de la Legislatura, podrán tener hasta ocho integrantes y su encargo será por el término de la propia Legislatura. Ningún diputado podrá pertenecer a más de nueve comisiones, salvo que se trate de la Comisión Instructora o de comisiones especiales.
 
 2. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en el Congreso y formulará las propuestas correspondientes con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las Comisiones.
 
@@ -2037,7 +2035,9 @@ b) Expediente con documentos públicos que acrediten el cumplimiento de los requ
 
 c) Datos biográficos de la persona nombrada, destacándose aquellas actividades relacionadas con su idoneidad para desempeñar el cargo para el que se le ha nombrado o para cuya designación se propone.
 
-2. Recibida la designación o propuesta correspondiente, la comisión ordinaria competente o la Diputación Permanente, en su caso, analizarán si la persona nombrada reúne los requisitos constitucionales y legales que se prevean para el desempeño del cargo. En caso afirmativo se propondrá fecha para que la persona nombrada o propuesta asista a una reunión de trabajo con la comisión o la Diputación Permanente, en su caso.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2017)</small>
+
+2. Recibida la designación o propuesta correspondiente, la comisión ordinaria competente o la Diputación Permanente, en su caso, analizarán si la persona nombrada reúne los requisitos constitucionales y legales que se prevean para el desempeño del cargo. En caso afirmativo, tratándose de los nombramientos o ratificaciones señalados en el párrafo 1 del artículo que antecede, se propondrá fecha para que la persona nombrada o propuesta asista a una reunión de trabajo con la comisión o la Diputación Permanente, en su caso.
 
 3. Si la determinación del análisis del cumplimiento de los requisitos constitucionales y legales es negativa, se hará la comunicación del caso a la Junta de Coordinación Política. En este supuesto, se presentará ante el órgano de gobierno o la instancia a quien compete la designación o propuesta del caso, el resultado del análisis sobre la ausencia de cumplimiento de los requisitos constitucionales y legales, a fin de que se determine si se modifica la designación o la propuesta, según el caso.
 
@@ -2053,9 +2053,11 @@ d) Intervención general de 5 minutos para la exposición de conclusiones, en ca
 
 5. Con base en la reunión de trabajo o entrevista referida en el párrafo anterior, la comisión competente o la Diputación Permanente emitirá el dictamen que proceda.
 
-6. En el caso de nombramientos previstos en el párrafo 2 del artículo anterior, si la persona nombrada cumple con los requisitos constitucionales y legales para desempeñar el cargo, se procederá a la formulación del dictamen correspondiente, sin necesidad de llevar a cabo la reunión de trabajo o entrevista.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2017)</small>
 
-> <small>N. DE E. VÉASE LA FE DE ERRATAS MEDIANTE LA QUE SE PRECISA "EL CITADO DECRETO NO SE PROMULGA ..."</small>
+6. En el caso de nombramientos previstos en el párrafo 2 del artículo anterior, si el expediente al que hace referencia el párrafo 1 de este artículo, contiene las documentales requeridas para su integración, además de cumplir con los requisitos constitucionales y legales para desempeñar el cargo, se procederá a la formulación del dictamen correspondiente, sin necesidad de llevar a cabo la reunión de trabajo o entrevista.
+
+> <small>[N. DE E. VÉASE LA FE DE ERRATAS MEDIANTE LA QUE SE PRECISA "EL CITADO DECRETO NO SE PROMULGA ..."]</small>
 
 7. (DEROGADO SÉPTIMO PÁRRAFO, P.O. 13 DE JUNIO DE 2015) (F. DE E., P.O. 30 DE JUNIO DE 2015)
 
@@ -2092,6 +2094,22 @@ e) Concluida la etapa señalada en el inciso que antecede, la Comisión de Derec
 f) El dictamen final a que hace referencia el inciso que antecede, será sometido a votación de los miembros del Pleno del Congreso del Estado, para, posteriormente, mediante votación por cédula, realizar la designación de los cargos a que se refiere este párrafo con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado.
 
 g) El Titular de la Presidencia y los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas que concluyan su periodo y que sean susceptibles a ser reelectos, podrán participar en el proceso a que hace referencia el presente párrafo, en los términos que para tal efecto señale la convocatoria respectiva.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
+
+10. La designación de los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas se sujetará al siguiente procedimiento:
+
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fueron electos, la Junta de Coordinación Política del Congreso del Estado lanzará una convocatoria pública, a efecto de que participen los ciudadanos que cumplan con los requisitos legales y estén en aptitud de ser considerados para ocupar el cargo.
+
+b) La convocatoria considerará las etapas y procedimientos para la designación correspondiente, ordenando su publicación en el Periódico Oficial del Estado, en dos diarios de circulación en la entidad, así como en la página de internet del Congreso.
+
+c) La Comisión de Transparencia y Acceso a la Información Pública o la Diputación Permanente durante los recesos, realizará la evaluación preliminar de los documentos presentados por los aspirantes, emitiendo un dictamen en el que se señalarán a los candidatos que cumplieron con los requisitos contenidos en la convocatoria para ser considerados en la etapa de entrevistas o reuniones de trabajo. Se deberá motivar y fundar la exclusión de los aspirantes que no sean considerados para acceder a dicha etapa.
+
+d) Agotadas las fases anteriores, se citará a los aspirantes a las reuniones de trabajo o entrevistas conforme a lo establecido en el párrafo 4 de este artículo. De ser necesario, las modalidades, duración y mecanismos de las referidas entrevistas serán determinadas mediante acuerdo emitido por la Comisión de Transparencia y Acceso a la Información Pública del Congreso o la Diputación Permanente, según sea el caso.
+
+e) Concluida la etapa señalada en el inciso que antecede, la Comisión de Transparencia y Acceso a la Información Pública del Congreso o la Diputación Permanente, según sea el caso, emitirá un dictamen final que concluirá con la lista de los candidatos que cumplen con los requisitos legales y que solventaron las reuniones de trabajo o entrevistas previstas en el inciso d) de este párrafo.
+
+f) El dictamen final a que hace referencia el inciso que antecede, será sometido a votación de los miembros del Pleno del Congreso del Estado, para que, posteriormente, mediante votación por cédula, realicen la designación de los cargos a que se refiere este párrafo con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, debiendo privilegiar la experiencia en materia de acceso a la información pública y protección de datos personales, así como procurar la igualdad de género.
 
 ###### ARTICULO 135.
 
@@ -2892,3 +2910,15 @@ P.O. 7 DE FEBRERO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 14 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-115 MEDIANTE EL CUAL EL (SIC) SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+60 días antes de la conclusión del período del cargo para el cual fueron electos los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, designados mediante el Decreto No. LXII-193, la Junta de Coordinación Política lanzará la convocatoria correspondiente, y con base en ésta habrá de renovarse la integración del citado órgano autónomo, eligiéndose por única ocasión a un Comisionado por 3 años, el segundo por 5 años y un tercer Comisionado por 7 años, con el objeto de dar cumplimiento al artículo 38 de la Ley General de Transparencia y Acceso a la Información Pública y 27 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, a fin de garantizar el principio de autonomía en la conformación del dicho órgano garante.
