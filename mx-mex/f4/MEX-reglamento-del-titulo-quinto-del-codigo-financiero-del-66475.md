@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-titulo-quinto-del-codigo-financiero-del-66475"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-01"
-last_updated: "2016-02-26"
+last_updated: "2017-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL TÍTULO QUINTO DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DENOMINADO "DEL CATASTRO"
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 1o. de enero de 2009.
 
@@ -127,39 +127,45 @@ Las políticas, lineamientos, formatos y procedimientos a que se sujetará el de
 
 El IGECEM ejercerá las atribuciones conferidas en el artículo 170 del Código por conducto de las unidades administrativas que conforman su estructura administrativa, ubicadas en sus oficinas centrales, así como a través de las delegaciones regionales localizadas en diferentes municipios de la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 7.
 
-El IGECEM en su estructura orgánica cuenta con ocho delegaciones regionales que tienen a su cargo las funciones de captación, recopilación, revisión, integración y procesamiento de la información e investigación geográfica, estadística y catastral dentro del territorio del Estado, así como proporcionar asesoría y capacitación al personal del Catastro Municipal de la Entidad y diagnosticar el desarrollo de sus actividades en ésta materia, a efecto de que cumplan con la normatividad establecida en las jurisdicciones territoriales que corresponde a cada una de ellas, conforme a lo siguiente:
+El IGECEM en su estructura orgánica cuenta con nueve delegaciones regionales que tienen a su cargo las funciones de captación, recopilación, revisión, integración y procesamiento de la información e investigación geográfica, estadística y catastral dentro del territorio del Estado, así como proporcionar asesoría y capacitación al personal del Catastro Municipal de la Entidad y diagnosticar el desarrollo de sus actividades en ésta materia, a efecto de que cumplan con la normatividad establecida en las jurisdicciones territoriales que corresponde a cada una de ellas, conforme a lo siguiente:
 
 I. La delegación regional en Atlacomulco comprende los territorios municipales de Acambay, Aculco, Atlacomulco, Chapa de Mota, El Oro, Ixtlahuaca, Jiquipilco, Jilotepec, Jocotitlán, Morelos, Polotitlán, San Felipe del Progreso, San José del Rincón, Soyaniquilpan de Juárez, Temascalcingo y Timilpan.
 
-> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 15 DE FEBRERO DE 2017)</small>
 
-II. La delegación regional en Ecatepec comprende los territorios municipales de Acolman, Apaxco, Atenco, Coacalco de Berriozábal, Ecatepec de Morelos, Hueypoxtla, Nextlalpan, Tecámac, Temascalapa, Jaltenco, Tequixquiac, Tezoyuca, Tonanitla, Tultepec, Tultitlán y Zumpango.
+II. La Delegación Regional de Atizapán de Zaragoza comprende los territorios municipales de Apaxco, Atizapán de Zaragoza, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Huehuetoca, Melchor Ocampo, Teoloyucan, Tepotzotlán, Tequixquiac y Tultepec.
 
-> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 15 DE FEBRERO DE 2017)</small>
 
-III. La delegación regional en Naucalpan comprende los territorios municipales de Atizapán de Zaragoza, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Huehuetoca, Huixquilucan, Isidro Fabela, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nicolás Romero, Teoloyucan, Tepotzotlán, Tlalnepantla de Baz y Villa del Carbón.
+III. La delegación regional en Ecatepec comprende los territorios municipales de Acolman, Atenco, Coacalco de Berriozábal, Ecatepec de Morelos, Hueypoxtla, Nextlalpan, Tecámac, Temascalapa, Jaltenco, Tezoyuca, Tonanitla, Tultitlán y Zumpango.
 
-> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 15 DE FEBRERO DE 2017)</small>
 
-IV. La delegación regional en Nezahualcóyotl comprende los territorios municipales de Amecameca, Atlautla, Ayapango, Chalco, Cocotitlán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
+IV. La delegación regional en Naucalpan comprende los territorios municipales de Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan de Juárez, Nicolás Romero, Tlalnepantla de Baz y Villa del Carbón.
 
-> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 15 DE FEBRERO DE 2017)</small>
 
-V. La delegación regional en Tenango del Valle comprende los territorios municipales de Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, Rayón, Sultepec, Tenancingo, Tenango del Valle, Texcalyacac, Texcaltitlán, Tianguistenco, Tonatico, Villa Guerrero, Xalatlaco, Zacualpan y Zumpahuacán.
+V. La delegación regional en Nezahualcóyotl comprende los territorios municipales de Amecameca, Atlautla, Ayapango, Chalco, Cocotitlán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
 
-> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 15 DE FEBRERO DE 2017)</small>
 
-VI. La delegación regional en Texcoco comprende los territorios municipales de Axapusco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Nopaltepec, Otumba, Papalotla, San Martín de las Pirámides, Teotihuacán, Tepetlaoxtoc y Texcoco.
+VI. La delegación regional en Tenango del Valle comprende los territorios municipales de Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, Rayón, Sultepec, Tenancingo, Tenango del Valle, Texcalyacac, Texcaltitlán, Tianguistenco, Tonatico, Villa Guerrero, Xalatlaco, Zacualpan y Zumpahuacán.
 
-> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 15 DE FEBRERO DE 2017)</small>
 
-VII. La delegación regional en Toluca comprende los territorios municipales de Almoloya de Juárez, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Lerma, Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec, San Antonio la Isla, San Mateo Atenco, Temoaya, Toluca, Xonacatlán y Zinacantepec.
+VII. La delegación regional en Texcoco comprende los territorios municipales de Axapusco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Nopaltepec, Otumba, Papalotla, San Martín de las Pirámides, Teotihuacán Tepetlaoxtoc y Texcoco.
 
-> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 15 DE FEBRERO DE 2017)</small>
 
-VIII. La delegación regional en Valle de Bravo comprende los territorios municipales de Amanalco, Amatepec, Donato Guerra, Ixtapan del Oro, Luvianos, Otzoloapan, San Simón de Guerrero, Santo Tomás, Tejupilco, Temascaltepec, Tlatlaya, Valle de Bravo, Villa de Allende, Villa Victoria y Zacazonapan.
+VIII. La delegación regional en Toluca comprende los territorios municipales de Almoloya de Juárez, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Lerma, Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec, San Antonio la Isla, San Mateo Atenco, Temoaya, Toluca, Xonacatlán y Zinacantepec.
+
+> <small>(ADICIONADA, G.G. 15 DE FEBRERO DE 2017)</small>
+
+IX. La delegación regional en Valle de Bravo comprende los territorios municipales de Amanalco, Amatepec, Donato Guerra, Ixtapan del Oro, Luvianos, Otzoloapan, San Simón de Guerrero, Santo Tomás, Temascaltepec, Tejupilco, Tlatlaya, Valle de Bravo, Villa de Allende, Villa Victoria y Zacazonapan.
 
 ###### Artículo 8.
 
@@ -197,9 +203,11 @@ El IGECEM enviará al Catastro Municipal copias de los avalúos que se realicen 
 
 Cuando el Catastro Municipal identifique diferencias en los datos técnicos contenidos en los avalúos catastrales, contra los que físicamente presenta el inmueble, podrán solicitar al IGECEM la revisión del estudio, así como los elementos y documentos que sirvieron de base para su elaboración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 11.
 
-El IGECEM proporcionará en forma programada asesoría técnica y capacitación en materia de catastro, previa solicitud que se le formule por escrito, misma que deberá contener la siguiente información:
+El IGECEM proporcionará en forma programada capacitación en materia de información geográfica, estadística y catastral, previa solicitud que se formule por escrito, misma que deberá contener la siguiente información:
 
 I. Nombre del solicitante.
 
@@ -346,6 +354,10 @@ Cuando los ayuntamientos realicen estudios técnicos, adquieran bienes o contrat
 ###### Artículo 21.
 
 La expedición de las certificaciones o constancias y demás trabajos que realice el Catastro Municipal, invariablemente deberán apegarse a lo dispuesto en el artículo 173 del Código y en el apartado correspondiente del Manual Catastral en el que se establecerán los lineamientos generales, procedimientos y requisitos que deben atender los solicitantes, así como los formatos autorizados para emitir los documentos correspondientes. Para el cobro de estos servicios se deberá atender a las cuotas y tarifas establecidas en el artículo 166 del Código.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 2017)</small>
+
+En el caso de las Certificaciones de Clave y Valor Catastral, se deberán emitir con un único código de barras de alta densidad en formato Code 128, mismo que rigurosamente represente la clave catastral del inmueble de que se trate, para su precisa identificación y captura electrónica.
 
 ###### Artículo 22.
 
@@ -691,11 +703,11 @@ B. En el caso de la cartografía vectorial catastral a nivel de predio, además 
 
 6. Número oficial.
 
-> <small>(REFORMADO, G.G. 26 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, G.G. 15 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 30.
 
-En caso de que los propietarios o poseedores de inmuebles en los territorios municipales no se presenten a inscribirlos o no manifiesten su valor o las modificaciones de terreno o construcción, en los términos indicados para tal efecto en el Capítulo Tercero del Título Quinto del Código, el Catastro Municipal deberá requerirlos para que presenten la manifestación catastral correspondiente y en caso de omisión, deberá realizar los estudios técnicos necesarios que le permitan obtener la información requerida para inscribir los inmuebles en el padrón catastral municipal, determinar su valor catastral y actualizar sus datos técnicos y administrativos, conforme lo establece el Capítulo Cuarto de este Reglamento.
+En caso de que los propietarios o poseedores de inmuebles en los territorios municipales no se presenten a inscribirlos o no manifiesten su valor catastral o las modificaciones de terreno o construcción, en los términos indicados para tal efecto en el Capítulo Tercero del Título Quinto del Código, el Catastro Municipal deberá requerirlos para que presenten la manifestación correspondiente y, en caso de omisión, deberá realizar los estudios técnicos necesarios que le permitan obtener la información requerida para inscribir los inmuebles en el padrón catastral municipal, determinar su valor catastral y actualizar sus datos técnicos y administrativos, conforme lo establece el Capítulo Cuarto de este Reglamento.
 
 ### CAPÍTULO CUARTO. DE LA ACTUALIZACIÓN DEL PADRÓN CATASTRAL
 
@@ -859,37 +871,37 @@ Las bandas de valor se identifican por un código integrado por tres caracteres 
 
 Todos los inmuebles que integran una banda de valor, además de tener el mismo valor unitario de suelo, están ligados a una sola clave de calle que está conformada por ocho dígitos y su estructura es la siguiente: tres dígitos numéricos para capturar la zona catastral de origen; cuatro dígitos numéricos asignados consecutivamente al número de calle; y un carácter alfabético como identificador del tipo de vialidad, todos correlacionados en el catálogo operativo respectivo, con el nombre de la vialidad.
 
+> <small>(REFORMADO, G.G. 15 DE FEBRERO DE 2017)</small>
+
 Los identificadores de los tipos de vialidad considerados, son los siguientes:
 
 Identificador Tipos de Identificador Tipos de
 
 Vialidades Vialidades
 
-a Andador l Autopista
+A Andador M Camino
 
-b Avenida m Camino
+B Avenida N Carretera
 
-c Boulevard n Carretera
+C Boulevard O Ferrocarril
 
-d Calle o Ferrocarril
+D Calle P Supercarretera
 
-e Callejón p Supercarretera
+E Callejón Q Vereda
 
-f Jardín q Vereda
+F Jardín R Circuito
 
-g Paseo r Circuito
+G Paseo S Cerrada
 
-h Plaza s Cerrada
+H Plaza T Libramiento
 
-i Privada t Libramiento
+I Privada U Vialidad
 
-j Calzada u Vialidad
+J Calzada V Prolongación
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2012)</small>
+K Pasaje Z Límite físico
 
-k Pasaje v Prolongación
-
-z Límite físico
+L Autopista
 
 ###### Artículo 47.
 
@@ -6421,11 +6433,11 @@ El IGECEM durante los meses de julio y agosto de cada año revisará que las pro
 
 El IGECEM enviará a los ayuntamientos mediante oficio, tanto los expedientes integrados por los catálogos de movimientos de valores unitarios de suelo, de valores de calle, de manzanas, de claves y nombres de calle (nomenclatura), como la opinión técnica correspondiente, durante los primeros siete días del mes de septiembre de cada año, a efecto de que los Ayuntamientos integren el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones aplicables en su respectiva jurisdicción territorial.
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, G.G. 15 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 54.
 
-Los Ayuntamientos durante el periodo comprendido entre la fecha de recepción de la opinión técnica emitida por el IGECEM y 15 de octubre de cada año, deberán someter para validación de su cabildo el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones y una vez aprobado por éstos en sesión de cabildo, integrarán la iniciativa municipal de Tablas de Valores Unitarios de Suelo y Construcciones para el ejercicio fiscal correspondiente, que deberá contener además, la certificación del acuerdo contenido en el acta de la sesión en la que se valide el proyecto referido.
+Los Ayuntamientos durante el periodo comprendido entre la fecha de recepción de la opinión técnica emitida por el IGECEM y 15 de octubre de cada año, deberán someter para validación de su cabildo el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones y una vez aprobado por éstos en sesión de cabildo, integrarán la iniciativa municipal de actualización de las Tablas de Valores Unitarios de Suelo y Construcciones para el ejercicio fiscal correspondiente, que será entregada a la Legislatura a más tardar el día 15 de octubre, en los términos que dispone el artículo 55 de este Reglamento.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 5 DE ENERO DE 2011)</small>
 
@@ -7396,5 +7408,15 @@ G.G. 26 DE FEBRERO DE 2016.
 PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
+
+G.G. 15 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL TÍTULO QUINTO DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DENOMINADO “DEL CATASTRO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo, entrará en vigor el primer día del mes de enero del año 2017.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
