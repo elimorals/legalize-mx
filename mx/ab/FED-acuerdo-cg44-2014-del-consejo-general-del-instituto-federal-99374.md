@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg44-2014-del-consejo-general-del-instituto-federal-993
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-03-06"
-last_updated: "2014-03-06"
+last_updated: "2017-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99374&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-01-29"
 ---
 # ACUERDO CG44/2014 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ACUERDA UN REGIMEN TRANSITORIO PARA EL FUNCIONAMIENTO DE LA UNIDAD TECNICA DE IGUALDAD DE GENERO Y NO DISCRIMINACION, ADSCRITA A LA PRESIDENCIA DEL CONSEJO GENERAL, DERIVADO DE LA REFORMA POLITICO ELECTORAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO INE/CG35/2016 PUBLICADO EN EL D.O.F. DE 15 DE FEBRERO DE 2017, SE APRUEBA LA FINALIZACIÓN DEL RÉGIMEN TRANSITORIO PARA EL FUNCIONAMIENTO DE LA UNIDAD TÉCNICA DE IGUALDAD DE GÉNERO Y NO DISCRIMINACIÓN, ESTABLECIDO EN EL ACUERDO CG44/2014, PROPUESTO POR LA JUNTA GENERAL EJECUTIVA MEDIANTE ACUERDO INE/JGE/07/2016.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ACUERDA UN RÉGIMEN TRANSITORIO PARA EL FUNCIONAMIENTO DE LA UNIDAD TÉCNICA DE IGUALDAD DE GÉNERO Y NO DISCRIMINACIÓN, ADSCRITA A LA PRESIDENCIA DEL CONSEJO GENERAL, DERIVADO DE LA REFORMA POLÍTICO ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE FEBRERO DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 6 de marzo de 2013.
 
@@ -146,3 +148,15 @@ Séptimo.- El presente Acuerdo tendrá vigencia a partir del siguiente (sic) de 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 29 de enero de dos mil catorce, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctora María Marván Laborde, Doctor Benito Nacif Hernández y el Consejero Presidente Provisional, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente Provisional del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA FINALIZACIÓN DEL RÉGIMEN TRANSITORIO DE LA UNIDAD TÉCNICA DE IGUALDAD DE GÉNERO Y NO DISCRIMINACIÓN, ESTABLECIDO EN EL ACUERDO CG44/2014".]</small>
+
+ACUERDO
+
+PRIMERO. Se aprueba la finalización del régimen transitorio para el funcionamiento de la Unidad Técnica de Igualdad de Género y No Discriminación, establecido en el Acuerdo CG44/2014, propuesto por la Junta General Ejecutiva mediante Acuerdo INE/JGE/07/2016.
+
+SEGUNDO. El presente Acuerdo deberá publicarse en el Diario Oficial de la Federación y en la Gaceta Electoral del Instituto Nacional Electoral, y entrará en vigor a partir del día de su aprobación.
