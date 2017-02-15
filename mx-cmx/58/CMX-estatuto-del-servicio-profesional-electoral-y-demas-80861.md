@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-electoral-y-demas-80861"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-04-15"
-last_updated: "2014-05-20"
+last_updated: "2017-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80861&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2011-03-28"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEMAS PERSONAL QUE LABORE EN EL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEMÁS PERSONAL QUE LABORE EN EL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2017 (ABROGADO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -2363,3 +2363,37 @@ SÉPTIMO. Publíquese de inmediato este Acuerdo en los estrados del Instituto El
 OCTAVO. Instruir a la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales, para que de manera inmediata realice las adecuaciones que sean procedentes por virtud de la determinación asumida por el Consejo General, en el apartado de Transparencia del sitio de Internet www.iedf.org.mx.
 
 NOVENO. Remítase el presente Acuerdo a la Gaceta Oficial del Distrito Federal para su publicación, dentro del plazo de diez días hábiles contados a partir de su entrada en vigor.
+
+G.O. 15 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL POR EL QUE SE APRUEBA EL REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL”.]
+
+Primero. Las disposiciones del presente Reglamento entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Se abroga el Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 15 de abril de 2011; y se derogan todas las disposiciones que contravengan este Reglamento.
+
+Lo anterior, con la salvedad de que, en relación con el Personal del Servicio Profesional Electoral, continuarán aplicándose las disposiciones del Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral del Distrito Federal hasta en tanto concluyen los trabajos de incorporación derivados de lo establecido en el artículo Sexto Transitorio de la reforma constitucional en materia político electoral de 2014, en los términos de lo dispuesto en el artículo Décimo Tercero Transitorio del Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa y de los Lineamientos a que se refieren los artículos Décimo Segundo, Décimo Quinto, Décimo Séptimo, Décimo Noveno, Vigésimo Primero, Vigésimo Tercero, Vigésimo Séptimo, Trigésimo, Trigésimo Segundo, Trigésimo Cuarto, Trigésimo Séptimo, Cuadragésimo Primero, Cuadragésimo Quinto y Cuadragésimo Séptimo del mismo ordenamiento.
+
+Tercero. Los permisos o licencias otorgados de conformidad con lo dispuesto en las fracciones XI y XIII del artículo 12 del Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral del Distrito Federal, continuarán vigentes hasta la fecha de su terminación.
+
+Cuarto. A partir de la entrada en vigor del presente Reglamento el personal de la Rama Administrativa que actualmente presta sus servicios en el Instituto Electoral del Distrito Federal, se incorporará al nivel 1 de las categorías a que se refiere el artículo 52 del mismo ordenamiento.
+
+Quinto. La Junta Administrativa deberá aprobar el Procedimiento para la realización del Examen de Ingreso a que se refiere el artículo 59 del presente Reglamento, dentro de los noventa días naturales posteriores a su entrada en vigor.
+
+Sexto. La Junta Administrativa deberá aprobar los Lineamientos para la readscripción del Personal de la Rama Administrativa a que se refiere el artículo 85 del presente Reglamento, dentro de los noventa días naturales posteriores a su entrada en vigor.
+
+Séptimo. La Junta Administrativa deberá aprobar o actualizar el Procedimiento para la operación de los mecanismos extraordinarios de la Rama Administrativa a que se refiere el artículo 86 del presente Reglamento, dentro de los noventa días naturales posteriores a su entrada en vigor.
+
+Octavo. La Junta Administrativa deberá aprobar los Lineamientos en materia de Capacitación del Personal de la Rama Administrativa, a que se refiere el artículo 114 del presente Reglamento, dentro de los noventa días naturales posteriores a su entrada en vigor.
+
+Noveno. La Junta Administrativa deberá aprobar los Lineamientos en materia de Incentivos del Personal de la Rama Administrativa, a que se refiere el artículo 143 del presente Reglamento, dentro de los seis meses posteriores a su entrada en vigor.
+
+Décimo. La Junta Administrativa deberá aprobar los Lineamientos en materia de Conciliación de Conflictos del Personal de la Rama Administrativa, a que se refiere el artículo 147 del presente Reglamento, dentro de los nueve meses posteriores a su entrada en vigor.
+
+Décimo Primero. Los asuntos, recursos, procesos y procedimientos que se encuentren en desarrollo o trámite a la fecha de entrada en vigor del presente Reglamento se concluirán conforme a las disposiciones vigentes al momento de su inicio.
+
+Décimo Segundo. La sustanciación de las etapas del Procedimiento Laboral Disciplinario que se encuentren en curso legal a la entrada en vigor del presente Reglamento, se desahogarán conforme a las disposiciones del Estatuto del Servicio Profesional Electoral y demás personal que labore en el Instituto Electoral del Distrito Federal.
+
+Décimo Tercero. No serán aplicables a las y los trabajadores en servicio activo a la entrada en vigor del presente ordenamiento, las disposiciones contenidas en los artículos 43, párrafo segundo y 97, fracción I de este Reglamento, relativas a la antigüedad requerida para la terminación de la relación laboral por la vía del convenio y el otorgamiento de licencias sin goce de sueldo.
+
+El personal que ingrese con posterioridad, requerirá la antigüedad prevista en las disposiciones vigentes.
