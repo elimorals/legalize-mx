@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-10001
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-26"
-last_updated: "2016-03-09"
+last_updated: "2017-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
 
-I.- DEL PROCESO LEGISLATIVO…
+I.- DEL PROCESO LEGISLATIVO
+
+[...]
 
 Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir la siguiente:
 
@@ -65,49 +67,69 @@ II. Consejo, al Consejo de Profesionalización;
 
 III. Consejo de Honor, al Consejo de Honor y Justicia;
 
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+IV. Ficha Identificativa: documento de identificación de los cadáveres o restos humanos que carecen de la misma, que tengan relación con una carpeta de investigación, que contenga el número y fecha de inicio de la misma; así como cualquier información que permita el pleno reconocimiento de los mismos, como son, antropología forense, criminalística de campo, video, fotografía forense, medicina forense, dactiloscopia, genética forense y odontología forense;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+V. Fiscalía General: a la Fiscalía General del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+VI. Fiscal General: al Titular de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+VII. Gobernador: al Titular del Poder Ejecutivo Estatal;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+VIII. Ley: a la Ley Orgánica de la Fiscalía General del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+IX. Ley General: a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI, del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+X. Ministerio Público: quien ejerce las funciones del Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+XI. Oficial: al Oficial del Registro Civil del Municipio que corresponda;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+XII. Placa Identificativa: a la placa de material anticorrosivo que contiene la mayor cantidad de datos posibles de la Ficha Identificativa;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+XIII. Protocolo: al Protocolo para el Tratamiento e Identificación Forense, expedido por la Procuraduría General de la República;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+XIV. Policía de Investigación Criminal: al cuerpo de Policía que auxilia al Ministerio Público en las funciones de investigación y persecución de los delitos, en términos de la Constitución Federal;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+XV. Registro: al Registro de Datos de los cadáveres no identificados relacionados con una carpeta de investigación;
+
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-IV. Fiscalía General, a la Fiscalía General del Estado de Morelos;
+XVI. Reglamento, al Reglamento de la Ley;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-V. Fiscal General, a la persona titular de la Fiscalía General;
+XVII. Secretario Técnico, a la persona Titular de la Secretaría Técnica del Consejo;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-VI. Gobernador, a la persona titular del Poder Ejecutivo Estatal;
+XVIII. Servicio de Carrera, al Servicio de Carrera de la Fiscalía General para los Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, y
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
 
-VII. Ley, a la Ley Orgánica de la Fiscalía General del Estado de Morelos;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-VIII. Ley General, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI, del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-IX. Ministerio Público, a quien ejerce las funciones del Ministerio Público;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-X. Policía de Investigación Criminal, al cuerpo de Policía que auxilia al Ministerio Público en las funciones de investigación y persecución de los delitos, en términos de la Constitución Federal;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XI. Reglamento, al Reglamento de la Ley;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XII. Secretario Técnico, a la persona Titular de la Secretaría Técnica del Consejo;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XIII. Servicio de Carrera, al Servicio de Carrera de la Fiscalía General para los Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal, y
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
-
-XIV. Servicios Periciales, al cuerpo de personas con conocimientos y experiencia en las diferentes profesiones, ciencias, técnicas, artes u oficios, que mediante la emisión de opiniones y dictámenes auxilian al Ministerio Público en su función.
+XIX. Servicios Periciales; al cuerpo de personas con conocimientos y experiencia en las diferentes profesiones, ciencias, técnicas, artes u oficios, que mediante la emisión de opiniones y dictámenes auxilian al Ministerio Público en su función.
 
 ###### Artículo 3.
 
@@ -181,6 +203,8 @@ Su actuación se sujetará a los principios de legalidad, imparcialidad, objetiv
 
 ### CAPÍTULO II. DE LAS FUNCIONES DEL MINISTERIO PÚBLICO
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 1364, PUBLICADO EN EL P.O. DEL 15 DE FEBRERO DE 2017, SE ADVIERTE QUE SE ADICIONAN LAS FRACCIONES XVIII Y XIX, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES. EL ARTÍCULO ANTES DE ESTE DECRETO, CONTABA CON XXVIII FRACCIONES; SIN EMBARGO, EN LA PÁGINA 67 DEL CITADO P.O. SE OMITIÓ EL TEXTO DE LAS ANTERIORES FRACCIONES XXVI Y XXVII Y NO REFIERE SU RESPECTIVA DEROGACIÓN; POR LO QUE SE SUGIERE CONSULTAR LA CRONOLOGÍA LEGISLATIVA DE ESTE ARTÍCULO.]</small>
+
 #### SECCIÓN PRIMERA. DE LAS FISCALÍAS
 
 ###### Artículo 11.
@@ -223,33 +247,41 @@ XVI. Dirigir a la Policía de Investigación Criminal y demás Instituciones Pol
 
 XVII. Autorizar para los efectos de trasplantes, la disposición de órganos o tejidos de cadáveres cuando con motivo de una investigación se encuentren a su disposición, y se reúnan los requisitos establecidos en las disposiciones jurídicas aplicables;
 
-XVIII. Proporcionar la información que en materia de seguridad pública le sea requerida y mantenerla actualizada, en términos de la Ley del Sistema de Seguridad Pública del Estado de Morelos y de conformidad con las disposiciones jurídicas aplicables;
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
 
-XIX. Solicitar la reparación del daño a favor de la víctima u ofendido, en términos de las disposiciones jurídicas aplicables;
+XVIII. Ordenar la elaboración de la Ficha Identificativa;
 
-XX. Solicitar a la autoridad judicial, la imposición de las penas o medidas de seguridad que correspondan;
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2017)</small>
 
-XXI. Intervenir en los procesos de ejecución de las sanciones penales y medidas de seguridad, de conformidad con las disposiciones jurídicas aplicables;
+XIX. Una vez cumplido el Protocolo y registrados los datos del cadáver o restos humanos no identificado en el Registro, ordenar su inhumación acompañando la Placa Identificativa en cada caso, lo cual se llevará a cabo una vez que se tengan los informes periciales para identificación humana, dando cuenta al Oficial para la elaboración del acta de defunción;
 
-XXII. Interponer los recursos que fueren procedentes e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita;
+XX. Proporcionar la información que en materia de seguridad pública le sea requerida y mantenerla actualizada, en términos de la Ley del Sistema de Seguridad Pública del Estado de Morelos y de conformidad con las disposiciones jurídicas aplicables;
 
-XXIII. Preparar y ejercer la acción de extinción de dominio, así como las atribuciones que le correspondan en el procedimiento respectivo, de conformidad con la ley de la materia y demás disposiciones jurídicas aplicables;
+XXI. Solicitar la reparación del daño a favor de la víctima u ofendido, en términos de las disposiciones jurídicas aplicables;
 
-XXIV. Ordenar por escrito, la realización de operaciones encubiertas y entregas vigiladas, siempre y cuando haya sido autorizado en cada caso por el Fiscal General o por el servidor público que éste designe, de conformidad con el Reglamento correspondiente. La orden respectiva deberá contener los términos, limitaciones, modalidades y condiciones a los que deberán sujetarse los Policías de Investigación Criminal que ejecuten la operación encubierta o la entrega vigilada;
+XXII. Solicitar a la autoridad judicial, la imposición de las penas o medidas de seguridad que correspondan;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+XXIII. Intervenir en los procesos de ejecución de las sanciones penales y medidas de seguridad, de conformidad con las disposiciones jurídicas aplicables;
 
-XXV. Activar y dar cumplimiento a los protocolos en metería de personas desaparecidas y demás instrumentos normativos aplicables para la investigación de los hechos delictivos;
+XXIV. Interponer los recursos que fueren procedentes e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita;
+
+XXV. Preparar y ejercer la acción de extinción de dominio, así como las atribuciones que le correspondan en el procedimiento respectivo, de conformidad con la ley de la materia y demás disposiciones jurídicas aplicables;
+
+XXVI. Ordenar por escrito, la realización de operaciones encubiertas y entregas vigiladas, siempre y cuando haya sido autorizado en cada caso por el Fiscal General o por el servidor público que éste designe, de conformidad con el Reglamento correspondiente. La orden respectiva deberá contener los términos, limitaciones, modalidades y condiciones a los que deberán sujetarse los Policías de Investigación Criminal que ejecuten la operación encubierta o la entrega vigilada;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+XXVII. Activar y dar cumplimiento a los protocolos en materia de personas desaparecidas y demás instrumentos normativos aplicables para la investigación de los hechos delictivos, y
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-XXVI. Autorizar la dispensa de la necropsia, cuando de la investigación no resulten datos relacionados con la existencia de un delito; y
+XXVIII. Autorizar la dispensa de la necropsia, cuando de la investigación no resulten datos relacionados con la existencia de un delito; y
 
 > <small>(ADICIONADA, P.O. 9 DE MARZO DE 2016)</small>
 
-XXVII. Son Funciones del Ministerio Público adscrito a la Fiscalía Especializada para la Investigación de Hechos de Corrupción, combatir, investigar y perseguir hechos de corrupción, conforme a las normativas aplicables, y
+XXIX. Son Funciones del Ministerio Público adscrito a la Fiscalía Especializada para la Investigación de Hechos de Corrupción, combatir, investigar y perseguir hechos de corrupción, conforme a las normativas aplicables, y
 
-XXVIII. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+XXX. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
 ###### Artículo 12.
 
@@ -707,7 +739,7 @@ El Fiscal General, para la mejor organización y funcionamiento de la Fiscalía 
 
 I. Aquellas que le estén reservadas constitucionalmente, y
 
-II. Las señaladas en las fracciones III, IV, VII y VIII, del articulo 6 y los artículos 20 y 23 de esta Ley.
+II. Las señaladas en las fracciones III, IV, VII y VIII, del artículo 6 y los artículos 20 y 23 de esta Ley.
 
 ### CAPÍTULO V. DE LOS NOMBRAMIENTOS, LAS AUSENCIAS Y LA SEPARACIÓN
 
@@ -1328,3 +1360,17 @@ PRIMERO.- Remítase al Titular del Poder Ejecutivo para los efectos que señalan
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico, que se opongan al presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS SESENTA Y CUATRO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno de Morelos.
+
+TERCERA.- Dentro de los sesenta días hábiles posteriores a la entrada en vigor de la reforma materia del presente Decreto, el Fiscal General deberá realizar las modificaciones a su normativa interna para adecuarla al contenido de esta reforma.
+
+CUARTA.- El Titular del Poder Ejecutivo del Estado de Morelos, contará con un plazo de noventa días hábiles, contados a partir de la entrada en vigor de este Decreto, para hacer las modificaciones pertinentes al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Morelos.
+
+QUINTA.- Se derogan las disposiciones de igual o menor grado que se contrapongan al presente Decreto.
