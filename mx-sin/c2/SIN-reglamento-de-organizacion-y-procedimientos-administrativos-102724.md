@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-organizacion-y-procedimientos-administrativos-102
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-08"
-last_updated: "2016-02-26"
+last_updated: "2017-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 8 de octubre de 2014.
 
@@ -211,7 +211,9 @@ Programación de audiencias
 
 La programación de las audiencias en horario hábil se distribuirá equitativamente entre los Jueces adscritos a la Sede.
 
-Las audiencias programadas se llevarán a cabo de las 9:00 a las 18:00 horas en días hábiles. Las audiencias urgentes tendrán verificativo de las 9:00 a las 20:00 horas.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2017)</small>
+
+Las audiencias programadas se llevarán a cabo de las 8:00 a las 18:00 horas en días hábiles. Las audiencias urgentes tendrán verificativo de las 8:00 a las 20:00 horas.
 
 El Jefe de la Unidad de Causas y Atención al Público programará el horario del personal, de manera tal que las audiencias puedan verificarse de forma continua, dentro de los horarios mencionados en los párrafos precedentes.
 
@@ -315,11 +317,17 @@ VII. Dar seguimiento a los procesos orientados al público usuario;
 
 VIII. Gestionar ante el Administrador los recursos materiales para el funcionamiento de la Unidad;
 
-IX. Revisar los proyectos de autos, antes de pasarlos a los Jueces;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
 
-X. Supervisar el control y registro de los valores;
+IX. Supervisar el control y registro de los valores;
 
-XI. Turnar los registros y constancias a la Sala correspondiente para el trámite del recurso de apelación; y,
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+X. Turnar los registros y constancias a la Sala correspondiente para el trámite del recurso de apelación;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+XI. Turnar los registros y constancias a la autoridad de Amparo correspondiente para el trámite del juicio constitucional; y,
 
 XII. Las demás que el superior jerárquico determine.
 
@@ -393,13 +401,17 @@ V. Cuidar que todas las áreas de la Sede permanezcan limpias y ordenadas en ate
 
 VI. Las demás que determine el Encargado de Atención al Público y el Jefe de la Unidad de Seguimiento de Causas y Atención al Público.
 
-#### Sección IV. Del Encargado de Causas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE FEBRERO DE 2017)</small>
+
+#### Sección IV. De los Encargados de Causas
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 21.
 
-Encargado de Causas
+Encargados de Causas
 
-Es el servidor público auxiliar del Jefe de la Unidad de Seguimiento de Causas y Atención al Público en lo concerniente a la gestión y trámite de las causas penales ingresadas a la Sede, así como de las solicitudes presentadas con motivo de alguna diligencia judicial.
+Son los servidores públicos auxiliares del Jefe de la Unidad de Seguimiento de Causas y Atención al Público en lo concerniente a la gestión y trámite de las causas penales ingresadas a la Sede, así como de las solicitudes presentadas con motivo de alguna diligencia judicial.
 
 ###### Artículo 22.
 
@@ -415,23 +427,27 @@ III. Manejo de herramientas informáticas, entre ellas: Excel, Word, Power Point
 
 IV. Contar con Licencia de conductor de vehículos automotores.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 23.
 
 Atribuciones
 
 Son atribuciones del Encargado de Causas:
 
-I. Elaborar los proyectos de autos, acuerdos y oficios ordenados fuera de audiencia;
+I. Revisar los proyectos de autos, acuerdos y oficios ordenados fuera de audiencia antes de pasarlos a los Jueces;
 
-II. Mantener actualizada la causa y cuadernillos en la plataforma electrónica y los registros locales de respaldo;
+II. Integrar y supervisar las actuaciones respectivas para el trámite correspondiente del recurso de apelación, amparo, exhortos y requisitorias;
 
-III. Actualizar el estatus de las órdenes de aprehensión y de las medidas coercitivas;
+III. Verificar el correcto ingreso a la plataforma electrónica de las solicitudes, oficios y promociones en general de la Sede Judicial;
 
-IV. Verificar las notificaciones realizadas por el Actuario;
+IV. Controlar y registrar los movimientos de causa y cuadernillos en los libros de control internos
 
-V. Controlar y registrar los movimientos de causa y cuadernillos en los libros de control internos; y,
+V. Verificar las notificaciones realizadas por el Actuario;
 
-VI. Las demás que determine el Jefe de la Unidad de Seguimiento de Causas y Atención al Público.
+VI. Verificar el estatus de las órdenes de aprehensión y de las medidas coercitivas;
+
+VII. Las demás que determine el Jefe de la Unidad de Seguimiento de Causas y Atención al Público.
 
 ###### Artículo 24.
 
@@ -447,7 +463,11 @@ I. Apoyar en la elaboración de los proyectos de autos, acuerdos y oficios orden
 
 II. Auxiliar en la actualización de las causas y cuadernillos en la plataforma electrónica y los registros locales de respaldo;
 
-III. Auxiliar en el registro de los movimientos de causa y cuadernillos en los libros de control internos; y,
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+III. Actualizar el estatus de las órdenes de aprehensión y de las medidas coercitivas; y,
+
+(REFORMADA (N. DE EN REPUBLICADA), P.O. 15 DE FEBRERO DE 2017)
 
 IV. Las demás que determine el Jefe de la Unidad de Seguimiento de Causas y Atención al Público y el Encargado de Causas.
 
@@ -481,7 +501,9 @@ Son atribuciones del Encargado de Sala:
 
 I. Coordinar a los Auxiliares de Sala y de Actas, en sus actividades dentro y fuera de sala;
 
-II. Supervisar la realización de los ejecutables de las audiencias y darles seguimiento;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+II. Realizar los ejecutables de las audiencias y darles seguimiento;
 
 III. Solicitar al jefe de la Unidad de Seguimiento de Causas y Atención al Público fecha para audiencia, cuando las partes lo soliciten dentro de audiencia o el Juez las fije;
 
@@ -722,3 +744,11 @@ P.O. 26 DE FEBRERO DE 2016.
 PRIMERO. Este acuerdo entrará en vigor el de su Aprobación. (sic)
 
 SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial "El Estado de Sinaloa" y comuníquese a los Jueces de Primera Instancia y Magistrados de Circuito del Poder Judicial del Estado, para su conocimiento.
+
+P.O. 15 DE FEBRERO DE 2017.
+
+[N. DE EN TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10; FRACCIONES IX, X Y XI DEL ARTÍCULO 16; LA DENOMINACIÓN DE LA SECCIÓN IV; LOS ARTÍCULOS 21 Y 23; FRACCIONES III Y IV DEL ARTÍCULO 24; Y, FRACCIÓN II DEL ARTÍCULO 27; TODOS DEL REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA”.]
+
+PRIMERO. Este acuerdo entrará en vigor el día veinte de febrero del año en curso.
+
+SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
