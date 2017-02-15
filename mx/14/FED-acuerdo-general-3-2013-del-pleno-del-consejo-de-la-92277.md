@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2016-12-15"
+last_updated: "2017-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,9 @@ issue_date: "2013-02-07"
 
 > <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO" PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
 
-> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO” PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
-
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE FEBRERO DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -247,7 +245,9 @@ IX. NOVENO CIRCUITO:
 
 2. Un tribunal unitario con sede en San Luis Potosí.
 
-3. Siete juzgados de Distrito en el Estado de San Luis Potosí: cinco con residencia en la ciudad del mismo nombre y dos con sede en Ciudad Valles.
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 2017)</small>
+
+3. Ocho juzgados de Distrito en el Estado de San Luis Potosí: seis con sede en la ciudad del mismo nombre; y dos con residencia en Ciudad Valles.
 
 X. DECIMO CIRCUITO:
 
@@ -3440,3 +3440,57 @@ I. …
 5. Ocho Juzgados Federales Penales Especializados: seis en Cateos, Arraigos e Intervención de Comunicaciones, y dos en Medidas Cautelares y Control de Técnicas de Investigación, todos con residencia en la Ciudad de México.
 
 6. Tres juzgados de Distrito Especializados en Ejecución de Penas, todos con residencia en la Ciudad de México.
+
+D.O.F. 15 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO GENERAL 1/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE COMIENZO DE FUNCIONES DEL JUZGADO OCTAVO DE DISTRITO EN EL ESTADO DE SAN LUIS POTOSÍ, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y SEDE INDICADAS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de febrero de dos mil diecisiete, con excepción de lo previsto en el transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, vigente a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, continuará aplicándose hasta las ocho horas con veintinueve minutos del trece de marzo de dos mil diecisiete.
+
+A partir de las ocho horas con treinta minutos del propio trece de marzo de dos mil diecisiete, las guardias de turno en términos del artículo 5 del presente Acuerdo quedarán como sigue:
+
+PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE CORRESPONDE LA GUARDIA
+
+Del 13 al 20 de marzo de 2017 Juzgado Octavo de Distrito en el Estado de San Luis Potosí, con
+
+residencia en la ciudad del mismo nombre
+
+Del 20 al 27 de marzo de 2017 Juzgado Primero de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre
+
+Del 27 de marzo al 3 de abril de 2017 Juzgado Segundo de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre
+
+Del 3 al 10 de abril de 2017 Juzgado Tercero de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre
+
+Del 10 al 17 de abril de 2017 Juzgado Cuarto de Distrito en el Estado de San Luis Potosí, con
+
+residencia en la ciudad del mismo nombre
+
+Del 17 al 24 de abril de 2017 Juzgado Sexto de Distrito en el Estado de San Luis Potosí, con
+
+residencia en la ciudad del mismo nombre
+
+Del 24 de abril al 1 de mayo de 2017 Juzgado Octavo de Distrito en el Estado de San Luis Potosí, con
+
+residencia en la ciudad del mismo nombre
+
+Y así sucesivamente de forma semanal.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción IX, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. ...
+
+I. a VIII. ...
+
+IX. ...
+
+1. a 2. ...
+
+3. Ocho juzgados de Distrito en el Estado de San Luis Potosí: seis con sede en la ciudad del mismo nombre; y dos con residencia en Ciudad Valles.
+
+X. a XXXII. ...".
