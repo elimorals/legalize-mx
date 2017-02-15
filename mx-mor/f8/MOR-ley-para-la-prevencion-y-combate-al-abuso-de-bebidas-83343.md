@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-prevencion-y-combate-al-abuso-de-bebidas-83343"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2015-04-22"
+last_updated: "2017-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DE BEBIDAS ALCOHÓLICAS Y DE REGULACIÓN PARA SU VENTA Y CONSUMO EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de octubre de 2011.
 
@@ -997,7 +997,9 @@ Cuando se trate de denuncias anónimas o telefónicas, la autoridad deberá llev
 
 Sin perjuicio de las sanciones penales que en su caso correspondan y tomando en cuenta la gravedad del acto o la reincidencia en su caso, por las infracciones a las disposiciones derivadas de esta Ley y sus Reglamentos, las autoridades competentes impondrán al infractor, según corresponda, las siguientes sanciones:
 
-I. Multa de veinte hasta mil veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+I. Multa de veinte hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente en el Estado;
 
 II. Suspensión temporal de la actividad autorizada hasta por 30 días naturales;
 
@@ -1007,43 +1009,41 @@ IV. Clausura definitiva del establecimiento y revocación del permiso para efect
 
 V. Decomiso de bebidas alcohólicas adulteradas o contaminadas.
 
+> <small>[N. DE E. EL DECRETO DE REFORMAS NÚMERO MIL TRESCIENTOS SESENTA Y TRES PUBLICADO EN EL P.O. DE 15 DE FEBRERO DE 2017, MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO DEROGANDO LAS FRACCIONES IV, XI Y XIII RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES.]</small>
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 95.
 
-La instancia municipal competente aplicará la multa o sanción a que se refiere la fracción I del artículo 110 de esta Ley, en cualquiera de los casos siguientes:
+La instancia municipal competente aplicará la multa o sanción a que se refiere la fracción I del artículo 94 de esta Ley, en cualquiera de los casos siguientes:
 
-I. Cuando un establecimiento o giro opere fuera de los horarios de inicio y conclusión de sus actividades comerciales indicadas en su permiso, o bien, por los que le correspondan de acuerdo al reglamento y la modalidad que le haya otorgado la instancia municipal competente;
+I.- Cuando un establecimiento o giro opere fuera de los horarios de inicio y conclusión de sus actividades comerciales indicadas en su permiso, o bien, por los que le correspondan de acuerdo al reglamento y la modalidad que le haya otorgado la instancia municipal competente;
 
-II. Por prestar servicios adyacentes sin la autorización anticipada de la instancia municipal competente;
+II.- Por prestar servicios adyacentes sin la autorización anticipada de la instancia municipal competente;
 
-III. Por no impedir el acceso al establecimiento o giro de personas portadoras de armas de fuego o punzocortantes o que se encuentren notoriamente bajo el influjo de bebidas embriagantes, estupefacientes, enervantes o psicotrópicos;
+III.- Por no impedir el acceso al establecimiento o giro de personas portadoras de armas de fuego o punzocortantes o que se encuentren notoriamente bajo el influjo de bebidas embriagantes, estupefacientes, enervantes o psicotrópicos;
 
-IV. Por no adoptar o mantener el local del establecimiento o giro bajo las medidas de seguridad, de higiene o protección civil que le correspondan por disposición reglamentaria;
+IV.- Por la venta de bebidas alcohólicas en la vía pública sin autorización;
 
-V. Por la venta de bebidas alcohólicas en la vía pública sin autorización;
+V.- Por permitir el consumo de bebidas alcohólicas a personas en estado de ebriedad, bajo los efectos de psicotrópicos, así como a personas con deficiencias mentales, a personas armadas, a militares o miembros de la policía que se encuentren uniformados o en servicio;
 
-VI. Por permitir el consumo de bebidas alcohólicas a personas en estado de ebriedad, bajo los efectos de psicotrópicos, así como a personas con deficiencias mentales, a personas armadas, a militares o miembros de la policía que se encuentren uniformados o en servicio;
+VI.- Por negarle el acceso al local del establecimiento a los representantes o inspectores debidamente acreditados de la instancia municipal, facultados para realizar la labor de control de observancia de esta Ley y sus disposiciones reglamentarias;
 
-VII. Por negarle el acceso al local del establecimiento a los representantes o inspectores debidamente acreditados de la instancia municipal, facultados para realizar la labor de control de observancia de esta Ley y sus disposiciones reglamentarias;
+VII.- Por actos imputables a los permisionarios, encargados o empleados del establecimiento o giro, dentro o fuera del local, que pongan en riesgo la seguridad de las personas o alteren el orden público;
 
-VIII. Por actos imputables a los permisionarios, encargados o empleados del establecimiento o giro, dentro o fuera del local, que pongan en riesgo la seguridad de las personas o alteren el orden público;
+VIII.- Por no solicitar de forma escrupulosa la acreditación de la mayoría de edad a aquéllas personas que pretendan ingresar a espacios destinados para mayores de edad;
 
-IX. Por no solicitar de forma escrupulosa la acreditación de la mayoría de edad a aquéllas personas que pretendan ingresar a espacios destinados para mayores de edad,
+IX.- Por operar con venta y consumo de bebidas con contenido alcohólico en días prohibidos;
 
-X. Por operar con venta y consumo de bebidas con contenido alcohólico en días prohibidos;
+X.- Por no fijar avisos o letreros visibles en el exterior o interior de sus establecimientos dando a conocer la prohibición de entrada a menores de edad;
 
-XI. Por operar con bebidas alcohólicas que no conserven la identidad y contenido de las mismas;
+XI.- Por negarse a ser inspeccionados por la autoridad competente;
 
-XII. Por no fijar avisos o letreros visibles en el exterior o interior de sus establecimientos dando a conocer la prohibición de entrada a menores de edad;
+XII.- Por no refrendar anualmente la licencia de funcionamiento;
 
-XIII. Por operar sin autorización en los casos de clausura, cambio de domicilio o cesión o transferencia de derechos;
+XIII.- Por no informar a la instancia municipal competente de la suspensión de actividades o el cambio de denominación del establecimiento o giro, y
 
-XIV. Por negarse a ser inspeccionados por la autoridad competente
-
-XV. Por no refrendar anualmente la licencia de funcionamiento;
-
-XVI. Por no informar a la instancia municipal competente de la suspensión de actividades o el cambio de denominación del establecimiento o giro; y
-
-XVII. Cuando se verifiquen en el exterior del establecimiento o giro concursos, promociones o cualquier tipo de ofertas o prácticas comerciales por las que se oferten reconocimientos, premios, descuentos o cualquier tipo de incentivos en función del volumen de consumo de bebidas alcohólicas, así como la publicación de precios regulares y de promoción de bebidas alcohólicas en el exterior de los establecimientos, ya sea a través de la utilización de medios de publicidad impresos, visuales o auditivos.
+XIV.- Cuando se verifiquen en el exterior del establecimiento o giro concursos, promociones o cualquier tipo de ofertas o prácticas comerciales por las que se oferten reconocimientos, premios, descuentos o cualquier tipo de incentivos en función del volumen de consumo de bebidas alcohólicas, así como la publicación de precios regulares y de promoción de bebidas alcohólicas en el exterior de los establecimientos, ya sea a través de la utilización de medios de publicidad impresos, visuales o auditivos.
 
 ###### Artículo 96.
 
@@ -1057,7 +1057,9 @@ III. Cuando los permisionarios no observen la suspensión de actividades de su c
 
 IV. Cuando las condiciones en las que se encuentra el establecimiento o giro, ponga en riesgo la salud o la seguridad de las personas en su interior;
 
-V. Operar en domicilio distinto al autorizado;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+V. Operar en domicilio distinto al autorizado; además, se impondrá multa equivalente de veinte hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 VI. Por la reincidencia en los actos u omisiones que originen la imposición de una sanción indicada en el artículo anterior; y
 
@@ -1067,7 +1069,9 @@ VII. Las demás que determine el reglamento de la municipalidad de que se trate.
 
 La instancia municipal competente aplicará la multa o sanción a que se refiere la fracción III del artículo 94 de esta Ley, en cualquiera de los casos siguientes:
 
-I. Por realizar la venta, almacenaje para su venta o venta para su consumo de bebidas alcohólicas adulteradas o que no sean aptas para el consumo humano;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+I. Por realizar la venta, almacenaje para su venta o venta para su consumo de bebidas alcohólicas adulteradas o que no sean aptas para el consumo humano; además se impondrá multa de veinte hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 II. Por transferir los derechos del permiso o cambiar el domicilio de ubicación del establecimiento o giro, sin la autorización de la instancia municipal competente;
 
@@ -1248,3 +1252,11 @@ SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
+
+P.O. 15 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS SESENTA Y TRES POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DE BEBIDAS ALCOHÓLICAS Y DE REGULACIÓN PARA SU VENTA Y CONSUMO EN EL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
