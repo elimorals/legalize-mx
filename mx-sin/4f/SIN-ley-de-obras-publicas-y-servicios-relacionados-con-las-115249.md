@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-obras-publicas-y-servicios-relacionados-con-las-115249"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-20"
-last_updated: "2016-06-20"
+last_updated: "2017-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SIN"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SINALOA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS SESENTA DÍAS POSTERIORES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de junio de 2016.
 
@@ -61,9 +59,11 @@ VI. Las demás dependencias, organismos, entidades e instituciones facultadas po
 
 Cuando las obras públicas, así como los servicios relacionados con las mismas, se ejecuten total o parcialmente con recursos financieros provenientes del presupuesto del gobierno federal, conforme a los convenios que celebre el Estado de Sinaloa con la Federación y, en su caso, con los Municipios del propio Estado, se aplicará la legislación federal en la materia y los términos establecidos en los convenios.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 2.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas emitirá las políticas, bases y lineamientos para las acciones relativas a las obras públicas y los servicios relacionados con las mismas, de conformidad con este ordenamiento.
+La Secretaría de Obras Públicas del Gobierno del Estado de Sinaloa emitirá las políticas, bases y lineamientos para las acciones relativas a las obras públicas y los servicios relacionados con las mismas, de conformidad con este ordenamiento.
 
 ###### Artículo 3.
 
@@ -123,7 +123,9 @@ XXIV. Proyecto de Ingeniería: el que comprende los planos constructivos y estru
 
 XXV. Reglamento: Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Sinaloa; y,
 
-XXVI. Secretaría: la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado de Sinaloa.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+
+XXVI. Secretaría: la Secretaría de Obras Públicas del Gobierno del Estado de Sinaloa.
 
 Para los efectos de esta Ley, cuando se refiera a las dependencias y entidades se entenderá que incluye a las definidas en las fracciones X y XI de este artículo, tanto en el ámbito estatal como municipal, según corresponda, conforme a sus atribuciones.
 
@@ -1457,9 +1459,11 @@ Las dependencias y entidades bajo cuya responsabilidad quede una obra pública d
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 92.
 
-Las dependencias o entidades podrán realizar obra pública por administración directa con autorización previa de la Contraloría, debiendo justificar ante ella las razones que la obligan a optar por esta forma de ejecución, siempre que el importe del costo total de la obra no exceda de quince mil veces el valor diario de la Unidad de Medida y Actualización, que cuente con el presupuesto correspondiente y tenga acceso viable a la obtención de servicios especializados y los elementos necesarios para tal efecto tales como maquinaria, equipo de construcción y personal técnico para la operación de dicha maquinaria y equipo, y podrá, según el caso:
+Las dependencias o entidades podrán realizar obra pública por administración directa con autorización previa de la Secretaría de Administración y Finanzas, debiendo justificar ante ella las razones que la obligan a optar por esta forma de ejecución, siempre que el importe del costo total de la obra no exceda de quince mil veces el valor diario de la Unidad de Medida y Actualización, que cuente con el presupuesto correspondiente y tenga acceso viable a la obtención de servicios especializados y los elementos necesarios para tal efecto tales como maquinaria, equipo de construcción y personal técnico para la operación de dicha maquinaria y equipo, y podrá, según el caso:
 
 I. Utilizar la mano de obra que se requiera, lo que invariablemente deberá llevarse a cabo por obra determinada;
 
@@ -1474,6 +1478,10 @@ Se entiende como complementario, no más del veinticinco por ciento del total re
 En la ejecución de los trabajos por administración directa, bajo ninguna circunstancia podrán participar terceros como contratistas, sean cuales fueren las condiciones particulares, naturaleza jurídica o modalidades que estos adopten.
 
 Cuando se requieran equipos, instrumentos, elementos prefabricados terminados, materiales u otros bienes que deban ser instalados, montados, colocados o aplicados, su adquisición se regirá por las disposiciones correspondientes a tal materia.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2017)</small>
+
+Podrá llevarse a cabo la contratación de obras por administración directa cuando se trate de la ejecución de obras relacionadas con la conservación y mantenimiento de las vías de comunicación estatal y municipal, cualquiera que sea el monto de la inversión cuando dicha obra se asigne para su ejecución a un organismo público descentralizado cuyo objeto sea la ejecución de las obras señaladas anteriormente.
 
 ###### Artículo 93.
 
@@ -2072,3 +2080,17 @@ C. GERARDO O. VARGAS LANDEROS
 El Secretario de Desarrollo Urbano y Obras Públicas
 
 C. JOSÉ LUIS SEVILLA SUÁREZ PEREDO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 97 SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN XXVI DEL 4 Y PÁRRAFO PRIMERO DEL 92; Y SE ADICIONA UN PÁRRAFO ÚLTIMO AL ARTÍCULO 92, TODOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Las políticas, bases y lineamientos para las acciones relativas a las obras públicas y servicios relacionados con las mismas, se expedirán por la Secretaría de Obras Públicas del Gobierno del Estado de Sinaloa, dentro de los 120 días hábiles posteriores a la entrada en vigor del presente decreto.
