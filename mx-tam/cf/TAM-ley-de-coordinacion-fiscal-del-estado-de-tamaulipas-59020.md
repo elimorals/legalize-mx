@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2016-12-21"
+last_updated: "2017-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE FEBRERO DE 2017 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 16 DE FEBRERO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO LXIII-92 PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2016.]</small>
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
