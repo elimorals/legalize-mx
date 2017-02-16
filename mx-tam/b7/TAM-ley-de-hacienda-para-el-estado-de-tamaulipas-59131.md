@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2016-12-21"
+last_updated: "2017-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "TAM"
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS AL DECRETO NÚMERO LXIII-92 PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE FEBRERO DE 2017.]</small>
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1443,7 +1445,9 @@ El monto del impuesto se determinará aplicando la tasa del 2 por ciento a la ba
 
 Para los efectos de este capítulo, el impuesto se causará cuando se realice cualquiera de los supuestos siguientes:
 
-I.- Se pague parcial o totalmente el servicio a que se refiere el artículo 38 de esta Ley;
+> <small>(F. DE E., P.O. 16 DE FEBRERO DE 2017)</small>
+
+I.- Se pague parcial o totalmente el servicio a que se refiere el artículo 52 Quinquies de esta Ley;
 
 II.- Se expida el comprobante que ampare el servicio recibido; y
 
