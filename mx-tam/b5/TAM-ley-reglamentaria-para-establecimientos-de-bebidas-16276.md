@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2016-12-21"
+last_updated: "2017-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "TAM"
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 16 DE FEBRERO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO LXIII-92 PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -761,7 +763,7 @@ c).- Cuando se permita, dentro del establecimiento, conductas que tiendan a alen
 
 d).- Cuando se enajenen, o en el establecimiento se permita el consumo de bebidas alcohólicas a menores de edad, a personas que no estén en pleno goce de sus facultades mentales, a personas armadas o bajo los efectos de psicotrópicos, elementos del ejército, armada, policía uniformada y visitadores en el desempeño de sus funciones;
 
-e).- Cuando se transfiera la licencia o permiso respectivo en contravención a lo dispuesto en el Artículo 30 de esta ley, así como cuando sea utilizada en algún establecimiento por persona distinta a su propietario;
+e).- Cuando se transfiera la licencia o permiso respectivo en contravención a lo dispuesto en el artículo 30 de esta ley, así como cuando sea utilizada en algún establecimiento por persona distinta a su propietario;
 
 f).- Cuando el establecimiento carezca de la licencia o permiso correspondiente o cuando el establecimiento continúe operando después de haberse notificado la cancelación de la licencia;
 
