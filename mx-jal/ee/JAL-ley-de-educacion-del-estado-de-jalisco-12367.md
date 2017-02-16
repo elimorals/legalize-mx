@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2017-01-17"
+last_updated: "2017-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -129,9 +129,9 @@ V.- Infundir el conocimiento y la práctica de la democracia como forma de gobie
 
 VI.- Promover el valor de la justicia, la igualdad de derechos entre las personas y la cultura de la legalidad basada en la integridad de la persona;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
 
-VII.- Impulsar el estudio y la toma de consciencia, sobre la conservación y protección del medio ambiente y el aprovechamiento racional de los recursos naturales, para la solución de los problemas, económicos, sociales y culturales del Estado;
+VII.- Impulsar el estudio y la toma de consciencia de directivos, docentes, alumnos, padres de familia y comunidad en general, sobre la conservación y protección del medio ambiente y el aprovechamiento racional de los recursos naturales, para la solución de los problemas, económicos, sociales y culturales del Estado, así como de las acciones humanas que repercuten en el cambio climático y la forma de mitigar sus efectos;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -3922,3 +3922,11 @@ P.O. 17 DE ENERO DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Ejecutivo, a través de la dependencia o entidad competente, podrá dictar criterios o regular los aspectos mínimos para la promoción de la educación familiar en libertad, subsidiariedad y responsabilidad.
+
+P.O. 16 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 26263/LXI/17 QUE REFORMA Y (SIC) LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. La Secretaria de Educación del Estado de Jalisco, deberá en un término de noventa días hábiles posteriores a la entrada en vigor del presente decreto, adecuar sus reglamentos, programas y demás disposiciones administrativas para el debido cumplimiento del presente decreto.
