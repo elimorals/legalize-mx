@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2016-11-26"
+last_updated: "2017-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -685,9 +685,9 @@ II. Proponer a la Asamblea, la integración de comisiones y comités, con el se�
 
 III. Proponer a la Asamblea el nombramiento para su designación de los servidores públicos del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
 
-IV. Proponer a la Asamblea, en los términos de esta ley, el nombramiento para su designación, del Secretario General; del titular del Instituto de Investigación y Estudios Legislativos; y de los titulares de los órganos técnicos de: Hacienda Pública, de Responsabilidades, de Educación, de Desarrollo Humano, de Asuntos Metropolitanos, de Seguridad Pública y de Puntos Constitucionales y Técnica Legislativa;
+IV. Proponer a la Asamblea, en los términos de esta ley, el nombramiento para su designación del Secretario General; del titular del Instituto de Investigación y Estudios Legislativos; y de los titulares de los Órganos Técnicos de: Hacienda Pública, de Responsabilidades, de Educación, de Familia, Desarrollo Humano e Integración Social; de Asuntos Metropolitanos; de Seguridad Pública; y de Puntos Constitucionales y Técnica Legislativa;
 
 V. Proponer a la Asamblea, en los términos de la presente ley, el nombramiento de los servidores públicos del Instituto de Investigación y Estudios Legislativos, en su caso;
 
@@ -1619,9 +1619,9 @@ III. La administración de los recursos económicos del Congreso del Estado, de 
 
 IV. La notificación a los empleados de la Secretaría del Congreso del Estado de las sanciones administrativas que se les impongan por las faltas en que incurran;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
 
-V. Determinar y aprobar el clasificador por objeto de gasto; así como la formulación dentro de la segunda quincena de octubre, del anteproyecto de presupuesto de egresos del Poder Legislativo para el ejercicio fiscal siguiente; y
+V. Determinar y aprobar el clasificador por objeto de gasto el cual será acorde al Plan General del Poder Legislativo y este se integrará por proyectos presupuestarios; así como la formulación dentro de la segunda quincena de octubre, del anteproyecto de presupuesto de egresos del Poder Legislativo para el ejercicio fiscal siguiente; y
 
 VI. La formación del inventario pormenorizado de los muebles y enseres de la Secretaría del Congreso del Estado y sus dependencias y cuidar de la conservación de los mismos.
 
@@ -1703,7 +1703,9 @@ Artículo 77 C.
 
 1. Corresponde a la Comisión de innovación, Ciencia y Tecnología el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-I. La legislación relacionada con la ciencia y tecnología en el ámbito estatal; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+
+I. La legislación relacionada con la innovación, ciencia y tecnología en el ámbito estatal; y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1799,11 +1801,17 @@ II. La legislación en materia de asistencia social y desarrollo humano;
 
 III. La normatividad, políticas, planes y programas de desarrollo humano, desarrollo social y asistencial para grupos vulnerables en el ámbito estatal;
 
-IV. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del Órgano Técnico de Desarrollo Humano y Familia;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
 
-V. La supervisión y coordinación del Órgano Técnico de Desarrollo Humano y Familia, y
+IV. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del Órgano Técnico de Familia, Desarrollo Humano e Integración Social;
 
-VI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del Órgano Técnico de Desarrollo Humano y Familia.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+
+V. La supervisión y coordinación del Órgano Técnico de Familia, Desarrollo Humano e Integración Social; y
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+
+VI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del Órgano Técnico de Familia, Desarrollo Humano e Integración Social.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -4466,3 +4474,9 @@ P.O. 26 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25917/LX1/16 QUE REFORMA LOS ARTÍCULOS 52,58 Y 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 16 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26264/LXI/17 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO Y DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
