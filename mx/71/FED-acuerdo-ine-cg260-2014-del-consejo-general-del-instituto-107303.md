@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg260-2014-del-consejo-general-del-instituto-107303
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-04-15"
-last_updated: "2016-09-13"
+last_updated: "2017-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107303&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-11-19"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS "LINEAMIENTOS DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2016 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 15 de abril de 2015.
 
@@ -65,7 +65,7 @@ LINEAMIENTOS DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES
 
 > <small>[N. DE E. VÉASE LINEAMIENTOS DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES PUBLICADOS EN LA PRIMERA SECCIÓN DEL D.O.F. 15 DE ABRIL DE 2015, PÁGINAS 90 A 99.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LOS LINEAMIENTOS EN LA PRIMERA SECCIÓN DEL D.O.F. 23 DE MAYO DE 2016, PÁGINA 81 Y EN LA DIRECCIÓN ELECTRÓNICA: http://www.ine.mx/archivos2/portal/ConsejoGeneral/SesionesConsejo/acuerdos/]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LOS LINEAMIENTOS EN LA PRIMERA SECCIÓN DEL D.O.F. 23 DE MAYO DE 2016, PÁGINA 81 Y EN LA DIRECCIÓN ELECTRÓNICA: http://www.ine.mx/archivos2/portal/ConsejoGeneral/SesionesConsejo/acuerdos/; PRIMERA SECCIÓN DEL D.O.F. 16 DE FEBRERO DE 2017, PÁGINAS DE LA 70 A LA 71.]</small>
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -214,3 +214,57 @@ DÉCIMO SEGUNDO. A más tardar en el mes de octubre de 2016, la Comisión de Org
 DÉCIMO TERCERO. A más tardar el treinta y uno de agosto de 2017, la Comisión de Organización Electoral, a propuesta de la Dirección Ejecutiva de Organización Electoral, deberá presentar al Consejo General para su aprobación, los lineamientos generales a través de los cuales se regule el desarrollo de sesiones especiales de cómputo correspondientes a las elecciones federales. En la señalada temporalidad, todos los Organismos Públicos Locales en cuyas entidades federativas se celebren elecciones en 2018, deberán emitir o ajustar, según corresponda, los lineamientos a través de los cuales se regule el desarrollo de las sesiones especiales de cómputo de sus elecciones.
 
 DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al inicio de vigencia de este Reglamento, por las distintas áreas y direcciones del Instituto y de los Organismos Públicos Locales, en el ámbito de sus competencias, así como aquéllas cuya ejecución se contemple antes del inicio de los procesos electorales locales 2016-2017, deberán ajustarse, en lo conducente, a las reglas y disposiciones previstas en este Reglamento.
+
+D.O.F. 16 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba modificar los “Lineamientos del Programa de Resultados Electorales Preliminares”, aprobados mediante Acuerdo INE/CG935/2015 en sus numerales 59, fracción VIII, primer párrafo; 63, fracción IV; y 64, primer párrafo, fracciones III, IV y la adición de la fracción VI y un último párrafo al mismo, en los siguientes términos:
+
+Lineamientos del Programa de Resultados Electorales Preliminares
+
+[…]
+
+59. Para efectos de los datos a publicar, se entenderá por:
+
+[…]
+
+VIII. Actas contabilizadas: Actas correspondientes a las casillas aprobadas por el consejo distrital federal, de las cuales se tiene su correspondiente Acta PREP, la suma total de votos no excede la lista nominal aprobada para la casilla de esa AEC, más el número de representantes de partidos o candidatos y no caen en cualquiera de los supuestos siguientes: todos los campos en los cuales se asientan votos para un partido, para candidato común (en el supuesto de que la legislación local lo contemple), para una coalición, para un candidato independiente, para candidatos no registrados y votos nulos son ilegibles, o todos ellos están vacíos.
+
+[…]
+
+63. Los datos a publicar serán al menos los siguientes:
+
+[…]
+
+IV. Identificación del Acta PREP con inconsistencias, así como el porcentaje de actas con inconsistencias con respecto al total de actas esperadas;
+
+[…]
+
+64. En términos del numeral anterior, se prevén los siguientes supuestos de inconsistencia de los datos contenidos en las Actas PREP, así como los criterios que se deben aplicar para su tratamiento:
+
+[…]
+
+III. La cantidad de votos asentada en el Acta PREP -para un partido, para candidato común (en el supuesto de que la legislación local lo contemple), para una coalición, para un candidato independiente, para candidatos no registrados o votos nulos- es ilegible tanto en letra como en número. En este supuesto, cada ocurrencia del Acta PREP se capturará como “ilegible” y el dato se contabilizará como cero. El Acta PREP se incluirá dentro del grupo de actas contabilizadas, siempre y cuando exista al menos una cantidad legible, ya sea en letra o número; en caso contrario, si el acta no contiene dato legible alguno, deberá incluirse en el grupo de actas no contabilizadas.
+
+[…]
+
+IV. La cantidad de votos para un partido, para un candidato común (en el supuesto de que la legislación local lo contemple), para una coalición, para un candidato independiente, para candidatos no registrados o votos nulos, ha sido asentada en número pero no en letra, o ha sido asentada en letra pero no en número. En este supuesto, se capturará el dato que haya sido asentado. El Acta PREP se incluirá dentro del grupo de las actas contabilizadas.
+
+[…]
+
+VI. La cantidad de votos no ha sido asentada ni en letra ni en número para un partido, para un candidato común (en el supuesto de que la legislación local lo contemple), para una coalición, para un candidato independiente, para candidatos no registrados o votos nulos. En este supuesto, cada ocurrencia del Acta PREP se capturará como “sin dato” y el dato se contabilizará como cero. El Acta PREP se incluirá dentro del grupo de actas contabilizadas, siempre y cuando exista al menos una cantidad, ya sea en letra o número; en caso contrario, si el acta no contiene dato alguno, deberá incluirse en el grupo de actas no contabilizadas.
+
+[…]
+
+Atendiendo al principio de máxima publicidad, durante la operación del PREP, en los supuestos de que el Acta PREP no se haya podido identificar, no haya sido entregada junto con el paquete electoral, no contenga dato alguno en la sección donde se asientan los votos, o todos ellos sean ilegibles, el coordinador o supervisor del CATD podrán solicitar el apoyo del Consejo Electoral correspondiente para que, de ser posible, proporcione el AEC o una copia de la misma. En caso de que con dicha AEC se subsanen los supuestos anteriores, ésta se procesará de conformidad con lo establecido en los presentes Lineamientos.
+
+[…]
+
+SEGUNDO. El presente Acuerdo y los “Lineamientos del Programa de Resultados Electorales Preliminares” los cuales acompañan al presente como Anexo y forman parte integral del mismo, entrarán en vigor al día siguiente de su aprobación por parte de este Consejo General.
+
+TERCERO. Toda referencia al Acuerdo INE/CG935/2015 y a los Lineamientos del Programa de Resultados Electorales Preliminares aprobados en el mismo, se entenderá como si se refiriera al presente Acuerdo y los Lineamientos del Programa de Resultados Electorales Preliminares que forman parte integral del presente.
+
+CUARTO. Se instruye al Secretario Ejecutivo para que, de forma inmediata, haga del conocimiento de los Organismos Públicos Locales, Consejos Locales del Instituto Nacional Electoral y Juntas Locales Ejecutivas, el contenido del presente Acuerdo, así como de los “Lineamientos del Programa de Resultados Electorales Preliminares” que forman parte integral del mismo.
+
+QUINTO. Se instruye al Secretario Ejecutivo, a efecto de que provea lo necesario para que el presente Acuerdo y los Lineamientos que forman parte integral del mismo, sean publicados en el Diario Oficial de la Federación.
