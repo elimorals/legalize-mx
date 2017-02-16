@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2016-11-17"
+last_updated: "2017-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -363,41 +363,23 @@ e) Procedimiento a seguir en caso de no realizarse la elección del Magistrado e
 
 ###### Artículo 38.
 
-1. En caso de ausencia definitiva para el cargo de Magistrado del Tribunal Electoral, las comisiones de Justicia y Asuntos Electorales, de oficio o a petición del Tribunal, iniciará el procedimiento para la elección de conformidad con las disposiciones de este apartado.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2017)
 
 ###### Artículo 39.
 
-1. Las comisiones someten a la Asamblea el proyecto de convocatoria, para su aprobación y publicación, dirigida a los partidos políticos, instituciones de educación superior, colegios de abogados, y demás organizaciones sociales y civiles, para que presenten candidatos ante las fracciones o grupos parlamentarios representados en el Congreso del Estado. Esta convocatoria deberá contener cuando menos lo siguiente:
-
-a) El cargo vacante;
-
-b) Los requisitos de elegibilidad para el desempeño del cargo, conforme a las disposiciones constitucionales y legales aplicables al caso;
-
-c) El lugar y la fecha en que puedan recibirse las propuestas y los documentos que acrediten que el candidato reúne los requisitos para ocupar el cargo. Los mencionados documentos no serán devueltos a los interesados;
-
-d) Fecha limite para que las fracciones o grupos parlamentarios, realicen las propuestas;
-
-e) Fecha en que deba realizarse el nombramiento; y
-
-f) Procedimiento a seguir en caso de no realizarse la elección del Magistrado en los plazos señalados, así como en el caso de que los candidatos propuestos no alcancen la votación requerida.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2017)
 
 ###### Artículo 40.
 
-1. Recibida la lista que manden las fracciones o grupos parlamentarios, le corresponde a las comisiones de Justicia y Asuntos Electorales del Congreso del Estado, realizar el estudio de los expedientes y determinar si los candidatos cumplen con los requisitos de ley, las comisiones pueden, en todo caso invitar a los candidatos, en igualdad de condiciones, para que presenten personalmente sus planes de trabajo, aclaren o incrementen la información proporcionada o alleguen otros elementos que se consideren trascendentes para el procedimiento de elección. Sustanciado este procedimiento, las comisiones presentan a la Asamblea, el dictamen que contenga la lista de candidatos que en forma objetiva cumplen con los requisitos de elegibilidad.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2017)
 
 ###### Artículo 41.
 
-1. Presentado el dictamen con la lista de candidatos, la Asamblea realiza la elección mediante el sistema de votación por cédula. Se requiere la votación favorable de cuando menos las dos terceras partes de los diputados presentes en la sesión para aprobar el nombramiento.
-
-2. En caso de que ningún candidato obtenga la votación requerida en las tres rondas a que se refiere la Ley Orgánica del Poder Judicial, se entiende rechazada la lista, y la Mesa Directiva solicita a las comisiones una nueva lista.
-
-3. El procedimiento señalado en el párrafo anterior, se repite hasta que un candidato obtenga los votos requeridos o hasta que las comisiones informen que se agotaron las propuestas recibidas con motivo de la convocatoria; en este supuesto se debe proceder a una (sic) emitir nueva convocatoria dentro del plazo de cinco días hábiles.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2017)
 
 ###### Artículo 42.
 
-1. El acuerdo en el que se propongan candidatos al cargo de Magistrado del Tribunal Electoral, debe señalar la duración del nombramiento, especificando la fecha de inicio y terminación del mismo.
-
-2. El candidato electo debe tomar protesta de Ley ante el Congreso del Estado, previamente a la toma de posesión del cargo.
+(DEROGADO, P.O. 16 DE FEBRERO DE 2017)
 
 ### CAPÍTULO VII. PROCEDIMIENTO PARA LA ELECCIÓN DE CONSEJEROS DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
@@ -739,7 +721,7 @@ Los foros de consulta pública se regirán bajo los principios de institucionali
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
 
-###### Artículo 94-D.
+Artículo 94 D.
 
 1. Las comisiones que pretendan llevar a cabo foros de consulta pública deberán dar aviso a la Secretaría General del acuerdo interno mediante el cual aprueben la celebración de los mismos, preferentemente durante el mes de noviembre o hasta el 30 de abril en caso de ser el primer año de ejercicio de la Legislatura.
 
@@ -767,7 +749,7 @@ Artículo 94 H.
 
 Los foros de consulta pública serán temáticos y en su caso se realizarán de manera conjunta por las comisiones involucradas que hayan remitido su acuerdo interno.
 
-Si alguna de las .comisiones pretende llevar a cabo el foro de manera independiente, deberá expresar las razones que así lo justifiquen y ser aprobado en sesión ordinaria del Pleno, para lo cual se considerará lo anterior como situación de excepción y deberá prevalecer ante todo la institucionalidad de los foros de consulta pública como evento del Congreso del Estado.
+Si alguna de las comisiones pretende llevar a cabo el foro de manera independiente, deberá expresar las razones que así lo justifiquen y ser aprobado en sesión ordinaria del Pleno, para lo cual se considerará lo anterior como situación de excepción y deberá prevalecer ante todo la institucionalidad de los foros de consulta pública como evento del Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
@@ -1137,11 +1119,17 @@ XXXIII. Foliar con el número progresivo anual que corresponda, las iniciativas 
 
 XXXIV. Traducir la legislación del estado de Jalisco al Braille y a las lenguas náhuatl y wixárica, y ponerla a disposición de la sociedad a través de los módulos de información y enlaces establecidos por el Congreso del Estado en las distintas regiones de la entidad, conforme a la disponibilidad presupuestal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
 
-XXXV. La elaboración, publicación y archivo de la Gaceta Parlamentaria del Congreso del Estado, y
+XXXV. La elaboración, publicación y archivo de la Gaceta Parlamentaria del Congreso del Estado;
 
-XXXVI. Las demás que señale este reglamento o acuerde la Asamblea.
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2017)</small>
+
+XXXVI. Enviar por acuerdo de la Comisión de Administración, a la Auditoría Superior, la información relacionada con los sujetos obligados directos y subsidiarios para el ejercicio del gasto; y
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+
+XXXVII. Las demás que señale éste reglamento o acuerde la Asamblea.
 
 ###### Artículo 107.
 
@@ -2520,3 +2508,9 @@ P.O. 17 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25909/LXI/16 QUE REFORMA LOS ARTÍCULOS 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO; Y 131, 144, 176 Y 177 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.”]
 
 ÚNICO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 16 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26264/LXI/17 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO Y DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
