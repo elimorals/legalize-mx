@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-control-de-estacionamiento-en-las-vias-83226
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-11"
-last_updated: "2013-01-18"
+last_updated: "2017-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83226&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-10-10"
 ---
 # REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN LAS VIAS PUBLICAS DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN VÍA PÚBLICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 2 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN LAS VÍAS PÚBLICAS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 11 de octubre de 2011.
 
@@ -84,9 +86,9 @@ XIV. Oficina de Atención, la ventanilla de atención a residentes, misma que se
 
 XV. Vivienda, espacio delimitado por paredes y techos que se utilizan para vivir, con entrada y número oficial independiente;
 
-> <small>(ADICIONADA, G.O. 18 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2017)</small>
 
-XVI. Permiso, el permiso renovable para residente.
+XVI. Permiso, el permiso renovable para residente otorgado por la Secretaría por sí o a través de la Autoridad del Espacio Público.
 
 ### Capítulo Segundo. De la competencia
 
@@ -106,7 +108,13 @@ V. Determinar el emplazamiento de cada parquímetro dentro de la Zona de Parquí
 
 VI. Auxiliar a la Secretaría de Transportes y Vialidad en la señalización de los cajones de estacionamiento y demás indicaciones viales, y
 
-VII. Las demás facultades que le otorgue el presente Reglamento y otros ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2017)</small>
+
+VII. El otorgamiento de los permisos renovables para residentes por sí o a través de la Autoridad del Espacio Público.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 16 DE FEBRERO DE 2017)</small>
+
+VIII. Las demás facultades que le otorgue el presente Reglamento y otros ordenamientos aplicables.
 
 ###### Artículo 5.
 
@@ -142,7 +150,13 @@ I. Supervisar la instalación, operación y mantenimiento de los parquímetros;
 
 II. Elaborar y ejecutar los proyectos de mejoramiento y rehabilitación de los espacios públicos que se ubiquen en el entorno urbano de las Zonas de Parquímetros, y
 
-III. Las demás facultades que le otorgue el presente Reglamento y otros ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2017)</small>
+
+III. El otorgamiento de los permisos renovables para residentes sin perjuicio de la facultad conferida a la Secretaría.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 16 DE FEBRERO DE 2017)</small>
+
+IV. Las demás facultades que le otorgue el presente Reglamento y otros ordenamientos aplicables.
 
 ###### Artículo 9.
 
@@ -194,7 +208,7 @@ VIII. Los vehículos de abasto de establecimientos mercantiles, deberán realiza
 
 IX. La Zona de Parquímetros no podrá ser ocupada para el estacionamiento de motocicletas, bicicletas, carros de mano, remolques y en general vehículos de tracción no mecánica, y
 
-X. Los vehículos de los usuarios que no cubran el pago estacionamiento (sic) conforme al presente artículo, serán inmovilizados por el Agente, con la colocación del dispositivo dispuesto para ello, el cual será retirado una vez que sean pagadas las sanciones correspondientes y el costo del retiro del inmovilizador vehicular.
+X. Los vehículos de los usuarios que no cubran el pago (sic) estacionamiento conforme al presente artículo, serán inmovilizados por el Agente, con la colocación del dispositivo dispuesto para ello, el cual será retirado una vez que sean pagadas las sanciones correspondientes y el costo del retiro del inmovilizador vehicular.
 
 En caso de que la sanción no sea cubierta en el lapso de dos horas posteriores a la detección de la falta en que haya incurrido el usuario, el vehículo será remitido al depósito vehicular más cercano.
 
@@ -300,21 +314,23 @@ IV. Carta bajo protesta de decir verdad de acuerdo al formato establecido por la
 
 Los permisos tendrán una vigencia de un año, contado a partir de su fecha de otrogamiento (sic) y deberán ser solicitados en la Oficina de Atención, en días y horas hábiles durante todo el año.
 
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 26.
 
-La Secretaría podrá verificar en todo momento la veracidad de los datos e información proporcionados por los solicitantes del permiso temporal especial para residente. El otorgamiento del mismo será resuelto con base en las circunstancias específicas de cada solicitante.
+La Secretaría por sí o a través de la Autoridad del Espacio Público, podrá verificar en todo momento la veracidad de los datos e información proporcionados por los solicitantes del permiso renovable para residentes. El otorgamiento del mismo será resuelto con base en las circunstancias específicas de cada solicitante.
 
-> <small>(REFORMADO, G.O. 18 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 27.
 
-La Secretaría otorgará un permiso por vivienda, siempre y cuando en el interior del inmueble donde se ubica la misma, no se cuente con cochera.
+La Secretaría por sí o a través de la Autoridad del Espacio Público, otorgará un permiso por vivienda, siempre y cuando en el interior del inmueble donde se ubica la misma, no se cuente con cochera, o en caso de contar con ésta, no se encuentre asignada a la vivienda que se habita, situación que deberá acreditarse con documento idóneo.
 
-> <small>(REFORMADO, G.O. 18 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 28.
 
-La Secretaría proporcionará al solicitante el permiso para residente así como un distintivo que contendrá las placas del vehículo autorizado, el periodo de vigencia y el área específica de la Zona de Parquímetros en la cual se le autoriza a estacionar el vehículo. El distintivo deberá colocarse en el interior del vehículo autorizado, en la parte inferior del parabrisas del mismo, del lado del conductor, siempre a la vista desde el exterior del vehículo.
+La Secretaría por sí o a través de la Autoridad del Espacio Público, proporcionará al solicitante el permiso renovable para residente, así como un distintivo que contendrá las placas del vehículo autorizado, el periodo de vigencia y el área específica de la Zona de Parquímetros en la cual se le autoriza a estacionar el vehículo. El distintivo deberá colocarse en el interior del vehículo autorizado, en la parte inferior del parabrisas del mismo, del lado del conductor, siempre a la vista desde el exterior del vehículo.
 
 > <small>(REFORMADO, G.O. 18 DE ENERO DE 2013)</small>
 
@@ -348,7 +364,7 @@ Corresponde al Comité de Transparencia y Rendición de Cuentas:
 
 I. Proponer el mejoramiento de espacios públicos, infraestructura y equipamiento urbano en la colonia o colonias que comprenda la Zona de Parquímetros;
 
-II. Recibir y evaluar la propuesta emanada de las reuniones entre la Delegación y el Comité Ciudadano respectivo, para la rehabilitación y el mejoramiento del espacio público, y (sic)
+II. Recibir y evaluar la propuesta emanada de las reuniones entre la Delegación y el Comité Ciudadano respectivo, para la rehabilitación y el mejoramiento del espacio público, y
 
 III. Supervisar la ejecución de los proyectos y, en su caso, proponer adecuaciones al mismo.
 
@@ -413,3 +429,11 @@ PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO. El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. Los permisos temporales especiales para residentes con vigencia semestral que se hayan otorgado antes de la entrada en vigor del presente decreto, conservarán su validez hasta el final de su vigencia; y una vez concluida ésta, los interesados podrán pedir un nuevo permiso renovable para residentes con vigencia de un año, de acuerdo con lo preceptuado por este decreto.
+
+G.O. 16 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN LAS VÍAS PÚBLICAS DEL DISTRITO FEDERAL".]
+
+Primero.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
