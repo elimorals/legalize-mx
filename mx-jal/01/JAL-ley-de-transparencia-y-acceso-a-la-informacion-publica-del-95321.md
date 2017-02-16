@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2016-10-11"
+last_updated: "2017-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,9 @@ state: "JAL"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 25653/LX/15, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2015, QUE MODIFICA ESTE ORDENAMIENTO, VÉASE SU TRANSITORIO PRIMERO.]</small>
-
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL P.O. DE 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -3897,6 +3893,8 @@ III. Revocar o modificar la respuesta del sujeto obligado.
 
 5. En contra de las resoluciones del Instituto a los recursos de revisión que confirmen o modifiquen la clasificación de la información, o confirmen la inexistencia o negativa de información, los particulares podránoptar (sic) por acudir ante el Instituto Nacional, de conformidad con la Ley General, o ante el Poder Judicial de la Federación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 103.
 
 Recurso de Revisión - Ejecución
@@ -3905,9 +3903,9 @@ Recurso de Revisión - Ejecución
 
 2. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá una amonestación pública con copia al expediente laboral del responsable, le concederá un plazo de hasta diez días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2017)</small>
 
-3. Si el sujeto obligado persiste en el incumplimiento dentro del plazo anterior, el Instituto le impondrá una multa de veinte a cien veces el valor diario de la Unidad de Medida y Actualización, le concederá un plazo de hasta cinco días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo. Una vez impuesta la multa se remitirá a la autoridad fiscal estatal para su ejecución.
+3. Si el sujeto obligado persiste en el incumplimiento dentro del plazo anterior, el Instituto le impondrá una multa de ciento cincuenta a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, le concederá un plazo de hasta cinco días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo. Una vez impuesta la multa se remitirá a la autoridad fiscal estatal para su ejecución.
 
 4. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá arresto administrativo de hasta treinta y seis horas, dentro de los tres días hábiles siguientes, y presentará la denuncia penal correspondiente. Para la ejecución del arresto se remitirá la resolución a la autoridad municipal competente, y presentará la denuncia penal correspondiente.
 
@@ -4277,15 +4275,17 @@ IV. Negar o entregar de forma incompleta o fuera de tiempo información pública
 
 V. Incumplir las resoluciones del Instituto que les corresponda atender.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 123.
 
 Infracciones - Sanciones
 
 1. A quien cometa infracciones establecidas en la presente ley se le sancionará de la siguiente forma:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2017)</small>
 
-I. Multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización a quien cometa alguna de las infracciones señaladas en:
+l. Multa de cien a setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización a quien cometa alguna de las infracciones señaladas en:
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -4301,9 +4301,9 @@ c) El artículo 121 párrafo 1 fracciones I, VI y XII; o
 
 d) El artículo 122 párrafo 1 fracción IV.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2017)</small>
 
-II. Multa de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización a quien cometa alguna de las infracciones señaladas en:
+II. Multa de ciento cincuenta a mil veces el valor diario de la Unidad de Medida y Actualización a quien cometa alguna de las infracciones señaladas en:
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -4317,9 +4317,9 @@ b) El artículo 120 párrafo 1 fracciones VI a VIII y X; o
 
 c) El artículo 121 párrafo 1 fracciones II, III, IV, V, VII, VIII, IX, X, XI y XIII.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2017)</small>
 
-III. Multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización a quienes cometan alguna de las infracciones señaladas en:
+III. Multa de doscientos a mil quinientas veces el valor diario de la Unidad de Medida y Actualización a quienes cometan alguna de las infracciones señaladas en:
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -4452,3 +4452,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 16 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26215/LXI/16 QUE REFORMA LOS ARTÍCULOS 103 Y 123 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Jalisco".
