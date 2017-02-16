@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-proteccion-y-apoyo-de-las-madres-jefas-de-86234"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2013-10-12"
+last_updated: "2017-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY PARA LA PROTECCION Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 14 de febrero de 2012.
 
@@ -109,11 +111,17 @@ I. Asumir la responsabilidad de la manutención de sus hijos e hijas, en forma �
 
 II. La minoría de edad de sus dependientes económicos;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
 
-III. La incapacidad de sus dependientes económicos; y
+III. La incapacidad de sus dependientes económicos;
 
-IV. Obtener un promedio de ingreso diario de hasta 2.5 veces el salario mínimo general vigente en el área geográfica de aplicación, o cuando no perciban ingresos y acrediten que están buscando trabajo.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+
+IV. Obtener un promedio de ingreso diario de hasta 2.5 veces el salario mínimo general vigente en el área geográfica de aplicación, o cuando no perciban ingresos y acrediten que están buscando trabajo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2017)</small>
+
+V. Estar privadas de su libertad y tener a su cargo, dentro de reclusión, a sus hijas o hijos.
 
 ### Capítulo III. Del apoyo económico estatal y municipal
 
@@ -141,9 +149,11 @@ IV. Que el ingreso que perciba por día no sea mayor a 2.5 salarios mínimos gen
 
 V. Los demás que prevean expresamente las disposiciones reglamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 11.
 
-Las madres jefas de familia deberán informar bimestralmente a la Secretaría de Desarrollo Humano, a través de la secretaría técnica del Consejo:
+Las madres jefas de familia deberán informar bimestralmente a la Secretaría de Desarrollo e Integración Social, a través de la secretaria técnica del Consejo:
 
 I. La aplicación y destino de la ayuda económica mensual;
 
@@ -152,6 +162,10 @@ I. La aplicación y destino de la ayuda económica mensual;
 II. El avance escolar de sus dependientes económicos menores de edad como alumnos regulares, cuando así proceda; y
 
 III. Los demás que prevean las disposiciones reglamentarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE FEBRERO DE 2017)</small>
+
+En el caso de las madres jefas de familia que se encuentran privadas de su libertad, el informe respectivo se hará por conducto del área de servicio social del Centro Preventivo y de Readaptación Femenil.
 
 ###### Artículo 12.
 
@@ -179,19 +193,23 @@ V. Cuando la madre jefa de familia reciba apoyo económico de otro programa fede
 
 La ayuda económica mensual a que tienen derecho las madres jefas de familia a que se refiere este capítulo, se otorgará a través de la implementación de un programa de apoyo estatal a madres jefas de familia, en el que se establecerá la temporalidad. Mientras subsistan las condiciones que dieron origen a la ayuda y el sujeto beneficiario cumpla con las obligaciones correspondientes, ésta no podrá suspenderse.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 15.
 
-Para efectos de lo dispuesto en el artículo anterior, la Secretaría de Desarrollo Humano, a través de la Secretaría Técnica del Consejo, deberá llevar un registro y control de beneficiarias del programa, el cual deberá actualizar mensualmente. Este padrón será público y se integrará con expedientes individuales de los beneficiarios la información ahí contenida será reservada en términos de la Ley de Información Pública.
+Para efectos de lo dispuesto en el artículo anterior, la Secretaría de Desarrollo e Integración Social, a través de la Secretaría Técnica del Consejo, deberá llevar un registro y control de beneficiarias del programa, el cual deberá actualizar mensualmente. Este padrón será público y se integrará con expedientes individuales de los beneficiarios, y la información ahí contenida estará a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios.
 
 ### Capítulo IV. De las acciones gubernamentales
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 16.
 
-La Secretaría de Desarrollo Humano será la autoridad encargada de operar, coordinar y ejecutar los programas de apoyo a favor de las madres jefas de familia.
+La Secretaría de Desarrollo e Integración Social será la autoridad encargada de operar, coordinar y ejecutar los programas de apoyo a favor de las madres jefas de familia.
 
-En la Secretaría de Desarrollo Humano estarán sectorizadas las dependencias del Ejecutivo que éste considere necesarias para garantizar el acceso de las madres jefas de familia a los servicios y derechos contenidos en esta ley y demás disposiciones normativas aplicables.
+En la Secretaría de Desarrollo e Integración Social estarán sectorizadas las dependencias del Ejecutivo que éste considere necesarias para garantizar el acceso de las madres jefas de familia a los servicios y derechos contenidos en esta ley y demás disposiciones normativas aplicables.
 
-La Secretaría de Desarrollo Humano deberá llevar a cabo un estudio socioeconómico a las madres jefas de familia para acreditar su situación de vulnerabilidad socioeconómica y valorar si califican o no como beneficiarias de los apoyos a que hace referencia esta ley para tal efecto los interesados deberán aportar los elementos que les sean solicitados.
+La Secretaría de Desarrollo e Integración Social deberá llevar a cabo un estudio socioeconómico a las madres jefas de familia para acreditar su situación de vulnerabilidad socioeconómica y valorar si califican o no como beneficiarias de los apoyos a que hace referencia esta ley, para tal efecto los interesados deberán aportar los elementos que les sean solicitados.
 
 ###### Artículo 17.
 
@@ -207,9 +225,11 @@ Las dependencias y entidades estatales y municipales, si es el caso, podrán cel
 
 ### Capítulo V. Del Consejo Estatal para la Protección de las Madres Jefas de Familia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 20.
 
-Se crea el Consejo Estatal para la Protección de las Madres Jefas de Familia como un órgano público auxiliar de la Secretaría de Desarrollo Humano, con funciones técnicas, de gestión y de consulta.
+Se crea el Consejo Estatal para la Protección de las Madres Jefas de Familia como un órgano público auxiliar de la Secretaría de Desarrollo e Integración Social, con funciones técnicas, de gestión y de consulta.
 
 El Consejo será honorífico y su objeto es la elaboración de propuestas, programas, políticas públicas y acciones en materia de protección a las madres jefas de familia, con el fin de mejorar sus condiciones de vida y las de sus hijos.
 
@@ -221,7 +241,9 @@ El Consejo Estatal estará integrado por:
 
 I. Un Presidente, que será el Gobernador del Estado;
 
-II. Un Secretario Técnico, que será el titular de la Secretaría de Desarrollo Humano;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+
+II. Un Secretario Técnico, que será el titular de la Secretaría de Desarrollo e Integración Social;
 
 III. Los titulares de las dependencias del Ejecutivo que sean sectorizadas, y
 
@@ -237,7 +259,9 @@ El Consejo Estatal, a través de su presidencia, podrá invitar a las sesiones d
 
 El Consejo Estatal tendrá las siguientes funciones:
 
-I. Diseñar políticas orientadas al desarrollo y mejoramiento de las condiciones de vida de las madres jefas de familia y proponerlas a la Secretaría de Desarrollo Humano;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+
+I. Diseñar políticas orientadas al desarrollo y mejoramiento de las condiciones de vida de las madres jefas de familia y proponerlas a la Secretaría de Desarrollo e Integración Social;
 
 II. Participar en la evaluación de programas para las madres jefas de familia, así como proponer a las instituciones encargadas de dichos programas los lineamientos y mecanismos para su ejecución;
 
@@ -247,7 +271,9 @@ IV. Incentivar la creación de fundaciones, asociaciones e instituciones privada
 
 V. Recibir y canalizar a las instituciones competentes las quejas y sugerencias sobre la atención que éstas brinden a las madres jefas de familia;
 
-VI. Elaborar, conservar y actualizar los convenios que firme la Secretaría de Desarrollo Humano con los ayuntamientos y entidades federales en los términos de la presente ley y su reglamento;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+
+VI. Elaborar, conservar y actualizar los convenios que firme la Secretaría de Desarrollo e Integración Social con los ayuntamientos y entidades federales en los términos de la presente ley y su reglamento;
 
 VII. Elaborar investigaciones sobre las madres jefas de familia y sus hijos menores de edad, sobre la evaluación e impacto de las políticas y acciones que esta ley genere y sobre las causas y posibles soluciones de este fenómeno social, y
 
@@ -342,3 +368,15 @@ VÍCTOR MANUEL GONZÁLEZ ROMERO
 P.O. 12 DE OCTUBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 16 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26261/LXI/17 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor a los ciento ochenta días siguientes de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del Poder Ejecutivo deberá llevar a cabo las adecuaciones reglamentarias y administrativas necesarias para el debido complimiento (sic) del presente decreto.
+
+TERCERO. Se autoriza al titular del Poder Ejecutivo, para que por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las transferencias presupuestales necesarias para la ejecución del presente decreto, sin rebasar los límites presupuestales para el ejercicio fiscal 2017 y de conformidad con la previsión de ingresos aprobada para el mismo ejercicio fiscal.
+
+CUARTO. Los apoyos derivados de la reforma del presente decreto estarán sujetos a la suficiencia presupuestal con que se cuente.
