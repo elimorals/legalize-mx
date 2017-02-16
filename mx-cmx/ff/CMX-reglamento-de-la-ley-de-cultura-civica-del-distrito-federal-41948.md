@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-cultura-civica-del-distrito-federal-419
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-20"
-last_updated: "2008-06-30"
+last_updated: "2017-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41948&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-11-19"
 
 REGLAMENTO DE LA LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 20 de diciembre de 2004.
 
@@ -373,6 +373,10 @@ IV. El artículo 24, fracción VII de la Ley, en que se requiere queja vecinal c
 > <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2008)</small>
 
 V. El artículo 25, fracción XVIII, de la Ley, en que se procederá en los términos del capítulo Décimo Segundo, del Título Segundo, de este Reglamento.
+
+> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2017)</small>
+
+VI. El Artículo 25, fracción XV, de la Ley, en que se procederá en los términos del Capítulo Décimo Tercero, del Título Segundo del presente Reglamento.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE JUNIO DE 2008)</small>
 
@@ -1142,11 +1146,43 @@ Cuando el Juez inicie un procedimiento por queja o por presentación del probabl
 
 Contra la resolución definitiva dictada en el procedimiento de Daño por Tránsito Vehicular, procederá el juicio de nulidad en los términos de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal.
 
-### Capítulo Único. Del Consejo de Justicia Cívica
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 16 DE FEBRERO DE 2017)</small>
+
+### Capítulo Décimo Tercero. DEL PROCEDIMIENTO EN CASO DE PARTICIPACIÓN, ORGANIZACIÓN O INDUCCIÓN A OTROS A REALIZAR COMPETENCIAS VEHICULARES DE VELOCIDAD EN VÍAS PÚBLICAS
+
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2017)</small>
+
+###### Artículo 59 Bis 26.
+
+Cuando el elemento de policía tome conocimiento de la participación, organización o inducción a otros a realizar competencias vehiculares de velocidad en vías públicas a que se refiere el artículo 25, fracción XV, de la Ley de Cultura Cívica, llenará los formatos autorizados señalando las circunstancias que les consten respecto de la conducta infractora.
+
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2017)</small>
+
+###### Artículo 59 Bis 27.
+
+En el traslado de los vehículos al depósito se observarán las disposiciones establecidas en el artículo 59 Bis 1 del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2017)</small>
+
+###### Artículo 59 Bis 28.
+
+En caso de que con motivo de la realización de competencias vehiculares de velocidad en vías públicas se ocasionen daños a terceros se procederá en lo conducente, en los términos de los artículos 59 Bis a 59 Bis 25 del Capítulo Décimo Segundo del presente Título.
+
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2017)</small>
+
+###### Artículo 59 Bis 29.
+
+Si con motivo de la realización de competencias vehiculares de velocidad en vías públicas se ocasionan daños a terceros o a bienes propiedad de la Administración Pública Federal o local, los vehículos remitidos al depósito no serán liberados si no se garantiza el pago de los daños en los términos previstos en el artículo 59 Bis 21 del presente reglamento.
+
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2017)</small>
+
+###### Artículo 59 Bis 30.
+
+Si con motivo de la realización de competencias vehiculares de velocidad en vías públicas se ocasionan daños a vías o medios de comunicación o de transporte público, propiedad de la Administración Pública Local, el Juez dará vista a la autoridad ministerial para los efectos conducentes.
 
 ## TITULO TERCERO. DEL CONSEJO
 
-### Capítulo Primero. De los Juzgados
+### Capítulo Único. Del Consejo de Justicia Cívica
 
 ###### Artículo 60.
 
@@ -1170,9 +1206,7 @@ El Consejo podrá invitar, a sus sesiones, a representantes de los sectores púb
 
 ## TÍTULO CUARTO. DE LA ORGANIZACIÓN ADMINISTRATIVA
 
-### Capítulo Segundo. De la Supervisión y Vigilancia
-
-> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2008)</small>
+### Capítulo Primero. De los Juzgados
 
 ###### Artículo 61.
 
@@ -1250,9 +1284,9 @@ II. En caso que no se cuente con personal auxiliar, de inmediato vía telefónic
 
 III. En caso de ausencias temporales del Juez, el Secretario de inmediato suplirá la ausencia.
 
-### Capítulo Tercero. De los Peritos
+### Capítulo Segundo. De la Supervisión y Vigilancia
 
-> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2008)</small>
 
 ###### Artículo 67.
 
@@ -1284,7 +1318,9 @@ Cuando de la investigación realizada o de la queja que se presentare, no se des
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE JUNIO DE 2008)</small>
 
-### Capítulo Único. Del Registro de Infractores
+### Capítulo Tercero. De los Peritos
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2008)</small>
 
 ###### Artículo 69 Bis.
 
@@ -1315,6 +1351,8 @@ La Dirección determinará el área para el desarrollo de las labores de los Per
 La Secretaría deberá brindar apoyo a los Peritos para el traslado al lugar de los hechos de daño por tránsito vehicular y a los depósitos, para cumplimiento de sus labores.
 
 ## TÍTULO QUINTO. DEL REGISTRO DE INFRACTORES
+
+### Capítulo Único. Del Registro de Infractores
 
 ###### Artículo 70.
 
@@ -1385,3 +1423,11 @@ VI. Las demás contempladas en el transitorio señalado en el artículo anterior
 SEXTO. - La Dirección Ejecutiva de Justicia Cívica, una vez que haya recibido las averiguaciones previas, las remitirá a los Juzgados Cívicos de la Demarcación Territorial correspondiente para que continúe la atención a los agraviados, a través de órdenes generales que señale a través de circulares.
 
 SÉPTIMO. - Las personas que hayan sufrido daños causados culposamente con motivo del tránsito de vehículos antes de la entrada en vigor de este Decreto y de los que no se haya presentado querella ante la autoridad ministerial, podrán demandar su pago ante del (sic) Juez de Paz competente, dentro del plazo de un año contado a partir que ocurrieron los hechos, y podrán dirigirse al Juzgado Cívico de la demarcación territorial donde hayan ocurrido los hechos de tránsito.
+
+G.O. 16 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. A TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL”.]</small>
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto surtirá sus efectos al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
