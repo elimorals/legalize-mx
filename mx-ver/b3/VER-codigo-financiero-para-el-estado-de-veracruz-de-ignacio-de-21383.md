@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2016-12-30"
+last_updated: "2017-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE FEBRERO DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -368,8 +368,6 @@ Las autoridades fiscales a que se refiere este precepto ejercerán sus facultade
 > <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2011)</small>
 
 Los titulares de los órganos desconcentrados y demás servidores públicos que, por disposición de la ley o de los reglamentos aplicables, tengan el carácter de autoridades fiscales, ejercerán sus facultades dentro del ámbito de competencia territorial que les corresponda, conforme lo dispongan los ordenamientos respectivos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -741,19 +739,13 @@ Para que se haga la devolución de cantidades pagadas indebidamente o se efectú
 
 I. Que se dicte acuerdo de la Secretaría o que exista resolución firme de autoridad competente que así lo ordene;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 II. Que el derecho para reclamar la devolución no se haya extinguido;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 III. Que si se trata de ingresos correspondientes a ejercicios fiscales anteriores exista partida que reporte la erogación en el presupuesto respectivo y saldo disponible. Si no existiere dicha partida o fuere insuficiente, el Ejecutivo del Estado promoverá que se autorice el gasto en el presupuesto; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -761,39 +753,27 @@ IV. Que el contribuyente no tenga ningún adeudo determinado por la autoridad co
 
 La devolución podrá hacerse a petición del interesado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 Cuando se solicite la devolución, ésta se efectuará dentro de un plazo de cuarenta y cinco días siguientes contados a partir de la fecha en que surta efectos la resolución que declare procedente su devolución.
 
 Si dentro de dicho plazo no se efectúa la devolución, el Fisco del Estado pagará intereses a la tasa de recargos por mora que fije el Congreso en el presupuesto anual, para créditos fiscales por falta de pago puntual por cada mes o fracción de mes que se retarde el pago, computados desde que se constituya en mora hasta la fecha en que se devuelva la cantidad respectiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 Cuando en una solicitud de devolución existan errores en los datos contenidos en la misma, la autoridad requerirá al contribuyente para que mediante escrito y en un plazo de diez días aclare dichos datos, apercibiéndolo que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 Las autoridades fiscales, para verificar la procedencia de la devolución, podrán requerir al contribuyente en un plazo no mayor de veinte días posteriores a la presentación de la solicitud de devolución, datos, informes o documentos adicionales que consideren necesarios y que estén relacionados con la misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de veinte días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 Las autoridades fiscales sólo podrán efectuar un nuevo requerimiento dentro de los diez días siguientes a la fecha en la que se haya cumplido el primer requerimiento, cuando se refiera a datos, informes o documentos que hayan sido aportados por el contribuyente al atender dicho requerimiento. Para el cumplimiento del segundo requerimiento, el contribuyente contará con un plazo de diez días y le será aplicable el apercibimiento a que se refiere el párrafo anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -1507,8 +1487,6 @@ IV. Imprima formas de control fiscal, ordene la emisión de sellos o grabados, s
 
 V. Altere documentación oficial o expida una falsa en cualquier tipo de trámite del orden fiscal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 97 Bis.
@@ -1517,8 +1495,6 @@ Cometen el delito de peculado fiscal, las autoridades fiscales señaladas en el 
 
 Serán sancionados en los términos del presente artículo, el tercero, ya sea o no servidor público, que a sabiendas de la comisión del delito de peculado fiscal se apodere del producto materia del mismo, o bien los particulares que sin el consentimiento de alguna autoridad fiscal, ejerzan de hecho, atribuciones propias de las autoridades establecidas en el artículo 20 del presente Código o de los funcionarios o empleados de las Oficinas de Hacienda del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 97 Ter.
@@ -1526,8 +1502,6 @@ Serán sancionados en los términos del presente artículo, el tercero, ya sea o
 Comete el delito de abuso de autoridad en materia fiscal, el servidor público de la Hacienda Pública Estatal que por sí o por interpósita persona, utilice formatos oficiales o cualquier tipo de documentación que se halle bajo su custodia o a la cual tenga acceso o conocimiento, en virtud de su empleo, cargo o comisión, para ordenar, ejecutar, cancelar o reproducir un acto de manera ilícita o iniciar un procedimiento en beneficio propio o ajeno, o en perjuicio de los contribuyentes o de la Hacienda Pública.
 
 Al infractor se le impondrán de 6 a 12 años de prisión, multa de 30 a 300 veces el salario mínimo diario vigente en el lugar y momento de comisión del delito y destitución e inhabilitación de 6 a 12 años para desempeñar otro empleo, cargo o comisión públicos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -1543,13 +1517,9 @@ En el caso de que el delito lo cometa cualquier persona que realice las funcione
 
 ## TÍTULO PRIMERO. DE LOS IMPUESTOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO PRIMERO. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -1575,15 +1545,11 @@ Para efectos del presente artículo, se entenderá por personas morales a todas 
 
 Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior, así como los Gobiernos Federal, Estatal y Municipal, los organismos descentralizados, los desconcentrados, los autónomos y los fideicomisos de los tres órdenes de Gobierno.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 100.
 
 La base del impuesto es el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal en términos del artículo 98 de este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE OCTUBRE DE 2015)</small>
 
@@ -1591,11 +1557,7 @@ La base del impuesto es el monto total de las erogaciones realizadas por concept
 
 Este impuesto se causará, liquidará y pagará aplicando la tasa del 3% sobre la base que señala el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 20 DE OCTUBRE DE 2015)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -1622,8 +1584,6 @@ Cuando con posterioridad a la presentación de la declaración mensual de pago, 
 a) Solicitar la devolución de la cantidad pagada indebidamente.
 
 b) Compensar las cantidades que tenga a su favor contra el importe que deba enterar en el mes siguiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -1693,8 +1653,6 @@ f) Unidad agrícola industrial de la mujer campesina.
 
 g) Colonias agrícolas y ganaderas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 III. Los pagos realizados a personas físicas por la prestación de su trabajo personal independiente, por el cual se deba pagar y en su caso retener el Impuesto al Valor Agregado.
@@ -1745,79 +1703,53 @@ V. Presentar ante la autoridad fiscal la información que contenga los datos de 
 
 (DEROGADO, G.O. 30 DE DICIEMBRE DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE OCTUBRE DE 2015)</small>
 
 ### CAPÍTULO SEGUNDO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 106.
 
 (DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 107.
 
 (DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 108.
 
 (DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 109.
 
 (DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 110.
 
 (DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 111.
 
 (DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 112.
 
 (DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 113.
 
 (DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 114.
 
 (DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 115.
 
 (DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### Artículo 116.
 
 (DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 117.
 
@@ -2063,8 +1995,6 @@ Queda eximido del pago de este impuesto, cuando por el mismo concepto se cause e
 
 ### CAPÍTULO QUINTO. DEL IMPUESTO ADICIONAL PARA EL FOMENTO DE LA EDUCACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 134.
@@ -2081,21 +2011,15 @@ Este impuesto se liquidará formando parte de los impuestos y derechos sobre los
 
 El ingreso que se perciba se aplicará íntegramente al fomento de la educación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 ### CAPÍTULO SEXTO. DEL IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHÍCULOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 APARTADO I
 
 DISPOSICIONES GENERALES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2145,8 +2069,6 @@ Noviembre 0.17
 
 Diciembre 0.08
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 A. Para efectos de este Capítulo, se entiende por:
@@ -2187,13 +2109,9 @@ g) Automóviles eléctricos, vehículos híbridos, o bien, accionados por hidró
 
 IX. Comerciantes en el ramo de vehículos: a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 B. Las dependencias, las entidades, los organismos autónomos, los Municipios, los organismos descentralizados, la Federación, los Poderes Estatales o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2207,21 +2125,15 @@ III. Las autoridades competentes, que autoricen el registro de vehículos, permi
 
 Las autoridades estatales competentes solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en su territorio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 D. Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 APARTADO II
 
 AUTOMÓVILES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2269,8 +2181,6 @@ III. Tratándose de automóviles de más de diez años modelos anteriores al de 
 
 Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 F. No se pagará el impuesto en los términos de este Capítulo, por la tenencia o uso de los siguientes vehículos:
@@ -2287,27 +2197,19 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 Los tenedores o usuarios de los vehículos a que se refieren las fracciones anteriores, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría que se encuentran comprendidos en dichos supuestos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 APARTADO III
 
 OTROS VEHÍCULOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 G. Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $7,313.00 para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00, para aeronaves de reacción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 H. Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2335,8 +2237,6 @@ $ $ $ %
 
 369,693.58 En adelante 25,117.08 16.8
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 J. Tratándose de vehículos de más de diez años de fabricación anteriores al de aplicación de este Capítulo, el impuesto se pagará conforme a la siguiente:
@@ -2361,8 +2261,6 @@ Tratándose de motocicletas de más de diez años modelos anteriores al de aplic
 
 Artículo 136 K. Tratándose de automóviles eléctricos, vehículos híbridos, o bien, accionados por hidrógeno o por cualquier otra fuente de energía alternativa no contaminante nuevos, el impuesto se pagará a la tasa del 0%.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 L. No se pagará el impuesto en los términos de este Capítulo por la tenencia o uso de los siguientes vehículos:
@@ -2379,15 +2277,11 @@ V. Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransp
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 APARTADO IV
 
 VEHÍCULOS USADOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2417,8 +2311,6 @@ Años de antigüedad Factor
 
 Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos, a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 N. Tratándose de automóviles de servicio particular que posteriormente se empleen para el servicio público de transporte denominados «taxis», el impuesto sobre tenencia o uso de vehículos se calculará, para el ejercicio fiscal siguiente a aquel en el que se de esta circunstancia, conforme al siguiente procedimiento.
@@ -2426,8 +2318,6 @@ Artículo 136 N. Tratándose de automóviles de servicio particular que posterio
 I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en el artículo anterior; y
 
 II. El resultado obtenido se multiplicará por 0.245%.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2460,8 +2350,6 @@ Años de antigüedad Factor de depreciación
 b) Al resultado se le aplicará la tarifa a que hace referencia el artículo 136 E de este Capítulo.
 
 Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2515,8 +2403,6 @@ b) Al resultado se le aplicará la tasa a que hace referencia el artículo 136 H
 
 Para los efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 P. Tratándose de motocicletas de fabricación nacional o importadas de hasta nueve años modelos anteriores al de aplicación de este Capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
@@ -2549,23 +2435,17 @@ A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa 
 
 Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 APARTADO V
 
 Obligaciones
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 Q. Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, tendrán la obligación de proporcionar a la Secretaría, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el Estado en el mes inmediato anterior, a través de los formatos que se expidan para tales efectos.
 
 Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este artículo, haciendo la separación por cada uno de los establecimientos y por cada municipio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -3897,6 +3777,18 @@ c) Los ingresos producto de la prestación de servicios públicos que administre
 
 En los casos señalados en las fracciones anteriores, quien realice la recaudación deberá informar a la Secretaría mensualmente el monto de lo recaudado, para que ésta, a su vez, lo reporte en la cuenta pública. Asimismo, quien recaude observará las normas relativas a tesorería, contabilidad y control que en este Código, en la Ley de Contabilidad y demás disposiciones se establezcan y le sean aplicables.
 
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2017)</small>
+
+###### Artículo 230 Bis.
+
+Los ingresos obtenidos por concepto de concesiones de tiendas para la venta de alimentos, dentro de los espacios físicos de los planteles educativos del sistema público en el Estado, se destinarán al mantenimiento y conservación de la infraestructura física de los mismos y servicios correlacionados, así como para las consecuentes tareas de supervisión educativa y apoyo a la gestión docente.
+
+Para estos efectos, el ochenta por ciento de los recursos obtenidos se aplicará al mantenimiento y conservación de la infraestructura física de los planteles educativos públicos y servicios correlacionados, que serán recibidos y administrados por las autoridades administrativas de cada plantel educativo. El veinte por ciento de los recursos restantes se aplicará a las tareas de supervisión educativa y apoyo a la gestión docente en los sectores y zonas de las modalidades educativas públicas mencionadas, que serán recibidos y administrados por las respectivas jefaturas de sector, inspecciones y jefaturas de enseñanza correspondientes.
+
+La recepción, administración, distribución y comprobación de los recursos se sujetará, invariablemente, a las disposiciones aplicables en materia de ejercicio del gasto público y transparencia financiera, así como a la contabilidad gubernamental y a la revisión y fiscalización de la cuenta pública.
+
+Los procedimientos de Licitación Pública que se desahoguen para el otorgamiento de las concesiones y los contratos respectivos se ajustarán a lo dispuesto por la Ley de la Materia y demás disposiciones aplicables.
+
 ###### Artículo 231.
 
 El servicio de recaudación y concentración de fondos podrá efectuarse por conducto de las instituciones bancarias o de terceros que autorice la Secretaría.
@@ -5075,8 +4967,6 @@ Las afectaciones a estos ingresos deberán estar debidamente inscritas en el Reg
 
 El Estado, por conducto del Gobernador, a través de la Secretaría y previa autorización del Congreso, podrá afectar los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos, y sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal que no tenga un fin específico como fuente o garantía de pago, o ambas, sobre las obligaciones que contraiga por si, incluyendo las que deriven de la celebración de los contratos de prestación de servicios a que se refiere la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, o a través de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, incluyendo los valores emitidos de conformidad con lo establecido en este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 Tratándose específicamente de los ingresos derivados de la recaudación del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, su afectación como fuente o garantía de pago, o ambas, sobre obligaciones contraídas en términos de este Código, sólo será procedente cuando los recursos netos derivados de los financiamientos se manejen y destinen en los términos que establece el artículo 105 de este Código.
@@ -5520,3 +5410,19 @@ G.O. 30 DE DICIEMBRE DE 2016.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 16 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 237 QUE ADICIONA UN ARTÍCULO AL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del Gobierno del estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+Tercero. Se concede a las autoridades educativas del Poder Ejecutivo un período de treinta días naturales, a partir del inicio de vigencia del presente Decreto, para que actualicen sus disposiciones reglamentarias a lo dispuesto por el mismo, y para que enteren dichos conceptos, en la proporción que corresponda, a las instituciones, sectores y zonas educativas que actualmente participan en la obtención y ejercicio de los recursos provenientes de los ingresados por concepto de concesiones de tiendas para la venta de alimentos, dentro de los espacios físicos de los planteles educativos del sistema público en el Estado, destinados al mantenimiento y conservación de su infraestructura física y servicios correlacionados, así como para las tareas de supervisión educativa y apoyo a la gestión docente en los mismos.
+
+Cuarto. Bajo ninguna circunstancia, los recursos que se obtengan por los conceptos previstos en el presente Decreto, se considerarán como sustitutivos de la obligación de las autoridades financieras o educativas competentes de presupuestar y aplicar los recursos que el Congreso autorice para las tareas de mantenimiento y de supervisión escolares en los planteles educativos públicos en el Estado.
+
+Quinto. Para la recepción, administración, distribución y comprobación del ochenta por ciento de los recursos que previene el presente Decreto, funcionarán consejos de administración integrados por los titulares de la dirección, subdirección y contraloría de cada plantel educativo.
+
+Asimismo, para la recepción, administración, distribución y comprobación del veinte por ciento de los recursos que previene el presente Decreto, funcionarán consejos de administración integrados por los titulares de las jefaturas de sector, inspecciones y jefaturas de enseñanza, según corresponda.
