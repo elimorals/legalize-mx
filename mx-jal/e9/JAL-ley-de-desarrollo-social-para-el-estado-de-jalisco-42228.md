@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2016-10-11"
+last_updated: "2017-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -901,13 +901,17 @@ II. Realizar consultas públicas periódicas para verificar la calidad de los se
 
 III. Establecer programas tendientes a incentivar la participación ciudadana en la Política Estatal de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
 
-IV. Incluir en las reglas de operación que se emitan para cada programa de desarrollo social, la obligación de conformar contralorías sociales en las que participen los ejecutores de los programas y beneficiarios de los mismos, cuyos cargos no serán remunerados, para efectos de retroalimentación y compartir las acciones y resultados alcanzados, así como emitir propuestas orientadas a mejorar los programas; y
+IV. Incluir en las reglas de operación que se emitan para cada programa de desarrollo social, la obligación de conformar contralorías sociales en las que participen los ejecutores de los programas y beneficiarios de los mismos, cuyos cargos no serán remunerados, para efectos de retroalimentación y compartir las acciones y resultados alcanzados, así como emitir propuestas orientadas a mejorar los programas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
 
-V. Lo demás que considere necesario para la promoción de la participación ciudadana.
+V. Proponer y coordinar los lineamientos y políticas de capacitación y asistencia técnica para las Contralorías Sociales a efecto de mejorar el desarrollo de la participación y en el desempeño de las tareas de control y vigilancia; y
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2017)</small>
+
+VI. Los demás que considere necesarios para la promoción de la participación ciudadana.
 
 ###### Artículo 53.
 
@@ -1112,3 +1116,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 PRIMERO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Dentro de los 180 días siguientes a la entrada en vigor del presente decreto, el Ejecutivo Local, a través de la Secretaría de Desarrollo e Integración Social deberá presentar y publicar un diagnóstico sobre todos los programas en beneficio de la mujer en el medio rural, así como la propuesta de diseño del programa a que hace referencia el presente decreto.
+
+P.O. 16 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26265/LXI/17 QUE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial ''El Estado de Jalisco".
