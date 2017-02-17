@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2017-02-03"
+last_updated: "2017-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2017 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 17 DE FEBRERO DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -3983,6 +3983,8 @@ Una vez publicada la tabla de subsidios y sus bases, será obligatorio otorgar d
 
 Así mismo, de conformidad con lo establecido en el Artículo 100, fracción IX de la Ley de Gobierno Municipal del Estado de Nuevo León, los Tesoreros Municipales deberán de incluir en el Informe de Avance de Gestión Financiera los subsidios otorgados.
 
-Durante el ejercicio fiscal 2017 en los Municipios donde se haya aprobado una actualización de los valores unitarios de suelo o construcción en los usos de suelo de casa habitación, el impuesto podrá pagarse por anualidad anticipada a más tardar el día 5° del mes de Junio, sin recargos. En el caso de que se pague a más tardar el día 5° del mes de Abril, gozará de una reducción del 15% de dicha anualidad y si lo cubre a más tardar el día 5° del mes de Mayo, gozará de una reducción del 10% de la misma.
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2017)</small>
+
+Durante el ejercicio fiscal 2017 en los Municipios donde se haya aprobado una actualización de los valores unitarios de suelo o construcción en los usos de suelo de casa habitación, cuya vigencia inició el 1 de enero de 2017, el impuesto podrá pagarse por anualidad anticipada a más tardar el día 5° del mes de Junio, sin recargos. En el caso de que se pague a más tardar el día 5° del mes de Abril, gozará de una reducción del 15% de dicha anualidad y si lo cubre a más tardar el día 5° del mes de Mayo, gozará de una reducción del 10% de la misma.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
