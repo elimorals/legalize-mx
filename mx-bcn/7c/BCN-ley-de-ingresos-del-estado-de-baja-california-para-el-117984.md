@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-117984"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-31"
-last_updated: "2017-01-19"
+last_updated: "2017-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2017
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2017 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2017
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE FEBRERO DE 2017.]</small>
 
 Ley publicada en la Sección I al Número 59 del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 2016.
 
@@ -155,7 +155,7 @@ GENERALIDADES.
 
 Los ingresos que la Hacienda Pública del Estado percibirá durante el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre del año dos mil diecisiete, serán los provenientes de los conceptos y en los importes estimados que a continuación se enumeran:
 
-> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN I DEL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINAS DE LA 7 A LA 17.]</small>
+> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN I DEL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINAS DE LA 7 A LA 17 Y F. DE E., P.O. 17 DE FEBRERO DE 2017, PÁGINAS DE LA 3 A LA 4.]</small>
 
 ## TÍTULO SEGUNDO
 
