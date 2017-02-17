@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg928-2015-del-consejo-general-del-instituto-114647
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-05-18"
-last_updated: "2016-09-13"
+last_updated: "2017-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114647&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-10-30"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE, EN EJERCICIO DE LA FACULTAD DE ATRACCIÓN, SE EMITEN LOS "LINEAMIENTOS QUE DEBERÁN OBSERVAR LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES RESPECTO DE LA SOLICITUD DEL REGISTRO DE LOS CONVENIOS DE COALICIÓN PARA LOS PROCESOS ELECTORALES LOCALES"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2016 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE FEBRERO DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 18 de mayo de 2016.
 
@@ -61,11 +61,13 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 
 > <small>[N. DE E. VÉASE ANEXO ÚNICO LINEAMIENTOS QUE DEBERÁN OBSERVAR LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES RESPECTO DE LA SOLICITUD DEL REGISTRO DE LOS CONVENIOS DE COALICIÓN PARA LOS PROCESOS ELECTORALES LOCALES EN LA PRIMERA SECCIÓN DEL D.O.F. 18 DE MAYO DE 2016, PÁGINAS 98 A 100.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO ÚNICO LINEAMIENTOS QUE DEBERÁN OBSERVAR LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES RESPECTO DE LA SOLICITUD DEL REGISTRO DE LOS CONVENIOS DE COALICIÓN PARA LOS PROCESOS ELECTORALES LOCALES, EN LA SECCIÓN SEGUNDA DEL D.O.F. DE 17 DE FEBRERO DE 2017, PÁGINA 3.]</small>
+
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 13 DE SEPTIEMBRE DE 2016.
 
-> <small>[N. DE E. PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL".]</small>
+> <small>[N. DE E. PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL”.]</small>
 
 Primero. Se aprueba el Reglamento de Elecciones y sus anexos en los términos que se presenta.
 
@@ -149,7 +151,7 @@ Sexto. El Reglamento y sus anexos entrarán en vigor a partir de su aprobación 
 
 Séptimo. Notifíquese de inmediato a los organismos públicos locales y a los demás sujetos obligados a través de la página de Internet de este órgano administrativo.
 
-> <small>[N. DE E. SE TRANSCRIBEN LOS TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL".]</small>
+> <small>[N. DE E. SE TRANSCRIBEN LOS TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL”.]</small>
 
 PRIMERO. El presente Reglamento entrará en vigor a partir de su aprobación por el Consejo General.
 
@@ -178,3 +180,19 @@ DÉCIMO SEGUNDO. A más tardar en el mes de octubre de 2016, la Comisión de Org
 DÉCIMO TERCERO. A más tardar el treinta y uno de agosto de 2017, la Comisión de Organización Electoral, a propuesta de la Dirección Ejecutiva de Organización Electoral, deberá presentar al Consejo General para su aprobación, los lineamientos generales a través de los cuales se regule el desarrollo de sesiones especiales de cómputo correspondientes a las elecciones federales. En la señalada temporalidad, todos los Organismos Públicos Locales en cuyas entidades federativas se celebren elecciones en 2018, deberán emitir o ajustar, según corresponda, los lineamientos a través de los cuales se regule el desarrollo de las sesiones especiales de cómputo de sus elecciones.
 
 DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al inicio de vigencia de este Reglamento, por las distintas áreas y direcciones del Instituto y de los Organismos Públicos Locales, en el ámbito de sus competencias, así como aquéllas cuya ejecución se contemple antes del inicio de los procesos electorales locales 2016-2017, deberán ajustarse, en lo conducente, a las reglas y disposiciones previstas en este Reglamento.
+
+D.O.F. 17 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE EN ACATAMIENTO A LA SENTENCIA EMITIDA POR LA H. SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL RECURSO DE APELACIÓN IDENTIFICADO CON EL NÚMERO DE EXPEDIENTE SUP-RAP-102/2016, SE MODIFICAN LOS “LINEAMIENTOS QUE DEBERÁN OBSERVAR LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES RESPECTO DE LA SOLICITUD DEL REGISTRO DE LOS CONVENIOS DE COALICIÓN PARA LOS PROCESOS ELECTORALES LOCALES”".]</small>
+
+PRIMERO.- En acatamiento a la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, en el expediente SUP-RAP-102/2016, se modifica el Lineamiento 1 de los “Lineamientos que deberán observar los Organismos Públicos Locales Electorales respecto de la solicitud del registro de los Convenios de Coalición para los Procesos Electorales Locales” mismos que se integran como ANEXO ÚNICO al presente Acuerdo.
+
+SEGUNDO.- Infórmese a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación sobre el cumplimiento dado a la sentencia dictada en el expediente SUP-RAP-102/2016.
+
+TERCERO.- Los Organismos Públicos Locales Electorales deberán conducir las consultas, que con motivo del presente instrumento, le sean presentadas por los partidos políticos a la Comisión de Vinculación con Organismos Públicos Locales Electorales, quien las desahogará o, en su caso, las remitirá a la instancia competente para que proceda a su desahogo en los términos que marca la normatividad aplicable.
+
+CUARTO.- El presente Acuerdo entrará en vigor al momento de su aprobación.
+
+QUINTO.- Notifíquese el presente Acuerdo a los Organismos Públicos Locales, por conducto de la Unidad Técnica de Vinculación con los Organismos Públicos Locales.
+
+SEXTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
