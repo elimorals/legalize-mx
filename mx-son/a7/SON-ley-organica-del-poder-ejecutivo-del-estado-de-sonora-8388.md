@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2016-09-29"
+last_updated: "2017-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JULIO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 29 DE SEPTIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE FEBRERO DE 2017.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -75,7 +73,7 @@ I. Secretaría Particular;
 
 II. La Oficina del Ejecutivo del Estado;
 
-III. Secretaría Técnica del Ejecutivo; y
+III. (DEROGADA, B.O. 17 DE FEBRERO DE 2017)
 
 IV. Coordinación Ejecutiva de Administración;
 
@@ -107,9 +105,9 @@ IX. Establecer los mecanismos de control, para garantizar la asistencia oportuna
 
 X. Diseñar e instrumentar, en conjunto con la Secretaría de Gobierno, el protocolo que deberá observar durante los actos, eventos y giras de trabajo el Titular del Ejecutivo del Estado;
 
-XI. Solicitar a las instancias correspondientes el personal calificado y necesario responsable de la seguridad del Titular del Ejecutivo del Estado y coordinar a los mismos;
+XI. (DEROGADA, B.O. 17 DE FEBRERO DE 2017)
 
-XII. Planear, dirigir y controlar a los elementos y los mecanismos de seguridad y/o ayudantía que habrán de instrumentarse para garantizar la seguridad del Titular del Ejecutivo del Estado de manera cotidiana y particularmente en las giras y eventos de trabajo;
+XII. (DEROGADA, B.O. 17 DE FEBRERO DE 2017)
 
 XIII. Someter a consideración del Titular del Ejecutivo del Estado, las propuestas de funcionarios que lo representarán en actos o eventos, y comunicar las designaciones respectivas;
 
@@ -125,7 +123,7 @@ XVII. Las demás que le señalen las disposiciones legales aplicables y las que 
 
 ARTICULO 4 BIS 1.- La Secretaría Particular para el cumplimiento de sus facultades estará integrada por las áreas siguientes:
 
-I. Coordinación General de Ayudantía, Logística y Seguridad;
+I. (DEROGADA, B.O. 17 DE FEBRERO DE 2017)
 
 II. Dirección General de Agenda y Programación Ejecutiva;
 
@@ -193,69 +191,9 @@ Además de las áreas descritas contará con las unidades y personal que se dete
 
 Para el debido cumplimiento de las facultades encomendadas la Oficina del Ejecutivo podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+ARTICULO 4 BIS 4.- (DEROGADO, B.O. 17 DE FEBRERO DE 2017)
 
-ARTICULO 4 BIS 4.- La Secretaría Técnica del Ejecutivo será la responsable de desarrollar los estudios y proyectos estratégicos, de la atención ciudadana y de la comunicación gubernamental, para lo anterior tendrá las facultades siguientes:
-
-I. Dar seguimiento a indicadores relevantes de temas de carácter económico, social y político que se le encomienden y formular los estudios y análisis correspondientes;
-
-II. Realizar los análisis, estudios e investigación que le permitan diseñar proyectos estratégicos sobre creación o mejoras de planes y programas de políticas públicas a implementar por el Titular del Ejecutivo del Estado;
-
-III. Efectuar los estudios y análisis sobre situaciones de orden económico, social y político en la entidad;
-
-IV. Atender de manera personalizada a la ciudadanía que acude a las oficinas del Titular del Ejecutivo del Estado para solicitar algún apoyo, atención o manifestar alguna queja o sugerencia;
-
-V. Atender y dar seguimiento hasta su conclusión a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa al Titular del Ejecutivo del Estado en las diferentes ramas de la administración pública, que le sean turnados para su atención;
-
-VI. Coordinar el registro, análisis, clasificación y gestión de la documentación recibida en giras de trabajo, oficialía de partes, medios de comunicación, redes sociales, correo electrónico, vía telefónica, programas radiofónicos y televisivos y Presidencia de la República, entre otros, para su canalización a las instancias correspondientes;
-
-VII. Establecer los procedimientos de atención a las demandas ciudadanas;
-
-VIII. Registrar y controlar la documentación soporte mediante un sistema automatizado de Control de Gestión, así como elaborar reportes estadísticos que permitan evaluar el seguimiento de las peticiones por área de atención;
-
-IX. Programar y coordinar la audiencia pública que atenderá el Titular del Ejecutivo, conjuntamente con los titulares de las dependencias y entidades paraestatales del Estado;
-
-X. Elaborar con base a los registros de peticiones que reciba, reportes estadísticos que permitan evaluar el seguimiento de las peticiones por área de atención;
-
-XI. Presentar al Titular del Ejecutivo del Estado proyectos de planes y programas que deban desarrollar las dependencias de la administración pública estatal que le permitan atender las peticiones ciudadanas;
-
-XII. Establecer las políticas y estrategias de comunicación gubernamental que permitan captar las demandas y necesidades de la sociedad;
-
-XIII. Autorizar las normas y políticas sobre la imagen institucional del Gobierno del Estado;
-
-XIV. Autorizar las publicaciones y materiales promocionales para la difusión de las acciones gubernamentales;
-
-XV. Establecer normas, lineamientos y programas para promover la realización de campañas de comunicación gubernamental;
-
-XVI. Promover la coordinación y colaboración del Poder Ejecutivo Estatal con los medios de comunicación;
-
-XVII. Coordinar con el apoyo de las dependencias y entidades paraestatales de la Administración Pública Estatal, la realización de programas o campañas específicas de comunicación gubernamental;
-
-XVIII. Coordinar y dirigir el sistema de medios de comunicación propiedad del Gobierno del Estado, en específico Televisora de Hermosillo, S.A. de C.V. (Telemax) y Radio Sonora;
-
-XIX. Realizar las tareas inherentes al monitoreo a medios de comunicación en general;
-
-XX. Programar la contratación de los medios de comunicación para el desarrollo de campañas de difusión del Titular del Ejecutivo del Estado, así como de las dependencias, entidades paraestatales y fideicomisos de la administración pública del Estado;
-
-XXI. Preparar el diseño gráfico de la imagen institucional, de las publicaciones y materiales promocionales de las actividades de la administración pública del Estado; y
-
-XXII. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular del Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
-
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
-
-ARTICULO 4 BIS 5.- La Secretaría Técnica del Ejecutivo para el cumplimiento de sus facultades estará integrada por las áreas siguientes:
-
-I. Coordinación Ejecutiva de Comunicación Gubernamental;
-
-II. Coordinación de Atención Ciudadana; y
-
-III. Director General de Estudios y Proyectos Estratégicos.
-
-Además de las áreas descritas contará con las unidades y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
-
-> <small>(REFORMADO, B.O. 4 DE JULIO DE 2016)</small>
-
-Para el debido cumplimiento de las funciones encomendadas la Secretaría Técnica del Ejecutivo podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
+ARTICULO 4 BIS 5.- (DEROGADO, B.O. 17 DE FEBRERO DE 2017)
 
 > <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
@@ -483,7 +421,9 @@ X.- Secretaría del Trabajo;
 
 XI.- Secretaría de Seguridad Pública;
 
-XII.- (DEROGADA, B.O. 4 DE JULIO DE 2016); y
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 17 DE FEBRERO DE 2017)</small>
+
+XII.- Secretaría Técnica y de Atención Ciudadana; y
 
 > <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
@@ -652,6 +592,66 @@ Las atribuciones y funciones Subsecretarías y demás áreas que integren la Con
 > <small>(REFORMADO, B.O. 4 DE JULIO DE 2016)</small>
 
 La Secretaría de la Consejería Jurídica, para el debido cumplimiento de sus funciones, podrá contratar prestadores externos de servicios, dicha prestación se contratará y regulará conforme a las disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+ARTICULO 23 BIS 2.- La Secretaría Técnica y de Atención Ciudadana será la responsable de desarrollar los estudios y proyectos estratégicos, de la atención ciudadana y de la comunicación gubernamental, para lo anterior tendrá las facultades siguientes:
+
+I. Dar seguimiento a indicadores relevantes de temas de carácter económico, social y político que se le encomienden y formular los estudios y análisis correspondientes;
+
+II. Realizar los análisis, estudios e investigación que le permitan diseñar proyectos estratégicos sobre creación o mejoras de planes y programas de políticas públicas a implementar por el Titular del Ejecutivo del Estado;
+
+III. Efectuar los estudios y análisis sobre situaciones de orden económico, social y político en la entidad;
+
+IV. Atender de manera personalizada a la ciudadanía que acude a las oficinas del Titular del Ejecutivo del Estado para solicitar algún apoyo, atención o manifestar alguna queja o sugerencia;
+
+V. Atender y dar seguimiento hasta su conclusión a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa al Titular del Ejecutivo del Estado en las diferentes ramas de la administración pública, que le sean turnados para su atención;
+
+VI. Coordinar el registro, análisis, clasificación y gestión de la documentación recibida en giras de trabajo, oficialía de partes, medios de comunicación, redes sociales, correo electrónico, vía telefónica, programas radiofónicos y televisivos y Presidencia de la República, entre otros, para su canalización a las instancias correspondientes;
+
+VII. Establecer los procedimientos de atención a las demandas ciudadanas;
+
+VIII. Registrar y controlar la documentación soporte mediante un sistema automatizado de Control de Gestión, así como elaborar reportes estadísticos que permitan evaluar el seguimiento de las peticiones por área de atención;
+
+IX. Programar y coordinar la audiencia pública que atenderá el Titular del Ejecutivo, conjuntamente con los titulares de las dependencias y entidades paraestatales del Estado;
+
+X. Elaborar con base a los registros de peticiones que reciba, reportes estadísticos que permitan evaluar el seguimiento de las peticiones por área de atención;
+
+XI. Presentar al Titular del Ejecutivo del Estado proyectos de planes y programas que deban desarrollar las dependencias de la administración pública estatal que le permitan atender las peticiones ciudadanas;
+
+XII. Establecer las políticas y estrategias de comunicación gubernamental que permitan captar las demandas y necesidades de la sociedad;
+
+XIII. Autorizar las normas y políticas sobre la imagen institucional del Gobierno del Estado;
+
+XIV. Autorizar las publicaciones y materiales promocionales para la difusión de las acciones gubernamentales;
+
+XV. Establecer normas, lineamientos y programas para promover la realización de campañas de comunicación gubernamental;
+
+XVI. Promover la coordinación y colaboración del Poder Ejecutivo Estatal con los medios de comunicación;
+
+XVII. Coordinar con el apoyo de las dependencias y entidades paraestatales de la Administración Pública Estatal, la realización de programas o campañas específicas de comunicación gubernamental;
+
+XVIII. Coordinar y dirigir el sistema de medios de comunicación propiedad del Gobierno del Estado, en específico Televisora de Hermosillo, S.A. de C.V. (Telemax) y Radio Sonora;
+
+XIX. Realizar las tareas inherentes al monitoreo a medios de comunicación en general;
+
+XX. Programar la contratación de los medios de comunicación para el desarrollo de campañas de difusión del Titular del Ejecutivo del Estado, así como de las dependencias, entidades paraestatales y fideicomisos de la administración pública del Estado;
+
+XXI. Preparar el diseño gráfico de la imagen institucional, de las publicaciones y materiales promocionales de las actividades de la administración pública del Estado; y
+
+XXII. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular del Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 17 DE FEBRERO DE 2017)</small>
+
+ARTICULO 23 BIS 3.- La Secretaría Técnica y de Atención Ciudadana, para el cumplimiento de sus facultades, estará integrada por las Unidades Administrativas siguientes:
+
+l. Coordinación General de Comunicación Social;
+
+II. Dirección General de Atención Ciudadana; y
+
+III. Dirección General de Estudios y Proyectos Estratégicos.
+
+Además de las Unidades Administrativas descritas anteriormente, contará con las direcciones y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -1421,9 +1421,21 @@ XIX.- Colaborar en el marco del Sistema Nacional de Seguridad Pública, cuando a
 
 XX.- Organizar el Sistema Estatal de Información de Seguridad Pública. En lo correspondiente a los diversos registros relacionados con las instituciones de seguridad pública municipal, se coordinará con los Ayuntamientos respectivos;
 
-XXI.- Informar sobre sus actividades al Consejo Estatal de Seguridad Pública, conforme a la periodicidad que establezca la normatividad aplicable; y
+> <small>(REFORMADA, B.O. 17 DE FEBRERO DE 2017)</small>
 
-XXII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXI.- Informar sobre sus actividades al Consejo Estatal de Seguridad Pública, conforme a la periodicidad que establezca la normatividad aplicable;
+
+> <small>(REFORMADA, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XXII.- Planear, dirigir y controlar a los elementos y los mecanismos de seguridad y/o ayudantía que habrán de instrumentarse para garantizar la integridad física del Titular del Ejecutivo del Estado de manera cotidiana y particularmente en las giras y eventos de trabajo;
+
+> <small>(ADICIONADA, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XXIII.- Proporcionar al personal calificado y necesario para garantizar la seguridad e integridad física del Titular del Poder Ejecutivo del Estado; y
+
+> <small>(ADICIONADA, B.O. 17 DE FEBRERO DE 2017)</small>
+
+XXIV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -2392,3 +2404,27 @@ Artículo Tercero.- Las atribuciones previstas en la Ley Orgánica del Poder Eje
 Los artículos 3o, párrafo segundo, 7, párrafo primero y 21, que se reforman mediante el presente Decreto, entrarán en vigor hasta que sea publicada en el Boletín Oficial del Gobierno del Estado, la Ley número 96, que reforma y adiciona diversas disposiciones de la Constitución Política del Estado de Sonora, relacionada al Sistema Estatal Anticorrupción.
 
 Artículo Cuarto.- Se deroga cualquier disposición que contravenga lo emitido en el presente Decreto.
+
+B.O. 17 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 112, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles, y financieros de la Secretaría Técnica del Ejecutivo pasan a formar parte de la recién creada Secretaría Técnica y de Atención Ciudadana, sin incremento de personal o recursos por esta transferencia de Unidad a Secretaría, y sujeta a la observancia estricta de las Normas de Austeridad para la Administración y Ejercicio de los Recursos publicado en el Boletín Oficial el 2 de enero del presente año. Cuando existan las disposiciones presupuestales favorables al Estado y siempre que no se contravengan los criterios de austeridad previstos en la normatividad vigente, a efecto de requisitar los criterios de Contraloría del Estado en la integración de su estructura, la Secretaría Técnica y de Atención Ciudadana convertirá a las actuales Coordinación General y direcciones generales en subsecretarías.
+
+###### ARTÍCULO TERCERO.
+
+Todos los recursos humanos, materiales, incluidos todo tipo de bienes muebles o inmuebles, y financieros de la Coordinación General de Ayudantía y Logística pasan a formar parte de la Secretaría de Seguridad Pública y esta dependencia deberá dotar todos los insumos y requerimientos necesarios de carácter financiero, técnico, equipamiento o cualquier otro que le requiera dicha Coordinación para garantizar la seguridad del Titular del Poder Ejecutivo del Estado.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría Técnica y de Atención Ciudadana tendrá un plazo improrrogable de ciento ochenta días naturales para redactar y publicar el Reglamento Interior de dicha dependencia.
+
+###### ARTÍCULO QUINTO.
+
+Toda disposición jurídica que faculte o atribuya funciones a la Secretaría Técnica del Ejecutivo se entenderá conferida a la Secretaría Técnica y de Atención Ciudadana.
