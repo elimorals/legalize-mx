@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2016-12-21"
+last_updated: "2017-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -53,11 +53,13 @@ El Poder Legislativo del Estado de Quintana Roo se deposita en una Cámara de Di
 
 El ejercicio de las funciones de los Diputados durante su gestión constitucional constituye una Legislatura, que se identificará con el número ordinal que corresponda.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 3.
 
-El Congreso del Estado tendrá su residencia en la ciudad de Chetumal, capital del Estado y celebrará sus sesiones en el Recinto Oficial de la sede del Palacio Legislativo, pero la Legislatura podrá designar Recinto Oficial distinto para celebrar sesiones que por su carácter y en forma excepcional, requieran realizarse transitoriamente en otro lugar.
+El Congreso del Estado tendrá su residencia en la Ciudad de Chetumal, Capital del Estado y celebrará sus sesiones en el Recinto Oficial de la sede del Palacio Legislativo.
+
+La Legislatura podrá designar Recinto Oficial distinto para celebrar sesiones que por su carácter y en forma excepcional requieran realizarse transitoriamente en otro lugar, acordando preferentemente llevar a cabo las sesiones en lugares públicos y abiertos.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -97,7 +99,9 @@ a) El Secretario de la Diputación Permanente dará lectura a la lista de los Di
 
 b) El Presidente pedirá a los diputados electos que se encuentren presentes, que organizados por fracción parlamentaria o en su caso como diputado independiente, presenten su propuesta con la fórmula de Presidente, Vicepresidente y Un Secretario para la integración de la Comisión Instaladora.
 
-El Presidente instruirá al Secretario de la Diputación Permanente para que proceda a dar lectura a las propuestas presentadas y las someta a consideración de los Diputados electos que se encuentren presentes, para que de viva voz, en votación nominal y por mayoría simple de votos, procedan a elegir a la Comisión Instaladora de la Legislatura.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
+El Presidente instruirá al Secretario de la Diputación Permanente para que proceda a dar lectura a las propuestas presentadas y las someta a consideración de los Diputados electos que se encuentren presentes, para que en votación nominal y por mayoría simple de votos, procedan a elegir a la Comisión Instaladora de la Legislatura.
 
 c) Integrada la Comisión Instaladora, la Diputación Permanente se retirará del Recinto Oficial y la Comisión electa pasará a ocupar su lugar, a fin de que se proceda a la instalación de la Legislatura.
 
@@ -117,7 +121,9 @@ f) Inmediatamente después de la protesta de los Diputados, el Presidente de la 
 
 Instalada la Legislatura, los diputados electos que se encuentren presentes, que organizados por fracción parlamentaria o en su caso como diputado independiente, presenten su propuesta con la fórmula de integración de la Mesa Directiva, para Presidente y Vicepresidente del Primer Mes del Primer Período Ordinario de Sesiones del Primer Año de Ejercicio Constitucional, y del Secretario y Pro-Secretario para el Primer Ejercicio anual de la Legislatura.
 
-El Presidente instruirá al Secretario de la Comisión Instaladora, para que someta a consideración del Pleno las propuestas presentadas, y tome la votación nominal de viva voz de los diputados presentes.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
+El Presidente instruirá al Secretario de la Comisión Instaladora, para que someta a consideración del Pleno las propuestas presentadas, y tome la votación nominal de los diputados presentes.
 
 Posteriormente, el Secretario dará a conocer la fórmula que obtuvo la mayoría de votos, con lo que concluirá la sesión de instalación.
 
@@ -135,15 +141,17 @@ En todo caso, cada uno de los Diputados a que se refiere el párrafo anterior, e
 
 ### CAPITULO I. DE LOS PERIODOS DE SESIONES Y DE RECESOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 10.
 
-La Legislatura se reunirá a partir del 5 de septiembre de cada año, para celebrar un primer período de sesiones ordinarias, y a partir del 15 de febrero de cada año para celebrar un segundo período de sesiones ordinarias.
+La Legislatura se reunirá a partir del 5 de septiembre de cada año, para celebrar un Primer Período de Sesiones Ordinarias, y a partir del 15 de febrero de cada año para celebrar un Segundo Período de Sesiones Ordinarias.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+Durante los Periodos Ordinarios de la Legislatura, el Pleno celebrará sesiones cada semana cuando menos los días lunes y miércoles. A consideración de la Presidencia de la Mesa Directiva en funciones podrá efectuar sesiones adicionales de forma semanal cuando la carga de trabajo así lo requiera. El Presidente de la Mesa Directiva en funciones, por sí o a iniciativa de un diputado con aprobación de la mayoría, podrá modificar el día y hora señalados.
 
-En estos períodos la Legislatura se ocupará del estudio, discusión y votación de las iniciativas de ley o de decreto que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a la Constitución Política del Estado y la presente Ley.
+La duración de las sesiones será de hasta cuatro horas, si trascurrido dicho término no se han agotado los asuntos para los cuales fue convocada, se continuará con el desarrollo de la misma. Únicamente, a petición expresa de algún diputado y con aprobación de la Legislatura podrá diferirse la sesión para el día y hora acordado.
+
+En estos períodos la Legislatura se ocupará del estudio, discusión y votación de las Iniciativas de Ley o de Decreto que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a la Constitución Política del Estado y la presente Ley.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2010)</small>
 
@@ -163,11 +171,13 @@ Durante los recesos fungirá la Diputación Permanente que al efecto elija la Le
 
 En los períodos de sesiones extraordinarias, el Congreso solamente tratará los asuntos para los que fue convocado, debiendo reunirse la Diputación Permanente para Tratar los asuntos relativos, a su competencia.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 15.
 
-La Legislatura sesionará con la concurrencia de más de la mitad de sus integrantes.
+Las sesiones de la Legislatura serán públicas, debiendo contar con la concurrencia de más de la mitad de sus integrantes, salvo que se requiera desahogar asuntos que por su naturaleza no pueden ser de inmediato conocimiento público, para lo cual dicha determinación deberá ser aprobada por la Legislatura.
+
+Cuando las sesiones sean públicas serán transmitidas en la página oficial de internet del Poder Legislativo del Estado de Quintana Roo.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -315,11 +325,13 @@ El Presidente y el Vicepresidente estarán en funciones durante un mes y no podr
 
 El Secretario y el Pro-Secretario se elegirán para el ejercicio anual, en la misma sesión en que sea electa la Mesa Directiva del Primer Mes del Primer Período Ordinario de cada ejercicio anual.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 19.
 
-Diez días antes de la apertura de cada período de sesiones ordinarias, con excepción de lo previsto en el Artículo 8 de la presente Ley, los Diputados elegirán en sesión previa, para el primer mes del primer período, al Presidente, al Vicepresidente, al Secretario y al Pro-secretario, y para el primer mes del segundo período, únicamente al Presidente y Vicepresidente.
+Dentro de los diez días anteriores a la apertura de cada período de sesiones ordinarias, los Diputados elegirán en sesión previa, para el primer mes del primer período, al Presidente, al Vicepresidente, al Secretario y al Pro-secretario, y para el primer mes del segundo período, únicamente al Presidente y Vicepresidente.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 En la última sesión de cada primer o segundo mes, la Legislatura elegirá para el siguiente mes, al Presidente y al Vicepresidente, quienes asumirán sus cargos en la sesión siguiente a aquélla en que hubieren sido electos.
 
@@ -327,9 +339,9 @@ En la última sesión de cada primer o segundo mes, la Legislatura elegirá para
 
 Para estos efectos, los diputados organizados por fracción parlamentaria o en su caso como diputado independiente, presentarán al presidente de la Mesa Directiva, su propuesta con la fórmula de Presidente y Vicepresidente.
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
-El Presidente instruirá al Secretario de la Mesa Directiva, para que proceda a dar lectura a las propuestas presentadas y las someta a consideración de los diputados que se encuentren presentes, para que de viva voz, en votación nominal y por mayoría simple de votos de los miembros presentes, procedan a elegir a la Presidencia y Vicepresidencia de la Mesa Directiva.
+El Presidente instruirá al Secretario de la Mesa Directiva, para que proceda a dar lectura a las propuestas presentadas y las someta a consideración de los diputados que se encuentren presentes, para que en votación nominal y por mayoría simple de votos de los miembros presentes, procedan a elegir a la Presidencia y Vicepresidencia de la Mesa Directiva.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2010)</small>
 
@@ -337,9 +349,11 @@ El Presidente instruirá al Secretario de la Mesa Directiva, para que proceda a 
 
 Cuando los periodos de sesiones ordinarias se prolonguen por más de tres meses, la Mesa Directiva electa para el tercer mes continuará en funciones hasta la clausura del período.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 21.
 
-La Mesa Directiva de los períodos extraordinarios de sesiones se elegirá en los cinco días anteriores a la fecha de la sesión de apertura del período respectivo, en sesión previa que señale la Diputación Permanente en la convocatoria correspondiente.
+La Mesa Directiva de los períodos extraordinarios de sesiones se elegirá dentro de los diez días anteriores a la fecha de la sesión de apertura del período respectivo, en sesión previa que señale la Diputación Permanente en la convocatoria correspondiente.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -395,7 +409,7 @@ IV.- Conducir los debates y las deliberaciones del Pleno.
 
 V.- Determinar el orden de los asuntos que deban tratarse en cada sesión, tomando en consideración las proposiciones de la Gran Comisión.
 
-VI.- Declarar, después de tomada una votación, si se aprueba o desecha la moción, proposición, proyecto o dictamen que haya sido sometida (sic) a votación.
+VI.- Declarar, después de tomada una votación, si se aprueba o desecha la moción, proposición, proyecto o dictamen que haya sido sometida a votación.
 
 VII.- Requerir a los Diputados faltistas a concurrir a las sesiones y, en su caso, aplicar las medidas o sanciones que correspondan con base en los artículos 60 y 64 de la Constitución Política del Estado.
 
@@ -421,7 +435,7 @@ XV.- Nombrar las Comisiones Protocolarias.
 
 XVI.- Delegar su representación en actos cívicos o culturales en favor de otro Diputado.
 
-XVII.- Firmar con el Secretario los nombramientos y remociones de los titulares de las Dependencias del Poder Legislativo.
+XVII.- (DEROGADA, P.O. 17 DE FEBRERO DE 2017)
 
 XVIII.- Al término de cada período de sesiones previo a su clausura, rendir un informe general sobre los trabajos desarrollados durante éstos.
 
@@ -455,7 +469,9 @@ El Vicepresidente auxiliará al Presidente, a solicitud de éste, en el desempe�
 
 Son obligaciones del Secretario y del Pro-secretario cuando éste supla a aquel:
 
-I.- Pasar lista de asistencia al inicio de la sesión y dar cuenta al Presidente de la existencia o no del quórum requerido.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
+
+I.- Dar cuenta de la existencia o no del quorum requerido para sesionar mediante el Sistema de Asistencia Legislativa y Votación Electrónica. En aquellos casos en los que no estuviere disponible el sistema, deberá pasar lista de asistencia al inicio de la sesión.
 
 II.- Extender las actas de las sesiones, firmarlas conjuntamente con el Presidente después de haber sido aprobadas por la Legislatura y asentarlas bajo su firma en el libro respectivo. Las actas cumplirán las formalidades que precise el Reglamento
 
@@ -475,13 +491,17 @@ IX.- Vigilar que todos los documentos que pasarán a Consideración del Pleno, e
 
 X.- Asentar y firmar en todos los expedientes los trámites que se dieron a las resoluciones que sobre ellos se tomen, cuidando que no se alteren o enmienden las proposiciones, iniciativas o proyectos presentados.
 
-XI.- Recoger y tomar las votaciones, informando al Presidente del resultado de las mismas.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
+
+XI.- Dar cuenta de la votación de los Diputados presentes en los asuntos a tratar que arroje el Sistema de Asistencia Legislativa y Votación Electrónica, informando al Presidente del resultado de las mismas. En aquellos casos en los que no estuviere disponible dicho sistema, deberá recoger y tomar las votaciones respectivas.
 
 XII.- Llevar a efecto los acuerdos y resoluciones de la Legislatura, cuya ejecución no corresponda expresamente a otro órgano o dependencia del Congreso.
 
 XIII.- Verificar la publicación en el Periódico Oficial del Gobierno del Estado, de las resoluciones que emita la Legislatura, en los casos previstos en la presente ley.
 
-XIV.- Las demás que le confiera esta Ley, el Reglamento Interior o demás disposiciones emanadas del Pleno.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
+
+XIV.- Las demás que le confiera esta Ley, el reglamento interior o demás disposiciones emanadas del Pleno.
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -506,6 +526,32 @@ Las Comisiones transitorias se integrarán conforme a lo dispuesto por los artí
 ###### ARTICULO 34.
 
 Las Comisiones ordinarias tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación y las que de manera específica les señale el Reglamento de esta Ley y, conjuntamente con la Comisión de Puntos Legislativos y Técnica Parlamentaria, el análisis y dictamen de las iniciativas de Leyes y Decretos de su competencia.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
+Cada comisión ordinaria contará con una secretaría técnica, cuyo titular será nombrado a propuesta de su presidente por la comisión respectiva, en su sesión de instalación.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
+Los titulares de las secretarías técnicas tendrán entre otras atribuciones las siguientes:
+
+I. Elaborar el programa anual de trabajo de la comisión.
+
+II. Realizar el informe semestral de actividades de los asuntos turnados a la comisión y prepararlos para su entrega a la siguiente Legislatura.
+
+III. Organizar y mantener el archivo de todos los asuntos turnados a la Comisión.
+
+IV. Programar las sesiones de la comisión con anuencia de su Presidente.
+
+V. Dar seguimiento a las iniciativas y proposiciones turnadas a la comisión, así como a la elaboración de proyectos de dictamen.
+
+VI. Dar seguimiento a los acuerdos tomados por los integrantes de la Comisión correspondiente.
+
+VII. Las demás que le ordene el Presidente de la Comisión respectiva o que deban ser atendidos de acuerdo a la naturaleza de la misma.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
+El titular de la Dirección de Concertación y Prácticas Parlamentarias, fungirá como el secretario técnico de la Comisión del mismo nombre.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 2011)</small>
 
@@ -579,7 +625,9 @@ Las Comisiones ordinarias se integrarán por regla general con cinco Diputados d
 
 Los diputados organizados por fracción parlamentaria o en su caso como diputado independiente, presentarán al Presidente de la Mesa Directiva su propuesta de integración de las Comisiones Ordinarias a que se refiere el artículo 35 de esta Ley, conformada cada fórmula por Presidente, Secretario y tres vocales de cada una de dichas comisiones.
 
-El Presidente instruirá al Secretario de la Mesa Directiva para que proceda a dar lectura a las propuestas presentadas y las someta a consideración de los diputados presentes, para que de viva voz en votación nominal y por mayoría simple de votos, procedan a elegir la integración de las Comisiones Ordinarias del Congreso del Estado.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
+El Presidente instruirá al Secretario de la Mesa Directiva para que proceda a dar lectura a las propuestas presentadas y las someta a consideración de los diputados presentes, para que en votación nominal y por mayoría simple de votos, procedan a elegir la integración de las Comisiones Ordinarias del Congreso del Estado.
 
 En caso de advertir alguna omisión o error en la integración de las propuestas, el Secretario informará al Presidente para efecto de que le solicite a los diputados organizados por fracción parlamentaria o en su caso, a los diputados independientes, a que subsanen tal circunstancia.
 
@@ -595,11 +643,15 @@ Las Comisiones ordinarias ejercerán sus funciones y participarán en las delibe
 
 La Comisión de Hacienda, Presupuesto y Cuenta actuará de acuerdo con lo dispuesto por las leyes de Presupuesto, Contabilidad y Gasto Público, Orgánica del Poder Legislativo, Orgánica de la Contaduría Mayor de Hacienda y por el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 39.
 
-Las reuniones de las Comisiones ordinarias no serán públicas; sin embargo, cuando así lo acuerden, podrán celebrar reuniones de información y audiencia a las que podrán asistir, a invitación expresa, representantes de grupos organizados, peritos u otras personas que puedan informar sobre determinado asunto.
+Las reuniones de las Comisiones Ordinarias serán públicas, salvo que se requiera desahogar asuntos que por su naturaleza no pueden ser de inmediato conocimiento público, para lo cual dicha determinación deberá ser aprobada por mayoría de los integrantes de la respectiva comisión o comisiones.
+
+Cuando así lo acuerden, también podrán celebrar reuniones de información y audiencia a las que podrán asistir, a invitación expresa, representantes de grupos organizados, peritos u otras personas que puedan informar sobre determinado asunto.
+
+Cuando las sesiones de la Comisión o Comisiones sean públicas, serán transmitidas en la página oficial de internet del Poder Legislativo del Estado de Quintana Roo.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -647,15 +699,23 @@ Cuando alguno de los miembros de una Comisión disienta de la resolución adopta
 
 La Gran Comisión será integrada por los Presidentes de las Comisiones Ordinarias de Puntos Constitucionales, Puntos Legislativos y Técnica Parlamentaria, Justicia, Hacienda, Presupuesto y Cuenta y Asuntos Municipales.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
+Inmediatamente después de que se hayan integrado las Comisiones referidas, se reunirán sus Presidentes para nombrar de entre ellos, de viva voz y por mayoría simple al Presidente, Secretario y tres Vocales de la Gran Comisión.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
+El Presidente de la Gran Comisión tendrá el carácter de Coordinador del Poder Legislativo y de representante legal del mismo, ante cualquier autoridad administrativa o judicial.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 45.
 
-Inmediatamente después de que se hayan integrado las Comisiones a las que se refiere el artículo anterior, se reunirán sus Presidentes para nombrar de entre ellos, de viva voz y por mayoría simple al Presidente, Secretario y tres Vocales de la Gran Comisión.
+La Gran Comisión del Poder Legislativo, contará con una secretaría técnica y una Coordinación de Comunicación Social, cuyos titulares serán nombrados por los integrantes de la Gran Comisión a propuesta del presidente.
 
-El Presidente de la Gran Comisión tendrá el carácter de Coordinador del Poder Legislativo y de representante del mismo, ante cualquier autoridad administrativa o judicial.
+La secretaría técnica, es el área encargada del despacho de los asuntos de la oficina de la Gran Comisión.
 
-El Presidente de la Gran Comisión firmará conjuntamente con el Secretario, los nombramientos de los titulares de las Dependencias del Poder Legislativo.
+La Coordinación de Comunicación Social, es el área que tendrá la responsabilidad de informar a través de los medios de comunicación social de las actividades de carácter cívico, cultural, social y legislativo de la Gran Comisión, la Diputación Permanente, las Comisiones, Dependencias y de los demás órganos del Poder Legislativo, así como de las actividades que realicen los diputados en el cumplimiento de sus trabajos legislativos.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -789,7 +849,9 @@ En la misma sesión de clausura del Período de Sesiones Ordinarias del Congreso
 
 La propuesta a que se refiere el párrafo anterior deberá precisar quiénes de los miembros propuestos, fungirán como Presidente y los dos Secretarios de la Diputación Permanente.
 
-El Presidente de la Mesa Directiva instruirá al Secretario para que proceda a dar lectura a las propuestas presentadas y las someta a consideración de los diputados presentes, para que aquellos, de viva voz en votación nominal y por mayoría simple de votos, procedan a elegirlos.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
+El Presidente de la Mesa Directiva instruirá al Secretario para que proceda a dar lectura a las propuestas presentadas y las someta a consideración de los diputados presentes, para que aquellos, en votación nominal y por mayoría simple de votos, procedan a elegirlos mediante el Sistema de Asistencia Legislativa y Votación Electrónica.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1075,9 +1137,11 @@ IV.- Dirección de Control del Proceso Legislativo.
 
 V.- Dirección de Gestoría y Apoyo a la Comunidad.
 
-VI.- Dirección de Comunicación Social y Crónica Legislativa.
+VI.- (DEROGADA, P.O. 17 DE FEBRERO DE 2017)
 
-VII.- Dirección de Informática Legislativa.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
+
+VII.- Dirección de Tecnologías de la Información.
 
 VIII.- Dirección de Archivo General y Biblioteca.
 
@@ -1112,6 +1176,10 @@ Tratándose del titular de la Unidad de Transparencia, Acceso a la Información 
 ###### ARTICULO 84.
 
 La designación y remoción de los titulares de las Dependencias del Poder Legislativo, se hará por la Gran Comisión del Congreso del Estado, a moción de cualquier miembro de ella, con plena justificación, por votación de la mayoría simple de sus miembros.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
+Los nombramientos se firmarán conjuntamente por el Presidente y el Secretario de la Gran Comisión.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1175,7 +1243,7 @@ El Instituto estará a cargo de un Director General y deberá contar para su org
 
 El Instituto tendrá las atribuciones siguientes:
 
-l.- Establecer las directrices para la realización de los estudios e Investigaciones jurídicas y multidisciplinarias en que se apoye la Legislatura del Estado en el ejercicio de sus atribuciones constitucionales y legales;
+I.- Establecer las directrices para la realización de los estudios e Investigaciones jurídicas y multidisciplinarias en que se apoye la Legislatura del Estado en el ejercicio de sus atribuciones constitucionales y legales;
 
 II.- Desarrollar investigaciones y análisis en temas de vanguardia, jurídicos, sociológicos, históricos, de desarrollo social, económicos, así como en materia de finanzas públicas, entre otros;
 
@@ -1265,7 +1333,9 @@ I.- Sustanciar las Iniciativas de Leyes y Decretos o propuestas sometidas al con
 
 II.- Llevar los expedientes de Leyes y Decretos que se hayan sometido a la consideración de la Legislatura, así como de los acuerdos y resoluciones que ésta dicte, asentando los trámites que recaigan a los asuntos, en el procedimiento.
 
-III.- Cuidar que las Iniciativas, Dictámenes y votos particulares que vayan a ser objeto de debate se impriman y circulen con oportunidad entre los Diputados.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
+
+III.- Cuidar que las Iniciativas, Dictámenes y votos particulares que vayan a ser objeto de debate se hagan del conocimiento con oportunidad a los Diputados.
 
 IV.- Apoyar al Secretario de la Mesa Directiva en la elaboración de los libros de registro, el levantamiento de las actas de las sesiones, formulación de las minutas y en la expedición de leyes, decretos o resoluciones que apruebe la Legislatura o la Diputación Permanente.
 
@@ -1273,9 +1343,29 @@ V.- Preparar y organizar las sesiones de la Legislatura y de la Diputación Perm
 
 VI.- Llevar a cabo la transcripción de los debates y la recopilación de los documentos examinados en las sesiones, para su publicación en el "Diario de los Debates".
 
-VII.- Resguardar el archivo documental de la Secretaría, así como de las leyes y decretos que expida la Legislatura.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
 
-VIII.- Las demás inherentes al cumplimiento de las anteriores y las que expresamente le designe la Legislatura o el Secretario de la misma.
+VII.- Resguardar durante el transcurso del periodo de sesiones o receso que corresponda el archivo documental de la Secretaría, así como de las leyes y decretos que expida la Legislatura.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
+
+VIII.- Remitir a la Dirección de Archivo General y Biblioteca, el archivo documental referido en la fracción anterior para su resguardo definitivo.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2017)</small>
+
+IX. Operar el Sistema de Asistencia Legislativa y Votación Electrónica de la Legislatura durante las sesiones del Pleno.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2017)</small>
+
+X. Llevar la crónica de las actividades legislativas y de las que se realicen en las comisiones.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2017)</small>
+
+XI. Actualizar los ordenamientos jurídicos estatales de conformidad con las reformas aprobadas por la Legislatura y vigilar su publicación en la página oficial de internet del Poder Legislativo.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2017)</small>
+
+XII. Las demás inherentes al cumplimiento de las anteriores y las que expresamente le designe la Legislatura.
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -1305,57 +1395,41 @@ V.- Rendir los informes que le solicite la Gran Comisión respecto de su activid
 
 VI.- Las demás que le encomiende la Gran Comisión o le señale la Legislatura.
 
-(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2017)</small>
 
-### CAPITULO VII. DE LA DIRECCION DE COMUNICACION SOCIAL Y CRONICA LEGISLATIVA
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+### CAPITULO VII
 
 ###### ARTICULO 99.
 
-A través de la Dirección de Comunicación Social, el Poder Legislativo informará a la sociedad en general a través de los medios de comunicación social más idóneos, de las actividades de la Legislatura, de la Diputación Permanente, de las Comisiones, de las Dependencias y de los demás Organos del Poder Legislativo, así como de las que realicen los Diputados dentro o fuera del Distrito en que fueron electos, por encomienda de la Legislatura.
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 17 DE FEBRERO DE 2017)
 
 ###### ARTICULO 100.
 
-La Dirección de Comunicación Social tendrá las siguientes funciones:
+(DEROGADO, P.O. 17 DE FEBRERO DE 2017)
 
-I.- Difundir las diferentes actividades de la Legislatura, de carácter legislativo, político, cívico, cultural o social.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2017)</small>
 
-II.- Difundir las diferentes actividades que realicen los Diputados dentro y fuera de sus Distritos por encargo de la Legislatura.
+### CAPITULO VIII. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
 
-III.- Conducir las actividades de prensa y las relaciones con los medios de comunicación.
-
-IV.- Formular los boletines informativos para los medios de comunicación social.
-
-V.- Llevar la crónica de las actividades legislativas y de las que se realicen en el seno de las Comisiones o con motivo de las relaciones entre los Diputados que conformen la Legislatura.
-
-VI.- Las demás inherentes al cumplimiento de las anteriores y las que expresamente le asigne la Legislatura.
-
-(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
-
-### CAPITULO VIII. DE LA DIRECCION DE INFORMATICA LEGISLATIVA
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 101.
 
-Para el desarrollo de sistemas computacionales que tengan por objeto la compilación, manejo y control de todos los documentos relacionados con las leyes, decretos y otras disposiciones del Estado, habrá una Dirección de Informática Legislativa.
+La Dirección de Tecnologías de la Información, será la dependencia encargada de implementar, administrar y brindar el soporte en materia tecnológica a todas las áreas del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 102.
 
-La Dirección de Informática Legislativa tendrá las siguientes funciones:
+La Dirección de Tecnologías de la Información tendrá las siguientes funciones:
 
-I.- Recabar, compilar y controlar publicaciones de leyes, decretos y otras disposiciones jurídicas de carácter federal, estatal y municipal y disponer lo necesario para su procesamiento electrónico.
+I. Administrar la página institucional del Poder Legislativo y publicar dentro de las 48 horas siguientes a la celebración de la sesión la información generada por el Sistema de Asistencia Legislativa y Votación Electrónica, implementando sistemas de consulta accesibles y eficientes que coadyuven a su óptimo funcionamiento.
 
-II.- Llevar un registro, sistematizar y mantener actualizada la documentación que recabe, para compartirla con los demás Poderes del Estado, Municipios y entidades federativas, mediante la utilización de sistemas electrónicos, especialmente la que se refiere a las disposiciones jurídicas del Estado y sus reformas legales.
+II. Administrar el correcto funcionamiento del Sistema de Asistencia Legislativa y Votación Electrónica, y el resguardo del equipo.
 
-III.- Auxiliar a las Comisiones y demás Dependencias del Poder Legislativo en el procesamiento electrónico de la documentación que generen con motivo del ejercicio de sus respectivas funciones.
+III. Auxiliar a las Comisiones y demás Dependencias del Poder Legislativo en el procesamiento electrónico de la documentación e información que generen con motivo del ejercicio de sus respectivas funciones.
 
-IV.- Las demás inherentes a las anteriores y las que le encomiende la Legislatura.
+IV. Las demás inherentes a las anteriores y las que le encomiende la Legislatura.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1615,11 +1689,11 @@ La negativa, omisión, negligencia o actitud dilatoria en cumplir lo solicitado,
 
 Toda Iniciativa de Ley o Decreto se someterá a debate, de conformidad con lo dispuesto en el presente Capítulo y en el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 119.
 
-Los Diputados harán uso de la palabra en contra o a favor en el orden en que se inscribieron, conforme a las disposiciones reglamentarias.
+Los Diputados podrán hacer uso de la voz a favor o en contra en tribuna o desde su curul, en el orden en que solicitaron su intervención ya sea a través del Sistema de Asistencia Legislativa y Votación Electrónica o levantando la mano.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1693,31 +1767,41 @@ En la discusión en lo particular, se podrán apartar los artículos, fracciones
 
 ### CAPITULO IV. DE LA VOTACION
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 129.
 
-Suficientemente discutido un proyecto de ley o decreto, se votará en lo general y en lo particular, luego de ser discutido en tales sentidos. Si no fuera aprobado en lo general, se someterá a votación del Pleno si vuelve o no a la Comisión o Comisiones que dictaminaron. Si la votación fuere en sentido negativo se tendrá por desechado.
+La votación es la forma en que cada uno de los diputados integrantes de la Legislatura emiten su decisión a favor o en contra de un asunto determinado.
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+Las votaciones pueden ser de tres tipos:
 
-La votación podrá ser a favor o en contra, sin posibilidad de abstenerse, salvo que el Diputado se encuentre impedido legalmente en el asunto de que se trate, por lo que deberá excusarse, siempre que no se trate de disposiciones de carácter general. La excusa debe expresar concretamente la causa en que se funde.
+I. Nominales. Son aquellas que permiten identificar el nombre del diputado y el sentido de su voto en un periodo considerable de tiempo. Para estos efectos se implementará el Sistema de Asistencia Legislativa y Votación Electrónica mediante el uso de tabletas electrónicas en la que los legisladores pulsan un icono que les permite expresar su determinación a favor o en contra, visualizándose en un tablero electrónico los resultados de cada una de las votaciones.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+II. Económicas. Son aquellas en las que de manera inmediata y simultánea los diputados manifiestan a mano alzada el sentido de su voto, sin ser necesario que se identifiquen.
+
+III. Secretas. Son las que se realizan mediante cédulas que no permiten identificar el nombre del diputado ni el sentido de su voto y deberán ser depositadas de manera personal por cada diputado en una urna destinada para estos efectos.
+
+En aquellos casos en los que el Sistema de Asistencia Legislativa y Votación Electrónica no estuviere disponible, las determinaciones de la Legislatura serán realizadas de manera convencional, entendiéndose ésta en el caso de las votaciones nominativas como aquellas que empiezan por el lado derecho del Presidente de la Mesa Directiva y en la cual el Diputado se pondrá de pie dirá en voz alta su apellido y el sentido de su voto.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 130.
 
-Cerrado el debate de cada uno de los artículos en particular, se procederá a la votación. Si no fuere aprobado el artículo se reservará para que junto con los demás que tampoco fueron aprobados, regresen a la Comisión o Comisiones respectivas para formular dictamen de esos artículos de acuerdo a lo discutido por el Pleno.
+Suficientemente discutido un proyecto de ley o decreto, se votará en lo general y en lo particular, luego de ser discutido en tales sentidos. Si no fuera aprobado en lo general, se someterá a votación del Pleno si vuelve o no a la Comisión o Comisiones que dictaminaron. Si la votación fuere en sentido negativo se tendrá por desechado.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+La votación podrá ser a favor o en contra, sin posibilidad de abstenerse, salvo que el Diputado se encuentre impedido legalmente en el asunto de que se trate, por lo que deberá excusarse, siempre que no se trate de disposiciones de carácter general. El diputado deberá excusarse previamente al inicio de la votación debiendo expresar concretamente la causa en que se funde. Dicha excusa deberá ser aprobada por la Legislatura y no se computará para efectos de la votación.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 131.
 
-No se votarán separadamente las Iniciativas que hayan sido discutidas en términos del artículo 129 de esta Ley, salvo que lo pidiere algún Diputado y lo acordare el Pleno.
+Cerrado el debate de cada uno de los artículos en particular, se procederá a la votación. Si no fuere aprobado el artículo se reservará para que junto con los demás que tampoco fueron aprobados, regresen a la Comisión o Comisiones respectivas para formular dictamen de esos artículos de acuerdo a lo discutido por el Pleno.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 132.
+
+No se votarán separadamente las Iniciativas que hayan sido discutidas en términos del artículo 130 de esta Ley, salvo que lo pidiere algún Diputado y lo acordare el Pleno.
 
 Podrá votarse en forma simultánea un proyecto de ley o decreto en lo general y en la totalidad o parte de sus artículos que no hayan sido impugnados. Lo mismo se observará si durante el debate ningún Diputado hiciere uso de la palabra o solamente lo hiciere en favor del Dictamen.
 
@@ -1957,7 +2041,7 @@ La Legislatura conocerá de la suspensión y desaparición de los Ayuntamientos;
 
 La Legislatura, por conducto de la Dirección de Archivo General y Biblioteca mandará publicar, con la periodicidad que fije el Reglamento respectivo, un “DIARIO DE LOS DEBATES”, que será el órgano oficial del Poder Legislativo del Estado, en el que se publicarán los debates que en las sesiones se produjeren. En él se consignarán la fecha, el sumario, el nombre del Diputado que presida la sesión y el período al que corresponda, así como la transcripción fiel de la sesión y versión exacta de las discusiones en el orden en que se desarrollen. También se insertarán todos los documentos a los que se les dé lectura en las sesiones.
 
-Las discusiones y documentos relacionados con las sesiones de carácter secreto, se editarán en números especiales del “DIARIO DE LOS DEBATES”, a los cuales no se les dará publicidad ni se permitirá su circulación, debiendo resguardarse en el secreto del archivo de la Legislatura, para consulta exclusiva de los Diputados.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE FEBRERO DE 2017)</small>
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -2258,3 +2342,17 @@ Los recursos administrativos con los que cuenta actualmente la Unidad de Vincula
 QUINTO. Toda mención que se haga de la Unidad de Vinculación del Poder Legislativo en todas las demás disposiciones o documentos jurídicos existentes, se entenderá referida a la Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Poder Legislativo, que se crea mediante el presente decreto.
 
 SEXTO. En cumplimiento a lo ordenado por el artículo 54 fracción I de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, comuníquese al Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, el presente decreto y el cambio de la denominación de Unidad de Vinculación del Poder Legislativo a Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Poder Legislativo.
+
+P.O. 17 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 046 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los titulares de las secretarías técnicas, así como de la Coordinación de Comunicación Social deberán ser nombrados en un término que no exceda de diez días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Las atribuciones, así como los recursos humanos y financieros con los que cuenta actualmente la Dirección de Comunicación Social y Crónica Legislativa, se transfieren a la Coordinación de Comunicación Social.
+
+CUARTO. Se instruye a la Oficialía Mayor del Poder Legislativo, llevar a cabo los trámites administrativos necesarios para que las Direcciones de Tecnologías de la Información y de Control del Proceso Legislativo estén en condiciones de cumplir con las nuevas atribuciones que les fueron conferidas.
+
+QUINTO. Se derogan todas las disposiciones vigentes que contravengan lo dispuesto en el presente decreto.
