@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-transito-del-municipio-de-solidaridad-16152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2015-03-31"
+last_updated: "2017-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE TRÁNSITO DEL MUNICIPIO SOLIDARIDAD EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de noviembre de 1999.
 
@@ -186,6 +186,10 @@ LXVII.- Vías Secundarias: Son las que distribuyen el tránsito de las vías loc
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
 
 LXVIII.- Vías Terciarias: Son aquellas calles locales que permiten su acceso directo a las áreas habitacionales, entre otras pueden ser calles rinconadas, cerradas y privadas.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2017)</small>
+
+LXVI (SIC). UMA: Unidad de Medida y Actualización.
 
 ###### Artículo 3.
 
@@ -1239,7 +1243,7 @@ Los vehículos destinados a la conservación y mantenimiento de la vía pública
 
 Toda motocicleta deberá estar provista de las lámparas y reflectantes siguientes:
 
-I.- En la parte delantera, un faro principal de intensidad variable, colocado al centro del vehículo , y
+I.- En la parte delantera, un faro principal de intensidad variable, colocado al centro del vehículo, y
 
 II.- En la parte posterior.
 
@@ -1979,37 +1983,37 @@ En caso de inconformidad por la infracción determinada por el policía de trán
 
 Las infracciones contenidas en este reglamento serán sancionadas sin perjuicio de las que correspondan por la comisión de delitos u otras responsabilidades en que incurran los infractores, de conformidad con lo siguiente:
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
 
-I.- Causarán multa por la cantidad de cuatro días de salario mínimo general vigente en la zona, las infracciones a los artículos: 11, 19, 20, 34 fracción I, 36, 37,48, 49, 50, 74, 75 fracción VII, 83, 85, 94, 95, 96, 97, 100, 123 y 150 fracción V;
+I.- Causarán multa por la cantidad de dos a cuatro veces la UMA diaria las infracciones a los artículos: 19, 20, 34 fracción I, 36, 37, 48, 49, 50, 74, 75 fracción VII, 83, 85, 94, 95, 96, 97, 100, 123 y 150 fracción V;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
 
-II.- Causarán multa por la cantidad de cinco días de salario mínimo general vigente en la zona, las infracciones a los artículos: 35, 38, 40, 41, 42, 43, 44, 45, 52, 81, 106, 108, 109, 110, 111, 113, 114, 122, 150 fracciones I y II, 157, 158 fracciones I y II, 161 y 162;
+II.- Causarán multa por la cantidad de tres a cinco veces la UMA diaria las infracciones a los artículos 35, 38, 40, 41, 42, 43, 44, 45, 52, 81, 106, 108, 109, 110, 111, 113, 114, 122, 150 fracciones I y II, 157, 158 fracciones I y II, 161 y 162;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
 
-III.- Causarán multa por la cantidad de ocho días de salario mínimo general vigente en la zona, las infracciones a los artículos: 12, 14, 15, 18, 34 fracción I, 75 fracciones I a VI, 84, 86, 90, 92, 99, 101, 102, 103, 107, 112, 115, 118, 121, 124, 126 fracciones II, III, V, VI, X, XI, XII, XIII, XVI, XVII, XVIII, XIX, XX, XXI, XXII, 127, 141, 143, 150 fracciones III, VI, VII, VIII, X, XI y XII, 152, 154, 155, 156, 160, 163, 164, 165, 166, 170, 171 fracciones III, V y XV, 173, 175 y 177;
+III.- Causarán multa por la cantidad de cuatro a ocho veces la UMA diaria, las infracciones a los artículos 14, 15, 18, 34 fracción I, 75 fracciones I a VI, 84, 86, 90, 92, 99, 101, 102, 103, 107, 115, 118, 121, 124, 126 fracciones II, III, V, VI, X, XI, XII, XIII y XVI, 127, 141, 143, 150 fracciones III, VI, VII, VIII, X, XI y XII, 152, 154, 155, 156, 160, 163, 164, 165, 166, 170, 171 fracciones III, V y XV, 173, 175 y 177;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
 
-IV.- Causarán multa por la cantidad de doce días de salario mínimo general vigente en la zona, las infracciones a los artículos: 34 fracción II, 46, 47, 48, 51, 58, 126 fracción VII, 130, 131, 171 fracciones VIII, XIII y XIV y 179;
+IV.- Causarán multa por la cantidad de ocho a doce veces la UMA diaria, las infracciones a los artículos 34 fracción II, 46, 47, 48, 51, 58, 126 fracción VII, 130, 131, 171 fracciones VIII, XIII y XIV y 179.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
 
-V.- Causarán multa por la cantidad de dieciséis días de salario mínimo general vigente en la zona, las infracciones a los artículos: 13, 21, 22, 23, 98, 126 fracciones I, IV, VIII, X, IX, XIV y XV, 140, 159, 172, 174 y 192;
+V.- Causarán multa por la cantidad de doce a dieciséis veces la UMA diaria, las infracciones a los artículos 13, 21, 22, 23, 98, 126 fracciones I, IV, VIII, IX, XIV y XV, 159, 172, 174 y 192;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
 
-VI.- Causarán multa por la cantidad de veinte días de salario mínimo general vigente en la zona, las infracciones a los artículos: 14, 24, 89, 93, 129, 135, 168, 169, 171 fracciones II, IV, VI, IX y X;
+VI.- Causarán multa por la cantidad de dieciséis a veinte veces la UMA diaria, las infracciones a los artículos 14, 24, 89, 93, 129, 135, 168, 169, 171 fracciones II, IV, VI, IX y X;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
 
-VII.- Causarán multa por la cantidad VEINTICINCO DÍAS de salario mínimo general vigente en la zona las infracciones a los artículos 65, fracciones I a VIII, 104, 125, 136, 139, 150 fracción XIII, 167 y 176, y
+VII.- Causarán multa por la cantidad de veinticinco veces la UMA diaria, las infracciones a los artículos 65 fracciones I a VIII, 104, 125, 136, 139, 150 Fracción XIII, 167 y 176, y
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2017)</small>
 
-VIII.- Causarán multa por la cantidad de treinta días de salario mínimo general vigente en la zona, las infracciones a los artículos: 26 fracción I, 61 segundo párrafo, 137, 171 fracciones I, VII, XI y XII, 178 y 196.
+VIII.- Causarán multa por la cantidad de veinticinco a treinta veces la UMA diaria, las infracciones a los artículos 26 fracción I, 61 segundo párrafo, 112, 137, 171 fracciones I, VII, XI y XII, 178 y 196.
 
 ###### Artículo 186.
 
@@ -2202,3 +2206,15 @@ SEGUNDO.- PUBLÍQUESE EL PRESENTE ACUERDO EN EL PERIÓDICO OFICIAL DEL GOBIERNO 
 P.O. 31 DE MARZO DE 2015.
 
 Único.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 17 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE MODIFICA DIVERSOS ORDENAMIENTOS DEL MUNICIPIO DE SOLIDARIDAD, DEL ESTADO DE QUINTANA ROO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO, EN CUMPLIMIENTO AL DECRETO DE REFORMAS Y ADICIONES A LOS ARTÍCULOS 26, APARTADO B, 41 Y 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE FECHA 28 DE ENERO DE 2016, APROBADO EN LA NOVENA SESIÓN ORDINARIA DEL H. AYUNTAMIENTO DE SOLIDARIDAD, QUINTANA ROO, CELEBRADO EL 24 DE ENERO DE 2017".]
+
+PRIMERO.- LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.
+
+SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES DE IGUAL O MENOR JERARQUÍA QUE SE OPONGAN AL PRESENTE ORDENAMIENTO
+
+TERCERO.- PUBLÍQUESE EL PRESENTE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTAN ROO
+
+CUARTO.- CUANDO SE UTILICE EN ORDENAMIENTOS Y DEMÁS DISPOSICIONES COMO ÍNDICE, BASE DE CÁLCULO O REFERENCIAS EL (SIC) SALARIO MÍNIMO EN ASUNTOS NO RELACIONADOS CON LA POLÍTICA SALARIAL Y LAS PRESTACIONES QUE DE ELLA EMANAN, SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.
