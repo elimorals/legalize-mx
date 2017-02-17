@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-planeacion-y-41486"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-20"
-last_updated: "2012-09-14"
+last_updated: "2017-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y FINANZAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 20 de octubre de 2004.
 
@@ -1868,3 +1870,17 @@ P.O. 14 DE SEPTIEMBRE DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 17 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL " REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS”.]
+
+Primero. El presente reglamento entrará en vigor el 1° de marzo de 2017.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría de Planeación y Finanzas publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" el 20 de octubre de 2004.
+
+Tercero. Se derogan todas las disposiciones de menor o igual jerarquía que se opongan al presente reglamento.
+
+Cuarto. Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite ante las unidades administrativas y/o departamentos de la Secretaría que modifiquen su denominación o atribuciones en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas y/o departamentos a las que se les otorgue la competencia correspondiente en este instrumento.
+
+Quinto. Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas adscritas a la Secretaría de Planeación y Finanzas que desaparezcan o cambien de denominación por virtud del presente reglamento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
