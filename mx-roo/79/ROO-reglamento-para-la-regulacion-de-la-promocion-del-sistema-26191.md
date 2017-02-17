@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-la-regulacion-de-la-promocion-del-sistema-26191
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-09"
-last_updated: "2002-10-09"
+last_updated: "2017-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO PARA LA REGULACIÓN DE LA PROMOCIÓN DEL SISTEMA DE TIEMPO COMPARTIDO EN EL MUNICIPIO SOLIDARIDAD, QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 9 de octubre de 2002.
 
@@ -203,17 +203,25 @@ l. Promocionar productos distintos al tiempo compartido, sin tener la licencia d
 
 En caso de incumplimiento de las prohibiciones que señala el artículo que antecede, se impondrán las siguientes sanciones:
 
-1.- Por incurrir en el supuesto señalado en los incisos a), c), d) y k), hasta la cantidad equivalente a treinta y cinco salarios mínimos vigentes en el estado;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
-2.- Por incurrir en los supuestos señalados en los incisos b), f) y g) hsta (sic) la cantidad equivalente a veinticinco salarios mínimos vigentes en el estado;
+1.- Por incurrir en el supuesto señalado en los incisos a), c), d) y k), hasta la cantidad equivalente a treinta y cinco veces la unidad de medida y actualización diaria;
 
-3.- Por incurrir en los supuestos señalados en el Artículo 21, y en los incisos e) y h) hasta la cantidad equivalente a cincuenta salarios mínimos vigentes en el estado;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
-4.- Por incurrir en los supuestos señalados en los incisos i) y j) hasta la cantidad equivalente a cuarenta salarios mínimos vigentes en el estado;
+2.- Por incurrir en los supuestos señalados en los incisos b), f) y g) hasta la cantidad equivalente a veinticinco veces la unidad de medida y actualización diaria;
 
-5.- Por incurrir en el supuesto señalado en el inciso l), hasta la cantidad equivalente a trescientos salarios mínimos vigentes en el estado.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
 
-Para el caso de la aplicación de la infracción al inciso h) deberá mediar queja escrita del afectado presentada ante la Dirección de Comercio y Tursimo (sic) Municipal.
+3.- Por incurrir en los supuestos señalados en el Artículo 21, y en los incisos e) y h) hasta la cantidad equivalente a cincuenta veces la unidad de medida y actualización diaria;
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
+4.- Por incurrir en los supuestos señalados en los incisos i) y j) hasta la cantidad equivalente a cuarenta veces la unidad de medida y actualización diaria, y
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2017)</small>
+
+5.- Por incurrir en el supuesto señalado en el inciso l), hasta la cantidad equivalente a trescientas veces la unidad de medida y actualización diaria.
 
 Las sanciones que se señalan se impondrán sin perjuicio de remitir a los responsables a las Autoridades correspondientes, en caso de violaciones a otros ordenamientos legales.
 
@@ -288,3 +296,19 @@ DOY FE.
 EL CIUDADANO SECRETARIO DEL HONORABLE AYUNTAMIENTO
 
 C. EDUARDO ROMAN QUIAN ALCOCER
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE MODIFICA (SIC) DIVERSOS ORDENAMIENTOS DEL MUNICIPIO DE SOLIDARIDAD, DEL ESTADO DE QUINTANA ROO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO, EN CUMPLIMIENTO AL DECRETO DE REFORMAS Y ADICIONES A LOS ARTÍCULOS 26, APARTADO B, 41 Y 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE FECHA 28 DE ENERO DE 2016, APROBADO EN LA NOVENA SESIÓN ORDINARIA DEL H. AYUNTAMIENTO DE SOLIDARIDAD, QUINTANA ROO, CELEBRADO EL 24 DE ENERO DE 2017”.]
+
+PRIMERO.- LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.
+
+SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES DE IGUAL O MENOR JERARQUÍA QUE SE OPONGAN AL PRESENTE ORDENAMIENTO.
+
+TERCERO.- PUBLÍQUESE EL PRESENTE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.
+
+CUARTO.- CUANDO SE UTILICE EN ORDENAMIENTOS Y DEMÁS DISPOSICIONES COMO ÍNDICE, BASE DE CÁLCULO O REFERENCIAS EL SALARIO MÍNIMO EN ASUNTOS NO RELACIONADOS CON LA POLÍTICA SALARIAL Y LAS PRESTACIONES QUE DE ELLA EMANAN, SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.
+
+SE DEROGA Y QUEDA SIN EFECTO TODA DISPOSICIÓN QUE SE OPONGA AL PRESENTE, SUBSISTIENDO LAS QUE LO COMPLEMENTEN.
