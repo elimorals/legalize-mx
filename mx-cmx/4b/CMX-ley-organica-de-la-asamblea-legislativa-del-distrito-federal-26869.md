@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2016-10-14"
+last_updated: "2017-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE FEBRERO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -35,8 +35,6 @@ DECRETO
 LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, II LEGISLATURA
 
 D E C R E T A :
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 9 DE JULIO DE 2014, LAS DISPOSICIONES JURÍDICAS Y NORMATIVAS QUE EN SU CONTENIDO RESERVEN DENOMINACIÓN, ATRIBUCIONES, FACULTADES, DERECHOS Y OBLIGACIONES RESPECTO DE LA CONTADURÍA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, A PARTIR DE LA ENTRADA EN VIGENCIA DEL PRESENTE DECRETO SE DEBERÁN APLICAR, REFERIR, INTERPRETAR Y ENTENDER EN FAVOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO.</small>
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
@@ -199,6 +197,10 @@ XXVI.- Otorgar la medalla al Mérito de Protección Civil, a quienes hayan desta
 > <small>(ADICIONADA, G.O. 18 DE ABRIL DE 2016)</small>
 
 XXVI Bis.- Otorgar la medalla al Mérito por la Igualdad y la No Discriminación, en reconocimiento a quienes se hayan distinguido por su trabajo a favor del respeto a la dignidad humana, los derechos fundamentales de las personas, la equidad de género, y la no discriminación a los grupos vulnerables del Distrito Federal; dicho reconocimiento se entregará en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2017)</small>
+
+XXVI Ter.- Otorgar la medalla Hermila Galindo en reconocimiento a las mujeres destacadas de la Ciudad de México, así como a las personas que se hayan distinguido por su trabajo a favor de las mujeres, ya sea por defender los derechos humanos de otras mujeres; por fomentar la educación entre mujeres mediante publicaciones enfocadas en temas de interés o educando otras mujeres; por el impulso a la cultura y la práctica del deporte en el sector femenino; por fomentar el acceso de las mujeres a la planta laboral en igualdad de condiciones que los hombres y realizar investigaciones científicas a favor de las mujeres o por investigar algún producto, medicamento o elemento que les beneficie.
 
 XXVII.- Expedir la Ley Orgánica que regulará su estructura y funcionamiento interno, la cual será enviada al Jefe de Gobierno del Distrito Federal para el sólo efecto de que ordene su publicación;
 
@@ -1016,7 +1018,9 @@ V.- Asuntos Laborales y Previsión Social;
 
 VI.- Asuntos Político – Electorales;
 
-VII.- Atención a Grupos Vulnerables;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2017)</small>
+
+VII.- Atención a Grupos Prioritarios y Vulnerables;
 
 > <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
@@ -1418,7 +1422,7 @@ El Archivo Histórico tendrá un espacio específicamente destinado para su ubic
 
 > <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
 
-ARTÍCULO 87 QUARTER.- El Archivo Histórico de la Asamblea Legislativa podrá ser consultado por el personal de la misma y por el público en general, de acuerdo con lo que establezcan las disposiciones legales en materia de acceso a la información pública.
+ARTÍCULO 87 QUARTER (SIC).- El Archivo Histórico de la Asamblea Legislativa podrá ser consultado por el personal de la misma y por el público en general, de acuerdo con lo que establezcan las disposiciones legales en materia de acceso a la información pública.
 
 > <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
 
@@ -1938,7 +1942,7 @@ SEPTIMO.- Hasta en tanto la Asamblea Legislativa expida un nuevo Reglamento para
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los cinco días del mes de diciembre del año dos mil dos.- POR LA MESA DIRECTIVA.- DIP. MARCO ANTONIO MICHEL DÍAZ, PRESIDENTE.- SECRETARIA, DIP. ALICIA VIRGINIA TELLEZ SÁNCHEZ.- SECRETARIO, MARCOS MORALES TORRES. - (Firmas).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.]</small>
 
 G.O. 23 DE SEPTIEMBRE DE 2003.
 
@@ -2366,7 +2370,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobaci
 
 SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
 
-TERCERO.- Para el la (sic) premiación al Mérito de la mejor tesis de licenciatura, maestría y doctorado de 2014 se seguirán los acuerdos tomados por el Comité de Estudios y Estadísticas de la Ciudad de México que tome el mismo año.
+TERCERO.- Para el (sic) la premiación al Mérito de la mejor tesis de licenciatura, maestría y doctorado de 2014 se seguirán los acuerdos tomados por el Comité de Estudios y Estadísticas de la Ciudad de México que tome el mismo año.
 
 G.O. 21 DE MAYO DE 2015.
 
@@ -2459,3 +2463,21 @@ PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 TERCERO.- Respecto de la fecha de la entrega de la presea correspondiente al año 2016, ésta se sujetará a las bases establecidas en la convocatoria emitida por la Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 17 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 62 DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Artículo Segundo.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 17 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
