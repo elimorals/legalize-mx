@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2016-10-19"
+last_updated: "2017-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -378,7 +378,7 @@ DE LAS COMISIONES Y COMITÉS DE LA ASAMBLEA Y DE SUS UNIDADES ADMINISTRATIVAS
 
 #### SECCIÓN 1. DE LAS COMISIONES Y COMITÉS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 28.
 
@@ -388,27 +388,17 @@ Las Comisiones son órganos internos de organización para el mejor y más exped
 
 Las Comisiones se integrarán por los diputados electos por el pleno a propuesta de la Comisión de Gobierno, debiéndose reflejar la pluralidad de la Asamblea en la integración de las mismas.
 
-> <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
-
 Las Comisiones conocerán, en el ámbito de su competencia, de las Iniciativas, Proyectos, Proposiciones, excitativas, deliberaciones, avisos y en general cualquier asunto que le sea turnado por la Mesa Directiva del Pleno o de la Diputación Permanente, o la Comisión de Gobierno.
-
-> <small>(REFORMADO, G.O. 30 DE MAYO DE 2013)</small>
 
 Las Comisiones podrán efectuar directamente investigaciones, foros, consultas legislativas y parlamentos sobre los asuntos a su cargo. Para la realización de los parlamentos, se seguirán los lineamientos establecidos en el artículo 160 del presente ordenamiento, y determinarán la fecha de su celebración con la Comisión de Gobierno. Asimismo, las Comisiones coadyuvarán con el Comité de Atención, Orientación y Quejas ciudadanas en la gestión de los asuntos que se les encomienden.
 
-> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2013)</small>
-
 Con fundamento en lo anteriormente prescrito la Comisión de Igualdad de Género deberá celebrar el Parlamento de las Mujeres del Distrito Federal de manera anual.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
+De igual forma, la Comisión de Atención al Desarrollo de la Niñez estará encargada de la Realización del Parlamento Infantil de la Ciudad de México, mismo que se efectuará en el mes de febrero de cada año y en cuya realización y desarrollo coadyuvarán las instancias públicas y privadas que tengan relación con la materia.
 
 En los casos de las investigaciones se estará a lo dispuesto por el artículo 61 de la Ley Orgánica.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
-
 El plazo para la entrega de los proyectos de investigación al Instituto de Investigaciones Parlamentarias será al inicio del primer periodo de cada año legislativo, con excepción del año de inicio de la Legislatura.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
 
 Cada Comisión conformará un nuevo acervo sistematizado y ordenado de la información que generen para su consulta.
 
@@ -2510,13 +2500,13 @@ Recibidos los informes por la Comisión de Gobierno, ésta los turnará al Comit
 
 ### CAPÍTULO I
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 18 DE MAYO DE 2016, PÁGINA 27.]</small>
-
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 170.
 
-De conformidad con lo señalado en el artículo 10 de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal, la Asamblea otorgará las siguientes preseas y reconocimientos:
+De conformidad con lo señalado en el artículo 10 de la Ley Orgánico (sic) de la Asamblea Legislativa del Distrito Federal, la Asamblea otorgará las siguientes preseas y reconocimientos:
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
 I.- Al Mérito Ciudadano;
 
@@ -2532,13 +2522,21 @@ III.- Al Mérito Policial;
 
 IV.- Al Mérito Deportivo;
 
-> <small>(REFORMADA, G.O. 18 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2017)</small>
 
-V.- Al Mérito de Protección Civil; y
+V.- Al Mérito de Protección Civil;
 
-> <small>(REFORMADA, G.O. 18 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2017)</small>
 
-VI.- A las Defensoras y Defensores de Derechos Humanos, así mismo se otorgara la Medalla al Mérito Periodístico “Miguel Granados Chapa”.
+VI.- A las Defensoras y Defensores de Derechos Humanos;
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2017)</small>
+
+VII.- Al Mérito por la Igualdad y la No Discriminación
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2017)</small>
+
+VIII.- La medalla Hermila Galindo.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2558,9 +2556,9 @@ Adicionalmente, los reconocimientos podrán otorgarse de forma póstuma, a los c
 
 Para los efectos del presente título, se entenderá por:
 
-> <small>(REFORMADA, G.O. 18 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2017)</small>
 
-I. Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias y Artes, Policial, Deportivo, Protección Civil, Periodístico, así como a las Defensoras y Defensores de Derechos Humanos, todas de la Asamblea Legislativa del Distrito Federal;
+I. Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias y Artes, Policial, Deportivo o en Protección Civil, Defensoras y Defensores de los Derechos Humanos, por la Igualdad y no discriminación, y la medalla Hermila Galindo, todas de la Asamblea Legislativa del Distrito Federal;
 
 II.- Comisiones: Las diferentes Comisiones dictaminadoras de las medallas, que son:
 
@@ -2589,6 +2587,10 @@ f) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federa
 > <small>(REFORMADO, G.O. 18 DE MAYO DE 2016)</small>
 
 g) Comisión de Derechos Humanos y Comisión Especial para otorgar la Medalla al Mérito Periodístico “Miguel Ángel Granados Chapa” de la Asamblea Legislativa del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2017)</small>
+
+h) Comisiones unidas de Atención a Grupos Prioritarios y Vulnerables y para la Igualdad de Género, para la entrega de la medalla Hermila Galindo.
 
 > <small>(REFORMADA, G.O. 12 DE MAYO DE 2015)</small>
 
@@ -2632,7 +2634,7 @@ b) "MEDALLA AL MÉRITO EN CIENCIAS"
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2014)</small>
 
-c) "MEDALLA AL MÉRITO EN ARTES"
+c) “MEDALLA AL MÉRITO EN ARTES”
 
 d) "MEDALLA AL MÉRITO POLICIAL"
 
@@ -2647,6 +2649,10 @@ g) "MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL"
 > <small>(REFORMADO, G.O. 18 DE MAYO DE 2016)</small>
 
 h) "MEDALLA A LAS DEFENSORAS Y DEFENSORES DE DERECHOS HUMANOS" y "MEDALLA AL MÉRITO PERIODÍSTICO "MIGUEL ÁNGEL GRANADOS CHAPA"
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2017)</small>
+
+i) MEDALLA HERMILA GALINDO.
 
 > <small>(REFORMADO, G.O. 18 DE MAYO DE 2016)</small>
 
@@ -2925,6 +2931,26 @@ No será necesario que las obras o actos que acrediten su merecimiento, se hayan
 ###### Artículo 197.
 
 El reconocimiento al Mérito de la Ciencia y de las Artes se otorgará anualmente en sesión solemne que deberá celebrarse dentro de la primera semana del mes de diciembre del año que corresponda.
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2017)</small>
+
+###### Artículo 197 Bis.
+
+La Asamblea Legislativa convocará cada año a l a (sic) población, preferentemente del sexo femenino, a organizaciones de la sociedad civil, organizaciones académicas, y demás instituciones vinculadas con la promoción y defensa de los derechos de las mujeres a que propongan a candidatas que hayan destacado en la defensa promoción y protección de los derechos humanos de las mujeres de la Ciudad de México o en alguno de los rubros descritos en el artículo 10, fracción XXVI Ter, de la Ley Orgánica.
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2017)</small>
+
+###### Artículo 197 Ter.
+
+La convocatoria a q ue (sic) se hace referencia el artículo anterior deberá ser elaborada y aprobada por las comisiones unidas de Atención a Grupos Prioritarios y Vulnerables y para la Igualdad de Género, a más tardar el 30 de abril del año correspondiente a la entrega del reconocimiento.
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2017)</small>
+
+Artículo 197 Quarter.- El periodo para el registro de candidatos a recibir la presea Hermila Galindo, queda comprendido de los días primero al treinta de Mayo de cada año, observando en todo momento lo establecido en el artículo 180 del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2017)</small>
+
+Artículo 197 Quintus.- El reconocimiento de la Medalla Hermila Galindo y el Diploma respectivo serán otorgados en la Sesión Solemne, misma que deberá celebrarse el día 25 de noviembre de cada año, en conmemoración del Día Internacional de la Eliminación de la Violencia contra la Mujer.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -3875,3 +3901,19 @@ G.O. 19 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL".]
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+G.O. 17 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL”.]</small>
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 17 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL ARTÍCULO 28 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL".]
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
