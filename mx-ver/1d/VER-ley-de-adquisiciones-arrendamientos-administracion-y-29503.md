@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adquisiciones-arrendamientos-administracion-y-29503"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2007-09-05"
+last_updated: "2017-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACION Y ENAJENACION DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE -LEY NUMERO 539-
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACION Y ENAJENACION DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de febrero de 2003.
 
@@ -643,7 +643,9 @@ Las instituciones podrán celebrar contrataciones, a través de adjudicación di
 
 I. Se trate de adquisiciones de bienes perecederos cuya ministración no sea permanente;
 
-II. Se trate de bienes usados, siempre que el precio de adquisición no sea mayor al determinado por avalúo practicado por institución de banca y crédito o persona física o moral capacitada y facultada para ello, conforme a las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2017)</small>
+
+II. Se trate de bienes usados, siempre que el precio de adquisición no sea mayor al determinado por avalúo practicado por institución de banca y crédito o persona física o moral capacitada y facultada para ello que cuente con cédula profesional, conforme a las disposiciones aplicables;
 
 III. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, el medio ambiente de alguna zona o región del estado, como consecuencia de desastres producidos por fenómenos naturales; por caso fortuito o de fuerza mayor u otras circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales;
 
@@ -975,9 +977,13 @@ II. A valor de reposición;
 
 III. A valor de bienes similares;
 
-IV. Mediante avalúo de un perito; y
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2017)</small>
 
-V. Mediante avalúo interno con asesoría de un valuador independiente.
+IV. Mediante avalúo de un perito que cuente con cédula profesional; y
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2017)</small>
+
+V. Mediante avalúo interno con asesoría de un valuador independiente que cuente con cédula profesional.
 
 ###### Artículo 93.
 
@@ -1152,3 +1158,11 @@ G.O. 5 DE SEPTIEMBRE DE 2007.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este decreto.
+
+G.O. 17 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 243 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 55 Y LAS FRACCIONES IV Y V DEL ARTÍCLO 92 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
