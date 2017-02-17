@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-29-de-premios-del-estado-de-veracruz-22427"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-12"
-last_updated: "2015-04-28"
+last_updated: "2017-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 12 de octubre de 2001.
 
@@ -173,7 +173,7 @@ La Medalla Veracruz al Desarrollo Económico se otorgará a las personas que en 
 
 La Medalla Veracruz al Deporte se otorgará a las personas cuya dedicación al deporte en cualquiera de sus ramas pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 3 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 3 DE ENERO DE 2007)</small>
 
 #### Sección Segunda. De la Medalla Veracruz a la Juventud
 
@@ -259,7 +259,7 @@ El Premio Veracruz 2025 es el reconocimiento público que otorga el Poder Ejecut
 
 Este premio se otorgará anualmente y consistirá en un Diploma, un estímulo económico y en su caso, el apoyo adicional que se determine de conformidad con los lineamientos y bases que al efecto se expidan.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE NOVIEMBRE DE 2004)</small>
 
 ### Capítulo Quinto. De La Medalla General Ignacio de la Llave
 
@@ -291,7 +291,7 @@ II. Al Mérito Deportivo: A aquellos deportistas que se distingan por su destaca
 
 La Medalla al Mérito Deportivo se entregará el mismo año en el que se haya dado la participación deportiva de alto reconocimiento para el Estado de Veracruz de Ignacio de la Llave.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ### Capítulo Sexto. De las Medallas Carlos A. Carrillo y Enrique C. Rébsamen
 
@@ -339,25 +339,27 @@ Para el cómputo de la antigüedad en el servicio, sólo se tomará en cuenta el
 
 ### Capítulo Séptimo. Del Premio Estatal a la Mujer
 
-> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 23 Octies.
 
-El Premio Estatal a la Mujer es un reconocimiento que se otorgará a las veracruzanas que se hayan destacado por su trayectoria de vida, obra, méritos académicos, científicos, artísticos, literarios o de otra índole, o que desde cualquier ámbito de acción hayan contribuido al desarrollo de sus comunidades, del Estado o del País.
+El premio estatal a la Mujer Veracruzana es un reconocimiento que se otorgará a las veracruzanas que se hayan destacado por su trayectoria de vida, obra, méritos académicos, científicos, artísticos, literarios o de otra índole, o que desde cualquier ámbito de acción hayan contribuido al cumplimiento en el ejercicio de los derechos de las mujeres y la igualdad de género en el estado de Veracruz.
 
-> <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 23 Nonies.
 
-En la primera semana del mes de diciembre de cada año, el Pleno del Congreso conformará la Comisión Especial del Premio Estatal a la Mujer, la que emitirá la convocatoria para recibir las propuestas correspondientes.
-
-La Comisión Especial formulará un dictamen con el nombre de la mujer que se considere merecedora al premio estatal, mismo que será sometido al Pleno para su votación antes de que concluya el primer periodo ordinario de sesiones.
+En el mes de enero de cada año, el Pleno del Congreso conformará la Comisión Especial del Premio Estatal a la Mujer, la que emitirá la convocatoria para recibir las propuestas correspondientes.
 
 > <small>(ADICIONADO, G.O. 28 DE ABRIL DE 2015)</small>
 
+La Comisión Especial formulará un dictamen con el nombre de la mujer que se considere merecedora al premio estatal, mismo que será sometido al Pleno para su votación antes de que concluya el primer periodo ordinario de sesiones.
+
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 23 Decies.
 
-El Premio Estatal a la Mujer consistirá en un Diploma y se entregará en el mes de marzo, en Sesión Solemne del Pleno, en el marco de la conmemoración del Día Internacional de la Mujer.
+El Premio Estatal a la Mujer consistirá en una medalla que se entregará en el mes de marzo, en sesión solemne del Pleno, en el marco de la conmemoración del Día Internacional de la Mujer.
 
 ## TÍTULO SEGUNDO. DE LA ROTONDA DE LOS HOMBRES ILUSTRES DEL ESTADO DE VERACRUZ
 
@@ -452,3 +454,9 @@ G.O. 28 DE ABRIL DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+G.O. 17 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 239 QUE REFORMA LOS ARTÍCULOS 23 OCTIES, 23 NONIES Y 23 DECIES, DE LA LEY DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LLAVE".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
