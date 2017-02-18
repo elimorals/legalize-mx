@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-75180"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-29"
-last_updated: "2013-12-18"
+last_updated: "2017-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 29 de mayo de 2010.
 
@@ -63,9 +63,11 @@ Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres qu
 
 La trasgresión a los principios y programas que la misma prevé será sancionada de acuerdo con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y, en su caso, por las leyes aplicables federales y estatales, que regulen esta materia.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 4.
 
-En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley para Prevenir y Eliminar la Discriminación en el Estado, la Ley del Instituto Chihuahuense de la Mujer, la Ley de la Comisión Estatal de Derechos Humanos, así como los instrumentos internacionales ratificados por el Estado Mexicano y los demás ordenamientos aplicables en la materia.
+En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley para Prevenir y Eliminar la Discriminación en el Estado, la Ley del Instituto Chihuahuense de las Mujeres, la Ley de la Comisión Estatal de los Derechos Humanos, así como los instrumentos internacionales ratificados por el Estado Mexicano y los demás ordenamientos aplicables en la materia.
 
 ###### Artículo 5.
 
@@ -103,9 +105,11 @@ La igualdad entre mujeres y hombres implica la eliminación de toda forma de dis
 
 ### CAPÍTULO PRIMERO. DE LA COMPETENCIA Y LA COORDINACIÓN INTERINSTITUCIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 7.
 
-Sin perjuicio de lo dispuesto en el artículo 5 de la Ley del Instituto Chihuahuense de la Mujer, el Ejecutivo del Estado podrá suscribir convenios, a través de dicho Instituto, a fin de:
+Sin perjuicio de lo dispuesto en el artículo 5 de la Ley del Instituto Chihuahuense de las Mujeres, el Ejecutivo del Estado podrá suscribir convenios, a través de dicho Instituto, a fin de:
 
 I. Lograr la transversalidad de la perspectiva de género en la función pública del Estado de Chihuahua;
 
@@ -115,9 +119,11 @@ III. Fortalecer la implementación de acciones afirmativas que favorezcan la apl
 
 IV. Coadyuvar en la elaboración e integración de iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos público y privado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 8.
 
-Además de las atribuciones previstas en la Ley que lo crea, corresponde al Instituto Chihuahuense de la Mujer:
+Además de las atribuciones previstas en la Ley que lo crea, corresponde al Instituto Chihuahuense de las Mujeres:
 
 I. Fomentar e instrumentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades, la participación equitativa entre hombres y mujeres en los ámbitos social, económico, político, civil, cultural y familiar;
 
@@ -129,7 +135,7 @@ IV. Suscribir dentro del ámbito de su competencia, los convenios necesarios par
 
 V. Participar en el diseño y formulación de políticas públicas locales en materia de igualdad entre mujeres y hombres;
 
-VI. Coordinar los instrumentos de la Política en el Estado en Materia de Igualdad entre Mujeres y Hombres; y (sic)
+VI. Coordinar los instrumentos de la Política en el Estado en Materia de Igualdad entre Mujeres y Hombres; y
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
@@ -231,13 +237,17 @@ IV. El Programa Estatal para la Igualdad entre Mujeres y Hombres; y
 
 V. La vigilancia en materia de igualdad entre mujeres y hombres en el Estado.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 17.
 
-La coordinación y ejecución del Sistema Estatal y la aplicación del Programa, estarán a cargo del Instituto Chihuahuense de la Mujer.
+La coordinación y ejecución del Sistema Estatal y la aplicación del Programa, estarán a cargo del Instituto Chihuahuense de las Mujeres.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 18.
 
-El Instituto Chihuahuense de la Mujer, a través de su Consejo Directivo, sin menoscabo de las atribuciones que le confiere la Ley específica que lo rige, tendrá a su cargo la coordinación del Sistema Estatal, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
+El Instituto Chihuahuense de las Mujeres, a través de su Consejo Directivo, sin menoscabo de las atribuciones que le confiere la Ley específica que lo rige, tendrá a su cargo la coordinación del Sistema Estatal, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
 
 ### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -245,13 +255,17 @@ El Instituto Chihuahuense de la Mujer, a través de su Consejo Directivo, sin me
 
 El Sistema Estatal para la Igualdad entre Mujeres y Hombres es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen los entes públicos del Estado entre sí con la Federación, los municipios, sociedad civil organizada, instituciones académicas y de investigación. El Sistema Estatal tiene por fin garantizar la igualdad entre mujeres y hombres.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 20.
 
-El Instituto Chihuahuense de la Mujer, a través de su Consejo Directivo, coordinará las acciones que el Sistema Estatal genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter local o nacional.
+El Instituto Chihuahuense de las Mujeres, a través de su Consejo Directivo, coordinará las acciones que el Sistema Estatal genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter local o nacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 21.
 
-Al Consejo Directivo del Instituto Chihuahuense de la Mujer, corresponderá:
+Al Consejo Directivo del Instituto Chihuahuense de las Mujeres, corresponderá:
 
 I. Establecer lineamientos mínimos en materia de acciones afirmativas para la igualdad entre mujeres y hombres, con la finalidad de erradicar la violencia y la discriminación por razón del sexo;
 
@@ -281,15 +295,19 @@ XIII. Las demás que se requieran para el cumplimiento de los objetivos del Sist
 
 ### CAPÍTULO CUARTO. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 22.
 
-El Programa Estatal será elaborado por el Instituto Chihuahuense de la Mujer y tomará en cuenta las necesidades del Estado, así como las particularidades de la desigualdad en cada demarcación territorial. Este Programa deberá ajustarse e integrarse al Plan Estatal de Desarrollo.
+El Programa Estatal será elaborado por el Instituto Chihuahuense de las Mujeres y tomará en cuenta las necesidades del Estado, así como las particularidades de la desigualdad en cada demarcación territorial. Este Programa deberá ajustarse e integrarse al Plan Estatal de Desarrollo.
 
 Este Programa establecerá los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta lo establecido en la presente Ley. En aras de lograr la transversalidad, propiciará que los programas sectoriales, institucionales y especiales del Estado tomen en cuenta los criterios e instrumentos de esta Ley.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 23.
 
-El Instituto Chihuahuense de la Mujer deberá revisar y evaluar anualmente el Programa Estatal.
+El Instituto Chihuahuense de las Mujeres deberá revisar y evaluar anualmente el Programa Estatal.
 
 ###### Artículo 24.
 
@@ -451,15 +469,19 @@ III. Vigilar la integración de la perspectiva de género en la política públi
 
 ### CAPÍTULO PRIMERO. DE LA VIGILANCIA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2017)</small>
+
 ### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES
 
 ###### Artículo 37.
 
 Toda persona tendrá derecho a que las autoridades y organismos públicos del Estado, previo cumplimiento de los requisitos que la Ley de la materia establezca, pongan a su disposición la información que les soliciten sobre políticas, instrumentos y normas sobre igualdad entre mujeres y hombres.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 38.
 
-El Ejecutivo del Estado, por conducto del Instituto Chihuahuense de la Mujer, promoverá la participación de la sociedad en la planeación, diseño, formulación, ejecución y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta Ley.
+El Ejecutivo del Estado, por conducto del Instituto Chihuahuense de las Mujeres, promoverá la participación de la sociedad en la planeación, diseño, formulación, ejecución y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta Ley.
 
 ###### Artículo 39.
 
@@ -469,11 +491,13 @@ Los acuerdos y convenios que en materia de igualdad celebren el Ejecutivo del Es
 
 ###### Artículo 40.
 
-El Instituto Chihuahuense de la Mujer, con base en lo dispuesto en la presente Ley y sus mecanismos de coordinación, llevará a cabo el seguimiento, evaluación y monitoreo de la igualdad entre mujeres y hombres en el Estado.
+El Instituto Chihuahuense de las Mujeres, con base en lo dispuesto en la presente Ley y sus mecanismos de coordinación, llevará a cabo el seguimiento, evaluación y monitoreo de la igualdad entre mujeres y hombres en el Estado.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 41.
 
-El Instituto Chihuahuense de la Mujer, contará con un sistema de información para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia en el Estado.
+El Instituto Chihuahuense de las Mujeres, contará con un sistema de información para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia en el Estado.
 
 ###### Artículo 42.
 
@@ -511,7 +535,7 @@ Por tanto mando se imprima, publique, circule y se le de el debido cumplimiento.
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 18 DE DICIEMBRE DE 2013.
 
@@ -522,3 +546,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Una vez entrado en vigor el presente Decreto, la autoridad responsable contará con 180 días para realizar las adecuaciones reglamentarias procedentes.
+
+P.O. 18 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0215/2016 I P.O., MEDIANTE EL CUAL SE REFORMA EL DECRETO NO. 274-02 II P.O., LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA Y LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia que se haga en las diversas leyes, decretos, acuerdos o disposiciones legislativas y/o administrativas, laborales, bancarias, civiles o de cualquier índole o naturaleza relativas a la denominación de "Instituto Chihuahuense de la Mujer", se entiende referida a partir de la entrada en vigor del presente Decreto, hacia el "Instituto Chihuahuense de las Mujeres" en todos sus términos: por tanto, todos los compromisos, obligaciones, disposiciones o análogas de cualquier tipo, quedan en términos idénticos relativos y referidos a la segunda denominación, y subsistentes en todos sus alcances precisamente respecto al Organismo Público Descentralizado denominado "Instituto Chihuahuense de las Mujeres".
+
+Igualmente quedan subsistentes todos los compromisos, obligaciones, deudas y demás análogas, a cargo del organismo indicado como "Instituto Chihuahuense de las Mujeres", en los términos del presente artículo, y subsistentes de igual manera todos los títulos, propiedades, posesiones, acciones o derechos que correspondían o que en un futuro pudieran corresponder al otrora denominado "Instituto Chihuahuense de la Mujer", ahora a favor del "Instituto Chihuahuense de las Mujeres".
+
+###### ARTÍCULO TERCERO.
+
+Háganse por parte de la Directora General del "Instituto Chihuahuense de las Mujeres", todas las modificaciones documentales a que haya lugar, para que la razón social del Organismo quede ahora como "Instituto Chihuahuense de las Mujeres".
