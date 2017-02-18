@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2016-10-03"
+last_updated: "2017-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -321,13 +323,13 @@ El Consejo estará integrado por las personas que ocupen la titularidad de:
 
 I. La Secretaría de Desarrollo Social, a cargo de la presidencia;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2017)</small>
 
-II. El Instituto Chihuahuense de la Mujer, a cargo de la secretaría;
+II. El Instituto Chihuahuense de las Mujeres, a cargo de la secretaría;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2017)</small>
 
-III. La Fiscalía General del Estado, así como de la Secretaría de Cultura, Secretaría de Educación y Deporte y General de Gobierno;
+III. La Fiscalía General del Estado, así como de la Secretaría de Educación y Deporte, y General de Gobierno;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -339,9 +341,9 @@ V. Las dependencias y entidades encargadas de aplicar programas en favor de las 
 
 VI. Cuatro representantes de las organizaciones de la sociedad civil en el Estado que trabajen con y para las mujeres.
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2017)</small>
 
-VII. Quien presida la Comisión de Igualdad, Género y Familia del Poder Legislativo del Estado.
+VII. Quien presida la Comisión de Igualdad del Poder Legislativo del Estado.
 
 Podrán ser invitados a las sesiones del Consejo las y los Secretarios, Directores, Directoras, Coordinadores y Coordinadoras Generales o cualquier funcionario o funcionaria de la administración pública estatal, así como asesores externos, cuando por la naturaleza de algún asunto a tratar, y a consideración de la Presidencia del Consejo, sea necesario su punto de vista para la toma de decisiones, mismos que participarán dentro de él, con voz, pero sin voto.
 
@@ -531,9 +533,11 @@ XXI. Canalizar a las víctimas de violencia a las instituciones que les presten 
 
 XXII. Las demás previstas para el cumplimiento de la presente ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 29.
 
-Corresponde al Instituto Chihuahuense de la Mujer:
+Corresponde al Instituto Chihuahuense de las Mujeres:
 
 I. Presidir, en ausencia de la o el Presidente, las sesiones del Consejo;
 
@@ -573,8 +577,6 @@ XVIII. Promover la cultura de denuncia de la violencia contra las mujeres; y
 
 XIX. Las demás previstas para el cumplimiento de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 30.
@@ -603,7 +605,9 @@ X. Proporcionar a las mujeres víctimas de violencia, cuando ésta constituya un
 
 XI. Realizar ante hechos presumiblemente delictivos, los exámenes necesarios a las mujeres víctimas de violencia para determinar las alteraciones producidas en su estado de salud físico y emocional, así como su causa probable. Para tal fin, se aplicará el protocolo respectivo y se auxiliará por especialistas del sector salud;
 
-XII. Proporcionar información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres al Instituto Chihuahuense de la Mujer e instancias encargadas de realizar estadísticas;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2017)</small>
+
+XII. Proporcionar información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres al Instituto Chihuahuense de las Mujeres e instancias encargadas de realizar estadísticas;
 
 XIII. Proporcionar a las víctimas información sobre las instituciones públicas o privadas encargadas de brindarles asistencia;
 
@@ -1066,3 +1070,21 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 18 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0215/2016 I P.O., MEDIANTE EL CUAL SE REFORMA EL DECRETO NO. 274-02 II P.O., LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA Y LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia que se haga en las diversas leyes, decretos, acuerdos o disposiciones legislativas y/o administrativas, laborales, bancarias, civiles o de cualquier índole o naturaleza relativas a la denominación de "Instituto Chihuahuense de la Mujer", se entiende referida a partir de la entrada en vigor del presente Decreto, hacia el "Instituto Chihuahuense de las Mujeres" en todos sus términos; por tanto, todos los compromisos, obligaciones, disposiciones o análogas de cualquier tipo, quedan en términos idénticos relativos y referidos a la segunda denominación, y subsistentes en todos sus alcances precisamente respecto al Organismo Público Descentralizado denominado "Instituto Chihuahuense de las Mujeres".
+
+Igualmente quedan subsistentes todos los compromisos, obligaciones, deudas y demás análogas, a cargo del organismo indicado como "Instituto Chihuahuense de las Mujeres" en los términos del presente artículo, y subsistentes de igual manera todos los títulos, propiedades, posesiones, acciones o derechos que correspondían o que en un futuro pudieran corresponder al otrora denominado "Instituto Chihuahuense de la Mujer” ahora a favor del ''Instituto Chihuahuense de las Mujeres".
+
+###### ARTÍCULO TERCERO.
+
+Háganse por parte de la Directora General del "Instituto Chihuahuense de las Mujeres", todas las modificaciones documentales a que haya lugar, para que la razón social del Organismo quede ahora como "Instituto Chihuahuense de las Mujeres''.
