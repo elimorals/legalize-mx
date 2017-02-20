@@ -4,7 +4,7 @@ identifier: "AGU-ley-sobre-el-uso-de-medios-electronicos-para-el-estado-de-95956
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-23"
-last_updated: "2013-09-23"
+last_updated: "2017-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2017.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de septiembre de 2013.
 
@@ -59,41 +59,63 @@ b) Los actos o procedimientos que por disposición legal exijan una formalidad q
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Autoridad Certificadora: Al órgano designado por el Poder Ejecutivo, que tiene a su cargo los servicios de certificación de firma electrónica;
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2017)</small>
 
-II. Certificado Electrónico: El documento firmado electrónicamente por un Prestador de Servicios de Certificación que vincula los datos de firma a su autor y confirma su identidad;
+I. Actos: las comunicaciones, trámites, servicios, actos jurídicos y administrativos, así como procedimientos administrativos en los cuales los particulares y los servidores públicos de las dependencias y entidades de la Administración Pública Estatal y Municipal, que utilicen la firma electrónica avanzada; y
 
-III. Contraloría: La Secretaría de Fiscalización y Rendición de Cuentas;
+II. Autoridad Certificadora: Al órgano designado por el Poder Ejecutivo, que tiene a su cargo los servicios de certificación de firma electrónica;
 
-IV. Datos de Creación de Firma Electrónica: Los datos únicos, las claves o llaves criptográficas privadas que el titular obtiene del Prestador de Servicios de Certificación y se utilizan para crear la Firma Electrónica;
+III. Certificado Electrónico: El documento firmado electrónicamente por un Prestador de Servicios de Certificación que vincula los datos de firma a su autor y confirma su identidad;
 
-V. Dispositivo de Creación de Firma Electrónica: El mecanismo o instrumento por medio del cual se capta o recepta la Firma Electrónica o mensaje de datos y que al firmar el mismo le dan a éste un carácter único que asocia de manera directa el contenido del documento con la Firma Electrónica del firmante;
+IV. Contraloría: La Secretaría de Fiscalización y Rendición de Cuentas;
 
-VI. Dispositivo de Verificación de Firma Electrónica: La aplicación por medio de la cual se verifican los datos de creación de Firma Electrónica para determinar si un documento o mensaje de datos, ha sido firmado utilizando la clave o llave criptográfica privada controlada por el firmante, permitiendo asociar la identidad del firmante con el contenido del documento o mensaje de datos por tener éste el resguardo físico y el control personal del Certificado Electrónico;
+V. Datos de Creación de Firma Electrónica: Los datos únicos, las claves o llaves criptográficas privadas que el titular obtiene del Prestador de Servicios de Certificación y se utilizan para crear la Firma Electrónica;
 
-VII. Documento Electrónico: El documento o archivo electrónico en cualquier formato sea este alfanumérico, de video o audio el cual sea firmado con un Certificado Electrónico con validez jurídica;
+VI. Dispositivo de Creación de Firma Electrónica: El mecanismo o instrumento por medio del cual se capta o recepta la Firma Electrónica o mensaje de datos y que al firmar el mismo le dan a éste un carácter único que asocia de manera directa el contenido del documento con la Firma Electrónica del firmante;
 
-VIII. Entes Públicos: Los Poderes Ejecutivo, Legislativo y Judicial; Organismos Paraestatales y Ayuntamientos;
+VII. Dispositivo de Verificación de Firma Electrónica: La aplicación por medio de la cual se verifican los datos de creación de Firma Electrónica para determinar si un documento o mensaje de datos, ha sido firmado utilizando la clave o llave criptográfica privada controlada por el firmante, permitiendo asociar la identidad del firmante con el contenido del documento o mensaje de datos por tener éste el resguardo físico y el control personal del Certificado Electrónico;
 
-IX. Fecha Electrónica: El conjunto de datos en forma electrónica utilizados como medio para constatar la fecha y hora en que un mensaje de datos es enviado por el firmante o recibido por el destinatario;
+VIII. Documento Electrónico: El documento o archivo electrónico en cualquier formato sea este alfanumérico, de video o audio el cual sea firmado con un Certificado Electrónico con validez jurídica;
 
-X. Firma Electrónica Avanzada o Fiable: La que es generada con un certificado reconocido legalmente a través de un dispositivo seguro de creación de firma y tiene, en relación a la información firmada, un valor jurídico equivalente al de la firma Autógrafa;
+IX. Entes Públicos: Los Poderes Ejecutivo, Legislativo y Judicial; Organismos Paraestatales y Ayuntamientos;
 
-XI. Ley: La Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes;
+X. Fecha Electrónica: El conjunto de datos en forma electrónica utilizados como medio para constatar la fecha y hora en que un mensaje de datos es enviado por el firmante o recibido por el destinatario;
 
-XII. Medios Electrónicos: Dispositivos Tecnológicos para transmitir o almacenar datos de información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas o de cualquier otra tecnología;
+XI. Firma Electrónica Avanzada o Fiable: La que es generada con un certificado reconocido legalmente a través de un dispositivo seguro de creación de firma y tiene, en relación a la información firmada, un valor jurídico equivalente al de la firma Autógrafa;
 
-XIII. Prestador de Servicios de Certificación: La persona moral o física que preste servicios relacionados con firmas electrónicas y que expide Certificados Electrónicos;
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2017)</small>
 
-XIV. Sello Electrónico.- Es una cadena de caracteres que está asociada al emisor del documento y a los datos emitidos que permiten conocer si el documento es auténtico o ha sido alterado;
+XII. Firmante: la persona o proceso que utiliza los datos de Firma Electrónica Avanzada o Fiable;
 
-XV. Titulares de Certificados de Firma Electrónica: Los ciudadanos, representantes légales de empresas o Entidades Públicas, Privados y Servidores Públicos que posean un Certificado Electrónico con validez jurídica; y
+XIII. Ley: La Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes;
 
-XVI. Unidad de Firma Electrónica: La Oficina Administrativa responsable de ejercer las atribuciones en materia de registro de prestadores de servicios de certificación relacionados con la Firma Electrónica.
+XIV. Medios Electrónicos: Dispositivos Tecnológicos para transmitir o almacenar datos de información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas o de cualquier otra tecnología;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2017)</small>
+
+XV. Mensaje de Datos: La información generada, enviada, recibida, archivada o comunicada a través de medios de comunicación electrónica, que puede tener documentos electrónicos;
+
+XVI. Prestador de Servicios de Certificación: La persona moral o física que preste servicios relacionados con firmas electrónicas y que expide Certificados Electrónicos;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2017)</small>
+
+XVII. Sello Electrónico: Es una cadena de caracteres que está asociada al emisor del documento y a los datos emitidos que permiten conocer si el documento es auténtico o ha sido alterado;
+
+XVIII. Titulares de Certificados de Firma Electrónica: Los ciudadanos, representantes légales de empresas o Entidades Públicas, Privados y Servidores Públicos que posean un Certificado Electrónico con validez jurídica; y
+
+XIX. Unidad de Firma Electrónica: La Oficina Administrativa responsable de ejercer las atribuciones en materia de registro de prestadores de servicios de certificación relacionados con la Firma Electrónica.
 
 ###### ARTÍCULO 3°.
 
 Los Entes Públicos deberán gestionar el uso de la Firma Electrónica para dar trámite a los asuntos y documentos que generen sean internos o externos así como los trámites y servicios que tramiten a la ciudadanía; sin perjuicio que puedan seguir emitiendo documentos con firma autógrafa.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2017)</small>
+
+Los Titulares de los Entes Públicos determinarán los servidores públicos que, para los efectos de su cargo, realizarán el trámite correspondiente para la obtención y/o uso de la Firma Electrónica Avanzada; o bien, éstos serán los que establezca la normatividad interna de la dependencia o entidad pública de que se trate.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2017)</small>
+
+Para la obtención de la Firma Electrónica Avanzada, el solicitante realizará el trámite correspondiente ante la autoridad certificadora o con los prestadores de servicios de certificación, cumpliendo los requisitos y procedimientos establecidos en el Reglamento.
 
 ###### ARTÍCULO 4°.
 
@@ -191,21 +213,29 @@ Los Entes Públicos deberán utilizar Certificados Electrónicos emitidos por la
 
 El Prestador de Servicios de Certificación comprobará la identidad del Servidor Público facilitando los medios tecnológicos para la creación del Certificado Electrónico con validez jurídica y asegurándose de que tal certificado sea generado y quede bajo el control exclusivo del titular del certificado.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 17.
 
-Los Certificados Electrónicos serán expedidos a los Servidores Públicos por los Prestadores de Servicios de Certificación que sean registrados, previo cumplimiento de todos los requerimientos que se establezcan al efecto.
+Los Certificados Electrónicos serán expedidos a los Servidores Públicos por los Prestadores de Servicios de Certificación que sean registrados, previo cumplimiento de todos los requerimientos que se establezcan para tal efecto.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 18.
 
-Todos los documentos electrónicos y en general los que emitan los servidores públicos habilitados bajo el sistema de Firma Electrónica deberán especificar su fecha y hora de creación, así como fecha de expiración del cargo conforme la norma de metrología aplicable.
+Todos los documentos electrónicos y en general los que emitan los servidores públicos habilitados bajo el sistema de Firma Electrónica deberán especificar su fecha y hora de creación, así como la fecha de expiración del cargo conforme a la norma de metrología aplicable.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 19.
 
-Los Entes Públicos deberán contar con una infraestructura segura de resguardo o archivo de documentos electrónicos oficiales, que permita la debida clasificación y disponibilidad de los documentos en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+Los Entes Públicos deberán contar con una infraestructura segura de resguardo o archivo de documentos electrónicos oficiales, que permita la debida clasificación y disponibilidad de los documentos en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
-Para la conservación, almacenamiento y disponibilidad de los documentos electrónicos se estará a lo señalado en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, así como en las normas aplicables que para tal efecto se expidan.
+Para la conservación, almacenamiento y disponibilidad de los documentos electrónicos se deberá cumplir lo señalado en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, así como en las normas aplicables que para tal efecto se expidan.
 
 ###### ARTÍCULO 21.
 
@@ -217,7 +247,9 @@ Tales datos determinarán para todos los efectos de Ley la vigencia y vencimient
 
 Los Entes Públicos habilitarán, en sus respectivos ámbitos de competencia, un portal de internet y un correo electrónico, podrán asimismo habilitar cuentas en redes sociales de internet a efecto de difundir la información relativa a los servicios públicos y trámites administrativos prestados en el ámbito de sus respectivas competencias.
 
-Corresponderá a la Unidad de Firma Electrónica la gestión de un portal de internet único denominado "Progreso para Todos" que concentrara la información de los servicios públicos y trámites administrativos prestados por cada uno de los Entes Públicos.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2017)</small>
+
+Corresponderá a la Unidad de Firma Electrónica la gestión de un portal de internet único que concentrará la información de los servicios públicos y trámites administrativos prestados por cada uno de los Entes Públicos.
 
 El Sistema de Gobierno Electrónico del Estado de Aguascalientes se regirá por los siguientes principios rectores:
 
@@ -233,7 +265,17 @@ e) Participación Multisectorial: Impulsar la colaboración del Sector Privado y
 
 f) Seguridad: Disponer de adecuados niveles de seguridad que garanticen la protección de datos personales de conformidad con lo establecido en los ordenamientos aplicables.
 
-g) Simplificación Administrativa: Procurar la reducción de los requisitos y formalidades para la atención, y en su caso, sustanciación electrónica de los servicios públicos y trámites administrativos.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2017)</small>
+
+g) Simplificación Administrativa: Procurar la reducción de los requisitos y formalidades para la atención, y en su caso, sustanciación electrónica de los servicios públicos y trámites administrativos;
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2017)</small>
+
+h) Compatibilidad Internacional: La observación en el cumplimiento de los estándares internacionales; y
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2017)</small>
+
+i) Neutralidad Tecnológica: La utilización de cualquier tecnología sin que se favorezca alguna en particular.
 
 ### CAPÍTULO IV. De los Derechos y Obligaciones de los Titulares de Certificados de Firma Electrónica y de los Prestadores del Servicio de Certificación
 
@@ -339,7 +381,9 @@ Los Certificados Electrónicos dejarán de surtir efectos en los siguientes caso
 
 I. Expiración de vigencia del certificado el cual no podrá ser superior a 6 años; contados a partir de la fecha en que se hubiese expedido. Tratándose de servidores públicos no podrá ser superior a la duración de su encargo. Antes que concluya el periodo de vigencia podrá el firmante renovarlo ante el Prestador de Servicios de Certificación;
 
-II. Cancelación por el Prestador de Servicios de Certificación, a solicitud del firmante o por la persona física o moral representada por este o por un tercer autorizado;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2017)</small>
+
+II. Cancelación por el Prestador de Servicios de Certificación, a solicitud del firmante o por la persona física o moral representada por este o por un tercero autorizado;
 
 III. Por la pérdida o inutilización por daños del dispositivo que contenga dicho certificado;
 
@@ -353,7 +397,9 @@ VII. Fallecimiento del firmante o interdicción judicialmente declarada;
 
 VIII. Falsedad o inexactitud de los datos proporcionados por el firmante al momento de la obtención del Certificado Electrónico;
 
-IX. Terminación de actividades del Prestador de Servicios de Certificación, autorizada o comprobada por la unidad de firma electrónica correspondiente, cuando la Administración de dicho certificado no haya sido transferida a otro Prestador de Servicios de Certificación, en cuyo caso se deberá notificar al titular del certificado y en su caso recaba (sic) la autorización del firmante; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2017)</small>
+
+IX. Terminación de actividades del Prestador de Servicios de Certificación, autorizada o comprobada por la unidad de firma electrónica correspondiente, cuando la Administración de dicho certificado no haya sido transferida a otro Prestador de Servicios de Certificación, en cuyo caso se deberá notificar al titular del certificado y en su caso recabar la autorización del firmante; y
 
 X. Por resolución judicial o de autoridad competente que lo ordene.
 
@@ -375,9 +421,11 @@ II. Que fueron emitidos por un Prestador de Servicios de Certificación reconoci
 
 III. Que sean emitidos por autoridades Certificadoras de otros países siempre que se encuentren vigentes y hubiesen sido generados de acuerdo a su marco legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 32.
 
-El dispositivo de seguro de creación de firma deberá proporcionar las siguientes condiciones:
+El dispositivo seguro de creación de firma deberá proporcionar las siguientes condiciones:
 
 I. Que los contenidos que integran y distinguen el carácter específico del documento son únicos, pues se pueden originar una sola vez, resguardando de esta manera la integridad del documento o mensaje de datos;
 
@@ -417,7 +465,9 @@ b) Las instituciones públicas conforme a las Leyes que le son aplicables;
 
 c) Los Notarios Públicos y Corredores Públicos; y
 
-d) Las personas morales de carácter privado que contengan esa función dentro de su objeto social en la (sic) Acta Constitutiva.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2017)</small>
+
+d) Las personas morales de carácter privado que contengan esa función dentro de su objeto social en el Acta Constitutiva.
 
 ###### ARTÍCULO 35.
 
@@ -522,3 +572,21 @@ Dip. Kendor Gregorio Macías Martínez,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 20 de septiembre de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 59.- SE REFORMAN LOS ARTÍCULOS 17, 18, 19, 20, 22, 28, 32, 34; Y SE ADICIONAN LOS ARTÍCULOS 2°, 3° Y 22 DE LA LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado de Aguascalientes, en un plazo de 180 días hábiles contados a partir de la publicación del presente Decreto, deberá reformar y/o adicionar en consonancia con el presente Decreto, el Reglamento de la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
