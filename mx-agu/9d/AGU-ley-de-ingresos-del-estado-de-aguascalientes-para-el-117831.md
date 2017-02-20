@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-117831"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2017-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2017.
 
 Ley publicada en el Extraordinario de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el sábado 31 de diciembre de 2016.
 
@@ -273,9 +273,11 @@ Por el uso o goce y por la prestación de servicios de las Autoridades de la Sec
 
 ### CAPÍTULO XI. Por los Servicios prestados conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 14.
 
-Por la prestación de servicios a que se refiere el Artículo 29 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, se causarán y pagarán los derechos correspondientes, aplicando las siguientes tarifas:
+Por la prestación de servicios a que se refiere el Artículo 74 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, se causarán y pagarán los derechos correspondientes, aplicando las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TARIFA EN LA PRIMERA SECCIÓN DEL P.O. 31 DE DICIEMBRE DE 2016, PÁGINAS 30 Y 31.]</small>
 
@@ -545,7 +547,7 @@ Los ingresos por concepto del Impuesto Sobre Tenencia o Uso de Vehículos Automo
 
 Al Ejecutivo para su promulgación y publicación.
 
-Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", del Palacio Legislativo, a los veintidós días del mes de diciembre del año dos mil dieciséis.
+Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los veintidós días del mes de diciembre del año dos mil dieciséis.
 
 Lo que tenemos el honor de comunicar a usted, para los efectos Constitucionales conducentes.
 
@@ -568,3 +570,17 @@ Arturo Fernández Estrada,
 DIPUTADO SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 30 de diciembre de 2016.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Francisco Javier Luévano Núñez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 61.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 14 DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2017".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan Derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
