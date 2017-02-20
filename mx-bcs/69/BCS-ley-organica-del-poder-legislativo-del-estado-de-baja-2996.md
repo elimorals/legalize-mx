@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2016-12-31"
+last_updated: "2017-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE FEBRERO DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -597,9 +597,9 @@ XIV.- DE CUENTA Y ADMINISTRACION.
 
 XV.- DE GESTORIA Y QUEJAS.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 20 DE FEBRERO DE 2017)</small>
 
-XVI.- DE EDITORIAL, ACERVO LEGISLATIVO Y CONSTITUCIONAL.
+XVI.- DE LA COMISIÓN EDITORIAL, ACERVO LEGISLATIVO Y CONSTITUCIONAL.
 
 XVII.- DE CORRECCION Y ESTILO.
 
@@ -933,9 +933,9 @@ b).- Lo relativo a la recepción, atención y seguimiento a demandas de la pobla
 
 c).- Las demás que le encomiende la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 20 DE FEBRERO DE 2017)</small>
 
-XVI.- DE LA COMISIÓN EDITORIAL Y ACERVO LEGISLATIVO.
+XVI.- DE LA COMISIÓN EDITORIAL, ACERVO LEGISLATIVO Y CONSTITUCIONAL.
 
 a).- La divulgación y difusión de las actividades de la Legislatura, de las Comisiones y de los Diputados.
 
@@ -991,7 +991,7 @@ d).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gob
 
 > <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2000)</small>
 
-XX.- DE LA COMISION DE SEGURIDAD PUBLICA:
+XX.- DE LA COMISIÓN DE SEGURIDAD PÚBLICA:
 
 a).- Los convenios de coordinación que celebre el Gobierno del Estado con la Federación o con los Ayuntamientos en materia de Seguridad Pública;
 
@@ -1127,9 +1127,9 @@ r).- Los asuntos a las relaciones con las demás dependencias y entidades de la 
 
 s).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 2017)</small>
 
-t).- Presentar para su aprobación y/o modificación ante el pleno en sesión pública, el Reglamento de la Unidad de Acceso a la Información Pública del Congreso del Estado;
+t).- Presentar para su aprobación y/o modificación ante el Pleno en Sesión Pública, el Reglamento de Transparencia del Poder Legislativo del Estado de Baja California Sur.
 
 u).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
@@ -1219,15 +1219,21 @@ XXIX.- DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES.
 
 a).- Lo referente a garantizar el ejercicio pleno del interés de la niñez previsto en la Constitución Política del Estado de Baja California Sur, en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales.
 
-b).- Lo referente a las acciones encaminadas a promover el respeto de los derechos humanos de las niñas, niños y adolescentes, y Jóvenes a través de la vinculación interinstitucional y la sociedad civil.
+> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 2017)</small>
+
+b).- Lo referente a las acciones encaminadas a promover el respeto de los derechos humanos de las Niñas, Niños y Adolescentes a través de la vinculación interinstitucional y la sociedad civil.
 
 c).- Lo referente a la armonización de la legislación y de los Derechos de los Niños, Niñas y Adolescentes, atendiendo los principales retos y problemáticas.
 
 d).- Lo referente a la problemática concurrente del gobierno estatal, Municipal y delegaciones federales, con los organismos internacionales competentes y la sociedad civil.
 
-d) (sic).- Lo que tienda a impulsar al mejoramiento y desarrollo de los jóvenes.
+> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 2017)</small>
 
-e).- Las que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+e).- Lo que tienda a impulsar al mejoramiento y desarrollo de las Niñas, Niños y Adolescentes, y
+
+> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 2017)</small>
+
+f).- Las que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2095,7 +2101,7 @@ Cuando algún Diputado de los que hayan solicitado la palabra, no estuviere en l
 
 ###### ARTICULO 132.
 
-Si en el curso de las discusiones, el orador, con el propósito de allegar más luz en los debates interpela a uno o más de los Diputados, estos podrán discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios Diputados, se contestarán en el orden en que hubieren sido hechas; pudiendo contestar también por todos uno solo de los interpelados autorizado por los demás.
+Si en el curso de las discusiones, el orador, con el propósito de allegar más luz en los debates interpela a uno o más de los Diputados, estos podrán discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios Diputados, se contestarán en el órden en que hubieren sido hechas; pudiendo contestar también por todos uno solo de los interpelados autorizado por los demás.
 
 ###### ARTICULO 133.
 
@@ -3031,7 +3037,7 @@ B.O. 31 DE DICIEMBRE DE 2000.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 19 DE JUNIO DE 2001.
 
@@ -3107,7 +3113,7 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 B.O. 31 DE DICIEMBRE DE 2007.
 
-ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+ÚNICO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 10 DE MARZO DE 2008.
 
@@ -3263,12 +3269,22 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el
 
 SEGUNDO.- Para los efectos de lo dispuesto por el artículo 41 mediante el cual determina que la representación del Congreso del Estado recaerá en el Presidente de la Mesa Directiva de cada periodo, entrará en vigor a partir del día de toma de protesta de la XV Legislatura del Congreso del Estado de Baja California Sur.
 
-TERCERO.- El Comité y la Unidad de Transparencia del Congreso del Estado de Baja California Sur, por única ocasión deberán quedar instalados dentro de los 15 días naturales siguientes a la entrada en vigor el presente Decreto.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE FEBRERO DE 2017)</small>
+
+TERCERO.- El Comité y la Unidad de Transparencia del Congreso del Estado de Baja California Sur, por única ocasión deberán quedar instalados antes del 15 de abril del año 2017.
 
 Los recursos materiales y humanos que actualmente se encuentran asignados a la Unidad de Información del Congreso del Estado, pasarán a formar parte de la Unidad de Transparencia.
 
-CUARTO.- El Congreso del Estado de Baja California Sur, deberá expedir a los 30 días naturales siguientes a la entrada en vigor del presente Decreto, el Reglamento de Transparencia del Poder Legislativo del Estado de Baja California Sur, en el cual se especifiquen las atribuciones y facultades del Comité y la Unidad de Transparencia, así como las demás disposiciones que se observarán al interior del Poder Legislativo para garantizar el acceso a la información.
+> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 2017)</small>
+
+CUARTO.- El Congreso del Estado de Baja California Sur, deberá a mas tardar el 30 de abril de 2017, expedir el Reglamento de Transparencia del Poder Legislativo del Estado de Baja California Sur, en el cual se especifiquen las atribuciones y facultades del Comité y la Unidad de Transparencia, así como las demás disposiciones que se observarán al interior del Poder Legislativo para garantizar el acceso a la información.
 
 QUINTO.- En el presupuesto del Congreso del Estado de Baja California Sur, para el ejercicio fiscal 2017, se deberán considerar los recursos necesarios para el cumplimiento de las obligaciones en materia de transparencia y el correcto funcionamiento del Comité y la Unidad de Transparencia, así como la página de internet de (sic) Congreso del Estado de Baja California Sur.
 
 SEXTO.- Para la integración de las Comisiones de Desarrollo Social, de los Derechos de la (sic) Niñas, Niños y Adolescentes, De protección Civil, de Infraestructura, y la de la Juventud, tendrán 4 meses a partir de la publicación del presente Decreto.
+
+B.O. 20 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2428 SE REFORMAN LOS ARTÍCULOS TRANSITORIOS TERCERO PRIMER PÁRRAFO Y CUARTO DEL DECRETO NÚMERO 2416 EXPEDIDO POR EL HONORABLE CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR, TOMO XLIII , NÚMERO 50, DE FECHA 31 DE DICIEMBRE DE 2016; ASÍ COMO SE REFORMA LA DENOMINACIÓN DE LA FRACCIÓN XVI DEL ARTÍCULO 54; LA DENOMINACIÓN DE LA FRACCIÓN XVI DEL ARTÍCULO 55; EL INCISO T) DE LA FRACCIÓN XXIV DEL ARTÍCULO 55; EL INCISO B) DE LA FRACCIÓN XXIX DEL ARTÍCULO 55; EL SEGUNDO INCISO D) PASA A SER INCISO E), Y EL ACTUAL E) PASA A SER INCISO F) DE LA FRACCIÓN XXIX DEL ARTÍCULO 55, TODOS DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
