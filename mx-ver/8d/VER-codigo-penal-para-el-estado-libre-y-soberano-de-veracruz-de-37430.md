@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2017-01-03"
+last_updated: "2017-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE FEBRERO DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1655,9 +1655,17 @@ I. Que se cometa por dos o más personas;
 
 II. Que el responsable fuere ascendiente, descendiente, adoptante, adoptado, hermano, hermana, padrastro, madrastra o tutor de la víctima; fuere o haya sido concubina, concubinario, amasia, amasio o pareja sentimental del padre o de la madre de la víctima.
 
-III. Que el responsable tenga bajo su custodia, guarda o educación a la víctima; o
+> <small>(REFORMADA, G.O. 20 DE FEBRERO DE 2017)</small>
 
-IV. Que se cometa por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión, empleo o ministerio religioso, utilizando los medios o circunstancias que ello le proporciona.
+III. Que el responsable tenga bajo su custodia, guarda o educación a la víctima;
+
+> <small>(REFORMADA, G.O. 20 DE FEBRERO DE 2017)</small>
+
+IV. Que se cometa por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión, empleo o ministerio religioso, utilizando los medios o circunstancias que ello le proporciona; o
+
+> <small>(ADICIONADA, G.O. 20 DE FEBRERO DE 2017)</small>
+
+V. Que se obligue a la víctima a consumir, o se le suministre sin su consentimiento, drogas, estupefacientes, psicotrópicos o cualquier otra sustancia tóxica que imposibilite su defensión de manera total, parcial, momentánea o permanente.
 
 Además de las sanciones arriba señaladas, en los casos respectivos, el responsable perderá la patria potestad o la tutela, así como el derecho de heredar, por ley, del ofendido.
 
@@ -1797,9 +1805,17 @@ II. El sujeto activo del delito tuviere relación de parentesco de cualquier tip
 
 III. El sujeto activo del delito tuviere una relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole con la víctima, o desempeñare un ministerio religioso, cargo o comisión públicos o una profesión o empleo, y hubiese utilizado los medios o circunstancias que ello le proporcionaba para cometer el delito;
 
-IV. El sujeto activo se aproveche de la confianza, ignorancia, extrema necesidad económica o alimentaria o subordinación de la víctima, o de la relación de superioridad o de cualquier índole que sobre ésta tenga; o
+> <small>(REFORMADA, G.O. 20 DE FEBRERO DE 2017)</small>
 
-V. El sujeto activo hubiese contactado y propuesto a la víctima, mediante el uso de internet, telefonía o de cualquier otra tecnología de la información y la comunicación, un encuentro para cometer este delito.
+IV. El sujeto activo se aproveche de la confianza, ignorancia, extrema necesidad económica o alimentaria o subordinación de la víctima, o de la relación de superioridad o de cualquier índole que sobre ésta tenga;
+
+> <small>(REFORMADA, G.O. 20 DE FEBRERO DE 2017)</small>
+
+V. El sujeto activo hubiese contactado y propuesto a la víctima mediante el uso de internet, telefonía o de cualquier otra tecnología de la información y la comunicación, un encuentro para cometer este delito; o
+
+> <small>(ADICIONADA, G.O. 20 DE FEBRERO DE 2017)</small>
+
+VI. Si el sujeto activo obliga a la víctima a consumir, o le suministra sin su consentimiento, drogas, estupefacientes, psicotrópicos o cualquier otra sustancia tóxica que imposibilite su defensión de manera total, parcial, momentánea o permanente.
 
 En estos supuestos, se impondrán al activo de doce a cuarenta años de prisión y multa de hasta cinco mil días de salario.
 
@@ -2030,6 +2046,10 @@ b) Adquieran, oculten o comercialicen los bienes producto del robo a escuelas; o
 > <small>(ADICIONADO, G.O. 9 DE JULIO DE 2013)</small>
 
 c) El objeto del robo sean vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitidos por personas morales utilizados para canjear bienes y servicios.
+
+> <small>(ADICIONADO, G.O. 20 DE FEBRERO DE 2017)</small>
+
+D) Cuando se cometa por elementos de los cuerpos policiacos o de procuración de justicia durante un incendio, naufragio, inundación, cualquier fenómeno climatológico u otra calamidad pública, aprovechándose del desorden y confusión que producen o de la consternación que una desgracia privada causa al ofendido y a su familia.
 
 > <small>(REFORMADO, G.O. 20 DE ABRIL DE 2015)</small>
 
@@ -2356,6 +2376,10 @@ A quien, sin importar el material ni los instrumentos utilizados, pinte, tiña, 
 ###### Artículo 229.
 
 A quien, después de la ejecución del delito y sin haber participado en él, adquiera, reciba u oculte el producto del mismo, a sabiendas de que provenía de éste o si, de acuerdo con las circunstancias, debía presumir su procedencia ilegítima, así como a quien ayude a otro para los mismos fines, se le impondrán de dos a seis años de prisión y multa hasta de trescientos días de salario. Si el delito se comete con ánimo de lucro, la prisión será de cuatro a nueve años y la multa hasta de quinientos días de salario.
+
+> <small>(ADICIONADO, G.O. 20 DE FEBRERO DE 2017)</small>
+
+Si el delito se comete por elementos de los cuerpos policiacos o de procuración de justicia, la prisión será de cinco a diez años, además de la inhabilitación hasta por quince años para ejercer la función pública.
 
 ### CAPÍTULO IV. TRÁFICO DE MENORES
 
@@ -4343,23 +4367,21 @@ Primero. El presente Decreto entrará en vigor el día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO SEXTO TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA POLÍTICA-ELECTORAL”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 10 DE FEBRERO DE 2014”.]
+G.O. 20 DE FEBRERO DE 2017.
 
-Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 241 QUE ADICIONA EL INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 205 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 229 DEL CÓDIGO PENAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-D.O.F. 14 DE MARZO DE 2019.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN EL ARTÍCULO 22 Y LA FRACCIÓN XXX DEL ARTÍCULO 73, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE EXTINCIÓN DE DOMINIO".]
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+G.O. 20 DE FEBRERO DE 2017.
 
-Segundo. El Congreso de la Unión, en un plazo de 180 días posteriores al inicio de vigencia de este Decreto expedirá la legislación nacional única en materia de extinción de dominio.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 242 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE DELITOS DE VIOLACIÓN Y PEDERASTIA”.]
 
-Tercero. La Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política (sic) los Estados Unidos Mexicanos, así como la legislación respectiva del ámbito local, seguirán en vigor hasta en tanto el Congreso de la Unión expida la legislación nacional única en materia de extinción de dominio que ordena el presente Decreto.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-Cuarto. Los procesos en materia de extinción de dominio iniciados con fundamento en la legislación federal y local referida en el artículo transitorio anterior, así como las sentencias dictadas con base en las mismas, no se verán afectados por la entrada en vigor del presente Decreto, y deberán concluirse y ejecutarse conforme al orden constitucional y legal vigente al momento de su inicio.
-
-D.O.F. 26 DE MARZO DE 2019.
+Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE GUARDIA NACIONAL”.]
 
