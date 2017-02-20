@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-asociaciones-publico-privadas-89912"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-05"
-last_updated: "2014-10-31"
+last_updated: "2017-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2012-10-30"
 ---
 # REGLAMENTO DE LA LEY DE ASOCIACIONES PUBLICO PRIVADAS
 
-REGLAMENTO DE LA LEY DE ASOCIACIONES PUBLICO PRIVADAS
+REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 5 de noviembre de 2012.
 
@@ -61,7 +61,9 @@ III. Con aportaciones distintas a numerario, incluyendo el otorgamiento de las a
 
 Para efectos de la inversión requerida por el proyecto de asociación público privada, se entenderá lo siguiente:
 
-a) Se considerará que un proyecto de asociación público-privada es un proyecto puro, cuando los recursos para el pago de la prestación de los servicios al sector público o al usuario final y los costos de inversión, operación, mantenimiento y conservación de la infraestructura, provengan en su totalidad de los previstos en la fracción I anterior,
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+a) Se considerará que un proyecto de Asociación Público Privada es un proyecto puro, cuando los recursos para el pago de la prestación de los servicios al sector público o al usuario final y los costos de inversión, operación, mantenimiento y conservación de la infraestructura, provengan en su totalidad de los previstos en las fracciones I y II del párrafo anterior;
 
 b) Se entenderá que un proyecto de asociación público-privada es un proyecto combinado, cuando los recursos para el pago de la prestación de servicios al sector público o al usuario final y los costos de inversión, operación, mantenimiento y conservación de la infraestructura, provengan del sector público, ya sea a través de una o más de las modalidades a que se refieren las fracciones I y II anteriores, y de una fuente de pago diversa a las anteriores, y
 
@@ -107,7 +109,9 @@ I. Los análisis y estudios previos a que se refiere el capítulo segundo de la 
 
 II. Las propuestas no solicitadas que se presenten conforme al capítulo tercero de la Ley;
 
-III. Los relativos a los procedimientos de adjudicación que se realicen en términos del capítulo cuarto de la Ley;
+> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+III. Los relativos a los procedimientos de contratación que se realicen en términos del Capítulo Cuarto de la Ley;
 
 IV. Las autorizaciones para el desarrollo del proyecto y en las solicitudes que al efecto se presenten, y
 
@@ -133,9 +137,7 @@ III. Comisión: Comisión Intersecretarial de Gasto Público, Financiamiento y D
 
 IV. Concurso: El procedimiento de contratación a través de licitación pública mediante convocatoria, en términos del tercer párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
-
-V. Dependencias: Las Secretarías de Estado, la Consejería Jurídica del Ejecutivo Federal y los órganos reguladores coordinados en materia energética;
+V. (DEROGADA, D.O.F. 20 DE FEBRERO DE 2017)
 
 > <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
@@ -183,45 +185,71 @@ El registro único de desarrolladores tiene por objeto la publicidad y transpare
 
 Los interesados podrán solicitar a la Función Pública modificaciones a las inscripciones en el registro citado, relativas a proyectos en los que hayan participado, a cuyo efecto deberán aportarle la documentación que justifique su solicitud. En caso de que así lo considere necesario, la Función Pública podrá solicitar la opinión de la dependencia o entidad federal implicada para proceder a las modificaciones solicitadas.
 
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 14.
 
-En ningún caso la información contenida en CompraNet y en la página web de las dependencias y entidades federales deberá incluir información de naturaleza reservada o confidencial en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, o de las demás disposiciones aplicables.
+En ningún caso la información contenida en CompraNet y en la Página web de las Dependencias y Entidades Federales deberá incluir información de naturaleza reservada o confidencial en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 15.
 
 Las dependencias y entidades federales que participen en cualquier actividad que genere información a que aluden los artículos de la presente sección, deberán ingresarla a CompraNet dentro de los diez días naturales inmediatos siguientes a la fecha en que haya sido generada, salvo que otra disposición señale un plazo diferente.
 
-#### Sección Tercera. De la Información a la Cámara de Diputados del Congreso de la Unión
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE FEBRERO DE 2016)</small>
+
+#### Sección Tercera. De la Información al Congreso de la Unión
+
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 16.
 
-La información que la Secretaría debe proporcionar a la Cámara de Diputados del Congreso de la Unión, en cumplimiento de los párrafos segundo y último del artículo 14 de la Ley, se presentará anualmente, junto con el Presupuesto de Egresos de la Federación, y se actualizará en los Informes Trimestrales sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública que el Ejecutivo Federal debe presentar, por conducto de la misma Secretaría, al Congreso de la Unión.
+La información que la Secretaría debe enviar a la Cámara de Diputados del Congreso de la Unión, en cumplimiento del párrafo segundo del artículo 14 de la Ley, se presentará en el proyecto de Presupuesto de Egresos, incluyendo lo dispuesto en el artículo 33 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 17.
 
-La información a que se refiere el artículo 16 inmediato anterior de este Reglamento se presentará con base en los registros ingresados en CompraNet, y demás que las dependencias y entidades federales informen a la Secretaría.
+La Secretaría reportará en los Informes Trimestrales sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública, lo siguiente:
 
-A la información citada, tanto en los reportes anuales y como en las actualizaciones trimestrales, le será aplicable lo señalado en el artículo 14 de este Reglamento.
+I. La descripción de cada uno de los proyectos de Asociación Público Privada autorizados; los montos erogados de los proyectos en operación o por erogar de los proyectos en preparación, contratación o inicio de ejecución, conforme a las proyecciones y estimaciones correspondientes; el avance en la ejecución y calendario, así como en su caso, el monto anual de los pagos comprometidos durante la vigencia del contrato;
+
+II. Los montos asignados para la etapa de preparación de los proyectos de Asociación Público Privada;
+
+III. Los proyectos autorizados por la Comisión durante el periodo que se reporta y aquellos en proceso de revisión por la Secretaría en términos del artículo 36 de este Reglamento, incluyendo su descripción, monto total de inversión y Dependencia o Entidad Federal contratante, y
+
+IV. Las propuestas no solicitadas que las Dependencias y Entidades Federales hayan recibido durante el período que se reporta, y que éstas cumplen con los requisitos previstos en el artículo 27 de la Ley.
+
+La información a que se refiere este artículo se integrará con base en los registros ingresados en CompraNet, y demás elementos que las Dependencias y Entidades Federales remitan, en la cual no se podrá incluir información de naturaleza reservada o confidencial en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables.
 
 #### Sección Cuarta. Del Registro para Efectos Estadísticos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 18.
 
-El registro para efectos estadísticos señalado en el artículo 14, párrafo tercero, de la Ley contendrá, de manera agregada, la información de los proyectos que se desarrollen con esquemas previstos en la Ley.
+El registro para efectos estadísticos señalado en el artículo 14, párrafo tercero de la Ley se integrará con la información contenida en los análisis a que se refieren las fracciones I a IX del párrafo primero y los incisos a) al j) del párrafo tercero de dicho artículo.
 
 El registro es exclusivamente para efectos estadísticos y no representa requisito alguno para realizar cualquier actividad de las previstas en la Ley o en otra disposición.
 
-> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
-Los indicadores a que se refiere el artículo 14, tercer párrafo, inciso h) de la Ley, se establecerán en los términos que determine la Secretaría.
+Los indicadores a que se refiere el artículo 14, párrafo tercero, inciso h) de la Ley, son:
+
+I. Rentabilidad social: el valor presente neto y la tasa interna de retorno de la evaluación socioeconómica, y
+
+II. Rentabilidad económica y financiera: el resultado del valor por el dinero del análisis de conveniencia.
+
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 19.
 
-Las dependencias y entidades federales deberán, bajo su exclusiva responsabilidad, proporcionar y actualizar a la Secretaría la información para efectos estadísticos del registro, dentro de los diez días naturales inmediatos siguientes a la fecha en que haya sido generada, salvo que otra disposición señale un plazo diferente.
+Las Dependencias y Entidades Federales deberán, bajo su exclusiva responsabilidad, proporcionar y actualizar a la Secretaría la información necesaria para integrar el registro para efectos estadísticos, dentro de los diez días naturales siguientes a la fecha en que la información haya sido generada, salvo que otra disposición señale un plazo distinto.
+
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 20.
 
-La información del registro será pública y de consulta gratuita.
+El registro para efectos estadísticos será de carácter público, a excepción de la información de carácter reservado o confidencial, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y de consulta gratuita, para lo cual será publicado de manera permanente en el Portal de Transparencia Presupuestaria de la Secretaría en formato de datos abiertos.
 
 ### CAPÍTULO SEGUNDO. De la Preparación e Inicio de los Proyectos
 
@@ -243,7 +271,9 @@ b) Congruente con el Plan Nacional de Desarrollo, así como con los programas se
 
 El análisis sobre los inmuebles, bienes y derechos necesarios para el desarrollo del proyecto, previsto en el artículo 14, fracción II, de la Ley contendrá los aspectos mencionados en el artículo 16 de la misma Ley.
 
-De este análisis deberá concluirse si es o no factible adquirir los citados bienes, u obtener las autorizaciones para su uso o destino.
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+El análisis a que se refiere el párrafo anterior deberá concluir si resulta factible o no adquirir los bienes, u obtener los derechos necesarios.
 
 ###### Artículo 23.
 
@@ -275,9 +305,13 @@ La Secretaría de Medio Ambiente y Recursos Naturales analizará la información
 
 La opinión favorable no supone autorización en materia de impacto ambiental, ni exime de la obligación de elaborar la manifestación de impacto ambiental correspondiente en los términos previstos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
 
-II. El relativo a asentamientos humanos y desarrollo urbano, respecto del cual se solicitará la opinión de la Secretaría de Desarrollo Social y, en su caso, de las autoridades estatales y municipales, sobre los aspectos a que se refiere el artículo 15, fracción II, de la Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
-La solicitud a la Secretaría de Desarrollo Social deberá contener:
+II. El relativo a asentamientos humanos y desarrollo urbano, respecto del cual se solicitará la opinión de la Secretaría de Desarrollo Agrario, Territorial y Urbano y, en su caso, de las autoridades estatales y municipales, sobre los aspectos a que se refiere el artículo 15, fracción II de la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+La solicitud a la Secretaría de Desarrollo Agrario, Territorial y Urbano deberá contener:
 
 a) La información señalada en el artículo 21 de este Reglamento, y el plazo pretendido para el proyecto;
 
@@ -285,7 +319,9 @@ b) Ubicación y superficie pretendidas para el proyecto, y
 
 c) Relación de los ordenamientos sobre el uso del suelo en los predios pretendidos del proyecto, en materia de desarrollo urbano, con los criterios aplicables al sitio de pretendida ubicación del proyecto.
 
-La Secretaría de Desarrollo Social analizará la información señalada en los incisos anteriores y emitirá su opinión en un plazo de veinte días hábiles, contados a partir del siguiente en que reciba la solicitud.
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+La Secretaría de Desarrollo Agrario, Territorial y Urbano analizará la información señalada en los incisos anteriores y emitirá su opinión en un plazo de veinte días hábiles, contado a partir del siguiente en que reciba la solicitud.
 
 La opinión de la citada Secretaría enumerará las autorizaciones necesarias para el desarrollo del proyecto, y señalará si se cumple con los aspectos mínimos indispensable sobre su viabilidad en tales materias. La opinión favorable no supone autorización alguna, ni exime de la obligación de tramitar las que resulten necesarias de conformidad con las disposiciones aplicables.
 
@@ -309,13 +345,15 @@ En este análisis deberá señalarse la fuente de cada uno de los principales ru
 
 Las dependencias y entidades federales interesadas deberán determinar, en este análisis, la clase de aportaciones que realizarán de las mencionadas en el artículo 3o. de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 28.
 
-El análisis sobre la viabilidad económica y financiera previsto en el artículo 14, fracción VIII, de la Ley deberá considerar los flujos de ingresos y egresos del proyecto durante el plazo del mismo. A partir de este análisis, deberá determinarse si el proyecto es o no viable económica y financieramente.
+El análisis sobre la viabilidad económica y financiera previsto en el artículo 14, fracción VIII de la Ley deberá considerar supuestos económicos y financieros razonables; los flujos de ingresos y egresos del proyecto durante el plazo del mismo, así como una adecuada distribución de riesgos entre el sector público y el sector privado durante las etapas de preparación, construcción y operación del proyecto. A partir de este análisis, deberá determinarse si el proyecto es o no viable económica y financieramente.
 
 En caso de proyectos que contemplen aportaciones de recursos federales presupuestarios de los previstos en el artículo 3o., fracción I, de este Reglamento, el análisis deberá incluir un apartado específico sobre la factibilidad de tales aportaciones por parte de la dependencia o entidad interesada, durante la vigencia del proyecto, en que se muestren sus efectos en las finanzas de dicha dependencia o entidad federal, con estimaciones originales como en escenarios alternos.
 
-Este apartado deberá elaborarse considerando supuestos razonables sobre las asignaciones y erogaciones presupuestarias de la dependencia y entidad interesada; la distribución de riegos del proyecto de que se trate, así como los otros contratos de asociación público-privada de la propia dependencia o entidad federal.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 29.
 
@@ -333,89 +371,169 @@ Los proyectos se considerarán viables cuando así lo determine la dependencia o
 
 Las dependencias y entidades federales serán las responsables exclusivas de dicho dictamen y su contenido.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 31.
 
-Los proyectos viables en los que la dependencia o entidad federal pretenda participar con recursos federales presupuestarios de los previstos en el artículo 3o., fracción I de este Reglamento, deberán presentarse a la Secretaría para los efectos de lo dispuesto en la Sección Segunda del presente Capítulo.
+Los proyectos viables en los que la Dependencia o Entidad Federal pretenda participar con recursos federales, a los que se refieren las fracciones I y II del artículo 3o. de este Reglamento deberán presentarse a la Secretaría para los efectos de lo dispuesto en los artículos 34, 35 y 36 del presente ordenamiento.
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 Para ello, la dependencia o entidad federal deberá remitir a la Secretaría los análisis de rentabilidad social y de conveniencia del esquema, previstos en los artículos 26 y 29 de este Reglamento, respectivamente. También deberán remitir, para efectos meramente informativos, los análisis de inversión y aportaciones, de viabilidad económica y financiera, así como el dictamen de viabilidad, referidos en los artículos 27, 28 y 30 de este Reglamento.
 
-Los proyectos viables en los que la dependencia o entidad federal pretenda participar con recursos públicos federales no presupuestarios, con aportaciones distintas a numerario, o ambas, pero sin incluir recursos federales presupuestarios, no requerirán de las aprobaciones previstas en la sección segunda inmediata siguiente.
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+Los proyectos viables en los que la Dependencia o Entidad Federal pretenda participar exclusivamente con aportaciones distintas a numerario, no requerirán de las aprobaciones previstas en la Sección Segunda de este Capítulo.
+
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 En los proyectos a que se refiere el párrafo anterior, la dependencia o entidad federal podrá solicitar una opinión vinculante de la Secretaría sobre el análisis a que se refiere el artículo 14, párrafo primero, fracción IX de la Ley.
 
-#### Sección Segunda. De la Aprobación de Aportaciones de Recursos Federales Presupuestarios
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+#### Sección Segunda. De la Aprobación de los Recursos Públicos Federales
+
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 32.
 
-En relación con los proyectos con aportaciones de recursos federales presupuestarios que reciba en términos del artículo 31 de este Reglamento, la Secretaría revisará que:
+La estimación del monto máximo anual del gasto programable para los proyectos de Asociación Público Privada se elaborará conforme a lo previsto en el artículo 24, párrafo tercero de la Ley y, no podrá ser superior a la determinación del producto que resulte de multiplicar por uno por ciento el gasto programable aprobado por la Cámara de Diputados para el Gobierno Federal y las entidades de control presupuestario directo, en el Presupuesto de Egresos de la Federación del ejercicio inmediato anterior.
 
-I. Los análisis a que se refiere el artículo 14, fracciones VI y IX, de la Ley se hayan realizado conforme a los lineamientos expedidos por la propia Secretaría;
-
-II. Del análisis de rentabilidad social, el proyecto es susceptible de generar un beneficio social neto bajo supuestos razonables, y
-
-III. Del análisis a que se refiere el artículo 14, fracción IX, de la Ley, el esquema de asociación público-privada propuesto es conveniente en relación con otras opciones.
-
-La revisión de la Secretaría no implica validación alguna de los estudios de que se trata, cuyo contenido será responsabilidad exclusiva de la dependencia o entidad interesada, en términos del artículo 30 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 33.
 
-La Secretaría evaluará, desde el punto de vista presupuestario, los proyectos que reciba y los inscribirá, cuando así lo considere procedente en ejercicio de sus atribuciones, en la Cartera.
+El proyecto de Presupuesto de Egresos, además de contener lo previsto en el artículo 41 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, deberá incluir:
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+I. La estimación del monto máximo anual del gasto programable para los proyectos de Asociación Público Privada, a fin de atender los compromisos de pago requeridos, tanto de los proyectos nuevos que pretendan iniciar las Dependencias o Entidades Federales durante el siguiente ejercicio fiscal, como de aquéllos previamente autorizados;
+
+II. La información sobre los proyectos de Asociación Público Privada en proceso de ejecución y operación, que contendrá lo siguiente:
+
+a) Descripción de cada uno de los proyectos;
+
+b) Localización geográfica del proyecto;
+
+c) Dependencia o Entidad Federal contratante;
+
+d) Origen del proyecto;
+
+e) Montos de inversión;
+
+f) Calendarios de inversión;
+
+g) Plazo del contrato, en su caso, especificando fechas de inicio de ejecución y de inicio de operación;
+
+h) Fuente de pago al Desarrollador;
+
+i) Pagos anuales comprometidos, en su caso, y
+
+g) (sic) Montos erogados acumulados y avances financiero y físico en la ejecución, en su caso, y
+
+III. Los compromisos plurianuales de gasto que deriven de los proyectos de Asociación Público Privada aprobados en ejercicios fiscales anteriores, en su caso.
+
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 34.
 
-Sólo los proyectos registrados en la Cartera, que requieran aportaciones señaladas en el artículo 3o., fracción I de este Reglamento, serán presentados a la Comisión para los efectos de los artículos 21 y 24 de la Ley.
+La Secretaría, respecto de los proyectos que se realizarán con recursos federales que reciba en términos del artículo 31, párrafo primero de este Reglamento, revisará que:
 
-Para cada proyecto de asociación público-privada nuevo o que sufra cambios de alcance en términos del artículo 122 del presente Reglamento, la dependencia o entidad federal de que se trate, por conducto de la dependencia coordinadora de sector, o directamente si se trata de entidades federales no sectorizadas, deberán remitir a la Secretaría, por conducto de las unidades administrativas de programación y presupuesto sectoriales de la misma, a más tardar el primer día hábil de mayo, una solicitud de autorización o cambio de alcance para su incorporación al proyecto de Presupuesto de Egresos que corresponda.
+I. Los análisis a que se refiere el artículo 14, fracciones VI y IX de la Ley se hayan realizado conforme a los lineamientos expedidos por la Secretaría;
 
-Las autorizaciones para realizar asociaciones público-privadas no implicarán una ampliación del techo presupuestario establecido para las dependencias y entidades federales en los ejercicios fiscales subsecuentes. Asimismo, éstas deberán dar prioridad a las erogaciones derivadas de la ejecución de dichas asociaciones público-privadas dentro de su proceso de programación y presupuesto.
+II. Del análisis de rentabilidad social, el proyecto es susceptible de generar un beneficio social neto bajo supuestos razonables, y
 
-Para efecto de analizar y, en caso de ser procedente, autorizar dichos proyectos y determinar su prelación y orden de ejecución, en términos de los artículos 21 y 24 de la Ley, las unidades administrativas de programación y presupuesto sectoriales de la Secretaría deberán remitir a la Comisión, a más tardar el 10 de agosto, la información y documentación siguiente:
+III. Del análisis a que se refiere el artículo 14, fracción IX de la Ley, el esquema de Asociación Público Privada propuesto es conveniente en relación con otras opciones.
 
-I. El dictamen de viabilidad a que se refiere el artículo 30 de este Reglamento, incluyendo los análisis elaborados por las dependencias o entidades federales en términos del artículo 14 de la Ley y la información citada en el artículo 15, fracción IV de la Ley;
+La revisión de la Secretaría no implica validación alguna de los estudios que se hayan realizado para la elaboración del dictamen a que se refiere el artículo 14 de la Ley, cuyo contenido será responsabilidad exclusiva de la Dependencia o Entidad Federal interesada, en términos del artículo 30 de este Reglamento.
 
-II. Las opiniones favorables emitidas por las unidades competentes de la Secretaría;
-
-III. Los montos máximos relativos a las posibilidades agregadas de gasto y financiamiento referidos en los artículos 24 de la Ley y 35 de este Reglamento, y
-
-IV. El monto definitivo de inversión previsto para el ejercicio correspondiente para cada proyecto nuevo o previamente autorizado.
-
-El dictamen de la Comisión deberá emitirse a más tardar el 22 de agosto.
-
-En el año en que el titular del Ejecutivo Federal concluya su encargo, los periodos previstos en el calendario de actividades antes referido se ajustarán por la Secretaría.
-
-Las dependencias y entidades federales presentarán anualmente a la Comisión, por conducto de las unidades administrativas de programación y presupuesto sectoriales de la Secretaría, a más tardar el primero de marzo de cada año, un reporte para efectos informativos sobre la ejecución del proyecto de asociación público-privada, que contenga, cuando menos, los montos erogados o por erogar conforme a las proyecciones correspondientes, avance en la ejecución, calendario, así como el monto de pagos anuales comprometidos.
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 35.
 
-En relación con los proyectos previamente autorizados por la Comisión, la Secretaría deberá incluir, en el proyecto de Presupuesto de Egresos correspondiente, la información siguiente:
+Las Dependencias y Entidades Federales, además de cumplir con lo dispuesto en el artículo anterior, deberán solicitar a la Secretaría la inscripción del proyecto de Asociación Público Privada en la Cartera.
 
-I. Con base en las proyecciones macroeconómicas utilizadas en la programación del Gobierno Federal:
+La Secretaría evaluará, en el ámbito presupuestario, los proyectos de Asociación Público Privada que reciba y, cuando así lo considere procedente en ejercicio de sus atribuciones, realizará la inscripción correspondiente.
 
-a) Una evaluación del impacto de los proyectos en las finanzas públicas, y
+Los proyectos registrados en la Cartera, que requieran de los recursos señalados en el artículo 3o., fracción I de este Reglamento, serán presentados a la Comisión para los efectos previstos en el artículo 24 de la Ley.
 
-b) Una estimación preliminar de los montos máximos anuales a erogar para atender los requerimientos, tanto de los proyectos ya aprobados en ejercicios anteriores, como de los que se propongan para aprobación, y
-
-II. La que, con base en los dictámenes presentados por las dependencias y entidades federales interesadas, resulte necesaria para soportar la aprobación de las suficiencias presupuestarias propuestas para los nuevos proyectos.
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 36.
 
-Las aportaciones de recursos federales presupuestarios sólo podrán realizarse si se cuenta con la aprobación previa de la Cámara de Diputados del Congreso de la Unión para la correspondiente suficiencia presupuestaria.
+Para efecto de analizar y, en su caso, autorizar los proyectos de Asociación Público Privada que requieran recursos presupuestarios, o los cambios sobre el alcance de los proyectos previamente autorizados que requieren de dichos recursos, la Secretaría remitirá a la Comisión, lo siguiente:
+
+I. El dictamen de viabilidad a que se refiere el artículo 30 de este Reglamento, incluyendo los análisis elaborados por las Dependencias o Entidades Federales en términos del artículo 14 de la Ley y la información citada en el artículo 15, fracción IV de la Ley;
+
+II. La documentación emitida por las unidades administrativas competentes de la Secretaría, que señalen lo siguiente:
+
+a) Que el proyecto se encuentra registrado en la Cartera;
+
+b) La validación del análisis de la conveniencia de llevar a cabo un proyecto bajo el esquema de Asociación Público Privada realizado por la Dependencia o Entidad Federal;
+
+c) La determinación de los compromisos presupuestarios futuros que, en su caso, llegaren a originar los proyectos de Asociación Público Privada, con base en las estimaciones realizadas por las Dependencias y Entidades Federales interesadas;
+
+d) La compatibilidad de los requerimientos presupuestarios respecto del monto máximo anual del gasto programable para los proyectos de Asociación Público Privada, aprobado por la Cámara de Diputados, y
+
+e) El margen disponible de asignación anual de recursos presupuestarios que cada Dependencia o Entidad Federal podrá destinar a la contratación de proyectos de Asociación Público Privada, que consiste en la diferencia de su presupuesto autorizado a la fecha de su solicitud, menos las previsiones de gasto ineludible;
+
+III. El monto máximo anual del gasto programable para los proyectos de Asociación Público Privada, aprobado por la Cámara de Diputados, y
+
+IV. El monto definitivo de inversión para el ejercicio fiscal correspondiente para cada proyecto nuevo o que tenga cambio sobre el alcance.
+
+La Comisión con base en la información recibida, autorizará los proyectos de Asociación Público Privada que requieren de recursos presupuestarios.
+
+Las autorizaciones para realizar Asociaciones Público Privadas no implicarán una ampliación del techo presupuestario establecido para las Dependencias y Entidades Federales en los ejercicios fiscales subsecuentes.
+
+Las Dependencias y Entidades Federales deberán dar prioridad a las erogaciones para la ejecución de las Asociaciones Público Privadas dentro de su proceso de programación y presupuesto.
+
+Para tramitar durante el ejercicio fiscal nuevos proyectos o cambios de alcance a los previamente autorizados, las Dependencias y Entidades Federales se sujetarán, además de lo previsto en los párrafos anteriores de este artículo, a los lineamientos a que se refieren los artículos 26 y 29 de este Reglamento y a lo dispuesto en el artículo 24, párrafo sexto, de la Ley. Para tal efecto, se entiende que existe un cambio de alcance en los proyectos de Asociación Público Privada, cuando los mismos presentan variaciones en sus objetivos físicos o financieros, o tratándose de actualizaciones por variaciones en la inflación, en la paridad cambiaria o en la tasa de interés, siempre que exceda en un diez por ciento real el valor del proyecto.
+
+Cuando la variación por actualización sea menor a dicho porcentaje, las Dependencias y Entidades Federales responsables del proyecto únicamente deberán informar dicha circunstancia a la Comisión, en un plazo no mayor a veinte días hábiles, contado a partir de que lleven a cabo dicha actualización. La Secretaría reportará dichas actualizaciones en los Informes Trimestrales sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública.
+
+Las Dependencias y Entidades Federales presentarán semestralmente a la Comisión, por conducto de las unidades administrativas de programación y presupuesto sectoriales de la Secretaría, a más tardar noventa días naturales siguientes a que concluyó el periodo respectivo, un reporte para efectos informativos sobre la ejecución del proyecto de Asociación Público Privada, que contenga, cuando menos, los montos erogados o por erogar conforme a las proyecciones correspondientes, avance en la ejecución, calendario, así como el monto de pagos anuales comprometidos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+###### Artículo 36 Bis.
+
+La Secretaría someterá a la consideración de la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados los proyectos de Asociación Público Privada autorizados previamente por la Comisión, adjuntando la documentación siguiente:
+
+I. El dictamen de viabilidad a que se refiere el artículo 30 de este Reglamento;
+
+II. La ficha técnica sobre los análisis a que se refieren las fracciones I a IX del artículo 14 de la Ley, y
+
+III. El acuerdo de la Comisión mediante el cual se autoriza el proyecto.
+
+> <small>(ADICIONADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+###### Artículo 36 Ter.
+
+El Ejecutivo Federal por conducto de la Secretaría, en términos del párrafo cuarto del artículo 24 de la Ley, podrá someter a la consideración y aprobación de la Cámara de Diputados nuevos proyectos de Asociación Público Privada, mediante su incorporación en el anexo correspondiente del proyecto de Presupuesto de Egresos. Para tal efecto, las Dependencias y Entidades Federales deberán obtener previamente el registro en Cartera, así como la autorización de la Comisión, sujetándose, en lo conducente, a lo señalado en los artículos 34, 35 y 36 de este Reglamento.
 
 #### Sección Tercera. Del Inicio de los Proyectos
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 37.
 
-Sólo podrá iniciarse el procedimiento de adjudicación de un proyecto de asociación público-privada y celebrarse el contrato correspondiente, cuando se haya emitido el dictamen de viabilidad a que se refiere el artículo 30 de este Reglamento, y dicho proyecto se encuentre registrado en Cartera cuando se pretenda ejercer recursos a que se refiere el artículo 3o., fracciones I y II, de este Reglamento.
+El procedimiento de contratación de un proyecto de Asociación Público Privada sólo podrá iniciarse, conforme a lo siguiente:
 
-Adicionalmente, si el proyecto requiere recursos federales presupuestarios, se deberá contar con la autorización de la Comisión en términos del artículo 24 de la Ley.
+I. Los proyectos con recursos del Presupuesto de Egresos, cuando cuenten con:
 
-Si los proyectos requieren recursos federales presupuestarios, las dependencias o entidades federales podrán proceder conforme a lo previsto en el artículo 35 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con el objeto de iniciar el procedimiento de adjudicación y, en su caso, celebrar el contrato en forma oportuna.
+a) El dictamen de viabilidad a que se refiere el artículo 14 de Ley;
+
+b) El registro en la Cartera;
+
+c) La autorización de la Comisión, y
+
+d) La resolución de la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados, o bien, la manifestación de la Secretaría de que venció el plazo de treinta días naturales sin que dicha Comisión hubiere emitido resolución alguna, en términos del artículo 24, párrafo sexto de la Ley.
+
+Lo dispuesto en el párrafo anterior no será aplicable para los proyectos de Asociación Público Privada que hayan sido aprobados por la Cámara de Diputados en el anexo correspondiente del Presupuesto de Egresos;
+
+II. Los proyectos que involucren recursos públicos federales en numerario, distintos a los previstos en el Presupuesto de Egresos, deberán cumplir con lo señalado en los incisos a) y b) de la fracción anterior, y
+
+III. Los proyectos que involucren recursos públicos federales distintos a numerario, deberán contar con el dictamen de viabilidad señalado en el inciso a) de la fracción I de este artículo.
+
+Cuando los proyectos requieran recursos federales presupuestarios, las Dependencias o Entidades Federales podrán proceder conforme a lo previsto en el artículo 35 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con el objeto de iniciar el procedimiento de contratación y, en su caso, celebrar el contrato en forma oportuna.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
@@ -431,13 +549,15 @@ Tratándose de proyectos de asociación público-privada que tengan el carácter
 
 #### Sección Cuarta. De las Autorizaciones para los Proyectos
 
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 40.
 
-Las autorizaciones federales para el desarrollo de un proyecto se otorgarán preferentemente dentro del procedimiento de adjudicación, y se formalizarán de manera simultánea junto con la celebración del correspondiente contrato de asociación público-privada.
+Las autorizaciones federales para el desarrollo de un proyecto se otorgarán preferentemente dentro del procedimiento de contratación, y se formalizarán de manera simultánea junto con la celebración del correspondiente contrato de Asociación Público Privada.
 
-En el procedimiento de adjudicación deberán indicarse los requisitos de tales autorizaciones. En el evento de autorizaciones de dependencias o entidades federales distintas a la que vaya a celebrar el contrato, ésta dará vista a las demás para que resuelvan lo conducente.
+En el procedimiento de contratación deberán señalarse los requisitos de tales autorizaciones. En el caso de autorizaciones de Dependencias o Entidades Federales distintas a la que vaya a celebrar el contrato, ésta dará vista a las demás para que resuelvan lo conducente.
 
-El desarrollador deberá tramitar aquellas autorizaciones no otorgadas en el procedimiento de adjudicación.
+El Desarrollador deberá obtener las autorizaciones que no hayan sido otorgadas en el procedimiento de contratación.
 
 ###### Artículo 41.
 
@@ -457,13 +577,35 @@ Las autorizaciones correspondientes a los ámbitos estatal y municipal se tramit
 
 #### Sección Primera. De los Requisitos de las Propuestas
 
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 43.
 
-Los interesados en presentar una propuesta no solicitada podrán gestionar una manifestación de interés por parte de la dependencia o entidad federal a quien corresponda conocer de dicha propuesta.
+Las Dependencias o Entidades Federales podrán publicar en el Diario Oficial de la Federación y en su Página web, un acuerdo mediante el cual determinen las propuestas de proyectos de Asociación Público Privada que estarán dispuestas a recibir. Dicho acuerdo deberá especificar lo siguiente:
 
-Tal manifestación sólo representará un elemento para que el interesado decida realizar el estudio previo. No implicará compromiso alguno, ni antecedente sobre la opinión relativa a la propuesta que en su oportunidad se presente.
+I. Sector;
 
-La dependencia o entidad federal a la cual se presente la solicitud de manifestación de interés antes citada deberá contestar en un plazo no mayor a treinta días hábiles, contados a partir del día siguiente a la fecha de recepción de dicha solicitud.
+II. Subsector;
+
+III. Ámbitos geográficos;
+
+IV. Tipo de proyecto;
+
+V. Metas físicas estimadas;
+
+VI. Fechas previstas de inicio de operación;
+
+VII. Vinculación de la propuesta con los objetivos nacionales, estrategias y prioridades contenidas en el Plan Nacional de Desarrollo y en los programas sectoriales, institucionales, regionales y especiales que de él deriven, y
+
+VIII. Beneficios esperados.
+
+En estos casos, las Dependencias o Entidades Federales sólo analizarán las propuestas recibidas que cumplan los elementos señalados en el párrafo anterior.
+
+Los interesados en presentar una propuesta no solicitada podrán gestionar una manifestación de interés por parte de la Dependencia o Entidad Federal a quien corresponda conocer de dicha propuesta.
+
+La manifestación a que se refiere el párrafo anterior sólo representará un elemento para que el interesado decida realizar el estudio previo, por lo que no implica compromiso alguno, ni antecedente sobre la opinión relativa a la propuesta que en su oportunidad se presente.
+
+La Dependencia o Entidad Federal a la cual se presente la solicitud de manifestación de interés a que se refiere este artículo deberá contestar en un plazo no mayor a treinta días hábiles, contado a partir del día siguiente a la fecha de recepción de dicha solicitud.
 
 ###### Artículo 44.
 
@@ -479,15 +621,27 @@ b) Los demás elementos de los que se desprenda que el proyecto es técnicamente
 
 II. La descripción de las autorizaciones a que se refiere el inciso b), contendrá una relación de las autorizaciones -federales, de las entidades federativas y municipales- así como los requisitos para su otorgamiento, necesarias para el desarrollo del proyecto, con las menciones que el propio inciso indica;
 
-III. El relativo a la viabilidad jurídica a que se refiere el inciso c) señalará las disposiciones -federales, de las entidades federativas y municipales- aplicables para el desarrollo del proyecto, con los elementos que permitan concluir que es susceptible de cumplirse con tales disposiciones;
+> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+III. El relativo a la viabilidad jurídica a que se refiere el inciso c) señalará si el proyecto puede ser ejecutado, desde el punto de vista jurídico, a través de una Asociación Público Privada, así como si es susceptible de cumplir con las disposiciones federales, de las entidades federativas y municipales aplicables que regulan su desarrollo;
 
 IV. El previsto en el inciso d) deberá elaborarse conforme a los lineamientos de la Secretaría, y contener elementos que indiquen que el proyecto es susceptible de generar un beneficio social neto bajo supuestos razonables;
 
-V. El relativo a las estimaciones de inversión y aportaciones mencionado en el inciso e), se referirá a la Inversión Inicial propuesta, así como a las aportaciones adicionales para mantener el proyecto en operación, con indicación de cada uno de los rubros de inversión y aportaciones relevantes;
+> <small>(ADICIONADA, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
-VI. El previsto en el inciso f) deberá indicar los flujos estimados de ingresos y egresos del proyecto durante el plazo del mismo, e incluir los demás elementos sobre la viabilidad económica y financiera de la propuesta, y
+IV Bis. La conveniencia de llevar a cabo el proyecto mediante un esquema de Asociación Público Privada, a que se refiere el inciso e), deberá realizarse conforme al artículo 29 de este Reglamento;
 
-VII. El relativo a las características esenciales del contrato previsto en el inciso g) incluirá:
+> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+V. Las estimaciones de inversión y aportaciones mencionadas en el inciso f), se referirá a la Inversión Inicial propuesta, así como a las aportaciones adicionales para mantener el proyecto en operación durante el periodo correspondiente que se haya estimado, señalando cada uno de los rubros de inversión y aportaciones relevantes;
+
+> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+VI. El previsto en el inciso g) deberá señalar los flujos estimados de ingresos y egresos del proyecto durante el plazo del contrato, e incluir los demás elementos sobre la viabilidad económica y financiera de la propuesta, conforme al artículo 28 de este Reglamento, y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+VII. Las características esenciales del contrato previsto en el inciso h) incluirá:
 
 a) El objeto, capital, estructura accionaria y accionistas, de la o las sociedades con propósito específico que, en su caso, serían los desarrolladores;
 
@@ -511,11 +665,15 @@ Las dependencias y entidades federales deberán notificar a la Secretaría, en u
 
 #### Sección Segunda. Del Análisis y Evaluación de las Propuestas
 
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 46.
 
-En el evento de que la dependencia o entidad federal considere que el proyecto de que se trata corresponde a alguna otra instancia y decida transferirla, en términos del párrafo segundo del artículo 29 de la Ley, así deberá notificarlo por escrito al promotor.
+En el análisis y evaluación de las propuestas no solicitadas se considerará, entre otros aspectos, la alineación a los objetivos, metas y estrategias nacionales, sectoriales, institucionales, especiales o regionales; la rentabilidad social del proyecto de Asociación Público Privada, en caso de ser aplicable; la conveniencia para llevar a cabo dicho proyecto mediante un esquema de Asociación Público Privada; las estimaciones de inversiones y aportaciones, y la viabilidad económica financiera.
 
-En estos casos, el plazo señalado en el artículo 28 de la Ley comenzará de nuevo, a partir de la fecha en que la nueva instancia pública reciba la propuesta.
+En caso de que la Dependencia o Entidad Federal considere que el proyecto de que se trata corresponde a alguna otra instancia y decida transferirla, en términos del párrafo segundo del artículo 29 de la Ley, así deberá notificarlo por escrito al Promotor.
+
+En el caso a que se refiere el párrafo anterior, el plazo señalado en el artículo 28 de la Ley comenzará de nuevo, a partir de la fecha en que la nueva instancia pública reciba la propuesta.
 
 ###### Artículo 47.
 
@@ -541,7 +699,9 @@ Para convocar a Concurso, la dependencia o entidad federal interesada deberá:
 
 I. Cumplir con lo dispuesto en el artículo 37 de este Reglamento;
 
-II. Expedir el certificado previsto en el artículo 31, fracción I, de la Ley;
+> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+II. Expedir el certificado para el reembolso de los gastos por los estudios realizados, previsto en el artículo 31, fracción I de la Ley;
 
 III. Contar con la declaración unilateral de voluntad del promotor, a que alude la fracción II del artículo 31 de la Ley, y
 
@@ -619,21 +779,29 @@ Si el proyecto se considera procedente y la dependencia o entidad federal decide
 
 El monto máximo de adquisición se determinará conforme a lo señalado en el artículo 51 de este Reglamento.
 
-### CAPÍTULO CUARTO. De la Adjudicación de los Proyectos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+### CAPÍTULO CUARTO. De la Contratación de los Proyectos
 
 #### Sección Primera. Disposiciones Previas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 57.
 
-La participación del Agente en un procedimiento de adjudicación consistirá en la asesoría, elaboración de proyectos y propuestas, apoyo logístico, técnico o de cualquier otra naturaleza, que ayuden a la dependencia o entidad federal a realizar cualquier acto del procedimiento de adjudicación.
+La participación del Agente en un procedimiento de contratación consistirá en la asesoría, elaboración de proyectos y propuestas, apoyo logístico, técnico o de cualquier otra naturaleza, que ayuden a la Dependencia o Entidad Federal a realizar cualquier acto del procedimiento de contratación.
 
 Los servicios del Agente podrán incluir la realización de talleres financieros, jurídicos, técnicos y cualquier otra actividad que permita la mejor difusión de proyecto, así como la coordinación de las sesiones públicas de recepción y apertura de propuestas.
 
 En todo caso, los actos que a continuación se indican deberán ejecutarse invariablemente por la dependencia o entidad federal convocante, sin perjuicio del apoyo que puedan recibir del Agente:
 
-I. La convocatoria, invitación a cuando menos tres personas, bases de la adjudicación y aclaraciones a éstas;
+> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
-II. Evaluación de las propuestas, fallo y adjudicación del proyecto, y
+I. La convocatoria, invitación a cuando menos tres personas, bases de la contratación y aclaraciones a éstas;
+
+> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+II. Evaluación de las propuestas, fallo y contratación del proyecto, y
 
 III. Celebración del contrato de asociación público-privada.
 
@@ -645,19 +813,25 @@ Los servicios del Agente se contratarán conforme a lo previsto en los artículo
 
 En el evento de que la convocante decida no utilizar el procedimiento de licitación pública para la contratación del Agente, ésta se realizará preferentemente a través del procedimiento de invitación a cuando menos tres personas. Podrá hacerse a través de adjudicación directa cuando:
 
-I. La información que se requiera proporcionar en el procedimiento de adjudicación se encuentre reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+I. La información que se requiera proporcionar en el procedimiento de contratación se encuentre reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública;
 
 II. Existan circunstancias fundadas y motivadas, mediante dictamen del titular de la dependencia o entidad, que puedan provocar pérdidas o costos adicionales relevantes, o
 
 III. Se presente cualquier otra causa que, a juicio del titular de la dependencia o entidad, así lo justifique.
 
-Podrán contratarse dos o más Agentes en relación con un mismo procedimiento de adjudicación, cuando así resulte conveniente en atención a la especialización en cada aspecto relevante del proyecto.
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+Podrán contratarse dos o más Agentes en relación con un mismo procedimiento de contratación, cuando así resulte conveniente en atención a la especialización en cada aspecto relevante del proyecto.
 
 ###### Artículo 59.
 
 El contrato de Agente sólo podrá celebrarse con quien acredite contar con capacidad y recursos técnicos, financieros y demás necesarios, y cuyas actividades profesionales estén relacionadas con los servicios objeto del contrato.
 
-La dependencia o entidad federal deberá convenir las estipulaciones necesarias que eviten conflicto de intereses del Agente en el procedimiento de adjudicación.
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+La Dependencia o Entidad Federal deberá convenir las estipulaciones necesarias que eviten un conflicto de intereses del Agente en el procedimiento de contratación.
 
 ###### Artículo 60.
 
@@ -709,7 +883,9 @@ III. De identificar alguna presunta irregularidad, deberá informar al órgano i
 
 IV. Deberá atender y responder de forma oportuna y expedita cualquier requerimiento de información que, respecto del Concurso que atestigua, le sea formulado por la Función Pública o por el órgano interno de control de la convocante;
 
-V. Deberá guardar la debida reserva y confidencialidad en caso de tener acceso a información clasificada con tal carácter en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y
+> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+V. Deberá guardar la debida reserva y confidencialidad en caso de tener acceso a información clasificada con tal carácter en términos de la Ley Federal de Transparencia y Acceso a la Información Pública, y
 
 > <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
@@ -767,9 +943,17 @@ III. En caso de proyectos con origen en una propuesta no solicitada:
 
 a) El nombre del promotor;
 
-b) Los términos y condiciones para el pago del certificado a que se refiere el artículo 31, fracción I, de la Ley, y
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
-c) La indicación del premio que, en su caso, se haya establecido en términos del artículo 31, fracción V, de la Ley;
+b) Los términos y condiciones para el pago del certificado para el reembolso de los gastos por los estudios realizados a que se refiere el artículo 31, fracción I de la Ley;
+
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+c) La mención del premio que, en su caso, se haya establecido en términos del artículo 31, fracción V de la Ley, y
+
+> <small>(ADICIONADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+d) La mención de que el Promotor emitió la declaración unilateral de voluntad a que se refiere el artículo 31, fracción II de la Ley;
 
 IV. Los requisitos, términos y condiciones para realizar los actos del Concurso a través de medios electrónicos;
 
@@ -1059,9 +1243,11 @@ Los bienes y derechos para la ejecución de un proyecto, incluyendo los relativo
 
 Las adquisiciones que las dependencias o entidades federales realicen se harán preferentemente de manera convencional, directamente o por licitación pública, según corresponda conforme a las disposiciones aplicables, sin perjuicio de poder realizarlas mediante expropiación.
 
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 94.
 
-La aplicación de los factores previstos en el artículo 68 de la Ley deberá procurar la mayor equidad en la valuación, misma que se realizará de conformidad con los lineamientos que la Función Pública expida a través del Instituto de Administración y Avalúos de Bienes Nacionales.
+La aplicación de los factores previstos en el artículo 68 de la Ley deberá procurar la mayor equidad en la valuación, misma que se realizará de conformidad con los lineamientos que expida el Instituto de Administración y Avalúos de Bienes Nacionales.
 
 #### Sección Segunda. De las Adquisiciones por Vía Convencional
 
@@ -1155,7 +1341,9 @@ En caso de la reversión, se celebrará convenio con los afectados en que se pac
 
 Las contribuciones federales, locales y municipales, así como los demás gastos y costos que la reversión implique serán cubiertos por la dependencia o entidad federal que, en su oportunidad, tramitó la expropiación.
 
-Un ejemplar de los documentos de la reversión se archivarán en el expediente previsto en los artículos 81, fracción I, de la Ley y 101 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+Un ejemplar de los documentos de la reversión se archivará en el expediente previsto en los artículos 81, fracción I de la Ley y 101 de este Reglamento.
 
 ### CAPÍTULO SEXTO. De los Contratos de Asociación Público-Privada
 
@@ -1225,9 +1413,13 @@ I. El otorgamiento de la autorización de la dependencia o entidad federal contr
 
 II. La determinación de:
 
-a) Los ajustes financieros en caso de que, durante la vigencia del contrato, el desarrollador reciba mejores condiciones en los financiamientos destinados al proyecto. Estos ajustes deberán realizarse de manera que el beneficio por las mejores condiciones favorezcan, de manera equitativa, tanto al desarrollador como a la dependencia o entidad federal contratante, y
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
-b) Cualesquiera otros ingresos adicionales del proyecto, y el destino que deberá dárseles;
+a) Los ajustes financieros en caso de que, durante la vigencia del contrato, el Desarrollador reciba mejores condiciones en los financiamientos destinados al proyecto. Los beneficios que estos ajustes financieros generen deberán ser calculados y distribuidos conforme a lo que se establezca en el contrato, considerando las condiciones específicas del proyecto y del financiamiento respectivo. La participación de la Dependencia o Entidad Federal en dichos beneficios no podrá ser menor al cincuenta por ciento de los mismos, y
+
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+b) Cualesquiera otros ingresos netos adicionales del proyecto, los cuales deberán destinarse al pago de la contraprestación del Desarrollador, con la consecuente reducción de los montos que la Dependencia o Entidad Federal adeuda a dicho Desarrollador o de las tarifas que paguen los usuarios;
 
 III. La metodología de comprobación de incremento de costos y su actualización, la cual contendrá, por lo menos, los elementos siguientes:
 
@@ -1287,9 +1479,11 @@ II. La obligación solidaria -o mancomunada, de así haberlo determinado la depe
 
 III. La mención a que se refiere el artículo 106, fracción IV, de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 110.
 
-La información contenida en los anexos del contrato podrá ser clasificada como reservada, de conformidad con lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+La información contenida en los anexos del contrato podrá ser clasificada como reservada, de conformidad con lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
@@ -1435,13 +1629,19 @@ I. El dictamen de viabilidad a que se refiere el artículo 30 de este Reglamento
 
 II. En su caso, los documentos relativos a la aprobación de la suficiencia presupuestaria para la procedencia de erogaciones de recursos federales presupuestarios;
 
-III. En relación con el procedimiento de adjudicación:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+III. En relación con el procedimiento de contratación:
 
 a) El contrato con el Agente que, en su caso, haya participado, así como la documentación en que consten sus actuaciones;
 
-b) Si la adjudicación se hizo mediante Concurso, un ejemplar de la convocatoria, de las bases con sus anexos y sus modificaciones, de la propuesta ganadora y de las dos inmediatas siguientes, del dictamen del fallo y del propio fallo, de las actas levantadas, y demás documentos relevantes, tales como solicitudes de aclaraciones de los concursantes, correcciones al fallo, informes de irregularidades detectadas y reembolso de gastos, y
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
-c) Si la adjudicación se hizo mediante invitación a cuando menos tres personas o de manera directa, el dictamen del titular de la dependencia o entidad previsto en el artículo 65 de la Ley, así como los demás documentos relevantes;
+b) Si la contratación se hizo mediante Concurso, un ejemplar de la convocatoria, de las bases con sus anexos y sus modificaciones, de la propuesta ganadora y de las dos inmediatas siguientes, del dictamen del fallo y del propio fallo, de las actas levantadas, y demás documentos relevantes, tales como solicitudes de aclaraciones de los Concursantes, correcciones al fallo, informes de irregularidades detectadas y reembolso de gastos, y
+
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+c) Si la contratación se hizo mediante invitación a cuando menos tres personas o por adjudicación directa, el dictamen del titular de la Dependencia o Entidad Federal previsto en el artículo 65 de la Ley, así como los demás documentos relevantes;
 
 IV. En el evento de adquisiciones de inmuebles, bienes y derechos por la dependencia o entidad contratante:
 
@@ -1483,17 +1683,19 @@ V. Los demás documentos que la dependencia o entidad considere relevantes para 
 
 La conservación de la documentación e información electrónica a que alude el artículo 127 de la Ley se hará de conformidad con las disposiciones aplicables en materia de archivos.
 
-> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 128 Bis.
 
-Las dependencias y entidades federales que cuenten con asociaciones público-privadas con recursos federales presupuestarios, deberán reportar a la Secretaría el seguimiento del ejercicio del gasto de inversión, de conformidad con los lineamientos que esta última emita.
+Las Dependencias y Entidades Federales que celebren contratos de Asociación Público Privada con los recursos a que se refieren las fracciones I y II del artículo 3o. de este Reglamento, deberán reportar a la Secretaría el seguimiento del ejercicio del gasto de inversión y de la rentabilidad de la Asociación Público Privada en su etapa de operación, de conformidad con los lineamientos que la Secretaría emita.
 
 ### CAPÍTULO DÉCIMO PRIMERO. De las Infracciones y Sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 129.
 
-La Función Pública y los órganos internos de control de las dependencias y entidades federales, en ejercicio de sus respectivas atribuciones, podrán verificar en cualquier tiempo que los procedimientos de adjudicación y sus actos previos para la realización de los proyectos se realicen conforme a lo establecido en la Ley, este Reglamento y demás disposiciones aplicables, así como realizar las auditorías, visitas e inspecciones que estimen pertinentes.
+La Función Pública y los órganos internos de control de las Dependencias y Entidades Federales, en ejercicio de sus respectivas atribuciones, podrán verificar en cualquier tiempo que los procedimientos de contratación y sus actos previos para la realización de los proyectos se lleven a cabo conforme a lo establecido en la Ley, este Reglamento y demás disposiciones jurídicas aplicables, así como efectuar las auditorías, visitas e inspecciones que estimen pertinentes.
 
 > <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
@@ -1603,9 +1805,11 @@ Los actos de autoridad considerados como tales para efectos de la Ley de Amparo,
 
 El reconocimiento y ejecución de los laudos dictados en los procedimientos arbitrales se sujetarán a las disposiciones del título cuarto del libro quinto del Código de Comercio, las cuales prevén que la resolución correspondiente no será objeto de recurso alguno. Conforme con tales disposiciones y, en su caso, en los términos de la ley de la materia, sólo procederá el juicio de amparo.
 
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 145.
 
-El servidor público facultado para convenir un procedimiento arbitral, deberá tener nivel mínimo de Director General u homólogo en las dependencias, o su equivalente en las entidades.
+El servidor público facultado para convenir un procedimiento arbitral, deberá tener nivel mínimo de Director General u homólogo en las Dependencias, o su equivalente en las Entidades Federales.
 
 #### Sección Cuarta. Disposiciones Comunes de este Capítulo
 
@@ -1657,7 +1861,9 @@ I. No se aplicará por estudio o trabajo específico, sino que se considerará d
 
 II. El costo total estimado del proyecto se determinará con el resultado de sumar la Inversión Inicial y la estimación del total de las demás erogaciones en numerario durante la vigencia del proyecto, a la fecha propuesta para el inicio del proyecto, según los estudios de viabilidad mencionados en el artículo 14 de la Ley.
 
-En el evento de llegarse al límite señalado, para los pagos y nuevas contrataciones que lo excedan será necesaria la autorización del Comité de Adquisiciones, Arrendamientos y Servicios del Sector Público de la dependencia o entidad contratante.
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+En caso de llegar al límite señalado, los pagos y nuevas contrataciones que lo excedan, requerirán de la autorización del Comité de Adquisiciones, Arrendamientos y Servicios del Sector Público de la Dependencia o Entidad Federal contratante.
 
 #### Sección Segunda. De las Garantías en Favor de las Dependencias y Entidades
 
@@ -1681,17 +1887,23 @@ b) Que la fianza permanecerá vigente durante el plazo y sus prórrogas para el 
 
 c) Que para cancelar la fianza, será requisito contar con el consentimiento expreso de la dependencia o entidad federal, por haberse cumplido el total de las obligaciones garantizadas, y
 
-d) Que la afianzadora acepta expresamente someterse a los procedimientos de ejecución previstos en la Ley Federal de Instituciones de Fianzas, aún para el caso de que proceda el cobro de indemnización por mora con motivo del pago extemporáneo del importe de la póliza de fianza requerida.
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
-Tratándose de fianzas a favor de las dependencias, el procedimiento de ejecución será el previsto en el artículo 95 de la citada Ley Federal de Instituciones de Fianzas, debiéndose atender para el cobro de la indemnización por mora lo dispuesto en el artículo 95 bis de dicha Ley;
+d) Que la afianzadora acepta expresamente someterse a los procedimientos de ejecución previstos en la Ley de Instituciones de Seguros y de Fianzas, aún para el caso de que proceda el cobro de indemnización por mora con motivo del pago extemporáneo del importe de la póliza de fianza requerida.
+
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+Tratándose de fianzas a favor de las Dependencias, el procedimiento de ejecución será el previsto en el artículo 282 de la Ley de Instituciones de Seguros y de Fianzas;
 
 II. En caso de prórrogas o esperas, o cualesquiera modificaciones a las obligaciones garantizadas, deberán realizarse las modificaciones correspondientes a la fianza. Toda modificación deberá formalizarse con la participación de la afianzadora, en términos de las disposiciones aplicables;
 
 III. Cuando al realizarse el finiquito resulten saldos a cargo del afianzado y éste efectúe la totalidad del pago en forma incondicional, las dependencias y entidades deberán cancelar la fianza respectiva, y
 
-IV. Cuando se requiera hacer efectiva la fianza, las dependencias deberán remitir a la Tesorería de la Federación, dentro del plazo a que hace referencia el artículo 143 del Reglamento de la Ley del Servicio de Tesorería de la Federación, la solicitud donde se precise la información necesaria para identificar la obligación o crédito que se garantiza y los sujetos que se vinculan con la fianza, junto con los documentos que soporten y justifiquen el cobro, de conformidad con lo dispuesto por el Reglamento del Artículo 95 de la Ley Federal de Instituciones de Fianzas, para el Cobro de Fianzas Otorgadas a Favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, Distintas de las que Garantizan Obligaciones Fiscales Federales a cargo de Terceros.
+> <small>(REFORMADA, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
-Para hacer efectivas las fianzas a favor de entidades, la solicitud se remitirá al área correspondiente de la propia entidad.
+IV. Cuando se requiera hacer efectiva la fianza, las Dependencias deberán remitir a la Tesorería de la Federación, dentro del plazo que establezca el Reglamento de la Ley del Servicio de Tesorería de la Federación, la solicitud donde se precise la información necesaria para identificar la obligación o crédito que se garantiza y los sujetos que se vinculan con la fianza, y se sujetarán, en lo conducente, a lo dispuesto por el Reglamento del Artículo 95 de la Ley Federal de Instituciones de Fianzas, para el Cobro de Fianzas Otorgadas a Favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, Distintas de las que Garantizan Obligaciones Fiscales Federales a cargo de Terceros.
+
+Para hacer efectivas las fianzas a favor de Entidades Federales, la solicitud se remitirá al área correspondiente de dicha Entidad Federal.
 
 ###### Artículo 152.
 
@@ -1701,9 +1913,13 @@ En caso de garantías referidas a anticipos, deberán constituirse por el import
 
 La garantía de cumplimiento de un contrato podrá quedar referida al monto total por erogar y al cumplimiento de las obligaciones que corresponda realizar en un sólo ejercicio fiscal.
 
-En estos casos, deberá ser actualizada y renovada cada ejercicio fiscal, por el monto a ejercer y obligaciones a cumplir en el siguiente ejercicio, y presentarse a la dependencia o entidad contratante a más tardar dentro de los primeros diez días naturales del ejercicio fiscal que corresponda.
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
 
-A petición del desarrollador, la dependencia o entidad podrá acceder a que no se sustituya la garantía otorgada, siempre que continúe vigente y su importe mantenga la proporción pactada en relación con los montos a erogar y obligaciones a cumplir en cada ejercicio fiscal subsecuente.
+En estos casos, deberá ser actualizada y renovada cada ejercicio fiscal, por el monto a ejercer y obligaciones a cumplir en el siguiente ejercicio, y presentarse a la Dependencia o Entidad Federal contratante a más tardar dentro de los primeros diez días naturales del ejercicio fiscal que corresponda.
+
+> <small>(REFORMADO, D.O.F. 20 DE FEBRERO DE 2017)</small>
+
+A petición del Desarrollador, la Dependencia o Entidad Federal podrá acceder a que no se sustituya la garantía otorgada, siempre que continúe vigente y su importe mantenga la proporción pactada en relación con los montos a erogar y obligaciones a cumplir en cada ejercicio fiscal subsecuente.
 
 ###### Artículo 154.
 
@@ -1723,9 +1939,7 @@ La garantía prevista en el artículo 62 de la Ley se otorgará a favor de la co
 
 ###### Artículo 157.
 
-El otorgamiento de la garantía a que se refiere el artículo 142 de la Ley sólo será obligatorio cuando el particular solicite la suspensión del acto impugnado o de sus efectos.
-
-El monto de la garantía será el que señale la autoridad que deba resolver sobre el incidente de suspensión de que se trate, bajo su más estricta responsabilidad, atendiendo a la naturaleza del proyecto y siempre asegurando que el monto sea suficiente para cumplir con el objetivo de la garantía.
+(DEROGADO, D.O.F. 20 DE FEBRERO DE 2017)
 
 ## TRANSITORIOS
 
@@ -1761,10 +1975,16 @@ NOVENO.- La Secretaría expedirá los lineamientos previstos en el artículo 26 
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a treinta de octubre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Antonio Meade Kuribreña.- Rúbrica.- El Secretario de Desarrollo Social, Jesús Heriberto Félix Guerra.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan Rafael Elvira Quesada.- Rúbrica.- El Secretario de la Función Pública, Rafael Morgan Ríos.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 31 DE OCTUBRE DE 2014.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- En tanto entre en vigor la autonomía constitucional de la Fiscalía General de la República en términos del artículo transitorio Décimo Sexto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, la Procuraduría General de la República se sujetará a las disposiciones del Reglamento de la Ley de Asociaciones Público Privadas aplicables a las dependencias.
+
+D.O.F. 20 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
