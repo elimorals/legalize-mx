@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg894-2015-del-consejo-general-del-instituto-114590
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-05-17"
-last_updated: "2016-05-17"
+last_updated: "2017-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114590&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-10-14"
 ---
 # ACUERDO INE/CG894/2015 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE DETERMINA LA INTEGRACION DE LAS COMISIONES PERMANENTES DE CAPACITACION ELECTORAL Y EDUCACION CIVICA, ASI COMO DE ORGANIZACION ELECTORAL
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 21 DE FEBRERO DE 2017, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE DETERMINA LA INTEGRACIÓN DE LAS COMISIONES PERMANENTES DE CAPACITACIÓN ELECTORAL Y EDUCACIÓN CÍVICA, ASÍ COMO DE ORGANIZACIÓN ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de mayo de 2016.
 
@@ -94,3 +96,17 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 Los anexos pueden ser consultados en la siguiente dirección electrónica:
 
 http://www.ine.mx/archivos2/portal/ConsejoGeneral/SesionesConsejo/acuerdos/
+
+D.O.F. 21 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG750/2016, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+Primero.- Se modifica la integración de la Comisión del Servicio Profesional Electoral Nacional aprobada en el Acuerdo INE/CG46/2014, para que deje de integrar la misma el Consejero Electoral Marco Antonio Baños Martínez.
+
+Segundo.- Se modifica la integración de la Comisión de Organización Electoral aprobada en el Acuerdo INE/CG894/2015, para incluir como integrante de la misma al Consejero Electoral Marco Antonio Baños Martínez.
+
+Tercero.- El presente Acuerdo entrará en vigor a partir de su aprobación.
+
+Cuarto.- Publíquese en el Diario Oficial de la Federación y en la página de internet de este Instituto.
