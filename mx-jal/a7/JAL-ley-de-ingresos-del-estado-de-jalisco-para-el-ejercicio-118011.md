@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-118011"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-22"
-last_updated: "2017-01-24"
+last_updated: "2017-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2017
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 22 de diciembre de 2016.
 
@@ -643,7 +643,9 @@ l. La celebración, realización o expedición de cualquier contrato, convenio y
 
 II. La protocolización, asiento en el libro de registro, realización, expedición o autorización de convenios, contratos, actos jurídicos, documentos, actas y pólizas ante fedatario público, excepto aquellos relativos a la transmisión de la propiedad inmobiliaria, atendiendo a que la transmisión patrimonial es materia tributaria reservada exclusivamente a los Municipios de conformidad con el artículo 115 fracción IV de la Constitución Política de los Estados Unidos Mexicanos, el: 1.0 %
 
-III. En los demás contratos, actos o instrumentos notariales de índole no contractual o sin valor pecuniario; se pagarán por cada uno: $ 1,000.00
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2017)</small>
+
+III. En los demás contratos, actos o instrumentos notariales de índole no contractual o sin valor pecuniario; se pagarán por cada uno: $300.00
 
 Si al aplicar las tasas anteriores resulta un impuesto inferior a $ 300.00, se cobrará esta cantidad.
 
@@ -719,7 +721,9 @@ a) Sobre el valor que resulte mayor entre el catastral, el comercial o el que se
 
 Tratándose de los actos o contratos relativos a la adquisición de inmuebles destinados a actividades industriales, sobre el valor que resulte mayor entre el consignado, el comercial o el que se desprenda del contenido del documento a registrar, se pagara el 0.35%
 
-Si al aplicar la tasa anterior, resulta un derecho inferior a $1,000.00, se cobrará esta cantidad.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
+
+Si al aplicar la tasa anterior, resulta un derecho inferior a $436.00, se cobrará esta cantidad.
 
 Tratándose de vivienda económica se cobraran 4 (cuatro) veces la Unidad de Medida y Actualización vigente en el ejercicio fiscal 2017.
 
@@ -735,11 +739,15 @@ Se entiende por vivienda popular y unifamiliar, aquella cuyo valor catastral no 
 
 b) Por el registro de la construcción, si se trata de vivienda, se aplicará lo dispuesto en el inciso a) que antecede y, en cualquier otro caso, sobre la base a que se refiere el artículo 19 de esta Ley, el: 0.50 %
 
-Si al aplicar la tasa anterior resulta un derecho inferior a $1,000.00, se cobrará esta cantidad.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
+
+Si al aplicar la tasa anterior, resulta un derecho inferior a $436.00, se cobrará esta cantidad.
 
 c) La adjudicación de los bienes propiedad de sociedades o asociaciones a favor de los socios y asociados, sobre el valor de los bienes, el: 0.35%
 
-Si al aplicar la tasa anterior resulta un derecho inferior a $ 1,000.00, se cobrará esta cantidad.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
+
+Si al aplicar la tasa anterior, resulta un derecho inferior a $436.00, se cobrará esta cantidad.
 
 d) Contratos de afianzamiento, se pagará sobre el valor consignado el: 0.50 %
 
@@ -761,7 +769,9 @@ i) Por cada inscripción, modificación, transmisión, renovación o cancelació
 
 j) Por transmisión de partes sociales de personas jurídicas de carácter civil, sobre el valor transmitido el: 0.50%
 
-Si al aplicar la tasa anterior resulta un derecho inferior a $ 1,000.00, se cobrará esta cantidad.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
+
+Si al aplicar la tasa anterior, resulta un derecho inferior a $436.00, se cobrará esta cantidad.
 
 Ningún pago de derechos que se derive de aplicar lo dispuesto en esta fracción, por servicio individual prestado, podrá ser mayor a $63,070.00.
 
@@ -867,7 +877,9 @@ En los casos de permuta de inmuebles o de derechos reales, los derechos de regis
 
 Por la inscripción o reinscripción de providencias precautorias, embargos y aseguramientos, sobre el monto total de lo reclamado o, en su defecto, sobre el valor catastral del inmueble sujeto a embargo, se cobrará el 0.50% sin que exceda de: $63,070.00.
 
-Si al aplicar las tasas anteriores, resulta un derecho inferior a $1,000.00, se cobrará esta cantidad.
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
+
+Si al aplicar la tasa anterior, resulta un derecho inferior a $436.00, se cobrará esta cantidad.
 
 ###### Artículo 19.
 
@@ -2270,3 +2282,9 @@ P.O. 24 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26266/LXI/16 QUE REFORMA LOS ARTÍCULOS 24 Y 28 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, EJERCICIO FISCAL 2017”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26298/LXI/17 QUE REFORMAN LOS ARTÍCULOS 12 FRACCIÓN III, 17 FRACCIÓN I, INCISOS A) TERCER PÁRRAFO, B) SEGUNDO PÁRRAFO, C) SEGUNDO PÁRRAFO, J) SEGUNDO PÁRRAFO Y 18 TERCER PÁRRAFO DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, EJERCICIO FISCAL 2017.”.]
+
+UNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el periódico oficial “El Estado de Jalisco”.
