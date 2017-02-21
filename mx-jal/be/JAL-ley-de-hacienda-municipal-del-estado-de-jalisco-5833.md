@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2016-11-26"
+last_updated: "2017-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -99,8 +101,6 @@ Todo ingreso que perciba el Municipio deberá integrarse al acervo común de la 
 
 Las Leyes de ingresos municipales establecerán, anualmente los ingresos ordinarios de naturaleza fiscal que deban recaudarse, así como las tarifas correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
 
 Art. 10 bis. Corresponde a los Ayuntamientos, en los términos de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, determinar los servidores públicos municipales que tendrán la obligación de caucionar el ejercicio de su función, misma que no podrá ser liberada en tanto no sea aprobada la cuenta pública o no exista liberación de responsabilidad por parte de la Auditoría Superior.
@@ -138,8 +138,6 @@ El Congreso del Estado aprobará a más tardar al día treinta de noviembre de c
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 1998)</small>
 
 Si por cualquier circunstancia el Congreso del Estado no aprobara la Ley de Ingresos respectiva, se tendrá como ley de ingresos aprobada para ese determinado ejercicio fiscal, la ley de ingresos que se hubiere aprobado para el ejercicio fiscal inmediato anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -187,8 +185,6 @@ I. El Ayuntamiento;
 
 II. El Presidente Municipal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
 III. El funcionario encargado de la hacienda municipal cualquiera que sea su denominación en la presente ley o en los reglamentos municipales;
@@ -222,8 +218,6 @@ Las autoridades fiscales del Estado podrán coordinarse con las del Municipio pa
 Son atribuciones del Ayuntamiento:
 
 I. Celebrar convenios con los gobiernos Federal y Estatal, para la recaudación y cobro de contribuciones, cuando esto represente un beneficio para la Hacienda Municipal; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -323,21 +317,15 @@ XII. Fijar las cuotas o porcentajes que cubrirán los contribuyentes por cualqui
 
 XIII. Las demás que le otorguen otras Leyes o disposiciones fiscales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PÁRRAFO], P.O. 5 DE JULIO DE 2008)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. DEROGADO TERCER PÁRRAFO], P.O. 5 DE JULIO DE 2008)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE E. DEROGADO CUARTO PÁRRAFO], P.O. 5 DE JULIO DE 2008)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
 
-Art. 23 bis. El servidor público encargado del área de ingresos, en los municipios donde exista, tendrá las atribuciones a que se refiere las fracciones I, III, IV, VI y XII del artículo anterior, con excepción del inciso b) y la fracción III, sin perjuicio de las facultades de las demás autoridades fiscales.
+Art. 23 bis. El servidor público encargado del área de ingresos, en los municipios donde exista, tendrá las atribuciones a que se refieren las fracciones I, II, IV, VI y XII del artículo anterior, con excepción del inciso b) de la fracción III, sin perjuicio de las facultades de las demás autoridades fiscales.
 
 Dicho servidor público deberá aceptar en todo momento las órdenes y determinaciones del Tesorero Municipal o del Encargado de la Hacienda Municipal.
 
@@ -577,9 +565,29 @@ III. Si se trata de obligaciones derivadas de contratos o concesiones que no se�
 
 IV. Si el crédito se determina mediante un convenio, en el término que éste lo señale.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
+
 ###### Art. 44.
 
-La falta de pago de un crédito fiscal, en la fecha o plazo establecido en las disposiciones respectivas, determina que el crédito sea exigible en los términos de esta Ley.
+La falta de pago de un crédito fiscal, en la fecha o plazo establecido en las disposiciones respectivas, determina que el crédito sea exigible en los términos de esta ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE FEBRERO DE 2017)</small>
+
+###### Art. 44 Bis.
+
+Cuando no se cubran las contribuciones por concepto de los impuestos, derechos, aprovechamientos y contribuciones especiales municipales, dentro de los plazos establecidos por la ley, así como de las devoluciones a cargo del fisco municipal, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar.
+
+En el caso de un crédito fiscal el factor de actualización se obtendrá dividiendo A entre B donde:
+
+A= Índice nacional de precios al consumidor vigente en el momento en que suceda el pago del contribuyente;
+
+B= Índice citado, vigente en el momento en que se hace exigible el pago por parte del fisco.
+
+Los créditos fiscales, no se actualizarán por fracciones de mes.
+
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no haya sido publicado por el Instituto Nacional de Estadística y Geografía y/o Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+
+Las cantidades actualizadas, conservará (sic) la naturaleza jurídica que tenían antes de la actualización.
 
 ###### Art. 45.
 
@@ -1235,7 +1243,9 @@ Es Objeto de este impuesto, el traslado del dominio, de la propiedad o de los de
 
 Para efectos de este artículo se entiende que existe traslado de dominio o de derechos de propiedad o copropiedad de bienes inmuebles siempre que se realice:
 
-I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituirse la copropiedad o la sociedad conyugal;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2017)</small>
+
+I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituírse la sociedad conyugal.
 
 II. La compraventa en la que el vendedor se reserva la propiedad, aun cuando la transferencia de ésta opere con posterioridad;
 
@@ -1301,27 +1311,45 @@ Tratándose de permutas, se considerará que se efectúan dos adquisiciones.
 
 Es sujeto de este impuesto la persona física o jurídica que, como resultado de cualquiera de los actos jurídicos o contratos a que se refiere el artículo inmediato anterior, adquiera el dominio, derechos de propiedad, copropiedad o cualquier derecho real sobre uno o más bienes inmuebles.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2017)</small>
 
 ###### Art. 114.
 
 En la determinación de la base del impuesto sobre transmisiones patrimoniales, se aplicarán las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2017)</small>
 
-I. Será base del impuesto, el valor catastral actualizado con los valores unitarios vigentes en la fecha de causación, incluyendo en su caso, el valor de los accesorios y las instalaciones especiales que pertenezcan al inmueble;
+I. Será base del Impuesto sobre Transmisiones Patrimoniales, el valor más alto entre:
+
+a) Valor de avalúo practicado por perito autorizado y aprobado por la Dirección de Catastro del Municipio correspondiente.
+
+b) El valor o precio de operación pactado y señalado en el aviso de transmisión patrimonial, contrato o escritura pública.
+
+Tratándose de la transmisión, cualquiera que sea la forma en que se haga, de inmuebles destinados exclusivamente a casa habitación, o lotes de terreno que se dedicarán a tal fin, la base del impuesto será el valor de avalúo autorizado por la Dirección de Catastro del Municipio correspondiente.
+
+Por lo que ve al destino o uso del inmueble materia de la operación, el adquirente lo manifestará en el contrato o escritura pública, bajo protesta de decir verdad; en caso que manifieste destino o uso habitacional y posteriormente lo destine a otro uso o fin diverso, el adquirente deberá pagar el diferencial, de haberlo, con actualización y recargos correspondientes, conforme a lo dispuesto en los incisos a) y b) que anteceden.
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
 II. Tratándose de inmuebles que no cuenten con accesorios o instalaciones especiales, deberá presentarse avalúo practicado por perito valuador acreditado o dictamen de valor elaborado por la autoridad catastral, conforme a las disposiciones de la Ley de Catastro Municipal;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 III. Tratándose de inmuebles que cuenten con accesorios o instalaciones especiales, deberá practicarse avalúo por perito valuador acreditado;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 IV. Los peritos valuadores acreditados deberán presentar sus avalúos ante la autoridad catastral municipal para fines de revisión y, en su caso, aprobación;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 V. Si las autoridades advierten que los avalúos consignan valores inferiores a los reales, se practicará nuevo avalúo por un perito valuador acreditado, con cargo a la Tesorería Municipal correspondiente, a efecto de dar cumplimiento a lo dispuesto en la fracción II de este artículo;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 VI. Cuando el contribuyente considere que el dictamen de valor asignado al inmueble, con base en lo preceptuado en la fracción I de este artículo, es superior al valor real, podrá solicitar la reclasificación de los datos catastrales, a fin de que la autoridad catastral haga la ratificación o rectificación según corresponda, en los términos de la Ley de Catastro Municipal;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 VII. Cuando la autoridad catastral considere que el avalúo presentado para su revisión es coincidente con los valores reales, y éstos sean inferiores a los valores de tablas, estará facultada para emitir un dictamen, fundado y motivado, mediante el cual apruebe el avalúo correspondiente;
 
@@ -1329,15 +1357,27 @@ VII. Cuando la autoridad catastral considere que el avalúo presentado para su r
 
 VIII. Para la actualización del valor catastral, se podrán tomar en consideración los datos y características del inmueble, que se consignen en el avalúo practicado por el perito valuador acreditado;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 IX. En la constitución, adquisición, acrecentamiento o extinción del usufructo, del derecho de superficie o de la nuda propiedad, y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo o dictamen de valor según sea el caso, de conformidad con la fracción I de este artículo. Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos del 50% cincuenta por ciento del valor de la propiedad;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 X. Tratándose de permutas será base de este impuesto el 100% cien por cien (sic) del valor de cada uno de los bienes permutados, determinado de conformidad con lo dispuesto en las fracciones I y II de este artículo;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 XI. En los casos de transmisión o cesión de derechos hereditarios, o de disolución de copropiedad o de sociedad legal, la base del impuesto será el valor de la parte proporcional del bien o bienes que correspondan a los derechos que se transmiten o en que se incrementen las correspondientes porciones de los copropietarios o coherederos, determinado de acuerdo con lo señalado en las fracciones I y II de este artículo;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 XII. Si en la disolución de copropiedad o de la sociedad legal se recurre a la compensación de valores pecuniarios que repercuta en los inmuebles a repartir, la Tesorería Municipal estará facultada para exigir que se acredite la existencia de los mismos a efecto de determinar este impuesto;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+
 XIII. Cuando los inmuebles que forman el patrimonio de la copropiedad o sociedad conyugal se ubiquen en distintos municipios, el excedente se cubrirá en aquél en que exista el mayor porcentaje de valor del patrimonio; y
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 XIV. En el caso de municipios que no cuenten con tablas de valores actualizadas, el dictamen de valor se hará con base en las tablas vigentes, multiplicadas por el factor que establezcan sus respectivas leyes de ingresos.
 
@@ -1873,8 +1913,6 @@ Los derechos que las Leyes de Ingresos Municipales fijen por este concepto, debe
 
 Los Oficiales del Registro Civil están obligados, en todos los casos, a consignar en las actas, el lugar y la hora en que se celebre el acto, así como el número del recibo oficial de pago de los derechos causados, cuando éste tenga verificativo en horas extraordinarias o a domicilio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 170 Bis.
@@ -1899,19 +1937,13 @@ No causarán el pago de derechos por certificaciones:
 
 I. Las que asiente la autoridad municipal respecto de la clausura de establecimientos, para fines fiscales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 II. Las que las autoridades municipales asienten en los expedientes de los negocios que se tramitan ante ellas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
 III. Los certificados de buena conducta o de insolvencia que expida la autoridad municipal, y que se destinen para realizar trámites relativos a la educación; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2014)</small>
 
@@ -1991,8 +2023,6 @@ Los actos o contratos que surtan efectos posteriores al período del Ayuntamient
 
 Queda prohibido el subarrendamiento de bienes inmuebles propiedad del Municipio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 182.
@@ -2044,8 +2074,6 @@ Los productos a que se refiere este capítulo se cobrarán por metro cuadrado, l
 ###### Art. 190.
 
 El pago de los productos señalados en este capítulo, se hará por adelantado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2151,7 +2179,15 @@ VIII. Cuando se omita una prestación fiscal que corresponda a los actos o contr
 
 IX. Cuando la liquidación de alguna prestación fiscal esté encomendada a Servidores Públicos del Municipio o del Estado, éstos serán responsables de las infracciones que se cometan y se les aplicarán las sanciones que correspondan, quedando únicamente obligados los contribuyentes a pagar la prestación omitida;
 
-X. La Tesorería Municipal se abstendrá de imponer sanciones, cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito, o cuando se enteren, en forma espontánea los créditos fiscales no cubiertos, dentro de los plazos señalados por las disposiciones respectivas. No se considerará que el entero es espontáneo, cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquiera otra gestión de cobro efectuada por las mismas; y
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2017)</small>
+
+X. La Tesorería Municipal se abstendrá de imponer sanciones, cuando se haya incurrido en infracciones a causa de fuerza mayor o de caso fortuito, o cuando se enteren, en forma espontánea los créditos fiscales no cubiertos, dentro de los plazos señalados por las disposiciones respectivas. No se considerará que el entero es espontáneo, cuando:
+
+a) La omisión sea descubierta por las autoridades fiscales;
+
+b) Medie requerimiento, visita, excitativa o cualquiera otra gestión de cobro efectuada por las mismas;
+
+c) Se trate de actos o contratos que se hagan constar ante los notarios o corredores públicos y éstos incumplan con lo establecido en el artículo 116 de la presente ley; y
 
 XI. Cuando las multas impuestas por las autoridades fiscales se paguen dentro de los plazos establecidos en las disposiciones respectivas, la sanción se reducirá en la cantidad que señalen los Reglamentos correspondientes; a falta de éstos, se reducirán en un 20 % de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
 
@@ -2195,8 +2231,6 @@ Tratándose de giros en los que se realicen actividades en forma eventual o que 
 
 Se entiende por gasto público municipal, el conjunto de las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o deuda pública que realice el Ayuntamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 202.
@@ -2207,15 +2241,11 @@ Dichos indicadores de desempeño corresponderán a un índice, medida, cociente 
 
 La elaboración del presupuesto deberá realizarse por cada año calendario, en base a costos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 203.
 
 Las actividades de revisión y evaluación del gasto público municipal, estarán a cargo de la Auditoría Superior y el Congreso del Estado, de conformidad con la Constitución Política y la Ley de Fiscalización Superior y de Auditoría Pública, ambos ordenamientos del Estado de Jalisco.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2335,15 +2365,11 @@ VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la pre
 
 Para los efectos de esta Ley, la cuenta pública del Municipio está constituida por los estados contables y financieros, y demás información que muestre el registro de las operaciones derivadas de la aplicación de las Leyes de Ingresos y del ejercicio del gasto público municipal, la incidencia de las mismas operaciones y de otras cuentas en el activo y pasivo totales de la Hacienda municipal, y en un patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones del Ayuntamiento y los estados detallados de la Deuda Pública Municipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 223.
 
 La revisión de las cuentas públicas anuales que deben presentar los ayuntamientos de la entidad, se realizarán de acuerdo a lo dispuesto por el artículo 35-Bis de la Constitución Política del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2361,23 +2387,17 @@ La revisión no sólo comprenderá la conformidad de ingresos y egresos, sino qu
 
 Si de la revisión aparecieren discrepancias entre las cantidades gastadas y las partidas respectivas de los presupuestos, o no existiere exactitud o justificación en los gastos hechos, o de los ingresos percibidos, se determinarán y fincarán las responsabilidades procedentes, ante la autoridad competente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 226.
 
 A solicitud de la Auditoría Superior, el encargado de la hacienda municipal informará de los actos, convenios o contratos de los que resulten derechos u obligaciones para el Ayuntamiento, con el objeto de verificar si de sus términos y condiciones, pudieran derivarse daños, en contra de la hacienda pública municipal o impliquen incumplimiento de alguna ley relacionada con la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 227.
 
 El encargado de la hacienda municipal está obligado a proporcionar a la a (sic) Auditoría Superior la información que se le solicite y a permitir la práctica de visitas, inspecciones y auditorías necesarias, que éste determine, para el esclarecimiento de los hechos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2386,8 +2406,6 @@ El encargado de la hacienda municipal está obligado a proporcionar a la a (sic)
 Si el encargado de la hacienda municipal se negare a proporcionar la información solicitada por la Auditoria Superior del Estado, o no permitiera la revisión de los libros, instrumentos y documentos comprobatorios y justificativos del ingreso y del gasto público, ni permitiera la práctica de visitas, inspecciones y auditorías, la Auditoría Superior del Estado resolverá lo conducente y en los términos de la Ley de Fiscalización Superior y de Auditoría Pública del Estado de Jalisco.
 
 ### CAPITULO II. De la Contabilidad
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2407,23 +2425,17 @@ La contabilidad de la Tesorería Municipal se llevará con base acumulativa para
 
 Los sistemas de contabilidad deberán diseñarse y operarse en forma que faciliten la fiscalización de activos, pasivos, ingresos, costos, gastos, avances en la ejecución de los programas y, en general, de manera que permitan medir la eficiencia y eficacia del gasto público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 233.
 
 El encargado de la hacienda municipal suministrará a la Auditoría Superior la información contable, financiera y de cualquiera otra índole que le requiera.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 234.
 
 La Auditoría Superior determinará la forma y términos en que el encargado de la hacienda municipal deberá llevar a cabo sus registros auxiliares y contabilidad y, en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada dependencia de hacienda municipal y podrá autorizar sus modificaciones o simplificación y adecuarlas a las disposiciones federales que expida el Congreso de la Unión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2446,8 +2458,6 @@ Para los efectos de esta Ley, incurre en responsabilidad toda persona física o 
 > <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2004)</small>
 
 Art. 236 bis.- Los Ayuntamientos están obligados a conservar la documentación comprobatoria de su contabilidad de archivos físicos por seis años.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2474,8 +2484,6 @@ II. A los particulares; sean personas físicas o morales, cuando aprovechándose
 ###### Art. 239.
 
 Las responsabilidades que se constituyan a cargo de los servidores públicos, no eximen ni a las empresas privadas ni a los particulares, de sus obligaciones derivadas de la responsabilidad incurrida, cuyo cumplimiento se les exigirá, aún cuando la responsabilidad en que se hubiese incurrido fuese total o parcial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2633,6 +2641,10 @@ V. En los casos que prevengan otras disposiciones.
 
 Tratándose de las fracs. III y IV de este artículo, la autoridad deberá iniciar el procedimiento tendiente a determinar y liquidar el crédito fiscal, en un plazo que no excederá de treinta días.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE FEBRERO DE 2017)</small>
+
+Se podrá practicar embargo precautorio, sobre los bienes o la negación del contribuyente, dinero, metales preciosos, depósitos bancarios o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, para asegurar el interés fiscal, cuando el crédito fiscal no se (sic) exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo.
+
 ###### Art. 258.
 
 El ejecutor que designe la Tesorería Municipal se constituirá en el domicilio del deudor y practicará la diligencia del secuestro administrativo, con las mismas formalidades de las notificaciones personales.
@@ -2641,25 +2653,41 @@ Si el requerimiento de pago se hizo por edictos, la diligencia de embargo se ent
 
 En el caso de la frac. IV del artículo anterior, quien realice el acto de inspección llevará a cabo el embargo, si está facultado para ello, en la orden de inspección.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
+
 ###### Art. 259.
 
-El deudor, o en su defecto, la persona con quien se entienda la diligencia, tendrá derecho a designar los bienes que deben embargarse, siempre que se sujeten al orden que sigue:
+El deudor, o en su defecto, la persona con quien se entienda la diligencia, tendrá derecho a designar los bienes que deben embargarse.
 
-I. Dinero y metales preciosos;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE FEBRERO DE 2017)</small>
 
-II. Acciones, bonos, títulos o valores en general, créditos de inmediato y fácil cobro, a cargo de instituciones y empresas particulares de reconocida solvencia;
+###### Art. 259-A.
 
-III. Alhajas y objetos de arte;
+El ejecutor podrá hacer la designación de bienes que deban embargarse o asegurarse, si el deudor no lo hace o si los señalados no son suficientes para garantizar el crédito fiscal, debiendo de sujetarse al siguiente orden:
 
-IV. Frutos o rentas de toda especie;
+a) Dinero y metales preciosos,
 
-V. Bienes muebles no comprendidos en las fracciones anteriores;
+b) Acciones, bonos, títulos o valores y en general, créditos de inmediato y fácil cobro;
 
-VI. Bienes inmuebles;
+c) Alhajas y objetos de arte;
 
-VII. Negociaciones industriales, comerciales, de prestación de servicios, agrícolas y ganaderas; y
+d) Frutos o rentas de toda especie;
 
-VIII. Créditos o derechos no comprendidos en la frac. II.
+e) Bienes muebles no comprendidos en los incisos anteriores;
+
+f) Bienes inmuebles;
+
+g) Créditos o derechos no comprendidos en inciso b); y
+
+h) Negociaciones con todo lo que de hecho y derecho corresponda.
+
+i) Depósitos bancarios o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE FEBRERO DE 2017)</small>
+
+###### Art. 259-B.
+
+La inmovilización que proceda como consecuencia del embargo de depósitos a que se refiere el artículo anterior, derivado de créditos firmes, dará lugar a que la autoridad fiscal otorgue cinco días naturales para que el deudor presente garantía suficiente, y en caso de no hacerlo o no sea suficiente, el encargado de la hacienda municipal o quien haga sus funciones, ordenará a la entidad financiera o sociedades cooperativas de ahorro y préstamo, la transferencia de los recursos hasta por el monto del crédito fiscal a favor del ayuntamiento. En el caso de que los recursos transferidos sean por el total del crédito fiscal, se habrá de ordenar la liberación del embargo en el término de tres días a partir de realizada la transferencia.
 
 ###### Art. 260.
 
@@ -3715,6 +3743,12 @@ P.O. 11 DE OCTUBRE DE 2016.
 
 P.O. 26 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 25918/LXI/16 QUE REFORMA LOS ARTÍCULOS 7, 8, 9, 10, 11, 15, 17, 20, 23, 24, 25, 26, 27, 32, 36, 37, 38, 38 BIS, 39 BIS, 41, 44, 47, 48, 50, 51, 51 BIS, 51 TER, 60, 62, 65, 67, 68, 72, 73, 77, 79 BIS, 80, 88, 93, 93 BIS, 94, 95, 98, 102, 103, 104, 107, 119, 121, 123 BIS, 124, 125, 126, 127, 128, 129, 130, 131, 132, 132 BIS, 133 BIS, 134, 136, 142, 144, 145 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, LOS ARTÍCULOS 61, 69, Y 76 BIS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y EL ARTÍCULO 179 DE LA LEY DE HACIENDA PÚBLICA MUNICIPAL TODAS DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 25918/LXI/16 QUE REFORMA LOS ARTÍCULOS 7, 8, 9, 10, 11, 15, 17, 20, 23, 24, 25, 26, 27, 32, 36, 37, 38, 38 BIS, 39 BIS, 41, 44, 47, 48, 50, 51, 51 BIS, 51 TER, 60, 62, 65, 67, 68, 72, 73, 77, 79 BIS, 80, 88, 93, 93 BIS, 94, 95, 98, 102, 103, 104, 107, 119, 121, 123 BIS, 124, 125, 126, 127, 128, 129, 130, 131, 132, 132 BIS, 133 BIS, 134, 136, 142, 144, 145 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, LOS ARTÍCULOS 61, 69, Y 76 BIS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y EL ARTÍCULO 179 DE LA LEY DE HACIENDA PÚBLICA MUNICIPAL TODAS DEL ESTADO DE JALISCO”.]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26212/LXI/16 QUE REFORMA LOS ARTÍCULOS 23-BIS, 44, 44 BIS, 112, 114, 197, FRACCIÓN X, 257, 259 A Y 259 B DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor a los diez días hábiles siguientes al de su publicación en el periódico oficial "El Estado de Jalisco".
