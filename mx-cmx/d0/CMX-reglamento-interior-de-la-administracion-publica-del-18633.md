@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-02-01"
+last_updated: "2017-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -102,9 +102,9 @@ II. (DEROGADA, G.O. 15 DE NOVIEMBRE DE 2016)
 
 III. Las demás que le sean adscritas conforme a las disposiciones jurídicas y administrativas aplicables.
 
-> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2017)</small>
 
-Asimismo, se le adscriben los órganos desconcentrados denominados Junta de Asistencia Privada, Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5) y Agencia de Gestión Urbana de la Ciudad de México.
+Asimismo, se le adscriben los órganos desconcentrados denominados Junta de Asistencia Privada y Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5).
 
 ###### Artículo 7º.
 
@@ -258,9 +258,7 @@ A) La Subsecretaría de Proyectos Estratégicos.
 
 1. Dirección General de Obras Públicas;
 
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2013)</small>
-
-2. Dirección General de Servicios Urbanos;
+2. (DEROGADO, G.O. 21 DE FEBRERO DE 2017)
 
 > <small>(REFORMADO, G.O. 31 DE ENERO DE 2017)</small>
 
@@ -280,9 +278,9 @@ A) La Subsecretaría de Proyectos Estratégicos.
 
 7. (DEROGADO, G.O. 16 DE JULIO DE 2009)
 
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2017)</small>
 
-Asimismo, se le adscribe el Órgano Desconcentrado denominado Planta de Asfalto del Distrito Federal.
+Asimismo, se le adscriben los órganos desconcentrados Planta de Asfalto, Proyecto Metro y Agencia de Gestión Urbana, todos de la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -4378,43 +4376,9 @@ XXIX. Verificar que la construcción y mantenimiento de obras concesionadas se l
 
 XXX. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2008)</small>
-
 ###### Artículo 58.
 
-Corresponde a la Dirección General de Servicios Urbanos:
-
-I. Establecer los criterios y normas técnicas para la conservación y mantenimiento de la infraestructura y equipamiento vial, alumbrado público y de todos aquellos elementos que determinan el funcionamiento e imagen urbana de las vialidades en el Distrito Federal;
-
-II. Establecer los criterios y normas técnicas para realizar obras de alumbrado público que formen parte de infraestructura y equipamiento de la imagen urbana;
-
-III. Participar en los estudios y proyectos de obras de infraestructura y equipamiento vial;
-
-IV. Realizar las acciones de conservación y mantenimiento vial, alumbrado público y de todos aquellos elementos que determinan la funcionalidad e imagen urbana de las vialidades que conforman la red vial primaria, vías rápidas y ejes viales;
-
-V. Realizar, en coordinación con los órganos político-administrativos, las acciones de conservación y mantenimiento vial, alumbrado público y de todos aquellos elementos que determinan el funcionamiento y la imagen urbana de las vialidades principales;
-
-VI. Atender y dar seguimiento a las necesidades de conservación y mantenimiento de la infraestructura y equipamiento vial y del alumbrado público, así como de aquellos elementos que determinan la imagen urbana de las vialidades;
-
-VII. Establecer en coordinación con las autoridades competentes, criterios y normas técnicas para las actividades de minimización, recolección, transferencia, tratamiento y disposición final de desechos sólidos, restaurar sitios contaminados, así como establecer los sistemas de reciclamiento y tratamiento de desechos sólidos;
-
-VIII. Realizar los estudios, proyectos y la construcción, conservación y mantenimiento de obras de infraestructura para el manejo de los desechos sólidos, estaciones de transferencia, plantas de selección y aprovechamiento, así como sitios de disposición final;
-
-IX. Organizar y llevar a cabo el tratamiento y disposición final de los desechos sólidos, así como la operación de las estaciones de transferencia;
-
-X. Participar en el ámbito de sus atribuciones, en el diseño y ejecución de las obras que requieran servicios urbanos, cuyo desarrollo esté a cargo de otras Unidades Administrativas; y
-
-XI. Con base en las políticas de la Secretaría de Obras y Servicios, definir los Programas para el Desarrollo de los Servicios Urbanos en el Distrito Federal, precisando los objetivos, prioridades, metas, normas técnicas y procesos básicos a los que deben apegarse las Unidades Administrativas, que coadyuvan en la prestación de éstos, y
-
-XII. Repavimentar y dar mantenimiento preventivo a la red vial primaria.
-
-> <small>(ADICIONADA, G.O. 15 DE FEBRERO DE 2013)</small>
-
-XIII. Llevar a cabo las licitaciones y suscribir los contratos que sean necesarios para el ejercicio de sus facultades en materia de obra pública, así como la terminación anticipada y/o rescisión de los mismos, informando de tales acciones a su superior jerárquico.
-
-> <small>(ADICIONADA, G.O. 15 DE FEBRERO DE 2013)</small>
-
-XIV. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+(DEROGADO, G.O. 21 DE FEBRERO DE 2017)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE ENERO DE 2017)</small>
 
@@ -18108,6 +18072,234 @@ IX. Administrar la calidad de los pavimentos de las vialidad es (sic) a cargo de
 
 X. Proponer para su autorización conjunta por parte de la Secretaría de Obras y Servicios y de la Secretaría de Finanzas, los precios de venta de las emulsiones, mezclas asfálticas en sus diferentes modalidades y derivados para las Dependencias, Órganos Desconcentrados y Entidades del Gobierno del Distrito Federal, así como los de la Federación, Estados, Municipios y particulares.
 
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2017)</small>
+
+###### Artículo 207 Ter.
+
+La Agencia de Gestión Urbana de la Ciudad de México es un órgano desconcentrado adscrito a la Secretaría de Obras y Servicios, con autonomía de gestión, que tiene como objeto la atención, gestión y ejecución de los servicios urbanos en la red vial primaria y el mantenimiento de los espacios públicos de la Ciudad de México que le sean encomendados; así como regular, planear e innovar el diseño y la ejecución de políticas públicas, programas y acciones en materia de servicios urbanos e intervenciones en la vía pública que incidan en la funcionalidad de ésta, en coordinación con los Órganos de la Administración Pública local o federal competentes, así como observar que las intervenciones cuya ejecución se encuentre a cargo del sector privado se lleven a cabo en cumplimiento de las normas y demás disposiciones en la materia; para lo cual contará con las siguientes atribuciones:
+
+I.- Diseñar, planear y ejecutar las políticas, programas y acciones relacionadas con la prestación de los servicios urbanos que se refieren al mejoramiento y mantenimiento de la imagen urbana, infraestructura vial, áreas verdes y alumbrado público, así como los servicios de limpia y en general la gestión integral de los residuos sólidos urbanos de la red vial primaria de la Ciudad de México y espacios públicos que le sean encomendados;
+
+II.- Establecer mecanismos de coordinación con los Órganos Político- Administrativos en el ámbito de su competencia, para el diseño y ejecución de acciones relacionadas con la prestación de los servicios urbanos en las demarcaciones territoriales y en su caso, solicitar la información relacionada;
+
+III.- Requerir a los Órganos de la Administración Pública local, federal, estatal, municipal o sector privado la información relacionada con las intervenciones en la vía pública de la Ciudad de México que incidan en la funcionalidad de ésta;
+
+IV.- Planear la prestación de los servicios urbanos a cargo de la Agencia de Gestión Urbana y coordinar su ejecución con los Órganos de la Administración Pública local y federal, así como con el sector privado;
+
+V.- Planear y coordinar las intervenciones en la vía pública a cargo de la Agencia de Gestión Urbana, los Órganos de la Administración Pública local y federal, así como el (sic) sector privado que incidan en la funcionalidad de la vía pública de la Ciudad de México;
+
+VI.- Participar con los Órganos de la Administración Pública local y federal, en la ejecución de las políticas, programas y acciones públicas cuyas atribuciones y actividades institucionales se relacionen con la prestación de servicios urbanos e intervenciones en la vía pública que incidan en su funcionalidad;
+
+VII.- Recibir y atender la demanda ciudadana relacionada con la prestación de los servicios urbanos e intervenciones en la vía pública que afecten la funcionalidad de ésta en la red vial primaria y canalizar aquella que tengan a su cargo otros Órganos de la Administración Pública de la Ciudad de México o sector privado;
+
+VIII.- Proponer normas y demás disposiciones administrativas para la ejecución de las intervenciones en la vía pública y la realización de acciones institucionales que puedan incidir o tener un impacto en la prestación de los servicios urbanos o en la funcionalidad de ésta;
+
+IX.- Promover y suscribir los instrumentos necesarios para la aportación de recursos de los sectores público, social y privado, a efecto de llevar a cabo los proyectos y programas vinculados con el objeto de la Agencia de Gestión Urbana de la Ciudad de México;
+
+X.- Generar estrategias de programación y ejecución de las intervenciones en la vía pública que incidan en la prestación de los servicios urbanos y en la funcionalidad de ésta;
+
+XI.- Identificar incidencias y necesidades de atención de los servicios urbanos para el mejoramiento de la imagen y funcionalidad de la vía pública de la Ciudad de México;
+
+XII.- Revisar que las acciones e intervenciones en la vía pública se realicen de conformidad con los permisos, licencias, concesiones, especificaciones técnicas y demás instrumentos emitidos de acuerdo con la normatividad aplicable;
+
+XIII.- Realizar las acciones administrativas conducentes cuando se detecte la ejecución de intervenciones en la vía pública que afecten su funcionalidad, la prestación de los servicios urbanos o que resulten duplicadas, inconexas, desfasadas o contradictorias y/o carezcan de autorización para ello, en coordinación con los Órganos de la Administración Pública de la Ciudad de México;
+
+XIV.- Opinar, en el ámbito de su competencia, respecto a los permisos, licencias, autorizaciones o actos administrativos relacionados con las intervenciones en la vía pública que tengan un impacto en su funcionalidad o en la prestación de los servicios urbanos;
+
+XV.- Administrar y coordinar los centros interactivos a cargo de la Agencia de Gestión Urbana de la Ciudad de México;
+
+XVI.- Posicionar los centros interactivos a cargo de la Agencia de Gestión Urbana de la Ciudad de México, como herramienta de planeación y coordinación intergubernamental, y como un referente educativo, lúdico, turístico y cultural en la Ciudad;
+
+XVII.- Establecer en coordinación con las autoridades competentes, criterios y normas técnicas para las actividades de minimización, recolección, transferencia, tratamiento, aplicación de nuevas tecnologías y disposición final de residuos sólidos urbanos, del saneamiento de sitios clausurados, así como establecer los sistemas de reciclamiento y tratamiento de residuos sólidos urbanos;
+
+XVIII.- Realizar los estudios, proyectos, construcción, conservación y mantenimiento de obras de infraestructura para el manejo de residuos sólidos urbanos en estaciones de transferencia, plantas de selección y aprovechamiento, sitios de disposición final, plantas de termovalorización, biodigestión, gasificación, pirólisis, plasma y cualquier tecnología que se utilice en el manejo y/o tratamiento de los residuos sólidos urbanos;
+
+XIX.- Organizar y llevar a cabo el manejo, tratamiento y disposición final de los residuos sólidos urbanos, así como la operación de las estaciones de transferencia, plantas de termovalorización, biodigestión, combustión, gasificación, pirólisis, plasma y cualquier tecnología que se utilice en el manejo de los residuos sólidos urbanos;
+
+XX.- Administrar, usar, disponer, contratar y/o comercializar, los productos derivados o generados del tratamiento y/o manejo de los residuos sólidos urbanos;
+
+XXI.- Implementar las acciones de prevención y en su caso de mitigación en los daños que presente la superficie de rodadura, para el mejor funcionamiento de la red vial primaria de la Ciudad de México;
+
+XXII.- Realizar estudios y proyectos en materia de servicios urbanos, funcionalidad de la vía pública e imagen urbana de la Ciudad de México;
+
+XXIII.- Proponer a la Secretaría de Obras y Servicios la integración de conceptos relacionados con el mantenimiento de las obras públicas, servicios urbanos e infraestructura para la actualización del Tabulador General de Precios Unitarios del Gobierno de la Ciudad de México;
+
+XXIV.- Realizar y dar el seguimiento a las denuncias, querellas y quejas ante las autoridades competentes por daños ocasionados a la infraestructura vial, espacios públicos a su cargo y lo inherente a los servicios urbanos, así como las que sean parte de sus atribuciones para la defensa de los intereses de la Ciudad de México;
+
+XXV.- Llevar a cabo los procedimientos de contratación para el ejercicio de sus facultades, así como determinar la terminación anticipada y/o rescisión de los mismos;
+
+XXVI.- Suscribir los contratos, convenios y demás instrumentos jurídico administrativos necesarios para el cumplimiento de su objeto.
+
+XXVII.- Realizar el análisis y diagnóstico para determinar las obras relacionadas con los servicios urbanos, susceptibles de ser concesionadas o administradas por terceros;
+
+XXVIII.- Emitir las declaratorias de necesidad de las obras públicas relacionadas con los servicios urbanos a concesionarse en la Ciudad de México, en el ámbito de su competencia;
+
+XXIX.- Elaborar y suscribir las bases de licitación, términos de referencia, modelo de contrato y demás documentos necesarios para otorgar la concesión o ejecución por terceros de las obras relacionadas con los servicios urbanos competencia de la Agencia de Gestión Urbana de la Ciudad de México;
+
+XXX.- Elaborar y suscribir los títulos de concesión de las obras públicas relacionadas con los servicios urbanos y sus modificaciones en el ámbito de su competencia;
+
+XXXI.- Diseñar diagnósticos y propuestas, promoviendo la creatividad, participación cívica e innovación, para la solución de problemáticas urbanas en coordinación con las Dependencias, Órganos Desconcentrados, Órganos Político-Administrativo y Entidades de la Administración Pública competentes, que generen una nueva narrativa con proyección nacional e internacional para la Ciudad de México;
+
+XXXII.- Contratar en el ámbito de su competencia el servicio de energía eléctrica y productos asociados para el Gobierno de la Ciudad de México, de acuerdo con la normatividad vigente y aplicable; y
+
+XXXIII.- Las demás que se establezcan a través de otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2017)</small>
+
+###### Artículo 207 Quáter.
+
+Para el despacho de los asuntos que le competen a la Agencia de Gestión Urbana de la Ciudad de México se le adscriben:
+
+I. Dirección General de Infraestructura Vial;
+
+II. Dirección General de Imagen, Alumbrado Público y Gestión de los Residuos Sólidos Urbanos;
+
+III. Dirección General de Planeación y Atención Ciudadana y
+
+IV. Dirección General de Creatividad.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2017)</small>
+
+###### Artículo 207 Quinquies.
+
+La Dirección General de Infraestructura Vial tiene las siguientes atribuciones:
+
+I.- Participar con los Órganos de la Administración Pública en la ejecución de políticas, programas y acciones relacionadas con la prestación de los servicios urbanos que se refieren al mejoramiento y mantenimiento de la infraestructura vial de la Ciudad de México.
+
+II.- Coordinar el diseño y ejecución de acciones relacionadas con el mejoramiento y mantenimiento de la infraestructura vial de la Ciudad de México con los Órganos Político-Administrativos en el ámbito de sus respectivas competencias y de acuerdo a los mecanismos establecidos;
+
+III.- Ejecutar las acciones y obras relacionadas con el mejoramiento y mantenimiento de la infraestructura vial en las vías primarias de la Ciudad de México y espacios públicos que le sean encomendados;
+
+IV.- Llevar a cabo las acciones de prevención y en su caso, de mitigación en la superficie de rodadura, para el mejor funcionamiento de la red vial primaria de la Ciudad de México;
+
+V.- Realizar estudios y proyectos en materia de infraestructura vial de la Ciudad de México en coordinación con las Unidades Administrativas competentes;
+
+VI.- Participar en la elaboración de las propuestas de criterios y normas técnicas para la realización de los proyectos de construcción, mantenimiento y supervisión de las obras viales, pavimentos, banquetas y guarniciones relacionadas con el mejoramiento y mantenimiento de la red vial de la Ciudad de México;
+
+VII.- Coadyuvar con la Secretaría de Obras y Servicios en la realización de los estudios y proyectos que conlleven el mejoramiento y mantenimiento de los puentes vehiculares y peatonales en la vialidad primaria, así como de los que comuniquen a dos o más demarcaciones territoriales;
+
+VIII.- Realizar el análisis y diagnóstico para determinar las obras de mejoramiento y mantenimiento de la infraestructura vial susceptible de ser concesionadas o administradas por terceros;
+
+IX.- Elaborar y proponer las declaratorias de necesidad de las obras de mejoramiento y mantenimiento a la infraestructura vial susceptibles de concesionarse o ser administradas por terceros, en el ámbito de su competencia;
+
+X.- Coadyuvar con las Unidades Administrativas correspondientes, para tramitar la nulidad, extinción, revocación, caducidad y recisión de las concesiones y demás instrumentos jurídico administrativos relacionados con obras de mejoramiento y mantenimiento de la infraestructura vial;
+
+XI.- Solicitar a las Unidades Administrativas competentes el inicio del procedimiento de recuperación administrativa de los bienes del dominio público de acuerdo a las disposiciones legales, reglamentarias y administrativas aplicables en el ámbito de su competencia;
+
+XII.- Dictar las medidas necesarias tendientes a garantizar la ejecución de las obras de infraestructura vial concesionadas o administradas por terceros en los términos establecidos para tal efecto, en el ámbito de su competencia;
+
+XIII.- Dar seguimiento en el ámbito de su competencia, a las obras de infraestructura vial de construcción o mantenimiento que lleven a cabo los Órganos de la Administración Pública de la Ciudad de México en términos del título de concesión y demás instrumentos jurídico administrativos;
+
+XIV.- Elaborar la propuesta de conceptos relacionados con el mantenimiento de las obras de infraestructura vial para la actualización del Tabulador General de Precios Unitarios del Gobierno de la Ciudad de México;
+
+XV.- Suscribir los contratos, convenios y demás instrumentos jurídico administrativos necesarios para el cumplimiento de sus atribuciones y participar en los procesos y procedimientos relacionados con los mismos, en el ámbito de su competencia, así como coadyuvar con las Unidades Administrativas correspondientes para determinar, en su caso, la terminación anticipada y/o rescisión de los contratos y convenios, y
+
+XVI.- Las demás que se establezcan a través de otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2017)</small>
+
+###### Artículo 207 Sexies.
+
+La Dirección General de Imagen, Alumbrado Público y Gestión de Residuos Sólidos Urbanos, tiene las siguientes atribuciones:
+
+I.- Participar con los Órganos de la Administración Pública en la ejecución de políticas, programas y acciones relacionadas con la imagen urbana, el alumbrado público, limpia, conservación de áreas verdes, mantenimiento de los espacios públicos que le sean encomendados y la gestión de los residuos sólidos urbanos de la Ciudad de México;
+
+II.- Coordinar el diseño y ejecución de acciones relacionadas con la imagen urbana, alumbrado público, limpia, conservación de áreas verdes, mantenimiento de los espacios públicos que le sean encomendados y la gestión de los residuos sólidos urbanos de la Ciudad de México, con los Órganos Político-Administrativos en el ámbito de sus respectivas competencias y de acuerdo a los mecanismos establecidos;
+
+III.- Realizar estudios y proyectos en materia de imagen urbana, alumbrado público, limpia, conservación de áreas verdes y mantenimiento de los espacios públicos que le sean encomendados en coordinación con las Unidades Administrativas competentes;
+
+IV.- Ejecutar las acciones de limpia, conservación de áreas verdes y alumbrado público que determinan la funcionalidad, seguridad vial e imagen urbana de las vías peatonales y vehiculares que conforman la red vial primaria, así como los espacios públicos que le sean encomendados, en el ámbito de su competencia;
+
+V.- Realizar estudios y proyectos en materia de construcción, conservación y mantenimiento de obras de infraestructura para el manejo de residuos sólidos urbanos en estaciones de transferencia, plantas de selección, aprovechamiento y sitios de disposición final, tales como plantas de termovalorización, biodigestión, gasificación, pirólisis, plasma y cualquier otra tecnología que se utilice en el manejo y/o tratamiento de los residuos sólidos urbanos, en coordinación con las Unidades Administrativas competentes;
+
+VI.- Implementar el manejo, tratamiento y disposición final de los residuos sólidos urbanos, así como la operación de las estaciones de transferencia, plantas de selección, aprovechamiento y sitios de disposición final, tales como plantas de termovalorización, biodigestión, gasificación, pirólisis, plasma y cualquier otra tecnología que se utilice en el manejo y/o tratamiento de los residuos sólidos urbanos;
+
+VII.- Llevar a cabo la transferencia, disposición final y reciclaje de los residuos sólidos urbanos de la Ciudad de México;
+
+VIII.- Realizar el mantenimiento del equipo, maquinaria e instalaciones destinadas para la transferencia, disposición final y reciclaje de los residuos sólidos urbanos de la Ciudad de México;
+
+IX.- Llevar a cabo la administración, uso, disposición, contratación y/o comercialización de los productos derivados o generados del tratamiento y/o manejo de los residuos sólidos urbanos;
+
+X.- Participar en la elaboración de las propuestas de criterios y normas técnicas para la realización de los proyectos, construcción, mejoramiento, mantenimiento y supervisión de obras y servicios de alumbrado público, limpia, áreas verdes y espacios públicos que le sean encomendados en la Ciudad de México;
+
+XI.- Realizar en coordinación con los Órganos Político-administrativos, las acciones de conservación y mantenimiento que se relacionen con la imagen urbana, alumbrado público, limpia, conservación de áreas verdes, y mantenimiento de los espacios públicos que le sean encomendados que determinan el funcionamiento de la vía pública de la Ciudad de México;
+
+XII.- Suscribir los contratos, convenios y demás instrumentos jurídico administrativos para el cumplimiento de sus atribuciones y participar en los procesos y procedimientos relacionados con los mismos, en el ámbito de su competencia, así como coadyuvar con las Unidades Administrativas correspondientes para determinar en su caso, la terminación anticipada y/o rescisión de los contratos y convenios;
+
+XIII.- Realizar el análisis y diagnóstico para determinar las obras relacionadas con el alumbrado público, la gestión integral de los residuos sólidos urbanos y el mejoramiento de la imagen urbana de la Ciudad de México, susceptibles de ser concesionadas o administradas por terceros;
+
+XIV.- Elaborar y proponer las declaratorias de necesidad de las obras y servicios relacionadas con el alumbrado público, la gestión integral de los residuos sólidos urbanos y el mejoramiento de la imagen urbana de la Ciudad de México, susceptibles de ser concesionadas o administradas por terceros, en el ámbito de su competencia;
+
+XV.- Coadyuvar con las Unidades Administrativas correspondientes, para tramitar la nulidad, extinción, revocación, caducidad y recisión de las concesiones y demás instrumentos jurídico administrativos relacionados con las obras y servicios relativos al alumbrado público, la gestión integral de los residuos sólidos urbanos y el mejoramiento de la imagen urbana de la Ciudad de México;
+
+XVI.- Dictar las medidas necesarias tendientes a garantizar la ejecución de las obras y servicios relativos al alumbrado público, la gestión integral de los residuos sólidos urbanos y el mejoramiento de la imagen urbana de la Ciudad de México concesionadas o administradas por terceros en los términos establecidos para tal efecto, en el ámbito de su competencia;
+
+XVII.- Dar seguimiento en el ámbito de su competencia, a las obras y servicios relativos a la imagen urbana, el alumbrado público y la gestión integral de los residuos sólidos urbanos que lleven a cabo los órganos de la Administración Pública de la Ciudad de México, en términos del instrumento jurídico administrativo correspondiente;
+
+XVIII.- Realizar las gestiones en el ámbito de su competencia para la contratación del servicio de energía eléctrica para el Gobierno de la Ciudad de México, de acuerdo con la normatividad vigente y aplicable, y
+
+XIX.- Las demás que se establezcan a través de otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2017)</small>
+
+###### Artículo 207 Septies.
+
+La Dirección General de Planeación y Atención Ciudadana; tiene las siguientes atribuciones:
+
+I.- Proponer el diseño y planeación de las políticas, programas, acciones e intervenciones que incidan en la funcionalidad de la vía pública y la prestación de los servicios urbanos en la Ciudad de México;
+
+II.- Elaborar y proponer los mecanismos de coordinación con los Órganos Político-Administrativos, en el ámbito de su competencia, para el diseño y ejecución de acciones relacionadas con la prestación de los servicios urbanos en las demarcaciones territoriales y solicitar la información relacionada;
+
+III.- Proponer el diseño, planeación y mecanismos de coordinación con los Órganos de la Administración Pública local o federal, así como los mecanismos de planeación de las intervenciones del sector privado para la prestación de los servicios urbanos a cargo de la Agencia de Gestión Urbana;
+
+IV.- Emitir opinión, en el ámbito de su competencia, respecto a los permisos, licencias, autorizaciones o actos administrativos, previo a su expedición, relacionados con las intervenciones en la vía pública que tengan un impacto en la funcionalidad de ésta o en la prestación de los servicios urbanos;
+
+V.- Implementar los procedimientos de revisión con los Órganos de la Administración Pública de la Ciudad de México para que las intervenciones en la vía pública que incidan en su funcionalidad, se realicen de conformidad con los permisos, licencias, concesiones, especificaciones técnicas y demás instrumentos emitidos de acuerdo con la normatividad aplicable;
+
+VI.- Gestionar las acciones administrativas conducentes cuando se detecte la ejecución de intervenciones en la vía pública que afecten su funcionalidad, la prestación de los servicios urbanos o que resulten duplicadas, inconexas, desfasadas o contradictorias y/o carezcan de autorización para ello, en coordinación con los Órganos de la Administración Pública de la Ciudad de México;
+
+VII.- Establecer y administrar los canales de comunicación para la recepción de la demanda ciudadana relacionada con los servicios urbanos e intervenciones en la vía pública que incidan en su funcionalidad;
+
+VIII.- Recibir y atender la demanda ciudadana relacionada con los servicios urbanos e intervenciones en la vía pública que incidan en su funcionalidad y en su caso, canalizarla a la instancia competente;
+
+IX.- Administrar, coordinar y programar los contenidos, el servicio y atención a los visitantes y usuarios de los centros interactivos a cargo de la Agencia de Gestión Urbana de la Ciudad de México;
+
+X.- Diseñar las acciones y estrategias procedentes a efecto de posicionar a los centros interactivos a cargo de la Agencia de Gestión Urbana de la Ciudad de México, como herramienta de planeación y coordinación intergubernamental y como un referente educativo, lúdico, turístico y cultural;
+
+XI.- Solicitar a los Órganos de la Administración Pública local, federal, estatal, municipal o sector privado la información relacionada con las intervenciones en la vía pública de la Ciudad de México que incidan en la funcionalidad de ésta y con la prestación de los servicios urbanos, para su sistematización y análisis;
+
+XII.- Diseñar, implementar y mantener actualizados los sistemas de información e instrumentos de planeación relacionados con la atención a la demanda ciudadana, prestación de los servicios urbanos e intervenciones en la vía pública que incidan con su funcionalidad;
+
+XIII.- Identificar incidencias y necesidades que requieran la prestación de servicios urbanos para el mejoramiento de la imagen y funcionalidad de la vía pública de la Ciudad de México;
+
+XIV.- Generar estrategias de mejora y eficiencia en la prestación de servicios urbanos, la funcionalidad de la vía pública y la atención a la demanda ciudadana;
+
+XV.- Coordinar con las Unidades Administrativas de la Agencia de Gestión Urbana e instituciones del sector público y privado, la elaboración de estudios y proyectos en materia de servicios urbanos, funcionalidad de la vía pública y atención a la demanda ciudadana de la Ciudad de México;
+
+XVI.- Suscribir los contratos, convenios y demás instrumentos jurídico administrativos necesarios para el cumplimiento de sus atribuciones y participar en los procesos y procedimientos relacionados con los mismos, en el ámbito de su competencia, así como coadyuvar con las Unidades Administrativas correspondientes para determinar en su caso, la terminación anticipada y/o rescisión de los contratos y convenios, y
+
+XVII.- Las demás que se establezcan a través de otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 21 DE FEBRERO DE 2017)</small>
+
+###### Artículo 207 Octies.
+
+La Dirección General de Creatividad tiene las siguientes atribuciones:
+
+I.- Recopilar, sistematizar y analizar prácticas globales vinculadas con la prestación de servicios urbanos, atención a la demanda ciudadana y solución de problemáticas urbanas estratégicas, así como promover, en su caso, su instrumentación en la Ciudad de México.
+
+II.- Planear y coordinar los mecanismos de vinculación y herramientas de aprendizaje, discusión, intercambio de experiencias y coordinación entre los sectores público, social, privado y académico en torno a problemáticas urbanas estratégicas, gobierno abierto, innovación y creatividad, en coordinación con las instancias competentes;
+
+III.- Diseñar, construir, elaborar diagnósticos, opiniones, soluciones e innovaciones en torno a la prestación de los servicios urbanos, atención a la demanda ciudadana, funcionalidad de la vía pública y desarrollo creativo, en coordinación con los sectores público y privado tendientes a la proyección nacional e internacional de la Ciudad de México;
+
+IV.- Promover la planeación y realización de proyectos, prototipos, investigaciones y convocatorias de innovación cívica y urbana, a través de la participación de los Órganos de la Administración Pública de la Ciudad de México, sectores social y privado, e instancias internacionales.
+
+V.- Diseñar, difundir y promover la adopción de soluciones creativas a problemas urbanos en coordinación con los Órganos de la Administración Pública de la Ciudad de México;
+
+VI.- Suscribir los contratos, convenios y demás instrumentos jurídico administrativos necesarios para el cumplimiento de sus atribuciones y participar en los procesos y procedimientos relacionados con los mismos, en el ámbito de su competencia, así como coadyuvar con las Unidades Administrativas correspondientes para determinar en su caso, la terminación anticipada y/o rescisión de los contratos y convenios, y
+
+VII.- Las demás que se establezcan a través de otros ordenamientos aplicables.
+
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
 
 #### SECCION VII. ADSCRITO A LA SECRETARIA DE DESARROLLO SOCIAL
@@ -19374,7 +19566,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
 
 TERCERO.- A la Dirección Ejecutiva de Agentes de Seguridad Procesal, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Secretaría de Finanzas y la Oficialía Mayor durante el mes de junio del año en curso.
 
-G.G. 29 DE JULIO DE 2016.
+G.O. 29 DE JULIO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
 
@@ -19467,3 +19659,23 @@ TERCERO.- A las Unidades Administrativas de nueva creación, se les transferirá
 CUARTO.- Las diferencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este decreto hubieran dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
 
 QUINTO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+G.O. 21 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 01 de abril de 2017.
+
+TERCERO.- La transferencia de la Dirección General de Servicios Urbanos y de la Agencia de Gestión Urbana adscrita a la Jefatura de Gobierno al Órgano Desconcentrado adscrito a la Secretaría de Obras y Servicios, incluirán personal, mobiliario, equipos, instrumentos, vehículos, maquinaria, aparatos, archivos y, en general, todos los efectos y dispositivos que tienen asignados para la atención de los asuntos a su cargo, así como los recursos presupuestales correspondientes de conformidad con las disposiciones jurídicas, administrativas y laborales aplicables.
+
+CUARTO.- A la Unidad Administrativa de nueva creación, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+QUINTO.- La normatividad, disposiciones, procedimientos y demás instrumentos jurídico administrativos que hagan referencia a la Dirección General de Servicios Urbanos o a la Agencia de Gestión Urbana adscrita a la Jefatura de Gobierno de la Ciudad de México, se entenderán hechos a la Agencia de Gestión Urbana de la Ciudad de México adscrita a la Secretaría de Obras y Servicios.
+
+SEXTO.- Los asuntos que a la entrada en vigor del presente decreto se encuentren en trámite y deban ser atendidos por la Agencia de Gestión Urbana adscrita a la Jefatura de Gobierno y/o la Dirección General de Servicios Urbanos, serán atendidos por el Órgano Desconcentrado adscrito a la Secretaría de Obras y Servicios dentro de los plazos establecidos para tal efecto.
+
+SÉPTIMO.- A partir de la entrada en vigor del presente Decreto y para una adecuada rendición de cuentas, la Agencia de Gestión Urbana de la Ciudad de México adscrita a la Secretaría de Obras y Servicios, deberá rendir también los informes del cierre del ejercicio 2017 y los que establezca la normatividad vigente entre los cuales están, los de avance trimestral y de cuenta pública por el periodo que estuvo adscrita a la Jefatura de Gobierno.
+
+OCTAVO.- Los trabajadores de base y lisia de raya base, con y sin dígito sindical, cambiarán de adscripción de la Dirección General de Servicios Urbanos a la Agencia de Gestión Urbana adscrita a la Secretaría de Obras y Servicios, sin perjuicio de sus derechos y prestaciones vigentes.
