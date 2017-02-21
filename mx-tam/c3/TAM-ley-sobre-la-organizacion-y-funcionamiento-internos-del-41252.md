@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2017-02-14"
+last_updated: "2017-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -577,8 +579,6 @@ q) Justicia;
 
 r) Derechos Humanos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 s) Igualdad de Género;
@@ -607,13 +607,17 @@ x) Juventud;
 
 y) Desarrollo de Zonas Metropolitanas;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
 
-z) Transparencia y Acceso a la Información Pública; y
+z) Transparencia y Acceso a la Información Pública;
 
-> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
 
-aa) Pesca y Acuacultura.
+aa) Pesca y Acuacultura; y
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2017)</small>
+
+ab) Familia.
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -634,8 +638,6 @@ c) De Asuntos Municipales, a cargo de analizar las iniciativas y propuestas inhe
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2011)</small>
 
 d) De Estudios Legislativos, a cargo de contribuir con el análisis, estudio y dictamen de las iniciativas de carácter legislativo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -702,8 +704,6 @@ f) De la Medalla al Mérito "Luis García de Arellano", a cargo de la recepción
 ###### ARTICULO 42.
 
 1. Las comisiones ordinarias cuya materia se corresponda con tareas a cargo de las dependencias de la administración pública del Estado harán el estudio del informe a que se refiere el cuarto párrafo del artículo 93 de la Constitución Política del Estado, según la competencia de cada una de ellas. Al efecto, formularán un documento en el que consten las conclusiones de su análisis. En su caso, podrán requerir mayor información o solicitar la comparecencia de servidores públicos ante la propia comisión. Si de las conclusiones se desprende la necesidad de que el titular del ente público comparezca ante el Pleno del Congreso, la Comisión competente formulará la solicitud correspondiente a la Junta de Coordinación Política. En todo caso se estará a lo dispuesto por la parte final del cuarto párrafo del artículo 93 de la Constitución Política del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -2922,3 +2922,11 @@ El presente Decreto entrará en vigor a partir de su expedición y se publicará
 ###### ARTÍCULO SEGUNDO.
 
 60 días antes de la conclusión del período del cargo para el cual fueron electos los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, designados mediante el Decreto No. LXII-193, la Junta de Coordinación Política lanzará la convocatoria correspondiente, y con base en ésta habrá de renovarse la integración del citado órgano autónomo, eligiéndose por única ocasión a un Comisionado por 3 años, el segundo por 5 años y un tercer Comisionado por 7 años, con el objeto de dar cumplimiento al artículo 38 de la Ley General de Transparencia y Acceso a la Información Pública y 27 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, a fin de garantizar el principio de autonomía en la conformación del dicho órgano garante.
+
+P.O. 21 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-117 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35, PÁRRAFO 2, INCISOS Z) Y AA), Y SE ADICIONA EL INCISO AB) DEL PÁRRAFO 2 DEL ARTÍCULO 35 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
