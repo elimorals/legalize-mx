@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg46-2014-del-consejo-general-del-instituto-107906"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-05-21"
-last_updated: "2015-05-21"
+last_updated: "2017-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107906&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-06-06"
 ---
 # ACUERDO INE/CG46/2014 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTABLECE LA INTEGRACION DE LAS COMISIONES PERMANENTES Y TEMPORALES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL Y DEL ORGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 21 DE MAYO DE 2015, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 21 DE FEBRERO DE 2017, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTABLECE LA INTEGRACIÓN DE LAS COMISIONES PERMANENTES Y TEMPORALES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL Y DEL ÓRGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 21 de mayo de 2015.
 
@@ -712,3 +712,17 @@ Encuentro Social
 Segundo.- El presente Acuerdo entrará en vigor y surtirá efectos a partir del día 1o. de agosto de 2014.
 
 Tercero.- Publíquese en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG750/2016, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+Primero.- Se modifica la integración de la Comisión del Servicio Profesional Electoral Nacional aprobada en el Acuerdo INE/CG46/2014, para que deje de integrar la misma el Consejero Electoral Marco Antonio Baños Martínez.
+
+Segundo.- Se modifica la integración de la Comisión de Organización Electoral aprobada en el Acuerdo INE/CG894/2015, para incluir como integrante de la misma al Consejero Electoral Marco Antonio Baños Martínez.
+
+Tercero.- El presente Acuerdo entrará en vigor a partir de su aprobación.
+
+Cuarto.- Publíquese en el Diario Oficial de la Federación y en la página de internet de este Instituto.
