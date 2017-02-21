@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2016-11-26"
+last_updated: "2017-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "JAL"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MARZO DE 2017 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -931,17 +929,15 @@ VIII. Los poderes Ejecutivo, Legislativo y Judicial, los organismos autónomos e
 
 IX. Las autoridades estatales y municipales promoverán y garantizarán la transparencia y el derecho a la información pública, en el ámbito de su competencia, y
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2017)</small>
 
-X. El Estado y los municipios planearán, regularán y fomentarán la actividad económica mediante la competitividad, con la concurrencia de los sectores social, público y privado, en el marco de libertades que otorga la Constitución General de la República; procurarán el desarrollo económico, la generación de empleos y una más justa distribución del ingreso y la riqueza, y bajo criterios de equidad social, productividad y sustentabilidad presupuestaria apoyarán e impulsarán a las empresas de los sectores social y privado de la economía. Los presupuestos de ingresos y egresos del Estado y sus municipios deberán sujetarse a los principios de equilibrio, sostenibilidad, estabilidad financiera y responsabilidad hacendaria.
+X. El Estado y los municipios planearán, regularán y fomentarán la actividad económica mediante la competitividad, mejora regulatoria y el gobierno digital, con la concurrencia de los sectores social, público y privado, en el marco de libertades que otorga la Constitución General de la República; procurarán el desarrollo económico, la generación de empleos y una más justa distribución del ingreso y la riqueza, y bajo criterios de equidad social, productividad y sustentabilidad presupuestaria apoyarán e impulsarán a las empresas de los sectores social y privado de la economía. Los presupuestos de ingresos y egresos del Estado y sus municipios deberán sujetarse a los principios de equilibrio, sostenibilidad, estabilidad financiera y responsabilidad hacendaria.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+La política pública de mejora regulatoria del estado es obligatoria para todas las autoridades públicas estatales y municipales, en sus respectivos ámbitos de competencia y acorde a los principios constitucionales que los rigen.
 
 La ley regulará el ejercicio del derecho a la información pública y el procedimiento para hacerlo efectivo; las obligaciones por parte de los sujetos de aplicación de la ley respecto a la transparencia y el derecho a la información pública, así como las sanciones por su incumplimiento, de conformidad con lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, esta Constitución y demás normatividad aplicable en la materia.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-Será obligación de las autoridades estatales y municipales, de cualquier otro organismo público, así como de cualquier persona física, jurídica o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad, proporcionar la información pública en su posesión, rendir cuentas de sus funciones y permitir el ejercicio del derecho a la información en los términos de la ley.
+Será obligación de las autoridades estatales y municipales, de cualquier otro organismo público, así como de cualquier persona física, jurídica o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad, proporcionar la información pública en su posesión, rendir cuantas (sic) de sus funciones y permitir el ejercicio del derecho a la información en los términos de la ley.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -3686,3 +3682,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Congreso del Estado dispondrá de un plazo de cuatro meses posteriores a la entrada en vigor del presente decreto, para aprobar una minuta de reforma constitucional complementaria en materia anticorrupción relativas a fiscalización superior, responsabilidades y justicia administrativa, para los efectos del artículo 117 de la Constitución Política del Estado de Jalisco.
 
 TERCERO. El Congreso del Estado deberá expedir y armonizar la legislación secundaria al presente decreto en materia anticorrupción a más tardar el 18 de julio de 2017.
+
+P.O. 21 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25911/LXI/16 QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. Envíese el presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco, para los efectos del artículo 117 de la Constitución Política del Estado de Jalisco.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
