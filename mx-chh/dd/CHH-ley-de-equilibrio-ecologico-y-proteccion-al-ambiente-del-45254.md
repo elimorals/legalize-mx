@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2016-11-19"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -2263,9 +2263,9 @@ Cuando los ordenamientos a que se refiere el párrafo anterior no incluyan medid
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ellos emanen, constituyen infracción y, previa garantía de audiencia, serán sancionadas administrativamente por la Secretaría y por las autoridades de los municipios en sus respectivos ámbitos de su competencia, con una o más de las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-I.- Multa por el equivalente de cincuenta a veinte mil días de salario mínimo general vigente en la Entidad, en el momento de imponer la sanción;
+I.- Multa de cincuenta a veinte mil días equivalentes a la Unidad de Medida y Actualización vigente en el momento de imponer la sanción;
 
 II.- Clausura temporal o definitiva, total o parcial, cuando:
 
@@ -2299,9 +2299,13 @@ ARTÍCULO 212 bis.- Se sancionará, de acuerdo a la Ley de Responsabilidades de 
 
 Tratándose de las violaciones a las disposiciones del título noveno de la presente Ley, se observará lo siguiente:
 
-I.- Se sancionará con multa por el equivalente de uno a cinco días de salario mínimo general, vigente en el lugar en que se comete la infracción, a las personas que fumen en los lugares que prohíbe el presente ordenamiento.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-II.- Se sancionará con multa por el equivalente de diez a veinte días del salario mínimo general, vigente en el lugar en que se comete la infracción, a los propietarios, poseedores o responsables de los locales cerrados, establecimientos y medios de transporte, en el caso de que no fijen las señalizaciones a que se refieren los artículos 165 y 169 de esta Ley.
+I. Se sancionará con multa de uno a cinco días equivalentes a la Unidad de Medida y Actualización, a las personas que fumen en los lugares que prohíbe el presente ordenamiento.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Se sancionará con multa de diez a veinte días equivalentes a la Unidad de Medida y Actualización, a los propietarios, poseedores o responsables de los locales cerrados, establecimientos y medios de transporte, en el caso de que no fijen las señalizaciones a que se refieren los artículos 165 y 169 de esta Ley.
 
 Si el infractor fuese jornalero, obrero o trabajador que gane hasta dos salarios mínimos diarios, la multa no será mayor al importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
@@ -2762,6 +2766,22 @@ P.O. 19 DE NOVIEMBRE DE 2016.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXV/RFCLC/0266/2017 I P.E. POR EL QUE “SE REFORMAN LOS ARTÍCULOS 212, PRIMER PÁRRAFO, FRACCIÓN I; Y 213, PRIMER PÁRRAFO, FRACCIONES I Y II, TODOS DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
 
 ###### ARTÍCULO PRIMERO.
 
