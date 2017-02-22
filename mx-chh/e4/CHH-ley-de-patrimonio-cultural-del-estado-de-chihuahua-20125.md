@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-patrimonio-cultural-del-estado-de-chihuahua-20125"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-28"
-last_updated: "2016-10-03"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DE LA LEY PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 5 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 28 de febrero del 2001.
 
@@ -1131,7 +1133,9 @@ II. Clausura definitiva del permiso o concesión; y,
 
 III. Orden de demolición y/o reparación del daño causado.
 
-Adicionalmente se impondrá multa cuyo monto puede variar de doscientas hasta mil veces el salario mínimo general diario vigente en el Estado.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Adicionalmente se impondrá multa cuyo monto puede variar de doscientas hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### ARTÍCULO 105.
 
@@ -1350,3 +1354,19 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
