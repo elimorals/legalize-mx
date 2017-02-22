@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-agua-del-estado-de-chihuahua-86957"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2016-10-03"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL AGUA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 2012.
 
@@ -479,7 +479,9 @@ I.- Contratar créditos, suscribir títulos de crédito y garantías.
 
 II.- Enajenar bienes muebles e inmuebles, sin perjuicio de la autorización del Congreso del Estado.
 
-III.- Celebrar contratos de obra y adquisiciones, servicios profesionales, saneamiento, tratamiento de aguas residuales, disposición final de lodos y demás actos que asciendan a un importe de cinco salarios mínimos de la zona económica de la Capital del Estado, elevados al año, sin considerar los impuestos que genere dicha operación.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+III. Celebrar contratos de obra y adquisiciones, servicios profesionales, saneamiento, tratamiento de aguas residuales, disposición final de lodos y demás actos que asciendan a un importe de cinco veces el valor diario de la Unidad de Medida y Actualización, elevados al año, sin considerar los impuestos que genere dicha operación.
 
 IV.- Determinar e implementar su estructura orgánica.
 
@@ -1119,9 +1121,11 @@ XVIII.- Descargar aguas residuales en las redes de alcantarillado, incumpliendo 
 
 XIX.- Incurrir en cualquier otra violación a los preceptos que señala esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 89.
 
-Las sanciones aplicables a las infracciones a que se refiere el artículo anterior, serán multas equivalentes a salarios mínimos correspondientes a la zona económica en que esté ubicado el usuario:
+Las sanciones aplicables a las infracciones a que se refiere el artículo anterior, serán multas equivalentes al valor diario de la Unidad de Medida y Actualización:
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
 
@@ -1221,7 +1225,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 3 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO No. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1294,3 +1298,19 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
