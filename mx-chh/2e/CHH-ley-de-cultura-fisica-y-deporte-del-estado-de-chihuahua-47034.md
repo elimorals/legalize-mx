@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2017-01-04"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -803,8 +803,6 @@ El Consejo tendrá como sede la Capital del Estado, sin perjuicio de que ocasion
 
 Asimismo, podrán ser invitados a participar con voz pero sin voto, aquellas personalidades distinguidas de los sectores social y privado que tengan alguna vinculación o aportaciones con la cultura física y deporte.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2016)</small>
-
 ###### Artículo 31 Bis.
 
 Para lograr el adecuado cumplimiento de los fines del Instituto, se apoyará de un órgano de gestión llamado Comité de Impulso al Deporte, el cual estará integrado por:
@@ -897,7 +895,7 @@ VI.- Establecer procedimientos de promoción en materia de cultura física y dep
 
 VII.- Las demás que le señalen este u otros ordenamientos legales.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 38 Bis.
 
@@ -953,7 +951,7 @@ La Comisión tendrá las siguientes atribuciones:
 
 I.- Conocer y resolver mediante el recurso de apelación, las impugnaciones planteadas por cualquier persona física o moral inscrita en el Registro Estatal o cualquiera de los miembros del Sistema, en contra de actos, omisiones, decisiones, acuerdos o resoluciones emitidos por las autoridades, entidades u organismos deportivos, que afecten los derechos deportivos establecidos a favor del apelante en la presente Ley o en los reglamentos y demás disposiciones que de ella emanen.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
 El impugnante podrá optar entre agotar el medio de defensa que corresponda o interponer directamente el recurso de apelación.
 
@@ -1019,7 +1017,7 @@ En caso de que no se arribe a una resolución satisfactoria en el procedimiento 
 
 En ausencia del Presidente, en cualquiera de las sesiones, uno de los miembros del Pleno, a elección de las partes, asumirá sus funciones temporalmente.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
 Cuando la ausencia del Presidente sea definitiva, el titular del Ejecutivo Estatal designará de entre los Miembros Titulares, a quien deba sustituirlo para que concluya el periodo respectivo. Ante la ausencia definitiva de cualquiera de los Miembros Titulares, el titular del Ejecutivo Estatal, designará a quien deba sustituirlo para que concluya el periodo respectivo.
 
@@ -1239,7 +1237,7 @@ VI.- Estar reconocida conforme a la presente Ley.
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
-VII.- Las demás que prevea este y otros ordenamientos aplicables.
+VII.- las demás que prevea este y otros ordenamientos aplicables.
 
 Quedarán exentos del cumplimiento de lo dispuesto por la fracción V de este artículo, en cuanto a la sujeción a una Federación Deportiva Internacional, las Asociaciones Estatales de Charrería y Juegos y Deportes Autóctonos.
 
@@ -1759,7 +1757,7 @@ El Instituto, podrá asesorar en la materia, dentro del ámbito de su competenci
 
 Para efectos de esta Ley, de manera enunciativa y no limitativa, por actos o conductas violentas o que incitan a la violencia en el deporte se entienden los siguientes:
 
-I.- La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado.
+I.- la participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado.
 
 II.- La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo.
 
@@ -2013,9 +2011,9 @@ a) Expulsión inmediata de las instalaciones deportivas.
 
 b) Amonestación privada o pública.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-c) Multa de diez a noventa días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometerse la infracción.
+c) Multa de diez a noventa días equivalentes a la Unidad de Medida y Actualización vigente al momento de cometerse la infracción.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -2045,7 +2043,9 @@ VI.- Introduzca al recinto o a sus instalaciones anexas, armas de fuego, explosi
 
 Quien incurra en las conductas previstas en las fracciones IV, V y VI de este artículo, será sancionado con un año seis meses a cuatro años seis meses de prisión y de veinte a noventa días multa.
 
-Para efectos de lo dispuesto en este artículo, un día multa equivale a un día de los ingresos que por cualquier concepto perciba el inculpado, y a falta de prueba a un día de salario mínimo general, vigente el día y en el lugar donde se haya cometido el delito.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Para efectos de lo dispuesto en este artículo, un día multa equivale a un día de los ingresos que por cualquier concepto perciba el inculpado, y a falta de prueba a un día de la Unidad de Medida y Actualización, vigente al día en que se haya cometido el delito.
 
 A quien resulte responsable de los delitos previstos en este artículo, se le impondrá también la suspensión del derecho a asistir a eventos deportivos masivos o con fines de espectáculo, por un plazo equivalente a la pena de prisión que le resulte impuesta.
 
@@ -2374,3 +2374,19 @@ P.O. 4 DE ENERO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
