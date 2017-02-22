@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2016-10-01"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -1317,11 +1317,13 @@ Notificado el presunto infractor de la iniciación del procedimiento, se le cita
 
 Para los efectos del ofrecimiento y desahogo de pruebas y de alegatos, se aplicará supletoriamente lo dispuesto por el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 96.
 
-Para los efectos de imposición de las multas se estará a lo establecido por el reglamento respectivo, el cual las fijará dentro de un margen de uno a cincuenta veces el salario mínimo general vigente en la zona donde se cometa la infracción, tomando en cuenta el tipo de falta y su gravedad, las circunstancias de su comisión y las personales del infractor.
+Para los efectos de imposición de las multas se estará a lo establecido por el reglamento respectivo, el cual las fijará dentro de un margen de una a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente, tomando en cuenta el tipo de falta y su gravedad, las circunstancias de su comisión y las personales del infractor.
 
-En el caso de las infracciones graves el monto será de cincuenta a cien salarios, excepto a las previstas en el inciso D) del artículo 91 a las cuales les corresponderá de veinte a cincuenta veces el salario mínimo general diario vigente en la zona donde se cometa la infracción.
+En el caso de las infracciones graves el monto será de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización, excepto a las previstas en el inciso D) del artículo 91 a las cuales les corresponderá de veinte a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 97.
 
@@ -1824,3 +1826,19 @@ P.O. 1 DE OCTUBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO N°. LXV/RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMA EL ARTÍCULO 96 DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
