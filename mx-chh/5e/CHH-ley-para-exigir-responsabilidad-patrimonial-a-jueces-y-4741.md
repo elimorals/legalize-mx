@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-exigir-responsabilidad-patrimonial-a-jueces-y-4741"
 country: "mx"
 rank: "ley"
 publication_date: "1995-01-04"
-last_updated: "1995-01-04"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY PARA EXIGIR RESPONSABILIDAD PATRIMONIAL A JUECES Y FUNCIONARIOS DEL MINISTERIO PUBLICO
 
-LEY PARA EXIGIR RESPONSABILIDAD PATRIMONIAL A JUECES Y FUNCIONARIOS DEL MINISTERIO PUBLICO
+LEY PARA EXIGIR RESPONSABILIDAD PATRIMONIAL A JUECES Y FUNCIONARIOS DEL MINISTERIO PÚBLICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1995.
 
@@ -83,9 +83,11 @@ IV.- Tanto en la demanda como en la contestación de los demandados, deberán of
 
 En este procedimiento es admisible toda clase de pruebas, excepto la de posiciones y las que fueran contrarias a Derecho.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 5o.
 
-Si el juez no remitiera la demanda, el actor lo denunciará ante la Presidencia del Tribunal, cuyo titular en un término de cinco días, tomará las providencias del caso para reparar la transgresión e impondrá multa de cinco a veinte días de salario mínimo general al infractor, cuando a su juicio hubiere actuado de mala fe.
+Si el juez no remitiera la demanda, el actor lo denunciará ante la Presidencia del Tribunal, cuyo titular en un término de cinco días, tomará las providencias del caso para reparar la transgresión e impondrá multa de cinco a veinte veces el valor diario de la Unidad de Medida y Actualización al infractor, cuando a su juicio hubiere actuado de mala fe.
 
 ###### Artículo 6o.
 
@@ -121,7 +123,9 @@ Todas las resoluciones del Supremo Tribunal de Justicia serán irrecurribles.
 
 La determinación del monto de la responsabilidad patrimonial a cargo de las autoridades demandadas se sujetará a las siguientes bases:
 
-I.- No excederá del equivalente al importe de trescientos sesenta y cinco días de salario mínimo general vigente en la época y lugar en que ocurrió el hecho motivo de la demanda. Y,
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+I. No excederá del equivalente al importe de trescientos sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente en la época y lugar en que ocurrió el hecho motivo de la demanda.
 
 II. Para fijar la prestación se tomarán en cuenta: la gravedad de la falta, la afectación moral y patrimonial al demandante y, en su caso, el tiempo que éste hubiere permanecido privado de libertad.
 
@@ -146,3 +150,21 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los ocho días del mes de noviembre de mil novecientos noventa y cuatro.
 
 C.P. FRANCISCO JAVIER BARRIO TERRAZAS. El Secretario de Gobierno. LIC. EDUARDO ROMERO RAMOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
