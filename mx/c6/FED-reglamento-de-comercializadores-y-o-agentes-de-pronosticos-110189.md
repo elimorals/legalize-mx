@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-comercializadores-y-o-agentes-de-pronosticos-1101
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-10-14"
-last_updated: "2015-10-14"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110189&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-10-08"
 
 REGLAMENTO DE COMERCIALIZADORES Y/O AGENTES DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 14 de octubre de 2015.
 
@@ -229,7 +229,9 @@ Durante la vigencia del Contrato de Comisión Mercantil, el comercializador y/o 
 
 Pronósticos en su calidad de comitente estará en aptitud de revocar en cualquier tiempo, la comisión conferida al comercializador y/o agente en su calidad de comisionista, así como por estrategia comercial o por así convenir a sus intereses, para lo cual notificará su decisión al comercializador y/o agente, cuando menos (3) tres días hábiles antes de que deba surtir efecto la terminación, vía servicio postal o mensajería con acuse de recibo, sin perjuicio de que proceda a exigir la reparación del daño si es el caso, debiendo cumplir el comercializador o agente sus obligaciones y liquidar los adeudos pendientes.
 
-El comercializador y/o agente podrá dar por terminado, anticipadamente, el contrato de comisión mercantil celebrado con Pronósticos en cualquier tiempo; sin embargo, si la terminación se realiza dentro del plazo de prueba de cuarenta y dos semanas, se generará en favor de Pronósticos un cargo por concepto de gastos de administración equivalente a cincuenta y siete días de salario mínimo general vigente en el Distrito Federal.
+> <small>(REFORMADO, D.O.F. 22 DE FEBRERO DE 2017)</small>
+
+El Comercializador y/o agente podrá dar por terminado, anticipadamente, el Contrato de Comisión Mercantil celebrado con Pronósticos en cualquier tiempo; sin embargo, si la se realiza dentro del plazo de prueba de cuarenta y dos semanas, se generará en favor de Pronósticos un cargo por concepto de gastos de administración equivalente a cincuenta y siete veces el valor diario de la unidad de medida y actualización vigente en la Ciudad de México.
 
 Sin perjuicio de lo anterior, Pronósticos podrá dar por terminado el contrato de comisión mercantil celebrado con los comercializadores y/o agentes, en los siguientes supuestos:
 
@@ -317,9 +319,11 @@ En aquellos casos que lo estime procedente, el Consejo Directivo de Pronósticos
 
 Pronósticos podrá aumentar los concursos, sorteos, que deba poner a la venta el comercializador y/o agente, notificándole los términos y el porcentaje de la comisión correspondiente mediante las formas establecidas en el artículo 9o. del presente Reglamento.
 
+> <small>(REFORMADO, D.O.F. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 26o.
 
-El importe mínimo de ventas semanales de los boletos para participar en los concursos y sorteos que ofrece Pronósticos, que deberá cubrir el comercializador y/o agente y Canales Alternos, será la cantidad que Pronósticos determine en su contrato de comisión mercantil equivalente a los días de salario mínimo general vigente en el Distrito Federal acordado previamente por las partes en el contrato, para lo cual el comercializador y/o agente pondrá toda su actividad, diligencia y capacidad de venta.
+El importe mínimo de ventas semanales de los boletos para participar en los concursos y sorteos que ofrece Pronósticos, que deberá cubrir el Comercializador y/o agente y Canales Alternos, será la cantidad que Pronósticos determine en su contrato de comisión mercantil equivalente al valor diario de la unidad de medida y actualización vigente en la Ciudad de México acordado previamente por las partes en el contrato, para lo cual el Comercializador y/o agente pondrá toda su actividad, diligencia y capacidad de venta.
 
 ###### Artículo 27o.
 
@@ -327,7 +331,9 @@ Salvo pacto en contrario, el comercializador y/o agente deberá pagar a Pronóst
 
 El comercializador y/o agente recibirá cada mes el estado de cuenta, disponiendo de un lapso de (10) diez días hábiles, a partir de su publicación en el Portal de Comercializadores y/o agentes para objetarlo; transcurrido este periodo, se dará como plenamente aceptado por el Comercializador y/o agente.
 
-Salvo pacto en contrario, el comercializador y/o agente que no efectúe el pago total de las ventas de los boletos para participar en los concursos y sorteos que ofrece Pronósticos, dentro de los plazos que le sean previamente comunicados, se le suspenderá la señal de la terminal, la cual será reactivada al momento de confirmar los pagos recibidos vía depósito o transferencia bancaria y se hará acreedor a un cargo de hasta tres salarios mínimos generales vigentes en el Distrito Federal, por concepto de reactivación de señal, importe que será deducido de la comisión de la venta de la semana en que haya sido suspendida la terminal.
+> <small>(REFORMADO, D.O.F. 22 DE FEBRERO DE 2017)</small>
+
+Salvo pacto en contrario, el comercializador y/o agente que no efectúe el pago total de las ventas de los boletos para participar en los concursos y sorteos que ofrece Pronósticos, dentro de los plazos que le sean previamente comunicados, se le suspenderá la señal de la terminal, la cual será reactivada al momento de confirmar los pagos recibidos vía depósito o transferencia bancaria y se hará acreedor a un cargo de hasta tres veces el valor diario de la unidad de medida y actualización vigente en la Ciudad de México, por concepto de reactivación de señal, importe que será deducido de la comisión de la venta de la semana en que haya sido suspendida la terminal.
 
 ###### Artículo 28o.
 
@@ -375,9 +381,11 @@ Los comercializadores y/o agentes con respecto al artículo anterior, recibirán
 
 - Pronósticos podrá aumentar los productos y servicios que deba vender el Comercializador y/o agente notificándole los términos y el porcentaje de la comisión correspondiente, mediante las formas establecidas en el artículo 9o. del presente Reglamento.
 
+> <small>(REFORMADO, D.O.F. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 32o.
 
-El importe mínimo por la captación de venta y/o pago de productos y servicios deberá ser la cantidad que Pronósticos determine en su contrato de comisión mercantil equivalente a los días de salario mínimo general vigente en el Distrito Federal, acordado previamente por las partes mediante contrato respectivo, para lo cual el Comercializador y/o agente pondrá toda su actividad, diligencia y capacidad para obtenerlos.
+El importe mínimo por la captación de venta y/o pago de productos y servicios deberá ser la cantidad que Pronósticos determine en su contrato de comisión mercantil equivalente al valor diario de la unidad de medida y actualización vigente en la Ciudad de México, acordado previamente por las partes mediante contrato respectivo, para lo cual el Comercializador y/o agente pondrá toda su actividad, diligencia y capacidad para obtenerlos.
 
 ###### Artículo 33o.
 
@@ -385,7 +393,9 @@ Salvo pacto en contrario, el comercializador y/o agente deberá pagar a Pronóst
 
 El comercializador y/o agente recibirá cada mes el estado de cuenta, disponiendo de un lapso de (10) diez días hábiles, a partir de su publicación en el Portal de Comercializadores y/o agentes para objetarlo; transcurrido este periodo, se dará como plenamente aceptado por el Comercializador y/o agente.
 
-Salvo pacto en contrario, el comercializador y/o agente que no efectúe el pago total de la captación de pagos y/o venta de productos y servicios que ofrece Pronósticos, dentro de los plazos que le sean previamente comunicados, se le suspenderá la señal de la terminal, la cual será reactivada al momento de efectuar su pago y se hará acreedor a un cargo de hasta tres días de salario mínimo general vigente en el Distrito Federal, por concepto de reactivación de señal, importe que será deducido de la comisión de la captación de pagos y/o venta de productos y servicios de la semana en que haya sido suspendida la terminal.
+> <small>(REFORMADO, D.O.F. 22 DE FEBRERO DE 2017)</small>
+
+Salvo pacto en contrario, el Comercializador y/o agente que no efectúe el pago total de la captación de pagos y/o venta de productos y servicios que ofrece Pronósticos, dentro de los plazos que le sean previamente comunicados, se le suspenderá la señal de la terminal, la cual será reactivada al momento de efectuar su pago y se hará acreedor a un cargo de hasta tres veces el valor diario de la unidad de medida y actualización vigente en la Ciudad de México, por concepto de reactivación de señal, importe que será deducido de la comisión de la captación de pagos y/o venta de productos y servicios de la semana en que haya sido suspendida la terminal.
 
 La forma y el monto de pago de cada uno de ellos, deberá quedar establecida en el contrato respectivo, para lo cual los comercializadores y/o agentes lo harán saber del conocimiento del público.
 
@@ -414,3 +424,13 @@ Secretario del Consejo Directivo
 Lic. Sergio Eduardo Huacuja Betancourt
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL TÉRMINO SALARIO MÍNIMO POR EL DE UNIDAD DE MEDIDA Y ACTUALIZACIÓN, EN LOS ARTÍCULOS 18º, 26º, 27º, 32º Y 33° DEL REGLAMENTO DE COMERCIALIZADORES Y/O AGENTES DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
