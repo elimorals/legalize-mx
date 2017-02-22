@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2015-02-11"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -94,8 +96,6 @@ No podrán imponerse dos veces por una sola conducta, sanciones de la misma natu
 ## TITULO SEGUNDO. DEL JUICIO POLITICO Y DECLARACION DE PROCEDENCIA
 
 ### CAPITULO I. DE LOS SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -285,8 +285,6 @@ XXIV.- Proporcionar oportunamente y en forma veraz la Información y datos solic
 
 Cuando la dependencia a quien se requiera la información tenga alguna razón justificada para rehusarla, lo hará saber por escrito al solicitante, fundando y motivando su negativa;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 2013)</small>
 
 XXV.- Sujetarse a las bases previstas en el artículo 165 bis de la Constitución Política del Estado, al proponer o determinar las remuneraciones que deban percibir los servidores públicos, si ello se encuentra dentro de sus atribuciones;
@@ -299,21 +297,15 @@ XXVI.- Respetar la autonomía y los derechos de los pueblos, las comunidades y l
 
 XXVII.- Abstenerse de realizar los actos necesarios tendientes a constituir el Tribunal de Arbitraje Municipal en los términos que dispone el artículo 29, fracción XXXVIII, y 78, ambos del Código Municipal para el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2015)</small>
 
 XXVIII. Efectuar el proceso de entrega-recepción, de conformidad con lo señalado por la Ley de la materia.
 
 Responder la solicitud de aclaraciones que les sean formuladas, por motivo del proceso de entrega-recepción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
 
 XXIX. Las demás que le impongan otras leyes y reglamentos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
 
@@ -379,13 +371,17 @@ IV.- Destitución del puesto, e
 
 V.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños o perjuicios al Estado o Municipio, será de seis meses a tres años, si el monto de aquéllos no excede de cien veces el salario mínimo mensual y de tres a diez años, si excede de dicho límite. En los demás casos, será de uno a diez años.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños o perjuicios al Estado o Municipio, será de seis meses a tres años, si el monto de aquellos no excede de cien veces la Unidad de Medida y Actualización mensual y de tres a diez años, si excede de dicho límite. En los demás casos, será de uno a diez años.
 
 Las sanciones de carácter pecuniario, se impondrán de acuerdo con los beneficios económicos obtenidos por el responsable o por los daños y perjuicios causados al Estado o Municipio de que se trate, y no podrán exceder de tres tantos de la cuantificación de éstos.
 
 Las sanciones pecuniarias constituyen créditos fiscales y se harán efectivos mediante el procedimiento administrativo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables.
 
-Para los efectos de esta Ley, se entenderá por salario mínimo mensual, el equivalente a treinta veces el salario mínimo diario vigente en la capital del Estado y por salario mínimo diario también el vigente en la capital.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Para efectos de esta Ley, se entenderá por Unidad de Medida y Actualización mensual, lo que señale la normatividad en la materia.
 
 ###### ARTICULO 31.
 
@@ -415,9 +411,11 @@ III.- La Coordinación, en los casos que determine esta Ley.
 
 Incurrirán en responsabilidad administrativa, los servidores públicos que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo no se ajusten a lo previsto por esta Ley. En este caso, la Coordinación aplicará las sanciones correspondientes, previo el procedimiento consignado en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 33.
 
-Las facultades para exigir la responsabilidad administrativa prescribirán en seis meses, si el beneficio obtenido o el daño o perjuicio causado al Estado o Municipio de que se trate, no excediere de doscientas veces el salario mínimo diario al momento de la infracción. En los demás casos, prescribirán en tres años.
+Las facultades para exigir la responsabilidad administrativa prescribirán en seis meses, si el beneficio obtenido o el daño o perjuicio causado al Estado o Municipio de que se trate, no excediere de doscientas veces la Unidad de Medida y Actualización diaria al momento de la infracción. En los demás casos, prescribirán en tres años.
 
 El plazo para computar la prescripción, contará a partir del día siguiente a aquél en que se hubiese tenido conocimiento de la responsabilidad, o a partir del día en que hubiese cesado, si ésta fuere de carácter continuo.
 
@@ -459,7 +457,9 @@ Se requerirá autorización del Gobernador del Estado para la suspensión a que 
 
 Para el cumplimiento de sus determinaciones, la Dirección General podrá emplear los siguientes medios de apremio:
 
-I.- Sanción económica de hasta diez veces el salario mínimo diario al momento de aplicar la sanción, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+I.- Sanción económica de hasta diez veces la Unidad de Medida y Actualización diaria al momento de aplicar la sanción, y
 
 II.- Auxilio de la fuerza pública.
 
@@ -557,7 +557,9 @@ Para los casos de incumplimiento de las obligaciones consignadas en las fraccion
 
 Sí transcurrido ese plazo, no cumple con dicha obligación, quedará de inmediato separado de su empleo, cargo o comisión, previa declaración de la Coordinación, la cual ha de ser notificada al servidor público sancionado.
 
-Para el caso de que se omita la declaración final contemplada en la Fracción III del Artículo anterior, procede la aplicación de sanción pecuniaria hasta por cien veces el salario mínimo diario, y en su caso, inhabilitación hasta por un año en el servicio público estatal.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Para el caso de que se omita la declaración final contemplada en la fracción III del artículo anterior, procede la aplicación de sanción pecuniaria hasta por cien veces el valor diario de la Unidad de Medida y Actualización, y en su caso, inhabilitación hasta por un año en el servicio público estatal.
 
 ###### ARTICULO 49.
 
@@ -621,7 +623,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. MARTHA I. LARA ALATORRE.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 6 DE DICIEMBRE DE 1989.
 
@@ -824,3 +826,19 @@ P.O. 11 DE FEBRERO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor 60 días después de que lo haga la reforma constitucional contenida en el Decreto No. 1362/2013 XIII PE.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO N°. LXV /RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMAN LOS ARTÍCULOS 30, FRACCIÓN V, PÁRRAFOS SEGUNDO Y QUINTO; 33, PRIMER PÁRRAFO; 37, FRACCIÓN I, Y 48, TERCER PÁRRAFO; TODOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
