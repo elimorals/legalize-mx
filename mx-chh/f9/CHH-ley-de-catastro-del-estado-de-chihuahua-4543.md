@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2016-09-24"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -113,7 +113,7 @@ COMERCIAL MEDIO.- Locales comerciales y tiendas departamentales con característ
 
 COMERCIAL BUENO.- Locales y centros comerciales especializados con características constructivas y acabados de muy buena calidad, proyecto funcional ocupando espacios exclusivos, áreas de estacionamiento, circulación peatonal y áreas jardinadas. Acabados en muros yeso o texturizados, ventanería de aluminio anodizado, techumbres de lámina sobre armaduras de acero estructural y techos de concreto armado con claros hasta 10.0 metros, pudiendo considerar nave industrial, pisos de losetas de cerámica, mármol, duelas, instalaciones básicas (eléctricas e hídrosanítarias), en general ocultas, instalaciones especiales (aire acondicionado, calefacción, alarma, pararrayos, hidroneumático), complementos de buena calidad, sobre diseño o de importación.
 
-INDUSTRIAL LlGERO.- Edificaciones con características constructivas básicas de calidad intermedia, proyectos repetitivos normalmente sin divisiones internas, acabados en muros aparentes y de mezcla, ventanería metálica perfil tubular, techumbres de lámina o asbesto sobre armaduras ligeras de acero estructural, ocasionalmente de madera claros hasta 6.00 metros, pudiendo considerar nave industrial, pisos de concreto reforzado acabado pulido, instalaciones con servicios básicos (eléctricos e hidrosanitarios) ocultos o semiocultos, complementos de calidad media estandarizada (herrería, carpintería, vidriería, etc.), áreas de estacionamiento y andenes de carga.
+INDUSTRIAL LIGERO.- Edificaciones con características constructivas básicas de calidad intermedia, proyectos repetitivos normalmente sin divisiones internas, acabados en muros aparentes y de mezcla, ventanería metálica perfil tubular, techumbres de lámina o asbesto sobre armaduras ligeras de acero estructural, ocasionalmente de madera claros hasta 6.00 metros, pudiendo considerar nave industrial, pisos de concreto reforzado acabado pulido, instalaciones con servicios básicos (eléctricos e hidrosanitarios) ocultos o semiocultos, complementos de calidad media estandarizada (herrería, carpintería, vidriería, etc.), áreas de estacionamiento y andenes de carga.
 
 INDUSTRIAL MEDIANO.- Construcciones con características especializadas de calidad intermedia, con proyectos repetitivos normalmente sin divisiones internas, con oficinas, áreas recreativas y áreas verdes. Acabados en muros aparentes, mezcla, yeso y ocasionalmente texturizados, ventanería metálica de perfiles tubular o de aluminio, techumbres de lámina galvanizada o asbesto sobre armaduras, pudiendo considerar nave industrial, pisos de concreto reforzado, acabado pulido, recubiertos con cerámica u otros elementos de soporte industrial de rodamiento, plantas de tratamientos de aguas residuales para reutilizar en sistemas de riego, instalaciones deportivas y recreativas.
 
@@ -559,11 +559,11 @@ V. La negativa para la realización de las actividades relativas a la identifica
 
 VI. Omitir la manifestación o aviso de cambio de domicilio para oír y recibir notificaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 30.
 
-Los infractores a que se refiere el artículo anterior serán sancionados con multa de cinco a veinticinco veces el salario mínimo general diario, vigente para la zona económica en que se ubique el inmueble.
+Los infractores a que se refiere el artículo anterior serán sancionados con multa de cinco a veinticinco veces la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -880,3 +880,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las autoridades catastrales municipales, dentro de un plazo no mayor a tres meses, contados a partir de la entrada en vigor del presente Decreto, deberán realizar las acciones necesarias para dar cabal cumplimiento a lo dispuesto por el mismo.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO N°. LXV/RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMA EL ARTÍCULO 30, PRIMER PÁRRAFO DE LA LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
