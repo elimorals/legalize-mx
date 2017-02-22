@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cambio-climatico-del-estado-de-chihuahua-94976"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-22"
-last_updated: "2016-06-29"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de junio de 2013.
 
@@ -777,13 +777,17 @@ Los funcionarios públicos que contravengan las disposiciones de esta Ley, su re
 
 Las personas físicas o morales responsables de las fuentes emisoras que sean requeridas por la Secretaría para proporcionar los informes, datos o documentos que integran el reporte de emisiones tendrán la obligación de hacerlo dentro de los plazos establecidos por esta Ley y otras leyes aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 65.
 
-En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte no entreguen la información, datos o documentos requeridos por la Secretaría en el plazo señalado, esta podrá imponer una multa de quinientos a tres mil días de salario mínimo general vigente en la capital del Estado, sin menoscabo del cumplimiento inmediato de dicha obligación.
+En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte no entreguen la información, datos o documentos requeridos por la Secretaría en el plazo señalado, esta podrá imponer una multa de quinientas a tres mil veces el valor diario de la Unidad de Medida y Actualización, sin menoscabo del cumplimiento inmediato de dicha obligación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 66.
 
-En caso de encontrarse falsedad en la información proporcionada, así como incumplir con los plazos y términos para su entrega, la Secretaría aplicará una multa de tres mil y hasta diez mil días de salario mínimo general vigente en la capital de Estado. La multa será independiente de cualquier otra responsabilidad de los órdenes civil y penal que pudieran derivarse.
+En caso de encontrarse falsedad en la información proporcionada, así como incumplir con los plazos y términos para su entrega, la Secretaría aplicará una multa de tres mil y hasta diez mil veces el valor diario de la Unidad de Medida y Actualización. La multa será independiente de cualquier otra responsabilidad de los órdenes civil y penal que pudieran derivarse.
 
 La Secretaría tendrá la obligación de hacer del conocimiento de las autoridades competentes dichos actos.
 
@@ -822,3 +826,19 @@ P.O. 29 DE JUNIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXV/RFCLC/0266/2017 I P.E. POR EL QUE “SE REFORMAN LOS ARTÍCULOS 65 Y 66, PÁRRAFO PRIMERO DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
