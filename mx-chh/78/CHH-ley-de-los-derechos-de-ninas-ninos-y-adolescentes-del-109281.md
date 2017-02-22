@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2016-07-16"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -2211,7 +2211,9 @@ II. Multa.
 
 III. Suspensión temporal del servicio.
 
-La multa podrá ser hasta por el equivalente a trescientos sesenta días de salario mínimo general vigente, correspondiente al área geográfica de la capital del Estado y para su fijación se tomará en cuenta la gravedad de la infracción, la conducta reiterativa y las demás circunstancias que sirvan para individualizar la sanción.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+La multa podrá ser hasta por el equivalente a trescientas sesenta veces el valor diario de la Unidad de Medida y Actualización vigente, y para su fijación se tomará en cuenta la gravedad de la infracción, la conducta reiterativa y las demás circunstancias que sirvan para individualizar la sanción.
 
 ###### Artículo 194.
 
@@ -2304,3 +2306,19 @@ P.O. 16 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO N°. LXV /RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMA EL ARTÍCULO 193, SEGUNDO PÁRRAFO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
