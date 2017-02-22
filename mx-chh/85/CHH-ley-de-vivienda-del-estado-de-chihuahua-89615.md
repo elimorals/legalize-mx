@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vivienda-del-estado-de-chihuahua-89615"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-26"
-last_updated: "2016-10-03"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de mayo de 2012.
 
@@ -155,7 +155,7 @@ XII. Producción social de vivienda: aquella que se realiza bajo el control de a
 
 XIII. Productor social de vivienda: la persona física o moral que en forma individual o colectiva produce vivienda sin fines de lucro.
 
-XlV. Secretaría: la Secretaría de Desarrollo Urbano y Ecología.
+XIV. Secretaría: la Secretaría de Desarrollo Urbano y Ecología.
 
 XV. Sector privado: toda persona física o moral que produzca bienes o servicios relacionados con la vivienda con fines preponderantes de lucro.
 
@@ -169,11 +169,15 @@ XIX. Subsidio: apoyo económico que otorgan las instituciones gubernamentales fe
 
 XX. Suelo: los terrenos física y legalmente susceptibles de ser destinados predominantemente al uso habitacional conforme a las disposiciones aplicables.
 
-XXI. Vivienda de interés social: aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por 15 el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+XXI. Vivienda de interés social: aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por 15 el valor diario de la Unidad de Medida y Actualización, elevada esta cantidad al año.
 
 XXII. Vivienda en alto riesgo: aquella que por sus condiciones de ubicación o deterioro, de inseguridad física y social, y bajo inminente amenaza de colapso o siniestro, pone en peligro la vida de quien la habita.
 
-XXIII. Vivienda popular: aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por 10 el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+XXIII. Vivienda popular: aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por 10 el valor diario de la Unidad de Medida y Actualización, elevada esta cantidad al año.
 
 XXIV. Vivienda progresiva: es el resultado de acciones de gestión y construcción por etapas, cuyo objetivo es cubrir las necesidades habitacionales de las familias en un proceso paulatino, escalonado y discontinuo de construcción y adaptación.
 
@@ -293,7 +297,7 @@ XII. Identificar las necesidades de infraestructura y equipamiento y promover su
 
 XIII. Promover la gestión y ejecución de recursos para las acciones, obras y servicios de infraestructura relacionados con el suelo y la vivienda.
 
-XlV. Fungir como agente técnico de los fondos crediticios y financieros destinados a la ejecución de obras y servicios en materia de infraestructura urbana, suelo y vivienda.
+XIV. Fungir como agente técnico de los fondos crediticios y financieros destinados a la ejecución de obras y servicios en materia de infraestructura urbana, suelo y vivienda.
 
 XV. Apoyar técnicamente a municipios y grupos sociales organizados, en la integración y elaboración de estudios y proyectos de vivienda y sus elementos de infraestructura y servicios complementarios.
 
@@ -527,7 +531,7 @@ IX. Proponer estudios que sirvan de base para la elaboración, seguimiento y eva
 
 X. Emitir los lineamientos para su operación y funcionamiento.
 
-Xl. Las demás que le encomiende el Ejecutivo del Estado.
+XI. Las demás que le encomiende el Ejecutivo del Estado.
 
 ###### Artículo 28.
 
@@ -927,7 +931,7 @@ Los constructores y desarrolladores de vivienda, cuando ejecuten programas de vi
 
 ###### Artículo 60 Bis.
 
-Las acciones previstas en el artículo 2032 del Código Civil del Estado a favor de los adquirentes para exigir el saneamiento por vicios ocultos se extinguirán a los cInco años, contados desde la entrega material del inmueble, en los casos de enajenación de primera venta. Para el resto de las viviendas que no encuadren en este supuesto la acción se extinguirá en un año.
+Las acciones previstas en el artículo 2032 del Código Civil del Estado a favor de los adquirentes para exigir el saneamiento por vicios ocultos se extinguirán a los cinco años, contados desde la entrega material del inmueble, en los casos de enajenación de primera venta. Para el resto de las viviendas que no encuadren en este supuesto la acción se extinguirá en un año.
 
 ###### Artículo 61.
 
@@ -1335,7 +1339,9 @@ El Sistema de Información contendrá los elementos que permitan mantener actual
 
 Se sujetará, en lo conducente, a las disposiciones previstas en la Ley de Vivienda de la Federación y en la Ley del Sistema Nacional de Información Estadística y Geográfica, y se conformará con la información que proporcionen las dependencias y entidades de la Administración Pública Estatal y Municipal, en aspectos vinculados con la vivienda y el suelo, así como la que permita identificar la evolución y crecimiento del mercado con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
 
-Entre otros indicadores de evaluación, deberán considerarse los siguientes: metas por cobertura territorial; beneficiarios por grupos de ingreso en veces el salario mínimo y modalidades de programas, ya sea que se trate de vivienda nueva, sustitución de vivienda, en arrendamiento o del mejoramiento del parque habitacional; evaluación de los productos habitacionales, en términos de su ubicación, en los centros de población con respecto a las fuentes de empleo, habitabilidad de la vivienda y adaptabilidad a las condiciones culturales, sociales y ambientales de las regiones; y, evaluación de los precios de suelo, de las medidas de control para evitar su especulación y sus efectos en los programas habitacionales.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Entre otros indicadores de evaluación, deberán considerarse los siguientes: metas por cobertura territorial; beneficiarios por grupos de ingreso en veces del valor diario de la Unidad de Medida y Actualización y modalidades de programas, ya sea que se trate de vivienda nueva, sustitución de vivienda, en arrendamiento o del mejoramiento del parque habitacional; evaluación de los productos habitacionales, en términos de su ubicación, en los centros de población con respecto a las fuentes de empleo, habitabilidad de la vivienda y adaptabilidad a las condiciones culturales, sociales y ambientales de las regiones; y evaluación de los precios de suelo, de las medidas de control para evitar su especulación y sus efectos en los programas habitacionales.
 
 ###### Artículo 104.
 
@@ -1554,3 +1560,19 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
