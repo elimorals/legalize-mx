@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2017-01-27"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -491,11 +491,7 @@ XLIV.- Prestar, a través de la unidad administrativa o instancia correspondient
 
 XLV.- Recibir de las Dependencias y Entidades de la Administración Pública Estatal, la información respectiva en materia de derechos humanos, cuando así corresponda en el ámbito de su competencia;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2016)</small>
-
-XLVI.- Coordinar y vigilar el ejercicio de las funciones del Registro Público de la Propiedad y de Catastro en la Entidad, y
+XLVI.- (DEROGADA, P.O. 22 DE FEBRERO DE 2017)
 
 > <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -579,9 +575,9 @@ XXI.- Autorizar y/o revocar de conformidad con las disposiciones fiscales y la n
 
 XXII.- Conocer y resolver, de conformidad con las disposiciones fiscales y normatividad aplicables, así como los convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios, las solicitudes de devolución de cantidades pagadas indebidamente al fisco y las demás que legalmente procedan;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2017)</small>
 
-XXIII.- (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
+XXIII.- Coordinar y vigilar el ejercicio de las funciones del Registro Público de la Propiedad y de Catastro en la Entidad;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -2728,3 +2724,11 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto p
 TERCERO. Las disposiciones reglamentarias y administrativas contenidas en leyes, reglamentos, decretos, acuerdos, circulares, lineamientos y demás disposiciones legales, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan.
 
 CUARTO. La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo y después de la entrada en vigor del presente Decreto, se realizarán en los términos establecidos en las leyes vigentes en el momento de su inicio.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
