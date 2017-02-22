@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-gubernamental-y-9698
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-28"
-last_updated: "2016-10-03"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2013.
 
@@ -513,7 +513,9 @@ Tratándose de los municipios con una población inferior a los 50,000 habitante
 
 I. Como documentación comprobatoria soporte de las operaciones, deberá obrar la orden de compra debidamente autorizada por el Oficial Mayor y/o Tesorero Municipal en su caso, la póliza de egreso correspondiente y la nota expedida por el establecimiento comercial con los datos de identificación correspondiente.
 
-II. Los montos erogados por cada operación en lo individual, no podrán ser superiores al equivalente de 200 salarios mínimos de la zona geográfica de que se trate.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Los montos erogados por cada operación en lo individual, no podrán ser superiores al equivalente de doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 III. Las erogaciones totales de este tipo, no podrán ser superiores al 3% del Presupuesto de Egresos de cada municipio para el ejercicio fiscal que corresponda, además de que esta limitante es complementaria a la que establece en este mismo sentido, el artículo 42 de la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua.
 
@@ -1543,9 +1545,11 @@ Las sanciones administrativas a que se refiere este artículo, se impondrán y e
 
 Se considerará como infracción grave, para efecto de la imposición de las sanciones administrativas correspondientes, cuando el servidor público incurra en cualquiera de los supuestos establecidos en las fracciones II y IV del presente artículo, así como las reincidencias en las conductas señaladas en las demás fracciones.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 183.
 
-Se impondrá una pena de dos a siete años de prisión, y multa de mil a quinientos mil días de salario mínimo general vigente en el Distrito Federal, a quien causando un daño a la hacienda pública o al patrimonio del ente público correspondiente, incurra en las conductas previstas en las fracciones II y IV del artículo 182 de esta Ley.
+Se impondrá una pena de dos a siete años de prisión, y multa de mil a quinientas mil veces el valor diario de la Unidad de Medida y Actualización vigente, a quien causando un daño a la hacienda pública o al patrimonio del ente público correspondiente, incurra en las conductas previstas en las fracciones II y IV del artículo 182 de esta Ley.
 
 T R A N S I T O R I O S
 
@@ -1676,3 +1680,19 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
