@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2016-10-01"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -3281,21 +3281,29 @@ IV.- El beneficio obtenido fruto de la infracción.
 
 V.- La calidad de reincidente del infractor.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 377.
 
-Se sancionará con multa equivalente hasta dos mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 54, 55, 96, 112, 115, 131, 132, 133, 134, 148, 223, 234; 249, párrafo segundo; 321, fracciones I y II; 329, 330, 332, 333, 348 y 349, de esta Ley.
+Se sancionará con multa equivalente hasta dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, la violación de las disposiciones contenidas en los artículos 54, 55, 96, 112, 115, 131, 132, 133, 134, 148, 223, 234; 249, párrafo segundo; 321, fracciones I y II; 329, 330, 332, 333, 348 y 349, de esta Ley.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 378.
 
-Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 123, 136, 138, 144; 225, segundo y tercer párrafos; 226, 228, 230, 231; 240, fracción VII, segundo párrafo; 331, 334 y 356, segundo párrafo, de esta Ley.
+Se sancionará con multa de dos mil hasta seis mil veces el valor diario de la Unidad de Medida y Actualización vigente, la violación de las disposiciones contenidas en los artículos 123, 136, 138, 144; 225, segundo y tercer párrafos; 226, 228, 230, 231; 240, fracción VII, segundo párrafo; 331, 334 y 356, segundo párrafo, de esta Ley.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 379.
 
-Se sancionará con una multa equivalente a seis mil y hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 62, segundo párrafo; 110, 111, 124, 169, 170; 203, último párrafo; 225, primer párrafo; 229, 260, 356 y 369, de esta Ley.
+Se sancionará con una multa equivalente a seis mil y hasta doce mil veces el valor diario de la Unidad de Medida y Actualización vigente, la violación de las disposiciones contenidas en los artículos 62, segundo párrafo; 110, 111, 124, 169, 170; 203, último párrafo; 225, primer párrafo; 229, 260, 356 y 369, de esta Ley.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 380.
 
-Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 376 de esta Ley.
+Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por dieciséis mil veces el valor diario de la Unidad de Medida y Actualización vigente, atendiendo las reglas de calificación que se establecen en el artículo 376 de esta Ley.
 
 ###### Artículo 381.
 
@@ -3698,3 +3706,19 @@ P.O. 1 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1385/2016 II P.O., POR MEDIO DEL CUAL SE ADICIONAN UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 34, Y LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN III DEL PÁRRAFO PRIMERO DEL ARTÍCULO 40, AMBOS PRECEPTOS DE LA LEY ESTATAL DE SALUD”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXV/RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMAN LOS ARTÍCULOS 377, 378, 379 Y 380 DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
