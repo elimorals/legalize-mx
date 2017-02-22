@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-premio-de-prevencion-a-las-adicciones-en-el-609
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-26"
-last_updated: "2013-03-16"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE CREA EL PREMIO DE PREVENCIÓN A LAS ADICCIONES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 26 de abril de 2008.
 
@@ -77,13 +77,13 @@ a).- Se presentarán por triplicado, a doble espacio, en papel tamaño carta y p
 
 b).- Los participantes deberán enviar su proyecto en sobre cerrado con la identificación del autor, su domicilio, número telefónico, el título y área de su proyecto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 4.
 
-El “Premio de Prevención a las Adicciones" será entregado anualmente por el Presidente del H. Congreso del Estado, en una sesión ordinaria del mes de marzo y consistirá en un primer premio de 1000 salarios mínimos, una medalla y un diploma y, en un segundo premio de 600 salarios mínimos, una medalla y un diploma. Todos Los participantes se harán acreedores a un diploma por su participación y colaboración.
+El “Premio de Prevención a las Adicciones” será entregado anualmente por el Presidente del H. Congreso del Estado, en una sesión ordinaria del mes de marzo y consistirá en un primer premio de 1000 veces el valor diario de la Unidad de Medida y Actualización, una medalla y un diploma y, en un segundo premio de 600 veces el valor diario de la Unidad de Medida y Actualización, una medalla y un diploma. Todos los participantes se harán acreedores a un diploma por su participación y colaboración.
 
-El salario mínimo será el que rija en la Capital del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 5.
 
@@ -158,3 +158,19 @@ P.O. 16 DE MARZO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXV/RFCLC/0266/2017 I P.E. POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO Y SE DEROGA EL SEGUNDO DEL ARTÍCULO 4 DE LA LEY QUE CREA EL PREMIO DE PREVENCIÓN A LAS ADICCIONES EN EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
