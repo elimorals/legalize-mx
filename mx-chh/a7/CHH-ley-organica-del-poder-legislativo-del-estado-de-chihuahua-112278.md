@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2017-01-28"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -2135,9 +2135,11 @@ II.- La anual, durante el mes de septiembre de cada año.
 
 III.- La final, dentro de los sesenta días naturales siguientes a la conclusión de la función o encargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 237.
 
-En caso de no presentarse la declaración inicial o anual en los plazos fijados, la Comisión de Fiscalización lo comunicará a la Presidencia de la Mesa Directiva, quien amonestará por escrito y requerirá al omiso para que la presente dentro de un plazo de treinta días naturales, apercibiéndosele de que, de no hacerlo, se le impondrá una multa de hasta doscientas veces el salario mínimo diario.
+En caso de no presentarse la declaración inicial o anual en los plazos fijados, la Comisión de Fiscalización lo comunicará a la Presidencia de la Mesa Directiva, quien amonestará por escrito y requerirá al omiso para que la presente dentro de un plazo de treinta días naturales, apercibiéndosele de que, de no hacerlo, se le impondrá una multa de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 La falta de requerimiento no exime el cumplimiento de la obligación.
 
@@ -2145,9 +2147,11 @@ La falta de requerimiento no exime el cumplimiento de la obligación.
 
 En caso de persistir la omisión, se le hará efectiva la multa y se le conminará para que dé cumplimiento a lo requerido, en un plazo de treinta días naturales, apercibiéndosele que, de no hacerlo, causará baja o se llamará a su suplente, según sea el caso.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 239.
 
-Si no se presenta la declaración final dentro del plazo establecido, se impondrá al omiso una sanción pecuniaria, hasta por doscientas veces el salario mínimo diario vigente y se dará vista al Ministerio Público, para que practique las investigaciones necesarias, en cuanto a la situación patrimonial del omiso, a fin de que se proceda conforme a derecho.
+Si no se presenta la declaración final dentro del plazo establecido, se impondrá al omiso una sanción pecuniaria, hasta por doscientas veces el valor diario de la Unidad de Medida y Actualización vigente y se dará vista al Ministerio Público, para que practique las investigaciones necesarias, en cuanto a la situación patrimonial del omiso, a fin de que se proceda conforme a derecho.
 
 ###### ARTÍCULO 240.
 
@@ -2278,3 +2282,19 @@ P.O. 28 DE ENERO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
