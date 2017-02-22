@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2016-12-26"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -5367,7 +5367,9 @@ I.- Por las inscripciones de:
 
 1.- Nacimientos.
 
-1.1.- Sin la entrega de la copia al interesado. Gratuita
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2017)</small>
+
+1.1.- Registro y expedición de la primera copia certificada al interesado. Gratuita
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -5375,9 +5377,7 @@ I.- Por las inscripciones de:
 
 1.2.- Con la entrega de la copia al interesado. $90.00
 
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
-
-1.3.- Con la entrega de la copia al interesado, por única ocasión, si el registro se efectúa dentro de los primeros 12 meses del nacimiento. Gratuita
+1.3.- (DEROGADO, B.O. 22 DE FEBRERO DE 2017)
 
 2.- Reconocimiento de hijos.
 
@@ -5475,9 +5475,9 @@ en línea y cajeros automáticos). $90.00
 
 1.2.- Trascripción del libro (mecanografiada). $90.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2017)</small>
 
-1.3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
+1.3.- Expedición de Actas por única ocasión a Adultos Mayores de 60 años y más, en situación de calle, vulnerabilidad o abandono sin seguridad social o pensión. Gratuita
 
 III.- Por las anotaciones marginales:
 
@@ -7610,3 +7610,11 @@ Las normas adjetivas o procesales que contempla el presente decreto que de maner
 ###### ARTÍCULO SÉPTIMO.
 
 Tratándose de personas físicas y morales que previa a la entrada en vigor de la presente reforma ya habían contratado la prestación de servicios con empresas para que éstas les proporcionaran trabajadores, se les concederá un plazo de 180 días para que presenten el aviso correspondiente de conformidad con lo establecido en el artículo 33-Bis, mismo que se computará a partir de la entrada en vigor de la presente reforma.
+
+B.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 114, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL ARTÍCULO 325 DE LA LEY DE HACIENDA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
