@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ganaderia-del-estado-de-chihuahua-110765"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-12"
-last_updated: "2017-01-28"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE GANADERÍA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 12 de diciembre de 2015.
 
@@ -1589,9 +1589,11 @@ Los apicultores, por sí o a través de las asociaciones apícolas y en coordina
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de la misma, serán sancionadas administrativamente por la Secretaría, sin perjuicio de las sanciones civiles y/o penales correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 220.
 
-Se impondrá multa por el equivalente de 50 a 200 días de salario mínimo general vigente, al momento de cometerse la infracción, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+Se impondrá multa por el equivalente de 50 a 200 veces el valor diario de la Unidad de Medida y Actualización vigente, al momento de cometerse la infracción, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
 
 I. Sacrifiquen animales sin la autorización correspondiente.
 
@@ -1603,9 +1605,11 @@ IV. No den aviso del sacrificio realizado en los asientos de producción.
 
 V. Incumplan lo dispuesto por el artículo 216 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 221.
 
-Se impondrá multa por el equivalente de 200 a 400 días de salario mínimo general vigente en la capital del Estado, al momento de cometerse la infracción, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+Se impondrá multa por el equivalente de 200 a 400 veces el valor diario de la Unidad de Medida y Actualización vigente, al momento de cometerse la infracción, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
 
 I. No identifiquen su ganado.
 
@@ -1619,9 +1623,11 @@ V. Vendan clandestinamente carne y demás productos y subproductos del ganado.
 
 VI. Incumplan lo dispuesto por el artículo 116 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 222.
 
-Se impondrá multa por el equivalente de 400 a 600 días de salario mínimo general vigente, al momento de cometerse la infracción, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+Se impondrá multa por el equivalente de 400 a 600 veces el valor diario de la Unidad de Medida y Actualización vigente, al momento de cometerse la infracción, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
 
 I. Evadan las casetas de inspección ganadera.
 
@@ -1629,9 +1635,11 @@ II. Transporten ganado, productos y subproductos, sin la documentación en la qu
 
 III. Introduzcan al Estado, ganado por vías de comunicación en las cuales no existan casetas de inspección ganadera o estaciones cuarentenarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 223.
 
-Se impondrá multa por el equivalente de 5,000 a 10,000 días de salario mínimo general vigente, al momento de cometerse la infracción y deberán herrar el ganado con las siglas C.N. (Consumo Nacional), independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+Se impondrá multa por el equivalente de 5,000 a 10,000 veces el valor diario de la Unidad de Medida y Actualización vigente, al momento de cometerse la infracción y deberán herrar el ganado con las siglas C.N. (Consumo Nacional), independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
 
 I. Introduzcan ganado al Estado sin cumplir con las disposiciones sanitarias en vigor.
 
@@ -1649,9 +1657,11 @@ VII. Permitan el consumo de animales que hayan sido tratados con sustancias o me
 
 En los casos de las fracciones III, IV y V el ganado será sacrificado inmediatamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 224.
 
-Las personas profesionistas o facultadas para desarrollar actividades relacionadas con la ganadería en la Entidad, se les impondrá multa por el equivalente de 3,000 a 7,000 días de salario mínimo general vigente, al momento de cometerse la infracción, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+Las personas profesionistas o facultadas para desarrollar actividades relacionadas con la ganadería en la Entidad, se les impondrá multa por el equivalente de 3,000 a 7,000 veces el valor diario de la Unidad de Medida y Actualización vigente, al momento de cometerse la infracción, independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
 
 I. Realicen pruebas para el diagnóstico de tuberculosis y/o brucelosis y/o areten ganado orejano, así como trasherrado.
 
@@ -1667,7 +1677,9 @@ V. Expidan pases de ganado y/o legalicen facturas de ganado de otro municipio qu
 
 En los demás casos de incumplimiento de obligaciones a cargo de particulares, la Secretaría podrá imponer las siguientes sanciones, separada o simultáneamente:
 
-I. Multa de 500 a 2,000 veces el salario mínimo general vigente, al momento de cometerse la infracción, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+I. Multa de 500 a 2,000 veces el valor diario de la Unidad de Medida y Actualización vigente, al momento de cometerse la infracción, y
 
 II. Aseguramiento de ganado, productos, subproductos, implementos, documentación, vehículos o cualquier otro objeto, aparato o maquinaria que sean utilizados en su cuidado, control, movilización o introducción al Estado.
 
@@ -1816,3 +1828,19 @@ P.O. 28 DE ENERO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
