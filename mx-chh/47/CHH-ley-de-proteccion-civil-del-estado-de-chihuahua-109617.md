@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-109617"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-26"
-last_updated: "2015-08-26"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de agosto de 2015.
 
@@ -1163,9 +1163,11 @@ Procederá la amonestación cuando las infracciones sean leves y no reiteradas, 
 
 Se ejecutará mediante escrito que apercibirá al propietario o representante del establecimiento, o al organizador del evento, de que en caso de acción reiterada se sancionará en forma más severa.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 120.
 
-La multa es una sanción pecuniaria, cuyo monto podrá fijar la autoridad de protección civil que corresponda, desde cien hasta quince mil días de salario diario mínimo vigente en la zona que se cometa la infracción, buscando proporcionalidad y equidad, entre el daño causado y la falta.
+La multa es una sanción pecuniaria, cuyo monto podrá fijar la autoridad de protección civil que corresponda, desde cien hasta quince mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento que se cometa la infracción, buscando proporcionalidad y equidad, entre el daño causado y la falta.
 
 ###### ARTÍCULO 121.
 
@@ -1228,3 +1230,21 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinticuatro días del mes de agosto del año dos mil quince.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
