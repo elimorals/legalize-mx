@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "2016-10-03"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA "LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA", PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA "LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA", PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
-
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -637,7 +635,9 @@ Los entes públicos se abstendrán de recibir propuestas o celebrar contrato alg
 
 I. Aquellas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato, tenga interés personal, familiar o de negocios incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte. En casos especiales y por razones fundadas, la Función Pública podrá autorizar la celebración del contrato respectivo;
 
-Queda exceptuado de lo anterior, el caso de licitación restringida o adjudicación directa a que se refiere la fracción IX del punto "A" del artículo 102 de esta Ley, siempre que se trate de Municipios, que teniendo el carácter de rurales, tengan una población inferior a los 50,000 habitantes de conformidad con el último Censo General de Población y Vivienda y que el monto de cada operación de este tipo no exceda el equivalente a 200 salarios mínimos de la zona económica de que se trate, asimismo que el global de estas operaciones no supere el 3.0% del Presupuesto Total de Egresos del Municipio, para el ejercicio fiscal de que se trate, además de que esta limitante es complementaria a la que establece en este mismo sentido, el artículo 47 de la Ley de Presupuesto de Egresos, contabilidad y Gasto Público del Estado de Chihuahua.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Queda exceptuado de lo anterior, el caso de licitación restringida o adjudicación directa a que se refiere la fracción IX del punto “A” del artículo 102 de esta Ley, siempre que se trate de Municipios, que teniendo el carácter de rurales, tengan una población inferior a los 50,000 habitantes de conformidad con el último Censo General de Población y Vivienda y que el monto de cada operación de este tipo no exceda el equivalente a doscientas veces la Unidad de Medida y Actualización, asimismo que el global de estas operaciones no supere el 3.0 % del Presupuesto Total de Egresos del Municipio, para el ejercicio fiscal de que se trate, además de que esta limitante es complementaria a la que establece en este mismo sentido, el artículo 47 de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua.
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -1097,9 +1097,13 @@ Recibida la obra, la unidad o área administrativa bajo cuya responsabilidad que
 
 Los Municipios, sus Organismos Públicos Descentralizados, las Empresas de Participación Municipal mayoritarias y los Fideicomisos en los que los Municipios tengan el carácter de Fideicomitentes según correspondan, de conformidad con lo dispuesto por las Leyes de la materia, bajo su responsabilidad podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisiciones, arrendamientos y contratación de servicios, a través del procedimiento de licitación restringida, en las modalidades siguientes:
 
-1.- Adjudicación Directa, esta se realizará cuando el importe de cada operación no exceda de veinticinco veces el salario mínimo general vigente elevado al año y el proveedor cuente con capacidad de respuesta inmediata y ofrezca las mejores condiciones en cuanto a precio, pago, calidad, garantías, financiamiento y oportunidad en el cumplimiento.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-2.- Invitación a cuando menos tres Proveedores, cuando el importe de cada operación se ubique en mas de veinticinco y hasta sesenta veces el salario mínimo general vigente elevado al año, siempre y cuando las propuestas se consideren técnicamente válidas y el proveedor cuente con capacidad de respuesta inmediata y ofrezca las mejores condiciones en cuanto a precio, pago, calidad, garantías, financiamiento y oportunidad en el cumplimiento.
+1. Adjudicación Directa, esta se realizará cuando el importe de cada operación no exceda de veinticinco veces la Unidad de Medida y Actualización vigente elevada al año y el proveedor cuente con capacidad de respuesta inmediata y ofrezca las mejores condiciones en cuanto a precio, pago, calidad, garantías, financiamiento y oportunidad en el cumplimiento.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+2. Invitación a cuando menos tres proveedores, cuando el importe de cada operación se ubique en más de veinticinco y hasta sesenta veces la Unidad de Medida y Actualización vigente elevada al año, siempre y cuando las propuestas se consideren técnicamente válidas y el proveedor cuente con capacidad de respuesta inmediata y ofrezca las mejores condiciones en cuanto a precio, pago, calidad, garantías, financiamiento y oportunidad en el cumplimiento.
 
 Los montos que resulten de la fórmula anterior, no se considera incluido el Impuesto al Valor Agregado.
 
@@ -1107,7 +1111,7 @@ Por lo que corresponde al Gobierno del Estado, sus Organismos Públicos Descentr
 
 Las modalidades anteriores se realizarán, siempre que las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la licitación pública.
 
-El salario mínimo general vigente (SMGV) será el que corresponda a la zona económica de ubicación de los diferentes municipios, así como de la sede de los Poderes del Gobierno del Estado, de conformidad con la resolución de la Comisión Nacional de Salarios Mínimos.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 La opción que ejerzan deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para la Entidad, Ayuntamiento, Dependencia u Organismo respectivo. En el dictamen que al efecto se emita, deberán acreditar, de entre los criterios mencionados, aquellos en que se funde el ejercicio de la opción, considerando el monto del contrato y la naturaleza de la adquisición, arrendamiento, servicio u obra pública.
 
@@ -1253,7 +1257,9 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 Las infracciones a las disposiciones contenidas en esta Ley, serán sancionadas con suspensión, cancelación y/o multa. En el Poder Ejecutivo y su sector paraestatal, las sanciones se impondrán por la Secretaría; en el Poder Legislativo, por la Mesa Directiva o, en su caso, por la Diputación Permanente y, en los municipios y sus organismos por el Tesorero Municipal.
 
-La multa será equivalente a la cantidad de diez a mil veces el salario mínimo general vigente en la capital del Estado en la fecha de la infracción. Constituye crédito fiscal a favor del Estado o del Municipio, según corresponda, y se hará efectiva mediante el procedimiento administrativo de ejecución, en los términos de las disposiciones aplicables del Código Fiscal del Estado y del Código Municipal.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+La multa será equivalente a la cantidad de diez a mil veces la Unidad de Medida y Actualización vigente en la fecha de la infracción. Constituye crédito fiscal a favor del Estado o del municipio, según corresponda, y se hará efectiva mediante el procedimiento administrativo de ejecución, en los términos de las disposiciones aplicables del Código Fiscal del Estado y del Código Municipal.
 
 ###### Artículo 109.
 
@@ -1960,3 +1966,19 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXV/RFCLC/0266/2017 I P.E. POR EL QUE “SE REFORMAN LOS ARTÍCULOS 42, PRIMER PÁRRAFO, FRACCIÓN I, PÁRRAFO SEGUNDO; 101, PRIMER PÁRRAFO, NUMERALES 1 Y 2; 108, SEGUNDO PÁRRAFO; Y SE DEROGA EL PÁRRAFO QUINTO DEL ARTÍCULO 101; TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
