@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-registro-publico-de-la-propiedad-del-estado-de-75963"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-26"
-last_updated: "2010-06-26"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA
 
-LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA
+LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de junio de 2010.
 
@@ -89,7 +89,9 @@ XII.- "Registrador Adscrito"; El Registrador adscrito al Registro dependiente y 
 
 XIII.- "Distrito"; El Distrito Judicial que corresponda, de los existentes en el Estado.
 
-XIV.- "Salario Mínimo"; El salario mínimo diario vigente en la Capital del Estado.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+XIV. "Unidad de Medida y Actualización": La Unidad de Medida y Actualización publicada por el Instituto Nacional de Estadística y Geografía, conforme a la Ley de la materia.
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2010)</small>
 
@@ -145,7 +147,7 @@ III.- Vigilar que las dependencias a su cargo desempeñen eficientemente las fun
 
 IV.- Supervisar el funcionamiento de las Oficinas del Registro, a través del Departamento, ordenando que se practiquen, cuando menos anualmente, visitas a las Oficinas del Registro, con el objeto de saber si en los actos de dichas oficinas se han observado los requisitos legales de forma y contenido;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 V.- Establecer los lineamientos generales para la asignación, control y suspensión de la firma electrónica prevista en la presente Ley;
 
@@ -271,7 +273,7 @@ III.- Decretar la suspensión del procedimiento registral, de conformidad con lo
 
 IV.- Notificar las resoluciones de calificación registral, en los casos de suspensión del procedimiento registral o denegación de inscripción, en listado que se fijará en los estrados de la Oficina Registral correspondiente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 V.- Autorizar, con su firma autógrafa o electrónica, las inscripciones que se verifiquen, así como las notas respectivas;
 
@@ -297,7 +299,7 @@ Las disposiciones aplicables al Registrador, lo serán al o a los Registradores 
 
 Los Registradores sólo podrán desempeñar la procuración judicial y ejercer la profesión de abogado, cuando se trate de un asunto propio, de su cónyuge, de sus parientes consanguíneos o afines en línea recta sin limitación de grados o colaterales que lo sean por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE JUNIO DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE JUNIO DE 2010)</small>
 
 ###### Artículo 18.
 
@@ -413,9 +415,11 @@ V.- El Registrador puede negar la consulta de los libros a las personas que no c
 
 VI.- Cuando la consulta se realice a través de la red electrónica mundial (Internet), y el usuario requiera información sujeta al pago de derechos, deberá registrarse como usuario del servicio de consulta.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 33.
 
-El Registrador está facultado para imponer multas hasta por el equivalente de uno a cien días de salario mínimo general diario de la zona económica de que se trate, a la persona que destruya o maltrate los libros, a quien cause daños a los sistemas informáticos, a la información contenida en las bases de datos y en o a las imágenes, o a quienes en cualquier forma falten al orden y respeto debidos a la Oficina, sin perjuicio de hacer la consignación correspondiente al Ministerio Público en los casos en que se presuma la comisión de un delito.
+El Registrador está facultado para imponer multas hasta por el equivalente de uno a cien veces el valor diario de la Unidad de Medida y Actualización, a la persona que destruya o maltrate los libros, a quien cause daños a los sistemas informáticos, a la información contenida en las bases de datos y en o a las imágenes, o a quienes en cualquier forma falten al orden y respeto debidos a la Oficina, sin perjuicio de hacer la consignación correspondiente al Ministerio Público en los casos en que se presuma la comisión de un delito.
 
 ### CAPÍTULO II. DE LAS INSCRIPCIONES EN LA SECCIÓN PRIMERA
 
@@ -647,7 +651,7 @@ IV.- Las declaraciones y demás actos jurídicos relacionados con los bienes reg
 
 Los documentos que conforme a la ley puedan registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicio a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2010)</small>
 
 ###### Artículo 62.
 
@@ -783,7 +787,7 @@ I.- Recepción física o electrónica, en su caso, del instrumento en el que con
 
 II.- Ingresado el acto o derecho a registrar, se procederá a su análisis y verificación de la existencia o inexistencia de antecedentes registrales, mediante el cual se autoriza, suspende o rechaza, el trámite requerido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 III.- De ser aprobado, se efectuará la captura de la información en las formas establecidas para ello y, hecho lo anterior, se procederá a la calificación definitiva del acto inscrito mediante la firma del registrador, ya sea autógrafa o electrónica, generándose con ello los datos de registro respectivos.
 
@@ -795,7 +799,7 @@ El número de ingreso y trámite, provisto en la copia o copias que se estimen n
 
 En tratándose de trámites realizados a distancia, es decir, de una oficina a otra, la prelación será asignada por el ingreso de aquella que reciba la solicitud del trámite, hasta en tanto se cuente con una base de datos centralizada, salvo lo dispuesto en el siguiente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2010)</small>
 
 ###### Artículo 76.
 
@@ -907,7 +911,7 @@ Las palabras o frases que no deban valer se encerrarán dentro de un paréntesis
 
 Hecho el registro, serán devueltos los documentos al interesado, con nota de quedar registrados en tal fecha y bajo tal número.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 ###### Artículo 89.
 
@@ -1073,7 +1077,7 @@ V.- Las que resulten de cualquier acto registral.
 
 El Registrador tiene obligación de dar, a quien lo solicite, certificaciones literales, totales o, en lo conducente, de las inscripciones o constancias asentadas en los libros y apéndices.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 En su caso, las certificaciones expedidas en forma automática por sistemas de cómputo, haciendo mención de lo anterior, se autorizarán por medio de firma autógrafa o electrónica del funcionario autorizado.
 
@@ -1227,13 +1231,13 @@ La Dirección puede ofrecer servicios de forma electrónica, siempre y cuando la
 
 La recepción de los trámites registrales para cualquier oficina, podrá realizarse de forma remota a través de la aplicación web de gestión registral señalada por la Dirección.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 ###### Artículo 134.
 
 La Dirección emitirá los lineamientos y requisitos necesarios para la autorización y revocación al acceso remoto a la aplicación web de gestión registral del Registro Público de la Propiedad; así como lo referente a lo que implique el proceso de certificación y validación de firmas electrónicas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 ###### Artículo 135.
 
@@ -1243,11 +1247,11 @@ Tendrá efectos jurídicos, validez y fuerza obligatoria la información enviada
 
 Cuando la presente Ley exija la forma escrita para la realización de actos ante el Registro Público de la Propiedad, este requisito se tendrá por cumplido al utilizar la aplicación web de gestión registral señalada por la Dirección, siempre y cuando la información capturada y enviada se apegue completamente a las validaciones y formas señaladas dentro de la misma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 Cuando la ley exija la exhibición de la firma autógrafa de las partes, dicho requisito se tendrá por cumplido cuando se utilice la aplicación web de gestión registral, en virtud de que quien captura y envía la información es un usuario autorizado por la Dirección y la misma está validada con su firma electrónica.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 ###### Artículo 137.
 
@@ -1255,13 +1259,13 @@ El usuario remoto, quien ingresa a la aplicación web de gestión registral para
 
 ### CAPÍTULO II. DE LA FIRMA ELECTRÓNICA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 ###### Artículo 138.
 
 La firma electrónica tendrá entera validez y crédito para la realización de actos ante el Registro Público, cuando ésta se ajuste a las disposiciones de esta Ley y demás disposiciones aplicables en la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 ###### Artículo 139.
 
@@ -1269,7 +1273,7 @@ El uso de la firma electrónica, para los efectos del artículo anterior, deber�
 
 ### CAPÍTULO III. DEL REGISTRO ELECTRÓNICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 ###### Artículo 140.
 
@@ -1279,7 +1283,7 @@ I.- El mensaje de datos deberá contener la firma electrónica del fedatario pú
 
 II.- Efectuada la recepción, se expedirá una constancia con efectos de comprobante de ingreso, la cual deberá contener fecha, hora y número de ingreso en el sistema de gestión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY.]</small>
 
 ###### Artículo 141.
 
@@ -1325,10 +1329,26 @@ En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiocho día
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 26 DE JUNIO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
