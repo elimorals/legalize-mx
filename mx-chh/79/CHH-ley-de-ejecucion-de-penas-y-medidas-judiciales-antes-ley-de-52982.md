@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2016-06-18"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -655,7 +655,9 @@ La garantía prendaria también podrá otorgarse ante el propio Juez de Control 
 
 Póliza de fianza personal.
 
-Es admisible la póliza de fianza personal cuando el monto de la garantía económica no exceda del equivalente a cien días del salario mínimo. Salvo que se trate de empresas dedicadas a otorgar fianzas, el fiador deberá responder las preguntas que le haga el Juez de Control sobre su solvencia económica. El valor de la póliza será, al menos, de un tanto más al del monto fijado.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Es admisible la póliza de fianza personal cuando el monto de la garantía económica no exceda del equivalente a cien días de la Unidad de Medida y Actualización. Salvo que se trate de empresas dedicadas a otorgar fianzas, el fiador deberá responder las preguntas que le haga el Juez de Control sobre su solvencia económica. El valor de la póliza será, al menos, de un tanto más al del monto fijado.
 
 ###### Artículo 27.
 
@@ -2980,3 +2982,19 @@ El presente Decreto entrará en vigor el día 13 de junio del año 2016, fecha e
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
