@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2016-02-24"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -931,8 +931,6 @@ Es base del impuesto los pagos por concepto de impuestos y derechos previstos en
 
 La tasa general del impuesto será del 25% sobre la base que señala el Artículo 121 y su aplicación se hará según lo dispone el Artículo 123 de esta Ley.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 123.
@@ -947,7 +945,9 @@ I. El 15% se asigna para apoyo a educación;
 
 II. El 5% se asigna Pro-Universidad;
 
-III. El 2.5% se asigna a Fondo de Fomento a la Industrialización; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+III. El 2.5% se asigna al equipamiento y desarrollo de los Cuerpos de Bomberos Municipales, y
 
 IV. El 2.5% se asigna al FAEDE.
 
@@ -1336,8 +1336,6 @@ VIII.- Anotaciones marginales a actas del Registro
 Civil por orden judicial: 1,500.00
 
 IX.- Expedición de certificados de inexistencia: 1,000.00.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TERCERA DISPOSICIÓN TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
 
@@ -3261,13 +3259,9 @@ Cuando las obras para el suministro de aguas hayan sido financiadas mediante emp
 
 Con respecto a tarifas aplicables en este capítulo, se estará a las que establezcan las Juntas de Sistema de Agua Potable en cada Municipio, o a las vigentes en 1983 en el Municipio correspondiente, incrementadas en un 35%.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO VIGESIMO QUINTO. DE LA RECUPERACION DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACION PUBLICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3276,8 +3270,6 @@ ARTICULO 204 BIS. Por la reproducción de copias simples de información públic
 Queda exenta del pago que se prevé en el presente artículo la información que se genere con motivo de la respuesta a una solicitud de acceso a los datos personales o la corrección de éstos. Asimismo por éste concepto no se generara el impuesto a que hace referencia el Capítulo Tercero Título Segundo de la presente Ley.
 
 El cobro de Derechos por conceptos de copias certificadas se causará de conformidad con lo establecido en el Capitulo Décimo Quinto del presente Título.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3331,7 +3323,7 @@ El arrendamiento, la explotación, el traspaso y la cesión de bienes de propied
 
 ###### ARTICULO 207.
 
-Son aprovechamientos, los ingresos municipales ordinarios, no clasificados como impuestos, derechos o productos. Quedan comprendidos como tales los siguientes: (sic)
+Son aprovechamientos, los ingresos municipales ordinarios, no clasificados como impuestos, derechos o productos. Quedan comprendidos como tales los siguientes:
 
 ### CAPITULO PRIMERO. REZAGOS
 
@@ -3421,15 +3413,11 @@ La sanción podrá aumentarse progresivamente en tanto no se realice la conducta
 
 Quedan comprendidos dentro de esta clasificación de ingresos los que obtengan el Municipio, por concepto de:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 I.- Empréstitos que le sean otorgados para inversiones públicas productivas, previa autorización del Congreso del Estado.
 
 II.- Aportaciones extraordinarias de organismos públicos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 III.- (DEROGADA, P.O. 16 DE JULIO DE 2008)
 
@@ -3505,7 +3493,7 @@ SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELAC
 
 Esta Ley entrará en vigor el día primero de enero de mil novecientos noventa y seis.
 
-.
+...
 
 ###### ARTICULO QUINTO.
 
@@ -3656,6 +3644,18 @@ PRIMERO.- REMÍTASE EL PRESENTE DECRETO AL TITULAR DEL PODER EJECUTIVO DEL ESTAD
 SEGUNDO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL PRIMERO DE ENERO DEL DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD", ÓRGANO DE DIFUSIÓN OFICIAL DEL GOBIERNO DEL ESTADO DE MORELOS.
 
 TERCERO.- SE DEROGAN TODAS LAS DISPOSICIONES DE IGUAL O MENOR RANGO JERÁRQUICO QUE SE OPONGAN AL PRESENTE DECRETO.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS ONCE POR EL QUE SE REFORMAN, LA FRACCIÓN XI DEL ARTÍCULO 123 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, Y LA FRACCIÓN III DEL ARTÍCULO 123 DE LA LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de difusión del Gobierno del estado de Morelos; lo anterior, conforme a (sic) dispuesto por los artículos 44 y 70 fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDA. Las reformas, adiciones y derogaciones contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Las reformas a la Ley Orgánica Municipal del Estado de Morelos y a la Ley General de Hacienda Municipal del Estado de Morelos, entrarán en vigor hasta el momento en que se haga la Declaratoria a que se refiere la disposición transitoria PRIMERA.
+
+CUARTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
