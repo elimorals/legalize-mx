@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2016-10-29"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -165,7 +163,7 @@ El Consejo General designará, a propuesta del consejero presidente, a los funci
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
-Los medios de comunicación, así como los periodistas, no podrán ser obligados por autoridad alguna, dentro o fuera de juicio, (sic) revelar sus fuentes de información, motivo de una publicación.
+Los medios de comunicación, así como los periodistas, no podrán ser obligados por autoridad alguna, dentro o fuera de juicio, revelar sus fuentes de información, motivo de una publicación.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -523,7 +521,9 @@ Los candidatos independientes tendrán derecho a financiamiento público únicam
 
 El financiamiento público para los partidos políticos que mantengan el derecho a participar en su distribución después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgarán conforme a lo siguiente y a lo que disponga la ley:
 
-I.- El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del Estado por el sesenta y cinco por ciento del salario mínimo vigente en la capital del Estad o (sic). El treinta por ciento de la cantidad que resulte, de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante, de acuerdo al porcentaje de votos que hubieran obtenido en la elección de diputados inmediata anterior.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+I.- El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del Estado por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El treinta por ciento de la cantidad que resulte, de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante, de acuerdo al porcentaje de votos que hubieran obtenido en la elección de diputados inmediata anterior.
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
@@ -4580,3 +4580,19 @@ El Pleno del Tribunal Superior de Justicia, al aprobar el presupuesto del Poder 
 ###### ARTÍCULO SEXTO.
 
 Antes del 1° de enero de 2017 deberán expedirse las disposiciones legales, reglamentarias y acuerdos generales necesarios para la instrumentación del presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXV / FRCLC/ 0266/ 2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
