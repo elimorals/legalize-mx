@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-familiares-del-estado-de-chihuahua-101
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-23"
-last_updated: "2016-11-16"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Código publicado en el folleto anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 23 de julio de 2014.
 
@@ -1291,8 +1293,6 @@ Quienes encabecen juzgados de primera y segunda instancia tienen el deber de man
 
 También podrán los tribunales imponer correcciones disciplinarias a los secretarios o secretarias judiciales, notificadores o notificadoras y demás empleados dependientes de aquellos, por las faltas que cometan en el desempeño de sus funciones o labores respectivas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 94.
@@ -1301,7 +1301,9 @@ Son correcciones disciplinarias:
 
 I. La amonestación.
 
-II. La multa de hasta 100 veces el salario mínimo.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. La multa de hasta 100 veces el valor diario de la Unidad de Medida y Actualización.
 
 III. La expulsión del recinto judicial o del lugar donde se celebre la audiencia.
 
@@ -1317,8 +1319,6 @@ Las correcciones disciplinarias podrán imponerse de plano en el acto de cometer
 
 La resolución que imponga una corrección disciplinaria es irrecurrible.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 96.
@@ -1327,7 +1327,9 @@ Para hacer cumplir las determinaciones el tribunal puede emplear cualquiera de l
 
 I. Amonestación.
 
-II. Multa de hasta 100 salarios mínimos.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Multa de hasta 100 veces el valor diario de la Unidad de Medida y Actualización.
 
 III. El uso de la fuerza pública.
 
@@ -4075,13 +4077,11 @@ La demanda sobre el pago de alimentos que se deban por disposición de la ley, p
 
 Si el juzgado considera acreditada la obligación alimentaria, dictará el auto admisorio a más tardar al día siguiente en que haya recibido el escrito respectivo, fijando una pensión alimenticia provisional y dará aviso sin demora a la persona física o moral de quien perciba el ingreso la deudora alimentista, para que lleve a cabo el descuento y haga entrega del mismo al acreedor alimentario e informe sobre el total de sus percepciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 336.
 
-La orden de descuento de los alimentos y el informe solicitado, se atenderá de inmediato por la parte responsable de la fuente de trabajo, suministrando los datos exactos dentro del término de tres días, con el apercibimiento que de no hacerlo se le aplicará una multa de hasta doscientos días de salario mínimo, además de responder solidariamente con la obligada directa, de los daños y perjuicios que cause a la acreedora alimentaria por sus omisiones o informes falsos.
+La orden de descuento de los alimentos y el informe solicitado, se atenderá de inmediato por la parte responsable de la fuente de trabajo, suministrando los datos exactos dentro del término de tres días, con el apercibimiento que de no hacerlo se le aplicará una multa de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización, además de responder solidariamente con la obligada directa, de los daños y perjuicios que cause a la acreedora alimentaria por sus omisiones o informes falsos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -6496,3 +6496,19 @@ P.O. 16 DE NOVIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
