@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidad-patrimonial-del-estado-de-chihuahua-9071
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-05"
-last_updated: "2013-01-05"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 5 de enero de 2013.
 
@@ -151,7 +151,9 @@ II. A quienes no se encuentren en la hipótesis anterior, corresponderá una ind
 
 III. Además de la indemnización prevista en las fracciones anteriores, el reclamante o causahabiente tendrá derecho a que se le cubran los gastos médicos comprobables que en su caso se eroguen, de conformidad con la propia Ley Federal del Trabajo en lo que se refiere a riesgos de trabajo. Los gastos médicos serán considerados sólo en los casos en que el reclamante no tenga derecho a su atención en las instituciones estatales o federales de seguridad social.
 
-IV. El pago del salario íntegro o percepción comprobable que deje de percibir el afectado mientras subsista la imposibilidad de trabajar, será considerado sólo en los casos en que no le sean cubiertos por las instituciones estatales o federales de seguridad social. En los casos que no perciba salario o que no sea posible cuantificar su percepción, el afectado tendrá derecho a que se le consideren hasta tres salarios mínimos.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+IV. El pago del salario íntegro o percepción comprobable que deje de percibir el afectado mientras subsista la imposibilidad de trabajar, será considerado solo en los casos en que no le sean cubiertos por las instituciones estatales o federales de seguridad social. En los casos que no perciba salario o que no sea posible cuantificar su percepción, el afectado tendrá derecho a que se le consideren hasta tres veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 16.
 
@@ -297,9 +299,11 @@ Las resoluciones dictadas por la autoridad administrativa causarán estado y ser
 
 Si con motivo de una impugnación posterior se determinara que la reclamación de indemnización debe ser admitida a trámite, se iniciará el procedimiento correspondiente.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 38.
 
-En todo caso, para que proceda una reclamación de indemnización, deberá ser superior a veinticinco salarios mínimos vigentes en la capital del Estado.
+En todo caso, para que proceda una reclamación de indemnización, deberá ser superior a veinticinco veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO QUINTO. DE LA CONCURRENCIA
 
@@ -375,9 +379,11 @@ Las cantidades que se obtengan con motivo de las sanciones económicas que las a
 
 ### CAPÍTULO OCTAVO. PREVENCIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 52.
 
-A quien promueva una reclamación notoriamente improcedente o que sea declarada infundada por haberse interpuesto sin motivo, se le impondrá una multa de veinte a ciento veinte salarios mínimos vigentes en la Ciudad de Chihuahua. La multa será impuesta, sin trámite alguno por la dependencia o entidad ante quien se haya presentado la reclamación.
+A quien promueva una reclamación notoriamente improcedente o que sea declarada infundada por haberse interpuesto sin motivo, se le impondrá una multa de veinte a ciento veinte veces el valor diario de la Unidad de Medida y Actualización. La multa será impuesta, sin trámite alguno por la dependencia o entidad ante quien se haya presentado la reclamación.
 
 ###### Artículo 53.
 
@@ -406,3 +412,21 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los seis días del mes de diciembre del año dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
