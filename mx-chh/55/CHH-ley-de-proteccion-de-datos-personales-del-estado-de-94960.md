@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-de-datos-personales-del-estado-de-94960"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-26"
-last_updated: "2013-06-26"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS CIENTO OCHENTA DÍAS NATURALES, CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de junio de 2013.
 
@@ -881,11 +879,17 @@ Multas.
 
 Las infracciones a que se refiere el artículo 59 de la presente Ley, se sancionarán con multa de:
 
-I. Cincuenta a quinientos días de salario mínimo general diario vigente en la zona económica que corresponda, en los casos de las fracciones I, II Y XIII.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-II. Trescientos a mil días de salario mínimo general diario vigente en la zona económica que corresponda, en los casos de las fracciones III a la VII.
+I. Cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización, en los casos de las fracciones I, II y XIII.
 
-III. Mil a diez mil días de salario mínimo general diario vigente en la zona económica que corresponda, en los casos de las fracciones VIII a la XII.
+REFORMADA, P.O. 22 DE FEBRERO DE 2017)
+
+II. Trescientos a mil veces el valor diario de la Unidad de Medida y Actualización, en los casos de las fracciones III a la VII.
+
+REFORMADA, P.O. 22 DE FEBRERO DE 2017)
+
+III. Mil a diez mil veces el valor diario de la Unidad de Medida y Actualización, en los casos de las fracciones VIII a la XII.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
@@ -946,3 +950,21 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los seis días del mes de junio del año dos mil trece.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
