@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2016-11-30"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -2876,7 +2876,9 @@ VI.- Rastro.
 
 VII.- Calles, parques y jardines y su equipamiento.
 
-VIII.- Seguridad Pública, en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, de la presente Constitución y de las leyes que de ambas emanen; así como la policía preventiva municipal y de tránsito.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+VIII.- Seguridad Pública, en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, de la presente Constitución y de las leyes que de ambas emanen; así como la policía preventiva municipal y de tránsito, y el Cuerpo de Bomberos.
 
 La policía preventiva municipal estará al mando del Presidente Municipal, en los términos de la normatividad correspondiente. Aquélla acatará las órdenes que el Gobernador le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público; y
 
@@ -5119,3 +5121,15 @@ PRIMERA.- Aprobado el presente Decreto por el Poder Reformador local y hecha la 
 SEGUNDA.- Aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la LIII Legislatura del Congreso del Estado, en consecuencia, las reformas forman parte integral de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
 
 TERCERA.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS DIEZ POR EL QUE SE REFORMAN, LA FRACCIÓN VIII DEL ARTÍCULO 114-BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de difusión del Gobierno del estado de Morelos; lo anterior, conforme a (sic) dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDA. Las reformas, adiciones y derogaciones contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Las reformas a la Ley Orgánica Municipal del Estado de Morelos y a la Ley General de Hacienda Municipal del Estado de Morelos, entrarán en vigor hasta el momento en que se haga la Declaratoria a que se refiere la disposición transitoria PRIMERA.
+
+CUARTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
