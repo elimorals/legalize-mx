@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-nacional-electoral-en-materia-de-11717
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-11-14"
-last_updated: "2016-11-14"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2016-04-27"
 ---
 # REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PUBLICA
+REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 14 de noviembre de 2016.
 
@@ -539,6 +539,24 @@ De la información de interés público
 
 5. El Instituto deberá publicar en su portal de internet la convocatoria y el orden del día de las sesiones del Consejo General del Instituto, de conformidad con los plazos previstos en el artículo 13 del Reglamento de Sesiones de dicho órgano colegiado.
 
+> <small>(ADICIONADO, D.O.F. 22 DE FEBRERO DE 2017)</small>
+
+6. Adicionalmente a las obligaciones de transparencia previstas en el artículo 5 de este Reglamento, el Instituto podrá publicar otra información cuando así lo determine el Comité de Gestión y Publicación Electrónica o por instrucción del Tribunal Electoral del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 22 DE FEBRERO DE 2017)</small>
+
+Asimismo, el Instituto publicará datos generales de los procedimientos sancionadores contenidos en el Sistema Integral de Quejas y Denuncias que contendrán al menos lo siguiente:
+
+I. Nombre del demandante o quejoso y del denunciado,
+
+II. Número de queja o expediente, y
+
+III. Un resumen de la conducta denunciada.
+
+> <small>(ADICIONADO, D.O.F. 22 DE FEBRERO DE 2017)</small>
+
+La anterior información podrá ser consultada por cualquier persona física o moral, sin necesidad de contar con una clave de usuario y una contraseña.
+
 ARTÍCULO 11
 
 Del procedimiento para difundir la información a disposición del público
@@ -615,9 +633,15 @@ I. Los procedimientos de queja y los oficiosos que se presenten sobre el origen 
 
 II. Las auditorías y verificaciones que ordene la Unidad Técnica de Fiscalización de la Comisión de Fiscalización, en tanto no se haya emitido una resolución por el Consejo;
 
-III. Los procedimientos administrativos sancionadores ordinario y especializado, en tanto no se haya emitido la resolución respectiva;
+> <small>(REFORMADA, D.O.F. 22 DE FEBRERO DE 2017)</small>
+
+III. Los procedimientos administrativos sancionadores ordinario y especializado, en tanto no se haya emitido la resolución respectiva, con excepción de los datos generales previstos en el artículo 10, párrafo 6, del presente Reglamento.
 
 2. Las causales de reserva previstas en el párrafo anterior, se deberán fundar y motivar, a través de la aplicación de la prueba de daño.
+
+> <small>(ADICIONADO, D.O.F. 22 DE FEBRERO DE 2017)</small>
+
+Excepcionalmente se podrán clasificar los datos generales de los procedimientos sancionadores a que hace referencia el artículo 10, párrafo 6, del presente Reglamento, cuando a juicio de autoridad sustanciadora y dada la peculiaridad del caso concreto, se actualice el supuesto de reserva establecido en el artículo 113, fracción XI de la Ley General de Transparencia, pues de divulgarse la información se vulneraría la conducción de tales procedimientos administrativos seguidos en forma de juicio, en tanto no hayan causado estado.
 
 3. En la aplicación de la prueba de daño, el Instituto deberá justificar que:
 
@@ -1432,3 +1456,17 @@ El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Con
 Se aprobó en lo particular el Artículo Transitorio Noveno del Reglamento, por ocho votos a favor de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y tres votos en contra de los Consejeros Electorales, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña y Licenciada Alejandra Pamela San Martín Ríos y Valles.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG724/2016, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se modifica la parte conducente del Reglamento del Instituto Nacional Electoral en Materia de Transparencia en Información Pública, aprobado el 27 de abril de 2016, en los términos precisados en el Considerando Décimo del presente Acuerdo.
+
+SEGUNDO. Infórmese a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, sobre el cumplimiento dado a la sentencia emitida en los expedientes SUP-RAP-239/2016 y sus acumulados.
+
+TERCERO. El presente Acuerdo entrará en vigor y surtirá efectos a partir del día siguiente de su aprobación en la sesión correspondiente del Consejo General.
+
+CUARTO. Publíquese en el Diario Oficial de la Federación, así como en la página de internet del Instituto.
