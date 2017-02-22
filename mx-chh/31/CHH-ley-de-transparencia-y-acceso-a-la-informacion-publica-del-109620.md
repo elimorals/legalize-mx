@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1096
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-29"
-last_updated: "2015-08-29"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 04 DE MAYO DE 2016.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de agosto de 2015.
 
@@ -2245,7 +2243,9 @@ El Organismo Garante, podrá imponer al servidor público encargado de cumplir c
 
 I. Amonestación pública.
 
-II. Multa, de ciento cincuenta hasta mil quinientas veces el salario mínimo general vigente en el área geográfica de que se trate.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Multa, de ciento cincuenta hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Dichas medidas tendrán estrecha relación con la gravedad de la infracción, las condiciones económicas del infractor y la reincidencia, por lo que el Organismo Garante fundará y motivará la imposición de las mismas.
 
@@ -2345,11 +2345,17 @@ Las infracciones previstas en esta Ley, serán sancionadas con:
 
 I. Apercibimiento por escrito, tratándose de los supuestos previstos en las fracciones I, IV, VI, VII y XI del artículo 165 de esta Ley.
 
-De hacer caso omiso al apercibimiento, se aplicará multa de ciento cincuenta a doscientos cincuenta días de salario mínimo general vigente en el área geográfica de que se trate.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-II. Multa de doscientos cincuenta a ochocientos días de salario mínimo general vigente en el área geográfica de que se trate, en los casos previstos en las fracciones II, III y V del artículo 165 de esta Ley.
+De hacer caso omiso al apercibimiento, se aplicará multa de ciento cincuenta a doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-III. Multa de ochocientos a mil quinientos días de salario mínimo general vigente en el área geográfica de que se trate, en los casos previstos en las fracciones VIII, IX, X, XII, XIII, XIV, XV y XVI del artículo 165 de esta Ley.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Multa de doscientas cincuenta a ochocientas veces el valor diario de la Unidad de Medida y Actualización vigente, en los casos previstos en las fracciones II, III y V del artículo 165 de esta Ley.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+III. Multa de ochocientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, en los casos previstos en las fracciones VIII, IX, X, XII, XIII, XIV, XV y XVI del artículo 165 de esta Ley.
 
 IV. Separación temporal del cargo público hasta por seis meses.
 
@@ -2434,3 +2440,21 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintisiete días del mes de agosto del año dos mil quince.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXV/RFCLC/0266/2017 I P.E. POR EL QUE “SE REFORMAN LOS ARTÍCULOS 160, PÁRRAFO PRIMERO, FRACCIÓN II, Y 172, FRACCIÓN I, PÁRRAFO SEGUNDO, ASÍ COMO LAS FRACCIONES II Y III, AMBOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
