@@ -4,7 +4,7 @@ identifier: "SON-ley-de-los-derechos-de-las-personas-adultas-mayores-del-57046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-07"
-last_updated: "2016-12-29"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 29 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en la Edición Especial 14 al Boletín Oficial del Estado de Sonora, el viernes 7 de septiembre de 2007.
 
@@ -575,7 +573,13 @@ e) Organizaciones sociales dedicadas a favorecer el desarrollo de los adultos ma
 
 f) De las Cámaras empresariales.
 
-Los representantes señalados en los incisos a) al f), serán nombrados por el Congreso del Estado, a propuesta de las comisiones de desarrollo social.
+> <small>(ADICIONADA, B.O. 22 DE FEBRERO DE 2017)</small>
+
+VI.- Dos profesionales de la medicina con especialidad en geriatría, los cuales deberán de tener experiencia profesional igual o mayor a 10 años en dicha especialidad, así como reconocimiento de su desempeño profesional en nuestra Entidad y en el país, además de contar con, al menos, 10 años de residencia en el Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2017)</small>
+
+Los representantes señalados en el inciso a) al f) de la fracción V y en la fracción VI de este artículo, serán nombrados por el Congreso del Estado, a propuesta de la Comisión de Desarrollo Social y Asistencia Pública.
 
 El Consejo, a través de su Presidente, invitará a formar parte del mismo, con derecho a voz, a los delegados en el Estado del Instituto Nacional de Protección a los Adultos Mayores, del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto del Fondo Nacional para la Vivienda de los Trabajadores.
 
@@ -1407,7 +1411,7 @@ Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Hermosillo Sonora, a 
 
 EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RUBRICA. EL SECRETARIO DE GOBIERNO, ROBERTO RUIBAL ASTIAZARAN, RUBRICA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 B.O. 4 DE ABRIL DE 2012.
 
@@ -1442,6 +1446,14 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 B.O. 22 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 99, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 113, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 27 DE LA LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA".]
 
 ###### ARTÍCULO ÚNICO.
 
