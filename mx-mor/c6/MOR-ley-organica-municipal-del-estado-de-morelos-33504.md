@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2017-01-18"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -2459,7 +2461,9 @@ IX. Embellecimiento y conservación de centros urbanos y poblados;
 
 X. Calles, parques, jardines y áreas recreativas y su equipamiento;
 
-XI. Seguridad pública y tránsito;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+XI. Seguridad pública, tránsito y cuerpo de bomberos;
 
 XII. Catastro municipal;
 
@@ -3966,6 +3970,18 @@ PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA.- Los Municipios del Estado, a través de sus Ayuntamientos emitirán las disposiciones reglamentarias correspondientes en un término no mayor a 90 días hábiles, contados a partir de la fecha en que entre en vigor la presente reforma.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL SEISCIENTOS ONCE POR El QUE SÉ REFORMAN, LA FRACCIÓN XI DEL ARTÍCULO 123 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, Y LA FRACCIÓN III DEL ARTÍCULO 123 DE LA LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS.”.]</small>
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de difusión del Gobierno del estado de Morelos; lo anterior, conforme a (sic) dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDA. Las reformas, adiciones y derogaciones contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Las reformas a la Ley Orgánica Municipal del Estado de Morelos y a la Ley General de Hacienda Municipal del Estado de Morelos, entrarán en vigor hasta el momento en que se haga la Declaratoria a que se refiere la disposición transitoria PRIMERA.
+
+CUARTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 ###### ARTÍCULO CUARTO.
 
