@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-el-pago-de-honorarios-profesionales-de-116795"
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-01"
-last_updated: "2016-10-01"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE REGULA EL PAGO DE HONORARIOS PROFESIONALES DE ABOGADOS EN EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Número 79 del Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -71,9 +71,11 @@ Los pasantes de Derecho que obtengan autorización para ejercer la profesión en
 
 En ningún juicio podrá condenarse al pago de honorarios conforme a esta Ley, si de las constancias de autos no se desprende que intervino de manera profesional un abogado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 5.
 
-Las tarifas reguladas por la presente Ley se establecen en días de Salario Mínimo General Vigente en la capital del Estado (SMGV) y deberán convertirse a pesos en el momento en que sea necesario cuantificar los honorarios correspondientes o cuando sea exigible la obligación.
+Las tarifas reguladas por la presente Ley se establecen en veces el valor diario de la Unidad de Medida y Actualización vigente y deberán convertirse a pesos en el momento en que sea necesario cuantificar los honorarios correspondientes o cuando sea exigible la obligación.
 
 Si la obligación o suerte principal está cuantificada en moneda extranjera, el pago de los honorarios podrá válidamente pactarse o liquidarse en esa moneda o en moneda nacional al tipo de cambio que rija en la fecha del pago.
 
@@ -240,3 +242,21 @@ LIC. CÉSAR HORACIO DUARTE JÁQUEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MARIO TREVISO SALAZAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO N°. LXV/RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMA EL ARTÍCULO 5, PRIMER PÁRRAFO DE LA LEY QUE REGULA EL PAGO DE HONORARIOS PROFESIONALES DE ABOGADOS EN EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
