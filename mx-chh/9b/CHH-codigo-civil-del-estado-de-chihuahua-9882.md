@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2016-11-19"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -139,9 +139,11 @@ A falta de ley expresa, la controversia se decidirá a favor del que trate de ev
 
 20.- La familia, como institución que permite y fomenta la convivencia de sus miembros a través de la permanencia y estabilidad de las relaciones de las personas que la integran en razón del matrimonio, concubinato o parentesco, es la base del orden social, por lo que el Estado garantiza su protección, constitución y autoridad como fundamento primordial de la sociedad, considerándose de orden público. Para ello, el Gobierno del Estado promoverá la organización social y económica de la familia sustentada en los vínculos antes mencionados.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-21.- Cuando en las leyes se aluda al salario mínimo, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+21.- Cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
 
 # LIBRO PRIMERO. DE LAS PERSONAS
 
@@ -361,9 +363,11 @@ Si el nacimiento tuviere lugar en un sanatorio, la obligación a que se refiere 
 
 La Dirección del Registro Civil determinará las instituciones médicas públicas y privadas, en las que se deberán registrar a los ahí nacidos antes de abandonar dichos establecimientos, en coordinación y bajo la supervisión de la propia Dirección del Registro Civil.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-56.- Las personas que, estando obligadas a declarar el nacimiento lo hagan fuera del término fijado, serán sancionadas por el jefe de la oficina con una multa de una a diez veces el salario mínimo vigente en la zona económica del lugar del nacimiento, atendiendo las circunstancias de cada caso.
+56.- Las personas que, estando obligadas a declarar el nacimiento lo hagan fuera del término fijado, serán sancionadas por el jefe de la oficina con una multa de una a diez veces el valor diario de la Unidad de Medida y Actualización vigente, atendiendo las circunstancias de cada caso.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 En la misma sanción incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el artículo anterior.
 
@@ -2295,9 +2299,9 @@ IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado d
 
 436.- No pueden ser nombrados tutores o curadores las personas que integren los Consejos Locales de Tutelas, ni quienes estén ligados con ellas con parentesco de consanguinidad, en la línea recta sin limitación de grados, y en la colateral dentro del segundo grado inclusive.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-437.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia o de lo Familiar, dentro de ocho días, a fin de que se provea la tutela; la omisión motivará la aplicación de una sanción que podrá ser de diez a cien veces el salario mínimo de multa.
+437.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia o de lo Familiar, dentro de ocho días, a fin de que se provea la tutela; la omisión motivará la aplicación de una sanción que podrá ser de diez a cien veces el valor diario de la Unidad de Medida y Actualización de multa.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
@@ -2715,9 +2719,9 @@ Se exceptúan de lo dispuesto en el párrafo anterior los casos en que el error 
 
 533.- Si el padre o la madre del menor ejercían algún comercio e industria, el Juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente a juicio del Juez.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-534.- El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones de capitales y el que se adquiera de cualquier otro modo, será impuesto por el tutor, dentro de tres meses contados desde que se hubiere reunido el equivalente a ciento cincuenta veces el salario mínimo, sobre segura hipoteca, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que puede sobrevenir al realizarla.
+534.- El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones de capitales y el que se adquiera de cualquier otro modo, será impuesto por el tutor, dentro de tres meses contados desde que se hubiere reunido el equivalente a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, sobre segura hipoteca, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que puede sobrevenir al realizarla.
 
 535.- Si para hacer la imposición dentro del término señalado en el artículo anterior, hubiere algún inconveniente grave, el tutor lo manifestará al Juez, quien podrá ampliar el plazo por otros tres meses.
 
@@ -2741,9 +2745,9 @@ Los tutores no podrán vender valores comerciales, industriales, títulos de ren
 
 544.- El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del Juez.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-545.- Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de cien veces el salario mínimo, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+545.- Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de cien veces el valor diario de la Unidad de Medida y Actualización, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
 
 546.- Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer trato alguno respecto de ellos, para sí, sus ascendientes, su mujer, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
 
@@ -3409,9 +3413,9 @@ Los no fungibles son los que no pueden ser substituidos por otros de la misma es
 
 758.- El denunciante recibirá la cuarta parte del valor catastral de los bienes que denuncie; observándose lo dispuesto en la parte final del artículo 752.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-759.- El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de diez a cien veces el salario mínimo, sin perjuicio de las penas que señale el respectivo Código.
+759.- El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas que señale el respectivo Código.
 
 ## TITULO TERCERO. DE LA POSESION
 
@@ -6101,9 +6105,9 @@ Si la identidad del testador no pudiere ser verificada documentalmente por el No
 
 Si se recurre a testigos de identidad, éstos deberán ser conocidos del Notario o de los testigos instrumentales.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-1413.- Se prohibe que en los instrumentos que contengan disposiciones de última voluntad, se dejen hojas total o parcialmente en blanco, así como utilizar abreviaturas o cifras, salvo que se trate de invocar artículos de la ley o números de formas oficiales. A los Notarios que no observen este precepto se les impondrá una multa, cuyo importe será de diez a cien veces el salario mínimo general vigente en la zona que se trate; para el resto de las personas la multa será de cinco a cincuenta veces el salario mínimo general vigente en la zona que se trate. La sanción será impuesta por el Juez que conozca del juicio sucesorio y se hará efectiva por el recaudador de rentas del lugar.
+1413.- Se prohíbe que en los instrumentos que contengan disposiciones de última voluntad, se dejen hojas total o parcialmente en blanco, así como utilizar abreviaturas o cifras, salvo que se trate de invocar artículos de la ley o números de formas oficiales. A los Notarios que no observen este precepto se les impondrá una multa, cuyo importe será de diez a cien veces el valor diario de la Unidad de Medida y Actualización; para el resto de las personas la multa será de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización. La sanción será impuesta por el Juez que conozca del juicio sucesorio y se hará efectiva por el recaudador de rentas del lugar.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -6303,9 +6307,9 @@ En el caso de solares urbanos y parcelas con dominio pleno, segregados a consecu
 
 Cuando el testamento simplificado sea otorgado con posterioridad a la emisión del título de propiedad, la autoridad que reciba el testamento levantará el acta correspondiente, donde asentará la voluntad del testador, así como sus datos generales, huella digital y firma; de igual forma, llevará el registro de los mismos en el libro de testamentos que para tal efecto autorice la Dirección el (sic) Registro Público de la Propiedad y del Notariado y proporcionará el aviso correspondiente, lo anterior de conformidad con lo dispuesto por los artículos 52 y 83 de la Ley del Notariado del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-1456.- Para los efectos del artículo anterior, el precio del inmueble o su valor según avalúo catastral, no excederá del equivalente a veinticinco veces el salario mínimo general vigente en el lugar de su ubicación elevado al año, al momento de la adquisición.
+1456.- Para los efectos del artículo anterior, el precio del inmueble o su valor según avalúo catastral, no excederá del equivalente a veinticinco veces la Unidad de Medida y Actualización vigente elevada al año, al momento de la adquisición.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
@@ -8915,7 +8919,9 @@ DE LAS DIVERSAS ESPECIES DE CONTRATOS
 
 2130.- El contrato de promesa relativo a bienes inmuebles o derechos reales, cuyo contrato definitivo deba ser inscrito en el Registro Público de la Propiedad, también debe inscribirse para que produzca efectos con relación a terceros.
 
-En este caso, el contrato de promesa deberá otorgarse en escritura pública, si el precio del inmueble o derecho real excede del equivalente a quinientas veces el salario mínimo. En caso contrario, bastará un escrito privado debidamente ratificado ante fedatario público.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+En este caso, el contrato de promesa deberá otorgarse en escritura pública, si el precio del inmueble o derecho real excede del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización. En caso contrario, bastará un escrito privado debidamente ratificado ante fedatario público.
 
 2131.- Si el promitente o el causahabiente, en caso de promesa inscrita en el Registro Público de la Propiedad, rehusan firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el Juez; salvo el caso de que la celebración del contrato sea legalmente imposible, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
@@ -9139,9 +9145,9 @@ III.- (DEROGADA, P.O. 26 DE ENERO DE 2000)
 
 2186.- El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-2187.- La venta de bienes inmuebles cuyo precio, valor de avalúo o valor catastral, en el momento de la operación no exceda del equivalente a mil quinientas veces el salario mínimo, así como la constitución o transmisión de derechos reales estimados hasta la misma cantidad, podrán otorgarse en escrito privado, que se ratificará en los términos de ley.
+2187.- La venta de bienes inmuebles cuyo precio, valor de avalúo o valor catastral, en el momento de la operación no exceda del equivalente a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, así como la constitución o transmisión de derechos reales estimados hasta la misma cantidad, podrán otorgarse en escrito privado, que se ratificará en los términos de ley.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
@@ -9151,9 +9157,9 @@ III.- (DEROGADA, P.O. 26 DE ENERO DE 2000)
 
 2189.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-2190.- Si el precio, valor del avalúo o valor catastral excede de mil quinientas veces del salario mínimo, en el momento de la operación, la venta se otorgará en escritura pública.
+2190.- Si el precio, valor del avalúo o valor catastral excede de mil quinientas veces el valor diario de la Unidad de Medida y Actualización, en el momento de la operación, la venta se otorgará en escritura pública.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
@@ -9363,17 +9369,17 @@ Cuando los bienes vendidos son de los mencionados en los artículos 2203 y 2204,
 
 2233.- No puede hacerse donación verbal más que de bienes muebles.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-2234.- Tratándose de bienes muebles, la donación será verbal si el valor de los mismos no excede de cincuenta veces el salario mínimo.
+2234.- Tratándose de bienes muebles, la donación será verbal si el valor de los mismos no excede de cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-2235.- Si el valor de los bienes muebles excede de cincuenta, pero no de quinientas veces el salario mínimo, la donación deberá otorgarse en escrito privado.
+2235.- Si el valor de los bienes muebles excede de cincuenta, pero no de quinientas veces el valor diario de la Unidad de Medida y Actualización, la donación deberá otorgarse en escrito privado.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-2236.- Si el valor de los bienes muebles excede de quinientas veces el salario mínimo, la donación deberá otorgarse en escrito ratificado notarialmente.
+2236.- Si el valor de los bienes muebles excede de quinientas veces el valor diario de la Unidad de Medida y Actualización, la donación deberá otorgarse en escrito ratificado notarialmente.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
@@ -9385,7 +9391,7 @@ En las donaciones, los condueños no gozarán del derecho del tanto.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
-2238.- La aceptación de las donaciones se hará en la misma forma en estas deben hacerse, pero no surtirá efectos sino se hiciere en vida del donante.
+2238.- La aceptación de las donaciones se hará en la misma forma en que éstas deben hacerse; pero no surtirá efectos si no se hiciere en vida del donante.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
@@ -9463,7 +9469,9 @@ En las donaciones, los condueños no gozarán del derecho del tanto.
 
 2255.- La donación no podrá ser revocada por superveniencia de hijos:
 
-I.- Cuando sea menor de cien salarios mínimos;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+I.- Cuando sea menor al equivalente de cien Unidades de Medida y Actualización;
 
 II.- Cuando sea antenupcial;
 
@@ -9639,9 +9647,9 @@ Si el precio se fijara en moneda extranjera, se observará en lo conducente las 
 
 2305.- El contrato de arrendamiento deberá otorgarse por escrito.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-2306.- Tratándose de predios rústicos, si la renta anual excede de cuatro mil veces el salario mínimo, el contrato deberá otorgarse en escritura pública.
+2306.- Tratándose de predios rústicos, si la renta anual excede de cuatro mil veces el valor diario de la Unidad de Medida y Actualización, el contrato deberá otorgarse en escritura pública.
 
 2307.- El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
 
@@ -9799,11 +9807,15 @@ A este efecto, el propietario notificará al arrendatario por medio del Notario 
 
 El derecho a recibir esta indemnización es irrenunciable en forma anticipada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+2348.- Si la renta mensual excede de doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, deberá garantizarse el contrato mediante fianza o cualquiera otra forma legal, salvo pacto en contrario.
+
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
 
-2348.- Si la renta mensual excede de doscientas cincuenta veces el salario mínimo, deberá garantizarse el contrato mediante fianza o cualquiera otra forma legal, salvo pacto en contrario.
-
 Si la renta no excede de dicha cantidad, será potestativo para el arrendatario elegir la forma de garantía.
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
 
 No se podrá rehusar como fiador a una persona que reúna los requisitos de ley.
 
@@ -10039,9 +10051,9 @@ V.- En los demás casos previstos legalmente.
 
 2396.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible y el otro contrae la obligación de restituirla individualmente.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-El contrato de comodato deberá otorgarse por escrito ante dos testigos. Si tiene por objeto un predio rústico cuyo valor del avalúo o valor catastral exceda de quinientas veces el salario mínimo, el contrato se otorgará en escritura pública.
+El contrato de comodato deberá otorgarse por escrito ante dos testigos. Si tiene por objeto un predio rústico cuyo valor del avalúo o valor catastral exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, el contrato se otorgará en escritura pública.
 
 2397.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
 
@@ -10145,9 +10157,9 @@ Aunque se hubiere fijado plazo, el depositario puede, por causa justa, devolver 
 
 2434.- Los dueños de establecimientos en donde se reciben huéspedes, son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que allí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, a sus acompañantes, a sus servidores o a los que los visiten, o que proviene de caso fortuito, fuerza mayor o vicios de los mismos efectos.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-La responsabilidad de que habla este artículo no excederá de cincuenta veces el salario mínimo, cuando no se pueda imputar culpa al hostelero o a su personal.
+La responsabilidad de que habla este artículo no excederá de cincuenta veces el valor diario de la Unidad de Medida y Actualización, cuando no se pueda imputar culpa al hostelero o a su personal.
 
 2435.- Para que los dueños de establecimientos donde se reciben huéspedes sean responsables del dinero, valores u objetos de precio notoriamente elevado que introduzcan en esos establecimientos las personas que allí se alojan, es necesario que sean entregados en depósito a ellos o a sus empleados debidamente autorizados.
 
@@ -10213,9 +10225,9 @@ III.- En escrito privado, firmado por el otorgante y dos testigos.
 
 2451.- El mandato verbal es el otorgado de palabra entre presentes, hayan o no intervenido testigos.
 
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-Para que un mandato sea verbal, el interés del negocio no debe exceder de cincuenta veces salario mínimo.
+Para que un mandato sea verbal, el interés del negocio no debe exceder de cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
 
@@ -10241,13 +10253,15 @@ Los notarios insertarán este artículo en los instrumentos de los mandatos que 
 
 I.- Cuando sea general;
 
-II.- Cuando el interés del negocio para el que se otorgue sea superior al equivalente a doscientas veces el salario mínimo, al momento de conferirse; o
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Cuando el interés del negocio para el que se otorgue sea superior al equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización, al momento de conferirse; o
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-2455.- El mandato podrá conferirse en escrito privado firmado por el otorgante y dos testigos, sin que sea necesaria la ratificación de las firmas, cuando el interés del negocio para el que se confiere exceda de cincuenta pero no de doscientas veces el salario mínimo, al momento de su otorgamiento.
+2455.- El mandato podrá conferirse en escrito privado firmado por el otorgante y dos testigos, sin que sea necesaria la ratificación de las firmas, cuando el interés del negocio para el que se confiere exceda de cincuenta pero no de doscientas veces el valor diario de la Unidad de Medida y Actualización, al momento de su otorgamiento.
 
 2456.- La omisión de los requisitos establecidos en los artículos que preceden, anula el mandato, y sólo deja subsistentes las obligaciones contraídas entre el tercero que haya procedido de buena fe y el mandatario, como si éste hubiese obrado en negocio propio.
 
@@ -10521,9 +10535,9 @@ Las partes tienen libertad para fijar, de común acuerdo, la retribución por lo
 
 2515.- Todo el riesgo de la obra correrá a cargo del empresario hasta el acto de la entrega, a no ser que hubiere morosidad de parte del dueño de la obra en recibirla, o convenio expreso en contrario.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-2516.- Siempre que el empresario se encargue por ajuste cerrado de la obra en bienes inmuebles cuyo valor sea de más de cincuenta veces el salario mínimo, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
+2516.- Siempre que el empresario se encargue por ajuste cerrado de la obra en bienes inmuebles cuyo valor sea de más de cincuenta veces el valor diario de la Unidad de Medida y Actualización, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2003)</small>
 
@@ -11613,13 +11627,13 @@ V.- Cuando alguno o algunos de los fiadores se encuentren en algunos de los caso
 
 2744.- El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro Público de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de cien veces el salario mínimo, no se exigirá que el fiador tenga bienes raíces. La fianza puede sustituirse con prenda o hipoteca.
+Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de cien veces el valor diario de la Unidad de Medida y Actualización, no se exigirá que el fiador tenga bienes raíces. La fianza puede sustituirse con prenda o hipoteca.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-2745.- Para otorgar una fianza legal o judicial por más de cien veces el salario mínimo, se presentará un certificado expedido por el encargado del Registro Público de la Propiedad, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
+2745.- Para otorgar una fianza legal o judicial por más de cien veces el valor diario de la Unidad de Medida y Actualización, se presentará un certificado expedido por el Encargado del Registro Público de la Propiedad, a fin de demostrar que el fiador tiene bienes raíces suficientes para garantizar el cumplimiento de la obligación.
 
 2746.- La persona ante quien se otorgue la fianza, dentro del término de tres días dará aviso del otorgamiento al Registro Público, para que al margen de la inscripción de propiedad correspondiente al bien raíz que se designó para comprobar la solvencia del fiador, se ponga nota relativa al otorgamiento de la fianza.
 
@@ -11809,9 +11823,9 @@ Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, 
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-2810.- Cuando el crédito hipotecario exceda de quinientas veces el salario mínimo, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de quinientas veces el salario mínimo, podrá otorgarse en escritura privada ante dos testigos, ratificada en los términos de ley.
+2810.- Cuando el crédito hipotecario exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, podrá otorgarse en escritura privada ante dos testigos, ratificada en los términos de ley.
 
 2811.- La acción hipotecaria prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
 
@@ -11923,9 +11937,9 @@ DE LAS TRANSACCIONES
 
 2837.- La transacción es un contrato por el cual las partes haciéndose recíprocas concesiones, terminan una controversia presente o previenen una futura.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-2838.- La transacción debe constar por escrito si el interés pasa de cincuenta veces el salario mínimo.
+2838.- La transacción debe constar por escrito si el interés excede de cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 2839.- Los ascendientes y los tutores no pueden transigir en nombre de las personas que tienen bajo su potestad o bajo su guarda, a no ser que la transacción sea necesaria o útil para los intereses de los incapacitados y previa autorización judicial.
 
@@ -13040,3 +13054,19 @@ P.O. 19 DE NOVIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
