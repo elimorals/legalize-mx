@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-registro-publico-de-la-propiedad-del-estado-de-68346"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-15"
-last_updated: "2016-11-22"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de abril de 2009.
 
@@ -85,21 +85,17 @@ IX. Registro: El Registro Público de la Propiedad del Estado de Puebla;
 
 X. Reglamento: El Reglamento de la Ley del Registro Público de la Propiedad del Estado de Puebla;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+XI.- Secretaría: La Secretaría de Finanzas y Administración;
 
-XI. Secretaría: La Secretaría General de Gobierno del Gobierno del Estado de Puebla;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+XII.- Secretario.- El Secretario de Finanzas y Administración; y
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-XII. Secretario: El Secretario General de Gobierno del Estado de Puebla, y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-XIII. (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
+XIII.- Subsecretario.- El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
@@ -295,13 +291,11 @@ XXII. Notificar los actos administrativos que emitan las autoridades registrales
 
 XXIII. Las demás que le sean conferidas por éste u otros ordenamientos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 12.
 
-###### Artículo 12.
-
-Los Registradores Públicos serán nombrados por el Director General, previo acuerdo con el Secretario y con sujeción a los procedimientos, planes o programas que al efecto se establezcan para la profesionalización y capacitación del personal del Instituto.
+Los Registradores Públicos serán nombrados por el Director General, previo acuerdo con el Subsecretario y con sujeción a los procedimientos, planes o programas que al efecto se establezcan para la profesionalización y capacitación del personal del Instituto.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
@@ -1364,5 +1358,13 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA", PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 01 DE AGOSTO DE 2016”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA, Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
