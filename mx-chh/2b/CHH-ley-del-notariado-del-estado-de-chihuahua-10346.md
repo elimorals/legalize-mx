@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-notariado-del-estado-de-chihuahua-10346"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-12"
-last_updated: "2015-08-08"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de agosto de 1995.
 
@@ -273,7 +273,7 @@ Los Jueces Menores de las poblaciones en que no hubiere Notario, previo acuerdo 
 
 El acuerdo del Departamento a que se refiere el párrafo anterior, se otorgará discrecionalmente y podrá revocarse, en todo momento, sin expresión de causa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 32.
 
@@ -325,7 +325,7 @@ Quien sea o haya sido Notario, estará impedido para desempeñar la procuración
 
 El ejercicio de la función notarial es incompatible con toda función o empleo públicos, sean por elección o por nombramiento; con los empleos o comisiones de los particulares cuando se establezca relación de patrón a trabajador; y con la profesión de ministro de cualquier culto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -875,7 +875,9 @@ El Departamento aplicará a los Notarios, a quienes con ese carácter actúen y 
 
 I.- Amonestación por oficio.
 
-II.- Multa de uno hasta quinientos días del salario mínimo vigente en la capital del Estado.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Multa de uno hasta quinientos días equivalentes a la Unidad de Medida y Actualización vigente;
 
 III.- Suspensión para el ejercicio de la función notarial por el tiempo que dure el incumplimiento de la obligación prevista en el segundo párrafo del artículo 27 de la Ley.
 
@@ -1075,15 +1077,25 @@ A).- Por lo que se refiere a las que convoquen los Colegios de Notarios:
 
 I.- Por la primera inasistencia, amonestación por escrito.
 
-II.- Por la segunda inasistencia, amonestación por escrito y sanción por el equivalente a veinticinco días de salario mínimo general vigente en la Capital del Estado.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-III.- Por la tercera inasistencia, amonestación por escrito y sanción por el equivalente a cincuenta días del mismo salario mínimo.
+II.- Por la segunda inasistencia, amonestación por escrito y sanción por el equivalente a veinticinco días de la Unidad de Medida y Actualización vigente.
 
-IV.- Por la cuarta inasistencia, amonestación por escrito y sanción por el equivalente a cien días del mencionado salario mínimo.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-V.- Por la quinta inasistencia, amonestación por escrito y sanción por el equivalente a doscientos días del referido salario mínimo.
+III.- Por la tercera inasistencia, amonestación por escrito y sanción por el equivalente a cincuenta días de la Unidad de Medida y Actualización.
 
-VI.- Por la sexta inasistencia y subsecuentes, amonestación por escrito y sanción por el equivalente a quinientos días del referido salario mínimo.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+IV.- Por la cuarta inasistencia, amonestación por escrito y sanción por el equivalente a cien días de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+V.- Por la quinta inasistencia, amonestación por escrito y sanción por el equivalente a doscientos días de la Unidad de Medida y Actualización
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+VI.- Por la sexta inasistencia y subsecuentes, amonestación por escrito y sanción por el equivalente a quinientos días de la Unidad de Medida y Actualización.
 
 B).- Por lo que hace a las que convoque el Consejo de Notarios: Por la primera inasistencia se aplicará la sanción prevista en la fracción IV; por la segunda inasistencia, la sanción prevista en la fracción V; y por la tercera y subsecuentes inasistencias, la sanción prevista en la fracción VI, todas del apartado A) precedente de este artículo.
 
@@ -1241,7 +1253,7 @@ PROF. OSCAR M. VALENZUELA A
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 29 DE DICIEMBRE DE 1999.
 
@@ -1334,3 +1346,19 @@ P.O. 8 DE AGOSTO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
