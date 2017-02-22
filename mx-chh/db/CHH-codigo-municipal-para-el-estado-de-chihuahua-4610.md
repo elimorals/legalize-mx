@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2016-09-24"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -433,7 +433,7 @@ Los ayuntamientos residirán en las cabeceras municipales y se integrarán:
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-l. Los Municipios de Chihuahua y Juárez con un Presidente, un Síndico y once Regidores electos por el principio de mayoría relativa;
+I. Los Municipios de Chihuahua y Juárez con un Presidente, un Síndico y once Regidores electos por el principio de mayoría relativa;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -651,7 +651,9 @@ Autorizar, en los términos del párrafo anterior, los Proyectos de Inversión P
 
 Afectar, previa la aprobación del Congreso, los ingresos y derechos que de conformidad con la legislación pueda disponer para tal fin, para que en su caso sean fuente o garantía de pago de los Proyectos de Inversión Pública a largo Plazo.
 
-XXII.- Autorizar al Presidente Municipal para enajenar a título oneroso o gratuito bienes muebles del dominio privado municipal, cuyo valor sea superior a doscientos cincuenta veces el salario mínimo general vigente en la zona económica de que se trate;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+XXII.- Autorizar al Presidente Municipal para enajenar a título oneroso o gratuito bienes muebles del dominio privado municipal, cuyo valor sea superior a doscientas cincuenta Unidades de Medida y Actualización.
 
 XXIII.- Solicitar al Congreso del Estado, la dotación y ampliación del fundo legal de las poblaciones, con los terrenos que se requieran para su creación y desarrollo;
 
@@ -2187,9 +2189,11 @@ En caso de no presentarse la declaración inicial o anual en los plazos fijados,
 
 En caso de persistir la omisión, se le hará efectiva la multa y se le conminará para que de cumplimiento a lo requerido en un plazo de treinta días naturales, apercibido que de no hacerlo, causará baja.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 96.
 
-Si no se presenta la declaración final, se impondrá al omiso una sanción pecuniaria, hasta por cien veces el salario mínimo diario vigente, en la zona económica a que corresponda el Municipio de que se trate y se dará vista al Ministerio Público, para que practique las investigaciones necesarias en cuanto a la situación patrimonial del omiso y proceda conforme a derecho.
+Si no se presenta la declaración final, se impondrá al omiso una sanción pecuniaria, hasta por cien Unidades de Medida y Actualización y se dará vista al Ministerio Público, para que practique las investigaciones necesarias en cuanto a la situación patrimonial del omiso y proceda conforme a derecho.
 
 ###### ARTICULO 97.
 
@@ -2391,9 +2395,11 @@ c) Para ordenar asentamientos humanos irregulares. Cuando la solicitud de regula
 
 Para el caso de establecimientos de centros industriales, agropecuarios, educativos y de interés social, previa justificación y aprobación de las dos terceras partes de los integrantes del Ayuntamiento, podrán enajenarse superficies mayores a las que determina el artículo 113.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 112.
 
-Para la venta de bienes muebles del dominio privado municipal se requerirá el acuerdo del Ayuntamiento cuando su valor sea superior a doscientos cincuenta veces el salario mínimo general vigente en la zona económica de que se trate; cuando su importe sea menor, bastará el acuerdo por escrito del Presidente Municipal.
+Para la venta de bienes muebles del dominio privado municipal se requerirá el acuerdo del Ayuntamiento cuando su valor sea superior a doscientas cincuenta Unidades de Medida y Actualización; cuando su importe sea menor, bastará el acuerdo por escrito del Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2013)</small>
 
@@ -2837,9 +2843,9 @@ II.- Para los predios rústicos la tasa de 2 al millar.
 
 III.- Para fundos mineros la tasa de 5 al millar.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-El impuesto neto a pagar nunca será inferior al equivalente a dos días de salario mínimo general vigente en el Municipio donde se ubique el predio objeto del impuesto, al día treinta de noviembre del año anterior al ejercicio de que se trate.
+El impuesto neto a pagar nunca será inferior al equivalente a dos Unidades de Medida y Actualización.
 
 #### SECCION III. DE LAS EXENCIONES
 
@@ -2935,9 +2941,9 @@ II.- El valor catastral; y
 
 III.- El valor del inmueble señalado en el acto de adquisición.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-Tratándose de bienes inmuebles cuya adquisición se derive de procesos de regularización de terrenos, promovidos por las diferentes instancias de gobierno, así como de programas de fomento a la vivienda de interés social y popular, se tendrá como base gravable la que resulte menor de las hipótesis establecidas en las fracciones anteriores. Para tales efectos, se entiende por vivienda de interés social aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por 15 el salario mínimo general elevado al año, y por vivienda popular aquella que en iguales condiciones no exceda de la suma que resulte de multiplicar por 25 el salario mínimo general elevado al año.
+Tratándose de bienes inmuebles cuya adquisición se derive de procesos de regularización de terrenos, promovidos por las diferentes instancias de gobierno, así como de programas de fomento a la vivienda de interés social y popular, se tendrá como base gravable la que resulte menor de las hipótesis establecidas en las fracciones anteriores. Para tales efectos, se entiende por vivienda de interés social aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por 15 la Unidad de Medida y Actualización elevada al año, y por vivienda popular aquella que en iguales condiciones no exceda de la suma que resulte de multiplicar por 25 la Unidad de Medida y Actualización elevada al año.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 1996)</small>
 
@@ -2961,9 +2967,9 @@ Los avalúos a que se refieren los párrafos anteriores deberán comprender el t
 
 La tasa del impuesto es del dos por ciento sobre la base gravable. Tratándose de acciones de vivienda nueva de interés social o popular, la tasa será la que se determine en las leyes de ingresos.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-En aquellos Municipios en que así lo determinen sus leyes de ingresos, cuando la base gravable no exceda de 365 veces el salario mínimo general diario, vigente en la Capital del Estado, la tasa del impuesto podrá ser del 0%.
+En aquellos Municipios en que así lo determinen sus leyes de ingresos, cuando la base gravable no exceda de 365 veces la Unidad de Medida y Actualización, la tasa del impuesto podrá ser del 0%.
 
 #### SECCION II. DECLARACIONES Y PAGO DEL IMPUESTO
 
@@ -3523,7 +3529,9 @@ Las infracciones a las leyes, reglamentos y demás disposiciones de la autoridad
 
 I.- Amonestación;
 
-II.- Multa, hasta por cincuenta salarios mínimos diarios vigentes en el lugar de que se trate; si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II.- Multa, hasta por cincuenta Unidades de Medida y Actualización; si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Si el infractor fuese jornalero u obrero, no podrá ser sancionado con multa mayor del importe de su salario de un día.
 
@@ -4708,3 +4716,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las autoridades catastrales municipales, dentro de un plazo no mayor a tres meses, contados a partir de la entrada en vigor del presente Decreto, deberán realizar las acciones necesarias para dar cabal cumplimiento a lo dispuesto por el mismo.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
