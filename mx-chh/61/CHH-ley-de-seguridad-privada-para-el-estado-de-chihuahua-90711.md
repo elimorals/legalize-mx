@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-seguridad-privada-para-el-estado-de-chihuahua-90711"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2013-10-12"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de diciembre de 2012.
 
@@ -487,9 +487,11 @@ Si el peticionario de la Autorización no exhibe o cumple en su solicitud la tot
 
 Lo anterior sin perjuicio de la facultad que tiene la Fiscalía de negar autorizaciones cuando exista causa fundada para ello.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 34.
 
-La Autorización deberá revalidarse durante el mes de enero de cada año, debiendo el Prestador de Servicios actualizar la póliza de fianza conforme al salario mínimo general vigente en la capital del Estado, así como aquellas documentales que lo ameriten, tales como inventarios de bienes muebles e inmuebles, movimientos de personal, certificados de antecedentes penales, pago de derechos, modificaciones al Acta Constitutiva de la persona moral y representación de la misma, planes y programas de capacitación y adiestramiento y demás requisitos que por su naturaleza lo requieran.
+La Autorización deberá revalidarse durante el mes de enero de cada año, debiendo el Prestador de Servicios actualizar la póliza de fianza conforme al valor de la Unidad de Medida y Actualización, así como aquellas documentales que lo ameriten, tales como inventarios de bienes muebles e inmuebles, movimientos de personal, certificados de antecedentes penales, pago de derechos, modificaciones al Acta Constitutiva de la persona moral y representación de la misma, planes y programas de capacitación y adiestramiento y demás requisitos que por su naturaleza lo requieran.
 
 ###### Artículo 35.
 
@@ -597,11 +599,13 @@ La Fiscalía se apoyará en un médico veterinario zootecnista, así como del pe
 
 Los Prestadores de Servicios de Seguridad Privada tendrán responsabilidad civil por las lesiones o daños a terceros que causen los animales en la prestación del servicio, conforme a las normas legales aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 44.
 
-De ser procedente la Autorización, el solicitante deberá presentar dentro de los diez días hábiles siguientes a la notificación de procedencia, póliza de fianza expedida por institución legalmente autorizada a favor de la Secretaría de Hacienda del Gobierno del Estado de Chihuahua, por un monto equivalente a cinco mil veces el salario mínimo general vigente en la capital del Estado, para garantizar la adecuada prestación de servicios, así como responder por los daños y perjuicios que con motivo del desempeño de sus actividades ocasionen y, en su caso, para el pago de sanciones económicas por incumplimiento a las disposiciones contenidas en esta Ley y otros ordenamientos legales aplicables.
+De ser procedente la Autorización, el solicitante deberá presentar dentro de los diez días hábiles siguientes a la notificación de procedencia, póliza de fianza expedida por institución legalmente autorizada a favor de la Secretaría de Hacienda del Gobierno del Estado de Chihuahua, por un monto equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, para garantizar la adecuada prestación de servicios, así como responder por los daños y perjuicios que con motivo del desempeño de sus actividades ocasionen y, en su caso, para el pago de sanciones económicas por incumplimiento a las disposiciones contenidas en esta Ley y otros ordenamientos legales aplicables.
 
-En caso de que la autoridad llegare a hacer efectiva la póliza de fianza, ya sea total o parcialmente, la persona física o moral correspondiente deberá actualizar el importe de la misma para mantener el monto de la garantía de cinco mil salarios mínimos a que se refiere este artículo, debiendo presentarla a la Fiscalía en un plazo no mayor a treinta días hábiles contados a partir de la fecha en que se haga efectiva la misma. De no efectuarse la actualización de la garantía, se revocará la Autorización respectiva.
+En caso de que la autoridad llegare a hacer efectiva la póliza de fianza, ya sea total o parcialmente, la persona física o moral correspondiente deberá actualizar el importe de la misma para mantener el monto de la garantía de cinco mil veces el valor diario de la Unidad de Medida y Actualización a que se refiere este artículo, debiendo presentarla a la Fiscalía en un plazo no mayor a treinta días hábiles contados a partir de la fecha en que se haga efectiva la misma. De no efectuarse la actualización de la garantía, se revocará la Autorización respectiva.
 
 ### CAPÍTULO IV. CÉDULA DE IDENTIFICACIÓN DEL PERSONAL OPERATIVO
 
@@ -1119,7 +1123,9 @@ Las sanciones por incumplimiento a las disposiciones contenidas en esta Ley cons
 
 I. Amonestación por escrito;
 
-II. Multa de cien hasta mil veces el salario mínimo general vigente en la capital del Estado;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Multa de cien hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 III. Suspensión de los efectos de la Autorización hasta por seis meses, o
 
@@ -1133,9 +1139,11 @@ I. Omita informar a la Fiscalía, el robo, pérdida o extravío de la Cédula en
 
 II. Asigne al Personal Operativo a las modalidades autorizadas sin contar con la capacitación o certificación correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 97.
 
-Se sancionará al Prestador de Servicios con multa de cien hasta mil veces el salario mínimo general vigente en la capital del Estado, en los siguientes casos:
+Se sancionará al Prestador de Servicios con multa de cien hasta mil veces el valor diario de la Unidad de Medida y Actualización, en los siguientes casos:
 
 I. Se altere la documentación que contenga la Autorización y Registro;
 
@@ -1221,7 +1229,9 @@ El Personal Operativo se hará acreedor a las siguientes sanciones por incumplim
 
 I. Amonestación por escrito;
 
-II. Multa de diez hasta cien veces el salario mínimo general vigente en la capital del Estado, o
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Multa de diez hasta cien veces el valor diario de la Unidad de Medida y Actualización, o
 
 III. Revocación de la Cédula.
 
@@ -1239,9 +1249,11 @@ IV. Utilice el uniforme y equipo autorizado fuera de los lugares y horarios en q
 
 V. Preste sus servicios sin portar visiblemente la Cédula.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 102.
 
-Se sancionará al Personal Operativo con multa de diez hasta cien veces el salario mínimo general vigente en la capital del Estado, cuando:
+Se sancionará al Personal Operativo con multa de diez hasta cien veces el valor diario de la Unidad de Medida y Actualización, cuando:
 
 I. Preste los servicios de seguridad privada fuera de los términos y condiciones establecidos en la Autorización o Modificación de la misma;
 
@@ -1395,7 +1407,7 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciocho días
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 12 DE OCTUBRE DE 2013.
 
@@ -1454,3 +1466,19 @@ Cuando en otros ordenamientos legales se haga mención de la Ley del Sistema Est
 ###### ARTÍCULO DÉCIMO CUARTO.
 
 De conformidad con el artículo segundo transitorio del Decreto No. 1135/2012 I P.O., publicado en el Periódico Oficial del Estado el 28 de agosto del presente año 2013, por el cual se reforman, derogan y adicionan diversas disposiciones de la Constitución Política del Estado, todas ellas relativas al Tribunal de Justicia Electoral y Administrativa del Estado, en tanto entra en vigor el Artículo Primero de dicho Decreto las resoluciones de las Comisiones del Servicio Profesional de Carrera, Honor y Justicia para los Integrantes de las Instituciones de Seguridad Pública podrán ser impugnadas mediante el Juicio de Oposición ante el Supremo Tribunal de Justicia del Estado, en los términos del Código Fiscal del Estado. Una vez instituido el Tribunal de Justicia Electoral y Administrativa del Estado, las resoluciones a que se refiere el párrafo anterior serán impugnadas ante el mismo.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO N°. LXV/RFCLC/0266/2017 I P.E. POR EL QUE “SE REFORMAN LOS ARTÍCULOS 34; 44; 95, FRACCIÓN II; 97, PRIMER PÁRRAFO; 100, FRACCIÓN II, Y 102, PRIMER PÁRRAFO, DE LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
