@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2016-10-01"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -339,7 +339,9 @@ Para los efectos del procedimiento de separación y del régimen disciplinario q
 
 a) Apercibimiento.
 
-b) Multa hasta por el equivalente a quince veces el salario mínimo general vigente en la capital del Estado al momento de su imposición.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+b) Multa hasta por el equivalente a quince veces el valor diario de la Unidad de Medida y Actualización al momento de su imposición.
 
 c) Arresto hasta por treinta y seis horas.
 
@@ -579,7 +581,7 @@ V. Recursos obtenidos por los gastos procesales, cuando exista sentencia firme d
 
 VI. Rendimientos financieros que generen los depósitos bancarios del Fondo Auxiliar.
 
-VIl. Donaciones o aportaciones hechas por terceros a favor del Fondo Auxiliar.
+VII. Donaciones o aportaciones hechas por terceros a favor del Fondo Auxiliar.
 
 VIII. Las demás que establezca la legislación local y federal.
 
@@ -833,7 +835,7 @@ P.O. 18 DE JUNIO DE 2016.
 
 Artículo Primero.- Inicio de Vigencia.
 
-El presente Decreto entrará en vigor a las cero horas del día 13 de junio del año 2016, de conformidad con la Declaratoria contenida en el Decreto No. 852/2015 VIl P.E., publicado en (sic) Periódico Oficial del Estado el día 04 de marzo de 2015, fecha en la que entrará en vigor en el Estado el Código Nacional de Procedimientos Penales.
+El presente Decreto entrará en vigor a las cero horas del día 13 de junio del año 2016, de conformidad con la Declaratoria contenida en el Decreto No. 852/2015 VII P.E., publicado en (sic) Periódico Oficial del Estado el día 04 de marzo de 2015, fecha en la que entrará en vigor en el Estado el Código Nacional de Procedimientos Penales.
 
 Artículo Segundo.- Derogación tácita de preceptos incompatibles.
 
@@ -916,3 +918,19 @@ P.O. 1 DE OCTUBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor en todo el territorio del Estado al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXV/RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMA EL ARTÍCULO 10, SEGUNDO PÁRRAFO, INCISO B) DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
