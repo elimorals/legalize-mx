@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2015-03-04"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "CHH"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 852/2015 VII P.E. QUE EMITE LA DECLARATORIA DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O DE 4 DE MARZO DE 2015, SE DECLARA EL INICIO DE VIGENCIA DEL PRESENTE ORDENAMIENTO, A PARTIR DE LAS CERO HORAS DEL DÍA LUNES 13 DE JUNIO DE 2016.</small>
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -373,7 +369,9 @@ I. Apercibimiento.
 
 II. Intervención de la fuerza pública.
 
-III. Multa de diez a doscientos días de salario.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+III. Multa de diez a doscientos días de Unidad de Medida y Actualización.
 
 IV. Arresto hasta por treinta y seis horas.
 
@@ -1143,7 +1141,9 @@ I. Apercibimiento.
 
 II. Intervención de la fuerza pública.
 
-III. Multa de diez a doscientos días de salario.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+III. Multa de diez a doscientos días de Unidad de Medida y Actualización.
 
 ###### Artículo 108.
 
@@ -1755,7 +1755,9 @@ Cuando las características del caso aconsejen adoptar medidas especiales para a
 
 Régimen disciplinario.
 
-Salvo lo dispuesto en este Código para el abandono de la defensa, cuando se compruebe que las partes o sus asesores han actuado con evidente mala fe, han realizado gestiones o han asumido actitudes dilatorias o litigado con temeridad, faltado el respeto al Juez o a los intervinientes en las audiencias o alterado el orden, la autoridad judicial sancionará la falta, dependiendo de su gravedad, con apercibimiento, multa de uno a cien salarios mínimos o arresto hasta por treinta y seis horas.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Salvo lo dispuesto en este Código para el abandono de la defensa, cuando se compruebe que las partes o sus asesores han actuado con evidente mala fe, han realizado gestiones o han asumido actitudes dilatorias o litigado con temeridad, faltado el respeto al Juez o a los intervinientes en las audiencias o alterado el orden, la autoridad judicial sancionará la falta, dependiendo de su gravedad, con apercibimiento, multa de una a cien Unidades de Medida y Actualización o arresto hasta por treinta y seis horas.
 
 En este último caso, y si así lo solicita, se oirá al interesado en la misma audiencia, a fin de que en ella se resuelva lo conducente. Tratándose de actos fuera de audiencia, la petición de que se escuche al sancionado deberá promoverse dentro de las veinticuatro horas siguientes a la notificación.
 
@@ -3823,7 +3825,9 @@ El Juez que presida el debate de juicio oral ejercerá el poder de disciplina en
 
 I. Apercibimiento;
 
-II. Multa de uno a veinticinco salarios mínimos;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Multa de una a veinticinco Unidades de Medida y Actualización.
 
 III. Expulsión de la sala de audiencia;
 
@@ -5570,3 +5574,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese la presente Declaratoria a ambas Cámaras del Honorable Congreso de la Unión, así como al Poder Ejecutivo Federal, por conducto de la Secretaría de Gobernación, para los efectos a que haya lugar.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
