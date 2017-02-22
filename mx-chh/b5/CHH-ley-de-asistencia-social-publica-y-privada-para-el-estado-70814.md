@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2016-10-03"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -1425,9 +1425,13 @@ A quien por medio del engaño se haga ilícitamente de alguna cosa u obtenga un 
 
 I. Amonestación pública;
 
-II. Multa hasta por el equivalente a ciento veinte días de salario mínimo general vigente, correspondiente al área geográfica de la capital del Estado, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-III. Multa hasta por trescientos sesenta días de salario mínimo general vigente, correspondiente al área geográfica de la capital del Estado, en caso de reincidencia.
+II. Multa hasta por el equivalente a ciento veinte veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+III. Multa hasta por trescientos sesenta veces el valor diario de la Unidad de Medida y Actualización, en caso de reincidencia.
 
 ###### Artículo 93.
 
@@ -1722,3 +1726,19 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
