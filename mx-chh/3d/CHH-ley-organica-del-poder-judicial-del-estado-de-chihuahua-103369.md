@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-103369"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-29"
-last_updated: "2016-11-11"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de octubre de 2014.
 
@@ -165,9 +165,11 @@ Las actuaciones practicadas por los funcionarios del Poder Judicial tendrán val
 
 En este supuesto, se cubrirá al interesado la retribución que le corresponda por el tiempo que haya prestado sus servicios.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 14.
 
-Cuando en esta Ley se haga referencia al salario mínimo, se tomará en cuenta el mínimo general por un día de trabajo que se encuentre vigente en la ciudad de Chihuahua, cuando suceda el hecho que se sanciona, tratándose de multas, o el vigente cuando se inicie el procedimiento, si se trata de fijar competencia.
+Cuando en esta Ley se haga referencia a la Unidad de Medida y Actualización se tomará en cuenta su valor diario vigente cuando suceda el hecho que se sanciona, tratándose de multas, o el vigente cuando se inicie el procedimiento, si se trata de fijar competencia.
 
 ### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS DEL PODER JUDICIAL
 
@@ -1193,7 +1195,9 @@ IV. Ser licenciado en Derecho.
 
 Corresponde a los jueces menores:
 
-I. Conocer de juicios civiles cuya cuantía no supere mil quinientas veces el salario mínimo, al momento de iniciar el procedimiento.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+I. Conocer de juicios civiles cuya cuantía no supere mil quinientas veces el valor diario de la Unidad de Medida y Actualización, al momento de iniciar el procedimiento.
 
 II. Conocer de los negocios civiles que versen sobre el arrendamiento o cualquier otra prestación periódica, cuyo importe anual se encuentre dentro del límite establecido en la fracción anterior.
 
@@ -1229,9 +1233,13 @@ l. Estupro.
 
 m. Abuso sexual, salvo en las hipótesis de los artículos 174 y 175 del Código Penal.
 
-n. Robo, fraude y abuso de confianza, si su monto no excede de mil veces el salario mínimo al momento de la comisión del delito.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-o. Daños dolosos, cuyo monto no exceda de mil veces el salario mínimo y daños imprudenciales, cualquiera que fuere su cuantía.
+n) Robo, fraude y abuso de confianza, si su monto no excede de mil veces el valor diario de la Unidad de Medida y Actualización al momento de la comisión del delito.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+o) Daños dolosos, cuyo monto no exceda de mil veces el valor diario de la Unidad de Medida y Actualización y daños imprudenciales, cualquiera que fuere su cuantía.
 
 p. Encubrimiento por favorecimiento y receptación, si el delito principal es de los reservados a su jurisdicción.
 
@@ -1995,7 +2003,9 @@ XIV. Imponer las sanciones que correspondan a los servidores del Poder Judicial 
 
 XV. Realizar visitas extraordinarias o integrar comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno.
 
-XVI. Apercibir, amonestar e imponer multas hasta por ciento ochenta veces el importe del salario mínimo diario general vigente en la capital del Estado, a aquellas personas que falten al respeto de algún órgano o miembro del Poder Judicial en las promociones que hagan ante la propia Comisión.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+XVI. Apercibir, amonestar e imponer multas hasta por ciento ochenta veces el valor diario de la Unidad de Medida y Actualización vigente, a aquellas personas que falten al respeto de algún órgano o miembro del Poder Judicial en las promociones que hagan ante la propia Comisión.
 
 XVII. Formar anualmente una lista con los nombres de las personas que puedan fungir como peritos, intérpretes o traductores, ante el Poder Judicial, ordenándola por materias, especialidades y división territorial, misma que se publicará a través de los medios electrónicos de que dispone el Tribunal, dentro de los cinco primeros días del año.
 
@@ -2311,9 +2321,11 @@ La declaración de responsabilidad por faltas, producirá el efecto de inhibir a
 
 Siempre que se presente una denuncia o queja en contra de algún funcionario o empleado del Poder Judicial, el órgano encargado de la tramitación y resolución del procedimiento respectivo, formará inmediatamente el expediente correspondiente con expresión del día y hora en que se reciba la queja, a efecto de que concluya por resolución dentro de un término no mayor de tres meses.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 228.
 
-La facultad para iniciar el procedimiento administrativo prescribirá en seis meses si el beneficio obtenido o el daño o perjuicio causado no excediere de doscientas veces el salario mínimo diario vigente en la ciudad de Chihuahua. En los demás casos prescribirá en tres años.
+La facultad para iniciar el procedimiento administrativo prescribirá en seis meses si el beneficio obtenido o el daño o perjuicio causado no excediere de doscientas veces el valor diario de la Unidad de Medida y Actualización vigente. En los demás casos prescribirá en tres años.
 
 El plazo para que opere la prescripción empezará a contar a partir del día siguiente al en que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado, si fueren de carácter continuo. La prescripción se interrumpirá al iniciarse los procedimientos previstos por la Ley.
 
@@ -2463,7 +2475,9 @@ La sanción de inhabilitación se regirá por los parámetros siguientes:
 
 I. De seis meses a un año: al funcionario o empleado que con la comisión de la falta administrativa no cause daño o perjuicio, ni obtenga beneficio o lucro alguno.
 
-II. De uno a diez años: al funcionario o empleado que con la comisión de la falta administrativa, cause daño o perjuicio u obtenga un beneficio o lucro, siempre que el monto de estos no exceda de cinco mil veces el salario mínimo general diario vigente en la ciudad de Chihuahua.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. De uno a diez años: al funcionario o empleado que con la comisión de la falta administrativa, cause daño o perjuicio u obtenga un beneficio o lucro, siempre que el monto de estos no exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 III. De diez a veinte años: al funcionario o empleado que con la comisión de la falta administrativa, ocasione daño o perjuicio u obtenga un beneficio o lucro que exceda de la cantidad establecida en la fracción anterior; así como al funcionario o empleado que cometa una falta administrativa considerada como grave.
 
@@ -2561,9 +2575,11 @@ El procedimiento administrativo sancionador caducará en un plazo de seis meses 
 
 Siempre que se impongan sanciones, se enviará la constancia relativa a la Dirección General de Administración, para que se agregue al expediente del funcionario o empleado y, en su caso, se haga efectiva la sanción impuesta.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 247.
 
-Cuando un procedimiento se inicie sin fundamento y así se declare por la autoridad que conozca de ella (sic) o ninguna prueba se desahogue para justificar los hechos en que se fundamenta, se impondrá al promovente y a su abogado, si está demostrada su intervención, una multa hasta de veinte veces el salario mínimo.
+Cuando un procedimiento se inicie sin fundamento y así se declare por la autoridad que conozca de ella o ninguna prueba se desahogue para justificar los hechos en que se fundamenta, se impondrá al promoverte (sic) y a su abogado, si está demostrada su intervención, una multa hasta de veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO SEXTO. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
 
@@ -2809,9 +2825,11 @@ Si se inhibiere el magistrado de una Sala Unitaria Especializada en Justicia par
 
 Si el magistrado originalmente inhibido se separare de sus funciones definitivamente o por más de sesenta días, volverá el negocio al despacho de origen para que lo continúe el funcionario que lo ha de sustituir.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 279.
 
-Cuando la recusación interpuesta contra funcionarios judiciales se declare improcedente por notoria frivolidad, se impondrá al recusante multa de veinte a cincuenta veces el salario mínimo, al momento en que se imponga la sanción. Los abogados que patrocinen al litigante serán responsables solidarios del pago de la sanción impuesta a su cliente.
+Cuando la recusación interpuesta contra funcionarios judiciales se declare improcedente por notoria frivolidad, se impondrá al recusante multa de veinte a cincuenta veces el valor diario de la Unidad de Medida y Actualización, al momento en que se imponga la sanción. Los abogados que patrocinen al litigante serán responsables solidarios del pago de la sanción impuesta a su cliente.
 
 ###### ARTÍCULO 280.
 
@@ -3044,3 +3062,19 @@ El Ejecutivo del Estado continuará desempeñando las funciones que le fueron at
 QUINTO.- Realícense las gestiones y medidas a que haya lugar para que el presente Decreto se publique de manera urgente en el Periódico Oficial del Estado, en los términos de las disposiciones que resulten aplicables.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFCLC/0266/2017 I P.E. POR EL QUE “SE REFORMAN LOS ARTÍCULOS 14; 104, FRACCIONES I Y V, INCISOS N) Y O); 198, FRACCIÓN XVI; 228, PRIMER PÁRRAFO; 234, FRACCIÓN II; 247 Y 279 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
