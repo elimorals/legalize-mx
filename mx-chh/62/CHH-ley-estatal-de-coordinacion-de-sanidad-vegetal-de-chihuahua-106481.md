@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-coordinacion-de-sanidad-vegetal-de-chihuahua-106
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-07"
-last_updated: "2015-03-07"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE COORDINACIÓN DE SANIDAD VEGETAL DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 7 de marzo de 2015.
 
@@ -767,29 +767,53 @@ Las infracciones a lo dispuesto en esta Ley y demás disposiciones que emanen de
 
 Son infracciones administrativas:
 
-I. Incumplir lo establecido en las disposiciones legales aplicables derivadas de la presente Ley; en cuyo caso se impondrá multa de 50 a 20,000 salarios.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-II. Movilizar vegetales, sus productos o subproductos e insumos sujetos a control fitosanitario sin contar, cuando se requiera, del certificado estatal, de la constancia de origen o cualquier otro documento que acredite la movilización; en cuyo caso se impondrá multa de 2,000 a 20,000 salarios.
+I. Incumplir lo establecido en las disposiciones legales aplicables derivadas de la presente Ley; en cuyo caso se impondrá multa de 50 a 20,000 veces el valor diario de la Unidad de Medida y Actualización.
 
-III. Incumplir con las disposiciones legales aplicables en materia de sanidad vegetal a que se refiere el artículo 24 de esta Ley; en cuyo caso se impondrá multa de 200 a 20,000 salarios.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-IV. No dar el aviso de inicio de funcionamiento a que hace referencia el párrafo primero del artículo 31 de esta Ley; en cuyo caso se impondrá multa de 200 a 2,000 salarios.
+II. Movilizar vegetales, sus productos o subproductos e insumos sujetos a control fitosanitario sin contar, cuando se requiera, del certificado estatal, de la constancia de origen o cualquier otro documento que acredite la movilización; en cuyo caso se impondrá multa de 2,000 a 20,000 veces el valor diario de la Unidad de Medida y Actualización.
 
-V. Incumplir con las medidas fitosanitarias de emergencia previstas en el artículo 37 de esta Ley; en cuyo caso se impondrá multa de 300 a 30,000 salarios.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-VI. No observar lo previsto en el artículo 51; en cuyo caso se impondrá multa de 500 a 10,000 salarios.
+III. Incumplir con las disposiciones legales aplicables en materia de sanidad vegetal a que se refiere el artículo 24 de esta Ley; en cuyo caso se impondrá multa de 200 a 20,000 veces el valor diario de la Unidad de Medida y Actualización.
 
-VII. Incumplir la obligación de guarda custodia prevista en el párrafo segundo del artículo 54 de la Ley; en cuyo caso se impondrá multa de 200 a 20,000 salarios.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-VIII. Producir, importar, exportar o comercializar vegetales sin contar con el certificado y el distintivo de sistemas de reducción de riesgos de contaminación durante la producción primaria, cuando las disposiciones legales aplicables lo determinen; en cuyo caso se impondrá una multa de 2,000 a 20,000 salarios.
+IV. No dar el aviso de inicio de funcionamiento a que hace referencia el párrafo primero del artículo 31 de esta Ley; en cuyo caso se impondrá multa de 200 a 2,000 veces el valor diario de la Unidad de Medida y Actualización.
 
-IX. Producir, exportar o comercializar vegetales sin contar con el certificado de BPA's en los términos de las normas oficiales y demás disposiciones legales aplicables; en cuyo caso se impondrá una multa de 4,000 a 40,000 salarios.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-X. Negarse a apoyar la instrumentación del Dispositivo de Emergencia u otro requerimiento, que haga la Secretaría a los organismos de coadyuvancia aprobados o acreditados, en cuyo caso se impondrá una multa de 500 a 5,000 salarios.
+V. Incumplir con las medidas fitosanitarias de emergencia previstas en el artículo 37 de esta Ley; en cuyo caso se impondrá multa de 300 a 30,000 veces el valor diario de la Unidad de Medida y Actualización.
 
-XI. Ostentar que un producto agrícola o actividad a que se refiere el Título Tercero de esta Ley, cuenta con certificación o distintivo de sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, cuando dicha situación no sea cierta; en cuyo caso se impondrá una multa de 200 a 20,000 salarios.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-Para los efectos del presente artículo, por salario se entiende, el salario mínimo general vigente en la zona al momento de cometerse la infracción.
+VI. No observar lo previsto en el artículo 51; en cuyo caso se impondrá multa de 500 a 10,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+VII. Incumplir la obligación de guarda custodia prevista en el párrafo segundo del artículo 54 de la Ley; en cuyo caso se impondrá multa de 200 a 20,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+VIII. Producir, importar, exportar o comercializar vegetales sin contar con el certificado y el distintivo de sistemas de reducción de riesgos de contaminación durante la producción primaria, cuando las disposiciones legales aplicables lo determinen; en cuyo caso se impondrá una multa de 2,000 a 20,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+IX. Producir, exportar o comercializar vegetales sin contar con el certificado de BPA's en los términos de las normas oficiales y demás disposiciones legales aplicables; en cuyo caso se impondrá una multa de 4,000 a 40,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+X. Negarse a apoyar la instrumentación del Dispositivo de Emergencia u otro requerimiento, que haga la Secretaría a los organismos de coadyuvancia aprobados o acreditados, en cuyo caso se impondrá una multa de 500 a 5,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+XI. Ostentar que un producto agrícola o actividad a que se refiere el Título Tercero de esta Ley, cuenta con certificación o distintivo de sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, cuando dicha situación no sea cierta; en cuyo caso se impondrá una multa de 200 a 20,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Para los efectos del presente artículo, por Unidad de Medida y Actualización se entiende, la vigente al momento de cometerse la infracción.
 
 ###### Artículo 59.
 
@@ -848,3 +872,21 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciocho días del mes de febrero del año dos mil quince.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
