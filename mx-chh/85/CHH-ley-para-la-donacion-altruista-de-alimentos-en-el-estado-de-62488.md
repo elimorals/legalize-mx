@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-donacion-altruista-de-alimentos-en-el-estado-de-624
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-30"
-last_updated: "2012-12-15"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA DONACIÓN ALTRUISTA DE ALIMENTOS EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 30 de julio de 2008.
 
@@ -175,9 +175,11 @@ El Sistema Estatal para el Desarrollo Integral de la Familia, entregará anualme
 
 Los donatarios acreedores de dicho reconocimiento, serán distinguidos como "personas o empresas socialmente responsables".
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 18.
 
-Se aplicará, a petición de parte o de oficio, independientemente de lo dispuesto por otras disposiciones legales, multa de treinta a trescientos días de salario mínimo general vigente en la capital del Estado a:
+Se aplicará, a petición de parte o de oficio, independientemente de lo dispuesto por otras disposiciones legales, multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización a:
 
 I. Los empleados o directivos de los bancos de alimentos que participen en el desvío de alimentos donados y que fueron recibidos por éstos para su distribución, ya sea que utilicen para su aprovechamiento personal o de terceros que no los requieren. La sanción se aumentará hasta en un cien por ciento cuando se comercialice con estos alimentos;
 
@@ -222,3 +224,19 @@ P.O. 15 DE DICIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
