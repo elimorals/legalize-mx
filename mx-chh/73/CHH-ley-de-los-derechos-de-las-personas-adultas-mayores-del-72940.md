@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-las-personas-adultas-mayores-del-72940"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2014-12-24"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 3 de febrero de 2010.
 
@@ -335,7 +337,7 @@ Los recursos destinados a programas y proyectos para las personas adultas mayore
 
 ###### Artículo 25.
 
-Los programas y proyectos deberán contener la información sobre la población objetivo (sic), metas específicas, así como las evaluaciones de impacto, eficiencia y eficacia.
+Los programas y proyectos deberán contener la información sobre la población objetivo, metas específicas, así como las evaluaciones de impacto, eficiencia y eficacia.
 
 ### CAPÍTULO VII. DE LAS MODALIDADES DE ATENCIÓN
 
@@ -499,11 +501,11 @@ Ante la falta de familia e imposibilidad de la persona adulta mayor de obtener r
 
 De existir familia con posibilidades económicas para suministrar parcial o totalmente lo que se requiera para su subsistencia y cuidado, pero se negaren a cumplir con las obligaciones alimentarias, la Subprocuraduría Especializada en Atención a Personas Adultas Mayores procederá a proveer lo necesario para la protección, asistencia y atención integral del adulto mayor; además, en los términos de la legislación civil, deberá promover ante el juez competente las acciones correspondientes, a efecto de obtener el cumplimiento forzoso y el pago de los gastos o erogaciones que se hayan originado con motivo de los servicios proporcionados a la persona de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DE LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 44.
 
-Las personas adultas mayores que se encuentren en situación de vulnerabilidad, tendrán derecho a recibir una beca alimentaria mensual conforme a lo establecido en el Presupuesto de Egresos del Estado, que consistirá al menos en la mitad del salario mínimo general diario vigente en la capital del Estado, elevado al mes, siempre que:
+Las personas adultas mayores que se encuentren en situación de vulnerabilidad, tendrán derecho a recibir una beca alimentaria mensual conforme a lo establecido en el Presupuesto de Egresos del Estado, que consistirá al menos en la mitad del valor diario de una Unidad de Medida y Actualización, elevada al mes, siempre que:
 
 a) No sean sujetas de asistencia social de otros programas institucionales del orden federal, estatal o municipal, con el mismo propósito, y
 
@@ -687,7 +689,9 @@ Cuando las infracciones sean cometidas por particulares, en atención a la grave
 
 I. Amonestación escrita.
 
-II. Multa de diez a ciento cincuenta veces el salario mínimo general diario vigente en la zona geográfica que corresponda, al momento de cometerse la infracción.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Multa de diez a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, al momento de cometerse la infracción.
 
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
 
@@ -754,3 +758,19 @@ P.O. 24 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
