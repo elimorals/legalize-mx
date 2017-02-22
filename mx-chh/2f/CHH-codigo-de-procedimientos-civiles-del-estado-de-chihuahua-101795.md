@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-101795
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-23"
-last_updated: "2017-02-01"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 23 de julio de 2014.
 
@@ -507,9 +507,9 @@ Si no fuera subsanable la de la parte actora, el juzgado de inmediato dará por 
 
 La incompetencia puede promoverse por declinatoria o por inhibitoria. El o la litigante que hubiere optado por uno de estos medios no podrá abandonarlo y recurrir al otro. Tampoco se podrán emplear simultáneamente, debiendo pasarse por el resultado de aquél que se hubiere preferido.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-La persona que promueva la cuestión de competencia protestará en el escrito o en la comparecencia en que lo hiciere, no haber empleado el otro medio diverso al que inicie. Si resultare falsa la protesta, se le impondrá una multa de hasta 100 veces el salario mínimo, aunque se hubiere decidido en su favor la competencia o se desista de ella.
+La persona que promueva la cuestión de competencia protestará en el escrito o en la comparecencia en que lo hiciere, no haber empleado el otro medio diverso al que inicie. Si resultare falsa la protesta, se le impondrá una multa de hasta 100 Unidades de Medida y Actualización, aunque se hubiere decidido en su favor la competencia o se desista de ella.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
@@ -621,11 +621,11 @@ Los tribunales declarados competentes harán que las cosas se restituyan al esta
 
 Lo dispuesto en este artículo admite las excepciones expresamente consignadas en la ley.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 57.
 
-Salvo los casos previstos en el artículo 54 de este código, en todos los demás en que sea declarada improcedente la incompetencia, la parte que la hubiere hecho valer será condenada en costas generadas en el procedimiento que hizo nacer y se le impondrá además una multa de hasta 100 salarios mínimos.
+Salvo los casos previstos en el artículo 54 de este código, en todos los demás en que sea declarada improcedente la incompetencia, la parte que la hubiere hecho valer será condenada en costas generadas en el procedimiento que hizo nacer y se le impondrá además una multa de hasta 100 Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
@@ -691,9 +691,9 @@ Si la excepción se opone antes de la celebración de la audiencia preliminar, s
 
 Si es opuesta después de la celebración de dicha audiencia, se substanciará y decidirá con suspensión del procedimiento, con arreglo a las disposiciones que este código establece para los incidentes.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-Si la excepción es declarada procedente, se condenará en costas, daños y perjuicios a la o el litigante contra quien se diere y se le impondrá además, de oficio, una multa de hasta 100 veces el salario mínimo.
+Si la excepción es declarada procedente, se condenará en costas, daños y perjuicios a la o el litigante contra quien se diere y se le impondrá además, de oficio, una multa de hasta 100 Unidades de Medida y Actualización.
 
 (REPUBLICADO, P.O. 21 DE OCTUBRE DE 2015)
 
@@ -1237,7 +1237,9 @@ Son correcciones disciplinarias:
 
 I. El apercibimiento;
 
-II. La multa de hasta 100 veces el salario mínimo; y,
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. La multa de hasta 100 Unidades de Medida y Actualización; y,
 
 III. Expulsión del recinto judicial o del lugar donde se celebre la audiencia. En casos extremos, la audiencia podrá continuar en privado. Para estos efectos, las autoridades policiacas deberán prestar auxilio a los órganos jurisdiccionales cuando lo soliciten.
 
@@ -1265,7 +1267,9 @@ Para hacer cumplir las determinaciones el tribunal puede emplear cualesquiera de
 
 I. Amonestación;
 
-II. Multa de hasta 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. La multa de hasta 100 Unidades de Medida y Actualización;
 
 III. El uso de la fuerza pública; y,
 
@@ -1923,11 +1927,11 @@ Si el funcionario recusado omitiera remitir oportunamente el testimonio o el inf
 
 El tribunal que conozca de la recusación abrirá el asunto a prueba, de oficio o a petición de parte, por un término de hasta por cinco días, siendo admisibles todos los medios de prueba establecidos en este código, incluso la confesión del funcionario recusado y de la parte contraria a la recusante.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 192.
 
-Si se declara improcedente o no probada una causa de recusación, se impondrá a la recusante una multa de hasta 200 veces el salario mínimo.
+Si se declara improcedente o no probada una causa de recusación, se impondrá a la recusante una multa de hasta 200 Unidades de Medida y Actualización.
 
 (REPUBLICADO, P.O. 21 DE OCTUBRE DE 2015)
 
@@ -2469,11 +2473,11 @@ V. La admisión de pruebas; y,
 
 VI. La citación para audiencia de juicio.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 256.
 
-La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juzgado, se le impondrá una multa de hasta 50 veces el salario mínimo.
+La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el juzgado, se le impondrá una multa de hasta 50 Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
@@ -2683,11 +2687,11 @@ IX. Todos los demás medios que produzcan convicción en la o el juzgador.
 
 Las disposiciones contenidas en el presente capítulo son aplicables en todos los procedimientos que establece este código, salvo que la ley disponga expresamente otra cosa.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 278.
 
-Cuando hubiere de recibirse alguna prueba fuera del Estado, una vez admitida, el juez o jueza prevendrá a la oferente para que en el término de tres días exhiba el certificado de depósito de la cantidad que como indemnización se fije, la que podrá ser de 150 a 300 veces el salario mínimo, la cual se hará efectiva en favor de la contraparte, en caso de que no se desahogue por causas imputables a la oferente. No haciéndose la exhibición dentro del plazo fijado, se tendrá a la interesada por desistida de su solicitud, sin recurso alguno.
+Cuando hubiere de recibirse alguna prueba fuera del Estado, una vez admitida, el juez o jueza prevendrá a la oferente para que en el término de tres días exhiba el certificado de depósito de la cantidad que como indemnización se fije, la que podrá ser de 150 a 300 Unidades de Medida y Actualización, la cual se hará efectiva en favor de la contraparte, en caso de que no se desahogue por causas imputables a la oferente. No haciéndose la exhibición dentro del plazo fijado, se tendrá a la interesada por desistida de su solicitud, sin recurso alguno.
 
 (REPUBLICADA, P.O. 21 DE OCTUBRE DE 2015)
 
@@ -3043,7 +3047,9 @@ Tratándose de perito tercero en discordia, deberá notificársele para que dent
 
 V. La falta de presentación del escrito del perito designado por la oferente de la prueba donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado no presentare el escrito de aceptación y protesta del cargo, se tendrá por conforme con el dictamen que rinda el perito del oferente. En el supuesto que el perito designado por alguna de las partes que haya aceptado y protestado el cargo conferido, no presente su dictamen en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes no rinden su dictamen dentro del término concedido, el juez o jueza declarará desierta la prueba.
 
-En los casos a que se refieren las fracciones anteriores, el juez o jueza sancionará a los peritos omisos con multa hasta de 200 veces el salario mínimo; y
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+En los casos a que se refieren las fracciones anteriores, el juez o jueza sancionará a los peritos omisos con multa hasta de 200 Unidades de Medida y Actualización; y
 
 VI. Las o los peritos quedan obligados a asistir a la audiencia respectiva con el fin de exponer verbalmente las conclusiones de sus dictámenes, a efecto de que se desahogue la prueba con los exhibidos y respondan las preguntas que la o el juez o las partes le formulen. En caso de no asistir los peritos designados por las partes, se tendrá por no rendido su dictamen, y de no presentarse el perito tercero en discordia se le impondrá una sanción pecuniaria equivalente a la cantidad que cotizó por sus servicios, la cual será a favor del Fondo Auxiliar para la Administración de Justicia.
 
@@ -3087,7 +3093,9 @@ II. Tener interés en el juicio; y,
 
 III. Ser socio, socia, inquilino, inquilina, arrendador, arrendadora, amigo o amiga íntima, enemiga o enemigo manifiesto de alguna de las partes.
 
-La parte litigante que haga valer la recusación, al formularla deberá presentar las pruebas necesarias para demostrar la causa que se alegue, y el juez o jueza de plano la calificará. Contra el auto en que se admite o se deseche la recusación no procederá recurso alguno. Si la recusación se admitiera, se nombrará nuevo perito por el juzgado. En caso de que se desestimara la recusación, se impondrá a la parte recusante una multa de hasta 200 veces el salario mínimo.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+La parte litigante que haga valer la recusación, al formularla deberá presentar las pruebas necesarias para demostrar la causa que se alegue, y el juez o jueza de plano la calificará. Contra el auto en que se admite o se deseche la recusación no procederá recurso alguno. Si la recusación se admitiera, se nombrará nuevo perito por el juzgado. En caso de que se desestimara la recusación, se impondrá a la parte recusante una multa de hasta 200 Unidades de Medida y Actualización.
 
 (REPUBLICADO, P.O. 21 DE OCTUBRE DE 2015)
 
@@ -3127,13 +3135,17 @@ Todas las personas que tengan conocimiento de hechos que las partes deban probar
 
 Sólo podrán ofrecerse hasta tres testigos por cada hecho controvertido.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 325.
 
-Las partes tienen la obligación de presentar sus testigos. Sin embargo, cuando estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad indicando los motivos precisos por los cuales no los puede presentar. El juzgado ordenará la citación con el apercibimiento de arresto hasta por 36 horas o multa hasta por la cantidad de 100 veces el salario mínimo.
+Las partes tienen la obligación de presentar sus testigos. Sin embargo, cuando estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad indicando los motivos precisos por los cuales no los puede presentar. El juzgado ordenará la citación con el apercibimiento de arresto hasta por 36 horas o multa hasta por la cantidad de 100 Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
 Cuando la citación deba ser realizada por el juzgado, esta se hará por lo menos con dos días de anticipación al día en que deban declarar. Si el testigo citado de esta forma sin causa justificada no asistiere a rendir su declaración, el juez o jueza hará efectivo el apercibimiento realizado y reprogramará su desahogo, sin suspensión de la audiencia.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
 En caso que el señalamiento del domicilio de algún testigo resulte inexacto, se impondrá a la parte oferente una multa hasta por la cantidad señalada en el primer párrafo de este artículo. El juzgado despachará oficio de ejecución contra la parte infractora, y declarará desierta la prueba testimonial.
 
@@ -3171,7 +3183,9 @@ Cuando hubieren de ser examinadas personas integrantes del cuerpo diplomático m
 
 Cuando la persona que sea testigo resida fuera del lugar del juicio, se librará exhorto o despacho al tribunal de la residencia de aquella para que sea examinada. Para este efecto, la parte que promueva la prueba presentará al ofrecerla su interrogatorio por escrito con una copia para la parte contraria. Éstas, dentro de los tres días siguientes al en que hayan recibido la copia del interrogatorio o se tenga legalmente por recibida, podrán presentar sus pliegos de repreguntas. Calificados por el juez o jueza de los autos ambos interrogatorios, los adjuntará en sobres cerrados al exhorto o despacho previa copia certificada que se deje en el expediente. El juzgado requerido practicará la prueba con sujeción a las disposiciones anteriores y a las contenidas en los artículos siguientes sin necesidad de que el tribunal requirente lo autorice para ello.
 
-Una vez admitida, el juez o jueza prevendrá a la parte oferente para que en el término de tres días exhiba el certificado de depósito por la cantidad de 150 a 300 veces el salario mínimo a efecto de garantizar el desahogo de la misma. En caso que ésta no se desahogue por causas imputables a la oferente, se hará efectivo el certificado a favor del Fondo Auxiliar para la Administración de Justicia.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Una vez admitida, el juez o jueza prevendrá a la parte oferente para que en el término de tres días exhiba el certificado de depósito por la cantidad de 150 a 300 Unidades de Medida y Actualización a efecto de garantizar el desahogo de la misma. En caso que ésta no se desahogue por causas imputables a la oferente, se hará efectivo el certificado a favor del Fondo Auxiliar para la Administración de Justicia.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
@@ -3427,7 +3441,9 @@ Para los efectos de este artículo, dentro del concepto genérico de indicios, q
 
 Hay cosa juzgada cuando la sentencia causa ejecutoria. Causan ejecutoria por disposición de ley:
 
-I. Las sentencias pronunciadas en juicios cuyo interés no exceda de 500 veces el salario mínimo;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+I. Las sentencias pronunciadas en juicios cuyo interés no exceda de 500 Unidades de Medida y Actualización;
 
 II. Las sentencias de segunda instancia;
 
@@ -4111,11 +4127,11 @@ Si por cualquier motivo no hubiere albacea definitivo después de iniciado el ju
 
 La falta de autorización no podrá ser invocada por terceras personas.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 449.
 
-La o el albacea provisional tendrá el dos por ciento del importe de los bienes, si éste no excede de 400 salarios mínimos; si excediere de esa cantidad pero no de 1500, le corresponderá el dos por ciento sobre los primeros cuatrocientos salarios mínimos, y el uno por ciento sobre el excedente de esta cantidad; si el importe de los bienes excediere de 1500 salarios mínimos, tendrá derecho a los porcentajes indicados, y sobre el excedente cobrará el medio por ciento.
+La o el albacea provisional tendrá el dos por ciento del importe de los bienes, si este no excede de 400 Unidades de Medida y Actualización; si excediere de esa cantidad pero no de 1500, le corresponderá el dos por ciento sobre las primeras cuatrocientas Unidades de Medida y Actualización, y el uno por ciento sobre el excedente de esta cantidad; si el importe de los bienes excediere de 1500 Unidades de Medida y Actualización, tendrá derecho a los porcentajes indicados, y sobre el excedente cobrará el medio por ciento.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
@@ -5559,15 +5575,21 @@ El recurso de apelación tiene por objeto que el tribunal de segunda instancia e
 
 La apelación puede admitirse en el efecto devolutivo o en el suspensivo, pudiendo ser el primero de tramitación inmediata o conjunta con la sentencia, según sea el caso.
 
-(REPUBLICADO, P.O. 21 DE OCTUBRE DE 2015)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### ARTÍCULO 626.
 
-Cuando el negocio sea estimable pecuniariamente, las resoluciones judiciales sólo serán apelables si el importe de aquél excede de 500 veces el salario mínimo. Para los efectos de este artículo el importe del negocio se establecerá de acuerdo con lo dispuesto en el artículo 168 de este código.
+Cuando el negocio sea estimable pecuniariamente, las resoluciones judiciales solo serán apelables si el importe de aquel excede de 500 Unidades de Medida y Actualización. Para los efectos de este artículo el importe del negocio se establecerá de acuerdo con lo dispuesto en el artículo 168 de este código.
+
+(REPUBLICADO, P.O. 21 DE OCTUBRE DE 2015)
 
 Las sentencias que fueren recurribles conforme al primer párrafo de este artículo, serán apelables en efecto suspensivo.
 
+(REPUBLICADO, P.O. 21 DE OCTUBRE DE 2015)
+
 Sólo serán apelables los autos e interlocutorias si la sentencia fuere susceptible de apelación o lo disponga la ley.
+
+(REPUBLICADO, P.O. 21 DE OCTUBRE DE 2015)
 
 Los asuntos de cuantía indeterminada siempre serán apelables.
 
@@ -6038,3 +6060,19 @@ P.O. 1 DE FEBRERO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
