@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-a-la-salud-de-los-no-fumadores-para-el-71071"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-07"
-last_updated: "2016-06-29"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 7 de noviembre de 2009.
 
@@ -517,17 +517,29 @@ IV. Las demás circunstancias que sirvan para individualizar la sanción.
 
 Se sancionará con multa:
 
-I. De 10 a 30 veces el salario mínimo diario general vigente en el Estado, a quien contravenga lo dispuesto en el artículo 15 de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-II. De 30 a 100 veces el salario mínimo diario general vigente en el Estado, a quien contravenga lo dispuesto en el artículo 16 de la presente Ley;
+l. De 10 a 30 veces el valor diario de la Unidad de Medida y Actualización vigente, a quien contravenga lo dispuesto en el artículo 15 de la presente Ley;
 
-III. De 100 a 500 veces el salario mínimo diario general vigente en el Estado, a quien contravenga lo dispuesto en el artículo 17 de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-IV. De 30 a 100 veces el salario mínimo diario general vigente en el Estado, a quien contravenga lo dispuesto en las fracciones I, II, XII y XIII del artículo 22 de la presente Ley;
+II. De 30 a 100 veces el valor diario de la Unidad de Medida y Actualización vigente, a quien contravenga lo dispuesto en el artículo 16 de la presente Ley;
 
-V. De 100 a 500 veces el salario mínimo diario general vigente en el Estado, a quien contravenga lo dispuesto en las fracciones VI, VII, IX y XI del artículo 22 de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-VI. De 500 a 1000 veces el salario mínimo diario general vigente en el Estado, a quien contravenga lo dispuesto en las fracciones III, IV, V, VIII y X del artículo 22 de la presente Ley.
+III. De 100 a 500 veces el valor diario de la Unidad de Medida y Actualización vigente, a quien contravenga lo dispuesto en el artículo 17 de la presente Ley;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+IV. De 30 a 100 veces el valor diario de la Unidad de Medida y Actualización vigente, a quien contravenga lo dispuesto en las fracciones I, II, XII y XIII del artículo 22 de la presente Ley;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+V. De 100 a 500 veces el valor diario de la Unidad de Medida y Actualización vigente, a quien contravenga lo dispuesto en las fracciones VI, VII, IX y XI del artículo 22 de la presente Ley;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+VI. De 500 a 1000 veces el valor diario de la Unidad de Medida y Actualización vigente, a quien contravenga lo dispuesto en las fracciones III, IV, V, VIII y X del artículo 22 de la presente Ley.
 
 ###### Artículo 39.
 
@@ -600,3 +612,19 @@ P.O. 29 DE JUNIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO N°. LXV/RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMA EL ARTÍCULO 38, FRACCIONES I, II, III, IV, V Y VI, DE LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
