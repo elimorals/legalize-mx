@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-sostenible-del-estado-de-chihuahua-814
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-14"
-last_updated: "2017-01-28"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de mayo de 2011.
 
@@ -385,13 +385,17 @@ XCV. Vivienda tipo plurifamiliar o multifamiliar.- Viviendas o unidades departam
 
 XCVI. Vivienda de autoconstrucción.- Vivienda en cuyo proceso de edificación el propietario o usuario interviene directamente y con responsabilidad parcial o total de la ejecución de la obra;
 
-XCVII. Vivienda Popular.- Aquella cuyo valor, al término de su edificación, no exceda del importe que resulte de multiplicar por veinticinco el salario mínimo en la zona geográfica del Estado de Chihuahua elevado al año;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-XCVIII. Vivienda de Interés Social.- Aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por quince el salario mínimo general elevado al año;
+XCVII. Vivienda Popular.- Aquella cuyo valor, al término de su edificación, no exceda del importe que resulte de multiplicar por veinticinco el valor diario de la Unidad de Medida y Actualización elevado al año;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-XCIX. Vivienda Económica Horizontal.- Es la vivienda nueva que cumple con la normatividad municipal y con los lineamientos, criterios y parámetros de sustentabilidad establecidos por el Comité Técnico de Evaluación de la Comisión Nacional de Vivienda (CONAVI), y su valor no excede de 128 S.M.G.V.M. (Salario Mínimo General Vigente Mensual para el área geográfica "A").
+XCVIII. Vivienda de Interés Social.- Aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por quince el valor diario de la Unidad de Medida y Actualización elevado al año;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+XCIX. Vivienda Económica Horizontal.- Es la vivienda nueva que cumple con la normatividad municipal y con los lineamientos, criterios y parámetros de sustentabilidad establecidos por el Comité Técnico de Evaluación de la Comisión Nacional de Vivienda (CONAVI), y su valor no excede del valor mensual de 128 Unidades de Medida y Actualización.
 
 C. Zona de Atención Prioritaria (ZAP).- Áreas geográficas urbanas o rurales que requieren atención especial debido a que presentan déficit alto en uno o más índices de desarrollo sostenible;
 
@@ -3663,7 +3667,9 @@ La Secretaría y los Municipios, en el ámbito de sus respectivas competencias, 
 
 Las violaciones a los preceptos de esta Ley, sus Reglamentos y disposiciones que de ellos emanen, constituyen infracciones y, ante las mismas, la Secretaría o los Municipios, en el ámbito de sus respectivas competencias, podrán imponer discrecionalmente, cualesquiera de las siguientes sanciones:
 
-I. Multa de cincuenta a diez mil días de salario mínimo diario general vigente en el Estado en el momento de cometer la infracción;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+I. Multa de cincuenta a diez mil veces el valor diario de la Unidad de Medida y Actualización vigente en el momento de cometer la infracción;
 
 II. Clausura temporal o definitiva, parcial o total;
 
@@ -3709,9 +3715,11 @@ Procederá la amonestación, cuando las infracciones sean leves y no reiteradas,
 
 Se ejecutará mediante escrito, que apercibirá al infractor de que en caso de reincidencia, se le sancionará en forma más severa.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 250.
 
-La multa es una sanción pecuniaria, cuyo monto podrá fijar la autoridad competente, desde veinte hasta veinte mil veces el salario mínimo vigente en la zona, buscando proporcionalidad y equidad. Para su fijación se tomará en cuenta la gravedad de la infracción y las circunstancias de la misma.
+La multa es una sanción pecuniaria, cuyo monto podrá fijar la autoridad competente, desde veinte hasta veinte mil veces el valor diario de la Unidad de Medida y Actualización, buscando proporcionalidad y equidad. Para su fijación se tomará en cuenta la gravedad de la infracción y las circunstancias de la misma.
 
 ###### ARTÍCULO 251.
 
@@ -3942,3 +3950,19 @@ P.O. 28 DE ENERO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
