@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2015-04-29"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1551,15 +1551,15 @@ g).- Gastos de representación y viáticos que reúnan los mismos requisitos que
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
-h).- Prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo y deportivos, festejos y convivios, becs(sic) para los trabajadores y sus familias, que se otorguen con carácter general y sean pagadas totalmente por el patrón;
+h).- Prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo y deportivos, festejos y convivios, becs (sic) para los trabajadores y sus familias, que se otorguen con carácter general y sean pagadas totalmente por el patrón;
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
 i).- Los provenientes de los fondos de ahorro cuando las aportaciones de la empresa sean iguales a las de los trabajadores. En los casos en que el patrón aporte una cantidad superior, el excedente será considerado para integrar la base gravable del impuesto;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-j).- Las despensas que se otorguen a través de vales a los trabajadores, siempre y cuando su importe no rebase el cuarenta por ciento del salario mínimo general vigente en el Distrito Federal, y éstos sean otorgados en forma general.
+j).- Las despensas que se otorguen a través de vales a los trabajadores, siempre y cuando su importe no rebase el cuarenta por ciento de la Unidad de Medida y Actualización vigente, y estos sean otorgados en forma general.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
@@ -2853,9 +2853,13 @@ c). Por la de remate, enajenación fuera de remate o adjudicación al fisco esta
 
 Cuando las diligencias a que se refieren los incisos a) y b) de este artículo se hagan en forma simultánea, se cobrarán únicamente los gastos a que se refiere el inciso b).
 
-Cuando en los casos señalados en los incisos anteriores, el 2% del crédito sea inferior a tres días de salario mínimo vigente en la Entidad, se cobrará esta cantidad en vez del 2% del crédito, y en ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder del equivalente a 100 días de salario mínimo vigente en la Entidad.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-II.- Por la diligencia de notificación de un crédito fiscal se causará el importe de dos días de salario mínimo vigente en la Entidad, por concepto de gastos de ejecución.
+Cuando en los casos señalados en los incisos anteriores, el 2% del crédito sea inferior a tres días de la Unidad de Medida y Actualización vigente, se cobrará esta cantidad en vez del 2% del crédito, y en ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder del equivalente a 100 días de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II.- Por la diligencia de notificación de un crédito fiscal se causará el importe de dos días de la Unidad de Medida y Actualización vigente, por concepto de gastos de ejecución.
 
 III.- Los gastos extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven del embargo señalado en el artículo 63, fracción IV, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda; los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios; los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles que sean adjudicados a favor del Estado, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen a los bienes que sean objeto de remate, entre otros.
 
@@ -3285,15 +3289,23 @@ II.- Por el aumento, por cualquier causa, del capital social de sociedades civil
 
 III.- Por los actos tendientes a garantizar obligaciones, tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.375 por cada cien pesos o fracción.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante Notario o ante autoridad judicial, pagará el equivalente al 85% sobre el salario mínimo diario correspondiente a la zona económica de la Capital del Estado.
+IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante Notario o ante autoridad judicial, pagará el equivalente al 85% sobre la Unidad de Medida y Actualización diaria.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
 En el caso de escritura pública, el entero del impuesto se comprobará con el original del certificado de pago que se agregará al apéndice del protocolo correspondiente.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
 Tratándose de escritos privados ratificados, el certificado de pago se anexará a la copia auténtica que se agregue al apéndice del libro de registro de actos fuera de protocolo, y en el documento que se entregue al interesado se hará constar el número del certificado.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
 En ambos casos, si el pago se realizó por conducto del Notario a través de la red electrónica mundial, bastará que el fedatario público asiente el número de operación que le correspondió.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
 Si el mandato fuese judicial, deberá agregarse el certificado de ingresos a las actuaciones conducentes.
 
@@ -3305,9 +3317,9 @@ V.- En los contratos de aparcería, el propietario pagará el 1% del precio de l
 
 VI.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $0.75 por cada un mil pesos o fracción sobre el valor de la operación.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-VII.- Cuando por la naturaleza del acto Jurídico no pueda determinarse el valor de la operación, se pagará el equivalente al 125% sobre el salario mínimo diario que rija en la Capital del Estado. En este caso para el pago del impuesto la autoridad fiscal podrá expedir certificados preimpresos, que se agregarán al apéndice del protocolo correspondiente, o a la copia auténtica que se agregue al apéndice del Libro de Registro de Actos fuera de Protocolo, si el acto se otorgó ente (sic) fedatario público. En el documento que se entregue al interesado, se pondrá razón del pago en la que conste el número del certificado.
+VII.- Cuando por la naturaleza del acto Jurídico no pueda determinarse el valor de la operación, se pagará el equivalente al 125% sobre la Unidad de Medida y Actualización diaria. En este caso para el pago del impuesto la autoridad fiscal podría expedir certificados preimpresos, que se agregarán al apéndice del protocolo correspondiente, o a la copia auténtica que se agregue al apéndice del Libro de Registro de Actos Fuera de Protocolo, si el acto se otorgó ante fedatario público. En el documento que se entregue al interesado se pondrá razón del pago en la que conste el número del certificado.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
@@ -4858,3 +4870,19 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, esta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. El contenido de los Artículos Segundo, Tercero y Cuarto del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+[DECRETO N°. LXV/RFCLC/0266/2017 I P.E. POR EL QUE “SE REFORMAN LOS ARTÍCULOS 171, INCISO J), PRIMER PÁRRAFO; 305, FRACCIONES IV, PRIMER PÁRRAFO, Y VII; Y 334, PÁRRAFO PRIMERO, FRACCIÓN I, TERCER PÁRRAFO, Y FRACCIÓN II; TODOS DEL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
