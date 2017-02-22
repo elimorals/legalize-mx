@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2016-10-03"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -327,7 +327,7 @@ En las edificaciones y proyectos futuros, se deberán incluir mecanismos, equipo
 
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-Atendiendo y aplicando, en los casos de edificaciones no residenciales, lo estipulado por la Norma Oficial Mexicana NOM-008-ENER-2001 de “Eficiencia Energética en Edificaciones Envolvente de Edificios no Residenciales”, sin perjuicio de otras aplicables para los proyectos de esta naturaleza.
+Atendiendo y aplicando, en los casos de edificaciones no residenciales, lo estipulado por la Norma Oficial Mexicana NOM-008-ENER-2001 de "Eficiencia Energética en Edificaciones Envolvente de Edificios no Residenciales", sin perjuicio de otras aplicables para los proyectos de esta naturaleza.
 
 ###### ARTICULO 20.
 
@@ -383,11 +383,11 @@ IV. Capital contable autorizado; y,
 
 V. Domicilio legal en el Estado de Chihuahua.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 26.
 
-Sólo se podrán celebrar contratos de obra pública y servicios relacionados con la misma, con los contratistas inscritos en el Padrón, cuyo registro esté vigente, exceptuando la adjudicación directa de los casos previstos en los municipios del grupo IV, señalados en el artículo 79, siempre y cuando el monto del contrato respectivo no exceda de 6 veces el salario mínimo general diario vigente en la zona que corresponda, elevado al año y en los casos del artículo 80 fracciones I, II, V, VIII y IX de esta Ley.
+Solo se podrán celebrar contratos de obra pública y servicios relacionados con la misma, con los contratistas inscritos en el padrón, cuyo registro esté vigente, exceptuando la adjudicación directa de los casos previstos en los municipios del grupo IV, señalados en el artículo 79, siempre y cuando el monto del contrato respectivo no exceda de 6 veces el valor de la Unidad de Medida y Actualización diaria vigente, elevada al año y en los casos del artículo 80, fracciones I, II, V, VIII y IX de esta Ley.
 
 ###### ARTICULO 27.
 
@@ -1035,27 +1035,33 @@ Los municipios garantizarán que el contrato se adjudique preferentemente con pe
 
 Para garantizar la buena calidad de la obra y la correcta aplicación del anticipo, el contratista estará obligado, mediante una carta compromiso; en el primer caso, por un 10% del monto total contratado; y en el segundo, por el 100% del anticipo otorgado.
 
-GRUPO MUNICIPIOS ADJUDICACION INVITACION
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+GRUPO MUNICIPIOS ADJUDICACIÓN INVITACIÓN
 
 DIRECTA A TRES
 
 CONTRATISTAS
 
-I Juárez y Chihuahua De un SMGV De más de 55
+I Juárez y Chihuahua De una Unidad De más de 55 Unidades
 
-hasta 55 SMGV hasta
+de Medida y de Medida y
 
-veces x 365 110 x 365
+Actualización Actualización
 
-II Delicias, Cuauhtemoc, De un SMGV De más de 40
+hasta 55 hasta
 
-Hidalgo del Parral, hasta 40 veces SMGV hasta
+veces x365 110x365
 
-Guadalupe y Calvo, x 365 60 x 365
+II Delicias, Cuauhtemoc, De una Unidad De más de 40 Unidades
 
-Nuevo Casas Grandes,
+Hidalgo del Parral, de Medida y de Medida y Actualización
 
-Camargo, Guachochi,
+Guadalupe y Calvo, Actualización hasta 60x365
+
+Nuevo Casas Grandes, hasta 40 veces
+
+Camargo, Guachochi, x365
 
 Guerrero, Madera,
 
@@ -1063,25 +1069,25 @@ Bocoyna, Jiménez,
 
 Meoqui y Saucillo
 
-III Ahumada, Aldama, De un SMGV De más de 35
+III Ahumada, Aldama, De una Unidad De más de 35 Unidades
 
-Ascensión. Balleza, hasta 35 veces SMGV hasta
+Ascensión. Balleza, de Medida y de Medida y Actualización
 
-Batopilas, Buenaventura, x 365 50 x 365
+Batopilas, Buenaventura, Actualización hasta 50x365
 
-Santa Bárbara, Ojinaga,
+Santa Bárbara, Ojinaga, hasta 35 veces
 
-Namiquipa y Urique
+Namiquipa y Urique x365
 
-IV Coronado, De un SMGV De más de 30
+IV Coronado, De una Unidad De más de 30 Unidades
 
-Guadalupe, Morelos, hasta 30 veces SMGV hasta
+Guadalupe, Morelos, de Medida y de Medida y Actualización
 
-Carichi, Rosales, x 365 45 x 365
+Carichi, Rosales, Actualización hasta 45x365
 
-Uruachi, San Francisco
+Uruachi, San Francisco hasta 30 veces
 
-del Oro, Guazapares,
+del Oro, Guazapares, x365
 
 Ocampo, Riva Palacio,
 
@@ -1129,7 +1135,7 @@ Los montos que resulten de la formula anterior, se considerarán sin incluir el 
 
 Por lo que corresponde al Gobierno del Estado, sus Organismos Públicos Descentralizados, las Empresas de Participación Estatal mayoritarias y a los Fideicomisos en los que el Gobierno del Estado tengan el carácter de Fideicomitentes, los montos de excepción para la licitación Pública que se aplicarán serán los que se establezcan en su presupuesto de egresos en los cuales no incluye el Impuesto al Valor Agregado.
 
-El salario mínimo general vigente (SMGV) será el que corresponda a la zona económica de ubicación de los diferentes municipios, así como de la sede de los Poderes del Gobierno del Estado, de conformidad con la resolución de la Comisión Nacional de Salarios Mínimos.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 La opción que ejerzan deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para la Entidad, Dependencia u Organismo respectivo. En el dictamen que al efecto se emita, deberán acreditar, de entre los criterios mencionados, aquellos en que se funde el ejercicio de la opción, considerando el monto del contrato y la naturaleza de la obra o servicio.
 
@@ -1269,7 +1275,9 @@ Las infracciones a las disposiciones contenidas en esta ley serán sancionadas c
 
 La Función Pública llevará para su información un padrón, en el que se incluyan las personas físicas y morales que hayan sido sancionadas por infracciones a esta Ley.
 
-La multa será equivalente a la cantidad de diez a mil veces el salario mínimo general vigente en la capital del Estado en la fecha de la infracción. Constituye crédito fiscal a favor del Estado o del Municipio, según corresponda, y se hará efectiva mediante el procedimiento administrativo de ejecución, en los términos de las disposiciones aplicables del Código Fiscal del Estado y del Código Municipal.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+La multa será equivalente a la cantidad de diez a mil veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la infracción. Constituye crédito fiscal a favor del Estado o del Municipio, según corresponda, y se hará efectiva mediante el procedimiento administrativo de ejecución, en los términos de las disposiciones aplicables del Código Fiscal del Estado y del Código Municipal.
 
 ###### ARTICULO 91.
 
@@ -1636,3 +1644,19 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO N°. LXV /RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMAN LOS ARTÍCULOS 26; 79, TERCER PÁRRAFO; 90, TERCER PÁRRAFO; Y SE DEROGA EL SEXTO PÁRRAFO DEL ARTÍCULO 79, DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
