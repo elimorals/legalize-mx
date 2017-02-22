@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vida-silvestre-para-el-estado-de-chihuahua-101600"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-21"
-last_updated: "2014-09-27"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE VIDA SILVESTRE PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 27 DE SEPTIEMBRE DE 2014.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 21 de junio de 2014.
 
@@ -1883,9 +1881,11 @@ III. No se señale domicilio en el lugar en el que se encuentra la autoridad enc
 
 La Secretaría podrá solicitar a instituciones de educación superior, centros de investigación y de expertos reconocidos en la materia, la elaboración de dictámenes que serán considerados en la emisión de las resoluciones que pongan fin a los procedimientos administrativos legales conducentes, así como en otros actos que realice la propia Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 208.
 
-La imposición de las multas se determinará conforme a los criterios equivalentes al salario mínimo general diario vigente al momento de cometerse la infracción.
+La imposición de las multas se determinará conforme a los criterios equivalentes al valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse la infracción.
 
 En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
 
@@ -2012,3 +2012,21 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días de
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica.
 
 EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
