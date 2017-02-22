@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-rural-integral-sustentable-para-el-estado-877
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-17"
-last_updated: "2016-10-03"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 17 de marzo de 2012.
 
@@ -1265,11 +1265,9 @@ La Secretaría elaborará el Padrón Único de Productores Agropecuarios y demá
 
 Tratándose de prestadores de servicios del sector agropecuario, deberán registrar la maquinaria, equipos y demás implementos utilizados en el desarrollo de sus actividades. Cuando los prestadores se dediquen a la perforación de pozos, ya sea para consumo humano o agropecuario, deberán acreditar fehacientemente ante la Secretaría de que cuentan con los permisos necesarios para realizar tal actividad por cada pozo que pretendan perforar.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
-
-El registro generará un cobro por parte del Ejecutivo del Estado. En caso de incumplimiento de lo señalado en la segunda parte del párrafo anterior, el responsable será sancionado con multa de 2000 a 4000 salarios mínimos, con independencia de las demás sanciones administrativas, civiles y penales que correspondan; para la imposición de sanciones, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados o que se pudieron causar, al igual que los antecedentes, las circunstancias especiales y la situación económica del infractor.
+El registro generará un cobro por parte del Ejecutivo del Estado. En caso de incumplimiento de lo señalado en la segunda parte del párrafo anterior, el responsable será sancionado con multa de 2000 a 4000 veces el valor diario de la Unidad de Medida y Actualización, con independencia de las demás sanciones administrativas, civiles y penales que correspondan; para la imposición de sanciones, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados o que se pudieron causar, al igual que los antecedentes, las circunstancias especiales y la situación económica del infractor.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
 
@@ -1730,3 +1728,19 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
