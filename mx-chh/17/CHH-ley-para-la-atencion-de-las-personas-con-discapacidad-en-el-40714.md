@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-atencion-de-las-personas-con-discapacidad-en-el-407
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-24"
-last_updated: "2016-10-03"
+last_updated: "2017-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # LEY PARA LA ATENCION DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO CHIHUAHUA
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.]</small>
-
 LEY PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de julio de 2004.
 
@@ -733,17 +731,25 @@ Las violaciones a lo establecido por la presente Ley, su reglamento y demás dis
 
 Para los efectos de la presente ley, la Secretaría o los Ayuntamientos según el caso, aplicará a petición de parte o de oficio, independientemente de lo dispuesto por otras disposiciones legales, las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-I.- Multa equivalente de 20 a 50 veces el salario mínimo diario vigente en la zona económica en que se cometa la infracción, a quienes ocupen indebidamente los espacios de estacionamiento preferencial o bien, obstruyan las rampas o accesos para personas con discapacidad, u obstaculicen el libre desplazamiento, de acuerdo al artículo 55 de esta Ley;
+I. Multa equivalente al valor diario de 20 a 50 Unidades de Medida y Actualización, a quienes ocupen indebidamente los espacios de estacionamiento preferencial o bien, obstruyan las rampas o accesos para personas con discapacidad, u obstaculicen el libre desplazamiento de acuerdo al artículo 55 de esta ley.
 
-II.- Multa equivalente de 30 a 50 veces el salario mínimo vigente en la zona económica en que se cometa la infracción, a los prestadores en cualquier modalidad del servicio público o privado que nieguen, impidan u obstaculicen el uso del servicio a personas con discapacidad y a su perro guía, si es el caso; o que no cumplan con las adaptaciones requeridas por la presente ley;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-III.- Multa equivalente de 30 a 180 veces el salario mínimo vigente en la zona económica en que se cometa la infracción, a los empresarios, administradores y/u organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados así como las facilidades de acceso, para personas con discapacidad;
+II. Multa equivalente al valor diario de 30 a 50 Unidades de Medida y Actualización, a los prestadores en cualquier modalidad del servicio público o privado que nieguen, impidan u obstaculicen el uso del servicio a personas con discapacidad y a su perro guía, si es el caso; o que no cumplan con las adaptaciones requeridas por la presente ley.
 
-IV.- Si el presunto infractor fuese jornalero, obrero o trabajador no asalariado la multa será equivalente a un día de su jornal, salario o ingreso diario; tratándose de personas desempleadas sin ingresos, la multa máxima será equivalente a un día de salario mínimo.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-Las multas que imponga la Secretaría, constituyen un crédito fiscal a favor del Estado, y se harán efectivas por conducto de la Secretaría de Finanzas y Administración, a través del procedimiento administrativo de ejecución.
+III. Multa equivalente al valor diario de 30 a 180 Unidades de Medida y Actualización, a los empresarios, administradores y/u organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso, para personas con discapacidad.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+IV. Si el presunto infractor fuese jornalero, obrero o trabajador no asalariado la multa será equivalente a un día de su jornal, salario o ingreso diario; tratándose de personas desempleadas sin ingresos, la multa máxima será equivalente al valor diario de una Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Las multas que imponga la Secretaría, constituyen un crédito fiscal a favor del Estado, y se harán efectivas por conducto de la Secretaría de Hacienda, a través del procedimiento administrativo de ejecución.
 
 Si la sanción fuese impuesta por la Autoridad Municipal, el crédito fiscal se constituye a favor del Municipio que corresponda.
 
@@ -932,3 +938,19 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/FRCLC/0266/2017 I P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
