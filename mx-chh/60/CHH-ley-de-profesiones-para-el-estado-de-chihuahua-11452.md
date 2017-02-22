@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-profesiones-para-el-estado-de-chihuahua-11452"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2016-10-01"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -227,7 +227,7 @@ IV.- Título profesional en sus diferentes tipos, niveles o denominaciones;
 
 V.- Certificación expedida por la institución que le otorgó el título, en la que se haga constar que el interesado prestó el servicio social en los términos previstos por esta ley;
 
-Vl.- Información necesaria en caso de desaparición de la institución educativa donde se hayan realizado los estudios y certificación de esa circunstancia expedida por la autoridad correspondiente;
+VI.- Información necesaria en caso de desaparición de la institución educativa donde se hayan realizado los estudios y certificación de esa circunstancia expedida por la autoridad correspondiente;
 
 VII.- Información necesaria en caso de desaparición, mutilación o destrucción de los documentos o archivos escolares y constancia relativa expedida por autoridad competente;
 
@@ -521,9 +521,9 @@ IV.- Redactar contratos y documentos sujetos al derecho del país extranjero en 
 
 V.- Comparecer en juicio ante los tribunales estatales, en calidad de perito en derecho del país extranjero en que fueron admitidos o autorizados como abogados;
 
-Vl.- Actuar como árbitros en arbitrajes nacionales o internacionales y como procuradores de las partes en arbitrajes internacionales;
+VI.- Actuar como árbitros en arbitrajes nacionales o internacionales y como procuradores de las partes en arbitrajes internacionales;
 
-Vll.- Establecerse en territorio del Estado, ya sea individual o asociado con otros consultores jurídicos extranjeros, para el exclusivo objeto de prestar servicios como consultores.
+VII.- Establecerse en territorio del Estado, ya sea individual o asociado con otros consultores jurídicos extranjeros, para el exclusivo objeto de prestar servicios como consultores.
 
 Cuando el despacho establecido en México esté formado exclusivamente por consultores jurídicos extranjeros, tendrán derecho a utilizar la denominación del despacho extranjero al cual se encuentren asociados;
 
@@ -1065,15 +1065,25 @@ Es competencia exclusiva de la Oficina Estatal de Profesiones conocer, dictamina
 
 I. Cuando una persona desarrolle alguna actividad profesional cuyo ejercicio requiera título o diploma de especialidad y, en su caso, del documento que acredite la certificación vigente, o teniéndolos pero sin haberlos registrado y sin haber obtenido la correspondiente autorización.
 
-En tal supuesto, se aplicará, la primera vez, una multa de hasta cincuenta veces el importe del salario mínimo.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-En caso de reincidencia se impondrá multa de hasta ciento cincuenta veces el importe del salario mínimo diario. En caso de persistir, la Oficina Estatal de Profesiones hará la denuncia correspondiente ante el Ministerio Publico, negándole, así mismo, el registro y la autorización para el ejercicio profesional hasta por cinco años.
+En tal supuesto, se aplicará, la primera vez, una multa de hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
-Las personas que se ostenten como pasantes de alguna carrera técnica, profesional, especialidad, maestría o doctorado sin serlo, serán sancionados mediante el pago de una multa equivalente a sesenta días de salario mínimo.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
-A quien ostente título en sus diferentes tipos, niveles o denominaciones y ejerza actos propios de una profesión, especialidad o postgrado sin tener ese carácter, se le impondrá multa de hasta doscientos días de salario mínimo.
+En caso de reincidencia se impondrá multa de hasta ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización. En caso de persistir, la Oficina Estatal de Profesiones hará la denuncia correspondiente ante el Ministerio Publico, negándole, así mismo, el registro y la autorización para el ejercicio profesional hasta por cinco años.
 
-La persona que se ostente como pasante, práctico o ejerza funciones que corresponden a una rama profesional de las que se mencionan en la presente ley, sin contar con la autorización de la Oficina Estatal de Profesiones, se le impondrá una multa de treinta a trescientos salarios mínimos.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+Las personas que se ostenten como pasantes de alguna carrera técnica, profesional, especialidad, maestría o doctorado sin serlo, serán sancionados mediante el pago de una multa equivalente a sesenta veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+A quien ostente título en sus diferentes tipos, niveles o denominaciones y ejerza actos propios de una profesión, especialidad o postgrado sin tener ese carácter, se le impondrá multa de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+La persona que se ostente como pasante, práctico o ejerza funciones que corresponden a una rama profesional de las que se mencionan en la presente ley, sin contar con la autorización de la Oficina Estatal de Profesiones, se le impondrá una multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 II.- Cuando se trate de infracciones a esta ley y otras leyes, no reguladas como faltas de los profesionistas;
 
@@ -1087,7 +1097,9 @@ La Oficina Estatal de Profesiones podrá imponer las siguientes sanciones:
 
 I.- La amonestación, que consiste en avisar por escrito a una persona o profesionista que ha hecho algo reprensible, para que se enmiende;
 
-II.- La multa, que consistirá en el pago de una cantidad en dinero ante la Recaudación de Rentas del domicilio del infractor, la cual no podrá ser menor del importe de veinte días de salario mínimo ni mayor de quinientos;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II.- La multa, que consistirá en el pago de una cantidad en dinero ante la Recaudación de Rentas del domicilio del infractor, la cual no podrá ser menor del importe de veinte veces el valor diario de la Unidad de Medida y Actualización ni mayor de quinientos;
 
 III.- La suspensión temporal del ejercicio profesional, que consiste en la inhabilitación del ejercicio profesional por un tiempo determinado, y que se dará exclusivamente por resolución judicial que se aplicará en casos y faltas graves;
 
@@ -1095,9 +1107,13 @@ IV - La cancelación definitiva de la cédula profesional, que consiste en la in
 
 V.- La cancelación del registro de colegios de profesionistas y sus secciones, se decretará cuando el número de miembros sea inferior al mínimo previsto por esta ley y cuando la organización incurra en repetidas violaciones a la misma, siempre y cuando se acrediten fehacientemente; o bien, cuando durante un periodo de seis meses no se celebren sesiones ordinarias, probando con esto la inactividad del colegio. Para los efectos de la primera parte de este precepto, cuando el número de miembros de un colegio bajare del mínimo que señala la ley, la Oficina Estatal de Profesiones le concederá un término no mayor de tres meses para que lo complete. Transcurrido el plazo sin haberlo logrado, se cancelará el registro;
 
-VI.- Multa hasta del importe de quinientas veces el salario mínimo a quien infrinja lo preceptuado por el artículo 110; además, no se les autorizará por ningún concepto, en el término de 10 años, el funcionamiento de dicha agrupación profesional, cuyo nombre fue usado al margen de la ley; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-VII.- Las demás infracciones a la presente ley que no tengan señalada una pena especial, serán sancionadas con multa de treinta a quinientos salarios mínimos.
+VI.- Multa hasta del importe de quinientas veces el valor diario de la Unidad de Medida y Actualización a quien infrinja lo preceptuado por el artículo 110; además, no se les autorizará por ningún concepto, en el término de 10 años, el funcionamiento de dicha agrupación profesional, cuyo nombre fue usado al margen de la ley; y
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+VII.- Las demás infracciones a la presente ley que no tengan señalada una pena especial, serán sancionadas con multa de treinta a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 107.
 
@@ -1109,7 +1125,7 @@ PREVENCIONES GENERALES.
 
 ###### ARTICULO 108.
 
-Para los efectos de la presente ley, cuando se haga mención al salario mínimo, se entenderá referido al salario mínimo diario vigente en la capital del Estado, al darse el supuesto previsto por la misma ley.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2017)
 
 ###### ARTICULO 109.
 
@@ -1173,7 +1189,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. FRANCISCO HUGO GUTIERREZ DAVILA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 10 DE ABRIL DE 2010.
 
@@ -1194,3 +1210,19 @@ Para el ejercicio de actividades profesionales en el campo de la medicina, y dem
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Salud del Estado, participará en el cumplimiento de estas disposiciones y de los demás lineamientos que al efecto emita la Secretaría de Salud Federal, a fin de homologar la calidad técnica e interpersonal de los servicios de salud.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
