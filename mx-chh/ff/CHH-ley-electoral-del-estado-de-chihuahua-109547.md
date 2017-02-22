@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-109547"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-22"
-last_updated: "2016-01-27"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2015.
 
@@ -455,7 +455,9 @@ Artículo 28
 
 1) Los partidos políticos tendrán derecho al financiamiento público anual destinado para el sostenimiento y desarrollo de sus actividades ordinarias permanentes, con cargo al erario estatal, conforme a las disposiciones siguientes:
 
-a. La cantidad base para asignar el financiamiento público, será la que resulte de multiplicar el 65% del salario mínimo diario vigente en la capital del Estado, por el número total de ciudadanos inscritos en el padrón electoral de la Entidad, con corte al primero de octubre del año anterior al de la elección;
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+a. La cantidad base para asignar el financiamiento público, será la que resulte de multiplicar el 65% del valor diario de la Unidad de Medida y Actualización vigente, por el número total de ciudadanos inscritos en el padrón electoral de la Entidad, con corte al primero de octubre del año anterior al de la elección;
 
 b. La distribución del financiamiento público anual se sujetará a las siguientes bases:
 
@@ -467,7 +469,9 @@ II. El setenta por ciento restante, se distribuirá en proporción directa segú
 
 3) El monto total del financiamiento público anual que le corresponda a cada partido por actividades ordinarias permanentes, les será entregado a partir del mes de enero en doce ministraciones mensuales, durante los primeros 10 días de cada mes, por conducto de la persona que para tal efecto hayan acreditado por escrito los presidentes o equivalentes de los órganos directivos estatales de los partidos políticos.
 
-4) El financiamiento público por actividades específicas que comprenden las previstas en el numeral 8, equivaldrá al 3% del monto total del financiamiento público que corresponda anualmente a cada partido político por actividades ordinarias.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+4) El financiamiento público por actividades específicas que comprenden las previstas en el numeral 7, equivaldrá al 3% del monto total del financiamiento público que corresponda anualmente a cada partido político por actividades ordinarias.
 
 5) Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el 3% del financiamiento público ordinario.
 
@@ -479,17 +483,25 @@ b) En el año de la elección en que se renueven solamente diputados y los miemb
 
 c) El monto para gastos de campaña se otorgará a los partidos políticos en forma adicional al resto de las prerrogativas.
 
-2) En años de elección, el financiamiento público anual que por actividades ordinarias permanentes les corresponda, les será entregado el 50% en una sola exhibición durante los primeros diez días del mes de enero y el otro 50% restante a partir de este mismo mes en doce ministraciones, dentro de los primeros diez días de cada mes.
+(REFORMADO [N. DE E. ANTES NUMERAL 2)], P.O. 22 DE FEBRERO DE 2017)
 
-3) Los importes que por financiamiento público para gastos de campaña en el año de la elección, pudieran corresponder a los partidos políticos, les serán entregados dentro de los tres días siguientes a la fecha en que sus candidatos a Gobernador hayan quedado registrados. En los años de elecciones intermedias, el financiamiento se entregará dentro de los tres días siguientes a la fecha en que sus candidatos a miembros del ayuntamiento y diputados por el principio de mayoría relativa, hayan quedado registrados.
+d) En años de elección, el financiamiento público anual que por actividades ordinarias permanentes les corresponda, les será entregado el 50% en una sola exhibición durante los primeros diez días del mes de enero y el otro 50% restante a partir de este mismo mes en doce ministraciones, dentro de los primeros diez días de cada mes.
 
-4) Para actividades específicas como entidades de interés público:
+(REFORMADO [N. DE E. ANTES NUMERAL 3)], P.O. 22 DE FEBRERO DE 2017)
 
-a) La educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, habrán de tener perspectiva de género y serán apoyadas mediante financiamiento público por un monto total anual equivalente al tres por ciento del que corresponda en el mismo año para las actividades ordinarias a que se refiere el numeral 1 de este artículo; el monto total será distribuido en los términos establecidos en el numeral antes citado;
+e) Los importes que por financiamiento público para gastos de campaña en el año de la elección, pudieran corresponder a los partidos políticos, les serán entregados dentro de los tres días siguientes a la fecha en que sus candidatos a Gobernador hayan quedado registrados. En los años de elecciones intermedias, el financiamiento se entregará dentro de los tres días siguientes a la fecha en que sus candidatos a miembros del ayuntamiento y diputados por el principio de mayoría relativa, hayan quedado registrados.
 
-b) Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
+(REFORMADO [N. DE E. ANTES NUMERAL 4), P.O. 22 DE FEBRERO DE 2017)
 
-5) La fiscalización de recursos previstos en este artículo, estará a cargo de (sic) Instituto Nacional Electoral y sus órganos especializados, de conformidad con la Ley General de Instituciones y Procedimientos Electorales, Ley General de partidos Políticos y demás deposiciones (sic) aplicables.
+7) Para actividades específicas como entidades de interés público:
+
+a. La educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, habrán de tener perspectiva de género y serán apoyadas mediante financiamiento público por un monto total anual equivalente al tres por ciento del que corresponda en el mismo año para las actividades ordinarias a que se refiere el numeral 1 de este artículo; el monto total será distribuido en los términos establecidos en el numeral antes citado;
+
+b. Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
+
+(REFORMADO [N. DE E. ANTES NUMERAL 5), P.O. 22 DE FEBRERO DE 2017)
+
+8) La fiscalización de recursos previstos en este artículo, estará a cargo de (sic) Instituto Nacional Electoral y sus órganos especializados, de conformidad con la Ley General de Instituciones y Procedimientos Electorales, Ley General de partidos Políticos y demás deposiciones (sic) aplicables.
 
 Artículo 29
 
@@ -2469,13 +2481,21 @@ Artículo 119
 
 a) Los gastos de cada campaña electoral que realicen los partidos políticos, las coaliciones y los candidatos, en la propaganda electoral y en sus actividades de campaña, no podrán rebasar los montos siguientes:
 
-I. Para la elección de Gobernador, el que resulte de multiplicar el 25% del salario mínimo diario vigente en la capital del Estado, por el número total de ciudadanos inscritos en el padrón electoral de la Entidad, con corte al treinta y uno de diciembre del año anterior al de la elección;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-II. Para la elección de diputados de mayoría, el que resulte de multiplicar el 25% del salario mínimo diario vigente en la capital del Estado, por el número total de ciudadanos inscritos en el padrón electoral en el distrito del que se trate, con corte al treinta y uno de diciembre del año anterior al de la elección;
+I. Para la elección de Gobernador, el que resulte de multiplicar el valor diario del 25% de la Unidad de Medida y Actualización vigente, por el número total de ciudadanos inscritos en el padrón electoral de la Entidad, con corte al treinta y uno de diciembre del año anterior al de la elección;
 
-III. Para la elección de ayuntamientos, el que resulte de multiplicar el 25% del salario mínimo diario vigente en la capital del Estado, por el número total de ciudadanos inscritos en el padrón electoral del municipio del que se trate, con corte al treinta y uno de diciembre del año anterior al de la elección. En ningún caso el tope máximo de una elección de ayuntamiento podrá ser inferior a 2,000 salarios mínimos diarios vigentes en la capital del Estado, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-IV. Para la elección de síndico, el que resulte de multiplicar el 15% del salario mínimo diario vigente en la capital del Estado, por el número total de ciudadanos inscritos en el padrón electoral del municipio del que se trate, con corte al treinta y uno de diciembre del año anterior al de la elección. En ningún caso el tope máximo de una elección de síndico podrá ser inferior a 1,000 salarios mínimos diarios vigentes en la capital del Estado.
+II. Para la elección de diputados de mayoría, el que resulte de multiplicar el valor diario del 25% de la Unidad de Medida y Actualización vigente, por el número total de ciudadanos inscritos en el padrón electoral en el distrito del que se trate, con corte al treinta y uno de diciembre del año anterior al de la elección:
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+III. Para la elección de ayuntamientos, el que resulte de multiplicar el valor diario del 25% de la Unidad de Medida y Actualización vigente, por el número total de ciudadanos inscritos en el padrón electoral del municipio del que se trate, con corte al treinta y uno de diciembre del año anterior al de la elección. En ningún caso el tope máximo de una elección de ayuntamiento podrá ser inferior a 2,000 veces el valor diario de la Unidad de Medida y Actualización vigentes, y
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+IV. Para la elección de síndico, el que resulte de multiplicar el valor diario del 15% de la Unidad de Medida y Actualización vigente, por el número total de ciudadanos inscritos en el padrón electoral del municipio del que se trate, con corte al treinta y uno de diciembre del año anterior al de la elección. En ningún caso el tope máximo de una elección de síndico podrá ser inferior a 1,000 veces el valor diario de la Unidad de Medida y Actualización vigentes.
 
 Artículo 120
 
@@ -4161,7 +4181,9 @@ a) Respecto de los partidos políticos:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente en la capital del Estado, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
 
 III. Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público estatal que les corresponda, por el periodo que señale la resolución;
 
@@ -4169,7 +4191,9 @@ b) Respecto de las agrupaciones políticas estatales:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente en la capital del Estado, según la gravedad de la falta, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, según la gravedad de la falta, y
 
 III. Con la suspensión o cancelación de su registro, que en el primer caso no podrá ser menor a seis meses, en caso de ser (sic)
 
@@ -4177,7 +4201,9 @@ c) Respecto de los aspirantes, precandidatos o candidatos a cargos de elección 
 
 I. Con amonestación pública;
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente en la capital del Estado, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, y
 
 III. Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, cuando sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
 
@@ -4185,7 +4211,9 @@ d) Respecto de los Candidatos Independientes:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente en la capital del Estado;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 III. Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
 
@@ -4197,11 +4225,17 @@ e) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos pol�
 
 I. Con amonestación pública;
 
-II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de hasta quinientos días de salario mínimo general vigente en la capital del Estado; en el caso de aportaciones que violen lo dispuesto en esta Ley;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-III. Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de hasta cinco mil días de salario mínimo general vigente en la capital del Estado, en el caso de aportaciones que violen lo dispuesto en esta Ley, y
+II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización vigente; en el caso de aportaciones que violen lo dispuesto en esta Ley;
 
-IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil días de salario mínimo general en la capital del Estado, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+III. Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, en el caso de aportaciones que violen lo dispuesto en esta Ley, y
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil veces el valor diario de la Unidad de Medida y Actualización vigentes, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 f) Respecto de observadores electorales u organizaciones de observadores electorales:
 
@@ -4209,7 +4243,9 @@ I. Con amonestación pública;
 
 II. Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales locales, y
 
-III. Con multa de hasta doscientos días de salario mínimo general vigente en la capital del Estado, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+III. Con multa de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
 
 Artículo 269
 
@@ -5367,7 +5403,9 @@ Artículo 346
 
 a) Amonestación;
 
-b) Multa hasta por cien veces el salario mínimo diario vigente en la ciudad de Chihuahua;
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+b) Multa hasta por cien veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 c) Auxilio de la fuerza pública, y
 
@@ -5770,3 +5808,19 @@ PRIMERO.- Las declaraciones de invalidez decretadas en los resolutivos que recae
 SEGUNDO.- Notifíquese de manera inmediata del cumplimiento de los resolutivos de las sentencias de las acciones de inconstitucionalidad expresadas en el artículo transitorio anterior a la Suprema Corte de Justicia de la Nación.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/FRCLC/0266/2017 I P.E”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad a lo dispuesto por el último párrafo del artículo 202 de la Constitución Política del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto, entendiéndose que la Unidad de Medida y Actualización será aplicable exclusivamente para los fines previstos en la Norma Federal que le da origen y en las presentes reformas, y que, cuando en las leyes se aluda al salario mínimo y su uso o referencia resulte aplicable, se tendrá como tal el salario mínimo diario general vigente en la Capital del Estado, salvo disposición en contrario.
+
+###### ARTÍCULO TERCERO.
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
