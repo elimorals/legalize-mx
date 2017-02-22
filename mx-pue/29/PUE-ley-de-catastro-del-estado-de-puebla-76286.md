@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-catastro-del-estado-de-puebla-76286"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-16"
-last_updated: "2016-11-22"
+last_updated: "2017-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 16 de agosto de 2010.
 
@@ -215,15 +217,13 @@ Son autoridades catastrales en el Estado:
 
 I. El Gobernador del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+II.- El Secretario de Finanzas y Administración;
 
-II. El Secretario General de Gobierno;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2017)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-III. (DEROGADA, P.O. 1 DE AGOSTO DE 2016)
+III.- El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -341,13 +341,11 @@ Las autoridades catastrales municipales ejercerán sus atribuciones dentro de la
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2014)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 19.
 
-Los Delegados Catastrales representarán al Instituto en términos de la demarcación que se determine en el Acuerdo de Circunscripción Territorial que emita la Secretaría General de Gobierno.
+Los Delegados Catastrales representarán al Instituto en términos de la demarcación que se determine en el Acuerdo de Circunscripción Territorial que emita la Secretaría de Finanzas y Administración.
 
 ###### Artículo 20.
 
@@ -1269,8 +1267,16 @@ OCTAVO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto po
 
 P.O. 22 DE NOVIEMBRE DE 2016.
 
-> <small>[N.DE E. TRANSITORIOS “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA”, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 01 DE AGOSTO DE 2016”]</small>
+> <small>[N. DE E. TRANSITORIOS “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA”, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 01 DE AGOSTO DE 2016”]</small>
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA, Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
