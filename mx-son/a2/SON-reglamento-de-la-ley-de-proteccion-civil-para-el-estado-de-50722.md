@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-de-proteccion-civil-para-el-estado-de-5072
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-01"
-last_updated: "2006-06-01"
+last_updated: "2017-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY DE PROTECCION CIVIL PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 1 de junio de 2006.
 
@@ -227,7 +227,13 @@ II.- Contener las especificaciones señaladas en el presente Reglamento, en los 
 
 III.- Ser actualizados cuando se modifique el giro o la tecnología usada en la empresa o cuando el inmueble sufra modificaciones substanciales;
 
-IV.- Ser revalidados a más tardar el último día del mes de febrero de cada año, para lo cual deberá presentarse la solicitud correspondiente con al menos dos meses de anticipación a la fecha antes mencionada; y
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE FEBRERO DE 2017)</small>
+
+IV.- Ser revalidados a más tardar el último día del mes de febrero de cada año, para lo cual deberá presentarse la solicitud correspondiente con al menos dos meses de anticipación a la fecha antes mencionada.
+
+> <small>(ADICIONADO, B.O. 23 DE FEBRERO DE 2017)</small>
+
+Tratándose de Instituciones Educativas públicas y particulares, que impartan educación en sus diferentes tipos y modalidades, deberán ser revalidados cuando presenten la solicitud correspondiente con un máximo de dos meses después de iniciado el correspondiente ciclo escolar; todos aquellos que no estén en el supuesto de Institutos Educativos, estarán a lo dispuesto en el primer párrafo; y
 
 V.- Contar con la carta de responsabilidad o corresponsabilidad, según sea que el Programa Interno haya sido formulado directamente o por la empresa especializada acreditada y registrada ante la Unidad Estatal.
 
@@ -660,3 +666,17 @@ A partir de la vigencia del presente Reglamento la Unidad Estatal deberá elabor
 Dado en la residencia del Poder Ejecutivo en la ciudad de Hermosillo, Sonora, a los veinticinco días del mes d (sic) mayo de dos mil seis.
 
 EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RUBRICA. EL SECRETARIO DE GOBIERNO POR MINISTERIO DE LEY, ENRIQUE PALAFOX PAZ, RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 23 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA EL REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma y adición, entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Instituciones Educativas públicas y particulares señaladas en la presente reforma, deberán presentar sus Programas Internos en los plazos establecidos, en el próximo ciclo escolar que corresponde en el presente año.
