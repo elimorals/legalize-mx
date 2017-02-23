@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2017-02-22"
+last_updated: "2017-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2017.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -493,9 +493,13 @@ XLV.- Recibir de las Dependencias y Entidades de la Administración Pública Est
 
 XLVI.- (DEROGADA, P.O. 22 DE FEBRERO DE 2017)
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2017)</small>
 
-XLVII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+XLVII.- Presidir el Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública, y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2017)</small>
+
+XLVIII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2017,9 +2021,9 @@ IV.- Organizar, consolidar y operar el Sistema Estatal de Seguridad Pública, a 
 
 V.- Determinar y ejecutar cualquier acción o medida conducente que asegure la aplicación, coordinación y el seguimiento de las políticas públicas y acuerdos de la materia emanados por parte del Consejo Nacional de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2017)</small>
 
-VI.- Presidir el Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública; así como coordinar, y en su caso ejecutar, la política, programas y acciones relativos a la cohesión social, a la prevención del delito y a la prevención social de la violencia y la delincuencia;
+VI.- Participar en el ámbito de su competencia, en el Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -2728,6 +2732,14 @@ CUARTO. La atención, trámite y resolución de los asuntos y procedimientos que
 P.O. 22 DE FEBRERO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA; DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 23 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
 
