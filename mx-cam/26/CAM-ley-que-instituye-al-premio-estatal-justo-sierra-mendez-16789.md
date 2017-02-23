@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-instituye-al-premio-estatal-justo-sierra-mendez-16789"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-31"
-last_updated: "1994-12-31"
+last_updated: "2017-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY QUE INSTITUYE AL PREMIO ESTATAL "JUSTO SIERRA MÉNDEZ, MAESTRO DE AMÉRICA"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 31 de diciembre de 1994.
 
@@ -37,57 +37,83 @@ La LV Legislatura del H. Congreso Constitucional del Estado Libre y Soberano de 
 
 Número 48
 
-LEY QUE INSTITUYE AL PREMIO ESTATAL "JUSTO SIERRA MENDEZ, MAESTRO DE AMERICA"
+LEY QUE INSTITUYE AL PREMIO ESTATAL "JUSTO SIERRA MÉNDEZ, MAESTRO DE AMERICA"
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2017)</small>
 
-Se instituye el Premio Estatal "Justo Sierra Méndez, Maestro de América" como la más alta distinción que pueden otorgar el Pueblo y Gobierno del Estado de Campeche, para significar su reconocimiento, a los campechanos, personas físicas o morales, que por sus méritos excepcionales se hayan distinguido en las ciencias, las artes, la tecnología, o cualesquiera otros valores sociales o manifestaciones culturales que contribuyan al engrandecimiento del género humano o al bien del Estado.
+###### Artículo 1.
 
-###### ARTICULO 2º.
+Se instituye el Premio Estatal "Justo Sierra Méndez, Maestro de América" como la más alta distinción que pueden (sic) otorgar el Estado de Campeche, para significar su reconocimiento a los campechanos, personas físicas o morales, que por sus méritos excepcionales se hayan distinguido en las ciencias, las artes, la tecnología, o cualesquiera otros valores sociales o manifestaciones culturales que contribuyan al engrandecimiento del género humano o al bien del Estado.
 
-El Premio se concederá anualmente, en una sola categoría, y será entregado el 26 de Enero, fecha de aniversario del natalicio del Maestro de América, por el Gobernador Constitucional del Estado, en ceremonia solemne cuyas características y lugar de acontecimiento serán fijados por el propio Gobernador.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2017)</small>
 
-###### ARTICULO 3º.
+###### Artículo 2.
 
-El Premio consistirá en una medalla de oro y un pergamino, otorgados por el Pueblo y el Gobierno del Estado de Campeche, y en el que consten los méritos y valores del premiado.
+El Premio se concederá anualmente, en una sola categoría, y será entregado el 26 de enero, fecha de aniversario del natalicio del Maestro de América, por el Gobernador del Estado, en ceremonia solemne cuyas características y lugar de acontecimiento serán fijados por el propio Gobernador.
 
-Adicionalmente podrá otorgarse como parte del Premio la cantidad en numerario que determine el Ejecutivo Estatal, así como una copia del Acta Notarial referente al Acuerdo del Otorgamiento adoptado por el jurado calificador.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2017)</small>
 
-###### ARTICULO 4º.
+###### Artículo 3.
+
+El Premio consistirá en una medalla de oro y un pergamino, otorgados por el Estado de Campeche, y en el que consten los méritos y valores del premiado, así como una copia certificada del Acta Notarial referente al Acuerdo del Otorgamiento del Premio Estatal "Justo Sierra Méndez, Maestro de América", adoptado por el jurado calificador.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2017)</small>
+
+###### Artículo 4.
 
 El jurado calificador del otorgamiento del Premio lo será el Comité Cívico Estatal, mismo que se integrará por:
 
-A). El Gobernador Constitucional del Estado, como presidente;
+a. El Gobernador del Estado, como Presidente;
 
-B). El Secretario de Gobierno, como vicepresidente;
+b. El Secretario de Gobierno, como Vicepresidente;
 
-C). Un Notario Público, en ejercicio, como secretario; y
+c. El Secretario de Cultura, como Secretario;
 
-D). El Secretario de Educación, Cultura y Deporte, el Director del Instituto de Cultura del Estado, el Director de Acción Cívica de la Secretaría de Gobierno, el Rector de la Universidad Autónoma de Campeche, el Rector de la Universidad Autónoma de Carmen, el Director General del Instituto Campechano, el presidente del Comité Justo Sierra Méndez, un representante académico y un representante de la sociedad civil, como vocales.
+d. El Secretario de Educación, el Director General del Instituto del Deporte del Estado de Campeche, el Rector de la Universidad Autónoma de Campeche, el Rector de la Universidad Autónoma del Carmen, el Rector del Instituto Campechano, un representante académico y un representante de la sociedad civil, como vocales.
 
-###### ARTICULO 5º.
+e. Un Notario Público, en ejercicio, quien tendrá como función la de hacer constar, bajo su fe, las actas de las sesiones que se realicen, y de levantar el Acta Notarial al Acuerdo del Otorgamiento del Premio Estatal "Justo Sierra Méndez, Maestro de América", adoptado por el jurado calificador.
 
-Las propuestas de candidatos merecedores del otorgamiento del Premio deberán presentarse ante la Dirección de Acción Cívica de la Secretaría de Gobierno durante el plazo comprendido del 1 de Febrero al 31 de Diciembre de cada año.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2017)</small>
 
-###### ARTICULO 6º.
+###### Artículo 5.
 
-Dentro de los primeros quince días del mes de Enero de cada año, el Comité Cívico Estatal, en el local que al efecto determine el Ejecutivo del Estado, a convocatoria de su Secretario sesionará las veces que sean necesarias para hacer el análisis de las propuestas y emitir el Acuerdo de Otorgamiento del Premio.
+Las propuestas de candidatos merecedores del otorgamiento del Premio deberán presentarse ante la Secretaría de Gobierno durante el plazo comprendido del 1 de febrero al 31 de diciembre de cada año, la cual coordinará con la Secretaría de Cultura la integración de un expediente por candidato, llevando un registro de estos.
 
-###### ARTICULO 7º.
+Las propuestas deberán ser presentadas por escrito, las cuales deberán contener los merecimientos del candidato, así como las pruebas pertinentes para su acreditación, que deberán ser adjuntadas a la misma.
 
-El quórum requerido para la validez de las sesiones será el de la mayoría de sus integrantes, incluidos dentro de éstos su presidente o su vicepresidente y su secretario. Las decisiones se adoptarán por mayoría de votos de los integrantes presentes. En caso de empate el presidente, o en su ausencia el vicepresidente, tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2017)</small>
 
-###### ARTICULO 8º.
+###### Artículo 6.
 
-A las sesiones del Comité sólo podrán asistir sus integrantes, quedando prohibida la presencia de cualquiera persona ajena al mismo, excepción hecha del personal administrativo que en su auxilio requiera el Comité.
+Dentro de los primeros quince días del mes de enero de cada año, el Comité Cívico Estatal, en el lugar que al efecto determine el Ejecutivo del Estado, a convocatoria de su Secretario, sesionará las veces que sean necesarias para hacer el análisis de las propuestas y emitir el Acuerdo de Otorgamiento del Premio.
 
-###### ARTICULO 9º.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2017)</small>
 
-El Acuerdo del Comité Cívico Estatal será inapelable.
+###### Artículo 7.
 
-###### ARTICULO 10º.
+La Secretaría de Gobierno emitirá la convocatoria por escrito con setenta y dos horas de anticipación a la celebración de la sesión que corresponda; asimismo, podrá convocar por cualquier medio de comunicación, cuando se trate de las demás sesiones que sean necesarias para la aprobación de la propuesta del merecedor del premio y por ende la emisión del Acuerdo de Otorgamiento del Premio.
 
-La Secretaría de Finanzas incluirá anualmente dentro del Presupuesto de Egresos del Gobierno del Estado una partida suficiente para la dotación del Premio, conforme a los lineamientos que oportunamente le señale el Gobernador.
+El quórum requerido para la validez de las sesiones será el de la mayoría de sus integrantes, incluidos dentro de éstos el Presidente, el Vicepresidente y el Secretario del Comité.
+
+Las decisiones se adoptarán por mayoría de votos de los integrantes presentes; en caso de empate, el Presidente o en su ausencia el Vicepresidente, tendrán voto de calidad.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2017)</small>
+
+###### Artículo 8.
+
+A las sesiones del Comité Cívico Estatal sólo podrán asistir sus integrantes, quedando prohibida la presencia de cualquiera persona ajena al mismo, excepción hecha del personal administrativo que, en su apoyo y asistencia, requiera el Comité.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2017)</small>
+
+###### Artículo 9.
+
+El Acuerdo del Comité Cívico Estatal será inapelable y se dará a conocer con la finalidad de convocar a la ceremonia solemne referida en el artículo 2 de la presente Ley, difundiéndose a través de los medios de comunicación pertinentes y en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2017)</small>
+
+###### Artículo 10.
+
+La Secretaría de Finanzas incluirá anualmente, dentro del Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda, una partida suficiente para la dotación del Premio, conforme a las disposiciones que oportunamente le señale el Gobernador.
 
 T R A N S I T O R I O S:
 
@@ -102,3 +128,13 @@ Palacio Legislativo, Campeche, Cam., a 30 de Diciembre de 1994.- Dip. Tomás Arn
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los treinta días del mes de diciembre de mil novecientos noventa y cuatro.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 134 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 4, 5, 6, 7, 8, 9 Y 10 DE LA LEY QUE INSTITUYE EL PREMIO ESTATAL "JUSTO SIERRA MÉNDEZ, MAESTRO DE AMÉRICA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
