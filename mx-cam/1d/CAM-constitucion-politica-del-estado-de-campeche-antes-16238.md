@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2016-10-13"
+last_updated: "2017-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -925,9 +925,9 @@ XV.- Llamar a quienes deban sustituir a los diputados en ejercicio en los casos 
 
 XVI.- Conceder premios y recompensas a las personas que presten servicios eminentes a la República, al Estado o a la humanidad y otorgar pensiones a su fallecimiento, a las familias de las mismas que comprueben sus difíciles condiciones económicas;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2017)</small>
 
-XVII.- Expedir el Bando Solemne para dar a conocer en toda la Entidad la declaración de Gobernador Electo que hubiere hecho la Sala Administrativa, erigida en Sala Electoral, del Tribunal Superior de Justicia del Estado;
+XVII.- Expedir el Bando Solemne para dar a conocer en toda la Entidad la declaración de Gobernador Electo que hubiere hecho el Tribunal Electoral del Estado de Campeche.
 
 XVIII.- Constituírse en Colegio Electoral y elegir al ciudadano que deba sustituír al Gobernador del Estado con el carácter de substituto o de interino, de acuerdo con los Artículos 64, 65 y 67 de esta Constitución;
 
@@ -1173,7 +1173,7 @@ Cuando la falta del Gobernador fuere temporal excediendo de sesenta días, el Co
 
 (REFORMADO, P.O. 15 DE FEBRERO DE 2008) (F. DE E., P.O. 18 DE FEBRERO DE 2008)
 
-Las ausencias temporales del Gobernador hasta por quince días las suplirá el Secretario de Gobierno. Si la ausencia temporal excediese de quince días, pero fuera inferior a sesenta días, quedará encargado del Despacho del Poder Ejecutivo el Secretario de Gobierno o, en su defecto, el funcionario que el propio Gobernador designe de entre los titulares de las dependencias a que se refiere la Ley Orgánica de la Administración Pública del Estado. La suplencia a que este párrafo se refiere se comunicará, por escrito, para los efectos que (sic) haya lugar, a los representantes de los otros dos poderes locales.
+Las ausencias temporales del Gobernador hasta por quince días las suplirá el Secretario de Gobierno. Si la ausencia temporal excediese de quince días, pero fuera inferior a sesenta días, quedará encargado del Despacho del Poder Ejecutivo el Secretario de Gobierno o, en su defecto, el funcionario que el propio Gobernador designe de entre los titulares de las dependencias a que se refiere la Ley Orgánica de la Administración Pública del Estado. La suplencia a que este párrafo se refiere se comunicará, por escrito, para los efectos (sic) que haya lugar, a los representantes de los otros dos poderes locales.
 
 Si la falta se convirtiere de temporal en absoluta, se procederá como disponen los artículos anteriores.
 
@@ -1745,11 +1745,11 @@ Pronunciada una sentencia de responsabilidad por delitos oficiales no podrá con
 
 La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 98.
 
-La Ley Sobre Responsabilidades Administrativas de los Servidores Públicos, determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señale la Ley, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+La Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, determinará las obligaciones de los servidores públicos a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señala la Ley, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2016)</small>
 
@@ -2880,3 +2880,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo lo que se opongan al contenido del presente decreto.
 
 TERCERO.- A partir de la entrada en vigor del presente decreto, se deberán hacer las adecuaciones a las leyes que correspondan en un plazo no mayor a 180 días naturales.
+
+P.O. 23 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 135 POR EL QUE “SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 54 Y EL ARTÍCULO 98 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en todo lo que se opongan al contenido del presente decreto.
