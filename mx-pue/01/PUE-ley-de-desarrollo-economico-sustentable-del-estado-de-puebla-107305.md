@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-economico-sustentable-del-estado-de-puebla-10
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-30"
-last_updated: "2015-03-30"
+last_updated: "2017-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de marzo de 2015.
 
@@ -137,7 +137,7 @@ XXVIII. Ley: Ley de Desarrollo Económico Sustentable del Estado de Puebla;
 
 XXIX. MIPYMES: Micro, pequeñas y medianas empresas legalmente constituidas, estratificadas por la Secretaría de Economía de acuerdo al sector al que pertenecen con base al número de trabajadores y monto de ventas según la publicación del Diario Oficial de la Federación del treinta de junio del dos mil nueve:
 
-> <small>N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL P.O. DE 30 DE MARZO DE 2015, PÁGINA 7.</small>
+> <small>[N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL P.O. DE 30 DE MARZO DE 2015, PÁGINA 7.]</small>
 
 XXX. Mejora regulatoria: Adecuaciones al marco legal y normativo aplicable a las empresas con el objeto de facilitar su apertura, operación y desarrollo;
 
@@ -615,7 +615,9 @@ III. Número de empleos directos e indirectos que serán generados;
 
 IV. Número de empleos que pueden ser ocupados por adultos mayores;
 
-V. Número de empleos que pueden ser ocupados por personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2017)</small>
+
+V. Número de empleos que pueden ser ocupados por personas con discapacidad;
 
 VI. Nivel salarial de los empleos;
 
@@ -1127,7 +1129,7 @@ La resolución definitiva del recurso de revisión deberá estar debidamente fun
 
 I. El nombre del recurrente;
 
-II El lugar y fecha de emisión;
+II. El lugar y fecha de emisión;
 
 III. La relación breve de los planteamientos formulados materia de estudio;
 
@@ -1240,3 +1242,13 @@ Las erogaciones que se deriven de la aplicación de esta Ley estarán sujetas a 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los once días del mes de marzo de dos mil quince. Diputada Presidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputado Vicepresidente. CARLOS IGNACIO MIER BAÑUELOS Rúbrica. Diputado Secretario. MANUEL POZOS CRUZ. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de marzo de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Encargado del Despacho de la Secretaria General de Gobierno. C. JORGE BENITO CRUZ BERMÚDEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 33 DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
