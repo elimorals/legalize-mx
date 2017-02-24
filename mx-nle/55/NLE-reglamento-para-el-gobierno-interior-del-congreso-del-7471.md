@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2017-01-18"
+last_updated: "2017-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -2133,6 +2133,50 @@ En el muro principal del Salón de Sesiones se ubica el mapa del Estado de Nuevo
 
 En los costados derecho e izquierdo, se encuentran colocados los Muros de Honor, con los nombres de personajes declarados por el Congreso del Estado de Nuevo León, como Hombres y Mujeres Ilustres, así como de Instituciones y participantes de hechos históricos, con igual declaración, inscritos con letras áureas.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+###### Artículo 145 Bis 2.
+
+Las inscripciones podrán ser de hombres y mujeres ilustres, acontecimientos, así como de instituciones, y participantes de hechos históricos, y deberán cumplir con los siguientes requisitos:
+
+I. En el caso de personas físicas, que hayan prestado servicios de importancia al Estado, destacado en áreas del conocimiento humano, o acciones de trascendencia social preferentemente para el Estado de Nuevo León, o en su caso el país;
+
+II. Cuando se trate de acontecimientos que hayan contribuido a la transformación política y social, preferentemente del Estado de Nuevo León, o en su caso el país;
+
+III. La solicitud de inscripción en letras áureas podrá ser presentada por cualquier persona, institución pública o privada, como iniciativa con proyecto de decreto debidamente justificada; y
+
+IV. No se aceptarán propuestas de personajes en vida.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+###### Artículo 145 Bis 3.
+
+Las Inscripciones en los Muros de Honor serán procedentes cuando tengan el acuerdo de las dos terceras partes de la Legislatura, previo dictamen aprobado por la Comisión de Educación, Cultura y Deporte debidamente fundado y motivado.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+###### Artículo 145 Bis 4.
+
+La Comisión de Educación, Cultura y Deporte resolverá sobre las propuestas de Inscripción con base en los requisitos del artículo 145 Bis II; sujetándose a los principios de imparcialidad, objetividad y transparencia.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+###### Artículo 145 Bis 5.
+
+Cuando se proponga la Inscripción del nombre o nombres de ciudadanos mexicanos o mexicanas deberá haber transcurrido cuando menos, un período no menor a cinco años desde su fallecimiento.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+###### Artículo 145 Bis 6.
+
+La Inscripción deberá realizarse en una Sesión o Espacio Solemne a la que concurrirán como invitados representantes de diversos sectores de la sociedad.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+###### Artículo 145 Bis 7.
+
+La Oficialía Mayor del Congreso del Estado llevará el registro de las inscripciones que se hayan consumado, y a través de la página y tableros de aviso difundirá, el contenido y significado histórico de estas.
+
 ### CAPITULO VII. DE LOS ASISTENTES A LAS SESIONES
 
 ###### Artículo 146.
@@ -2665,6 +2709,16 @@ Segundo.- El H. Congreso del Estado de Nuevo León, deberá hacer las adecuacion
 
 P.O. 18 DE ENERO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 219. SE REFORMA POR ADICIÓN DE UN TERCERO Y CUARTO PÁRRAFO AL ARTÍCULO 91 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 219. SE REFORMA POR ADICIÓN DE UN TERCERO Y CUARTO PÁRRAFO AL ARTÍCULO 91 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO.”]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 235. SE REFORMA POR ADICIÓN DE LOS ARTÍCULOS 145 BIS 2; 145 BIS 3; 145 BIS 4; 145 BIS 5; 145 BIS 6; Y 145 BIS 7, TODOS DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- A partir de la entrada en vigor del presente Decreto, en las inscripciones de letras áureas subsecuentes se conservará la misma tipografía de las letras actualmente colocadas.
+
+Tercero.- Las solicitudes de inscripción de letras áureas, anteriores a la entrada en vigor del presente Decreto, serán resueltas en los mismos términos, en que fueron aprobadas las que actualmente se encuentran colocadas.
