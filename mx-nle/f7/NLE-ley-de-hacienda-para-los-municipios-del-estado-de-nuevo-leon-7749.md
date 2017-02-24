@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2017-02-17"
+last_updated: "2017-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 17 DE FEBRERO DE 2017.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 24 DE FEBRERO DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2195,17 +2195,17 @@ Por la inscripción de nuevos fraccionamientos o ampliaciones a los ya existente
 
 a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados 0.0322 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016) (F. DE E., P.O. 24 DE FEBRERO DE 2017)
 
-b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros cuadrados y 250 metros cuadrados 168 cuotas
+b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros cuadrados y 250 metros cuadrados. 0.0168 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016) (F. DE E., P.O. 24 DE FEBRERO DE 2017)
 
-c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados 0.126 cuotas
+c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados. 0.0126 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016) (F. DE E., P.O. 24 DE FEBRERO DE 2017)
 
-d) Cementerios ubicados en los Municipios de Apodaca, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza y San Pedro Garza García 0.168 cuotas
+d) Cementerios ubicados en los Municipios de Apodaca, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza y San Pedro Garza García 0.0168 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -2301,7 +2301,7 @@ Tratándose de constancias de no infracciones, relativas a control vehicular, .3
 
 cuotas.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 II.- Por registro de regularización que a juicio de los Municipios deban llevarse a cabo, de negocios señalados en los artículos 58 y 59 de esta Ley, se cobrará una cantidad cincuenta por ciento mayor que la máxima correspondiente señalada en dichos artículos.
 
@@ -2323,61 +2323,61 @@ IV.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
 V.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VI.- Establecimientos donde se expenda o distribuya cualquier clase de carne, de N$35.00 a N$110.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VII.- Fábricas de hielo, de N$40.00 a N$140.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VIII.- Molinos de Nixtamal, de N$35.00 a N$110.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 IX.- Establecimientos donde se fabrique cualquier clase de tortillas y tostadas, de N$40.00 a N$130.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 X.- Peluquerías y salones de belleza, de N$35.00 a N$110.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XI.- Salones de masaje, excepto cuando el servicio sea prestado por quiroprácticos, de N$14,000.00 a N$36,000.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XII.- Baños públicos, de N$140.00 a N$360.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XIII.- Salas de cine, boliches, patinaderos y salones de fiestas infantiles, de N$70.00 a N$200.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XIV.- Terrazas de cine y autocinemas, de N$40.00 a N$120.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 XV.- Estacionamientos de vehículos en los que se cobre tarifa o pensión al usuario:
 
@@ -2397,19 +2397,19 @@ c) A la intemperie, de N$110.00 a N$360.00
 
 d) Con superficie abierta no mayor de 400 metros cuadrados, de N$40.00 a N$120.00
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XVI.- Salones de baile, de N$3,500.00 a N$8,000.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$55.00 por unidad.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2817,13 +2817,13 @@ Dichos permisos serán provisionales y únicamente se otorgarán en caso de baja
 
 Por expedición de licencias para estacionamiento exclusivo para carga y descarga, 7 cuotas.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 II.- Por inspecciones que previenen los Reglamentos a nivel municipal, de N$20.00 a N$70.00, excepto por la inspección de polvorines, gasolineras, plantas y expendios de gas, en que la cuota será de N$330.00 a N$700.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2891,7 +2891,7 @@ En los servicios que por razones de orden público se vea obligado a prestar el 
 
 Cualquier otro servicio no incluido en esta Ley, que se encuentre establecido en otro ordenamiento, se fijarán igualmente los derechos correspondientes en razón a su costo.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 Cuando el particular solicite algún servicio que no esté contemplado en esta ley o en algún otro ordenamiento legal, las partes fijarán su monto de común acuerdo.
 
@@ -2903,25 +2903,25 @@ Cuando el particular solicite algún servicio que no esté contemplado en esta l
 
 Por la expedición de licencias se cobrará:
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, que se realicen en forma esporádica y se cobre derecho de admisión o se expida boletaje para la entrada, de N$65.00 a N$130.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 II.- Por cada corrida de toros y rodeo, N$1,650.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 III.- Por cada novillada, N$550.00.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -3133,7 +3133,7 @@ Cuando los parquímetros se instalen para el ordenamiento vial de una zona deter
 
 En el caso de que la autoridad municipal determine hacer uso de esa facultad, deberá informarlo en un plazo no mayor de 30 días al Congreso del Estado, señalando con precisión el fin al que serán destinados los recursos que se recauden en virtud de esta circunstancia, para que sea analizada su aplicación en la revisión de la cuenta pública correspondiente.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -3367,7 +3367,7 @@ No causan impuestos los bienes del dominio público de los Municipios, del Estad
 
 El C. Presidente Municipal hará las declaraciones generales o especiales que correspondan y podrán asimismo eximir de impuestos en cualquier otro caso, en que el producto de una actividad se destine a fines de interés público debidamente comprobados.
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA APLICACIÓN DEL PRESENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1999.</small>
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA APLICACIÓN DEL PRESENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1999.]</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -3527,7 +3527,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 LIC. CESAR SANTOS SANTOS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 27 DE DICIEMBRE DE 1975.
 
