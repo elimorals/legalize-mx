@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2017-02-22"
+last_updated: "2017-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2017.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1264,7 +1264,7 @@ XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta
 
 XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos y al Magistrado del Tribunal Unitario de Justicia para Adolescentes de conformidad con lo previsto en esta Constitución; así como al Fiscal General del Estado de Morelos y al Fiscal Especializado para la Investigación de Hechos de Corrupción, estos últimos de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado.
 
-Asimismo, designar si fuera procedente, por un período más a los Magistrados Numerarios del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos y Magistrado del Tribunal Unitario de Justicia para Adolescentes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2007)</small>
 
@@ -2352,31 +2352,39 @@ DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
 
 El Tribunal Superior de Justicia del Estado se compondrá de los Magistrados Numerarios que se requieran para la integración de las salas que lo conformen, cuando menos de tres supernumerarios y en su caso, de los Magistrados interinos. Los magistrados serán designados por el Pleno del Congreso del Estado y sólo en el caso de los Magistrados Interinos, podrá designar también la Diputación Permanente, en ambos casos a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública para designar a los Magistrados, conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
 
-Los Magistrados del Tribunal Superior de Justicia rendirán su protesta ante el Pleno del Congreso o la Diputación Permanente, durarán en su cargo seis años, contados a partir de la fecha en que rindan la protesta constitucional, podrán ser designados para un periodo más y si lo fueren, continuarán en esa función únicamente ocho años más, y sólo podrán ser privados del cargo en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
-La designación para un período más sólo procederá, de los resultados que arroje la evaluación del desempeño que realice el Poder Legislativo a través del órgano político del Congreso, mediante los mecanismos, criterios, procedimientos, e indicadores de gestión, que para dicha evaluación establezca esta Constitución y las leyes en la materia.
+Los Magistrados del Tribunal Superior de Justicia, rendirán su protesta ante el Pleno del Congreso o la Diputación Permanente, durarán en su cargo catorce años contados a partir de la fecha en que rindan la protesta constitucional y sólo podrán ser privados del cargo en los términos que establece esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
 
 El Presidente del Tribunal Superior de Justicia durará en su encargo dos años, pudiendo ser reelecto sólo por un período más, sin posibilidad de volver a ocupar ese cargo.
 
-La función y evaluación de los Magistrados del Poder Judicial se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, honestidad, independencia, transparencia y rendición de cuentas.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
-Ninguna persona que haya sido nombrada magistrado y haya procedido su designación para un nuevo período en términos de esta constitución, podrá volver a ocupar el cargo. En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo con el carácter de titular, provisional o interino, podrán rebasar catorce años en el cargo.
+Las funciones de los Magistrados del Poder Judicial se regirán por los principios de excelencia, objetividad, imparcialidad, profesionalismo, honestidad, independencia, transparencia y rendición de cuentas.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+Ninguna que (sic) persona que haya sido nombrada magistrado del Tribunal Superior de Justicia podrá volver a ocupar dicho cargo. En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo con el carácter de titular, provisional o interino, podrán rebasar catorce años en el cargo.
 
 Al término de los catorce años, los Magistrados numerarios tendrán derecho a un haber por retiro, conforme lo establezca la Ley en la materia. Para el caso de los Magistrados Supernumerarios, al término de su período se les otorgará de manera proporcional dicho derecho en los términos que establezca la Ley.
 
-El Consejo de la Judicatura elaborará un dictamen técnico en el que analizará y emitirá opinión sobre la actuación y desempeño de los magistrados que concluyan su período. Los dictámenes técnicos y los expedientes de los Magistrados serán enviados al órgano político del Congreso del Estado para su estudio y evaluación, por lo menos noventa días hábiles antes de que concluya el período para el que fueron nombrados. El dictamen técnico será un elemento más entre todos los que establezca el órgano político del Congreso, para la evaluación del magistrado que concluye sus funciones. La omisión en remitir los documentos en cita dará lugar a responsabilidad oficial.
+> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
 
-El procedimiento para la evaluación y en su caso la designación para un periodo más de los magistrados del Tribunal Superior de Justicia por el Congreso, junto con la evaluación de los aspirantes que de acuerdo al procedimiento y convocatoria pública que emita el órgano político del Congreso, hayan reunido los requisitos que se señalen, se realizará conforme lo establezcan esta Constitución y las leyes en la materia.
+> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+El Congreso del Estado conforme a sus facultades, decide sobre la designación de los magistrados, mediante el voto aprobatorio de las dos terceras partes de los diputados integrantes de la Legislatura.
 
-El Congreso del Estado conforme a sus facultades, decide sobre la designación de los Magistrados, mediante el voto de las dos terceras partes de los Diputados integrantes de la Legislatura. Si el Congreso resuelve que no procede la designación para un nuevo período, el Magistrado cesará en sus funciones a la conclusión del período para el que fue nombrado.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
-El retiro forzoso de los Magistrados se producirá al cumplir sesenta y cinco años de edad o por sobrevenir incapacidad física o mental que imposibilite el desempeño del cargo o de manera voluntaria. La Ley preverá los casos en que tendrán derecho a un haber por retiro en forma proporcional al tiempo en que ejercieron sus funciones en los términos de ley.
+El retiro forzoso de los Magistrados se producirá al cumplir setenta años de edad o por sobrevenir incapacidad física o mental que imposibilite el desempeño del cargo o de manera voluntaria. Tendrán derecho a un haber por retiro en forma proporcional al tiempo en que ejercieron sus funciones en los términos de ley.
 
-Asimismo, la Ley en la materia, preverá la forma y proporción en que se otorgará el haber por retiro y la existencia de un mecanismo para generar los recursos para el pago del mismo a partir del presupuesto que se destine anualmente al Poder Judicial, evitando que su pago repercuta como un gasto excesivo a cargo del Presupuesto de dicho Poder.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+Asimismo, la ley de la materia deberá prever la forma y proporción en que se otorgará el haber por retiro y la existencia de un mecanismo para generar los recursos para el pago del mismo a partir del presupuesto que se destine anualmente al Tribunal Superior de Justicia y a través de aportaciones que realicen los Magistrados. En todo caso se evitará que el pago repercuta como un gasto excesivo a cargo del presupuesto de dicho poder.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -2632,7 +2640,7 @@ DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS.
 
 DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES.
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
 
 ### CAPITULO I.
 
@@ -2648,15 +2656,21 @@ Dicho Tribunal de Justicia Administrativa tendrá a su cargo el conocimiento y r
 
 Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en ésta Constitución, sin perjuicio de las atribuciones de las entidades de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
-El Tribunal de Justicia Administrativa estará integrado por cinco magistrados; funcionará en términos de lo dispuesto en la (sic) normas aplicables.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+El Tribunal de Justicia Administrativa estará integrado por cinco magistrados; funcionará en términos de lo dispuesto en las normas aplicables.
 
 Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con experiencia en materia administrativa, fiscal o de responsabilidades plenamente acreditada. Serán designados por el Pleno del Poder Legislativo a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
 
-Durarán en su cargo ocho años, contados a partir de la fecha en que rindan la protesta constitucional, pudiendo ser designados para un período de seis años más y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
-La designación por un período más sólo procederá de los resultados que arroje la evaluación del desempeño que realice el Poder Legislativo a través del órgano político del Congreso, mediante los mecanismos, criterios, procedimientos e indicadores de gestión que para dicha evaluación establezca esta Constitución y las leyes en la materia.
+Durarán en su cargo catorce años, contados a partir de la fecha en que rindan la protesta constitucional y sólo podrán ser removidos de sus cargos en los términos que establece esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
 
-Ninguna persona que haya sido nombrada magistrado y haya procedido su designación para un período más en términos de esta Constitución, podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo. En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo, podrán rebasar catorce años en el cargo.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+Ninguna persona que haya sido nombrada magistrado podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo. En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo, podrán rebasar catorce años en ejercicio del mismo.
 
 Al término de su respectivo encargo, los Magistrados tendrán derecho a un haber por retiro, en los términos establecidos para los Magistrados del Tribunal Superior de Justicia, conforme lo establece esta Constitución y la Ley de la materia.
 
@@ -2712,35 +2726,33 @@ DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-###### ARTÍCULO 109
+###### Artículo 109
 
-TER.- El Tribunal Unitario de Justicia para Adolescentes será el responsable de la administración de justicia para menores a que se refiere el artículo 19, inciso d) párrafo cuarto, de esta Constitución.
+Ter.- El Tribunal Unitario de Justicia para Adolescentes, será el responsable de la administración de justicia para menores a que se refiere el artículo 19, inciso d), párrafo cuarto, de esta Constitución.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 Para ser Magistrado del Tribunal Unitario de Justicia para Adolescentes, se deberá acreditar especialización en la materia y reunir los requisitos que esta Constitución establece para ser magistrado del Tribunal Superior de Justicia; será nombrado por el Congreso del Estado previa convocatoria a examen de oposición que emitirá el órgano político del Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
-Durará en su encargo un periodo de seis años consecutivos, contados a partir de la fecha en que rinda la protesta constitucional; podrá ser designado para un período más y si lo fuere continuará en esa función hasta por ocho años más, sin que por ningún motivo puedan rebasar catorce años en el cargo, y sólo podrán ser privados del cargo en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos, al término de los cuales tendrá derecho a un haber por retiro, conforme lo establezca esta Constitución y las leyes en la materia.
+Durará en su encargo un periodo de catorce años, contados a partir de la fecha en que rinda la protesta constitucional y sólo podrá ser privado del cargo en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos, al término de los cuales tendrá derecho a un haber por retiro, en los términos establecidos para los Magistrados del Tribunal Superior de Justicia, conforme a lo establecido en esta Constitución y las leyes en la materia.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
 
-La designación por un período más sólo procederá de los resultados que arroje la evaluación del desempeño que realice el Poder Legislativo a través del órgano político del Congreso, mediante los mecanismos, criterios, procedimientos e indicadores de gestión que para dicha evaluación establezca esta Constitución y las leyes en la materia.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+Ninguna persona que haya sido nombrada magistrado podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo. En ningún caso y por ningún motivo, el Magistrado que hubiere ejercido el cargo con el carácter de titular o suplente, podrá rebasar catorce años en el cargo. El retiro forzoso del cargo se producirá en los mismos términos que para los magistrados del Tribunal Superior de Justicia.
 
-Ninguna persona que haya sido nombrada magistrado y haya procedido su designación para un período más en términos de esta Constitución, podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo. En ningún caso y por ningún motivo, el Magistrado que hubiere ejercido el cargo con el carácter de titular o suplente, podrá rebasar catorce años en el cargo. El retiro forzoso del cargo se producirá en los mismos términos que para los magistrados del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+El Magistrado del Tribunal Unitario de Justicia para Adolescentes administrará sus recursos y propondrá su presupuesto de egresos al Titular del Poder Judicial, quien lo integrará al presupuesto de egresos de dicho poder. La fiscalización de sus recursos estará a cargo de la Entidad Superior de Fiscalización del Estado de Morelos.
 
-El Magistrado del Tribunal Unitario de Justicia para Adolescentes administrará sus recursos y propondrá su presupuesto de egresos al Titular del Poder Judicial, quien lo integrará al presupuesto de egresos de dicho poder. La fiscalización de sus recursos estará a cargo de la Auditoría Superior de Fiscalización del Congreso del Estado.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+Habrá un Magistrado titular y un suplente, así como el número de Jueces especializados que señale la Ley Orgánica que para tal efecto se expida. Tendrán competencia exclusiva para administrar justicia a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito por las leyes del Estado de Morelos. Los Jueces Especializados serán nombrados por el Magistrado del Tribunal Unitario de Justicia para Adolescentes, mediante convocatoria a examen de oposición calificado por el Centro Nacional de Evaluación para la Educación Superior, designando en el cargo a quienes obtengan las más altas evaluaciones en dicho examen. Una vez nombrados tienen los mismos derechos, obligaciones y prerrogativas que los demás jueces pertenecientes al Poder Judicial del Estado de Morelos.
 
-Habrá un Magistrado titular y un suplente, así como el número de Jueces especializados que señale la Ley Orgánica que para tal efecto se expida. Tendrán competencia exclusiva para administrar justicia a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito por las leyes del Estado de Morelos. Los Jueces Especializados serán nombrados por el Magistrado del Tribunal Unitario de Justicia para Adolescentes, mediante convocatoria a examen de oposición calificado por el Centro Nacional de Evaluación Superior (CENEVAL), designando en el cargo a quienes obtengan las más altas evaluaciones en dicho examen. Una vez nombrados tienen los mismos derechos, obligaciones y prerrogativas que los demás jueces pertenecientes al Poder Judicial del Estado de Morelos.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 824, PUBLICADO EN EL P.O. 16 DE JULIO DE 2008, LOS ANTERIORES PENÚLTIMO Y ÚLTIMO PÁRRAFOS, QUEDAN INTEGRADOS EN UNO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 824, PUBLICADO EN EL P.O. 16 DE JULIO DE 2008, LOS ANTERIORES PENÚLTIMO Y ÚLTIMO PÁRRAFOS, QUEDAN INTEGRADOS EN UNO.]</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -5114,7 +5126,7 @@ QUINTA. Las funciones, facultades, derechos y obligaciones establecidos a cargo 
 
 P.O. 30 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL DOSCIENTOS NOVENTA Y OCHO.- POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTICULO 114 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL DOSCIENTOS NOVENTA Y OCHO.- POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTICULO 114 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS".]
 
 PRIMERA.- Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), b) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -5133,3 +5145,17 @@ SEGUNDA. Las reformas, adiciones y derogaciones contenidas en el presente Decret
 TERCERA. Las reformas a la Ley Orgánica Municipal del Estado de Morelos y a la Ley General de Hacienda Municipal del Estado de Morelos, entrarán en vigor hasta el momento en que se haga la Declaratoria a que se refiere la disposición transitoria PRIMERA.
 
 CUARTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SEISCIENTOS TRECE POR EL QUE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DELA (SIC) CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Túrnese el presente Decreto a los demás miembros del Poder Reformador de la Constitución Política Local, en los términos que dispone el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Una vez aprobado por el Constituyente Permanente, la presente reforma formará parte de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+(NOTA: EL 13 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2017, DECLARÓ LA INVALIDEZ DE LA DISPOSICIÓN TRANSITORIA TERCERA DEL DECRETO NÚMERO 1613 INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+TERCERA. LOS MAGISTRADOS QUE SE ENCUENTREN EN FUNCIONES EN EL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE MORELOS, EN EL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS, ASÍ COMO LOS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, AL HACERSE LA DECLARATORIA A LA QUE SE REFIERE LA DISPOSICIÓN TRANSITORIA PRIMERA, POR ESTA ÚNICA OCASIÓN, DURARÁN EN SU ENCARGO HASTA CUMPLIR VEINTE AÑOS CONTADOS A PARTIR DE LA FECHA DE SU PRIMERA DESIGNACIÓN, SIN PERJUICIO DE LA APLICACIÓN DE LA DISPOSICIÓN CONSTITUCIONAL QUE ESTABLECE EL RETIRO FORZOSO POR RAZÓN DE EDAD Y GOZARÁN DEL HABER DE RETIRO EN LA FORMA Y TÉRMINOS QUE DETERMINEN LOS ORDENAMIENTOS CORRESPONDIENTES.
+
+CUARTA. En un plazo no mayor a los sesenta días hábiles, contados a partir de la Declaratoria a la que se refiere la Disposición Transitoria Primera, deberán hacerse las adecuaciones pertinentes a la legislación secundaria.
