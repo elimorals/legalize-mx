@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-310-del-sistema-estatal-de-seguridad-publica-103804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2015-08-07"
+last_updated: "2017-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 310 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 7 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 24 DE FEBRERO DE 2017.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 28 de noviembre de 2014.
 
@@ -497,9 +497,11 @@ V. Las demás que le otorgan esta ley y otros ordenamientos, así como las que s
 
 ### CAPÍTULO V. CONSEJOS DE SEGURIDAD PÚBLICA DE LOS MUNICIPIOS
 
+> <small>(REFORMADO, G.O. 24 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 42.
 
-Para la debida integración del Sistema Nacional y cumplir con sus objetivos y fines en los términos de la Ley General y la presente ley, los municipios establecerán Consejos de Seguridad Pública como instancia de deliberación, consulta y definición de políticas públicas en la materia, así como para dar seguimiento al cumplimiento de los acuerdos del Consejo Estatal.
+Para la debida integración del Sistema Nacional y cumplir con sus objetivos y fines en los términos de la Ley General y la presente Ley, los municipios establecerán Consejos de Seguridad Pública como instancia de coordinación, deliberación, consulta y definición de políticas públicas en la materia, así como para dar seguimiento al cumplimiento de los acuerdos del Consejo Estatal.
 
 ###### Artículo 43.
 
@@ -526,6 +528,10 @@ Los Consejos de Seguridad podrán invitar a representantes de las instituciones 
 Los Consejos de Seguridad, a fin de lograr los objetivos de la seguridad pública, tendrán las siguientes atribuciones:
 
 I. Expedir las bases para su organización y su funcionamiento;
+
+> <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2017)</small>
+
+I Bis. Analizar el índice delictivo del municipio, así como la problemática específica que presente para establecer un diagnóstico que permita orientar las políticas públicas municipales en la materia;
 
 II. Ejecutar, en lo conducente, los acuerdos, lineamientos y políticas emitidos por el Consejo Estatal, sin perjuicio de lo dispuesto por la Ley General;
 
@@ -581,9 +587,11 @@ III. Ejecutar y dar seguimiento a los acuerdos del Consejo de Seguridad; y
 
 IV. Las demás atribuciones que le otorgue el Consejo de Seguridad, esta ley y otras disposiciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 46.
 
-Los Consejos de Seguridad se reunirán en forma ordinaria a más tardar cada dos meses, y de manera extraordinaria en cualquier tiempo, a juicio de su Presidente. Al efecto, el Secretario Técnico, por instrucciones del Presidente, elaborará el orden del día y convocará por escrito a sus integrantes al menos tres días hábiles antes de la celebración de las sesiones ordinarias y un día hábil antes de las sesiones extraordinarias.
+Los Consejos de Seguridad se reunirán en forma ordinaria cada dos meses, y de manera extraordinaria en cualquier tiempo, a juicio de su Presidente. Al efecto, el Secretario Técnico, por instrucciones del Presidente, elaborará el orden del día y convocará por escrito a sus integrantes al menos tres días hábiles antes de la celebración de las sesiones ordinarias y un día hábil antes de las sesiones extraordinarias.
 
 Los acuerdos del Consejo se tomarán por mayoría simple de votos. En caso de empate, el Presidente tendrá voto de calidad.
 
@@ -2878,3 +2886,11 @@ SEGUNDO. Se otorga un término de noventa días al Ejecutivo del Estado para la 
 TERCERO. Se derogan todas las disposiciones que se contrapongan al presente Decreto.
 
 CUARTO. El Secretario de Seguridad Pública del Estado, en términos de la normativa aplicable, presentará un reporte trimestral al Ejecutivo del Estado, sobre el estado que guarden los procedimientos de quejas ciudadanas y denuncias instauradas ante la Comisión de Honor y Justicia a que hace referencia la Ley del Sistema Estatal de Seguridad Pública.
+
+G.O. 24 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 244 POR EL QUE SE REFORMA EL ARTÍCULO 42, SE ADICIONA UNA FRACCIÓN I BIS AL ARTÍCULO 44, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 46 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y QUE REFORMA LA FRACCIÓN XLVI DEL ARTÍCULO 35 Y LA FRACCIÓN XXIII DEL ARTÍCULO 36 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
