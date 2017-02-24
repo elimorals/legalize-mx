@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-archivos-generales-del-estado-y-los-722
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-24"
-last_updated: "2009-12-24"
+last_updated: "2017-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE ARCHIVOS GENERALES DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO PARA EL MUNICIPIO DE APASEO EL GRANDE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el jueves 24 de diciembre de 2009.
 
@@ -43,7 +43,7 @@ El presente reglamento es de orden público e interés general y tiene por objet
 
 ###### Artículo 2.
 
-El Archivo General Municipal impulsará la guarda, preservación, control, depuración y pleno aprovechamiento institucional y social del patrimonio archivistico municipal, comprendiendo en este los expedientes, documentos y registros de información que hayan sido producidos y acumulados por las dependencias y/o unidades administrativas del Municipio en el desempeño de sus actividades, conformando el acervo cultural permitiendo la investigación y conocimiento de los diversos aspectos de la historia y la realidad social, municipal, estatal y nacional.
+El Archivo General Municipal impulsará la guarda, preservación, control, depuración y pleno aprovechamiento institucional y social del patrimonio archivístico municipal, comprendiendo en este los expedientes, documentos y registros de información que hayan sido producidos y acumulados por las dependencias y/o unidades administrativas del Municipio en el desempeño de sus actividades, conformando el acervo cultural permitiendo la investigación y conocimiento de los diversos aspectos de la historia y la realidad social, municipal, estatal y nacional.
 
 ###### Artículo 3.
 
@@ -95,7 +95,7 @@ XXII.- Valoración.- Análisis e identificación del valor documental para estab
 
 XXIII.- Documento activo.- El documento que se encuentra en trámite o gestión administrativa;
 
-XXIV.- Documento semi-activo.- El documento tramitado y finiquitado; y, (sic)
+XXIV.- Documento semi-activo.- El documento tramitado y finiquitado; y,
 
 XXV.- Documento inactivo o histórico.- Última etapa del documento, tiene un valor permanente, su archivación y conservación será definitiva y su resguardo esta a cargo del archivo histórico;
 
@@ -119,7 +119,7 @@ II.- Los archivos de concentración de las dependencias y entidades de la Admini
 
 III.- Un archivo histórico.
 
-###### Articulo 6.
+###### Artículo 6.
 
 El Archivo General Municipal estará a cargo de un Titular que será el Coordinador General Municipal, quién será designado por el presidente municipal y fungirá como responsable del Archivo General Municipal, en los términos del artículo 14 de la Ley de Archivos Generales del Estado y los Municipios de Guanajuato.
 
@@ -161,7 +161,7 @@ II.- Establecer relaciones con instituciones nacionales e internacionales dedica
 
 III.- Representar al Municipio en el Sistema Estatal de Archivos Generales de Guanajuato;
 
-IV.- Programar reuniones de trabajo y realizar cursos de capacitación en materia archivistica, dirigidos a los encargados de las dependencias y entidades de la Administración Pública Municipal;
+IV.- Programar reuniones de trabajo y realizar cursos de capacitación en materia archivística, dirigidos a los encargados de las dependencias y entidades de la Administración Pública Municipal;
 
 V.- Realizar visitas a las áreas de archivo de las dependencias y entidades administrativas para emitir opinión respecto a su organización y funcionamiento;
 
@@ -211,7 +211,7 @@ X.- Coadyuvar con la Unidad de Acceso a la Información del Municipio con el obj
 
 XI.- Publicar trabajos sobre la materia archivística;
 
-XII.- Mantener actualizados, el cuadro general de clasificación, archivistica, el catálogo de disposición documental, así como el inventario general de las dependencias y entidades de la administración pública municipal;
+XII.- Mantener actualizados, el cuadro general de clasificación, archivística, el catálogo de disposición documental, así como el inventario general de las dependencias y entidades de la administración pública municipal;
 
 XIII.- Elaborar y mantener actualizados el directorio con los datos de los responsables de los archivos de trámite;
 
@@ -257,7 +257,7 @@ VI.- Las demás que le determinen las disposiciones jurídicas aplicables.
 
 Los servidores públicos de la Administración Pública Municipal, tendrán las siguientes obligaciones en materia archivística:
 
-l.- Custodiar la documentación e información a su cargo y a la que tenga acceso por razón de su empleo, cargo o comisión, asi como evitar e impedir el uso inadecuado, sustracción, modificación, destrucción y ocultamiento indebido de los mismos.
+l.- Custodiar la documentación e información a su cargo y a la que tenga acceso por razón de su empleo, cargo o comisión, así como evitar e impedir el uso inadecuado, sustracción, modificación, destrucción y ocultamiento indebido de los mismos.
 
 II.- Al término de su encargo, deberán entregar los archivos que se encuentren en su poder o bajo su resguardo, mediante la respectiva acta de entrega-recepción a la que integrarán el listado correspondiente; y
 
@@ -325,7 +325,7 @@ IV.- Conservar los expedientes por el tiempo que establezca el Catálogo de Disp
 
 V.- Realizar transferencias primarias al archivo de concentración, al concluir el plazo de conservación establecido para el archivo de trámite; y
 
-VI.- Mantener la guarda y depósito de la documentación y expedientes; (sic)
+VI.- Mantener la guarda y depósito de la documentación y expedientes;
 
 ###### Artículo 19.
 
@@ -391,13 +391,13 @@ Aquellos que deban darse de baja, será necesario que el Comité Técnico Consul
 
 #### Sección Tercera. Del Archivo Histórico
 
-###### Articulo 23.
+###### Artículo 23.
 
 Resguardo y conformación del archivo histórico.
 
 El archivo histórico estará bajo el resguardo del responsable del AGM y se conforma con los documentos históricos que transfieran las unidades, dependencias y entidades de la Administración Pública Municipal, así como con los acervos de apoyo hemerográfico, bibliográfico, fotográfico y cartográfico.
 
-###### Articulo 24.
+###### Artículo 24.
 
 Funciones del área de archivo histórico
 
@@ -413,9 +413,9 @@ IV.- Elaborar y actualizar guías y catálogos con el propósito de facilitar la
 
 V.- Resguardar los inventarios de transferencia secundaria; y
 
-VI.- Establecer el mecanismo de control y servicio de consulta; (sic)
+VI.- Establecer el mecanismo de control y servicio de consulta;
 
-###### Articulo 25.
+###### Artículo 25.
 
 Medidas de seguridad para la consulta en el archivo histórico
 
@@ -507,13 +507,13 @@ Las solicitudes de préstamos documentales será por medio del Archivo General M
 
 La documentación proporcionada en calidad de préstamo por parte del Archivo General Municipal a las unidades administrativas generadoras de la información misma, deberá ser devuelta al AGM dentro de los quince días hábiles siguientes a la fecha en que fue otorgada en calidad de préstamo, misma que deberá ser devuelta en las mismas condiciones en las que fue prestada.
 
-###### Articulo 33.
+###### Artículo 33.
 
 El Archivo General Municipal proporcionara al público el servicio de consulta interna de los acervos documentales, históricos, hemerográficos, bibliográficos, fotográficos, discográficos y de mapas, previa solicitud e identificación vigente por parte del consultante, sujetándose a las normas que para el efecto establezca el presente reglamento.
 
 #### Sección Primera. Del Cuadro General de Clasificación Archivística
 
-###### Articulo 34.
+###### Artículo 34.
 
 Contenido del Cuadro General de Clasificación Archivística
 
@@ -687,7 +687,7 @@ V.- El Contralor de la Administración Pública Municipal;
 
 VI.- El Director de la dependencia o entidad administrativa pública municipal; y
 
-VII.- Un historiador; (sic)
+VII.- Un historiador;
 
 Los integrantes a que se refieren las fracciones III y VI serán designados y removidos por el Secretario del H. Ayuntamiento.
 
@@ -801,13 +801,13 @@ Una vez autorizada la baja documental, se procederá a su ejecución, levantando
 
 La violación que haga el personal adscrito al Archivo General Municipal, en relación a lo previsto por el presente reglamento, constituirá falta administrativa grave, será sancionada en los términos del artículo 8 de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 61.
 
-La persona, que de acuerdo a lo regulado por el presente reglamento sea responsable de la extracción de un documento, y no lo devuelva en el plazo estipulado, podrá ser sancionada con una multa equivalente de 10 hasta 500 salarios mínimos vigentes en la zona económica, sin prejuicio de las sanciones penales que por su conducta se deriven.
+La persona, que de acuerdo a lo regulado por el presente reglamento sea responsable de la extracción de un documento, y no lo devuelva en el plazo estipulado, podrá ser sancionada con una multa equivalente de 10 hasta 500 veces la unidad de medida y actualización, sin prejuicio de las sanciones penales que por su conducta se deriven.
 
-La multa prevista en el párrafo anterior se hará efectiva por conducto de la
-
-Tesorería Municipal.
+La multa prevista en el párrafo anterior se hará efectiva por conducto de la Tesorería Municipal.
 
 ### Capítulo X. Del Recurso y de los Medios de Impugnación
 
@@ -833,6 +833,14 @@ DR. ERNESTO MUÑOZ LEDO OLIVEROS
 
 Presidente Municipal
 
-LIC. JUAN ANTONIO GARCÍA OLVIEROS
+LIC. JUAN ANTONIO GARCÍA OLIVEROS
 
 Secretario del H. Ayuntamiento
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL H. AYUNTAMIENTO DE APASEO EL GRANDE, GTO., MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSOS REGLAMENTOS DE ESE MUNICIPIO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación.
