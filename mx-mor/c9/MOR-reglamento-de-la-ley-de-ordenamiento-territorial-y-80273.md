@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-ordenamiento-territorial-y-80273"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-11"
-last_updated: "2015-08-05"
+last_updated: "2017-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, EN MATERIA DE ORDENAMIENTO TERRITORIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 11 de marzo de 2011.
 
@@ -77,7 +77,7 @@ II. CALLE: Franja de tierra de uso público, limitada por diversos predios edifi
 
 III. CARRETERA: Vía pavimentada sobre una superficie continua de dominio y uso púbico (sic) para la circulación de vehículos que comunica poblados y ciudades, diferenciándolas en Estatales y Federales;
 
-IV. INFORMACIÓN GEOGRÁFICA: Es una integración organizada de hadware, software y datos geográficos diseñada para capturar, almacenar, manipular, analizar y desplegar en todas sus formas la información geográficamente referenciada con el fin de resolver problemas complejos de planeación urbana y gestión;
+IV. INFORMACIÓN GEOGRÁFICA: Es una integración organizada de hardware, software y datos geográficos diseñada para capturar, almacenar, manipular, analizar y desplegar en todas sus formas la información geográficamente referenciada con el fin de resolver problemas complejos de planeación urbana y gestión;
 
 V. LEY: Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, y
 
@@ -525,6 +525,10 @@ XII. SISTEMA DE INFORMACIÓN PARA EL DESARROLLO URBANO.
 
 Para la aprobación y formulación del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, la Secretaría será responsable de asegurar que se cumpla con el procedimiento establecido en el artículo 36 de la Ley.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+Para efecto de dar continuidad del procedimiento de formulación del Programa a que se refiere el párrafo anterior, se tomará en consideración la publicación oficial de que se trate; esto, sin demérito de las publicaciones en los diarios de mayor circulación a que alude el artículo 36 de la Ley, las que preferentemente se realizarán de manera simultánea, sin que su desfase pueda restarle validez a la publicación oficial; respetando en todo caso el derecho de la ciudadanía a participar en las consultas públicas, en particular para las mujeres, jóvenes y personas en situación de vulnerabilidad, y con base en el acceso a información transparente, completa y oportuna. Será deseable que los foros de consulta pública a que se refiere la Ley, tengan lugar dentro del plazo legal de por lo menos 60 días naturales, pero su celebración fuera del mismo no implica conculcar el derecho de consulta de la ciudadanía.
+
 Para efectos de su difusión corresponde a la Secretaría editar el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, además de que pondrá a disposición del público en general un ejemplar para consulta en sus oficinas.
 
 #### SECCIÓN SEGUNDA. OTROS PROGRAMAS
@@ -625,13 +629,17 @@ Los Municipios al formular sus Programas de Desarrollo Urbano Sustentable, deber
 
 #### SECCIÓN TERCERA. DICTÁMENES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 32.
 
-El Dictamen de Congruencia que la Secretaría deberá emitir como proceso de validación jurídico administrativa de los Programas Municipales de Desarrollo Urbano Sustentable en relación con el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, en términos del artículo 44 de la Ley, se ajustará a lo siguiente:
+El Dictamen de Congruencia con el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, que la Secretaría deberá emitir como proceso de validación jurídico administrativa de los Programas Municipales de Desarrollo Urbano Sustentable, así como los que de éstos se deriven, en términos del artículo 44 de la Ley, se ajustará a lo siguiente:
 
 I. La formulación de todo Programa Municipal de Desarrollo Urbano Sustentable deberá ser realizada conforme al contenido establecido en el presente Reglamento y ajustarse a lo señalado en el Programa Estatal de Ordenamiento Territorial y Desarrollo urbano Sustentable y, en su caso, al Programa de Ordenación de zona conurbada intermunicipal correspondiente;
 
-II. La publicación en la Gaceta Municipal a que refiere el artículo 44 de la Ley, para los casos en que los Municipios no cuenten con ese medio oficial de difusión, se podrá realizar en el Periódico Oficial del Gobierno del Estado “Tierra y Libertad”;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2017)</small>
+
+II. La publicación en la Gaceta Municipal a que refiere el artículo 44 de la Ley, para los casos en que los Municipios no cuenten con ese medio oficial de difusión, se podrá realizar en el Periódico Oficial del Gobierno del Estado “Tierra y Libertad”. Así mismo, para efecto de dar continuidad del procedimiento de formulación del Programa de que se trate, se tomará en consideración la publicación oficial respectiva; esto, sin demérito de las publicaciones en los diarios de mayor circulación a que alude el citado artículo 44 de la Ley, las que preferentemente se realizarán de manera simultánea, sin que su desfase pueda restarle validez a la publicación oficial; respetando en todo caso el derecho de la ciudadanía a participar en las consultas públicas, en particular para las mujeres, jóvenes y personas en situación de vulnerabilidad, y con base en el acceso a información transparente, completa y oportuna. Será deseable que los foros de consulta pública a que se refiere la Ley, tengan lugar dentro del plazo legal de por lo menos 60 días naturales, pero su celebración fuera del mismo no implica conculcar el derecho de consulta de la ciudadanía;
 
 III. La Secretaría previo a la emisión del Dictamen de Congruencia verificará si el Municipio de que se trate se ajustó al procedimiento señalado al efecto en el artículo 44 de la Ley;
 
@@ -702,6 +710,10 @@ La Secretaría dará respuesta por escrito, aceptando la cancelación siempre y 
 ###### Artículo 37.
 
 Para la aprobación de los Programas de Ordenación de las Zonas Conurbadas Intermunicipales, se deberá haber cumplido con el procedimiento y requisitos establecidos en el artículo 37 de la Ley, y asegurarse de tal situación, de manera específica, a la Secretaría para que pueda emitir el respectivo Dictamen de Congruencia, hecho lo cual enviará el Programa al titular del Ejecutivo del Estado para la correspondiente publicación y registro.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+Para efecto de dar continuidad del procedimiento de formulación de los Programas a que se refiere el párrafo anterior, se tomará en consideración la publicación oficial de que se trate; esto, sin demérito de las publicaciones en los diarios de mayor circulación a que alude el artículo 37 de la Ley, las que preferentemente se realizarán de manera simultánea, sin que su desfase pueda restarle validez a la publicación oficial; respetando en todo caso el derecho de la ciudadanía a participar en las consultas públicas, en particular para las mujeres, jóvenes y personas en situación de vulnerabilidad, y con base en el acceso a información transparente, completa y oportuna. Será deseable que los foros de consulta pública a que se refiere la Ley, tengan lugar dentro del plazo legal de por lo menos 60 días naturales, pero su celebración fuera del mismo no implica conculcar el derecho de consulta de la ciudadanía.
 
 ### CAPÍTULO QUINTO. FUNDACIÓN Y CRECIMIENTO DE LOS CENTROS DE POBLACIÓN
 
@@ -803,9 +815,13 @@ IV. La población en general también podrá presentar propuestas y proyectos qu
 
 V. La autoridad tendrá que dar respuesta por escrito a todos los planteamientos improcedentes, determinando los motivos y fundamentos legales del caso.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 46.
 
-El proceso de formulación y modificación del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable contempla la participación de la sociedad mediante la consulta pública, la cual será abierta a toda la ciudadanía durante un periodo de sesenta días naturales, para cuyo efecto se realizarán tres foros de consulta pública donde se recibirán planteamientos por escrito y de manera verbal, que servirán para enriquecer, modificar o complementar el referido Programa.
+El proceso de formulación y modificación del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable contempla la participación de la sociedad mediante la consulta pública, la cual será abierta a toda la ciudadanía durante un periodo de sesenta días naturales.
+
+Se realizarán tres foros de consulta pública donde se recibirán planteamientos por escrito y de manera verbal, que servirán para enriquecer, modificar o complementar el referido Programa.
 
 ###### Artículo 47.
 
@@ -1021,10 +1037,20 @@ ARQ. DEMETRIO ROMÁN ISIDORO.
 
 RÚBRICA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 5 DE AGOSTO DE 2015.
 
 PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS EN MATERIA DE ORDENAMIENTO TERRITORIAL".]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
+
+TERCERA. A los programas a que se refiere el presente Decreto, que vayan a iniciarse, se encuentren en trámite o haya sido iniciado su procedimiento con anterioridad a la vigencia de este Decreto, les resultarán aplicables las reformas objeto del mismo, siendo convalidados por legalidad sobrevenida para los efectos (sic) que haya lugar, en su caso.
