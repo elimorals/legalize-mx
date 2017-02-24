@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2016-12-30"
+last_updated: "2017-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE FEBRERO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -617,9 +617,9 @@ XXI. Rendir al Ayuntamiento, en el mes de diciembre, un informe anual sobre el e
 
 XXII. Promover la educación cívica y la celebración de ceremonias públicas conforme al calendario cívico oficial;
 
-> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 24 DE FEBRERO DE 2017)</small>
 
-XXIII. Presidir el Consejo Municipal de Protección Civil;
+XXIII. Presidir los Consejos Municipales de Protección Civil y Seguridad Pública;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -3905,8 +3905,16 @@ SÉPTIMO Las donaciones, compensaciones, multas o cuotas voluntarias de los trá
 
 G.O. 30 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 230 QUE ADICIONA LA FRACCIÓN XXVII AL ARTÍCULO 40 Y EL ARTÍCULO 60 DUODECIES EN LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 230 QUE ADICIONA LA FRACCIÓN XXVII AL ARTÍCULO 40 Y EL ARTÍCULO 60 DUODECIES EN LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 24 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244 POR EL QUE SE REFORMA EL ARTÍCULO 42, SE ADICIONA UNA FRACCIÓN I BIS AL ARTÍCULO 44, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 46 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y QUE REFORMA LA FRACCIÓN XLVI DEL ARTÍCULO 35 Y LA FRACCIÓN XXIII DEL ARTÍCULO 36 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
