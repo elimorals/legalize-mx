@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2017-02-05"
+last_updated: "2017-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2017.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -528,8 +530,6 @@ La correspondencia que bajo cubierta circule por las estafetas estará libre de 
 
 En tiempo de paz ningún miembro del Ejército podrá alojarse en casa particular contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
 
-(VÉASE ARCHIVO ANEXO)
-
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
 ###### Art. 17.
@@ -611,8 +611,6 @@ Todo proceso se seguirá forzosamente por el hecho o hechos delictivos señalado
 Si con posterioridad a la emisión del auto de vinculación a proceso por delincuencia organizada el inculpado evade la acción de la justicia o es puesto a disposición de otro juez que lo reclame en el extranjero, se suspenderá el proceso junto con los plazos para la prescripción de la acción penal.
 
 Todo mal tratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución, en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
-
-(VÉASE ARCHIVO ANEXO)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008; ASÍ COMO, POR LO QUE CORRESPONDE AL PRIMER PÁRRAFO DE LA FRACCIÓN V DEL APARTADO C DE ESTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2011, AMBOS QUE MODIFICAN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
@@ -3586,23 +3584,17 @@ En caso de incumplimiento de las resoluciones a que se refieren las fracciones I
 
 Corresponde al Poder Judicial de la Federación, en los términos de la ley respectiva, dirimir las controversias que, por razón de competencia, se susciten entre los Tribunales de la Federación, entre éstos y los de las entidades federativas o entre los de una entidad federativa y otra.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 ###### Art. 107.
 
 Las controversias de que habla el artículo 103 de esta Constitución, con excepción de aquellas en materia electoral, se sujetarán a los procedimientos que determine la ley reglamentaria, de acuerdo con las bases siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 I.- El juicio de amparo se seguirá siempre a instancia de parte agraviada, teniendo tal carácter quien aduce ser titular de un derecho o de un interés legítimo individual o colectivo, siempre que alegue que el acto reclamado viola los derechos reconocidos por esta Constitución y con ello se afecte su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico.
 
 Tratándose de actos o resoluciones provenientes de tribunales judiciales, administrativos o del trabajo, el quejoso deberá aducir ser titular de un derecho subjetivo que se afecte de manera personal y directa;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -3624,8 +3616,6 @@ En los juicios a que se refiere el párrafo anterior no procederán, en perjuici
 
 III.- Cuando se reclamen actos de tribunales judiciales, administrativos o del trabajo, el amparo sólo procederá en los casos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 a).- Contra sentencias definitivas, laudos y resoluciones que pongan fin al juicio, ya sea que la violación se cometa en ellos o que, cometida durante el procedimiento, afecte las defensas del quejoso trascendiendo al resultado del fallo. En relación con el amparo al que se refiere este inciso y la fracción V de este artículo, el Tribunal Colegiado de Circuito deberá decidir respecto de todas las violaciones procesales que se hicieron valer y aquéllas que, cuando proceda, advierta en suplencia de la queja, y fijará los términos precisos en que deberá pronunciarse la nueva resolución. Si las violaciones procesales no se invocaron en un primer amparo, ni el Tribunal Colegiado correspondiente las hizo valer de oficio en los casos en que proceda la suplencia de la queja, no podrán ser materia de concepto de violación, ni de estudio oficioso en juicio de amparo posterior.
@@ -3640,15 +3630,11 @@ b).- Contra actos en juicio cuya ejecución sea de imposible reparación, fuera 
 
 c).- Contra actos que afecten a personas extrañas al juicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 IV.- En materia administrativa el amparo procede, además, contra actos u omisiones que provengan de autoridades distintas de los tribunales judiciales, administrativos o del trabajo, y que causen agravio no reparable mediante algún medio de defensa legal. Será necesario agotar estos medios de defensa siempre que conforme a las mismas leyes se suspendan los efectos de dichos actos de oficio o mediante la interposición del juicio, recurso o medio de defensa legal que haga valer el agraviado, con los mismos alcances que los que prevé la ley reglamentaria y sin exigir mayores requisitos que los que la misma consigna para conceder la suspensión definitiva, ni plazo mayor que el que establece para el otorgamiento de la suspensión provisional, independientemente de que el acto en sí mismo considerado sea o no susceptible de ser suspendido de acuerdo con dicha ley.
 
 No existe obligación de agotar tales recursos o medios de defensa si el acto reclamado carece de fundamentación o cuando sólo se aleguen violaciones directas a esta Constitución;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -3668,21 +3654,17 @@ c).- En materia civil, cuando se reclamen sentencias definitivas dictadas en jui
 
 En los juicios civiles del orden federal las sentencias podrán ser reclamadas en amparo por cualquiera de las partes, incluso por la Federación, en defensa de sus intereses patrimoniales, y
 
-> <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2017)</small>
 
-d).- En materia laboral, cuando se reclamen laudos dictados por las Juntas Locales o la Federal de Conciliación y Arbitraje, o por el Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado.
+d).- En materia laboral, cuando se reclamen resoluciones o sentencias definitivas que pongan fin al juicio dictadas por los tribunales laborales locales o federales o laudos del Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y sus homólogos en las entidades federativas;
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, del Fiscal General de la República, en los asuntos en que el Ministerio Público de la Federación sea parte, o del Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, podrá conocer de los amparos directos que por su interés y trascendencia así lo ameriten.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 VI.- En los casos a que se refiere la fracción anterior, la ley reglamentaria señalará el procedimiento y los términos a que deberán someterse los Tribunales Colegiados de Circuito y, en su caso, la Suprema Corte de Justicia de la Nación para dictar sus resoluciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -3691,8 +3673,6 @@ VII.- El amparo contra actos u omisiones en juicio, fuera de juicio o después d
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 VIII.- Contra las sentencias que pronuncien en amparo los Jueces de Distrito o los Tribunales Unitarios de Circuito procede revisión. De ella conocerá la Suprema Corte de Justicia:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -3710,13 +3690,9 @@ La Suprema Corte de Justicia, de oficio o a petición fundada del correspondient
 
 En los casos no previstos en los párrafos anteriores, conocerán de la revisión los tribunales colegiados de circuito y sus sentencias no admitirán recurso alguno.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 IX.- En materia de amparo directo procede el recurso de revisión en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales, establezcan la interpretación directa de un precepto de esta Constitución u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que fijen un criterio de importancia y trascendencia, según lo disponga la Suprema Corte de Justicia de la Nación, en cumplimiento de los acuerdos generales del Pleno. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales, sin poder comprender otras;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -3738,8 +3714,6 @@ Si el Juez de Distrito o el Tribunal Unitario de Circuito no residieren en el mi
 
 XIII.- Cuando los Tribunales Colegiados de un mismo Circuito sustenten tesis contradictorias en los juicios de amparo de su competencia, el Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, los mencionados tribunales y sus integrantes, los Jueces de Distrito, las partes en los asuntos que los motivaron o el Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, podrán denunciar la contradicción ante el Pleno del Circuito correspondiente, a fin de que decida la tesis que debe prevalecer como jurisprudencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 Cuando los Plenos de Circuito de distintos Circuitos, los Plenos de Circuito en materia especializada de un mismo Circuito o los Tribunales Colegiados de un mismo Circuito con diferente especialización sustenten tesis contradictorias al resolver las contradicciones o los asuntos de su competencia, según corresponda, los Ministros de la Suprema Corte de Justicia de la Nación, los mismos Plenos de Circuito, así como los órganos a que se refiere el párrafo anterior, podrán denunciar la contradicción ante la Suprema Corte de Justicia, con el objeto de que el Pleno o la Sala respectiva, decida la tesis que deberá prevalecer.
@@ -3748,21 +3722,15 @@ Cuando los Plenos de Circuito de distintos Circuitos, los Plenos de Circuito en 
 
 Cuando las Salas de la Suprema Corte de Justicia de la Nación sustenten tesis contradictorias en los juicios de amparo cuyo conocimiento les competa, los ministros, los Tribunales Colegiados de Circuito y sus integrantes, los Jueces de Distrito, el Fiscal General de la República, en asuntos en materia penal y procesal penal, así como los relacionados con el ámbito de sus funciones, el Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, o las partes en los asuntos que las motivaron, podrán denunciar la contradicción ante el Pleno de la Suprema Corte, conforme a la ley reglamentaria, para que éste resuelva la contradicción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 Las resoluciones que pronuncien el Pleno o las Salas de la Suprema Corte de Justicia así como los Plenos de Circuito conforme a los párrafos anteriores, sólo tendrán el efecto de fijar la jurisprudencia y no afectarán las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 XIV.- (DEROGADA, D.O.F. 6 DE JUNIO DE 2011)
 
 > <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 XV.- El Fiscal General de la República o el Agente del Ministerio Público de la Federación que al efecto designe, será parte en todos los juicios de amparo en los que el acto reclamado provenga de procedimientos del orden penal y aquéllos que determine la ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -3774,13 +3742,9 @@ El cumplimiento sustituto de las sentencias de amparo podrá ser solicitado por 
 
 No podrá archivarse juicio de amparo alguno, sin que se haya cumplido la sentencia que concedió la protección constitucional;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 XVII.- La autoridad responsable que desobedezca un auto de suspensión o que, ante tal medida, admita por mala fe o negligencia fianza o contrafianza que resulte ilusoria o insuficiente, será sancionada penalmente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 XVIII.- (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 1993) (REPUBLICADA DEROGACIÓN, D.O.F. 6 DE JUNIO DE 2011)
 
@@ -4662,21 +4626,51 @@ XVI.- Tanto los obreros como los empresarios tendrán derecho para coaligarse en
 
 XVII.- Las leyes reconocerán como un derecho de los obreros y de los patronos, las huelgas y los paros.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1938)</small>
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2017)</small>
 
-XVIII.- Las huelgas serán lícitas cuando tengan por objeto conseguir el equilibrio entre los diversos factores de la producción, armonizando los derechos del trabajo con los del capital. En los servicios públicos será obligatorio para los trabajadores dar aviso, con diez días de anticipación, a la Junta de Conciliación y Arbitraje, de la fecha señalada para la suspensión del trabajo. Las huelgas serán consideradas como ilícitas únicamente cuando la mayoría de los huelguistas ejerciera actos violentos contra las personas o las propiedades, o en caso de guerra, cuando aquéllos pertenezcan a los establecimientos y servicios que dependan del Gobierno.
+XVIII.- Las huelgas serán lícitas cuando tengan por objeto conseguir el equilibrio entre los diversos factores de la producción, armonizando los derechos del trabajo con los del capital. En los servicios públicos será obligatorio para los trabajadores dar aviso, con diez días de anticipación, a los tribunales laborales, de la fecha señalada para la suspensión del trabajo. Las huelgas serán consideradas como ilícitas únicamente cuando la mayoría de los huelguistas ejerciera actos violentos contra las personas o las propiedades, o en caso de guerra, cuando aquéllos pertenezcan a los establecimientos y servicios que dependan del Gobierno.
 
-XIX.- Los paros serán lícitos únicamente cuando el exceso de producción haga necesario suspender el trabajo para mantener los precios en un límite costeable, previa aprobación de la Junta de Conciliación y Arbitraje.
+Cuando se trate de obtener la celebración de un contrato colectivo de trabajo se deberá acreditar que se cuenta con la representación de los trabajadores.
 
-XX.- Las diferencias o los conflictos entre el capital y el trabajo, se sujetarán a la decisión de una Junta de Conciliación y Arbitraje, formada por igual número de representantes de los obreros y de los patronos, y uno del Gobierno.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2017)</small>
 
-> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
+XIX.- Los paros serán lícitos únicamente cuando el exceso de producción haga necesario suspender el trabajo para mantener los precios en un límite costeable, previa aprobación de los tribunales laborales.
 
-XXI.- Si el patrono se negare a someter sus diferencias al arbitraje o a aceptar el laudo pronunciado por la Junta, se dará por terminado el contrato de trabajo y quedará abligado (sic) a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Esta disposición no será aplicable en los casos de las acciones consignadas en la fracción siguiente. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo.
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2017)</small>
+
+XX.- La resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo de los tribunales laborales del Poder Judicial de la Federación o de las entidades federativas, cuyos integrantes serán designados atendiendo a lo dispuesto en los artículos 94, 97, 116 fracción III, y 122 Apartado A, fracción IV de esta Constitución, según corresponda, y deberán contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
+Antes de acudir a los tribunales laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria correspondiente. En el orden local, la función conciliatoria estará a cargo de los Centros de Conciliación, especializados e imparciales que se instituyan en las entidades federativas. Dichos centros tendrán personalidad jurídica y patrimonio propios. Contarán con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirán por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en las leyes locales.
+
+La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria, con fecha y hora debidamente fijadas de manera expedita. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto. La ley establecerá las reglas para que los convenios laborales adquieran condición de cosa juzgada, así como para su ejecución.
+
+En el orden federal, la función conciliatoria estará a cargo de un organismo descentralizado. Al organismo descentralizado le corresponderá además, el registro de todos los contratos colectivos de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados.
+
+El organismo descentralizado a que se refiere el párrafo anterior contará con personalidad jurídica y patrimonio propios, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en la ley de la materia.
+
+Para la designación del titular del organismo descentralizado a que se refiere el párrafo anterior, el Ejecutivo Federal someterá una terna a consideración de la Cámara de Senadores, la cual previa comparecencia de las personas propuestas, realizará la designación correspondiente. La designación se hará por el voto de las dos terceras partes de los integrantes de la Cámara de Senadores presentes, dentro del improrrogable plazo de treinta días. Si la Cámara de Senadores no resolviere dentro de dicho plazo, ocupará el cargo aquél que, dentro de dicha terna, designe el Ejecutivo Federal.
+
+En caso de que la Cámara de Senadores rechace la totalidad de la terna propuesta, el Ejecutivo Federal someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Ejecutivo Federal.
+
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; y que goce de buena reputación y no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por períodos de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo. Sólo podrá ser removido por causa grave en los términos del Título IV de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2017)</small>
+
+XXI.- Si el patrono se negare a someter sus diferencias al arbitraje o a cumplir con la resolución, se dará por terminado el contrato de trabajo y quedará obligado a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Esta disposición no será aplicable en los casos de las acciones consignadas en la fracción siguiente. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo.
 
 > <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
 
 XXII.- El patrono que despida a un obrero sin causa justificada o por haber ingresado a una asociación o sindicato, o por haber tomado parte en una huelga lícita, estará obligado, a elección del trabajador, a cumplir el contrato o a indemnizarlo con el importe de tres meses de salario. La Ley determinará los casos en que el patrono podrá ser eximido de la obligación de cumplir el contrato, mediante el pago de una indemnización. Igualmente tendrá la obligación de indemnizar al trabajador con el importe de tres meses de salario, cuando se retire del servicio por falta de probidad del patrono o por recibir de él malos tratamientos, ya sea en su persona o en la de su cónyuge, padres, hijos o hermanos. El patrono no podrá eximirse de esta responsabilidad, cuando los malos tratamientos provengan de dependientes o familiares que obren con el consentimieto (sic) o tolerancia de él.
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2017)</small>
+
+XXII Bis.- Los procedimientos y requisitos que establezca la ley para asegurar la libertad de negociación colectiva y los legítimos intereses de trabajadores y patrones, deberán garantizar, entre otros, los siguientes principios:
+
+a) Representatividad de las organizaciones sindicales, y
+
+b) Certeza en la firma, registro y depósito de los contratos colectivos de trabajo.
+
+Para la resolución de conflictos entre sindicatos, la solicitud de celebración de un contrato colectivo de trabajo y la elección de dirigentes, el voto de los trabajadores será personal, libre y secreto. La ley garantizará el cumplimiento de estos principios. Con base en lo anterior, para la elección de dirigentes, los estatutos sindicales podrán, de conformidad con lo dispuesto en la ley, fijar modalidades procedimentales aplicables a los respectivos procesos.
 
 XXIII.- Los créditos en favor de los trabajadores por salario o sueldos devengados en el último año, y por indemnizaciones, tendrán preferencia sobre cualquiera otros en los casos de concurso o de quiebra.
 
@@ -4694,7 +4688,9 @@ XXVII.- Serán condiciones nulas y no obligarán a los contrayentes, aunque se e
 
 (a). Las que estipulen una jornada inhumana por lo notoriamente excesiva, dada la índole del trabajo.
 
-(b). Las que fijen un salario que no sea remunerador a juicio de las Juntas de Conciliación y Arbitraje.
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2017)</small>
+
+(b). Las que fijen un salario que no sea remunerador a juicio de los tribunales laborales.
 
 (c). Las que estipulen un plazo mayor de una semana para la percepción del jornal.
 
@@ -4822,9 +4818,21 @@ b) Empresas:
 
 3.- Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
+> <small>(ADICIONADO [N. DE E. CON LOS NUMERALES QUE LO INTEGRAN], D.O.F. 24 DE FEBRERO DE 2017)</small>
 
-También será competencia exclusiva de las autoridades federales, la aplicación de las disposiciones de trabajo en los asuntos relativos a conflictos que afecten a dos o más Entidades Federativas; contratos colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa; obligaciones patronales en materia educativa, en los términos de Ley; y respecto a las obligaciones de los patrones en materia de capacitación y adiestramiento de sus trabajadores, así como de seguridad e higiene en los centros de trabajo, para lo cual, las autoridades federales contarán con el auxilio de las estatales, cuando se trate de ramas o actividades de jurisdicción local, en los términos de la ley reglamentaria correspondiente.
+c) Materias:
+
+1. El registro de todos los contratos colectivos de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados;
+
+2. La aplicación de las disposiciones de trabajo en los asuntos relativos a conflictos que afecten a dos o más entidades federativas;
+
+3. Contratos colectivos que hayan sido declarados obligatorios en más de una entidad federativa;
+
+4. Obligaciones patronales en materia educativa, en los términos de ley, y
+
+5. Obligaciones de los patrones en materia de capacitación y adiestramiento de sus trabajadores, así como de seguridad e higiene en los centros de trabajo, para lo cual, las autoridades federales contarán con el auxilio de las estatales, cuando se trate de ramas o actividades de jurisdicción local, en los términos de la ley correspondiente.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2017)</small>
 
 > <small>[N. DE E. EN RELACIÓN CON LAS PARTICULARIDADES DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -8109,3 +8117,25 @@ b) Las bases para la organización y funcionamiento de la justicia cívica en la
 c) Los mecanismos de acceso a la justicia cívica e itinerante y la obligación de las autoridades de cumplir con los principios previstos por la ley.
 
 Las legislaturas de las entidades federativas proveerán de los recursos necesarios para cumplir con lo dispuesto en el presente artículo transitorio.
+
+D.O.F. 24 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARAN REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 107 Y 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE JUSTICIA LABORAL”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Congreso de la Unión y las legislaturas de las entidades federativas deberán realizar las adecuaciones legislativas que correspondan para dar cumplimiento a lo previsto en el presente Decreto, dentro del año siguiente a la entrada en vigor del mismo.
+
+Tercero. En tanto se instituyen e inician operaciones los tribunales laborales, los Centros de Conciliación y el organismo descentralizado a que se refiere el presente Decreto, de conformidad con el transitorio anterior, las Juntas de Conciliación y Arbitraje y, en su caso, la Secretaría del Trabajo y Previsión Social o las autoridades locales laborales, continuarán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de los contratos colectivos de trabajo y de organizaciones sindicales.
+
+Los Tribunales Colegiados de Circuito del Poder Judicial de la Federación continuarán conociendo de los amparos interpuestos en contra de los laudos emitidos por las referidas Juntas en términos de lo previsto por la fracción V del artículo 107 de esta Constitución.
+
+Los asuntos que estuvieran en trámite al momento de iniciar sus funciones los tribunales laborales, los Centros de Conciliación y el organismo descentralizado a que se refiere el presente Decreto, serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
+
+Cuarto. Dentro del plazo a que se refiere el artículo segundo transitorio de este Decreto, el Ejecutivo Federal someterá a la Cámara de Senadores la terna para la designación del titular del organismo descentralizado que se encargará de atender los asuntos relacionados con el registro de contratos colectivos de trabajo y organizaciones sindicales.
+
+Quinto. En cualquier caso, los derechos de los trabajadores que tienen a su cargo la atención de los asuntos a que se refiere el primer párrafo del artículo tercero transitorio, se respetarán conforme a la ley.
+
+Sexto. Las autoridades competentes y las Juntas de Conciliación y Arbitraje deberán transferir los procedimientos, expedientes y documentación que, en el ámbito de sus respectivas competencias, tengan bajo su atención o resguardo a los tribunales laborales y a los Centros de Conciliación que se encargarán de resolver las diferencias y los conflictos entre patrones y trabajadores.
+
+Asimismo, las autoridades competentes y las Juntas de Conciliación y Arbitraje deberán transferir los expedientes y documentación que, en el ámbito de sus respectivas competencias tengan bajo su atención o resguardo, al organismo descentralizado que se encargará de atender los asuntos relacionados con el registro de contratos colectivos de trabajo y organizaciones sindicales.
