@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-dictaminacion-en-materia-de-riesgos-del-6464
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-10"
-last_updated: "2008-12-10"
+last_updated: "2017-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-09-30"
 ---
 # REGLAMENTO PARA LA DICTAMINACION EN MATERIA DE RIESGOS DEL TRABAJO E INVALIDEZ DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-REGLAMENTO PARA LA DICTAMINACION EN MATERIA DE RIESGOS DEL TRABAJO E INVALIDEZ DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA DICTAMINACIÓN EN MATERIA DE RIESGOS DEL TRABAJO E INVALIDEZ DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 24 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA LA DICTAMINACIÓN EN MATERIA DE RIESGOS DEL TRABAJO E INVALIDEZ DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de diciembre de 2008.
 
@@ -980,3 +982,13 @@ Lo que me permito hacer de su conocimiento, para los efectos legales procedentes
 Atentamente
 
 México, D.F., a 30 de septiembre de 2008.- El Secretario, José Enrique Ampudia Mello.- Rúbrica.
+
+D.O.F. 24 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 43.1356.2016 DE LA JUNTA DIRECTIVA POR EL QUE SE APRUEBA EL REGLAMENTO PARA LA DICTAMINACIÓN EN MATERIA DE RIESGOS DEL TRABAJO E INVALIDEZ DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A partir de la entrada en vigor de este Reglamento, se abroga el Reglamento para la Dictaminación en Materia de Riesgos de Trabajo e Invalidez, Publicado en Diario Oficial de la Federación el 10 de diciembre de 2008.
+
+TERCERO.- Los procedimientos que se encuentren en trámite a la entrada en vigor de este instrumento normativo, continuaran en apego a la normatividad que se deroga.”
