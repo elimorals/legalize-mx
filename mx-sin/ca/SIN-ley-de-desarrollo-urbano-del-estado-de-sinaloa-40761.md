@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-urbano-del-estado-de-sinaloa-40761"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-01"
-last_updated: "2016-12-28"
+last_updated: "2017-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Sinaloa, el miércoles 1 de septiembre de 2004.
 
@@ -35,7 +35,9 @@ LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA
 
 ## Título Primero. Disposiciones Generales
 
-### Capítulo Único. Del Objeto y Definiciones de la Ley
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+### Capítulo Primero. Del Objeto y Definiciones de la Ley
 
 ###### Artículo 1.
 
@@ -43,7 +45,9 @@ La presente Ley reglamenta la planeación, administración, fomento y control de
 
 I. Establecer las normas que regulen la concurrencia del Estado y los Municipios que lo integran en materia de ordenación y regulación de los asentamientos humanos en la Entidad;
 
-II. Establecer las normas para la planeación y la regulación del ordenamiento territorial de los asentamientos humanos y la fundación, conservación, mejoramiento y crecimiento de los centros de población;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2017)</small>
+
+II. Establecer las normas y principios para la planeación, la regulación del ordenamiento territorial de los asentamientos humanos y la fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
 III. Establecer las normas conforme a las cuales el Estado y los Municipios ejercerán sus atribuciones para planear, ordenar y regular el territorio y determinar las provisiones, usos, destinos y reservas de áreas y predios;
 
@@ -201,11 +205,39 @@ XXXIV. Zonificación secundaria: Se refiere a distritos de los centros de poblac
 
 XXXV. Zonificación: La determinación de las áreas que integran y delimitan un centro de población, sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
-### Capítulo Primero. De las Autoridades
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE FEBRERO DE 2017)</small>
+
+### Capítulo Segundo. De los Principios
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2017)</small>
+
+###### Artículo 5 Bis.
+
+La planeación, administración, fomento y control del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población en el Estado de Sinaloa deben conducirse en apego a los siguientes principios de política pública:
+
+I. Derecho a la ciudad. Garantizar a todos los habitantes de un asentamiento humano o centros de población el acceso a la vivienda, infraestructura, equipamiento y servicios básicos, a partir de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales suscritos por México en la materia y por la Constitución Política del Estado;
+
+II. Equidad e inclusión. Garantizar el ejercicio pleno de derechos en condiciones de igualdad, con políticas públicas incluyentes;
+
+III. Derecho a la propiedad urbana. Garantizar los derechos de propiedad inmobiliaria con la intención de que los propietarios tengan protegidos sus derechos, pero también asuman responsabilidades específicas con el estado y con la sociedad, respetando los derechos y límites previstos en la Constitución Política de los Estados Unidos Mexicanos, Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, en esta Ley y las disposiciones que de ellas emanen aplicables en la materia;
+
+IV. Coherencia y racionalidad. Adoptar perspectivas que promuevan el ordenamiento territorial y el desarrollo urbano de manera equilibrada, armónica, racional y congruente, acorde a los planes y políticas nacionales y del Estado; así como procurar la eficiencia y transparencia en el uso de los recursos públicos;
+
+V. Participación democrática y transparencia. Proteger y propiciar el derecho de todas las personas a participar en la formulación, seguimiento y evaluación de las políticas, planes y programas que determinan el desarrollo de las ciudades y el territorio. Para lograrlo se garantizará la transparencia y el acceso a la información pública de conformidad con lo dispuesto en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y demás legislación aplicable en la materia;
+
+VI. Productividad y eficiencia. Fortalecer la productividad y eficiencia de las ciudades y del territorio como eje del Crecimiento económico, a través de la consolidación de redes de vialidad y Movilidad, energía y comunicaciones, creación y mantenimiento de infraestructura productiva, equipamientos y servicios públicos de calidad. Maximizar la capacidad de la ciudad para atraer y retener talentos e inversiones, minimizando costos y facilitar la actividad económica;
+
+VII. Protección y progresividad del Espacio Público. Crear condiciones de habitabilidad de los espacios públicos, como elementos fundamentales para el derecho a una vida sana, la convivencia, recreación y seguridad ciudadana que considere las necesidades diferenciada (sic) por personas y grupos. Se fomentará el rescate, la creación y el mantenimiento de los espacios públicos que podrán ampliarse, o mejorarse pero nunca destruirse o verse disminuidos. En caso de utilidad pública, estos espacios deberán ser sustituidos por otros que generen beneficios equivalentes;
+
+VIII. Resiliencia, seguridad urbana y riesgos. Propiciar y fortalecer todas las instituciones y medidas de prevención, mitigación, atención, adaptación y Resiliencia que tengan por objetivo proteger a las personas y su patrimonio, frente a los riesgos naturales y antropogénicos; así como evitar la ocupación de zonas de alto riesgo;
+
+IX. Sustentabilidad ambiental. Promover prioritariamente, el uso racional del agua y de los recursos naturales renovables y no renovables, sin comprometer la satisfacción de las necesidades de las futuras generaciones. Así como evitar rebasar la capacidad de carga de los ecosistemas y que el crecimiento urbano ocurra sobre suelos agropecuarios de alta calidad, áreas naturales protegidas o bosques; y
+
+X. Accesibilidad y movilidad. Promover una adecuada accesibilidad que genere cercanía y favorezca la relación entre diferentes actividades urbanas con medidas como la flexibilidad de usos del suelo compatibles y densidades sustentables, un patrón coherente de redes viales primarias, la distribución jerarquizada de los equipamientos y una efectiva Movilidad que privilegie las calles completas, el transporte público, peatonal y no motorizado.
 
 ## Título Segundo. De las Autoridades y Organismos Auxiliares
 
-### Capítulo Segundo. De los Organismos Auxiliares
+### Capítulo Primero. De las Autoridades
 
 ###### Artículo 6.
 
@@ -411,7 +443,7 @@ X. Las demás que le confieran esta Ley y disposiciones reglamentarias.
 
 El patrimonio de las Comisiones de Zonas Conurbadas estará integrado por las aportaciones que por partes iguales realicen el Estado y los Municipios. Podrán recibir las aportaciones y demás ingresos que transfieran a su favor el Gobierno Federal, así como los subsidios, donaciones y legados que reciba de los sectores social y privado, los cuales, de ninguna manera podrán implicar condiciones contrarias a su objeto.
 
-### Capítulo Primero. Del Sistema Estatal de Planeación Urbana
+### Capítulo Segundo. De los Organismos Auxiliares
 
 ###### Artículo 15.
 
@@ -561,7 +593,7 @@ El Estado y los Municipios podrán crear organismos coadyuvantes para la planeac
 
 ## Título Tercero. De la Planeación Urbana
 
-### Capítulo Segundo. Del Programa Estatal de Desarrollo Urbano
+### Capítulo Primero. Del Sistema Estatal de Planeación Urbana
 
 ###### Artículo 27.
 
@@ -607,7 +639,7 @@ El Estado podrá acordar los mecanismos de planeación regional para coordinar a
 
 Los planes o programas a que se refiere el artículo anterior, se formularán y se aprobarán en los términos previstos en esta Ley, serán publicados en el Periódico Oficial "El Estado de Sinaloa", y en un periódico de los de mayor circulación e inscritos en el Registro Público de la Propiedad y del Comercio. Tendrán vigencia indefinida y estarán sometidos a un proceso permanente de revisión, actualización, seguimiento y evaluación.
 
-### Capítulo Tercero. De los Programas de Ordenación de Zonas Conurbadas
+### Capítulo Segundo. Del Programa Estatal de Desarrollo Urbano
 
 ###### Artículo 30.
 
@@ -753,7 +785,7 @@ IV. Aquellos elementos necesarios que contribuyan al óptimo desarrollo de la re
 
 La metodología para desarrollar estos planes tendrá como base la del Plan Estatal de Desarrollo Urbano enunciada en los artículos 33, 34 y 35, y se aplicará al territorio específico base del estudio.
 
-### Capítulo Cuarto. Programa Municipal de Desarrollo Urbano
+### Capítulo Tercero. De los Programas de Ordenación de Zonas Conurbadas
 
 ###### Artículo 40.
 
@@ -817,7 +849,7 @@ Para la aprobación de los Programas de Ordenamiento de las Zonas Conurbadas, se
 
 El ordenamiento y regulación de los procesos de crecimiento entre distintos centros de población que tiendan a formar una unidad urbana de un mismo Municipio, se efectuará mediante los planes o programas municipales de desarrollo urbano.
 
-### Capítulo Quinto. Del Programa de Desarrollo Urbano de Centros de Población
+### Capítulo Cuarto. Programa Municipal de Desarrollo Urbano
 
 ###### Artículo 47.
 
@@ -847,7 +879,7 @@ La metodología para desarrollar estos Planes Municipales de Desarrollo Urbano, 
 
 Los Programas Municipales de Ordenamiento Territorial tienen por objeto establecer las políticas generales en la materia aplicable al territorio municipal y contendrán como mínimo lo establecido en el artículo 36 de la presente Ley.
 
-### Capítulo Sexto. De la Aprobación de los Planes y Programas de Desarrollo Urbano
+### Capítulo Quinto. Del Programa de Desarrollo Urbano de Centros de Población
 
 ###### Artículo 52.
 
@@ -977,7 +1009,7 @@ Cuando el Plan Parcial incluya acciones de conservación, mejoramiento y crecimi
 
 En caso de que los propietarios o poseedores no cumplan con las obligaciones a que se refiere el artículo anterior, las autoridades responsables de ejecutar las acciones previstas en los planes o programas correspondientes, procederán a requerirlos mediante notificación personal, señalándoles un plazo apropiado en que deberán darles cumplimiento, que no será menor de quince días.
 
-### Capítulo Séptimo. De la Publicidad de los Planes y Programas de Desarrollo Urbano
+### Capítulo Sexto. De la Aprobación de los Planes y Programas de Desarrollo Urbano
 
 #### Sección II. De la Aprobación de los Programas de Ordenación de Zonas Conurbadas Interestatales
 
@@ -1087,7 +1119,7 @@ III. La documentación que acredite la celebración de las instancias de consult
 
 IV. El documento que acredite la aprobación por los Cabildos.
 
-### Capítulo Primero. De los Efectos de los Planes y Programas
+### Capítulo Séptimo. De la Publicidad de los Planes y Programas de Desarrollo Urbano
 
 ###### Artículo 73.
 
@@ -1117,7 +1149,7 @@ El Registro del Sistema Estatal de Planeación Urbana será público y estará a
 
 ## Título Cuarto. Del Control del Desarrollo Urbano
 
-### Capítulo Segundo. De la Regulación de la Propiedad en los Centros de Población
+### Capítulo Primero. De los Efectos de los Planes y Programas
 
 ###### Artículo 76.
 
@@ -1157,7 +1189,7 @@ Cuando los interesados lo soliciten, Los notarios y demás fedatarios públicos 
 
 Todas las acciones, inversiones y obras relativas al aprovechamiento del territorio que realicen los Gobiernos Estatal y Municipales, deberán sujetarse a lo dispuesto en los Planes y Programas de Desarrollo Urbano vigentes, para tal efecto, la solicitud presupuestal correspondiente deberá incluir una exposición de la relación entre las acciones, inversiones y obras de que se trate y los objetivos y metas de los Planes y Programas de Desarrollo Urbano.
 
-### Capítulo Tercero. Del Control del Desarrollo Urbano
+### Capítulo Segundo. De la Regulación de la Propiedad en los Centros de Población
 
 ###### Artículo 81.
 
@@ -1311,7 +1343,7 @@ El aprovechamiento de áreas y predios ejidales o comunales comprendidos dentro 
 
 Para constituir, ampliar y delimitar la zona de urbanización ejidal y su reserva de crecimiento, así como para regularizar la tenencia de predios en los que se hayan constituido asentamientos humanos irregulares, la asamblea ejidal o de comuneros, deberá ajustarse a lo dispuesto por esta Ley y a la zonificación contenida en los Planes de Desarrollo Urbano aplicables en la materia. En estos casos, se requiere la autorización del Municipio en que se encuentre ubicado el ejido o la comunidad.
 
-### Capítulo Primero. De la Participación Social en el Desarrollo Urbano
+### Capítulo Tercero. Del Control del Desarrollo Urbano
 
 ###### Artículo 98.
 
@@ -1479,7 +1511,7 @@ En los reglamentos municipales se establecerán los requisitos, plazos y procedi
 
 ## Título Quinto. De la Instrumentación del Desarrollo Urbano
 
-### Capítulo Segundo. De la Infraestructura, Equipamiento y Servicios Urbanos
+### Capítulo Primero. De la Participación Social en el Desarrollo Urbano
 
 ###### Artículo 114.
 
@@ -1515,7 +1547,7 @@ XI. La inclusión de personas con capacidades especiales en el diseño de mobili
 
 Los Gobiernos Estatal y Municipales promoverán acciones concertadas entre los sectores público, social y privado, que propicien la participación social en la fundación, conservación, mejoramiento y crecimiento de los centros de población.
 
-### Capítulo Tercero. De la Fusión, Relotificación y Fraccionamiento de Terrenos
+### Capítulo Segundo. De la Infraestructura, Equipamiento y Servicios Urbanos
 
 ###### Artículo 117.
 
@@ -1549,7 +1581,7 @@ III. Limitar los usos de la vía pública; y,
 
 IV. Establecer las especificaciones para modificar definitiva o temporalmente la vía pública.
 
-### Capítulo Cuarto. De los Fraccionamientos
+### Capítulo Tercero. De la Fusión, Relotificación y Fraccionamiento de Terrenos
 
 ###### Artículo 121.
 
@@ -1591,7 +1623,7 @@ La autorización de fusión, relotificación y fraccionamiento, no será otorgad
 
 El Ejecutivo Estatal, por conducto de la Secretaría y los Municipios promoverá el desarrollo de fraccionamientos y conjuntos habitacionales de carácter popular, de interés social y de servicios progresivos, para cuyo efecto aprovecharán las reservas territoriales disponibles. En estos casos, tomarán las medidas que eviten la especulación o que desvirtúen la finalidad social que motivó la autorización. De igual forma apoyará los programas de fraccionamientos y conjuntos habitacionales que realicen dependencias, organismos oficiales y particulares, de acuerdo con el Programa Estatal de Desarrollo Urbano.
 
-### Capítulo Quinto. Del Patrimonio Cultural e Histórico
+### Capítulo Cuarto. De los Fraccionamientos
 
 #### Sección II. De los Fraccionamientos para Uso Habitacional
 
@@ -2111,7 +2143,7 @@ Cuando dentro de las poblaciones existan superficies sin fraccionar mayores de 5
 
 Las situaciones no previstas en este Capítulo se resolverán de acuerdo con el dictamen técnico que en su caso rinda la dependencia municipal competente.
 
-### Capítulo Primero. De la Transferencia de Potencialidad de Desarrollo Urbano
+### Capítulo Quinto. Del Patrimonio Cultural e Histórico
 
 ###### Artículo 188.
 
@@ -2171,7 +2203,7 @@ Toda persona podrá denunciar ante las autoridades responsables, los hechos, act
 
 ## Título Sexto. Del Fomento al Desarrollo Urbano
 
-### Capítulo Segundo. Del Financiamiento Urbano
+### Capítulo Primero. De la Transferencia de Potencialidad de Desarrollo Urbano
 
 ###### Artículo 195.
 
@@ -2203,7 +2235,7 @@ Las operaciones de transferencias que celebren los particulares sólo podrán re
 
 Quienes lleven a cabo operaciones de transferencia de potencialidades de desarrollo urbano deberán aportar un porcentaje de dicha potencialidad para el fomento del desarrollo urbano de la ciudad, en los términos que señalen los reglamentos municipales; a excepción de los ubicados en suelo de conservación y áreas patrimoniales, cuyo porcentaje se aplicará para su rehabilitación, mejoramiento y conservación.
 
-### Capítulo Primero. De las Medidas de Seguridad
+### Capítulo Segundo. Del Financiamiento Urbano
 
 ###### Artículo 199.
 
@@ -2489,7 +2521,7 @@ Una vez hecha la separación de la cantidad que corresponda al Organismo Municip
 
 ## Título Séptimo. De los Recursos Administrativos
 
-### Capítulo Segundo. De las Infracciones
+### Capítulo Primero. De las Medidas de Seguridad
 
 ###### Artículo 243.
 
@@ -2523,7 +2555,7 @@ II. Los Municipios y los Presidentes Municipales.
 
 Las autoridades competentes, tanto para aplicar sanciones como para determinar y ejecutar medidas de seguridad, deben fundar y motivar su resolución, notificarla personalmente y conceder previa audiencia al interesado.
 
-### Capítulo Tercero. De las Sanciones
+### Capítulo Segundo. De las Infracciones
 
 ###### Artículo 246.
 
@@ -2578,6 +2610,8 @@ IV. Cooperar con los infractores o facilitarles en cualquier forma la violación
 ###### Artículo 252.
 
 Los responsables de las infracciones previstas en el artículo anterior, se harán acreedores a una multa de hasta 500 veces el valor diario de la Unidad de Medida y Actualización, que en caso de reincidencia en un año de calendario, podrá duplicarse. En el caso de que los responsables sean servidores públicos, se les separará de su cargo.
+
+### Capítulo Tercero. De las Sanciones
 
 ###### Artículo 253.
 
@@ -2738,3 +2772,15 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 24 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 85 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
