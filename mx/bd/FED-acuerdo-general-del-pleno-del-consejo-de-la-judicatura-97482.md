@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2017-01-02"
+last_updated: "2017-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2017.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -2049,9 +2049,21 @@ En las visitas de inspección los visitadores y sus asistentes deberán abstener
 
 I. De exigir a los titulares de los órganos jurisdiccionales o administradores de los centros de justicia Penal Federal o a los servidores públicos adscritos a éstos, cualquier tipo de acto que no sea propio del servicio público;
 
-II. De intervenir en las funciones jurisdiccionales de los integrantes del órgano jurisdiccional; y
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2017)</small>
 
-III. De emitir o asentar exhortaciones, requerimientos o felicitaciones.
+II. De intervenir en las funciones jurisdiccionales de los integrantes del órgano jurisdiccional;
+
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2017)</small>
+
+III. De emitir o asentar exhortaciones, requerimientos o felicitaciones; y
+
+> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2017)</small>
+
+IV. De revisar los expedientes de los juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación, y de los juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, o de realizar cualquier consulta electrónica de las actuaciones judiciales.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV]</small>
+
+Las solicitudes y procedimientos a que se refieren los artículos 34 y 37 de la Ley de Seguridad Nacional, no serán materia de revisión.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
@@ -2067,6 +2079,10 @@ La materia de las visitas se limitará a los aspectos previstos en la Ley Orgán
 
 Las visitas ordinarias de inspección tienen por objeto recabar, en forma metódica, información respecto del funcionamiento de los órganos jurisdiccionales y de los centros de Justicia Penal Federal, así como del desempeño y conducta de sus miembros. Sus efectos serán esencialmente de control, preventivos y correctivos.
 
+> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2017)</small>
+
+Las visitas de inspección que se realicen a los juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación, y a los juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones se limitarán a los aspectos meramente administrativos entre otros, a los datos estadísticos que comprenderán lo relativo al tipo de asunto, la temporalidad de las actuaciones judiciales, movimientos de existencia anterior, ingreso, egreso y la existencia actual, conforme a los listados proporcionados por el órgano jurisdiccional visitado y la revisión del libro de gobierno físico.
+
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA INSPECCION ORDINARIA A LOS PLENOS DE CIRCUITO, D.O.F. 19 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 231.
@@ -2075,23 +2091,33 @@ Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces
 
 La inspección ordinaria a los Plenos de Circuito se llevará a cabo semestralmente, una inspección será a distancia; y, la otra, a través de informe circunstanciado que rinda su Presidente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 232.
 
-Las visitas ordinarias durarán cuando más, dos días tratándose de tribunales de Circuito y unidades de notificadores comunes; y tres días para la inspección de los juzgados de Distrito. Los tribunales de Circuito y juzgados de Distrito que integren centros auxiliares, que no tengan facultades para el trámite de los asuntos hasta ponerlos en estado de resolución y que coadyuven a otros órganos en el dictado de sentencias, serán visitados en un día.
+Las visitas ordinarias de inspección, en sus modalidades de visita física o a distancia, según sea el caso, durarán, hasta:
 
-La inspección ordinaria a los Plenos de Circuito durará hasta dos días.
+I. Dos días para Plenos de Circuito;
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+II. Dos días para tribunales de Circuito, con excepción de:
 
-Tratándose de los centros de Justicia Penal Federal, la visita ordinaria se desarrollará en dos días para la administración del Centro, y en un día más para cada uno de los órganos jurisdiccionales que lo integren.
+a) Aquellos que integren centros auxiliares, que no tengan facultades para el trámite de los asuntos hasta ponerlos en estado de resolución y que coadyuven a otros órganos en el dictado de sentencias, caso en el cual la duración será de un día; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA VISITA ORDINARIA FÍSICA A LOS JUZGADOS DE DISTRITO ESPECIALIZADOS EN MEDIDAS CAUTELARES Y CONTROL DE TÉCNICAS DE INVESTIGACIÓN, Y A LOS JUZGADOS FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES, D.O.F. 2 DE ENERO DE 2017)</small>
+b) Los adscritos a los centros de Justicia Penal Federal, supuesto en que se estará a lo dispuesto en la fracción IV de este artículo;
 
-La visita ordinaria física a los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación, y a los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, se llevará a cabo en un día, que deberá ser laborable para el personal del órgano jurisdiccional, procurando su realización en horas hábiles.
+III. Para juzgados de Distrito tres días, con excepción de:
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA VISITA ORDINARIA FÍSICA A LOS JUZGADOS DE DISTRITO ESPECIALIZADOS EN MEDIDAS CAUTELARES Y CONTROL DE TÉCNICAS DE INVESTIGACIÓN, Y A LOS JUZGADOS FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES, D.O.F. 2 DE ENERO DE 2017)</small>
+a) Aquellos que integren centros auxiliares, que no tengan facultades para el trámite de los asuntos hasta ponerlos en estado de resolución y que coadyuven a otros órganos en el dictado de sentencias, caso en el cual la duración será de un día;
+
+b) Aquellos que integren centros auxiliares, que tengan facultades para el trámite de los asuntos hasta ponerlos en estado de resolución, caso en el cual la duración será de dos días;
+
+c) Los juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación, y para los juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, supuesto en el que la duración será de un día; el cual deberá ser laborable para el personal del órgano jurisdiccional, procurando su realización en horas hábiles; y
+
+d) Los adscritos a los centros de Justicia Penal Federal, supuesto en que se estará a lo dispuesto en la fracción IV de este artículo;
+
+IV. En los centros de Justica Penal Federal, dos días para la administración del Centro, y un día más para cada uno de los órganos jurisdiccionales que lo integren; y
+
+V. Dos días para las unidades de notificadores comunes.
 
 El Visitador General podrá autorizar la modificación de los plazos y horario señalados, siempre que exista causa justificada.
 
@@ -2137,11 +2163,15 @@ La asignación de los órganos jurisdiccionales o centros de Justicia Penal Fede
 
 Para la práctica de las visitas ordinarias de inspección, el Visitador General informará con la debida oportunidad al titular del órgano jurisdiccional o a su presidente, tratándose de tribunales Colegiados, y, en su caso, al Administrador del Centro de Justicia Penal Federal, la fecha en que se iniciará, para que proceda a fijar el aviso correspondiente.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 240.
 
-El aviso a que se refiere el artículo anterior, se publicará en los lugares más visibles del órgano jurisdiccional y, en su caso, del Centro de Justicia Penal Federal, así como en los estados de dicho órgano, con una anticipación de cuando menos quince días naturales. En él se hará saber al público en general la fecha en que iniciará la inspección, su duración, el nombre del Visitador Judicial "B" que la practicará, y que durante el desarrollo de ésta, dicho visitador recibirá las quejas que se presenten por escrito contra los servidores públicos del órgano visitado.
+El aviso a que se refiere el artículo anterior, con excepción de lo dispuesto en el párrafo siguiente, se publicará en los lugares más visibles del órgano jurisdiccional y, en su caso, del Centro de Justicia Penal Federal, así como en los estrados de dicho órgano, con una anticipación de cuando menos quince días naturales. En él se hará saber al público en general la fecha en que iniciará la inspección, su duración, el nombre del Visitador Judicial "B" que la practicará, y que durante el desarrollo de ésta, dicho visitador recibirá las quejas que se presenten por escrito contra los servidores públicos del órgano visitado.
+
+Tratándose de los juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación, y de los juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones sus titulares deberán, con la misma anticipación prevista en el párrafo anterior, publicar el aviso indicando la fecha y duración de la visita, el nombre del Visitador Judicial “B” que la practicará, así como su respectiva dirección de correo electrónico, a través del cual se podrán hacer llegar las quejas. Dicho aviso se publicará en la Ventana Electrónica de Trámite y el Portal de Servicios en Línea del Poder Judicial de la Federación, una vez que accedan con la clave correspondiente y una firma electrónica reconocida, ese aviso será elaborado por el juzgador y publicado por conducto de la Dirección General de Tecnologías de la Información, para que las autoridades, en su caso, presenten quejas respecto al funcionamiento del juzgado o la conducta de los servidores públicos de dicho órgano. Además las quejas se podrán presentar a través del módulo virtual respectivo.
+
+El aviso también se fijará en el edificio donde se localizan los juzgados a que se refiere el párrafo anterior, para el conocimiento de los interesados en presentar quejas por escrito.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
@@ -2161,15 +2191,21 @@ Las visitas ordinarias de inspección serán atendidas por el titular del órgan
 
 El Visitador Judicial "B" se constituirá en el órgano jurisdiccional y, en su caso, en el Centro de Justicia Penal Federal que sea visitado a primera hora hábil del día fijado para el inicio de la inspección. Se identificará ante el servidor público a que refiere el artículo anterior con credencial oficial del Poder Judicial de la Federación.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 244.
 
-El Visitador Judicial "B" verificará si el aviso que anuncia la visita, se colocó en los lugares más visibles del órgano jurisdiccional y, en su caso del Centro de Justicia Penal Federal, así como en los estrados del citado órgano.
+El Visitador Judicial "B" verificará si el aviso que anuncia la visita, se colocó en los lugares más visibles del órgano jurisdiccional y, en su caso, del Centro de Justicia Penal Federal, así como en los estrados del citado órgano, con excepción de lo dispuesto en el párrafo siguiente.
+
+Tratándose de los juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación, y de los juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, el Visitador Judicial “B” verificará que el aviso de inicio de la visita ordinaria haya sido publicado en los sistemas electrónicos correspondientes, así como en la entrada del edificio del órgano visitado.
+
+> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 245.
 
-La falta de fijación del aviso de inicio de la visita ordinaria no será obstáculo para que la visita inicie. De ser el caso, el Visitador Judicial "B" dispondrá que sea fijado, pudiendo incluso, de ser necesario, firmar y publicar por sí mismo el aviso que lo supla.
+La falta de fijación del aviso de inicio de la visita ordinaria no será obstáculo para que la visita inicie. De ser el caso, el Visitador Judicial "B" dispondrá que sea fijado, pudiendo incluso, de ser necesario, firmar y publicar por sí mismo el aviso que lo supla, con excepción de lo dispuesto en el párrafo siguiente.
+
+Tratándose de los juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación, o de los juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, cuando no se hubiera publicado el aviso electrónico, el Visitador Judicial “B” dispondrá que se realice dicha publicación.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
@@ -3210,3 +3246,13 @@ D.O.F. 2 DE ENERO DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 24 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LAS VISITAS ORDINARIAS DE INSPECCIÓN A JUZGADOS DE DISTRITO ESPECIALIZADOS EN MEDIDAS CAUTELARES Y CONTROL DE TÉCNICAS DE INVESTIGACIÓN, Y A JUZGADOS FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Dirección General de Estadística Judicial y la Dirección General de Tecnologías de la Información, en coordinación con la Visitaduría Judicial, adoptarán las medidas necesarias para que, en su caso, se adecuen los sistemas informáticos al contenido de este Acuerdo.
