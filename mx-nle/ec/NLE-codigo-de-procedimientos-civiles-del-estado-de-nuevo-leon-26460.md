@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2017-01-25"
+last_updated: "2017-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NLE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -4761,11 +4759,13 @@ Las providencias que se dicten desechando una demanda son apelables en ambos efe
 
 Los efectos de la presentación de la demanda son: interrumpir la prescripción si no lo está por otros medios, señalar el principio de la instancia y determinar el valor de las prestaciones exigidas, cuando no pueda referirse a otro tiempo.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 624.
 
-De la demanda presentada y admitida por el Juez y de los anexos exhibidos, se correrá traslado a la persona contra quien se proponga y se le emplazará para que la conteste dentro del término que se fija en este Código.
+De la demanda presentada y admitida por el Juez y de los anexos exhibidos, se correrá traslado a la persona contra quien se proponga y se le emplazará para que la conteste dentro del término que se fija en este Código, asimismo se deberá notificar a las partes que tienen derecho a acceder a los mecanismos alternativos de solución de controversias, en los casos que establece la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 Efectuado el emplazamiento, si alguna de las partes solicita anotación marginal sobre bienes inmuebles, el juez ordenará la anotación preventiva ante el Registro Público de la Propiedad, de conformidad con las disposiciones del Código Civil, siempre que previamente el solicitante otorgue garantía suficiente para responder de los daños y perjuicios que se causen a la contraparte, la que deberá ser fijada al prudente arbitrio del Juez, a excepción de los asuntos de orden familiar, y en los que el Estado y los Municipios o sus Organismos tengan interés.
 
@@ -10014,3 +10014,9 @@ Segundo.- Resulta aplicable el presente Decreto a los matrimonios celebrados con
 Tercero.- La entrada en vigor del presente Decreto, no altera los derechos adquiridos en los juicios de divorcio concluidos en forma ejecutoriada.
 
 Cuarto.- Los asuntos en trámite al entrar en vigor las reformas contenidas en este Decreto, seguirán su curso en la forma que iniciaron y, en su caso, se resolverán observando la jurisprudencia por contradicción 73/2014, publicada en el Semanario Judicial de la Federación, 10 de julio de 2015.
+
+P.O. 24 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 239. SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO DEL ARTÍCULO 624 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
