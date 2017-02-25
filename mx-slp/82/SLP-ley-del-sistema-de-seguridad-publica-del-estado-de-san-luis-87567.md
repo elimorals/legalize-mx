@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2016-12-10"
+last_updated: "2017-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -493,13 +493,15 @@ Estas deberán llevar en el reverso la firma del titular de los respectivos cuer
 
 Los servidores públicos a que se refiere este artículo incurrirán en responsabilidad, cuando expidan credenciales a personas que no pertenezcan a las instituciones de seguridad pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 35.
 
-Las autoridades de seguridad pública del Estado dictarán las medidas conducentes para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado; y Secretario General de Gobierno; asimismo, brindarán servicio de protección a aquéllas personas que la autoridad electoral determine conforme a la ley.
+Las autoridades de seguridad pública del Estado dictarán las medidas conducentes, para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado; Secretario General de Gobierno; Procurador General de Justicia o Fiscal General, en su caso; Secretario de Seguridad Pública; Director General de Seguridad Pública del Estado; Director General de Prevención y Reinserción Social; y el Director General de la Policía Investigadora del Estado. Asimismo, brindarán servicio de protección a aquellas personas que la autoridad electoral determine conforme a la ley.
 
-Los servidores públicos a que se hace referencia en el párrafo anterior, tendrán derecho a que los cuerpos de seguridad pública otorguen protección a su integridad física y a la de sus familias durante el ejercicio de su encargo, y hasta un año siguiente a la conclusión del mismo; término que será prorrogable a juicio de la autoridad competente, tomando en consideración las circunstancias particulares del caso.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2017)</small>
+
+Esta protección se orientará a salvaguardar la integridad física y la de sus familias de las personas a que se refiere el párrafo anterior, durante el ejercicio de su cargo. Por excepción y cuando las circunstancias del caso en particular así lo ameriten, podrá prorrogarse esta protección hasta por un año más al término del ejercicio de su cargo, a solicitud expresa y fundada del servidor público, que será calificada por el Gobernador del Estado.
 
 Con relación a la protección de los servidores públicos a que se refiere este artículo, se estará a lo dispuesto en el Reglamento de esta Ley.
 
@@ -2257,10 +2259,12 @@ PRIMERO. Este Decreto iniciará su vigencia al día siguiente de su publicación
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 10 DE DICIEMBRE DE 2016.
+P.O. 25 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 0436.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 35, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0569.- SE REFORMA (SIC) LOS PÁRRAFOS, PRIMERO Y SEGUNDO DEL ARTÍCULO 35, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".
 
-PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. Se declara insubsistente la Minuta de Decreto que aprobó por mayoría el Pleno del Honorable Congreso del Estado, en sesión ordinaria del 8 de diciembre de 2016, que reformaba el párrafo primero del artículo 35, de la Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí. Notifíquese al Ejecutivo del Estado para todos los efectos legales respectivos.
