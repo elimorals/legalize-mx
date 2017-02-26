@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "2014-12-28"
+last_updated: "2017-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2017.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -107,7 +107,7 @@ La petición de la herencia se ejercitará para que sea declarado heredero el de
 
 El comunero puede deducir las accions (sic) relativas a la cosa común, en calidad de dueño, salvo pacto en contrario, o ley especial. No puede sin embargo, transigir ni comprometer en árbitros el negocio, sin consentimiento unánime de los demás condueños.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 16.
 
@@ -119,7 +119,7 @@ La procedencia de esta acción requiere: que la perturbación consista en actos 
 
 ###### ARTICULO 17.
 
-El que es despojado de la posesión jurídica o derivada de un bien inmueble debe ser ante todo restituido, y le compete la acción de recobrar contra el despojador, contra el que ha mandado el despojo, contra el que a sabiendas y directamente se aproveche del despojo y contra el sucesor del despojante. Tiene por objeto reponer al despojado en la posesión, indemnizarlo de los daños y perjuicios, obtener del demandado que afiance su abstención, y a la vez conminarlo con multa debidamente fundada y motivada a juicio del Juez y arresto para el caso de reincidencia.
+El que es despojado de la posesión jurídica o derivada de un bien inmueble debe ser ante todo restituido, y le compete la acción de recobrar contra el despojador, contra el que ha mandado el despojo, contra el que a sabiendas y directamente se aprovecha del despojo y contra el sucesor del despojante. Tiene por objeto reponer al despojado en la posesión, indemnizarlo de los daños y perjuicios, obtener del demandado que afiance su abstención, y a la vez conminarlo con multa debidamente fundada y motivada a juicio del Juez y arresto para el caso de reincidencia.
 
 ###### ARTICULO 18.
 
@@ -185,9 +185,11 @@ En los casos antes mencionados, y en cualquier otro en que el Juez considere que
 
 El tercerista que intente excluír los derechos del actor y del demandado a los del primero solamente, tiene la facultad de concurrir al proceso o de iniciar uno nuevo, en el caso de que ya se haya dictado sentencia firme en aquel.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 24.
 
-Las acciones del estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia; y las relativas a nulidad o rectificación de las actas del Registro Civil. Las decisiones judiciales recaídas en el ejercicio de adopciones del estado civil, perjudican aún a los que no litigaron.
+Las acciones del estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, tutela, adopción, divorcio y ausencia; y las relativas a nulidad o rectificación de las actas del Registro Civil. Las decisiones judiciales recaídas en el ejercicio de adopciones del estado civil, perjudican aún a los que no litigaron.
 
 Las acciones del estado civil fundadas en la posesión del estado, producirán el efecto de que se amparen o restituyan a quien la disfruta contra cualquier perturbador.
 
@@ -459,7 +461,7 @@ Cuando la infracción llegare a tipifcar (sic) un delito, se procederá contra q
 
 Las infracciones a que se refiere este precepto se anotarán en el Registro Judicial y se considerarán para motivar la imposición de las sanciones que procedan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 62.
 
@@ -489,7 +491,7 @@ Las actuaciones judiciales se practicarán en días y horas hábiles. Son días 
 
 Se entienden horas hábiles las que medien desde las siete a las diecinueve horas. El juez podrá habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija expresando cual sea ésta y las diligencias que hayan de practicarse.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 65.
 
@@ -691,7 +693,7 @@ De la substanciación y decisión de las competencias.
 
 A toda demanda o contestación deberán acompañarse necesariamente: 1o.- El poder que acredite la personalidad del que comparece en nombre del otro; 2o.- El documento o documentos que acrediten el carácter con el que el litigante se presenta en juicio en el caso de tener representación legal de alguna persona o corporación o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; 3o.- Copia del escrito y de los documentos para correr traslado al colitigante, pudiendo ser en papel común, fotostática o cualquier otra, siempre que sea legible. Si excedieren los documentos de veinticinco fojas quedarán en la Secretaría para que se instruyan las partes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 96.
 
@@ -711,7 +713,7 @@ La presentación de documentos de que habla el artículo anterior, cuando sean p
 
 Después de la demanda y contestación, no se admitirán al actor ni al demandado, respectivamente, otros documentos que los que se hallan en los casos siguientes: 1/o.- Ser de fecha posterior a dichos escritos; 2/o.- Los anteriores respecto de los cuales protestando decir verdad, asevere la parte que los presente no haber tenido antes conocimiento de su existencia; 3/o.- Los que no hayan sido posible adquirir con anterioridad por causas que no sean imputables a la parte interesada, y siempre que haya hecho oportunamente la designación expresada en el párrafo 2/o. del artículo 96.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 99.
 
@@ -989,7 +991,7 @@ III.- Tres días para celebración de juntas, reconocimientos de firmas, exhibic
 
 IV.- Tres días para todos los demás casos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
 
 ARTICULO 137 BIS.- La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio desde el emplazamiento hasta antes de que se concluya la audiencia de pruebas, alegatos y sentencia si transcurridos 90 días naturales contados a partir de la notificación de la última determinación judicial, no hubiere promoción de cualquiera de las partes; salvo que el Juez las haya citado para oír sentencia, entonces no operará la caducidad de la instancia. Los efectos y formas de su declaración se sujetarán a las siguientes normas:
 
@@ -1189,7 +1191,9 @@ VIII.- Salvo lo previsto en la fracción XIV, en los actos de jurisdicción volu
 
 IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor y en los demás casos el del domicilio de éste;
 
-X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se haya presentado los pretendientes.
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2017)</small>
+
+X.- En los negocios relativos al impedimento para contraer matrimonio, el del lugar donde se haya presentado (sic) los pretendientes.
 
 II (SIC).- Para decidir las diferencias conyugales y los juicios de nulidad del matrimonio, lo es el del domicilio conyugal.
 
@@ -1315,7 +1319,7 @@ DE LOS PROCEDIMIENTOS, RECUSACIONES Y EXCUSAS.
 
 De los impedimentos y excusas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 170.
 
@@ -1355,7 +1359,7 @@ XIV.- Si él, su cónyugue (sic) o alguno de sus expresados parientes, sigue alg
 
 XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 171.
 
@@ -1589,7 +1593,7 @@ Si es instrumento público o privado reconocido y contiene cantidad ilíquida (s
 
 La liquidación se hace con un escrito de cada parte y la resolución del juez sin ulterior recurso, más que el de responsabilidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ENERO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ENERO DE 1982)</small>
 
 ### CAPITULO III.
 
@@ -2595,7 +2599,7 @@ El honorario de cada perito será pagado por la parte que lo nombró, o en cuyo 
 
 Del reconocimiento o inspección judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1988)</small>
 
 ###### ARTICULO 354.
 
@@ -2851,7 +2855,7 @@ De esta audiencia, el secretario, bajo la vigilancia del Juez, levantará acta d
 
 Los peritos y testigos pueden retirarse de la audiencia, después de desempeñar su cometido, firmando al margen del acta en la parte correspondiente a ellos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1988)</small>
 
 ###### ARTICULO 398.
 
@@ -3405,7 +3409,7 @@ También puede oponerse a la venta los hipotecarios posteriores, alegando prescr
 
 Cuando las partes no hayan acordado en el momento de la constitución de la hipoteca, la institución de crédito que deba hacer el avalúo que servirá de base del remate, el Juez designará la institución de crédito que deba hacerlo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ENERO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ENERO DE 1982)</small>
 
 ### CAPITULO IV.
 
@@ -3721,7 +3725,7 @@ IV.- En los casos de tercería, conforme a lo dispuesto en el título décimo.
 
 La ampliación del embargo se seguirá por cuerda separada sin suspensión del juicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1988)</small>
 
 ###### ARTICULO 532.
 
@@ -3853,7 +3857,7 @@ Los que tengan administración o intervención presentarán al juzgado cada mes,
 
 El Juez con audiencia de las partes aprobará o reprobará la cuenta mensual y determinará los fondos que deban quedar para los gastos necesarios, mandando depositar el sobrante líquido. Los incidentes relativos al depósito y a las cuentas se seguirán por cuerda separada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 548.
 
@@ -4113,7 +4117,7 @@ El juez que reciba exhorto con las inserciones necesarias, conforme a derecho pa
 
 Los jueces no podrán oír ni conocer de excepciones cuando fueren opuestas por alguna de las partes que litigan ante el juez requiriente, salvo el caso de competencia legalmente interpuesta por alguno de los interesados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 590.
 
@@ -4569,11 +4573,13 @@ Si insistieren los cónyugues (sic) en su propósito de divorciarse, citará el 
 
 ###### ARTICULO 666.
 
-El cónyugue (sic) menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(DEROGADO, P.O. 26 DE FEBRERO DE 2017)
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 667.
 
-Los cónyuges no pueden hacerse representar por procurador en las juntas a que se refieren los artículos 664 y 665 sino que deben comparecer personalmente y, en su caso acompañados del tutor especial.
+Los cónyuges no pueden hacerse representar por procurador en las juntas a que se refieren los artículos 664 y 665, sino que deben comparecer personalmente.
 
 ARTICULO 669 (sic).- En cualquier caso en que los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento el tribunal declarará sin efecto la solicitud y mandará archivar el expediente.
 
@@ -4701,7 +4707,7 @@ III.- La otorgada por el demandado comprenderá el pago de lo juzgado y sentenci
 
 IV.- La liquidación de los daños y perjuicios se hará en la ejecución de la sentencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1988)</small>
 
 ###### ARTICULO 689.
 
@@ -4973,7 +4979,7 @@ VII.- Señalar día y hora para la Junta de rectificación y graduación de cré
 
 VIII.- Pedir a los jueces ante quienes tramiten pleitos contra el concursado, los envíen para su acumulación al juicio universal. Se exceptúan los juicios hipotecarios que están pendientes y los que se promuevan después, y los juicios que hubiesen fallado en primera instancia; éstos se acumularán una vez que se decidan definitivamente. Se exceptúan igualmente los que procedan de créditos prendarios y los que no sean acumulables por disposición expresa de la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 729.
 
@@ -5035,7 +5041,7 @@ Si el crédito no es objetado por el síndico, por el concursado o acreedor que 
 
 Esta lista contendrá los nombres de los acreedores e importe de cada crédito. El crédito verificado puede ser objetado por cualquier acreedor a su costa y por el trámite establecido para los incidentes y por cuerda separada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 739.
 
@@ -5043,7 +5049,7 @@ Si uno o más de los créditos admitidos por la mayoría fuesen objetados por el
 
 Si los objetantes fuesen acreedores, ellos deberán seguir el juicio a su costa sin perjuicio de ser indemnizados hasta la concurrencia de la suma en que su gestión hubiere enriquecido su concurso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 740.
 
@@ -6025,7 +6031,9 @@ Del nombramiento de tutores y curadores y discernimiento de estos cargos.
 
 Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
 
-La declaración de estado de minoridad o demencia, puede pedirse: 1º. Por el mismo menor si ha cumplido dieciséis años; 2º Por su cónyuge; 3º Por sus presuntos herederos legítimos; 4º Por el albacea; 5º Por el Ministerio Público.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2017)</small>
+
+La declaración de estado de minoridad o demencia, puede pedirse: 1º Por el mismo menor si ha cumplido dieciséis años; 2º Por su cónyuge, en el caso de demencia; 3º Por sus presuntos herederos legítimos; 4º Por el albacea; 5º Por el Ministerio Público.
 
 Pueden pedir la declaración de minoridad los funcionarios encargados de ello por el Código Civil.
 
@@ -6345,21 +6353,17 @@ Disposiciones relativas a otros actos de jurisdicción voluntaria.
 
 Se tramitará en forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
 
-I.- La autorización judicial que soliciten los emancipados, por razón del matrimonio, para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial.
+I.- (DEROGADA, P.O. 26 DE FEBRERO DE 2017)
 
 II.- En los casos a que se refieren los artículos 169 y 170 del Código Civil vigente en el Estado.
 
 III.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 443 del Código Civil.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 928.
 
-Podrá decretarse el depósito: de menores incapacitados que se hallen sujetados a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores, o reciban de éstos ejemplos perniciosos, a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
-
-> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 1982)</small>
-
-El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al juez determine sobre su custodia.
+Podrá decretarse el depósito de menores incapacitados que se hallen sujetados a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores, o reciban de éstos ejemplos perniciosos, a juicio del juez o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
 TITULO ESPECIAL.
 
@@ -6615,7 +6619,7 @@ Los documentos y objetos presentados por las partes, les serán devueltos al ter
 
 Los Jueces Municipales o Auxiliares no son recusables; pero deben excusarse cuando estén impedidos y en tal caso conocerán los suplentes en el orden de su numeración, y en caso de estar todos impedidos conocerá el más próximo. Si los jueces impedidos no se excusaren, a queja de parte el superior impondrá corrección disciplinaria y hará la anotación en el expediente del funcionario.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1980)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1980)</small>
 
 TITULO DECIMOSEXTO.
 
@@ -6631,7 +6635,7 @@ De las Controversias de Orden Familiar.
 
 Todos los problemas inherentes a la familia son de orden público, por constituír aquélla la base de la integración de la sociedad; en consecuencia, en todos los asuntos de que trata este Título tendrá intervención el Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 973.
 
@@ -6761,7 +6765,7 @@ Los incidentes se decidirán con un escrito de cada parte y sin suspensión del 
 
 En todo lo no previsto, regirán las reglas generales de este Código de Procedimientos Civiles, en cuanto no se opongan a las disposiciones del presente Título.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE MARZO DE 1988)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MARZO DE 1988)</small>
 
 TITULO DECIMOSEPTIMO.
 
@@ -7032,3 +7036,11 @@ P.O. 28 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 81.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
