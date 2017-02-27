@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2016-11-07"
+last_updated: "2017-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -107,7 +107,9 @@ X. Indicadores: La Información numérica que permite evaluar la eficacia y efic
 
 XI. Información: La contenida en escritos, mapas, fotografías, grabaciones, soporte informático o digital, o en cualquier otro elemento técnico que haya sido creado u obtenido por el sujeto obligado, requerido en el ejercicio de sus funciones, y que se encuentre en su posesión y bajo su control; así como cualquier tipo de documentación generada y elaborada, sea parcial o totalmente con cargo al erario, que haya servido para discusiones y toma de decisiones en el ejercicio de las funciones de los Sujetos Obligados;
 
-XII. Información Confidencial: La Información que contiene Datos Personales y se encuentra en posesión de los Sujetos Obligados, susceptible de ser tutelada por el derecho fundamental a la privacidad, intimidad, honor y dignidad, así como la referida en el Título Sexto, Capítulo III de la presente Ley;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+
+XII. Información Confidencial: La Información que contiene Datos Personales y se encuentra en posesión de los Sujetos Obligados, susceptible de ser tutelada por el derecho fundamental a la privacidad, intimidad, honor y dignidad, así como la referida en el Titulo Sexto, de la presente Ley;
 
 XIII. Información de Interés Público: Se refiere a la Información que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual, cuya divulgación resulta útil para que el público comprenda las actividades que llevan a cabo los Sujetos Obligados;
 
@@ -1303,9 +1305,71 @@ VII. La designación de la autoridad responsable de su conservación; y
 
 VIII. La firma autógrafa de quien clasifica el documento.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 70.
 
-La clasificación de Información Reservada o confidencial, deberá realizarse en términos de lo dispuesto por el Título Sexto denominado “Información Clasificada” de la Ley General.
+La clasificación de información reservada o confidencial, deberá realizarse conforme a lo siguiente:
+
+A.- Como información reservada podrá clasificarse aquella cuya publicación:
+
+I. Comprometa la seguridad pública y cuente con un propósito genuino y un efecto demostrable;
+
+II. Pueda menoscabar la conducción de las negociaciones y relaciones del Estado;
+
+III. Se entregue expresamente con ese carácter o el de confidencial por otro u otros sujetos obligados, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad de conformidad con el derecho internacional;
+
+IV. Pueda poner en riesgo la vida, seguridad o salud de una persona física;
+
+V. Obstruya las actividades de verificación, inspección y auditoría relativas al cumplimiento de las leyes o afecte la recaudación de contribuciones;
+
+VI. Obstruya la prevención o persecución de los delitos;
+
+VII. La que contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los Servidores Públicos, hasta en tanto no sea adoptada la decisión definitiva , la cual deberá estar documentada;
+
+VIII. Obstruya los procedimientos para fincar responsabilidad a los Servidores Públicos, en tanto no se haya dictado la resolución administrativa;
+
+IX. Afecte los derechos del debido proceso;
+
+X. Vulnere la conducción de los expedientes judiciales o de los procedimientos administrativos seguidos en forma de juicio, en tanto no hayan causado estado;
+
+XI. Se encuentre contenida dentro de las investigaciones de hechos que la ley señale como delitos y se tramiten ante el Ministerio Público; y
+
+XII. Las que por disposición expresa de una ley tengan tal carácter, siempre que sean acordes con las bases, principios y disposiciones establecidos en esta Ley y no la contravengan; así como las previstas en tratados internacionales.
+
+Las causales de reserva previstas en las fracciones anteriores se deberán fundar y motivar, a través de la aplicación de la prueba de daño a la que se hace referencia el (sic) artículo 104 de la Ley General.
+
+No podrá invocarse el carácter de reservado cuando:
+
+a). Se trate de violaciones graves de derechos humanos o delitos de lesa humanidad; o
+
+b). Se trate de información relacionada con actos de corrupción de acuerdo con las leyes aplicables.
+
+B.- Se clasificará como información confidencial, la siguiente:
+
+l. Los datos personales concernientes a una persona identificada o identificable;
+
+II. Los secretos bancario, fiduciario, industrial, comercial, fiscal, bursátil y postal; cuya titularidad corresponda a particulares, sujetos de derecho internacional o a sujetos obligados cuando no involucren el ejercicio de recursos públicos;
+
+III. La información que entreguen los particulares a los sujetos obligados de conformidad a las atribuciones o funciones según lo dispuesto por las leyes, sus reglamentos o los tratados internacionales;
+
+IV. En el caso de que exista una solicitud de acceso que incluya información confidencial, los sujetos obligados la comunicarán siempre y cuando medie el consentimiento expreso del particular titular de la información confidencial, con las salvedades que establece el artículo 120 de la Ley General; y
+
+V. No se requerirá el consentimiento de quien sea el titular de la información confidencial cuando:
+
+a) La información se encuentre en registros públicos o fuentes de acceso público;
+
+b) Por ley tenga el carácter de pública;
+
+c) Exista una orden judicial;
+
+d) Por razones de salubridad general, o para proteger los derechos de terceras personas, se requiera su publicación; o
+
+e) Cuando se transmita entre sujetos obligados en términos de los tratados y los acuerdos interinstitucionales, siempre y cuando la información se utilice para el ejercicio de facultades propias de los mismos.
+
+Para efectos del inciso d) de la presente fracción, el Pleno del ITEA deberá aplicar la prueba de interés público. Además, se deberá corroborar una conexión patente entre la información confidencial y un tema de interés público y la proporcionalidad entre la invasión a la intimidad ocasionada por la divulgación de la información confidencial y el interés público de la información.
+
+La información confidencial no estará sujeta a temporalidad alguna y sólo podrán tener acceso a ella quienes sean los titulares de la misma, sus representantes y los Servidores Públicos facultados para ello.
 
 ## TÍTULO SÉPTIMO. PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN
 
@@ -1674,5 +1738,19 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 3 de noviembre de 2016.- Carlos Lozano de la Torre.- Rúbrica.- Lic. Alejandro Bernal Rubalcava, en suplencia del Secretario General de Gobierno por ministerio de Ley. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 65.- SE REFORMAN LOS ARTÍCULOS 3º Y 70 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
