@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-servicios-de-salud-del-estado-de-81663"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-13"
-last_updated: "2016-11-07"
+last_updated: "2017-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALlENTES
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de junio de 2011.
 
@@ -39,7 +41,7 @@ Decreto Número 79
 
 ·Se expide la Ley del Instituto de Servicios de Salud del Estado de Aguascalientes, para quedar en los siguientes términos:
 
-LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALlENTES
+LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -83,7 +85,9 @@ I. Participar en el Sistema Integral de Servicios de Salud, en los términos de 
 
 II. Proporcionar los servicios de salud a la población abierta en el Estado, por medio de las instalaciones que le son propias y destinadas para ello;
 
-III. Organizar y proporcionar los servicios de salud a la población abierta, a través de las unidades médicas y administrativas adscritas a la directriz de la Secretaría, en virtud de los acuerdos y convenios que para el efecto se suscriban, y de la misma manera con las instituciones de la jurisdicción sanitaria federal;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+
+III. Organizar y proporcionar los servicios de salud a la población abierta, a través de atención domiciliaria, las unidades médicas móviles, unidades médicas y administrativas adscritas a la directriz de la Secretaría, en virtud de los acuerdos y convenios que para el efecto se suscriban, y de la misma manera con las instituciones de la jurisdicción sanitaria federal;
 
 IV. Realizar las acciones necesarias para mejorar la calidad en la prestación de los servicios de salud;
 
@@ -459,11 +463,11 @@ EL JEFE DE GABINETE,
 
 Lic. Antonio Javier Aguilera García.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 18 DE JULIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 356.- LEY DEL CENTENARIO HOSPITAL MIGUEL HIDALGO DEL ESTADO DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 356.- LEY DEL CENTENARIO HOSPITAL MIGUEL HIDALGO DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -504,3 +508,27 @@ P.O. 7 DE NOVIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 66.- SE REFORMA Y ADICIONA EL ARTÍCULO 5° Y SE ADICIONA UN ARTÍCULO 57 BIS, A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigencia a los 120 días hábiles siguientes de su publicación en el Periódico Oficial del Estado de Aguascalientes, no obstante lo dispuesto por el Artículo Segundo Transitorio.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto de Servicios de Salud del Estado de Aguascalientes deberá realizar las adecuaciones correspondientes a su marco normativo aplicable a más tardar a los 120 días hábiles contados a partir del inicio de vigencia de este Decreto; contando con el mismo plazo para implementar, adecuar y dar cabal cumplimiento al Programa El Médico en Tu Casa.
+
+###### ARTÍCULO TERCERO.
+
+Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+A efecto de que el Instituto de Servicios de Salud del Estado de Aguascalientes lleve a cabo la implementación y operación del Programa "El Médico en Tu Casa", el Titular del Poder Ejecutivo del Estado de Aguascalientes, propondrá dentro del Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal 2018 y subsecuentes, la suficiencia presupuestal que para tal efecto se requiera, en apego a lo establecido por la Ley de Salud del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+El Programa "El Médico en Tu Casa" será aplicado en concordancia con las demás disposiciones de atención médica que se establecen en la Ley de Salud del Estado de Aguascalientes así como en los acuerdos y convenios que para el efecto se suscriban.
