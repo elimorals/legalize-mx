@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2016-12-12"
+last_updated: "2017-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -353,9 +355,9 @@ III. Presentar ante el Congreso del Estado las iniciativas de Ley, en asuntos de
 
 IV. Proponer anualmente al Congreso del Estado, a más tardar el día 30 de octubre de cada año, el proyecto de Ley de Ingresos, a efecto de cubrir los gastos ordinarios y extraordinarios de sus respectivos municipios, para el ejercicio fiscal inmediato, que deberá contener el proyecto de las cuotas y tarifas aplicables a impuestos, derechos, productos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo en el plazo señalado, el Congreso del Estado declarará aplicable temporalmente para el siguiente ejercicio fiscal inmediato, el que se encuentra vigente, previniendo al Ayuntamiento para que subsane su omisión;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
 
-V. Aprobar su Presupuesto de Egresos, con base en los ingresos disponibles, así como las partidas plurianuales, con cargo a las cuales se harán los pagos plurianuales por las obligaciones contraídas en los Proyectos de Prestación de Servicios previamente autorizados por el Congreso. La resolución que autorice el aumento del salario de sus integrantes, no podrá tener efecto sino después de concluido el período constitucional correspondiente;
+V. Aprobar su Presupuesto de Egresos, con base en los ingresos disponibles, así como las partidas plurianuales, con cargo a las cuales se harán los pagos plurianuales por las obligaciones contraídas en los Proyectos de Prestación de Servicios o Asociaciones Público-Privadas previamente autorizados por el Congreso. La resolución que autorice el aumento del salario de sus integrantes, no podrá tener efecto sino después de concluido el período constitucional correspondiente;
 
 VI. Vigilar la administración de sus respectivas haciendas, cuidando que se observe puntualmente lo que disponen las leyes de ingresos y los presupuestos de egresos y practicar mensualmente, por conducto de su Comisión de Hacienda, el arqueo de sus fondos;
 
@@ -867,17 +869,21 @@ V.- Coordinarse o asociarse con municipios del Estado o de otras Entidades Feder
 
 VI. Celebrar convenios, coordinarse o asociarse con el Estado o la Federación, para la prestación de servicios públicos, o cuando el Gobierno Estatal asuma una función o servicio que originalmente corresponda al Municipio;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2017)</small>
 
-VII. Contratar créditos cuando los plazos de amortización rebasen el término constitucional de la gestión municipal;
+VII. Contratar Financiamientos en términos de la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 En todos los casos durante los últimos seis meses de la administración municipal, los Ayuntamientos no podrán contratar créditos, así como contraer obligaciones de pago que trasciendan la administración municipal; y
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
 
-VIII. Aprobar los Proyectos de Prestación de Servicios, las partidas plurianuales a incluirse en el Presupuesto de Egresos, con cargo a las cuales se harán los pagos plurianuales, así como las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas en dichos Proyectos, de conformidad con la ley de la materia.
+VIII. Aprobar los Proyectos de Prestación de Servicios o de Asociaciones Público-Privadas, las partidas plurianuales a incluirse en el Presupuesto de Egresos, con cargo a las cuales se harán los pagos plurianuales, así como las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas en dichos Proyectos, de conformidad con la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+
+IX. Celebrar los convenios con el Gobierno Federal para garantizar las obligaciones de pago de la deuda pública municipal.
 
 ###### Artículo 61.
 
@@ -2302,3 +2308,49 @@ Los Presidentes Municipales, Regidores y Síndicos que resultaron electos en la 
 ###### ARTÍCULO QUINTO.
 
 Para la Protesta de Ley materia de la presente reforma, los Ayuntamientos deberán ajustarse a los períodos constitucionales correspondientes.
+
+P.O. 27 DE FEBRERO DE 2017
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 64.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARÍA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 15 días naturales de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo por lo dispuesto en los Artículos Segundo al Octavo Transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El porcentaje a que hace referencia el Artículo 22 de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 se observará el porcentaje establecido en el artículo citado.
+
+###### ARTÍCULO TERCERO.
+
+La Fracción I del Artículo 22 Ter de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el Artículo 22 Ter de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+Las nuevas leyes federales o reformas a las mismas, a que se refiere el último párrafo de la fracción a que se refiere el presente transitorio serán aquéllas que se emitan con posterioridad a la entrada en vigor de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+###### ARTÍCULO CUARTO.
+
+El porcentaje a que hace referencia el Artículo 22 Quáter de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, relativo a los adeudos del ejercicio fiscal anterior de los Presupuestos de Egresos del Estado, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019, y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+###### ARTÍCULO QUINTO.
+
+El registro de proyectos de Inversión pública productiva y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el Artículo 46, Fracción III, segundo párrafo y la Fracción V, segundo párrafo, respectivamente de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, deberá estar en operación a más tardar el 1o. de enero de 2018.
+
+###### ARTÍCULO SEXTO.
+
+Los Excedentes Fiscales derivados de Ingresos de libre disposición a que hace referencia el Artículo 40 Bis, fracción I de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al último párrafo del Artículo 14 de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, adicionalmente podrán destinarse a Gasto Corriente hasta el ejercicio fiscal 2018 los Excedentes Fiscales derivados de Ingresos de libre disposición, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refieren los Artículos 16, 22 Bis, y 22 Quáter de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en el transitorio Octavo y .los que apliquen de acuerdo a dicha Ley
+
+###### ARTÍCULO OCTAVO.
+
+El porcentaje a que hace referencia el Artículo 22 Quáter de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho Artículo.
+
+###### ARTÍCULO NOVENO.
+
+Se Derogan todas las disposiciones jurídicas que se opongan a lo establecido en el presente Decreto.
