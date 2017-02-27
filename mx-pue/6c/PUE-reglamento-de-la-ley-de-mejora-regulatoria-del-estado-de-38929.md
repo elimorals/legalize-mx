@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-de-mejora-regulatoria-del-estado-de-38929"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-19"
-last_updated: "2004-04-19"
+last_updated: "2017-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE GOBERNANZA REGULATORIA PARA EL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2017. (ABROGADO)
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de abril de 2004.
 
@@ -338,3 +340,15 @@ El presente Reglamento entrará en vigor al día siguiente al de su publicación
 Se derogan todas las disposiciones que se opongan a este Reglamento.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los diez días del mes de marzo del año dos mil cuatro.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.- El Secretario de Desarrollo Económico.- ANTONIO ZARAÍN GARCÍA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO DE LA LEY DE GOBERNANZA REGULATORIA PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Mejora Regulatoria del Estado de Puebla, publicado en el Periódico Oficial del Estado, el diecinueve de abril de dos mil cuatro.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Reglamento.
