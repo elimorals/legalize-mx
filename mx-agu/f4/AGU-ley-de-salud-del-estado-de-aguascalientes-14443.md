@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2016-08-22"
+last_updated: "2017-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -139,13 +141,19 @@ II.- Ley Estatal: A la Ley de Salud del Estado de Aguascalientes;
 
 III.- Secretaría: A la Secretaría de Salud del Estado de Aguascalientes;
 
-IV.- Organismo: Al Organismo Público Descentralizado denominado Instituto de Servicios de Salud del Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
 
-V.- Sistema Estatal de Salud: Al Sistema Integral de Servicios de Salud del Estado de Aguascalientes.
+IV.- Organismo: Al Organismo Público Descentralizado denominado Instituto de Servicios de Salud del Estado de Aguascalientes;
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
 
-Se entiende por salud, un estado completo de bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades.
+V.- Sistema Estatal de Salud: Al Sistema Integral de Servicios de Salud del Estado de Aguascalientes;
+
+Se entiende por salud, un estado completo de bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+
+VI.- El Médico en Tu Casa: El Programa mediante el cual se proporcionan servicios de salud en el domicilio de mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, personas en situación de abandono, así como a personas con discapacidad imposibilitados para acudir a una unidad de salud.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -853,6 +861,12 @@ Para los efectos de esta Ley, se considera usuario de servicios de salud a toda 
 
 Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad idónea y a recibir atención profesional y éticamente responsable, así como un trato respetuoso y digno de los profesionales, técnicos y auxiliares.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2017)</small>
+
+ARTÍCULO 57 BIS.- Las mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, las personas en situación de abandono, así como personas con discapacidad imposibilitados para acudir a una unidad de salud, podrán recibir los servicios de salud a través del programa El Médico en Tu Casa, a través de las instituciones médicas que cuenten con el programa.
+
+Para efectos de lo señalado en el presente artículo se entenderá por persona en situación de abandono, aquella que por su situación social o familiar viven abandonadas por sus familiares en su domicilio y son apoyados por algún vecino o cualquier persona.
+
 ###### ARTICULO 58.
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
@@ -985,7 +999,7 @@ II.- Las actividades recreativas de esparcimiento y culturales destinadas a fort
 
 III.- La vigilancia de actividades ocupaciones (sic) que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de escretas; y
+IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de escretas (sic); y
 
 V.- Las demás que coadyuven a la salud materno-infantil.
 
@@ -2723,7 +2737,7 @@ Los verificadores, para practicar visitas, deberán estar provistos de órdenes 
 
 Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividades o señalar al verificador la zona en que vigilará el cumplimiento por todos los obligados, de las disposiciones sanitarias.
 
-Tratándose de actividades que se realicen en la vía pública, las órdenes podrán darse para vigilar una rama determinada de actividades o una zona que se delimitará en la (sic) misma orden.
+Tratándose de actividades que se realicen en la vía pública, las órdenes podrán darse para vigilar una rama determinada de actividades o una zona que se delimitará en la misma orden.
 
 ###### ARTICULO 259.
 
@@ -3423,15 +3437,29 @@ P.O. 22 DE AGOSTO DE 2016.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS SIMILARES 44/2015 Y 52/2014 QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE COAHUILA DE ZARAGOZA Y DURANGO, CON RESIDENCIA EN LAS CIUDADES DE TORREÓN Y DURANGO, RESPECTIVAMENTE; ASÍ COMO EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO; PARA HOMOLOGAR LA JURISDICCIÓN TERRITORIAL DE DICHOS CENTROS CON LOS CIRCUITOS JUDICIALES DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE COMPRENDEN DICHOS ESTADOS”.]
+P.O. 27 DE FEBRERO DE 2017.
 
-PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 66.- SE REFORMA Y ADICIONA EL ARTÍCULO 5° Y SE ADICIONA UN ARTÍCULO 57 BIS, A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de Durango con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
+###### ARTÍCULO PRIMERO.
 
-TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+El presente decreto entrará en vigencia a los 120 días hábiles siguientes de su publicación en el Periódico Oficial del Estado de Aguascalientes, no obstante lo dispuesto por el Artículo Segundo Transitorio.
 
-D.O.F. 30 DE MARZO DE 2016.
+###### ARTÍCULO SEGUNDO.
+
+El Instituto de Servicios de Salud del Estado de Aguascalientes deberá realizar las adecuaciones correspondientes a su marco normativo aplicable a más tardar a los 120 días hábiles contados a partir del inicio de vigencia de este Decreto; contando con el mismo plazo para implementar, adecuar y dar cabal cumplimiento al Programa El Médico en Tu Casa.
+
+###### ARTÍCULO TERCERO.
+
+Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+A efecto de que el Instituto de Servicios de Salud del Estado de Aguascalientes lleve a cabo la implementación y operación del Programa "El Médico en Tu Casa", el Titular del Poder Ejecutivo del Estado de Aguascalientes, propondrá dentro del Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal 2018 y subsecuentes, la suficiencia presupuestal que para tal efecto se requiera, en apego a lo establecido por la Ley de Salud del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+El Programa "El Médico en Tu Casa" será aplicado en concordancia con las demás disposiciones de atención médica que se establecen en la Ley de Salud del Estado de Aguascalientes así como en los acuerdos y convenios que para el efecto se suscriban.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 15/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA CUARTA REGIÓN, CON RESIDENCIA EN XALAPA, VERACRUZ Y SU TRANSFORMACIÓN EN EL JUZGADO DÉCIMO OCTAVO DE DISTRITO EN LA REFERIDA ENTIDAD FEDERATIVA Y SEDE, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, Y FECHA DE INICIO DE FUNCIONES; Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA RESIDENCIA INDICADOS".]
 
