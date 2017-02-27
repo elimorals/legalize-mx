@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-asociaciones-publico-privadas-y-proyectos-de-96610"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-11"
-last_updated: "2013-11-11"
+last_updated: "2017-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE ASOCIACIONES PUBLICO - PRIVADAS Y PROYECTOS DE PRESTACION DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE -- ANTES LEY DE PROYECTOS DE PRESTACION DE SERVICIOS DEL ESTADO DE -- AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2017.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de noviembre de 2013.
 
@@ -45,9 +47,11 @@ LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO ÚNICO
 
-###### ARTÍCULO 1º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2017)</small>
 
-La presente Ley es de orden público e interés general, y tiene por objeto regular las acciones relativas a la planeación, aprobación, autorización, presupuestación, adjudicación, y ejecución de aquellos Proyectos de Prestación de Servicios a que se refiere la Fracción XXXIV del Artículo 27 de la Constitución Política del Estado de Aguascalientes que realicen las siguientes autoridades contratantes:
+###### ARTÍCULO 1°.
+
+La presente Ley es de orden público e interés general, y tiene por objeto regular las acciones relativas a la planeación, aprobación, autorización, presupuestación, adjudicación, y ejecución de aquellos Proyectos de Prestación de Servicios o de Asociaciones Público-Privadas a que se refiere la Fracción XXXIV del Artículo 27 de la Constitución Política del Estado de Aguascalientes que realicen las siguientes autoridades contratantes:
 
 I. El Poder Ejecutivo a través de sus dependencias, o entidades paraestatales de la Administración Pública Estatal; y
 
@@ -59,7 +63,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 a) Administrador del Proyecto: Servidor público designado por el titular de la autoridad contratante, cuya responsabilidad será coadyuvar en el desarrollo del Proyecto;
 
-b) Análisis costo-beneficio: Estudio que deberá mostrar que el Proyecto genera beneficios, iguales o mayores a los que se obtendrían en caso de que los servicios fueran proporcionados mediante la realización de un proyecto de inversión bajo el esquema de obra pública tradicional o cualquier otro;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2017)</small>
+
+b) Análisis costo-beneficio: Estudio que deberá mostrar que el Proyecto genera beneficios, iguales o mayores a los que se obtendrían en caso de que los servicios fueran proporcionados mediante la realización de un proyecto de inversión bajo el esquema de obra pública tradicional, incluyendo un análisis de transferencia de riesgos al sector privado;
 
 c) Comisión: Cuerpo Colegiado regulado por la Ley y su Reglamento, para la aprobación de los Proyectos presentados por la autoridad contratante;
 
@@ -83,7 +89,9 @@ l) Pagos Plurianuales: Los autorizados por el Congreso para dar cumplimiento a l
 
 m) Partida Plurianual: El rubro autorizado por el Congreso para cada Proyecto, que deberá incluirse en los Presupuestos de Egresos aprobados por el Congreso o los Ayuntamientos, con cargo al cual se aplicarán los Pagos Plurianuales. La Partida deberá señalar el nombre del Proyecto, la autoridad contratante y el número de licitación;
 
-n) Proyecto: Modalidad de participación pública-privada para la prestación de servicios a la autoridad contratante o al usuario final, que conlleve cualquiera de los servicios, así como de las actividades señalados en el Artículo 5º de la Ley, para mejorar la eficiencia de los servicios públicos o funciones a cargo de dichas autoridades;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2017)</small>
+
+n) Proyecto: Asociación pública-privada para la prestación de servicios a la autoridad contratante o al usuario final, que conlleve cualquiera de los servicios, así como de las actividades señalados (sic) en el Artículo 5° de la Ley, para mejorar la eficiencia de los servicios públicos o funciones a cargo de dichas autoridades;
 
 o) Reglamento: El Reglamento de la Presente Ley;
 
@@ -129,9 +137,13 @@ II. Que los Contratos de los Proyectos sean mayores a cinco años y no excedan d
 
 III. Que el Inversionista Prestador para realizar los servicios, así como de las actividades, será responsable de obtener a su cargo la inversión, tanto de capital como financiamiento requeridos, así como de proveer los activos necesarios. La inversión podrá realizarse sobre inmuebles del Inversionista Prestador o proporcionados por la autoridad contratante.
 
-###### ARTÍCULO 7º.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2017)</small>
 
-Para todos los efectos legales los Proyectos tendrán el carácter de inversión pública productiva.
+###### ARTÍCULO 7°.
+
+Los Proyectos solo podrán contratarse cuando se destinen a Inversiones públicas productivas, como se definen en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios.
+
+En la contraprestación por los servicios contratados, deberán incluirse los pagos por la Inversión pública productiva a realizarse.
 
 ###### ARTÍCULO 8º.
 
@@ -301,9 +313,11 @@ VII. Solicitar la autorización del Congreso de las Fracciones anteriores.
 
 ### CAPÍTULO III. Del Congreso
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-En caso de haberse obtenido las aprobaciones indicadas en los Capítulos I y II del Título Cuarto de la Ley, el Administrador del Proyecto integrará la documentación necesaria a fin de que el Titular del Poder Ejecutivo o el Presidente Municipal, remita la solicitud al Congreso y obtener, en su caso, el Decreto de autorización correspondiente para:
+En caso de haberse obtenido las aprobaciones indicadas en los Capítulos I y II del Título Cuarto de la Ley, el Administrador del Proyecto integrará la documentación necesaria a fin de que el Titular del Poder Ejecutivo o el Presidente Municipal, remita la solicitud al Congreso y obtener, en su caso, de conformidad con la Fracción XXXIV del Artículo 27 de la Constitución Política del Estado de Aguascalientes, el Decreto de autorización correspondiente para (sic)
 
 I. Realizar el Proyecto;
 
@@ -316,6 +330,10 @@ IV. Otorgar la Garantía de Pago;
 V. La afectación patrimonial de los inmuebles, la infraestructura existente y los bienes necesarios para la realización del Proyecto; y
 
 VI. Celebrar los actos jurídicos necesarios para implementar lo anterior.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2017)</small>
+
+El Decreto deberá establecer la vigencia de la autorización, en cuyo caso no podrá exceder del ejercicio fiscal siguiente. De no establecer una vigencia se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en que fue aprobada.
 
 ###### ARTÍCULO 27.
 
@@ -629,7 +647,9 @@ X. Precisión de si la contraprestación es fija o sujeta a ajustes y, en este �
 
 XI. Moneda en que se cotizó y se efectuará el pago respectivo, el cual será en pesos mexicanos;
 
-XII. Forma, plazo y condiciones de pago de la contraprestación por los servicios, señalando el momento en que se haga exigible el mismo;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+
+XII.- Forma, plazo y condiciones de pago de la contraprestación por los servicios, condicionando su exigibilidad a la inscripción del Contrato en los Registros Estatal de Deuda Pública y, Público Único señalando (sic) en el Artículo 58 de esta Ley;
 
 XIII. La forma y modo de la Garantía de Pago;
 
@@ -719,9 +739,13 @@ A la terminación o rescisión del contrato, los inmuebles, bienes y derechos, i
 
 A la Secretaría y a las Tesorerías Municipales les corresponderá llevar un control de los Contratos para programar los Pagos Plurianuales. El control tendrá por cada Contrato la información correspondiente a los pagos realizados y su impacto proporcional en el Presupuesto de Egresos. La Secretaría o las Tesorerías Municipales emitirán los certificados de afectación, indicando los ingresos afectos como garantía y/o fuente de pago de las obligaciones contraídas en los Contratos correspondientes a los Pagos Plurianuales.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2017)</small>
+
 ###### ARTÍCULO 58.
 
-A fin de llevar un control en la aplicación de los recursos de las Partidas Plurianuales de los Proyectos contratados por las autoridades contratantes, la Secretaría llevará un registro de todos los Contratos y de las Garantías de Pago.
+Una vez celebrados los Contratos, deberá inscribirse el Proyecto en la sección especial incluida en el Registro Estatal de Deuda Pública de conformidad con lo previsto en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios, así como en el Registro Público Único que lleva la Secretaría de Hacienda y Crédito Público.
+
+Dentro de los diez días posteriores a partir de su inscripción en el Registro Público Único, la autoridad contratante deberá publicar en su página oficial de Internet dichos Contratos. Asimismo, la autoridad contratante presentará en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de cada Proyecto, incluyendo como mínimo, el importe y plazo pactados.
 
 ## TÍTULO NOVENO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -898,3 +922,49 @@ Dip. Arturo Robles Aguilar,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 8 de noviembre de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+P.O. 27 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 64.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 15 días naturales de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo por lo dispuesto en los Artículos Segundo al Octavo Transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El porcentaje a que hace referencia el Artículo 22 de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 se observará el porcentaje establecido en el artículo citado.
+
+###### ARTÍCULO TERCERO.
+
+La Fracción I del Artículo 22 Ter de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el Artículo 22 Ter de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+Las nuevas leyes federales o reformas a las mismas, a que se refiere el último párrafo de la fracción a que se refiere el presente transitorio serán aquéllas que se emitan con posterioridad a la entrada en vigor de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+###### ARTÍCULO CUARTO.
+
+El porcentaje a que hace referencia el Artículo 22 Quáter de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, relativo a los adeudos del ejercicio fiscal anterior de los Presupuestos de Egresos del Estado, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+###### ARTÍCULO QUINTO.
+
+El registro de proyectos de Inversión pública productiva y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el Artículo 46, Fracción III, segundo párrafo y la Fracción V, segundo párrafo, respectivamente de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, deberá estar en operación a más tardar el 1o. de enero de 2018.
+
+###### ARTÍCULO SEXTO.
+
+Los Excedentes Fiscales derivados de Ingresos de libre disposición a que hace referencia el Artículo 40 Bis, fracción I de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al último párrafo del Artículo 14 de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, adicionalmente podrán destinarse a Gasto Corriente hasta el ejercicio fiscal 2018 los Excedentes Fiscales derivados de Ingresos de libre disposición, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refieren los Artículos 16, 22 Bis, y 22 Quáter de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en el transitorio Octavo y los que apliquen de acuerdo a dicha Ley.
+
+###### ARTÍCULO OCTAVO.
+
+El porcentaje a que hace referencia el Artículo 22 Quáter de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho Artículo.
+
+###### ARTÍCULO NOVENO.
+
+Se Derogan todas las disposiciones jurídicas que se opongan a lo establecido en el presente Decreto.
