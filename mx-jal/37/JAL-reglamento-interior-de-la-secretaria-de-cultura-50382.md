@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-cultura-50382"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-06"
-last_updated: "2006-04-06"
+last_updated: "2017-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE CULTURA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE CULTURA, PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARIA DE CULTURA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 6 de abril de 2006.
 
@@ -512,3 +514,17 @@ SRA. SOFÍA GONZÁLEZ LUNA
 Secretario de Cultura
 
 (RÚBRlCA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DIGELAG ACU 008/2017, QUE EXPIDE EL REGLAMENTO INTERNO DE LA SECRETARÍA DE CULTURA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Cultura publicado en el Periódico Oficial “El Estado de Jalisco" el 7 de marzo de 2006.
+
+TERCERO. Se instruye a la Secretaría de Cultura para que gestione ante la Secretaría de Planeación, Administración y Finanzas, la actualización de los manuales administrativos, así como las descripciones de puesto y demás normatividad administrativa en que se asigne funciones a los servidores públicos de la propia Secretaría de Cultura.
+
+CUARTO. Hasta en tanto se lleva a cabo dicha actualización, seguirán aplicándose los manuales de organización y procedimientos, de servicios, descripciones de puesto y demás instrumentos en donde se consignen las atribuciones de dichos servidores públicos, en cuanto no contravengan el Reglamento que se expide a través de este Acuerdo.
