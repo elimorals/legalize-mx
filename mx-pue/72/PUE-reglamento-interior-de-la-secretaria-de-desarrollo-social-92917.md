@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-desarrollo-social-92917
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-04"
-last_updated: "2013-01-04"
+last_updated: "2017-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 4 de enero de 2013.
 
@@ -884,3 +886,21 @@ TERCERO.- Se derogan las disposiciones que se opongan al presente Reglamento.
 CUARTO.- Los recursos humanos, financieros y materiales, asignados a las unidades administrativas o áreas que desaparecen o se modifican, serán transferidos a las unidades administrativas que correspondan, en los términos del presente Reglamento, y la Coordinación General de Administración y Finanzas efectuará las acciones necesarias para tal fin, de conformidad con las disposiciones aplicables.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a dos de enero de dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- El Secretario de Desarrollo Social.- C. NEFTALÍ SALVADOR ESCOBEDO ZOLETTO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL".]
+
+PRIMERO. El presente Decreto, deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social, publicado en el Periódico Oficial del Estado el cuatro de enero de dos mil trece.
+
+TERCERO. En tanto se expidan o modifiquen los manuales administrativos, el Secretario está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
+
+CUARTO. Las unidades administrativas de la Secretaría, en cumplimiento a las medidas de racionalidad y eficiencia para el ejercicio del gasto, seguirán utilizando las formas oficiales, formatos y demás papelería existente en los que conste su denominación anterior, hasta que se agoten, siempre y cuando no se contrapongan con las disposiciones legales vigentes.
+
+QUINTO. Los asuntos que hubiesen iniciado su trámite con anterioridad a la entrada en vigor del presente Decreto, serán de la competencia de la Unidad Administrativa de la Secretaría de Desarrollo Social a la que le sean conferidas las facultades que correspondan conforme a este Reglamento.
+
+SEXTO. Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
