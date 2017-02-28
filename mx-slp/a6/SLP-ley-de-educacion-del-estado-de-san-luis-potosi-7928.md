@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2016-07-16"
+last_updated: "2017-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -715,6 +715,10 @@ Tratándose de menores de edad con discapacidad, la educación especial propicia
 
 La educación especial incluye la orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares, que integren a los alumnos con necesidades especiales de educación.
 
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+En el Estado, la prestación de la educación a las personas con discapacidad atenderá además de lo dispuesto por la legislación en materia educativa, a lo señalado por, la Ley General para la Inclusión de las Personas con Discapacidad; Ley General de Derechos de Niñas, Niños y Adolescentes; Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista; Ley para la Inclusión de las Personas con Discapacidad en el Estado y Municipios de San Luis Potosí; Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de San Luis Potosí, y demás ordenamientos relativos.
+
 ###### ARTICULO 37.
 
 La educación media superior comprende el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional de nivel medio, tendrá como antecedente la educación secundaria completa.
@@ -1215,9 +1219,23 @@ XIV.- Establecer de forma paulatina y conforme a la suficiencia presupuestal, es
 
 XV.- Impulsar esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria, y
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
-XVI.- Las demás actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos señalados en el artículo anterior.
+XVI.- Proporcionarán una educación o capacitación basada en criterios de integración e inclusión, para las personas con la condición del espectro autista, tomando en cuenta sus capacidades y potencialidades mediante evaluaciones pedagógicas, a fin de fortalecer la posibilidad de que tengan una vida independiente;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XVII.- Proporcionarán habilitación terapéutica entendiendo a ésta como el proceso de duración limitada y con un objetivo definido de orden, psicológico, social, educativo y técnico, entre otros, a efecto de mejorar la condición física y mental de las personas, para lograr su más acelerada integración social y productiva;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XVIII.- Contarán, en el marco de la educación especial, con elementos que faciliten el proceso de integración a escuelas de educación regular a las personas con la condición del espectro autista;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XIX.- Realizarán acciones que tiendan a no impedir la inscripción de personas con la condición del espectro autista, en los planteles educativos públicos y privados, y
+
+XX.- Las demás actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos señalados en el artículo anterior.
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2013)</small>
 
@@ -2252,3 +2270,15 @@ P.O. 16 DE JULIO DE 2016.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0572.- LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LAS PERSONAS CON LA CONDICIÓN DE ESPECTRO AUTISTA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado expedirá, dentro de los noventa días naturales siguientes al de la vigencia de este Decreto, el Reglamento de la ley contenida en el mismo, y demás disposiciones que estime necesarias.
+
+TERCERO. La Coordinación intersecretarial se instalará dentro de los treinta días naturales siguientes al de la vigencia de este Decreto.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la ley contenida en este Decreto.
