@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-consejo-del-poder-judicial-del-90664"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-14"
-last_updated: "2012-12-14"
+last_updated: "2017-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 14 de diciembre de 2012.
 
@@ -579,35 +579,45 @@ VII. Recibir las declaraciones patrimoniales de los Servidores Públicos que est
 
 VIII. Apoyar al Contralor en cualquier actividad o comisión que éste le asigne; (sic)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DEL PODER JUDICIAL, MEDIANTE EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL CONSEJO DEL PODER JUDICIAL, PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2017, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE CAPÍTULO.]</small>
+
+(REPUBLICADO, P.O. 28 DE FEBRERO DE 2017)
+
 ### Capítulo Cuarto. De la Dirección de Administración
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 42.
 
 La Dirección de Administración tendrá la siguiente estructura orgánica:
 
-I. Un Director, que será el titular de la Dirección de Administración;
+I. Dirección de Administración;
 
 II. Subdirección de Contabilidad y Finanzas;
 
-III. Coordinación de Presupuesto;
+III. Subdirección de Presupuesto;
 
 IV. Subdirección de Recursos Humanos y Nómina;
 
-a. Coordinación de Nómina;
-
-b. Coordinación de Prestaciones y Deducciones;
-
 V. Subdirección de Sistemas Administrativos;
 
-VI. Subdirección del Fondo Auxiliar para la Impartición de Justicia; y
+VI. Subdirección del Fondo Auxiliar para la Impartición de Justicia;
 
-VII. Coordinación de Control Patrimonial.
+VII. Subdirección de Control Patrimonial y Almacén; y,
 
-a. Coordinación de Almacén.
+VIII. Coordinaciones Administrativas de Zona.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 42 Bis.
+
+Todas las unidades integrantes de la Dirección de Administración tienen la obligación de resguardar sus archivos, físicos y electrónicos, que por razón de sus atribuciones se generen, debidamente clasificados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 43.
 
-El Director de Administración tendrá las atribuciones siguientes:
+La Dirección de Administración tendrá las siguientes facultades:
 
 I. Planear, ejecutar y supervisar los programas operativos anuales de la dirección de administración y las áreas administrativas a su cargo;
 
@@ -633,15 +643,27 @@ XI. Cumplir con las obligaciones fiscales y laborales a cargo del Poder Judicial
 
 XII. Planear, administrar y coordinar el desarrollo y operación de los sistemas informáticos que coadyuven a la gestión de su dirección;
 
-XIII. Atender los requerimientos que en materia de transparencia solicite la Unidad de Acceso a la Información del Poder Judicial;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XIII. Atender los requerimientos que en materia de transparencia solicite la unidad de transparencia;
 
 XIV. Coordinar las acciones necesarias, en materia administrativa, para la ejecución de las decisiones que acuerde el Consejo;
 
-XV. Recibir, coordinar e integrar las respuestas y requerimientos que soliciten los órganos de fiscalización y de control;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
-XVI. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen; y
+XV. Recibir, coordinar e integrar las respuestas y requerimientos que soliciten los órganos de fiscalización y de control, en el marco de su competencia;
 
-XVII. Las demás que las Leyes, Reglamentos y demás disposiciones normativas así como el Consejo y su Presidente le asignen.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XVI. Vigilar el suministro de materiales y bienes a los diversos órganos del Poder Judicial a través de las Coordinaciones Administrativas de Zona, estableciendo los controles y seguimiento adecuado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2017)</small>
+
+XVII. Participar como Secretario Ejecutivo del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Poder Judicial del Estado en asuntos relativos a las enajenaciones y servicios relacionados con las mismas, del Poder Judicial; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE FEBRERO DE 2017)</small>
+
+XVIII. Las demás que las Leyes, Reglamentos y demás disposiciones normativas así como el Consejo y su Presidente le asignen.
 
 #### Sección Primera. De la Subdirección de Contabilidad y Finanzas
 
@@ -677,9 +699,11 @@ XIII. Atender los requerimientos, observaciones y recomendaciones que emitan los
 
 XIV. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 45.
 
-Son atribuciones del Coordinador de Presupuesto;
+Son atribuciones de la Subdirección de Presupuesto:
 
 I. Supervisar y evaluar el correcto desempeño y funcionamiento del personal de su coordinación;
 
@@ -695,7 +719,9 @@ VI. Coordinar y supervisar el registro de los datos maestros y la carga del pres
 
 VII. Proponer políticas y mecanismos de modificación al presupuesto autorizado en función de las variaciones en el ejercicio del gasto y del flujo de ingresos, para aprobación del Consejo;
 
-VIII. Realizar análisis y generar reportes presupuestales mensuales para determinar posibles economías que se puedan transferir a proyectos prioritarios, dentro de los diez días siguientes al cierre del periodo, informando al Consejo a través del Presidente;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+VIII. Realizar el análisis y generar reportes presupuestales mensuales para determinar posibles economías que se puedan transferir a proyectos prioritarios, dentro de los diez días siguientes al cierre del periodo, informando al Consejo a través de la Dirección;
 
 IX. Elaborar la proyección del cierre anual del ejercicio del gasto, a fin de proporcionar elementos para la toma de decisiones del Consejo;
 
@@ -711,13 +737,17 @@ XIV. Entregar la cuenta pública a la Dirección de Contabilidad y Finanzas para
 
 XV. Atender los requerimientos, observaciones y recomendaciones que emitan los órganos de fiscalización externa así como la Contraloría;
 
-XVI. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XVI. Las demás que las Leyes, Reglamentos, el Consejo y su Presidente, así como su superior jerárquico le asignen.
 
 #### Sección Segunda. De la Subdirección de Recursos Humanos y Nómina
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 46.
 
-Son atribuciones del Subdirector de Recursos Humanos y Nómina:
+Son atribuciones de la Subdirección de Recursos Humanos y Nómina:
 
 I. Supervisar y evaluar el correcto desempeño y funcionamiento de las áreas y personal a su cargo;
 
@@ -729,11 +759,15 @@ IV. Ejecutar los acuerdos del Consejo relacionados con la creación y cancelaci�
 
 V. Supervisar el cálculo y pago quincenal de la nómina;
 
-VI. Elaborar el anteproyecto relativo al cálculo de bono de productividad anual para aprobación del Consejo;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+VI. Elaborar el anteproyecto relativo al cálculo del capítulo de servicios personales, bono de productividad anual e incremento salarial para aprobación del Consejo;
 
 VII. Colaborar en la elaboración del anteproyecto de presupuesto de egresos en materia de nómina y prestaciones sociales;
 
-VIII. Emitir los nombramientos autorizados por el Consejo;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+VIII. Emitir los nombramiento (sic) autorizados por el Consejo, en los alcances que se indique;
 
 IX. Revisar convenios con empresas que otorgan créditos a empleados del Poder Judicial para descuentos vía nómina, para aprobación del Consejo;
 
@@ -741,59 +775,37 @@ X. Atender los requerimientos, observaciones y recomendaciones que emitan los ó
 
 XI. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2017)</small>
+
+XII. Mantener actualizada y supervisar la bolsa de trabajo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2017)</small>
+
+XIII. Aplicar exámenes al personal de nuevo ingreso, así como recibir los exámenes aplicados en todo el Estado por los Coordinadores Administrativos de Zona para su revisión y registro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2017)</small>
+
+XIV. Recibir de las Coordinaciones Administrativas de Zona los reportes de nómina y entregarlos a la Dirección de Administración; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2017)</small>
+
+XV. Las demás que las Leyes, Reglamentos, el Consejo y su Presidente, así como su superior jerárquico le asignen.
+
 ###### Artículo 47.
 
-Son atribuciones del Coordinador de Nómina:
-
-I. Realizar la dispersión de fondos para el pago de nómina por tarjetas bancarias para los Servidores Públicos;
-
-II. Realizar los trámites necesarios para obtener las tarjetas electrónicas para el pago de nómina de los Servidores Públicos;
-
-III. Transmitir en forma quincenal a las instituciones bancarias la información de la nómina electrónica de los Servidores Públicos que cobran por medio electrónico;
-
-IV. Registrar y actualizar la bolsa de trabajo;
-
-V. Aplicar exámenes al personal de nuevo ingreso, así como recibir los exámenes aplicados en todo el Estado por los coordinadores de zona para su revisión y registro;
-
-VI. Apoyar en la integración y emisión de la nómina;
-
-VII. Realizar el cálculo y aplicación en el sistema de nómina del tiempo extraordinario;
-
-VIII. Aplicar cuando corresponda, reintegros al personal que tuvo un descuento por falta injustificada, descuentos por concepto de licencias médicas, descuentos por pagos a terceros; así como retener y enterar los impuestos que sobre la nómina correspondan;
-
-IX. Aplicar los conceptos de aguinaldo, prima vacacional, día del Poder Judicial, bono de productividad y aumento retroactivo en la nómina, así como determinar el cálculo para presentación de la declaración anual informativa de sueldos y salarios de los servidores públicos obligados; y
-
-X. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2017)
 
 ###### Artículo 48.
 
-Son atribuciones de la Coordinación de Prestaciones y Deducciones:
-
-I. Coadyuvar en el proceso de integración y emisión de la nómina;
-
-II. Capturar y realizar los pagos a terceros;
-
-III. Aplicar descuentos por concepto de licencias médicas y descuentos por terceros, aportaciones, cuotas y ahorro voluntario al ISSEG, cuotas al ISSSTE, y cualquier otra deducción autorizada;
-
-IV. Apoyar en la revisión y cálculo de quinquenios, aguinaldo, primas vacacionales, día del poder judicial, bono de productividad, aumento retroactivo y cualquier otra prestación autorizada;
-
-V. Elaborar liquidaciones al personal que causa baja, de conformidad a las normas aplicables;
-
-VI. Elaborar formatos de cheques cancelados y de nómina;
-
-VII. Asesorar a los Servidores Públicos para realizar los trámites de jubilación y pensión ante el ISSEG;
-
-VIII. Controlar el archivo y los expedientes de los Servidores Públicos, así como su digitalización;
-
-IX. Tramitar la recuperación de fondos de aportaciones para el ISSEG y hojas de servicio, cuando corresponda; y
-
-X. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2017)
 
 #### Sección Tercera. De la Subdirección del Fondo Auxiliar Para la Impartición de Justicia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 49.
 
-Son atribuciones del Subdirector del Fondo Auxiliar para la Impartición de Justicia:
+Son atribuciones de la Subdirección del Fondo Auxiliar para la Impartición de Justicia:
 
 I. Proponer políticas financieras administrativas, operativas y normativas que eficiente la administración del Fondo Auxiliar;
 
@@ -815,19 +827,25 @@ IX. Gestionar ante la Secretaría de Finanzas, Inversión y Administración de G
 
 X. Gestionar ante la Secretaría de Gobierno la transferencia de recursos derivados de certificados del programa de excarcelación;
 
-XI. Entregar datos financieros a la Unidad de Acceso a la Información;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XI. Entregar los datos financieros que correspondan a la unidad de transparencia para su difusión;
 
 XII. Elaborar y entregar reportes financieros al Presidente y al Consejo cuando se lo soliciten;
 
 XIII. Atender los requerimientos, observaciones y recomendaciones que emitan los órganos de fiscalización externa así como la Contraloría; y
 
-XIV. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XIV. Las demás que las Leyes, Reglamentos, el Consejo y su Presidente, así como su superior jerárquico le asignen.
 
 #### Sección Cuarta. De la Subdirección de Sistemas Administrativos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 50.
 
-Son atribuciones del Subdirector de Sistemas Administrativos:
+Son atribuciones de la Subdirección de Sistemas Administrativos:
 
 I. Supervisar y evaluar el correcto desempeño y funcionamiento del personal a su cargo.
 
@@ -839,7 +857,9 @@ IV. Coordinar, dirigir y supervisar el desarrollo de sistemas para la Dirección
 
 V. Dar mantenimiento preventivo y correctivo en los sistemas desarrollados: recursos humanos y nomina, fotocopiado, intranet, vales de gasolina, etc.;
 
-VI. Supervisar la correcta capacitación de los usuarios en el uso de los sistemas desarrollados y/o módulos del SAP y MAAT;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+VI. Supervisar la correcta capacitación de los usuarios en el uso de los sistemas desarrollados, módulos y GPR que se implementen;
 
 VII. Supervisar y controlar el sitio web de acceso a la información pública de la Dirección de Administración, y la Dirección de Servicios de Apoyo;
 
@@ -861,17 +881,23 @@ XV. Coordinar y supervisar la implementación de los sistemas, cableados, bienes
 
 XVI. Atender los requerimientos, observaciones y recomendaciones que emitan los órganos de fiscalización externa así como la Contraloría; y
 
-XVII. Coordinar y verificar la evolución de los proyectos en tecnologías de información y que estos sean ejecutados en tiempo y forma de acuerdo a los planes de trabajos establecidos.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XVII. Las demás que las Leyes, Reglamentos, el Consejo y su Presidente, así como su superior jerárquico le asignen.
 
 #### Sección Quinta. De la Coordinación de Control Patrimonial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 51.
 
-Son atribuciones de la Coordinación de Control Patrimonial:
+Son atribuciones de la Subdirección de Control Patrimonial:
 
 I. Proponer, para aprobación del Consejo, normas, políticas y procedimientos para el manejo y control de bienes del Poder Judicial;
 
-II. Supervisar y evaluar el correcto desempeño y funcionamiento del personal de su coordinación;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+II. Supervisar y evaluar el correcto desempeño y funcionamiento del personal de su área;
 
 III. Analizar los procesos de su área y proponer mejoras en los mismos;
 
@@ -885,9 +911,51 @@ VII. Supervisar el registro y actualización del libro de activos;
 
 VIII. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen; y
 
-IX. Controlar la recepción en almacenes, registro, resguardo y distribución de los bienes adquiridos, que se reasignen y los que por cualquier situación causen baja del padrón de bienes muebles del Poder Judicial; (sic)
+IX. Controlar la recepción en almacenes, registro, resguardo y distribución de los bienes adquiridos, que se reasignen y los que por cualquier situación causen baja del padrón de bienes muebles del Poder Judicial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2017)</small>
+
+X. Las demás que las Leyes, Reglamentos, el Consejo y su Presidente, así como su superior jerárquico le asignen.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 51 Bis.
+
+Son atribuciones de las Coordinaciones Administrativas de Zona:
+
+I. Gestionar las necesidades de administración, financieras y requerimientos materiales y suministros de las áreas administrativas y jurisdiccionales de la zona;
+
+II. (sic)
+
+III. Verificar que el personal a su cargo realice los diferentes procesos administrativos de acuerdo a la normatividad aplicable;
+
+IV. Controlar la recepción de equipos, materiales y suministros de acuerdo a las fechas de entrega pactadas con el proveedor o con el almacén central, así como supervisar el adecuado almacenamiento de los equipos, materiales y suministros en el almacén de la zona a su cargo;
+
+V. Gestionar las requisiciones de bienes ante la Subdirección de Control Patrimonial para ver la viabilidad de que se cuente con los mismos y puedan ser reasignados;
+
+VI. Supervisar el proceso de recepción y entrega de la nómina de la zona;
+
+VII. Apoyar quincenalmente a la recepción de la nómina y revisar que se encuentren todos los documentos de pago correspondientes a cada servidor público de la zona;
+
+VIII. Organizar los recorridos del personal de apoyo de la coordinación para la entrega de la documentación de nómina por municipio correspondiente a la zona;
+
+IX. Remitir a la Subdirección de Recursos Humanos y Nómina los reportes de nómina debidamente firmados;
+
+X. Atender los requerimientos, observaciones y recomendaciones que emitan los órganos de fiscalización externa, así como la contraloría;
+
+XI. Coordinar con la Subdirección de Control Patrimonial la recepción de bienes dados de baja y el proceso de enajenación en su fase de almacenamiento y entrega;
+
+XII. Aplicar en su zona y remitir a la Dirección de Administración los exámenes al personal de nuevo ingreso; y,
+
+XIII. Las demás que las Leyes, Reglamentos, el Consejo y su Presidente, así como su superior jerárquico le asignen.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DEL PODER JUDICIAL, MEDIANTE EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL CONSEJO DEL PODER JUDICIAL, PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2017, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE TÍTULO.]</small>
+
+(REPUBLICADO, P.O. 28 DE FEBRERO DE 2017)
 
 ## Título Cuarto. Áreas Administrativas del Consejo
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 52.
 
@@ -901,9 +969,13 @@ III. Dirección de Tecnologías de la Información y Telecomunicaciones;
 
 IV. Dirección de Archivo General;
 
-V. Dirección de Planeación y Estadística;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
-VI. Coordinación General del Sistema de Gestión de Oralidad;
+V. Coordinación de Planeación
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+VI. Coordinación de Estadística
 
 VII. Dirección de Seguridad Institucional;
 
@@ -915,289 +987,645 @@ X. Dirección de Oficialías Comunes de Partes y Centrales de Actuarios; y
 
 XI. Comité de Equidad de Género.
 
+(REPUBLICADO, P.O. 28 DE FEBRERO DE 2017)
+
 ### Capítulo Primero. De la Dirección de Servicios de Apoyo
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 53.
 
-La Dirección de Servicios de Apoyo contará con las siguientes unidades administrativas:
+Además de las señaladas en el artículo 2, para efectos de este capítulo, se entenderá por:
 
-I. El Director de Servicios de Apoyo;; (sic)
+I. Área: Áreas administrativas o jurisdiccionales y órganos auxiliares del Poder Judicial del Estado de Guanajuato y su Consejo;
 
-II. Subdirección de Construcción y Supervisión de Obra
+II. Comité: Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Poder Judicial del Estado;
 
-a. Coordinación Técnica-Administrativa de Obra;
+III. Dirección: Dirección de Servicios de Apoyo;
 
-III. Subdirección de Servicios Generales;
+IV. Subdirecciones: Subdirecciones adscritas a la Dirección de Servicios de Apoyo.
 
-a. Coordinación de Servicios Generales;
+V. Unidad: Unidad administrativa integrante de la Dirección de Servicios de Apoyo;
 
-b. Coordinación de Proyectos Arquitectónicos y
+VI. Unidad de Transparencia: Unidad de Transparencia del Poder Judicial.
 
-c. Coordinación de Proyectos y Contratos.
-
-IV. Coordinación de Adquisiciones; y
-
-V. Coordinaciones de Apoyo Regionales.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 54.
 
-El Director de Servicios de Apoyo tendrá las siguientes atribuciones:
+La Dirección de Servicios de Apoyo se encargará de las cuestiones relativas a la obra, servicios generales, adquisiciones y mantenimiento a inmuebles del Poder Judicial.
 
-I. Planear anualmente las acciones de la dirección y las áreas administrativas a su cargo;
+Se integrará por las siguientes unidades administrativas:
 
-II. Coadyuvar con el Consejo, en la planeación de la obra pública del Poder Judicial, de acuerdo con las necesidades institucionales de corto, mediano y largo plazo;
+I. Dirección de Servicios de Apoyo
 
-III. Administrar y supervisar los procesos de adjudicación y de ejecución, construcción y supervisión de obra pública, así como integrar el banco de proyectos arquitectónicos y estadística de obra pública;
+a. Coordinaciones de Apoyo Regional
 
-IV. Planear y proponer al comité de adquisiciones, el programa anual de compras y contratación de servicios para el ejercicio fiscal correspondiente, así como supervisar su ejecución y cumplimiento;
+b. Coordinación de Vinculación, Seguimiento y Gestión
 
-V. Elaborar el catálogo de bienes materiales de consumo;
+i. Jefatura Normativa
 
-VI. Participar en el comité de adquisiciones como secretario ejecutivo;
+ii. Jefatura de Apoyo Técnico
 
-VII. Solicitar a la Dirección de Administración la liberación de los recursos presupuestales para la contratación de obra, de bienes y servicios autorizados por el Consejo para el logro de las metas y objetivos planeados;
+II. Subdirección de Construcción y Supervisión de Obra
 
-VIII. Programar y realizar las acciones tendientes a la adecuada conservación y mantenimiento de los bienes muebles e inmuebles;
+a. Coordinación Técnica Administrativa de Obra
 
-IX. Participar en la elaboración de la propuesta de lineamientos de austeridad y racionalidad para el ejercicio del gasto relacionado con la contratación de obra pública y servicios relacionados con la misma, compras de bienes y servicios;
+b. Coordinación Técnica Administrativa de Procesos de Licitación y Supervisión de Obra.
 
-X. Establecer el sistema de control de suministro de combustibles y lubricantes asignados a los vehículos al servicio del Poder Judicial, así como autorizar los formatos para servicios de mantenimiento y realizar su supervisión;
+III. Subdirección de Servicios Generales
 
-XI. Dirigir y coordinar las actividades de las coordinaciones de apoyo regionales;
+a. Coordinación de Servicios Generales
 
-XII. Participar en la elaboración del anteproyecto del presupuesto de egresos;
+b. Coordinación de Apoyo Programático y Logístico
 
-XIII. Atender los requerimientos, observaciones y recomendaciones que emitan los órganos de fiscalización externa, así como la Contraloría;
+IV. Subdirección de Adquisiciones
 
-XIV. Atender los requerimientos que en materia de transparencia solicite la Unidad de Acceso a la Información del Poder Judicial;
+a. Coordinación de Programación y Proveeduría
 
-XV. Coordinar la prestación de servicios generales a todas las unidades responsables del Poder Judicial;
+b. Coordinación de Procedimientos de Adquisición
 
-XVI. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen; y (sic)
+V. Subdirección de Proyectos y Mantenimiento a Inmuebles
 
-XVII. Autorizar los contratos de adquisiciones, requisiciones u órdenes de servicios, obra y servicios relacionados con la misma hasta por los montos que mediante acuerdo determine el Consejo;
+a. Coordinación de Proyectos, Adecuación y Preservación de infraestructura inmobiliaria
 
-XVIII. Establecer, previo acuerdo del Consejo, las normas, políticas, sistemas y procedimientos para la administración de los recursos materiales del Poder Judicial; y
+b. Coordinación de Apoyo Programático y Logístico
 
-XIX. Las demás que las disposiciones legales, reglamentarias le atribuyan, así como aquellas que le confiera el Consejo o su Presidente.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 55.
 
-Son atribuciones del Subdirector de Construcción y Supervisión de Obra;
+Todas las unidades integrantes de la Dirección, deberán resguardar los archivos que por razón de sus atribuciones se generen, debidamente clasificados, preferentemente en formato electrónico.
 
-I. Supervisar y evaluar el correcto desempeño y funcionamiento del personal de la dirección;
+Asimismo, deberán responder a las solicitudes de información formuladas por la unidad de transparencia y coadyuvar en la difusión que corresponda de la que se genere como resultado de su actuación.
 
-II. Coordinar e integrar el programa anual de obra pública del Poder Judicial y servicios relacionados;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
-III. Coordinar y supervisar el diseño y desarrollo de proyectos ejecutivos para la obra pública y servicios relacionados del Poder Judicial;
+#### Sección I. De la Dirección de Servicios de Apoyo y sus Coordinaciones
 
-IV. Administrar integralmente las diferentes etapas de la obra pública;
-
-V. Revisar y autorizar las estimaciones y finiquitos de obra;
-
-VI. Supervisar por si o por supervisión externa, el avance físico y ejecución de la obra pública y revisar física y documentalmente, la ejecución de la obra y servicios relacionados;
-
-VII. Verificar el cumplimiento de los contratos para la elaboración de proyectos ejecutivos, ejecución de obra y supervisión externa;
-
-VIII. Supervisar que los procesos y trámites administrativos en materia de obra pública y servicios relacionados con la misma, se efectúen de conformidad a las normas y leyes aplicables y a sus respectivos reglamentos;
-
-IX. Coordinar y supervisar los procesos de entrega-recepción, parciales o totales de obra, según corresponda;
-
-X. Analizar los procesos técnico-administrativos de su área e implementar mejoras en los mismos;
-
-XI. Dirigir los procesos de licitación pública, simplificada y adjudicación directa de la obra pública y servicios relacionados con la misma;
-
-XII. Elaborar el informe mensual del avance de obra y servicios relacionados;
-
-XIII. Atender los requerimientos, observaciones y recomendaciones que emitan los órganos de fiscalización externa, así como la Contraloría; y
-
-XIV. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
-
-#### Sección Primera. De la Subdirección de Construcción y Supervisión de Obra
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 56.
 
-Son atribuciones de la Coordinación de Proyectos Arquitectónicos:
+Son atribuciones de la Dirección de Servicios de Apoyo, además de dirigir, apoyar, coordinar y evaluar el trabajo de las unidades administrativas que la conforman, las siguientes:
 
-I. Coadyuvar en la elaboración de los proyectos para obra nueva, adaptaciones, ampliaciones, remodelaciones y conservación de la infraestructura inmobiliaria del Poder Judicial;
+I. Planear anualmente las acciones de la Dirección y las unidades administrativas a su cargo;
 
-II. Revisar y validar los proyectos ejecutivos presentados por terceros;
+II. Proponer para acuerdo del Consejo, las normas, políticas y procedimientos en materia de adquisiciones, contratación de servicios, arrendamientos y obra pública del Poder Judicial;
 
-III. Revisar y validar las estimaciones de los proyectos y estudios, así como de los números generadores;
+III. Coordinar y validar los procesos de contratación en materia de adquisiciones, servicios generales, arrendamientos y obra pública del Poder Judicial, de acuerdo a los procedimientos señalados en la legislación correspondiente;
 
-IV. Obtener la autorización en proyectos internos arquitectónicos, distribuciones de espacios y acabados;
+IV. Autorizar y, en su caso, suscribir los actos y contratos relativos a obra pública y servicios relacionados con la misma, adquisiciones, arrendamientos, comodatos y contratación de servicios vinculados con bienes muebles e inmuebles; hasta por los montos que determine el Consejo;
 
-V. Revisar y/o elaborar los dictámenes correspondientes para autorización de modificaciones a contratos de obra suscritos, ya sea en tiempo o en monto;
+V. Integrar, administrar, operar y actualizar el Padrón de Proveedores del Poder Judicial del Estado;
 
-VI. Verificar la procedencia de las escalatorias, conforme a los tiempos de ley y en su caso, revisar su cálculo, para proceder a la autorización de sus pagos; y
+VI. Tramitar y resolver en el ámbito de su competencia los procedimientos administrativos de rescisión contractual, aplicación de sanciones, suspensión y cancelación de registros en el padrón de proveedores y demás actos conducentes, de conformidad con las disposiciones aplicables;
 
-VII. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
+VII. Participar como Secretario Ejecutivo del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Poder Judicial del Estado en asuntos relativos a las adquisiciones, servicios generales, arrendamientos y obra pública y servicios relacionados con la misma, del Poder Judicial;
+
+VIII. Planear, integrar y proponer al Comité, el Programa Anual de Adquisiciones, Arrendamientos y Contratación de Servicios del Poder Judicial, con base en la información que presenten los órganos jurisdiccionales y administrativos, y vigilar su ejecución;
+
+IX. Participar en la elaboración de la propuesta de lineamientos de austeridad y racionalidad para el ejercicio del gasto relacionado con la contratación de obra pública y servicios relacionados con la misma, compras de bienes y servicios;
+
+X. Planear, integrar y proponer al Consejo o a quien éste designe, el Programa Anual de Obra y Contratación de Servicios Relacionados con la misma del Poder Judicial, con base en el Programa de Inversión Anual autorizado para tal efecto y vigilar su ejecución;
+
+XI. Participar en la elaboración del Proyecto de Inversión del Poder Judicial para el (sic) cada ejercicio presupuestal, en el ámbito de su competencia.
+
+XII. Programar y realizar las acciones tendientes a la adecuada conservación y mantenimiento de los bienes muebles e inmuebles;
+
+XIII. Participar en la elaboración del anteproyecto del presupuesto de egresos;
+
+XIV. Atender los requerimientos, observaciones y recomendaciones que emitan los órganos revisores del ejercicio del gasto;
+
+XV. Dirigir las actividades de las coordinaciones de apoyo regionales;
+
+XVI. Elaborar y dar seguimiento al Programa Operativo Anual de la Dirección; y,
+
+XVII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Consejo o su Presidencia.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+De las Coordinaciones de Apoyo Regional
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 57.
 
-Son atribuciones de la Coordinación Técnico-Administrativo de Obra:
+Son atribuciones de las Coordinaciones de Apoyo Regionales:
 
-I. Llevar a cabo el control técnico-administrativo de las obras en proceso;
+I. Supervisar y evaluar el desempeño, operación y funcionamiento del personal a su cargo;
 
-II. Elaborar las bases técnicas y económicas así como las convocatorias de los concursos para la elaboración de proyectos ejecutivos, ejecución de obra y supervisión externa de obra;
+II. Coadyuvar con la Dirección en la redacción de normas, políticas y procedimientos en el ámbito de su competencia;
 
-III. Revisar las estimaciones y presupuestos, realizar visitas de obra, reportes, convenios y finiquitos necesarios para la etapa de ejecución de obra;
+III. Administrar los servicios de la zona;
 
-IV. Realizar el análisis y revisión de propuestas necesarias en el proceso de asignación de contratistas;
+IV. Gestionar la atención a necesidades de las áreas administrativas y jurisdiccionales de la zona, a fin de que se realicen acciones preventivas o correctivas de cuidado a bienes muebles e inmuebles del Poder Judicial;
 
-V. Realizar el análisis y revisión de propuestas técnicas y económicas, durante el proceso de asignación de supervisión externa;
+V. Realizar, de acuerdo a (sic) normativa, el trámite de contratación de proveedores en coordinación con las Subdirecciones;
 
-VI. Realizar solicitudes de cotización por obra;
+VI. Supervisar los trabajos o servicios realizados y enviar información a la Dirección para su análisis y determinación;
 
-VII. Realizar mercadeo de materiales para revisión de precios y presupuestos;
+VII. Gestionar las requisiciones de bienes y solicitudes de servicios ante la Dirección para su autorización;
 
-VIII. Recabar información necesaria para realizar trámites con otras instancias públicas o privadas involucradas con autorizaciones o prestación de servicios relacionadas con la obra pública;
+VIII. Coadyuvar en las actividades en materia de adquisiciones, servicios generales, obra y mantenimiento;
 
-IX. Realizar supervisión interna de obra;
+IX. Operar los apoyos que se ameriten para el cumplimiento de las funciones de las Subdirecciones;
 
-X. Realizar visitas de campo para toma de medidas y contar con la información de generadores, estimaciones, reportes, oficios, convenios, bitácoras y finiquitos que justifiquen el proceso de obra en proceso;
+X. Elaborar respuesta y dar el seguimiento que corresponda a las solicitudes de información y observaciones formuladas por los órganos de fiscalización externa, Consejo así como la Contraloría;
 
-XI. Atender y verificar el avance de obra;
+XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Consejo o la Dirección.
 
-XII. Realizar la entrega-recepción física de las obras, actas, finiquitos;
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
-XIII. Realizar carátula de finiquito, estados financieros y las actas de cierre administrativo;
+De la Coordinación de Vinculación, Seguimiento y Gestión
 
-XIV. Realizar consultas técnicas y documentales para atender las aclaraciones, correcciones, solicitudes de prórroga, revisión de tarjetas de precios y/o problemas que se presenten en obra;
-
-XV. Atender y proporcionar información para auditorías;
-
-XVI. Elaborar convenios por ampliación de tiempo o convenios por ampliación de monto, para su correspondiente firma;
-
-XVII. Coordinar la elaboración de los contratos administrativos en materia de obra pública y de servicios relacionados con la misma;
-
-XVIII. Elaborar la estadística de la obra pública y los servicios relacionados con la misma; y
-
-XIX. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 58.
 
-Son atribuciones del Subdirector de Servicios Generales:
+Son atribuciones de la Coordinación de Vinculación, Seguimiento y Gestión:
 
-I. Supervisar y evaluar el correcto desempeño y funcionamiento del personal a su cargo;
+I. Supervisar y evaluar el desempeño, operación y funcionamiento del personal a su cargo;
 
-II. Analizar los procesos de su área y proponer mejoras en los mismos;
+II. Proponer mecanismos de coordinación entre las unidades administrativas adscritas a la Dirección, así como entre éstas y las diversas áreas del Poder Judicial para la atención y materialización de proyectos;
 
-III. Elaborar la propuesta de lineamientos de austeridad y racionalidad para el ejercicio del gasto, relacionados con la contratación de los servicios que contrata la dirección;
+III. Atender, dar seguimiento y fungir como enlace en las actividades de coordinación y de vinculación para con áreas internas y externas en cuestiones de planeación y programación;
 
-IV. Coordinar las labores de mantenimiento de los servicios internos y contratados;
+IV. Diseñar y aplicar esquemas de control para el seguimiento al cumplimiento de instrucciones por parte de las Subdirecciones y Coordinaciones Regionales;
 
-V. Llevar a cabo los procesos de asignación de contratos para el mantenimiento preventivo y correctivo a los bienes muebles del Poder Judicial;
+V. Promover la implementación de metodologías y la utilización de herramientas tecnológicas que permitan una planeación efectiva;
 
-VI. Realizar los procesos de contratación de los servicios básicos, de arrendamiento de bienes muebles e inmuebles, de fumigación, sistemas de protección contra incendios, mantenimiento preventivo y correctivo de equipos de aire acondicionado, sistemas de respaldo de energía (ups), plantas de emergencia, elevadores y cualquier otro servicio autorizado;
+VI. Impulsar y apoyar la confección de procedimientos que faciliten el agilizar los trámites y tareas de las unidades administrativas de la Dirección;
 
-VII. Controlar y dar seguimiento a los contratos de servicios externos y limpieza;
+VII. Apoyar y asesorar en el diseño de programas, presupuestos, proyecciones, indicadores y, en general, cualquier instrumento que sea requerido para efectos de observancia al marco normativo o a mandatos expresos;
 
-VIII. Realizar y controlar los convenios y contratos de servicio de comunicación móvil (radio digital, telefonía celular, etc.);
+VIII. Analizar las formas de actuación de las Subdirecciones y Coordinaciones de Apoyo Regionales, determinar las buenas prácticas y, de acuerdo a ello, formular propuestas de políticas o lineamientos para la homologación de su tramitación;
 
-IX. Realizar el proceso de contratación del servicio especial de transporte de los Servidores Públicos del Supremo Tribunal de Justicia y Juzgados Penales del partido judicial de Guanajuato;
+IX. Diseñar, promover, establecer y dar seguimiento a programas de desarrollo institucional en el ámbito de las funciones de la Dirección;
 
-X. Administrar el control del parque vehicular del Poder Judicial, así como los consumos de gasolina, pago de las contribuciones federales o estatales correspondientes y mantenimiento del mismo;
+X. Realizar evaluaciones periódicas sobre cumplimiento a metas contempladas en el programa anual de trabajo;
 
-XI. Gestionar el aseguramiento de los bienes del Poder Judicial;
+XI. Orientar y asesorar sobre los respaldos normativos necesarios para la debida actuación de las unidades administrativas de la Dirección;
 
-XII. Participar en la elaboración del anteproyecto para el presupuesto de egresos, en el ámbito de su competencia;
+XII. Revisar, para efectos preventivos de auditoría, la consistencia de los expedientes integrados con motivo de los procedimientos y trámites efectuados por las unidades administrativas;
 
-XIII. Atender los requerimientos, observaciones y recomendaciones que emitan los órganos de fiscalización externa, así como la Contraloría; y
+XIII. Integrar la respuesta y el seguimiento que corresponda a las solicitudes de información y observaciones formuladas por los órganos revisores del ejercicio del gasto; y,
 
-XIV. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
+XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Consejo o la Dirección de Servicios de Apoyo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+De la Jefatura de Apoyo Técnico
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 59.
 
-Son atribuciones del Coordinador de Servicios Generales:
+Son atribuciones de la Jefatura de Apoyo Técnico, las siguientes:
 
-I. Contratar y supervisar el mantenimiento preventivo y correctivo de los bienes muebles del Poder Judicial;
+I. Coadyuvar en la elaboración de normas, políticas y procedimientos sobre obra pública, adquisiciones, arrendamientos y contratación de servicios, que requiera el Poder Judicial;
 
-II. Realizar análisis de costos del servicio y determinación del tipo de adjudicación de conformidad con la normatividad aplicable;
+II. Atender, dar seguimiento y fungir como enlace en las diversas etapas de los procedimientos de revisión y auditoría realizadas por los órganos de control y fiscalización.
 
-III. Elaborar bases e invitaciones para el desarrollo del proceso de adjudicación de contratos;
+III. Realizar auditorías aleatorias de carácter preventivo a las Subdirecciones y a las Coordinaciones de Apoyo Regionales.
 
-IV. Elaborar contratos y/o órdenes de compra, y recibir las garantías que correspondan;
+IV. Integrar datos e información documental necesaria para la atención de requerimientos de entes fiscalizadores, o para solventar las observaciones derivadas de los procedimientos de revisión y auditorías.
 
-V. Cerrar administrativamente los contratos, finiquitos, actas de entrega, y conclusión de servicios contratados, así como de liberación de las garantías otorgadas;
+V. Asesorar sobre las medidas a adoptar para la atención a las observaciones y recomendaciones de los órganos auditores.
 
-VI. Realizar la contratación y seguimiento de mantenimientos a bienes muebles y servicios solicitados por las Coordinaciones de Apoyo Regionales;
+VI. Coadyuvar en la interposición de recursos o medios de impugnación que se estimen pertinentes contra actos lesivos a los intereses institucionales de la Dirección.
 
-VII. Coordinar la contratación y cancelación de servicios básicos (agua, luz, etc.) en los edificios de la zona Guanajuato;
+VII. Elaborar y presentar informes trimestrales de seguimiento a las revisiones y auditorías practicadas por los órganos de control internos y externos.
 
-VIII. Controlar el parque vehicular del Poder Judicial, así como los consumos de gasolina, derechos y mantenimiento del mismo;
+VIII. Coadyuvar en la atención y seguimiento a las acciones derivadas de esquemas de operación en los que la Dirección funja como instancia ejecutora de apoyos financieros federales o estatales.
 
-IX. Dar seguimiento y respuesta a peticiones del Consejo referentes a los servicios, mantenimientos y padrón vehicular y elaboración de informes especiales solicitados a la Dirección de Servicios de Apoyo;
+IX. Establecer esquemas de operación al interior de la Dirección que permitan la medición y control de las metas y compromisos institucionales;
 
-X. Atender los requerimientos, observaciones y recomendaciones que emitan los órganos de fiscalización externa, así como la Contraloría; y
+X. Confeccionar mecanismos, manuales, instructivos, formatos, guías o procedimientos para la mejora operativa de las unidades administrativas de la Dirección;
 
-XI. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
+XI. Monitorear y, en su caso, implementar indicadores de cumplimiento de metas;
+
+XII. Integrar, con la participación de las diversas Subdirecciones y Coordinaciones, el Programa Operativo Anual de la Dirección;
+
+XIII. Coordinar con las Subdirecciones, la integración y ordenación archivística de los expedientes relacionados con los procesos operativos de la Dirección.
+
+XIV. Analizar y dar seguimiento a los procesos logísticos implementados para el control de gasto en cada una de las Subdirecciones.
+
+XV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera la Dirección.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+De la Jefatura Normativa
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 60.
 
-Son atribuciones del Coordinador de Adquisiciones:
+Son atribuciones de la Jefatura Normativa, las siguientes:
 
-I. Elaborar y dar seguimiento al programa anual de compras autorizado por el comité de contratos administrativos del Poder Judicial;
+I. Coadyuvar en la elaboración de normas, políticas y procedimientos sobre obra pública, adquisiciones, arrendamientos y contratación de servicios, que requiera el Poder Judicial;
 
-II. Planear, programar, ejecutar, controlar y dar seguimiento hasta su conclusión a los procesos de licitación pública, de invitación restringida, de adjudicación directa con tres proveedores y de adjudicación directa, así como supervisar la recepción de la documentación legal y administrativa, propuestas técnicas y/o económicas que presenten los proveedores y/o prestadores de servicios;
+II. Elaborar, revisar y formalizar los actos, convenios y contratos relacionados con obra pública, bienes y servicios, de conformidad con las disposiciones aplicables;
 
-III. Realizar las compras de bienes y productos solicitados por las diversas áreas del Poder Judicial;
+III. Asesorar a la Dirección, a sus Subdirecciones y Coordinaciones, sobre aspectos de ceñimiento a las disposiciones aplicables;
 
-IV. Coordinar, vigilar y ejecutar el proceso de adjudicación de los bienes muebles conforme a la legislación vigente y bajo las mejores condiciones del mercado;
+IV. Coordinarse con las Subdirecciones correspondientes para la elaboración y presentación de los informes que deban de rendirse con motivo de inconformidades presentadas por particulares en los procedimientos de contratación administrativa;
 
-V. Verificar el cumplimiento de contratos y garantías y/o pedidos;
+V. Llevar a cabo los procedimientos administrativos de rescisión contractual, aplicación de sanciones, suspensión y cancelación de los registros en el padrón de proveedores y demás actos conducentes, en coordinación con las Subdirecciones correspondientes, de conformidad con las disposiciones aplicables;
 
-VI. Realizar el proceso de las adjudicaciones directas;
+VI. Formular la interposición de recursos o medios de impugnación que se estimen pertinentes ante cualquier acto lesivo de los intereses institucionales de la Dirección;
 
-VII. Realizar los contratos de bienes y servicios conforme a ley, y bajo las mejores condiciones del mercado;
+VII. Participar en el análisis y elaboración de respuestas a observaciones derivadas de las auditorías realizadas por las autoridades fiscalizadoras en coordinación con las unidades responsables dentro del ámbito de competencia de la Dirección;
 
-VIII. Elaborar la orden del día de la sesión de comité de contratación;
+VIII. Auxiliar en la preparación, convocatoria, desarrollo y seguimiento de las sesiones del Comité; y,
 
-IX. Registrar y operar el padrón de proveedores de bienes y servicios del Poder Judicial;
+IX. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera su superior jerárquico.
 
-X. Mantener actualizada la información de la página web del Poder Judicial, respecto a contratos y concursos realizados por el área, para brindar información a la Unidad de Acceso a la Información del Poder Judicial;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
-XI. Atender los requerimientos, observaciones y recomendaciones que emitan los órganos de fiscalización externa, así como la Contraloría; y
+#### Sección II. De la Subdirección de Construcción y Supervisión de Obra
 
-XII. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
-
-#### Sección Segunda. De la Subdirección de Servicios Generales
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 61.
 
-Son atribuciones de los Coordinadores de Apoyo Regionales:
+Son atribuciones de la Subdirección de Construcción y Supervisión de Obra:
 
-I. Gestionar las necesidades de las áreas administrativas y jurisdiccionales de la zona;
+I. Supervisar y evaluar el desempeño, operación y funcionamiento del personal a su cargo;
 
-II. Administrar los recursos humanos, financieros, materiales y de servicios de la zona;
+II. Proponer al Consejo normas, políticas y procedimientos en materia de construcción y supervisión de obra;
 
-III. Gestionar las acciones necesarias para que se realice el mantenimiento preventivo y/o correctivo de los bienes muebles e inmuebles, y del parque vehicular del Poder Judicial;
+III. Llevar a cabo los procedimientos de contratación de obra pública del Poder Judicial, y supervisión externa, de acuerdo a los procedimientos señalados en la legislación correspondiente;
 
-IV. Verificar que el personal a su cargo realice los diferentes procesos administrativos de acuerdo a la normatividad aplicable;
+IV. Supervisar por sí o por supervisión externa, el avance físico y ejecución de la obra pública.
 
-V. Controlar la recepción de equipos, materiales y suministros de acuerdo a las fechas de entrega pactadas con el proveedor o con el almacén central, así como supervisar el adecuado almacenamiento de los equipos, materiales y suministros en el almacén de la zona a su cargo;
+V. Revisar física y documentalmente la ejecución de la obra y servicios relacionados;
 
-VI. Realizar el trámite de contratación de proveedores, observando los montos y procedimientos vigentes de acuerdo a la normatividad;
+VI. Coordinar e integrar el programa anual de obra pública del Poder Judicial y servicios relacionados;
 
-VII. Gestionar las requisiciones de bienes y solicitudes de servicio ante la Dirección de Servicios de Apoyo para su autorización;
+VII. Coadyuvar en la elaboración del Proyecto de Inversión del Poder Judicial para cada ejercicio presupuestal, en el ámbito de su competencia;
 
-VIII. Supervisar el proceso de recepción y entrega de la nómina de la zona;
+VIII. Fungir como vocal en el Comité en asuntos relativos a la contratación y supervisión de obra;
 
-IX. Apoyar quincenalmente a la recepción de la nómina y revisar que se encuentren todos los documentos de pago correspondientes a cada Servidor Público de la zona;
+IX. Analizar la consistencia de los proyectos ejecutivos de obra y, en su caso, solicitar las correcciones necesarias previo a la adjudicación; igualmente, en el supuesto de advertir inconsistencias durante la ejecución de los trabajos, tomar las medidas de enmienda que se ameriten en campo para la mejor ejecución de la obra;
 
-X. Organizar los recorridos de los chóferes para la entrega de la documentación de nómina por municipio correspondiente a la zona;
+X. Elaborar el informe mensual del avance de obra y servicios relacionados;
 
-XI. Remitir a la Dirección de Recursos Humanos y Nómina los reportes de nómina debidamente firmados, quién a su vez entregará a la Dirección de Administración;
+XI. Ejecutar y acordar las acciones necesarias con contratistas y supervisores para asegurar el cumplimiento de los calendarios de obra contratados;
 
-XII. Supervisar los trabajos o servicios a realizar y enviar información a la Dirección de Servicios de Apoyo para su análisis y determinación;
+XII. Proponer al titular de la Dirección la respuesta y el seguimiento que corresponda a las solicitudes de información y observaciones formuladas por los órganos revisores del ejercicio del gasto;
 
-XIII. Atender los requerimientos, observaciones y recomendaciones que emitan los órganos de fiscalización externa, así como la Contraloría; y
+XIII. Operar apoyos en control y seguimiento de las Coordinaciones de Apoyo Regionales; y,
 
-XIV. Resguardar los archivos, debidamente clasificados, físicos y electrónicos que por razón de sus atribuciones se generen.
+XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera la Dirección.
 
-#### Sección Tercera. De la Coordinación de Adquisiciones
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE FEBRERO DE 2017)</small>
 
-#### Sección Cuarta. De las Coordinaciones de Apoyo Regionales
+De la Coordinación Técnica Administrativa de Obra
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 61 Bis.
+
+Son atribuciones de la Coordinación Técnica Administrativa de Obra
+
+I. Llevar a cabo el control técnico-administrativo de las obras en proceso;
+
+II. Coordinar la elaboración de los contratos administrativos en materia de obra pública y de servicios relacionados con la misma, así como tramitar el pago de anticipo;
+
+III. Revisar estimaciones y presupuestos, reportes, convenios y finiquitos necesarios para la etapa de ejecución de obra;
+
+IV. Realizar mercadeo de materiales para revisión de precios y presupuestos;
+
+V. Realizar solicitudes de cotización por obra;
+
+VI. Realizar consultas técnicas y documentales para atender las aclaraciones, correcciones, solicitudes de prórroga, revisión de tarjetas de precios;
+
+VII. Analizar supuestos de procedencia y, en su caso, coordinar la elaboración de convenios por ampliación de tiempo o de monto, así como dar seguimiento a su aplicación;
+
+VIII. Analizar la procedencia de ajustes de costos para la autorización del pago correspondiente;
+
+IX. Elaborar finiquito de obra;
+
+X. Elaborar las carátulas de finiquito, estados financieros y actas de cierre administrativo;
+
+XI. Realizar los procesos exigidos en los sistemas de control financiero para la solicitud, apartado y ejecución de recursos;
+
+XII. Coadyuvar en la elaboración (sic) propuestas de respuesta a pliegos de observaciones de los órganos de fiscalización, así como a peticiones de información pública, en los asuntos competencia de la Coordinación; y,
+
+XIII. Elaborar la estadística de la obra pública y los servicios relacionados con la misma; y
+
+XIV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran la Dirección de Servicios de Apoyo o la Subdirección de su adscripción.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+De la Coordinación Técnica Administrativa de Procesos de Licitación y Supervisión de Obra.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 61 Bis 1.
+
+Son atribuciones de la Coordinación Técnica Administrativa de Procesos de Licitación y Supervisión de Obra:
+
+I. Coordinar técnica y administrativamente los procedimientos de licitación de obra pública competencia de la Subdirección de su adscripción;
+
+II. Elaborar las bases técnicas y económicas, así como las convocatorias y demás documentos necesarios para el desarrollo de los concursos licitatorios de adjudicación de obra y de supervisión externa;
+
+III. Realizar el análisis y revisión de propuestas necesarias en el proceso de asignación de contratistas;
+
+IV. Realizar el análisis y revisión de propuestas técnicas y económicas, durante el proceso de asignación de supervisión externa;
+
+V. Recabar información necesaria para realizar trámites con otras instancias públicas o privadas involucradas con autorizaciones o prestación de servicios relacionadas con la obra pública;
+
+VI. Operar los procesos exigidos en los sistemas de control de licitaciones, según la legislación aplicable, hasta la asignación de las obras y servicios relacionados con la misma;
+
+VII. Realizar visitas de obra para atender y verificar el avance de éstas, compilar información de campo;
+
+VIII. Realizar la entrega-recepción física de las obras, actas y finiquitos;
+
+IX. Apoyar en el control técnico administrativo de la obra en ejecución, así como de servicios relacionados con la misma, hasta su finiquito;
+
+X. Realizar los procesos exigidos en sistemas de control financiero para la solicitud, apartado y ejecución de recursos, para las contrataciones;
+
+XI. Coadyuvar en la elaboración de propuestas de respuesta a pliegos de observaciones de los órganos de fiscalización, así como a peticiones de información pública, en los asuntos competencia de la Coordinación; y,
+
+XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran la Dirección de Servicios de Apoyo o la Subdirección de su adscripción.
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+#### Sección III. De la Subdirección de Servicios Generales
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 61 Bis 2.
+
+Son atribuciones de la Subdirección de Servicios Generales:
+
+I. Supervisar y evaluar el desempeño, operación y funcionamiento del personal a su cargo;
+
+II. Coadyuvar con la Dirección en la elaboración de normas, políticas y procedimientos en materia de servicios generales;
+
+III. Llevar a cabo los procesos de contratación de servicios básicos, de bienes muebles, arrendamientos, y de todos aquellos servicios que cuenten con las autorizaciones correspondientes, de acuerdo a los procedimientos señalados en la legislación aplicable, así como vigilar el seguimiento al cumplimiento en coordinación con las áreas técnicas o requirentes, según proceda;
+
+IV. Integrar el Programa Anual de Adquisiciones, Arrendamientos y Contratación de Servicios del Poder Judicial en lo tocante a las contrataciones de su competencia, con base en la información que presenten los órganos jurisdiccionales y administrativos, y vigilar su ejecución;
+
+V. Participar en la elaboración del anteproyecto para el presupuesto de egresos, en el ámbito de su competencia;
+
+VI. Fungir como vocal en el Comité en asuntos relativos a la contratación de servicios de su competencia.
+
+VII. Supervisar y coordinar la provisión de los servicios generales requeridos para los inmuebles del Poder Judicial del ámbito de su competencia;
+
+VIII. Atender lo relativo a los arrendamientos de bienes muebles e inmuebles, en los conceptos que el Consejo determine;
+
+IX. Establecer el sistema de control de suministro de combustible a los vehículos al servicio del Poder Judicial;
+
+X. Administrar el consumo de gasolina, así como el pago de las contribuciones federales o estatales y los mantenimientos correspondientes al parque vehicular;
+
+XI. Autorizar los servicios de mantenimiento de los vehículos al servicio del Poder Judicial;
+
+XII. Realizar y controlar los convenios y contratos de servicio de comunicación móvil;
+
+XIII. Proponer a la Dirección la respuesta y el seguimiento que corresponda a las solicitudes de información y observaciones formuladas por los órganos revisores del ejercicio del gasto;
+
+XIV. Operar apoyos en control y seguimiento de las Coordinaciones de Apoyo Regionales; y,
+
+XV. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Consejo o la Dirección de Servicios de Apoyo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+De la Coordinación de Servicios Generales
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 61 Bis 3.
+
+Son atribuciones de la Coordinación de Servicios Generales:
+
+I. Contratar y supervisar el mantenimiento preventivo y correctivo de los bienes muebles del Poder Judicial, auxiliándose de las áreas solicitantes y/o de las Coordinaciones Regionales.
+
+II. Realizar análisis de costos del servicio a través de la investigación de mercado y determinar el tipo de adjudicación de conformidad con la normatividad aplicable;
+
+III. Elaborar bases e invitaciones para el desarrollo del proceso de adjudicación de contratos;
+
+IV. Elaborar y validar los contratos y/o órdenes de compra, y recibir las garantías que correspondan;
+
+V. Cerrar administrativamente los contratos, finiquitos, actas de entrega, y conclusión de servicios contratados, así como de liberación de las garantías otorgadas;
+
+VI. Realizar la contratación de mantenimientos a bienes muebles y servicios solicitados;
+
+VII. Coordinar la contratación y cancelación de servicios básicos en la ciudad de Guanajuato;
+
+VIII. Gestionar el aseguramiento del parque vehicular del Poder Judicial, así como la administración de los suministros de combustible, pago de las contribuciones federales o estatales correspondientes y mantenimiento del mismo;
+
+IX. Coadyuvar en la elaboración de repuesta a pliegos de observaciones de los órganos de fiscalización, así como a peticiones de información pública, en los asuntos competencia de la Coordinación; y,
+
+X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran la Dirección de Servicios de Apoyo o la Subdirección de su adscripción.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+De la Coordinación de Apoyo Programático y Logístico
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 61 Bis 4.
+
+Son atribuciones de la Coordinación de Apoyo Programático y Logístico, las siguientes:
+
+I. Coadyuvar en la confección del programa de servicios dispuesto normativamente, así como en lo relativo al anteproyecto de presupuesto;
+
+II. Confeccionar e implementar mecanismos de seguimiento oportuno a los programas de servicios y de reparación, así como a solicitudes extraordinarias que en esos rubros se formulen;
+
+III. Apoyar en la supervisión de los servicios en desarrollo;
+
+IV. Coordinar la participación de las áreas peticionarias o de los usuarios de los inmuebles a intervenir para efectos de precisión y validación de los servicios a efectuar;
+
+V. Coordinar, planear, programar y ejecutar los procedimientos de contratación;
+
+VI. Elaborar propuestas de simplificación a procedimientos de contratación;
+
+VII. Integrar los estudios de mercado necesarios para la mejor ponderación de los costos de servicios a contratar;
+
+VIII. Diseñar, integrar y operar esquemas de control registral que permitan la vinculación con los padrones de proveeduría conformados;
+
+IX. Apoyar en la atención oportuna de servicios emergentes en la ciudad de Guanajuato;
+
+X. Coadyuvar en la elaboración de propuestas de respuesta a observaciones de los órganos de fiscalización, así como a peticiones de información pública, en los asuntos competencia de la Coordinación; y,
+
+XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran la Dirección de Servicios de Apoyo o la Subdirección de su adscripción.
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+#### Sección IV. De la Subdirección de Adquisiciones
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 61 Bis 5.
+
+Son atribuciones de la Subdirección de Adquisiciones:
+
+I. Supervisar y evaluar el desempeño, operación y funcionamiento del personal a su cargo;
+
+II. Proponer, para aprobación superior, normas, políticas y procedimientos en materia de adquisiciones y de suministro de bienes y materiales;
+
+III. Tramitar los pedidos de compras autorizadas de los bienes y materiales hasta su entrega en bodega o almacén del Poder Judicial;
+
+IV. Llevar a cabo las adquisiciones de bienes y materiales que cuenten con las autorizaciones correspondientes, de acuerdo a los procedimientos señalados en la legislación correspondiente;
+
+V. Integrar el Padrón de Proveedores del Poder Judicial con base en lo establecido por los diversos ordenamientos legales;
+
+VI. Integrar el Programa Anual de Adquisiciones, Arrendamientos y Contratación de Servicios del Poder Judicial en lo tocante a la adquisición de bienes y materiales, con base en la información que presenten los órganos jurisdiccionales y administrativos, y vigilar su ejecución;
+
+VII. Participar en la elaboración del anteproyecto para el presupuesto de egresos, en el ámbito de su competencia;
+
+VIII. Fungir de vocal en el Comité en asuntos de su competencia;
+
+IX. Proponer a la Dirección de Servicios de Apoyo la respuesta y el seguimiento que corresponda a las solicitudes de información y observaciones formuladas por los órganos revisores del ejercicio del gasto;
+
+X. Operar apoyos en el control y seguimiento de las Coordinaciones de Apoyo Regionales; y,
+
+XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Consejo o la Dirección de Servicios de Apoyo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+De la Coordinación de Programación y Proveeduría
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 61 Bis 6.
+
+Son atribuciones de la Coordinación de Programación y Proveeduría, las siguientes:
+
+I. Coadyuvar en la elaboración del ante proyecto de presupuestos de egresos de las unidades administrativas y jurisdiccionales, en el rubro que corresponda según adscripción;
+
+II. Confeccionar y actualizar el Programa Anual de Adquisiciones del Poder Judicial, con base en la información que presenten los órganos jurisdiccionales y administrativos, y vigilar su ejecución;
+
+III. Integrar, administrar, resguardar y operar el Padrón de Proveedores del Poder Judicial, según ámbito de necesidad, con base en lo establecido por los diversos ordenamientos legales;
+
+IV. Identificar, con el apoyo que corresponda de las áreas solicitantes y técnicas, la proveeduría idónea para el Poder Judicial del Estado;
+
+V. Planear, programar, organizar y coordinar los procedimientos administrativos y normativos que se requieran para la contratación;
+
+VI. Integrar los estudios de mercado que sean necesarios para efectuar adquisiciones o contrataciones convenientes al Poder Judicial;
+
+VII. Coadyuvar en la elaboración de propuestas de respuesta a pliegos de observaciones de los órganos de fiscalización, así como a peticiones de información pública, en los asuntos competencia de la Coordinación; y,
+
+VIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran la Dirección de Servicios de Apoyo o la Subdirección de su adscripción.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+De la Coordinación de Procedimientos de Adquisición
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 61 Bis 7.
+
+Son atribuciones de la Coordinación de Procedimientos de Adquisición, las siguientes:
+
+I. Atender con oportunidad las solicitudes de compra de bienes y materiales hasta su entrega, a plena satisfacción del Poder Judicial, que cuenten con las autorizaciones correspondientes, de acuerdo a los procedimientos señalados en la legislación aplicable;
+
+II. Coordinar, planear, programar y ejecutar los procedimientos de contratación;
+
+III. Elaborar propuestas de simplificación a procedimientos de contratación;
+
+IV. Coadyuvar en la elaboración de propuestas de respuesta a observaciones de los órganos de fiscalización, así como a peticiones de información pública, en los asuntos competencia de la Coordinación; y,
+
+V. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran la Dirección de Servicios de Apoyo o la Subdirección de su adscripción.
+
+> <small>(ADICIONADA CON LOS ENCABEZADOS Y ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE FEBRERO DE 2017)</small>
+
+#### Sección V. De la Subdirección de Proyectos y Mantenimiento a Inmuebles
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 61 Bis 8.
+
+Son atribuciones del Subdirector de Proyectos y Mantenimiento a Inmuebles:
+
+I. Supervisar y evaluar el desempeño, operación y funcionamiento del personal a su cargo;
+
+II. Proponer, para aprobación superior, normas, políticas y procedimientos en materia de proyectos, adecuaciones, mantenimientos y conservación de inmuebles;
+
+III. Llevar a cabo los procedimientos de contratación de proyectos ejecutivos para obra nueva, mantenimientos, adaptaciones, ampliaciones, remodelaciones y conservación de la infraestructura inmobiliaria del Poder Judicial, que cuenten con las autorizaciones correspondientes, de acuerdo a los procedimientos señalados en la legislación aplicable;
+
+IV. Integrar el Programa Anual de Adquisiciones, Arrendamientos y Contratación de Servicios del Poder Judicial en lo tocante a contratación de mantenimientos a inmuebles y vigilar su ejecución;
+
+V. Participar en la elaboración del anteproyecto para el presupuesto de egresos, en el ámbito de su competencia;
+
+VI. Fungir como vocal en el Comité en asuntos relativos a la contratación de mantenimientos, adecuación de inmuebles y proyectos ejecutivos de obra;
+
+VII. Realizar las acciones tendientes a la adecuada conservación y mantenimiento de los bienes inmuebles del Poder Judicial del Estado, en colaboración con las Coordinaciones de Apoyo Regionales;
+
+VIII. Verificar la correcta integración y validación de los proyectos ejecutivos de obra y solicitar las correcciones a que haya lugar de manera previa al inicio de ejecución, así como coadyuvar en lo concerniente durante el proceso constructivo;
+
+IX. Proponer a la Dirección la respuesta y el seguimiento que corresponda a las solicitudes de información y observaciones formuladas por los órganos revisores del ejercicio del gasto;
+
+X. Operar apoyos en control y seguimiento de las Coordinaciones de Apoyo Regionales; y,
+
+XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera la Dirección.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+De la Coordinación de Proyectos, Adecuación y Preservación de Infraestructura Inmobiliaria
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 61 Bis 9.
+
+Son atribuciones de la Coordinación de Proyectos, Adecuación y Preservación de Infraestructura Inmobiliaria:
+
+I. Coadyuvar en la elaboración de los proyectos para obra nueva, adaptaciones, ampliaciones, remodelaciones y conservación de la infraestructura inmobiliaria del Poder Judicial;
+
+II. Integrar la revisión, validación y autorización de proyectos ejecutivos de obra; así como de planteamientos arquitectónicos para la distribución de espacios, adecuaciones y remodelaciones;
+
+III. Realizar análisis de costos de proyectos y adecuaciones para determinar tipo de adjudicación, así como lo concerniente para servicios de mantenimiento a través de investigación de mercado;
+
+IV. Revisar y validar las estimaciones de los proyectos y estudios;
+
+V. Obtener la autorización en planteamientos internos arquitectónicos, distribuciones de espacios y acabados;
+
+VI. Revisar y/o elaborar los dictámenes correspondientes para autorización de modificaciones a contratos de obra suscritos, ya sea en tiempo o en monto;
+
+VII. Verificar la procedencia de las escalatorias, conforme a los tiempos de ley y en su caso, revisar su cálculo, para proceder a la autorización de sus pagos;
+
+VIII. Elaborar bases y convocatorias para procedimientos de adjudicación; así como coordinar la elaboración de los contratos y órdenes de compra, además de revisar las garantías que correspondan;
+
+IX. Realizar supervisión interna de obra;
+
+X. Tramitar el cierre administrativo de todo instrumento vinculatorio generado a partir de las contrataciones efectuadas;
+
+XI. Coadyuvar en la elaboración de respuestas a solicitudes de información y observaciones formuladas por los órganos de fiscalización, así como a peticiones de información pública en los asuntos competencia de la Coordinación; y,
+
+XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran la Dirección o la Subdirección de su adscripción.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+De la Coordinación de Apoyo Programático y Logístico
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 61 Bis 10.
+
+Son atribuciones de la Coordinación de Apoyo Programático y Logístico, las siguientes:
+
+I. Coadyuvar en la elaboración de los programas de obra y de servicios dispuestos normativamente, así como en lo relativo al anteproyecto de presupuesto;
+
+II. Elaborar e implementar mecanismos de seguimiento oportuno a los programas de servicios y de mantenimiento, así como a solicitudes extraordinarias que en esos rubros se formulen;
+
+III. Apoyar en la supervisión de las adecuaciones en ejecución y de los servicios en desarrollo;
+
+IV. Coordinar la participación de las áreas peticionarias o de los usuarios de los inmuebles a intervenir para efectos de precisión y validación de las adecuaciones a efectuar;
+
+V. Coordinar, planear, programar y ejecutar los procedimientos de contratación;
+
+VI. Elaborar propuestas de simplificación a procedimientos de contratación;
+
+VII. Integrar los estudios de mercado necesarios para la mejor ponderación de los costos de servicios a contratar;
+
+VIII. Diseñar, integrar y operar esquemas de control registral que permitan la vinculación con los padrones de contratistas y de proveeduría conformados;
+
+IX. Coadyuvar en la elaboración de propuestas de respuesta a observaciones de los órganos de fiscalización, así como a peticiones de información pública, en los asuntos competencia de la Coordinación; y,
+
+X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran la Dirección o la Subdirección de su adscripción.
 
 ### Capítulo Segundo. De la Dirección de Asuntos Jurídicos
 
@@ -1343,47 +1771,77 @@ X. Aplicar las normas emitidas para el adecuado manejo y archivo de documentaci�
 
 Ningún expediente podrá salir del Archivo si no es por orden escrita del Presidente, los Consejeros, los Magistrados, el Secretario General del Supremo Tribunal de Justicia, el Secretario General del Consejo del Poder Judicial, los Jueces o los secretarios de acuerdos, por lo que una copia de la solicitud deberá quedar en el lugar que ocupaba el expediente solicitado. La salida de cualquier documento deberá ser autorizado por el responsable del área.
 
-### Capítulo Quinto. De la Dirección de Planeación y Estadística
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE FEBRERO DE 2017)</small>
+
+### Capítulo Quinto. De la Coordinación de Planeación
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 70.
 
-La Dirección de Planeación y Estadística será la encargada de diseñar y ejecutar la política de planeación estratégica institucional del Poder Judicial y de organizar la información estadística para el Consejo.
+La Coordinación de Planeación será la encargada de diseñar y ejecutar la política de planeación estratégica institucional del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 70 Bis.
+
+Serán atribuciones de quien funja como titular de la Coordinación de Planeación, las siguientes:
+
+I. Diseñar y gestionar la política de planeación estratégica institucional en congruencia con la planeación normativa del Poder Judicial;
+
+II. Desarrollar los elementos de planeación operativa vinculados al desempeño de los órganos jurisdiccionales, procesos, indicadores estratégicos, de gestión y operativos, así como sus metas;
+
+III. Elaborar los indicadores específicos de productividad y desempeño de los órganos y áreas del Poder Judicial;
+
+IV. Elaborar estudios y análisis que contengan propuestas de mejoramiento en aspectos operativos de los órganos y áreas del Poder Judicial;
+
+V. Desarrollar y proponer al Consejo, iniciativas, planes o programas para establecer políticas públicas en materia de administración de justicia;
+
+VI. Integrar el Programa Operativo Anual del Poder Judicial, conforme a la normatividad aplicable;
+
+VII. Dictar las pautas, lineamientos y procedimientos de carácter técnico, programático a que deberán sujetarse los órganos jurisdiccionales y áreas administrativas del ámbito de competencia del Consejo, para la formulación de sus programas operativos;
+
+VIII. Establecer los sistemas de evaluación y seguimiento de los programas operativos, proyectos y acciones de las diversas áreas del Poder Judicial;
+
+IX. Formular opiniones técnicas relativas a creación, ubicación o reubicación geográfica y especialización de los órganos jurisdiccionales del Poder Judicial; y
+
+X. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+De la Coordinación de Estadística
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 71.
 
-Serán atribuciones del Director de Planeación y Estadística, las siguientes:
+La Coordinación de Estadística será la encargada de recabar y organizar para el Consejo la información estadística generada por los órganos jurisdiccionales o áreas administrativas del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+###### Artículo 71 Bis.
+
+Serán atribuciones de quien funja como titular de la Coordinación de Estadística, las siguientes:
 
 I. Realizar el diagnostico situacional del estado que guardan los órganos jurisdiccionales y las áreas administrativas del Poder Judicial;
 
-II. Elaborar los indicadores específicos de productividad y desempeño de los órganos y áreas del Poder Judicial;
+II. Formular opiniones técnicas relativas a creación, ubicación o reubicación geográfica y especialización de los órganos jurisdiccionales del Poder Judicial;
 
-III. Elaborar estudios y análisis que contengan propuestas de mejoramiento en aspectos operativos de los órganos y áreas del Poder Judicial;
+III. Recibir, depurar, sistematizar y analizar cualitativamente la información cuantitativa generada por las áreas del Poder Judicial.
 
-IV. Desarrollar y proponer al Consejo, iniciativas, planes o programas para establecer políticas públicas en materia de administración de justicia;
+IV. Establecer los datos, métodos y formas de requerimiento y obtención de información para la construcción de indicadores de la gestión jurisdiccional y administrativa de los (sic) áreas del Poder Judicial;
 
-V. Integrar el Programa Operativo Anual del Poder Judicial.
+V. Difundir la información estadística generada por los órganos jurisdiccionales y administrativos del Poder Judicial a través de su portal de Internet;
 
-VI. Dictar las pautas, lineamientos y procedimientos de carácter técnico, programático a que deberán sujetarse los órganos jurisdiccionales y áreas administrativas del ámbito de competencia del Consejo, para la formulación de sus programas operativos;
+VI. Coadyuvar con la Coordinación de Comunicación Social y con la Unidad de Acceso a la Información, en la publicación periódica de la información estadística de carácter público, de conformidad con la normatividad aplicable;
 
-VII. Establecer los sistemas de evaluación y seguimiento de los programas operativos, proyectos y acciones de las diversas áreas del Poder Judicial;
+VII. Capacitar y auxiliar al personal de los órganos administrativos y jurisdiccionales del Poder Judicial, en el uso de las tecnologías empleadas en la recopilación de la información estadística;
 
-VIII. Formular opiniones técnicas relativas a creación, ubicación o reubicación geográfica y especialización de los órganos jurisdiccionales del Poder Judicial;
+VIII. Compilar y publicar el informe anual de información estadística del Consejo;
 
-IX. Recibir, depurar, sistematizar y analizar cualitativamente la información cuantitativa generada por las áreas del Poder Judicial.
+IX. Elaborar, mantener y conservar actualizados los registros estadísticos de procesos por materia y área jurisdiccional; y
 
-X. Establecer los datos, métodos y formas de requerimiento y obtención de información para la construcción de indicadores de la gestión jurisdiccional y administrativa de los (sic) áreas del Poder Judicial;
-
-XI. Difundir la información estadística generada por los órganos jurisdiccionales y administrativos del Poder Judicial a través de su portal de Internet;
-
-XII. Coordinar con la Coordinación de Comunicación Social, la publicación periódica de la información estadística de carácter público en los medios;
-
-XIII. Capacitar y auxiliar al personal de los órganos administrativos y jurisdiccionales del Poder Judicial, en el uso de las tecnologías empleadas en la recopilación de la información estadística;
-
-XIV. Compilar y publicar el informe anual de información estadística del Consejo;
-
-XV. Elaborar, mantener y conservar actualizados los registros estadísticos de procesos por materia y área jurisdiccional; y
-
-XVI. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
+X. Las demás que el Consejo, la Ley Orgánica, este Reglamento y otras disposiciones normativas le confieran.
 
 ### Capítulo Sexto. De la Coordinación General del Sistema de Gestión
 
@@ -1521,19 +1979,29 @@ Dependiendo de las necesidades del servicio y la disponibilidad presupuestaria, 
 
 Su organización y funcionamiento se establecerá en el Reglamento respectivo que al efecto emita el Consejo.
 
-### Capítulo Décimo Primero. Del Comité de Equidad de Género
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE FEBRERO DE 2017)</small>
+
+### Capítulo Décimo Primero. Del Comité de Igualdad de Género y Derechos Humanos
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 90.
 
-El Comité de Equidad de Género, es un organismo técnico especializado encargado de diseñar e implementar las estratégicas encaminadas a la reorganización, la mejora, el desarrollo y la evaluación de los procesos con perspectiva de género; a efecto de que se incorporen en todas las políticas y acciones, a todos los niveles y en todas las etapas, y por parte de todos los actores implicados en la adopción de dichas medidas al interior del Poder Judicial del Estado de Guanajuato.
+El Comité de Igualdad de Género y Derechos Humanos, es un organismo técnico especializado encargado de diseñar e implementar las estratégicas encaminadas a la reorganización, la mejora, el desarrollo y la evaluación de los procesos con perspectiva de género; a efecto de que se incorporen en todas las políticas y acciones, a todos los niveles y en todas las etapas, y por parte de todos los actores implicados en la adopción de dichas medidas al interior del Poder Judicial del Estado de Guanajuato, además de realizar acciones tendentes a promover, respetar, proteger y garantizar los Derechos Humanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 91.
 
-Corresponde al Comité de Equidad de Género:
+Corresponde al Comité de Igualdad de Género y Derechos Humanos:
 
-I. Generar el programa anual integral de equidad de género para la institución;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
-II. Generar el programa anual sobre sensibilización, capacitación y formación en materia de equidad de género y derechos de las mujeres, en coordinación con la Escuela de Estudios e Investigación Judicial;
+I. Generar el programa anual integral de igualdad de género y derechos humanos para la institución;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+II. Generar el programa anual sobre sensibilización, capacitación y formación en materia de igualdad de género, derechos humanos y derechos de las mujeres, en coordinación con la Escuela de Estudios e Investigación Judicial;
 
 III. Definir su reglamento interno, mismo que debe ser aprobado por el Consejo;
 
@@ -1541,9 +2009,11 @@ IV. Durante el último mes de cada año judicial, rendir su informe anual de act
 
 V. Las demás que le confiera su Reglamento Interno o el Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 92.
 
-El Comité de Equidad de Género se integra:
+El Comité de Igualdad de Género y Derechos Humanos se integra:
 
 I. Por la o el Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado de Guanajuato;
 
@@ -1553,7 +2023,9 @@ III. Por un magistrado o magistrada del Supremo Tribunal de Justicia del Estado 
 
 IV. Por una Secretaría, a propuesta del Consejo.
 
-El Comité de Equidad de Género sesionará por lo menos cuatro veces al año.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+El Comité de Igualdad de Género y Derechos Humanos sesionará por lo menos cuatro veces al año.
 
 Durarán en su encargo dos años pudiendo designarse por otro periodo igual.
 
@@ -1600,3 +2072,23 @@ Lo anterior, se asienta para debida constancia, a los 29 veintinueve días del m
 El Secretario General del Consejo del Poder Judicial del Estado.
 
 Lic. Héctor Tinajero Muñoz.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DEL PODER JUDICIAL, MEDIANTE EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL CONSEJO DEL PODER JUDICIAL".]
+
+Primero. El presente Acuerdo entrará en vigor el día 1° de marzo del 2017.
+
+Segundo. Las Direcciones de Administración y Servicios de Apoyo, así como las Coordinaciones de Planeación y Estadística, deberán realizar las gestiones necesarias para atender las disposiciones de este Acuerdo, teniendo hasta el día 31 de marzo del 2017 para su culminación.
+
+Tercero. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado, y para su mayor difusión en el sitio web del Poder Judicial del Estado.
+
+P.O. 28 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DEL PODER JUDICIAL, MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO DÉCIMO PRIMERO DEL TÍTULO CUARTO ASÍ COMO LOS ARTÍCULOS 90, 91, Y 92 DEL REGLAMENTO INTERIOR DEL CONSEJO DEL PODER JUDICIAL".]
+
+Primero. El presente Acuerdo entrará en vigor el día 1° de marzo del 2017.
+
+Segundo. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado, y para su mayor difusión en el sitio web del Poder Judicial del Estado."
