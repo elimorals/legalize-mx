@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2016-11-18"
+last_updated: "2017-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -35,7 +35,7 @@ DECRETO 7.
 
 LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
@@ -531,13 +531,17 @@ XLVI. Establecer y coordinar el funcionamiento del Sistema Estatal de Informaci�
 
 XLVII. Establecer los lineamientos y coordinar los programas de innovación gubernamental relativos al diseño de procesos, tecnologías de la información y sistemas de gestión de la calidad que busquen la eficiencia, transparencia y competitividad, así como el desarrollo institucional del Estado;
 
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XLVIII. Delegar a persona específica la función de proporcionar la información que corresponda a la Secretaría, de conformidad con la Ley de Transparencia Administrativa y Acceso a la Información Pública del Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XLIX. Confirmar que los financiamientos que se contraten sean celebrados en las mejores condiciones del mercado, y
+
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
 
-XLVIII. Delegar a persona específica la función de proporcionar la información que corresponda a la Secretaría, de conformidad con la Ley de Transparencia Administrativa y Acceso a la Información Pública del Estado de San Luis Potosí, y
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
-
-XLIX. Las demás que le señalen las leyes, reglamentos y demás disposiciones que le atribuyan, así como aquellas que le otorgue el Gobernador del Estado.
+L. Las demás que le señalen las leyes, reglamentos y demás disposiciones que le atribuyan, así como aquellas que le otorgue el Gobernador del Estado.
 
 ###### ARTICULO 34.
 
@@ -563,7 +567,7 @@ e) Fomentar y apoyar el diseño y funcionamiento de mecanismos de consulta ciuda
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
 
-Il. Celebrar y ejecutar convenios con la Federación en materia de desarrollo regional y social, coordinando con las dependencias y entidades federales, estatales y municipales que concurren al desarrollo regional y social del Estado, la ejecución de los planes y programas respectivos;
+II. Celebrar y ejecutar convenios con la Federación en materia de desarrollo regional y social, coordinando con las dependencias y entidades federales, estatales y municipales que concurren al desarrollo regional y social del Estado, la ejecución de los planes y programas respectivos;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2007)</small>
 
@@ -1878,3 +1882,11 @@ CUARTO. El Ejecutivo Estatal procederá a emitir el Reglamento Interior de la Co
 QUINTO. Se faculta al Poder Ejecutivo del Estado a realizar la ampliación y ajustes que se requieran al Presupuesto, para asignar a la Consejería Jurídica del Estado lo necesario que le permita contar con los recursos materiales, humanos y financieros suficientes para el ejercicio de las atribuciones que se le asignan en este Decreto, así como para su operación y funcionamiento.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0574.- SE REFORMA Y ADICIONA EL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
