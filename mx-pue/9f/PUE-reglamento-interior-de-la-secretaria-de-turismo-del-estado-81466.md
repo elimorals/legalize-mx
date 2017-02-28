@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-turismo-del-estado-8146
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2015-08-13"
+last_updated: "2017-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DEL ESTADO DE PUEBLA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DEL ESTADO DE PUEBLA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA Y TURISMO, PUBLICADO EN LA NOVENA SECCIÓN AL NÚMERO 19 DEL P.O. DE 28 DE FEBRERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2016.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE PUEBLA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -896,3 +898,17 @@ CUARTO. Todo trámite que se haya iniciado o se encuentre en proceso de resoluci
 QUINTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a unidades administrativas que se desaparecen, se crean o modifican su denominación o adscripción, se entenderá atribuida a las unidades administrativas a que se refiere el presente ordenamiento y a las que atribuya la competencia especifica que en cada caso se relacione.
 
 SEXTO. Dentro de los sesenta días siguientes a la publicación del presente Decreto, las unidades administrativas de la Secretaría de Turismo deberán llevar a cabo la transferencia de los asuntos a su cargo, a las que le sean conferidas las facultades que correspondan, conforme este Reglamento.
+
+P.O. 28 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA Y TURISMO".]
+
+PRIMERO. El presente Decreto, deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente de su publicación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Turismo, publicado en el Periódico Oficial del Estado el trece de mayo de dos mil once.
+
+TERCERO. Todo trámite que se haya iniciado o se encuentre en proceso de resolución a la entrada en vigor del presente Decreto, deberá continuar tramitándose de acuerdo a las disposiciones legales y normatividad vigentes al momento de iniciarse por la unidad administrativa a la que le sean conferidas atribuciones para ello, conforme a este Decreto.
+
+CUARTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a unidades administrativas que se desaparecen, se crean o modifican su denominación, se entenderá atribuida a las unidades administrativas a que se refiere el presente ordenamiento y a las que atribuya la competencia específica que en cada caso se relacione.
+
+QUINTO. Se dejan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
