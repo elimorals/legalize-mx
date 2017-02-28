@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ingresos-para-el-estado-de-guanajuato-para-el-118195"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-27"
-last_updated: "2017-02-10"
+last_updated: "2017-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO, PARA EL EJERCICIO FISCAL DEL AÑO 2017
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE FEBRERO DE 2017.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -999,25 +997,41 @@ TARIFA
 
 I. Por el uso de la autopista de cuota Guanajuato-Silao:
 
-a) Automóviles y pick up´s de 2 ejes $ 30.00
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
-1 Por eje excedente $ 6.00
+a) Automóviles y pick up's de 2 ejes $29.00
 
-b) Motocicletas $ 15.00
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE FEBRERO DE 2017)</small>
 
-c) Autobuses de 2, 3 y 4 ejes $ 51.00
+1. Por eje excedente $6.00
 
-d) Camiones de carga de 2 y 3 ejes $ 51.00
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE FEBRERO DE 2017)</small>
 
-e) Camiones de carga o tractocamiones con
+b) Motocicletas $15.00
 
-remolque de 4 y 5 ejes $ 87.00
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
-f) Camiones de carga o tractocamiones con
+c) Autobuses de 2, 3 y 4 ejes $50.00
 
-remolque de 6, 7, 8 y 9 ejes $ 136.00
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
-1 Por eje excedente $ 15.00
+d) Camiones de carga de 2 y 3 ejes $50.00
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+e) Camiones de carga o tractocamiones
+
+con remolque de 4 y 5 ejes $84.00
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+f) Camiones de carga o tractocamiones
+
+con remolque de 6, 7, 8 y 9 ejes $132.00
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE FEBRERO DE 2017)</small>
+
+1. Por eje excedente $15.00
 
 La Secretaría de Finanzas, Inversión y Administración, a través de la Dirección General de Ingresos, deberá fijar en lugares visibles para los usuarios de la citada vía de comunicación, la tarifa vigente para el pago de los derechos correspondientes. Asimismo, podrá celebrar convenios y autorizar descuentos generales del 20% en el pago de los derechos correspondientes, a través de la venta de tarjetas de prepago y demás mecanismos que para tal efecto se establezcan, a efecto de promocionar el uso de las carreteras y puentes estatales de cuota.
 
@@ -3336,3 +3350,13 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 174, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMA EL ARTÍCULO 4, FRACCIÓN I DE LA LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL 2017".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
