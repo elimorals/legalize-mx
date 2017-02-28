@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-atencion-de-la-violencia-familiar-del-56563
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2015-09-24"
+last_updated: "2017-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de julio de 2007.
 
@@ -53,7 +53,9 @@ La presente Ley es de orden público e interés social; tiene como objeto preven
 
 La aplicación de la presente Ley tendrá como propósito garantizar los derechos de los integrantes de las familias, a efecto de que éstos no sean restringidos, ni lesionados.
 
-Con este objeto, la unidad, la igualdad de oportunidades, de derechos y deberes de los miembros de la familia, la equidad y la protección de las personas en el núcleo familiar, constituyen principios rectores para la interpretación y aplicación de la presente Ley.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+Con este objeto, la unidad, la igualdad de oportunidades, de derechos y deberes de los miembros de la familia, la equidad, la igualdad sustantiva, la igualdad de género, la perspectiva de género, y la protección de las personas en el núcleo familiar, constituyen principios rectores para la interpretación y aplicación de la presente Ley.
 
 ###### ARTICULO 2°.
 
@@ -81,7 +83,9 @@ III. Organizaciones sociales: las instituciones legalmente constituidas y regist
 
 IV. Procuraduría de Protección: la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y Adulto Mayor; y
 
-V. Unidades de Atención: las unidades de la administración pública municipal, encargadas de dar atención a las personas receptoras y generadoras de violencia familiar, conforme a la presente Ley; así como de llevar a cabo, el procedimiento de conciliación y la ejecución, en su caso, de las medidas requeridas para hacer cesar y erradicar la violencia familiar.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+V. Unidades de Atención: las unidades de la administración pública municipal, encargadas de dar atención a las personas receptoras y generadoras de violencia familiar, conforme a la presente Ley; así como de aplicar las medidas requeridas para hacer cesar y erradicar la violencia familiar.
 
 ###### ARTICULO 5°.
 
@@ -159,6 +163,18 @@ i) La Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la
 
 j) El Instituto de las Mujeres del Estado de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+k) La Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+l) El Centro de Atención Integral a Víctimas.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+m) Al Centro de Justicia para las Mujeres;
+
 II. Al Poder Judicial del Estado;
 
 III. Al Consejo Estatal para la Prevención y Atención de la Violencia Familiar, y
@@ -177,7 +193,9 @@ II. Proponer la celebración de convenios con las asociaciones de profesionales 
 
 III. Coadyuvar, a través de la Dirección General del Registro Civil, a la difusión del contenido y alcances de la presente Ley, y en los cursos prematrimoniales que para tal efecto implementen los oficiales del Registro Civil a las parejas que pretendan contraer nupcias, y
 
-IV. Promover, a través de la Coordinación de la Defensoría Social y de Oficio del Estado, la capacitación y sensibilización de los defensores sociales y de oficio, a efecto de procurar la adecuada atención a las víctimas receptoras de la violencia familiar, que requieran de sus servicios profesionales.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+IV. Promover, a través de la Defensoría Pública del Estado, la capacitación y sensibilización de las defensoras y los defensores públicos, a efecto de procurar la adecuada atención a las víctimas receptoras de la violencia familiar, que requieran de sus servicios profesionales.
 
 ###### ARTICULO 9º.
 
@@ -299,9 +317,15 @@ III. Coadyuvar en la difusión de los derechos de la familia;
 
 IV. Proporcionar servicio de asesoría legal y contención emocional, de manera personal y mediante línea telefónica de emergencia, a personas receptoras de violencia familiar, así como a terceras personas que tengan conocimiento de dicha violencia;
 
-V. Remitir a las Unidades de Atención, los casos de violencia familiar que sean de su conocimiento, y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
-VI. Las demás que les confieran los ordenamientos legales aplicables.
+V. Remitir a las Unidades de Atención, los casos de violencia familiar que sean de su conocimiento;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+VI. Generar los mecanismos y acciones que permitan eliminar estereotipos de género dentro de la familia, que propicien desequilibrio, desigualdad, sumisión o cualquiera otra situación de desventaja que afecte a las mujeres y a las niñas, y
+
+VII. Las demás que les confieran los ordenamientos legales aplicables.
 
 ###### ARTICULO 15.
 
@@ -321,13 +345,19 @@ III. Crear por lo menos una Unidad de Atención.
 
 ### CAPITULO I. Del Consejo Estatal para la Prevención y Atención de la Violencia Familiar
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 17.
 
-Se crea el Consejo para la Prevención y Atención de la Violencia Familiar en el Estado, como órgano honorífico, responsable del apoyo normativo, consulta, seguimiento, evaluación y coordinación con los organismos facultados, para la realización de las tareas y acciones en materia familiar.
+El Consejo Estatal es la instancia responsable del apoyo normativo, consulta, seguimiento, evaluación y coordinación con los organismos facultados, para la realización de las tareas y acciones en materia familiar.
+
+Los cargos en el Consejo Estatal son de carácter honorífico, por lo que sus integrantes no recibirán emolumento o retribución por su desempeño.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 18.
 
-El órgano rector del Consejo Estatal será una Junta de Gobierno, que se integrará por el titular o el representante que designen, las siguientes entidades y dependencias:
+EI Consejo Estatal se integrará con las o los titulares o representantes de:
 
 I. El Titular del Poder Ejecutivo, o quien designe, lo presidirá;
 
@@ -345,9 +375,25 @@ VI. La Procuraduría General de Justicia del Estado;
 
 VII. La Comisión Estatal de Derechos Humanos;
 
-VIII. El Instituto de las Mujeres del Estado de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
-IX. Una persona representante de las asociaciones civiles, cuyo fin sea la prevención y atención de la violencia familiar; la cual será designada entre ellas mismas.
+VIII. El Instituto de las Mujeres del Estado de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+IX. La Comisión Ejecutiva Estatal de Atención a Víctimas;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+X. El Centro de Atención Integral a Víctimas;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XI. El Centro de Justicia para las Mujeres, y
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+XII. Las asociaciones civiles, cuyo fin sea la prevención y atención de la violencia familiar; cuya representación será designada por las mismas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
 
@@ -399,9 +445,11 @@ VIII. Coordinar a las autoridades e instituciones facultadas por la ley, que por
 
 IX. Las demás que le señalen los ordenamientos legales aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 22.
 
-Los representantes de las personas que integran el Consejo Estatal, deberán tener conocimiento en materia de violencia familiar, y mantener continuidad en su participación, a efecto de lograr una permanente representatividad que permita dar puntual seguimiento a las acciones desarrolladas por el Consejo Estatal.
+Las personas que integran el Consejo Estatal deberán tener conocimiento en materia de violencia familiar, y mantener continuidad en su participación, a efecto de lograr una permanente representatividad que permita dar puntual seguimiento a las acciones desarrolladas por éste.
 
 ###### ARTICULO 23.
 
@@ -423,13 +471,33 @@ IV. Las acciones para difundir entre la población, la legislación existente so
 
 V. Los convenios de coordinación con instituciones públicas y privadas, a fin de que participen en acciones de sensibilización, para la atención y capacitación en los casos que se presenten derivados de violencia familiar;
 
-VI. Acciones de difusión para la prevención de la violencia familiar, dirigidas a las personas que asistan a hospitales públicos y privados, regionales y centros de salud municipales, y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
-VII. Las demás propuestas que acuerde el Consejo Estatal.
+VI. Las acciones de difusión para la prevención de la violencia familiar, dirigidas a las personas que asistan a hospitales públicos y privados, regionales y centros de salud municipales;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+VII. Las estrategias de atención integral, apoyo y acompañamiento a las víctimas de violencia familiar, con especial énfasis en las mujeres y, en su caso, sus menores hijos e hijas;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+VIII. Las acciones afirmativas que favorezcan el empoderamiento de las mujeres y las niñas en su rol de igualdad, respecto a los demás miembros de la familia;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+IX. La información cualitativa y estadística que deberá reportarse al Banco Estatal de Información sobre la Violencia contra las Mujeres, y al Banco Estatal de Indicadores de Género;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2017)</small>
+
+X. Las acciones de coordinación de las instituciones integrantes del Consejo con las Unidades de Atención, y
+
+XI. Las demás propuestas que acuerde el Consejo Estatal.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 25.
 
-El Programa Estatal para la Prevención y Atención de la Violencia Familiar, se revisará y actualizará cada año, con la aprobación de la mayoría de los integrantes que hayan asistido a la respectiva sesión del Consejo Estatal.
+El Programa Estatal para la Prevención y Atención de la Violencia Familiar, se revisará y actualizará cada año, con la aprobación de la mayoría de las y los integrantes que asistan a la sesión del Consejo Estatal.
 
 ### CAPITULO III. De las Unidades de Atención
 
@@ -465,7 +533,7 @@ Las Unidades de Atención tendrán las siguientes atribuciones:
 
 I. Promover y operar los programas de prevención y atención a la violencia familiar en el ámbito municipal, aprobados por el Consejo Estatal;
 
-II. Conocer del procedimiento de conciliación que establece la presente Ley;
+II. (DEROGADA, P.O. 28 DE FEBRERO DE 2017)
 
 III. Asistir a las personas y familias generadoras y receptoras de la violencia familiar, para detectar, canalizar a las instancias competentes y brindar los servicios que en cada caso procedan;
 
@@ -521,9 +589,11 @@ El personal de las Unidades de Atención deberá ser seleccionado, a fin de cont
 
 ### CAPITULO I. Generalidades
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 36.
 
-Las Unidades de Atención serán las competentes para conocer de los hechos en materia de violencia familiar, así como dar seguimiento al trámite y solución de esos conflictos, incluso en la vía de conciliación.
+Las Unidades de Atención serán las competentes para conocer de los hechos en materia de violencia familiar, así como dar seguimiento al trámite y solución de esos conflictos.
 
 ###### ARTICULO 37.
 
@@ -531,9 +601,11 @@ Las Unidades de Atención dictarán y aplicarán las medidas que estimen necesar
 
 La facilitación de servicios de atención, no exime al padre, a la madre, o a la persona responsable de resguardar los derechos de las personas afectadas, de sus deberes de cuidado, y de garantizar el bienestar de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2017)</small>
+
 ###### ARTICULO 38.
 
-En la tramitación del procedimiento en materia de violencia familiar, rigen los principios de legalidad, imparcialidad, gratuidad, reserva, breve trámite y oralidad; privilegiando el principio de conciliación.
+En la tramitación del procedimiento en materia de violencia familiar, rigen los principios de, legalidad, imparcialidad, gratuidad, reserva, breve trámite, y oralidad.
 
 El procedimiento se iniciará inmediatamente, cuando por cualquier medio se tenga conocimiento de un hecho constitutivo de violencia familiar.
 
@@ -643,7 +715,7 @@ Tratándose de niñas, niños y adolescentes, se realizarán las investigaciones
 
 ###### ARTICULO 49.
 
-Cuando resulte procedente la conciliación, se proporcionará atención jurídica citando a las partes, a fin de establecer las condiciones necesarias que permitan definir los derechos y obligaciones, así como los acuerdos posibles que surjan sobre el problema concreto.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2017)
 
 ###### ARTICULO 50.
 
@@ -655,43 +727,29 @@ Las funciones del personal de las Unidades de Atención, serán determinadas en 
 
 ###### ARTICULO 52.
 
-El procedimiento al que se refiere este Capítulo se inicia en forma verbal o por escrito. Las Unidades de Atención deberán iniciar de inmediato, el procedimiento correspondiente, para que en un término no mayor de cuarenta y ocho horas, puedan citar a las siguientes personas:
+(DEROGADO, P.O. 28 DE FEBRERO DE 2017)
 
-I. El receptor de la violencia familiar;
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
-II. El generador de la violencia familiar;
-
-III. Cualquier miembro de la familia, y
-
-IV. Las que con motivo de su actividad detecten cualquier circunstancia, que haga presumible la existencia de hechos que constituyan violencia familiar.
-
-Los menores de edad también podrán ser citados a fin de recabar su opinión.
-
-###### ARTICULO 53.
-
-Recibido el conocimiento de hechos, el especialista de la Unidad de Atención que se ocupe del caso, invitará al compareciente y a la otra parte involucrada en el conflicto, a una sesión en la que les explicará los fines del procedimiento para solucionar el conflicto por vía de conciliación.
-
-Si cualquiera de las partes no comparecen al segundo citatorio que se fije la sesión, se levantará el acta respectiva y se archivará el expediente; entendiéndose que se niegan a la conciliación.
-
-En caso de que se tenga conocimiento de conflictos o conductas de violencia que constituyan delito que se persigue de oficio, dará inmediato conocimiento a la autoridad competente.
+ARTICULO 53 El especialista de la Unidad de Atención que se ocupe del caso y que tenga conocimiento de conflictos o conductas de violencia que constituyan delito que se persigue de oficio, lo comunicará de inmediato a la autoridad competente.
 
 ###### ARTICULO 54.
 
-Las Unidades de Atención deberán dar trato confidencial a la información o documentación de las personas atendidas. Lo anterior implica que el expediente en el que se integren las constancias relativas al planteamiento y a la resolución del problema, sólo podrá ser consultado por quienes intervengan en ellos, sus apoderados, y el Consejo Estatal, al que se le deberán mandar los informes a que se refiere esta Ley; no podrán ser utilizados como medios de prueba en otros juicios, ni los conciliadores podrán ser compelidos a declarar como testigos.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2017)
 
 ###### ARTICULO 55.
 
-El procedimiento de la conciliación se llevará a cabo preferentemente en no más de dos audiencias.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2017)
 
 ###### ARTICULO 56.
 
-En las audiencias de conciliación, la persona conciliadora propondrá el acuerdo entre las partes mediante alternativas; y les hará saber las consecuencias en caso de continuar con el conflicto.
+(DEROGADO, P.O. 28 DE FEBRERO DE 2017)
 
-Una vez que las partes lleguen a una conciliación, se suscribirá el convenio correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2017)</small>
 
 ###### ARTICULO 57.
 
-En los casos en que se considere que una persona es generadora de violencia familiar, se podrá establecer en los convenios, que ésta se someterá al programa de terapia familiar aprobado por el Consejo Estatal.
+En los casos en que se considere que una persona es generadora de violencia familiar, se le canalizará al programa de terapia familiar aprobado por el Consejo Estatal.
 
 El término de los programas, previa evaluación de la Unidad de Atención, se fijará tomando en consideración los resultados de las terapias.
 
@@ -709,7 +767,7 @@ TERCERO. El Consejo Estatal y las Unidades de Atención deberán quedar instalad
 
 CUARTO. Treinta días después de la instalación de las Unidades de Atención, el Procurador de la Defensa del Menor, la Mujer y la Familia, formulará el Reglamento Interior, para someterlo a la aprobación del Consejo Estatal.
 
-QUINTO. En los municipios en los que hubiere Centros de Atención Integral a la Violencia. Familiar, las Unidades de Atención asumirán las funciones y todos los asuntos relativos que a aquellos les competa.
+QUINTO. En los municipios en los que hubiere Centros de Atención Integral a la Violencia Familiar, las Unidades de Atención asumirán las funciones y todos los asuntos relativos que a aquellos les competa.
 
 Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
@@ -780,3 +838,11 @@ P.O. 24 DE SEPTIEMBRE DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0570.- SE REFORMA Y ADICIONA LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
