@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-02-21"
+last_updated: "2017-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE FEBRERO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -546,9 +546,7 @@ XIII. A la Oficialía Mayor:
 
 3. Dirección General de Patrimonio Inmobiliario;
 
-> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2016)</small>
-
-4. Coordinación General de Control y Profesionalización de las Unidades Encargadas de la Administración
+4. (DEROGADO, G.O. 28 DE FEBRERO DE 2017)
 
 4.1 (DEROGADO, G.O. 15 DE MARZO DE 2016)
 
@@ -7496,93 +7494,9 @@ XXXIX. Supervisar la elaboración del programa interno de protección civil de l
 
 XL. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ABRIL DE 2016)</small>
-
 ###### Artículo 101.
 
-Corresponde a la Coordinación General de Control y Profesionalización de las Unidades Encargadas de la Administración:
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-I. Coordinar las estrategias de operación, evaluación y control de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México basados en la evaluación de su desempeño, los riesgos operativos y su avance en el fortalecimiento de sus capacidades y emitir recomendaciones en ese sentido en el caso de los órganos político-administrativos y las entidades;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-II. Proponer y establecer métodos de trabajo que procuren la eficiencia y la eficacia en la ejecución de sus actividades de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México, así como a los órganos político-administrativos y entidades que lo soliciten;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-III. Impulsar la profesionalización de los servidores públicos adscritos a las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México, así como a los órganos político-administrativos y entidades cuando así lo soliciten;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-IV. Evaluar el cumplimiento de los indicadores y metas de las áreas encargadas de la administración de las dependencias y los órganos desconcentrados de la Administración Pública de la Ciudad de México, en relación a los lineamientos de trabajo establecidos por la Oficialía Mayor, así como a los órganos político-administrativos y entidades que lo soliciten;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-V. Establecer los procesos de selección, reclutamiento e ingreso para la ocupación de los puestos de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México y a las Entidades cuando así lo soliciten;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-VI. Promover e implementar los esquemas de rotación lateral, ascendente, descendente y la separación del cargo del personal de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México, así como a las Entidades que lo soliciten, basados en la evaluación de su desempeño, los riesgos operativos y su avance en el fortalecimiento de sus capacidades y emitir recomendaciones en ese sentido en el caso de los órganos político-administrativos;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-VII. Aprobar las técnicas y métodos de evaluación de conocimientos del personal de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México, así como de los órganos político-administrativos y entidades que lo soliciten;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-VIII. Acordar con los titulares de las áreas encargadas de administración en las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México el trámite, la solución y el despacho de los asuntos competencia de éstos y proponer a los órganos político-administrativos y entidades recomendaciones en tal sentido;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-IX. Conocer, proponer, evaluar y opinar las modificaciones de estructura orgánica de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México y para el caso de los órganos político administrativos y entidades emitir las recomendaciones que estime pertinentes;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-X. Emitir los lineamientos, reglas, circulares y demás disposiciones jurídico-administrativas para la operación de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-XI. Requerir información para la realización de estudios y análisis que permitan la identificación de riesgos en la operación de las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-XII. Promover el cumplimiento de las disposiciones jurídicas y administrativas aplicables a las áreas encargadas de la administración de las dependencias y órganos desconcentrados de la Administración Pública de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
-
-XIII. Preparar los análisis que presente el Oficial Mayor al Jefe de Gobierno, respecto del ejercicio de las atribuciones a él conferidas y de los servidores públicos subalternos;
-
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2016)</small>
-
-XIV. Solicitar información y documentos a las instancias de la Administración Pública de la Ciudad de México, cuando sea necesario para resolver los asuntos de su competencia;
-
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
-
-XV. Suscribir los documentos relativos al ejercicio de sus atribuciones;
-
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
-
-XVI. Certificar, por sí o a través de las Direcciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo;
-
-> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2016)</small>
-
-XVII. Emitir las normas y criterios, así como administrar los instrumentos de tramitación para el ejercicio eficiente de los gastos relacionados con los servicios de traslado, viáticos, y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales de las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México y resguardar la información de las mismas; y
-
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2016)</small>
-
-XVIII. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
-
-XIX.- (DEROGADA, G.O. 15 DE MARZO DE 2016)
-
-XX. (DEROGADA, G.O. 15 DE MARZO DE 2016)
-
-XXI. (DEROGADA, G.O. 15 DE MARZO DE 2016)
-
-XXII. (DEROGADA, G.O. 15 DE MARZO DE 2016)
-
-XXIII. (DEROGADA, G.O. 15 DE MARZO DE 2016)
+(DEROGADO, G.O. 28 DE FEBRERO DE 2017)
 
 ###### Artículo 101 -A.
 
@@ -19679,3 +19593,11 @@ SEXTO.- Los asuntos que a la entrada en vigor del presente decreto se encuentren
 SÉPTIMO.- A partir de la entrada en vigor del presente Decreto y para una adecuada rendición de cuentas, la Agencia de Gestión Urbana de la Ciudad de México adscrita a la Secretaría de Obras y Servicios, deberá rendir también los informes del cierre del ejercicio 2017 y los que establezca la normatividad vigente entre los cuales están, los de avance trimestral y de cuenta pública por el periodo que estuvo adscrita a la Jefatura de Gobierno.
 
 OCTAVO.- Los trabajadores de base y lisia de raya base, con y sin dígito sindical, cambiarán de adscripción de la Dirección General de Servicios Urbanos a la Agencia de Gestión Urbana adscrita a la Secretaría de Obras y Servicios, sin perjuicio de sus derechos y prestaciones vigentes.
+
+G.O. 28 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
