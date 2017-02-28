@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2016-09-29"
+last_updated: "2017-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -4271,8 +4273,6 @@ Se exceptúan de la norma anterior la apelación contra sentencias pronunciadas 
 
 ART. 941.- El litigante, al interponer la apelación, debe usar de moderación, absteniéndose de denostar al juez, de lo contrario quedará sujeto a la pena impuesta en los artículos 59 y 60.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
 ART. 942.- El juez, al resolver sobre la interposición del recurso, expresará si lo admite en un solo efecto o en ambos efectos, y ordenará que se corra traslado a la parte contraria con copia del escrito de expresión de agravios para que, en el término de cinco días, conteste lo que a su derecho convenga, exhiba, en su caso, y a su costa, las constancias que estime necesarias para la substanciación del recurso, y señale persona y domicilio para oír notificaciones en el lugar de residencia del tribunal.
@@ -4280,6 +4280,10 @@ ART. 942.- El juez, al resolver sobre la interposición del recurso, expresará 
 Asimismo, se ordenará que se dé vista al Ministerio Público a fin de que dentro del citado término manifieste lo que a su representación social convenga.
 
 Transcurrido dicho término, desahogada o no la vista, el juez ordenará la revisión de los autos o del testimonio de apelación correspondientes a la superioridad dentro de tres días, remitiendo siempre el original del escrito de expresión de agravios y, en su caso, de contestación a los mismos. El incumplimiento a lo anterior será causa de responsabilidad administrativa. Si las partes no señalaren domicilio para oír notificaciones en el lugar de residencia del tribunal, las notificaciones respectivas se les harán en la puerta del mismo, por medio de lista o cédula.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
+
+Cuando en nombre de un menor o incapaz se interpone un recurso de apelación en contra de la sentencia definitiva, pero no se expresan agravios en términos del artículo anterior, la Sala del Supremo Tribunal que corresponda, tiene el deber de suplir la deficiencia de la queja en toda su amplitud, en aras del interés superior del menor, siempre que esté de por medio, directa o indirectamente, el bienestar de éstos, sin que para ello sea determinante la naturaleza de los derechos familiares que estén en controversia, o el carácter de quién o quiénes lo interpongan.
 
 ART. 943.- La apelación admitida en ambos efectos suspende desde luego la ejecución de la sentencia o del auto hasta que éstos causen ejecutoria, y, entretanto, sólo podrán dictarse las resoluciones que se refieran a administración, custodia o conservación de bienes embargados o intervenidos judicialmente, siempre que la apelación no verse sobre alguno de esos puntos.
 
@@ -5121,11 +5125,13 @@ Tratándose de violencia familiar prevista en el artículo 12 del Código Famili
 
 Al efecto, verificará el contenido de los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público.
 
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
-ART. 1140.- Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que en su caso le presenten se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, meintras (sic) se resuelve el Juicio.
+ART. 1140.- Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que, en su caso, le presenten, se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento, o por disposición de la ley, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, en tanto se resuelve el juicio.
 
-Será optativo para las partes, acudir asesoradas y, en este supuesto, los asesores necesariamente deberán ser Licenciado en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir desde luego a enterarse del asunto disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón, se diferirá la audiencia en un término igual.
+Tratándose de deudores alimentarios que hayan dejado de cumplir con sus obligaciones en materia de alimentos por un período mayor de sesenta días, el Juez de lo Familiar hará tal circunstancia del conocimiento del Instituto Nacional de Migración, así como al Instituto de Migración y Enlace Internacional del Estado, mediante oficio, para que procedan conforme al artículo 48 fracción VI de la Ley de Migración.
+
+Será optativo para las partes, acudir asesoradas y, en este supuesto, quien les asesore, necesariamente deberá ser abogado o licenciado en derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir desde luego a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
 
@@ -5664,5 +5670,21 @@ P.O. 29 DE SEPTIEMBRE DE 2016.
 [N DE E. TRANSITORIOS DEL “DECRETO NO. 0392.- SE REFORMA EL ARTÍCULO 922, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0571.- SE ADICIONA PÁRRAFO FINAL AL ARTÍCULO 942, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0573.- SE REFORMA EL ARTÍCULO 1140 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
