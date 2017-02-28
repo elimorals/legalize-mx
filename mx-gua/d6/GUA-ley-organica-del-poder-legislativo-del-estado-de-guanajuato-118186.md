@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2016-12-27"
+last_updated: "2017-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2017 EN EL PERIÓDICO OFICIAL DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 28 DE FEBRERO DE 2017.]</small>
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -3037,9 +3035,11 @@ IV. Conducirse con parcialidad en los procedimientos de control interno, así co
 
 V. Incurrir en abandono del cargo por un periodo de 5 días.
 
+> <small>(F. DE E., P.O. 28 DE FEBRERO DE 2017)</small>
+
 ###### Artículo 291.
 
-En caso de falta absoluta; renuncia o remoción del titular de la Contraloría Interna del Poder Legislativo, se procederá de conformidad con el artículo 283 (sic) de la presente Ley.
+En caso de falta absoluta, renuncia o remoción del titular de la Contraloría Interna del Poder Legislativo, se procederá de conformidad con el artículo 287 de la presente Ley.
 
 En tanto se hace la designación correspondiente, la Junta de Gobierno y Coordinación Política designará al encargado del despacho, quien no podrá permanecer en el encargo por más de tres meses.
 
