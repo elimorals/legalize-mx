@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-y-proteccion-pecuaria-del-estado-de-morelos-8907
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-15"
-last_updated: "2015-05-27"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO Y PROTECCIÓN PECUARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 15 de agosto de 2012.
 
@@ -1451,25 +1451,33 @@ III. Los daños causados a la sociedad o a terceros, y
 
 IV. Las condiciones económicas del infractor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 201.
 
-La contravención a cualesquiera de las hipótesis previstas en los artículos 19 y 32 de la presente Ley, será sancionada e infraccionada con multa de cinco a treinta veces el salario mínimo general vigente en el Estado de Morelos.
+La contravención a cualesquiera de las hipótesis previstas en los artículos 19 y 32 de la presente Ley, será sancionada e infraccionada con multa de cinco a treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 En caso de reincidencia, se aplicará el doble de la sanción máxima prevista en este artículo.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 202.
 
-Las personas que se opongan a las inspecciones establecido (sic) en el artículo 12 de la presente Ley, serán sancionados con multa de cincuenta a cien veces el salario mínimo general vigente en el Estado, sin perjuicio de ser consignados por el delito del que resulten responsables.
+Las personas que se opongan a las inspecciones establecidas en el artículo 12 de la presente Ley, serán sancionadas con multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de ser consignados por el delito del que resulten responsables.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 203.
 
-Las violaciones a las disposiciones establecidas por el artículo 42 de la presente Ley, serán sancionadas con multa de doscientos a quinientos veces el salario mínimo general vigente del Estado.
+Las violaciones a las disposiciones establecidas por el artículo 42 de la presente Ley, serán sancionadas con multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-En caso de omitir el informe mensual de pieles registradas en los términos de dicho artículo, se aplicará una multa de quince a treinta veces el salario mínimo general vigente en la Entidad; y en caso de reincidencia, se procederá a ejecutar la clausura temporal y la aplicación, en forma duplicada, de una multa hasta su regularización.
+En caso de omitir el informe mensual de pieles registradas en los términos de dicho artículo, se aplicará una multa de quince a treinta veces el valor diario de la Unidad de Medida y Actualización; y en caso de reincidencia, se procederá a ejecutar la clausura temporal y la aplicación, en forma duplicada, de una multa hasta su regularización.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 204.
 
-Las violaciones a las disposiciones del artículo 51 de la presente Ley, serán sancionadas con multa de cinco a diez veces el salario mínimo general vigente en el Estado.
+Las violaciones a las disposiciones del artículo 51 de la presente Ley, serán sancionadas con multa de cinco a diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 205.
 
@@ -1477,9 +1485,13 @@ En las violaciones de las disposiciones establecidas por los artículos 75, 76 y
 
 I. Si faltare la o las facturas que acrediten la propiedad, se retendrán de inmediato a los animales, denunciando los hechos y poniendo al responsable a disposición del Ministerio Público, dando aviso a la Dirección. Así mismo se depositará el ganado retenido en el Corral de Consejo más próximo, para su vigilancia y cuidado y se comunicará lo anterior a la Dirección;
 
-II. La violación a la fracción I de los artículos 75, 76 y 91 de la presente Ley, será sancionada con multa de cincuenta a doscientos veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-III. La violación al artículo 98 de la presente Ley, se sancionará con multa de diez a cincuenta veces el salario mínimo general vigente en el Estado; además de la contraprestación que se origine por la regularización del Certificado Zoo-sanitario, y se procederá en la forma siguiente:
+II. La violación a la fracción I de los artículos 75, 76 y 91 de la presente Ley, será sancionada con multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
+III. La violación al artículo 98 de la presente Ley, se sancionará con multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización; además de la contraprestación que se origine por la regularización del Certificado Zoo-sanitario, y se procederá en la forma siguiente:
 
 a. El inspector de la zona retendrá el ganado;
 
@@ -1503,9 +1515,11 @@ Las sanciones pecuniarias que la presente Ley establece, serán ejecutadas y se 
 
 El Poder Ejecutivo del Estado destinará el ochenta por ciento de los ingresos a que se refiere el artículo anterior, al fomento de los programas ganaderos que se establezcan, y el veinte por ciento restante de la totalidad del importe correspondiente, se aplicará para lo que defina la misma Secretaría.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 209.
 
-En los casos no especificados por esta Ley, el monto de las sanciones pecuniarias a que la misma se refiere, será fijado por la Dirección, el cual comprenderá de tres a doscientas veces el salario mínimo general vigente en el Estado, según las circunstancias del caso.
+En los casos no especificados por esta Ley, el monto de las sanciones pecuniarias a que la misma se refiere, será fijado por la Dirección, el cual comprenderá de tres a doscientas veces el valor diario de la Unidad de Medida y Actualización, según las circunstancias del caso.
 
 ## TRANSITORIOS.
 
@@ -1578,3 +1592,15 @@ P.O. 27 DE MAYO DE 2015.
 PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y CINCO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 201, 202, 203, 204, FRACCIÓN II Y PÁRRAFO PRIMERO DE LA FRACCIÓN III DEL ARTÍCULO 205 Y 209 DE LA LEY DE FOMENTO Y PROTECCIÓN PECUARIA DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
