@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-ayuntamiento-de-26729"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-13"
-last_updated: "2002-11-13"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL AYUNTAMIENTO DE PESQUERIA, NUEVO LEON
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL AYUNTAMIENTO DE PESQUERIA, NUEVO LEON
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL AYUNTAMIENTO DE PESQUERÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de noviembre de 2002.
 
@@ -303,7 +303,7 @@ C).- Una puerta de emergencia.
 
 D).- Cumplir con lo dispuesto en la fracción III K) de este artículo.
 
-E).- Tener impreso al frente y atrás un número económico que asignará la dirección de Policía y Tránsito, mismo que tendrá un tamaño mínimo de veinticinco centímetros de alto por quince centímetros de ancho y también una calcomanía que diga “QUEJAS” y además los números de teléfono de la Autoridad mencionada.
+E).- Tener impreso al frente y atrás un número económico que asignará la dirección de Policía y Tránsito, mismo que tendrá un tamaño mínimo de veinticinco centímetros de alto por quince centímetros de ancho y también una calcomanía que diga "QUEJAS" y además los números de teléfono de la Autoridad mencionada.
 
 F).- Revisión mecánica cada seis meses.
 
@@ -491,7 +491,7 @@ VII.- Maniobrar con cuidado al rebasar vehículos estacionados.
 
 ART. 31.- Es obligación de los peatones, pasajeros y ocupantes de vehículos, el respetar todas las normas establecidas para ellos en este Reglamento y en general todo lo que se refiera al buen uso y aprovechamiento de la vía pública; así como acatar fielmente las indicaciones hechas por el personal encargado por la dirección de Policía y Tránsito en el ejercicio de sus atribuciones y tener para ellos un trato amable y cortés.
 
-ART. 32.- Para bajar de la banqueta, los peatones que no se encuentren en uso completo sus (sic) facultades y los menores de ocho anos, deberán estar acompañados por personas mayores de edad que se encuentren en uso completo de sus facultades.
+ART. 32.- Para bajar de la banqueta, los peatones que no se encuentren en uso completo (sic) sus facultades y los menores de ocho años, deberán estar acompañados por personas mayores de edad que se encuentren en uso completo de sus facultades.
 
 Los invidentes podrán usar un bastón de color blanco con el que apuntarán hacia arriba cuando requieran auxilio para cruzar la calle.
 
@@ -1133,7 +1133,9 @@ L).- Cuando el conductor se encuentre en estado de ebriedad o bajo el influjo de
 
 V.- La licencia de conducir podrá ser retirada por los elementos de la Dirección de Policía y Tránsito cuando el conductor infractor sea menor de edad y en los casos en que proceda la suspensión o cancelación de la licencia de acuerdo con las fracciones II y III en éste artículo.
 
-VI.- MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general de la región, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
+VI.- MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda al valor diario de la Unidad de Medida y Actualización vigente al año que corresponda, multiplicando por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
 T A B U L A D O R
 
@@ -1214,3 +1216,13 @@ PRESIDENTE MUNICIPAL
 C. ALFONSO TOVAR HERNÁNDEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 30 DE ENERO DE 2017, SE APRUEBA LA REFORMA POR MODIFICACIÓN DE DIVERSOS REGLAMENTOS”.]
+
+PRIMERO.- LA PRESENTE REFORMA, ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- LOS PROCEDIMIENTOS Y DEMÁS ACTOS JURÍDICOS QUE SE ENCUENTREN EN TRÁMITE A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, SERÁN RESUELTOS A (SIC) LAS NORMAS VIGENTES AL MOMENTO DE SU INICIO.
