@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-promotora-de-vivienda-chiapas-89989"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-10"
-last_updated: "2012-10-10"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA PROMOTORA DE VIVIENDA CHIAPAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA PROMOTORA DE VIVIENDA CHIAPAS, PUBLICADO EN EL P.O. DE 01 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA PROMOTORA DE VIVIENDA CHIAPAS, PUBLICADO EN EL P.O. DE 1 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DE LA PROMOTORA DE VIVIENDA CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 10 de octubre de 2012.
 
@@ -213,7 +213,7 @@ V. Emitir resoluciones en materia de competencia de la PROVICH, conforme a las d
 
 VI. Otorgar el ingreso, promoción, remoción, cambio de adscripción, comisiones y licencias del personal de la PROVICH;
 
-VII. Presentar a la Junta de Gobierno para su aprobación y expedición proyectos (sic) de Reglamento Interior y Manuales Administrativos de la PROVICH;
+VII. Presentar a la Junta de Gobierno para su aprobación y expedición proyectos de Reglamento Interior y Manuales Administrativos de la PROVICH;
 
 VIII. Solicitar a la instancia correspondiente, previa aprobación de la Junta de Gobierno, el fortalecimiento estructural de los Órganos Administrativos y de plantilla de plazas de la PROVICH;
 
@@ -263,7 +263,7 @@ VII. Vigilar que las acciones competencia de los Órganos Administrativos a su c
 
 VIII. Convocar a reuniones de trabajo, al personal adscrito en los diferentes Órganos Administrativos a su cargo;
 
-IX. Establecer coordinación (sic) interna para el cumplimiento de los programas y proyectos técnicos y administrativos ejecutados por la PROVICH;
+IX. Establecer coordinación interna para el cumplimiento de los programas y proyectos técnicos y administrativos ejecutados por la PROVICH;
 
 X. Vigilar que se ejecuten con eficiencia las actividades técnicas, administrativas y financieras de los Órganos Administrativos a su cargo;
 
@@ -776,3 +776,25 @@ Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8°, de la 
 Dado en el Salón de Sesiones de la PROVICH, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 19 días del mes de julio del año 2012 dos mil doce.
 
 PRESIDENTE: ÓSCAR FARRERA RODRÍGUEZ, REPRESENTANTE Y SUPLENTE DEL CONSEJERO JURÍDICO DEL GOBERNADOR.- SECRETARIO TÉCNICO: SANDRA BERENICE RAMÍREZ CORONADO, DIRECTORA DE FINANCIAMIENTO Y DESARROLLO DE PROYECTOS DE LA PROMOTORA DE VIVIENDA CHIAPAS.- VOCALES: JUAN JESÚS NIETO LÓPEZ, REPRESENTANTE Y SUPLENTE DEL SECRETARIO DE INFRAESTRUCTURA.- JUAN ANTONIO CASTRO GASCA, REPRESENTANTE Y SUPLENTE DEL SECRETARIO GENERAL DE GOBIERNO. PACÍFICO HUGO ORANTES LÓPEZ, REPRESENTANTE Y SUPLENTE DEL SECRETARIO DE HACIENDA.- ROBERTO ANTONIO MOSCOSO SALAS, REPRESENTANTE Y SUPLENTE DEL SECRETARIO DE DESARROLLO Y PARTICIPACIÓN SOCIAL.- CRISTIAN OMAR CASILLAS SÁNCHEZ, REPRESENTANTE Y SUPLENTE DEL DIRECTOR GENERAL DEL INSTITUTO DE PROTECCIÓN CIVIL PARA EL MANEJO INTEGRAL DE RIESGOS DE DESASTRES DEL ESTADO DE CHIAPAS.- INTERVIENE POR LA PROMOTORA DE VIVIENDA CHIAPAS, JOSÉ CUAUHTÉMOC SALVADOR ORDAZ GORDILLO, DIRECTOR GENERAL.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "PUB. NO. 1826-A-2017 REGLAMENTO INTERIOR DE LA PROMOTORA DE VIVIENDA CHIAPAS".]
+
+Artículo Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Promotora de Vivienda Chiapas, publicado en el Periódico Oficial del Estado, No. 393, Tomo III, de fecha 10 de Octubre de 2012, Publicación No. 3458-A-2012, así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Director General resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Director General, resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización de la PROVICH, deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Director General, resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- La PROVICH deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Ley de Protección Civil del Estado de Chiapas.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial del Estado.
