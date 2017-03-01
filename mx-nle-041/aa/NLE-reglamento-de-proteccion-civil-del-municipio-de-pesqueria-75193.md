@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-del-municipio-de-pesqueria-75193
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-28"
-last_updated: "2000-01-28"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCION CIVIL DEL MUNICIPIO DE PESQUERIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 28 de enero de 2000.
 
@@ -113,9 +113,9 @@ b) Como Secretario Ejecutivo: El Secretario de Ayuntamiento.
 
 c) Como Secretario Técnico: El Director Municipal de Protección Civil.
 
-ll. El Centro Municipal de Operaciones.
+II. El Centro Municipal de Operaciones.
 
-lll. Grupos Voluntarios; los Grupos Voluntarios prestarán auxilio al Consejo Municipal de Protección Civil.
+III. Grupos Voluntarios; los Grupos Voluntarios prestarán auxilio al Consejo Municipal de Protección Civil.
 
 Entre los Grupos Voluntarios serán considerados los Grupos Voluntarios de Rescate, los cuales siempre serán coordinados por la Dirección Municipal de Protección Civil, a fin de que realicen su función correspondiente dentro del Plan Municipal de Protección Civil.
 
@@ -815,7 +815,7 @@ IV. El aseguramiento y secuestro de objetos materiales;
 
 V. La clausura temporal o definitiva, total o parcial de establecimientos, construcciones, instalaciones u obras;
 
-VI. La realización de actos, en rebeldía de los qué están obligados a ejecutarlos;
+VI. La realización de actos, en rebeldía de los que están obligados a ejecutarlos;
 
 VII. El auxilio de la fuerza pública; y
 
@@ -879,7 +879,9 @@ I. Amonestación;
 
 II. Clausura temporal o definitiva, total o parcial de los establecimientos;
 
-III. Multa equivalente al monto de 20 a 1,000 días de salario mínimo vigente en la zona económica a la que pertenece el Municipio al momento de la comisión de la infracción.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+III. Multa equivalente al monto de 20 a 1,000 cuotas, Se entiende por cuota, el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
 
 En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de 2,000 días de salario mínimo, así como la clausura definitiva;
 
@@ -1012,3 +1014,13 @@ PRESIDENTE MUNICIPAL.
 ING. PEDRO ANDRES GUTIERREZ CANTU.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 30 DE ENERO DE 2017, SE APRUEBA LA REFORMA POR MODIFICACIÓN DE DIVERSOS REGLAMENTOS”.]
+
+PRIMERO.- LA PRESENTE REFORMA, ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- LOS PROCEDIMIENTOS Y DEMÁS ACTOS JURÍDICOS QUE SE ENCUENTREN EN TRÁMITE A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, SERÁN RESUELTOS A LAS NORMAS VIGENTES AL MOMENTO DE SU INICIO.
