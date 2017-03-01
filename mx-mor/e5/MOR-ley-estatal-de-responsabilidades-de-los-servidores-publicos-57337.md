@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2016-07-25"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -475,7 +475,9 @@ Para el eficaz cumplimiento de las funciones encomendadas a las autoridades sanc
 
 I. Apercibimiento.
 
-II. Multa, hasta por el equivalente de cien días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+II. Multa, hasta por el equivalente de cien veces el valor diario de la Unidad de Medida y Actualización.
 
 III. Auxilio de la fuerza pública; y
 
@@ -799,9 +801,11 @@ VI. Los medios de ejecución utilizados por el servidor público al momento de c
 
 VIII (SIC). La reincidencia en el incumplimiento de las obligaciones impuestas por la función pública a todos los servidores públicos. Para tal efecto, se considera que existe reincidencia cuando al servidor público de que se trate se le haya impuesto, por resolución firme de autoridad competente, otra sanción derivada de responsabilidad administrativa.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 66.
 
-Las autoridades sancionadoras podrán abstenerse de sancionar al infractor por una sola vez, cuando encuentren debidamente justificada la abstención y siempre que se trate de hechos que no revistan gravedad ni constituyan algún delito y además, los antecedentes o circunstancias personales del infractor; dicha abstención procederá, siempre que el daño causado por el servidor público no exceda de cien veces el salario mínimo general vigente en el Estado al momento en que se cometió la infracción.
+Las autoridades sancionadoras podrán abstenerse de sancionar al infractor por una sola vez, cuando encuentren debidamente justificada la abstención y siempre que se trate de hechos que no revistan gravedad ni constituyan algún delito y además, los antecedentes o circunstancias personales del infractor; dicha abstención procederá, siempre que el daño causado por el servidor público no exceda de cien veces el valor diario de la Unidad de Medida y Actualización al momento en que se cometió la infracción.
 
 ###### ARTÍCULO 67.
 
@@ -923,9 +927,11 @@ La Secretaría de la Contraloría del Estado, el Consejo de la Judicatura y Audi
 
 En la Administración Pública Estatal, los servidores públicos titulares de las Secretarías, Dependencias y Entidades, así como aquellos que ocupen cargos inferiores hasta el nivel jerárquico de Subsecretario o equivalente, además de los directores generales de la administración paraestatal, deberán autorizar que se hagan públicas sus declaraciones de intereses y de situación patrimonial, en la versión que establezca la Secretaría de la Contraloría del Poder Ejecutivo Estatal, en la cual se determinarán los datos del declarante que deban hacerse públicos conforme a los principios de máxima publicidad y transparencia, sin perjuicio de la protección de datos personales de terceros. Dichos servidores harán público además el cumplimiento de sus obligaciones fiscales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 79.
 
-El servidor público que no presente su declaración de bienes en los plazos previstos por el artículo 77 y en la forma y tiempo establecidos por las autoridades receptoras en su reglamentación interna, se hará acreedor a multa de un mínimo de ocho a un máximo de veinte días de salario mínimo general vigente en el Estado de Morelos.
+El servidor público que no presente su declaración de bienes en los plazos previstos por el artículo 77 y en la forma y tiempo establecidos por las autoridades receptoras en su reglamentación interna, se hará acreedor a multa de un mínimo de ocho a un máximo de veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 25 DE JULIO DE 2016)</small>
 
@@ -1122,3 +1128,15 @@ SEGUNDA. El presente Decreto entrará en vigor el día siguiente al de su public
 TERCERA. En un plazo no mayor a 180 días hábiles, contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán actualizarse o modificarse las disposiciones reglamentarias que derivan del instrumento legislativo reformado.
 
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS NOVENTA Y SEIS POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 33, 66 Y PÁRRAFO PRIMERO DEL ARTÍCULO 79 DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
