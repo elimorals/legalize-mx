@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2016-10-19"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL, MORELOS
 
-LEY ORGÁNICA DEL PODER JUDICIAL
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -1017,7 +1017,9 @@ En los distritos y demarcaciones en que hubiere más de un juzgado los asuntos s
 
 Los Jueces Menores conocerán de los siguientes asuntos:
 
-I.- De todos los procedimientos cuya cuantía no exceda de mil doscientas veces el salario mínimo general vigente en el Estado de Morelos, con exclusión de los juicios plenarios de posesión, de los declarativos de propiedad y reivindicatorios, de los juicios sobre servidumbre, de los procedimientos de apeo o deslinde, y en general aquellos en los que se discutan derechos reales; quedan también excluidos de su conocimiento los procedimientos sobre cuestiones familiares y estado y condición de las personas y los juicios universales;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+I.- De todos los procedimientos cuya cuantía no exceda de mil doscientas veces el valor diario de la Unidad de Medida y Actualización, con exclusión de los juicios plenarios de posesión, de los declarativos de propiedad y reivindicatorios, de los juicios sobre servidumbre, de los procedimientos de apeo o deslinde, y en general aquellos en los que se discutan derechos reales; quedan también excluidos de su conocimiento los procedimientos sobre cuestiones familiares y estado y condición de las personas y los juicios universales;
 
 II.- De los interdictos;
 
@@ -1077,7 +1079,9 @@ III.- Los ministros de cualquier culto religioso.
 
 Los Jueces de Paz conocerán de los siguientes asuntos:
 
-I.- De los juicios cuyo monto no exceda del importe de ciento cincuenta veces el salario mínimo diario general vigente en el Estado de Morelos. Se exceptúan los juicios que versen sobre propiedad y demás derechos reales sobre inmuebles, los posesorios y los que versen sobre estado y condición de las personas y derechos de familia;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+I.- De los juicios cuyo monto no exceda del importe de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización. Se exceptúan los juicios que versen sobre propiedad y demás derechos reales sobre inmuebles; los posesorios y los que versen sobre estado y condición de las personas y derechos de familia;
 
 II.- De la diligenciación de los exhortos y despachos;
 
@@ -1259,9 +1263,11 @@ VIII.- No ser funcionario o empleado Federal, Estatal o Municipal.
 
 Son causas justificadas para pedir exclusión en lista de jurados, las mismas que se establecen en el artículo 457 del Código de Procedimientos Penales.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 99.
 
-Los miembros de un jurado popular que asistan a las audiencias en asuntos de su conocimiento, recibirán la remuneración que fije el Presupuesto de Egresos del Estado. Los que falten sin causa justificada incurrirán en multa de hasta quince veces el salario mínimo general del Estado, que impondrá el Presidente de los debates.
+Los miembros de un jurado popular que asistan a las audiencias en asuntos de su conocimiento, recibirán la remuneración que fije el Presupuesto de Egresos del Estado. Los que falten sin causa justificada incurrirán en multa de hasta quince veces el valor diario de la Unidad de Medida y Actualización, que impondrá el Presidente de los debates.
 
 ###### ARTICULO 100.
 
@@ -2137,9 +2143,11 @@ La comisión de una o más faltas de servidor público en el desempeño de su ca
 
 La declaratoria de responsabilidad administrativa por dichas faltas será constitutiva de impedimento del servidor público en el conocimiento del asunto en el cual se originó y dará lugar a la anotación respectiva en su expediente personal, cuando no produzca su separación definitiva del cargo, sin perjuicio de la aplicación de las demás sanciones señaladas en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 192.
 
-La declaratoria de inexistencia de responsabilidad administrativa por faltas, o el desechamiento de la denuncia, deberá ser publicada en extracto en el boletín judicial gratuitamente; en estos casos el Tribunal, en resolución motivada, podrá imponer al denunciante, a la persona que lo asesore, o a ambos, una multa de diez a ciento cincuenta días de salario mínimo general vigente en el Estado.
+La declaratoria de inexistencia de responsabilidad administrativa por faltas, o el desechamiento de la denuncia, deberá ser publicada en extracto en el boletín judicial gratuitamente; en estos casos el Tribunal, en resolución motivada, podrá imponer al denunciante, a la persona que lo asesore, o a ambos, una multa de diez a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 193.
 
@@ -2408,3 +2416,15 @@ PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
 
 TERCERA.- Tratándose que la presente reforma, únicamente refiere a la armonización de las disposiciones de la Ley Orgánica del Poder Judicial, con las previstas en la Constitución Política del Estado Libre y Soberano de Morelos, por ende no implica afectación alguna de derechos previamente reconocidos y vigentes, esto en estricto apego a la legalidad y pleno respeto a la autonomía del Poder Judicial, por tal circunstancia se reconoce plenamente la temporalidad de la designación en el cargo del actual Representante del Poder Legislativo, ante el Consejo de la Judicatura.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y CINCO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTICULO 75, FRACCIÓN I DEL ARTÍCULO 83, 99 Y 192 DE LA LEY ORGÁNICA DEL PODER JUDICIAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
