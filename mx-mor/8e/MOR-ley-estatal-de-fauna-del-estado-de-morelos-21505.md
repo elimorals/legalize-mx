@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-fauna-del-estado-de-morelos-21505"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2014-11-19"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE FAUNA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el 30 de abril de 1997.
 
@@ -497,21 +497,23 @@ VIII.- Las demás que determine la presente Ley o su Reglamento. Salvaguardando 
 
 De las faltas cometidas por los cazadores o capturadores clandestinos, también se considera responsable a los remitentes, consignatarios y porteadores de los productos de la caza.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 71.
 
-Las infracciones a lo dispuesto en esta Ley, se sancionarán por la Procuraduría de Protección al Ambiente del Estado de Morelos, con multas de hasta sesenta Salarios Mínimos Vigentes en el Estado de Morelos o bien con arresto hasta por treinta y seis horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que se haya dado lugar.
+Las infracciones a lo dispuesto en esta Ley, se sancionarán por la Procuraduría de Protección al Ambiente del Estado de Morelos, con multas de hasta sesenta veces el valor diario de la Unidad de Medida y Actualización o bien con arresto hasta por treinta y seis horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que se haya dado lugar.
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 71 Bis.
 
-Se impondrá multa de mil quinientos a dos mil días de salario mínimo vigente en el Estado, y arresto hasta por treinta y seis horas a quien realice la infracción contenida en el segundo párrafo del artículo 12 de la presente Ley. Así mismo se procederá a la clausura del inmueble donde se desarrolle el evento o espectáculo.
+Se impondrá multa de mil quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización, y arresto hasta por treinta y seis horas a quien realice la infracción contenida en el segundo párrafo del artículo 12 de la presente Ley. Así mismo se procederá a la clausura del inmueble donde se desarrolle el evento o espectáculo.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 72.
 
-Los responsables de los rastros que no cumplan con las disposiciones señaladas en esta Ley, se harán acreedores a multas de los 10 hasta 40 veces del salario mínimo vigente en el Estado de Morelos. En caso de reincidencia se duplicará la multa y en caso de reincidencia habitual o gravedad se cancelará el permiso para ejercer la actividad propia del mismo, en tratándose de particulares. De ser el establecimiento manejado por el Municipio, se procederá a la separación del cargo del administrador, sin menoscabo de la sanción que de acuerdo a esta Ley y cualquier otro ordenamiento proceda.
+Los responsables de los rastros que no cumplan con las disposiciones señaladas en esta Ley, se harán acreedores a multas de 10 hasta 40 veces el valor diario de la Unidad de Medida y Actualización. En caso de reincidencia se duplicará la multa y en caso de reincidencia habitual o gravedad se cancelará el permiso para ejercer la actividad propia del mismo, en tratándose de particulares. De ser el establecimiento manejado por el Municipio, se procederá a la separación del cargo del administrador, sin menoscabo de la sanción que de acuerdo a esta Ley y cualquier otro ordenamiento proceda.
 
 ###### Artículo 73.
 
@@ -630,3 +632,15 @@ P.O. 19 DE NOVIEMBRE DE 2014.
 PRIMERO. Remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO. El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el periódico oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS NOVENTA POR EL QUE SE REFORMAN LOS ARTÍCULOS 71, 71 BIS Y 72 DE LA LEY ESTATAL DE FAUNA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
