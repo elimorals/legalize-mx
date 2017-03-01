@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-auditoria-y-fiscalizacion-del-estado-de-morelos-107728"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-13"
-last_updated: "2015-05-13"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE AUDITORÍA Y FISCALIZACIÓN DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de mayo de 2015.
 
@@ -1223,7 +1223,9 @@ Cuando el Congreso o la Entidad Superior reciban quejas o denuncias de las que s
 
 Las Entidades Fiscalizadas deberán contestar a la Entidad Superior en un plazo que no excederá de diez días naturales contados a partir de la recepción del requerimiento. Este informe en ningún caso contendrá información clasificada como reservada o confidencial.
 
-Si transcurre el plazo concedido para la presentación de la documentación e información solicitada y que no se haya rendido sin causa justificada, la Entidad Superior fincará las responsabilidades que correspondan e impondrá a los responsables una multa de doscientos a quinientos días de salario mínimo vigente en el Estado.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Si transcurre el plazo concedido para la presentación de la documentación e información solicitada y que no se haya rendido sin causa justificada, la Entidad Superior fincará las responsabilidades que correspondan e impondrá a los responsables una multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 En el caso de reincidencia, la Entidad Superior solicitará de manera inmediata a la entidad fiscalizada la remisión de la información omitida y sancionará al responsable con una multa de hasta el doble de la anteriormente señalada.
 
@@ -1594,3 +1596,17 @@ SECRETARIO DE GOBIERNO
 DR. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SESENTA Y OCHO POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 77 DE LA LEY DE AUDITORÍA Y FISCALIZACIÓN EN EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
