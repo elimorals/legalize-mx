@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-10001
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-26"
-last_updated: "2017-02-15"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -977,7 +977,9 @@ La Visitaduría General, podrá requerir información a todas las áreas de la I
 
 Así mismo, podrá solicitar información a otras instancias o autoridades para los efectos de la debida integración de la investigación.
 
-Para el cumplimiento de estos fines, al momento de requerir la información a que se refiere el párrafo tercero de este artículo, podrá apercibir y, en su caso, multar a las autoridades que nieguen o retrasen la información que les sea solicitada, con una multa de 50 a 100 días de Salario Mínimo Vigente en la Entidad, sin perjuicio de cumplir con la obligación de informar.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Para el cumplimiento de estos fines, al momento de requerir la información a que se refiere el párrafo tercero de este artículo, podrá apercibir y, en su caso, multar a las autoridades que nieguen o retrasen la información que les sea solicitada, con una multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de cumplir con la obligación de informar.
 
 La multa a que se refiere el párrafo anterior, tendrá la naturaleza de crédito fiscal y una vez impuesta la remitirá para su ejecución a la Secretaría de Hacienda del Estado.
 
@@ -1213,7 +1215,9 @@ II. Apercibimiento;
 
 III. Arresto hasta por veinticuatro horas;
 
-IV. Multa por el equivalente de uno o hasta quince días de Salario Mínimo General Vigente en el Estado;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+IV. Multa por el equivalente de una o hasta quince veces el valor diario de la Unidad de Medida y Actualización;
 
 V. Cambio de adscripción;
 
@@ -1374,3 +1378,15 @@ TERCERA.- Dentro de los sesenta días hábiles posteriores a la entrada en vigor
 CUARTA.- El Titular del Poder Ejecutivo del Estado de Morelos, contará con un plazo de noventa días hábiles, contados a partir de la entrada en vigor de este Decreto, para hacer las modificaciones pertinentes al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Morelos.
 
 QUINTA.- Se derogan las disposiciones de igual o menor grado que se contrapongan al presente Decreto.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS NOVENTA Y CUATRO POR EL QUE SE (SIC) EL PÁRRAFO CUARTO DEL ARTÍCULO 62 Y FRACCIÓN IV DEL ARTÍCULO 88 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
