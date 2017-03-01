@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de-572
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-17"
-last_updated: "2014-06-25"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 17 de octubre de 2007.
 
@@ -259,7 +259,7 @@ XXI. Coadyuvar en la promoción de la prevención de la contaminación de sitios
 
 XXII. Autorizar los lugares en donde los residuos se entregarán a servicios de recolección o a centros de acopio regionales según corresponda, de conformidad con lo que establezcan los programas correspondientes;
 
-XXIII. Organizar y promover de acuerdo a su competencia, actividades de comunicación, educación, capacitación, investigación y desarrollo tecnológico para prevenir la generación, valorizar y lograr el manejo integral de los residuos; y (sic)
+XXIII. Organizar y promover de acuerdo a su competencia, actividades de comunicación, educación, capacitación, investigación y desarrollo tecnológico para prevenir la generación, valorizar y lograr el manejo integral de los residuos; y
 
 XXIV. Promover de acuerdo a su competencia la integración, operación y funcionamiento de organismos consultivos en los que participen representantes de los sectores industrial, comercial y de servicios, académico, de investigación y desarrollo tecnológico, asociaciones de profesionistas y de consumidores, y organizaciones no gubernamentales relacionadas con el tema, para que tomen parte en los procesos destinados a clasificar los residuos, evaluar las tecnologías para su prevención, valorización y tratamiento, planificar el desarrollo de la infraestructura para su manejo y desarrollar las propuestas técnicas de instrumentos normativos y de otra índole que ayuden a lograr los objetivos en la materia.
 
@@ -427,7 +427,7 @@ II. Convocarán a los grupos sociales organizados a participar en proyectos dest
 
 III. Celebrarán convenios de concertación con organizaciones sociales y privadas en la materia objeto de la presente Ley;
 
-IV. Celebrarán convenios con medios de comunicación para la promoción de las acciones de prevención y gestión integral de los residuos; y (sic)
+IV. Celebrarán convenios con medios de comunicación para la promoción de las acciones de prevención y gestión integral de los residuos; y
 
 V. Promoverán el reconocimiento a los esfuerzos más destacados de la sociedad en materia de prevención y gestión integral de los residuos.
 
@@ -1119,19 +1119,31 @@ Las sanciones por la comisión de las infracciones señaladas en el Artículo an
 
 I. Multa que se determinará en los casos y montos siguientes:
 
-a) Con el equivalente de 5 a 99 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, II, XI, XV, XVII;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-b) Con el equivalente de 100 A 1000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: III, VI, VII, IX, XII, XIII, XIV;
+a) Con el equivalente de 5 a 99 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, II, XI, XV, XVII;
 
-c) Con el equivalente de 5,000 a 25,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en el supuesto previsto en la (sic) fracciones IV, V, VIII, X, XVI, XVIII;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-I (sic). Además de las multas que se establecen en la fracción anterior, se harán acreedores, en su caso, a la clausura temporal o definitiva, parcial o total de las instalaciones, la cancelación temporal o definitiva, parcial o total de las autorizaciones otorgadas, o de las actividades de que se trate, y
+b) Con el equivalente de 100 A 1000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: III, VI, VII, IX, XII, XIII, XIV;
 
-II (sic). Además de las sanciones que se establecen en las fracciones I y II, los infractores se harán acreedores, en caso de que proceda, al decomiso por parte de la autoridad, de las materias primas obtenidas, así como de los instrumentos, maquinaria, equipos y herramientas o los medios de transporte utilizados.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+c) Con el equivalente de 5,000 a 25,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en el supuesto previsto en la fracciones IV, V, VIII, X, XVI, XVIII;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+II. Además de las multas que se establecen en la fracción anterior, se harán acreedores, en su caso, a la clausura temporal o definitiva, parcial o total de las instalaciones, la cancelación temporal o definitiva, parcial o total de las autorizaciones otorgadas, o de las actividades de que se trate, y
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+III. Además de las sanciones que se establecen en las fracciones I y II, los infractores se harán acreedores, en caso de que proceda, al decomiso por parte de la autoridad, de las materias primas obtenidas, así como de los instrumentos, maquinaria, equipos y herramientas o los medios de transporte utilizados.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 99.
 
-Para la imposición de las multas, servirá de base el salario mínimo general diario vigente para el Estado al momento de cometerse la infracción.
+Para la imposición de las multas, servirá de base el valor diario de la Unidad de Medida y Actualización al momento de cometerse la infracción.
 
 ###### ARTÍCULO 100.
 
@@ -1444,3 +1456,15 @@ Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artí
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Tierra y Libertad”, órgano de difusión de Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y TRES POR EL QUE SE REFORMA LA FRACCIÓN I INCISOS A), B) Y C) DEL ARTÍCULO 98 Y 99 DE LA LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
