@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-mercados-del-estado-de-morelos-7117"
 country: "mx"
 rank: "ley"
 publication_date: "1965-10-27"
-last_updated: "2014-11-19"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE MERCADOS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de octubre de 1965.
 
@@ -355,9 +355,9 @@ Las infracciones a esta Ley serán sancionadas en la siguiente forma:
 
 I.- Apercibimiento, con retiro de los puestos, locales, marquesinas, toldos, rótulos, cajones, canastas, huacales, jaulas, etc.;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-II.- Multa de 1 a 17 días de Salario Mínimo General Vigente en Morelos;
+II.- Multa de 1 a 17 veces el valor diario de la Unidad de Medida y Actualización;
 
 III.- Suspensión al infractor del ejercicio del comercio en el puesto o local hasta por quince días;
 
@@ -676,3 +676,15 @@ El decreto que al efecto se expida, entrará en vigor al día siguiente de su pu
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente (sic), se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y NUEVE POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 41 DE LA LEY DE MERCADOS DEL ESTADO DE MORELOS EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
