@@ -4,7 +4,7 @@ identifier: "SIN-codigo-fiscal-municipal-del-estado-de-sinaloa-118036"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-12-14"
-last_updated: "2016-12-14"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de diciembre de 2016.
 
@@ -413,9 +413,11 @@ Los particulares podrán solicitar a la autoridad la declaratoria de prescripci�
 
 La cancelación de créditos fiscales en las cuentas por incosteabilidad en el cobro y por insolvencia del sujeto pasivo o de los responsables solidarios, no liberan a uno y a otro de su obligación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 54.
 
-Procederá discrecionalmente la cancelación de créditos fiscales por incosteabilidad y solvencia.
+Procederá la cancelación de créditos fiscales por incosteabilidad o insolvencia:
 
 I. Cuando su importe sea inferior de la cantidad equivalente a dos veces el valor diario de la unidad de medida y actualización y no se pague espontáneamente dentro de los 90 días siguientes a la fecha en que la oficina recaudadora haya exigido el pago; y,
 
@@ -1353,9 +1355,11 @@ La reincidencia en la comisión de infracciones que tengan como consecuencia la 
 
 ### Capítulo Segundo. De Los Delitos Fiscales
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 120.
 
-Se entiende por delito fiscal la conducta típica, antijurídica y culpable descrita como tal en este Código, cuyas consecuencias jurídicas son aplicables a quienes en materia fiscal cometan actos u omisiones dolosas, que conlleven a un daño o posible daño en perjuicio de los intereses del fisco municipal.
+Se entiende por delito fiscal la conducta típica, antijurídica y culpable descrita como tal en este Código, cuyas consecuencias jurídicas son aplicables a quienes en materia fiscal cometan actos u omisiones dolosos, que conlleven a un daño a los intereses del fisco municipal.
 
 ###### Artículo 121.
 
@@ -1365,13 +1369,17 @@ En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria; 
 
 Cuando la autoridad fiscal tenga conocimiento de la probable existencia de un delito de los previstos en este Código de inmediato lo hará del conocimiento del Ministerio Público del Fuero Común para los efectos legales que procedan, aportándole las actuaciones y pruebas que se hubiesen allegado.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 123.
 
-Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Tesorería Municipal o el Director de Ingresos, formule querella.
+Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente el Tesorero Municipal o el Director de Ingresos, formule querella.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 124.
 
-Los procesos por los delitos fiscales a que se refieren las fracciones de este artículo, se deberán sobreseer a petición de la Tesorería Municipal cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Tesorería. La petición anterior se hará antes de que el Ministerio Público del Fuero Común formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera. En el caso del delito de defraudación fiscal, no se formulará querella por la Tesorería Municipal o por el Director de Ingresos, cuando el contribuyente pague las contribuciones adeudadas junto con sus accesorios.
+Los procesos por los delitos fiscales a que se refieren los supuestos previstos en el delito de defraudación fiscal del artículo 129 de este Código, se deberán sobreseer a petición del Tesorero Municipal cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia autoridad fiscal. La petición anterior se hará antes de que el Ministerio Público formule su acusación en su alegato de apertura en la Audiencia de Juicio prevista en el artículo 394 del Código Nacional de Procedimientos Penales y surtirá efectos respecto de las personas a que la misma se refiera. En el caso del delito de defraudación fiscal, no se formulará querella por el Tesorero Municipal o por el Director de Ingresos, cuando el contribuyente pague las contribuciones adeudadas junto con sus accesorios.
 
 ###### Artículo 125.
 
@@ -1401,13 +1409,15 @@ I. El particular o servidor público que con conocimiento de que fueron impresos
 
 II. Quien venda, utilice o ponga en circulación o en alguna otra forma comercie con dichos objetos, si son manufacturados con fragmentos o recortes de otros.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Al particular que cometa este delito, se le impondrá de uno a seis años de prisión, tratándose de servidor público la pena se aumentará hasta una tercera parte.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 129.
 
-Al empleado público que en cualquier forma partícipe en el delito citado en el artículo 128 que antecede se le impondrá de uno a seis años de prisión.
-
-###### Artículo 130.
-
-Comete el delito de defraudación fiscal quien haga uso de engaños o aproveche errores para omitir total o parcialmente el pago de contribuciones, o quien realice cualquier hecho, aserción, omisión, simulación, ocultación o maniobra que tenga por objeto producir o facilitar la evasión total o parcial de los tributos. Salvo prueba en contrario, la intención de defraudar al fisco se presume en los casos siguientes:
+Comete el delito de defraudación fiscal quien haga uso de engaños o aproveche errores para omitir total o parcialmente el pago de contribuciones, o quien realice cualquier hecho, afirmación, omisión, simulación, ocultación o maniobra que tenga por objeto producir o facilitar la evasión total o parcial de los tributos. Salvo prueba en contrario, la intención de defraudar al fisco se presume en los casos siguientes:
 
 a) Cuando las declaraciones fiscales contengan datos falsos;
 
@@ -1415,19 +1425,29 @@ b) Proporcionar con falsedad, a las autoridades fiscales que lo requieran, los d
 
 c) Llevar dos o más sistemas de contabilidad similares con distintos asientos o datos;
 
-d) No enterar a las autoridades fiscales, dentro del plazo del requerimiento que se le haga, las cantidades que haya retenido o recaudado de los contribuyentes, por concepto de contribuciones; y,
+d) No enterar a las autoridades fiscales dentro del plazo del requerimiento que se le haga, las cantidades que haya retenido o recaudado de los contribuyentes, por concepto de contribuciones; y,
 
 e) Quien estando obligado a presentar sus declaraciones, destruya o altere los sistemas o registros contables.
 
-El delito de defraudación fiscal se sancionará con prisión de diez meses a dos años.
+El delito de defraudación fiscal se sancionará conforme a lo siguiente:
 
-###### Articulo 131.
+I. Con prisión de diez meses a tres años, si el monto de lo defraudado no excede el equivalente a quinientas veces el valor diario de la unidad de medida y actualización.
 
-Se impondrá sanción de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales que, en perjuicio del fisco municipal, dispongan para sí o para otro, del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiesen constituido.
+II. Con prisión de tres a cinco años, si el monto de lo defraudado excede de quinientas veces el valor diario de la unidad de medida y actualización o cuando no se pueda determinar la cuantía de lo que se defraudó.
 
-Igual sanción se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente cuando esta se los requiera.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-Incurre en desobediencia a mandato legítimo de autoridad competente, quien habiendo sido requerido por tres ocasiones para la presentación de los documentos a que se refiere la fracción III del artículo 105 de este Código, estos no hayan presentado en tiempo y forma, y se sancionará conforme a lo previsto en el Código Penal para el Estado.
+###### Artículo 130.
+
+Se impondrá sanción de tres meses a tres años de prisión al depositario o interventor designado por las autoridades fiscales que, en perjuicio del fisco municipal, dispongan para sí o para otro, del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiesen constituido.
+
+Igual sanción se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente cuando ésta se los requiera.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+###### Artículo 131.
+
+Incurre en desobediencia a mandato legítimo de autoridad competente, quien habiendo sido requerido por tres ocasiones para la presentación de los documentos a que se refiere la fracción III del artículo 105 de este Código, estos no hayan presentado en tiempo y forma, y se sancionará conforme a lo previsto en el Código Penal para el Estado de Sinaloa, habiéndose agotado el debido proceso.
 
 ## Título Sexto. De la Defensa Jurídica del Particular en Materia Fiscal
 
@@ -1675,7 +1695,9 @@ Cuando la notificación sea personalmente y el notificador no encuentre a quien 
 
 Tratándose de actos relativos a procedimientos administrativos de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En el caso de que estos últimos se nieguen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al Jefe de la Oficina Recaudadora.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento, los honorarios que establece el Reglamento de este Código.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento, los honorarios de notificación serán el equivalente al valor diario de la unidad de medida y actualización, elevado a diez días.
 
 ###### Artículo 153.
 
@@ -1715,7 +1737,9 @@ La garantía deberá comprender, además de las contribuciones adeudadas, actual
 
 Las Tesorerías Municipales vigilarán que el valor de la garantía que se otorgue sea suficiente para cubrir las cantidades que resulten al aplicar el párrafo anterior. Dependiendo de la garantía que se trate deberá estar libre de gravamen, al corriente en el pago de sus obligaciones federales, estatales o municipales, según sea el caso.
 
-La Tesorería Municipal, previa autorización del Ayuntamiento, dispensará la garantía del interés fiscal, cuando en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Cuando se garantice el interés fiscal, el contribuyente tendrá la obligación de comunicar por escrito la garantía a la autoridad que le haya notificado el crédito fiscal. La Tesorería Municipal, previa autorización del Ayuntamiento, dispensará la garantía del interés fiscal, cuando en relación con el monto del crédito respectivo no exceda de cien veces el valor diario de la unidad de medida y actualización, y sea notoria la amplia insolvencia del deudor.
 
 ###### Artículo 158.
 
@@ -1793,19 +1817,33 @@ II. Por el embargo; y,
 
 III. Por el remate, enajenación fuera de remate o adjudicación al fisco municipal.
 
-Cuando en los casos de las fracciones anteriores, el dos por ciento del crédito sea inferior a un valor diario de la unidad de medida y actualización, se cobrará esta cantidad y no el dos por ciento del crédito.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente al valor diario de la unidad de medida y actualización, elevado a treinta días.
+Cuando en los casos de las fracciones anteriores, el dos por ciento del crédito sea inferior a un valor diario de la unidad de medida y actualización elevado a seis, se cobrará esta cantidad y no el dos por ciento del crédito.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente al valor diario de la unidad de medida y actualización, elevado a cuarenta días.
 
 ###### Artículo 165.
 
 Dentro del procedimiento administrativo de ejecución por las notificaciones realizadas para hacer efectivo un crédito fiscal, las personas físicas y morales estarán obligadas a pagar por honorarios 2% del crédito fiscal por concepto de gastos de ejecución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 166.
 
-Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de inscripciones o cancelaciones, en el Registro Público de la Propiedad y del Comercio que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
+Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, tales como los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de inscripciones o cancelaciones, en el Registro Público de la Propiedad y del Comercio que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación que establece este Código, o el juicio de nulidad respectivo.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Los gastos a que se refiere este artículo, se causarán conforme lo determine la autoridad ejecutora del Municipio dentro del procedimiento administrativo de ejecución. Para efectos de lo anterior, la autoridad fiscal municipal considerará, primordialmente, la capacidad económica del contribuyente y el total de su monto no podrá exceder del 10% del importe total del crédito.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Cuando el 10% sea inferior a un valor diario de la unidad de medida y actualización, se cobrará esa cantidad y no el 10% del importe total del crédito.
 
 ###### Artículo 167.
 
@@ -1815,15 +1853,19 @@ Se suspenderá el procedimiento administrativo de ejecución durante la tramitac
 
 A partir del día hábil siguiente al vencimiento de los plazos señalados dentro de la ley para el pago de los créditos fiscales o para el cumplimiento de las obligaciones fiscales, se iniciará el procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 169.
 
-Las autoridades fiscales para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor, señalándole un plazo improrrogable de quince días para que cubra el importe total de lo requerido, más los recargos y gastos de ejecución, apercibiéndole que de no hacerlo, se procederá al embargo de bienes bastantes de su propiedad para cubrir el crédito fiscal antes mencionado.
+Las autoridades fiscales para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor, señalándole un plazo improrrogable de nueve días para que cubra el importe total de lo requerido, más los recargos y gastos de ejecución, apercibiéndole que de no hacerlo, se procederá al embargo de bienes bastantes de su propiedad para cubrir el crédito fiscal antes mencionado.
 
 En la misma forma se procederá cuando sea necesario requerir a los contribuyentes, terceros, retenedores, responsables solidarios y particulares por el incumplimiento de obligaciones fiscales, en este caso con el apercibimiento de multas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 170.
 
-Transcurrido el plazo de quince días después de haber sido requerido de pago, si el deudor no ha cubierto totalmente el crédito a su cargo, se procederá como sigue:
+Transcurrido el plazo de nueve días después de haber sido requerido de pago, si el deudor no ha cubierto totalmente el crédito a su cargo, se procederá como sigue:
 
 I. Embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos en favor del fisco; y,
 
@@ -1837,9 +1879,11 @@ Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos e
 
 Si el contribuyente ha cumplido en tiempo y forma el requerimiento del cumplimiento de obligaciones fiscales, la sanción impuesta quedará sin efectos. En caso contrario subsistirá ésta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 172.
 
-El ejecutor designado por el jefe de la oficina exactora se constituirá en el domicilio del deudor y practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que se señalan para las notificaciones personales en este Código. De esta diligencia se levantará acta de la que se entregará copia a la persona con quién se entienda la misma.
+El ejecutor designado por el jefe de la oficina exactora se constituirá en el domicilio del deudor y practicará la diligencia de embargo de bienes con intervención de la negociación en su caso, cumpliendo las formalidades que se señalan para las notificaciones personales en este Código. De esta diligencia se levantará acta de la que se entregará copia a la persona con quien se entienda la misma.
 
 Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso, se hizo por edictos, la diligencia se entenderá con la autoridad municipal de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor, en cuyo caso se entenderá con él.
 
@@ -2019,7 +2063,9 @@ El remate deberá ser convocado para una fecha fijada dentro de los treinta día
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el valor diario de la unidad de medida y actualización de la zona económica que corresponda, elevado al año, la convocatoria se publicará en el órgano oficial de la entidad y en uno de los periódicos de mayor circulación.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+En el caso de que el importe de los bienes exceda de una cantidad equivalente a cinco veces el valor mensual de la unidad de medida y actualización, elevado al año, la convocatoria se publicará en el Periódico Oficial "El Estado de Sinaloa" y en uno de los periódicos de mayor circulación.
 
 ###### Artículo 194.
 
@@ -2077,9 +2123,11 @@ Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentr
 
 Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, la autoridad ejecutora procederá a entregarle los bienes que le hubiese adjudicado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 203.
 
-Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los diez días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
+Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
 
 Hecho el pago a que se refiere el párrafo anterior y designado en su caso el Notario Público por el postor, se citará al ejecutado para que dentro del plazo de diez días otorgue y firme la escritura de venta correspondiente, apercibido de que, si no lo hace, el jefe de la oficina ejecutora lo hará en su rebeldía.
 
@@ -2155,7 +2203,9 @@ El conocimiento y resolución del Juicio de Nulidad corresponde al Tribunal de l
 
 PRIMERO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-SEGUNDO. Los procedimientos de determinación, liquidación y apremio ya iniciados, continuarán ventilándose conforme a las disposiciones de éste Código.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+SEGUNDO. Los procedimientos de determinación, liquidación y apremio ya iniciados, continuarán ventilándose conforme a las disposiciones vigentes al momento de su determinación.
 
 TERCERO. A partir de la fecha en que entre en vigor el presente Código, quedarán derogados: el Título Noveno denominado "DISPOSICIONES SUSTANTIVAS Y PROCEDIMENTALES" y sus CAPÍTULOS I, II, III, IV, V, VI, VII y VIII que comprenden los artículos del 107 al 218, todos de la Ley de Hacienda Municipal del Estado de Sinaloa, así como las disposiciones fiscales o administrativas que se opongan a lo preceptuado en este Código.
 
@@ -2196,3 +2246,17 @@ C. GERARDO O. VARGAS LANDEROS
 El Secretario de Administración y Finanzas
 
 C. ARMANDO VILLAREAL IBARRA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 100 DEL H. CONGRESO DEL ESTADO.- SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
