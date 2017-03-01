@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-responsabilidad-patrimonial-del-estado-de-morelos-84191"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2015-04-01"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -161,7 +161,9 @@ Los montos de las indemnizaciones se calcularán de la siguiente forma:
 
 I.- En caso de daño moral, la autoridad administrativa o jurisdiccional, según sea el caso, calculará el monto de la indemnización de acuerdo a los criterios establecidos por el Código Civil para el Estado de Morelos, tomando en consideración la magnitud del daño.
 
-La indemnización por daño moral que el ente público esté obligado a cubrir, no excederá del equivalente a 2,000 veces el salario mínimo general diario vigente en el Estado de Morelos, por cada reclamante afectado.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+La indemnización por daño moral que el ente público esté obligado a cubrir, no excederá del equivalente a 2,000 veces el valor diario de la Unidad de Medida y Actualización, por cada reclamante afectado.
 
 II.- En los demás casos, la autoridad administrativa o jurisdiccional, según sea procedente, calculará el monto de la indemnización de acuerdo al daño causado al bien o derecho del particular afectado, pudiendo ordenar se practiquen los dictámenes periciales que correspondan.
 
@@ -415,10 +417,22 @@ Dr. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 1 DE ABRIL DE 2015.
 
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y CUATRO POR EL QUE SE REFORMA LA FRACCIÓN I PÁRRAFO SEGUNDO DEL ARTÍCULO 17 DE (SIC) LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
