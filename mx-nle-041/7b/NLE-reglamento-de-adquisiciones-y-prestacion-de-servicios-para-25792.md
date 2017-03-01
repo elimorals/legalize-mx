@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-y-prestacion-de-servicios-para-2579
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-06"
-last_updated: "2009-12-04"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ADQUISICIONES Y PRESTACION DE SERVICIOS PARA EL MUNICIPIO DE PESQUERIA, NUEVO LEON
 
-REGLAMENTO DE ADQUISICIONES Y PRESTACION DE SERVICIOS PARA EL MUNICIPIO DE PESQUERIA, NUEVO LEON
+REGLAMENTO DE ADQUISICIONES Y PRESTACIÓN DE SERVICIOS PARA EL MUNICIPIO DE PESQUERÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 6 de agosto de 1999.
 
@@ -135,7 +135,9 @@ a cuando menos cinco personas,
 
 cuando su monto no exceda de 34,000
 
-Nota: Se entiende por cuota el equivalente al salario mínimo diario vigente en el área geográfica correspondiente al Municipio.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+* Se entiende por cuota el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
 
 ### CAPITULO TERCERO. DE LOS CONCURSOS
 
@@ -249,9 +251,11 @@ El proveedor y el adquiriente podrán presenciar el procedimiento de verificaci�
 
 ### CAPITULO CUARTO. SANCIONES Y RECURSOS
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 25.
 
-Los particulares que infrinjan las disposiciones contenidas en este Reglamento podrán ser sancionadas con multas hasta de doscientas cuotas, las sanciones administrativas se impondrán sin perjuicio de las penas que correspondan en caso de delito y de los daños y perjuicios que pudieran resultar.
+Los particulares que infrinjan las disposiciones contenidas en este Reglamento podrán ser sancionadas (sic) con multas hasta de doscientas cuotas, se entiende por cuota el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda, las sanciones administrativas se impondrán sin perjuicio de las penas que correspondan en caso de delito y de los daños y perjuicios que pudieran resultar.
 
 ###### ARTICULO 26.
 
@@ -306,3 +310,11 @@ SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN C
 SEGUNDO.- Las presentes reformas entrarán en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Se derogan todas las disposiciones reglamentarias, circulares, acuerdos y demás disposiciones administrativas que contravengan las presentes disposiciones.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 30 DE ENERO DE 2017, SE APRUEBA LA REFORMA POR MODIFICACIÓN DE DIVERSOS REGLAMENTOS".]
+
+PRIMERO.- LA PRESENTE REFORMA, ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- LOS PROCEDIMIENTOS Y DEMÁS ACTOS JURÍDICOS QUE SE ENCUENTREN EN TRÁMITE A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, SERÁN RESUELTOS A LAS NORMAS VIGENTES AL MOMENTO DE SU INICIO.
