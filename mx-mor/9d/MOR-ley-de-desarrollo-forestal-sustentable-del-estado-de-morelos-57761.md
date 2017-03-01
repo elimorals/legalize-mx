@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-forestal-sustentable-del-estado-de-morelos-57
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2014-11-19"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -1713,7 +1713,9 @@ La Secretaría a través del Registro, implementará el sistema estatal de prior
 
 La Secretaría, a propuesta del Consejo, promoverá y coordinará, en los tres órdenes de gobierno, el otorgamiento de apoyos institucionales a los dueños o poseedores de los predios inscritos en el sistema estatal de prioridades de protección.
 
-Cuando los predios registrados para su protección, no cumplan con las normas establecidas, se perderá el derecho a los apoyos institucionales y en caso de presentarse una contingencia por incendios, el dueño o poseedor, pagará el costo del servicio institucional, en base al salario mínimo establecido en el Estado.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Cuando los predios registrados para su protección, no cumplan con las normas establecidas, se perderá el derecho a los apoyos institucionales y en caso de presentarse una contingencia por incendios, el dueño o poseedor, pagará el costo del servicio institucional, en base al valor diario de la Unidad de Medida y Actualización.
 
 El Comité para la Prevención, Control y Combate de Incendios, evaluará los predios inscritos y definirá si califican cómo beneficiarios de los apoyos institucionales para el servicio de combate de incendios forestales.
 
@@ -2175,11 +2177,17 @@ Las sanciones por las infracciones señaladas en el artículo anterior serán la
 
 I. Multa que se determinará en los casos y montos siguientes:
 
-a. Con el equivalente de 100 a 3,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, X, XI, XII, XIV, XV, XVIII y XXI;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-b. Con el equivalente de 250 a 20,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: II; III, IV, V, VI, XIII, XVII y XIX;
+a. Con el equivalente de 100 a 3,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, X, XI, XII, XIV, XV, XVIII y XXI;
 
-c. Con el equivalente de 500 a 40,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: VII; VIII; IX, XVI y XX;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+b. Con el equivalente de 250 a 20,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: II; III, IV, V, VI, XIII, XVII y XIX;
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+c. Con el equivalente de 500 a 40,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: VII; VIII; IX, XVI y XX;
 
 i. (sic) Clausura temporal o definitiva, parcial o total de los establecimientos, a las personas físicas o morales que incurran en los supuestos previstos en las fracciones III, IV, VI, X, XI, XII, XIII, XIX y XX;
 
@@ -2189,9 +2197,11 @@ iii. Además de las sanciones que se establecen en las fracciones anteriores, se
 
 Podrá imponerse una o más de las sanciones previstas en el presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 146.
 
-Para la imposición de las multas que tendrán el carácter de créditos fiscales, servirá de base el salario mínimo general diario vigente para el Estado al momento de cometerse la infracción, y se procederá en términos de lo que establece el Código Fiscal para el Estado de Morelos.
+Para la imposición de las multas que tendrán el carácter de créditos fiscales, servirá de base el valor diario de la Unidad de Medida y Actualización al momento de cometerse la infracción, y se procederá en términos de lo que establece el Código Fiscal para el Estado de Morelos.
 
 Si una vez concluido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, podrá imponerse multa por cada día que transcurra sin acatar el mandato, sin que el total de las multas exceda del máximo permitido, conforme a la fracción I de este artículo.
 
@@ -2336,3 +2346,15 @@ Remítase al Titular del Poder Ejecutivo para los efectos que señalan los artí
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Tierra y Libertad", órgano de difusión de Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y DOS POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 119, FRACCIÓN I APARTADO A, B Y C DEL ARTÍCULO 145, PÁRRAFO PRIMERO DEL ARTÍCULO 146 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MORELOS EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
