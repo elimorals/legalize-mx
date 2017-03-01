@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-administrativa-del-estado-de-morelos-112204"
 country: "mx"
 rank: "ley"
 publication_date: "2016-02-03"
-last_updated: "2016-02-03"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 3 de febrero de 2016.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
 
-ANTECEDENTES: …
+ANTECEDENTES:
+
+[…]
 
 Por lo anteriormente expuesto, esta LIII Legislatura ha tenido a bien expedir el siguiente:
 
@@ -557,7 +559,9 @@ Para hacer cumplir sus determinaciones o para imponer el orden, el Tribunal y la
 
 I.- Amonestación;
 
-II.- Multa hasta de cien días de salario mínimo vigente, que se reiterará cuantas veces sea necesario;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+II.- Multa hasta de cien veces el valor diario de la Unidad de Medida y Actualización, que se reiterará cuantas veces sea necesario;
 
 III.- Arresto hasta por treinta y seis horas;
 
@@ -743,9 +747,11 @@ Cualquier vicio o defecto en la notificación se entenderá subsanado en el mome
 
 La nulidad de la notificación sólo podrá ser invocada por la parte a quien perjudique y deberá reclamarse en el primer escrito o en la actuación subsiguiente en que intervenga.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 73.
 
-Si se declarase procedente la nulidad de la notificación, los Magistrados podrán imponer al responsable una multa de cinco a diez días de salario mínimo vigente en la entidad, atendiendo a la gravedad de la irregularidad.
+Si se declarase procedente la nulidad de la notificación, los Magistrados podrán imponer al responsable una multa de cinco a diez veces el valor diario de la Unidad de Medida y Actualización, atendiendo a la gravedad de la irregularidad.
 
 En caso de reincidencia, podrá ser suspendido de su cargo, oyéndosele previamente en defensa.
 
@@ -1401,9 +1407,11 @@ En caso de declararse procedente la acumulación se ordenará agregar el expedie
 
 Desde que se pida la acumulación hasta que ésta se resuelva, los juicios conexos continuarán con su tramitación, hasta el cierre de la instrucción. El Magistrado ante quien se plantee la acumulación deberá hacerlos del conocimiento, mediante oficio, del Magistrado que conozca del juicio conexo.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 156.
 
-De declararse improcedente la acumulación, se impondrá al solicitante una multa hasta por diez días de salario mínimo vigente en la Entidad.
+De declararse improcedente la acumulación, se impondrá al solicitante una multa hasta por diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 157.
 
@@ -1519,7 +1527,9 @@ V.- En caso que el Tribunal advierta que alguna persona modificó, alteró, dest
 
 Si el responsable es usuario del Sistema, se cancelará su Firma Electrónica, Clave y Contraseña para ingresar al Sistema y no tendrá posibilidad de volver a promover por esta vía.
 
-Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el salario mínimo general vigente al momento de cometer la infracción.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción.
 
 VI.- Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema, haciendo imposible el cumplimiento de los plazos establecidos en la ley, las partes deberán dar aviso a la Sala correspondiente en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa del Tribunal responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
 
@@ -1830,3 +1840,17 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL QUINIENTOS DOS POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 48, PÁRRAFO PRIMERO DEL ARTÍCULO 73, 156 Y ÚLTIMO PÁRRAFO DE LA FRACCIÓN V DEL ARTÍCULO 161 DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
