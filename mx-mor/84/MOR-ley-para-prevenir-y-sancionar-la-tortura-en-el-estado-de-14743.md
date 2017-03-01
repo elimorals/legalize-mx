@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-14743"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "1998-11-18"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 22 de diciembre de 1993.
 
@@ -103,9 +103,11 @@ Para los efectos de esta Ley se consideran servidores públicos a las personas r
 
 No se considerará como tortura las molestias o penalidades que sean consecuencia únicamente de sanciones legales, que sean inherentes o incidentales a éstas, o derivadas de un acto legítimo de autoridad, siempre que no incluyan la realización de los actos o la aplicación de los métodos a que se refiere este artículo.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 4°.
 
-A quien cometa el delito de tortura se aplicará prisión de tres a doce años, multa de doscientos a quinientos días de salario mínimo general vigente en el Estado, e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por dos tantos de lapso de privación de libertad impuesta.
+A quien cometa el delito de tortura se aplicará prisión de tres a doce años, multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización, e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por dos tantos de lapso de privación de libertad impuesta.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1998)</small>
 
@@ -169,11 +171,17 @@ Para fijar los montos correspondientes, el Juez tomará en cuenta la magnitud de
 
 El Estado, en su ámbito correspondiente, estará obligado solidariamente a la reparación del daño en los términos en que disponga la legislación aplicable y tendrá la obligación de repetir en contra del servidor público responsable, en un plazo no mayor de un año.
 
+> <small>[N. DE E. SE SUGIERE CONSULTAR LA CRONOLOGÍA LEGISLATIVA DEL PRESENTE ARTÍCULO]</small>
+
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1998)</small>
 
 ###### Artículo 12.
 
 El servidor público o la persona que conozca de la comisión del delito de tortura deberá hacerlo inmediatamente del conocimiento del ministerio público y en caso de no cumplir esta disposición, se le sancionara con las penas del delito de encubrimiento y, en su caso, con la suspensión del cargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2017)</small>
+
+El servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán de tres meses a tres años de prisión, y multa de quince a sesenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de lo que establezcan otras leyes.
 
 El agente del ministerio público que en ejercicio de sus funciones tenga conocimiento por sí o por denuncia, de la comisión de hechos que constituyan o presuman el delito de tortura, deberá de iniciar inmediatamente y de oficio, la averiguación previa correspondiente para determinar lo ocurrido y en su caso ejercitar la acción penal en contra de quien o quienes resulten responsables; si no lo hiciere se le impondrán las sanciones referidas en el párrafo anterior, independientemente de las sanciones que se deriven de la Ley de Responsabilidades de los Servidores Públicos.
 
@@ -224,3 +232,15 @@ P.O. 18 DE NOVIEMBRE DE 1998.
 PRIMERO.- Aprobado que sea el presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- Aprobado que sea el presente dictamen, emítase el decreto correspondiente y túrnese al Ejecutivo del Estado para los efectos conducentes.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS NOVENTA Y TRES POR EL QUE SE REFORMA EL ARTÍCULO 4 Y PÁRRAFO SEGUNDO DEL ARTÍCULO 12 DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
