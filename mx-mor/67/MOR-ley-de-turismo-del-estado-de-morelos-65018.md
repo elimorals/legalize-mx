@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2016-07-20"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -861,17 +861,23 @@ El Ejecutivo del Estado a través de la Secretaría, considerando la factibilida
 
 Es facultad de la Secretaría realizar visitas de verificación a los prestadores de servicios turísticos, a afecto de constatar el debido cumplimiento de las obligaciones a su cargo establecidas en esta Ley y su reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
+Artículo 61 bis.- Los prestadores de servicios turísticos que no se inscriban en el Registro Estatal de Turismo en los plazos señalados por esta Ley, serán sancionados con multa que podrá ir de quinientas hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
-
-###### Artículo 61 Bis.
-
-Los prestadores de servicios turísticos que no se inscriban en el Registro Estatal de Turismo en los plazos señalados por esta Ley, serán sancionados con multa que podrá ir de quinientos hasta mil quinientos días de salario mínimo vigente en el Estado de Morelos.
 
 En caso de que el prestador de servicios turísticos persista en su conducta, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Estatal de Turismo.
 
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
+
 Los prestadores de servicios turísticos que omitan información o proporcionen información inexacta a las autoridades competentes, para su inscripción al Registro Estatal de Turismo, serán requeridos para que en un término de cinco días hábiles proporcione o corrija la información solicitada en el Registro.
 
-En caso de que el prestador de servicios turísticos haga caso omiso del requerimiento, se hará acreedor a una multa que podrá ir de cien hasta quinientos días de salario mínimo vigente en el Estado de Morelos.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+En caso de que el prestador de servicios turísticos haga caso omiso del requerimiento, se hará acreedor a una multa que podrá ir de cien hasta quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
 
 Si la conducta persiste, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Estatal de Turismo.
 
@@ -1194,3 +1200,15 @@ P.O. 20 DE JULIO DE 2016.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo; para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS NOVENTA Y OCHO POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y CUARTO DEL ARTÍCULO 61 BIS DE LA LEY DE TURISMO DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
