@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-100008"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2016-07-22"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,9 @@ state: "MOR"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTIDÓS DE JULIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTIDÓS DE JULIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -1719,9 +1713,11 @@ Las tarifas y sus reglas de aplicación, serán determinadas por el Secretario, 
 
 En la publicación y exhibición permanente de la tarifa autorizada, deberá incluirse la exención del pago a los niños menores de tres años y personas con discapacidad o bien aplicarles el cincuenta por ciento de descuento del pago, así como el descuento del cincuenta por ciento del pago a personas adultas mayores que presenten su credencial del INAPAM.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 111.
 
-Para la propuesta de fijación o modificación de tarifas para el Servicio de Transporte Público, la Secretaría deberá considerar el tipo de servicio y el incremento al Salario Mínimo General vigente en la zona.
+Para la propuesta de fijación o modificación de tarifas para el Servicio de Transporte Público, la Secretaría deberá considerar el tipo de servicio y el incremento al valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 112.
 
@@ -1863,11 +1859,17 @@ I. Amonestación;
 
 II. Suspensión temporal de derechos o licencias para los conductores sin perjuicio de la sanción pecuniaria;
 
-III. Multa, de cinco a doscientos días de Salario Mínimo Vigente en la Entidad;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-IV. Multa, de doscientos a quinientos días de Salario Mínimo Vigente en la Entidad;
+III. Multa, de cinco a doscientas veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Multa, de seiscientos días de Salario Mínimo Vigente en la Entidad, y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+IV. Multa, de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+V. Multa, de seiscientas veces el valor diario de la Unidad de Medida y Actualización, y
 
 VI. Revocación de la Concesión, permiso o gafete de operador.
 
@@ -1927,11 +1929,15 @@ VIII. Por accionar dentro de los vehículos del Servicio de Transporte Público 
 
 Además de las sanciones previstas en el artículo anterior se sancionará con multa:
 
-I. De seiscientos días de Salario Mínimo Vigente en el Estado, al que preste el servicio en cualquiera de sus modalidades careciendo de concesión, permiso o con placas de identificación del Servicio de Transporte Público en vehículo distinto al autorizado. En caso de reincidencia, la multa ascenderá a mil doscientos días de Salario Mínimo Vigente en la Entidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
+I. De seiscientas veces el valor diario de la Unidad de Medida y Actualización, al que preste el servicio en cualquiera de sus modalidades careciendo de concesión, permiso o con placas de identificación del Servicio de Transporte Público en vehículo distinto al autorizado. En caso de reincidencia, la multa ascenderá a mil doscientas veces el valor diario de la Unidad de Medida y Actualización
 
 Para garantizar el pago de esta sanción, la autoridad del transporte deberá retener en garantía el vehículo en el que se cometió la infracción. Si en los treinta días siguientes no se ha pagado la infracción, se remitirá a la Secretaría de Hacienda del Estado para hacer efectivo su cobro, mediante el procedimiento administrativo de ejecución correspondiente.
 
-II. De doscientos a quinientos días de Salario Mínimo Vigente en el Estado, a quienes presten el Servicio de Transporte Público distinto al autorizado por la Secretaría, así como a los concesionarios y operadores del transporte público en su modalidad de itinerario fijo que presten el servicio fuera del itinerario. En caso de reincidencia, la multa ascenderá de seiscientos a mil días de Salario Mínimo Vigente en la Entidad.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+II. De doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización, a quienes presten el Servicio de Transporte Público distinto al autorizado por la Secretaría, así como a los concesionarios y operadores del transporte público en su modalidad de itinerario fijo que presten el servicio fuera del itinerario. En caso de reincidencia, la multa ascenderá de seiscientas a mil veces el valor diario de la Unidad de Medida y Actualización.
 
 Además de las sanciones previstas en el presente artículo se estará a lo dispuesto por el artículo 129 de este ordenamiento.
 
@@ -2128,3 +2134,15 @@ TERCERA. En un plazo no mayor a 180 días hábiles contados a partir del día si
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 QUINTA. Se autoriza al Poder Ejecutivo Estatal, a través de la (sic) Secretarías de Hacienda y de Movilidad y Transporte, para que realice las acciones necesarias para la constitución de los fideicomisos a que se refiere el presente Decreto.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y OCHO POR EL QUE SE REFORMA EL ARTÍCULO 111, FRACCIONES III, IV Y V DEL ARTÍCULO 130, FRACCIÓN I PÁRRAFO PRIMERO Y FRACCIÓN II PÁRRAFO PRIMERO DEL ARTÍCULO 135 DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
