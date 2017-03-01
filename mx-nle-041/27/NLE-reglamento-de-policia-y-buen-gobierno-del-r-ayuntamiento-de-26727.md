@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-r-ayuntamiento-de-267
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-11"
-last_updated: "2002-11-11"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL R. AYUNTAMIENTO DE PESQUERIA, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL R. AYUNTAMIENTO DE PESQUERIA, NUEVO LEON
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL R. AYUNTAMIENTO DE PESQUERÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 11 de noviembre de 2002.
 
@@ -345,9 +345,11 @@ II.- Multa; y
 
 III.- Arresto por 36-treinta y seis horas.
 
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Art. 28.
 
-Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 100-cien cuotas. Se entiende como cuota, el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda este Municipio.
+Si la sanción a aplicar fuese una multa, esta podrá ser de entre 1-una y hasta 100-cien cuotas. Se entiende como cuota, el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
 
 ###### Art. 29.
 
@@ -570,3 +572,13 @@ PRESIDENTE MUNICIPAL
 C. ALFONSO TOVAR HERNANDEZ.
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 30 DE ENERO DE 2017, SE APRUEBA LA REFORMA POR MODIFICACIÓN DE DIVERSOS REGLAMENTOS".]
+
+PRIMERO.- LA PRESENTE REFORMA, ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- LOS PROCEDIMIENTOS Y DEMÁS ACTOS JURÍDICOS QUE SE ENCUENTREN EN TRÁMITE A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, SERÁN RESUELTOS A LAS NORMAS VIGENTES AL MOMENTO DE SU INICIO.
