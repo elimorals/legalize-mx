@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transito-del-estado-de-morelos-antes-transito-y-6713"
 country: "mx"
 rank: "ley"
 publication_date: "1989-02-08"
-last_updated: "2015-12-08"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRÁNSITO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1989.
 
@@ -181,7 +181,9 @@ Las autoridades municipales en el ámbito de sus respectivas jurisdicciones, int
 
 ARTICULO 10 BIS.- A las personas que conduzcan automotores bajo el influjo de alcohol o drogas, se les sancionará de la siguiente forma:
 
-I. Con multa equivalente de ciento cincuenta a doscientos días de salario mínimo, a la persona que conduzca un vehículo automotor y se le detecte una cantidad superior de 0.25 a 0.40 miligramos de alcohol por litro de aire espirado, o bajo el influjo de drogas;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+I. Con multa equivalente de ciento cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización, a la persona que conduzca un vehículo automotor y se le detecte una cantidad superior de 0.25 a 0.40 miligramos de alcohol por litro de aire espirado, o bajo el influjo de drogas;
 
 II. Con arresto administrativo de doce a veinticuatro horas a la persona que conduzca un vehículo y se le detecte una cantidad de 0.41 a 0.65 miligramos de alcohol por litro de aire espirado. La calificación de la sanción estará sujeta a las reglas establecidas en la reglamentación correspondiente;
 
@@ -253,7 +255,7 @@ Rúbrica.
 
 P.O. 12 DE DICIEMBRE DE 2007.
 
-PRIMERO.- Se derogan los artículos 8, 9, 10, 11, 12 de la Ley de Tránsito y Transporte del Estado de Morelos, publicada en el Periódico Oficial órgano de difusión del Gobierno del Estado con fecha ocho de febrero de mil novecientos ochenta y nueve, así como las demás disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley, quedando vigentes los artículos 1, 2, 3, 4, 5, 6, 7, 13, relativos únicamente a la materia de tránsito . De igual forma se cambia la denominación de la Ley de Tránsito y Transporte del Estado de Morelos, para quedar como Ley de Tránsito del Estado de Morelos.
+PRIMERO.- Se derogan los artículos 8, 9, 10, 11, 12 de la Ley de Tránsito y Transporte del Estado de Morelos, publicada en el Periódico Oficial órgano de difusión del Gobierno del Estado con fecha ocho de febrero de mil novecientos ochenta y nueve, así como las demás disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley, quedando vigentes los artículos 1, 2, 3, 4, 5, 6, 7, 13, relativos únicamente a la materia de tránsito. De igual forma se cambia la denominación de la Ley de Tránsito y Transporte del Estado de Morelos, para quedar como Ley de Tránsito del Estado de Morelos.
 
 SEGUNDO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad órgano de difusión del Gobierno del Estado de Morelos.
 
@@ -292,3 +294,15 @@ SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 CUARTA. Dentro de un plazo no mayor a 180 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, se deberán realizar, en su caso, las adecuaciones al Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y al Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos en Materia de Ordenamiento Territorial; así como expedir el Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos en materia de Ecozonas.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL QUINIENTOS UNO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTICULO 10 BIS DE LA LEY DE TRÁNSITO DEL ESTADO DE MORELOS EN MATERIA DE DESINDEXACIÓN DEL SALARIO MINIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
