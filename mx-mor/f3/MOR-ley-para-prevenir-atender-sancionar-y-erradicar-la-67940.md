@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-atender-sancionar-y-erradicar-la-67940"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2016-06-15"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -59,7 +59,7 @@ Para los efectos de esta ley, se entiende por:
 
 I.- Violencia Familiar, al acto de poder u omisión, intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica y emocional, sexual, patrimonial o económica a cualquier miembro de la familia, dentro o fuera del domicilio familiar, con quien tenga parentesco consanguíneo, por afinidad o civil, por vínculo de matrimonio, concubinato y que tiene por efecto causar daño o sufrimiento a la víctima y que puede manifestarse en las siguientes formas:
 
-a) Violencia psicológica y emocional.- Cualquier acción de negligencia, abandono, intimidación, coacción, devaluación, marginación, anulación, conducta celotipica, prohibiciones, coacciones, condicionamientos, restricción a la autodeterminación y amenazas, que provocan en quien la recibe deterioro, disminución o afectación en las diferentes áreas de la personalidad;
+a) Violencia psicológica y emocional.- Cualquier acción de negligencia, abandono, intimidación, coacción, devaluación, marginación, anulación, conducta celotípica, prohibiciones, coacciones, condicionamientos, restricción a la autodeterminación y amenazas, que provocan en quien la recibe deterioro, disminución o afectación en las diferentes áreas de la personalidad;
 
 b) Violencia física.- Cualquier acto intencional en el que se utiliza parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física, independientemente de que se produzcan o no, lesiones internas o externas o ambas y que va encaminado a obtener el sometimiento y control;
 
@@ -331,7 +331,7 @@ La Comisión Estatal de Seguridad Pública deberá:
 
 I.- Incluir en los cursos de formación y capacitación policial temas sobre prevención de violencia familiar y atención al receptor de violencia familiar respetando su dignidad, intimidad y privacidad;
 
-II.- Promover con personal capacitado programas participativos y de seguimiento en comunidades, colonias y barrios, identificados con (sic) de alto índice de violencia familiar;
+II.- Promover con personal capacitado programas participativos y de seguimiento en comunidades, colonias y barrios, identificados con de (sic) alto índice de violencia familiar;
 
 III.- Auxiliar en la ejecución de las órdenes de protección urgentes y temporales que sean procedentes conforme a las disposiciones legales aplicables en la materia;
 
@@ -561,9 +561,11 @@ La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, de
 
 ### CAPÍTULO II. INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 37.
 
-El incumplimiento a los convenios celebrados en el procedimiento de mediación, como medio alternativo en la resolución de violencia familiar, será considerado como infracción a la presente ley, cuya sanción administrativa aplicable será multa de 100 a 160 días de salario mínimo vigente en el Estado o arresto de hasta 36 horas.
+El incumplimiento a los convenios celebrados en el procedimiento de mediación, como medio alternativo en la resolución de violencia familiar, será considerado como infracción a la presente ley, cuya sanción administrativa aplicable será multa de 100 a 160 veces el valor diario de la Unidad de Medida y Actualización o arresto de hasta 36 horas.
 
 ###### ARTÍCULO 38.
 
@@ -654,3 +656,15 @@ SEGUNDA.- El presente Decreto, iniciara su vigencia al día siguiente de su publ
 TERCERA.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 CUARTA.- En un plazo no mayor a 120 días hábiles contados a partir del día siguiente al de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones necesarias a las disposiciones jurídicas reglamentarias aplicables.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y SIETE POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
