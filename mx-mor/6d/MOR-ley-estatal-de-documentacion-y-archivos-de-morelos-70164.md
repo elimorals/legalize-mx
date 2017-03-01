@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-documentacion-y-archivos-de-morelos-70164"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-16"
-last_updated: "2014-04-09"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE DOCUMENTACIÓN Y ARCHIVOS DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de septiembre de 2009.
 
@@ -709,7 +709,9 @@ Los sujetos obligados por esta Ley serán sancionados cuando incurran en cualqui
 
 9. El servidor público que no cumpla de manera expedita las resoluciones o medidas de apremio que el IMIPE o del (sic) Instituto de Documentación dispongan, según sea el caso, para la adecuada conservación, administración, resguardo y sistematización de archivos públicos, en los términos y condiciones que establece esta ley, será sancionado con:
 
-I.- Suspensión del cargo sin goce de sueldo hasta con 30 días naturales y multa de 10 a 500 salarios mínimos, y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+I.- Suspensión del cargo sin goce de sueldo hasta con 30 días naturales y multa de 10 a 500 veces el valor diario de la Unidad de Medida y Actualización, y
 
 II.- en caso de reiterarse la falta podrá ser inhabilitado para ocupar cargos públicos por un periodo de uno a cinco años.
 
@@ -772,3 +774,15 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 ###### ARTÍCULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de (sic) del Gobierno del Estado.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS NOVENTA Y SIETE POR EL QUE SE REFORMA EL APARTADO 9 FRACCIÓN I DEL ARTÍCULO 81 DE LA LEY ESTATAL DE DOCUMENTACIÓN Y ARCHIVOS DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
