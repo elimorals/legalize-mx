@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-catastro-municipal-para-el-estado-de-morelos-33097"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2016-10-19"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE CATASTRO MUNICIPAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 30 de julio de 2003.
 
@@ -1265,27 +1265,49 @@ II.- La omisión haya sido corregida por el contribuyente, después que las auto
 
 Son infracciones y sanciones aplicables a los contribuyentes:
 
-I.- Las personas que en cualquier forma entorpezcan o se resistan a la ejecución de las operaciones catastrales; sancionándose con una multa de cinco hasta veinte días de salario mínimo general vigente en el Estado de Morelos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-II.- Las que rehusen exhibir títulos, planos, contratos, recibos o cualesquiera otros documentos, cuando para ello sean requeridos por el personal del Catastro debidamente autorizado; sancionándose con una multa de cinco hasta veinte días salario mínimo general vigente en el Estado de Morelos;
+I.- Las personas que en cualquier forma entorpezcan o se resistan a la ejecución de las operaciones catastrales; sancionándose con una multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización;
 
-III.- Las que omitan la inscripción de un inmueble en el padrón catastral; sancionándose con una multa de cinco hasta veinte días de salario mínimo general vigente en el Estado de Morelos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-IV.- Las que omitan la manifestación de las nuevas construcciones o de la (sic) modificaciones a las ya existentes; multa de cinco hasta veinte días de salario mínimo general del área geográfica que corresponda;
+II.- Las que rehúsen exhibir títulos, planos, contratos, recibos o cualesquiera otros documentos, cuando para ello sean requeridos por el personal del Catastro debidamente autorizado; sancionándose con una multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización;
 
-V.- No cumplir con las obligaciones que señala este ordenamiento de inscribirse, registrarse o hacerlo fuera de los plazos señalados, sancionándose con una multa de cinco hasta veinte días de salario mínimo general vigente en el Estado de Morelos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-VI.- Obtener o usar más de un número del registro para el cumplimiento de sus obligaciones. Multa de diez hasta cincuenta días de salario mínimo general vigente en el Estado de Morelos;
+III.- Las que omitan la inscripción de un inmueble en el padrón catastral; sancionándose con una multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización;
 
-VII.- Utilizar interpósita persona para manifestar negociaciones propias. Multa de diez hasta cincuenta días de salario mínimo general vigente en el Estado de Morelos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-VIII.- No presentar o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exija este ordenamiento; no comprobarlos, o no aclararlos, cuando las autoridades fiscales lo soliciten. Multa de uno a diez días de salario mínimo general vigente en el Estado de Morelos;
+IV.- Las que omitan la manifestación de las nuevas construcciones o de la (sic) modificaciones a las ya existentes; multa de cinco hasta veinte días (sic) veces el valor diario de la Unidad de Medida y Actualización;
 
-IX.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refieren las dos fracciones anteriores, alteradas o falsificadas; Multa de diez hasta cincuenta días de salario mínimo general vigente en el Estado de Morelos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-X.- Traficar con los documentos oficiales emitidos por las autoridades catastrales, o hacer uso ilegal de ellos. Multa de veinte hasta cien días de salario mínimo general vigente en el Estado de Morelos;
+V.- No cumplir con las obligaciones que señala este ordenamiento de inscribirse, registrarse o hacerlo fuera de los plazos señalados; sancionándose con una multa de cinco hasta veinte días (sic) veces el valor diario de la Unidad de Medida y Actualización;
 
-XI.- Resistirse por cualquier medio a las visitas de verificación; no proporcionar los datos, informes, libros, documentos, registros y en general los elementos necesarios para la práctica de la visita. Multa de veinte hasta cien días de salario mínimo general vigente en el Estado de Morelos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+VI.- Obtener o usar más de un número del registro para el cumplimiento de sus obligaciones. Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+VII.- Utilizar interpósita persona para manifestar negociaciones propias. Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+VIII.- No presentar o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exija este ordenamiento; no comprobarlos, o no aclararlos, cuando las autoridades fiscales lo soliciten. Multa de una a diez veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+IX.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refieren las dos fracciones anteriores, alteradas o falsificadas; Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+X.- Traficar con los documentos oficiales emitidos por las autoridades catastrales, o hacer uso ilegal de ellos. Multa de veinte hasta cien veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+XI.- Resistirse por cualquier medio a las visitas de verificación; no proporcionar los datos, informes, libros, documentos, registros y en general los elementos necesarios para la práctica de la visita. Multa de veinte hasta cien veces el valor diario de la Unidad de Medida y Actualización;
 
 XII.- No conservar los registros y documentos que le sean dejados en calidad de depositario, por los visitadores al estarse practicando visitas de verificación; y se aplicará la sanción prevista en la fracción anterior.
 
@@ -1293,17 +1315,27 @@ XII.- No conservar los registros y documentos que le sean dejados en calidad de 
 
 Son infracciones y sanciones aplicables a los notarios y corredores públicos:
 
-I.- Dejar de asentar los valores emitidos por autoridad catastral municipal respecto de las escrituras o cualquier contrato que se otorgue ante su fe, o efectuarla sin sujetarse a lo previsto por las disposiciones de este ordenamiento. Multa de cincuenta hasta cien días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-II.- Autorizar actos o escrituras en donde no se haya cumplido con las disposiciones de este ordenamiento. Multa de cincuenta hasta cien días de salario mínimo general del área geográfica que corresponda;
+I.- Dejar de asentar los valores emitidos por autoridad catastral municipal respecto de las escrituras o cualquier contrato que se otorgue ante su fe, o efectuarla sin sujetarse a lo previsto por las disposiciones de este ordenamiento. Multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización;
 
-III.- Solicitar la inscripción o registro de documento o instrumentos que carezcan de las constancias o documentos que previamente debe obtenerse en los términos de este ordenamiento. Multa de cincuenta hasta cien días de salario mínimo general vigente en el Estado de Morelos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+II.- Autorizar actos o escrituras en donde no se haya cumplido con las disposiciones de este ordenamiento. Multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+III.- Solicitar la inscripción o registro de documento o instrumentos que carezcan de las constancias o documentos que previamente debe obtenerse en los términos de este ordenamiento. Multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización;
 
 IV.- No proporcionar informes, documentos o datos en los plazos que fije esta Ley, o cuando lo exijan las autoridades competentes, o presentarlos incompletos o inexactos; y se aplicará la sanción prevista en la fracción anterior.
 
-Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados. Multa de ciento cincuenta hasta doscientos días de salario mínimo general vigente en el Estado de Morelos;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-V.- Resistirse por cualquier medio a las visitas de verificación; no proporcionar los datos, informes, documentos, registro y en general los elementos necesarios para la práctica de la visita. Multa de setenta y cinco hasta ciento cincuenta días de salario mínimo general vigente en el Estado de Morelos.
+Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados. Multa de ciento cincuenta hasta doscientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
+V.- Resistirse por cualquier medio a las visitas de verificación; no proporcionar los datos, informes, documentos, registro y en general los elementos necesarios para la práctica de la visita. Multa de setenta y cinco hasta ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 Cuando en el ejercicio de sus facultades las autoridades catastrales municipales impongan sanciones a los notarios públicos, deberán informarlo a la Secretaría de Gobierno.
 
@@ -1311,15 +1343,23 @@ Cuando en el ejercicio de sus facultades las autoridades catastrales municipales
 
 Son infracciones y sanciones aplicables a terceros:
 
-I.- No proporcionar avisos, informes, datos o documentos, o no exhibirlos en el plazo fijado por este ordenamiento, o cuando las autoridades los exijan con apoyo en sus facultades; no aclararlos cuando las mismas autoridades lo soliciten. Multa de cinco hasta cincuenta días de salario mínimo general vigente en el Estado de Morelos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-II.- Presentar los avisos, informes, datos o documentos de que se habla en la fracción anterior incompletos o inexactos, alterados o falsificados. Multa de cincuenta hasta cien días de salario mínimo general vigente en el Estado de Morelos;
+I.- No proporcionar avisos, informes, datos o documentos, o no exhibirlos en el plazo fijado por este ordenamiento, o cuando las autoridades los exijan con apoyo en sus facultades; no aclararlos cuando las mismas autoridades lo soliciten. Multa de cinco hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
-III.- Autorizar o hacer constar documentos, asientos o datos falsos, cuando actúen como contadores o peritos. Multa de ciento cincuenta hasta doscientos días de salario mínimo general vigente en el Estado de Morelos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+II.- Presentar los avisos, informes, datos o documentos de que se habla en la fracción anterior incompletos o inexactos, alterados o falsificados. Multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+III.- Autorizar o hacer constar documentos, asientos o datos falsos, cuando actúen como contadores o peritos. Multa de ciento cincuenta hasta doscientas veces el valor diario de la Unidad de Medida y Actualización;
 
 IV.- Hacer uso ilegal de documentos, planos o constancia emitidos por autoridades catastrales municipales. Se aplicará la sanción prevista en la fracción anterior;
 
-V.- Los funcionarios, los jefes o empleados de las oficinas públicas estatales, y los funcionarios o empleados de empresas o privadas a quienes esta Ley impone la obligación de auxiliar a las oficinas catastrales municipales, que no presten el auxilio a que están obligados cuando se los pida o que rindan informes falsos. Multa de cincuenta hasta cien días de salario mínimo general vigente en el Estado de Morelos.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+V.- Los funcionarios, los jefes o empleados de las oficinas públicas estatales, y los funcionarios o empleados de empresas o (sic) privadas a quienes esta Ley impone la obligación de auxiliar a las oficinas catastrales municipales, que no presten el auxilio a que están obligados cuando se los pida o que rindan informes falsos. Multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 131.
 
@@ -1454,3 +1494,15 @@ P.O. 19 DE OCTUBRE DE 2016.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el artículo 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS SESENTA Y NUEVE POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X, XI DEL ARTÍCULO 128, FRACCIONES I, II, III, IV PÁRRAFO SEGUNDO, V PRIMER PÁRRAFO DEL ARTÍCULO 129, FRACCIONES I, II, III Y V DEL ARTÍCULO 130 DE LA LEY DE CATASTRO MUNICIPAL PARA EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
