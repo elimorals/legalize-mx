@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-la-juventud-para-el-estado-de-83046"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-28"
-last_updated: "2011-09-28"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL REGLAMENTO DE LA LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 1 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 28 de septiembre de 2011.
 
@@ -208,3 +210,17 @@ EL SECRETARIO DE DESARROLLO HUMANO Y SOCIAL
 LIC. RICARDO EMILIO ESPONDA GAXIOLA.
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga (sic) Reglamento de la Ley de la Juventud para el Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad”, número 4922, de fecha 28 de septiembre de 2011.
+
+Así mismo, se derogan todas las disposiciones jurídicas de igual y menor rango jerárquico normativo que se opongan a lo previsto en el presente Reglamento.
+
+TERCERA. Dentro del plazo de 120 días hábiles, contados a partir del día siguiente a la entrada en vigor del presente Reglamento, deberán celebrar su sesión de instalación la Conferencia Municipal de Adolescencia y Juventud, el Concejo de las Juventudes del Estado de Morelos, y el Sistema Estatal de Políticas con las Juventudes y desde las Juventudes; e iniciar su funcionamiento la Oficina de Evaluación de Políticas con las Juventudes y desde las Juventudes.
