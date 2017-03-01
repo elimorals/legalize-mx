@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-procedimiento-administrativo-para-el-estado-de-17530"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2014-10-08"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en la Sección Segunda al Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -403,9 +403,11 @@ IV.- Haber sido contrario o haber representado a alguna de las partes en cualqui
 
 V.- Si se encuentra en cualquiera otra hipótesis grave o incompatible con su deber de imparcialidad.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 44.
 
-La excusa deberá ser planteada por el servidor público dentro del plazo a que se refiere el artículo 42 de esta Ley, ante su superior jerárquico, quien deberá resolver de plano y sin mayores trámites lo que conforme a derecho proceda, dentro de las cuarenta y ocho horas siguientes a que éste la reciba. Si la autoridad que deba resolver la excusa considera que ha sido planteada de manera injustificada, impondrá al servidor público una sanción de hasta cien veces el salario mínimo general diario vigente en la entidad.
+La excusa deberá ser planteada por el servidor público dentro del plazo a que se refiere el artículo 42 de esta Ley, ante su superior jerárquico, quien deberá resolver de plano y sin mayores trámites lo que conforme a derecho proceda, dentro de las cuarenta y ocho horas siguientes a que éste la reciba. Si la autoridad que deba resolver la excusa considera que ha sido planteada de manera injustificada, impondrá al servidor público una sanción de hasta cienveces (sic) el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 45.
 
@@ -980,3 +982,15 @@ P.O. 8 DE OCTUBRE DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y DOS POR EL QUE SE REFORMA EL ARTÍCULO 44 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
