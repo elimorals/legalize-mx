@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-contra-la-delincuencia-organizada-45664"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-20"
-last_updated: "2014-11-12"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 20 de julio de 2005.
 
@@ -139,9 +139,13 @@ XVIII. Evasión de presos, previsto en los artículos 304, 305 y 306;
 
 Sin perjuicio de las sanciones que correspondan por el delito o los delitos a que se refiere el artículo anterior, al miembro de la delincuencia organizada se le aplicarán las siguientes sanciones:
 
-I. A quien tenga funciones de administración, dirección o supervisión de la célula delictiva, de ocho a diez años de prisión y multa de mil a veinticinco mil días de salario mínimo vigente en el Estado de Morelos; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-II. A quien no tenga las funciones anteriores, de seis a ocho años de prisión y multa de mil a doce mil días de salario mínimo vigente en el Estado de Morelos.
+I.- A quien tenga funciones de administración, dirección o supervisión de la célula delictiva, de ocho a diez años de prisión y multa de mil a veinticinco mil veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+II.- A quien no tenga las funciones anteriores, de seis a ocho años de prisión y multa de mil a doce mil veces el valor diario de la Unidad de Medida y Actualización.
 
 Las sanciones a que se refiere este artículo se aumentarán hasta en una mitad, cuando:
 
@@ -233,7 +237,9 @@ Los requerimientos del Ministerio Público o de la Autoridad Judicial que se tra
 
 Los requerimientos deberán realizarse con las formalidades establecidas en el Título Segundo, Capítulo V del Código de Procedimientos Penales para el Estado de Morelos.
 
-La información que se obtenga en los términos de este artículo, es de uso exclusivo del Ministerio Público para la investigación y del Juez en el proceso penal correspondiente, debiéndose guardar estricta reserva al respecto. El servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o los documentos a personas ajenas a la indagatoria o proceso, se le impondrán de uno a cinco años de prisión y de cien a trescientos días de salario mínimo vigente en el Estado.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+La información que se obtenga en los términos de este artículo, es de uso exclusivo del Ministerio Público para la investigación y del Juez en el proceso penal correspondiente, debiéndose guardar estricta reserva al respecto. El servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o los documentos a personas ajenas a la indagatoria o proceso, se le impondrán de uno a cinco años de prisión y de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 14.
 
@@ -253,7 +259,9 @@ Para el caso de testigos, éstos podrán ser arraigados en términos de lo que e
 
 Si el Juez niega el arraigo, el Ministerio Público podrá apelar la determinación, dentro de las veinticuatro horas siguientes a que haya sido notificado de la misma. El escrito de apelación deberá contener la expresión de agravios.
 
-Recibido el recurso, el juez enviará al superior el recurso y las actuaciones o constancias de éstas, remitiendo los documentos e informes que obren en autos. El envío deberá hacerse a más tardar dentro de las veinticuatro horas siguientes a la admisión, so pena de multa por hasta treinta veces el salario mínimo vigente en el Estado.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Recibido el recurso, el juez enviará al superior el recurso y las actuaciones o constancias de éstas, remitiendo los documentos e informes que obren en autos. El envío deberá hacerse a más tardar dentro de las veinticuatro horas siguientes a la admisión, so pena de multa por hasta treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 El superior una vez recibido el recurso, deberá resolverlo dentro del término de treinta y seis horas.
 
@@ -422,3 +430,15 @@ P.O. 12 DE NOVIEMBRE DE 2014.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y NUEVE POR EL QUE SE REFORMAN LAS FRACCIONES I Y II PÁRRAFO PRIMERO DEL ARTÍCULO 3, PÁRRAFO SEXTO DEL ARTÍCULO 13, PÁRRAFO SEXTO DEL ARTÍCULO 15 DE LA LEY ESTATAL CONTRA LA DELINCUENCIA ORGANIZADA PARA EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
