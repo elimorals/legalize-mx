@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1142
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2016-05-25"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE MAYO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de abril de 2016.
 
@@ -1945,7 +1943,9 @@ I. Amonestación;
 
 II. Amonestación pública, o
 
-III. Multa, de ciento cincuenta hasta mil quinientas veces el salario mínimo general vigente.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+III. Multa, de ciento cincuenta hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 El incumplimiento de los Sujetos Obligados será difundido en caso de amonestación pública en el portal de transparencia del Instituto.
 
@@ -2009,9 +2009,11 @@ XIX. Comercializar con datos personales contenidos en sus archivos.
 
 Si la conducta prevista en el artículo anterior se repite en más de dos ocasiones de manera consecutiva, tratándose de Servidores Públicos, el infractor será suspendido por un periodo de hasta seis meses.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 145.
 
-Tratándose de lo previsto en las fracciones I, IV, VII, X, XI, XII y XIII, XIX del artículo 143 se aplicarán como sanción multa de cien a mil quinientos días de salario mínimo vigente. En caso de reincidencia tratándose de entidades públicas podrá ser suspendido del cargo sin goce de sueldo hasta por treinta días naturales y de reiterarse el incumplimiento será sancionado con la destitución del cargo.
+Tratándose de lo previsto en las fracciones I, IV, VII, X, XI, XII y XIII, XIX del artículo 143 se aplicarán como sanción multa de cien a mil quinientos (sic) veces el valor diario de la Unidad de Medida y Actualización. En caso de reincidencia tratándose de entidades públicas podrá ser suspendido del cargo sin goce de sueldo hasta por treinta días naturales y de reiterarse el incumplimiento será sancionado con la destitución del cargo.
 
 ###### Artículo 146.
 
@@ -2019,19 +2021,25 @@ El servidor público que no cumpla de manera expedita las resoluciones del Insti
 
 En caso de reiterarse el incumplimiento podrá ser inhabilitado para ocupar cargos públicos por un periodo de uno a diez años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 147.
 
-Al que recabe datos personales que no resulten indispensables para el cumplimiento de sus funciones, será sancionado con multa de mil a mil quinientos días de salario mínimo vigente.
+Al que recabe datos personales que no resulten indispensables para el cumplimiento de sus funciones, será sancionado con multa de mil a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 En caso de reincidencia podrá ser suspendido hasta por sesenta días y en caso de reiterar el incumplimiento podrá ser destituido del cargo.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 148.
 
-Al Sujeto Obligado que comercialice con datos personales que obren en los archivos a su alcance, será sancionado con multa de mil quinientos a dos mil días de salario mínimo vigente; e inhabilitado para ocupar cargos públicos en cualquiera de los Poderes del Estado y cualquiera de sus Municipios o sus entidades descentralizadas por un período de uno a diez años.
+Al Sujeto Obligado que comercialice con datos personales que obren en los archivos a su alcance, será sancionado con multa de mil quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización; e inhabilitado para ocupar cargos públicos en cualquiera de los Poderes del Estado y cualquiera de sus Municipios o sus entidades descentralizadas por un período de uno a diez años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 149.
 
-Tratándose de entidades públicas, el Sujeto Obligado que reiteradamente incurra en cualquiera de las conductas previstas en el artículo 143 de esta Ley y que no tenga establecida sanción, se aplicará multa de doscientos a quinientos salarios mínimos vigentes. En caso de reincidencia podrá ser suspendido del cargo hasta por sesenta días.
+Tratándose de entidades públicas, el Sujeto Obligado que reiteradamente incurra en cualquiera de las conductas previstas en el artículo 143 de esta Ley y que no tenga establecida sanción, se aplicará multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización. En caso de reincidencia podrá ser suspendido del cargo hasta por sesenta días.
 
 En lo conducente la responsabilidad a que se refiere este artículo será sancionada en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
@@ -2089,13 +2097,21 @@ Las infracciones a lo previsto en la presente Ley por parte de Sujetos Obligados
 
 I. El apercibimiento, por única ocasión, para que el Sujeto Obligado cumpla su obligación de manera inmediata, en los términos previstos en esta Ley, tratándose de los supuestos previstos en las fracciones I, III, V, VI y X del artículo 143 de esta Ley.
 
-Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de ciento cincuenta a doscientos cincuenta días de salario mínimo general vigente;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-II. Multa de doscientos cincuenta a ochocientos días de salario mínimo general vigente, en los casos previstos en las fracciones II y IV del artículo 143 de esta Ley, y
+Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de ciento cincuenta a doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Multa de ochocientos a mil quinientos días de salario mínimo general vigente en el estado de Morelos, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV, XV, XVI, XVII y XVIII del artículo 143 de esta Ley.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-Se aplicará multa adicional de hasta cincuenta días de salario mínimo general vigente, por día, a quien persista en las infracciones citadas en las fracciones anteriores.
+II. Multa de doscientas cincuenta a ochocientas veces el valor diario de la Unidad de Medida y Actualización, en los casos previstos en las fracciones II y IV del artículo 143 de esta Ley, y
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+III. Multa de ochocientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV, XV, XVI, XVII y XVIII del artículo 143 de esta Ley.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Se aplicará multa adicional de hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización, por día, a quien persista en las infracciones citadas en las fracciones anteriores.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LA PROTECCIÓN DE DATOS PERSONALES Y DE LA ACCIÓN DE HABEAS DATA
 
@@ -2230,3 +2246,17 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL QUINIENTOS POR EL QUE SE REFORMA LA FRACCIÓN III PRIMER PÁRRAFO DEL ARTÍCULO 141, 145, PÁRRAFO PRIMERO 147, 148, PÁRRAFO PRIMERO DEL ARTÍCULO 149, FRACCIONES I SEGUNDO PÁRRAFO, II Y III DEL ARTÍCULO 158 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
