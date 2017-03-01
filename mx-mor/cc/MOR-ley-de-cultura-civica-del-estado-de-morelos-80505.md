@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-cultura-civica-del-estado-de-morelos-80505"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-30"
-last_updated: "2016-04-06"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE ABRIL DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Reglamento publicado en la segunda sección del Periódico Oficial del estado de Morelos, el miércoles 30 de marzo de 2011.
 
@@ -367,9 +365,11 @@ IV. Lesionar a una persona siempre y cuando las lesiones que se causen de acuerd
 
 En caso de que las lesiones tarden en sanar más de quince días, el juez dejará a salvo los derechos del afectado para que éste los ejercite por la vía que estime procedente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 17.
 
-Las infracciones contra la dignidad de la persona establecidas en el artículo anterior se sancionarán de la siguiente manera: fracción I, multa por el equivalente de 1 a 10 días de salario mínimo o con arresto de 6 a 12 horas; fracciones II y III, multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas.
+Las infracciones contra la dignidad de la persona establecidas en el artículo anterior se sancionarán de la siguiente manera: fracción I, multa por el equivalente de 1 a 10 veces el valor diario de la Unidad de Medida y Actualización o con arresto de 6 a 12 horas; fracciones II y III, multa por el equivalente de 11 a 20veces (sic) el valor diario de la Unidad de Medida y Actualización o con arresto de 13 a 24 horas.
 
 La infracción establecida en la fracción IV, se sancionará con arresto de 25 a 36 horas. Sólo procederá la conciliación cuando el probable infractor repare el daño. Las partes de común acuerdo con la intervención del juez en su carácter de conciliador, fijarán el monto del daño.
 
@@ -399,11 +399,11 @@ VIII. Ocupar los accesos de oficinas públicas o sus inmediaciones ofreciendo la
 
 No procederá la infracción a que se refiere la fracción II, en caso de que se trate de espectáculos donde se empleen animales domésticos y que la autoridad correspondiente haya otorgado permiso de acuerdo con lo dispuesto por la Ley Estatal de Fauna.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-###### Artículo 19.
+###### Articulo 19.
 
-Las infracciones contra la tranquilidad de las personas establecidas en el artículo anterior se sancionarán: fracción I: multa por el equivalente de 1 a 10 días de Salario Mínimo o con arresto de 6 a 12 horas; fracción II: multa por el equivalente de 21 a 30 días de Salario Mínimo o con arresto de 25 a 36 horas; fracciones III a VII, multa por el equivalente de 11 a 20 días de Salario Mínimo o con arresto de 13 a 24 horas; y la fracción VIII con arresto de 20 a 36 horas.
+Las infracciones contra la tranquilidad de las personas establecidas en el artículo anterior se sancionarán: fracción I: multa por el equivalente de 1 a 10 veces el valor diario de la Unidad de Medida y Actualización o con arresto de 6 a 12 horas; fracción II: multa por el equivalente de 21 a 30 veces el valor diario de la Unidad de Medida y Actualización o con arresto de 25 a 36 horas; fracciones III a VII, multa por el equivalente de 11 a 20 veces el valor diario de la Unidad de Medida y Actualización o con arresto de 13 a 24 horas; y la fracción VIII con arresto de 20 a 36 horas.
 
 ###### Artículo 20.
 
@@ -445,13 +445,13 @@ XV. Organizar o participar en peleas de animales, de cualquier forma.
 
 Cuando se cause daño a un bien mueble o inmueble ajeno, en forma culposa y con motivo del tránsito de vehículos, se procederá conforme a lo establecido en el Capitulo XXII de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 21.
 
-Las infracciones contra la seguridad ciudadana, previstas en el artículo anterior se sancionarán: fracciones I, y III, multa por el equivalente de 11 a 20 días de salario mínimo o con arresto de 13 a 24 horas.
+Las infracciones contra la seguridad ciudadana, previstas en el artículo anterior se sancionarán: fracciones I, II y III, multa por el equivalente de 11 a 20 veces el valor diario de la Unidad de Medida y Actualización o con arresto de 13 a 24 horas.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
-
-Las infracciones establecidas en las fracciones IV a XIII se sancionarán con multa por el equivalente de 21 a 30 días de Salario Mínimo o con arresto de 25 a 36 horas; las establecidas en las fracciones XIV y XV se sancionarán con arresto de 20 a 36 horas.
+Las infracciones establecidas en las fracciones IV a XIII se sancionarán con multa por el equivalente de 21 a 30 veces el valor diario de la Unidad de Medida y Actualización o con arresto de 25 a 36 horas; las establecidas en las fracciones XIV y XV se sancionarán con arresto de 20 a 36 horas.
 
 ###### Artículo 22.
 
@@ -493,11 +493,11 @@ XIV. Colocar transitoriamente o fijar, sin autorización para ello, elementos de
 
 XV. Obstruir o permitir la obstrucción de la vía pública, con motivo de la instalación, modificación, cambio, o mantenimiento de los elementos constitutivos de un anuncio y no exhibir la documentación correspondiente que autorice a realizar dichos trabajos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 23.
 
-Las infracciones contra el entorno urbano a que se refiere el artículo anterior se sancionará de la siguiente manera: fracciones I, II, III, V, VI y VII: multa por el equivalente de 11 a 20 días de Salario Mínimo o con arresto de 13 a 24 horas; fracciones VIII a la XV: multa por el equivalente de 21 a 30 días de Salario Mínimo o con arresto de 25 a 36 horas. Lo referente a la fracción IV, se sancionará con multa de 5 a 99 días de Salario Mínimo.
+Las infracciones contra el entorno urbano a que se refiere el artículo anterior se sancionará de la siguiente manera: fracciones I, II, III, V, VI y VII: multa por el equivalente de 11 a 20 veces el valor diario de la Unidad de Medida y Actualización o con arresto de 13 a 24 horas; fracciones VIII a la XV: multa por el equivalente de 21 a 30 veces el valor diario de la Unidad de Medida y Actualización o con arresto de 25 a 36 horas. Lo referente a la fracción IV, se sancionará con multa de 5 a 99 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE MARZO DE 2016)</small>
 
@@ -691,7 +691,9 @@ El Juez determinará la sanción aplicable en cada caso concreto, tomando en cue
 
 Si el infractor fuese jornalero, obrero, o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
-Tratándose de personas desempleadas o sin ingresos, la multa máxima será el equivalente a un día de salario mínimo, el cuál podrá cumplir con trabajo comunitario o arresto que resuelva el juez. Los medios para la acreditación de estas condiciones deberán ser indudables.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Tratándose de personas desempleadas o sin ingresos, la multa máxima será el equivalente a una vez el valor diario de la Unidad de Medida y Actualización, el cuál podrá cumplir con trabajo comunitario o arresto que resuelva el juez. Los medios para la acreditación de estas condiciones deberán ser indudables.
 
 ###### Artículo 58.
 
@@ -713,15 +715,19 @@ En los casos en que el infractor opte por cumplir el arresto correspondiente, te
 
 Durante el tiempo de cumplimiento del arresto, el infractor podrá ser visitado por sus familiares o por persona de su confianza; así como de representantes de asociaciones u organismos públicos o privados, cuyos objetivos sean de trabajo social y cívico.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 62.
 
-Para conservar el orden en el Juzgado, el Juez podrá imponer como medida disciplinaria, la amonestación, multa de uno a diez salarios mínimos y arresto hasta por doce horas.
+Para conservar el orden en el Juzgado, el Juez podrá imponer como medida disciplinaria, la amonestación, multa de una a diez veces el valor diario de la Unidad de Medida y Actualización y arresto hasta por doce horas.
 
 ###### Artículo 63.
 
 Los Jueces a fin de hacer cumplir sus órdenes y resoluciones, podrán hacer uso de los siguientes medios de apremio:
 
-I. Multa por el equivalente de 1 a 10 días de salarlo mínimo; tratándose de jornaleros, obreros, trabajadores no asalariados, personas desempleadas o sin ingresos, se estará a lo dispuesto por el artículo 57 de esta Ley;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+I. Multa por el equivalente de 1 a 10 veces el valor diario de la Unidad de Medida y Actualización; tratándose de jornaleros, obreros, trabajadores no asalariados, personas desempleadas o sin ingresos, se estará a lo dispuesto por el artículo 57 de esta Ley;
 
 II. Arresto hasta por 12 horas, y
 
@@ -869,9 +875,11 @@ II. La no reincidencia en conductas que den motivo a un nuevo procedimiento.
 
 En el convenio se establecerá el término para el cumplimiento de lo señalado en la fracción I, así como para los demás acuerdos que asuman las partes.
 
-###### Artículo 82.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
 
-A quien incumpla el convenio de conciliación, se le impondrá un arresto de seis a veinticuatro horas o una multa de uno a treinta días de salario mínimo.
+###### Articulo 82.
+
+A quien incumpla el convenio de conciliación, se le impondrá un arresto de seis a veinticuatro horas o una multa de una a treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 A partir del incumplimiento del convenio, el afectado tendrá 15 días para solicitar que se haga efectivo el apercibimiento.
 
@@ -970,3 +978,15 @@ P.O. 16 DE MARZO DE 2016.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y UNO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 17, 19, 21, PÁRRAFO PRIMERO DEL ARTÍCULO 23, PÁRRAFO SEGUNDO DEL ARTÍCULO 57, 62 FRACCIÓN I DEL ARTÍCULO 63 PÁRRAFO PRIMERO DEL ARTÍCULO 82 DE LA LEY DE CULTURA CÍVICA DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
