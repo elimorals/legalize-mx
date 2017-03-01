@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2015-07-29"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -1153,11 +1153,13 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 72.
 
-Los oferentes, contratistas, asesores o consultores, que infrinjan las disposiciones contenidas en esta Ley, serán sancionados por las Contralorías, Estatal o Municipal según sea el caso con multa equivalente a la cantidad de 150 a 1000 veces el salario mínimo general vigente en el Estado elevado al mes en la fecha de la infracción.
+Los oferentes, contratistas, asesores o consultores, que infrinjan las disposiciones contenidas en esta Ley, serán sancionados por las Contralorías, Estatal o Municipal según sea el caso con multa equivalente a la cantidad de 150 a 1000 veces el valor diario de la Unidad de Medida y Actualización elevada al mes en la fecha de la infracción.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 Independientemente de la aplicación de la multa mencionada en el párrafo precedente, el oferente que se retracte de su propuesta o el contratista que no firme el contrato por causas imputables a el mismo deberá resarcir a la Dependencia, Secretaría o Ayuntamiento el importe de los gastos generados con motivo de la licitación.
 
@@ -1408,3 +1410,15 @@ P.O. 29 DE JULIO DE 2015.
 Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTICULO 72 DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MINIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
