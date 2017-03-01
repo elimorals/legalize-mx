@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-agua-potable-morelos-9351"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-26"
-last_updated: "2001-05-23"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY ESTATAL DE AGUA POTABLE, MORELOS
 
-LEY ESTATAL DE AGUA POTABLE
+LEY ESTATAL DE AGUA POTABLE DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de julio de 1995.
 
@@ -369,7 +369,7 @@ Se crean los organismos operadores municipales como organismos públicos descent
 
 Los organismos operadores municipales deberán instalarse mediante acuerdo del Ayuntamiento correspondiente, y en su estructura, administración y operación, se sujetarán a lo dispuesto en la presente Ley.
 
-Las relaciones laborales de los organismo operadores se regularán por la Ley del Servicio Civil del Estado. El Director General, los Directores, Subdirectores, Administradores, Jefes de Departamento, Asesores y demás personal que efectúe labores de inspección, vigilancia y manejo de fondos serán trabajadores de confianza.
+Las relaciones laborales de los organismo (sic) operadores se regularán por la Ley del Servicio Civil del Estado. El Director General, los Directores, Subdirectores, Administradores, Jefes de Departamento, Asesores y demás personal que efectúe labores de inspección, vigilancia y manejo de fondos serán trabajadores de confianza.
 
 ###### ARTICULO 14.
 
@@ -839,7 +839,7 @@ En ningún caso la concesión para la prestación del servicio público de agua 
 
 II.- La concesión total o parcial de los bienes del dominio público que ya existan y que constituyan la infraestructura hidráulica, necesaria para prestar los servicios así como la prestación de los mismos.
 
-Dichas concesiones podrán ser otorgadas a través del Ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los organismo operadores intermunicipales, previo acuerdo del Cabildo o Cabildos respectivos.
+Dichas concesiones podrán ser otorgadas a través del Ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los organismos operadores intermunicipales, previo acuerdo del Cabildo o Cabildos respectivos.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
@@ -925,7 +925,7 @@ II.- Las organizaciones interesadas deberán acreditar tener representatividad p
 
 La calidad de usuario se acreditará con el recibo de pago que acredite estar al corriente en las cuotas o tarifas por el servicio de agua potable;
 
-III.- Cumplir, además, los siguiente requisitos:
+III.- Cumplir, además, los siguiente (sic) requisitos:
 
 A).- Estar constituidas como asociación o sociedad civil en los términos de la legislación civil del Estado, o bien, constituirse directamente ante el funcionario competente del Ayuntamiento, del organismo operador o del Poder Ejecutivo en su caso, quienes estarán obligados a levantar el acta respectiva, que contendrá los nombres y domicilios de sus miembros y la elección de los representantes que asumirán la responsabilidad del cumplimiento a las obligaciones que impone la propia concesión.
 
@@ -1389,7 +1389,7 @@ Todo predio en el que se construyan edificios o condominios que tengan como dest
 
 ###### ARTICULO 81.
 
-Las fraccionadoras, urbanizadoras y desarrolladoras, deberán construir por su cuenta las instalaciones y conexiones de agua potable y saneamiento, incluyendo alcantarillado necesarias, de conformidad con el proyecto autorizado por la autoridad competente y las específicaciones del Municipio, del organismo operador o de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, en su caso; dichas obras pasarán al patrimonio de éstos una vez que estén en operación.
+Las fraccionadoras, urbanizadoras y desarrolladoras, deberán construir por su cuenta las instalaciones y conexiones de agua potable y saneamiento, incluyendo alcantarillado necesarias, de conformidad con el proyecto autorizado por la autoridad competente y las especificaciones del Municipio, del organismo operador o de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, en su caso; dichas obras pasarán al patrimonio de éstos una vez que estén en operación.
 
 ###### ARTICULO 82.
 
@@ -1501,15 +1501,15 @@ Se deberán revisar y ajustar las cuotas o tarifas a fin de actualizarlas; para 
 
 La dependencia u organismo de la Administración Pública Estatal elaborará los estudios técnicos financieros de apoyo para las adecuaciones de cuotas o tarifas y los enviará a los Municipios o a los organismos operadores para su consideración.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 98.
 
 El pago de las cuotas o tarifas a que se refiere el presente artículo, es independiente del cumplimiento a lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y serán aplicables de conformidad con lo dispuesto en el artículo cuarto transitorio de la presente Ley.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
 
-Los pagos que deberán cubrir los usuarios por la prestación de los servicios públicos se calcularán en días de salario mínimo general de la zona económica a la que pertenece el Estado, y se clasifican en:
+Los pagos que deberán cubrir los usuarios por la prestación de los servicios públicos se calcularán conforme al valor diario de la Unidad de Medida y Actualización, y se clasifican en:
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 1999)</small>
 
@@ -1527,11 +1527,17 @@ El costo de la instalación de la toma incluye mano de obra, materiales y derech
 
 (VER TABLA ANEXA)
 
-Cuando el diámetro de la toma sea de 19 mm. o ¾" de pulgada se aumentará al rango base correspondiente 5 días de salario mínimo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-Cuando el diámetro de la toma sea de 25 mm. o 1" pulgada se aumentará al rango base correspondiente 10 días de salario mínimo.
+Cuando el diámetro de la toma sea de 19 mm o ¾" de pulgada se aumentará al rango base correspondiente 5Unidades (sic) de Medida y Actualización.
 
-Cuando el diámetro de la toma sea de 38 mm. o 1 ½" pulgada se aumentará al rango base correspondiente 20 días de salario mínimo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Cuando el diámetro de la toma sea de 25 mm o 1" pulgada se aumentará al rango base correspondiente 10 Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Cuando el diámetro de la toma sea de 38 mm o 1 ½" pulgada se aumentará al rango base correspondiente 20 Unidades de Medida y Actualización.
 
 C) Por derecho de conexión del servicio de agua potable (contrato), donde ya exista la instalación:
 
@@ -1541,11 +1547,17 @@ D) Por instalación de medidores de agua potable de 13 mm. o ½" pulgada:
 
 (VER TABLA ANEXA)
 
-Cuando el diámetro del medidor sea de 19 mm. o ¾" de pulgada se aumentará al rango base correspondiente 5 días de salario mínimo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-Cuando el diámetro del medidor sea de 25 mm. o 1" pulgada se aumentará al rango base correspondiente 10 días de salario mínimo.
+Cuando el diámetro del medidor sea de 19 mm o ¾" de pulgada se aumentará al rango base correspondiente 5 Unidades de Medida y Actualización.
 
-Cuando el diámetro del medidor sea de 38 mm. o 1 ½" pulgada se aumentará al rango base correspondiente 20 días de salario mínimo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Cuando el diámetro del medidor sea de 25 mm o 1" pulgada se aumentará al rango base correspondiente 10 Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Cuando el diámetro del medidor sea de 38 mm o 1 ½" pulgada se aumentará al rango base correspondiente 20 Unidades de Medida y Actualización.
 
 E) Por reparación de medidores, cualquiera que sea su diámetro:
 
@@ -1557,11 +1569,17 @@ F) Por derecho de conexión al drenaje o alcantarillado cuando el diámetro de l
 
 El costo por conexión al drenaje o alcantarillado incluye materiales, mano de obra y derecho de conexión.
 
-Cuando el diámetro de la conexión sea mayor de 30 cm. y no exceda de 59 cm. se incrementará al rango base correspondiente 5 días de salario mínimo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-Cuando el diámetro de la conexión sea mayor de 60 cm. y menor de 1 metro, se incrementará al rango base correspondiente 20 días de salario mínimo.
+Cuando el diámetro de la conexión sea mayor de 30 cm. y no exceda de 59 cm. se incrementará al rango base correspondiente 5 Unidades de Medida y Actualización.
 
-Cuando el diámetro de la conexión sea mayor de 1 metro se incrementará al rango base correspondiente 50 días de salario mínimo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Cuando el diámetro de la conexión sea mayor de 60 cm. y menor de 1 metro, se incrementará al rango base correspondiente 20 días (sic) Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Cuando el diámetro de la conexión sea mayor de 1 metro se incrementará al rango base correspondiente 50 Unidades de Medida y Actualización.
 
 G) Por suministro de agua potable por carro-tanque:
 
@@ -1569,9 +1587,13 @@ G) Por suministro de agua potable por carro-tanque:
 
 (VER TABLA ANEXA)
 
-Por cada m3 que exceda, el costo se incrementará al rango base que corresponda 0.5 día de salario mínimo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-2.- Propiedad del servicio público o de particulares, 0.5 día de salario mínimo por m3.
+Por cada m3 que exceda, el costo se incrementará al rango base que corresponda 0.5 veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+2.- Propiedad del servicio público o de particulares, 0.5 veces la Unidad de Medida y Actualización por m3.
 
 H) Por suministro de agua residual tratada por carro-tanque:
 
@@ -1579,21 +1601,31 @@ H) Por suministro de agua residual tratada por carro-tanque:
 
 (VER TABLA ANEXA)
 
-Por cada m3 que exceda, el costo se incrementará al rango que corresponda 0.30 día de salario mínimo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-2.- Propiedad de servicio público o de particulares, 0.3 día de salario mínimo por m3.
+Por cada m3 que exceda, el costo se incrementará al rango que corresponda 0.30 veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+2.- Propiedad de servicio público o de particulares, 0.3 veces la Unidad de Medida y Actualización por m3.
 
 I). Por el servicio de agua potable:
 
-Por cada m3 de agua potable consumido, se aplicarán las tarifas mensuales del cuadro siguiente, expresadas en dsm:
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
-Por cada m3 de agua potable consumido en días de salario mínimo
+Por cada m3 de agua potable consumido, se aplicarán las tarifas mensuales del cuadro siguiente, expresadas en UMA:
 
-Consumo-mensual
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+POR CADA M3 DE AGUA POTABLE CONSUMIDO EN UNIDADES DE MEDIDA Y ACTUALIZACIÓN (UMA)
+
+CONSUMO-MENSUAL
 
 (VER TABLA ANEXA)
 
-El precio de m3 consumido se obtendrá colocando el volumen total consumido en un mes, en el renglón correspondiente al rango de consumo que lo abarque y multiplicando el factor correspondiente al tipo de usuario por el valor del salario mínimo diario vigente en el Estado de Morelos en la fecha de cálculo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+El precio de m3 consumido se obtendrá colocando el volumen total consumido en un mes, en el renglón correspondiente al rango de consumo que lo abarque y multiplicando el factor correspondiente al tipo de usuario por el valor de la Unidad de Medida y Actualización vigente en la fecha del cálculo.
 
 En los casos en que no exista aparato medidor la cuota fija mínima mensual será:
 
@@ -1607,7 +1639,9 @@ Para la aplicación de la siguiente tarifa se procederá a tomar como base el co
 
 (VER TABLA ANEXA)
 
-El precio del m3 descargado se obtendrá colocando el volumen total descargado en un mes, en el renglón correspondiente al rango de consumo que lo abarque y multiplicando el factor correspondiente al tipo de usuario por el valor del salario mínimo diario vigente en el Estado de Morelos en la fecha de cálculo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+El precio del m3 descargado se obtendrá colocando el volumen total descargado en un mes, en el renglón correspondiente al rango de consumo que lo abarque y multiplicando el factor correspondiente al tipo de usuario por el valor de la Unidad de Medida y Actualización vigente en la fecha de cálculo.
 
 En los casos en que no exista aparato medidor la cuota fija mínima mensual será:
 
@@ -1617,11 +1651,15 @@ Los derechos por el servicio público de saneamiento del agua se causarán mensu
 
 K) Por el servicio de agua tratada residual:
 
-Por cada m3 de agua residual tratada consumido, se aplicaran las tarifas mensuales del cuadro siguiente, expresadas en dsm:
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Por cada m3 de agua residual tratada consumido, se aplicarán las tarifas mensuales del cuadro siguiente, expresadas en U.M.A.:
 
 (VER TABLA ANEXA)
 
-El precio del m3 consumido se obtendrá colocando el volumen total consumido en un mes, en el renglón correspondiente al rango de consumo que lo abarque y multiplicando el factor correspondiente al tipo de usuario por el valor del salario mínimo diario vigente en el Estado de Morelos en la fecha de cálculo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+El precio del m3 consumido se obtendrá colocando el volumen total consumido en un mes, en el renglón correspondiente al rango de consumo que lo abarque y multiplicando el factor correspondiente al tipo de usuario por el valor de la Unidad de Medida y Actualización vigente en la fecha del cálculo.
 
 En los casos en que no exista aparato medidor la cuota fija mínima mensual será:
 
@@ -1631,15 +1669,21 @@ Los derechos por el servicio público de suministro de agua residual tratada se 
 
 L) Por cambio de ubicación de la toma domiciliaria:
 
-A razón de 2 días de salario mínimo por cambio de cada toma, adicional al pago de los materiales y mano de obra que se requiera, de acuerdo a la nueva ubicación con respecto a la infraestructura en operación.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+A razón de 2 veces el valor diario de la Unidad de Medida y Actualización por cambio de cada toma, adicional al pago de los materiales y mano de obra que se requiera, de acuerdo a la nueva ubicación con respecto a la infraestructura en operación.
 
 M) Por cambio de nombre del usuario en contrato ya existente:
 
-A razón de 2 días de salario mínimo por cambio de nombre en el contrato, previa presentación de la documentación legal que acredite al nuevo usuario.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+A razón de 2 veces el valor diario de la Unidad de Medida y Actualización por cambio de nombre en el contrato, previa presentación de la documentación legal que acredite al nuevo usuario.
 
 N) Por expedición de constancia de no adeudo:
 
-A razón de 2 días de salario mínimo por constancia de cada toma.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+A razón de 2veces (sic) el valor diario de la Unidad de Medida y Actualización por constancia de cada toma.
 
 O) Por recargos y gastos de cobranza:
 
@@ -1657,7 +1701,9 @@ Q) Por derechos de dotación:
 
 Los derechos de dotación son aportaciones de los usuarios de los servicios públicos que servirán para garantizar el suministro de agua potable en desarrollos tales como: Subdivisión, lotificación y fraccionamiento de predios; condominios y unidades habitacionales; así como giros comerciales e industriales.
 
-Se aplicarán a las siguiente cuotas (sic), expresadas en días salario mínimo, por cada litro por segundo que se otorgue como dotación al desarrollo del que se trate, siendo éstas las siguientes:
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Se aplicarán las siguientes cuotas, expresadas en Unidades de Medida y Actualización, por cada litro por segundo que se otorgue como dotación al desarrollo del que se trate, siendo estas las siguientes:
 
 (VER TABLA ANEXA)
 
@@ -1666,6 +1712,8 @@ R) Aportaciones por derecho de saneamiento por agua en bloque:
 Dicho pago se realizará en base a los litros por segundo a tratar y su monto será en función del resultado de dividir el costo actualizado de construcción de la planta de tratamiento entre la capacidad en litros por segundo que tenga la planta multiplicado por los litros por segundo a tratar.
 
 Los ingresos por las cuotas y tarifas previstas en este artículo, corresponde su recaudación al estado o al municipio, quienes lo realizarán a través de los sistemas u organismos operadores que proporcionen el servicio público.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 99.
 
@@ -1893,15 +1941,23 @@ XVI.- Las personas que en cualquier caso proporcionen servicios de agua en forma
 
 Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente a juicio del Municipio, del organismo operador respectivo o de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, con multas equivalentes:
 
-I.- En el caso de usuarios que cometan las infracciones a que se refieren las fracciones I, II y III del artículo anterior, la sanción será de uno a veinte días de salario mínimo en el caso de los usuarios domésticos y de dos a cuarenta días en el caso de los comerciales;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-II.- En el caso de los usuarios que cometan las infracciones a que se refieren las fracciones IV, V, VI, VII, VIII, IX, X y XI del artículo anterior, la sanción será de cinco a cincuenta días de salario mínimo en el caso de los usuarios domésticos y de diez a cien días en el caso de los usuarios comerciales;
+I.- En el caso de usuarios que cometan las infracciones a que se refieren las fracciones I, II y III del artículo anterior, la sanción será de una a veinte veces el valor diario de la Unidad de Medida y Actualización en el caso de los usuarios domésticos y de dos a cuarenta días en el caso de los comerciales;
 
-III.- En el caso de los usuarios que cometan las infracciones a que se refieren las fracciones XII, XIII y XIV del artículo anterior, la sanción será de diez a cien días de salario mínimo en el caso de los usuarios domésticos y de veinte a doscientos días en el caso de los usuarios comerciales;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-IV.- En el caso de las personas que cometan las infracciones a que se refieren las fracciones XV y XVI del artículo anterior, la sanción será de quince a ciento cincuenta días de salario mínimo en el caso de los usuarios domésticos y de cuarenta a cuatrocientos días en el caso de los comerciales.
+II.- En el caso de los usuarios que cometan las infracciones a que se refieren las fracciones IV, V, VI, VII, VIII, IX, X y XI del artículo anterior, la sanción será de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización en el caso de los usuarios domésticos y de diez a cien veces el valor diario de la Unidad de Medida y Actualización en el caso de los usuarios comerciales;
 
-Por salario mínimo se entenderá el vigente en la zona económica que corresponde al Estado de Morelos.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+III.- En el caso de los usuarios que cometan las infracciones a que se refieren las fracciones XII, XIII y XIV del articulo anterior, la sanción será de diez a cien veces el valor diario de la Unidad de Medida y Actualización en el caso de los usuarios domésticos y de veinte a doscientas veces el valor diario de la Unidad de Medida y Actualización en el caso de los usuarios comerciales;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+IV.- En el caso de las personas que cometan las infracciones a que se refieren las fracciones XV y XVI del artículo anterior, la sanción será de quince a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización en el caso de los usuarios domésticos y de cuarenta a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización en el caso de los comerciales.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
 
 Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, las condiciones económicas del infractor y la reincidencia.
 
@@ -2146,3 +2202,15 @@ P.O. 23 DE MAYO DE 2001.
 Primero.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVIII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Segundo.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y SEIS POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO, FRACCIÓN I INCISOS B), C), D), E), F), G), H), I), J), K), L), M), N), O), P), Q) DEL ARTÍCULO 98, FRACCIONES I, II, III, IV, Y SE SUPRIME EL PÁRRAFO SEGUNDO DEL ARTÍCULO 120 DE LA LEY ESTATAL DEL AGUA POTABLE, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
