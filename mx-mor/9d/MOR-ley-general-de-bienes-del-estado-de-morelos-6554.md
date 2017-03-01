@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-bienes-del-estado-de-morelos-6554"
 country: "mx"
 rank: "ley_general"
 publication_date: "1989-07-05"
-last_updated: "2013-11-20"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE BIENES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 1989.
 
@@ -1005,9 +1005,11 @@ CORRESPONDERA A LA SECRETARIA DE LA CONTRALORIA, EN LA ESFERA DE SU COMPETENCIA 
 
 DE LAS SANCIONES.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 94.
 
-SE IMPONDRA PENA DE PRISION DE UNO A SEIS AÑOS Y MULTA DE DOSCIENTOS A TRESCIENTOS DIAS DE SALARIO MINIMO GENERAL VIGENTE EN EL ESTADO DE MORELOS, A QUIEN VENCIDO EL TERMINO SEÑALADO EN LA CONCESION, PERMISO O AUTORIZACION QUE SE HAYA OTORGADO PARA LA EXPLOTACION, USO O APROVECHAMIENTO DE UN BIEN DE DOMINIO PUBLICO, NO LO DEVOLVIERE A LA AUTORIDAD CORRESPONDIENTE DENTRO DEL TERMINO DE TREINTA DIAS SIGUIENTES A LA FECHA DEL REQUERIMIENTO ADMINISTRATIVO QUE SE LE HUBIERE HECHO.
+SE IMPONDRA PENA DE PRISION DE UNO A SEIS AÑOS Y MULTA DE DOSCIENTAS A TRESCIENTAS VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACION, A QUIEN VENCIDO EL TERMINO SEÑALADO EN LA CONCESION, PERMISO O AUTORIZACION QUE SE HAYA OTORGADO PARA LA EXPLOTACION, USO O APROVECHAMIENTO DE UN BIEN DE DOMINIO PUBLICO, NO LO DEVOLVIERE A LA AUTORIDAD CORRESPONDIENTE DENTRO DEL TERMINO DE TREINTA DIAS SIGUIENTES A LA FECHA DEL REQUERIMIENTO ADMINISTRATIVO QUE SE LE HUBIERE HECHO.
 
 ###### ARTICULO 95.
 
@@ -1124,3 +1126,15 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto, entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS NOVENTA Y CINCO POR EL QUE SE REFORMA EL ARTÍCULO 94 DE LA LEY GENERAL DE BIENES DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
