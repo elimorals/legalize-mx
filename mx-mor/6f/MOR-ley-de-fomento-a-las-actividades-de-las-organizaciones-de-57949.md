@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-57949
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-12"
-last_updated: "2014-12-31"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre de 2007.
 
@@ -357,7 +357,9 @@ a) Apercibimiento.- Procederá el apercibimiento a la organización que incurra 
 
 b) La organización que sea objeto de apercibimiento en términos del párrafo anterior, se le concederá un plazo que no excederá de treinta días naturales para que subsane la irregularidad observada.
 
-c) Multa.- Procederá la aplicación de la multa en los casos de reincidencia, la cual será en un monto al equivalente a doscientos días de salario mínimo vigente en la Entidad.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+c) Multa.- Procederá la aplicación de la multa en los casos de reincidencia, la cual será en un monto al equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(F. DE E., P.O. 6 DE FEBRERO DE 2008)</small>
 
@@ -486,3 +488,15 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y CUATRO POR EL QUE SE REFORMA EL INCISO C) DEL ARTÍCULO 25 DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE MORELOS EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
