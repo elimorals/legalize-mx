@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2015-10-14"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -1441,9 +1441,11 @@ III. Respecto de profesionales en trabajo social o psicología que intervengan e
 
 IV. Las demás contravenciones a lo dispuesto en esta Ley, competencia del orden estatal o municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 113.
 
-A quienes incurran en las infracciones previstas en las fracciones I, II y III del artículo anterior, se les impondrá multa de hasta mil quinientos días de salario mínimo general vigente en el Estado al momento de realizarse la conducta sancionada.
+A quienes incurran en las infracciones previstas en las fracciones I, II y III del artículo anterior, se les impondrá multa de hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de realizarse la conducta sancionada.
 
 En casos de reincidencia, la multa podrá aplicarse hasta por el doble de lo previsto en este artículo. Se considerará reincidente al que:
 
@@ -1528,3 +1530,17 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y SIETE POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 113 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
