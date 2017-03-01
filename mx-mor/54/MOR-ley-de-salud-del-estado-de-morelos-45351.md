@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2016-11-02"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -3743,29 +3743,35 @@ IV.- La calidad del reincidente del infractor; y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 384.
 
-Se sancionará con multa de hasta 1,000 veces el Salario Mínimo General diario vigente en Morelos la violación de las disposiciones contenidas en los artículos 43, 60, 61, 92, 107, 130, 131, 132, 144, 170, 195, 217, 226, 298, 342, 353 y 354 de esta Ley.
+Se sancionará con multa de hasta 1,000 veces el valor diario de la Unidad de Medida y Actualización la violación de las disposiciones contenidas en los artículos 43, 60, 61, 92, 107, 130, 131, 132, 144, 170, 195, 217, 226, 298, 342, 353 y 354 de esta Ley.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 385.
 
-Se sancionará con multa de 1,000 hasta 4,000 mil veces el salario mínimo general diario vigente en el área geográfica que corresponda, la violación de las disposiciones contenidas en los Artículos 119, 134, 140, 189, 233, 240, 241, 296, 340, 343, y 378 de esta Ley.
+Se sancionará con multa de 1,000 hasta 4,000 mil veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los Artículos 119, 134, 140, 189, 233, 240, 241, 296, 340, 343, y 378 de esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 386.
 
-Se sancionará con multa de 4,000 hasta 10,000 veces el Salario Mínimo General diario vigente en Morelos la violación de las disposiciones contenidas en los artículos 74, 121, 181, 182, 199, 361 y 376 de esta Ley.
+Se sancionará con multa de 4,000 hasta 10,000 veces el valor diario de la Unidad de Medida y Actualización la violación de las disposiciones contenidas en los artículos 74, 121, 181, 182, 199, 361 y 376 de esta Ley.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 387.
 
-Las autoridades municipales sancionarán con multa de hasta 500 veces el salario mínimo general diario vigente en el Estado, la violación de las disposiciones contenidas en los Artículos 228, 234, 235, 244, 245, 261, 268, 271, 278 y 323 de esta Ley.
+Las autoridades municipales sancionarán con multa de hasta 500 veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los Artículos 228, 234. 235. 244, 245, 261, 268, 271, 278 y 323 de esta Ley.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### Artículo 388.
 
-Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por 10,000 veces el salario mínimo general diario vigente en el Estado, atendiendo a las reglas de calificación establecidas en el Artículo 383 de esta Ley.
+Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por 10,000 veces el valor diario de la Unidad de Medida y Actualización, atendiendo a las reglas de calificación establecidas en el Artículo 383 de esta Ley.
 
 ###### Artículo 389.
 
@@ -4017,7 +4023,7 @@ Túrnese el presente decreto al titular del Poder Ejecutivo, a efecto de que sea
 
 ###### ARTÍCULO SEGUNDO.
 
-El presente decreto iniciará su vigencia al día siguiente de su publicación .en el Periódico Oficial Tierra y Libertad.
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad.
 
 P.O. 9 DE JUNIO DE 2010.
 
@@ -4459,14 +4465,26 @@ P.O. 6 DE JULIO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS TREINTA Y SIETE POR EL QUE SE REFORMAN LOS ARTÍCULOS 55 Y 56 DE LA LEY DE SALUD DEL ESTADO DE MORELOS".]
 
-PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70 , fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 P.O. 2 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CIENTO OCHENTA Y NUEVE POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS FRACCIONES DEL APARTADO A) DEL ARTICULO 3 DE LA LEY DE SALUD DEL ESTADO DE MORELOS."]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO OCHENTA Y NUEVE POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS FRACCIONES DEL APARTADO A) DEL ARTICULO 3 DE LA LEY DE SALUD DEL ESTADO DE MORELOS.”]
 
 PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS NOVENTA Y NUEVE POR EL QUE SE REFORMAN LOS ARTÍCULOS 384, 385, 386, 387 Y 388 DE LA LEY DE SALUD DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
