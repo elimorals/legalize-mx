@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-cementerios-para-el-municipio-de-pesqueria-41769"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-05-28"
-last_updated: "1993-05-28"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE CEMENTERIOS PARA EL MUNICIPIO DE PESQUERIA, NUEVO LEON
 
-REGLAMENTO DE CEMENTERIOS PARA EL MUNICIPIO DE PESQUERIA, NUEVO LEON
+REGLAMENTO DE CEMENTERIOS PARA EL MUNICIPIO DE PESQUERÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 28 de mayo de 1993.
 
@@ -315,7 +315,7 @@ La inhumación de cadáveres de personas adultas, infantes, nonatos y restos hum
 
 ###### ARTÍCULO 40.
 
-Los deudos o representantes de las funerarias que presten el servicio de inhumación, deberán exhibir ante el Administrador del Cementerio los siguientes documentos:
+Los deudos o representantes de las funerarias que presten e servicio de inhumación, deberán exhibir ante el Administrador del Cementerio los siguientes documentos:
 
 a) Certificado de defunción o boleta de la misma, expedida por el Oficial del Registro Civil que corresponda.
 
@@ -323,7 +323,7 @@ b) Boleta de pago que corresponda de derechos Municipales de inhumación. Cuando
 
 ###### ARTÍCULO 41.
 
-Si la copla certificada del acta de defunción resulta alterada, o adoleciera de algún vicio, el responsable incurrirá en las sanciones señaladas por este Reglamento sin perjuicio de las que estatuya la Legislación Penal.
+Si la copia certificada del acta de defunción resulta alterada, o adoleciera de algún vicio, el responsable incurrirá en las sanciones señaladas por este Reglamento sin perjuicio de las que estatuya la Legislación Penal.
 
 ###### ARTÍCULO 42.
 
@@ -437,17 +437,29 @@ IV. La suspensión de las demás actividades que se realicen en los cementerios 
 
 Las sanciones serán:
 
-I. Las personas físicas o morales que presten un servicio de funeraria, o de cementerio, sin la debida autorización del Ayuntamiento, serán acreedores a una sanción de 50 días de salario mínimo vigente en la zona económica de la entidad.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-II. Las personas físicas o morales que realicen inhumaciones, exhumaciones, cremaciones o actividades diversas relacionadas con los mismos, sin la autorización municipal, así como de Sanidad Federal, Estatal y Municipal, cuando así se requiera, se les aplicará una sanción de 50 días de Salario mínimo vigente en la zona económica de la entidad, y si la situación lo amerita será turnado a las autoridades del Ramo Penal.
+I.- Las personas físicas o morales que presten un servicio de funeraria, o de cementerio, sin la debida autorización del Ayuntamiento, serán acreedores a una sanción de 50 cuotas. Se entiende por cuota, el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
 
-III. Las personas físicas, morales o personal administrativo de Cementerios Municipales, que al momento de edificar provoque daños a las áreas municipales o a las particulares. Serán acreedores a una sanción de 50 días de salario mínimo vigente en la zona económica de la entidad, además de pago a los daños y perjuicios que serán cubiertos por quien los ocasione. El personal Administrativo de los Cementerios Municipales, podrá ser suspendido o cesado de sus puestos de acuerdo a la gravedad de los daños, los particulares podrán ser consignados a la Autoridad competente.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-IV. Las personas que sean sorprendidas substrayendo objetos, materiales o documentos del interior de los cementerios, serán turnados a las autoridades competentes y serán acreedores a una sanción de 50 días de salario mínimo vigente en la zona económica de la entidad.
+II.- Las personas físicas o morales que realicen inhumaciones, exhumaciones, cremaciones o actividades diversas relacionadas con los mismos, sin la autorización municipal, así como de Sanidad Federal, Estatal y Municipal, cuando así se requiera, se les aplicará una sanción de 50 cuotas. Se entiende por cuota, el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda, y si la situación lo amerita será turnado a las autoridades del Ramo Penal.
 
-V. Quien altere el orden en el interior de los cementerios, por ingerir bebidas embriagantes, drogas, enervantes o inhalantes o por dirigirse con palabras mal sonantes ante los visitantes o dolientes, se le aplicará una sanción de 25 días de salario mínimo vigente en la zona económica de la entidad. Si el caso lo amerita podrá ser arrestado por 36 horas.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-V (SIC). El Constructor que viole las tarifas de Construcción fijadas por el Municipio, se hará acreedor a 50 días de salario mínimo vigente en la zona económica del Estado, además será vetado para realizar trabajos dentro de las instalaciones del panteón, sea éste Municipal o Privado.
+III.- Las personas físicas, morales o personal administrativo de Cementerios Municipales, que al momento de edificar provoque daños a las áreas municipales o a las particulares. Serán acreedores a una sanción de 50 cuotas. Se entiende por cuota, el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda, además de pago a los daños y perjuicios que serán cubiertos por quien los ocasione. El personal Administrativo de los Cementerios Municipales, podrá ser suspendido o cesado de sus puestos de acuerdo a la gravedad de los daños, los particulares podrán ser consignados a la Autoridad competente.
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+IV.- Las personas que sean sorprendidas substrayendo objetos, materiales o documentos del interior de los cementerios, serán turnados a las autoridades competentes y serán acreedores a una sanción de 50 cuotas. Se entiende por cuota, el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda.
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+V.- Quien altere el orden en el interior de los cementerios, por ingerir bebidas embriagantes, drogas, enervantes o inhalantes o por dirigirse con palabras mal sonantes ante los visitantes o dolientes, se le aplicará una sanción de 25 cuotas, Se entiende por cuota, el valor diario de la Unidad de Medida y Actualización vigente al año que corresponda. Si el caso lo amerita podrá ser arrestado por 36 horas.
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+VI.- El Constructor que viole las tarifas de Construcción fijadas por el Municipio, se hará acreedor a 50 cuotas, Se entiende por cuota, el valor diario de Unidad de Medida y Actualización vigente al año que corresponda, además será vetado para realizar trabajos dentro de las instalaciones del panteón, sea éste Municipal o Privado.
 
 ###### ARTÍCULO 62.
 
@@ -568,3 +580,13 @@ C. ROGELIO GONZÁLEZ GUAJARDO
 C. SECRETARIO DEL AYUNTAMIENTO
 
 LIC. JESÚS M. LIZÁRRAGA LOZANO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 30 DE ENERO DE 2017, SE APRUEBA LA REFORMA POR MODIFICACIÓN DE DIVERSOS REGLAMENTOS”.]
+
+PRIMERO.- LA PRESENTE REFORMA, ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- LOS PROCEDIMIENTOS Y DEMÁS ACTOS JURÍDICOS QUE SE ENCUENTREN EN TRÁMITE A LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, SERÁN RESUELTOS A LAS NORMAS VIGENTES AL MOMENTO DE SU INICIO”.]
