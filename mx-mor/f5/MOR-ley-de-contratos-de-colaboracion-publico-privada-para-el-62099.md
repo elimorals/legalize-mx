@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-contratos-de-colaboracion-publico-privada-para-el-62099"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-16"
-last_updated: "2014-10-08"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE CONTRATOS DE COLABORACIÓN PÚBLICO PRIVADA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de julio de 2008.
 
@@ -617,7 +617,7 @@ Los Comités Estatal y Municipales de Proyectos de Colaboración Público Privad
 
 I. Coadyuvar con las Entidades Estatales o Municipales, según corresponda, al exacto cumplimiento de esta Ley y demás disposiciones aplicables;
 
-II. Proponer las políticas internas, bases y lineamientos con relación a los procedimientos de contratación previstos en esta Ley, dentro de los cuales contemplarán aspectos de sustentabilidad ambiental que deberán observarse en los procedimientos que esta Ley regula, con el objeto de optimizar y utilizar de forma sustentable los recursos para disminuir costos financieros y ambientales;
+II. Proponer las políticas internas, bases y lineamientos con relación a los procedimientos de cotratación previstos en esta Ley, dentro de los cuales contemplarán aspectos de sustentabilidad ambiental que deberán observarse en los procedimientos que esta Ley regula, con el objeto de optimizar y utilizar de forma sustentable los recursos para disminuir costos financieros y ambientales;
 
 III. Analizar y resolver sobre los supuestos no previstos en las políticas internas, bases y lineamientos a que se refiere la fracción anterior;
 
@@ -1103,9 +1103,11 @@ Las Entidades Contratantes deberán cumplir en todo momento con las disposicione
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 107.
 
-Los licitantes o contratistas colaboradores que infrinjan las disposiciones de esta Ley, serán sancionados por los órganos internos de control con multa equivalente a una cantidad de entre cincuenta y mil veces el salario mínimo general vigente en la capital del Estado elevado al mes, en la fecha de la infracción.
+Los licitantes o contratistas colaboradores que infrinjan las disposiciones de esta Ley, serán sancionados por los órganos internos de control con multa equivalente a una cantidad de entre cincuenta y mil veces el valor diario de la Unidad de Medida y Actualización elevado al mes, en la fecha de la infracción.
 
 ###### Artículo 108.
 
@@ -1296,3 +1298,15 @@ P.O. 8 DE OCTUBRE DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículo (sic) 44 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS SETENTA POR EL QUE SE REFORMA EL ARTÍCULO 107 DE LA LEY DE CONTRATOS DE COLABORACIÓN PÚBLICO PRIVADA PARA EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
