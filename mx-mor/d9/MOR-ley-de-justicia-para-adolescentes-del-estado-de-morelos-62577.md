@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-para-adolescentes-del-estado-de-morelos-62577"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-18"
-last_updated: "2016-02-17"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
@@ -593,7 +591,9 @@ De las recusaciones y excusas de los jueces de control y de juicio oral, conocer
 
 El Magistrado no es recusable pero debe excusarse del conocimiento de los asuntos en que ocurra alguno de los impedimentos previstos en la Ley aplicable, expresando concretamente la causa que funde su falta de capacidad subjetiva.
 
-Cuando un Juez se excuse sin causa legítima, cualquiera de las partes puede acudir en queja al Magistrado, el que de encontrar injustificada la excusa, podrá imponer al funcionario una corrección disciplinaria, que consistirá en una multa de cincuenta hasta cien veces el salario mínimo general diario de la región.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+Cuando un Juez se excuse sin causa legítima, cualquiera de las partes puede acudir en queja al Magistrado, el que de encontrar injustificada la excusa, podrá imponer al funcionario una corrección disciplinaria, que consistirá en una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización.
 
 En caso de excusa del Magistrado, se procederá conforme a lo previsto en la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y al Reglamento Interior del propio Tribunal.
 
@@ -1860,3 +1860,15 @@ CUARTO. El Magistrado del Tribunal Unitario de Justicia para Adolescentes, en un
 QUINTO. El Presupuesto de Egresos del Tribunal Unitario de Justicia para Adolescentes deberá prever la partida correspondiente para el debido funcionamiento de la Coordinación que al efecto se crea, para la cual deberá contemplarse en el Presupuesto de Egresos del Gobierno del Estado el incremento correspondiente.
 
 SEXTO. En un plazo de quince días hábiles contados a partir de la fecha en que entre en vigor el presente decreto, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, deberá hacer las adecuaciones correspondientes a su Reglamento Interior, para el efecto de considerar las áreas administrativas que se crean en virtud de la adición a la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y Juzgados Especializados del Estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y SEIS POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 41 DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
