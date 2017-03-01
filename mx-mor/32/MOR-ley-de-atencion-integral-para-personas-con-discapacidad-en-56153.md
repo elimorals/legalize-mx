@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-atencion-integral-para-personas-con-discapacidad-en-5615
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2016-10-19"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ATENCIÓN INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -173,7 +175,7 @@ Cuando las disposiciones de esta Ley comprendan materias y acciones que incidan 
 
 ###### Artículo 7.
 
-Compete a la secretaria (sic), por conducto del organismo público descentralizado denominado Servicios de Salud de Morelos, la realización de las siguientes acciones:
+Compete a la secretaria, por conducto del organismo público descentralizado denominado Servicios de Salud de Morelos, la realización de las siguientes acciones:
 
 I. Diseñar, ejecutar y evaluar programas para la orientación, prevención, detección, estimulación temprana, atención integral y rehabilitación para las discapacidades;
 
@@ -783,7 +785,7 @@ VII.- Establecer un programa estatal de becas educativas para personas con disca
 
 VIII.- Impulsar toda forma de comunicación escrita que facilite al discapacitado auditivo hablante, al señante o semilingüe, el desarrollo y uso de la lengua en forma escrita;
 
-IX.- Impulsar programas de investigación, preservación y desarrollo de la lengua de señas, de las personas con discapacidad auditiva, y de las formas de comunicación de las personas con discapacidad visual, aunado al impulso del Sistema de escritura braile mediante los equipos de computo respectivos, ampliadores y lectores de texto;
+IX.- Impulsar programas de investigación, preservación y desarrollo de la lengua de señas, de las personas con discapacidad auditiva, y de las formas de comunicación de las personas con discapacidad visual, aunado al impulso del Sistema de escritura braile (sic) mediante los equipos de computo respectivos, ampliadores y lectores de texto;
 
 X.- Elaborar programas para las personas ciegas y débiles visuales, que los integren al Sistema Educativo Estatal, público o privado, creando de manera progresiva condiciones físicas y acceso a los avances científicos y tecnológicos, así como materiales y libros actualizados a las publicaciones regulares necesarios para su aprendizaje; y
 
@@ -1001,19 +1003,31 @@ La inobservancia a los preceptos de esta Ley y disposiciones que de ella emanen,
 
 Para los efectos de la presente Ley, independientemente de lo establecido por otras disposiciones legales se aplicarán sanciones conforme a lo siguiente:
 
-I.- Multa equivalente de 10 a 50 veces el salario mínimo vigente, a los servidores públicos, personas físicas o morales y prestadores de servicios, que cometan cualquier acto de discriminación en contra de las personas con discapacidad.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-II.- Multa equivalente de 10 a 50 veces el salario mínimo vigente en el Estado de Morelos, a quienes ocupen indebidamente los espacios de estacionamiento preferencial o bien obstruyan las rampas o accesos para personas con discapacidad, debiendo aplicar la sanción correspondiente el municipio donde se comete tal infracción; a través de las autoridades competentes;
+I.- Multa equivalente de 10 a 50 veces el valor diario de la Unidad de Medida y Actualización, a los servidores públicos, personas físicas o morales y prestadores de servicios, que cometan cualquier acto de discriminación en contra de las personas con discapacidad.
 
-III.- Multa equivalente de 50 a 100 veces el salario mínimo vigente en el Estado de Morelos, a los prestadores de servicio en cualquier modalidad del servicio de transporte público que nieguen u obstaculicen el uso del servicio, de acuerdo a lo dispuesto por la presente Ley, debiendo aplicar esta sanción la Dirección de Transporte Público del Gobierno del Estado de Morelos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-IV.- Multa equivalente de 150 a 250 veces el salario mínimo vigente en el Estado de Morelos, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso para personas con discapacidad, debiendo aplicar la sanción correspondiente el municipio donde se comete tal infracción; a través de las autoridades competentes.
+II.- Multa equivalente de 10 a 50 veces el valor diario de la Unidad de Medida y Actualización de quienes ocupen indebidamente los espacios de estacionamiento preferencial o bien obstruyan las rampas o accesos para personas con discapacidad, debiendo aplicar la sanción correspondiente el municipio donde se comete tal infracción; a través de las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+III.- Multa equivalente de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización, a los prestadores de servicio en cualquier modalidad del servicio de transporte público que nieguen u obstaculicen el uso del servicio, de acuerdo a lo dispuesto por la presente Ley, debiendo aplicar esta sanción la Dirección de Transporte Público del Gobierno del Estado de Morelos;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
+IV.- Multa equivalente de 150 a 250 veces el valor diario de la Unidad de Medida y Actualización, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso para personas con discapacidad, debiendo aplicar la sanción correspondiente el municipio donde se comete tal infracción; a través de las autoridades competentes;
 
 En caso de incurrir el infractor en tres ocasiones en la misma falta, se procederá a la clausura temporal del local por cinco días, para el caso del servicio público de transporte con o sin itinerario se podrá cancelar la concesión correspondiente de acuerdo a la gravedad que determine la autoridad competente;
 
-V.- Multa equivalente de 250 a 300 veces el salario mínimo vigente en el Estado de Morelos, de acuerdo a la gravedad se procederá a la clausura de aquellas empresas, constructoras de conjuntos habitacionales que no brinden las facilidades arquitectónicamente previstas por la presente Ley; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-VI.- Multa equivalente de 100 a 150 veces el salario mínimo vigente en el Estado de Morelos, a propietarios de restaurantes y centros comerciales que no brinden las facilidades arquitectónicas previstas por esta Ley. En caso de reincidencia se aplicará lo estipulado en el segundo párrafo de la fracción III de este artículo.
+V.- Multa equivalente de 250 a 300 veces el valor diario de la Unidad de Medida y Actualización, de acuerdo a la gravedad se procederá a la clausura de aquellas empresas, constructoras de conjuntos habitacionales que no brinden las facilidades arquitectónicamente previstas por la presente Ley; y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
+VI.- Multa equivalente de 100 a 150 veces el valor diario de la Unidad de Medida y Actualización, a propietarios de restaurantes y centros comerciales que no brinden las facilidades arquitectónicas previstas por esta Ley. En caso de reincidencía se aplicará lo estipulado en el segundo párrafo de la fracción III de este artículo.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
@@ -1118,3 +1132,15 @@ P.O. 19 DE OCTUBRE DE 2016.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del estado de Morelos.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SESENTA Y SEIS POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III, IV PÁRRAFO PRIMERO, V, VI PÁRRAFO PRIMERO DEL ARTÍCULO 73 LEY DE ATENCIÓN INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medída y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
