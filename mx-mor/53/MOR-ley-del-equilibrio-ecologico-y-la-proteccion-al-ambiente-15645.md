@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2016-08-10"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 10 DE AGOSTO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO 994 PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -1103,7 +1101,7 @@ IV. Las medidas que adopte el Ejecutivo Estatal en aquéllas actividades que det
 
 V. Las previsiones contenidas en los planes de desarrollo municipal y programas de desarrollo urbano respecto a la política de aprovechamiento sustentable del agua;
 
-VI. La regulación de las descargas de aguas residuales, de carácter municipal, industrial, agropecuario o de servicios, que se efectúen a los sistemas de drenaje y alcantarrillado;
+VI. La regulación de las descargas de aguas residuales, de carácter municipal, industrial, agropecuario o de servicios, que se efectúen a los sistemas de drenaje y alcantarrillado (sic);
 
 VII. Las políticas y programas para la protección de especies acuáticas endémicas, amenazadas, en peligro de extinción o sujetas a protección especial; y
 
@@ -1325,7 +1323,7 @@ Las reservas estatales se constituirán en áreas biogeográficas relevantes a n
 
 En tales reservas podrá determinarse la existencia de la superficie o superficies mejor conservadas, o no alteradas, que alojen ecosistemas, o fenómenos naturales de especial importancia, o especies de flora y fauna que requieran protección especial, y que serán conceptuadas como zona o zonas núcleo. En ellas sólo podrá autorizarse la realización de actividades de preservación de los ecosistemas y sus elementos, de investigación científica y educación ecológica, y limitarse o prohibirse aprovechamientos que alteren los ecosistemas.
 
-En las propias reservas deberán determinarse la superficie o superficies que protejan a la zona núcleo del impacto exterior, que serán conceptuadas como zonas de amortiguamiento, dentro de cuyos linderos podrán realizarse actividades y aprovechamientos de elementos y recursos naturales que sean congruentes con los objetivos y programas de aprovechamiento sostenible; con las características propias y naturales de las actividades de las comunidades previamente asentadas en la zona; y que no provoquen un impacto ambiental significativo adverso, en los términos de la declataroria respectiva y del programa de manejo que se formule y expida, y de los planes de ordenamiento ecológico y el carácter de reserva del área.
+En las propias reservas deberán determinarse la superficie o superficies que protejan a la zona núcleo del impacto exterior, que serán conceptuadas como zonas de amortiguamiento, dentro de cuyos linderos podrán realizarse actividades y aprovechamientos de elementos y recursos naturales que sean congruentes con los objetivos y programas de aprovechamiento sostenible; con las características propias y naturales de las actividades de las comunidades previamente asentadas en la zona; y que no provoquen un impacto ambiental significativo adverso, en los términos de la declaratoria respectiva y del programa de manejo que se formule y expida, y de los planes de ordenamiento ecológico y el carácter de reserva del área.
 
 ###### ARTÍCULO 86.
 
@@ -1899,7 +1897,7 @@ I. Las descargas de origen industrial y actividades agropecuarias que viertan al
 
 II. Las descargas de origen municipal y su mezcla incontrolada con otras descargas;
 
-III. Las descargas de desechos, sustancias o residuos generados en las actividades productivas que viertan en los sistemas de drenaje y alcantarrillado; y
+III. Las descargas de desechos, sustancias o residuos generados en las actividades productivas que viertan en los sistemas de drenaje y alcantarrillado (sic); y
 
 IV. El vertimiento de residuos sólidos, materiales no peligrosos y lodos provenientes del tratamiento de aguas residuales, en los sistemas de drenaje y alcantarillado y en cuerpos y corrientes de agua.
 
@@ -2265,9 +2263,11 @@ Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en est
 
 ###### ARTÍCULO 176.
 
-Las violaciones a los preceptos de ésta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría o por los Ayuntamientos, cuando así proceda, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría o por los Ayuntamientos, cuando así proceda, con una o más de las siguientes sanciones:
 
-I. Multa, por el equivalente de tres a veinte mil días de salario mínimo general vigente en el Estado al momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+I. Multa, por el equivalente de tres a veinte mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de imponer la sanción;
 
 II. Clausura temporal o definitiva, total o parcial;
 
@@ -2297,9 +2297,11 @@ IV. La cancelación de permisos, concesiones, autorizaciones y asignaciones ser�
 
 V. La reparación del daño ambiental será impuesta por la autoridad competente previo dictamen técnico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 178.
 
-Se sancionará con multa por el equivalente de tres a cien días de salario mínimo vigente en la zona, a quienes:
+Se sancionará con multa por el equivalente de tres a cien veces el valor diario de la Unidad de Medida y Actualización, a quienes:
 
 I. Generen residuos sólidos de origen doméstico sin atender las disposiciones dictadas por los ayuntamientos;
 
@@ -2319,9 +2321,11 @@ VIII. No se someta a la verificación periódica de emisiones contaminantes que 
 
 IX. Derribe un árbol perteneciente a un área natural protegida de competencia estatal o municipal o en zonas colindantes con éstos, sin la autorización previa de la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 179.
 
-Se sancionará con multa de cien a mil días de salario mínimo vigente en la zona, a quien:
+Se sancionará con multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización, a quien:
 
 I. Impida al personal autorizado, el acceso al lugar o lugares sujetos a inspección ambiental, en los términos previstos en la orden escrita;
 
@@ -2343,9 +2347,11 @@ IX. No cumpla con las medidas de tratamiento y reuso de aguas tratadas; y
 
 X. Generen descargas domésticas de agua residual o emisiones contaminantes a la atmósfera, agua, suelo o subsuelo, rebasando los límites establecidos en las Normas Oficiales Mexicanas o condiciones particulares de descarga.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 180.
 
-Se sancionará con multa por el equivalente de cien a cinco mil días de salario mínimo vigente en la zona, a la persona que:
+Se sancionará con multa por el equivalente de cien a cinco mil veces el valor diario de la Unidad de Medida y Actualización, a la persona que:
 
 I. Realice obras y actividades de explotación o aprovechamiento de recursos en áreas naturales protegidas de competencia estatal o municipal, sin sujetarse al programa de manejo del área;
 
@@ -2355,9 +2361,11 @@ III. Incumpla las medidas que apliquen las autoridades competentes para limitar,
 
 IV. Realice obras que pudieran causar alteración significativa del ambiente, sin contar con la autorización del impacto ambiental correspondiente, o que, contando con ella, incumpla los términos y condiciones establecidos en la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 181.
 
-Se sancionará con multa por el equivalente a cien a cinco mil días de salario mínimo vigente en la zona, será aplicable a los propietarios o poseedores de fuentes fijas, que:
+Se sancionará con multa por el equivalente a cien a cinco mil veces el valor diario de la Unidad de Medida y Actualización, será aplicable a los propietarios o poseedores de fuentes fijas, que:
 
 I. Incumplan con los requisitos, procedimientos y métodos de medición y análisis establecidos en las Normas Oficiales Mexicanas o en las condiciones particulares de descarga;
 
@@ -2379,9 +2387,11 @@ IX. No acaten las medidas que establezca la Secretaría y las demás autoridades
 
 X. Presten el servicio público de transporte de pasajeros o carga que no utilice las fuentes de energía, sistemas y equipos determinados por la Secretaría o las autoridades municipales correspondientes, para prevenir o minimizar sus emisiones contaminantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 182.
 
-Se sancionará con multa por el equivalente de cien a cinco mil días de salario mínimo vigente en la zona, a las personas físicas o morales que realicen servicio de verificación ambiental de fuentes móviles que:
+Se sancionará con multa por el equivalente de cien a cinco mil veces el valor diario de la Unidad de Medida y Actualización, a las personas físicas o morales que realicen servicio de verificación ambiental de fuentes móviles que:
 
 I. No mantengan sus instalaciones y equipos calibrados y en las condiciones de funcionamiento establecidas en las disposiciones aplicables;
 
@@ -2415,15 +2425,19 @@ XV. Que no realicen la verificación a fuentes móviles con apego al calendario 
 
 XVI. Use o entregue indebidamente constancias, calcomanías o documentos que acrediten la aprobación de la verificación de emisiones contaminantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 183.
 
-Se sancionará con multa por el equivalente de cuatrocientos a siete mil quinientos días de salario mínimo a la persona que:
+Se sancionará con multa por el equivalente de cuatrocientas a siete mil quinientas veces el valor diario de la Unidad de Medida y Actualización a la persona que:
 
 Realice actividades de mediano y bajo riesgo contraviniendo las medidas preventivas, de control o correctivas establecidas en las Normas Oficiales Mexicanas, para prevenir y controlar accidentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 184.
 
-Se considerará que incurre en ecocidio y se sancionará con multa de dos mil a veinte mil días de salario mínimo, a la persona que:
+Se considerará que incurre en ecocidio y se sancionará con multa de dos mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización, a la persona que:
 
 I. Ocupe, use, aproveche sin derecho un área natural protegida de la competencia del Estado de Morelos o sus Municipios;
 
@@ -2435,23 +2449,35 @@ III. Trafique, en los asuntos no reservados a la Federación, con una o más esp
 
 Los prestadores de los servicios en materia de impacto y riesgo ambiental cuyos informes, manifestaciones o estudios presentados a la Secretaría contengan información falsa o incorrecta u omitan la identificación de impactos, incompetencia serán sancionados con:
 
-I. Amonestación y multa de hasta 300 días de salario mínimo general vigente en el Estado de Morelos.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-II. Arresto de hasta treinta y seis horas y multa de hasta mil quinientos días de salario mínimo general vigente en el Estado de Morelos; y
+I. Amonestación y multa de hasta 300 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. La pérdida de su registro y multa de hasta mil días de salario mínimo general vigente en el Estado de Morelos.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+II.- Arresto de hasta treinta y seis horas y multa de hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+III.- La pérdida de su registro y multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización.
 
 Para la imposición de las sanciones a las que se refieren las fracciones II y III anteriores, se tomará en cuenta: la gravedad de la infracción y, en su caso, la reincidencia en que haya incurrido el infractor, así como, sus circunstancias económicas particulares, cuando se trate de sanción pecuniaria. En los casos en que sea demostrado que las infracciones referidas en este artículo hubieran sido incurridas por negligencia, mala fe o dolo, las sanciones mencionadas en las Fracciones I, II y III serán duplicadas.
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 185 Bis.
 
-Se sancionará con multa por equivalente de 1000 a 5000 días de salario mínimo general vigente en la zona, a los municipios que:
+Se sancionará con multa por equivalente de 1000 a 5000veces (sic) el valor diario de la Unidad de Medida y Actualización, a los municipios que:
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2005)</small>
 
 I. No realicen su ordenamiento ecológico local en los términos previstos en la presente Ley;
 
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2005)</small>
+
 II. No publiquen su ordenamiento ecológico local en los términos previstos en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2005)</small>
 
 III. No actualicen su ordenamiento ecológico local en los términos previstos en la presente Ley.
 
@@ -2505,9 +2531,13 @@ Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en é
 
 La Secretaría dará a los bienes decomisados alguno de los siguientes destinos:
 
-I. Venta directa en aquellos casos en que el valor de lo decomisado no exceda de 5,000 veces el salario mínimo general vigente en la zona al momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-II. Remate en subasta pública cuando el valor de lo decomisado exceda de 5,000 veces el salario diario mínimo general vigente en la zona al momento de imponer la sanción;
+I. Venta directa en aquellos casos en que el valor de lo decomisado no exceda de 5,000 veces el valor diario de la Unidad de Medida y Actualización al momento de imponer la sanción;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+II. Remate en subasta pública cuando el valor de lo decomisado exceda de 5,000 veces el valor diario de la Unidad de Medida y Actualización al momento de imponer la sanción;
 
 III. Donación a organismos públicos e instituciones científicas o de enseñanza superior o de beneficencia pública, según la naturaleza del bien decomisado y de acuerdo a las funciones y actividades que realice el donatario, siempre y cuando no sean lucrativas. Tratándose de especies y subespecies de flora y fauna silvestre, éstas podrán ser donadas a zoológicos públicos siempre que se garantice la existencia de condiciones adecuadas para su desarrollo, o
 
@@ -2900,3 +2930,15 @@ SEGUNDA. El presente Decreto entrará en vigor el día siguiente al de su public
 TERCERA. En un plazo no mayor a 180 días hábiles contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
 
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL QUINIENTOS TRES POR El QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 176, PÁRRAFO PRIMERO DEL ARTÍCULO 178, PÁRRAFO PRIMERO DEL ARTÍCULO 179, PÁRRAFO PRIMERO DEL ARTÍCULO 180, PÁRRAFO PRIMERO DEL ARTÍCULO 181, PÁRRAFO PRIMERO ARTÍCULO 182, PÁRRAFO PRIMERO DEL ARTÍCULO 183, PÁRRAFO PRIMERO DEL ARTÍCULO 184, FRACCIÓN I, II, III PÁRRAFO PRIMERO DEL ARTÍCULO 185, PÁRRAFO PRIMERO DEL ARTÍCULO 185 BIS, FRACCIONES I Y II DEL ARTÍCULO 192 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
