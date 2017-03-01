@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-victimas-del-estado-de-morelos-antes-ley-de-atencion-951
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2014-12-10"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2013.
 
@@ -1033,7 +1033,9 @@ a) La determinación del Ministerio Público cuando el responsable se haya sustr
 
 b) La resolución firme emitida por la autoridad judicial.
 
-La resolución de la Comisión Ejecutiva Estatal deberá dictarse dentro del plazo de noventa días contados a partir de la emisión de la resolución. El monto de la compensación subsidiaria a la que se podrá obligar al Estado será hasta de quinientas veces el salario mínimo vigente en el Estado, ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
+La resolución de la Comisión Ejecutiva Estatal deberá dictarse dentro del plazo de noventa días contados a partir de la emisión de la resolución. El monto de la compensación subsidiaria a la que se podrá obligar al Estado será hasta de quinientas veces el valor diario de la Unidad de Medida y Actualización, ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
 
 ###### ARTÍCULO 85.
 
@@ -1913,8 +1915,20 @@ SEGUNDA. Una vez emitida la Declaratoria de entrada en vigor del Código Naciona
 
 TERCERA. En su caso, las menciones que en otros ordenamientos permanezcan y se hagan de los Códigos de Procedimientos Penales que se abrogan por virtud de la disposición transitoria que antecede, se entenderán referidas al Código Nacional de Procedimientos Penales.
 
+P.O. 1 DE MARZO DE 2017.
+
 ### CAPÍTULO III. DE LAS MEDIDAS DE REHABILITACIÓN
 
 ### CAPÍTULO IV. DE LAS MEDIDAS DE INDEMNIZACIÓN O COMPENSACIÓN
 
 ### CAPÍTULO V. DE LAS MEDIDAS DE SATISFACCIÓN
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SESENTA Y SIETE POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DELO (SIC) ARTÍCULO 84 DE LA LEY DE ATENCIÓN Y REPARACIÓN A VÍCTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
