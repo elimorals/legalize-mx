@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-desarrollo-urbano-69875"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2016-07-22"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,9 @@ state: "MOR"
 ---
 # LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTIDÓS DE JULIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA, EL VEINTIDÓS DE JULIO DE DOS MIL DIECISÉIS, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2009.
 
@@ -1771,9 +1765,11 @@ El Gobierno del Estado y los ayuntamientos prestarán asesoría técnica y jurí
 
 El fraccionamiento de urbanización progresiva que desarrolle el Gobierno del Estado, Municipio o grupo de régimen agrario, deberá llevar a cabo el procedimiento de desincorporación del régimen ejidal o comunal, observando para tal efecto la legislación agraria vigente, los programas de desarrollo urbano sustentable vigentes, la presente Ley y el reglamento de fraccionamientos, condominios y conjuntos urbanos.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 172.
 
-Los lotes de los fraccionamientos de urbanización progresivos ejecutados por el Gobierno del Estado y los ayuntamientos, deberán ser ofertados a familias que no tengan vivienda propia y sus ingresos familiares no sean mayores a tres veces el salario mínimo vigente en el Estado, y se enajenarán mediante un sorteo con presencia de notario público.
+Los lotes de los fraccionamientos de urbanización progresivos ejecutados por el Gobierno del Estado y los ayuntamientos, deberán ser ofertados a familias que no tengan vivienda propia y sus ingresos familiares no sean mayores a tres veces el valor diario de la Unidad de Medida y Actualización, y se enajenarán mediante un sorteo con presencia de notario público.
 
 ### CAPÍTULO V. RÉGIMEN EN CONDOMINIO
 
@@ -2023,15 +2019,25 @@ En todos los casos que con motivo de la aplicación de la presente Ley y sus res
 
 Corresponde aplicar las siguientes sanciones a las infracciones que se establecen a continuación:
 
-I. Dar un uso distinto al autorizado o construir obras diferentes o con especificaciones distintas a las autorizadas; además del inmediato retiro o demolición de lo construido, se impondrá una multa equivalente de cinco al diez por ciento del valor de la obra ejecutada; en caso de no ser determinable, se les aplicará una multa equivalente de cuarenta, a mil quinientas veces el salario mínimo vigente;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-II. Realizar edificaciones de las que requieran autorización previa, sin haberla obtenido; además del inmediato retiro o demolición de lo construido, se les impondrá una multa equivalente del cinco al diez por ciento del valor de la obra ejecutada; en caso de no ser determinable, se les aplicará una multa equivalente de cien a mil quinientas veces el salario mínimo vigente;
+I. Dar un uso distinto al autorizado o construir obras diferentes o con especificaciones distintas a las autorizadas; además del inmediato retiro o demolición de lo construido, se impondrá una multa equivalente de cinco al diez por ciento del valor de la obra ejecutada; en caso de no ser determinable, se les aplicará una multa equivalente de cuarenta, a mil quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-III. No cumplir con la orden de suspender la construcción de una edificación o no cumplir con una medida de seguridad; se les aplicará una multa equivalente de ciento cincuenta a diez mil veces el salario mínimo vigente;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-IV. Llevar a efecto la apertura, ampliación, prolongación, rectificación o clausura de una vía pública, sin tener la autorización correspondiente; se les aplicará una multa equivalente de cuarenta a mil quinientas veces el salario mínimo vigente;
+II. Realizar edificaciones de las que requieran autorización previa, sin haberla obtenido; además del inmediato retiro o demolición de lo construido, se les impondrá una multa equivalente del cinco al diez por ciento del valor de la obra ejecutada; en caso de no ser determinable, se les aplicará una multa equivalente de cien a mil quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-V. No llevar a cabo las obras de urbanización o las especificadas en el proyecto autorizado; además de la ejecución de las fianzas otorgadas, se les impondrá por gastos de cobranza del cinco al diez por ciento de las obras no realizadas; en caso de no ser determinable, se les aplicará una multa equivalente de cien a mil quinientas veces el salario mínimo vigente, y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+III. No cumplir con la orden de suspender la construcción de una edificación o no cumplir con una medida de seguridad; se les aplicará una multa equivalente de ciento cincuenta a diez milveces (sic) el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+IV. Llevar a efecto la apertura, ampliación, prolongación, rectificación o clausura de una vía pública, sin tener la autorización correspondiente; se les aplicará una multa equivalente de cuarenta a mil quinientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+V. No llevar a cabo las obras de urbanización o las especificadas en el proyecto autorizado; además de la ejecución de las fianzas otorgadas, se les impondrá por gastos de cobranza del cinco al diez por ciento de las obras no realizadas; en caso de no ser determinable, se les aplicará una multa equivalente de cien a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, y
 
 VI. Las demás que establezcan los respectivos reglamentos.
 
@@ -2051,9 +2057,11 @@ V.- El beneficio directamente obtenido por el infractor por los actos que motive
 
 En el caso que el infractor de cumplimiento a las medidas de seguridad señaladas en el artículo 212, previamente a que la autoridad competente imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+
 ###### Artículo 209.
 
-Los notarios públicos o cualquier autoridad investidas de fe pública que en el ejercicio de sus funciones autoricen escrituras públicas o certificaciones de documentos en los que se consignen actos que contravengan lo dispuesto en esta Ley o sus reglamentos, se les impondrá como sanción una multa de cien a quinientas veces el salario mínimo vigente en el Estado.
+Los notarios públicos o cualquier autoridad investidas de fe pública que en el ejercicio de sus funciones autoricen escrituras públicas o certificaciones de documentos en los que se consignen actos que contravengan lo dispuesto en esta Ley o sus reglamentos, se les impondrá como sanción una multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 210.
 
@@ -2230,3 +2238,15 @@ TERCERA. En un plazo no mayor a 180 días hábiles contados a partir del día si
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 QUINTA. Se autoriza al Poder Ejecutivo Estatal, a través de la (sic) Secretarías de Hacienda y de Movilidad y Transporte, para que realice las acciones necesarias para la constitución de los fideicomisos a que se refiere el presente Decreto.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y UNO POR EL QUE SE REFORMA EL ARTÍCULO 172, FRACCIONES I, II, III, IV Y V DEL ARTÍCULO 207, 209 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
