@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-mejora-regulatoria-para-el-estado-de-morelos-58673"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-19"
-last_updated: "2014-03-05"
+last_updated: "2017-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2007.
 
@@ -39,7 +39,7 @@ LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO UBRE Y SOBERANO DE MORELOS
 
 CONSIDERANDO
 
-.
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -249,7 +249,7 @@ XI. Promover, organizar y participar en foros, seminarios y demás actividades o
 
 XII. Elaborar y publicar en el Periódico Oficial del Estado, un informe anual sobre el estado que guarda la mejora regulatoria en la entidad y sobre el desempeño de la Comisión, debiendo hacer del conocimiento del Congreso del Estado dicho informe;
 
-XIII. Interpretar en el ámbito administrativo la presente Ley; y (sic)
+XIII. Interpretar en el ámbito administrativo la presente Ley; y
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
 
@@ -399,7 +399,7 @@ El Órgano de Vigilancia formará parte de la estructura de la Comisión, sus ac
 
 Son atribuciones del Comisario Público:
 
-l. Evaluar la actividad general y funciones de la Comisión;
+I. Evaluar la actividad general y funciones de la Comisión;
 
 II. Realizará los estudios sobre la eficiencia con la cual se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como lo referente a los ingresos;
 
@@ -1007,7 +1007,9 @@ Las infracciones administrativas a las que se refiere el artículo anterior, ser
 
 I. Amonestación;
 
-II. Multa de 50 a 1000 días de salario mínimo vigente;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+II. Multa de 50 a 1000 veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Suspensión de 15 a 60 días del empleo, cargo o comisión;
 
@@ -1278,3 +1280,15 @@ Dentro del término de ciento veinte días naturales, siguientes a la entrada en
 ###### ARTÍCULO SEXTO.
 
 Las disposiciones del presente Decreto no contravienen lo establecido en los Convenios de Coordinación en materia de Mejora Regulatoria celebrados entre la Comisión y los Municipios con anterioridad a la entrada en vigor del mismo.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y OCHO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 71 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE MORELOS EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
