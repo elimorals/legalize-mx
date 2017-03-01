@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-proteccion-e-integracion-de-las-personas-7525
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-09"
-last_updated: "2015-06-03"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de junio de 2010.
 
@@ -535,7 +535,7 @@ I. Desarrollar los lineamientos, mecanismos e instrumentos para la organización
 
 II. Otorgar servicios de calidad y calidez a las personas adultas mayores, brindándoles una atención especializada en su salud física, mental, emocional y espiritual, ayudándoles a vivir con mayor dignidad, que les permita vivir con entusiasmo y alegría;
 
-III. Brindar alojamiento a las personas adultas mayores que por eventualidad hayan sido afectados por una contingencia o siniestro y se encuentren desprotegidos. otorgándoles un trato digno con calidad y respeto;
+III. Brindar alojamiento a las personas adultas mayores que por eventualidad hayan sido afectados por una contingencia o siniestro y se encuentren desprotegidos, otorgándoles un trato digno con calidad y respeto;
 
 IV. Fomentar la Participación de las personas adultas mayores en Congresos y Encuentros convocados por los DIF Nacionales, Estatales y Municipales, motivándolos a mantener un estilo de vida saludable a través del deporte, la cultura y la educación; proyectar a la sociedad una imagen positiva del proceso de envejecimiento y de la vejez misma y capacitación sobre el auto cuidado, así como a cuidadores primarios;
 
@@ -795,7 +795,9 @@ El incumplimiento a las disposiciones establecidas en esta Ley, se sancionarán 
 
 I. Amonestación;
 
-II. Multa de 30 a 180 días de salario mínimo general vigente en el Estado; si el infractor fuere jornalero, obrero o no asalariado, la multa será de un día de su jornal, salario o ingreso diario; la que podrá ser triplicada en caso de reincidencia;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+
+II. Multa de 30 a 180veces (sic) el valor diario de la Unidad de Medida y Actualización; si el infractor fuere jornalero, obrero o no asalariado, la multa será de un día de su jornal, salario o ingreso diario; la que podrá ser triplicada en caso de reincidencia;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2015)</small>
 
@@ -837,7 +839,7 @@ Los procedimientos se regirán conforme a los principios de inmediatez, concentr
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2015)</small>
 
-###### Articulo 52.
+###### Artículo 52.
 
 Toda persona que tenga conocimiento de que una persona adulta mayor se encuentra en cualquiera de los casos mencionados en el artículo 50 de la presente Ley, deberá comunicarlo en forma inmediata a la Procuraduría, sin perjuicio del derecho que le corresponde a la persona afectada, de hacerlo personalmente.
 
@@ -927,8 +929,20 @@ SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 
 P.O. 3 DE JUNIO DE 2015.
 
-PRIMERA. Remítase el presente decreto al Gobernador Constitucional del Estado, para los efectos previstos en los artículos 44, 47 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+PRIMERA. Remítase el presente decreto al Gobernador Constitucional del Estado, para los efectos previstos en los artículos 44, 47 y 70 fracción XVII, de la Constitución Política del Estado libre y Soberano de Morelos.
 
-SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado Libre y Soberano de Morelos.
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado libre y Soberano de Morelos.
 
 TERCERA. A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 1 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS SETENTA Y TRES POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 46 DE LA LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
