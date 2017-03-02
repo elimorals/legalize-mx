@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-comision-consultiva-estatal-de-seguridad-e-364
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-09-18"
-last_updated: "1988-09-18"
+last_updated: "2017-03-02"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,13 @@ state: "CAM"
 ---
 # REGLAMENTO DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL ESTADO LIBRE Y SOBERANO DE CAMPECHE
 
-REGLAMENTO DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL ESTADO LIBRE Y. SOBERANO DE CAMPECHE
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-TEXTO ORIGINAL.
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO, PUBLICADO EN EL P.O. DE 2 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]
+
+REGLAMENTO DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL ESTADO LIBRE Y SOBERANO DE CAMPECHE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017 (SIN EFECTOS).
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el domingo 18 de septiembre de 1988.
 
@@ -94,7 +98,7 @@ l.- Convocar a la Comisión a las sesiones ordinarias y extraordinarias.
 
 II.- Conceder al secretario técnico la facultad para realizar las convocatorias.
 
-III.-Encomendar a los miembros de la Comisión el estudio de asuntos específicos en materia de seguridad e higiene integrando grupos de trabajo.
+III.- Encomendar a los miembros de la Comisión el estudio de asuntos específicos en materia de seguridad e higiene integrando grupos de trabajo.
 
 IV.- Proponer programas de trabajo a desarrollar por la Comisión en beneficio de los factores de la producción previa aprobación de los mismos.
 
@@ -106,7 +110,7 @@ VII.- Nombrar a su suplente ante la Comisión consultiva.
 
 VIII.- Aprobar el calendario anual de sesiones.
 
-IX.-Proponer reformas al presente reglamento tendientes a optimizar el funcionamiento de la Comisión.
+IX.- Proponer reformas al presente reglamento tendientes a optimizar el funcionamiento de la Comisión.
 
 X.- Aquellas otras que la Comisión determine otorgarle.
 
@@ -299,3 +303,13 @@ Director del Trabajo y Previsión Social del Gobierno del Estado.
 Lic. Gonzalo Misset Wong
 
 Jefe de Programas de Apoyo al Aparato Productivo. Delegación Federal del Trabajo en el Estado.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO”.]
+
+Artículo Primero.- El presente Reglamento surtirá sus efectos a partir del 17 de marzo de 2016.
+
+Artículo Segundo.- Queda sin efectos el Reglamento Interior de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, el cual fue aprobado en la sesión ordinaria celebrada el veintidós de junio de mil novecientos ochenta y siete, y que entro en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado de Campeche el dieciocho de septiembre del año mil novecientos ochenta y ocho y todas aquellas disposiciones relativas a la integración y funcionamiento de la Comisión que se contrapongan al presente Reglamento.
