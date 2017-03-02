@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2017-02-16"
+last_updated: "2017-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -819,13 +819,17 @@ XI. Las estadísticas e indicadores relativos a la procuración de justicia;
 
 XII. El informe de los procedimientos administrativos de responsabilidad de los notarios en los que participe, una vez que hayan sido publicados en el Periódico Oficial "El Estado de Jalisco";
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
 
-XIII. El procedimiento para el otorgamiento de becas e incorporación de estudios en el ámbito estatal, así como el listado de resultados; y
+XIII. El procedimiento para el otorgamiento de becas e incorporación de estudios en el ámbito estatal, así como el listado de resultados;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
 
-XIV. La que establezca el Reglamento Interno de Información Pública del Poder Ejecutivo y la Administración Pública Estatal.
+XIV. La información relativa a la implementación del Presupuesto Participativo desde su planeación hasta su ejecución; y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2017)</small>
+
+XV. La que establezca el Reglamento Interno de Información Pública del Poder Ejecutivo y la Administración Pública Estatal.
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -1285,7 +1289,7 @@ XVI. El registro de los consejos consultivos ciudadanos, con indicación de la f
 
 XVII. El registro de las asociaciones de vecinos en el municipio, con indicación de la fecha de creación, nombre de las mismas, delimitación territorial que representan y datos generales de los miembros de sus directivas, así como de las uniones o federaciones en que se agrupen;
 
-XVIII. El registro público de bienes del patrimonio municipal;
+XVIII. El registró público de bienes del patrimonio municipal;
 
 XIX. La relación del personal y los inventarios de bienes afectos a cada uno de los servicios públicos municipales, con excepción del servicio de seguridad pública y policía preventiva;
 
@@ -1303,9 +1307,17 @@ XXIII. Los indicadores de evaluación del desempeño;
 
 XXIV. La estadística de asistencias y registro de votación de las sesiones del ayuntamiento, de las comisiones edilicias y de los consejos ciudadanos municipales, que contenga el nombre de los regidores y funcionarios que participan, el sentido del voto y, en su caso, los votos particulares;
 
-XXV. Los ingresos municipales por concepto de participaciones federales y estatales, así como por ingresos propios, que integre a la hacienda pública, y
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
 
-XXVI. La que establezca el Reglamento Interno de Información Pública del Municipio correspondiente.
+XXV. Los ingresos municipales por concepto de participaciones federales y estatales, así como por ingresos propios, que integre la hacienda pública;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
+
+XXVI. En su caso la información relativa a la implementación del Presupuesto Participativo desde su planeación hasta su ejecución; y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2017)</small>
+
+XXVII. La que establezca el Reglamento Interno de Información Pública del Municipio correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -4458,3 +4470,9 @@ P.O. 16 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26215/LXI/16 QUE REFORMA LOS ARTÍCULOS 103 Y 123 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26262/LXI/17 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS A LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO, LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
