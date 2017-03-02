@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2016-12-17"
+last_updated: "2017-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -1260,6 +1260,10 @@ X. La anuencia del titular, en caso de que así sea su voluntad, para que se le 
 XI. La Clave Única de Registro de Población.
 
 Para los efectos de la fracción X del presente artículo, el Ejecutivo del Estado celebrará los convenios de coordinación y colaboración con las dependencias competentes en la materia, a efecto de llevar dicho trámite.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2017)</small>
+
+Con relación a su domicilio, los ciudadanos podrán optar entre solicitar que aparezca visible en el formato de su licencia o permiso, o de manera oculta, conforme a los mecanismos que determine la Secretaría.
 
 ###### Artículo 59.
 
@@ -3927,10 +3931,20 @@ CUARTO. Los talleres acreditados dentro del actual "Programa de Verificación Ve
 
 P.O. 17 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 25924/LXI/16 QUE REFORMA LOS ARTÍCULOS 35, 94 Y 129 Y LA DENOMINACIÓN DEL CAPÍTULO XII DEL TÍTULO V, DEROGA LOS ARTÍCULOS 150, 151, 152 Y 153 Y ADICIONA LOS ARTÍCULOS 153-A, 153-B, 153-C Y 153-D DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 25924/LXI/16 QUE REFORMA LOS ARTÍCULOS 35, 94 Y 129 Y LA DENOMINACIÓN DEL CAPÍTULO XII DEL TÍTULO V, DEROGA LOS ARTÍCULOS 150, 151, 152 Y 153 Y ADICIONA LOS ARTÍCULOS 153-A, 153-B, 153-C Y 153-D DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. El Ejecutivo del Estado deberá adecuar sus reglamentos y disposiciones de carácter técnico, administrativo y normativo pertinentes.
 
 TERCERO. El Comité de (sic) Técnico de Validación en su primera sesión del presente año utilizará el catálogo autorizado por la Comisión de Tarifas que el presente decreto extingue para la fijación de las tarifas.
+
+P.O. 2 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26281/LXI/17 QUE REFORMA EL ARTÍCULO 58 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las reformas aprobadas por el presente decreto serán aplicables a las licencias o permisos de nueva tramitación, expedición o refrendo.
+
+TERCERO. Las autoridades competentes deberán adecuar su reglamentación, expedir las normas mínimas, así como realizar las adecuaciones técnicas para expedir la nueva licencia de conducir, conforme lo previsto en este decreto, en un plazo no mayor a ciento ochenta días naturales.
