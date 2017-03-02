@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-victimas-del-estado-de-jalisco-99255"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2016-10-11"
+last_updated: "2017-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A VICTIMAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL P.O. DE 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 27 de febrero de 2014.
 
@@ -349,7 +347,9 @@ Esta obligación comprende la realización de las exhumaciones de cementerios, f
 
 Los familiares de las víctimas tienen el derecho a estar presentes en las exhumaciones, por sí y/o a través de sus asesores jurídicos; a ser informadas sobre los protocolos y procedimientos que serán aplicados; y a designar peritos independientes, acreditados ante organismo estatal, nacional o internacional de protección a los derechos humanos, que contribuyan al mejor desarrollo de las mismas.
 
-Una vez plenamente identificados y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta Ley y en el Código de Procedimiento (sic) Penales para el Estado, la entrega de los cuerpos u osamentas de las víctimas a sus familiares, deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Los servidores públicos competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar los restos de las víctimas ya identificados, de conformidad con lo que establezca el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2017)</small>
+
+Una vez plenamente identificados y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta Ley y en el Código Nacional de Procedimientos Penales, la entrega de los cuerpos u osamentas de las víctimas a sus familiares, deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Los servidores públicos competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar los restos de las víctimas ya identificados, de conformidad con lo que establezca el reglamento de esta Ley.
 
 En caso necesario, a efecto de garantizar las investigaciones, el servidor público competente deberá notificar a los familiares la obligación de no cremar los restos, hasta en tanto no se ejecute una sentencia. El Ministerio Público no podrá autorizar ninguna solicitud de gobierno extranjero para la cremación de cadáveres, identificados o sin identificar, en tanto no se dicte sentencia que cause ejecutoriada (sic).
 
@@ -381,7 +381,9 @@ Las organizaciones de la sociedad civil, tales como asociaciones profesionales, 
 
 Las autoridades competentes están obligadas a la preservación de los archivos relativos a los delitos o las violaciones de los derechos humanos así como a respetar y garantizar el derecho de acceder a los mismos, con la finalidad de proteger la integridad de las víctimas.
 
-El Estado tiene el deber de garantizar la preservación de dichos archivos y de impedir su sustracción, destrucción, simulación o falsificación, así como de permitir su consulta pública, particularmente en interés de las víctimas y sus familiares con el fin de garantizar el pleno ejercicio de sus derechos; en los términos que establece la Ley de Información Pública del Estado de Jalisco y sus Municipios, y sujetándose a las sanciones previstas por la Ley de Responsabilidades para los Servidores Públicos del Estado de Jalisco y sus Municipios, así como el Código Penal y de Procedimientos Penales del Estado.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2017)</small>
+
+El Estado tiene el deber de garantizar la preservación de dichos archivos y de impedir su sustracción, destrucción, simulación o falsificación, así como de permitir su consulta pública, particularmente en interés de las víctimas y sus familiares con el fin de garantizar el pleno ejercicio de sus derechos; en los términos que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, y sujetándose a las sanciones previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, así como el Código Penal para el Estado Libre y Soberano de Jalisco y Código Nacional de Procedimientos Penales.
 
 Cuando la consulta de los archivos persiga favorecer la investigación histórica, las formalidades de autorización tendrán por única finalidad salvaguardar la integridad y la seguridad de las víctimas y de otras personas y, en ningún caso, podrán aplicarse las formalidades de autorización con fines de censura.
 
@@ -1295,7 +1297,9 @@ V. Las demás aplicables a la materia, que les conceda la Ley u otros ordenamien
 
 Corresponde al Ministerio Público, además de los deberes establecidos en el presente ordenamiento, lo siguiente:
 
-I. Informar a la víctima, desde el momento en que se presente o comparezca ante él, los derechos que le otorga la Constitución General, la Local y los Tratados Internacionales, el código penal y procesal penal del Estado y las demás disposiciones aplicables, así como el alcance de esos derechos, debiendo dejar constancia escrita de la lectura y explicación realizada;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
+
+I. Informar a la víctima, desde el momento en que se presente o comparezca ante él, los derechos que le otorga la Constitución General, la Local y los Tratados Internacionales, el Código Penal para el Estado Libre y Soberano de Jalisco, Código Nacional de Procedimientos Penales y las demás disposiciones aplicables, así como el alcance de esos derechos, debiendo dejar constancia escrita de la lectura y explicación realizada;
 
 II. Dar cumplimiento, en su ámbito de competencia, a sus deberes consagrados en la presente Ley, su Reglamento y demás ordenamientos aplicables;
 
@@ -1359,7 +1363,9 @@ VII. Utilizar los mecanismos locales, nacionales e internacionales a fin de brin
 
 Además de los deberes establecidos para todo servidor público, y las disposiciones específicas contempladas en los ordenamientos respectivos, a los miembros de las corporaciones policiacas del Estado y sus municipios, en el ámbito de su competencia, les corresponde:
 
-I. Informar a la víctima, desde el momento en que se presente o comparezca ante él, los derechos que le otorga la Constitución General, la Local y los Tratados Internacionales, la Ley General, la presente Ley, el código penal y procesal penal del Estado y las demás disposiciones aplicables, así como el alcance de esos derechos, debiendo dejar constancia escrita de la lectura y explicación realizada, cuando la situación lo permita;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
+
+I. Informar a la víctima, desde el momento en que se presente o comparezca ante él, los derechos que le otorga la Constitución General, la Local y los Tratados Internacionales, la Ley General, la presente Ley, el Código Penal para el Estado Libre y Soberano de Jalisco y del Código Nacional de Procedimientos Panales (sic) y las demás disposiciones aplicables, así como el alcance de esos derechos, debiendo dejar constancia escrita de la lectura y explicación realizada cuando la situación lo permita;
 
 II. Colaborar con los tribunales de justicia, el ministerio público, Fiscalía General, la Contraloría del Estado y demás autoridades en todas las actuaciones policiales donde existan conductas victimizantes y para el efecto sean requeridas;
 
@@ -1388,6 +1394,8 @@ IV. Cuando tenga acceso a información reservada, respetar y guardar la confiden
 Todo empleador de una víctima, sea público o privado, deberá permitir y respetar que la misma haga uso de los mecanismos, acciones y procedimientos reconocidos para hacer efectivos sus derechos y garantías.
 
 ## TÍTULO OCTAVO. FONDO DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE MARZO DE 2017)</small>
 
 ### Capítulo I. Objeto e Integración
 
@@ -1443,7 +1451,9 @@ El Estado ejercerá el procedimiento económico coactivo para hacer efectiva la 
 
 El Reglamento precisará el funcionamiento, alcance y criterios específicos de asignación de recursos del Fondo.
 
-### Capítulo III (sic). Del Procedimiento para el Acceso a los Recursos del Fondo
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 2 DE MARZO DE 2017)</small>
+
+### Capítulo II. Del Procedimiento para el Acceso a los Recursos del Fondo
 
 ###### Artículo 103.
 
@@ -1495,7 +1505,9 @@ IV. El número y la edad de los dependientes económicos, y
 
 V. Los recursos disponibles en el Fondo.
 
-### Capítulo IV. De la Reparación
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 2 DE MARZO DE 2017)</small>
+
+### Capítulo III. De la Reparación
 
 ###### Artículo 109.
 
@@ -1650,3 +1662,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26283/LXI/17 QUE REFORMAN (SIC) LOS ARTÍCULOS 14, 17, 89, Y 92; Y EL CAPITULADO DEL TÍTULO OCTAVO DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
