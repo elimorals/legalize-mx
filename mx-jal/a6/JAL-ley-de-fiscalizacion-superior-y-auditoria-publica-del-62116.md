@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-auditoria-publica-del-62116"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-05"
-last_updated: "2016-12-01"
+last_updated: "2017-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORIA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 1 DE DICIEMBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 26 DE NOVIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 5 de julio de 2008.
 
@@ -987,9 +985,17 @@ IV. Que los programas y su ejecución se hayan desempeñado con eficiencia, efic
 
 V. Las responsabilidades, que en su caso, haya lugar;
 
-VI. En el caso del gasto público estatal, que la orientación de éste se haya realizado con proporcionalidad y orientado estratégicamente de las regiones del Estado de Jalisco, y
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
 
-VII. Las sanciones que corresponda imponer a las autoridades competentes, en los términos de esta ley.
+VI. En el caso del gasto público estatal, que la orientación de éste se haya realizado con proporcionalidad y orientado estratégicamente de las regiones del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MARZO DE 2017)</small>
+
+VII. Que el gasto derivado del Presupuesto Participativo que llegue a ejercerse y se ejecute en los términos del resultado de la consulta; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE MARZO DE 2017)</small>
+
+VIII. Las sanciones que corresponda imponer a las autoridades competentes, en los términos de esta ley.
 
 ###### Artículo 61.
 
@@ -1622,3 +1628,9 @@ P.O. 26 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25908/LXI/16 QUE REFORMA EL ARTÍCULO 51 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26262/LXI/17 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS A LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO, LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
