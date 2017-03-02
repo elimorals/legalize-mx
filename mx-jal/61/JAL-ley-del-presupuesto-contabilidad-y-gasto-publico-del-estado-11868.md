@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2016-11-26"
+last_updated: "2017-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -119,13 +119,17 @@ XVI. LGCG: Ley General de Contabilidad Gubernamental;
 
 XVII. CONAC: Consejo Nacional de Armonización Contable;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
 
-XVIII. CACEJ: Consejo de Armonización Contable del Estado de Jalisco; y
+XVIII. CACEJ: Consejo de Armonización Contable del Estado de Jalisco;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
 
-XIX. Entes públicos: Los poderes Ejecutivo, Legislativo y Judicial; los órganos constitucionalmente autónomos y las entidades de la administración pública paraestatal.
+XIX. Entes públicos: Los poderes Ejecutivo, Legislativo y Judicial; los órganos constitucionalmente autónomos y las entidades de la administración pública paraestatal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MARZO DE 2017)</small>
+
+XX. Presupuesto participativo: instrumento mediante el cual la ciudadanía define el destino de un porcentaje del presupuesto destinado para inversión pública.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1007,7 +1011,7 @@ Para los efectos del Presupuesto, la Deuda Pública comprende las obligaciones p
 
 ###### Artículo 75.
 
-Las obligaciones por compromisos contraidos durante un ejercicio fiscal, sin considerar a la Deuda Pública, que hayan sido autorizadas y devengadas en el mismo, pero que no fuesen saldadas durante dicho término, se podrán pagar durante los primeros 60 días del siguiente ejercicio fiscal, siempre y cuando tales erogaciones se hagan con cargo al primero y se reúnan los requisitos siguientes:
+Las obligaciones por compromisos contraídos durante un ejercicio fiscal, sin considerar a la Deuda Pública, que hayan sido autorizadas y devengadas en el mismo, pero que no fuesen saldadas durante dicho término, se podrán pagar durante los primeros 60 días del siguiente ejercicio fiscal, siempre y cuando tales erogaciones se hagan con cargo al primero y se reúnan los requisitos siguientes:
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1545,8 +1549,14 @@ PRIMERO. El presente decreto entrará en vigor a partir del día 1° de enero de
 
 SEGUNDO. La fracción I del artículo 29 Bis de esta Ley, entrara en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
 
-Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afin, estarán exentos del cumplimiento de lo dispuesto en el artículo 29 Bis de esta Ley hasta el 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 29 Bis de esta Ley hasta el 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
 
 Las nuevas leyes federales o reformas a las mismas, a que se refiere el último párrafo de la fracción a que se refiere el presente transitorio serán aquéllas que se emitan con posterioridad a la entrada en vigor de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 TERCERO. El porcentaje a que se refiere el artículo 28 de esta Ley, relativo a los adeudos del ejercicio fiscal anterior del Poder Ejecutivo, será del 5 por ciento para el ejercicio fiscal 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+P.O. 2 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26262/LXI/17 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS A LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO, LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
