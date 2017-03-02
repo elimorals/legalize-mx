@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-agua-potable-y-alcantarillado-de-chapala-202
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-27"
-last_updated: "1997-03-27"
+last_updated: "2017-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE CHAPALA, JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017.
 
 Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 27 de marzo de 1997.
 
@@ -135,7 +135,9 @@ XII. Resolver sobre las solicitudes para la prestación de los servicios de agua
 
 XIII. Ejercer la vigilancia general que los servicios demanden y tomar las medidas necesarias para su conservación y reparación resolviendo lo relativo a sus mejoras y ampliaciones;
 
-XIV. Promover ante el Ayuntamiento de Chapala, Jalisco, cuando se ejercite la facultad económica-coactiva, el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal, o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de Finanzas de la Entidad, se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos a través de sus oficinas de Recaudación Fiscal competentes;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2017)</small>
+
+XIV. Promover ante el Ayuntamiento de Chapala, Jalisco, cuando se ejercite la facultad económica-coactiva, el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos como créditos fiscales, en los términos de la Ley de Hacienda Municipal, o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de Planeación, Administración y Finanzas del Estado de Jalisco, se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos a través de sus oficinas de Recaudación Fiscal competentes;
 
 XV. Vigilar el cumplimiento de las disposiciones de esta ley y su reglamento, por parte de los usuarios de los servicios, a través de su Director General y las dependencias que se determinen;
 
@@ -231,9 +233,11 @@ Los Notarios deberán abstenerse de autorizar y los encargados del Registro Púb
 
 De igual manera estarán obligados a dar aviso por escrito a la dirección General del Sistema, de todas las operaciones que impliquen transmisión de dominio de inmuebles y que se instrumenten en sus respectivas Notarias para los efectos del debido control de usuarios.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
-Los Notarios Públicos, en ejercicio tendrán igualmente la obligación de cerciorarse, en los casos de trámites efectuados con base en la Ley de Desarrollo Urbano del Estado de Jalisco en vigor; cuando intervengan en cualquier acto jurídico derivado de la ampliación de la propia ley, de que los inmuebles materia del nuevo fraccionamiento, se encuentren al corriente en el pago que corresponda por agua potable y alcantarillado.
+Los Notarios Públicos, en ejercicio tendrán igualmente la obligación de cerciorarse, en los casos de trámites efectuados con base en el Código Urbano para el Estado de Jalisco, en vigor; cuando intervengan en cualquier acto jurídico derivado de la ampliación de la propia ley, de que los inmuebles materia del nuevo fraccionamiento, se encuentren al corriente en el pago que corresponda por agua potable y alcantarillado.
 
 ###### ARTÍCULO 20.
 
@@ -292,3 +296,11 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26276/LXI/17 QUE REFORMAN (SIC) LOS ARTÍCULOS 9 Y 19 DE LA LEY DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE CHAPALA, JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
