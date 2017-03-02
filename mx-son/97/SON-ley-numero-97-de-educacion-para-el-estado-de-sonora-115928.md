@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2016-12-26"
+last_updated: "2017-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MARZO DE 2017.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -237,9 +237,17 @@ XX.- Difundir los derechos y deberes de niños, niñas y adolescentes y las form
 
 XXI.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo;
 
-XXII.- Impartir educación preventiva al uso de drogas, alcohol y tabaco, ésta se entenderá como la instrucción de los conocimientos necesarios para adquirir una formación y los valores adecuados que resulten en un rechazo informado a cualquier tipo de adicción, una cultura de denuncia del consumo de sustancias ilícitas y una conciencia integral del cuidado de la salud física y psicológica; y
+> <small>(REFORMADA, B.O. 2 DE MARZO DE 2017)</small>
 
-XXIII.- Promover el desarrollo de las aptitudes, las capacidades, las destrezas, las habilidades y los valores de los individuos, que les permita construir sus vocaciones, así como perfilar un futuro profesional con mayores oportunidades.
+XXII.- Impartir educación preventiva al uso de drogas, alcohol y tabaco, ésta se entenderá como la instrucción de los conocimientos necesarios para adquirir una formación y los valores adecuados que resulten en un rechazo informado a cualquier tipo de adicción, una cultura de denuncia del consumo de sustancias ilícitas y una conciencia integral del cuidado de la salud física y psicológica;
+
+> <small>(REFORMADA, B.O. 2 DE MARZO DE 2017)</small>
+
+XXIII.- Promover el desarrollo de las aptitudes, las capacidades, las destrezas, las habilidades y los valores de los individuos, que les permita construir sus vocaciones, así como perfilar un futuro profesional con mayores oportunidades; y
+
+> <small>(ADICIONADA, B.O. 2 DE MARZO DE 2017)</small>
+
+XXIV.- Promover y difundir la participación en los programas gubernamentales que se lleven a cabo para prevenir, atender y dar seguimiento a todos los casos de ausentismo y deserción escolar de las niñas y los niños, para lograr su reintegración y permanencia en el sistema estatal de educación básica.
 
 ###### ARTÍCULO 19.
 
@@ -329,7 +337,9 @@ XXI.- Fomentar y difundir las actividades artísticas, culturales, físico depor
 
 XXII.- Vigilar que en las instituciones particulares con autorización o reconocimiento de validez oficial de estudios, los equipos de cómputo que utilicen los estudiantes de educación básica, cuenten con las soluciones tecnológicas adecuadas para impedir el acceso a sitios de Internet con contenido sexual no educativo, así como evitar que los menores sean objeto a través de estos equipos de solicitudes de imágenes, propias o de otros menores, que puedan ser utilizadas para fines sexuales;
 
-XXIII.- Fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación de la Entidad, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento, atendiendo los lineamientos que para tal fin emita la autoridad educativa federal;
+> <small>(REFORMADA, B.O. 2 DE MARZO DE 2017)</small>
+
+XXIII.- Fomentar el buen uso, de manera responsable y segura, tanto en el hogar, la escuela y en los espacios públicos con conectividad, de las herramientas tecnológicas de la información y la comunicación, fomentando, a la vez, la interacción personal, con especial atención a la convivencia familiar, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento, atendiendo los lineamientos que para tal fin emita la autoridad educativa federal;
 
 XXIV.- Distribuir geográficamente los servicios educativos, procurando beneficiar al mayor número de alumnos, atendiendo a la demanda educativa y a la capacidad instalada;
 
@@ -869,9 +879,17 @@ III.- Establecer y fortalecer los sistemas de educación a distancia que determi
 
 IV.- Apoyar y desarrollar programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus docentes, para lo cual se aprovechará la capacidad escolar instalada en horarios y días en que no se presten los servicios educativos ordinarios;
 
-V.- Realizar las demás actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos; y
+> <small>(REFORMADA, B.O. 2 DE MARZO DE 2017)</small>
 
-VI.- Establecer, de forma paulatina y conforme a la suficiencia presupuestal y los apoyos federales, escuelas de tiempo completo, con jornadas de entre seis y ocho horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural.
+V.- Realizar las demás actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos;
+
+> <small>(REFORMADA, B.O. 2 DE MARZO DE 2017)</small>
+
+VI.- Establecer, de forma paulatina y conforme a la suficiencia presupuestal y los apoyos federales, escuelas de tiempo completo, con jornadas de entre seis y ocho horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural; y
+
+> <small>(ADICIONADA, B.O. 2 DE MARZO DE 2017)</small>
+
+VII.- Prevenir, atender y dar seguimiento a todos los casos de ausentismo y deserción escolar de las niñas, niños, adolescentes y jóvenes, para lograr su reintegración inmediata al sistema estatal de educación básica, en términos de lo dispuesto por la Ley del Sistema Integral para Erradicar el Ausentismo y la Deserción en la Educación Básica y Media Superior Públicas en el Estado de Sonora.
 
 ###### ARTÍCULO 78.
 
@@ -1128,3 +1146,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los noventa días naturales a partir de que el presente Decreto entre en vigor, la Secretaría deberá emitir las disposiciones reglamentarias en relación al presente Decreto.
+
+B.O. 2 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 95, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 2 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 98, QUE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 24 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
