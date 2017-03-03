@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2016-del-pleno-del-consejo-de-la-113119"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-26"
-last_updated: "2016-06-17"
+last_updated: "2017-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113119&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-02-18"
 
 ACUERDO GENERAL 3/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS ORIENTE, SUR Y NORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MARZO DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 26 de febrero de 2016.
 
@@ -102,6 +102,14 @@ Los Centros contarán con la plantilla laboral autorizada, y la Administración 
 ###### Artículo 5.
 
 Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 8 y 9, del Acuerdo General 39/2016, del Pleno del Consejo de la Judicatura Federal, por el que se crean Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MARZO DE 2017)</small>
+
+Asimismo serán competentes para conocer de los procedimientos a que se refiere el párrafo anterior, cuando se sigan por los delitos mencionados en los artículos 2°, 4° y 5° fracción V, del Código Penal Federal, cuando el imputado se hallare en el extranjero.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MARZO DE 2017)</small>
+
+Adicionalmente, conocerán de los procedimientos de extradición cuando se desconozca el paradero del reclamado.
 
 ###### Artículo 6.
 
@@ -312,3 +320,11 @@ Los juzgados de Distrito con residencia en la Ciudad de México ejercerán juris
 Derogado.
 
 II. a XXXIII. …”.
+
+D.O.F. 3 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES ADSCRITOS A LOS CENTROS DE JUSTICIA PENAL FEDERAL PARA CONOCER DE DELITOS COMETIDOS EN EL EXTRANJERO Y EXTENSIONES DEL TERRITORIO NACIONAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
