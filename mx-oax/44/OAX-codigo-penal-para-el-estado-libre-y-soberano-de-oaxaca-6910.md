@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2016-10-03"
+last_updated: "2017-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>[N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4837,9 +4835,9 @@ IV.- Cuando el aborto se deba a causas eugenésicas graves según el previo dict
 
 Abandono de personas.
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2017)</small>
 
-317.- A quien abandone a un menor a otra persona cualquiera, incapaz de cuidarse a si mismo, o a un enfermo, teniendo obligación de cuidarlos, se le aplicarán de dos a seis años de prisión, privándolo, además de la patria potestad o tutela, si el inculpado fuera ascendiente o tutor de la persona ofendida. Si resultara daño alguno, se aplicarán las reglas de la acumulación.
+317.- A quien abandone a un niño o niña, a persona con discapacidad, persona adulta mayor, a un enfermo u otra persona cualquiera, teniendo obligación de cuidarlos, se le aplicarán de cinco a ocho años de prisión, privándolo, además de la patria potestad, tutela y derechos hereditarios que le corresponda, si el inculpado fuera ascendiente, descendientes o tutor de la persona ofendida. Si resultara daño alguno, se aplicarán las reglas de la acumulación.
 
 318.- (DEROGADO, P.O. 30 DE ENERO DE 2016)
 
@@ -5821,6 +5819,10 @@ VI. Violencia contra los derechos reproductivos: A toda acción u omisión que l
 
 405.- A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
 
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2017)</small>
+
+La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo; en los casos en que la violencia se ejerza en contra de personas adultas mayores o en contra de persona con discapacidad.
+
 En ningún caso se entenderá como tratamiento o rehabilitación, la violencia hacia persona alguna con trastorno mental, ni como forma de educación o formación hacia los menores de edad.
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
@@ -6524,5 +6526,11 @@ P.O. 3 DE OCTUBRE DE 2016.
 P.O. 3 DE OCTUBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2026.- MEDIANTE EL CUAL SE ADICIONA, EL TÍTULO VIGÉSIMO QUINTO DENOMINADO “DELITOS CONTRA LA LIBERTAD DE EXPRESIÓN” Y LOS ARTÍCULOS 424 Y 425 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 568.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
