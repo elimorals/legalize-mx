@@ -4,7 +4,7 @@ identifier: "SON-ley-de-asistencia-social-8480"
 country: "mx"
 rank: "ley"
 publication_date: "1986-06-16"
-last_updated: "2013-12-19"
+last_updated: "2017-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE MARZO DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 16 de junio de 1986.
 
@@ -255,9 +255,17 @@ XVI.- Poner a disposición del Ministerio Público los elementos a su alcance, e
 
 XVII.- Participar en la ejecución de programas de rehabilitación y educación especial.
 
-XVIII.- Procurar permanentemente la adecuación de los objetivos de los programas a cargo del Organismo, con los que se lleven a cabo en el Sistema Nacional para el Desarrollo Integral de la Familia, en el marco de los Sistemas Nacional y Estatal de Salud; y
+> <small>(REFORMADA, B.O. 3 DE MARZO DE 2017)</small>
 
-XIX.- Las demás que establezcan las normas aplicables en la materia.
+XVIII.- Procurar permanentemente la adecuación de los objetivos de los programas a cargo del Organismo, con los que se lleven a cabo en el Sistema Nacional para el Desarrollo Integral de la Familia, en el marco de los Sistema (sic) Nacional y Estatal de Salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 3 DE MARZO DE 2017)</small>
+
+XIX.- Transferir la operatividad integral junto con los recursos financieros correspondientes del programa de apoyo al sector social a instituciones de asistencia privada, de asociaciones civiles, fundaciones y de organizaciones de la sociedad civil que garanticen capacidad profesional, técnica y conocimiento social que permita el crecimiento del sector sin distingo de región o tema a favor de los derechos sociales y siempre que dichos entes privados proporcionen gratuitamente servicios de asistencia social a la población del Estado, sin que el Organismo pierda la rectoría de los mismos; para tal efecto y atendiendo a la eficiencia administrativa podrá auxiliarse de la Secretaría de Desarrollo Social del Estado, para llevar a cabo actividades de supervisión y/o representación en los órganos colegiados que se determine conformar para ese objeto, previo Convenio de Colaboración entre ambos entes públicos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 3 DE MARZO DE 2017)</small>
+
+XX.- Las demás que establezcan las normas aplicables en la materia.
 
 ###### ARTICULO 15.
 
@@ -557,19 +565,33 @@ V.- Otras actividades que coadyuven a la protección de la salud.
 
 ### CAPÍTULO V. DE LOS APOYOS FINANCIEROS A LAS INSTITUCIONES
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 3 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 48.
 
-El Gobierno del Estado, a través del Organismo, retribuirá con apoyos financieros, bajo un esquema de equidad y transparencia, la ayuda que las Organizaciones de la Sociedad Civil brindan a la población más vulnerable del Estado, de conformidad con lo dispuesto por el presupuesto de egresos autorizado por el Congreso del Estado.
+Para efectos de cumplir con las funciones a que se refiere la fracción XIX del artículo 14 de esta Ley, el Organismo podrá convocar o recibir las propuestas de aquellas instituciones de asistencia privada, de asociaciones civiles, fundaciones y de organizaciones de la sociedad civil que pretendan operar alguno de los programas específicos, en donde expondrán mediante solicitud por escrito la viabilidad técnica operativa del ente solicitante para ejecutar el programa, así como los beneficios sociales que pretende alcanzar y la descripción de los objetivos, proyectos y planes que implementarán, en caso de ser, autorizados.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+Es requisito de procedibilidad que las instituciones de asistencia privada, asociaciones civiles, fundaciones y organizaciones de la sociedad civil deben estar legalmente constituidas. Tampoco podran ser autorizadas aquellas que operen directamente un proyecto que limite la objetividad de la actuación de dicho (sic) organización.
+
+El Organismo, previa autorización de su Junta de Gobierno, tendrá la facultad de determinar si operativamente es viable o no transferir un programa de forma total o parcial, para ello, emitirá resolución administrativa en la que expondrá el fundamento, los motivos y razones de su determinación. Cuando se invoque por el Organismo que existe capacidad operativa de éste para continuar con la operación del programa, el mismo será causa suficiente para tener por negada la solicitud.
+
+Cuando resulte procedente, el Organismo emitirá acuerdo de transferencia donde expondrá su determinación, así como las reglas de operación a observar, las obligaciones y facultades, y las condiciones generales o específicas que deberá atender la institución de asistencia privada, la asociación civil o la organización de la sociedad civil que resulte aprobada.
+
+El Organismo podrá revocar la transferencia en la operación de un Programa cuando, a su juicio, existan o se presenten situaciones o acontecimientos que puedan poner en riesgo a la población a quien va dirigido el programa o cuando el Organismo puede (sic) resultar afectado administrativa y financieramente.
+
+La Secretaría de Hacienda, deberá transferir bajo los mecanismos que estime adecuados, los recursos que correspondan al programa transferido por el Organismo, que hayan sido aprobados en el presupuesto operativo anual dentro de la Asignación estatal directa y corresponderá a esta Secretaría la captación de aquellos que resulten de la aplicación prevista en el artículo 218 bis de la Ley de Hacienda del Estado. La institución de asistencia privada, la asociación civil, fundación o la organización de la sociedad civil que resulte aprobada para operar un programa, deberá registrar un enlace administrativo para implementar la recepción de los recursos, donde se levantará constancia administrativa debiéndola suscribir, junto con ésta, el Organismo, la Secretaría de Salud y, cuando exista convenio a que se refiere la fracción XIX del artículo 14 de esta Ley, la Secretaría de Desarrollo Social del Estado.
+
+La institución de asistencia privada, la asociación civil, fundación o la organización de la sociedad civil que resulte aprobada para operar algún Programa, estará obligada a presentar un informe financiero anual de los recursos que le hayan sido asignados, así como los resultados de la operatividad del Programa que haya sido transferido. El informe se presentará por triplicado a la Secretaría de Hacienda, el Organismo y su Junta de Gobierno.
+
+> <small>(REFORMADO, B.O. 3 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 49.
 
-Para efectos de lo dispuesto en el artículo anterior, el Gobierno del Estado podrá realizar aportaciones paritarias, con base en los índices de vulnerabilidad previamente definidos para los municipios del Estado de Sonora, entendiéndose por éstas las que realice hasta por la misma cantidad del monto recaudado anual para los programas que presenten las Organizaciones de la Sociedad Civil que haya sido aportado por fundaciones, empresas, sociedad civil y personas físicas, ubicadas y radicadas en el Estado de Sonora, para la realización de obras y acciones asistenciales.
+El Gobierno del Estado, a través del Organismo, retribuirá con apoyos financieros bajo un esquema de equidad y transparencia, la ayuda que las Organizaciones de la Sociedad Civil brindan a la población más vulnerable del Estado, de conformidad a lo dispuesto por el presupuesto de egresos autorizado por el Congreso del Estado.
 
-Las aportaciones financieras a que se refiere el párrafo anterior se harán en forma directa, a través de convenios de operación que se celebren entre el Organismo y las Organizaciones de la Sociedad Civil que resulten beneficiarias, según el fallo de la convocatoria respetiva, sin que medien terceras personas o alguna otra institución que pudiera fungir como intermediaria.
+Para efectos de lo dispuesto en el párrafo anterior, el Gobierno del Estado podrá realizar aportaciones paritarias, con base en los índices de vulnerabilidad previamente definidos para los municipios del Estado de Sonora, entendiéndose por estas, las que realice hasta por la misma cantidad del monto recaudado anual para los programas que presentan las Organizaciones de la Sociedad Civil que haya sido aportado por fundaciones, empresas, sociedad civil y personas físicas, ubicadas y radicadas en el Estado de Sonora, para la realización de obras y acciones asistenciales.
+
+Las aportaciones financieras a que se refiere el párrafo anterior, se harán en forma directa a través de Convenios de Operación que se celebren entre el Organismo y las Organizaciones de la Sociedad Civil que resulten beneficiarias, según el fallo de la convocatoria respectiva, sin que medien terceras personas o alguna otra institución que pudiera fungir como intermediaria.
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -646,3 +668,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo Estatal deberá expedir el reglamento para la operación y funcionamiento del esquema de aportación de apoyo financiero del Gobierno del Estado a las Organizaciones de la Sociedad Civil, en un plazo no mayor a 120 días, contado a partir de la fecha de entrada en vigor del presente Decreto.
+
+B.O. 3 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 115, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
