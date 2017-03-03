@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4064
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-13"
-last_updated: "2004-08-13"
+last_updated: "2017-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 3 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL
+REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de agosto del 2004.
 
@@ -328,3 +330,13 @@ Diputado Secretario.
 MA. EUGENIA ROJAS NAVARRETE.
 
 Diputada Secretaria.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 175, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EMITE EL REGLAMENTO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga el Reglamento de la Unidad de Acceso a la Información Pública del Poder Legislativo del Estado de Guanajuato publicado en Periódico Oficial número 130, tercera parte de fecha 13 de agosto del 2004.
