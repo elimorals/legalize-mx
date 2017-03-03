@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2016-11-30"
+last_updated: "2017-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -755,7 +755,11 @@ I. Atenderán de manera especial las escuelas en que, por estar en localidades a
 
 II. Desarrollarán programas de apoyo a los docentes que presten sus servicios en localidades aisladas y zonas urbanas marginadas, las que podrán incluir incentivos económicos, a fin de fomentar el arraigo en éstas y cumplir con el calendario escolar;
 
-III. Promover centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y escuelas que impartan la educación bilingüe y bicultural, así como demás planteles que apoyen en forma continua y estable el aprendizaje y aprovechamiento de los alumnos;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2017)</small>
+
+III. Promoverán centros de desarrollo infantil, centros de integración social, internados y escuelas que impartan la educación bilingüe y bicultural, así como demás planteles que apoyen en forma continua y estable el aprendizaje y aprovechamiento de los alumnos.
+
+Garantizarán el acceso a la educación básica a través de la implementación de albergues escolares rurales, proporcionando servicio asistencial y apoyo educativo a niñas y niños en estado de vulnerabilidad y provenientes de comunidades dispersas y en condiciones de pobreza;
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -1836,3 +1840,13 @@ P.O. 30 DE NOVIEMBRE DE 2016.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 3 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 33, DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El número de albergues escolares rurales en el Estado en ningún caso podrá ser inferior a los existentes al año 2016. De la misma manera, el presupuesto destinado para su funcionamiento no podrá ser inferior a lo asignado para el ejercicio fiscal 2016.
