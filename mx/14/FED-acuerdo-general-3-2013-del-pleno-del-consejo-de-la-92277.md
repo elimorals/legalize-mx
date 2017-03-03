@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2017-02-15"
+last_updated: "2017-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MARZO DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -979,11 +979,31 @@ VIII. Centro de Justicia Penal Federal en el Estado de Tamaulipas, con sede en R
 
 IX. Centro de Justicia Penal Federal en el Estado de Veracruz, con sede en Coatzacoalcos: cuya jurisdicción territorial comprenderá los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza de dicho Estado;
 
-X. Centro de Justicia Penal Federal en el Estado de Veracruz, con sede en la ciudad de Xalapa: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios que integran la misma con excepción de los señalados en la fracción anterior; y
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2017)</small>
+
+X. Centro de Justicia Penal Federal en el Estado de Veracruz, con sede en la ciudad de Xalapa: cuya jurisdicción territorial comprenderá dicha entidad federativa y los municipios que integran la misma con excepción de los señalados en la fracción anterior;
 
 XI. Todos los Centros de Justicia Penal Federal, además de los asuntos que les correspondan por su jurisdicción territorial conocerán de aquellos que deriven de procesos penales seguidos por delitos cometidos en el resto del territorio nacional, a que se refieren los artículos 42 y 48 de la Constitución Política de los Estados Unidos Mexicanos.
 
-El Centro de Justicia Penal Federal competente será el más cercano al lugar en que se haya cometido el delito.
+> <small>(REFORMADO, D.O.F. 3 DE MARZO DE 2017)</small>
+
+El Centro de Justicia Penal Federal competente será el más cercano al lugar en que se haya cometido el delito;
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2017)</small>
+
+XII. Tratándose de los delitos cometidos en el extranjero o en extensiones del territorio nacional se observará lo siguiente:
+
+a) En los casos de los artículos 2°, 4° y 5°, fracción V, del Código Penal Federal será competente el Centro de Justicia Penal Federal en cuya jurisdicción territorial se encuentre el imputado; pero si éste se hallare en el extranjero, lo serán para conocer de los actos surgidos antes de la audiencia inicial, y desde ésta hasta el dictado de la sentencia, así como de los medios de impugnación respectivos, los Jueces de Distrito de los Centros de Justicia Penal Federal en la Ciudad de México, y, en su caso, los habilitados; y
+
+b) En los casos de las fracciones I y II del artículo 5° del Código Penal Federal, en términos similares a los de la fracción anterior, es competente el Centro de Justicia Penal Federal a cuya jurisdicción corresponda el primer punto del territorio nacional a donde arribe el buque; y en los supuestos de la fracción III del mismo artículo, el Centro a cuya jurisdicción pertenezca el puerto en que se encuentre o arribe el buque.
+
+Lo previsto en el párrafo que antecede es aplicable a los delitos aludidos en la fracción IV del artículo 5° de dicho Código; y
+
+> <small>(ADICIONADA, D.O.F. 3 DE MARZO DE 2017)</small>
+
+XIII. Todos los Centros de Justicia Penal Federal, además de los asuntos que les correspondan por su jurisdicción territorial conocerán de los procedimientos de extradición.
+
+Serán competentes los jueces de distrito especializados en el sistema penal acusatorio, del Centro de Justicia Penal Federal donde se encuentre el reclamado. Cuando se desconozca el paradero de éste, serán competentes los Jueces de Distrito de los Centros de Justicia Penal de la Ciudad de México.
 
 > <small>(ADICIONADO POR EL PUNTO DÉCIMO SEGUNDO DEL ACUERDO GENERAL 22/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2013)</small>
 
@@ -3734,6 +3754,14 @@ IX. ...
 3. Ocho juzgados de Distrito en el Estado de San Luis Potosí: seis con sede en la ciudad del mismo nombre; y dos con residencia en Ciudad Valles.
 
 X. a XXXII. ...".
+
+D.O.F. 3 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN Y ADICIONAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES ADSCRITOS A LOS CENTROS DE JUSTICIA PENAL FEDERAL PARA CONOCER DE DELITOS COMETIDOS EN EL EXTRANJERO Y EXTENSIONES DEL TERRITORIO NACIONAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 ###### Artículo 12.
 
