@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-ejercicio-del-comercio-ambulante-oficios-274
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-03-10"
-last_updated: "1992-03-10"
+last_updated: "2017-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO PARA EL EJERCICIO DEL COMERCIO AMBULANTE, OFICIOS Y SERVICIOS AL PUBLICO EN BIENES Y VIAS PUBLICAS DEL MUNICIPIO DE TECATE
 
-REGLAMENTO PARA EL EJERCICIO DEL COMERCIO AMBULANTE, OFICIOS Y SERVICIOS AL PUBLICO EN BIENES Y VIAS PUBLICAS DEL MUNICIPIO DE TECATE
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA EL DICTAMEN XXI-CGLYM-004/2016, PUBLICADO EN EL P.O. DE 3 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA EL EJERCICIO DEL COMERCIO AMBULANTE, OFICIOS Y SERVICIOS AL PÚBLICO EN BIENES Y VÍAS PÚBLICAS DEL MUNICIPIO DE TECATE, BAJA CALIFORNIA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de marzo de 1992.
 
@@ -143,7 +145,7 @@ Los permisos para el ejercicio del comercio ambulante accidental, serán revalid
 
 ###### ARTICULO 13o.
 
-Tesorería Municipal y obras Públicas, llevarán un Padrón o Estadistica actualizada do todos aquellos actos relativos al comercio ambulante.
+Tesorería Municipal y obras Públicas, llevarán un Padrón o Estadística actualizada do todos aquellos actos relativos al comercio ambulante.
 
 ###### ARTICULO 14o.
 
@@ -548,3 +550,13 @@ EL C. SRIO. GRAL. DEL AYUNTAMIENTO.
 C. ROBERTO CASTILLO CHAVARIN.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MARZO DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN XXI-CGLYM-004/2016, RELATIVO A ABROGAR EL REGLAMENTO PARA EL EJERCICIO DEL COMERCIO AMBULANTE, OFICIOS Y SERVICIOS AL PÚBLICO EN BIENES Y VÍAS PÚBLICAS DEL MUNICIPIO DE TECATE, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO, EN FECHA 8 DE MARZO DE 1992, Y SE CREA EL REGLAMENTO PARA EL EJERCICIO DEL COMERCIO AMBULANTE, SEMIFIJO, OFICIOS Y SERVICIOS AL PÚBLICO EN BIENES Y VÍAS PÚBLICAS PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA”.]</small>
+
+PRIMERO.- Se aprueba en todas y cada una de sus partes el Dictamen XXI-CGLyM-004/2016 emitido por la Comisión de Gobernación, Legislación y Migración; mediante el cual se aprueba abrogar el Reglamento para el Ejercicio del comercio Ambulante, Oficios y Servicios al público en Bienes y vías públicas del Municipio de Tecate, publicado en el Periódico oficial del Estado en fecha 8 de Marzo de 1992, y se crea EL REGLAMENTO PARA EL EJERCICIO DEL COMERCIO AMBULANTE, SEMIFIJO, OFICIOS Y SERVICIOS AL PÚBLICO EN BIENES Y VÍAS PÚBLICAS PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA.
+
+Segundo.- Publíquese el presente Acuerdo con anexo en el Periódico Oficial del Estado de Baja California.
