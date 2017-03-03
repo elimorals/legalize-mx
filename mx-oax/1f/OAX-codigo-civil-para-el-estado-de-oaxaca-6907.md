@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2016-10-22"
+last_updated: "2017-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -467,11 +467,11 @@ La Dirección del Registro Civil supervisará las actuaciones de los Oficiales d
 
 ### CAPITULO II. De las actas de nacimiento
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2017)</small>
 
 ###### Artículo 66.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste al lugar donde se encuentre aquél.
+Las declaraciones de nacimiento se harán presentando a la niña o niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste al lugar donde se encuentre aquél, acompañando el certificado de nacimiento. El certificado de nacimiento se otorgará de forma gratuita y deberá ser suscrito por médico autorizado para el ejercicio de su profesión, o persona que haya asistido el parto, en el formato expedido para tal efecto por la Secretaría de Salud del Estado. Dicho certificado hace prueba del día, hora, lugar de nacimiento, maternidad y sexo del nacido.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -535,17 +535,17 @@ En las actas de nacimiento por ningún concepto se asentarán palabras que calif
 
 Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto o abandonado alguno, deberá presentarlo ante el Agente del Ministerio Público de su jurisdicción con los vestidos, valores o cualesquiera otros objetos encontrados con él, quien levantará el acta de averiguación respectiva, mencionando en ella las circunstancias que rodean el caso y la persona o institución que se haga cargo de su protección, quien deberá presentarlo ante el Oficial del Registro Civil para su inscripción.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2017)</small>
 
 ###### Artículo 74.
 
-La obligación del artículo anterior, también la tienen las Instituciones de Asistencia Social, los Jefes, Directores o Administradores de los establecimientos penitenciarios, especialmente los de los hospitales, clínicas de maternidad y casas de cuna, respecto de los niños nacidos y expuestos en ellas.
+La obligación del artículo anterior, también la tienen las Instituciones de Asistencia Social, los Jefes, Directores o Administradores de los establecimientos penitenciarios y especialmente los de los hospitales, clínicas de maternidad y casas de cuna, sean particulares o del Estado, respecto de los niños nacidos y expuestos en ellas, sin que por motivo alguno éstos puedan negar la expedición o entrega del Certificado de Nacimiento o de cualquier otro documento que permita el registro del niño o niña ante la autoridad civil competente. El incumplimiento a las obligaciones anteriores se sujetará a las sanciones penales correspondientes.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2017)</small>
 
 ###### Artículo 75.
 
-En las actas que se asienten en los casos a que se refiere el artículo anterior, se expresarán la edad aparente del niño, el nombre y apellidos que se le pongan, su sexo y el nombre de la persona o institución que se encargue de él.
+En las actas que se asienten en los casos a que se refiere el artículo anterior, se expresarán la edad aparente del niño o niña, el nombre y apellidos que se le pongan, su sexo y el nombre de la persona o institución que se encargue de él.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -2593,7 +2593,7 @@ II. Si el hijo cayó en demencia antes de cumplir veinticinco años y murió des
 
 ###### Artículo 362.
 
-Los herederos podrán continuar la acción intentada por el hijo, a no ser que éste hubiere (sic) desistido formalmente de ella, o nada hubiere promovido judicialmente durante un año contado desde la última diligencia.
+Los herederos podrán continuar la acción intentada por el hijo, a no ser que éste hubiere desistido formalmente de ella, o nada hubiere promovido judicialmente durante un año contado desde la última diligencia.
 
 También podrán contestar toda demanda que tenga por objeto despojarlo de la condición de hijo legítimo.
 
@@ -2777,7 +2777,7 @@ En todos estos casos el procedimiento se seguirá en la vía de controversias de
 
 ###### Artículo 397.
 
-La posesión de estado, para los efectos de la fracción II del artículo que precede, se justificará demostrando por lo medios ordinarios de prueba que el hijo ha sido tratado por el presunto padre o por su familia, como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
+La posesión de estado, para los efectos de la fracción II del artículo que precede, se justificará demostrando por los medios ordinarios de prueba que el hijo ha sido tratado por el presunto padre o por su familia, como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
 
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -16000,3 +16000,9 @@ P.O. 22 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2041.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
 
 Ú N I C O.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 566.- MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 66, 74 Y 75 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
