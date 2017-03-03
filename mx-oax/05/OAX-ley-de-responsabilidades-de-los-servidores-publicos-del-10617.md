@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-de-los-servidores-publicos-del-10617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-01"
-last_updated: "2013-12-26"
+last_updated: "2017-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-N DE E. DE CONFORMIDAD CON LO ORDENADO POR EL ARTÍCULO 53 FRACCIÓN VI, PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECE QUE SI SE APRUEBAN POR EL CONGRESO DEL ESTADO LAS PARTES OBSERVADAS POR EL PODER EJECUTIVO, SE PROCEDERÁ A SU PROMULGACIÓN Y PUBLICACIÓN; EN CONSECUENCIA, SE PUBLICA EL DECRETO NÚMERO 2074 DEL P.O. DE 26 DE DICIEMBRE DE 2013.
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el Sábado 1o de junio de 1996.
 
@@ -173,11 +171,11 @@ XII.- Poderes: al Poder Ejecutivo, Legislativo y Judicial, conforme a la Constit
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2017)</small>
 
-###### Artículo 7º.
+###### Artículo 7°.
 
-Son sujetos de juicio político los Diputados del Congreso del Estado; los Magistrados del Tribunal Superior de Justicia del Estado, los Magistrados de los Tribunales Especializados; los titulares de las Secretarías, el Procurador General de Justicia del Estado; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director, el Secretario General y los Consejeros Electorales del Instituto Estatal Electoral y de Participación Ciudadana; el Auditor Superior del Estado; los Magistrados del Tribunal de lo Contencioso Administrativo y los que integran el máximo órgano de Gobierno de los Órganos Autónomos.
+Son sujetos de juicio político los Diputados del Congreso del Estado; los Magistrados del Tribunal Superior de Justicia del Estado, los Magistrados de los Tribunales Especializados; los titulares de las Secretarías, el Fiscal General de Justicia del Estado; los Magistrados del Tribunal Electoral del Estado de Oaxaca; el Consejero Presidente, el Director, el Secretario General y los Consejeros Electorales del Instituto Estatal Electoral y de Participación Ciudadana; el Auditor Superior del Estado; los Magistrados del Tribunal de lo Contencioso Administrativo y los que integran el máximo órgano de Gobierno de los Órganos Autónomos.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -463,7 +461,9 @@ Tienen la obligación de presentar declaración de situación patrimonial ante e
 
 I.- En el Congreso del Estado: los Diputados, Oficial Mayor, Tesorero, Auditor Superior del Estado, Directores, Jefes de Departamento o equivalentes, Auditores y responsables de las unidades, áreas o departamentos; así mismo, lo harán los Presidentes Municipales, Regidores, Síndicos, Secretarios, Tesoreros, Contralores Internos o sus equivalentes, hasta los servidores públicos municipales con nivel de Jefes de Departamento o sus equivalentes;
 
-II.- En la Contraloría: todos los servidores públicos del Poder Ejecutivo, desde el Gobernador del Estado hasta el nivel de Jefe de Departamento. Así también los servidores públicos de la Procuraduría General de Justicia del Estado, desde el Procurador General hasta los Jefes de Departamento, incluyendo a los Agentes del Ministerio Público, Agentes Estatales de Investigaciones y Policías Estatales Preventivos;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2017)</small>
+
+II.- Ante la Contraloría: todos los servidores públicos del Poder Ejecutivo, desde el Gobernador del Estado hasta el nivel de Jefe de Departamento. Así también los servidores públicos de la Fiscalía General de Justicia del Estado, desde el Fiscal General hasta los Jefes de Departamento, incluyendo a los Agentes del Ministerio Público, Agentes Estatales de Investigaciones y Policías Estatales Preventivos;
 
 III.- En el Poder Judicial: los Magistrados, Jueces, Secretarios Judiciales, Actuarios y Ejecutores de cualquier categoría o designación;
 
@@ -479,7 +479,9 @@ VII.- En los demás órganos jurisdiccionales e instituciones que determinen las
 
 VIII.- En el órgano competente: todos los servidores públicos que manejen o apliquen recursos económicos, valores y fondos del Estado y los Municipios; realicen actividades de inspección o vigilancia; lleven a cabo funciones de calificación o determinación para la expedición de licencias, permisos o concesiones, y quienes intervengan en la adjudicación de pedidos o contratos.
 
-En todo caso la Contraloría, la Auditoría y los Órganos de Control Interno en el ámbito de sus respectivas competencias, estarán facultados para determinar, fundada y motivadamente, a aquellos servidores que tengan la obligación de presentar la declaración de situación patrimonial respectiva, los lineamientos, los plazos y la forma en (sic) deberán hacerlo.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2017)</small>
+
+En todo caso la Contraloría, la Auditoría y los Órganos de Control Interno en el ámbito de sus respectivas competencias, estarán facultados para determinar, fundada y motivadamente, a aquellos servidores que tengan la obligación de presentar la declaración de situación patrimonial respectiva, los lineamientos, los plazos y la forma en que deberán hacerlo.
 
 ###### Artículo 45.
 
@@ -853,7 +855,9 @@ a) Aprovechar su influencia u obtener alguna ventaja derivada de la función que
 
 b) Aprovechar en beneficio propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público; y
 
-c) Desempeñarse como servidor público en la administración de quien haya ganado la elección que ellos organizaron o calificaron, tratándose de servidores públicos que se hayan desempeñado en cargos de Dirección y Secretaría General en el Instituto Estatal Electoral y de Participación Ciudadana, sus Consejeros, Presidencias de Consejos Distritales y los Magistrados del Tribunal Estatal Electoral;
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2017)</small>
+
+c) Desempeñarse como servidor público en la administración de quien haya ganado la elección que ellos organizaron o calificaron, tratándose de servidores públicos que se hayan desempeñado en cargos de Dirección y Secretaría General en el Instituto Estatal Electoral y de Participación Ciudadana, sus Consejeros, Presidencias de Consejos Distritales y los Magistrados del Tribunal Electoral del Estado de Oaxaca;
 
 > <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -1193,7 +1197,9 @@ IV.- Por estrados; y
 
 V.- Por correo electrónico.
 
-El citatorio para la audiencia de Ley a que se refiere la fracción I del artículo anterior, se comunicará al imputado conforme a lo dispuesto en la fracción I del presente artículo; de la misma forma se realizará la notificación de la resolución de fondo del asunto, siempre y cuando el servidor público resida en el lugar del juicio. En caso contrario, se hará por correo certificado con acuse de recibo o a través de la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2017)</small>
+
+El citatorio para la audiencia de Ley a que se refiere la fracción I del artículo anterior, se comunicará al imputado conforme a lo dispuesto en la fracción I del presente artículo; de la misma forma se realizará la notificación de la resolución de fondo del asunto, siempre y cuando el servidor público resida en el lugar del juicio. En caso contrario, se hará por correo certificado con acuse de recibo o a través de la Fiscalía General de Justicia del Estado.
 
 Cuando el domicilio de quien deberá ser citado se encuentre fuera del territorio del Estado de Oaxaca, la notificación se realizará conforme a la fracción II de este artículo.
 
@@ -1557,7 +1563,7 @@ Diputado Secretario.
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.- Oaxaca de Juárez, a 16 de mayo de 1996.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO,- LIC. DIODORO CARRASCO ALTAMIRANO.- EL SECRETARIO GENERAL DE GOBIERNO,- LIC. HECTOR ANUAR MAFUD MAFUD.- Y lo comunico a usted para su conocimiento y fines consiguientes.- SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPECTO (SIC) AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, Oax., a 16 de mayo de 1996.- EL SECRETARIO GENERAL DE GOBIERNO,- Lic. HECTOR ANUAR MAFUD MAFUD.- Rúbricas.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 22 DE MARZO DE 2005.
 
@@ -1598,3 +1604,9 @@ P.O. 26 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Comuníquese al Titular del Ejecutivo, para los efectos legales correspondientes.
+
+P.O. 3 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 567.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
