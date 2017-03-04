@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2016-09-10"
+last_updated: "2017-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -1315,11 +1315,43 @@ XVIII.- Las demás que le confieran la Ley, la Asamblea, la Directiva o la Comis
 
 #### SECCIÓN C. DE LOS ÓRGANOS DE APOYO DE LA OFICIALÍA MAYOR
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
 
 ###### Artículo 87.
 
-Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, contará con las siguientes Direcciones: de Proceso Legislativo; Administración, Finanzas y de Servicios Generales; Servicios Documentarios; Jurídica y de Comunicación Social.
+Para el eficaz desempeño de las funciones encomendadas a la Oficialía Mayor, contará con una Contraloría y con las siguientes Direcciones: de Proceso Legislativo; de Administración, Finanzas y de Servicios Generales; de Servicios Documentarios; Jurídica y de Comunicación Social.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2017)</small>
+
+###### Artículo 87 Bis.
+
+Corresponde a la Contraloría:
+
+I.- Instaurar y llevar a cabo el procedimiento administrativo previsto por la Ley Estatal de Responsabilidades de los Servidores Públicos, tratándose del personal administrativo del Poder Legislativo, poniéndolos en estado de resolución para someterlos a la Comisión de Gobierno Interno y Acuerdos Parlamentarios y hacer efectiva las sanciones que esta determine;
+
+II.- Contar con un sistema de atención de quejas y denuncias, respecto de la actuación del personal del Poder Legislativo;
+
+III.- Establecer coordinación con otras dependencias de control, para el mejor desempeño de sus funciones;
+
+IV.- Establecer y aplicar dentro del ámbito de su competencia, los criterios de control, evaluación y auditoría para optimizar la función de las dependencias administrativas de la Legislatura;
+
+V.- Asesorar en el ámbito de su competencia a los Órganos y dependencias de la Legislatura, para el mejor cumplimiento de sus programas;
+
+VI.- Evaluar los criterios que regulen el funcionamiento, de los instrumentos, sistemas y procedimientos de control de la administración del Poder Legislativo, con el fin de asegurar su eficiencia;
+
+VII.- Vigilar que los procesos de las licitaciones para adquisiciones, arrendamientos y enajenaciones de bienes, prestación de servicios de cualquier naturaleza y contratación de otros que se realicen, se ajusten a las disposiciones contenidas en la ley de la materia;
+
+VIII.- Vigilar que se realice y actualice periódicamente el inventario de los bienes muebles e inmuebles asignados o propiedad del Poder Legislativo;
+
+IX.- Coordinar y supervisar la entrega-recepción de la Presidencia de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, así como las dependencias del Poder Legislativo;
+
+X.- Opinar sobre normas de contabilidad y de control en materia de programación, presupuestación, administración de personal, así como los recursos materiales y financieros del Poder Legislativo;
+
+XI.- Establecer los mecanismos para difundir la información sobre sus funciones y actividades;
+
+XII.- Informar anualmente a la Asamblea, por conducto del Presidente de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, de las labores desarrolladas; y
+
+XIII.- Las demás que le señalen los ordenamientos legales aplicables o que determine la Comisión de Gobierno Interno y Acuerdos Parlamentarios.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2940,3 +2972,9 @@ P.O. 10 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 152 POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 56, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 271 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 50 Y ADICIONAR (SIC) LOS ARTÍCULOS 63 BIS Y 63 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación debiéndose publicar en el Periódico Oficial "El Estado de Colima".
