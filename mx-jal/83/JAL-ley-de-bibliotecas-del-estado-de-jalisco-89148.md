@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-bibliotecas-del-estado-de-jalisco-89148"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-23"
-last_updated: "2016-05-17"
+last_updated: "2017-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE BIBLIOTECAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 23 de agosto de 2012.
 
@@ -125,7 +125,9 @@ II. Establecer los mecanismos participativos para programar la expansión de la 
 
 III. Emitir la normatividad técnica bibliotecaria para las bibliotecas de la red, y supervisar su cumplimiento;
 
-IV. Seleccionar, determinar y desarrollar las colecciones de cada biblioteca pública de acuerdo con el programa correspondiente;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+
+IV. Seleccionar, determinar y desarrollar las colecciones físicas y digitales de cada biblioteca pública de acuerdo con el programa correspondiente;
 
 V. Dotar o gestionar la dotación de un acervo de publicaciones informativas, recreativas y formativas para las nuevas bibliotecas públicas; así como libros para personas con discapacidad; y también obras de consulta y publicaciones periódicas, a efecto de que sus acervos respondan a las necesidades culturales, educativas y de desarrollo en general de los habitantes de la localidad;
 
@@ -187,7 +189,9 @@ II. Proponer mecanismos participativos para la expansión de la red;
 
 III. Colaborar en la formulación de la normatividad técnica bibliotecaria para las bibliotecas de la red;
 
-IV. Coadyuvar en la selección de las colecciones de cada biblioteca pública;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+
+IV. Coadyuvar en la selección de las colecciones físicas y digitales de cada biblioteca pública;
 
 V. Proponer el acervo de publicaciones informativas recreativas y formativas; así como materiales bibliotecarios para el uso de personas con discapacidad;
 
@@ -424,3 +428,9 @@ P.O. 17 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6º DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7º DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7º DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3º DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4º DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4º DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8º Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26272/LXI/17 QUE REFORMA LOS ARTÍCULOS 9° Y 10 DE LA LEY DE BIBLIOTECAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
