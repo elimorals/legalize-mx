@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-proteccion-y-apoyo-de-las-madres-jefas-de-86234"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2017-02-16"
+last_updated: "2017-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 14 de febrero de 2012.
 
@@ -149,11 +149,11 @@ IV. Que el ingreso que perciba por día no sea mayor a 2.5 salarios mínimos gen
 
 V. Los demás que prevean expresamente las disposiciones reglamentarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2017)</small>
 
 ###### Artículo 11.
 
-Las madres jefas de familia deberán informar bimestralmente a la Secretaría de Desarrollo e Integración Social, a través de la secretaria técnica del Consejo:
+Las madres jefas de familia deberán informar bimestralmente a la Secretaría de Desarrollo e Integración Social, a través de la Secretaría Técnica del Consejo:
 
 I. La aplicación y destino de la ayuda económica mensual;
 
@@ -193,15 +193,15 @@ V. Cuando la madre jefa de familia reciba apoyo económico de otro programa fede
 
 La ayuda económica mensual a que tienen derecho las madres jefas de familia a que se refiere este capítulo, se otorgará a través de la implementación de un programa de apoyo estatal a madres jefas de familia, en el que se establecerá la temporalidad. Mientras subsistan las condiciones que dieron origen a la ayuda y el sujeto beneficiario cumpla con las obligaciones correspondientes, ésta no podrá suspenderse.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
 
 ###### Artículo 15.
 
-Para efectos de lo dispuesto en el artículo anterior, la Secretaría de Desarrollo e Integración Social, a través de la Secretaría Técnica del Consejo, deberá llevar un registro y control de beneficiarias del programa, el cual deberá actualizar mensualmente. Este padrón será público y se integrará con expedientes individuales de los beneficiarios, y la información ahí contenida estará a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios.
+Para efectos de lo dispuesto en el artículo anterior, la Secretaría de Desarrollo e Integración Social, a través de la Secretaría Técnica del Consejo, deberá llevar un registro y control de beneficiarias del programa, el cual deberá actualizar mensualmente. Este padrón será público y se integrará con expedientes individuales de los beneficiarios. La información ahí contenida será reservada en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios.
 
 ### Capítulo IV. De las acciones gubernamentales
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2017)</small>
 
 ###### Artículo 16.
 
@@ -225,7 +225,7 @@ Las dependencias y entidades estatales y municipales, si es el caso, podrán cel
 
 ### Capítulo V. Del Consejo Estatal para la Protección de las Madres Jefas de Familia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2017)</small>
 
 ###### Artículo 20.
 
@@ -241,7 +241,7 @@ El Consejo Estatal estará integrado por:
 
 I. Un Presidente, que será el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2017)</small>
 
 II. Un Secretario Técnico, que será el titular de la Secretaría de Desarrollo e Integración Social;
 
@@ -259,7 +259,7 @@ El Consejo Estatal, a través de su presidencia, podrá invitar a las sesiones d
 
 El Consejo Estatal tendrá las siguientes funciones:
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2017)</small>
 
 I. Diseñar políticas orientadas al desarrollo y mejoramiento de las condiciones de vida de las madres jefas de familia y proponerlas a la Secretaría de Desarrollo e Integración Social;
 
@@ -271,7 +271,7 @@ IV. Incentivar la creación de fundaciones, asociaciones e instituciones privada
 
 V. Recibir y canalizar a las instituciones competentes las quejas y sugerencias sobre la atención que éstas brinden a las madres jefas de familia;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2017)</small>
 
 VI. Elaborar, conservar y actualizar los convenios que firme la Secretaría de Desarrollo e Integración Social con los ayuntamientos y entidades federales en los términos de la presente ley y su reglamento;
 
@@ -380,3 +380,9 @@ SEGUNDO. El titular del Poder Ejecutivo deberá llevar a cabo las adecuaciones r
 TERCERO. Se autoriza al titular del Poder Ejecutivo, para que por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las transferencias presupuestales necesarias para la ejecución del presente decreto, sin rebasar los límites presupuestales para el ejercicio fiscal 2017 y de conformidad con la previsión de ingresos aprobada para el mismo ejercicio fiscal.
 
 CUARTO. Los apoyos derivados de la reforma del presente decreto estarán sujetos a la suficiencia presupuestal con que se cuente.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26278/LXI/17 QUE REFORMA LOS ARTÍCULOS 11, 15, 16, 20, 21 Y 22 DE LA LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
