@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2016-10-01"
+last_updated: "2017-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -681,9 +681,9 @@ I.- Elaborar un plan de trabajo y presentarlo al Congreso para su aprobación, d
 
 II.- Proponer a la Asamblea la designación del Oficial Mayor, así como pedir su remoción y vigilar el funcionamiento de la citada dependencia;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
 
-III.- Aprobar el nombramiento y remoción de los directores, servidores públicos y demás empleados del Poder Legislativo;
+III.- Aprobar el nombramiento y remoción del Contralor, directores, servidores públicos y demás empleados del Poder Legislativo;
 
 IV.- Proponer a la Asamblea, la integración de las comisiones permanentes y especiales y, en su caso, a quienes deban sustituirlos cuando proceda;
 
@@ -894,6 +894,20 @@ La Oficialía Mayor es el órgano técnico administrativo dependiente y auxiliar
 Será aprobado por el Congreso, a propuesta de la Comisión de Gobierno y por mayoría absoluta.
 
 Para ser Oficial Mayor se requiere: ser mexicano por nacimiento, mayor de 25 años, estar en pleno ejercicio de sus derechos, profesionista titulado, preferentemente Licenciado en Derecho y ser de reconocida capacidad y probidad en el ejercicio de su profesión.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2017)</small>
+
+###### ARTICULO 63 Bis.
+
+La Contraloría es el órgano técnico administrativo auxiliar de la Oficialía Mayor, en el desempeño de sus facultades de vigilancia y supervisión del ejercicio presupuestal que ejerce funciones de auditoría, vigilancia, control, evaluación e inspección y coadyuva en la substanciación de los procedimientos de responsabilidad que en esa materia deban instaurarse en contra de los servidores públicos del Congreso del Estado, además de promover la aplicación de medios que contribuyan a mejorar los procedimientos administrativos.
+
+La Contraloría estará a cargo de un titular denominado Contralor, quién será nombrado por acuerdo de la Comisión de Gobierno Interno y Acuerdos Parlamentarios.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2017)</small>
+
+###### ARTICULO 63 Ter.
+
+Para ser contralor se debe cumplir con los requisitos señalados en el artículo 63 de la presente ley, con excepción de lo relativo a la profesión, la cual deberá estar relacionada con las áreas de contabilidad y administración.
 
 ### CAPITULO VIII
 
@@ -1534,3 +1548,9 @@ P.O. 1 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
 
 SEGUNDO.- La Comisión de Gobierno Interno y Acuerdos Parlamentarios deberá sesionar dentro de los primeros seis días de la entrada en vigor del presente Decreto, con la finalidad de realizar los ajustes administrativos correspondientes para dejar de entregar los recursos asignados bajo el concepto de "previsión social múltiple" a los diputados; debiendo decidir a su vez el destino que se le dará a los recursos originalmente asignados a tal rubro, para lo cual deberán contar con la aprobación de la Asamblea.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 271 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 50 Y ADICIONAR (SIC) LOS ARTÍCULOS 63 BIS Y 63 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación debiéndose publicar en el Periódico Oficial "El Estado de Colima".
