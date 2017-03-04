@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2017-02-25"
+last_updated: "2017-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -31,7 +31,9 @@ DECRETO 953
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Esta Ley incluye alternativas de solución a las necesidades económicas por las que atraviesan los elementos de seguridad pública, en aquellos casos en que son objeto de desaparición forzada, o bien, se les vulnera la vida o la integridad corporal; lo que motivó, por una parte, establecer fondos de apoyo para sufragar gastos derivados de esos acontecimientos y, por otro, desregular la normatividad vigente en materia de prestaciones sociales, y con ello facilitar el acceso de los mismos a este tipo de beneficios. Por tanto, las autoridades y los elementos, de manera directa o en forma coordinada, podrán establecer fondos de apoyo para casos de emergencia, a fin de auxiliar económicamente a los propios elementos o a sus familias, cuya aportación y administración será normada en el Reglamento correspondiente.
 
@@ -97,7 +99,7 @@ IX. TER. Policía Procesal: son los elementos de seguridad al mando de la Secret
 
 X. Presidente: presidente municipal en los ayuntamientos de la Entidad;
 
-XI. Registro Estatal: banco de datos del personal de las instituciones de seguridad publica;
+XI. Registro Estatal: banco de datos del personal de las instituciones de seguridad pública;
 
 XII. Secretaría: Secretaría de Seguridad Pública del Gobierno Estatal;
 
@@ -946,6 +948,34 @@ XVII. Solicitar a las autoridades competentes, a través del Ministerio Público
 XVIII. Incorporar a las bases de datos criminalísticos, la información que pueda ser útil en la investigación de los delitos, y utilizar su contenido para el desempeño de sus atribuciones, y
 
 XIX. Las demás que se deriven del Código Nacional de Procedimientos Penales y cualquier otra disposición relacionada.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2017)</small>
+
+ARTICULO 56 TER. Además de las obligaciones establecidas en los artículos 56 y 56 Bis, de este Ordenamiento, los elementos de seguridad pública que intervengan en la detención de alguna persona adolescente, deberán:
+
+I. Utilizar un lenguaje sencillo y comprensible cuando se dirija a ésta;
+
+II. Evitar esposar a las personas adolescentes detenidas, a menos que exista un riesgo real inminente y fundado de que la persona pueda causar un daño para sí o para otros;
+
+III. Hacer uso razonable de la fuerza, únicamente en caso de extrema necesidad, y hacerlo de manera legítima, proporcional, gradual y oportuna;
+
+IV. Permitir que la persona adolescente detenida sea acompañada por quienes ejercen la patria potestad, tutela o por persona de su confianza;
+
+V. Realizar inmediatamente el registro de la detención;
+
+VI. Informar al adolescente la causa de su detención y los derechos que le reconocen los ordenamientos aplicables, y
+
+VII. Poner a la persona adolescente inmediatamente y sin demora, a disposición del Agente del Ministerio Público Especializado.
+
+Los elementos de seguridad pública que estén asignados a los centros de internamiento, deberán estar certificados en materia de derechos humanos de niñas, niños y adolescentes, así como de los derechos del Sistema.
+
+Las instituciones policiales deberán contar con programas de formación básica y actualización permanente, respecto al trato con las personas sujetas a la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, salvaguardando en todo momento los principios del interés superior de la niñez.
+
+En la investigación de los hechos señalados como delitos atribuidos a las personas sujetas a la citada (sic) en el párrafo que antecede, los policías deberán contar con capacitación especializada en materia del Sistema Integral de Justicia Penal para Adolescentes, y actuarán bajo estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, así como a las obligaciones establecidas en esta Ley, y las demás disposiciones aplicables.
+
+En los casos de detención en flagrancia, serán válidas las actuaciones de la policía, siempre que no contravengan los principios previstos en la ley de la materia, los derechos de las personas adolescentes establecidas en la misma, y las demás disposiciones legales aplicables.
+
+La policía por ningún motivo podrá exhibir o exponer públicamente a las niñas, niños y adolescentes; ni publicar o divulgar grabación, filmación, imagen o cualquier otra información relacionada con los mismos.
 
 ### CAPITULO III. De sus Derechos
 
@@ -2261,10 +2291,18 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 25 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0569.- SE REFORMA (SIC) LOS PÁRRAFOS, PRIMERO Y SEGUNDO DEL ARTÍCULO 35, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0569.- SE REFORMA (SIC) LOS PÁRRAFOS, PRIMERO Y SEGUNDO DEL ARTÍCULO 35, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 TERCERO. Se declara insubsistente la Minuta de Decreto que aprobó por mayoría el Pleno del Honorable Congreso del Estado, en sesión ordinaria del 8 de diciembre de 2016, que reformaba el párrafo primero del artículo 35, de la Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí. Notifíquese al Ejecutivo del Estado para todos los efectos legales respectivos.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0575.- SE ADICIONA EL ARTÍCULO 56 TER, A LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
