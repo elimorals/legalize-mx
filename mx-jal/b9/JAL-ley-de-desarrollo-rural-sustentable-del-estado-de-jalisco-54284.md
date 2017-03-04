@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2016-10-27"
+last_updated: "2017-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -67,8 +67,6 @@ I. Las personas físicas y jurídicas que de manera individual o colectiva reali
 
 II. Los ejidos, comunidades y las organizaciones de productores del medio rural constituidas de conformidad con las leyes aplicables.
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 23937/LIX/11, PUBLICADO EN EL P.O. 19 DE ENERO DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DE LAS FRACCIONES DEL PRESENTE ARTÍCULO.</small>
-
 ###### Artículo 7.
 
 Para los efectos de esta ley se entiende por:
@@ -79,69 +77,73 @@ II. Actividades Económicas de la Sociedad Rural. Las actividades agropecuarias,
 
 III. Agentes de la Sociedad Rural. Las personas físicas o jurídicas de los sectores social y privado que integran a la sociedad rural;
 
-IV. Agroempresa. La unidad de producción, transformación, industrialización o comercialización de productos o subproductos agropecuarios, integrada por productores rurales y los medios de producción que la conforman;
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
 
-V. Cadena Productiva. Es el conjunto de agentes económicos interrelacionados por el mercado desde la provisión de insumos, producción, transformación y comercialización de productos agropecuarios hasta el consumidor final;
+IV. Agricultura de Conservación. Sistema de laboreo que realiza la siembra sobre una superficie de suelo cubierta con residuos del cultivo anterior;
 
-VI. Comisión Intersecretarial. La Comisión Intersecretarial del Estado de Jalisco para el Desarrollo Rural Sustentable;
+V. Agro empresa. La unidad de producción, transformación, industrialización o comercialización de productos o subproductos agropecuarios, integrada por productores rurales y los medios de producción que la conforman;
 
-VII. Comunidad Rural. Grupo de personas susceptibles de organizarse productivamente en el ámbito rural;
+VI. Cadena Productiva. Es el conjunto de agentes económicos interrelacionados por el mercado desde la provisión de insumos, producción, transformación y comercialización de productos agropecuarios hasta el consumidor final;
 
-VIII. Consejos Distritales. Los Consejos Distritales para el Desarrollo Rural Sustentable;
+VII. Comisión Intersecretarial. La Comisión Intersecretarial del Estado de Jalisco para el Desarrollo Rural Sustentable;
 
-IX. Consejo Estatal. El Consejo Estatal para el Desarrollo Rural Sustentable;
+VIII. Comunidad Rural. Grupo de personas susceptibles de organizarse productivamente en el ámbito rural;
 
-X. Consejo Municipal. El Consejo Municipal para el Desarrollo Rural Sustentable;
+IX. Consejos Distritales. Los Consejos Distritales para el Desarrollo Rural Sustentable;
 
-XI. Desarrollo Rural Sustentable. El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+X. Consejo Estatal. El Consejo Estatal para el Desarrollo Rural Sustentable;
 
-XII. Desertificación. La pérdida de la capacidad productiva de las tierras, causada por el hombre, en cualquiera de los ecosistemas existentes en el territorio del Estado de Jalisco;
+XI. Consejo Municipal. El Consejo Municipal para el Desarrollo Rural Sustentable;
 
-XIII. Estado. El Estado Libre y Soberano de Jalisco;
+XII. Desarrollo Rural Sustentable. El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
 
-XIV. Organización de Productores. Conjunto de personas constituidas bajo un régimen legal con el propósito de realizar actividades productivas y económicas para un fin común;
+XIII. Desertificación. La pérdida de la capacidad productiva de las tierras, causada por el hombre, en cualquiera de los ecosistemas existentes en el territorio del Estado de Jalisco;
 
-XV. Producto. Se consideran los resultados de la producción primaria de las especies o actividades productivas en el ámbito rural;
+XIV. Estado. El Estado Libre y Soberano de Jalisco;
 
-XVI. Producción Orgánica. Sistema de producción y procesamiento de alimentos, productos y subproductos animales, vegetales u otros satisfactores, sin la utilización de productos de síntesis química;
+XV. Organización de Productores. Conjunto de personas constituidas bajo un régimen legal con el propósito de realizar actividades productivas y económicas para un fin común;
 
-XVII. Subproducto. Es el resultado de la producción primaria de las especies o actividades productivas en el ámbito rural, que han sufrido un proceso de transformación e industrialización destinados al consumo o servicio humano;
+XVI. Producto. Se consideran los resultados de la producción primaria de las especies o actividades productivas en el ámbito rural;
 
-XVIII. Productor. Persona física o jurídica que, directa o indirectamente, se dedica a la producción, transformación, industrialización o comercialización de productos o subproductos agropecuarios;
+XVII. Producción Orgánica. Sistema de producción y procesamiento de alimentos, productos y subproductos animales, vegetales u otros satisfactores, sin la utilización de productos de síntesis química;
 
-XIX. Programa Especial Concurrente. El programa Especial Concurrente para el Desarrollo Rural Sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley;
+XVIII. Subproducto. Es el resultado de la producción primaria de las especies o actividades productivas en el ámbito rural, que han sufrido un proceso de transformación e industrialización destinados al consumo o servicio humano;
 
-XX. Programas Sectoriales. Los programas específicos del Gobierno Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
+XIX. Productor. Persona física o jurídica que, directa o indirectamente, se dedica a la producción, transformación, industrialización o comercialización de productos o subproductos agropecuarios;
 
-XXI. Secretaría. La Secretaría de Desarrollo Rural del Gobierno del Estado de Jalisco;
+XX. Programa Especial Concurrente. El programa Especial Concurrente para el Desarrollo Rural Sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
+XXI. Programas Sectoriales. Los programas específicos del Gobierno Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
 
-XXII. Seguridad alimentaria. El abasto oportuno, suficiente e incluyente de alimentos inocuos y de calidad nutritiva a la población;
-
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
-
-XXIII. Servicio. La institución pública responsable de la ejecución de programas y acciones específicas en una materia;
+XXII. Secretaría. La Secretaría de Desarrollo Rural del Gobierno del Estado de Jalisco;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
 
-XXIV. Servicios ambientales. Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
+XXIII. Seguridad alimentaria. El abasto oportuno, suficiente e incluyente de alimentos inocuos y de calidad nutritiva a la población;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
 
-XXV. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
+XXIV. Servicio. La institución pública responsable de la ejecución de programas y acciones específicas en una materia;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
 
-XXVI. Sistema-producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
+XXV. Servicios ambientales. Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
+
+XXVI. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
+
+XXVII. Sistema-producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2012)</small>
 
-XXVII. Soberanía agroalimentaria y nutricional. La libre determinación del Estado para establecer políticas públicas preactivas e integrales que garanticen el abasto y acceso de alimentos a toda la población, fundamentalmente con producción estatal, y
+XXVIII. Soberanía agroalimentaria y nutricional. La libre determinación del Estado para establecer políticas públicas preactivas e integrales que garanticen el abasto y acceso de alimentos a toda la población, fundamentalmente con producción estatal; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2012)</small>
 
-XXVIII. Unidad productiva. Conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable.
+XXIX. Unidad productiva. Conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable.
 
 ###### Artículo 8.
 
@@ -373,9 +375,15 @@ XXIX. Promover el etiquetado de productos y subproductos alimenticios elaborados
 
 XXX. Promover y participar, de acuerdo a sus posibilidades presupuestarias, en conjunto con los beneficiarios, en la creación y operación de fondos de contingencia y seguros para el sistema agropecuario;
 
-XXXI. Promover y validar los convenios de cooperación para la investigación científico-tecnológica con las instituciones de investigación, nacionales, estatales y con los organismos internacionales para la investigación tecnológica agropecuaria y de desarrollo rural sustentable, relativos a los diferentes aspectos de las cadenas productivas del sector; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
 
-XXXII. Las demás que la presente Ley y otros ordenamientos legales aplicables señalen.
+XXXI. Promover y validar los convenios de cooperación para la investigación científico-tecnológica con las instituciones de investigación, nacionales, estatales y con los organismos internacionales para la investigación tecnológica agropecuaria y de desarrollo rural sustentable, relativos a los diferentes aspectos de las cadenas productivas del sector;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+
+XXXII. Divulgar y promover la agricultura de conservación; y
+
+XXXIII. Las demás que la presente Ley y otros ordenamientos legales aplicables señalen.
 
 ### Capítulo II. De los Ayuntamientos
 
@@ -613,7 +621,9 @@ VIII. El fomento a los sistemas de producción agropecuarios;
 
 IX. El impulso a la industria, agroindustria y demás actividades rurales no agropecuarias y la integración de cadenas productivas, así como el desarrollo de la infraestructura industrial en el medio rural;
 
-X. La conservación y mejoramiento de los suelos y demás recursos naturales; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+
+X. La agricultura de conservación, así como el mejoramiento de los suelos, y la conservación de los demás recursos naturales; y
 
 XI. Todas las demás que deriven del cumplimiento de la Ley de Desarrollo Rural Sustentable, de esta Ley y demás ordenamientos aplicables.
 
@@ -633,9 +643,17 @@ V. Realizar o participar en actividades de investigación que contribuyan al des
 
 VI. Participar en campañas de sanidad animal y vegetal;
 
-VII. Elevar la productividad agropecuaria, comparativamente con los rendimientos mínimos preestablecidos, o bien, cuando se eleve la productividad en áreas de alto potencial y se fomenten las exportaciones; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
 
-VIII. Destinar recursos para incorporar tecnología sustentable de vanguardia en sus procesos productivos.
+VII. Elevar la productividad agropecuaria, comparativamente con los rendimientos mínimos preestablecidos, o bien, cuando se eleve la productividad en áreas de alto potencial y se fomenten las exportaciones;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+
+VIII. Destinar recursos para incorporar tecnología sustentable de vanguardia en sus procesos productivos; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+
+IX. Cambiar a agricultura de conservación.
 
 ###### Artículo 46.
 
@@ -1283,7 +1301,9 @@ El Gobierno Estatal y Municipal fomentará el uso adecuado del suelo de acuerdo 
 
 Quienes se dediquen a las actividades agrícolas deberán seleccionar cultivos, técnicas y sistemas de manejo que favorezcan la integridad física, económica y biológica de la tierra, su capacidad de infiltración hídrica, el ahorro de agua y la protección de los acuíferos.
 
-Las dependencias de la administración pública, dentro de su ámbito de competencia, fomentarán la adopción de las medidas señaladas anteriormente.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
+
+Las dependencias de la administración pública, dentro de su ámbito de competencia, fomentarán la adopción de las medidas señaladas anteriormente, así como la adopción de la agricultura de conservación, de acuerdo con la aptitud de las tierras.
 
 La Comisión Intersecretarial, con la participación del Consejo Estatal, promoverá un programa tendiente a la formación de una cultura de cuidado del agua.
 
@@ -1430,3 +1450,9 @@ P.O. 27 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25897/LXI/16 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 25538/LX/2015”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26280/LXI/17 QUE REFORMA LOS ARTÍCULOS 7°, 22, 44, 45 Y 134 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
