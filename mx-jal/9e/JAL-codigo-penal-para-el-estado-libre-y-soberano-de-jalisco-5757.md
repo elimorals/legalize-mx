@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2017-02-16"
+last_updated: "2017-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2533,13 +2533,29 @@ XII. Procurar la impunidad de los delitos o faltas de que tenga conocimiento en 
 
 XIII. Coaccione a la víctima de un delito a desistirse de procedimientos legales contra el generador o probable responsable de un delito.
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
 
-XIV. No custodiar o dejar de custodiar injustificadamente el lugar de los hechos materia del delito, hasta su entrega a la autoridad competente o hasta recibir indicación expresa de ésta de dejar de custodiar, y ó
+XIV. No custodiar o dejar de custodiar injustificadamente el lugar de los hechos materia del delito, hasta su entrega a la autoridad competente o hasta recibir indicación expresa de ésta de dejar de custodiar;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
 
-XV. Manipule, borre, oculte, sustraiga, altere, sustituya, dañe, contamine, modifique los indicios, huellas, vestigios, instrumentos, objetos o productos del delito encontrados en el lugar de los hechos materia del delito o interfiera de manera indebida en el procedimiento de cadena de custodia.
+XV. Manipule, borre, oculte, sustraiga, altere, sustituya, dañe, contamine, modifique los indicios, huellas, vestigios, instrumentos, objetos o productos del delito encontrados en el lugar de los hechos materia del delito;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+
+XVI. A quien ejerciendo funciones de supervisor de libertad o con motivo de ellas hiciera amenazas, hostigue o ejerza violencia en contra de la persona procesada, sentenciada, su familia o sus posesiones;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+
+XVII. A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada, sentenciada o su familia;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+
+XVIII. A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución; o
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+
+XIX. Manipule, borre, oculte, sustraiga, altere, sustituya, dañe, contamine, modifique los indicios, huellas, vestigios, instrumentos, objetos o productos del delito encontrados en el lugar de los hechos materia del delito o interfiera de manera indebida en el procedimiento de cadena de custodia.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -3029,11 +3045,11 @@ Para los efectos de este Título, se entiende por falsedad toda alteración de l
 
 ## TITULO DECIMO PRIMERO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUAL
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2017)</small>
 
-### CAPITULO I. Atentados al pudor
+### CAPITULO I. Abuso Sexual
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2017)</small>
 
 ###### Art. 172.
 
@@ -3052,6 +3068,16 @@ La pena se aumentará al doble de la ya señalada, cuando el inculpado sea integ
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ### CAPITULO II. Estupro y Prostitución Infantil
+
+###### Artículo 173.
+
+Se impondrán de seis meses a seis años de prisión al que ejecute actos erótico-sexuales, sin el consentimiento de una persona mayor de edad. Si se hiciere uso de violencia física o psicológica la pena aumentará en una mitad.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+Este delito se perseguirá por querella de la parte ofendida.
+
+> <small>(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Art. 173.
 
@@ -3337,6 +3363,10 @@ Si cumple la amenaza, se le impondrán además las penas que procedan por los de
 
 Cuando el delito a que se refiere el presente artículo se cometa en contra de un periodista y con motivo de su actividad como tal, las penas aumentarán en un tercio.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2017)</small>
+
+Este delito se perseguirá por querella de la parte ofendida.
+
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 188 Bis.
@@ -3384,6 +3414,10 @@ Si lo que se exigió fue la entrega de numerario, uno o más objetos o documento
 Se impondrán de seis meses a dos años de prisión al que, sin motivo justificado y sin orden de autoridad competente, se introduzca a un departamento, vivienda, aposento o casa habitada o a sus dependencias.
 
 Si en el allanamiento media la furtividad, el engaño o la violencia, la pena aplicable será de uno a tres años de prisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2017)</small>
+
+Este delito se perseguirá por querella de la parte ofendida.
 
 ### CAPITULO II. Injurias
 
@@ -4087,9 +4121,13 @@ En todos los casos de robo para estimar su cuantía o determinar que no es estim
 
 V. De cinco a 18 años de prisión y hasta mil días de multa. También podrá aplicársele la prohibición de ir a lugar determinado o vigilancia de la autoridad, hasta por un término igual al de la sanción privativa de la libertad impuesta.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
 
-D) De nueve a veinte años de prisión y hasta mil días de multa, cuando intervenga la calificativa que se consigna en la fracción IX o cuando concurran dos o más de las calificativas enunciadas en el artículo 236, independientemente del monto de lo robado; cuando concurra entre las calificativas la IX antes referida, se incrementarán las penas hasta una tercera parte más de la que resulte aplicable.
+D) Si interviene la calificativa que se consigna en la fracción IX del artículo anterior, la pena será de nueve a veinte años de prisión y multa por el importe de sesenta a ciento cincuenta veces la Unidad de Medida y Actualización, sin importar el valor del robo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2017)</small>
+
+Cuando concurran dos o más calificativas se sancionará con la calificativa que amerite sanción más alta.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2010)</small>
 
@@ -6132,3 +6170,27 @@ P.O. 16 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26213/LXI/16 QUE ADICIONA A LOS PÁRRAFOS QUINTO Y SEXTO DEL ARTÍCULO 92 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26277/LXI/17 QUE REFORMA LOS ARTÍCULOS 188 Y 191 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; 20, 30, 63 Y 64 DE LA LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO, Y 60 Y 61 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26284/LXI/17 QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO DÉCIMO PRIMERO Y EL ARTÍCULO 173 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26285/LXI/17 QUE REFORMA EL ARTÍCULO 154 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26286/LXI/17 QUE REFORMA EL ARTÍCULO 236 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
