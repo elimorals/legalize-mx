@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-y-de-75068"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2017-02-11"
+last_updated: "2017-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -225,6 +225,8 @@ Disposiciones Generales.
 
 ###### Artículo 2.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2017)</small>
+
 1. Para los efectos de este reglamento se entenderá por:
 
 I. Código: Código Electoral y de Participación Social del Estado de Jalisco;
@@ -251,25 +253,53 @@ XI. Contraloría: Contraloría General del Instituto Electoral y de Participaci�
 
 XII. Directores: Aquéllos que conforme al organigrama del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, tienen a su cargo las Direcciones Administrativas;
 
-XIII. Instituto: Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2017)</small>
 
-XIV. Presidente: Consejero Presidente del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XIII. Estatuto: el Estatuto del Servicio Profesional Electoral Nacional y de la Rama Administrativa;
 
-XV. Reglamento: Reglamento Interior del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
 
-XVI. Secretaría Técnica: Secretaría Técnica de Comisiones del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XIV. Instituto: Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XVII. Secretario Ejecutivo: El titular de la Secretaría Ejecutiva del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
 
-XVIII. Titulares de Unidad de Área: Aquéllos que conforme al organigrama del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, tiene a su cargo una unidad de área;
+XV. Presidente: Consejero Presidente del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XIX. La Unidad de Fiscalización: Órgano técnico del Instituto, el cual tendrá la función de la fiscalización de los recursos de las agrupaciones políticas estatales y aquellas que en su caso le delegue el Instituto Nacional Electoral al Instituto, en materia de fiscalización de los partidos políticos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
 
-XX. La Unidad de Prerrogativas: Unidad de Prerrogativas;
+XVI. Reglamento: Reglamento Interior del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
-XXI. La Unidad de Transparencia: Unidad de Transparencia y Acceso a la Información Pública; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
 
-XXII. La Unidad de Igualdad de Género: Unidad de Igualdad de Género y No Discriminación.
+XVII. Secretaría Técnica: Secretaría Técnica de Comisiones del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+
+XVIII. Secretario Ejecutivo: El titular de la Secretaría Ejecutiva del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2017)</small>
+
+XIX. Servicio Profesional: El Servicio Profesional Electoral Nacional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+
+XX. Titulares de Unidad de Área: Aquéllos que conforme al organigrama del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, tiene (sic) a su cargo una unidad de área;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+
+XXI. La Unidad de Fiscalización: Órgano técnico del Instituto, el cual tendrá la función de la fiscalización de los recursos de las agrupaciones políticas estatales y aquellas que en su caso le delegue el Instituto Nacional Electoral al Instituto, en materia de fiscalización de los partidos políticos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+
+XXII. La Unidad de Prerrogativas: Unidad de Prerrogativas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+
+XXIII. La Unidad de Transparencia: Unidad de Transparencia y Acceso a la Información Pública; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+
+XXIV. La Unidad de Igualdad de Género: Unidad de Igualdad de Género y No Discriminación.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
@@ -293,6 +323,14 @@ IV. Los días comprendidos en el periodo general de vacaciones del personal del 
 
 4. Los Servidores Públicos del Instituto tendrán derecho a recibir una compensación derivada de las labores extraordinarias que realicen durante los procesos electorales, de acuerdo con el presupuesto de egresos del propio organismo electoral.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2017)</small>
+
+5. Las relaciones entre el Instituto y su personal, tanto del Servicio Profesional como de la Rama Administrativa, se regirá (sic) por las leyes locales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2017)</small>
+
+6. Los mecanismos de Selección, Ingreso, Capacitación, Profesionalización, Promoción, Evaluación, Cambios de Adscripción y Rotación, Permanencia, Incentivos y Disciplina del personal del Servicio Profesional se regirán conforme a lo establecido en el Estatuto, así como los lineamientos que para tal efecto emita el Instituto Nacional Electoral.
+
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2016)</small>
 
 # LIBRO SEGUNDO
@@ -309,7 +347,7 @@ De la Estructura del Instituto.
 
 ###### Artículo 4.
 
-(REPUBLICADO PRIMER PÁRRAFO, 22 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2017)</small>
 
 1. El Instituto ejercerá sus atribuciones a través de:
 
@@ -332,6 +370,8 @@ C. La Direcciones administrativas siguientes:
 4. Jurídica; y,
 
 5. De Organización Electoral;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2017)</small>
 
 III. Órganos técnicos, que son:
 
@@ -363,15 +403,29 @@ M. La Comisión de Quejas y Denuncias;
 
 N. La Comisión de Igualdad de Género y No Discriminación;
 
+> <small>[N. DE E. DEL ANÁLISIS AL ACUERDO IEPC-ACG-012/2017 PUBLICADO EN EL P.O. 4 DE MARZO DE 2017 SE ADVIERTE QUE EL CONTENIDO DE ESTE INCISO ES IDÉNTICO AL INCISO Q.]</small>
+
 O. El Comité Técnico de Asesoría Especializada de la Comisión de Adquisiciones y Enajenaciones;
 
-P. El Comité de Clasificación de Información Pública; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2017)</small>
 
-Q. El Comité Editorial;
+P. La Comisión de Seguimiento al Servicio Profesional;
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. DEL ANÁLISIS AL ACUERDO IEPC-ACG-012/2017 PUBLICADO EN EL P.O. 4 DE MARZO DE 2017 SE ADVIERTE QUE EL CONTENIDO DE ESTE INCISO ES IDÉNTICO AL INCISO O.], P.O. 4 DE MARZO DE 2017)</small>
 
-R. Comité de Participación Social
+Q. El Comité Técnico de Asesoría Especializada de la Comisión de Adquisiciones y Enajenaciones;
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
+
+R. El Comité de Clasificación de Información Pública;
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
+
+S. El Comité Editorial; y
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
+
+T. Comité de Participación Social.
 
 IV. Órganos desconcentrados, que son:
 
@@ -581,7 +635,7 @@ De la Secretaría Ejecutiva.
 
 1. La Secretaría Ejecutiva es el órgano ejecutivo central de carácter unipersonal, cuyo titular es el Secretario Ejecutivo, quien será el encargado de coadyuvar con la Presidencia, en organizar, dirigir y evaluar las actividades de las distintas áreas del Instituto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2017)</small>
 
 2. Corresponde al Titular de la Secretaría Ejecutiva, para el debido cumplimiento de sus atribuciones:
 
@@ -619,7 +673,13 @@ XIV. Llevar el archivo del Consejo General y la Oficialía de Partes del Institu
 
 XV. Atender y dar seguimiento a la Oficialía Electoral;
 
-XVI. Las demás que le confieran los ordenamientos legales, así como las conferidas por el Consejo General o el Consejero Presidente, en sus respectivos ámbitos de competencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2017)</small>
+
+XVI. Ser autoridad resolutora del Procedimiento Laboral Disciplinario del Servicio Profesional; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+
+XVII. Las demás que le confieran los ordenamientos legales, así como las conferidas por el Consejo General o el Consejero Presidente, en sus respectivos ámbitos de competencia.
 
 3. La Secretaría Ejecutiva podrá, para el cumplimiento de las obligaciones establecidas en el artículo anterior, así como las conferidas en el numeral 143 del Código, auxiliarse de los departamentos que considere oportunos, debiendo proponer la creación de los mismos al Consejo General; el funcionamiento, supervisión y vigilancia de éstos, estarán a cargo de la Secretaría Ejecutiva.
 
@@ -1535,6 +1595,12 @@ XIII. Invitar a funcionarios del Instituto o personas que determine necesarias a
 
 XIV. Las demás que le confiera este reglamento, el Consejo General, el Código y demás normatividad aplicable.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2017)</small>
+
+Artículo 50 Bis
+
+1. La Comisión de Seguimiento al Servicio Profesional será responsable de garantizar la correcta implementación y funcionamiento de los mecanismos del Servicio Profesional, conforme a las disposiciones del Estatuto y los lineamientos emitidos por el Instituto Nacional Electoral.
+
 > <small>(ADICIONADA, P.O. 19 DE MAYO DE 2016)</small>
 
 #### Sección Tercera
@@ -1934,3 +2000,9 @@ P.O. 11 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO IEPC-ACG-004/2017 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE REFORMA EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO”.]
 
 ARTÍCULO TRANSITORIO. Por única ocasión las comisiones del instituto, deberán presentar su agenda de trabajo dentro de los 30 (treinta) días naturales siguientes a la fecha de entrada en vigor del presente reglamento.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO IEPC-ACG-012/2017 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, QUE APRUEBA REFORMAR EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO”.]
+
+UNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
