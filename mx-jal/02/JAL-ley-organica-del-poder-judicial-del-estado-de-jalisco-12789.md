@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2016-10-11"
+last_updated: "2017-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL P.O. DE 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -100,8 +100,6 @@ Los tribunales de justicia del fuero común del Estado de Jalisco, ejercerán su
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
 
 En términos del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, los tribunales de justicia del fuero común del Estado de Jalisco conocerán de los delitos que las leyes federales les otorguen jurisdicción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -473,8 +471,6 @@ h) Las quejas presentadas en contra del magistrado y el sentido de su resolució
 
 El dictamen técnico, así como los demás datos, informaciones y opiniones que se hagan llegar al Congreso del Estado, tanto del Supremo Tribunal de Justicia, como de particulares, servirán para el proceso de ratificación de los magistrados. Estos elementos no limitan la facultad soberana del Congreso del Estado, de ratificar o no ratificar a los magistrados del Supremo Tribunal de Justicia del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 XXVII. Proponer al Consejo de la Judicatura la modificación en el número y límites territoriales de los distritos judiciales en que se divide el territorio del Estado, y
@@ -508,8 +504,6 @@ Para el Tribunal Pleno y la Presidencia del Supremo Tribunal habrá un Secretari
 Para ser Secretario General de Acuerdos se requiere:
 
 I. Ser mexicano por nacimiento, en pleno goce de sus derechos civiles y políticos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -743,8 +737,6 @@ Los notificadores estarán obligados a practicar las notificaciones y citaciones
 
 Las salas que conozcan de la materia penal, en los asuntos de los juzgados de su jurisdicción, resolverán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 I. De los recursos que se interpongan contra las resoluciones emitidas por los diversos órganos jurisdiccionales en materia penal según corresponda;
@@ -806,8 +798,6 @@ VI. De los demás asuntos que fijen las leyes.
 ###### Artículo 50.
 
 Los conflictos de competencia que se susciten entre juzgados de la jurisdicción de diferentes salas, serán resueltos por el Pleno del Supremo Tribunal de Justicia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -930,8 +920,6 @@ Para la elección del Magistrado que presidirá el Tribunal de lo Administrativo
 El Presidente del Tribunal de lo Administrativo, tendrá las siguientes atribuciones:
 
 I. Representar al Tribunal ante toda clase de autoridades;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1056,8 +1044,6 @@ Las faltas de los magistrados propietarios del Tribunal de lo Administrativo que
 ###### Artículo 67.
 
 El Pleno del Tribunal de lo Administrativo conocerá de los asuntos en que se dé trámite a recursos de apelación, reclamación y los que se deriven de la aplicación de la Ley de Responsabilidad Patrimonial del Estado y de los Municipios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1349,8 +1335,6 @@ Artículo 100 O.- (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ## TÍTULO QUINTO. DE LOS JUZGADOS Y JURADO POPULAR
@@ -1360,8 +1344,6 @@ Artículo 100 O.- (DEROGADO, P.O. 8 DE JULIO DE 2014)
 ###### Artículo 101.
 
 Los juzgados de la Entidad conocerán de los asuntos de materia penal, civil, familiar y mercantil, según determine el Pleno del Consejo de la Judicatura, conforme a las reglas siguientes:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1406,8 +1388,6 @@ IV. Los juzgados de lo mercantil, conocerán de toda clase de juicios o trámite
 > <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
 
 V. Los juzgados mixtos, conocerán de toda clase de asuntos mencionados en las fracciones anteriores.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1463,37 +1443,25 @@ IV. Acreditar cuando menos cinco años de práctica profesional desde la obtenci
 
 V. Aprobar el examen de oposición;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 VI. Tener reconocida probidad y honradez;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 VII. No haber sido condenado por delito doloso que amerite pena corporal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 VIII. No tener impedimento físico o enfermedad que lo imposibilite para el desempeño del cargo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 IX. Acreditar los conocimientos, habilidades y competencias que se requieran para el desempeño de su cargo, de conformidad con lo que establezcan las demás disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 X.- Satisfacer con eficiencia y probidad sus servicios en la administración de la justicia o gozar de conocida honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1535,8 +1503,6 @@ V. Excusarse en los casos previstos por la ley;
 
 VI. Acatar sin demora las ejecutorias y requerimientos de sus supervisores;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 VII. Residir en la cabecera del distrito judicial de su adscripción;
@@ -1560,8 +1526,6 @@ XIII. Las demás que les impongan las leyes.
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
 En el caso de la fracción XI, los jueces al proponer el personal del juzgado deberán hacerlo preferentemente a favor de quien tenga mejor derecho de acuerdo al sistema de Carrera Judicial, de no ser así, podrán hacerlo a favor de persona ajena al Poder Judicial, en cuyo caso deberá motivarse la propuesta. Si el Consejo no aprueba al candidato, el juez presentará otra y hasta una tercera propuesta, de ser necesario. De ser rechazadas el Consejo elegirá para el cargo a quien hubiere obtenido mayor votación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1597,31 +1561,21 @@ XI. Tener a su cargo los libros pertenecientes al Juzgado;
 
 XII. Custodiar el sello del juzgado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
 XIII. Organizar el archivo del juzgado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
 XIV. Llevar un registro diario de oficios y correspondencia diaria; de exhortos; de amparos; de entrega y recibo de expedientes al Archivo Judicial; de turno para sentencias; de registro de cédulas profesionales; así como de registro de valores; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
 
 XV. Desempeñar todas las funciones que la ley y el reglamento determinen.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2014)</small>
 
 No obstante, en materia penal los jueces de los distintos órganos jurisdiccionales y magistrados podrán actuar sin asistencia de secretarios o testigos de asistencia, y en ese caso ellos tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1654,8 +1608,6 @@ V. Practicar las diligencias con todo comedimiento, evitando en lo posible, caus
 VI. Dar cuenta al Juez sin demora alguna, de las solicitudes de libertad caucional o condicional; y
 
 VII. Las demás que la ley o el Juez le encomiende.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1751,8 +1703,6 @@ VII. No haber sido condenado por delito doloso que amerite pena corporal.
 
 Todo ciudadano residente en el Estado de Jalisco que reúna los requisitos señalados por el artículo anterior, tiene la obligación de desempeñar el cargo de Jurado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ###### Artículo 124.
@@ -1761,8 +1711,6 @@ En el Primer Distrito Judicial, se nombrarán por el Consejo de la Judicatura, c
 
 En ambos casos la designación se hará en los primeros quince días del mes de octubre y la lista de los nombramientos se publicará en el Boletín Judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ###### Artículo 125.
@@ -1770,8 +1718,6 @@ En ambos casos la designación se hará en los primeros quince días del mes de 
 El Jurado se integrará por siete ciudadanos electos mediante un sistema de insaculación por el Pleno del Consejo de la Judicatura, sujeto a las siguientes bases:
 
 I. La insaculación de jurados se hará en público el día anterior al en que deba celebrarse el juicio, debiendo estar presentes el Juez, su Secretario de Acuerdos, el Ministerio Público, el acusado y su defensor. La ausencia de los dos últimos no impedirá la insaculación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1815,8 +1761,6 @@ El procedimiento, recusación, el orden que debe seguirse en las audiencias y en
 
 Los jueces de primera instancia del Estado serán suplidos en sus faltas temporales o absolutas por los que nombre el Consejo General del Poder Judicial. En tanto se haga el nombramiento, en los juzgados especializados los sustituirán los secretarios de acuerdos, y en los juzgados mixtos el Secretario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
 ###### Artículo 131.
@@ -1834,8 +1778,6 @@ En sus faltas temporales el Secretario de Acuerdos de las salas, será publido (
 ###### Artículo 133.
 
 En los juzgados especializados, los secretarios suplirán a los secretarios de acuerdos o conciliadores, en los casos de excusa y recusaciones, faltas o ausencias temporales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -2001,8 +1943,6 @@ XXIII. Convocar a congresos estatales o regionales de jueces, asociaciones profe
 
 XXIV. Apercibir, amonestar e imponer multas, hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a quienes falten al respeto a algún órgano o miembro del Poder Judicial del Estado en las promociones que hagan ante el Consejo General del Poder Judicial del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 XXV. Elaborar anualmente una lista con los nombres de las personas que puedan fungir como auxiliares de la administración de justicia ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
@@ -2031,25 +1971,17 @@ XXXIV. Dictar las medidas que exijan el buen servicio y la disciplina en las ofi
 
 XXXV. Regular las autorizaciones para abandonar el lugar de residencia de los funcionarios judiciales en los casos contemplados en el presente ordenamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 XXXVI. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 XXXVII. Elaborar la base de datos para el registro único de profesionales del derecho que ejercen la abogacía ante los órganos jurisdiccionales del Poder Judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 XXXVIII. Acordar de conformidad con el Presupuesto de Egresos, el número necesario de juzgados de primera instancia, incluyendo los especializados, en la entidad; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -2137,7 +2069,7 @@ Los dictámenes y acuerdos de las comisiones se tomarán por mayoría de votos d
 
 ###### Artículo 156.
 
-Cada comisión nombrará a su respectivo Presidente y determinarán, por medio de acuerdos, el tiempo que deba permanecer en el cargo y las funciones que deba ejercer.
+(DEROGADO, P.O. 4 DE MARZO DE 2017)
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
@@ -2335,8 +2267,6 @@ El Pleno del Consejo General del Poder Judicial y el Titular de la Dirección de
 
 ### CAPÍTULO VIII bis. DE LA ORGANIZACIÓN Y LOGÍSTICA DE LA FUNCIÓN JURISDICCIONAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2014)</small>
 
 Artículo 179 bis.- Corresponde a la Dirección de Logística la organización y distribución ordenada de tareas necesarias para el desarrollo de las diligencias y audiencias a celebrar en los distintos órganos jurisdiccionales especializados en materia penal.
@@ -2366,8 +2296,6 @@ I. Vigilar el cumplimiento de las normas de control establecidas por el Consejo 
 II. Elaborar los dictámenes de proyectos de Presupuesto de Egresos, planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos de los órganos jurisdiccionales dependientes del Consejo General del Poder Judicial, para que sean sometidos a la aprobación del Pleno del propio Consejo; y
 
 III. Comprobar el cumplimiento por parte de los órganos administrativos de cada órgano jurisdiccional, respecto de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -3528,3 +3456,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26273/LXI/17 QUE DEROGA EL ARTÍCULO 156 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
