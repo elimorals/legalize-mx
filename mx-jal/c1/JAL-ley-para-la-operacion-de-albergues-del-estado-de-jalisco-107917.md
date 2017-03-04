@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-operacion-de-albergues-del-estado-de-jalisco-107917
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-21"
-last_updated: "2016-10-11"
+last_updated: "2017-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY PARA LA OPERACION DE ALBERGUES DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL P.O. DE 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de mayo de 2015.
 
@@ -121,7 +121,7 @@ V. Elaborar un reglamento de operación modelo para albergues, el cual deberá c
 
 VI. Las demás que le establezcan otras disposiciones legales o reglamentarias aplicables.
 
-VII. Las demás que le establezcan otras disposiciones legales o reglamentarias aplicables (sic).
+VII. Las demás que le establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 7º.
 
@@ -313,7 +313,9 @@ Corresponderá la cancelación del Certificado de funcionamiento de albergue cua
 
 I. Se deje de cumplir con las condiciones mínimas requeridas para la obtención del Certificado de funcionamiento;
 
-II. Se suspenda la prestación de servicios sin previo aviso a la Procuraduría en materia de protección de niñas, niños, adolescentes y la familia, o al Instituto Jalisciense del Adulto Mayor, según corresponda, en un plazo mayor a treinta días naturales; o
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+
+II. Se suspenda la prestación de servicios sin previo aviso a la autoridad competente en materia de protección de niñas, niños, adolescentes y la familia, o al Instituto Jalisciense del Adulto Mayor, según corresponda, en un plazo mayor a treinta días naturales; o
 
 III. Por cambio de domicilio del albergue.
 
@@ -425,13 +427,11 @@ Cuando cualquier albergue reciba a cualquier persona sin que medie orden judicia
 
 De conformidad con el principio de unidad familiar se mantendrá juntos a los hermanos menores de edad. Sólo un Juez podrá decretar la separación de éstos cuando exista impedimento grave para su convivencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
 
 ###### Artículo 30.
 
-Queda prohibido a los albergues mover o cambiar a cualquier residente (sic) albergue, o enviarlo a un sitio distinto al de su custodia y vigilancia; sólo podrá realizarse mediante autorización de la Procuraduría de Protección de Niñas, Niños y Adolescentes que justifique mediante acuerdo fundado y motivado el extremo de la medida, atendiendo el interés superior de las niñas, niños y adolescentes, o de la Procuraduría Social, para salvaguardar los derechos de las personas adultas mayores y con discapacidad, y escuchando previamente al residente.
+Queda prohibido a los albergues mover o cambiar a cualquier residente o enviarlo a un sitio distinto al de su custodia y vigilancia; sólo podrá realizarse mediante autorización de la autoridad competente que justifique mediante acuerdo fundado y motivado el extremo de la medida, atendiendo el interés de las personas menores de edad, o los derechos de las personas adultas mayores y con discapacidad, y escuchando previamente al residente.
 
 ### CAPÍTULO IV. DE LAS OBLIGACIONES DE LOS FAMILIARES
 
@@ -617,7 +617,7 @@ XIV. Dar a conocer al residente y entregarle por escrito el reglamento de operac
 
 XV. Brindar el cuidado y vigilancia a los residentes de manera permanente quedando prohibida la figura de albergue abierto;
 
-XVI. Contar con el reglamento de operación, en los términos de esta Ley, y aprobado por el Sistema Nacional DIF; (sic)
+XVI. Contar con el reglamento de operación, en los términos de esta Ley, y aprobado por el Sistema Nacional DIF;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -879,11 +879,17 @@ II. No regularizar la situación que dio origen a la imposición de la multa de 
 
 III. El incumplimiento de estándares mínimos de calidad y seguridad establecidos por la autoridad competente;
 
-IV. Generar cualquier circunstancia que signifique riesgo a la vida, la integridad física o psicológica de los residentes; o
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
 
-V. Reincidir en alguna de las causas que originen las sanciones contenidas en el artículo que antecede siempre que se cometa la misma infracción.
+IV. Generar cualquier circunstancia que signifique riesgo a la vida, la integridad física o psicológica de los residentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+
+V. Reincidir en alguna de las causas que originen las sanciones contenidas en el artículo que antecede siempre que se cometa la misma infracción; o
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+
+VI. No contar con registro ante el Instituto Jalisciense de Asistencia Social en los casos de centros de acogida, casas hogares o albergues para personas menores de edad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -899,9 +905,21 @@ III. Cuando sea falsificada o alterada la documentación oficial;
 
 IV. Cuando exista un mal manejo o manipulación, alteración o falsificación de los registros de estancia de los residentes por parte del titular o administrador del albergue;
 
-V. Cuando sea comprobado, por parte de las autoridades competentes, que el titular o administrador del albergue, cometió actos de violencia, maltrato y/o abuso, pornografía u otras conductas que vayan en detrimento de la salud o integridad física y psicológica de los residentes; o
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
 
-VI. Cuando se registre el incremento en la capacidad del albergue, sin dar previo aviso a las autoridades competentes.
+V. Cuando sea comprobado, por parte de las autoridades competentes, que el titular o administrador del albergue, cometió actos de violencia, maltrato o abuso, pornografía u otras conductas que vayan en detrimento de la salud o integridad física y psicológica de los residentes;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+
+VI. Cuando se registre el incremento en la capacidad del albergue, sin dar previo aviso a las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+
+VII. Realizar cualquiera de las acciones que establece el artículo 30 de esta Ley; o
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+
+VIII. Cuando no cuente con un registro actualizado de los albergados, así como con la debida información de su situación jurídica y ésta sea del conocimiento de la autoridad competente.
 
 ###### Artículo 65.
 
@@ -1010,3 +1028,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 26277/LXI/17 QUE REFORMAN LOS ARTÍCULOS 188 Y 191 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO: 20, 30, 63 Y 64 DE LA LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO, Y 60 Y 61 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
