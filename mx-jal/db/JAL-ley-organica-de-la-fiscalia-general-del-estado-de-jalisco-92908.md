@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-general-del-estado-de-jalisco-92908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2016-09-20"
+last_updated: "2017-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 27 de febrero de 2013.
 
@@ -44,8 +46,6 @@ Se expide la Ley Orgánica de la Fiscalía General del Estado, para quedar como 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -79,8 +79,6 @@ X. Coadyuvar en la formulación de propuestas al Ejecutivo Estatal para la elabo
 
 XI. Garantizar los derechos de las víctimas, de los testigos y de otros grupos vulnerables, estableciendo y reforzando, en su caso, los mecanismos jurídicos y administrativos que permitan obtener la reparación del daño;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 XII. Organizar, dirigir y supervisar el sistema de profesionalización en las funciones de prevención, policial, bajo su mando, atención victimológica, procuración de justicia penal y reinserción social;
@@ -107,8 +105,6 @@ XVIII. Establecer vínculos y relaciones con instituciones y organismos afines e
 
 XIX. Canalizar los asuntos y denuncias de los ciudadanos a las instancias respectivas que no sean de su competencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 XX. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 XXI. Las demás que le otorguen otras disposiciones legales.
@@ -124,8 +120,6 @@ Ejercerá sus atribuciones respondiendo a la satisfacción del interés social y
 El Fiscal General intervendrá por sí o por conducto de los Fiscales o agentes del Ministerio Público en el ejercicio de las atribuciones conferidas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Jalisco, la presente ley y las demás disposiciones aplicables.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -164,8 +158,6 @@ VIII. Los Agentes del Ministerio Público; y
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014)</small>
 
 IX. Las instancias disciplinarias o comisiones de honor y justicia que establezca el reglamento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -299,8 +291,6 @@ II. Dictar las medidas adecuadas para combatir y erradicar la violencia contra l
 
 III. Otorgar la protección que la ley prevé a los derechos de las víctimas, estableciendo y reforzando mecanismos jurídicos y administrativos que permitan obtener la reparación del daño y la restitución de los derechos de las víctimas u ofendidos del delito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 IV. Ejercer el mando sobre la Policía Estatal y todos sus agrupamientos a través del Comisionado de Seguridad Pública, con excepción de la policía vial en los términos de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución local y de las demás disposiciones aplicables;
@@ -333,15 +323,11 @@ XII. Participar en el Sistema Nacional de Planeación Democrática, en los térm
 
 XIII. Opinar y participar en los proyectos de iniciativas de ley o de reformas legislativas para la exacta observancia de la Constitución Política del Estado de Jalisco y que estén vinculadas con las materias de su competencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
 XIV. Establecer medios de información sistemática y directa a la sociedad, para dar cuenta de sus actividades. En todo caso se reservará la información cuya divulgación pueda poner en riesgo las investigaciones que realice la Fiscalía General del Estado a través de sus fiscales o agentes del ministerio público y mantendrá la confidencialidad de los datos personales, de conformidad con lo dispuesto por el Código Nacional de Procedimientos Penales y demás normas aplicables;
 
 XV. Ofrecer y entregar recompensas en numerario, en un solo pago o en exhibiciones periódicas, a personas que aporten información útil relacionada con las investigaciones y averiguaciones que realice, así como a aquéllas que colaboren en la localización y detención de probables responsables de la comisión de delitos, en los términos y condiciones que mediante acuerdo determine el Fiscal General, de conformidad con el presupuesto;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -355,9 +341,17 @@ a) Derechos humanos y género;
 
 b) La aplicación de la perspectiva de género en la debida diligencia, la conducción de investigación del delito y procesos judiciales relacionados con violencia de género y feminicidio;
 
-c) Eliminación de estereotipos sobre el rol social de las mujeres, y
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
 
-d) Los que se consideren pertinentes para la debida investigación y persecución de los delitos que son cometidos contra niñas, adolescentes y mujeres;
+c) Eliminación de estereotipos sobre el rol social de las mujeres;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2017)</small>
+
+d) Sensibilización para la atención de los delitos contra la seguridad, la libertad sexual, el libre desarrollo de la personalidad; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 4 DE MARZO DE 2017)</small>
+
+e) Los que se consideren pertinentes para la debida investigación y persecución de los delitos que son cometidos contra niñas, adolescentes y mujeres;
 
 XIX. Crear un registro público sistemático de los delitos cometidos, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos en caso de homicidio o feminicidio, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, de conformidad a la ley estatal en la materia;
 
@@ -381,8 +375,6 @@ I. En la investigación del delito:
 
 a) Recibir denuncias o querellas sobre acciones u omisiones que puedan constituir delito, así como ordenar a la policía que investigue la veracidad de los datos aportados mediante informaciones anónimas, en términos de las disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
 b) Practicar las diligencias necesarias para la acreditación de hechos que la ley señale como delito y la probable responsabilidad del imputado en términos de lo dispuesto por el Código Nacional de Procedimientos Penales, en coordinación con sus auxiliares y otras autoridades de los tres órdenes de gobierno, de conformidad con las disposiciones aplicables, los protocolos de actuación que se establezcan, y los convenios de colaboración e instrumentos que al efecto se celebren;
@@ -392,8 +384,6 @@ c) Ejercer la conducción y mando de las policías en la función de la investig
 d) Ejercer sus facultades de investigación respecto de los delitos en materias concurrentes cuando las leyes otorguen competencia a las autoridades del fuero federal, siempre que prevenga en el conocimiento del asunto, le solicite al Ministerio Público de la Federación la remisión de la investigación o se actualicen las hipótesis que para tal efecto se contemplen en ley;
 
 e) Llevar a cabo las acciones necesarias para solicitar la reparación del daño correspondiente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -411,13 +401,9 @@ k) Ordenar a la policía que brinde protección a personas respecto de las cuale
 
 l) Restituir provisionalmente a la víctima u ofendido en el goce de sus derechos, en los términos de las disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
 m) Solicitar al órgano jurisdiccional la prisión preventiva de los imputados en términos de las disposiciones legales aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -425,15 +411,11 @@ n) Solicitar al órgano jurisdiccional las órdenes de cateo, la imposición del
 
 o) Practicar las diligencias de cateo en términos de las disposiciones legales aplicables y de acuerdo con el mandamiento judicial correspondiente, para lo que podrá auxiliarse de la policía;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
 p) En aquellos casos en que la ley lo permita, propiciar la conciliación de los intereses en conflicto, proponiendo vías de solución que logren su resolución mediante la conciliación, acuerdo o cualquier otra figura jurídica que permita solucionar el conflicto, así como formas anticipadas de terminación del proceso penal;
 
 q) Determinar la incompetencia y remitir el asunto a la autoridad que deba conocerlo así como la acumulación de las investigaciones del delito cuando sea procedente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -442,8 +424,6 @@ r) Determinar el ejercicio de la acción penal o el archivo temporal de la inves
 s) Determinar el no ejercicio de la acción penal, cuando:
 
 1. Los hechos de que conozca no sean constitutivos de delito;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -461,33 +441,23 @@ t) Acordar el no ejercicio de la acción penal y notificarlo personalmente al de
 
 u) Poner a disposición de la autoridad competente a los menores de edad que hubieren incurrido en acciones u omisiones correspondientes a ilícitos tipificados por las leyes penales federales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
 v) Poner a los inimputables mayores de edad a disposición del órgano jurisdiccional, cuando se deban aplicar medidas de seguridad, ejerciendo las acciones correspondientes en los términos establecidos en las normas aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
 w) Ejercer la facultad de abstenerse de investigar cuando los hechos relatados en la denuncia, querella o acto equivalente, no fueren constitutivos de delito o cuando los antecedentes y datos suministrados permitan establecer que se encuentra extinguida la acción penal o la responsabilidad penal del imputado. Esta decisión será siempre fundada y motivada;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2014)</small>
 
 x) Decidir la aplicación de criterios de oportunidad en los casos previstos en el Código Nacional de Procedimientos Penales; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2014)</small>
 
 y) Las demás que determinen las normas aplicables.
 
 Cuando el Ministerio Público tenga conocimiento por sí o por conducto de sus auxiliares de la probable comisión de un delito cuya persecución dependa de querella o de cualquier otro acto equivalente, que deba formular alguna autoridad, lo comunicará por escrito y de inmediato a la autoridad competente, a fin de que resuelva con el debido conocimiento de los hechos lo que a sus facultades o atribuciones corresponda. Las autoridades harán saber por escrito al Ministerio Público la determinación que adopten.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -497,8 +467,6 @@ II. Ante los órganos jurisdiccionales:
 
 a) Ejercer la acción penal cuando esté acreditado el cuerpo del delito de que se trate y la probable responsabilidad de quien o quienes en él hubieren intervenido, solicitando las órdenes de aprehensión o de comparecencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
 Cuando se estime necesario atendiendo a las características del hecho investigado, a las circunstancias personales del imputado, por razones de seguridad en las prisiones o por otras que impidan garantizar el desarrollo adecuado del proceso, la acción penal se ejercitará ante el tribunal competente distinto al del lugar de la comisión del delito;
@@ -507,13 +475,9 @@ b) Solicitar las medidas cautelares que procedan, en términos de la legislació
 
 c) Poner a disposición de la autoridad judicial a las personas detenidas dentro de los plazos establecidos por la ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
 d) Aportar las pruebas y promover las diligencias conducentes para la debida comprobación de la existencia del delito, las circunstancias en que hubiese sido cometido y las peculiares del imputado, de la responsabilidad penal, de la existencia de los daños y perjuicios, así como para la fijación del monto de su reparación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -521,13 +485,9 @@ e) Solicitar la autorización u orden correspondientes para la obtención de cua
 
 f) Impugnar cuando sea procedente en los términos previstos por la ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
 g) En general, promover lo conducente al desarrollo de los procesos y realizar las demás atribuciones que le señalen las normas aplicables; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2014)</small>
 
@@ -544,8 +504,6 @@ II. Establecer un sistema integral de investigación, destinado a obtener, anali
 III. Implementar acciones tendientes a prevenir el comportamiento criminal;
 
 IV. Formular al Ejecutivo Estatal las propuestas necesarias para la elaboración del Programa Estatal de Seguridad Pública y Procuración de Justicia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -567,13 +525,9 @@ XI. Celebrar convenios de colaboración, en el ámbito de su competencia y en el
 
 La Fiscalía General del Estado tiene las siguientes atribuciones en materia de atención y seguridad a la víctima o el ofendido por algún delito:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
 I. Proporcionar asesoría jurídica a la víctima u ofendido e informarle de los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Víctimas, la Ley de Atención a Víctimas del Estado de Jalisco y, cuando lo solicite, sobre el desarrollo del procedimiento penal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -589,8 +543,6 @@ VI. Dictar las medidas necesarias y que estén a su alcance para que la víctima
 
 VII. Solicitar a la autoridad judicial, en los casos en que sea procedente, la reparación del daño;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
 VIII. Solicitar a la autoridad judicial que el imputado o procesado sea separado del domicilio de la víctima cuando se trate de delitos que pongan en peligro su integridad física o mental, así como otras medidas cautelares que sean procedentes;
@@ -600,8 +552,6 @@ IX. Solicitar a la autoridad judicial dicte providencias para la protección a l
 X. Ejercer las acciones que las disposiciones normativas en materia de extinción de dominio de bienes prevean a favor o en beneficio de las víctimas y ofendidos;
 
 XI. Promover la reserva de identidad y otros datos personales de la víctima u ofendido, cuando sean menores de edad; se trate de delitos de violación, secuestro o delincuencia organizada, y en los demás casos que se considere necesario para su protección;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -618,8 +568,6 @@ XVI. Las demás que le confieran la presente Ley y otros ordenamientos legales.
 ###### Artículo 17.
 
 La Fiscalía General del Estado tiene las siguientes atribuciones en materia de reinserción social:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -751,13 +699,9 @@ Todas las autoridades del Estado están obligadas a prestar colaboración inmedi
 
 Son atribuciones de los agentes del Ministerio Público:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
 I. Proceder a la detención de los que aparezcan como probables responsables en la comisión de delitos de los que se persiguen de oficio sin necesidad de orden judicial cuando se trate de flagrante delito o exista notoria urgencia, por el riesgo fundado de que el imputado trate de ocultarse o eludir la acción de la justicia, cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancias, tratándose únicamente de delitos calificados como graves por la ley, mediante resolución que funde y exprese los motivos de su proceder, de conformidad con lo dispuesto en el Código de (sic) Nacional de Procedimientos Penales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -766,8 +710,6 @@ II. Asegurarse, en todos los casos, que el imputado sea asistido por un Defensor
 III. Dirigir las investigaciones penales que les fueren asignadas;
 
 IV. Velar para que el imputado sea instruido en sus derechos constitucionales y le sean protegidos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -870,8 +812,6 @@ Para intervenir en los procedimientos que requieran de especialización, además
 ###### Artículo 36.
 
 Son requisitos de ingreso y permanencia en las Instituciones policiales y de procuración de justicia, los señalados en la Ley General del Sistema Nacional de Seguridad Pública y la correspondiente del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -1129,7 +1069,7 @@ VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 8 DE JULIO DE 2014.
 
@@ -1256,3 +1196,9 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente decreto entrará en vigor a partir de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26282/LXI/17 QUE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
