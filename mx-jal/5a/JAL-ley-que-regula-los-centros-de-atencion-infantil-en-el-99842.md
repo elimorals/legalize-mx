@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-regula-los-centros-de-atencion-infantil-en-el-99842"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2016-10-11"
+last_updated: "2017-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el 25 de marzo de 2014.
 
@@ -643,9 +641,21 @@ Las visitas a que se refiere el artículo anterior, tendrán los siguientes obje
 
 I. Verificar el cumplimiento de los requisitos señalados por esta Ley y demás ordenamientos aplicables por parte de los prestadores de servicios para la atención, cuidado y desarrollo integral de menores;
 
-II. Informar a la autoridad responsable de la detección oportuna de cualquier riesgo para la integridad física o psicológica de niñas y niños y solicitar su oportuna actuación; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
 
-III. En su caso, imponer las medidas de seguridad, precautorias o sanciones que determine la Ley.
+II. Supervisar el cumplimiento de las especificaciones necesarias en materia de protección civil;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+
+III. Inspeccionar las áreas físicas para verificar el cumplimiento de las normas sanitarias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2017)</small>
+
+IV. Informar a la autoridad responsable de la detección oportuna de cualquier riesgo para la integridad física o psicológica de niñas y niños y solicitar su oportuna actuación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2017)</small>
+
+V. En su caso, imponer las medidas de seguridad o precautorias, así como las sanciones que determine la Ley.
 
 ###### Artículo 53.
 
@@ -798,3 +808,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26279/LXI/17 QUE REFORMA EL ARTÍCULO 52 DE LA LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
