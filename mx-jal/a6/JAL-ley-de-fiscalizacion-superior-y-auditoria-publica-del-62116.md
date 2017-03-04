@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-auditoria-publica-del-62116"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-05"
-last_updated: "2017-03-02"
+last_updated: "2017-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORIA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 5 de julio de 2008.
 
@@ -1009,7 +1009,9 @@ Los pliegos de observaciones y recomendaciones relativos a la revisión, examen 
 
 I. La Auditoría Superior notificará en el domicilio registrado de los sujetos auditables las observaciones y recomendaciones respectivas en un término de treinta días naturales contados a partir del cierre del acta de visita;
 
-II. El titular de la entidad auditable tendrá un término de treinta días naturales, contados a partir de la fecha de notificación de los pliegos, para solventar y justificar las observaciones y recomendaciones realizadas por la Auditoría Superior;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+
+II. El titular de la entidad auditable tendrá un término de treinta días hábiles, contados a partir de la fecha de notificación de los pliegos, para solventar y justificar las observaciones y recomendaciones realizadas por la Auditoría Superior;
 
 III. La entidad auditable deberá acompañar a su solventación los documentos justificativos que sustenten su argumento o, en su caso, deberá informar de los trámites y medidas tomadas para hacer efectivo el cobro de las cantidades no percibidas por la hacienda pública estatal o municipal o a su patrimonio, así como para el resarcimiento de los daños presuntamente causados; apercibidos que en caso de no presentar su escrito de contestación, se estará a lo establecido en la siguiente fracción;
 
@@ -1587,7 +1589,7 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 31 DE DICIEMBRE DE 2009.
 
@@ -1634,3 +1636,9 @@ P.O. 2 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26262/LXI/17 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS A LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO, LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE MARZO DE 2017.
+
+[N. DE E TRANSITORIO DEL “DECRETO 26287/LXI/17 QUE REFORMA EL ARTÍCULO 62 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
