@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2016-10-11"
+last_updated: "2017-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -705,9 +703,17 @@ XI. Las embarazadas o que sean madres,
 
 XII. Huérfanos;
 
-XIII. Con enfermedades o trastornos mentales; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
 
-XIV. Cualquier otra.
+XIII. Los que carece (sic) de los cuidados parentales y se encuentren en instituciones de acogimiento o albergues destinados para este fin;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+
+XIV. Con enfermedades o trastornos mentales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2017)</small>
+
+XV. Cualquier otra.
 
 ###### Artículo 61.
 
@@ -729,9 +735,17 @@ VII. Vigilar que en los lugares de tratamiento y asistencia social de niñas, ni
 
 VIII. Establecer clínicas de rehabilitación destinadas a niñas, niños y adolescentes con problemas de adicciones, así como realizar campañas de concientización y prevención;
 
-IX. Estructurar programas de apoyo para que concluyan la educación obligatoria; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
 
-X. Ejecutar las demás acciones que sean necesarias para garantizar la protección y asistencia social de niñas, niños y adolescentes en condición de vulnerabilidad.
+IX. Estructurar programas de apoyo para que concluyan la educación obligatoria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MARZO DE 2017)</small>
+
+X. Garantizar que las personas menores de edad que carezcan de cuidados parentales y se encuentren viviendo en instituciones de acogimiento o albergues, cuenten con un debido registro que contenga sus datos personales, la fecha de ingreso, las circunstancias por las que fueron ingresados, su situación jurídica y, en su caso, datos de la existencia de algún familiar, esto con la finalidad de que, a la brevedad posible, se restauren sus derechos, atendiendo al interés superior del menor; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE MARZO DE 2017)</small>
+
+XI. Ejecutar las demás acciones que sean necesarias para garantizar la protección y asistencia social de niñas, niños y adolescentes en condición de vulnerabilidad.
 
 ### CAPÍTULO XIX. Derecho a un Medio Ambiente Sano, Adecuado y Ecológicamente Equilibrado
 
@@ -1604,3 +1618,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26277/LXI/17 QUE REFORMA LOS ARTÍCULOS 188 Y 191 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; 20, 30, 63 Y 64 DE LA LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO, Y 60 Y 61 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
