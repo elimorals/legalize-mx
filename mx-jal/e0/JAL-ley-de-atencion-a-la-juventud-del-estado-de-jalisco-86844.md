@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-la-juventud-del-estado-de-jalisco-86844"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-24"
-last_updated: "2016-05-17"
+last_updated: "2017-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
 
 Ley publicada en la sección III del Periódico Oficial del Estado de Jalisco, el sábado 24 de marzo de 2012.
 
@@ -389,7 +389,9 @@ II. Vigilar el cumplimiento de los objetivos del programa.
 
 El Consejo Estatal de la Juventud se encuentra conformado por:
 
-I. Un coordinador, que será el Director General del Instituto
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+
+l. El Director General del Instituto.
 
 II. Los integrantes de la sociedad civil, representados por los titulares de:
 
@@ -403,9 +405,15 @@ d) Hasta cinco jóvenes destacados en los diferentes ámbitos sociales, cultural
 
 e) Hasta cinco asociaciones civiles u organizaciones no gubernamentales.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
+
 ###### Artículo 27.
 
-Los representantes de la sociedad civil que conformen el Consejo Estatal de la Juventud serán elegidos por la junta directiva del instituto, previa convocatoria abierta emitida por el Instituto Jalisciense de la Juventud, a través de su Director General durarán en su cargo tres años, mismos que coincidirán con los periodos de las gestiones municipales en el estado, y podrán ser removidos libremente por acuerdo de las dos terceras partes de los integrantes de la junta directiva del instituto.
+Los representantes de la sociedad civil que conformen el Consejo Estatal de la Juventud serán elegidos por la junta directiva del Instituto, previa convocatoria abierta emitida por el Instituto Jalisciense de la Juventud, a través de su Director General.
+
+Los representantes de la sociedad civil durarán en su cargo tres años, con posibilidad de reelección por un periodo igual.
+
+Los periodos para el que son electos los representantes de la sociedad civil deberán coincidir con los periodos de las gestiones municipales en el Estado, y podrán ser removidos libremente por acuerdo de las dos terceras partes de los integrantes de la Junta Directiva del Instituto.
 
 #### SECCIÓN CUARTA. DE LA COORDINACIÓN INSTITUCIONAL
 
@@ -621,7 +629,7 @@ El Estado y los municipios, en coordinación con las universidades públicas y p
 
 El Estado y los municipios promoverán y difundirán la realización de prácticas profesionales entre las empresas de nueva creación mediante los medios de comunicación que consideren pertinentes, así como por medio de las dependencias públicas especializadas en el otorgamiento de créditos y permisos e incubadoras de empresas.
 
-###### Articulo 55.
+###### Artículo 55.
 
 El Estado y los municipios procurarán ofertar, en coordinación con la iniciativa privada, programas de capacitación oportuna y especializada para el empleo con el objetivo de certificar a los jóvenes que deseen integrarse a la vida productiva y dotarlos de un mejor perfil laboral.
 
@@ -680,3 +688,9 @@ P.O. 17 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25825/LXI/2016 QUE REFORMA LOS ARTÍCULOS 6º DE LA LEY DE ACUACULTURA Y PESCA; 49 Y 50 DE LA LEY DE ATENCIÓN A LA JUVENTUD; 26 DE LA LEY DE BIBLIOTECAS; 7º DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE; 16 DE LA LEY DE DESARROLLO RURAL Y SUSTENTABLE; 7º DE LA LEY DE EDUCACIÓN; 10 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; 3º DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL; 4º DE LA LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA; 3º DE LA LEY ORGÁNICA DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS; 4º DE LA LEY ORGÁNICA DEL INSTITUTO DE FOMENTO AL COMERCIO EXTERIOR; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO Y 8º Y 11 FRACCIÓN II, INCISO C) DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE JALISCO PARA EL DESARROLLO Y LA COMPETITIVIDAD, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 4 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26274/LXI/17 QUE REFORMA LOS ARTÍCULOS 26 Y 27 DE LA LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
