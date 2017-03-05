@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-extincion-de-dominio-para-el-estado-de-durango-103954"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-27"
-last_updated: "2014-11-27"
+last_updated: "2017-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 27 de noviembre de 2014.
 
@@ -371,7 +371,9 @@ Reglas y principios en las audiencias.
 
 Las audiencias deberán celebrarse de forma oral bajo los principios de inmediación, concentración, contradicción, continuidad y publicidad; salvo las excepciones previstas en esta ley.
 
-Las audiencias serán conducidas por el juez, quien la presidirá en su integridad y se desarrollará oralmente; serán públicas, salvo que, por razones de seguridad del tribunal o de los intervinientes, el juez determine que se efectúen a puerta cerrada; y se llevarán a cabo con o sin la asistencia de las partes. Quien injustificadamente, a criterio del juez, no acuda a las audiencias, será sancionado con multa de treinta a cien días de salario mínimo general vigente en el Estado de Durango.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+Las audiencias serán conducidas por el juez, quien la presidirá en su integridad y se desarrollará oralmente; serán públicas, salvo que, por razones de seguridad del tribunal o de los intervinientes, el juez determine que se efectúen a puerta cerrada; y se llevarán a cabo con o sin la asistencia de las partes. Quien injustificadamente, a criterio del juez, no acuda a las audiencias, será sancionado con multa de treinta a cien veces la Unidad de Medida y Actualización, vigente en el Estado de Durango.
 
 En el desahogo de las pruebas en la audiencia de juicio, los testigos y los peritos deberán declarar de viva voz al tenor de los interrogatorios y contrainterrogatorios que se les formulen.
 
@@ -511,7 +513,7 @@ Del reconocimiento o la inspección se levantará una (sic) acta circunstanciada
 
 Prueba Testimonial.
 
-El oferente de la prueba testimonial está obligado a presentar a los testigos propuestos en la audiencia de juicio. .
+El oferente de la prueba testimonial está obligado a presentar a los testigos propuestos en la audiencia de juicio.
 
 Si al ofrecer la prueba, el interesado manifiesta que le es imposible presentar a los testigos, deberá indicar el domicilio de éstos; en cuyo caso el juez procederá a citarlos con los apercibimientos de ley, para que comparezcan a declarar a la audiencia respectiva.
 
@@ -782,3 +784,17 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL ÁNGEL OLVERA ESCALERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 67.- QUE CONTIENE REFORMA AL ARTÍCULO 29 EN SU PÁRRAFO SEGUNDO DE LA LEY DE EXTINSIÓN DE DOMINIO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el en el (sic) Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
