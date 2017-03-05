@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-justicia-fiscal-y-administrativa-del-estado-de-78586"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-23"
-last_updated: "2016-07-07"
+last_updated: "2017-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78586&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 2010.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fechas 13 de Mayo del año 2008 y 27 de Octubre del año 2010, presentó el C. Diputado Servando Marrufo Fernández, integrante de la Fracción Parlamentaria del Partido Duranguense de la LXIV Legislatura, Iniciativa con proyecto de Decreto que contiene reformas al Código de Justicia Administrativa para el Estado de Durango; así mismo presentaron la segunda, los CC. Diputados Adrian Valles Martínez, Rodolfo Benito Guerrero García, Miguel Ángel Olvera Escalera, Luis Enrique Benítez Ojeda, Otniel García Navarro, Jaime Rivas Loaiza, Carlos Aguilera Andrade, Alfredo Héctor Ordaz Hernández, Sergio Uribe Rodríguez, Juana Leticia Herrera Ale, Francisco Ibarra Jáquez, Pedro Silerio García, Marcial Saúl García Abraham, Lourdes Eulalia Quiñones Canales, Emiliano Hernández Camargo, Felipe de Jesús Garza González, Elia María Morelos Favela, Dagoberto Limones López, Gilberto Candelario Zaldivar Hernández, José Nieves García Caro, Karla Alejandra Zamora García y Francisco Acosta Llanes, integrantes de esta LXV Legislatura, que contiene propuesta para derogar el Código de Justicia Administrativa para el Estado de Durango y la creación de la Ley de Justicia Fiscal y Administrativa del Estado de Durango; la cual fue turnada a la Comisión de Justicia, integrada por los CC. Diputados: José Antonio Ochoa Rodríguez, Otniel García Navarro, Gilberto Candelario Zaldivar Hernández, Pedro Silerio García y Miguel Ángel Olvera Escalera, Presidente, Secretario y Vocales, respectivamente, mismos que emitieron su dictamen favorable en base a los siguientes:
 
-C O N S I D E R A N D O S.
+C O N S I D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerando (sic), esta H. LXV Legislatura del Estado, expide el siguiente:
 
@@ -1607,7 +1609,7 @@ V.- El reconocimiento e inspección judicial;
 
 VI.- La pericial;
 
-VIl.- Presuncional legal y humana;
+VII.- Presuncional legal y humana;
 
 VIII.- Las fotografías, registros dactiloscópicos y demás elementos aportados por la ciencia;
 
@@ -1651,7 +1653,9 @@ A fin de que las partes puedan rendir sus pruebas, los funcionarlos o autoridade
 
 Cuando sin causa justificada la autoridad demandada no expida las copias de los documentos ofrecidos por el demandante para probar los hechos imputados a aquélla y siempre que los documentos solicitados hubieran sido identificados con toda precisión tanto en sus características como en su contenido, se presumirán ciertos los hechos que pretenda probar con esos documentos.
 
-En los casos en que la autoridad requerida no sea parte e incumpla, el Magistrado Instructor podrá hacer valer como medida de apremio la imposición de una multa por el monto equivalente de entre noventa y ciento cincuenta veces el salario mínimo general diario vigente en esta entidad, al funcionario omiso. También podrá comisionar al Secretario o Actuario que deba recabar la certificación omitida u ordenar la compulsa de los documentos exhibidos por las partes, con los originales que obren en poder de la autoridad.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+En los casos en que la autoridad requerida no sea parte e incumpla, el Magistrado Instructor podrá hacer valer como medida de apremio la imposición de una multa por el monto equivalente de entre noventa y ciento cincuenta veces la Unidad de Medida y Actualización, al funcionario omiso. También podrá comisionar al Secretario o Actuario que deba recabar la certificación omitida u ordenar la compulsa de los documentos exhibidos por las partes, con los originales que obren en poder de la autoridad.
 
 Cuando se soliciten copias de documentos que no puedan proporcionarse en la práctica administrativa normal, las autoridades podrán solicitar un plazo adicional para realizar las diligencias extraordinarias que el caso amerite y si al cabo de éstas no se localizan, el Magistrado podrá considerar que se está en presencia de omisión por causa justificada.
 
@@ -1803,9 +1807,11 @@ La aclaración de sentencia tendrá lugar cuando se requiera esclarecer algún c
 
 La declaración de que la sentencia ha causado ejecutoria deberá comunicarse a las partes para su cumplimiento; en caso de ser favorable al actor, se prevendrá a las autoridades demandadas sin demora alguna, para que dentro de diez días rindan el informe correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 215.
 
-Si dentro del término a que se refiere el artículo anterior, la autoridad no cumple con la sentencia o su cumplimiento es excesivo o defectuoso o habiéndola cumplido, en cualquier tiempo repite el acto declarado inválido o nulo; o bien, no rinde el informe que corresponda, se le aplicará una multa de diez a sesenta veces el salario mínimo general diario vigente en el Estado. Independientemente de esta sanción, la Sala del conocimiento comunicará al superior jerárquico de la autoridad de que se trate, la actitud de desobediencia, a fin de que lo conmine al cumplimiento de la resolución, en un plazo de cinco días.
+Si dentro del término a que se refiere el artículo anterior, la autoridad no cumple con la sentencia o su cumplimiento es excesivo o defectuoso; o, habiéndola cumplido, en cualquier tiempo repite el acto declarado inválido o nulo; o bien, no rinde el informe que corresponda, se le aplicará una multa de diez a sesenta veces la Unidad de Medida y Actualización. Independientemente de esta sanción, la Sala del conocimiento comunicará al superior jerárquico de la autoridad de que se trate, la actitud de desobediencia, a fin de que lo conmine al cumplimiento de la resolución, en un plazo de cinco días.
 
 Cuando no exista superior jerárquico, el requerimiento se hará directamente a la demandada.
 
@@ -1915,7 +1921,9 @@ I.- Medios de apremio:
 
 a). Apercibimiento;
 
-b). Multa de cinco a cien días de salario mínimo vigente en la capital del Estado; y
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+b) Multa de cinco a cien veces del (sic) la Unidad de Medida y Actualización; y
 
 c). Presentación de personas con auxilio de la fuerza pública.
 
@@ -1923,7 +1931,9 @@ II.- Medidas disciplinarias:
 
 a). Amonestación;
 
-b). Multa de cinco a cien días de salario mínimo vigente en la capital del Estado;
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+b) Multa de cinco a cien veces la Unidad de Medida y Actualización;
 
 c). Expulsión temporal de las personas del lugar donde se lleve a cabo la diligencia o actuación, cuando ello sea necesario para su continuación;
 
@@ -2234,3 +2244,15 @@ P.O. 7 DE JULIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 71.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el en el (sic) Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
