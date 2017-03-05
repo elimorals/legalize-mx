@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fiscalizacion-superior-del-estado-de-durango-22984"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-30"
-last_updated: "2015-12-20"
+last_updated: "2017-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 30 de diciembre de 2001.
 
@@ -71,7 +71,7 @@ OCTAVO.- Los integrantes de la Comisión consideraron pertinente de conformidad 
 
 NOVENO.- De lo expuesto anteriormente podemos concluir que la expedición de la Ley de Fiscalización Superior del Estado de Durango, constituye un avance que fortalecerá el equilibrio de poderes para que éstos se controlen y limiten entre sí con la finalidad de que la gestión pública se realice en forma más clara, transparente, eficiente y eficaz en beneficio de la sociedad duranguense, refrendándose así la facultad constitucional de fiscalización superior que le corresponde a la representación popular.
 
-Con base en los anteriores considrandos (sic) , ésta H. LXII Legislatura del Estado, expide el siguiente:
+Con base en los anteriores considrandos (sic), ésta H. LXII Legislatura del Estado, expide el siguiente:
 
 DECRETO No. 52
 
@@ -243,7 +243,7 @@ XXVII. Expedir su Reglamento Interior; y
 
 XXVIII. Las demás que expresamente señalen la Constitución Política del Estado, esta ley y las demás disposiciones legales y reglamentos vigentes en el Estado.
 
-### CAPÍTULO II. DEL AUDlTOR SUPERIOR
+### CAPÍTULO II. DEL AUDITOR SUPERIOR
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
@@ -307,7 +307,7 @@ XI. Entregar al Congreso, en forma separada y por conducto de la Comisión, la c
 
 XII. Ordenar, en su caso, la práctica de visitas, auditorías e inspecciones necesarias para la realización de investigaciones;
 
-XIII. Formular pliegos de observaciones y determinar, en su caso, los daños y perjuicios que afecten a las haciendas publicas estatal, municipales y al patrimonio de las entidades;
+XIII. Formular pliegos de observaciones y determinar, en su caso, los daños y perjuicios que afecten a las haciendas públicas estatal, municipales y al patrimonio de las entidades;
 
 XIV. Fincar, para los efectos de la fracción anterior, directamente a los responsables las sanciones e indemnizaciones que se determinen, teniendo éstas el carácter legal de créditos fiscales;
 
@@ -563,9 +563,11 @@ En los casos previstos en el artículo anterior, los entes fiscalizables deberá
 
 Este plazo podrá ampliarse en no más de veinte días hábiles cuando, a juicio de la Entidad, medie causa justificada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### Artículo 36.
 
-Si transcurrido el plazo señalado en el artículo que antecede, el ente fiscalizable, sin causa justificada, no presenta el informe requerido, la Entidad amonestará a los servidores públicos responsables, apercibiéndolos que de no presentarlo, se harán acreedores a una multa de cien a seiscientos días de salario mínimo general vigente en la Capital del Estado, la que tendrá el carácter previsto en el artículo 46.
+Si transcurrido el plazo señalado en el artículo que antecede, el ente fiscalizable, sin causa justificada, no presenta el informe requerido, la Entidad amonestará a los servidores públicos responsables, apercibiéndolos que de no presentarlo, se harán acreedores a una multa de cien a seiscientas veces la Unidad de Medida y Actualización, la que tendrá el carácter previsto en el artículo 46.
 
 Una vez cumplido el procedimiento señalado en el párrafo anterior, la Entidad requerirá de nueva cuenta al ente fiscalizable que entregue, en un plazo improrrogable de cinco días hábiles, el informe de sus actuaciones. El incumplimiento a dicho requerimiento se podrá castigar con una multa hasta del doble de la ya impuesta y con la promoción de la destitución de los responsables ante las autoridades competentes.
 
@@ -619,7 +621,9 @@ IV. Los servidores Públicos que teniendo la obligación de presentar los inform
 
 La Entidad, con base en las responsabilidades que se determinen conforme al procedimiento previsto en esta ley, fincará directamente a los responsables las indemnizaciones correspondientes, a fin de resarcir a las haciendas públicas estatal y municipales, al patrimonio de las entidades paraestatales y al de los organismos, el monto de los daños y perjuicios cuantificables en dinero que se hayan causado.
 
-Las indemnizaciones se fincarán independientemente de las sanciones administrativas que sean procedentes y de aquellas que sean objeto de otras leyes, y de las sanciones pecuniarias correspondientes, las que en su caso no excederá de 600 días de salario mínimo vigente en el Estado excepto el caso previsto en el último párrafo de la fracción II del artículo 45.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+Las indemnizaciones se fincarán independientemente de las sanciones administrativas que sean procedentes y de aquellas que sean objeto de otras leyes, y de las sanciones pecuniarias correspondientes, las que en su caso no excederán de 600 veces la Unidad de Medida y Actualización, excepto el caso previsto en el último párrafo de la fracción II del artículo 45.
 
 ###### Artículo 43.
 
@@ -663,9 +667,11 @@ Las sanciones administrativas que conforme a esta ley tengan el carácter de fir
 
 La imposición de sanciones deberá fundarse y motivarse, tomando en cuenta las condiciones económicas del infractor, su nivel académico, gravedad de la infracción cometida, los medios de ejecución y, en su caso, su nivel jerárquico, ajustándose al fin de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta ley.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### Artículo 48.
 
-El Auditor Superior, bajo su más estricta responsabilidad, podrá abstenerse de sancionar al infractor, por una sola vez, justificando plenamente las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de veinte veces el salario mínimo general mensual vigente en la capital del Estado, en la fecha en que se cometa la infracción. El trámite anterior procederá siempre y cuando lo solicite el infractor y el procedimiento haya concluido. La Autoridad Resolutora determinará si ha lugar o no a la abstención.
+El Auditor Superior, bajo su más estricta responsabilidad, podrá abstenerse de sancionar al infractor, por una sola vez, justificando plenamente las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de veinte veces la Unidad de Medida y Actualización vigente en la fecha en que se cometa la infracción. El trámite anterior procederá siempre y cuando lo solicite el infractor y el procedimiento haya concluido. La autoridad resolutora determinará si ha lugar o no a la abstención.
 
 ###### Artículo 49.
 
@@ -783,7 +789,9 @@ VI. No se probare la existencia del acto impugnado.
 
 Los interesados podrán promover el incidente de suspensión de la ejecución, cuando la autoridad ejecutora niegue la suspensión, rechace la garantía ofrecida o reinicie la ejecución, ante la autoridad competente, acompañando las constancias suficientes; el auto que admita el incidente será notificado a la autoridad ejecutora solicitándole un informe, pudiéndose decretar la suspensión provisional de la ejecución cuando así procediera. La falta de informe de la ejecutora presumirá ciertos los hechos reclamados. Dentro del plazo de cinco días de recibido el informe, de que haya vencido el término para presentarlo la autoridad competente dictará resolución en la que decrete o niegue la suspensión del procedimiento administrativo de ejecución o decida sobre la admisión de la garantía ofrecida.
 
-Si la autoridad ejecutora no da cumplimiento a la orden de suspensión o admisión de la garantía, la autoridad competente declarará la nulidad de las acciones realizadas con violación a la misma e impondrá la autoridad renuente una multa de uno a tres tantos del salario mínimo general vigente en el Estado elevado al mes.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+Si la autoridad ejecutora no da cumplimiento a la orden de suspensión o admisión de la garantía, la autoridad competente declarará la nulidad de las acciones realizadas con violación a la misma e impondrá a la autoridad renuente una multa de una a tres veces la Unidad de Medida y Actualización elevado al mes.
 
 Si el incidente es promovido por la autoridad ejecutora, por haberse concedido indebidamente una suspensión, se tramitará lo conducente en los términos de este artículo.
 
@@ -867,8 +875,20 @@ Por única ocasión, una vez aprobado el presente decreto por el pleno del Congr
 
 P.O. 20 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 524.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE DURANGO”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 524.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 79.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
