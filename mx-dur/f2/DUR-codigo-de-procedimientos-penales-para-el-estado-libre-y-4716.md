@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-penales-para-el-estado-libre-y-4716"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-01-30"
-last_updated: "2015-06-11"
+last_updated: "2017-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-NOTA 1. DE CONFORMIDAD CON LA FRACCIÓN I DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.
-
-NOTA 2. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 131 POR EL QUE SE EXPIDE LA DECLARATORIA DE LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2014 Y FE DE ERRATAS PUBLICADA EN EL P.O. 9 DE MARZO DE 2014, ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 07 DE MAYO DE 2014.
-
-NOTA 3. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, TERCERO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 139 POR EL QUE SE EXPIDE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA ADOPCIÓN DEL SISTEMA PENAL ACUSATORIO Y ORAL Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LOS DISTRITOS JUDICIALES SEGUNDO Y TERCERO DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 8 DE MAYO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 10 DE JUNIO DE 2014.
-
-NOTA 4. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 326 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO Y ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL P.O. DE 5 DE MARZO DE 2015 Y REFORMADO MEDIANTE DECRETO NÚMERO 361 PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2015, QUEDA ABROGADO EL TÍTULO DÉCIMO PRIMERO DEL CÓDIGO PROCESAL PENAL DEL ESTADO DE DURANGO, EN LOS DISTRITOS JUDICIALES DEL ESTADO; EN EL CUARTO, QUINTO, SEXTO, SÉPTIMO, OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMER, DÉCIMO SEGUNDO Y DÉCIMO TERCER, INTEGRADOS DE LA SIGUIENTE MANERA: CUARTO DISTRITO: SANTIAGO PAPASQUIARO COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE SANTIAGO PAPASQUIARO, TEPEHUANES, GUANACEVÍ Y OTÁEZ; QUINTO DISTRITO: CANATLÁN COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE CANTATLÁN Y NUEVO IDEAL; SEXTO DISTRITO; EL SALTO COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE PUEBLO NUEVO Y SAN DIMAS CON EXCEPCIÓN DE LAS POBLACIONES DE TAYOLTITA, SAN DIMAS, RAFAEL BUELNA, GUARIZAMEY Y CARBONERAS DE ESTE ÚLTIMO MUNICIPIO; SÉPTIMO DISTRITO: TOPIA COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE TOPIA, TAMAZULA Y CANELAS; OCTAVO DISTRITO: GUADALUPE VICTORIA COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE GUADALUPE VICTORIA Y PÁNUCO DE CORONADO; NOVENO DISTRITO: CUENCAMÉ COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE CUENCAMÉ, PEÑÓN BLANCO, SANTA CLARA, SAN JUAN DE GUADALUPE Y SIMÓN BOLÍVAR; DÉCIMO DISTRITO: NAZAS COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE NAZAS, SAN LUIS DEL CORDERO Y SAN PEDRO DEL GALLO; DÉCIMO PRIMER DISTRITO: SAN JUAN DEL RÍO COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE SAN JUAN DEL RÍO, RODEO Y CONETO DE COMONFORT; DÉCIMO SEGUNDO DISTRITO: SANTA MARÍA DEL ORO COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE EL ORO, INDÉ, OCAMPO, SAN BERNARDO E HIDALGO, Y DÉCIMO TERCER DISTRITO: NOMBRE DE DIOS COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE NOMBRE DE DIOS, SÚCHIL, POANAS Y VICENTE GUERRERO, A PARTIR DE LAS CERO HORAS DEL DÍA 7 DE MAYO DE 2015.
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de enero de 1992.
 
@@ -339,7 +333,9 @@ Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-II.- Multa por el equivalente a entre uno y quince días de salario mínimo vigente en el momento y lugar en que se cometa la falta que amerite corrección. Tratándose de jornaleros, obreros y trabajadores, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados el de un día de ingreso;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+II.- Multa por el equivalente a entre tres y quince veces del valor diario de la Unidad de Medida y Actualización al que cometa la falta que amerite corrección. Tratándose de jornaleros, obreros y trabajadores, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados el de un día de ingreso;
 
 III.- Arresto hasta por treinta y seis horas, y
 
@@ -365,7 +361,9 @@ El Ministerio Público en la averiguación previa, y los tribunales, podrán emp
 
 I.- Apercibimiento;
 
-II.- Multa por el equivalente a entre uno y treinta días de salario mínimo, vigente en el momento y lugar en que se realizó la conducta que motivó el medio de apremio. Tratándose de jornaleros, obreros y trabajadores la multa no deberá de exceder de un día de salario y tratándose de trabajadores no asalariados el de un día de ingreso;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+II.- Multa por el equivalente a entre uno y treinta veces del valor diario de la Unidad de Medida y Actualización a quién realizó la conducta que motivó el medio de apremio. Tratándose de jornaleros, obreros y trabajadores la multa no deberá de exceder de una vez del valor diario de la Unidad de Medida y Actualización y tratándose de trabajadores no asalariados el de un día de ingreso;
 
 III.- Arresto hasta de treinta y seis horas;
 
@@ -1351,9 +1349,11 @@ Para que el desistimiento de la acción penal produzca el efecto señalado en el
 
 La persona ofendida por un delito no es parte en el procedimiento penal, pero podrá proporcionar al Ministerio Público por sí o por su apoderado todos los datos que tenga y que conduzcan a comprobar la existencia del delito, y la responsabilidad del inculpado. Podrá asimismo, ministrar a los tribunales directamente o a través del Ministerio Público las pruebas que estime necesarias para demostrar la procedencia y monto de la reparación del daño.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 186.
 
-El Ministerio Público podrá dejar de ejercitar acción penal cuando se trate de los delitos de lesiones que no pongan en peligro la vida, tarden en sanar menos de quince días y no tengan consecuencias a sanidad, y en los patrimoniales cuyo monto no exceda del importe de cincuenta días de salario mínimo vigente, cuando se trate de un delincuente primario y realice convenio con el ofendido o sus causahabientes, ante el Ministerio Público, de la forma en que reparará el daño y los perjuicios causados.
+El Ministerio Público podrá dejar de ejercitar acción penal cuando se trate de los delitos de lesiones que no pongan en peligro la vida, tarden en sanar menos de quince días y no tengan consecuencias a sanidad, y en los patrimoniales cuyo monto no exceda del importe de cincuenta veces del valor diario de la Unidad de Medida y Actualización, cuando se trate de un delincuente primario y realice convenio con el ofendido o sus causahabientes, ante el Ministerio Público, de la forma en que reparará el daño y los perjuicios causados.
 
 ## TITULO QUINTO. INSTRUCCION
 
@@ -2475,7 +2475,9 @@ En las hipótesis previstas en el artículo 188 de este ordenamiento, la queja s
 
 La Sala Penal del Supremo Tribunal de Justicia, en el término de cuarenta y ocho horas, le dará entrada al recurso y requerirá al juez cuya conducta omisa haya dado lugar al recurso, para que rinda informe dentro del plazo de tres días.
 
-Transcurrido este plazo, con informe o sin él, se dictará dentro de cuarenta y ocho horas la resolución que proceda. Si se estima fundado el recurso, la Sala Penal del Supremo Tribunal de Justicia requerirá al juez para que cumpla con las obligaciones determinadas en la ley en un plazo no mayor de dos días, sin perjuicio de las responsabilidades que le resulten. La falta del informe a que se refiere el párrafo anterior, establece la presunción de ser cierta la omisión atribuida y hará incurrir al juez en multa de diez a cien veces el salario mínimo vigente en el momento y lugar en que hubiere ocurrido la omisión.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+Transcurrido este plazo, con informe o sin él, se dictará dentro de cuarenta y ocho horas la resolución que proceda. Si se estima fundado el recurso, la Sala Penal del Supremo Tribunal de Justicia requerirá al juez para que cumpla con las obligaciones determinadas en la ley en un plazo no mayor de dos días, sin perjuicio de las responsabilidades que le resulten. La falta del informe a que se refiere el párrafo anterior, establece la presunción de ser cierta la omisión atribuida y hará incurrir al juez en multas de diez a cien veces del valor diario de la Unidad de Medida y Actualización vigente en el momento y lugar en que hubiere ocurrido la omisión.
 
 ### CAPITULO V. REVISION EXTRAORDINARIA
 
@@ -2579,9 +2581,11 @@ V.- Que otras (sic) racionalmente conduzcan a crear seguridad de que no procurar
 
 Las garantías a que se refieren las fracciones I y II del artículo 377 sólo podrán ser reducidas en los términos expuestos en el primer párrafo de este artículo cuando se verifique la circunstancia señalada en la fracción III del presente artículo. En este caso, si se llegare a acreditar que para obtener la reducción el inculpado simuló su insolvencia, o bien, con posterioridad a la reducción de la caución recuperó su capacidad económica para cubrir los montos de las garantías inicialmente señaladas, de no restituir éstas en el plazo que el juez señale para ese efecto, se le revocará la libertad provisional que tenga concedida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 381.
 
-La caución no excederá de la cantidad equivalente a la percepción durante dos años de salario mínimo general vigente en el lugar en que se cometió el delito. Sin embargo, la autoridad judicial, en virtud de la especial gravedad del delito, las particulares circunstancias personales del imputado o de la víctima, mediante resolución motivada, podrá incrementar el monto de la caución hasta la cantidad equivalente a la percepción durante cuatro años del salario mínimo vigente en el lugar en que se cometió el delito.
+La caución no excederá de la cantidad equivalente a la percepción de dos Unidades de Medida y Actualización elevadas al año, vigente. Sin embargo, la autoridad judicial, en virtud de la especial gravedad del delito, las particulares circunstancias personales del imputado o de la víctima, mediante resolución motivada, podrá incrementar el monto de la caución hasta la cantidad equivalente a la percepción de cuatro Unidades de Medida y Actualización.
 
 Si el delito representa para su autor un beneficio económico o causa a la víctima daño o perjuicio patrimonial, la garantía será cuando menos tres y cuando más cuatro veces mayor al beneficio obtenido o a los daños y perjuicios patrimoniales causados, si el delito es doloso; y tendrá un monto igual al de dichos beneficios o daños y perjuicios, si es preterintencional o culposo, y quedará sujeta a la reparación del daño que, en su caso se resuelva.
 
@@ -2593,7 +2597,9 @@ Cuando el inculpado no tenga recursos económicos suficientes para pagar la cauc
 
 I.- Que la falta de recursos económicos del inculpado quede plenamente demostrada;
 
-II.- Que el monto de la caución no exceda de cinco veces el salario mínimo anual vigente en el Estado;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+II.- Que el monto de la caución no exceda de cinco veces el valor diario de la Unidad de Medida y Actualización elevada al año;
 
 III.- Que el inculpado tenga cuando menos un año de residir en forma efectiva en el Estado y demuestre estar desempeñando empleo, profesión u ocupación lícitos que le provean medios de subsistencia;
 
@@ -2611,9 +2617,13 @@ La caución consistente en depósito en efectivo, se hará por el inculpado o po
 
 Cuando la garantía consista en hipoteca, el inmueble no deberá tener gravamen alguno y su valor real será cuando menos, de dos veces el monto de la suma fijada como caución.
 
-La fianza personal solamente podrá admitirse cuando el monto de la caución no exceda de diez veces el salario mínimo y el fiador acredite su solvencia o idoneidad.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
-Cuando la fianza sea por cantidad mayor de diez veces el salario mínimo, se regirá por lo dispuesto en los artículos relativos a la fianza legal o judicial del Código Civil del Estado, con la salvedad de que, tratándose de empresas afianzadoras legalmente constituidas y autorizadas, no será necesario que éstas tengan bienes raíces inscritos en el Registro Público de la Propiedad.
+La fianza personal solamente podrá admitirse cuando el monto de la caución no exceda de diez veces la Unidad de Medida y Actualización y el fiador acredite su solvencia o idoneidad.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+Cuando la fianza sea por cantidad mayor de diez veces la Unidad de Medida y Actualización, se regirá por lo dispuesto en los artículos relativos a la fianza legal o judicial del Código Civil del Estado, con la salvedad de que, tratándose de empresas afianzadoras legalmente constituidas y autorizadas, no será necesario que éstas tengan bienes raíces inscritos en el Registro Público de la Propiedad.
 
 Los bienes inmuebles de los fiadores deben tener, cuando menos, un valor real tres veces mayor que el monto de la caución señalada.
 
@@ -2907,9 +2917,11 @@ Si la resolución fuere afirmativa y la causa se hubiere fundado en hechos que n
 
 Concluido el término probatorio dentro de las cuarenta y ocho horas siguientes, se pronunciará la resolución contra la que no habrá recurso alguno.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 431.
 
-Cuando se deseche la recusación se impondrá al recusante multa equivalente de tres a diez días de salario mínimo general vigente en la zona.
+Cuando se deseche la recusación se impondrá al recusante multa equivalente de tres a diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 432.
 
@@ -3564,3 +3576,15 @@ P.O. 11 DE JUNIO DE 2015.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 61.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
