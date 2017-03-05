@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-y-proteccion-a-la-fruticultura-para-el-4909"
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-26"
-last_updated: "2016-09-22"
+last_updated: "2017-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE FOMENTO Y PROTECCIÓN A LA FRUTICULTURA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2016 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 26 de junio de 1988.
 
@@ -51,9 +51,7 @@ DECRETO NUMERO 44
 
 LA H. QUINCUAGESIMA SEPTIMA LEGISLATURA del ESTADO LIBRE y SOBERANO de DURANGO, a nombre del Pueblo, D E C R E T A :
 
-LEY de FOMENTO y PROTECCION a la FRUTICULTURA
-
-para el ESTADO de DURANGO
+LEY de FOMENTO y PROTECCION a la FRUTICULTURA para el ESTADO de DURANGO
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
@@ -141,17 +139,17 @@ El Patrimonio de cada Comité Regional lo constituirán:
 
 3º.- Los subsidios que el H. Congreso del Estado llegara a autorizar para los Comités Regionales de que trata esta Ley.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 14o.
 
-Con el fin de integrar el patrimonio de cada Comité Regional, según el punto primero del artículo anterior se establece un derecho anual de 0.95% del salario mínimo vigente del campo por reja de manzana de mesa, y un 0.095% por reja de manzana para industrialización con cargo a los propietarios de la (sic) huertas. La Secretaría de Finanzas y de Administración del Gobierno del Estado habilitará a un integrante de este organismo para recabar este derecho, de conformidad con las facultades que le otorga la Ley Económico Coactiva del Estado de Durango. El pago del derecho deberá hacerse a la salida de la manzana de la región. Dicho pago es obligatorio para todos los propietarios, usufructuarios o arrendatarios de los terrenos en producción, en el territorio de cada región de la Entidad en que el Ejecutivo del Estado, en uso de la facultad que le concede el Artículo 5 de esta Ley, organice el respectivo COMITE REGIONAL PARA EL FOMENTO Y PROTECCION A LA FRUTICULTURA.
+Con el fin de integrar el patrimonio de cada Comité Regional, según el punto primero del artículo anterior se establece un derecho anual de 0.95% el valor de la Unidad de Medida y Actualización por reja de manzana de mesa, y un 0.095% por reja de manzana para industrialización con cargo a los propietarios de las huertas. La Secretaría de Finanzas y de Administración del Gobierno del Estado habilitará a un integrante de este organismo para recabar este derecho, de conformidad con las facultades que le otorga la Ley Económico Coactiva del Estado de Durango. El pago del derecho deberá hacerse a la salida de la manzana de la región. Dicho pago es obligatorio para todos los propietarios, usufructuarios o arrendatarios de los terrenos en producción, en el territorio de cada región de la Entidad en que el Ejecutivo del Estado, en uso de la facultad que le concede el artículo 5 de esta Ley, organice el respectivo Comité Regional para el Fomento y Protección a la Fruticultura.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 15o.
 
-Se faculta al Ejecutivo del Estado para que, a solicitud debidamente fundamentada del respectivo Comité, envíe al H. Congreso del Estado, Iniciativa de Decreto para que se incremente o se reduzca el importe del derecho de 0.95% sobre el salario mínimo diario vigente en el campo, por reja de manzana de mesa y 0.095% para fruta de uso industrial; en la inteligencia de que no se autorizará ninguna reducción, mientras tanto hubiere algún saldo pendiente de liquidar, de créditos o de cualquier tipo de pasivo, o bien mientras la región afectada por alguna plaga o enfermedad.
+Se faculta al Ejecutivo del Estado para que, a solicitud debidamente fundamentada del respectivo Comité, envíe al H. Congreso del Estado, Iniciativa de (sic) Decreto para que se incremente o se reduzca el importe del derecho 0.95% el valor de la Unidad de Medida y Actualización, por reja de manzana de mesa y 0.095% para fruta de uso industrial; en la inteligencia de que no se autorizará ninguna reducción, mientras tanto hubiere algún saldo pendiente de liquidar, de créditos o de cualquier tipo de pasivo, o bien mientras la región se encuentre afectada por alguna plaga o enfermedad.
 
 T R A N S I T O R I O S
 
@@ -173,11 +171,11 @@ El Gobernador Constitucional del Estado, Lic. José Ramírez Gamero.- Rúbrica.
 
 El Secretario General de Gobierno Lic. Gustavo Rivera Ramos.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 17 DE NOVIEMBRE DE 1996.
 
-U N I C O: Las presentes reformas entrarán en vigor tres días despupes de su publicación en el Periódico Oficial del Estado.
+U N I C O: Las presentes reformas entrarán en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 P.O. 20 DE DICIEMBRE DE 2015.
 
@@ -200,3 +198,15 @@ TERCERO.- Las Asociaciones de Productores Frutícolas actualmente en funciones c
 CUARTO.- Se abroga la Ley de Fomento y Protección a la Fruticultura para el Estado De Durango, publicada mediante decreto 44, de la 57 legislatura, en el Periódico Oficial 51 bis, de fecha 26 de junio de 1988.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 88.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO Y PROTECCIÓN A LA FRUTICULTURA PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
