@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2015-09-06"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -767,11 +767,11 @@ Las autoridades educativas, con el apoyo de la participación social, impulsará
 
 La Secretaría, por medio de sus estructuras desconcentradas, deberá entregar oportunamente el salario a los profesores y ministrar puntualmente los materiales y libros de texto gratuito a las escuelas.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
-###### ARTICULO 38.
+###### ARTÍCULO 38.
 
-A quienes lucren o pretendan lucrar con los uniformes escolares y libros de texto gratuitos, o su material complementario, se les aplicará una multa de seis a sesenta veces el equivalente del salario mínimo devengado durante una semana, sin perjuicio de las sanciones penales que corresponda. Si el infractor fuese jornalero u obrero no podrá ser castigado con multa mayor del importe de su jornal o sueldo de una semana. Si el infractor es funcionario o trabajador de la Secretaría, será sancionado de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios y el Código Penal para el Estado Libre y Soberano de Durango.
+A quienes lucren o pretendan lucrar con los uniformes escolares y libros de textos gratuitos, o su material complementario, se les aplicará una multa de seis a sesenta veces la Unidad de Medida y Actualización, sin perjuicio de las sanciones penales que corresponda. Si el infractor fuese jornalero u obrero no podrá ser castigado con multa mayor del importe de su jornal o sueldo de una semana. Si el infractor es funcionario o trabajador de la Secretaría, será sancionado de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios y el Código Penal para el Estado Libre y Soberano de Durango
 
 ###### ARTICULO 39.
 
@@ -2243,7 +2243,9 @@ IV (SIC).- Impartir educación primaria, secundaria, normal y demás para la for
 
 Las infracciones enumeradas en este Artículo, según su gravedad, se sancionarán con:
 
-l.- Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el área geográfica y en la fecha en que se cometa la Infracción. Las multas impuestas podrán duplicarse en caso de reincidencia; y/o
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+I.- Multa hasta por el equivalente a cinco mil veces la Unidad de Medida y Actualización, vigente en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia; y/o
 
 II.- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente.
 
@@ -2462,3 +2464,15 @@ Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 89.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
