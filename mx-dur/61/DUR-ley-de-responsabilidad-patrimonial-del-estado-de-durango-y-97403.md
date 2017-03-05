@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-responsabilidad-patrimonial-del-estado-de-durango-y-9740
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-05"
-last_updated: "2015-12-20"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 5 de diciembre de 2013.
 
@@ -31,11 +31,11 @@ EL CIUDADANO CONTADOR PUBLICO JORGE HERRERA CALDERA GOBERNADOR CONSTITUCIONAL DE
 
 QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-Con fecha 17 de Septiembre del 2008, y 18 de mayo del 2011, presentaron iniciativas de decretos el Grupo Parlamentario del Partido Acción Nacional de la LXIV Legislatura, y otra presentada por el Diputado Rodolfo Benito Guerrero García, Integrante del Grupo Parlamentario del Partido Revolucionario Institucional, de la LXV Legislatura, que contiene Ley de Responsabilidad Patrimonial del Estado de Durango, misma que fue turnada a las Comisiones Unidas de Hacienda, Presupuesto y Cuenta Pública, integrada por los CC. Diputados: Emiliano Hernández Camargo, María del Refugio Vázquez Rodríguez,
+Con fecha 17 de Septiembre del 2008, y 18 de mayo del 2011, presentaron iniciativas de decretos el Grupo Parlamentario del Partido Acción Nacional de la LXIV Legislatura, y otra presentada por el Diputado Rodolfo Benito Guerrero García, Integrante del Grupo Parlamentario del Partido Revolucionario Institucional, de la LXV Legislatura, que contiene Ley de Responsabilidad Patrimonial del Estado de Durango, misma que fue turnada a las Comisiones Unidas de Hacienda, Presupuesto y Cuenta Pública, integrada por los CC. Diputados: Emiliano Hernández Camargo, María del Refugio Vázquez Rodríguez, Gilberto Candelario Zaldívar Hernández, Francisco Javier Ibarra Jaquez y María Elena Arenas Luján, Presidente, Secretario y Vocales, así como los integrantes de la Comisión de Administración Pública los CC. Diputados: Manuela Guillermina Ruiz Ezqueda, José Nieves García Caro, Verónica Castañeda Ibarra, María del Refugio Vázquez Rodríguez y María Guadalupe Soto Nava; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-Gilberto Candelario Zaldívar Hernández, Francisco Javier Ibarra Jaquez y María Elena Arenas Luján, Presidente, Secretario y Vocales, así como los integrantes de la Comisión de Administración Pública los CC. Diputados: Manuela Guillermina Ruiz Ezqueda, José Nieves García Caro, Verónica Castañeda Ibarra, María del Refugio Vázquez Rodríguez y María Guadalupe Soto Nava; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
+C O N S I D E R A N D O S
 
-C O N S I D E R A N D O S…
+[...]
 
 Con base en los anteriores considerandos, esta H. LXV Legislatura del Estado, expide el siguiente:
 
@@ -55,7 +55,7 @@ Se expide la Ley de Responsabilidad Patrimonial del Estado de Durango y sus Muni
 
 La presente Ley es de orden público e interés general y reglamentaria del primer párrafo del artículo 162 de la Constitución Política del Estado Libre y Soberano de Durango.
 
-###### Articulo 2.
+###### Artículo 2.
 
 El presente ordenamiento tiene por objeto fijar las bases, límites y procedimientos para reconocer el derecho a la indemnización de las personas que, sin obligación jurídica de soportarlo, sufran una lesión en cualquiera de sus bienes, posesiones o derechos como consecuencia de la actividad administrativa del Estado, sea ésta regular o irregular.
 
@@ -91,7 +91,9 @@ g) Ley: Ley de Responsabilidad Patrimonial para el Estado de Durango.
 
 h) Lesión: Cualquier daño o afectación a la integridad física, psíquica o patrimonial de las personas, derivada de la actividad administrativa irregular del Estado.
 
-i) Salario: Al salario mínimo diario vigente en el Estado de Durango.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+i) UMA: Unidad de Medida y Actualización.
 
 ###### Artículo 6.
 
@@ -117,9 +119,11 @@ El monto absoluto que se fije en cada uno de los presupuestos de egresos destina
 
 A falta de disposición expresa en esta ley, se aplicarán las disposiciones contenidas en las leyes de la materia, vigentes para el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### Artículo 11.
 
-A quien promueva una reclamación notoriamente improcedente o que sea declarada infundada por haberse interpuesto sin motivo, se le impondrá una multa de veinte a cien salarios. La multa será impuesta, sin trámite alguno, por la dependencia o entidad ante quien se haya presentado la reclamación.
+A quien promueva una reclamación notoriamente improcedente o que sea declarada infundada por haberse interpuesto sin motivo, se le impondrá una multa de veinte a cien veces la UMA. La multa será impuesta, sin trámite alguno, por la dependencia o entidad ante quien se haya presentado la reclamación.
 
 Si con motivo de una impugnación posterior se determinara que la reclamación de indemnización debe ser admitida a trámite, se iniciará el procedimiento correspondiente.
 
@@ -338,3 +342,15 @@ P.O. 20 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 76.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE DURANGO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
