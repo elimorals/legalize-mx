@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2015-02-01"
+last_updated: "2017-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -51,8 +53,6 @@ I. El Tribunal Superior de Justicia;
 
 II. (DEROGADA, P.O. 17 DE JULIO DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 III. El Tribunal para Menores Infractores del Poder Judicial del Estado;
@@ -65,21 +65,15 @@ IV. El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estad
 
 V. Los Juzgados de Primera Instancia y Auxiliares, los Jueces de Control, el Tribunales (sic) de Enjuiciamiento, los Juzgados de Ejecución y el Tribunal Laboral Burocrático;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 VI. El Centro de Justicia Alternativa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 VII. Los Juzgados Municipales
 
 En el Poder Judicial habrá un Consejo de la Judicatura, el cual es un órgano desconcentrado del Tribunal Superior de Justicia y tendrá las atribuciones que le señalan la Constitución Política del Estado Libre y Soberano de Durango y esta ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
@@ -166,8 +160,6 @@ V. La comisión deberá dar vista al interesado y demás magistrados con la inte
 VI. La Comisión integrará un expediente y emitirá un dictamen, los cuales remitirá al Congreso del Estado, a fin de que éste inicie el procedimiento de evaluación, pudiéndose allegar de otros elementos que estime necesarios para ello; y
 
 VII. El Congreso del Estado, durante la substanciación del procedimiento de evaluación, deberá garantizar al Magistrado su derecho de audiencia, respecto de los nuevos elementos que en su caso se hayan allegado al expediente, para que manifieste lo que a su derecho convenga.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -331,13 +323,11 @@ XLI. Las demás que le confiera esta ley, las leyes especiales u otras disposici
 
 ### CAPÍTULO III. DEL PRESIDENTE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 10.
 
-El Tribunal Superior de Justicia tendrá un Presidente, que será electo cada seis años por unanimidad o por mayoría de votos de sus miembros, en votación secreta y podrá ser reelecto.En su elección sólo se tomará en cuenta los méritos que en la administración de justicia o en el ejercicio de la actividad jurídica posean sus integrantes.
+El Tribunal Superior de Justicia tendrá un Presidente, que será electo cada seis años por unanimidad o por mayoría de votos de sus miembros, en votación secreta y podrá ser reelecto. En su elección sólo se tomará en cuenta los méritos que en la administración de justicia o en el ejercicio de la actividad jurídica posean sus integrantes.
 
 El Magistrado Presidente no integrará sala y sus actividades se dirigirán a vigilar el estricto cumplimiento de los acuerdos y las determinaciones del Pleno del Tribunal Superior de Justicia, a representar al Poder Judicial del Estado, a presidir el Consejo de la Judicatura y a cuidar de la administración de justicia, conforme a las facultades y obligaciones que le fijen las leyes.
 
@@ -931,9 +921,11 @@ Los juzgados de lo mercantil tendrán la competencia y atribuciones que en esta 
 
 #### SECCIÓN QUINTA. DE LOS JUZGADOS AUXILIARES
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 52.
 
-Los juzgados auxiliares podrán ser especializados por materia o mixtos. En materia civil y mercantil conocerán de los asuntos cuya cuantía no exceda de ciento ochenta y dos días de salario mínimo vigente en el Estado.
+Los juzgados auxiliares podrán ser especializados por materia o mixtos. En materia civil y mercantil conocerán de los asuntos cuya cuantía no exceda de ciento ochenta y dos veces la Unidad de Medida y Actualización.
 
 #### SECCIÓN SEXTA. DE LOS JUZGADOS DE PRIMERA INSTANCIA CON JURISDICCIÓN MIXTA O DE LOS NO ESPECIALIZADOS POR MATERIA
 
@@ -967,13 +959,9 @@ III. Librar excitativas de justicia a los juzgados municipales de su Distrito, y
 
 IV. De los delitos contra la salud a que se refieren los artículos 475 y 476 de la Ley General de Salud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN SEXTA BIS. DEL TRIBUNAL LABORAL BUROCRÁTICO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
@@ -981,13 +969,9 @@ Artículo 55 A. El Tribunal Laboral Burocrático será uniinstancial (sic), se i
 
 Agotado el procedimiento de selección de los jueces del Tribual Laboral Burocrático, previo al nombramiento, el Consejo de la Judicatura escuchará la opinión de los poderes ejecutivo, legislativo así como a los representantes de los trabajadores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 Artículo 55 B. El procedimiento se substanciará por uno de los jueces. Uno de sus integrantes fungirá como presidente de forma aleatoria según corresponda el turno de asuntos. Las resoluciones del Tribunal Laboral Burocrático se emitirán por unanimidad o por mayoría.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013) (F. DE E., P.O. 12 DE ENERO DE 2014)
 
@@ -1007,13 +991,9 @@ II.- Conceder el registro de los Sindicatos en su caso, y dictar la cancelación
 
 III.- Efectuar el registro de las condiciones generales de trabajo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013) (F. DE E., P.O. 12 DE ENERO DE 2014)
 
 Artículo 55 D. El personal del Tribunal Laboral Burocrático se integrará, además, con el número de secretarios, actuarios, oficiales judiciales y especialistas conciliadores adscritos al Centro Estatal de Justicia Alternativa que determine el Consejo de la Judicatura.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ADICIONADO, P.O. 22 DE DICIEMBRE DE 2013) (F. DE E., P.O. 12 DE ENERO DE 2014)
 
@@ -1035,7 +1015,9 @@ Los jueces municipales propietarios y los suplentes serán nombrados por el Cons
 
 Los juzgados municipales conocerán:
 
-I. En materia civil, de los asuntos cuyo monto no exceda de setenta días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+I. En materia civil, de los asuntos cuyo monto no exceda de setenta veces la Unidad de Medida y Actualización;
 
 II. De la práctica de diligencias que dentro del territorio de su jurisdicción, les encomienden los jueces de primera instancia, el Tribunal Superior de Justicia u otras autoridades jurisdiccionales, así como de los exhortos, despachos o requisitorias que reciban; y
 
@@ -1165,7 +1147,9 @@ El Consejo de la Judicatura es un órgano desconcentrado del Tribunal Superior d
 
 El Consejo de la Judicatura se integrará con cinco consejeros, de los cuales uno será, en representación del Pleno del Tribunal Superior de Justicia, el Presidente de ese organismo, que también lo será del Consejo; los cuatro restantes serán designados por el Pleno del Tribunal Superior de Justicia, bajo el procedimiento siguiente:
 
-Dos serán jueces de Primera Instancia, nombrados de las respectivas ternas que se integrarán de las listas de candidatos que proponga su Presidente, con suficiente anticipación a la fecha en que deban elegirse, siguiendo criterios de honestidad, eficiencia, capacidad y espíritu de servicio, tomando en consideración que no existirá limitante alguna que acote su libertad de investigación y análisis para otorgar sus nombramientos; con un Consejero que propondrá el Gobernador del Estado y con un Consejero que proponga el Congreso del Estado. Para efecto de estas dos últimas propuestas, el Presidente del Tribunal Superior de Justicia les comunicará oportunamente que procedan a formularlas.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+Dos serán Jueces de Primera Instancia, nombrados de las respectivas ternas que se integrarán de las listas de candidatos que proponga su Presidente, con suficiente anticipación a la fecha en que deban elegirse, siguiendo criterios de honestidad, eficiencia, capacidad y espíritu de servicio, tomando en consideración que no existirá limitante alguna que acote su libertad de investigación y análisis para otorgar sus nombramientos; con un Consejero que propondrá el Gobernador del Estado y con dos Consejeros que proponga el Congreso del Estado. Para efecto de estas dos últimas propuestas, el Presidente del Tribunal Superior de Justicia, les comunicará oportunamente que procedan a formularlas.
 
 Cuando sea el caso, el Pleno del Tribunal Superior de Justicia procederá a designar al Consejero que corresponda, quien rendirá protesta ante el propio Pleno.
 
@@ -1315,7 +1299,9 @@ XX. Autorizar a los secretarios de los juzgados o algún otro servidor público 
 
 XXI. Convocar periódicamente a congresos estatales o regionales de jueces secretarios y actuarios, y a actividades, con la participación de instituciones académicas, asociaciones de profesionales e institutos de investigación;
 
-XXII. Apercibir, amonestar e imponer multa hasta de ciento ochenta días del importe del salario mínimo general vigente en el Estado al día de cometerse la infracción, de acuerdo con el Reglamento respectivo, a aquellas personas que falten al respeto a algún órgano o integrante del Poder Judicial del Estado, en las promociones que hagan ante el Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+XXII. Apercibir, amonestar e imponer multa hasta de ciento ochenta veces la Unidad de Medida y Actualización, de acuerdo con el Reglamento respectivo, a aquellas personas que falten al respeto a algún órgano o integrante del Poder Judicial del Estado, en las promociones que hagan ante el Consejo de la Judicatura;
 
 XXIII. Formar cada año listas con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial del Estado, además de síndicos, interventores, albaceas, depositarios, árbitros y otros auxiliares de la administración de justicia, ordenándolas por ramas y especialidades;
 
@@ -2185,7 +2171,9 @@ La resolución absolutoria deberá ser publicada en extracto en el Periódico Of
 
 De ser fundada la queja o la causa del procedimiento administrativo, se procederá a imponer las sanciones correspondientes.
 
-Cuando la queja resulte infundada por haberse conducido con temeridad, mala fe, sin causa justificada o sin prueba, se podrá imponer a los promoventes una multa hasta por el equivalente a sesenta días del salario mínimo general vigente en la capital del Estado, que se hará efectiva a través de la Secretaría de Finanzas y de Administración del Gobierno del Estado o por el Consejo de la Judicatura, en los términos del artículo 214 de esta ley, sin perjuicio de que, de estimarse pertinente, se dé vista con lo actuado al Ministerio Público para el ejercicio de sus funciones. El importe de la multa ingresará al Fondo Auxiliar para la Administración de Justicia.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+Cuando la queja resulte infundada por haberse conducido con temeridad, mala fe, sin causa justificada o sin prueba, se podrá imponer a los promoventes una multa hasta por el equivalente a sesenta veces la Unidad de Medida y Actualización, que se hará efectiva a través de la Secretaría de Finanzas y de Administración del Gobierno del Estado o por el Consejo de la Judicatura, en los términos del artículo 214 de esta ley, sin perjuicio de que, de estimarse pertinente, se dé vista con lo actuado al Ministerio Público para el ejercicio de sus funciones. El importe de la multa ingresará al Fondo Auxiliar para la Administración de Justicia.
 
 ###### ARTÍCULO 149.
 
@@ -2245,7 +2233,7 @@ El Consejero operativo iniciará el trámite correspondiente ordenando la instau
 
 Para la determinación de las responsabilidades a que se refiere este Título, deberá seguirse el procedimiento que a continuación se establece:
 
-l. Se enviará una copia del escrito de denuncia y sus anexos al servidor público para que, en un término de cinco días hábiles, formule un informe sobre los hechos y rinda las pruebas correspondientes. El informe deberá referirse a todos y cada uno de los hechos comprendidos en el escrito de denuncia, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la denuncia sobre los cuales el denunciado no suscitare explícitamente controversia, sin admitirse prueba en contrario. La confesión de los hechos no entraña la aceptación de la responsabilidad;
+I. Se enviará una copia del escrito de denuncia y sus anexos al servidor público para que, en un término de cinco días hábiles, formule un informe sobre los hechos y rinda las pruebas correspondientes. El informe deberá referirse a todos y cada uno de los hechos comprendidos en el escrito de denuncia, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la denuncia sobre los cuales el denunciado no suscitare explícitamente controversia, sin admitirse prueba en contrario. La confesión de los hechos no entraña la aceptación de la responsabilidad;
 
 II. Recibido el informe y desahogadas las pruebas, si las hubiere, se resolverá dentro de los treinta días hábiles siguientes sobre la responsabilidad o no del servidor público del Poder Judicial y se notificará la resolución al interesado dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad a que se refieren los artículos 149 y 150 de esta ley;
 
@@ -2327,7 +2315,7 @@ La calificación del impedimento, tratándose de los peritos e intérpretes, cor
 
 ###### ARTÍCULO 162.
 
-Los servidores públicos del Poder Judicial del Estado no podrán aceptar o desempeñar empleo o encargo de la Federación, de los Estados, de los Municipios o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia y los cargos docentes, siempre que su desempeño no perjudique las funciones y labores propias de su encargo, previa autorización del Pleno del Tribunal Superior de Justicia a los magistrados y funcionarios del Tribunal Superior; y del Pleno del Consejo de la Judicatura a los demás, así como a sus propios miembros.Los magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial recabarán la autorización del Pleno del propio Tribunal.
+Los servidores públicos del Poder Judicial del Estado no podrán aceptar o desempeñar empleo o encargo de la Federación, de los Estados, de los Municipios o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia y los cargos docentes, siempre que su desempeño no perjudique las funciones y labores propias de su encargo, previa autorización del Pleno del Tribunal Superior de Justicia a los magistrados y funcionarios del Tribunal Superior; y del Pleno del Consejo de la Judicatura a los demás, así como a sus propios miembros. Los magistrados del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial recabarán la autorización del Pleno del propio Tribunal.
 
 ### CAPÍTULO III. DE LAS SUBSTITUCIONES EN CASO DE IMPEDIMENTO, RECUSACIONES Y EXCUSAS
 
@@ -2509,8 +2497,6 @@ Los magistrados del Tribunal Superior de Justicia rendirán la protesta de ley a
 
 El Pleno del Tribunal Superior de Justicia tomará protesta a su Secretario y a los integrantes del Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 198.
@@ -2561,13 +2547,9 @@ Las labores de los juzgados en materia penal no se interrumpirán durante las va
 
 Son empleados de confianza del Poder Judicial del Estado los siguientes: El Secretario General de Acuerdos, Consejeros, Jueces, Secretarios de Sala y de juzgados, Defensores Públicos y Asesores Jurídicos, Administradores de Sala, Actuarios Notificadores y Ejecutores, Oficiales Judiciales, Secretarios Administrativos, Directores y Jefes de Departamento y, en general, aquellas personas que por la naturaleza confidencial de sus labores o porque realicen tareas de dirección, deban ser consideradas como tales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Los oficiales judiciales serán aquellos empleados que tendrán a su cargo labores de archivo, captura de datos, costura o formación de expedientes, foliado, préstamo de expedientes, obtención de copiado, elaboración de oficios, listado, estadísticas y demás funciones similares, pero que por la naturaleza confidencial de la información que maneja debe tener carácter de confianza.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2827,13 +2809,9 @@ Las multas y sanciones pecuniarias impuestas por los órganos del Poder Judicial
 
 (DEROGADO, P.O. 17 DE JULIO DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ## TÍTULO NOVENO. DEL TRIBUNAL PARA MENORES INFRACTORES DEL PODER JUDICIAL DEL ESTADO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO CON LO ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2844,8 +2822,6 @@ Las multas y sanciones pecuniarias impuestas por los órganos del Poder Judicial
 ###### ARTÍCULO 248.
 
 De conformidad con el artículo 117 de la Constitución Política del Estado Libre y Soberano de Durango, el Tribunal para Menores Infractores del Poder Judicial del Estado, será la autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado competente para resolver las conductas tipificadas como delito por el Código Penal o por Leyes Estatales, en las que se encuentren implicadas personas que tengan entre doce años cumplidos y menos de dieciocho años de edad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2861,13 +2837,9 @@ Los magistrados de menores percibirán la remuneración que corresponda a los ma
 
 Por lo que respecta a los requisitos para la designación del personal, nombramientos, carrera judicial, organización, estructura y funcionamiento del Tribunal para Menores Infractores del Poder Judicial del Estado se estará a lo dispuesto en el Código de Justicia para Menores Infractores en el Estado de Durango y esta ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO II. DE LA COMISIÓN DE ADMINISTRACIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2905,15 +2877,11 @@ El comisionado que disintiere de la mayoría, podrá formular por escrito voto p
 
 Las sesiones ordinarias o extraordinarias de la Comisión serán privadas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 253.
 
 Cuando la Comisión de Administración estime que sus reglamentos, acuerdos o resoluciones, pudieren resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2959,8 +2927,6 @@ XIV. Desempeñar cualquier otra función que la ley o el Reglamento Interno del 
 
 En caso de existir dudas con respecto a las determinaciones que expida la Comisión, el Presidente solicitará su reconsideración ante el Pleno del Tribunal Superior de Justicia, el que resolverá uniinstancialmente (sic) lo conducente. En caso de incumplimiento se procederá de igual forma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 255.
@@ -2983,8 +2949,6 @@ VII. Proponer para su nombramiento a la Comisión de Administración, a los titu
 
 VIII. Las demás que les señalen la ley, el Reglamento Interno y los acuerdos generales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 256.
@@ -3003,15 +2967,11 @@ Igualmente se auxiliará de la Universidad Judicial del propio Consejo de la Jud
 
 En ambos supuestos se aplicarán las disposiciones de esta ley relativas a estos órganos, en lo conducente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 257.
 
 La Secretaría Administrativa tendrá a su cargo la atención, ejecución y cumplimiento de las resoluciones y acuerdos de la Comisión de Administración relativos a los recursos humanos, financieros y materiales del Tribunal para Menores Infractores, de acuerdo con las partidas autorizadas en el presupuesto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3715,8 +3675,6 @@ Derechos laborales y administrativos del personal.
 
 Esta Ley, al entrar en vigor, no afectará los derechos laborales y administrativos adquiridos y, por ende, tampoco su situación actual como servidores públicos del Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO SÉPTIMO.
@@ -3819,7 +3777,7 @@ Artículo Séptimo (sic).- De las apelaciones, revisiones forzosas y extraordina
 
 TRANSITORIOS DEL DECRETO
 
-Artículo Primero.- El presente decreto entrará en vigor al día siguiente .de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Artículo Segundo.- Quedan derogadas las disposiciones que se opongan al presente decreto.
 
@@ -3950,3 +3908,23 @@ P.O. 1 DE FEBRERO DE 2015.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 69.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el en el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 82.- POR EL QUE SE REFORMA EL ARTÍCULO 72 EN SU SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
