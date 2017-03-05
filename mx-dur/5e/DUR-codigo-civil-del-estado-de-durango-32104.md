@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2017-02-26"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -317,9 +317,9 @@ Recibido el aviso, el Oficial del Registro Civil tomará sin demora las medidas 
 
 Para las localidades de la entidad en donde no haya oficinas del Registro Civil, el Ejecutivo del Estado podrá implementar un Programa de Oficialías del Registro Civil Móviles o itinerantes para acercar el servicio a la población y en su caso, regularizar el estado civil de las personas que así lo requieran.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
-ART. 56.- Las personas que estando obligadas a declarar el nacimiento incumplan o lo hagan fuera del término fijado en el artículo anterior, serán acreedoras a una sanción económica de veinticinco a cien días de salario mínimo vigente en la capital del Estado, que impondrá la Dirección General del Registro Civil en el Estado, en coordinación con la Autoridad Municipal del lugar donde se haya cometido la infracción.
+ART. 56.- Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado serán castigados con una multa de una a seis veces la Unidad de Medida y Actualización que impondrá la Dirección General del Registro Civil en el Estado, en coordinación con la Autoridad Municipal del lugar donde se haya hecho la declaración extemporánea del nacimiento.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -419,9 +419,9 @@ ART. 75.- El Acta de reconocimiento contendrá: nombre, apellidos, fecha y lugar
 
 ART. 76.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará dentro del término de quince días, al encargado del Registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el capítulo (IV) del Título Séptimo de este Libro.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
-ART. 77.- La omisión del Registro, en el caso del Artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de cien a quinientos pesos que impondrá y hará efectiva el Juez ante quien se haga valer el reconocimiento.
+ART. 77.- La omisión del Registro, en el caso del Artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de una a seis veces la Unidad de Medida y Actualización que impondrá y hará efectiva el Juez ante quien se haga valer el reconocimiento.
 
 ART. 78.- En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta poniendo en ella la anotación marginal correspondiente.
 
@@ -589,9 +589,9 @@ ART. 106.- El Oficial del Registro Civil que autorice un matrimonio teniendo con
 
 ART. 107.- Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos, carecen de aptitud legal para celebrar el matrimonio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
-ART. 108.- El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio será castigado por la primera vez con una multa de quinientos pesos y en caso de reincidencia, con la destitución de su cargo.
+ART. 108.- El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio será castigado por la primera vez con una multa de seis veces la Unidad de Medida y Actualización y en caso de reincidencia, con la destitución de su cargo.
 
 ART. 109.- El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
 
@@ -1239,7 +1239,7 @@ ART. 247.- Ejecutoriada la sentencia que declare la nulidad, el Tribunal de Ofic
 
 ART. 248.- El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
 
-ART. 249.- Los cónyuges no pueden celebrar transacción ni compromiso en árbitrios (sic), acerca de la nulidad del matrimonio.
+ART. 249.- Los cónyuges no pueden celebrar transacción ni compromiso en árbitrios, acerca de la nulidad del matrimonio.
 
 ART. 250.- El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo, en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
 
@@ -2365,7 +2365,9 @@ ART. 453.- Los cargos de tutor y de curador de un incapaz no pueden ser desempe�
 
 ART. 454.- No pueden ser nombrados tutores o curadores las personas que desempeñen el cargo de Juez, ni los demás servidores públicos adscritos al juzgado que conoce del asunto ni los que estén ligados por parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado.
 
-ART. 455.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido están obligados a dar parte del fallecimiento al juez competente, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
+ART. 455.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quiénes haya vivido están obligados a dar parte del fallecimiento al juez competente, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de una vez la Unidad de Medida y Actualización de multa.
 
 Los oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a los jueces competentes de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
@@ -3615,7 +3617,9 @@ Se tendrá al que hizo la denuncia como tercero coadyuvante.
 
 ART. 781.- El denunciante recibirá la cuarta parte del valor catastral de los bienes que denuncia; observándose lo dispuesto en la parte final del artículo 775.
 
-ART. 782.- El que se apodere de un bien vacante sin cumplir lo prevenido en este Capítulo, pagará una multa de cinco a cincuenta pesos, sin perjuicio de las penas que señale el respectivo Código.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+ART. 782.- - El que se apodere de un bien vacante sin cumplir lo prevenido en este Capítulo, pagará una multa una vez la Unidad de Medida y Actualización, sin perjuicio de las penas que señale el respectivo Código.
 
 ## TITULO TERCERO.
 
@@ -5349,7 +5353,9 @@ ART. 1390.- Si la identidad del testador no pudiere ser verificada, se declarar�
 
 ART. 1391.- En el caso del artículo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
 
-ART. 1392.- Se prohibe a los notarios y cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los notarios y de la mitad a los que no lo fueren.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+ART. 1392. Se prohíbe a los notarios y cualquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de seis veces la Unidad de Medida y Actualización de multa a los notarios y de la mitad a los que no lo fueren.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
 
@@ -8011,7 +8017,7 @@ ART. 2269.- Si no fuere posible al mutuatario restituír en género, se satisfar
 
 ART. 2270.- Consistiendo el préstamo en dinero pagará el deudor devolviendo una cantidad igual a la recibida conforme a la ley monetaria y vigente al tiempo de hacerse el pago, sin que esta prescripción sea renunciable. Si se pacta que el pago debe hacer (sic) en moneda extranjera la alteración que ésta experimenta en valor será en daño o beneficio del mutuatario.
 
-ART. 2271.- El mutuatante es responsable de los perjuicios que sufra el mutuatario por la mala calidad y vicios ocultos de la cosa prestada, si conoció los defectos y no dió aviso oportuno al mutuatario.
+ART. 2271.- El mutuatante es responsable de los perjuicios que sufra el mutuatario por la mala calidad o vicios ocultos de la cosa prestada, si conoció los defectos y no dió aviso oportuno al mutuatario.
 
 ART. 2272.- En el caso de haberse pactado que la restitución se hará cuando pueda o tenga medios el deudor, se observará lo dispuesto en el artículo 1961.
 
@@ -8683,7 +8689,7 @@ ART. 2479.- El mandante puede eixgir (sic) la devolución del instrumento o escr
 
 El mandante que descuide exigir los documentos que acrediten los poderes, del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
 
-ART. 3480 (SIC).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
+ART. 2480.- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
@@ -9097,11 +9103,11 @@ ART. 2611.- Si sólo se hubiere pactado lo que debe corresponder a los socios po
 
 ART. 2612.- Si alguno de los socios contribuye solo con la industria, sin que ésta se hubiere estimado, ni se hubiere designado cuota que por ella debiera recibir, se observarán las reglas siguientes:
 
-I.- Si el trabajo del industrial pudiera hacerse por otro, su cuota será la que corresponda por razón de sueldo u honorarios, y ésto mismo se observará si son varios los socios industriales.
+I.- Si el trabajo del industrial pudiera hacerse por otro, su cuota será la que corresponda por razón de sueldo u honorarios, y ésto mismo se observará si son varios los socios industriales;
 
-II.- Si el trabajo no pudiere ser hecho por otro, su cuota será igual a la del socio capitalista que tenga más,
+II.- Si el trabajo no pudiere ser hecho por otro, su cuota será igual a la del socio capitalista que tenga más;
 
-III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias.
+III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias;
 
 IV.- Si son varios los socios industriales y están en el caso de la fracción II, llevarán entre todos la mitad de las ganancias y la dividirán entre sí por convenio y, a falta de éste, por decisión arbitral.
 
@@ -10560,3 +10566,15 @@ P.O. 26 DE FEBRERO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 61.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el en (sic) el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
