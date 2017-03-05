@@ -4,7 +4,7 @@ identifier: "DUR-ley-contra-el-lucro-inmoderado-11469"
 country: "mx"
 rank: "ley"
 publication_date: "1947-12-18"
-last_updated: "2014-12-28"
+last_updated: "2017-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "DUR"
 ---
 # LEY CONTRA EL LUCRO INMODERADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 288, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2014; Y, EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 299, PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY CONTRA EL LUCRO INMODERADO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 288, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 299, PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 18 de diciembre de 1947.
 
@@ -47,9 +45,11 @@ Para los efectos de la presente Ley, se considera lucro inmoderado a la utilidad
 
 El lucro inmoderado se castigará con sanción corporal, con sanción pecuniaria o con ambas, según la gravedad del caso.
 
-###### Artículo 3º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
-Se aplicará sanción de uno a cinco años de prisión y multa de cincuenta a cinco mil pesos, a toda persona que sin motivo ni justificación, almacene artículos de consumo necesario, por un período mayor de tres meses sin efectuar operaciones de venta, a no ser que exista algunas de las siguientes circunstancias que en todo caso deberán comprobarse:
+###### Artículo 3°.
+
+Se aplicará sanción de uno a cinco años de prisión y multa de tres a setenta y cinco veces del valor diario de la Unidad de Medida y Actualización, a toda persona que sin motivo ni justificación, almacene artículos de consumo necesario, por un período mayor de tres meses sin efectuar operaciones de venta, a no ser que exista algunas de las siguientes circunstancias que en todo caso deberán comprobarse:
 
 I.- Que a pesar de haber ofrecido sus artículos en venta al público a los precios oficiales, no hubo compradores.
 
@@ -59,19 +59,25 @@ II.- Que las mercancías que almacena son uso propio y en cantidades que no exce
 
 Se consideran artículos de consumo necesario todos los comestibles de primera necesidad, medicinas, combustibles, llantas y refacciones mecánicas destinadas para uso particular y de empresas de transportes y en general, las que sean necesarias para la economía de la región.
 
-###### Artículo 5º.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
-Se autoriza al Departamento de Economía y Estadística del Gobierno del Estado, para que directamente o por conducto de las autoridades municipales, solicite de los almacenistas, productores y comerciantes, información acerca de las cantidades de artículos de consumo necesario que tengan en existencia destinados para especulación, estando obligados a proporcionar los informes solicitados dentro del término improrrogable de cinco días. Si en dicho término no se rinde el informe el infractor será sancionado con multa de cincuenta a quinientos pesos por la primera omisión, aumentándose en igual proporción por cada una de las subsiguientes y observándose lo mismo en caso de que el informe sea proporcionado con datos falsos.
+###### Artículo 5°.
 
-###### Artículo 6º.
+Se autoriza al Departamento de Economía y Estadística del Gobierno del Estado, para que directamente o por conducto de las autoridades municipales, solicite de los almacenistas, productores y comerciantes, información acerca de las cantidades de artículos de consumo necesario que tengan en existencia destinados para especulación, estando obligados a proporcionar los informes solicitados dentro del término improrrogable de cinco días. Si en dicho término no se rinde el informe el infractor será sancionado con multa de tres a diez veces del valor diario de la Unidad de Medida y Actualización por la primera omisión, aumentándose en igual proporción por cada una de las subsiguientes y observándose lo mismo en caso de que el informe sea proporcionado con datos falsos.
 
-Quien realice operaciones de venta a precios que produzcan lucro inmoderado, mercancías de las señaladas en el artículo cuarto, será castigado con pena de tres meses a dos años de prisión y multa de cincuenta a mil pesos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
+###### Artículo 6°.
+
+Quien realice operaciones de venta a precios que produzcan lucro inmoderado, mercancías de las señaladas en el artículo cuarto, será castigado con pena de tres meses a dos años de prisión y multa de tres a quince veces del valor diario de la Unidad de Medida y Actualización.
 
 La misma pena se impondrá a quien desobedezca las disposiciones de la autoridad, dictadas con el fin de controlar la venta de artículos alimenticios, a precios oficiales y asimísmo a los comerciantes, que estando autorizados únicamente a realizar sus mercancías al menudeo, efectúen también operaciones de mayoreo.
 
-###### Artículo 7º.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
-Cuando los productores, distribuidores, comisionistas, comerciantes y en general cualquiera persona, con el fín de obtener lucro inmoderado, concerten actos tendientes a elevar en forma exagerada los precios de las mercancías de consumo necesario, serán sancionados con pena de dos a nueve años de prisión y multa de cien a cinco mil pesos por cada acto concertado.
+###### Artículo 7°.
+
+Cuando los productores, distribuidores, comisionistas, comerciantes y en general cualquiera persona, con el fin de obtener lucro inmoderado, concerten actos tendientes a elevar en forma exagerada los precios de las mercancías de consumo necesario, serán sancionados con pena de dos a nueve años de prisión y multa de tres a veinticinco veces del valor diario de la Unidad de Medida y Actualización, por cada acto concertado.
 
 ###### Artículo 8º.
 
@@ -110,3 +116,15 @@ Artículo Primero.- El presente decreto entrará en vigencia al día siguiente a
 Artículo Segundo.- Se abroga la Ley contra el Lucro Inmoderado para el Estado de Durango, publicado en el Decreto Número 14, de la XLI Legislatura, del Periódico Oficial Número 49, de Fecha 18 de diciembre de 1947.
 
 Artículo Tercero.- Se derogan todas las disposiciones que contravengan a las contenidas en la presente Ley.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 64.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY CONTRA EL LUCRO INMODERADO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el en el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
