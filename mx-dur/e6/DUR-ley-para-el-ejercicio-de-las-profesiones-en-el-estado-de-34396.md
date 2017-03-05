@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-ejercicio-de-las-profesiones-en-el-estado-de-34396"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-24"
-last_updated: "2003-08-24"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
-Ley publicada en el Periódico Oficial del Estado de Durango, el Domingo 24 de Agosto de 2003.
+Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de Agosto de 2003.
 
 EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, SABED:
 
@@ -355,7 +355,7 @@ d. Permiso expedido por la Secretaría de Relaciones Exteriores;
 
 e. Programa anual de actividades a realizar que incluya lo relativo al programa de servicio social profesional;
 
-f. Acreditar una membresía mínima de cincuenta asociados. En aquellos (sic) profesiones en las que en toda la entidad no existiere el número de profesiones requerido, se constituirá con el número existente ; y
+f. Acreditar una membresía mínima de cincuenta asociados. En aquellos (sic) profesiones en las que en toda la entidad no existiere el número de profesiones requerido, se constituirá con el número existente; y
 
 g. Los demás que le sean solicitados por la Dirección.
 
@@ -717,9 +717,11 @@ VI. La cancelación del registro de colegios de profesionistas o instituciones e
 
 La amonestación consiste en la advertencia que la Dirección hace al profesionista, a las instituciones educativas, asociaciones y colegios de profesionistas, explicando las consecuencias de la infracción.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 69.
 
-La multa consiste en el pago de una cantidad en dinero ante la Recaudación de Rentas del domicilio del infractor, la cual no podrá ser menor del importe de 20 días de salario mínimo ni mayor de 500. El cobro de las multas se hará conforme al procedimiento Administrativo de Ejecución.
+La multa consiste en el pago de una cantidad de dinero ante la Recaudación de Rentas del domicilio del infractor, la cual no podrá ser menor del importe de 20 veces la Unidad de Medida y Actualización ni mayor de 500. El cobro de las multas se hará conforme al procedimiento Administrativo de Ejecución.
 
 ###### ARTÍCULO 70.
 
@@ -739,19 +741,25 @@ Para los efectos de la primera parte de este precepto, cuando el número de miem
 
 La cancelación del registro de instituciones educativas, se decretará en los casos previstos en esta Ley, su reglamento y la demás legislación aplicable en la materia.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 74.
 
-Cuando una persona se ostente como pasante o profesionista sin serlo, y realice actos propios de una actividad profesional de las referidas en el artículo 6 de esta Ley, no tendrá derecho a percibir honorarios. La contravención a lo dispuesto en el párrafo anterior, se sancionará con una multa hasta por el equivalente a 500 días de salario mínimo general vigente en la capital del Estado.
+Cuando una persona ostente como pasante o profesionista sin serlo, y realice actos propios de una actividad profesional de las referidas en el artículo 6 de esta Ley, no tendrá derecho a percibir honorarios. La contravención a lo dispuesto en el párrafo anterior, se sancionara con una multa hasta por el equivalente a 500 veces la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 75.
 
-Cuando se compruebe que existió falsedad en los documentos que presentaron los profesionistas para su inscripción y registro ante la Dirección, se efectuará la cancelación del mismo y se revocará la autorización para el ejercicio profesional, independientemente de las sanciones penales a las que se haga acreedor, se le impondrá por parte de la Dirección una multa hasta por el equivalente a 500 días de salario mínimo general vigente en la capital del Estado.
+Cuando se compruebe que existió falsedad en los documentos que presentaron los profesionistas para su inscripción y registro ante la Dirección, se efectuara la cancelación del mismo y se revocara la autorización para el ejercicio profesional, independientemente de las sanciones penales a las que se haga acreedor, se la (sic) impondrá por aparte (sic) de la Dirección una multa hasta por el equivalente a 500 veces la Unidad de Medida y Actualización.
 
 La Dirección deberá de efectuar la denuncia correspondiente ante el Ministerio Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 76.
 
-Queda prohibido el uso de la expresión "Colegio" a las agrupaciones o asociaciones de profesionistas constituidas en el Estado, que no hayan sido reconocidas y debidamente registradas ante la Dirección en los términos de esta Ley. A quienes infrinjan esta disposición, la Dirección no les autorizará por ningún concepto en el término de 5 años el funcionamiento de agrupación profesional alguna y se les impondrá una multa hasta por el equivalente a 400 días de salario mínimo general vigente en el Estado.
+Queda prohibido el uso de la expresión "Colegio" a las agrupaciones o asociaciones de profesionistas constituidas en el Estado, que no hayan sido reconocidas y debidamente registradas ante la Dirección en los términos de esta Ley. A quienes infrinjan esta disposición, la Dirección no les autorizará por ningún concepto en el término de 5 años el funcionamiento de agrupación profesional alguna y se les impondrá una multa hasta por el equivalente a 400 veces la Unidad de Medida y Actualización.
 
 En tratándose de las agrupaciones, la sanción se impondrá en forma solidaria para cada una de las personas que la integran.
 
@@ -894,3 +902,17 @@ SECRETARIA
 DIP. JORGE HERRERA DELGADO
 
 SECRETARIO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO, NO. 91.- POR EL QUE SE REFORMA EL ARTÍCULO 76 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
