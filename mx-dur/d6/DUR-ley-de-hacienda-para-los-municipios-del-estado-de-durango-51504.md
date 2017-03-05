@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-para-los-municipios-del-estado-de-durango-51504
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-20"
-last_updated: "2016-03-06"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de julio de 2006.
 
@@ -859,7 +859,9 @@ III. Fraccionamientos de tipo industrial o comercial.
 
 Para dar principio a la construcción de cualquier fraccionamiento, las personas físicas, morales y unidades económicas deberán de comunicárselo con 30 días de anticipación a la Presidencia Municipal que corresponda y deberán sujetarse en todo momento a las disposiciones y aprobaciones de la Dirección de Obras Públicas Municipales o su análogo.
 
-La falta de cumplimiento de esa obligación será motivo de suspensión de las obras y se sancionará con multa de 5 a 20 veces el salario mínimo mensual.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+La falta de cumplimiento de esa obligación será motivo de suspensión de las obras y se sancionará con multa de 5 a 20 veces la Unidad de Medida y Actualización.
 
 ###### Artículo 110.
 
@@ -1191,9 +1193,11 @@ Las personas que adquieran por venta o traspaso vehículos que estén sujetos al
 
 El Presidente Municipal que corresponda, previa sentencia del Juez Municipal correspondiente, podrá ordenar que sean retirados de la circulación los vehículos cuyos propietarios no estén al corriente del pago de la cuota del presente Capítulo, sin perjuicio de que conforme a la presente Ley, se les exija el pago del adeudo.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### Artículo 139.
 
-Los dueños y conductores de carros fúnebres están obligados a exhibir el permiso y el último recibo de pago siempre que sea requerido para ello por la autoridad competente. Incurriendo en una multa de uno a dos salario (sic) mínimos al que se negara hacerlo.
+Los dueños y conductores de carros fúnebres están obligados a exhibir el permiso y el último recibo de pago siempre que sea requerido para ello por la autoridad competente. Incurriendo en una multa de una a dos veces la Unidad de Medida y Actualización al que se negara hacerlo.
 
 #### SECCIÓN DÉCIMO PRIMERA. POR REGISTRO DE FIERROS DE HERRAR Y EXPEDICIÓN DE TARJETAS DE IDENTIFICACIÓN
 
@@ -1287,9 +1291,11 @@ El pago de este derecho podrá sujetarse a la aplicación de cuotas calculadas p
 
 Son contribuyentes de los derechos por servicios Catastrales quienes reciban, previa solicitud, cualquiera de los servicios a cargo de la Oficina Municipal de Catastro, a que se refiere la presente Sección.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### Artículo 155.
 
-Los derechos por Servicios Catastrales, se sujetarán al catálogo de tarifas que establezcan las Leyes de Ingresos Municipales, para las cuales se tomará como base el salario mínimo general diario vigente en el Estado.
+Los derechos por Servicios Catastrales, se sujetarán al catálogo de tarifas que establezcan las Leyes de Ingresos Municipales, para las cuales se tomará como base la Unidad de Medida y Actualización.
 
 #### SECCIÓN VIGÉSIMA. POR SERVICIOS DE CERTIFICACIONES, LEGALIZACIONES Y EXPEDICIÓN DE COPIAS CERTIFICADAS
 
@@ -1686,3 +1692,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 80.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
