@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2014-11-16"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -689,9 +689,11 @@ El servidor público que facilite algún servicio por el cual se preste un derec
 
 En caso de existir discrepancia en cuanto a la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio, el entero del importe fijado por la Secretaría, en los términos establecidos por este ordenamiento, dará lugar a la prestación de dicho servicio.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 29.
 
-Para los efectos de este Título, se entiende por salario mínimo, el salario mínimo general diario que corresponda al área geográfica del Estado vigente, al momento en que el particular solicite la prestación del servicio.
+Para los efectos de este Título, se entiende por Unidad de Medida y Actualización, como la unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de la (sic) entidades federativas y del Distrito Federal, así como en las disposiciones jurídicas que emanen de todas las anteriores.
 
 ###### ARTÍCULO 30.
 
@@ -855,9 +857,15 @@ VIII. Zonas de preservación ecológicas de los centros de población
 
 Las fracciones VII y VIII son competencia del Estado y sus municipios, los que aplicarán la legislación local en la materia, pudiendo establecer parques y reservas estatales en áreas relevantes de su territorio, pero no lo podrán realizar en zonas previamente declaradas como correspondientes a la Federación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 46.
 
-El Congreso del Estado, a solicitud del Titular del Poder Ejecutivo Estatal, expedirá las resoluciones mediante las cuales declare como áreas naturales protegidas a aquellas porciones del territorio del Estado que requieran de conservación, protección, restauración y desarrollo de sus condiciones ambientales. Al hacerlo, tomará en cuenta la opinión del Ayuntamiento que corresponda, y de las dependencias de la Administración Pública Estatal, en apego al ámbito de sus competencias, los órganos consultivos, las universidades, centros de investigación, propietarios, personas físicas y morales interesadas. La Secretaría dictará los criterios de conservación, administración y funcionamiento de las mencionadas áreas. Todo acto, contrato o convenio que contravenga las resoluciones de áreas naturales protegidas, será nulo.
+El Congreso del Estado, a solicitud del Titular del Poder Ejecutivo Estatal, de los Diputados, de los Ayuntamientos, o de los ciudadanos duranguenses mediante iniciativa popular, expedirá las resoluciones mediante las cuales declare como Áreas Naturales Protegidas, a aquellas porciones del territorio del Estado que requieran de conservación, protección, restauración y desarrollo de sus condiciones ambientales. Al hacerlo, tomará en cuenta la opinión del Ayuntamiento que corresponda, y de las dependencias de la Administración Pública Estatal, en apego al ámbito de sus competencias, los órganos consultivos, las universidades, centros de investigación, propietarios, personas físicas y morales interesadas. La Secretaría dictará los criterios de conservación, administración y funcionamiento de las mencionadas áreas. Todo acto, contrato o convenio que contravenga las resoluciones de áreas naturales protegidas, será nulo.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+
+Las declaratorias de áreas naturales protegidas deberán inscribirse en el Registro Público de la Propiedad en un plazo no mayor a 30 días.
 
 ###### ARTÍCULO 47.
 
@@ -961,7 +969,9 @@ Para aquellas áreas que presenten procesos de degradación o desertificación o
 
 En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá promover la participación de los propietarios, poseedores, organizaciones sociales públicas y privadas, pueblos indígenas, gobiernos municipales y demás personas interesadas.
 
-En los casos de procesos acelerados de desertificación o de degradación que impliquen la pérdida de recursos de muy difícil regeneración, recuperación o restablecimiento o de afectaciones irreversibles a los ecosistemas o sus elementos, el Ejecutivo Estatal, a través de la Secretaría, promoverá la expedición de las declaratorias para el establecimiento de zonas de restauración ecológica. Para tal efecto, elaborará previamente los estudios que las justifiquen.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+En los casos de procesos acelerados de desertificación o de degradación que impliquen la pérdida de recursos de muy difícil regeneración, recuperación o restablecimiento o de afectaciones irreversibles a los ecosistemas o sus elementos, el Congreso del Estado, a solicitud del Titular del Poder Ejecutivo Estatal, de los Diputados, de los Ayuntamientos, o de los ciudadanos duranguenses mediante iniciativa popular, expedirá las declaratorias para el establecimiento de Zonas de Restauración Ecológica. Una vez presentada la Iniciativa al H. Congreso del Estado, éste le dará vista al Titular del Poder Ejecutivo, por medio de la Secretaría, con el fin de que elabore los estudios e informes y su opinión que justifique la declaratoria.
 
 Las declaratorias deberán publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y serán inscritas en el Registro Público de la Propiedad correspondiente. Comprenderán, de manera total o parcial, predios sujetos a cualquier régimen de propiedad y expresarán:
 
@@ -1641,7 +1651,9 @@ Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones
 
 I. Amonestación con apercibimiento;
 
-II. Multa por el equivalente de veinte a veinte mil días de salario mínimo general vigente en el Estado de Durango en el momento de la realización de la infracción o ilícito;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+II. Multa por el equivalente de veinte a veinte mil veces la Unidad de Medida y Actualización en el momento de la realización de la infracción o ilícito;
 
 III. Clausura temporal o definitiva, parcial o total cuando:
 
@@ -1705,9 +1717,11 @@ Cuando a solicitud del infractor o la autoridad considere y justifique plenament
 
 Para la imposición de sanciones, en cuanto a las autorizaciones se tomará en cuenta el número de empleados de la industria o empresa acreedora de la sanción, es decir si se trata de micro, pequeña, mediana o grande empresa, además, si se carece de autorización, si se incumple alguna disposición condicionante, o de falsedad para obtenerla la misma.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 138.
 
-Si una vez impuestas las sanciones manifestadas en la presente Ley y vencido el plazo concedido para subsanar la o las infracciones cometidas y no hubiesen sido atendidas, podrá imponerse multa por cada día que transcurra sin obedecer el mandato, sin que el total de las multas, que en estos casos se impongan exceda de veinte mil días de salario mínimo en el momento de imponerlas.
+Si una vez impuestas las sanciones manifestadas en la presente Ley y vencido el plazo concedido para subsanar la o las infracciones cometidas y no hubiesen sido atendidas, podrá imponerse multa por cada día que transcurra sin obedecer el mandato, sin que el total de las multas, que en estos casos se impongan exceda de veinte mil veces la Unidad de Medida y Actualización en el momento de imponerlas.
 
 ###### ARTÍCULO 139.
 
@@ -1817,9 +1831,11 @@ VI. Realizar cualquier tipo de aprovechamiento de recursos naturales dentro de l
 
 VII. Comercializar sin la autorización correspondiente, especie de flora y fauna silvestre.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 147.
 
-Al que cometa de manera imprudencial, alguna infracción o algunos de los hechos u omisiones considerados como delitos en el artículo anterior, se le impondrá una multa de cincuenta a cinco mil días de salario mínimo vigente en el Estado, así como la reparación del daño; Si los hechos u omisiones devienen de manera intencional la sanción consistirá en multa de quinientos a veinte mil días de salario mínimo vigente en el Estado y la reparación del daño, según los daños que se causen y que de manera fundada se determinen, independientemente de las sanciones a que se hago acreedor conforme a lo dispuesto por el Código Penal en vigor.
+Al que cometa de manera imprudencial, alguna infracción o algunos de los hechos u omisiones considerados como delitos en el artículo anterior, se le impondrá una multa de cincuenta a cinco mil veces la Unidad de Medida y Actualización, así como la reparación del daño; si los hechos u omisiones devienen de manera intencional la sanción consistirá en multa de quinientas a veinte mil veces la Unidad de Medida y Actualización y la reparación del daño, según los daños que se causen y que de manera fundada se determinen, independientemente de las sanciones a que se hago (sic) acreedor conforme a lo dispuesto por el Código Penal en vigor.
 
 ###### ARTÍCULO 148.
 
@@ -2068,3 +2084,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 72.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El valor de la Unidad de Medida y Actualización, será el publicado por el INEGI en el Diario Oficial de la Federación en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
