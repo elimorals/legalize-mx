@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1355
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2014-07-17"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
 
@@ -953,9 +953,11 @@ II.- Para llevar a cabo la licitación, se deberá contar con un mínimo de tres
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 61.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionadas tratándose de proveedores, con multa de 10 a 1000 veces el salario mínimo general vigente en el Estado, en la fecha de la infracción. Los criterios de aplicación de tales sanciones se establecerán en el reglamento.
+Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionadas tratándose de proveedores, con multa de 10 a 1000 veces el valor diario de la Unidad de Medida y Actualización. Los criterios de aplicación de tales sanciones se establecerán en el reglamento.
 
 En los casos en que el adquiriente no aplique las sanciones previstas en este artículo en un término de 30 días naturales contados a partir de que tenga conocimiento de la infracción, la Contraloría podrá aplicar la sanción que corresponda al proveedor, sin perjuicio de la responsabilidad en que incurran los servidores públicos, conforme al ordenamiento aplicable en la materia.
 
@@ -1172,3 +1174,15 @@ P.O. 17 DE JULIO DE 2014.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 78.- POR EL QUE SE REFORMA EL ARTICULO 61 PARRAFO PRIMERO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
