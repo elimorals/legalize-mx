@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-para-el-estado-de-durango-45756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-07"
-last_updated: "2016-08-21"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2005.
 
@@ -1323,7 +1323,7 @@ Independientemente de quien otorgue o se reserve la facultad de otorgar y revoca
 
 ###### Artículo 91.
 
-El concesionario podrá solicitar al Ayuntamiento, al (sic)organismos operador correspondiente o en su caso, a la Comisión, el ejercicio de los actos de autoridad que le atribuye esta Ley, en apoyo al desarrollo de los servicios de agua potable, alcantarillado y saneamiento y el aprovechamiento de las aguas residuales tratadas, pudiendo el primero coadyuvar en la gestión de los trámites administrativos correspondientes.
+El concesionario podrá solicitar al Ayuntamiento, al (sic) organismos operador correspondiente o en su caso, a la Comisión, el ejercicio de los actos de autoridad que le atribuye esta Ley, en apoyo al desarrollo de los servicios de agua potable, alcantarillado y saneamiento y el aprovechamiento de las aguas residuales tratadas, pudiendo el primero coadyuvar en la gestión de los trámites administrativos correspondientes.
 
 ###### Artículo 92.
 
@@ -2523,9 +2523,11 @@ XXVII.- No registrar ante la Comisión las instalaciones y obras hidráulicas su
 
 XXVIII.- Incurrir en cualquier otra violación a los preceptos que señala esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### Artículo 241.
 
-Las faltas a que se refiere el artículo anterior serán sancionadas administrativamente por la autoridad Estatal, Municipal o sus descentralizadas con multas que serán equivalentes a los siguientes días de salario mínimo vigente en el Estado y en el momento en que se cometa la infracción:
+Las faltas a que se refiere el artículo anterior serán sancionadas administrativamente por las autoridades Estatal, Municipal o sus descentralizadas con multas que serán equivalentes a las siguientes veces de la Unidad de Medida y Actualización que corresponda en el momento en que se cometa la infracción;
 
 I.- 100 a 1000, en el caso de violación a la fracción III;
 
@@ -2539,7 +2541,9 @@ III.- 1000 a 4000 en el caso de violación a las fracciones VII y XIX;
 
 IV.- 2000 y 10,000 en el caso de violación a las fracciones V, VI, XXII y XXVI; y
 
-V.- Cualquier otra infracción se sancionará con 100 cuotas.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+V.- Cualquier otra infracción se sancionara con 100 veces de la Unidad de Medida y Actualización.
 
 ###### Artículo 242.
 
@@ -2611,15 +2615,25 @@ VIII.- Cualquier otra infracción a esta Ley o a su Reglamento que no esté expr
 
 Las infracciones a que se refiere el artículo anterior, serán sancionadas por la Comisión:
 
-I.- Con multa de quinientos a dos mil días de salario mínimo vigente en el Estado, tratándose de las fracciones I, IV y VII;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-II.- Con multa de mil a cuatro mil días de salario mínimo vigente en el Estado, en caso de la fracción II;
+I.- Con multa de quinientas a dos mil veces la Unidad de Medida y Actualización, tratándose de las fracciones I, IV y VII;
 
-III.- Con multa de cien a mil días de salario mínimo vigente en el Estado, tratándose de la fracción III;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-IV.- Con multa de mil a cinco mil días de salario mínimo vigente en el Estado, tratándose de las fracciones V y VI; y
+II.- Con multa de mil a cuatro mil veces la Unidad de Medida y Actualización, en caso de la fracción II;
 
-V.- Con multa de hasta quinientos días de salario mínimo vigente en el Estado, en el caso de la fracción VIII.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+III.- Con multa de cien a mil veces la Unidad de Medida y Actualización, tratándose de la fracción III;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+IV.- Con multa de mil a cinco mil veces la Unidad de Medida y Actualización, tratándose de las fracciones V y VI; y
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+V.- Con multa de hasta quinientas veces la Unidad de Medida y Actualización, en el caso de la fracción VIII.
 
 En caso de reincidencia, la Comisión podrá imponer una sanción equivalente hasta por el doble de la cuantía señalada.
 
@@ -2834,3 +2848,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 73.- QUE CONTIENE REFORMAS A DIVERSOS ARTICULOS DE LA LEY DE AGUA PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El valor de la Unidad de Medida y Actualización, será el publicado por el INEGI en el Diario Oficial de la Federación en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
