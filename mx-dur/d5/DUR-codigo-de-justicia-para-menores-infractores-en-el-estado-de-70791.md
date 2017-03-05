@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-justicia-para-menores-infractores-en-el-estado-de-707
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-11"
-last_updated: "2016-12-11"
+last_updated: "2017-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 11 de octubre de 2009.
 
@@ -125,8 +127,6 @@ XXII. Sistema Integral de Justicia para Menores: El régimen jurídico especial 
 
 XXIII. Tratados internacionales: Los tratados, convenios o demás instrumentos internacionales, cualquiera que sea su denominación, celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que establezcan compromisos del Estado Mexicano en materia de personas menores de edad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 XXIV. Tribunal: El Tribunal para Menores Infractores del Poder Judicial del Estado; y,
@@ -156,8 +156,6 @@ Son autoridades competentes para la aplicación de este Código:
 I. La Fiscalía General del Estado de Durango, por conducto del Ministerio Público, en lo que corresponde a la investigación de las conductas tipificadas como delitos, en el Código Penal o en las Leyes Estatales, atribuidas a los menores; así como promover la incoación del proceso ante el Juez para Menores;
 
 II. El Tribunal para Menores Infractores del Estado de Durango, en lo relativo al juzgamiento de los menores, determinación de las medidas aplicables y su ejecución;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -221,7 +219,9 @@ Las causas que excluyen el delito se resolverán de oficio, en cualquier estado 
 
 Queda absolutamente prohibida la difusión por los medios de comunicación en cualquiera de sus expresiones, de la identidad de los menores que se encuentren sujetos a actuaciones administrativas, policiales o judiciales, entendiéndose por tal sus nombres, apodos, filiación, parentesco, domicilio y cualquier otra forma que permita su individualización o identificación.
 
-La inobservancia a esta disposición, dará como resultado el pago de una indemnización de cien a mil días de salario mínimo vigente en el Estado a la persona menor de edad que resulte afectada, sin perjuicio de lo que establezca la legislación penal de nuestro Estado.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+La inobservancia a esta disposición, dará como resultado el pago de una indemnización de cien a mil veces la Unidad de Medida y Actualización a la persona menor de edad que resulte afectada, sin perjuicio de lo que establezca la legislación penal de nuestro Estado.
 
 Se excluyen de esta conducta las autoridades competentes que difundan la identidad de los menores con fines de búsqueda policial o para fines estrictamente procesales.
 
@@ -288,8 +288,6 @@ XXIII. Lenocinio; y,
 XXIV. Delitos contra la Salud, a que se refieren los artículos 475 y 476 de la Ley General de Salud.
 
 La tentativa punible de los delitos antes mencionados en las fracciones anteriores se califica como delito grave.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -593,7 +591,9 @@ I. Apercibimiento;
 
 II. Intervención de la fuerza pública;
 
-III. Multa de uno hasta cien días de salario mínimo vigente en el Estado; y,
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+III. Multa de uno hasta cien veces la Unidad de Medida y Actualización; y,
 
 IV. Arresto hasta por treinta y seis horas.
 
@@ -1993,7 +1993,9 @@ II. Expulsión de la sala de audiencia;
 
 III. Desalojo del público asistente de la sala de audiencia;
 
-IV. Multa de uno hasta cien días de salario mínimo vigente en el Estado; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+IV. Multa de uno hasta cien veces la Unidad de Medida y Actualización; y
 
 V. Arresto hasta por treinta y seis horas.
 
@@ -2424,8 +2426,6 @@ Dichas decisiones deberán ser notificadas inmediatamente al menor, a su defenso
 ###### Artículo 277.
 
 Contra las resoluciones dictadas por el Director del Centro, que lesionen derechos fundamentales o causen un daño irreparable al menor sometido a la medida, procederá el recurso de revisión ante el Juez de Ejecución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3041,8 +3041,6 @@ La interposición del recurso de revisión suspenderá la aplicación de la reso
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 363.
@@ -3097,13 +3095,9 @@ I. Un magistrado de la Sala Unitaria y un Magistrado supernumerario;
 
 II. Un Secretario General de Acuerdos del Tribunal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 III. Los Jueces de Menores, que determine el Pleno del Tribunal Superior de Justicia y permita el presupuesto;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3179,55 +3173,37 @@ II. Vigilar el cumplimiento del presente Código;
 
 III. Ser el conducto para tramitar ante otras autoridades los asuntos del Tribunal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 IV. Elaborar y someter a la consideración de la Comisión de Administración, el anteproyecto de presupuesto del Tribunal para Menores Infractores del Poder Judicial del Estado y proponerlo, una vez aprobado, al Presidente del Tribunal Superior de Justicia, para su inclusión en el correspondiente del Poder Judicial del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 V. Recibir y tramitar ante la autoridad competente las quejas sobre las irregularidades en que incurran los servidores públicos del Tribunal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 VI. Calificar los impedimentos, excusas y recusaciones respecto de los Jueces y, en su caso, designar a quien deba sustituirlos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 VII. Conocer y resolver las excitativas para que los Jueces emitan las resoluciones que correspondan de acuerdo con las prevenciones de este ordenamiento legal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 VIII. Disponer la forma de distribución de los asuntos de que deban conocer los jueces de primera instancia cuando haya dos o más en la misma localidad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 IX. Proponer a la Comisión de Administración al Secretario General de Acuerdos del Tribunal, a los secretarios, a los actuarios, oficiales de partes, así como al personal administrativo y técnico que se requiera para el buen funcionamiento del Tribunal para Menores Infractores del Poder Judicial del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 X. Dictar las medidas necesarias para el buen servicio y disciplina en las oficinas del Tribunal; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 XI. Las demás que le confieran este Código y demás disposiciones aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3274,8 +3250,6 @@ VII. Las demás que determinen este Código, los reglamentos y el Presidente del
 Para ser Secretario General de Acuerdos del Tribunal, se requieren cumplir los requisitos establecidos para los Jueces de Menores o de Ejecución.
 
 ### CAPITULO VI. JUECES DEL TRIBUNAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3367,8 +3341,6 @@ VIII. Evaluar, por lo menos cada tres meses, las medidas privativas de la libert
 
 IX. Dictar resolución mediante la cual se dé por cumplida la medida impuesta, así como la libertad total y definitiva del menor;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 X. Revocar o sustituir las medidas impuestas si considera que ésta ya produjo sus efectos, es innecesaria o afecta gravemente el desarrollo, la dignidad o la reintegración social del menor;
@@ -3405,8 +3377,6 @@ I. Apegarse en el ejercicio de sus funciones a los principios, derechos y demás
 
 II. Fungir como la autoridad encargada de la evaluación de riesgos del imputado, de supervisión de medidas cautelares y de la suspensión del juicio a prueba, en los términos de este Código y del Código Nacional.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 III. Presentar en la audiencia de juicio oral el dictamen respecto a la situación del menor, las medidas de orientación y supervisión conducentes a su adaptación social, basados en los estudios psicológico y familiar que le realicen;
@@ -3423,15 +3393,11 @@ VII. Las demás que le confieran el presente Código.
 
 ### CAPITULO VIII. SECRETARIOS Y ACTUARIOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 387.
 
 La Secretaria General de Acuerdos del Tribunal, los Jueces de Menores y los Jueces de Ejecución contarán con secretarios, actuarios y el personal administrativo de apoyo que autorice la Comisión de Administración.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3479,8 +3445,6 @@ X. Librar citatorios y notificaciones en el procedimiento que se tramite ante el
 
 XI. Remitir a la Unidad de Diagnóstico copia certificada de la sentencia dictada al menor, para los efectos que se señalan en el presente Código, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 XII. Las demás que les señalen las leyes, sus reglamentos, y sus superiores jerárquicos relacionadas con el servicio.
@@ -3490,8 +3454,6 @@ XII. Las demás que les señalen las leyes, sus reglamentos, y sus superiores je
 Son atribuciones de los secretarios administrativos de los Jueces de Menores y de los Jueces de Ejecución del Tribunal, las siguientes:
 
 I. Acordar con el Juez los asuntos de su competencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3528,8 +3490,6 @@ III. Suplir en sus faltas temporales a los secretarios de acuerdos, previa deter
 IV. Las demás que les señalen las leyes, los reglamentos y el Presidente del Tribunal.
 
 ### CAPITULO IX. FALTAS Y SUPLENCIAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3643,13 +3603,9 @@ XIX. Informar al Juez de Ejecución y a la Unidad de Diagnóstico de los Trabajo
 
 XX. Fundar y motivar las decisiones que tome, las cuales deberán ser notificadas inmediatamente al menor, a su defensor y al Juez de Ejecución;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 XX (SIC). Ejecutar las resoluciones emitidas por los Jueces de Menores y de Ejecución que determinen el traslado del menor a otro Centro, ya sea en forma temporal o definitiva, solicitando en su caso, auxilio a la Secretaría de Seguridad Pública;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3691,8 +3647,6 @@ IV. Las demás que le encomiende las disposiciones legales y reglamentarias apli
 
 #### SECCIÓN PRIMERA. VIGILANCIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 407.
@@ -3708,8 +3662,6 @@ Al frente del servicio de vigilancia estará el Jefe de Vigilancia y habrá los 
 El personal de custodia deberá recibir constante capacitación en materia de tratamiento a menores infractores.
 
 #### SECCIÓN SEGUNDA. DEPARTAMENTO DE TRABAJO SOCIAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3771,15 +3723,11 @@ En el caso de que el menor necesite hospitalización o alguna clase de medicamen
 
 T R A N S I T O R I O S
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO PRIMERO.
 
 El presente decreto entrará en vigor en la fecha que determine la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3787,15 +3735,11 @@ El presente decreto entrará en vigor en la fecha que determine la Declaratoria 
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO TERCERO.
 
 La modificación o reubicación de cualquier tipo penal a que se refiere el Código Penal aprobado mediante Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009, no implicará la libertad de los responsables por las conductas tipificadas como delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3803,23 +3747,17 @@ La modificación o reubicación de cualquier tipo penal a que se refiere el Cód
 
 Las disposiciones de este Código, se aplicarán en la fecha que determine la declaratoria a que alude el artículo primero transitorio del presente decreto; las disposiciones del mismo, sólo se aplicarán a los procedimientos que se sigan por las conductas tipificadas como delitos a partir de las cero horas de la fecha que determine la referida declaratoria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO QUINTO.
 
 El Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el lunes 11 de septiembre de 2006, seguirá rigiendo, en los procedimientos que se sigan por las conductas tipificadas como delitos con anterioridad a la aplicación del presente ordenamiento, y quedará abrogado cuando el último de los procedimientos tramitados conforme al primero, haya causado ejecutoria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO SEXTO.
 
 Las conductas tipificadas como delitos permanentes y continuadas que inicien su comisión en la vigencia del Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 11 de septiembre de 2006, se investigarán y juzgarán conforme a lo establecido en dicho ordenamiento, aún cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3831,15 +3769,11 @@ A los jueces, Secretaria General de Acuerdos del Tribunal, los secretarios proye
 
 Para los efectos del cumplimiento del presente, se entenderá que los Secretarios Proyectistas se denominaran en lo sucesivo, Secretarios Administrativos, conservando sus funciones y derechos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO OCTAVO.
 
 Para efectos de este ordenamiento se entenderá que el Centro Especializado de Readaptación y Tratamiento para Menores, será el Centro Especializado de Reintegración y Tratamiento para Menores Infractores en el Estado de Durango.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3978,3 +3912,15 @@ P.O. 11 DE DICIEMBRE DE 2016.
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 63.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DEL CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el en el (sic) Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
