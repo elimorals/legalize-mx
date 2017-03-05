@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-y-bienestar-animal-para-la-94804"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-19"
-last_updated: "2015-06-11"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 100, PUBLICADO EN EL P.O. 12 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ORDENAMIENTO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 19 de mayo de 2013.
 
@@ -403,7 +401,7 @@ VII. Proporcionar al Animal la higiene necesaria tanto en su cuerpo como en su �
 
 VIII. En caso de que impere la necesidad de llevar a cabo el sacrificio del Animal deberá verificar que se practique por personal calificado y que el establecimiento en el cual se vaya a realizar cumpla con las disposiciones aplicables, así como que se empleen las técnicas necesarias para la Insensibilización del animal antes del acto;
 
-IX. No abandonar a los Animales que tenga bajo su custodia o bajo cualquier titulo legal o encargo, así como no permitir que éstos salgan de su área de regusardo sin supervisión o control;
+IX. No abandonar a los Animales que tenga bajo su custodia o bajo cualquier titulo legal o encargo, así como no permitir que éstos salgan de su área de resguardo sin supervisión o control;
 
 X. Proporcionar preferentemente a los Animales de Carga, Tiro y Monta el tipo de herraduras y accesorios adecuados que se utilicen en zonas urbanizadas o asfaltadas. Es obligatorio el mantenimiento del herraje con la frecuencia que en cada caso sea requerida para garantizar el Bienestar Animal;
 
@@ -1361,9 +1359,13 @@ Se aplicarán las siguientes sanciones a quienes infrinjan la presente Ley:
 
 I. Apercibimiento o amonestación pública o privada;
 
-II. Multa de 50 a 10,000 días de salario mínimo general vigente en el Estado a la fecha en que se cometa la infracción;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-III. En el caso de conductas dolosas que se consideren como lesiones, tortura, vejación, mutilación que causen o puedan causar la muerte del Animal, la multa será de 100 a 10,000 días de salario mínimo general vigente en el Estado a la fecha en que se cometa la infracción;
+II. Multa de 50 a 10,000 veces la Unidad de Mediada (sic) y Actualización;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+III. En el caso de conductas dolosas que se consideren como lesiones, tortura, vejación, mutilación que causen o puedan causar la muerte del Animal, la multa será de 100 a 10,000 veces la Unidad de Medida y Actualización;
 
 IV. Arresto administrativo hasta por 36 horas, en los casos de reincidencia y hasta por 72 horas en los casos en que se ocasionen lesiones o muerte a un Animal en forma intencional. En ambos casos el arresto administrativo no eximirá al infractor del pago de la sanción económica respectiva;
 
@@ -1385,11 +1387,11 @@ XII. En caso de que el dictamen lo considere necesario, asistir a terapia psicol
 
 Para imponer las sanciones señaladas la autoridad competente considerará la gravedad de la conducta, si existe reincidencia, los daños y perjuicios causados a terceros en sus bienes o sus personas; la intención con la cual fue cometida y los antecedentes, circunstancias y situación socioeconómica del infractor y de los afectados.
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 112.
 
-Para el caso de la sanción resarcitoria, la Autoridad competente podrá aplicar una cuota de recuperación de 50 a 10,000 días de salario mínimo general vigente en el Estado, según se determine en Resolución fundada y motivada, con independencia de la imposición de otras sanciones.
+Para el caso de la sanción resarcitoria, la Autoridad competente podrá aplicar una cuota de recuperación de 50 a 10,000 veces la Unidad de Medida y Actualización, según se determine en Resolución fundada y motivada, con independencia de la imposición de otras sanciones.
 
 > <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -1605,7 +1607,7 @@ V. Se garantice el importe de las multas impuestas.
 
 ###### Artículo 125.
 
-Transcurrido el término para el desahogo de las pruebas, si las hubiere, dispondrá el recurrente de tres días para alegar de su derecho, y agotados éstos se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto combatido.
+Transcurrido el término para el desahogo de las pruebas, si las hubiere. dispondrá el recurrente de tres días para alegar de su derecho, y agotados éstos se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto combatido.
 
 Dicha resolución se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
@@ -1680,3 +1682,15 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El valor de la Unidad de Medida y Actualización, será el publicado por el INEGI en el Diario Oficial de la Federación en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
