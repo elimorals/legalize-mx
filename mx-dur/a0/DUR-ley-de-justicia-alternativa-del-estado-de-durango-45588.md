@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-justicia-alternativa-del-estado-de-durango-45588"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-14"
-last_updated: "2014-05-06"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 14 de julio de 2005.
 
@@ -321,7 +321,7 @@ X. Intercambiar en forma permanente, conocimientos y experiencias con institucio
 
 XI. Establecer, mediante disposiciones generales, los métodos, políticas y estrategias para que los especialistas conozcan y apliquen eficientemente los Procedimientos Alternativos;
 
-XII. Difundir los objetivos, funciones y logros dél Centro Estatal y de los demás centros de justicia alternativa;
+XII. Difundir los objetivos, funciones y logros del Centro Estatal y de los demás centros de justicia alternativa;
 
 XIII. Elaborar investigaciones, análisis y diagnósticos relacionados con la Justicia Alternativa, y
 
@@ -509,7 +509,7 @@ IV. El nombre del director general y del subdirector de cada Centro de Justicia 
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
 
-###### Articulo 38.
+###### Artículo 38.
 
 El Centro Estatal y los demás Centros de Justicia Alternativa, llevarán los libros que consideren necesarios, para tener un control de los procedimientos alternativos que se tramiten, en los que deberán registrarse:
 
@@ -623,7 +623,7 @@ XV. Cualquier otra causa análoga a las anteriores.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
 
-###### Articulo 46.
+###### Artículo 46.
 
 Cuando existan o surjan motivos que razonablemente impidan a los especialistas actuar con absoluta imparcialidad o se hallen en alguno de los supuestos señalados en el artículo anterior, deberán excusarse. El incumplimiento de esta disposición será causa de responsabilidad civil y administrativa, en su caso.
 
@@ -885,7 +885,7 @@ V. La descripción de la materia del conflicto;
 
 VI. Una descripción precisa, ordenada y clara del convenio alcanzado por las partes, estableciendo las condiciones, términos, fecha y lugar de cumplimiento;
 
-VII. Las firmas o huellas dactilares de quienes los suscriban y, en su caso, el nombre de la persona o personas que hayan firmado a ruego de uno o ambos interesados, cuando éstos no sepan firmar, y (sic)
+VII. Las firmas o huellas dactilares de quienes los suscriban y, en su caso, el nombre de la persona o personas que hayan firmado a ruego de uno o ambos interesados, cuando éstos no sepan firmar, y
 
 VIII. El nombre y firma del especialista que intervino en el procedimiento alternativo;
 
@@ -949,7 +949,7 @@ El procedimiento ante los especialistas independientes se ajustará en lo conduc
 
 Los convenios que afecten intereses de orden público o recaigan sobre derechos respecto de los cuales, las partes celebrantes no tengan libre disposición, únicamente se les otorgará por el Director del Centro Estatal o el Subdirector del centro respectivo el carácter de documental pública.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO III. DE LA JUSTICIA RESTAURATIVA
 
@@ -1131,7 +1131,7 @@ El árbitro que faltare a la obligación contenida en este artículo, quedará i
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2009)</small>
 
-###### Articulo 105.
+###### Artículo 105.
 
 Siempre que haya de sustituirse un árbitro, se suspenderán los términos durante el tiempo que transcurra para hacer el nuevo nombramiento.
 
@@ -1247,7 +1247,9 @@ Las sanciones aplicables a los especialistas independientes consistirán en:
 
 I. Apercibimiento;
 
-II. Multa de diez a doscientos días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+II. Multa de diez a doscientas veces la Unidad de Medida y Actualización:
 
 III. Suspensión de la autorización para prestar sus servicios al público, de un mes a tres años, y
 
@@ -1297,7 +1299,7 @@ Hasta en tanto entre en vigor el Código Procesal Penal del Estado de Durango, s
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2009)</small>
 
-###### Articulo 120.
+###### Artículo 120.
 
 Contra la resolución que imponga una sanción administrativa a un especialista independiente, no procede recurso alguno.
 
@@ -1343,7 +1345,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 26 DE FEBRERO DE 2009.
 
@@ -1372,3 +1374,15 @@ Se derogan todas las disposiciones legales que se opongan al contenido del prese
 ###### ARTÍCULO TERCERO.
 
 Los procedimientos alternativos que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 68 QUE CONTIENE REFORMA AL ARTÍCULO 115 FRACCIÓN II DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE DURANGO ".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
