@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-113824"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2016-03-03"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial de Estado de Durango, el jueves 3 de marzo de 2016.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 12 de mayo del presente año, los CC. Diputados Juan Cuitláhuac Ávalos Méndez, María Luisa González Achem, José Encarnación Luján Soto, Pablo César Aguilar Palacio y René Rivas Pizarro, integrantes de la LXVI Legislatura, que contiene LEY DE TURISMO DEL ESTADO DE DURANGO, misma que fue turnada a la Comisión de Turismo y Cinematografía integrada por los CC. Diputados: Juan Cuitlahuac Avalos Méndez, Luis Iván Gurrola Vega, José Alfredo Martínez Núñez y Felipe de Jesús Enríquez Herrera; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S…
+C O N S I D E R A N D O S
+
+[…]
 
 Por lo anteriormente expuesto y considerado, la Comisión que dictaminó, estimó que la iniciativa es procedente, con las adecuaciones realizadas a la misma, lo anterior, con fundamento en lo que dispone el artículo 182 último párrafo de la Ley Orgánica del Congreso del Estado de Durango, en virtud de considerar que las mismas, obedecen al mejoramiento de forma y fondo jurídicos.
 
@@ -859,7 +861,9 @@ Las visitas de verificación se realizarán con el representante, apoderado lega
 
 En caso, de que por parte del o los encargados del establecimiento, haya resistencia para la ejecución de las visitas de verificación de la Secretaría, se levantará un acta de apercibimiento para que en un lapso de 72 horas, dicha verificación sea atendida directamente en las oficinas de la Secretaría por parte del representante, apoderado legal o propietario del establecimiento.
 
-En caso de reincidencia, serán sancionados con multa que podrá ir de quinientos hasta mil quinientos días de salario mínimo vigente en el Estado de Durango.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+En caso de reincidencia, serán sancionados con multa que podrá ir de quinientas hasta mil quinientas veces la Unidad de Medida y Actualización.
 
 ###### Artículo 77.
 
@@ -869,21 +873,27 @@ Tratándose de quejas que se deriven del incumplimiento de disposiciones estable
 
 Cuando derivado de una queja presentada por un turista ante la Procuraduría Federal del Consumidor, se detecte el probable incumplimiento de las disposiciones de esta Ley o de las disposiciones que de ella emanen, la Secretaría, podrá iniciar el procedimiento administrativo correspondiente, así como requerir al prestador de servicios turísticos información que estime para esclarecer los hechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### Artículo 78.
 
-Los prestadores que no se inscriban en el Registro Estatal de Turismo en los plazos señalados por esta Ley, serán sancionados con multa que podrá ir de quinientos hasta mil quinientos días de salario mínimo vigente en el Estado de Durango.
+Los prestadores que no se inscriban en el Registro Estatal de Turismo en los plazos señalados por esta Ley, serán sancionados con multa que podrá ir de quinientas hasta mil quinientas veces la Unidad de Medida y Actualización.
 
 En caso de que el prestador de servicios turísticos persista en su conducta, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Estatal de Turismo.
 
 Los prestadores de servicios turísticos que omitan información o proporcionen información inexacta a las autoridades competentes, para su inscripción al Registro Estatal de Turismo, serán requeridos para que en un término de cinco días hábiles proporcione o corrija la información solicitada en el Registro.
 
-En caso de que el prestador de servicios turísticos haga caso omiso del requerimiento, se hará acreedor a una multa que podrá ir de doscientos hasta quinientos días de salario mínimo vigente en el Estado de Durango.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+En caso de que el prestador de servicios turísticos haga caso omiso del requerimiento, se hará acreedor a una multa que podrá ir de doscientas hasta quinientas veces la Unidad de Medida y Actualización.
 
 Si la conducta persiste, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Estatal de Turismo.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### Artículo 79.
 
-Las infracciones a lo establecido en las fracciones I, III y X del artículo 65 de esta ley, se sancionarán con multa de hasta quinientos días de salario mínimo vigente en el Estado.
+Las infracciones a lo establecido en las fracciones I, III y X del artículo 65 de esta ley, se sancionarán con multa de hasta quinientas veces la Unidad de Medida y Actualización.
 
 ###### Artículo 80.
 
@@ -944,3 +954,17 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL ÁNGEL OLVERA ESCALERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 85.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE TURISMO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el en el (sic) Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
