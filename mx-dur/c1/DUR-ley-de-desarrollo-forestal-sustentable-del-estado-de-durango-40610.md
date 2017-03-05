@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-forestal-sustentable-del-estado-de-durango-40
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-13"
-last_updated: "2015-09-20"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de junio de 2004.
 
@@ -1137,11 +1137,17 @@ En el caso de las fracciones III y IV de este artículo, la Secretaría ordenar�
 
 La imposición de las multas a que se refiere el artículo anterior, se determinará en la forma siguiente:
 
-I. Con el equivalente de 40 a 1,000 veces de salario mínimo, a quien incurra en la comisión de las infracciones administrativas previstas en las fracciones V, VI, VIII, XII, XV, XVI, XVIII, XX y XXIV del artículo 92 de esta Ley;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-II. Con el equivalente de 100 a 20,000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII y XXIII del artículo 92 de esta Ley.
+I. Con el equivalente de 40 a 1,000 veces la Unidad de Medida y Actualización, a quien incurra en la comisión de las infracciones administrativas previstas en las fracciones V, VI, VIII, XII, XV, XVI, XVIII, XX y XXIV del artículo 92 de esta Ley;
 
-En términos de lo dispuesto por el artículo 165 de la Ley General, para la imposición de las multas servirá de base el salario mínimo general diario vigente en el Distrito Federal al momento de cometerse la infracción.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+II. Con el equivalente de 100 a 20,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII y XXIII del artículo 92 de esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+En términos de lo dispuesto por el artículo 165 de la Ley General, para la imposición de las multas servirá de base la Unidad de Medida y Actualización vigente al momento de cometerse la infracción.
 
 A los reincidentes se les aplicará el doble de las multas previstas en este artículo, según corresponda.
 
@@ -1264,3 +1270,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 87.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
