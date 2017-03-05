@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "2017-02-26"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -453,9 +453,9 @@ Los Jueces y Magistrados a quienes corresponda recibirán por sí mismos las dec
 
 Los Jueces, Magistrados y Secretarios tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y la consideración debidos, por lo que tomarán de oficio o a petición de parte, todas las medidas necesarias establecidas en la Ley, tendientes a prevenir o a sancionar cualquier acto contrario al respeto debido al Tribunal y al que han de guardarse las partes entre sí, así como las faltas de decoro y probidad, pudiendo requerir el auxilio de la fuerza pública.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
-La violación a lo mandado por este precepto se sancionará de acuerdo con las disposiciones de este Código y, a falta de regulación expresa, mediante la imposición de una multa en favor del Fondo Auxiliar para la Administración de Justicia equivalente a cincuenta días de salario mínimo general vigente en el Estado.
+La violación a lo mandado por este precepto se sancionará de acuerdo con las disposiciones de este Código y, a falta de regulación expresa, mediante la imposición de una multa en favor del Fondo Auxiliar para la Administración de Justicia equivalente a cincuenta veces la Unidad de Medida y Actualización.
 
 Cuando la infracción llegare a tipifcar (sic) un delito, se procederá contra quienes lo cometieren, con arreglo a lo dispuesto en la legislación penal.
 
@@ -543,19 +543,19 @@ Quedan los jueces facultados para investigar de oficio la existencia de las piez
 
 Para obtener copia certificada de cualquier documento que obre en el juicio, se requiere decreto judicial y sólo se expedirá conforme a lo dispuesto por el Artículo 331 de este Código.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 72.
 
-Los tribunales no admitirán nunca recursos o incidentes ajenos al negocio principal, notoriamente frívolos o improcedentes. Los desecharán de plano sin necesidad de mandarlos hacer saber a la otra parte, ni formar artículo; e impondrán una multa equivalente a cien días de salario mínimo vigente en el Estado, en favor del Fondo Auxiliar para la Administración de Justicia, tanto al actor o a sus representantes legítimos, y al Licenciado en Derecho que los asesore.
+Los tribunales no admitirán nunca recursos o incidentes ajenos al negocio principal, notoriamente frívolos o improcedentes. Los desecharán de plano sin necesidad de mandarlos hacer saber a la otra parte, ni formar artículo; e impondrán una multa equivalente a cien veces la Unidad de Medida y Actualización, en favor del Fondo Auxiliar para la Administración de Justicia, tanto al actor o a sus representantes legítimos, y al Licenciado en Derecho que los asesore.
 
 ###### ARTICULO 73.
 
 Los jueces, para hacer cumplir sus determinaciones pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-I.- La multa por cincuenta días de salario mínimo general vigente en el Estado, la que podrá duplicarse en caso de reincidencia;
+I.- La multa por cincuenta veces la Unidad de Medida y Actualización, la que podrá duplicarse en caso de reincidencia.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -865,9 +865,9 @@ Si después que el notificador se hubiere cerciorado de que la persona por notif
 
 Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios y en la habitación no se pudiere, conforme al Artículo anterior, hacer la notificación, se podrá hacer en el lugar en donde se encuentre.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
-En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere. Si ésta no supiere o no pudiere firmar, lo hará a su ruego un testigo. Si no quiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo bajo pena de multa por la cantidad equivalente a veinte días de salario mínimo vigente en el Estado.
+En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere. Si ésta no supiere o no pudiere firmar, lo hará a su ruego un testigo. Si no quiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo bajo pena de multa por la cantidad equivalente a veinte veces la Unidad de Medida y Actualización.
 
 En caso de ocultamiento del demandado, a petición del actor y previa comprobación de este hecho, el emplazamiento podrá practicarse por edictos en los términos previstos por este Código.
 
@@ -1293,11 +1293,11 @@ Recibidos los autos y el testimonio por el Tribunal que debe decidir la competen
 
 Decidida la competencia el tribunal la comunicará a los jueces contendientes y, en su caso, ordenará al juez del conocimiento que remita los autos originales al juez declarado competente. De la resolución dictada por el tribunal no se da más recurso que el de responsabilidad.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 167.
 
-Cuando no procede la inhibitoria debe pagar las costas el que la promovió y una multa equivalente a cien días de salario mínimo general vigente en el Estado, en beneficio del Fondo Auxiliar para la Administración de Justicia.
+Cuando no procede la inhibitoria debe pagar las costas el que la promovió y una multa equivalente a cien veces la Unidad de Medida y Actualización, en beneficio del Fondo Auxiliar para la Administración de Justicia.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
 
@@ -1479,11 +1479,11 @@ En el incidente de recusación son admisibles todos los medios de prueba estable
 
 Los magistrados y jueces que conozcan de una recusación son irrecusables para solo este efecto.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 189.
 
-Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta el equivalente a cincuenta días de salario mínimo general vigente en el Estado, en beneficio del Fondo Auxiliar para la Administración de Justicia. Además esta circunstancia se anotará en el Registro Judicial para acumularse según lo previsto por el Artículo 61 de este Código.
+Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta el equivalente a cincuenta veces la Unidad de Medida y Actualización, en beneficio del Fondo Auxiliar para la Administración de Justicia. Además esta circunstancia se anotará en el Registro Judicial para acumularse según lo previsto por el Artículo 61 de este Código.
 
 ###### ARTICULO 190.
 
@@ -1949,11 +1949,11 @@ Si entre las excepciones opuestas estuviere la de incompetencia por declinatoria
 
 La declinatoria de jurisdicción se propondrá ante el juez, pidiéndole que se abstenga del conocimiento del negocio. El juez tramitará la excepción en forma de incidente en los términos del Artículo 88 de este Código. Si estima que no es competente remitirá los autos al considerado competente. Y en este caso, la demanda y la contestación se tendrá como presentadas ante éste, y se declarará nulo todo lo actuado ante el juez incompetente en los términos del Artículo 154. En los casos en que se afecten los derechos de familia, será imprescindible oír al Ministerio Público.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 263.
 
-En el caso de que se declare infundada e improcedente la declinatoria o el promovente se desista de ella, deberá pagar las costas causadas y se le impondrá una multa equivalente a cincuenta días de salario mínimo general vigente en el Estado, en favor del Fondo auxiliar para la Administración de Justicia.
+En el caso de que se declare infundada e improcedente la declinatoria o el promovente se desista de ella, deberá pagar las costas causadas y se le impondrá una multa equivalente a cincuenta veces la Unidad de Medida y Actualización, en favor del Fondo auxiliar para la Administración de Justicia.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
@@ -2585,11 +2585,11 @@ El perito que nombre el juez puede ser recusado dentro de las cuarenta y ocho ho
 
 El juez calificará de plano la recusación y las partes deben presentar las pruebas al hacerla valer. Contra el auto en que se admita o deseche la recusación no procede recurso alguno. Admitida se nombrará nuevo perito en los mismos términos que al recusado.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 352.
 
-En caso de ser desechada la recusación se impondrá al recusante una multa equivalente a cincuenta días de salario mínimo vigente en el Estado, en favor del Fondo Auxiliar para la Administración de Justicia.
+En caso de ser desechada la recusación se impondrá al recusante una multa equivalente a cincuenta veces la Unidad de Medida y Actualización, en favor del Fondo Auxiliar para la Administración de Justicia.
 
 ###### ARTICULO 353.
 
@@ -2623,11 +2623,13 @@ Prueba testimonial.
 
 Todos los que tengan conocimiento de los hechos que las partes deben de probar, están obligados a declarar como testigos.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 357.
 
-Las partes tendrán obligación de presentar sus propios testigos, para cuyo efecto se les entregarán las cédulas de notificación. Sin embargo, cuando realmente estuvieren imposibilitados para hacerlo, lo manifestarán así bajo protesta de decir verdad y pedirán que se les cite. El juez ordenará la citación con apercibimiento de arresto hasta por quince días o multa en favor del Fondo Auxiliar para la Administración de Justicia, equivalente a cincuenta días de salario mínimo general vigente en el Estado, que se aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+Las partes tendrán obligación de presentar sus propios testigos, para cuyo efecto se les entregaran las cédulas de notificación. Sin embargo, cuando realmente estuvieren imposibilitados para hacerlo, lo manifestarán así bajo protesta de decir verdad y pedirán que se les cite. El juez ordenará la citación con apercibimiento de arresto hasta por quince días o multa en favor del Fondo Auxiliar para la Administración de Justicia, equivalente a cincuenta veces la Unidad de Medida y Actualización, que se aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
 
 En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá, al promovente una multa en favor del Fondo Auxiliar para la Administración de Justicia equivalente a cien días de salario mínimo general vigente en el Estado, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, debiendo declararse desierta la prueba testimonial.
 
@@ -2813,9 +2815,9 @@ Durante la audiencia no se puede redargiiir (sic) de falsos ni desconocer docume
 
 Los peritos dictaminarán por escrito u oralmente en presencia de las partes y del tercero en discordia si lo hubiere. Tanto las partes como el tercero y el Juez pueden formular observaciones y hacer preguntas pertinentes durante la audiencia, en la cual se rendirá la prueba, y el tercero dirá su parecer.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
-Los peritos citados oportunamente serán sancionados, en caso de que no concurran, con una multa equivalente a cincuenta días de salario mínimo general vigente en el Estado, en favor del Fondo Auxiliar para la Administración de Justicia.
+Los peritos citados oportunamente serán sancionados, en caso de que no concurran, con una multa equivalente a cincuenta veces la Unidad de Medida y Actualización, en favor del Fondo Auxiliar para la Administración de Justicia.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
 
@@ -3011,17 +3013,15 @@ De los alegatos en el procedimiento escrito.
 
 De la sentencia ejecutoriada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 426.
 
-Hay cosa juzgada cuando la sentencia causa ejecutoria.
+Hay cosa juzgada cuando la sentencia causa ejecutoria. Causan ejecutoria por ministerio de ley:
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-CAUSA EJECUTORIA POR MINISTERIO DE LEY:
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 1988)</small>
-
-I.- Las sentencias pronunciadas en juicio cuyo interés no pase de 50 veces el salario mínimo diario general vigente en el Estado, a excepción de las dictadas en las controversias en materia de arrendamiento de fincas urbanas destinadas a habitación;
+I.- Las sentencias pronunciadas en juicio cuyo interés no pase de 50 veces la Unidad de Medida y Actualización, a excepción de las dictadas en las controversias en materia de arrendamiento de fincas urbanas destinadas a habitación.
 
 II.- Las sentencias de segunda instancia;
 
@@ -3919,11 +3919,11 @@ III.- Para nombrar a su costa un perito que con los nombrados por el ejecutante 
 
 El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos valuadores no habrá necesidad de nombrar tercero en discordia.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 559.
 
-Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por medio de Edictos que se fijarán por dos veces en los tableros de avisos del juzgado y en los de la Tesorería Municipal correspondiente, debiendo mediar entre una y otra publicación siete días hábiles y, entre la última y la fecha del remate, igual plazo. Si el valor de la cosa pasare del equivalente a cien días de salario mínimo general vigente en el Estado, se insertarán además los Edictos en un periódico de información. A petición de cualquiera de las partes y a su costa el Juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
+Hecho el avalúo, se sacarán los bienes a pública subasta, anunciándose por medio de Edictos que se fijarán por dos veces en los tableros de avisos del juzgado y en los de la Tesorería Municipal correspondiente, debiendo mediar entre una y otra publicación siete días hábiles y, entre la última y la fecha del remate, igual plazo. Si el valor de la cosa pasare del equivalente a cien veces la Unidad de Medida y Actualización, se insertarán además los Edictos en un periódico de información. A petición de cualquiera de las partes y a su costa, el Juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
 
@@ -4883,11 +4883,11 @@ Se da el recurso de queja en contra de los actuarios y secretarios por ante el j
 
 El recurso de queja contra el juez se interpondrá ante el Supremo Tribunal de Justicia dentro de los tres días siguientes al acto reclamado haciéndolo saber dentro del mismo tiempo al juez contra quien va el recurso, acompañándole copia. El Juez de los autos remitirá al Superior su informe con justificación dentro del tercero día y éste dentro de igual término decidirá lo que corresponda.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 715.
 
-Si la queja no está apoyada por hecho cierto o no estuviere fundada en Derecho o hubiere recurso ordinario de la resolución reclamada, será desechada por el Tribunal, imponiendo a la parte quejosa y a su abogado solidariamente, una multa que no exceda del equivalente a cincuenta días de salario mínino vigente en el Estado.
+Si la queja no está apoyada por hecho cierto o no estuviere fundada en Derecho o hubiere recurso ordinario de la resolución reclamada, será desechada por el Tribunal, imponiendo a la parte quejosa y a su abogado solidariamente, una multa que no exceda del equivalente a cincuenta veces la Unidad de Medida y Actualización.
 
 ###### ARTICULO 716.
 
@@ -5017,11 +5017,11 @@ La junta de rectificación y graduación será presidida por el juez procediénd
 
 En el informe deberá también clasificar los créditos de acuerdo con sus privilegios según el Código Civil.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 735.
 
-Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios y será removido de plano imponiéndole además una multa de cincuenta días de salario mínimo vigente en el Estado en favor del Fondo Auxiliar para la Administración de Justicia.
+Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios y será removido de plano, imponiéndole además una multa de cincuenta veces la Unidad de Medida y Actualización, en favor del Fondo Auxiliar para la Administración de Justicia.
 
 ###### ARTICULO 736.
 
@@ -5705,11 +5705,11 @@ Si no hubiere mayoría el juez nombrará partidor eligiéndolo entre los propues
 
 El cónyuge aunque no tenga el carácter de heredero será tenido como parte si entre los bienes hereditarios, hubiere bienes de la sociedad conyugal.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 850.
 
-El juez pondrá a disposición del partidor los autos y bajo inventario los papeles y documentos relativos al caudal para que proceda a la partición señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo y de multa de veinte días de salario mínimo vigente en el Estado.
+El juez pondrá a disposición del partidor los autos y bajo inventario los papeles y documentos relativos al caudal para que proceda a la partición señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo y de multa de veinte veces la Unidad de Medida y Actualización.
 
 ###### ARTICULO 851.
 
@@ -6441,13 +6441,11 @@ Las citas deberán hacerse por duplicado agregándose un tanto al expediente res
 
 La persona que entregue la cita recogerá en una libreta especial, recibo de ella, el cual si no supiere o no pudiere firmar la persona que debiera hacerlo, será firmado por alguna otra presente, en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 942.
 
-En los casos a que se refiere el artículo 938, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o no pudiere firmar, lo hará a su ruego un testigo, si no quisiera firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de veinte días de salario mínimo vigente en el Estado.
-
-En la libreta se asentará razón de lo ocurrido.
+En los casos a que se refiere el artículo 938, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o no pudiere firmar, lo hará a su ruego un testigo, si no quisiera firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de veinte veces la Unidad de Medida y Actualización.
 
 ###### ARTICULO 943.
 
@@ -6465,11 +6463,11 @@ El que se presente como actor o como reo usando el nombre de otro para haerse (s
 
 EL JUICIO.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 945.
 
-Si al anunciarse el despacho del negocio no estuviere presente el actor y si el demandado, se impondrá a aquél una multa equivalente a treinta días de salario mínimo vigente en el Estado, que se aplicará al reo por vía de indemnización y sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
+Si al anunciarse el despacho del negocio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa equivalente hasta de treinta veces la Unidad de Medida y Actualización, que se aplicará al reo por vía de indemnización y sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
 
 ###### ARTICULO 946.
 
@@ -6705,11 +6703,11 @@ El Juez y las partes podrán interrogar a los testigos con relación a los hecho
 
 La audiencia se verificará dentro de los treinta días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial deberá ser proveída dentro del término de tres días.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 980.
 
-Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al actuario del juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos así mismo para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas, de no comparecer el testigo o el perito sin causa justificada; y al promovente de la prueba, de imponerle una multa en favor del Fondo Auxiliar para la Administración de Justicia, hasta por el equivalente de cincuenta días de salario mínimo vigente en el Estado, en caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al actuario del juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos así mismo para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas, de no comparecer el testigo o el perito sin causa justificada; y al promovente de la prueba, de imponerle una multa en favor del Fondo Auxiliar para la Administración de Justicia, hasta por el equivalente de cincuenta veces la Unidad de Medida y Actualización, en caso de que el señalamiento de domicilio resulte inexacto o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1980)</small>
 
@@ -7044,3 +7042,15 @@ P.O. 26 DE FEBRERO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 70.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
