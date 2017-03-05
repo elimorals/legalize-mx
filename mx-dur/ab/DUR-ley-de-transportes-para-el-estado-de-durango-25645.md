@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transportes-para-el-estado-de-durango-25645"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-13"
-last_updated: "2010-12-12"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 13 de junio de 2002.
 
@@ -1307,17 +1307,21 @@ XX. Conducir vehículos del servicio público, cuyos niveles de emisión de cont
 
 XXI. Las análogas a juicio de la Dirección.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 128.
 
-En los casos a que se refieren las fracciones I, II, III, IV, V, VI, XVIII XX y XXI del artículo anterior, se aplicará multa de entre 5 a 100 días de salario mínimo vigente en la entidad y se suspenderá la prestación del servicio.
+En los casos a que se refieren las fracciones I, II, III, IV, V, VI, XVIII, XX y XXI del artículo anterior, se aplicará multa de entre 5 a 100 veces la Unidad de Medida y Actualización y se suspenderá la prestación del servicio.
 
-Por lo que respecta a las fracciones XIII y XVI del artículo anterior, se aplicará multa de 5 a 50 días de salario mínimo vigente en la entidad y se suspenderá la prestación del servicio.
+Por lo que respecta a las fracciones XIII y XVI del artículo anterior, se aplicará multa de 5 a 50 veces la Unidad de Medida y Actualización y se suspenderá la prestación del servicio.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 129.
 
-Los supuestos previstos en las fracciones VIII, IX, X, XI, XII, XIV, XVII y XIX del artículo 127 de esta ley, serán sancionados con multas de 5 a 24 días de salario mínimo vigente en el Estado.
+Los supuestos previstos en las fracciones VIII, IX, X, XI, XII, XIV, XVII y XIX del artículo 127 de esta ley, serán sancionados con multas de 5 a 24 veces la Unidad de Medida y Actualización.
 
-En relación a las sanciones establecidas en las fracciones VII y XV del artículo 127 de esta ley, se impondrá multa de 5 a12 (sic) días de salario mínimo vigente en el Estado.
+En relación a las sanciones establecidas en las fracciones VII y XV del artículo 127 de esta ley, se impondrá multa de 5 a12 (sic) veces la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 130.
 
@@ -1542,3 +1546,15 @@ SEGUNDO. El presente decreto solo será aplicable en la zona urbana de la Ciudad
 TERCERO. El Titular del Poder Ejecutivo del Estado, estará obligado a efectuar la difusión de los programas, así como de los operativos de credencialización para dar las facilidades necesarias a los estudiantes, personas con discapacidad y adultos mayores, para que obtengan su credencial única de transporte público de manera gratuita y con la debida anticipación, asimismo deberá implementar los programas de regularización a todos aquellos usuarios que no lo hayan realizado en tiempo, para reposición por perdida o extravío.
 
 CUARTO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 84.- POR EL QUE SE REFORMAN LOS ARTICULOS 128 y 129 DE LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
