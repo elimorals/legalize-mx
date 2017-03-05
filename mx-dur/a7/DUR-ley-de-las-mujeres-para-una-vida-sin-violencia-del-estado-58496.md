@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2015-03-05"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -33,15 +33,15 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 28 de noviembre del presente año, los Ciudadanos Diputados integrantes del Grupo Parlamentario del Partido Revolucionario Institucional, presentaron a esta H. LXIV Legislatura del Estado, Iniciativa de Decreto que contiene LEY DE ACCESO DE LAS MUJERES DURANGUENSES A UNA VIDA LIBRE DE VIOLENCIA, misma que fue turnada a la Comisión de Equidad y Género, integrada por los CC. Diputados: Juan José Cruz Martínez, Gabina Gutiérrez Espino, Sonia Catalina Mercado Gallegos, Maribel Aguilera Cháirez y Alma Marina Vitela Rodríguez, Presidente, Secretaria y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-CONSIDERANDOS...
+CONSIDERANDOS
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
 DECRETO No. 68
 
 LA HONORABLE SEXAGÉSIMA CUARTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, DECRETA:
-
-> <small>N. DE E. EL DECRETO NÚMERO 317, EXPEDIDO POR LA SEXAGÉSIMA SEXTA LEGISLATURA, PUBLICADO EN EL P.O. DE 5 DE MARZO DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA
 
@@ -167,9 +167,15 @@ VI. Violencia Sexual: Todo acto que atente contra la libertad, integridad y segu
 
 VII. Hostigamiento: Ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas;
 
-VIII. Acoso Sexual: Forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-IX. Cualquier otra acción, conducta u omisión que provoque violencia en cualquiera de sus formas contra las mujeres.
+VIII. Acoso Sexual: Forma de violencia en la que, sin (sic) bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2017)</small>
+
+IX. Violencia Política.- Es el acto u omisión que constituye violencia física, psicológica o sexual cometida por los sujetos a que hace mención el artículo 442 de la Ley General de Instituciones y Procedimientos Electorales, en forma individual o colectivamente, por si o a través de terceros, en contra de una o varias mujeres o de sus familias, antes, durante o después de las precampañas y campañas políticas; al momento de ser electas; en ejercicio de la función o representación pública; con la finalidad de limitar, suspender, impedir o restringir el ejercicio de su cargo o para inducirla u obligarla a que realice, en contra de su voluntad, una acción o incurra en una omisión, en el cumplimiento de sus funciones o en el ejercicio de sus derechos; y
+
+X. Cualquier otra acción, conducta u omisión que provoque violencia en cualquiera de sus formas contra las mujeres.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -183,9 +189,15 @@ II. En la Comunidad;
 
 III. Laboral;
 
-IV. Escolar; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-V. Institucional
+IV. Escolar;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2017)</small>
+
+V. Público, e
+
+VI. Institucional
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -213,6 +225,34 @@ La violencia contra las mujeres en el ámbito laboral, son todos los actos u omi
 
 Constituye violencia en contra de las mujeres en el ámbito escolar todas aquellas acciones u omisiones que dañen la autoestima de las alumnas con actos de discriminación por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, su situación académica, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos, realizada por alumnos, docentes, personal directivo o administrativo de la institución académica.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+
+###### Artículo 11 Bis.
+
+Constituye violencia en contra de las mujeres en el ámbito público todas aquellas acciones u omisiones que impidan a las mujeres el efectivo ejercicio de sus derechos políticos electorales, en sus vertientes de su derecho a votar y ser votadas y el ejercicio de la función o cargo público para el que fueron electas o designadas.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+
+###### Artículo 11 Ter.
+
+Son actos de violencia política hacia las mujeres:
+
+a) Limitar sin justificación el ejercicio de sus derechos para contender en los procesos internos de sus institutos políticos, con la finalidad de que no logren acceder a una candidatura, o en los procesos interpartidarios para ocupar un cargo o cartera dentro de su instituto político;
+
+b) Proporcionar información incompleta, falsa o errónea de datos personales de las mujeres candidatas a cargo de elección popular, al Instituto Electoral y de Participación Ciudadana del Estado de Durango o de los Consejos Municipales del propio Instituto, con la finalidad de impedir el registro o anular sus candidaturas;
+
+c) Limitar, retener o retrasar, sin justificación, la entrega de recursos para el financiamiento de las campañas electorales;
+
+d) Coartar o impedir las facultades inherentes en la Constitución y los ordenamientos jurídicos, para proteger sus derechos frente a los actos que violenten o eviten el ejercicio de su representación política;
+
+e) Impedir o restringir el ejercicio de sus derechos político-electorales, mediante la aplicación de sanciones sin motivación o fundamentación, contraviniendo las formalidades esenciales del procedimiento, sin respetar la presunción de inocencia ni el derecho humano al debido proceso legal;
+
+f) Publicar o revelar información personal, privada o falsa, con el objetivo de difamar o menoscabar su dignidad humana, con la finalidad de obtener con o sin su consentimiento, la remoción, renuncia o licencia al cargo electo o en ejercicio;
+
+g) Proporcionar u ocultar, mediante el engaño, información que induzca al ejercicio ilícito de sus funciones de representación política; y
+
+h) Obligar, intimidar o amenazar a suscribir documentos, a colaborar en proyectos o adoptar decisiones en contra de su voluntad o del interés público, en función de su representación política.
+
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### Artículo 12.
@@ -237,9 +277,17 @@ Las medidas de protección que consagra la presente Ley son personales e intrans
 
 I. De emergencia;
 
-II. Preventivas; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-III. De naturaleza civil.
+II. Preventivas;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+III. De naturaleza civil; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2017)</small>
+
+IV. De naturaleza político-electoral.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -303,11 +351,23 @@ IV. De posesión exclusiva de la víctima sobre el inmueble que sirvió de domic
 
 V. De cumplimiento de la obligación alimentaria provisional e inmediata, que serán tramitadas ante los juzgados de lo familiar o mixtos del Estado.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+
+###### Artículo 18 Bis.
+
+Son medidas de protección de naturaleza político-electoral, las siguientes:
+
+I. Que obliguen al agresor a la entrega inmediata de documentos de identidad o que acrediten su estatus de aspirante, precandidata y candidata a un cargo de elección popular; así como de electa o designada para un cargo de elección popular; así como de electa o designada para un cargo público;
+
+II. Que obliguen al agresor a la entrega de los recursos para el financiamiento de las campañas electorales; y
+
+III. Que permitan su ingreso y permanencia en el domicilio donde deberá rendir protesta al cargo de elección popular o de designación, así como al lugar donde deberá desempeñar la función pública.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 19.
 
-Corresponde a las autoridades jurisdiccionales competentes, en su caso, valorar la determinación de medidas similares en sus resoluciones o sentencias. Lo anterior, con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales de la materia.
+Corresponde a las autoridades jurisdiccionales competentes, en su caso, valorar la de (sic) determinación de las medidas similares en sus resoluciones o sentencias. Lo anterior, con motivo de los juicios o procesos que, en materia civil, familiar, penal o electoral, se estén ventilando en los tribunales de la materia.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1112,3 +1172,11 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 ###### ARTÍCULO TERCERO.
 
 El reglamento de esta Ley deberá modificarse en los términos del presente dictamen dentro de los 180 días siguientes a la entrada en vigor del mismo.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 86.- POR EL QUE SE ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA".]
+
+PRIMERO. El presente decreto entrara en vigor al día hábil siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
