@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-aranceles-de-los-licenciados-en-derecho-arbitros-4731"
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-23"
-last_updated: "2008-06-29"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE ARANCELES DE LOS LICENCIADOS EN DERECHO, ARBITROS, DEPOSITARIOS, INTERPRETES, TRADUCTORES Y PERITOS EN ASUNTOS JURIDICOS DE CUALQUIER NATURALEZA EN EL ESTADO DE DURANGO
 
-LEY DE ARANCELES DE LOS LICENCIADOS EN DERECHO, ARBITROS, DEPOSITARIOS, INTERPRETES, TRADUCTORES Y PERITOS EN ASUNTOS JURIDICOS DE CUALQUIER NATURALEZA EN EL ESTADO DE DURANGO
+LEY DE ARANCELES DE LOS LICENCIADOS EN DERECHO, ÁRBITROS, DEPOSITARIOS, INTÉRPRETES, TRADUCTORES Y PERITOS EN ASUNTOS JURÍDICOS DE CUALQUIER NATURALEZA EN EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de junio de 1988.
 
@@ -89,19 +89,29 @@ Los Licenciados en Derecho que intervengan en causa propia, cobrará las costas 
 
 Los Licenciados en Derecho, cobrarán a quienes presten sus servicios, lo señalado en el contrato y a falta de éste:
 
-I.- Por vista o lectura de documentos de cualquier clase en su despacho, hasta diez fojas, la cantidad equivalente a tres punto setenta días de salario mínimo general. Si excediesen de diez fojas, el 10% de la cantidad anterior, por cada hoja de exceso.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+I.- Por vista o lectura de documentos de cualquier clase en su despacho, hasta diez fojas, la cantidad equivalente a tres punto setenta veces la Unidad de Medida y Actualización. Si excediesen de diez fojas, el 10% de la cantidad anterior, por cada hoja de exceso.
 
 Si la vista o lectura de documentos se efectúa fuera del despacho del profesionista, se cobrará el doble de las cuotas a que se refiere el párrafo anterior.
 
-II.- Por cada consulta o conferencia verbal en su despacho o en cualquier otra parte dentro del perímetro de la ciudad, el equivalente a tres punto setenta días de salario mínimo general por cada media hora o fracción.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-III.- Por cada consulta que requiera contestación por escrito, se cobrará lo equivalente de cinco a setenta y cinco días de salario mínimo general, según la importancia, dificultades técnicas y extensión del escrito.
+II.- Por cada consulta o conferencia verbal en su despacho o en cualquier otra parte dentro del perímetro de la ciudad, el equivalente a tres punto setenta veces la Unidad de Medida y Actualización por cada media hora o fracción.
 
-IV.- Por intervenir en audiencias, juntas o cualquier otra diligencia de carácter jurídico, ante cualquier funcionario o autoridad, el equivalente a tres punto setenta días de salario mínimo general por cada media hora o fracción.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+III.- Por cada consulta que requiera contestación por escrito, se cobrará lo equivalente de cinco a setenta y cinco veces la Unidad de Medida y Actualización, según la importancia, dificultades técnicas y extensión del escrito.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+IV.- Por intervenir en audiencias, juntas o cualquier otra diligencia de carácter jurídico, ante cualquier funcionario o autoridad, el equivalente a tres punto setenta veces la Unidad de Medida y Actualización por cada media hora o fracción.
 
 V.- Si mediante la intervención del Licenciado en Derecho se resuelve el negocio en forma extra-judicial, cobrará las cuotas fijadas en los artículos 11, 12, 13, 14 y 15 de esta Ley. Tomando en cuenta el resultado obtenido para el cliente; en el entendido de que sólo se pagarán en este caso las cuotas fijadas para el escrito de demanda.
 
-VI.- Por cada escrito de cualquier clase, se cobrará el equivalente hasta tres punto setenta días de salario mínimo general, tomando en cuenta su extensión e importancia.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+VI.- Por cada escrito de cualquier clase, se cobrará el equivalente hasta tres punto setenta veces la Unidad de Medida y Actualización, tomando en cuenta su extensión e importancia.
 
 ###### ARTICULO 11o.
 
@@ -163,9 +173,11 @@ III.- Por el escrito de alegatos o conclusiones, el 0.75% del importe de las pre
 
 IV.- Por el escrito de expresión de agravios o contestación de los mismos, el 0.75% del importe de las prestaciones reclamadas.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 16o.
 
-En cualquier negocio de cuantía no determinada, se cobrará la cantidad equivalente de tres punto setenta a setenta y cinco días de salario mínimo general, atendiendo la importancia y a las dificultades técnicas del negocio, según el prudente arbitrio del Juez.
+En cualquier negocio de cuantía no determinada, se cobrará la cantidad equivalente de tres punto setenta a setenta y cinco veces la Unidad de Medida y Actualización, atendiendo la importancia y a las dificultades técnicas del negocio, según el prudente arbitrio del Juez.
 
 ###### ARTICULO 17o.
 
@@ -207,17 +219,29 @@ En los juicios de tercería se cobrará los honorarios establecidos en los artí
 
 Los Licenciados en Derecho que intervengan como defensores o por parte de los denunciantes o querellantes en causas criminales, cobrarán, además de los honorarios señalados en el artículo 10 de esta Ley, lo siguiente:
 
-I.- Por solicitar y obtener la libertad bajo caución, se cobrará la cantidad equivalente de tres punto setenta a veintitrés días de salario mínimo general, según la gravedad del delito.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-II.- Por solicitar y obtener la libertad por desvanecimiento de datos, la cantidad equivalente de siete punto cinco a cuarenta y cinco días de salario mínimo general, según la gravedad del delito.
+I.- Por solicitar y obtener la libertad bajo caución, se cobrará la cantidad equivalente de tres punto setenta a veintitrés veces la Unidad de Medida y Actualización, según la gravedad del delito.
 
-III.- Por solicitar y obtener la libertad preparatoria o por obtener la libertad por indulto necesario o por gracia cobrará la cantidad equivalente de tres punto setenta a veintitrés días de salario mínimo general, según la gravedad del delito.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-IV.- Por la defensa general de proceso en Primera Instancia, cobrará la cantidad equivalente de quince a ciento cincuenta días de salario mínimo general, según la gravedad del delito.
+II.- Por solicitar y obtener la libertad por desvanecimiento de datos, la cantidad equivalente de siete punto cinco a cuarenta y cinco veces la Unidad de Medida y Actualización, según la gravedad del delito.
 
-V.- Por la defensa ante los Jueces Municipales o Auxiliares, cobrará la cantidad equivalente de tres a doce días de salario mínimo general, según la gravedad del delito.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-VI.- Por la defensa del proceso en Segunda Instancia, cobrará la cantidad equivalente de once hasta cuarenta y cinco días de salario mínimo general, según la gravedad del delito.
+III.- Por solicitar y obtener la libertad preparatoria o por obtener la libertad por indulto necesario o por gracia cobrará la cantidad equivalente de tres punto setenta a veintitrés veces la Unidad de Medida y Actualización, según la gravedad del delito.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+IV.- Por la defensa general de proceso en Primera Instancia, cobrará la cantidad equivalente de quince a ciento cincuenta veces la Unidad de Medida y Actualización, según la gravedad del delito.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+V.- Por la defensa ante los Jueces Municipales o Auxiliares, cobrará la cantidad equivalente de tres a doce veces la Unidad de Medida y Actualización, según la gravedad del delito.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+VI.- Por la defensa del proceso en Segunda Instancia, cobrará la cantidad equivalente de once hasta cuarenta y cinco veces la Unidad de Medida y Actualización, según la gravedad del delito.
 
 ###### ARTICULO 23o.
 
@@ -227,9 +251,11 @@ Esta Ley es también aplicable en lo conducente a los negocios administrativos n
 
 Por la celebración de cualquier convenio extra-judicial de cuantía determinada, se cobrarán las cuotas previstas en el artículo 10o., fracción V, y si es de cuantía indeterminada, la cuota a que se refiere el Artículo 16o. de esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 25o.
 
-Cuando el Licenciado en Derecho salga del lugar de su residencia, devengará diariamente además de los honorarios que señalan las disposiciones de esta Ley, la cantidad equivalente a siete punto cinco días de salario mínimo general desde el día de su salida hasta el día de su regreso, inclusive, considerándose completos los días aún cuando no lo fueren, más los gastos de transporte, hospedaje, alimentación y estancia del Licenciado en Derecho que serán a cargo del cliente.
+Cuando el Licenciado en Derecho salga del lugar de su residencia, devengará diariamente además de los honorarios que señalan las disposiciones de esta Ley, la cantidad equivalente a siete punto cinco veces la Unidad de Medida y Actualización desde el día de su salida hasta el día de su regreso, inclusive, considerándose completos los días aún cuando no lo fueren, más los gastos de transporte, hospedaje, alimentación y estancia del Licenciado en Derecho que serán a cargo del cliente.
 
 ###### ARTICULO 26o.
 
@@ -275,9 +301,13 @@ Cuando el secuestro recaiga sobre créditos, el depositario cobrará los honorar
 
 Los Intérpretes y Traductores cobrarán:
 
-I.- Por asistencia ante las Autoridades Judiciales para traducir declaraciones en idioma extranjero, cobrarán la cantidad equivalente a cinco días de salario mínimo general por cada hora o fracción.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-II.- Por traducción de cualquier documento, la cantidad equivalente a un día de salario mínimo general por cuartilla.
+I.- Por asistencia ante las Autoridades Judiciales para traducir declaraciones en idioma extranjero, cobrarán la cantidad equivalente a cinco veces la Unidad de Medida y Actualización por cada hora o fracción.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+II.- Por traducción de cualquier documento, la cantidad equivalente a una vez la Unidad de Medida y Actualización por cuartilla.
 
 ### CAPITULO IV. DE LOS PERITOS
 
@@ -333,7 +363,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los once
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JOSÉ RAMÍREZ GAMERO.-Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. GUSTAVO RIVERA RAMOS.-Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 29 DE JUNIO DE 2008.
 
@@ -344,3 +374,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE ARANCELES DE LOS LICENCIADOS EN DERECHO, ÁRBITROS, DEPOSITARIOS, INTÉRPRETES, TRADUCTORES Y PERITOS EN ASUNTOS JURÍDICOS DE CUALQUIER NATURALEZA EN EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el en el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
