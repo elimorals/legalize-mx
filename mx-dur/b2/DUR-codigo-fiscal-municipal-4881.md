@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-municipal-4881"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-03-20"
-last_updated: "2007-12-30"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 20 de marzo de 1988.
 
@@ -59,7 +59,9 @@ DISPOSICIONES GENERALES.
 
 La hacienda pública de los Municipios del Estado de Durango se integra con los impuestos, derechos, productos, aprovechamientos y participaciones que anualmente establece la Ley de Ingresos de los Municipios del Estado, los cuales se regularán conforme a las disposiciones de la misma, por esta Ley y por el derecho común aplicado en forma supletoria.
 
-ARTlCULO 2o.- Impuestos son las contribuciones establecidas en la Ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho prevista por la misma.
+###### ARTICULO 2o.
+
+Impuestos son las contribuciones establecidas en la Ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho prevista por la misma.
 
 ###### ARTICULO 3o
 
@@ -293,7 +295,7 @@ VI.- Autorizar la matanza de ganado, aves y otras especies, fuera de los rastros
 
 VII.- Otorgar las licencias de funcionamiento de giros;
 
-VIII.- Acordar la revocación de Iicencias de funcionamiento de giros, de conformidad al procedimiento que se establece en la presente Ley; y (sic)
+VIII.- Acordar la revocación de licencias de funcionamiento de giros, de conformidad al procedimiento que se establece en la presente Ley; y
 
 > <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1988)</small>
 
@@ -343,7 +345,9 @@ d).- Se recabe de los Servidores Públicos y de los Fedatarios, los informes y d
 
 e).- Emplear cualquiera de los siguientes medios de apremio, que juzguen eficaces, para hacer cumplir sus determinaciones:
 
-1). La multa de 1 a 16 días de salario mínimo vigente que se duplicará en caso de reincidencia;
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+1). La multa de 1 a 16 veces la Unidad de Medida y Actualización, que se duplicará en caso de reincidencia;
 
 2). El auxilio de la fuerza pública; y
 
@@ -615,11 +619,15 @@ El pago de los créditos fiscales deberá hacerse en efectivo y en moneda nacion
 
 Los giros postales, telegráficos y los cheques certificados se admitirán como efectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 53o.
 
-Solamente por acuerdo expreso del Ayuntamiento podrá autorizarse la prórroga para el pago de los créditos fiscales municipales, equivalentes a diez veces el salario mínimo diario o para que los mismos sean cubiertos en parcialidades.
+Solamente por acuerdo expreso del Ayuntamiento podrá autorizarse la prórroga para el pago de los créditos fiscales municipales, equivalentes a diez veces la Unidad de Medida y Actualización o para que los mismos sean cubiertos en parcialidades.
 
-La prórroga o el plazo dentro del cual deben pagarse las parcialidades, no excederá de un año. Las prórrogas por el pago de créditos municipales menores de diez veces el salario mínimo diario, serán autorizados por el C. Presidente Municipal o por el Tesorero Municipal, no pudiendo exceder de un año.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+La prórroga o el plazo dentro del cual deben pagarse las parcialidades, no excederá de un año. Las prórrogas por el pago de créditos municipales menores de diez veces la Unidad de Medida y Actualización, serán autorizados por el C. Presidente Municipal o por el Tesorero Municipal, no pudiendo exceder de un año.
 
 Durante los plazos concedidos, se causarán intereses a razón del 8.5% mensual.
 
@@ -837,9 +845,13 @@ VII.- Resistirse por cualquier medio a las visitas de inspección o visitas domi
 
 Se impondrá multa por cada fracción de las previstas en el artículo anterior, como sigue:
 
-I.- De cuatro a seis días de salario mínimo diario, vigente al momento en que se cometa la infracción a las previstas en las fracciones I, II, III, IV y V.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
-II.- De dos a siete días de salario mínimo diario, vigente al momento en que se corneta la infracción a las previstas en las fracciones VI y VII siempre que no puedan precisarse el monto de la prestación fiscal omitida. De lo contrario la multa será hasta de tres tantos del importe de dicha prestación.
+I.- De cuatro a seis veces la Unidad de Medida y Actualización en que se cometa la infracción a las previstas en las fracciones I, II, III, IV y V.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+
+II.- De dos a siete veces la Unidad de Medida y Actualización, vigente al momento en que se cometa la infracción a las previstas en las fracciones VI y VII siempre que no puedan precisarse el monto de la prestación fiscal omitida. De lo contrario la multa será hasta de tres tantos del importe de dicha prestación.
 
 III.- Hasta un tanto de la prestación fiscal en el caso de la infracción prevista en la fracción VII, tratándose de cantinas, salones de baile, casas de asignación o citas, centros nocturnos, hoteles y negocios similares, cuando adeuden una mensualidad, independientemente de la multa con cierre de establecimiento.
 
@@ -883,7 +895,7 @@ I.- Concierten la realización del delito.
 
 II.- Realicen la conducta o el hecho descritos en la Ley.
 
-lII.- Cometan conjuntamente el delito.
+III.- Cometan conjuntamente el delito.
 
 IV.- Se sirvan de otra persona como instrumento para ejecutarlo.
 
@@ -909,7 +921,7 @@ Si un servidor público comete o en cualquier forma participa en la comisión de
 
 ###### ARTICULO 90o.
 
-La tentativa de los delitos previstos en este Código es punible, cuando Ia resolución de cometer un hecho delictivo se traduce en un principio de su ejecución o en la realización total de los actos que debieran producirlo, si la interrupción de éstos o la no producción del resultado se debe a causas ajenas a la voluntad del agente.
+La tentativa de los delitos previstos en este Código es punible, cuando la resolución de cometer un hecho delictivo se traduce en un principio de su ejecución o en la realización total de los actos que debieran producirlo, si la interrupción de éstos o la no producción del resultado se debe a causas ajenas a la voluntad del agente.
 
 La tentativa se sancionará con prisión de hasta las dos terceras partes de la que corresponda por el delito de que se trate, si éste se hubiese consumado.
 
@@ -933,7 +945,9 @@ Para que proceda la condena condicional cuando se incurra en delitos fiscales, a
 
 Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco municipal.
 
-El delito de defraudación fiscal se sancionará con prisión de 15 días a dos años si el monto de lo defraudado no excede de diez veces el salario mínimo diario. Cuando exceda de esta cantidad la pena será de uno a cinco años de prisión.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+El delito de defraudación fiscal se sancionará con prisión de 15 días a dos años si el monto de lo defraudado no excede de diez veces la Unidad de Medida y Actualización. Cuando exceda de esta cantidad la pena será de uno a cinco años de prisión.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de quince días a cinco años de prisión.
 
@@ -1173,7 +1187,7 @@ IX.- El patrimonio de familia en los términos que establezcan las leyes, desde 
 
 X.- Los sueldos y salarios.
 
-Xl.- Las pensiones de cualquier tipo.
+XI.- Las pensiones de cualquier tipo.
 
 XII.- Los ejidos.
 
@@ -1313,7 +1327,7 @@ Una vez efectuado el embargo, el Tesorero Municipal procederá a la venta de los
 
 ###### ARTICULO 143o.
 
-Las bases para el remate serán las dos terceras partes del avalúo que se haga de los bienes, por peritos designados por la Tesorería Municipal y el deudor, y si no se pusieran de acuerdo, por e avalúo que practique una institución fiduciaria.
+Las bases para el remate serán las dos terceras partes del avalúo que se haga de los bienes, por peritos designados por la Tesorería Municipal y el deudor, y si no se pusieran de acuerdo, por el avalúo que practique una institución fiduciaria.
 
 ###### ARTICULO 144o.
 
@@ -1325,9 +1339,11 @@ El remate deberá ser convocado para una fecha fijada dentro de los treinta día
 
 La convocatoria se fijará en el sitio visible y usual de la Tesorería Municipal y en los lugares públicos que se juzgue conveniente.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 146o.
 
-Si el valor de los bienes, excede de una cantidad equivalente a tres veces el salario mínimo general de la zona económica que corresponda se publicará en el Periódico Oficial y en el de mayor circulación del lugar por dos veces con intervalo de siete días. A solicitud del deudor y a su costa, se podrá ordenar una publicación más amplia en los mismos plazos.
+Si el valor de los bienes, excede de una cantidad equivalente a tres veces la Unidad de Medida y Actualización, se publicará en el Periódico Oficial y en el de mayor circulación del lugar por dos veces con intervalo de siete días. A solicitud del deudor y a su costa, se podrá ordenar una publicación más amplia en los mismos plazos.
 
 ###### ARTICULO 147o.
 
@@ -1351,7 +1367,7 @@ II.- La cantidad que se ofrezca.
 
 III.- La conformidad del postor para cubrir por su cuenta los gastos de honorarios notariales de la escritura de adjudicación cuando proceda.
 
-lV.- Acompañar certificado de depósito expedido por Institución bancaria, o en su caso, en efectivo, por cantidad del 10% del valor de los bienes fijados por la convocatoria.
+IV.- Acompañar certificado de depósito expedido por Institución bancaria, o en su caso, en efectivo, por cantidad del 10% del valor de los bienes fijados por la convocatoria.
 
 Si no se cumple con los depósitos en cualquiera de sus formas, no se dará entrada a la postura.
 
@@ -1467,7 +1483,7 @@ I.- Exijan el pago de créditos fiscales, cuando se alegue que éstos se han ext
 
 II.- Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la ley.
 
-lII.- Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 173 de este Código.
+III.- Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 173 de este Código.
 
 IV.- Cuando la liquidación formulada por la Tesorería Municipal no sea correcta.
 
@@ -1909,7 +1925,9 @@ III.- El de nulidad de notificaciones.
 
 IV.- El de interrupción por causa de muerte o disolución.
 
-Mientras estén pendientes de resolución los demás Incidentes a que se refiere este capítulo, el juicio continuará hasta que se cierre la instrucción. Si el incidente hecho valer es notoriamente frívolo e improcedente se impondrá a quien lo promueva una multa hasta el equivalente del salario mínimo general de la zona económica correspondiente al Estado elevado a un trimestre.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+Mientras estén pendientes de resolución los demás incidentes a que se refiere este capítulo, el juicio continuará hasta que se cierre la instrucción. Si el incidente hecho valer es notoriamente frívolo e improcedente se impondrá a quien lo promueva una multa hasta el equivalente de la Unidad de Medida y Actualización elevado a un trimestre.
 
 ###### ARTICULO 210o.
 
@@ -1993,7 +2011,11 @@ Las autoridades fiscales podrán promover el mismo incidente en relación al oto
 
 Promovido el incidente a que se refiere el artículo anterior, se ordenará a la autoridad que haya negado la suspensión, rechazado la garantía o reiniciado la ejecución, suspenda ésta y rinda un informe en un plazo de tres días. Asimismo, la apercibirá de que si no suspende desde luego la ejecución, o si no rinde el informe o si no se refiere específicamente a los hechos, se tendrán éstos por ciertos y se declarará fundado el incidente respectivo.
 
-En un plazo de cinco días, la sala dictará la resolución correspondiente. Si la autoridad no da cumplimiento a lo ordenado, se impondrá al funcionario responsable del incumplimiento una multa de uno a tres tantos del equivalente al salario mínimo general de la zona económica correspondiente elevado al mes.
+En un plazo de cinco días, la sala dictará la resolución correspondiente.
+
+> <small>(REFORMADO [N. DE E. ANTES PERTENECÍA AL PÁRRAFO SEGUNDO], P.O. 5 DE MARZO DE 2017)</small>
+
+Si la autoridad no da cumplimiento a lo ordenado, se impondrá al funcionario responsable del incumplimiento una multa de uno a tres tantos del equivalente a la Unidad de Medida y Actualización, elevada al mes.
 
 Si el incidente es promovido por la autoridad, por haberse concedido indebidamente una suspensión, se tramitará lo conducente en los términos de este precepto.
 
@@ -2035,7 +2057,9 @@ A fin de que las partes puedan rendir sus pruebas, los funcionarios o autoridade
 
 Cuando sin causa justificada la autoridad demandada no expida las copias de los documentos ofrecidos por el demandante para probar los hechos imputados a aquélla y siempre que los documentos solicitados hubieran sido identificados con toda precisión tanto en sus características como en su contenido, se presumirán ciertos los hechos que pretenda probar con esos documentos.
 
-En los casos en que la autoridad no sea parte, el magistrado instructor podrá hacer valer como medida de apremio la imposición de multas de hasta el monto del equivalente al salarlo mínimo general de la zona económica correspondiente, elevado al trimestre, a los funcionarios omisos.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+
+En los casos en que la autoridad no sea parte, el magistrado instructor podrá hacer valer como medida de apremio la imposición de multas de hasta el monto del equivalente una vez la Unidad de Medida y Actualización, elevado al trimestre, a los funcionarios omisos.
 
 Cuando se soliciten copias de documentos que no puedan proporcionarse en la práctica administrativa normal, las autoridades podrán solicitar un plazo adicional para hacer las diligencias extraordinarias que el caso amerite y si al cabo de éstas no se localizan, el magistrado instructor podrá considerar que se está en presencie de omisión por causa justificada.
 
@@ -2174,3 +2198,15 @@ Una vez publicado en el Periódico Oficial del Gobierno Constitucional del Estad
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 77.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DEL CÓDIGO FISCAL MUNICIPAL”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
