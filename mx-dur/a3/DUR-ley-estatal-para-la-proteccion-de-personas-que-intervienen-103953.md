@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-para-la-proteccion-de-personas-que-intervienen-1039
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-27"
-last_updated: "2014-11-27"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 27 de noviembre de 2014.
 
@@ -443,7 +443,9 @@ La terminación del otorgamiento de las medidas de protección o la desincorpora
 
 Violación de la reserva.
 
-Quien con la intención de poner en riesgo la seguridad de una persona protegida de conformidad con esta ley, divulgue o revele información sobre las medidas de protección otorgadas, será sancionada con prisión de dos a cuatro años y de quinientos a mil días multa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
+Quien con la intención de poner en riesgo la seguridad de una persona protegida de conformidad con esta ley, divulgue o revele información sobre las medidas de protección otorgadas, será sancionada con prisión de dos a cuatro años y multa de quinientas a mil veces la Unidad de Medida y Actualización.
 
 Cuando el sujeto activo sea servidor público, la pena se incrementara hasta en una tercera parte.
 
@@ -451,7 +453,9 @@ Cuando el sujeto activo sea servidor público, la pena se incrementara hasta en 
 
 Desacato de la medida de protección ordenada.
 
-A quien estando obligado a ejecutar una medida de protección conforme a esta ley y no le diere cabal cumplimiento en los términos y condiciones establecidos; será sancionada con prisión de dos a cuatro años y de quinientos a mil días multa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+
+A quien estando obligado a ejecutar una medida de protección conforme a esta ley y no le diere cabal cumplimiento en los términos y condiciones establecidos; será sancionada con prisión de dos a cuatro años y multa de quinientas a mil veces la Unidad de Medida y Actualización.
 
 Si derivado de la conducta descrita en el párrafo anterior la persona protegida sufriera un daño o lesión en su integridad, libertad o bienes materiales, la pena será de cuatro a ocho años de prisión y se incrementará en una mitad si se produjere la muerte.
 
@@ -492,3 +496,17 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL OLVERA ESCALERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 62.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY ESTATAL PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
