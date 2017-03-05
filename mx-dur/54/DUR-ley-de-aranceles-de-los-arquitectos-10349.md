@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-aranceles-de-los-arquitectos-10349"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-15"
-last_updated: "1988-12-15"
+last_updated: "2017-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE ARANCELES DE LOS ARQUITECTOS
 
-LEY DE ARANCELES DE LOS ARQUITECTOS
+LEY DE ARANCELES DE LOS ARQUITECTOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 15, domingo 18 y jueves 22 de diciembre de 1988.
 
@@ -247,7 +247,7 @@ A-6 Factibilidades de mano de obra.
 
 A-7 Formulación del presupuesto y contratistas generales.
 
-A-B(SIC) Pronósticos de avances posibles y financiamientos.
+A-B (SIC) Pronósticos de avances posibles y financiamientos.
 
 A-9 Calendarización general de pagos.
 
@@ -351,7 +351,7 @@ B-1 Gratificación óptima de la distribución arquitectónica 43%
 
 B-2 Planos de obra exterior 43%
 
-B-3 Planos de edificaciones particulares.(Arquitectónicos) 43%
+B-3 Planos de edificaciones particulares. (Arquitectónicos) 43%
 
 B-4 Planos de estructuras varias (Estructurales) 43%
 
@@ -913,6 +913,8 @@ POR la SEXTA UNIDAD y SUBSECUENTES CADA UNA, el 5% de los honorarios correspondi
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 22 DE DICIEMBRE DE 1988, PÁGINAS DE LA 2 A LA 4.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS, P.O. 5 DE MARZO DE 2017, PÁGINAS DE LA 101 A LA 106.]</small>
+
 T R A N S I T O R I O
 
 UNICO.- La presente Ley entrará en vigor el día siguiente del de su publicación en el Periódico Oficial del Estado.
@@ -930,3 +932,17 @@ DADO en el PALACIO del PODER EJECUTIVO, en Victoria de Durango, Dgo., a los trec
 El Gobernador Constitucional del Estado Lic. José Ramírez Gamero.- Rúbrica.
 
 El Secretario General de Gobierno Lic. Salvador Mendívil Hernández.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65.- QUE CONTIENE REFORMAS AL ARTÍCULO 23 EN SUS PÁRRAFOS SÉPTIMO, OCTAVO Y NOVENO ASÍ COMO EN SUS TRES TABLAS DE LA LEY DE ARANCELES DE LOS ARQUITECTOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el en el (sic) Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
