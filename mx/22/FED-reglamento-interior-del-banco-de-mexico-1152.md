@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2016-05-30"
+last_updated: "2017-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1994-09-23"
 ---
 # REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -201,21 +203,27 @@ El Banco contará con un Comité de Transparencia para los efectos de la Ley Gen
 
 El Comité a que se refiere el párrafo anterior, deberá resolver por mayoría de votos y será presidido por el titular de la Unidad de Transparencia, quien tendrá voto de calidad en caso de empate. Dicho Comité contará con invitados permanentes con voz, pero sin voto, quienes serán el Director de Vinculación Institucional y el Director de Administración de Riesgos. Asimismo, contará con una Secretaría y Prosecretaría, cuyos titulares serán designados de conformidad con lo establecido en las reglas de operación del propio Comité.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2017)</small>
 
-Adicionalmente, el Banco contará con un Comité de Auditoría con las atribuciones que señala el artículo 29 Bis 2 del presente Reglamento, que estará integrado por dos miembros de la Junta de Gobierno que ésta designe, cargos que no podrán ocupar el Gobernador, ni el Subgobernador que presida la Comisión de Responsabilidades, así como por un miembro independiente al Banco, designado igualmente por la propia Junta. Los integrantes del Comité no tendrán suplentes.
+Adicionalmente, el Banco contará con un Comité de Auditoría con las atribuciones que señala el artículo 29 Bis 2 del presente Reglamento, que estará integrado por un miembro de la Junta de Gobierno que esta designe, cargo que no podrán ocupar el Gobernador, ni el Subgobernador que presida la Comisión de Responsabilidades, así como por dos miembros que no deberán ser integrantes de la Junta de Gobierno, ni empleados de la Institución, igualmente designados por la propia Junta. Los integrantes del Comité no tendrán suplentes.
 
-> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2017)</small>
 
-La Junta de Gobierno elegirá al presidente del Comité de Auditoría de entre los dos Subgobernadores que haya designado para integrarlo.
+El presidente del Comité de Auditoría será el Subgobernador que lo integre.
 
-> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE MARZO DE 2017)</small>
 
-La designación del miembro independiente que integre el Comité de Auditoría, deberá recaer en un profesional que reúna los requisitos siguientes:
+La designación de cada uno de los miembros no institucionales que integren el Comité de Auditoría deberá recaer en un profesional que reúna los requisitos siguientes:
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2009)</small>
 
 I. Gozar de reconocida competencia en materia económica, financiera, contable o jurídica, que cuente con amplia experiencia como miembro de consejos de administración, de comités de auditoría, o que haya desempeñado funciones de auditoría o contraloría, en instituciones financieras de reconocido prestigio;
 
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2009)</small>
+
 II. Ser de reconocida probidad y contar con excelente reputación y honorabilidad, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2009)</small>
 
 III. No haber sido sentenciado por delitos intencionales; inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión, en el servicio público o en el sistema financiero mexicano.
 
@@ -231,9 +239,9 @@ Con el propósito de dar seguimiento al desempeño de las funciones de auditorí
 
 El Comité de Auditoría podrá solicitar la contratación de expertos independientes que cuenten con prestigio profesional en auditoría, economía, finanzas, contabilidad, control interno o cualquier otra materia que estime conveniente el propio Comité.
 
-> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2017)</small>
 
-Los honorarios del miembro independiente del Comité y de los expertos que en su caso se contraten, serán determinados por la propia Junta de Gobierno y sus servicios serán contratados por el Banco en los términos que ésta establezca. Las personas referidas deberán guardar confidencialidad de los asuntos e información que tengan conocimiento en el desempeño de sus funciones. Dicha obligación de confidencialidad, deberá quedar establecida en los contratos que al efecto se celebren.
+Los honorarios de los miembros no institucionales del Comité y de los expertos que en su caso se contraten, serán determinados por la propia Junta de Gobierno y sus servicios serán contratados por el Banco en los términos que esta establezca. Las personas referidas deberán guardar confidencialidad de los asuntos e información que tengan conocimiento en el desempeño de sus funciones. Dicha obligación de confidencialidad deberá quedar establecida en los contratos que al efecto se celebren.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -337,8 +345,6 @@ Las órdenes de visita de inspección deberán ser suscritas por funcionarios de
 
 La supervisión de entidades e intermediarios financieros, así como todos los actos relacionados con la autorización y supervisión de los programas de autocorrección, se ajustarán a las reglas que se emitan para tal efecto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 9o.
@@ -399,8 +405,6 @@ La Dirección General de Investigación Económica tendrá las atribuciones señ
 
 A esta Dirección General estarán adscritas las Direcciones de Estudios Económicos, de Medición Económica, de Análisis Macroeconómico, de Asuntos Internacionales, y de Análisis sobre Precios, Economía Regional e Información.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 14.
@@ -445,11 +449,7 @@ La Dirección General de Sistemas de Pagos y Servicios Corporativos tendrá las 
 
 A esta Dirección General estarán adscritas las Direcciones de Sistemas de Pagos, de Recursos Humanos, de Recursos Materiales y de Contabilidad, Planeación y Presupuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 ARTICULO 15 BIS.- (DEROGADO, D.O.F. 6 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -512,8 +512,6 @@ III. Recabar información de los integrantes del sistema bancario, respecto a lo
 IV. (DEROGADA, D.O.F. 29 DE MARZO DE 2012)
 
 V. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
 
@@ -955,19 +953,13 @@ II. Recomendar las políticas, medidas, acciones y regulaciones orientadas a man
 
 III. Identificar deficiencias en la regulación y supervisión que impidan o dificulten la actuación de las autoridades para mitigar riesgos o, en su caso, resolver, en coordinación con otras autoridades, afectaciones a la estabilidad financiera;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
 
 IV. Dar seguimiento al desarrollo de la regulación en materia de estabilidad financiera;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
 
 V. Fungir como asesor del Consejo de Estabilidad del Sistema Financiero y de su Comité Técnico;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -988,8 +980,6 @@ II. Desarrollar metodologías y procesos para verificar la calidad de la informa
 III. Poner a disposición de otras Unidades Administrativas del Banco toda la información recabada y generada de conformidad con sus necesidades de información;
 
 IV. Poner a disposición de otras autoridades financieras la información recabada y generada que corresponda al ámbito de su competencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1017,8 +1007,6 @@ ARTICULO 25 BIS 1.- La Dirección de Regulación y Supervisión tendrá las atri
 
 I. Dar seguimiento y evaluar la regulación y supervisión del sistema financiero, de tal forma que pueda proponer modificaciones a ambas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 II. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
 III. Apoyar a los miembros de la Junta que participen, en representación del Banco, en los órganos de gobierno de las Comisiones Reguladoras del sistema financiero y del Instituto para la Protección al Ahorro Bancario, así como elaborar las propuestas para los mencionados representantes, sobre la posición del propio Banco ante dichos órganos;
@@ -1035,11 +1023,7 @@ VII. Dar seguimiento a las operaciones que hayan realizado los intermediarios fi
 
 VIII. Participar en la imposición de sanciones a los intermediarios financieros, a los administradores de los sistemas de pagos y a las cámaras de compensación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 IX. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 X. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
@@ -1099,8 +1083,6 @@ V. Participar en el análisis de aquellos asuntos que incidan en el ámbito de l
 
 VI. Colaborar en el cumplimiento de la atribución prevista en el artículo 25 Bis 1, fracción III, de este Reglamento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 25 BIS 4.- La Dirección de Análisis de Riesgos del Sistema Financiero tendrá las atribuciones siguientes:
@@ -1108,8 +1090,6 @@ ARTICULO 25 BIS 4.- La Dirección de Análisis de Riesgos del Sistema Financiero
 I. Realizar evaluaciones sobre la situación de aquellas entidades financieras consideradas de relevancia para el sistema financiero, en escenarios de condiciones económicas adversas, y
 
 II. Analizar información que pueda constituir indicios de exposiciones relevantes de entidades financieras en conjunto a riesgos comunes o a riesgos con un alto grado de correlación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -1147,11 +1127,9 @@ VII. Vigilar que los créditos otorgados por el Banco a sus trabajadores, se enc
 
 VIII. Conducir las relaciones con el Sindicato Unico de Trabajadores del Banco de México;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 IX. (DEROGADA, D.O.F. 10 DE JUNIO DE 2009)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO. (REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
 
 X. Desempeñar y promover las actividades socioculturales y deportivas del Banco;
 
@@ -1200,8 +1178,6 @@ XII. Identificar los proyectos estratégicos de la institución que se incluyan 
 XIII. Coordinar la realización de encuestas institucionales internas dirigidas al personal, y
 
 XIV. Apoyar al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -1277,8 +1253,6 @@ X. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2011)
 
 XI. Proporcionar asesoría jurídica a las unidades administrativas del Banco que lo requieran, así como a terceros cuando sea de interés para el propio Banco;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
 
 XII. Expedir, junto con la Dirección General de Emisión, las disposiciones a que se refieren los artículos 48 Bis 1 de la Ley de Instituciones de Crédito y 8o. de este Reglamento;
@@ -1299,13 +1273,9 @@ XV. Recibir los programas de autocorrección que presenten las entidades o inter
 
 ARTICULO 28 BIS.- La Dirección de Seguridad tendrá las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2010)</small>
 
 I. Coordinar y ejecutar las actividades relacionadas con la seguridad interna y protección civil del Banco;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2010)</small>
 
@@ -1313,13 +1283,9 @@ II. Definir la estrategia en seguridad y administrar los recursos de protección
 
 III. (DEROGADA, D.O.F. 29 DE MARZO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2010)</small>
 
 IV. Coordinar las relaciones interinstitucionales con las autoridades del Gobierno Federal, estatales, municipales y extranjeras en materia de seguridad, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2010)</small>
 
@@ -1483,8 +1449,6 @@ III. (DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
 IV. (DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 V. (DEROGADA, D.O.F. 1 DE OCTUBRE DE 2015)
 
 > <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
@@ -1502,8 +1466,6 @@ VIII. Recibir, conocer, sustanciar y proveer lo necesario para la debida resoluc
 > <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
 
 IX. Conocer, sustanciar y proveer lo necesario para el trámite del procedimiento administrativo sancionador; imponer las medidas de apremio durante dicho procedimiento y, en su caso, las sanciones administrativas, conforme a la Ley Federal Anticorrupción en Contrataciones Públicas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
@@ -1587,13 +1549,9 @@ XIII. Suscribir con los demás sujetos obligados de conformidad con las disposic
 
 XIV. Recibir y dar respuesta a los requerimientos, observaciones, recomendaciones y criterios que realice el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos de las disposiciones aplicables en la materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO, D.O.F. 1 DE OCTUBRE DE 2015.</small>
-
 XV. Recibir las denuncias sobre el incumplimiento a las obligaciones de transparencia a que se refiere la normatividad aplicable en materia de transparencia y acceso a la información pública, y remitirla al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos de las disposiciones aplicables;
 
 XVI. Realizar todos los actos necesarios para dar cumplimiento a las resoluciones que emita el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y emitir el informe correspondiente en términos de las disposiciones en la materia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO, D.O.F. 1 DE OCTUBRE DE 2015.</small>
 
 XVII. Recibir los recursos de revisión que presenten los particulares y remitirlos al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de conformidad con la normatividad aplicable en materia de transparencia y acceso a la información pública;
 
@@ -2005,7 +1963,7 @@ Gobernador del Banco de México
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 D.O.F. 16 DE MARZO DE 1995.
 
@@ -2412,3 +2370,9 @@ D.O.F. 30 DE MAYO DE 2016.
 PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 6 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO".]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
