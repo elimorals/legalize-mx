@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-sistema-para-el-desarrollo-integral-830
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-21"
-last_updated: "2016-03-01"
+last_updated: "2017-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2017.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 21 de septiembre de 2011.
 
@@ -85,25 +85,31 @@ Para el estudio, planeación, programación, ejercicio de las atribuciones y des
 
 I. Junta Directiva;
 
-II. Consejo Técnico;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2017)</small>
+
+II. Consejo Técnico de Adopciones;
 
 III. Patronato;
 
 IV. Dirección General;
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2017)</small>
+
 V. Las siguientes unidades administrativas:
 
-a) Dirección de Fortalecimiento Institucional;
+a) Dirección de Fortalecimiento Institucional.
 
-b) Dirección (sic) Asistencia y Rehabilitación;
+b) Dirección de Ecología de la Salud.
 
-c) Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes y Dirección de Asistencia Jurídica;
+c) Dirección de Atención a Personas con Discapacidad.
 
-d) Dirección de Alimentación y Desarrollo Comunitario;
+d) Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes y Dirección de Asistencia Jurídica.
 
-e) Dirección de Delegaciones, y
+e) Dirección de Alimentación y Desarrollo Comunitario.
 
-f) Dirección Administrativa.
+f) Dirección de Delegaciones.
+
+g) Dirección Administrativa.
 
 El SEDIF podrá contar con Delegaciones y demás unidades administrativas, que con el carácter de instancias operativas formarán parte del mismo y tendrán a su cargo la prestación de los servicios que por Ley les otorga el SEDIF, con la competencia territorial que se determine en su caso y conforme a la normatividad administrativa y presupuestal aplicable.
 
@@ -189,9 +195,9 @@ XIII. Dirigir, aprobar y supervisar con la participación de los directores de �
 
 XIV. Coadyuvar en el cumplimiento de los programas de asistencia social a cargo de los Municipios del Estado; asimismo dirigir hacia éstos el proceso de descentralización de los servicios de asistencia social, a través de las delegaciones regionales del SEDIF;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2017)</small>
 
-XV. Representar jurídicamente al SEDIF con todas las facultades generales y particulares que requieran cláusulas especiales conforme a la ley en todos los procedimientos jurisdiccionales y administrativos, así como en lo relativo a relaciones laborales que sean de su competencia, instrumentar medios preparatorios a juicio, medidas precautorias, presentar demandas, contestaciones, reconvenciones, denuncias, querellas, desistirse, interponer recursos, promover incidentes, rendir informes, ofrecer y desahogar pruebas, celebrar transacciones, solicitar la suspensión o diferimiento de las audiencias, alegar, pedir se dicte sentencia, seguir los juicios y procedimientos hasta ejecutar las resoluciones, otorgar el perdón que proceda y en general todas aquéllas acciones que sean necesarias para la substanciación de los procedimientos respectivos en defensa de los intereses del SEDIF; debiendo informar a la Dirección General del resultado de su representación;
+XV. Representar jurídicamente al SEDIF con todas las facultades generales y particulares que requieran cláusulas especiales conforme a la ley en todos los procedimientos jurisdiccionales y administrativos, así como en lo relativo a relaciones laborales que sean de su competencia, instrumentar medios preparatorios a juicio, medidas precautorias, presentar demandas, contestaciones, reconvenciones, denuncias, querellas, desistirse, interponer recursos, promover incidentes, rendir informes, ofrecer y desahogar pruebas, celebrar transacciones, solicitar la suspensión o diferimiento de las audiencias, alegar, pedir se dicte sentencia, seguir los juicios y procedimientos hasta ejecutar las resoluciones, otorgar el perdón que proceda y en general todas aquéllas acciones que sean necesarias para la substanciación de los procedimientos respectivos en defensa de los intereses del SEDIF; debiendo mantener informada a la Junta Directiva del resultado de su representación;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
@@ -207,9 +213,7 @@ XVIII. Emitir conjuntamente con la Procuraduría, los lineamientos que regulen l
 
 XIX. Coadyuvar en el ámbito de su competencia y conjuntamente con la Procuraduría, de conformidad con la normatividad aplicable, con las instancias gubernamentales correspondientes en la supervisión y vigilancia a las casas infantiles o centros de asistencia social e instituciones públicas o privadas que presten servicios de asistencia social, de albergue temporal, guardería o internado;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
-
-XX. Verificar conjuntamente con la Procuraduría, que las casas infantiles o centros de asistencia social que se señalan en la fracción anterior cumplan con las normas oficiales mexicanas y con las demás disposiciones legales aplicables como sus estatutos, objeto social o reglamentos internos, y demás normatividad aplicable en la materia. Para dicha verificación podrá solicitar la información necesaria e informará en su caso a la autoridad competente;
+XX. (DEROGADA, P.O. 6 DE MARZO DE 2017)
 
 XXI. Coadyuvar conforme a las normas y políticas aplicables, en el desarrollo integral de los aspectos mental, técnico, cultural, social y deportivo de los servidores públicos del SEDIF;
 
@@ -227,13 +231,29 @@ XXVI. Asignar a las unidades administrativas del SEDIF, las atribuciones no comp
 
 XXVII. Resolver las dudas y casos no previstos que se susciten en el desarrollo de las actividades propias del SEDIF, así como en la aplicación de este Reglamento, tomando en consideración a la Junta Directiva; y
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2017)</small>
 
-XXVIII. Participar en los casos que corresponda, en las actas entrega-recepción y administrativas del personal del SEDIF, en coordinación con la Secretaría de la Contraloría a través de los mecanismos determinados por esta última, y
+XXVIII. Participar en los casos que corresponda, en las actas entrega-recepción y administrativas del personal del SEDIF, en coordinación con la Secretaría de la Contraloría a través de los mecanismos determinados por esta última;
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2017)</small>
 
-XXIX. Las demás que le encomiende la Junta Directiva y le confieran las disposiciones legales aplicables.
+XXIX. Impulsar programas para el adelanto y desarrollo de niñas, niños y adolescentes, particularmente a aquellos en situación de vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2017)</small>
+
+XXX. Dar seguimiento a la eficacia de las acciones, políticas públicas, programas y acciones en materia de protección de niñas, niños y adolescentes, con base en los resultados de las evaluaciones que al efecto se realicen;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2017)</small>
+
+XXXI. Ejecutar acciones y proponer a la Junta Directiva, la creación de áreas y unidades administrativas que resulten necesarias para dar cumplimiento a la Ley de los Derechos de las Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2017)</small>
+
+XXXII. Coordinar las acciones y programas en materia de atención a personas con discapacidad con las dependencias y entidades de la Administración Pública, y con los sectores social y privado, cuyas actividades incidan en la atención de dicho grupo de población, y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2017)</small>
+
+XXXIII. Las demás que le encomiende la Junta Directiva y le confieran las disposiciones legales aplicables.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE MARZO DE 2016)</small>
 
@@ -287,13 +307,15 @@ XIII. Participar previo acuerdo de su superior jerárquico, en los comités, com
 
 XIV. Las demás que en materia de su competencia se establezcan en este Reglamento, en los ordenamientos legales vigentes, acuerdos, decretos, circulares y convenios, así como las que les encomiende su superior jerárquico.
 
-### CAPÍTULO IV. DE LA DIRECCIÓN DE ASISTENCIA Y REHABILITACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
+### CAPÍTULO IV. DIRECCIÓN DE ECOLOGÍA DE LA SALUD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 9.
 
-El titular de la Dirección de Asistencia y Rehabilitación dependerá jerárquicamente de la Dirección General y tendrá además de las atribuciones señaladas en el artículo 8 de este Reglamento, las siguientes:
+El Titular de la Dirección de Ecología de la Salud dependerá jerárquicamente de la Dirección General y tendrá además de las atribuciones señaladas en el artículo 8 de este Reglamento, las siguientes:
 
 I. Ejercer las atribuciones y actividades conforme lo dispongan las leyes y reglamentos en materia de asistencia médico-social que sean de la competencia del SEDIF y las que le encomiende el Director General;
 
@@ -311,9 +333,7 @@ VII. Establecer y coordinar acciones de atención materno-infantil en asistencia
 
 VIII. Supervisar la aplicación normativa en el uso y control de medicamentos que hagan los facultativos en asistencia médico-interna en apoyo a otras instituciones de asistencia social;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
-
-IX. Proponer a su superior jerárquico los sistemas de selección y evaluación para el personal técnico y especializado de la Dirección de Asistencia y Rehabilitación;
+IX. (DEROGADA, P.O. 6 DE MARZO DE 2017)
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
@@ -321,13 +341,9 @@ X. Proponer a su superior jerárquico los lineamientos a los que deban sujetarse
 
 XI. Elaborar y operar el sistema estatal de información básica en materia de asistencia social, así como, remitir los informes periódicos a la Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
+XII. (DEROGADA, P.O. 6 DE MARZO DE 2017)
 
-XII. Instrumentar acciones en materia de prevención, atención y rehabilitación de discapacitados en centros no hospitalarios, de conformidad con las disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
-
-XIII. Participar en la elaboración y ejecución de programas de rehabilitación y educación especial;
+XIII. (DEROGADA, P.O. 6 DE MARZO DE 2017)
 
 > <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
 
@@ -437,13 +453,41 @@ XVI. Coadyuvar con la Dirección Administrativa en la elaboración e integració
 
 XVII. Elaborar, en coordinación con la Dirección Administrativa, los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MARZO DE 2017)</small>
+
+### CAPÍTULO VI BIS. DIRECCIÓN DE ATENCIÓN A PERSONAS CON DISCAPACIDAD
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2017)</small>
+
+ARTÍCULO 11 BIS.- El Titular de la Dirección de Atención a Personas con Discapacidad dependerá jerárquicamente de la Dirección General y tendrá además de las atribuciones señaladas en el artículo 8 de este Reglamento, las siguientes:
+
+I. Planear, ejecutar, dirigir, y evaluar la operación y cumplimiento de los programas y normas técnicas en materia de prevención, tratamiento, rehabilitación y servicios asistenciales conexos para las personas con discapacidad, conforme a la Ley, a la Ley Estatal de Salud y a la Ley para las Personas con Discapacidad del Estado de Puebla;
+
+II. Instrumentar acciones en materia de prevención, atención y rehabilitación a personas con discapacidad, de conformidad con las disposiciones legales aplicables;
+
+III. Promover en los sectores social, público y privado, en (sic) el impulso y cumplimiento de los programas de difusión y apoyo para el desarrollo educativo y de salud para personas con discapacidad;
+
+IV. Impartir talleres de capacitación y orientación a las familias de personas con discapacidad, en materia de convivencia social, apoyo y tratamiento de las mismas;
+
+V. Elaborar y ejecutar acciones, y estrategias que coadyuven a la integración de las personas con discapacidad en el ámbito familiar, social y laboral;
+
+VI. Promover, instrumentar y ejecutar mecanismos para fortalecer la oferta de servicios, así como el establecimiento y desarrollo de programas interinstitucionales de asistencia social en beneficio de las personas con discapacidad;
+
+VII. Impulsar y fomentar actividades deportivas, recreativas y culturales para las personas con discapacidad;
+
+VIII. Elaborar y ejecutar acciones, así como (sic) gestiones necesarias a fin de garantizar la igualdad de oportunidades en los ámbitos económico, social, cultural, de salud, laboral, legal, educativo, y de otra índole, de las personas con discapacidad;
+
+IX. Proponer al Director General, sistemas de selección y evaluación para el personal técnico y especializado de la Dirección de Atención a Personas con Discapacidad;
+
+X. Implementar mecanismos necesarios para difundir y en su caso fortalecer una cultura de respeto, sensibilización y conciencia hacia las personas con discapacidad;
+
+XI. Proponer al Director General la celebración de acuerdos y convenios de colaboración con los Sistemas Municipales DIF, las organizaciones civiles, gubernamentales, no gubernamentales e iniciativa privada para fortalecer la operación de los servicios ofertados por el SEDIF, a favor de las personas con discapacidad, y
+
+XII. Coordinar y vigilar la formación y capacitación impartida al personal del SEDIF, que opera los servicios para las personas con discapacidad.
+
 ### CAPÍTULO VII. DE LA DIRECCIÓN DE DELEGACIONES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
-
-### CAPÍTULO VIII. DE LA PROCURADURÍA DE PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES Y DIRECCIÓN DE ASISTENCIA JURÍDICA
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
@@ -505,7 +549,7 @@ XVI. Elaborar, en coordinación con la Dirección Administrativa, los manuales d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MARZO DE 2016)</small>
 
-### CAPÍTULO IX. DE LA DIRECCIÓN ADMINISTRATIVA
+### CAPÍTULO VIII. DE LA PROCURADURÍA DE PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES Y DIRECCIÓN DE ASISTENCIA JURÍDICA
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
@@ -587,9 +631,9 @@ XXXVI. Coadyuvar con la Dirección Administrativa en la elaboración e integraci
 
 XXXVII. Elaborar, en coordinación con la Dirección Administrativa, los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo.
 
-### CAPÍTULO X. DEL CONSEJO TÉCNICO DE ADOPCIONES
+### CAPÍTULO IX. DE LA DIRECCIÓN ADMINISTRATIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 14.
 
@@ -645,7 +689,9 @@ XXIV. Solventar las observaciones y recomendaciones, resultado de auditorías, p
 
 XXV. Coordinar con la Secretaría General de Gobierno, el establecimiento, control y evaluación del Programa Interno de Protección Civil.
 
-### CAPÍTULO XI
+### CAPÍTULO X. DEL CONSEJO TÉCNICO DE ADOPCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 15.
 
@@ -687,55 +733,57 @@ XII. Suscribir las actas de las sesiones del Consejo, y
 
 XIII. Las demás que en materia de su competencia se establezcan en este Reglamento, acuerdos, decretos, circulares y convenios, y demás ordenamientos legales vigentes.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 16.
 
 El Consejo Técnico estará integrado por:
 
-I. El Presidente, que será el titular de la Dirección General del SEDIF;
+I. El Presidente, que será el Titular de la Dirección General del SEDIF;
 
-II. El Secretario, que será el titular de la Procuraduría;
+II. El Secretario, que será el Titular de la Procuraduría;
 
 III. Los Consejeros, que serán:
 
-a) El Director de Asistencia y Rehabilitación;
+a) El Director de Ecología de la Salud.
 
-b) El titular del Departamento de la Defensa de la Infancia y la Familia;
+b) El Director de Atención a Personas con Discapacidad.
 
-c) El titular del Departamento de Adopciones;
+c) El Titular del Departamento de la Defensa de la Infancia y la Familia.
 
-d) El titular de Casa de Ángeles;
+d) El Titular del Departamento de Adopciones.
 
-e) El Titular de Casa de la Niñez Poblana;
+e) El Titular de Casa de Ángeles.
 
-f) El Titular de la Casa del Adolescente;
+f) El Titular de Casa de la Niñez Poblana.
 
-g) El titular de la Casa de la Niñez Tehuacán;
+g) El Titular de la Casa del Adolescente.
 
-h) El titular del Albergue Psiquiátrico Infantil;
+h) El Titular de la Casa de la Niñez Tehuacán.
 
-i) Un médico pediatra adscrito al SEDIF;
+i) El Titular del Albergue Psiquiátrico Infantil.
 
-j) Un psiquiatra adscrito al SEDIF, y
+j) Un médico pediatra adscrito al SEDIF.
 
-k) Un psicólogo adscrito al SEDIF.
+k) Un psiquiatra adscrito al SEDIF.
+
+l) Un psicólogo adscrito al SEDIF.
 
 IV. Los asesores que al efecto se inviten por el Presidente del Consejo Técnico, serán:
 
-a) Un representante del Tribunal Superior de Justicia del Estado;
+a) Un representante del Tribunal Superior de Justicia del Estado.
 
-b) Un representante de la Fiscalía General del Estado, y
+b) Un representante de la Fiscalía General del Estado.
 
 c) El titular de la Casa de Asistencia Privada que con autorización y convenio suscrito con el SEDIF, alberga a la niña, niño, adolescente o incapaz, propuesto para adopción.
 
-Los integrantes del Consejo Técnico señalados en las fracciones I, II y III del presente artículo, contarán con derecho a voz y voto, los asesores contarán únicamente con derecho a voz y en caso de empate el Presidente tendrá voto de calidad.
+Los integrantes del Consejo Técnico señalados en las fracciones I, II y III del presente artículo, contarán con derecho a voz y voto, en caso de empate el Presidente tendrá voto de calidad; los asesores contarán únicamente con derecho a voz.
 
 A través del Presidente, podrán invitarse a participar en las sesiones del Consejo Técnico a cuatro especialistas en las disciplinas que lo integran, quienes tendrán derecho a voz pero no a voto.
 
 El Presidente del Patronato del SEDIF podrá acudir a las sesiones del Consejo Técnico, con derecho a voz.
 
-El Consejo Técnico sesionará válidamente cuando concurran la mitad más uno de sus integrantes, dentro de los cuales deberá estar invariablemente el Presidente del Consejo Técnico. Los demás integrantes podrán designar un suplente que lo sustituya en sus ausencias; la designación deberá hacerse por escrito del propio integrante.
+El Consejo Técnico sesionará ordinariamente de forma trimestral, siendo válida cuando concurran la mitad más uno de sus integrantes, dentro de los cuales deberá estar invariablemente el Presidente del Consejo Técnico. Los demás integrantes podrán designar un suplente que lo sustituya en sus ausencias; la designación deberá hacerse por escrito del propio integrante.
 
 Las decisiones del Consejo Técnico serán irrevocables y válidas por el voto mayoritario de sus miembros presentes.
 
@@ -755,15 +803,17 @@ El Consejo Técnico actuará conforme a la instrucción del Director General, su
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE MARZO DE 2016)</small>
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
+### CAPÍTULO XI
 
 ###### ARTÍCULO 19.
 
 (DEROGADO, P.O. 1 DE MARZO DE 2016)
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 20.
 
@@ -814,3 +864,19 @@ TERCERO. Todo trámite que se haya iniciado o se encuentre en proceso de resoluc
 CUARTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a unidades administrativas que se desaparecen, se crean o modifican su denominación, se entenderá atribuida a las unidades administrativas a que se refiere el presente ordenamiento y a las que atribuya la competencia específica que en cada caso se relacione.
 
 QUINTO. Dentro de los sesenta días siguientes a la publicación del presente Decreto, las unidades administrativas del SEDIF deberán llevar a cabo la transferencia de los asuntos a su cargo, a las que le sean conferidas las facultades que correspondan, conforme a este Reglamento.
+
+P.O. 6 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Derivado de la entrada en vigor del presente Reglamento, las unidades administrativas del SEDIF deberán realizar las modificaciones conducentes en los sellos, declaraciones, avisos, manifiestos y demás documentos oficiales que utilizan para el adecuado desarrollo de sus funciones.
+
+TERCERO. Los asuntos que se refieran a actos o resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente Decreto, se tramitarán, resolverán, defenderán y en general, serán de la competencia de la unidad administrativa de la del SEDIF a la que le sean conferidas las facultades que correspondan conforme a este Reglamento.
+
+CUARTO. Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra de las que el mismo establece, o cuando se cambie su adscripción, el personal, el archivo, el mobiliario y en general, el equipo que aquélla haya utilizado, pasarán a la unidad competente.
+
+QUINTO. En tanto se expidan o modifiquen los manuales administrativos, el Director General está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
