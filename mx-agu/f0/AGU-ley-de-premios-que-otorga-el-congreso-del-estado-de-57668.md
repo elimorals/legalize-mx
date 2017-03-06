@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-premios-que-otorga-el-congreso-del-estado-de-57668"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2015-06-15"
+last_updated: "2017-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -49,7 +49,9 @@ LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
 La presente Ley tiene por objeto regular los casos, términos y condiciones para aquellas personas que por su conducta, méritos, obras o virtudes, reciban el reconocimiento por parte del Congreso del Estado y los premios que la presente Ley establece.
 
-Los premios se otorgarán en el tercer año de ejercicio constitucional de la Legislatura correspondiente, en sesión solemne que será convocada para el día veintidós de octubre.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2017)</small>
+
+Los premios se otorgarán en el tercer año de ejercicio constitucional de la Legislatura correspondiente, en sesión solemne que será convocada para el día seis de septiembre.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -209,7 +211,9 @@ ARTÍCULO 12 SEXIES.- La medalla "Mujer Aguascalentense" se otorgará a la mujer
 
 La Comisión de Postulaciones es el órgano del Congreso del Estado que le corresponde el conocimiento, trámite y dictamen que proponga a la persona ante el Pleno Legislativo para el otorgamiento de los premios establecidos en la presente Ley.
 
-La Comisión de Postulaciones, se constituirá al inicio de cada Legislatura del Congreso del Estado, se integrará con un Diputado representante de cada una de las fuerzas políticas con presencia en el Congreso del Estado, siendo Presidente el perteneciente al Grupo Parlamentario con mayor número de Diputados.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2017)</small>
+
+La Comisión de Postulaciones se constituirá al inicio de cada Legislatura del Congreso del Estado y se integrará con un Diputado representante de cada una de las fuerzas políticas con presencia en el Congreso del Estado. Para su funcionamiento contará con una Mesa Directiva integrada por un Presidente, perteneciente al Grupo Parlamentario con mayor número de Diputados, un Secretario, y el resto de los integrantes como Vocales; éstos suplirán las ausencias del Presidente y Secretario.
 
 La Secretaría General, será el órgano auxiliar para que la Comisión cumpla con sus funciones, y será la responsable de llevar en los libros autorizados, los registros de las personas condecoradas con las anotaciones correspondientes y el archivo respectivo.
 
@@ -253,9 +257,11 @@ IV. La Comisión de Postulaciones, al evaluar los méritos y trayectoria de los 
 
 Los expedientes de las candidaturas se integrarán por la Secretaría General, quien llevará un registro de los mismos.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 18.
 
-Las sesiones de la Comisión de Postulaciones serán secretas. La sesión del Pleno del Congreso del Estado en las que se discutan y voten los dictámenes de la Comisión se celebrarán en el mes de julio del año de la premiación.
+Las sesiones de la Comisión de Postulaciones serán secretas. Las sesiones del Pleno del Congreso en la que se discutan y voten los dictámenes de la Comisión, se celebrarán en el mes de junio del año de la premiación.
 
 ###### ARTÍCULO 19.
 
@@ -318,3 +324,25 @@ P.O. 15 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 67.- SE REFORMA LA LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo lo dispuesto por el Artículo Segundo Transitorio.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el caso de la Legislatura que inició sus funciones el 15 de noviembre de 2016 y habrá de concluirlas el 14 de septiembre de 2018, se entenderá que los premios a que hace referencia el artículo 4° de esta Ley, se otorgarán en el segundo año de su ejercicio constitucional de conformidad a lo siguiente:
+
+I.- El Congreso del Estado, por conducto de la Comisión de Postulaciones, emitirá en el mes de abril del año 2017 la convocatoria correspondiente.
+
+II.- La Comisión de Postulaciones emitirá el dictamen correspondiente para su análisis, discusión y votación del Pleno (sic) Congreso del Estado en el mes de septiembre de 2017.
+
+III.- Los premios de la Sexagésima Tercera Legislatura se otorgarán en el segundo año de ejercicio constitucional en sesión solemne que será convocada el 22 de octubre del año 2017.
+
+###### ARTÍCULO TERCERO.
+
+Quedan derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
