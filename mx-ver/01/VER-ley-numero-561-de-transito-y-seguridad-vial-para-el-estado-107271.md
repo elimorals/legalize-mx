@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-561-de-transito-y-seguridad-vial-para-el-estado-1072
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-13"
-last_updated: "2015-04-13"
+last_updated: "2017-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 13 de abril de 2015.
 
@@ -449,11 +449,11 @@ VIII. Las demás actividades que determinen esta Ley u otras disposiciones legal
 
 ### CAPÍTULO II. DE LAS SEÑALES PARA EL CONTROL DE LA SEGURIDAD VIAL
 
+> <small>(REFORMADO, G.O. 7 DE MARZO DE 2017)</small>
+
 ###### Artículo 23.
 
-Únicamente la Secretaría, a través de la Dirección, y en su caso los ayuntamientos en el ejercicio de sus atribuciones y atendiendo a las necesidades inherentes, podrán colocar en la vía pública las señales, dispositivos, objetos electrónicos, mecánicos y de innovación tecnológica que se requieran para facilitar el tránsito adecuado de vehículos y su aparcamiento.
-
-La Dirección, por sí o a través de terceros, podrá utilizar dispositivos tecnológicos, como medios fotográficos, de video y demás, que permitan verificar el cumplimiento de las disposiciones de la presente Ley y su Reglamento, así como las conductas contrarias a los mismos.
+Únicamente la Secretaría, a través de la Dirección, y en su caso, los ayuntamientos en el ejercicio de sus atribuciones y atendiendo a las necesidades inherentes, podrán colocar en la vía pública las señales, dispositivos, objetos electrónicos, mecánicos y de innovación tecnológica que se requieran para facilitar el tránsito adecuado de vehículos y su aparcamiento, así como verificar el cumplimiento de la presente Ley y su Reglamento.
 
 ###### Artículo 24.
 
@@ -1705,7 +1705,7 @@ II. El retiro del vehículo de la vía pública, siempre que éste constituya un
 
 a) Conforme a los datos existentes en el padrón vehicular, la autoridad ejecutora notificará a los propietarios el lugar en donde se encuentre depositada la unidad; de ser imposible la localización del propietario, la notificación se realizará por estrados y en ambos casos en la página electrónica de la autoridad que corresponda.
 
-b) Los vehículos retirados permanecerán en el depósito en tanto lo propietarios se presenten y acrediten su propiedad; y
+b) Los vehículos retirados permanecerán en el depósito en tanto los propietarios se presenten y acrediten su propiedad; y
 
 c) En el caso de los vehículos abandonados que hayan sido instrumento, objeto o producto de un delito, se procederá conforme a lo dispuesto en la Ley de Extinción de Dominio para el Estado.
 
@@ -1850,3 +1850,15 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 254 QUE REFORMA EL ARTÍCULO 23 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Ejecutivo del Estado, en un plazo de sesenta días naturales, expedirá las adecuaciones necesarias al Reglamento de la Ley de Tránsito y Seguridad Vial para el estado de Veracruz de Ignacio de la Llave.
