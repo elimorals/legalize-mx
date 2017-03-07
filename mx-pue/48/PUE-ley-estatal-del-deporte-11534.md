@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2016-08-04"
+last_updated: "2017-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -71,9 +71,11 @@ LEY ESTATAL DEL DEPORTE
 
 ### CAPITULO I. DEL OBJETO DE LA LEY
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones de esta Ley, son de orden público e interés social y tienen por objeto establecer el Sistema Estatal del Deporte, así como las bases para su funcionamiento, con el fin de coadyuvar en la formación y desarrollo integral de los habitantes del Estado de Puebla en las actividades relacionadas con el deporte y la cultura física.
+Las disposiciones de esta Ley, son de orden público e interés social y tienen por objeto establecer el Sistema Estatal del Deporte, así como las bases para su funcionamiento, con el fin de coadyuvar en la formación y desarrollo integral de los habitantes del Estado de Puebla en las actividades relacionadas con el deporte, la cultura física y la activación física.
 
 ###### ARTICULO 2.
 
@@ -171,11 +173,11 @@ Es de interés social la construcción, conservación y mantenimiento de las ins
 
 ### CAPITULO II. DEL CONSEJO ESTATAL DEL DEPORTE
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 12.
 
-El Consejo Estatal del Deporte, es un órgano de opinión en materia de cultura física y deporte; su función primordial consistirá en asesorar a las entidades y organismos de los sectores público, social y privado que fomenten u organicen actividades deportivas de cualquier índole, además de proponer a la Secretaría de Educación Pública del Estado, las políticas y acciones que deban ejecutarse, con el objeto de que la mayor parte de la población tenga acceso a los beneficios de dichas actividades.
+El Consejo Estatal del Deporte, es un órgano de opinión en materia de activación física, cultura física y deporte; su función primordial consistirá en asesorar a las entidades y organismos de los sectores público, social y privado que fomenten u organicen actividades deportivas de cualquier índole, además de proponer a la Secretaría de Educación Pública del Estado, las políticas y acciones que deban ejecutarse, con el objeto de que la mayor parte de la población tenga acceso a los beneficios de dichas actividades.
 
 ###### ARTICULO 13.
 
@@ -201,7 +203,9 @@ Los integrantes del Consejo Estatal del Deporte, participarán en él de manera 
 
 Son facultades del Consejo Estatal del Deporte:
 
-I.- Servir como órgano asesor en materia del deporte y cultura física;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2017)</small>
+
+I.- Servir como órgano asesor en materia del deporte, cultura física y activación física;
 
 II.- Proponer al Gobernador del Estado las políticas deportivas a implantarse en el Estado;
 
@@ -213,7 +217,9 @@ V.- Formular su reglamento y asesorar a los Consejos Municipales en la elaboraci
 
 VI.- Proponer y realizar estudios e investigaciones en materia deportiva, considerando los deportes locales, regionales y tradicionales;
 
-VII.- Evaluar permanentemente la práctica del deporte y la cultura física en el Estado, proponiendo los lineamientos que considere adecuados para el cumplimiento de los fines de esta Ley;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2017)</small>
+
+VII.- Evaluar permanentemente la práctica del deporte, la cultura física y la activación física en el Estado, proponiendo los lineamientos que considere adecuados para el cumplimiento de los fines de esta Ley;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
 
@@ -279,9 +285,9 @@ X.- El otorgamiento de apoyos económicos o de equipamiento a las Asociaciones D
 
 XI.- La concertación con asociaciones deportivas, con el fin de que éstas se organicen debidamente;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2017)</small>
 
-XII.- Los mecanismos necesarios para impulsar el desarrollo del deporte y la cultura física, para adultos mayores y personas con discapacidad, así como otorgar especial atención en estas materias, en el sector social;
+XII.- Los mecanismos necesarios para impulsar el desarrollo del deporte, la cultura física y la activación física para adultos mayores y personas con discapacidad, así como otorgar especial atención en estas materias, en el sector social; y
 
 XIII.- La creación del Salón de Honor del Deportista Poblano.
 
@@ -347,9 +353,11 @@ XII.- Participar, en los programas que se deriven de los Sistemas Nacional y Est
 
 ### CAPITULO II. DE LOS CONSEJOS MUNICIPALES DEL DEPORTE
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 22.
 
-Los Consejos Municipales del Deporte y Atención a la Juventud, tendrán como función principal la de ejecutar las facultades que esta Ley determina, así como las demás que sean necesarias para el fomento del deporte, la cultura física y atención a la juventud en sus respectivos territorios.
+Los Consejos Municipales del Deporte y Atención a la Juventud, tendrán como función principal la de ejecutar las facultades que esta Ley determina, así como las demás que sean necesarias para el fomento del deporte, la cultura física y la activación física y atención a la juventud en sus respectivos territorios.
 
 ###### ARTICULO 23.
 
@@ -694,5 +702,13 @@ P.O. 4 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y DE LA LEY ESTATAL DEL DEPORTE, EN MATERIA DE “VIOLENCIA EN EVENTOS DEPORTIVOS O DE ESPECTÁCULOS”.]
 
 PRIMERO. El presente Decreto, entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 1, 12, LAS FRACCIONES I Y VII DEL 14, LA FRACCIÓN XII DEL 18 Y EL ARTÍCULO 22 DE LA LEY ESTATAL DEL DEPORTE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
