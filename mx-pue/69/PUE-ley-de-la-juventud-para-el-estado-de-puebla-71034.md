@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2015-10-20"
+last_updated: "2017-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -61,7 +61,9 @@ Son principios rectores en la observancia, interpretación y aplicación de esta
 
 I.- Universalidad: Las acciones en política de juventud deben ir destinadas en beneficio de la generalidad de los jóvenes a que se refiere el artículo 2 del presente ordenamiento, sin distinción del origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana, reconociéndose como característica esencial de este sector de población, su pluralidad en todos esos ámbitos;
 
-II.- Igualdad: Todas las y los jóvenes tienen derecho al acceso en igualdad de condiciones a los programas y acciones que les afecten, teniendo especial consideración con aquéllos que viven en zonas rurales y en circunstancias de vulnerabilidad;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2017)</small>
+
+II.- Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
 III.- Solidaridad: Deberá fomentarse la solidaridad en las relaciones entre los jóvenes y los grupos sociales, con la finalidad de superar las condiciones que crean marginación y desigualdades;
 
@@ -800,5 +802,13 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 P.O. 20 DE OCTUBRE DE 2015.
 
 PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 3 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
