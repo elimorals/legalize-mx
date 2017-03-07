@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-proteccion-e-inclusion-de-las-personas-con-22515"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2016-12-17"
+last_updated: "2017-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 15 de mayo de 1996.
 
@@ -349,11 +349,11 @@ La orientación y tratamiento psicológico tendrán en cuenta las característic
 
 ### Capítulo IV. Rehabilitación socioeconómica y laboral, y del empleo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2017)</small>
 
 ###### Artículo 23.
 
-El Consejo Estatal, el Sistema Estatal de Empleo y Sistema para el Desarrollo Integral de la Familia en el Estado, en coordinación con las dependencias federales relacionadas con la materia promoverá la integración de las personas con discapacidad en el sistema ordinario de trabajo o, en su caso, la incorporación al sistema productivo en Talleres y Centros Especiales de Empleo.
+El Consejo Estatal, el Sistema Estatal de Empleo y el Sistema para el Desarrollo Integral de la Familia en el Estado, en coordinación con las dependencias estatales y federales relacionadas con la materia fomentarán las condiciones que propicien la inclusión laboral de las personas con discapacidad, tendiente al logro de su independencia económica para alcanzar un desarrollo pleno y disfrutar de una vida digna e independiente, promoviendo para el caso su integración en el sistema ordinario de trabajo o, bien, la incorporación al sistema productivo en Talleres y Centros Especiales de Empleo.
 
 A este efecto, promoverá la capacitación de las personas con discapacidad con el fin de permitir e incrementar su inserción en el mercado de trabajo.
 
@@ -363,11 +363,41 @@ A este efecto, promoverá la capacitación de las personas con discapacidad con 
 
 El Consejo Estatal, el Sistema Estatal de Empleo y el Sistema Estatal para el Desarrollo Integral de la Familia implementarán programas de capacitación dirigidos a las personas con discapacidad se lleven a cabo de acuerdo a las necesidades de éstas y a los requerimientos de la planta laboral o las posibilidades de empleo.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+Artículo 24 bis.- Las personas con discapacidad tienen derecho al trabajo y la capacitación, en términos de igualdad de oportunidades y equidad. Para tales efectos, la Secretaría del Trabajo Productividad y Desarrollo Económico y demás autoridades competentes establecerán entre otras, las siguientes medidas:
+
+I. Promover el establecimiento de políticas estatales en materia de trabajo encaminadas a la inclusión laboral de las personas con discapacidad, a fin de garantizar que en ningún caso la discapacidad sea motivo de discriminación para la selección, contratación y continuidad en el empleo;
+
+II. Proteger los derechos laborales de las personas con discapacidad, en equidad de condiciones que el resto de los trabajadores, incluyendo oportunidades escalafonarias y de remuneración;
+
+III. Fomentar becas económicas de capacitación para el trabajo;
+
+IV. Promover programas de capacitación para el empleo y el desarrollo de actividades productivas destinadas a personas con discapacidad;
+
+V. Fomentar programas estatales de trabajo y capacitación para personas con discapacidad a través de convenios con los sectores empresariales, sector público y privado, universidades, entidades públicas, organismos sociales, sindicatos y empleadores, que propicien el acceso al trabajo, incluyendo la creación de agencias de integración laboral, centros de trabajo protegido, talleres, asistencia técnica y becas económicas temporales;
+
+VI. Formular y ejecutar programas específicos de incorporación de personas con discapacidad como servidores públicos;
+
+VII. Fomentar la capacitación y sensibilización al personal que trabaje con personas con discapacidad en el sector público y privado;
+
+VIII. Promover medidas a efecto de que las obligaciones laborables no interrumpan el proceso de rehabilitación de las personas con discapacidad;
+
+IX. Promover el autoempleo de las personas con discapacidad, y
+
+X. Salvaguardar el ejercicio de los derechos laborales de las personas con discapacidad, incluso para aquellas que adquieran una discapacidad durante el empleo.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+Artículo 24 ter.- La Secretaría del Trabajo Productividad y Desarrollo Económico del Estado, fomentará convenios con empresas para el desarrollo de estrategias de formación en el trabajo, y para desarrollar programas tendientes a la capacitación y actualización continua de las personas con discapacidad.
+
+Las autoridades estatales y municipales competentes convocarán a las organizaciones no gubernamentales, a los empresarios y sus representantes, los sindicatos y el sector social, para que impulsen programas de capacitación e integración laboral para personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
 
 ###### Artículo 25.
 
-Corresponderá al Consejo Estatal, al Sistema Estatal de Empleo, y la Secretaría de Desarrollo Económico, facilitar la relación entre los organismos de capacitación con las empresas y oficinas públicas y privadas, con el objeto de dar colocación en puestos de trabajo a personas con discapacidad.
+Corresponderá al Consejo Estatal, al Sistema Estatal de Empleo, y la Secretaría del Trabajo Productividad y Desarrollo Económico del Estado, facilitar la relación entre los organismos de capacitación con las empresas y oficinas públicas y privadas, con el objeto de dar colocación en puestos de trabajo a personas con discapacidad.
 
 ###### Artículo 26.
 
@@ -573,7 +603,9 @@ I.- Un Secretario Ejecutivo designado por el Gobernador del Estado;
 
 II.- El Secretario General de Gobierno;
 
-III.- El Secretario de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2017)</small>
+
+III.- El Secretario de Trabajo, Productividad y Desarrollo Económico;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
 
@@ -583,7 +615,9 @@ V.- El titular del Sistema Estatal para el Desarrollo Integral de la Familia;
 
 VI.- El Secretario de Obras Públicas;
 
-VII.-El Secretario de Planeación;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2017)</small>
+
+VII.- El Secretario de Planeación, Programación y Presupuesto;
 
 VIII.- El Secretario de Salud;
 
@@ -843,7 +877,7 @@ Dip. Secretario
 
 Lorenzo del Toro Vargas
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 17 DE AGOSTO DE 2002
 
@@ -906,3 +940,9 @@ P.O. 17 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 7 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
