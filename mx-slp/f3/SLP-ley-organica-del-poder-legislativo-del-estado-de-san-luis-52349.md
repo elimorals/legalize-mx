@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2016-12-20"
+last_updated: "2017-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1789,6 +1789,10 @@ b) La Coordinación de Asesoría y Secretariado Técnico de Comisiones, dependie
 
 c) La Coordinación de Asuntos Jurídicos, dependiente de la Directiva: a la que corresponde la atención de los asuntos jurídico contenciosos en los que el Congreso sea parte, así como la representación jurídica del mismo en asuntos laborales, y los demás que determine el Reglamento; asimismo, la asesoría en los asuntos de orden constitucional, administrativo, laboral, civil, penal y en los demás aspectos legales que atañen al Congreso; de la que dependerá la Unidad de Notificaciones: a la que corresponde el desahogo de las notificaciones, emplazamientos, citaciones, requerimientos y demás diligencias análogas, con motivo de los procedimientos administrativos y ejercicio de atribuciones legislativas que competen al Congreso del Estado directamente, o por conducto de alguno de sus órganos.
 
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+Los notificadores tendrán fe pública en el ejercicio de sus funciones.
+
 d) La Coordinación de Comunicación Social, dependiente de la Directiva: a la que corresponde la difusión de las actividades institucionales y de la legislación del Estado; la edición bimestral impresa de la Gaceta Parlamentaria; así como el apoyo en las relaciones públicas del Congreso.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
@@ -2420,6 +2424,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0456.- SE REFORMA EL ARTÍCULO 82 EN SU FRACCIÓN IX, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0580.- SE ADICIONA AL ARTÍCULO 126 EN SU FRACCIÓN II INCISO C) PÁRRAFO SEGUNDO, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
