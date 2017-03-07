@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-juventud-del-estado-de-nayarit-70348"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2009-09-19"
+last_updated: "2017-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA JUVENTUD DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 19 de septiembre de 2009.
 
@@ -99,9 +99,63 @@ Los jóvenes tienen derecho a un trabajo digno y bien remunerado que les permita
 
 Tratándose de jóvenes en edad de trabajar y en situación de desventaja social, el Instituto promoverá los mecanismos de colaboración y fomentará programas de protección para los jóvenes menores de edad que tengan necesidad de trabajar, en los términos de la Ley Federal del Trabajo y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+Artículo 4 bis.- La Secretaría de Educación del Estado, promoverá el desarrollo de competencias laborales, teniendo como finalidad la inclusión de los recién egresados en los sectores productivos.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+Artículo 4 ter.- Los poderes del Estado, los ayuntamientos, los organismos constitucionales autónomos, en los ámbitos de sus competencias, así como el sector social y privado, impulsarán el servicio social y las prácticas profesionales del sector educativo, como vínculo para generar el desarrollo profesional y laboral de los jóvenes, acercándolos a la oportunidad de conseguir su primer empleo.
+
 ###### Artículo 5.
 
 El Instituto deberá promover la creación y protección del empleo de la juventud bajo el principio de igualdad de oportunidades, consolidando su incorporación a la actividad económica mediante una ocupación específica y formal. Para ello celebrará convenios con empresas e industrias del sector público o privado a fin de implementar un programa permanente de bolsa de trabajo bajo una perspectiva que permita al joven trabajar sin necesidad de abandonar o suspender sus estudios.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+Artículo 5 bis.- El Estado y los ayuntamientos en sus ámbitos de competencia fomentarán planes y programas, estrategias y líneas de acción para impulsar el empleo juvenil, bolsas de trabajo, capacitación laboral, financiamiento para proyectos productivos, el autoempleo, así como políticas públicas en coordinación con el gobierno federal, que promuevan la oportunidad de trabajo para los jóvenes.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+Artículo 5 ter.- El Estado y los ayuntamientos dentro de sus respectivas competencias fomentarán el desarrollo de políticas públicas que permitan a los jóvenes acceder a su primer empleo, atendiendo de manera especial a quienes se encuentren temporalmente desocupados.
+
+Las funciones que desempeñe un empleado joven en su primer empleo deberán ser adecuadas a su nivel de formación y preparación académica.
+
+Las empresas que contraten a jóvenes en la modalidad de primer empleo podrán recibir los beneficios y estímulos económicos que en su caso señale la normatividad fiscal y económica.
+
+El Ejecutivo del Estado, a través de la Secretaría del Trabajo, Productividad y Desarrollo Económico y los ayuntamientos en los ámbitos que les corresponden, impulsarán programas, acciones e instrumentos necesarios, para la capacitación adecuada, así como para la inserción laboral, acordes a las necesidades de las y los jóvenes residentes en la entidad, asimismo podrán fomentar acuerdos con organismos públicos, empresas privadas y organizaciones de la sociedad civil, a fin de crear más y mejores espacios para la realización de su servicio social y prácticas profesionales.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+Artículo 5 quáter.- Las políticas de empleo juvenil que formulen el Estado y los ayuntamientos, dirigidas a menores de edad, deberán observar las normas de protección especial y supervisión exhaustiva que impone la legislación nacional e internacional.
+
+Bajo ninguna circunstancia se permitirá a los menores de edad desempeñar un empleo que obstaculice o retarde su desarrollo físico, mental o emocional.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+Artículo 5 quintus.- Las dependencias y entidades de los gobiernos estatal y municipales, impulsarán los proyectos productivos y empresariales de los jóvenes; adoptando las medidas apropiadas para promover y proteger los derechos de los jóvenes trabajadores conforme a la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+Artículo 5 sextus.- Las políticas de promoción del empleo juvenil se dirigirán al logro de los siguientes objetivos:
+
+I. Fomentar que los jóvenes adquieran conocimientos prácticos sin suspender sus estudios;
+
+II. Impulsar oportunidades de trabajo dirigidas a la población joven, considerando siempre las particularidades de los distintos grupos poblacionales;
+
+III. Promover su incorporación a la actividad económica mediante una ocupación específica y formal, impulsando su contratación en el sector público y privado;
+
+IV. Fomentar el desarrollo de pasantías remuneradas, vinculadas a la formación profesional;
+
+V. Incentivar créditos para que los jóvenes puedan desarrollar sus proyectos productivos individuales o colectivos;
+
+VI. Asegurar la no discriminación en el empleo y las mejores condiciones laborales a las jóvenes embarazadas, madres lactantes y jóvenes con discapacidad;
+
+VII. Respetar y cumplir con los derechos laborales y la seguridad social e industrial;
+
+VIII. Impulsar el empleo en el área rural, a partir de políticas económicas que promuevan el desarrollo de ese sector, y
+
+IX. Establecer mecanismos para garantizar los derechos de los jóvenes en el área laboral, sin discriminación de ningún tipo.
 
 #### Sección Segunda. Del derecho a la salud
 
@@ -383,11 +437,15 @@ III.- El presidente de la Comisión de Niñez, Juventud y Deporte del Congreso d
 
 IV.- Vocales con conocimiento en la materia, que serán designados por las siguientes instituciones:
 
-a) La Secretaría de Planeación;
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
+
+a) Secretaría de Planeación, Programación y Presupuesto;
 
 b) El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-c) El Instituto del Deporte del Estado;
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
+
+c) Instituto Nayarita de Cultura Física y Deporte;
 
 d) El Consejo Estatal para la Cultura y las Artes de Nayarit;
 
@@ -513,19 +571,29 @@ I.- Un Presidente que será el Gobernador del Estado, o la persona que designe;
 
 II.- Un Secretario que será el Director General; y
 
+> <small>[N. DE E. EL DECRETO PUBLICADO EN EL P.O. 7 DE MARZO DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DE LA PRESENTE FRACCIÓN.]</small>
+
 III.- Vocales que serán los titulares de las siguientes instituciones:
 
-a) Secretaría de Educación Básica;
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
 
-b) Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica;
+a) Secretaría de Educación;
 
-c) Secretaría de Salud;
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
 
-d) Secretaría de Desarrollo Económico;
+b) Secretaría de Salud;
 
-e) Secretaría (sic) Finanzas; y
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
 
-f) Sistema Estatal para el Desarrollo Integral de la Familia.
+c) Secretaría del Trabajo, Productividad y Desarrollo Económico;
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
+
+d) Secretaría de Administración y Finanzas, y
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
+
+e) Sistema Estatal para el Desarrollo Integral de la Familia.
 
 Los integrantes desempeñarán su encargo de manera honorífica, por lo que no percibirán retribución o compensación alguna y deberán nombrar un suplente para que los sustituya en sus ausencias, a excepción del Director General.
 
@@ -728,3 +796,11 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez" recinto oficial del H. Congres
 Dip. Manuel Narváez Robles, Presidente.- Rúbrica.- Dip. Jesús Castañeda Tejeda, Secretario.- Rúbrica.- Dip. Luis Alberto Salinas Cruz, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los dieciocho días del mes de septiembre del año dos mil nueve.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA LA JUVENTUD DEL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
