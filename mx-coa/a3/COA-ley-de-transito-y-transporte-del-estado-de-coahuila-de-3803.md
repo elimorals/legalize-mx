@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "2016-08-09"
+last_updated: "2017-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -76,6 +76,14 @@ III.- Concesión: Acto administrativo a través del cual la Administración Púb
 IV.- Permiso: Acto mediante el cual la autoridad faculta a una persona para ejercer un derecho preexistente; y
 
 V.- Registro: El Registro Público de Transporte del Estado de Coahuila.
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2017)</small>
+
+VI. Empresas de Redes de Transporte: Aquellas sociedades mercantiles constituidas conforme a las leyes mexicanas que intermedian el acuerdo entre usuarios y conductores prestadores del servicio de transporte entre particulares a través de aplicaciones móviles.
+
+También podrán ser consideradas como Empresas de Redes de Transporte aquellas sociedades que, por virtud de acuerdos comerciales vigentes, promuevan el uso de tecnologías o aplicaciones tecnológicas, propias o de terceros que permitan mediar el acuerdo entre usuarios y conductores prestadores de servicios de transporte entre particulares.
+
+Los prestadores del servicio público de transporte de pasajeros podrán hacer uso de plataformas tecnológicas complementarias para contactar con usuarios sin necesidad de obtener el registro a que se refiere el artículo 39-B de la presente Ley.
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES Y AUXILIARES DE TRANSITO Y TRANSPORTE
 
@@ -375,11 +383,157 @@ Los propietarios de vehículos acreditarán que los mismos han satisfecho las no
 
 Los vehículos que rebasen los límites máximos permisibles establecidos en las normas técnicas ecológicas serán retirados de la circulación, sin perjuicio de la aplicación de las sanciones que correspondan.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MARZO DE 2017)</small>
+
+### CAPÍTULO CUARTO BIS. DEL SERVICIO DE TRANSPORTE ENTRE PARTÍCULARES
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 39-A.
+
+El servicio de transporte entre particulares es aquél que se presta por conductores vinculados a una Empresa de Redes de Transporte o una empresa relacionada, filial o subsidiaria de la misma, cualquiera de las cuales este registrada en la Secretaría a usuarios previamente registrados en la plataforma tecnológica promovida, administrada u operada por la Empresa de Redes de Transporte.
+
+Este servicio no estará sujeto a itinerarios, rutas, horarios fijos, cromática, placas especiales o regulación tarifaria.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 39-B.
+
+El servicio de transporte entre particulares se prestará en vehículos particulares que, sin estar sujetos al otorgamiento de una concesión, permiso o autorización por parte de la Secretaría o de los Municipios, deberán estar registrados en una Empresa de Redes de Transporte o una empresa relacionada, filial o subsidiaria de la misma que a su vez cuente con registro para su funcionamiento otorgado por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 39-C.
+
+Para obtener el registro a que hace referencia el artículo anterior, las Empresas de Redes de Transporte deberán proporcionar la información siguiente:
+
+a) Acta constitutiva, teléfono, correo electrónico y comprobante de domicilio;
+
+b) Documento que acredite la designación del representante legal;
+
+c) Registro Federal de Contribuyentes;
+
+d) Relación de los conductores y los vehículos registrados en la plataforma;
+
+e) Realizar el pago de derechos de conformidad con la legislación aplicable;
+
+f) Modelo de póliza de seguro con cobertura amplia para responder por los daños y perjuicios causados durante la prestación del servicio de transporte entre particulares.
+
+Las Empresas de Redes de Transporte deberán cubrir las contribuciones y aportaciones que se establezcan en las disposiciones legales fiscales del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 39-D.
+
+El registro para el funcionamiento de las Empresas de Redes de Transporte tendrá una vigencia de cinco años y podrán renovarse siempre y cuando la Empresa de Redes de Transporte haya cumplido con todos los requisitos establecidos por esta Ley, previo el pago de derechos que correspondan establecidos de conformidad en la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 39-E.
+
+Los vehículos que presten el servicio de transporte entre particulares deberán estar registrados ante las Empresas de Redes de Transporte o una empresa relacionada, filial o subsidiaria de la misma, para lo cual deberán cubrir los siguientes requisitos:
+
+I. Contar con las medidas y características propias de al menos un auto sedan, aire acondicionado, frenos antibloqueo, cinturones de seguridad para todos los pasajeros y bolsas de aire delanteras todos funcionales;
+
+II. Antigüedad máxima de 5 años;
+
+III. Tarjeta de circulación vehicular y placas del Estado de Coahuila de Zaragoza;
+
+IV. Comprobante del pago de derechos de control vehicular del año en curso en el Estado de Coahuila de Zaragoza;
+
+V. Comprobante de verificación vehicular vigente;
+
+VI. Póliza de seguro que cubra la responsabilidad civil por daños, lesiones o muerte de los usuarios y de terceros, y
+
+Estar al corriente en el pago de sus obligaciones fiscales.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 39-F.
+
+Las Empresas de Redes de Transporte tendrán las siguientes obligaciones:
+
+I. Obtener el registro a que hace referencia el artículo 39-B de la Ley;
+
+II. Verificar que los vehículos registrados cumplan con lo dispuesto en el artículo anterior y satisfagan las condiciones mecánicas y de seguridad previstas en el reglamento de esta Ley;
+
+III. Prestar todas las facilidades e información que le requieran las autoridades estatales y municipales en el ejercicio de sus funciones siempre que dicha solicitud sea por escrito;
+
+IV. Contar con un seguro de cobertura amplia a efecto de responder de manera solidaria con el conductor de redes de transporte de los daños y perjuicios causados durante la prestación del servicio;
+
+V. Dar aviso a la autoridad correspondiente de las altas y bajas de conductores y vehículos ocurridas en su plataforma;
+
+VI. Aplicar controles de revisión para los conductores, según determine cada plataforma;
+
+VII. Capacitar a sus conductores para la prestación del servicio;
+
+VIII. Aportar el 1.5 % por cada viaje realizado, al fondo para el auto de alquiler, la movilidad y el peatón, en la forma y términos que se establezca en el convenio que deberá celebrar la Empresa de Redes de Transporte con el municipio en que se preste el servicio.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 39-G.
+
+Son obligaciones de los conductores del servicio particular de transporte las siguientes:
+
+I. Contar con licencia de conducir tipo A;
+
+II. Portar en todo momento:
+
+a) Tarjeta de circulación del vehículo;
+
+b) El documento físico o electrónico que acredite su registro ante la Empresa de Redes de Transporte o una empresa relacionada, filial o subsidiaria de la misma;
+
+c) Copia de la póliza de seguro con cobertura amplia que proteja a los pasajeros y/o usuarios;
+
+III. Aprobar los exámenes y controles que aplique la Empresa de Redes de Transporte;
+
+IV. Respetar las normas de tránsito y vialidad de los municipios en los que presten el servicio.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 39-H.
+
+Queda prohibido a las Empresas de Redes de Transporte:
+
+I. Ofrecer o contratar sus servicios a través de medios distintos a los previstos por el presente capítulo;
+
+II. Permitir que el servicio de transporte entre particulares sea realizado por conductores que no cumplan con los requisitos establecidos por la ley.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 39-I.
+
+Los conductores, bajo ninguna circunstancia, podrán recibir pagos en efectivo u ofrecer el servicio directamente en la vía pública sin la previa contratación del servicio mediante plataforma tecnológica, ni podrán hacer sitio, matriz, base o establecimientos similares.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 39-J.
+
+El pago de este servicio deberá realizarse por cualquier sistema de pago electrónico, y estará sujeto a los requisitos y condiciones que establecen la Ley y los reglamentos.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 39-K.
+
+El registro de las Empresas de Redes de Transporte termina por:
+
+I. Conclusión de su vigencia;
+
+II. Incumplimiento de las obligaciones establecidas en esta Ley;
+
+III. Realización de los supuestos previstos en el artículo 39-H;
+
+IV. Renuncia expresa;
+
+V. Liquidación.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 39-L.
+
+El incumplimiento por parte de los conductores, de las obligaciones previstas en este capítulo será sancionado conforme a las disposiciones legales y reglamentarias aplicables.
+
 ### CAPITULO QUINTO. DEL SERVICIO PUBLICO DE TRANSPORTE
-
-### CAPITULO SEXTO. DE LAS CONCESIONES Y PERMISOS
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 40.
 
@@ -465,7 +619,9 @@ Dichos convenios, para su validez, deberán ser sometidos, previa su celebració
 
 En el supuesto a que se refiere el artículo que antecede, así como para los efectos de cualquier autorización que suponga la posibilidad de que llegue a afectarse el interés de un concesionario legítimamente establecido, la Secretaría oirá a los posibles afectados antes de emitir la resolución que corresponda, atendiendo, para tal efecto, al dictamen que emita el Consejo Consultivo de Transporte o el comité Consultivo Municipal, según corresponda.
 
-### CAPITULO SEPTIMO. DE LA EXTINCION DE LAS CONCESIONES Y PERMISOS
+### CAPITULO SEXTO. DE LAS CONCESIONES Y PERMISOS
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 49.
 
@@ -761,7 +917,7 @@ III.- En caso de extrema urgencia a juicio de la autoridad competente.
 
 La expedición de autorizaciones provisionales fuera de los casos de excepción establecidos en este precepto, será causa de destitución del funcionario o empleado responsable, sin perjuicio de la aplicación de las sanciones que establezcan otras disposiciones legales.
 
-### CAPITULO OCTAVO. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS Y PERMISIONARIOS
+### CAPITULO SEPTIMO. DE LA EXTINCION DE LAS CONCESIONES Y PERMISOS
 
 ###### ARTICULO 77.
 
@@ -845,7 +1001,7 @@ Cuando el concesionario o permisionario no comparezca a la audiencia, se hará c
 
 La autoridad competente, dentro de los cinco días hábiles siguientes a la fecha en que se celebró la audiencia, dictará la resolución que corresponda, debiendo notificar por escrito dicha resolución al concesionario o permisionario contra quien se instauró el procedimiento de cancelación.
 
-### CAPITULO NOVENO. DEL REGISTRO PUBLICO DE TRANSPORTE
+### CAPITULO OCTAVO. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS Y PERMISIONARIOS
 
 ###### ARTICULO 82.
 
@@ -931,7 +1087,7 @@ Los conductores de los vehículos del transporte público de pasajeros estarán 
 
 Las condiciones y requisitos para la práctica de dichos exámenes médicos se determinarán conforme a las disposiciones aplicables.
 
-### CAPITULO DECIMO. DE LOS ITINERARIOS, HORARIOS Y TARIFAS
+### CAPITULO NOVENO. DEL REGISTRO PUBLICO DE TRANSPORTE
 
 ###### ARTICULO 85.
 
@@ -1011,7 +1167,7 @@ Los registros deberán realizarse dentro de los quince días hábiles siguientes
 
 Ningún vehículo del servicio público de transporte podrá circular en las vías públicas si no se encuentra inscrito en el Registro. Las autoridades estatales competentes, y, en su caso, previos los convenios que para tal efecto se suscriban, las autoridades municipales, están facultadas para impedir la circulación de los vehículos en mención.
 
-### CAPITULO DECIMO PRIMERO. DE LA INSPECCION Y VIGILANCIA
+### CAPITULO DECIMO. DE LOS ITINERARIOS, HORARIOS Y TARIFAS
 
 ###### ARTICULO 93.
 
@@ -1119,9 +1275,7 @@ Ningún vehículo del servicio público de transporte de pasajeros o de carga li
 
 El titular del Ejecutivo Estatal, a través de la Secretaría y los Ayuntamientos, en el ámbito de su competencia, podrán dictar las medidas que juzguen necesarias para asegurar la eficacia y cumplimiento de las disposiciones relativas a las normas de seguridad que deban implementarse para la presentación del servicio público de transporte.
 
-### CAPITULO DECIMO SEGUNDO. DEL CONSEJO ESTATAL DE TRANSPORTE
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+### CAPITULO DECIMO PRIMERO. DE LA INSPECCION Y VIGILANCIA
 
 ###### ARTICULO 107.
 
@@ -1189,7 +1343,9 @@ Las autoridades a que se refiere esta Ley no podrán solicitar el otorgamiento d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO DECIMO TERCERO. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO DECIMO SEGUNDO. DEL CONSEJO ESTATAL DE TRANSPORTE
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 115.
 
@@ -1315,9 +1471,7 @@ II.- Un Secretario Técnico, designado por el Presidente del Consejo Municipal;
 
 III.- Vocales, que no serán menos de 10 y más de 25, que estarán representadas, previa invitación y aceptación correspondiente, por aquellos miembros del sector público, social y privado relacionados con la materia objeto de esta Ley.
 
-### CAPITULO DECIMO CUARTO. DE LOS RECURSOS
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+### CAPITULO DECIMO TERCERO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 124.
 
@@ -1453,7 +1607,9 @@ II.- A la persona que interfiera o se oponga al ejercicio de las atribuciones de
 
 Las autoridades competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para hacer cumplir sus determinaciones.
 
-### CAPITULO DECIMO QUINTO. DE LA CADUCIDAD DE LAS SANCIONES
+### CAPITULO DECIMO CUARTO. DE LOS RECURSOS
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 135.
 
@@ -1470,6 +1626,8 @@ Contra los actos y resoluciones que dicte la Secretaría, excepto aquellos que i
 ###### ARTICULO 138.
 
 (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
+
+### CAPITULO DECIMO QUINTO. DE LA CADUCIDAD DE LAS SANCIONES
 
 ###### ARTICULO 139.
 
@@ -1672,3 +1830,11 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTÍCULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 783.-SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 39-A (SIC), 39-B, 39-C, 39-D, 39-E, 39-F, 39-G, 39-H, 39-I, 39-J, 39-K, 39-L A LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
