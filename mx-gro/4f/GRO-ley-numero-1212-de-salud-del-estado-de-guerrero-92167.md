@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2016-12-23"
+last_updated: "2017-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 7 DE MARZO DE 2017, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 7 DE MARZO DE 2017.]</small>
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -241,11 +241,11 @@ XXI. Expedir acuerdos de delegación de facultades a las unidades administrativa
 
 XXII. Las demás que le señale la presente Ley, la Ley de Entidades Paraestatales del Estado de Guerrero, los ordenamientos jurídicos aplicables y las que con carácter de no delegables le confiera el Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016) (F. DE E., P.O. 7 DE MARZO DE 2017)
 
-###### ARTICULO 12.
+###### ARTÍCULO 12.
 
-Al titular o a la titular de la Secretaría, Subsecretarías y de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Guerrero, los nombrará y removerá el Gobernador del Estado, y deberán reunir los requisitos siguientes:
+Al titular o a la titular de la Secretaría, Subsecretarías y de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Guerrero, los nombrará y removerá el Gobernador del Estado; en el caso del Secretario deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos políticos y mayor de 25 años de edad;
 
