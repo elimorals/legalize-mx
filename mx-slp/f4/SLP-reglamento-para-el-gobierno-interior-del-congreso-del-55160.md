@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2016-12-20"
+last_updated: "2017-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -33,7 +33,9 @@ DECRETO 094
 
 LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 En su parte final, este Reglamento se ocupa de precisar las atribuciones de los órganos técnicos, administrativos y de apoyo; conformando así una estructura de segmentos de actividad especializada, que deriven en el más eficaz mecanismo de soporte al trabajo del legislador potosino.
 
@@ -91,9 +93,13 @@ V. Los titulares de los órganos de control, soporte técnico y de apoyo del Con
 
 Corresponde a la Comisión de Puntos Constitucionales, en lo no previsto en este Reglamento, proponer al Pleno la determinación que resulte procedente, por cuanto a medidas y disposiciones pertinentes; asimismo, deberá desahogar las dudas y consultas respecto a su interpretación legal y correcta aplicación.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 6°.
 
-Toda comunicación que haga el Congreso a los demás poderes del Estado y de la federación, a los ayuntamientos, entidades de la República y demás autoridades, organismos e instituciones, así como las notificaciones que correspondan, deberán ser por escrito.
+Toda comunicación que haga el Congreso a los demas poderes del Estado y de la federación, a los ayuntamientos, entidades de la República y demas autoridades, organismos e instituciones, así como las notificaciones que correspondan, deberán hacerse por escrito en los términos que señala el párrafo siguiente.
+
+Tratándose de notificaciones que contengan apercibimiento o, de aquéllas derivadas de los procedimientos de responsabilidad, se aplicará de manera supletoria el capítulo V del Título II del Código de Procedimientos Civiles del Estado de San Luis Potosí.
 
 ## TITULO SEGUNDO. DE LA INSTALACION DEL CONGRESO Y DE LA DIRECTIVA
 
@@ -1047,7 +1053,7 @@ VI. En caso de que se verifique empate en la votación nominal, inmediatamente s
 
 ###### ARTICULO 112.
 
-Sólo para elección de personas, fórmulas o planillas, será empleada la votación por cédula, depositadas en la ánfora colocada frente a la Presidencia.
+Sólo para elección de personas, fórmulas o planillas, será empleada la votación por cédula, depositadas (sic) en la ánfora colocada frente a la Presidencia.
 
 ###### ARTICULO 113.
 
@@ -2480,5 +2486,13 @@ P.O. 20 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0455.- SE ADICIONA (SIC), LOS ARTÍCULOS, 131 BIS, Y 131 TER, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; Y SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 76, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0580.- SE ADICIONA AL ARTÍCULO 126 EN SU FRACCIÓN II INCISO C) PÁRRAFO SEGUNDO, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
