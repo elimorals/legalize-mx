@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2016-11-26"
+last_updated: "2017-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -35,7 +35,7 @@ LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO 
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI
 
-## TITULO PRIMERO. DISPOSICIONES PREELIMINARES
+## TITULO PRIMERO. DISPOSICIONES PREELIMINARES (SIC)
 
 ### CAPITULO UNICO. Del Objeto de la Ley
 
@@ -209,7 +209,7 @@ IV. Los organismos operadores descentralizados.
 
 ###### ARTICULO 5°.
 
-La administración de las aguas estatales y sus bienes inherentes corresponde al Titular del Poder Ejecutivo del Estado quien, en el cumplimiento de las funciones relativas, se apoyara en la Comisión Estatal del Agua.
+La administración de las aguas estatales y sus bienes inherentes corresponde al Titular del Poder Ejecutivo del Estado quien, en el cumplimiento de las funciones relativas, se apoyará en la Comisión Estatal del Agua.
 
 ### CAPITULO II. Del Ejecutivo del Estado
 
@@ -1271,6 +1271,10 @@ Los municipios podrán destinar los ingresos obtenidos por la prestación de los
 
 El ayuntamiento podrá constituir organismos auxiliares con la denominación de comités de agua rurales, adicionado con el nombre de la localidad para el que se constituya, que estarán integrados mayoritariamente con la participación de los usuarios del lugar y tendrán como objetivo lograr la más eficaz prestación del servicio.
 
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+Así mismo, deberá expedir el reglamento que determine la integración y funcionamiento de los comités de agua (sic) rurales constituidos en el municipio, mismos que no podrán sobrepasar al período constitucional de la administración que los promovió.
+
 ###### ARTICULO 82.
 
 Los comités de agua rurales estarán integrados por:
@@ -1283,9 +1287,17 @@ III. La Comisión de Vigilancia.
 
 La integración y funcionamiento de los comités de agua rurales, se hará conforme a lo establecido en el reglamento que para tal efecto expida el ayuntamiento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 83.
 
-(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2010)
+Las cuotas y tarifas serán las que apruebe el Ayuntamiento responsable del Comité, conforme a las metodologías señaladas en la Ley, y deberán responder a los costos de operación y funcionamiento del comité, así como al mantenimiento, rehabilitación, mejoramiento y expansión de la infraestructura hidráulica.
+
+El Ayuntamiento deberá incluir en su proyecto de ley de ingresos respectiva, las cuotas y tarifas correspondientes.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+
+ARTICULO 83 BIS. Los ingresos obtenidos serán destinados exclusivamente a hacer más eficiente la operación y el funcionamiento del comité de agua rural, así como a la ampliación y mejoramiento de la infraestructura hidráulica del mismo.
 
 ###### ARTICULO 84.
 
@@ -2767,7 +2779,7 @@ III. Explotar, usar o aprovechar aguas sujetas a la regulación del Estado, en v
 
 IV. Ocupar zonas de jurisdicción o protección estatal y demás bienes públicos, sin contar con el permiso o la concesión correspondiente;
 
-V. Modificar en cualquier forma la infraestructura hidráulica autorizada para la explotación, uso o aprovechamie;nto del aguas sujetas a las disposiciones del Estado, para su tratamiento y alejamiento, o bien su operación, sin permiso expedido por la Comisión;
+V. Modificar en cualquier forma la infraestructura hidráulica autorizada para la explotación, uso o aprovechamiento del aguas sujetas a las disposiciones del Estado, para su tratamiento y alejamiento, o bien su operación, sin permiso expedido por la Comisión;
 
 VI. Realizar obras, instalaciones y servicios hidráulicos que sean contrarias a lo estipulado en los reglamentos y demás normas o disposiciones que dicte la autoridad;
 
@@ -3436,3 +3448,13 @@ P.O. 26 DE NOVIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0581.- SE REFORMA EL ARTÍCULO 83; Y ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 81, Y EL ARTÍCULO 83 BIS, DE Y A LA LEY DE AGUAS PARA (SIC) ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, los ayuntamientos del Estado de San Luis Potosí deberán expedir o reformar los reglamentos o disposiciones administrativas respectivas.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
