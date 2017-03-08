@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-agua-potable-morelos-9351"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-26"
-last_updated: "2017-03-01"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE AGUA POTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de julio de 1995.
 
@@ -98,6 +98,12 @@ VI.- El servicio al público de conducción, suministro, distribución o transpo
 La conservación incluye todo lo relativo a la infiltración, retención y control del agua.
 
 En el saneamiento queda incluido el alcantarillado.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+###### Artículo 1 Bis.
+
+Toda persona en el Estado de Morelos, tiene el derecho al acceso suficiente, seguro e higiénico de agua disponible para su uso personal y doméstico, así como al suministro libre de interferencias. Las autoridades garantizaran este derecho, pudiendo las personas presentar denuncias cuando el ejercicio del mismo se limite por actos, hechos u omisiones de alguna autoridad o persona, tomando en cuenta las limitaciones y restricciones que establece la presente Ley.
 
 ###### ARTICULO 2.
 
@@ -251,7 +257,7 @@ Las autoridades estatales y municipales se deberán coordinar con las autoridade
 
 Igualmente se podrá convenir entre las autoridades estatales y municipales la asistencia técnica que aquéllas presten a éstas o a sus organismos operadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 7.
 
@@ -289,7 +295,7 @@ Para lo anterior los Ayuntamientos podrán solicitar el apoyo u opinión de la S
 
 Con el objeto de reducir la contaminación y atender la degradación de la calidad original de las aguas dentro del Sistema de Conservación, Agua Potable y Saneamiento de Agua, las autoridades estatales y municipales, así como los organismos a que se refieran la presente Ley, en el ámbito de su competencia, promoverán el establecimiento de sistemas de agua potable y, en su caso, de tratamiento de aguas residuales y manejo de lodos, así como el fomento de sistemas alternos que sustituyan al alcantarillado sanitario, cuando éste no pueda construirse o no resulte rentable, y la realización de las acciones necesarias para conseguir y mantener un adecuado nivel de calidad de aguas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 9.
 
@@ -435,15 +441,17 @@ La Junta de Gobierno se integra con:
 
 I.- El Presidente Municipal, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-II.- El Síndico, el Regidor a cuyo cargo competa la conservación, agua potable y saneamiento de agua y el Regidor de Hacienda;
+II.- El Síndico y los Regidores que tengan en su encargo la representación de las comisiones de Servicios Públicos Municipales, el Regidor de Protección Ambiental, el Regidor de Bienestar Social, y el Regidor de Hacienda;
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
 
 III.- Un Representante de la Contaduría Mayor de Hacienda del Congreso del Estado;
 
 IV.- El Presidente del Consejo Consultivo del organismo, nombrado en los términos de este ordenamiento;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
 V.- Un Representante de la Comisión Nacional del Agua u organismos que desempeñen su función, a quien se invitará a participar en la junta.
 
@@ -635,7 +643,7 @@ II.- Que su objeto sea el expresado en el artículo anterior;
 
 III.- Que la organización y operación del organismo público que se constituya, se sujete a lo establecido en la presente Ley; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 IV.- Que se haya celebrado el Convenio con el Ejecutivo del Estado, a través de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, para la incorporación del organismo operador intermunicipal al Sistema de Agua Potable y Saneamiento del Estado.
 
@@ -671,7 +679,7 @@ La Junta de Gobierno ampliará la composición del Consejo Consultivo con el obj
 
 ### CAPITULO CUARTO. DE LAS FACULTADES DE LA SECRETARIA DE DESARROLLO AMBIENTAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 34.
 
@@ -725,7 +733,7 @@ XXIII.- En el ejercicio de las atribuciones que en el ámbito estatal y sobre la
 
 XXIV.- Las demás que señalen esta Ley, otras leyes y las que le delegue el Ejecutivo del Estado por mandato expreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 35.
 
@@ -749,7 +757,7 @@ Las aportaciones federales, estatales y municipales que en su caso se realicen, 
 
 Los bienes inmuebles de la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente destinados directamente a la prestación de los servicios se considerarán bienes del dominio público del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 37.
 
@@ -839,7 +847,7 @@ En ningún caso la concesión para la prestación del servicio público de agua 
 
 II.- La concesión total o parcial de los bienes del dominio público que ya existan y que constituyan la infraestructura hidráulica, necesaria para prestar los servicios así como la prestación de los mismos.
 
-Dichas concesiones podrán ser otorgadas a través del Ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los organismos operadores intermunicipales, previo acuerdo del Cabildo o Cabildos respectivos.
+Dichas concesiones podrán ser otorgadas a través del Ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los organismo operadores intermunicipales, previo acuerdo del Cabildo o Cabildos respectivos.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
@@ -847,7 +855,7 @@ Las concesiones se otorgarán y revocarán conforme a la presente Ley y de acuer
 
 > <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
 
-Dichas concesiones podrán ser otorgadas a través del ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los organismos operadores intermunicipales previo acuerdo con los cabildos respectivos.
+Dichas concesiones podrán ser otorgadas a través del ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los oorganismos operadores intermunicipales previo acuerdo con los cabildos respectivos.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
@@ -1015,11 +1023,11 @@ IV.- Rendirán por escrito ante la autoridad concedente, el estudio técnico res
 
 V.- Las demás que les señale este ordenamiento y la autoridad concedente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO QUINTO. DE LAS ATRIBUCIONES Y OBLIGACIONES QUE EN FORMA GENERAL CORRESPONDEN A LOS CONCESIONARIOS DEL SECTOR SOCIAL Y PRIVADO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 53.
 
@@ -1311,7 +1319,7 @@ Al establecerse los servicios de agua potable, distribución de agua potable y s
 
 A cada predio, giro o establecimiento corresponderá una toma de agua independiente y dos descargas, una de aguas negras y otra pluvial, cuando estos sistemas deban estar separados y una descarga cuando sean combinadas; el Municipio, el organismo operador o en su caso, la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, fijarán las disposiciones a las que se sujetará el diámetro de las mismas.
 
-> <small>(REFORMADO PRIMERO PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMERO PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 71.
 
@@ -1337,7 +1345,7 @@ III.- Estimar el presupuesto que comprenderá el importe del material necesario 
 
 Las conexiones e instalaciones de tomas solicitadas se autorizarán en base al resultado de la inspección practicada de acuerdo a esta Ley, en un término de seis días computables a partir al de la recepción del informe.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 73.
 
@@ -1357,7 +1365,7 @@ Instalada la toma y hechas las conexiones respectivas, el Municipio, el organism
 
 En los casos en que, con motivo de la instalación de la toma o las descargas, se destruya el pavimento, la guarnición o la banqueta, el Municipio, el organismo operador o en su caso la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente realizarán de inmediato su reparación, con cargo al usuario, en los términos de la presente Ley; los trabajos deberán efectuarse en un plazo que no exceda de diez días naturales contados a partir de la fecha en que se ordene su reparación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 76.
 
@@ -1501,7 +1509,7 @@ Se deberán revisar y ajustar las cuotas o tarifas a fin de actualizarlas; para 
 
 La dependencia u organismo de la Administración Pública Estatal elaborará los estudios técnicos financieros de apoyo para las adecuaciones de cuotas o tarifas y los enviará a los Municipios o a los organismos operadores para su consideración.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 98.
 
@@ -1719,7 +1727,7 @@ Los ingresos por las cuotas y tarifas previstas en este artículo, corresponde s
 
 Las cuotas o tarifas que cobren los Municipios, los organismos operadores municipales, intermunicipales o, en su defecto, la dependencia u organismo de la Administración Pública Estatal encargado del ramo de agua potable y medio ambiente, serán independientes de los pagos, tales como las contribuciones especiales que se establezcan en la legislación fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 100.
 
@@ -1737,7 +1745,7 @@ Los adeudos o cargos de los usuarios tendrán el carácter de créditos fiscales
 
 La suspensión o limitación del servicio, no extingue el crédito fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 102.
 
@@ -1753,7 +1761,7 @@ Los notarios públicos y jueces no autorizarán o certificarán los actos trasla
 
 ### CAPITULO CUARTO. INSPECCION, VERIFICACION Y DETERMINACION PRESUNTIVA DEL PAGO DE SERVICIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 104.
 
@@ -1829,7 +1837,7 @@ La lectura de los aparatos medidores para determinar el consumo de agua en cada 
 
 El lecturista llenará un formato oficial, verificando que el número del medidor y el domicilio que se indique, sea el correspondiente y expresará la lectura del medidor o la clave de no lectura, en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 113.
 
@@ -1935,7 +1943,7 @@ XV.- Las personas que por cualquier medio alteren el consumo marcado por los med
 
 XVI.- Las personas que en cualquier caso proporcionen servicios de agua en forma distinta a las que señale esta Ley, a personas que están obligadas a surtirse directamente del servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 120.
 
@@ -1951,7 +1959,7 @@ II.- En el caso de los usuarios que cometan las infracciones a que se refieren l
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
-III.- En el caso de los usuarios que cometan las infracciones a que se refieren las fracciones XII, XIII y XIV del articulo anterior, la sanción será de diez a cien veces el valor diario de la Unidad de Medida y Actualización en el caso de los usuarios domésticos y de veinte a doscientas veces el valor diario de la Unidad de Medida y Actualización en el caso de los usuarios comerciales;
+III.- En el caso de los usuarios que cometan las infracciones a que se refieren las fracciones XII, XIII y XIV del artículo anterior, la sanción será de diez a cien veces el valor diario de la Unidad de Medida y Actualización en el caso de los usuarios domésticos y de veinte a doscientas veces el valor diario de la Unidad de Medida y Actualización en el caso de los usuarios comerciales;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
 
@@ -1975,7 +1983,7 @@ Si una vez vencido el plazo concedido por la autoridad para subsanar la o las in
 
 En el caso de reincidencia el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder del doble del máximo permitido; en caso de segunda reincidencia se aplicará tres veces del monto originalmente impuesto, y así sucesivamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 123.
 
@@ -2163,7 +2171,7 @@ DRA. URSULA OSWALD SPRING
 
 RUBRICAS
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 20 DE ENERO DE 1999.
 
@@ -2214,3 +2222,25 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL QUINIENTOS SIETE POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 20 DE LA LEY ESTATAL DE AGUA POTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Remítase al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 70 fracciones XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERA.- Una vez publicado el presente decreto, los órganos operadores de los sistemas de agua potable proveerán lo necesario, para que en el presupuesto económico del año siguiente a su vigencia se destinen los recursos necesarios bajo los lineamientos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
+
+CUARTA.- En un término de 60 días hábiles, contados a partir del día siguiente en que surta efectos el presente decreto, los ayuntamientos deberán realizar las modificaciones a su normatividad reglamentaria acorde con los alcances contenidos en el mismo.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL QUINIENTOS OCHO POR EL QUE SE ADICIONA EL ARTÍCULO 1 BIS EN LA LEY ESTATAL DE AGUA POTABLE DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 70 fracciones XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERA.- Una vez publicado el presente decreto, el Ejecutivo Estatal y/o los sistemas operadores del agua potable en el Estado, deberán proveer lo necesario, para que en el presupuesto económico del año siguiente a su vigencia se destinen los recursos necesarios bajo los lineamientos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
