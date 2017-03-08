@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2016-10-26"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -773,8 +775,6 @@ Son comisiones ordinarias las que se constituyan con carácter de permanentes y 
 
 Las comisiones especiales son aquellas de carácter temporal que acuerde el pleno del Congreso del Estado, para la atención de asuntos específicos; se conformarán y tendrán la duración que se establezca en el propio acuerdo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
 Artículo 54 BIS.- Para el análisis y dictaminación de las autorizaciones relativas a los contratos de colaboración público privada y de las demás modalidades y actos jurídicos previstos en la Ley de Contratos de Colaboración Público Privada para el Estado de Morelos, deberá constituirse una Comisión Especial.
@@ -895,8 +895,6 @@ Las Comisiones Ordinarias serán las siguientes:
 
 33. Atención a Víctimas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2013)</small>
 
 ###### Artículo 59 Bis.
@@ -942,8 +940,6 @@ V. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2009)</small>
 
 VI. Recibir de la Mesa Directiva los informes sobre las revisiones de las Cuentas Públicas que haya practicado la Auditoría Superior de Fiscalización y remitir los mismos al pleno para ordenar su publicación en el Periódico Oficial “Tierra y Libertad”;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1349,7 +1345,7 @@ I. Conocer y dictaminar sobre las iniciativas en materia de tránsito, transport
 
 II. Promover las iniciativas o acciones para consolidar la estructura del transporte público de pasajeros y de carga;
 
-III Emitir opinión sobre los programas de expansión y mejoramiento del transporte público implementados por el Ejecutivo del Estado;
+III. Emitir opinión sobre los programas de expansión y mejoramiento del transporte público implementados por el Ejecutivo del Estado;
 
 IV. Recibir la propuesta de los prestadores del servicio del transporte público para la actualización del marco jurídico que regula esta actividad;
 
@@ -1438,8 +1434,6 @@ VI. Fomentar las relaciones y cooperación con los organismos parlamentarios mun
 VII. Realizar estudios e investigaciones al marco normativo del Congreso y de los Congresos Estatales; y
 
 VIII. Los demás asuntos que le sean turnados y que no sean competencia de otra comisión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2013)</small>
 
@@ -1565,9 +1559,11 @@ VII. Todos aquellos asuntos que le sean turnados y no sean materia de otra Comis
 
 Los comités son órganos colegiados para auxiliar al Congreso del Estado, en tareas diferentes a las de las comisiones legislativas, al conocer, analizar y vigilar sobre cuestiones técnicas, administrativas y de organización internas, cuya competencia la determinará su denominación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 85.
 
-El Congreso del Estado contará con los siguientes comités:
+El Congreso del Estado de Morelos contará con los siguientes comités:
 
 I. Comité de Vigilancia;
 
@@ -1577,7 +1573,27 @@ II. Comité de Régimen Administrativo; y
 
 III. Comité Editorial.
 
-Los comités se integran de la misma forma que las comisiones legislativas.
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2017)</small>
+
+IV. Comité de Transparencia.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Los Comités de Vigilancia, Régimen Administrativo y Comité Editorial se integran de la misma forma que las comisiones legislativas.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+El Comité de Transparencia se integra en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Morelos, y se conformara por un número impar de la siguiente forma:
+
+a) El Presidente de la Mesa Directiva del Congreso, que tendrá en carácter de Presidente;
+
+b) Un coordinador del Comité que será designado por el Presidente de la Mesa Directiva, con nivel de jerarquía mínimo de Jefatura de Departamento o equivalente;
+
+c) Un secretario técnico que será designado por el Presidente de la Mesa Directiva;
+
+d) El Titular de la Unidad de Transparencia;
+
+e) El titular de la contraloría interna u órgano de control interno.
 
 ###### Artículo 86.
 
@@ -1628,6 +1644,30 @@ IV. Promover la edición de publicaciones que se consideren de interés, para el
 V. Suscribir Convenios de Colaboración con Instituciones Públicas y Privadas, Nacionales e Internacionales para el desarrollo, contribución y difusión del acervo editorial.
 
 VI. Las demás que sean acordadas por el Pleno, la Diputación Permanente y la Junta Política y de Gobierno, en virtud de ser necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+###### Artículo 88 Bis.
+
+Son atribuciones del Comité de Transparencia:
+
+I. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información;
+
+II. Confirmar, modificar o revocar las determinaciones que, en materia de ampliación del plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia realicen los titulares de las Áreas de los Sujetos Obligados;
+
+III. Ordenar, en su caso, a las Áreas competentes que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión, o que previa acreditación de la imposibilidad de su generación, exponga, de forma fundada y motivada, las razones por las cuales en el caso particular no ejercieron dichas facultades, competencias o funciones;
+
+IV. Establecer políticas para facilitar la obtención de información y el ejercicio del derecho de acceso a la información;
+
+V. Promover la capacitación y actualización de los servidores públicos o integrantes adscritos a cada Unidad de Transparencia;
+
+VI. Establecer programas de capacitación en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, para todos los servidores públicos o integrantes de los Sujetos Obligados;
+
+VII. Recabar los datos necesarios para la elaboración del informe anual y enviarlo al Instituto Morelense de Información Pública y Estadística, de conformidad con los lineamientos establecidos por éste;
+
+VIII. Solicitar y autorizar la ampliación del plazo de reserva de la información, a que se refiere el artículo 77 de la Ley de Acceso a la Información Pública del Estado de Morelos, siempre y cuando el Instituto Morelense de Información Pública y Estadística avale la aplicación del plazo referido, y;
+
+IX. Las demás que se desprendan de la normatividad aplicable.
 
 ### CAPÍTULO I BIS. DE LA SECRETARIA GENERAL Y SECRETARIAS DEL CONGRESO
 
@@ -2663,8 +2703,16 @@ SEGUNDA.- El presente decreto entrará en vigor el día de su aprobación por el
 
 P.O. 26 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATRO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 55 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATRO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 55 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
 
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículo (sic) 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del estado de Morelos.
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS NOVENTA Y TRES POR EL QUE SE ADICIONA LA FRACCIÓN IV Y SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 85 Y SE CREA EL ARTÍCULO 88 BIS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
