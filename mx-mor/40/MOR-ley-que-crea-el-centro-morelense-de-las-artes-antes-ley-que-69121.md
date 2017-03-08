@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-el-centro-morelense-de-las-artes-antes-ley-que-691
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-01"
-last_updated: "2014-07-23"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY QUE CREA EL CENTRO MORELENSE DE LAS ARTES -- ANTES LEY QUE CREA EL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS --
 
-LEY QUE CREA EL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS
+LEY QUE CREA EL CENTRO MORELENSE DE LAS ARTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de julio de 2009.
 
@@ -39,17 +39,19 @@ I.- Antecedentes de la Iniciativa.
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
-LEY QUE CREA EL CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE MARZO DE 2017)</small>
+
+LEY QUE CREA EL CENTRO MORELENSE DE LAS ARTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO ÚNICO. De la Naturaleza, Objeto y Atribuciones
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 1.
 
-Se crea el Centro Morelense de las Artes del Estado de Morelos, en adelante el Centro, como Organismo Público Descentralizado del Gobierno del Estado de Morelos, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Cultura del Estado de Morelos, con domicilio legal en la ciudad de Cuernavaca, Morelos.
+Se crea el Centro Morelense de las Artes, en adelante el Centro, como Organismo Público Descentralizado del Gobierno del Estado de Morelos, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Cultura del Estado de Morelos, con domicilio legal en la ciudad de Cuernavaca, Morelos.
 
 ###### ARTÍCULO 2.
 
@@ -61,11 +63,15 @@ II. Formar graduados y profesionales de excelencia, creativos, críticos y sensi
 
 III. Difundir el arte hacia la comunidad, para enriquecer la visión de los habitantes de la región sobre los desafíos de la cultura contemporánea y de las soluciones que el conocimiento del área les brinda, para construir un mundo más solidario y una vida personal más plena.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 3.
 
-Para el cumplimiento de su objeto, El Centro tendrá las atribuciones siguientes:
+Para el cumplimiento de su objeto, el Centro tendrá las atribuciones siguientes:
 
-I. Impartir educación en diversas disciplinas artísticas en los niveles de técnico superior universitario, licenciatura y postgrado, así como cursos de actualización, diplomados y talleres libres, para preparar profesionales con una sólida formación profesional y de valores humanísticos;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+I. Impartir educación, conforme a la suficiencia presupuestal, en diversas disciplinas artísticas, en las que se cuente con autorización o reconocimiento con validez oficial ante las instancias educativas competentes, en cualquier tipo y modalidad, conforme al Sistema Educativo Estatal, mismo que comprende los niveles de Educación Media Superior, que incluye al Bachillerato; y de Educación Superior, que abarca técnico superior universitario, licenciatura y postgrado; así como cursos de formación, diplomados y talleres libres, los que podrán adoptar las modalidades escolarizada, no escolarizada y mixta, para preparar profesionales con una sólida formación académica y de valores humanísticos;
 
 II. Impartir programas de educación continua en todas las disciplinas artísticas;
 
@@ -295,15 +301,21 @@ El Centro, por conducto del Rector, rendirá anualmente un informe general de la
 
 El Consejo Académico del Centro se integrará por:
 
-I. El Rector, quien lo presidirá;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+I. La persona titular de la Rectoría, quien lo presidirá;
 
-II. El Secretario de Cultura;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-III. Los titulares de cada una de las diversas áreas de conocimiento del Centro.
+II. La persona titular de la Secretaría de Cultura;
 
-El Consejo Académico actuará como órgano de consulta y propuesta y se organizará y funcionará en los términos del Estatuto Orgánico del Centro.
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2017)</small>
+
+III. La persona titular de la Secretaría Académica, y
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+IV. Las personas titulares de cada una de las áreas de conocimiento del Centro. El Consejo Académico actuará como órgano de consulta y propuesta y se organizará y funcionará en los términos del Estatuto Orgánico del Centro.
 
 Todos los integrantes del Consejo Académico tendrán derecho a voz y voto.
 
@@ -403,9 +415,11 @@ El personal de servicios administrativos será el contratado para realizar labor
 
 La estructura y tabuladores para las remuneraciones del personal se fijarán dentro de los límites que determine el Gobierno del Estado y de acuerdo con la disponibilidad de recursos.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 28.
 
-Serán considerados trabajadores de confianza: el Rector, el Secretario Académico, el Secretario Administrativo, los Directores Académicos, Jefes de Departamento, Secretarios y demás personal que desempeñe funciones de coordinación, dirección, inspección, vigilancia y fiscalización, independientemente de la denominación del puesto, cuando tengan carácter general y los que se relacionen con trabajos personales de los titulares.
+Son trabajadores de confianza del Centro los que desempeñen funciones administrativas, de coordinación, dirección, inspección, vigilancia y fiscalización, independientemente de la denominación del puesto, cuando tengan carácter general, así como los que se relacionen con trabajos inherentes a estas áreas y en el Estatuto Orgánico se les prevea con tal carácter.
 
 ### CAPÍTULO SEGUNDO. Del Personal Académico
 
@@ -508,3 +522,19 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS NOVENTA Y DOS POR EL QUE SE REFORMAN LA DENOMINACIÓN DE LA LEY; EL ARTÍCULO 1; EL PÁRRAFO INICIAL Y LA FRACCIÓN I AL ARTÍCULO 3; LAS FRACCIONES I Y II Al ARTÍCULO 15 Y EL ARTÍCULO 28 Y SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 15, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE PARA SER IV DE LA LEY QUE CREA El CENTRO MORELENSE DE LAS ARTES DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTA.- Dentro de un plazo no mayor a ciento ochenta días hábiles, contados a partir del día siguiente a la entrada en vigor del presente Decreto, la Junta de Gobierno del Centro Morelense de las Artes deberá aprobar las modificaciones necesarias a su Estatuto Orgánico y demás normativa aplicable.
+
+QUINTA. Dentro de un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberá realizar la inscripción del presente instrumento legal ante el Registro Público de Organismos Descentralizados del Estado de Morelos, de conformidad con lo dispuesto por el artículo 85 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+SEXTA. El Centro Morelense de las Artes deberá realizar los trámites o procedimientos correspondientes ante las instancias competentes para contar con la autorización o Reconocimiento de Validez Oficial de Estudios de Educación Media Superior a que se refiere el presente Decreto.
