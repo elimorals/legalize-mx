@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-adquisiciones-enajenaciones-arrendamientos-y-65008"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2016-12-22"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de diciembre de 2008.
 
@@ -1131,9 +1131,11 @@ Los bienes que deban venderse, se enajenarán mediante subasta pública, la cual
 
 ### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 98.
 
-Los Licitantes, Proveedores, Concursantes o Postores que infrinjan las disposiciones contenidas en esta Ley, serán sancionados por la Contraloría, con multa equivalente a la cantidad de cincuenta y hasta mil días de salario mínimo general vigente en el Estado de Morelos, en la fecha de la infracción y atendiendo a la gravedad de la misma.
+Los Licitantes, Proveedores, Concursantes o Postores que infrinjan las disposiciones contenidas en esta Ley, serán sancionados por la Contraloría, con multa equivalente a la cantidad de cincuenta y hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la infracción y atendiendo a la gravedad de la misma.
 
 Las multas que se impongan constituirán créditos fiscales a favor del Poder Ejecutivo, debiendo hacerse efectivas a través de los procedimientos coactivos de ejecución, en términos de la normatividad aplicable.
 
@@ -1384,3 +1386,15 @@ Los trámites iniciados ante el Registro de Obligaciones y Empréstitos del Esta
 Las referencias al Registro de Obligaciones y Empréstitos del Estado de Morelos en las leyes y disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro Público de Financiamientos y Obligaciones del Estado de Morelos.
 
 SÉPTIMA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL QUINIENTOS TREINTA Y SEIS POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 98 DE LA LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
