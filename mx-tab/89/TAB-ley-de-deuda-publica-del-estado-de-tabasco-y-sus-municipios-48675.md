@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-deuda-publica-del-estado-de-tabasco-y-sus-municipios-486
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2013-12-21"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 31 de diciembre de 2005.
 
@@ -51,11 +51,19 @@ LEY DE DEUDA PÚBLICA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS.
 
 La presente Ley es de orden público y de observancia general en el Estado y tiene por objeto el establecimiento de normas para la contratación, registro y control de la Deuda Pública a cargo del Estado y de los Municipios.
 
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+El Gobierno del Estado, los Municipios y, en general, los Entes Públicos del Estado de Tabasco se sujetarán a las disposiciones establecidas en la Ley de Disciplina Financiera de las Entidades Federativas y los municipios en materia de deuda púbica y obligaciones, así como en la presente Ley, con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 2.
 
-La Deuda Pública está constituida por las obligaciones directas e indirectas derivadas de empréstitos o créditos siempre y cuando tengan la aprobación del Congreso del Estado y estén a cargo de las siguientes Entidades Públicas:
+La Deuda Pública está constituida por las obligaciones de pasivo, directas o contingentes derivadas de financiamientos y estén a cargo de los siguientes Entes Públicos:
 
-I. El Estado;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+I. El Gobierno del Estado;
 
 II. Los Municipios;
 
@@ -63,209 +71,261 @@ III. Los Organismos Descentralizados Estatales o Municipales;
 
 IV. Las Empresas de Participación Estatal o Municipal Mayoritaria; y
 
-V. Los Fideicomisos en el que el Fideicomitente sea alguna de las Entidades señaladas en las fracciones anteriores previa aprobación del Congreso del Estado.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2010)</small>
+V. Los Fideicomisos en el que el Fideicomitente sea alguno de los Entes Públicos señalados en las fracciones anteriores.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 3.
 
-Para los efectos de esta Ley se entenderá por:
+Para los efectos de esta Ley además de los conceptos del glosario establecido en los artículos 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; y 3 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco, se entenderá por:
 
-I. Aportaciones Federales: las aportaciones que en ingresos federales correspondan al Estado y a los Municipios conforme a lo establecido en la Ley de Coordinación Fiscal y en las demás legislaciones aplicables;
+I. Aportaciones Federales: las aportaciones que en ingresos federales correspondan al Estado y a los Municipios conforme a lo establecido en la Ley de Coordinación Fiscal y demás ordenamientos aplicables;
 
-II. Ayuntamiento: la autoridad encargada de ejercer el gobierno de cada Municipio;
+II. Asociaciones Público-Privadas: las previstas en la Ley de Asociaciones Público Privadas del Estado de Tabasco y sus Municipios;
 
-III. Congreso del Estado: el Congreso del Estado Libre y Soberano de Tabasco;
+III. Ayuntamiento: la autoridad encargada de ejercer el gobierno de cada Municipio;
 
-IV. Deuda Pública Estatal: conjuntamente, la Deuda Pública Directa Estatal y la Deuda Pública Indirecta Estatal;
+IV. Balance presupuestario: la diferencia entre los Ingresos totales incluidos en la Ley de Ingresos, y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-V. Deuda Pública Directa Estatal: es la deuda pública derivada de las obligaciones de dar en dinero asumidas directamente por el Estado;
+V. Balance presupuestario de recursos disponibles: la diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-VI. Deuda Pública Indirecta Estatal: es la deuda pública derivada de las obligaciones asumidas por el Estado al garantizar el Endeudamiento. El monto de la Deuda Pública Indirecta Estatal deberá considerarse como un monto igual a aquel efectivamente garantizado por el Estado;
+VI. Congreso del Estado: el Congreso del Estado Libre y Soberano de Tabasco;
 
-VII. Deuda Pública Municipal: conjuntamente la Deuda Pública Directa Municipal y la Deuda Pública Indirecta Municipal;
+VII. Deuda Contingente: cualquier Financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por El Estado de Tabasco con sus Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y, por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria;
 
-VIII. Deuda Pública Directa Municipal: es la deuda pública derivada de las obligaciones de dar en dinero asumidas directamente por el Municipio;
+VIII. Deuda Estatal Garantizada: el Financiamiento del Estado de Tabasco y de sus Municipios, con garantía del Gobierno Federal, de acuerdo con lo establecido en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-IX. Deuda Pública Indirecta Municipal: es la deuda pública derivada de las obligaciones asumidas por el Municipio al garantizar el Endeudamiento. El monto de la Deuda Pública Indirecta Municipal deberá considerarse como un monto igual a aquel efectivamente garantizado por el Municipio;
+IX. Deuda Pública: Cualquier financiamiento contratado por entes públicos del Estado de Tabasco y sus municipios
 
-X. Ejecutivo del Estado: el Gobernador Constitucional del Estado de Tabasco;
+X. Disciplina Financiera: la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de Obligaciones por los Entes Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero;
 
-XI. Endeudamiento: el conjunto de financiamientos;
+XI. Ejecutivo del Estado: el Gobernador Constitucional del Estado de Tabasco;
 
 XII. Endeudamiento Neto Estatal: es el resultado de restar a las contrataciones de financiamientos las amortizaciones pagadas en el mismo ejercicio fiscal;
 
 XIII. Endeudamiento Neto Municipal: es el resultado de restar a las contrataciones de, financiamientos las amortizaciones pagadas en el mismo ejercicio fiscal;
 
-XIV. Entidades Paraestatales: los organismos públicos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos estatales;
+XIV. Entes Públicos: los poderes Ejecutivo, Legislativo y Judicial, los organismos autónomos de las Entidades Federativas; los Municipios; los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos de las Entidades Federativas y los Municipios, así como cualquier otro ente sobre el que las Entidades Federativas y los Municipios tengan control sobre sus decisiones o acciones.
 
-XV. Entidades Paramunicipales: los organismos públicos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos municipales;
+XV. Entidades Paraestatales: los organismos públicos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos estatales;
 
-XVI. Estado: el Estado Libre y Soberano de Tabasco;
+XVI. Entidades Paramunicipales: los organismos públicos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos municipales;
 
-XVII. Fideicomisos: Son aquéllos que por contrato o mediante acuerdo expreso constituyen el Estado o los Municipios, con el propósito de que sirvan de auxilio en el ejercicio de las atribuciones legales que tienen conferidas cada uno de ellos para impulsar las áreas prioritarias del desarrollo;
+XVII. Estado: el Estado Libre y Soberano de Tabasco;
 
-XVIII. Financiamientos: a. La emisión de Valores; b. La celebración de operaciones de Refinanciamiento; c. La celebración de cualquier operación que comprenda obligaciones de dar dinero a plazos derivadas de actos jurídicos, independientemente de la forma en que se les documente;
+XVIII. Fideicomisos: Son aquéllos que por contrato o mediante acuerdo expreso constituyen el Estado o los Municipios, con el propósito de que sirvan de auxilio en el ejercicio de las atribuciones legales que tienen conferidas cada uno de ellos para impulsar las áreas prioritarias del desarrollo;
 
-IX. Ingresos Ordinarios: La suma de los impuestos, derechos, productos y aprovechamientos, así como las Participaciones Federales y cualquier otro ingreso de carácter federal que no tenga un uso o fin especifico;
+XIX. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
-XX. Ley: la presente Ley de Deuda Pública del Estado de Tabasco y sus Municipios;
+XX. Financiamiento Neto: la diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la Deuda Pública;
 
-XXI. Línea Global de Financiamiento: Autorización que expide el Congreso del Estado en un solo decreto a favor del Estado y dos o más Municipios, o dos o más Municipios, para la instrumentación de operaciones de Deuda Pública que promuevan estructuras jurídico-financieras, con la intención de obtener mejores condiciones de financiamiento a su favor, respondiendo cada entidad por las obligaciones de deuda que, en su caso, considere conveniente contraer, con características similares para todos los municipios que decidan participar;
+XXI. Ingresos de libre disposición: los Ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
 
-XXII. Municipios: los Municipios que integran el Estado conforme al artículo 3 de la Constitución Política del Estado;
+XXII. Ingresos totales: la totalidad de los Ingresos de libre disposición, las Transferencias federales etiquetadas y el Financiamiento Neto;
 
-XXIII. Operaciones Financieras de Cobertura: las operaciones que tiendan a evitar o reducir riesgos económico-financieros derivados de la contratación de financiamientos;
+XXIII. Instituciones Financieras: instituciones de crédito, sociedades financieras de objeto múltiple, casas de bolsa, almacenes generales de depósito, uniones de crédito, instituciones de seguros, sociedades mutualistas de seguros, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares y sociedades financieras comunitarias y cualquiera otra sociedad autorizada por la Secretaría o por cualesquiera de las Comisiones Nacionales para organizarse y operar como tales, siempre y cuando la normatividad que les resulte aplicable no les prohíba el otorgamiento de créditos;
 
-XXIV. Participaciones Federales: las participaciones que en ingresos federales correspondan al Estado y a los Municipios conforme a lo establecido en la Ley de Coordinación Fiscal y en las demás legislaciones aplicables;
+XXIV. Ley: la presente Ley de Deuda Pública del Estado de Tabasco y sus Municipios;
 
-XXV. Reestructuración: la modificación de un financiamiento preexistente;
+XXV. Ley de Disciplina Financiera: La ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-XXVI. Refinanciamiento: la obtención de un financiamiento para el pago total o parcial de otro financiamiento preexistente;
+XXVI. Línea Global de Financiamiento: Autorización que expide el Congreso del Estado en un solo decreto a favor del Estado y dos o más Municipios, o dos o más Municipios, para la instrumentación de operaciones de Deuda Pública que promuevan estructuras jurídico-financieras, con la intención de obtener mejores condiciones de financiamiento a su favor, respondiendo cada entidad por las obligaciones de deuda que, en su caso, considere conveniente contraer, con características similares para todos los municipios que decidan participar;
 
-XXVII. Registro: el Registro de Deuda Pública del Estado de Tabasco y sus Municipios;
+XXVII. Municipios: los Municipios que integran el Estado conforme al artículo 3 de la Constitución Política del Estado;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+XXVIII. Obligaciones: los compromisos de pago a cargo de los Entes Públicos derivados de los Financiamientos y de las Asociaciones Público-Privadas;
 
-XXVIII. Secretaría: La Secretaría de Planeación y Finanzas;
+XXIX. Obligaciones a corto plazo: cualquier Obligación contratada con Instituciones financieras a un plazo menor o igual a un año;
 
-XXIX. Unidades de Inversión: la Unidad de cuenta establecida en el Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adición a diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta publicado en el Diario Oficial de la Federación el 1 de abril de 1995; y
+XXX. Operaciones Financieras de Cobertura: las operaciones que tiendan a evitar o reducir riesgos económico-financieros derivados de la contratación de financiamientos;
 
-XXX. Valores: los títulos de crédito o cualesquier otro instrumento de deuda considerado como valor en la Ley del Mercado de Valores y en las demás disposiciones aplicables.
+XXXI. Participaciones Federales: las participaciones que en ingresos federales correspondan al Estado y a los Municipios conforme a lo establecido en la Ley de Coordinación Fiscal y en las demás legislaciones aplicables;
+
+XXXII. Reestructuración: la celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un Financiamiento;
+
+XXXIII. Refinanciamiento: la contratación de uno o varios Financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más Financiamientos previamente contratados;
+
+XXXIV. Registro Estatal: el Registro de Deuda Pública del Estado de Tabasco y sus Municipios;
+
+XXXV. Registro Público Único: el Registro para la inscripción de Obligaciones y Financiamientos que contraten los Entes Públicos, previsto en la Ley de Disciplina Financiera;
+
+XXXVI. Secretaría: La Secretaría de Planeación y Finanzas;
+
+XXXVII. Sistema de Alertas: la publicación hecha por la Secretaría sobre los indicadores de endeudamiento de los Entes Públicos;
+
+XXXVIII. Techo de Financiamiento Neto: el límite de Financiamiento Neto anual que podrá contratar un Ente Público, con Fuente de pago de Ingresos de libre disposición. Dicha Fuente de pago podrá estar afectada a un vehículo específico de pago, o provenir directamente del Presupuesto de Egresos, y
+
+XXXIX. Unidades de Inversión: la Unidad de cuenta establecida en el Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adición a diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta publicado en el Diario Oficial de la Federación el 1 de abril de 1995; y
+
+XL. Valores: los títulos de crédito o cualesquier otro instrumento de deuda considerado como valor en la Ley del Mercado de Valores y en las demás disposiciones aplicables.
+
+A falta de disposición expresa en esta Ley, se aplicarán supletoriamente la Ley de Disciplina Financiera de Estados y Municipios (sic), Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Federal de Deuda Pública, la Ley General de Contabilidad Gubernamental y la Ley de Coordinación Fiscal. Para efectos administrativos, se estará a la interpretación de la Secretaría.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 4.
 
-La contratación de Financiamientos que generen Deuda Pública Estatal o Deuda Pública Municipal se sujetará a lo establecido en la presente Ley.
+La contratación de Financiamientos u Obligaciones que generen Deuda Pública a cargo del Estado o de los Municipios, se sujetará a lo establecido en la Ley de Disciplina Financiera, la presente Ley y demás ordenamientos aplicables.
 
-Los demás términos y condiciones relacionados con la validez y exigibilidad de los Financiamientos se regularán de conformidad con los términos y condiciones establecidos en los contratos, convenios o instrumentos que documenten dichos Financiamientos.
+Los demás términos y condiciones relacionados con la validez y exigibilidad de los Financiamientos u obligaciones se regularán de conformidad con los términos y condiciones establecidos en los contratos, convenios o instrumentos que documenten dichas operaciones y compromisos.
 
 ## Título Segundo. De la Deuda Pública Estatal
 
 ### Capítulo I. Autoridades en materia de Deuda Pública Estatal y sus Facultades, Atribuciones y Obligaciones
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 5.
 
-Son autoridades en materia de Deuda Pública Estatal, dentro de sus respectivas competencias: el Congreso del Estado y el Ejecutivo del Estado, a través de la Secretaría.
+Son autoridades en materia de Deuda Pública Estatal, dentro de sus respectivas competencias: el Ejecutivo del Estado, a través de la Secretaría; y el Congreso del Estado
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 6.
 
-El Congreso del Estado tendrá las facultades, atribuciones y obligaciones en materia de Deuda Pública Estatal que le confiera la Constitución Política del Estado, la presente Ley y otras disposiciones legales, incluyendo sin limitación las siguientes:
+El Congreso del Estado tendrá las facultades, atribuciones y obligaciones en materia de Deuda Pública Estatal que le confieran la Constitución Política del Estado, la Ley de Disciplina Financiera, la presente Ley y otras disposiciones legales
 
-I. Autorizar los montos máximos de endeudamiento anual en la correspondiente Ley de Ingresos del Estado de Tabasco;
+El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, autorizará los montos máximos para la contratación de Financiamientos y Obligaciones. Para el otorgamiento de dicha autorización, la Legislatura deberá realizar previamente, un análisis de la capacidad de pago del Ente Público a cuyo cargo estaría la Deuda Pública u Obligaciones correspondientes, del destino del Financiamiento u Obligación y, en su caso, del otorgamiento de recursos como Fuente o Garantía de pago.
 
-II. Autorizar, previa solicitud de la Secretaría, los montos de Endeudamiento Neto Estatal, cuando se presenten circunstancias que así lo requieran;
+Las operaciones de Refinanciamiento o Reestructura no requerirán autorización específica del Congreso del Estado, siempre y cuando cumplan con las siguientes condiciones:
 
-III. Solicitar por conducto de la Comisión de Hacienda y Presupuesto a la Secretaría información que considere pertinente para conocer y analizar la situación y evolución de la Deuda Pública del Estado y de los Municipios;
+I. Exista una mejora en la tasa de interés, incluyendo los costos asociados, lo cual deberá estar fundamentado en el cálculo de la tasa efectiva que se realice de acuerdo con lo dispuesto por el artículo 26, fracción IV de la Ley de Disciplina Financiera, o tratándose de Reestructuraciones exista una mejora en las condiciones contractuales;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2010)</small>
+II. No se incremente el saldo insoluto, y
 
-IV. Autorizar el otorgamiento de financiamientos que representen Deuda Pública Indirecta Estatal y Municipal;
+III. No se amplíe el plazo de vencimiento original de los Financiamientos respectivos, el plazo de duración del pago del principal e intereses del Financiamiento durante el periodo de la administración en curso, ni durante la totalidad del periodo del Financiamiento.
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2010)</small>
+Dentro de los 15 días naturales siguientes a la celebración del Refinanciamiento o Reestructuración, el Ente Público deberá informar al Congreso del Estado sobre la celebración de este tipo de operaciones, así como inscribir dicho Refinanciamiento o Reestructuración ante el Registro Público Único.
 
-V. Autorizar el otorgamiento de las garantías de los financiamientos autorizados, a excepción de la reestructuración y refinanciamiento; y
-
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2010)</small>
-
-VI. Autorizar Líneas Globales de Financiamiento al Estado y dos o más Municipios. Las obligaciones que deriven de estas autorizaciones no podrán exceder, en ningún caso, el periodo constitucional de la administración estatal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 7.
 
-El Ejecutivo del Estado, a través de la Secretaría, la cual será la dependencia encargada de interpretar administrativamente la presente Ley, tendrá las facultades, atribuciones y obligaciones en materia de Deuda Pública Estatal que le confiera la Constitución Política del Estado, la presente Ley y otras disposiciones legales, incluyendo sin limitación las siguientes:
+El Ejecutivo del Estado, a través de la Secretaría, la cual será la dependencia encargada de interpretar administrativamente la presente Ley, tendrá las facultades, atribuciones y obligaciones en materia de Deuda Pública Estatal que le confieran la Constitución Política del Estado, la Ley de Disciplina Financiera, la presente Ley y otras disposiciones legales, incluyendo sin limitación las siguientes:
 
-I. Llevar el registro de los Financiamientos que contrate el Estado y los Municipios;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-II. Proceder a la cancelación parcial o total de las inscripciones correspondientes en el Registro al efectuarse el pago parcial o total de las obligaciones del Estado y los Municipios, debidamente comprobados;
+I. Llevar el registro de los Financiamientos y obligaciones que contraten el Estado y los Municipios;
 
-III. Reestructurar los financiamientos adquiridos mediante la modificación de plazos, tasas o garantías, siempre y cuando constituyan una mejora de las condiciones vigentes para el Estado;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+II. Realizar los trámites conducentes para la inscripción, modificación y cancelación de los asientos registrales, de conformidad con las normas que rigen el Registro Público Único y aportar la información que sea requerida al efecto;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+III. Reestructurar los financiamientos adquiridos mediante la modificación de plazos, tasas o garantías, siempre y cuando se cumpla con las condiciones señaladas en la Ley;
 
 IV. Presentar al Congreso del Estado la información que éste le requiera de acuerdo con la Ley, en relación con las operaciones de Deuda Pública Estatal que celebre;
 
-V. Informar al Congreso del Estado trimestralmente en la Cuenta Pública enviada al Órgano Superior del Estado, la situación que guarda la deuda pública del Estado;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+V. Informar al Congreso del Estado trimestralmente en la Cuenta Pública enviada al Órgano Superior de Fiscalización del Estado, la situación que guarda la deuda pública del Estado;
 
 VI. Vigilar que los recursos obtenidos por todas las operaciones financieras a las que se refiere este ordenamiento sean aplicadas (sic) precisamente a los fines previstos;
 
 VII. Solicitar a los Municipios, a las Entidades Paraestatales y a las Entidades Paramunicipales información sobre la situación y evolución de la Deuda Pública;
 
-VIII. Asesorar técnicamente y apoyar a los Municipios, Entidades Paraestatales y Paramunicipales en la gestión, concertación y contratación de sus operaciones cuando así lo soliciten;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+VIII. Asesorar técnicamente y apoyar a los Municipios, Entidades Paraestatales y Paramunicipales, y demás entes públicos, en la gestión, concertación y contratación de sus operaciones de financiamiento, cuando así lo soliciten;
 
 IX. Celebrar contratos, convenios y demás instrumentos legales relacionados directa o indirectamente con la obtención, refinanciamiento, reestructuración, manejo, operación, gestión y demás actos vinculados con la deuda Pública Estatal. Para tal efecto podrá negociar y estipular en los instrumentos respectivos las cláusulas usuales de los Financiamientos, tales como las aplicables a entregas de información, obligaciones accesorias y jurisdicción, entre otras;
 
 X. Celebrar Operaciones Financieras de Cobertura que tiendan a reducir o evitar riesgos económico-financieros derivados de Financiamientos; y
 
-XI. Vigilar que la capacidad de pago de los Municipios, Entidades Paraestatales y Paramunicipales que contraten Financiamientos y en los que funja el Estado como garante, aval o fiador, sea suficiente para cubrir puntualmente los compromisos que contraigan.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+XI. Vigilar que la capacidad de pago de los Municipios, Entidades Paraestatales y Paramunicipales que contraten Financiamientos u Obligaciones y en los que funja el Estado como garante, aval o fiador, sea suficiente para cubrir puntualmente los compromisos que contraigan.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Artículo 7 bis. El Estado de Tabasco y sus Municipios podrán celebrar convenio con la Secretaría de Hacienda y Crédito Público del Gobierno Federal para adherirse al mecanismo de contratación de Deuda Estatal Garantizada, con el fin de que se afecten participaciones federales suficientes que les correspondan, conforme a la Ley de Coordinación Fiscal, bajo un vehículo específico de pago y en los términos que se convengan con dicha dependencia federal.
+
+En su caso, los montos, límites, condiciones, requisitos y procedimientos para el otorgamiento de la garantía del Gobierno Federal a las obligaciones constitutivas de deuda pública del Estado o sus municipios, se regularán por lo dispuesto en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera, en la Ley de Coordinación Fiscal y los demás ordenamientos aplicables.
+
+Asimismo, el Estado y los municipios serán responsables de la validez y exactitud de la documentación que a cada orden de gobierno corresponda entregar a las Autoridades del orden Federal.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Artículo 7 bis-1. Corresponde al Congreso del Estado y, en su caso, a los Ayuntamientos la autorización para celebrar los convenios a que se refiere el artículo anterior. Los convenios deberán contener como mínimo los requisitos señalados en la Ley de Disciplina Financiera y serán publicados en el Diario Oficial de la Federación, así como en el Periódico Oficial del Estado de Tabasco.
+
+En caso de que el Estado de Tabasco incluya a sus Municipios en el mecanismo de contratación de Deuda Estatal Garantizada, deberá contar con el aval del propio Estado y suscribir un convenio adicional y único con la Federación respecto a sus Municipios.
 
 ### Capítulo II. Reglas Generales en Materia de Contratación de Deuda Pública Estatal
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 8.
 
-Para el ejercicio oportuno del Presupuesto de Egresos y la adecuación de los flujos financieros autorizados por el Congreso del Estado, el Ejecutivo del Estado podrá contratar Financiamientos cuya vigencia no, sea mayor a un año y lo hará de la siguiente manera:
+Para el ejercicio oportuno del Presupuesto de Egresos y la adecuación de los flujos financieros autorizados por el Congreso del Estado, el Ejecutivo del Estado, podrá contratar Obligaciones a corto plazo, sin autorización del Congreso del Estado, conforme a lo siguiente:
 
-a) El límite máximo de este tipo de financiamiento que podrá contratar el Ejecutivo del Estado será de 15% de sus ingresos ordinarios determinados en sus leyes de ingresos vigentes.
+I. En todo momento, el saldo insoluto total del monto principal de las Obligaciones a corto plazo no exceda del 6 por ciento de los Ingresos totales aprobados en la Ley de Ingresos del Estado, según corresponda, sin incluir Financiamiento Neto, durante el ejercicio fiscal de que se trate;
 
-b) No se afectará en garantía o en pago el derecho a recibir participaciones derivadas de la coordinación fiscal o cualquier otro ingreso o derecho.
+II. Las Obligaciones a corto plazo queden totalmente pagadas a más tardar tres meses antes de que concluya el periodo de gobierno de la administración estatal, no pudiendo contratar nuevas Obligaciones a corto plazo durante esos últimos tres meses;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+III. Las Obligaciones a corto plazo deberán ser quirografarias, y
 
-c) El Ejecutivo del Estado a través de la Secretaría, deberá informar al Congreso del Estado por conducto de la Comisión Orgánica de Hacienda y Presupuesto, de la contratación, liquidación y conclusión del financiamiento en un plazo que no exceda de 30 días naturales siguientes de cada uno de los actos correspondientes.
+IV. Ser inscritas en el Registro Público Único y en el Registro Estatal.
 
-d) El incumplimiento de las disposiciones anteriores dará lugar a la aplicación de responsabilidades y sanciones administrativas en el servicio público.
+Para dar cumplimiento a la contratación de las Obligaciones a corto plazo bajo mejores condiciones de mercado, el Ente Público deberá implementar un proceso competitivo con por lo menos dos instituciones financieras y obtener únicamente una oferta irrevocable, que deberá tener una vigencia mínima de 60 días naturales. Las Obligaciones a corto plazo que se contraten quedarán sujetas a los requisitos de información previstos en esta Ley.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2010)</small>
+Los recursos provenientes de Obligaciones a corto plazo, serán destinados exclusivamente a cubrir necesidades de corto plazo, entendiendo dichas necesidades como insuficiencias de liquidez de carácter temporal. En todo caso, los Entes Públicos contratantes, deberán presentar los informes a que se refiere el artículo 31 de la Ley de Disciplina Financiera.
 
-Artículo 8 bis. El Ejecutivo del Estado deberá contar con la autorización del Congreso del Estado para llevar a cabo la contratación de financiamientos cuya vigencia sea mayor de un año. Para obtener dicha autorización, el Ejecutivo del Estado deberá enviar una solicitud al Congreso del Estado, la cual deberá cumplir con los siguientes requisitos, de información y documentación:
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
-1. Solicitud por escrito del Financiamiento a ser contratado.
+Artículo 8 bis. El Ejecutivo del Estado deberá contar con la autorización del Congreso del Estado para llevar a cabo la contratación de Financiamientos y Obligaciones cuya vigencia sea mayor de un año. Para obtener dicha autorización, el Ejecutivo del Estado deberá enviar una solicitud por escrito al Congreso del Estado.
 
-2. Presentar un análisis financiero de la deuda que contenga los siguientes elementos:
+En su caso, La autorización de los Financiamientos y Obligaciones por parte de la Legislatura local deberá especificar, por lo menos, lo siguiente:
 
-a) Monto, periodo o plazo de vigencia del financiamiento;
+I. Monto autorizado de la Deuda Pública u Obligación a incurrir;
 
-b) Garantías y/o avales del financiamiento; y
+II. Plazo máximo autorizado para el pago;
 
-c) Fuente de pago del financiamiento.
+III. Destino de los recursos;
 
-3. Descripción del proyecto o proyectos de inversión pública productiva donde se precise lo siguiente:
+IV. En su caso, la Fuente de pago o la contratación de una Garantía de pago de la Deuda Pública u Obligación, y
 
-a) Tipo y necesidad de la inversión;
+V. En caso de autorizaciones específicas, establecerá la vigencia de la autorización, en la que no podrá exceder el ejercicio fiscal siguiente. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en que fue aprobada.
 
-b) Argumentación que sustente los beneficios en la población; y
+Los requisitos a que se refiere este artículo deberán cumplirse, en lo conducente, para la autorización del Congreso local para el otorgamiento de avales o Garantías que pretenda otorgar el Estado.
 
-c) Monto total de la inversión.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
-4. Estado de la situación de la Deuda Pública y su costo financiero a la fecha de solicitud del endeudamiento.
+Artículo 8 bis-1. Los Entes Públicos estarán obligados a contratar los Financiamientos y Obligaciones a su cargo bajo las mejores condiciones de mercado.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2010)</small>
+Una vez celebrados los instrumentos jurídicos relativos, a más tardar en los 10 días posteriores a la inscripción en el Registro Público Único, el Ente Público deberá publicar en su página oficial de Internet dichos instrumentos. Asimismo, el Ente Público presentará en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de cada Financiamiento u Obligación contraída en los términos de este Capítulo, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados.
 
-Artículo 8 bis-1. Para todo financiamiento autorizado por parte del Congreso del Estado, el, Ejecutivo del Estado deberá presentar la siguiente información y documentación al Congreso del Estado, por conducto de la Comisión Orgánica de Hacienda y Presupuesto, en un plazo no mayor a 90 (noventa) días naturales a partir de la contratación del financiamiento:
+Adicionalmente a lo anterior, el Ejecutivo del Estado deberá presentar la siguiente información y documentación al Congreso del Estado, por conducto de la Comisión Orgánica de Hacienda y Presupuesto, a más tardar en los 10 días posteriores a la inscripción en el Registro Público Único,
 
-1. Informe del financiamiento contratado que debe contener:
+I. Importe del Financiamiento u Obligación;
 
-a) Monto, periodo o plazo de vigencia del financiamiento;
+II. Tasa de interés, garantías, avales y condiciones del Financiamiento u Obligación, así como comisiones, y otros accesorios pactados; y
 
-b) Tasa de interés, garantías, avales y condiciones del financiamiento, así como comisiones, y otros cargos;
+III. Calendario de amortización del financiamiento u Obligación; y
 
-c) Calendario de amortización del financiamiento; y
+IV. Datos de la inscripción del financiamiento u obligación en el Registro Público Único.
 
-d) Fuente de pago del financiamiento.
-
-2. Acreditar la inscripción del financiamiento en el Registro de Deuda Pública del Estado de Tabasco y sus Municipios, así como, en caso que corresponda, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios de la Secretaría de Hacienda y Crédito Público.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 9.
 
-Las obligaciones de Deuda Pública Estatal estarán destinadas al financiamiento de inversiones públicas productivas o servicios públicos que en forma directa o mediata generen recursos públicos en los términos de la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos. Se consideran como inversiones públicas productivas, entre otras, la Reestructuración o Refinanciamiento de Deuda Pública Estatal, tendientes al saneamiento financiero del Estado.
-
-Queda prohibido contraer obligaciones de pasivo, que constituyan deuda pública para financiar gasto corriente.
+Sólo se podrán contraer Financiamientos u Obligaciones cuando se destinen a Inversiones públicas productivas y a Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas Obligaciones y Financiamientos, así como las reservas que deban constituirse en relación con las mismas.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
+Queda prohibido contraer obligaciones de pasivo, que constituyan deuda pública para financiar gasto corriente.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 10.
 
-El Estado no podrá, en ningún caso, contraer directa o indirectamente Financiamientos con gobiernos de otras naciones, con sociedades o particulares extranjeros, o cuando deban pagarse en moneda extranjera o fuera del territorio nacional. Los Valores que emita el Estado sólo podrán ser adquiridos por personas físicas o jurídico colectivas de nacionalidad mexicana o fideicomisos constituidos de conformidad con las leyes mexicanas. Las obligaciones de pago que contraiga el Estado al amparo de esta Ley, podrán denominarse en Unidades de Inversión o en cualquier otra unidad de valor análoga a las Unidades de Inversión creada por el Banco de México, siempre que sea pagadera en pesos. En el caso de que las obligaciones de pago que contraiga el Estado se denominen en Unidades de Inversión, se considerará como revaluación de dichas obligaciones al incremento o actualización que observe la Unidad de Inversión producido por .el efecto de la inflación.
+Los Entes Públicos del Estado de Tabasco no podrán contraer, directa o indirectamente, Financiamientos u Obligaciones con gobiernos de otras naciones, con sociedades o particulares extranjeros, ni cuando deban pagarse en moneda extranjera o fuera del territorio nacional. Asimismo, sólo podrán contraer Obligaciones o Financiamientos cuando se destinen a Inversiones públicas productivas y a Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas Obligaciones y Financiamientos, así como las reservas que deban constituirse en relación con las mismas.
+
+Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la Inversión pública productiva realizada.
+
+Lo dispuesto en este Capítulo no será aplicable a la contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, así como por la Ley de Coordinación Fiscal.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
@@ -273,23 +333,31 @@ El Estado no podrá, en ningún caso, contraer directa o indirectamente Financia
 
 Ninguna ley o decreto, disposición de carácter general o acto administrativo podrá afectar los derechos previamente adquiridos y derivados de la celebración de Financiamientos.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 12.
 
-De conformidad con lo señalado en la presente Ley, el Estado podrá contratar Financiamientos de manera mancomunada con Municipios, Entidades Paraestatales, Entidades Paramunicipales u otras personas jurídicas colectivas.
+De conformidad con lo señalado en la presente Ley, el Estado podrá contratar Financiamientos de manera mancomunada con Municipios, Entidades Paraestatales, Entidades Paramunicipales u otros entes públicos.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 13.
 
-El Estado podrá constituirse en garante, avalista o fiador de los Municipios, previa solicitud por parte de los anteriores y mediante autorización de la Secretaría y solo en los casos en que la magnitud o el impacto social del proyecto que se pretenda financiar así lo amerite, o cuando existan circunstancias extraordinarias, plenamente justificadas, que así lo requieran y que no pongan en grave riesgo la solvencia de los Municipios y las finanzas del Estado, a juicio de la Secretaría.
+El Estado podrá constituirse en garante, avalista o fiador de los Municipios, previa solicitud de los mismos mediante autorización de la Secretaría, sólo en los casos en que la magnitud o el impacto social del proyecto que se pretenda financiar así lo amerite, o cuando existan circunstancias extraordinarias, plenamente justificadas, que así lo requieran y que no pongan en riesgo la solvencia de los Municipios y las finanzas del Estado, a juicio de la Secretaría.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
 A la solicitud deberá adjuntarse copia certificada del acta de cabildo del Ayuntamiento donde se haga constar la aprobación correspondiente, así como la información y documentos a que refiere el artículo 25 bis de esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 La Secretaría podrá solicitar mayor información en aquellos casos que considere necesario en función del monto, plazo, y proyecto a financiar.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+
 El financiamiento de proyectos con una fuente de repago plenamente identificable, deberá evaluarse atendiendo a la estructura financiera del proyecto, los ingresos que se generarán y en términos generales los recursos para arrancar el proyecto y su mantenimiento.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
 La Secretaría resolverá en un plazo máximo de treinta días, contados a partir de que se hayan cumplido con los requisitos exigidos, realizando una evaluación sobre la viabilidad del proyecto, capacidad de pago o de endeudamiento.
 
@@ -299,11 +367,11 @@ En aquellos casos en que los Municipios no requieran que el Ejecutivo se constit
 
 ### Capítulo III. Reglas Generales para la Afectación de Ingresos del Estado
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 14.
 
-El Ejecutivo del Estado, previa autorización del Congreso del Estado, podrá afectar como fuente o garantía de pago o ambas, de las obligaciones que contraiga, sus contribuciones, productos, aprovechamientos y accesorios, o cualquier otro ingreso susceptible de afectación. En el entendido que se podrán afectar dichos ingresos, el derecho a percibirlos o ambos. Así mismo, el Ejecutivo del Estado, previa autorización del Congreso del Estado, podrá afectar los ingresos, el derecho a percibir dichos ingresos o ambos, derivado de las Participaciones y/o Aportaciones Federales, así como de otros recursos federales susceptibles de afectación, el derecho a percibirlos o ambos, de conformidad con la legislación aplicable.
+El Ejecutivo del Estado, previa autorización del Congreso del Estado, podrá afectar como fuente o garantía de pago o ambas, de los financiamientos y obligaciones que contraiga, sus contribuciones, productos, aprovechamientos y accesorios, o cualquier otro ingreso susceptible de afectación, en el entendido que se podrán afectar dichos ingresos, el derecho a percibirlos o ambos. Así mismo, el Ejecutivo del Estado, previa autorización del Congreso del Estado, podrá afectar los ingresos, el derecho a percibir dichos ingresos o ambos, derivado de las Participaciones y/o Aportaciones Federales, así como de otros recursos federales susceptibles de afectación, el derecho a percibirlos o ambos. En todo caso, se deberá cumplir con los requisitos, trámites y demás disposiciones que señalen esta Ley, la Ley de Disciplina Financiera y demás ordenamientos aplicables.
 
 ###### Artículo 15.
 
@@ -337,9 +405,11 @@ En caso de que se actualicen los supuestos mencionados en este Artículo, los in
 
 ### Capítulo IV. De la Contratación de Financiamientos de Entidades Paraestatales
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 18.
 
-Las Entidades Paraestatales deberán contar con la autorización de la Secretaría para llevar a cabo la contratación de Financiamientos. Para obtener dicha autorización, las Entidades Paraestatales deberán enviar una solicitud a la Secretaría, en la que se describa el Financiamiento a ser contratado, el cual deberá cumplir con los requisitos establecidos en esta Ley.
+Las Entidades Paraestatales deberán contar con la autorización de la Secretaría para llevar a cabo la contratación de Financiamientos u obligaciones. Para obtener dicha autorización, las Entidades Paraestatales deberán enviar una solicitud a la Secretaría, en la que se describa el Financiamiento a ser contratado, el cual deberá cumplir con los requisitos establecidos en esta Ley, la Ley de Disciplina Financiera y demás ordenamientos aplicables.
 
 ###### Artículo 19.
 
@@ -357,35 +427,29 @@ El Estado únicamente podrá constituirse en garante, avalista o fiador de las E
 
 Son autoridades en materia de Deuda Pública Municipal, dentro de sus respectivas competencias: el Congreso del Estado; el Ejecutivo del Estado a través de la Secretaría y los Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 22.
 
-El Congreso del Estado tendrá las facultades, atribuciones y obligaciones en materia de Deuda Pública Municipal que le confiera la Constitución Política del Estado, la presente Ley y otras disposiciones legales, incluyendo sin limitación las siguientes:
+El Congreso del Estado tendrá las facultades, atribuciones y obligaciones en materia de Deuda Pública Municipal que le confiera la Constitución Política del Estado, la presente Ley, la Ley de Disciplina Financiera y demás ordenamientos aplicables:
 
-I. Autorizar los montos máximos de endeudamiento anual en la correspondiente Ley de Ingresos de los Municipios del Estado de Tabasco;
+El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, autorizará los montos máximos para la contratación de Financiamientos y Obligaciones por parte de los Municipios y sus entes públicos. Para el otorgamiento de dicha autorización, la Legislatura deberá realizar previamente, un análisis de la capacidad de pago del Ente Público a cuyo cargo estaría la Deuda Pública u Obligaciones correspondientes, del destino del Financiamiento u Obligación y, en su caso, del otorgamiento de recursos como Fuente o Garantía de pago.
 
-II. Autorizar, previa solicitud de los Ayuntamientos, el ejercicio de montos de Endeudamiento Neto Municipal, cuando se presenten circunstancias que así lo requieran;
+Las operaciones de Refinanciamiento o Reestructura no requerirán autorización específica del Congreso del Estado, siempre y cuando cumplan con las condiciones señaladas en el tercer párrafo del artículo 6 de esta Ley.
 
-III. Solicitar a los Municipios y a las Entidades Paramunicipales los informes que considere pertinentes para conocer y analizar la situación y evolución de su Deuda Pública Municipal;
+Dentro de los 15 días naturales siguientes a la celebración del Refinanciamiento o Reestructuración, el Ente Público municipal deberá informar al Congreso del Estado sobre la celebración de este tipo de operaciones, así como inscribir dicho Refinanciamiento o Reestructuración ante el Registro Público Único y en el Registro Estatal.
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2010)</small>
-
-IV. Autorizar el otorgamiento de financiamientos que representen Deuda Pública Indirecta Municipal;
-
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2010)</small>
-
-V. Autorizar el otorgamiento de las garantías de los Financiamientos, así como de su reestructuración y refinanciamiento; y
-
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2010)</small>
-
-VI. Autorizar Líneas Globales de Financiamiento a dos o más Municipios. Las obligaciones que deriven de estas autorizaciones no podrán exceder, en ningún caso, el periodo constitucional de la administración municipal.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 23.
 
-El Ejecutivo del Estado, a través de la Secretaría, la cual será la dependencia encargada de interpretar administrativamente la presente Ley, tendrá las facultades, atribuciones y obligaciones en materia de Deuda Pública Municipal que le confiera la Constitución Política del Estado, la presente Ley y otras disposiciones legales.
+El Ejecutivo del Estado, a través de la Secretaría, tendrá las facultades, atribuciones y obligaciones en materia de Deuda Pública Municipal que le confieran la Constitución Política del Estado, la Ley de Disciplina Financiera, esta Ley y demás ordenamientos aplicables
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 24.
 
-Los Ayuntamientos tendrán las facultades, atribuciones y obligaciones en materia de Deuda Pública Municipal que les confiera la Constitución Política del Estado, la presente Ley y otras disposiciones legales, incluyendo sin limitación las siguientes:
+Los Ayuntamientos tendrán las facultades, atribuciones y obligaciones en materia de Deuda Pública Municipal que les confiera la Constitución Política del Estado, la Ley de Disciplina Financiera, esta Ley y demás ordenamientos aplicables. Además, deberán:
 
 I. Apoyar y asesorar a las Entidades Paramunicipales, cuando así lo soliciten, en materia financiera para gestionar y contratar Financiamientos, ajustándose a las medidas administrativas establecidas;
 
@@ -395,99 +459,85 @@ III. Proporcionar al Congreso del Estado y a la Secretaría la información que 
 
 ### Capítulo II. Reglas Generales en Materia de Contratación de Deuda Pública Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 25.
 
-Para el ejercicio oportuno del Presupuesto de Egresos correspondiente y la adecuación de los flujos financieros autorizados por el cabildo correspondiente, los Ayuntamientos podrán contratar Financiamientos cuya vigencia no sea mayor de un año y que su vencimiento y pago se realice de la siguiente manera.
+Para el ejercicio oportuno del Presupuesto de Egresos correspondiente y la adecuación de los flujos financieros autorizados por el cabildo correspondiente, los Municipios podrán contratar Obligaciones a corto plazo, sin autorización del Congreso del Estado, conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+I. En todo momento, el saldo insoluto total del monto principal de las Obligaciones a corto plazo no exceda del 6 por ciento de los Ingresos totales aprobados en la Ley de Ingresos municipal, según corresponda, sin incluir Financiamiento Neto, durante el ejercicio fiscal de que se trate;
 
-a) En ningún caso el plazo excederá el periodo constitucional de la administración en turno, ni vencerá dentro de los noventa días naturales anteriores al fin de dicho periodo constitucional.
+II. Las Obligaciones a corto plazo queden totalmente pagadas a más tardar tres meses antes de que concluya el periodo de gobierno de la administración municipal correspondiente, no pudiendo contratar nuevas Obligaciones a corto plazo durante esos últimos tres meses;
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2010)</small>
+III. Las Obligaciones a corto plazo deberán ser quirografarias, y
 
-b) El límite máximo de este tipo de financiamientos que podrá contratar el Ayuntamiento será de 15% de sus ingresos ordinarios determinados en sus leyes de ingresos vigentes.
+IV. Ser inscritas en el Registro Público Único y en el Registro Estatal.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+Para dar cumplimiento a la contratación de las Obligaciones a corto plazo bajo mejores condiciones de mercado, el Ente Público deberá implementar un proceso competitivo con por lo menos dos instituciones financieras y obtener únicamente una oferta irrevocable, que deberá tener una vigencia mínima de 60 días naturales. Las Obligaciones a corto plazo que se contraten quedarán sujetas a los requisitos de información previstos en esta Ley.
 
-c) No se afectará en garantía o en pago el derecho a recibir participaciones derivadas de la coordinación fiscal o cualquier otro ingreso o derecho.
+Los recursos provenientes de Obligaciones a corto plazo, serán destinados exclusivamente a cubrir necesidades de corto plazo, entendiendo dichas necesidades como insuficiencias de liquidez de carácter temporal. En todo caso, los Entes Públicos contratantes, deberán presentar los informes a que se refiere el artículo 31 de la Ley de Disciplina Financiera.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
-d) El financiamiento así contratado podrá ser refinanciado y reestructurado, sólo cuando lo autorice el Congreso del Estado.
+Artículo 25 bis. Los Municipios deberán contar con la autorización del Congreso del Estado para llevar a cabo la contratación de Financiamientos y Obligaciones cuya vigencia sea mayor a un año. Para obtener dicha autorización, deberán enviar una solicitud por escrito al Congreso del Estado, la cual deberá cumplir con los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+En su caso, La autorización de los Financiamientos y Obligaciones por parte de la Legislatura local deberá especificar, por lo menos, lo siguiente:
 
-e) El Ayuntamiento informara a la Comisión de Hacienda y Presupuesto del Congreso del Estado de la contratación, liquidación y conclusión del financiamiento en un plazo que no exceda de 30 días naturales siguientes de cada uno de los actos correspondientes.
+I. Monto autorizado de la Deuda Pública u Obligación a incurrir;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+II. Plazo máximo autorizado para el pago;
 
-f) El incumplimiento de las disposiciones anteriores dará lugar a la aplicación de responsabilidades y sanciones administrativas en el servicio público.
+III. Destino de los recursos;
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2010)</small>
+IV. En su caso, la Fuente de pago o la contratación de una Garantía de pago de la Deuda Pública u Obligación, y
 
-Artículo 25 bis. Los Municipios deberán contar con la autorización del Congreso del Estado para llevar a cabo la contratación de financiamientos cuya vigencia sea mayor a un año. Para obtener dicha autorización, deberán enviar una solicitud al Congreso del Estado, la cual deberá cumplir con los siguientes requisitos:
+V. En caso de autorizaciones específicas, establecerá la vigencia de la autorización, en la que no podrá exceder el ejercicio fiscal siguiente. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en que fue aprobada.
 
-1. Acta de aprobación expresa por parte del Ayuntamiento para:
+Los requisitos a que se refiere este artículo deberán cumplirse, en lo conducente, para la autorización del Congreso local para el otorgamiento de avales o Garantías que pretendan otorgar el Estado o los Municipios.
 
-a) Contratar el financiamiento, especificando monto, plazo y destino;
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
-b) Solicitar la autorización al Congreso del Estado, de acuerdo a lo preceptuado por la Constitución Local.
+Artículo 25 bis-1. Los Municipios y sus Entes Públicos estarán obligados a contratar los Financiamientos y Obligaciones a su cargo bajo las mejores condiciones de mercado.
 
-c) Constituirse como primer garante, en su caso; y
+Una vez celebrados los instrumentos jurídicos relativos, a más tardar en los 10 días posteriores a la inscripción en el Registro Público Único, el Municipio o Ente Público deberá publicar en su página oficial de Internet dichos instrumentos. Asimismo, deberá presentar en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de cada Financiamiento u Obligación contraída en los términos de este Capítulo, incluyendo como mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados.
 
-d) La afectación de la fuente de pago del financiamiento.
+Adicionalmente a lo anterior, el Municipio deberá presentar la siguiente información y documentación al Congreso del Estado, por conducto de la Comisión Orgánica de Hacienda y Presupuesto, a más tardar en los 10 días posteriores a la inscripción en el Registro Público Único,
 
-2. Presentar un análisis financiero de la solicitud de deuda que contenga los siguientes elementos:
+I. Importe del Financiamiento u Obligación;
 
-a) Monto, periodo o plazo de vigencia del financiamiento;
+II. Tasa de interés, garantías, avales y condiciones del Financiamiento u Obligación, así como comisiones, y otros accesorios pactados;
 
-b) Garantías y/o avales del financiamiento; y
+III. Calendario de amortización del financiamiento u Obligación; y
 
-c) Fuente de pago del financiamiento.
+IV. Datos de la inscripción del financiamiento u obligación en el Registro Público Único.
 
-3. Descripción del proyecto o proyectos de inversión pública productiva donde se precise lo siguiente:
-
-a) Tipo y necesidad de la inversión;
-
-b) Argumentación que sustente los beneficios en la población; y
-
-c) Monto total de la inversión.
-
-4. Estado de la situación de la Deuda Pública del Municipio y su costo financiero, a la fecha de solicitud del endeudamiento.
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2010)</small>
-
-Artículo 25 bis-1. Todo financiamiento autorizado por parte del Congreso del Estado, el Municipio deberá presentar la siguiente información y documentación al Congreso del Estado, en un plazo no mayor de 90 (noventa) días naturales a partir de la contratación del Financiamiento:
-
-1. Informe del financiamiento contratado que debe contener:
-
-a) Monto, periodo o plazo de vigencia del financiamiento;
-
-b) Tasa de interés, garantías, avales y condiciones del financiamiento, así como comisiones, y otros cargos;
-
-c) Calendario de amortización del financiamiento; y
-
-d) Fuente de pago del financiamiento.
-
-2. Acreditar la inscripción del financiamiento en el Registro de Deuda Pública del Estado de Tabasco y sus Municipios, así como, en caso de que corresponda, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios de la Secretaría de Hacienda y Crédito Público.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 26.
 
-Las obligaciones de Deuda Pública Municipal estarán destinadas al financiamiento de inversiones públicas productivas o servicios públicos que en forma directa o mediata generen recursos públicos en los términos de la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos. Se consideran como inversiones públicas productivas, entre otras, la Reestructuración o Refinanciamiento de la Deuda Pública Municipal, tendientes al saneamiento financiero del Municipio.
-
-Queda prohibido contraer obligaciones de pasivo, que constituyan deuda pública para financiar gasto corriente.
+Sólo se podrán contraer Financiamientos u Obligaciones cuando se destinen a Inversiones públicas productivas y a Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas Obligaciones y Financiamientos, así como las reservas que deban constituirse en relación con las mismas.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
+Queda prohibido contraer obligaciones de pasivo, que constituyan deuda pública para financiar gasto corriente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 27.
 
-Los Municipios no podrán, en ningún caso, contraer directa o indirectamente Financiamientos con gobiernos de otras naciones, con sociedades o particulares extranjeros, o cuando deban pagarse en moneda extranjera o fuera del territorio nacional. Los Valores que emitan los Municipios sólo podrán ser adquiridos por personas físicas o jurídico colectivas de nacionalidad mexicana o fideicomisos constituidos de conformidad con las leyes mexicanas.
+Los Municipios y sus Entes Públicos no podrán contraer, directa o indirectamente, Financiamientos u Obligaciones con gobiernos de otras naciones, con sociedades o particulares extranjeros, ni cuando deban pagarse en moneda extranjera o fuera del territorio nacional. Asimismo, sólo podrán contraer Obligaciones o Financiamientos cuando se destinen a Inversiones públicas productivas y a Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas Obligaciones y Financiamientos, así como las reservas que deban constituirse en relación con las mismas.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
 Las obligaciones de pago que contraigan los Municipios y las Entidades Paramunicipales, al amparo de esta Ley, podrán denominarse en Unidades de Inversión o en cualquier otra unidad de valor análoga a las Unidades de Inversión creada por el Banco de México, siempre que sea pagadera en Pesos. En caso que las obligaciones de pago que contraiga el Estado se denominen en Unidades de Inversión, se considerará como revaluación de dichas obligaciones al incremento o actualización que sufre la Unidad de Inversión producto por el efecto de la inflación.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la Inversión pública productiva realizada.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Lo dispuesto en este Capítulo no será aplicable a la contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, así como por la Ley de Coordinación Fiscal.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
@@ -495,17 +545,17 @@ Las obligaciones de pago que contraigan los Municipios y las Entidades Paramunic
 
 Ninguna Ley o Decreto, disposición de carácter general o acto administrativo podrá afectar los derechos previamente adquiridos y derivados de la celebración de Financiamientos.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 29.
 
-De conformidad a lo señalado en la presente Ley, los Municipios podrán contratar Financiamientos de manera mancomunada con el Estado, otros Municipios, Entidades Paramunicipales, Entidades Paraestatales u otras personas jurídicas colectivas.
+De conformidad a lo señalado en la presente Ley, los Municipios podrán contratar Financiamientos de manera mancomunada con el Estado, otros Municipios, Entidades Paramunicipales, Entidades Paraestatales u otros Entes Públicos.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 30.
 
-Los Ayuntamientos estarán facultados para celebrar u otorgar, en el ámbito de su competencia, los actos jurídicos necesarios para implementar los Financiamientos, así como para acordar los términos y condiciones que consideren convenientes, salvo aquellos en los que requieran autorización del Congreso del Estado o de la Secretaría, según sea el caso, de conformidad con la presente Ley o con la legislación aplicable.
+Los Ayuntamientos estarán facultados para celebrar u otorgar, en el ámbito de su competencia, los actos jurídicos necesarios para implementar los Financiamientos, así como para acordar los términos y condiciones que consideren convenientes, salvo aquellos en los que requieran autorización del Congreso del Estado o de la Secretaría, según sea el caso, de conformidad con la Ley de Disciplina Financiera, la presente Ley y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
@@ -515,11 +565,11 @@ Los Municipios podrán constituirse en garantes, avalistas o fiadores de las Ent
 
 ### Capítulo III. Reglas Generales para la Afectación de Ingresos de los Municipio (sic)
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 32.
 
-Los Municipios, previa autorización del Congreso del Estado, podrán afectar como fuente o garantía de pago o ambas, de las obligaciones que contraigan, sus contribuciones, productos, aprovechamientos y accesorios, o cualquier otro ingreso susceptible de afectación. En el entendido que se podrán afectar dichos ingresos, el derecho a percibirlos o ambos. Así mismo, los Municipios, previa autorización del Congreso del Estado, podrán afectar los ingresos, el derecho a percibir dichos ingresos o ambos, derivado de las Participaciones y/o Aportaciones Federales, así como de otros recursos federales susceptibles de afectación, el derecho a percibirlos o ambos, de conformidad con la legislación aplicable.
+Los Municipios, previa autorización del Congreso del Estado, podrán afectar como fuente o garantía de pago o ambas, de los Financiamientos y Obligaciones que contraigan, sus contribuciones, productos, aprovechamientos y accesorios, o cualquier otro ingreso susceptible de afectación, en el entendido que se podrán afectar dichos ingresos, el derecho a percibirlos o ambos. Así mismo, los Municipios, previa autorización del Congreso del Estado, podrán afectar los ingresos, el derecho a percibir dichos ingresos o ambos, derivado de las Participaciones y/o Aportaciones Federales, así como de otros recursos federales susceptibles de afectación, el derecho a percibirlos o ambos, de conformidad con la legislación aplicable.
 
 ###### Artículo 33.
 
@@ -553,9 +603,11 @@ En caso de que se actualicen los supuestos mencionados en este Artículo, los in
 
 ### Capítulo IV. De la Contratación de Financiamientos de Entidades Paramunicipales
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 36.
 
-Las Entidades Paramunicipales deberán contar con la autorización de sus respectivos Ayuntamientos para llevar a cabo la contratación de Financiamientos. A fin de obtener dicha autorización, las Entidades Paramunicipales deberán enviar una solicitud al Ayuntamiento correspondiente, en la que se describa el Financiamiento a ser contratado, el cual deberá cumplir con los requisitos establecidos en esta Ley.
+Las Entidades Paramunicipales deberán contar con la autorización de sus respectivos Ayuntamientos para llevar a cabo la contratación de Financiamientos u Obligaciones. A fin de obtener dicha autorización, las Entidades Paramunicipales deberán enviar una solicitud al Ayuntamiento correspondiente, en la que se describa el Financiamiento a ser contratado, el cual deberá cumplir con los requisitos establecidos en esta Ley, la Ley de Disciplina Financiera y demás ordenamientos aplicables.
 
 ###### Artículo 37.
 
@@ -569,17 +621,21 @@ El Estado únicamente podrá constituirse en garante, avalista o fiador de las E
 
 ### Capítulo Único. Prelación y preferencia en el pago de Financiamientos
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 39.
 
-Todas las obligaciones de Deuda Pública Estatal y de Deuda Pública Municipal, así como la que contraigan los fideicomisos a que se refieren el Capítulo III del Título Segundo y el Capítulo III del Título Tercero de la presente Ley respectivamente, se inscribirán en el Registro.
+Todos los Financiamientos y Obligaciones que contraigan los entes públicos, estatales y municipales, se inscribirán en el Registro Público Único, de conformidad con lo señalado en el Capítulo VI del Título Tercero de la Ley de Disciplina Financiera.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 40.
 
-El número progresivo y fecha de inscripción en el Registro darán la prelación y preferencia en el pago a los acreditados para los efectos de exigibilidad en el pago de las obligaciones quirografarias a cargo del Estado y de los Municipios.
+El número progresivo y fecha de inscripción en el Registro Estatal darán la prelación y preferencia en el pago a los acreditados para los efectos de exigibilidad en el pago de las obligaciones quirografarias a cargo del Estado y de los Municipios.
 
-De igual manera, el número progresivo y fecha de inscripción en el Registro darán la prelación y preferencia en el pago a los acreditados para los efectos de exigibilidad en el pago de las obligaciones de Deuda Pública Estatal y de Deuda Pública Municipal que cuenten como garantía o fuente de pago ingresos del Estado o de los Municipios que no hayan sido afectados a algún fideicomiso o mecanismo legal a que se refiere el Capítulo III del Título Segundo y el Capítulo III del Título Tercero de la presente Ley, respectivamente.
+De igual manera, el número progresivo y fecha de inscripción en el Registro Estatal darán la prelación y preferencia en el pago a los acreditados para los efectos de exigibilidad en el pago de financiamientos y obligaciones de Deuda Pública Estatal y de Deuda Pública Municipal que cuenten como garantía o fuente de pago ingresos del Estado o de los Municipios que no hayan sido afectados a algún fideicomiso o mecanismo legal a que se refieren el Capítulo III del Título Segundo y el Capítulo III del Título Tercero de la presente Ley, respectivamente.
 
-Para todos los efectos legales, en el supuesto de que un grupo de acreedores soliciten, conjuntamente, su inscripción al Registro, sus Financiamientos se considerarán como inscritos con el mismo número progresivo y fecha de inscripción, por lo que tendrán la misma prelación y preferencia para el pago de sus obligaciones.
+Para todos los efectos legales, en el supuesto de que un grupo de acreedores soliciten, conjuntamente, su inscripción al Registro Estatal, sus Financiamientos se considerarán como inscritos con el mismo número progresivo y fecha de inscripción, por lo que tendrán la misma prelación y preferencia para el pago de sus obligaciones.
 
 ###### Artículo 41.
 
@@ -605,55 +661,73 @@ En aquellos casos en que, de conformidad con lo establecido en la presente Ley, 
 
 ### Capítulo I. Obligaciones Registrables del Estado y de los Municipios
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 46.
 
-En el Registro se inscribirán, a solicitud del Estado, de los Municipios o de los fiduciarios de los fideicomisos a que se refieren el Capítulo III del Título Segundo de la presente Ley y el Capítulo III del Título Tercero de la presente Ley respectivamente, los Financiamientos que constituyan Deuda Pública Estatal o Deuda Pública Municipal, así como cualquier modificación a los mismos. La inscripción en el Registro es independiente de aquella que el Estado, los Municipios o los fiduciarios de los fideicomisos, a que se refieren el Capítulo III del Título Segundo de la presente Ley y el Capítulo III del Título Tercero de la presente Ley respectivamente, deba realizar conforme a la legislación aplicable, en el Registro Único de Obligaciones y Financiamientos de la Secretaría de Hacienda y Crédito Público.
+En el Registro Estatal se inscribirán, a solicitud del Estado, de los Municipios o de los fiduciarios de los fideicomisos a que se refieren el Capítulo III del Título Segundo de la presente Ley y el Capítulo III del Título Tercero de la presente Ley respectivamente, los Financiamientos y Obligaciones que constituyan Deuda Pública Estatal o Deuda Pública Municipal, así como cualquier modificación a los mismos. La inscripción en el Registro es independiente de aquella que el Estado, los Municipios o los fiduciarios de los fideicomisos, a que se refieren el Capítulo III del Título Segundo de la presente Ley y el Capítulo III del Título Tercero de la presente Ley respectivamente, deba realizar conforme a la legislación aplicable, en el Registro Público Único.
+
+En el Registro Estatal se inscribirán en un apartado específico las Obligaciones que se deriven de contratos de Asociaciones Público-Privadas.
 
 ### Capítulo II. Procedimiento para llevar a cabo la Inscripción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 47.
 
-Para la inscripción de un Financiamiento en el Registro, el Estado, los Municipios o los fiduciarios de los fideicomisos a que se refieren el Capítulo III del Título Segundo de la presente Ley y el Capítulo III del Título Tercero de la presente Ley respectivamente, deberán presentar a la Secretaría una solicitud en la que se incluirá un resumen de los principales datos del Financiamiento. La solicitud estará acompañada de los siguientes documentos:
+Para la inscripción de un Financiamiento u Obligación en el Registro Estatal, los Entes Públicos que se refieren (sic) el Capítulo III del Título Segundo de la presente Ley y el Capítulo III del Título Tercero de la presente Ley respectivamente, deberán presentar a la Secretaría una solicitud en la que se incluirá un resumen de los principales datos del Financiamiento u Obligación. La solicitud estará acompañada de los siguientes documentos:
 
-I. Un ejemplar original o copia certificada del instrumento o instrumentos jurídicos en los que se haga constar dicho Financiamiento y, en el caso de obligaciones que se documenten a través de títulos de crédito o Valores, copia certificada de los mismos;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2010)</small>
+I. Un ejemplar original o copia certificada del instrumento o instrumentos jurídicos en los que se haga constar dicho Financiamiento u Obligación y, en el caso de obligaciones que se documenten a través de títulos de crédito o Valores, copia certificada de los mismos;
 
-II. Un ejemplar original de la publicación de las finanzas del Ejecutivo del Estado o Municipio en un periódico de circulación local y en uno de circulación nacional;
+II. (DEROGADA, P.O. 8 DE MARZO DE 2017)
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-III. Copia del decreto del Congreso del Estado en el que se autorice el financiamiento y sus garantías;
+III. Copia del decreto del Congreso del Estado en el que se autorice el financiamiento y sus garantías, en su caso;
 
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-IV. Tratándose de Municipios, adicionalmente se requerirá acta de sesión de cabildo del Ayuntamiento que apruebe la contratación del financiamiento; y
+IV. Tratándose de Municipios, adicionalmente se requerirá acta de sesión de Cabildo del Ayuntamiento que haya aprobado la contratación del financiamiento; y
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2010)</small>
 
 V. Presentar dictamen de una institución calificadora autorizada por la Comisión Nacional Bancaria y de Valores o estudio de las finanzas elaborado por la institución que otorga el financiamiento, así como, estados financieros de los últimos tres ejercicios fiscales auditados por un auditor externo autorizado, que esté debidamente inscrito para estos fines, cuando el Congreso del Estado así lo haya dispuesto al autorizar el financiamiento.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
-La Secretaría, una vez cumplidos los requisitos antes mencionados, procederá a la inscripción solicitada y notificará a la entidad solicitante lo conducente. En caso de no cumplir con los requisitos para la inscripción, la Secretaría lo notificará a la entidad solicitante para que, en su caso, subsane la omisión correspondiente en un término no mayor de diez días hábiles contados a partir de la recepción de la notificación. De lo contrario se procederá con la devolución de dicha solicitud, sin responsabilidad alguna para la Secretaría.
+La Secretaría, una vez cumplidos los requisitos antes mencionados, procederá a la inscripción solicitada y notificará al Ente Público solicitante lo conducente. En caso de no cumplir con los requisitos para la inscripción, la Secretaría lo notificará al Ente Público solicitante para que, en su caso, subsane la omisión correspondiente en un término no mayor de diez días hábiles contados a partir de la recepción de la notificación. De lo contrario se procederá con la devolución de dicha solicitud, sin responsabilidad alguna para la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 48.
 
-En la inscripción al Registro se anotará lo siguiente:
+En la inscripción al Registro Estatal se anotará lo siguiente:
 
-I. El número progresivo y fecha de inscripción;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-II. Las características del Financiamiento, identificando su objeto, monto, plazo y condiciones financieras, así como las garantías que se otorgaron, y en su caso, el avalista;
+I. El número progresivo y la fecha de inscripción;
 
-III. El nombre del acreditado que lo suscribió, así como de la persona física o jurídico colectiva que lo otorgó;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+II. Las características del Financiamiento u obligación, identificando su objeto, monto, plazo y condiciones financieras, así como las garantías que se otorgaron, y en su caso, el avalista;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+III. El nombre del acreditado que lo suscribió, así como de la persona física o jurídica colectiva que lo otorgó;
 
 IV. La fecha de publicación de los decretos de autorización emitidos por el Congreso del Estado;
 
 V. La autorización del Ejecutivo del Estado para la contratación del Financiamiento;
 
-VI. En el caso de los Municipios, la autorización de los cabildos correspondientes para la contratación del Financiamiento y en su caso, la autorización del Ejecutivo del Estado como aval solidario;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-VII. La cancelación de las inscripciones cuando se acredite el cumplimiento o el pago de los Financiamientos que las generen;
+VI. En el caso de los Municipios, la autorización de los cabildos correspondientes para la contratación del Financiamiento u Obligación y, en su caso, la autorización del Ejecutivo del Estado como aval solidario;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+VII. La cancelación de las inscripciones cuando se acredite el cumplimiento o el pago de los Financiamientos u obligaciones que las generen;
 
 VIII. Las garantías o fuentes de pago afectadas;
 
@@ -663,9 +737,11 @@ X. Las cesiones de derechos que se lleven a cabo de conformidad con lo estableci
 
 XI. Lo demás que determinen otras leyes y disposiciones. En el caso de fideicomisos o cualquier otro mecanismo legal que se implemente de conformidad con el Capítulo III del Título Segundo de la presente Ley y el Capítulo III del Título Tercero de la presente Ley respectivamente, se deberá inscribir además los siguientes datos: A. Número y fecha de inscripción; B. Las características generales del fideicomiso o del mecanismo legal correspondiente, indicando los conceptos mencionados que integren su patrimonio; C. La fecha del decreto de autorización del Congreso del Estado para la afectación correspondiente; D. Las obligaciones de deuda que tengan como fuente o garantía de pago al fideicomiso o al mecanismo legal correspondiente, identificando los acreedores originales, montos, plazos y tasas de interés; E. Las reglas de distribución de recursos previstas en el fideicomiso o del mecanismo legal correspondiente; y F. Las reglas o condiciones para la admisión de nuevos fideicomisarios o acreedores al fideicomiso o mecanismo legal correspondiente. La Secretaría fijará, mediante disposiciones generales de carácter administrativo, el detalle de los datos, requisitos y procedimientos para el registro de la Deuda Pública Estatal y de la Deuda Pública Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 49.
 
-Para modificar la inscripción de Financiamientos en el Registro, la entidad deberá presentar a la Secretaría una solicitud que acompañe la siguiente información:
+Para modificar la inscripción de Financiamientos u Obligaciones en el Registro Estatal, el Ente Público deberá presentar a la Secretaría una solicitud que acompañe la siguiente información:
 
 I. La autorización que en su caso deba otorgar el Congreso del Estado o los fiduciarios de los fideicomisos a que se refieren el Capítulo III del Título Segundo de la presente Ley y el Capítulo III del Título Tercero de la presente Ley respectivamente;
 
@@ -673,17 +749,39 @@ II. Un ejemplar original del instrumento jurídico en el que se haga constar la 
 
 III. Cualquier otra información que la Secretaría solicite anexar a la documentación original.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 50.
 
-El Registro, a través de su titular, expedirá las certificaciones que se soliciten a aquellos que acrediten su interés jurídico respecto de los Financiamientos inscritos.
+El Titular de la Unidad responsable del Registro Estatal, expedirá las certificaciones que se soliciten a aquellos que acrediten su interés jurídico respecto de los Financiamientos inscritos.
 
 ## Título Sexto. Responsabilidades
 
 ### Capítulo Único. De las Responsabilidades con relación a la Deuda Pública Estatal y Deuda Pública Municipal
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 51.
 
-Los servidores públicos que lleven a cabo actos jurídicos en contravención a lo dispuesto en esta Ley serán responsables de conformidad con las leyes aplicables, pero en ningún caso se afectará la validez o exigibilidad de los Financiamientos respectivos.
+Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la Ley de Disciplina Financiera, la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la legislación en materia de responsabilidades administrativas de los servidores públicos y demás disposiciones aplicables, en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Tabasco.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+###### Artículo 52.
+
+Los servidores públicos y las personas físicas o jurídico colectivas que causen daño o perjuicio estimable en dinero a la hacienda del Estado de Tabasco o de los Municipios, incluyendo en su caso, los beneficios obtenidos indebidamente por actos u omisiones que les sean imputables, o por incumplimiento de obligaciones derivadas de esta Ley, serán responsables del pago de la indemnización correspondiente, en los términos de las disposiciones aplicables.
+
+Las responsabilidades se fincarán en primer término a quienes directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los que por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
+
+Serán responsables solidarios con los servidores públicos respectivos, las personas físicas o jurídico colectivas privadas en los casos en que hayan participado y originen una responsabilidad.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+###### Artículo 53.
+
+Las sanciones e indemnizaciones que se determinen por el incumplimiento a las disposiciones de esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, sujetándose al procedimiento de ejecución que establece la legislación aplicable.
+
+Las sanciones e indemnizaciones a que se refiere esta Ley se impondrán y exigirán con independencia de las responsabilidades de carácter político, penal, administrativo o civil que, en su caso, lleguen a determinarse por las autoridades competentes.
 
 ## Transitorios
 
@@ -726,3 +824,27 @@ P.O. 21 DE DICIEMBRE DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 079 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 2, PÁRRAFO PRIMERO Y SUS FRACCIONES I Y V; 3; 4, 5; 6; 7, PÁRRAFO PRIMERO Y SUS FRACCIONES I, II, III, V, VIII Y XI; 8; 8-BIS; 8-BIS 1; 9, PÁRRAFO PRIMERO; 10; 12; 13, PÁRRAFO PRIMERO; 14; 18, 22; 23; 24, PÁRRAFO PRIMERO; 25; 25 BIS; 25 BIS-1; 26, PÁRRAFO PRIMERO; 27, PÁRRAFO PRIMERO; 29; 30; 32; 36; 39; 40; 46; 47, PÁRRAFO PRIMERO Y SUS FRACCIONES I, III Y IV, Y SEGUNDO PÁRRAFO; 48, PÁRRAFO PRIMERO, Y LAS FRACCIONES I, II, III, VI Y VII; 49, PÁRRAFO PRIMERO; 50 Y 51. SE ADICIONAN: UN SEGUNDO PÁRRAFO AL ARTÍCULO 1; UN ARTÍCULO 7 BIS; UN ARTÍCULO 7 BIS- 1; LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 27; Y LOS ARTÍCULOS 52 Y 53. SE DEROGA: LA FRACCIÓN II DEL PRIMER PÁRRAFO DEL ARTÍCULO 47; TODOS DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo y los ayuntamientos, conforme a sus respectivas atribuciones, realizarán las adecuaciones de orden reglamentario y administrativo que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo no mayor a 180 días naturales a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones en materia de equilibrio presupuestario y responsabilidad hacendaria previstas en el Capítulo I del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el Capítulos (sic) II del Título Primero de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios, estarán en vigor para el ejercicio Fiscal 2017, con las salvedades previstas en los artículos transitorios Quinto al Noveno del Decreto por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado el 27 de abril de 2016 en el Diario Oficial de la Federación.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y III del Título Primero de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero del Decreto por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado el 27 de abril de 2016 en el Diario Oficial de la Federación; y los que apliquen de acuerdo al artículo 21 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
