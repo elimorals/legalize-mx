@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-procuraduria-general-de-justicia-del-70288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-08-19"
-last_updated: "2015-10-21"
+last_updated: "2017-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS,PUBLICADA EN EL P.O. DE 8 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -42,6 +44,8 @@ Ley Orgánica de la Procuraduría General de Justicia del Estado
 ## Título Primero. Disposiciones Generales
 
 ### Capítulo Único. De su Objeto y Aplicación
+
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. 8 DE MARZO DE 2017, LAS MENCIONES HECHAS A LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO, O AL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO EN LAS LEYES, REGLAMENTOS Y DEMÁS DISPOSICIONES JURÍDICAS, SE ENTENDERÁN REFERIDAS A LA FISCALÍA GENERAL DEL ESTADO O AL FISCAL GENERAL DEL ESTADO.]</small>
 
 ###### Artículo 1º.
 
@@ -2416,3 +2420,69 @@ Artículo Primero.- El presente Decreto entrará en vigor el día de su publicac
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Artículo Tercero.- El Titular de la Procuraduría General de Justicia del Estado, en un término no mayor a 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterá a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera el Reglamento de su Ley Orgánica, para su aprobación, expedición y publicación correspondiente.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 147 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIAPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, sin perjuicio en lo previsto en los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos señalados en el párrafo primero del Artículo Décimo Segundo Transitorio del Decreto número 044, publicado en el Periódico Oficial 273, de fecha veintinueve de diciembre de dos mil dieciséis, por el que se establece la Trigésima Tercera Reforma Integral a la Constitución Política del Estado Libre y Soberano de Chiapas, se declara la autonomía Constitucional de la Fiscalía General del Estado de Chiapas a partir de la fecha de inicio de vigencia de la presente Ley Orgánica.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado, publicada en (sic) Periódico Oficial el día 19 de agosto de 2009, y se derogan todas las disposiciones que se opongan a la presente ley, salvo en los términos de lo establecido en el transitorio Décimo del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las facultades conferidas al Procurador General de Justicia del Estado en las leyes, reglamentos y demás disposiciones jurídicas, se entenderán conferidas al Fiscal General del Estado, siempre que sean compatibles con las atribuciones que le otorga la Constitución Política del Estado Libre y Soberano de Chiapas y su carácter de órgano constitucional autónomo.
+
+Las menciones hechas a la Procuraduría General de Justicia del Estado, o al Procurador General de Justicia del Estado en las leyes, reglamentos y demás disposiciones jurídicas, se entenderán referidas a la Fiscalía General del Estado o al Fiscal General del Estado, respectivamente, en los términos precisados en el párrafo anterior.
+
+###### ARTÍCULO QUINTO.
+
+Los actuales servidores públicos de la Procuraduría General de Justicia del Estado que hayan sido nombrados por el Ejecutivo del Estado, permanecerán en sus cargos hasta que sean designados por el Fiscal General los titulares de las unidades administrativas creadas en la Ley de la Fiscalía General del Estado o en su Reglamento.
+
+Los servidores públicos que hayan sido nombrados por el Procurador General de Justicia del Estado, así como el personal de confianza de la Procuraduría General de Justicia del Estado, permanecerán en sus cargos hasta que se haga la designación correspondiente, conforme a lo dispuesto por la presente Ley y su Reglamento.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos jurisdiccionales y administrativos relacionados con la sanción, separación, remoción, cese o cualquier otra forma de terminación del servicio de servidores públicos que prestaban sus servicios en la Procuraduría General de Justicia del Estado al día de la entrada en vigor del presente Decreto, concluirán conforme a la normatividad que les fue aplicable en el momento del inicio del procedimiento, mientras que los procedimientos iniciados con posterioridad se seguirán de acuerdo con las presentes disposiciones.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Reglamento de la Ley de la Fiscalía General del Estado, será emitido por el Fiscal General con aprobación del Consejo del Ministerio Público, dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Las disposiciones relativas a los sueldos, prestaciones, escalafón, tabuladores y todas aquellas relacionadas con la administración de los recursos humanos, deberán emitirse en un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, durante este periodo de transición continuarán aplicándose las normas vigentes hasta en tanto se emitan las disposiciones específicas para la Fiscalía General del Estado.
+
+###### ARTÍCULO NOVENO.
+
+Los recursos humanos, materiales, financieros y presupuestales con que actualmente cuenta la Procuraduría General de Justicia del Estado, incluyendo todos sus bienes actuales y los derechos derivados de los fondos o fideicomisos vigentes, pasarán a formar parte de la Fiscalía General del Estado.
+
+###### ARTÍCULO DÉCIMO.
+
+El presente ordenamiento está orientado en su totalidad al Sistema Penal Acusatorio, para efectos de estructuras administrativas, atribuciones, procesos y procedimientos penales armonizados al Código Nacional de Procedimientos Penales.
+
+En esa virtud, la Ley Orgánica de la Procuraduría General de Justicia del Estado, que ahora se abroga, continuará vigente en cuanto a los temas de investigación y judicialización de los asuntos hasta la total liquidación del Sistema Penal Tradicional, más no así, en cuanto a estructuras administrativas. Por lo tanto las competencias sobre los asuntos del Sistema Penal Tradicional, estarán a cargo de la Fiscalía de Distrito o de Materia a la que estos se asignen, hasta su total resolución y liquidación.
+
+Conforme a la gradualidad de implementación total de todos los delitos, vaya ocurriendo en cada distrito judicial, los Titulares de las Fiscalías de Distrito o de Materia, deberán remitir al Fiscal General un informe estadístico que contenga cuando menos la información siguiente:
+
+a) Universo de Averiguaciones Previas en trámite dentro del Sistema Penal Tradicional.
+
+b) Universo de Averiguaciones Previas en reserva del ejercicio de la acción penal del Sistema Penal Tradicional.
+
+c) Universo de órdenes de aprehensión en proceso de cumplimiento.
+
+d) Universo de procesos penales iniciados y sustanciados ante los Juzgados de Primera Instancia del Ramo Penal o Mixtos.
+
+Lo anterior para efecto de que las Fiscalías de Distrito o de Materia, en conjunto, puedan establecer la ruta de liquidación y reorganización administrativa final, de cada sede, o materia ministerial de los procesos en trámite, o substanciación del Sistema Penal Tradicional.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+En la presente Ley, toda mención de la Fiscalía General de la República, deberá entenderse que se hace referencia a la Procuraduría General de la República, hasta en tanto entre en vigor la legislación que ha de regir a dicha Fiscalía.
