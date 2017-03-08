@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interno-de-la-comision-de-arbitraje-medico-del-44849
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-18"
-last_updated: "2012-01-13"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 18 de mayo de 2005.
 
@@ -73,21 +73,33 @@ IV. Las direcciones y unidades administrativas que determine el presente ordenam
 
 Para el despacho de los asuntos que corresponden de manera directa al Presidente, éste contará con el apoyo de las siguientes unidades administrativas:
 
-I. Dirección de la Unidad de Orientación, Gestión y Asesoría;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-II. Dirección de la Unidad de Conciliación;
+I. Dirección de Orientación, Gestión y Asesoría;
 
-III. Dirección de la Unidad de Arbitraje;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-IV. Dirección de la Unidad de Coordinación Municipal;
+II. Dirección de Conciliación;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+III. Dirección de Arbitraje;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+IV. Dirección Médica;
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
 
 V. Dirección Jurídica;
 
-VI. Jefatura Médica;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-VII. Jefatura de Administración y Contabilidad; y
+VI. Dirección Zona Sur y Dirección Zona Norte;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+VII. Jefatura de Administración, Finanzas y Contabilidad; y
 
 VIII. Personal de Apoyo.
 
@@ -97,9 +109,11 @@ VIII. Personal de Apoyo.
 
 El consejo es el órgano supremo de la CAMES, cuyo objetivo primordial es conducir la política que deba regir en ésta, así como vigilar el desarrollo de sus actividades para el adecuado cumplimiento de sus objetivos y atribuciones.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 8.
 
-El consejo estará integrado, en los términos que establece el Artículo 114, de la Ley, por el Presidente quien lo presidirá, más seis consejeros titulares y sus respectivos suplentes que serán nombrados conforme al procedimiento señalado en el Artículo 115 de la Ley. Los consejeros suplentes pueden asistir a todas las sesiones con derecho a voz pero no a voto.
+El consejo estará integrado, en los términos que establece el Artículo 114 de la Ley, por el Presidente quien lo presidirá, más seis consejeros titulares y sus respectivos suplentes que serán nombrados conforme al procedimiento señalado en el Artículo 115 de la Ley. Los consejeros suplentes pueden asistir a todas las sesiones con derecho a voz pero no a voto, excepto si se da la ausencia del consejero propietario.
 
 ###### ARTÍCULO 9.
 
@@ -157,7 +171,7 @@ VI. Emitir opiniones respecto de los asuntos que someta a su conocimiento el Pre
 
 VII. Revisar en la primera reunión de cada año, el reglamento interno y el de procedimientos para la atención de quejas y en su caso, aprobar las reformas y adiciones que se consideren necesarias para el cumplimiento de los objetivos de la CAMES, y;
 
-VIII. Las demás que le confieran la Ley y otras disposiciones aplicables; (sic)
+VIII. Las demás que le confieran la Ley y otras disposiciones aplicables;
 
 ###### ARTÍCULO 19.
 
@@ -291,9 +305,11 @@ XIV. Las demás que le confiera el presente Reglamento, el Presidente y el Conse
 
 ### CAPITULO QUINTO. De las Unidades Administrativas de Apoyo del Presidente de la CAMES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 28.
 
-Corresponde a la Dirección de la Unidad de Orientación, Gestión y Asesoría, el despacho de los siguientes asuntos:
+Corresponde a la Dirección de Orientación, Gestión y Asesoría, el despacho de los siguientes asuntos:
 
 I. Brindar asesoría en materia del derecho a la protección de la Salud;
 
@@ -311,15 +327,21 @@ VII. Solicitar y analizar la información relativa a los hechos materia de la qu
 
 VIII. En la presumible comisión de algún ilícito por parte de algún prestador de servicios médicos o de un usuario, cuando de la queja se tengan elementos de convicción suficientes, remitir el caso por conducto del Presidente a la autoridad competente;
 
-IX. Remitir a la Dirección de la Unidad de Conciliación los expedientes que se determinen procedentes, y;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-X. Las demás que le señale el Presidente, necesarias para el mejor cumplimiento de sus funciones; (sic)
+IX. Remitir a la Dirección de Conciliación, los expedientes que se determinen procedentes; y
+
+X. Las demás que le señale el Presidente, necesarias para el mejor cumplimiento de sus funciones;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 29.
 
-Corresponde a la Dirección de la Unidad de Conciliación, el despacho de los siguientes asuntos:
+Corresponde (sic) la Dirección de Conciliación, el despacho de los siguientes asuntos:
 
-I. Recibir y analizar los expedientes de los asuntos remitidos por la Dirección de la Unidad de Orientación, Gestión y Asesoría;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+I. Recibir y analizar los expedientes de los asuntos remitidos por la Dirección de Orientación, Gestión y Asesoría, el despacho de los siguientes asuntos.
 
 II. Investigar las quejas presentadas, así como solicitar y analizar los informes y demás documentación requerida;
 
@@ -337,15 +359,21 @@ VIII. Elaborar y determinar, en su caso, de conformidad con la voluntad de las p
 
 IX. Proponer a las partes el procedimiento de arbitraje, en los casos no conciliados;
 
-X. Remitir a la Dirección de la Unidad de Arbitraje, los expedientes que se determinen procedentes, y;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+X. Remitir a la Dirección de Arbitraje, los expedientes que se determinen procedentes, y;
 
 XI. Las demás que señale el Presidente, necesarias para el mejor cumplimiento de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 30.
 
-Corresponde a la Dirección de la Unidad de Arbitraje, el despacho de los siguientes asuntos:
+Corresponde a la Dirección de Arbitraje, el despacho de los siguientes asuntos:
 
-I. Recibir y analizar los expedientes remitidos por la Dirección de la Unidad de Conciliación, con la participación que corresponda al Secretario de la CAMES;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+I. Recibir y analizar los expedientes remitidos por la Dirección de Conciliación, con la participación que corresponda al Secretario de CAMES;
 
 II. Reunir los elementos de información médico Jurídica necesarios para analizar los casos que se sometan al Arbitraje;
 
@@ -359,23 +387,21 @@ VI. Emitir las opiniones técnicas en aquellos casos en que no se resuelva la qu
 
 VII. Las demás que le señale el Presidente, la Ley y este reglamento para el mejor cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 31.
 
-Corresponde a la Dirección de la Unidad de Coordinación Municipal, el despacho de los siguientes asuntos:
+Corresponde a la Dirección Médica, el despacho de los siguientes asuntos:
 
-I. Conocer de las quejas presentadas por los usuarios en los municipios e investigarlas.
+I.- Participar con las Direcciones de Orientación, Gestión y Asesoría, Conciliación, Arbitraje y elaborar Dictámenes;
 
-II. Suscribir los citatorios y cédulas de notificación en los municipios a usuarios, prestadores de servicios y demás personas relacionadas con los hechos materia de la queja.
+II.- Participar en la Planeación, Programación, Estadística y Evaluación de la atención de las inconformidades, y de los Programas de Trabajo de la Comisión;
 
-III. Coordinar con la Dirección de la Unidad de Conciliación y Arbitraje, el análisis e integración de los expedientes de queja que deriven de los municipios.
+III.- Proponer la emisión de opiniones técnicas y/o dictámenes médicos;
 
-IV. Proponer a las partes la conciliación y, en su caso, el procedimiento de arbitraje.
+IV.- Sustituir a los titulares de las Direcciones de Orientación, Gestión y Asesoría, Conciliación y Arbitraje, cuando le sea encomendado por el Presidente; y
 
-V. Asesorar y capacitar en la materia a las autoridades correspondientes en los municipios.
-
-VI. Establecer mecanismos de comunicación con las instancias municipales vinculadas con el objeto de la CAMES, y;
-
-VII. Las demás que acuerde el Presidente para el mejor cumplimiento de sus funciones.
+V.- Las demás que con motivo de su encargo, el Presidente de la CAMES le señalará.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2012)</small>
 
@@ -393,23 +419,25 @@ IV. Participar con las Unidades de Orientación, Gestión, Asesoría Especializa
 
 V. Las demás que le señale el Presidente, necesarias para el mejor desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 33.
 
-Corresponde a la Jefatura Médica, en el ejercicio de sus funciones:
+Corresponde a la Dirección Zona Sur y Dirección Zona Norte, el despacho de los siguientes asuntos:
 
-I. Participar con las Unidades de Orientación, Gestión, Asesoría, Conciliación, Arbitraje y Dictámenes;
+I.- Conocer de las inconformidades o quejas presentadas por los usuarios en sus respectivas zonas geográficas que le sean asignadas por la Presidencia de CAMES, e investigarlas;
 
-II. Participar en la Planeación, Programación y Evaluación de la Atención de las Inconformidades;
+II.- Suscribir los citatorios y cédulas de notificación en los municipios a los usuarios, prestadores de servicio y demás personas relacionadas con los hechos materia de la queja;
 
-III. Proponer la emisión de opiniones técnicas, cuando lo estime necesario;
+III.- Coordinarse con la Dirección de Orientación, Gestión y Asesoría, la Dirección de Conciliación y la Dirección Médica, para el Análisis e integración de los expedientes, así como llevar a cabo en sus respectivas jurisdicciones, las funciones establecidas para estas Direcciones; y
 
-IV. Sustituir a los Titulares de las Unidades de Orientación, Gestión, Asesoría, Conciliación, Arbitraje y Dictámenes, cuando le sea encomendado por el Presidente; y
+IV.- Las demás que acuerde el Presidente para el mejor cumplimiento de sus funciones.
 
-V. Las demás que con motivo de su encargo, el Presidente de la CAMES le señalará.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 34.
 
-A la Jefatura de la Unidad de Administración y Contabilidad de la CAMES, le corresponde lo siguiente:
+Corresponde a la Jefatura de Administración, Finanzas y Contabilidad, lo siguiente:
 
 I. Proponer al Presidente, la Normatividad de los Sistemas y Procedimientos para la Programación, Presupuestación y Administración de los Recursos Materiales, Humanos y Financieros de que disponga la Comisión;
 
@@ -478,3 +506,11 @@ P.O. 13 DE ENERO DE 2012.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES LEGALES DEL REGLAMENTO INTERNO DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
