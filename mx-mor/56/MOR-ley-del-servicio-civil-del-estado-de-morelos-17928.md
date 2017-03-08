@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2014-10-08"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -411,27 +411,33 @@ Cuando por circunstancias especiales se aumenten las horas de jornada máxima, e
 
 Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, por lo menos, con goce de salario integro.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 32.
 
-Serán días de descanso obligatorio los siguientes:
+Serán días de descaso (sic) obligatorio los siguientes:
 
-1 enero;
+I. 1 de enero;
 
-El primer lunes de febrero, en conmemoración del 5 de febrero;
+II. El primer lunes de febrero, en conmemoración del 5 de febrero;
 
-El tercer lunes de marzo, en conmemoración del 21 de marzo;
+III. El tercer lunes de marzo, en conmemoración del 21 de marzo;
 
-10 abril;
+IV. 10 de abril;
 
-1 mayo;
+V. 1 de mayo;
 
-16 septiembre;
+VI. 10 de mayo, para las madres trabajadoras en conmemoración del Día de las Madres o el día hábil siguiente, para el caso de que este sea inhábil;
 
-1 y 2 noviembre;
+VII. El tercer lunes de junio, para los padres, en conmemoración del Día del Padre;
 
-25 diciembre y los que determinen las Leyes Federales y Locales, así como en los casos de elecciones ordinarias federales y locales para participar en la jornada electoral.
+VIII. 16 de septiembre;
+
+IX. 1 y 2 de noviembre;
+
+X. 25 de diciembre.
+
+XI. Los que determinen las Leyes Federales y Locales, así como en los casos de elecciones ordinarias federales y locales para participar en la jornada electoral.
 
 ###### Artículo 33.
 
@@ -1762,3 +1768,13 @@ DECRETO NÚMERO 1652 POR EL QUE SE ADICIONAN UNA FRACCIÓN III AL ARTICULO 43, R
 Primero.- Remítase al Titular del Poder Ejecutivo para los efectos legales que se refieren los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS OCHENTA Y SIETE POR EL QUE SE REFORMA EL ARTÍCULO 32 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS EN MATERIA DE SEGURIDAD SOCIAL".]
+
+PRIMERA.- Remítase al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 70 fracciones (sic) XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente decreto.
