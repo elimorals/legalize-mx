@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-asociaciones-publico-privadas-del-estado-de-tabasco-1009
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-17"
-last_updated: "2014-05-17"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 17 de mayo de 2014.
 
@@ -145,7 +145,9 @@ III. El Código de Procedimientos Civiles para el Estado de Tabasco;
 
 IV. La Ley de Justicia Administrativa del Estado de Tabasco; y
 
-V. La Ley Estatal de Presupuesto, Contabilidad y Gasto Público.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+V. La Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios.
 
 Lo anterior, en la inteligencia de que dicha aplicación supletoria se efectuará en todo aquello que no se oponga a la presente Ley.
 
@@ -289,7 +291,9 @@ Antes de iniciar el proceso para la contratación de una asociación público pr
 
 Conforme a lo señalado en el artículo 36, fracción XLIV, en relación con el 65 fracción VI, cuarto párrafo, ambos de la Constitución Política del Estado, para la contratación de proyectos de asociación público privada por los Municipios, se requerirá la aprobación del Ayuntamiento con la mayoría calificada que establece la Ley Orgánica de los Municipios del Estado de Tabasco tomando en cuenta la opinión emitida por la Secretaría, en caso de haber solicitado ésta. Una vez aprobado por el Ayuntamiento, el Presidente Municipal deberá presentar al Congreso del Estado, para su autorización, el informe ejecutivo con los elementos a que se refiere el párrafo anterior.
 
-La Secretaría, al elaborar el proyecto de Presupuesto General de Egresos del Estado que presente el Titular del Ejecutivo al Congreso, deberá incluir, en su caso, en términos de la Ley Estatal de Presupuesto, Contabilidad y Gasto Público, una evaluación del impacto en las finanzas públicas de los proyectos de asociación público privada durante su ciclo de vida.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+La Secretaría, al elaborar el proyecto de Presupuesto General de Egresos del Estado que presente el Titular del Ejecutivo al Congreso, deberá incluir, en su caso, en términos de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios, una evaluación del impacto en las finanzas públicas de los proyectos de asociación público privada durante su ciclo de vida.
 
 La Secretaría reportará en los informes trimestrales, en los términos de las disposiciones aplicables, la descripción de cada uno de los proyectos autorizados, montos erogados o por erogar conforme a las proyecciones y estimaciones correspondientes, avance en la ejecución y calendario así como el monto de los pagos comprometidos.
 
@@ -351,9 +355,11 @@ I. Otorgar garantías y avales; y
 
 II. Afectar como fuentes o garantías de pago, o en cualquier otra forma, los ingresos estatales o municipales; o en su caso, los derechos al cobro derivados de los mismos contratos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 33.
 
-El gasto público previsto para los proyectos de asociaciones público privadas se ajustará a las disposiciones de la Constitución Política del Estado Libre y Soberano de Tabasco, de la Ley Estatal de Presupuesto, Contabilidad y Gasto Público, de la Ley de Ingresos y del Presupuesto General de Egresos para cada ejercicio fiscal, todas del Estado de Tabasco y sus municipios, según corresponda; y demás leyes que resulten aplicables.
+El gasto público previsto para los proyectos de asociaciones público privadas se ajustará a las disposiciones de la Constitución Política del Estado Libre y Soberano de Tabasco; de la Ley de Disciplina Financiara de las Entidades Federativas y Municipios; de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios, de la Ley de Deuda Pública del Estado y sus Municipios; de la Ley de Ingresos y del Presupuesto General de Egresos para cada ejercicio fiscal, según corresponda; y demás ordenamientos que resulten aplicables.
 
 Los compromisos presupuestarios futuros que en su caso llegaren a originar los proyectos de asociaciones público privada que se prevea iniciar, acumulados o aquellos de los proyectos que ya hubieran iniciado algún procedimiento de contratación o que ya estuvieran operando, serán acordes con las posibilidades agregadas de gasto y de financiamiento del sector público estatal que autorice el Congreso del Estado.
 
@@ -367,7 +373,9 @@ Asimismo, se deberá presentar la descripción de cada uno de los proyectos, mon
 
 En los informes trimestrales que el Ejecutivo Estatal presente al Congreso del Estado, se deberán señalar los montos asignados para la etapa de preparación de los proyectos.
 
-Los pagos que las dependencias, entidades o municipios realicen al Inversionista Proveedor con cargo a los contratos de asociación público privada, se registrarán como gasto corriente y no constituirán deuda pública, salvo en aquellos casos en que sea expresamente así señalado y autorizado.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Los Financiamientos y obligaciones que deriven de contratos de asociaciones público privadas, deberán inscribirse en el Registro Público Único y en el Registro Estatal, previstos, respectivamente, en la Ley de Disciplina Financiera de las Entidades Federativas y Municipios; y en la Ley de Deuda Pública del Estado de Tabasco y sus Municipios.
 
 ###### Artículo 34.
 
@@ -1660,3 +1668,29 @@ SECRETARIO DE GOBIERNO
 LIC. JUAN JOSÉ PERALTA FÓCIL
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 079 POR EL QUE “SE REFORMAN: LOS ARTÍCULOS 10, FRACCIÓN V; 24, PÁRRAFO TERCERO; Y 33, PÁRRAFOS PRIMERO Y OCTAVO, TODOS DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo y los ayuntamientos, conforme a sus respectivas atribuciones, realizarán las adecuaciones de orden reglamentario y administrativo que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo no mayor a 180 días naturales a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones en materia de equilibrio presupuestario y responsabilidad hacendaria previstas en el Capítulo I del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el Capítulos (sic) II del Título Primero de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios, estarán en vigor para el ejercicio Fiscal 2017, con las salvedades previstas en los artículos transitorios Quinto al Noveno del Decreto por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado el 27 de abril de 2016 en el Diario Oficial de la Federación.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y III del Título Primero de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero del Decreto por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado el 27 de abril de 2016 en el Diario Oficial de la Federación; y los que apliquen de acuerdo al artículo 21 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
