@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-de-salud-del-estado-de-82495"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-12"
-last_updated: "2015-06-29"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE SALUD DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JULIO DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERNO DEL INSTITUTO DE SALUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 2017.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 12 de agosto de 2011.
 
@@ -749,9 +751,7 @@ Corresponde a la Dirección de Administración:
 
 I. Presentar al Coordinador de Administración y Finanzas para su expedición, los nombramientos de los servidores públicos que le correspondan.
 
-> <small>(REFORMADA, G.G. 29 DE JUNIO DE 2015)</small>
-
-II. Suscribir contratos individuales de trabajo por obra o tiempo determinado, por honorarios asimilables a salarios y por servicios profesionales, previa revisión de la Unidad Jurídico Consultiva, en términos de la legislación aplicable.
+II. (DEROGADA, G.G. 8 DE MARZO DE 2017)
 
 III. Proponer programas y acciones para mejorar la planeación, programación y ejecución de la infraestructura del Instituto y servicios relacionados con la misma.
 
@@ -765,7 +765,7 @@ V. Suscribir de manera conjunta con los titulares de la Coordinación de Adminis
 
 VI. Vigilar el cumplimiento de las cláusulas estipuladas en contratos y convenios en materia de adquisición de bienes, contratación de servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma que celebre el Instituto, manteniendo informado al Coordinador de Administración y Finanzas de dichas acciones.
 
-VII. Autorizar la contratación, cambio de adscripción, comisiones, promociones, permutas y bajas de personal, previo acuerdo del titular de la unidad administrativa correspondiente.
+VII. (DEROGADA, G.G. 8 DE MARZO DE 2017)
 
 VIII. Coordinar y vigilar el desarrollo de los procedimientos licitatorios para la adquisición de bienes y contratación de servicios, de conformidad con las modalidades establecidas por la normatividad en la materia.
 
@@ -779,7 +779,9 @@ XII. Disponer las acciones necesarias para el mantenimiento, conservación y rem
 
 XIII. Mantener actualizado el inventario de los bienes muebles e inmuebles del Instituto, promoviendo, en su caso, su regularización, en coordinación con la unidad administrativa competente.
 
-XIV. Vigilar las actividades relacionadas con la obra pública y avalar los pagos y finiquitos.
+> <small>(REFORMADA, G.G. 8 DE MARZO DE 2017)</small>
+
+XIV. Vigilar las actividades relacionadas con la obra pública y servicios relacionados con la misma.
 
 XV. Promover y vigilar la aplicación de las condiciones generales de trabajo del Instituto.
 
@@ -801,11 +803,15 @@ I. Aplicar las disposiciones jurídicas vigentes en materia de control de person
 
 II. Elaborar y operar el plan estratégico de personal en coordinación con las unidades médicas y administrativas del Instituto.
 
-III. Aplicar las disposiciones que norman la remuneración y prestaciones que deban otorgarse a los servidores públicos del Instituto, en concordancia con las estructuras orgánico-funcionales y los catálogos de puestos aprobados.
+> <small>(REFORMADA, G.G. 8 DE MARZO DE 2017)</small>
+
+III. Suscribir contratos individuales de trabajo por obra o tiempo determinado, por honorarios asimilables a salarios y por servicios profesionales, previa revisión de la Unidad Jurídico Consultiva, en términos de la legislación aplicable.
 
 IV. Aplicar las disposiciones legales en materia de reclutamiento, selección, inducción, capacitación, evaluación del desempeño y promoción escalafonaria de los servidores públicos con funciones operativas.
 
-V. Otorgar a los servidores públicos del Instituto las prestaciones socioeconómicas que les correspondan, así como los estímulos y recompensas.
+> <small>(REFORMADA, G.G. 8 DE MARZO DE 2017)</small>
+
+V. Autorizar la contratación, cambio de adscripción, comisiones, promociones, permutas y bajas de personal, previo acuerdo del titular de la unidad administrativa correspondiente.
 
 VI. Coordinar acciones con las instancias que correspondan para que en forma oportuna se entregue el pago a los servidores públicos del Instituto.
 
@@ -1041,7 +1047,7 @@ DIRECTOR DE ADMINISTRACIÓN Y SECRETARIO DEL CONSEJO INTERNO DEL INSTITUTO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 29 DE JUNIO DE 2015.
 
@@ -1052,3 +1058,11 @@ SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 TERCERO.- Los asuntos y demás procedimientos que se encuentran en trámite en la Unidad de Asuntos Jurídicos, al entrar en vigor el presente Acuerdo, se tramitarán y resolverán por la Unidad Jurídico Consultiva".
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
+
+G.G. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DEL INSTITUTO DE SALUD DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- El presente Acuerdo será publicado en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
