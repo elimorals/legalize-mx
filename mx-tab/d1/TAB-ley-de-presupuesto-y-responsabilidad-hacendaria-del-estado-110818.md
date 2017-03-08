@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1108
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2015-12-16"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 16 de diciembre de 2015.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO, Y CON BASE EN LOS SIGUIENTES:
 
-CONSIDERANDOS…
+CONSIDERANDOS
+
+[…]
 
 OCTAVO.- Que en virtud de lo anterior y tomando en cuenta que el Honorable Congreso del Estado, de conformidad con lo dispuesto por el artículo 36, fracción I, de la Constitución Política Local, se encuentra facultado para expedir, reformar, adicionar, derogar y abrogar las Leyes y Decretos para la mejor Administración del Estado, planeando su desarrollo económico y social. Por lo que se emite y somete a consideración del Pleno el siguiente:
 
@@ -51,21 +53,31 @@ LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNI
 
 ### CAPÍTULO I. Objeto y Definiciones de la Ley, Reglas Generales y Ejecutores del Gasto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, y tiene por objeto reglamentar los artículos 36, fracciones VII, X y XXXIX, 41, 51, fracción VII, 65, fracciones V, VI y VII, 66, 73, 75 y 76 de la Constitución Política del Estado Libre y Soberano de Tabasco, en materia de programación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos.
+La presente Ley es de orden público, y tiene por objeto reglamentar los artículos 36, fracciones VII, X, XII, XXIV y XXXIX, 41, 51, fracción VII, 65, fracciones V, VI y VII, 66, 73, 75 y 76 de la Constitución Política del Estado Libre y Soberano de Tabasco, en materia de programación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos. Lo anterior, de conformidad con los criterios generales de responsabilidad hacendaria y financiera establecidos para todos los entes públicos locales y municipales en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, para el manejo sostenible de sus finanzas públicas.
 
-Los ejecutores de gasto cumplirán las disposiciones de esta Ley, debiendo observar que la administración de los recursos se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+El Estado de Tabasco, sus municipios y los respectivos entes públicos en cada orden de gobierno, cumplirán con los ordenamientos señalados en el párrafo anterior y las disposiciones de esta Ley, debiendo observar que la administración de los recursos se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas y equidad de género. Adicionalmente, los Entes Públicos del Estado y los Municipios cumplirán, respectivamente, con las Reglas de Disciplina Financiera establecidas en los Capítulos I y II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, de conformidad con la normatividad contable aplicable.
 
 Los ejecutores de gasto cumplirán las disposiciones de esta Ley aun en la administración de los recursos que no pierden su carácter federal, siempre y cuando las mismas no se contrapongan expresamente con lo dispuesto en la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación, los demás ordenamientos jurídicos aplicables y, en su caso, con lo convenido con el Gobierno Federal.
 
-El Órgano Superior de Fiscalización del Estado fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los ejecutores de gasto, conforme a las atribuciones que le confieren la Constitución Política del Estado Libre y Soberano de Tabasco y la Ley de Fiscalización Superior del Estado de Tabasco.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+El Órgano Superior de Fiscalización del Estado fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los ejecutores de gasto, conforme a las atribuciones que le confieren la Constitución Política del Estado Libre y Soberano de Tabasco, la Ley de Fiscalización Superior del Estado de Tabasco y demás ordenamientos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 2.
 
-Para efectos de esta Ley, se entenderá por:
+Para efectos de esta Ley, además de los conceptos del glosario establecido en el artículo 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, se entenderá por:
 
-I. Actividad institucional: las acciones sustantivas o de apoyo que realizan los ejecutores de gasto con el fin de dar cumplimiento a los objetivos y metas contenidos en los programas, de conformidad con las atribuciones que les señala su respectiva Ley Orgánica, Reglamento Interior o el ordenamiento jurídico que les es aplicable;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+I. Actividad institucional: las acciones sustantivas o de apoyo que realizan los entes públicos ejecutores de gasto con el fin de dar cumplimiento a los objetivos y metas contenidos en los programas, de conformidad con las atribuciones que les señala su respectiva Ley Orgánica, Reglamento Interior o el ordenamiento jurídico que les sea aplicable;
 
 II. Adecuaciones presupuestarias: las modificaciones a las estructuras funcional programática, administrativa y económica, a los calendarios de presupuesto y las ampliaciones y reducciones al Presupuesto General de Egresos del Estado, a los Presupuestos de Egresos Municipales o a los flujos de efectivo correspondientes, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los ejecutores de gasto;
 
@@ -73,19 +85,35 @@ III. Administración: la Secretaría de Administración;
 
 IV. Ahorro presupuestario: los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
 
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2017)</small>
+
+IV Bis. Balance presupuestario: la diferencia entre los Ingresos totales incluidos en la Ley de Ingresos, y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2017)</small>
+
+IV Ter. Balance presupuestario de recursos disponibles: la diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
+
 V. Capítulo de gasto: el mayor nivel de agregación que identifica el conjunto homogéneo y ordenado de los bienes y servicios requeridos por los ejecutores de gasto;
 
 VI. Clasificador por objeto del gasto: el instrumento que permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos, conceptos y partidas con base en la clasificación económica por-objeto del gasto. Este clasificador permite formular y aprobar el proyecto de Presupuesto General de Egresos del Estado y los Presupuestos de Egresos Municipales desde la perspectiva económica y dar seguimiento a su ejercicio;
 
 VII. Contraloría: la Secretaría de Contraloría;
 
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2017)</small>
+
+VII Bis. Criterios Generales de Política Económica: el documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación;
+
 VIII. Cuenta Pública: la Cuenta de la Hacienda Pública Estatal, o en su caso, las Cuentas de las Haciendas Públicas Municipales;
 
-IX. Déficit presupuestario: el financiamiento que cubre la diferencia entre los montos previstos en la Ley de Ingresos del Estado y el Presupuesto General de Egresos del Estado, o entre la Ley de Ingresos Municipal y el Presupuesto de Egresos Municipal, y aquélla entre los ingresos y los gastos en los presupuestos de las entidades;
+IX. (DEROGADA, P.O. 8 DE MARZO DE 2017)
 
 X. Dependencias: los ejecutores de gasto previstos en los artículos 13 y 26 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y 73 y 97 de la Ley Orgánica de los Municipios del Estado de Tabasco, incluyendo a sus respectivos órganos desconcentrados;
 
 XI. Dependencias coordinadoras de sector: las dependencias que designe el Ejecutivo en los términos de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, para orientar y coordinar la planeación, programación, presupuestación, ejercicio y evaluación del gasto de las entidades que queden ubicadas en el sector bajo su coordinación;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2017)</small>
+
+XI Bis. Disciplina Financiera: la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de Obligaciones por los Entes Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero;
 
 XII. Economías: los remanentes de recursos no devengados del presupuesto modificado;
 
@@ -99,15 +127,21 @@ XVI. Ejecutores de gasto: los Poderes Legislativo y Judicial, incluyendo a sus r
 
 XVII. Endeudamiento neto: la diferencia entre las disposiciones y amortizaciones efectuadas de las obligaciones constitutivas de deuda pública, al cierre del ejercicio fiscal;
 
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2017)</small>
+
+XVII Bis. Entes Públicos: los poderes Ejecutivo, Legislativo y Judicial del Estado de Tabasco, los organismos constitucionales autónomos; los Municipios; los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos del Estado y de los Municipios, así como cualquier otro ente sobre el que el Estado de Tabasco y los Municipios tengan control sobre sus decisiones o acciones.
+
 XVIII. Entidades: los organismos descentralizados, empresas de participación estatal o municipal, fideicomisos públicos que sean considerados entidades paraestatales o paramunicipales y demás entidades, sin importar la forma en que sean identificadas, previstos en la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco y la Ley Orgánica de los Municipios del Estado de Tabasco;
 
 XIX. Estructura Programática: el conjunto de categorías y elementos programáticos ordenados en forma coherente, el cual define las acciones que efectúan los ejecutores de gasto para alcanzar sus objetivos y metas de acuerdo con las políticas definidas en el Plan Estatal de Desarrollo o los Planes Municipales de Desarrollo y en los programas y presupuestos, así como ordena y clasifica las acciones de los ejecutores de gasto para delimitar la aplicación del gasto y permite conocer el rendimiento esperado de la utilización de los recursos públicos;
 
 XX. Flujo de efectivo: el registro de las entradas y salidas de recursos efectivos en un ejercicio fiscal;
 
-XXI. Gasto neto total: la totalidad de las erogaciones aprobadas en el Presupuesto General de Egresos del Estado o los Presupuestos de Egresos Municipales con cargo a los ingresos previstos en la Ley de Ingresos del Estado o las Leyes de Ingresos Municipales, las cuales no incluyen las amortizaciones de la deuda pública y las operaciones que darían lugar a la duplicidad en el registro del gasto;
+XXI. (DEROGADA, P.O. 8 DE MARZO DE 2017)
 
-XXII. Gasto total: la totalidad de las erogaciones aprobadas en el Presupuesto General de Egresos del Estado o los Presupuestos de Egresos Municipales con cargo a los ingresos previstos en la Ley de Ingresos del Estado o las Leyes de Ingresos Municipales y, adicionalmente, las amortizaciones de la deuda pública y las operaciones que darían lugar a la duplicidad en el registro del gasto;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+XXII. Gasto total: la totalidad de las erogaciones aprobadas en el Presupuesto General de Egresos del Estado o los Presupuestos de Egresos Municipales con cargo a los ingresos previstos en la Ley de Ingresos del Estado o las Leyes de Ingresos Municipales, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
 XXIII. Gasto programable: las erogaciones que el Estado y los Municipios realizan en cumplimiento de sus atribuciones conforme a los programas para proveer bienes y servicios públicos a la población;
 
@@ -117,11 +151,19 @@ XXV. Hacienda Pública: la Hacienda Pública Estatal o, en su caso, las Hacienda
 
 XXVI. Informes trimestrales: los informes de autoevaluación que, con apoyo en los informes mensuales, se remiten al Congreso del Estado, previstos en el cuarto párrafo del artículo 41 de la Constitución Política del Estado Libre y Soberano de Tabasco;
 
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2017)</small>
+
+XXVI Bis. Ingresos de libre disposición: los Ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciba el Estado de Tabasco del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
+
 XXVII. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos del Estado o en las Leyes de Ingresos Municipales, o en su caso respecto de los ingresos propios de las entidades;
 
 XXVIII. Ingresos propios: los recursos que obtienen las entidades en contraprestación a los servicios que brindan o los bienes que comercializan, así como los rendimientos financieros generados en cuentas bancarias;
 
 XXIX. Ley: la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2017)</small>
+
+XXIX Bis. Ley de Disciplina Financiera: La ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 XXX. Ley Federal: la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
@@ -131,13 +173,19 @@ XXXII. Órganos autónomos: los entes públicos con autonomía en el ejercicio d
 
 XXXIII. Partida presupuestal: el nivel de agregación específico en el cual se describen las expresiones concretas y detalladas de los bienes y servicios que se adquieren;
 
-XXXIV. Percepciones extraordinarias: los estímulos, reconocimientos, recompensas, incentivos y pagos equivalentes a los mismos que se contemplan en los tabuladores autorizados y se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de la legislación laboral y de esta Ley;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-XXXV. Percepciones ordinarias: los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas en los Poderes Ejecutivo, Legislativo y Judicial, los órganos autónomos y los Municipios donde prestan sus servicios, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
+XXXIV. Percepciones extraordinarias: los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+XXXV. Percepciones ordinarias: los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas en los entes públicos, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
 
 XXXVI. Plan de Desarrollo: el Plan Estatal de Desarrollo o, en su caso, los Planes Municipales de Desarrollo;
 
-XXXVII. Presupuesto de Egresos: el Presupuesto General de Egresos del Estado o, en su caso, los Presupuestos de Egresos Municipales para el ejercicio fiscal correspondiente, incluyendo el Decreto o Acuerdo, los anexos y tomos;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+XXXVII. Presupuesto de Egresos: el Presupuesto General de Egresos del Estado o, en su caso, los Presupuestos de Egresos Municipales para el ejercicio fiscal de que se trate, aprobado por el Congreso del Estado, o el ayuntamiento o concejo municipal, correspondiente;
 
 XXXVIII. Presupuesto devengado: el reconocimiento de las obligaciones de pago por parte de los ejecutores de gasto a favor de terceros, por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, así como de las obligaciones de pago que se derivan por mandato de leyes o decretos, así como resoluciones y sentencias definitivas;
 
@@ -155,7 +203,7 @@ XLIV. Remuneraciones: la retribución económica que constitucionalmente corresp
 
 XLV. Requerimientos financieros del sector público: las necesidades de financiamiento para alcanzar los objetivos de las políticas públicas, incluyendo las actividades del sector privado y social cuando actúan por cuenta del Gobierno Estatal o los gobiernos municipales;
 
-XLVI. Responsabilidad Hacendaria: la observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos del Estado o las Leyes de Ingresos Municipales, el Presupuesto General de Egresos del Estado o los Presupuestos de Egresos Municipales y los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso del Estado;
+XLVI. (DEROGADA, P.O. 8 DE MARZO DE 2017)
 
 XLVII. Secretaría: la Secretaría de Planeación y Finanzas;
 
@@ -185,11 +233,17 @@ Los Municipios quedan exceptuados de lo previsto en el párrafo anterior en el e
 
 La interpretación de esta Ley para efectos administrativos corresponde a la Secretaría y a la Contraloría, así como a sus equivalentes en los Municipios, en el ámbito de sus respectivas atribuciones.
 
-Serán supletorias de la presente Ley, en lo que corresponda, la Ley General de Contabilidad Gubernamental, los acuerdos emitidos por el Consejo Nacional de Armonización Contable y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
-El Consejo Estatal de Armonización Contable es el órgano de coordinación con el Consejo Nacional de Armonización Contable en el proceso de armonización en la materia que aplicará a los ejecutores de gasto previstos en el artículo 5 de esta Ley.
+Serán supletorias de la presente Ley, en lo que corresponda, la Ley de Disciplina Financiera de las Entidades federativas y los Municipios, la Ley General de Contabilidad Gubernamental y la Ley de Coordinación Fiscal; así como los acuerdos emitidos por el Consejo Nacional de Armonización Contable y demás disposiciones aplicables.
 
-Las dependencias y entidades deberán observar las disposiciones generales que emitan la Secretaría y la Contraloría, en el ámbito de sus respectivas atribuciones, para dar correcta aplicación a lo dispuesto en esta Ley y el Reglamento. En el caso de los Municipios, los Poderes Legislativo y Judicial y los órganos autónomos, sus respectivas unidades de administración deberán establecer las disposiciones generales correspondientes.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+El Consejo Estatal de Armonización Contable es el órgano de coordinación con el Consejo Nacional de Armonización Contable en el proceso de armonización en la materia que aplicará a los ejecutores de gasto previstos en los artículos 4 y 5 de la Ley de Disciplina Financiera; y el artículo 5 de esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Las dependencias y entidades del Poder Ejecutivo deberán observar las disposiciones generales que emitan la Secretaría y la Contraloría, en el ámbito de sus respectivas atribuciones, para dar correcta aplicación a lo dispuesto en esta Ley y el Reglamento. En el caso de los Municipios, los Poderes Legislativo y Judicial y los órganos autónomos, sus respectivas unidades de administración deberán establecer las disposiciones generales correspondientes, conforme a lo establecido en la Ley de Disciplina Financiera y en esta Ley.
 
 Las disposiciones generales a que se refiere el párrafo anterior deberán publicarse en el Periódico Oficial del Estado.
 
@@ -219,9 +273,11 @@ Los ejecutores de gasto contarán con una unidad de administración, encargada d
 
 En el caso de los Municipios, a las Direcciones de Finanzas, Programación y Administración, así como a la Unidad de Evaluación del Desempeño, les corresponderá atender lo previsto en el párrafo anterior, en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 6.
 
-La autonomía presupuestaria otorgada a los Municipios a través de la Constitución Política de los Estados Unidos Mexicanos para administrar libremente su hacienda, se realizará sin perjuicio de que en el ejercicio de sus recursos los Municipios se apegarán a lo dispuesto en esta Ley y su Reglamento.
+La autonomía presupuestaria otorgada a los Municipios a través de la Constitución Política de los Estados Unidos Mexicanos para administrar libremente su hacienda, se realizará sin perjuicio de que en el ejercicio de sus recursos los Municipios se apegarán a lo dispuesto en la Ley de Disciplina Financiera, así como en esta Ley y su Reglamento.
 
 Salvo por lo previsto en el segundo párrafo del artículo 3 de esta Ley, los órganos competentes de los Municipios asumirán las responsabilidades que en esta Ley y su Reglamento se le confieren a sus equivalentes en el ámbito estatal. En caso de duda en la interpretación de esta equivalencia, se estará a lo dispuesto en el artículo 72 de la Ley Orgánica de los Municipios del Estado de Tabasco.
 
@@ -305,53 +361,77 @@ Los ejecutores de gasto, conforme a las disposiciones generales aplicables, ser�
 
 Los ejecutores de gasto deberán generar comprobantes contables digitales por internet en los términos del Reglamento.
 
-Los Municipios, los Poderes Legislativo y Judicial y los órganos autónomos, por conducto de sus respectivas unidades de administración, deberán celebrar convenios con la Secretaría para la utilización de los equipos y sistemas electrónicos a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
-### CAPÍTULO II. Del Equilibrio Presupuestario y de los Principios de Responsabilidad Hacendaria
+Los Municipios, los Poderes Legislativo y Judicial, los órganos autónomos y demás entes públicos, por conducto de sus respectivas unidades de administración, deberán celebrar convenios con la Secretaría para la utilización de los equipos y sistemas electrónicos a que se refiere este artículo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE MARZO DE 2017)</small>
+
+### CAPÍTULO II. De las Reglas de Disciplina Financiera, del Balance Presupuestario Sostenible y de los Principios de Responsabilidad Hacendaria, para el Gobierno del Estado
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 13.
 
-La Ley de Ingresos y el Presupuesto de Egresos se elaborarán con base en objetivos y parámetros cuantificables de política económica, acompañados de sus correspondientes indicadores del desempeño, los cuales, junto con los criterios de política económica y los objetivos, estrategias y metas anuales, deberán ser congruentes con el Plan de Desarrollo y los programas que derivan del mismo, e incluirán cuando menos lo siguiente:
+Las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Estado, se elaborarán conforme a lo establecido en esta Ley, en la Ley de Disciplina Financiera, la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos y parámetros cuantificables de política económica, acompañados de sus correspondientes indicadores del desempeño, los cuales deberán ser congruentes con el Plan de Desarrollo y los programas que derivan del mismo, e incluirán cuando menos lo siguiente:
 
-I. Las líneas generales de política económica;
+I. Los objetivos anuales, estrategias y metas;
 
-II. Los objetivos anuales, estrategias y metas;
+II. Las proyecciones de las finanzas públicas, incluyendo los requerimientos financieros del sector público, considerando las premisas empleadas en los Criterios Generales de Política Económica.
 
-III. Las proyecciones de las finanzas públicas, incluyendo los requerimientos financieros del sector público, con las premisas empleadas para las estimaciones. Las proyecciones abarcarán un periodo de 5 años en adición al ejercicio fiscal en cuestión, las que se revisarán anualmente en los ejercicios subsecuentes, y
+Las proyecciones se realizarán con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un periodo de cinco años en adición al ejercicio fiscal en cuestión, las que, en su caso, se revisarán anualmente en los ejercicios subsecuentes;
 
-IV. Los resultados de las finanzas públicas, incluyendo los requerimientos financieros del sector público, que abarquen un periodo de los 5 últimos años y el ejercicio fiscal en cuestión.
+III. La descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de Deuda Contingente, acompañados de propuestas de acción para enfrentarlos;
 
-En el ámbito municipal, las proyecciones y resultados contemplados en las fracciones III y IV de este artículo abarcarán un periodo de 3 años en adición al ejercicio fiscal en cuestión.
+IV. Los resultados de las finanzas públicas que abarquen un periodo de los cinco últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin; y
 
-Los criterios de política económica explicarán las medidas de política fiscal que se utilizarán para el logro de los objetivos, las estrategias y metas, así como las acciones que correspondan a otras políticas que impacten directamente en el desempeño de la economía. Asimismo, se deberán exponer los costos fiscales futuros de las iniciativas de ley o decreto relacionadas con las líneas generales de política a que se refiere este artículo, acompañados de propuestas para enfrentarlos.
+V. Los resultados de las finanzas públicas que abarquen un periodo de los cinco últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin;
 
-En los criterios a que se refiere el párrafo anterior se expondrán también los riesgos más relevantes que enfrentan las finanzas públicas en el corto plazo, acompañados de propuestas de acción para enfrentarlos.
+VI. Un estudio actuarial de las pensiones de los trabajadores al servicio del Estado, el cual como mínimo deberá actualizarse cada tres años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas conforme a la Ley de Seguridad Social del Estado de Tabasco y el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
+
+La Ley de Ingresos y el Presupuesto General de Egresos del estado de Tabasco, deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 14.
 
-El gasto neto total propuesto por el Ejecutivo en el proyecto de Presupuesto de Egresos, aquél que apruebe el Congreso del Estado o, en su caso, los Ayuntamientos, y el que se ejerza en el año fiscal, deberá contribuir al equilibrio presupuestario.
+El gasto total propuesto por el Ejecutivo en el proyecto de Presupuesto de Egresos, aquél que apruebe el Congreso del Estado y, en su caso, los Ayuntamientos, y el que se ejerza en el año fiscal, deberá contribuir a un Balance Presupuestario Sostenible.
 
-Circunstancialmente, y debido a las condiciones económicas y sociales que priven en el país y el Estado, siempre y cuando las disposiciones generales en materia de disciplina financiera y responsabilidad hacendaria lo permitan, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos podrán prever un déficit presupuestario. En estos casos, el Ejecutivo, por conducto de la Secretaría al comparecer ante el Congreso del Estado con motivo de la presentación de dichas iniciativas, deberá dar cuenta de los siguientes aspectos:
+El Estado deberá generar un Balance Presupuestario Sostenible. Esta premisa se cumple, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El Financiamiento Neto que, en su caso se contrate por parte del Estado y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con el artículo 46 de la Ley de Disciplina Financiera.
 
-I. El monto específico de financiamiento necesario para cubrir el déficit presupuestario;
+Circunstancialmente, y debido a las condiciones económicas y sociales que priven en el país y el Estado, siempre y cuando las disposiciones generales en materia de disciplina financiera y responsabilidad hacendaria lo permitan, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos podrán prever un Balance presupuestario de recursos disponibles negativo. En estos casos, el Ejecutivo, por conducto de la Secretaría al comparecer ante el Congreso del Estado con motivo de la presentación de dichas iniciativas, deberá dar cuenta de los siguientes aspectos:
 
-II. Las razones excepcionales que justifican el déficit presupuestario, y
+I. Las razones excepcionales que justifican el Balance presupuestario de recursos disponibles negativo; y
 
-III. El número de ejercicios fiscales y las acciones requeridas para que dicho déficit sea eliminado y se restablezca el equilibrio presupuestario.
+II. Las fuentes de recursos necesarias y el monto específico para cubrir el Balance presupuestario de recursos disponibles negativo, y
 
-El déficit presupuestario deberá eliminarse durante el plazo que se establezca conforme a lo señalado en la fracción III de este artículo.
+III. El número de ejercicios fiscales y las acciones requeridas para que dicho Balance presupuestario de recursos disponibles negativo sea eliminado y se restablezca el Balance presupuestario de recursos disponibles sostenible.
 
-El Ejecutivo reportará en los informes trimestrales el avance de las acciones, hasta en tanto no se recupere el equilibrio presupuestario.
+El Ejecutivo, a través de la Secretaría, reportará en los informes trimestrales y en la Cuenta Pública que entregue al Congreso del Estado, así como en su página oficial de Internet, el avance de las acciones que se realicen, hasta en tanto se recupere el presupuesto sostenible de recursos disponibles.
 
-En caso de que el Congreso del Estado modifique el déficit presupuestario en la Ley de Ingresos, deberá motivar su decisión sujetándose a las fracciones I y II de este artículo. A partir de la aprobación del déficit a que se refiere este párrafo, el Ejecutivo deberá dar cumplimiento a los demás requisitos previstos en este artículo.
+En caso de que el Congreso del Estado modifique la Ley de Ingresos y el Presupuesto de Egresos de tal manera que genere un Balance presupuestario de recursos disponibles negativo, deberá motivar su decisión sujetándose a las fracciones I y II de este artículo. A partir de la aprobación del Balance presupuestario de recursos disponibles negativo, a que se refiere este párrafo, el Ejecutivo deberá dar cumplimiento a lo previsto en la fracción III y el párrafo anterior de este artículo.
 
-Las comparecencias previstas en el segundo párrafo de este artículo aplicarán en el ámbito municipal, debiendo comparecer el órgano competente. En caso de aprobación del déficit presupuestario, los Ayuntamientos deberán dar cumplimiento a los demás requisitos previstos en este artículo y, en caso de que el Congreso del Estado modifique dicho déficit en la Ley de Ingresos, deberá proceder conforme a lo establecido en el párrafo anterior.
+Sólo se podrá incurrir en un Balance presupuestario de recursos disponibles negativo cuando se presenten las circunstancias o condiciones previstas expresamente en el artículo 7 de la Ley de Disciplina Financiera.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+###### Artículo 14-A.
+
+La Iniciativa de Decreto de Presupuesto de Egresos del Estado deberá prever recursos para, en su caso, atender a la población afectada y los daños causados a la infraestructura pública estatal por la ocurrencia de desastres naturales, así como para llevar a cabo acciones para prevenir y mitigar su impacto a las finanzas estatales. El cálculo del monto de los recursos y su integración al fideicomiso público correspondiente serán realizados conforme a lo señalado en el artículo 9 de la ley de Disciplina Financiera
+
+Los recursos aportados serán destinados, en primer término, para financiar las obras y acciones de reconstrucción de la infraestructura estatal aprobadas en el marco de las reglas generales del Fondo de Desastres Naturales, como la contraparte del Estado de Tabasco a los programas de reconstrucción acordados con el Gobierno Federal.
+
+Conforme a lo dispuesto por el tercer párrafo del artículo 9 de la Ley de Disciplina Financiera, el Ejecutivo podrá utilizar el remanente que le corresponda al Estado de Tabasco para acciones de prevención y mitigación, los cuales podrán ser aplicados para financiar la contraparte del Estado de los proyectos preventivos, conforme a lo establecido en las reglas de operación del Fondo para la Prevención de Desastres Naturales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 15.
 
-A toda propuesta de aumento o creación de gasto que afecte el proyecto de Presupuesto de Egresos, deberá agregarse la correspondiente iniciativa de ingreso distinta al financiamiento o compensarse con reducciones en otras previsiones de gasto.
+A toda propuesta de aumento o creación de gasto del Presupuesto de Egresos, deberá agregarse la correspondiente iniciativa de ingreso o compensarse con reducciones en otras previsiones de gasto.
 
-Sin perjuicio de lo dispuesto en el artículo 50 de esta Ley, no procederá pago alguno que no esté comprendido en el Presupuesto de Egresos o determinado por ley posterior; en este último caso primero se tendrá que aprobar la fuente de ingresos adicional para cubrir los nuevos gastos, en los términos del párrafo anterior.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a Ingresos excedentes; el Ejecutivo deberá señalar en la cuenta pública y en los informes que periódicamente entregue al Congreso del Estado, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
 
 Las comisiones correspondientes del Congreso del Estado, al elaborar los dictámenes respectivos, realizarán una valoración del impacto presupuestario de las iniciativas de ley o decreto, y podrán solicitar opinión a la Secretaría sobre el proyecto de dictamen correspondiente.
 
@@ -359,55 +439,83 @@ El Ejecutivo, por conducto de la Secretaría, realizará una evaluación del imp
 
 En el ámbito municipal, su órgano competente realizará una evaluación del impacto presupuestario de las iniciativas que presenten a la consideración de los Ayuntamientos, o bien, de las iniciativas que éstos presenten ante el Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+La aprobación y ejecución de nuevas obligaciones financieras derivadas de la legislación local, se realizará en el marco del principio de balance presupuestario sostenible, por lo cual, se sujetarán a la capacidad financiera de la Entidad Federativa.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 16.
 
-El Ejecutivo, por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos, con cargo a los excedentes que, en su caso, resulten de los ingresos autorizados en la Ley de Ingresos o de excedentes de ingresos propios de las entidades, conforme a lo siguiente:
+Una vez aprobado el Presupuesto de Egresos, para el ejercicio del gasto, el Ejecutivo, por conducto de la Secretaría y de las dependencias que resulten competentes, deberá observar lo siguiente:
 
-I. Los excedentes de ingresos que resulten de la Ley de Ingresos, distintos a los previstos en las fracciones II y III de éste y el artículo siguiente, deberán destinarse a financiar programas y proyectos de inversión; compensar el incremento en el gasto no programable respecto del presupuestado, por concepto de costo financiero, derivado de modificaciones en la tasa de interés o del tipo de cambio; pago de adeudos de ejercicios fiscales anteriores para cubrir, en su caso, la diferencia con el monto estimado en la Ley de Ingresos correspondiente, así como a fondos de jubilaciones y pensiones, para la atención de desastres naturales y para compensar la caída de ingresos de ejercicios subsecuentes;
+I. Sólo se podrán comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria, identificando la fuente de ingresos;
 
-II. En el caso de los ingresos que tengan un destino específico por disposición expresa de leyes de carácter fiscal, o conforme a éstas se cuente con autorización de la Secretaría para utilizarse en un fin específico, ésta podrá autorizar las ampliaciones a los presupuestos de las dependencias o entidades, hasta por el monto de los ingresos excedentes obtenidos que determinen dichas leyes o, en su caso, la Secretaría, y
+II. Se podrán autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos, con cargo a los excedentes que, en su caso, resulten de los ingresos autorizados en la Ley de Ingresos o de excedentes de ingresos propios de las entidades;
 
-III. Los excedentes de ingresos propios de las entidades se destinarán a las mismas, hasta por los montos que autorice la Secretaría, conforme a las disposiciones aplicables.
+III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Para tales efectos, la Secretaría contará con una Unidad Especializada, responsable de evaluar el análisis socioeconómico, de verificar el cumplimiento de los requisitos y de integrar y administrar el Registro de Proyectos de Inversión Pública Productiva del Estado de Tabasco. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil.
 
-Las erogaciones adicionales a que se refiere este artículo se autorizarán en los términos del Reglamento y sólo procederán cuando éstas no afecten negativamente el equilibrio presupuestario o, en su caso, no aumenten el déficit presupuestario.
+En el caso de proyectos de Inversión pública productiva que se pretendan contratar bajo un esquema de Asociación Público-Privada, los Entes Públicos correspondientes deberán acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado. Lo anterior, independientemente de los demás requisitos que establece la Ley de Asociaciones Público Privadas del Estado de Tabasco y sus Municipios. Dichas evaluaciones deberán ser publicadas en la página oficial de Internet de la Secretaría;
 
-El Ejecutivo reportará en los informes trimestrales y la Cuenta Pública, las erogaciones adicionales aprobadas en los términos del presente artículo.
+IV. Sólo procederá hacer pagos con base en el Presupuesto de Egresos autorizado, y por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
+
+V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente.
+
+La Secretaría contará con un sistema de registro y control de las erogaciones de servicios personales;
+
+VI. Deberán tomar medidas para racionalizar el Gasto corriente.
+
+Los ahorros y economías generados como resultado de la aplicación de dichas medidas, así como los ahorros presupuestarios y las economías que resulten por concepto de un costo financiero de la Deuda Pública menor al presupuestado, deberán destinarse en primer lugar a corregir desviaciones del Balance presupuestario de recursos disponibles negativo, y, en segundo lugar, a los programas prioritarios del Estado de Tabasco;
+
+VII. En materia de subsidios se deberá identificar la población objetivo, el propósito o destino principal y la temporalidad de su otorgamiento. Los mecanismos de distribución, operación y administración de los subsidios deberán garantizar que los recursos se entreguen a la población objetivo y reduzcan los gastos administrativos del programa correspondiente.
+
+La información señalada en el párrafo anterior deberá hacerse pública a través de la página oficial de la Secretaría en Internet; y
+
+VIII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio. En el caso de las Transferencias federales etiquetadas se estará a lo dispuesto en el artículo 17 de la Ley de Disciplina Financiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 17.
 
-Los Poderes Legislativo y Judicial y los órganos autónomos podrán autorizar erogaciones adicionales a las aprobadas en sus respectivos presupuestos, con cargo a los ingresos excedentes que en su caso generen, siempre y cuando:
+Los Poderes Legislativo y Judicial y los órganos autónomos, cumpliendo en lo conducente con lo señalado en el artículo anterior, podrán autorizar erogaciones adicionales a las aprobadas en sus respectivos presupuestos, con cargo a los ingresos excedentes que en su caso generen, siempre y cuando:
 
 I. Registren ante la Secretaría dichos ingresos en los conceptos correspondientes de la Ley de Ingresos, y
 
-II. Informen a la Secretaría sobre la obtención y la aplicación de dichos ingresos, para efectos de la integración de los informes trimestrales y la Cuenta Pública.
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+II. Informen a la Secretaría sobre la obtención y la aplicación de los ingresos excedentes, para efectos de la integración de los informes trimestrales y la Cuenta Pública.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+###### Artículo 17-A.
+
+Los Ingresos excedentes derivados de Ingresos de libre disposición con que cuente el Estado de Tabasco, deberán ser destinados a los siguientes conceptos:
+
+I. Por lo menos el 50 por ciento de dichos ingresos será destinado para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para la atención de desastres naturales y de pensiones; y
+
+II. En su caso, el remanente será destinado para:
+
+a) Inversión pública productiva, a través del fondo que se constituya para tal efecto, con el fin de que los recursos correspondientes se ejerzan a más tardar en el ejercicio inmediato siguiente; y
+
+b) La creación de un fondo cuyo objetivo sea compensar la caída de Ingresos de libre disposición en ejercicios subsecuentes.
+
+Los Ingresos excedentes derivados de Ingresos de libre disposición podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando el Estado de Tabasco se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas que se establece en la Ley de Disciplina Financiera.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 18.
 
-En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de Ingresos, el Ejecutivo, por conducto de la Secretaría, podrá aplicar las siguientes normas de disciplina presupuestaria:
+En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de Ingresos, el Ejecutivo, por conducto de la Secretaría, a efecto de cumplir con el principio de sostenibilidad del Balance presupuestario y del Balance presupuestario de recursos disponibles, deberá aplicar ajustes al Presupuesto de Egresos en los rubros de gasto en el siguiente orden:
 
-I. La disminución de alguno de los rubros de ingresos aprobados en la Ley de Ingresos, podrá compensarse con el incremento que, en su caso, observen otros rubros de ingresos aprobados en dicha Ley, salvo en el caso en que estos últimos tengan un destino específico por disposición expresa de leyes de carácter fiscal o conforme a éstas se cuente con autorización de la Secretaría para utilizarse en un fin específico, así como tratándose de ingresos propios de las entidades. En caso de que no pueda realizarse la compensación para mantener la relación de ingresos y gastos aprobados o ésta resulte insuficiente, se procederá en los términos de la siguiente fracción;
+I. Los gastos de comunicación social;
 
-II. La disminución de los ingresos totales se compensará con la reducción de los montos aprobados en los presupuestos de las dependencias y entidades, conforme a lo siguiente:
+II. Gasto corriente que no constituya un subsidio entregado directamente a la población, en términos de lo dispuesto por el artículo 16, fracción VII de esta Ley, y
 
-a) Los ajustes deberán realizarse en el siguiente orden:
+III. Gasto en servicios personales, prioritariamente las erogaciones por concepto de Percepciones extraordinarias.
 
-i) Los gastos de comunicación social;
+En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
 
-ii) El gasto administrativo no vinculado directamente a la atención de la población;
-
-iii) El gasto en servicios personales, prioritariamente las erogaciones por concepto de percepciones extraordinarias, y
-
-iv) Los ahorros y economías presupuestarios que se determinen con base en los calendarios de presupuesto autorizados.
-
-b) En caso de que los ajustes anteriores no sean factibles o suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto siempre y cuando no se afecten los programas sociales, y
-
-c) En el caso de que la contingencia sea de tal magnitud que represente una reducción equivalente a un monto superior al tres por ciento de los ingresos a que se refiera la Ley de Ingresos, el Ejecutivo enviará al Congreso del Estado en los siguientes 15 días hábiles a que se haya determinado la disminución de ingresos, el monto de gasto a reducir y una propuesta de composición de dicha reducción por dependencia y entidad.
-
-El Congreso del Estado, por conducto de la Comisión de Hacienda y Presupuesto, en un plazo de 10 días hábiles a partir de la recepción de la propuesta, analizará la composición de ésta y planteará, en su caso, modificaciones a la composición de la misma, en el marco de las disposiciones generales aplicables. El Ejecutivo, con base en la opinión del Congreso del Estado, resolverá lo conducente de acuerdo a las prioridades aprobadas en el presupuesto, informando de ello al propio Congreso. En caso de que el Congreso del Estado no emita opinión dentro de dicho plazo, procederá la propuesta enviada por el Ejecutivo.
-
-Los Ayuntamientos recibirán y determinarán el monto de gasto a reducir y la propuesta de composición de la reducción en los mismos términos y plazos previstos en el inciso c) y en el párrafo anterior del presente artículo.
-
-Los Poderes Legislativo y Judicial y los órganos autónomos deberán coadyuvar al cumplimiento de las normas de disciplina presupuestaria a que se refiere el presente artículo, a través de ajustes a sus respectivos presupuestos, observando en lo conducente lo dispuesto en la fracción II. Asimismo, deberán reportar los ajustes realizados en los informes trimestrales.
+Los Poderes Legislativo y Judicial y los órganos autónomos deberán coadyuvar al cumplimiento de las normas de disciplina financiera a que se refiere el presente artículo, a través de ajustes a sus respectivos presupuestos, observando en lo conducente lo dispuesto en la fracción II. Asimismo, deberán reportar los ajustes realizados en los informes trimestrales.
 
 ###### Artículo 19.
 
@@ -435,11 +543,61 @@ También se publicará en el Periódico Oficial del Estado el calendario mensual
 
 Los subejercicios de los presupuestos de las dependencias y entidades que resulten, deberán subsanarse en un plazo máximo de 45 días naturales. En caso contrario dichos recursos se reasignarán a los programas que determine el Ejecutivo, por conducto de la Secretaría, prioritariamente programas de carácter social y de inversión en infraestructura, de conformidad con el Presupuesto de Egresos, así como al fondo de jubilaciones y pensiones. De lo anterior se reportará con oportunidad en los informes trimestrales y la Cuenta Pública.
 
-### CAPÍTULO I. De la Programación y Presupuestación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MARZO DE 2017)</small>
+
+### CAPÍTULO III. Del Balance Presupuestario Sostenible y la Responsabilidad Hacendaria de los Municipios del Estado de Tabasco
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+###### Artículo 21-A.
+
+Las iniciativas de las Leyes de Ingresos y los proyectos de Presupuestos de Egresos de los Municipios del Estado de Tabasco se deberán elaborar conforme a lo establecido en la Ley de Disciplina Financiera, en esta Ley, en la Ley General de Contabilidad Gubernamental y en las normas que emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño Dichas iniciativas deberán ser congruentes con el Plan Estatal de Desarrollo y el Plan Municipal de Desarrollo que corresponda, así como con los programas derivados de los mismos; e incluirán cuando menos objetivos anuales, estrategias y metas.
+
+Las Leyes de Ingresos y los Presupuestos de Egresos de los Municipios deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y Transferencias federales etiquetadas que se incluyan no podrán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación, así como de las transferencias que correspondan al Estado de Tabasco.
+
+Los Municipios, adicionalmente (sic) lo previsto en los párrafos anteriores, deberán incluir en sus iniciativas de las Leyes de Ingresos y los respectivos Presupuestos de Egresos, los siguientes elementos:
+
+I. Proyecciones de finanzas públicas, considerando las premisas empleadas en los Criterios Generales de Política Económica.
+
+Las proyecciones se realizarán con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un periodo de tres años en adición al ejercicio fiscal en cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
+
+II. Descripción de los riesgos relevantes para las finanzas públicas del municipio, incluyendo los montos de Deuda Contingente, acompañados de propuestas de acción para enfrentarlos;
+
+III. Los resultados de las finanzas públicas que abarquen un periodo de los tres últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin, y
+
+IV. Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada cuatro años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
+
+Las proyecciones y resultados a que se refieren las fracciones I y III, respectivamente, comprenderán sólo un año para el caso de los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Dichos Municipios contarán con el apoyo técnico de la Secretaría, para cumplir lo previsto en este artículo.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+###### Artículo 21-B.
+
+El Gasto total propuesto al Ayuntamiento del Municipio en el proyecto de Presupuesto de Egresos, el aprobado y el que se ejerza en el año fiscal, deberán contribuir al Balance presupuestario sostenible.
+
+El Ayuntamiento del Municipio deberá generar Balances presupuestarios sostenibles. Se considerará que el Balance presupuestario cumple con el principio de sostenibilidad, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El Financiamiento Neto que, en su caso, se contrate por parte del Municipio y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con el artículo 46 de la Ley de Disciplina Financiera.
+
+En los casos y circunstancias excepcionales a que se refiere el artículo 7 la Ley de Disciplina Financiera, el Congreso del Estado podrá aprobar un Balance presupuestario de recursos disponibles negativo para el Municipio que lo requiera. Para tal efecto, el Director de Finanzas municipal, será responsable de cumplir lo previsto en el artículo 6, párrafo tercero al quinto, de esta Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+###### Artículo 21-C.
+
+Los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos de cada Municipio, podrán ser hasta por el 2.5 por ciento de sus Ingresos totales.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+###### Artículo 21-D.
+
+Los Municipios y sus Entes Públicos deberán observar las disposiciones establecidas en los artículos 8, 10, 11, 14, 15 y 17 de la Ley de Disciplina Financiera.
+
+Adicionalmente, los Municipios y sus Entes Públicos deberán observar lo previsto en el artículo 13 de la Ley de Disciplina Financiera. Lo anterior, con excepción de la fracción III, segundo párrafo de dicho artículo, la cual sólo será aplicable para los Municipios de más de 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
+
+Las autorizaciones a las que se hace mención en dichos artículos serán realizadas por las autoridades municipales competentes.
 
 ## TÍTULO SEGUNDO. De la Programación, Presupuestación y Aprobación
 
-### CAPÍTULO II. De la Ley de Ingresos y el Presupuesto de Egresos
+### CAPÍTULO I. De la Programación y Presupuestación
 
 ###### Artículo 22.
 
@@ -507,7 +665,9 @@ I. La administrativa, la cual identifica las unidades responsables por ramo para
 
 II. La funcional y programática, la cual agrupa un conjunto de programas y actividades ordenadas en forma coherente que por disposición legal le corresponden a los ejecutores de gasto y define las acciones que efectúan para alcanzar sus objetivos y metas que permitan conocer y evaluar la productividad y los resultados del gasto público en cada una de las etapas del proceso presupuestario, de acuerdo a las políticas definidas en el Plan de Desarrollo.
 
-Asimismo se incluirá en el proyecto de Presupuesto de Egresos una clasificación que presente los distintos programas con su respectiva asignación y objeto del gasto, que conformará el gasto programático, así como el gasto que se considerará gasto no programático, los cuales sumarán el gasto neto total;
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Asimismo se incluirá en el proyecto de Presupuesto de Egresos una clasificación que presente los distintos programas con su respectiva asignación y objeto del gasto, que conformará el gasto programático, así como el gasto que se considerará gasto no programático, los cuales sumarán el gasto total;
 
 III. La económica, la cual agrupa a las previsiones de gasto en función de su naturaleza económica y objeto, en erogaciones corrientes, inversión física, inversión financiera, otras erogaciones de capital, amortización de la deuda, subsidios, transferencias, participaciones y aportaciones federales;
 
@@ -525,7 +685,9 @@ La Secretaría queda facultada para formular el anteproyecto de presupuesto de l
 
 Los Poderes Legislativo y Judicial y los órganos autónomos enviarán a la Secretaría sus proyectos de presupuesto, a efecto de integrarlos al proyecto de Presupuesto de Egresos, a más tardar 10 días naturales antes de la fecha de presentación del mismo.
 
-En la programación y presupuestación de sus respectivos proyectos, los ejecutores de gasto a que se refiere el párrafo anterior deberán sujetarse a lo dispuesto en esta Ley y observar que su propuesta sea compatible con los criterios de política económica.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+En la programación y presupuestación de sus respectivos proyectos, los ejecutores de gasto a que se refiere el párrafo anterior deberán sujetarse a lo dispuesto en la Ley de Disciplina Financiera y esta Ley, cuidando que su propuesta sea compatible con los criterios de política económica.
 
 Los Poderes Legislativo y Judicial y los órganos autónomos, por conducto de sus respectivas unidades de administración, deberán coordinarse con la Secretaría en las actividades de programación y presupuesto, con el objeto de que sus proyectos sean compatibles con las clasificaciones y estructura programática a que se refieren los artículos 25 y 26 de esta Ley.
 
@@ -535,17 +697,45 @@ En el proyecto de Presupuesto de Egresos se deberán prever, en un capítulo esp
 
 Las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en los Presupuestos de Egresos.
 
-En términos de la fracción XII del artículo 36 de la Constitución Política del Estado Libre y Soberano de Tabasco, no se entenderán como deuda pública las obligaciones económicas o financieras plurianuales a las que se refiere este artículo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 30.
 
-En el proyecto de Presupuesto de Egresos se deberán presentar en una sección específica las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
+En materia de servicios personales, los entes públicos del Estado, según sus competencias, observarán lo siguiente:
 
-I. Las remuneraciones de los servidores públicos y las erogaciones a cargo de los ejecutores de gasto por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones, y
+I. La asignación global de recursos para servicios personales que se apruebe en el Presupuesto de Egresos, tendrá como límite el producto que resulte de aplicar al monto aprobado en el Presupuesto de Egresos del ejercicio inmediato anterior, una tasa de crecimiento equivalente al valor que resulte menor entre:
 
-II. Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos.
+a) El 3 por ciento de crecimiento real, y
+
+b) El crecimiento real del Producto Interno Bruto señalado en los Criterios Generales de Política Económica para el ejercicio que se está presupuestando. En caso de que el Producto Interno Bruto presente una variación real negativa para el ejercicio que se está presupuestando, se deberá considerar un crecimiento real igual a cero.
+
+Se exceptúa del cumplimiento de la presente fracción, el monto erogado por sentencias laborales definitivas emitidas por la autoridad competente.
+
+Los gastos en servicios personales que sean estrictamente indispensables para la implementación de nuevas leyes federales o reformas a las mismas, podrán autorizarse sin sujetarse al límite establecido en la presente fracción, hasta por el monto que específicamente se requiera para dar cumplimiento a la ley respectiva.
+
+II. En el proyecto de Presupuesto de Egresos se deberán presentar en una sección específica las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
+
+a) Las remuneraciones de los servidores públicos desglosando las Percepciones ordinarias y extraordinarias, e incluyendo las erogaciones a cargo de los ejecutores de gasto por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones, y
+
+b) Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos.
 
 Una vez aprobada la asignación global de servicios personales en el Presupuesto de Egresos, ésta no podrá incrementarse.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+###### Artículo 30-A.
+
+La Iniciativa de Presupuestos de Egresos deberá contemplar las previsiones de gasto, necesarias para hacer frente a los compromisos de pago que se deriven de los contratos de Asociación Público-Privada celebrados o por celebrarse durante el siguiente ejercicio fiscal.
+
+Para el caso de Asociaciones Público Privadas con recursos federales, se observará lo dispuesto en el artículo 11, segundo párrafo, de la Ley de Disciplina Financiera.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+###### Artículo 30-B.
+
+Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en la Iniciativa de Presupuesto de Egresos, podrán ser hasta por el 2 por ciento de los Ingresos totales considerados para el Estado en la Ley de Ingresos.
 
 ###### Artículo 31.
 
@@ -591,11 +781,13 @@ En el proyecto de Presupuesto de Egresos deberán incluirse las previsiones para
 
 El ejercicio de recursos destinados a comunicación social le corresponderá a la Coordinación General de Comunicación Social y Relaciones Públicas, debiendo prever lo dispuesto en el artículo 18 de esta Ley y demás disposiciones aplicables.
 
-### CAPÍTULO III. De la Aprobación y los mecanismos de comunicación y coordinación entre Poderes
+### CAPÍTULO II. De la Ley de Ingresos y el Presupuesto de Egresos
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 35.
 
-La Ley de Ingresos y el Presupuesto de Egresos serán los que apruebe el Congreso del Estado, o en su caso, los Ayuntamientos, con aplicación durante el periodo de un año, a partir del 1 de enero de cada ejercicio fiscal.
+La Ley de Ingresos y el Presupuesto de Egresos serán los que apruebe el Congreso del Estado, o en su caso, los Ayuntamientos, con aplicación durante el periodo de un año, a partir del 1 de enero de cada ejercicio fiscal. Incluirán lo señalado en los artículos 5 de la Ley de Disciplina Financiera y 13 de esta Ley, además de lo establecido en el presente Capítulo
 
 ###### Artículo 36.
 
@@ -669,7 +861,7 @@ c) La distribución de recursos para atender las políticas transversales conten
 
 d) La demás información que contribuya a la comprensión de los proyectos a que se refiere este artículo.
 
-### CAPÍTULO I. Del Ejercicio
+### CAPÍTULO III. De la Aprobación y los mecanismos de comunicación y coordinación entre Poderes
 
 ###### Artículo 38.
 
@@ -723,7 +915,7 @@ En el ámbito municipal, el órgano competente estará obligado a comunicar a la
 
 ## TÍTULO TERCERO. Del Ejercicio del Gasto Público
 
-### CAPÍTULO II. De la Ministración, el Pago y la Concentración de Recursos
+### CAPÍTULO I. Del Ejercicio
 
 ###### Artículo 41.
 
@@ -759,7 +951,9 @@ Las adecuaciones presupuestarias que, en su caso, sean necesarias para el pago d
 
 Las dependencias y entidades que no puedan cubrir la totalidad de las obligaciones conforme a lo previsto en el párrafo anterior, presentarán ante la autoridad competente un programa de cumplimiento de pago que deberá ser considerado para todos los efectos legales en vía de ejecución respecto de la resolución que se hubiese emitido, con la finalidad de cubrir las obligaciones hasta por un monto que no afecte los objetivos y metas de los programas prioritarios, sin perjuicio de que el resto de la obligación deberá pagarse en los ejercicios fiscales subsecuentes conforme a dicho programa.
 
-Los Municipios, los Poderes Legislativo y Judicial y los órganos autónomos, en caso de ser necesario, establecerán una propuesta de cumplimiento de obligaciones, observando en lo conducente lo dispuesto en los párrafos segundo y tercero de este artículo.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Los Municipios, los Poderes Legislativo y Judicial, los órganos autónomos, y demás entes públicos, en caso de ser necesario, establecerán una propuesta de cumplimiento de obligaciones, observando en lo conducente lo dispuesto en los párrafos segundo y tercero de este artículo.
 
 ###### Artículo 44.
 
@@ -815,13 +1009,15 @@ Las dependencias y entidades deberán informar a la Contraloría sobre la celebr
 
 En el caso de proyectos de asociaciones público privadas, las dependencias y entidades deberán sujetarse al procedimiento de autorización y demás disposiciones aplicables que emitan, en el ámbito de sus respectivas competencias, la Secretaría y la Contraloría.
 
-Los Municipios, los Poderes Legislativo y Judicial y los órganos autónomos, a través de sus respectivas unidades de administración, podrán autorizar la celebración de contratos plurianuales siempre y cuando cumplan lo dispuesto en este artículo y emitan normas generales y para su justificación y autorización.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Los Municipios, los Poderes Legislativo y Judicial, los órganos autónomos y cualquier otro ente público, a través de sus respectivas unidades de administración, podrán autorizar la celebración de contratos plurianuales siempre y cuando cumplan lo dispuesto en este artículo y emitan normas generales y (sic) para su justificación y autorización.
 
 Con posterioridad al cumplimiento de los requisitos previstos en este artículo y, en su caso, de las demás disposiciones aplicables, los contratos plurianuales deben ser autorizados por el Congreso del Estado.
 
 Los ejecutores de gasto deberán incluir en los informes trimestrales un reporte sobre el monto total erogado durante el periodo, correspondiente a los contratos a que se refiere este artículo, así como incluir las previsiones correspondientes en sus anteproyectos de presupuesto para el siguiente ejercicio fiscal, en los términos de los artículos 29 y 37 fracción II inciso c) de esta Ley.
 
-### CAPÍTULO III. De las Adecuaciones Presupuestarias
+### CAPÍTULO II. De la Ministración, el Pago y la Concentración de Recursos
 
 ###### Artículo 47.
 
@@ -869,7 +1065,9 @@ Los ejecutores de gasto que por cualquier motivo al 31 de diciembre de cada ejer
 
 Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo.
 
-Las dependencias y entidades que al cierre del ejercicio conserven recursos que no pierden su carácter federal que no se encuentren efectivamente devengados y contabilizados observarán lo dispuesto en la Ley Federal y demás disposiciones aplicables, a fin de realizar su reintegro a la Tesorería de la Federación, incluyendo sus rendimientos financieros.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Las dependencias y entidades que al cierre del ejercicio conserven recursos que no pierden su carácter federal que no se encuentren efectivamente devengados y contabilizados observarán lo dispuesto en la Ley de Disciplina Financiera y demás disposiciones aplicables, a fin de realizar su reintegro a la Tesorería de la Federación, incluyendo sus rendimientos financieros, conforme a lo establecido en el artículo 17 de dicho ordenamiento.
 
 ###### Artículo 51.
 
@@ -887,11 +1085,13 @@ Los ejecutores de gasto no otorgarán garantías ni efectuarán depósitos para 
 
 El Gobierno Estatal y los Municipios sólo otorgarán aquellas garantías previstas en la legislación vigente.
 
-### CAPÍTULO IV. De la Austeridad y Disciplina Presupuestaria
+### CAPÍTULO III. De las Adecuaciones Presupuestarias
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### Artículo 53.
 
-Los ejecutores de gasto deberán sujetarse a los montos autorizados en el Presupuesto de Egresos, salvo que se realicen adecuaciones presupuestarias en los términos que señala este Capítulo y los artículos 16, 17 y 18 de esta Ley.
+Los ejecutores de gasto deberán sujetarse a los montos autorizados en el Presupuesto de Egresos, salvo que se realicen adecuaciones presupuestarias en los términos que señala este Capítulo y los artículos 16, 17, 17-A y 18 de esta Ley.
 
 ###### Artículo 54.
 
@@ -917,7 +1117,7 @@ El Reglamento establecerá las adecuaciones presupuestarias de las dependencias 
 
 Los Poderes Legislativo y Judicial y los órganos autónomos, a través de sus respectivas unidades de administración, podrán autorizar adecuaciones a sus respectivos presupuestos siempre que permitan un mejor cumplimiento de los objetivos de los programas a su cargo y deberán emitir las normas aplicables. Dichas adecuaciones, incluyendo aquéllas comprendidas en el artículo 17 de esta Ley, deberán ser informadas al Ejecutivo, por conducto de la Secretaría, para efectos de la integración de la Cuenta Pública.
 
-### CAPÍTULO V. De los Servicios Personales
+### CAPÍTULO IV. De la Austeridad y Disciplina Presupuestaria
 
 ###### Artículo 56.
 
@@ -947,6 +1147,10 @@ VI. Estrategias para modernizar la estructura de la administración pública a f
 
 VII. Estrategias para enajenar aquellos bienes improductivos u obsoletos, ociosos o innecesarios.
 
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Los ahorros generados como resultado de la aplicación de dichas medidas deberán destinarse, en los términos de las disposiciones generales aplicables, en primer lugar, a corregir desviaciones del Balance presupuestario de recursos disponibles negativo y, en segundo lugar, a los programas prioritarios del ejecutor de gasto que los genere.
+
 ###### Artículo 57.
 
 Los ejecutores de gasto podrán realizar contrataciones de prestación de servicios de asesoría, consultoría, estudios e investigaciones, en el caso de las dependencias y entidades, previa autorización de la Secretaría y Administración, siempre y cuando:
@@ -975,7 +1179,7 @@ II. Bienes y servicios: los ejecutores de gasto deberán racionalizar los recurs
 
 III. Se promoverá la contratación consolidada de materiales, suministros, mobiliario y demás bienes, así como de los servicios cuya naturaleza lo permita, en términos de la normatividad aplicable.
 
-### CAPÍTULO VI. De las Transferencias, Asignaciones, Subsidios y Otras Ayudas
+### CAPÍTULO V. De los Servicios Personales
 
 ###### Artículo 59.
 
@@ -1083,7 +1287,7 @@ La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
 
 El Gobierno Estatal no otorgará pensiones de gracia ni beneficios económicos equivalentes que no estén previstos en ley o decreto.
 
-### CAPÍTULO I. De la Información y Transparencia
+### CAPÍTULO VI. De las Transferencias, Asignaciones, Subsidios y Otras Ayudas
 
 ###### Artículo 69.
 
@@ -1179,7 +1383,7 @@ Las dependencias y entidades que soliciten y, en su caso, ejerzan donativos prov
 
 ## TÍTULO CUARTO. De la Información, Transparencia y Evaluación
 
-### CAPÍTULO II. De la Evaluación
+### CAPÍTULO I. De la Información y Transparencia
 
 ###### Artículo 77.
 
@@ -1205,7 +1409,9 @@ I. La situación económica, incluyendo el análisis sobre la producción y el e
 
 II. La situación de las finanzas públicas, con base en lo siguiente:
 
-a) Los principales indicadores de la postura fiscal, incluyendo información sobre los balances fiscales y, en su caso, el déficit presupuestario;
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+a) Los principales indicadores de la postura fiscal, incluyendo información sobre los balances fiscales y, en su caso, el Balance presupuestario de recursos disponibles negativo;
 
 b) La evolución de los ingresos tributarios y no tributarios, la situación respecto a las metas de recaudación y una explicación detallada de la misma, así como el comportamiento de las participaciones federales, y
 
@@ -1231,7 +1437,7 @@ La información que la Secretaría y los Ayuntamientos proporcionen al Congreso 
 
 La información de la cartera de programas y proyectos de inversión, así como la relativa a los análisis costo – beneficio, se pondrá a disposición del público en general a través de medios electrónicos, con excepción de aquélla que, por su naturaleza, se considere como reservada. En todo caso, se observarán las disposiciones contenidas en la Ley General de Transparencia y Acceso a la Información Pública.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. De la Evaluación
 
 ###### Artículo 80.
 
@@ -1284,6 +1490,8 @@ El sistema de evaluación del desempeño deberá considerar indicadores específ
 Los resultados a los que se refiere este artículo deberán ser considerados para efectos de la programación, presupuestación y ejercicio de los recursos.
 
 ## TÍTULO QUINTO. De las Sanciones e Indemnizaciones
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 82.
 
@@ -1372,3 +1580,29 @@ SECRETARIO DE GOBIERNO.
 LIC. JUAN JOSÉ PERALTA FÓCIL.
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 079 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 1, PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO; 2, PRIMER PÁRRAFO Y SUS FRACCIONES I, XXII, XXXIV, XXXV, Y XXXVII; 4, PÁRRAFOS SEGUNDO, TERCERO Y CUARTO; 6, PRIMER PÁRRAFO; 12, ÚLTIMO PÁRRAFO; LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO PRIMERO "DEL EQUILIBRIO PRESUPUESTARIO Y DE LOS PRINCIPIOS DE RESPONSABILIDAD HACENDARIA", PARA INTITULARSE "DE LAS REGLAS DE DISCIPLINA FINANCIERA, DEL BALANCE PRESUPUESTARIO SOSTENIBLE Y DE LOS PRINCIPIOS DE RESPONSABILIDAD HACENDARIA, PARA EL GOBIERNO DEL ESTADO"; 13; 14; 15, PÁRRAFOS PRIMERO Y SEGUNDO; 16; 17, PÁRRAFO PRIMERO Y LA FRACCIÓN II; 18; 26, SEGUNDO PÁRRAFO DE LA FRACCIÓN II; 28 SEGUNDO PÁRRAFO; 30; 35; 43, ÚLTIMO PÁRRAFO; 46, QUINTO PÁRRAFO; 50, QUINTO PÁRRAFO; 53; Y 78, TERCER PÁRRAFO, FRACCIÓN II, INCISO A). SE ADICIONAN: LAS FRACCIONES IV BIS, IV TER, VII BIS, XI BIS, XVII BIS, XXVI BIS, XXIX BIS, AL PÁRRAFO PRIMERO DEL ARTÍCULO 2; UN ARTÍCULO 14-A; UN SEXTO PÁRRAFO AL ARTÍCULO 15; UN ARTÍCULO 17-A; UN CAPÍTULO III AL TÍTULO PRIMERO, DENOMINADO "DEL BALANCE PRESUPUESTARIO SOSTENIBLE Y LA RESPONSABILIDAD HACENDARÍA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO", FORMADO POR LOS ARTÍCULOS 21-A, 21-B, 21-C Y 21-D; LOS ARTÍCULOS 30-A Y 30-B; Y UN PÁRRAFO SÉPTIMO AL ARTÍCULO 56. SE DEROGAN: LAS FRACCIONES IX, XXI Y XLVI DEL PRIMER PÁRRAFO DEL ARTÍCULO 2; Y EL TERCER PÁRRAFO DEL ARTÍCULO 29, TODOS DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo y los ayuntamientos, conforme a sus respectivas atribuciones, realizarán las adecuaciones de orden reglamentario y administrativo que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo no mayor a 180 días naturales a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones en materia de equilibrio presupuestario y responsabilidad hacendaria previstas en el Capítulo I del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el Capítulos (sic) II del Título Primero de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios, estarán en vigor para el ejercicio Fiscal 2017, con las salvedades previstas en los artículos transitorios Quinto al Noveno del Decreto por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado el 27 de abril de 2016 en el Diario Oficial de la Federación.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y III del Título Primero de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero del Decreto por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado el 27 de abril de 2016 en el Diario Oficial de la Federación; y los que apliquen de acuerdo al artículo 21 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
