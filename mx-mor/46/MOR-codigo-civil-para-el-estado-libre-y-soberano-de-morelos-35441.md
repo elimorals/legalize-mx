@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2008-12-11"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
+CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 13 de octubre de 1993.
 
@@ -6267,7 +6267,9 @@ I.- En cinco años, cuando se poseen en concepto de dueño o de titular del dere
 
 II.- En cinco años, cuando los inmuebles o derechos reales hayan sido objeto de una inscripción;
 
-III.- En veinte años, cuando se posean de mala fe, si la posesión es en concepto de propietario o de titular del derecho y se ejerce en forma pacífica, continua, pública, y de manera cierta; y,
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+III. En diez años, cuando se posean de mala fe, si la posesión es en concepto de propietario o de titular del derecho y se ejerce en forma pacifica, continua, pública y de manera cierta; y
 
 IV.- Se aumentará en una tercera parte el tiempo señalado en las fracciones I y II, si se demuestra, por quien tenga interés jurídico en ello, que el poseedor de finca rústica no la ha cultivado durante más de tres años, o que por no haber hecho el poseedor de finca urbana las reparaciones necesarias, ésta ha permanecido deshabitada la mayor parte del tiempo que ha estado en su poder.
 
@@ -6283,9 +6285,11 @@ TERMINO PARA LA PRESCRIPCION CUANDO MEDIE VIOLENCIA. Cuando la posesión se adqu
 
 PRESCRIPCION POSITIVA EN CASO DE DELITO. La posesión adquirida por medio de un delito se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose la posesión como de mala fe.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 1242.
 
-PROMOCION DE JUICIO POR EL POSEEDOR CON ANIMO DE PRESCRIBIR EN CONTRA DEL TITULAR REGISTRAL. El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público de la Propiedad, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad. En todo caso, para el ejercicio de esta pretensión, el promovente del juicio deberá revelar la causa generadora de su posesión.
+PROMOCION DE JUICIO POR EL POSEEDOR CON ANIMO DE PRESCRIBIR. El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público de la Propiedad, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad. En caso de que el poseedor tenga conocimiento de que el propietario real del inmueble sea persona distinta a la señalada en el Registro Público de la Propiedad, deberá igualmente, promover juicio contra éste. En todo caso, para el ejercicio de esta pretensión, el promovente del juicio deberá revelar la causa generadora de su posesión.
 
 ###### ARTICULO 1243.
 
@@ -13914,3 +13918,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto en la presente.
 
 TERCERO. Aprobado que sea, remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para que los efectos previstos en los artículos 44 y 70 de la Constitución Política del Estado Libre y soberano de Morelos.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL QUINIENTOS OCHENTA Y DOS POR EL CUAL SE REFORMAN LOS ARTÍCULOS 1238 Y 1242 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
