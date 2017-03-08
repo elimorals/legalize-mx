@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fiscalizacion-superior-de-la-ciudad-de-mexico-101742"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-09"
-last_updated: "2015-06-24"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101742&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-06-09"
 
 LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MARZO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 9 de julio de 2014.
 
@@ -382,7 +382,9 @@ III. Realizar las investigaciones necesarias para el cabal cumplimiento de sus a
 
 IV. Formular y Ejecutar Programa Anual de Trabajo de la Auditoría Superior;
 
-V. Informar trimestralmente por escrito a la Comisión el avance y resultado del Programa Anual de Trabajo de la Auditoría Superior;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2017)</small>
+
+V. Informar trimestralmente por escrito a la Comisión el avance y resultado del Programa Anual de Trabajo de la Auditoría Superior, dentro de los diez días hábiles posteriores al término del periodo informado;
 
 VI. Asistir ante la Comisión, para la presentación del Programa General de Auditoría, del Informe de Resultados y de aquellos asuntos que previo acuerdo de la Comisión, sean considerados de carácter urgente y se tengan que desahogar de forma directa, fuera de dichos casos, todo asunto será recabado y desahogado por el equipo técnico que designe el Auditor Superior;
 
@@ -392,17 +394,27 @@ VIII. Comisionar auditores en términos del artículo 32 de este ordenamiento.
 
 IX. Nombrar al personal de la Auditoría Superior;
 
-X. Aprobar el Proyecto de Presupuesto Anual de la Auditoría Superior y presentarlo a la Comisión, para su conocimiento y opinión. Una vez conocido, la Comisión lo turnará a la Comisión de Gobierno para que se incluya de manera consolidado en el Proyecto de Presupuesto de la Asamblea Legislativa del siguiente ejercicio fiscal;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2017)</small>
 
-XI. Presentar trimestral y anualmente a la Comisión informe sobre el origen y la aplicación del presupuesto de la Auditoría Superior;
+X. Aprobar el Proyecto de Presupuesto Anual de la Auditoría Superior y presentarlo a la Comisión a más tardar el día 15 del mes de noviembre, para su conocimiento y opinión. Una vez conocido, la Comisión lo turnará a la Comisión de Gobierno para que se incluya de manera consolidado en el Proyecto de Presupuesto de la Asamblea Legislativa del siguiente ejercicio fiscal;
 
-XII. Presentar trimestral y anualmente a la Comisión, un informe de gestión del período, dentro de los treinta días siguientes al término del período que se refiere;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2017)</small>
 
-XIII. Formular, aprobar y presentar a la Comisión, en un plazo no mayor de treinta días naturales contados a partir de que la Auditoría Superior reciba la Cuenta Pública por parte de la Comisión, el Programa General de Auditoria;
+XI. Presentar trimestral y anualmente a la Comisión informe sobre el origen y la aplicación del presupuesto de la Auditoría Superior en un término de diez días hábiles posteriores al término del periodo a informar;
+
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2017)</small>
+
+XII. Presentar trimestral y anualmente a la Comisión, un informe de gestión del período, dentro de los treinta días siguientes al término del período a informar;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2017)</small>
+
+XIII. Formular, aprobar y presentar a la Comisión, en un plazo no mayor de quince días hábiles contados a partir de que la Auditoría Superior reciba la Cuenta Pública por parte de la Comisión, el Programa General de Auditoria;
 
 La selección de las auditorías se llevará a cabo de conformidad con el Manual que apruebe y expida el Auditor Superior.
 
-XIV. Formular recomendaciones preventivas, dictámenes técnicos correctivos y pliegos de observaciones, así como proceder a su seguimiento hasta que se hayan atendido y desahogado en su totalidad, informando trimestralmente de los avances a la Comisión.
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2017)</small>
+
+XIV. Formular recomendaciones preventivas, dictámenes técnicos correctivos y pliegos de observaciones, así como proceder a su seguimiento hasta que se hayan atendido y desahogado en su totalidad, informando trimestralmente, dentro de los diez días naturales posteriores al periodo a informar, de los avances a la Comisión.
 
 XV. Emitir las normas técnicas y los manuales de procedimientos a que deban sujetarse las visitas, inspecciones, auditorías y evaluaciones que se ordenen, los que se actualizarán de acuerdo con los avances técnicos que en la materia se produzcan, los que deberán evaluarse por lo menos una vez cada dos años para en su caso hacer las modificaciones y difundir su aplicación al interior de la Auditoría Superior;
 
@@ -410,7 +422,9 @@ XVI. Integrar las comisiones y subcomisiones de trabajo que sean necesarias para
 
 XVII. Requerir a los sujetos de fiscalización la información que resulte necesaria para cumplir con sus objetivos;
 
-XVIII. Aprobar y hacer del conocimiento de la Comisión:
+> <small>(REFORMADA PRIMER PÁRRAFO, G.O. 8 DE MARZO DE 2017)</small>
+
+XVIII. Aprobar y hacer del conocimiento de la Comisión, en un lapso no mayor a cinco días hábiles de la determinación correspondiente:
 
 a) Las ampliaciones y reducciones líquidas presupuestales;
 
@@ -496,7 +510,9 @@ IV. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
 Artículo 18 Quarter.- El Contralor General de la Auditoría Superior tendrá las siguientes obligaciones y atribuciones:
 
-I. Presentar al Pleno de la Asamblea, por conducto de la Comisión un informe semestral sobre el ejercicio del presupuesto de egresos de la Auditoría Superior.
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2017)</small>
+
+I. Presentar al Pleno de la Asamblea, por conducto de la Comisión un informe semestral, dentro de los diez días naturales posteriores al periodo a informar, sobre el ejercicio del presupuesto de egresos de la Auditoría Superior.
 
 II. Dar a conocer previamente al Auditor Superior las resoluciones que emita.
 
@@ -512,9 +528,13 @@ VII. Realizar dentro del ámbito de su competencia, todo tipo de auditorías y e
 
 VIII. Verificar el cumplimiento de los objetivos contenidos en los Programas de la Auditoría Superior, formular, con base en los resultados de las auditorías, las observaciones y recomendaciones que de éstas se deriven, y establecer el seguimiento sistemático para el cumplimiento de las mismas, lo anterior sin perjuicio de lo dispuesto en la fracción II de este precepto;
 
-IX. Informar a la Comisión su Programa Anual de Auditorías y, en su caso, las que deba realizar fuera del mismo, para su aprobación;
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2017)</small>
 
-X. Informar semestralmente a la Comisión sobre los resultados de las auditorías practicadas y las evaluaciones a las unidades administrativas que integran la Auditoría Superior, que hayan sido objeto de fiscalización, así como de las acciones que se indiquen para mejorar la gestión;
+IX. Informar a la Comisión su Programa Anual de Auditorías y, en su caso, las que deba realizar fuera del mismo, para su aprobación en un término no mayor a diez días hábiles;
+
+> <small>(REFORMADA, G.O. 8 DE MARZO DE 2017)</small>
+
+X. Informar semestralmente, dentro de los diez días hábiles posteriores al periodo a informar, a la Comisión sobre los resultados de las auditorías practicadas y las evaluaciones a las unidades administrativas que integran la Auditoría Superior, que hayan sido objeto de fiscalización, así como de las acciones que se indiquen para mejorar la gestión;
 
 XI. Intervenir en los procesos de licitación, de adquisiciones de bienes, servicios, arrendamientos y de obra pública, para vigilar que se cumpla con las normas jurídicas y demás disposiciones técnicas o administrativas aplicables, así como sustanciar y resolver los recursos que en dicha materia le competan;
 
@@ -1407,3 +1427,13 @@ TERCERO.- La Auditoría Superior de la Ciudad de México homologará y adecuará
 CUARTO.- En un plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto, la Comisión de Presupuesto y Cuenta Pública, dictaminará las adecuaciones y ajustes presupuestales de la Asamblea Legislativa y de la Contraloría, que se deriven de esta reforma.
 
 QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
+
+G.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan al presente decreto.
