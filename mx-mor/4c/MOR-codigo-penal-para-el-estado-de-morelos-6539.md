@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2016-12-07"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -229,7 +229,7 @@ Dicho en términos muy generales, un Código Penal es el catálogo de las conduc
 
 Se estima necesario revisar esa sistemática. Si el ser humano es el eje de la vida social, el depositario de los más altos valores políticos y morales, la razón de ser de la sociedad y el Estado, resulta natural que el catálogo de los delitos se inicie con aquéllos que afectan a la persona humana, y ante todo con los que vulneran el bien jurídico de más alto rango: la vida. Es por ello que estas conductas aparecen en la primera porción del Libro Segundo. Posteriormente figuran, en sendos agrupamientos típicos, los delitos contra el orden familiar, contra la sociedad y contra el Estado. De este modo se sigue una ordenación lógica consecuente con el compromiso humanista de la sociedad mexicana, al que sirve, en su propio espacio, el ordenamiento penal.
 
-También se ha revisado la ordenación de las "familias" o agrupamientos de delitos dentro de cada título o capítulo, con el propósito de colocar en primer término los que lesionan bienes de mayor rango o causan daños o peligros de mayor gravedad, y ubicar en seguida aquellos otros delitos de la misma especie que lesionan bienes menos relevantes o lo hacen con menor intensidad.
+También se ha revisado la ordenación de las "familias" o agrupamientos de delitos dentro de cada título y capítulo, con el propósito de colocar en primer término los que lesionan bienes de mayor rango o causan daños o peligros de mayor gravedad, y ubicar en seguida aquellos otros delitos de la misma especie que lesionan bienes menos relevantes o lo hacen con menor intensidad.
 
 Se obedece a la moderna tendencia de ampliar, en términos razonables, el número de los delitos perseguibles por instancia del ofendido o de la persona legitimada para formular querella. Con ello se procura concentrar la actuación oficiosa del Estado en las conductas ilícitas más graves, donde el interés social persecutorio prevalece sobre cualquier otra consideración particular. La persecución por querella permite evitar la vía jurisdiccional cuando es conveniente y razonable hacerlo, y promover, al través de la composición legítima entre la víctima y el victimario, una solución juiciosa al litigio penal, tomando en cuenta, sobre todo, la posibilidad de satisfacción de los intereses del ofendido.
 
@@ -1880,6 +1880,10 @@ A quien intimide a otro con causarle daño en su persona o en sus bienes, u ocas
 Si el ofendido por la amenaza fuere víctima, ofendido o testigo en un procedimiento penal, la pena será de cuatro a ocho años de prisión y de cien a trescientos días multa.
 
 Los delitos previstos en este artículo se perseguirán por querella, con excepción del establecido en el párrafo inmediato anterior que se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+ARTICULO 147 BIS.- Al que, con la intención de requerir el pago de una deuda, ya sea propia del deudor o de quien funja como referencia o aval, intimide a otro con causarle daño en sus bienes o efectúe en su contra actos de hostigamiento, se le impondrá la misma sanción establecida en el artículo inmediato anterior, además de las sanciones que correspondan, si para tal efecto se emplearon documentación o sellos falsos o se usurparon funciones públicas o de profesión.
 
 ### CAPITULO VIII. DE LOS DELITOS INFORMATICOS
 
@@ -4888,3 +4892,11 @@ P.O. 7 DE DICIEMBRE DE 2016.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado de Morelos.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL QUINIENTOS OCHENTA Y UNO POR EL QUE SE ADICIONA EL ARTÍCULO 147 BIS AL CÓDIGO PENAL DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
