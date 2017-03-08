@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2016-07-27"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -479,7 +479,7 @@ II.- Nombre, cargo u ocupación de las personas que intervienen, quienes se iden
 
 III.- Especificar el asunto u objeto principal del acto de Entrega-Recepción, o evento del cual se va a dejar constancia;
 
-IV.- Ser circunstanciada, relacionando por escrito y a detalle, el conjunto de hechos que comprende el acto de entrega-recepción o evento del cual se va a .dejar constancia, así como las situaciones que acontezcan durante su desarrollo, situación que deberá manifestarse bajo protesta de decir verdad;
+IV.- Ser circunstanciada, relacionando por escrito y a detalle, el conjunto de hechos que comprende el acto de entrega-recepción o evento del cual se va a dejar constancia, así como las situaciones que acontezcan durante su desarrollo, situación que deberá manifestarse bajo protesta de decir verdad;
 
 V.- Realizarse en presencia de personas que funjan como testigos;
 
@@ -551,7 +551,9 @@ VII. Remitir al Órgano Superior de Fiscalización del Estado, dentro de los tre
 
 VIII. Enviar a más tardar el 31 de marzo del año siguiente, en complemento a la cuenta pública del ejercicio de que se trate, la evaluación final de su Programa Operativo Anual, con relación a las metas que se establecieron por el año que corresponda y el avance de su plan de desarrollo, para su inclusión correspondiente y calificación anual de la cuenta pública;
 
-IX. Aprobar los proyectos de contratación de empréstitos que afecten los ingresos de futuras administraciones municipales, los cuales deberán ser enviados a la Legislatura local, directamente o a través del Ejecutivo del Estado, para su autorización;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+IX. Aprobar los proyectos de contratación de empréstitos que afecten los ingresos de futuras administraciones municipales, los cuales deberán ser enviados a la Legislatura local, directamente o a través del Ejecutivo del Estado, para su autorización; así como dar cumplimiento a las facultades y obligaciones que en materia de disciplina presupuestaria y deuda pública municipal establecen los ordenamientos legales aplicables;
 
 X. Vigilar la administración de los bienes de dominio público y privado del Municipio, en los términos que señala esta Ley y otras aplicables;
 
@@ -713,11 +715,19 @@ El titular de la dirección o jefatura de departamento de asuntos indígenas, te
 
 ### CAPÍTULO V. Prohibiciones del Ayuntamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### Artículo 33.
 
-Los ayuntamientos no podrán contraer empréstitos, sin autorización del Poder Legislativo, ni cobrar contribuciones que correspondan al año siguiente de su período constitucional.
+Los ayuntamientos no podrán contraer financiamientos u obligaciones sin autorización del Poder Legislativo, en su caso, ni cobrar contribuciones que correspondan al año siguiente de su período constitucional.
 
-De igual manera, acorde a lo establecido en el artículo 117, de la Constitución Política de los Estados Unidos Mexicanos, no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas, inclusive los que contraigan organismos descentralizados y empresas públicas conforme a las bases que establezca el Congreso del Estado en las leyes respectivas y por los conceptos y montos que se fijen anualmente en los respectivos presupuestos. De los mismos deberán informar, lo conducente, al rendir la cuenta pública.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
+De igual manera, acorde a lo establecido en el artículo 117, de la Constitución Política de los Estados Unidos Mexicanos, no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas, inclusive los que contraigan organismos descentralizados y empresas públicas conforme a las bases que establezca el Congreso del Estado en las leyes respectivas y por los conceptos y montos que se fijen anualmente en los respectivos presupuestos. De los mismos deberán informar, lo conducente, al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+
+Sin perjuicio de lo anterior, los Municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la Ley. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno municipal y no podrán contratarse nuevas obligaciones durante los últimos tres meses.
 
 ###### Artículo 34.
 
@@ -1967,9 +1977,9 @@ Artículo 94 bis. A la Dirección de Atención a las Mujeres corresponde el desp
 
 I.- Elaborar los diagnósticos municipales con respecto a la equidad de género;
 
-II.-Promover la perspectiva de género mediante la participación de las mujeres en la toma de decisiones respecto del diseño de los planes y los programas de gobierno municipal;
+II.- Promover la perspectiva de género mediante la participación de las mujeres en la toma de decisiones respecto del diseño de los planes y los programas de gobierno municipal;
 
-III- Presentar a la Dirección de Programación, propuesta de acciones a favor de las mujeres en la que .se contemplen necesidades básicas en materia de trabajo, salud, educación, cultura y todas aquellas en las cuales la mujer debe tener una participación efectiva, para que se contemple en el programa operativo anual del municipio;
+III.- Presentar a la Dirección de Programación, propuesta de acciones a favor de las mujeres en la que se contemplen necesidades básicas en materia de trabajo, salud, educación, cultura y todas aquellas en las cuales la mujer debe tener una participación efectiva, para que se contemple en el programa operativo anual del municipio;
 
 IV.- Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades de las dependencias de gobierno estatal, federal, así como organizaciones no gubernamentales;
 
@@ -3894,3 +3904,27 @@ PRIMERO.- El correspondiente decreto entrará en vigor al día siguiente de su p
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Las presentes disposiciones serán aplicables, en su caso, a partir de quienes resulten electos en el proceso de elección de delegados y subdelegados a celebrarse por los ayuntamientos del Estado de Tabasco en el periodo constitucional 2018-2021.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 079 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 29, FRACCIÓN IX; Y 33. SE ADICIONA: UN TERCER PÁRRAFO AL ARTÍCULO 33; TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo y los ayuntamientos, conforme a sus respectivas atribuciones, realizarán las adecuaciones de orden reglamentario y administrativo que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo no mayor a 180 días naturales a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones en materia de equilibrio presupuestario y responsabilidad hacendaria previstas en el Capítulo I del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el Capítulos (sic) II del Título Primero de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios, estarán en vigor para el ejercicio Fiscal 2017, con las salvedades previstas en los artículos transitorios Quinto al Noveno del Decreto por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado el 27 de abril de 2016 en el Diario Oficial de la Federación.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y III del Título Primero de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero del Decreto por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado el 27 de abril de 2016 en el Diario Oficial de la Federación; y los que apliquen de acuerdo al artículo 21 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
