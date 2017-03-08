@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-prevencion-y-combate-al-abuso-de-bebidas-83343"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2017-02-15"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DE BEBIDAS ALCOHÓLICAS Y DE REGULACIÓN PARA SU VENTA Y CONSUMO EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de octubre de 2011.
 
@@ -997,9 +997,9 @@ Cuando se trate de denuncias anónimas o telefónicas, la autoridad deberá llev
 
 Sin perjuicio de las sanciones penales que en su caso correspondan y tomando en cuenta la gravedad del acto o la reincidencia en su caso, por las infracciones a las disposiciones derivadas de esta Ley y sus Reglamentos, las autoridades competentes impondrán al infractor, según corresponda, las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
 
-I. Multa de veinte hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente en el Estado;
+I. Multa de veinte hasta mil veces el valor diario de la Unidad de Medida y Actualización;
 
 II. Suspensión temporal de la actividad autorizada hasta por 30 días naturales;
 
@@ -1049,7 +1049,9 @@ XIV.- Cuando se verifiquen en el exterior del establecimiento o giro concursos, 
 
 La instancia municipal competente aplicará la multa o sanción a que se refiere la fracción II del artículo 94 de esta Ley, en cualquiera de los casos siguientes:
 
-I. Cuando los permisionarios permitan la venta de bebidas alcohólicas y el acceso al local del establecimiento o giro a menores de dieciocho años de edad; en este caso, la multa será de mil a dos mil veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+I. Cuando los permisionarios permitan la venta de bebidas alcohólicas y el acceso al local del establecimiento o giro a menores de dieciocho años de edad; en este caso, la multa será de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización;
 
 II. Cuando los permisionarios dejen de cumplir con los requisitos y condiciones para operar el establecimiento o giro de conformidad con el reglamento de esta Ley;
 
@@ -1260,3 +1262,15 @@ P.O. 15 DE FEBRERO DE 2017.
 PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL QUINIENTOS TREINTA Y CINCO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 94 Y FRACCIÓN I DEL ARTÍCULO 96 DE LA LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DE BEBIDAS ALCOHÓLICAS Y DE REGULACIÓN PARA SU VENTA Y CONSUMO EN EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y libertad", órgano de difusión Oficial del Gobierno del estado de Morelos.
+
+Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
