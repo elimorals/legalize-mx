@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2016-06-16"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE MARZO DE 2017.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2814,6 +2814,22 @@ VIII. Respecto de vehículo automotriz o parte de éste; o
 
 IX. En contra de transeúnte, entendiéndose por éste a quien se encuentre en la vía pública o en espacios abiertos que permitan el acceso público.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 8 DE MARZO DE 2017)</small>
+
+X. En contra del equipamiento y mobiliario urbano de la ciudad de méxico.
+
+(NOTA: EL 7 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 23/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE MARZO DE 2017 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[N. DE E. PERTENECE A LA FRACCIÓN X, G.O. 8 DE MARZO DE 2017)
+
+Se entiende por equipamiento urbano: el conjunto de inmuebles, instalaciones, construcciones y mobiliario urbano, destinados a prestar a la población servicios públicos, de administración pública, de educación y cultura; de comercio, de salud y asistencia; de deporte y de recreación, de traslado y de transporte Y OTROS, para satisfacer sus necesidades y su bienestar.
+
+(NOTA: EL 7 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 23/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE MARZO DE 2017 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[N. DE E. PERTENECE A LA FRACCIÓN X, G.O. 8 DE MARZO DE 2017)
+
+Se entiende por mobiliario urbano: Los elementos complementarios al equipamiento urbano, ya sean fijos, móviles, permanentes o temporales, ubicados en la vía pública o en espacios públicos formando parte de la imagen de la Ciudad, los que, según su función, se aplican para el descanso, comunicación, información, necesidades fisiológicas, comercio, seguridad, higiene, servicio, jardinería, ASÍ COMO AQUELLOS OTROS MUEBLES QUE DETERMINEN LA SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA Y LA COMISIÓN MIXTA DE MOBILIARIO URBANO;
+
 > <small>(ADICIONADO, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 Tratándose de la fracción II de este artículo, además de las penas previstas en el artículo 220 de este Código, se impondrá de cinco a nueve años de prisión.
@@ -5523,3 +5539,11 @@ Artículo Primero.- El presente decreto entrará en vigor a los 30 días siguien
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 
 Artículo Tercero.- Los procedimientos que se hayan iniciado antes de la entrada en vigor del presente decreto, deberán concluirse aplicando la ley vigente al momento de la supuesta comisión del delito.
+
+G.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 224 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
