@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-firma-electronica-del-estado-libre-y-soberano-de-77368"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2013-11-20"
+last_updated: "2017-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FIRMA ELECTRÓNICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de noviembre de 2010.
 
@@ -199,13 +199,17 @@ Los certificados electrónicos serán expedidos a los servidores públicos por l
 
 Todos los documentos electrónicos y en general los que emitan los servidores públicos habilitados bajo el sistema de firma electrónica deberán especificar su fecha y hora de creación, conforme la norma de metrología aplicable.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
-Los Entes Públicos deberán contar con una infraestructura segura de resguardo de documentos electrónicos oficiales, que permita la debida clasificación y disponibilidad de los documentos en los términos de la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos y de la Ley de (sic) Estatal de Documentación y Archivos de Morelos.
+Los Entes Públicos deberán contar con una infraestructura segura de resguardo de documentos electrónicos oficiales, que permita la debida clasificación y disponibilidad de dichos documentos en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Morelos y de la Ley Estatal de Documentos y Archivos de Morelos.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
-Para la conservación, almacenamiento y disponibilidad de los documentos electrónicos se estará a lo señalado en la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos y de la Ley de (sic) Estatal de Documentación y Archivos de Morelos, así como en las normas aplicables que para tal efecto se expidan.
+Para la conservación, almacenamiento y disponibilidad de los documentos electrónicos se estará a lo señalado en la Ley de Transparencia y Acceso a la Información Pública del Estado de Morelos y de la Ley Estatal de Documentación y Archivos de Morelos, así como de las normas aplicables que para tal efecto se expidan.
 
 ###### ARTÍCULO 21.
 
@@ -219,11 +223,15 @@ Los entes públicos deberán habilitar la prestación de servicios y trámites a
 
 ### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS TITULARES DE CERTIFICADOS DE FIRMA ELECTRÓNICA Y DE LOS PRESTADORES DEL SERVICIO DE CERTIFICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 23.
 
-Los titulares de certificados electrónicos tendrán los siguientes derechos:
+Los titulares de los certificados electrónicos tendrán los siguientes derechos:
 
-I. A la protección y resguardo de datos reservados y confidenciales en los términos de la Ley de Información Pública, estadística y datos personales del Estado de Morelos;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2017)</small>
+
+I. A la protección y resguardo de datos reservados y confidenciales en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Morelos;
 
 II. Modificar y actualizar los datos que sobre su identidad se encuentren contenidos en el certificado que en su caso fuera requerido, previa presentación del soporte correspondiente que acredite dichos cambios;
 
@@ -490,3 +498,11 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 8 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL QUINIENTOS OCHENTA POR EL QUE SE REFORMAN LOS ARTÍCULOS 19, 20 Y 23 FRACCIÓN I DE LA LEY DE FIRMA ELECTRÓNICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA.- Remítase al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 y 70 fracciones XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
