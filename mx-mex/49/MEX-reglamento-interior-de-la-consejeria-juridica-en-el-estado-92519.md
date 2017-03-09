@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-consejeria-juridica-en-el-estado-9251
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-18"
-last_updated: "2016-03-10"
+last_updated: "2017-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MARZO DE 2017.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 18 de febrero de 2013.
 
@@ -177,7 +177,13 @@ XLI. Compilar las leyes, reglamentos, decretos y acuerdos federales y estatales 
 
 XLII. Interpretar para efectos administrativos el presente Reglamento.
 
-XLIII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Gobernador.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 9 DE MARZO DE 2017)</small>
+
+XLIII. Autorizar un horario de 9:00 a 15:00 horas de todos los días de la semana laboral a las servidoras públicas que tengan hijas o hijos cursando hasta el sexto grado de primaria, acreditándolo con la constancia de estudios respectiva, sin perjuicio de sus prestaciones, mismo que dejará de surtir efectos al momento en que terminen ese nivel.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 9 DE MARZO DE 2017)</small>
+
+XLIV. Las demás que le confieren otras disposiciones legales y aquéllas que le encomiende el Gobernador.
 
 > <small>(F. DE E., G.G. 18 DE FEBRERO DE 2013)</small>
 
@@ -578,3 +584,11 @@ PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente Acuerdo.
+
+G.G. 9 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
