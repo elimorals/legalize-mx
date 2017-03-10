@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-117819"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MARZO DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2016.
 
@@ -139,19 +139,21 @@ Los Magistrados que aspiren a ser reelectos deberán ser evaluados y deben conse
 
 Las resoluciones del Congreso del Estado de Baja California Sur, respecto a la reelección o no reelección de Magistrados, serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2017)</small>
+
 ###### Artículo 8.
 
-Los Magistrados que previa reelección, concluyan su segundo periodo constitucional en el cargo, tendrá derecho a partir de ese momento a un haber de retiro equivalente al cien por ciento del total de las percepciones que correspondan a los Magistrados en activo durante los primeros dos años, porcentaje que se reducirá en un diez por ciento cada dos años, hasta llegar al setenta por ciento, porcentaje este último que se cubrirá a partir del octavo año de la conclusión del segundo periodo en el cargo y hasta el fallecimiento del Magistrado.
+Los Magistrados que previa reelección concluyan su segundo periodo constitucional en el cargo, tendrán derecho a partir de ese momento a un haber de retiro equivalente al cien por ciento del total de las percepciones que correspondan a los Magistrados en activo, durante los dos años posteriores a la conclusión del cargo; del mismo derecho gozarán los magistrados que concluyan su primer periodo constitucional en el cargo y no sean reelectos.
 
-Los Magistrados que renuncien o se separen del cargo o por sufrir incapacidad física o mental habiendo desempeñado el cargo durante nueve años o más, tendrán derecho a un haber de retiro equivalente al cien por ciento del total de las percepciones que correspondan a los Magistrados en activo durante los primeros dos años, porcentaje que se reducirá en un diez por ciento cada dos años, hasta llegar al ochenta por ciento y a partir del séptimo año se le cubrirá el setenta y cinco por ciento de esos ingresos, porcentaje este último que se le pagará hasta llegar a los doce años contados a partir de la renuncia o separación del cargo; plazo en que se extinguirá este derecho.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2017)</small>
 
-Si la renuncia o incapacidad se actualiza encontrándose el Magistrado en ejercicio de su segundo periodo constitucional, pero antes de haber cubierto la mitad de la duración de este, el haber de retiro al que tendrá derecho será el que corresponde a los Magistrados que concluyen un primer periodo en términos de la presente Ley.
+En caso de que un Magistrado sea removido de su cargo por alguna causa de responsabilidad de las indicadas en la Constitución Política del Estado, no tendrán derecho al haber de retiro.
 
-Los Magistrados que concluyan su primer periodo constitucional en el cargo y no sean reelectos, tendrán derecho a un haber de retiro, equivalente al cien por ciento del total de las percepciones que correspondan a los Magistrados en activo durante los primeros dos años, porcentaje que se reducirá en un diez por ciento cada dos años, hasta llegar al setenta por ciento, porcentaje este último que se cubrirá hasta llegar a los doce años contados a partir de la conclusión del cargo, sin que hayan sido reelectos; plazo en que se extinguirá este derecho.
-
-En caso de que un Magistrado sea removido de su cargo por alguna causa de responsabilidad de las indicadas en la Constitución del Estado, no tendrá derecho al haber de retiro.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2017)</small>
 
 El derecho al haber de retiro previsto en el presente artículo es intransferible.
+
+> <small>(DEROGADO CUARTO, QUINTO Y SEXTO PÁRRAFOS, P.O. 10 DE MARZO DE 2017)</small>
 
 ###### Artículo 9.
 
@@ -1201,7 +1203,7 @@ Los servidores públicos adscritos a los Órganos y Dependencias del Poder Judic
 
 ###### Artículo 70.
 
-En cada Partido Judicial habrá los Juzgados Menores que requiera (sic) el interés público y la buena marcha de la Administración de Justicia, previo acuerdo del Pleno del Consejo, el cual determinará su domicilio y la jurisdicción de su competencia.
+En cada Partido Judicial habrá los Juzgados Menores que requiera el interés público y la buena marcha de la Administración de Justicia, previo acuerdo del Pleno del Consejo, el cual determinará su domicilio y la jurisdicción de su competencia.
 
 ###### Artículo 71.
 
@@ -1253,7 +1255,7 @@ Los Secretarios de los Juzgados Menores tendrán las atribuciones y obligaciones
 
 ###### Artículo 79.
 
-En cada Partido Judicial habrá los Juzgados de Paz que requiera (sic) el interés público y la buena marcha de la Administración de Justicia.
+En cada Partido Judicial habrá los Juzgados de Paz que requiera el interés público y la buena marcha de la Administración de Justicia.
 
 ###### Artículo 80.
 
@@ -3839,7 +3841,11 @@ SÉPTIMO.- El Consejo de la Judicatura deberá quedar instalado en los términos
 
 OCTAVO.- La Secretaría de Finanzas del Gobierno del Estado de Baja California Sur y el Congreso del Estado de Baja California Sur, deberán considerar en los presupuestos correspondientes, los recursos económicos necesarios para sufragar la infraestructura, equipamiento y gasto de operación del Consejo de la Judicatura.
 
-NOVENO.- Los asuntos iniciados con anterioridad al presente Decreto continuarán tramitándose conforme a la ley aplicable en ese momento hasta su total conclusión.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2017)</small>
+
+NOVENO.- Se abroga la Ley Orgánica del Poder Judicial del Estado de Baja California Sur publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 01 de septiembre de 2015.
+
+Sin perjuicio de lo anterior, los asuntos iniciados con anterioridad al presente Decreto continuarán tramitándose conforme a la ley aplicable en ese momento hasta su total conclusión.
 
 DÉCIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
@@ -3864,3 +3870,13 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2426 SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
