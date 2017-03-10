@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-109762"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-01"
-last_updated: "2016-12-31"
+last_updated: "2017-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. MEDIANTE EL DECRETO 2421 SE EXPIDE LA NUEVA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR PUBLICADO EN EL B.O. DE 31 DE DICIEMBRE DE 2016, POR LO QUE EN RELACIÓN CON LA ENTRADA EN VIGOR DE DICHO ORDENAMIENTO SE SUGIERE CONSULTAR SU TRANSITORIO PRIMERO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO NOVENO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR Y REFORMADO MEDIANTE DECRETO NÚMERO 2426, PUBLICADO EN EL B.O. DE 10 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MARZO DE 2017 (ABROGADO).
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 1 de septiembre de 2015.
 
@@ -3413,6 +3413,18 @@ SÉPTIMO.- El Consejo de la Judicatura deberá quedar instalado en los términos
 
 OCTAVO.- La Secretaría de Finanzas del Gobierno del Estado de Baja California Sur y el Congreso del Estado de Baja California Sur, deberán considerar en los presupuestos correspondientes, los recursos económicos necesarios para sufragar la infraestructura, equipamiento y gasto de operación del Consejo de la Judicatura.
 
-NOVENO.- Los asuntos iniciados con anterioridad al presente Decreto continuarán tramitándose conforme a le ley aplicable en ese momento hasta su total conclusión.
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2017)</small>
+
+NOVENO.- Se abroga la Ley Orgánica del Poder Judicial del Estado de Baja California Sur publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 01 de septiembre de 2015.
+
+Sin perjuicio de lo anterior, los asuntos iniciados con anterioridad al presente Decreto continuarán tramitándose conforme a la ley aplicable en ese momento hasta su total conclusión.
 
 DÉCIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 10 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2426 SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
