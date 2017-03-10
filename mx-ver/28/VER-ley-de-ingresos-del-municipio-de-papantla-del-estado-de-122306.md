@@ -4,7 +4,7 @@ identifier: "VER-ley-de-ingresos-del-municipio-de-papantla-del-estado-de-122306"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-30"
-last_updated: "2017-01-18"
+last_updated: "2017-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY NÚMERO 144 DE INGRESOS DEL MUNICIPIO DE PAPANTLA, DEL ESTADO DE VERACRUZ DE
 
 TEXTO ORIGINAL.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 18 DE ENERO DE 2017.]</small>
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 10 DE MARZO DE 2017 NO APLICA AL ARTÍCULO 20 DE LA LEY NÚMERO 144 DE INGRESOS DEL MUNICIPIO DE PAPANTLA, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2017, PUBLICADA EN EL NÚMERO EXTRAORDINARIO 522 TOMO X DE LA G.O. DE 30 DE DICIEMBRE DE 2016.]</small>
 
 Ley publicada en el Número Extraordinario 522 Tomo X de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 30 de diciembre de 2016.
 
