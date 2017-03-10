@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2016-12-12"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-09-07"
 ---
 # REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS DE LOS ANEXOS A QUE HACE REFERENCIA ESTE ORDENAMIENTO, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE]</small>
+
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MARZO DE 2017.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -5791,6 +5793,8 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 10.1 PROCEDIMIENTO PARA LA CAPTURA DE INFORMACIÓN EN EL SISTEMA NACIONAL DE REGISTRO DE PRECANDIDATOS Y CANDIDATOS, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 63 A LA 70.]</small>
 
+> <small>[N. DE E. VÉASE REFORMA AL ANEXO 10.1 PROCEDIMIENTO PARA LA CAPTURA DE INFORMACIÓN EN EL SISTEMA NACIONAL DE REGISTRO DE PRECANDIDATOS Y CANDIDATOS, EN LA PRIMERA SECCIÓN DEL D.O.F. DE 10 DE MARZO DE 2017, PÁGINA 120.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO 10.2 PLAN Y CALENDARIO INTEGRAL DE CAPACITACIÓN RESPECTO AL USO DEL SISTEMA NACIONAL DE REGISTRO DE PRECANDIDATOS Y CANDIDATOS, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINA 70.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 11.1 MODELO ÚNICO DE ESTATUTOS PARA ASOCIACIONES CIVILES CONSTITUIDAS PARA LA POSTULACIÓN DE CANDIDATOS INDEPENDIENTES, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 71 A LA 73.]</small>
@@ -5822,5 +5826,35 @@ D.O.F. 12 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DE LOS “EFECTOS DE LA SENTENCIA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN SUP-RAP-460/2016 Y ACUMULADOS, DICTADA EL DOS DE NOVIEMBRE DE DOS MIL DIECISÉIS”.]
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 10 DE MARZO DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN AL ANEXO 10.1 DEL REGLAMENTO DE ELECCIONES, APROBADO MEDIANTE ACUERDO INE/CG661/2016.]</small>
+
+ACUERDO
+
+PRIMERO. Se aprueba el presente Acuerdo por el que se modifica el Anexo 10.1 del Reglamento de Elecciones “Procedimiento para la captura de información en el Sistema Nacional de Registro de Precandidatos y Candidatos”.
+
+SEGUNDO. El presente Acuerdo entrará en vigor a partir (sic) su aprobación.
+
+TERCERO. Se instruye al Secretario Ejecutivo para que notifique a los Partidos Políticos Nacionales.
+
+CUARTO. Se instruye al Titular de la Unidad Técnica de Vinculación para que notifique el presente Acuerdo a los Organismos Públicos Locales, quienes a su vez, deberán notificar a los partidos políticos con acreditación y registro local en las entidades federativas.
+
+QUINTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la página de internet del Instituto.
+
+## TRANSITORIOS
+
+Primero. Hasta en tanto se libere la funcionalidad en el SNR para que los partidos políticos configuren las fechas de inicio y fin del periodo en que llevarán a cabo el registro de sus precandidaturas, deberán presentar ante la Unidad Técnica de Fiscalización la convocatoria para los procesos de selección interna de candidatos, dentro de las setenta y dos horas siguientes a la aprobación (sic) la misma, en la que consten los plazos mencionados, a fin de que esta autoridad realice la configuración en el SNR.
+
+Segundo. La carga masiva de la información en el SNR, se pondrá a disposición de los partidos políticos a partir del inicio de las campañas del Proceso Electoral Local Ordinario 2016-2017.
+
+Tercero. La obligación de captura de información en el Sistema Nacional de Registro de Precandidatos y Candidatos descrito en el Acuerdo Primero, surtirá efectos a partir del 16 de enero de 2017. En aquéllas entidades federativas que hayan iniciado el periodo de registro de precandidatos previo a esta fecha, los partidos políticos deberán presentar por escrito y en medio digital la convocatoria para los procesos de selección interna de candidatos, la información y documentación requerida para su registro, a la Unidad Técnica de Fiscalización, en un plazo que no exceda los 3 días siguientes al cierre del plazo de registro establecido en la convocatoria correspondiente.
+
+[…]
+
+El anexo puede ser consultado en las (sic) siguiente dirección electrónica:
+
+http://www.ine.mx/archivos2/portal/historico/contenido/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CGacuerdos/2017/01_Enero/CGex201701-13/CGex201701-13-ap-2-a1.pdf
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
