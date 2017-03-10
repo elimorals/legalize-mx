@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2017-02-13"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MARZO DE 2017.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -10429,6 +10429,18 @@ II. Experiencia en la atención o prestación de servicios de seguridad; y
 
 III. Dominio de protocolos en materia de acceso a instalaciones; atención ante situaciones de riesgo; despliegue de fuerzas de reacción, amenaza por artefactos explosivos, registro de incidentes, entre otros.
 
+> <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2017)</small>
+
+La evaluación de control de confianza será un elemento adicional que se tomará en cuenta para determinar la permanencia y vigencia del nombramiento de los servidores públicos de la Coordinación de Seguridad que ocupen una plaza con funciones de seguridad y vigilancia, cuya realización se efectuará por las autoridades competentes, lo cual será gestionado por la Coordinación de Seguridad.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2017)</small>
+
+Tratándose de servidores públicos de nuevo ingreso, la Coordinación de Seguridad deberá gestionar que se realice la evaluación de control de confianza en un plazo que no podrá exceder de los tres meses a partir de la fecha de su ingreso. La evaluación de control de confianza se realizará cuando menos una vez al año.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2017)</small>
+
+Cuando algún servidor público no acredite la evaluación de control de confianza, el Coordinador de Seguridad elaborará un informe que se someterá a consideración de la Comisión de Vigilancia, Información y Evaluación. Si ésta, con vista en dicho informe y en las constancias que lo soportan, considera que la no acreditación de la referida evaluación se debe a cuestiones que pueden ser subsanadas y que no implican un riesgo para la seguridad de la institución, podrá determinar la permanencia del personal tomando en cuenta la antigüedad y el desempeño dentro del Poder Judicial de la Federación.
+
 ###### Artículo 925.
 
 La Administración de Inmuebles, en el ámbito de su competencia, tendrá las siguientes atribuciones:
@@ -11904,5 +11916,13 @@ D.O.F. 13 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN Y DEROGAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE CERTIFICADOS DE NECESIDAD”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 10 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 924 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVAS A LA EVALUACIÓN DE CONTROL DE CONFIANZA DE LOS SERVIDORES PÚBLICOS ADSCRITOS A LA COORDINACIÓN DE SEGURIDAD DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
