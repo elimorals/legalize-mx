@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-albergue-de-asistencia-social-del-85733
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-31"
-last_updated: "2012-01-31"
+last_updated: "2017-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DEL ALBERGUE DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL ALBERGUE DE ASISTENCIA SOCIAL DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 10 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL ALBERGUE DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de enero de 2012.
 
@@ -402,3 +404,13 @@ Secretario de Salud
 Maritza Muñoz Vargas
 
 Contralora General del Estado
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL ALBERGUE DE ASISTENCIA SOCIAL DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Albergue de Asistencia Social, Publicado en el Boletín Oficial No. 07 del Gobierno del Estado de B.C.S., el día 31 de Enero del 2012.
