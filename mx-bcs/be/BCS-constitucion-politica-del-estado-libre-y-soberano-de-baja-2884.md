@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2017-02-28"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MARZO DE 2017.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1911,9 +1911,11 @@ La designación de los Magistrados se hará por el voto de las dos terceras part
 
 En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado someterá una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2017)</small>
 
-93.- Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley y podrán ser reelectos por un periodo igual de seis años, al término del cual tendrán derecho a un haber de retiro.
+93.- Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley y podrán ser reelectos por un periodo igual de seis años. Únicamente tendrán derecho a un haber de retiro durante los dos años posteriores a la conclusión del cargo, tanto a quienes hayan durado en su cargo doce años con motivo de una reelección, así como a los que hayan cumplido seis años en el cargo. Este derecho es intransferible.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
 En caso de resultar reelectos los magistrados, sólo podrán ser privados de su cargo en cualquiera de los siguientes supuestos:
 
@@ -1936,6 +1938,8 @@ VIII. Desempeñen otro empleo o encargo de la Federación, del Estado, de algún
 IX. En los demás casos que establezca esta constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado; y
 
 X. No excusarse de conocer los asuntos de los que tenga conocimiento que está impedido conforme a la ley
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
 Tratándose de la fracción I, el Congreso del Estado, a través del Presidente de la Mesa Directiva en turno, notificará al Magistrado, a más tardar seis meses antes, la fecha en que concluirá en definitiva su encargo, señalando la causa en que se funda la privación de su puesto. Para las demás hipótesis previstas en el presente artículo, el Congreso del Estado proveerá lo conducente a fin de iniciar procedimiento de privación del puesto de magistrado respetando en todo caso la garantía de audiencia.
 
@@ -4072,3 +4076,11 @@ Artículo Quinto. El titular de la Fiscalía Especializada en materia de Combate
 Artículo Sexto.- La Sala Unitaria Administrativa del Tribunal Superior de Justicia del Estado de Baja California Sur continuará funcionando con su actual organización y atribuciones, así como substanciando los asuntos que se encuentren en trámite y los que se reciban hasta la fecha de entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur, que expida el Congreso del Estado y hasta la conclusión de los mismos, por lo que el Magistrado que integra la Sala Unitaria Administrativa del Tribunal Superior de Justicia del Estado de Baja California Sur en funciones, continuará en su cargo por el período para el cual fue designado.
 
 Artículo Séptimo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+B.O. 10 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2426 SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
