@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2011-12-26"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 2011.
 
@@ -49,9 +49,11 @@ Esta Ley es de orden público, de interés social y de observancia general en el
 
 La presente Ley tiene por objeto regular, proteger, fomentar y hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en los ámbitos público y privado, mediante lineamientos y mecanismos institucionales que orienten al Estado y al sector privado, en los ámbitos social, económico, político, civil, cultural y familiar hacia el cumplimiento de la igualdad sustantiva.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2017)</small>
+
 ###### Artículo 3o.
 
-Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en territorio estatal, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o capacidades diferentes, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
+Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en territorio estatal, que por razón de su sexo, independientemente de su edad, preferencia sexual, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
 
 ###### Artículo 4o.
 
@@ -1054,3 +1056,11 @@ RODRIGO MEDINA DE LA CRUZ
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 JAVIER TREVIÑO CANTÚ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 241. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 3° DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
