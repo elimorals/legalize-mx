@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-tribunal-federal-de-justicia-fiscal-y-75314"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-17"
-last_updated: "2010-06-17"
+last_updated: "2017-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2010-04-27"
 ---
 # REGLAMENTO DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA PARA DAR CUMPLIMIENTO AL ARTICULO 61 DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL
 
-REGLAMENTO DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA PARA DAR CUMPLIMIENTO AL ARTICULO 61 DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO ESPECÍFICO E/JGA/8/2017 DE LA JUNTA DE GOBIERNO Y ADMINISTRACIÓN DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, PUBLICADO EN EL D.O.F. DE 10 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2017 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
+REGLAMENTO DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA PARA DAR CUMPLIMIENTO AL ARTÍCULO 61 DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 17 de junio de 2010.
 
@@ -812,3 +816,15 @@ TERCERO.- Los recursos que a la entrada en vigor del presente Reglamento se encu
 CUARTO.- A la fecha de la entrada en vigor del presente Reglamento, el Titular de la Unidad de Enlace se mantendrá en funciones por lo que observará las disposiciones que establece el presente instrumento.
 
 Dictado en sesión del día veintisiete de abril de dos mil diez.- Firman el Magistrado Francisco Cuevas Godínez, Presidente de la Junta de Gobierno y Administración del Tribunal Federal de Justicia Fiscal y Administrativa, y el licenciado Rabindranath Guadarrama Martínez, Secretario Auxiliar de la Junta de Gobierno y Administración, quien da fe, con fundamento en el artículo 52, fracciones II y III, de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, con relación a los artículos 78, fracciones VIII y XI, y 103 del Reglamento Interior del Tribunal Federal de Justicia Fiscal y Administrativa.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE MARZO DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL PUNTO DEL "ACUERDO ESPECÍFICO E/JGA/8/2017 DE LA JUNTA DE GOBIERNO Y ADMINISTRACIÓN DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, RELATIVO A LA ABROGACIÓN DEL ACUERDO E/JGA/13/2010 POR EL QUE SE EXPIDIÓ EL REGLAMENTO DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA PARA DAR CUMPLIMIENTO AL ARTÍCULO 61 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL”.]</small>
+
+Único. Se Abroga el Acuerdo E/JGA/13/2010 por el que se expidió el Reglamento del Tribunal Federal de Justicia Fiscal y Administrativa para dar cumplimiento al artículo 61 de la Ley de Transparencia y Acceso a la Información Pública Gubernamental, dictado por la Junta de Gobierno y Administración en sesión de veintisiete de abril de dos mil diez.
+
+## TRANSITORIO
+
+Único. Publíquese este Acuerdo en el Diario Oficial de la Federación y en la página web del Tribunal Federal de Justicia Administrativa.
