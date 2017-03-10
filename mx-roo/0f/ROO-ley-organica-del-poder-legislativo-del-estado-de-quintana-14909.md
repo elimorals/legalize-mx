@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2017-02-17"
+last_updated: "2017-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -283,19 +285,13 @@ XLIII.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento del Proc
 
 XLIV.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
 
 XLV.- Solicitar la comparecencia de las autoridades o servidores públicos responsables cuando éstos se hayan negado a aceptar o cumplir una Recomendación de la Comisión de Derechos Humanos del Estado de Quintana Roo, a efecto de que expresen las razones de su conducta o bien justifiquen los hechos u omisiones en que hubiere incurrido. La solicitud de comparecencia deberá realizarla el Organismo de Derechos Humanos por conducto de la Comisión Ordinaria de Derechos Humanos de la Legislatura del Congreso del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
 
 XLVI.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de Derechos Humanos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE JULIO DE 2013)</small>
 
@@ -573,7 +569,9 @@ Las Comisiones ordinarias serán:
 
 7.- Comisión de Desarrollo Juvenil con Igualdad de Oportunidades.
 
-8.- Comisión de Desarrollo Familiar y Grupos Vulnerables.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2017)</small>
+
+8.- Comisión de Desarrollo Familiar y Grupos en Situación de Vulnerabilidad.
 
 9.- Comisión de Desarrollo Indígena.
 
@@ -2356,3 +2354,11 @@ TERCERO. Las atribuciones, así como los recursos humanos y financieros con los 
 CUARTO. Se instruye a la Oficialía Mayor del Poder Legislativo, llevar a cabo los trámites administrativos necesarios para que las Direcciones de Tecnologías de la Información y de Control del Proceso Legislativo estén en condiciones de cumplir con las nuevas atribuciones que les fueron conferidas.
 
 QUINTO. Se derogan todas las disposiciones vigentes que contravengan lo dispuesto en el presente decreto.
+
+P.O. 10 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 048 POR EL QUE SE REFORMAN EL ARTÍCULO 35, NUMERAL 8 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, ASÍ COMO LOS ARTÍCULOS 4 NUMERAL 8, Y 12 PÁRRAFO PRIMERO Y FRACCIÓN II DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones vigentes que contravengan lo dispuesto en el presente decreto.
