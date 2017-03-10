@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-comisiones-del-poder-legislativo-del-estado-93975
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-09"
-last_updated: "2016-12-15"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2017.
 
 Reglamento publicado en el número extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 9 de abril de 2013.
 
@@ -79,7 +79,9 @@ Son comisiones ordinarias:
 
 7.- Comisión de Desarrollo Juvenil con Igualdad de Oportunidades.
 
-8.- Comisión de Desarrollo Familiar y Grupos Vulnerables.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2017)</small>
+
+8.- Comisión de Desarrollo Familiar y Grupos en Situación de Vulnerabilidad.
 
 9.- Comisión de Desarrollo Indígena.
 
@@ -233,13 +235,17 @@ II. La normatividad, las políticas, planes y programas de apoyo a la juventud; 
 
 III. Otros asuntos que sean o se consideren de la competencia de esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2017)</small>
+
 ###### Artículo 12.
 
-Corresponde a la Comisión de Desarrollo Familiar y Grupos Vulnerables el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+Corresponde a la Comisión de Desarrollo Familiar y Grupos en Situación de Vulnerabilidad el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
 I. La legislación relativa a la consolidación de la familia, la integración social al desarrollo de las personas con discapacidad, de las personas adultos mayores y la protección de los derechos de las niñas y los niños;
 
-II. La normatividad, las políticas, planes y programas para la familia y grupos vulnerables en el ámbito estatal; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2017)</small>
+
+II. La normatividad, las políticas, planes y programas para la familia y grupos en situación de vulnerabilidad en el ámbito estatal, y
 
 III. Otros asuntos que sean o se consideren de la competencia de esta Comisión.
 
@@ -766,3 +772,11 @@ P.O. 15 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 10 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 048 POR EL QUE SE REFORMAN EL ARTÍCULO 35, NUMERAL 8 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, ASÍ COMO LOS ARTÍCULOS 4 NUMERAL 8, Y 12 PÁRRAFO PRIMERO Y FRACCIÓN II DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones vigentes que contravengan lo dispuesto en el presente decreto.
