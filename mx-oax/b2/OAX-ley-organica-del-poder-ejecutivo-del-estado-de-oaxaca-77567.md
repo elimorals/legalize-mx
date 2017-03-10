@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2017-01-28"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MARZO DE 2017 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -150,6 +148,10 @@ Los titulares de las Dependencias y Entidades, administrarán los recursos human
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
 Para tal efecto, se implementarán las delegaciones a que se refiere el artículo 47, fracción XXXII, de la presente Ley, las cuales, dependerán jerárquica y administrativamente de la Secretaría de la Contraloría y Transparencia Gubernamental, quien regulará su funcionamiento conforme a la normatividad aplicable. Dichas delegaciones, serán con cargo al presupuesto de las Dependencias, Entidades y Órganos Auxiliares correspondientes.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2017)</small>
+
+Además de lo dispuesto en los párrafos que anteceden, los titulares de las dependencias y entidades, en su actuar, deberán regirse por los principios de legalidad, honradez, lealtad, eficiencia, máxima publicidad e imparcialidad, por lo que establecerán acciones efectivas para el cumplimiento de estos principios.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -2225,11 +2227,11 @@ XVIII. Las demás que en el ámbito de su competencia le confiera directamente e
 
 La Coordinación General de Enlace Federal y Relaciones Internacionales, estará a cargo de un Coordinador General, quien dependerá directamente del Ejecutivo Estatal.
 
-A la Coordinación General de Enlace Federal y Relaciones Internacionales, le corresponde el despecho (sic) de los siguientes asuntos:
+A la Coordinación General de Enlace Federal y Relaciones Internacionales, le corresponde el despacho de los siguientes asuntos:
 
 I. Cumplir con las directrices en materia de política federal y con las Entidades Federativas que determine el Titular del Poder Ejecutivo;
 
-II. Establecer comunicación y coordinación con los Poderes de la Unión, con la colaboración de la Secretaría de Finanzas, así como con los órganos y organismos constitucionales autónomos federales y nacionales, así como con los Gobiernos de las Entidades Federativas para la atención y resolución de los asuntos de interés público;
+II. Establecer comunicación y coordinación con los Poderes de la Unión, con la colaboración de la Secretaría de Finanzas, así como los órganos y organismos constitucionales autónomos federales y nacionales, así como con los Gobiernos de las Entidades Federativas para la atención y resolución de los asuntos de interés público;
 
 III. Facilitar y promover la gestión de fondos federales e internacionales e inversiones en sectores estratégicos para el crecimiento económico sostenible del Estado;
 
@@ -2882,3 +2884,9 @@ El Reglamento de la Ley, a que alude el párrafo anterior, deberá publicarse po
 En consecuencia se deroga el Transitorio Quinto, del citado Decreto 2091, mediante el cual se aprueba la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca.
 
 DÉCIMO QUINTO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 10 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 572.- MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 13 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
