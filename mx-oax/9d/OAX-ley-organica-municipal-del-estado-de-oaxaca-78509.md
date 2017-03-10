@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2017-02-04"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -377,8 +379,6 @@ La Entrega-Recepción se sujetará a lo establecido en el Título Octavo de esta
 
 Cuando el Presidente Municipal saliente no acuda a la instalación del nuevo ayuntamiento, a la entrega-recepción del gobierno municipal o a ninguno de los actos, la toma de protesta se hará en términos del artículo 36 y procederán a requerir a la autoridad saliente la entrega-recepción, en caso de negativa procederán en términos de la ley aplicable.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 (REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 14 DE ENERO DE 2017)
 
 ###### ARTÍCULO 40.
@@ -613,13 +613,17 @@ LXXIV.- Establecer el procedimiento de aclaración de datos en términos de lo d
 
 LXXV.- Señalar mediante acuerdo los requisitos de las garantías tendientes a garantizar el cumplimiento de las obligaciones fiscales;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2017)</small>
+
+LXXVI.- Otorgar la dispensa de la garantía del interés fiscal en términos de lo dispuesto por el Código Fiscal Municipal del Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2017)</small>
+
+LXXVII.- Promover el uso y aprovechamiento de agua de lluvia, a través de sistemas de captación, conducción y almacenamiento; por medio de construcción de tanques o cisternas pluviales, observando los Lineamientos que establecen los criterios y mecanismos para emitir acuerdos de carácter general en situaciones de emergencia por la ocurrencia de sequía, así como las medidas preventivas y de mitigación, que podrán implementar los usuarios de las aguas nacionales para lograr un uso eficiente del agua durante sequía, publicados en el Diario Oficial de la Federación el 22 de noviembre de 2012; y
+
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-LXXVI.- Otorgar la dispensa de la garantía del interés fiscal en términos de lo dispuesto por el Código Fiscal Municipal del Estado de Oaxaca; y
-
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
-
-LXXVII.- Las demás que les señalen las leyes y reglamentos municipales.
+LXXVIII.- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -985,8 +989,6 @@ VII. El Congreso del Estado autorizará al Instituto Estatal Electoral y de Part
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 66.
@@ -1003,8 +1005,6 @@ La designación de los Concejos Municipales, se llevará a cabo por el voto de l
 
 En caso de que concluya el plazo establecido para el ejercicio del encargado de la Administración Municipal y no haya sido posible integrar el Consejo (sic) Municipal, el Gobernador del Estado podrá ratificarlo o bien nombrar a otro, con la vigencia y facultades establecidas en esta Ley.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 67.
@@ -1014,8 +1014,6 @@ Si las condiciones políticas no permiten el inicio de funciones del Concejo Mun
 (REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 21 DE AGOSTO DE 2015)
 
 ### CAPÍTULO VIII. DE LOS ENCARGADOS DE LA ADMINISTRACIÓN MUNICIPAL
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
@@ -1281,7 +1279,7 @@ Los agentes municipales y de policía actuarán en sus respectivas demarcaciones
 
 Los agentes municipales y de policía durarán en su cargo hasta tres años o el tiempo que determinen sus usos y costumbres, sin exceder de tres años, pudiendo ser removidos a juicio del Ayuntamiento en cualquier tiempo por causa grave, que se calificará por acuerdo de las dos terceras partes de los integrantes del Ayuntamiento, llamándose en su caso a quienes acrediten ser suplentes; y en ausencia de suplentes, el Ayuntamiento designará a los sustitutos en los términos del artículo siguiente.
 
-En el caso de remoción de agentes municipales y de policía (sic) elegidos por usos y costumbres, éstos se seguirán respetando por el Ayuntamiento.
+En el caso de remoción de agentes municipales y de policía elegidos por usos y costumbres, éstos se seguirán respetando por el Ayuntamiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, 2 DE ABRIL DE 2011)</small>
 
@@ -2737,6 +2735,12 @@ TERCERO.- El presente Decreto deroga todas las disposiciones legales o administr
 
 P.O. 4 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 535.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 33 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA Y SE REFORMA EL ARTÍCULO 268 DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 535.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 33 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA Y SE REFORMA EL ARTÍCULO 268 DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 10 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 573.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
