@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-115474"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-07-06"
-last_updated: "2016-07-08"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115474&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2016-06-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL FONDO PARA LA ADMINISTRACIÓN DE LOS RECURSOS PROVENIENTES DE SENTENCIAS QUE DERIVEN DE LAS ACCIONES COLECTIVAS DIFUSAS, A QUE SE REFIERE EL ARTÍCULO 624 DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 8 DE JULIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MARZO DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 6 de julio de 2016.
 
@@ -159,9 +157,11 @@ IV Copia certificada de la resolución que admitió la acción colectiva, de la 
 
 Corresponde exclusivamente al Instituto de la Judicatura Federal el solicitar aplicar el Fondo al fomento de la investigación y difusión relacionada con las acciones y derechos colectivos, para lo cual deberá presentar el proyecto integral con calendarización de acciones, de entregables y esquema de pago; así como determinar el fin del mismo, precisar cuál es el objeto general y específico, sus alcances y mecanismos de evaluación tanto cuantitativos como cualitativos, dando cumplimiento a las Reglas de Operación que para el efecto emita el Comité Técnico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2017)</small>
+
 ###### Artículo 9.
 
-La solicitud a que se refiere el artículo que antecede, deberá dirigirse al Comité Técnico y se presentará ante la Secretaría Técnica de la Comisión de Administración.
+La solicitud a que se refiere el artículo que antecede, deberá dirigirse al Comité Técnico y se presentará ante la Secretaría Ejecutiva de Administración.
 
 La solicitud deberá contener además de lo indicado en el artículo 8 del presente Acuerdo lo siguiente:
 
@@ -179,21 +179,27 @@ f Las razones o argumentos en los que exprese la necesidad de su solicitud y la 
 
 g Los demás datos que garanticen la identificación plena de la asociación así como de su representante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2017)</small>
+
 ###### Artículo 10.
 
-La Secretaría Técnica de la Comisión de Administración, recibida la solicitud, verificará que se reúnan los requisitos previstos en los artículos 8 y 9 del presente Acuerdo y emitirá un oficio de admisión de solicitud dentro de los dos días hábiles posteriores a la recepción de la misma.
+La Secretaría Ejecutiva de Administración, recibida la solicitud, verificará que se reúnan los requisitos previstos en los artículos 8 y 9 del presente Acuerdo y emitirá un oficio de admisión de solicitud dentro de los dos días hábiles posteriores a la recepción de la misma.
 
 Lo anterior lo notificará al solicitante, a través de correo electrónico a la dirección señalada por la solicitante, conforme a lo dispuesto por el inciso e) del artículo 9 del presente Acuerdo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2017)</small>
+
 ###### Artículo 11.
 
-En el supuesto de que la solicitud no se acompañe de todos los requisitos necesarios, la Secretaría Técnica de la Comisión de Administración le requerirá mediante oficio al solicitante la documentación o datos correspondientes, dentro del término señalado en el artículo anterior, concediendo tres días hábiles para su presentación.
+En el supuesto de que la solicitud no se acompañe de todos los requisitos necesarios, la Secretaría Ejecutiva de Administración le requerirá mediante oficio al solicitante la documentación o datos correspondientes, dentro del término señalado en el artículo anterior, concediendo tres días hábiles para su presentación.
 
 De no cumplirse con lo anterior se tendrá por no presentada la solicitud. De ser exhibido lo requerido en tiempo y forma, emitirá el oficio de admisión dentro de los dos días hábiles siguientes a la recepción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2017)</small>
+
 ###### Artículo 12.
 
-Debidamente integrada la solicitud, la Secretaría Técnica de la Comisión de Administración, dentro de los cinco días hábiles posteriores, realizará el dictamen de procedencia o no del otorgamiento del recurso. Para ello realizará una valoración en los términos siguientes:
+Debidamente integrada la solicitud, la Secretaría Ejecutiva de Administración, dentro de los cinco días hábiles posteriores, realizará el dictamen de procedencia o no del otorgamiento del recurso. Para ello realizará una valoración en los términos siguientes:
 
 a Causas de la petición de los recursos;
 
@@ -209,15 +215,17 @@ f Demás valoraciones realizadas para su otorgamiento.
 
 El dictamen a que se refiere este artículo, será presentado ante el Comité Técnico, el cual resolverá lo procedente.
 
-> <small>(F. DE E., D.O.F. 8 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2017)</small>
 
 ###### Artículo 13.
 
-En el supuesto de que el solicitante cuente con un Acuerdo del titular del órgano jurisdiccional, únicamente se deberá acompañar la copia certificada de dicho Acuerdo; y la documentación a que se refieren los incisos a) al e) y g) del artículo 9 de este Acuerdo, para lo cual el Secretario Técnico de la Comisión de Administración dará trámite atendiendo a los términos del Acuerdo.
+En el supuesto de que el solicitante cuente con un Acuerdo del titular del órgano jurisdiccional, únicamente se deberá acompañar la copia certificada de dicho Acuerdo; y la documentación a que se refieren los incisos a) al e) y g) del artículo 9 de este Acuerdo, para lo cual el Secretario Ejecutivo de Administración dará trámite atendiendo a los términos del Acuerdo.
+
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2017)</small>
 
 ###### Artículo 14.
 
-La Secretaría Técnica de la Comisión de Administración será la encargada de notificar al particular al correo electrónico señalado sobre la procedencia o no del otorgamiento del recurso. Realizar las notificaciones a que haya lugar, para lo cual podrá aprovechar las tecnologías de la información y comunicaciones, en términos del artículo 10 del presente Acuerdo.
+La Secretaría Ejecutiva de Administración será la encargada de notificar al particular al correo electrónico señalado sobre la procedencia o no del otorgamiento del recurso. Realizar las notificaciones a que haya lugar, para lo cual podrá aprovechar las tecnologías de la información y comunicaciones, en términos del artículo 10 del presente Acuerdo.
 
 ###### Artículo 15.
 
@@ -227,13 +235,17 @@ Una vez notificado el solicitante sobre la determinación del Comité Técnico, 
 
 La Secretaría Técnica presentará el informe trimestral de los apoyos otorgados por el Comité Técnico.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2017)</small>
+
 ###### Artículo 17.
 
-El procedimiento para el otorgamiento de los recursos del Fondo, se sujetará además en lo dispuesto en las Reglas de Operación del mismo.
+El procedimiento para el otorgamiento de los recursos del Fondo, se sujetará a lo dispuesto en el presente Acuerdo y a lo previsto en las Reglas de Operación las cuales deberán considerar entre otros aspectos los requisitos para acceder a los recursos del Fondo; los documentos que acreditan los comprobantes de gasto; el plazo para el otorgamiento del recursos por parte de la Secretaría Ejecutiva de Administración y demás mecanismos que permitan transparentar el ejercicio del gasto y comprobar que el recurso fue destinado para los fines previamente autorizados.
 
-Estas Reglas deberán considerar entre otros puntos los mecanismos e instrumentos de comprobación de la erogación de los recursos otorgados con cargo al Fondo; de lo cual se informará, por conducto de la Secretaría Técnica de la Comisión de Administración, a la Asociación Civil a la que se le otorgue el apoyo, de lo cual obrará constancia documental.
+En ningún caso se otorgará a la Asociación Civil recurso alguno sin que previamente se presenten los documentos comprobatorios del gasto, con excepción de que se haya establecido en la resolución jurisdiccional disposición en contrario.
 
-En el supuesto de que una Asociación Civil no presente los comprobantes del gasto en la forma y tiempos acordados en su oficio de otorgamiento, no podrá ser favorecida con el otorgamiento de un nuevo apoyo.
+La Secretaría Ejecutiva de Administración informará y orientará a la Asociación Civil, del procedimiento correspondiente.
+
+En el supuesto de que una Asociación Civil no presente los comprobantes de gasto, no podrá beneficiarse del recurso del Fondo y no podrá volver a ser sujeto de apoyo.
 
 ### Capítulo IV. Organización y funcionamiento del Comité Técnico
 
@@ -241,15 +253,17 @@ En el supuesto de que una Asociación Civil no presente los comprobantes del gas
 
 El Fondo para su administración contará con un Comité Técnico conformado por los consejeros integrantes del Pleno y será presidido por su Presidente e intervendrán como vocales los seis consejeros restantes.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2017)</small>
+
 ###### Artículo 19.
 
 El Comité Técnico contará con invitados permanentes con voz pero sin voto y serán los titulares de:
 
-I La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos;
+I La Contraloría del Poder Judicial de la Federación;
 
-II La Secretaría Ejecutiva de Administración;
+II La Dirección General de Estadística Judicial; y,
 
-III La Contraloría del Poder Judicial de la Federación.
+III La Dirección General de Asuntos Jurídicos.
 
 Podrá invitarse a participar en las sesiones del Comité Técnico con voz pero sin voto a quien determine conforme a los asuntos que competan para cada sesión.
 
@@ -295,7 +309,9 @@ III Dirigir los debates y conservar el orden en las sesiones plenarias;
 
 IV Vigilar el funcionamiento del Comité Técnico;
 
-V Suscribir el otorgamiento del apoyo autorizado por el Comité Técnico, para que sean notificadas por la Secretaría Técnica de la Comisión de Administración; y,
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2017)</small>
+
+V Suscribir el otorgamiento del apoyo autorizado por el Comité Técnico, para que sean notificadas por la Secretaría Ejecutiva de Administración; y,
 
 VI Las demás que permitan el correcto funcionamiento del Comité Técnico.
 
@@ -331,9 +347,9 @@ III Elaborar y suscribir las actas de las sesiones para la aprobación del Comit
 
 IV Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del propio Comité Técnico, cuando proceda su expedición;
 
-> <small>(F. DE E., D.O.F. 8 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2017)</small>
 
-V Elevar al análisis y en su caso determinación del Comité Técnico, el expediente que presente el Secretario Técnico de la Comisión de Administración, así como el proyecto de dictamen a que se refiere el artículo 12 del presente Acuerdo;
+V Elevar al análisis y en su caso determinación del Comité Técnico, el expediente que presente el Secretario Ejecutivo de Administración, así como el proyecto de dictamen a que se refiere el artículo 12 del presente Acuerdo;
 
 VI Rendir el informe a que se refiere el artículo 16 del presente Acuerdo;
 
@@ -373,9 +389,13 @@ III Opinar y proporcionar la asesoría que estimen conveniente en los asuntos de
 
 IV Proponer alternativas de solución cuando les sean solicitadas.
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2017)</small>
+
 ###### Artículo 26.
 
-Las sesiones del Comité Técnico, serán ordinarias o extraordinarias y se desarrollarán conforme al calendario que el mismo determine en su primera sesión ordinaria, la cual se celebrará durante el primer mes de cada ejercicio fiscal. Para que sesione válidamente se requerirá que estén presentes la totalidad de sus integrantes. Las decisiones se tomarán por mayoría calificada de cinco votos.
+Las sesiones del Comité Técnico, serán ordinarias o extraordinarias y se desarrollarán conforme al calendario que el mismo determine en su primera sesión ordinaria, la cual se celebrará durante el primer mes de cada ejercicio fiscal y se llevarán a cabo únicamente en caso de que haya asuntos a tratar por el Comité Técnico. Para que sesione válidamente se estará a lo dispuesto por el artículo 74 de la Ley Orgánica del Poder Judicial de la Federación.
+
+La convocatoria se realizará con por lo menos tres días hábiles de anticipación.
 
 ###### Artículo 27.
 
@@ -447,9 +467,11 @@ Los convenios y contratos que tengan por objeto la inversión de la totalidad de
 
 ### Capítulo VI. Transparencia y la Rendición de Cuentas
 
+> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2017)</small>
+
 ###### Artículo 34.
 
-El Comité Técnico enviará en forma trimestral a la entidad de fiscalización superior de la Federación, el informe correspondiente al ejercicio de los recursos que integran el patrimonio del Fondo y en forma anual en términos del artículo 626 del Código. Al mismo tiempo, se publicarán en el Diario Oficial de la Federación, previa aprobación del Comité Técnico, los ingresos del periodo, incluyendo los rendimientos financieros, egresos, destino y saldo patrimonial del Fondo y se difundirá a través de la página de Internet del Consejo.
+El Comité Técnico enviará en forma trimestral a la entidad de fiscalización superior de la Federación, el informe correspondiente al ejercicio de los recursos que integran el patrimonio del Fondo y en forma anual en términos del artículo 626 del Código. La publicación trimestral se realizará a través del Consejo de la Judicatura Federal, previa aprobación que haga la Dirección General de Auditoría de los saldos y productos financieros acumulados en el Fondo. Lo anterior se informará al Comité Técnico y se difundirá a través de la página de Internet del Consejo.
 
 ###### Artículo 35.
 
@@ -476,3 +498,15 @@ SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y
 TERCERO. En el supuesto de que existan recursos que se encuentren depositados en una institución bancaria y sean controlados directamente por el Juez de la causa conforme a lo mandatado en el transitorio Sexto del Decreto por el que se reforman y adicionan el Código Federal de Procedimientos Civiles, el Código Civil Federal, la Ley Federal de Competencia Económica, la Ley Federal de Protección al Consumidor, la Ley Orgánica del Poder Judicial de la Federación, la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección y Defensa al Usuario de Servicios Financieros, serán transferidos al Fondo en un plazo no mayor de 30 días hábiles contados a partir del día siguiente de la entrada en vigor del presente Acuerdo.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que crea el Fondo para la administración de los recursos provenientes de sentencias que deriven de las Acciones Colectivas Difusas, a que se refiere el artículo 624 del Código Federal de Procedimientos Civiles, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de cuatro de mayo de dos mil dieciséis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- Ciudad de México, a veintiocho de junio de dos mil dieciséis.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE CREA EL FONDO PARA LA ADMINISTRACIÓN DE LOS RECURSOS PROVENIENTES DE SENTENCIAS QUE DERIVEN DE LAS ACCIONES COLECTIVAS DIFUSAS, A QUE SE REFIERE EL ARTÍCULO 624 DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
