@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2015-05-15"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2017.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -495,7 +495,9 @@ I.- Secretaría Particular;
 
 II.- Coordinación de Directores;
 
-III.- (DEROGADA, P.O. 25 DE ENERO DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2017)</small>
+
+III.- Coordinación de Fomento y Desarrollo Económico;
 
 IV.- (DEROGADA, P.O. 25 DE ENERO DE 2008)
 
@@ -539,9 +541,33 @@ IV.- Conciliar las diferencias que se generen entre dependencias o entidades, en
 
 V.- Organizar reuniones periódicas de titulares de las dependencias o entidades para la supervisión de programas y metas de proyectos estratégicos o de interés especial del Presidente Municipal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 35.
 
-(DEROGADO, P.O. 25 DE ENERO DE 2008)
+A la Coordinación de Fomento y Desarrollo Económico, le corresponde el despacho de los siguientes asuntos:
+
+I.- Proponer al Presidente Municipal, políticas públicas alineadas a los planes nacional, estatal, municipal y de gran visión, que promueven el desarrollo económico del municipio;
+
+II.- Articular la estrategia para la promoción de la inversión privada con los organismos de los sectores industrial, comercial, agropecuarios, turismo y de servicios, así como las demás organizaciones públicas y privadas que promuevan el desarrollo económico del municipio; incluyendo entre estas a las paramunicipales responsables de la promoción económica en el Gobierno Municipal: Comisión de Desarrollo Industrial; Comité de Turismo y Convenciones y la Comisión de Desarrollo Agropecuario de Mexicali.
+
+III.- Fortalecer la vinculación empresarial del Ayuntamiento con los organismos, cámaras, agrupaciones empresariales por sector, asociaciones y colegios de profesionistas, así como las instituciones educativas, para incrementar la competitividad del municipio;
+
+IV.- Impulsar una política integral de apoyo al emprendimiento de nuevas empresas, preferentemente en sectores innovadores e industrias creativas, que incluya como eje rector a los jóvenes y estudiantes emprendedores, con el propósito de ampliar las oportunidades internacionales, regionales y locales para su desarrollo;
+
+V.- Diseñar mecanismos de coordinación que faciliten el acceso al financiamiento público y privado para los emprendedores, empresas, organismos e instituciones empresariales que impulsen proyectos en lo individual y sectorial;
+
+VI.- Coordinar la política pública para la mejora regulatoria hacia el interior del Ayuntamiento, que facilite, agilice y reduzca costos de los trámites y servicios que regulan la apertura y funcionamiento de las empresas, apoyándose en el uso de las tecnologías de la información, que transparente la gestión y resolución, acercando los servicios a la ciudadanía;
+
+VII.- Brindar asistencia y asesoría a las Micro, Pequeña (sic) y Medianas Empresas (MPYMES), emprendedores y buscadores de trabajo, sobre los programas de apoyo existentes y bolsa de trabajo, generando instrumentos virtuales y aprovechando la cobertura de las delegaciones municipales para acercar los servicios a la ciudadanía;
+
+VIII.- Promover acciones de coordinación con las autoridades federales y estatales, que apoyen y fortalezcan las políticas públicas en materia de desarrollo económico que se implementen en el Municipio;
+
+IX.- Ser facilitador y gestor de las paramunicipales: Comisión de Desarrollo Industrial; Comité de Turismo y Convenciones y la Comisión de Desarrollo Agropecuario de Mexicali; dando seguimiento e impulso a aquellos asuntos inherentes a sus funciones que involucran a las distintas dependencias de la Administración Pública Municipal.
+
+X.- Las demás que derivan expresamente de las leyes, reglamentos, acuerdos, o que le instruya el Presidente Municipal.
+
+La Coordinación de Fomento y Desarrollo Económico, para el cumplimiento de sus atribuciones, contará con el personal administrativo que requiera para su funcionamiento.
 
 ###### ARTICULO 36.
 
@@ -3672,3 +3698,11 @@ P.O. 20 DE MARZO DE 2015.
 P.O. 15 DE MAYO DE 2015.
 
 ÚNICO: LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR, AL DÍA SIGUIENTE DE SU PUBLICACIÓN, EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 10 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN A LOS ARTÍCULOS 32 Y 35 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+PRIMERO: Las presentes reformas surtirán efectos a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+SEGUNDO: Se instruye a la Tesorería Municipal a efecto de realizar las modificaciones presupuestales pertinentes para la generación y funcionamiento de la coordinación en mención.
