@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-cultura-fisica-y-deporte-del-estado-de-zacatecas-108775"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-17"
-last_updated: "2015-06-17"
+last_updated: "2017-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de junio de 2015.
 
@@ -173,7 +173,9 @@ VII. La investigación, información y documentación son elementos indispensabl
 
 VIII. Las instituciones deportivas públicas y privadas del país deben colaborar y cooperar en forma estrecha y responsable en la promoción, fomento y estímulo del derecho a la cultura física y a la práctica del deporte;
 
-IX. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos del país;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+
+IX. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas, propiciando que dichas manifestaciones o modalidades se desarrollen con perspectiva de género;
 
 X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
 
@@ -181,13 +183,19 @@ XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud 
 
 XII. La existencia de una adecuada cooperación a nivel internacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte.
 
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2017)</small>
+
+XIII. El respeto a los derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales celebrados por el Estado Mexicano.
+
 ###### Artículo 5.
 
 El Estado y los Municipios, fomentarán la cultura física y el deporte en el ámbito de su competencia, previstas en esta Ley, su Reglamento y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2017)</small>
+
 ###### Artículo 6.
 
-El Estado y los Municipios, en el ámbito de sus respectivas competencias, promoverán el adecuado ejercicio del derecho de todos los zacatecanos a la cultura física y a la práctica del deporte.
+El Estado y los Municipios, en el ámbito de sus respectivas competencias, promoverá el adecuado ejercicio del derecho de todos los zacatecanos a la cultura física y a la práctica del deporte, propiciando la participación de las mujeres y las personas con discapacidad.
 
 ###### Artículo 7.
 
@@ -207,9 +215,13 @@ II. Una clara definición de objetivos y metas;
 
 III. La formulación de estrategias, tomando en cuenta criterios de coordinación institucional para el aprovechamiento de los recursos públicos y privados;
 
-IV. El diseño de políticas que faciliten e impulsen la participación de los sectores social y privado en las actividades deportivas del Estado y los municipios;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
 
-V. El plan de inversiones con los presupuestos de los principales programas y proyectos de inversión pública de los distintos entes deportivos y la especificación de los recursos financieros requeridos para su ejecución; así como, su rendición de cuentas; y
+IV. El diseño de políticas que faciliten e impulsen la participación de los sectores social y privado en las actividades deportivas del Estado y los municipios, propiciando la participación de las mujeres y las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+
+V. El plan de inversiones con los presupuestos de los principales programas y proyectos de inversión pública de los distintos entes deportivos y la especificación de los recursos financieros requeridos para su ejecución; los cuales incluirán partidas presupuestales específicas para el desarrollo de actividades deportivas de mujeres y personas con discapacidad; así como, su rendición de cuentas;
 
 VI. Procedimientos de evaluación y seguimiento.
 
@@ -255,7 +267,9 @@ I. Proponer políticas para fomentar, promover y estimular el desarrollo y ejerc
 
 II. Establecer compromisos para fomentar la cultura física y el deporte desde sus atribuciones y competencias para concretar las políticas públicas definidas por los integrantes del SIEDE;
 
-III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+
+III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad y las mujeres;
 
 IV. Promover mecanismos de integración institucional para fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte; y
 
@@ -299,7 +313,9 @@ XI. Promover la capacitación y certificación de directivos, deportistas, entre
 
 XII. Promover y fomentar ante las instancias correspondientes en el ámbito estatal, el otorgamiento de estímulos fiscales a los sectores social y privado derivado de las acciones que estos sectores desarrollen a favor de la cultura física y el deporte;
 
-XIII. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+
+XIII. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte, las cuales propiciarán un ambiente seguro y su acceso y uso deberá llevarse a cabo en igualdad de condiciones para todas las personas y sectores;
 
 XIV. Integrar y actualizar el Registro Estatal de Cultura Física y Deporte de conformidad con lo dispuesto en la presente Ley, su Reglamento, los lineamientos que para tal efecto emita y los demás ordenamientos jurídicos que resulten aplicables;
 
@@ -329,7 +345,9 @@ XXVI. Promover e incrementar con las previsiones presupuestales existentes, los 
 
 XXVII. Fomentar la cultura física, la recreación, la rehabilitación y el deporte entre la población en general, como medio para la prevención del delito;
 
-XXVIII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+
+XXVIII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad y las mujeres;
 
 XXIX. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado; y
 
@@ -395,7 +413,9 @@ La Junta Directiva tendrá las siguientes atribuciones:
 
 I. Establecer en congruencia con el Plan Estatal de Desarrollo, el Plan Estatal de Cultura Física y Deporte, las políticas generales y definir las prioridades a las que deberá sujetarse el INCUFIDEZ relativas a la dirección, desarrollo, promoción, fomento, difusión e investigación de la cultura física y el deporte, previa opinión de la UPLA;
 
-II. Establecer, conforme al programa sectorial, lo relativo al impulso de políticas específicas en materia de cultura física y deporte destinadas al desarrollo e integración de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+
+II. Establecer, conforme al programa sectorial, lo relativo al impulso de políticas específicas en materia de cultura física y deporte destinadas al desarrollo e integración de las personas con discapacidad y mujeres;
 
 III. Aprobar los programas y presupuesto del INCUFIDEZ, así como sus modificaciones, en los términos de las disposiciones aplicables;
 
@@ -453,7 +473,9 @@ El Director General tendrá las siguientes atribuciones:
 
 I. Administrar y representar legalmente al INCUFIDEZ;
 
-II. Formular los programas institucionales de corto, mediano y largo plazos, así como el presupuesto del INCUFIDEZ y presentarlos para su aprobación a la Junta Directiva;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+
+II. Formular los programas institucionales de corto, mediano y largo plazos, así como el presupuesto del INCUFIDEZ y presentarlos para su aprobación a la Junta Directiva, mismos que deberán incluir estrategias y partidas en materia de perspectiva de género y personas (sic) discapacidad;
 
 III. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del INCUFIDEZ;
 
@@ -477,7 +499,9 @@ XII. Ejercer las más amplias facultades de dominio, administración, y pleitos 
 
 XIII. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el director general. Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Organismos Descentralizados; y
 
-XIV. Aprobar estrategias, metodologías, programas de investigación, contenidos, materiales, programas y planes institucionales;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+
+XIV. Aprobar estrategias, metodologías, programas de investigación, contenidos, materiales, programas y planes institucionales, los que incluirán objetivos y temas sobre perspectiva de género y personas con discapacidad;
 
 XV. Formular y someter a la autorización de la Junta Directiva el Presupuesto de Egresos del INCUFIDEZ, a efecto de coadyuvar a la integración del Presupuesto de Egresos del Gobierno del Estado;
 
@@ -545,13 +569,19 @@ VI. Establecer, operar y mantener actualizado el Registro Municipal de Cultura F
 
 VII. Promover la participación de los sectores social y privado para el desarrollo de la activación física, la cultura física y el deporte municipales;
 
-VIII. Elaborar programas de cultura física y deporte para personas adultas mayores y para personas con discapacidad;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+
+VIII. Elaborar programas de cultura física y deporte para personas adultas mayores, para personas con discapacidad y mujeres;
 
 IX. Elaborar programas de adecuación física y deportiva para personas de la tercera edad y con alguna discapacidad funcional;
 
-X. Destinar, planificar y construir instalaciones para la práctica deportiva, para las poblaciones vulnerables, especialmente personas con discapacidad.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
 
-XI. Asignar anualmente, conforme a su presupuesto, partidas orientadas a sus órganos responsables de fomentar la cultura física y el deporte; y
+X. Destinar, planificar y construir instalaciones para la práctica deportiva, especialmente personas con discapacidad y mujeres;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+
+XI. Asignar anualmente, conforme a su presupuesto, partidas orientadas a sus órganos responsables de fomentar la cultura física y el deporte, en las que se incluirán las relativas a las políticas en materia de perspectiva de género y personas con discapacidad; y
 
 XII. Las demás que señale esta Ley, su Reglamento y los demás ordenamientos aplicables.
 
@@ -593,7 +623,9 @@ III. Ejecutar y dar seguimiento a los Programas Estatal y municipales de Cultura
 
 IV. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y el deporte, en coordinación con las respectivas asociaciones deportivas y de acuerdo a las Normas Oficiales y demás disposiciones que para tal efecto expida la dependencia correspondiente;
 
-V. Formular y ejecutar políticas públicas, que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+
+V. Formular y ejecutar políticas públicas, que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad y mujeres;
 
 VI. Dar seguimiento y ejecutar las políticas y planes aprobados por el SIEDE y los SIMUDE; y
 
@@ -795,7 +827,11 @@ VI. Difundir el patrimonio cultural deportivo;
 
 VII. Promover certámenes, concursos o competiciones de naturaleza cultural deportiva; y
 
-VIII. Las demás que dispongan otras leyes u ordenamientos aplicables.
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2017)</small>
+
+VIII. Se impulsarán políticas públicas y presupuestos en materia de cultura física y deporte con perspectiva de género; y
+
+IX. Las demás que dispongan otras leyes u ordenamientos aplicables.
 
 Los juegos tradicionales y autóctonos y la charrería serán considerados como parte del patrimonio cultural deportivo. El Estado y los municipios, en el ámbito de sus respectivas competencias, deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre ellos y con las asociaciones deportivas estatales.
 
@@ -815,9 +851,11 @@ Asimismo, impulsarán la adopción de disposiciones y acuerdos tendientes a faci
 
 Es de interés público la construcción, remodelación, ampliación, adecuación, mantenimiento, conservación y recuperación de las instalaciones que permitan atender adecuadamente las demandas que requiera el desarrollo de la activación física, la cultura física y el deporte, promoviendo para este fin, la participación de los sectores social y privado en el territorio estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2017)</small>
+
 ###### Artículo 62.
 
-La planificación y construcción de instalaciones de cultura física y deporte financiadas con recursos provenientes del erario público, deberán realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, considerando la opinión de la asociación deportiva que corresponda, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente, que para tal efecto expida la dependencia en la materia, para el uso normal de las mismas por parte de personas con discapacidad, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público, dando prioridad en la elección de itinerarios y horarios accesibles a la población con discapacidad.
+La planificación y construcción de instalaciones de cultura física y deporte financiadas con recursos provenientes del erario público, deberán realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, considerando la opinión de la asociación deportiva que corresponda, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente, que para tal efecto expida la dependencia en la materia, para el uso normal de las mismas por parte de personas con discapacidad, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, incluidas aquellas desarrolladas por mujeres, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público, dando prioridad en la elección de itinerarios y horarios accesibles a la población con discapacidad.
 
 Los procesos de planificación y construcción deberán realizarse bajo la estrategia del diseño universal.
 
@@ -925,7 +963,9 @@ VI. Promover con las Universidades y demás instituciones educativas la particip
 
 VII. Promover con las Universidades la participación en los programas deportivos universitarios y cooperar con éstas para la gestión de recursos destinados al mejoramiento, ampliación y construcción de instalaciones y medios necesarios para el desarrollo de sus programas;
 
-VIII. Fomentar y promover equitativamente planes y programas destinados al impulso y desarrollo de la actividad física y del deporte para las personas con discapacidad; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2017)</small>
+
+VIII. Fomentar y promover equitativamente planes y programas destinados al impulso y desarrollo de la actividad física y del deporte para las personas con discapacidad y mujeres; y
 
 IX. Realizar cualquier actividad que contribuya al desarrollo de las competiciones que de acuerdo con la legislación vigente corresponda al INCUFIDEZ.
 
@@ -1250,3 +1290,13 @@ LIC. MIGUEL ALEJANDRO ALONSO REYES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JAIME SANTOYO CASTRO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 69.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Las modificaciones normativas correspondientes, deberán hacerse dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
