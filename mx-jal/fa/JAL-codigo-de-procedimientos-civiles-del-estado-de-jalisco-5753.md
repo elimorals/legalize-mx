@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2016-12-01"
+last_updated: "2017-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "JAL"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 1 DE DICIEMBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 25907/LXI/16 PUBLICADO EN EL P.O. DE 26 DE NOVIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -518,7 +518,9 @@ Las actuaciones dictadas en los juicios en los que una o ambas partes sean indí
 
 Las promociones que los pueblos o comunidades indígenas o los indígenas en lo individual, asentados en el territorio del Estado, hicieren en su lengua, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio por conducto de la persona autorizada para ello.
 
-Las fechas y cantidades se escribirán con número y con letra, en caso de discrepancia, prevalecerá lo escrito con letra. Si la cantidad estuviere varias veces en palabras y cifras, el documento valdrá, en caso de diferencia, por la suma menor.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2017)</small>
+
+Las fechas y cifras numéricas, se escribirán con número y con letra, en caso de discrepancia, prevalecerá lo escrito con letra. Cuando se trate de cantidades monetarias, si la cantidad estuviese varias veces en palabras y cifras, valdrá la escrita con letra por la suma menor.
 
 Si el interesado no supiere o no pudiere firmar, estampará al calce sus huellas digitales y firmará una persona a su ruego; en caso de que exista también impedimento para estampar huellas, bastará que se haga constar esa circunstancia en el ocurso respectivo bajo protesta de decir verdad por el impedido y la persona que firme a su ruego ante dos testigos. Los escritos ilegibles y los que carezcan de firma sin ajustarse a lo antes establecido, no serán admitidos.
 
@@ -1266,9 +1268,9 @@ V. Término para contestar la demanda o para cumplir el requerimiento;
 
 VI. Nombre de la persona en poder de quien se deja; y
 
-> <small>(F. DE E., P.O. 29 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2017)</small>
 
-VII. Firma del servidor público que practique la notificación y de quien la recibe o expresión de su negativa.
+VII. Nombre, cargo y firma del servidor público que practique la notificación y de quien la recibe o expresión de su negativa.
 
 Para el caso de que el interesado se niegue a recibir la notificación y en el supuesto de que las personas que residan en el domicilio se rehusen a recibir la cédula, ésta deberá fijarse en la puerta de entrada del domicilio y de ello se sentará razón en los autos, dejando copia simple de la demanda, de los documentos exhibidos con la misma y del auto que lo ordene, en los que se asentará la constancia prevista en el artículo anterior.
 
@@ -9545,3 +9547,9 @@ P.O. 26 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25907/LXI/16 QUE REFORMA EL ARTÍCULO 39 DE LA LEY DEL NOTARIADO Y LOS ARTÍCULOS 860, 911 Y 971 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES”.]
 
 ÚNICO. El presente decreto entrará (sic) vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26275/LXI/17 QUE REFORMA LOS ARTÍCULOS 52 Y 112 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor a los treinta días naturales siguientes a la de su publicación en el periódico oficial "El Estado de Jalisco".
