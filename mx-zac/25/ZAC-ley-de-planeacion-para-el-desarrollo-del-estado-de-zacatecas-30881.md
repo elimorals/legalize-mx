@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-planeacion-para-el-desarrollo-del-estado-de-zacatecas-30
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-07"
-last_updated: "2013-07-17"
+last_updated: "2017-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 7 de mayo de 2003.
 
@@ -101,9 +101,11 @@ Son prioritarios los proyectos que promuevan el desarrollo social, el respeto al
 
 Se establecerán mecanismos para hacer más transparente la acción gubernamental a través de la participación activa y democrática de los sectores social y privado en las diferentes etapas del proceso y éstos podrán concurrir con los tres órdenes de gobierno para inducir la participación de inversionistas y empresarios en las actividades económicas del desarrollo, permitiendo el equilibrio de los factores de producción, que proteja y promueva el empleo.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2017)</small>
+
 ###### Artículo 7.
 
-Las acciones que en materia de planeación se lleven a cabo para la consulta o establecimiento de programas, tendrá presente la equidad entre los géneros y la atención a los grupos más vulnerables.
+Las acciones que en materia de planeación se lleven a cabo para la consulta o establecimiento de programas, tendrá presente la atención a los grupos más vulnerables; la igualdad de derechos entre mujeres y hombres, así como la perspectiva de género, lo anterior para garantizar y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
 
 ### CAPÍTULO SEGUNDO. DE LA PLANEACIÓN Y SUS VERTIENTES
 
@@ -575,6 +577,10 @@ Asimismo establecerá las previsiones sobre los recursos que serán asignados a 
 
 Los Ayuntamientos formularán y aprobarán sus planes y programas en congruencia con el PED.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2017)</small>
+
+Dichos planes deberán contener estrategias y directrices en materia de igualdad de derechos entre mujeres y hombres, así como de perspectiva de género.
+
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2013)</small>
 
 ###### Artículo 41.
@@ -645,7 +651,7 @@ I. Las dependencias y entidades de la administración pública estatal, proporci
 
 II. La SEPLADER, a través de las coordinaciones regionales, recabará las actas de evaluación emanadas de los distintos comités;
 
-III. Los municipios estarán obligados a promover la evaluación comunitaria y entregar en tiempo y forma los informes de todos los programas, obras y acciones que se ejecuten en su respectivo Municipio; y (sic)
+III. Los municipios estarán obligados a promover la evaluación comunitaria y entregar en tiempo y forma los informes de todos los programas, obras y acciones que se ejecuten en su respectivo Municipio; y
 
 #### Sección Cuarta. De la Estadística e Indicadores
 
@@ -778,3 +784,11 @@ P.O. 17 DE JULIO DE 2013.
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que contravengan al presente decreto.
+
+P.O. 11 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 30.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE ZACATECAS.”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
