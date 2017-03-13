@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2016-09-05"
+last_updated: "2017-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -1744,6 +1744,10 @@ En el desarrollo estatal concurrirán con responsabilidad, los sectores público
 > <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
 
 Serán consideradas como áreas prioritarias del estado, la inversión y fortalecimiento permanente y sostenido de las actividades científicas, tecnológicas y de innovación, con el objeto de contribuir al desarrollo económico del Estado, elevar la competitividad Estatal en el plano Nacional e Internacional, y promover la formación de capital humano especializado en estas materias.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2017)</small>
+
+La política de mejora regulatoria en el Estado, será obligatoria para todas las autoridades públicas estatales y municipales en sus respectivos ámbitos de competencia. La legislación en la materia, contemplará la creación del Sistema Estatal de Mejora Regulatoria, los instrumentos necesarios para que las leyes que expida el Congreso y las disposiciones que emita cualquier autoridad, entidad, órgano u organismo gubernamental y los organismos autónomos del ámbito estatal y municipal garanticen beneficios superiores a sus costos y el máximo bienestar para la sociedad.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3782,3 +3786,19 @@ P.O. 5 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 168 QUE ADICIONA UN TERCER PÁRRAFO, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 83 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. En un plazo máximo de 180 días naturales siguientes a la entrada en vigor del presente Decreto, se expedirá la Ley reglamentaria.
+
+Dicha Ley deberá considerar, al menos lo siguiente:
+
+a) La obligación a las autoridades de facilitar los trámites y la obtención de servicios de los ciudadanos mediante el uso de tecnologías de la información, de conformidad con su disponibilidad presupuestaria.
+
+b) La creación del Sistema Estatal de Mejora Regulatoria, como el órgano colegiado rector, encargado de la coordinación de acciones necesarias para asegurar que la regulación que integra el ordenamiento jurídico de la entidad responda a los principios y propósitos establecidos en la Ley.
+
+c) La creación de un catálogo que incluya todos los trámites y servicios estatales y municipales con el objetivo de generar seguridad jurídica y facilitar su cumplimiento mediante el uso de las tecnologías de la información, la inscripción en el catálogo y su actualización será obligatoria en los términos que establezca la Ley.
