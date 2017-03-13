@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-sistema-para-el-desarrollo-integral-877
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-25"
-last_updated: "2012-04-25"
+last_updated: "2017-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MARZO DE 2017.
 
-Reglamento publicado en la Sección Quinta de la Gaceta de Gobierno del Estado de México, el miércoles 25 de abril de 2012.
+Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 25 de abril de 2012.
 
 LA JUNTA DE GOBIERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 22 FRACCIÓN III DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS; Y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 En mérito de lo anterior, se expide el siguiente:
 
@@ -51,7 +53,9 @@ II. DIFEM u Organismo, al Sistema para el Desarrollo Integral de la Familia del 
 
 III. Junta de Gobierno, a la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
-IV. Presidencia, al titular de la Presidencia del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2017)</small>
+
+IV. Presidencia Honoraria, al o a la titular de la Presidencia Honoraria del Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
 V. Director General, al Director General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
@@ -75,7 +79,7 @@ La dirección y administración del DIFEM, corresponden a:
 
 I. La Junta Gobierno;
 
-II. La Presidencia; y
+II. (DEROGADA, G.G. 13 DE MARZO DE 2017)
 
 III. Al Director General.
 
@@ -93,6 +97,12 @@ Las determinaciones de la Junta de Gobierno tendrán carácter obligatorio para 
 
 La Junta de Gobierno se integrará de acuerdo con lo establecido por la Ley y funcionará de conformidad con las disposiciones aplicables.
 
+> <small>(ADICIONADO, G.G. 13 DE MARZO DE 2017)</small>
+
+###### Artículo 9 Bis.
+
+El Vicepresidente suplirá al Presidente durante sus ausencias, con las atribuciones establecidas en la normatividad correspondiente.
+
 ###### Artículo 10.
 
 La Junta de Gobierno, tendrá además de las facultades que establece la Ley, las siguientes:
@@ -109,15 +119,17 @@ V. Acordar los nombramientos y remociones del personal de confianza del Organism
 
 VI. Las demás que le confieran otras disposiciones legales.
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 13 DE MARZO DE 2017)</small>
+
 #### Sección Segunda. De la Presidencia
 
 ###### Artículo 11.
 
-La Presidencia tendrá las atribuciones que expresamente le confiere la Ley y las demás que le otorguen otros ordenamientos legales.
+(DEROGADO, G.G. 13 DE MARZO DE 2017)
 
 ###### Artículo 12.
 
-La Presidencia contará con el número de asesores y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
+(DEROGADO, G.G. 13 DE MARZO DE 2017)
 
 #### Sección Tercera. Del Director General
 
@@ -141,13 +153,15 @@ VII. Promover que las funciones de las unidades administrativas del DIFEM se rea
 
 VIII. Delegar las facultades que le otorgan las disposiciones jurídicas, previo acuerdo de la Junta de Gobierno, sin perjuicio de su ejercicio directo.
 
-IX. Proponer a la Presidencia del DIFEM la celebración de convenios, acuerdos y contratos relacionados con las funciones del Organismo.
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2017)</small>
+
+IX. Proponer a la Junta de Gobierno del DIFEM la celebración de convenios, acuerdos y contratos relacionados con las funciones del Organismo.
 
 X. Proponer a la Junta de Gobierno, la integración de comités y grupos de trabajo internos y vigilar su funcionamiento.
 
 XI. Presentar a la Junta de Gobierno para su autorización, los anteproyectos de ingresos y presupuesto anual de egresos del DIFEM.
 
-XII. Proponer a la Presidencia los nombramientos que no estén reservados a la Junta de Gobierno.
+XII. (DEROGADA, G.G. 13 DE MARZO DE 2017)
 
 XIII. Proponer a la Junta de Gobierno el otorgamiento de reconocimientos a los servidores públicos del DIFEM que por sus méritos se hagan acreedores a los mismos.
 
@@ -163,7 +177,9 @@ XVIII. Suscribir los documentos relativos al ejercicio de sus atribuciones.
 
 XIX. Resolver, en el ámbito administrativo, las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, así como los casos no previstos en el mismo.
 
-XX. Las demás que le señalan otras disposiciones legales y las que le confiera la Presidencia y la Junta de Gobierno.
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2017)</small>
+
+XX. Las demás que le señalen otras disposiciones legales y las que le confiera la Junta de Gobierno.
 
 ###### Artículo 14.
 
@@ -441,7 +457,9 @@ II. Impulsar, normar, organizar y controlar la creación y operación de unidade
 
 III. Fomentar y recaudar, en el ámbito de su competencia, fondos para la ejecución de actividades de asistencia social dirigidas a personas, sectores y regiones de escasos recursos, por edad, sexo o discapacidad.
 
-IV. Informar mensualmente a la Presidencia y a la Dirección General sobre el desarrollo de sus actividades, así como del origen y aplicación de los recursos que promueven.
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2017)</small>
+
+IV. Informar mensualmente a la Dirección General sobre el desarrollo de sus actividades, así como del origen y aplicación de los recursos que promueven.
 
 V. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Director General.
 
@@ -505,17 +523,27 @@ XXV. Las demás que les confieren otras disposiciones legales y aquellas que les
 
 El Patronato estará integrado de manera enunciativa más no limitativa por:
 
-I. Un Presidente, quien será el titular de la Presidencia del DIFEM.
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2017)</small>
+
+I. Un Presidente, quien será el o la titular de la Presidencia Honoraria del DIFEM.
 
 II. Un Vicepresidente, quien será el Director General del DIFEM.
 
-III. Un Secretario, quien será designado por la Presidencia del DIFEM.
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2017)</small>
 
-IV. Un Tesorero, quien será designado por la Presidencia del DIFEM.
+III. Un Secretario, quien será designado por la Presidencia Honoraria del DIFEM.
 
-V. El Número de Vocales, que sean designados por la Junta de Gobierno a propuesta de la Presidencia.
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2017)</small>
 
-VI. Los Consejeros que invite la Presidencia, quienes tendrán derecho a voz, pero no voto.
+IV. Un Tesorero, quien será designado por la Presidencia Honoraria del DIFEM.
+
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2017)</small>
+
+V. El número de Vocales que sean designados por la Junta de Gobierno a propuesta de la Presidencia Honoraria.
+
+> <small>(REFORMADA, G.G. 13 DE MARZO DE 2017)</small>
+
+VI. Los Consejeros que invite la Presidencia Honoraria, quienes tendrán derecho a voz, pero no voto.
 
 ###### Artículo 27.
 
@@ -525,9 +553,11 @@ Cada integrante del Patronato designará un suplente que cubrirá sus ausencias,
 
 El Patronato sesionará ordinariamente tres veces al año, pudiendo celebrar sesiones extraordinarias cada vez que la Presidencia del Patronato lo estime conveniente, o a petición de cuando menos las dos terceras partes de sus miembros.
 
+> <small>(REFORMADO, G.G. 13 DE MARZO DE 2017)</small>
+
 ###### Artículo 29.
 
-El Secretario del Patronato deberá informar mensualmente a la Presidencia y a la Dirección General sobre el desarrollo de las actividades del mismo, así como del origen y aplicación de los recursos bajo su administración.
+El Secretario del Patronato deberá informar mensualmente a la Presidencia Honoraria y a la Dirección General sobre el desarrollo de las actividades del mismo, así como del origen y aplicación de los recursos bajo su administración.
 
 ###### Artículo 30.
 
@@ -586,3 +616,15 @@ DE LA JUNTA DE GOBIERNO
 LIC. LUCILA ISABEL ORIVE GUTIÉRREZ
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 13 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
