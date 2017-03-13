@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil-77386"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-15"
-last_updated: "2015-06-15"
+last_updated: "2017-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2017.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 15 de noviembre de 2010.
 
@@ -67,7 +67,9 @@ V. Dependencias: Las secretarías, unidades administrativas y órganos desconcen
 
 VI. Entidades: Los Organismos, Empresas y Fideicomisos de la Administración Pública Paraestatal y paramunicipal;
 
-VII. Ley: Ley que regula las Organizaciones de la Sociedad Civil del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2017)</small>
+
+VII. Ley: Ley de fomento a las Organizaciones de la Sociedad Civil del Estado de Aguascalientes;
 
 VIII. Organizaciones de la Sociedad Civil: Son las personas morales constituidas a través de asociaciones civiles o fundaciones que tengan como objeto alguno de los fines estipulados en el Artículo 3º;
 
@@ -211,7 +213,9 @@ X. Celebración de convenios de coordinación entre niveles de gobierno, a efect
 
 XI. Asesoría en el otorgamiento de los incentivos fiscales previstos en las leyes de la materia.
 
-Las dependencias, entidades y Municipios actuarán en forma coordinada cuando lo requiera el fomento de las actividades de asistencia social.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
+
+Las dependencias, entidades y Municipios actuarán en forma coordinada cuando así lo requiera el fomento de las actividades de asistencia social y las demás contempladas en el Artículo 3° de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -263,13 +267,15 @@ III. (DEROGADA, P.O. 20 DE AGOSTO DE 2012)
 
 IV. La Unidad de Enlace de la Secretaría de Bienestar y Desarrollo Social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 8°.
 
-Se crea la Comisión para el Fortalecimiento de la (sic) Organizaciones de la Sociedad Civil que será presidida por el Secretario de Gobierno; la cual será el órgano encargado de fomentar, impulsar, regular, vigilar, evaluar, y fijar los criterios sobre los cuales deben desarrollar sus actividades las Organizaciones de la Sociedad Civil, elaborando conjuntamente con ellas los planes, proyectos y programas para brindarles apoyo integral en una correcta aplicación de los recursos públicos que se destinen para este fin. La Comisión tendrá las siguientes atribuciones:
+Se crea la Comisión para el Fortalecimiento de las Organizaciones de la Sociedad Civil que será presidida por el Secretario de Gobierno; la cual será el órgano encargado de fomentar, impulsar, regular, vigilar, evaluar, y fijar los criterios sobre los cuales deben desarrollar sus actividades las Organizaciones de la Sociedad Civil, elaborando conjuntamente con ellas los planes, proyectos y programas para brindarles apoyo integral en una correcta aplicación de los recursos públicos que se destinen para este fin. La Comisión tendrá las siguientes atribuciones:
 
-I. Proponer al Ejecutivo del Estado la unificación de criterios de las Organizaciones de la Sociedad Civil que otorguen beneficencia y asistencia social;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2017)</small>
+
+I. Proponer al Ejecutivo del Estado la unificación de criterios de las Organizaciones de la Sociedad Civil que otorguen beneficencia y asistencia social, así como el fomento de las demás actividades contempladas en el Artículo 3° de la presente Ley;
 
 II. Proponer programas para la correcta aplicación de los recursos públicos que se destinen a las Organizaciones de la Sociedad Civil;
 
@@ -297,33 +303,59 @@ XI. Extender reconocimientos a las Organizaciones de la Sociedad Civil que se ha
 
 La Comisión se integrará por un representante propietario de cada una de las siguientes dependencias y entidades:
 
-I. El Secretario de de (sic) Gobierno, quien será el Presidente;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2017)</small>
+
+I. El Secretario General de Gobierno, quien será el Presidente;
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
 II. El Secretario de Bienestar y Desarrollo Social, quien será el Secretario Técnico;
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+
 III. El Secretario de Desarrollo Económico;
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
 IV. El Secretario de Finanzas del Estado de Aguascalientes;
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+
 V. El Director del Instituto de Servicios de Salud del Estado de Aguascalientes;
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
 VI. El Director del Sistema Estatal para el Desarrollo Integral de la Familia;
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+
 VII. El Director del Instituto de Educación de Aguascalientes;
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
 VIII. El Director del Instituto Cultural de Aguascalientes;
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+
 IX. EL Director del Instituto del Deporte del Estado de Aguascalientes; y
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
 X. Como representante del Poder Legislativo el Presidente de la Comisión de Desarrollo Social del Congreso del Estado, quién solo tendrá derecho a voz.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+
 Además de los miembros ya enunciados la Comisión se integrará con ocho representantes de organizaciones civiles, cuya participación en el Consejo será por tres años. Para su conformación y renovación periódica la Comisión emitirá la convocatoria, en la cual deberán señalarse los requisitos de elegibilidad, atendiendo a criterios de representatividad, antigüedad, membrecía y desempeño de las organizaciones con registro en el padrón; estos representantes contarán únicamente con derecho a voz.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
 La Comisión podrá invitar a representantes de cámaras empresariales y de servicios, así como a representantes de los sectores académico, profesional, científico y cultural; a los titulares de las demás dependencias o entidades de la Administración Pública Estatal o Municipal, o a cualquier especialista en el tema a debatir, así como a las autoridades federales en el Estado para que asistan a las reuniones de la misma y en su caso propongan o emitan las opiniones respecto de los asuntos que sean de su competencia, teniendo solo voz pero no voto.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 10.
 
-La Comisión sesionará cuando menos una vez al mes, con la asistencia de la mitad más uno de sus integrantes; y las decisiones sólo tendrán validez cuando sean tomadas por la mayoría de los asistentes a la sesión, en caso de empate el Presidente o su suplente tendrá voto de calidad.
+La Comisión sesionará cuando menos una vez al mes, con la asistencia de la mitad más uno de sus integrantes; y las decisiones sólo tendrán validez cuando sean tomadas por la mayoría de los asistentes a la sesión con derecho a voto, en caso de empate el Presidente o su suplente tendrá voto de calidad.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -383,9 +415,9 @@ La Secretaría de Gobierno en colaboración con la Secretaría de Bienestar y De
 
 La Comisión, en coordinación con las dependencias y entidades, elaborará y publicará un Informe Anual de las acciones, apoyos y estímulos otorgados a favor de las Organizaciones de la Sociedad Civil que se acojan a esta Ley.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
 
-En cada reunión de la Comisión en que se discutan y adopten decisiones públicas deberá levantarse una minuta, la cual deberá ser publicada en el Periódico Oficial del Estado, la página de internet de (sic) Gobierno del Estado, y manejada en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes. De igual manera se procederá con cualquier tipo de documentación generada y elaborada, sea parcial o totalmente con cargo al erario, que haya servido para discusiones y toma de decisiones en el ejercicio de la función pública.
+En cada reunión de la Comisión en que se discutan y adopten decisiones públicas deberá levantarse una minuta, la cual deberá ser publicada en el Periódico Oficial del Estado, la página de internet del Gobierno del Estado, y manejada en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios. De igual manera se procederá con cualquier tipo de documentación generada y elaborada, sea parcial o totalmente con cargo al erario, que haya servido para discusiones y toma de decisiones en el ejercicio de la función pública.
 
 ### CAPÍTULO III. Del Consejo Técnico Consultivo
 
@@ -467,7 +499,9 @@ V. Señalar su domicilio legal;
 
 VI. Informar al Padrón la denominación de las Redes de las que formen parte, así como cuando deje de pertenecer a las mismas; y
 
-VII. Presentar copia del testimonio notarial que acredite la personalidad y ciudadanía de su representante legal.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2017)</small>
+
+VII. Presentar copia del testimonio notarial que acredite la personalidad y ciudadanía de su representante legal, mismo que deberá presentar copia simple de su identificación oficial vigente.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -501,13 +535,17 @@ De declararse procedente la inscripción de una Organización, la Unidad de Enla
 
 La administración, conformación y el funcionamiento del Padrón se organizarán conforme al Reglamento interno.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 29.
 
-El Sistema de Información del Padrón funcionará mediante una base de datos a la que tendrán acceso las dependencias y entidades, Instituciones Educativas, Cámaras Empresariales y cualquier interesado, relacionadas con las acciones señaladas en el Artículo 3º.
+El Sistema de Información del Padrón funcionará mediante una base de datos a la que tendrán acceso las dependencias y entidades, Instituciones Educativas, Cámaras Empresariales y cualquier interesado, relacionadas con las acciones señaladas en el Artículo 3° de la presente Ley; la cual podrá ser consultada libremente mediante solicitud previa al titular de la Unidad de Enlace, en los términos del Reglamento Interno.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 30.
 
-En el Padrón se concentrará toda la información que forme parte o se derive del trámite y gestión respecto de la inscripción de las Organizaciones de la Sociedad Civil en el mismo. Dicha información incluirá todas las acciones que las dependencias o entidades emprendan con relación a las Organizaciones de la Sociedad Civil registradas.
+En el Padrón se concentrará toda la información que forme parte o se derive del trámite y gestión respecto de la inscripción de las Organizaciones de la Sociedad Civil en el mismo. Dicha información incluirá todas las acciones que las dependencias o entidades emprendan con relación a las Organizaciones de la Sociedad Civil registradas, y podrá ser consultada libremente en la página de internet del Gobierno del Estado, y manejada en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -515,11 +553,15 @@ En el Padrón se concentrará toda la información que forme parte o se derive d
 
 La Unidad de Enlace deberá sistematizar toda la información relativa a las asociaciones registradas ante ella para facilitar el acceso de la Comisión. Las Dependencias y Entidades tienen la obligación de proveer la información contenida en sus archivos que se encuentren en su posesión o bajo su control respecto al Padrón.
 
-Aquellas personas que deseen allegarse de información establecida en el Padrón, deberán seguir el procedimiento a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
+
+Aquellas personas que deseen allegarse de información establecida en el Padrón, deberán seguir el procedimiento a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 32.
 
-Las dependencias y entidades que otorguen apoyos y estímulos a las Organizaciones de la Sociedad Civil con inscripción vigente en el Padrón, deberán incluir en el Sistema de Información del Padrón lo relativo al tipo, concepto, monto y asignación de recursos públicos.
+Las dependencias y entidades que otorguen apoyos y estímulos a las Organizaciones de la Sociedad Civil con inscripción vigente en el Padrón, deberán publicar los programas y convocatorias respectivas en la página de internet del Gobierno del Estado, o en su caso en la página de internet del Municipio respectivo; así como incluir en el Sistema de Información del Padrón lo relativo al tipo, concepto, monto y asignación de recursos públicos.
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -533,17 +575,19 @@ Las personas que representen, dirijan o administren Organizaciones de la Socieda
 
 Los titulares, representantes, administradores, directores y empleados de las Organizaciones de la Sociedad Civil y las demás autoridades, órganos y particulares vinculados con las mismas, serán responsables por los actos que realicen en contravención a lo dispuesto por esta Ley.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 35.
 
-En caso de existir, fusión, modificación o extinción de las Organizaciones de la Sociedad Civil, las dependencias y entidades deberán de hacerlo del conocimiento de la Comisión.
+En caso de existir, fusión, modificación o extinción de las Organizaciones de la Sociedad Civil, éstas deberán por conducto de su representante legal, notificar a la Unidad de Enlace, misma que deberá hacerlo del conocimiento de la Comisión.
 
 ### CAPÍTULO V. De los Recursos Públicos que se Otorguen a las Organizaciones de la Sociedad Civil
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 36.
 
-Las Organizaciones de la Sociedad Civil podrán acceder a recursos o fondos públicos para operar programas que persigan los objetivos a que se refiere el Artículo 3° de esta Ley, quedando sujetos a la supervisión, control y vigilancia de la Comisión, así como a las disposiciones establecidas en la presente Ley y su Reglamento, sin perjuicio de lo que establezcan las leyes respectivas para el uso de fondos públicos.
+Las Organizaciones de la Sociedad Civil podrán acceder a recursos o fondos públicos para operar programas que persigan los objetivos a que se refiere el Artículo 3° de esta Ley, quedando sujetos a la supervisión, control, vigilancia y en su caso, revisión de resultados de los proyectos o programas previamente entregados, por parte de la Comisión, así como a las disposiciones establecidas en la presente Ley y su Reglamento, sin perjuicio de lo que establezcan las leyes respectivas para el uso de fondos públicos.
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -623,15 +667,19 @@ A más tardar el primero de octubre de cada año, las Dependencias y Entidades, 
 
 Al enviarse los presupuestos a que se refiere el párrafo anterior, se remitirá el programa de trabajo correspondiente al mismo período.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 38.
 
-En ningún caso, los gastos de administración de las Organizaciones de la Sociedad Civil que estén operando normalmente, podrán ser superiores al 25% del importe de los servicios asistenciales.
+En ningún caso, los gastos de administración de las Organizaciones de la Sociedad Civil que estén operando normalmente, podrán ser superiores al 25% del importe de los servicios asistenciales, y demás previstos en el Artículo 3° de la presente Ley.
 
-La Comisión establecerá criterios generales y organizará acciones de capacitación que favorezcan la reducción de los gastos administrativos de las instituciones y que permitan ampliar el alcance de sus fines asistenciales.
+La Comisión establecerá criterios generales y organizará acciones de capacitación que favorezcan la reducción de los gastos administrativos de las instituciones y que permitan ampliar el alcance de sus fines asistenciales, y demás previstos en el Artículo 3° de la presente Ley.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 39.
 
-En caso de que en un ejercicio resultara remanente, este se aplicará a cubrir faltantes de ejercicios anteriores y si no lo hubiere, el remanente se aplicará a incrementar el patrimonio de las Organizaciones de la Sociedad Civil.
+En caso de que en un ejercicio resultara remanente de los recursos o fondos públicos asignados a las Organizaciones de la Sociedad Civil, éste se aplicará a cubrir faltantes de ejercicios anteriores y si no lo hubiere, el remanente se aplicará a incrementar el patrimonio de las Organizaciones de la Sociedad Civil.
 
 ###### ARTÍCULO 40.
 
@@ -669,7 +717,9 @@ Los Representantes Legales de las Organizaciones de la Sociedad Civil remitirán
 
 Cuando una Organización de la Sociedad Civil tenga cubierto su presupuesto, y sus ingresos se lo permitan, podrá auxiliar a otras organizaciones de la Sociedad Civil del ramo que se encuentren en malas condiciones económicas, siempre que éstas tengan el mismo objeto o semejante de aquella, o hayan sido fundadas por la misma persona. Los planes de auxilio serán sometidos en todo caso a la aprobación de la Comisión.
 
-Las Organizaciones de la Sociedad Civil establecidas en beneficio de extranjeros, deberán extender su obra asistencial a sujetos de nacionalidad mexicana, en una proporción no menor del veinticinco por ciento en relación con el número total de los asistidos por aquéllas.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
+
+Las Organizaciones de la Sociedad Civil establecidas en beneficio de extranjeros, deberán extender su obra asistencial, o cualquier otra enunciada en el Artículo 3° de la presente Ley, a sujetos de nacionalidad mexicana, en una proporción no menor del veinticinco por ciento en relación con el número total de los asistidos por aquéllas.
 
 ### CAPÍTULO VI. Del Fomento de las Organizaciones de la Sociedad Civil
 
@@ -693,19 +743,23 @@ El Gobierno del Estado, las dependencias y entidades a través de la Comisión e
 
 La Comisión emitirá a más tardar el 1 de febrero de cada año la resolución por la cual se determinará la asignación de recursos públicos a las Organizaciones de la Sociedad Civil para el logro y cumplimiento de los proyectos aceptados.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2017)</small>
+
+Tanto las convocatorias, como las resolución (sic) en las que se determina la asignación de recursos públicos, a que hace referencia el presente Artículo, deberán ser publicadas en el Periódico Oficial del Estado, o en su caso en la gaceta municipal u órgano oficial de difusión; así como en la página de internet del Gobierno del Estado, o en su caso en la página de internet del Municipio respectivo.
+
 ### CAPÍTULO VII. De los Reconocimientos a las Organizaciones de la Sociedad Civil
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 52.
 
-Anualmente la Comisión hará una evaluación de las organizaciones de la sociedad civil, brindando un reconocimiento público a las que estén cumpliendo cabalmente con su función y buscando la gestión de espacios en los medios de comunicación, para que se aprecie el esfuerzo de las Organizaciones de la Sociedad Civil y sus directores. Esta evaluación se basará en el informe anual que deberán rendir las Organizaciones de la Sociedad Civil sobre los logros alcanzados y las perspectivas que se tengan.
+Anualmente la Comisión hará una evaluación de las organizaciones de la sociedad civil, que irá de acuerdo a los criterios que se establezcan en el Reglamento Interno, y estará centrada principalmente en las respectivas revisiones de resultados de los proyectos o programas previamente entregados. Con base en ella, la Comisión podrá brindar un reconocimiento público a las que estén cumpliendo cabalmente con su función y buscando la gestión de espacios en los medios de comunicación, para que se aprecie el esfuerzo de las Organizaciones de la Sociedad Civil y sus directores. Esta evaluación se basará en el informe anual que deberán rendir las Organizaciones de la Sociedad Civil sobre los logros alcanzados y las perspectivas que se tengan.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 53.
 
-Se establece el "Premio Estatal a la Participación Civil", cuyo objetivo será estimular las tareas que realizan las Organizaciones de la Sociedad Civil y reconocer de manera pública a aquellas que hubieren superado sus objetivos trazados en dicha anualidad y que además hayan realizado de manera destacada sus tareas en cumplimiento a sus estatutos y a lo previsto en esta Ley.
+Se establece el "Premio Estatal a la Participación Civil", que consistirá en una medalla que será otorgada y cuyas características serán aprobadas por la Comisión, su objetivo será estimular las tareas que realizan las Organizaciones de la Sociedad Civil y reconocer de manera pública a aquellas que hubieren superado sus objetivos trazados en dicha anualidad y que además hayan realizado de manera destacada sus tareas en cumplimiento a sus estatutos y a lo previsto en esta Ley.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -741,7 +795,9 @@ X. No mantener a disposición de las autoridades competentes, y del público en 
 
 XI. Omitir información o incluir datos falsos en los informes;
 
-XII. No informar a las Unidades de Enlace dentro del plazo de treinta días hábiles, contados a partir de la decisión respectiva, sobre cualquier modificación a su acta constitutiva o estatutos, o sobre cualquier cambio relevante en la información proporcionada al solicitar su inscripción en el Padrón; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2017)</small>
+
+XII. No informar a la Unidad de Enlace dentro del plazo de treinta días hábiles, contados a partir de la decisión respectiva, sobre cualquier modificación a su acta constitutiva o estatutos, o sobre cualquier cambio relevante en la información proporcionada al solicitar su inscripción en el Padrón; y
 
 XIII. No cumplir con cualquier otra obligación que le corresponda en los términos de la presente Ley y su Reglamento.
 
@@ -781,7 +837,7 @@ Las multas en caso de no cubrirse voluntariamente dentro del término de cinco d
 
 ###### ARTÍCULO SEGUNDO.
 
-.- .
+...
 
 T R A N S I T O R I O S :
 
@@ -856,3 +912,21 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
+
+P.O. 13 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 68.- SE REFORMAN VARIOS ARTÍCULOS DE LA LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en la (sic) Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El titular del Poder Ejecutivo del Estado deberá en un plazo no mayor a 180 días hábiles, Expedir, o en su caso Reformar y/o Adicionar, el Reglamento de la presente Ley.
+
+Así como el Secretario Técnico de la Comisión deberá en un plazo no mayor a 180 días hábiles, Expedir, o en su caso Reformar y/o Adicionar, el Reglamento Interno de la Comisión de Fortalecimiento de Organizaciones de la Sociedad Civil del Estado de Aguascalientes.
