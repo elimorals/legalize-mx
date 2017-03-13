@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2017-02-06"
+last_updated: "2017-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2017.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -92,8 +94,6 @@ VII. Cuando se trate de datos personales en información creada, administrada o 
 VIII. Toda persona afectada por informaciones emitidas en su perjuicio a través de medios de difusión y que se dirijan al público en general, tiene derecho a efectuar por el mismo órgano de difusión y en condiciones similares a la difusión efectuada, su rectificación o respuesta en los términos que establezca la ley.
 
 IX. Los ciudadanos tienen derecho a acceder, en condiciones de igualdad, a las funciones y cargos públicos, con excepción de los sujetos a elección popular que se regirán por su propia normativa, en los términos que establezca la ley del servicio civil de carrera.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2014)</small>
 
@@ -167,7 +167,7 @@ Art. 4° Bis C. Los derechos humanos a los que hace alusión esta Constitución 
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-l. Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
+I. Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
 
 II. Su sentido se determinará de conformidad con los instrumentos internacionales incorporados al orden jurídico mexicano aplicables y atendiendo los criterios de los organismos internacionales de protección de los derechos humanos reconocidos por el Estado mexicano, especialmente de la Corte Interamericana de Derechos Humanos.
 
@@ -262,8 +262,6 @@ Los derechos o prerrogativas del ciudadano sinaloense, se suspenden:
 I. Por la suspensión de los derechos o prerrogativas del ciudadano mexicano.
 
 II. Por incapacidad declarada conforme a la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2014)</small>
 
@@ -1023,8 +1021,6 @@ Las leyes y decretos son obligatorios desde el día siguiente al de su promulgac
 
 #### SECCION IV. DE LA DIPUTACION PERMANENTE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2008)</small>
 
 ###### Art. 49.
@@ -1643,8 +1639,6 @@ Esta Constitución garantiza la independencia e inamovilidad de los Magistrados 
 
 Los Magistrados del Supremo Tribunal de Justicia, los Magistrados de Circuito y los Jueces percibirán una remuneración digna, decorosa e irrenunciable, que no podrá ser disminuida durante sus encargos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2014)</small>
 
 ###### Art. 93 Bis.
@@ -1788,8 +1782,6 @@ II. Resolver, como jurado de sentencia, de las acusaciones penales formuladas po
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 III. Conocer y resolver las controversias de cualquier orden que se susciten, entre los Poderes del Estado, entre uno o más Poderes del Estado, y los Ayuntamientos, o entre éstos entre sí.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 III Bis. (DEROGADA, P.O. 22 DE OCTUBRE DE 2014)
 
@@ -2009,15 +2001,21 @@ Toda autoridad y servidor público estará obligado a coadyuvar con el organismo
 
 La Comisión Estatal para el Acceso a la Información Pública coordinará sus acciones con la Auditoría Superior del Estado, con la entidad especializada en materia de archivos y organismo garante nacional, con el objeto de fortalecer la rendición de cuentas.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE MARZO DE 2017)</small>
+
+### CAPITULO VIII. DE LA REFORMA REGULATORIA
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2017)</small>
+
+Art. 109 Bis C. La Reforma Regulatoria es una Política Pública de desarrollo obligatorio de manera permanente, continua y coordinada para todas las autoridades del Estado y los Municipios en sus respectivos ámbitos de competencia, que consiste en la generación de normas claras, de trámites y servicios simplificados, así como de instituciones eficaces para su creación y aplicación, que se orienten a obtener el mayor valor posible de los recursos disponibles y del óptimo funcionamiento de las actividades comerciales, industriales, productivas, de servicio y de desarrollo humano de la sociedad en su conjunto.
+
+El Congreso del Estado mediante una ley creará el Sistema Estatal de Mejora Regulatoria en términos de la Ley General de la materia, así como los instrumentos necesarios para que las leyes emitidas por dicho Congreso y las normas de carácter general que emita cualquier autoridad, entidad, órgano u organismo gubernamental, así como órganos autónomos de ámbito estatal y municipal garanticen beneficios superiores a sus costos y el máximo bienestar para la sociedad, incorporando para ello el uso de las tecnologías de la información.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 1984)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
-
-### CAPITULO II. DEL JUICIO POLITICO
-
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
 ## TITULO V. DEL MUNICIPIO LIBRE
 
@@ -2337,9 +2335,9 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
+### CAPITULO II. DEL JUICIO POLITICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
 ###### Art. 130.
 
@@ -2365,9 +2363,9 @@ Ningún servidor público del Gobierno del Estado y de los Ayuntamientos tiene d
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO IV. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+### CAPITULO III. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 132.
 
@@ -2407,7 +2405,7 @@ La Legislatura Local procederá conforme a lo previsto en este Capítulo, tratá
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LA PRESCRIPCION
+### CAPITULO IV. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2449,7 +2447,9 @@ La declaratoria de procedencia y la sentencia son inatacables.
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DISPOSICIONES DIVERSAS
+### CAPITULO V. DE LA PRESCRIPCION
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 138.
 
@@ -2463,7 +2463,7 @@ Las sanciones administrativas se establecerán en proporción a los daños y per
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA INVIOLABILIDAD Y REFORMAS DE LA CONSTITUCION
+### CAPITULO I. DISPOSICIONES DIVERSAS
 
 ###### Art. 140.
 
@@ -2475,7 +2475,7 @@ Tratándose de responsabilidades administrativas, la Ley de la materia fijará l
 
 ## TITULO VII
 
-### CAPITULO VII. PUBLICACION ESPECIAL DE SENTENCIA
+### CAPITULO II. DE LA INVIOLABILIDAD Y REFORMAS DE LA CONSTITUCION
 
 ###### Art. 141.
 
@@ -2761,7 +2761,7 @@ Esta Constitución comenzará a regir desde el día siguiente al de su promulgac
 
 En lo que atañe a su régimen interior la soberanía del Estado reside esencial y originariamente en el pueblo sinaloense, el cual propugna como valores superiores de su orden jurídico y social, la libertad, la igualdad de derechos, la justicia, la solidaridad, el pluralismo político y la diversidad cultural.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
 
 ###### Art. 3o.
 
@@ -2769,7 +2769,7 @@ Para los efectos del artículo 18 de esta Constitución y mientras se expidan la
 
 ###### Art. 3º.
 
-El Estado de Sinaloa es libre y soberano en su régimen interior, sin más limitaciones que las expresamente establecidas por el Pacto Federal. Sus tareas fundamentales son promover el bienestar individual y colectivo de los sinaloenses, el desarrollo económico sustentable, la seguridad y la paz social, la participación de todos los ciudadanos en la vida política, económica, cultural y social y la equidad en las relaciones sociales.
+El Estado de Sinaloa es libre y soberano en su régimen interior, sin más limitaciones que las expresamente establecidas por el Pacto Federal. Sus tareas fundamentales son promover el bienestar individual y colectivo de los sinaloenses, el desarrollo económico sustentable considerando la mejora regulatoria como una estrategia para alcanzar dicho propósito, también el procurar la seguridad y la paz social, la participación de todos los ciudadanos en la vida política, económica, cultural y social, y la equidad en las relaciones sociales.
 
 ###### Art. 4o.
 
@@ -3975,13 +3975,13 @@ Los procedimientos señalados en el párrafo que antecede se suspenderán por un
 
 Dentro de los seis meses siguientes de expedida la Ley de la Fiscalía, el Congreso del Estado deberá expedir la convocatoria para la designación de seis integrantes al Consejo Consultivo de la Fiscalía General quienes lo serán de manera honorífica y sus funciones se señalarán en dicha Ley de la Fiscalía.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 125.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES Y SE REFORMA EL PÁRRAFO TERCERO QUE PASA A SER CUARTO PÁRRAFO DEL ARTÍCULO 218 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+P.O. 13 DE MARZO DE 2017.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 87 POR EL QUE "SE REFORMA EL ARTÍCULO 3, Y SE ADICIONA EL CAPÍTULO VIII DENOMINADO "DE LA REFORMA REGULATORIA" CON EL ARTÍCULO 109 BIS C, AL TÍTULO CUARTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA".]
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+###### ARTÍCULO ÚNICO.
 
-G.G. 20 DE DICIEMBRE DE 2016.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO EN LA ENTIDAD”.]
 
