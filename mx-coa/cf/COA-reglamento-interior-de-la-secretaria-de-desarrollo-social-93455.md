@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-desarrollo-social-93455
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-22"
-last_updated: "2016-08-12"
+last_updated: "2017-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2017.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 22 de marzo de 2013.
 
@@ -139,7 +139,9 @@ II. Coordinación General de Seguimiento, Evaluación y Operación de Programas 
 
 a) Dirección Técnica de Seguimiento, Evaluación y Contraloría Social Interna.
 
-b) Unidad de Atención y Acceso a la Información Pública.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2017)</small>
+
+b) Unidad de Transparencia
 
 > <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2014)</small>
 
@@ -155,9 +157,9 @@ b) Subdirección de Recursos Materiales.
 
 c) Subdirección de Recursos Financieros.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2017)</small>
 
-B) Cinco Subsecretarías:
+B) Seis Subsecretarías:
 
 I. Subsecretaría de Desarrollo Social, que contará con las siguientes unidades administrativas:
 
@@ -210,6 +212,12 @@ e) Coordinación de Seguimiento.
 > <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2014)</small>
 
 V. Subsecretaría de Unión y Enlace.
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2017)</small>
+
+VI. Subsecretaría de Desarrollo Social de la Región Centro Desierto.
+
+Que comprende los municipios de Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento y San Buenaventura.
 
 Al frente de cada subsecretaría habrá un titular, que tendrá a su cargo el despacho de los asuntos que le sean encomendados y para tal efecto se auxiliará de las unidades administrativas citadas en el presente artículo, así como de aquellas que prevea y le asigne el Presupuesto de Egresos del Estado.
 
@@ -319,7 +327,9 @@ XIV. Supervisar que se cumplan las disposiciones jurídicas aplicables a los asu
 
 XV. Conducir sus acciones observando, fomentando y propiciando la cultura de la transparencia y asegurando la protección de los datos personales, que por razón de sus funciones tenga en su poder;
 
-XVI. Proporcionar los informes que le sean requeridos por la Unidad de Atención y Acceso a la Información Pública, en términos de la ley de la materia que por razón de sus funciones le competa;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2017)</small>
+
+XVI. Proporcionar los informes que le sean requeridos por la Unidad de Transparencia, en términos de la ley de la materia que por razón de sus funciones le competa;
 
 XVII. Informar a su superior jerárquico sobre las actividades que correspondan a su cargo;
 
@@ -419,9 +429,11 @@ XIII. Recibir, revisar y dar seguimiento a los documentos oficiales que sean rem
 
 XIV. El despacho de los asuntos relevantes a su cargo y responsabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2017)</small>
+
 ###### Artículo 14.
 
-Corresponde a la Unidad de Atención y Acceso a la Información Pública las siguientes atribuciones:
+Corresponde a la Unidad de Transparencia las siguientes atribuciones:
 
 I. Coordinar e intervenir, en los términos de la ley de la materia, en los asuntos de acceso a la información pública y protección de datos personales en los que tengan injerencia las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y en apoyo de las entidades del sector;
 
@@ -723,9 +735,55 @@ XVII. Atender las relaciones interinstitucionales de la Secretaría, en el ámbi
 
 XVIII. Atender el despacho de los asuntos relevantes de la unidad administrativa a su cargo y responsabilidad.
 
-#### SECCIÓN SEGUNDA. DE LA SUBSECRETARÍA DE DESARROLLO SOCIAL Y SUS ÁREAS ADSCRITAS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE MARZO DE 2017)</small>
 
-#### SECCION TERCERA. DE LA SUBSECRETARÍA DE BIENESTAR Y DESARROLLO SOCIAL Y SUS ÁREAS ADSCRITAS
+#### SECCIÓN SEGUNDA BIS (SIC). DE LA SUBSECRETARÍA DE DESARROLLO SOCIAL DE LA REGIÓN CENTRO DESIERTO Y SUS ÁREAS ADSCRITAS
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2017)</small>
+
+###### Artículo 21 Bis.
+
+Corresponde a la Subsecretaría de Desarrollo Social de la Región Centro Desierto, además de las atribuciones previstas en el artículo 10 del Reglamento Interior de la Secretaría de Desarrollo Social del Estado de Coahuila de Zaragoza, las siguientes:
+
+I. Presidir, en representación del o la Titular de la Secretaría, las acciones, planes, programas y estrategias de desarrollo social en los municipios de Abasolo, Candela, Castaños, Cuatro Ciénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento y San Buenaventura;
+
+II. Coadyuvar en la formulación, instrumentación, seguimiento, actualización y evaluación de los Programas regional y sectorial de desarrollo social;
+
+III. Fungir como enlace con las instancias municipales, estatales y de la propia Secretaría en relación a los programas, acciones planes y estrategias, así como obras de infraestructura que operen en el ámbito de su competencia;
+
+IV. Propiciar acciones que favorezcan la cohesión e integración social el desarrollo regional de manera integral, así como la participación activa de la población en la vida económica, política, cultural y social del estado;
+
+V. Coordinar técnica, operativa y administrativamente la operación de los programas bajo su responsabilidad, así como proponer los métodos y acciones de coordinación con los gobiernos federal, estatal y municipales de la región;
+
+VI. Generar políticas internas que fomenten el acceso a la información y la transparencia, en observancia a lo previsto en la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza;
+
+VII. Recabar, recibir, analizar y validar la información y documentación que reciba directamente de los probables beneficiarios de programas sociales;
+
+VIII. Recolectar y capturar a través de los cuestionarios socioeconómicos o del Registro de Condiciones Socioeconómicas de Hogares en Áreas con Rezago Social, la información socioeconómica y demográfica de cada uno de los hogares, para la identificación de familias susceptibles de ser beneficiadas por los programas sociales;
+
+IX. Conceder audiencias y atender a las personas físicas, grupos sociales, representantes de instituciones públicas y privadas y demás actores de la sociedad civil de la región;
+
+X. Evaluar el cumplimiento de logros y metas regionales en relación a la aplicación presupuestaria e informar lo conducente a la o el titular de la Secretaría;
+
+XI. Vincular, coordinar y suscribir convenios de colaboración o coordinación de acciones con dependencias de la administración pública estatal, municipal o federal, de alto impacto social que beneficien a sectores vulnerables de los municipios de la región;
+
+XII. Delegar al personal bajo su mando la responsabilidad en la ejecución de los programas, así como de las acciones operativas de su competencia;
+
+XIII. Auxiliar al o la titular de la Secretaría, en el establecimiento de políticas para la distribución de los recursos financieros en forma equilibrada, sectorial y regional, dando prioridad a la ejecución de obras de alto contenido social que contribuyan a resolver las necesidades básicas de los coahuilenses que habitan la región;
+
+XIV. Observar, en el ámbito de su competencia, la correcta ejecución y aplicación de los procedimientos, métodos y técnicas aprobados para la realización de las obras públicas de infraestructura programadas en la región;
+
+XV. Informar al o la titular de la Secretaría sobre los avances, irregularidades y en general todo aquello que incida de manera directa en las obras públicas y los programas responsabilidad de la Secretaría;
+
+XVI. Coadyuvar en el desarrollo de las obras que realicen dependencias y entidades de la administración pública estatal o municipal con las que se suscriba convenio;
+
+XVII. Conformar, supervisar y brindar atención a las organizaciones y comités ciudadanos, verificando el cumplimiento de las normas y lineamientos establecidos dentro de los acuerdos y las disposiciones legales correspondientes;
+
+XVIII. Coadyuvar en la integración y sistematización de la información generada en la región, para la consolidación del Padrón Único de Beneficiarios, así como coadyuvar en el ámbito de su competencia, con las Subsecretarías y demás Unidades Administrativas de la Secretaría para el cumplimiento de sus funciones; y
+
+XIX. Atender el despacho de los asuntos relevantes a su cargo y responsabilidad.
+
+#### SECCIÓN SEGUNDA. DE LA SUBSECRETARÍA DE DESARROLLO SOCIAL Y SUS ÁREAS ADSCRITAS
 
 ###### Artículo 22.
 
@@ -959,7 +1017,7 @@ XIV. Tramitar ante las instancias competentes, las solicitudes que se hagan ante
 
 XV. Atender el despacho de los asuntos relevantes de la unidad administrativa a su cargo y responsabilidad.
 
-#### SECCIÓN CUARTA. DE LA SUBSECRETARÍA DE INFRAESTRUCTURA SOCIAL Y SUS ÁREAS ADSCRITAS
+#### SECCION TERCERA. DE LA SUBSECRETARÍA DE BIENESTAR Y DESARROLLO SOCIAL Y SUS ÁREAS ADSCRITAS
 
 ###### Artículo 31.
 
@@ -1075,7 +1133,7 @@ XIII. Elaborar los estudios técnicos y realizar encuestas que permitan evaluar 
 
 XIV. Auxiliar en la integración de los padrones de beneficiarios del Sistema de Información de la Secretaría de Desarrollo Social.
 
-#### SECCION QUINTA. DE LA SUBSECRETARÍA DE ATENCIÓN CIUDADANA Y SUS ÁREAS ADSCRITAS
+#### SECCIÓN CUARTA. DE LA SUBSECRETARÍA DE INFRAESTRUCTURA SOCIAL Y SUS ÁREAS ADSCRITAS
 
 ###### Artículo 35.
 
@@ -1151,7 +1209,9 @@ VI. Brindar asesoría, orientación y apoyo técnico, a la Dirección General de
 
 VII. Observar, en el ámbito de su competencia, la correcta aplicación de los procedimientos, reglas de operación, lineamientos, métodos y técnicas de los programas a su cargo y verificar que se apeguen a la normatividad vigente;
 
-VIII. Fungir como enlace de la Subsecretaría de Infraestructura Social y la Unidad de Atención y Acceso a la Información Pública de la Secretaría, a fin de generar y proporcionar la información que se requiera, previo acuerdo con él o la titular de la Subsecretaría de Infraestructura Social,
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2017)</small>
+
+VIII. Fungir como enlace de la Subsecretaría de Infraestructura Social y la Unidad (sic) Transparencia de la Secretaría, a fin de generar y proporcionar la información que se requiera, previo acuerdo con él o la titular de la Subsecretaría de Infraestructura Social;
 
 IX. Sistematizar la información de los programas de la subsecretaría, a través del Sistema Estatal de Desarrollo Social y los demás medios informáticos que se autoricen para tal efecto;
 
@@ -1180,6 +1240,8 @@ VI. Detectar e informar al superior jerárquico sobre las irregularidades, atras
 VII. Informar periódicamente a él o la titular de la Subsecretaría de Infraestructura Social, o cuando este lo solicite, de las actividades propias de la dirección; y
 
 VIII. Proponer las acciones administrativas necesarias para la debida concordancia de esfuerzos del área bajo su responsabilidad.
+
+#### SECCION QUINTA. DE LA SUBSECRETARÍA DE ATENCIÓN CIUDADANA Y SUS ÁREAS ADSCRITAS
 
 ###### Artículo 39.
 
@@ -1439,11 +1501,15 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO. La atención y resolución de los asuntos en trámite anteriores a la presente reforma, continuará su atención conforme a la normativa que los originó por los organismos sectorizados competentes.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 661.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 11 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
+P.O. 14 DE MARZO DE 2017.
 
-ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
-P.O. 10 DE NOVIEMBRE DE 2018.
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los asuntos pendientes al entrar en vigor el presente Decreto y que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite conforme a la normativa que los originó y serán resueltos por la unidad administrativa que reciba mediante los procedimientos internos de entrega recepción.
+
+TERCERO. "La Subsecretaría de Desarrollo Social de la Región Centro Desierto contará con un o una Titular y los recursos humanos, materiales y financieros que le sean autorizados conforme a las disposiciones legales aplicables.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1591.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
 
