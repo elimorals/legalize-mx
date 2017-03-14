@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-02-07"
+last_updated: "2017-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2317,9 +2317,7 @@ I. Enajene algún o algunos vehículos robados, o comercialice conjunta o separa
 
 II. Detente, posea, custodie, altere o modifique de cualquier manera la documentación que acredite la propiedad o identificación de un vehículo robado;
 
-> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN II.</small>
-
-III. Detente, posea, custodie, altere o modifique de cualquier manera la documentación que acredite la propiedad o identificación de un vehículo robado;
+III. (DEROGADA, P.O. 14 DE MARZO DE 2017)
 
 IV. Altere, modifique, sustituya o suprima de cualquier manera los números o letras de series de motor, chasis, carrocería o de cualquier parte, que sirva para identificar uno o más vehículos robados, y
 
@@ -4001,8 +3999,16 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 7 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 0565.- SE ADICIONA EN LA PARTE ESPECIAL AL TÍTULO SEXTO EL CAPÍTULO VII DENOMINADO "INCESTO", Y EL ARTÍCULO 207 BIS, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0565.- SE ADICIONA EN LA PARTE ESPECIAL AL TÍTULO SEXTO EL CAPÍTULO VII DENOMINADO "INCESTO", Y EL ARTÍCULO 207 BIS, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0578.- SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 213 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
