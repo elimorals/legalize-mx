@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2014-12-22"
+last_updated: "2017-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -228,7 +228,9 @@ III. Solicita y obtiene licencia;
 
 IV. Deja de asistir a diez sesiones consecutivas del Pleno sin licencia o causa justificada;
 
-V. Desempeña comisión o empleo de la Federación, de los Estados, del Distrito Federal y sus delegaciones, de los municipios o de cualquier otro ente público, por los cuales se disfruta remuneración, sin la licencia correspondiente; y
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2017)</small>
+
+V. Desempeña comisión o empleo de la Federación, de los Estados, de los Municipios, de la Ciudad de México, de las Alcaldías, o de cualquier otro ente público, por los cuales se disfruta remuneración, sin la licencia correspondiente; y
 
 VI. Opta por el ejercicio de otro cargo de elección popular en los términos del artículo 125 de la Constitución.
 
@@ -534,7 +536,9 @@ Artículo 45
 
 Artículo 46
 
-1. El Senado tiene su sede en el Distrito Federal, misma que puede trasladarse a otro lugar conforme a lo dispuesto por los artículos 44 y 68 de la Constitución.
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2017)</small>
+
+1. El Senado tiene su sede en la Ciudad de México, misma que puede trasladarse a otro lugar conforme a lo dispuesto por los artículos 44 y 68 de la Constitución.
 
 2. El Recinto se constituye con los inmuebles en los que funciona el Senado e incluye al salón de sesiones, que es el lugar destinado al trabajo del Pleno.
 
@@ -606,7 +610,9 @@ I. Las acusaciones que se hagan contra los servidores públicos considerados en 
 
 II. Los asuntos que por su gravedad o trascendencia plantean al Pleno conjuntamente la Mesa y los grupos parlamentarios en materia de faltas a la disciplina parlamentaria por parte de los senadores;
 
-III. Los asuntos que con carácter de reservados en términos de ley dirijan el Ejecutivo Federal, el Poder Judicial Federal, la Cámara de Diputados del Congreso de la Unión, los Gobernadores y las legislaturas de los estados, así como el Jefe de Gobierno y la Asamblea Legislativa del Distrito Federal; y
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2017)</small>
+
+III. Los asuntos que con carácter de reservados en términos de ley dirijan el Ejecutivo Federal, el Poder Judicial Federal, la Cámara de Diputados del Congreso de la Unión, los Gobernadores, el Jefe de Gobierno de la Ciudad de México y las legislaturas de las entidades federativas, y
 
 IV. Aquellos otros asuntos que a juicio de la Mesa deben tener el carácter de reservados conforme a las normas legales aplicables.
 
@@ -800,7 +806,9 @@ VI. Comparecencias de servidores públicos y desahogo de preguntas o interpelaci
 
 VII. Proyectos de ley o decreto que remite la Cámara de Diputados;
 
-VIII. Iniciativas de ley o decreto que presentan el Presidente de la República, los diputados y senadores al Congreso de la Unión, las legislaturas de los estados y la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2017)</small>
+
+VIII. Iniciativas de ley o decreto que presentan el Presidente de la República, los diputados y senadores al Congreso de la Unión y las legislaturas de las entidades federativas;
 
 IX. Proposiciones de acuerdos o de resoluciones económicas sobre el régimen interior del Senado que presentan sus órganos de Gobierno;
 
@@ -1838,7 +1846,9 @@ Artículo 172
 
 Artículo 173
 
-1. Las iniciativas suscritas por el Presidente de la República, los diputados federales, las legislaturas de los estados y la Asamblea Legislativa del Distrito Federal, se publican en la Gaceta, se da cuenta al Pleno en la sesión inmediata a su recepción y se turnan a comisiones.
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2017)</small>
+
+1. Las iniciativas suscritas por el Presidente de la República, los diputados federales y las legislaturas de las entidades federativas, se publican en la Gaceta, se da cuenta al Pleno en la sesión inmediata a su recepción y se turnan a comisiones.
 
 ### CAPITULO TERCERO. DEL TURNO A COMISIONES
 
@@ -2256,7 +2266,9 @@ Artículo 219
 
 2. Respecto de las iniciativas y proyectos pendientes de dictamen la Mesa procede, en su caso una vez que se integren las comisiones, en los siguientes términos:
 
-I. Las iniciativas presentadas por el Presidente de la República, los diputados federales, las legislaturas locales y la Asamblea Legislativa del Distrito Federal, así como los proyectos de la Cámara de Diputados, continúan su trámite en las comisiones que en cada caso corresponda;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2017)</small>
+
+I. Las iniciativas presentadas por el Presidente de la República, los diputados federales, las legislaturas de las entidades federativas, así como los proyectos de la Cámara de Diputados, continúan su trámite en las comisiones que en cada caso corresponda;
 
 II. Las iniciativas de senadores de las que se disponga dictamen debidamente formulado sin haberse sometido aún al Pleno, también culminan su trámite legislativo;
 
@@ -2392,7 +2404,7 @@ VII. Fungir como jurado de sentencia en los procedimientos de juicio político;
 
 VIII. Realizar las designaciones y conocer de las renuncias y licencias que le competen en términos de la Constitución y las leyes;
 
-IX. Nombrar y remover, en su caso, al Jefe de Gobierno del Distrito Federal;
+IX. (DEROGADA, D.O.F. 14 DE MARZO DE 2017)
 
 X. Autorizar convenios amistosos y resolver, en su caso, los conflictos sobre límites entre entidades federativas; y
 
@@ -2634,43 +2646,15 @@ Artículo 259
 
 #### SECCION OCTAVA. DE LA REMOCION Y DESIGNACION DEL JEFE DE GOBIERNO DEL DISTRITO FEDERAL
 
-Artículo 260
+Artículo 260 (DEROGADO, D.O.F. 14 DE MARZO DE 2017)
 
-1. Corresponde al Senado remover al Jefe de Gobierno del Distrito Federal, así como designar, a propuesta del Presidente de la República, a quien lo sustituya para concluir el período para el que fue electo, en ambos casos en términos de lo dispuesto por los artículos 76, fracción IX, y 122, Apartado F, de la Constitución, y los relativos del Estatuto de Gobierno del Distrito Federal.
+Artículo 261 (DEROGADO, D.O.F. 14 DE MARZO DE 2017)
 
-2. La remoción del Jefe de Gobierno procede si incurre en alguna de las causas graves establecidas en la Constitución y el Estatuto de Gobierno.
+Artículo 262 (DEROGADO, D.O.F. 14 DE MARZO DE 2017)
 
-Artículo 261
+Artículo 263 (DEROGADO, D.O.F. 14 DE MARZO DE 2017)
 
-1. Al recibirse una comunicación en los términos del artículo 28 del Estatuto de Gobierno del Distrito Federal, el Presidente, una vez que verifica el cumplimiento de los requisitos de ley, la hace del conocimiento del Pleno para que, en su caso, la mitad de los integrantes del Senado presente la respectiva solicitud de remoción.
-
-2. Si la mitad de los senadores no presenta la solicitud de remoción, el Presidente lo notifica a quienes hayan hecho del conocimiento del Senado la presunta existencia de las causas graves a que se refiere el artículo 28 del Estatuto de Gobierno del Distrito Federal.
-
-3. Si la mitad de los senadores presenta la solicitud de remoción, el Presidente de la Mesa la turna a las comisiones competentes y se tiene por iniciado el procedimiento.
-
-Artículo 262
-
-1. En el desarrollo del procedimiento de remoción se está a lo previsto por el Estatuto de Gobierno del Distrito Federal; en lo no previsto, se aplica lo dispuesto por este Reglamento.
-
-2. Son secretas las reuniones de la comisión o comisiones que conozcan de la solicitud a que se refiere esta Sección.
-
-Artículo 263
-
-1. Al recibir la Mesa el dictamen respectivo ordena su publicación en la Gaceta, cuando menos veinticuatro horas previas a la sesión en la que el Pleno lo discute y vota.
-
-2. De así solicitarlo el Jefe de Gobierno, puede acudir ante el Pleno para argumentar en su defensa; la participación se ajusta a los términos acordados previamente por la Mesa Directiva en consulta con la Junta de Coordinación Política.
-
-3. En su caso, la remoción del Jefe de Gobierno del Distrito Federal es acordada por el Pleno con el voto de la mayoría absoluta de los integrantes del Senado.
-
-4. El acuerdo de remoción se publica en la Gaceta y en el Diario Oficial de la Federación para los efectos procedentes.
-
-Artículo 264
-
-1. Recibida la propuesta que presenta el Presidente de la República para designar al Jefe de Gobierno del Distrito Federal que concluya el período para el que fue electo el removido, el Presidente de la Mesa informa al Pleno y la turna a las comisiones competentes.
-
-2. Las comisiones dictaminan sobre la propuesta en un plazo no mayor a cinco días hábiles.
-
-3. De no aprobar el Senado la propuesta hecha por el Presidente de la República se le notifica de inmediato a efecto de que formule una nueva.
+Artículo 264 (DEROGADO, D.O.F. 14 DE MARZO DE 2017)
 
 #### SECCION NOVENA. DE LA AUTORIZACION DE CONVENIOS Y DE SOLUCION DE CONFLICTOS SOBRE LIMITES ENTRE ENTIDADES FEDERATIVAS
 
@@ -2810,9 +2794,7 @@ Artículo 276
 
 Se entiende por proposición con punto de acuerdo a toda petición o declaración formal que el Pleno del Senado de la República realiza para asumir una postura institucional respecto a asuntos de diversas índoles y sin carácter vinculante, en función de su objeto se clasifican en:
 
-I. De Exhorto.- Cuando se solicita a alguna autoridad dependiente de los tres Poderes de la Unión en el marco de colaboración que debe imperar entre los mismos: información sobre, el ejercicio de sus funciones, la realización y ejecución de determinados actos, el cumplimiento de obligaciones cuyos efectos sean de interés para una comisión senatorial o de un senador particular que requiera para su desempeño. También se entiende que el punto de acuerdo está incluido dentro de éste tipo cuando se solicita información de interés general del país, de la colectividad, de una región, de una entidad, de un sector de la sociedad igualmente cuando se solicita la cesación o suspensión de determinadas acciones consideradas perjudiciales o que afecten intereses de terceros, así como para crear alguna comisión legislativa ordinaria
-
-o especial;
+I. De Exhorto.- Cuando se solicita a alguna autoridad dependiente de los tres Poderes de la Unión en el marco de colaboración que debe imperar entre los mismos: información sobre, el ejercicio de sus funciones, la realización y ejecución de determinados actos, el cumplimiento de obligaciones cuyos efectos sean de interés para una comisión senatorial o de un senador particular que requiera para su desempeño. También se entiende que el punto de acuerdo está incluido dentro de éste tipo cuando se solicita información de interés general del país, de la colectividad, de una región, de una entidad, de un sector de la sociedad igualmente cuando se solicita la cesación o suspensión de determinadas acciones consideradas perjudiciales o que afecten intereses de terceros, así como para crear alguna comisión legislativa ordinaria o especial;
 
 II. De Pronunciamiento.- Cuando se solicita la declaración expresa del Senado de la República o de la Comisión Permanente, que implique un posicionamiento en relación a una manifestación, acontecimiento, resolución o acuerdo de dependencias, entidades u organismos nacionales e internacionales, en relación a asuntos de orden político, social o cultural, cuyos efectos sean de interés general;
 
@@ -2886,7 +2868,9 @@ V. La participación, previa invitación de las autoridades extranjeras competen
 
 Artículo 282
 
-1. Conforme a la Ley, corresponde a la Mesa Directiva y a su Presidente la conducción de la diplomacia parlamentaria. En apoyo a dicha actividad y a las relaciones internacionales del Senado, se cuenta con la Coordinación General de Asuntos Internacionales y Relaciones Parlamentarias
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2017)</small>
+
+1. Conforme a la Ley, corresponde a la Mesa Directiva y a su Presidente la conducción de la diplomacia parlamentaria. En apoyo a dicha actividad y a las relaciones internacionales del Senado, se cuenta con el Centro de Estudios Internacionales Gilberto Bosques.
 
 2. La Mesa coordina los apoyos técnicos y administrativos que requieren el Senado y sus diversos órganos para desarrollar las acciones en los ámbitos de la diplomacia parlamentaria y de las relaciones internacionales.
 
@@ -3134,7 +3118,9 @@ V. Las comunicaciones de particulares dirigidas al Senado;
 
 VI. Los proyectos de ley o decreto remitidos por la Cámara de Diputados;
 
-VII. Las iniciativas de ley o decreto que presentan ante el Senado o la Comisión Permanente, el Presidente de la República, los senadores, los diputados federales, las legislaturas de los estados y la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2017)</small>
+
+VII. Las iniciativas de ley o decreto que presentan ante el Senado o la Comisión Permanente, el Presidente de la República, los senadores, los diputados federales y las legislaturas de las entidades federativas;
 
 VIII. Las proposiciones de acuerdo o de resoluciones económicas sobre el régimen interior del Senado que presentan sus órganos de gobierno;
 
@@ -3301,5 +3287,17 @@ DECRETO POR EL QUE SE ADICIONA EL NUMERAL 4 AL ARTÍCULO 238 DEL REGLAMENTO DEL 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 22 DE DICIEMBRE DE 2014.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 282 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
