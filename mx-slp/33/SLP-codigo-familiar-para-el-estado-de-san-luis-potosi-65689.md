@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2016-12-10"
+last_updated: "2017-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1785,7 +1785,11 @@ I. Convenir entre ellos a quienes corresponde la patria potestad;
 
 II. Si no se pusieran de acuerdo ambas partes, decidirá la autoridad judicial tomando en cuenta los aspectos sociales y conductuales de éstos, oyendo a los ascendientes y al menor de edad si ya cumplió siete años;
 
-III. La resolución de la autoridad judicial a que se refiere la fracción anterior, debe dictarse atendiendo a lo que sea más conveniente al interés superior de la o el menor;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2017)</small>
+
+III. Si no se pusieran de acuerdo ambas partes, decidirá la autoridad judicial tomando en cuenta los aspectos sociales y conductuales de éstos, oyendo a los ascendientes, y permitiendo la intervención del niño o la niña en la medida de lo posible, sin partir de una regla fija en razón de su edad. El principio que servirá al juzgador para examinar a una persona menor de edad será su capacidad cognitiva, su desarrollo psicológico, y que la niña, el o la menor entienda y pueda responder los planteamientos que se le realicen.
+
+Para tal efecto, el juzgador deberá valorar las condiciones específicas de éstos, con el objeto de favorecer la eficacia de su derecho de participación dentro del procedimiento; ponderando en todo momento el interés superior de la niñez;
 
 IV. Si el abuelo o abuela por una de las líneas es viudo o casado en ulteriores nupcias, y los dos abuelos por la otra línea viven juntos, puede confiar a éstos o a aquéllos, la patria potestad, según sea más conveniente para el menor, y
 
@@ -1923,9 +1927,13 @@ La patria potestad se pierde por resolución judicial:
 
 I. Cuando quien la ejerce sea condenado por la comisión de un delito doloso en contra de la o el menor;
 
-II. Por el abandono de las obligaciones alimenticias sin causa justificada, por un periodo mayor a seis meses;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2017)</small>
 
-III. Por la desatención de manera intencional y sin causa justificada, de las obligaciones de convivencia por un término mayor a seis meses;
+II. Por el abandono de las obligaciones alimenticias sin causa justificada por un periodo mayor a cuatro meses; este periodo deberá ser computado a partir de pruebas fehacientes sobre el cese del cumplimiento de las obligaciones inherentes al acreedor alimentario;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2017)</small>
+
+III. Por la desatención de manera intencional y sin causa justificada, de las obligaciones de convivencia por un término mayor a cuatro meses;
 
 IV. Cuando por resolución judicial se hubiere suspendido el ejercicio de la patria potestad por más de una vez;
 
@@ -1995,17 +2003,15 @@ II. El padre y la madre convendrán quién de ellos se hará cargo de la adminis
 
 III. Si la madre y el padre no llegan a ningún acuerdo:
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2017)</small>
 
-a) La autoridad judicial decidirá quién debe hacerse cargo de la custodia de las hijas e hijos menores de doce años; para lo cual gozará de las más amplias facultades, teniendo en cuenta el interés superior de las y los menores. Para tal efecto, la autoridad judicial deberá oír a la madre y al padre y recibirle las pruebas que ofrezcan y oír a la o el menor, si es posible de acuerdo con su edad, y si es necesario a las abuelas, abuelos, tías, tíos, hermanas, hermanos mayores o demás parientes interesados, así como, a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, y al Ministerio Público.
+a) La autoridad judicial decidirá quién debe hacerse cargo de la custodia de las hijas e hijos; para lo cual gozará de las más amplias facultades, teniendo en cuenta el interés superior de la infancia. Para tal efecto, la autoridad judicial deberá oír a la madre y al padre y recibirles las pruebas que ofrezcan y oír a la persona menor de edad, si las condiciones específicas de éstos lo permiten, con la intención de que manifiesten quién de ambos progenitores desean se haga cargo de ellos y, si es necesario, a las abuelas, abuelos, tías, tíos, hermanas o hermanos mayores de edad, o demás parientes interesados, así como, a la Procuraduría de la Defensa de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor, y al Ministerio Público.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 b) En ningún caso se concederá la custodia de la o el menor, al ascendiente que se pruebe que ha tenido un comportamiento que afectó o afecta emocionalmente a la o el menor.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-c) Las niñas o niños mayores de doce años podrán manifestar cuál de ambos progenitores desean se haga cargo de ellos; la autoridad judicial será quien decidirá quién deba hacerse cargo de ellas o ellos, atendido al interés superior de la o el menor.
+c) (DEROGADO, P.O. 14 DE MARZO DE 2017)
 
 ## TITULO DECIMO. DE LA TUTELA
 
@@ -3494,3 +3500,11 @@ P.O. 10 DE DICIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0576.- SE REFORMA LOS ARTÍCULOS, 273 EN SU FRACCIÓN III, 293 EN SUS FRACCIONES, II, Y III, Y 300 EN SU FRACCIÓN III EL INCISO A); Y DEROGA EN EL ARTÍCULO 300 EN SU FRACCIÓN III EL INCISO C), DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
