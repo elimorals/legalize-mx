@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2017-02-28"
+last_updated: "2017-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -288,6 +288,10 @@ ART. 65 BIS BIS (SIC).- En el caso de comprobarse la realización de cualquier a
 ART. 66.- Los documentos que se hubieren presentado en juicio podrán devolverse a las partes si lo piden, siempre que a juicio del juez no haya inconveniente para ello; pero en autos quedará razón pormenorizada o copia certificada de los mismos documentos.
 
 ART. 67.- Sólo se entregarán los autos a las partes para formar o glosar cuentas, y cuando de común acuerdo lo pidieren. Los autos y en su caso las copias serán entregadas por el secretario u oficial mayor directamente a las partes, mediante conocimiento que deberán firmar éstas. Fuera de los casos señalados, la frase "dar" o "correr traslado" sólo significará que los autos quedan en la secretaría para que se impongan de ellos los interesados o que se entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2017)</small>
+
+Las partes, sus representantes legales o las personas autorizadas para oír y recibir, toda clase de notificaciones, podrán conocer de las actuaciones en el juicio, así como de los acuerdos dictados en los expedientes, mediante el empleo de medios digitales con la finalidad de imponerse de los acuerdos dictados en los expedientes de su interés, previa solicitud por escrito y autorización que mediante acuerdo se dicte.
 
 ART. 68.- Los autos que se perdieren serán repuestos a costa del que fuere responsable de la pérdida, quien además pagará los daños y perjuicios, quedando sujeto a las disposiciones del Código Penal.
 
@@ -1117,7 +1121,7 @@ III.- El nombre del demandado y su domicilio;
 
 IV.- El objeto u objetos que se reclamen con sus accesorios;
 
-V.- Los hechos en que el actor funde su petición, numerándolos y narrándolos suscintamente con claridad y precisión, de tal manera que el demandado pueda preparar su contestación y defensa;
+V.- Los hechos en que el actor funde su petición, numerándolos y narrándolos suscintamente (sic) con claridad y precisión, de tal manera que el demandado pueda preparar su contestación y defensa;
 
 VI.- Los fundamentos de derecho, procurando citar los preceptos legales o principios jurídicos aplicables;
 
@@ -1191,7 +1195,7 @@ ART. 268.- Queda abolida la práctica de oponer excepciones o defensas contradic
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
-ART. 268 BIS. En los juicios del orden civil, familiar y mercantil, una vez contestada la demanda y resueltas las excepciones de previo y especial pronunciamiento relativas a la legitimación de las partes, el Juez convocará a las partes a una audiencia, a fin de que comparezcan personalmente y conozcan la posibilidad de someter el conflicto a los mecanismos alternativos de mediación y conciliación, a través del Centro Estatal o de los Centros Públicos o Privados.
+ART. 268 BIS.- En los juicios del orden civil, familiar y mercantil, una vez contestada la demanda y resueltas las excepciones de previo y especial pronunciamiento relativas a la legitimación de las partes, el Juez convocará a las partes a una audiencia, a fin de que comparezcan personalmente y conozcan la posibilidad de someter el conflicto a los mecanismos alternativos de mediación y conciliación, a través del Centro Estatal o de los Centros Públicos o Privados.
 
 En caso de que asistan y acepten, el Juez suspenderá el procedimiento hasta por el plazo de cuarenta y cinco días hábiles, prorrogable por quince días más, a solicitud de las partes, y notificará al Centro elegido por éstas, para que cite a los interesados a una audiencia informativa y aplique el mecanismo alternativo que las partes prefieran, en los términos que disponga la Ley de la materia.
 
@@ -1200,6 +1204,10 @@ La inasistencia de las partes a la audiencia convocada por el Juez para invitarl
 Tratándose de niños, niñas y adolescentes e incapaces, éstos serán representados por la persona o personas que ejerzan la patria potestad, tutela o curatela; en caso de que el conflicto sea con uno de sus tutores, se le deberá designar una persona que represente los intereses de este; sin perjuicio de lo anterior, se deberá escuchar al menor que esté en condiciones de formarse un juicio propio, para que exprese su opinión libremente sobre el asunto.
 
 Las partes de común acuerdo podrán solicitar en cualquier etapa del procedimiento hasta antes de que se dicte sentencia, la suspensión del mismo, a efecto de que se apliquen los mecanismos alternativos de solución de conflictos en la forma y términos previstos en la Ley correspondiente.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2017)</small>
+
+En el caso de que las partes logren la construcción de un acuerdo por medio del procedimiento de mediación y conciliación, lo harán del conocimiento del Juez, quien decretará la conclusión del procedimiento y lo archivará como corresponda. En caso de que las partes no hubieren aceptado el procedimiento, o habiéndolo iniciado no fuera posible llegar a un acuerdo dentro del plazo señalado, lo harán saber al Juez del conocimiento, para que dicte el proveído que corresponda y levante la suspensión del procedimiento, continuando con su tramitación.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -2221,9 +2229,9 @@ X.- Las de cosa juzgada.
 
 Las excepciones comprendidas en las fracciones de la V a la VIII sólo se admitirán cuando se funden en prueba documental. Respecto de las excepciones de litispendencia y conexidad sólo se admitirán si se exhibe con la contestación, las copias selladas de la demanda y contestación de ésta o de las cédulas del emplazamiento del juicio pendiente o conexo, o bien, la documentación que acredite que se encuentra tramitándose un procedimiento arbitral.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2017)</small>
 
-Tratándose de la excepción contemplada en la fracción X se deberá anexar copia certificada de la sentencia ejecutoriada.
+Tratándose de la excepción contemplada en la fracción X se deberá anexar copia certificada de la sentencia ejecutoriada o, en su caso, original o copia certificada del convenio emanado del procedimiento de mediación a que se refieren los artículos 137 fracción III y 268 BIS de este Código.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
@@ -2607,9 +2615,9 @@ ART. 559.- En las diligencias a que se refiere este Capítulo los cónyuges no p
 
 ART. 560.- La sentencia que decrete el divorcio por mutuo consentimiento es apelable en el efecto devolutivo, la que lo niegue es apelable en ambos efectos.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2017)</small>
 
-ART. 561.- Ejecutoriada la sentencia de divorcio, la autoridad judicial mandará remitir copia de ella a la o el Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó, y al del nacimiento de los divorciados para los efectos de los artículos, 75, 534 y 537 del Código Familiar para el Estado.
+ART. 561.- Ejecutoriada la sentencia de divorcio, la autoridad judicial mandará remitir copia de ella a la o el Oficial del Registro Civil de su jurisdicción, y al del lugar en que el matrimonio se efectuó, para los efectos de los artículos, 97 del Código Familiar para el Estado; y 112 de la Ley del Registro Civil del Estado.
 
 #### Sección I. Reglas Generales
 
@@ -3645,7 +3653,9 @@ I. El Tribunal del juicio no está en posibilidad de funcionar, por un caso de f
 
 II. Alguna de las partes o su representante procesal en su caso, sin culpa alguna, se encuentre en la absoluta imposibilidad de atender al cuidado de sus intereses en el litigio;
 
-IV. Cuando las partes han consentido en acudir a un Centro para la solución de conflictos para intentar algún avenimiento que ponga fin al asunto, en los términos de la Ley de Mecanismos Alternativos y Prevención de Conflictos del Estado de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2017)</small>
+
+IV. Cuando las partes han consentido en acudir a un Centro para la solución de conflictos para intentar algún avenimiento que ponga fin al asunto, en los términos de la Ley de Mediación y Conciliación para el Estado de San Luis Potosí, y
 
 V. En cualquier otro caso determinado por este Código y otras disposiciones legales.
 
@@ -5683,8 +5693,24 @@ SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opo
 
 P.O. 28 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0573.- SE REFORMA EL ARTÍCULO 1140 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0573.- SE REFORMA EL ARTÍCULO 1140 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0577.- SE REFORMA (SIC) LOS ARTÍCULOS, 481.3 EN SU PÁRRAFO DÉCIMO TERCERO, Y 788 EN SU FRACCIÓN IV; Y ADICIONA A LOS ARTÍCULOS, 67 PÁRRAFO SEGUNDO, Y 268 BIS PÁRRAFO SEXTO, DE Y (SIC) AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0579.- SE REFORMA EL ARTÍCULO 561, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
