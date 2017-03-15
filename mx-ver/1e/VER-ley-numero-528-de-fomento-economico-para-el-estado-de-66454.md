@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-528-de-fomento-economico-para-el-estado-de-66454"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-30"
-last_updated: "2016-11-10"
+last_updated: "2017-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 528 DE FOMENTO ECONÓMICO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2017.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de enero de 2009.
 
@@ -52,6 +52,10 @@ Las disposiciones de esta Ley son de orden público, interés social y de observ
 ###### Artículo 2.
 
 El fomento al desarrollo económico se impulsa a través de políticas públicas que motiven la inversión y el empleo, de conformidad con el Plan Veracruzano de Desarrollo, contribuyendo a la creación de alianzas estratégicas entre el sector público, privado y social.
+
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2017)</small>
+
+El Estado y los Municipios en el ámbito de sus competencias, y en el marco de la coordinación con la Federación prevista en la Ley para el Establecimiento y Desarrollo de Zonas Económicas Especiales del Estado de Veracruz de Ignacio de la Llave, con la participación que le corresponda al sector privado, implementarán un Programa de Desarrollo con el objeto de establecer acciones integrales al desarrollo económico y promoción sustentable en las Áreas de Influencia determinadas con mayor impacto económico.
 
 ###### Artículo 3.
 
@@ -95,11 +99,15 @@ II. Crear y otorgar apoyos, incentivos y estímulos para el establecimiento, con
 
 III. Fomentar y estimular las inversiones nacionales e internacionales;
 
-IV. Determinar, impulsar y consolidar sectores económicos estratégicos, fortaleciendo su competitividad a través del fomento de agrupamientos empresariales, integración de cadenas productivas, programas de desarrollo de proveedores locales, desarrollo de infraestructuras y creación de estímulos, apoyos e incentivos específicos;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
+
+IV. Determinar, impulsar y consolidar sectores económicos estratégicos, así como impulsar y favorecer a las Zonas Económicas Especiales, fortaleciendo su competitividad a través del fomento de agrupamientos empresariales, integración de cadenas productivas, programas de desarrollo de proveedores locales, desarrollo de infraestructuras y creación de estímulos, apoyos e incentivos específicos;
 
 V. Aprovechar y explotar de manera sustentable, con apego a la normatividad ecológica, los recursos naturales del Estado;
 
-VI. Generar una política de facilitación a través de la creación de una ventanilla única de gestión empresarial, que impulse y agilice la instalación de nuevas empresas y su operación;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
+
+VI. Generar una política de facilitación a través de la creación de una ventanilla única de gestión empresarial coordinada con la ventanilla única de cada Ayuntamiento, que impulse y agilice la instalación de nuevas empresas y su operación;
 
 VII. Apoyar la integración de cadenas productivas;
 
@@ -177,7 +185,9 @@ V. Formular propuestas respecto al presupuesto destinado a los fondos de Fomento
 
 VI. Establecer los apoyos a las zonas económicas y empresas que, por eventos naturales, económicos, sociales o de siniestros, requieran de manera inmediata reactivar su economía;
 
-VII. Crear programas para impulsar la inclusión en la vida productiva de sectores vulnerables;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
+
+VII. Crear programas para impulsar la inclusión en la vida productiva de sectores vulnerables, y las consideradas como Zonas Económicas Especiales;
 
 VIII. Extinguir o cancelar apoyos, estímulos e incentivos;
 
@@ -399,6 +409,14 @@ El Ejecutivo, por conducto de la Secretaría, establecerá una Ventanilla Única
 
 A través de la Ventanilla Única de Gestión Empresarial, la Secretaría apoyará a emprendedores en la creación de nuevas empresas, mediante servicios integrados de tramitación y asesoramiento empresarial.
 
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2017)</small>
+
+El Estado y los Municipios, se coordinarán a fin de unificar una sola ventanilla de gestión empresarial, en donde tendrán un sistema de redes informáticas abiertas, compatibles e interoperables para la implementación de la Ventanilla Única, para que los inversionistas puedan simplificar y agilizar los trámites necesarios para construir, desarrollar, operar y administrar la Zona que les corresponda, realizando actividades económicas productivas de manera eficiente o en su caso, facilitar la instalación y operación de empresas en áreas económicas con mayor índice de pobreza.
+
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2017)</small>
+
+La Ventanilla Única se regirá conforme a los estándares de operación que establezca la Ley de Mejora Regulatoria para el Estado de Veracruz de Ignacio de la Llave.
+
 ###### Artículo 22.
 
 Con el mismo propósito se establece el Registro Empresarial del Estado, así como la Ventanilla Única de Gestión Empresarial, misma que contendrá el registro único de trámites federales, estatales y municipales, así como el catálogo de servicios empresariales que integre y actualice el Consejo de Mejora Regulatoria del Estado en los términos de la Ley aplicable.
@@ -581,7 +599,9 @@ I. Establecimiento de programas y proyectos de impulso a las distintas regiones 
 
 II. Apoyar a inversionistas locales y regionales, vinculándolos con el desarrollo tecnológico;
 
-III. Motivar e impulsar la comercialización de productos y servicios;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
+
+III. Motivar e impulsar la comercialización de productos y servicios e impulsar los sectores estratégicos dentro de las Zonas Económicas Especiales;
 
 IV. Promover apoyos y estímulos financieros;
 
@@ -645,219 +665,97 @@ Los beneficiarios gozarán de la garantía de audiencia y defensa, y podrán rec
 
 El Consejo, analizando las solicitudes de incentivos en particular, podrá establecer como condición de acceso a los mismos, la obligación de los inversionistas solicitantes para garantizar, al menos, el cumplimiento de sus obligaciones fiscales y laborales, para el supuesto de que decidan abandonar repentinamente el Estado o el País.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE MARZO DE 2017)</small>
 
 ## TÍTULO DÉCIMO SÉPTIMO. DE LOS POLOS DE DESARROLLO
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE MARZO DE 2017)</small>
 
 ### CAPÍTULO PRIMERO. DEL OBJETO DE LOS POLOS DE DESARROLLO
 
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
-
 ###### Artículo 41.
 
-El presente Capítulo tiene por objeto, en el marco de esta Ley, regular la planeación, el establecimiento y la operación de los polos de desarrollo, para impulsar el crecimiento económico sostenido, sustentable y equilibrado del Estado, a efecto de que las regiones que tengan mayores rezagos en el desarrollo social se encuentren, mediante el fomento a la inversión, la productividad, la competitividad, el empleo y una mejor distribución del ingreso en la población, en condiciones de igualdad con las demás regiones del Estado.
-
-Los polos de desarrollo serán considerados áreas prioritarias del desarrollo veracruzano y, en consecuencia, el Estado generará las condiciones y otorgará incentivos para que, con la participación de los sectores público, privado y, en su caso, social, se contribuya al desarrollo económico de las regiones en las que se ubiquen, primordialmente para combatir la pobreza y la pobreza extrema.
-
-Las personas físicas o morales que operen los polos de desarrollo podrán recibir beneficios financieros y fiscales, así como facilidades administrativas e infraestructura competitiva.
-
-Los ayuntamientos, en el ámbito de sus competencias y en el marco de la Ley Orgánica del Municipio Libre y demás disposiciones legales aplicables, podrán impulsar programas de desarrollo intermunicipal, con el objetivo de establecer políticas públicas y acciones que, con un enfoque integral de corto, mediano y largo plazos, permitan el establecimiento y la adecuada operación de los polos de desarrollo, así como también la promoción del desarrollo sustentable de sus áreas de competencia.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 42.
 
-Los polos de desarrollo se integrarán por un número determinado de municipios, delimitados por un polígono geográfico y a los que los una el plan rector de la economía de esa región.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 43.
 
-La instalación, desarrollo, administración y operación de los polos de desarrollo se realizará por los sectores público o privado en bienes inmuebles de propiedad privada o municipal, estatal o, en su caso, de la Federación.
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE MARZO DE 2017)</small>
 
 ### CAPÍTULO SEGUNDO. DETERMINACIÓN DE POLOS DE DESARROLLO
 
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
-
 ###### Artículo 44.
 
-Los polos de desarrollo se establecerán conforme a los siguientes requisitos:
-
-I. Estarán en áreas geográficas que representen una ubicación estratégica para el desarrollo de la actividad productiva, debido a la facilidad de integración con carreteras, puertos, aeropuertos, ferrocarriles y potencial de conectividad hacia otros mercados nacionales o internacionales;
-
-II. Preverán la instalación de clusters y agroparques, visualizando las ventajas del plan rector de la economía de ese polo de desarrollo;
-
-III. Estarán direccionados con un alto sentido de responsabilidad social, para combatir la pobreza y generar mejores condiciones de vida para sus habitantes; y
-
-IV. Los intermediarios de cada polo contarán con tres sociedades para la operación del plan de negocios, divididas de las siguientes maneras:
-
-a) Sociedad encargada de la producción primaria;
-
-b) Sociedad encargada de recibir y de otorgar créditos a los pequeños, medianos y grandes productores o empresarios del polo de desarrollo, con tasas del 6.5% anual para mujeres y 7% anual para hombres, en actividades productivas por contrato; y
-
-c) Sociedad encargada de la cadena de valor, industrialización y comercialización.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 45.
 
-Los polos de desarrollo podrán ser auditados, por cuanto hace al ejercicio de los recursos públicos de que dispongan, por los órganos de control y fiscalización correspondientes.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 46.
 
-Los polos de desarrollo contarán con un órgano colegiado de dirección, conformado por los presidentes municipales de los ayuntamientos que hubiesen acordado constituir los polos.
-
-Cada uno de esos órganos tendrá un presidente, un secretario, un tesorero y los vocales que se estimen necesarios.
-
-Para la designación de quienes presidan los polos de desarrollo, se privilegiará que cuenten, preferentemente, con noción del contenido de un plan de negocios, visión empresarial globalizada y un perfil formativo que direccione a una alta productividad, generación de empleos y mejores condiciones de vida para los habitantes de la región correspondiente.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 47.
 
-Los integrantes de los órganos colegiados de dirección de los polos de desarrollo ejercerán su encargo mientras conserven su carácter de presidentes municipales.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 48.
 
-El presidente de cada uno de los órganos de dirección de los polos de desarrollo tendrá las atribuciones siguientes:
-
-I. Convocar, por lo menos una vez al mes, y presidir y dirigir las reuniones del órgano, para planear, desarrollar, supervisar y consolidar el plan rector de la economía regional, con el objetivo de generar empleos, oportunidades y mejores condiciones de vida para sus habitantes;
-
-II. Ejecutar los acuerdos del órgano de dirección de los polos de desarrollo;
-
-III. Vigilar la exacta recaudación de los recursos y cuidar que su inversión se efectúe con estricto apego a los criterios de racionalidad y disciplina fiscal, así como a la contabilidad, evaluación, información periódica, auditoría interna y control de gestión que dispongan las Leyes de la Materia;
-
-IV. Vigilar las funciones de la secretaría y la tesorería; y
-
-V. Las demás que, para los fines del polo de desarrollo, se establezcan en los reglamentos del mismo.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 49.
 
-El secretario contará con las atribuciones siguientes:
-
-I. Trabajar en vinculación con el presidente y tesorero para impulsar la actividad económica del polo de desarrollo;
-
-II. Estar presente en las reuniones de trabajo del órgano de dirección del polo de desarrollo, con derecho a voz y voto, y levantar las actas correspondientes al terminar cada una de ellas;
-
-III. Dar cuenta diariamente de todos los asuntos al presidente, para acordar el trámite que deba recaer a los mismos;
-
-IV. Autorizar con su firma, según corresponda, las actas y documentos emanados del órgano de dirección del polo de desarrollo; y
-
-VI. Las demás que, para los fines del polo de desarrollo, se establezcan en los reglamentos del mismo.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 50.
 
-El tesorero tendrá las atribuciones siguientes:
-
-I. Asistir a las reuniones de trabajo del órgano de dirección del polo de desarrollo, con voz y voto;
-
-II. Recaudar, administrar, concentrar, custodiar, vigilar y situar los fondos que pueda recibir el polo de desarrollo, de conformidad con las disposiciones legales aplicables en materia de ingresos;
-
-III. Cuidar que la recuperación se haga con exactitud y oportunidad, siendo responsable de que los fondos se reintegren con los rendimientos establecidos; y
-
-IV. Las demás que, para los fines del polo de desarrollo, se establezcan en los reglamentos del mismo.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 51.
 
-Los vocales tendrán las atribuciones siguientes:
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
-I. Asistir a las reuniones de trabajo del órgano de dirección del polo de desarrollo, con voz y voto;
-
-II. Proponer las actividades de trabajo a llevar a cabo dentro del polo de desarrollo;
-
-III. Auxiliar al presidente, secretario y tesorero en las actividades de cada uno de ellos;
-
-IV. Aceptar las comisiones que sean propuestas por el presidente y aprobadas por la mayoría de los integrantes del órgano de dirección; y
-
-V. Las demás que, para los fines del polo de desarrollo, se establezcan en los reglamentos del mismo.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 15 DE MARZO DE 2017)</small>
 
 ### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DE LOS POLOS DE DESARROLLO
 
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
-
 ###### Artículo 52.
 
-Los polos de desarrollo, mediante sus órganos de dirección, tendrán las atribuciones siguientes:
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
-I. Emitir, en el mes de enero de cada año, una convocatoria para que participen, por lo menos, tres personas físicas o morales, locales, estatales, nacionales o multinacionales, para operar el plan de negocios que haya determinado el órgano;
-
-II. Solicitar a las entidades públicas apoyos financieros para el desarrollo del mismo;
-
-III. Recaudar y administrar en forma directa y libre los recursos económicos con los que cuente la tesorería del polo de desarrollo;
-
-IV. Recibir los recursos municipales, estatales, federales o, en su caso, de organismos internacionales y concentrarlos en una cuenta bancaria exclusiva del polo de desarrollo;
-
-V. Aprobar los presupuestos de egresos según los ingresos disponibles, los cuales serán entregados al sector privado como instrumentos financieros, previa autorización del Congreso del Estado;
-
-VI. Transferir los recursos que se le asignen con legalidad y de manera prioritaria a las personas físicas o morales que trabajen en vinculación con el polo de desarrollo, con un alto sentido de responsabilidad social, de acuerdo a la disponibilidad presupuestal y a las necesidades de los interesados;
-
-VII. Celebrar convenios, previa autorización del Congreso del Estado, con personas físicas o morales;
-
-VIII. Emitir, en el ámbito de su competencia, la reglamentación del Polo de Desarrollo; y
-
-IX. Trabajar en coordinación con las dependencias municipales, estatales y federales, para el impulso de una economía sana y sostenida que permita atraer la inversión del sector privado en toda la cadena productiva.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE MARZO DE 2017)</small>
 
 ### CAPÍTULO CUARTO. DE LA OPERACIÓN DE LOS POLOS DE DESARROLLO
 
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
-
 ###### Artículo 53.
 
-Las personas físicas o morales que funjan como intermediarios para impulsar toda cadena productiva, cuando se trate de actividades del sector agropecuario, rural, forestal, pesquero y de alimentación, deberán contar con los siguientes requisitos fundamentales:
-
-I. Fondos exhibidos, en estados de cuenta, de la figura jurídica que, en su caso, vaya a operar como dispersora de crédito o línea de crédito autorizada por la banca de desarrollo para impulsar el aparato productivo de la región;
-
-II. Infraestructura que impulse la cadena de valor, que podrá ser propia, rentada o prestada; y
-
-III. Un contrato de comercialización que garantice que el producto de que se trate tenga un mercado seguro.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 54.
 
-Cuando se trate de sectores como turismo, comercio y otros, el polo de desarrollo podrá dar prioridad a dispersores de crédito, siempre y cuando respeten la tasa de interés de 6.5 % anual para mujeres y 7 % anual para hombres.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 55.
 
-Los recursos financieros que se capten sólo podrán ser utilizados para que se operen líneas de crédito por parte de los intermediarios, como instrumentos financieros.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 56.
 
-La figura jurídica que corresponda al intermediario deberá contar con una cobertura de seguro total. Para que los fondos invertidos se reintegren de manera total, deberá ser entregada a la tesorería del polo de desarrollo, para estar listos en el siguiente ciclo productivo o la siguiente dispersión de crédito.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 57.
 
-El intermediario deberá transferir todos los apoyos o subsidios que vayan dirigidos al productor o cuentahabiente de manera transparente, pronta y expedita y que por la estructura legal sean canalizados a sus cuentas, deberá ser transferido a la cartera de crédito, del productor o cuentahabiente ya sean de los Gobiernos Municipal, Estatal o Federal.
-
-> <small>(ADICIONADO, G.O. 10 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 58.
 
-Los fondos económicos podrán crecer de manera infinita, cuando el fondo sea mayor de lo que valga el plan de negocios aprobado por el polo de desarrollo. Podrán impulsar alternativas de producción, de acuerdo a la demanda de la sociedad y la vocación productiva de la región.
+(DEROGADO, G.O. 15 DE MARZO DE 2017)
 
 T R A N S I T O R I O S
 
@@ -881,7 +779,7 @@ Licenciado Fidel Herrera Beltrán
 
 Gobernador del Estado.-Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 11 DE MAYO DE 2011.
 
@@ -920,3 +818,11 @@ G.O. 10 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LOS SIGUIENTES ORDENAMIENTOS: DEL CÓDIGO HACENDARIO MUNICIPAL, DEL CÓDIGO DE DERECHOS, DE LA LEY DE FOMENTO ECONÓMICO, DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL, Y DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
