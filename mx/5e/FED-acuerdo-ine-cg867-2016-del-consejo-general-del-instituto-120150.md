@@ -1,0 +1,60 @@
+---
+title: "ACUERDO INE/CG867/2016 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE REGULAN EL PROCEDIMIENTO EN MATERIA DE INCONFORMIDADES QUE FORMULEN LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL CON MOTIVO DE LOS RESULTADOS QUE OBTENGAN EN SUS EVALUACIONES DEL DESEMPEÑO DEL SISTEMA INE"
+identifier: "FED-acuerdo-ine-cg867-2016-del-consejo-general-del-instituto-120150"
+country: "mx"
+rank: "acuerdo"
+publication_date: "2017-03-15"
+last_updated: "2017-03-15"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120150&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "120150"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "ACUERDO (S)"
+original_gazette_section: "11 SEGUNDA SECCION"
+reform_count: "1"
+scjn_last_update: "2017-05-30"
+issue_date: "2016-02-21"
+---
+# ACUERDO INE/CG867/2016 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE REGULAN EL PROCEDIMIENTO EN MATERIA DE INCONFORMIDADES QUE FORMULEN LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL CON MOTIVO DE LOS RESULTADOS QUE OBTENGAN EN SUS EVALUACIONES DEL DESEMPEÑO DEL SISTEMA INE
+
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE REGULAN EL PROCEDIMIENTO EN MATERIA DE INCONFORMIDADES QUE FORMULEN LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL CON MOTIVO DE LOS RESULTADOS QUE OBTENGAN EN SUS EVALUACIONES DEL DESEMPEÑO DEL SISTEMA INE.
+
+TEXTO ORIGINAL.
+
+Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 15 de marzo de 2017.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional Electoral.- Consejo General.- INE/CG867/2016.
+
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE REGULAN EL PROCEDIMIENTO EN MATERIA DE INCONFORMIDADES QUE FORMULEN LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL CON MOTIVO DE LOS RESULTADOS QUE OBTENGAN EN SUS EVALUACIONES DEL DESEMPEÑO DEL SISTEMA INE
+
+ANTECEDENTES
+
+[…]
+
+CONSIDERANDO
+
+[...]
+
+En virtud de los Antecedentes y Considerandos anteriores, con fundamento en los artículos 41 párrafo segundo, Base V, Apartado A, párrafos primero y segundo; y Apartado D, párrafos primero y segundo de la Constitución Política de los Estados Unidos Mexicanos; 29 numeral 1; 30 numerales 2 y 3; 34 numeral 1; 35 numeral1 (sic); 36 numeral 1; 40 numeral 1; 42 numeral 2; 43 numerales1 (sic) y 2; 44 numeral 1, incisos a), b) y gg); 48 numeral 1, incisos b) y e); 51 numeral 1, inciso d); 57, numeral 1, inciso b); 201 numeral 1; 202 numerales 2 y 7; 203, numeral 1, inciso h) de la Ley General de Instituciones y Procedimientos Electorales; y 1 fracciones I y II; 10 fracción I, Sección II del Capítulo VII del Título Tercero, 277, 278, 279, 282 y Cuadragésimo Sexto Transitorio del Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa; el Consejo General del Instituto Nacional Electoral, emite el siguiente:
+
+ACUERDO
+
+Primero. Se aprueban los Lineamientos que regulan el procedimiento en materia de inconformidades que formulen los miembros del Servicio Profesional Electoral Nacional con motivo de los resultados que obtengan en sus evaluaciones del desempeño del sistema INE, en los términos del documento adjunto al presente Acuerdo.
+
+Segundo. Se abrogan el Acuerdo JGE11/2012 a través del cual la Junta General Ejecutiva actualizó los Lineamientos que regulan el Procedimiento en materia de inconformidades aprobados mediante Acuerdo JGE85/2010.
+
+Tercero. Los presentes Lineamientos entrarán en vigor al día hábil siguiente de su aprobación.
+
+Cuarto. Los presentes Lineamientos serán aplicables a partir de las inconformidades que se presenten por los resultados de la Evaluación del Desempeño de 2016.
+
+Quinto. El presente Acuerdo deberá publicarse en el Diario Oficial de la Federación y en la Gaceta del Instituto Nacional Electoral.
+
+El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 21 de diciembre de dos mil dieciséis, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, no estando presente durante la votación el Consejero Electoral, Doctor José Roberto Ruiz Saldaña.
+
+El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+El anexo puede ser consultado en las (sic) siguiente dirección electrónica:
+
+http://www.ine.mx/archivos2/portal/historico/contenido/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2016/12_Diciembre/CGex201612-21/CGex201612-21-ap-13-a1.pdf
