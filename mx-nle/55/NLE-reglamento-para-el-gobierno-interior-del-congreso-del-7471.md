@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2017-02-24"
+last_updated: "2017-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -1293,7 +1293,9 @@ V.- Asesorar para que los proyectos de resoluciones de la Legislatura estén ape
 
 VI.- Encargarse de que las leyes, decretos y acuerdos del Congreso en los casos aplicables se envíen al Ejecutivo para su publicación en el Periódico Oficial del Estado, dentro de los cinco días hábiles posteriores a su aprobación;
 
-VII.- Dar seguimiento a las resoluciones del Pleno del Congreso y atender las instrucciones que reciba de la Directiva;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+
+VII. Dar seguimiento a las resoluciones del Pleno del Congreso, así como publicar en la página oficial del Congreso del Estado el estatus reportado por el Comité de Seguimiento de Acuerdos; y atender las instrucciones que reciba de la Directiva;
 
 VIII.- Elaborar y custodiar las actas de las sesiones y el Diario de Debates del Pleno del Congreso;
 
@@ -1569,7 +1571,7 @@ XI.- Coordinar sus actividades con los demás órganos del Congreso para proveer
 
 ## TITULO QUINTO. DEL PROCESO LEGISLATIVO
 
-### CAPITULO II. DE LA INICIATIVA
+### CAPITULO II. DE LA INICIATIVA Y LOS PUNTOS DE ACUERDO
 
 ###### Artículo 78.
 
@@ -1763,6 +1765,8 @@ El Presidente del Congreso abrirá y cerrará las sesiones respectivamente con e
 
 Para la Apertura o Clausura de los Períodos Ordinarios el Presidente instalará los trabajos de la Legislatura con la siguiente declaratoria: "La (Número) Legislatura al Congreso del Estado de Nuevo León "Abre" o "Clausura" hoy (fecha y año) su (1o. o 2o.) Período Ordinario de Sesiones, correspondiente al (primero, segundo o tercer) Año de Ejercicio Constitucional".
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2017)</small>
+
 ### CAPITULO III. DE LAS DELIBERACIONES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2006)</small>
@@ -1900,6 +1904,28 @@ Cuando un dictámen contenga un proyecto de decreto o ley que conste de más de 
 ###### Artículo 122.
 
 Bajo la forma de Decreto, el Congreso expedirá las resoluciones que tengan carácter de Ley y aquéllas que sin reunir esa calidad contengan disposiciones de observancia general. Igual carácter tendrán las resoluciones para el cambio de Directiva del Pleno y para la designación de la Diputación Permanente.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+###### Artículo 122 Bis.
+
+Los puntos de acuerdo deberán presentarse por escrito y firmados, incluyendo una parte con la exposición de los motivos que los fundamenten, y concluirán de la forma en la que se solicite sean aprobados por el Congreso.
+
+Los exhortos que se presenten deberán contener el fundamento legal de la solicitud, la autoridad a quien va dirigido, y la finalidad de la misma.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+###### Artículo 122 Bis 1.
+
+El Congreso recibirá para su resolución puntos de acuerdo con propósito de exhorto, cuyos requisitos serán los establecidos en el artículo anterior.
+
+De no cumplir con los requisitos antes señalados será desechada de plano y será archivada por la Oficialía Mayor.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+###### Artículo 122 Bis 2.
+
+Si la Comisión estimare necesario incluir modificaciones al punto de acuerdo que le fuese turnado para estudio, las dará a conocer a la Asamblea en su dictamen, exponiendo los argumentos en que se apoye.
 
 ###### Artículo 123.
 
@@ -2709,7 +2735,7 @@ Segundo.- El H. Congreso del Estado de Nuevo León, deberá hacer las adecuacion
 
 P.O. 18 DE ENERO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 219. SE REFORMA POR ADICIÓN DE UN TERCERO Y CUARTO PÁRRAFO AL ARTÍCULO 91 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO.”]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 219. SE REFORMA POR ADICIÓN DE UN TERCERO Y CUARTO PÁRRAFO AL ARTÍCULO 91 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2722,3 +2748,9 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- A partir de la entrada en vigor del presente Decreto, en las inscripciones de letras áureas subsecuentes se conservará la misma tipografía de las letras actualmente colocadas.
 
 Tercero.- Las solicitudes de inscripción de letras áureas, anteriores a la entrada en vigor del presente Decreto, serán resueltas en los mismos términos, en que fueron aprobadas las que actualmente se encuentran colocadas.
+
+P.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 236. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 65 FRACCIÓN VII; EL NOMBRE DEL CAPÍTULO II DEL TÍTULO QUINTO Y POR ADICIÓN LOS ARTÍCULOS 122 BIS; 122 BIS 1; Y 122 BIS 2 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR ADICIÓN DE UNA FRACCIÓN IV AL ARTÍCULO 78 BIS 1 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
