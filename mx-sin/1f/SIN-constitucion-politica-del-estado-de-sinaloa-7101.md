@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2017-03-13"
+last_updated: "2017-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -160,6 +160,10 @@ X. Todas las personas tienen derecho al libre acceso al internet y a las tecnolo
 > <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN X], P.O. 1 DE FEBRERO DE 2017)</small>
 
 El Estado y los Municipios deberán garantizar el acceso a internet gratuito inalámbrico de banda ancha, en los edificios e instalaciones de los diversos Poderes del Estado y de las dependencias y entidades de su administración, así como en los lugares públicos que para el efecto se determinen.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+
+XI. Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
 
@@ -3983,21 +3987,11 @@ P.O. 13 DE MARZO DE 2017.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO EN LA ENTIDAD”.]
+P.O. 15 DE MARZO DE 2017.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 86 QUE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 4 BIS B DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
-SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
-
-CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
-
-QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
-
-SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
-
-G.G. 3 DE FEBRERO DE 2017.
+Único.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, "El Estado de Sinaloa".
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 192.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 9, 58 EN SU CUARTO PÁRRAFO Y DEROGA DEL ARTÍCULO 69, LA FRACCIÓN V, EL CAPÍTULO XVII DENOMINADO "NO EJERCICIO DE LA ACCIÓN PENAL" DEL TÍTULO QUINTO DEL LIBRO PRIMERO Y EL ARTÍCULO 106 QUINTUS, EL CAPÍTULO II DENOMINADO "SECUESTRO" DEL SUBTÍTULO TERCERO, DEL TÍTULO TERCERO, ASÍ COMO LOS ARTÍCULOS 259, 260 Y 261 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; Y REFORMA LA DENOMINACIÓN "LEY DE INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO", EL ARTÍCULO 2, LAS FRACCIONES IV Y XVII DEL ARTÍCULO 3, EL APARTADO B DE LA FRACCIÓN I DEL ARTÍCULO 4, EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 10, LOS ARTÍCULOS 11, 12, 13, 14, 15, 16, 17 EN SU PRIMER PÁRRAFO, 18, 19, 20 EN SU SEGUNDO PÁRRAFO, 22, 23, 24 Y 25 Y SE DEROGAN LA FRACCIÓN III DEL ARTÍCULO 3, EL CAPÍTULO III DENOMINADO "DE LA CONMUTACIÓN DE LA PENA" Y LOS ARTÍCULOS 6, 7, 8 Y 9 DE LA LEY DEL INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO; Y DEROGA EL ARTÍCULO 192 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO".]
 
