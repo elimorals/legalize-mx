@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2015-05-20"
+last_updated: "2017-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -35,7 +37,7 @@ DECRETO # 270
 
 LA HONORABLE QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO DECRETA
 
-.
+[...]
 
 Por lo antes expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 65, fracción I de la Constitución Política del Estado de Zacatecas; 14, fracción I de la Ley Orgánica del Poder Legislativo; 86, numeral 1, 88, 90, y relativos del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -241,7 +243,7 @@ II. Iniciar y aprobar las reformas a la Constitución Política de los Estados U
 
 III. Vigilar el ejercicio del gasto público;
 
-IV. Aprobar, la redistritación electoral local, en su caso, a más tardar el día quince de septiembre del año inmediato anterior al de la elección, según proyecto que presente el Instituto Electoral del Estado;
+IV. (DEROGADA, P.O. 15 DE MARZO DE 2017)
 
 V. Ser autoridad en materia de deuda pública de conformidad con la ley respectiva;
 
@@ -249,13 +251,15 @@ VI. Ratificar a los integrantes de la Comisión Estatal para el Acceso a la Info
 
 VII. Fijar o variar el lugar donde deban residir los poderes del Estado, conforme al precepto constitucional respectivo;
 
-VIII. Designar al Consejero Presidente y a los consejeros electorales del Instituto Electoral del Estado;
+VIII. (DEROGADA, P.O. 15 DE MARZO DE 2017)
 
 IX. Expedir las bases para regular los empleos públicos y para las retribuciones que deberán fijarse en los presupuestos estatales y municipales;
 
 X. Expedir las leyes que normen las relaciones de trabajo de los poderes estatales y de los municipios con sus trabajadores; y
 
-XI. Proponer y designar al Presidente y consejeros de la Comisión Estatal de Derechos Humanos.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+
+XI. Designar al Presidente y demás consejeros de la Comisión de Derechos Humanos del Estado. Así mismo citar a comparecer a las autoridades o servidores públicos responsables para explicar el motivo de la negativa a aceptar o cumplir las recomendaciones que le haga la misma Comisión. En los periodos de receso del Pleno, esta atribución podrá ejercerla la Comisión Permanente.
 
 > <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
 
@@ -309,7 +313,7 @@ Las atribuciones de la Legislatura del Estado con relación al Poder Judicial so
 
 I. Designar a los magistrados del Tribunal Superior de Justicia del Estado, de entre la terna que someta a su consideración la Gobernadora o Gobernador;
 
-II. Designar a los magistrados del Tribunal Estatal Electoral, de la terna que someta a su consideración el Poder Judicial;
+II. (DEROGADA, P.O. 15 DE MARZO DE 2017)
 
 III. Resolver acerca de licencias y renuncias de los magistrados;
 
@@ -463,7 +467,11 @@ XI. No desempeñar, desde el inicio de sus funciones en la Legislatura y hasta e
 
 XII. Abstenerse de intervenir en los asuntos legislativos en los que tengan un interés personal, o que interesen a su cónyuge, concubina o concubinario, o a sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales dentro del cuarto grado y a los afines dentro del segundo, siempre que no se trate de disposiciones de carácter general;
 
-XIII. Presentar al menos una iniciativa de ley, decreto, acuerdo o estudio legislativo dentro de cada periodo ordinario de sesiones;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+
+XIII. Presentar, al menos, dos iniciativas de ley, decreto, acuerdo o estudio legislativo, dentro de cada periodo ordinario de sesiones. Una de las dos iniciativas que presenten deberá referirse a la materia de la comisión que presiden o de cualquiera de las comisiones ordinarias a las que pertenecen.
+
+Las iniciativas deben cumplir a cabalidad con los requisitos de técnica legislativa previstos en esta Ley y en el Reglamento General, además, ser genuinas y, preferentemente, tener como antecedente un estudio comparativo con ordenamientos de otras entidades del país e incluir recomendaciones doctrinarias en la materia.
 
 XIV. Entregar su declaración de situación patrimonial, conforme a las disposiciones legales aplicables; y
 
@@ -585,7 +593,9 @@ III. Invoquen o hagan uso de su condición de diputado en el ejercicio de alguna
 
 IV. Intervengan en asuntos legislativos cuando deban excusarse de hacerlo en los términos de la fracción XII del artículo 24 de esta Ley;
 
-V. No presentar por lo menos una iniciativa de ley, decreto, acuerdo o estudio legislativo, dentro de cada periodo ordinario de sesiones; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+
+V. No presentar por lo menos dos iniciativas de ley, decreto, acuerdo o estudio legislativo, dentro de cada periodo ordinario de sesiones; y
 
 VI. Cuando los integrantes de las comisiones no emitan los dictámenes respectivos en los plazos fijados expresamente por esta Ley.
 
@@ -1283,7 +1293,9 @@ IV. Solicitar a la Comisión Permanente se convoque a periodo extraordinario de 
 
 V. Proponer al Pleno, la designación y remoción del Auditor Superior del Estado;
 
-VI. Expedir los nombramientos de los titulares de los órganos administrativos, técnicos y personal de apoyo de la Legislatura, previas propuestas de las Comisiones de Vigilancia o Planeación Patrimonio y Finanzas en sus respectivos ámbitos, una vez que el Pleno los autorice;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+
+VI. Expedir los nombramientos de los titulares de los órganos administrativos, técnicos y personal de apoyo de la Legislatura, previas propuestas de las Comisiones de Vigilancia, de Planeación, Patrimonio y Finanzas y la de Estudios Legislativos y Prácticas Parlamentarias en sus respectivos ámbitos, una vez que el Pleno los autorice;
 
 VII. Presentar iniciativas de ley, decreto o acuerdo;
 
@@ -1379,8 +1391,6 @@ IX. Las demás que le asigne esta Ley, su Reglamento General, así como los acue
 
 Las Comisiones Legislativas son órganos internos de la Legislatura, que tienen como facultades el conocimiento, estudio, análisis y dictamen de las iniciativas, acuerdos y demás asuntos presentados a la Asamblea y turnados por el Presidente de la Mesa Directiva y/o el Secretario General.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 124.
@@ -1419,19 +1429,13 @@ IX. Educación;
 
 X. Obras Públicas y Desarrollo Urbano;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XI. Salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XII. Seguridad Pública y Justicia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1461,13 +1465,9 @@ XX. Ciencia, Tecnología e Innovación;
 
 XXI. Igualdad de Género;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XXII. Atención a Migrantes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1477,37 +1477,25 @@ XXIII. Ecología y Medio Ambiente;
 
 XXIV. Agricultura, Ganadería y Desarrollo Rural Sustentable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XXV. Agua y Saneamiento;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XXVI. Cultura, Editorial y Difusión;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XXVII. Función Pública;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XXVIII. Turismo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XXIX. Atención a Grupos Vulnerables, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1595,13 +1583,9 @@ III. Aprobación de los convenios que el Ejecutivo celebre respecto de los lími
 
 IV. La formulación de informes en juicios de amparo en que la Legislatura sea parte, por medio del Presidente de la Comisión o de un miembro de la misma, así como la representación jurídica en defensa de los intereses de la Legislatura en procedimientos judiciales, la que podrá delegar cualquiera de los integrantes de la Comisión en el Director de Procesos Legislativos y Asuntos Jurídicos, o bien, en el Subdirector de Asuntos Jurídicos o en cualquier otro servidor público de la Legislatura;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 V. En examen previo, en forma conjunta con la Comisión Jurisdiccional, los casos de solicitud de juicio político. Por esta vía se ventilarán también las suspensiones o desapariciones de ayuntamientos, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1649,8 +1633,6 @@ V. Todo lo relacionado con la autorización y utilización de la deuda pública 
 
 VI. De la conveniencia de ordenar a la Auditoria Superior del Estado, o cuando así lo determine el Pleno, la práctica de visitas, inspecciones y auditorias en las entidades a que se refiere la Ley de Fiscalización Superior del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 VII. En forma conjunta con la Comisión de Presupuesto y Cuenta Pública, el examen y aprobación, en su caso, de las cuentas públicas del Estado y municipios;
@@ -1683,13 +1665,9 @@ VIII. Designación de los magistrados del Tribunal Superior de Justicia de la pr
 
 IX. Los casos de nepotismo, es decir, incompatibilidades previstas en la ley, por parentesco entre servidores públicos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 HACIENDA MUNICIPAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1697,27 +1675,17 @@ HACIENDA MUNICIPAL
 
 Corresponde a la Comisión de Hacienda Municipal, el conocimiento y dictamen de los asuntos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 I. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 II. La aprobación o modificación de las Leyes de Ingresos de los Municipios, así como determinar las bases, montos y plazos sobre los cuales recibirán las participaciones, de conformidad con lo que señale la ley reglamentaria;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 III. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 IV. En forma conjunta con la Comisión de Presupuesto y Cuenta Pública, la expedición o modificaciones a la ley con base en la cual el Ejecutivo y los ayuntamientos puedan celebrar empréstitos y obligaciones con cargo a sus respectivos patrimonios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1725,31 +1693,19 @@ V. Lo referente a autorizar a los ayuntamientos la contratación de créditos o 
 
 Las solicitudes de autorización de créditos materia del dictamen, deberán acompañarse de la información financiera, programática, administrativa y económica que en cada caso justifique la medida;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 VI. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 VII. De los que se refieran sobre autorización a los ayuntamientos, para la desafectación, cambio de régimen de propiedad o enajenación de bienes muebles e inmuebles o constitución de derechos reales sobre los mismos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 VIII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 IX. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 PRESUPUESTO Y CUENTA PÚBLICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1777,41 +1733,47 @@ ESTUDIOS LEGISLATIVOS Y PRÁCTICAS PARLAMENTARIAS
 
 La Comisión de Estudios Legislativos y Prácticas Parlamentarias se integrará con tres diputados propietarios y tres diputados suplentes y le corresponde el conocimiento de los siguientes asuntos:
 
-I. Impulsar programas de profesionalización y actualización en derecho parlamentario y prácticas legislativas;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
 
-II. Reformas o adiciones a la Ley Orgánica, Reglamento General y demás ordenamientos del Poder Legislativo;
+I. Impulsar programas de profesionalización y actualización en derecho parlamentario, prácticas legislativas y otros temas necesarios para el buen desempeño del Poder Legislativo;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
 
-III. Evaluar el trabajo del Instituto de Investigaciones Legislativa se impulsar los programas del mismo;
+II. Conocer y dictaminar sobre propuestas de reformas o adiciones a la Constitución Política del estado Libre y Soberano de Zacatecas en el ámbito parlamentario, a la Ley Orgánica, Reglamento General y a todos los ordenamientos internos, prácticas y procedimientos del régimen parlamentario del Poder Legislativo. Así mismo, emitir opinión para el dictamen sobre reconocimientos y distinciones que haga la Legislatura;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+
+III. Con apoyo de la Secretaría General, dirigir y evaluar el trabajo del Instituto de Investigaciones Legislativas e impulsar los programas del mismo;
 
 IV. Coordinarse con instituciones académicas y de investigación para el apoyo de las tareas del Instituto;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
 
-V. Actualizar, a través de la Dirección de Procesos Legislativos y Asuntos Jurídicos, el Sistema Estatal Normativo que deberá contener las leyes, decretos, reglamentos y demás normas que rijan en el Estado;
+V. Actualizar, a través de la Dirección de Procesos Legislativos y Asuntos Jurídicos y con apoyo del Instituto de Investigaciones Legislativas, el Sistema Estatal Normativo que deberá contener las leyes, decretos, reglamentos y demás normas que rijan en el Estado;
 
 VI. (DEROGADA, P.O. 8 DE MAYO DE 2010)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
-
-VII. Proponer a la Comisión de Cultura, Editorial y Difusión, la inserción de trabajos y artículos que fomenten el estudio del derecho parlamentario;
+VII. En coordinación con la Comisión de Cultura, Editorial y Difusión, promover la inserción y la publicación de trabajos y artículos que fomenten el estudio del derecho parlamentario;
 
 VIII. Resolver las consultas respecto de la aplicación e interpretación de esta Ley, reglamentos, práctica y usos parlamentarios;
 
-IX. Presentar las iniciativas tendientes al perfeccionamiento de la técnica y práctica parlamentaria de las comisiones y el Pleno, respectivamente; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
 
-X. Incrementar el acervo bibliográfico y hemerográfico de la Legislatura, su preservación, actualización y difusión, a fin de que los interesados tengan acceso ágil y expedito a los asuntos relacionados con el trabajo legislativo, así como promover el intercambio bibliográfico con instituciones académicas y culturales.
+IX. Presentar las iniciativas tendientes al perfeccionamiento de la técnica, el régimen y la práctica parlamentaria de las comisiones y el Pleno, respectivamente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+
+X. Incrementar el acervo bibliográfico y hemerográfico de la Legislatura, su preservación, actualización y difusión, a fin de que los interesados tengan acceso ágil y expedito a los asuntos relacionados con el trabajo legislativo, así como promover el intercambio bibliográfico con instituciones académicas y culturales, y
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+
+XI. Vigilar que haya una eficiente administración y oportuna difusión del Archivo General del Poder Legislativo, además, que su organización sea efectiva y la consulta accesible para cualquier persona.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 DESARROLLO ECONÓMICO, INDUSTRIA Y MINERÍA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1819,21 +1781,15 @@ DESARROLLO ECONÓMICO, INDUSTRIA Y MINERÍA
 
 Corresponde a la Comisión de Desarrollo Económico, Industria y Minería, el conocimiento y dictamen de los asuntos relacionados con:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 I. La legislación en materia de desarrollo, fomento industrial y minero, que promuevan una economía integral en la entidad;
 
 II. Los programas de desarrollo económico;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 III. Las políticas y proyectos de apoyo financiero a las actividades para el desarrollo económico e industrial del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1841,31 +1797,21 @@ IV. La expedición de normas que regulen el proceso de planeación del desarroll
 
 V. De la relación con las cámaras y organismos empresariales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 VI. La expedición de leyes encaminadas al fomento de las actividades industriales del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 VII. Las políticas, estudios, proyectos, planes y programas que impliquen apoyo al crecimiento económico y a las actividades industriales del Estado, sus regiones y municipios;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 VIII. La promoción de las industrias mineras que se establezcan en el Estado, para que contraten los servicios de empresas y proveedores locales, preferentemente de los municipios o comunidades en las que se encuentren operando;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 IX. La promoción y apoyo de la planta productiva del Estado para la creación de empleos de la población económicamente activa, así como estímulos a los generadores de empleo, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1895,43 +1841,29 @@ I. De la legislación en materia de obras públicas, vivienda, asentamientos hum
 
 II. Del establecimiento de los requisitos y procedimiento que deberán observarse para la expedición de decretos y resoluciones administrativas referentes a la ordenación del desarrollo urbano, la regularización de asentamientos humanos y la creación de nuevos centros de población y determinar, respecto de estos últimos, los límites correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 III. La legislación en materia de reservas territoriales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 IV. Las bases que regulen el uso, aprovechamiento y expropiación de lotes baldíos, en municipios de la Entidad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 V. El cumplimiento de las disposiciones en materia de áreas verdes y espacios para servicios comunitarios en las colonias;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 VI. Las bases que regulen la creación y constitución de las reservas territoriales de los municipios, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 VII. La normatividad relacionada con la regularización de predios en la Entidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 SALUD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1941,19 +1873,13 @@ Corresponde a la Comisión de Salud, el conocimiento y dictamen de los asuntos s
 
 I. De las propuestas de ley para fortalecer la prevención de las enfermedades y promover la salud pública;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 II. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2011)
 
 III. De las reformas a las normas reguladoras de la salud pública; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 IV. De las políticas, estudios, proyectos, planes y programas de la administración pública estatal y municipal en materia de salud pública, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1961,27 +1887,19 @@ V. Los relacionados con la ley de la materia o las reformas y adiciones a la mis
 
 INDUSTRIA, COMERCIO Y SERVICIOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 138.
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 SEGURIDAD PÚBLICA Y JUSTICIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 139.
 
 Corresponde a la Comisión de Seguridad Pública y Justicia, el conocimiento y dictamen de los asuntos referentes a:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -1999,13 +1917,9 @@ VI. La revisión de la normatividad relativa a los distintos cuerpos de segurida
 
 VII. La revisión del presupuesto en materia de seguridad pública y la excitativa de reformas tendientes a mejorar ésta materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 DE LA NIÑEZ, LA JUVENTUD Y LA FAMILIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2013,11 +1927,7 @@ DE LA NIÑEZ, LA JUVENTUD Y LA FAMILIA
 
 Corresponde a la Comisión de la Niñez, la Juventud y la Familia, el conocimiento y dictamen de los asuntos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 I. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2027,13 +1937,9 @@ III. De las disposiciones para la prevención y combate a la drogadicción y el 
 
 IV. Del estudio de las condiciones sociales, políticas, económicas y culturales en que se encuentran las niñas, los niños y los adolescentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 V. De la Ley del Instituto de la Juventud del Estado y sus reformas y adiciones, así como de otras leyes en la materia, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2103,8 +2009,6 @@ III. La atención de las demandas ciudadanas, propuestas y aportaciones tendient
 
 TRABAJO, CAPACITACIÓN Y PREVISIÓN SOCIAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 145.
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2011)
@@ -2135,8 +2039,6 @@ Corresponde a la Comisión de Fortalecimiento Municipal, el conocimiento y dicta
 
 I. Coadyuvar en la capacitación y actualización a los integrantes de los ayuntamientos y su personal de apoyo, sobre las atribuciones que las leyes y reglamentos les señalen;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 II. Del servicio civil de carrera en los municipios, conjuntamente con la Comisión de la Función Pública;
@@ -2149,13 +2051,9 @@ V. Las disposiciones relativas a la municipalización de los programas de desarr
 
 VI. Las bases para la elaboración del plan trianual de desarrollo y los programas operativos anuales de los municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 CIENCIA, TECNOLOGÍA E INNOVACIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2215,13 +2113,9 @@ VII. Las normas mediante las cuales se asegure que los distintos programas de go
 
 VIII. Lo relativo a la organización estatal y municipal de las madres jefas de familia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 ATENCIÓN A MIGRANTES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2229,23 +2123,17 @@ ATENCIÓN A MIGRANTES
 
 Corresponde a la Comisión de Atención a Migrantes, el conocimiento y dictamen de los asuntos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 I. De los relacionados con los movimientos migratorios y la procuración de beneficios para el Estado;
 
 II. De los asuntos relativos al Instituto Estatal de Migración;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 III. De la coadyuvancia en la defensa de los derechos humanos de los migrantes zacatecanos;
 
 IV. De la atención a las organizaciones de los migrantes zacatecanos en la Unión Americana; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2259,8 +2147,6 @@ Corresponde a la Comisión de Ecología y Medio Ambiente, el conocimiento y dict
 
 I. Los relativos a la preservación y restauración del equilibrio ecológico y la protección al ambiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 II. La normatividad que tenga que ver con el equilibrio ecológico, la preservación del ambiente, el saneamiento de los ríos y en comisiones unidas con la Comisión de Agua y Saneamiento, conocer de los asuntos relacionados con el agua;
@@ -2271,13 +2157,9 @@ IV. La promoción y apoyo a los estudios relacionados con los recursos naturales
 
 V. La promoción de la cultura y conocimiento de la ecología entre niñas, niños y jóvenes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 AGRICULTURA, GANADERÍA Y DESARROLLO RURAL SUSTENTABLE
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2285,13 +2167,9 @@ AGRICULTURA, GANADERÍA Y DESARROLLO RURAL SUSTENTABLE
 
 Corresponde a la Comisión de Agricultura, Ganadería y Desarrollo Rural, el conocimiento y dictamen de los asuntos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 I. La normatividad relacionada con la agricultura, ganadería y desarrollo rural en el Estado y la comercialización de los productos primarios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2299,11 +2177,7 @@ II. La promoción de acuerdos y convenios necesarios para lograr la comercializa
 
 III. La promoción de los acuerdos y convenios entre las dependencias del Gobierno Estatal y el Gobierno Federal para establecer cupos de producción de frijol;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 IV. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2311,65 +2185,43 @@ V. La normatividad para lograr estímulos para la industrialización de los prod
 
 VI. La promoción bajo un acuerdo especial de estímulos fiscales para la creación de empresas agroindustriales en el Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 VII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 VIII. La promoción de acuerdos con los zacatecanos residentes en los Estados Unidos de Norteamérica para que inviertan en agroindustrias;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 IX. Las bases normativas para la capacitación, organización y reconversión productiva;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 X. La atención a las distintas organizaciones que tengan relación con el desarrollo rural y la producción agropecuaria;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XI. La normatividad necesaria para lograr la organización estatal de productores agrícolas y ganaderos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XII. De las leyes en materia de desarrollo rural sustentable y sus reformas y adiciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XIII. Los relacionados con los planes y programas de gobierno cuyo objetivo sea el fomento y desarrollo de la agricultura y la ganadería en el Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XIV. Los que se relacionen con las acciones que realice el gobierno estatal en materia de agricultura y ganadería, que sean de competencia del Estado, de conformidad con la legislación aplicable en la materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XV. Los referentes a las acciones que se realicen en materia de fomento agrícola y ganadero;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XVI. Los referentes a la promoción de acciones y acuerdos entre los gobiernos federal, estatal y municipales, así como de los sectores social y privado cuyo objeto sea la agricultura y la ganadería en el Estado, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2377,23 +2229,17 @@ XVII. Las iniciativas de Ley, reforma o punto de acuerdo, relativas a los fracci
 
 COMISIÓN DE ORGANIZACIÓN DE PRODUCTORES Y RAMAS DE PRODUCCIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 153.
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2011)
 
 RESERVAS TERRITORIALES Y LOTES BALDÍOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 154.
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2011)
 
 AGUA Y SANEAMIENTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 155.
 
@@ -2413,19 +2259,13 @@ IV. El tratamiento y aprovechamiento de las aguas residuales, en unión con la C
 
 EDITORIAL, COMUNICACIÓN Y DIFUSIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 156.
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 CULTURA, EDITORIAL Y DIFUSIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2437,67 +2277,45 @@ I. Fomentar el desarrollo de la cultura en general;
 
 II. Promover el desarrollo cultural de la entidad y vincularse con las instituciones culturales del Estado; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 III. Fomentar programas que tiendan a analizar y mejorar las condiciones culturales en el Estado, en coordinación con las instituciones educativas correspondientes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 IV. Las iniciativas de Ley, reforma o punto de acuerdo, relativas al desarrollo cultural en el Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 V. Supervisar la publicación del diario de los debates, así como proponer al Pleno el programa anual de comunicación y difusión y el programa editorial;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 VI. Llevar la relación con los medios de comunicación y propiciar que la actividad de la Legislatura se difunda con objetividad en todo el territorio del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 VII. Elaborar la memoria del trabajo desarrollado en la Legislatura;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 VIII. Promover ediciones de las obras relativas al trabajo legislativo, al desarrollo estatal, a la investigación histórica y jurídica y, en general, de todo aquello que sea de interés cultural para la Entidad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 IX. Mantener comunicación permanente con las instituciones educativas, los partidos políticos, los organismos de la sociedad civil y profesionales y con los medios informativos, a fin de coadyuvar en proyectos editoriales de interés general;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 X. Impulsar la participación de los diputados en las tareas editoriales, en la que se refleje la pluralidad de los grupos parlamentarios, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 XI. Preservar las obras editadas por la Legislatura, elaborar un catálogo de las mismas y verificar el ingreso a su acervo bibliotecario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 FUNCIÓN PÚBLICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2513,13 +2331,9 @@ IV. De la legislación en materia de servicio civil o profesional de carrera del
 
 V. El desempeño del Tribunal Local de Conciliación y Arbitraje y de la Junta Local de Conciliación (sic) Arbitraje.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 TURISMO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2537,13 +2351,9 @@ V. Participar como representante de la Legislatura en los consejos o comités tu
 
 VI. En coordinación con la Comisión de Cultura, sobre las normas que tengan que ver con la promoción de las artesanías.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 ATENCIÓN A GRUPOS VULNERABLES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2557,13 +2367,9 @@ III. Conocer e impulsar acciones que conlleven a la realización de planes y pro
 
 IV. Promover la coordinación entre los tres órdenes de gobierno, así como con instituciones y organismos de la sociedad civil especializados en el fomento, promoción y atención a personas con discapacidad, adultos mayores y otros grupos vulnerables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 CULTURA FÍSICA Y DEPORTE
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
@@ -2627,7 +2433,9 @@ IV. La Dirección de Administración y Finanzas, apoyará las funciones relativa
 
 La Secretaría General, además, tendrá a su cargo, como órganos de apoyo a la actividad legislativa, la coordinación de las siguientes unidades:
 
-I. (DEROGADA, P.O. 12 DE JULIO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2017)</small>
+
+I. El Instituto de Investigaciones Legislativas;
 
 II. Coordinación de Comunicación Social; y
 
@@ -2657,9 +2465,7 @@ I. Subdirección de Procesos Legislativos;
 
 II. Subdirección de Asuntos Jurídicos; y
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2010)</small>
-
-III. Instituto de Investigaciones Legislativas.
+III. (DEROGADA, P.O. 15 DE MARZO DE 2017)
 
 ###### ARTÍCULO 165.
 
@@ -2843,11 +2649,15 @@ P.O. 20 DE MAYO DE 2015.
 
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-Artículo segundo.- La Secretaría General del Poder Legislativo será responsable de crear la Unidad de Igualdad de Género, misma que estará adscrita a la Dirección de Procesos Legislativos y Asuntos Jurídicos dentro del Instituto de Investigaciones Legislativas. Lo que hará dentro de los 90 días contados a partir del inicio de vigencia de este decreto modificatorio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2017)</small>
+
+Artículo segundo.- La Secretaría General del Poder Legislativo será responsable de crear la Unidad para el Adelanto de las Mujeres y la Igualdad de Género, misma que estará adscrita al Instituto de Investigaciones Legislativas. Lo que hará dentro de los 90 días contados a partir del inicio de vigencia de este decreto modificatorio.
 
 El o la titular de dicha Unidad deberá reunir los requisitos que se establecen en el artículo 233 del Reglamento General del Poder Legislativo del Estado de Zacatecas.
 
-Artículo Tercero.- Para efecto de incorporar la Unidad de Estudios para el Adelanto de las Mujeres y la Igualdad de Género, al Manual de Organización de esta Legislatura y se genere su respectivo Manual de Procedimientos, se establecerán como facultades las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2017)</small>
+
+Artículo Tercero.- Para efecto de incorporar la Unidad para el Adelanto de las Mujeres y la Igualdad de Género al Manual de Organización de esta Legislatura y se genere su respectivo Manual de Procedimientos, se establecerán como facultades las siguientes:
 
 I. Realizar estudios en materia de derechos humanos de las mujeres e igual entre los géneros.
 
@@ -2857,8 +2667,22 @@ III. Apoyar las actividades legislativas proporcionando estudios e información 
 
 IV. Impulsar a través de la comisión en la materia que los marcos jurídicos y normativos que expida el Poder Legislativo del Estado de Zacatecas, promuevan la igualdad de género, los derechos humanos y el adelanto de las mujeres de manera objetiva, imparcial y oportuna.
 
-V. Impulsar a través de la Secretaría General y la Dirección de Procesos Legislativos y Asuntos Jurídicos, convenios de colaboración con otros congresos estatales, universidades, centros académicos, dependencias gubernamentales, fundaciones y organizaciones de la sociedad civil, a fin de intercambiar información y promover seminarios que permitan impulsar y consolidar la cultura de igualdad de géneros en la sociedad zacatecana, y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+
+V. Impulsar a través de la Secretaría General, convenios de colaboración con otros congresos estatales, universidades, centros académicos, dependencias gubernamentales, fundaciones y organizaciones de la sociedad civil, a fin de intercambiar información y promover seminarios que permitan impulsar y consolidar la cultura de igualdad de géneros en la sociedad zacatecana, y
 
 VI. Las demás que establezca la presente Ley, el Reglamento General y lo que determinen los ordenamientos complementarios.
 
 Artículo Cuarto.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 119.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y EL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Artículo tercero.- La Comisión de Planeación, Patrimonio y Finanzas y la Dirección de Administración y Finanzas de la LXII Legislatura, durante el mes de enero 2017, formularán una propuesta ante la CRICP para otorgar un respaldo financiero que permita al Instituto cumplir con sus tareas institucionales.
+
+Esta misma LXII Legislatura, establecerá una partida específica en su Presupuesto de Gasto para el Instituto de Investigaciones Legislativas a partir del ejercicio fiscal 2018, la cual, será acorde con el Programa de Trabajo del Instituto aprobado por el Pleno de la Legislatura. Comprenderá, principalmente, su gasto corriente, un fondo para promover y participar en actividades académicas así como el respaldo para la actualización y profesionalización de los investigadores.
