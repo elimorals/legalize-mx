@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2015-08-10"
+last_updated: "2017-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -133,9 +133,17 @@ XX. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo
 
 XXI. Síndico: El Síndico del Ayuntamiento;
 
-XXII. Tesorería: La Tesorería del Ayuntamiento; y
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
 
-XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento.
+XXII. Tesorería: La Tesorería del Ayuntamiento:
+
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
+
+XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento; y
+
+> <small>(ADICIONADA, G.O. 15 DE MARZO DE 2017)</small>
+
+XXIV. Zona Económica Especial: Al área geográfica del territorio nacional, determinada en forma unitaria o por secciones, sujeta al régimen especial previsto en la Ley Federal de Zonas Económicas Especiales, en la cual se podrán realizar Actividades Económicas Productivas.
 
 ###### Artículo 3.
 
@@ -282,6 +290,12 @@ Los aprovechamientos son ingresos que percibe el Municipio en sus funciones de d
 Los productos son contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de sus bienes de dominio privado.
 
 También se consideran productos los ingresos provenientes de la venta de primera mano que, por la explotación de sus bienes de dominio privado, hagan los Ayuntamientos al realizar actividades agrícolas, ganaderas, pesqueras, silvícolas o cualesquiera otras de naturaleza similar.
+
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2017)</small>
+
+###### Artículo 22 Bis.
+
+Se exentará toda contribución, aprovechamiento o producto por el uso, goce o disfrute de los bienes que se encuentren dentro de las Zonas Económicas Especiales, así como por los servicios previstos en el Convenio de Coordinación.
 
 ###### Artículo 23.
 
@@ -5036,3 +5050,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Los ayuntamientos que dispongan de Código Hacendario Municipal propio deberán proponer al Congreso del Estado las reformas correspondientes, con el propósito de ajustarlos a las disposiciones contenidas en el presente Decreto, en el plazo de treinta días hábiles contados a partir de la entrada en vigor del mismo.
+
+G.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LOS SIGUIENTES ORDENAMIENTOS: DEL CÓDIGO HACENDARIO MUNICIPAL, DEL CÓDIGO DE DERECHOS, DE LA LEY DE FOMENTO ECONÓMICO, DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL, Y DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
