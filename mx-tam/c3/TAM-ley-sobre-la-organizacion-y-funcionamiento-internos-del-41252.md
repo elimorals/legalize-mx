@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2017-02-21"
+last_updated: "2017-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1223,27 +1223,43 @@ h) Preservar la dignidad de la representación popular que tienen conferida con 
 
 3. Los Diputados que funjan como representantes del Poder Legislativo en organismos descentralizados, que formen parte de comisiones, comités, consejos o asambleas, deberán rendir ante el Pleno del H. Congreso del Estado un informe anual de las actividades desempeñadas.
 
+###### ARTÍCULO 69.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2017)</small>
+
+1. La dieta de los diputados será disminuida cuando incurran en ausencia a una sesión, reunión de Comisión o Comité, sin previo aviso o habiendo realizado éste se determine injustificada la causa en que se motiva por parte del Presidente de la Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+2. Se consideran causas justificadas las siguientes:
+
+a) Enfermedad o cualquier otra razón relacionada con la salud;
+
+b) Gestación y maternidad;
+
+c) Atención de alguna situación relevante propia de su encargo como representante popular; y
+
+d) Atención de alguna encomienda oficial conferida por el Pleno, las Comisiones o los Comités.
+
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
 
-###### ARTICULO 69.
+3. Las causas antes descritas deberán acreditarse mediante constancias o documentales que permitan determinar la justificación de la ausencia.
 
-1. La dieta de los diputados será disminuida cuando incurran en ausencia a una sesión, reunión de Comisión o Comité, sin previo aviso o habiendo realizado éste se determine injustificada la causa en que se motiva por parte del Presidente de la Mesa Directiva. Se consideran causas justificadas las siguientes:
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
 
-a) Enfermedad o cualquier otra razón relacionada con la salud.
+4. Previo aviso al Presidente de la Mesa Directiva, los diputados podrán ausentarse hasta en tres ocasiones consecutivas de las sesiones del Pleno en un mismo período ordinario. Para ausentarse por más sesiones requerirán licencia aprobada por el Pleno.
 
-b) Atención de alguna situación relevante propia de su encargo como representante popular.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
 
-c) Atención de alguna encomienda oficial conferida por el Pleno, las Comisiones o los Comités.
+5. Cuando sin justificación algún diputado dejara de concurrir a seis sesiones dentro del mismo periodo ordinario, perderá el derecho de asistir al mismo con la disminución de la dieta correspondiente en los términos de esta ley, siempre que no se desintegre el quórum por su falta.
 
-2. Las causas antes descritas deberán acreditarse mediante constancias o documentales que permitan determinar la justificación de la ausencia.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
 
-3. Previo aviso al Presidente de la Mesa Directiva, los diputados podrán ausentarse hasta en tres ocasiones consecutivas de las sesiones del Pleno en un mismo periodo ordinario. Para ausentarse por más sesiones requerirán licencia aprobada por el Pleno.
+6. La disminución de la dieta corresponderá a los días de su ausencia injustificada. El Presidente de la Mesa Directiva dará cuenta a la Secretaría General de las inasistencias que en ejercicio de sus atribuciones haya determinado no justificadas, instruyéndola para que realice los trámites administrativos conducentes.
 
-4. Cuando sin justificación algún diputado dejara de concurrir a seis sesiones dentro del mismo periodo ordinario, perderá el derecho de asistir al mismo con la disminución de la dieta correspondiente en los términos de esta ley, siempre que no se desintegre el quórum por su falta.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2017)</small>
 
-5. La disminución de la dieta corresponderá a los días de su ausencia injustificada. El Presidente de la Mesa Directiva dará cuenta a la Secretaria General de las inasistencias que en ejercicio de sus atribuciones haya determinado no justificadas, instruyéndola para que realice los trámites administrativos conducentes.
-
-6. También será causa para la disminución en las dietas la ausencia a tres o más reuniones consecutivas de cualquiera de las comisiones o comités de las que forme parte el diputado. En su caso, el Presidente de la comisión o comité hará la notificación por escrito al Presidente de la Mesa Directiva para los efectos del párrafo anterior, debiendo entregarse copia al interesado de dicha notificación.
+7. También será causa para la disminución en las dietas la ausencia injustificada a las comisiones o comités de las que forme parte el diputado. En su caso, el Presidente de la comisión o comité hará la notificación por escrito al Presidente de la Mesa Directiva para los efectos del párrafo anterior, debiendo entregarse copia al interesado de dicha notificación.
 
 ###### ARTICULO 70.
 
@@ -2823,7 +2839,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 24 DE ABRIL DE 2014.
 
-DECRETO NÚMERO LXII-225 POR EL CUAL SE REFORMAN LOS INCISOS W) Y X), Y SE ADICIONA EL INCISO Y) AL ARTÍCULO 35 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULlPAS.
+DECRETO NÚMERO LXII-225 POR EL CUAL SE REFORMAN LOS INCISOS W) Y X), Y SE ADICIONA EL INCISO Y) AL ARTÍCULO 35 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2831,7 +2847,7 @@ El Presente decreto entrará en vigor a partir de su expedición, y se publicar�
 
 P.O. 24 DE ABRIL DE 2014.
 
-DECRETO NÚMERO LXII-230 MEDIANTE EL CUAL SE REFORMA EL INCISO K) DEL PÁRRAFO 2 DEL ARTÍCULO 35 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULlPAS.
+DECRETO NÚMERO LXII-230 MEDIANTE EL CUAL SE REFORMA EL INCISO K) DEL PÁRRAFO 2 DEL ARTÍCULO 35 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2930,3 +2946,11 @@ P.O. 21 DE FEBRERO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
+
+P.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-143 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 69 PÁRRAFOS 1 Y 6; Y SE ADICIONA UN PÁRRAFO 2, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES PÁRRAFOS 2 AL 6 PARA SER 3, 4, 5, 6 Y 7 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición, y se mandará a su publicación en el Periódico Oficial del Estado.
