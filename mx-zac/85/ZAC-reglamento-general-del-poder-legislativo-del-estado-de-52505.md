@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2015-06-24"
+last_updated: "2017-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -1303,21 +1303,19 @@ Cuando la Legislatura se encuentre en receso, la terna será sometida a la consi
 
 #### Sección segunda. Del nombramiento y remoción de los magistrados del Tribunal Estatal Electoral
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2017)</small>
+
 ###### Artículo 150.
 
-Los Magistrados del Tribunal Estatal Electoral, serán nombrados por las dos terceras partes de los miembros presentes de la Legislatura o, en su caso, de la Comisión Permanente, de acuerdo con la Constitución, la Ley y la Ley Orgánica del Poder Judicial del Estado.
+Los Magistrados del Tribunal de Justicia Electoral del Estado de Zacatecas serán nombrados de forma escalonada, en términos de la legislación federal electoral, por el Senado de la República.
 
 ###### Artículo 151.
 
-En lo relativo al trámite de las propuestas, se aplicará el artículo 149 del presente Reglamento, sin perjuicio de lo establecido en la fracción IV del artículo 76 de la Ley Orgánica del Poder Judicial del Estado.
+(DEROGADO, P.O. 15 DE MARZO DE 2017)
 
 ###### Artículo 152.
 
-Si la Legislatura se encuentra en receso se seguirá el siguiente procedimiento:
-
-I. La Secretaría General informará de inmediato al Presidente de la Comisión Permanente de la recepción de la terna, a fin de que se dé lectura de la propuesta en sesión de la misma, y
-
-II. Se turnará el expediente a una comisión especial que para tal efecto se constituya; esta comisión entrevistará a los candidatos y verificará el cumplimiento de los requisitos de elegibilidad.
+(DEROGADO, P.O. 15 DE MARZO DE 2017)
 
 #### Sección tercera. Del nombramiento y remoción de los magistrados del Tribunal de lo Contencioso Administrativo
 
@@ -1333,11 +1331,13 @@ En lo relativo al proceso de las ternas, se aplicará el artículo 149 del prese
 
 #### Sección primera. Del nombramiento y remoción del Presidente y consejeros de la Comisión Estatal de Derechos Humanos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2017)</small>
+
 ###### Artículo 155.
 
-El Presidente y los consejeros de la Comisión Estatal de Derechos Humanos, serán designados por la Legislatura con el voto de las dos terceras partes de sus miembros presentes, a propuesta que le formulen los coordinadores de los Grupos Parlamentarios y que presente la Comisión de Régimen Interno al Pleno.
+El Presidente y los consejeros de la Comisión de Derechos Humanos del Estado, serán designados por la Legislatura conforme al procedimiento de consulta pública establecido en la ley local en materia de derechos humanos, respetando las bases correspondientes previstas en dicho ordenamiento.
 
-En lo conducente se aplicará el procedimiento establecido en el artículo 149 de este Reglamento y la Comisión de Derechos Humanos deberá presentar el dictamen correspondiente al Pleno.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE MARZO DE 2017)</small>
 
 ###### Artículo 156.
 
@@ -1345,15 +1345,17 @@ El Presidente y los consejeros de la Comisión Estatal de Derechos Humanos será
 
 #### Sección segunda. Del nombramiento y remoción del Presidente y consejeros del Consejo General del Instituto Electoral del Estado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2017)</small>
+
 ###### Artículo 157.
 
-El Consejero Presidente y los consejeros electorales serán designados por la Legislatura con el voto de las dos terceras partes de sus miembros presentes, a propuesta de los Grupos Parlamentarios y que presente la Comisión de Régimen Interno al Pleno.
+El Consejero Presidente y los consejeros electorales serán designados y removidos por el Consejo General del Instituto Nacional Electoral en términos de la legislación federal de la materia.
 
-En lo conducente se aplicará el procedimiento establecido en el artículo 149 de este Reglamento y la Comisión de Asuntos Electorales deberá presentar el dictamen correspondiente al Pleno.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE MARZO DE 2017)</small>
 
 ###### Artículo 158.
 
-El Consejero Presidente y los consejeros electorales serán removidos de sus cargos en los términos del Título VII de la Constitución.
+(DEROGADO, P.O. 15 DE MARZO DE 2017)
 
 #### Sección primera. De las licencias y permisos de los diputados
 
@@ -1411,15 +1413,13 @@ El Gobernador no podrá dejar el territorio del Estado ni el ejercicio de sus fu
 
 Cuando las ausencias de los Magistrados del Tribunal Superior de Justicia del Estado excedan de tres meses, el Gobernador someterá a la consideración de la Legislatura una terna para cubrir la vacante y se procederá de conformidad con el procedimiento señalado en el artículo 152 de este Reglamento.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE MARZO DE 2017)</small>
+
 #### Sección quinta. De las licencias de los Magistrados del Tribunal de lo Contencioso Administrativo del Estado y Municipios
 
 ###### Artículo 166.
 
-La Legislatura podrá conceder licencias a los Magistrados del Tribunal Estatal Electoral, cuando excedan de un mes.
-
-El Tribunal Superior de Justicia del Estado presentará a la Legislatura la solicitud de licencia que previamente le envíe el Presidente del Tribunal Estatal Electoral, señalando las causas que la motivaron. Una vez recibida en la Secretaría General se dará cuenta de ella a la Comisión de Régimen Interno y a la Mesa Directiva quien la dará a conocer al Pleno. La Comisión Jurisdiccional deberá emitir el dictamen correspondiente.
-
-Para la designación del Magistrado que deberá cubrir el cargo durante el término de la licencia, se procederá de conformidad con el procedimiento establecido en este Reglamento.
+(DEROGADO, P.O. 15 DE MARZO DE 2017)
 
 #### Sección Primera. De la declaración de Gobernador electo y la expedición del Bando Solemne
 
@@ -2051,7 +2051,11 @@ XXXIX. Las demás que le instruya el Pleno o los Órganos de Gobierno.
 
 Son unidades de apoyo directo de la Secretaría General, las siguientes:
 
-I. (DEROGADA, P.O. 8 DE MAYO DE 2010)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2017)</small>
+
+I. El Instituto de Investigaciones Legislativas.
+
+La coordinación que la Secretaría General mantenga con el Instituto de Investigaciones Legislativas y el apoyo que éste deba proporcionarle, serán bajo el esquema de trabajo armonizado con la Comisión de Estudios Legislativos y Prácticas Parlamentarias;
 
 II. La Coordinación de Comunicación Social, y
 
@@ -2103,11 +2107,11 @@ VIII. Sugerir el establecimiento de nuevos servicios a los usuarios y la mejorí
 
 IX. Participar en la aplicación de sanciones y en el levantamiento de actas administrativas del personal a su cargo, conforme a la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2017)</small>
 
 ###### Artículo 230.
 
-El Instituto de Investigaciones Legislativas, estará adscrito a la Dirección de Procesos Legislativos y Asuntos Jurídicos y tendrá las siguientes funciones:
+El Instituto de Investigaciones Legislativas, tendrá las siguientes funciones:
 
 I. Elaborar proyectos de iniciativas, proporcionar los servicios de consultoría respecto de la aplicación e interpretación de la Ley, reglamentos, práctica y usos parlamentarios, así como realizar estudios legislativos;
 
@@ -2133,7 +2137,9 @@ X. Monitorear las leyes y reformas aprobadas por el Congreso de la Unión y las 
 
 XI. Diseñar y operar programas de investigación y difusión de los temas relacionados con el estudio, historia, funciones, actividad y prácticas parlamentarias;
 
-XII. Proporcionar apoyo técnico consultivo para la formulación de iniciativas;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+
+XII. Proporcionar apoyo técnico consultivo a diputados y sus asesores para la formulación de iniciativas y, en los casos que así lo determine la Comisión de Estudios Legislativos y Prácticas Parlamentarias, elaborar sus iniciativas;
 
 XIII. Diseñar manuales de procedimientos y prácticas legislativas, así como proponer las reformas a los mismos;
 
@@ -2145,7 +2151,25 @@ XV. Elaborar el proyecto de programa anual de las actividades del Instituto así
 
 XVI. Desarrollar estudios e investigaciones en el tema de adelanto de las mujeres y la igualdad de género, generando información y estadística sobre este tema, apoyando a la Comisión de la materia en la revisión para que la legislación local promueva y respete el adelanto de las mujeres y la igualdad de género, y
 
-XVII. Las demás que se le encomienden a través de la Comisión de Estudios Legislativos y Prácticas Parlamentarias y la Secretaría General.
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+
+XVII. Coadyuvar con propuestas para la conformación de la Agenda Legislativa, misma que debe integrar la Comisión de Régimen Interno y Concertación Política, además, debe asumir tareas para su implementación, conforme lo determine la Secretaría General;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+
+XVIII. Coadyuvar en la emisión de la revista institucional del Poder Legislativo y coordinar el programa editorial para la difusión de estudios legislativos, prácticas y régimen parlamentario y otras publicaciones referidas a la historia, desempeño, desafíos y logros del Poder Legislativo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+
+XIX. Rendir informe de su trabajo ante la Comisión de Estudios Legislativos y Prácticas Parlamentarias, quince días antes de la terminación normal de cada periodo ordinario de sesiones. Dicha comisión dará cuenta del informe ante el pleno antes de concluir el periodo respectivo;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+
+XX. Desarrollar investigación sobre antecedentes, evolución, desafíos y consolidación del régimen municipal en el estado de Zacatecas, y
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+
+XXI. Las demás que le encomiende el Pleno, la Comisión Permanente, la Comisión de Régimen Interno y Concertación Política, la Comisión de Estudios Legislativos y Prácticas Parlamentarias y la Secretaría General.
 
 ###### Artículo 231.
 
@@ -2303,13 +2327,9 @@ VIII. Revisar que todos los actos jurídicos que deban ser suscritos por cualqui
 
 IX. Emitir opinión sobre las reformas y adiciones a la Ley, el presente Reglamento y los manuales de organización de la Legislatura;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2010)</small>
+X. (DEROGADA, P.O. 15 DE MARZO DE 2017)
 
-X. Dirigir, coordinar y supervisar el Instituto de Investigaciones Legislativas, y
-
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
-
-XI. Impulsar, supervisar y coordinar a través del Instituto de Investigaciones Legislativas, las actividades de la Unidad de Estudios para el Adelanto de las Mujeres y la Igualdad de Género, y
+XI. (DEROGADA, P.O. 15 DE MARZO DE 2017)
 
 XII. Las demás que le encomiende la Secretaría General.
 
@@ -2530,3 +2550,13 @@ P.O. 24 DE JUNIO DE 2015.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 119.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y EL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Artículo tercero.- La Comisión de Planeación, Patrimonio y Finanzas y la Dirección de Administración y Finanzas de la LXII Legislatura, durante el mes de enero 2017, formularán una propuesta ante la CRICP para otorgar un respaldo financiero que permita al Instituto cumplir con sus tareas institucionales.
