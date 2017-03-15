@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-integrar-los-rangos-correspondientes-a-76882"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2010-10-08"
-last_updated: "2013-01-30"
+last_updated: "2017-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76882&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-09-14"
 ---
 # LINEAMIENTOS PARA INTEGRAR LOS RANGOS CORRESPONDIENTES A LOS CUERPOS DE LA FUNCION DIRECTIVA Y EL DE TECNICOS, Y ESTABLECER EL PROCEDIMIENTO PARA OTORGAR PROMOCIONES EN RANGO A LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO QUINTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA INTEGRAR LOS RANGOS CORRESPONDIENTES A LOS CUERPOS DE LA FUNCIÓN EJECUTIVA Y DE LA FUNCIÓN TÉCNICA Y EL PROCEDIMIENTO PARA OTORGAR PROMOCIONES EN RANGO A LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL EN EL SISTEMA DEL INSTITUTO, PUBLICADO EN EL D.O.F. DE 15 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA INTEGRAR LOS RANGOS CORRESPONDIENTES A LOS CUERPOS DE LA FUNCIÓN DIRECTIVA Y EL DE TÉCNICOS, Y ESTABLECER EL PROCEDIMIENTO PARA OTORGAR PROMOCIONES EN RANGO A LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MARZO DE 2017 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, número 6 del viernes 8 de octubre de 2012.
 
@@ -83,7 +85,7 @@ Considerando
 
 21. Que de conformidad con el artículo 214 del Estatuto del Servicio Profesional Electoral y del Personal del Instituto Federal Electoral, para el otorgamiento de promociones en la estructura de rangos del Servicio se considerarán al menos los resultados de la evaluación del desempeño, los resultados del Programa de Formación y/o Actualización Permanente, los méritos obtenidos y, en su caso, las sanciones de conformidad con los lineamientos respectivos.
 
-22. .Que tal y como lo señala el tercer párrafo del artículo 218 del Estatuto del Servicio Profesional Electoral y del Personal del Instituto Federal Electoral, los incentivos serán independientes de las promociones en rango, así como de las remuneraciones correspondientes al cargo o puesto que ocupen los miembros del Servicio.
+22. Que tal y como lo señala el tercer párrafo del artículo 218 del Estatuto del Servicio Profesional Electoral y del Personal del Instituto Federal Electoral, los incentivos serán independientes de las promociones en rango, así como de las remuneraciones correspondientes al cargo o puesto que ocupen los miembros del Servicio.
 
 23. Que en razón de que el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, establece que a ninguna ley se le dará efecto retroactivo en perjuicio de persona alguna, se estima procedente mantener la operación del "Acuerdo de la Junta General Ejecutiva del Instituto Federal Electoral por el que se actualizan los Lineamientos y Procedimiento para otorgar Promociones a los miembros del Servicio Profesional Electoral, aprobados mediante acuerdo de la Junta General Ejecutiva el 30 de noviembre de 2000 y modificados el 28 de septiembre de 2005", identificado como Acuerdo JGE115/2008, de fecha 15 de diciembre de 2008, a fin de preservar los derechos adquiridos en todo aquello que beneficie a los intereses de los miembros del Servicio Profesional Electoral.
 
@@ -96,6 +98,8 @@ Considerando
 27. Que en cumplimiento a establecido en los artículos Octavo y Vigésimo Segundo Transitorios del Estatuto del Servicio Profesional Electoral y del Personal del Instituto Federal Electoral, la Junta General Ejecutiva someterá a consideración del Consejo General el "Proyecto de Acuerdo de la Junta General Ejecutiva por el que se aprueba proponer al Consejo General del Instituto Federal Electoral los Lineamientos para integrar los rangos correspondientes a los Cuerpos de la Función Directiva y el de Técnicos, y establecer el procedimiento para otorgar promociones en rango a los miembros del Servicio Profesional Electoral", a fin de que dicho ordenamiento sea emitido a más tardar en septiembre, de conformidad con los plazos previstos en los artículos transitorios previamente señalados.
 
 En virtud de los antecedentes, las consideraciones expuestas y con fundamento en los artículos 14, primer párrafo; 41, párrafo segundo, Base V, párrafo primero y segundo de la Constitución Política de los Estados Unidos Mexicanos; 104; 105, numeral 3; 106, numeral 1; 108; 116, numeral 2; 118, numeral 1; 204 numerales 1, 2, 3, y 4, y 205 numeral 1, inciso a) del Código Federal de Instituciones y Procedimientos Electorales; 8 fracción VIII; 16 párrafo segundo; 25; 29; 30; 31; 32; 56; 204; 212; 214; 218, párrafo tercero; Octavo y Vigésimo Segundo Transitorios del Estatuto del Servicio Profesional Electoral y del Personal del Instituto Federal Electoral, se presenta a continuación el "Proyecto de Lineamientos para integrar los rangos correspondientes a los Cuerpos de la Función Directiva y el de Técnicos, y establecer el procedimiento para otorgar promociones en rango a los miembros del Servicio Profesional Electoral".
+
+Acuerdo
 
 Acuerdo
 
@@ -746,3 +750,19 @@ Décimo. Cuando se suspenda la impartición del Programa de Formación, la DESPE
 D.O.F. 30 DE ENERO DE 2013.
 
 UNICO.- Las presentes reformas y adiciones entrarán en vigor, al día siguiente hábil de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE MARZO DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA INTEGRAR LOS RANGOS CORRESPONDIENTES A LOS CUERPOS DE LA FUNCIÓN EJECUTIVA Y DE LA FUNCIÓN TÉCNICA Y EL PROCEDIMIENTO PARA OTORGAR PROMOCIONES EN RANGO A LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL EN EL SISTEMA DEL INSTITUTO.]</small>
+
+Primero. Se aprueban los Lineamientos para integrar los rangos correspondientes a los Cuerpos de la Función Ejecutiva y de la Función Técnica, y el procedimiento para otorgar promociones en rango a los Miembros del Servicio Profesional Electoral Nacional en el sistema del Instituto que, conforme al anexo único, forman parte integrante del presente Acuerdo.
+
+Segundo. Se instruye a la DESPEN difundir entre los Miembros del Servicio Profesional Electoral Nacional del sistema para el Instituto, los Lineamientos referidos en el Punto Primero del presente Acuerdo, una vez que los apruebe el Consejo General del Instituto.
+
+Tercero. Los presentes Lineamientos entrarán en vigor al día hábil siguiente al de su aprobación por el Consejo General del Instituto.
+
+Cuarto. Se abroga el Acuerdo JGE115/2008 de fecha 15 de diciembre de 2008, denominado “Acuerdo de la Junta General Ejecutiva del Instituto Federal Electoral por el que se actualizan los Lineamientos y procedimiento para otorgar promociones a los Miembros del Servicio Profesional Electoral, aprobados mediante Acuerdo de la Junta General Ejecutiva el 30 de noviembre de 2000 y modificados el 28 de septiembre de 2005”.
+
+Quinto. Se abrogan los “Lineamientos para integrar los rangos correspondientes a los Cuerpos de la Función Directiva y el de Técnicos, y establecer el procedimiento para otorgar promociones en rango a los miembros del Servicio Profesional Electoral”, publicados en el Diario Oficial de la Federación el 8 de octubre de 2010 (CG350/2010) y los reformados (CG01/2013) y publicados en el Diario Oficial de la Federación el 30 de enero de 2013 y el Acuerdo JGE143/2010, denominado Acuerdo de la Junta General Ejecutiva del Instituto Federal Electoral, por el que se emite el Anexo Técnico de los “Lineamientos para Integrar los Rangos correspondientes a los Cuerpos de la Función Directiva y el de Técnicos, y establecer el Procedimiento para otorgar promociones en Rango a los Miembros del Servicio Profesional Electoral”, que contiene las Tablas para la Valoración de Méritos Administrativos y las Reglas para Modificar el esquema de Percepciones del Personal de Carrera que obtenga Promoción en la Estructura de Rangos del Servicio Profesional Electoral
+
+Sexto. Publíquese el presente Acuerdo en la Gaceta Electoral del Instituto Nacional Electoral y en el Diario Oficial de la Federación.
