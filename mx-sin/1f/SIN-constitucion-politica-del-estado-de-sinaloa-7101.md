@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2017-03-13"
+last_updated: "2017-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -160,6 +160,10 @@ X. Todas las personas tienen derecho al libre acceso al internet y a las tecnolo
 > <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN X], P.O. 1 DE FEBRERO DE 2017)</small>
 
 El Estado y los Municipios deberán garantizar el acceso a internet gratuito inalámbrico de banda ancha, en los edificios e instalaciones de los diversos Poderes del Estado y de las dependencias y entidades de su administración, así como en los lugares públicos que para el efecto se determinen.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+
+XI. Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
 
@@ -3980,3 +3984,9 @@ P.O. 13 DE MARZO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 86 QUE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 4 BIS B DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+Único.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, "El Estado de Sinaloa".
