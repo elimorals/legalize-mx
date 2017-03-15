@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2017-03-10"
+last_updated: "2017-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -1277,6 +1277,34 @@ XVII.- Realizar estudios de impacto social y económico de la legislación vigen
 
 XVIII.- Las demás inherentes a la consecución de las anteriores y las que expresamente le señale la Legislatura.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+ARTICULO 92 BIS.- El Instituto de Investigaciones Legislativas contará con una Unidad de Igualdad de Género, como área especializada para llevar a cabo las actividades de investigación en temas relativos a la igualdad entre mujeres y hombres, además de ser la rectora de la política en materia de igualdad de género, que fomente entre el personal nuevas relaciones laborales de manera equitativa, igualitaria y respetuosa a fin de transformar al Poder Legislativo en sus estructuras y cultura institucional.
+
+Las actividades que realice la Unidad en términos de las atribuciones que esta Ley le confiere, serán supervisadas por la Comisión para la Igualdad de Género del Poder Legislativo y por el Titular del Instituto de Investigaciones Legislativas.
+
+La Unidad de Igualdad de Género, tendrá las siguientes atribuciones:
+
+I.- Elaborar y someter a la aprobación de la Comisión para la Igualdad de Género, el Programa Anual de Trabajo de la Unidad, para fortalecer la igualdad de género del Poder Legislativo del Estado;
+
+II.- Realizar y difundir investigaciones estratégicas encaminadas a contribuir en la toma de decisiones legislativas para disminuir la desigualdad entre mujeres y hombres;
+
+III.- Elaborar el diagnóstico y el anteproyecto para adecuar sistemáticamente la normatividad existente con perspectiva de género;
+
+IV.- Brindar asesoría en materia de igualdad de género a la Legislatura;
+
+V.- Impulsar que la selección del personal y los ascensos que se realicen por la Oficialía Mayor del Poder Legislativo, se otorguen con base en criterios de transparencia e igualdad de género e inclusión de la diversidad social y elaborar diagnósticos que permitan identificar brechas de desigualdad de género que se presenten en la estructura organizacional del Poder Legislativo;
+
+VI.- Coadyuvar a las Comisiones Ordinarias, cuando éstas así lo consideren con la asesoría en sus anteproyectos de iniciativas de ley en materia de igualdad de género;
+
+VII.- Elaborar el protocolo para la prevención, atención y sanción del hostigamiento y acoso sexual en el Poder Legislativo, mismo que deberá ser sometido a aprobación de la Legislatura;
+
+VIII.- Realizar acciones con las organizaciones de la sociedad civil e instituciones académicas que trabajen temas de igualdad de género con el fin de vincularlas con la labor que realiza la unidad;
+
+IX.- Elaborar, preparar e impartir cursos de capacitación enfocados a fortalecer la igualdad de género dentro del Poder Legislativo, y
+
+X.- Las demás inherentes a la consecución de las anteriores y las que expresamente le señale la Legislatura.
+
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ### CAPITULO IV. DE LA DIRECCION DE APOYO JURIDICO
@@ -2362,3 +2390,15 @@ P.O. 10 DE MARZO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones vigentes que contravengan lo dispuesto en el presente decreto.
+
+P.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 049 POR EL QUE SE ADICIONA EL ARTÍCULO 92 BIS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La Oficialía Mayor del Poder Legislativo a propuesta del Presidente de la Gran Comisión, deberá nombrar al titular de la Unidad de Igualdad de Género del Instituto de Investigaciones Legislativas, dentro de los quince días hábiles siguientes a la publicación del presente decreto.
+
+TERCERO. El titular de la Unidad de Igualdad de Género del Instituto de Investigaciones Legislativas, deberá elaborar y someter a la aprobación de la Comisión para la Igualdad de Género de la Legislatura, el Programa Anual de Trabajo de la Unidad, en un plazo no mayor de treinta días naturales posteriores a su nombramiento.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
