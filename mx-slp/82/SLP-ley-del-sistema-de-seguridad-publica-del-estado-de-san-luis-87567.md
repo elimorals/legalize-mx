@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2017-03-04"
+last_updated: "2017-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -43,23 +43,45 @@ LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
 ### Capítulo Unico
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 1°.
 
-Las disposiciones de esta Ley son de orden público, interés social y observancia general en el territorio del Estado de San Luis Potosí; tienen por objeto regular la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, así como establecer la distribución de competencias y bases de coordinación en la materia, de las autoridades del Estado y de los municipios para la realización de la función de seguridad pública.
+Esta Ley es de orden público, interés social y de observancia general en el territorio del Estado de San Luis Potosí; y tiene por objeto:
 
-Este Ordenamiento es reglamentario de las disposiciones contenidas en los artículos, 21, y 115 fracción VII, de la Constitución Política de los Estados Unidos Mexicanos; y de la Ley General del Sistema Nacional de Seguridad Pública, en relación con los artículos, 80 fracción XVI, 88, 89, y 114 fracción III incisos h) y j) párrafo quinto, de la Constitución Política del Estado.
+I. Regular la distribución de competencias en materia de seguridad pública que efectúen el Gobierno Estatal y los municipios;
+
+II. Fijar las bases de coordinación del Gobierno Estatal y los municipios con la Federación, otras entidades federativas y sus municipios;
+
+III. Integrar el Sistema Estatal de Seguridad Pública, que contribuirá con el Sistema Nacional de Seguridad Pública, y
+
+IV. Establecer las bases mínimas a que estarán sujetas las instituciones de seguridad pública estatal y municipal.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 2°.
 
-La seguridad pública es una función a cargo del Estado y los ayuntamientos, que tiene como fines salvaguardar la integridad y derechos de las personas; así como preservar las libertades, el orden y la paz; comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y persecución de los delitos, además la reinserción social del individuo en términos de esta Ley.
+La seguridad pública es una función a cargo del Gobierno Estatal y los municipios, que tiene como fines salvaguardar la integridad y derechos de las personas; así como preservar las libertades, el orden y la paz; comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y persecución de los delitos, además la reinserción social del individuo en términos de esta Ley.
 
-El Estado desarrollará políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de éstos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+El Gobierno Estatal y los municipios en coordinación con la Federación, desarrollarán políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de éstos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+
+Además de los fines que estipula el párrafo primero de este artículo, la seguridad pública tiene como propósito hacer efectiva la seguridad ciudadana prevista en las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+###### ARTICULO 2 Bis.
+
+Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional; se regirán por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos previstos en la Constitución Federal. Deberán fomentar la participación ciudadana y rendir cuentas en términos de ley y demás normas aplicables.
 
 ###### ARTICULO 3°.
 
 La función de seguridad pública se realizará en los diversos ámbitos de competencia por conducto de las instituciones policiales, del Ministerio Público, de las instancias encargadas de aplicar las infracciones administrativas, de los responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes, así como por las demás instancias que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+ARTICULO 3 BIS. Cuando no exista disposición expresa en la materia en esta Ley, se aplicará supletoriamente, la Ley General; y los lineamientos generales y específicos que dicten los consejos Nacional y Estatal de Seguridad Pública. Sólo cuando no se encuentre regulada la materia o la acción en la ley o en los lineamientos generales, las resoluciones o los acuerdos de que se trate se ejecutarán mediante convenios generales y específicos entre las partes integrantes del Sistema Estatal, siempre que no se opongan a los fines de esta Ley.
+
+Los convenios generales y específicos a que refiere el párrafo anterior, establecerán esquemas que garanticen su debido cumplimiento y las sanciones a las que, de conformidad con la normatividad correspondiente, se harán acreedores los servidores públicos en caso de incumplimiento.
 
 ###### ARTICULO 4°.
 
@@ -185,9 +207,21 @@ V. Aprobar el programa de seguridad pública;
 
 VI. Proveer la exacta observancia de la presente Ley;
 
-VII. Promover la participación social para estimular propuestas de solución a los problemas de seguridad pública y prevención de conductas antisociales, y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
 
-VIII. Las demás que le confieren esta Ley y los ordenamientos legales aplicables.
+VII. Promover la participación social para estimular propuestas de solución a los problemas de seguridad pública y prevención de conductas antisociales;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+
+VIII. Ejercer el mando de las instituciones policiales de los municipios, en casos de fuerza mayor o alteración grave del orden público;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+
+IX. Representar al Estado ante el Consejo Nacional, y
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+
+X. Las demás que le confieren esta Ley y los ordenamientos legales aplicables.
 
 ###### ARTICULO 13.
 
@@ -519,25 +553,25 @@ Los cuerpos de seguridad pública estarán sujetos a la licencia oficial colecti
 
 Tratándose de la licencia oficial colectiva concedida a la Dirección General de la Policía Investigadora del Estado, ésta permanece bajo la titularidad del Procurador General de Justicia del Estado.
 
-## TITULO QUINTO. DEL USO DE LA FUERZA PUBLICA
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
 
-### Capítulo Unico
+## TÍTULO QUINTO. DEL USO DE LA FUERZA PUBLICA
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
+
+### Capítulo Único
 
 ###### ARTICULO 38.
 
-Los elementos de seguridad pública cumplirán en todo momento los deberes que les impone esta Ley; y protegerán a la comunidad y a las personas de actos ilegales.
-
-Respetarán y protegerán la dignidad humana, observando en todo momento el respeto de los derechos humanos y sus garantías.
+(DEROGADO, P.O. 15 DE MARZO DE 2017)
 
 ###### ARTICULO 39.
 
-Los elementos de seguridad pública podrán usar la fuerza sólo cuando sea estrictamente necesario, y en la medida que lo requiera en el desempeño de sus funciones, y su uso deberá ser proporcional al objeto legítimo que se pretende lograr. El uso de armas de fuego deberá considerarse como una medida extrema.
-
-Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos y sus garantías. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
+(DEROGADO, P.O. 15 DE MARZO DE 2017)
 
 ###### ARTICULO 40.
 
-Cuando se demuestre que el uso de la fuerza es desproporcional al grado de resistencia que pretende repeler, se deberá considerar como un acto contrario a la ley, y sancionado conforme al marco legal aplicable.
+(DEROGADO, P.O. 15 DE MARZO DE 2017)
 
 ## TITULO SEXTO. DE LOS ORGANISMOS DE COORDINACION EN MATERIA DE SEGURIDAD PUBLICA
 
@@ -769,9 +803,11 @@ XXII. Fortalecer los sistemas de seguridad social de los servidores públicos, s
 
 XXIII. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la seguridad pública.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 50.
 
-La coordinación de los cuerpos de seguridad pública en caso de siniestro y accidentes, se establecerá de acuerdo a lo que previene la Ley de Protección Civil del Estado de San Luis Potosí.
+La coordinación de los cuerpos de seguridad pública en caso de siniestro y accidentes, se establecerá de acuerdo a lo que previene la Ley del Sistema de Protección Civil del Estado de San Luis Potosí.
 
 ## TITULO SEPTIMO. DE LOS MIEMBROS DE LOS CUERPOS DE SEGURIDAD PUBLICA
 
@@ -1961,7 +1997,7 @@ El Comité de Prevención del Delito y Participación Ciudadana deberá proporci
 
 ## TITULO DECIMO TERCERO. DE LOS SERVICIOS ESPECIALES DE SEGURIDAD PUBLICA
 
-### Capitulo Único
+### Capítulo Único
 
 ###### ARTICULO 146.
 
@@ -1977,7 +2013,11 @@ IV. Otros servicios relacionados con sus atribuciones.
 
 La dependencia fijará la forma y número de efectivos en que dichos servicios sean prestados, siempre y cuando las necesidades del servicio lo permitan; los derechos que se causen serán enterados en las cajas de las oficinas recaudadoras de la Secretaría de Finanzas de Gobierno del Estado o, en su caso, en la tesorería del municipio correspondiente.
 
-## TITULO DECIMO CUARTO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
+
+## TÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
 
 ### Capítulo Único
 
@@ -1985,23 +2025,25 @@ La dependencia fijará la forma y número de efectivos en que dichos servicios s
 
 ###### ARTICULO 147.
 
-Los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado, deberán obtener autorización previa de la Secretaría; cuando los servicios comprendan dos o más entidades federativas, deberá contar además con la autorización del gobierno federal, sin eximirle del cumplimiento a la regulación de la ley que sobre la materia expida el Congreso del Estado.
-
-Además deberán cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos.
+(DEROGADO, P.O. 15 DE MARZO DE 2017)
 
 ###### ARTICULO 148.
 
-Los servicios de seguridad privada son auxiliares a la función de seguridad pública; sus integrantes coadyuvarán con las autoridades y las instituciones de seguridad pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente de la Federación, el Estado, y los municipios, de acuerdo a los requisitos y condiciones que establezca la autorización respectiva.
+(DEROGADO, P.O. 15 DE MARZO DE 2017)
 
 ###### ARTICULO 149.
 
-Los particulares que se dediquen a estos servicios, así como el personal que utilicen, se regirán en lo conducente por las normas aplicables que se establecen para las instituciones de seguridad pública; incluyendo los principios de actuación y desempeño, y la obligación de aportar los datos para el registro de su personal y equipo y, en general, proporcionar la información estadística y sobre la delincuencia a la autoridad correspondiente.
+(DEROGADO, P.O. 15 DE MARZO DE 2017)
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2015)</small>
 
 ## TITULO DECIMO QUINTO. DE LA VIDEOVIGILANCIA PUBLICA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2015)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 150.
 
@@ -2207,6 +2249,88 @@ Cuando se cometan infracciones a éste capítulo por parte de particulares y pre
 
 Las sanciones establecidas en el presente capítulo, serán independientes de las que resulten por la comisión de delitos contenidos en la legislación penal, o civil, o la que resulte de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
+
+## TÍTULO DÉCIMO SEXTO. DEL PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+###### ARTICULO 171.
+
+El programa estatal es el instrumento programático en materia de seguridad pública. Será elaborado por la Secretaría en los términos previstos por la Ley de Planeación del Estado y Municipios de San Luis Potosí, mismo que revisará y aprobará el Consejo Estatal, dentro del mes siguiente a su presentación.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+###### ARTICULO 172.
+
+El programa estatal deberá de estar de acuerdo con los planes Nacional y Estatal de Desarrollo, con los instrumentos programáticos nacionales equivalentes establecidos en la Ley General, y con los objetivos y metas convenidos, tanto en el marco del sistema nacional como del sistema estatal.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+###### ARTICULO 173.
+
+Para la elaboración y actualización del programa estatal deberá tomar en cuenta la opinión y planteamientos que hagan:
+
+I. Las instituciones de seguridad pública de Gobierno del Estado y municipios;
+
+II. Los consejos que en materia de seguridad pública prevea esta Ley; y
+
+III. Cualquier otra instancia y persona interesada en el tema.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+###### ARTICULO 174.
+
+El Programa Estatal deberá prever lo siguiente:
+
+I. La política pública en materia de seguridad pública;
+
+II. Las metas y objetivos de dicha política;
+
+III. Las acciones a realizar en materia de prevención del delito;
+
+IV. El diagnóstico de la situación de la seguridad pública en la Entidad;
+
+V. Las estrategias e indicadores;
+
+VI. Las instancias responsables de su ejecución, y
+
+VII. Las demás que se requieran para su debido cumplimiento.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+###### ARTICULO 175.
+
+El programa estatal deberá actualizarse cada año, de acuerdo con la realidad en la materia que prevalezca en la Entidad.
+
+El Programa estatal y su actualización deberán publicarse en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
+
+## TÍTULO DÉCIMO SÉPTIMO. DE LAS INSTALACIONES ESTRATÉGICAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
+
+###### ARTICULO 176.
+
+Para efectos de esta Ley se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Federal, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado Mexicano, en términos de la Ley de Seguridad Nacional.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+###### ARTICULO 177.
+
+Las instituciones de seguridad pública coadyuvaran con las instancias de seguridad federales, en la protección y desarrollo de las acciones necesarias para la vigilancia de las instalaciones estratégicas, para garantizar su integridad y operación, de conformidad con los acuerdos generales que al efecto se dicten.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
+###### ARTICULO 178.
+
+Las instituciones de seguridad pública están obligadas a ejecutar los acuerdos del Consejo Nacional, respecto del bloqueo de las señales de telefonía celular en las instalaciones estratégicas.
+
 T R A N S I T O R I O S
 
 PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2306,3 +2430,11 @@ P.O. 4 DE MARZO DE 2017.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0583.- SE REFORMA LOS ARTÍCULOS, 1°, 2°, 12 EN SUS FRACCIONES, VII, Y VIII, Y 50; ADICIONA LOS ARTÍCULOS, 2° BIS, Y 3° BIS, AL ARTÍCULO 12 LAS FRACCIONES, IX, Y X, EL TÍTULO DÉCIMO SEXTO "DEL PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA" CON UN CAPÍTULO ÚNICO Y LOS ARTÍCULOS, 171 A 175, Y EL TÍTULO DÉCIMO SÉPTIMO "DE LAS INSTALACIONES ESTRATÉGICAS" CON CAPÍTULO ÚNICO Y LOS ARTÍCULOS, 176 A 178; Y DEROGA EL TÍTULO QUINTO, SU CAPÍTULO ÚNICO Y SUS ARTÍCULOS, 38 A 40, Y EL TÍTULO DÉCIMO CUARTO, SU CAPÍTULO ÚNICO, Y LOS ARTÍCULOS, 147 A 149, DE Y A LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
