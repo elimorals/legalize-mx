@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-jge11-2012-de-la-junta-general-ejecutiva-del-86458"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-03-06"
-last_updated: "2012-03-06"
+last_updated: "2017-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86458&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-01-30"
 ---
 # ACUERDO JGE11/2012 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE ACTUALIZAN LOS LINEAMIENTOS QUE REGULAN EL PROCEDIMIENTO EN MATERIA DE INCONFORMIDADES APROBADOS MEDIANTE ACUERDO JGE85/2010
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE REGULAN EL PROCEDIMIENTO EN MATERIA DE INCONFORMIDADES QUE FORMULEN LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL CON MOTIVO DE LOS RESULTADOS QUE OBTENGAN EN SUS EVALUACIONES DEL DESEMPEÑO DEL SISTEMA INE, PUBLICADO EN EL D.O.F. DE 15 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE ACTUALIZAN LOS LINEAMIENTOS QUE REGULAN EL PROCEDIMIENTO EN MATERIA DE INCONFORMIDADES APROBADOS MEDIANTE ACUERDO JGE85/2010
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MARZO DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 6 de marzo de 2012.
 
@@ -260,3 +262,19 @@ Una vez que la DESPE cuente con los nuevos dictámenes de resultados de la evalu
 ###### Artículo 25.
 
 La DESPE deberá notificar los nuevos dictámenes de resultados de la evaluación del desempeño que corresponda a cada inconforme en un periodo no mayor a 30 días hábiles posteriores a su aprobación, con lo cual se tendrá por concluido el procedimiento.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE MARZO DE 2017.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE REGULAN EL PROCEDIMIENTO EN MATERIA DE INCONFORMIDADES QUE FORMULEN LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL CON MOTIVO DE LOS RESULTADOS QUE OBTENGAN EN SUS EVALUACIONES DEL DESEMPEÑO DEL SISTEMA INE”.]</small>
+
+Primero. Se aprueban los Lineamientos que regulan el procedimiento en materia de inconformidades que formulen los miembros del Servicio Profesional Electoral Nacional con motivo de los resultados que obtengan en sus evaluaciones del desempeño del sistema INE, en los términos del documento adjunto al presente Acuerdo.
+
+Segundo. Se abrogan (sic) el Acuerdo JGE11/2012 a través del cual la Junta General Ejecutiva actualizó los Lineamientos que regulan el Procedimiento en materia de inconformidades aprobados mediante Acuerdo JGE85/2010.
+
+Tercero. Los presentes Lineamientos entrarán en vigor al día hábil siguiente de su aprobación.
+
+Cuarto. Los presentes Lineamientos serán aplicables a partir de las inconformidades que se presenten por los resultados de la Evaluación del Desempeño de 2016.
+
+Quinto. El presente Acuerdo deberá publicarse en el Diario Oficial de la Federación y en la Gaceta del Instituto Nacional Electoral.
