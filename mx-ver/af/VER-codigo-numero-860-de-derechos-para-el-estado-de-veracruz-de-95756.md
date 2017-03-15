@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2016-08-19"
+last_updated: "2017-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2017.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -1123,9 +1123,9 @@ actualización de la vigencia de un
 
 dictamen de arrendamiento: 1 salario mínimo
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2017)</small>
 
-Se exceptúan del pago de derechos por la expedición de avalúos comerciales, dictámenes de arrendamiento y la corrección de datos o la actualización de la vigencia correspondiente, relativos a bienes propiedad del Estado o de los Ayuntamientos. Asimismo, se exceptúan a las autoridades fiscales, cuando soliciten avalúos comerciales dentro de las (sic) substanciación del procedimiento administrativo de ejecución.
+Se exceptúan del pago de derechos por la expedición de avalúos comerciales, dictámenes de arrendamiento y la corrección de datos o la actualización de la vigencia correspondiente, relativos a bienes propiedad del Estado o de los Ayuntamientos. Asimismo, se exceptúan a las autoridades fiscales, cuando soliciten avalúos comerciales dentro de la substanciación del procedimiento administrativo de ejecución. También se exceptúa el pago de estos derechos en Municipios donde se encuentren establecidas Zonas Económicas Especiales, conforme a su Decreto de creación.
 
 ###### Artículo 14.
 
@@ -6930,3 +6930,11 @@ G.O. 19 DE AGOSTO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 257 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LOS SIGUIENTES ORDENAMIENTOS: DEL CÓDIGO HACENDARIO MUNICIPAL, DEL CÓDIGO DE DERECHOS, DE LA LEY DE FOMENTO ECONÓMICO, DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL, Y DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
