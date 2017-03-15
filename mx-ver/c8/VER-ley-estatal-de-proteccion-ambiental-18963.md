@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2016-11-11"
+last_updated: "2017-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 62 ESTATAL DE PROTECCIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2017.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
@@ -157,7 +157,7 @@ XXXI.- Manifestación del impacto ambiental: El documento mediante el cual se da
 
 XXXII.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia.
 
-XXXIII.- Material peligroso: Elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico–infecciosas.
+XXXIII.- Material peligroso: Elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas.
 
 XXXIV.- Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.
 
@@ -205,11 +205,17 @@ XLVIII Ter.- Sistemas de Verificación: Conjunto de acciones de control de las e
 
 XLIX.- Tratamiento de aguas residuales: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado.
 
-> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
 
-XLIX Bis. Verificentro: Establecimiento concesionado a un particular por la Secretaría que cumple con las especificaciones de equipamiento, infraestructura, imagen y de procedimientos, establecidas en el Programa de Verificación Vehicular Obligatoria, para realizar pruebas de verificación vehicular tanto estáticas como dinámicas; y
+XLIX Bis. Verificentro: Establecimiento concesionado a un particular por la Secretaría que cumple con las especificaciones de equipamiento, infraestructura, imagen y de procedimientos, establecidas en el Programa de Verificación Vehicular Obligatoria, para realizar pruebas de verificación vehicular tanto estáticas como dinámicas;
 
-L.- Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
+
+L. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos; y
+
+> <small>(ADICIONADA, G.O. 15 DE MARZO DE 2017)</small>
+
+LI. Zonas Económicas Especiales: Área Geográfica del Territorio Nacional, determinada en forma unitaria o por secciones, sujeta al régimen especial previsto en la Ley Federal de Zonas Económicas Especiales, en la cual se podrán realizar actividades económicas productivas.
 
 ### CAPÍTULO II. DE LA CONCURRENCIA Y LAS ATRIBUCIONES
 
@@ -291,7 +297,9 @@ XIV. Ejercer las funciones que en materia de preservación y conservación del e
 
 XV. Formular, ejecutar y evaluar el programa estatal de protección al ambiente;
 
-XVI. Emitir recomendaciones en materia ambiental a las autoridades competentes;
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
+
+XVI. Emitir recomendaciones en materia ambiental a las autoridades competentes, así como determinar la factibilidad de la creación de las Zonas Económicas Especiales dentro del territorio estatal;
 
 XVII. Atender, en coordinación con la Federación, los asuntos que afecten el equilibrio ecológico del Estado con otra entidad federativa;
 
@@ -610,6 +618,10 @@ B) Las autorizaciones para la construcción y operación de establecimientos ind
 C) El otorgamiento de estímulos fiscales orientados a promover la adecuada localización de las actividades productivas.
 
 D) Financiamiento a las actividades económicas para inducir su adecuada localización y en su caso su reubicación.
+
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2017)</small>
+
+E) En la constitución de las Zonas Económicas Especiales en el Estado de Veracruz, dentro de las cuales se deberá destinar una superficie de al menos veinte por ciento para zonas de áreas verdes, que se deberán registrar como una Reserva Ecológica, de acuerdo con la presente Ley y con relación al artículo 46 de la Ley General de Equilibrio Ecológico y de Protección al Ambiente.
 
 III.- En lo que se refiere a los asentamientos humanos, será considerado en:
 
@@ -3238,3 +3250,11 @@ QUINTO. Para llevar a cabo las actividades derivadas de las facultades transferi
 SEXTO. En tanto se expidan las nuevas normas reglamentarias o reformas correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
 
 SÉPTIMO. Las donaciones, compensaciones, multas o cuotas voluntarias de los trámites administrativos relacionados con los servicios prestados por la Secretaría, la Procuraduría y los Municipios en materia forestal, tendrán un fin específico relacionado con la protección y restauración del medio ambiente del Estado de Veracruz y serán depositados en el Subfiso del Fondo Forestal Estatal.
+
+G.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 257 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LOS SIGUIENTES ORDENAMIENTOS: DEL CÓDIGO HACENDARIO MUNICIPAL, DEL CÓDIGO DE DERECHOS, DE LA LEY DE FOMENTO ECONÓMICO, DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL, Y DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
