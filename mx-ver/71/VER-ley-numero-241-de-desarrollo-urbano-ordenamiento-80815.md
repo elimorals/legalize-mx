@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-241-de-desarrollo-urbano-ordenamiento-80815"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-13"
-last_updated: "2015-12-25"
+last_updated: "2017-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2017.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 13 de abril de 2011.
 
@@ -165,9 +165,17 @@ XXXIII. Silencio administrativo: La presunción de la existencia de una decisió
 
 XXXIV. Subdivisión: La partición de un terreno en dos o más fracciones, que no requiera el trazo de vías públicas; en su caso, puede generar servidumbre de paso cuando el predio dominante no tenga acceso por vía pública;
 
-XXXV. Suelo para vivienda: Los terrenos física y legalmente susceptibles de ser ocupados predominantemente para uso habitacional, conforme a las disposiciones aplicables; y
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
 
-XXXVI. Zona conurbada: La continuidad geográfica, demográfica, económica y social, que comprende más de un municipio, que haga necesario llevar a cabo una planeación integral de ese territorio; puede ser intra o interestatal.
+XXXV. Suelo para vivienda: Los terrenos física y legalmente susceptibles de ser ocupados predominantemente para uso habitacional, conforme a las disposiciones aplicables;
+
+> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
+
+XXXVI. Zona conurbada: La continuidad geográfica, demográfica, económica y social, que comprende más de un municipio, que haga necesario llevar a cabo una planeación integral de ese territorio; puede ser intra o interestatal; y
+
+> <small>(ADICIONADA, G.O. 15 DE MARZO DE 2017)</small>
+
+XXXVII. Zonas Económicas Especiales: Área Geográfica del Territorio Nacional, determinada en forma unitaria o por secciones, sujeta al régimen especial previsto en la Ley Federal de Zonas Económicas Especiales, en la cual se podrán realizar actividades económicas productivas.
 
 ###### Artículo 3.
 
@@ -1145,6 +1153,10 @@ Toda persona física o moral que pretenda ejecutar una acción de desarrollo urb
 
 La evaluación del impacto ambiental que, conforme a la legislación de la materia, deba realizar la autoridad competente, considerará los efectos de dichas acciones sobre la estructura y el desarrollo de los asentamientos humanos en la región de que se trate. Dicha evaluación se integrará a los dictámenes de desarrollo urbano integral sustentable o de factibilidad regional sustentable, según sea el caso, que servirán de base, entre otros requisitos, para el otorgamiento de las licencias municipales correspondientes.
 
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2017)</small>
+
+Por cuanto hace a las Zonas Económicas Especiales, deberán realizarse los dictámenes conforme a lo acordado en los Convenios de Coordinación entre los Municipios, el Estado y la Federación, así como lo que determine la Ley Federal de Zonas Económicas Especiales.
+
 ###### Artículo 70.
 
 Quienes realicen acciones por las que se constituyan nuevos espacios urbanos estarán obligados a realizar, por su cuenta, las obras de urbanización y a proyectar y localizar las superficies para áreas verdes y equipamiento que satisfagan las necesidades generadas por dichos espacios. Para tal efecto, el Reglamento establecerá obligaciones equivalentes para fraccionamientos, relotificaciones, subdivisiones, desarrollos inmobiliarios habitacionales, comerciales y de servicios, industriales, mixtos o turísticos y demás modalidades del desarrollo urbano.
@@ -1308,6 +1320,12 @@ Para la edificación de conjuntos habitacionales, comerciales y de servicios, mi
 Los promotores de estos conjuntos estarán obligados a ejecutar las obras de conexión a las redes de infraestructura y cubrir el pago de los derechos correspondientes, así como a establecer áreas de donación equivalentes a las reglamentarias para los distintos tipos de fraccionamientos, ya sea que se entreguen a la autoridad competente o que sean administradas por ellos, según se convenga.
 
 La obligación de realizar obras de infraestructura en estos conjuntos podrá ser cumplida mediante la ejecución directa de las mismas por el promotor o el propietario, o el pago al organismo operador respectivo del costo de dichas obras.
+
+> <small>(ADICIONADO, G.O. 15 DE MARZO DE 2017)</small>
+
+###### Artículo 91 Bis.
+
+Para la conformación de las Zonas Económicas Especiales, se estará a lo previsto en el Convenio de Coordinación entre los Municipios, el Estado y la Federación, así como lo que determine la Ley Federal de la materia.
 
 ### CAPÍTULO SÉPTIMO. Medidas de Seguridad
 
@@ -1475,7 +1493,7 @@ Gobernador del Estado
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 28 DE ABRIL DE 2015.
 
@@ -1500,3 +1518,11 @@ G.O. 25 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 257 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LOS SIGUIENTES ORDENAMIENTOS: DEL CÓDIGO HACENDARIO MUNICIPAL, DEL CÓDIGO DE DERECHOS, DE LA LEY DE FOMENTO ECONÓMICO, DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL, Y DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
