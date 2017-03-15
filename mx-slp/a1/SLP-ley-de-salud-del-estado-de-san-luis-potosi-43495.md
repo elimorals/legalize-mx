@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2017-02-28"
+last_updated: "2017-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -155,9 +155,9 @@ II. La atención médica ginecológica a todas las mujeres, en especial a las qu
 
 III. La atención e información sobre el ejercicio responsable de la sexualidad y reproducción humanas, métodos anticonceptivos, planificación familiar desde sexto año de primaria, y en las clínicas y hospitales de todos los niveles;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
 
-IV. La salud mental y los trastornos alimenticios;
+IV. La salud mental, los trastornos alimenticios, y el suicidio;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -1173,9 +1173,9 @@ II. La difusión de las orientaciones para la promoción de la salud mental;
 
 III. La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes, y otras substancias que puedan causar alteraciones mentales o dependencia;
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2009)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE MARZO DE 2017)</small>
 
-IV. La realización de programas de detección temprana de padecimientos mentales relacionados con la depresión, y
+IV. Los mecanismos tendientes a la prevención y tratamiento de conductas suicidas por causa de trastornos mentales y del comportamiento, y
 
 V. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
@@ -4260,3 +4260,11 @@ SEGUNDO. El titular del Poder Ejecutivo del Estado expedirá, dentro de los nove
 TERCERO. La Coordinación intersecretarial se instalará dentro de los treinta días naturales siguientes al de la vigencia de este Decreto.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la ley contenida en este Decreto.
+
+[N. DE. E. TRANSITORIOS DEL "DECRETO 0584.- SE REFORMA (SIC) LOS ARTÍCULOS, 5º EN SU APARTADO A LA FRACCIÓN IV, Y 62 EN SU FRACCIÓN III; Y ADICIONA FRACCIÓN AL ARTÍCULO 62 DE Y A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+P.O. 15 DE MARZO DE 2017.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
