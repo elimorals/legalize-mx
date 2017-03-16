@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2017-02-16"
+last_updated: "2017-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -232,6 +234,14 @@ Además de promover en los educandos el conocimiento, la cultura y el respeto de
 ###### ARTICULO 10.
 
 Los beneficiados directamente por los servicios educativos de los niveles medio superior y superior, deberán prestar servicio social en los términos de las disposiciones reglamentarias correspondientes, como requisito indispensable para obtener título o grado académico.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+En cualquier forma y modalidad de la prestación del servicio social, cada estudiante podrá dentro del tiempo programado para esta actividad, plantar un árbol en el nivel medio superior y superior, o realizar cualquier actividad tendiente a la conservación del medio ambiente.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+Las autoridades educativas, con el propósito de facilitar la conservación de los árboles plantados por los estudiantes, integrarán un registro por institución educativa.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -3930,3 +3940,9 @@ P.O. 16 DE FEBRERO DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. La Secretaria de Educación del Estado de Jalisco, deberá en un término de noventa días hábiles posteriores a la entrada en vigor del presente decreto, adecuar sus reglamentos, programas y demás disposiciones administrativas para el debido cumplimiento del presente decreto.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 26293/LXI/17 QUE ADICIONA DOS PÁRRAFOS AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el 1° de enero de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
