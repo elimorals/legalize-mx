@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2017-01-17"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE, JALISCO
 
-LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
+LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -137,13 +137,17 @@ XXX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resu
 
 XXXI. Vulnerabilidad ambiental: Nivel de susceptibilidad de los ecosistemas o de alguno de sus componentes para soportar diferentes tipos y/o intensidades de impacto ambiental provenientes de las diversas acciones o actividades productivas del desarrollo o por efecto de los eventos naturales;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
-XXXII. Procuraduría: Procuraduría Estatal de Protección al Ambiente, órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial; y
+XXXII. Procuraduría: Procuraduría Estatal de Protección al Ambiente, órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
-XXXIII. Auditoría Ambiental: Examen metodológico de los procesos de una empresa respecto de la contaminación y el riesgo ambiental que generan, el cumplimiento de la normatividad ambiental aplicable, de los parámetros internacionales y de buenas prácticas de operación e ingeniería, con base en los requerimientos establecidos en los Términos de Referencia, y en su caso, las medidas preventivas y correctivas necesarias para proteger al ambiente.
+XXXIII. Auditoría ambiental: Examen metodológico de los procesos de una empresa respecto de la contaminación y el riesgo ambiental que generan, el cumplimiento de la normatividad ambiental aplicable, de los parámetros internacionales y de buenas prácticas de operación e ingeniería, con base en los requerimientos establecidos en los Términos de Referencia, y en su caso, las medidas preventivas y correctivas necesarias para proteger al ambiente; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+
+XXXIV. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -235,9 +239,17 @@ XXXII. Resolver los recursos de revisión que se interpongan con motivo de la ap
 
 XXXIII. Crear, diseñar, construir, operar, supervisar y promover el establecimiento o instalación de plantas dedicadas a la elaboración de composta con los residuos orgánicos recolectados por el servicio municipal de aseo;
 
-XXXIV. Inspeccionar, vigilar, e imponer sanciones, en los asuntos de sus competencias, en cumplimiento de las disposiciones establecidas en esta ley; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
-XXXV. Las demás que se deriven de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y sus disposiciones reglamentarias, la presente ley, y otras disposiciones aplicables.
+XXXIV. Inspeccionar, vigilar, e imponer sanciones, en los asuntos de sus competencias, en cumplimiento de las disposiciones establecidas en esta ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+
+XXXV. Formular y ejecutar acciones de mitigación y adaptación al cambio climático; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2017)</small>
+
+XXXVI. Las demás que se deriven de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y sus disposiciones reglamentarias, la presente ley, y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -321,13 +333,29 @@ XXVI. Proponer al titular del Poder Ejecutivo las bases para la celebración del
 
 Las bases a las que se refiere la presente fracción serán aprobadas mediante acuerdo que deberá ser publicado en el periódico oficial El Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
-XXVII. Impulsar la investigación científica a fin de regular los mecanismos de modificación artificial del clima del Estado de Jalisco; y
+XXVII. Impulsar la investigación científica a fin de regular los mecanismos de modificación artificial del clima del Estado de Jalisco;
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
-XXVIII. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
+XXVIII. Formular, ejecutar y evaluar el Programa Estatal Contra el Cambio Climático, incluyendo medidas de mitigación para las consecuencias negativas y coordinarse con las autoridades competentes para su aplicación en los municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+
+XXIX. Fomentar una cultura preventiva que permita disminuir el grado de vulnerabilidad al fenómeno global del cambio climático;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+
+XXX. Instrumentar mecanismos de convergencia entre la sociedad y el gobierno que permitan desarrollar medidas de adaptación y mitigación para enfrentar el cambio climático;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+
+XXXI. Generar estrategias que permitan a la sociedad conocer e implementar mecanismos de adaptación para afrontar los efectos del cambio climático; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA, P.O. 16 DE MARZO DE 2017)</small>
+
+XXXII. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia ambiental.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -373,13 +401,17 @@ IX. Formular y promover programas para la disminución y reciclado de residuos s
 
 X. Vigilar el cumplimiento de la legislación estatal en materia de prevención y control de la contaminación de la atmósfera generada por fuentes fijas y móviles de jurisdicción local cuya competencia no esté reservada a la federación, así como el aprovechamiento de los recursos naturales, como lo prevén las leyes correspondientes de la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
-XI. Expedir la normatividad correspondiente en materia de contaminación visual; y
+XI. Expedir la normatividad correspondiente en materia de contaminación visual;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
 
-XII. Las demás que le confieren las disposiciones legales y reglamentarias aplicables en materia ambiental.
+XII. Establecer convenios de colaboración con la Secretaria para la formulación, ejecución y evaluación del programa municipal de acciones ante el cambio climático; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2017)</small>
+
+XIII. Las demás que le confieren las disposiciones legales y reglamentarias aplicables en materia ambiental.
 
 ### CAPITULO V
 
@@ -417,7 +449,9 @@ XIII. Es de interés público y social que las actividades que se llevan a cabo 
 
 XIV. El gobierno del estado promoverá, ante la federación y los gobiernos de las entidades federativas vecinas a Jalisco, la preservación y restauración del equilibrio de los ecosistemas regionales;
 
-XV. Quien haga uso de los recursos naturales o realice obras o actividades que directa o indirectamente afecten al ambiente, está obligado a prevenir, minimizar o reparar los costos ambientales que dicha afectación implique. Asimismo, debe incentivarse a quien proteja al ambiente y aproveche de manera sustentable los recursos naturales;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+
+XV. Quien haga uso de los recursos naturales o realice obras o actividades que directa o indirectamente afecten al ambiente, está obligado a prevenir, minimizar o reparar los costos ambientales que dicha afectación implique. Asimismo, debe incentivarse a quien proteja al ambiente y aproveche de manera sustentable los recursos naturales, o realicen acciones de mitigación y adaptación a los efectos del cambio climático;
 
 XVI. La participación de las comunidades, incluyendo a los pueblos indígenas, en la protección, prevención, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda y uso de la biodiversidad, de acuerdo a lo que determine la presente ley y otros ordenamientos aplicables; y
 
@@ -597,9 +631,17 @@ I. La política ambiental en los asentamientos humanos requiere, para ser eficaz
 
 II. Se debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y, a la vez, prever y dirigir las tendencias de crecimiento de los asentamientos humanos, para mantener una relación suficiente entre la base de los recursos naturales existentes y la población, cuidando de los factores ambientales que son parte integrante de la calidad de vida. Para lo cual, la determinación de los usos del suelo, deberá de efectuarse en función de los ordenamientos ecológicos locales que al efecto se expidan;
 
-III. En el entorno construido por el hombre, es indispensable fortalecer las previsiones de carácter ambiental, para proteger y mejorar la calidad de vida de la población y la capacidad de amortiguamiento de los ecosistemas; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
-IV. En la elaboración y aplicación de los programas de desarrollo urbano y planes parciales municipales, se deberán establecer mecanismos de rescate, rehabilitación y mejoramiento de la calidad de vida de la población, principalmente en las zonas de mayor impacto ambiental.
+III. En el entorno construido por el hombre, es indispensable fortalecer las previsiones de carácter ambiental, para proteger y mejorar la calidad de vida de la población y la capacidad de amortiguamiento de los ecosistemas;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+
+IV. En la elaboración y aplicación de los programas de desarrollo urbano y planes parciales municipales, se deberán establecer mecanismos de rescate, rehabilitación y mejoramiento de la calidad de vida de la población, principalmente en las zonas de mayor impacto ambiental; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+
+V. Se debe evitar los asentamientos humanos en zonas donde las poblaciones se expongan al riesgo de desastres por impactos adversos del cambio climático.
 
 ###### Artículo 24.
 
@@ -753,11 +795,11 @@ La Secretaría promoverá la incorporación de contenidos ambientales en los div
 
 El Titular del Ejecutivo del Estado, por conducto de los organismos o dependencias que para tal efecto señale, promoverá el desarrollo de la capacitación y adiestramiento del magisterio estatal, en y para el trabajo, en materia de protección al ambiente, de preservación, restauración y fortalecimiento del equilibrio ecológico, con arreglo a lo que establece esta ley, y de conformidad con los sistemas, métodos y procedimientos que contemple la legislación aplicable. Asimismo, propiciará la incorporación de los contenidos ambientales en los programas de los organismos encargados de regular la seguridad e higiene en el trabajo.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 37.
 
-El Titular del Ejecutivo, la Secretaría y los gobiernos municipales, con arreglo a la ley, fomentarán investigaciones científicas y promoverán programas para el desarrollo de tecnologías y procedimientos alternativos que permitan prevenir, controlar y abatir la contaminación, y propiciar el aprovechamiento sustentable de los ecosistemas, en el ámbito de sus respectivas competencias. Para ello, podrán celebrar convenios con instituciones del sector social y privado, nacionales o internacionales e investigadores y especialistas en la materia.
+El Titular del Ejecutivo, la Secretaría y los gobiernos municipales, con arreglo a la ley, fomentarán investigaciones científicas y promoverán programas para el desarrollo de tecnologías y procedimientos alternativos que permitan prevenir, controlar y abatir la contaminación; propiciar el aprovechamiento sustentable de recursos naturales; preservar, proteger y restaurar los ecosistemas para prevenir desequilibrios ecológicos y daños ambientales, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, nacionales o internacionales e investigadores y especialistas en la materia.
 
 #### SECCION DECIMA
 
@@ -2551,7 +2593,7 @@ P.O. 11 DE OCTUBRE DE 2016.
 
 P.O. 11 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 25878/LXI/16 QUE REFORMA LOS ARTÍCULOS 3 Y 14 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y 27 DE LA LEY DE GESTÍON INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25878/LXI/16 QUE REFORMA LOS ARTÍCULOS 3 Y 14 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y 27 DE LA LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
@@ -2582,5 +2624,11 @@ CUARTO. Los talleres acreditados dentro del actual "Programa de Verificación Ve
 P.O. 17 DE ENERO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 26184/LXI/16 QUE REFORMA EL ARTÍCULO 49 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26294/LXI/17 QUE REFORMA LOS ARTÍCULOS 3°, 5°, 6°, 8°, 9°, 23, 37 DE LA LEY ESTATAL DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, Y REFORMA EL ARTÍCULO 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
