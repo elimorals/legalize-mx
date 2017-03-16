@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-sala-superior-del-tribunal-electoral-9786
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-27"
-last_updated: "2014-01-27"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97864&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-20"
 
 ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN NÚMERO 1/2014, DE VEINTE DE ENERO DE DOS MIL CATORCE, POR EL QUE SE APRUEBA LA IMPLEMENTACIÓN DE REGLAS RELATIVAS AL TRÁMITE DE LOS MEDIOS DE IMPUGNACIÓN QUE RECIBAN LAS SALAS REGIONALES EN CONTRA DE SUS RESOLUCIONES Y MEDIDAS GENERALES APLICABLES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MARZO DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de enero de 2014.
 
@@ -55,9 +55,17 @@ La comunicación electrónica antes señalada será remitida a la cuenta “avis
 
 b) Asimismo, dentro de las tres horas siguientes a su recepción, deberán enviarse a los correos electrónicos establecidos copia digitalizada de la demanda del medio de impugnación, así como de la resolución impugnada.
 
-c) La Sala Regional, a través de su Presidente y por conducto de su Secretario General de Acuerdos, bajo su más estricta responsabilidad, remitirá las constancias de los expedientes por el medio más expedito, previa consulta por vía electrónica a la Secretaría General de Acuerdos de la Sala Superior. Atendiendo la urgencia del asunto, el Secretario General de Acuerdos de la Sala Regional lo enviará acompañado sólo del oficio, que suscribirá.
+> <small>(ADICIONADO, D.O.F. 16 DE MARZO DE 2017)</small>
 
-Segundo. Medidas generales aplicables.
+c) En todos los casos, la persona titular de la Secretaría General de Acuerdos de la Sala Regional de que se trate, deberá certificar la fecha y hora de recepción del medio de impugnación.
+
+d) La Sala Regional, a través de su Presidente y por conducto de su Secretario General de Acuerdos, bajo su más estricta responsabilidad, remitirá las constancias de los expedientes por el medio más expedito, previa consulta por vía electrónica a la Secretaría General de Acuerdos de la Sala Superior. Atendiendo la urgencia del asunto, el Secretario General de Acuerdos de la Sala Regional lo enviará acompañado sólo del oficio, que suscribirá.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 16 DE MARZO DE 2017)</small>
+
+SEGUNDO. A fin de garantizar el derecho de acceso a la justicia, cuando algún medio de impugnación electoral no se presente ante la autoridad u órgano responsable de la emisión de la resolución o acto reclamado, sino directamente ante cualquiera de las Salas del Tribunal Electoral, se deben seguir las reglas antes previstas.
+
+TERCERO. Medidas generales aplicables.
 
 a) Las Secretarías Generales de Acuerdos de las Salas Regionales están obligadas a comunicar con la debida oportunidad, a la Secretaría General de Acuerdos de la Sala Superior, los días en que celebrarán sesiones pública y privada, así como los asuntos que serán listados en las mismas y el estado procesal de los asuntos en instrucción.
 
@@ -80,3 +88,13 @@ Magistrado Presidente, José Alejandro Luna Ramos.- Rúbrica.- Los Magistrados: 
 CERTIFICACIÓN
 
 El suscrito, Secretario de Acuerdos de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, con fundamento en el artículo 201, fracción X, de la Ley Orgánica del Poder Judicial de la Federación, en cumplimiento de las instrucciones del Magistrado José Alejandro Luna Ramos, Presidente de este órgano jurisdiccional, CERTIFICA: Que este presente folio, con número siete, forma parte del Acuerdo General de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación número 1/2014, de veinte de enero de dos mil catorce, referente a la implementación de reglas relativas al trámite de los medios de impugnación que reciban las salas regionales en contra de sus resoluciones y medidas generales aplicables. DOY FE.- México, Distrito Federal, a veinte de enero de dos mil catorce.- El Secretario General de Acuerdos, Felipe de la Mata Pizaña.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN NÚMERO 3/2017, DE NUEVE DE MARZO DE DOS MIL DIECISIETE, POR EL QUE SE MODIFICA EL DIVERSO 1/2014, RELATIVO A LA IMPLEMENTACIÓN DE REGLAS DE TRÁMITE DE LOS MEDIOS DE IMPUGNACIÓN QUE RECIBAN LAS SALAS REGIONALES”.]
+
+PRIMERO. Este acuerdo entrará en vigor al siguiente día de su aprobación.
+
+SEGUNDO. Para su debido conocimiento y cumplimiento, notifíquese por oficio este Acuerdo General a las salas regionales, así como a la Visitaduría Judicial de este Tribunal y publíquese en el Diario Oficial de la Federación y en la Gaceta de Jurisprudencia y Tesis en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, así como en los estrados de las salas superior y regionales y en las páginas que tiene este órgano jurisdiccional de internet e intranet.
