@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2016-12-17"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -73,8 +75,6 @@ Son sujetos de este impuesto, las personas físicas o morales que adquieran veh�
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 6º.
@@ -104,8 +104,6 @@ Años de antigüedad Factor
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 En ningún caso el impuesto será menor a 11 veces el valor de la UMA vigente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -349,13 +347,9 @@ En ningún caso se entenderán exentos del pago del impuesto, los ingresos o pre
 
 ARTICULO 19 QUATER. Para los efectos de este impuesto se consideran sujetos habituales, aquéllas personas que realicen dos o más actividades objeto de éste, en cada ejercicio fiscal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -377,15 +371,11 @@ En el caso de la fracción II de este artículo, las personas morales que contra
 
 Para efectos del presente artículo se entenderá por personas morales, a todas aquéllas que tengan reconocido este carácter por la ley, en términos del artículo 20 del Código Civil para el Estado de San Luis Potosí, incluyendo en forma enunciativa y no limitativa, a las entidades de la administración pública municipal, estatal y federal. Asimismo, se entenderá como personas morales obligadas en términos de este precepto, a las asociaciones en participación y todas aquellas personas que con el carácter de fiduciarios contraten cualesquiera servicios personales, con cargo a un patrimonio fideicomitido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 21.
 
 Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior, así como los gobiernos federal, estatal y municipal, los organismos descentralizados, los desconcentrados, los autónomos y los fideicomisos de los tres órdenes de gobierno.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -398,8 +388,6 @@ La base del impuesto es el monto total de las erogaciones realizadas por concept
 ###### ARTICULO 23.
 
 El Impuesto se causará, liquidará y pagará aplicando la tasa del dos punto cinco por ciento sobre la base que señala el artículo anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -419,21 +407,15 @@ I. Solicitar la devolución de la cantidad pagada indebidamente, o
 
 II. Compensar las cantidades que tenga a su favor contra el importe que deba enterar en el mes siguiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 25.
 
 Los sujetos de este impuesto están obligados a:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 I. Registrarse ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro de los quince días hábiles siguientes a la fecha de inicio de sus operaciones, mediante los formatos que para el efecto expida la Secretaría de Finanzas; las personas morales y las personas físicas, acreditarán esta condición ante la autoridad fiscal estatal, mediante exhibición de la solicitud de inscripción en el registro federal de contribuyentes presentada ante la Secretaría de Hacienda y Crédito Público. En el entendido que las personas morales presentarán además, su acta constitutiva protocolizada ante fedatario, debidamente inscrita en el Registro Público de la Propiedad con los registros que marca la ley. Los fedatarios públicos comunicarán a la autoridad fiscal estatal la constitución de dichas personas morales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -461,15 +443,11 @@ En el caso de que en el Dictamen se determinen diferencias de impuestos a pagar,
 
 VIII. Deberán remitir tal y como se realiza ante el Servicio de Administración Tributaria, al momento de su emisión, el comprobante fiscal digital por Internet respectivo, a través de los mecanismos digitales que para tal efecto determine la Secretaría de Finanzas en su portal electrónico, mediante el instructivo que para el caso emita, siendo éste de carácter general, con el objeto de que la Secretaría de Finanzas proceda a validar el cumplimiento del pago de la contribución del impuesto sobre erogaciones por remuneraciones al trabajo personal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 26.
 
 Las autoridades fiscales podrán determinar y liquidar, incluso presuntivamente, la cantidad del impuesto que deben pagar los contribuyentes, mediante el ejercicio de sus facultades de comprobación, en términos del Código Fiscal del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -541,8 +519,6 @@ IV. El patrón que contrate a personas que padezcan discapacidad motriz y que pa
 
 Se otorgará un estímulo fiscal a quien contrate adultos mayores, consistentes en el equivalente al veinticinco por ciento del salario efectivamente pagado a las personas de 65 años y más. Para estos efectos se deberá considerar la totalidad del salario que sirva de base para calcular, en el ejercicio que corresponda, las retenciones del impuesto de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 28.
@@ -557,13 +533,9 @@ El otorgamiento del incentivo y/o beneficio fiscal de que se trate, se acreditar
 
 Este beneficio no libera a los contribuyentes de cumplir con las obligaciones fiscales previstas en el artículo 25 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO IV BIS. DEL IMPUESTO A LA ADQUISICION DE BIENES INMUEBLES DESINCORPORADOS DEL REGIMEN EJIDAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -571,25 +543,17 @@ ARTICULO 28 BIS. Son sujetos del impuesto que establece el presente capítulo, l
 
 Cuando los adquirentes o beneficiarios sean la Federación, Estados o municipios, así como los organismos públicos descentralizados de cualquiera de los tres órdenes de gobierno, los mismos estarán exentos del pago del impuesto a que refiere este capítulo. Asimismo, estarán exentos los ejidatarios cuando transmitan por cualquier figura legal de uno a otro, bienes desincorporados del régimen ejidal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 28 TER. Es objeto de este impuesto la primera enajenación de bienes inmuebles desincorporados del régimen ejidal, que se ubiquen dentro del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 28 QUATER. La base para el cálculo y determinación del impuesto será la que resulte mayor entre el precio pactado o valor declarado y el valor catastral del inmueble. Para efecto de determinar la base del impuesto deberá atenderse al valor que arroje el avalúo catastral con una antigüedad no mayor de seis meses a partir de la fecha en que se formalice la operación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 28 QUINQUE. El impuesto se calculará y determinará aplicando a la base que señala el artículo anterior, la tasa del diez por ciento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -620,8 +584,6 @@ La base para el cálculo y determinación del impuesto será el importe pagado e
 Para estos efectos, el prestador del servicio de hospedaje, deberá realizar el desglose correspondiente en el comprobante fiscal que expida.
 
 Tratándose de servicios de hospedaje bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto el monto de los pagos que se reciban por cuotas considerando únicamente el importe desglosado del servicio de hospedaje.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -673,41 +635,23 @@ V. Deberán remitir tal y como se realiza ante el Servicio de Administración Tr
 
 Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben pagar los contribuyentes, mediante el ejercicio de sus facultades de comprobación; incluso, en forma presuntiva, en términos del Código Fiscal del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 ### CAPITULO VI. IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHICULOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ARTICULO 36 BIS. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ARTICULO 36 TER. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ARTICULO 36 QUATER. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ARTICULO 36 QUINQUE. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ARTICULO 36 SEXTIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ARTICULO 36 SEPTIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ARTICULO 36 OCTIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ARTICULO 36 NONIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
@@ -803,11 +747,7 @@ b) Por la expedición de copias certificadas fuera del estado, tramitadas por la
 
 c) Por la elaboración de apéndices de Reposición de Libros siniestrados, se cobrara 4.4.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 d) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 e) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
@@ -818,8 +758,6 @@ V. Por la certificación de la copia fiel del libro duplicado se pagara 2.2;
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 VI. Por resolución de enmienda administrativa en actas del Registro Civil, de conformidad a lo establecido en el artículo 136 de la Ley del Registro Civil, se pagarán 5.26;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 VII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2012)
 
@@ -1421,8 +1359,6 @@ d) Bicicletas de Motor 0.20 0.20
 
 VII. Dotación de holograma para identificar facturas electrónicas a vehículos nuevos, cuando realice el movimiento de alta se cobrará 3.3 veces el valor de la UMA vigente, la que deberá adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 La incorporación del holograma antes aludido a la factura electrónica, la valida como original y única para efectos de control vehicular. Entiéndase por factura electrónica la que es expedida conforme a las disposiciones fiscales y resoluciones administrativas emitidas por la Secretaría de Hacienda y Crédito Público, y
@@ -1830,8 +1766,6 @@ IV. (DEROGADA, P.O. 15 DE JULIO DE 2014)
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
 La adjudicación por herencia que se dé a favor de un pariente en línea recta hasta el primer grado, cónyuge o concubina, no causará el derecho a que se refiere este artículo.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -2567,11 +2501,11 @@ III. Certificaciones de copias fotostáticas de documentos que obren en los arch
 
 IV. Copias fotostáticas simples de, códigos, decretos, leyes y demás documentos a los que pueda tener acceso el público, 0.02 por foja.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 93.
 
-Todos los derechos previstos en esta Ley se incrementarán a una tasa del veinticinco por ciento, cuyo importe se destinará, preferentemente, a instituciones públicas y privadas, cuyo fin u objeto sea proporcionar servicios de asistencia social, encaminados a la protección y ayuda de personas, familias, o grupos en situación vulnerable, sin fines lucrativos; en el entendido de que por lo que respecta a las instituciones privadas, además deberán cumplir con los requisitos establecidos por la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí. Dicho gravamen no estará sujeto a disminución o condonación, aunque lo fueren los principales sobre los que se aplica. El Ejecutivo informará al Congreso del Estado, sobre las sumas recaudadas y su aplicación en las cuentas públicas correspondientes. Es obligación de todas las dependencias que conforman la administración pública del Estado, ingresar todas las cantidades que se cobren por este concepto, a la Secretaría de Finanzas.
+Todos los derechos previstos en esta Ley se incrementarán a una tasa del veinticinco por ciento, cuyo importe se destinará, preferentemente, a instituciones públicas y privadas, cuyo fin u objeto sea proporcionar servicios de asistencia social, encaminados a la protección y ayuda de personas, familias, o grupos en situación vulnerable, sin fines lucrativos. Dicho gravamen no estará sujeto a disminución o condonación, aunque lo fueren los principales sobre los que se aplica. El Ejecutivo informará al Congreso del Estado, sobre las sumas recaudadas y su aplicación en las cuentas públicas correspondientes. Es obligación de todas las dependencias que conforman la administración pública del Estado, ingresar todas las cantidades que se cobren por este concepto, a la Secretaría de Finanzas.
 
 ###### ARTICULO 93-A.
 
@@ -2883,19 +2817,13 @@ Las formas valoradas y los planos se venderán conforme a la siguiente tarifa ex
 
 FORMA O PLANO VALOR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 I. Juego de formas para alta y baja de vehículos motorizados. 1.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 II. Juego de formas de solicitud de Registro Estatal Vehicular. 1.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -2903,15 +2831,11 @@ III. Juego de formas de solicitud de inspección en el Padrón 1.00
 
 Mercantil, Industrial y de Servicios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 IV. Juego de formas de solicitud de licencia para manejo de 1.00
 
 vehículos motorizados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -3358,3 +3282,19 @@ P.O. 17 DE DICIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0587.- SE REFORMA EL ARTÍCULO 93 DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ; LOS ARTÍCULOS, 32, 72, 72 BIS, Y 73 Y ADICIONA AL ARTÍCULO 73 LA FRACCIÓN IV, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMA Y ADICIONA EL ARTÍCULO 678 DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis Potosí".
+
+SEGUNDO. Para el caso de la fracción XVIII del artículo 67 que se adiciona en este Decreto a la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, para que las instituciones privadas cuenten con cuando menos el treinta por ciento del total de sus recursos, éste sea de origen en fuentes de financiamiento distinto a las otorgadas con cargo al Presupuesto de Egresos del Estado, se procederá conforme a lo siguiente:
+
+Para el ejercicio fiscal 2018, éstas deberán contar con un diez por ciento del total de sus recursos, que tenga como origen una fuente legal diversa al financiamiento otorgado con cargo al Presupuesto de Egresos del Estado.
+
+Para el ejercicio fiscal 2019, éstas deberán contar con un veinte por ciento del total de sus recursos, que tenga como origen una fuente legal diversa al financiamiento otorgado con cargo al Presupuesto de Egresos del Estado.
+
+Para el ejercicio fiscal 2020, éstas deberán contar con un treinta por ciento del total de sus recursos, que tenga como origen una fuente legal diversa al financiamiento otorgado con cargo al Presupuesto de Egresos del Estado.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
