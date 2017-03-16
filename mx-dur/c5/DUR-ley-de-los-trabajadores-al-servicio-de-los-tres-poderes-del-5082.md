@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2014-12-25"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -515,9 +517,9 @@ II.- A los que hayan prestado veinte años de servicio, dos meses de salario.
 
 III.- A los que hayan prestado servicios durante treinta años, tres meses de salario.
 
-> <small>(REFORMADO PRIMER PÁRAAFO, P.O. 9 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
-###### Artículo 58º.
+###### Artículo 58o.
 
 Queda prohibido a los funcionarios de las Dependencias y Entidades Administrativas Públicas:
 
@@ -643,9 +645,9 @@ Si al término del plazo señalado en el párrafo anterior no ha concluido el pr
 
 En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
-Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se le impondrá una multa de cien a mil veces el salario mínimo general.
+Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, se les impondrá una multa de cien a mil veces la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -737,7 +739,7 @@ En cada uno de los Poderes del Estado funcionará una Comisión Mixta de escalaf
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
 
-###### Artículo 74º.
+###### Artículo 74o.
 
 Los Titulares de las Dependencias y Entidades Administrativas proporcionarán a las Comisiones Mixtas de Escalafón, los medios administrativos y materiales para su efectivo funcionamiento.
 
@@ -803,13 +805,9 @@ El Tribunal de Conciliación y Arbitraje al recibir la solicitud del registro, c
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
-###### Artículo 84.
-
-El Registro de los Sindicatos se cancelará en caso de disolución o cuando aparecieran diversas agrupaciones que fueran mayoritarias; la solicitud de cancelación podrá hacerse por la parte interesada y el Tribunal Laboral Burocrático, en los casos de conflicto entre las agrupaciones que pretenden ser mayoritarias, ordenará desde luego el recuento correspondiente y resolverá de plano el asunto.
-
 ###### Artículo 84o.
 
-El Registro de los Sindicatos se cancelará en caso de disolución o cuando aparecieran diversas agrupaciones que fueran mayoritarias; la solicitud de cancelación podrá hacerse por la parte interesada y el Tribunal de Conciliación y Arbitraje, en los casos de conflicto entre las agrupaciones que pretenden ser mayoritarias, ordenará desde luego el recuento correspondiente y resolverá de plano el asunto.
+El Registro de los Sindicatos se cancelará en caso de disolución o cuando aparecieran diversas agrupaciones que fueran mayoritarias; la solicitud de cancelación podrá hacerse por la parte interesada y el Tribunal Laboral Burocrático, en los casos de conflicto entre las agrupaciones que pretenden ser mayoritarias, ordenará desde luego el recuento correspondiente y resolverá de plano el asunto.
 
 ###### Artículo 85o.
 
@@ -1311,9 +1309,11 @@ La demanda, la citación para absolver posiciones, la solicitud de caducidad, la
 
 Todos los términos correrán a partir del día hábil siguiente a aquel en que se haga el emplazamiento, citación o notificación y se contará en ellos el día del vencimiento.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
 ###### Artículo 138o.
 
-El Tribunal sancionará las faltas de respeto que se cometan, ya sea por escrito o en cualquier otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá de cincuenta pesos tratándose de funcionarios.
+El Tribunal sancionará las faltas de respeto que se cometan, ya sea por escrito o en cualquier otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá de diez veces el valor diario de la Unidad de Medida y Actualización tratándose de funcionarios.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1351,9 +1351,11 @@ Las Autoridades del Estado están obligadas a prestar auxilio al Tribunal Labora
 
 ### CAPITULO CUARTO. DE LOS MEDIOS DE APREMIO Y DE EJECUCION DE LOS LAUDOS
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
 ###### Artículo 143o.
 
-El Tribunal, para hacer cumplir sus resoluciones podrá imponer multas hasta de mil pesos.
+EI Tribunal, para hacer cumplir sus resoluciones podrá imponer multas hasta quince veces la Unidad de Medida y Actualización.
 
 ###### Artículo 144o.
 
@@ -1395,7 +1397,9 @@ Las correcciones que se mencionan en el Artículo anterior serán:
 
 I.- Amonestación
 
-II.- Multa que no excederá de cien pesos; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+
+II.- Multa que no excederá una vez la Unidad de Medida y Actualización; y
 
 III.- Suspensión del empleo con privación de sueldo hasta por tres días.
 
@@ -1403,11 +1407,11 @@ III.- Suspensión del empleo con privación de sueldo hasta por tres días.
 
 Las correcciones disciplinarias se impondrán oyendo al interesado y tomando en cuenta las circunstancias en que tuvo lugar la falta cometida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2017)</small>
+
 ###### Artículo 150o.
 
-Las infracciones a la presente Ley que no tengan establecida sanción especial, se castigarán con multa hasta de mil pesos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las infracciones a la presente Ley que no tengan establecida sanción especial, se castigarán con multa hasta de quince veces la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
@@ -1491,7 +1495,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
 
-TERCERO.- Se derogan, el Decreto Administrativo que crea el Comité de Valoración Médica Estatal para los Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la Sección 44 del S.N.T.E., el Reglamento del Comité de Valoración Médica Estatal para los Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la sección 44 del S.N.T.E., el Decreto que crea el Comité de Valoración Médica Estatal para Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la sección 44 del S.NTE. y el Reglamento del Comité de Valoración Médica Estatal para los Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la Sección 44 del S.N.T.E., publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Durango en fechas 15 de febrero del 2007, 03 de junio del 2007, 25 de junio del 2009 y 13 de agosto del 2009 respectivamente.
+TERCERO.- Se derogan, el Decreto Administrativo que crea el Comité de Valoración Médica Estatal para los Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la Sección 44 del S.N.T.E., el Reglamento del Comité de Valoración Médica Estatal para los Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la sección 44 del S.N.T.E., el Decreto que crea el Comité de Valoración Médica Estatal para Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la sección 44 del S.N.T.E. y el Reglamento del Comité de Valoración Médica Estatal para los Trabajadores de la Secretaria de Educación del Estado de Durango, agremiados a la Sección 44 del S.N.T.E., publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Durango en fechas 15 de febrero del 2007, 03 de junio del 2007, 25 de junio del 2009 y 13 de agosto del 2009 respectivamente.
 
 CUARTO.- Dentro de un plazo que no exceda de 120 días de la entrada en vigor del presente Decreto, el Gobierno del Estado expedirá los reglamentos correspondientes y creará el Organismo a que se refiere en el Titulo Quinto denominado "De los riegos de trabajo y de las enfermedades no profesionales".
 
@@ -1522,3 +1526,15 @@ P.O. 25 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 121.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
