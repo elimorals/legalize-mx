@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2017-02-16"
+last_updated: "2017-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -2057,7 +2057,9 @@ II. Las políticas, planes y programas proyectos de promoción, atención, difus
 
 1. Corresponde a la Comisión de Medio Ambiente y Desarrollo Sustentable el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-I. La legislación en materia ambiental;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+
+I. La legislación en materia ambiental y la relacionada con el cambio climático;
 
 II. La conservación, preservación y restauración del ambiente en la búsqueda del desarrollo sustentable en el Estado de Jalisco;
 
@@ -2215,9 +2217,17 @@ I. La legislación en materia de fomento turístico;
 
 II. La planeación y programación de la actividad turística estatal;
 
-III. Los asuntos relacionados con convenios o concesiones celebrados por el Poder Ejecutivo del Estado para incrementar o mejorar los servicios turísticos y mejorar los servicios correlativos en el estado, así como las bases normativas para concesionar la (sic) rutas y recorridos turísticos de competencia estatal y el conocimiento sobre promoción de infraestructura turística; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
-IV. Las políticas, planes y programas de difusión en materia de turismo.
+III. Los asuntos relacionados con convenios o concesiones celebrados por el Poder Ejecutivo del Estado para incrementar o mejorar los servicios turísticos y mejorar los servicios correlativos en el estado, así como las bases normativas para concesionar la (sic) rutas y recorridos turísticos de competencia estatal y el conocimiento sobre promoción de infraestructura turística;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+
+IV. Las políticas, planes y programas de difusión en materia de turismo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+
+V. El otorgamiento de la denominación "Paraje de la Identidad Jalisciense", de conformidad con la legislación estatal en materia turística.
 
 ###### Artículo 103.
 
@@ -2973,7 +2983,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 1. Si hay discusión, el Presidente forma una lista en la que inscriba a quienes deseen hablar a favor o en contra del dictamen, concediendo alternativamente el uso de la palabra a los que se hayan inscrito, debiendo llamarlos por el orden de la lista y comenzando por el inscrito en contra.
 
-2. En el caso de que sólo existiera lista de oradores a favor, una vez deshogada ésta, se declara agotada la discusión.
+2. En el caso de que sólo existiera lista de oradores a favor, una vez deshogada (sic) ésta, se declara agotada la discusión.
 
 ###### Artículo 171.
 
@@ -4471,12 +4481,24 @@ P.O. 17 DE NOVIEMBRE DE 2016.
 
 P.O. 26 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 25917/LX1/16 QUE REFORMA LOS ARTÍCULOS 52,58 Y 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL "DECRETO 25917/LXI/16 QUE REFORMA LOS ARTÍCULOS 52,58 Y 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 P.O. 16 DE FEBRERO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26264/LXI/17 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO Y DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26294/LXI/17 QUE REFORMA LOS ARTÍCULOS 3°, 5°, 6°, 8°, 9°, 23, 37 DE LA LEY ESTATAL DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, Y REFORMA EL ARTÍCULO 94 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26296/LXI/17 QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 4º, 5º, 6º, 22A Y 22B; Y SE ADICIONA UN CAPÍTULO V AL TÍTULO TERCERO Y LOS ARTÍCULOS 34A, 34B Y 34C, DE LA LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y REFORMA EL ARTÍCULO 102 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
