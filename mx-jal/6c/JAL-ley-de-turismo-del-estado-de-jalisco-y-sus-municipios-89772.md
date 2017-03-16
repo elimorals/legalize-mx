@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-turismo-del-estado-de-jalisco-y-sus-municipios-89772"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2016-02-06"
+last_updated: "2017-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 18 de octubre de 2012.
 
@@ -229,9 +227,13 @@ b) Respetar la autenticidad sociocultural de las comunidades anfitrionas, conser
 
 c) Asegurar el desarrollo de las actividades económicas viables que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida.
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
-XXII. Zonas de desarrollo turístico sustentable: aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerá mediante declaratoria específica que emitirá el Presidente de la República, a solicitud de la Secretaría de Turismo.
+XXII. Zonas de desarrollo turístico sustentable: aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerá mediante declaratoria específica que emitirá el Presidente de la República, a solicitud de la Secretaría de Turismo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+
+XXIII. Paraje de la Identidad Jalisciense: denominación que otorga mediante decreto el Congreso del Estado a un municipio, localidad o superficie territorial delimitada geográficamente, cuyos atributos de índole estética, paisajista, arquitectónica, histórica, artística, gastronómica, etnográfica o sociocultural confieren un valor extraordinario a su patrimonio turístico, de modo que se hace necesaria su protección y mejoramiento, y se justifica su divulgación con fines de promoción turística.
 
 ### CAPÍTULO II. Atribuciones de la Secretaría de Turismo del Estado de Jalisco
 
@@ -303,13 +305,21 @@ XXI. Planear y ejecutar la promoción turística de la entidad, debiendo para ta
 
 XXII. Ejercer las facultades de mejora regulatoria mediante la recepción de trámites de incorporación de Prestadores de Servicios Turísticos al Registro Nacional de Turismo, en los términos que se pacten con la Secretaría de Turismo;
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE MARZO DE 2017)</small>
 
 XXIII. Proponer al Titular del Poder Ejecutivo del Estado la declaratoria de establecimiento de Rutas Turísticas en la entidad;
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
 
-XXIV. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia turística.
+XXIV. Integrar los expedientes técnicos que justifiquen las iniciativas que el Titular del Poder Ejecutivo del Estado presente ante el Congreso del Estado, para la emisión de Declaratorias como Parajes de la Identidad Jalisciense, conforme a lo previsto por esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+
+XXV. Conocer de la solicitud de los ayuntamientos para el otorgamiento de la denominación “Paraje de la Identidad Jalisciense” y en su caso otorgar el aval a dichas propuestas, previo a su presentación ante el Congreso del Estado; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2017)</small>
+
+XXVI. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia turística.
 
 ### CAPÍTULO III. Atribuciones de los municipios
 
@@ -345,13 +355,17 @@ VIII. Regular y vigilar que las instalaciones turísticas cuenten con las instal
 
 IX. Solicitar información a los prestadores de servicios turísticos dentro de su territorio, con la finalidad de observar, evaluar y generar estadística confiable en materia turística, la cual tendrá carácter de información confidencialidad (sic), intercambiando de forma sistemática y periódica dicha información con la Secretaría, bajo los términos de la ley aplicable; y
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
-X. Proporcionar la información en materia de turismo, que en su momento requiera la Secretaría de Turismo, la cual se otorgará de manera clara, precisa y oportuna.
+X. Proporcionar la información en materia de turismo, que en su momento requiera la Secretaría de Turismo, la cual se otorgará de manera clara, precisa y oportuna;
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
 
-XI. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia turística.
+XI. Presentar ante el Congreso iniciativas de decreto para la emisión de Declaratorias de Parajes de la Identidad Jalisciense, previo aval de la Secretaría y aprobación del o los ayuntamientos respectivos, cuando el Paraje se ubique sobre territorio de dos o más municipios; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2017)</small>
+
+XII. Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia turística.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -361,7 +375,7 @@ XI. Las demás que le confieren las disposiciones legales y reglamentos aplicabl
 
 ### CAPÍTULO IV. Coordinación entre la Secretaría de Turismo y los municipios
 
-> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA SECCIÓN VIII DEL P.O. DE 12 DE NOVIEMBRE DE 2015, PÁGINA 29.</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA SECCIÓN VIII DEL P.O. DE 12 DE NOVIEMBRE DE 2015, PÁGINA 29.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -607,19 +621,19 @@ El Consejo Consultivo Turístico Municipal podrá invitar a instituciones y enti
 
 El Consejo Consultivo Turístico Municipal expedirá su reglamento en concordancia con el establecido por el Consejo Consultivo Turístico del Estado.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2017)</small>
 
-### CAPÍTULO III. Consejo para el Desarrollo de Rutas Turísticas
+### CAPÍTULO III. Consejo para el Desarrollo de Rutas Turísticas y Parajes de la Identidad Jalisciense
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
-Artículo 22A. Para la promoción, mantenimiento y mejora continua de las Rutas el Secretario, podrá constituir a través acuerdo escrito, debidamente fundado y motivado, Consejos para el Desarrollo de Rutas Turísticas.
+Artículo 22A. Para la promoción, mantenimiento y mejora continua de las Rutas, el Secretario, podrá constituir a través de acuerdo escrito, debidamente fundado y motivado, Consejos para el Desarrollo de Rutas Turísticas. De igual manera, para los sitios declarados como Parajes de la Identidad Jalisciense, el Secretario o los municipios respectivos, podrán constituir mediante acuerdo o convenio según corresponda, Consejos para el Desarrollo de los Parajes de la Identidad Jalisciense.
 
-Dichos consejos podrán estar integrados por representantes de aquellas instituciones públicas o privadas y personas que tengan relación con la actividad que se desarrolle en la Ruta Turística de que se trate.
+Dichos consejos podrán estar integrados por representantes de aquellas instituciones públicas o privadas y personas que tengan relación con la actividad que se desarrolle en la Ruta o en el Paraje de que se trate.
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
-Artículo 22B. El Consejo para el Desarrollo de Ruta Turística, una vez instalado, expedirá su reglamento interno, de conformidad con lo establecido en la presente ley y su respectivo reglamento, y con el visto bueno de la Secretaría.
+Artículo 22B. Los Consejos para el Desarrollo de Ruta Turística o de Paraje de la Identidad Jalisciense, una vez instalados, expedirán su reglamento interno, conforme a esta ley, su reglamento y en su caso los ordenamientos municipales respectivos; y deberán contar con el visto bueno de la Secretaría.
 
 ## TÍTULO TERCERO. PLANEACIÓN EN EL SECTOR TURÍSTICO
 
@@ -741,13 +755,27 @@ La Secretaría promoverá la integración regional de los sectores productivos a
 
 La Secretaría promoverá el diseño e implementación de productos turísticos tomando en cuenta el potencial y características de los mercados locales, con la finalidad de facilitar su inclusión en las cadenas de valor.
 
-### CAPÍTULO I. Promoción de la actividad turística
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+### CAPÍTULO V. De los Parajes de la Identidad Jalisciense
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+Artículo 34A. El Congreso del Estado, a iniciativa del Poder Ejecutivo o de uno o más Ayuntamientos, podrá decretar el otorgamiento de la denominación de “Paraje de la Identidad Jalisciense” a aquellas localidades, municipios o demarcaciones geográficas que posean atributos descollantes de índole estética, paisajística, arquitectónica, histórica, artística, gastronómica, etnográfica o sociocultural, que le hagan susceptible de promoción, mantenimiento e inversión turística.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+Artículo 34B. La denominación “Paraje de Identidad Jalisciense” irá precedido o seguido por el nombre de la localidad o municipio respectivo, o de la denominación con la que se identifique al área geográfica reconocida en la declaratoria respectiva, y podrá emplearse en todos los documentos oficiales, nomenclatura y materiales promocionales que utilicen las autoridades estatales o locales, los correspondientes órganos gubernativos o los prestadores de servicios turísticos.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+Artículo 34C. Serán susceptibles de recibir la denominación como Parajes de la Identidad Jalisciense aquellas áreas geográficas que, en los términos de la Ley de Patrimonio Cultural del Estado de Jalisco y sus Municipios, hayan sido catalogados previamente como Zonas de Protección o se hubieren identificado como el asiento o el lugar donde se desarrollan aquellos componentes del patrimonio cultural inmaterial del Estado, siempre que esta declaratoria resulte benéfica para los fines de la promoción turística del lugar.
+
+Serán asimismo susceptibles de recibir la denominación como Parajes de la Identidad Jalisciense aquellas localidades o sitios que, conforme a la normatividad federal, estatal o municipal, cuenten con al menos un elemento incluido en alguno de los inventarios, catálogos o listados oficiales en los que se registran los bienes del patrimonio cultural de la Nación, del Estado o del municipio.
 
 ## TÍTULO CUARTO. PROMOCIÓN TURÍSTICA
 
-### CAPITULO II. Atlas turístico de Jalisco
+### CAPÍTULO I. Promoción de la actividad turística
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -795,7 +823,7 @@ VIII. La gestión para que eventos de alto impacto se desarrollen en los distint
 
 La Secretaría llevará a cabo la promoción turística del estado, para lo cual deberá coordinarse con las dependencias de los gobiernos federal y municipal, así como con prestadores de servicio y particulares.
 
-### CAPÍTULO III. Plan de Desarrollo Turístico de Jalisco
+### CAPITULO II. Atlas turístico de Jalisco
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -813,7 +841,7 @@ La elaboración del Atlas Turístico de Jalisco, será facultad de la Secretarí
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2015)
 
-### CAPÍTULO IV. Fideicomisos de Turismo
+### CAPÍTULO III. Plan de Desarrollo Turístico de Jalisco
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -831,7 +859,7 @@ El Plan deberá ser revisado anualmente y, en su caso, modificado de acuerdo con
 
 El Plan estará integrado, entre otros aspectos necesarios para su desarrollo, por los siguientes:
 
-l. Antecedentes del mercado turístico en Jalisco;
+I. Antecedentes del mercado turístico en Jalisco;
 
 II. Análisis del mercado actual y posibilidades de desarrollo de nuevos productos turísticos;
 
@@ -849,7 +877,7 @@ VI. Fomento a la atracción de eventos nacionales e internacionales a desarrolla
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-### CAPÍTULO 1. Competitividad Turística
+### CAPÍTULO IV. Fideicomisos de Turismo
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -869,7 +897,7 @@ Los fideicomisos podrán ser creados dentro de zonas o rutas turísticas y podr�
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-### CAPÍTULO II. Innovación y desarrollo de servicios y productos turísticos
+### CAPÍTULO I. Competitividad Turística
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -889,7 +917,7 @@ II. Sustentabilidad: aseguramiento de que el desarrollo se logre en equilibrio c
 
 III. Evaluación continua: definición (sic) conceptos medibles y consistentes que sean comparables a través del tiempo y el espacio.
 
-### CAPÍTULO III. Inversión turística
+### CAPÍTULO II. Innovación y desarrollo de servicios y productos turísticos
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -903,7 +931,9 @@ El diseño de los productos turísticos deberá desarrollarse en función de los
 
 La Secretaría en coordinación con las instituciones educativas en la entidad, con los organismos públicos y privados, relacionados con la materia y en función de las investigaciones que se realicen del mercado a nivel estatal, nacional e internacional, promoverán el desarrollo de segmentos que permitan aprovechar oportunamente el potencial de los recursos turísticos existentes en la entidad.
 
-### CAPÍTULO IV. Sistema de Información Turística Estatal
+### CAPÍTULO III. Inversión turística
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 50.
 
@@ -943,9 +973,7 @@ La Secretaría, conjuntamente y en coordinación con asociaciones civiles, insti
 
 La Secretaría establecerá los mecanismos de coordinación con aquellas instituciones públicas, privadas y sociales, que tengan como finalidad la promoción o desarrollo del sector turístico en el Estado de Jalisco, buscando homologar y potencializar los esfuerzos para desarrollar el Sector.
 
-### CAPÍTULO V. Turismo accesible
-
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+### CAPÍTULO IV. Sistema de Información Turística Estatal
 
 ###### Artículo 57.
 
@@ -993,7 +1021,9 @@ La Secretaria deberá promover la integración de los municipios al sistema de i
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2015)
 
-### CAPITULO VI. Grandes eventos
+### CAPÍTULO V. Turismo accesible
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 63.
 
@@ -1017,9 +1047,7 @@ La misma obligación tendrán las autoridades respecto de los sitios con afluenc
 
 La Secretaría, los Municipios y demás dependencias competentes, supervisarán en sus respectivos ámbitos de competencia, el debido cumplimiento de lo dispuesto en este capítulo.
 
-### CAPÍTULO VII. Capacitación turística
-
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+### CAPITULO VI. Grandes eventos
 
 ###### Artículo 66.
 
@@ -1033,11 +1061,21 @@ La Secretaria, en conjunción con la Secretaría Federal, así como con los orga
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2015)
 
+### CAPÍTULO VII. Capacitación turística
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 69.
+
+La Secretaría, conjuntamente con las autoridades federales y municipales, diseñará y coordinará programas para la capacitación en los distintos niveles de las micro, pequeñas y medianas empresas turísticas, para facilitar el desarrollo de los prestadores de servicios turísticos atendiendo su vocación y necesidades. De la misma manera se deberá diseñar y conducir programas enfocados a la capacitación de nuevos prestadores de servicios turísticos de reciente o nueva inserción en el sector.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ### CAPÍTULO IX (SIC). Turismo Social
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-Artículo 69D. El turismo social comprende todos aquellos instrumentos y medios enfocados a otorgar facilidades con equidad para que grupos sociales vulnerables puedan acceder a la actividad turística en cualquiera de sus modalidades, contribuyendo adicionalmente a disminuir la estacionalidad de la afluencia a los destinos turísticos en el Estado de Jalisco.
+Artículo 69D (sic). El turismo social comprende todos aquellos instrumentos y medios enfocados a otorgar facilidades con equidad para que grupos sociales vulnerables puedan acceder a la actividad turística en cualquiera de sus modalidades, contribuyendo adicionalmente a disminuir la estacionalidad de la afluencia a los destinos turísticos en el Estado de Jalisco.
 
 La Secretaría deberá de considerar dentro de su presupuesto anual una partida destinada a promover el turismo social en la Entidad.
 
@@ -1048,12 +1086,6 @@ Artículo 69E. La Secretaría y los Municipios, en sus respectivos ámbitos de c
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 Artículo 69F. La Secretaría promoverá, coordinará e impulsará la suscripción de acuerdos y convenios entre las autoridades locales y municipales de la entidad, así como con los prestadores de servicios turísticos con el objetivo de fomentar el turismo social.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2015)</small>
-
-###### Artículo 69.
-
-La Secretaría, conjuntamente con las autoridades federales y municipales, diseñará y coordinará programas para la capacitación en los distintos niveles de las micro, pequeñas y medianas empresas turísticas, para facilitar el desarrollo de los prestadores de servicios turísticos atendiendo su vocación y necesidades. De la misma manera se deberá diseñar y conducir programas enfocados a la capacitación de nuevos prestadores de servicios turísticos de reciente o nueva inserción en el sector.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -1087,13 +1119,9 @@ Artículo 69K. La Secretaría, en conjunto con las instancias competentes, estab
 
 Artículo 69L. La Secretaría podrá supervisar la imagen, información, servicio y atención de los distintos módulos de Información Turística en la entidad, para lo cual se coordinará con los ayuntamientos en la homologación de la información y atención que éstos brindan.
 
-### CAPÍTULO I. Verificación
-
-> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
-
 ## TÍTULO SEXTO. PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO II. Quejas
+### CAPÍTULO I. Verificación
 
 > <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
 
@@ -1125,13 +1153,17 @@ Artículo 70 C. Las visitas de verificación se realizaran con el representante,
 
 Concluida la verificación, la Secretaría turnará a la o las dependencias competentes copia del acta circunstanciada de la actuación realizada, para efectos de que valore los hechos u omisiones asentadas en la misma, para posteriormente determinar la sanción que corresponda en su caso.
 
-### CAPITULO III. Sanciones
+### CAPÍTULO II. Quejas
 
 > <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 71.
 
 La Secretaría estará facultada para recibir las quejas que se presente (sic) respecto a la prestación de servicios turísticos, quedando obligada a remitirlas a la Secretaría Federal o a la instancia que resulte competente, para que éstas generen en sus respectivos ámbitos de competencia la sanción correspondiente de acuerdo con las infracciones cometidas.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
+
+### CAPITULO III. Sanciones
 
 > <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
 
@@ -1203,7 +1235,7 @@ VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 12 DE OCTUBRE DE 2013.
 
@@ -1226,3 +1258,9 @@ P.O. 12 DE NOVIEMBRE DE 2015.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
 Artículo Segundo.- El titular del Poder Ejecutivo, en los términos de la fracción VIII del artículo 50 de la Constitución Política del Estado de Jalisco, deberá expedir la reglamentación correspondiente.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26296/LXI/17 QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 4°, 5°, 6°, 22A Y 22B; Y SE ADICIONA UN CAPÍTULO V AL TÍTULO TERCERO Y LOS ARTÍCULOS 34A, 34B Y 34C, DE LA LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y REFORMA EL ARTÍCULO 102 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
