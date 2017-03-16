@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-politecnica-de-la-zona-38421"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-10"
-last_updated: "2004-02-10"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD POLITECNICA DE LA ZONA METROPOLITANA DE GUADALAJARA
 
-LEY ORGANICA DE LA UNIVERSIDAD POLITECNICA DE LA ZONA METROPOLITANA DE GUADALAJARA
+LEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA DE GUADALAJARA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 10 de febrero de 2004.
 
@@ -155,7 +155,9 @@ II. Los Directores Académicos.
 
 La Junta Directiva será el máximo órgano de gobierno de la Universidad y se integra por:
 
-I. Tres representantes del Poder Ejecutivo del Gobierno del Estado de Jalisco, entre los cuales se encontrarán el titular del Poder Ejecutivo, de la Secretaría de Educación del Estado y de la Secretaría de Promoción Económica o sus representantes;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+
+I. Tres representantes del Poder Ejecutivo del Gobierno del Estado de Jalisco, entre los cuales se encontrarán el titular del Poder Ejecutivo, de la Secretaría de Educación (sic) Jalisco y de la Secretaría de Desarrollo Económico o sus representantes;
 
 II. Tres representantes del Poder Ejecutivo Federal, designados por el Subsecretario de Educación Superior e Investigación Científica;
 
@@ -421,9 +423,11 @@ La contratación del personal académico se realizará de acuerdo a la Ley para 
 
 Las relaciones laborales de la Universidad con su personal, se regirán por lo previsto en los términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
 ###### Artículo 37.
 
-El personal universitario gozará de la seguridad social que establece la Ley de Pensiones del Estado, sin perjuicio de que se brinde otro tipo de servicio médico y de seguridad.
+El personal universitario gozará de la seguridad social que establece la Ley del Instituto de Pensiones del Estado de Jalisco, sin perjuicio de que se brinde otro tipo de servicio médico y de seguridad.
 
 ### CAPÍTULO SEXTO. De los Alumnos
 
@@ -534,3 +538,11 @@ El Secretario general de Gobierno
 LIC. HÉCTOR PÉREZ PLAZOLA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26292/LXI/17 QUE REFORMA LOS ARTÍCULOS 9º Y 37 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD POLITÉCNICA DE LA ZONA METROPOLITANA DE GUADALAJARA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
