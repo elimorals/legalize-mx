@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2017-03-01"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -319,11 +319,11 @@ XV. Las demás previsiones y características de los trabajos.
 
 Será obligación de las Dependencias, Secretaría o Ayuntamientos, según sea el caso, vigilar el cumplimiento de lo dispuesto por la fracción IX del presente artículo, prioritariamente en aquellas construcciones de inmuebles que sean destinados a Instituciones Educativas.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-Las Dependencias, Secretaría o Ayuntamientos, estarán obligadas a prever los efectos sobre el medio ambiente que pueda causar la ejecución de las obras públicas con sustento en los estudios de impacto ambiental, en los casos previstos en la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieran deteriorarse, y se dará ola (sic) intervención que corresponda a la dependencia de la Administración Pública Estatal del ramo del medio ambiente, y, en su caso, a las dependencias, secretaría o ayuntamientos que tengan atribuciones en la materia, quienes en un plazo no mayor de 30 días naturales deberán emitir los dictámenes respectivos.
+Las Dependencias, Secretarías o Ayuntamientos, estarán obligadas a prever los efectos que sobre el medio ambiente pueda causar la ejecución de las obras públicas, en los términos previstos en la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos. Los proyectos deberán incluir las obras necesarias para que se preserven, mitiguen o restituyan en forma equivalente las condiciones ambientales cuando estas pudieran deteriorarse, tramitando al efecto el informe preventivo ante la dependencia de la Administración Pública Estatal del ramo del medio ambiente. En tratándose de los Ayuntamientos que tengan atribuciones en la materia, deberán emitir los dictámenes o autorizaciones respectivas dentro de un plazo no mayor a 30 días naturales.
 
 ###### ARTÍCULO 18.
 
@@ -1422,3 +1422,17 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS CINCO POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSAS LEYES ESTATALES, EN MATERIA DE COMPETENCIA ECONÓMICA Y LIBRE CONCURRENCIA”.]
+
+PRIMERO. Aprobado el presente decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos delo (sic) dispuesto por los artículos 44, 47 y 70 Fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión de (sic) Gobierno del Estado De Morelos.
+
+TERCERO. A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones jurídicas que contravengan el presente decreto.
+
+CUARTO. Dentro de un plazo no mayor a 90 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, se deberán realizar, las adecuaciones a las disposiciones reglamentarias correspondientes.
+
+QUINTA (SIC). Dentro de un plazo no mayor a 150 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, los Ayuntamientos municipales del Estado de Morelos, deberán realizar en su caso, las adecuaciones necesarias a sus reglamentos de construcciones, así como al de ecología y protección al ambiente, según corresponda.
