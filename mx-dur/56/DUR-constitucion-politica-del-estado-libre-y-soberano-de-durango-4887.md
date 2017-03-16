@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2017-01-26"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -42,10 +42,6 @@ LA H. LII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A NOMBRE DEL PUEBL
 ###### ARTICULO UNICO.
 
 Se reforma y adiciona la Constitución Política Local para quedar en la forma siguiente:
-
-> <small>N. DE E. LAS REFORMAS APROBADAS POR LA SEXAGÉSIMA QUINTA LEGISLATURA EN EL DECRETO NÚMERO 540 PUBLICADO EN EL P.O. DE 29 DE AGOSTO DE 2013, MODIFICÓ DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DE LA CONSTITUCIÓN DEL 1 DE NOVIEMBRE DE 1917 CON SUS RESPECTIVAS REFORMAS, DANDO COMO RESULTADO EL TEXTO QUE A CONTINUACIÓN SE PRESENTA.</small>
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO DÉCIMO PRIMERO DEL DECRETO NÚMERO 11 POR EL QUE SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO, PUBLICADO EN EL P.O. 28 DE NOVIEMBRE DE 2010, SE MODIFICA TODA MENCIÓN QUE SE HAGA EN ORDENAMIENTOS LEGALES RESPECTO AL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO, SE ENTENDERÁ HECHA AL TRIBUNAL DE JUSTICIA FISCAL.</small>
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -164,6 +160,10 @@ Toda persona tiene derecho a entrar, salir, transitar libremente y a elegir su r
 ###### Artículo 13.
 
 Nadie podrá ser privado de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las leyes expedidas con anterioridad al hecho.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos que previenen las leyes; la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción de dominio se establecerá un procedimiento que se regirá por las reglas que dispone el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos:
 
 Toda autoridad está obligada a fundar y motivar sus resoluciones por escrito.
 
@@ -1127,7 +1127,9 @@ e) Autorizar al Ejecutivo Estatal:
 
 f) Expedir las bases legales que señale cuales serán los supuestos en los que los actos relativos al patrimonio inmobiliario municipal requieran de un acuerdo de mayoría calificada del ayuntamiento.
 
-II. De fiscalización y vigilancia:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2017)</small>
+
+II. De fiscalización, vigilancia y combate a la corrupción:
 
 a) Recibir la cuenta pública del Ejecutivo, los órganos constitucionales autónomos y los ayuntamientos.
 
@@ -1142,6 +1144,40 @@ e) Citar, a solicitud de la Comisión de Derechos Humanos del Estado, a las auto
 f) Recabar informes sobre todos los ramos de administración pública del Estado y de los municipios, cuando lo estime necesario para el mejor ejercicio de las funciones de la Legislatura.
 
 g) Llevar un registro del patrimonio de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+h) Expedir la ley que regule la organización y facultades de la Entidad de Auditoría Superior del Estado y las demás que normen la gestión, control y evaluación de los Poderes del Estado, los Municipios y de los entes públicos estatal y municipales; así como para expedir la ley que establezca las bases de coordinación del Sistema Local Anticorrupción.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+i) Expedir la ley que organice el Tribunal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos, y que establezca su organización, su funcionamiento, y los recursos para impugnar sus resoluciones.
+
+El Tribunal tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal, municipal y los particulares.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+j) Expedir la Ley de Justicia Administrativa, que dirima las diferencias a las que alude el inciso anterior y además, distribuya competencias entre los gobiernos Estatal y municipales, para establecer las responsabilidades administrativas de los servidores públicos y las sanciones aplicables por los actos u omisiones graves en que éstos incurran, y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevenga, así como los procedimientos para su aplicación.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+k) Expedir las leyes que hagan efectivo el Sistema Local Anticorrupción, las cuales deberán prever los mecanismos necesarios para:
+
+1.- Que sus integrantes tengan acceso a la información pública necesaria, adecuada y oportuna para el mejor desempeño de sus funciones;
+
+2.- Que las recomendaciones, políticas públicas e informes que emita, reciban respuesta de los sujetos públicos a quienes se dirija;
+
+3.- Contar con las atribuciones y procedimientos adecuados para dar seguimiento a las recomendaciones, informes y políticas que emitan;
+
+4.- Rendir un informe público a los titulares de los Poderes, en que den cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones. Para este efecto deberán seguir las metodologías que emita el Sistema Nacional Anticorrupción;
+
+La Presidencia de la instancia de coordinación del Sistema Local Anticorrupción deberá corresponder al Consejo de Participación Ciudadana, y
+
+Los integrantes del Consejo de Participación Ciudadana deberán reunir como mínimo, los requisitos previstos en (sic) Ley General de la materia, expedida por el Congreso de la Unión y serán designados mediante un procedimiento análogo al previsto para el Consejo de Participación Ciudadana del Sistema Nacional Anticorrupción.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+l) Designar, por el voto de las dos terceras partes de sus integrantes presentes, a los titulares de los órganos internos de control de los organismos constitucionales autónomos, contenidos en esta Constitución, que ejerzan recursos públicos aprobados en la Ley de Egresos del Estado.
 
 III. De nombramiento y ratificación de servidores públicos:
 
@@ -1179,7 +1215,9 @@ V. Otras facultades:
 
 a) Erigirse en Jurado de Acusación en los casos de presunta responsabilidad política y penal.
 
-b) Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador del Estado electo que hubiere hecho el Tribunal Electoral del Estado.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
+b) Ratificar al Fiscal General del Estado, al Secretario responsable del control interno del Ejecutivo del Estado y al Fiscal Especializado en Combate a la Corrupción con la aprobación de las dos terceras partes de los diputados presentes;
 
 c) Convocar a elecciones ordinarias y extraordinarias.
 
@@ -1187,7 +1225,9 @@ d) Cambiar provisionalmente, en caso necesario, la residencia de los poderes del
 
 e) Conceder distinciones u honores por servicios distinguidos prestados al Estado y la Nación, en los términos de la ley.
 
-f) Integrar comisiones para investigar el funcionamiento de cualquier órgano de la administración pública estatal o municipal. Los resultados de las investigaciones se harán del conocimiento del Pleno del Congreso del Estado; y en su caso, del Gobernador del Estado y de los ayuntamientos, así como de la Comisión Anticorrupción, y podrán dar lugar a responsabilidades políticas o de otro tipo.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
+f) Integrar comisiones para investigar el funcionamiento de cualquier órgano de la administración pública estatal o municipal. Los resultados de las investigaciones se harán de conocimiento del Pleno del Congreso del Estado, y en su caso, del Gobernador del Estado y de los ayuntamientos, así como a la Entidad de Auditoría Superior del Estado y a la Fiscalía Especializada en Combate a la Corrupción, y podrán dar lugar a responsabilidades políticas o de otro tipo.
 
 g) Autorizar al Gobernador del Estado para:
 
@@ -1253,13 +1293,15 @@ El trabajo del Congreso y de las comisiones será asistido por los órganos téc
 
 #### Sección cuarta. De la Entidad de Auditoría Superior del Estado
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 85.
 
-La Entidad de Auditoría Superior del Estado es el órgano del Congreso del Estado con autonomía técnica y de gestión, en el ejercicio de sus atribuciones y para decidir sobre su administración y organización interna, funcionamiento y resoluciones en los términos que disponga la ley, encargado de la fiscalización de las acciones del Estado y Municipios en materia de fondos, deuda pública y recursos públicos que ejerzan los poderes y los municipios, sus entidades y dependencias, así como las administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y órganos constitucionales autónomos, y cualquier otro ente público.
+La Entidad de Auditoría Superior del Estado es el órgano del Congreso del Estado, con autonomía técnica y de gestión, en el ejercicio de sus atribuciones y para decidir sobre su administración y organización interna, funcionamiento y resoluciones en los términos que disponga la ley, encargado de fiscalizar y evaluar el desempeño de la gestión gubernamental de los Poderes y los municipios, sus entidades y dependencias, así como las administraciones paraestatales y paramunicipales, organismos descentralizados de carácter estatal o municipal, fideicomisos públicos, mandatos, instituciones y órganos constitucionales autónomos, y cualquier otro ente público en materia de fondos, recursos locales y deuda pública.
 
-La función de revisión y fiscalización tiene carácter, externo y permanente, y será ejercida conforme a los principios de legalidad, imparcialidad y confiabilidad.
+En trabajos de planeación de las auditorías, la Entidad de Auditoría Superior del Estado, podrá solicitar información del ejercicio en curso, respecto de procesos concluidos; así mismo, podrá solicitar de manera casuística y concreta información de ejercicios anteriores al de la cuenta pública en revisión, sin que ello implique la apertura de la Cuenta Pública aprobada. Las observaciones y recomendaciones que se emitan, solo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
+
+A la Entidad de Auditoría Superior del Estado, corresponderá, en los términos de la ley, tramitar el registro correspondiente en la Plataforma Digital Nacional, de las declaraciones patrimoniales, fiscales y de intereses que reciba de los servidores públicos.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1285,7 +1327,19 @@ VIII. Efectuar visitas domiciliarias para exigir la exhibición de libros, papel
 
 IX. Determinar los daños y perjuicios que afecten a la hacienda pública o al patrimonio de las entidades fiscalizadas, decretar las indemnizaciones y sanciones correspondientes, y en su caso, promover ante las autoridades competentes el establecimiento de otras responsabilidades.
 
-X. Las demás que le otorgue esta Constitución y las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2017)</small>
+
+X. Participar en el Sistema Nacional de Fiscalización y en los Sistemas Nacional y Local Anticorrupción, en los términos de esta Constitución y las leyes.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2017)</small>
+
+XI. En los términos que establezca la Ley, fiscalizará en coordinación con la Auditoría Superior de la Federación, las participaciones federales. Asimismo, fiscalizará los recursos estatales y municipales y la deuda pública que cuente con garantía de recursos estatales o transferidos, que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos y privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+
+Derivado de sus investigaciones y sin perjuicio de la competencia de la Auditoría Superior de la Federación, promoverá las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE MARZO DE 2017)</small>
+
+XII. Las demás que le otorgue esta Constitución y las leyes.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1431,7 +1485,9 @@ IV. Nombrar y remover libremente a los secretarios de despacho y demás servidor
 
 V. Proponer al Consejero de la Judicatura, a que se refiere la fracción III del artículo 125 de esta Constitución.
 
-VI. Propo ner (sic) al Congreso del Estado a los magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Fiscal y Administrativa y del Tribunal para Menores Infractores.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+
+VI. Proponer al Congreso del Estado a los magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal para Menores Infractores.
 
 VII. Planear y conducir el desarrollo integral del Estado; formular, ejecutar, controlar y evaluar el Plan Estratégico, el Plan Estatal de Desarrollo, planes sectoriales, metropolitanos y regionales, y los programas que de éstos se deriven. En los procesos de planeación metropolitana y regional deberá consultarse a los ayuntamientos.
 
@@ -1555,6 +1611,14 @@ Las funciones de procuración de justicia que se realicen en el Estado, se hará
 
 Asimismo, el Estado está obligado a entregar sin demora a los imputados o sentenciados, así como a practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra que los requiera. Estas diligencias se practicarán, con intervención de los respectivos órganos de procuración de justicia, en los términos de los convenios de colaboración que, al efecto, celebren las entidades federativas. Para los mismos fines, las autoridades locales podrán celebrar convenios de colaboración con la Fiscalía General de la República.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+Sin perjuicio de crear fiscalías especializadas a través de la ley o por acuerdo, habrá una Fiscalía Especializada en Combate a la Corrupción, la que tendrá las atribuciones que se le señalen en las leyes aplicables. El titular de esta Fiscalía será propuesto por el Titular del Poder Ejecutivo y ratificado por el Congreso del Estado, en los términos que dispone esta Constitución.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+La Fiscalía Especializada en Combate a la Corrupción, contará con autonomía técnica y operativa para investigar y perseguir los hechos que sean materia de actos de corrupción que la ley considera como delitos.
+
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 103.
@@ -1593,9 +1657,9 @@ IV. No haber sido condenado por delito doloso.
 
 El Poder Judicial del Estado, es autónomo y en el ejercicio de sus funciones, actuará con absoluta independencia y sólo estará sujeto a las normas constitucionales y leyes que de ellas emanen.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
-El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, el Tribunal de Justicia Fiscal y Administrativa, el Tribunal Laboral Burocrático, el Tribunal de Menores Infractores, los juzgados de Primera Instancia y municipales, y el Centro Estatal de Justicia Alternativa.
+El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, el Tribunal Laboral Burocrático, el Tribunal de Menores Infractores, los juzgados de Primera Instancia, y municipales, y el Centro Estatal de Justicia Alternativa.
 
 El Presidente del Tribunal Superior de Justicia representa al Poder Judicial, sus actividades se dirigirán a vigilar el estricto cumplimiento de las determinaciones del Tribunal Superior de Justicia y a cuidar de la administración de justicia, conforme a las atribuciones y obligaciones que le fijen las leyes.
 
@@ -1723,7 +1787,9 @@ II. Conceder licencias a los magistrados para separarse de su cargo en los térm
 
 III. Expedir su reglamento interior.
 
-IV. Ejercer con auxilio del Consejo de la Judicatura el presupuesto del Poder Judicial y lo relativo al Fondo Auxiliar, en cuanto a las partidas que le correspondan al Tribunal Electoral, al Tribunal de Justicia Fiscal y Administrativa, al Tribunal para Menores Infractores y al Tribunal Laboral Burocrático, serán ejercidas con autonomía por el Tribunal respectivo.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+
+IV. Ejercer con auxilio del Consejo de la Judicatura el presupuesto del Poder Judicial y lo relativo al Fondo Auxiliar, en cuanto a las partidas que le correspondan al Tribunal para Menores Infractores y al Tribunal Laboral Burocrático, serán ejercidas con autonomía por el Tribunal respectivo.
 
 V. Recibir, analizar y aprobar en su caso, el informe anual que debe rendir su Presidente, de acuerdo a lo dispuesto por el artículo 167 de esta Constitución.
 
@@ -1739,29 +1805,31 @@ VIII. Las demás que le confieren esta Constitución y las leyes.
 
 El Pleno del Tribunal Superior está facultado para expedir los acuerdos generales y los particulares que requiera el régimen interno del Poder Judicial para su adecuado funcionamiento; sus decisiones serán definitivas e inatacables.
 
-> <small>N. DE E. SE DEROGA LA SECCIÓN TERCERA, DENOMINADA "DEL TRIBUNAL ELECTORAL", QUE SE ENCONTRABA DENTRO DEL CAPÍTULO VI, DENOMINADO "DEL PODER JUDICIAL", INSERTO EN EL TÍTULO CUARTO, DENOMINADO "DE LA SOBERANÍA Y FORMA DE GOBIERNO, POR LO QUE EL ORDEN DE LAS SECCIONES Y EL ARTÍCULO SE RECORREN EN SU ORDEN DE APARICIÓN EN EL MENCIONADO CAPÍTULO.</small>
+> <small>[N. DE E. SE SUGIERE CONSULTAR LAS CONSIDERACIONES DEL DECRETO NO. 119, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2017.]</small>
 
-(REUBICADA [N. DE E. ANTES SECCIÓN CUARTA], P.O. 24 DE JUNIO DE 2014)
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN TERCERA DENOMINADA “DEL TRIBUNAL DE JUSTICIA FISCAL Y ADMINISTRATIVA", QUE SE ENCONTRABA DENTRO DEL CAPÍTULO VI DENOMINADO “DEL PODER JUDICIAL”], P.O. 16 DE MARZO DE 2017)</small>
 
-### Capítulo I. Disposiciones generales
+### Capítulo VII. Del Tribunal de Justicia Administrativa
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 114.
 
-El Tribunal de Justicia Fiscal y Administrativa es la autoridad jurisdiccional dotada de autonomía en sus resoluciones, conocerá de las controversias que se susciten en relación a la legalidad, interpretación, cumplimiento, procedimientos y resoluciones de naturaleza administrativa y fiscal, que emitan, ejecuten o traten de ejecutar las autoridades de la administración pública del Estado, de los municipios, de los órganos constitucionales autónomos, cuya actuación afecte a los particulares, así como las que surjan entre dos o más entidades públicas, en los términos que determine la ley.
+El Tribunal de Justicia Administrativa es la autoridad jurisdiccional dotada de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones; tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos del Estado y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con las faltas administrativas graves; así como fincar a los responsables, el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos.
 
-El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, se integrará con tres magistrados numerarios y tres magistrados supernumerarios, quienes suplirán a los propietarios en sus ausencias.
-
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 115.
 
-Los magistrados del Tribunal de Justicia Fiscal y Administrativa durarán en su encargo seis años pudiendo ser ratificados por un periodo igual, previa evaluación de su desempeño por parte del Congreso del Estado; los requisitos para ocupar el cargo, y la forma de elección, así como los casos de renuncia y terminación del encargo, serán los mismos que establece esta Constitución para Magistrado del Tribunal Superior de Justicia, además de los que disponga la ley.
+El Tribunal de Justicia Administrativa, se integrará con tres magistrados numerarios y tres magistrados supernumerarios, quienes suplirán a los propietarios en sus ausencias.
+
+Los magistrados serán designados por el Ejecutivo del Estado y ratificados por el voto de las dos terceras partes de los integrantes presentes del Congreso. Durarán en su encargo 6 años improrrogables. Los magistrados solo podrán ser removidos de sus cargos por las causas graves que señale la Ley.
+
+Los requisitos para ocupar el cargo y la forma de elección, así como los casos de renuncia y terminación del encargo, serán los mismos que establecen esta Constitución y la Ley, para los Magistrados del Tribunal Superior de Justicia.
 
 (REUBICADA [N. DE E. ANTES SECCIÓN QUINTA], P.O. 24 DE JUNIO DE 2014)
 
-#### Sección tercera. Del Tribunal de Justicia Fiscal y Administrativa
+#### Sección cuarta (SIC). Del Tribunal laboral Burocrático
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1775,7 +1843,7 @@ La ley establecerá las normas para su organización y funcionamiento.
 
 (REUBICADA [N. DE E. ANTES SECCIÓN SEXTA], P.O. 24 DE JUNIO DE 2014)
 
-#### Sección cuarta. Del Tribunal laboral Burocrático
+#### Sección quinta. Del Tribunal para Menores Infractores
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1795,7 +1863,7 @@ Los jueces en materia de menores, serán nombrados previo examen por oposición 
 
 (REUBICADA [N. DE E. ANTES SECCIÓN SÉPTIMA], P.O. 24 DE JUNIO DE 2014)
 
-#### Sección quinta. Del Tribunal para Menores Infractores
+#### Sección sexta. Del Control Constitucional
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1865,7 +1933,7 @@ Las resoluciones que fueren aprobadas por dos votos, únicamente tendrán efecto
 
 (REUBICADA [N. DE E. ANTES SECCIÓN OCTAVA], P.O. 24 DE JUNIO DE 2014)
 
-#### Sección sexta. Del Control Constitucional
+#### Sección séptima. De los jueces
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1901,7 +1969,7 @@ Las decisiones del Consejo en materia de designación y readscripción de jueces
 
 (REUBICADA [N. DE E. ANTES SECCIÓN NOVENA], P.O. 24 DE JUNIO DE 2014)
 
-#### Sección séptima. De los jueces
+#### Sección octava. Del Consejo de la Judicatura
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1955,7 +2023,7 @@ La organización y funcionamiento del instituto de defensoría se determinará e
 
 (REUBICADA [N. DE E. ANTES SECCIÓN DÉCIMA], P.O. 24 DE JUNIO DE 2014)
 
-#### Sección octava. Del Consejo de la Judicatura
+#### Sección novena. Del Centro Estatal de Justicia Alternativa
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1969,29 +2037,39 @@ Los procedimientos alternativos para la resolución de controversias se regirán
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
-#### Sección novena. Del Centro Estatal de Justicia Alternativa
+#### Sección primera. De los informes de gestión gubernamental
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ## Título quinto. De los órganos constitucionales autónomos
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo II. De la Comisión Estatal de Derechos Humanos
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+### Capítulo I. Disposiciones generales
 
 ###### Artículo 130.
 
-Los órganos constitucionales autónomos tendrán personalidad jurídica y patrimonio propios, gozarán de autonomía técnica, operativa, presupuestaria y de gestión en el ejercicio de sus atribuciones; las leyes de su creación determinarán la integración y funciones de sus consejos, órganos directivos, consultivos o de gobierno, así como su estructura orgánica y funcionamiento.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2017)</small>
 
-Los órganos constitucionales autónomos serán: La Comisión Estatal de Derechos Humanos, el Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, el Instituto Electoral y de Participación Ciudadana, el Instituto de Evaluación de Políticas Públicas y la Comisión Anticorrupción, los cuales tendrán las facultades y obligaciones que expresamente les otorga esta Constitución y las leyes; así como las siguientes:
+Los órganos constitucionales autónomos tendrán personalidad jurídica y patrimonio propios, gozarán de autonomía técnica, operativa, presupuestaria y de gestión en el ejercicio de sus atribuciones; las leyes de su creación determinarán la integración y funciones de sus consejos, órganos directivos, consultivos o de gobierno, así como su estructura orgánica y funcionamiento. El Congreso del Estado, designará con el voto de las dos terceras partes de sus integrantes presentes, a los titulares de sus órganos internos de control, mismos que no serán reelectos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2017)</small>
+
+Los órganos constitucionales autónomos serán: La Comisión Estatal de Derechos Humanos, el Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, el Instituto Electoral y de Participación Ciudadana y el Instituto de Evaluación de Políticas Públicas, los cuales tendrán las facultades y obligaciones que expresamente les otorga esta Constitución y las leyes; así como las siguientes:
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 I. Iniciar leyes en las materias de su competencia. La iniciativa deberá presentarse por conducto de sus titulares, previo acuerdo de sus consejos, comisiones u órganos directivos, consultivos o de gobierno.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 II. Proponer el proyecto de presupuesto, el cual deberá incluir los tabuladores desglosados de las remuneraciones de sus servidores públicos, para que se integre en el Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 III. Sujetarse al régimen de fiscalización previsto en la presente Constitución y en las leyes
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 IV. Rendir ante el Congreso del Estado un informe anual por escrito de labores y la cuenta pública.
 
@@ -2011,7 +2089,7 @@ Los titulares de los órganos constitucionales autónomos, deberán concurrir al
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo III. Del Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales
+### Capítulo II. De la Comisión Estatal de Derechos Humanos
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2043,7 +2121,7 @@ La Comisión estará integrada por un Presidente y un Consejo de cinco miembros.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo IV. Del Instituto Electoral y de Participación Ciudadana del Estado de Durango
+### Capítulo III. Del Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2075,9 +2153,9 @@ La inobservancia a las disposiciones en materia de acceso a la información púb
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### CAPITULO V. Del Tribunal Electoral
+### Capítulo IV. Del Instituto Electoral y de Participación Ciudadana del Estado de Durango
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 138.
 
@@ -2133,9 +2211,9 @@ El Consejo General del Instituto, realizará la declaración de validez de la el
 
 Las determinaciones sobre las declaraciones de validez, el otorgamiento de las constancias de mayoría y la asignación de diputados y de los miembros de ayuntamientos podrán ser impugnadas ante el Tribunal Electoral, en los términos que señale la ley.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
-El Instituto contará con una Contraloría General como órgano de control interno, que tendrá a su cargo la fiscalización de los ingresos y egresos del mismo; en el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Su titular será designado por el Congreso del Estado en los términos que señale la ley.
+El Instituto contará con un Órgano Interno de Control, que tendrá autonomía técnica y de gestión para la fiscalización de todos los ingresos y egresos del Instituto y mantendrá la coordinación técnica con la Entidad de Auditoría Superior del Estado.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
 
@@ -2143,9 +2221,9 @@ El Consejo General integrará una Comisión de Fiscalización, que tendrá a su 
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
 
-### Capítulo VI. Del Instituto de Evaluación de Políticas Públicas del Estado de Durango
+### CAPITULO V. Del Tribunal Electoral
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 141.
 
@@ -2171,7 +2249,7 @@ La ley establecerá los impedimentos y las excusas bajo los cuales los Magistrad
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 24 DE JUNIO DE 2014)</small>
 
-### Capítulo VII. De la Comisión Anticorrupción del Estado de Durango
+### Capítulo VI. Del Instituto de Evaluación de Políticas Públicas del Estado de Durango
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2191,47 +2269,25 @@ El Instituto tendrá un Consejo General, será el órgano máximo de autoridad y
 
 La organización y funcionamiento del Instituto se realizará en los términos establecidos en su ley.
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2017)</small>
 
-### Capítulo I. Del gobierno municipal
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+### Capítulo VII
 
 ###### Artículo 144.
 
-La Comisión Anticorrupción es el órgano encargado de prevenir, investigar y sancionar, en la vía administrativa, los actos de corrupción cometidos por los servidores públicos del Estado y los municipios, así como por cualquier persona física o moral involucrada en tales actos o que resulte beneficiada por los mismos.
-
-La Comisión se rige por los principios de certeza, legalidad, independencia, imparcialidad, objetividad, profesionalismo y transparencia.
-
-La Comisión desarrollará programas y acciones para difundir y promover la ética y la honestidad en el servicio público, así como la cultura de la legalidad.
-
-Igualmente podrá emitir recomendaciones particulares o de carácter general orientadas a mejorar los procedimientos administrativos y prevenir las prácticas de corrupción.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 145.
 
-La Comisión se integrará por tres comisionados, uno de los cuales será su Presidente, designados conforme a las reglas y procedimiento señalados en esta Constitución y en la ley.
-
-Los comisionados durarán en su encargo siete años improrrogables y durante este periodo no podrán ocupar ningún otro empleo, cargo o comisión, salvo en asociaciones científicas, docentes, literarias, de beneficencia u otras no remuneradas. El Comisionado Presidente durará en su encargo cuatro años no renovables.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 146.
 
-Cuando la Comisión encuentre actos presumiblemente constitutivos de delito dará vista al Ministerio Público, y estará facultada para coadyuvar en la investigación. En los casos de corrupción las responsabilidades prescribirán en un plazo de diez años.
-
-La ley penal establecerá los delitos de corrupción y sus respectivas penas, que incluirán en su caso el decomiso y la privación de la propiedad de los bienes que se hayan adquirido directa o indirectamente como resultado de la comisión de los mismos.
-
-Las sanciones impuestas por la Comisión podrán ser recurridas, en los términos de las leyes de la materia.
-
-Toda autoridad y servidor público está obligado a prestar auxilio a la Comisión y a sus representantes para el buen desempeño de sus funciones.
-
-La Comisión contará con un consejo consultivo denominado Consejo Estatal de Ética Pública, como órgano interinstitucional encargado de promover acciones para fortalecer el comportamiento ético de la sociedad y coordinar las instancias de gobierno encargadas de prevenir y combatir la corrupción en todo el Estado.
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo II. De las facultades y obligaciones de los municipios
+### Capítulo I. Del gobierno municipal
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2239,7 +2295,7 @@ La Comisión contará con un consejo consultivo denominado Consejo Estatal de É
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo III. De la colaboración entre municipios y otras entidades públicas
+### Capítulo II. De las facultades y obligaciones de los municipios
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2309,7 +2365,7 @@ En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absolu
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo I. Del manejo de los recursos públicos
+### Capítulo III. De la colaboración entre municipios y otras entidades públicas
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2359,7 +2415,7 @@ Los miembros del Ayuntamiento deberán concurrir al Congreso del Estado a solici
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo II. Del Sistema Estatal de Rendición de Cuentas
+### Capítulo I. Del manejo de los recursos públicos
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2377,13 +2433,13 @@ El Municipio deberá realizar las funciones o prestar los servicios que el Estad
 
 Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas, formen o tiendan a formar una continuidad demográfica, la Federación, los estados, y los municipios respectivos, en el ámbito de su competencia, planearán y regularán de manera conjunta y coordinada su desarrollo en los términos de la ley.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2017)</small>
 
-## Título séptimo. De la hacienda pública, la rendición de cuentas y las responsabilidades de los servidores públicos
+## Título séptimo. De la hacienda pública, la rendición de cuentas, el combate a la corrupción y las responsabilidades de los servidores públicos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo III. De las responsabilidades de los servidores públicos
+### Capítulo II. Del Sistema Estatal de Rendición de Cuentas Y el Sistema Local Anticorrupción
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2453,9 +2509,9 @@ La responsabilidad del Estado y de los municipios por los daños que, con motivo
 
 Los servidores públicos están obligados a pagar los daños y perjuicios que causen por su actuación negligente o dolosa en el desempeño de sus funciones. Las entidades públicas a las que pertenezcan serán responsables solidarios.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2017)</small>
 
-### Capítulo I. De la reforma de la Constitución
+### Capítulo III. De las responsabilidades de los servidores públicos
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2465,11 +2521,67 @@ La transparencia en el ejercicio de la función pública tiene por objeto el for
 
 Son mecanismos del Sistema Estatal de Rendición de Cuentas, el informe de gestión gubernamental y la cuenta pública.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+Estarán obligados a presentar las declaraciones de situación fiscal, patrimonial y de intereses, bajo protesta de decir verdad y ante la Entidad de Auditoría Superior del Estado todos los Servidores Públicos, en los términos que disponga la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+###### Artículo 163 Bis.
+
+En los términos de la legislación aplicable, el Sistema Local Anticorrupción, tiene por objeto establecer principios bases generales, políticas públicas y procedimientos para la coordinación entre las autoridades de los órdenes de gobierno en la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Es una instancia cuya finalidad es establecer, articular y evaluar la política en materia de combate a la corrupción en el Estado, de conformidad con la legislación aplicable.
+
+En los términos de la legislación aplicable, el Sistema Local Anticorrupción, participará en el Sistema Nacional Anticorrupción.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+###### Artículo 163 Ter.
+
+El Sistema Local Anticorrupción, se integra de la siguiente manera:
+
+I. Los integrantes del Consejo Coordinador;
+
+II. El Consejo de Participación Ciudadana; y
+
+III. Los órganos de Control Interno de los Municipios, quienes concurrirán a través de sus representantes.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+###### Artículo 163 Quáter.
+
+El Consejo Coordinador es la instancia responsable de establecer mecanismos de coordinación entre los integrantes del Sistema Local Anticorrupción, y tendrá bajo su encargo el diseño, promoción y evaluación de políticas públicas en materia de combate a la corrupción y tendrá las facultades que le señale la legislación aplicable.
+
+Son integrantes del Consejo Coordinador:
+
+I. Un representante del Consejo de Participación Ciudadana, quien lo presidirá;
+
+II. El titular de la Entidad de Auditoría Superior del Estado;
+
+III. El titular de la Fiscalía Especializada en Combate a la Corrupción;
+
+IV. El responsable del control interno del Poder Ejecutivo;
+
+V. Un representante del Consejo de la Judicatura del Poder Judicial del Estado;
+
+VI. El Comisionado Presidente del Instituto Duranguense de Acceso a la Información y Protección de Datos Personales, y
+
+VII. El Presidente del Tribunal de Justicia Administrativa.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+Artículo 163 Quintus.-
+
+El Consejo de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. El procedimiento para la designación de integrantes deberá ser solventado conforme lo establezca la Ley de la materia.
+
+Los integrantes del Consejo de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, local o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán.
+
+Durarán en su encargo cinco años, sin posibilidad de reelección y serán renovados de manera escalonada, y sólo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves.
+
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-#### Sección primera. De los informes de gestión gubernamental
+#### Sección segunda. De la Cuenta Pública
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
 
 ###### Artículo 164.
 
@@ -2563,7 +2675,7 @@ En el caso de la Cuenta Pública que remita el Ejecutivo sólo se podrá ampliar
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo II. De la inviolabilidad de la Constitución
+### Capítulo I. De la reforma de la Constitución
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2579,11 +2691,25 @@ La autoridad encargada de recibir las declaraciones de situación patrimonial, d
 
 Todo servidor público, antes de tomar posesión de su cargo protestará guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado y las leyes que de ellas emanen, según la fórmula siguiente: "¿PROTESTA GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN GENERAL DE LA REPÚBLICA, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE ... QUE EL PUEBLO LE HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NACIÓN Y DEL ESTADO?". Después de haber contestado el interpelado: SÍ PROTESTO, el que interroga dirá: «SI ASÍ NO LO HICIERE, QUE LA NACIÓN Y EL ESTADO SE LO DEMANDEN»
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 175.
 
-Para los efectos de las responsabilidades a que alude este Título, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado y de los órganos constitucionales autónomos; los integrantes de los concejos municipales; y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en las dependencias, entidades y organismos en los poderes públicos, en los municipios y en los órganos constitucionales autónomos.
+Son principios rectores que rigen el servicio público los siguientes: legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad y competencia por mérito.
+
+Se sancionará administrativamente a los servidores públicos por los actos (sic) omisiones que afecten la legalidad, honradez, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión; dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas y deberán imponerse de acuerdo con los beneficios económicos que en su caso haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
+
+Los entes públicos estatales y municipales, tendrán órganos internos de control, con las facultades que determine la Ley, para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas y para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a qué se refiere esta Constitución.
+
+En el cumplimiento de sus obligaciones, las autoridades responsables de la investigación y sanción de las responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro o inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
+
+Las faltas administrativas graves serán investigadas y sustanciadas por la Entidad de Auditoría Superior del Estado y la Fiscalía Especializada en Combate a la Corrupción, según corresponda y serán resueltas por el Tribunal de Justicia Administrativa.
+
+La ley establecerá los supuestos y procedimientos para la (sic) impugnar la determinación judicial con relación a los delitos derivados de las faltas administrativas graves en materia de corrupción y enriquecimiento inexplicable.
+
+La Ley señalara los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencias de los actos y omisiones y cuando sean graves, los plazos de prescripción no serán inferiores a siete años.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los integrantes del Poder Judicial del Estado conocerá el Consejo de la Judicatura, sin perjuicio de las atribuciones de la Entidad de Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, así como las facultades del Congreso en materia de responsabilidades.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2660,6 +2786,10 @@ La ley garantizará el estricto cumplimiento de lo previsto en el presente artí
 ## Título octavo. De la reforma y la inviolabilidad de la Constitución
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
+
+### Capítulo II. De la inviolabilidad de la Constitución
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 181.
 
@@ -3629,7 +3759,7 @@ La expedición de la ley que regulará la organización y funcionamiento del Ins
 
 Octavo.
 
-El Congreso del Estado expedirá la ley que regule la organización y funcionamiento de la Comisión Anticorrupción, dentro de los 180 días posteriores a la fecha de entrada en vigor de la Ley Federal correspondiente.
+> <small>(DEROGADO, P.O. 16 DE MARZO DE 2017)</small>
 
 P.O. 6 DE MARZO DE 2014.
 
@@ -3700,3 +3830,33 @@ SEGUNDO.- El Primer Informe de Gobierno correspondiente a la Administración Est
 TERCERO.- Por única ocasión, el Plan de Desarrollo Institucional y la Agenda Legislativa Común que expida el Congreso del Estado tendrá una vigencia de dos años y serán publicados en el Periódico Oficial del Estado, a más tardar el 15 de enero de 2017.
 
 CUARTO.- La Comisión Permanente será instalada, una vez que la presente reforma surta sus efectos constitucionales.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 119.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+Segundo.- Se derogan todas las disposiciones legales y administrativas que contravengan lo dispuesto en el presente Decreto.
+
+Tercero.- El Congreso del Estado deberá expedir la legislación necesaria para hacer efectivas las reformas contenidas en el presente Decreto en un término no mayor a 90 días; así mismo deberá realizar las adecuaciones a la Ley Orgánica de la Administración Pública del Estado, con el objeto de que la Secretaria responsable del control interno del Poder Ejecutivo, asuma las facultades necesarias para el cumplimiento de lo previsto en el presente Decreto y en las Leyes que derivan del mismo.
+
+Cuarto.- Los acuerdos, convenios, así como los asuntos, expedientes, medios de impugnación y demás actos y procedimientos pendientes en materia fiscal y administrativa que se encuentren bajo cualquier concepto en el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, se transferirán a cargo del Tribunal de Justicia Administrativa.
+
+Quinto.- Los actuales Magistrados del Tribunal de Justicia Fiscal y Administrativa, concluirán su encargo al término del periodo para el que fueron designados y quedaran adscritos al Tribunal de Justicia Administrativa en los términos que disponga la declaratoria que al efecto expida el Congreso del Estado.
+
+Los recursos humanos, materiales, financieros y presupuestales con los que cuenta el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, incluyendo todos sus bienes y los derechos derivados de los fondos o fideicomisos vigentes, pasaran a formar parte del patrimonio del Tribunal de Justicia Administrativa, en los términos que determine la ley a la que se refiere el presente Decreto.
+
+La situación laboral de los Servidores adscritos al Tribunal de Justicia Administrativa no sufrirá variación en los derechos vigentes.
+
+El Consejo de la Judicatura del Tribunal Superior de Justicia, procederá administrativamente a la desincorporación material, financiera y administrativa del Tribunal de Justicia Fiscal y Administrativa, en los términos que contenga el acuerdo respectivo.
+
+Sexto.- El Congreso del Estado realizará las adecuaciones orgánicas y legales necesarias a efecto de designar a los titulares de los Órganos Internos de Control de los organismos constitucionales autónomos y prevendrá la creación y funcionamiento de los Órganos Internos de Control de los Ayuntamientos.
+
+Los titulares de los órganos a los que se refiere el presente Decreto, que se encuentren en funciones a la entrada en vigor del mismo, continuarán en su encargo en los términos en los que fueron nombrados; en lo sucesivo, el titular de la Secretaria responsable del Control Interno del Poder Ejecutivo, deberá ser ratificado en los términos del presente Decreto en un plazo no mayor a treinta días a partir de la vigencia del mismo.
+
+Séptimo.- El Congreso del Estado en los términos que previene la legislación federal y local aplicable procederá, a iniciar el procedimiento para la designación del Consejo de Participación Ciudadana; el Ejecutivo de la misma manera, deberá proponer al titular de la Fiscalía Especializada en Combate a la Corrupción, en ambos casos ello sucederá en un termino no mayor a 90 días, en el cual deberá estar integrado el Sistema Local Anticorrupción.
+
+Octavo.- Las declaraciones de situación patrimonial, fiscal y de intereses de los Servidores Públicos a los que alude el presente Decreto serán presentadas ante la Entidad de Auditoria Superior del Estado en la fecha que al efecto señale la legislación aplicable.
+
+Noveno.- Se deroga el Artículo Octavo Transitorio del Decreto 540, expedido por la LXV Legislatura, publicado en el Periódico Oficial del Estado Número. 69 de fecha 29 de agosto de 2013.
