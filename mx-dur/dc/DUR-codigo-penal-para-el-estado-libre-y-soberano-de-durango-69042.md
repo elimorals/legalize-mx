@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2017-03-05"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -83,8 +83,6 @@ No podrá imponerse pena o medida de seguridad, si no se acredita la existencia 
 
 La ley penal sólo tendrá efecto retroactivo si favorece al imputado, acusado, sentenciado cualquiera que sea la etapa del procedimiento, incluyendo la ejecución de la sanción. En caso de duda, se aplicará la ley más favorable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 3.
@@ -92,8 +90,6 @@ La ley penal sólo tendrá efecto retroactivo si favorece al imputado, acusado, 
 Prohibición de responsabilidad objetiva.
 
 Para que la acción o la omisión sean penalmente relevantes, deben realizarse en forma dolosa o culposa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -104,8 +100,6 @@ La sola causación del resultado no podrá fundamentar, por sí sola, la respons
 Principio del bien jurídico y de la antijuridicidad material.
 
 Para que la acción o la omisión sean consideradas delictivas, se requiere que lesionen o pongan en peligro, sin causa justa, al bien jurídico tutelado por la ley penal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -160,8 +154,6 @@ Es aplicable la ley penal vigente en el momento de la realización del hecho pun
 ###### Artículo 10.
 
 Excepción de ley más favorable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -243,25 +235,17 @@ Delito Instantáneo, continuo o continuado.
 
 El delito atendiendo a su momento de consumación, puede ser:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 I. Instantáneo: Cuando la consumación se agota en el mismo momento en que se han realizado todos los elementos de la descripción legal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 II. Permanente o continuo: Cuando se viola el mismo precepto legal, y la consumación se prolonga en el tiempo; y,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 III. Continuado: Cuando con unidad de propósito delictivo, pluralidad de conductas e identidad de sujeto pasivo, se concretan los elementos de un mismo tipo penal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -293,8 +277,6 @@ Tentativa punible.
 
 Existe tentativa punible, cuando la resolución de cometer un delito se exterioriza realizando, en parte o totalmente, los actos ejecutivos que deberían producir el resultado u omitiendo los que deberían evitarlo, si por causas ajenas a la voluntad del sujeto activo no se llega a la consumación, pero se pone en peligro el bien jurídico tutelado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 20.
@@ -302,8 +284,6 @@ Existe tentativa punible, cuando la resolución de cometer un delito se exterior
 Desistimiento y arrepentimiento.
 
 Si el sujeto se desiste voluntariamente o de propio impulso de la ejecución o impide la consumación del delito, no se impondrá pena o medida de seguridad alguna por lo que a éste se refiere, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -371,15 +351,11 @@ XXVIII. Violación a la intimidad personal o familiar.
 
 ### CAPÍTULO III. AUTORÍA Y PARTICIPACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 21.
 
 Formas de intervención.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -399,8 +375,6 @@ VI. Es partícipe encubridor: quien con posterioridad a su ejecución, auxilie a
 
 Quienes únicamente intervengan en la planeación o preparación del delito, así como quienes determinen a otro o le presten ayuda o auxilio, sólo responderán si el hecho antijurídico del autor alcanza al menos el grado de tentativa del delito que se quiso cometer.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 La instigación y la complicidad a que se refieren las fracciones IV y V, respectivamente, sólo son admisibles en los delitos dolosos. Para las hipótesis previstas en las fracciones V y VI se impondrá la punibilidad dispuesta en el artículo 77 de este Código.
@@ -411,8 +385,6 @@ Prohibición de penas trascendentales.
 
 Estando prohibidas las penas trascendentales, la responsabilidad penal no debe pasar de la persona o bienes del imputado y los partícipes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 23.
@@ -421,23 +393,17 @@ Culpabilidad del instigador.
 
 Los instigadores serán responsables únicamente de los actos de instigación cuando se tenga el dominio del hecho, pero no de los demás que ejecute el instigado, a no ser que éstos fueran racionalmente previsibles o consecuencia inmediata y necesaria del acto instigado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 24.
 
 Culpabilidad en los tipos complementados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 Las circunstancias modificativas o calificativas del delito aprovechan o perjudican a todos los imputados o acusados que tuvieren conocimiento de ellas en el momento de su intervención.
 
 Las circunstancias personales de alguno o algunos de los imputados o acusados que sean modificativas o calificativas del delito o constituyan un elemento de éste, aprovecharán o perjudicarán únicamente a aquellos en quienes concurran.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -465,15 +431,11 @@ Cuando varios sujetos, sin concierto alguno, intervengan en la comisión de un d
 
 Responsabilidad de las personas morales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 Sin perjuicio de la responsabilidad en que hubieren incurrido las personas físicas, miembros o representantes de una persona moral, con excepción de las instituciones estatales, las personas morales también serán penalmente responsables según sea la clasificación jurídica que se les atribuya, la forma de intervención y la naturaleza dolosa o culposa de su conducta, cuando se cometa algún un (sic) hecho delictivo con los medios que para tal objeto le haya proporcionado la persona jurídica a la persona física o sus representantes, de modo que resulte cometido a nombre, bajo el amparo o en beneficio de aquélla. A las personas morales se les impondrá las consecuencias jurídicas correspondientes.
 
 ### CAPÍTULO IV. CAUSAS QUE EXCLUYEN EL DELITO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -554,8 +516,6 @@ I. Si las disposiciones legales violadas por el imputado o acusado son incompati
 II. Si uno o varios delitos constituyen un grado o grados de otro, o medio de ejecución. En este caso se aplicará la disposición que castigue este último; y,
 
 III. Si un delito constituye un elemento de otro delito o una circunstancia agravante de su penalidad. En este caso se aplicará la disposición que castigue este último delito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1143,8 +1103,6 @@ En la aplicación de las penas o medidas de seguridad a que se refiere este art�
 
 ### CAPÍTULO III. CASOS DE COMPLICIDAD, AUXILIO EN CUMPLIMIENTO DE PROMESA ANTERIOR Y AUTORÍA INDETERMINADA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 77.
@@ -1197,8 +1155,6 @@ d) Si tuvo tiempo para obrar con la reflexión y cuidado necesarios; y,
 
 e) El estado del equipo, vías y demás condiciones de funcionamiento mecánico; tratándose de infracciones cometidas en los servicios de empresas transportadoras y en general por conductores de vehículos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 79 Bis.
@@ -1239,13 +1195,9 @@ Punibilidad del delito continuado.
 
 En caso de delito continuado, se aumentarán en una mitad las penas que la ley prevea para el delito cometido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO VI. ERROR VENCIBLE EN LAS CAUSAS DE LICITUD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1257,13 +1209,9 @@ En caso de que sea vencible el error de tipo a que se refiere el apartado A, fra
 
 En caso de que sea vencible el error de prohibición a que se refiere el apartado C fracción I del artículo 28 de este Código, la penalidad será de hasta una tercera parte del delito de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO VII. EXCESO EN LAS CAUSAS DE LICITUD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1465,13 +1413,9 @@ Cualquiera que sea la pena o la medida de seguridad impuesta en sentencia que ca
 
 El reconocimiento de inocencia del sentenciado extingue la obligación de reparar el daño.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO V. PERDÓN QUE OTORGA LA VÍCTIMA U OFENDIDO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2298,8 +2242,6 @@ A quien sin consentimiento de una mujer mayor de dieciocho años o aún con el c
 Se impondrá de cuatro a siete años de prisión y multa de doscientas ochenta y ocho a quinientas cuatro, veces la Unidad de Medida y Actualización, a quien implante a una mujer un óvulo fecundado, cuando hubiere utilizado para ello un óvulo o esperma de donante no autorizado, sin el consentimiento expreso de la paciente o del donante o con el consentimiento de menor de edad o de incapaz para comprender el significado del hecho o para resistirlo.
 
 Si del delito resulta un embarazo, la pena aplicable será de cinco a catorce años de prisión y multa de trescientas sesenta a mil ocho veces la Unidad de Medida y Actualización.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3323,7 +3265,7 @@ A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada at
 
 Artículo 275 bis 3. Para los efectos del presente subtitulo la reparación del daño incluirá además:
 
-l. La realización de las acciones necesarias para restaurar las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse el delito, cuando ello sea posible la ejecución de acciones u obras que permitan compensar los daños ambientales que se hubiesen generado y si ninguna de ellas fuese posible el pago de una indemnización que se integrara a un fondo ambiental a fin de desarrollar programas estatales y municipales vinculados con la preservación del equilibrio ecológico y la protección del medio ambiente.
+I. La realización de las acciones necesarias para restaurar las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse el delito, cuando ello sea posible la ejecución de acciones u obras que permitan compensar los daños ambientales que se hubiesen generado y si ninguna de ellas fuese posible el pago de una indemnización que se integrara a un fondo ambiental a fin de desarrollar programas estatales y municipales vinculados con la preservación del equilibrio ecológico y la protección del medio ambiente.
 
 A fin de determinar el monto de la indemnización a que se refiere esta fracción se deberá considerar los daños ambientales ocasionados, en valor de los bienes afectados, el catalogo de las acciones de compensación que le envié la secretaria en términos de lo dispuesto por la ley de gestión ambiental sustentable para el estado de Durango y el derecho de toda persona de tener un ambiente sano; debiendo apoyarse en todo caso en un dictamen técnico emitido por la autoridad ambiental competente para fijar el monto de la indemnización correspondiente la cual en ninguno de los casos deberá ser inferior al valor de los bienes afectados o de los beneficios obtenidos por la conducta;
 
@@ -3631,8 +3573,6 @@ En caso de que se haga uso de métodos que provoquen un grave sufrimiento al ani
 
 Se impondrá de tres meses a tres años de prisión y doscientos a cuatrocientos días multa, a la persona que organice, promueva, difunda, realice peleas de perros, con o sin apuestas o, las permita en su propiedad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
 
 SUBTÍTULO SÉPTIMO
@@ -3781,7 +3721,7 @@ DELITOS CONTRA LA FILIACIÓN Y LA INSTITUCIÓN DEL MATRIMONIO
 
 ### CAPÍTULO II. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 291.
 
@@ -3875,11 +3815,15 @@ Las mismas penas se impondrán a aquellas personas que obligadas a informar acer
 
 ###### Artículo 300.
 
-A quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrán de seis meses a cuatro años de prisión y multa de treinta y seis a doscientas ochenta y ocho veces la Unidad de Medida y Actualización y perderá el derecho de pensión alimenticia y en su caso, la prohibición de acudir o residir en lugar determinado así como la prohibición de comunicarse por cualquier medio con la víctima. Asimismo se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan por cualquier otro delito.
+A quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrá de seis meses a cinco años de prisión y multa de treinta y seis a doscientos ochenta y ocho veces la Unidad de Medida y Actualización y perderá el derecho de pensión alimenticia y en su caso, la prohibición de acudir o residir en lugar determinado así como la prohibición de comunicarse por cualquier medio con la víctima. Asimismo se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan por cualquier otro delito.
 
 La educación o formación del menor no será en ningún caso considerada justificación como forma de maltrato.
 
 Si la víctima de violencia familiar fuera una mujer en estado de gravidez, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo, independientemente de las penas que correspondan por cualquier otro delito.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+Se considera violencia familiar la alienación parental de quienes tengan la patria potestad, tutela o custodia del menor de edad.
 
 ###### Artículo 301.
 
@@ -5107,8 +5051,6 @@ En materia de delitos electorales, se estará a lo dispuesto por la Ley General 
 
 ## TRANSITORIOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO PRIMERO.
@@ -5118,8 +5060,6 @@ Entrada en vigor.
 El presente Código entrará en vigor en las fechas y ámbitos espacial y temporal de validez que determinen las Declaratorias que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
 
 Para el Sistema Integral de Justicia para Menores Infractores, el presente ordenamiento entrará en vigor en todo el territorio del Estado, en la fecha que determine la declaratoria que emita el Congreso del Estado o la Comisión Permanente, a solicitud expresa del Tribunal Superior de Justicia del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -5135,8 +5075,6 @@ II.- En el resto de los Distritos Judiciales o Regiones, sus disposiciones segui
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO TERCERO.
@@ -5147,8 +5085,6 @@ Procedimientos anteriores.
 
 En los procedimientos iniciados por delitos previstos en el Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 35 del 29 de abril de 2004 y sus reformas posteriores, que se perseguían oficiosamente y que a partir de la entrada en vigor del Código Penal para el Estado Libre y Soberano de Durango aprobado mediante Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009, se persigan por querella, no terminarán, a no ser que la víctima otorgue el perdón.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO CUARTO.
@@ -5156,8 +5092,6 @@ En los procedimientos iniciados por delitos previstos en el Código Penal Para e
 Libertad provisional.
 
 En los delitos cometidos con anterioridad a la vigencia del presente código, si los responsables tenían derecho a la libertad provisional bajo caución, seguirán gozando de dicho beneficio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -5167,8 +5101,6 @@ Modificación o reubicación de tipos penales.
 
 La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO SEXTO.
@@ -5176,8 +5108,6 @@ La modificación o reubicación de cualquier tipo penal a que se refiere este de
 Acción penal y pretensión punitiva.
 
 Cuando algún ordenamiento jurídico local haga referencia a la figura de la acción penal, se entenderá que lo hace refiriéndose a la pretensión punitiva consignada en el presente Código Penal para el Estado Libre y Soberano de Durango.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -5187,8 +5117,6 @@ Distribución de competencias en ejecución de sentencias.
 
 Las disposiciones relativas a la ejecución de penas, medidas de seguridad, medidas cautelares y las condiciones impuestas en la suspensión del proceso a prueba, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, serán ejercidas por los Jueces de Ejecución, sin perjuicio de la coordinación que deban mantener con la Dirección General de Ejecución de las Penas y Medidas de Seguridad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO OCTAVO.
@@ -5196,8 +5124,6 @@ Las disposiciones relativas a la ejecución de penas, medidas de seguridad, medi
 Aplicación de este código.
 
 El presente código, se aplicará en las fechas y ámbitos espaciales y temporales de validez, que determinen las declaratorias a que alude el artículo primero transitorio del presente Decreto; y sus disposiciones sólo se aplicarán a los procedimientos por delitos cometidos a partir de su entrada en vigor.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -5237,7 +5163,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUÉLLAR
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
@@ -5253,7 +5179,7 @@ Artículo Tercero.- Se derogan todas las disposiciones que se opongan al present
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NO. 420 POR EL QUE SE EXPIDE DE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.</small>
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NO. 420 POR EL QUE SE EXPIDE DE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.]</small>
 
 PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
 
@@ -5261,7 +5187,7 @@ SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorab
 
 TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
 
-> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NO. 420 POR EL QUE SE EXPIDE DE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.</small>
+> <small>[N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NO. 420 POR EL QUE SE EXPIDE DE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.]</small>
 
 Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del artículo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
 
@@ -5437,7 +5363,7 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 8 DE MAYO DE 2014.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 139 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 139 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 DECRETO 139
 
@@ -5525,7 +5451,7 @@ TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente.
 
 P.O. 5 DE MARZO DE 2015.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 326 QUE EXPIDE LA ADOPCIÓN AL SISTEMA PENAL ACUSATORIO Y LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN LOS DISTRITOS JUDICIALES QUE COMPRENDEN LOS SIGUIENTES MUNICIPIOS: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII); ADEMÁS DE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL, EN LOS XIII DISTRITOS JUDICIALES DEL ESTADO DE DURANGO.</small>
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 326 QUE EXPIDE LA ADOPCIÓN AL SISTEMA PENAL ACUSATORIO Y LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN LOS DISTRITOS JUDICIALES QUE COMPRENDEN LOS SIGUIENTES MUNICIPIOS: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII); ADEMÁS DE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL, EN LOS XIII DISTRITOS JUDICIALES DEL ESTADO DE DURANGO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2015)</small>
 
@@ -5545,7 +5471,7 @@ Artículo Tercero. Quedan abrogados, el Código de Procedimientos Penales para e
 
 Artículo Cuarto. Se declara la entrada en vigor de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, en la totalidad de los distritos judiciales que comprenden el Estado de Durango, de conformidad con lo establecido en la Ley Orgánica del Poder Judicial del Estado de Durango, a partir del 07 de mayo de 2015.
 
-> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 326 QUE EXPIDE LA ADOPCIÓN AL SISTEMA PENAL ACUSATORIO Y LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, ADEMÁS DE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL, EN LOS XIII DISTRITOS JUDICIALES DEL ESTADO DE DURANGO.</small>
+> <small>[N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 326 QUE EXPIDE LA ADOPCIÓN AL SISTEMA PENAL ACUSATORIO Y LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, ADEMÁS DE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL, EN LOS XIII DISTRITOS JUDICIALES DEL ESTADO DE DURANGO.]</small>
 
 Primero. Publíquese el presente Decreto que contiene las Declaratorias antes aludidas, en el Periódico Oficial del Gobierno del Estado de Durango, para que surta sus efectos a partir de las cero horas del día 7 de mayo de 2015.
 
@@ -5563,7 +5489,7 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipula
 
 P.O. 11 DE JUNIO DE 2015.
 
-> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 361, QUE REFORMA AL DECRETO NÚMERO 326 POR EL QUE SE EXPIDE LA DECLARATORIA QUE ADOPTA EL SISTEMA PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 5 DE MARZO DE 2015.</small>
+> <small>[N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 361, QUE REFORMA AL DECRETO NÚMERO 326 POR EL QUE SE EXPIDE LA DECLARATORIA QUE ADOPTA EL SISTEMA PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 5 DE MARZO DE 2015.]</small>
 
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -5614,3 +5540,11 @@ P.O. 5 DE MARZO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 122.- POR EL QUE SE REFORMA EL ARTÍCULO 300 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
