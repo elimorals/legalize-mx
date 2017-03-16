@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-desarrollo-urbano-69875"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2017-03-01"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2009.
 
@@ -733,23 +733,23 @@ III. Surjan técnicas diferentes que permitan una formulación más satisfactori
 
 IV. No se apliquen o dejen de cumplirse en sus etapas de ejecución, salvo caso fortuito o de fuerza mayor.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
 ###### Artículo 40.
 
-La formulación o modificación de programas de desarrollo urbano sustentable se llevarán a cabo bajo las consideraciones siguientes:
+La formulación o modificación de los programas previstos por el artículo 32 de esta Ley, se llevarán a cabo bajo las consideraciones siguientes:
 
-I. La formulación de un programa de desarrollo urbano sustentable procederá en los siguientes casos:
+I. La formulación procederá en los siguientes casos:
 
-1. Cuando se trate de la fundación de un centro de población, conforme a lo dispuesto en el artículo 59 de esta Ley;
+a) Cuando se trate de la fundación de un centro de población, conforme a lo dispuesto en el artículo 59 de esta Ley;
 
-2. Cuando se haya dispuesto la cancelación de un programa vigente, siempre que se justifique con alguno de los supuestos establecidos en el artículo anterior, y
+b) Cuando se haya dispuesto la cancelación de un programa vigente, siempre que se justifique con alguno de los supuestos establecidos en el artículo anterior;
 
-3. Cuando se trate de un programa de desarrollo urbano sustentable inexistente, de los niveles de planeación contemplados en las fracciones II, III, IV y V del artículo 32 de esta Ley, y II. La modificación de programas de desarrollo urbano sustentable procederá cuando no cambie la delimitación entre las áreas urbanizables y las no urbanizables y no se altere el límite del centro de población.
+c) Cuando se trate de un programa de desarrollo urbano sustentable inexistente, de los niveles de planeación contemplados en las fracciones II, III, IV y V del artículo 32 de esta Ley, o
 
-Para aquellos casos en los que la modificación de un programa se derive del interés por incrementar áreas aptas para el desarrollo urbano sustentable, éstas serán viables siempre que se haya ocupado el 50% del área apta para el desarrollo urbano sustentable de la misma densidad, considerada en el programa vigente; el cumplimiento de esta disposición se llevará a cabo mediante el procedimiento que para tal efecto se detalle en el reglamento de ordenamiento territorial.
+d) Cuando exista necesidad de la emisión de un nuevo programa, conforme a la opinión de la Secretaría, con base en los criterios establecidos en el reglamento de ordenamiento territorial, y
 
-La modificación de densidades únicamente procederá siempre que éstas se desplacen un máximo de dos rangos de densidad, en los casos que sea aplicable.
-
-El procedimiento mediante el cual se realizarán las modificaciones y las normas aplicables se detallarán en el reglamento de ordenamiento territorial.
+II. La modificación procederá en los casos y conforme al procedimiento que para tal efecto se establezcan en el reglamento de ordenamiento territorial.
 
 ###### Artículo 41.
 
@@ -1075,7 +1075,7 @@ Las disposiciones normativas del ordenamiento territorial y del ordenamiento eco
 
 ###### Artículo 80 Bis.
 
-En concordancia con lo dispuesto por la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos,para (sic) contribuir al logro de los objetivos de la política ambiental en materia de asentamientos humanos, se podrán establecer ecozonas que promuevan el desarrollo urbano sustentable, con una perspectiva ambiental, económica y social.
+En concordancia con lo dispuesto por la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, para contribuir al logro de los objetivos de la política ambiental en materia de asentamientos humanos, se podrán establecer ecozonas que promuevan el desarrollo urbano sustentable, con una perspectiva ambiental, económica y social.
 
 Cuando se determine el establecimiento de ecozonas, los Municipios deberán expedir o adecuar sus disposiciones normativas a fin de ejercer sus atribuciones competenciales, conforme los parámetros y lineamientos que establezcan los programas y reglamentos que regulen la ecozona y demás disposiciones jurídicas y administrativas aplicables.
 
@@ -1413,11 +1413,11 @@ El Municipio podrá convenir con el Gobierno del Estado los mecanismos a través
 
 A toda solicitud a la cual deba recaer una resolución administrativa o autorización en materia de administración urbana, la autoridad estatal o municipal deberá notificar por escrito al interesado la resolución correspondiente dentro de los quince días hábiles contados a partir de la recepción de la misma; el funcionario o funcionarios que propicien o sean responsables de no cumplir con el término anterior, serán sancionados de acuerdo a lo señalado por la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 127.
 
-Las autoridades en el ámbito de su competencia, solicitarán el Dictamen de Impacto Urbano expedido por la Secretaría de Desarrollo Sustentable, para aquellas acciones urbanas que aún y cuando sean compatibles con el uso establecido, alteren el funcionamiento de la estructura urbana del centro de población, de la región, Zona Conurbada o Zona Metropolitana. El dictamen de impacto urbano señalara, en su caso, la necesidad de formular un Programa Parcial de Desarrollo Urbano Sustentable, el cual será formulado por la Autoridad Municipal, o cuando ésta lo autorice, por el solicitante bajo su supervisión.
+Las autoridades en el ámbito de su competencia, solicitarán el Dictamen de Impacto Urbano expedido por la Secretaría de Desarrollo Sustentable, para aquellas acciones urbanas que aún y cuando sean compatibles con el uso establecido, alteren el funcionamiento de la estructura urbana del centro de población, de la región, Zona Conurbada o Zona Metropolitana. El dictamen de impacto urbano señalará, en su caso, la necesidad de formular un Programa Parcial de Desarrollo Urbano Sustentable, cuya elaboración se sujetará a las disposiciones establecidas al efecto en el reglamento de ordenamiento territorial.
 
 ###### Artículo 128.
 
@@ -2250,3 +2250,17 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS CINCO POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSAS LEYES ESTATALES, EN MATERIA DE COMPETENCIA ECONÓMICA Y LIBRE CONCURRENCIA”.]
+
+PRIMERO. Aprobado el presente decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos delo (sic) dispuesto por los artículos 44, 47 y 70 Fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión de (sic) Gobierno del Estado De Morelos.
+
+TERCERO. A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones jurídicas que contravengan el presente decreto.
+
+CUARTO. Dentro de un plazo no mayor a 90 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, se deberán realizar, las adecuaciones a las disposiciones reglamentarias correspondientes.
+
+QUINTA (SIC). Dentro de un plazo no mayor a 150 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, los Ayuntamientos municipales del Estado de Morelos, deberán realizar en su caso, las adecuaciones necesarias a sus reglamentos de construcciones, así como al de ecología y protección al ambiente, según corresponda.
