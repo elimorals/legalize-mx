@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-a-la-informacion-ante-el-883
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-18"
-last_updated: "2012-06-18"
+last_updated: "2017-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 ---
 # REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE CHINICUILA, MICHOACAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE CHINICUILA, MICHOACÁN, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE CHINICUILA, MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el lunes 18 de junio de 2012.
 
@@ -388,3 +390,17 @@ Primero.- El presente Reglamento entrará en vigor al día siguiente de su publi
 Segundo.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán, para su conocimiento y efectos legales conducentes.
 
 Chinicuila, Michoacán de Ocampo, a los 29 días del mes de marzo del año 2012 dos mil doce.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE CHINICUILA, MICHOACÁN".]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo. Y para el conocimiento ciudadano publíquese en los estrados del Palacio Municipal y en los lugares que el H. Ayuntamiento estime pertinente para su difusión.
+
+Segundo.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Comisionado Presidente del Instituto para la Transparencia, Acceso a la Información y protección de datos personales del Estado de Michoacán, para su conocimiento y efectos legales conducentes.
+
+Tercero.- Se abroga el reglamento para ejercer el derecho a la información ante el H. Ayuntamiento de Chinicuila, Michoacán publicado en la quinta sección del periódico oficial del estado de Michoacán, de fecha18 de junio del 2012.
+
+Cuarto.- Aprobado en sesión de Cabildo No. 47 Del H. Ayuntamiento de Chinicuila, Michoacán, a los 05 (Cinco) días del mes de enero del año 2017 dos mil diecisiete, en su punto número IX. Asuntos Generales Inciso d). DOY FE. (Firmados).
