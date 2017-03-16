@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2016-10-06"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -414,6 +414,10 @@ IX. El Comité Técnico de las Áreas de Gestión Estratégica; y
 
 X. El Comité Técnico de Modificaciones a los Programas de Desarrollo Urbano.
 
+> <small>(ADICIONADA, G.O. 16 DE MARZO DE 2017)</small>
+
+XI. La Comisión de Evaluación de Asentamientos Humanos Irregulares.
+
 ###### Artículo 17.
 
 El Consejo para el Desarrollo Urbano Sustentable es un órgano permanente de participación plural de los sectores público, social, académico, gremial, empresarial, entre otros, cuyo objeto es asesorar con estudios, propuestas, opiniones, consultas y análisis en materia de desarrollo urbano sustentable. Se procurará incorporar a este Consejo cuando menos a dos miembros del movimiento social y a dos miembros de las organizaciones no gubernamentales con conocimientos en el tema.
@@ -447,6 +451,100 @@ La Comisión de Evaluación de Peritos en Desarrollo Urbano y Peritos Responsabl
 ###### Artículo 24.
 
 El Comité Técnico de las Áreas de Gestión Estratégica es el órgano encargado de dar seguimiento a la dinámica urbana sustentándose en el Sistema de Información y Evaluación del Desarrollo Urbano, para definir la visión estratégica y el modelo territorial de las Áreas de Gestión Estratégica y las acciones a implementar con la participación de los sectores público, social y privado.
+
+> <small>(ADICIONADO, G.O. 16 DE MARZO DE 2017)</small>
+
+###### Artículo 24 Bis.
+
+La Comisión de Evaluación de Asentamientos Humanos Irregulares es un órgano auxiliar del desarrollo urbano, de carácter honorario, integrado por:
+
+I. El Jefe Delegacional competente por territorio, quien lo presidirá;
+
+II. El Secretario de Desarrollo Urbano y Vivienda;
+
+III. El Secretario del Medio Ambiente;
+
+IV. El Secretario de Protección Civil;
+
+V. El Procurador Ambiental y del Ordenamiento Territorial;
+
+VI. El Director General del Sistema de Aguas de la Ciudad de México, y
+
+VII. El pleno del Consejo Ciudadano Delegacional competente por territorio.
+
+> <small>(ADICIONADO, G.O. 16 DE MARZO DE 2017)</small>
+
+###### Artículo 24 Ter.
+
+La Comisión de Evaluación de Asentamientos Humanos Irregulares sesionará previa convocatoria del Jefe Delegacional competente por territorio, quien la formulará de oficio o por denuncia de cualquier ciudadano, y la notificará a cada uno de sus integrantes.
+
+Para suplir la ausencia de los integrantes de la Comisión que tengan el carácter de servidores públicos, se requerirá oficio de designación del titular de la Dependencia u Órgano de que se trate, y copia certificada del nombramiento de Subsecretario, Coordinador General, Director General o equivalentes.
+
+Las demás disposiciones internas de la Comisión, serán establecidas en el Reglamento de la Ley, sin que sea obstáculo para la instalación y funcionamiento de la Comisión, la falta de expedición de ese Reglamento.
+
+> <small>(ADICIONADO, G.O. 16 DE MARZO DE 2017)</small>
+
+###### Artículo 24 Quater.
+
+La Comisión de Evaluación de Asentamientos Humanos Irregulares es competente para evaluar las causas, evolución y grado de consolidación de los asentamientos humanos irregulares ubicados en el Suelo de Conservación de la ciudad, las afectaciones urbanas y ambientales ocasionadas, las acciones específicas para revertir los daños urbanos y ambientales ocasionados, los medios para financiar la ejecución de tales acciones, y en su caso, un proyecto de Iniciativa de Decreto para reformar el Programa de Desarrollo Urbano correspondiente.
+
+La Comisión contará con las siguientes facultades:
+
+I. Aprobar los términos de referencia para la elaboración del "Estudio para Determinar la Afectación Urbana y Ambiental";
+
+II. Proponer la procedencia de la regularización del asentamiento de que se trate, con base en el "Estudio para Determinar la Afectación Urbana y Ambiental" que entregue la institución pública de educación superior que se contrate; con base en el "Estudio de Riesgo" que presente la Secretaría de Protección Civil, y con base en la "Factibilidad Técnica para la Dotación de los Servicios de Agua Potable y Drenaje" que emita el Sistema de Aguas de la Ciudad de México. En todo caso, la propuesta de regularización del asentamiento, deberá formularse en razón de una familia por predio, de conformidad con el censo contenido en el "Estudio para Determinar la Afectación Urbana y Ambiental";
+
+III. Determinar la improcedencia de la regularización del asentamiento de que se trate, con base en los documentos previstos en la fracción II del presente artículo;
+
+IV. Proponer el monto y plazo o periodicidad del pago por servicios ambientales, así como las formas de participación social, que los habitantes de los asentamientos de que se trate deberán realizar para mitigar los daños ambientales causados al territorio ocupado;
+
+V. Proponer las normas de zonificación aplicables al asentamiento cuya regularización se proponga, seleccionando la del uso del suelo de entre las siguientes: RE (Rescate Ecológico), PE; PRA (Producción Rural Agroindustrial); HR (Habitacional Rural de Baja Densidad), HRB (Habitacional Rural Baja) y HRC (Habitacional Rural con Comercio en planta baja);
+
+VI. Proponer obligaciones de protección, mitigación de daños y restauración ecológica, a cargo de los integrantes de los asentamientos cuya regularización se proponga;
+
+VII. Proponer el establecimiento de procedimientos, barreras físicas, cercados de contención, y límites físicos en general, destinados a impedir el crecimiento del asentamiento de que se trate, o el emplazamiento de otros nuevos; en su caso, las obras y acciones necesarias para disminuir el nivel de riesgo de los predios o construcciones de que se trate, y las acciones de conservación, de mitigación de impactos ambientales y de restauración ecológica, indicando la autoridad o autoridades responsables de cada acción propuesta;
+
+VIII. Proponer las normas de sustentabilidad que deberán observarse en cada asentamiento cuya regularización se proponga, y
+
+IX. Las demás que establezca la presente Ley.
+
+> <small>(ADICIONADO, G.O. 16 DE MARZO DE 2017)</small>
+
+###### Artículo 24 Quinquies.
+
+Cuando el Presidente de la Comisión de Evaluación de Asentamientos Humanos Irregulares, reciba una denuncia de un asentamiento humano irregular ubicado en Suelo de Conservación, o cuando cuente con elementos que demuestren la existencia de alguno, se llevará a cabo el siguiente procedimiento:
+
+I. El Presidente de la Comisión convocará a sesión a los integrantes de la Comisión, en la cual expondrá el caso del asentamiento que dio lugar a la denuncia o al inicio del procedimiento;
+
+II. La Delegación, previa licitación pública, contratará la elaboración del “Estudio para Determinar la Afectación Urbana y Ambiental”, para lo cual convocará únicamente a instituciones públicas de educación superior, con áreas especializadas en materia ambiental, que cuenten con investigadores adscritos al Sistema Nacional de Investigadores, e informará a la Comisión sobre el desarrollo de la licitación. La Secretaría de Protección Civil, por su parte, elaborará un “Estudio de Riesgo” en el que señalará el nivel de riesgo (bajo, medio o alto) de los predios o construcciones de que se trate, y las obras y acciones necesarias para disminuir el nivel de riesgo determinado. El Sistema de Aguas de la Ciudad de México emitirá a su vez la “Factibilidad Técnica para la Dotación de los Servicios de Agua Potable y Drenaje”;
+
+III. La Delegación competente cubrirá, con cargo a su presupuesto, los honorarios y gastos que se causen por la realización del “Estudio para Determinar la Afectación Urbana y Ambiental”;
+
+IV. El “Estudio para Determinar la Afectación Urbana y Ambiental” deberá contener: 1) La “Ubicación georreferenciada del asentamiento”; 2) Un “Diagnóstico de Aspectos Urbanos y Aspectos del Medio Ambiente”, que incluya la caracterización del asentamiento de que se trate, a partir de censos de familias por predio y de viviendas, que incluyan el número de integrantes, edades y ocupación, los servicios al interior del lote, número de cuartos, y material de la vivienda; las características socioeconómicas del asentamiento; su antigüedad promedio; la zonificación actual del suelo ocupado; el grado de consolidación; características de la infraestructura urbana y factibilidad de dotación de servicios públicos; situación jurídica de la tenencia del suelo; características físicas del entorno; capacidad de infiltración de agua pluvial; captura de carbono; biodiversidad; relación y cercanía con poblados rurales, con otros asentamientos humanos y con zonas federales, y riesgo de conurbación; 3) La “Delimitación física y superficie del polígono a ordenar”, que incluya un levantamiento topográfico en plano a escala 1:2500, en el que se ilustren las manzanas, lotes, vías, caminos, derechos de paso y afectaciones, con la referencia de cada propietario o poseedor, así como la estructura vial propuestos; 4) La “Identificación y descripción de impactos ambientales”; 5) Las posibles “Medidas de mitigación, compensación y restauración del impacto ambiental provocado”; 6) Una “Propuesta de abastecimiento de agua potable y tratamiento de residuos sólidos y líquidos mediante tecnologías alternativas”, y 7) Las “Restricciones y afectaciones necesarias al ordenamiento territorial”;
+
+V. La Comisión recibirá en sesión los documentos señalados en la fracción II del presente artículo, y un informe de sus autores, en el que expondrán una síntesis de sus conclusiones;
+
+VI. Si la Comisión determinare procedente proponer la regularización del asentamiento; con base en los documentos entregados conforme a la fracción V del presente artículo, elaborará un proyecto de Iniciativa de Decreto de reforma al Programa de Desarrollo Urbano aplicable, en el que se incluirán todas y cada una de las propuestas previstas en el artículo 24 Quater de la presente Ley, si no lo estuvieren ya con motivo de la integración de los documentos entregados;
+
+VII. La Secretaría elaborará el plano que contenga la propuesta de zonificación que apruebe la Comisión, la cual se agregará al proyecto de Iniciativa de Decreto correspondiente;
+
+VIII. La Comisión, por conducto de su Presidente, remitirá al Jefe de Gobierno el proyecto de Iniciativa de Decreto a que hace referencia la fracción VI del presente artículo, en un plazo de cinco días hábiles contados a partir de su aprobación, y el Jefe de Gobierno, a su vez, presentará la Iniciativa de Decreto correspondiente, ante la Asamblea Legislativa, dentro de un plazo de treinta días hábiles contados a partir de la recepción del proyecto de la Comisión;
+
+IX. Si la Asamblea Legislativa aprobare la Iniciativa de Decreto presentada por el Jefe de Gobierno, a la que se refiere la fracción VIII del presente artículo, y una vez publicada en la Gaceta Oficial del Distrito Federal, la Comisión procederá a aprobar o desechar, según el caso, los proyectos de lotificación y vivienda popular o de interés social, ubicadas dentro del mismo polígono del asentamiento de que se trate, destinados a sustituir las viviendas precarias, en alto riesgo estructural, con alto índice de hacinamiento, o de alta marginalidad, del asentamiento regularizado;
+
+X. Si la Asamblea Legislativa desechare la Iniciativa de Decreto a la que se refiere la fracción VIII del presente artículo, o si la Comisión determinare improcedente la propuesta de regularización del asentamiento, con base en los documentos entregados conforme a la fracción V del presente artículo; los integrantes de la Comisión que sean titulares de Dependencias u Órganos de la Administración Pública Local con competencia, elaborarán un proyecto de reubicación de los habitantes de dicho asentamiento, y un plan de restauración del suelo ocupado, y procederán a la ejecución de ambos. La Comisión fijará el plazo para dar cumplimiento a las disposiciones anteriores, el cual no podrá ser menor de treinta días naturales ni mayor de seis meses; así como el monto y plazo o periodicidad del pago que, por concepto de servicios ambientales, deberán realizar los integrantes de los asentamientos mismos; y el plazo para llevar a cabo las formas de participación social de cada uno de ellos;
+
+XI. Los integrantes de los asentamientos de que se trate, deberán efectuar los pagos por concepto de servicios ambientales correspondientes, al Fideicomiso previsto en el artículo 24 Sexies de la presente Ley, dentro del plazo que determine el Decreto de Reforma del Programa de Desarrollo Urbano aplicable, o en su caso, dentro del plazo que determine la Comisión al resolver improcedente la regularización;
+
+XII. Los pagos por concepto de servicios ambientales, se harán sin perjuicio del pago de los derechos aplicables, pero igualmente serán considerados créditos fiscales, y la Secretaría de Finanzas iniciará el procedimiento administrativo de ejecución para reclamarlos coactivamente ante cualquier incumplimiento, y
+
+XIII. La Comisión determinará el destino y prioridad de los recursos aportados al Fideicomiso al que se refiere el artículo 24 Sexies de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 16 DE MARZO DE 2017)</small>
+
+###### Artículo 24 Sexies.
+
+La Secretaría de Finanzas constituirá un Fideicomiso de Asentamientos Humanos Irregulares de la Ciudad de México, cuyo objeto será destinar los fondos aportados, a la ejecución de las siguientes acciones, en orden de prelación: a la restauración ambiental del suelo afectado; a la adquisición de predios ubicados en Suelo Urbano, destinados a la reubicación de los integrantes del asentamiento que deban ser reubicados; y a la prestación de los servicios públicos o construcción del equipamiento urbano, necesarios para un mínimo de calidad de vida de los asentamientos regularizados. El Fiduciario atenderá las indicaciones de la Comisión de Evaluación de Asentamientos Humanos Irregulares, en cada caso concreto, sobre la aplicación que haga de los recursos aportados.
 
 ###### Artículo 25.
 
@@ -1563,3 +1661,15 @@ PRIMERO: Los diputados de la Asamblea Legislativa del Distrito Federal, presenta
 SEGUNDO: El presente decreto entrará en vigor el mismo día en que lo haga, a su vez, el relativo al Código Fiscal para el Distrito Federal, señalado en el artículo transitorio anterior.
 
 TERCERO: Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE CONTIENE LAS OBSERVACIONES AL DIVERSO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL Y DE LOS PROGRAMAS DELEGACIONALES DE DESARROLLO URBANO DE ÁLVARO OBREGÓN, CUAJIMALPA DE MORELOS, GUSTAVO A. MADERO, MAGDALENA CONTRERAS, MILPA ALTA, TLÁHUAC, TLALPAN Y XOCHIMILCO; DEL PROGRAMA PARCIAL DE DESARROLLO URBANO SIERRA DE SANTA CATARINA EN LA DELEGACIÓN IZTAPALAPA Y DEL PROGRAMA PARCIAL DE DESARROLLO URBANO CERRO DE LA ESTRELLA EN LA DELEGACIÓN IZTAPALAPA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Las menciones que a la Comisión de Regulación Especial u órganos colegiados equivalentes, hagan los reglamentos de la Ley de Desarrollo Urbano del Distrito Federal o los Programas de Desarrollo Urbano del Distrito Federal, se entenderán referidas a la Comisión de Evaluación de Asentamientos Humanos Irregulares, con excepción de las funciones que les atribuyan, las cuales podrán ejercerse en tanto no contravengan las disposiciones del presente Decreto.
+
+TERCERO. Las Comisiones de Regulación Especial: para Álvaro Obregón; para Gustavo A. Madero; .de (sic) Milpa Alta; para Tláhuac; para Tlalpan; en Xochimilco; y en Iztapalapa, así como el Programa de Unidad de Mejoramiento Ambiental y Desarrollo Comunitario (UMADEC) de Milpa Alta; remitirán a la Comisión de Evaluación de Asentamientos Humanos Irregulares, a solicitud de su presidente, la totalidad de los expedientes que hayan sido de su conocimiento, tanto los concluidos como los que sigan abiertos a la fecha de la solicitud. La omisión de atender la solicitud señalada, será causa de responsabilidad administrativa.
+
+CUARTO. Remítase el presente Decreto al Jefe de Gobierno del Distrito Federal, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial del Distrito Federal.
