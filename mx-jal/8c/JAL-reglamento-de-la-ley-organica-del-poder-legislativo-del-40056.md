@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2017-02-16"
+last_updated: "2017-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO -ANTES REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO-
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -781,8 +783,6 @@ Artículo 94 M.
 
 Los gastos originados para la realización de los foros de consulta pública correrán con cargo al presupuesto anual de las Comisiones participantes y se repartirá de manera proporcional entre las mismas. Las adquisiciones que se realicen, para este mismo fin, deberán ajustarse a las disposiciones del título decimotercero de este reglamento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 Artículo 94 N.
@@ -806,8 +806,6 @@ c) La legislación estatal vigente.
 IV. El tiempo de vigencia del buzón por cada iniciativa para recibir comentarios, la que no podrá ser menor a diez días naturales;
 
 V. Un formulario para que las personas viertan sus comentarios en el buzón electrónico.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1711,7 +1709,7 @@ XII. Catálogos de formato.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 141.
 
@@ -1721,11 +1719,23 @@ XII. Catálogos de formato.
 
 3. La administración de los recursos económicos del Congreso del Estado, se realizará por la Comisión de Administración por conducto del Secretario General.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 142.
 
-Las bases, criterios y procedimientos de las adquisiciones de bienes, contratación de arrendamientos, prestación de servicios, enajenaciones y obra pública, se hará de conformidad con el Título siguiente; y en su caso, con la legislación aplicable.
+1. Las bases, criterios y procedimientos de las adquisiciones de bienes, contratación de arrendamientos, prestación de servicios y obra pública, se harán de conformidad con la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios; y en lo procedente, conforme a lo señalado en el título siguiente, demás legislación aplicable, y los lineamientos que para tales fines emita la comisión de Administración.
+
+2. La Secretaría General y las direcciones a su cargo podrán contar con un fondo revolvente para necesidades urgentes, bajo la responsabilidad de sus titulares, mismos que serán restituidos mediante la comprobación respectiva.
+
+3. La Comisión de Administración deberá emitir Acuerdo con los lineamientos para la aprobación de los montos máximos y los procedimientos de restitución y comprobación de los fondos revolventes autorizados a la Secretaría General y sus direcciones, dentro del primer semestre de la Legislatura.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+###### Artículo 142 Bis.
+
+1. La Comisión de Administración deberá vigilar el cumplimiento de la Ley de Austeridad y Ahorro del Estado de Jalisco y sus Municipios, en el Congreso del Estado.
+
+2. La Comisión emitirá Acuerdo que norme los lineamientos para el uso de fondos revolventes por parte de la Secretaría General.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1735,99 +1745,113 @@ Las bases, criterios y procedimientos de las adquisiciones de bienes, contrataci
 
 ### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
-
 ###### Artículo 143.
 
 1. Para los efectos de este Título se entenderá por:
 
-I. Comité: Comité de Adquisiciones de Bienes y Servicios del Congreso del Estado.
+I. Comité: Comité de Adquisiciones de Bienes y Servicios del Congreso del Estado;
 
-II. Congreso: Poder Legislativo del Estado de Jalisco.
+II. Congreso: Poder Legislativo del Estado de Jalisco;
 
-III. Comisión: Comisión de Administración del Congreso.
+III. Comisión: Comisión de Administración del Congreso;
 
 IV. Dirección: La Dirección de Control Presupuestal y Financiero dependiente de la Secretaría General del Congreso;
 
-V. Padrón: Padrón de Proveedores del Congreso.
+V. RUPC: Registro Estatal Único de Proveedores y Contratistas;
 
-VI. Acuerdo: Acuerdo del Comité de Adquisiciones de Bienes y Servicios del Poder Legislativo.
+VI. Acuerdo: Acuerdo del Comité de Adquisiciones de Bienes y Servicios del Poder Legislativo;
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2016)</small>
+VII. Ley de Compras Gubernamentales: Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y sus Municipios; y
+
+VIII. Unidad Centralizada de Compras: La Dirección de Control Presupuestal de manera directa o a través de la Jefatura de Adquisiciones y Control Administrativo.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 144.
 
-1. El Comité es el órgano de apoyo responsable de aprobar la adquisición, acordada por la Comisión, de bienes, la contratación de los servicios y las enajenaciones necesarias, para la realización de las actividades legislativas, técnicas y administrativas del Congreso, cuyos montos sean mayores a 500 veces la Unidad de Medida y Actualización.
+1. El Comité es el órgano de apoyo responsable de aprobar la adquisición, acordada por la Comisión, de bienes y la contratación de los servicios necesarios, para la realización de las actividades legislativas, técnicas y administrativas del Congreso, cuyos montos sean mayores a 500 veces la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+2. Los procesos de adquisiciones, arrendamientos, y contratación de servicios cuyo monto de operación no exceda el monto señalado en el párrafo anterior, se realizarán bajo la conducción de la Unidad Centralizada de Compras de acuerdo al procedimiento señalado por el artículo 72 de la Ley de Compras Gubernamentales.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 145.
 
-1. El Comité es un órgano colegiado interdisciplinario de asearía, consulta y toma de decisiones, cuyo principal objeto es la determinación de acciones tendientes a la optimización de recursos destinados a la adquisición de bienes muebles, a la contratación de arrendamientos, prestación de servicios y enajenaciones.
+1. El Comité es un órgano colegiado de consulta, asesoría, análisis, opinión, orientación y resolución, que tiene por objeto intervenir como instancia administrativa en el procedimiento de adquisiciones de bienes muebles e inmuebles, arrendamientos de bienes muebles y contratación de servicios del Congreso del Estado en los términos de la Ley de Compras Gubernamentales.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 146.
 
 1. El Comité estará integrado de la siguiente manera:
 
-I. Un Diputado representante de la Comisión de Administración;
+I. Un diputado representante de la Comisión de Administración, quien fungirá como Presidente del Comité, con las facultades y obligaciones que le señala la Ley de Compras Gubernamentales;
 
-II. Un Diputado representante de la Comisión de Hacienda;
+II. Un diputado representante de la Comisión de Hacienda, quien fungirá como vocal permanente con derecho a voz pero sin voto;
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
+III. Seis vocales con derecho a voz y voto, quienes serán los titulares o representantes que ellos designen, de los organismos del sector privado siguientes:
 
-III. Tres representantes nombrados por el Consejo Estatal de Desarrollo Económico y la Competitividad, a petición del Congreso;
+a) Cámara Nacional de Comercio, Servicios y Turismo de Guadalajara;
 
-IV. El Director de Control Presupuestal, quien fungirá como Secretario Técnico del Comité.
+b) Consejo de Cámaras Industriales de Jalisco;
+
+c) Consejo Nacional de Comercio Exterior;
+
+d) Centro Empresarial de Jalisco, S.P.;
+
+e) Consejo Agropecuario de Jalisco; y
+
+f) Consejo Coordinador de Jóvenes Empresarios del Estado de Jalisco.
+
+IV. El Titular de la Dirección de Control Presupuestal, quien fungirá como Secretario Ejecutivo del Comité, con voz pero sin voto;
+
+V. El Titular del Órgano de Control Interno del Congreso del Estado de Jalisco; y
+
+VI. En su caso, los invitados y los testigos sociales, que sólo tendrán voz.
 
 2. Los integrantes participarán de manera honorífica, por lo que no tendrán remuneración alguna.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 147.
 
 1. Los integrantes del Comité serán designados de la siguiente manera:
 
-I. En el caso de los diputados, por elección de las Comisiones a que pertenezcan.
+I. En el caso de los diputados, por elección de las Comisiones a que pertenezcan; y
 
-II. Los representantes del Consejo Económico Social y la Competitividad por su Pleno.
+II. Los representantes de los organismos del sector privado por el titular del organismo correspondiente, mediante comunicado dirigido al Congreso.
 
 2. Todas las designaciones anteriores se comunicarán al Pleno.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 148.
 
 1. Dentro de los primeros treinta días de cada Legislatura, la Asamblea proveerá a la integración de este Comité, en los términos de los artículos aquí establecidos.
 
-2. El Comité integrado de conformidad con este precepto ejercerá sus atribuciones durante el período constitucional de la Legislatura en curso.
+2. El Comité integrado de conformidad con este precepto ejercerá sus atribuciones durante el periodo constitucional de la Legislatura en curso.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
-
-3. Los representantes del Consejo Económico Social y la Competitividad que hubieren concurrido al Comité integrado por la Legislatura inmediata anterior, se tendrán por miembros del Comité que integre la nueva Legislatura, en tanto aquel no revoque su nombramiento.
+3. Los representantes de los organismos del sector privado que hubieran concurrido al Comité integrado por la Legislatura inmediata anterior, se tendrán por miembros del Comité que integre la nueva Legislatura en tanto aquel no revoque su nombramiento.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 149.
 
-1. El Comité funcionará bajo la dirección de un coordinador, que será uno de sus integrantes designados del Congreso, nombrado por los miembros de aquel.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 150.
 
-1. Todos los integrantes del Comité tendrán voz y voto en las decisiones de la misma, con excepción del Secretario Técnico, quien sólo tendrá voz informativa.
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 151.
 
-1. El Comité sesionará cuantas veces sea necesario, previa convocatoria que con anticipación de veinticuatro horas notifique el coordinador de dicho órgano, debiéndose señalar el orden del día a que se sujetará la sesión, el cual contendrá por lo menos:
+1. Las sesiones del Comité se verificaran ordinariamente en forma quincenal excepto cuando no se tengan asuntos que tratar, y extraordinariamente cuantas veces sea necesario previa convocatoria que con anticipación de veinticuatro horas notifique el Presidente del Comité, debiéndose señalar el orden del día a que se sujetará la sesión, el cual contendrá por lo menos:
 
 I. Lectura del orden del día;
 
@@ -1839,21 +1863,23 @@ IV. Revisión de la agenda de trabajo;
 
 V. Asuntos varios;
 
-VI. Lectura de acuerdos y comisiones;
+VI. Lectura de acuerdos y comisiones; y
 
 VII. Cierre de la sesión.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 152.
 
-1. Para que tengan validez las decisiones del Comité, será necesario el voto favorable de la mayoría de los integrantes de la misma; en caso de empate, el coordinador tendrá voto de calidad.
+1. Para que tengan validez las decisiones del Comité, será necesario el voto favorable de la mayoría de los integrantes de la misma; en caso de empate, el Presidente tendrá voto de calidad.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+2. El Comité sesionará únicamente cuando se encuentren presentes la mayoría de sus integrantes. En caso de no verificarse quórum legal, el Presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 153.
 
-1. Las sesiones se realizarán en el lugar que se indique en la convocatoria, debiéndose levantar una acta por el Secretario Técnico a la que se le agregarán los documentos relacionados con las decisiones tomadas.
+1. Las sesiones se realizarán en el lugar que se indique en la convocatoria, debiéndose levantar una acta por el Secretario Ejecutivo a la que se le agregarán los documentos relacionados con las decisiones tomadas.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1865,75 +1891,115 @@ VII. Cierre de la sesión.
 
 ### CAPÍTULO CUARTO. DE LA ADQUISICIÓN DE LOS BIENES O SERVICIOS
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 155.
 
 1. Son facultades del Comité las siguientes:
 
-I. Definir las políticas, sistemas, procedimientos y normas que regulen las operaciones indicadas en el artículo 144 de este Reglamento.
+I. Aprobar las normas, políticas y lineamientos de adquisiciones, arrendamientos y servicios;
 
-II. Seleccionar al proveedor de los bienes o servicios de cada requisición, en atención a las normas fijadas en el artículo 176 de este ordenamiento.
+II. Difundir a las áreas responsables de las funciones de adquisiciones, arrendamientos y contratación de servicios, las políticas internas y los procedimientos correspondientes;
 
-III. Fijar las políticas que deben observarse al elaborar el Programa de adquisiciones, de acuerdo a los planes y programas del Congreso.
+III. Establecer la metodología para la elaboración del programa anual de adquisiciones, arrendamientos y servicios que deberá elaborar cada unidad administrativa del Congreso del Estado, de acuerdo a los planes y programas del Congreso;
 
-IV. Integrar y conservar actualizado el Padrón.
+IV. Conocer el programa y el presupuesto anual o plurianual de adquisiciones, arrendamientos y servicios de las unidades administrativas del Congreso del Estado, así como sus modificaciones de conformidad con la normatividad presupuestaria;
 
-V. Coordinarse con la Dirección para que se disponga de una existencia mínima de los materiales y productos de mayor consumo por las diferentes áreas del Congreso.
+V. Conocer del avance programático presupuestal en la materia, con objeto de proponer las medidas correctivas que procedan, a efecto de asegurar el cumplimiento de los programas autorizados;
 
-VI. Hacer recomendaciones para el óptimo uso de materiales, equipo y servicios externos por parte del personal que labore al servicio del Poder Legislativo.
+VI. Participar en las licitaciones públicas, presentación y apertura de propuestas, y fallo;
 
-VII. Obtener las mejores cotizaciones posibles, considerando precio y calidad, para las adquisiciones de bienes y contratación de servicios que se realicen en el Congreso.
+VII. Resolver sobre las propuestas presentadas por los licitantes en las licitaciones públicas, con la finalidad de obtener las mejores condiciones de calidad, servicio, precio, pago y tiempo de entrega ofertadas por los proveedores;
 
-VIII. Publicar las requisiciones, convocatorias, y el Padrón para su difusión en la página de Internet del Congreso y en los medios que este acuerde.
+VIII. Analizar trimestralmente el informe de la conclusión y resultados generales de las contrataciones que se realicen y, en su caso, recomendar las medidas necesarias para verificar que el programa y presupuesto de adquisiciones, arrendamientos y servicios, se ejecuten en tiempo y forma, así como proponer medidas tendientes a mejorar o corregir sus procesos de contratación y ejecución;
 
-IX. Mantener informados a los titulares de los órganos del Congreso sobre los criterios y requisitos para la realización de adquisiciones y contratación de servicios; y
+IX. Analizar la pertinencia de la justificación del caso fortuito o fuerza mayor a que se refiere (sic) las excepciones de adjudicación directa;
 
-X. Coordinar sus actividades con los demás órganos del Congreso para proveer los requerimientos de adquisiciones y servicios con agilidad y oportunidad.
+X. Dictaminar previamente a la iniciación del procedimiento, sobre la procedencia de la excepción a la licitación pública por encontrarse en alguno de los supuestos a los que se refiere la Ley de Compras Gubernamentales. Dicha función también podrá ser ejercida directamente por la Comisión de Administración, sin embargo invariablemente deberá dársele vista al Comité en los casos cuyos montos sean mayores a 500 veces la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+XI. Proponer las bases sobre las cuales habrá de convocarse a licitación pública para la adquisición, arrendamiento de bienes y contratación de servicios para las dependencias, entidades, organismos auxiliares y unidades administrativas según el ente gubernamental del que se trate;
+
+XII. Dictaminar los proyectos de políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios que le presenten, así como someterlas a la consideración de la Comisión de Administración; en su caso, autorizar los supuestos no previstos en las mismas;
+
+XIII. Definir aquellos casos en que, por el impacto de una contratación determinada, deberá presentar un testigo social;
+
+XIV. Invitar a sus sesiones a representantes de otros entes gubernamentales cuando por la naturaleza de los asuntos que deban tratar, se considere pertinente su participación;
+
+XV. Opinar sobre las dudas y controversias que surjan en la aplicación de esta ley y sus reglamentos internos;
+
+XVI. Informar anualmente al Pleno del Congreso y a la Comisión de Administración, respecto de las actividades desarrolladas en dicho periodo;
+
+XVII. Discutir y en su caso aprobar su reglamento interior que le será propuesto por su Presidente;
+
+XVIII. Emitir opinión respecto de los precios de los inmuebles que se pretenden adquirir;
+
+XIX. Suspender las sesiones y acordar fecha, hora y condiciones para reanudarlas, en caso de que por la complejidad del objeto del procedimiento correspondiente, así se haga necesario;
+
+XX. En su caso, fungir como Comité de Adquisiciones, Arrendamientos y Servicios para el ejercicio de las facultades que la legislación federal en materia de adquisiciones, arrendamientos y servicios del sector público les confiere, siempre y cuando su integración y las facultades de sus miembros sean análogas;
+
+XXI. Decidir lo conducente respecto de las situaciones extraordinarias que se presenten en el ejercicio de sus funciones, observando siempre los principios de economía, eficacia, transparencia, imparcialidad y honradez; y
+
+XXII. Hacer recomendaciones para el óptimo uso de materiales, equipo y servicios externos por parte del personal que labore al servicio del Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 156.
 
-1. Son obligaciones del coordinador del Comité, las siguientes:
+1. El Presidente del Comité de Adquisiciones del Congreso del Estado de Jalisco tendrá las facultades siguientes:
 
-I. Convocar a sesiones al Comité en los términos a que se refiere el artículo 10 de este ordenamiento.
+I. Convocar a las sesiones ordinarias y extraordinarias;
 
-II. Conducir el desarrollo del Comité.
+II. Autorizar el orden del día de las sesiones;
 
-III. Exigir que en cada sesión que celebre el Comité se cumpla con los lineamientos marcados en este ordenamiento, tomando en su caso las medidas que consideren necesarias.
+III. Presidir y coordinar el buen desarrollo de las sesiones;
 
-IV. Informar por escrito a la Comisión, y por conducto de ésta al Congreso, sobre el funcionamiento del Comité, en forma mensual o cuantas veces sea requerido.
+IV. Autorizar con el Secretario Ejecutivo las actas de sesiones aprobadas por los integrantes;
 
-V. Remitir a la Secretaria General el Padrón, las requisiciones y convocatorias expedidas para su difusión en la página de Internet del Congreso y en los medios que éste acuerde.
+V. Orientar las sesiones y las resoluciones del Comité a los criterios de economía, eficacia, transparencia, imparcialidad, y honradez que deben de concurrir en sus funciones;
 
-VI. Dictar las medidas para el debido cumplimiento de los Acuerdos.
+VI. Procurar que las acciones y resoluciones del Comité obtengan a favor del ente público, las mejores condiciones de calidad, servicio y precio, condiciones de pago y oportunidad en el abastecimiento;
 
-VII. Las demás que le sean asignadas por el propio Comité.
+VII. Ordenar el área operativa correspondiente de la Secretaría, la ejecución de las resoluciones emitidas por el Comité y vigilar su cumplimiento;
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+VIII. Recibir las acreditaciones ante el Comité de los vocales;
+
+IX. Convocar a participar en las reuniones y actividades del Comité a los invitados, señalando el tema o asunto que se propone, para que con información y sus opiniones, apoyen los trabajos de la misma;
+
+X. Representar jurídicamente al Comité, facultad que podrá delegar en otro servidor público. De igual manera, podrán representar al Comité quienes cuenten con esa atribución en la normatividad de cada ente pública (sic); y
+
+XI. Las demás que le otorguen otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### Artículo 157.
 
-1. Son responsabilidades del Secretario Técnico del Comité, las siguientes:
+1. Son responsabilidades del Secretario Ejecutivo del Comité, las siguientes:
 
-I. Formular las convocatorias y las actas respectivas de cada una de las sesiones del Comité;
+I. Recibir conforme al procedimiento los casos o asuntos que se someterán a la consideración y resolución del Comité e incorporarlos en el orden del dia de la sesión más próxima e inmediata a su recepción;
 
-II. Conservar bajo su resguardo y responsabilidad los expedientes de cada una de las sesiones del Comité, mismos que deberán estar disponibles para la consulta de los integrantes del mismo;
+II. Acordar con el Presidente el orden del día de los casos y asuntos que se someterán a consideración y resolución del Comité;
 
-III. Desarrollar en las sesiones los puntos establecidos en el artículo 10; y
+III. Elaborar y notificar a los miembros del Comité, de manera formal y oportuna, la convocatoria y el orden del día de las sesiones del Comité;
 
-IV. Las demás que le sean asignadas por el Coordinador o por el propio Comité.
+IV. Formular las relaciones que contengan la información sucinta de los asuntos que serán ventilados en las sesiones;
+
+V. Concurrir a la sesión de turno con los expedientes técnicos de los asuntos contemplados en el orden del día debidamente integrados;
+
+VI. Elaborar, requisitar y regular, la documentación que dé cuenta de los trabajos, acciones y resoluciones del Comité, orden del día, acta de la sesión e informes, refrendando con su firma todas las actuaciones:
+
+VII. Efectuar el seguimiento de las acciones y resoluciones del Comité y mantener informado al presidente y vocales, hasta su cabal y estricto cumplimiento;
+
+VIII. Elaborar los informes de actividades; y
+
+IX. Las demás que le encomienden otras normas o le asigne el Presidente del Comité.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO QUINTO. DEL PADRÓN DE PROVEEDORES
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
-
 ###### Artículo 158.
 
-1. Las adquisiciones de bienes o servicios a que se refiere este título, podrán ser ordinarias o extraordinarias.
+1. Las adquisiciones de bienes o servicios a que se refiere este título, podrán ser ordinarias o extraordinarias, y se normarán estrictamente conforme a lo estipulado en el Título Tercero Procedimientos de compra, de Enajenación de Bienes y de Contratación de Servicios, de la Ley de Compras Gubernamentales.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1949,31 +2015,13 @@ IV. Las demás que le sean asignadas por el Coordinador o por el propio Comité.
 
 2. Estas adquisiciones se autorizarán por la Comisión, debiendo informar de las mismas al Comité, en la primera sesión inmediata posterior.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
-
 ###### Artículo 161.
 
-1. La comparación entre las características de los productos o servicios ofrecidos por los posibles proveedores, entre las condiciones de venta y entre los precios ofrecidos por cada uno de ellos, se efectuará mediante el sistema de cotizaciones.
-
-2. Para los efectos de este titulo, se entenderá por cotización la constancia escrita, con vigencia determinada, de todos los pormenores que distingan lo ofrecido por cada posible proveedor para atender una determinada requisición.
-
-3. Las cotizaciones podrán ser totales, si el posible proveedor se compromete a suministrar la totalidad de los bienes o servicios a los que se refiera la requisición, o parcial, si se refiere solamente a algunos de ellos.
-
-4. El Comité determinará, al autorizar los lineamientos a los que deberá ajustarse cada adquisición, aquellos casos en los que se requerirá que los posibles proveedores presenten sus cotizaciones en sobre cerrado y con las medidas de seguridad que se estimen necesarias para asegurar que ningún interesado conozca, antes del momento en que la Comisión compare las propuestas, las condiciones o precios ofrecidos por otro.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 162.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
-
-1. Para que las cotizaciones recibidas puedan ser discutidas y en su caso aprobadas por el Comité, deben reunir los siguientes requisitos:
-
-I. Que cuando menos una de las cotizaciones que se presenten, y preferentemente la mayor cantidad posible de ellas, provengan de proveedores inscritos en el Padrón, excepto en el caso en que ninguno de ellos se encuentre en aptitud de suministrar el bien o servicio requerido, y el apremio de la operación o la indisposición de los proveedores posibles impida que alguno de estos últimos tramite su registro en el Padrón;
-
-II. Que se entregue al coordinador del Comité, por el Secretario Técnico, conjuntamente con un estudio comparativo que se haga de diversas cotizaciones, no admitiéndose una sola cotización, sino dos o más, salvo el caso de proveedor único; debidamente justificado.
-
-III. Que se hayan entregado las cotizaciones a la Dirección con el tiempo necesario, para cumplir con lo señalado en la fracción anterior.
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -2017,25 +2065,13 @@ IV. Las condiciones del contrato.
 
 V. La garantía que se ofrece.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
-
 ###### Artículo 166.
 
-1. Se preferirán como proveedores de bienes o servicios, en igualdad de circunstancias, en el orden señalado, a:
-
-I. Las personas físicas o jurídicas que se encuentren registradas en el Padrón y que hayan hecho operaciones cumpliendo con lo pactado.
-
-II. Entidades públicas municipales.
-
-III. Entidades publicas estatales.
-
-IV. Entidades públicas federales.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 167.
 
-1. Los interesados en suministrar los bienes o servicios requeridos por el Congreso que no se encuentren inscritos en el Padrón o no tengan vigente su registro en él, deberán acompañar, junto con su cotización y de acuerdo con las condiciones exigidas por el Comité, las referencias que permitan identificarlo como un proveedor solvente y los datos para su oportuna localización.
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -2047,79 +2083,33 @@ IV. Entidades públicas federales.
 
 ### CAPÍTULO SEXTO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
-
 ###### Artículo 169.
 
-1. La Dirección integrará el Padrón, que será el registro de las personas físicas o jurídicas susceptibles de suministrar consumibles y bienes muebles, o proporcionar los servicios que requiera el Congreso.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 170.
 
-1. Son objetivos del Padrón:
-
-I. Brindar una base de proveedores potenciales, de probada solvencia, confiabilidad y capacidad, a los que pueda encomendarse el suministro de los bienes y servicios que demanda el Congreso.
-
-II. Contar de manera oportuna con información suficientemente confiable sobre la cantidad, calidad, oportunidad y rangos de precios con los que podrían adquirirse los bienes y servicios que el Congreso requiere para su operación cotidiana, facilitando así su programación y su impacto sobre el presupuesto.
-
-III. Poseer un historial de las condiciones de oferta con las que el Congreso ha adquirido sus insumos, consolidando con ello una memoria institucional que permita a los miembros de cualquier Legislatura obtener condiciones de contratación iguales o mejores que las conseguidas en el pasado.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 171.
 
-1. Para ser inscritos en el Padrón, los interesados deberán acudir personalmente ante la Dirección, y cumplir con los siguientes requisitos:
-
-I. Presentar su solicitud mediante escrito firmado por el representante legal de la empresa, tratándose de personas jurídicas, o directamente por el interesado, de ser persona física. Dicho escrito deberá consignar con toda claridad el domicilio en el que el interesado recibirá las notificaciones que sean necesarias, así como la mayor cantidad posible de datos para su pronta localización.
-
-II. Entregar copia simple de la identificación oficial vigente del interesado, y exhibir el documento original para su cotejo, cuando se trate de personas físicas. En el caso de las personas jurídicas, deberán entregar copia simple de su acta constitutiva, del poder que la organización confiere a quien solicita la inscripción para que la representante legalmente, y de la identificación oficial de dicho representante, exhibiendo para su cotejo el original de los documentos o copias de éstos debidamente certificadas por fedatario público autorizado.
-
-III. Facilitar copia de la inscripción en el Registro Federal de Contribuyentes, o del documento análogo emitido por la autoridad fiscal mexicana, junto con el original para su cotejo.
-
-IV. Presentar un currículum de sus actividades profesionales o empresariales, en el que se incluyan referencias comerciales y otros datos que, sin detrimento del secreto profesional o industrial que las leyes exigen, puedan brindar al Congreso información relacionada con los giros que el interesado desarrolla, sus alianzas o filiaciones con otras empresas nacionales o extranjeras, sus operaciones en los mercados jaliscienses, sus principales clientes, los certificados y reconocimientos que haya recibido, su registro en los padrones de proveedores de otras entidades públicas, y la mención de la procedencia o, en su caso, del grado de integración regional de los productos que ofrece.
-
-V. Proporcionar la lista, genérica o detallada, de los bienes o servicios que está en condiciones de suministrar, así como sus restricciones en cantidad o tiempo de entrega, cuando el interesado estime necesario señalarlas.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 172.
 
-1. Las solicitudes de inscripción en el Padrón que reciba la Dirección serán revisadas en lo que toca al cumplimiento de los requisitos exigidos por el presente ordenamiento, y verificada esta circunstancia serán canalizadas al Comité para su análisis y aprobación, en su caso.
-
-2. Si a juicio de la Dirección la solicitud fuese confusa o incompleta, por conducto de su titular se requerirá al solicitante para que en un término de cinco días hábiles posteriores a la fecha en que le sea notificada esta circunstancia, la aclare o complete. En caso contrario, la solicitud se tendrá por no presentada.
-
-3. Turnada la solicitud, el Comité deberá resolverla en término que no excederá de quince días hábiles contados a partir de la fecha de recepción. Transcurrido ese término, de no existir respuesta sobre la aceptación o rechazo de la inscripción, se tendrá por resuelta a favor del interesado.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 173.
 
-1. Los Acuerdos que resuelvan sobre la inscripción de un proveedor en el Padrón se publicarán en la página de Internet del Congreso dentro de los tres días hábiles siguientes, y se notificarán al interesado en un plazo que no excederá de diez días hábiles contados a partir del día hábil siguiente a la fecha del acuerdo.
-
-2. Los proveedores inscritos en el Padrón obtendrán una cédula de registro con vigencia indefinida.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 174.
 
-1. El Comité podrá suspender o cancelar el registro de un proveedor del padrón, cuando, previo dictamen emitido por la Dirección, se verifique cualquiera de las circunstancias siguientes:
-
-I. Incurra en falsedad de datos al momento de su registro o al presentar cualesquier cotización;
-
-II. Incumpla las condiciones establecidas en un contrato que hubiere suscrito con el Congreso, causándole perjuicio a este último;
-
-III. Omita la presentación de los documentos que acrediten o respalden sus cotizaciones, y
-
-IV. No informe oportunamente los cambios en la información proporcionada al momento de su registro.
-
-2. Previamente a que la Dirección dictamine sobre la suspensión o cancelación del registro de un Proveedor, el interesado deberá ser notificado de esta posibilidad, señalándole un plazo de diez días hábiles para que las subsane o pruebe su improcedencia. Todos los documentos que se recaben al seguirse este procedimiento integrarán el expediente que se pondrá a disposición del Comité para que emita su resolución.
-
-(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004) (F. DE E., P.O. 3 DE FEBRERO DE 2005)
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 175.
 
-1. La inscripción en el Padrón no es obligatoria, ya que cualesquier proveedor podrá participar en las adquisiciones, siempre y cuando cumpla con los requisitos establecidos en el presente título.
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -2129,63 +2119,27 @@ IV. No informe oportunamente los cambios en la información proporcionada al mom
 
 ###### Artículo 176.
 
-1. Salvo disposición legal en contrario, las adquisiciones de bienes y contratación de servicios que requieran, se realizarán por conducto del Comité mediante los procedimientos enunciados en este artículo.
-
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
-
-2. El Comité, según el caso, evaluará las propuestas que presenten los proveedores de bienes y servicios, a efecto de seleccionarlos, considerando para ello las mejores condiciones de precio, calidad, garantía, plazo de entrega y financiamiento para el pago, con base en los siguientes procedimientos:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2016)</small>
-
-I. Por concurso, cuyos montos serán aquellos que rebasen el resultante de 5,000 (cinco mil) veces la Unidad de Medida y Actualización, antes de impuestos.
-
-a) Formulación y evaluación de las bases e invitaciones a por lo menos tres proveedores.
-
-b) Exhibición de la convocatoria en el tablero oficial de información que para tal efecto exista en el edificio y en la página de Internet del Congreso, de la misma manera, los integrantes del Comité podrán invitar a participar a aquellas personas que consideren adecuadas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2016)</small>
-
-II. Por invitación a cuando menos tres proveedores, cuyos montos serán aquellos que se encuentren en el rango de entre 2,000 (dos mil) a 5,000 (cinco mil) veces la Unidad de Medida y Actualización, antes de impuestos.
-
-a) Se elaborará cuadro comparativo con las propuestas que se reciban.
-
-b) Se asignará el pedido y/o contrato de acuerdo a los criterios de precio, calidad, tiempo de entrega y demás condiciones favorables para el Congreso.
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2016)</small>
-
-III. Adjudicación directa: cuyos montos serán aquellos que sean iguales o superiores a 500 (quinientos) y menores a 2000 (dos mil) veces la Unidad de Medida y Actualización, antes de impuestos.
-
-3. Para las adquisiciones por adjudicación directa se deberá observar invariablemente el inciso a) de la fracción II de este artículo.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 177.
 
-1. En los casos en que los precios de las adquisiciones de bienes y servicios sean menores al equivalente a 500 veces la Unidad de Medida y Actualización, se aplicarán los lineamientos que establezca la Comisión.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 178.
 
-1. Las personas físicas o jurídicas que hayan sido adjudicadas para suministrar bienes o servicios, cuando se les requiera a juicio del Comité, deberán garantizar el cumplimiento del contrato mediante la presentación de fianzas, garantías, pólizas o cualquier otro instrumento establecido al efecto.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 179.
 
-1. Los instrumentos a que se refiere el artículo anterior, se otorgarán mediante documento que expida compañía autorizada con domicilio en el Estado de Jalisco; tratándose de proveedores domiciliados en esta Entidad. Cuando estos tengan su domicilio fuera de Jalisco, deberán exhibir la garantía, con la aceptación de la afianzadora que la expida de someterse a la competencia de los juzgados del fuero común del Primer Partido Judicial del Estado de Jalisco.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 180.
 
-1. Los proveedores serán responsables por los defectos, vicios ocultos o falta de calidad en general, en los bienes o servicios o por cualquier otro incumplimiento en que hubieren incurrido en los términos del pedido, de conformidad a los términos establecidos en la fianza presentada.
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO OCTAVO. DE LA SUSPENSIÓN O CANCELACIÓN DE LAS ADJUDICACIONES
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 181.
 
@@ -2203,65 +2157,35 @@ III. Adjudicación directa: cuyos montos serán aquellos que sean iguales o supe
 
 ###### Artículo 182.
 
-1. Las personas que hubieren participado en algún procedimiento de concurso o invitación a cotizar y que consideren afectados sus legítimos intereses por no haberse apegado el procedimiento de adquisición a lo estipulado por el presente ordenamiento, los Acuerdos Legislativos aplicables o los términos de la respectiva convocatoria, podrán inconformarse por escrito ante la Comisión, explicando detalladamente las causas que motivan sus discrepancias y las conductas indebidas en que, a su juicio, podría haber incurrido cualesquier servidor público por los actos impugnados.
-
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2005)</small>
-
-2. Podrán, asimismo, presentar escritos de inconformidad todas las personas que, habiendo tenido conocimiento de hechos irregulares realizados durante el trámite de adquisición de bienes o contratación de servicios, quisieran dar parte de ellos a la Comisión, aunque hubieren o no tenido una injerencia directa en el procedimiento. En tal situación, el escrito deberá contener los datos generales del denunciante, así como el domicilio en el que recibirán las notificaciones que se generen.
-
-3. Las inconformidades deberán presentarse dentro de los diez días hábiles siguientes a aquél en que el hecho objetado ocurra o que el inconforme tenga conocimiento de él.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 183.
 
-1. Al escrito de inconformidad deberán acompañarse las pruebas que se tengan, las cuales serán valoradas por la Comisión durante el período de investigación.
-
-2. La manifestación de hechos falsos se sancionará conforme a las disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 184.
 
-1. Recibido un escrito de inconformidad, la Comisión dispondrá de 30 días naturales, contados a partir del día siguiente al que se reciba el documento, para realizar sus averiguaciones y resolver lo conducente.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 185.
 
-1. Para el desahogo de las inconformidades, la Comisión podrá auxiliarse de los órganos dependientes de la Secretaría General del Congreso, que estarán obligados a proporcionar toda la información que les fuere requerida.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 186.
 
-1. La Dirección deberá conservar por el tiempo y en la forma que señale la legislación aplicable, el Comité o la Comisión, la documentación que justifique y compruebe la realización de las operaciones de adquisición de bienes y contratación de servicios.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 187.
 
-1. Transcurrido el plazo para presentar escritos de inconformidad, precluye para los interesados el derecho a objetar los procedimiento (sic). Empero, la Auditoria Superior del Estado tendrá en cualquier tiempo la facultad de requerir información y fiscalizar los procesos de adquisición de bienes o contratación de servicios, en los términos de ley.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 188.
 
-1. Los procesos de adjudicación de contratos para la compra de bienes o contratación de servicios podrán suspenderse cuando:
-
-I. Se advierta que existan o pudieran existir actos contrarios a las disposiciones de este Reglamento o de las disposiciones legales aplicables;
-
-II. Con la suspensión no se cause perjuicio al interés público y no se contravengan disposiciones de orden público, o bien, si de continuarse el procedimiento de contratación, pudieran producirse daños o perjuicios al Congreso.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 ###### Artículo 189.
 
-1. La resolución que emita la Comisión, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hubieren intervenido, tendrá por consecuencia:
-
-I. Declarar la nulidad de todo o parte del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la ley; o
-
-II. La declaración de improcedencia de la inconformidad.
+(DEROGADO, P.O. 16 DE MARZO DE 2017)
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2012)</small>
 
@@ -2443,7 +2367,7 @@ Décimo tercero: El Congreso del Estado de Jalisco deberá iniciar el procedimie
 
 Décimo cuarto: De conformidad con lo dispuesto en el artículo tercero transitorio del decreto número 22228/LVIII/2008, publicado el cinco de julio de 2008, el Titular del Poder Ejecutivo deberá realizar las gestiones y adecuaciones presupuestarias necesarias para efecto de que se proceda a pagar los recursos que por concepto de indemnización le corresponda a los Consejeros Electorales en funciones que opten por no participar en el proceso de integración del nuevo Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, o que participando, no resultaren electos.
 
-Décimo Quinto (sic): Se deroga lo dispuesto por los artículos 48 al 51 del Reglamento de la Ley Orgánica del Poder Legislativo del estado de Jalisco, contenida en el decreto 20544.
+Décimo Quinto: Se deroga lo dispuesto por los artículos 48 al 51 del Reglamento de la Ley Orgánica del Poder Legislativo del estado de Jalisco, contenida en el decreto 20544.
 
 P.O. 17 DE AGOSTO DE 2010.
 
@@ -2514,3 +2438,15 @@ P.O. 16 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26264/LXI/17 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO Y DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26300/LXI/17 QUE REFORMA LOS ARTÍCULOS 142, 143, 144, 145, 146, 147, 148, 151, 152, 153, 155, 156, 157, Y 158; SE DEROGAN LOS ARTÍCULOS 149, 150, 161, 162, 166, 167, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 182, 183, 184, 185, 186, 187, 188 Y 189, Y SE ADICIONA EL ARTÍCULO 142 BIS, DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los vocales nombrados por las comisiones que integren el Comité al momento de publicación del presente decreto permanecerán en el mismo durante el periodo de la Legislatura o hasta que la respectiva comisión emita un nuevo nombramiento. Para el caso de los representantes del CESJAL, éstos permanecerán en el Comité hasta en tanto la mayoría de las organizaciones nombren a sus respectivos representantes.
+
+La representación del Órgano Interno de Control ante el Comité será ocupada hasta que se nombre al funcionario respectivo, en tanto, su asistencia no se computará para efectos de quórum ni de votación.
+
+TERCERO. Los procedimientos de adquisición en proceso, las bases y convocatorias realizados o emitidos antes de la publicación del presente decreto se regirán bajo las normas vigentes al momento de su celebración o emisión.
