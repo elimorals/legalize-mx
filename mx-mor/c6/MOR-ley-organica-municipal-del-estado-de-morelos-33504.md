@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2017-02-22"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -1468,6 +1468,20 @@ El Presidente Municipal, el Síndico, los Regidores podrán presentar proyectos 
 Esta misma facultad podrá ser ejercida por los ciudadanos del Municipio, siempre y cuando cumplan con lo dispuesto en el artículo 19 bis, fracción III, de la Constitución del Estado.
 
 Se entiende delegada por los Ayuntamientos al Presidente Municipal la facultad para expedir las circulares y disposiciones administrativas de observancia general, en virtud de su naturaleza. El Presidente Municipal dará cuenta al Ayuntamiento, en la Sesión de Cabildo inmediata posterior, del uso que haya hechos (sic) de esta facultad, a fin de que éste ratifique la circular o disposición expedida.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+###### Artículo 63 Bis.
+
+Tratándose de la reglamentación relativa a permisos para la construcción de estaciones de servicio para almacenamiento y expendio de diésel y gasolinas, las autoridades municipales deberán garantizar que, en los procedimientos establecidos en la misma, se observen como mínimo los siguientes parámetros:
+
+IV (SIC). No se impongan distancias mínimas entre estaciones de servicio;
+
+V. No se contengan restricciones relativas a la superficie y características que debe tener el predio donde se construyan, y
+
+VI. No se establezcan requisitos inconsistentes con la regulación federal en materia energética.
+
+Asimismo, deberán establecerse expresamente los tiempos de respuesta a las solicitudes que en esta materia les sean presentadas, procurando que los procedimientos sean expeditos.
 
 ###### Artículo 64.
 
@@ -3982,6 +3996,20 @@ SEGUNDA. Las reformas, adiciones y derogaciones contenidas en el presente Decret
 TERCERA. Las reformas a la Ley Orgánica Municipal del Estado de Morelos y a la Ley General de Hacienda Municipal del Estado de Morelos, entrarán en vigor hasta el momento en que se haga la Declaratoria a que se refiere la disposición transitoria PRIMERA.
 
 CUARTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS CINCO POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSAS LEYES ESTATALES, EN MATERIA DE COMPETENCIA ECONÓMICA Y LIBRE CONCURRENCIA”.]
+
+PRIMERO. Aprobado el presente decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos delo (sic) dispuesto por los artículos 44, 47 y 70 Fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión de Gobierno del Estado De Morelos.
+
+TERCERO. A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones jurídicas que contravengan el presente decreto.
+
+CUARTO. Dentro de un plazo no mayor a 90 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, se deberán realizar, las adecuaciones a las disposiciones reglamentarias correspondientes.
+
+QUINTA. Dentro de un plazo no mayor a 150 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, los Ayuntamientos municipales del Estado de Morelos, deberán realizar en su caso, las adecuaciones necesarias a sus reglamentos de construcciones, así como al de ecología y protección al ambiente, según corresponda.
 
 ###### ARTÍCULO CUARTO.
 
