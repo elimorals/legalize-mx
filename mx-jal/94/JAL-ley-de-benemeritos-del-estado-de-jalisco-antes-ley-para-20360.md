@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-benemeritos-del-estado-de-jalisco-antes-ley-para-20360"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-13"
-last_updated: "2009-12-29"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE BENEMERITOS DEL ESTADO DE JALISCO -- ANTES LEY PARA DECLARAR Y HONRAR LA MEMORIA DE LOS BENEMERITOS DEL ESTADO DE JALISCO --
 
-LEY PARA DECLARAR Y HONRAR LA MEMORIA DE LOS BENEMERITOS DEL ESTADO DE JALISCO
+LEY PARA DECLARAR Y HONRAR LA MEMORIA DE LOS BENEMÉRITOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Jalisco, el martes 13 de marzo de 2001.
 
@@ -139,7 +139,9 @@ a) Por no cumplir en forma y fondo con cualquiera de los requisitos de esta Ley.
 
 b) Por no haberse reunido el expediente por falta de información y elementos de prueba suficientes durante el término de la Legislatura correspondiente.
 
-c) Si la persona que se pretende declarar como Benemérito del Estado de Jalisco, en cualquier caso, no ha cumplido 10 años de fallecida, a la fecha en que fue presentada la iniciativa de decreto.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
+c) Si la persona que se pretende declarar como Benemérito del Estado de Jalisco, en cualquier caso, no ha cumplido 20 años de fallecida a la fecha en que fue presentada la iniciativa de decreto; y
 
 d) Si se probara con elementos suficientes que la persona que se pretende declarar como Benemérito del Estado de Jalisco, en cualquier caso, a pesar de que resultara merecedora de tal nombramiento, tuviera máculas en su vida pública o privada, que mancillaran su buen nombre o que sus actos no hayan sido apegados a la legalidad, a la moral o a las buenas costumbres, en asuntos de trascendencia social.
 
@@ -228,3 +230,9 @@ DR. MAURICIO LIMÓN AGUIRRE
 P.O. 29 DE DICIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26304/LXI/17 QUE REFORMA EL ARTÍCULO 12 DE LA LEY PARA DECLARAR Y HONRAR LA MEMORIA DE LOS BENEMÉRITOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
