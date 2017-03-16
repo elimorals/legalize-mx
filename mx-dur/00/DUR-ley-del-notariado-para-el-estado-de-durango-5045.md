@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-5045"
 country: "mx"
 rank: "ley"
 publication_date: "1974-06-20"
-last_updated: "2015-12-17"
+last_updated: "2017-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de junio de 1974.
 
@@ -540,6 +542,18 @@ ARTICULO 46 BIS.- (DEROGADO, P.O. 19 DE JUNIO DE 1980)
 ###### ARTICULO 47.
 
 Los instrumentos públicos y los poderes otorgados fuera de la República, una vez legalizados deberán protocolizarse para que surtan sus efectos, lo que se hará precisamente ante el notario que designen las partes.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+ARTICULO 47 BIS.- El poder o mandato otorgado por personas físicas o por representantes de personas morales que no tengan actividad mercantil en el que el apoderado o mandatario esté facultado para realizar actos de dominio o de las (sic) riguroso dominio sobre inmuebles, deberá consignarse sin excepción en escritura pública ante Notario.
+
+Lo mismo se hará cuando se trate de la revocación del citado poder.
+
+El Notario ante quien se otorgue un poder o su revocación en los términos antes mencionados, deberá dentro de los 3 días hábiles siguientes al otorgamiento o revocación dar aviso electrónico de dicho acto a la Dirección General de Notarias, utilizando los sistemas y formatos que se determinen en los instrumentos legales aplicables.
+
+Los Poderes o mandatos otorgados en los términos anteriores tendrán la vigencia que fije el otorgante, sin que pueda exceder de 36 meses, contados a partir de la fecha del otorgamiento.
+
+Tratándose del otorgamiento, modificación, extinción, revocación o renuncia a poderes se procederá en términos de la Ley del Notariado para el Estado de Durango.
 
 ### CAPITULO CUARTO. DE LOS TESTIMONIOS
 
@@ -1426,3 +1440,11 @@ P.O. 17 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan las contenidas en el presente Decreto.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 120.- POR EL QUE SE ADICIONA UN ARTÍCULO 47 BIS A LA LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO".[
+
+PRIMERO.- El presente decreto entra en vigor a los 60 días de su publicación en el Periódico Oficial del Gobierno del Estado, lapso durante el cual, deberá llevarse a cabo la capacitación de notarios y personal que designaren al efecto, para operar los sistemas informáticos y formatos que se llegaren a determinar. Lo mismo se hará en lo que concierne a la Dirección General de Notarias y su personal.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
