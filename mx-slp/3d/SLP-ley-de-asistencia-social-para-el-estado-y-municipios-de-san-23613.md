@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2016-12-01"
+last_updated: "2017-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -769,9 +769,13 @@ VII. En general los demás bienes, derechos e ingresos que obtengan por cualquie
 
 El Gobierno del Estado y el DIF Estatal en el ámbito de su respectiva competencia, promoverán que las dependencias y entidades del Estado y de los municipios destinen los recursos necesarios a los programas de asistencia social.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 32.
 
-El DIF Estatal deberá emitir opinión sobre el otorgamiento de subsidios a instituciones públicas o privadas que actúen en el campo de la asistencia social, sin perjuicio de las facultades conferidas a otras dependencias y entidades públicas.
+Las solicitudes para el otorgamiento de subsidios a instituciones de asistencia social privadas, serán presentadas en todos los casos ante el DIF Estatal, a fin de que, previo cumplimiento de los requisitos que establecen la Ley de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, se considere su inclusión en el Presupuesto de Egresos del Estado.
+
+El DIF estatal como organismo rector de la asistencia social en el Estado, en cualquier tiempo podrá emitir opinión a la Secretaría de Finanzas, para que ésta en uso de sus facultades proceda a la reducción, suspensión o terminación en la ministración de los subsidios o donativos a las instituciones privadas de asistencia social, que incumplan con su objeto y las disposiciones legales aplicables.
 
 ###### ARTICULO 33.
 
@@ -1331,17 +1335,17 @@ El registro de las instituciones será requisito para la certificación de las f
 
 ### CAPITULO IV. De las Certificaciones de las Instituciones de Asistencia Privada
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 72.
 
-Para efectos de la presente Ley, se entiende por certificación el acto mediante el cual el DIF Estatal reconoce la calidad de las funciones asistenciales de los servicios y apoyos que presten las instituciones de asistencia privada.
+Para efectos de la presente Ley se entiende por certificación a la realizada por la Procuraduría de Protección de Niñas, Niños, Adolecentes, la Mujer, la Familia y el Adulto Mayor del Estado, con la cual el DIF Estatal reconoce la calidad de las funciones asistenciales de los servicios y apoyos que presten las instituciones de asistencia privada.
 
 Esta certificación se hará valer ante las autoridades competentes y servirá para recibir los beneficios y prerrogativas que en su favor se establecen en esta Ley, su Reglamento y los ordenamientos legales aplicables.
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
-ARTICULO 72 BIS. En la iniciativa de Ley del Presupuesto de Egresos del Estado, que remita el Titular del Ejecutivo del Estado al Poder Legislativo, en cada ejercicio fiscal, en el apartado de las instituciones de asistencia social con subsidio gubernamental, el sistema para el Desarrollo Integral de la Familia del Estado, emitirá una opinión a la Secretaría de Finanzas de Gobierno del Estado, sobre el desempeño de la función de las instituciones de asistencia social privada que cuenten con subsidio a refrendar o, en su caso, otorgárselo por primera ocasión, esta opinión será igualmente remitida al Poder Legislativo para su estudio y análisis.
-
-Esta opinión se basará en los mismos criterios usados para la certificación descritos por el artículo 72 del presente Ordenamiento; además, de implicar la observación de la Auditoria Superior del Estado, sobre el correcto manejo de los recursos por parte de las instituciones privadas. En todos los casos, la opinión será pública y se notificará a cada organismo sujeto de subsidio.
+ARTICULO 72 BIS. En la iniciativa de Ley del Presupuesto de Egresos del Estado, que remita el titular del Ejecutivo del Estado al Poder Legislativo, en cada ejercicio fiscal, en el apartado de las instituciones de asistencia social con subsidio gubernamental, el sistema para el Desarrollo Integral de la Familia del Estado, remitirá opinión a la Secretaría de Finanzas de Gobierno del Estado, sobre el desempeño de la función de las instituciones de asistencia social privada que cuenten con subsidio a refrendar o, en su caso, otorgárselo por primera ocasión, esta resolución será igualmente remitida al Poder Legislativo para su estudio y análisis.
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2008)</small>
 
@@ -1353,9 +1357,17 @@ La certificación se emitirá de conformidad con:
 
 I. Los criterios que establezca y expida el Consejo Estatal de Asistencia Social;
 
-II. Las Normas Oficiales Mexicanas para servicios asistenciales, y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
-III. Los lineamientos y términos que establezca el DIF Estatal.
+II. Las Normas Oficiales Mexicanas para servicios asistenciales.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
+
+III. Los lineamientos y términos que establezca el DIF Estatal, y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2017)</small>
+
+IV. Los criterios establecidos en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí.
 
 ###### ARTICULO 74.
 
@@ -1614,3 +1626,19 @@ P.O. 1 DE DICIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0587.- SE REFORMA EL ARTÍCULO 93 DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ; LOS ARTÍCULOS, 32, 72, 72 BIS, Y 73 Y ADICIONA AL ARTÍCULO 73 LA FRACCIÓN IV, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMA Y ADICIONA EL ARTÍCULO 678 DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis Potosí".
+
+SEGUNDO. Para el caso de la fracción XVIII del artículo 67 que se adiciona en este Decreto a la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, para que las instituciones privadas cuenten con cuando menos el treinta por ciento del total de sus recursos, éste sea de origen en fuentes de financiamiento distinto a las otorgadas con cargo al Presupuesto de Egresos del Estado, se procederá conforme a lo siguiente:
+
+Para el ejercicio fiscal 2018, éstas deberán contar con un diez por ciento del total de sus recursos, que tenga como origen una fuente legal diversa al financiamiento otorgado con cargo al Presupuesto de Egresos del Estado.
+
+Para el ejercicio fiscal 2019, éstas deberán contar con un veinte por ciento del total de sus recursos, que tenga como origen una fuente legal diversa al financiamiento otorgado con cargo al Presupuesto de Egresos del Estado.
+
+Para el ejercicio fiscal 2020, éstas deberán contar con un treinta por ciento del total de sus recursos, que tenga como origen una fuente legal diversa al financiamiento otorgado con cargo al Presupuesto de Egresos del Estado.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
