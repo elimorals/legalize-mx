@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-17781"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-31"
-last_updated: "2016-08-04"
+last_updated: "2017-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 31 de marzo de 2000.
 
@@ -461,7 +461,11 @@ En la aplicación de lo previsto en el párrafo anterior, se observarán los lin
 
 > <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-XXX.- Supervisar que las Instituciones Educativas Oficiales y Particulares, instrumenten acciones tendientes a fomentar hábitos para una vida saludable, así como para prevenir y diagnosticar de manera oportuna la obesidad infantil y juvenil; y (sic)
+XXX.- Supervisar que las Instituciones Educativas Oficiales y Particulares, instrumenten acciones tendientes a fomentar hábitos para una vida saludable, así como para prevenir y diagnosticar de manera oportuna la obesidad infantil y juvenil; y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2017)</small>
+
+XXX Bis.- Procurar que en las instituciones educativas oficiales y particulares se instrumenten acciones para la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de trastornos mentales y del comportamiento; obteniendo la orientación y asesoramiento en las instituciones públicas dedicadas a la atención de las personas con trastornos mentales y del comportamiento;
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -737,7 +741,7 @@ ARTÍCULO 19 OCTIES.- Será nula y, en consecuencia, no surtirá efecto alguno t
 
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2014)</small>
 
-ARTÍCULO 19 NOVIES.- Con el propósito de asegurar la continuidad en el servicio educativo, el Personal Docente y el Personal con Funciones de Dirección o de Supervisión en la Educación Básica y Media Superior que incumpla con la asistencia a sus labores por más de tres días consecutivos o discontinuos, en un periodo de treinta días naturales, sin causa justificada, será separado del servicio sin responsabilidad para la Autoridad ,Educativa Estatal o para el Organismo Descentralizado, y sin necesidad de que exista resolución previa del Tribunal Jurisdiccional correspondiente, sujetándose para tal efecto al procedimiento previsto en la Ley General del Servicio Profesional Docente; sin perjuicio del derecho del interesado de impugnar la resolución respectiva ante las instancias jurisdiccionales que correspondan.
+ARTÍCULO 19 NOVIES.- Con el propósito de asegurar la continuidad en el servicio educativo, el Personal Docente y el Personal con Funciones de Dirección o de Supervisión en la Educación Básica y Media Superior que incumpla con la asistencia a sus labores por más de tres días consecutivos o discontinuos, en un periodo de treinta días naturales, sin causa justificada, será separado del servicio sin responsabilidad para la Autoridad, Educativa Estatal o para el Organismo Descentralizado, y sin necesidad de que exista resolución previa del Tribunal Jurisdiccional correspondiente, sujetándose para tal efecto al procedimiento previsto en la Ley General del Servicio Profesional Docente; sin perjuicio del derecho del interesado de impugnar la resolución respectiva ante las instancias jurisdiccionales que correspondan.
 
 Las personas que decidan aceptar el desempeño de un empleo, cargo o comisión que impidan el ejercicio de su función docente, de dirección o supervisión, deberán separarse del servicio, sin goce de sueldo, mientras dure su empleo, cargo o comisión.
 
@@ -2042,6 +2046,14 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 P.O. 4 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 14, LOS ARTÍCULOS 79 Y 83, Y EL TERCER PÁRRAFO DEL 104, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN XXX BIS AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
