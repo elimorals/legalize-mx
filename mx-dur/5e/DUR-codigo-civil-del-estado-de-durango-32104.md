@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2017-03-05"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO CIVIL DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -8485,6 +8487,18 @@ II.- En escrito privado firmado por el otorgante y dos testigos, y ratificadas l
 
 III.- En carta poder sin ratificación de firmas.
 
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2017)</small>
+
+IV.- El poder o mandato otorgado por personas físicas o por representantes de personas morales que no tengan actividad mercantil en el que el apoderado o mandatario esté facultado para realizar actos de dominio o de las de riguroso dominio sobre inmuebles, deberá consignarse sin excepción en escritura pública ante Notario.
+
+Lo mismo se hará cuando se trate de la revocación del citado poder.
+
+El Notario ante quien se otorgue un poder o su revocación en los términos antes mencionados, deberá dentro de los 3 días hábiles siguientes al otorgamiento o revocación dar aviso electrónico de dicho acto a la Dirección General de Notarias, utilizando los sistemas y formatos que se determinen en los instrumentos legales aplicables.
+
+Los Poderes o mandatos otorgados en los términos anteriores tendrán la vigencia que fije el otorgante, sin que pueda exceder de 36 meses, contados a partir de la fecha del otorgamiento.
+
+Tratándose del otorgamiento, modificación, extinción, revocación o renuncia a poderes se procederá en términos de la Ley del Notariado para el Estado de Durango.
+
 ART. 2433.- El mandato verbal es el otorgado de palabra entre presentes, hayan o no intervenido testigos.
 
 Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para que se dio.
@@ -8500,6 +8514,10 @@ En los poderes generales para ejercer actos de dominio bastará que se den con e
 Cuando se quisieren limitar, en los tres casos antes mencionados, las facultades de los apoderados, se consignarán las limitaciones, o los poderes serán especiales.
 
 Los notarios insertarán este artículo en los testimonios de los poderes que otorguen.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+
+Tratándose del otorgamiento, modificación, extinción, revocación o renuncia a poderes se procederá en términos de la Ley de Notariado para el Estado de Durango.
 
 ART. 2436.- El mandato debe otorgarse en escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario, ante los jueces o autoridades administrativas correspondientes:
 
@@ -8689,7 +8707,7 @@ ART. 2479.- El mandante puede eixgir (sic) la devolución del instrumento o escr
 
 El mandante que descuide exigir los documentos que acrediten los poderes, del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
 
-ART. 2480.- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
+ART. 3480 (SIC).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
@@ -9103,11 +9121,11 @@ ART. 2611.- Si sólo se hubiere pactado lo que debe corresponder a los socios po
 
 ART. 2612.- Si alguno de los socios contribuye solo con la industria, sin que ésta se hubiere estimado, ni se hubiere designado cuota que por ella debiera recibir, se observarán las reglas siguientes:
 
-I.- Si el trabajo del industrial pudiera hacerse por otro, su cuota será la que corresponda por razón de sueldo u honorarios, y ésto mismo se observará si son varios los socios industriales;
+I.- Si el trabajo del industrial pudiera hacerse por otro, su cuota será la que corresponda por razón de sueldo u honorarios, y ésto mismo se observará si son varios los socios industriales.
 
-II.- Si el trabajo no pudiere ser hecho por otro, su cuota será igual a la del socio capitalista que tenga más;
+II.- Si el trabajo no pudiere ser hecho por otro, su cuota será igual a la del socio capitalista que tenga más,
 
-III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias;
+III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias.
 
 IV.- Si son varios los socios industriales y están en el caso de la fracción II, llevarán entre todos la mitad de las ganancias y la dividirán entre sí por convenio y, a falta de éste, por decisión arbitral.
 
@@ -10569,7 +10587,7 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido de
 
 P.O. 5 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 61.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 61.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
@@ -10578,3 +10596,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 120.- POR EL QUE SE ADICIONA UN ARTICULO 47 BIS A LA LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entra en vigor a los 60 días de su publicación en el Periódico Oficial del Gobierno del Estado, lapso durante el cual, deberá llevarse a cabo la capacitación de notarios y personal que designaren al efecto, para operar los sistemas informáticos y formatos que se llegaren a determinar. Lo mismo se hará en lo que concierne a la Dirección General de Notarias y su personal.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
