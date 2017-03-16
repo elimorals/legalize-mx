@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2017-03-01"
+last_updated: "2017-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -775,29 +775,37 @@ Para contribuir al logro de los objetivos de la política ambiental, en el desar
 
 #### SECCIÓN 3. Evaluación del impacto ambiental
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 38.
 
 La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría, con la intervención de los Gobiernos Municipales correspondientes, establece las condiciones a que se sujetará la realización de obras y actividades que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente. Para ello, quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización en materia de impacto ambiental de la Secretaría:
 
-I. Caminos rurales;
+X. (SIC) Caminos rurales;
 
-II. Zonas y parques industriales, donde no se prevea realizar actividades altamente riesgosas;
+XI. Zonas y parques industriales, donde no se prevea realizar actividades altamente riesgosas;
 
-III. Exploración, extracción y procesamiento de minerales o sustancias que constituyen depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su descomposición que puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras y que no estén reservados a la Federación;
+XII. Exploración, extracción y procesamiento de minerales o sustancias que constituyen depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su descomposición que puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras y que no estén reservados a la Federación;
 
-IV. Desarrollos turísticos estatales y privados;
+XIII. Desarrollos turísticos estatales y privados;
 
-V. Instalación de tratamiento, confinamiento o eliminación de aguas residuales y de residuos sólidos no peligrosos;
+XIV. Instalación de tratamiento, confinamiento o eliminación de aguas residuales y de residuos sólidos no peligrosos;
 
-VI. Fraccionamientos, unidades habitacionales y nuevos centros de población;
+XV. Condominios, conjuntos urbanos, fraccionamientos, unidades habitacionales y nuevos centros de población;
 
-VII. Establecimientos industriales, comerciales y de servicios que no estén expresamente reservados a la Federación, conforme al artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XVI. Establecimientos industriales, comerciales y de servicios que no estén expresamente reservados a la Federación, conforme al artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-VIII. Obras, actividades o aprovechamientos que pretendan realizarse dentro de las áreas naturales protegidas establecidas por las autoridades del Estado de Morelos en los términos de la presente Ley;
+XVII. Obras, actividades o aprovechamientos que pretendan realizarse dentro de las áreas naturales protegidas establecidas por las autoridades del Estado de Morelos en los términos de la presente Ley, y
 
-IX. Obras o actividades que aún cuando sean distintas a las anteriores, puedan causar impactos significativos de carácter adverso y que, por razones de la obra, actividad o aprovechamiento de que se trate, no sean competencia de la Federación.
+XVIII. Obras o actividades que aun cuando sean distintas a las anteriores, puedan causar impactos significativos de carácter adverso y que, por razones de la obra, actividad o aprovechamiento de que se trate, no sean competencia de la Federación.
 
-El Reglamento correspondiente determinará las obras o actividades a que se refiere éste artículo, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilibrios ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente, y que por lo tanto no deban sujetarse al procedimiento de evaluación de impacto ambiental previsto en este ordenamiento.
+Quedan exceptuadas de la evaluación de impacto ambiental, las siguientes obras o actividades:
+
+d) (sic) Construcción de establecimientos de estaciones de servicio para almacenamiento y expendio de diésel y gasolinas, en los términos contemplados por las Normas Oficiales Mexicanas y demás normativa federal aplicable;
+
+e) Las obras públicas estatales y municipales, que sean ejecutadas por conducto de las instancias correspondientes, atendiendo el interés público que su realización reviste, y
+
+f) Las demás contempladas en el Reglamento correspondiente, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilibrios ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente, y que por lo tanto no deban sujetarse al procedimiento de evaluación de impacto ambiental previsto en este ordenamiento.
 
 ###### ARTÍCULO 39.
 
@@ -807,19 +815,23 @@ Los efectos negativos que sobre el ambiente, los recursos naturales, la flora y 
 
 No se deberán otorgar ni expedir: licencias de construcción, cambios o autorizaciones de uso del suelo, licencias de funcionamiento o cualquier otro acto de autoridad que tenga por objeto la autorización para realizar las actividades sujetas a evaluación previa del impacto ambiental sin autorización expresa de la autoridad competente, en los casos en que la misma sea exigible de conformidad con la presente Ley.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 41.
 
 La realización de las obras y actividades a que se refiere el artículo 38, requerirán la presentación de un informe preventivo y no una manifestación de impacto ambiental, cuando:
 
-I. Existan Normas Oficiales Mexicanas u otras disposiciones que regulen las emisiones, las descargas, el aprovechamiento de recursos naturales y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
+l. Existan Normas Oficiales Mexicanas u otras disposiciones que regulen las emisiones, las descargas, el aprovechamiento de recursos naturales y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
 
-II. Las obras o actividades de que se trate estén expresamente previstas por un plan de desarrollo urbano o de ordenamiento ecológico que haya sido evaluado por la Secretaría en los términos del artículo siguiente; o
+II. Las obras o actividades de que se trate estén expresamente previstas por un programa de desarrollo urbano o de ordenamiento ecológico que haya sido evaluado por la Secretaría en los términos del artículo siguiente;
 
-III. Se trate de instalaciones ubicadas en parques industriales autorizados en los términos de la presente sección.
+III. Se trate de instalaciones ubicadas en parques industriales autorizados en los términos de la presente sección, y
 
-En los casos anteriores, la Secretaría, una vez analizado el informe preventivo, determinará, en un plazo no mayor de veinte días, si se requiere la presentación de una manifestación de impacto ambiental en alguna de las modalidades previstas en el reglamento de la presente Ley, o si se está en alguno de los supuestos señalados.
+IV. Sean obras o acciones de interés público, cuya realización sea indispensable para la satisfacción de necesidades de la colectividad y por ende redunden en beneficio de la misma.
 
-La Secretaría publicará en el órgano informativo que designe, el listado de los informes preventivos que le sean presentados en los términos de este artículo, los cuales estarán a disposición del público.
+En los casos anteriores, la Secretaría, una vez analizado el informe preventivo, determinará, en un plazo no mayor de veinte días, si se requiere la presentación de una manifestación de impacto ambiental en alguna de las modalidades previstas en el reglamento de la presente Ley, o si se está en alguno de los supuestos señalados, debiendo considerar al respecto la eficacia de la decisión, a fin de que no impida la ejecución de las acciones de que se trate, observando en su determinación los principios de flexibilidad, simplificación, agilidad y oportunidad.
+
+La Secretaría publicará en el órgano de difusión oficial el listado de los informes preventivos que le sean presentados en los términos de este artículo, los cuales estarán a disposición del público.
 
 ###### ARTÍCULO 42.
 
@@ -2942,3 +2954,17 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS CINCO POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSAS LEYES ESTATALES, EN MATERIA DE COMPETENCIA ECONÓMICA Y LIBRE CONCURRENCIA”.]
+
+PRIMERO. Aprobado el presente decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos delo (sic) dispuesto por los artículos 44, 47 y 70 Fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión de Gobierno del Estado De Morelos.
+
+TERCERO. A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones jurídicas que contravengan el presente decreto.
+
+CUARTO. Dentro de un plazo no mayor a 90 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, se deberán realizar, las adecuaciones a las disposiciones reglamentarias correspondientes.
+
+QUINTA (SIC). Dentro de un plazo no mayor a 150 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, los Ayuntamientos municipales del Estado de Morelos, deberán realizar en su caso, las adecuaciones necesarias a sus reglamentos de construcciones, así como al de ecología y protección al ambiente, según corresponda.
