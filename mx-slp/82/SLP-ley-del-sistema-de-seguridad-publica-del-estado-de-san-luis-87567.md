@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2017-03-15"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -285,13 +285,17 @@ XI. Establecer las medidas de seguridad que considere necesarias para el traslad
 
 XII. Dictar los criterios para la regulación e instrumentación de la cadena de custodia de los indicios, huellas o vestigios del hecho delictuoso y de los instrumentos, objetos o productos del delito;
 
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2017)</small>
+
+XIII. Implementar el modelo homologado de unidad de policía cibernética, aprobado por el Consejo Nacional de Seguridad Pública;
+
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-XIII. Disponer la colaboración con la Fiscalía General del Estado para el cumplimiento de las medidas de protección de sujetos procesales, a través de la Policía Procesal, y
+XIV. Disponer la colaboración con la Fiscalía General del Estado para el cumplimiento de las medidas de protección de sujetos procesales, a través de la Policía Procesal, y
 
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-XIV. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
+XV. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -2071,7 +2075,7 @@ V. De legalidad: conforme al cual, toda actividad de videovigilancia pública, d
 
 Las instituciones de seguridad pública, y los prestadores de servicio de seguridad privada, no podrán ejecutar actividades de videovigilancia para:
 
-l. Captar, almacenar o procesar imágenes o sonidos del interior de espacios privados de índole personal, salvo consentimiento de quien pueda otorgarlo, o mediante autorización legalmente conferida; o bien efectuar, con las mismas salvedades, la grabación de conversaciones de naturaleza estrictamente privada, en cualquier lugar, que cause afectación a la intimidad de las personas. Las imágenes y sonidos obtenidos accidentalmente en estos casos, deberán ser destruidos inmediatamente;
+I. Captar, almacenar o procesar imágenes o sonidos del interior de espacios privados de índole personal, salvo consentimiento de quien pueda otorgarlo, o mediante autorización legalmente conferida; o bien efectuar, con las mismas salvedades, la grabación de conversaciones de naturaleza estrictamente privada, en cualquier lugar, que cause afectación a la intimidad de las personas. Las imágenes y sonidos obtenidos accidentalmente en estos casos, deberán ser destruidos inmediatamente;
 
 II. Captar, almacenar o procesar imágenes o sonidos del espacio público, cuando por la naturaleza de esos espacios o del lugar hacia donde se orienten los dispositivos, pueda afectarse gravemente la dignidad, honra, intimidad o fama pública de las personas, y
 
@@ -2143,7 +2147,7 @@ IV. La vigilancia de instalaciones estratégicas para la seguridad nacional, en 
 
 Tratándose de videovigilancia con videocámaras instaladas por prestadores de servicios de seguridad privada, la determinación sobre su ubicación quedará bajo su propia responsabilidad, pero deberá de observarse lo dispuesto en este título, y las siguientes restricciones:
 
-l. No podrán ser instalados sobre bienes de dominio público, salvo autorización expresa;
+I. No podrán ser instalados sobre bienes de dominio público, salvo autorización expresa;
 
 II. Sólo podrán orientarse hacia el espacio público y la parte de la vía que requiera vigilarse, sin invadir espacios privados, y
 
@@ -2365,7 +2369,7 @@ Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 6 DE SEPTIEMBRE DE 2012.
 
@@ -2438,3 +2442,17 @@ P.O. 15 DE MARZO DE 2017.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0586.- SE ADICIONA FRACCIÓN AL ARTÍCULO 14 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. El Ejecutivo del Estado, a través del Secretariado Técnico del Consejo Estatal de Seguridad Pública, deberá destinar los recursos necesarios del Fondo de Aportaciones para la Seguridad de los Estados y del Distrito Federal para el año 2017 y los subsecuentes, con el fin de que la Secretaría de Seguridad Pública del Estado continúe implementando en la Entidad, el Modelo Homologado de Unidad de Policía Cibernética.
+
+Para los efectos anteriores, el Secretariado Técnico del Consejo Estatal de Seguridad Pública, se coordinará con el área respectiva de la Secretaría de Seguridad Pública del Estado, para la elaboración y presentación ante la instancia correspondiente, del proyecto de acciones a realizar en cada año.
+
+En lo concerniente al año 2017 se obliga al Secretariado Técnico del Consejo Estatal de Seguridad Pública, a plantear ante la instancia correspondiente, las acciones que se deban realizar para que se siga implementando el Modelo Homologado de Unidad de Policía Cibernética, con el apoyo del área respectiva de la Secretaría de Seguridad Pública del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
