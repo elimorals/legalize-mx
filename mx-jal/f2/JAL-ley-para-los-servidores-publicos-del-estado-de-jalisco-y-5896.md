@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2016-12-20"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -175,7 +175,9 @@ III. En el Poder Judicial:
 
 a) El Pleno del Supremo Tribunal de Justicia, representado por el Magistrado Presidente, y
 
-b) En los Tribunales de lo Contencioso Administrativo y de Arbitraje y Escalafón, sus respectivos Plenos, representados por sus Presidentes;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
+b) En los Tribunales de Justicia Administrativa y de Arbitraje y Escalafón, sus respectivos Plenos, representados por sus Presidentes;
 
 IV. En los municipios, los Ayuntamientos representados por el Presidente Municipal o el Presidente del Consejo, en su caso; y
 
@@ -427,13 +429,9 @@ ll) Las análogas a las establecidas en los incisos anteriores.
 
 m) Por el incumplimiento de las obligaciones establecidas en los artículos 55 y 56, o por la violación de las prohibiciones del artículo 56-Bis de esta ley, de acuerdo con la valoración de la gravedad de la falta;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+n) (DEROGADO, P.O. 16 DE MARZO DE 2017)
 
-n) Las análogas a las establecidas en los incisos anteriores, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
-
-VI. Por prisión que sea el resultado de una sentencia ejecutoriada siempre que le impida el cumplimiento de la relación de trabajo. Cuando esta sentencia sea absolutoria al servidor público deberá reintegrársele a sus labores; debiéndosele liquidar sus sueldos cuando haya obrado en defensa de los intereses de la entidad pública.
+VI. (DEROGADA, P.O. 16 DE MARZO DE 2017)
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2015)</small>
 
@@ -2571,7 +2569,7 @@ El Secretario General de Gobierno
 
 Lic. Eugenio Ruiz Orozco
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 6 DE ABRIL DE 1985.
 
@@ -2850,3 +2848,11 @@ P.O. 20 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26185/LXI/16, MEDIANTE EL CUAL SE MODIFICA EL ARTÍCULO 136 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26303/LXI/17 QUE REFORMA LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La denominación de los tribunales de lo administrativo a que hace referencia la reforma al artículo 9 del presente decreto se entenderá como Tribunales de Justicia Administrativa una vez (sic) entre en vigor la reforma constitucional actualmente en tránsito.
