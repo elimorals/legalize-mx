@@ -4,7 +4,7 @@ identifier: "MOR-decreto-que-crea-un-organismo-descentralizado-denominado-38347"
 country: "mx"
 rank: "decreto"
 publication_date: "1995-02-08"
-last_updated: "2014-04-30"
+last_updated: "2017-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 DECRETO NÚMERO CIENTO NOVENTA Y UNO QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO “COMISIÓN ESTATAL DE RESERVAS TERRITORIALES”
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
 
 Decreto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -67,33 +67,29 @@ QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO “COMISION ESTATAL DE RESERVAS
 
 Se crea la "Comisión Estatal de Reservas Territoriales", como Organismo Público Descentralizado del Gobierno del Estado, con personalidad jurídica, patrimonio propio y autonomía jerárquica respecto de la Administración Pública Central, con domicilio en la ciudad de Cuernavaca, Morelos; sectorizado en términos del artículo 50, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 2.
 
 La Comisión, tendrá por objeto:
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+I.- La constitución de reservas territoriales, la administración y promoción del suelo urbano y urbanizable apto para el desarrollo habitacional, industrial, comercial, de servicios públicos, privados, turísticos y vivienda; interviniendo en esta última hasta la entrega de los instrumentos jurídicos de propiedad que dé certeza jurídica a los solicitantes, así como el suelo no urbanizable para la protección ecológica, el desarrollo agropecuario, forestal y de pesca;
 
-I.- La constitución de Reservas Territoriales, la administración y promoción del suelo urbano y urbanizable apto para el desarrollo habitacional, industrial, comercial, de servicios públicos, privados, turísticos y vivienda; interviniendo en esta última hasta la entrega de los instrumentos jurídicos de propiedad que dé certeza jurídica a los solicitantes, así como el suelo no urbanizable para la protección ecológica, el desarrollo agropecuario, forestal y de pesca;
+II.- Promover y dar seguimiento a las acciones de regularización de la tenencia de la tierra de predios en los que existan asentamientos humanos irregulares con factibilidad técnica y jurídica que se encuentren en territorio del Estado, siempre que estos no correspondan a zonas federales, con la finalidad de otorgarles a los posesionarios certeza jurídica en su patrimonio;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+III.- Integrar y administrar bancos de suelo con viabilidad financiera, técnica, ambiental y jurídica para el desarrollo del Estado;
 
-II.- Promover y dar seguimiento a las acciones de regularización de la Tenencia de la Tierra de predios en los que existan asentamientos humanos irregulares con factibilidad técnica y jurídica que se encuentren en territorio del Estado, siempre que estos no correspondan a zonas federales. con la finalidad de otorgarles a los posesionarios certeza jurídica en su patrimonio;
+IV.- Adquirir los terrenos necesarios, por cualquier título o medio legal, para el cumplimiento de sus fines, así como aprovechar para ello aquellos del dominio privado del Estado que el Poder Ejecutivo le asigne en patrimonio y que, por su naturaleza, sean susceptibles de ser destinados a la solución de problemas de vivienda, observando las disposiciones legales respectivas;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+V.- Enajenar bienes territoriales que formen parte de su patrimonio, de conformidad con los Programas de Desarrollo sobre la materia que impulsen la Federación, el Gobierno del Estado, los Municipios y los particulares, así como lo que establece la Constitución Política y las Leyes del Estado;
 
-III.- Adquirir los terrenos necesarios, por cualquier título o medio legal, para el cumplimiento de sus fines, así como aprovechar para ello aquellos del dominio privado del Estado que el Ejecutivo le asigne en patrimonio y que por su naturaleza sean susceptibles de ser destinados a la solución de problemas de vivienda, observando las disposiciones legales respectivas;
+VI.- Celebrar operaciones de compra y venta, promesa de venta, fideicomisos, arrendamientos, hipoteca, garantía de créditos o de cualquiera otra naturaleza para el cumplimiento de sus objetivos;
 
-IV.- Enajenar Bienes Territoriales que formen parte de su patrimonio, de conformidad con los Programas de Desarrollo sobre la materia que impulsen la Federación, el Gobierno del Estado, los Municipios y los particulares, así como lo que establece la Constitución Política y las Leyes del Estado;
+VII.- Gestionar ante las instituciones de crédito facultadas para el efecto, los financiamientos que requiera para el logro de sus finalidades;
 
-V.- Celebrar operaciones de compra y venta, promesa de venta, fideicomisos, arrendamiento, hipoteca, garantía de créditos o de cualquiera otra naturaleza par (sic) el cumplimiento de sus objetivos;
+VIII.- Gestionar y adquirir los inmuebles que requiera para el cumplimiento de sus fines, en materia de servicios públicos y sociales, y
 
-VI.- Gestionar ante las instituciones de crédito facultadas para el efecto, los financiamientos que requiera para el logro de sus finalidades;
-
-VII.- Gestionar y adquirir los inmuebles que requiera para el cumplimiento de sus fines, en materia de servicios públicos y sociales;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
-
-VIII.- En general, la ejecución de acciones, actos y celebración de Convenios que sean necesarios para el cumplimiento de sus objetivos.
+IX.- En general, la ejecución de acciones, actos y celebración de convenios que sean necesarios para el cumplimiento de sus objetivos.
 
 ###### ARTICULO 3.
 
@@ -101,99 +97,91 @@ Se declaran de interes público las actividades que desarrolle el Organismo en e
 
 ### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 4.
 
-Para el logro de sus funciones, la Comisión tendrá las siguientes atribuciones:
+Para el cumplimiento de su objeto, la Comisión tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+I.- Conducir y ejecutar la Política Estatal de Suelo que contribuya al ordenamiento territorial y al desarrollo integral del estado de Morelos;
 
-I.- Adquirir, enajenar, arrendar, afectar en fideicomiso, permuta y, en general, realizar cualquier acto jurídico destinado a la constitución de Reservas Territoriales, la regularización de la tenencia de la tierra y planes y desarrollo de la vivienda, conforme a los Programas de Desarrollo Urbano Sustentable y Estatal de ordenamiento territorial, y los que de este deriven, cuidando en todo caso el medio ambiente y las reservas ecológicas del Estado;
+II.- Integrar y administrar un banco de suelo con viabilidad financiera, técnica, ambiental y jurídica para el desarrollo del Estado, promoviendo el mejor uso de los predios baldíos urbanizados y subutilizados, que impulse la producción social del hábitat;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+III.- Formular y promover proyectos de inversión tendientes a la adquisición y habilitación de suelo para los diferentes usos;
 
-II.- Coadyuvar en la realización del inventario del patrimonio territorial libre de edificaciones, del Gobierno Estatal y en su caso, del Gobierno Federal, a fin de concretar los trámites que se requieran para protocolizar el traslado, a favor de la Comisión, del suelo que corresponda;
+IV.- Prestar asistencia administrativa, técnica y operativa a los núcleos ejidales que lo soliciten, en los procesos de desincorporación de suelo de origen social;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+V.- Ejecutar las acciones tendientes a la regularización territorial, así como promover la adopción de los mecanismos legales, administrativos, fiscales y financieros que regulen e incentiven la disponibilidad de suelo en calidad, oportunidad y precio para los distintos usos que se requieran en el estado de Morelos;
 
-III.- Coadyuvar en la política estatal en materia de planeación urbana, así como en el aprovechamiento y destino de los recursos territoriales del Estado;
+VI.- Promover la creación de entidades ejecutoras de los fondos, subsidios y recursos federales dirigidos a atender las necesidades de suelo, así como la coordinación de las políticas y programas federales y estatales que permitan una mayor y mejor capacidad operativa y financiera;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+VII.- Estructurar y contratar fuentes de fondeo y los esquemas de financiamiento, público o privado, para el cumplimiento de su objeto;
 
-IV.- Analizar los planteamientos de usos y reservas de suelo contenidos en los Programas de Desarrollo Urbano Sustentable, con objeto de realizar los estudios de delimitación y tenencia, que establezcan las reservas territoriales;
+VIII.- Adquirir, enajenar, arrendar, afectar en fideicomiso, permuta y, en general, realizar cualquier acto jurídico destinado a la constitución de reservas territoriales, así como para la administración, financiamiento y promoción del suelo urbano y urbanizable apto para el desarrollo habitacional, industrial, comercial, de servicios públicos, privados, turísticos y vivienda; la regularización de la tenencia de la tierra y planes y desarrollo de la vivienda, conforme a los Programas de Desarrollo Urbano Sustentable y Estatal de Ordenamiento Territorial, y los que de este deriven, cuidando en todo caso el medio ambiente y las reservas ecológicas del Estado, de conformidad con su Estatuto Orgánico;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+IX.- Adquirir y enajenar valores, títulos y acciones de empresas públicas o privadas relacionadas con su objeto, así como celebrar con inversionistas los contratos correspondientes, a título oneroso o gratuito, para la transferencia de reservas territoriales o de suelo apto, de acuerdo a los planes y programas de desarrollo aplicables y de conformidad con las reglas que establezca su Junta de Gobierno;
 
-V.- Proponer a la Secretaría de Gobierno, acuerdos de coordinación con la Federación para la adquisición o constitución de reservas territoriales para el desarrollo urbano y la vivienda;
+X.- Ejercer, en representación del Gobierno de Estado, el derecho de preferencia que tiene en su favor, en términos de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+XI.- Integrar a la cuenta púbica de (sic) Gobierno de (sic) Estado, que se remita al Poder Legislativo anualmente, el informe correspondiente respecto del ejercicio de las atribuciones a que se refieren las tres fracciones que anteceden;
 
-VI.- Realizar negociaciones con los poseedores o propietarios del suelo urbano en las Reservas territoriales previstas en los Programas de Desarrollo Urbano Sustentable y Estatal de ordenamiento territorial, así como realizar los actos jurídicos o administrativos que aseguren el destino previsto para dichas reservas;
+XII.- Coadyuvar en la realización del inventario del patrimonio territorial libre de edificaciones del Gobierno Estatal y, en su caso, del Gobierno Federal, a fin de concretar los trámites que se requieran para protocolizar el traslado, a favor de la Comisión, del suelo que corresponda;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+XIII.- Analizar los planteamientos de usos y reservas de suelo contenidos en los Programas de Desarrollo Urbano Sustentable, con objeto de realizar los estudios de delimitación y tenencia, que establezcan las reservas territoriales, así como proponer las actualizaciones o modificaciones a los diversos instrumentos de planeación y administración aplicables;
 
-VII.- Fomentar la constitución de inmobiliarias sociales en las áreas de reserva o regularización que incorporen al sector social al desarrollo urbano sustentable;
+XIV.- Proponer a la Secretaría de Gobierno del Poder Ejecutivo Estatal, acuerdos de coordinación con la Federación para la adquisición o constitución de reservas territoriales para el desarrollo urbano y la vivienda;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+XV.- Realizar negociaciones con los poseedores o propietarios del suelo urbano en las Reservas territoriales previstas en los Programas de Desarrollo Urbano Sustentable y Estatal de ordenamiento territorial, así como realizar los actos jurídicos o administrativos que aseguren el destino previsto para dichas reservas;
 
-VIII.- Realizar las gestiones necesarias y suficientes para la enajenación de la reserva territorial, en apoyo a proyectos de desarrollo urbano, previa autorización del Congreso del Estado, en su caso;
+XVI.- Fomentar la constitución de inmobiliarias sociales en las áreas de reserva o regularización que incorporen al sector social al desarrollo urbano sustentable;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+XVII.- Promover la incorporación de suelo social al desarrollo, promoviendo la interlocución y asociación con los ejidatarios, la revisión de las inmobiliarias ejidales y, particularmente, hacer partícipes a los ejidatarios de las plusvalías generadas por la habilitación de suelo, para que puedan recibir beneficios legítimos en un marco de legalidad y planeación;
 
-IX.- Celebrar Convenios de Coordinación con los Municipios, el Gobierno del Estado y la Federación, así como con Entidades Públicas y en su caso privadas, con el propósito de apoyar las actividades y acciones que involucren Programas de la Comisión en materia de Reservas Territoriales, en su generación, administración, promoción y la gestión, procuración y seguimiento de la regularización de la tenencia de la tierra para la prevención, reordenación y control del crecimiento urbano; así como para incrementar la oferta de tierra para la vivienda especialmente de interés social, popular y económica;
+XVIII.- Celebrar convenios de coordinación con los municipios, el Gobierno del Estado y la Federación, así como con entidades públicas y, en su caso, privadas, con el propósito de apoyar las actividades y acciones que involucren programas de la Comisión en materia de regularización territorial, reservas territoriales, en su generación, administración, promoción y la gestión, procuración y seguimiento de la regularización de la tenencia de la tierra para la prevención, reordenación y control del crecimiento urbano; así como para incrementar la oferta de tierra para la vivienda especialmente de interés social, popular y económica;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+XIX.- Vigilar el puntual cumplimiento de los contratos y convenios en que intervenga, de acuerdo a los lineamientos que establezca su Junta de Gobierno; y, en caso de incumplimiento, promover las acciones correspondientes para obtener la restitución de los inmuebles, según corresponda conforme a la normativa aplicable;
 
-X.- Celebrar con inversionistas los Contratos correspondientes a título oneroso o gratuito para la transferencia de reservas territoriales, de acuerdo al uso de suelo que se apruebe, previa autorización del Congreso del Estado;
+XX.- Apoyar técnicamente a las instancias del Poder Ejecutivo del Estado en lo relacionado a los asuntos de límites territoriales, como vocal ejecutivo de la Comisión de Límites Territoriales del Estado Libre y Soberano de Morelos;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+XXI.- Llevar a cabo acciones para la generación de recursos financieros mediante el apoyo, asesoría y trabajos técnicos, que se otorguen a las instancias del Poder Ejecutivo del Estado, inversionistas y particulares en los asuntos que así le requieran la Comisión;
 
-XI.- Vigilar el cumplimiento de los Contratos de Transferencia de reserva territorial a título gratuito, a través de la donación o comodato, y en caso de incumplimiento, promover las acciones correspondientes para obtener la restitución de los inmuebles materia de esas operaciones;
+XXII.- Establecer una base de información, en coordinación con la Secretaría de Desarrollo Urbano Sustentable y de la Secretaría de Desarrollo Social, ambas del Poder Ejecutivo del Estado, sobre requerimientos de suelo para el desarrollo urbano y vivienda, a fin de apoyar a las Secretarías, Dependencias y Entidades de la Administración Pública Estatal que lo requieran;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2014)</small>
+XXIII.- Integrar los expedientes técnicos y realizar la tramitación del procedimiento expropiatorio ante las instancias competentes, en términos de la normativa aplicable, y
 
-XII.- Apoyar técnicamente a las instancias del Poder Ejecutivo del Estado en lo relacionado a los asuntos de límites territoriales, como vocal ejecutivo de la Comisión de Límites Territoriales del Estado Libre y Soberano de Morelos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2014)</small>
-
-XIII.- Llevar a cabo acciones para la generación de recursos financieros mediante el apoyo, asesoría y trabajos técnicos, que se otorguen a las instancias del Poder Ejecutivo del Estado, inversionistas y particulares en los asuntos que así le requieran la Comisión;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2014)</small>
-
-XIV.- Establecer un banco de información en coordinación con la Subsecretaría de Desarrollo Urbano Sustentable y de la Secretaría de Desarrollo Social del Poder Ejecutivo del Estado, sobre requerimientos de suelo para el desarrollo urbano y vivienda, a fin de apoyar a las Secretarías, Dependencias y Entidades de la Administración Pública Estatal que lo requieran, y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE ABRIL DE 2014)</small>
-
-XV.- Las demás que sean necesarias para el cumplimiento de sus fines.
+XXIV.- Las demás que sean necesarias para el cumplimiento de su objeto.
 
 ### CAPITULO TERCERO. DEL PATRIMONIO
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 5.
 
 El patrimonio de la Comisión se constituirá por:
 
-I.- Recursos que de su presupuesto le asigne el Ejecutivo del Estado;
+I.- Recursos que de su presupuesto le asigne el Poder Ejecutivo del Estado;
 
-II.- Los subsidios, donaciones o aportaciones que reciba de los Gobiernos Federal, Estatal o Municipales y en general de personas físicas o morales, públicas o privadas;
+II.- Los subsidios, donaciones o aportaciones que reciba de los Gobiernos Federal, Estatal o Municipales y, en general, de personas físicas o morales, públicas o privadas;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+III.- Los bienes muebles e inmuebles que adquiera, así como aquellos que el Poder Ejecutivo Estatal le asigne, y los recursos que obtenga por efectuar operaciones mercantiles y financieras, incluyendo los derivados de la emisión de títulos y valores;
 
-III.- Los bienes muebles que adquiera y los bienes muebles e inmuebles que el Ejecutivo le asigne;
+IV.- Los rendimientos e ingresos que obtenga por inversión de sus recursos y eldesarrollo (sic) de sus actividades, así como los productos que perciba de su patrimonio;
 
-IV.- Los rendimientos e ingresos que obtenga por inversión de sus recursos y el desarrollo de sus actividades, así como los productos que perciba de su patrimonio;
+V.- Los fraccionamientos que se convengan, adjudiquen o expropien, y se destinen a los fines de la Comisión, pasarán a formar parte de su patrimonio libres de gravamen fiscal de carácter estatal y previo acuerdo con la autoridad respectiva;
 
-V.- Los fraccionamientos que se convengan, adjudiquen o expropien, y se destinen a los fines de la Comisión, pasarán a formar parte de su patrimonio libres de gravámen fiscal de carácter Estatal y previo acuerdo con la autoridad respectiva;
+VI.- La plusvalía de los inmuebles adquiridos o los rendimientos de los préstamos otorgados, y
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+VII.- Los demás bienes, créditos y derechos que por cualquier título legal obtenga.
 
-VI.- Los demás bienes, créditos y derechos que por cualquier título legal obtenga.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 6.
 
-Los bienes del patrimonio de la Comisión, los ingresos que obtenga en ejercicio de sus atribuciones o contratos, los registros de los contratos, notificaciones o subdivisiones que con ellos se efectúen y en general, todos los actos, contratos, autorizaciones o permisos que se requieran para el cumplimiento de sus objetivos, estarán exentos de impuestos, derechos, aportaciones y en general de contribuciones fiscales Estatales y, previo acuerdo, las de carácter Municipal.
+Los bienes del patrimonio de la Comisión, los ingresos que obtenga en ejercicio de sus atribuciones o los instrumentos jurídicos que celebre, los registros de contratos, notificaciones o subdivisiones que con ellos se efectúen y, en general, todos los actos, convenios, contratos, autorizaciones o permisos que se requieran para el cumplimiento de su objeto, estarán exentos de contribuciones fiscales estatales y, previo acuerdo conforme a la normativa aplicable, de las de carácter municipal.
 
-El Organismo gozará de las prerrogativas y exenciones fiscales previstas en las Leyes Tributarias del Estado, de los subsidios que decrete el Ejecutivo de la Entidad y los que se acuerden con los Municipios.
+Las disposiciones sobre administración, enajenación y aprovechamiento inmobiliario, así como las de gestión financiera a que se refieren la Ley General de Bienes del Estado de Morelos, la Ley de Deuda Pública para el Estado de Morelos y Ley de Contratos de Colaboración Público Privada para el Estado de Morelos, solo le serán aplicables a la Comisión, en los términos y condiciones que establezca su Junta de Gobierno, con sujeción a los mecanismos de control gubernamental, de gestión y rendición de cuentas que establecen las demás normas aplicables.
+
+La Comisión gozará de las prerrogativas y exenciones fiscales previstas en las Leyes de la materia, de los subsidios que decrete el Titular del Poder Ejecutivo de la Entidad y los que se acuerden con los Municipios.
 
 ### CAPITULO CUARTO. DE LOS ORGANOS DE GOBIERNO
 
@@ -205,53 +193,31 @@ I.- La Junta de Gobierno;
 
 II.- La Dirección General.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 8.
 
-El órgano supremo de la Comisión es la Junta de Gobierno y se integrará de la siguiente forma:
+El órgano máximo de la Comisión es la Junta de Gobierno, la que se integra de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+I.- La persona titular del Ejecutivo del Estado quien la presidirá, por sí o por el representante que designe al efecto;
 
-I.- La persona Titular del Ejecutivo del Estado quien la presidirá, o por el representante que designe;
+II.- La persona titular de la Secretaría de Gobierno del Poder Ejecutivo Estatal;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+III.- La persona titular de la Secretaría de Administración del Poder Ejecutivo Estatal;
 
-II.- La persona Titular de la Secretaría de Gobierno a quien se le delegará preferentemente la presidencia de la Junta de Gobierno por el Titular del Poder Ejecutivo del Estado;
+IV.- La persona titular de la Secretaría de Hacienda del Poder Ejecutivo Estatal;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE ABRIL DE 2014)</small>
+V.- La persona titular de la Secretaría de Desarrollo Social del Poder Ejecutivo Estatal;
 
-III.- Un representante de la Secretaría de Hacienda;
+VI.- La persona titular de la Secretaría Desarrollo Sustentable del Poder Ejecutivo Estatal;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+VII.- La persona titular de la Secretaría de Economía del Poder Ejecutivo Estatal;
 
-IV.- Un representante de la Secretaría de Desarrollo Agropecuario;
+VIII.- La persona titular de la Secretaría de Obras Públicas del Poder Ejecutivo Estatal, y
 
-> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2014)</small>
+IX.- La persona titular de la Consejería Jurídica del Poder Ejecutivo Estatal.
 
-V.- Un representante de la Secretaría de Desarrollo Social;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
-
-VI.- Un representante de la Secretaría Desarrollo Sustentable;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
-
-VII.- Un representante de la Secretaría de Economía;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
-
-VIII.- Un representante de la Secretaría de Obras Públicas;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2014)</small>
-
-IX.- Un representante de la Secretaría de Administración, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2014)</small>
-
-X.- Un representante de la Consejería Jurídica.
-
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2014)</small>
-
-En caso de que el representante que designe el Gobernador del Estado para fungir como Presidente de la Junta de Gobierno, sea uno de sus propios integrantes en términos del presente artículo; dicho integrante deberá designar a su vez a un representante que lo supla, a fin de evitar la concentración de votos en una sola persona en la toma de decisiones.
+En caso de que el representante que designe el Gobernador del Estado para fungir como Presidente de la Junta de Gobierno, sea uno de sus propios integrantes en términos del presente artículo; dicho integrante deberá designar, a su vez, a un representante, a fin de evitar la concentración de votos en una sola persona en la toma de decisiones; el representante del Titular del Poder Ejecutivo Estatal podrá delegar a su vez la facultad conferida
 
 ###### ARTICULO 9.
 
@@ -263,9 +229,9 @@ La Junta de Gobierno tendrá las atribuciones siguientes:
 
 I.- Definir las políticas, objetivos, estrategias y acciones para orientar el trabajo de la Comisión, de conformidad con sus finalidades;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
-II.- Aprobar los programas y presupuestos de la Comisión, y sus modificaciones conforme a las disposiciones legales y acuerdo de la Secretaría de Gobierno;
+II.- Aprobar los programas y presupuestos de la Comisión y sus modificaciones, conforme a las disposiciones jurídicas aplicables y previo acuerdo con la Secretaría cabeza del sector, así como aprobar las normas y lineamientos relativos a la administración, enajenación y aprovechamiento inmobiliario, además de las de gestión financiera que rijan a la Comisión, donde se asegure la transparencia legalidad, imparcialidad, eficiencia, eficacia, veracidad, buena fe y honradez de sus actos y actividades;
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2014)</small>
 
@@ -504,3 +470,17 @@ SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 TERCERO.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
 
 CUARTO.- Realícense las adecuaciones correspondientes al Estatuto Orgánico de la Comisión Estatal de Reservas Territoriales, así como de las demás disposiciones internas, en los términos del presente Decreto en un plazo de noventa días.
+
+P.O. 16 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS CUATRO POR EL QUE SE REFORMAN DISTINTAS DISPOSICIONES DEL DIVERSO NÚMERO CIENTO NOVENTA Y UNO QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE RESERVAS TERRITORIALES".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. Dentro del plazo de noventa días hábiles contados a partir del día siguiente de la publicación de este Decreto, de conformidad con lo dispuesto por los artículos 47 y 50 de la Ley Orgánica de la Administración Pública del Estado de Morelos, el Titular del Poder Ejecutivo deberá expedir el Acuerdo por el que establezca la Secretaría o Dependencia del Poder Ejecutivo a la cual quedará sectorizada la Comisión Estatal de Reservas Territoriales.
+
+QUINTA. Dentro del plazo a que se refiere la disposición transitoria anterior, el Titular del Poder Ejecutivo, mediante Decreto, podrá designar y aportar a favor de la Comisión Estatal de Reservas Territoriales, los bienes inmuebles del patrimonio del Estado que sean susceptibles de aprovechamiento para el cumplimiento de su objeto y funciones. El ejercicio de esta facultad deberá ser informado dentro de la cuenta pública inmediata posterior que se presente al Poder Legislativo.
