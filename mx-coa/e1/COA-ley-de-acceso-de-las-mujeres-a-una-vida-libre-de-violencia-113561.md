@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2017-01-17"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
 
@@ -761,11 +761,13 @@ VIII. Secretaría del Trabajo;
 
 IX. Secretaría de Desarrollo Económico, Competitividad y Turismo;
 
-X. Secretara de Infraestructura;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+X. Secretaría de Infraestructura y Transporte;
 
 XI. Secretaría de Medio Ambiente;
 
-XII. Secretaría de Gestión Urbana, Aguas y ordenamiento Territorial;
+XII. (DEROGADA, P.O. 17 DE MARZO DE 2017)
 
 XIII. Secretaría de Cultura;
 
@@ -1793,11 +1795,11 @@ SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 
 P.O. 27 DE SEPTIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 535.- SE REFORMA LA FRACCIÓN VII Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 14 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 535.- SE REFORMA LA FRACCIÓN VII Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 14 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Gobierno del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1838,3 +1840,15 @@ El presente Decreto entrará en vigor al día siguiente de su Publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO (SIC) DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
