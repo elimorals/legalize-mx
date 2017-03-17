@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-3494"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-31"
-last_updated: "2012-05-08"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 31 de agosto de 1993.
 
@@ -39,11 +39,11 @@ LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMISION ESTATAL D
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTICULO PRIMERO.
 
-Se crea el Organismo Público Descentralizado "Comisión Estatal de Aguas y Saneamiento de Coahuila", con personalidad jurídica y patrimonio propios, que en lo sucesivo se denominará "El Organismo", con domicilio en la ciudad de Saltillo, Coahuila, sin perjuicio de que pueda establecer en otras poblaciones del Estado las delegaciones y oficinas que estime necesarias para la realización de sus actividades, y que estará sectorizado a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial.
+Se crea el Organismo Público Descentralizado "Comisión Estatal de Aguas y Saneamiento de Coahuila", con personalidad jurídica y patrimonio propios, que en lo sucesivo se denominará "El Organismo", con domicilio en la ciudad de Saltillo, Coahuila de Zaragoza, sin perjuicio de que pueda establecer en otras poblaciones del Estado las delegaciones y oficinas que estime necesarias para la realización de sus actividades, y que estará sectorizado a la Secretaría de Medio Ambiente.
 
 El Gobierno del Estado asignará al organismo el presupuesto suficiente para su operación.
 
@@ -111,29 +111,29 @@ La dirección y administración del Organismo estarán a cargo de un Consejo Dir
 
 El Consejo Directivo será el órgano superior de Gobierno de la Comisión y se integrará de la siguiente manera:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE MAYO DE 2012)</small>
+I.- (DEROGADA, P.O. 17 DE MARZO DE 2017)
 
-I.- Un Presidente Honorario, que será el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
+II.- Un Presidente que será la persona titular de la Secretaría de Medio Ambiente;
 
-II.- Un Presidente Ejecutivo que será el Secretario de Gestión Urbana, Agua y Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
+III.- Cuatro vocales, que serán las personas titulares de la:
 
-III.- Cuatro vocales, que serán:
+a) Secretaría de Finanzas;
 
-a) El Secretario de Finanzas;
+b) Secretaría de Desarrollo Económico, Competitividad y Turismo;
 
-b) El Secretario de Desarrollo Económico;
+c) Secretaría de Infraestructura y Transporte; y
 
-c) El Secretario de Infraestructura, y
-
-d) El Secretario de Salud.
+d) Secretaría de Salud.
 
 Cada uno de los miembros del Consejo designará a un suplente.
 
-El Consejo contará con un Secretario, que será designado por el Consejo mismo, a propuesta de su Presidente.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+El Consejo contará con una Secretaría Técnica, que será ocupada por quien sea titular de la Dirección General.
 
 ###### ARTICULO SEPTIMO.
 
@@ -173,27 +173,35 @@ El Consejo Directivo celebrará, por lo menos, una sesión trimestralmente, de p
 
 Las votaciones del Consejo Directivo se tomarán por mayoría de votos de los miembros presentes. En caso de empate el Presidente tendrá voto de calidad.
 
-###### ARTICULO DECIMO.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
-Las actas de las sesiones del Consejo Directivo las levantará el Secretario y se consignarán en un libro especialmente destinado para ese objeto, el cual deberá conservar el propio Secretario del Consejo.
+###### ARTICULO DÉCIMO.
+
+Las actas de las sesiones del Consejo Directivo las levantará quien ocupe la Secretaría Técnica y se consignarán en un libro especialmente destinado para ese objeto, el cual deberá conservar.
 
 ###### ARTICULO DECIMO PRIMERO.
 
 El Presidente del Consejo tendrá las atribuciones siguientes:
 
-I.- Convocar, a través del Secretario del Consejo, a los miembros del mismo, al Director General y al Comisario a las sesiones que se desarrollarán conforme al Orden del Día que para ese efecto se elabore;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+I.- Convocar, a través de la Secretaría Técnica del Consejo, a los miembros del mismo y a quienes sean titulares de la Dirección General y de la Comisaría a las sesiones que se desarrollarán conforme al Orden del Día que para ese efecto se elabore;
 
 II.- Dirigir las sesiones del Consejo y declarar resueltos los asuntos en el sentido de las votaciones;
 
 III.- Resolver, bajo su más estricta responsabilidad, aquellos asuntos de los que deba conocer el Consejo Directivo, que obedezcan a caso fortuito o fuerza mayor y no admitan demora debido a que sus consecuencias sean irreparables. En estos casos, deberá el Consejo Directivo reunirse cuanto antes, para adoptar las medidas procedentes;
 
-IV.- Autorizar, en unión del Secretario, las actas que se levanten de las sesiones que celebre el Consejo; y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+IV.- Autorizar, en unión de la persona que ocupe la Secretaría Técnica, las actas que se levanten de las sesiones que celebre el Consejo; y
 
 V.- En general, realizar todos aquellos actos que fuesen necesarios para el mejor funcionamiento del Consejo y del Organismo, así como aquellos que emanen de otras leyes y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTICULO DECIMO SEGUNDO.
 
-El Secretario del Consejo tendrá las facultades siguientes:
+La persona que ocupe la Secretaría Técnica del Consejo tendrá las facultades siguientes:
 
 I.- Comunicar a los Consejeros y al Director General las convocatorias para las sesiones que llevará a cabo el Consejo Directivo;
 
@@ -237,9 +245,11 @@ Para los efectos del presente Artículo, el Ejecutivo Estatal invitará a las de
 
 Las funciones y atribuciones del Consejo Técnico, se sustentarán en la asesoría técnica que el Consejo Directivo le requiera, sin que las propuestas, opiniones o dictámenes que emita, obliguen a los órganos responsables de la Dirección o Administración del Organismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTICULO DECIMO SEXTO.
 
-El Ejecutivo del Estado designará y removerá libremente a un Comisario, que tendrá las atribuciones siguientes:
+Quien sea titular de la Secretaría de Fiscalización y Rendición de Cuentas designará a un Comisario o Comisaria, que tendrá las atribuciones siguientes:
 
 I.- Vigilar que la administración de los recursos se haga de acuerdo con lo que disponga la ley, los programas y presupuestos aprobados;
 
@@ -253,11 +263,21 @@ V.- Hacer que se inserten en el orden del Día de las sesiones del Consejo Direc
 
 VI.- Solicitar que se convoque a sesiones del Consejo Directivo en los casos en que lo juzgue pertinente;
 
-VII.- Asistir con voz pero sin voto a todas las sesiones del Consejo Directivo; y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-VIII.- Vigilar ilimitadamente en cualquier tiempo las operaciones del Organismo.
+VII.- Asistir con voz pero sin voto a todas las sesiones del Consejo Directivo;
 
-El Comisario para el debido cumplimiento de sus atribuciones se podrá auxiliar del personal técnico que requiera.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+VIII.- Vigilar ilimitadamente en cualquier tiempo las operaciones del Organismo, y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
+
+IX.- Las demás que le otorgue otras leyes, reglamentos y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+El Comisario o Comisaría para el debido cumplimiento de sus atribuciones se podrá auxiliar del personal técnico que requiera.
 
 ### CAPITULO QUINTO. RELACIONES DE TRABAJO
 
@@ -382,3 +402,15 @@ Las facultades y obligaciones a que se refiere este decreto, que en otras leyes,
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA: DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO (SIC) DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
