@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-honor-y-justicia-de-la-secretaria-de-74426"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-30"
-last_updated: "2013-09-13"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE HONOR Y JUSTICIA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 30 de marzo de 2010.
 
@@ -35,7 +35,7 @@ Por lo anteriormente expuesto y con fundamento en las disposiciones legales prev
 
 DECRETO GUBERNATIVO NÚMERO 137
 
-Artículo Único. Se expide el Reglamento de Honor y Justicia .de la Secretaria de Seguridad Pública, para quedar como sigue:
+Artículo Único. Se expide el Reglamento de Honor y Justicia de la Secretaria de Seguridad Pública, para quedar como sigue:
 
 REGLAMENTO DE HONOR Y JUSTICIA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
@@ -579,7 +579,9 @@ El cese es la separación definitiva del cargo, sin perjuicio de las sanciones p
 
 En el caso del cese, el integrante de la institución policial será separado de su cargo sin que proceda su reinstalación o restitución, independientemente de cualquier medio de impugnación que interponga y, en su caso, sólo se le deberá pagar una indemnización.
 
-La indemnización a que se refiere el párrafo anterior, consistirá en el pago de las prestaciones que le correspondan al momento de la terminación del servicio y que le permanezcan vigentes al tiempo de su reclamo, así como a una única indemnización de tres meses conforme a la última remuneración base diaria percibida, salvo que ésta excediera del triple del salario mínimo general vigente en el Estado, en cuyo caso será ésta la cantidad que se tome como base diaria para la cuantificación de dicha indemnización. En ningún caso procederá el pago de salarios caídos.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+La indemnización a que se refiere el párrafo anterior, consistirá en el pago de las prestaciones que le correspondan al momento de la terminación del servicio y que le permanezcan vigentes al tiempo de su reclamo, así como a una única indemnización de tres meses conforme a la última remuneración base diaria percibida, salvo que ésta excediera del triple del salario mínimo general, en cuyo caso será ésta la cantidad que se tome como base diaria para la cuantificación de dicha indemnización. En ningún caso procederá el pago de salarios caídos.
 
 Restricción a la imposición de las sanciones
 
@@ -935,7 +937,7 @@ II. Otorgamiento de diploma y un día de descanso, a quienes no registren faltas
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
-III. Elemento del año, consistente en una0 medalla, remuneración económica de acuerdo al presupuesto autorizado de la Secretaría y diploma que lleve el escudo de la corporación a la que pertenecen, así como las palabras "Elemento del Año". Se entregará al personal de la corporación que logre destacar por su dedicación y constancia en el trabajo y que haya tenido logros relevantes a juicio del Consejo; y
+III. Elemento del año, consistente en una medalla, remuneración económica de acuerdo al presupuesto autorizado de la Secretaría y diploma que lleve el escudo de la corporación a la que pertenecen, así como las palabras "Elemento del Año". Se entregará al personal de la corporación que logre destacar por su dedicación y constancia en el trabajo y que haya tenido logros relevantes a juicio del Consejo; y
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1028,3 +1030,9 @@ P.O. 13 DE SEPTIEMBRE DE 2013.
 Inicio de vigencia del Decreto
 
 Artículo Único. El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 184, MEDIANTE EL CUAL, SE REALIZA LA MODIFICACIÓN MÚLTIPLE, A FIN DE ADECUAR LA REFERENCIA QUE EN REGLAMENTOS Y DECRETOS SE HACE AL SALARIO MÍNIMO, PARA REFERENCIARLO A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
