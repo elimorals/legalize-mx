@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2017-01-27"
+last_updated: "2017-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -151,9 +151,9 @@ XXVI.- Reservas: las áreas de un centro de población previstas para ser utiliz
 
 XXVII.- Restauración: el conjunto de operaciones y acciones tendientes a reparar un bien cultural o mantener un sitio o monumento histórico o artístico en estado de servicio, conforme a sus características históricas, constructivas y estéticas;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-XXVIII.- Secretaría: la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial;
+XXVIII.- Secretaría: Secretaría de Medio Ambiente;
 
 XXIX.- Servicios urbanos: las actividades operativas públicas, prestadas directamente por la autoridad competente o concesionadas, para satisfacer necesidades colectivas en los centros de población;
 
@@ -3586,3 +3586,15 @@ Las disposiciones de este Decreto no serán aplicadas de manera retroactiva a la
 ###### ARTÍCULO TERCERO.
 
 Los Municipios deberán adecuar su reglamentación a los términos del presente Decreto.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
