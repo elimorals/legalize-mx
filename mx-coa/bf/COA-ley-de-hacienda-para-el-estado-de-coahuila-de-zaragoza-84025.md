@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2016-12-23"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -1439,7 +1439,7 @@ Cuando el establecimiento cuente con licencia y habiendo presentado aviso de sus
 
 ### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015, EL ARTÍCULO 127 MUESTRA UNA ACTUALIZACIÓN.]</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE MARZO DE 2017)</small>
 
 #### SECCION CUARTA. POR SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO A TRAVES DEL ORGANISMO DESCONCENTRADO DENOMINADO "PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO"
 
@@ -1601,6 +1601,8 @@ IV. Por constancias del padrón vehicular, $40.00 (CUARENTA PESOS 00/100), por l
 
 El pago de los derechos a que se refiere esta Sección deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE MARZO DE 2017)</small>
+
 #### SECCION TERCERA. POR LOS SERVICIOS DE CONTROL VEHICULAR
 
 > <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
@@ -1641,37 +1643,107 @@ El pago de estos derechos deberá efectuarse en las casetas de cobro instaladas 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE GESTION URBANA, AGUA Y ORDENAMIENTO TERRITORIAL
+### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE INFRAESTRUCTURA Y TRANSPORTE
 
-###### ARTICULO 127.
+###### ARTÍCULO 127.
 
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2015)
+Los servicios que prestan la Comisión Estatal de Vivienda y la Comisión Estatal para la Regularización de la Tendencia (sic) de la Tierra Urbana y Rústica de Coahuila, causarán derechos conforme a la siguiente:
+
+TARIFA
+
+I. Por los servicios que otorga la Comisión Estatal de Vivienda y Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica de Coahuila.
+
+A. Regularización de la Tenencia de la Tierra:
+
+1. Por la elaboración de escritura privada de predio o lote urbano se pagarán $670.00 (SEISCIENTOS SETENTA PESOS 00/100 M.N.) por escritura;
+
+2. Por la verificación de medidas de predios o lotes se pagarán $114.00 (CIENTO CATORCE PESOS 00/100 M.N.) por cada inmueble a verificar;
+
+3. Por la elaboración de plano manzanero se pagarán $56.00 (CINCUENTA Y SEIS PESOS 00/100 M.N.) por plano que comprenda un lote;
+
+4. Por la validación de cesión de derechos se pagarán $272.00 (DOSCIENTOS SETENTA Y DOS PESOS 00/100 M.N.) por predio o lote que ampare la cesión;
+
+5. Por la constancia para trámite de predial se pagarán $56.00 (CINCUENTA Y SEIS PESOS 00/100 M.N.);
+
+6. Por la cancelación de escritura en proceso, a petición de parte, se pagarán $670.00 (SEISCIENTOS SETENTA PESOS 00/100 M.N.);
+
+7. Por escrituras privadas del Programa de Predios Rústicos para el Municipio de Saltillo:
+
+a. Predios/lotes de hasta 500 metros pagarán $3,970.00 (TRES MIL NOVECIENTOS SETENTA PESOS 00/100 M.N.);
+
+b. Predios/lotes de más de 501 metros a 10 hectáreas, pagarán $5,672.00 (CINCO MIL SEISCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+
+c. Predios/lotes de 10-00-01 hectáreas a 20 hectáreas, pagarán $7,942.00 (SIETE MIL NOVECIENTOS CUARENTA Y DOS PESOS 00/100 M.N.);
+
+d. Predios/lotes de 20-00-01 hectáreas a 30 hectáreas, pagarán $11,345.00 (ONCE MIL TRESCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.);
+
+8. Por escrituras privadas del Programa de Predios Rústicos para el resto del Estado:
+
+a. Predios/lotes con superficie hasta de 300 metros, pagarán $1,702.00 (MIL SETECIENTOS DOS PESOS 00/100 M.N.);
+
+b. Predios/lotes con superficie de 301 metros hasta 10 hectáreas, pagarán $3,970.00 (TRES MIL NOVECIENTOS SETENTA PESOS 00/100 M.N.);
+
+c. Predios/lotes con superficie mayor de 10-00-01 hectáreas hasta 20 hectáreas, pagarán $5,672.00 (CINCO MIL SEISCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+
+d. Predios/lotes con superficie mayor de 20-00-01 hectáreas hasta 40 hectáreas, pagarán $9,076.00 (NUEVE MIL SETENTA Y SEIS PESOS 00/100 M.N.);
+
+B. En materia inmobiliaria y de vivienda popular.
+
+1. Por la expedición del documento que contiene la información del predio y la constancia de pago del mismo denominada carta de liberación:
+
+a. Que correspondan a las colonias Jardines del Lago, Saltillo 400, Fundadores IV Sector y Asturias de Saltillo, Coahuila de Zaragoza, se pagarán $1,588.00 (MIL QUINIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.);
+
+b. Que correspondan a las colonias Fundadores III Sector en Saltillo, colonia Latinoamericano en Torreón y la colonia Elsa Hernández en Monclova, Coahuila de Zaragoza, se pagarán $793.00 (SETECIENTOS NOVENTA Y TRES PESOS 00/100 M.N.);
+
+c. Que correspondan a fraccionamientos distintos a los señalados en los dos apartados anteriores en todo el territorio del Estado, se pagarán $226.00 (DOSCIENTOS VEINTISÉIS PESOS 00/100 M.N.);
+
+2. Por la expedición de una carta de liberación actualizada que sustituye a la expedida en otra época, se pagarán $226.00 (DOSCIENTOS VEINTISEIS PESOS 00/100 M.N.);
+
+3. Por la expedición del documento en el que se contiene la información del predio y la constancia de pago del mismo, pero que es propiedad de algún Municipio del Estado, se expide la denominada carta de no adeudo, se pagarán $226.00 (DOSCIENTOS VEINTISÉIS PESOS 00/100 M.N.);
+
+4. Por la expedición del croquis de ubicación de un predio, necesario para el trámite de número oficial ante los Municipios del Estado, se pagarán $114.00 (CIENTO CATORCE PESOS 00/100 M.N.);
+
+5. Por la elaboración del documento que contiene la manifestación de voluntad del propietario de un predio de ceder sus derechos como titular a favor de un tercero, documento denominado cesión de derechos:
+
+Cuando se trata de la cesión del primer titular del predio a un tercero, el costo será de $793.00 (SETECIENTOS NOVENTA Y TRES PESOS 00/100 M.N.);
+
+Cuando se trata de la cesión del segundo titular en adelante del predio a un tercero, el costo será de $5,672.00 (CINCO MIL SEISCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+
+6. Por la certificación de la documentación que obra en el expediente de la dependencia, correspondiente a la titularidad de una persona respecto a un predio y de la cual el titular no tiene constancia, denominada regularización de expediente, el costo será de $567.00 (QUINIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2017)</small>
+
+SUJETO
 
 ###### ARTICULO 128.
 
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2015)
+Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios mencionados en el artículo anterior.
 
-###### ARTICULO 129.
+Son solidariamente responsables del pago de este derecho los constructores y contratistas que realicen obras relativas al objeto de este derecho.
 
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2015)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2017)</small>
+
+PAGO
+
+###### ARTÍCULO 129.
+
+El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2017)</small>
+
+EXENCIONES
 
 ### CAPITULO QUINTO-BIS. POR SERVICIOS DE LA SECRETARIA DE INFRAESTRUCTURA
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+###### ARTÍCULO 130.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+Quedan exentos del pago de derechos a que se refiere el artículo 127 de la presente Ley, los predios sujetos a regularización y/o escrituración que por Decreto legislativo así lo determinen.
 
-###### ARTICULO 130.
-
-(DEROGADO, P.O. 22 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 131.
 
-Los servicios que presta la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, relativos a control vehicular causarán derechos conforme a la siguiente:
+Los servicios prestados por la Secretaría de Infraestructura y Transporte, causarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -1771,83 +1843,59 @@ En los supuestos del párrafo anterior, si es necesario, la autoridad fiscal pod
 
 Si antes de que se agote el procedimiento económico-coactivo, el contribuyente cumple con el pago de los derechos a que se refiere esta Sección y los recargos correspondientes o conviene con las autoridades fiscales el cumplimiento de su adeudo, se levantará el embargo en que se hubiere practicado sobre su vehículo.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 138-A.
 
-Los servicios que presta la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, causarán derechos conforme a la siguiente:
+Los servicios que presta la Secretaría de Infraestructura y Transporte, causarán los derechos siguientes:
 
-TARIFA
+I. Por la expedición del permiso para la instalación de anuncios publicitarios y señalamientos informativos dentro o fuera del derecho de vía de las carreteras y caminos locales, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
 
-I. Por los servicios que otorga la Comisión Estatal de la Vivienda.
+1. Anuncios publicitarios que tienen una superficie total hasta de 25 metros cuadrados: 50 veces el valor diario de la Unidad de Medida y Actualización.
 
-A. Unidad Administrativa de la Regularización de la Tenencia de la Tierra:
+2. Anuncios publicitarios que tienen una superficie total hasta de 50 metros cuadrados: 60 veces el valor diario de la Unidad de Medida y Actualización.
 
-1. Por la elaboración de escritura privada de predio o lote urbano se pagarán $670.00 (SEISCIENTOS SETENTA PESOS 00/100 M.N.) por escritura;
+3. Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados: 120 veces el valor diario de la Unidad de Medida y Actualización.
 
-2. Por la verificación de medidas de predios o lotes se pagarán $114.00 (CIENTO CATORCE PESOS 00/100 M.N.) por cada inmueble a verificar;
+4. Señales informativas: 50 veces el valor diario de la Unidad de Medida y Actualización.
 
-3. Por la elaboración de plano manzanero se pagarán $56.00 (CINCUENTA Y SEIS PESOS 00/100 M.N.) por plano que comprenda un lote;
+II. Por el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y carreteras estatales, se pagarán derechos conforme a las siguientes cuotas:
 
-4. Por la validación de cesión de derechos se pagarán $272.00 (DOSCIENTOS SETENTA Y DOS PESOS 00/100 M.N.) por predio o lote que ampare la cesión.
+1. Para obra e instalaciones superficiales, subterráneas o aéreas marginales dentro del derecho de vía, por cada 100 metros o fracción que exceda de dicha longitud: 60 veces el valor diario de la Unidad de Medida y Actualización.
 
-5. Por la constancia para trámite de predial se pagarán $56.00 (CINCUENTA Y SEIS PESOS 00/100 M.N.);
+2. Por la autorización para la construcción de accesos que afecten el derecho de vía en caminos y carreteras, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
 
-6. Por la cancelación de escritura en proceso, a petición de parte, se pagarán $670.00 (SEISCIENTOS SETENTA PESOS 00/100 M.N.);
+3. Por el otorgamiento de permiso anual para la instalación y/o operación de paradores 2% sobre el costo total de la obra.
 
-7. Por escrituras privadas del Programa de Predios Rústicos para el Municipio de Saltillo:
+4. Para obras de cruzamiento superficiales, subterráneas o aéreas dentro del derecho de vía, por cada 100 metros o fracción que exceda dicha longitud: 100 veces el valor diario de la Unidad de Medida y Actualización.
 
-a. Predios/lotes de hasta 500 metros pagarán $3,970.00 (TRES MIL NOVECIENTOS SETENTA PESOS 00/100 M.N.);
+5. Por el otorgamiento de permiso para la construcción, instalación o adaptación de cualquier tipo de elemento de equipamiento dentro del derecho de vía: 2% sobre el costo total de la obra.
 
-b. Predios/lotes de más de 501 metros a 10 hectáreas, pagarán $5,672.00 (CINCO MIL SEISCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+6. Por el otorgamiento de permiso anual para la instalación de cualquier tipo de dispositivo para el control de tránsito dentro del derecho de vía: 25 veces el valor diario de la Unidad de Medida y Actualización.
 
-c. Predios/lotes de 10-00-01 hectáreas a 20 hectáreas, pagarán $7,942.00 (SIETE MIL NOVECIENTOS CUARENTA Y DOS PESOS 00/100 M.N.);
+7. Por el otorgamiento de permiso para el remozamiento, pintura, rotulación, reparación, conservación y mantenimiento de cualquier tipo de obra; elemento de equipamiento, mobiliario o dispositivos para el control de tránsito que se encuentren dentro del derecho de vía: 1% del valor de la obra.
 
-d. Predios/lotes de 20-00-01 hectáreas a 30 hectáreas, pagarán $11,345.00 (ONCE MIL TRESCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.);
+8. Por el otorgamiento de permiso anual para la explotación y/o operación de bancos de material en el derecho de vía o zonas laterales: 50 veces el valor diario de la Unidad de Medida y Actualización.
 
-8. Por escrituras privadas del Programa de Predios Rústicos para el resto del Estado:
+9. Por el otorgamiento de permiso para la instalación de cercas o barreras laterales en sus diversas modalidades que se ubiquen en el derecho de vía: 2% del valor total de la obra.
 
-a. Predios/lotes con superficie hasta de 300 metros, pagarán $1,702.00 (MIL SETECIENTOS DOS PESOS 00/100 M.N.);
+10. Por el otorgamiento de permiso para la conservación, rehabilitación, reconstrucción, pavimentación o ampliación de caminos estatales: 1% del valor total de la obra.
 
-b. Predios/lotes con superficie de 301 metros hasta 10 hectáreas, pagarán $3,970.00 (TRES MIL NOVECIENTOS SETENTA PESOS 00/100 M.N.);
+11. Por el otorgamiento de permiso para la construcción de puentes peatonales dentro del derecho de vía: 2% del costo total de la obra.
 
-c. Predios/lotes con superficie mayor de 10-00-01 hectáreas hasta 20 hectáreas, pagarán $5,672.00 (CINCO MIL SEISCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+12. Por el otorgamiento de permiso para la construcción de puentes vehiculares dentro del derecho de vía: 1% del costo total de la obra.
 
-d. Predios/lotes con superficie mayor de 20-00-01 hectáreas hasta 40 hectáreas, pagarán $9,076.00 (NUEVE MIL SETENTA Y SEIS PESOS 00/100 M.N.);
+III. Certificaciones, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
 
-B. Unidad Administrativa en materia inmobiliaria y de vivienda popular.
+IV. Expedición de copia simple, $5.00 (CINCO PESOS 00/100 M.N.), por hoja;
 
-1. Por la expedición del documento que contiene la información del predio y la constancia de pago del mismo denominada carta de liberación:
-
-a. Que correspondan a las colonias Jardines del Lago, Saltillo 400, Fundadores IV Sector y Asturias de Saltillo, Coahuila de Zaragoza, se pagarán $1,588.00 (MIL QUINIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.);
-
-b. Que correspondan a las colonias Fundadores III Sector en Saltillo, colonia Latinoamericano en Torreón y la colonia Elsa Hernández en Monclova, Coahuila de Zaragoza, se pagarán $793.00 (SETECIENTOS NOVENTA Y TRES PESOS 00/100 M.N.);
-
-c. Que correspondan a fraccionamientos distintos a los señalados en los dos apartados anteriores en todo el territorio del Estado, se pagarán $226.00 (DOSCIENTOS VEINTISÉIS PESOS 00/100 M.N.);
-
-2. Por la expedición de una carta de liberación actualizada que sustituye a la expedida en otra época, se pagarán $226.00 (DOSCIENTOS VEINTISEIS PESOS 00/100 M.N.);
-
-3. Por la expedición del documento en el que se contiene la información del predio y la constancia de pago del mismo, pero que es propiedad de algún Municipio del Estado, se expide la denominada carta de no adeudo, se pagarán $226.00 (DOSCIENTOS VEINTISÉIS PESOS 00/100 M.N.);
-
-4. Por la expedición del croquis de ubicación de un predio, necesario para el trámite de número oficial ante los Municipios del Estado, se pagarán $114.00 (CIENTO CATORCE PESOS 00/100 M.N.);
-
-5. Por la elaboración del documento que contiene la manifestación de voluntad del propietario de un predio de ceder sus derechos como titular a favor de un tercero, documento denominado cesión de derechos:
-
-Cuando se trata de la cesión del primer titular del predio a un tercero, el costo será de $793.00 (SETECIENTOS NOVENTA Y TRES PESOS 00/100 M.N.);
-
-Cuando se trata de la cesión del segundo titular en adelante del predio a un tercero, el costo será de $5,672.00 (CINCO MIL SEISCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
-
-6. Por la certificación de la documentación que obra en el expediente de la dependencia, correspondiente a la titularidad de una persona respecto a un predio y de la cual el titular no tiene constancia, denominada regularización de expediente, el costo será de $567.00 (QUINIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 SUJETO
 
-###### ARTICULO 138-B.
+###### ARTÍCULO 138-B.
 
-Son sujeto de este derecho, las personas físicas o morales que soliciten los servicios mencionados en el artículo anterior.
-
-Son solidariamente responsables del pago de este derecho los constructores y contratistas que realicen obras relativas al objeto de este derecho.
+Son sujeto de este derecho, las personas que soliciten los servicios que se establecen en el artículo que antecede.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
@@ -1857,147 +1905,27 @@ PAGO
 
 El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
 ###### ARTICULO 138-D.
 
-Quedan exentos del pago de derechos a que se refiere el artículo 127 de la presente Ley, los predios sujetos a regularización y/o escrituración que por Decreto legislativo así lo determinen.
+(DEROGADO, P.O. 17 DE MARZO DE 2017)
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 138-E.
 
-Son objeto de estos Derechos, los Servicios Catastrales que presta el Instituto Coahuilense del Catastro y Información Territorial, por concepto de:
-
-I.- Registros catastrales:
-
-1.- Revisión, cálculo y registro sobre planos de fraccionamientos y lotificaciones, incluyendo los fideicomisos de administración.
-
-a).- Urbano en general $0.44 (44/100 M.N.) por M2 vendible
-
-b).- Urbanos, viviendas populares $0.22 (22/100 M.N.) por M2 vendible
-
-c).- Campestre e industriales $0.29 (29/100 M.N.) por M2 vendible
-
-2.- Revisión, cálculo y registro sobre planos de predios
-
-a).- Urbanos sobre el valor catastral el 1.5 al millar
-
-b).- Rústicos, sobre el valor catastral el 1.5 al millar
-
-II.- Certificados catastrales
-
-1.- La certificación de valores catastrales, de superficies catastrales, de nombre de propietario, poseedor o de detentador de un predio, de colindancia y dimensiones, de inexistencias de registro a nombre del solicitante y en general del manifestado datos de las que figuran en los archivos del departamento $67.00 (SESENTA Y SIETE PESOS 00/100 MN.), por cada uno.
-
-2.- Certificación de planos de predios urbanos y rústicos de los que coinciden con la información cartográfica catastral; para el trámite de adquisición de inmuebles $133.00 (CIENTO TREINTA Y TRES 00/100 M.N) por cada uno.
-
-3.- Expedición de cédula inmobiliaria catastral para escrituración de inmuebles urbanos de interés social $222.00 (DOSCIENTOS VEINTIDÓS PESOS 00/100 M.N.) por cada una.
-
-4.- Expedición de cédula inmobiliaria catastral para escrituración de inmuebles urbano y rústico $296.00 (DOSCIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.) cada una.
-
-III.- Servicios de inspección de campo:
-
-1.- Verificación de información $133.00 (CIENTO TREINTA Y TRES PESOS 00/100 M.N.
-
-2.- La visita al predio $2.22 (DOS PESOS 22/100 M.N.) por M2
-
-IV.- Servicios topográficos
-
-1.- Deslinde de predios urbanos $2.96 (DOS PESOS 96/100 M.N.) por M2
-
-2.- Deslinde de predios en breña $0.37 (37/100 M.N.) por M2
-
-3.- Deslinde de predios rústicos
-
-a).- Terrenos planos desmontados $30.00 (TREINTA PESOS 00/100 M.N.) por hectárea
-
-b).- Terrenos planos con monte $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N. por hectárea
-
-c).- Terrenos con accidentes topográficos con monte $89.00 (OCHENTA Y NUEVE PESOS 00/100 M.N.) por hectárea
-
-d).- Terrenos con accidentes topográficos desmontados $67.00 (SESENTA Y SIETE PESOS 00/100 M.N.) por hectárea
-
-e).- Terrenos accidentados $148.00 (CIENTO CUARENTA Y OCHO PESOS 00/100 M.N.) por hectárea
-
-4.- Para los dos incisos anteriores, cualquiera que sea la superficie del predio, el importe de los derechos no podrá ser inferior a $665.00 (SEISCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.)
-
-V.- Servicios fotogramétricos consistentes en:
-
-1.- Copia de la información existente en los archivos digitales
-
-a).- Fotografía aérea, copias de contacto de 23 x 23 cms. $355.00 (TRESCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.) cada una.
-
-b).- Coordenadas de puntos de control orientados con el Sistema Global de Posicionamiento $1,921.00 (UN MIL NOVECIENTOS VEINTIÚN PESOS 00/100 M.N.) cada una.
-
-c).- Restitución fotogramétrica escala 1:5000 con curva de nivel cada 5 mts., $3,547.00 (TRES MIL QUINIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.) Km2.
-
-VI.- Servicios de dibujo
-
-1.- Dibujo de planos urbanos, escalas hasta de 1:500
-
-a).- Tamaño del plano hasta 30 x 30 cms., $48.00 (CUARENTA Y OCHO PESOS 00/100 M.N.).
-
-b).- Sobre el excedente del tamaño anterior por decímetro cuadrado o fracción $9.00 (NUEVE PESOS 00/100 M.N.).
-
-2.- Dibujo de planos topográficos suburbanos y rústicos, escala mayor a 1:500 y tamaño del plano hasta 50 x 50 cms.
-
-a).- Polígono de hasta seis vértices $148.00 (CIENTO CUARENTA Y OCHO PESOS 00/100 M.N.)
-
-b).- Por cada vértice adicional $9.00 (NUEVE PESOS 00/100 M.N.)
-
-c).- Planos que exceden de 50 x 50 cms. Sobre los dos incisos anteriores, causarán derechos por cada decímetro cuadrado adicional o fracción $16.00 (DIECISÉIS PESOS 00/100 M.N).
-
-3.- Croquis de localización $67.00 (SESENTA Y SIETE PESOS 00/100 M.N.)
-
-4.- Servicios de digitalización y graficación de información cartográfica
-
-a).- De información catastral existente de $ 1,626.00 (UN MIL SEISCIENTOS VEINTISÉIS PESOS 00/100 M.N.) por Km2.
-
-b).- De proyectos especiales $517.00 (QUINIENTOS DIECISIETE PESOS 00/100 M.N.) por Km2.
-
-c).- Plano de la ciudad digitalizado $5,173.00 (CINCO MIL CIENTO SETENTA Y TRES PESOS 00/100 M.N.)
-
-d).- Lámina catastral digitalizada $6,651.00 (SEIS MIL SEISCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.)
-
-VII.- Servicios de copiado
-
-1.- Copias xerográficas de planos que obren en los archivos del departamento
-
-a).- Hasta 30 x 30 cms. $30.00 (TREINTA PESOS 00/100 M.N.)
-
-b).- En tamaños mayores, por cada decímetro cuadrado adicional o fracción $7.40 (SIETE PESOS 40/100 M.N.).
-
-2.- Copias fotostáticas de planos o manifiestos que obren en los archivos del departamento, hasta tamaño oficio $ 22.00 (VEINTIDÓS PESOS 00/100 M.N.) por cada uno.
-
-3.- Copia xerográfica del plano urbano general catastral
-
-a).- Escala 1:10000 $665.00 (SEISCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.)
-
-b).- Escalas mayores a 1:10000 a $393.00 TRESCIENTOS NOVENTA Y TRES PESOS 00/100 M.N.)
-
-4.- Copia de la cartografía catastral urbana
-
-a).- De la lámina catastral escala 1:1000 a $ 1,256.00 (UN MIL DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.)
-
-b).- De la manzana catastral escala 1: 1000 a $369.00 (TRESCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.)
-
-5.- Por otros servicios catastrales no incluidos en fracciones anteriores de $49.00 (CUARENTA Y NUEVE PESOS 00/100 M.N.) a $689.00 (SEISCIENTOS OCHENTA Y NUEVE PEOS (SIC) 00/100 M.N.).
-
-VIII.- Formatos catastrales valorados
-
-1.- Forma de declaración para el pago del ISAI, en original y cinco copias así como folio de control $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.) por cada juego.
+(DEROGADO, P.O. 17 DE MARZO DE 2017)
 
 (REUBICADA [N. DE E. ANTES SECCIÓN SEGUNDA], P.O. 22 DE DICIEMBRE DE 2015)
 
-#### SECCION PRIMERA. POR SERVICIOS PRESTADOS POR EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO COAHUILENSE DE CULTURA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+#### SECCIÓN TERCERA. DE LOS SERVICIOS CATASTRALES QUE REALIZA EL INSTITUTO COAHUILENSE DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ###### ARTICULO 139.
 
-Los servicios prestados por la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, causarán derechos conforme a la siguiente:
+Los servicios prestados por la Secretaría de Infraestructura y Transporte, causarán derechos conforme a la siguiente:
 
 TARIFA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 I. Concesiones de ruta para explotar el servicio de autotransporte de pasajeros en carreteras locales:
 
@@ -2007,6 +1935,8 @@ I. Concesiones de ruta para explotar el servicio de autotransporte de pasajeros 
 
 3. Refrendo anual, $2,772.00 (DOS MIL SETECIENTOS SETENTA Y DOS PESOS 00/100 M.N.).
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 II. Concesión intermunicipal de transporte de pasajeros, hasta por treinta años:
 
 1. Expedición, por 30 años derivada de licitación, $30,000.00 (TREINTA MIL PESOS 00/100 M.N.); y
@@ -2014,6 +1944,8 @@ II. Concesión intermunicipal de transporte de pasajeros, hasta por treinta año
 2. Renovación de concesión (prórroga de concesión por 30 años) $30,000.00 (TREINTA MIL PESOS 00/100 M.N.)
 
 3. Refrendo anual, $2,772.00 (DOS MIL SETECIENTOS SETENTA Y DOS PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 III. Concesión estatal para servicio de transporte de agua:
 
@@ -2023,11 +1955,15 @@ III. Concesión estatal para servicio de transporte de agua:
 
 3. Refrendo anual de concesión, $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.).
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 IV. Permiso con vigencia de cinco años para servicio de transporte especializado escolar:
 
 1. Expedición, $2,908.00 (DOS MIL NOVECIENTOS OCHO PESOS 00/100 M.N.);
 
 2. Refrendo $920.00 (NOVECIENTOS VEINTE PESOS 00/100 M.N.); y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 V. Permiso con vigencia de cinco años para servicio de transporte especializado para trabajadores (TRANSPORTE DE PERSONAL)
 
@@ -2035,9 +1971,15 @@ V. Permiso con vigencia de cinco años para servicio de transporte especializado
 
 2. Refrendo $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.); y
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 VI. Permiso anual para transporte de personal, $1,800.00 (MIL OCHOCIENTOS PESOS 00/100 M.N.)
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 VII. Permiso anual para transporte de carga especializada de materiales o residuos peligrosos, $2,176.00 (DOS MIL CIENTO SETENTA Y SEIS PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 VIII. Permiso anual para servicio de transporte especializado de carga:
 
@@ -2049,21 +1991,39 @@ VIII. Permiso anual para servicio de transporte especializado de carga:
 
 4. Otros productos, $1,025.00 (MIL VEINTICINCO PESOS 00/100 M.N.);
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 IX. Permiso anual para grúas, $2,165.00 (DOS MIL CIENTO SESENTA Y CINCO PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 X. Transferencia de concesiones, $2,594.00 (DOS MIL QUINIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.);
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 XI. Autorización de nueva ruta $12,970.00 (DOCE MIL NOVECIENTOS SETENTA PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 XII. Ampliación de ruta del servicio de transporte de pasajeros, $6,381.00 (SEIS MIL TRESCIENTOS OCHENTA Y UN PESOS 00/100 M.N.);
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 XIII. Permiso temporal hasta por treinta días naturales para circular fuera de ruta, $659.00 (SEISCIENTOS CINCUENTA Y NUEVE PESOS 001100 M.N.);
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 XIV. Revisión mecánica a vehículos de servicio público, $136.00 (CIENTO TREINTA Y SEIS PESOS 00/100 M.N.);
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 XV. Verificación de emisiones de contaminantes, $105.00 (CIENTO CINCO PESOS 00/100 M.N.);
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+
 XVI. Constancia de extravío de documentos $136.00 (CIENTO TREINTA Y SEIS PESOS 00/100 M.N.); y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 XVII. Por la autorización para operar y por prórroga para operar las Escuelas de Manejo, conforme al Reglamento de la Ley de Tránsito y Transporte $24,016.00 (VEINTICUATRO MIL DIECISEIS PESOS 00/100 M.N.);
 
@@ -2087,103 +2047,19 @@ Son solidariamente responsables del pago de este derecho los constructores y con
 
 El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 141-A.
 
-Los servicios que presta la Secretaría de Infraestructura, causarán los derechos siguientes:
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-I. Por la expedición del permiso para la instalación de anuncios publicitarios y señalamientos informativos dentro o fuera del derecho de vía de las carreteras y caminos locales, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-1. Anuncios publicitarios que tienen una superficie total hasta de 25 metros cuadrados: 50 Unidades de Medida y Actualización.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-2. Anuncios publicitarios que tienen una superficie total hasta de 50 metros cuadrados: 60 Unidades de Medida y Actualización.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-3. Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados: 120 Unidades de Medida y Actualización.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-4. Señales informativas: 50 Unidades de Medida y Actualización.
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-II. Por el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y carreteras estatales, se pagarán derechos conforme a las siguientes cuotas:
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-1. Para obra e instalaciones superficiales, subterráneas o aéreas marginales dentro del derecho de vía, por cada 100 metros o fracción que exceda de dicha longitud: 60 Unidades de Medida y Actualización.
-
-2. Por la autorización para la construcción de accesos que afecten el derecho de vía en caminos y carreteras, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-3. Por el otorgamiento de permiso anual para la instalación y/o operación de paradores 2% sobre el costo total de la obra.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-4. Para obras de cruzamiento superficiales, subterráneas o aéreas dentro del derecho de vía, por cada 100 metros o fracción que exceda dicha longitud: 100 Unidades de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-5. Por el otorgamiento de permiso para la construcción, instalación o adaptación de cualquier tipo de elemento de equipamiento dentro del derecho de vía: 2% sobre el costo total de la obra.
-
-Por el otorgamiento de permiso anual para la instalación de cualquier tipo de dispositivo para el control de tránsito dentro del derecho de vía: 25 Unidades de Cuenta en el Estado.
-
-> <small>N. DE E. EL CONTENIDO DEL PRESENTE NUMERAL ES SIMILAR AL CONTENIDO DEL PÁRRAFO SEGUNDO DEL NUMERAL 5, VÉASE PUBLICACIONES OFICIALES DE FECHAS 22 DE DICIEMBRE DE 2015 Y 23 DE DICIEMBRE DE 2016.]</small>
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-6. Por el otorgamiento de permiso anual para la instalación de cualquier tipo de dispositivo para el control de tránsito dentro del derecho de vía: 25 Unidades de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-7. Por el otorgamiento de permiso anual para la explotación y/o operación de bancos de material en el derecho de vía o zonas laterales: 50 Unidades de Cuenta en el Estado.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-8. Por el otorgamiento de permiso anual para la explotación y/o operación de bancos de material en el derecho de vía o zonas laterales: 50 Unidades de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-9. Por el otorgamiento de permiso para la conservación, rehabilitación, reconstrucción, pavimentación o ampliación de caminos estatales: 1% del valor total de la obra.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-10. Por el otorgamiento de permiso para la construcción de puentes peatonales dentro del derecho de vía: 2% del costo total de la obra.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-11. Por el otorgamiento de permiso para la construcción de puentes vehiculares dentro del derecho de vía: 1% del costo total de la obra.
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-III. Certificaciones, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-IV. Expedición de copia simple, $5.00 (CINCO PESOS 00/100 M.N.), por hoja; (sic)
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-SUJETO
+(DEROGADO, P.O. 17 DE MARZO DE 2017)
 
 ###### ARTICULO 141-B.
 
-Son sujetos de este derecho, las personas que soliciten los servicios que se establecen en el artículo que antecede.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 17 DE MARZO DE 2017)
 
 ###### ARTICULO 141-C.
 
-El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+(DEROGADO, P.O. 17 DE MARZO DE 2017)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2513,11 +2389,129 @@ II. La Secretaría de Fomento Económico, podrá prestar servicios para la capac
 
 PAGO
 
-#### SECCION PRIMERA. POR SERVICIOS DE CONTROL DE TRANSPORTE PUBLICO
+#### SECCION QUINTA. DE LOS SERVICIOS CATASTRALES QUE REALIZA EL INSTITUTO COAHUILENSE DEL CATASTRO Y LA INFORMACION TERRITORIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+ARTICULO 123 BIS.- Son objeto de estos Derechos, los Servicios Catastrales que presta el Instituto Coahuilense del Catastro y la Información Territorial, por concepto de:
+
+I. Registros catastrales:
+
+1.- Revisión, cálculo y registro sobre planos de fraccionamientos y lotificaciones, incluyendo los fideicomisos de administración.
+
+a).- Urbano en general $0.44 (44/100 M.N.) por M2 vendible
+
+b).- Urbanos, viviendas populares $0.22 (22/100 M.N.) por M2 vendible
+
+c).- Campestre e industriales $0.29 (29/100 M.N.) por M2 vendible
+
+2.- Revisión, cálculo y registro sobre planos de predios
+
+a).- Urbanos sobre el valor catastral el 1.5 al millar
+
+b).- Rústicos, sobre el valor catastral el 1.5 al millar
+
+II. Certificados catastrales
+
+1.- La certificación de valores catastrales, de superficies catastrales, a nombre de propietario, poseedor o de detentador de un predio, de colindancia y dimensiones, de inexistencias de registro a nombre del solicitante y en general del manifestado datos de las que figuran en los archivos del departamento $67.00 (SESENTA Y SIETE PESOS 00/100 MN.), por cada uno.
+
+2.- Certificación de planos de predios urbanos y rústicos de los que coinciden con la información cartográfica catastral; para el trámite de adquisición de inmuebles $133.00 (CIENTO TREINTA Y TRES 00/100 M.N) por cada uno.
+
+3.- Expedición de cédula inmobiliaria catastral para escrituración de inmuebles urbanos de interés social $222.00 (DOSCIENTOS VEINTIDÓS PESOS 00/100 M.N.) por cada una.
+
+4.- Expedición de cédula inmobiliaria catastral para escrituración de inmuebles urbano y rústico $296.00 (DOSCIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.) cada una.
+
+III. Servicios de inspección de campo:
+
+1.- Verificación de información $133.00 (CIENTO TREINTA Y TRES PESOS 00/100 M.N.)
+
+2.- La visita al predio $2.22 (DOS PESOS 22/100 M.N.) por M2
+
+IV. Servicios topográficos
+
+1.- Deslinde de predios urbanos $2.96 (DOS PESOS 96/100 M.N.) por M2
+
+2.- Deslinde de predios en breña $0.37 (37/100 M.N.) por M2
+
+3.- Deslinde de predios rústicos
+
+a).- Terrenos planos desmontados $30.00 (TREINTA PESOS 00/100 M.N.) por hectárea
+
+b).- Terrenos planos con monte $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.) por hectárea
+
+c).- Terrenos con accidentes topográficos con monte $89.00 (OCHENTA Y NUEVE PESOS 00/100 M.N.) por hectárea
+
+d).- Terrenos con accidentes topográficos desmontados $67.00 (SESENTA Y SIETE PESOS 00/100 M.N.) por hectárea
+
+e).- Terrenos accidentados $148.00 (CIENTO CUARENTA Y OCHO PESOS 00/100 M.N.) por hectárea
+
+4.- Para los dos incisos anteriores, cualquiera que sea la superficie del predio, el importe de los derechos no podrá ser inferior a $665.00 (SEISCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.)
+
+V. Servicios fotogramétricos consistentes en:
+
+1.- Copia de la información existente en los archivos digitales
+
+a).- Fotografía aérea, copias de contacto de 23 x 23 cms. $355.00 (TRESCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.) cada una.
+
+b).- Coordenadas de puntos de control orientados con el Sistema Global de Posicionamiento $1,921.00 (UN MIL NOVECIENTOS VEINTIÚN PESOS 00/100 M.N.) cada una.
+
+c).- Restitución fotogramétrica escala 1:5000 con curva de nivel cada 5 mts., $3,547.00 (TRES MIL QUINIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.) Km2.
+
+VI. Servicios de dibujo
+
+1.- Dibujo de planos urbanos, escalas hasta de 1:500
+
+a).- Tamaño del plano hasta 30 x 30 cms., $48.00 (CUARENTA Y OCHO PESOS 00/100 M.N.).
+
+b).- Sobre el excedente del tamaño anterior por decímetro cuadrado o fracción $9.00 (NUEVE PESOS 00/100 M.N.).
+
+2.- Dibujo de planos topográficos suburbanos y rústicos, escala mayor a 1:500 y tamaño del plano hasta 50 x 50 cms.
+
+a).- Polígono de hasta seis vértices $148.00 (CIENTO CUARENTA Y OCHO PESOS 00/100 M.N.)
+
+b).- Por cada vértice adicional $9.00 (NUEVE PESOS 00/100 M.N.)
+
+c).- Planos que exceden de 50 x 50 cms. Sobre los dos incisos anteriores, causarán derechos por cada decímetro cuadrado adicional o fracción $16.00 (DIECISÉIS PESOS 00/100 M.N).
+
+3.- Croquis de localización $67.00 (SESENTA Y SIETE PESOS 00/100 M.N.)
+
+4.- Servicios de digitalización y graficación de información cartográfica
+
+a).- De información catastral existente de $ 1,626.00 (UN MIL SEISCIENTOS VEINTISÉIS PESOS 00/100 M.N.) por Km2.
+
+b).- De proyectos especiales $517.00 (QUINIENTOS DIECISIETE PESOS 00/100 M.N.) por Km2.
+
+c).- Plano de la ciudad digitalizado $5,173.00 (CINCO MIL CIENTO SETENTA Y TRES PESOS 00/100 M.N.)
+
+d).- Lámina catastral digitalizada $6,651.00 (SEIS MIL SEISCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.)
+
+VII. Servicios de copiado
+
+1.- Copias xerográficas de planos que obren en los archivos del departamento
+
+a).- Hasta 30 x 30 cms. $30.00 (TREINTA PESOS 00/100 M.N.)
+
+b).- En tamaños mayores, por cada decímetro cuadrado adicional o fracción $7.40 (SIETE PESOS 40/100 M.N.).
+
+2.- Copias fotostáticas de planos o manifiestos que obren en los archivos del departamento, hasta tamaño oficio $ 22.00 (VEINTIDÓS PESOS 00/100 M.N.) por cada uno.
+
+3.- Copia xerográfica del plano urbano general catastral
+
+a).- Escala 1:10000 $665.00 (SEISCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.)
+
+b).- Escalas mayores a 1:10000 a $393.00 (TRESCIENTOS NOVENTA Y TRES PESOS 00/100 M.N.)
+
+4.- Copia de la cartografía catastral urbana
+
+a).- De la lámina catastral escala 1:1000 a $ 1,256.00 (UN MIL DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.)
+
+b).- De la manzana catastral escala 1: 1000 a $369.00 (TRESCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.)
+
+5.- Por otros servicios catastrales no incluidos en fracciones anteriores de $49.00 (CUARENTA Y NUEVE PESOS 00/100 M.N.) a $689.00 (SEISCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.).
+
+VIII. Formatos catastrales valorados
+
+1.- Forma de declaración para el pago del ISAI, en original y cinco copias así como folio de control $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.) por cada juego.
 
 ###### ARTICULO 156.
 
@@ -2553,23 +2547,27 @@ OBJETO
 
 ### CAPITULO DECIMO SEGUNDO. POR SERVICIOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-#### SECCION SEGUNDA. POR SERVICIOS PRESTADOS POR EL INSTITUTO ESTATAL DEL DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
-
-OBJETO
-
-#### SECCION SEGUNDA. POR SERVICIOS DE LA COMISIÓN ESTATAL DE LA VIVIENDA
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-#### SECCION TERCERA. DE LOS SERVICIOS CATASTRALES QUE REALIZA EL INSTITUTO COAHUILENSE DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
 #### SECCION TERCERA (SIC). POR OTROS SERVICIOS
 
 > <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
+#### SECCION PRIMERA
+
+POR SERVICIOS DE LA COMISION ESTATAL DE VIVIENDA Y COMISION ESTATAL PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA URBANA Y RUSTICA DE COAHUILA.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2017)</small>
+
+#### SECCION PRIMERA. POR SERVICIOS DE CONTROL DE TRANSPORTE PUBLICO
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. POR SERVICIOS DE INFRAESTRUCTURA
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ### CAPITULO DECIMO TERCERO. POR SERVICIOS DE ORGANISMOS DESCENTRALIZADOS DE GOBIERNO
 
@@ -2674,6 +2672,14 @@ OBJETO
 ###### ARTICULO 171.
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2012)
+
+#### SECCION SEGUNDA. POR SERVICIOS PRESTADOS POR EL INSTITUTO ESTATAL DEL DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+OBJETO
+
+#### SECCION PRIMERA. POR SERVICIOS PRESTADOS POR EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO COAHUILENSE DE CULTURA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 172.
 
@@ -3323,7 +3329,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 22 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO No. 333.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 333.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3368,3 +3374,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO CUARTO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO (SIC) DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
