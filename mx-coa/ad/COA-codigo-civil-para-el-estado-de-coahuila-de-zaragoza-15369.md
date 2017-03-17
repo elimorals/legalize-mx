@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2017-01-24"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -4751,7 +4751,13 @@ ARTÍCULO 604 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 495 PUBLICADO EN EL P.O. 1 DE JULIO DE 2016, SE ADVIERTE LA REFORMA DEL PRESENTE ARTÍCULO, A SABER: " Son objeto del patrimonio de familia:
+> <small>[N. DE E. DEL ANÁLISIS A LOS DECRETOS 229 Y 477 PUBLICADOS EN EL P.O. DEL 15 DE DICIEMBRE DE 2015 Y 10 DE JUNIO DE 2016, RESPECTIVAMENTE, SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE DEROGADO DE MANERA GRADUAL EN LOS DIVERSOS DISTRITOS JUDICIALES, PARA PASAR A FORMAR PARTE DE LA LEY DE FAMILIA DEL ESTADO. ASIMISMO, EN EL DECRETO 495 PUBLICADO EN EL P.O. DEL 1 DE JULIO DE 2016, SE ADICIONÓ CONTENIDO AL PRESENTE ARTÍCULO, Y MEDIANTE DECRETO 765 PUBLICADO EN EL P.O. DEL 17 DE MARZO DE 2017, SE REFORMÓ SU FRACCIÓN IV. SE SUGIERE CONSULTAR LA CRONOLOGÍA CORRESPONDIENTE.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2016)</small>
+
+###### ARTÍCULO 727.
+
+Son objeto del patrimonio de familia:
 
 I. La casa, cualquiera que sea su valor, siempre que se trate de un inmueble destinado a la habitación de la familia.
 
@@ -4759,17 +4765,13 @@ II. El menaje de la vivienda a que se refiere la fracción anterior.
 
 III. El vehículo destinado para uso y beneficio de la familia.
 
-IV. Los libros, biblioteca, escritorios, útiles, instrumentos computacionales y demás equipo y herramienta de la industria que le sirva de sustento económico, con un valor de hasta tres mil salarios mínimos general diario vigente en el Estado.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+IV. Los libros, biblioteca, escritorios, útiles, instrumentos computacionales y demás equipo y herramienta de la industria que le sirva de sustento económico, con un valor de hasta tres mil unidades de medida y actualización.
 
 El valor de los bienes afectados al patrimonio de la familia, será el del lugar donde se encuentren los bienes en que se constituya el patrimonio.
 
-El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente, tampoco será embargable; pero el valor original o su incremento, sí podrán disminuirse para encuadrarse dentro de los límites establecidos en las fracciones anteriores". VÉASE TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2015 Y REFORMADO EL 10 DE JUNIO DE 2016, EN RAZÓN A LA GRADUALIDAD DE LA DEROGACIÓN DE ESTE ARTÍCULO EN LOS DIVERSOS DISTRITOS JUDICIALES.]
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-###### ARTÍCULO 727.
-
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente, tampoco será embargable; pero el valor original o su incremento, sí podrán disminuirse para encuadrarse dentro de los límites establecidos en las fracciones anteriores.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 494 PUBLICADO EN EL P.O. 1 DE JULIO DE 2016, SE ADVIERTE LA ADICIÓN DEL SEGUNDO PÁRRAFO AL PRESENTE ARTÍCULO, A SABER: "El Ministerio Público y la Procuraduría para Niños, Niñas y la Familia serán oídos en la constitución, ampliación, reducción y extinción del patrimonio de la familia". PARA CONSULTAR EL CONTENIDO DEL PRIMER PÁRRAFO, VÉASE TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2015 Y REFORMADO EL 10 DE JUNIO DE 2016, EN RAZÓN A LA GRADUALIDAD DE LA DEROGACIÓN DE ESTE ARTÍCULO EN LOS DIVERSOS DISTRITOS JUDICIALES.]</small>
 
@@ -6117,9 +6119,11 @@ No tendrá validez el testamento mientras no se justifique la identidad del test
 
 Si se recurre a testigos de identidad, éstos deberán ser conocidos del notario o de los testigos instrumentales.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 984.
 
-Se prohibe a los notarios o a cualesquiera otras personas que hayan de redactar testamentos, dejar hojas total o parcialmente en blanco, así como hacer abreviaturas o cifras salvo que se trate de invocar artículos de la ley o números de formas oficiales, bajo la pena de multa a los notarios cuyo importe será de diez a cien días de salario mínimo general vigente en el Estado y de la mitad a los que no lo fueren, que impondrá el juez que conozca del juicio sucesorio y hará efectiva el recaudador de rentas del lugar.
+Se prohíbe a los notarios o a cualesquiera otras personas que hayan de redactar testamentos, dejar hojas total o parcialmente en blanco, así como hacer abreviaturas o cifras salvo que se trate de invocar artículos de la ley o números de formas oficiales, bajo la pena de multa a los notarios cuyo importe será de diez a cien unidades de medida y actualización y de la mitad a los que no lo fueren, que impondrá el juez que conozca del juicio sucesorio y hará efectiva el recaudador de rentas del lugar.
 
 ###### ARTÍCULO 985.
 
@@ -6323,7 +6327,9 @@ Toda persona que tuviere en su poder un testamento cerrado y no lo presente, com
 
 Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición, o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado o de los municipios de la entidad, o cualquier dependencia u organismo de las administraciones estatal o municipales, aun los desconcentrados o descentralizados, o en acto posterior, de conformidad con lo siguiente:
 
-I. Que el precio del inmueble o su valor según avalúo catastral, no exceda del equivalente a veinticinco veces el salario mínimo general vigente en el lugar de su ubicación elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+I. Que el precio del inmueble o su valor según avalúo catastral, no exceda del equivalente a veinticinco unidades de medida y actualización al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto.
 
 II. El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de substitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces.
 
@@ -7837,9 +7843,11 @@ Aun cuando por alguna circunstancia especial fuere necesaria, a juicio de la aut
 
 La venta se hará siempre en almoneda pública.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 1316.
 
-El que se apodere de un bien mueble sin cumplir con lo prevenido en el artículo 1307, pagará una multa por el importe de diez a cien días de salario mínimo general vigente en el Estado, y será responsable de los daños y perjuicios que ocasione.
+El que se apodere de un bien mueble sin cumplir con lo prevenido en el artículo 1307, pagará una multa por el importe de diez a cien unidades de medida y actualización, y será responsable de los daños y perjuicios que ocasione.
 
 ### CAPÍTULO VIII. DE LOS BIENES VACANTES
 
@@ -7859,9 +7867,11 @@ El Ministerio Público, si estima que procede, deducirá ante el juez competente
 
 El denunciante recibirá la cuarta parte del valor catastral de los bienes que denuncie, repartiéndose los gastos entre el adjudicado y el denunciante en proporción a lo que cada uno de ellos reciba.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 1321.
 
-El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa hasta de mil días de salario mínimo general vigente en el Estado, sin perjuicio de las penas que señale el código de la materia.
+El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa hasta de mil unidades de medida y actualización, sin perjuicio de las penas que señale el código de la materia.
 
 ## TÍTULO TERCERO. DE LAS DIFERENTES CLASES DE DERECHOS REALES
 
@@ -15187,9 +15197,11 @@ Las acciones que nacen de los artículos 2723 a 2725 prescriben en un año, cont
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 2728.
 
-La venta de un inmueble cuyo precio no exceda del equivalente a trescientos sesenta y cinco días de salario mínimo general vigente en el Estado, se hará en instrumento privado que firmarán el vendedor y el comprador ante dos testigos, debiendo ratificar los contratantes el contenido del contrato y reconocer sus firmas ante Notario Público.
+La venta de un inmueble cuyo precio no exceda del equivalente a trescientas sesenta y cinco unidades de medida y actualización, se hará en instrumento privado que firmarán el vendedor y el comprador ante dos testigos, debiendo ratificar los contratantes el contenido del contrato y reconocer sus firmas ante Notario Público.
 
 ###### ARTÍCULO 2729.
 
@@ -15207,13 +15219,17 @@ En los programas de regularización de la tenencia de la tierra, que lleven a ca
 
 Si alguno de los contratantes no supiere escribir o no pudiere firmar, estampará su huella digital y firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 2733.
 
-Si el valor del avalúo catastral del inmueble excede de trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Estado en el momento de la operación, aunque el precio de la operación sea menor, su venta se hará en escritura pública, salvo lo dispuesto en los artículos 2729 a 2731.
+Si el valor del avalúo catastral del inmueble excede de trescientas sesenta y cinco unidades de medida y actualización en el momento de la operación, aunque el precio de la operación sea menor, su venta se hará en escritura pública, salvo lo dispuesto en los artículos 2729 a 2731.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 2734.
 
-Tratándose de bienes ya inscritos en el Registro Público, cuyo valor según avalúo catastral no exceda de trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Estado en el momento de la operación, cuando la venta sea al contado, puede transmitirse el dominio por endoso puesto en el certificado de propiedad que el Registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+Tratándose de bienes ya inscritos en el Registro Público, cuyo valor según avalúo catastral no exceda de trescientas sesenta y cinco unidades de medida y actualización, en el momento de la operación, cuando la venta sea al contado, puede transmitirse el dominio por endoso puesto en el certificado de propiedad que el Registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
 
 El endoso debe contener la fecha, la voluntad de transmitir la propiedad del bien que se menciona en el certificado, su precio y que fue recibido al contado por el vendedor, así como la firma de éste y del comprador, debiendo ratificarse el endoso y reconocerse las firmas ante el Registrador, o ante Notario Público.
 
@@ -15301,13 +15317,17 @@ La donación es perfecta desde que el donatario la acepta y hace saber la acepta
 
 La donación puede hacerse verbalmente o por escrito.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 2753.
 
-La donación verbal sólo puede tener por objeto bienes muebles cuyo valor no pase del importe de treinta días de salario mínimo general vigente en el Estado.
+La donación verbal sólo puede tener por objeto bienes muebles cuyo valor no pase del importe de treinta unidades de medida y actualización.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 2754.
 
-La donación de bienes muebles cuyo valor exceda de treinta días de salario mínimo general vigente en el Estado deberá constar por escrito.
+La donación de bienes muebles cuyo valor exceda de treinta unidades de medida y actualización deberá constar por escrito.
 
 ###### ARTÍCULO 2755.
 
@@ -15491,7 +15511,9 @@ La donación deviene irrevocable:
 
 I. Si transcurren cinco años desde que se hizo la donación y el donante no ha tenido hijos.
 
-II. Si es menor que el importe de noventa días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+II. Si es menor que el importe de noventa unidades de medida y actualización.
 
 III. Cuando sea antenupcial.
 
@@ -15735,9 +15757,11 @@ Se prohibe a los magistrados, a los jueces y a cualesquiera otros funcionarios o
 
 Asimismo, se prohibe a los encargados de los establecimientos paraestatales y organismos descentralizados y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 2842.
 
-El contrato de arrendamiento debe otorgarse por escrito; pero si el bien arrendado fuere rústico y la renta anual pasare del importe de quinientos días de salario mínimo general vigente en el Estado, el contrato se otorgará en escritura pública.
+El contrato de arrendamiento debe otorgarse por escrito; pero si el bien arrendado fuere rústico y la renta anual pasare del importe de quinientas unidades de medida y actualización, el contrato se otorgará en escritura pública.
 
 ###### ARTÍCULO 2843.
 
@@ -16239,9 +16263,11 @@ Para los efectos del artículo 2939, por casa o departamento amueblados se entie
 
 Para celebrar el contrato de habitación en tiempo compartido deberá obtenerse de la Presidencia Municipal constancia de que el inmueble satisface las exigencias técnicas, de seguridad y sanitarias que establezcan las leyes administrativas.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 2944.
 
-Los contratos celebrados sin la licencia a que se refiere el artículo anterior, estarán afectados de nulidad absoluta y el compartidor será sancionado por el Presidente Municipal, con multa hasta del equivalente a cinco mil días de salario mínimo general vigente en el Estado.
+Los contratos celebrados sin la licencia a que se refiere el artículo anterior, estarán afectados de nulidad absoluta y el compartidor será sancionado por el Presidente Municipal, con multa hasta del equivalente a cinco mil unidades de medida y actualización.
 
 ###### ARTÍCULO 2945.
 
@@ -16253,7 +16279,9 @@ La duración del contrato será de cinco años forzosos para ambas partes, renov
 
 No podrá hacerse ninguna renovación si los cinco años de ella no están comprendidos dentro del tiempo probable de vida del inmueble.
 
-Para los efectos de esta disposición el Presidente Municipal, con la periodicidad que proceda, mandará practicar estudios técnicos que determinen dicha vida probable y cuyo resultado notificará al compartidor para su conocimiento y efectos. La renovación que se haga contrariando el segundo párrafo de este precepto, estará afectada de nulidad absoluta y además, independientemente de que se promueva o no tal nulidad, el compartidor infractor será sancionado con una multa equivalente al importe de quinientos a dos mil quinientos días de salario mínimo general vigente en el Estado, que en cada caso le impondrá el Presidente Municipal.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+Para los efectos de esta disposición el Presidente Municipal, con la periodicidad que proceda, mandará practicar estudios técnicos que determinen dicha vida probable y cuyo resultado notificará al compartidor para su conocimiento y efectos. La renovación que se haga contrariando el segundo párrafo de este precepto, estará afectada de nulidad absoluta y además, independientemente de que se promueva o no tal nulidad, el compartidor infractor será sancionado con una multa equivalente al importe de quinientas a dos mil quinientas unidades de medida y actualización, que en cada caso le impondrá el Presidente Municipal.
 
 ###### ARTÍCULO 2947.
 
@@ -16541,15 +16569,19 @@ El mandato debe otorgarse en escritura pública o en carta poder firmada ante do
 
 I. Cuando sea general.
 
-II. Cuando el interés del negocio para el que se confiere exceda de trescientos sesenta y cinco días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+II. Cuando el interés del negocio para el que se confiere exceda de trescientas sesenta y cinco unidades de medida y actualización.
 
 III. Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
 IV. En el supuesto del artículo 2998.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 3010.
 
-El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la ratificación de las firmas, cuando el interés del negocio para el que se confiere sea hasta de trescientos sesenta y cinco día de salario mínimo general vigente en el Estado.
+El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la ratificación de las firmas, cuando el interés del negocio para el que se confiere sea hasta de trescientas sesenta y cinco unidades de medida y actualización.
 
 ###### ARTÍCULO 3011.
 
@@ -17355,7 +17387,9 @@ I. La transacción debe hacerse constar por escrito.
 
 II. Si el objeto de la transacción es evitar controversias futuras, las partes deben ratificar el contenido del contrato y sus firmas ante Notario Público.
 
-III. Si la transacción se refiere a bienes inmuebles cuyo valor sea mayor al monto de trescientos sesenta y cinco días de salario mínimo general vigente en el Estado, se hará constar en escritura pública.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+III. Si la transacción se refiere a bienes inmuebles cuyo valor sea mayor al monto de trescientas sesenta y cinco unidades de medida y actualización, se hará constar en escritura pública.
 
 IV. Cuando la transacción termina una controversia judicial, el escrito en que se haga constar será ratificado ante el juez o tribunal que conozca de esa controversia, quienes se cerciorarán de la identidad y capacidad de las partes.
 
@@ -18183,13 +18217,17 @@ Lo dispuesto en los dos artículos anteriores se aplicará tanto al caso en que 
 
 El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro Público y de un valor que garantice suficientemente las obligaciones que contraiga.
 
-Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de ciento ochenta días de salario mínimo general vigente en el Estado, no se exigirá que el fiador tenga bienes raíces.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de ciento ochenta unidades de medida y actualización, no se exigirá que el fiador tenga bienes raíces.
 
 El interesado, si lo desea, puede substituir esta fianza con prenda, hipoteca o depósito.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 3317.
 
-Para otorgar una fianza legal o judicial por más de ciento ochenta días de salario mínimo general vigente en el Estado, se presentará un certificado expedido por el Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
+Para otorgar una fianza legal o judicial por más de ciento ochenta unidades de medida y actualización, se presentará un certificado expedido por el Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 
 ###### ARTÍCULO 3318.
 
@@ -18921,9 +18959,11 @@ El acreedor hipotecario puede adquirir el bien hipotecado, en remate judicial o 
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 3442.
 
-Cuando el crédito hipotecario exceda del monto de trescientos sesenta y cinco días de salario mínimo general vigente en el Estado, la hipoteca debe otorgarse en escritura pública.
+Cuando el crédito hipotecario exceda del monto de trescientas sesenta y cinco unidades de medida y actualización, la hipoteca debe otorgarse en escritura pública.
 
 Cuando no exceda de esa cantidad podrá otorgarse en escritura pública o en escritura privada que firmarán los contratantes ante dos testigos, ratificando las partes el contenido de dicha escritura y reconociendo sus firmas ante Notario Público.
 
@@ -21145,8 +21185,16 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 24 DE ENERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 722.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1877 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 22; SE ADICIONAN DOS PÁRRAFOS A LA FRACCIÓN VIII DEL ARTÍCULO 15, Y LA FRACCIÓN XI AL ARTÍCULO 20 RECORRIÉNDOSE LAS ULTERIORES, DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 722.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1877 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 22; SE ADICIONAN DOS PÁRRAFOS A LA FRACCIÓN VIII DEL ARTÍCULO 15, Y LA FRACCIÓN XI AL ARTÍCULO 20 RECORRIÉNDOSE LAS ULTERIORES, DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 765.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA Y DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
