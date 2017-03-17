@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vivienda-para-el-estado-de-coahuila-de-zaragoza-78302"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-17"
-last_updated: "2012-11-20"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de diciembre de 2010.
 
@@ -51,9 +51,11 @@ Se considerará vivienda digna y decorosa aquella que cuente con los servicios b
 
 Para los efectos de este artículo se entenderá por servicios básicos los de agua potable, energía eléctrica y drenaje.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 3.
 
-En lo no previsto por esta ley y demás disposiciones que de ella se deriven, serán de aplicación supletoria la Ley de Asentamientos Humanos y Desarrollo Urbano del Estado de Coahuila de Zaragoza; la Ley de Planeación del Estado de Coahuila de Zaragoza; la Ley de Población y Desarrollo Municipal para el Estado de Coahuila de Zaragoza; la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza, las disposiciones del derecho común y demás disposiciones que resulten aplicables y no se contrapongan al presente ordenamiento.
+En lo no previsto por esta ley y demás disposiciones que de ella se deriven, serán de aplicación supletoria la Ley de Asentamientos Humanos y Desarrollo Urbano del Estado de Coahuila de Zaragoza; la Ley de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza; la Ley de Población y Desarrollo Municipal para el Estado de Coahuila de Zaragoza; la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza, las disposiciones del derecho común y demás disposiciones que resulten aplicables y no se contrapongan al presente ordenamiento.
 
 ###### ARTÍCULO 4.
 
@@ -85,13 +87,17 @@ VII. Política Estatal de Vivienda. El conjunto de acciones, medidas, lineamient
 
 VIII. Reglamento. El Reglamento de la Ley de Vivienda para el Estado de Coahuila de Zaragoza;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-IX. Secretaría. La Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial;
+IX. Secretaría. La Secretaría de Desarrollo Social;
 
-X. Sector vulnerable. Grupo de la población que por diversos factores de carácter económico, social, geográfico, entre otros, enfrentan riesgos o carencias para alcanzar mejores niveles de vida y el acceso a una vivienda digna y decorosa;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-XI. Sistema. El Sistema Estatal de la Vivienda, y (sic)
+X. Sector vulnerable. Grupo de la población que por diversos factores de carácter económico, social, geográfico, entre otros, enfrentan riesgos o carencias para alcanzar mejores niveles de vida y el acceso a una vivienda digna y decorosa, y
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+XI. Sistema. El Sistema Estatal de la Vivienda.
 
 ### CAPÍTULO SEGUNDO. AUTORIDADES COMPETENTES
 
@@ -101,9 +107,9 @@ Las autoridades encargadas de la aplicación de esta ley son:
 
 I. El Titular del Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-II. El Secretario de Gestión Urbana, Agua y Ordenamiento Territorial del Estado;
+II. La persona titular de la Secretaría de Desarrollo Social;
 
 III. La Comisión, y
 
@@ -525,9 +531,17 @@ V. Proponer esquemas generales de organización para la eficaz atención, coordi
 
 VI. Solicitar y recibir información de las distintas dependencias y entidades que llevan a cabo programas y acciones en materia de vivienda;
 
-VII. Emitir su reglamento y los lineamientos para su operación y funcionamiento, y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-VIII. Las demás que establezca esta ley y otras disposiciones aplicables.
+VII. Emitir su reglamento y los lineamientos para su operación y funcionamiento;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+VIII. Otorgar poderes al titular de la Dirección General, necesarios para el desarrollo y cumplimiento de las funciones inherentes de la Comisión, y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
+
+IX. Las demás que establezca esta ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 34.
 
@@ -713,11 +727,13 @@ Cuando se trate de suelo de origen ejidal o comunal, la promoción de su incorpo
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LA COMISIÓN ESTATAL DE VIVIENDA
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 62.
 
-Se crea la Comisión Estatal de Vivienda como un organismo público descentralizado de la administración pública estatal, de servicio social, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial y tendrá por objeto proponer, promover y aplicar las políticas y lineamientos generales que en materia de vivienda se implementen en el Estado.
+Se crea la Comisión Estatal de Vivienda como un organismo público descentralizado de la administración pública estatal, de servicio social, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Desarrollo Social y tendrá por objeto proponer, promover y aplicar las políticas y lineamientos generales que en materia de vivienda se implementen en el Estado.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
 La Comisión tendrá su despacho central en la Ciudad de Saltillo, Coahuila, sin perjuicio de que pueda establecer en otras poblaciones del Estado las delegaciones y oficinas que se consideren necesarias para el cumplimiento de su objeto.
 
@@ -759,7 +775,9 @@ VI. Los demás que adquiera por cualquier título.
 
 Para su funcionamiento, la Comisión contará con una Junta de Gobierno que será su máxima autoridad, y se integrará de la siguiente manera:
 
-I. Una Presidencia, encabezada por quien sea titular de la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+I. Una Presidencia, que será ocupada por quien sea titular de la Secretaría de Desarrollo Social;
 
 II. Una Secretaría Técnica, encabezada por quien sea titular de la Dirección General de la Comisión;
 
@@ -767,13 +785,17 @@ III. Por cinco vocales del sector público que serán las y los titulares de:
 
 a) La Secretaría de Finanzas;
 
-b) La Secretaría de Infraestructura;
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+b) La Secretaría de Infraestructura y Transporte;
 
 c) La Secretaría de Medio Ambiente;
 
 d) La Dirección General de la Comisión Estatal para la Regulación de la Tenencia de la Tierra Urbana y Rústica de Coahuila;
 
-e) La Dirección General del Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+e) La Dirección General del Registro Público del Estado de Coahuila de Zaragoza;
 
 IV. Por tres vocales del sector ciudadano que serán preferentemente los representantes de:
 
@@ -829,7 +851,9 @@ XIV. Vigilar que los acuerdos de coordinación que se celebren con las dependenc
 
 XV. Analizar y aprobar en su caso, los informes periódicos que rinda quien sea titular de la Dirección General;
 
-XVI. Establecer los lineamientos que debe cumplir la Comisión en materia de acceso a la información, en términos de la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza y demás disposiciones en la materia;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+XVI. Establecer los lineamientos que debe cumplir la Comisión en materia de acceso a la información, en términos de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza y demás disposiciones en la materia;
 
 XVII. Procurar el incremento del patrimonio de la Comisión y vigilar su administración;
 
@@ -885,7 +909,9 @@ XV. Las demás que señalen las disposiciones que le sean aplicables.
 
 ARTÍCULO 66 QUINQUIES. Quien sea titular de la Dirección General de la Comisión, en lo que concierne a su representación legal, independientemente de las atribuciones que se le otorguen en otras disposiciones, tendrá las siguientes:
 
-I. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto de la entidad que dirige;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+I. Suscribir todos los instrumentos y actos jurídicos relativos al ejercicio de sus atribuciones, así como otorgar poderes en materia laboral, para pleitos y cobranzas, de representación y demás actos jurídicos de naturaleza análoga, previo acuerdo del consejo;
 
 II. Ejercitar las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos de la Comisión;
 
@@ -1040,3 +1066,15 @@ SÉPTIMO.- Se otorga un plazo de sesenta días contados a partir del día siguie
 OCTAVO.- En un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto deberán implementarse acciones para la elaboración del programa estatal, de los regionales y municipales de vivienda.
 
 NOVENO.- La Comisión deberá elaborar el reglamento de la Ley de Vivienda para el Estado de Coahuila de Zaragoza y someterlo a consideración y aprobación de quien sea Titular del Ejecutivo del Estado, en un plazo no mayor de 90 días contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO (SIC) DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
