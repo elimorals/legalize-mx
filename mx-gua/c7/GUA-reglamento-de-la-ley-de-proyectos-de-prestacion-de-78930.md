@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-proyectos-de-prestacion-de-78930"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2013-10-11"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 2010.
 
@@ -89,7 +89,9 @@ X. Ley: La Ley de Proyectos de Prestación de Servicios para el Estado y los Mun
 
 XI. Lineamientos: Los Lineamientos para el Análisis de Comparación Público-Privada que emita la Secretaría;
 
-XII. Proyecto: Un proyecto de prestación de servicios, es decir, cualquier asociación entre el sector público y el sector privado que cumpla con las características señaladas en el artículo 5 de la Ley y que además requiera para su desarrollo de un monto de inversión superior a cinco millones de veces el salario mínimo general vigente en el Estado; y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+XII. Proyecto: Un proyecto de prestación de servicios, es decir, cualquier asociación entre el sector público y el sector privado que cumpla con las características señaladas en el artículo 5 de la Ley y que además requiera para su desarrollo de un monto de inversión superior a cinco millones de veces la Unidad de Medida y Actualización diaria; y
 
 XIII. Reglamento: El presente Reglamento de la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato.
 
@@ -859,10 +861,16 @@ EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 11 DE OCTUBRE DE 2013.
 
 Artículo Primero. El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. La Secretaría contará con un plazo de tres meses a partir de la entrada en vigencia del presente Decreto Gubernativo, para emitir los Lineamientos para el Análisis Comparativo Público-Privado.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 184, MEDIANTE EL CUAL, SE REALIZA LA MODIFICACIÓN MÚLTIPLE, A FIN DE ADECUAR LA REFERENCIA QUE EN REGLAMENTOS Y DECRETOS SE HACE AL SALARIO MÍNIMO, PARA REFERENCIARLO A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
