@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vigilancia-y-revision-de-medidas-cautelares-para-el-1018
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-11"
-last_updated: "2014-07-11"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIGILANCIA Y REVISIÓN DE MEDIDAS CAUTELARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 11 de julio de 2014.
 
@@ -697,7 +697,9 @@ IX. Someterse a la vigilancia que determine el juez de control.- Se sujetará a 
 
 X. No poseer ni portar armas.- Al decretarse esta condición, se dará aviso a los cuerpos de seguridad pública en el Estado para llevar un registro de la condición impuesta, a efecto de que en un evento posterior en el que constate su incumplimiento, se dé aviso al juez de control para los efectos procesales correspondientes;
 
-XI. No conducir vehículos.- Se dará aviso de la prohibición a la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial para que realice los trámites correspondientes en relación a la licencia de conducir, así mismo se le informará a la Dirección de Policía y Tránsito Municipal correspondiente para los efectos de que dicha información esté en su base de datos y vigile a la persona que se le impuso esta condición.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+XI. No conducir vehículos.- Se dará aviso de la prohibición a la Secretaría de Infraestructura y Transporte para que realice los trámites correspondientes en relación a la licencia de conducir, así mismo se le informará a la Dirección de Policía y Tránsito Municipal correspondiente para los efectos de que dicha información esté en su base de datos y vigile a la persona que se le impuso esta condición.
 
 XII. Cumplir con los deberes de deudor alimentario.- En su cumplimiento, quedará sujeta al aviso que los acreedores alimentarios o sus representantes formulen al juez de control.
 
@@ -1414,3 +1416,17 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA: DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO (SIC) DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
