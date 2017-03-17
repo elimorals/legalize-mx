@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2016-08-09"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -715,7 +715,9 @@ Trámite de la excusa.
 
 El funcionario impedido, suspenderá desde luego el procedimiento en el negocio de que se trate y remitirá lo actuado con un informe escrito al órgano competente para conocer y resolver de la excusa de acuerdo con la Ley Orgánica del Poder Judicial del Estado, acompañando los documentos y demás constancias que acrediten la causa de impedimento.
 
-El órgano competente deberá dictar la resolución dentro de los cinco días siguientes, y contra ella no procederá recurso alguno. Cuando la excusa se hubiere planteado sin causa legítima, podrá imponerse al funcionario una corrección disciplinaria que consistirá en una multa de hasta 300 veces el salario mínimo general diario vigente en la Capital del Estado.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+El órgano competente deberá dictar la resolución dentro de los cinco días siguientes, y contra ella no procederá recurso alguno. Cuando la excusa se hubiere planteado sin causa legítima, podrá imponerse al funcionario una corrección disciplinaria que consistirá en una multa de hasta trescientas unidades de medida y actualización.
 
 #### SECCIÓN TERCERA. Recusación
 
@@ -835,7 +837,9 @@ Sentencia que resuelve la recusación.
 
 Si en la resolución se declara que procede la recusación, con testimonio de la misma, se ordenará remitir los autos al juzgador que deberá continuar conociendo del proceso y el funcionario recusado quedará definitivamente separado para conocer del litigio y será nulo todo lo actuado por él a partir de la fecha en que la recusación se haya promovido. En el Tribunal Superior, el Magistrado recusado quedará separado para conocer del asunto y será sustituido en la forma que lo determine la ley.
 
-En el supuesto de que la sentencia declare improcedente o no probada la causa de recusación, se remitirá testimonio de la resolución al tribunal o juzgado de su origen para que continúe el procedimiento. Además se impondrá al recusante una sanción consistente en el pago del diez por ciento de la cuantía del negocio; así como una multa hasta de trescientos días de salario mínimo general diario vigente en la Capital del Estado si fuere un Magistrado de un Tribunal Unitario o juez de primera instancia; y de quinientos días de dicho salario, si fuere un Magistrado del Tribunal Superior de Justicia. Finalmente, se ordenará la anotación de una falta a los principios de lealtad y probidad en el proceso en su registro profesional.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+En el supuesto de que la sentencia declare improcedente o no probada la causa de recusación, se remitirá testimonio de la resolución al tribunal o juzgado de su origen para que continúe el procedimiento. Además se impondrá al recusante una sanción consistente en el pago del diez por ciento de la cuantía del negocio; así como una multa hasta de trescientas unidades de medida y actualización si fuere un Magistrado de un Tribunal Unitario o juez de primera instancia; y de quinientas unidades de medida y actualización, si fuere un Magistrado del Tribunal Superior de Justicia. Finalmente, se ordenará la anotación de una falta a los principios de lealtad y probidad en el proceso en su registro profesional.
 
 ###### ARTÍCULO 82.
 
@@ -891,13 +895,17 @@ III. La sentencia de fondo que haya puesto término al juicio.
 
 Sentido de la sentencia que decida la responsabilidad judicial civil.
 
-La sentencia de condena determinará la cantidad con que debe indemnizarse a la parte perjudicada por la responsabilidad judicial civil cometida en concepto de daños y perjuicios sufridos. Al funcionario judicial responsable se le sancionará con una multa de trescientas veces el salario mínimo general vigente en la Capital del Estado, y se inscribirá en su expediente personal dicha sanción, independientemente de que también se haga constar una severa amonestación o en atención a la extrema gravedad de su conducta, se le decrete una suspensión temporal en el desempeño de su cargo, a juicio del superior que haya decidido la cuestión planteada. En caso de reincidencia podrá decretársele la destitución del cargo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
+La sentencia de condena determinará la cantidad con que debe indemnizarse a la parte perjudicada por la responsabilidad judicial civil cometida en concepto de daños y perjuicios sufridos. Al funcionario judicial responsable se le sancionará con una multa de trescientas unidades de medida y actualización, y se inscribirá en su expediente personal dicha sanción, independientemente de que también se haga constar una severa amonestación o en atención a la extrema gravedad de su conducta, se le decrete una suspensión temporal en el desempeño de su cargo, a juicio del superior que haya decidido la cuestión planteada. En caso de reincidencia podrá decretársele la destitución del cargo.
 
 Si aparte de la responsabilidad judicial civil se encontraren elementos que pudieran tipificar algún delito se procederá conforme a la ley penal.
 
 En ningún caso la sentencia favorable pronunciada en el juicio de responsabilidad judicial civil alterará la sentencia firme que haya recaído en el proceso en que se hubiere ocasionado el agravio.
 
-La sentencia absolutoria condenará al demandante el pago de costas, daños y perjuicios, además de una multa de trescientas veces el salario mínimo general vigente en la Capital del Estado y también se ordenará la anotación de una falta al principio de lealtad y probidad en el proceso, en el registro profesional personal del peticionario que no probó su pretensión. Si se repitiera la hipótesis de demanda injustificada, se impondrá una suspensión de seis meses a un año en el ejercicio profesional al promovente, a criterio del órgano superior competente.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+La sentencia absolutoria condenará al demandante el pago de costas, daños y perjuicios, además de una multa de trescientas unidades de medida y actualización y también se ordenará la anotación de una falta al principio de lealtad y probidad en el proceso, en el registro profesional personal del peticionario que no probó su pretensión. Si se repitiera la hipótesis de demanda injustificada, se impondrá una suspensión de seis meses a un año en el ejercicio profesional al promovente, a criterio del órgano superior competente.
 
 La sentencia que se dicte, cualquiera que sea su sentido, será irrecurrible.
 
@@ -1781,7 +1789,9 @@ Se autorizan como correcciones disciplinarias, las siguientes:
 
 I. El apercibimiento o amonestación.
 
-II. La multa, que será hasta por cinco veces el salario mínimo general, vigente en la capital del Estado el día en que se aplique la sanción, cuando la corrección sea impuesta por un Juez de Conciliación; de cinco a diez veces en los Juzgados Letrados; de diez a cincuenta veces en los Juzgados de Primera Instancia Civiles o de lo Familiar; de cincuenta a cien veces en los Tribunales Unitarios de Distrito y de cien a ciento cincuenta veces en el Tribunal Superior de Justicia.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+II. La multa, que será hasta por cinco unidades de medida y actualización, cuando la corrección sea impuesta por un Juez de Conciliación; de cinco a diez unidades de medida y actualización en los Juzgados Letrados; de diez a cincuenta unidades de medida y actualización en los Juzgados de Primera Instancia Civiles o de lo Familiar; de cincuenta a cien unidades de medida y actualización en los Tribunales Unitarios de Distrito y de cien a ciento cincuenta unidades de medida y actualización en el Tribunal Superior de Justicia.
 
 III. La suspensión del empleo que no exceda de un mes de trabajo.
 
@@ -1811,11 +1821,13 @@ Podrán presentarse ante cualquier juez, quien decretará desde luego las dilige
 
 Fuera de los casos expresados en el párrafo anterior, los jueces que dicten providencias en un negocio que no estuviere turnado a ellos, serán corregidos disciplinariamente.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 178.
 
 Sanción para quien burle el turno establecido en la oficialía común de partes.
 
-En el caso de comprobarse la realización de cualquier acción tendiente a burlar el turno establecido en la Oficialía Común de Partes, una vez presentado un escrito por el cual se inicie un procedimiento, ya sea exhibiendo varios de éstos para elegir el juzgado que convenga, o desistiéndose de instancias más de una vez, sin acreditar la necesidad de hacerlo, o cualquiera acción similar; la parte promovente y sus abogados patronos o procuradores se harán acreedores, solidariamente, a una multa que no será menor de treinta, ni mayor de ciento cincuenta días de salario mínimo general vigente en la Capital del Estado, que les será impuesta por el juzgador que advirtiere dicha acción.
+En el caso de comprobarse la realización de cualquier acción tendiente a burlar el turno establecido en la Oficialía Común de Partes, una vez presentado un escrito por el cual se inicie un procedimiento, ya sea exhibiendo varios de éstos para elegir el juzgado que convenga, o desistiéndose de instancias más de una vez, sin acreditar la necesidad de hacerlo, o cualquiera acción similar; la parte promovente y sus abogados patronos o procuradores se harán acreedores, solidariamente, a una multa que no será menor de treinta, ni mayor de ciento cincuenta unidades de medida y actualización, que les será impuesta por el juzgador que advirtiere dicha acción.
 
 ###### ARTÍCULO 179.
 
@@ -1823,7 +1835,9 @@ Obligación del secretario de informar sobre los escritos presentados.
 
 En cada documento que se presente ante el oficio judicial, la persona autorizada al efecto hará constar el día y hora en que se recibe el escrito y una relación de los documentos que se anexen.
 
-El secretario dará cuenta al juzgador de dichos escritos a más tardar dentro de las veinticuatro horas en que le hayan sido turnados, sin perjuicio de hacerlo de inmediato, cuando se trate de asunto urgente, so pena de una multa equivalente al importe de un día de salario mínimo general vigente en la capital del Estado, en caso de incumplimiento.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+El secretario dará cuenta al juzgador de dichos escritos a más tardar dentro de las veinticuatro horas en que le hayan sido turnados, sin perjuicio de hacerlo de inmediato, cuando se trate de asunto urgente, so pena de una multa equivalente al importe de una unidad de medida y actualización, en caso de incumplimiento.
 
 ###### ARTÍCULO 180.
 
@@ -2137,7 +2151,9 @@ Emplazamiento del demandado en el lugar en que se encuentre.
 
 Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios, y en la habitación no se pudiere, conforme al artículo 209, hacer la notificación, se podrá hacer ésta en el lugar en donde se encuentre.
 
-En este caso, la notificación se firmará por el notificador y por la persona a quien se hiciere. Si ésta no supiere o no pudiere firmar, lo hará a su ruego un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo pena de multa equivalente de tres a diez días de salario mínimo general vigente en la capital del Estado.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+En este caso, la notificación se firmará por el notificador y por la persona a quien se hiciere. Si ésta no supiere o no pudiere firmar, lo hará a su ruego un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo pena de multa equivalente de tres a diez unidades de medida y actualización.
 
 En caso de ocultamiento del demandado, a petición del actor y previa comprobación de este hecho, el emplazamiento podrá practicarse por edictos en los términos previstos por este código.
 
@@ -2489,7 +2505,9 @@ Sin perjuicio de su obligación de pronunciar sentencias dentro de los plazos a 
 
 Sanción por no dictar resolución dentro del plazo legal.
 
-El juzgador que no dictare resolución dentro de los plazos precedentemente establecidos, será sancionado con una multa hasta el importe de dos meses de salario mínimo vigente en la capital del Estado y se tendrá por impedido para seguir conociendo del negocio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
+El juzgador que no dictare resolución dentro de los plazos precedentemente establecidos, será sancionado con una multa hasta el importe de sesenta unidades de medida y actualización y se tendrá por impedido para seguir conociendo del negocio.
 
 En este supuesto, a solicitud de cualquiera de las partes, el juzgador remitirá el expediente, de inmediato al superior, quien lo turnará al magistrado o juez que corresponda conforme a las reglas establecidas para la recusación, a fin de que éste dicte la resolución omitida dentro de los plazos aludidos.
 
@@ -4301,7 +4319,9 @@ Audiencia previa, de conciliación y depuración.
 
 Una vez contestada la demanda y, en su caso, la reconvención, el juzgador señalará de inmediato, fecha y hora para la celebración de una audiencia previa y de conciliación dentro de los quince días siguientes, dando vista a la parte que corresponda con las dilatorias que como excepción previa se hubieren opuesto en su contra, otorgándole el término de tres días, para que las contradiga.
 
-En el día y hora fijados para la celebración de la audiencia. El juzgador hará constar la presencia de las partes. Si una de las partes no concurre sin causa justificada, se le sancionará con multa hasta por un monto de ciento cincuenta días de salario mínimo general como máximo; si dejaran de concurrir ambas partes sin justificación, el juzgador las sancionará de igual manera. En ambos casos el juzgador procederá a examinar las dilatorias opuestas como excepción, los presupuestos procesales y los defectos procesales.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+En el día y hora fijados para la celebración de la audiencia. El juzgador hará constar la presencia de las partes. Si una de las partes no concurre sin causa justificada, se le sancionará con multa hasta por un monto de ciento cincuenta unidades de medida y actualización; si dejaran de concurrir ambas partes sin justificación, el juzgador las sancionará de igual manera. En ambos casos el juzgador procederá a examinar las dilatorias opuestas como excepción, los presupuestos procesales y los defectos procesales.
 
 Si asistieran las dos partes, el juzgador examinará las cuestiones relativas a la capacidad y representación y luego se procederá a procurar la conciliación que previamente hubiere preparado al estudiar el expediente y propondrá a las partes alternativas de solución al litigio; de igual manera las partes pueden hacer propuestas de arreglo; en seguida se pasará a la discusión, siempre a nivel de respeto y consideración recíprocas, esforzándose todos por alcanzar una justa composición de la contienda.
 
@@ -4599,11 +4619,13 @@ El juzgador, al calificar la admisibilidad de las pruebas, determinará la canti
 
 El plazo extraordinario correrá desde el día siguiente al de la notificación del auto en que se hubiere otorgado y no podrá prorrogarse.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 436.
 
 Entrega de exhortos y sanciones.
 
-A la parte a la que se le hubiere concedido el período extraordinario de prueba a que se refiere el artículo anterior, se le entregará el exhorto para su diligenciación y si no lo devolviere debidamente diligenciado dentro de los plazos señalados en el artículo anterior, sin justificar que para ello tuvo impedimento bastante, se le impondrá una multa que fijará el juzgador hasta por quinientos días de salario mínimo general vigente en la capital del Estado, así mismo, se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte y se declarará desierta la prueba.
+A la parte a la que se le hubiere concedido el período extraordinario de prueba a que se refiere el artículo anterior, se le entregará el exhorto para su diligenciación y si no lo devolviere debidamente diligenciado dentro de los plazos señalados en el artículo anterior, sin justificar que para ello tuvo impedimento bastante, se le impondrá una multa que fijará el juzgador hasta por quinientas unidades de medida y actualización, así mismo, se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte y se declarará desierta la prueba.
 
 ### CAPÍTULO CUARTO. Confesión
 
@@ -5005,7 +5027,9 @@ En el lugar, día y hora fijado por el tribunal para la audiencia de pruebas, se
 
 I. El perito dará a conocer su dictamen ante el juzgador y ante las partes interesadas, debiendo, además, dejarlo asentado por escrito y ratificarlo ante la presencia judicial. En el dictamen fundamentará en forma idónea sus conclusiones, que podrán acompañarse con dibujos, planos, muestras u otros anexos que sirvan para ilustrarlo. El dictamen deberá ser firmado por el perito, quien protestará haber cumplido su cometido oficial de buena fe y con conocimiento.
 
-II. El perito que dejare de concurrir sin causa justificada calificada por el juzgador, será sancionado con una multa hasta de ciento cincuenta días de salario mínimo diario general vigente en la capital del Estado y será responsable de los daños y perjuicios que causare por su culpa.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+II. El perito que dejare de concurrir sin causa justificada calificada por el juzgador, será sancionado con una multa hasta de ciento cincuenta unidades de medida y actualización y será responsable de los daños y perjuicios que causare por su culpa;
 
 III. Las partes pueden formular cuestiones al perito o peritos designados acerca del dictamen rendido.
 
@@ -5019,7 +5043,9 @@ VI. Si el motivo del dictamen pericial consistiere en la práctica de un avalúo
 
 Sanción a los peritos.
 
-El perito que haya faltado a la obligación asumida, por haberse negado sin motivo justificado a concluir su oficio después de asumir su encargo con arreglo a la ley, o por no dejar asentado su dictamen por escrito, o por no comparecer a la audiencia de pruebas, se le impondrá una sanción pecuniaria hasta por ciento cincuenta días de salario mínimo general vigente en la capital del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
+El perito que haya faltado a la obligación asumida, por haberse negado sin motivo justificado a concluir su oficio después de asumir su encargo con arreglo a la ley, o por no dejar asentado su dictamen por escrito, o por no comparecer a la audiencia de pruebas, se le impondrá una sanción pecuniaria hasta por ciento cincuenta unidades de medida y actualización.
 
 El perito que haya faltado a la protesta rendida, por haber proporcionado el juzgador indicaciones o informaciones contrarias a la verdad, por dolo o por culpa grave, está obligado al resarcimiento de los daños y perjuicios, independientemente de la sanción pecuniaria y de la que le corresponda en aplicación del Código Penal.
 
@@ -5151,11 +5177,13 @@ Citación de los testigos.
 
 El juzgador mandará citar a los testigos sólo cuando las partes que los ofrezcan manifiesten bajo protesta de decir verdad, que no pueden presentarlos para que declaren, debiendo hacérseles la citación con anticipación no menor de tres días de la fecha de la audiencia de pruebas. A los que citados legalmente, dejaren de comparecer sin causa justificada, o habiendo comparecido se nieguen a prestar la protesta de decir verdad o a declarar, se les hará efectivo el apercibimiento fijado en la citación y podrá ordenarse la presentación de los que no hayan asistido, por medio de la fuerza pública o mediante arresto, independientemente de su consignación por desobediencia a la autoridad.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 482.
 
 Sanción por proporcionar datos falsos o retardar el procedimiento.
 
-En caso de que el señalamiento del domicilio de algún testigo resulte inexacto, o que de las constancias del expediente se infiera que se solicitó la citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente hasta ciento cincuenta días de salario mínimo general vigente en la capital del Estado, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido el oferente de la prueba. Así mismo, deberá declararse desierta la prueba testimonial.
+En caso de que el señalamiento del domicilio de algún testigo resulte inexacto, o que de las constancias del expediente se infiera que se solicitó la citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente hasta ciento cincuenta unidades de medida y actualización, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido el oferente de la prueba. Así mismo, deberá declararse desierta la prueba testimonial.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -7849,7 +7877,9 @@ Audiencia de pruebas.
 
 La preparación de las pruebas admitidas quedará a cargo de las partes. En consecuencia, en la audiencia deberán presentar los testigos y en cuanto a la pericial, deberán estarse a lo dispuesto para esta prueba en el juicio ordinario. Las pruebas, se desahogarán en la audiencia respectiva.
 
-Si el oferente, previa protesta de conducirse con verdad manifiesta que al testigo no lo puede presentar y ofreciere al menos indicios que funden su afirmación, podrá el juzgador ordenar la citación de ese testigo por conducto del actuario, con el apercibimiento de que de no comparecer a declarar sin justa causa que se lo impida, se le impondrá una multa de hasta ciento cincuenta días de salario mínimo general vigente en la capital del Estado o arresto hasta por treinta y seis horas. Si no obstante estas providencias, el testigo no compareciere se le hará efectivo el apercibimiento y dejará de recibirse su testimonio.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+Si el oferente, previa protesta de conducirse con verdad manifiesta que al testigo no lo puede presentar y ofreciere al menos indicios que funden su afirmación, podrá el juzgador ordenar la citación de ese testigo por conducto del actuario, con el apercibimiento de que de no comparecer a declarar sin justa causa que se lo impida, se le impondrá una multa de hasta ciento cincuenta unidades de medida y actualización o arresto hasta por treinta y seis horas. Si no obstante estas providencias, el testigo no compareciere se le hará efectivo el apercibimiento y dejará de recibirse su testimonio.
 
 De igual manera auxiliará al oferente, expidiendo los oficios a las autoridades y terceros que tengan en su poder los documentos, observando en lo conducente lo dispuesto en el artículo 425 de este ordenamiento.
 
@@ -9041,7 +9071,9 @@ Si la contraparte estima que el testimonio de apelación se integró en forma de
 
 Si el recurrente omite hacer el señalamiento en la forma prescrita, se tendrá por no interpuesto el recurso, y por firme la resolución apelada.
 
-El juzgador deberá vigilar que el testimonio de apelación junto con el original del cuaderno auxiliar de apelación, sean enviados al superior, dentro del plazo de cinco días. En caso de incumplimiento de esta disposición, se aplicará al juzgador una multa hasta de cincuenta veces el salario mínimo vigente en la capital del Estado y suspensión en el desempeño de su cargo hasta por quince días en caso de reincidencia.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+El juzgador deberá vigilar que el testimonio de apelación junto con el original del cuaderno auxiliar de apelación, sean enviados al superior, dentro del plazo de cinco días. En caso de incumplimiento de esta disposición, se aplicará al juzgador una multa hasta de cincuenta unidades de medida y actualización y suspensión en el desempeño de su cargo hasta por quince días en caso de reincidencia.
 
 V. Si se tratare de sentencia, se dejará en el juzgado testimonio de lo necesario para ejecutarla, remitiéndose los autos originales al superior para la substanciación del recurso.
 
@@ -9267,9 +9299,13 @@ Tramitación de la queja contra secretarios y actuarios.
 
 La queja en contra de secretarios y actuarios se hará valer ante el juzgador que conozca del negocio. Interpuesto el recurso, dentro de los tres días siguientes el juzgador oirá verbalmente al secretario o notificador en contra de quien se presentó la queja y dentro del tercer día resolverá de plano lo que proceda. De estimarse fundada la queja, ordenará:
 
-a) En el caso de la fracción II, del artículo 887, corregir o reponer los actos que la motiven, imponiendo al responsable una multa hasta de cincuenta veces el salario mínimo general vigente en la capital del Estado, o bien, suspensión en el desempeño de su cargo hasta por ocho días.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
-b) En el caso de las fracciones I y III, del artículo 887, además de corregir o reponer los actos que la motiven, podrá imponerse al infractor multa hasta de cien veces el salario mínimo general vigente en la capital del Estado, o bien suspensión en el desempeño de su cargo hasta por quince días; más si los actos ilegales fueren graves podrá acordar la destitución.
+a) En el caso de la fracción II, del artículo 887, corregir o reponer los actos que la motiven, imponiendo al responsable una multa hasta de cincuenta unidades de medida y actualización, o bien, suspensión en el desempeño de su cargo hasta por ocho días.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+b) En el caso de las fracciones I y III, del artículo 887, además de corregir o reponer los actos que la motiven, podrá imponerse al infractor multa hasta de cien unidades de medida y actualización, o bien suspensión en el desempeño de su cargo hasta por quince días; más si los actos ilegales fueren graves podrá acordar la destitución.
 
 ###### ARTÍCULO 891.
 
@@ -10513,9 +10549,9 @@ b) Para intervenir en el acto de remate y hacer al juzgador las observaciones qu
 
 c) Para recurrir la resolución que apruebe o desapruebe el remate o la adjudicación.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-IV. Hecho el avalúo, a petición de parte, se sacarán los bienes a pública subasta, convocándose postores por medio de la publicación de edictos por dos veces de siete en siete días, en el Periódico Oficial y en el portal electrónico destinado para ello. Además cualquiera de las partes, y a su costa, podrá solicitar del juzgador el empleo de cualquier otro medio de publicidad para convocar postores. Si el valor del inmueble no excede de mil veces el salario mínimo general, para anunciar el remate bastará que se publicite en la tabla de avisos del juzgado y en el sitio que al efecto tengan las autoridades fiscales del Municipio en donde se sustancia el juicio.
+IV. Hecho el avalúo, a petición de parte, se sacarán los bienes a pública subasta, convocándose postores por medio de la publicación de edictos por dos veces de siete en siete días, en el Periódico Oficial y en el portal electrónico destinado para ello. Además cualquiera de las partes, y a su costa, podrá solicitar del juzgador el empleo de cualquier otro medio de publicidad para convocar postores. Si el valor del inmueble no excede de mil unidades de medida y actualización, para anunciar el remate bastará que se publicite en la tabla de avisos del juzgado y en el sitio que al efecto tengan las autoridades fiscales del Municipio en donde se sustancia el juicio.
 
 V. Si los bienes raíces estuvieren ubicados en diversos lugares, además de las publicaciones ordenadas en la fracción anterior, se librará exhorto para el efecto de que se fijen los edictos en la tabla de avisos del juzgado de cada localidad y en la de las oficinas fiscales municipales respectivas. En este caso, se ampliará el plazo para la publicación de los edictos concediéndose un día más por cada cincuenta kilómetros o fracción y se señalará el plazo tomando en cuenta la distancia mayor a que se hallen los bienes. Si el juzgador lo estima oportuno, podrá ordenar que se hagan también publicaciones en algún periódico del lugar en que se encuentren ubicados los bienes.
 
@@ -11657,7 +11693,9 @@ Una vez radicado un juicio sucesorio, sea testamentario o intestado, se publicar
 
 Si el juicio esta radicado en un lugar distinto al cual estaba ubicado el último domicilio del finado, también se publicarán en él los edictos.
 
-Si el valor del activo de la sucesión no excediere de quinientas veces el salario mínimo general vigente en la capital del Estado, no se hará publicación de edictos y sólo se fijarán éstos en la tabla de avisos del Juzgado.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+Si el valor del activo de la sucesión no excediere de quinientas unidades de medida y actualización, no se hará publicación de edictos y sólo se fijarán éstos en la tabla de avisos del Juzgado.
 
 ### CAPÍTULO SEGUNDO. Testamentarias
 
@@ -12235,7 +12273,9 @@ Designación del partidor.
 
 Cuando el albacea no haga la partición por si mismo, promoverá dentro del quinto día de aprobado el inventario, la elección de un contador o abogado con título debidamente registrado, para que la efectúe. El juzgador convocará a los herederos a junta, dentro de los tres días siguientes, para que se haga en su presencia la elección. Si no hubiere mayoría el juzgador nombrará partidor, eligiéndolo entre los propuestos.
 
-El cónyuge, aunque no tenga el carácter de heredero, será tenido como parte, si entre los bienes hereditarios los hubiere de la sociedad conyugal. El juzgador pondrá a disposición del partidor los expedientes, y bajo inventario los papeles y documentos relativos al caudal hereditario, para que proceda a la partición, señalándole un plazo que nunca excederá de treinta días, para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo, y multa hasta de doscientas veces el salario mínimo general vigente en la capital del Estado el día en que se aplique la sanción, en proporción a la cuantía del acervo hereditario.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+El cónyuge, aunque no tenga el carácter de heredero, será tenido como parte, si entre los bienes hereditarios los hubiere de la sociedad conyugal. El juzgador pondrá a disposición del partidor los expedientes, y bajo inventario los papeles y documentos relativos al caudal hereditario, para que proceda a la partición, señalándole un plazo que nunca excederá de treinta días, para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo, y multa hasta de doscientas unidades de medida y actualización, en proporción a la cuantía del acervo hereditario.
 
 ###### ARTÍCULO 1115.
 
@@ -12777,15 +12817,29 @@ Las disposiciones relativas al juicio ordinario podrán aplicarse a los procesos
 
 ### CAPÍTULO SEGUNDO. Competencia objetiva y subjetiva
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 446 PUBLICADO EN EL P.O. DE 14 DE ENERO DE 2011, SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE DEROGADO. ASIMISMO, MEDIANTE DECRETO NÚMERO 765 PUBLICADO EN EL P.O. DE 17 DE MARZO DE 2017, SE REFORMARON SÓLO SUS FRACCIONES I Y II. SE SUGIERE CONSULTAR LA CRONOLOGÍA CORRESPONDIENTE.]</small>
+
 ###### ARTÍCULO 1168.
 
-(DEROGADO, P.O. 14 DE ENERO DE 2011)
+Competencia de los juzgados letrados
+
+Los Juzgados Letrados en Materia Civil conocerán:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE MARZO DE 2017)</small>
+
+I. De los juicios civiles cuya cuantía no exceda de 500 unidades de medida y actualización, en la fecha en que se presente la demanda. Con relación a los asuntos cuya cuantía no exceda de 150 unidades de medida y actualización, deberá justificarse previamente que se agotó respecto de los mismos, la instancia de conciliación ante el Juzgado de Conciliación respectivo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE MARZO DE 2017)</small>
+
+II. En competencia concurrente, de los juicios mercantiles cuya cuantía no exceda de 500 unidades de medida y actualización, en la fecha en que se presente la demanda.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 1169.
 
 Competencia de los juzgados de conciliación.
 
-Los Juzgados de Conciliación conocerán de los negocios civiles cuya cuantía no exceda de 150 días de salario mínimo general vigente en la capital del Estado.
+Los Juzgados de Conciliación conocerán de los negocios civiles cuya cuantía no exceda de 150 unidades de medida y actualización.
 
 ###### ARTÍCULO 1170.
 
@@ -12865,7 +12919,9 @@ I. El actuario, o quien haga sus veces, se cerciorará si el demandado se encuen
 
 II. Si no lo encontrare, se cerciorará que el lugar designado es alguno de los que se enumeran en el artículo anterior, y hecho esto, entregará la citación a cualquier persona adulta que se halle.
 
-III. El recibo de la citación se firmará por la persona a quien se entregue, a menos de que no supiere o no pudiere firmar, en cuyo caso lo hará a su ruego un testigo; si no quisiere firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. El testigo no podrá negarse, bajo multa hasta de veinte días de salario mínimo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
+III. El recibo de la citación se firmará por la persona a quien se entregue, a menos de que no supiere o no pudiere firmar, en cuyo caso lo hará a su ruego un testigo; si no quisiere firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. El testigo no podrá negarse, bajo multa hasta de veinte unidades de medida y actualización.
 
 En el duplicado de la citación y en la libreta se asentará razón de lo ocurrido, y se pondrán en su caso las firmas que procedan.
 
@@ -12913,11 +12969,13 @@ El que se presente como actor o como demandado usando el nombre de otro para hac
 
 ### CAPÍTULO CUARTO. Procedimiento ante los jueces letrados
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 1182.
 
 Incomparecencia del actor.
 
-Si el día y hora de la audiencia no estuviere presente el actor injustificadamente y sí el demandado, se impondrá a aquél una multa de hasta veinte veces el salario mínimo general vigente en la capital del Estado, que se aplicará al demandado por vía de indemnización. Si no se justifica haberse hecho el pago de la sanción impuesta, no se citará de nuevo para juicio.
+Si el día y hora de la audiencia no estuviere presente el actor injustificadamente y si el demandado, se impondrá a aquél una multa de hasta veinte unidades de medida y actualización, que se aplicará al demandado por vía de indemnización. Si no se justifica haberse hecho el pago de la sanción impuesta, no se citará de nuevo para juicio.
 
 ###### ARTÍCULO 1183.
 
@@ -13083,7 +13141,9 @@ V. El arreglo, si lo hubiere, se elevará a convenio que será firmado por las p
 
 VI. Si no se logra la conciliación, el juzgador de inmediato, emitirá opinión a verdad sólida y buena fe guardada, sobre cual de las partes tiene razón, haciéndolo saber a los interesados. Si esta opinión no fuere objetada en el término de tres días, se tendrá por definitiva, si en igual plazo fuere homologada por un Juez Letrado.
 
-VII. Cuando la cuestión sujeta a litigio no exceda en su cuantía de cincuenta veces el salario mínimo diario general vigente en la capital del Estado, o bien suponga un asunto estrictamente personal, con excepción de los del orden familiar, no será necesario formar expediente, siendo suficiente conque (sic) se asiente en el libro de gobierno, las pretensiones del actor y las del demandado, en su caso, sucintamente relatadas.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+VII. Cuando la cuestión sujeta a litigio no exceda en su cuantía de cincuenta unidades de medida y actualización, o bien suponga un asunto estrictamente personal, con excepción de los del orden familiar, no será necesario formar expediente, siendo suficiente con que se asiente en el libro de gobierno, las pretensiones del actor y las del demandado, en su caso, sucintamente relatadas.
 
 ###### ARTÍCULO 1200.
 
@@ -13436,3 +13496,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 765.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA Y DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
