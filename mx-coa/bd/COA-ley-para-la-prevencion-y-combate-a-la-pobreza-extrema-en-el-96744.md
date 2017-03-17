@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-y-combate-a-la-pobreza-extrema-en-el-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2016-08-09"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN Y COMBATE A LA POBREZA EXTREMA EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -383,7 +383,9 @@ II. La Secretaría de Desarrollo Social;
 
 III. La Secretaría de Gobierno;
 
-IV. La Secretaría de Desarrollo Económico y Competitividad;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+IV. La Secretaría de Desarrollo Económico, Competitividad y Turismo;
 
 V. La Secretaría de Desarrollo Rural;
 
@@ -395,7 +397,9 @@ VIII. La Secretaría de la Juventud;
 
 IX. La Secretaría de Finanzas;
 
-X. La Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+X. La Secretaría de Infraestructura y Transporte;
 
 XI. La Secretaría de Salud;
 
@@ -411,7 +415,7 @@ XVI. La Comisión Estatal para la Regularización de la Tenencia de la Tierra Ur
 
 XVII. El Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza;
 
-XVIII. La Oficina del Gobernador;
+XVIII. (DEROGADA, P.O. 17 DE MARZO DE 2017)
 
 XIX. La Secretaría Técnica y de Planeación del Ejecutivo; y
 
@@ -644,3 +648,15 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO (SIC) DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
