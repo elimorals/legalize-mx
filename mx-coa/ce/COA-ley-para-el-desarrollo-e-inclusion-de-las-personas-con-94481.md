@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2016-11-01"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -71,7 +71,9 @@ VI. Comunicación. El lenguaje escrito, oral y la lengua de señas mexicana, la 
 
 VII. Comunidad de personas sordas. Todo aquel grupo social cuyos miembros tienen alguna discapacidad auditiva que les limita sostener una comunicación y socialización regular y fluida en lengua oral, por lo que requieren de otros sistemas alternativos de acceso a la información;
 
-VIII. Comisión Interinstitucional: la que se integra por la Comisión de Derechos Humanos del Estado de Coahuila, la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, la Secretaría de Desarrollo Social, la Secretaría de Infraestructura, la Secretaría de Salud, la Secretaría de Educación, el Sistema Estatal para el Desarrollo Integral de la Familia y Protección de Derechos, la Secretaría del Trabajo, la Secretaría de Cultura, la Secretaría de Desarrollo Rural, la Secretaría de Turismo y la Secretaría del Medio Ambiente; tendrá por objeto coadyuvar en acciones específicas de concertación, coordinación, planeación, promoción, seguimiento y vigilancia que permitan garantizar condiciones favorables a las personas que enfrentan alguna discapacidad;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+VIII. Comisión Interinstitucional: la que se integra por la Comisión de Derechos Humanos del Estado de Coahuila, la Secretaría de Desarrollo Social, la Secretaría de Infraestructura y Transporte, la Secretaría de Salud, la Secretaría de Educación, el Sistema Estatal para el Desarrollo Integral de la Familia y Protección de Derechos, la Secretaría del Trabajo, la Secretaría de Cultura, la Secretaría de Desarrollo Rural, la Secretaría de Desarrollo Económico Competitividad y Turismo y la Secretaría del Medio Ambiente; tendrá por objeto coadyuvar en acciones específicas de concertación, coordinación, planeación, promoción, seguimiento y vigilancia que permitan garantizar condiciones favorables a las personas que enfrentan alguna discapacidad;
 
 IX. Convención. Convención sobre los Derechos de las Personas con Discapacidad;
 
@@ -453,9 +455,13 @@ La Secretaría de Educación deberá coordinarse con la Secretaría del Trabajo,
 
 Las personas con discapacidad tienen derecho a la accesibilidad universal en condiciones dignas y seguras en espacios públicos.
 
-La Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial y las otras dependencias y entidades de la Administración Pública Estatal y Municipal vigilarán el cumplimiento de las disposiciones que en materia de accesibilidad, desarrollo urbano y vivienda se establecen en la normatividad vigente.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
-La Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial y la Secretaría de Infraestructura deberán emitir normas sobre accesibilidad a edificios públicos, centros de salud, escuelas y demás espacios de naturaleza pública así como de urbanismo, transporte público o cualquier otro servicio que implique la accesibilidad de personas con discapacidad.
+La Secretaría de Infraestructura y Transporte, Secretaría de Medio Ambiente, Secretaría de Desarrollo Social y las otras dependencias y entidades de la Administración Pública Estatal y Municipal vigilarán el cumplimiento de las disposiciones que en materia de accesibilidad, desarrollo urbano y vivienda se establecen en la normatividad vigente.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+La Secretaría de Infraestructura y Transporte y la Secretaría de Medio Ambiente deberán emitir normas sobre accesibilidad a edificios públicos, centros de salud, escuelas y demás espacios de naturaleza pública así como de urbanismo, transporte público o cualquier otro servicio que implique la accesibilidad de personas con discapacidad.
 
 Los edificios públicos según el uso al que serán destinados, deberán adecuarse a las Normas Oficiales Mexicanas que expidan las autoridades competentes, para el aseguramiento de la accesibilidad a las personas con discapacidad y aquellos que ya están construidos deberán realizar los ajustes razonables.
 
@@ -569,9 +575,11 @@ Los edificios públicos deberán construirse libres de barreras, debiendo consid
 
 ### Capítulo VI. Del transporte público, las comunicaciones y la tecnología
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### Artículo 47°.
 
-La Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial promoverá el derecho de las personas con discapacidad, sin discriminación de ningún tipo, al acceso al transporte, particularmente aquellas que contribuyan a su independencia y desarrollo integral. Para estos efectos, realizará las siguientes acciones:
+La Secretaría de Infraestructura y Transporte promoverá el derecho de las personas con discapacidad, sin discriminación de ningún tipo, al acceso al transporte, particularmente aquellas que contribuyan a su independencia y desarrollo integral. Para estos efectos, realizará las siguientes acciones:
 
 I. Elaborar el Manual Estatal de Equipamiento Básico que contendrá las medidas y equipo con el que deben contar las unidades de transporte público;
 
@@ -677,11 +685,15 @@ II. Establecer condiciones de inclusión de personas con discapacidad para logra
 
 III. Promover la realización de las adecuaciones materiales necesarias para que las personas con discapacidad tengan acceso a todo recinto donde se desarrolle cualquier actividad cultural, así como a la difusión de las actividades culturales, el impulso a la capacitación de recursos humanos y el uso de materiales y tecnología, a fin de lograr la integración de las personas con discapacidad en las actividades culturales; y el fomento en la elaboración de materiales de lectura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### Artículo 57°.
 
-La Secretaría de Turismo promoverá el derecho de las personas con discapacidad para acceder a los servicios turísticos, recreativos o de esparcimiento. Para tales efectos, realizará las siguientes acciones:
+La Secretaría de Desarrollo Económico, Competitividad y Turismo promoverá el derecho de las personas con discapacidad para acceder a los servicios turísticos, recreativos o de esparcimiento. Para tales efectos realizará las siguientes acciones:
 
-I. Establecer, en coordinación con la Secretaría de Infraestructura y demás autoridades competentes, programas y normas a fin de que la infraestructura destinada a brindar servicios turísticos en el territorio estatal cuente con facilidades de accesibilidad universal;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+I. Establecer, en coordinación con la Secretaría de Infraestructura y Transporte y demás autoridades competentes, programas y normas a fin de que la infraestructura destinada a brindar servicios turísticos en el territorio estatal cuente con facilidades de accesibilidad universal;
 
 II. Establecer programas para la promoción turística de las personas con discapacidad, y
 
@@ -1168,3 +1180,15 @@ P.O. 1 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO (SIC) DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
