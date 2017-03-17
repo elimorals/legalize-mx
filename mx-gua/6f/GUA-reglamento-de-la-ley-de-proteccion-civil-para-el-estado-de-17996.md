@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-proteccion-civil-para-el-estado-de-1799
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-19"
-last_updated: "2001-06-29"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE PROTECCION CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 19 de septiembre de 2000.
 
@@ -653,7 +653,7 @@ d).- Grúas;
 
 e).- Remolques;
 
-f).-De apoyo logístico; y
+f).- De apoyo logístico; y
 
 g).- Otros, especificando el tipo de que se trate.
 
@@ -1129,7 +1129,7 @@ c) Definición clara de la queja; ubicación, definición, tipo, y alcance; y
 
 d) Cualquier otro dato requerido por la autoridad receptora de la queja.
 
-###### Articulo 76.
+###### Artículo 76.
 
 Cuando los representantes de la autoridad receptora ejecuten inspecciones para confirmación de los hechos que dan origen a la queja se identificarán claramente ante quien se presenten informándole que existe una queja y anotando claramente los datos que le sean proporcionados, así mismo se abstendrán de proporcionar el nombre del denunciante, debiendo levantar acta de los hechos encontrados recabando la firma de quien atiende la diligencia, si tal firma fuera negada será anotado en el acta.
 
@@ -1219,7 +1219,7 @@ Sin embargo, podrá ser revisado con anterioridad al lapso temporal mencionado, 
 
 ### CAPITULO SEGUNDO. DE LA DECLARATORIA DE EMERGENCIA
 
-###### Articulo 84.
+###### Artículo 84.
 
 El Titular del Poder Ejecutivo Estatal, tiene el derecho exclusivo de dictar la declaratoria de emergencia en los casos que sean aplicables conforme a lo establecido en la Ley y en el presente Reglamento, la cual será comunicada al Consejo Estatal y ordenará se publique en el Periódico Oficial del Gobierno del Estado y se difunda a través de los medios de comunicación.
 
@@ -1269,7 +1269,7 @@ Para la determinación y aplicación de medidas preventivas en materia de Protec
 
 Para los efectos de atención a cada uno de los riesgos, la Unidad Estatal emitirá Normas Técnicas correspondientes, en la cual se especificarán todos los aspectos técnicos, características, particularidades efectos previsibles y áreas de vulnerabilidad de cada uno de los riesgos citados.
 
-###### Articulo 95.
+###### Artículo 95.
 
 La Unidad Estatal promoverá y conformará comités multidisciplinarios e interinstitucionales que coadyuven a la atención de situaciones de alto riesgo, desastre, o emergencia. Para tal efecto, la Unidad elaborará los Procedimientos operativos y las reglas que rijan cada comité.
 
@@ -1331,7 +1331,7 @@ e) Los requisitos aplicables que se deriven de los ordenamientos en la materia.
 
 De todos los datos compilados por la Unidad Estatal o proporcionados por las Unidades Municipales, Unidades Internas, grupos de apoyo, industrias, comercios, servicios así como la propia ciudadanía, la Unidad Estatal de Protección Civil desarrollará el Atlas Estatal de Riesgos para el Estado de Guanajuato.
 
-###### Articulo 101.
+###### Artículo 101.
 
 La información contenida en el Atlas de Riesgos deberá cubrir: Origen, causas, mecanismos de formación, localización, alcances estadísticos de riesgos, siniestros, desastres y emergencias, a fin de poder evaluar el peligro que representan a la población sus bienes y entorno todo ello, con el fin de diseñar y establecer las medidas para evitar y minimizar o eliminar sus efectos.
 
@@ -1405,7 +1405,7 @@ Las personas a las que se refiere el artículo anterior podrán elaborar los pro
 
 La Unidad Estatal coordinará el Monitoreo y recibirá reportes sobre la situación que guardan los servicios vitales. Los sistemas estratégicos y en general del Estado, durante todas las horas y días del año.
 
-###### Articulo 114.
+###### Artículo 114.
 
 Los responsables de los servicios vitales y de los sistemas estratégicos asentados en el Estado de Guanajuato, así, como las dependencias, Órganos desconcentrados y entidades de la administración pública Federal o Estatal, deberán proporcionar a la Unidad Estatal la información que ésta requiera.
 
@@ -1539,11 +1539,11 @@ Corresponde al Ejecutivo del Estado por conducto de la Unidad Estatal de Protecc
 
 En lo que corresponde al ámbito Municipal, las funciones de inspección, vigilancia y sanción corresponderán al Presidente Municipal por conducto de la Unidad Municipal de Protección Civil.
 
-###### Articulo 134.
+###### Artículo 134.
 
 Las inspecciones aplicables conforme a lo marcado en el presente capitulo, se sujetarán a las bases mencionadas en la Ley de Protección Civil para el Estado de Guanajuato.
 
-###### Articulo 135.
+###### Artículo 135.
 
 La Unidad Estatal de Protección Civil de conformidad con los resultados de la inspección y de la verificación a que alude el Artículo 130 del presente reglamento, solicitará y promoverá ante las autoridades competentes la ejecución de las medidas y acciones que se requieran para la atención de situaciones de alto riesgo, siniestro, emergencia o desastre.
 
@@ -1603,7 +1603,7 @@ La Unidad Estatal de Protección Civil en coordinación con las unidades municip
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2001)</small>
 
-###### Articulo 141-B.
+###### Artículo 141-B.
 
 La unidad estatal de protección civil de manera conjunta con la Dirección General de Tránsito y Transporte llevará a cabo una campaña permanente de vigilancia y verificación de las unidades del transporte público de pasajeros que estén autorizados para utilizar gas L.P. o natural así como para detectar a aquellas unidades que utilizan dicho combustible sin la autorización respectiva.
 
@@ -1615,7 +1615,9 @@ La contravención a las disposiciones de la Ley y del presente reglamento, dará
 
 I.- Apercibimiento;
 
-II.- Multa de treinta a quinientas veces el salario mínimo general diario vigente en la entidad;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+II.- Multa de treinta a quinientas veces la Unidad de Medida y Actualización diaria;
 
 III.- Clausura temporal o definitiva, parcial o total; y
 
@@ -1792,3 +1794,9 @@ EL PRESENTE DECRETO GUBERNATIVO ENTRARÁ EN VIGOR EL CUARTO DÍA SIGUIENTE AL DE
 ###### ARTÍCULO SEGUNDO.
 
 SE DEROGAN TODAS LAS DISPOSICIONES ADMINISTRATIVAS QUE SE OPONGAN AL PRESENTE DECRETO GUBERNATIVO.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 184, MEDIANTE EL CUAL, SE REALIZA LA MODIFICACIÓN MÚLTIPLE, A FIN DE ADECUAR LA REFERENCIA QUE EN REGLAMENTOS Y DECRETOS SE HACE AL SALARIO MÍNIMO, PARA REFERENCIARLO A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
