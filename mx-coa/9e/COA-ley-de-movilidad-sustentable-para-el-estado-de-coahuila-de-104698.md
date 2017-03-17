@@ -4,7 +4,7 @@ identifier: "COA-ley-de-movilidad-sustentable-para-el-estado-de-coahuila-de-1046
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2014-12-26"
+last_updated: "2017-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 26 de diciembre de 2014.
 
@@ -113,11 +113,15 @@ VI. Conductores de transporte particular automotor.
 
 Son autoridades en materia de movilidad sustentable:
 
-I. El Jefe del Ejecutivo
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-II. La Secretaría de Infraestructura.
+I. La persona titular del ejecutivo.
 
-III. La Secretaría (sic) Gestión Urbana, Agua y Ordenamiento Territorial
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+II. La Secretaría de Infraestructura y Transporte.
+
+III. (DEROGADA, P.O. 17 DE MARZO DE 2017)
 
 IV. La Secretaría de Medio Ambiente; y,
 
@@ -251,13 +255,19 @@ XV. Las demás que determine el Reglamento interior del Consejo.
 
 El Consejo se integrará de la siguiente forma:
 
-I. El Gobernador del Estado, quien lo presidirá.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-II. El Secretario de Infraestructura.
+I. La persona titular del Ejecutivo del Estado, quien lo presidirá.
 
-III. El Secretario de Gestión Urbana, Agua y Ordenamiento Territorial.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-IV. El Secretario de Medio Ambiente.
+II. La persona titular de la Secretaría de Infraestructura y Transporte.
+
+III. (DEROGADA, P.O. 17 DE MARZO DE 2017)
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+IV. La persona titular de la Secretaría de Medio Ambiente.
 
 V. Cinco presidentes municipales, quienes serán electos por los 38 alcaldes de la entidad, en reunión que a tal efecto deberán de celebrar en los términos del reglamento.
 
@@ -1020,3 +1030,17 @@ EL SECRETARIO DE GESTIÓN URBANA, AGUA Y ORDENAMIENTO TERRITORIAL
 GERARDO GARZA MELO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO (SIC) DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
