@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-en-materia-de-servicios-de-seguridad-privada-74427"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-30"
-last_updated: "2010-03-30"
+last_updated: "2017-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "GUA"
 
 REGLAMENTO EN MATERIA DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 30 de marzo de 2010.
 
 Juan Manuel Oliva Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confiere el artículo 77 fracciones II y III de la Constitución Política para el Estado de Guanajuato; en observancia de lo dispuesto por los artículos 2º. y 9º. de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, y en cumplimiento del artículo Cuarto Transitorio de la Ley de Seguridad Pública del Estado de Guanajuato.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -137,7 +139,7 @@ I. El Secretario;
 
 II. La Dirección; y
 
-III. EIINECIPE.
+III. El INECIPE.
 
 Autoridades del ámbito municipal
 
@@ -637,7 +639,7 @@ Centros Privados de Capacitación
 
 ###### Artículo 45.
 
-Para obtener la acreditación del lNECIPE, las personas jurídico colectivas deberán:
+Para obtener la acreditación del INECIPE, las personas jurídico colectivas deberán:
 
 I. Exhibir la documentación que acredite su existencia legal;
 
@@ -817,7 +819,9 @@ Las sanciones aplicables de conformidad con lo establecido en el artículo 124 d
 
 I. Apercibimiento;
 
-II. Multa desde cien hasta diez mil salarios mínimos vigentes en el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+II. Multa desde cien hasta diez mil Unidades de Medida y Actualización diaria;
 
 III. Clausura temporal, la que podrá ser de tres días hasta seis meses;
 
@@ -888,3 +892,11 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 MIGUEL PIZARRO ARZATE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 184, MEDIANTE EL CUAL, SE REALIZA LA MODIFICACIÓN MÚLTIPLE, A FIN DE ADECUAR LA REFERENCIA QUE EN REGLAMENTOS Y DECRETOS SE HACE AL SALARIO MÍNIMO, PARA REFERENCIARLO A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
