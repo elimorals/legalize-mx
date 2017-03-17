@@ -4,7 +4,7 @@ identifier: "COA-ley-que-establece-el-derecho-de-via-de-las-carreteras-y-110152"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-02"
-last_updated: "2015-10-02"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE ESTABLECE EL DERECHO DE VÍA DE LAS CARRETERAS Y CAMINOS LOCALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 2 de octubre de 2015.
 
@@ -43,9 +43,11 @@ LEY QUE ESTABLECE EL DERECHO DE VÍA DE LAS CARRETERAS Y CAMINOS LOCALES DEL EST
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y tiene por objeto fijar el derecho de vía en los caminos y carreteras locales, así como reglamentar las atribuciones de la Secretaría de Infraestructura, relativas a la preservación, control, vigilancia, regulación y administración del uso y aprovechamiento del derecho de vía de carreteras estatales.
+La presente Ley es de orden público y tiene por objeto fijar el derecho de vía en los caminos y carreteras locales, así como reglamentar las atribuciones de la Secretaría de Infraestructura y Transporte, relativas a la preservación, control, vigilancia, regulación y administración del uso y aprovechamiento del derecho de vía de carreteras estatales.
 
 ###### Artículo 2.
 
@@ -55,9 +57,13 @@ I. Las construidas por el Estado;
 
 II. Las convenidas con la federación, los municipios o los particulares;
 
-III. Las sujetas a conservación y mantenimiento por parte de la Secretaría de Infraestructura; y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-IV. Las administradas por la Secretaría de Infraestructura.
+III. Las sujetas a conservación y mantenimiento por parte de la Secretaría de Infraestructura y Transporte;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+IV. Las administradas por la Secretaría de Infraestructura y Transporte.
 
 ###### Artículo 3.
 
@@ -111,7 +117,9 @@ XXIII. Permiso. Documento que otorga la Secretaría para hacer uso o aprovechami
 
 XXIV. S.C.T. Secretaría de Comunicaciones y Transportes;
 
-XXV. Secretaría. Secretaría de Infraestructura;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+XXV. Secretaría. Secretaría de Infraestructura y Transporte;
 
 XXVI. Señal informativa. Letrero, estructura o símbolo en postes con o sin iluminación propia, colocado o pintado en el derecho de vía, que tiene por objeto guiar al usuario a lo largo de su itinerario por la carretera, a lugares de interés o de prestación de servicios.
 
@@ -682,3 +690,17 @@ EL SECRETARIO DE GESTIÓN URBANA, AGUA Y ORDENAMIENTO TERRITORIAL
 GERARDO GARZA MELO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
