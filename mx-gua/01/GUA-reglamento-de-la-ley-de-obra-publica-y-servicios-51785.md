@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-obra-publica-y-servicios-51785"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-20"
-last_updated: "2012-12-07"
+last_updated: "2017-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el miércoles 20 de septiembre de 2006.
 
 Juan Carlos Romero Hicks, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II y III, y 79 de la Constitución Política para el Estado de Guanajuato; y en observancia de lo dispuesto por los artículos 2, 3, 6 y 9 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los preceptos legales previamente referidos, he tenido a bien expedir el siguiente:
 
@@ -1773,7 +1775,9 @@ Los índices que servirán para el cálculo de los ajustes de costos en el contr
 
 Los precios originales de los insumos considerados por el licitador, deberán ser los que prevalezcan al momento de la presentación y apertura de las propuestas y no podrán modificarse o sustituirse por ninguna variación que ocurra entre la fecha de su presentación y el último día del mes del ajuste.
 
-En el caso de la mano de obra, a la plantilla del personal se le aplicarán las variaciones que determine la Comisión Nacional de Salarios Mínimos, para los salarios mínimos generales promedio de la zona a que pertenece el Estado.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+En el caso de la mano de obra, a la plantilla del personal se le aplicarán las variaciones que determine la Comisión Nacional de Salarios Mínimos, para los salarios mínimos generales.
 
 ###### Artículo 134.
 
@@ -2413,9 +2417,11 @@ Aquellos trabajos que se lleven a cabo con personal, con materiales existentes e
 
 Los entes públicos podrán contratar el gerenciamiento de proyectos, lo que consistirá en los servicios parciales o integrados necesarios para la planeación, organización, dirección, coordinación, vigilancia, seguimiento y control de un proyecto, incluyendo su diseño, así como la administración de los recursos humanos, materiales y financieros.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### Artículo 183.
 
-Los ajustes de costos que, en su caso, procedan para los contratos de servicios se realizarán aplicando los índices a que se refiere el artículo 104, fracción IV, de la Ley. En el caso de la mano de obra, a la plantilla del personal se le aplicarán las variaciones que determine la Comisión Nacional de Salarios Mínimos, para los salarios mínimos generales promedio de la zona a que pertenece el Estado.
+Los ajustes de costos que, en su caso, procedan para los contratos de servicios se realizarán aplicando los índices a que se refiere el artículo 104, fracción IV, de la Ley. En el caso de la mano de obra, a la plantilla del personal se le aplicarán las variaciones que determine la Comisión Nacional de Salarios Mínimos, para los salarios mínimos generales.
 
 ###### Artículo 184.
 
@@ -2639,8 +2645,14 @@ EL SECRETARIO DE OBRA PÚBLICA
 
 JOSÉ RICARDO ORTÍZ GUTIERREZ
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 7 DE DICIEMBRE DE 2012.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 184, MEDIANTE EL CUAL, SE REALIZA LA MODIFICACIÓN MÚLTIPLE, A FIN DE ADECUAR LA REFERENCIA QUE EN REGLAMENTOS Y DECRETOS SE HACE AL SALARIO MÍNIMO, PARA REFERENCIARLO A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
