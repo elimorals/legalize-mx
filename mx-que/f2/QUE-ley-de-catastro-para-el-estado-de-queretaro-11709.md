@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-catastro-para-el-estado-de-queretaro-11709"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-20"
-last_updated: "1997-03-20"
+last_updated: "2017-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Ley Publicada en el Periódico Oficial del Estado "La Sombra de Artega", el 20 de marzo de 1997.
 
@@ -713,7 +713,7 @@ La Dirección de Catastro deberá publicar en el mes de enero de cada año en el
 
 ###### ARTICULO 78.
 
-La Dirección de Catastro, con la aprobación del Consejo Catastral Estatal, fijará las normas técnicas de valuación de uso interno, a las que deberán sujetarse los peritos valuadores en el ejercicio de sus funciones.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO, P.O. 17 DE MARZO DE 2017)
 
 ### CAPITULO X. DE LAS INFRACCIONES Y SANCIONES
 
@@ -854,3 +854,23 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 LIC. ALEJANDRO ESPINOSA MEDINA.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se deroga el artículo 78 de la Ley de Catastro para el Estado de Querétaro.
+
+Artículo Tercero. Se derogan todas las disposiciones legales vigentes de igual o menor jerarquía en la materia que resulten contrarias a la presente Ley.
+
+Artículo Cuarto. El titular del Poder Ejecutivo del Estado de Querétaro, en uso de sus facultades, emitirá las disposiciones reglamentarias de la presente Ley.
+
+Artículo Quinto. Por única ocasión, el titular del Poder Ejecutivo del Estado designará a los integrantes de la Comisión de Valuadores del Estado, cuyas funciones tendrán una duración de dos años a partir de su nombramiento.
+
+Artículo Sexto. Los registros y autorizaciones expedidas en fecha anterior a la vigencia de la presente Ley, serán válidas y reconocidas en los términos exclusivamente en que fueron expedidos.
+
+Artículo Séptimo. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su promulgación y publicación en el Periódico Oficial de Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
