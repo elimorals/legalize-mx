@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-96562"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-07"
-last_updated: "2013-12-06"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el jueves 7 de noviembre del 2013.
 
@@ -79,7 +79,7 @@ V. Instituto: El Instituto Coahuilense de Acceso a la Información Pública;
 
 VII. Municipios: Los Municipios del Estado de Coahuila de Zaragoza; y
 
-VIII. Tesorerías Municipales: Las tesorerías de cada uno de los Municipios del Estado de Coahuila de Zaragoza; (sic)
+VIII. Tesorerías Municipales: Las tesorerías de cada uno de los Municipios del Estado de Coahuila de Zaragoza;
 
 ###### ARTÍCULO 3.
 
@@ -165,7 +165,7 @@ Los productos se regularán además por lo que en su caso prevengan los contrato
 
 Se considera domicilio fiscal, el señalado por los contribuyentes en los registros fiscales municipales; o en su defecto:
 
-I. Tratándose de personas, físicas:
+I. Tratándose de personas físicas:
 
 a). El local que utilicen para el desempeño de sus actividades
 
@@ -565,9 +565,13 @@ Estas adquisiciones no estarán sujetas a las disposiciones previstas por el art
 
 Para los efectos de esta sección, se considera como unidad habitacional tipo popular, aquélla en que el terreno no exceda de 200 metros cuadrados y tenga una construcción inferior a 105 metros cuadrados.
 
-I. Por vivienda nueva de interés social, aquélla cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por 15 el salario mínimo general vigente en el Estado elevado al año.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-II. Por vivienda popular nueva, aquélla cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por 25 el salario mínimo general vigente en el Estado elevado al año.
+I. Por vivienda nueva de interés social, aquélla cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por 15 el valor de una unidad de medida y actualización elevada al año.
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+II. Por vivienda popular nueva, aquélla cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por 25 el valor de una unidad de medida y actualización elevada al año.
 
 III. Por unidad habitacional tipo popular, aquélla en que el terreno no exceda de 200 metros cuadrados y tenga una construcción inferior a 105 metros cuadrados.
 
@@ -3057,9 +3061,11 @@ Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales,
 
 Cuando una notificación se haga en forma distinta a la señalada en los artículos anteriores, serán nulificadas de oficio o a petición de parte por la autoridad fiscal que la emitió, previa investigación y comprobación necesarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 377.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento la cantidad equivalente a dos días de salario mínimo vigente en la entidad, por concepto de honorarios de notificación.
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento la cantidad equivalente a dos unidades de medida y actualización, por concepto de honorarios de notificación.
 
 Para los efectos de este artículo, la autoridad recaudadora los determinará conjuntamente con la notificación y se pagará al cumplir con el requerimiento.
 
@@ -3507,7 +3513,9 @@ Las autoridades fiscales que al ejercer las facultades de comprobación conozcan
 
 Las autoridades fiscales podrán emplear cualquiera de los siguientes medios de apremio que juzguen eficaces, para hacer cumplir sus determinaciones:
 
-I. La multa de diez hasta cien veces el salario mínimo diario vigente en el municipio.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+I. La multa de diez hasta cien unidades de medida y actualización.
 
 II. El auxilio de la fuerza pública.
 
@@ -3799,7 +3807,9 @@ En caso de no fincarse el remate en la segunda almoneda, se considerará que el 
 
 El remate deberá ser convocado para una fecha fijada dentro de los 30 días siguientes a aquélla en que se determinó el precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos 10 días antes del remate, fijándose para tal efecto en un sitio visible y usual de la oficina ejecutora y en lugares públicos, de así estimarse conveniente.
 
-En los casos en que el valor de los bienes exceda de una cantidad equivalente a cinco veces el salario mínimo general vigente en el Estado, elevado al año, la convocatoria se publicará en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación, por una sola vez, cuando menos diez días antes de la fecha del remate.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+En los casos en que el valor de los bienes exceda de una cantidad equivalente a cinco unidades de medida y actualización elevadas al año, la convocatoria se publicará en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación, por una sola vez, cuando menos diez días antes de la fecha del remate.
 
 ###### ARTÍCULO 454.
 
@@ -3917,9 +3927,13 @@ II. Por la de embargo, incluyendo el que se efectúe en forma precautoria y el r
 
 III. Por la del remate, enajenación fuera de remate o adjudicación al Fisco Municipal.
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito fiscal sea inferior a dos salarios mínimos de la zona económica a la que pertenezca el municipio, se cobrará esta cantidad en vez del 2% del crédito.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un día del salario mínimo de la zona económica al que pertenezca el Municipio elevado al año.
+Cuando en los casos de las fracciones anteriores, el 2% del crédito fiscal sea inferior a dos unidades de medida y actualización, se cobrará esta cantidad en vez del 2% del crédito.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a una unidad de medida y actualización, elevada al año.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución los que únicamente comprenderán los de transporte de los bienes embargados; de avalúos, de impresión y publicación de convocatorias y edictos, de inscripciones o cancelaciones en el registro público a que corresponda, los erogados por la obtención del certificado de libertad de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los inspectores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
 
@@ -4115,9 +4129,11 @@ II. Consigne en las declaraciones que presente para fines fiscales, ingresos o u
 
 III. Proporcione con falsedad a las autoridades fiscales que los requieran, datos que obren en su poder y que sean necesarios para determinar las contribuciones.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 487.
 
-El delito de defraudación fiscal se sancionará con prisión de tres meses a dos años si el monto de lo defraudado o que se intentó defraudar es interior a dos veces el salario mínimo diario vigente en el municipio elevado al año; con prisión de dos a cuatro años, si dicho monto equivale a más de dos veces el salario mínimo diario elevado al año.
+El delito de defraudación fiscal se sancionará con prisión de tres meses a dos años si el monto de lo defraudado o que se intentó defraudar es inferior a dos unidades de medida y actualización elevadas al año; con prisión de dos a cuatro años, si dicho monto equivale a más de dos unidades de medida y actualización elevadas al año.
 
 ###### ARTÍCULO 488.
 
@@ -4127,9 +4143,11 @@ Cuando los procesados a que se refiere esta Sección paguen las contribuciones o
 
 Comete el delito de rompimiento de sellos en materia fiscal quien, sin autorización legal, altere o destruya los aparatos de control, sellos o marcas oficiales colocados con finalidad fiscal, o impida por medio de cualquier maniobra, que se logre el propósito para el que fueron colocados.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 490.
 
-Al que cometa el delito de rompimiento de sellos se le impondrá la pena de dos meses a seis años de prisión y multa de cien a doscientas veces el salario mínimo diario vigente en el municipio.
+Al que cometa el delito de rompimiento de sellos se le impondrá la pena de dos meses a seis años de prisión y multa de cien a doscientas unidades de medida y actualización.
 
 ###### ARTÍCULO 491.
 
@@ -4377,7 +4395,7 @@ JORGE EDUARDO VERÁSTEGUI SAUCEDO
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 6 DE DICIEMBRE DE 2013.
 
@@ -4392,3 +4410,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 767.- SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 55, EL PÁRRAFO PRIMERO DEL ARTÍCULO 377, LA FRACCIÓN I DEL ARTÍCULO 420, EL PÁRRAFO ÚLTIMO DEL ARTÍCULO 453, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 467 ASÍ COMO LOS ARTÍCULOS 487 Y 490 DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
