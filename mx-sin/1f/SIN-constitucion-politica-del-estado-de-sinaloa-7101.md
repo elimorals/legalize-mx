@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2017-03-15"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -137,7 +137,7 @@ V. (DEROGADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)
 
 Las personas de la tercera edad y las que tengan capacidades diferentes deben recibir apoyo y protección permanentes. El Estado y los municipios establecerán un sistema permanente de apoyo a las personas de la tercera edad para permitirles una vida digna y decorosa; y, promoverán la habilitación, rehabilitación e integración de las personas con capacidades diferentes con el objeto de facilitar su pleno desarrollo.
 
-Toda persona que habite o transite en el territorio del Estado, sin importar su procedencia o condición migratoria, será tratado humanamente y con el respeto debido a la dignidad inherente al ser humano y a su identidad cultural.
+Toda persona que habite o transite en el territorio del Estado, sin importar su procedencia o condición migratoria, será tratado (sic) humanamente y con el respeto debido a la dignidad inherente al ser humano y a su identidad cultural.
 
 VI. Todo individuo tiene libertad de investigación científica y de creación, interpretación y difusión cultural, así como derecho a obtener los beneficios que le corresponda por razón de las producciones científicas, literarias o artísticas de que sea autor. El Estado conservará el patrimonio cultural y apoyará las iniciativas individuales y colectivas que contribuyan al desarrollo de la cultura, especialmente la práctica y expresiones artísticas que arraiguen valores nacionales y locales.
 
@@ -417,7 +417,9 @@ En caso de nulidad de la elección, se convocará a una elección extraordinaria
 
 La organización de las elecciones locales es una función estatal que se realiza a través del Instituto Electoral del Estado de Sinaloa, en coordinación con el Instituto Nacional Electoral.
 
-El Instituto Electoral del Estado de Sinaloa es un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, en cuya integración concurren los partidos políticos y los ciudadanos. En el ejercicio de sus funciones serán principios rectores los de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género. Será autoridad en la materia, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones. Tendrá a su cargo la preparación, desarrollo, vigilancia de los procesos electorales y, en su caso, la calificación de los mismos, así como la información de los resultados, ejerciendo funciones en las materias siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
+El Instituto Electoral del Estado de Sinaloa es un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, en cuya integración concurren los partidos políticos y los ciudadanos. En el ejercicio de sus funciones serán principios rectores los de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género. Será autoridad en la materia, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. Tendrá a su cargo la preparación, desarrollo, vigilancia de los procesos electorales y, en su caso, la calificación de los mismos, así como la información de los resultados, ejerciendo funciones en las materias siguientes:
 
 I. Derechos y acceso a las prerrogativas de los candidatos y partidos políticos;
 
@@ -448,6 +450,18 @@ El Instituto Electoral del Estado de Sinaloa podrá convenir con el Instituto Na
 El Instituto Electoral del Estado de Sinaloa ejercerá sus funciones en todo el territorio del Estado y estará conformado por un Consejo General, por los Consejos Distritales y Municipales que determine la ley, y por las Mesas Directivas de Casilla.
 
 El Consejo General será el órgano de dirección superior del Instituto y estará integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; así como por un Secretario Ejecutivo y un representante por cada uno de los partidos políticos o coaliciones, quienes solo tendrán derecho a voz.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2017)</small>
+
+Contará con un órgano interno de control, con autonomía técnica y de gestión, que tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2017)</small>
+
+El titular del órgano interno de control del Instituto será designado por el pleno del Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes a propuesta de instituciones públicas de educación superior, en la forma y términos que determine la Ley. Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente a la Presidencia del Instituto y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2017)</small>
+
+La Ley establecerá los requisitos que deberá reunir el titular del órgano interno de control del Instituto.
 
 El Instituto Electoral del Estado de Sinaloa contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán regulados por la ley.
 
@@ -669,31 +683,27 @@ Los Diputados propietarios, durante el período de su encargo y los Suplentes, c
 
 El Congreso del Estado tendrá por cada año de ejercicio constitucional, dos períodos ordinarios de sesiones. El primero iniciará el primero de octubre y concluirá el treinta y uno de enero del siguiente año; y el segundo se abrirá el primero de abril y concluirá el treinta y uno de julio inmediato.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### Art. 37.
 
-En el primer período ordinario de sesiones, el Congreso se ocupará de analizar, discutir y, en su caso, modificar y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos a más tardar el último sábado del mes de noviembre de cada año, a efecto de que puedan regir a partir del primero de enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior. En el supuesto de que la Ley de Ingresos y Presupuesto de Egresos del Estado sea prorrogada, el monto de las partidas del presupuesto de egresos correspondientes al pago de obligaciones derivadas de empréstitos y de contratos de colaboración público privada se ajustará, de manera automática y proporcional, en función de las obligaciones contraídas. El presupuesto de Egresos del Estado deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial; así como los organismos autónomos que esta Constitución o las leyes del Estado reconozcan como tales y las entidades de la administración pública estatal y paraestatal. De igual manera, en este primer período revisará y aprobará en su caso, el primer semestre de la cuenta pública del Gobierno del Estado, correspondiente a los meses de enero a junio, la cual deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
+En el primer período ordinario de sesiones, el Congreso se ocupará de analizar, discutir y, en su caso, modificar y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos a más tardar el último sábado del mes de noviembre de cada año, a efecto de que puedan regir a partir del primero de enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior. En el supuesto de que la Ley de Ingresos y Presupuesto de Egresos del Estado sea prorrogada, el monto de las partidas del presupuesto de egresos correspondientes al pago de obligaciones derivadas de empréstitos y de contratos de colaboración público privada se ajustará, de manera automática y proporcional, en función de las obligaciones contraídas. El presupuesto de Egresos del Estado deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial; así como los organismos autónomos que esta Constitución o las leyes del Estado reconozcan como tales y las entidades de la administración pública estatal y paraestatal.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 Al aprobar el Congreso la Ley de Ingresos y Presupuesto de Egresos del Estado, deberá verificar que se incluyan en la iniciativa de presupuesto de egresos la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos que formen parte de la Administración Pública Paraestatal, derivadas de empréstitos y de contratos de colaboración público privada, celebrados con autorización del Congreso del Estado, durante la vigencia de los mismos. En caso de que, por cualquier circunstancia, se omita considerarlas, se tendrán por incluidas y autorizadas las partidas correspondientes que hubieren sido aprobadas con relación a los mismos en la Ley de Ingresos y Presupuesto de Egresos del ejercicio fiscal inmediato anterior, ajustándose su monto de manera automática en función de las obligaciones contraídas. Si en la Ley de Ingresos y Presupuesto de Egresos del ejercicio fiscal inmediato anterior no se hubieren contemplado partidas para cubrir el pago de obligaciones derivadas de empréstitos o de contratos de colaboración público privada aprobados por el Congreso y en la nueva ley no se consideran, se tendrán por incluidas y autorizadas las partidas que fueren necesarias y suficientes para cubrir su pago en términos de lo previsto en los contratos respectivos.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
 
-Asimismo, en este período revisará y aprobará en su caso, el primer semestre de la cuenta pública de los Municipios que presenten los Ayuntamientos, correspondientes a los meses de enero a junio.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+En el segundo período ordinario de sesiones recibirá la cuenta pública del Gobierno del Estado y la de los Municipios, mismas que deberán de ser enviadas a la legislatura del Estado, a más tardar el 30 de abril, sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio de la Legislatura, conforme a lo establecido en la fracción XXII del artículo 43 de esta Constitución.
 
-En el segundo período ordinario de sesiones revisará y aprobará en su caso, el segundo semestre de la cuenta pública del Gobierno del Estado, correspondiente a los meses de julio a diciembre del ejercicio fiscal del año inmediato anterior, que deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
-También en este período, revisará y aprobará en su caso, el segundo semestre de la cuenta pública de los municipios, que presenten los Ayuntamientos, correspondiente a los meses de julio a diciembre, del ejercicio fiscal del año inmediato anterior.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
-
-El Congreso del Estado revisará, aprobará, hará observaciones o suspenderá y, de proceder, expedirá el finiquito respectivo, por cada semestre del ejercicio fiscal en los casos de las cuentas públicas del estado y de los Municipios.
+El Congreso del Estado revisará, aprobará, hará observaciones o suspenderá y, de proceder, expedirá el finiquito respectivo, por cada ejercicio fiscal en los casos de las cuentas públicas del Estado y de los Municipios.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
 
@@ -703,9 +713,9 @@ Cuando se decrete la suspensión de la aprobación de una cuenta pública, ésta
 
 En caso de que en la revisión de una cuenta pública o de la información sobre aplicación de recursos de cualquier ente fiscalizable, se encuentren irregularidades o hechos que hagan presumir la existencia de delitos o que impliquen responsabilidades de cualquier tipo, la Auditoría Superior del Estado deberá presentar las denuncias o querellas que correspondan ante la Fiscalía General del Estado. De igual forma las presentará ante los órganos de control interno de los Poderes del Estado, de los municipios o de los órganos constitucionales autónomos, según el caso.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
-Los organismos públicos descentralizados y de participación estatal o municipal, deberán remitir la información sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior, en los términos previstos por las leyes, a más tardar quince días antes de la apertura del segundo período ordinario de sesiones.
+Los organismos públicos descentralizados y de participación estatal o municipal, deberán remitir la información sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior, en los términos previstos por las leyes, a más tardar el día 30 de abril del año siguiente al ejercicio fiscal que se refiere.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
 
@@ -813,9 +823,9 @@ XII. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaraci�
 
 XIII. Elegir al ciudadano que deba substituir al Gobernador del Estado, con el carácter de Substituto, o de Interino, en los términos que esta Constitución señala.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal de lo Contencioso Administrativo, mediante los procedimientos que esta Constitución y las leyes respectivas señalen;
+XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal de Justicia Administrativa del Estado, mediante los procedimientos que esta Constitución y las leyes respectivas señalen.
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -827,17 +837,21 @@ XVI. Desempeñar todas las funciones que le encomiende la Ley Electoral para Pod
 
 XVII. Expedir leyes que regulen la seguridad pública en el Estado; establezcan las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública; y señalen la organización y funcionamiento de las instituciones de seguridad pública, así como las reglas para el establecimiento del servicio de carrera en dichas instituciones.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-XVIII. Recibir protesta constitucional a los Diputados al Gobernador y Magistrados del Supremo Tribunal de Justicia del Estado, y a los servidores públicos de su nombramiento que conforme a las leyes no deban otorgar la protesta de otro modo.
+XVIII. Recibir protesta constitucional a los Diputados, al Gobernador, a los Magistrados del Supremo Tribunal de Justicia del Estado y a los Magistrados del Tribunal de Justicia Administrativa del Estado, así como a los servidores públicos que esta Constitución y sus propias leyes lo determinen.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-XIX. Conceder licencia y admitir las renuncias a los Diputados y demás servidores públicos de su propia dependencia, al Gobernador y a los Magistrados del Supremo Tribunal de Justicia.
+XIX. Conceder licencia y admitir las renuncias a los Diputados y demás servidores públicos de su propia dependencia, al Gobernador y a los Magistrados del Supremo Tribunal de Justicia, a los Magistrados del Tribunal de Justicia Administrativa del Estado, así como a los servidores públicos que esta Constitución y sus propias leyes lo determinen.
 
 > <small>(ADICIONADA, P.O. 26 DE MARZO DE 2012)</small>
 
 XIX Bis. Nombrar a propuesta del Órgano de Gobierno, a los servidores públicos del Congreso del Estado hasta el nivel de Director; recibirles la protesta de Ley, removerlos y concederles licencia, en los términos previstos en la Ley Orgánica;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
+
+XIX Bis A. Conocer y resolver sobre las solicitudes de destitución de los magistrados del Tribunal de Justicia Administrativa así como de los servidores públicos que esta Constitución y sus propias leyes lo determinen.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -855,13 +869,17 @@ a) Establecer, mediante la expedición de una ley, las bases conforme a las cual
 
 b) Autorizar al Estado, a los Municipios, a los organismos descentralizados estatales o municipales, a las empresas de participación estatal o municipal mayoritaria y a los fideicomisos públicos que formen parte de la Administración Pública Paraestatal y Paramunicipal; conforme a las bases que se establezcan en la ley y en los casos que impliquen obligaciones que constituyan deuda pública, mediante el voto de la mayoría de sus miembros, la celebración de contratos de colaboración público privada, la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos que les correspondan o, en su caso, de los derechos al cobro de los mismos, respecto al cumplimiento de todo tipo de obligaciones que deriven de dichos contratos o de cualesquier otros actos jurídicos relacionados con los mismos; y para la celebración de las demás modalidades y actos jurídicos que, en términos de lo previsto por la misma, la requieran;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-XXII. Revisar y fiscalizar, por medio de la Auditoría Superior del Estado, las cuentas públicas del Gobierno del Estado y de los Municipios y la aplicación de los recursos públicos estatales o municipales, asignados a los organismos descentralizados de participación estatal o municipal, en los términos previstos por las leyes, y verificar los resultados de su gestión financiera, la utilización del crédito y el cumplimiento de las metas fijadas en los programas y proyectos de presupuestos de egresos.
+XXII. Revisar y fiscalizar la Cuenta Pública del año anterior, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas. La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad. Asimismo, deberán fiscalizar las acciones de los Municipios en materia de fondos, recursos locales y deuda pública. Los informes de auditoría de las entidades estatales de fiscalización tendrán carácter público.
 
-La revisión y fiscalización no se limitará a precisar en la documentación comprobatoria de sus movimientos contables, que sus ingresos y egresos sean los autorizados, sino que se extenderá a la formulación de las observaciones que procedan y a expedir los finiquitos o, en su caso, a dictar las medidas tendientes a fincar las responsabilidades a quienes les sean imputables, y a efectuarles visitas de inspección cuando menos una vez al año.
+La revisión de la Cuenta Pública se realizará a través de la Auditoría Superior del Estado. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
 
-Si del examen que ésta realice aparecieren discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiera exactitud o justificación en los ingresos obtenidos, o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. El mismo procedimiento se seguirá cuando se revisen las cuentas públicas de organismos autónomos, organismos públicos descentralizados, empresas de participación estatal y municipal; así como las demás personas de derecho público de carácter estatal y municipal;
+La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado a más tardar el 30 de abril del año siguiente. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio de la Legislatura, la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoria Superior del Estado contará con el mismo tiempo adicional para la presentación del Informe General Ejecutivo del resultado de la Fiscalización Superior de la Cuenta Pública.
+
+El Congreso del Estado concluirá la revisión de la Cuenta Pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, a que se refiere la Sección V, del Capítulo II, del Título IV de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, seguirá su curso en términos de lo dispuesto en dicha Sección.
+
+El Congreso del Estado evaluará el desempeño de la Auditoría Superior del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2004)</small>
 
@@ -923,7 +941,29 @@ Lo anterior, a solicitud del Presidente de ese organismo y previo Dictamen de pr
 
 XXXV. Elegir al Fiscal General del Estado y objetar su remoción, en los términos que precisa esta Constitución, así como tomarle la protesta de ley.
 
-XXXVI. Todas las demás facultades que las leyes le otorguen.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE MARZO DE 2017)</small>
+
+XXXVI. Ratificar el nombramiento del Secretario encargado del control interno que haya nombrado el Ejecutivo del Estado.
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
+
+XXXVII. Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en esta Constitución que ejerzan recursos públicos.
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
+
+XXXVIII. Expedir la Ley que instituya el Sistema Estatal y Municipal Anticorrupción.
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
+
+XXXIX. Expedir la Ley que establece la estructura orgánica del Tribunal de Justicia Administrativa, y las formalidades que establecen sus facultades, procedimientos, formalidades jurisdiccionales y los medios de impugnación contra sus resoluciones, dotado de plena autonomía para dictar sus fallos, y que establezca su organización, su funcionamiento y los recursos para impugnar sus resoluciones.
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
+
+XL. Expedir la Ley de Responsabilidades Administrativas de los Servidores Públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que éstos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación.
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
+
+XLI. Las demás que las leyes le otorguen.
 
 ###### Art. 44.
 
@@ -1079,41 +1119,57 @@ Cuando por cualquiera causa no pudiere una Legislatura inaugurar un período de 
 
 #### SECCION V. DE LA AUDITORIA SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### Art. 53.
 
-Para dar cumplimiento a sus atribuciones en materia de revisión de cuentas públicas el Congreso del Estado se apoyará en la entidad denominada Auditoría Superior del Estado.
+Para dar cumplimiento a sus atribuciones en materia de revisión y fiscalización de cuentas públicas, el Congreso del Estado se apoyará en el órgano técnico denominado Auditoría Superior del Estado, quien tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
 
-La Auditoría Superior del Estado es el órgano técnico de fiscalización general en la Entidad, bajo la coordinación del Congreso del Estado, cuya función es la revisión y fiscalización de las cuentas públicas del Gobierno del Estado y de los Municipios y de los informes financieros de los organismos descentralizados o de participación estatal o municipal. Para tal efecto gozará de plena independencia y autonomía técnica y de gestión y deberá contar con las áreas, departamentos, equipo profesional y personal suficiente para que cumpla de manera eficaz sus atribuciones; debiendo utilizar para el ejercicio de sus facultades todos los adelantos tecnológicos, profesionales y científicos que se requieran, contando para ello con las partidas presupuestales correspondientes que le asigne el Congreso del Estado. En el desempeño de sus atribuciones, la legalidad, la objetividad, la imparcialidad y el profesionalismo serán principios rectores.
+La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2004)</small>
+La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
+
+La Auditoría Superior del Estado, por lo que corresponde a los trabajos de planeación de las auditorías podrá solicitar información del ejercicio, en curso, respecto de procesos concluidos.
+
+La Auditoría Superior del Estado tendrá a su cargo:
+
+I. Fiscalizar en forma posterior los ingresos, egresos y deuda; las garantías que, en su caso, otorgue el Gobierno Estatal y los Gobiernos Municipales respecto a empréstitos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, y de los entes públicos, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en el ejercicio del presupuesto, a través de los informes que se rendirán en los términos que disponga la ley.
+
+En los términos que establezcan las leyes fiscalizará, en coordinación con la Auditoría Superior de la Federación, las participaciones federales. Asimismo, fiscalizará los recursos públicos que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En el caso de los empréstitos, fiscalizará el destino y ejercicio de los recursos correspondientes.
+
+Podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas federales. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, solo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la ley, derivado de denuncias, la Auditoría Superior del Estado, previa autorización de su Titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado a través de la Comisión de Fiscalización y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
+
+II. Entregar al Congreso del Estado por medio de la Comisión de Fiscalización, el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, el Informe General del Resultado, así como los Informes Individuales de la Revisión y Fiscalización de la Cuenta Pública del Gobierno del Estado y de los Gobiernos Municipales, los cuales se someterán a la consideración del Pleno del Congreso. El Informe General, y los Informes Individuales serán de carácter público y tendrán el contenido que determine la ley, los Informes Individuales incluirán como mínimo el dictamen de su revisión, un apartado específico con las acciones que, derivado de la revisión y fiscalización, la Auditoría Superior del Estado haya realizado, así como las justificaciones y aclaraciones que, en su caso, los entes fiscalizados hayan presentado sobre las mismas. Una vez presentado el Informe General del Resultado, así como los Informes Individuales de la Revisión y Fiscalización de la Cuenta Pública del Gobierno del Estado y de los Gobiernos Municipales, en un plazo no mayor a 30 días naturales y no menor a 20 días naturales, se citará al Auditor Superior del Estado, para comparecer ante el pleno del Congreso, con respecto a la información presentada en dicho informe.
+
+Para tal efecto, de manera previa a la presentación del Informe General y de los Informes Individuales, se darán a conocer a los entes fiscalizados la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado para la elaboración de los Informes Individuales.
+
+El titular de la Auditoría Superior del Estado enviará a las entidades fiscalizadas los Informes Individuales de auditoría que les corresponda, a más tardar a los 10 días hábiles posteriores a que haya sido entregado el Informe Individual de auditoría respectivo al Congreso del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en la ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa, las cuales se sujetarán a los procedimientos y términos que establezca la ley.
+
+La Auditoría Superior del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas. En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoría Superior del Estado las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
+
+Asimismo, la Auditoría Superior del Estado, el primer día hábil posterior al inicio de cada periodo ordinario de sesiones, deberá entregar al Congreso del Estado por medio de la Comisión de Fiscalización, los informes con respecto al estado que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los Informes Individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, la Auditoría incluirá los montos efectivamente resarcidos a la Hacienda Pública Estatal o al patrimonio de los entes públicos fiscalizados, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa.
+
+La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los Informes Individuales y el Informe General al Congreso del Estado a que se refiere esta fracción; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos.
+
+IV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos de los entes fiscalizados, así como a personas físicas y morales.
+
+Los Poderes del Estado, los Ayuntamientos y las demás entidades fiscalizadas facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley. Asimismo, los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
+
+El Poder Ejecutivo del Estado o el Ayuntamiento en su caso, aplicará el procedimiento administrativo de ejecución, para el cobro de indemnizaciones y sanciones pecuniarias que se establezcan por la Auditoria Superior del Estado en los términos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### Art. 54.
 
-La Auditoría Superior del Estado hará la revisión y fiscalización de todas las cuentas públicas que el Gobierno del Estado y los Municipios presenten a la Cámara; establecerá normas, procedimientos, métodos y sistemas de información uniformes y obligatorios para la presentación de las cuentas públicas y resolverá todas las consultas, en el área de su competencia, que le hagan a la misma. Una ley especial reglamentará su organización y funciones.
+El Congreso del Estado designará al titular de la Auditoría Superior del Estado por el voto de las dos terceras partes de sus miembros presentes. La ley determinará el procedimiento para su designación. Dicho titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título VI de esta Constitución.
 
-En el cumplimiento de sus funciones, fiscalizará en forma simultánea y posterior los ingresos y los egresos, el manejo, la custodia y la aplicación de los fondos y los recursos de los poderes del Estado y municipios y sus entes públicos paraestatales y paramunicipales, así como el cumplimiento de los objetivos contenidos en los planes y programas gubernamentales, a través de los informes que se rendirán en los términos que disponga la ley.
+Para ser titular de la Auditoría Superior del Estado se requiere ser mexicano por nacimiento, estar en pleno ejercicio de sus derechos políticos y civiles; tener treinta y cinco años de edad y menos de setenta al día de la designación, o bien no cumplir setenta años durante el ejercicio de sus funciones; gozar de buena reputación personal, haber residido efectivamente en el Estado durante los últimos dos años y no haber sido condenado por delito doloso; no haberse desempeñado durante los dos años anteriores con cargos de nivel de Secretario u homólogos en el Poder Ejecutivo con excepción del encargado de control interno; asimismo no haberse desempeñado como Presidente Municipal, Síndico Procurador o Secretario en los Gobiernos Municipales, Diputado, Secretario General del Congreso o haber sido designado por el Congreso como titular de algún organismo autónomo y, cumplir los requisitos establecidos en la ley.
 
-Sin perjuicio de los informes a que se refiere el párrafo anterior, en situaciones que determine la ley, podrá requerir a los sujetos de fiscalización la presentación de la documentación e informes relativos al ingreso, manejo y aplicación de los recursos públicos a su cargo.
-
-Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al fincamiento de la responsabilidad que corresponda.
-
-Así mismo entregará el informe final del resultado de la revisión de las cuentas públicas al Congreso del Estado, en los términos previstos en esta Constitución. Dentro de dicho informe se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados. Dicho informe final tendrá carácter público.
-
-La Auditoría Superior del Estado, deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo. La ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
-
-También investigará los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos y efectuará visitas domiciliarias, únicamente para exigir la exhibición de libros, base de datos, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas en la ley.
-
-Igualmente determinará los daños y perjuicios que afecten a las haciendas públicas estatal y municipal, al patrimonio de las entidades descentralizadas y al de los organismos autónomos del Estado y fincará directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes. Así mismo, promoverá ante las autoridades competentes el fincamiento de otras responsabilidades, promoverá las acciones de responsabilidad a que se refiere el Título VI de esta Constitución, y podrá formular denuncias, querellas o hacer las promociones que las leyes determinen, en cuyos procedimientos tendrá la intervención que señala la ley.
-
-El Titular de la Auditoría Superior del Estado, será nombrado por el Pleno del Congreso, en la forma prevista por la ley. Durará en su encargo siete años y podrá ser nombrado nuevamente para un periodo más, por una sola vez. Podrá ser removido por el Pleno, exclusivamente, por las causas graves que la ley señale, o por las causas y conforme a los procedimientos previstos en el Título VI de esta Constitución.
-
-Para ser titular de la Auditoría Superior del Estado se requiere ser mexicano por nacimiento, en pleno ejercicio de sus derechos; tener al menos treinta y cinco años de edad; haber residido en el Estado de Sinaloa durante los últimos cinco años; gozar de buena reputación y no haber sido condenado por delito doloso; y cumplir los requisitos establecidos en la ley. Durante su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los docentes y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
-
-Los Poderes del Estado, los Municipios y los sujetos de fiscalización facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones.
-
-El Poder Ejecutivo del Estado o el Ayuntamiento en su caso, aplicarán el procedimiento administrativo de ejecución, para el cobro de indemnizaciones y sanciones pecuniarias que se establezcan por la Auditoría Superior del Estado en los términos de la ley.
+Durante su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo cargo o comisión, salvo los docentes y los no remunerados en asociaciones científicas, artísticas o de beneficencia pública o privada.
 
 ### CAPITULO III. DEL PODER EJECUTIVO
 
@@ -1213,9 +1269,9 @@ IV. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputaci�
 
 V. Facilitar a las autoridades judiciales del Estado, los auxilios que necesiten para el desempeño de sus funciones y excitarlas a que otorguen pronta y debida justicia.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-VI. Presentar al Congreso del Estado, a más tardar el último sábado del mes de noviembre de cada año, el proyecto de Ley de Ingresos y Presupuesto de Egresos para el año siguiente y remitir a más tardar quince días antes de la apertura del primero y segundo período ordinario de sesiones del Congreso del Estado, la cuenta pública en los términos del artículo 37 de esta Constitución.
+VI. Presentar al Congreso del Estado, a más tardar el último sábado del mes de noviembre de cada año, el proyecto de Ley de Ingresos y Presupuesto de Egresos para el año siguiente, así como remitir la cuenta pública del año anterior a más tardar el 30 de abril, sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio de la Legislatura.
 
 VII. Cuidar de que la recaudación e inversión de los caudales públicos se hagan con arreglo a las leyes.
 
@@ -1280,6 +1336,10 @@ XXI Bis C. Informar anualmente al Congreso, sobre el ejercicio de las partidas c
 > <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
 XXII. Participar en el proceso de elección y remoción del Fiscal General del Estado en términos de lo previsto por esta Constitución.
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
+
+XXII Bis. Proponer una terna de aspirantes por cada Magistratura del Tribunal de Justicia Administrativa, ante el Congreso del Estado, a fin de que éste realice la designación correspondiente con el voto de las dos terceras partes de sus miembros presentes.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -1454,6 +1514,10 @@ Comparecerá ante cualquiera de ellos cuando se le cite a rendir cuentas o a inf
 El Fiscal General del Estado, los vicefiscales general, especializados y/o regionales, policías de investigación o demás personal bajo su autoridad, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
 Durante el ejercicio de su cargo, el Fiscal General no podrá desempeñar actividades profesionales que impliquen el ejercicio libre y/o remunerado de su profesión, salvo las actividades docentes, científicas, culturales, de investigación o beneficencia.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2017)</small>
+
+Art. 76 Bis A. Se crea la Fiscalía Especializada en Combate a la Corrupción, la cual tendrá nivel de Vicefiscal General; el Fiscal Especializado en Combate a la Corrupción será designado y removido por el Fiscal General del Estado. El nombramiento y remoción podrán ser objetados por el Congreso del Estado por el voto de las dos terceras partes de sus miembros presentes, en el plazo que fije la Ley, si el Congreso del Estado no se pronunciare en este plazo, se entenderá que no tiene objeción.
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
@@ -1893,19 +1957,35 @@ Los Jueces Menores serán nombrados por el Supremo Tribunal de Justicia y durar�
 
 Para ser Juez Menor se requiere: Ser ciudadano mexicano por nacimiento y sinaloense, en pleno ejercicio de sus derechos, mayor de edad, de notoria buena conducta y tener preferentemente cursada la carrera de Licenciado en Derecho.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE ENERO DE 1976)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2017)</small>
 
-### CAPITULO V. DE LA JURISDICCION ADMINISTRATIVA
+### CAPITULO V. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### Art. 109 Bis.
 
-Se instituye la Jurisdicción Administrativa para conocer de las controversias que se susciten en relación con la legalidad, y, en su caso, la interpretación, cumplimiento y efectos de los actos, procedimientos y disposiciones de naturaleza administrativa emitidos por autoridades del Estado o de los Municipios para lo cual podrán crearse Tribunales Administrativos, dotados de plena autonomía para dictar sus fallos estableciéndose las normas de su organización, funcionamiento, competencia, procedimiento y recursos contra sus resoluciones.
+Se instituye el Tribunal de Justicia Administrativa del Estado, como órgano constitucional autónomo encargado de dirimir las controversias que se susciten entre la administración pública Estatal y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+El Tribunal de Justicia Administrativa se integrará por una Sala Superior conformada por tres Magistraturas y por las Salas Regionales Unitarias que determine la ley.
 
-Los Magistrados del Tribunal de lo Contencioso Administrativo serán elegidos por el Congreso del Estado, de una terna formada mediante el procedimiento que establezca la ley.
+Para ser titular de una Magistratura se requiere:
+
+I. Contar con la ciudadanía mexicana y encontrarse en pleno ejercicio de sus derechos.
+
+II. Poseer título profesional de Licenciatura en Derecho, con una experiencia mínima de cinco años, en materia administrativa o en impartición de justicia.
+
+III. Tener más de treinta años de edad y menos de sesenta y cinco el día de su nombramiento.
+
+IV. Ser de notoria buena conducta.
+
+V. Haber residido efectivamente en el Estado durante los últimos dos años.
+
+VI. No haber sido condenado por la comisión de un delito intencional que hubiere merecido pena corporal.
+
+Las personas titulares de las Magistraturas de la Sala Superior y de las Salas Regionales Unitarias del Tribunal de Justica (sic) Administrativa serán electas, de entre una terna propuesta por el Ejecutivo del Estado, con el voto de las dos terceras partes de los miembros presentes del Congreso.
+
+Su nombramiento será por siete años, prorrogables por otro periodo igual y durante su encargo, sólo podrán ser removidas por causas graves que señale la ley.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2015,11 +2095,51 @@ Art. 109 Bis C. La Reforma Regulatoria es una Política Pública de desarrollo o
 
 El Congreso del Estado mediante una ley creará el Sistema Estatal de Mejora Regulatoria en términos de la Ley General de la materia, así como los instrumentos necesarios para que las leyes emitidas por dicho Congreso y las normas de carácter general que emita cualquier autoridad, entidad, órgano u organismo gubernamental, así como órganos autónomos de ámbito estatal y municipal garanticen beneficios superiores a sus costos y el máximo bienestar para la sociedad, incorporando para ello el uso de las tecnologías de la información.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE MARZO DE 2017)</small>
+
+### CAPITULO IX. DEL SISTEMA ESTATAL Y MUNICIPAL ANTICORRUPCION
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2017)</small>
+
+Art. 109 Bis D. Se instituye el Sistema Estatal Anticorrupción como instancia de coordinación entre las autoridades competentes del Gobierno Estatal y Municipal en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.
+
+Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría del Ejecutivo Estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa del Estado; el presidente de la Comisión Estatal de Acceso a la Información Pública; así como por un representante del Supremo Tribunal de Justicia del Estado y otro del Comité de Participación Ciudadana.
+
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
+
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la ley:
+
+a) El establecimiento de mecanismos de coordinación con el Sistema Nacional Anticorrupción.
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan.
+
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del Gobierno Estatal y Municipal.
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del Gobierno Estatal y Municipal en materia de fiscalización y control de los recursos públicos.
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
+
+Para el funcionamiento del Sistema Estatal Anticorrupción, se deberá cuando menos cumplir con los siguientes requisitos:
+
+I. Deberán contar con una integración y atribuciones equivalentes que las leyes otorgan al Sistema Nacional.
+
+II. Tendrán acceso a la información pública necesaria, adecuada y oportuna para el mejor desempeño de sus funciones.
+
+III. Las recomendaciones, políticas públicas e informes que emita, deberán tener respuesta de los sujetos públicos a quienes se dirija.
+
+IV. Deberán contar con las atribuciones y procedimientos adecuados para dar seguimiento a las recomendaciones, informes y políticas que emitan.
+
+V. Rendirán un informe público a los titulares de los poderes en el que den cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones. Para este efecto deberán seguir las metodologías que emita el Sistema Nacional.
+
+VI. La presidencia de la instancia de coordinación del Sistema Local deberá corresponder al Consejo de Participación Ciudadana.
+
+VII. Los integrantes del Consejo de Participación Ciudadana deberán reunir como mínimo los requisitos previstos en esta Constitución y ser designados mediante un procedimiento análogo al previsto para el Comité de Participación Ciudadana.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 1984)</small>
-
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ## TITULO V. DEL MUNICIPIO LIBRE
 
@@ -2333,19 +2453,23 @@ El Tesorero antes de entrar a ejercer sus funciones, caucionará suficientemente
 
 Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán por la Ley que al efecto expida el Congreso del Estado, acorde a los principios del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2017)</small>
 
-## TITULO VI. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO
+## TITULO VI. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS, PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES O HECHOS DE CORRUPCION, Y PATRIMONIAL DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DEL JUICIO POLITICO
+### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### Art. 130.
 
-Para los efectos de las responsabilidades contenidas en este Título, se entiende por servidor público toda persona física que desempeñe un empleo, cargo o comisión de cualquier naturaleza en alguno de los tres poderes del Gobierno del Estado, en organismos autónomos previstos en esta Constitución y leyes locales, en los Ayuntamientos, así como en los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos del Estado y Municipios en los Ayuntamientos y organismos e instituciones municipales.
+Para los efectos de las responsabilidades contenidas en este Título, se entiende como servidor público a los representantes de elección popular, los funcionarios, empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los Poderes Ejecutivo, Legislativo y Judicial del Estado, organismos descentralizados o desconcentrados, administración pública municipal y paramunicipal, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, asimismo, dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y de deuda pública.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2017)</small>
+
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, de intereses y fiscal ante las autoridades competentes y en los términos que determine la ley.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2367,9 +2491,9 @@ Ningún servidor público del Gobierno del Estado y de los Ayuntamientos tiene d
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
+### CAPITULO II. DEL JUICIO POLITICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
 ###### Art. 132.
 
@@ -2409,9 +2533,9 @@ La Legislatura Local procederá conforme a lo previsto en este Capítulo, tratá
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO IV. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+### CAPITULO III. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 135.
 
@@ -2451,13 +2575,39 @@ La declaratoria de procedencia y la sentencia son inatacables.
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LA PRESCRIPCION
+### CAPITULO IV. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### Art. 138.
 
-La Ley de Responsabilidades de los Servidores Públicos del Estado establecerá las obligaciones de éstos, para que en ejercicio de sus funciones, empleos, cargos y comisiones garanticen la honradez, lealtad, legalidad, imparcialidad y eficiencia; señalará las sanciones que procedan por los actos u omisiones en que incurran y determinará los procedimientos y autoridades competentes para aplicarlas.
+Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
+
+I. Se impondrán, mediante juicio político, las sanciones indicadas en el Capítulo II del Título VI de esta Constitución a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+
+No procede el juicio político por la mera expresión de ideas.
+
+II. La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable. Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+
+III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
+
+Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control y serán resueltas por el Tribunal de Justicia Administrativa que resulte competente. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en el artículo 97 de esta Constitución, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+
+La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
+
+Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución.
+
+IV. El Tribunal de Justicia Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos federales, estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, federales, locales o municipales, siempre que la persona moral obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos en que se advierta que (sic) su utilización de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos a prueba, podrá formular denuncia respecto de las conductas a las que se refiere el presente artículo.
+
+En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
+
+La Auditoría Superior del Estado y la Secretaría del Ejecutivo Estatal responsable del control interno, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa, de conformidad con lo previsto en los artículos 20, Apartado C, fracción VII, y 104, fracción III de la Constitución Política de los Estados Unidos Mexicanos, respectivamente.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2467,7 +2617,9 @@ Las sanciones administrativas se establecerán en proporción a los daños y per
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DISPOSICIONES DIVERSAS
+### CAPITULO V. DE LA PRESCRIPCION
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 140.
 
@@ -2475,11 +2627,13 @@ El juicio político sólo podrá iniciarse durante el período en el que el serv
 
 La acción penal derivada de la responsabilidad por delitos cometidos durante el tiempo del encargo prescribe en el término que fije el Código Penal, pero dicho plazo de prescripción no será inferior a tres años. Tratándose de los servidores públicos mencionados en el Artículo 135, en su segundo y tercer párrafos, el término de prescripción se interrumpe mientras duren en el desempeño de su cargo.
 
-Tratándose de responsabilidades administrativas, la Ley de la materia fijará la prescripción de las sanciones, tomando en cuenta el tipo de actos u omisiones de que se trata y sus consecuencias; pero en caso de actos u omisiones graves, el término de prescripción no será menos de tres años.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+Tratándose de responsabilidades administrativas la ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 138. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
 
 ## TITULO VII
 
-### CAPITULO II. DE LA INVIOLABILIDAD Y REFORMAS DE LA CONSTITUCION
+### CAPITULO I. DISPOSICIONES DIVERSAS
 
 ###### Art. 141.
 
@@ -2741,7 +2895,7 @@ Quedan estrictamente prohibidos en el Estado, todos los juegos de azar. Para ext
 
 (DEROGADO, P.O. 26 DE MAYO DE 2008)
 
-### CAPITULO VIII. DECOMISO DE BIENES PRODUCTO DEL ENRIQUECIMIENTO ILICITO
+### CAPITULO II. DE LA INVIOLABILIDAD Y REFORMAS DE LA CONSTITUCION
 
 ###### Art. 158.
 
@@ -2815,7 +2969,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 13 DE NOVIEMBRE DE 1928.
 
-LA MODIFICACION CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN LOS ARTÍCULOS 3° Y 4° DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN LOS ARTÍCULOS 3° Y 4° DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 P.O. 31 DE MAYO DE 1930.
 
@@ -3303,7 +3457,7 @@ En tanto se expidan las Leyes que reglamenten el contenido y alcance del present
 
 P.O. 27 DE ENERO DE 1984.
 
-DECRETO No. 24 POR EL SE REFORMA EL TÍTULO VI; LOS ARTÍCULOS 43 FRACCIÓN XX, 95 PRIMER PÁRRAFO, 102 PRIMER PÁRRAFO, 104 FRACCIONES I, II Y III, 106, 144 PRIMER PÁRRAFO, 145,146,149 Y 155; Y SE DEROGA EL ARTÍCULO 98 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA.
+DECRETO No. 24 POR EL SE REFORMA EL TÍTULO VI; LOS ARTÍCULOS 43 FRACCIÓN XX, 95 PRIMER PÁRRAFO, 102 PRIMER PÁRRAFO, 104 FRACCIONES I, II Y III, 106, 144 PRIMER PÁRRAFO, 145, 146, 149 Y 155; Y SE DEROGA EL ARTÍCULO 98 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA.
 
 ###### ARTICULO PRIMERO.
 
@@ -3993,17 +4147,31 @@ P.O. 15 DE MARZO DE 2017.
 
 Único.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, "El Estado de Sinaloa".
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 192.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 9, 58 EN SU CUARTO PÁRRAFO Y DEROGA DEL ARTÍCULO 69, LA FRACCIÓN V, EL CAPÍTULO XVII DENOMINADO "NO EJERCICIO DE LA ACCIÓN PENAL" DEL TÍTULO QUINTO DEL LIBRO PRIMERO Y EL ARTÍCULO 106 QUINTUS, EL CAPÍTULO II DENOMINADO "SECUESTRO" DEL SUBTÍTULO TERCERO, DEL TÍTULO TERCERO, ASÍ COMO LOS ARTÍCULOS 259, 260 Y 261 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; Y REFORMA LA DENOMINACIÓN "LEY DE INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO", EL ARTÍCULO 2, LAS FRACCIONES IV Y XVII DEL ARTÍCULO 3, EL APARTADO B DE LA FRACCIÓN I DEL ARTÍCULO 4, EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 10, LOS ARTÍCULOS 11, 12, 13, 14, 15, 16, 17 EN SU PRIMER PÁRRAFO, 18, 19, 20 EN SU SEGUNDO PÁRRAFO, 22, 23, 24 Y 25 Y SE DEROGAN LA FRACCIÓN III DEL ARTÍCULO 3, EL CAPÍTULO III DENOMINADO "DE LA CONMUTACIÓN DE LA PENA" Y LOS ARTÍCULOS 6, 7, 8 Y 9 DE LA LEY DEL INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO; Y DEROGA EL ARTÍCULO 192 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO".]
+P.O. 17 DE MARZO DE 2017.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 96 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones jurídicas vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+SEGUNDO. Se derogan las disposiciones jurídicas que contravengan lo dispuesto en el presente Decreto.
 
-CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+TERCERO. El Congreso del Estado, dentro del plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, deberá aprobar la ley a que se refiere la fracción XXXVIII del artículo 43 de esta Constitución, así como las reformas a la legislación a que se refieren las fracciones XXII, XXXIX y XL de dicho artículo; asimismo, deberá realizar las adecuaciones necesarias a la Ley Orgánica de la Administración Pública del Estado de Sinaloa.
 
-G.G. 30 DE MAYO DE 2017.
+CUARTO. El Ejecutivo del Estado con el objeto de que la Secretaría responsable del control interno asuma las facultades necesarias para el cumplimiento de lo previsto en el presente Decreto y en las leyes que derivan del mismo, deberá realizar las adecuaciones al Reglamento Orgánico de la Administración Pública del Estado de Sinaloa y Reglamentos Interiores correspondientes.
+
+QUINTO. Los titulares de los órganos a que se refieren las adiciones y reformas que establece el presente Decreto en las fracciones XXXVII del Artículo 43, que se encuentren en funciones a la entrada en vigor del mismo, continuarán en su encargo durante el periodo para el cual fueron nombrados. En caso de que tal nombramiento se haya otorgado por tiempo indeterminado, la designación de nuevo titular deberá realizarse dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen a los artículos 53, 109 Bis, 109 Bis D, 130, 138 y 140, entrarán en vigor en la misma fecha en que lo hagan las leyes a que se refiere el Transitorio Tercero del presente Decreto.
+
+SÉPTIMO. En tanto se expiden y reforman las leyes a que se refiere el Tercero Transitorio, continuará aplicándose la legislación en materia de responsabilidades administrativas de los servidores públicos y de fiscalización y control de recursos públicos.
+
+OCTAVO. El nombramiento de las personas titulares de las Magistraturas del Tribunal de Justicia Administrativa deberá realizarse con la debida anticipación a la conclusión del periodo de nombramiento de las actuales Magistraturas del Tribunal de lo Contencioso Administrativo, en acatamiento a lo dispuesto por el tercer párrafo del artículo octavo transitorio del Decreto por el que se Reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación de fecha 27 de mayo de 2015.
+
+El Tribunal de lo Contencioso Administrativo del Estado de Sinaloa continuará funcionando con su organización y facultades actuales y substanciando los asuntos que actualmente se encuentran en trámite, hasta la entrada en vigor de la Ley a que se refiere la fracción XXXIX del artículo 43, de este Decreto.
+
+NOVENO. Los recursos humanos, materiales, financieros y presupuestales con que cuenta el Tribunal de lo Contencioso Administrativo del Estado de Sinaloa, incluyendo todos sus bienes y los derechos derivados de los fondos o fideicomisos vigentes, pasarán a formar parte del Tribunal de Justicia Administrativa en los términos que determine la Ley a que se refiere la fracción XXXIX del artículo 43 de esta Constitución.
+
+DÉCIMO. Los trabajadores de base que se encuentren prestando sus servicios en el Tribunal de lo Contencioso Administrativo del Estado de Sinaloa, a la entrada en vigor de la Ley a que se refiere la fracción XXXIX del artículo 43 de esta Constitución, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Tribunal de Justicia Administrativa, en los términos que dicha ley determine.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 207.- POR EL QUE SE EXPIDE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
 
