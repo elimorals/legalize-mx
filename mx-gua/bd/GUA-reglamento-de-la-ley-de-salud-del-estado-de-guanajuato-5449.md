@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-salud-del-estado-de-guanajuato-5449"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-08-02"
-last_updated: "1988-08-02"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 2 de agosto de 1988.
 
@@ -3879,21 +3879,29 @@ DE LAS SANCIONES
 
 Las violaciones a los preceptos de este Reglamento, serán sancionadas administrativamente por las autoridades sanitarias del Estado, de acuerdo a los artículos subsecuentes.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 619.
 
-Se sancionará con multa equivalente de 1 hasta 20 veces el salario mínimo general vigente en la zona económica de que se trate en el Estado, la violación las disposiciones contenidas en los artículos 13, 18, 19, 23, 27, 29, 30 y 34 de este Reglamento.
+se sancionará con multa equivalente de 1 hasta 20 veces la Unidad de Medida y Actualización diaria, la violación a las disposiciones contenidas en los artículos 18, 19, 23, 27, 29, 30 y 34.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 620.
 
-Se sancionará con multa equivalente de 10 hasta 100 veces el salario mínimo general vigente en la zona económica de que se trate en el Estado, la violación a las disposiciones contenidas en los artículos 7, 9, 10, 11, 12, 21, 36, 37, 39, 41, 49, 89, 93, 123, 127, 130, 136, 137, 140, 313, 318, 355, 359, 361, 368, 381, 400, 422, 424, 457, 458, 459, 464, 465 y 592 de este Reglamento.
+Se sancionará con multa equivalente de 10 hasta 100 veces la Unidad de Medida y Actualización diaria, la violación a las disposiciones contenidas en los artículos 7, 9, 10, 11, 12, 21, 36, 37, 39, 41, 49, 89, 93, 123, 127, 130, 136, 137, 140, 313, 318, 355, 359, 361, 368, 381, 400, 422, 424, 457, 458, 459, 464, 465 y 592 de este Reglamento.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 621.
 
-Se sancionará con multa equivalente de 50 a 500 veces el salario mínimo general vigente en la zona económica de que se trate en el Estado, la violación a las disposiciones contenidas en los artículos 167, 237, 282, 292, 299, 300, 450, 453, 511, 523, 525, 606 y 611 de este Reglamento.
+Se sancionará con multa equivalente de 50 hasta 500 veces la Unidad de Medida y Actualización diaria, la violación a las disposiciones contenidas en los artículos 167, 237, 282, 292, 299, 300, 450, 453, 511, 523, 525, 606 y 611 de este Reglamento.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 622.
 
-Las infracciones no previstas en este Título, serán sancionadas con multa equivalente de 1 hasta 500 veces el salario mínimo general vigente de la zona económica de que se trate en el Estado y atendiendo a las reglas de calificación que establece el artículo 293 de la Ley.
+Las infracciones no previstas en este Título serán sancionadas con multa equivalente de 1 hasta 500 veces la Unidad de Medida y Actualización diaria y atendiendo a las reglas de calificación que establece el artículo 293 de la Ley.
 
 ###### ARTICULO 623.
 
@@ -3962,3 +3970,11 @@ El Secretario de Salud y Seguridad Social del Estado,
 DR. FRANCISCO ORTEGA AVILA.
 
 (Rúbricas)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 184, MEDIANTE EL CUAL, SE REALIZA LA MODIFICACIÓN MÚLTIPLE, A FIN DE ADECUAR LA REFERENCIA QUE EN REGLAMENTOS Y DECRETOS SE HACE AL SALARIO MÍNIMO, PARA REFERENCIARLO A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
+
+Artículo Único: El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
