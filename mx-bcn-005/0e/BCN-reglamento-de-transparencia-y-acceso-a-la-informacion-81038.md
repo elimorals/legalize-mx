@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-81038"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2011-04-15"
+last_updated: "2017-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 17 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 15 de abril de 2011.
 
@@ -972,3 +974,17 @@ ATENTAMENTE:
 LIC. CATALINO ZAVALA MARQUEZ.
 
 SECRETARIO GENERAL DEL H. V AYUNTAMIENTO DE PLAYAS DE ROSARITO BAJA CALIFORNIA
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN CTAIRCP-CGL/001/2017, RELATIVO A LA PROPUESTA DEL NUEVO REGLAMENTO A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA".]
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones que se opongan a lo previsto en el presente Reglamento.
+
+Artículo Tercero. Se abroga el Reglamento de Transparencia y Acceso a la Información Pública para el municipio de Playas de Rosarito, Baja California, publicado en el periódico oficial el 15 de abril del 2011.
+
+Artículo Cuarto. Los asuntos que se iniciaren o se encontraren en trámite antes de la entrada en vigor del presente reglamento, serán resueltos conforme a los procedimientos previstos con anterioridad.
+
+Artículo Quinto. Publíquese en el Periódico Oficial del Estado de Baja California y en el Portal del Ayuntamiento.
