@@ -4,7 +4,7 @@ identifier: "COA-ley-general-del-catastro-y-la-informacion-territorial-para-1700
 country: "mx"
 rank: "ley_general"
 publication_date: "1999-07-23"
-last_updated: "2015-10-27"
+last_updated: "2017-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 23 de julio de 1999.
 
@@ -379,45 +379,47 @@ El titular de la Unidad será en todo caso, el funcionario competente para ejerc
 
 ### CAPÍTULO SEGUNDO. DEL INSTITUTO COAHUILENSE DE CATASTRO Y LA INFORMACIÓN TERRITORIAL
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
-El Instituto, en coordinación con los ayuntamientos, expedirá las políticas, lineamientos y normas técnicas de carácter general relativas al ejercicio de la función catastral de acuerdo con las características y necesidades de cada municipio, así como las correspondientes a la organización y funcionamiento de los catastros municipales, así como realizar la vigilancia necesaria a los municipios para el cumplimiento de las disposiciones en materia catastral.
+El Instituto es el organismo público descentralizado, con personalidad jurídica y patrimonio propio encargado de todo lo relacionado con la planeación, rectoría, vigilancia y subsidiariedad administrativa en materia de catastro en el Estado y estará sectorizado a la Secretaría de Finanzas.
 
-El Instituto es la autoridad encargada de todo lo relacionado con la planeación, rectoría, vigilancia y subsidiariedad administrativa en materia de catastro en el estado.
+Tendrá su domicilio en la ciudad de Saltillo, Coahuila de Zaragoza, sin perjuicio de que pueda establecer en otras poblaciones de la entidad, las instalaciones y oficinas que estime necesarias para el cumplimiento de su objeto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2012)</small>
+El Instituto en coordinación con los ayuntamientos, expedirá las políticas, lineamientos y normas técnicas de carácter general relativas al ejercicio de la función catastral de acuerdo con las características y necesidades de cada municipio; así como las correspondientes a la organización y funcionamiento de los catastros municipales, con la facultad de realizar la vigilancia necesaria a los municipios para el cumplimiento de las disposiciones en materia catastral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 15.
 
-La dirección y administración del Instituto estarán a cargo de un Consejo Directivo, un Director General y los demás órganos que prevea su reglamento interior.
+La dirección y administración del Instituto estarán a cargo de un Consejo Directivo, una Dirección General, que será designado por la persona titular del Ejecutivo y los demás órganos que prevea su reglamento interior.
 
 El Instituto contará, además, con el personal necesarios (sic) para su eficaz funcionamiento, en los términos de la plantilla que apruebe su Consejo Directivo, conforme al presupuesto correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 16.
 
 El Consejo Directivo del Instituto, será el órgano máximo del mismo y estará integrado de la siguiente manera:
 
-I. Un Presidente, que será el Titular del Ejecutivo del Estado;
+I. Un Presidente quien será la persona titular de la Secretaría de Finanzas.
 
-II. Un Presidente Ejecutivo, que será el Secretario de Gestión Urbana, Agua y Ordenamiento Territorial.
+II. Una Secretaría Técnica, que será ocupada por quien sea titular de la Dirección General del Instituto.
 
-III. Un Secretario que será el Director General del Instituto.
+III. Cuatro Vocales, que serán:
 
-IV. Tres Vocales, que serán:
+a. Quien sea titular de la Secretaría de Desarrollo Económico Competitividad y Turismo;
 
-a) El Secretario de Finanzas.
+b. Quien sea titular de la Dirección General del Registro Público del Estado de Coahuila de Zaragoza;
 
-b) El Secretario de Desarrollo Económico.
+c. Quien sea titular de la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica en Coahuila; y
 
-c) Un representante de los municipios del Estado, que será designado anualmente por los cinco ayuntamientos de los municipios del Estado con mayor población.
+d. Una representación de los municipios del Estado, que se designará anualmente por los cinco ayuntamientos de los municipios del Estado con mayor población.
 
 Cada uno de los integrantes del Consejo designará a un suplente de entre las personas que laboren en sus respectivas dependencias.
 
-A las sesiones en las que concurran el Presidente y el Presidente Ejecutivo, esté ultimo tendrá la calidad de vocal.
+El Instituto contará con una comisaría, cuyo titular será designado por la Secretaría de Fiscalización y Rendición de Cuentas y tendrá las facultades y obligaciones establecidas en la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
 ###### ARTÍCULO 17.
 
@@ -429,17 +431,23 @@ I. Establecer en estricto apego a las disposiciones aplicables, las políticas y
 
 II. Establecer las directrices generales para el eficaz funcionamiento del Instituto.
 
-III. Aprobar el programa anual de operaciones del Instituto, que someta a su consideración el Director General.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+III. Aprobar el programa anual de operaciones del Instituto, que someta a su consideración quien sea titular de la Dirección General.
 
 IV. Aprobar el presupuesto anual de egresos y la estimación de ingresos para el ejercicio siguiente.
 
-V. Examinar y aprobar los informes generales y especiales que someta a su consideración el Director General.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+V. Examinar y aprobar los informes generales y especiales que somete a su consideración el titular de la Dirección General.
 
 VI. Planear y autorizar la gestión de los créditos que requiera el Instituto para su adecuado funcionamiento.
 
 VII. Expedir el reglamento interior del Instituto.
 
-VIII. Otorgar poderes generales para pleitos y cobranzas y para actos de administración, con todas las facultades, aún las que requieren cláusula especial conforme a la ley, en los términos de los artículos 2554 del Código Civil para el Distrito Federal y su correlativo del Código Civil para el Estado de Coahuila, pudiendo conceder facultades para desistirse de amparos y para formular querellas y acusaciones de carácter penal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
+VIII. Otorgar poderes generales para pleitos y cobranzas y para actos de administración, con todas las facultades, aun las que requieren cláusula especial conforme a la ley, en los términos de las disposiciones aplicables del Código Civil para el Distrito Federal y del Código Civil para el Estado de Coahuila de Zaragoza, pudiendo conceder facultades para desistirse de amparos y para formular querellas y acusaciones de carácter penal.
 
 Dichos mandatos podrán ser ejercidos ante particulares y ante toda clase de autoridades administrativas o judiciales.
 
@@ -447,43 +455,45 @@ IX. Celebrar con las dependencias y autoridades federales, convenios para el oto
 
 X. En general, realizar todos aquellos actos y operaciones autorizadas por la presente ley y los que fuesen necesarios para la mejor administración del Instituto.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 18.
 
-El Consejo Directivo celebrará, por lo menos, una sesión anual en el mes de septiembre y las que sean necesarias para la eficaz marcha del Instituto. Las sesiones serán válidas cuando el quórum se integre con la mitad más uno de los miembros del Consejo, siempre que estuviere presente su presidente o quien legalmente deba sustituirlo.
+El Consejo Directivo celebrará por lo menos una sesión cada tres meses y las que sean necesarias para la eficaz marcha del Instituto. Las sesiones serán válidas cuando el quórum se integre con la mitad más uno de los miembros del consejo, siempre que estuviere presente su presidente o quien legalmente deba sustituirlo.
 
-Las votaciones del Consejo se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
+Las votaciones del consejo se tomarán por mayoría de votos de los miembros presentes. En caso de empate, quien ocupe la Presidencia tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 19.
 
-El Presidente del Consejo Directivo tendrá las atribuciones siguientes:
+Quien ocupe la Presidencia del Consejo Directivo tendrá las atribuciones siguientes:
 
-I. Convocar, a través del Secretario del Consejo, a las sesiones ordinarias y extraordinarias que se desarrollen conforme al Orden del Día que para ese efecto se celebre.
+I. Convocar, a través de la Secretaría Técnica del Consejo a las sesiones ordinarias y extraordinarias que se desarrollen conforme al orden del día que para ese efecto se establezca.
 
 II. Dirigir las sesiones del Consejo y declarar resueltos los asuntos en el sentido de las votaciones.
 
-III. Designar al Secretario del Consejo Directivo.
+III. Resolver los asuntos que, debiendo ser conocidos por el Consejo, no admitan demora dada su urgencia.
 
-IV. Designar y remover libremente al Director General del Instituto.
+IV. Autorizar, en unión con la Secretaría Técnica, las actas que se levanten de las sesiones que celebre el Consejo.
 
-V. Resolver los asuntos que, debiendo ser conocidos por el Consejo, no admitan demora dada su urgencia.
-
-VI. Autorizar, en unión del Secretario, las actas que se levanten de las sesiones que celebre el Consejo.
-
-VII. En general, realizar todos aquellos actos que fuesen necesarios para el mejor funcionamiento del Consejo y del Instituto.
+V. Realizar todos aquellos actos que fuesen necesarios para el mejor funcionamiento del Consejo y del Instituto.
 
 ARTÍCULO 19 BIS. (DEROGADO, P.O. 8 DE MAYO DE 2012)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-El Director General del Instituto tendrá las facultades y obligaciones siguientes:
+Quien ocupe la Dirección General del Instituto será designado por el Ejecutivo del Estado y tendrá las facultades y obligaciones siguientes:
 
 > <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
 
 I. Ejecutar las funciones, ejercer las facultades y cumplir con las obligaciones que esta ley, su reglamento y demás disposiciones aplicables le atribuyan al Instituto.
 
-II. Representar al Instituto ante particulares y ante autoridades administrativas o judiciales con todas las facultades de un mandato general para actos de administración y para pleitos y cobranzas, incluidas aquéllas que requieren cláusula especial conforme a la ley, en los términos de los artículos 2554 del Código Civil para el Distrito Federal y su correlativo del Código Civil para el Estado de Coahuila, pudiendo desistirse de amparos y formular querellas y acusaciones de carácter penal y con facultades para sustituir ese poder en todo o en parte, mediante el otorgamiento de poderes, conforme a su objeto, para pleitos y cobranzas.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+
+II. Representar al Instituto ante particulares y ante autoridades administrativas o judiciales con todas las facultades de un mandato general para actos de administración y para pleitos y cobranzas, incluidas aquéllas que requieren cláusula especial conforme a la ley, en los términos de las disposiciones aplicables de los artículos del Código Civil para el Distrito Federal y del Código Civil para el Estado de Coahuila de Zaragoza, pudiendo desistirse de amparos y formular querellas y acusaciones de carácter penal y con facultades para sustituir ese poder en todo o en parte, mediante el otorgamiento de poderes, conforme a su objeto para pleitos y cobranzas.
 
 > <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
 
@@ -532,6 +542,10 @@ IV. Los ingresos que perciba por los servicios que preste en cumplimiento de su 
 V. Las herencias y legados que se hicieren a su favor.
 
 VI. Todos los demás que adquiera por cualquier otro medio legal.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2017)</small>
+
+ARTÍCULO 22 BIS. Las relaciones laborales entre el organismo y sus trabajadores se regirán conforme al apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones que les resulten aplicables.
 
 ### CAPÍTULO TERCERO. DE LAS JUNTAS CATASTRALES MUNICIPALES
 
@@ -607,7 +621,7 @@ VI. Las demás que esta ley y su Reglamento le señalen.
 
 La Unidad y el Instituto formularán conjuntamente los proyectos de tablas de valores unitarios de suelo y construcción para el municipio que corresponda. Estos se elaborarán mediante los procedimientos técnicos y consideraciones administrativas, a fin de obtener en ellos un avalúo equitativo y proporcional de la propiedad inmueble.
 
-El valor catastral deberá ser equiparable al valor comercial que al predio corresponda, pero, además, se adecuarán a la tasas impositivas aplicables.
+El valor catastral deberá ser equiparable al valor comercial que al predio corresponda, pero, además, se adecuarán a la (sic) tasas impositivas aplicables.
 
 ###### ARTÍCULO 29.
 
@@ -1304,3 +1318,15 @@ P.O. 27 DE OCTUBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 766.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “COMISIÓN ESTATAL DE AGUAS Y SANAMIENTO (SIC) DE COAHUILA Y DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
