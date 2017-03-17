@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-prestacion-del-servicio-educativo-por-89592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-25"
-last_updated: "2016-10-18"
+last_updated: "2017-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO POR LOS PARTICULARES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -1099,21 +1099,21 @@ Límites mínimos y máximos de las multas aplicables
 
 Por incurrir en las infracciones previstas en la Ley, se impondrán las sanciones establecidas en el artículo 161 de la Ley. Tratándose de multas se atenderá a los siguientes parámetros:
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-I. De 1 a 1,700 salarios mínimos en los casos de la comisión de las infracciones previstas en las fracciones III, IV, V, VIII y X del artículo 159 de la Ley;
+I. De 1 a 1,700 Unidades de Medida y Actualización diaria en los casos de la comisión de las infracciones previstas en las fracciones III, IV, V, VIII y X del artículo 159 de la Ley;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-II. De 1 a 3,000 salarios mínimos en los casos de la comisión de las infracciones previstas en las fracciones I, VI, XI, XII, XIV, XVI y XVIII del artículo 159 de la Ley; y
+II. De 1 a 3,000 Unidades de Medida y Actualización diaria en los casos de la comisión de las infracciones previstas en las fracciones I, VI, XI, XII, XIV, XVI y XVIII del artículo 159 de la Ley; y
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
-III. De 1 a 5,000 salarios mínimos en los casos de la comisión de las infracciones previstas en las fracciones II, VII, IX, XIII, XV y XVII del artículo 159 de la Ley.
+III. De 1 a 5,000 Unidades de Medida y Actualización diaria en los casos de la comisión de las infracciones previstas en las fracciones II, VII, IX, XIII, XV y XVII del artículo 159 de la Ley.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
-Las infracciones por la contravención a las obligaciones y prohibiciones establecidas en los artículos 41 y 42 del Reglamento, que no encuadren en los supuestos de infracción previstos en el artículo 159 de la Ley, serán sancionadas con multa de 1 a 3,000 salarios mínimos.
+Las infracciones por la contravención a las obligaciones y prohibiciones establecidas en los artículos 41 y 42 del Reglamento, que no encuadren en los supuestos de infracción previstos en el artículo 159 de la Ley, serán sancionadas con multa de 1 a 3,000 unidades de medida y actualización diaria.
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -1127,15 +1127,23 @@ a) La totalidad de ingresos de cobro percibidos por la prestación del servicio 
 
 b) Los ingresos percibidos se dividirán entre los días que conforman el periodo escolar determinado, ya sea anual, semestral, cuatrimestral, trimestral o bimestral, según el caso;
 
-c) El resultado de la operación referida en el inciso anterior, se dividirá entre el monto del salario mínimo vigente aplicable al año en que se cometió la infracción; y
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+c) El resultado de la operación referida en el inciso anterior, se dividirá entre el monto de la Unidad de Medida y Actualización diaria aplicable al momento en que se cometió la infracción; y
 
 d) Una vez obtenido el dato a que se refiere el inciso c), se atenderá a la siguiente tabla:
 
-1) 1 - 25 smd = FI 50
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
-2) 26 - 50 smd = FI 75
+1) 1 — 25 UMA diaria = FI 50
 
-3) 51 - en adelante smd = FI 100
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+2) 26 — 50 UMA diaria = FI 75
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+3) 51 — en adelante UMA diaria = FI 100
 
 II. Tiempo de comisión de la infracción (factor Tiempo o FT): Para determinar las condiciones en las que se cometió la infracción, se considerará el tiempo que duró la comisión de la infracción de acuerdo con los siguientes parámetros:
 
@@ -1153,11 +1161,11 @@ temporalidad: FT 9
 
 III. Número de educandos (factor Alumnos o FA): Como un elemento a tomar en cuenta para la determinación de la multa en proporción a los daños y perjuicios que se hayan producido o puedan producirse a los educandos, se considerarán los siguientes valores, atendiendo al número de alumnos con que cuente la institución educativa o el infractor:
 
-a) 1 – 50 alumnos = FA 10
+a) 1 - 50 alumnos = FA 10
 
-b) 51 – 100 alumnos = FA 20
+b) 51 - 100 alumnos = FA 20
 
-c) 101 – 500 alumnos = FA 30
+c) 101 - 500 alumnos = FA 30
 
 d) Más de 500 alumnos = FA 40
 
@@ -1177,17 +1185,29 @@ V. Fórmula: Una vez que se hayan obtenido los valores que correspondan a las fr
 
 (FI) * (FT + FA) = Valor determinado
 
-VI. Individualización del importe de la multa: Para la fijación del importe individualizado de la multa en salarios mínimos, el resultado obtenido mediante la operación descrita en la fracción anterior, se multiplicará por el factor PM señalado en la fracción IV que corresponda, de la siguiente manera:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE MARZO DE 2017)</small>
 
-Importe individualizado de la multa en salarios mínimos:
+VI. Individualización del importe de la multa: Para la fijación del importe individualizado de la multa en Unidades de Medida y Actualización diaria, el resultado obtenido mediante la operación descrita en la fracción anterior, se multiplicará por el factor PM señalado en la fracción IV que corresponda, de la siguiente manera:
 
-a) Multa aplicable por las infracciones previstas en la fracción I del artículo 81 del Reglamento: (Valor determinado) * (0.33) = Multa en salarios mínimos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE MARZO DE 2017)</small>
 
-b) Multa aplicable por las infracciones previstas en la fracción II del artículo 81 del Reglamento: (Valor determinado) * (0.66) = Multa en salarios mínimos.
+Importe individualizado de la multa en Unidad de Medida y Actualización diaria:
 
-c) Multa aplicable por las infracciones previstas en la fracción III del artículo 81 del Reglamento: (Valor determinado) * (1.00) = Multa en salarios mínimos.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
-d) Multa aplicable por las infracciones previstas en el párrafo segundo del artículo 81 del Reglamento: (Valor determinado) * (0.66) = Multa en salarios mínimos.
+a) Multa aplicable por las infracciones previstas en la fracción I del artículo 81 del Reglamento: (Valor determinado) * (0.33) = Multa en Unidades de Medida y Actualización diaria.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+b) Multa aplicable por las infracciones previstas en la fracción II del artículo 81 del Reglamento: (Valor determinado) * (0.66) = Multa en Unidades de Medida y Actualización diaria.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+c) Multa aplicable por las infracciones previstas en la fracción III del artículo 81 del Reglamento: (Valor determinado) * (1.00) = Multa en Unidades de Medida y Actualización diaria.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+
+d) Multa aplicable por las infracciones previstas en el párrafo segundo del artículo 81 del Reglamento: (Valor determinado) * (0.66) = Multa en Unidades de Medida y Actualización diaria.
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -1197,9 +1217,11 @@ Artículo 81 ter. En caso de reincidencia, se podrá duplicar el monto de la mul
 
 Multa y clausura
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE MARZO DE 2017)</small>
+
 ###### Artículo 82.
 
-Cuando se incurra en alguna de las infracciones previstas en el artículo 162 de la Ley se impondrá una sanción consistente en multa de dos a diez mil veces el salario mínimo vigente en la entidad y en la fecha en que se cometa la infracción; y, en su caso, la clausura de la institución educativa.
+Cuando se incurra en alguna de las infracciones previstas en el artículo 162 de la Ley se impondrá una sanción consistente en multa de dos a diez mil veces la Unidad de Medida y Actualización diaria y en la fecha en que se cometa la infracción; y, en su caso, la clausura de la institución educativa.
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -1310,5 +1332,11 @@ Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día s
 P.O. 18 DE OCTUBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR".]
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 184, MEDIANTE EL CUAL, SE REALIZA LA MODIFICACIÓN MÚLTIPLE, A FIN DE ADECUAR LA REFERENCIA QUE EN REGLAMENTOS Y DECRETOS SE HACE AL SALARIO MÍNIMO, PARA REFERENCIARLO A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
