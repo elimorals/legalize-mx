@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-comite-de-informacion-del-poder-62356"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-21"
-last_updated: "2011-04-02"
+last_updated: "2017-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE INFORMACION DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL COMITÉ DE TRANSPARENCIA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO INTERNO DEL COMITE DE INFORMACION DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2011
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 2 DE ABRIL DE 2011 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 26 DE FEBRERO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2017 (DEROGADO).
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el lunes 21 de julio de 2008.
 
@@ -351,3 +351,15 @@ SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 P.O. 26 DE FEBRERO DE 2011.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 18 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL CONJUNTO 1/2017.- DE LOS PLENOS DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE OAXACA QUE CREA EL COMITÉ DE TRANSPARENCIA DEL PODER JUDICIAL DEL ESTADO DEL OAXACA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca, de conformidad con el artículo 56, segundo párrafo de la Ley Orgánica del Poder Judicial del Estado de Oaxaca y 27 del Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca. Se ordena su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca, Boletín Judicial, portal de internet del Poder Judicial y en los estrados del Tribunal Superior de Justicia, del Consejo de la Judicatura, así como del Tribunal de lo Contencioso Administrativo y de Cuentas.
+
+SEGUNDO. Se deroga el Reglamento Interno del Comité de Información del Poder Judicial del Estado de Oaxaca, publicado en el Periódico Oficial del Gobierno del Estado con fecha veintiuno de julio de dos mil ocho.
+
+TERCERO. Así mismo se deroga el Reglamento Interno del Comité de Información del Consejo de la Judicatura del Estado de Oaxaca, aprobado en sesión ordinaria de fecha diez de septiembre de dos mil doce.
+
+CUARTO. Las solicitudes de Información en trámite en la Unidad de Transparencia común al Tribunal Superior de Justicia y al Consejo de la Judicatura continuarán siendo tramitadas por la Unidad de Transparencia del Poder Judicial del Estado de Oaxaca en los términos del presente acuerdo; las solicitudes de información en trámite en la Unidad de Transparencia del Tribunal de lo Contencioso Administrativo y de Cuentas continuarán tramitándose por el responsable de Transparencia del Tribunal de lo Contencioso Administrativo y de Cuentas. Todas las determinaciones en trámite que deban tomarse por el Comité de Transparencia del Tribunal Superior de Justicia, el Comité de Transparencia del Consejo de la Judicatura o del Comité de Transparencia del Tribunal de lo Contencioso Administrativo y de Cuentas, a la entrada en vigor del presente acuerdo serán tramitadas y en su caso resueltas por el Comité de Transparencia del Poder Judicial del Estado de Oaxaca, en los términos del presente Acuerdo.
