@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-adquisiciones-enajenaciones-arrendamientos-117877"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2017-01-28"
+last_updated: "2017-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "OAX"
 ---
 # LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACION DE SERVICIOS Y ADMINISTRACION DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO, PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL PRIMERO DE DICIEMBRE DE 2016.]</small>
-
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2017.
 
 Ley publicada en la Séptima Sección al Número 46 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -1225,7 +1223,9 @@ DÉCIMO. Se faculta al Titular de la Secretaría de Finanzas para que, en térmi
 
 DÉCIMO PRIMERO. El Titular del Poder Ejecutivo en un término no mayor a treinta días hábiles siguientes al de la entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
 
-DÉCIMO SEGUNDO. Con motivo de la derogación del artículo 47 Bis y transitorios TERCERO; CUARTO; QUINTO y SEXTO del decreto Núm. 2068, publicado en el Extra del Periódico Oficial del Gobierno del Estado el 28 de noviembre de 2013, que se realiza a través del presente Decreto, se abroga el Programa de Ordenamiento Ecológico Regional del Territorio del Estado de Oaxaca, en consecuencia la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, deberá realizar el Acuerdo respectivo por el que se emita el nuevo Programa de Ordenamiento Ecológico Regional del Territorio del Estado de Oaxaca, en tanto se emite el acuerdo citado, deberán aplicarse las Normas Oficiales NOM-022-SEMARNAT-2003, NOM-001-ECOL-1996, NOM-002-PESC-1993, NOM-009-PESC-1993 y demás Normas Oficiales Mexicanas, así como la normativa federal vigente en el Estado Mexicano y aplicable a los casos específicos que se susciten.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2017)</small>
+
+DÉCIMO SEGUNDO. Con motivo de la derogación del artículo 47 Bis de la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca y transitorios TERCERO; CUARTO; QUINTO y SEXTO del decreto Núm. 2068, publicado en el Extra del Periódico Oficial del Gobierno del Estado el 28 de noviembre de 2013, que se realiza a través del presente Decreto, el Poder Ejecutivo del Estado de Oaxaca a través de la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, revisará y en su caso actualizará el Programa de Ordenamiento Ecológico Regional del Territorio del Estado de Oaxaca, informando dicha actualización a la Legislatura del Congreso del Estado.
 
 Cuando en diversas disposiciones normativas, se haga referencia al Instituto Estatal de Ecología y Desarrollo sustentable o a la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca, se entenderá que se refiere a la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable.
 
@@ -1238,3 +1238,9 @@ El Reglamento de la Ley, a que alude el párrafo anterior, deberá publicarse po
 En consecuencia se deroga el Transitorio Quinto, del citado Decreto 2091, mediante el cual se aprueba la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca.
 
 DÉCIMO QUINTO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 18 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 576.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO NÚMERO 564 EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE OAXACA EL VEINTIOCHO DE ENERO DE DOS MIL DIECISIETE".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
