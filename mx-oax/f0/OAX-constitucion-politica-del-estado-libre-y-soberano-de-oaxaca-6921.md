@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2016-12-31"
+last_updated: "2017-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2017.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -3143,9 +3143,9 @@ Para ser Alcalde se requiere haber cumplido veinticinco años antes del día de 
 
 Los Alcaldes son auxiliares de los Jueces y Tribunales del Estado, la Ley Orgánica respectiva establecerá el número que deba haber en cada Municipio, las funciones y atribuciones que les correspondan.
 
-> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2017)</small>
 
-IX. Cada Ayuntamiento procurará contar con una Regiduría de Equidad y Género, que tendrá como objetivo promover la participación igualitaria de las mujeres en los ámbitos de la vida social, económica, política, cultural y familiar de la comunidad y la eliminación de todo acto discriminatorio que contravenga la igualdad de género.
+IX.- Cada ayuntamiento procurará contar con una Regiduría de Derechos Humanos encargada de la protección, defensa, promoción, estudio, divulgación y vigilancia de los derechos humanos. Asimismo, procurará contar con una Regiduría de Equidad y Género, que tendrá como objetivo promover la participación igualitaria de las mujeres en los ámbitos de la vida social, económica, política, cultural y familiar de la comunidad y la eliminación de todo acto discriminatorio que contravenga la igualdad de género.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -4850,3 +4850,9 @@ P.O. 31 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 18 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM 575.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN IX DEL ARTÍCULO 113 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
