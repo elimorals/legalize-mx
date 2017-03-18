@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-03-14"
+last_updated: "2017-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -33,7 +33,9 @@ DECRETO 793
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS...
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Como se puede apreciar, con el presente Decreto Legislativo se persigue realizar la delineación de fundamentos esenciales de la reforma constitucional aludida. Si se tiene en consideración que en el proceso penal están en juego la libertad y dignidad de las personas, es precisamente ahí donde mayor énfasis se debe poner, sin olvidar que la salvaguarda del proceso es para todos, sin exclusión alguna, pues lo anterior es el precio que se debe pagar por vivir en democracia. En este sentido, los principios rectores deben cumplir con la función de orientación para el legislador en el momento de redactar las leyes sustantivas, pues con ello logra una correcta interpretación de la propia ley procesal por parte del enjuiciador, así como del operador jurídico, según las facultades y las competencias que la Constitución le confiere.
 
@@ -2959,6 +2961,8 @@ Este delito se sancionará con una pena de uno a tres años de prisión y sanci�
 
 ### CAPÍTULO V. Maltrato a los Animales Domésticos
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 277.
 
 Comete el delito de ultrajes a la autoridad, a las instituciones del Estado y a las insignias públicas quien profiere expresión directa o indirecta o ejecuta acciones con el propósito de denigrar, calumniar u ofender a un servidor público en el acto de ejercer sus funciones o con motivo de ellas, a las insignias del Estado o de un Municipio, o a cualquiera de sus instituciones.
@@ -3351,11 +3355,21 @@ Cuando en la comisión de un delito previsto en los capítulos I a III de este T
 
 ###### ARTÍCULO 317.
 
-Comete este delito, quien con ensañamiento o crueldad, por acción u omisión, maltrata animales domésticos, provocándoles lesiones que produzcan un menoscabo físico, o les cause la muerte.
+Comete el delito de maltrato animal, quien con ensañamiento o crueldad, por acción u omisión, maltrata animales domésticos, provocándoles lesiones que produzcan un menoscabo físico, o les cause la muerte. Este delito se sancionará con las siguientes penas:
 
-Este delito será castigado con pena de tres meses a un año de prisión, y sanción pecuniaria de diez a cuarenta días de salario mínimo; e inhabilitación hasta por un año para el ejercicio de la profesión si el delito lo cometiere un profesional en veterinaria.
+I. Cuando el maltrato implique lesiones mínimas, que no produzca un menoscabo físico permanente, se impondrá pena de tres a seis meses de prisión, y sanción pecuniaria de diez a cincuenta días del valor de la unidad de medida de actualización vigente; e inhabilitación hasta por un año para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales;
 
-Para los efectos de este artículo se entiende por animal domestico, a aquel que se ha adaptado a vivir y convivir con las personas.
+II. Cuando el maltrato implique lesiones que produzcan un menoscabo físico permanente, se impondrá pena de seis meses a un año de prisión, y sanción pecuniaria de cien a doscientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por dos años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales, y
+
+III. Cuando el maltrato produzca la muerte, se impondrá pena de uno a dos años de prisión, y sanción pecuniaria de doscientos a cuatrocientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por tres años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales.
+
+Para los efectos de este artículo se entiende por animal doméstico, a aquél que se ha adaptado a vivir y convivir con las personas.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2017)</small>
+
+ARTÍCULO 317 BIS. Quien abandone a un animal doméstico poniendo en riesgo su vida o integridad, será castigado con pena de seis meses a un año de prisión, y sanción pecuniaria de cien a doscientos días del valor de la unidad de medida y actualización.
+
+Los delitos previstos en el presente capítulo se perseguirán de oficio.
 
 ## TÍTULO DÉCIMO SÉXTO. DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA COMETIDOS POR SERVIDORES PÚBLICOS
 
@@ -4012,3 +4026,11 @@ P.O. 14 DE MARZO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0588.- SE REFORMA EL ARTÍCULO 317; Y ADICIONA EL ARTÍCULO 317 BIS, DE Y AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga (sic) todas las disposiciones legales que se opongan al presente al presente (sic) Decreto.
