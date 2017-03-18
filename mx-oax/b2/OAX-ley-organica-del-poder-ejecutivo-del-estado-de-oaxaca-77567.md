@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2017-03-10"
+last_updated: "2017-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -2227,11 +2227,13 @@ XVIII. Las demás que en el ámbito de su competencia le confiera directamente e
 
 La Coordinación General de Enlace Federal y Relaciones Internacionales, estará a cargo de un Coordinador General, quien dependerá directamente del Ejecutivo Estatal.
 
+> <small>(F. DE E., P.O. 18 DE MARZO DE 2017)</small>
+
 A la Coordinación General de Enlace Federal y Relaciones Internacionales, le corresponde el despacho de los siguientes asuntos:
 
 I. Cumplir con las directrices en materia de política federal y con las Entidades Federativas que determine el Titular del Poder Ejecutivo;
 
-II. Establecer comunicación y coordinación con los Poderes de la Unión, con la colaboración de la Secretaría de Finanzas, así como los órganos y organismos constitucionales autónomos federales y nacionales, así como con los Gobiernos de las Entidades Federativas para la atención y resolución de los asuntos de interés público;
+II. Establecer comunicación y coordinación con los Poderes de la Unión, con la colaboración de la Secretaría de Finanzas, así como con los órganos y organismos constitucionales autónomos federales y nacionales, así como con los Gobiernos de las Entidades Federativas para la atención y resolución de los asuntos de interés público;
 
 III. Facilitar y promover la gestión de fondos federales e internacionales e inversiones en sectores estratégicos para el crecimiento económico sostenible del Estado;
 
@@ -2871,9 +2873,9 @@ DÉCIMO. Se faculta al Titular de la Secretaría de Finanzas para que, en térmi
 
 DÉCIMO PRIMERO. El Titular del Poder Ejecutivo en un término no mayor a treinta días hábiles siguientes al de la entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
 
-DÉCIMO SEGUNDO. Con motivo de la derogación del artículo 47 Bis y transitorios TERCERO; CUARTO; QUINTO y SEXTO del decreto Núm. 2068, publicado en el Extra del Periódico Oficial del Gobierno del Estado el 28 de noviembre de 2013, que se realiza a través del presente Decreto, se abroga el Programa de Ordenamiento Ecológico Regional del Territorio del Estado de Oaxaca, en consecuencia la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, deberá realizar el Acuerdo respectivo por el que se emita el nuevo Programa de Ordenamiento Ecológico Regional del Territorio del Estado de Oaxaca, en tanto se emite el acuerdo citado, deberán aplicarse las Normas Oficiales NOM-022-SEMARNAT-2003, NOM-001-ECOL-1996, NOM-002-PESC-1993, NOM-009-PESC-1993 y demás Normas Oficiales Mexicanas, así como la normativa federal vigente en el Estado Mexicano y aplicable a los casos específicos que se susciten.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2017)</small>
 
-Cuando en diversas disposiciones normativas se haga referencia al Instituto Estatal de Ecología y Desarrollo sustentable o a la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Oaxaca, se entenderá que se refiere a la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable.
+DÉCIMO SEGUNDO. Con motivo de la derogación del artículo 47 Bis de la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca y transitorios TERCERO; CUARTO; QUINTO y SEXTO del decreto Núm. 2068, publicado en el Extra del Periódico Oficial del Gobierno del Estado el 28 de noviembre de 2013, que se realiza a través del presente Decreto, el Poder Ejecutivo del Estado de Oaxaca a través de la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, revisará y en su caso actualizará el Programa de Ordenamiento Ecológico Regional del Territorio del Estado de Oaxaca, informando dicha actualización a la Legislatura del Congreso del Estado.
 
 DÉCIMO TERCERO. Los archivos, expedientes y mobiliario que tenga en resguardo la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura (SEDAPA) respecto a la facultad a que aludía la fracción XXIII, del artículo 44, que por este decreto se transfiere a la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, pasarán a formar parte del Inventario de esta última Secretaría, así como los recursos humanos, financieros y materiales con que cuente la SEDAPA, para la operación de dicha facultad, informando los ajustes presupuestales a la Legislatura del Congreso del Estado, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente decreto.
 
@@ -2890,3 +2892,9 @@ P.O. 10 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 572.- MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 13 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 576.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO NÚMERO 564 EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE OAXACA EL VEINTIOCHO DE ENERO DE DOS MIL DIECISIETE".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
