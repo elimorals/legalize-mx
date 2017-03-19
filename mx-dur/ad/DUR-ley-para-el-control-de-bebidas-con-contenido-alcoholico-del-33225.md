@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-control-de-bebidas-con-contenido-alcoholico-del-332
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-15"
-last_updated: "2013-08-25"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA EL CONTROL DE BEBIDAS CON CONTENIDO ALCOHÓLICO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 15 de junio de 2003.
 
@@ -769,13 +769,13 @@ Podrán levantarse en forma provisional los sellos de clausura, previa petición
 
 Las sanciones por violación a las disposiciones de esta Ley o el reglamento correspondiente, consistirán en multa, clausura provisional, clausura definitiva del establecimiento y la cancelación de la licencia en su caso, de los locales donde se elaboren, envasen, distribuyan, transporten, almacenen, vendan o consuman bebidas con contenido alcohólico.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
 ###### Artículo 68.
 
-Se aplicará multa por el equivalente de 50 a 500 días de salario mínimo general vigente en la entidad, en caso de incumplimiento de las obligaciones y prohibiciones que esta Ley y el reglamento correspondiente establecen. Esta sanción se impondrá a los propietarios gerentes, encargados, administradores, dependientes, empleados o comisionistas del establecimiento, o a quien o quienes resulten responsables, sin perjuicio de las que impongan otras Leyes o reglamentos.
+Se aplicará multa por el equivalente de 50 a 500 veces la Unidad de Medida y Actualización, en caso de incumplimiento de las obligaciones y prohibiciones que esta Ley y el reglamento correspondiente establecen. Esta sanción se impondrá a los propietarios gerentes, encargados, administradores, dependientes, empleados o comisionistas del establecimiento, o a quien o quienes resulten responsables, sin perjuicio de las que impongan otras Leyes o reglamentos.
 
-A los propietarios gerentes, encargados, administradores, dependientes, empleados o comisionistas de establecimientos o negocios que expendan bebidas con contenido alcohólico sin contar con la licencia respectiva conforme al artículo 16 de esta Ley, independientemente del delito que se hubiere cometido en los términos de la legislación penal local, se les impondrá multa por el equivalente de 80 a 800 días de salario mínimo diario general vigente en el Estado, además el Ayuntamiento decomisará las bebidas con contenido alcohólico que en ellos se encuentren; asimismo, se harán acreedores a lo anterior, los propietarios, encargados y los que expendan las citadas bebidas en cualquier local o lugar, sin contar con el permiso correspondiente.
+A los propietarios, gerentes, encargados, administradores, dependientes, empleados o comisionistas de establecimientos o negocios que expendan bebidas con contenido alcohólico sin contar con la licencia respectiva conforme al artículo 16 de esta Ley, independientemente del delito que se hubiere cometido en los términos de la legislación penal local, se les impondrá multa por el equivalente de 80 a 800 veces la Unidad de Medida y Actualización, además el Ayuntamiento decomisará las bebidas con contenido alcohólico que en ellos se encuentren; asimismo, se harán acreedores a lo anterior, los propietarios, encargados y los que expendan las citadas bebidas en cualquier local o lugar, sin contar con el permiso correspondiente.
 
 ###### Artículo 69.
 
@@ -1040,3 +1040,15 @@ Cuarto.- Los propietarios o poseedores de establecimientos y los titulares de la
 Quinto.- Para los titulares de licencia que tengan documentación en trámite conforme a las disposiciones contenidas en leyes y reglamentos anteriores a la vigencia de este Decreto, le serán aplicables las normas transitorias que preceden a este artículo, en todo aquello que conduzca a la regularización que dichos preceptos señalan.
 
 Sexto.- Los ayuntamientos, a más tardar el 28 de febrero de cada año deberán entregar a la Entidad de Auditoría Superior del Estado, el padrón de las licencias para la venta de bebidas con contenido alcohólico, así como ante la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado de Durango.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 114.- POR EL QUE SE REFORMA EL ARTICULO 68 DE LA LEY PARA EL CONTROL DE BEBIDAS CON CONTENIDO ALCOHOLICO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
