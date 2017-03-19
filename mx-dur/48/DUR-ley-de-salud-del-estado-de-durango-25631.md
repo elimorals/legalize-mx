@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2016-12-25"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE SALUD DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -2023,8 +2025,6 @@ ARTÍCULO 173 BIS 16.- El Centro Estatal de Trasplantes hará constar el mérito
 
 La Secretaría y el Organismo, realizarán acciones coordinadas con la Secretaría de Salud del Gobierno Federal en la ejecución, en el territorio del Estado, del programa nacional contra la fármaco dependencia, en los términos del acuerdo de coordinación que al efecto celebren ambos órdenes de Gobierno.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 164.
@@ -2685,7 +2685,7 @@ La solicitud deberá presentarse a la COPRISED, en los términos del Reglamento 
 
 Cuando cambien de ubicación los establecimientos, requerirán de nueva licencia sanitaria.
 
-###### ARTICULO 234.
+###### ARTÍCULO 234.
 
 Los establecimientos a que se refiere el Título Décimo Quinto de esta Ley, no requerirán de autorización sanitaria, no obstante deberán ajustarse al control y verificación sanitarios y cumplir con los requisitos que establezcan los reglamentos normas generales y demás disposiciones aplicables.
 
@@ -3055,35 +3055,47 @@ IV.- La calidad de reincidente del infractor, y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-###### ARTICULO 280.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
-Se sancionará con multa de hasta 50 veces de salario mínimo general diario vigente en esta zona económica, la violación de las disposiciones contenidas en el artículo 162.
+###### ARTÍCULO 280.
 
-###### ARTICULO 281.
+Se sancionará con multa de hasta 50 veces la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en el artículo 162.
 
-Se sancionará con multa equivalente de hasta cien veces el Salario Mínimo General diario vigente en esta zona económica, la violación de las disposiciones contenidas en los artículos 73, 74, 186 y 249 de esta Ley.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
-###### ARTICULO 282.
+###### ARTÍCULO 281.
 
-Se sancionará con multa equivalente de cinco hasta quinientas veces el Salario Mínimo General diario vigente en esta zona económica, la violación de las disposiciones contenidas en el artículo 184 de esta Ley.
+Se sancionará con multa equivalente de hasta cien veces la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 73, 74, 186 y 249 de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 282.
+
+Se sancionará con multa equivalente de cinco hasta quinientas veces la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en el artículo 184 de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 283.
 
-Se sancionará con multa equivalente de diez hasta mil veces el salario mínimo general diario vigente en esta zona económica, la violación de las disposiciones contenidas en los artículos 100, 116, 119, 144, 145, 146, 158, 185, 197, 200, 233 y 236 de esta Ley.
+Se sancionará con multa equivalente de diez hasta mil veces la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 100, 116, 119, 144, 145, 146, 158, 185, 197, 200, 233 y 236 de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 284.
 
-Se sancionará con multa equivalente de mil hasta cuatro mil veces el salario mínimo general diario vigente en esta zona económica, la violación de las disposiciones de los artículos 131, 148, 154, 165, 250 y 275 de esta Ley.
+Se sancionará con multa equivalente de mil hasta cuatro mil veces la Unidad de Medida y Actualización, la violación de las disposiciones de los artículos 131, 148, 154, 165, 250 y 275 de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 285.
 
-Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en esta zona económica, la violación a las disposiciones contenidas en los artículos 88, 113, 258 y 272 de esta Ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces la Unidad de Medida y Actualización, la violación a las disposiciones contenidas en los artículos 88, 113, 258 y 272 de esta Ley.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 286.
 
-Se sancionará con multa equivalente de diez mil hasta quince mil veces el salario mínimo general diario vigente en esta zona económica, la violación a las disposiciones contenidas en el artículo 132 y 177 bis de esta Ley.
+Se sancionará con multa equivalente de diez mil hasta quince mil veces la Unidad de Medida y Actualización, la violación a las disposiciones contenidas en el artículo 132 y 177 bis de esta Ley.
 
 ###### ARTÍCULO 287.
 
@@ -3522,3 +3534,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 105.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
