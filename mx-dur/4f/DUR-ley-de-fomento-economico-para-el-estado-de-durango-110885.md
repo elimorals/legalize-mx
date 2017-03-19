@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2015-12-01"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -31,9 +31,11 @@ EL CIUDADANO CONTADOR PÚBLICO JORGE HERRERA CALDERA, GOBERNADOR DEL ESTADO LIBR
 
 QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-En Diversas fechas fueron presentadas a esta H. LXVI Legislatura del Estado tres Iniciativas de Decreto, la primera de fecha 21 de octubre de 2013, presentada por los CC. Diputados de la LXVI Legislatura, Carlos Emilio Contreras Galindo, Arturo Kampfner Díaz, Eduardo Solís Nogueira, Luis lván Gurrola Vega, Alicia Guadalupe Gamboa Martínez, Héctor Eduardo Vela Valenzuela, Carlos Matuk López de Nava y Juan Cuitláhuac Avalos Méndez; la segunda de fecha 08 de julio de 2015, presentada por los CC. Diputados de la LXVI Legislatura, Luis lván Gurrola Vega, Carlos Emilio Contreras Galindo, Carlos Matuk López de Nava y Juan Cuitláhuac Avalos Méndez, ambas contienen reformas y adiciones a la Ley de Desarrollo Económico del Estado de Durango; y la tercera de fecha 15 de marzo de 2015, presentada por el C. C.P. Jorge Herrera Caldera, Gobernador del Estado de Durango, que contiene LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO; mismas que fueron turnadas a la Comisión de Desarrollo Económico integrada por los CC. Diputados: Carlos Matuk López de Nava, Luis lván Gurrola Vega, Juan Cuitláhuac Avalos Méndez, Ricardo del Rivero Martínez y Marco Aurelio Rosales Saracco; Presidente, Secretario y vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
+En Diversas fechas fueron presentadas a esta H. LXVI Legislatura del Estado tres Iniciativas de Decreto, la primera de fecha 21 de octubre de 2013, presentada por los CC. Diputados de la LXVI Legislatura, Carlos Emilio Contreras Galindo, Arturo Kampfner Díaz, Eduardo Solís Nogueira, Luis Iván Gurrola Vega, Alicia Guadalupe Gamboa Martínez, Héctor Eduardo Vela Valenzuela, Carlos Matuk López de Nava y Juan Cuitláhuac Avalos Méndez; la segunda de fecha 08 de julio de 2015, presentada por los CC. Diputados de la LXVI Legislatura, Luis Iván Gurrola Vega, Carlos Emilio Contreras Galindo, Carlos Matuk López de Nava y Juan Cuitláhuac Avalos Méndez, ambas contienen reformas y adiciones a la Ley de Desarrollo Económico del Estado de Durango; y la tercera de fecha 15 de marzo de 2015, presentada por el C. C.P. Jorge Herrera Caldera, Gobernador del Estado de Durango, que contiene LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO; mismas que fueron turnadas a la Comisión de Desarrollo Económico integrada por los CC. Diputados: Carlos Matuk López de Nava, Luis Iván Gurrola Vega, Juan Cuitláhuac Avalos Méndez, Ricardo del Rivero Martínez y Marco Aurelio Rosales Saracco; Presidente, Secretario y vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-CONSIDERANDOS…
+CONSIDERANDOS
+
+[...]
 
 DECRETO No. 465
 
@@ -677,15 +679,17 @@ Las exenciones de impuestos o derechos y estímulos fiscales serán intransferib
 
 La exención temporal de los siguientes impuestos y derechos estatales, se aplicarán de conformidad con lo siguiente:
 
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
 I. Impuesto Sobre Nómina:
 
-a. Micro y pequeña empresa, hasta 2 años de exención.
+a. Micro y pequeña empresa, hasta 3 años de exención.
 
-b. Mediana empresa, hasta 4 años de exención.
+b. Mediana empresa, hasta 5 años de exención.
 
-c. Empresa grande, hasta 5 años de exención.
+c. Empresa grande, hasta 6 años de exención.
 
-d. Sociedad cooperativa, hasta 3 años de exención.
+d. Sociedad cooperativa, hasta 4 años de exención.
 
 II. Impuesto para la Modernización de los Registros Públicos: Para la aplicación del presente beneficio, se estará a lo dispuesto por esta Ley, su Reglamento, en la Ley de Hacienda del Estado de Durango y en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente, por contratos de actos traslativos de dominio de bienes inmuebles directamente relacionados con los proyectos de inversión y que formen parte de los activos fijos del solicitante.
 
@@ -1300,3 +1304,13 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL ÁNGEL OLVERA ESCALERA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 96.- QUE CONTIENE REFORMAS Y ADICIONES A LA FRACCIÓN I DEL ARTÍCULO 59 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
