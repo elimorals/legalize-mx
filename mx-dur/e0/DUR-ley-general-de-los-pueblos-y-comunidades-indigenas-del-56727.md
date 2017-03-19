@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-los-pueblos-y-comunidades-indigenas-del-56727"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-22"
-last_updated: "2015-09-06"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de julio de 2007.
 
@@ -35,7 +35,7 @@ Con fecha 9 de diciembre de 2002, 21 de abril de 2004 y 25 de mayo de 2006, se p
 
 CONSIDERANDOS
 
-.
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIII Legislatura del Estado, expide el siguiente:
 
@@ -717,9 +717,9 @@ Las autoridades tradicionales del lugar tendrán la custodia del indígena sente
 
 Las autoridades tradicionales de los pueblos y comunidades indígenas, procurarán y administrarán justicia, aplicando sus sistemas normativos internos, siempre y cuando no contravengan la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
-Las autoridades tradicionales tendrán competencia para conocer y resolver controversias en materia civil de los asuntos cuya cuantía no exceda de 182 días de salario mínimo vigente en el Estado y en materia penal, siempre y cuando no se trate de delitos graves consignados en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como de aquellos que se persiguen de oficio por la legislación penal aplicable.
+Las autoridades tradicionales tendrán competencia para conocer y resolver controversias en materia civil de los asuntos cuya cuantía no exceda de 182 veces la Unidad de Medida y Actualización y en materia penal, siempre y cuando no se trate de delitos graves consignados en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como de aquellos que se persiguen de oficio por la legislación penal aplicable.
 
 ###### ARTÍCULO 97.
 
@@ -743,7 +743,9 @@ PRIMERO.- La presente Ley entrará en vigor al día siguiente al de su Publicaci
 
 SEGUNDO.- El Tribunal Superior de Justicia del Estado, tomará las previsiones presupuestales necesarias para el ejercicio fiscal de 2008, a efecto de cumplir las obligaciones previstas en la presente Ley.
 
-TERCERO.- El Tribunal Superior de Justicia del Estado, en ejercicio de la facultad que dispone la fracción III del artículo 50 de la Constitución Política del Estado Libre y Soberano de Durango, y en cumplimiento a las obligaciones previstas en la presente Ley, propondrá a esta Representación Popular, las reformas conducentes a la Ley Orgánica del Poder Judicial del Estado de Durango, a efecto de determinar el número y adscripción territorial de los Juzgados Mixtos de Primera Instancia con Jurisdicción Mixta para Asuntos Indígenas, en aquellos municipios en que estén asentados pueblos y comunidades indígenas reconocidos en esta Ley.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+TERCERO.- El Tribunal Superior de Justicia del Estado, en ejercicio de la facultad que dispone la fracción III del artículo 78 de la Constitución Política del Estado Libre y Soberano de Durango, y en cumplimiento a las obligaciones previstas en la presente Ley, propondrá a esta Representación Popular, las reformas conducentes a la Ley Orgánica del Poder Judicial del Estado de Durango, a efecto de determinar el número y adscripción territorial de los Juzgados Mixtos de Primera Instancia con Jurisdicción Mixta para Asuntos Indígenas, en aquellos municipios en que estén asentados pueblos y comunidades indígenas reconocidos en esta Ley.
 
 CUARTO.- El Gobernador del Estado, emitirá la declaratoria de sitios o lugares sagrados y de centros ceremoniales que reconocen los pueblos y comunidades indígenas, en un plazo que no excederá de tres años contados a partir de la fecha en que entre en vigor la presente, dicha declaratoria deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
@@ -775,10 +777,30 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. OLIVERIO REZA CUELLAR
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 6 DE SEPTIEMBRE DE 2015.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 103.- QUE CONTIENE REFORMA AL ARTÍCULO TERCERO TRANSITORIO DE LA LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que contravengan a lo dispuesto por el presente decreto.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 104.- QUE CONTIENE REFORMA AL ARTÍCULO 96 DE LA LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
