@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2016-05-04"
+last_updated: "2017-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el miércoles 4 de mayo de 2016.
 
@@ -2053,7 +2053,9 @@ El Instituto, en el ámbito de su competencia, podrá imponer al servidor públi
 
 I. Amonestación pública, o
 
-II. Multa de ciento cincuenta hasta mil quinientas veces el salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+II. Multa de ciento cincuenta hasta mil quinientas veces la Unidad de Medida y Actualización.
 
 ###### Artículo 162.
 
@@ -2173,13 +2175,21 @@ Las infracciones a lo previsto en la presente Ley por parte de sujetos obligados
 
 I. El apercibimiento, por única ocasión, para que el sujeto obligado cumpla su obligación de manera inmediata, en los términos previstos en esta Ley, tratándose de los supuestos previstos en las fracciones I, III, V, VI y X del artículo 165 de esta Ley.
 
-Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de ciento cincuenta a doscientos cincuenta días de salario mínimo general vigente en el área geográfica de que se trate;
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
-II. Multa de doscientos cincuenta a ochocientos días de salario mínimo general vigente en el área geográfica de que se trate, en los casos previstos en las fracciones II y IV del artículo 165 de esta Ley, y
+Si una vez hecho el apercibimiento no se cumple de manera inmediata con la obligación, en los términos previstos en esta Ley, tratándose de los supuestos mencionados en esta fracción, se aplicará multa de ciento cincuenta a doscientos cincuenta veces la Unidad de Medida y Actualización;
 
-III. Multa de ochocientos a mil quinientos días de salario mínimo general vigente en el área geográfica de que se trate, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 165 de esta Ley.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
 
-Se aplicará multa adicional de hasta cincuenta días de salario mínimo general vigente en el área geográfica de que se trate, por día, a quien persista en las infracciones citadas en los incisos anteriores.
+II. Multa de doscientas cincuenta a ochocientas veces la Unidad de Medida y Actualización, en los casos previstos en las fracciones II y IV del artículo 165 de esta Ley, y
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+III. Multa de ochocientas a mil quinientas veces la Unidad de Medida y Actualización, en los casos previstos en las fracciones VII, VIII, IX, XI, XII, XIII, XIV y XV del artículo 165 de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+Se aplicará multa adicional de hasta cincuenta veces la Unidad de Medida y Actualización, a quien persista en las infracciones citadas en las fracciones anteriores.
 
 ###### Artículo 175.
 
@@ -2256,3 +2266,17 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO DEL ESTADO DE DURANGO
 
 LIC. MIGUEL ÁNGEL OLVERA ESCALERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 111.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
