@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-de-bienes-asegurados-decomisados-103
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-27"
-last_updated: "2014-11-27"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 27 de noviembre de 2014
 
@@ -67,9 +67,13 @@ I. Ministerio Público: El Ministerio Público del Estado.
 
 II. Fiscalía: La Fiscalía General del Estado de Durango.
 
-III. Interesado: La persona que conforme a derecho, tenga interés jurídico sobre los bienes asegurados.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
 
-IV. Servicio de Administración: El órgano desconcentrado de la Secretaría de Finanzas y de Administración del Estado, denominado Servicio de Administración de Bienes Asegurados.
+III. Interesado: La persona que conforme a derecho, tenga interés jurídico sobre los bienes asegurados, decomisados o abandonados.
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+IV. Servicio de Administración: El órgano desconcentrado de la Secretaría de Finanzas y de Administración del Estado, denominado Servicio de Administración de Bienes Asegurados, decomisados o abandonados.
 
 V. Autoridad Judicial: El órgano jurisdiccional competente adscrito al Tribunal Superior de Justicia del Estado de Durango.
 
@@ -77,11 +81,45 @@ VI. Comisión: La Comisión para la supervisión de la administración de bienes
 
 VII. Secretario Técnico: El Secretario Técnico de la Comisión para la supervisión de la administración de bienes asegurados, decomisados o abandonados.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
 ###### Artículo 3.
 
 Administración de los bienes.
 
-Los bienes asegurados durante el procedimiento penal serán administrados por el Servicio de Administración, de conformidad con las disposiciones de la presente ley.
+Los bienes asegurados durante el procedimiento penal serán administrados por el Servicio de Administración, de conformidad con las disposiciones de la presente ley, hasta que se resuelva su devolución, abandono o decomiso.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+Artículo 3 bis 1. Las autoridades competentes conforme a esta Ley, procederán al inmediato aseguramiento de aquellos bienes que corresponda asegurar, conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+Artículo 3 bis 2. Al realizar el aseguramiento, los agentes del Ministerio Público, con el auxilio de la Policía Investigadora de Delitos, o bien los actuarios y demás funcionarios que designe la autoridad judicial para practicar la diligencia, según corresponda, deberán:
+
+a).- Levantar acta que incluya inventario con la descripción y el estado en que se encuentren los bienes que se aseguren;
+
+b).- Identificar los bienes asegurados con sellos, marcas, cuños, fierros, señales u otros medios adecuados;
+
+c).- Acordar las medidas convenientes e inmediatas para impedir que los bienes asegurados se destruyan, alteren o desaparezcan;
+
+d).- Requerir a las autoridades que corresponda para que hagan constar el aseguramiento en los registros públicos que corresponda;
+
+e).- Pedir, en su caso, que se realice el avalúo correspondiente, y
+
+f).- Hacer la entrega dentro de las 48 horas de haber concluido el aseguramiento al Servicio de Administración.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+Artículo 3 bis 3. La autoridad competente en la administración de los bienes deberá organizar una base de datos que contendrá el registro de los bienes asegurados, decomisados o abandonados, la cual podrá ser consultada por las autoridades judiciales, la Fiscalía, las dependencias y entidades de la Administración Pública Estatal, el Congreso del Estado, además de las personas que acrediten tener un interés legítimo.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+Artículo 3 bis 4. La autoridad que acuerde el aseguramiento de un bien, estará obligada a notificar al interesado o a su representante legal dentro de los veinte días siguientes, y deberá entregar o poner a su disposición, según sea el caso, copia certificada del acta que contiene el inventario con la descripción y el estado en que se encuentren los bienes que se aseguren, con el propósito de respetar su derecho de audiencia.
+
+En la notificación a que se refiere el párrafo anterior se deberá prevenir al interesado o a su representante legal, para que no venda o grave los bienes asegurados.
+
+En la notificación deberá apercibirse al interesado o a su representante legal que de no manifestar lo que a su derecho convenga, en los plazos de cuatro meses tratándose de bienes muebles, o de ocho meses tratándose de bienes inmuebles, se decretará el abandono en favor del Estado. La autoridad judicial competente acordará la ratificación del decreto de abandono, en un plazo que no excederá de diez días hábiles, a partir de que el Servicio de Administración lo solicite.
 
 ### CAPÍTULO II. De la Comisión
 
@@ -106,6 +144,10 @@ III. El Secretario de Finanzas y de Administración del Estado.
 IV. El Secretario de Salud del Estado.
 
 V. El Titular del Servicio de Administración, quien será el Secretario Técnico y tendrá voz pero no voto.
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2017)</small>
+
+VI. Un auditor designado por la Entidad de Auditoria Superior del Estado de Durango, con voz pero sin voto, el cual contará con todas las facultades para la inspección, supervisión y vigilancia sobre la administración de los bienes asegurados, decomisados o abandonados.
 
 Los integrantes de la misma podrán nombrar a sus respectivos suplentes.
 
@@ -189,7 +231,11 @@ IV. Llevar el registro y seguimiento de los acuerdos de la Comisión.
 
 V. Fungir como representante de la Comisión para efectos de rendir los informes previos y justificados en los juicios de amparo en que la propia Comisión sea señalada como autoridad responsable, así como los demás que le sean solicitados.
 
-VI. Las demás que señalen otros ordenamientos o que mediante acuerdo determine la Comisión.
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2017)</small>
+
+VI. Rendir un informe anual detallado, ante el Congreso del Estado, que contenga el inventario actualizado, la situación física, uso y destino de los bienes objeto de esta ley, así como, un informe que muestre el uso y destino de los recursos obtenidos por la venta, renta o administración de dichos bienes; el informe deberá ser incluido en la Cuenta Pública que presente el Gobierno del Estado, con el objeto de verificar si el Servicio de Administración, realizó sus funciones de conformidad con lo previsto en esta Ley y las demás disposiciones aplicables.
+
+VII. Las demás que señalen otros ordenamientos o que mediante acuerdo determine la Comisión.
 
 ### CAPÍTULO IV. De la Administración
 
@@ -197,9 +243,13 @@ VI. Las demás que señalen otros ordenamientos o que mediante acuerdo determine
 
 Administración de los bienes asegurados.
 
-La administración de los bienes asegurados comprende su recepción, registro, custodia, conservación, supervisión y en su caso entrega.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
-Los bienes serán conservados en el estado en que se hayan asegurado, para ser devueltos en las mismas condiciones, salvo el deterioro normal que se cause por el transcurso del tiempo. Podrán utilizarse o ser enajenados, previo acuerdo de la Autoridad Judicial o el Ministerio Público, según corresponda, exclusivamente en los casos y cumpliendo los requisitos establecidos en esta ley.
+Los bienes serán conservados en el estado en que se hayan asegurado, para ser devueltos en las mismas condiciones, salvo el deterioro normal que se cause por el transcurso del tiempo. Podrán utilizarse, arrendarse o ser enajenados, previo acuerdo de la Autoridad Judicial o el Ministerio Público, según corresponda, exclusivamente en los casos y cumpliendo los requisitos establecidos en esta ley.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+El Servicio de Administración será responsable de los daños derivados de la pérdida, extravío o deterioro de los bienes asegurados que administre. Quien tenga derecho a la devolución de bienes que hubieran sufrido daños, podrá reclamar su pago.
 
 ###### Artículo 11.
 
@@ -215,11 +265,15 @@ Seguro de los bienes.
 
 El Servicio de Administración o el depositario, interventor o administrador de bienes asegurados, contratará seguros por valor real, cuando exista posibilidad de su pérdida o daño siempre que el valor y las características lo ameriten, de conformidad con los lineamientos emitidos para tal efecto por la Comisión, siempre y cuando exista la disponibilidad presupuestal para hacerlo y así lo acuerde la Comisión.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
 ###### Artículo 13.
 
 Destino de los recursos.
 
-Los recursos que se obtengan de la administración de los bienes asegurados, se mantendrá en un Fondo que se entregará a quien en su momento acredite tener derecho.
+Los recursos que se obtengan de la administración de los bienes asegurados, se mantendrán en un Fondo que se entregará a quien en su momento acredite tener derecho. En el caso de los bienes decomisados y los abandonados, los recursos que se obtengan de la administración, sus frutos y productos, así como los derivados de su venta, serán considerados aprovechamientos en los términos del Código Fiscal del Estado de Durango.
+
+Los aprovechamientos a que se refiere el párrafo anterior, una vez descontados los costos de administración, gastos de mantenimiento y conservación, deberán ser destinados a instituciones de asistencia social, desarrollo rural o de investigación científica.
 
 ###### Artículo 14.
 
@@ -311,7 +365,9 @@ Bienes decomisados.
 
 Los bienes asegurados de los que se decrete su decomisó, conforme al Código Nacional de Procedimientos Penales, serán enajenados o destruidos en los términos de dicho ordenamiento y demás legislación aplicable.
 
-El producto de la enajenación será distribuido conforme a las reglas que señala el Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+El producto de la enajenación será distribuido conforme a las reglas que señala esta ley, y en su caso, de resultar procedente, se aplicarán las reglas establecidas en el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 27.
 
@@ -344,6 +400,68 @@ I. Cuando se presente fuera de tiempo.
 II. Cuando no se acredite fehacientemente la personalidad con que se actúa.
 
 III. Cuando no esté suscrito, a menos que se firme antes del vencimiento del término para interponerlo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MARZO DE 2017)</small>
+
+### CAPÍTULO IX. Responsabilidades y Sanciones
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+###### Artículo 30.
+
+Las violaciones a la presente Ley se sancionarán de conformidad con las disposiciones de este Capítulo, independientemente de la responsabilidad que les corresponda por el incumplimiento de sus obligaciones, sin perjuicio de las sanciones previstas en otros ordenamientos legales y de las consecuencias jurídicas que procedan en materia de bienes asegurados, decomisados o abandonados.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+###### Artículo 31.
+
+Las multas previstas en esta Ley se impondrán a razón de la Unidad de Medida y Actualización al momento de realizarse la conducta. Podrán aplicarse de manera conjunta o indistintamente.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+###### Artículo 32.
+
+Para la imposición de las sanciones, se tomará en cuenta lo siguiente:
+
+I. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+II. La gravedad de la infracción;
+
+III. Los daños que se hubieren producido o puedan producirse;
+
+IV. La capacidad económica del infractor; y
+
+V. La reincidencia del infractor. En todos los casos de reincidencia se duplicará la multa impuesta por la infracción anterior.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+###### Artículo 33.
+
+Se entiende por reincidencia, para los efectos de esta Ley y demás disposiciones derivadas de ella, cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro del año siguiente a la fecha del acta en que se hizo constar la infracción precedente, siempre que ésta no hubiese sido desvirtuada. Si con un solo acto u omisión se incurre en diversas infracciones, se aplicarán las sanciones que correspondan a cada una de ellas, de manera independiente.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+###### Artículo 34.
+
+Se impondrá multa a quien no cumpla las disposiciones contenidas en la presente Ley, por el equivalente de 300 a 1000 veces la Unidad de Medida y Actualización, además de la destitución del cargo e inhabilitación en su caso.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+###### Artículo 35.
+
+Las multas consignadas en el artículo anterior, se aplicarán sin perjuicio de la responsabilidad que por daños y perjuicios le resulten al infractor.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+###### Artículo 36.
+
+Las sanciones administrativas de que trata este Capítulo serán impuestas, en su caso, por la Entidad de Auditoria Superior del Estado, quien podrá delegar el ejercicio de esta facultad en los funcionarios subordinados que estime conveniente, mediante acuerdo que se publique en el Periódico Oficial que corresponda.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+###### Artículo 37.
+
+En todo caso, para imponer la sanción que corresponda, la autoridad responsable de aplicar las sanciones previstas en esta Ley, deberán respetar los derechos al debido proceso y de audiencia al interesado.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -380,3 +498,13 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL ANGEL OLVERA ESCALERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 117.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS DEL ESTADO DE DURANGO".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
