@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-prevencion-y-asistencia-para-la-atencion-de-las-81692"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-17"
-last_updated: "2015-11-15"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PREVENCIÓN Y ASISTENCIA PARA LA ATENCIÓN DE LAS ADICCIONES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de abril de 2001.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE
 
 Con fecha 14 de junio de 2010 los CC. Diputados Omar José Jiménez Herrera, Jorge Herrera Delgado, Francisco Ávila Cabada, Ernesto Abel Alanis Herrera, Rodrigo Victorino Esparza, Mariano Soto Caldera, Sergio Gamero Dueñez, María Asención Isidra Martínez Zabala, Francisco Gamboa Herrera, Martha Eugenia Castro González, Hipólito Pasillas Ortiz, Juan Moreno Espinoza, María Isabel Cisneros Torres, Pedro Herrera Favela, Fernando Ulises Adame de León, y Rosauro Meza Sifuentes, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional de la LXIV Legislatura, que contiene LEY DE PREVENCIÓN Y ASISTENCIA PARA LA ATENCIÓN DE LAS ADICCIONES DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Salud Pública integrada por los CC. Diputados: Lourdes Eulalia Quiñones Canales, Judith Irene Murguía Corral, Dagoberto Limones López, Rodolfo Benito Guerrero García y Pedro Silerio García; Presidente, Secretario y Vocales respectivamente los cuales emitieron su dictamen favorable con base en los siguientes:
 
-CONSIDERANDOS.
+CONSIDERANDOS
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXV Legislatura del Estado, expide el siguiente:
 
@@ -639,7 +641,9 @@ Las violaciones a los preceptos de esta Ley, que realicen los centros privados o
 
 l. Amonestación con apercibimiento;
 
-II. Multa de 50 a 500 salarios mínimos diarios vigentes en la ciudad de Durango; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+II. Multa de 50 a 500 veces la Unidad de Medida y Actualización; y
 
 III. Clausura temporal o permanente.
 
@@ -722,3 +726,15 @@ P.O. 15 DE NOVIEMBRE DE 2015.
 PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido de esta ley.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 107.- POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 53 DE LA LEY DE PREVENCIÓN Y ASISTENCIA PARA LA ATENCIÓN DE LAS ADICCIONES DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
