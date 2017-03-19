@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-a-los-no-fumadores-para-el-estado-de-51130"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-29"
-last_updated: "2008-11-23"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE PROTECCION A LOS NO FUMADORES PARA EL ESTADO DE DURANGO
 
-LEY DE PROTECCION A LOS NO FUMADORES PARA EL ESTADO DE DURANGO
+LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 2006.
 
@@ -31,15 +31,13 @@ EL CIUDADANO CONTADOR PUBLICO ISMAEL ALFREDO HERNANDEZ DERAS, GOBERNADOS CONSTIT
 
 QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-.
+[...]
 
 Con base en la anterior Exposición de Motivos, esta H. LXIII Legislatura del Estado, expide el siguiente:
 
 DECRETO No. 240
 
 LA H HONORABLE LXIII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, CON LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A NOMBRE DEL PUEBLO DECRETA:
-
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO No. 186, POR LA SEXAGESIMA CUARTA LEGISLATURA, MODIFICA DE MANERA SUSTANCIAL, PRÁCTICAMENTE TODO EL TEXTO DE LA PRESENTE LEY, DANDO COMO RESULTADO EN TEXTO; DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DEL 23 DE NOVIEMBRE DE 2008.</small>
 
 LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE DURANGO
 
@@ -119,7 +117,7 @@ En la vigilancia del cumplimiento de esta Ley, coadyuvarán:
 
 I. Los propietarios, poseedores, responsables y empleados de los espacios 100% libres de humo de tabaco, a los que se refiere esta Ley;
 
-II. Los maestros, el personal administrativo de las instituciones dé educación y los integrantes de las asociaciones de padres de familia;
+II. Los maestros, el personal administrativo de las instituciones de educación y los integrantes de las asociaciones de padres de familia;
 
 III. Los usuarios de los espacios 100% libres de humo de tabaco que en todo momento podrán exigir el cumplimiento de las disposiciones de la presente Ley;
 
@@ -347,17 +345,17 @@ V. Las demás que señalan las leyes o reglamentos.
 
 La Secretaría podrá aplicar las medidas preventivas y correctivas establecidas en la Ley General de Salud, en la Ley de Salud del Estado de Durango, en la Ley General para el Control del Tabaco, en sus respectivos reglamentos, así como en las Normas Oficiales Mexicanas y en los acuerdos y decretos que se expidan en materia de salud.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
 ###### Artículo 25.
 
-Se sancionará con multa de hasta 100 veces el salario mínimo diario general vigente en el Estado, el incumplimiento a lo dispuesto en el artículo 12 de esta Ley.
+Se sancionará con multa de hasta 100 veces la Unidad de Medida y Actualización, el incumplimiento a lo dispuesto en el artículo 12 de esta Ley.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
 ###### Artículo 26.
 
-Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo diario general vigente en el Estado, el incumplimiento de los artículos 16 y 17 cuando se trate de los propietarios, poseedores, responsables y empleados de los espacios 100% libres de humo de tabaco.
+Se sancionará con multa de mil hasta cuatro mil veces la Unidad de Medida y Actualización, el incumplimiento de los artículos 16 y 17 cuando se trate de los propietarios, poseedores, responsables y empleados de los espacios 100% libres de humo de tabaco.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2008)</small>
 
@@ -443,7 +441,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO LÓPEZ PESCADOR.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 23 DE NOVIEMBRE DE 2008.
 
@@ -466,3 +464,15 @@ En un periodo que no excederá de noventa días naturales, la Secretaría emitir
 ###### ARTÍCULO QUINTO.
 
 Los propietarios, poseedores, responsables y administradores de los establecimientos que pretendan contar con zonas exclusivas para fumar, dispondrán de 180 días posteriores a la publicación del presente Decreto, para llevar a cabo las modificaciones o adecuaciones necesarias.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 106.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
