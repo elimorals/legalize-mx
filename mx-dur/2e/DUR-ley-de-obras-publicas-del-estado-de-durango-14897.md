@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-obras-publicas-del-estado-de-durango-14897"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-13"
-last_updated: "2014-12-28"
+last_updated: "2017-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE OBRAS PÚBLICAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 13 de junio de 1999.
 
@@ -53,9 +53,7 @@ DECRETO No. 146
 
 LA HONORABLE SEXAGÉSIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, DECRETA:
 
-LEY DE OBRAS PÚBLICAS
-
-DEL ESTADO DE DURANGO
+LEY DE OBRAS PÚBLICAS DEL ESTADO DE DURANGO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -349,11 +347,15 @@ La contratación que deba celebrarse para la ejecución de obras públicas, se l
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 29.
 
-Las dependencias, entidades, así como los Municipios de Durango, Gómez Palacio y Lerdo, cuando por razón del monto de la obra, resulte inconveniente llevar a cabo el procedimiento a que se refiere el artículo anterior, por el costo que éste represente, se podrá contratar sin ajustarse a dicho procedimiento, siempre que el monto de la obra objeto del contrato no exceda del monto máximo, en base al cual, se podrá contratar directamente, y el cual no deberá exceder de veinte veces el salario mínimo general de la zona económica en la que se va a ejecutar la obra, elevada al año, sin considerar el IVA.
+Las dependencias, entidades, así como los Municipios de Durango, Gómez Palacio y Lerdo, cuando por razón del monto de la obra, resulte inconveniente llevar a cabo el procedimiento a que se refiere el artículo anterior, por el costo que éste represente, se podrá contratar sin ajustarse a dicho procedimiento, siempre que el monto de la obra objeto del contrato no exceda del monto máximo, en base al cual, se podrá contratar directamente, y el cual no deberá exceder de veinte veces la Unidad de Medida y Actualización, elevada al año, sin considerar el IVA.
 
-Si el monto de la obra supera los máximos a que se refiere el párrafo anterior, pero no excede de ciento diez veces el salario mínimo general de la zona económica en la que se va a ejecutar la obra, elevado al año sin considerar el IVA; capacidad de respuesta y los recursos técnicos, el contrato relativo podrá adjudicarse a la persona física o moral que reúna las condiciones necesarias para la realización de la misma, previa invitación que se extenderá a cuando menos tres personas, físicas o morales, que cuenten con la capacidad de respuesta y los recursos técnicos, financieros y demás que sean necesarios para la ejecución de la obra.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+Si el monto de la obra supera los máximos a que se refiere el párrafo anterior, pero no excede de ciento diez veces la Unidad de Medida y Actualización, elevado al año sin considerar el IVA; el contrato relativo podrá adjudicarse a la persona física o moral que reúna las condiciones necesarias para la realización de la misma, previa invitación que se extenderá a cuando menos tres personas, físicas o morales, que cuenten con la capacidad de respuesta y los recursos técnicos, financieros y demás que sean necesarios para la ejecución de la obra.
 
 La licitación pública se realizará cuando el costo de la obra exceda del monto señalado como límite en el párrafo anterior.
 
@@ -953,9 +955,11 @@ El resultado de las verificaciones se harán constar en un dictamen que será fi
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 79.
 
-Quienes infrinjan las disposiciones contenidas en esta ley, serán sancionados por la convocante, tratándose del licitante, con multa hasta de 1000 veces el salario mínimo general vigente en el Estado a la fecha de la infracción, misma que se determinará tomando en cuenta los siguientes criterios:
+Quienes infrinjan las disposiciones contenidas en esta ley, serán sancionados por la convocante, tratándose del licitante, con multa hasta de 1000 veces la Unidad de Medida y Actualización, misma que se determinará tomando en cuenta los siguientes criterios:
 
 I. Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de eliminar prácticas tendientes a infringir, en cualquier forma, las disposiciones de esta ley, o las que se dicten con base en ella;
 
@@ -1203,7 +1207,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS DIEZ
 
 EL GOBERNADO CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 28 DE DICIEMBRE DE 2014.
 
@@ -1214,3 +1218,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 102.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
