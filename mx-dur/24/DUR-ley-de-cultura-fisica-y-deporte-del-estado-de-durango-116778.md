@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-fisica-y-deporte-del-estado-de-durango-116778"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-22"
-last_updated: "2016-09-22"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el número 76 del Periódico Oficial del Estado de Durango, el jueves 22 de septiembre de 2016.
 
@@ -733,11 +733,17 @@ Los estímulos de otra naturaleza que soliciten las organizaciones a las autorid
 
 A los deportistas duranguenses que hubieren competido oficialmente, representando a México, se les otorgará por parte del Gobierno del Estado, una pensión mensual de acuerdo a lo siguiente:
 
-I.- En juegos Olímpicos y Paralímpicos una pensión mensual de hasta cien veces el salario diario mínimo vigente en el Estado.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
 
-II. En Juegos Panamericanos una pensión mensual de hasta ochenta veces el salario diario mínimo vigente en el Estado.
+I. En juegos Olímpicos y Paralímpicos una pensión mensual de hasta cien veces la Unidad de Medida y Actualización;
 
-III. En Juegos Centroamericanos una pensión mensual de hasta sesenta veces el salario diario mínimo vigente en el Estado.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+II. En Juegos Panamericanos una pensión mensual de hasta ochenta veces la Unidad de Medida y Actualización, y
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+III. En Juegos Centroamericanos una pensión mensual de hasta sesenta veces la Unidad de Medida y Actualización.
 
 La pensión a que se refiere la fracción I de este artículo será otorgada de manera vitalicia a aquellos deportistas que obtengan medalla en dichas competencias, para el resto de los competidores se estará a lo dispuesto por el reglamento respectivo.
 
@@ -1028,3 +1034,17 @@ SECRETARIO.
 DIP. ISRAEL SOTO PEÑA
 
 SECRETARIO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 109.- POR EL QUE SE REFORMA EL ARTICULO 67 FRACCIONES DE LA I A LA III DE LA LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
