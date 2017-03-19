@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-para-los-municipios-del-estado-de-durango-51504
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-20"
-last_updated: "2017-03-05"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de julio de 2006.
 
@@ -1325,6 +1325,16 @@ Este derecho lo pagarán los particulares o empresas que realicen actividades de
 
 Los derechos que se causen por estos conceptos, se pagarán de conformidad con las cuotas y tarifas que para tal efecto contenga la Ley de Ingresos Municipal.
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+Artículo 161 BIS.- El servicio prestado en materia de obras públicas y desarrollo urbano por licencia de rompimiento de pavimento público se cobrará a 5 veces la Unidad de Medida y Actualización por metro cuadrado o fracción.
+
+De forma independiente a la autorización señalada en el párrafo anterior, se pagará a favor del Municipio el concepto de recuperación de área a romper de pavimento público, en los términos de las normativas fiscales y reglamentarias que así lo prevengan, y debiendo asegurar dicho pago las mismas garantías de calidad que indican las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+Artículo 161 BIS 1.- El incumplimiento que se origine por omitir la liquidación del concepto de recuperación de área a romper de pavimento público, será pagado al Municipio y sancionado conforme a los ordenamientos respectivos en la materia.
+
 #### SECCIÓN VIGÉSIMA SEGUNDA
 
 POR ESTABLECIMIENTO DE INSTALACIÓN DE MOBILIARIO URBANO Y PUBLICITARIO, EN LA VÍA PÚBLICA.
@@ -1704,3 +1714,13 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 118.- POR EL QUE SE ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Los Municipios del Estado de Durango, deberán realizar las modificaciones y adecuaciones necesarias a sus reglamentos en la materia, en un término no mayor a 60 días a partir de la entrada en vigencia del presente decreto.
+
+TERCERO. Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
