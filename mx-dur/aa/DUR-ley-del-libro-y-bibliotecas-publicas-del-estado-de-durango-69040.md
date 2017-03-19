@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-libro-y-bibliotecas-publicas-del-estado-de-durango-6904
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-07"
-last_updated: "2014-03-18"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL LIBRO Y BIBLIOTECAS PÚBLICAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de junio de 2009.
 
@@ -873,11 +873,13 @@ La Biblioteca Central realizará trimestralmente una relación de las obras que 
 
 Los editores y productores del Estado que no cumplan con la obligación de realizar el depósito legal establecido en esta Ley, se harán acreedores a una multa equivalente a hasta diez veces el precio de venta al público de los materiales no entregados.
 
-En el caso de los autores que tengan su domicilio o residencia en el Estado que incumplan con lo dispuesto en esta Ley, se les aplicará una multa de 15 a 30 veces el salario mínimo diario vigente en el Estado.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
-Para las obras de distribución gratuita, la multa será por una cantidad no menor de diez ni mayor de veinte días del salario mínimo general vigente en el Estado.
+En el caso de los autores que tengan su domicilio o residencia en el Estado que incumplan con lo dispuesto en esta Ley, se les aplicará una multa de 15 a 30 veces la Unidad de Medida y Actualización.
 
-La Secretaría de Finanzas y de Administración del Gobierno del Estado, será la dependencia estatal facultada para aplicar las sanciones correspondientes establecidas en esta Ley. La aplicación de la sanción no excusa al infractor de cumplir con la entrega de los materiales.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+Para las obras de distribución gratuita, la multa será por una cantidad no menor de diez ni mayor de veinte veces la Unidad de Medida y Actualización. La Secretaría de Finanzas y de Administración del Gobierno del Estado, será la dependencia estatal facultada para aplicar las sanciones correspondientes establecidas en esta Ley. La aplicación de la sanción no excusa al infractor de cumplir con la entrega de los materiales.
 
 En el supuesto de incumplimiento atribuible a algún servidor público, se aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
@@ -976,3 +978,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que opongan (sic) al presente decreto.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 99 QUE CONTIENE REFORMA AL ARTÍCULO 68 DE LA LEY DEL LIBRO Y BIBLIOTECAS PUBLICAS DEL ESTADO DE DURANGO.”]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
