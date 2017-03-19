@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-victimas-del-estado-de-durango-101020"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2014-05-06"
+last_updated: "2017-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DE VÍCTIMAS DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE EL DECRETO NÚMERO 148, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS 180 DÍAS POSTERIORES A SU PUBLICACIÓN TOMANDO EN CONSIDERACIÓN LAS SIGUIENTES PREVENCIONES: I. LAS DISPOSICIONES ESTABLECIDAS EN LOS ARTÍCULOS 23, 31, 32, 63, 64, 65 Y 66, RELATIVAS A LA ASESORÍA JURÍDICA, ENTRARÁN EN VIGOR A LAS CERO HORAS CON UN MINUTO, DEL DÍA 7 DE MAYO DEL AÑO 2014, EN EL PRIMER DISTRITO JUDICIAL Y EL DÍA 10 DE JUNIO DE 2014 A LAS CERO HORAS CON UN MINUTO EN LOS SEGUNDO Y TERCER DISTRITOS JUDICIALES Y EN EL RESTO DE LOS DISTRITITOS (SIC) JUDICIALES, CONFORME A LO (SIC) ESTABLEZCA LA DECLARATORIA QUE EMITA ESTE PODER LEGISLATIVO; Y LAS DISPOSICIONES ESTABLECIDAS EN LOS ARTÍCULOS 23, 31, 48, 49, 50, 51 Y 55, RELATIVAS AL FONDO ESTATAL, ENTRARÁN EN VIGOR EL DÍA 1° DE ENERO DEL AÑO 2015. CON INDEPENDENCIA A LO DISPUESTO EN LA FRACCIÓN I DEL CITADO ARTÍCULO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -757,7 +755,9 @@ Cuando la determinación y cuantificación del monto a otorgar no haya sido dada
 
 La Comisión Estatal en pleno determinará el monto del pago de una compensación en forma subsidiaria a cargo del Fondo Estatal, misma que deberá dictarse dentro del plazo de treinta días contados a partir de emitida la resolución correspondiente.
 
-El monto de la compensación subsidiaria a la que se podrá obligar al Estado, será hasta de quinientas veces el salario mínimo mensual vigente en el Estado, ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima. El monto de gasto comprobable mínimo no deberá ser mayor al veinticinco por ciento del monto total.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+El monto de la compensación subsidiaria a la que se podrá obligar al Estado, será hasta de quinientas veces la Unidad de Medida y Actualización, ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima. El monto de gasto comprobable mínimo no deberá ser mayor al veinticinco por ciento del monto total.
 
 Las normas reglamentarias aplicables establecerán el procedimiento, la forma y los plazos en que deberá cumplirse lo dispuesto por el presente artículo.
 
@@ -932,3 +932,17 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 98.- POR EL QUE SE REFORMA EL ARTÍCULO 63 DE LA LEY DE VICTIMAS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
