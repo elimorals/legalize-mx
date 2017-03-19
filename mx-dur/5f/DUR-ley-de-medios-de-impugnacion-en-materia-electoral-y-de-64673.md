@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-medios-de-impugnacion-en-materia-electoral-y-de-64673"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-16"
-last_updated: "2016-09-22"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2008.
 
@@ -543,7 +543,9 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa de cincuenta hasta cinco mil veces el salario mínimo diario general vigente en el Estado. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+III. Multa de cincuenta hasta cinco mil veces la Unidad de Medida y Actualización. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
 
 IV. Auxilio de la fuerza pública; y
 
@@ -1034,3 +1036,15 @@ P.O. 22 DE SEPTIEMBRE DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 112.- POR EL QUE SE REFORMA EL ARTICULO 34 FRACCIÓN III DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE DURANGO."]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
