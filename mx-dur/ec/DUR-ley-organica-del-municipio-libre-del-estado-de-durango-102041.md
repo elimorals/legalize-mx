@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2016-06-12"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 12 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -725,7 +725,9 @@ El Presidente Municipal hará uso en su orden, de los siguientes medios de aprem
 
 I. Apercibimiento.
 
-II. Multa de 5 a 10 veces el salario mínimo diario vigente en la zona económica a que corresponda el municipio; en este caso, deberá tomar en cuenta la gravedad de la falta, la condición económica del infractor y lo que establecen los párrafos cuarto, quinto y sexto del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+II. Multa de 5 a 10 veces la Unidad de Medida y Actualización; en este caso, deberá tomar en cuenta la gravedad de la falta, la condición económica del infractor y lo que establecen los párrafos cuarto, quinto y sexto del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 III. Arresto no mayor de 36 horas.
 
@@ -2290,3 +2292,15 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Los ayuntamientos del Estado adecuarán, en su caso, la normatividad interna que corresponda, conforme a lo dispuesto en el presente Decreto en un plazo no mayor a 60 días a partir de la entrada en vigor del presente.
 
 En tanto los ayuntamientos llevan a cabo las adecuaciones que correspondan, las cartas de origen se tramitarán atendiendo a las prevenciones de este decreto.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 115.- POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 58 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
