@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5063
 country: "mx"
 rank: "ley"
 publication_date: "1980-08-14"
-last_updated: "2017-03-05"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 14 de Agosto de 1980.
 
@@ -227,13 +227,21 @@ Cuando la aplicación de Leyes, Decretos o Convenios posteriores a la aprobació
 
 ### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO ESTATAL
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 23.
 
-El Ejecutivo del Estado podrá autorizar por acuerdo escrito a la Secretaría de Finanzas, para asignar los recursos que se obtengan en exceso de los previstos en el Presupuesto de Egresos del Estado, a los programas que considere convenientes, y autorizará en la misma forma la transferencia de partidas cuando sea procedente, dándole la participación que corresponda a las Entidades interesadas y avisando oportunamente al Congreso Local. Tratándose de ingresos extraordinarios derivados de empréstitos, el gasto deberá ajustarse a lo dispuesto por el Decreto que autorice el endeudamiento neto previsto en el Presupuesto de Egresos.
+Los recursos que se obtengan en exceso de lo previsto en el Presupuesto de Egresos del Estado, serán informados al Congreso del Estado, dentro del plazo de 30 días siguientes en que se generen y su asignación se hará a los programas prioritarios que estime conveniente el Poder Ejecutivo, a través de la Secretaría de Finanzas y de Administración, estas transferencias presupuestales no podrán:
 
-De los movimientos que se efectúen en los términos de este Artículo, el Ejecutivo informará al Congreso Local al rendir la Cuenta Anual de Gastos.
+I. Transferir recursos destinados a programas prioritarios hacia programas no prioritarios, y
+
+II. Disminuir el monto consignado en el decreto de Presupuesto de Egresos para la atención de programas prioritarios, salvo que se hayan concluido las metas.
+
+Sólo podrá exceptuarse de lo anterior cuando existan situaciones de emergencia provocadas por desastres naturales, plagas, epidemias o cuando se trate alguna situación de emergencia que afecte total o parcialmente el territorio del estado.
+
+Lo contenido en este artículo, no exime al Ejecutivo para que informe al Congreso del Estado al rendir la Cuenta Pública.
+
+El Gasto Público Estatal deberá ajustarse al monto autorizado para los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos, para aquellas erogaciones cuyo monto no sea posible prever.
 
 ###### ARTICULO 24.
 
@@ -578,3 +586,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 116.- POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 23 DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
