@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-privada-para-el-estado-de-durango-68333"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-26"
-last_updated: "2009-02-26"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68333&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 11 de diciembre de 2008, los CC. Diputados Coordinadores de los Grupos Parlamentarios de los Partidos Revolucionario Institucional y Acción Nacional; Representantes de los Partidos del Trabajo; de la Revolución Democrática; Duranguense; y Nueva Alianza, respectivamente de la LXIV Legislatura del H. Congreso del Estado, presentaron Iniciativa de Decreto que contiene LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Seguridad Pública, integrada por los CC. Diputados Rosauro Meza Sifuentes, José Arreola Contreras, Mario Miguel Ángel Rosales Melchor, Francisco Gamboa Herrera y Roberto Carmona Jáuregui, los cuales emitieron su dictamen favorable en base a los siguientes:
 
-C O N S l D E R A N D O S.
+C O N S l D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -179,7 +181,7 @@ I. Ejercer las facultades previstas en esta Ley, su Reglamento y otras disposici
 
 II. Consolidar la operación y funcionamiento del Registro Estatal de Empresas, Personal y Equipo de Seguridad Privada para garantizar el intercambio recíproco de información, acerca de los servicios de seguridad privada;
 
-III. La prevención, control, solución y toma de acciones inmediatas a problemas derivados de la prestación del servicio de seguridad privada, y (sic)
+III. La prevención, control, solución y toma de acciones inmediatas a problemas derivados de la prestación del servicio de seguridad privada, y
 
 IV. La verificación del cumplimiento a la normatividad federal y estatal.
 
@@ -355,9 +357,11 @@ De ser procedente la autorización, el solicitante deberá presentar dentro de l
 
 I.- Original del comprobante de pago de derechos por la inscripción de cada arma de fuego o equipo utilizado en la prestación de los servicios;
 
-II.- Póliza de Fianza expedida por institución legalmente autorizada a favor de la Secretaría de Finanzas y Administración del Estado, por un monto no menor a quinientos ni mayor a cinco mil veces el salario mínimo general vigente en la zona geográfica a juicio de la Secretaria en base a su capital contable, misma que deberá contener la siguiente leyenda:
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
 
-"Para garantizar por un monto equivalente a ( n ) veces el salario mínimo general vigente en la ciudad de Durango las condiciones a que se sujetará en su caso la autorización o revalidación para prestar servicios de seguridad privada otorgada por la Secretaría de Seguridad Pública del Estado de Durango, con vigencia de un año a partir de la fecha de autorización; la presente fianza no podrá cancelarse sin previa autorización de su beneficiaria, la Secretaría de Finanzas y Administración del Estado".
+II.- Póliza de Fianza expedida por institución legalmente autorizada a favor de la Secretaría de Finanzas y de Administración del Estado, por un monto no menor a quinientas ni mayor a cinco mil veces la Unidad de Medida y Actualización a juicio de la Secretaría en base a su capital contable, misma que deberá contener la siguiente leyenda:
+
+"Para garantizar por un monto equivalente a (n) veces el valor de la Unidad de Medida y Actualización las condiciones a que se sujetará en su caso la autorización o revalidación para prestar servicios de seguridad privada otorgada por la Secretaría de Seguridad Pública del Estado de Durango, con vigencia de un año a partir de la fecha de autorización; la presente fianza no podrá cancelarse sin previa autorización de su beneficiaria, la Secretaría de Finanzas y de Administración del Estado".
 
 ### Capítulo IV. Del Personal Directivo, Administrativo y Operativo
 
@@ -611,7 +615,9 @@ Atendiendo al interés público o por el incumplimiento de los prestadores de se
 
 I.- Amonestación;
 
-II.- Multa de un mil hasta cinco mil veces el salario mínimo general vigente en la ciudad de Durango;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+II.- Multa de un mil hasta cinco mil veces la Unidad de Medida y Actualización;
 
 III.- Suspensión de los efectos de la autorización de uno a seis meses;
 
@@ -682,3 +688,17 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 92.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE DURANGO."]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
