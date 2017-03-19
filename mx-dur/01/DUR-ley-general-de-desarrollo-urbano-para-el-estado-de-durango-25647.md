@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2016-06-12"
+last_updated: "2017-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -243,13 +243,13 @@ LVI. Unidad de propiedad exclusiva: A la casa, departamento, vivienda, local o �
 
 LVII. Usuarios: A toda persona que utiliza un servicio público;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
 
-LVIII. Vivienda de Interés Social: La vivienda, progresiva o terminada, que se encuentre edificada en una superficie no mayor de 180 M2, de terreno, con una superficie construida máxima de 80 M2, cuyo valor no exceda de la cantidad que resulte de multiplicar por veinte el salario mínimo general diario vigente en el Estado elevado al año, y que no cuente con todos los servicios de urbanización;
+LVIII. Vivienda de Interés Social: La vivienda, progresiva o terminada, que se encuentre edificada en una superficie no mayor de 180 M2 de terreno, con una superficie construida máxima de 80 M2, cuyo valor no exceda de la cantidad que resulte de multiplicar por veinte veces la Unidad de Medida y Actualización elevado al año, y que no cuente con todos los servicios de urbanización;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
 
-LIX. Vivienda Popular: La vivienda terminada que se encuentre edificada en una superficie no mayor de 180 M2, de terreno, con una superficie construida máxima de 130 M2, cuyo valor no exceda de la cantidad que resulte de multiplicar por treinta y dos el salario mínimo general diario vigente en el Estado elevado al año y que con todos los servicios de urbanización;
+LIX. Vivienda Popular: La vivienda terminada que se encuentre edificada en una superficie no mayor de 180 M2 de terreno, con una superficie construida máxima de 130 M2, cuyo valor no exceda de la cantidad que resulte de multiplicar por treinta y dos veces la Unidad de Medida y Actualización elevado al año y con todos los servicios de urbanización;
 
 LX. Zona de Conurbación: El área circular generada por un radio de 10 kilómetros. El centro de dicha área es el punto de intersección de la línea fronteriza entre los municipios, y la que resulte de unir los centros de población correspondientes. El Gobernador del Estado y los ayuntamientos correspondientes podrán acordar una dimensión mayor; y
 
@@ -3637,7 +3637,9 @@ Las sanciones administrativas por la infracción a las disposiciones contenidas 
 
 I.- Clausura temporal o definitiva, total o parcial de las instalaciones, las construcciones, o las obras y servicios;
 
-II.- Multa equivalente a uno y hasta diez mil días de salario mínimo vigente en el estado, o hasta el 20% del valor comercial de los inmuebles;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+II.- Multa equivalente a una y hasta diez mil veces la Unidad de Medida y Actualización, o hasta el 20% del valor comercial de los inmuebles;
 
 III.- La demolición total o parcial de las obras efectuadas en contravención a las disposiciones de la presente Ley;
 
@@ -3673,21 +3675,21 @@ A las personas que realicen una obra de reparación o modificación en bienes qu
 
 No se aplicará lo dispuesto en el artículo 325 a quienes el Ayuntamiento respectivo hubiere autorizado ejecutar las obras de urbanización por etapas. En la autorización correspondiente se determinarán las bases bajo las cuales dichas personas podrán enajenar los lotes de los fraccionamientos, así como enajenar los departamentos, viviendas, casas, locales o áreas de que se componga el inmueble sujeto al régimen de propiedad en condominio.
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
-ARTÍCULO 328 bis.- Los constructores de fraccionamientos o condominios que dejen de cumplir con los plazos y términos establecidos en el artículo 229 de esta ley y en las autorizaciones municipales de construcción, serán sancionados por el Ayuntamiento, previo al procedimiento respectivo con amonestación por escrito; multa de quinientos y hasta diez mil días de salario mínimo vigente en el Estado y la suspensión temporal; o en su caso definitiva, para obtener autorizaciones futuras para la construcción de fraccionamientos. Lo anterior, sin perjuicio de las sanciones y/o medidas de seguridad previstas en otros ordenamientos legales y reglamentarios aplicables.
-
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
-
-ARTÍCULO 328 ter.- Para los efectos del artículo anterior, se considerarán como responsables solidarios a los peritos que hayan otorgado su aval para la ejecución de las obras a que se refiere esta ley, o bien, incurran o permitan el incumplimiento de la misma. En estos casos, se harán acreedores a las sanciones o infracciones establecidas en esta ley y en los demás ordenamientos legales o reglamentarios aplicables; lo anterior, independientemente de la responsabilidad civil o penal que pudiera derivarse.
+ARTÍCULO 328 BIS.- Los constructores de fraccionamientos o condominios que dejen de cumplir con los plazos y términos establecidos en el artículo 229 de esta ley y en las autorizaciones municipales de construcción, serán sancionados por el Ayuntamiento, previo al procedimiento respectivo con amonestación por escrito; multa de quinientas y hasta diez mil veces la Unidad de Medida y Actualización y la suspensión temporal; o en su caso definitiva, para obtener autorizaciones futuras para la construcción de fraccionamientos. Lo anterior, sin perjuicio de las sanciones y/o medidas de seguridad previstas en otros ordenamientos legales y reglamentarios aplicables.
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
 
-ARTÍCULO 328 quáter.- El Estado y los Ayuntamientos, dentro del ámbito de sus respectivas competencias, vigilarán el cumplimiento de las disposiciones de esta Ley, debiendo adoptar las medidas de seguridad e imponer las sanciones administrativas correspondientes, independientemente de las que pudieran derivarse en la comisión de ilícitos.
+ARTÍCULO 328 TER.- Para los efectos del artículo anterior, se considerarán como responsables solidarios a los peritos que hayan otorgado su aval para la ejecución de las obras a que se refiere esta ley, o bien, incurran o permitan el incumplimiento de la misma. En estos casos, se harán acreedores a las sanciones o infracciones establecidas en esta ley y en los demás ordenamientos legales o reglamentarios aplicables; lo anterior, independientemente de la responsabilidad civil o penal que pudiera derivarse.
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
 
-ARTÍCULO 328 quinquies.- La existencia de asentamientos humanos irregulares o la gestación de éstos, podrán ser denunciados por el Estado, los Ayuntamientos o por cualquier persona física o moral, ante las autoridades competentes, con la finalidad de que se apliquen las sanciones que correspondan.
+ARTÍCULO 328 QUÁTER.- El Estado y los Ayuntamientos, dentro del ámbito de sus respectivas competencias, vigilarán el cumplimiento de las disposiciones de esta Ley, debiendo adoptar las medidas de seguridad e imponer las sanciones administrativas correspondientes, independientemente de las que pudieran derivarse en la comisión de ilícitos.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
+
+ARTÍCULO 328 QUINQUIES.- La existencia de asentamientos humanos irregulares o la gestación de éstos, podrán ser denunciados por el Estado, los Ayuntamientos o por cualquier persona física o moral, ante las autoridades competentes, con la finalidad de que se apliquen las sanciones que correspondan.
 
 ###### ARTÍCULO 329.
 
@@ -3998,3 +4000,15 @@ P.O. 12 DE JUNIO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 101.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el en el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
