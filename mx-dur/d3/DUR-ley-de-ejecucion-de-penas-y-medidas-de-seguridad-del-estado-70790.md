@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-707
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-15"
-last_updated: "2014-05-06"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ DE LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011, SE ADOPTARÁ EL DECRETO NÚMERO 416, PUBLICADO EN EL P.O. DEL 10 DE DICIEMBRE DE 2009.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de octubre de 2009.
 
@@ -35,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fechas 6 de octubre de 2008 y 14 de julio del presente año, el C. Diputado Adán Soria Ramírez; y los CC. C.P. Ismael Alfredo Hernández Deras, Gobernador Constitucional del Estado y los Diputados integrantes de la LXIV Legislatura del Congreso, presentaron a esta H. Legislatura, Iniciativas que tienen como finalidad, respectivamente, el reformar y adicionar los artículos 6, 22, 24, 54 y 55 de la "LEY DE EJECUCIÓN DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE DURANGO" y la creación de la "LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO", mismas que fueron turnadas a la Comisión de Justicia, integrada por los CC. Diputados: José Luis López Ibáñez, Rosauro Meza Sifuentes, Servando Marrufo Fernández, Alma Marina Vitela Rodríguez y Maribel Aguilera Cháirez, Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S.
+C O N S I D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -561,15 +561,13 @@ Garantía prendaria.
 
 La garantía prendaria también podrá otorgarse ante el propio Juez de Control que conozca del proceso y, en lo conducente, serán aplicables las reglas a que alude el artículo anterior, salvo el caso del valor de la prenda, que será de dos tantos más, cuando menos, del monto fijado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ DE LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011, ASÍ COMO EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
 ###### Artículo 30.
 
 Póliza de fianza personal.
 
-Es admisible la póliza de fianza personal cuando el monto de la garantía económica no exceda del equivalente a cien días del salario mínimo. Salvo que se trate de empresas dedicadas a otorgar fianzas, el fiador deberá responder las preguntas que le haga el Juez de Control sobre su solvencia económica. El valor de la póliza será, al menos, de dos tantos del monto fijado.
+Es admisible la póliza de fianza personal cuando el monto de la garantía económica no exceda del equivalente a cien veces la Unidad de Medida y Actualización. Salvo que se trate de empresas dedicadas a otorgar fianzas, el fiador deberá responder las preguntas que le haga el Juez de Control sobre su solvencia económica. El valor de la póliza será, al menos, de dos tantos del monto fijado.
 
 ###### Artículo 31.
 
@@ -829,7 +827,7 @@ X. No poseer ni portar armas o utilizar los instrumentos del delito. Al decretar
 
 XI. No conducir vehículos. Se sujetará a las disposiciones de ejecución de la medida cautelar de suspensión de derechos;
 
-XII. Abstenerse de viajar al extranjero. Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del país; y (sic)
+XII. Abstenerse de viajar al extranjero. Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del país; y
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1169,7 +1167,7 @@ IX. Pornografía con personas menores de edad o que no tienen la capacidad para 
 
 X. Delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho;
 
-XI. Lenocinio sancionado en el artículo 286 del Código Penal; y (sic)
+XI. Lenocinio sancionado en el artículo 286 del Código Penal; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ DE LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011, ASÍ COMO EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2378,3 +2376,15 @@ El presente Decreto entrará en vigor a las 00:01, del día 7 de mayo de 2014.
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 97.- POR EL QUE SE REFORMA EL ARTÍCULO 30 DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
