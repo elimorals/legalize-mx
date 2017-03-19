@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-condominios-del-estado-de-durango-96941"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-05"
-last_updated: "2013-05-05"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CONDOMINIOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 5 de mayo de 2013.
 
@@ -137,7 +137,7 @@ VIII.- Los bienes de propiedad común, su destino, con la especificación y deta
 
 IX.- Características de la póliza de fianza que deben exhibir los obligados, para responder de la ejecución de la construcción y de los vicios de ésta. El monto de la fianza y el término de la misma serán determinados por las autoridades que expidan las licencias de construcción;
 
-X.- Los casos y condiciones en que pueda ser modificada la propia Escritura Constitutiva y su Reglamento; y (sic)
+X.- Los casos y condiciones en que pueda ser modificada la propia Escritura Constitutiva y su Reglamento; y
 
 XI.-. La obligación o no de los condóminos de contratar Póliza de Seguro contra siniestros o fenómenos naturales, con compañía legalmente autorizada para ello;
 
@@ -933,7 +933,7 @@ I.- Los que sean enajenados por el Gobierno Federal, Estatal o Municipal para ta
 
 II.- Los que en cuya adquisición participen con financiamientos o subsidios de quienes se describen en la fracción anterior; y
 
-III.- Los que sean adquiridos por sus ocupantes en cuya adquisición o enajenación también intervengan las entidades descritas; (sic)
+III.- Los que sean adquiridos por sus ocupantes en cuya adquisición o enajenación también intervengan las entidades descritas;
 
 ###### Artículo 72.
 
@@ -1021,15 +1021,25 @@ VI. Sancionar a quien incumpla esta Ley, el reglamento interno y el reglamento m
 
 La unidad administrativa municipal podrá sancionar a los condóminos, vecinos, administradores o integrantes del Comité de Vigilancia que incumplan con las obligaciones previstas en esta Ley, la escritura constitutiva del régimen, el reglamento interno o el reglamento municipal correspondiente, con multa:
 
-I. De uno a diez días de salario mínimo vigente en el Estado, así como a cubrir el costo que se genere por la reparación o restablecimiento de los bienes, servicios o áreas de uso común, cuando se hubieren dañado por un mal uso o negligencia;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
 
-II. De quince a treinta días de salario mínimo vigente en el Estado, cuando incumplan con las prohibiciones señaladas en las fracciones II y III del artículo 24;
+I. De una a diez veces la Unidad de Medida y Actualización, así como a cubrir el costo que se genere por la reparación o restablecimiento de los bienes, servicios o áreas de uso común, cuando se hubieren dañado por un mal uso o negligencia;
 
-III. De veinte a treinta días de salario mínimo vigente en el Estado, por la inobservancia de los establecido en las fracciones V, VIII, IX y X del artículo 24 de esta Ley;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
 
-IV. De veinte a cuarenta días de salario mínimo vigente en el Estado, cuando contravengan lo dispuesto en la fracción IV del artículo 24 y en el segundo párrafo del artículo 25 de esta Ley; y
+II. De quince a treinta veces la Unidad de Medida y Actualización, cuando incumplan con las prohibiciones señaladas en las fracciones II y III del artículo 24;
 
-V. De cincuenta a trescientos días de salario mínimo vigente en el Estado, cuando se transgreda lo estipulado en las fracciones I, VI y VII del artículo 24 de esta Ley.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+III. De veinte a treinta veces la Unidad de Medida y Actualización, por la inobservancia de los establecido (sic) en las fracciones V, VIII, IX y X del artículo 24 de esta Ley;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+IV. De veinte a cuarenta veces la Unidad de Medida y Actualización, cuando contravengan lo dispuesto en la fracción IV del artículo 24 y en el segundo párrafo del artículo 25 de esta Ley; y
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+V. De cincuenta a trescientas veces la Unidad de Medida y Actualización, cuando se transgreda lo estipulado en las fracciones I, VI y VII del artículo 24 de esta Ley.
 
 ###### Artículo 87.
 
@@ -1178,3 +1188,17 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 100.- POR EL QUE SE REFORMA EL ARTÍCULO 86 FRACCIONES DEL (SIC) I AL V DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
