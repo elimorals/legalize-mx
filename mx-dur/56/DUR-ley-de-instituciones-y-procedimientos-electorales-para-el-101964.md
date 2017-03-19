@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2015-02-15"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 18 de Junio del presente año, el C. C.P. JORGE HERRERA CALDERA, Gobernador Constitucional, del Estado, envió a esta H LXVI Legislatura del Estado, Iniciativa de Decreto que contiene LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Gobernación integrada por los CC. Diputados: Rosauro Meza Sifuentes, Agustín Bernardo Bonilla Saucedo, Arturo Kampfner Díaz, Israel Soto Peña y Eduardo Solís Nogueira; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S: …
+C O N S I D E R A N D O S:
+
+[...]
 
 Por lo anteriormente expuesto y considerado, la Comisión que dictaminó, estimó que la iniciativa es procedente, con las adecuaciones realizadas a la misma, lo anterior, con fundamento en lo que dispone el artículo 182 último párrafo de la Ley Orgánica del Congreso del Estado de Durango, en virtud de considerar que las mismas, obedecen al mejoramiento de forma y fondo jurídicos.
 
@@ -2811,7 +2813,9 @@ I. Para la elección de Gobernador del Estado, el Consejo General, previo al ini
 
 a) El número de ciudadanos inscritos en el padrón electoral al treinta y uno de diciembre del año anterior al de la elección; y
 
-b) El cuarenta y ocho por ciento del salario mínimo general vigente en la capital del Estado para el año de la elección.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b) El cuarenta y ocho por ciento del valor de la Unidad de Medida y Actualización vigente para el año de la elección.
 
 Ambas cantidades se multiplicarán y el resultado será el tope de campaña.
 
@@ -4555,7 +4559,9 @@ I. Respecto de los partidos políticos:
 
 a). Con amonestación pública;
 
-b). Con multa de hasta diez mil días de salario mínimo general vigente en la capital del Estado, según la gravedad de la falta;
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Con multa de hasta diez mil veces la Unidad de Medida y Actualización, según la gravedad de la falta;
 
 c). Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución; y
 
@@ -4565,7 +4571,9 @@ II. Respecto de las agrupaciones políticas estatales:
 
 a). Con amonestación pública;
 
-b). Con multa de hasta cinco mil días de salario mínimo general vigente en la capital del Estado, según la gravedad de la falta; y
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Con multa de hasta cinco mil veces la Unidad de Medida y Actualización, según la gravedad de la falta; y
 
 c). Con la suspensión o cancelación de su registro, que en el primer caso no podrá ser menor a seis meses.
 
@@ -4573,7 +4581,9 @@ III. Respecto de los aspirantes, precandidatos o candidatos a cargos de elecció
 
 a). Con amonestación pública;
 
-b). Con multa de hasta mil días de salario mínimo general vigente en la capital del Estado; y
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Con multa de hasta mil veces la Unidad de Medida y Actualización; y
 
 c). Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato;
 
@@ -4581,15 +4591,21 @@ IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos pol
 
 a). Con amonestación pública;
 
-b). Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de hasta quinientos días de salario mínimo general vigente en la capital del Estado; y
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
 
-c). Respecto de las personas morales por las conductas señaladas en el inciso anterior: con multa de hasta cien mil días de salario mínimo general vigente en la capital del Estado;
+b). Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de hasta quinientas veces la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+c). Respecto de las personas morales por las conductas señaladas en el inciso anterior: con multa de hasta cien mil veces la Unidad de Medida y Actualización;
 
 V. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
 
 a). Con amonestación pública;
 
-b). Con multa de hasta cinco mil días de salario mínimo general vigente en la capital del Estado, según la gravedad de la falta; y
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Con multa de hasta cinco mil veces la Unidad de Medida y Actualización, según la gravedad de la falta; y
 
 c). Con la cancelación del procedimiento tendiente a obtener el registro como partido político estatal;
 
@@ -4597,13 +4613,17 @@ VI. Respecto de las organizaciones sindicales, laborales o patronales, o de cual
 
 a). Con amonestación pública; y
 
-b). Con multa de hasta cinco mil días de salario mínimo general vigente en la capital del Estado, según la gravedad de la falta.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Con multa de hasta cinco mil veces de la Unidad de Medida y Actualización, según la gravedad de la falta.
 
 VII. Respecto de los Candidatos Independientes:
 
 a). Con amonestación pública;
 
-b). Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado;
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+
+b). Con multa de hasta cinco mil veces (sic) Unidad de Medida y Actualización;
 
 c). Con la pérdida del derecho del aspirante infractor a ser registrado como candidato independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
 
@@ -5334,3 +5354,15 @@ P.O. 15 DE FEBRERO DE 2015
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 113.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
