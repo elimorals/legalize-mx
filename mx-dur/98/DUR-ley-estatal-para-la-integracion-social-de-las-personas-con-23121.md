@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-para-la-integracion-social-de-las-personas-con-2312
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-23"
-last_updated: "2015-12-10"
+last_updated: "2017-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL PARA LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 23 de diciembre de 2001.
 
@@ -1013,7 +1013,7 @@ La Secretaría de Educación y el Instituto Estatal del Deporte en coordinación
 
 ###### Artículo 44.
 
-, El Instituto Estatal del Deporte implementará actividades de formación y capacitación a instructores deportivos, para la adecuada atención con calidad de los menores y adultos con discapacidad.
+El Instituto Estatal del Deporte implementará actividades de formación y capacitación a instructores deportivos, para la adecuada atención con calidad de los menores y adultos con discapacidad.
 
 ###### Artículo 45.
 
@@ -1343,13 +1343,21 @@ Las violaciones a lo establecido por la presente Ley, su Reglamento, demás disp
 
 Para los efectos de la presente Ley, las sanciones se aplicarán conforme a lo siguiente:
 
-I. Corresponderá a las Direcciones Municipales de Vialidad y Protección Ciudadana de los Ayuntamientos según el caso de su competencia, la obligación de aplicar multa de 15 a 30 veces el salario mínimo vigente en el Estado, a quienes ocupen indebidamente los cajones de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con discapacidad;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
 
-II. Corresponderá a los Ayuntamientos a través de la autoridad Municipal competente, la obligación de aplicar multa de 50 a 80 veces el salario mínimo vigente en el Estado de Durango, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso para personas con discapacidad. En caso de reincidencia de la misma falta, además de lo previsto se procederá a la clausura temporal del local por tres días;
+I.- Corresponderá a las Direcciones Municipales de Vialidad y Protección Ciudadana de los Ayuntamientos según el caso de su competencia, la obligación de aplicar multa de 15 a 30 veces la Unidad de Medida de Actualización, a quienes ocupen indebidamente los cajones de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con discapacidad;
 
-III. Corresponderá a la Dirección General de Transporte en el Estado, la obligación de aplicar multa de 25 a 40 veces el salario mínimo vigente en el Estado de Durango, a los responsables, concesionarios y prestadores en cualquier modalidad de los vehículos del servicio público de transporte que nieguen, impidan u obstaculicen el uso del servicio a las personas con discapacidad; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
 
-IV. A quien haga uso indebido de las placas de identificación y/o permisos temporales para los vehículos que usen o transporten a personas con discapacidad, se le aplicará multa de 15 a 30 veces el salario mínimo vigente en el Estado de Durango.
+II.- Corresponderá a los Ayuntamientos a través de la autoridad Municipal competente, la obligación de aplicar multa de 50 a 80 veces la Unidad de Medida de Actualización, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso para personas con discapacidad, en caso de reincidencia de la misma falta, además de lo previsto se procederá a la clausura del local por tres días.
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+III.- Corresponderá a la Dirección General de Transporte en el Estado, la obligación de aplicar multa de 25 a 40 veces la Unidad de Medida y Actualización, a los responsables, concesionarios y prestadores en cualquier modalidad de los vehículos del servicio público de transporte que nieguen, impidan u obstaculicen el uso del servicio a las personas con discapacidad; y
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2017)</small>
+
+IV.- A quien haga uso indebido de las placas de identificación y/o permisos temporales para los vehículos que usen o transporten a personas con discapacidad, se le aplicará multa de 15 a 30 veces la Unidad de Medida y Actualización.
 
 Las sanciones derivadas de las infracciones a la presente Ley, por ningún motivo estarán sujetas a descuento o condonación. Los recursos recaudados con motivo de estas infracciones deberán ser aplicados por los Ayuntamientos en un 50% en obras de infraestructura urbana tendientes a disminuir las barreras físicas y arquitectónicas en favor de las personas con discapacidad.
 
@@ -1534,3 +1542,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 19 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 110.- QUE CONTIENE REFORMA AL ARTÍCULO 80 DE LA FRACCION I A LA IV DE LA LEY ESTATAL PARA LA INTEGRACION SOCIAL DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
