@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2016-12-31"
+last_updated: "2017-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MARZO DE 2017.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -864,8 +866,6 @@ Deben firmar las notificaciones las personas que las hacen y aquéllas a quienes
 ###### Artículo 124.
 
 Si las partes o sus mandatarios no ocurren al tribunal o juzgado a notificarse en los días y horas a que se refiere el artículo 122, la notificación se dará por hecha y surtirá sus efectos a las doce horas del último día a que se refiere el artículo citado, a condición de que se haya hecho en el Boletín Judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2012)</small>
 
@@ -2187,7 +2187,7 @@ Los documentos privados y la correspondencia procedentes de uno de los interesad
 
 Los documentos privados se presentarán originales, y cuando formen parte de un libro, expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados.
 
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 1998)</small>
 
 ###### Artículo 328.
 
@@ -6507,7 +6507,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 B.O. 31 DE MARZO DE 2008.
 
-PRIMERO.-El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno Estado (sic) de Baja California Sur.
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno (sic) Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
 
@@ -6591,4 +6591,22 @@ B.O. 31 DE DICIEMBRE DE 2016.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2017)</small>
+
+SEGUNDO.- En los juicios de divorcio necesario que se encuentren pendientes de resolver, en primera o segunda instancia, será potestativo para cualquiera de las partes, solicitar a la autoridad judicial del conocimiento la disolución del vínculo matrimonial que más les beneficie; de ser así, el Juez o Magistrado respectivo, procederá conforme a las disposiciones del presente decreto.
+
+Si existe otra pretensión en los juicios pendientes de resolución, distinta a la disolución del vínculo matrimonial, como pudiera ser la guarda y custodia de los hijos, el régimen de convivencia con el padre no custodio, los alimentos, consecuencias patrimoniales del divorcio o alguna otra cuestión semejante que hubiere sido planteada o deba resolverse de oficio, el juzgador seguirá el trámite del juicio en relación a estos puntos litigiosos conforme a las disposiciones aplicables y anteriores al presente decreto, hasta resolver en definitiva según corresponda, sin perjuicio de que se decrete la disolución del vínculo matrimonial sin analizar las causales de divorcio invocadas, una vez que sea solicitado por cualquiera de las partes.
+
+> <small>(ADICIONADO, B.O. 20 DE MARZO DE 2017)</small>
+
+TERCERO.- En aquellos lugares en donde no exista Centro de Justicia Alternativa, el Juez de la causa estará facultado para aplicar los Mecanismos Alternativos de Solución de Controversias previstos en la Ley de la materia y en el presente Decreto; en el mismo supuesto, para los efectos previstos en el segundo y tercer párrafo (sic) del artículo 279 del Código Civil para el Estado Libre y Soberano de Baja California Sur, los Oficiales del Registro Civil, tendrán la misma facultad.
+
+> <small>(ADICIONADO, B.O. 20 DE MARZO DE 2017)</small>
+
+CUARTO.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2425 SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO Y SE ADICIONAN LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIO AL DECRETO 2415 EXPEDIDO EN FECHA 16 DE DICIEMBRE DE 2016 POR EL H. CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETÍN OFICIAL NÚMERO 50 DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR, DE FECHA 31 DE DICIEMBRE DE 2016".]
+
+Único.- EI presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
