@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2017-01-09"
+last_updated: "2017-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE ABRIL DE 2017 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -51,27 +53,13 @@ El presente Código lo constituyen el conjunto de normas expedidas por el Ayunta
 
 El Municipio de Aguascalientes está conformado por fraccionamientos, colonias, condominios, comunidades, poblados y rancherías que se ubican dentro de su territorio y se organizan políticamente en Delegaciones y Comisarías. Quedan obligados al cumplimiento y observancia del presente Código, sin distinción, todas y todos los habitantes que conformen la población del Municipio de Aguascalientes.
 
-###### ARTÍCULO 3°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)</small>
 
-El territorio del Municipio de Aguascalientes se divide en ocho Delegaciones y Zona Centro. Las Delegaciones son: Calvillito, Cañada Honda, Salto de los Salado, Peñuelas, Los Pocitos, José María Morelos y Pavón, Lic. Jesús Terán Peredo e Insurgentes.
+###### Artículo 3°.
 
-A la Delegación Calvillito pertenecen las siguientes comunidades: El Duraznillo, Los Cuervos o Los Ojos de Agua, La Chiripa, Matamoros, Soledad de Abajo, Los Durón, Las Jaboneras, Rancho El Carmen o Gallinas Güeras, Los Hoyos o Puerta de los Hoyos, Soledad de Arriba, Bajío Los Vázquez, Cañada Grande de Cotorina, Villa Lic. Jesús Terán ó Calvillito, Las Animas, La Ahuja o La Aguja, El Cardón, La Congoja, El Fresno o Las Norias de San Bartolo, El Guarda, El Jagüey, Laguna Verde, El Mirador, El Mirasol, El Mitote, La Petaquilla ó El Milagro, El Potrero Nuevo, Sal Sí Puedes, San Bartolo, San Miguelito de Abajo, El Tacón, Tanque de Guadalupe, El Tepetate, El Tropezón, Vista Alegre I ó Bella Vista, Los Hernández, El Ranchito ó El Mocho, Bella Vista ó El Coronel, Los Cables, La Cachucha ó El Salero, El Capirote, El Caracol ó La Mesa, El 14, El Copetillo, El Crucero, La Estancia, Gómez Palacio, Los Lirios, La Mesa, El Molino Los Órganos, Rancho El Paraíso, Rancho El Pirul ó El Pirulito, El Pozo, Potrero Grande, Rancho 2 Arbolitos, El Refugio II, Rancho Sin Nombre, La Rinconada ó La Escondida, San José del Cono, La Santa Cruz, Santa Elena, El Salero, El Gato, El Yerbaniz, Azarco, La Cañada de las Habas, Lomas del Guarda, Mesa del Tepetate, Los Salazar, La Lagunita, Cañada del Duraznillo, Cañada Grande, El Capirote, El Ocal ó El Capirote, La Chiripa, El Cono, El Copetillo, El Copetillo Chico ó La Miseria, La Cruz, Los Durón 1, La Escuadra, La Fortuna, Los Laureles, El Maistrujenio, El Mirador, Ojos de Agua la Estancia, El Plan de Lagos, Rancho de Guadalupe ó Las Jaboneras, Rancho El Duraznillo, La Rinconada ó La Escondida, Rancho La Cruz, Rancho Nuevo 1880, Rancho Porvenir, Rancho Santa Teresa, El Salero, San Miguelito, Las Trojes ó Las Jaboneras, Cañada del Tabaco, Loma del Mezquite, Maíz Prieto, San Juanito ó Los López, El Copetillo Chico, Localidades Sin Nombre La Morada, El Ocal, Rancho Los Córdova, El Refugio, La Cabaña Roja, El Maguey y Los Valdez.
+El territorio del Municipio de Aguascalientes se divide en diez Delegaciones y Zona Centro, mismos que deberán contar con la aprobación del Cabildo. La denominación y conformación de las Delegaciones, así como la integración de la Zona Centro será determinada por el Instituto Municipal de Planeación de Aguascalientes, debiendo mantenerlo permanentemente actualizado y publicarlo de manera trimestral.
 
-A la Delegación Cañada Honda pertenecen las siguientes comunidades: San José de la Ordeña, Ejido San Antonio de los Pedroza, Santa Maria de Gallardo, Jaltomate, General José María Morelos y Pavón ó Cañada Honda, Estación Cañada Honda, Comité, Congregación San Antonio Primero de los Pedroza, San Nicolás de Arriba, El Chiflido, La Coyotera, El Becerro, El Refugio, El Jardín, Puerta de los Viejitos, Rancho El Venado y San Nicolás de Arriba.
-
-A la Delegación de Salto de los Salado pertenecen las siguientes comunidades: El Niágara ó Rancho El Niágara, El Ocote, Granja San Antonio, San José de la Esperanza, Centro de Arriba ó El Taray, La Huerta ó La Cruz, Cuauhtémoc ó Las Palomas, San Pedro Cieneguilla, San Rafael I, El Tanque de los Jiménez, Cieneguilla ó La Lumbrera, Piedras Chinas, Presa de Guadalupe, El Salto de los Salado, Los Arbolitos ó Rancho de los Arbolitos, Cabecita 3 Marías ó Rancho Nuevo, Los Caños, La Ademe, San José del Monte ó Las Petacas, Ex-Hacienda de Agostaderito, Rancho Legendario, Norias de Cedazo ó Cedazo Norias de Montoro, El Rubio, Asociación Local Ganadera de Aguascalientes ó C. del Niágara, Cieneguilla ó La Hacienda, Las Bugambilias, Castillo Fontenac, La Chiripa, Granja Los Lirios, Las Marías ó Las 3 Marías, Rancho San Carlos, San Gerónimo, Las Víboras, Granjas Fátima, El 14, Rancho La Chiripa, El Arquito, Quinta Santa Isabel, Rancho Aurora, Rancho San José del Monte, Granja Chela, Rancho Nuevo, Rancho Topogigio, San Isidro de los Esparza, San Isidro ó La Estación, San Cristóbal, San Nicolás de Enmedio, El Sabino ó San Román, El Sauz Amarillo, La Tijera, Ampliación del Conejal, La Sociedad, Granjas El Conejal, Granja Los Jacalitos, Rancho Las Jarillas, Granja Don Mónico, Rancho El Chiflido, Los Placeres, El Futuro, Los Girasoles, Granja San Nicolás, El Paraíso, San Antonio, San Antonio y Los 3 Cuartos.
-
-A la Delegación Peñuelas pertenecen las siguientes comunidades: San Antonio de Peñuelas, El Cedazo o Cedazo de San Antonio, Cotorina de Abajo, Dolores, La Soledad, El Turicate, El Mirador, Peñuelas ó El Cienegal, El Refugio de Peñuelas, Bajío de Montoro, Buenavista de Peñuelas, Viñedos Cuauhtémoc ó Churubusco, La Esperanza, Interpec San Marcos, Marisol, Cotorina ó Coyotes, Montoro ó Mesa del Salto, Acapulco, Hacienda Los Pavorreales, Cotorina de Altamira, San Carlos, La Florida, Granja Maricela, El Huizachal, Mesa del Salto ó Fracción de Montoro, La Providencia, Rancho La Manga, La Primavera, Rancho El Mitawa, Rancho San Jacinto, San Isidro ó Granja Santa Anita, San Miguel, Santa Elena ó Tres Pelonas, Santa Inés, Santa Teresa, Tanque de la Cruz, Las Trojes, Villa Su, Ex-Hacienda de Peñuelas, Coyotillos, El Esfuerzo, Llanos de San Antonio, Las Granjas ó Santa Elena, Los Jazmines, Localidades Sin Nombre, La Rinconada, Rancho La Loma, Rancho San Martín, Bellavista, Colonia Salto de Montoro, Ejido Peñuelas, Granja El Huizache, Rancho La Primavera, San José, Granja Marisela y Rancho La Gaviota.
-
-A la Delegación Urbana de Los Pocitos pertenece lo siguiente: Fraccionamiento Trojes de Alonso, Condominio Santa Fe, Centro Comercial Galerías, Condominio Rancho San Antonio, Fraccionamiento La Troje, Condominio Trojes de Cristal, Condominio Trojes del Sol, Fraccionamiento Residencial Calicantos, Fraccionamiento Las Cavas, Colonia Talamantes Ponce, Condominio Las Trojes, Desarrollo Habitacional La Paloma, Baldío Calicantos II, Fraccionamiento Valle del Campanario, Fraccionamiento La Herradura, Asadero Muzquis, Condominio Jardines del Campestre, Fraccionamiento Misión del Campanario, Cerrada La Mezquitera, Cerrada del Valle, Baldío Calicantos I, Condominio Misión de Santiago I, Condominio Misión de Santiago II, Valle Real, Cerrada de la Misión, Lomas de Vergeles, Seminario Siervos de María, Fraccionamiento Campestre I Etapa, Los Jarales, Fraccionamiento Trojes de Oriente II, Fraccionamiento Los Vergeles, Arroyo de la Hacienda, Fraccionamiento Valle de las Trojes, Fraccionamiento Villas del Campestre, Baldío Puerto las Hadas, Parque Industrial Tecnopolo, Fraccionamiento Villas de Montenegro, Fraccionamiento Trojes de Oriente I, Valle del Campestre, Fraccionamiento Granjas del Campestre, Fraccionamiento Lomas del Campestre II, Fraccionamiento Villas de San Nicolás, Condominio Puerto Las Hadas, Baldío Cristóbal Colón, Colegio Cristóbal Colón, Fraccionamiento Jardines de la Concepción II, Fraccionamiento Jardines de la Concepción I, Ejido San José de los Pocitos, Fraccionamiento Lomas del Campestre, Fraccionamiento Los Bosques, Condominio Rinconada de los Bosques, Condominio Residencial Campestre Club del Golf Norte y Sur, Residencial Pulgas Pandas, Universidad Autónoma de Aguascalientes, Fraccionamiento Bosques del Prado Norte, Condominio La Plazuela, Bosques del Prado Sur, Colonia Fátima, Desarrollo Especial Condominio Centro Distribuidor de Básico, Centro Comercial Agropecuario, Fraccionamiento Villas de Begoña, Desarrollo Especial Centro Comercial, Condominio Horizontal Villas de San Ángel, Condominio Villas del Vergel, Cerrada San Miguel, Fraccionamiento Palmas del Pedregal, Cerrada Fátima, Colonia San José del Arenal, Colonia Licenciado Francisco Primo Verdad, Fraccionamiento Unión Ganadera, Colonia San José del Arenal II, Fraccionamiento Nueva Rinconada, Fraccionamiento El Plateado, Privada San José, Fraccionamiento El Roble, Fraccionamiento La Grasa, Fraccionamiento Independencia de México, Fraccionamiento La Rinconada, Privada Benjamín Méndez, Condominio Puerta Navarra, Hacienda San José, Rinconada de los Álamos, Cerrada del Campanario, Desarrollo Especial PEMEX, Fraccionamiento Villas de San Francisco, Condominio La Fundición, Fraccionamiento Las Arboledas, Plaza Comercial El Campanario, Fraccionamiento San Cayetano, Fraccionamiento La Fundición, Fraccionamiento Villas de la Universidad, Fraccionamiento Los Sauces, Fraccionamiento Las Brisas, Baldío Línea de Fuego, Fraccionamiento Línea de Fuego, Fraccionamiento Colinas de San Ignacio, Fraccionamiento La Perla, Fraccionamiento Colinas del Río, Colonia Olivares Santana, Condominio del Bosque, Fraccionamiento Ramón Romo Franco, Ejido San Ignacio, Baldío SEDENA, Fraccionamiento Panorama, Fraccionamiento Colinas del Poniente, Desarrollo Especial Jardines Eternos, Fraccionamiento La Concordia, Desarrollo Especial Guadalupe, Colonia Curtidores, Fraccionamiento Valle del Río San Pedro, Fraccionamiento Moderno, Fraccionamiento La Soledad, Colonia San Marcos, Fraccionamiento Puesta del Sol, Cerrada San Antonio, Fraccionamiento San Marcos, Fraccionamiento Residencial del Valle I, Fraccionamiento Residencial del Valle II, Instituto Tecnológico de Monterrey Campus Aguascalientes, Fraccionamiento Palma Real, San Miguel, San Juan I ó Granja San Juan, San Felipe ó Viñedos San Felipe, San Ignacio, La Mascota, Los Lirios, Bodegas Brande Vin, Hacienda Nueva, Rancho Don Abraham, Las Palomas, La Puerta ó Granjas Cariñán, El Rodeo, Granja San Antonio, El Vacilón, La Victoria, Agua Azul, El Cariñán, Granja El Carmen, Viñedos Aguascalientes, El Bramadero, El Gavilán, Rancho Galván, Playas de Guadalupe, La Perla, Granja Santa Teresa, La Trinidad, Granja Puente, Casas Blancas, Centro de Estudios Diferenciados, La Esperanza, El Changay, Granja La Providencia, Granja María Luisa, Granja San Francisco, Granja El Valle, Los Membrillos, Ojo de Agua, Granja Los Olivos, Pocitos, Rancho La Estrella, Viñedos San Felipe 2da. Sección, San Judas, Sandovales de Abajo, Sandovales de Arriba, El Suspiro, Granja El Porvenir, Granja 5ta. Yola, El Vergel ó El Paraíso, El Álamo, Césped San Ignacio, Ejido Los Negritos, Ejido San Ignacio, Entrada a la Biznaga ó Las Lumbreras, Ex-Hacienda de San Ignacio, Frutas Concentradas S.A. de C.V., El Filso, Granja Brenda, Granja Chely, Granja Delia, Granja Duarte, Granja Guadalupe, Granja Laura Elena, Granja Lety, Granja Lupita, Granja Mariana, Granja San Antonio, Granja Santa Elena, Granja Vejarano, Los Jiménez, K-10, Localidades Sin Nombre, Colonia La Perla, Las Moras, Playas de Guadalupe, La Providencia ó Granja Mary Chuy, Rancho Doña María, Rancho San Martín, San Cristóbal, San José del Refugio, Santa Rita, Granja El Puente, El Sauz de los García, El Socorro, El Tanque, Tanque Los Carrizos, Rancho San José, Granja Los Pavos, Granja San Antonio, Arizona Ranch, San José de los Pocitos, Granja Marcela, Centro de Reeducación para Menores, Granja La Primavera, Granja Las Playas, Granja Lucy, Localidad Sin Nombre ó El Pozo, Rancho de Califas, Rancho Margaritas, San Ignacio II, Pocitos III y Loma Pocitos ó El Montecito.
-
-A la Delegación Urbana José María Morelos y Pavón pertenece lo siguiente: Desarrollo Especial Tecnológico de Aguascalientes, INFONAVIT Los Volcanes, Desarrollo Especial Obras Públicas del Estado, Fraccionamiento Bona Gens, Parque Ecológico El Cedazo, Fraccionamiento Ojocaliente Las Torres, FOVISSSTE Ojocaliente I, Conjunto Habitacional Villas de Ojocaliente, FOVISSSTE Ojocaliente II, Fraccionamiento Gómez Portugal, Desarrollo Especial Parque Municipal, Condominio Horizontal Plaza de Abastos El Cerrito, Conjunto Habitacional La Fuente, Fraccionamiento Primo Verdad INEGI, Ejido Salto de Ojocaliente, Condominio S.T.E.M.A., Fraccionamiento Jardines de la Convención, Baldío Ojo de Agua, Fraccionamiento El Cedazo, INFONAVIT Morelos, Fraccionamiento Solidaridad II, Colonia Ojo de Agua, Fraccionamiento Vista del Sol III, Fraccionamiento Bajío de las Palmas, Fraccionamiento Jardines de Aguascalientes, Condominio San José, Fraccionamiento Misión de Santa Fe, FOVISSSTE Ojo de Agua, Fraccionamiento Jardines de la Luz, Fraccionamiento Jardines de la Asunción, Fraccionamiento Agua Clara, Fraccionamiento Villa Las Palmas 2a. Sección, INFONAVIT Ojo de Agua, Fraccionamiento Balcones de Ojocaliente, Fraccionamiento Fuentes de la Asunción, Fraccionamiento Vista del Sol II, Colonia La Cruz, Fraccionamiento Jardines del Sol, Fraccionamiento San Jorge, Fraccionamiento Vista del Sol I, Baldío Solidaridad, Fraccionamiento Lomas del Chapulín, Fraccionamiento Solidaridad III, Fraccionamiento Cielo Claro, Asentamiento Irregular Lomas del Gachupín, Fraccionamiento La Lomita, Fraccionamiento México, Ojo de Agua de Palmitas, Fraccionamiento Jardines de las Fuentes, Fraccionamiento Tierra Buena, Fraccionamiento Villa Las Palmas, Residencial Asturias, Condominio La Terraza, Fraccionamiento Morelos I, Fraccionamiento Casablanca, Desarrollo Especial lNEGI, Fraccionamiento Jardines de las Bugambilias, Fraccionamiento Cima del Chapulín, Desarrollo Especial Quinta Real, Condominio Valle del Cedazo, Jardines de Casa Nueva, Condominio Residencial del Parque, Desarrollo Especial, Centro de Barrio Morelos, Desarrollo Especial Parque Rodolfo Landeros Gallegos, Fraccionamiento Pirámides, Fraccionamiento Emiliano Zapata, Fraccionamiento Solidaridad IV, Fraccionamiento Periodistas, Fraccionamiento Rinconada del Parque, Fraccionamiento Jardines del Parque, Fraccionamiento Morelos II, Condominio Residencial del Parque, Fraccionamiento Jardines de Casablanca, Fraccionamiento Lomas de San Jorge, Fraccionamiento Fundadores, Fraccionamiento Misión de Santa Lucía, Lomas del Mirador III, Lomas del Mirador II, Fraccionamiento Lomas del Mirador, Fraccionamiento Mujeres Ilustres, Condominio Mujeres Divinas, Lomas del Mirador IV, Fraccionamiento Lomas del Ajedrez, Fraccionamiento Ciudad Industrial, INFONAVIT Lomas del Ajedrez, Fraccionamiento Lomas de Vistabella, Fraccionamiento Lomas de Vistabella Segunda Sección, Fraccionamiento Lomas Altas, Fraccionamiento Rústicos Calpulli, Condominio Villas de Bonaterra, Fraccionamiento San Francisco de Los Arteaga ó Villa Sur, Fraccionamiento San Sebastián, Nissan, Ejido Los Arellano, Fraccionamiento Ladrillera Los Arellano, Fraccionamiento Parque Industrial Altec, Fraccionamiento Lomas de Nueva York, Fraccionamiento Vista Alegre, Condominio Lomas del Sur, Fraccionamiento Residencial San Javier, Condominio Villa Sur, Los Dolores, Los Mirasoles, Cobos, El Malacate, Lomas del Gachupín, Arellano, Arroyo Hondo, Asturias, Rancho Los Pargas, Loma Blanca. La Media Luna, Ojo de Agua de Palmitas, Paso Hondo, El Mosco, Rancho Las Mercedes, Santa Clara, Rancho Esperanza, Vista Alegre, Granja Elsa, Los Amarraderos, El Bambú, Rancho Benjamín Chávez Ruiz, Ojo de Agua de Palmitas ó Las Crucitas, Las 2 Peñas Meyeras, El Gavilán, Granja Kova, Lomas de Arellano, Lotes de Arellano, La Palanca, El Pirul, El Relicario, Rancho San Felipe, San José, San Martín, Las Violetas, Los Guerrero, 3 Elenas, Lomas de Nueva York, La Calandria, El Cisne, El Relicario, El Dominado ó El Relicario, Emiliano Zapata, Villa Paraíso, Estación de Arellano, El Nutridor, Granja Paula Cecilia, Rancho Refugio de las Cotorinas, Localidades Sin Nombre, Lomas San Judas Tadeo, Rancho Alegre No. 15, Rancho Altavista, Rancho El Gigante, Rancho El Refugio No. 2, Rancho La Palma, El Rodeo y Santa Teresa.
-
-A la Delegación Urbana Lic. Jesús Terán Peredo pertenece lo siguiente: Fraccionamiento Villa de Nuestra Señora de la Asunción Sector Estación, Fraccionamiento San José de Pozo Bravo, Fraccionamiento Constitución, Fraccionamiento Soberana Convención Revolucionaria, Fraccionamiento Villa de Nuestra Señora de la Asunción Sector Alameda, Arroyo El Molino, Fraccionamiento Villa de Nuestra Señora de la Asunción Sector Guadalupe, Club Futurama, Fraccionamiento Villa de Nuestra Señora de la Asunción Sector San Marcos, Fraccionamiento Conjunto Los Naranjos, Fraccionamiento Villas de la Convención, Fraccionamiento Libertad, Fraccionamiento Villa de Nuestra Señora de la Asunción Sector Encino, Fraccionamiento Pozo Bravo Norte, Fraccionamiento Rinconada Pozo Bravo, Fraccionamiento Pozo Bravo Sur, Baldío Cumbres, Fraccionamiento El Rosedal, Fraccionamiento Lomas de la Asunción, Baldío Cumbres, Fraccionamiento Pozo Bravo, Fraccionamiento Pintores Mexicanos, Fraccionamiento Villa Teresa, Claustros Loma Dorada, Desarrollo Especial Parque Ecológico México, Baldío Cumbres, Baldío Cumbres II, Fraccionamiento Licenciado Benito Palomino Dena, Fraccionamiento Cerro Alto, Fraccionamiento Lomas de Oriente I, Fraccionamiento Villa de la Loma, Fraccionamiento Pensadores Mexicanos, Fraccionamiento Parras, Desarrollo Especial El Cóbano, Fraccionamiento Mirador de las Culturas, Fraccionamiento Bosques del Prado Oriente, Ejido Las Cumbres, Desarrollo Especial El Cóbano, Fraccionamiento Las Cumbres, Fraccionamiento Las Hadas, Presa Santa Elena, Fraccionamiento Alianza Ferrocarrilera, Fraccionamiento Trojes del Cóbano, Fraccionamiento Los Arcos, Fraccionamiento Villas del Cóbano, Colonia Macías Arellano, Asentamiento Irregular Los Pericos, Condominio Andrea, Colonia Refugio Esparza Reyes, Fraccionamiento Luis Ortega Douglas, Colonia Progreso, Fraccionamiento El Cóbano, Fraccionamiento Lomas de Santa Anita IV Sección, Fraccionamiento Nazario Ortiz Garza, Condominio Misión del Cóbano, Fraccionamiento Los Laureles II, Fraccionamiento Hacienda El Cóbano, Fraccionamiento Villa Bonita, Fraccionamiento Los Laureles III, Fraccionamiento Los Laureles, Fraccionamiento La Estrella, Fraccionamiento Rodolfo Landeros Gallegos, Fraccionamiento El Maguey, Fraccionamiento C.N.O.P. Oriente, Fraccionamiento Lomas del Cóbano, Fraccionamiento Industrial, Condominio Recinto Colonial Los Arcos, XIV Zona Militar, Colinas de Oriente, Condominio Valle del Norte, Condominio Valle Esmeralda, Colonia Morelos, Fraccionamiento C.T.M., Unidad Habitacional Benito Juárez, Fraccionamiento Santa Anita I Sección, Fraccionamiento S.T.E.M.A., Fraccionamiento Vista de las Cumbres, Fraccionamiento Municipio Libre, Colonia El Riego, Fraccionamiento Lomas de Santa Anita, Fraccionamiento Santa Anita II Sección, Fraccionamiento Real de Haciendas, Fraccionamiento Haciendas de Aguascalientes, Unidad Habitacional Fidel Velázquez, Condominio Rinconada de la Alameda, Fraccionamiento Ojocaliente I, Desarrollo Especial Parque La Pona, Desarrollo Especial Ojocaliente, Fraccionamiento José Guadalupe Posada, Ejido Ojocaliente, Fraccionamiento Villerías, Vistas de Oriente, Parque IV Centenario, Fraccionamiento Ojocaliente III, Condominio Misión Alameda, Ex-Hacienda Ojocaliente, Ejido El Rocío, Condominio de la Alameda, Condominio La Mancha, Condominio La Hacienda, Multifamiliar Ojocaliente INEGI, Fraccionamiento Ojocaliente II, Fraccionamiento José Guadalupe Peralta Gámez, Fraccionamiento Solidaridad I, Condominio Las Plazas, Fraccionamiento Valle de los Cactus, Norias de Ojocaliente, El Colorado ó El Soyatal, El Conejal, El Trigo ó Tanque El Trigo, La Herrada, Comunidad El Rocío, Norias del Paso Hondo, El Hotelito, San José, Pozo Bravo, Hormiguero, El Socorro, Interpec San Marcos, El Crucero de Calvillito, La Laguna de los Adobes, Rancho Los Boyuyos, El Riego, La Torre, Ampliación de Calvillito, Bajío de los Carreones, Cumbres III, Rancho El Progreso, Rancho La Soledad, Ampliación del Ejido El Puertecito, Ejido El Puertecito ó La Higuerilla, Colonia El Riego, Fraccionamiento Guadalupe Posada, Loma Alta El Paraíso, El Polvorín ó Mirador TV Azteca, Pozo El Trigo, Rancho Santa Fe y Granja Francis.
-
-A la Delegación Urbana Insurgentes pertenece lo siguiente: Fraccionamiento El Edén, Desarrollo Especial Sidas, Fraccionamiento Parque Industrial El Vergel, Fraccionamiento La Barranca de Guadalupe, Col. Francisco Villa, Fraccionamiento Residencial Los Pirules, Desarrollo Especial Villasunción I, Fraccionamiento Hermanos Carreño, Fraccionamiento Las Torres, Condominio Los Eucaliptos II, INFONAVIT Los Pirules, Condominio Los Eucaliptos I, Santa Imelda, Fraccionamiento España, Fraccionamiento Jardines de Santa Elena, Fraccionamiento Jardines del Lago, Fraccionamiento Montebello, Fraccionamiento Valle Dorado, Canteras de San Agustín, Fraccionamiento Agricultura, Fraccionamiento El Dorado I Sección Fraccionamiento El Dorado II Sección, Fraccionamiento Canteras de San Javier, Fraccionamiento Villa Jardín I, Fraccionamiento Canteras de San José, Fraccionamiento Villa Jardín II, Fraccionamiento Jardines del Sur, Fraccionamiento Versalles I Sección, Boulevares I Sección, Fraccionamiento Trojes de San Agustín, Fraccionamiento Prados del Sur, Boulevares II Sección, Fraccionamiento José López Portillo, Fraccionamiento Versalles II Sección, Fraccionamiento Villas de la Cantera, Fraccionamiento Educación Álamos, Colonia Nueva España, Fraccionamiento Loma Bonita, Colonia Martínez Domínguez, Fraccionamiento Insurgentes, INFONAVIT Pilar Blanco, Condominio San Nicolás, Centro Comercial Villasunción, Fraccionamiento Licenciado Manuel Gómez Morín, Fraccionamiento Prados de Villasunción, Villasunción II, Colonia Vicente Guerrero, Fraccionamiento Ex-Hacienda La Cantera, Fraccionamiento Trojes del Sur, Fraccionamiento José Vasconcelos Calderón, Fraccionamiento Villas del Pilar, Fraccionamiento Villas del Mediterráneo, Unidad Habitacional Potreros del Oeste, Baldío Vicente Guerrero, Fraccionamiento Villas de San Antonio, Desarrollo Especial Centro de Abastos, Colonia San Pedro, Fraccionamiento Vistas del Sur, Fraccionamiento Villas del Oeste, Veteranos de la Revolución, Desarrollo Especial Granja San Juan, Fraccionamiento Villa de Santa Rosa, Fraccionamiento La Estancia, Fraccionamiento Torres de San Francisco, Fraccionamiento Rinconada del Sur, Rancho Santa Mónica, Fraccionamiento Casa Sólida, Condominio Centro de Abastos, Asentamiento Irregular San Francisco del Arenal II, Colonia San Francisco del Arenal, Parque Industrial Siglo XXI, Condominio Misión Juan Pablo II, Panteón San Francisco, Baldío, Granja San Luis, San Martín ó La Cantera, San Nicolás, Granja Adelita, Los Negritos, Coyotes, Granja San José, San Pascual, Santa Cruz de la Presa, Santa Cruz de la Presa ó La Tlacuacha, Santa Gertrudis, Granja El Edén, El Molino, Montoro, La Loma de los Negritos, Valle Redondo, La Fortuna, La Gloria, Viñedos Santa Mónica, Barandales de San José, El Centavito 2, Ciudad de los Niños, Cuernavaca, La Cueva de los Pericos ó Caitaime, Ex-Hacienda de Montoro, El Gigante ó Arellano, Rancho San Felipe, La Josefina, El Latifundio, El Lucero de la Cruz, Lomas del Picacho, El Potrerito, San Gerardo, San José del Portugal, San Francisco del Arenal, Vista Alegre II, Rancho San Pascual, Las Víboras, Los Barroso, San José de Buenavista, La Cotorra, Las Aguilillas, Delipollo Granja Calvillo, Centro de Neuropsiquiatría, La Florida, La Fortuna ó La Herradura, Granja La Luz, Las Isabeles, Marlborito, El Mirador, Nochtli, Presa Nueva, Rancho El Carmen, Rancho La Luz, San José del Río, San Andrés, San Nicolás de la Cantera, El Carmen, San Agustín, El Varal, El Columpio, Derivados de Fruta S.A. de C.V., Viñedos El Tajo, Viñedos San Francisco ó Las Cochineras, San Pablo ó Viñedos Santa Mónica, Granja Claudia, San José de Buenavista, El Carmen, San Juan del Río, Santa María, San Alonso ó Viñedos Santa Mónica, San Martín ó El Zorrillo, La Nueva Teresa, Aceros San Luis, Buenavista, Viñedos Aguascalientes ó Césped Ornamental, Club de Golf Picacho, Los Corales, Los Coyotes, Granja Gemelas, Granja San José, Huerta Marcela, Colonia Veteranos de la Revolución, La Lobera, Localidades Sin Nombre, La Manga del Toro, María Auxiliadora, Minerales Ganaderos, El Plan del Jaral, Potrero del Molino, La Providencia, El Rebozo, San Antonio, San Francisco, San Gabriel, Santa Isabel ó El Tajito, Termo Refrigerados de Aguascalientes, Urbacon, Viñedos El Quelite, El Potrero, Productora de Semillas y Cereales, Viñedos Valle Redondo, CERESO para Varones y Mujeres, Ejido Los Negritos, Granja El Molino, Hijas del Sagrado Corazón de Jesús, La Puerta al Paraíso, Quinta La Luna, Rancho El Picacho, San Miguelito, Xaropa y San José.
-
-A la Zona Centro pertenece lo siguiente: Fraccionamiento Circunvalación Norte, Colonia Francisco Guel Jiménez, Desarrollo Especial Talleres de Ferrocarril, Colonia Gremial, INFONAVIT Las Viñas, Colonia Industrial, Condominio Rinconada Cristal, Colonia Buenos Aires, Fraccionamiento El Sol, Colonia San Pablo, Colonia Altavista, Colonia Miravalle, Fraccionamiento Primavera, Unidad Habitacional Torres Las Bugambilias, Colonia La Fe, Colonia del Trabajo, Fraccionamiento Zona Centro, Colonia del Carmen, Fraccionamiento Ferronales, Barrio de Guadalupe, Colonia Ferronales, Barrio de la Estación, Barrio de la Purísima, Colonia Heliodoro García, Condominio Guadalupe Posada, Fraccionamiento Gómez, Colonia Héroes, Unidad Habitacional Guadalupe Posada, Barrio de San Marcos, Barrio del Encino, Colonia El Llanito, Fraccionamiento Gámez, Fraccionamiento La Huerta, Colonia San Luis, Fraccionamiento Jardines de la Cruz, Colonia Obraje, Barrio de la Salud, Zona de la Feria, Fraccionamiento Modelo, Condominio Residencial El Encino, Colonia La Luna, Unidad Habitacional Lázaro Cárdenas, Colonia Las Flores, Unidad Habitacional Vivienda Militar, INFONAVIT San Fernando, Fraccionamiento Residencial El Encino, Condominio Virreyes, Unidad Habitacional Vivienda Popular, Fraccionamiento Héroes de Aguascalientes, Fraccionamiento Circunvalación Poniente, Unidad Habitacional IV Centenario, Fraccionamiento Triana, Jardines de Triana, Fraccionamiento SIDUSA, Fraccionamiento Las Fuentes, Fraccionamiento Los Cedros, Fraccionamiento Jesús Terán, Condominio Triana, Colonia Laurel, Fraccionamiento Santa Elena, Fraccionamiento Las Américas, Fraccionamiento Lindavista, Fraccionamiento El Caminero y Fraccionamiento Boulevard.
+> <small>(DEROGADOS SEGUNDO, TERCERO, CUARTO, QUINTO, SEXTO, SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO PÁRRAFOS, P.O. 20 DE MARZO DE 2017)</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2012)</small>
 
@@ -167,7 +155,9 @@ II. Garantizar la moral, el orden público y el bienestar colectivo sin discrimi
 
 III. Prestar adecuadamente los servicios públicos municipales.
 
-IV. Preservar y fomentar la educación y la cultura entre sus habitantes.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2017)</small>
+
+IV. Preservar y fomentar la educación, cultura, la recreación y el deporte entre sus habitantes.
 
 V. Promover el desarrollo urbano y la planeación de todos los centros de población del Municipio.
 
@@ -302,6 +292,10 @@ El H. Ayuntamiento del Municipio de Aguascalientes es el órgano colegiado de go
 ###### ARTÍCULO 12.
 
 El Presidente Municipal, Regidores y Síndicos integran el H. Ayuntamiento del Municipio de Aguascalientes, durarán en su encargo tres años, salvo el caso de que uno, varios, o la totalidad de sus integrantes, sean elegidos para un periodo más, entrando en funciones el día señalado en la Ley que en materia municipal expida el Poder Legislativo del Estado y en el Código Electoral del Estado; son los encargados de establecer y definir las acciones, criterios y políticas con que deben manejarse los recursos y servicios del Municipio de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2017)</small>
+
+Las Cuentas Públicas Municipales se revisarán mensualmente y deberán someterse a consideración del H. Ayuntamiento trimestralmente para su análisis, discusión y en su caso aprobación; a efecto de remitirlas para su fiscalización al Congreso del Estado en términos de las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 13.
 
@@ -615,23 +609,35 @@ VIII. Asuntos generales.
 
 IX. Declaratoria de clausura.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 25.
 
-Las Sesiones del Cabildo serán: Ordinarias, Ordinarias Abiertas, Extraordinarias, Solemnes y Secretas conforme a la Ley que en materia municipal expida el Poder Legislativo del Estado; todas tendrán el carácter de públicas excepto las que señale el presente Código como Secretas.
+Las Sesiones del Cabildo serán: Ordinarias, Ordinarias Abiertas, Extraordinarias, Solemnes y Secretas conforme a la Ley que en materia municipal expida el Poder Legislativo del Estado; todas tendrán el carácter de públicas excepto las que señale el presente Código como Secretas y serán transmitidas en vivo vía internet por parte de la Secretaría de Comunicación Social y deberán permanecer publicadas en la página oficial o a través de los medios electrónicos con los que cuenta el Municipio de Aguascalientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 26.
 
-Las Sesiones Ordinarias se celebrarán el primer lunes de cada mes, los Regidores y Síndicos deberán ser citados con tres días naturales de anticipación como mínimo, a excepción de las extraordinarias que podrán citarse en cualquier tiempo en razón de la anticipación que el asunto o asuntos a tratar requieran por su importancia o urgencia.
+Las Sesiones Ordinarias se celebrarán dentro de los primeros diez días naturales de cada mes, los Regidores y Síndicos deberán ser citados al menos con tres días naturales de anticipación, a excepción de las extraordinarias que podrán citarse en cualquier tiempo en razón de la anticipación que el asunto o asuntos a tratar requieran por su importancia o urgencia.
 
 Las citaciones a los Regidores y Síndicos a fin de que concurran a cualquier tipo de Sesión serán realizadas por el Presidente Municipal, a través del Secretario del H. Ayuntamiento.
 
-En todos los casos, a fin de estar en la posibilidad de que en la sesión se traten todos y cada uno de los asuntos correspondientes, deberá anexarse al citatorio el orden del día y copias de los dictámenes y proyectos de reglamentos, así como sus respectivos documentos base o soporte, que se presentarán para su discusión y en su caso aprobación.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
 
-Los Regidores y Síndicos deberán ser citados en el domicilio legal que hayan proporcionado para ello; si no se encontraran presentes en ese domicilio, el citatorio correspondiente se entregará en la oficina que ocupan dentro del Palacio Municipal.
+En todos los casos, a fin de estar en la posibilidad de que en la sesión se traten todos y cada uno de los asuntos correspondientes, deberán ser entregados en medio digital y vía electrónica: el citatorio, el orden del día y una relación pormenorizada de los dictámenes y proyectos de reglamentos, así como sus respectivos documentos base o soporte, que se presentarán para su discusión y en su caso aprobación.
 
-En los casos a que se refiere el párrafo anterior, la persona encargada de entregar el citatorio deberá contar con una copia simple del mismo a manera de acuse de recibo en la cual hará constar la fecha y hora en que se entregó, así como el nombre y firma autógrafa de la persona que recibió el citatorio.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
 
-Si fuere el caso, el Secretario certificará, pasados quince minutos de la hora señalada para la Sesión, que no existe el quórum legal para los efectos de suspensión de la misma.
+Los Regidores y Síndicos deberán ser citados mediante escrito en la oficina que ocupan dentro del Palacio Municipal y a través del correo electrónico que hayan proporcionado para tal efecto. A excepción de que por la urgencia de la sesión podrán ser citados en el domicilio legal que hayan proporcionado.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+
+La persona encargada de entregar el citatorio deberá contar con una copia simple del mismo a manera de acuse de recibo en la cual hará constar la fecha y hora en que se entregó, así como el nombre y firma autógrafa de la persona que recibió el citatorio ó constancia del envió del correo electrónico respectivo.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+
+Si fuere el caso, el Secretario certificará, pasados treinta minutos de la hora señalada para la Sesión, que no existe el quórum legal para los efectos de suspensión de la misma.
 
 Para que exista quórum legal se requiere la presencia de al menos el cincuenta por ciento más uno de los miembros del H. Ayuntamiento, hecha excepción de las Sesiones Solemnes que se llevarán a cabo con los Regidores y Síndicos que asistan.
 
@@ -663,9 +669,11 @@ El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en S
 
 En Sesiones tales como Ordinarias y Ordinarias Abiertas, podrá el H. Ayuntamiento utilizar la facultad potestativa de oír al auditorio en sus opiniones ya sea sobre el asunto a tratar en el orden del día o sobre algún otro asunto de competencia municipal, previa solicitud que se haga por escrito. Por ningún motivo se permitirá la participación del público sin haberse satisfecho este requisito.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 33.
 
-los ciudadanos a que se refiere el artículo anterior, deberán hacerlo saber al Secretario del H. Ayuntamiento antes de iniciarse la sesión para su acuerdo, y de haberse aprobado, deberán hablar sobre los temas para los cuales se concede la intervención.
+Los ciudadanos a que se refiere el artículo anterior, deberán hacerlo saber al Secretario del H. Ayuntamiento al menos con 72 horas de anticipación al inicio de la sesión para su acuerdo, y de haberse aprobado, deberán hablar sobre los temas para los cuales se concede la intervención.
 
 ###### ARTÍCULO 34.
 
@@ -1007,17 +1015,25 @@ Los titulares de las dependencias del Ayuntamiento que hayan sido debidamente ci
 
 La primera ocasión con amonestación privada; en caso de reincidencia se le sancionará con amonestación pública, en caso de una segunda reincidencia se le multará con cien días de salario mínimo general vigente en el Estado, misma que se hará efectiva por la Secretaría de Finanzas Públicas Municipales con posterioridad a la notificación que para ello reciba por parte del Presidente de la Comisión; notificación que deberá acompañarse con copia simple de la minuta debidamente formalizada y del citatorio correspondiente a la reunión en la que se dio la falta sancionada.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 87.
 
-Los integrantes de una Comisión tendrán como obligación el sostener al menos una reunión mensual con los responsables de las áreas administrativas a su cargo, a efecto de estar enterados debidamente del funcionamiento de la administración. Las Comisiones colegiadas deberán tener además al menos una reunión interna mensual en las que se traten los asuntos competencia de la misma, las cuales deberán ser citadas por el titular con cuando menos 24 horas de anticipación y por escrito, y en la cual se levantará minuta donde se asentará una síntesis del tema tratado, de las propuestas, conclusiones y en general de todas las incidencias de la reunión, misma que deberá ser firmada por los miembros presentes de la Comisión y anexada al informe mensual que se entrega al Secretario del H. Ayuntamiento.
+Los integrantes de una Comisión tendrán como obligación el sostener al menos una reunión mensual con los responsables de las áreas administrativas a su cargo, a efecto de estar enterados debidamente del funcionamiento de la administración. Las Comisiones colegiadas deberán tener además al menos una reunión interna mensual en las que se traten los asuntos competencia de la misma.
 
-A los Síndicos y Regidores integrantes de las Comisiones que no asistan a las reuniones de trabajo les será disminuida de su salario la parte proporcional que corresponda a las horas de trabajo en que se llevó a cabo la reunión, salvo en aquellos casos en que se acredite que su inasistencia se debió a una causa grave.
+Las sesiones deberán ser citadas por el titular con cuando menos 48 horas de anticipación y por escrito, y en la cual se levantará minuta donde se asentará una síntesis del tema tratado, de las propuestas, conclusiones y en general de todas las incidencias de la reunión, misma que deberá ser firmada por los miembros presentes de la Comisión y anexada al informe mensual que se entrega al Secretario del H. Ayuntamiento.
 
-En caso de que un Síndico o un Regidor no asista a tres reuniones de trabajo en Comisiones en forma consecutiva a pesar de haber sido debidamente convocado, le será descontado un día de salario a manera de sanción, previa notificación que el Presidente de la Comisión haga al Secretario de Finanzas Públicas con ese fin.
+Las sesiones de las Comisiones podrán ser transmitidas en vivo vía internet por parte de la Secretaría de Comunicación Social y ser publicadas en la página oficial o a través de los medios electrónicos con los que cuenta el Municipio de Aguascalientes, lo anterior siempre y cuando la mayoría de los integrantes de la Comisión así lo autorice, solicite y considere pertinente.
+
+A los Síndicos y Regidores integrantes de las Comisiones que no asistan a las reuniones de trabajo les será disminuida de su salario la parte proporcional que corresponda a las horas de trabajo en que se llevó a cabo la reunión; salvo en aquellos casos en que se acredite que su inasistencia se debió a una causa grave.
+
+En caso de que un Síndico o un Regidor no asista a tres reuniones de trabajo en Comisiones de forma consecutiva a pesar de haber sido debidamente convocado, le será descontado un día de salario a manera de sanción, previa notificación que el Presidente de la Comisión haga al Secretario de Finanzas Públicas con ese fin.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 88.
 
-Cuando fuere turnado algún asunto en Sesión a una Comisión, ésta deberá rendir al Cabildo el dictamen respectivo en un lapso no mayor de 30 días hábiles; salvo en el caso de que la Comisión solicite al mismo cuerpo colegiado una prórroga única por un lapso de tiempo igual en razón de que no fue posible allegarse de los elementos necesarios para rendir su dictamen en el primer periodo de tiempo.
+Cuando fuere turnado algún asunto en Sesión a una Comisión, ésta deberá rendir al Cabildo el dictamen respectivo en un lapso no mayor de sesenta días hábiles; salvo en el caso de que la Comisión solicite al mismo cuerpo colegiado una prórroga única por un lapso de tiempo igual en razón de que no fue posible allegarse de los elementos necesarios para rendir su dictamen en el primer periodo de tiempo.
 
 Si la Comisión o Comisiones que deben dictaminar no lo hicieran en el término establecido en el párrafo anterior, sus miembros serán sancionados de conformidad con lo dispuesto por el Artículo 67 fracción I de este ordenamiento.
 
@@ -1083,15 +1099,17 @@ Secretaría Particular;
 
 Oficina Ejecutiva del Presidente Municipal;
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
 
-Secretariado Técnico del Consejo de la Ciudad;
+Secretariado Técnico del Consejo de la Ciudad y Enlace Ciudadano;
 
 Comité Municipal para el Desarrollo Integral de la Familia;
 
 Dirección General del Sistema para el Desarrollo Integral de la Familia;
 
-Coordinación General de Comunicación Social;
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+
+Secretaría de Comunicación Social;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -1115,11 +1133,15 @@ Secretaría de Desarrollo Urbano;
 
 Secretaría de Servicios Públicos;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
 
-Secretaría Seguridad (sic) Pública; y
+Secretaría de Seguridad Pública;
 
 Secretaría de Medio Ambiente y Desarrollo Sustentable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+
+Secretaría de Economía Social y Turismo Municipal.
 
 I.- PRESIDENCIA MUNICIPAL
 
@@ -1127,23 +1149,39 @@ Asistente del C. Presidente
 
 Secretario Privado del C. Presidente
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)
 
 II.- SECRETARÍA PARTICULAR
 
-Dirección de Atención Institucional
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
 
-Departamento de Relaciones Públicas
+Dirección del Centro de Atención a la Ciudadanía.
 
-Departamento de Atención a la Ciudadanía
+(REUBICADO, P.O. 20 DE MARZO DE 2017)
 
-Departamento de Giras y Eventos
+Departamento de Atención a la Ciudadanía.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+
+Departamento de Gestión Social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+
+Dirección de Relaciones Públicas.
+
+(REUBICADO, P.O. 20 DE MARZO DE 2017)
+
+Departamento de Relaciones Públicas.
+
+(REUBICADO, P.O. 20 DE MARZO DE 2017)
+
+Departamento de Giras y Eventos.
+
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014) (REPUBLICADA, P.O. 20 DE MARZO DE 2017)
 
 III.- OFICINA EJECUTIVA DEL PRESIDENTE MUNICIPAL
 
-Coordinación General de Proyectos Estratégicos.
+> <small>(DEROGADO, P.O. 20 DE MARZO DE 2017)</small>
 
 Dirección de Vinculación y Convivencia Ciudadana.
 
@@ -1175,11 +1213,15 @@ Dirección de Cooperación, Financiamiento y Asuntos Internacionales.
 
 Departamento de Enlace Internacional.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)</small>
 
-IV.- SECRETARIADO TÉCNICO DEL CONSEJO DE LA CIUDAD;
+IV.- SECRETARIADO TECNICO DEL CONSEJO DE LA CIUDAD Y ENLACE CIUDADANO;
+
+(REPUBLICADO, P.O. 20 DE MARZO DE 2017)
 
 Departamento de Capacitación
+
+(REPUBLICADO, P.O. 20 DE MARZO DE 2017)
 
 Departamento de Enlaces Ciudadanos
 
@@ -1187,7 +1229,9 @@ Departamento de Enlaces Ciudadanos
 
 V.- COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-Presidenta del Sistema D.I.F. Municipal.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+
+Presidencia del Sistema D.I.F. Municipal.
 
 Coordinación Operativa General de Voluntariado.
 
@@ -1223,17 +1267,27 @@ Departamento de Desarrollo Infantil.
 
 Coordinación de CEDECOS.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)</small>
 
-VII.- COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
+VII.- SECRETARÍA DE COMUNICACIÓN SOCIAL
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 Departamento de Producción Gráfica.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+
 Departamento de Comunicación Digital.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 Departamento de Información.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+
 Departamento de Difusión.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 Departamento de Análisis y Síntesis.
 
@@ -1359,7 +1413,7 @@ Departamento de Contabilidad.
 
 Departamento de Cuenta Pública.
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+(REFORMADA, P.O. 13 DE ENERO DE 2014) (REPUBLICADA, P.O. 20 DE MARZO DE 2017)
 
 XI.- SECRETARÍA DE OBRAS PÚBLICAS.
 
@@ -1403,6 +1457,10 @@ Departamento de Conservación y Mantenimiento.
 
 Departamento de Parque de Maquinaria y almacén.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+
+Coordinación General de Obras Públicas
+
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 XII.- SECRETARÍA DE ADMINISTRACIÓN
@@ -1439,6 +1497,10 @@ Departamento de Taller Gráfico.
 
 Departamento de Compras.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+
+Coordinación General de Gobierno Digital
+
 Dirección de Servicios Generales.
 
 Departamento de Mantenimiento.
@@ -1455,6 +1517,8 @@ Departamento de Auditoría, Mejora Continua y Normatividad.
 
 Departamento de Seguimiento y Eficiencia Presupuestal.
 
+> <small>[N. DE E. DEL ANÁLISIS AL PROYECTO DE REFORMA PUBLICADO EN EL P.O. 20 DE MARZO DE 2017, SE ADVIERTE QUE LA PRESENTE FRACCIÓN SE MODIFICÓ DE FORMA SUSTANCIAL EN SU ESTRUCTURA ]</small>
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 XIII.- SECRETARÍA DE DESARROLLO SOCIAL.
@@ -1465,41 +1529,73 @@ Departamento de Seguimiento y Control de Gestión.
 
 Departamento de Recursos Humanos y Eficiencia Presupuestal.
 
-Dirección de Educación Cultura Física y Deporte.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)</small>
 
-Departamento de Cultura Física y Deporte.
+Dirección de Activación Física, Recreación y Deporte.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+
+Departamento de Activación Física.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2017)</small>
+
+Departamento de Recreación y Deporte.
+
+(REUBICADO, P.O. 20 DE MARZO DE 2017)
 
 Departamento de Gestión y Apoyos Deportivos.
 
-Departamento de Educación.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+
+Dirección de Educación
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+
+Departamento de Bibliotecas Municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+
+Departamento de Gestión de Apoyos e Infraestructura.
+
+(REPUBLICADO, P.O. 20 DE MARZO DE 2017)
 
 Dirección de Desarrollo Social.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+
+Coordinación de Promoción y Concertación
+
+(REUBICADO, P.O. 20 DE MARZO DE 2017)
+
 Departamento de Promoción.
+
+(REUBICADO, P.O. 20 DE MARZO DE 2017)
 
 Departamento de Organización y Concertación.
 
+(REPUBLICADO, P.O. 20 DE MARZO DE 2017)
+
 Dirección de Programas Sociales.
+
+(REPUBLICADO, P.O. 20 DE MARZO DE 2017)
 
 Departamento de Programas Federales.
 
+(REPUBLICADO, P.O. 20 DE MARZO DE 2017)
+
 Departamento de Programas Municipales.
 
+(REPUBLICADO, P.O. 20 DE MARZO DE 2017)
+
 Departamento de Programas para la Convivencia.
-
-Dirección de Desarrollo Económico y Turismo.
-
-Departamento de Proyectos Productivos.
-
-Departamento de Vinculación Empresarial y Capacitación para el Empleo.
-
-Departamento de Turismo.
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 XIV.- SECRETARÍA DE DESARROLLO URBANO.
 
-Asistente Administrativo.
+> <small>(REFORMADO, 20 DE MARZO DE 2017)</small>
+
+Coordinación Administrativa
 
 Coordinación Jurídica.
 
@@ -1611,6 +1707,10 @@ Departamento de Atención a la ciudadanía.
 
 Coordinación de Asuntos Jurídicos
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+
+Coordinación de la Unidad Municipal y Atención Inmediata
+
 Dirección Administrativa.
 
 Departamento de Recursos Materiales y Financieros.
@@ -1705,6 +1805,10 @@ Departamento de Emergencia 080.
 
 XVII.- SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
+
+Departamento Administrativo
+
 Dirección de Medio Ambiente y Cambio Climático.
 
 Departamento de Gestión Ambiental.
@@ -1713,65 +1817,51 @@ Departamento de Recursos Naturales y Biodiversidad.
 
 Departamento de Educación Ambiental y Participación Ciudadana.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2017)</small>
 
-XVIII.- COORDINACIÓN GENERAL DE DELEGACIONES URBANAS Y RURALES
+XVIII.- SECRETARÍA DE ECONOMÍA SOCIAL Y TURISMO MUNICIPAL
 
-Delegación Urbana José María Morelos y Pavón.
+Departamento Jurídico
 
-Departamento de Servicios Públicos.
+Departamento Administrativo
 
-Departamento de Desarrollo Urbano y Obras Públicas.
+Dirección de Economía Social.
 
-Departamento de Desarrollo Social.
+Departamento de Innovación y Vinculación.
 
-Comisarios Municipales.
+Departamento de Financiamiento y Emprendedurismo.
 
-Delegación Urbana Lic. Jesús Terán Peredo
+Dirección de Turismo Municipal.
 
-Departamento de Servicios Públicos.
+Departamento de Turismo en tu Barrio.
 
-Departamento de Desarrollo Urbano y Obras Públicas.
+> <small>[N. DE E. DEL ANÁLISIS AL PROYECTO DE REFORMA PUBLICADO EN EL P.O. 20 DE MARZO DE 2017, SE ADVIERTE QUE LA PRESENTE FRACCIÓN SE MODIFICÓ DE FORMA SUSTANCIAL EN SU ESTRUCTURA Y CONTENIDO]</small>
 
-Departamento de Desarrollo Social.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2017)</small>
 
-Comisarios Municipales.
+XIX.- COORDINACIÓN GENERAL DE DELEGACIONES URBANAS Y RURALES
 
-Delegación Urbana Insurgentes.
+DELEGACIONES URBANAS:
 
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Social.
-
-Comisarios Municipales.
-
-Delegación Urbana Pocitos.
+Delegado.
 
 Departamento de Servicios Públicos.
 
-Departamento de Desarrollo Urbano y Obras Públicas.
+Departamento de Desarrollo Urbano y Obras Públicas
 
-Departamento de Desarrollo Social.
+Departamento de Desarrollo Social
 
-Comisarios Municipales.
+DELEGACIONES URBANAS-RURALES:
 
-Delegación Rural Cañada Honda.
+Delegado.
 
-Comisarios Municipales.
+Departamento de Servicios Públicos.
 
-Delegación Rural Calvillito.
+Departamento de Desarrollo Urbano y Obras Públicas
 
-Comisarios Municipales.
+Departamento de Desarrollo Social
 
-Delegación Rural Peñuelas.
-
-Comisarios Municipales.
-
-Delegación Rural Salto de los Salado.
-
-Comisarios Municipales.
+Comisarios Municipales
 
 Dirección de Desarrollo Rural.
 
@@ -1915,39 +2005,63 @@ X. Cubrir las actividades y eventos de la Presidencia Municipal mediante materia
 
 XI. Las demás que les confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2017)</small>
 
 APARTADO CUARTO
 
-Secretariado Técnico del Consejo de la Ciudad
+Secretariado Técnico del Consejo de la Ciudad y Enlace Ciudadano
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)</small>
 
-###### ARTÍCULO 102.
+###### Artículo 102.
 
-El Secretariado Técnico del Consejo de la Ciudad es el órgano auxiliar de dicho Consejo, dependiente del Presidente Municipal, que, a través de su titular y las unidades administrativas a su cargo, corresponde:
+El Secretariado Técnico del Consejo de la Ciudad y Enlace Ciudadano es el órgano auxiliar del Consejo de la Ciudad y promotor de la participación y empoderamiento ciudadano, dependiente del Presidente Municipal, que, a través de su titular y las unidades administrativas a su cargo, corresponde:
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 I. Fungir como Secretario/a del Consejo de la Ciudad de Aguascalientes, auxiliando a la Presidencia en la conducción de las sesiones.
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 II. Levantar el acta de cada sesión del Pleno del Consejo y de la Comisión Permanente;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 III. Someter al pleno del Consejo las actas para su aprobación al inicio de la sesión siguiente;
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 IV. Dar seguimiento a los acuerdos del Consejo y de la Comisión Permanente.
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 V. Conservar el archivo permanente de actas del Consejo, de las sesiones del pleno, de la comisión permanente, y de las comisiones temáticas, temporales o especiales que se conformen.
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 VI. Validar con su firma todas las resoluciones y acuerdos tomados por el Pleno y la Comisión Permanente;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 VII. Gestionar acciones encomendadas por el Consejo y la Comisión Permanente, ante la ciudadanía, las entidades gubernamentales municipales, y en su caso, estatales o federales.
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 VIII. Llevar el control y distribución de la correspondencia y dar cuenta al Consejo de la Ciudad de los asuntos de su competencia.
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 X (SIC). Acordar con el Presidente Municipal y la Presidencia de la Comisión Permanente el despacho de los asuntos que le corresponden;
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 XI. Rendir informe mensual de las actividades desempeñadas a la Comisión permanente del Consejo de la Ciudad y al Presidente Municipal, y cuando así se lo requiera, al Regidor o Sindico del ramo;
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 XII. Vigilar que se cumpla con las disposiciones legales en todos los asuntos atendidos por el Consejo de la Ciudad;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 XIII. Apoyar a la comisión permanente en la gestión de proyectos avanzados, evaluando su pertinencia y viabilidad, con miras a conseguir apoyo y fortalecimiento entre las instancias gubernamentales y no gubernamentales, nacionales y extranjeras.
 
@@ -1959,11 +2073,19 @@ XIV. Desarrollar talleres de análisis para conocer las coyunturas y posicionami
 
 XV. Promover la participación de la sociedad en las políticas públicas a través de la difusión de la información gubernamental tendientes a garantizar el efectivo goce y acceso a los servicios públicos municipales, así como a una vida libre de violencia;
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 XVI. Fomentar la participación de los ciudadanos en los asuntos públicos mediante la promoción de la cultura de la legalidad;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 XVII. Apoyará en la gestión y logística necesaria encomendada por el Consejo de la Ciudad para realizar las acciones, desarrollar mecanismos y eventos tendientes a evaluar, medir y fortalecer las políticas públicas municipales;
 
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+
 XVIII. Proporcionar información y cooperación técnicas a las dependencias de la administración pública municipal;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
 XIX. Las demás que le encomiende el Consejo de la Ciudad, la Comisión Permanente a través de su presidencia, el Presidente Municipal, o le confiera la Ley.
 
@@ -2557,61 +2679,53 @@ XIII. Integrar equipos, organizar torneos y eventos deportivos así como conform
 
 XIV. Administrar las instalaciones y espacios deportivos del Municipio.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2017)</small>
 
-XV. El fomento al empleo e impulso a la actividad económica en el comercio y los servicios, que permita la participación de la juventud, las mujeres, sin discriminación por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género; el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas, para el logro del bienestar social del Municipio de Aguascalientes,
+XV.- Nombrar un enlace de género para la debida coordinación de acciones con el Instituto Municipal de la Mujer de Aguascalientes;
 
-XVI. Promover el autoempleo y el fortalecimiento de las micro y pequeñas empresas en el comercio y los servicios.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+XVI.- Formar parte de los Sistemas Municipales, de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres y de Igualdad Sustantiva entre Mujeres y Hombres;
 
-XVII. Promover proyectos productivos en el área rural, en especial para las mujeres rurales, a efecto de acelerar su igualdad con los hombres de su comunidad;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2017)</small>
 
-XVIII. Coadyuvar, fomentar y promover, en los términos de las leyes y reglamentos de la materia la ejecución de políticas y programas del Municipio de Aguascalientes en lo referente a la actividad económica, que permita más empleo y el desarrollo del comercio y los servicios.
+XVII.- Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-XIX. Formular, evaluar e implementar proyectos de unidades generadoras de ingresos para los habitantes del Municipio de Aguascalientes.
+XVIII. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XX. Establecer una coordinación con el ramo empresarial en los sectores del comercio y los servicios.
+XIX. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXI. Fomentar la generación y promoción de programas tendientes a la creación de fuentes de trabajo y mantenimiento de las ya existente (sic) a través de la micro y pequeña empresa.
+XX. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXII. Coordinar, organizar y promover las acciones necesarias para lograr un mejor aprovechamiento de los recursos federales, estatales y municipales.
+XXI. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXIII. Ampliar los convenios en los términos de las leyes con el Estado y la Federación.
+XXII. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXIV. Promover la vinculación con las instituciones de educación superior para el fortalecimiento de la actividad económica del Municipio.
+XXIII. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXV. Promover la infraestructura, así como la creación de nuevas empresas en las zonas rurales.
+XXIV. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+XXV. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXVI. Brindar consultas y capacitación en materia empresarial, incluyendo la construcción de liderazgos y personas emprendedoras;
+XXVI. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXVII. Promover y difundir las actividades artesanales, así como la comercialización de productos propios del Municipio.
+XXVII. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXVIII. Organizar, participar y patrocinar exposiciones, eventos y ferias, que coadyuven al desarrollo empresarial, comercial y al fomento del empleo.
+XXVIII. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXIX. Fomentar la capacitación y asistencia técnica integral en las micro y pequeñas empresas.
+XXIX. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXX. Apoyar a las micro y pequeñas empresas en las gestiones para la obtención de servicios, insumos, financiamientos y demás elementos necesarios para el desarrollo de sus actividades.
+XXX. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXXI. (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE MARZO DE 2008)
+XXXI. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+XXXII. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXXII. Nombrar un enlace de género para la debida coordinación de acciones con el Instituto Municipal de la Mujer de Aguascalientes;
+XXXIII. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+XXXIV. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
-XXXIII. Formar parte de los Sistemas Municipales, de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres y de Igualdad Sustantiva entre Mujeres y Hombres;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-XXXIV. Emitir el estudio de impacto socio - económico que tendrá la instalación y funcionamiento de tiendas de conveniencia en los lugares donde existan comercio de abarrotes, análogos o similares, con el propósito de no favorecer la afectación comercial que por tal motivo obtengan éstas últimas y contribuir así a su fortalecimiento económico y social. Dicho estudio se concentrará específicamente en la circunferencia de influencia en la venta de servicios y productos de la tienda de conveniencia hacia el detrimento comercial del sector abarrotero, análogo o similar.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2016)</small>
-
-XXXV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XXXV. (DEROGADA, P.O. 20 DE MARZO DE 2017)
 
 ###### ARTÍCULO 111
 
@@ -3024,6 +3138,58 @@ XLVIII.- Emitir recomendaciones a las autoridades federales, estatales y municip
 XLIX.- Definir de manera anual los principios, objetivos y metas, mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Municipio, así como los instrumentos y procedimiento para su aplicación; y
 
 L.- Las demás que le otorgue el presente Código y demás ordenamientos aplicables en la materia.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE MARZO DE 2017)</small>
+
+APARTADO DÉCIMO SÉPTIMO
+
+De la Secretaría de Economía Social y Turismo Municipal
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2017)</small>
+
+ARTÍCULO 114 TER.- Corresponde a la Secretaría de Economía Social y Turismo Municipal:
+
+I. El fomento al empleo e impulso a la actividad económica en el comercio y los servicios, que permita la participación de la juventud, las mujeres, sin discriminación por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género; el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas, para el logro del bienestar social del Municipio de Aguascalientes;
+
+II. Promover el autoempleo y el fortalecimiento de las micro y pequeñas empresas en el comercio y los servicios;
+
+III. Promover proyectos productivos en el área rural, en especial para las mujeres rurales, a efecto de acelerar su igualdad con los hombres de su comunidad;
+
+IV. Coadyuvar, fomentar y promover, en los términos de las leyes y reglamentos de la materia la ejecución de políticas y programas del Municipio de Aguascalientes en lo referente a la actividad económica, que permita más empleo y el desarrollo del comercio y los servicios;
+
+V. Formular, evaluar e implementar proyectos de unidades generadoras de ingresos para los habitantes del Municipio de Aguascalientes;
+
+VI. Establecer una coordinación con el ramo empresarial en los sectores del comercio y los servicios;
+
+VII. Fomentar la generación y promoción de programas tendientes a la creación de fuentes de trabajo y mantenimiento de las ya existente (sic) a través de la micro y pequeña empresa;
+
+VIII. Coordinar, organizar y promover las acciones necesarias para lograr un mejor aprovechamiento de los recursos federales, estatales y municipales;
+
+IX. Ampliar los convenios en los términos de las leyes con el Estado y la Federación;
+
+X. Promover la vinculación con las instituciones de educación superior para el fortalecimiento de la actividad económica del Municipio;
+
+XI. Promover la infraestructura, así como la creación de nuevas empresas en las zonas rurales;
+
+XII. Brindar consultas y capacitación en materia empresarial, incluyendo la construcción de liderazgos y personas emprendedoras;
+
+XIII. Promover y difundir las actividades artesanales, así como la comercialización de productos propios del Municipio;
+
+XIV. Organizar, participar y patrocinar exposiciones, eventos y ferias, que coadyuven al desarrollo empresarial, comercial y al fomento del empleo;
+
+XV. Fomentar la capacitación y asistencia técnica integral en las micro y pequeñas empresas;
+
+XVI. Apoyar a las micro y pequeñas empresas en las gestiones para la obtención de servicios, insumos, financiamientos y demás elementos necesarios para el desarrollo de sus actividades;
+
+XVII. Apoyar actividades agrícolas, pecuarias, forestales, pesca, acuícolas, comercio, industria, minería y servicios que promuevan la inclusión productiva laboral y financiera en todos los sectores de la población;
+
+XVIII. Emitir el estudio de impacto socioeconómico que tendrá la instalación y funcionamiento de tiendas de conveniencia en los lugares donde exista comercio de abarrotes, análogos o similares, con el propósito de no favorecer la afectación comercial que por tal motivo obtengan estas últimas contribuir así con su fortalecimiento económico y social. Dicho estudio se concentrará específicamente en la circunferencia de influencia en la venta de servicios y productos de la tienda de conveniencia hasta el detrimento comercial del sector abarrotero, análogo o similar.
+
+XIX. Proyectar la vocación turística de nuestra ciudad y generar programas que promuevan el flujo de visitantes a nuestro Municipio;
+
+XX. Promover el turismo local en el territorio Municipal, y
+
+XXI. Y las demás que le confieran las leyes de la materia.
 
 ## TÍTULO TERCERO. DE LA NORMATIVIDAD INTERNA MUNICIPAL
 
@@ -5707,7 +5873,7 @@ XII. Comunicar dolosamente a una o más personas de la imputación que se hace a
 
 XIII. Formular toda clase de expresiones o realización de acciones destinadas a discriminar y manifestar desprecio a otra persona o con el fin de causarle una ofensa, siempre y cuando de ello tengan conocimiento otras personas y se ponga al ofendido en una situación de notable humillación pública.
 
-(REUBICADO [N. DE E. ANTES APARTADO OCTAVO ], P.O. 9 DE ENERO DE 2017)
+(REUBICADO [N. DE E. ANTES APARTADO OCTAVO], P.O. 9 DE ENERO DE 2017)
 
 APARTADO NOVENO
 
@@ -5789,7 +5955,7 @@ Los integrantes operativos de las Direcciones de Policía Preventiva, de Tránsi
 
 Toda persona que tenga una discapacidad, serán sancionados por las faltas que cometan, siempre que su impedimento no haya influido determinantemente sobre su responsabilidad en los hechos, pero el Juez podrá reducir hasta la mitad la sanción que señala este capítulo, si aparecen circunstancias que ameriten dicho tratamiento.
 
-(REUBICADO [N. DE E. ANTES APARTADO DÉCIMO ], P.O. 9 DE ENERO DE 2017)
+(REUBICADO [N. DE E. ANTES APARTADO DÉCIMO], P.O. 9 DE ENERO DE 2017)
 
 APARTADO DÉCIMO PRIMERO
 
@@ -5817,7 +5983,7 @@ En el caso de reincidencia el Juez Municipal podrá duplicar el máximo de las s
 
 Se considerará reincidente al que haya cometido la misma falta en un lapso menor a un año de ejecutada la primera u otra dentro de la misma clasificación de protección de valores que indica este capítulo.
 
-(REUBICADO [N. DE E. ANTES APARTADO DÉCIMO PRIMERO ], P.O. 9 DE ENERO DE 2017)
+(REUBICADO [N. DE E. ANTES APARTADO DÉCIMO PRIMERO], P.O. 9 DE ENERO DE 2017)
 
 APARTADO DÉCIMO SEGUNDO
 
@@ -24415,8 +24581,30 @@ Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de Agua
 
 P.O. 9 DE ENERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL".]
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL”.]
 
 PRIMERO.- Las modificaciones, adiciones y derogaciones que se establecen en la presente reforma tanto al Código Municipal de Aguascalientes así como al Reglamento de Servicio Comunitario del Municipio de Aguascalientes surtirán efecto y estarán vigentes a partir del 01 de enero de 2017.
 
 SEGUNDO.- Las modificaciones que se hacen al Apartado Séptimo, Capítulo VIII del Título III del Código Municipal de Aguascalientes, serán desincorporadas del presente Código Municipal de Aguascalientes dentro de los 90 días siguientes a la entrada en vigor de la presente reforma, para efecto de elaborar un Reglamento que regule las emisiones de ruido dentro de zonas habitaciones tutelando la sana convivencia vecinal.
+
+P.O. 20 DE MARZO DE 2017.
+
+> <small>[N. DE E. TRANSITORIO “SE REFORMAN LOS ARTÍCULOS 25 Y 87 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES”.]</small>
+
+P.O. 20 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL PROYECTO DE REFORMA POR EL QUE "SE REFORMAN, MODIFICAN, ADICIONAN Y DEROGAN, ARTÍCULOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO: Las modificaciones al presente Código entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
+
+TERCERO: La Secretaría de Economía Social y Turismo Municipal, dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno de la Secretaría de Economía Social y Turismo Municipal, con el fin de que se encuentre conforme a la presente reforma.
+
+CUARTO: Dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente reforma, el Consejo de la Ciudad deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes las reformas pertinentes al Reglamento Interno del Consejo de la Ciudad y Enlace Ciudadano, con el fin de que se encuentre conforme a la presente reforma.
+
+QUINTO: Las reformas a los artículos 3°, 6° fracción IV, 12, se modifica y adiciona un párrafo al artículo 26, 33, 88, 98, 102, se reforman las fracciones XV a XVII del artículo 111 y se derogan de la XVIII a la XXXV del mismo artículo, se adiciona el artículo 114 TER del Código Municipal de Aguascalientes estarán sujetas a la suficiencia presupuestal que resulte de la reingeniería, economías y remanentes que en orden de prioridades, de forma progresiva y gradual genere la Administración Pública Municipal de Aguascalientes.
+
+SEXTO: Todas las disposiciones jurídicas del ámbito Municipal que se opongan al presente, se entienden reformadas en el sentido del contenido en el cuerpo del mismo, adecuando los nuevos nombres y funciones a las recientemente reformadas.
