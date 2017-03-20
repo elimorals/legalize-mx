@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2016-12-31"
+last_updated: "2017-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MARZO DE 2017.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -161,7 +161,7 @@ V.- Las sociedades cooperativas y mutualistas;
 
 > <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
 
-VI.- Las asociaciones distintas de las enumeradas, que se propongan fines políticos, científicos, artísticos, de recreo o cualesquier otro fin lícito, siempre que no fueren desconocidas por la ley;
+VI.- Las asociaciones distintas de las enumeradas, que se propongan fines políticos, científicos, artísticos, de recreo o cualquier otro fin lícito, siempre que no fueren desconocidas por la ley;
 
 > <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
 
@@ -1041,7 +1041,7 @@ Los derechos y obligaciones que este Código otorga e impone a la pareja conyuga
 
 > <small>(ADICIONADO, B.O. 7 DE ENERO DE 2002)</small>
 
-Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar, que se entiende como el uso de la violencia física o psicológica, así como la omisión grave, que de manera reiterada ejerza un miembro de la familia contra integrante de la misma.
+Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar, que se entiende como el uso de la violencia física o psicológica, así como la omisión grave, que de manera reiterada ejerza un miembro de la familia contra otro integrante de la misma.
 
 > <small>(ADICIONADO, B.O. 7 DE ENERO DE 2002)</small>
 
@@ -15843,4 +15843,22 @@ B.O. 31 DE DICIEMBRE DE 2016.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2017)</small>
+
+SEGUNDO.- En los juicios de divorcio necesario que se encuentren pendientes de resolver, en primera o segunda instancia, será potestativo para cualquiera de las partes, solicitar a la autoridad judicial del conocimiento la disolución del vínculo matrimonial que más les beneficie; de ser así, el Juez o Magistrado respectivo, procederá conforme a las disposiciones del presente decreto.
+
+Si existe otra pretensión en los juicios pendientes de resolución, distinta a la disolución del vinculo matrimonial, como pudiera ser la guarda y custodia de los hijos, el régimen de convivencia con el padre no custodio, los alimentos, consecuencias patrimoniales del divorcio o alguna otra cuestión semejante que hubiere sido planteada o deba resolverse de oficio, el juzgador seguirá el trámite del juicio en relación a estos puntos litigiosos conforme a las disposiciones aplicables y anteriores al presente decreto, hasta resolver en definitiva según corresponda, sin perjuicio de que se decrete la disolución del vínculo matrimonial sin analizar las causales de divorcio invocadas, una vez que sea solicitado por cualquiera de las partes.
+
+> <small>(ADICIONADO, B.O. 20 DE MARZO DE 2017)</small>
+
+TERCERO.- En aquellos lugares en donde no exista Centro de Justicia Alternativa, el Juez de la causa estará facultado para aplicar los Mecanismos Alternativos de Solución de Controversias previstos en la Ley de la materia y en el presente Decreto; en el mismo supuesto, para los efectos previstos en el segundo y tercer párrafo del artículo 279 del Código Civil para el Estado Libre y Soberano de Baja California Sur, los Oficiales del Registro Civil, tendrán la misma facultad.
+
+> <small>(ADICIONADO, B.O. 20 DE MARZO DE 2017)</small>
+
+CUARTO.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2425 SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO Y SE ADICIONAN LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIO AL DECRETO 2415 EXPEDIDO EN FECHA 16 DE DICIEMBRE DE 2016 POR EL H. CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETÍN OFICIAL NÚMERO 50 DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR, DE FECHA 31 DE DICIEMBRE DE 2016".]
+
+Único.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
