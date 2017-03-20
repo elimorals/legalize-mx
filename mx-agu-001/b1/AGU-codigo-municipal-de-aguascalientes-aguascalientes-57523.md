@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2017-01-09"
+last_updated: "2017-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,25 +23,25 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
+CÓDIGO NÚMERO 542 HACENDARIO PARA EL MUNICIPIO DE ORIZABA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1986.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
 
-Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
+Código publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 7 de abril de 2009.
 
-El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
+Fidel Herrera Beltrán, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
 
-VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
+Que la Sexagésima Primera Legislatura del Honorable Congreso del Estado se ha servido dirigirme el siguiente Código para su promulgación y publicación:
 
-Que el Congreso Constituyente reunido en esta ciudad el 1o. de diciembre de 1916, en virtud del decreto de convocatoria de 19 de septiembre del mismo año, expedido por la Primera Jefatura, de conformidad con lo prevenido en el artículo 4o. de las modificaciones que el 14 del citado mes se hicieron al decreto de 12 de diciembre de 1914, dado en la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de 1913, ha tenido a bien expedir la siguiente:
+Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.-Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
 
-CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FEBRERO DE 1857.
+LA SEXAGÉSIMA PRIMERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 75 Y 76 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE EL SIGUIENTE:
+
+CÓDIGO NÚMERO 542 HACENDARIO PARA EL MUNICIPIO DE ORIZABA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO I.
-
-DE LAS GARANTIAS INDIVIDUALES.
+### CAPÍTULO ÚNICO
 
 ###### Art. 1o.
 
@@ -105,47 +105,83 @@ Es deber de los padres preservar el derecho de los menores a la satisfacción de
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-###### ARTÍCULO 1°.
+###### Artículo 1.
 
-Las disposiciones del presente Código son de orden público e interés general, reglamentarias del artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 69 de la Constitución Política del Estado de Aguascalientes y demás disposiciones que establezca la ley que en materia municipal expida el Poder Legislativo del Estado.
+Las disposiciones de este Código son de orden público, interés general y observancia obligatoria en el Municipio de Orizaba del Estado de Veracruz de Ignacio de la Llave, y tienen por objeto regular:
 
-El presente Código lo constituyen el conjunto de normas expedidas por el Ayuntamiento de Aguascalientes, que contienen las disposiciones relativas a los derechos protegidos en la esfera del Orden Público, en lo que se refiere a la seguridad general, al civismo, la salubridad, la forestación, la conservación de vialidades y al ornato público, la propiedad y el bienestar de las personas, en su seguridad, tranquilidad y disfrute de propiedades particulares, la igualdad entre todas y todos los habitantes sin importar origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra; así como la integridad moral de la persona y de la familia; recolección y disposición final de residuos, regulando además los efectos derivados de los servicios de agua potable, drenaje y alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, calles, parques, jardines, seguridad pública, policía preventiva, tránsito y transporte locales.
+I. La planeación, programación y presupuestación del gasto público;
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+II. La administración financiera y tributaria de la Hacienda Municipal;
 
-###### ARTÍCULO 2°.
+III. Las normas que regulan las contribuciones, aprovechamientos y productos;
 
-El Municipio de Aguascalientes está conformado por fraccionamientos, colonias, condominios, comunidades, poblados y rancherías que se ubican dentro de su territorio y se organizan políticamente en Delegaciones y Comisarías. Quedan obligados al cumplimiento y observancia del presente Código, sin distinción, todas y todos los habitantes que conformen la población del Municipio de Aguascalientes.
+IV. La administración de los recursos humanos, financieros y materiales;
 
-###### ARTÍCULO 3°.
+V. La integración de la cuenta pública municipal;
 
-El territorio del Municipio de Aguascalientes se divide en ocho Delegaciones y Zona Centro. Las Delegaciones son: Calvillito, Cañada Honda, Salto de los Salado, Peñuelas, Los Pocitos, José María Morelos y Pavón, Lic. Jesús Terán Peredo e Insurgentes.
+VI. La administración y contratación de su deuda pública; y
 
-A la Delegación Calvillito pertenecen las siguientes comunidades: El Duraznillo, Los Cuervos o Los Ojos de Agua, La Chiripa, Matamoros, Soledad de Abajo, Los Durón, Las Jaboneras, Rancho El Carmen o Gallinas Güeras, Los Hoyos o Puerta de los Hoyos, Soledad de Arriba, Bajío Los Vázquez, Cañada Grande de Cotorina, Villa Lic. Jesús Terán ó Calvillito, Las Animas, La Ahuja o La Aguja, El Cardón, La Congoja, El Fresno o Las Norias de San Bartolo, El Guarda, El Jagüey, Laguna Verde, El Mirador, El Mirasol, El Mitote, La Petaquilla ó El Milagro, El Potrero Nuevo, Sal Sí Puedes, San Bartolo, San Miguelito de Abajo, El Tacón, Tanque de Guadalupe, El Tepetate, El Tropezón, Vista Alegre I ó Bella Vista, Los Hernández, El Ranchito ó El Mocho, Bella Vista ó El Coronel, Los Cables, La Cachucha ó El Salero, El Capirote, El Caracol ó La Mesa, El 14, El Copetillo, El Crucero, La Estancia, Gómez Palacio, Los Lirios, La Mesa, El Molino Los Órganos, Rancho El Paraíso, Rancho El Pirul ó El Pirulito, El Pozo, Potrero Grande, Rancho 2 Arbolitos, El Refugio II, Rancho Sin Nombre, La Rinconada ó La Escondida, San José del Cono, La Santa Cruz, Santa Elena, El Salero, El Gato, El Yerbaniz, Azarco, La Cañada de las Habas, Lomas del Guarda, Mesa del Tepetate, Los Salazar, La Lagunita, Cañada del Duraznillo, Cañada Grande, El Capirote, El Ocal ó El Capirote, La Chiripa, El Cono, El Copetillo, El Copetillo Chico ó La Miseria, La Cruz, Los Durón 1, La Escuadra, La Fortuna, Los Laureles, El Maistrujenio, El Mirador, Ojos de Agua la Estancia, El Plan de Lagos, Rancho de Guadalupe ó Las Jaboneras, Rancho El Duraznillo, La Rinconada ó La Escondida, Rancho La Cruz, Rancho Nuevo 1880, Rancho Porvenir, Rancho Santa Teresa, El Salero, San Miguelito, Las Trojes ó Las Jaboneras, Cañada del Tabaco, Loma del Mezquite, Maíz Prieto, San Juanito ó Los López, El Copetillo Chico, Localidades Sin Nombre La Morada, El Ocal, Rancho Los Córdova, El Refugio, La Cabaña Roja, El Maguey y Los Valdez.
+VII. El dominio y la administración de sus bienes.
 
-A la Delegación Cañada Honda pertenecen las siguientes comunidades: San José de la Ordeña, Ejido San Antonio de los Pedroza, Santa Maria de Gallardo, Jaltomate, General José María Morelos y Pavón ó Cañada Honda, Estación Cañada Honda, Comité, Congregación San Antonio Primero de los Pedroza, San Nicolás de Arriba, El Chiflido, La Coyotera, El Becerro, El Refugio, El Jardín, Puerta de los Viejitos, Rancho El Venado y San Nicolás de Arriba.
+###### Artículo 2.
 
-A la Delegación de Salto de los Salado pertenecen las siguientes comunidades: El Niágara ó Rancho El Niágara, El Ocote, Granja San Antonio, San José de la Esperanza, Centro de Arriba ó El Taray, La Huerta ó La Cruz, Cuauhtémoc ó Las Palomas, San Pedro Cieneguilla, San Rafael I, El Tanque de los Jiménez, Cieneguilla ó La Lumbrera, Piedras Chinas, Presa de Guadalupe, El Salto de los Salado, Los Arbolitos ó Rancho de los Arbolitos, Cabecita 3 Marías ó Rancho Nuevo, Los Caños, La Ademe, San José del Monte ó Las Petacas, Ex-Hacienda de Agostaderito, Rancho Legendario, Norias de Cedazo ó Cedazo Norias de Montoro, El Rubio, Asociación Local Ganadera de Aguascalientes ó C. del Niágara, Cieneguilla ó La Hacienda, Las Bugambilias, Castillo Fontenac, La Chiripa, Granja Los Lirios, Las Marías ó Las 3 Marías, Rancho San Carlos, San Gerónimo, Las Víboras, Granjas Fátima, El 14, Rancho La Chiripa, El Arquito, Quinta Santa Isabel, Rancho Aurora, Rancho San José del Monte, Granja Chela, Rancho Nuevo, Rancho Topogigio, San Isidro de los Esparza, San Isidro ó La Estación, San Cristóbal, San Nicolás de Enmedio, El Sabino ó San Román, El Sauz Amarillo, La Tijera, Ampliación del Conejal, La Sociedad, Granjas El Conejal, Granja Los Jacalitos, Rancho Las Jarillas, Granja Don Mónico, Rancho El Chiflido, Los Placeres, El Futuro, Los Girasoles, Granja San Nicolás, El Paraíso, San Antonio, San Antonio y Los 3 Cuartos.
+Para los efectos de este Código se entenderá por:
 
-A la Delegación Peñuelas pertenecen las siguientes comunidades: San Antonio de Peñuelas, El Cedazo o Cedazo de San Antonio, Cotorina de Abajo, Dolores, La Soledad, El Turicate, El Mirador, Peñuelas ó El Cienegal, El Refugio de Peñuelas, Bajío de Montoro, Buenavista de Peñuelas, Viñedos Cuauhtémoc ó Churubusco, La Esperanza, Interpec San Marcos, Marisol, Cotorina ó Coyotes, Montoro ó Mesa del Salto, Acapulco, Hacienda Los Pavorreales, Cotorina de Altamira, San Carlos, La Florida, Granja Maricela, El Huizachal, Mesa del Salto ó Fracción de Montoro, La Providencia, Rancho La Manga, La Primavera, Rancho El Mitawa, Rancho San Jacinto, San Isidro ó Granja Santa Anita, San Miguel, Santa Elena ó Tres Pelonas, Santa Inés, Santa Teresa, Tanque de la Cruz, Las Trojes, Villa Su, Ex-Hacienda de Peñuelas, Coyotillos, El Esfuerzo, Llanos de San Antonio, Las Granjas ó Santa Elena, Los Jazmines, Localidades Sin Nombre, La Rinconada, Rancho La Loma, Rancho San Martín, Bellavista, Colonia Salto de Montoro, Ejido Peñuelas, Granja El Huizache, Rancho La Primavera, San José, Granja Marisela y Rancho La Gaviota.
+I. Administración Pública Municipal: El conjunto de instituciones gubernamentales que aplican políticas, normas, técnicas, sistemas y procedimientos, a través de los cuales se prestan servicios que demanda la sociedad, en cumplimiento de las atribuciones que las Constituciones federal y estatal confieren al Ayuntamiento;
 
-A la Delegación Urbana de Los Pocitos pertenece lo siguiente: Fraccionamiento Trojes de Alonso, Condominio Santa Fe, Centro Comercial Galerías, Condominio Rancho San Antonio, Fraccionamiento La Troje, Condominio Trojes de Cristal, Condominio Trojes del Sol, Fraccionamiento Residencial Calicantos, Fraccionamiento Las Cavas, Colonia Talamantes Ponce, Condominio Las Trojes, Desarrollo Habitacional La Paloma, Baldío Calicantos II, Fraccionamiento Valle del Campanario, Fraccionamiento La Herradura, Asadero Muzquis, Condominio Jardines del Campestre, Fraccionamiento Misión del Campanario, Cerrada La Mezquitera, Cerrada del Valle, Baldío Calicantos I, Condominio Misión de Santiago I, Condominio Misión de Santiago II, Valle Real, Cerrada de la Misión, Lomas de Vergeles, Seminario Siervos de María, Fraccionamiento Campestre I Etapa, Los Jarales, Fraccionamiento Trojes de Oriente II, Fraccionamiento Los Vergeles, Arroyo de la Hacienda, Fraccionamiento Valle de las Trojes, Fraccionamiento Villas del Campestre, Baldío Puerto las Hadas, Parque Industrial Tecnopolo, Fraccionamiento Villas de Montenegro, Fraccionamiento Trojes de Oriente I, Valle del Campestre, Fraccionamiento Granjas del Campestre, Fraccionamiento Lomas del Campestre II, Fraccionamiento Villas de San Nicolás, Condominio Puerto Las Hadas, Baldío Cristóbal Colón, Colegio Cristóbal Colón, Fraccionamiento Jardines de la Concepción II, Fraccionamiento Jardines de la Concepción I, Ejido San José de los Pocitos, Fraccionamiento Lomas del Campestre, Fraccionamiento Los Bosques, Condominio Rinconada de los Bosques, Condominio Residencial Campestre Club del Golf Norte y Sur, Residencial Pulgas Pandas, Universidad Autónoma de Aguascalientes, Fraccionamiento Bosques del Prado Norte, Condominio La Plazuela, Bosques del Prado Sur, Colonia Fátima, Desarrollo Especial Condominio Centro Distribuidor de Básico, Centro Comercial Agropecuario, Fraccionamiento Villas de Begoña, Desarrollo Especial Centro Comercial, Condominio Horizontal Villas de San Ángel, Condominio Villas del Vergel, Cerrada San Miguel, Fraccionamiento Palmas del Pedregal, Cerrada Fátima, Colonia San José del Arenal, Colonia Licenciado Francisco Primo Verdad, Fraccionamiento Unión Ganadera, Colonia San José del Arenal II, Fraccionamiento Nueva Rinconada, Fraccionamiento El Plateado, Privada San José, Fraccionamiento El Roble, Fraccionamiento La Grasa, Fraccionamiento Independencia de México, Fraccionamiento La Rinconada, Privada Benjamín Méndez, Condominio Puerta Navarra, Hacienda San José, Rinconada de los Álamos, Cerrada del Campanario, Desarrollo Especial PEMEX, Fraccionamiento Villas de San Francisco, Condominio La Fundición, Fraccionamiento Las Arboledas, Plaza Comercial El Campanario, Fraccionamiento San Cayetano, Fraccionamiento La Fundición, Fraccionamiento Villas de la Universidad, Fraccionamiento Los Sauces, Fraccionamiento Las Brisas, Baldío Línea de Fuego, Fraccionamiento Línea de Fuego, Fraccionamiento Colinas de San Ignacio, Fraccionamiento La Perla, Fraccionamiento Colinas del Río, Colonia Olivares Santana, Condominio del Bosque, Fraccionamiento Ramón Romo Franco, Ejido San Ignacio, Baldío SEDENA, Fraccionamiento Panorama, Fraccionamiento Colinas del Poniente, Desarrollo Especial Jardines Eternos, Fraccionamiento La Concordia, Desarrollo Especial Guadalupe, Colonia Curtidores, Fraccionamiento Valle del Río San Pedro, Fraccionamiento Moderno, Fraccionamiento La Soledad, Colonia San Marcos, Fraccionamiento Puesta del Sol, Cerrada San Antonio, Fraccionamiento San Marcos, Fraccionamiento Residencial del Valle I, Fraccionamiento Residencial del Valle II, Instituto Tecnológico de Monterrey Campus Aguascalientes, Fraccionamiento Palma Real, San Miguel, San Juan I ó Granja San Juan, San Felipe ó Viñedos San Felipe, San Ignacio, La Mascota, Los Lirios, Bodegas Brande Vin, Hacienda Nueva, Rancho Don Abraham, Las Palomas, La Puerta ó Granjas Cariñán, El Rodeo, Granja San Antonio, El Vacilón, La Victoria, Agua Azul, El Cariñán, Granja El Carmen, Viñedos Aguascalientes, El Bramadero, El Gavilán, Rancho Galván, Playas de Guadalupe, La Perla, Granja Santa Teresa, La Trinidad, Granja Puente, Casas Blancas, Centro de Estudios Diferenciados, La Esperanza, El Changay, Granja La Providencia, Granja María Luisa, Granja San Francisco, Granja El Valle, Los Membrillos, Ojo de Agua, Granja Los Olivos, Pocitos, Rancho La Estrella, Viñedos San Felipe 2da. Sección, San Judas, Sandovales de Abajo, Sandovales de Arriba, El Suspiro, Granja El Porvenir, Granja 5ta. Yola, El Vergel ó El Paraíso, El Álamo, Césped San Ignacio, Ejido Los Negritos, Ejido San Ignacio, Entrada a la Biznaga ó Las Lumbreras, Ex-Hacienda de San Ignacio, Frutas Concentradas S.A. de C.V., El Filso, Granja Brenda, Granja Chely, Granja Delia, Granja Duarte, Granja Guadalupe, Granja Laura Elena, Granja Lety, Granja Lupita, Granja Mariana, Granja San Antonio, Granja Santa Elena, Granja Vejarano, Los Jiménez, K-10, Localidades Sin Nombre, Colonia La Perla, Las Moras, Playas de Guadalupe, La Providencia ó Granja Mary Chuy, Rancho Doña María, Rancho San Martín, San Cristóbal, San José del Refugio, Santa Rita, Granja El Puente, El Sauz de los García, El Socorro, El Tanque, Tanque Los Carrizos, Rancho San José, Granja Los Pavos, Granja San Antonio, Arizona Ranch, San José de los Pocitos, Granja Marcela, Centro de Reeducación para Menores, Granja La Primavera, Granja Las Playas, Granja Lucy, Localidad Sin Nombre ó El Pozo, Rancho de Califas, Rancho Margaritas, San Ignacio II, Pocitos III y Loma Pocitos ó El Montecito.
+II. Autoridades fiscales: Aquellas a las que se refiere el artículo 14 de este Código;
 
-A la Delegación Urbana José María Morelos y Pavón pertenece lo siguiente: Desarrollo Especial Tecnológico de Aguascalientes, INFONAVIT Los Volcanes, Desarrollo Especial Obras Públicas del Estado, Fraccionamiento Bona Gens, Parque Ecológico El Cedazo, Fraccionamiento Ojocaliente Las Torres, FOVISSSTE Ojocaliente I, Conjunto Habitacional Villas de Ojocaliente, FOVISSSTE Ojocaliente II, Fraccionamiento Gómez Portugal, Desarrollo Especial Parque Municipal, Condominio Horizontal Plaza de Abastos El Cerrito, Conjunto Habitacional La Fuente, Fraccionamiento Primo Verdad INEGI, Ejido Salto de Ojocaliente, Condominio S.T.E.M.A., Fraccionamiento Jardines de la Convención, Baldío Ojo de Agua, Fraccionamiento El Cedazo, INFONAVIT Morelos, Fraccionamiento Solidaridad II, Colonia Ojo de Agua, Fraccionamiento Vista del Sol III, Fraccionamiento Bajío de las Palmas, Fraccionamiento Jardines de Aguascalientes, Condominio San José, Fraccionamiento Misión de Santa Fe, FOVISSSTE Ojo de Agua, Fraccionamiento Jardines de la Luz, Fraccionamiento Jardines de la Asunción, Fraccionamiento Agua Clara, Fraccionamiento Villa Las Palmas 2a. Sección, INFONAVIT Ojo de Agua, Fraccionamiento Balcones de Ojocaliente, Fraccionamiento Fuentes de la Asunción, Fraccionamiento Vista del Sol II, Colonia La Cruz, Fraccionamiento Jardines del Sol, Fraccionamiento San Jorge, Fraccionamiento Vista del Sol I, Baldío Solidaridad, Fraccionamiento Lomas del Chapulín, Fraccionamiento Solidaridad III, Fraccionamiento Cielo Claro, Asentamiento Irregular Lomas del Gachupín, Fraccionamiento La Lomita, Fraccionamiento México, Ojo de Agua de Palmitas, Fraccionamiento Jardines de las Fuentes, Fraccionamiento Tierra Buena, Fraccionamiento Villa Las Palmas, Residencial Asturias, Condominio La Terraza, Fraccionamiento Morelos I, Fraccionamiento Casablanca, Desarrollo Especial lNEGI, Fraccionamiento Jardines de las Bugambilias, Fraccionamiento Cima del Chapulín, Desarrollo Especial Quinta Real, Condominio Valle del Cedazo, Jardines de Casa Nueva, Condominio Residencial del Parque, Desarrollo Especial, Centro de Barrio Morelos, Desarrollo Especial Parque Rodolfo Landeros Gallegos, Fraccionamiento Pirámides, Fraccionamiento Emiliano Zapata, Fraccionamiento Solidaridad IV, Fraccionamiento Periodistas, Fraccionamiento Rinconada del Parque, Fraccionamiento Jardines del Parque, Fraccionamiento Morelos II, Condominio Residencial del Parque, Fraccionamiento Jardines de Casablanca, Fraccionamiento Lomas de San Jorge, Fraccionamiento Fundadores, Fraccionamiento Misión de Santa Lucía, Lomas del Mirador III, Lomas del Mirador II, Fraccionamiento Lomas del Mirador, Fraccionamiento Mujeres Ilustres, Condominio Mujeres Divinas, Lomas del Mirador IV, Fraccionamiento Lomas del Ajedrez, Fraccionamiento Ciudad Industrial, INFONAVIT Lomas del Ajedrez, Fraccionamiento Lomas de Vistabella, Fraccionamiento Lomas de Vistabella Segunda Sección, Fraccionamiento Lomas Altas, Fraccionamiento Rústicos Calpulli, Condominio Villas de Bonaterra, Fraccionamiento San Francisco de Los Arteaga ó Villa Sur, Fraccionamiento San Sebastián, Nissan, Ejido Los Arellano, Fraccionamiento Ladrillera Los Arellano, Fraccionamiento Parque Industrial Altec, Fraccionamiento Lomas de Nueva York, Fraccionamiento Vista Alegre, Condominio Lomas del Sur, Fraccionamiento Residencial San Javier, Condominio Villa Sur, Los Dolores, Los Mirasoles, Cobos, El Malacate, Lomas del Gachupín, Arellano, Arroyo Hondo, Asturias, Rancho Los Pargas, Loma Blanca. La Media Luna, Ojo de Agua de Palmitas, Paso Hondo, El Mosco, Rancho Las Mercedes, Santa Clara, Rancho Esperanza, Vista Alegre, Granja Elsa, Los Amarraderos, El Bambú, Rancho Benjamín Chávez Ruiz, Ojo de Agua de Palmitas ó Las Crucitas, Las 2 Peñas Meyeras, El Gavilán, Granja Kova, Lomas de Arellano, Lotes de Arellano, La Palanca, El Pirul, El Relicario, Rancho San Felipe, San José, San Martín, Las Violetas, Los Guerrero, 3 Elenas, Lomas de Nueva York, La Calandria, El Cisne, El Relicario, El Dominado ó El Relicario, Emiliano Zapata, Villa Paraíso, Estación de Arellano, El Nutridor, Granja Paula Cecilia, Rancho Refugio de las Cotorinas, Localidades Sin Nombre, Lomas San Judas Tadeo, Rancho Alegre No. 15, Rancho Altavista, Rancho El Gigante, Rancho El Refugio No. 2, Rancho La Palma, El Rodeo y Santa Teresa.
+III. Ayuntamiento: El órgano de gobierno y administración, integrado por el Presidente Municipal, Síndico y Regidores, elegidos en términos de la legislación aplicable.
 
-A la Delegación Urbana Lic. Jesús Terán Peredo pertenece lo siguiente: Fraccionamiento Villa de Nuestra Señora de la Asunción Sector Estación, Fraccionamiento San José de Pozo Bravo, Fraccionamiento Constitución, Fraccionamiento Soberana Convención Revolucionaria, Fraccionamiento Villa de Nuestra Señora de la Asunción Sector Alameda, Arroyo El Molino, Fraccionamiento Villa de Nuestra Señora de la Asunción Sector Guadalupe, Club Futurama, Fraccionamiento Villa de Nuestra Señora de la Asunción Sector San Marcos, Fraccionamiento Conjunto Los Naranjos, Fraccionamiento Villas de la Convención, Fraccionamiento Libertad, Fraccionamiento Villa de Nuestra Señora de la Asunción Sector Encino, Fraccionamiento Pozo Bravo Norte, Fraccionamiento Rinconada Pozo Bravo, Fraccionamiento Pozo Bravo Sur, Baldío Cumbres, Fraccionamiento El Rosedal, Fraccionamiento Lomas de la Asunción, Baldío Cumbres, Fraccionamiento Pozo Bravo, Fraccionamiento Pintores Mexicanos, Fraccionamiento Villa Teresa, Claustros Loma Dorada, Desarrollo Especial Parque Ecológico México, Baldío Cumbres, Baldío Cumbres II, Fraccionamiento Licenciado Benito Palomino Dena, Fraccionamiento Cerro Alto, Fraccionamiento Lomas de Oriente I, Fraccionamiento Villa de la Loma, Fraccionamiento Pensadores Mexicanos, Fraccionamiento Parras, Desarrollo Especial El Cóbano, Fraccionamiento Mirador de las Culturas, Fraccionamiento Bosques del Prado Oriente, Ejido Las Cumbres, Desarrollo Especial El Cóbano, Fraccionamiento Las Cumbres, Fraccionamiento Las Hadas, Presa Santa Elena, Fraccionamiento Alianza Ferrocarrilera, Fraccionamiento Trojes del Cóbano, Fraccionamiento Los Arcos, Fraccionamiento Villas del Cóbano, Colonia Macías Arellano, Asentamiento Irregular Los Pericos, Condominio Andrea, Colonia Refugio Esparza Reyes, Fraccionamiento Luis Ortega Douglas, Colonia Progreso, Fraccionamiento El Cóbano, Fraccionamiento Lomas de Santa Anita IV Sección, Fraccionamiento Nazario Ortiz Garza, Condominio Misión del Cóbano, Fraccionamiento Los Laureles II, Fraccionamiento Hacienda El Cóbano, Fraccionamiento Villa Bonita, Fraccionamiento Los Laureles III, Fraccionamiento Los Laureles, Fraccionamiento La Estrella, Fraccionamiento Rodolfo Landeros Gallegos, Fraccionamiento El Maguey, Fraccionamiento C.N.O.P. Oriente, Fraccionamiento Lomas del Cóbano, Fraccionamiento Industrial, Condominio Recinto Colonial Los Arcos, XIV Zona Militar, Colinas de Oriente, Condominio Valle del Norte, Condominio Valle Esmeralda, Colonia Morelos, Fraccionamiento C.T.M., Unidad Habitacional Benito Juárez, Fraccionamiento Santa Anita I Sección, Fraccionamiento S.T.E.M.A., Fraccionamiento Vista de las Cumbres, Fraccionamiento Municipio Libre, Colonia El Riego, Fraccionamiento Lomas de Santa Anita, Fraccionamiento Santa Anita II Sección, Fraccionamiento Real de Haciendas, Fraccionamiento Haciendas de Aguascalientes, Unidad Habitacional Fidel Velázquez, Condominio Rinconada de la Alameda, Fraccionamiento Ojocaliente I, Desarrollo Especial Parque La Pona, Desarrollo Especial Ojocaliente, Fraccionamiento José Guadalupe Posada, Ejido Ojocaliente, Fraccionamiento Villerías, Vistas de Oriente, Parque IV Centenario, Fraccionamiento Ojocaliente III, Condominio Misión Alameda, Ex-Hacienda Ojocaliente, Ejido El Rocío, Condominio de la Alameda, Condominio La Mancha, Condominio La Hacienda, Multifamiliar Ojocaliente INEGI, Fraccionamiento Ojocaliente II, Fraccionamiento José Guadalupe Peralta Gámez, Fraccionamiento Solidaridad I, Condominio Las Plazas, Fraccionamiento Valle de los Cactus, Norias de Ojocaliente, El Colorado ó El Soyatal, El Conejal, El Trigo ó Tanque El Trigo, La Herrada, Comunidad El Rocío, Norias del Paso Hondo, El Hotelito, San José, Pozo Bravo, Hormiguero, El Socorro, Interpec San Marcos, El Crucero de Calvillito, La Laguna de los Adobes, Rancho Los Boyuyos, El Riego, La Torre, Ampliación de Calvillito, Bajío de los Carreones, Cumbres III, Rancho El Progreso, Rancho La Soledad, Ampliación del Ejido El Puertecito, Ejido El Puertecito ó La Higuerilla, Colonia El Riego, Fraccionamiento Guadalupe Posada, Loma Alta El Paraíso, El Polvorín ó Mirador TV Azteca, Pozo El Trigo, Rancho Santa Fe y Granja Francis.
+IV. Cabildo: La forma de reunión del Ayuntamiento y del Secretario que da fe, donde se resuelven, de manera colegiada, los asuntos relativos al ejercicio de sus atribuciones de gobierno, políticas y administrativas;
 
-A la Delegación Urbana Insurgentes pertenece lo siguiente: Fraccionamiento El Edén, Desarrollo Especial Sidas, Fraccionamiento Parque Industrial El Vergel, Fraccionamiento La Barranca de Guadalupe, Col. Francisco Villa, Fraccionamiento Residencial Los Pirules, Desarrollo Especial Villasunción I, Fraccionamiento Hermanos Carreño, Fraccionamiento Las Torres, Condominio Los Eucaliptos II, INFONAVIT Los Pirules, Condominio Los Eucaliptos I, Santa Imelda, Fraccionamiento España, Fraccionamiento Jardines de Santa Elena, Fraccionamiento Jardines del Lago, Fraccionamiento Montebello, Fraccionamiento Valle Dorado, Canteras de San Agustín, Fraccionamiento Agricultura, Fraccionamiento El Dorado I Sección Fraccionamiento El Dorado II Sección, Fraccionamiento Canteras de San Javier, Fraccionamiento Villa Jardín I, Fraccionamiento Canteras de San José, Fraccionamiento Villa Jardín II, Fraccionamiento Jardines del Sur, Fraccionamiento Versalles I Sección, Boulevares I Sección, Fraccionamiento Trojes de San Agustín, Fraccionamiento Prados del Sur, Boulevares II Sección, Fraccionamiento José López Portillo, Fraccionamiento Versalles II Sección, Fraccionamiento Villas de la Cantera, Fraccionamiento Educación Álamos, Colonia Nueva España, Fraccionamiento Loma Bonita, Colonia Martínez Domínguez, Fraccionamiento Insurgentes, INFONAVIT Pilar Blanco, Condominio San Nicolás, Centro Comercial Villasunción, Fraccionamiento Licenciado Manuel Gómez Morín, Fraccionamiento Prados de Villasunción, Villasunción II, Colonia Vicente Guerrero, Fraccionamiento Ex-Hacienda La Cantera, Fraccionamiento Trojes del Sur, Fraccionamiento José Vasconcelos Calderón, Fraccionamiento Villas del Pilar, Fraccionamiento Villas del Mediterráneo, Unidad Habitacional Potreros del Oeste, Baldío Vicente Guerrero, Fraccionamiento Villas de San Antonio, Desarrollo Especial Centro de Abastos, Colonia San Pedro, Fraccionamiento Vistas del Sur, Fraccionamiento Villas del Oeste, Veteranos de la Revolución, Desarrollo Especial Granja San Juan, Fraccionamiento Villa de Santa Rosa, Fraccionamiento La Estancia, Fraccionamiento Torres de San Francisco, Fraccionamiento Rinconada del Sur, Rancho Santa Mónica, Fraccionamiento Casa Sólida, Condominio Centro de Abastos, Asentamiento Irregular San Francisco del Arenal II, Colonia San Francisco del Arenal, Parque Industrial Siglo XXI, Condominio Misión Juan Pablo II, Panteón San Francisco, Baldío, Granja San Luis, San Martín ó La Cantera, San Nicolás, Granja Adelita, Los Negritos, Coyotes, Granja San José, San Pascual, Santa Cruz de la Presa, Santa Cruz de la Presa ó La Tlacuacha, Santa Gertrudis, Granja El Edén, El Molino, Montoro, La Loma de los Negritos, Valle Redondo, La Fortuna, La Gloria, Viñedos Santa Mónica, Barandales de San José, El Centavito 2, Ciudad de los Niños, Cuernavaca, La Cueva de los Pericos ó Caitaime, Ex-Hacienda de Montoro, El Gigante ó Arellano, Rancho San Felipe, La Josefina, El Latifundio, El Lucero de la Cruz, Lomas del Picacho, El Potrerito, San Gerardo, San José del Portugal, San Francisco del Arenal, Vista Alegre II, Rancho San Pascual, Las Víboras, Los Barroso, San José de Buenavista, La Cotorra, Las Aguilillas, Delipollo Granja Calvillo, Centro de Neuropsiquiatría, La Florida, La Fortuna ó La Herradura, Granja La Luz, Las Isabeles, Marlborito, El Mirador, Nochtli, Presa Nueva, Rancho El Carmen, Rancho La Luz, San José del Río, San Andrés, San Nicolás de la Cantera, El Carmen, San Agustín, El Varal, El Columpio, Derivados de Fruta S.A. de C.V., Viñedos El Tajo, Viñedos San Francisco ó Las Cochineras, San Pablo ó Viñedos Santa Mónica, Granja Claudia, San José de Buenavista, El Carmen, San Juan del Río, Santa María, San Alonso ó Viñedos Santa Mónica, San Martín ó El Zorrillo, La Nueva Teresa, Aceros San Luis, Buenavista, Viñedos Aguascalientes ó Césped Ornamental, Club de Golf Picacho, Los Corales, Los Coyotes, Granja Gemelas, Granja San José, Huerta Marcela, Colonia Veteranos de la Revolución, La Lobera, Localidades Sin Nombre, La Manga del Toro, María Auxiliadora, Minerales Ganaderos, El Plan del Jaral, Potrero del Molino, La Providencia, El Rebozo, San Antonio, San Francisco, San Gabriel, Santa Isabel ó El Tajito, Termo Refrigerados de Aguascalientes, Urbacon, Viñedos El Quelite, El Potrero, Productora de Semillas y Cereales, Viñedos Valle Redondo, CERESO para Varones y Mujeres, Ejido Los Negritos, Granja El Molino, Hijas del Sagrado Corazón de Jesús, La Puerta al Paraíso, Quinta La Luna, Rancho El Picacho, San Miguelito, Xaropa y San José.
+V. Código de Procedimientos Administrativos: El Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave;
 
-A la Zona Centro pertenece lo siguiente: Fraccionamiento Circunvalación Norte, Colonia Francisco Guel Jiménez, Desarrollo Especial Talleres de Ferrocarril, Colonia Gremial, INFONAVIT Las Viñas, Colonia Industrial, Condominio Rinconada Cristal, Colonia Buenos Aires, Fraccionamiento El Sol, Colonia San Pablo, Colonia Altavista, Colonia Miravalle, Fraccionamiento Primavera, Unidad Habitacional Torres Las Bugambilias, Colonia La Fe, Colonia del Trabajo, Fraccionamiento Zona Centro, Colonia del Carmen, Fraccionamiento Ferronales, Barrio de Guadalupe, Colonia Ferronales, Barrio de la Estación, Barrio de la Purísima, Colonia Heliodoro García, Condominio Guadalupe Posada, Fraccionamiento Gómez, Colonia Héroes, Unidad Habitacional Guadalupe Posada, Barrio de San Marcos, Barrio del Encino, Colonia El Llanito, Fraccionamiento Gámez, Fraccionamiento La Huerta, Colonia San Luis, Fraccionamiento Jardines de la Cruz, Colonia Obraje, Barrio de la Salud, Zona de la Feria, Fraccionamiento Modelo, Condominio Residencial El Encino, Colonia La Luna, Unidad Habitacional Lázaro Cárdenas, Colonia Las Flores, Unidad Habitacional Vivienda Militar, INFONAVIT San Fernando, Fraccionamiento Residencial El Encino, Condominio Virreyes, Unidad Habitacional Vivienda Popular, Fraccionamiento Héroes de Aguascalientes, Fraccionamiento Circunvalación Poniente, Unidad Habitacional IV Centenario, Fraccionamiento Triana, Jardines de Triana, Fraccionamiento SIDUSA, Fraccionamiento Las Fuentes, Fraccionamiento Los Cedros, Fraccionamiento Jesús Terán, Condominio Triana, Colonia Laurel, Fraccionamiento Santa Elena, Fraccionamiento Las Américas, Fraccionamiento Lindavista, Fraccionamiento El Caminero y Fraccionamiento Boulevard.
+VI. Comisión de Hacienda: La Comisión de Hacienda y Patrimonio Municipal del Ayuntamiento;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2012)</small>
+VII. H. Congreso: El H. Congreso del Estado de Veracruz de Ignacio de la Llave;
 
-### CAPITULO II.
+VIII. Contribuyente: Persona física o moral obligada al pago de las contribuciones municipales, al haber actualizado el supuesto previsto por las leyes fiscales;
 
-DE LOS MEXICANOS.
+IX. Dependencias: Los órganos de la Administración Pública Centralizada del Ayuntamiento;
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+X. Entidades: Los organismos públicos descentralizados, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la administración pública paramunicipal;
+
+XI. Erario: Conjunto de recursos monetarios y medios de pago que tiene el Municipio, para el cumplimiento de sus fines;
+
+XII. Fisco: La autoridad fiscal u organismo encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio;
+
+XIII. Gaceta Oficial: El órgano informativo oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave;
+
+XIV. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
+
+XV. Ley de Catastro: La Ley de Catastro del Estado de Veracruz de Ignacio de la Llave;
+
+XVI. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito federal;
+
+XVII. Municipio: El Municipio de Orizaba del Estado de Veracruz de Ignacio de la Llave;
+
+XVIII. Oficina Ejecutora: La oficina de Ejecución Fiscal de la Tesorería o su equivalente, encargada del cobro coactivo de un crédito fiscal;
+
+XIX. Presidente: El Presidente del Ayuntamiento de Orizaba;
+
+XX. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo apruebe y publique, de conformidad por lo establecido en este Código, para conceder derechos o imponer obligaciones a los sujetos pasivos de la relación tributaria;
+
+XXI. Síndico: El Síndico del Ayuntamiento;
+
+XXII. Tesorería: La Tesorería del Ayuntamiento; y
+
+XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento;
+
+XXIV. Sujeto Pasivo: El contribuyente, el responsable solidario o cualquier otra persona física o moral sujeta al pago de las contribuciones establecidas en este Código;
+
+XXV. Vía Pública: Áreas destinadas al tránsito público, vehicular o peatonal, o afectadas por él, que componen la infraestructura vial de la ciudad y que comprende: avenidas, calles, carreras (sic), transversales, diagonales, calzadas, separadores viales, puentes vehiculares y peatonales o cualquier otra combinación de los mismos elementos que puedan extenderse entre una y otra línea de las edificaciones.
+
+###### Artículo 3.
+
+La Hacienda Pública Municipal se formará por los bienes del dominio público y privado, así como por los rendimientos de los bienes que le pertenezcan, de conformidad con la legislación aplicable; así como por las aportaciones voluntarias, los impuestos, derechos, productos, aprovechamientos, participaciones, tasas adicionales establecidas por el H. Congreso sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, las que tengan por base el cambio de valor de los inmuebles y todos los demás ingresos fiscales que aquél establezca a su favor, en términos de las disposiciones legales aplicables.
+
+### CAPÍTULO I. DE LAS LEYES Y AUTORIDADES FISCALES
 
 ###### Art. 5o.
 
@@ -167,11 +203,9 @@ La falta de cumplimiento de dicho contrato, por lo que respecta al trabajador, s
 
 > <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
-###### ARTÍCULO 4°.
+###### Artículo 4.
 
-“Aguascalientes” es el nombre oficial del Municipio conforme a lo preceptuado por el artículo 9° de la Constitución Política del Estado de Aguascalientes.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+Todos los recursos públicos pertenecientes al Municipio ingresarán a la Tesorería, con excepción de los casos expresamente señalados en el presente ordenamiento y demás disposiciones legales aplicables. El Ayuntamiento, previo convenio que al respecto celebre, podrá autorizar a instituciones bancarias, crediticias o comerciales a recibir el pago de las contribuciones y otros ingresos fiscales previstos en este Código.
 
 ###### ARTÍCULO 4°
 
@@ -227,19 +261,15 @@ Cada administración municipal en turno podrá utilizar, de manera alterna al Es
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-###### ARTÍCULO 5°.
+###### Artículo 5.
 
-Las características, uso, difusión, reproducción e interpretación del Escudo de Armas, así como cualquier falta de respeto y/o uso indebido del mismo, quedarán determinados en el Reglamento del Escudo de Armas del Municipio de Aguascalientes.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+La Tesorería ejercerá los recursos públicos de acuerdo con las disposiciones de la Ley Orgánica del Municipio Libre y de este Código y con base en el presupuesto de egresos aprobado por el Cabildo.
 
 ###### ARTÍCULO 5°
 
 BIS.- Queda prohibido el uso y reproducción de blasones heráldicos y sellos distintos al establecido en el presente Código Municipal, así como cualquier supresión y/o añadidura de figuras o elementos heráldicos y/o gráficos que rompan con la estética y armonía del mismo. Asimismo, queda prohibida cualquier alteración morfológica y/o añadidura de palabras distintas a las instituidas como nombre oficial del H. Ayuntamiento.
 
-### CAPITULO III.
-
-DE LOS EXTRANJEROS.
+### CAPÍTULO II. DE LOS INGRESOS
 
 ###### Art. 6o.
 
@@ -277,51 +307,9 @@ Todo hombre tiene derecho para entrar en la República, salir de ella, viajar po
 
 En los Estados Unidos Mexicanos no se concederán títulos de nobleza, ni prerrogativas y honores hereditarios, ni se dará efecto alguno a los otorgados por cualquier otro país.
 
-###### ARTÍCULO 6°.
+###### Artículo 6.
 
-El Municipio de Aguascalientes, para logar (sic) el desarrollo armónico y equilibrado de la vida social entre las personas que habitan o se establecen en el mismo, se propone como fines:
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
-
-I. Garantizar la tranquilidad, seguridad, derechos humanos y bienes de las personas.
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
-
-II. Garantizar la moral, el orden público y el bienestar colectivo sin discriminación por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
-
-III. Prestar adecuadamente los servicios públicos municipales.
-
-IV. Preservar y fomentar la educación y la cultura entre sus habitantes.
-
-V. Promover el desarrollo urbano y la planeación de todos los centros de población del Municipio.
-
-VI. Promover y organizar la participación ciudadana para cumplir con los planes y programas municipales.
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
-
-VII. Proveer los medios para la aplicación y acceso a la justicia en el marco de su competencia.
-
-VIII. Promover el desarrollo económico y el turismo local, para generar más oportunidades de empleo y el progreso del comercio y servicios, a través de la participación social.
-
-IX. Normar directa y libremente las materias de su competencia.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-X. Promover la igualdad sustantiva entre mujeres y hombres mediante el aceleramiento de la igualdad de género, la no discriminación y la no violencia en contra de las mujeres y cualquier persona por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad sexo-genérica, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas;
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
-
-XI. Fomentar la participación ciudadana en la observación, vigilancia y evaluación de la calidad en la gestión pública municipal.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XII. Respetar los derechos humanos previstos en la Constitución Política de los Estados Unidos Mexicanos y en los instrumentos internacionales que México ha suscrito y ratificado.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
-
-Así como Prevenir, investigar y sancionar las violaciones a los derechos humanos en el ámbito de su competencia, de conformidad con la normatividad vigente.
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+Las finanzas públicas municipales estarán apegadas a criterios de racionalidad y de estricta disciplina fiscal, de manera que para cada año el nivel de gasto que se establezca, aprobado por el Cabildo, sea igual o inferior a los ingresos previstos para el mismo ejercicio fiscal. El incumplimiento de lo dispuesto en el párrafo anterior será sancionado por la autoridad competente, en los términos de la Ley Orgánica del Municipio Libre.
 
 ###### ARTÍCULO 6°
 
@@ -373,11 +361,7 @@ II. Sistema Municipal de prevención, atención, sanción y erradicación de la 
 
 En dichos sistemas participaran los entes de la administración pública municipal que se determinen.
 
-### CAPITULO IV.
-
-DE LOS CIUDADANOS MEXICANOS.
-
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1969)</small>
+### CAPÍTULO I. DE LOS SUJETOS
 
 ###### Art. 13.
 
@@ -397,65 +381,49 @@ En los juicios del orden civil, la sentencia definitiva deberá ser conforme a l
 
 No se autoriza la celebración de tratados para la extradición de reos políticos, ni para la de aquellos delincuentes del orden común que hayan tenido en el país donde cometieron el delito, la condición de esclavos; ni de convenios o tratados en virtud de los que se alteren las garantías y derechos establecidos por esta Constitución para el hombre y el ciudadano.
 
-###### ARTÍCULO 7°.
+###### Artículo 7.
 
-Son habitantes del Municipio de Aguascalientes, las personas que residen habitual o transitoriamente dentro de su territorio. Tendrán las prerrogativas, derechos y obligaciones señalados en la Constitución Política del Estado y en la Legislación Municipal.
+El Ayuntamiento, para casos excepcionales, podrá recurrir al endeudamiento directo como fuente de recursos, previa autorización del H. Congreso y en los términos establecidos en el presente Código.
 
-###### ARTÍCULO 8°.
+###### Artículo 8.
 
-Se consideran vecinos del Municipio de Aguascalientes:
+Para los efectos de este Código, los plazos se computarán por días hábiles, excepto los establecidos en los Libros Cuarto y Quinto, así como en disposiciones expresas en contrario.
 
-I.- Las personas nacidas en el Municipio y que radiquen dentro de su territorio.
+###### Artículo 9.
 
-II.- Las personas que tengan más de dos años con domicilio establecido en el Municipio y con residencia efectiva por ese lapso de tiempo.
+Las disposiciones de este Libro regulan las relaciones jurídicas entre las autoridades fiscales, los sujetos pasivos de la relación tributaria y los responsables solidarios de éstos, con motivo del nacimiento, extinción, cumplimiento o incumplimiento de las obligaciones fiscales, así como los procedimientos administrativos correspondientes.
 
-###### ARTÍCULO 9°.
+###### Artículo 10.
 
-La calidad de vecino se pierde por:
+La aplicación de las disposiciones de este Libro corresponde al Ayuntamiento, por conducto de las autoridades fiscales municipales.
 
-I.- Renuncia expresa ante la autoridad municipal.
+# LIBRO SEGUNDO. DE LAS RELACIONES JURÍDICAS TRIBUTARIAS
 
-II.- Desempeñar cargos de elección popular de carácter municipal en otro Municipio distinto al de su vecindad.
+## TÍTULO ÚNICO
 
-III.- Ausencia de más de dos años del territorio municipal.
+###### Artículo 11.
 
-IV.- Ausencia o presunción de muerte legalmente declarada por autoridad judicial.
+Para los efectos de este Código se consideran leyes fiscales municipales:
 
-V.- Pérdida de la nacionalidad mexicana.
+I. El presente Código;
 
-VI.- Manifestación expresa de residir en otro lugar.
+II. El Código Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave;
 
-La declaración de pérdida de vecindad será realizada por el Ayuntamiento.
+III. La Ley de Ingresos del Municipio; y
 
-###### ARTÍCULO 10.
+IV. Los demás ordenamientos de naturaleza fiscal, que aplique el Municipio, por prever disposiciones de su competencia, o las que deba ejercer como consecuencia de la suscripción de convenios. La aplicación de los ordenamientos a que se refiere este artículo corresponde a las autoridades fiscales.
 
-No se perderá la vecindad cuando la persona se traslade a residir a otro lugar para desempeñar una comisión o cargo de carácter oficial no permanente, o con motivo de estudios académicos, científicos o artísticos.
+###### Artículo 12.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+El Ayuntamiento podrá dictar reglas de carácter general, para modificar o adicionar el control y forma de pago, siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de las contribuciones y sus accesorios, infracciones y sanciones, de acuerdo a lo dispuesto en este Código.
 
-Lo cual también resulta aplicable para el caso de las personas que acrediten mediante documento idóneo a juicio dela (sic) autoridad municipal competente que por motivos de violencia de género, temporalmente abandonaron el territorio del municipio.
+Por conducto del Presidente y del Síndico, el Municipio podrá celebrar los convenios de colaboración administrativa a que se refiere el artículo 295 de este Código.
 
-# LIBRO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+###### Artículo 13.
 
-## TITULO PRIMERO.
+Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios, estos se entenderán del primero de enero al treinta y uno de diciembre del año de que se trate.
 
-###### ARTÍCULO 11.
-
-El H. Ayuntamiento del Municipio de Aguascalientes es el órgano colegiado de gobierno de la administración pública municipal, que tiene competencia sobre su territorio, población, organización política y administrativa, en los términos que fijen las leyes respectivas y posee personalidad jurídica y patrimonio propio.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 12.
-
-El Presidente Municipal, Regidores y Síndicos integran el H. Ayuntamiento del Municipio de Aguascalientes, durarán en su encargo tres años, salvo el caso de que uno, varios, o la totalidad de sus integrantes, sean elegidos para un periodo más, entrando en funciones el día señalado en la Ley que en materia municipal expida el Poder Legislativo del Estado y en el Código Electoral del Estado; son los encargados de establecer y definir las acciones, criterios y políticas con que deben manejarse los recursos y servicios del Municipio de Aguascalientes.
-
-###### ARTÍCULO 13.
-
-Corresponde a los integrantes del H. Ayuntamiento, la facultad de supervisar y vigilar preferentemente las dependencias a cargo de las Comisiones, permanentes o especiales que se les asignen, pudiendo en todo momento requerir al titular de aquellas, la información necesaria para el debido cumplimiento de sus funciones.
-
-### CAPITULO I.
-
-DE LA SOBERANIA NACIONAL Y DE LA FORMA DE GOBIERNO.
+### CAPÍTULO II. DEL NACIMIENTO Y EXTINCIÓN DE LAS OBLIGACIONES Y DE LOS CRÉDITOS FISCALES
 
 ###### Art. 16.
 
@@ -501,121 +469,29 @@ Todo mal tratamiento que en la aprehensión o en las prisiones, toda molestia qu
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 1948)</small>
 
-###### ARTÍCULO 14.
+###### Artículo 14.
 
-Son autoridades del Gobierno Municipal, en orden jerárquico, las siguientes:
+En el Municipio son autoridades fiscales:
 
-I. El H. Ayuntamiento.
+I. El Ayuntamiento;
 
-II. El Presidente Municipal.
+II. El Presidente;
 
-III. El Secretario del Ayuntamiento y Director General de Gobierno.
+III. El Tesorero y, en su caso, quien ejerza la función de ejecución fiscal;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2008)</small>
+IV. Los titulares de organismos públicos descentralizados o de empresas de participación municipal, que tengan bajo su responsabilidad la prestación de servicios públicos, cuando realicen funciones de recaudación de ingresos municipales;
 
-IV. Los Secretarios y el Jefe de la Oficina Ejecutiva del Presidente Municipal.
+V. Los demás servidores públicos que auxilien a la Tesorería en el ejercicio de sus atribuciones, a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
 
-V. Los Coordinadores Generales.
+VI. Las que así considera el Código Financiero para el Estado de Veracruz de Ignacio de la Llave, cuando actúen en términos de los convenios que, al efecto, celebren el Gobierno del Estado y el Municipio.
 
-VI. Los Delegados Municipales.
+Las autoridades fiscales ejercerán sus facultades en la forma y los términos señalados en las disposiciones legales y reglamentarias, decretos o acuerdos delegatorios específicos.
 
-VII. Los Comisarios Municipales.
+###### Artículo 15.
 
-###### ARTÍCULO 15.
+Sólo las autoridades fiscales, facultadas al efecto, podrán aplicar el procedimiento administrativo de ejecución, con la finalidad de recuperar créditos fiscales insolutos, de conformidad con el Código de la materia.
 
-Los organismos auxiliares ejercerán las atribuciones que les confieran las autoridades municipales, sus integrantes tendrán cargos honorarios y serán los siguientes:
-
-I. Consejo de la Ciudad.
-
-II. Consejo de Desarrollo Municipal. (CODEMUN).
-
-III. Consejo Municipal de Protección Civil.
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
-
-IV. Comités de Concertación y Participación Social.
-
-V. Comité de Desarrollo Urbano y Rural.
-
-VI. Comité de Planeación para el Desarrollo Municipal (COPLADEMUN).
-
-VII. Comité Técnico de Municipalización y Urbanización.
-
-VIII. Comité de Fallas Geológicas.
-
-IX. Comité de Licitación y Obra Pública.
-
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
-
-X. Consejo de Cultura Física y Deporte del Municipio de Aguascalientes.
-
-XI. Consejo Consultivo para la Cultura y las Artes.
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
-
-XII. Consejo Municipal de Comités de Concertación y Participación Social.
-
-XIII. Comité Municipal de Adquisiciones.
-
-XIV. Comité de Capacitación.
-
-XV. Comité Municipal de Emergencia.
-
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
-
-XVI. Consejo Municipal de Medio Ambiente y Desarrollo Sustentable.
-
-XVII. Consejo Consultivo de Depuración Documental.
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-XVIII. Consejo Municipal de Consulta y Participación Ciudadana.
-
-XIX. Consejo Consultivo del Instituto Municipal de Planeación.
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2009)</small>
-
-XX. Comité de Bienes Inmuebles del Municipio de Aguascalientes.
-
-XXI. Consejo Consultivo de la Academia Taurina.
-
-XXII. Consejo Ciudadano de Transparencia del Municipio de Aguascalientes.
-
-XXIII. Consejos Delegacionales de Desarrollo Comunitario.
-
-XXIV. (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2009)</small>
-
-XXV. Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes.
-
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2014)</small>
-
-XXVI. Consejo Municipal de la Juventud de Aguascalientes.
-
-XXVII. (REFORMADA [N. DE E. DEROGADA], P.O. 16 DE NOVIEMBRE DE 2009)
-
-XXVIII. Comisión de Admisión de Peritos.
-
-XXIX. Consejo que regula la venta de sustancia de efectos psicotrópicos.
-
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
-
-XXX. Comité de Actividades Musicales.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XXXI. Consejo para la Igualdad Sustantiva en Materia Laboral;
-
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
-
-XXXII. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
-
-### CAPITULO II.
-
-DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
-
-> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
+### CAPÍTULO III. DE LA GARANTÍA DE LOS CRÉDITOS FISCALES
 
 ###### Art. 20.
 
@@ -675,105 +551,37 @@ No se considerará como confiscación de bienes la aplicación total o parcial d
 
 Queda también prohibida la pena de muerte por delitos políticos, y en cuanto a los demás, sólo podrá imponerse al traidor a la Patria en guerra extranjera, al parricida, al homicida con alevosía, premeditación o ventaja, al incendiario, al plagiario, al salteador de caminos, al pirata y a los reos de delitos graves del orden militar.
 
-###### ARTÍCULO 16.
+###### Artículo 16.
 
-El Presidente Municipal es el ejecutor de las determinaciones del H. Ayuntamiento y el encargado de realizar la administración del Municipio, con base en los criterios y políticas establecidas por el H. Ayuntamiento, así como las demás atribuciones que le concede la Constitución Política de los Estados Unidos Mexicanos, Los Tratados Internacionales que México sea parte, la Constitución Política del Estado, y la Ley Municipal para el Estado de Aguascalientes que expida el Poder Legislativo del Estado.
+Las disposiciones tributarias que establezcan cargas fiscales y las que señalen excepciones a las mismas, así como las que fijen las infracciones, delitos y sanciones, son de aplicación estricta. Se considera que establecen cargas fiscales las normas que se refieren al sujeto, objeto, base, tasa, cuota o tarifa. La ignorancia de las disposiciones fiscales no excusa de su cumplimiento. A falta de norma fiscal expresa, se aplicará supletoriamente la legislación civil estatal, cuando sus disposiciones no sean contrarias a la naturaleza propia del derecho fiscal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+###### Artículo 17.
 
-ARTÍCULO 16 BIS.- El Presidente Municipal a través de la Unidad Administrativa que éste determine, deberá:
+Los ingresos del Municipio son las percepciones en dinero, especie, crédito, servicios o cualquier otra forma que incremente la Hacienda Municipal y que se destine al gasto público.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+###### Artículo 18.
 
-I. Capacitar al personal de la Secretaría de Seguridad Pública para atender los casos de violencia contra las mujeres.
+La Hacienda Municipal percibirá en cada ejercicio fiscal los ingresos provenientes de:
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+I. La recaudación de contribuciones municipales;
 
-II. Establecer las acciones y medidas que se deberán tomar para la reeducación de los agresores y las agresoras de la violencia familiar, como beneficio y reparación para las personas que sufren violencia;
+II. Los productos y aprovechamientos;
 
-III. Implementar cursos y talleres de prevención y protección contra la violencia de género.
+III. Las transferencias de recursos por concepto de participaciones y aportaciones federales; y
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+IV. Los demás que establezca el presente Código, las leyes aplicables y los convenios celebrados con la Federación, el Estado, otras Entidades Federativas, Municipios y los particulares.
 
-IV. Proporcionar a las víctimas de violencia la asesoría necesaria para conocer su situación jurídica y sus derechos y de ser necesario la psicoterapia que disminuya el impacto de la violencia vivida;
+La Ley de Ingresos estimará, en lo procedente, el monto global de los ingresos que, por cada uno de estos conceptos, obtendrá el Municipio durante el ejercicio fiscal de que se trate.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+###### Artículo 19.
 
-V. Promover la cultura de respeto a los derechos humanos.
+Los ingresos públicos del Municipio se dividen en:
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+I. Ordinarios: Los previstos en la Ley de Ingresos; y
 
-VI. Garantizar la seguridad e integridad física de las personas que viven violencia y que acudan a las autoridades municipales, diseñando para tales efectos las estrategias de proximidad policial que sean necesarias; y
+II. Extraordinarios: Los aprobados por el H. Congreso o los derivados de disposiciones administrativas, para atender erogaciones imprevistas o por derivarse de normas o actos posteriores al inicio de un ejercicio fiscal.
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
-
-VII. Operar la política del municipio en materia de igualdad sustantiva y de violencia de género, así como de no discriminación.
-
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
-
-###### ARTÍCULO 17.
-
-Los Síndicos, por sus funciones se clasifican en Síndico Procurador y Síndico de Hacienda; el primero representa al Municipio legalmente, procura y defiende los intereses municipales; el segundo se encarga de vigilar las finanzas del Municipio, conjuntamente con el Regidor de la Comisión de Hacienda.
-
-Los Síndicos deberán rendir un informe mensual sobre el estado que guardan las áreas a su cargo, los cuales deberán entregarse al Secretario del H. Ayuntamiento a más tardar al inicio de cada sesión ordinaria.
-
-En caso de incumplimiento a lo dispuesto en el párrafo anterior, se sancionará de conformidad con lo dispuesto en el artículo 67 fracción I de este ordenamiento.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
-
-Con el fin de que el Síndico Procurador cumpla con la procuración, defensa, promoción y representación jurídica en los litigios en que el Municipio fuere parte y con el objeto de salvaguardar los intereses municipales, el H. Ayuntamiento, en apego a lo dispuesto por el artículo 36, fracción IX, de la Ley Municipal para el Estado de Aguascalientes, podrá nombrar, a solicitud del Síndico Procurador, a aquellos servidores públicos que le auxilien en dichas funciones. Estos funcionarios deberán enviar un informe mensual sobre los asuntos de su competencia al Secretario del H. Ayuntamiento y Director General de Gobierno.
-
-El nombramiento citado en el párrafo anterior, tendrá los efectos de un poder para pleitos y cobranzas, mismo que, de manera enunciativa y no limitativa, otorgará las siguientes facultades:
-
-I. Para intentar y desistirse de toda clase de procedimientos, incluyendo al Juicio de Amparo.
-
-II. Para transigir.
-
-III. Para comprometer en árbitros.
-
-IV. Para recusar.
-
-V. Para presentar denuncias y querellas en materia penal y para desistirse de ellas, cuando lo permita la Ley, así como otorgar el perdón cuando proceda y (sic) poder judicial cuando lo estime conveniente.
-
-VI. Para coadyuvar con el Ministerio Público y exigir la reparación del daño que corresponda.
-
-VII. Para absolver y articular posiciones.
-
-VIII. Para otorgar nombramientos y la representación social, legal y patronal en asuntos laborales, con toda la amplitud.
-
-Dicho nombramiento tendrá cabal validez ante particulares y ante toda clase de autoridades administrativas o judiciales, inclusive de carácter federal o local y ante las Juntas de Conciliación y Arbitraje, locales o federales y autoridades del trabajo.
-
-###### ARTÍCULO 18.
-
-Los Regidores son los encargados de vigilar el buen funcionamiento de los ramos de la administración pública municipal y la prestación de los servicios públicos, preferentemente conforme a las Comisiones que les sean asignadas, debiendo dar cuenta a éste de las deficiencias detectadas y proponer las medidas adecuadas para corregirlas.
-
-###### ARTÍCULO 19.
-
-El Secretario del H. Ayuntamiento tendrá para la preparación y desarrollo de las Sesiones de Cabildo las siguientes funciones:
-
-I. Emitir los citatorios para la celebración de las Sesiones de Cabildo, convocadas legalmente.
-
-II. Integrar los expedientes de los asuntos a tratar en la sesión con la información que se hubiese recibido hasta veinticuatro horas antes a la integración de los mismos.
-
-III. Notificar en nombre del Presidente Municipal a los Regidores y Síndicos de la celebración de Sesión.
-
-IV. Asistir a las Sesiones de Cabildo, dar fe de lo actuado, levantar las actas correspondientes y certificar el quórum legal de las mismas.
-
-V. Leer el acta de la sesión anterior.
-
-VI. Recabar la votación de los asuntos tratados en las sesiones.
-
-VII. Llevar y conservar el libro de actas con la versión estenográfica de las Sesiones de Cabildo, así como recabar las firmas una vez aprobada el acta de la Sesión anterior de los miembros del Cabildo en el mismo acto de la Sesión.
-
-VIII. Dar seguimiento a los acuerdos turnados e informar al Cabildo de su cumplimiento, así como la integración del Diario de Debates anualmente.
-
-IX. Las demás que le otorgue la Ley que en materia municipal expida el Poder Legislativo del Estado y el presente Código.
-
-### CAPITULO I.
-
-DE LA DIVISION DE PODERES.
-
-> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1951)</small>
+### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
 ###### Art. 23.
 
@@ -787,41 +595,27 @@ Todo acto religioso de culto público, deberá celebrarse precisamente dentro de
 
 > <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
-###### ARTÍCULO 20.
+###### Artículo 20.
 
-El H. Ayuntamiento del Municipio de Aguascalientes, residirá en la ciudad capital.
+Las contribuciones se clasifican en:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2016)</small>
+I. Impuestos: Son las contribuciones establecidas en ley que deben pagar las personas físicas o morales que se encuentren en la situación jurídica o de hecho prevista por la misma, y que sean distintas de las señaladas en las fracciones II y III de este artículo;
 
-###### ARTÍCULO 21.
+II. Derechos: Son las contribuciones establecidas en ley por recibir servicios que prestan las dependencias y entidades de la Administración Pública Municipal, en sus funciones de derecho público, así como por el uso o disfrute de los bienes del dominio público del Municipio, salvo en los casos que dichos bienes o servicios se encuentren concesionados a particulares para su explotación; y
 
-Para la instalación y toma de protesta constitucional del H. Ayuntamiento el Presidente Municipal los Regidores y Síndicos tanto del Ayuntamiento en funciones como del electo, se reunirán dentro de las setenta y dos horas anteriores al inicio del período constitucional, en el lugar y hora que determine el H. Ayuntamiento en funciones, en Sesión Solemne que se desarrollará conforme al siguiente procedimiento:
+III. Contribuciones por mejoras: Son las establecidas en este Código, a cargo de las personas físicas o morales que, con independencia de la utilidad general, obtengan un beneficio diferencial particular derivado de la realización de obras públicas.
 
-I. El Secretario del H. Ayuntamiento dará lectura a la lista de los integrantes del H. Ayuntamiento que hayan resultado electos, y comprobando que se tiene la asistencia que establecen la Constitución Política del Estado de Aguascalientes, la Ley que en materia municipal expida el Poder Legislativo del Estado y el presente Código, dará la palabra al Presidente Municipal electo.
+###### Artículo 21.
 
-II. El Presidente Municipal electo solicitará a los Regidores y Síndicos electos que se pongan de pie, para proceder a rendir la protesta de ley en los siguientes términos: "Yo… protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Presidente Municipal de Aguascalientes, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el pueblo me lo demande".
+Los aprovechamientos son ingresos que percibe el Municipio en sus funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de financiamientos, de las participaciones federales, de las aportaciones federales e ingresos federales coordinados, así como los que obtengan los organismos de la administración pública paramunicipal.
 
-III. Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndicos electos, a quienes los interrogará en la forma siguiente: "Ciudadanos… Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndicos Propietarios del Municipio de Aguascalientes que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio" "Sí Protesto" contestan los Regidores y Síndicos.
+###### Artículo 22.
 
-Dirá entonces el Presidente Municipal: "Si así no lo hicieren que el pueblo se los demande".
+Los productos son contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de sus bienes de dominio privado.
 
-Los Regidores y Síndicos que no hubieren asistido a esta Sesión deberán rendir la protesta en la primera sesión a que convoque el Cabildo.
+También se consideran productos los ingresos provenientes de la venta de primera mano que, por la explotación de sus bienes de dominio privado, haga el Ayuntamiento al realizar actividades agrícolas, ganaderas, pesqueras, silvícolas o cualesquiera otras de naturaleza similar.
 
-IV. Acto continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2016)</small>
-
-El H. Ayuntamiento del Municipio de Aguascalientes, se declara legalmente instalado para el Periodo Constitucional del ... del año ... al ... de ... de ...
-
-V. Por último el Presidente Municipal podrá dar a conocer los lineamientos generales de su Administración Pública Municipal.
-
-###### ARTÍCULO 22.
-
-Al término de la ceremonia de instalación el Presidente Municipal saliente, hará entrega al Ayuntamiento electo, de todos los documentos que contenga el archivo, así como de los muebles, enseres y demás bienes que constituyan el patrimonio y hacienda municipal, en la forma y términos que establece la Ley Municipal para el Estado de Aguascalientes.
-
-### CAPITULO II.
-
-DEL PODER LEGISLATIVO.
+### CAPÍTULO II. DE LAS ATRIBUCIONES DE LAS AUTORIDADES FISCALES MUNICIPALES
 
 ###### Art. 25.
 
@@ -1183,15 +977,9 @@ La ley fijará los casos en que se pierden, y los demás en que se suspenden los
 
 La soberanía nacional reside esencial y originariamente en el pueblo. Todo poder público dimana del pueblo y se instituye para beneficio de éste. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar la forma de su gobierno.
 
-###### ARTÍCULO 23.
+###### Artículo 23.
 
-Se denomina Cabildo al Honorable Ayuntamiento en sesión. Las sesiones serán presididas por el Presidente Municipal. En caso de ausencia de éste, dentro de una sesión, la misma será presidida por el Primer Regidor, en el orden establecido por la constancia de mayoría emitida por el Consejo General del Instituto Estatal Electoral publicada en el Periódico Oficial del Estado de Aguascalientes.
-
-En ausencia del Primer Regidor, la sesión será presidida por el siguiente Regidor que se encuentre presente, en el orden establecido por la constancia de mayoría citada en el párrafo anterior.
-
-Las sesiones de Cabildo constarán en un libro de actas que se levantará llevando el método estenográfico, las cuales conformarán el Diario de Debates, por el periodo de enero a diciembre de cada año.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2008)</small>
+Las participaciones federales son fondos constituidos en beneficio del Municipio, con cargo a recursos que la Federación transfiere al Estado, como consecuencia de su adhesión al Sistema Nacional de Coordinación Fiscal, o en los términos previstos en el artículo 73, fracción XXIX, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 23
 
@@ -1219,137 +1007,233 @@ X. Apoyarse en el Secretario del Honorable Ayuntamiento, para el ejercicio de su
 
 XI. Las demás que le otorgue la Ley que en materia municipal expida el Poder Legislativo del Estado y el presente Código.
 
-###### ARTÍCULO 24.
+###### Artículo 24.
 
-Las Sesiones Ordinarias de Cabildo tendrán la siguiente estructura:
+Las aportaciones federales son ingresos que percibe el Municipio, derivados de los fondos establecidos en el Capítulo V de la Ley de Coordinación Fiscal.
 
-I. Declaratoria de apertura de la Sesión.
+###### Artículo 25.
 
-II. Pase de lista de asistencia y declaratoria de quórum legal.
+Son accesorios de las contribuciones y de los aprovechamientos, los recargos, las sanciones, los gastos de ejecución y la indemnización por devolución de cheques presentados a tiempo y que no sean pagados, y participan de la naturaleza de la suerte principal, cuando se encuentren vinculados directamente a la misma.
 
-III. Lectura y aprobación del orden del día.
+En los demás artículos de este Código en que se haga referencia únicamente a las contribuciones no se entenderán incluidos los accesorios.
 
-IV. Análisis, discusión y en su caso aprobación de los asuntos que fueron notificados y aprobados dentro del orden del día.
+Las contribuciones y los aprovechamientos se regirán por este Código y, supletoriamente, por el derecho común; los demás ingresos se regirán por las leyes y convenios respectivos.
 
-V. Asuntos en cartera.
+###### Artículo 26.
 
-VI. Seguimiento de acuerdos.
+Sólo podrá afectarse un ingreso fiscal a un fin especial, cuando así lo dispongan expresamente este Código y las demás leyes aplicables.
 
-VII. Cuenta de Informes de Comisiones entregados a la Secretaría del H. Ayuntamiento.
+###### Artículo 27.
 
-VIII. Asuntos generales.
+El cobro de las contribuciones, productos o aprovechamientos se realizará en días y horas hábiles, en las oficinas de la Tesorería o en los lugares que ésta designe.
 
-IX. Declaratoria de clausura.
+La ampliación de horarios y autorización de días inhábiles para el pago de dichos ingresos se publicará en la Tabla de Avisos del Ayuntamiento, misma que deberá ubicarse en el recinto oficial de este y, de ser posible, se difundirá a través del medio de comunicación de mayor cobertura en el Municipio.
 
-###### ARTÍCULO 25.
+Si el último día del plazo o fecha determinada fuera inhábil o viernes, o permanecieren cerradas las oficinas recaudadoras durante el horario normal de labores, se prorrogará el plazo para el día hábil siguiente.
 
-Las Sesiones del Cabildo serán: Ordinarias, Ordinarias Abiertas, Extraordinarias, Solemnes y Secretas conforme a la Ley que en materia municipal expida el Poder Legislativo del Estado; todas tendrán el carácter de públicas excepto las que señale el presente Código como Secretas.
+Para los efectos de pago de contribuciones, aprovechamientos, productos o cualquier ingreso en favor del Municipio se considerarán como días inhábiles los sábados, domingos y días festivos señalados por ley. En los plazos establecidos por períodos y aquellos en que se señale una fecha determinada para su extinción se computarán todos sus días.
 
-###### ARTÍCULO 26.
+Cuando las autoridades fiscales habiliten días inhábiles no se alterará el cálculo de los plazos.
 
-Las Sesiones Ordinarias se celebrarán el primer lunes de cada mes, los Regidores y Síndicos deberán ser citados con tres días naturales de anticipación como mínimo, a excepción de las extraordinarias que podrán citarse en cualquier tiempo en razón de la anticipación que el asunto o asuntos a tratar requieran por su importancia o urgencia.
+###### Artículo 28.
 
-Las citaciones a los Regidores y Síndicos a fin de que concurran a cualquier tipo de Sesión serán realizadas por el Presidente Municipal, a través del Secretario del H. Ayuntamiento.
+Las contribuciones se pagarán en la fecha o dentro del plazo señalado en las disposiciones respectivas.
 
-En todos los casos, a fin de estar en la posibilidad de que en la sesión se traten todos y cada uno de los asuntos correspondientes, deberá anexarse al citatorio el orden del día y copias de los dictámenes y proyectos de reglamentos, así como sus respectivos documentos base o soporte, que se presentarán para su discusión y en su caso aprobación.
+Tratándose de contribuciones que se deban pagar mediante retención, aun cuando quien deba efectuarlas no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar al fisco una cantidad equivalente a la que debió retener.
 
-Los Regidores y Síndicos deberán ser citados en el domicilio legal que hayan proporcionado para ello; si no se encontraran presentes en ese domicilio, el citatorio correspondiente se entregará en la oficina que ocupan dentro del Palacio Municipal.
+Quien haga pago de créditos fiscales obtendrá, de la oficina recaudadora, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados por la autoridad fiscal, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora, por toda cantidad que ingrese al erario, cualquiera que sea su naturaleza.
 
-En los casos a que se refiere el párrafo anterior, la persona encargada de entregar el citatorio deberá contar con una copia simple del mismo a manera de acuse de recibo en la cual hará constar la fecha y hora en que se entregó, así como el nombre y firma autógrafa de la persona que recibió el citatorio.
+Tratándose de los pagos efectuados en las oficinas de las instituciones bancarias, crediticias o comerciales, obtendrá la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo correspondiente.
 
-Si fuere el caso, el Secretario certificará, pasados quince minutos de la hora señalada para la Sesión, que no existe el quórum legal para los efectos de suspensión de la misma.
+Cuando las disposiciones tributarias establezcan opciones a los contribuyentes para el cumplimiento de sus obligaciones fiscales o para determinar las contribuciones a su cargo, la opción elegida no podrá variar respecto al mismo ejercicio.
 
-Para que exista quórum legal se requiere la presencia de al menos el cincuenta por ciento más uno de los miembros del H. Ayuntamiento, hecha excepción de las Sesiones Solemnes que se llevarán a cabo con los Regidores y Síndicos que asistan.
+###### Artículo 29.
 
-###### ARTÍCULO 27.
+En los plazos no se computarán los días en que tengan vacaciones generales las autoridades fiscales.
 
-Son Sesiones Ordinarias Abiertas las que se celebrarán en los meses de marzo y agosto, de cada año, con los requisitos y términos del artículo anterior; además se publicará en los periódicos de mayor circulación la invitación a la ciudadanía a fin de que participe activamente en la Sesión, dado que la misma se constituye como audiencia pública ante el Cabildo.
+No son vacaciones generales las que se otorguen en forma escalonada. Lo previsto en el párrafo anterior no será aplicable cuando se trate de plazos para el pago de contribuciones, en cuyo caso esos días se considerarán hábiles, por lo que quedará en funcionamiento una guardia de la oficina recaudadora que para tal efecto se designe.
 
-###### ARTÍCULO 28.
+En los plazos establecidos por períodos se computarán todos los días. Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que, en el primer caso, el plazo concluye el mismo día del mes de calendario de que se trate y, en el segundo, vencerá el mismo día del año que corresponda. En los plazos que se fijen por mes o por año, cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
 
-Se consideran Sesiones Extraordinarias, las que se celebren entre los periodos de las ordinarias; se tratarán exclusivamente él o los asuntos para el que fue convocado el Cabildo, y serán citados por el Presidente Municipal o a petición de uno de los Regidores o Síndicos.
+###### Artículo 30.
 
-###### ARTÍCULO 29.
+Las autoridades fiscales municipales tendrán las atribuciones que establece el Código de Procedimientos Administrativos en materia de:
 
-Serán Sesiones Solemnes aquellas que el Cabildo les dé ese carácter por la importancia que revisten y de acuerdo a la ley que en materia municipal expida el Poder legislativo del Estado. Deberán asistir los integrantes del H. Ayuntamiento, conforme a la reglamentación protocolaria y podrá hacer uso de la palabra un representante del H. Ayuntamiento previo acuerdo del Cabildo.
+I. Requisitos de los actos y procedimientos administrativos;
 
-###### ARTÍCULO 30.
+II. Procedimiento administrativo ordinario;
 
-El miembro del H. Ayuntamiento que no hubiere sido citado a una Sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la Sesión, que se vuelva a discutir en su presencia, él o los acuerdos tomados en su ausencia y el Secretario del H. Ayuntamiento le informará de los acuerdos tomados, debiendo quedar asentado en el acta respectiva su opinión sobre cada uno de los asuntos tratados. En este caso el integrante del Cabildo que se encuentre en dicho supuesto podrá solicitar la revocación del acuerdo en cuestión en términos de lo establecido por este Código Municipal.
+III. Procedimientos administrativos especiales de visitas de verificación, visitas domiciliarias, control de obligaciones y determinación presuntiva;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+IV. Procedimiento administrativo de ejecución; y
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2016)</small>
+V. Recurso de revocación y demás medios de impugnación.
 
-###### ARTÍCULO 31.
+###### Artículo 31.
 
-El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse a más tardar en el mes de septiembre de cada año. El formato así como el orden del día de este tipo de sesiones serán acordadas por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todos los casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia en materia de igualdad sustantiva y de eliminación de la violencia en sus diversos tipos y modalidades.
+Sujeto pasivo es la persona física o moral, mexicana o extranjera que, de acuerdo con las leyes fiscales, está obligada al pago de un crédito fiscal determinado a favor de la Hacienda Municipal.
 
-###### ARTÍCULO 32.
+Es responsable solidario, en una relación jurídico tributaria, toda persona que no interviene directamente en ella, pero que por estar vinculado con el sujeto pasivo asume las obligaciones que le impone la ley.
 
-En Sesiones tales como Ordinarias y Ordinarias Abiertas, podrá el H. Ayuntamiento utilizar la facultad potestativa de oír al auditorio en sus opiniones ya sea sobre el asunto a tratar en el orden del día o sobre algún otro asunto de competencia municipal, previa solicitud que se haga por escrito. Por ningún motivo se permitirá la participación del público sin haberse satisfecho este requisito.
+###### Artículo 32.
 
-###### ARTÍCULO 33.
+Son responsables solidarios con los sujetos pasivos:
 
-los ciudadanos a que se refiere el artículo anterior, deberán hacerlo saber al Secretario del H. Ayuntamiento antes de iniciarse la sesión para su acuerdo, y de haberse aprobado, deberán hablar sobre los temas para los cuales se concede la intervención.
+I. Quienes manifiesten su voluntad de asumir responsabilidad solidaria;
 
-###### ARTÍCULO 34.
+II. Los copropietarios, coposesores o los participantes en derechos mancomunados, respecto de los créditos fiscales, derivados del bien o derecho en común y hasta por el monto del valor de éste. Se exceptúa de esta responsabilidad a los condóminos.
 
-En este tipo de Sesiones el H. Ayuntamiento escuchará la opinión del público que participe en la Sesión y podrá tomarla en cuenta al dictaminar las resoluciones.
+Por el excedente de los créditos fiscales, cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado;
 
-###### ARTÍCULO 35.
+III. Las personas a quienes se imponga la obligación de retener o recaudar créditos fiscales a cargo de contribuyentes, hasta por el monto total de las contribuciones;
 
-En las Sesiones con intervención al público, el Secretario del H. Ayuntamiento con la aprobación del Presidente Municipal, podrá suspender en el uso de la palabra al orador y ordenar desalojar el recinto parcial o totalmente en los siguientes casos:
+IV. Los legatarios, donatarios y herederos a título particular, respecto de los créditos fiscales causados en relación con los bienes o negociaciones que se les hubieren transferido, hasta por el monto de éstos;
 
-I. Cuando la persona en uso de la palabra no aborde el tema que solicitó tratar;
+V. Los terceros que, para garantizar créditos fiscales a cargo de los contribuyentes, constituyan depósito, prenda o hipoteca o permitan el embargo de bienes de su propiedad, hasta por el valor de los otorgados en garantía;
 
-II. Cuando se profieran injurias, palabras obscenas, amenazas o serias acusaciones en contra de personas determinadas;
+VI. Las personas físicas o morales que adquieran bienes o negociaciones que reporten créditos exigibles a favor del erario municipal y que correspondan a períodos anteriores a la fecha de adquisición, hasta por el valor de la negociación;
 
-III. Cuando se trate de exaltar el ánimo del auditorio, para presionar la opinión de los Regidores o Síndicos;
+VII. Los servidores públicos, Notarios, Corredores y demás fedatarios públicos que autoricen algún acto jurídico, expidan testimonios o den trámite a algún documento generador de obligaciones fiscales de pago, si no se cercioran de que se han cubierto los impuestos, derechos y productos respectivos, o no den cumplimiento a las disposiciones correspondientes que regulan el pago de la contribución respectiva;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+VIII. Las instituciones de crédito autorizadas para llevar a cabo operaciones fiduciarias, respecto de los créditos fiscales que se hubieran causado, derivados de la actividad objeto del contrato de fideicomiso, hasta donde alcance el patrimonio fideicometido, así como por los avisos y declaraciones que deban presentar los contribuyentes con quienes operen, en relación con dicho patrimonio;
 
-IV. Cuando en el auditorio se observe alguna falta de respeto para alguno de los miembros del H. Ayuntamiento o para alguno de los Servidores públicos;
+IX. Los representantes de los contribuyentes que, para cubrir créditos fiscales, hayan librado cheques sin tener fondos disponibles o que, teniéndolos, dispongan de ellos antes de que venza el plazo de su presentación;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+X. Los servidores públicos municipales que acepten cheques en pago de créditos fiscales y estos no sean pagados y se encuentren en el supuesto del artículo 43 de este ordenamiento;
 
-V. Cuando se pretenda discutir asuntos de interés particular; y
+XI. La persona o personas que tengan conferida la dirección general, la gerencia general o la administración única, o cualquiera que sea el nombre con que se le designe, de las personas morales, por las contribuciones causadas o no retenidas por las mismas durante su gestión, así como por las que debieron pagarse o enterarse durante ésta, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la persona moral que dirigen.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+Los representantes de personas físicas serán responsables solidarios en los mismos términos a que se refiere esta fracción;
 
-VI. Cuando se proliferen aseveraciones que impliquen sumisión de un género hacia otro o impliquen la realización de roles sexuales tradicionales y discriminatorios.
+XII. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la persona moral, cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, sin que la responsabilidad exceda de la participación que tenían en el capital o patrimonio de la persona moral durante el período o a la fecha de que se trate;
 
-###### ARTÍCULO 36.
+XIII. Los liquidadores o síndicos, por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión;
 
-La Secretaría del H. Ayuntamiento deberá presentar en los meses de junio y diciembre un informe ante el Cabildo acerca de las solicitudes, asuntos dictaminados y asuntos pendientes de resolución clasificados por materia.
+XIV. Los representantes, sea cual fuere el nombre con el que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, hasta por el monto de éstas;
 
-De igual manera, la Contraloría deberá presentar al Cabildo un informe semestral sobre los asuntos de que hubiere tenido conocimiento.
+XV. Quienes ejerzan la patria potestad o tutela, por las contribuciones a cargo de sus representados;
 
-Una vez concluido y antes de su presentación en Sesión Solemne de Cabildo, los integrantes del H. Ayuntamiento deberán conocer por anticipado el contenido del Informe Anual de Gobierno.
+XVI. Los propietarios o poseedores de bienes inmuebles, por el importe de los créditos fiscales a cargo del propietario o poseedor anterior, así como los propietarios de bienes inmuebles que hubieren vendido con reserva de dominio;
 
-###### ARTÍCULO 37.
+XVII. Las personas morales o físicas que administren o sean propietarios de bienes inmuebles afectos al servicio turístico de tiempo compartido;
 
-El Cabildo podrá ordenar la comparecencia de cualquier funcionario de la administración pública municipal, cuando se discuta algún asunto de su competencia, siempre que así lo requiera la mayoría de los integrantes.
+XVIII. El personal de la Tesorería que formule constancias de no adeudo con datos falsos;
 
-Dichos servidores públicos rendirán los informes solicitados y se les podrá conceder el uso de la palabra para las aclaraciones correspondientes del caso cuando así lo amerite.
+XIX. Las instituciones bancarias que, sin culpa del librador, no cubran el importe de un cheque girado a favor del fisco municipal, hasta por el importe del cheque con sus accesorios; y
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+XX. Las demás personas que señalen las leyes fiscales. La responsabilidad solidaria comprenderá la totalidad de los créditos fiscales, con excepción de las multas, por tanto, el fisco podrá exigir de cualquiera de ellos, simultánea o separadamente, el cumplimiento de las obligaciones fiscales. Lo dispuesto en este párrafo no impedirá que los responsables solidarios sean sancionados por actos u omisiones propios.
 
-###### ARTÍCULO 38.
+###### Artículo 33.
 
-El Secretario del H. Ayuntamiento deberá estar presente durante la celebración de las Sesiones de Cabildo, para dar fe y refrendar los acuerdos tomados en las mismas, pudiendo expedir certificaciones de los acuerdos asentados en el libro de actas. Las faltas temporales del Secretario del H. Ayuntamiento serán suplidas por el Director de Asuntos Jurídicos del H. Ayuntamiento.
+Para efectos fiscales se considera domicilio fiscal:
 
-###### ARTÍCULO 39.
+I. Tratándose de personas físicas:
 
-Las Sesiones se celebrarán en el Salón de Cabildo del Palacio Municipal, pudiendo efectuarse en lugar distinto, siempre que se declare, previamente, recinto oficial por el Cabildo.
+a) El que declaren a la autoridad fiscal.
 
-###### ARTÍCULO 40.
+b) El lugar en que se realicen los actos o actividades gravadas o se generen obligaciones fiscales.
 
-Es obligación de los integrantes del H. Ayuntamiento, concurrir (sic) las Sesiones de Cabildo a que sean convocados. El Regidor o Síndico que falte sin causa justificada a cinco Sesiones será sancionado de acuerdo a lo que señala la Ley que en materia municipal expida el Poder Legislativo del Estado y el presente Código.
+c) Cuando realicen actividades comerciales, industriales, de prestación de servicios, agrícolas, ganaderas o silvícolas, el local en que se encuentre el principal asiento de sus negocios o aquel que hubiesen señalado en el padrón municipal de contribuyentes que les corresponda.
 
-### CAPITULO III.
+d) Cuando presten servicios personales independientes, el local que utilicen como base fija para el desempeño de sus actividades.
 
-DEL PODER EJECUTIVO.
+e) A falta de domicilio en los términos indicados en los incisos anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal o, en su defecto, la casa en que habiten los contribuyentes o sus responsables solidarios, o en el lugar en el que se encuentren.
+
+II. Tratándose de personas morales:
+
+a) El manifestado a la autoridad fiscal.
+
+b) El lugar en que esté ubicado el negocio o donde se encuentre establecida la administración del mismo.
+
+c) Si existen varios establecimientos, aquel en donde se encuentre la administración principal del negocio.
+
+d) A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
+
+III. Tratándose de personas físicas o morales residentes fuera del territorio del Municipio y que realicen actividades gravadas en el mismo, el de su representante, y a falta de éste, el lugar en que se haya realizado el hecho generador de la obligación fiscal; y
+
+IV. Tratándose de personas físicas o morales sujetas al pago de contribuciones sobre la propiedad inmobiliaria y sólo en caso de que no señalen su domicilio fiscal, se considerará como tal el de la ubicación del inmueble que origine la obligación fiscal.
+
+Las personas domiciliadas fuera del Municipio, que generen créditos fiscales a favor del Erario Municipal, cumplirán con las obligaciones establecidas en las leyes fiscales municipales.
+
+Se considerará que hay cambio de domicilio fiscal, cuando el contribuyente lo establezca en lugar distinto al que se tiene manifestado o cuando deba considerarse un nuevo domicilio en los términos de este Código; en todo caso, el contribuyente tendrá la obligación de comunicar por escrito a la autoridad fiscal su nuevo domicilio, de no ser así y con independencia de las sanciones a que se hiciere acreedor, la autoridad fiscal podrá válidamente efectuar la notificación en el domicilio en que tenga su negociación.
+
+El aviso de cambio de domicilio fiscal se presentará a la Tesorería dentro de los treinta días siguientes al en que tenga lugar la situación jurídica o de hecho que corresponda.
+
+En caso de cambio de nomenclatura o numeración oficial, la autoridad fiscal actualizará los datos correspondientes, sin que el contribuyente deba presentar el aviso de cambio de domicilio fiscal.
+
+###### Artículo 34.
+
+La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes durante el lapso en que ocurran.
+
+Las contribuciones se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su causación, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
+
+###### Artículo 35.
+
+La determinación de los créditos fiscales corresponde a los sujetos pasivos, salvo disposición expresa en contrario.
+
+Cuando las leyes establezcan que la determinación deba ser hecha por la autoridad fiscal, los sujetos pasivos informarán a ésta de la realización de los hechos que hubieren dado nacimiento a la obligación fiscal y los que sean pertinentes para la liquidación del crédito en los términos que establezca este Código y, en su defecto, por escrito, dentro de los quince días siguientes al nacimiento de la obligación fiscal.
+
+Los responsables solidarios proporcionarán, a solicitud de las autoridades, la información que tengan a su disposición.
+
+###### Artículo 36.
+
+Son créditos fiscales los que tenga derecho a percibir el Municipio o sus entidades, que deriven de contribuciones, aprovechamientos, accesorios y de responsabilidades administrativas, así como aquellos a los que las leyes les den ese carácter.
+
+A falta de señalamiento expreso, el pago se hará:
+
+I. Si es a los sujetos pasivos o responsables solidarios a quienes corresponde determinar en cantidad líquida la prestación, dentro de los quince días siguientes a la fecha del nacimiento de la obligación fiscal;
+
+II. Si es a las autoridades a las que corresponde formular la liquidación, dentro de los quince días siguientes a la fecha en que haya surtido efecto la notificación de la misma;
+
+III. Si se trata de obligaciones derivadas de contratos o concesiones que no señalen fecha de pago, éste se hará dentro de los quince días siguientes a la fecha de su celebración u otorgamiento;
+
+IV. Si el crédito se determina mediante un convenio, en la fecha que éste señale; y
+
+V. Tratándose de actos de fiscalización, dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la liquidación correspondiente.
+
+###### Artículo 37.
+
+El pago de los créditos fiscales y cualquier ingreso en favor del Municipio se hará en efectivo con moneda de curso legal, salvo los casos que este Código autorice que se efectúen en especie.
+
+Los giros postales, telegráficos o bancarios y los cheques de cuenta personal del contribuyente se admitirán salvo buen cobro. El pago también podrá efectuarse por medio de cheques certificados o cheques de caja; tratándose de cheques no certificados de cuentas personales, de pago con tarjetas de crédito, tarjetas de débito y de transferencias de fondos de cuentas bancarias de los contribuyentes, únicamente se aceptarán cuando lo autorice la Tesorería. Queda prohibido a la Autoridad Fiscal recibir en pago cheques postdatados.
+
+La Tesorería podrá autorizar expresamente la aceptación de otros instrumentos de pago.
+
+###### Artículo 38.
+
+Para determinar las contribuciones se considerarán las fracciones del peso; para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad del peso inmediata inferior, y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad del peso inmediata superior.
+
+Para los efectos de este Código, se entenderá por salario mínimo el establecido como tal para el Municipio en las disposiciones legales respectivas de orden federal.
+
+Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, y los mismos se fijen en salarios mínimos, el cobro se realizará conforme al vigente al momento de su incumplimiento.
+
+###### Artículo 39.
+
+La falta de pago de un crédito fiscal en la fecha o dentro del plazo establecido en las disposiciones respectivas determina que el crédito sea exigible.
+
+Las contribuciones o aprovechamientos cuyo pago se haya omitido y que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como de los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los quince días siguientes a aquél en que haya surtido efectos su notificación.
+
+###### Artículo 40.
+
+Los adeudos por contribuciones o accesorios podrán pagarse a plazos, en una sola exhibición o en parcialidades, previa autorización del Tesorero, a solicitud por escrito de los obligados. El plazo que al efecto se autorice no será mayor a doce meses el cual solo podrá ser ampliado por otros doce meses más a juicio del Tesorero.
+
+La solicitud de pago en parcialidades sólo podrá referirse a adeudos de contribuciones o accesorios de ejercicios fiscales anteriores al de la solicitud.
+
+La primera parcialidad a pagar será el resultado de dividir el saldo del adeudo inicial a la fecha de la autorización, entre el número de parcialidades solicitadas.
+
+El saldo del adeudo inicial a la fecha de autorización se integrará por la suma de:
+
+a) El monto de las contribuciones omitidas;
+
+b) Las multas; y
+
+c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente.
+
+Durante los plazos concedidos se causarán recargos por prórroga sobre el saldo insoluto, incluyendo los accesorios a la tasa que fije anualmente la Ley de Ingresos del Municipio.
+
+El Tesorero, al autorizar el pago a plazos, ya sea en una sola exhibición o en parcialidades, exigirá que se garantice el interés fiscal dentro de los quince días siguientes a la fecha en que se hubiere notificado la autorización.
+
+### CAPÍTULO I. DE LAS INFRACCIONES
 
 ###### Art. 40.
 
@@ -1407,37 +1291,89 @@ El Distrito Federal se compondrá del territorio que actualmente tiene, y en el 
 
 > <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
-###### Art. 45.
+###### Artículo 41.
 
-Los Estados de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos.
+Cesará la prórroga o la autorización para pagar a plazos y el crédito fiscal será inmediatamente exigible cuando el deudor:
 
-###### Art. 46.
+I. No otorgue en el plazo establecido en este Código, desaparezca o resulte insuficiente la garantía del interés fiscal;
 
-Los Estados que tuviesen pendientes cuestiones de límites, las arreglarán o solucionarán en los términos que establece esta Constitución.
+II. Sea declarado en quiebra o solicite su liquidación judicial;
 
-###### ARTÍCULO 41.
+III. Deje de cubrir tres parcialidades sucesivas; o
 
-El Presidente Municipal presidirá y dirigirá los debates, en los que podrán participar todos los integrantes del Cabildo, en el orden en que soliciten hacer uso de la palabra. Los Regidores y Síndicos que hagan uso de la palabra tendrán absoluta libertad para expresar sus ideas.
+IV. Cambie de domicilio sin dar aviso de dicho cambio a la autoridad fiscal, dentro del plazo de treinta días.
 
-###### ARTÍCULO 42.
+Los contribuyentes que se encuentren en cualquiera de los supuestos mencionados no podrán solicitar nuevamente autorización por los mismos conceptos que fueron objeto del cese de prórroga.
 
-El Presidente Municipal, los Regidores y Síndicos, podrán proponer, opinar, informar y discutir en forma razonada y respetuosa, sobre los asuntos que conozca el Cabildo.
+En los supuestos a que se refiere este artículo, el saldo será exigible inmediatamente, por lo que las autoridades fiscales lo requerirán y lo harán exigible mediante el procedimiento administrativo de ejecución.
 
-###### ARTÍCULO 43.
+###### Artículo 42.
 
-Las opiniones y propuestas que hagan los Comisionados sobre asuntos de su ramo se discutirán, y aquellas que hagan sobre asuntos que no fueren de sus Comisiones se pasarán a la comisión correspondiente para dictamen, a menos que el Cabildo por el voto del cincuenta por ciento más uno de sus miembros, acuerde poner el asunto a discusión y en su caso a aprobación.
+Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo señalado en las disposiciones respectivas, se pagarán recargos por mora en concepto de indemnización al fisco municipal por falta de pago oportuno, conforme a la tasa que anualmente se fije en la Ley de Ingresos del Municipio o en su defecto a la Ley de Ingresos para el Estado. Los recargos por mora se causarán por cada mes o fracción de éste que transcurra, a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos por el período a que se refiere el párrafo anterior, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de la contribución o aprovechamiento de que se trate.
 
-###### ARTÍCULO 44.
+Los recargos se causarán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización por cheque no pagado a que se refiere el artículo siguiente, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
 
-Las opiniones o propuestas que se realicen en el punto de asuntos generales establecido en el orden del día de la Sesión, no serán sometidas a votación inmediata, se turnarán a la Comisión correspondiente. De estimarse por el Cabildo que ameritan análisis, serán incluidos en el orden del día de la siguiente Sesión Ordinaria o Extraordinaria según la naturaleza del caso.
+Los recargos se causarán hasta por cinco años, salvo en los casos en los que no se haya extinguido por prescripción la facultad de la autoridad fiscal para el cobro de las contribuciones o aprovechamientos omitidos y sus accesorios, de acuerdo a las disposiciones de este Código. Al garantizarse las obligaciones fiscales por terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se pague dentro del plazo legal. Si el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
 
-###### ARTÍCULO 45.
+Si los recargos determinados por el contribuyente son inferiores a los que calcule la autoridad fiscal, ésta aceptará el pago y procederá a exigir el remanente.
 
-Durante las discusiones el Presidente Municipal, Regidores y Síndicos guardarán compostura. Las intervenciones serán en todo caso claras y precisas, las que deberán referirse al asunto en análisis, cuando se suscite alguna desviación, el Secretario del H. Ayuntamiento, pedirá al expositor que se conduzca exclusivamente al tema en análisis.
+En caso de aprovechamientos, los recargos se calcularán, de conformidad con lo dispuesto en este artículo, sobre el total del crédito fiscal, excluyendo los recargos, los gastos de ejecución y la indemnización por cheque no pagado.
 
-###### ARTÍCULO 46.
+Las autoridades fiscales no liberarán ni condonarán, total o parcialmente, el pago de las contribuciones y de los recargos correspondientes, salvo en los casos que prevé el artículo 68 de este mismo Código.
 
-Al ponerse a discusión cualquier asunto, deberán exponerse las razones y fundamentos que lo motiven. Si al término de dicha exposición nadie solicitare el uso de la voz, o bien cuando se considere suficientemente discutido se someterá a votación.
+###### Artículo 43.
+
+El cheque recibido por las autoridades fiscales, que sea librado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización del veinte por ciento del valor de éste, así como a la comisión bancaria que resulte de su devolución, sin perjuicio de que se tenga por no cumplida la obligación fiscal y se cobren los créditos, recargos y sanciones procedentes por el falso pago.
+
+La autoridad fiscal correspondiente requerirá al librador del cheque para que, dentro del plazo de tres días, efectúe el pago junto con la indemnización del veinte por ciento, la comisión bancaria por cheque devuelto y los demás accesorios, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que realizó el pago o que éste no se efectuó por causas imputables a la librada.
+
+Transcurrido el plazo anteriormente señalado sin que el contribuyente o librador del cheque efectúe el pago o demuestre cualesquiera de los supuestos mencionados, la autoridad fiscal procederá a hacer efectivo el crédito fiscal en los términos previstos en el párrafo primero de este artículo, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+
+Si el cheque no se paga por responsabilidad del librado se estará a lo dispuesto por la Ley General de Títulos y Operaciones de Crédito.
+
+###### Artículo 44.
+
+Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y antes del adeudo principal a los accesorios, en el orden siguiente:
+
+I. Gastos de ejecución;
+
+II. Recargos;
+
+III. Multas; y
+
+IV. La indemnización y la comisión bancaria, relativas a cheques recibidos por la autoridad fiscal, no pagados y devueltos por instituciones bancarias.
+
+Cuando el contribuyente interponga algún medio de defensa que impugne alguno de los conceptos previstos en las fracciones anteriores, el orden señalado no será aplicable respecto del concepto impugnado y garantizado.
+
+###### Artículo 45.
+
+Cuando de oficio o por escrito del contribuyente se solicite la devolución de cantidades pagadas indebidamente y las que procedan de conformidad con este Código, la autoridad fiscal deberá reintegrarlas mediante cheque nominativo.
+
+La devolución procederá cuando no haya créditos fiscales exigibles, de lo contrario, cualquier excedente se aplicará en cuenta, de oficio. Los retenedores podrán solicitar la devolución, siempre que ésta se haga directamente a los contribuyentes.
+
+Si el pago de lo indebido se hubiere efectuado en cumplimiento de un acto de autoridad, el derecho a la devolución nacerá cuando dicho acto quede insubsistente.
+
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de treinta días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal, con los datos, informes y documentos en que se sustente el derecho. En caso de omisiones, la autoridad requerirá al promovente, dentro de un plazo de cinco días, para que las subsane, dentro los diez días siguientes, en cuyo defecto, la solicitud se tendrá por no presentada. Cuando exista requerimiento, el plazo de treinta días se contará a partir de que se subsane la omisión.
+
+Si la devolución no se efectúa en el plazo de treinta días, la autoridad fiscal pagará intereses que se calcularán a partir del día siguiente al del vencimiento, conforme a una tasa que será igual a la prevista para los recargos por pago extemporáneo.
+
+El pago de intereses se incluirá de oficio en la liquidación correspondiente.
+
+El contribuyente que haya pagado un crédito fiscal, interponga oportunamente los medios de defensa y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a recibir intereses sobre las cantidades pagadas indebidamente, a partir de la fecha de pago. En estos casos, podrá compensar las cantidades a su favor, incluidos los intereses contra la misma contribución que se pague, ya sea a su cargo o que deba enterar en su carácter de retenedor.
+
+En ningún caso los intereses excederán del cien por ciento del monto de las contribuciones. La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
+
+###### Artículo 46.
+
+Los contribuyentes obligados a pagar mediante declaraciones podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Si las cantidades que tengan a su favor los contribuyentes no derivan de la misma contribución, sólo se podrán compensar en los casos en que así lo acuerde el Ayuntamiento en sesión de Cabildo.
+
+No se causarán recargos cuando el contribuyente compense el saldo a su favor, hasta por el monto de dicho saldo, siempre que éste se haya originado con anterioridad a la fecha en que debió pagarse la contribución de que se trate.
+
+Sólo se causarán recargos por el periodo comprendido entre la fecha en que debió pagarse la contribución y la fecha en que se originó el saldo a compensar, cuando el saldo a favor del contribuyente se hubiere originado con posterioridad a la fecha en que se causó la contribución a pagar.
+
+Las autoridades fiscales podrán compensar de oficio o a petición de los contribuyentes las cantidades que tengan a su favor por cualquier concepto, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros y que hayan quedado firmes por cualquier causa. No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlos.
+
+En el caso de que la compensación se realice de oficio, la autoridad lo notificará personalmente al interesado.
 
 ###### Art. 47.
 
@@ -1563,73 +1499,119 @@ Por cada senador propietario se elegirá un suplente.
 
 > <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 1972)</small>
 
-###### ARTÍCULO 47.
+###### Artículo 47.
 
-Cuando un dictamen o propuesta constare de más de un artículo, se discutirá en lo general y si se declara que ha lugar a votación, podrá discutirse y resolverse en lo particular. Siempre que el Presidente Municipal, un Regidor o Síndico lo pida, podrá el Cabildo acordar por mayoría de votos, que se divida en las partes que sea necesario para facilitar la discusión.
+La compensación entre particulares y el fisco municipal, podrá ser realizada respecto de cualquier clase de contribuciones, aprovechamientos, créditos o deudas, si unos y otros son líquidos.
 
-Si se propusieran enmiendas a un artículo, el autor o autores de la propuesta, dictamen o promoción que se discuta, manifestarán si están conformes con aquellas. En este caso se discutirá el artículo enmendado, de lo contrario se discutirá tal como se propuso al principio. Solo en caso de que el artículo fuere desechado, se discutirá la enmienda.
+###### Artículo 48.
 
-###### ARTÍCULO 48.
+Las contribuciones, aprovechamientos, créditos y deudas en favor de la Hacienda Municipal, únicamente podrán compensarse cuando provengan de la aplicación de las disposiciones de este Código y se satisfagan los requisitos que para esta forma de extinción señala el derecho común.
 
-Si se propusieran adiciones y las aceptara el autor de la propuesta o dictamen se discutirán conjuntamente; en caso contrario, se discutirán las adiciones en la siguiente sesión.
+La compensación será autorizada por el Tesorero, a petición del interesado.
 
-###### ARTÍCULO 49.
+La misma autoridad fiscal, al tener conocimiento de que se han satisfecho los requisitos para la compensación, podrá autorizarla mediante resolución particular.
 
-El autor de una iniciativa o dictamen podrá retirar hasta antes de la aprobación del orden del día el asunto que hubiere presentado. Una vez aprobado el orden del día solamente podrá retirarse hasta antes de su votación cuando el Regidor o Síndico que presente el dictamen así lo solicite y su solicitud sea aprobada por la mitad más uno de los integrantes del Cabildo.
+###### Artículo 49.
 
-###### ARTÍCULO 50.
+El derecho de los particulares a la compensación o devolución de las cantidades pagadas indebidamente o en cantidad mayor a la debida, prescribe en los mismos términos que el crédito fiscal.
 
-No podrá efectuarse ninguna discusión, ni resolverse ningún asunto, cuando el Regidor o el Síndico del ramo este ausente, por causa justificada, excepto cuando la persona aludida hubiere expresado su consentimiento por escrito. Cuando la Comisión esté integrada por dos o más regidores bastará la presencia de uno de ellos.
+###### Artículo 50.
 
-###### ARTÍCULO 51.
+La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del sujeto pasivo o de los responsables solidarios, no libera, mientras no prescriba el crédito fiscal, a uno y a otros de su obligación. Procederá la cancelación de los créditos fiscales cuando:
 
-En materia de discusiones, sólo se concederá el uso de la palabra hasta en tres ocasiones a un mismo Regidor o Síndico por un lapso máximo de cinco minutos cada una de ellas, a excepción del o los autores del dictamen o proposición y los Comisionados del ramo, quienes podrán intervenir cuando lo deseen, mientras no se declare por el pleno que el asunto está suficientemente discutido. Se exceptúan de lo anterior, aquellos casos en que por la importancia del tema, el Cabildo al inicio de la Sesión apruebe que no haya limitación en el tiempo y número de participaciones.
+I. Resulte imposible localizar al contribuyente o responsables solidarios y ni uno, ni los otros, cuenten con bienes sobre los cuales se pueda trabar embargo;
 
-###### ARTÍCULO 52.
+II. Por insolvencia de los deudores; y
 
-Cuando los integrantes del Cabildo fueran objeto de alusiones personales dentro de la Sesión, podrán contestarlas si lo desean, haciendo uso de la voz, hasta por cinco minutos.
+III. Por incosteabilidad en el cobro.
 
-###### ARTÍCULO 53.
+Las disposiciones reglamentarias que expida el Ayuntamiento deberán indicar los requisitos que habrá de observar la autoridad fiscal para la cancelación de créditos fiscales a que se refiere este artículo.
 
-Ninguna discusión podrá suspenderse, si no ha concluido, a menos que la mayoría de los integrantes del Cabildo así lo dispongan.
+###### Artículo 51.
 
-###### ARTÍCULO 54.
+Las facultades de las autoridades para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades para verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen por caducidad en el término de cinco años. Dicho término empezará a correr a partir:
 
-Iniciada la discusión de un asunto, sólo podrá suspenderse:
+I. Del día siguiente a aquél en que hubiere vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones o avisos;
 
-I. Por desordenes graves en el recinto.
+II. Del día siguiente a aquél en que se produjo el hecho generador del crédito fiscal, si no existiera obligación de presentar declaraciones, manifestaciones o avisos; y
 
-II. Por moción suspensiva a propuesta de uno de los miembros del H. Ayuntamiento y que sea aprobado por mayoría del mismo.
+III. Del día siguiente a aquél en que se hubiere cometido la infracción a las disposiciones fiscales municipales, pero si la infracción fuere de carácter continuo, el término correrá a partir del día siguiente al en que hubiere cesado la continuidad.
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+###### Artículo 52.
 
-III. Por actos o expresiones de discriminación.
+La facultad de las autoridades para cobrar un crédito fiscal se extingue por prescripción en el término de cinco años.
 
-###### ARTÍCULO 55.
+El término de la prescripción se inicia a partir de la fecha en que el pago debió ser legalmente exigido y se podrá oponer como excepción en el recurso administrativo que al efecto se interponga.
 
-En las discusiones generales de los asuntos, terminada la intervención de los oradores, el Presidente Municipal preguntará a los miembros del Cabildo si consideran que están suficientemente discutidos, y si así fuere, declarará agotados los asuntos, sometiéndolos a votación.
+El término para que opere la prescripción se interrumpe con cada gestión de cobro que la autoridad fiscal notifique o haga saber al sujeto pasivo, o por el reconocimiento expreso o tácito de éste, respecto de la existencia del crédito. Se considera gestión de cobro, cualquier actuación de la autoridad fiscal dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del sujeto pasivo.
 
-###### ARTÍCULO 56.
+Los obligados podrán solicitar a la autoridad fiscal, con las formalidades a que se refiere el Código de Procedimientos Administrativos, la declaratoria de que ha operado la prescripción de los créditos fiscales.
 
-Cuando sea desechada una iniciativa de una norma municipal, quien presida la sesión cuestionará sobre si es necesario modificar el periodo de presentación nuevamente al Cabildo en un periodo menor a los tres meses por la importancia del asunto; esta resolución se tomará en votación nominal.
+###### Artículo 53.
 
-###### ARTÍCULO 57.
+Los contribuyentes podrán garantizar el interés fiscal mediante alguna de las formas siguientes:
 
-La discusión de un asunto sólo podrá suspenderse por una sola vez y deberá continuarse el día y la hora fijada por quien presida la Sesión.
+I. Depósito en efectivo en la Tesorería;
 
-###### ARTÍCULO 58.
+II. Prenda o hipoteca;
 
-En ningún caso las Comisiones tendrán facultades de ejecución, sólo el H. Ayuntamiento podrá ejecutarlos por el conducto establecido.
+III. Fianza otorgada por institución afianzadora autorizada, la que no gozará de los beneficios de orden y excusión;
 
-###### ARTÍCULO 59.
+IV. Obligación solidaria asumida por tercero, que compruebe su idoneidad y solvencia suficiente a juicio de la autoridad fiscal; o
 
-Los Comisionados deberán concretarse a vigilar y a observar las actividades que correspondan a sus ramos, lo cual no es impedimento alguno para que participen en la vigilancia de las demás áreas de la administración pública municipal, comunicando al H. Ayuntamiento las irregularidades detectadas, y proponiendo en su caso, las medidas de solución conducentes.
+V. Embargo en la vía administrativa.
 
-### CAPITULO IV.
+La garantía comprenderá, además de las contribuciones adeudadas, los accesorios causados, así como los que se causen en los doce meses siguientes a su otorgamiento.
 
-DEL PODER JUDICIAL.
+Al terminar este período y en tanto no se cubra el crédito, deberá renovarse y ampliarse la garantía que cubra el crédito garantizado y el importe de los recargos correspondientes a los doce meses siguientes. La Tesorería vigilará que sean garantizadas las prestaciones a favor de la Hacienda Municipal, conforme a las disposiciones legales en vigor. Mediante reglas generales emitidas por el Cabildo, se establecerán los requisitos que deberán reunir las garantías.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+La autoridad fiscal hará la calificación correspondiente de las que se ofrezcan, vigilando periódicamente, o cuando lo estime oportuno, que tales garantías conserven su eficacia y, en caso contrario, exigirá su ampliación o procederá a tomar las medidas necesarias para asegurar los intereses del fisco. Se podrá dispensar el otorgamiento de la garantía del interés fiscal, mediante acuerdo que emita el Cabildo, cuando en relación con el monto del crédito respectivo, sea notoria la insuficiencia de la capacidad económica del deudor.
+
+###### Artículo 54.
+
+Procede garantizar el interés fiscal, cuando:
+
+I. Se solicite la suspensión del procedimiento administrativo de ejecución, en términos del Código de la materia;
+
+II. Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente; o
+
+III. En los demás casos que señale este ordenamiento. No se otorgará garantía respecto de gastos de ejecución, salvo que el interés fiscal esté constituido únicamente por éstos.
+
+###### Artículo 55.
+
+Las garantías constituidas para asegurar el interés fiscal a que se refiere el artículo anterior, se harán efectivas a través del procedimiento administrativo de ejecución.
+
+###### Artículo 56.
+
+Tratándose de fianza a favor de la Tesorería, esta dependencia ejercerá los procedimientos establecidos en la legislación federal aplicable.
+
+###### Artículo 57.
+
+Las pólizas de fianza que se otorguen ante la Tesorería para garantizar obligaciones fiscales a cargo de terceros deberán expedirse por institución nacional autorizada, en favor del Municipio, y establecerán, en su texto, lo siguiente:
+
+I. El nombre completo de la persona física o moral afianzada, el importe de la póliza y su vigencia, la mención expresa de que se garantiza el debido cumplimiento de las obligaciones fiscales que correspondan al fiado, así como todos y cada uno de sus accesorios legales;
+
+II. La anuencia de la compañía afianzadora para pagar hasta el importe total de la suma afianzada, en caso de que se actualice el incumplimiento de su afianzado a las obligaciones fiscales adquiridas ante la Tesorería, sin reservarse los beneficios de orden y excusión, y
+
+III. La aceptación expresa de la afianzadora de someterse a los procedimientos de ejecución reservados para fianzas que garantizan obligaciones fiscales, así como la aceptación de la afianzadora para seguir garantizando las obligaciones adquiridas por su afianzado, aun cuando la Tesorería le otorgue prórrogas o esperas, sin necesidad de aviso por escrito.
+
+La fianza solamente podrá cancelarse mediante autorización escrita de la Tesorería.
+
+###### Artículo 58.
+
+Para que se conceda la suspensión del procedimiento administrativo de ejecución, el contribuyente o interesado deberá impugnar el crédito fiscal mediante el recurso de revocación o el juicio contencioso, garantizar el interés fiscal en cualquiera de las formas previstas por este Código y solicitar por escrito dicha suspensión ante la autoridad fiscal.
+
+Cuando en el recurso de revocación o juicio contencioso se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución haya sido suspendida, se pagarán los créditos fiscales no impugnados con los recargos correspondientes.
+
+Si se controvierten sólo determinados conceptos de la resolución administrativa que determinó el crédito fiscal, el particular pagará la parte consentida del crédito y los recargos correspondientes, mediante declaración complementaria y garantizará la parte controvertida y sus recargos.
+
+En el supuesto del párrafo anterior, si el particular no presenta declaración complementaria, la autoridad exigirá la cantidad que corresponda a la parte consentida, sin necesidad de emitir otra resolución. Si se confirma en forma definitiva la validez de la resolución impugnada, la autoridad procederá a exigir la diferencia no cubierta, con los recargos causados.
+
+###### Artículo 59.
+
+La autoridad fiscal no exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieren embargado bienes suficientes para garantizar el interés fiscal o cuando el contribuyente declare, bajo protesta de decir verdad, que son los únicos que posee. En caso de que la autoridad compruebe, por cualquier medio, que esta declaración es falsa podrá exigir garantía adicional, sin perjuicio de la responsabilidad que le resulte al contribuyente.
+
+### CAPÍTULO II. DE LAS SANCIONES
 
 ###### Art. 58.
 
@@ -1645,53 +1627,127 @@ Los Senadores y Diputados Suplentes podrán ser electos para el período inmedia
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
 
-###### ARTÍCULO 60.
+###### Artículo 60.
 
-Las votaciones serán de tres clases:
+La cancelación de las garantías otorgadas a favor del Fisco Municipal en los términos de este Código, procederá cuando:
 
-I. Económicas: Consiste en levantar la mano en forma sucesiva, primero los que aprueben la resolución correspondiente, después los que voten en contra y finalmente los que se abstengan de emitir su voto.
+I. Se otorgue una nueva garantía que sustituya a otra, previa su calificación por parte de las autoridades fiscales;
 
-II. Nominales: Consiste en preguntar personalmente a los integrantes del Cabildo si aprueban, desaprueban o se abstienen, debiendo contestar a favor, en contra o abstención.
+II. Se cubra la totalidad del crédito fiscal garantizado, a satisfacción de la autoridad fiscal y se emita el comprobante de pago correspondiente; o
 
-III. Secretas: Consiste en emitir el voto a través de cédulas diseñadas para tal fin y en forma impersonal; las cédulas se destruirán una vez terminada la votación y antes de concluir la Sesión.
+III. En definitiva, quede sin efecto la resolución que dio origen al otorgamiento de la garantía. Para que proceda la cancelación de la garantía, el interesado presentará solicitud por escrito ante la Tesorería, acompañando los documentos que demuestren la procedencia de la cancelación, de conformidad con lo previsto en el presente Código.
 
-###### ARTÍCULO 61.
+Procederá la cancelación, por parte de la autoridad, aun cuando no medie solicitud del particular, en aquellos casos en que, de las constancias que obren en los archivos en su poder, se desprenda que se han dado uno o varios de los supuestos señalados en el presente artículo.
 
-En caso de empate por cualquiera de los medios de votación el asunto se resolverá por el voto de calidad de quien presida la Sesión. Cuando la votación fuere secreta y se presentase un empate, quien Presida la sesión podrá revelar el sentido de su voto y hacer uso de esta manera de su voto de calidad. En caso de que quien preside la sesión no quisiere hacer uso de este derecho se someterá el asunto nuevamente a votación de los presentes tendrá voto de calidad el último de los votos que se dé a conocer de la insaculación.
+Cuando con motivo de la garantía otorgada se haya procedido a su inscripción en el Registro Público de la Propiedad, una vez hecha la cancelación de la misma se comunicará ese acto a la oficina registral.
 
-###### ARTÍCULO 62.
+###### Artículo 61.
 
-La votación económica será para la aprobación del orden del día y la del Acta de la Sesión anterior; la votación nominal será para la aprobación de dictámenes y reglamentos; y la votación secreta, cuando el caso lo amerite.
+Son obligaciones de los contribuyentes:
 
-###### ARTÍCULO 63.
+I. Inscribirse en el padrón municipal que les corresponda, dentro de los treinta días siguientes a aquél en que se realice la situación jurídica o de hecho de la cual se deriven obligaciones fiscales municipales y durante el mes de enero de cada ejercicio para los refrendos ante la Tesorería;
 
-Se excusarán de conocer los integrantes del Cabildo que tuvieran interés personal en el asunto a discusión, los que son apoderados de la persona interesada o parientes de la misma, dentro del tercer grado de consanguinidad o segundo de afinidad.
+II. Señalar domicilio fiscal en el Municipio que les corresponda y, en su caso, domicilio para recibir notificaciones;
 
-El incumplimiento a lo dispuesto en el párrafo anterior se sancionará de acuerdo a lo establecido en la fracción II del Artículo 67 del presente Código.
+III. Pagar los créditos fiscales en los términos que dispongan las leyes fiscales municipales;
 
-###### ARTÍCULO 64.
+IV. Presentar los avisos, declaraciones y cualquier otro documento de naturaleza análoga que dispongan las leyes, en las formas oficiales autorizadas por la Tesorería, o bien, previa autorización de la misma dependencia, cumpliendo con los requisitos legales;
 
-Las decisiones del Cabildo podrán darse por unanimidad cuando todos sus integrantes voten a favor, por mayoría calificada cuando voten a favor las dos terceras partes de sus integrantes y por mayoría cuando por lo menos el cincuenta por ciento más uno lo haga.
+V. Firmar todos los documentos dirigidos a las autoridades fiscales municipales;
 
-###### ARTÍCULO 65.
+VI. Mantener actualizados los documentos de control y cumplimiento de sus obligaciones fiscales, que deberán ser proporcionados, en copia fotostática, a la autoridad fiscal cuando sean requeridos;
 
-En el momento en que se realice la votación de alguno de los asuntos a tratar en el orden del día de las sesiones de cabildo, ningún integrante del Cabildo podrá salir del recinto de sesiones, salvo permiso previo de quien preside la misma, en caso contrario se le aplicará la sanción contemplada en la fracción I del artículo 67 del presente Código.
+VII. Conservar toda la documentación fiscal o la relacionada con ésta, así como los elementos contables y comprobatorios del cumplimiento de las obligaciones en dicha materia, en el domicilio fiscal ubicado en el Municipio, durante un término no menor de cinco años;
 
-###### ARTÍCULO 66.
+VIII. Proporcionar a las autoridades fiscales los datos o informes que les soliciten, dentro del plazo fijado para ello;
 
-El Presidente Municipal será el responsable de dar cumplimiento a los acuerdos tomados por los integrantes del Cabildo, debiendo informar de los resultados en las Sesiones posteriores. El incumplimiento de esta obligación será sancionable en términos de la normatividad aplicable.
+IX. Mostrar, a solicitud de la autoridad municipal, la cédula de empadronamiento, las licencias, permisos o autorizaciones originales, así como otros documentos diversos de la misma naturaleza de los anteriores que les sean requeridos;
 
-###### ARTÍCULO 67.
+X. Devolver para su cancelación la cédula o documento de empadronamiento en caso de clausura, cese de actividades, cambio de giro, de nombre o razón social, de domicilio o traspaso, en el momento en que dichas circunstancias sean comunicadas a la autoridad municipal;
 
-Cuando un miembro del H. Ayuntamiento infrinja las disposiciones contenidas en la Ley que en materia municipal expida el Poder Legislativo del Estado o el presente Código, se hará acreedor a las siguientes sanciones, atendiendo a la gravedad de la falta:
+XI. Dar aviso a la Tesorería, en el término de treinta días hábiles posteriores, respecto del cese de actividades o de funcionamiento definitivo de su negociación, para su anotación correspondiente en el padrón fiscal del Municipio;
 
-I. Amonestación por parte de quién preside la Sesión, apercibiéndolo al cumplimiento de sus obligaciones.
+XII. Liquidar, retener y enterar ingresos municipales, en los casos previstos en las leyes fiscales; y
 
-II. Multa por un equivalente de 5 a 5,000 días de Salario Mínimo General vigente en el Estado en el momento de imponer la sanción, sin perjuicio de las sanciones a que se hagan acreedores y que se encuentren contenidas en otros ordenamientos legales.
+XIII. Las demás que dispongan este Código, las leyes, reglamentos y ordenamientos aplicables.
 
-III. Suspensión en el pago de sus salarios, en caso de reincidencia, sin perjuicio de las sanciones a que se hagan acreedores y que se encuentren contenidas en otros ordenamientos legales.
+###### Artículo 62.
 
-### CAPÍTULO VII. De la Revocación de Acuerdos
+Toda persona física o moral que, conforme a las leyes, esté en el ejercicio de sus derechos, podrá comparecer ante las autoridades fiscales, ya sea por sí o por quien legalmente la represente.
+
+La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones, ni objeciones y devolverá copia sellada y comprobante de pago, en su caso, a quien lo presente.
+
+Además de los casos que señalen las leyes fiscales y el Código de Procedimientos Administrativos, se podrá rechazar la presentación de promociones de los particulares, cuando no contengan o se anote de manera incorrecta el nombre del contribuyente; el número de cuenta y de licencia, o cualquier otro que lo identifique en los registros municipales de la contribución de que se trate; su domicilio fiscal; no aparezcan debidamente firmados; no se acompañen los anexos; o, tratándose de declaraciones, éstas contengan errores aritméticos.
+
+En este último caso, la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+
+En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otra de naturaleza análoga que prevengan las disposiciones fiscales no se hubieren aprobado y publicado por la Tesorería, los obligados a presentarlas las formularán en escrito libre por triplicado, incluyendo los datos señalados en el artículo siguiente.
+
+En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+
+Los contribuyentes podrán presentar las declaraciones respectivas a través de medios electrónicos, cuando el Cabildo hubiere aprobado esta modalidad.
+
+En los casos de personas que se encuentren incapacitadas, las concursadas, las ausentes, y en el de las sucesiones, comparecerán sus representantes legales.
+
+###### Artículo 63.
+
+Las instancias o peticiones que se formulen a las autoridades fiscales se resolverán dentro de un plazo de cuarenta y cinco días hábiles, salvo disposición expresa en contrario.
+
+Dicho plazo comenzará a partir del día siguiente a aquél en que el promovente haya presentado su solicitud requisitada o haya proporcionado a la autoridad fiscal la información requerida por ésta.
+
+En materia fiscal, el silencio de las autoridades fiscales no se considerará como afirmativa ficta de las solicitudes, salvo disposición expresa en contrario, y dará lugar a la interposición de los recursos legales procedentes cuando no se dé respuesta en el término que corresponda.
+
+###### Artículo 64.
+
+Las autoridades fiscales están obligadas a contestar las consultas que sobre situaciones reales y concretas les formulen por escrito los interesados.
+
+###### Artículo 65.
+
+Los sujetos pasivos y los retenedores darán aviso a la Tesorería de cualquiera de los siguientes cambios:
+
+I. De domicilio;
+
+II. De razón o denominación social, a la que acompañarán copia de la escritura correspondiente;
+
+III. De sus actividades, cuando aumenten o disminuyan sus obligaciones fiscales;
+
+IV. De traspaso de la negociación, clausura definitiva, cese definitivo de actividades o suspensión de operaciones; o
+
+V. En los casos de fusión o escisión.
+
+Los sujetos pasivos y los retenedores a que se refiere este artículo citarán el número de registro que les sea asignado por la Tesorería en las declaraciones, manifestaciones, promociones, solicitudes o gestión que realicen ante la autoridad fiscal competente. Cuando la autoridad fiscal ordene su verificación, exhibirán el documento que acredite su inscripción al citado registro.
+
+###### Artículo 66.
+
+Son atribuciones de las autoridades fiscales, además de las previstas en el Código de Procedimientos Administrativos, las siguientes:
+
+I. Proporcionar orientación y asistencia gratuita a los contribuyentes, con respecto a las disposiciones fiscales de su competencia;
+
+II. Contestar las consultas que sobre situaciones reales y concretas le hagan los interesados individualmente. De su resolución favorable se derivarán derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido mediante escrito de la autoridad competente para ello;
+
+III. Expedir circulares para dar a conocer a las diversas dependencias o unidades administrativas el criterio que deberán seguir en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacerán obligaciones ni derechos para los particulares. Únicamente se derivarán derechos de las mismas cuando sean publicadas en la Gaceta Oficial y en la Tabla de Avisos del Ayuntamiento;
+
+IV. Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, así como imponer sanciones que señalen este Código y los demás ordenamientos fiscales;
+
+V. Expedir los oficios de designación, credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, visitas domiciliarias, auditorías, inspecciones, vigilancia, verificaciones, requerimientos y demás actos que se deriven de las disposiciones fiscales municipales;
+
+VI. Reconocer la anulabilidad, declarar la nulidad o revocar de oficio los actos administrativos que sean emitidos en contravención a las disposiciones legales aplicables;
+
+VII. Contestar las demandas e intervenir como parte en los juicios que se susciten con motivo del ejercicio de las facultades conferidas en este ordenamiento al Ayuntamiento;
+
+VIII. Designar abogados con el carácter de delegados o autorizados para oír y recibir notificaciones en su nombre y representación en los juicios en que intervenga;
+
+IX. Emitir o, en su caso, ordenar la publicación de los edictos que procedan en los asuntos de su competencia;
+
+X. Elaborar, integrar y mantener actualizados los padrones de contribuyentes, así como los demás registros que establezcan las leyes fiscales; y
+
+XI. Determinar, mediante resolución, la responsabilidad solidaria.
+
+###### Artículo 67.
+
+Para los efectos de notificación de actos administrativos a los interesados, las autoridades fiscales deberán cubrir los requisitos previstos en el Código de Procedimientos Administrativos.
+
+### CAPÍTULO ÚNICO
 
 ###### Art. 60.
 
@@ -1727,19 +1783,67 @@ Si no hubiese quórum para instalar cualquiera de las Cámaras o para que ejerza
 
 Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la ley señale, quienes habiendo sido electos diputados o senadores, no se presenten, sin causa justificada a juicio de la Cámara respectiva, a desempeñar el cargo dentro del plazo señalado en el primer párrafo de este artículo. También incurrirán en responsabilidad, que la misma ley sancionará, los Partidos Políticos Nacionales que habiendo postulado candidatos en una elección para diputados o senadores, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
 
-###### ARTÍCULO 68.
+###### Artículo 68.
 
-Los acuerdos del Cabildo no podrán revocarse sino en una Sesión a la que concurran el cincuenta por ciento más uno de los integrantes del H. Ayuntamiento.
+El Ayuntamiento en sesión de Cabildo podrá condonar o reducir los créditos fiscales municipales, cuando por causa de algún siniestro se afecte la situación económica de alguna región del territorio municipal. Lo anterior, previa declaratoria de desastre por parte de la autoridad competente. Asimismo, cuando por causas económicas, debidamente acreditadas, previa aprobación del H. Congreso del Estado, el Cabildo emita acuerdos tendientes a la regularización de la recaudación, siempre y cuando estas no perjudiquen la Hacienda Municipal para su debido funcionamiento.
 
-###### ARTÍCULO 69.
+Para efectos de este artículo, el Cabildo dictará, mediante disposiciones casuísticas, las contribuciones, productos o aprovechamientos materia de la condonación o reducción, señalando las regiones del Municipio en las que se disfrutará de la misma.
 
-No podrán en la misma Sesión revocarse las proposiciones o dictámenes en que se consultare la revocación de un acuerdo, sino que se resolverá en la Sesión Ordinaria o Extraordinaria siguiente, expresándose en la cédula de citación el acuerdo que se trate de revocar.
+###### Artículo 69.
 
-###### ARTÍCULO 70.
+Cuando la situación económica de los contribuyentes sea insuficiente para cubrir en su totalidad los créditos fiscales que adeuden, el Tesorero podrá conceder prórrogas adicionales a las previstas en el artículo 40 de este Código para el pago de créditos fiscales, mismas que no podrán exceder de seis meses, pero si a juicio del propio Tesorero se trata de créditos fiscales cuantiosos o situaciones excepcionales, podrá ampliar el plazo hasta por seis meses más; dicho plazo, en ningún caso, podrá rebasar el período constitucional del Ayuntamiento. El Tesorero fijará el monto de la garantía que deberá otorgar el deudor de la prestación fiscal, en su caso.
 
-El Presidente Municipal, los Regidores y Síndicos que con causa justificada no pudieran asistir a la Sesión en que deba tratarse la revocación de acuerdos, podrán emitir por escrito su voto enviándolo en sobre cerrado, que abrirá el Secretario en el momento de la votación, y que deberá ser ratificado por el Regidor o Síndico en la Sesión inmediata siguiente antes de la aprobación del acta de la Sesión anterior a fin de que cuente con validez, y deberá constar en el acta correspondiente.
+###### Artículo 70.
 
-### CAPÍTULO VIII. Del Procedimiento Reglamentario Municipal
+Las autoridades fiscales, a fin de determinar la existencia del crédito fiscal, dar (sic) las bases de su liquidación, fijarlo en cantidad líquida, cerciorarse del cumplimiento a las disposiciones fiscales o comprobar la comisión de infracciones a dichas disposiciones, estarán facultadas para realizar conjunta o separadamente, los siguientes actos:
+
+I. Revisar las bases de datos y los padrones fiscales;
+
+II. Autorizar la verificación o comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y terceros relacionados con ellos, conforme a las disposiciones fiscales;
+
+III. Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados, así como comprobar el cumplimiento de sus obligaciones, de conformidad con las disposiciones fiscales municipales;
+
+IV. Determinar y ordenar el cobro a los contribuyentes, responsables solidarios y demás obligados, de las diferencias por errores aritméticos en las declaraciones y por el pago en parcialidades de las contribuciones, tanto de las derivadas de la aplicación de disposiciones fiscales previstas en este ordenamiento, como las de naturaleza federal cuando actúen en los términos de los convenios de coordinación fiscal federal;
+
+V. Calificar, para su aceptación, las garantías del interés fiscal que deban ser otorgadas a favor del Ayuntamiento; hacerlas efectivas y resolver sobre la dispensa o el otorgamiento de las mismas; vigilar que sean suficientes y exigir su ampliación, así como ordenar el embargo de otros bienes;
+
+VI. Practicar, de conformidad con el procedimiento previsto en (sic) Código de la materia, visitas en el domicilio fiscal o negociaciones de los sujetos pasivos, de los responsables solidarios o de los terceros relacionados con ellos, con el fin de verificar el cumplimiento de obligaciones fiscales derivadas de disposiciones legales y reglamentarias, así como de la presentación de documentos e informes relacionados con el cumplimiento de las obligaciones fiscales; revisar sus bienes, mercancías y, en general, la documentación que tenga relación con las obligaciones fiscales y, en su caso, asegurarlos, dejando en calidad de depositario al visitado, previo inventario que al efecto se formule;
+
+VII. Proceder a la inspección, verificación física, clasificación, valuación o comprobación de toda clase de bienes;
+
+VIII. Solicitar de los sujetos pasivos, responsables solidarios o terceros con ellos relacionados, toda clase de datos, documentos e informes relacionados con el cumplimiento de las disposiciones fiscales;
+
+IX. Practicar las inspecciones y verificaciones de los lugares, inmuebles, bienes o mercancías, en la forma que para el control de las obligaciones fiscales determine la Tesorería, de conformidad con el Código de Procedimientos Administrativos;
+
+X. Ordenar la clausura provisional o definitiva de establecimientos comerciales por incumplimiento o infracción a las disposiciones fiscales;
+
+XI. Practicar avalúos de bienes inmuebles, de acuerdo a la legislación aplicable;
+
+XII. Designar personal que supervise y verifique el número de personas que ingresen a los espectáculos públicos, así como los ingresos que perciban;
+
+XIII. Autorizar y verificar el manejo de los boletos o documentos que otorguen el derecho de admisión a una diversión o espectáculo público;
+
+XIV. Designar personal para presenciar la celebración de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase y verificar los ingresos que se perciban;
+
+XV. Ordenar la práctica de la notificación de los actos relacionados con el ejercicio de las facultades de comprobación, así como las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y los demás actos administrativos que se generen con motivo de sus facultades de comprobación del cumplimiento de las disposiciones fiscales municipales;
+
+XVI. Rectificar los errores aritméticos que aparezcan en las declaraciones, manifestaciones o avalúos;
+
+XVII. Ordenar la práctica de embargo precautorio para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, si, a juicio de ésta, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda;
+
+XVIII. Allegarse las pruebas necesarias para presentar denuncia ante el Ministerio Público, sobre la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva; y
+
+XIX. Cuando los sujetos pasivos, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de comprobación de las autoridades fiscales, éstas podrán indistintamente:
+
+a) Imponer la multa que corresponda en los términos de este Código;
+
+b) Solicitar el auxilio de la fuerza pública; o
+
+c) Solicitar a la autoridad correspondiente que se proceda por desobediencia a un mandato legítimo de autoridad competente.
+
+Las facultades señaladas en las fracciones VI, VII, IX, XII, XIII y XIV de este artículo, se podrán llevar a cabo en los lugares donde se encuentren los inmuebles, tratándose de contribuciones relacionadas con los mismos, o en el lugar donde se presenten las diversiones o espectáculos públicos o se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase.
+
+### CAPÍTULO I. DEL IMPUESTO PREDIAL
 
 ###### Art. 64.
 
@@ -2129,61 +2233,83 @@ IX.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1982)
 
 X.- Las demás que la misma Constitución le atribuye.
 
-###### ARTÍCULO 71.
+###### Artículo 71.
 
-Tienen facultad para presentar iniciativas de Reglamentos Municipales, reformas al presente Código, así como emitir acuerdos, circulares y demás disposiciones administrativas de observancia general necesarios para organizar y administrar el Municipio y su funcionamiento y en especial las disposiciones generales que marque la Ley que en materia municipal expida el Poder Legislativo del Estado:
+Las visitas domiciliarias deberán cumplir con las formalidades que señala el Código de Procedimientos Administrativos.
 
-I. El Presidente Municipal, los Regidores y Síndicos.
+###### Artículo 72.
 
-II. Las Comisiones del Cabildo.
+Las autoridades fiscales podrán determinar presuntivamente la base gravable de las contribuciones a cargo de los sujetos pasivos, cuando:
 
-###### ARTÍCULO 72.
+I. Se resistan u obstaculicen por cualquier medio, la iniciación o desarrollo de las visitas domiciliarias, o se nieguen a recibir la orden respectiva;
 
-Las circulares serán expedidas por el H. Ayuntamiento, de manera excepcional y complementaria al Código.
+II. No proporcionen la documentación, informes o datos que les soliciten, o los presenten alterados, falsificados o existan vicios o irregularidades en los mismos;
 
-###### ARTÍCULO 73.
+III. No tengan la documentación a que estén obligados;
 
-Se consideran iniciativas única y exclusivamente aquellas cuya materia se refiera a la normatividad municipal.
+IV. La información que se obtenga de terceros ponga de manifiesto discrepancias con sus datos o informes manifestados o declarados;
 
-###### ARTÍCULO 74.
+V. No manifiesten a la autoridad fiscal, en las formas y plazos establecidos, que se ha modificado el valor de un inmueble, se transmitió la propiedad o posesión del mismo, variaron sus características físicas, o se realizó cualquier otro hecho que sea relevante para la determinación de las contribuciones relacionadas con éstos;
 
-En las deliberaciones para la aprobación de las normas y reglamentos municipales únicamente participarán el Presidente Municipal, los Regidores y Síndicos; el Secretario del H. Ayuntamiento sólo participa con voz informativa.
+VI. Nieguen u obstaculicen, por cualquier medio, el acceso a los lugares en donde se presenten los espectáculos públicos o se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase, al personal designado por las autoridades fiscales para verificar el cumplimiento de las obligaciones del contribuyente;
 
-###### ARTÍCULO 75.
+VII. Nieguen u obstaculicen el acceso a los predios, inmuebles e instalaciones al personal designado por las autoridades fiscales para la práctica de avalúos de los mismos.
 
-Cuando se rechace por el Cabildo la iniciativa de una norma municipal no podrá presentarse de nueva cuenta para su estudio, en un término menor de seis meses.
+Se considerará que hay negativa u obstaculización, cuando habiéndose avisado al propietario o poseedor la fecha y hora de la diligencia por medio de citatorio entregado por lo menos con tres días de anticipación, ésta no pueda realizarse por causas imputables a dicho propietario o poseedor;
 
-###### ARTÍCULO 76.
+VIII. No obstante tener la obligación de contar con el permiso o autorización de la autoridad municipal competente, realicen u organicen actos o eventos con omisión de los requisitos legales establecidos; y
 
-Para que un proyecto de norma municipal se entienda aprobado, es preciso el voto en sentido afirmativo, tanto en lo general como en lo particular de la mayoría del Cabildo.
+IX. Incurran en cualquier otro supuesto que señale el Código de Procedimientos Administrativos.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
+###### Artículo 73.
 
-###### ARTÍCULO 77.
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales procederán de la manera siguiente:
 
-Aprobado por el Cabildo, en términos del artículo que antecede, el Secretario del H. Ayuntamiento y Director General de Gobierno deberá realizar, en un plazo máximo de quince días hábiles contados a partir de la Sesión en que se apruebe la disposición jurídica, las gestiones necesarias para el efecto de llevar a cabo la publicación de la misma en el Periódico Oficial del Estado.
+I. Tratándose de diversiones o espectáculos públicos, el número total de localidades, asientos, lugares o aforo con que cuente el local en donde se desarrolló el espectáculo público, se multiplicará por el precio de la localidad más alta que para dicho espectáculo se hubiere dado, y el resultado obtenido será considerado como base gravable, la cual no será objeto de deducción o reducción alguna;
 
-En caso de incumplimiento, el servidor público aludido será amonestado públicamente en Sesión de Cabildo. En caso de reincidencia, procederá su remoción inmediata.
+II. Con relación a loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase, el número total de boletos o billetes de participación emitidos se multiplicará por el precio de venta de los mismos y el resultado obtenido será considerado como base gravable, la cual no será objeto de deducción o reducción alguna; si no se contare con los elementos suficientes para realizar el procedimiento antes descrito, se considerará como base gravable el triple del valor que en la publicidad o boletos correspondientes se le haya asignado al o a los premios a otorgar; y
 
-###### ARTÍCULO 78.
+III. Para el caso de oposición de los propietarios, poseedores o detentadores de predios, a la práctica de las operaciones catastrales de valuación, tratándose de contribuciones relacionadas con bienes inmuebles, la autoridad fiscal solicitará a la autoridad catastral que determine el valor catastral o catastral provisional de dichos bienes, si éstos no estuvieren valuados previamente por dicha autoridad.
 
-Para ser obligatoria toda norma expedida por el H. Ayuntamiento, deberá ser publicada en el Periódico Oficial del Estado, y se procurará hacerlo del conocimiento de la población del Municipio pegando una copia en los lugares visibles de la Cabecera Municipal, Delegaciones y Comisarías Rurales, y a través de los diversos medios de comunicación que en su momento se consideren convenientes.
+Todo esto sin perjuicio de las formalidades y facultades de las autoridades fiscales que señala el Código de Procedimientos Administrativos.
 
-###### ARTÍCULO 79.
+###### Artículo 74.
 
-Las normas municipales entrarán en vigor simultáneamente en todo el Municipio al día siguiente de su publicación en el Periódico Oficial del Estado, salvo que en la propia disposición se fije una fecha distinta.
+Para la comprobación del pago y de la base gravable de las contribuciones, salvo prueba en contrario, se presumirán los supuestos a que se refiere el Código de Procedimientos Administrativos.
 
-###### ARTÍCULO 80.
+###### Artículo 75.
 
-Los Reglamentos emanados del Cabildo podrán modificarse en cualquier tiempo, siempre que se cumplan los requisitos de aprobación, expedición y publicación.
+Los servidores públicos que, en el ejercicio de sus funciones, conozcan de acciones u omisiones que puedan entrañar infracción a las disposiciones fiscales, las comunicarán a la autoridad fiscal dentro de los cinco días siguientes a la fecha en que tengan conocimiento de aquéllas.
 
-###### ARTÍCULO 81.
+###### Artículo 76.
 
-En todo lo no previsto en este Código, se recurrirá a las disposiciones de la Ley que en materia municipal expida el Poder Legislativo del Estado y demás leyes vigentes aplicables al Municipio.
+Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias estarán obligados a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las disposiciones fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales o municipales, y a las autoridades judiciales cuando la ley impone tal obligación.
 
-### CAPÍTULO IX. De las Comisiones
+###### Artículo 77.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que los motiven, cuando el afectado los niegue lisa y llanamente, excepto que la negativa implique la afirmación de otro hecho.
+
+###### Artículo 78.
+
+Corresponde a las autoridades fiscales declarar que una acción o una omisión constituye una infracción a las disposiciones fiscales.
+
+###### Artículo 79.
+
+La aplicación de multas, por infracción a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+###### Artículo 80.
+
+Son responsables en la comisión de las infracciones previstas en este Código, las personas que se encuentren en las hipótesis normativas de este Capítulo. Se consideran como tales las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales.
+
+###### Artículo 81.
+
+Se libera de la obligación establecida en el artículo 75 a los siguientes servidores públicos:
+
+I. Aquellos que, de conformidad con otras leyes, tengan obligación de guardar reserva acerca de los datos o información que conozcan con motivo de sus funciones; y
+
+II. Los que participen en tareas de asistencia al contribuyente previstas por las disposiciones fiscales.
+
+### CAPÍTULO II. DEL IMPUESTO SOBRE TRASLACIÓN DE DOMINIO DE BIENES INMUEBLES
 
 ###### Art. 77.
 
@@ -2397,111 +2523,185 @@ Todos los Reglamentos, Decretos, Acuerdos y Ordenes del Presidente deberán esta
 
 > <small>(REFORMADO, D.O.F. 31 DE ENERO DE 1974)</small>
 
-###### ARTÍCULO 82.
+###### Artículo 82.
 
-El Cabildo nombrará las Comisiones permanentes que tendrán la obligación de vigilar el ramo de la administración que se les encomiende y serán las siguientes:
+No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones de esa naturaleza o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito por hechos ajenos a la voluntad del infractor, circunstancia que éste deberá probar a satisfacción de las autoridades. Se considerará que el cumplimiento no es espontáneo en el caso de que:
 
-REGIDORES
+I. La omisión sea descubierta y notificada por las autoridades fiscales; y
 
-I. Gobernación.
+II. La omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes a la comprobación del cumplimiento de disposiciones fiscales.
 
-II. Hacienda.
+###### Artículo 83.
 
-III. Seguridad Pública.
+Siempre que se omita el pago de una contribución cuya determinación corresponda a los servidores públicos municipales, a los notarios o corredores públicos titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes, los accesorios serán a cargo de éstos.
 
-IV. Comisión de Desarrollo Social.
+###### Artículo 84.
 
-V. Desarrollo Económico, Turismo y Asuntos Internacionales.
+Las autoridades fiscales, al imponer multas por la comisión de infracciones señaladas en este Código y demás disposiciones fiscales, deberán:
 
-VI. Planeación Urbana y Rural.
+I. Fundar y motivar debidamente su resolución;
 
-VII. Agua Potable, Alcantarillado y Saneamiento.
+II. Tomar en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de combatir prácticas tendientes a evadir la prestación fiscal o a infringir en cualquier otra forma las disposiciones legales o reglamentarias;
 
-VIII. Obras Públicas.
+III. Considerar como agravante a la infracción fiscal, el hecho de que el infractor sea reincidente. Se da la reincidencia:
 
-IX. Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos.
+a) Tratándose de infracciones que tengan como consecuencia la omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga esa consecuencia.
 
-X. Alumbrado y limpia.
+b) Tratándose de infracciones que no impliquen omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo y fracción de este Código.
 
-XI. Cultura;
+Para determinar la reincidencia, se considerarán únicamente las infracciones cometidas dentro de los últimos tres años.
 
-XII. Ecología, Parques, Jardines y Panteones.
+IV. Considerar como agravante en la comisión de una infracción fiscal, cuando se dé cualquiera de los siguientes supuestos:
 
-XIII. Educación, Juventud y Deporte.
+a) Que la infracción sea en forma continua.
 
-XIV. Igualdad y Género
+b) Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a las que correspondan varias multas.
 
-XV. Derechos Humanos
+Cuando los responsables de una infracción sean varios, se les aplicará en forma individual la sanción que le corresponda, independientemente de la que se imponga a los demás infractores.
 
-XVI. Todas que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+###### Artículo 85.
 
-Síndicos.
+Cuando por diferentes contribuciones se deba presentar una misma declaración o aviso en un formato oficial y se omita hacerlo por alguna de ellas, se aplicará una multa por cada contribución no declarada u obligación no cumplida.
 
-I. Procurador.
+###### Artículo 86.
 
-II. De Hacienda.
+Cuando se incurra en agravantes en la comisión de infracciones fiscales, las multas se aumentarán en una cantidad igual al importe de las contribuciones o ingresos retenidos o recaudados y no enterados.
 
-###### ARTÍCULO 83.
+###### Artículo 87.
 
-Las Comisiones permanentes serán integradas a propuesta del Presidente Municipal, a más tardar en la segunda Sesión Ordinaria del Cabildo, podrán ser modificadas previo acuerdo del mismo y durarán todo el periodo Constitucional, asumiendo las facultades y obligaciones contempladas en la ley que en materia municipal expida el Poder Legislativo del Estado, así como en el presente Código y demás reglamentos que al efecto se expidan.
+Tratándose de la omisión parcial de contribuciones por error aritmético en las declaraciones, se impondrá una multa del diez al veinte por ciento de las contribuciones omitidas.
 
-El Cabildo por decisión de sus dos terceras partes podrá remover de su cargo a quien integre una Comisión cuando existan para ello causas graves que pongan en riesgo el buen funcionamiento de la Comisión a la que pertenece.
+En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro de los cinco días hábiles siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
 
-###### ARTÍCULO 84.
+###### Artículo 88.
 
-Podrá haber Comisiones colegiadas integradas por un mínimo de dos y un máximo de cinco integrantes del H. Ayuntamiento, y en las cuales el Regidor que la presida será el responsable del buen funcionamiento de la Comisión y de rendir informe de actividades al Secretario del H. Ayuntamiento.
+Son infracciones cuya responsabilidad recae sobre los sujetos pasivos de una prestación fiscal:
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2009)</small>
+I. No inscribirse en el padrón municipal o hacerlo fuera de los plazos legales, salvo cuando la solicitud se presente de manera espontánea;
 
-Cada Regidor deberá presidir una Comisión permanente como mínimo y no podrá integrarse en más de cinco Comisiones permanentes.
+II. No incluir, en las manifestaciones para su inscripción, las actividades por las que sea contribuyente habitual;
 
-Las Comisiones serán encomendadas a los Regidores y Síndicos en congruencia con su profesión, aptitudes y experiencia.
+III. Falsear datos o información a las autoridades fiscales;
 
-###### ARTÍCULO 85.
+IV. No refrendar su inscripción o registro en el padrón municipal o hacerlo fuera de los plazos legales establecidos;
 
-Para el mejor desempeño de sus funciones los Regidores trabajarán en Comisiones cuyas funciones serán las establecidas en el artículo 18 del presente Código, debiendo rendir al Cabildo un informe de las actividades desarrolladas durante el mes, así como de las incidencias de los ramos a su cargo.
+V. Obtener o usar más de una clave de registro que corresponda para el cumplimiento de las obligaciones fiscales municipales;
 
-Los titulares de las Comisiones deberán entregar al Secretario del H. Ayuntamiento a más tardar al inicio de la Sesión Ordinaria el informe por escrito de su Comisión a efecto de que pueda ser discutido en la propia Sesión. El titular o cualquiera de los miembros de la Comisión podrán leer el informe o una síntesis del mismo, no debiendo excederse de más de tres minutos para dicha lectura.
+VI. Manifestar negociaciones propias o realizar actividades gravables a través de terceros, sin pagar las contribuciones correspondientes;
 
-En caso de incumplimiento a lo dispuesto en el párrafo anterior, se sancionará de conformidad con lo dispuesto en el Artículo 67 fracción I de este ordenamiento.
+VII. No tener los permisos, cédulas, boletas de registro o cualquier otro documento exigido por las disposiciones fiscales, en los lugares que para el efecto se señalen; no citar su clave de registro o cuenta, según el caso, en las declaraciones, manifestaciones, solicitudes y gestiones que hagan ante cualquier dependencia;
 
-###### ARTÍCULO 86.
+VIII. Abrir una negociación o establecimiento comercial, industrial o de prestación de servicios sin solicitar previamente la cédula de empadronamiento y, en su caso, la licencia correspondiente o sin llenar los requisitos exigidos por los ordenamientos fiscales;
 
-En el caso de que un Regidor o Síndico ajeno a una Comisión quisiera participar en las reuniones de trabajo de la misma para la discusión de un tema en específico, éste deberá solicitar su intervención al Presidente de la Comisión en cuestión, pudiendo en su caso participar con voz pero sin voto.
+IX. Tener en las negociaciones o establecimientos comerciales, industriales o de prestación de servicios, instalaciones diversas de las aprobadas por el Ayuntamiento, cuando las disposiciones legales exijan tal aprobación, o modificarlas sin el correspondiente aviso o permiso;
 
-Los titulares de las dependencias del Ayuntamiento relacionadas con los asuntos que se analicen en el seno de las Comisiones deberán comparecer a las sesiones de trabajo de éstas y proporcionar la información que se les requiera cuando sean citados por escrito por el Presidente de la Comisión.
+X. No entregar oportunamente a las autoridades fiscales los comprobantes de pago de las prestaciones fiscales, cuando lo exijan las disposiciones relativas;
 
-Los titulares de las dependencias del Ayuntamiento que hayan sido debidamente citados para acudir a las reuniones de trabajo de las Comisiones y que sin embargo no asistan a las mismas serán sancionados de la siguiente manera:
+XI. Faltar a la obligación de extender comprobantes, facturas o cualesquiera otros documentos que señalen las leyes fiscales; no exigirlos cuando tengan obligación de hacerlo; o no consignar por escrito los actos, convenios o contratos que, de acuerdo con las disposiciones fiscales, deben constar en esa forma;
 
-La primera ocasión con amonestación privada; en caso de reincidencia se le sancionará con amonestación pública, en caso de una segunda reincidencia se le multará con cien días de salario mínimo general vigente en el Estado, misma que se hará efectiva por la Secretaría de Finanzas Públicas Municipales con posterioridad a la notificación que para ello reciba por parte del Presidente de la Comisión; notificación que deberá acompañarse con copia simple de la minuta debidamente formalizada y del citatorio correspondiente a la reunión en la que se dio la falta sancionada.
+XII. No presentar, no proporcionar o hacerlo extemporáneamente los avisos, declaraciones, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales; no comprobarlos o no aclararlos, cuando las autoridades fiscales lo soliciten;
 
-###### ARTÍCULO 87.
+XIII. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias o documentos a que se refiere la fracción anterior, incompletos, inexactos o con errores que traigan consigo la evasión de una prestación fiscal;
 
-Los integrantes de una Comisión tendrán como obligación el sostener al menos una reunión mensual con los responsables de las áreas administrativas a su cargo, a efecto de estar enterados debidamente del funcionamiento de la administración. Las Comisiones colegiadas deberán tener además al menos una reunión interna mensual en las que se traten los asuntos competencia de la misma, las cuales deberán ser citadas por el titular con cuando menos 24 horas de anticipación y por escrito, y en la cual se levantará minuta donde se asentará una síntesis del tema tratado, de las propuestas, conclusiones y en general de todas las incidencias de la reunión, misma que deberá ser firmada por los miembros presentes de la Comisión y anexada al informe mensual que se entrega al Secretario del H. Ayuntamiento.
+XIV. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados;
 
-A los Síndicos y Regidores integrantes de las Comisiones que no asistan a las reuniones de trabajo les será disminuida de su salario la parte proporcional que corresponda a las horas de trabajo en que se llevó a cabo la reunión, salvo en aquellos casos en que se acredite que su inasistencia se debió a una causa grave.
+XV. No pagar, en forma total o parcial, las contribuciones y productos dentro de los plazos señalados por las leyes fiscales;
 
-En caso de que un Síndico o un Regidor no asista a tres reuniones de trabajo en Comisiones en forma consecutiva a pesar de haber sido debidamente convocado, le será descontado un día de salario a manera de sanción, previa notificación que el Presidente de la Comisión haga al Secretario de Finanzas Públicas con ese fin.
+XVI. Evadir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones u otras maniobras similares;
 
-###### ARTÍCULO 88.
+XVII. Ostentar en forma no idónea o diversa de lo que señalen las disposiciones fiscales la comprobación del pago de una prestación fiscal;
 
-Cuando fuere turnado algún asunto en Sesión a una Comisión, ésta deberá rendir al Cabildo el dictamen respectivo en un lapso no mayor de 30 días hábiles; salvo en el caso de que la Comisión solicite al mismo cuerpo colegiado una prórroga única por un lapso de tiempo igual en razón de que no fue posible allegarse de los elementos necesarios para rendir su dictamen en el primer periodo de tiempo.
+XVIII. Traficar con los documentos o comprobantes del pago de prestaciones fiscales o hacer uso ilegal de ellos;
 
-Si la Comisión o Comisiones que deben dictaminar no lo hicieran en el término establecido en el párrafo anterior, sus miembros serán sancionados de conformidad con lo dispuesto por el Artículo 67 fracción I de este ordenamiento.
+XIX. Resistirse por cualquier medio no jurídico al desarrollo de cualquier acto relativo al procedimiento administrativo de ejecución o de las visitas domiciliarias practicadas por las autoridades fiscales; no suministrar los datos e informes que legalmente puedan exigir los visitadores; no mostrar los documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquier otra instalación y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado en relación con el objeto de la visita;
 
-###### ARTÍCULO 89.
+XX. No conservar la documentación comprobatoria durante el plazo que establece la fracción VII del artículo 61 de este Código. Asimismo, no conservar la documentación o bienes que les sean dejados en depósito en virtud de una visita domiciliaria o de la aplicación del procedimiento administrativo de ejecución;
 
-Las Comisiones especiales serán integradas a propuesta del Presidente Municipal o de cualquiera de los integrantes del H. Ayuntamiento con la aprobación de las dos terceras partes de los miembros del Cabildo, y serán presididas por el Regidor que cuente con la aprobación de la mayoría simple. Estas Comisiones deberán rendir sus dictámenes, en la siguiente Sesión Ordinaria a la fecha en que se turnen los asuntos de su competencia, debiendo cumplirse con lo señalado en los Artículos 85 y 87 en lo relativo al informe escrito y su lectura en la Sesión.
+XXI. Omitir total o parcialmente el pago de contribuciones o créditos fiscales de cualquier tipo y que sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación;
 
-###### ARTÍCULO 90.
+XXII. No dar aviso a la Tesorería, o hacerlo extemporáneamente respecto del cese de actividades definitivo; y
 
-Cuando un asunto fuere presentado ante el Cabildo y sea de competencia de dos o mas Comisiones, éstas trabajarán y dictaminarán en forma conjunta, debiendo cumplirse con lo señalado en los Artículos 85 y 87 en lo relativo al informe, minutas y su lectura en la Sesión.
+XXIII. Incurrir en cualquier otro acto u omisión, distinto de los enumerados en las fracciones anteriores, que en alguna forma, infrinja las disposiciones fiscales.
 
-###### ARTÍCULO 91.
+###### Artículo 89.
 
-De las atribuciones, así como el régimen de suplencias del H. Ayuntamiento, del Presidente Municipal, de los Regidores y Síndicos, se estará a lo dispuesto en la Ley que en materia municipal expida el Poder Legislativo del Estado.
+Son infracciones cuya responsabilidad corresponde a los encargados del Registro Público de la Propiedad, Notarios Públicos, Corredores Públicos, autoridades judiciales y, en general, de los fedatarios públicos:
 
-### CAPÍTULO X. Del Protocolo
+I. No proporcionar los avisos, datos, informes o documentos que establecen las disposiciones legales o incurrir, al hacerlo, en falsedad o error;
+
+II. Autorizar actos o contratos, cualesquiera que sean, relacionados con fuentes de ingresos establecidos en la legislación municipal, sin cerciorarse previamente de que los contratantes están al corriente en el cumplimiento de sus obligaciones fiscales y en el pago de los impuestos o derechos a su cargo;
+
+III. No proporcionar los avisos, informes o datos, o no exhibir los documentos en el plazo que fijen las disposiciones legales aplicables, o cuando lo pidan las autoridades competentes, presentarlos incompletos o inexactos y, en su caso, no aclararlos cuando las mismas autoridades lo soliciten;
+
+IV. Proporcionar los informes o documentos a que se refiere la fracción anterior, alterados o falsificados;
+
+V. No declarar o enterar las contribuciones municipales a la Tesorería en los términos que establecen las leyes fiscales, cuando les corresponda hacerlo por cuenta de los sujetos pasivos, de obligaciones fiscales que requieran de sus servicios; y
+
+VI. Coadyuvar con los infractores, en cualquier forma, en la evasión total o parcial del pago de las contribuciones, mediante alteraciones, simulaciones, ocultación u otras acciones u omisiones.
+
+###### Artículo 90.
+
+Son infracciones cuya responsabilidad recae en los servidores públicos, las siguientes:
+
+I. Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó la contribución correspondiente;
+
+II. Recibir el pago de una prestación fiscal y no enterar su importe de inmediato;
+
+III. No exigir el pago total de las prestaciones fiscales o recaudar, permitir u ordenar que se recaude alguna prestación fiscal, sin cumplir con los requisitos establecidos por las disposiciones aplicables y en perjuicio del control e interés fiscal;
+
+IV. No presentar ni proporcionar o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; o no prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias;
+
+V. Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados;
+
+VI. Asentar falsamente que se ha dado cumplimiento a las disposiciones legales o que se practicaron visitas domiciliarias o incluir datos falsos en las actas relativas;
+
+VII. No practicar las inspecciones, verificaciones o avalúos cuando tengan obligación de hacerlo;
+
+VIII. Intervenir, durante el ejercicio de sus funciones, en la tramitación o resolución de algún asunto en el que el servidor público tenga interés y del que se derive algún beneficio personal o de terceros con los que tenga relación familiar, laboral o de negocios, cuando estuviere impedido para hacerlo de acuerdo a las disposiciones legales;
+
+IX. Faltar a la obligación de guardar absoluta reserva respecto de los asuntos que conozcan, revelar los datos declarados por los contribuyentes o aprovecharse de ellos.
+
+X. Facilitar o permitir la alteración de declaraciones, avisos o cualquier otro documento o coadyuvar en cualquier forma para que se evadan las prestaciones fiscales;
+
+XI. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos;
+
+XII. Exigir cualquier prestación que no esté expresamente prevista en la ley, aun cuando se aplique a la realización de las funciones propias de su cargo; y
+
+XIII. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes.
+
+###### Artículo 91.
+
+Son infracciones cuya responsabilidad recae sobre terceros:
+
+I. Consentir o tolerar que se inscriban a su nombre en el padrón municipal negociaciones o establecimientos ajenos, así como realizar a nombre propio actividades gravables que correspondan a otra persona, cuando esto último traiga como consecuencia la omisión en el pago de contribuciones;
+
+II. No proporcionar avisos, informes, datos, documentos o no exhibirlos en el plazo fijado por las disposiciones fiscales o cuando las autoridades lo exijan con apoyo en sus facultades legales y, en su caso, no aclararlos cuando las mismas autoridades lo soliciten;
+
+III. Presentar los avisos, informes, datos o documentos, a que se refiere la fracción anterior, incompletos, inexactos, alterados o falsificados;
+
+IV. Autorizar o hacer constar documentos, inventarios, balances, asientos, valores o datos falsos o inexactos cuando actúen como contadores, peritos, valuadores o testigos;
+
+V. Asesorar o aconsejar a los contribuyentes para evadir el pago de una prestación fiscal o para infringir las disposiciones fiscales;
+
+VI. Ser cómplice, en cualquier forma, en la comisión de infracciones fiscales;
+
+VII. No enterar total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones fiscales retenidas, recaudadas o que debieron retener o recaudar;
+
+VIII. Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas prestaciones;
+
+IX. Adquirir, ocultar, retener o enajenar productos, mercancías, artículos y, en general, toda clase de bienes, a sabiendas de que no se cubrieron las contribuciones que en relación con aquellos se hubieran debido pagar;
+
+X. Aceptar documentos con los que pretenda comprobarse el cumplimiento de las obligaciones de las disposiciones fiscales, cuando no se haya cumplido con el pago de la prestación fiscal o no se acredite su cumplimiento de acuerdo con las disposiciones fiscales;
+
+XI. No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales;
+
+XII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos;
+
+XIII. No guardar absoluta reserva respecto de los asuntos que conozcan, cuando intervengan como representantes de los contribuyentes en juntas o reuniones que califiquen, tabulen o aprueben en su caso determinaciones para efectos fiscales; y
+
+XIV. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes.
+
+### CAPÍTULO III. DEL IMPUESTO SOBRE ESPECTÁCULOS PÚBLICOS
 
 ###### Art. 93.
 
@@ -2615,27 +2815,47 @@ Las renuncias de los Ministros de la Suprema Corte de Justicia, solamente proced
 
 > <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
-###### ARTÍCULO 92.
+###### Artículo 92.
 
-En las Sesiones del H. Ayuntamiento, el Presidente Municipal ocupará su lugar al centro y el Secretario del H. Ayuntamiento a su derecha, los Regidores y Síndicos ocuparán sus lugares alternativamente de acuerdo al orden en que fueron electos.
+Las autoridades fiscales impondrán las sanciones administrativas por infracción a las disposiciones de este Capítulo, de acuerdo a lo siguiente:
 
-###### ARTÍCULO 93.
+I. Las infracciones que establece el artículo 88 de este Código serán sancionadas con multa equivalente a los montos que a continuación se señalan:
 
-Cuando se trate de la asistencia del C. Gobernador del Estado a alguna Sesión del H. Ayuntamiento, el Presidente Municipal nombrará dos Comisiones para que la primera, lo acompañe al lugar donde se encuentra el recinto de sesiones, y la otra, lo acompañe cuando se retire.
+a) De cinco a quince días de salario mínimo, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV, con excepción de la multa prevista en el artículo 199 del presente ordenamiento, la cual se sancionara de conformidad con lo señalado en dicho artículo;
 
-###### ARTÍCULO 94.
+b) De quince a treinta días de salario mínimo, por infracción a las fracciones XX, XXII y XXIII;
 
-En el lugar de Sesiones del H. Ayuntamiento, el C. Gobernador tomará asiento al centro y el Presidente Municipal tomará asiento al lado derecho del C. Gobernador. Si asistiera el C. Presidente de la República o su representante, ocupará su lugar al centro, tomando asiento a la derecha el C. Gobernador y a la izquierda el C. Presidente Municipal. Para los demás invitados, se reservarán lugares especiales.
+c) De treinta a cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
 
-###### ARTÍCULO 95.
+II. La infracción que establece la fracción XXI del artículo 88 de este Código, se sancionará con multa de cien a ciento cincuenta por ciento del crédito omitido;
 
-Al entrar al recinto el Presidente de la República, el Gobernador del Estado o sus representantes, los presentes se pondrán de pie, y cuando salgan se hará lo mismo.
+III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de cincuenta a cien días de salario mínimo;
 
-###### ARTÍCULO 96.
+IV. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de setenta y cinco a cien días de salario mínimo; y
 
-En la Sesión de instalación del H. Ayuntamiento y en las Sesiones Solemnes, el Presidente Municipal, los Regidores y Síndicos deberán asistir con vestimenta formal y de color oscuro.
+V. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de cuarenta y cinco a noventa días de salario mínimo.
 
-### CAPÍTULO I. De las Dependencias y Unidades Administrativas Municipales
+Cuando por un acto o una omisión se incurra en varias infracciones a las que correspondan diversas multas, sólo se impondrá la multa mayor.
+
+Los ingresos que el Municipio obtenga por la aplicación de multas y sanciones establecidas en disposiciones reglamentarias, así como en otros ordenamientos de carácter hacendario, se enterarán de conformidad con los montos que establezca el capítulo correspondiente de este Código y de conformidad con los ordenamientos que las contengan.
+
+###### Artículo 93.
+
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo o a las consideradas en sus propios artículos, se sancionará con multa de cinco a cien días de salario mínimo.
+
+###### Artículo 94.
+
+Los delitos fiscales son de comisión intencional, dirigidos a causar un daño patrimonial al erario municipal, y sancionados por este Código.
+
+###### Artículo 95.
+
+Para proceder penalmente por los delitos previstos en este Título, será necesario que el Síndico formule la querella respectiva; en los casos previstos por el artículo 111 de este Código, cualquier persona podrá denunciar los hechos ante el Ministerio Público. El derecho para formular la querella por delitos fiscales prescribirá en un año, a partir del día en que se tenga conocimiento del delito; y en tres años, independientemente de esta circunstancia.
+
+###### Artículo 96.
+
+El que tenga conocimiento de un delito procederá a comunicarlo por escrito a la autoridad fiscal, precisando los hechos que lo constituyen. Lo anterior tendrá el carácter de confidencial y, si un servidor público violare esta disposición, se le aplicará la sanción prevista en el artículo 111, fracción I, inciso b) de este Código. Si se tratare de un particular, se le impondrá la sanción que corresponda.
+
+### CAPÍTULO IV. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
 
 ###### Art. 100.
 
@@ -2711,13 +2931,9 @@ Corresponde al Poder Judicial de la Federación en los términos de la Ley respe
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ABRIL DE 1986)</small>
 
-## TITULO SEGUNDO.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO II. De las Funciones y Atribuciones de los Servidores Públicos Municipales
-
-APARTADO PRIMERO
-
-De la Secretaría Particular
+### CAPÍTULO V. DEL IMPUESTO SOBRE JUEGOS PERMITIDOS Y EN GENERAL LA EXPLOTACIÓN COMERCIAL DE CUALQUIER EQUIPO MECÁNICO, ELECTRÓNICO O SIMILAR
 
 ###### Art. 107.
 
@@ -3043,721 +3259,37 @@ Los Estados estarán facultados para celebrar esos convenios con sus Municipios,
 
 Los Estados pueden arreglar entre sí, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación del Congreso de la Unión.
 
-###### ARTÍCULO 97.
+###### Artículo 97.
 
-La Presidencia tiene a su cargo el despacho de asuntos que expresamente le confieren la Ley que en materia municipal expida el Poder Legislativo del Estado, los acuerdos que emanen de las Sesiones del H. Ayuntamiento y el presente ordenamiento.
+Serán responsables de la comisión de delitos fiscales, quienes:
 
-(REFORMADO, P.O. 21 DE FEBRERO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
+I. Realicen la conducta o hecho, tipificado y legalmente descrito en el Código;
 
-###### ARTÍCULO 98.
+II. Concierten, maquinen o asesoren en su ejecución;
 
-El trámite y resolución de los asuntos, competencia del Municipio de Aguascalientes, corresponde originalmente al Presidente Municipal, quien para su mejor realización, podrá delegar sus facultades en cualquiera de los servidores públicos de la administración pública municipal, sin perder por ello su ejercicio directo y responsabilidad.
+III. Concreten su realización;
 
-Los titulares de cada una de las dependencias y entidades de la administración pública municipal, acordarán directamente con el Presidente Municipal o con quien éste determine, y deberán cumplir los requisitos señalados en la Ley que en materia municipal expida el Poder Legislativo del Estado.
+IV. Lo realicen conjuntamente;
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes Unidades Administrativas:
+V. Presten dolosamente ayuda en su realización; o
 
-Secretaría Particular;
+VI. Encubran su ejecución.
 
-Oficina Ejecutiva del Presidente Municipal;
+Cuando el delito se cometa por medio de persona moral, el responsable será el representante legal de ésta, independientemente de la responsabilidad que los socios tengan en la comisión del ilícito.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+###### Artículo 98.
 
-Secretariado Técnico del Consejo de la Ciudad;
+Serán responsables de encubrimiento en los delitos fiscales quienes, sin previo acuerdo y sin haber participado en ellos, después de su ejecución:
 
-Comité Municipal para el Desarrollo Integral de la Familia;
+I. Con ánimo de dominio, lucro o uso, adquieran, trasladen, reciban u oculten el producto u objeto del delito, a sabiendas de que provenía de éste, o sin tomar las debidas precauciones para cerciorarse de su legítima procedencia o que, de acuerdo a las circunstancias, debían presumir su ilegitimidad o ayuden a otro para los mismos fines; o
 
-Dirección General del Sistema para el Desarrollo Integral de la Familia;
+II. Ayuden en cualquier forma al inculpado a eludir las investigaciones de la autoridad con el propósito de evadirse de la acción de la justicia, o bien oculten, alteren, destruyan o hagan desaparecer las huellas, vestigios, pruebas o instrumentos del delito o aseguren para el inculpado el objeto o provecho del mismo.
 
-Coordinación General de Comunicación Social;
+En los casos previstos por la fracción I de este artículo, si el delito se comete con ánimo de dominio o uso se sancionará a los responsables con prisión de tres meses a dos años; si es con ánimo de lucro, con prisión de un año a cuatro años.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+En los supuestos de la fracción II, se impondrá sanción de seis meses a tres años de prisión.
 
-Coordinación General de Delegaciones Urbanas y Rurales;
-
-Contraloría Municipal;
-
-Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
-
-Secretaría de Finanzas Públicas;
-
-Secretaría de Obras Públicas;
-
-Secretaría de Administración;
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
-
-Secretaría de Desarrollo Social;
-
-Secretaría de Desarrollo Urbano;
-
-Secretaría de Servicios Públicos;
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
-
-Secretaría Seguridad (sic) Pública; y
-
-Secretaría de Medio Ambiente y Desarrollo Sustentable.
-
-I.- PRESIDENCIA MUNICIPAL
-
-Asistente del C. Presidente
-
-Secretario Privado del C. Presidente
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-II.- SECRETARÍA PARTICULAR
-
-Dirección de Atención Institucional
-
-Departamento de Relaciones Públicas
-
-Departamento de Atención a la Ciudadanía
-
-Departamento de Giras y Eventos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-III.- OFICINA EJECUTIVA DEL PRESIDENTE MUNICIPAL
-
-Coordinación General de Proyectos Estratégicos.
-
-Dirección de Vinculación y Convivencia Ciudadana.
-
-Departamento de Vinculación.
-
-Departamento de Asuntos Religiosos.
-
-Dirección de Estrategia Institucional.
-
-Departamento de Gestión de Proyectos.
-
-Departamento de Evaluación de Desempeño
-
-Dirección de Coordinación de Gabinetes
-
-Departamento de Programación y Estudios de Opinión
-
-Departamento de Seguimiento de Gabinetes Temáticos
-
-Dirección de Políticas Financieras.
-
-Dirección de Estrategia y Análisis Político
-
-Departamento de Análisis Político
-
-Departamento de Estrategia e Información
-
-Dirección de Cooperación, Financiamiento y Asuntos Internacionales.
-
-Departamento de Enlace Internacional.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-IV.- SECRETARIADO TÉCNICO DEL CONSEJO DE LA CIUDAD;
-
-Departamento de Capacitación
-
-Departamento de Enlaces Ciudadanos
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-V.- COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
-
-Presidenta del Sistema D.I.F. Municipal.
-
-Coordinación Operativa General de Voluntariado.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-VI.- DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA:
-
-Departamento Jurídico.
-
-Departamento de Comunicación Social.
-
-Departamento de Trabajo Social y Atención a personas con discapacidad.
-
-Dirección Administrativa.
-
-Departamento de Recursos Materiales.
-
-Departamento de Recursos Humanos.
-
-Dirección de Programas Institucionales.
-
-Departamento de Servicios Médicos.
-
-Departamento de Salud Mental.
-
-Dirección de Desarrollo Familiar Comunitario.
-
-Departamento de Atención a Adultos Mayores.
-
-Departamento de Atención a la Juventud.
-
-Departamento de Desarrollo Infantil.
-
-Coordinación de CEDECOS.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-VII.- COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
-
-Departamento de Producción Gráfica.
-
-Departamento de Comunicación Digital.
-
-Departamento de Información.
-
-Departamento de Difusión.
-
-Departamento de Análisis y Síntesis.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-VIII.- CONTRALORÍA MUNICIPAL
-
-Coordinación Jurídica.
-
-Coordinación de Atención Ciudadana y Quejas.
-
-Dirección de Auditoría Operacional y de Gestión.
-
-Departamento de Control de Procesos.
-
-Departamento de Revisión al Ejercicio de Recursos Federales y Municipales.
-
-Departamento de Auditoría de Información Contable.
-
-Dirección de Auditoría de Obra Pública.
-
-Departamento de Evaluación a Obras Públicas.
-
-Departamento de Evaluación a Servicios Públicos.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
-
-Coordinación Administrativa
-
-Departamento de la Junta Municipal de Reclutamiento.
-
-Coordinación Administrativa de Regidores y Síndicos.
-
-Coordinación de Asuntos de Cabildo.
-
-Coordinación de Calidad en la Gestión.
-
-Dirección de Asuntos Internos de Seguridad Pública y Tránsito.
-
-Departamento de Procedimientos, Registro y Estadística.
-
-Departamento de Investigación y Control de Confianza.
-
-Dirección de Asuntos Jurídicos.
-
-Coordinación Jurídica de lo Contencioso.
-
-Coordinación Jurídico-Legislativa.
-
-Departamento de Asuntos de Honor y Justicia.
-
-Dirección de Justicia Municipal.
-
-Departamento de Servicios Médicos, Psicología y Trabajo Social.
-
-Dirección de Reglamentos.
-
-Coordinación de Licencias.
-
-Coordinación de Verificación,
-
-Dirección de Mercados, Estacionamientos y Áreas Comerciales.
-
-Departamento de Mercados y Estacionamientos.
-
-Departamento de Áreas Comerciales.
-
-Coordinación Municipal de Protección Civil
-
-Departamento de Inspección y Capacitación.
-
-Departamento Operativo de Protección Civil.
-
-Departamento de Atención Médica Prehospitalaria.
-
-Departamento de Bomberos.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-X.- SECRETARÍA DE FINANZAS PÚBLICAS
-
-Departamento de Ejecución, Apremios e Inspección Fiscal.
-
-Departamento de Auditoría Interna.
-
-Departamento de Administración y Deuda Pública.
-
-Coordinación de Control de Gestión
-
-Departamento de Análisis y Seguimiento
-
-Departamento de Soporte Técnico
-
-Dirección de Ingresos.
-
-Departamento de Impuestos Predial e ISABI.
-
-Departamento de Licencias Comerciales.
-
-Departamento de Control Fiscal.
-
-Departamento de Obras por Cooperación.
-
-Departamento de Recaudación.
-
-Departamento de Control Vehicular
-
-Dirección de Egresos.
-
-Departamento de Presupuestos.
-
-Departamento de Control Financiero.
-
-Departamento de Control Financiero de la Obra Pública y Programas Federales.
-
-Departamento de Control Presupuestal de la Obra Pública y Programas Federales.
-
-Dirección de Información Financiera
-
-Departamento de Contabilidad.
-
-Departamento de Cuenta Pública.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XI.- SECRETARÍA DE OBRAS PÚBLICAS.
-
-Coordinación Jurídica.
-
-Departamento de Calidad y Fallas Geológicas.
-
-Departamento de Atención Ciudadana.
-
-Dirección Administrativa.
-
-Departamento de Compras.
-
-Departamento de Administración y Finanzas.
-
-Departamento de Informática.
-
-Dirección de Planeación y Proyectos de Obra.
-
-Departamento de Proyectos.
-
-Departamento de Estructuras.
-
-Dirección de Costos y Licitación de Obra.
-
-Departamento de Expedientes Técnicos y Costos.
-
-Departamento de Licitación y Control de Obra.
-
-Dirección de Supervisión de Obra.
-
-Departamento de Supervisión de Edificación.
-
-Departamento de Supervisión de Urbanización.
-
-Dirección de Conservación y Mantenimiento de Obra.
-
-Departamento de Infraestructura Urbana.
-
-Departamento de Conservación y Mantenimiento.
-
-Departamento de Parque de Maquinaria y almacén.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XII.- SECRETARÍA DE ADMINISTRACIÓN
-
-Coordinación Administrativa.
-
-Dirección Jurídica.
-
-Departamento Jurídico de Recursos Humanos y Recursos Materiales.
-
-Dirección de Tecnologías de la Información y Comunicación.
-
-Departamento de Servicios e Infraestructura.
-
-Departamento de Soporte Técnico.
-
-Departamento de Desarrollo.
-
-Dirección de Recursos Humanos.
-
-Departamento de Remuneración al Personal.
-
-Departamento de Desarrollo de Personal.
-
-Departamento de Servicios Médicos y Seguridad e Higiene.
-
-Dirección de Recursos Materiales.
-
-Departamento de Archivo General Municipal.
-
-Departamento de Control Patrimonial.
-
-Departamento de Taller Gráfico.
-
-Departamento de Compras.
-
-Dirección de Servicios Generales.
-
-Departamento de Mantenimiento.
-
-Departamento de Intendencia.
-
-Departamento de Mantenimiento y Reparación de Vehículos.
-
-Dirección de Desarrollo Organizacional y Eficiencia Presupuestal.
-
-Departamento de Desarrollo Organizacional y Procesos.
-
-Departamento de Auditoría, Mejora Continua y Normatividad.
-
-Departamento de Seguimiento y Eficiencia Presupuestal.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-XIII.- SECRETARÍA DE DESARROLLO SOCIAL.
-
-Coordinación Administrativa.
-
-Departamento de Seguimiento y Control de Gestión.
-
-Departamento de Recursos Humanos y Eficiencia Presupuestal.
-
-Dirección de Educación Cultura Física y Deporte.
-
-Departamento de Cultura Física y Deporte.
-
-Departamento de Gestión y Apoyos Deportivos.
-
-Departamento de Educación.
-
-Dirección de Desarrollo Social.
-
-Departamento de Promoción.
-
-Departamento de Organización y Concertación.
-
-Dirección de Programas Sociales.
-
-Departamento de Programas Federales.
-
-Departamento de Programas Municipales.
-
-Departamento de Programas para la Convivencia.
-
-Dirección de Desarrollo Económico y Turismo.
-
-Departamento de Proyectos Productivos.
-
-Departamento de Vinculación Empresarial y Capacitación para el Empleo.
-
-Departamento de Turismo.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XIV.- SECRETARÍA DE DESARROLLO URBANO.
-
-Asistente Administrativo.
-
-Coordinación Jurídica.
-
-Departamento de Atención Ciudadana.
-
-Dirección de Control Urbano.
-
-Departamento de Licencias de Construcción.
-
-Departamento de Supervisión.
-
-Departamento de Usos de Suelo.
-
-Departamento de Imagen Urbana.
-
-Dirección de Fraccionamientos y Bienes Inmuebles Municipales.
-
-Departamento de Fraccionamientos.
-
-Departamento de Supervisión de Fraccionamientos y Áreas Municipales.
-
-Departamento de Bienes Inmuebles Municipales
-
-Departamento de Cartografía.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XV.- SECRETARÍA DE SERVICIOS PÚBLICOS
-
-Departamento de Atención Ciudadana.
-
-Departamento de Optimización de Recursos.
-
-Coordinación Jurídica.
-
-Coordinación General de Servicios Públicos.
-
-Dirección Administrativa.
-
-Departamento de Taller de Mantenimiento.
-
-Departamento de Compras.
-
-Departamento de Recursos Humanos.
-
-Departamento de Control Presupuestal.
-
-Dirección de Salud Pública.
-
-Departamento de Regulación Sanitaria.
-
-Departamento de Rastro.
-
-Departamento de Salud y Bienestar Animal.
-
-Dirección de Limpia y Aseo Público.
-
-Departamento de Aseo Público.
-
-Departamento de Recolección.
-
-Departamento de Residuos Sólidos.
-
-Departamento de Inspección y Concientización.
-
-Dirección de Alumbrado Público.
-
-Departamento de Proyectos y Supervisión.
-
-Departamento de Operación y Mantenimiento.
-
-Departamento de Edificios Públicos e Iluminación Ornamental.
-
-Dirección de Panteones.
-
-Departamento de Operación y Servicios.
-
-Departamento de Mantenimiento.
-
-Dirección de Parques y Jardines.
-
-Departamento de Parques y Jardines.
-
-Departamento de Parques Públicos.
-
-Departamento de Producción y Sanidad.
-
-Departamento de Operación y Servicios.
-
-Instituto de Convivencia y Desarrollo Línea Verde del Municipio de Aguascalientes. Órgano Desconcentrado.
-
-Dirección del Instituto
-
-Departamento de Administración y Planeación.
-
-Departamento de Programas Sociales.
-
-Departamento de Mantenimiento.
-
-(REFORMADA, P.O. 13 DE ENERO DE 2014) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
-
-XVI.- SECRETARÍA DE SEGURIDAD PÚBLICA.
-
-Secretaría Particular.
-
-Departamento de Comunicación Social.
-
-Departamento de Atención a la ciudadanía.
-
-Coordinación de Asuntos Jurídicos
-
-Dirección Administrativa.
-
-Departamento de Recursos Materiales y Financieros.
-
-Departamento de Recursos Humanos.
-
-Dirección de Policía Preventiva.
-
-Jefatura Operativa de Policía Auxiliar y Comercial.
-
-Jefatura Operativa de la Delegación Jesús Terán.
-
-Jefatura Operativa de la Delegación Insurgentes.
-
-Jefatura Operativa de la Delegación Morelos.
-
-Jefatura Operativa de la Delegación Área Centro.
-
-Jefatura Operativa Área Uno.
-
-Jefatura Operativa Especial.
-
-Jefatura Operativa de las Delegaciones Rurales.
-
-Dirección de Tránsito y Movilidad.
-
-Departamento de Transportes y Gestión de Infracciones.
-
-Departamento de Hechos de Tránsito y Peritaje.
-
-Departamento de Pensión Municipal.
-
-Coordinación Operativa.
-
-Coordinación de Ingeniería vial.
-
-Departamento de Sistema de Semáforos e Ingeniería de Tránsito.
-
-Departamento de Implementación y Señalización.
-
-Departamento de Estacionamiento Regulado.
-
-Departamento de Proyectos de Movilidad y Estudios de Tránsito.
-
-Dirección de Prevención del Delito.
-
-Coordinación Operativa para la Prevención.
-
-Departamento de Planeación de Programas Preventivos.
-
-Departamento de Implementación y Seguimiento de Programas.
-
-Departamento de Educación Vial.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LAS REFORMAS PUBLICADA EN EL P.O. 3 DE OCTUBRE DE 2016 TODOS AQUELLOS ORDENAMIENTOS JURÍDICOS MUNICIPALES QUE HAGAN REFERENCIA A LA DIRECCIÓN DE PROFESIONALIZACIÓN SE ENTENDERÁN APLICABLES A LA ACADEMIA DE POLICÍA MUNICIPAL]</small>
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-Academia de Policía Municipal.
-
-(REPUBLICADO, P.O. 3 DE OCTUBRE DE 2016)
-
-Coordinación de Seguimiento de Servicio de Carrera Policial.
-
-(REPUBLICADO, P.O. 3 DE OCTUBRE DE 2016)
-
-Departamento de Formación y Capacitación.
-
-(REPUBLICADO, P.O. 3 DE OCTUBRE DE 2016)
-
-Departamento de Evaluación.
-
-Dirección de Estado Mayor.
-
-Coordinación de Información y Estrategia.
-
-Departamento de Información y Estadística.
-
-Departamento de Planeación.
-
-Coordinación del Centro de Mando C-4.
-
-Departamento de Monitoreo de Alarmas y GPS.
-
-Departamento de Monitoreo de Videocámaras.
-
-Departamento de Radio Comunicación.
-
-Departamento de Emergencia 080.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XVII.- SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE.
-
-Dirección de Medio Ambiente y Cambio Climático.
-
-Departamento de Gestión Ambiental.
-
-Departamento de Recursos Naturales y Biodiversidad.
-
-Departamento de Educación Ambiental y Participación Ciudadana.
-
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
-
-XVIII.- COORDINACIÓN GENERAL DE DELEGACIONES URBANAS Y RURALES
-
-Delegación Urbana José María Morelos y Pavón.
-
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Social.
-
-Comisarios Municipales.
-
-Delegación Urbana Lic. Jesús Terán Peredo
-
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Social.
-
-Comisarios Municipales.
-
-Delegación Urbana Insurgentes.
-
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Social.
-
-Comisarios Municipales.
-
-Delegación Urbana Pocitos.
-
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Social.
-
-Comisarios Municipales.
-
-Delegación Rural Cañada Honda.
-
-Comisarios Municipales.
-
-Delegación Rural Calvillito.
-
-Comisarios Municipales.
-
-Delegación Rural Peñuelas.
-
-Comisarios Municipales.
-
-Delegación Rural Salto de los Salado.
-
-Comisarios Municipales.
-
-Dirección de Desarrollo Rural.
-
-### CAPÍTULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
-
-APARTADO PRIMERO
-
-Disposiciones Generales del Trabajo
+### CAPÍTULO VI. DE LA CONTRIBUCIÓN ADICIONAL SOBRE INGRESOS MUNICIPALES
 
 ###### Art. 117.
 
@@ -4131,319 +3663,55 @@ XIII bis.- Las instituciones a que se refiere el párrafo quinto del Artículo 2
 
 XIV.- La ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 
-###### ARTÍCULO 99.
+###### Artículo 99.
 
-Corresponde a la Secretaría Particular lo siguiente:
+En los procesos penales instaurados por la comisión de delitos fiscales, la acción penal se extinguirá cuando el perdón judicial se otorgue:
 
-I. Elaborar y mantener actualizada la agenda del Presidente Municipal.
+I. Expresamente por el Síndico;
 
-II. Atender a los funcionarios, comisionados, representantes de grupos y demás personas que soliciten entrevista con el Presidente Municipal.
+II. Una vez que el inculpado haya pagado el crédito fiscal y todos sus accesorios legales, originados por la comisión del ilícito de que se trate o, en su caso, que a juicio de la autoridad fiscal quede debidamente garantizado el interés del erario municipal; y
 
-III. Programar y supervisar las giras del Presidente Municipal.
+III. Antes de que se dicte sentencia definitiva.
 
-IV. Encargarse de la política de relaciones públicas de la Presidencia Municipal.
+El perdón judicial que se otorgue a uno de los inculpados beneficiará a los demás copartícipes o encubridores. No se podrá otorgar perdón, en ningún caso, al inculpado que durante los cinco años anteriores se le haya concedido el mismo beneficio por la comisión de delitos fiscales.
 
-V. (DEROGADA, P.O. 3 DE MARZO DE 2008)
+###### Artículo 100.
 
-VI. Las demás que el Presidente Municipal le encomiende.
+La persona condenada por delitos fiscales gozará de los beneficios que establece el Código Penal para el Estado, siempre y cuando se acredite que el interés fiscal ha quedado resarcido o garantizado plenamente.
 
-APARTADO SEGUNDO
+###### Artículo 101.
 
-Del Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado
+Cuando en la comisión de delitos fiscales intervengan o participen auditores, notificadores, técnicos fiscales, contadores, economistas, abogados o peritos, o de alguna otra profesión, o personas que tengan el carácter de autoridad fiscal, independientemente de las penas que les correspondan conforme al delito de que se trate en este Código, se les inhabilitará para ejercer su profesión o actividad, hasta por tres años, o definitivamente, según lo resuelva el Juez, conforme a las reglas generales establecidas en el Código Penal para el Estado de Veracruz.
 
-###### ARTÍCULO 100.
+###### Artículo 102.
 
-El Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado, promoverán el bienestar social para lograr el desarrollo integral de la familia y otorgarán asistencia social, con las siguientes atribuciones:
+Los servidores públicos a quienes se impute la comisión de un delito fiscal y estén sujetos a proceso, serán suspendidos en sus derechos laborales, a partir del momento en que se les dicte auto de formal prisión.
 
-I. Fortalecer el núcleo familiar a través de la promoción social, que tienda al mejoramiento de la vida del individuo, la familia y la sociedad en general.
+Emitida la resolución del proceso penal y que haya causado estado, el superior jerárquico del inculpado procederá a:
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+I. Si resultare inocente, ordenar la restitución de sus derechos; o
 
-Asimismo, sensibilizar al núcleo familiar y a la población, a través de campañas de educación encaminadas a eliminar prejuicios, estereotipos y otras actitudes que atentan contra el derecho de las personas a ser iguales, propiciando de esta forma el respeto y la convivencia con las personas con discapacidad.
+II. Si resultare culpable, ordenar el cese definitivo y turnar el expediente a la autoridad competente para que determine su inhabilitación.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+###### Artículo 103.
 
-II. Realizar estudios e investigaciones sobre los problemas de la familia, de las y los menores, de las personas adultas mayores, considerando a las mujeres y su problemática en especial en esta etapa de su ciclo de vida, de las personas con discapacidad y proponer soluciones adecuadas.
+Se considera que hay tentativa en los delitos fiscales, cuando exista en el sujeto activo del delito intención dirigida a cometerlos y se exteriorice en un principio de ejecución o en la realización de actos que debieran producirlos, si no se consuma por causas ajenas a su voluntad.
 
-III. Proporcionar servicios asistenciales a menores en estado de abandono, a las personas con discapacidad, personas sin recursos y senectos desamparados.
+La tentativa se sancionará con prisión de hasta las dos terceras partes de la que corresponda por el delito de que se trate, si éste se hubiese consumado.
 
-IV. Fomentar la educación para la integración social, a través de la enseñanza preescolar y extraescolar.
+Si el autor desistiere de la ejecución o impidiere la consumación del delito, no se le impondrá sanción alguna, a no ser que los actos ejecutados constituyan por sí mismos delito.
 
-V. Promover el desarrollo de la comunidad en el territorio del Municipio.
+###### Artículo 104.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+Para los efectos de este Código, se entenderá por delito continuado, aquel cuya acción se prolonga en el tiempo, con unidad de resolución, pluralidad de acciones y unidad de violación al bien jurídico tutelado.
 
-VI. Brindar servicios de asistencia jurídica y de orientación social a los menores, senectos, personas con discapacidad y en general a toda la población que no cuente con recursos o se encuentre socialmente desprotegida.
+En el delito continuado, la sanción podrá aumentarse hasta por una mitad más de la que resulte aplicable al delito de que se trate.
 
-VII. Intervenir en el ejercicio de la tutela de menores, que corresponda al Estado en términos de la Ley, y auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares que les afecten de acuerdo a la Ley.
+###### Artículo 105.
 
-VIII. Fomentar el sano crecimiento físico y mental de la niñez, la orientación crítica de la población hacia una conciencia cívica y en valores, y propiciar la recreación, el deporte y la cultura.
+Existe reincidencia, cuando el sancionado por sentencia ejecutoria comete otro delito en materia fiscal municipal.
 
-IX. Adecuar los objetivos y programas del sistema municipal a los que lleve a cabo el sistema estatal a través de acuerdos o convenios, encaminados a la orientación del bienestar social.
-
-X. Procurar y promover la coordinación con otras instituciones afines, cuyo objetivo sea la obtención del bienestar social.
-
-XI. Las demás que les confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XII. Nombrará un enlace de género para la debida coordinación de acciones con el Instituto Municipal de la Mujer de Aguascalientes;
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XIII. Formará parte de los Sistemas Municipales, de Prevención, atención, sanción y erradicación de la violencia contra las mujeres, y de igualdad sustantiva entre mujeres y hombres.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
-
-ARTÍCULO 100 BIS.- El Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado, en materia de violencia de género, considerará la desigualdad en que se encuentra, quien vive violencia familiar y consecuentemente:
-
-I. No impondrán procedimientos de conciliación ni de mediación entre pareja, y en los casos de que existan menores en la familia, atenderán en todo momento al interés superior de éstos.
-
-II. Se abstendrán de imponer así como recomendar psicoterapia de pareja y de familia.
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-ARTÍCULO 100 TER.- El Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes de Aguascalientes para el fortalecimiento familiar con el fin de proteger de forma integral los derechos de las niñas, niños y adolescentes, contará con las siguientes atribuciones:
-
-I. Elaborar un programa municipal y participar en el diseño del Programa Local del Estado;
-
-II. Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio, para que sean plenamente conocidos y ejercidos;
-
-III. Promover la libre manifestación de ideas de niñas, niños y adolescentes en los asuntos concernientes a su municipio;
-
-IV. Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes;
-
-V. Recibir quejas y denuncias por violaciones a los derechos contenidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección Local, sin perjuicio que ésta pueda recibirla directamente;
-
-VI. Auxiliar a la Procuraduría Local de Protección competente en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
-
-VII. Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
-
-VIII. Difundir y aplicar los protocolos específicos sobre niñas, niños y adolescentes que autoricen las instancias competentes de la Federación y del Estado de Aguascalientes;
-
-IX. Coordinarse con las autoridades de los órdenes de gobierno para la implementación y ejecución de las acciones y políticas públicas que deriven de la Ley General de los Derechos de Niñas, Niños y Adolescentes y de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes;
-
-X. Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes;
-
-XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales;
-
-XII. Contar con un programa de atención y con un área o con servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias locales y federales competentes.
-
-La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos de las niñas, niños y adolescentes, contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección Local de forma inmediata; y
-
-XIII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes, se asuman en el Sistema Nacional DIF y el Sistema DIF Estatal.
-
-APARTADO TERCERO
-
-De la Coordinación General de Comunicación Social
-
-###### ARTÍCULO 101.
-
-Corresponde a la Coordinación General de Comunicación Social:
-
-I. Coordinar los programas de información por los canales de comunicación adecuados, sobre las actividades del H. Ayuntamiento, de la Presidencia Municipal y sus Dependencias o Unidades Administrativas.
-
-II. Recopilar, procesar y analizar la información que resulte de utilidad, tanto para las Autoridades Municipales como para la comunidad.
-
-III. Mantener informado al H. Ayuntamiento, al Presidente Municipal y a las Dependencias o Unidades Administrativas de la Presidencia, sobre las manifestaciones de expresión pública y social relativa a su actuación.
-
-IV. Mostrar una imagen veraz y adecuada, del H. Ayuntamiento y Administración Municipal ante la sociedad.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-V. Emitir la normatividad en materia de comunicación social a que deberán sujetarse las dependencias del Gobierno Municipal, incluyendo el enfoque de género, que evite cualquier tipo de discriminación y expresiones o imágenes de sumisión de un género hacia otro;
-
-VI. Garantizar que la información proveniente del gobierno municipal se difunda a toda la población.
-
-VII. Realizar campañas publicitarias para dar a conocer a la ciudadanía los planes de trabajo y acciones emprendidas por el gobierno municipal.
-
-VIII. Organizar las conferencias que a los medios de comunicación ofrezcan el H. Ayuntamiento, el Presidente Municipal y funcionarios de la administración.
-
-IX. Presentar al Presidente Municipal los planes de trabajo, presupuesto y evaluaciones relativos a sus funciones.
-
-X. Cubrir las actividades y eventos de la Presidencia Municipal mediante material videograbado, archivándolo y brindando información de apoyo a los miembros del H. Ayuntamiento sobre los temas que se requiera.
-
-XI. Las demás que les confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ENERO DE 2014)</small>
-
-APARTADO CUARTO
-
-Secretariado Técnico del Consejo de la Ciudad
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
-
-###### ARTÍCULO 102.
-
-El Secretariado Técnico del Consejo de la Ciudad es el órgano auxiliar de dicho Consejo, dependiente del Presidente Municipal, que, a través de su titular y las unidades administrativas a su cargo, corresponde:
-
-I. Fungir como Secretario/a del Consejo de la Ciudad de Aguascalientes, auxiliando a la Presidencia en la conducción de las sesiones.
-
-II. Levantar el acta de cada sesión del Pleno del Consejo y de la Comisión Permanente;
-
-III. Someter al pleno del Consejo las actas para su aprobación al inicio de la sesión siguiente;
-
-IV. Dar seguimiento a los acuerdos del Consejo y de la Comisión Permanente.
-
-V. Conservar el archivo permanente de actas del Consejo, de las sesiones del pleno, de la comisión permanente, y de las comisiones temáticas, temporales o especiales que se conformen.
-
-VI. Validar con su firma todas las resoluciones y acuerdos tomados por el Pleno y la Comisión Permanente;
-
-VII. Gestionar acciones encomendadas por el Consejo y la Comisión Permanente, ante la ciudadanía, las entidades gubernamentales municipales, y en su caso, estatales o federales.
-
-VIII. Llevar el control y distribución de la correspondencia y dar cuenta al Consejo de la Ciudad de los asuntos de su competencia.
-
-X (SIC). Acordar con el Presidente Municipal y la Presidencia de la Comisión Permanente el despacho de los asuntos que le corresponden;
-
-XI. Rendir informe mensual de las actividades desempeñadas a la Comisión permanente del Consejo de la Ciudad y al Presidente Municipal, y cuando así se lo requiera, al Regidor o Sindico del ramo;
-
-XII. Vigilar que se cumpla con las disposiciones legales en todos los asuntos atendidos por el Consejo de la Ciudad;
-
-XIII. Apoyar a la comisión permanente en la gestión de proyectos avanzados, evaluando su pertinencia y viabilidad, con miras a conseguir apoyo y fortalecimiento entre las instancias gubernamentales y no gubernamentales, nacionales y extranjeras.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XIV. Desarrollar talleres de análisis para conocer las coyunturas y posicionamientos de la ciudadanía y las autoridades municipales sobre temas emergentes que requieren atención a través de políticas públicas concertadas, en especial sobre la condición social, cultural, política y los factores que impiden su pleno desarrollo;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XV. Promover la participación de la sociedad en las políticas públicas a través de la difusión de la información gubernamental tendientes a garantizar el efectivo goce y acceso a los servicios públicos municipales, así como a una vida libre de violencia;
-
-XVI. Fomentar la participación de los ciudadanos en los asuntos públicos mediante la promoción de la cultura de la legalidad;
-
-XVII. Apoyará en la gestión y logística necesaria encomendada por el Consejo de la Ciudad para realizar las acciones, desarrollar mecanismos y eventos tendientes a evaluar, medir y fortalecer las políticas públicas municipales;
-
-XVIII. Proporcionar información y cooperación técnicas a las dependencias de la administración pública municipal;
-
-XIX. Las demás que le encomiende el Consejo de la Ciudad, la Comisión Permanente a través de su presidencia, el Presidente Municipal, o le confiera la Ley.
-
-###### ARTÍCULO 103.
-
-(DEROGADO, P.O. 31 DE ENERO DE 2011)
-
-APARTADO QUINTO
-
-Contraloría Municipal
-
-###### ARTÍCULO 104.
-
-Corresponde a la Contraloría Municipal, como único órgano de control interno del Municipio de Aguascalientes, el despacho de los siguientes asuntos:
-
-I. Evaluar el Sistema de Control Interno en la administración pública municipal.
-
-II. Vigilar el control de los recursos patrimoniales del Municipio de Aguascalientes.
-
-III. Fijar, en su caso, las normas internas de carácter obligatorio necesarias para el ejercicio del control administrativo y contable.
-
-IV. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales como empresas paramunicipales, fideicomisos y organismos públicos descentralizados.
-
-V. Practicar auditorias, revisiones, visitas e inspecciones a las dependencias y entidades de la administración pública municipal como empresas paramunicipales, fideicomisos y organismos públicos descentralizados.
-
-VI. Vigilar el cumplimiento por parte de las dependencias y entidades municipales de las normas jurídicas y administrativas que rigen su funcionamiento.
-
-VII. Investigar de oficio o en atención a las quejas, a las denuncias y a los hechos o elementos detectados en las auditorias, revisiones, visitas e inspecciones practicadas por la Contraloría Municipal, las conductas de los servidores públicos municipales que impliquen presunta responsabilidad administrativa y en su caso, substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
-
-VIII. Instruir y resolver los recursos de revisión y demás recursos administrativos de las diferentes leyes administrativas vigentes, que le corresponda conocer a la Contraloría Municipal.
-
-IX. Dictaminar mensualmente la Cuenta de la Hacienda Pública Municipal que formula la Secretaría de Finanzas Públicas.
-
-X. Emitir las observaciones y las recomendaciones con carácter obligatorio que se deriven del cumplimiento de sus atribuciones y darles el seguimiento correspondiente.
-
-XI. Fincar pliegos preventivos de responsabilidad cuando detecte irregularidades por actos u omisiones de servidores públicos, en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores y de recursos económicos del Municipio o de aquellos concertados con la Federación y el Estado que se traduzcan en daños y perjuicios estimables en dinero, causados a la Hacienda Pública Municipal, de la Federación, del Estado o al patrimonio de sus entidades, organismos descentralizados, auxiliares y fideicomisos públicos.
-
-XII. Informar al Presidente Municipal y al Síndico de Hacienda sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la administración pública municipal.
-
-XIII. Turnar a las dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite a efecto de su atención y resolución.
-
-XIV. Interpretar para efectos jurídico-administrativos la legislación Municipal.
-
-XV. Ejecutar las funciones establecidas en este Código y en la legislación Federal, Estatal y Municipal aplicables para los órganos internos de control.
-
-XVI. Designar a su personal que auditará a las dependencias y entidades municipales como empresas paramunicipales, fideicomisos y organismos públicos descentralizados, así como normar y controlar su desempeño.
-
-XVII. Designar, para el adecuado desarrollo del Sistema de Control y Evaluación Interno Gubernamental, en los casos que así lo determine la Contraloría, Delegados de la propia ante las dependencias de la administración pública municipal.
-
-XVIII. Dictar las disposiciones que requiera la Contraloría Municipal para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la administración pública municipal, que previene el presente Código.
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XIX. Revisar que se cumpla en tiempo y forma con lo establecido en la Ley General de Contabilidad Gubernamental.
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XX. Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ENERO DE 2014)</small>
-
-APARTADO SEXTO
-
-De la Oficina Ejecutiva del Presidente Municipal
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
-
-###### ARTÍCULO 105.
-
-Corresponde a la Oficina Ejecutiva del Presidente Municipal:
-
-I. Fungir como enlace del Gobierno Municipal, con el Jefe de Gabinete del Gobierno del Estado de Aguascalientes, en coordinación con el Secretario del H. Ayuntamiento y Director General de Gobierno;
-
-II. Fungir corno enlace del Gobierno Municipal, con el Congreso del Estado, en coordinación con el Secretario del H. Ayuntamiento y Director General de Gobierno;
-
-III. Fungir como enlace del Gobierno Municipal, con las diferentes Asociaciones y Cultos Religiosos del municipio de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-IV. Establecer, coordinar y mantener las relaciones Nacionales e Internacionales del Municipio, la vinculación con los comités de las ciudades hermanas de México y el mundo, así como gestionar recursos de carácter internacional;
-
-V. Coordinar los servicios de asesoría y consultoría al titular de la presidencia municipal;
-
-VI. Realizar análisis, estudios y encuestas en materia de opinión pública y documentar los resultados y datos estadísticos.
-
-VII. Coordinarse con la Secretaria Particular de la Presidencia Municipal para el diseño, seguimiento y evaluación de la Agenda, así como para establecer las bases para la integración y contenido de las giras del Titular de la Presidencia Municipal;
-
-VIII. Coordinarse con la Coordinación General de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional;
-
-IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-X. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XVI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XVIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XIX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XXI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XXII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XXIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XXIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-XXV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-APARTADO SEXTO-BIS
-
-Coordinación General De Delegaciones Urbanas Y Rurales
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Al reincidente se le aplicará la sanción privativa de libertad que corresponda por el último delito cometido, la que podrá aumentarse hasta en tres años.
 
 ###### ARTÍCULO 105
 
@@ -4515,125 +3783,19 @@ APARTADO SÉPTIMO
 
 De las Secretarías
 
-###### ARTÍCULO 106.
+###### Artículo 106.
 
-Corresponde a las dependencias a que se refiere el Artículo 98 del presente Código por conducto de sus titulares, lo siguiente:
+Para los delitos señalados en este Título se aplicarán supletoriamente las disposiciones de los Códigos Penal y de Procedimientos Penales para el Estado de Veracruz de Ignacio de la Llave.
 
-I. Acordar con el Presidente Municipal, el despacho de los asuntos que les corresponden.
+###### Artículo 107.
 
-II. Rendir informe de las funciones desempeñadas al Cabildo, al Presidente Municipal, a la Comisión del ramo del H. Ayuntamiento o a la Contraloría Municipal, cuando así se les requiera.
+Las actas administrativas harán prueba plena en materia fiscal municipal, siempre que:
 
-III. Cumplir estrictamente con las disposiciones legales y administrativas que rigen su organización y funcionamiento.
+I. Sean elaboradas por autoridad fiscal competente;
 
-IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas.
+II. Intervengan, por lo menos, dos testigos de asistencia; y
 
-V. Formular y proponer al Presidente Municipal, los proyectos de planes y programas que les correspondan.
-
-VI. Proporcionar información y cooperación técnica, a las dependencias y entidades de la administración pública municipal.
-
-VII. Mantener permanente comunicación con la Dirección de Atención Ciudadana, a efecto de responder a las demandas y necesidades de la población.
-
-VIII. Participar con la Dirección de Modernización Tecnológica, en la modernización y simplificación de los sistemas administrativos.
-
-IX. Cumplir con la normatividad que emita la Dirección de Modernización Tecnológica, en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo.
-
-X. Observar las normas que la Coordinación General Comunicación Social emita respecto a toda comunicación oficial que se genere en las áreas de su competencia.
-
-XI. Asistir a las reuniones a que sea citado por las Comisiones del H. Ayuntamiento, las cuales se celebrarán de acuerdo a la regularidad requerida, y mantener una comunicación constante con los Regidores y Síndicos del ramo.
-
-XII. Emitir, modificar, actualizar o ratificar las normas, políticas y lineamientos que organicen y regulen la administración pública municipal en el ámbito de su competencia, las que deberán ser difundidas para su debida aplicación.
-
-XIII. Informar por escrito a la Contraloría Municipal sobre la emisión, modificación, actualización, ratificación y difusión de las disposiciones a que se refiere la fracción anterior.
-
-XIV. Proporcionar en tiempo y forma requerido por la Contraloría Municipal, todos los documentos, datos e informes que les sean solicitados.
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XV. Son responsables del control físico y salvaguarda de las entradas y salidas del almacén.
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XVI. Son Responsables de alimentar la información al Sistema de Contabilidad Gubernamental en lo que a cada una de sus áreas le corresponda.
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XVII. Remitir a la Secretaría de Finanzas su anteproyecto de Presupuesto de Egresos a más tardar el 20 de Septiembre de cada año.
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XVIII. Proporcionar a la Secretaría de Finanzas la información referente a los apoyos y subsidios que hayan sido otorgados, en términos y plazos de la normatividad establecida.
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XIX. Las demás que expresamente les señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
-
-APARTADO OCTAVO
-
-De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno
-
-###### ARTÍCULO 107.
-
-Son facultades y obligaciones del Secretario del H. Ayuntamiento y Director General de Gobierno las siguientes:
-
-I. Fungir como Secretario del H. Ayuntamiento.
-
-II. Vigilar el adecuado funcionamiento del archivo general del H. Ayuntamiento.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-III. Coordinar a las dependencias de la administración pública municipal a fin de mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, de igual manera, en todo momento velará que se garantice el derecho de las personas a una vida libre de violencia en el municipiocon (sic) especial atención y cuidado hacia las mujeres;
-
-IV. Organizar, vigilar y coordinar las funciones de la Junta Municipal de Reclutamiento.
-
-V. Expedir, por acuerdo del Presidente Municipal, los nombramientos de los servidores públicos municipales y llevar un registro de los mismos, así como de sus respectivas firmas.
-
-VI. Llevar el control y distribución de la correspondencia oficial y dar cuenta diaria al Presidente Municipal, de todos los asuntos que deban acordarse para su inmediato trámite.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-VII. Expedir las constancias de residencia y vecindad que soliciten los habitantes del Municipio a través de la Coordinación de Calidad en la Gestión, así como las certificaciones y demás documentos públicos que legalmente proceden, o los que acuerde el H. Ayuntamiento.
-
-VIII. Validar con su firma todos los documentos oficiales emanados del H. Ayuntamiento o de cualquiera de sus miembros; sin este requisito los acuerdos tomados no serán válidos.
-
-IX. Solicitar la publicación de leyes, decretos, bandos y reglamentos, y tener una colección ordenada y anotada de éstos, así como Periódicos Oficiales del Estado, circulares y órdenes relativas a los distintos ramos de la administración pública municipal.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-X. Regir las políticas jurídicas del Municipio por si o a través de la Dirección de Asuntos Jurídicos, sin que esto signifique en ningún caso que asuma la representación legal del Municipio, misma que corresponde al Síndico Procurador en términos de Ley.
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
-
-XI. Requerir información sobre el trámite y resolución de los asuntos tratados en las Direcciones, Coordinaciones y/o Departamentos Jurídicos de las Dependencias de la Administración Pública Municipal a efecto de evaluar su desempeño y articular las acciones necesarias para la salvaguarda de los intereses del H. Ayuntamiento de Aguascalientes, por sí o a través de la Dirección de Asuntos Jurídicos.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XII. Supervisar y evaluar las actividades que se realicen en materia jurídica por cualquiera de las dependencias de la Administración Pública Municipal, por si o a través de la Dirección de Asuntos Jurídicos, llevando el registro de las mismas desagregado por sexo.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-XIII. Requerir información sobre el trámite y resolución de los asuntos tratados en las Direcciones, Coordinaciones y/o Departamentos de las dependencias de la Secretaría del H. Ayuntamiento y Dirección de Gobierno a efecto de evaluar su desempeño y articular las acciones necesarias para salvaguarda de los intereses del H. Ayuntamiento de Aguascalientes, por sí o a través de la Coordinación de Calidad en la Gestión.
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
-
-XIV. Asesorar en todo momento a los titulares de las Direcciones, Coordinaciones y/o Departamentos Jurídicos de las dependencias de la Administración Pública Municipal a efecto de cumplir con las funciones de su competencia, por sí o a través de la Dirección de Asuntos Jurídicos.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2015)</small>
-
-XV. Expedir las constancias de notorio arraigo que acrediten los extremos que señala el artículo 7 fracción II de la Ley de Asociaciones Religiosas y Culto Público, así como el artículo 8 fracción V del Reglamento de la Ley de Asociaciones Religiosas y Culto Público.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XVI. Tener bajo su mando la Dirección de Asuntos Internos de Seguridad Pública encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los integrantes operativos que conforman la Secretaría de Seguridad Pública, llevando el registro de las denuncias motivadas por algún tipo de discriminación o negación de servicio en casos de violencia de género;
-
-> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2012)</small>
-
-XVII. Planear, ordenar y ejecutar todas las acciones que tengan relación con la verificación en la aplicación de la normatividad que en materia municipal establezcan las Leyes, el Código Municipal, Reglamentos y demás disposiciones legales aplicables.
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
-
-XVIII. Las demás que señale (sic) ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+III. Se asiente la firma del interesado o se haga constar el motivo o la causa de su negativa a firmar; pero cuando resulte imposible localizar al interesado, se asentarán las razones y circunstancias que justifiquen la ausencia.
 
 ###### ARTÍCULO 107
 
@@ -4657,311 +3819,73 @@ APARTADO NOVENO
 
 De la Secretaría de Finanzas Públicas
 
-###### ARTÍCULO 108.
+###### Artículo 108.
 
-Corresponde a la Secretaría de Finanzas Públicas lo siguiente:
+Los bienes muebles asegurados por la comisión de un delito fiscal, cuyo proceso hubiere concluido, se adjudicarán en forma definitiva a la Hacienda Pública Municipal, mediante resolución judicial, si después de un año, contado a partir del aseguramiento, no se reclamaren por quien tenga derecho para hacerlo.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+###### Artículo 109.
 
-I. Realizar las funciones, ejercer las facultades y cumplir con las obligaciones que le señala la Ley que en materia municipal expidan los Poderes Legislativos tanto Federal como del Estado.
+Comete el delito de falsificación fiscal quien, con el fin de obtener un lucro o provecho, o para causar daño o perjuicio al erario municipal, falsifique o altere documentación oficial; en este caso, se le impondrán las sanciones siguientes:
 
-II. Realizar las funciones, ejercer las facultades y cumplir con las obligaciones que le señala la Ley de Hacienda del Municipio de Aguascalientes, el presente Código y las demás disposiciones legales aplicables.
+I. De nueve meses a cuatro años de prisión, a quien falsifique sellos, contraseñas o marcas oficiales, firmas, rúbricas en forma total o parcial, grabe o manufacture, sin autorización de la autoridad fiscal, matrices, punzones, dados, clichés o negativos, semejantes a los que la propia autoridad usa para imprimir, grabar o troquelar comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
+II. De nueve meses a cuatro años de prisión, al que imprima, grabe o troquele, sin autorización de la autoridad fiscal, cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen como medios de control fiscal;
 
-III. Administrar y Gestionar el Sistema de Contabilidad Gubernamental en Coordinación con las diversas Dependencias y / o entidades de la Administración Pública Municipal de conformidad con lo establecido en la normatividad en la materia.
+III. De nueve meses a tres años de prisión, al que altere en sus características las cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal; y
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
+IV. De seis meses a dos años de prisión y una multa de treinta a quinientos días de salario mínimo, a quien forme las cosas y objetos señalados en las fracciones anteriores con los fragmentos de otros recortados o mutilados.
 
-IV. Llevar a cabo el análisis de la información contenida en la cuenta pública mensual con el fin de tomar medidas correctivas.
+###### Artículo 110.
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+Comete el delito de defraudación fiscal quien, mediante engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga o contribuya a obtener un beneficio indebido, en perjuicio del erario municipal, por alguno de los supuestos siguientes:
 
-V. Emitir y mantener actualizado el Manual de Lineamientos y Políticas Generales para el Control de los Recursos.
+I. Realizar actos simulados que tengan por objeto defraudar a la Hacienda Pública Municipal;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+II. Consignar en las declaraciones ingresos o utilidades menores que los realmente obtenidos, o aplicar deducciones falsas;
 
-VI. Emitir y mantener actualizado el Manual de Contabilidad.
+III. Proporcionar con falsedad a las autoridades fiscales, los datos que obren en su poder y que sean necesarios para determinar la producción, el ingreso gravable o las contribuciones que cause;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+IV. Ocultar a las autoridades fiscales, total o parcialmente, la producción sujeta a impuestos o el monto de las ventas;
 
-VII. Revisar y Firmar la Cuenta de la Hacienda Pública del Municipio.
+V. No expedir los documentos o comprobantes fiscales con los requisitos establecidos por las disposiciones aplicables para acreditar el pago de una contribución de esa naturaleza;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+VI. No enterar en tiempo y forma a las autoridades fiscales, las cantidades que hubiere retenido o recaudado de los contribuyentes, por concepto de contribuciones;
 
-VIII. Constituir Provisiones de conformidad con lo establecido en la Ley General de Contabilidad Gubernamental.
+VII. No mantener los registros de las operaciones contables, fiscales o sociales, conforme a las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+VIII. Destruir, ordenar o permitir la destrucción total o parcial de los registros contables que prevengan las leyes aplicables;
 
-IX. Proporcionar a la Secretaría de Administración toda la información que se deba publicar de conformidad con la normatividad en la materia.
+IX. Certificar hechos falsos o participar en cualquier forma en actos, manifestaciones o simulaciones que tengan por objeto engañar al Fisco Municipal;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+X. Utilizar sellos, documentación u otro medio de control fiscal falsificados o alterados; y
 
-X. Formular y emitir en los lineamientos para definir la Estructura Presupuestal en coordinación con el Instituto Municipal de Planeación.
+XI. Permitir el uso de su nombre para manifestar negociaciones ajenas.
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+El delito de defraudación fiscal se sancionará con pena de tres meses a cuatro años de prisión, si el monto de la prestación fiscal defraudada no excede de mil días de salario mínimo, y con prisión de un año a seis años, si dicho monto excede de esa cantidad.
 
-XI. Las demás que le señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+Cuando no se pueda determinar la cuantía del impuesto que se defraudó, la pena será de tres meses a seis años de prisión.
 
-APARTADO DÉCIMO
+No se procederá legalmente si quien hubiere cometido el delito entera espontáneamente la contribución omitida, con sus accesorios, antes de que la autoridad fiscal lo descubra. Para la aplicación de sanciones se tomará en cuenta el monto de las contribuciones defraudadas dentro de un mismo período fiscal, aun cuando se trate de contribuciones diferentes y de diversas acciones u omisiones.
 
-De la Secretaría de Obras Públicas
+###### Artículo 111.
 
-###### ARTÍCULO 109.
+Comete el delito de ejercicio indebido de la función pública en materia fiscal, el servidor público que ordene o realice cualquier acto ilegal o deje de cumplir con los deberes de su encargo o función, en perjuicio del erario municipal, de los derechos de una persona física o moral o en beneficio propio o ajeno. Se impondrá prisión de:
 
-Corresponde a la Secretaría de Obras Públicas:
+I. De tres meses a dos años, a quien:
 
-I. Ejecutar el Programa Municipal de Obra Pública, tomando en cuenta los proyectos de planeación que elabore el Instituto Municipal de Planeación, así como lineamientos, directrices y prioridades que le señale el C. Presidente Municipal.
+a) Practique visitas domiciliarias o embargos sin mandamiento escrito de autoridad fiscal competente.
 
-II. Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes.
+b) Al que proporcione información confidencial, o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión en perjuicio del erario municipal, con el propósito de obtener un lucro indebido en beneficio propio o ajeno.
 
-III. Realizar e inspeccionar los trabajos de mantenimiento o conservación de las obras públicas municipales.
+II. De dos años a seis años, a quien:
 
-IV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio.
+a) Acepte como legales, documentos que presenten evidentes indicios de falsificación, con el propósito de realizar cualquier tipo de trámite del orden fiscal, incluso el de ostentar el pago de alguna prestación de ese carácter, sin que sea cierto.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
+b) Reciba dádivas, exija gratificaciones, extorsione a los contribuyentes u obtenga otros lucros indebidos, con objeto de realizar algún trámite de carácter fiscal, en razón de su encargo o comisión.
 
-V. Asesorar técnicamente a los Comités de Concertación y Participación Social que lo requieran, en lo concerniente a la realización de obras públicas municipales.
+c) Imprima u ordene imprimir formas de control fiscal o emita u ordene la emisión de sellos o grabados, sin la debida autorización; o bien los posea, proporcione, utilice o comercie con ellos.
 
-VI. Asesorar técnicamente a las instancias municipales que así lo requieran a través de la Dirección de Calidad y Fallas Geológicas o el Departamento correspondiente, en materia de discontinuidades en el subsuelo así como recabar la información necesaria para la expedición de la cartografía, planos o sistemas electrónicos que contengan la información disponible a la fecha de emisión por parte de la Secretaría de Desarrollo Urbano.
-
-VII. Supervisar y controlar las actividades de las diferentes áreas que integran esta Secretaría.
-
-VIII. Previo acuerdo con el Instituto Municipal de Planeación, expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública, así como para concursos de proyectos urbanos y arquitectónicos que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia.
-
-IX. Coordinarse, en el ámbito de sus facultades de acuerdo a su capacidad operativa, con las demás instancias municipales.
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
-
-X. Cumplir con lo establecido en la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes.
-
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
-
-XI. Contratar los servicios y adquirir los materiales y suministros requeridos para la ejecución de la obra pública que sea realizada directamente por esta Secretaría.
-
-Para el caso del supuesto establecido en el párrafo anterior, dicha facultad se encuentra limitada exclusivamente para el procedimiento de compra directa establecido en el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Aguascalientes
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XII. Registrar en el Sistema de Contabilidad Gubernamental todos los expedientes de Obra Pública.
-
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2016)</small>
-
-XIII. Realizar directamente o a través de terceros las obras o acciones destinadas a viviendas unifamiliares de hogares ubicados en las zonas identificadas como de atención prioritaria, de pobreza extrema, de alto y muy alto rezago social así como otras zonas del municipio que presenten carencias sociales contenidas en los indicadores del informe anual emitido por el CONEVAL, previo estudio socioeconómico o su equivalente, que incluyan construcción nueva, ampliación, remodelación, mantenimiento o reparación integral de las construcciones; otorgándolas al propietario del inmueble en la calidad de título gratuito todo ello apegado al marco de los programas y sus reglas de operación, ya sean federales, estatales y/o municipales. Por cada intervención que la secretaria realice, deberá signarse un convenio de concertación con el propietario especificando la autorización manifiesta para que la acción corresponda así como los alcances y metas de la acción programada, su costo y supervisión correspondiente.
-
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2016)</small>
-
-XIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal
-
-APARTADO DÉCIMO PRIMERO
-
-De la Secretaría de Administración
-
-###### ARTÍCULO 110.
-
-Corresponde a la Secretaría de Administración Municipal, lo siguiente:
-
-I. Planear, programar, coordinar y dirigir las actividades que tienen por objeto el reclutamiento, la contratación, las remociones, las renuncias, las licencias, las jubilaciones, la capacitación, el desarrollo y el control del personal de la Presidencia Municipal.
-
-II. Adquirir, administrar y abastecer los recursos materiales necesarios para el desarrollo de sus funciones, a las dependencias o unidades administrativas de la Presidencia.
-
-III. Dirigir las acciones que tiendan a proporcionar a las dependencias de la Presidencia Municipal, los elementos de trabajo necesarios para el desarrollo de sus funciones.
-
-IV. Presidir el Comité de Adquisiciones.
-
-V. Administrar y controlar los bienes patrimoniales de la Presidencia Municipal.
-
-VI. Encargarse del resguardo de los documentos de la administración municipal, a través de la organización y dirección del Archivo General Municipal.
-
-VII. Implementar políticas, lineamientos y desarrollar programas para el mejor aprovechamiento de edificios e instalaciones, vehículos, combustibles y todo lo relacionado con su uso, control y mantenimiento.
-
-VIII. Mantener el correcto desarrollo de las relaciones con los trabajadores del Municipio, y la vigilancia del cumplimiento del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos (sic) del Estado, sus Municipios y Órganos Descentralizados.
-
-IX. Intervenir en la elaboración de presupuestos de las dependencias municipales y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos.
-
-X. Informar en el mes de enero de cada año a la Contraloría General del Estado, sobre los servidores públicos obligados a presentar la Declaración de situación Patrimonial.
-
-XI. Desarrollar y establecer los planes, programas y proyectos necesarios para la adecuada seguridad e higiene de todas las áreas de trabajo.
-
-XII. Prestar servicios de consulta médica a los trabajadores del Municipio que lo soliciten.
-
-XIII. Establecer las normas, criterios y procedimientos que deberán observar las dependencias de la administración municipal en materia de simplificación y modernización administrativa y asesorarles para optimizar el funcionamiento interno y mejorar el servicio al público.
-
-XIV. Analizar, diseñar y adecuar la estructura orgánica municipal garantizando el correcto funcionamiento y administración de las diferentes dependencias de la Presidencia.
-
-XV. Definir y establecer los mecanismos de planeación, coordinación, programación, información, control, evaluación y mejoramiento de la eficacia y eficiencia administrativa y operativa de las dependencias y entidades de la administración pública municipal.
-
-XVI. Elaborar y mantener actualizados los manuales de organización, de procedimientos y el directorio de trámites y servicios públicos de la administración municipal.
-
-XVII. Apoyar y participar en los proyectos de reorganización que formulen las dependencias y entidades de la administración pública municipal.
-
-XVIII. Definir y establecer mecanismos y/o metodología que fomenten en el servidor público una cultura de mejoramiento continuo.
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2009)</small>
-
-XIX. Elaborar, con la intervención de los Síndicos, el inventario general de bienes muebles propiedad del Municipio, expresando en el mismo todas las características de identificación.
-
-XX. Controlar y dar seguimiento al sistema global de gestión de calidad para mantener los certificados obtenidos por la administración municipal.
-
-XXI. Garantizar a través de la Dirección de Servicios Generales el mantenimiento y reparación de los vehículos de la Administración Municipal;
-
-XXII. Realizar a través del Departamento de Taller Gráfico las publicaciones propias del Municipio.
-
-XXIII. Definir y establecer las políticas y lineamientos en materia de informática que deberán respetar las dependencias de la administración pública municipal.
-
-XXIV. Definir y establecer las políticas y procedimientos que deberán observar las dependencias de la administración pública municipal en relación a una mejora regulatoria y simplificación administrativa.
-
-XXV. Dar seguimiento al Plan Municipal de Desarrollo en materia de informática y simplificación administrativa.
-
-XXVI. Apoyar los programas de modernización administrativa sustentados en tecnología de información.
-
-XXVII. Proporcionar el servicio de mantenimiento preventivo y correctivo a los equipos de cómputo y periféricos en todas las dependencias de la administración pública municipal.
-
-XXVIII. Proporcionar el servicio de análisis, diseño, programación e instalación de todo tipo de sistemas computacionales que requieran las dependencias de la administración pública municipal.
-
-XXIX. Establecer los criterios para el uso de todo sistema computacional incluyendo los de operación en web y georeferencia.
-
-XXX. Brindar asesoría y soporte técnico que en materia de informática y simplificación administrativa soliciten las dependencias de la administración pública municipal.
-
-XXXI. Definir la infraestructura de telecomunicaciones adoptada para resolver el servicio de comunicación de datos que requieren todas las dependencias de la administración pública municipal.
-
-XXXII. Desarrollar los módulos computacionales de captura, integración, procesamiento y consulta de información referenciable en mapas geográficos digitales.
-
-XXXIII. Proveer herramientas, cursos, manuales y bancos de datos para facilitar y agilizar la consulta y transmisión de la información.
-
-XXXIV. Establecer los criterios para el uso de la infraestructura de servicios en Internet e Intranet, incluyendo los de operación con acceso a sitios cibernéticos y correo electrónico, de las dependencias de la administración pública municipal.
-
-XXXV. Administrar la estructura técnica de los módulos computarizados de atención.
-
-XXXVI. Vigilar el uso en los centros municipales de servicios de Internet y videoconferencias, que ofrece el Municipio al público observando los lineamientos que para tal efecto establece el presente Código y demás disposiciones relativas y aplicables.
-
-XXXVII. Conformar, diseñar, programar, publicar, actualizar y administrar la página electrónica del Municipio en Internet, Intranet y módulos de acceso público.
-
-XXXVIII. Analizar, diseñar, adecuar y proponer la estructura orgánica municipal, de las dependencias de la administración pública municipal.
-
-XXXIX. Definir y establecer a las dependencias, los mecanismos de elaboración, implementación y actualización de los Manuales de Organización definidos por la Secretaría de Administración, que deberán realizar las dependencias.
-
-XL. Definir los mecanismos de elaboración, actualización, simplificación e implementación de trámites y procesos de servicios públicos de la administración pública municipal, sometiendo a consideración, las reformas o adiciones y en su caso la abrogación de las disposiciones jurídico-administrativas en las que se sustentan los mismos.
-
-XLI. Diseñar, elaborar y mantener actualizada, con base en la información que emitan las dependencias, la Guía de Trámites de Servicios Públicos de la administración pública municipal.
-
-XLII. Evaluar el impacto de las políticas en materia de informática y mejora regulatoria, presentando los respectivos informes.
-
-XLIII. Dar seguimiento para que las dependencias cumplan en lo conducente, lo establecido en el presente artículo.
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XLIV. Publicar toda la información que debe ser difundida de oficio y mantenerla actualizada de conformidad con lo establecido en la normatividad en la materia.
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XLV. Coordinar a las dependencias del Municipio para llevar a cabo el levantamiento físico del inventario en todos los almacenes del Municipio, el cual se deberá llevar a cabo una vez al año.
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XLVI. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2008)</small>
-
-APARTADO DÉCIMO SEGUNDO
-
-De la Secretaría de Desarrollo Social
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2008)</small>
-
-###### ARTÍCULO 111.
-
-Corresponde a la Secretaría de Desarrollo Social, lo siguiente:
-
-I. Promover la concertación de acuerdos de carácter social, político y económico entre el Municipio y grupos sociales.
-
-II. Fomentar la participación social para la concertación de intereses, esfuerzos y voluntades para lograr el desarrollo integral de la comunidad.
-
-III. Promover y apoyar la participación ciudadana, para lograr un mejoramiento de las condiciones de vida a través de las obras y servicios públicos que proporciona el Municipio.
-
-IV. Recibir y canalizar las iniciativas de la población tendientes a satisfacer sus necesidades, así como inducir su colaboración en la realización de obras y la prestación de los servicios públicos municipales.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-V. Elaborar, supervisar, evaluar y actualizar los planes y programas de desarrollo social municipal, considerando las necesidades específicas de las personas para su autonomía e independencia;
-
-VI. Diseñar y aplicar procedimientos técnicos administrativos en la realización de los programas de inversión municipales que tengan por fundamento el presupuesto por programas y observar lo dispuesto en los programas de transferencias de recursos federales y estatales.
-
-VII. Participar en el Consejo de Desarrollo Municipal como Secretario Técnico.
-
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
-
-VIII. Coordinar la prestación de los servicios de educación, deporte y recreación que la Presidencia Municipal proporciona a la ciudadanía.
-
-IX. Fortalecer los valores cívicos y humanos a través de programas en los niveles de educación básica y media dentro del Municipio, así como realizar actividades en apoyo a niños y jóvenes dentro de la red de bibliotecas públicas municipales.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-X. Así como fomentar la sensibilización y cultura de la población, a través de campañas de educación encaminadas a eliminar prejuicios, estereotipos y otras actitudes que atentan contra el derecho de las personas a ser iguales, propiciando de esta forma el respeto y la convivencia con las personas con discapacidad.
-
-XI. Organizar, difundir y realizar anualmente los festejos relativos al Aniversario de la Fundación de la Ciudad.
-
-XII. Proponer, coordinar y evaluar las acciones en materia de deporte, cultura física y recreación para la población del Municipio.
-
-XIII. Integrar equipos, organizar torneos y eventos deportivos así como conformar las escuelas deportivas municipales y los centros de formación y desarrollo deportivo en las diferentes colonias del Municipio para que trabajen en las disciplinas que demanda la población.
-
-XIV. Administrar las instalaciones y espacios deportivos del Municipio.
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
-
-XV. El fomento al empleo e impulso a la actividad económica en el comercio y los servicios, que permita la participación de la juventud, las mujeres, sin discriminación por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género; el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas, para el logro del bienestar social del Municipio de Aguascalientes,
-
-XVI. Promover el autoempleo y el fortalecimiento de las micro y pequeñas empresas en el comercio y los servicios.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XVII. Promover proyectos productivos en el área rural, en especial para las mujeres rurales, a efecto de acelerar su igualdad con los hombres de su comunidad;
-
-XVIII. Coadyuvar, fomentar y promover, en los términos de las leyes y reglamentos de la materia la ejecución de políticas y programas del Municipio de Aguascalientes en lo referente a la actividad económica, que permita más empleo y el desarrollo del comercio y los servicios.
-
-XIX. Formular, evaluar e implementar proyectos de unidades generadoras de ingresos para los habitantes del Municipio de Aguascalientes.
-
-XX. Establecer una coordinación con el ramo empresarial en los sectores del comercio y los servicios.
-
-XXI. Fomentar la generación y promoción de programas tendientes a la creación de fuentes de trabajo y mantenimiento de las ya existente (sic) a través de la micro y pequeña empresa.
-
-XXII. Coordinar, organizar y promover las acciones necesarias para lograr un mejor aprovechamiento de los recursos federales, estatales y municipales.
-
-XXIII. Ampliar los convenios en los términos de las leyes con el Estado y la Federación.
-
-XXIV. Promover la vinculación con las instituciones de educación superior para el fortalecimiento de la actividad económica del Municipio.
-
-XXV. Promover la infraestructura, así como la creación de nuevas empresas en las zonas rurales.
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XXVI. Brindar consultas y capacitación en materia empresarial, incluyendo la construcción de liderazgos y personas emprendedoras;
-
-XXVII. Promover y difundir las actividades artesanales, así como la comercialización de productos propios del Municipio.
-
-XXVIII. Organizar, participar y patrocinar exposiciones, eventos y ferias, que coadyuven al desarrollo empresarial, comercial y al fomento del empleo.
-
-XXIX. Fomentar la capacitación y asistencia técnica integral en las micro y pequeñas empresas.
-
-XXX. Apoyar a las micro y pequeñas empresas en las gestiones para la obtención de servicios, insumos, financiamientos y demás elementos necesarios para el desarrollo de sus actividades.
-
-XXXI. (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE MARZO DE 2008)
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XXXII. Nombrar un enlace de género para la debida coordinación de acciones con el Instituto Municipal de la Mujer de Aguascalientes;
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XXXIII. Formar parte de los Sistemas Municipales, de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres y de Igualdad Sustantiva entre Mujeres y Hombres;
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
-
-XXXIV. Emitir el estudio de impacto socio - económico que tendrá la instalación y funcionamiento de tiendas de conveniencia en los lugares donde existan comercio de abarrotes, análogos o similares, con el propósito de no favorecer la afectación comercial que por tal motivo obtengan éstas últimas y contribuir así a su fortalecimiento económico y social. Dicho estudio se concentrará específicamente en la circunferencia de influencia en la venta de servicios y productos de la tienda de conveniencia hacia el detrimento comercial del sector abarrotero, análogo o similar.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2016)</small>
-
-XXXV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+Altere documentación oficial o expida una falsa en cualquier tipo de trámite del orden fiscal.
 
 ###### ARTÍCULO 111
 
@@ -4975,411 +3899,39 @@ APARTADO DÉCIMO TERCERO
 
 De la Secretaría de Desarrollo Urbano
 
-###### ARTÍCULO 112.
+###### Artículo 112.
 
-Corresponde a la Secretaría de Desarrollo Urbano:
+Se impondrá prisión de seis meses a tres años y se impondrá multa de treinta a quinientos días de salario mínimo, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
 
-I. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos de suelo, y de protección al ambiente.
+#### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+###### Artículo 113.
 
-II. Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la autorización de subdivisiones, fraccionamientos, condominios y desarrollos especiales, así como su supervisión por sí o a través las Unidades Externas de Supervisión y el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
+Es objeto del Impuesto Predial:
 
-III. En el ámbito de fraccionamientos y subdivisiones, vigilar el cumplimiento con lo dispuesto en el Código Urbano y demás disposiciones jurídicas aplicables, en cuanto a los procesos de urbanización hasta su municipalización.
+I. La propiedad de predios urbanos, suburbanos o rurales ubicados en el Municipio;
 
-IV. Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano para el Estado de Aguascalientes, así como del Comité Técnico de Municipalización y Urbanización.
+II. La posesión de predios urbanos, suburbanos o rurales ubicados en el Municipio, en términos del derecho común, la Ley de Catastro y su Reglamento; y
 
-V. Administrar el control urbano con el otorgamiento de las siguientes autorizaciones:
+III. La propiedad o posesión ejidal o comunal. El objeto del impuesto a que se refiere este artículo incluye la propiedad o posesión de las construcciones permanentes edificadas sobre los predios; tratándose de predios rurales, el objeto del impuesto incluye solamente la propiedad o posesión de las construcciones permanentes que no sean utilizadas directamente con fines agrícolas, ganaderos o forestales.
 
-a) Alineamiento y Compatibilidad Urbanística;
+###### Artículo 114.
 
-b) Anuncios;
+Son sujetos del Impuesto Predial:
 
-c) Fusión de Predios;
+I. Los propietarios o poseedores de predios urbanos, suburbanos o rurales;
 
-d) Subdivisión de predios;
+II. Los propietarios o poseedores de predios ejidales o comunales;
 
-e) Relotificación de Predios;
+III. Los copropietarios y los coposesores;
 
-f) Licencias para la construcción, reparación, remodelación y demolición de inmuebles;
+IV. Los nudo propietarios, los titulares de certificados de vivienda y de participación inmobiliaria; y
 
-g) Realización de obras, instalaciones y reparaciones en la vía pública;
+V. El fideicomitente y, en su caso, el fiduciario, en tanto no le transmitan la propiedad del predio al fideicomisario o a otras personas, en cumplimiento al contrato de fideicomiso.
 
-h) Números oficiales para los inmuebles.
+## TÍTULO SEGUNDO. DE LOS CRÉDITOS FISCALES
 
-VI. Determinar el tipo de construcciones que se puedan edificar en el municipio.
-
-VII. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y usos de la vía pública de acuerdo a los planes y programas de desarrollo urbano.
-
-VIII. Coordinar la Comisión de Admisión de Peritos, llevar el registro de los peritos así como asignar peritajes por servicio social en los casos que prevé este Código.
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
-
-IX. Supervisar obras de urbanización, edificación y construcciones en general;
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
-
-X. Cerciorarse y aplicar la normatividad para el uso que se está dando a un predio, edificio o construcción y que éste se apegue a las características previamente registradas.
-
-XI. Acordar las medidas que fueren procedentes en relación con las obras de urbanización y edificación cuyo estado presente un riesgo inminente, que generen inseguridad, insalubridad o causen molestias.
-
-XII. Ordenar y aplicar la suspensión temporal preventiva, o la clausura parcial o total, de obras de urbanización y edificación, en ejecución o terminadas, así como la desocupación de los inmuebles en los casos previstos en este Código.
-
-XIII. Aplicar medidas de seguridad en inmuebles en los casos previstos en este Código.
-
-XIV. Ordenar y ejecutar las demoliciones en inmuebles en los casos previstos en este Código.
-
-XV. Autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos en este Código, o en caso contrario negarla.
-
-XVI. Imponer sanciones a las que se hagan acreedores los infractores a las disposiciones que en materia de desarrollo urbano y asentamientos humanos se encuentran previstas por el presente Código y demás disposiciones jurídicas aplicables.
-
-XVII. Solicitar el auxilio de la fuerza pública, cuando fuere necesario para hacer cumplir sus determinaciones.
-
-XVIII. Expedir y aplicar las normas y especificaciones técnicas complementarias de urbanización y edificación para el debido cumplimiento en lo relativo a la ejecución de las obras de urbanización y la prestación de servicios en subdivisiones, fraccionamientos, condominios y desarrollos especiales; así como de las construcciones.
-
-XIX. Determinar los requisitos y procedimientos para autorizar la asignación, forma de instalación, rectificación y cambio de nomenclatura de fraccionamientos, vialidades, parques, jardines, plazas, sitios y monumentos históricos y todo aquel lugar factible de otorgársele denominación.
-
-XX. Ejercer las atribuciones que otorga al Municipio el Código Urbano, en cuanto al desarrollo urbano y asentamientos humanos.
-
-XXI. Proponer las obras y servicios públicos que sean necesarios para el desarrollo urbano.
-
-XXII. Proveer los elementos para la exacta observancia de la planeación urbana.
-
-XXIII. Establecer una adecuada coordinación con las dependencias y organismos de gobierno federal y estatal, que realicen acciones de desarrollo urbano y vivienda.
-
-XXIV. Realizar el procedimiento de conservación de predios y edificaciones a que hace referencia la Normatividad Municipal.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
-
-XXV. Supervisar por sí o a través de las Unidades Externas de Supervisión la calidad de los materiales y trabajos realizados en las obras de urbanización, así como el avance de éstas, que se realicen en los fraccionamientos, subdivisiones, condominios y desarrollos especiales.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
-
-XXVI. Supervisar por sí o a través de las Unidades Externas de Supervisión, los trabajos de edificación que se realicen en los fraccionamientos, subdivisiones, condominios y desarrollos especiales.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
-
-XXVII. Conforme a lo dictaminado por sí o por las Unidades Externas de Supervisión y el Perito responsable de las Obras de Urbanización, dictaminar sobre el avance, calidad y cumplimiento de las obras de urbanización de los Fraccionamientos, Condominios y desarrollos especiales en proceso de municipalización o entrega a la Asamblea de Condóminos.
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
-
-XXVIII. Aplicar la normatividad establecida en fraccionamientos, condominios y desarrollos especiales de los usos permitidos en concordancia con el plano de uso de suelo autorizado por las autoridades competentes;
-
-XXIX. Requerir los dictámenes correspondientes para liberar las constancias de terminación de obra en la ejecución de la urbanización de subdivisiones, fraccionamientos, condominios y desarrollos especiales.
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2009)</small>
-
-XXX. Coordinar los Comités y Subcomités en materia Urbana; Subcomité de Asentamientos Humanos Irregulares, subcomité de Tránsito y Análisis Vial, Comité de Bienes Inmuebles del Municipio de Aguascalientes, el Subcomité Técnico de Cartografía y el Subcomité de Imagen Urbana.
-
-XXXI. Dictaminar sobre el uso de suelo de bienes inmuebles cuando así le sea requerido.
-
-XXXII. Suscribir convenios de reubicación cuando existan conflictos respecto al uso de suelo.
-
-XXXIII. Garantizar el cumplimiento de lo establecido en el Código Urbano y en el presente Código.
-
-XXXIV. Expedir autorización de uso de suelo a estacionamientos públicos.
-
-XXXV. Autorizar, ordenar, controlar y retirar toda clase de anuncios públicos o privados.
-
-XXXVI. Autorizar, ordenar, controlar y retirar el mobiliario urbano.
-
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
-
-XXXVII. Asesorar y apoyar técnica y jurídicamente los casos que procedan de regularización de asentamientos humanos irregulares dentro del municipio de Aguascalientes;
-
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
-
-XXXVIII. Coadyuvar en las medidas de carácter preventivo que fueren procedentes, con instituciones y dependencias federales, estatales y municipales, que permitan el abatimiento de prácticas irregulares en materia de asentamientos humanos;
-
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
-
-XXXIX. Participar en la suscripción de convenios de colaboración que celebre la Presidencia Municipal con las dependencias y organismos de gobierno federal, estatal y municipal, a fin de promover acciones de regularización de la tenencia de la tierra y asentamientos informales;
-
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
-
-XL. Gestionar el procedimiento de regularización de asentamientos humanos que carecen de los permisos respectivos, de acuerdo a los segmentos de competencia municipal que las leyes establezcan;
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XLI. Elaborar, controlar y mantener actualizado el inventario del patrimonio inmobiliario conforme a lo establecido en la normatividad en la materia.
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XLII. Llevar a cabo el levantamiento físico del inventario de los bienes inmuebles de conformidad con la normatividad en la materia.
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
-
-XLIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
-
-CAPITULO (SIC) DÉCIMO CUARTO
-
-De la Secretaría de Servicios Públicos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
-
-#### SECCION I.
-
-DE LA ELECCION E INSTALACION DEL CONGRESO.
-
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
-
-###### ARTÍCULO 113.
-
-Corresponde a la Secretaría de Servicios Públicos lo siguiente:
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-I.- La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de rastro municipal, control de población canina y felina, limpia y aseo público, panteones, parques y jardines así como alumbrado público. En cuanto al control de la población canina y felina, el servicio no puede concesionarse.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-II.- Vigilar que los servicios que proporcione el rastro a los usuarios se haga en condiciones que garantice la higiene en el sacrificio humanitario y transportación de los productos cárnicos;
-
-III. Regular la introducción de ganado y el abastecimiento de carne para el consumo humano dentro de su ámbito de competencia.
-
-IV. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los impuestos y/o derechos municipales, así como haber acreditado la legítima propiedad del ganado, dentro de sus instalaciones.
-
-V. Determinar el destino de las carnes no apropiadas para el consumo de la población de acuerdo a la normatividad vigente.
-
-VI. (DEROGADA, P.O. 13 DE ENERO DE 2014)
-
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
-
-VII. Ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente;
-
-VIII. (DEROGADA, P.O. 13 DE ENERO DE 2014)
-
-IX. (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
-
-X. Supervisar las operaciones, funcionamiento y vigilancia de las inhumaciones, exhumaciones y reinhumaciones, pudiendo prestarlo en forma directa o por el conducto de los particulares, de acuerdo a la presente reglamentación.
-
-XI. Regular y supervisar todo sistema de alumbrado público que los particulares, gobierno federal, estatal y municipal, así como los organismos descentralizados instalen en las vialidades y áreas públicas municipales.
-
-XII. Ejercer las atribuciones que le corresponden al Municipio en materia de alumbrado público de conformidad a la normatividad vigente.
-
-XIII. Construir, contratar y concesionar la construcción de las áreas verdes públicas, así como el mantenimiento de las mismas.
-
-XIV. Promover y regular la participación de la ciudadanía en los programas de forestación y reforestación, vigilancia y conservación de las áreas verdes públicas municipales.
-
-XV. Vigilar y regular el servicio de limpia y recolección de residuos sólidos, por sí o por conducto de terceras personas a través de concesiones o convenios.
-
-XVI. Regular y vigilar los mecanismos, instrumentos y procedimientos para la prestación de los servicios de limpia y recolección, transportación, alojamiento, reuso, tratamiento, confinamiento y disposición final de residuos no peligrosos.
-
-XVII. Promover y fomentar la participación corresponsable de la sociedad tendiente a mantener la limpieza de la vía pública municipal y recolección de residuos sólidos que se generen.
-
-XVIII. (DEROGADA, P.O. 13 DE ENERO DE 2014)
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XIX.- Fomentar a través de programas de educación ambiental la disminución en la generación de basura, residuos y cambio en patrones de consumo y producción;
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XX.- Regular y vigilar la salud pública por conducto de sus diversas unidades administrativas;
-
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XXI.- Verificar y vigilar el cumplimiento de las condiciones sanitarias de los establecimientos, productos, actividades y servicios en protección de la salud de la población;
-
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XXII.- Promover, fortalecer y apoyar las acciones en materia de salubridad local a cargo del Municipio, con sujeción a las políticas nacionales y estatales de salud y a los convenios que al efecto se celebren;
-
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XXIII.- Vigilar en la esfera de su competencia el cumplimiento de la Ley de Salud del Estado de Aguascalientes y de las demás disposiciones legales de la materia, así como instrumentar y desarrollar programas municipales que procuren el cumplimiento de este fin;
-
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XXIV.- Coordinarse con las autoridades estatales y federales en materia de salud a efecto de instrumentar y desarrollar programas para el mejoramiento de los niveles de salud y bienestar en el Municipio; y
-
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2014)</small>
-
-XXV.- Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
-
-APARTADO DÉCIMO QUINTO
-
-De La Secretaría de Seguridad Pública
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-###### ARTÍCULO 114.
-
-Con el objeto de garantizar y respetar la protección de los derechos humanos de las personas, corresponde a la Secretaría de Seguridad Pública lo siguiente:
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-I. Proteger la integridad física de las personas sin hacer discriminación alguna por motivo de su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas y preservar sus bienes ante situaciones de peligro y cualquier amenaza o disturbio que implique violencia o riesgo inminente, así como garantizar, mantener y restablecer la paz y el orden público dentro del territorio del Municipio, asimismo deberá apoyar en sus funciones a los Delegados y Comisarios Municipales y efectuar una estrecha vigilancia en los poblados y rancherías;
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-II. Coordinar y colaborar con las autoridades federales, estatales y municipales en el ejercicio de sus funciones de investigación, prevención y reacción. Así como en los casos en que se requiera el uso de la fuerza pública;
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-III. Prevenir la comisión de delitos e infracciones a las leyes y reglamentos a través de disposiciones y acciones concretas para preservar la paz social;
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-IV. Colaborar en la investigación y persecución de los delitos, siendo auxiliar del Ministerio Público, del Poder Ejecutivo y del Poder Judicial, tanto federales como del Estado, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-V. Vigilar, aplicar y hacer cumplir, en el ámbito de su competencia, las disposiciones contenidas en la Ley de Vialidad del Estado de Aguascalientes y en el Reglamento de Tránsito del Municipio de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-VI. Practicar detenciones de personas y el aseguramiento de bienes en los casos previstos en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, así como los responsables por la presunta comisión de faltas administrativas o hechos delictivos en los términos de ley;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-VII. Poner a disposición de las autoridades competentes, en forma inmediata, a las personas detenidas y los bienes que en su caso se hayan asegurado, incluyendo los casos de violencia familiar; absteniéndose en todo momento de prácticas de conciliación, negociación y mediación entre los involucrados;
-
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
-
-VIII. Vigilar e inspeccionar, para fines de Seguridad Pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en el Municipio de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-IX. Realizar investigaciones en el ámbito de su competencia para hacer efectiva la prevención, así como las derivadas de la comisión de delitos y faltas administrativas cometidos dentro del Municipio en el entendido de que esta información constituye la plataforma sustantiva para la conformación de las bases de datos susceptibles de aprovechamiento en la atención al fenómeno delictivo, la cual estará desagregada por sexo;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-X. Asistir sin dilación alguna a los llamados en casos de violencia familiar, con independencia del grupo especial para casos de violencia de género y de las órdenes de protección que éste cumplimente, para dar debida y cabal protección a las víctimas de este tipo de violencia;
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XI. Evaluar en base a las órdenes de protección que le sean remitidas, el riesgo en que se encuentran las mujeres que hacen denuncias por violencia familiar o en la comunidad y establecer las estrategias de proximidad policial para garantizar su integridad física, notificando de los casos que se evalúen al Instituto Municipal de la Mujer de Aguascalientes;
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XII. Nombrar un enlace de género para la debida coordinación de acciones con el Instituto Municipal de la Mujer de Aguascalientes;
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XIII. Formar parte de los Sistemas Municipales, de Prevención, atención, sanción y erradicación de la violencia contra las mujeres, y de igualdad sustantiva entre mujeres y hombres; y
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XIV. Las demás que señale la ley, los reglamentos, el H. Ayuntamiento y el Presidente Municipal.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-APARTADO DECIMO SEXTO
-
-De la Secretaría de Medio Ambiente y Desarrollo Sustentable
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
-
-ARTÍCULO 114 BIS.- Corresponde a la Secretaría de Medio Ambiente y Desarrollo Sustentable:
-
-I.- Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
-
-II.- Formular, conducir y evaluar la política ambiental municipal;
-
-III.- Aplicar los instrumentos de política ambiental de competencia municipal previstos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Protección Ambiental para el Estado de Aguascalientes, este Código y demás ordenamientos aplicables;
-
-IV.- Elaborar, revisar y actualizar un diagnóstico ambiental que corresponda a cada administración municipal, para que de él deriven los programas relativos;
-
-V.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación aplicables al ámbito de competencia municipal;
-
-VI.- Prevenir y controlar la contaminación atmosférica por fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal;
-
-VII.- Prevenir y controlar la contaminación visual, por ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, provenientes de fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal;
-
-VIII.- Aplicar las disposiciones jurídicas relativas a la gestión, prevención y control de los efectos sobre el ambiente, ocasionados por el manejo de residuos sólidos urbanos, de conformidad con las leyes Federales, Estatales y demás disposiciones en materia ambiental;
-
-IX.- Expedir el permiso ambiental de funcionamiento;
-
-X.- Analizar y en su caso autorizar las solicitudes de derribo, extracción o reubicación de árboles y arbustos en el Municipio, excepto aquellos que sean de competencia Federal, por tratarse de terrenos forestales en términos de la legislación aplicable;
-
-XI.- Atender las denuncias ambientales en el ámbito de su competencia y remitir a las instancias correspondientes aquellas que no sean de índole municipal;
-
-XII.- Llevar y actualizar el registro de las fuentes fijas generadoras de contaminación de competencia municipal, así como de los grandes generadores de residuos sólidos urbanos existentes en el Municipio;
-
-XIII.- Coordinarse con las autoridades federales y estatales en su caso, para establecer sistemas de monitoreo de contaminación atmosférica en el territorio municipal;
-
-XIV.- Establecer y mantener actualizado el registro de las ladrilleras presentes en el Municipio;
-
-XV.- Coadyuvar con la Secretaría de Servicios Públicos en la elaboración, evaluación y actualización del Programa Municipal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos;
-
-XVI.- Evaluar el impacto ambiental de las obras o actividades que le sean transferidas, mediante convenios o acuerdos, por el Estado o la Federación, así como de aquellas que sean de su competencia en los términos de la Ley de Protección Ambiental para el Estado de Aguascalientes;
-
-XVII.- Participar en la evaluación del impacto ambiental de obras o actividades de competencia federal o estatal, cuando éstas se realicen en el ámbito de su circunscripción territorial;
-
-XVIII.- Recibir, evaluar y dictaminar la viabilidad ambiental de los proyectos u obras que las dependencias de la administración municipal pretendan realizar dentro del territorio del municipio de Aguascalientes; lo anterior previo y sin menoscabo de que dichas instancias tramiten las autorizaciones que correspondan ante autoridades estatales y federales competentes;
-
-XIX.- Promover la participación de las dependencias y entidades de la administración pública de los demás niveles de gobierno en las acciones de preservación, protección, educación ambiental, prevención y control del deterioro ambiental y restauración del ambiente, en su jurisdicción territorial; así como celebrar con estás los acuerdos que sean necesarios con el propósito de dar cumplimiento a la legislación, reglamentación y/o normatividad vigente;
-
-XX.- Participar en el establecimiento, administración y manejo de las áreas naturales protegidas de competencia municipal;
-
-XXI.- Promover, fomentar y orientar el desarrollo de acciones para la conservación y el aprovechamiento sustentable de los ecosistemas y la biodiversidad presente en el territorio municipal, en coordinación con el Estado y la Federación;
-
-XXII.- Coadyuvar con las demás dependencias y entidades de la administración pública municipal, en el cumplimiento de la normatividad ambiental aplicable, a través de capacitación y asesoría;
-
-XXIII.- Establecer los criterios de regulación ecológica para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que sean considerados en los planes o programas de desarrollo urbano correspondientes;
-
-XXIV.- Formular, ejecutar y vigilar el programa de ordenamiento ecológico y coadyuvar con el Instituto Municipal de Planeación en los planes o programas que de él se deriven, en los términos en que se refieren las leyes y reglamentos aplicables;
-
-XXV.- Determinar, en el ámbito de su competencia, o solicitar ante el Estado y la Federación, según sea el caso, la limitación, modificación o suspensión de actividades comerciales, industriales, de servicios, de desarrollo urbano y turístico, que puedan causar deterioro ambiental o alteración del equilibrio ecológico;
-
-XXVI.- Vigilar en coordinación con la Federación y el Estado, el adecuado uso y aprovechamiento de los recursos naturales presentes en el territorio municipal;
-
-XXVII.- Fijar y aplicar medidas de prevención y control de emergencias ecológicas y contingencias ambientales, así como participar y coadyuvar con las entidades federales y estatales conforme a las políticas y programas que para tal efecto se establezcan;
-
-XXVIII.- Formular el Plan de Acción Climática Municipal (PACMUN), coordinar su implementación y actualizarlo cada seis años;
-
-XXIX.- Crear e implementar el Plan Municipal de Contingencia Ambiental;
-
-XXX.- Establecer los criterios ambientales relacionados con la mitigación y adaptación a los efectos que tiene en la zona urbana el calentamiento global;
-
-XXXI.- Establecer medidas para la preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población;
-
-XXXII.- Difundir la política municipal en materia ambiental e informar sobre la calidad del ambiente en el municipio;
-
-XXXIII.- Promover espacios de participación de la sociedad en materia ambiental;
-
-XXXIV.- Implementar programas en materia de educación y comunicación ambiental que favorezcan la conservación y el aprovechamiento sustentable de los recursos naturales y la biodiversidad en el municipio;
-
-XXXV.- Celebrar convenios con la Federación, el Estado, otros Municipios y con personas físicas o morales, para la realización de acciones en materia de difusión, protección, conservación y aprovechamiento sustentable de los recursos naturales, biodiversidad y medio ambiente, en el ámbito de su competencia, previa autorización del Cabildo;
-
-XXXVI.- Ejercer las atribuciones y funciones que en materia ambiental le hayan sido transferidas por la Federación o el Estado al Municipio, a través de convenios y acuerdos;
-
-XXXVII.- Promover y establecer la entrega de premios y reconocimientos a quienes realicen esfuerzos destacados para la preservación y restauración del equilibrio ecológico y la protección al ambiente en el municipio;
-
-XXXVIII.- Establecer y mantener actualizado un sistema de información ambiental, transparente y de fácil acceso a la ciudadanía;
-
-XXXIX.- Integrar el registro municipal de emisiones y transferencia de contaminantes al aire y agua, respecto de materiales, sustancias y residuos de competencia municipal;
-
-XL.- Promover la integración de ecotecnologías en establecimientos comerciales, industriales y de servicios;
-
-XLI.- Promover inversiones públicas y privadas, destinadas a proyectos para la protección del ambiente y el aprovechamiento sustentable de los recursos naturales en el territorio municipal;
-
-XLII.- Colaborar con los organismos competentes para la aplicación de las disposiciones jurídicas para prevenir y controlar la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de los cauces bajo custodia del Municipio;
-
-XLIII.- Ordenar y realizar visitas u operativos de inspección y vigilancia para verificar el cumplimiento de las disposiciones jurídicas aplicables a su competencia;
-
-XLIV.- Determinar las infracciones a este Código que en materia ambiental se establezcan;
-
-XLV.- Emitir los acuerdos y resoluciones correspondientes al procedimiento administrativo de inspección y vigilancia, imponiendo las medidas correctivas y de seguridad, así como las sanciones que en su caso procedan, verificando el cumplimiento de dichas medidas y proveyendo lo necesario para la ejecución de sanciones;
-
-XLVI.- Ordenar e imponer las medidas técnicas correctivas o de urgente aplicación que correspondan, señalando los plazos para su cumplimiento; así como las medidas de seguridad procedentes, proveyendo lo necesario para obtener la ejecución de estas últimas, indicando, en su caso, las acciones necesarias para subsanar las irregularidades que motivaron la imposición de las medidas de seguridad y los plazos para su realización, a fin de que una vez cumplidas se ordene el retiro de las mismas;
-
-XLVII.- Proponer en la Ley de Ingresos para el Municipio de Aguascalientes, estímulos fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de mejora ambiental adicionales a las previstas como obligatorias en la normatividad;
-
-XLVIII.- Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
-
-XLIX.- Definir de manera anual los principios, objetivos y metas, mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Municipio, así como los instrumentos y procedimiento para su aplicación; y
-
-L.- Las demás que le otorgue el presente Código y demás ordenamientos aplicables en la materia.
-
-## TITULO TERCERO.
-
-### CAPÍTULO II. Del Servicio Civil de Carrera
+### CAPÍTULO VII. DEL IMPUESTO SOBRE FRACCIONAMIENTOS
 
 ###### Art. 124.
 
@@ -5389,539 +3941,233 @@ Las facultades que no están expresamente concedidas por esta Constitución a lo
 
 Ningún individuo podrá desempeñar a la vez dos cargos federales de elección popular, ni uno de la Federación y otro de un Estado que sean también de elección; pero el nombrado puede elegir entre ambos el que quiera desempeñar.
 
-###### ARTÍCULO 115.
+###### Artículo 115.
 
-La relación entre el Ayuntamiento y sus trabajadores de base y eventuales se regirá por:
+Son sujetos con responsabilidad solidaria los siguientes:
 
-I. El Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
+I. La persona o personas, cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única, interventor o liquidador de una persona moral;
 
-II. La Ley de Responsabilidades de los Servidores Públicos del Estado.
+II. Los integrantes de los órganos de representación ejidal o comunal;
 
-III. Supletoriamente la Ley Federal del Trabajo.
+III. Tratándose de copropietarios, coposesores y nudo propietarios, cualquiera de ellos responderá del monto total del adeudo del crédito fiscal y sus accesorios.
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+Lo dispuesto en esta fracción no es aplicable a los condóminos ni a los usuarios de tiempos compartidos;
 
-IV. Código de Ética para la Administración Pública del Municipio de Aguascalientes
+IV. Los representantes legales de sociedades, asociaciones civiles y comunidades, respecto de los impuestos a cargo de sus representadas, cuando tengan facultades para actos de administración;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+V. Los albaceas de la sucesión, hasta en tanto no se adjudiquen los bienes a los herederos;
 
-V. Reglamento Interior de Trabajo del Municipio de Aguascalientes
+VI. Las instituciones fiduciarias, en los casos de la fracción V del artículo anterior de este Código; y
 
-###### ARTÍCULO 116.
+VII. Los usufructuarios.
 
-Las disposiciones que contiene este capítulo son de observancia general y de carácter obligatorio para los trabajadores de base, de confianza, eventuales y para los funcionarios públicos.
+###### Artículo 116.
 
-###### ARTÍCULO 117.
+Son base del Impuesto Predial, los valores catastrales o catastrales provisionales que se determinen conforme a la Ley de Catastro.
 
-Es obligación de todo el personal que ingrese a laborar al servicio del H. Ayuntamiento de Aguascalientes, enterarse del contenido de las presentes disposiciones. El H. Ayuntamiento tendrá la obligación de fijar ejemplares de este capítulo en todos los centros de trabajo.
+Dichos valores se modificarán cuando se dé cualquiera de los supuestos que señala el artículo 38 de la Ley de Catastro.
 
-###### ARTÍCULO 118.
+Cuando se determine o modifique el monto de la base gravable en términos de la Ley de Catastro, esta base surtirá sus efectos para cálculo del impuesto a partir del mes siguiente a aquel en que ocurran estos supuestos. En este caso, la Tesorería formulará y notificará al contribuyente las liquidaciones de las diferencias del impuesto a enterar que resulten del cambio de base, proporcionalmente a los meses que falten por transcurrir hasta el fin del ejercicio fiscal.
 
-Toda persona interesada en prestar sus servicios a favor del H. Ayuntamiento deberá de reunir los requisitos siguientes:
+Para los efectos de aplicación de este impuesto se estará a la clasificación de predios y construcciones que establece la Ley de Catastro, su Reglamento y las Tablas de Valores Unitarios autorizadas.
 
-I. Ser mayor de 16 años.
+Los valores que sirven de base gravable del impuesto se actualizarán para cada ejercicio fiscal, de acuerdo a la tabla de valores unitarios de suelo y construcciones que autorice el H. Congreso. Las tasas o tarifas para el cobro de este impuesto se aplicarán a los valores mencionados.
 
-II. Saber leer y escribir.
+Cuando se hubieren establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva se cobrarán o reintegrarán las diferencias que resulten.
 
-III. Presentar solicitud, proporcionando los datos que le requiera el H. Ayuntamiento.
+En los casos de predios que no hubieren tenido modificaciones físicas no procederá el cobro de diferencias de años anteriores, cuando éstas sean consecuencia de la actualización del valor catastral o catastral provisional, que resulte de la valuación en que se utilicen sistemas fotogramétricos digitales para elaborar la cartografía. El nuevo valor surtirá efectos a partir del mes siguiente al de su notificación.
 
-IV. Haber cumplido o estar cumpliendo con el servicio militar.
+Para efectos de este impuesto, en los predios objeto de fraccionamiento, el nuevo valor generado por la introducción de obras de urbanización se considerará a partir de la conclusión de éstas.
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+###### Artículo 117.
 
-V. Aprobar satisfactoriamente el examen médico que designe el H. Ayuntamiento, quedando estrictamente prohibido solicitar el examen de no gravidez y de VIH- Sida como requisitos para la contratación del personal.
+El Impuesto Predial se causará anualmente y se liquidará y pagará conforme a la tasa que sobre la base gravable autorice el H. Congreso en la Ley de Ingresos del Municipio para el ejercicio fiscal de que se trate.
 
-VI. No tener antecedentes penales por delito doloso.
+###### Artículo 118.
 
-Cuando se trate de puestos que requieran conocimientos técnicos o profesionales, el solicitante, además de los requisitos a que se refieren las fracciones anteriores, deberá presentar constancias fehacientes de sus conocimientos y estudios de la materia.
+El pago del Impuesto Predial será semestral y se realizará dentro de los meses de enero y julio de cada año, en la Tesorería u oficinas autorizadas.
 
-###### ARTÍCULO 119.
+Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima. Este plazo podrá prorrogarse hasta el día último del mes de febrero, por acuerdo del Cabildo, el que se comunicará al H. Congreso.
 
-Los trabajadores al servicio del H. Ayuntamiento se clasifican en tres:
+###### Artículo 119.
 
-I. De confianza.
+Están exentos del pago del Impuesto Predial, los bienes del dominio público de la Federación, del Estado y de los Municipios, conforme a la normatividad aplicable.
 
-II. De base.
+###### Artículo 120.
 
-III. Eventuales.
+Cuando la Tesorería advierta que un inmueble ha salido del dominio público de la Federación, del Estado o de los Municipios, ordenará el cobro de los impuestos cuyo pago se hubiese omitido, incluidos los recargos, multas y accesorios que procedan.
 
-###### ARTÍCULO 120.
+###### Artículo 121.
 
-Los trabajadores de base deberán de ser preferentemente aguascalentenses, o en todo caso, de nacionalidad mexicana.
+Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
-###### ARTÍCULO 121.
+Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil salarios mínimos.
 
-Los trabajadores de base, con más de seis meses de servicio, no podrán ser cambiados ni removidos de adscripción, sino en los siguientes casos:
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
 
-I. Por organización o necesidad del servicio debidamente justificada, previo acuerdo de las partes.
+El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a madres solteras que sean jefas de familia, así como a las víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, siempre que reúnan los requisitos señalados en el párrafo anterior. En ese caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
 
-II. Porque desaparezca la plaza de su nombramiento.
+A estos descuentos no se podrá adicionar el previsto en el artículo 118 de este Código.
 
-III. Por solicitud del trabajador, si hubiese plazas disponibles.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2014)</small>
 
-IV. Cuando las necesidades del servicio así lo requieran.
+###### Artículo 122.
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+El impuesto anual a pagar no podrá ser menor a 2.5 salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
 
-V. Por Quejas presentadas en su contra por hostigamiento o acoso sexual o violencia laboral, independientemente que de comprobarse se aplique la sanción que corresponda.
+El pago de este impuesto se considerará definitivo, salvo prueba en contrario.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+###### Artículo 123.
 
-Independientemente de lo señalado en el artículo 138 del presente código, en relación a lo dispuesto por la Ley Federal de Trabajo para quienes cometen estos actos.
+En los casos de predios no registrados en el padrón factura de la Tesorería, por causa imputable al sujeto del Impuesto, se fincará liquidación presuntiva y se requerirá su pago por los cinco años anteriores a la fecha de la detección de la omisión y la tasa que se aplicará será la vigente en cada uno de los ejercicios omitidos. Tratándose de construcciones no manifestadas, si no se pudiera fijar con precisión la fecha desde la cual se omitió el aviso correspondiente, se hará el cobro del impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo prueba en contrario.
 
-APARTADO SEGUNDO
+###### Artículo 124.
 
-De las Condiciones de Trabajo
+Las manifestaciones y avisos que los particulares y Notarios Públicos, éstos en el ejercicio de sus funciones, deban realizar para efectos de este impuesto, se harán en las formas oficiales autorizadas y se presentarán acompañando los documentos o planos que en la misma se exijan ante la Tesorería.
 
-###### ARTÍCULO 122.
+###### Artículo 125.
 
-La jornada laboral no podrá exceder de cuarenta horas semanales, la cual será distribuida dependiendo de los requerimientos, necesidades, y a la naturaleza de las actividades de cada Dependencia o Unidad Administrativa del H. Ayuntamiento, siempre que ello no contravenga disposiciones de la ley Federal del Trabajo.
+Cuando en las manifestaciones o avisos, que deban presentarse conforme a lo dispuesto en este capítulo, no se expresen los datos o no se acompañen los documentos o planos, las autoridades fiscales requerirán al contribuyente para que, en un plazo de cinco días, corrija la omisión, apercibiéndolo que de no hacerlo se le impondrán las sanciones que procedan.
 
-###### ARTÍCULO 123.
+###### Artículo 126.
 
-Los trabajadores de base y eventuales tendrán la obligación de marcar en forma individual, su tarjeta de asistencia a la hora de entrada y de salida, y mantenerla en el tarjetero correspondiente. Sólo con la autorización expresa del Director de la dependencia o unidad administrativa que corresponda, podrá dispensarse la obligación de registrar su asistencia en la tarjeta.
+Para efectuar por primera vez el pago de este impuesto o cuando exista modificación del valor con motivo de la revaluación del predio, los interesados deberán presentar en la Tesorería, la cédula catastral o, en su caso, la notificación correspondiente.
 
-###### ARTÍCULO 124.
+###### Artículo 127.
 
-Las incapacidades expedidas por el Instituto Mexicano del Seguro Social o por el Coordinador de Servicios Médicos Municipales según corresponda serán los únicos elementos que justifiquen las faltas del trabajador.
+Los sujetos del impuesto están obligados a manifestar a la Tesorería los cambios de domicilio, dentro de los treinta días siguientes al en que se efectúen. Si no lo hicieren, se tendrá como domicilio, para todos los efectos legales, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
 
-###### ARTÍCULO 125.
+###### Artículo 128.
 
-Los trabajadores deberán de iniciar sus labores precisamente a la hora de entrada señalada para tal efecto, y en el lugar que les corresponda, o en donde así lo indique su superior inmediato.
+La Tesorería tendrá acción real para el cobro del impuesto predial y de las prestaciones accesorias a éste.
 
-###### ARTÍCULO 126.
+En consecuencia, el procedimiento administrativo de ejecución, que establece el Código de la materia, afectará directamente los predios y a quien resulte ser el propietario, nudo propietario, copropietario, poseedor o coposesor.
 
-Todos los trabajadores tendrán la obligación de mantener, sus lugares y equipos de trabajo, en un estado permanente de orden y limpieza, salvo los casos que correspondan al personal contratado para tal efecto.
+###### Artículo 129.
 
-###### ARTÍCULO 127.
+Los Notarios Públicos, para autorizar la expedición del título en forma definitiva, en que se hagan constar contratos y resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Municipio, exigirán la constancia de no adeudo en el pago de este impuesto y la última boleta o recibo de pago, correspondiente al ejercicio fiscal en que se efectúe la operación.
 
-Los trabajadores están obligados a observar las disposiciones administrativas que dicta el H. Ayuntamiento para prevenir los accidentes de trabajo y enfermedades profesionales, así como, observar y practicar las medidas de seguridad e higiene que sean dictadas por las autoridades laborales, por el Instituto de Seguridad Social competente, y por los demás reglamentos de la materia y que sean de aplicación Municipal.
+###### Artículo 130.
 
-###### ARTÍCULO 128.
+Es objeto de este Impuesto, la adquisición de bienes inmuebles, que consistan en el suelo o en éste y las construcciones adheridas al mismo, ubicados en el Municipio.
 
-Para prevenir los accidentes de trabajo y enfermedades profesionales los trabajadores estarán obligados a usar debidamente el equipo de protección y seguridad que el H. Ayuntamiento les proporcione.
+###### Artículo 131.
 
-###### ARTÍCULO 129.
+Para los efectos de este capítulo se entiende por adquisición de bienes inmuebles, la que se derive de:
 
-El salario es la retribución que debe de pagarse al trabajador a cambio de los servicios prestados. Su pago se hará quincenalmente, efectuándose los días 15 y 30 de cada mes, en el lugar de trabajo o en las instalaciones del propio Ayuntamiento, en moneda del curso legal, cheque nominativo o a través del sistema electrónico de pagos que establezca la Secretaría de Finanzas Públicas, teniendo la obligación de firmar los recibos de sueldos o cualquier documento que tenga el Ayuntamiento como comprobante del pago.
+I. Todo acto por el que se transmita la propiedad de bienes inmuebles, la que ocurra por causa de fallecimiento y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, así como al cambiar las capitulaciones matrimoniales, siempre que sean inmuebles de los copropietarios o de los cónyuges;
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+II. La compraventa de bienes inmuebles, incluso, hecha con reserva de dominio o sujeta a condición;
 
-###### ARTÍCULO 130.
+III. La cesión de derechos de bienes inmuebles;
 
-El salario será uniforme para cada una de las categorías de los trabajadores y trabajadoras de base de acuerdo al tabulador que establezca la Secretaría de Administración y será fijado legalmente en los presupuestos respectivos, no pudiendo ser menor por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, , las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+IV. La constitución, fusión y escisión de las sociedades, cuando a través de ellas se realice la transmisión de dominio de bienes inmuebles, incluso en los casos siguientes:
 
-APARTADO TERCERO
+a) En escisión aun cuando los accionistas propietarios de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos.
 
-De las Obligaciones de los Trabajadores
+b) En fusión aun cuando los accionistas propietarios de las acciones con derecho a voto de la sociedad que surge con motivo de la misma, no las enajenen.
 
-###### ARTÍCULO 131.
+Para los efectos de esta fracción no se considerarán como acciones con derecho a voto, aquellas que lo tengan limitado y las que en los términos de la legislación mercantil se denominen como acciones de goce; tratándose de sociedades que no sean por acciones, se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que lo tengan limitado.
 
-Son obligaciones de los trabajadores, las siguientes:
+V. Las aportaciones en especie para la constitución, aumento o disminución de capital, pago en especie de remanentes, utilidades o dividendos y la adjudicación por liquidación de asociaciones o sociedades civiles o mercantiles, cuando a través de ellas se realice transmisión de dominio de bienes inmuebles y sobre el valor de éstos;
 
-I. Ejecutar el trabajo con honestidad, eficiencia, cuidado y esmero apropiado, en la forma, tiempo y lugares convenidos.
+VI. La constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
 
-II. Sujetarse a las instrucciones recibidas de sus respectivos jefes para efectuar los trabajos que se le encomienden.
+VII. La prescripción positiva y la información ad perpétuam, en los términos que establecen los Códigos Civil y de Procedimientos Civiles para el Estado de Veracruz de Ignacio de la Llave;
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+VIII. La adjudicación de bienes inmuebles, derivada de remate judicial o administrativo, excepto la adjudicación en materia laboral;
 
-III. A tratar con mutuo respeto a sus subordinados, superiores, compañeros de trabajo y público en general, absteniéndose de cualquier abuso, actitud prepotente, maltrato de palabra u obra, así como a cualquier manifestación de violencia laboral, entendida ésta como prácticas, actitudes y acciones discriminatorias que atentan contra el principio de igualdad que se proyectan en la segregación ocupacional, el acoso laboral, el acoso y hostigamiento sexual, y demás conductas que deterioren la imagen del H. Ayuntamiento.
+IX. La readquisición de la propiedad de bienes inmuebles, a consecuencia de la extinción o la rescisión voluntaria del contrato;
 
-IV. Dar buen uso a los muebles, inmuebles, materiales, máquinas y equipos que utilicen o que estén a su resguardo y dar aviso inmediato a su superior de cualquier falla o defecto que éstos presente (sic) a fin de que se reparen o repongan. La falta de este aviso al trabajador le será atribuible la responsabilidad.
+X. La adjudicación por cesión, aportación o cualesquier otra forma de transmisión de derechos hereditarios sobre bienes inmuebles;
 
-V. Registrar personalmente su tarjeta de control de asistencia.
+XI. La permuta de bienes inmuebles;
 
-VI. Dar aviso oportuno a la Dirección de Recursos Humanos, del cambio de domicilio, de estado civil, y/o nacimiento de sus nuevos hijos.
+XII. La donación de bienes inmuebles;
 
-VII. Usar los gafetes, la ropa de trabajo y/o equipo que se le encomiende para su identificación y seguridad durante las horas de trabajo o cuando así lo requieran.
+XIII. La transmisión de la propiedad a través de fideicomiso.
 
-VIII. Asistir y participar en los cursos internos de capacitación y adiestramiento que les indiquen sus superiores. Cuando los cursos sean externos, el H. Ayuntamiento pagará los cursos en proporción al nivel de aprovechamiento tenido en el curso, y se cursarán siempre y cuando tengan relación directa con su área de trabajo y sean necesarios para un mejor desempeño de sus funciones, debiendo ser autorizados previamente por el Comité de Capacitación.
+Para los efectos de este impuesto, se considera que existe transmisión de la propiedad de bienes inmuebles a través de fideicomiso:
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+a) En el acto de la constitución del fideicomiso si se designa fideicomisario diverso del fideicomitente y siempre que éste no tenga derecho a readquirir del fiduciario los bienes;
 
-Se consideraran necesarios e indispensables para el desarrollo de la actividad laboral, aquellos que se relacionan con buenas prácticas de igualdad de género y no discriminación, derechos humanos, prevención del hostigamiento y acoso sexual, así como aquellos contra la violencia laboral;
+b) En el acto en que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si al constituirse el fideicomiso, se hubiera establecido tal derecho; y
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+c) En el acto de designar fideicomisario, si éste no se designó al constituirse el fideicomiso, siempre que dicha designación no recaiga en el propio fideicomitente;
 
-IX. Cumplir con las demás normas de trabajo que le son aplicables y que contengan la Ley Federal del Trabajo, el Estatuto Jurídico de los Servidores Públicos de los Gobiernos del Estado, Municipios y Organismos descentralizados, la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, el Código de Ética para la Administración Pública del Municipio Libre deAguascalientes (sic), Reglamento Interior de Trabajo del Municipio de Aguascalientes y el presente este Código y demás normatividad aplicable.
+XIV. La cesión de derechos de fideicomitentes o fideicomisarios cuando se hayan afectado bienes inmuebles. Se considera que existe ésta cuando haya substitución de un fideicomitente o de un fideicomisario, por cualquier motivo; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XV. La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía de la porción que correspondía al copropietario o cónyuge.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+El Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, se causará en toda operación traslativa de dominio, aun cuando ésta no se inscriba en el Registro Público de la Propiedad.
 
-###### ARTÍCULO 132.
+###### Artículo 132.
 
-A las trabajadoras y los trabajadores les queda estrictamente prohibido:
+Son sujetos de este impuesto, las personas físicas o morales que adquieran inmuebles ubicados dentro del territorio del Municipio, por alguna de las formas señaladas en el artículo anterior.
 
-I. Hacer rifas, tandas, cobros, colectas, apuestas, préstamos de dinero, cualquier acto de comercio y cualquier actividad ajena a su trabajo, en horas laborables y dentro de los inmuebles del H. Ayuntamiento.
+###### Artículo 133.
 
-II. Hacer llamadas foráneas del sistema telefónico de la Presidencia Municipal, para asuntos personales, excepto en aquellos casos que surjan de una fuerza mayor.
+Será base gravable del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, el valor que resulte más alto entre el de operación y el valor catastral o catastral provisional, con base en las Tablas de Valores publicadas en la Gaceta Oficial órgano del Gobierno del Estado, en términos de la Ley Número 42 de Catastro del Estado de Veracruz de Ignacio de la Llave.
 
-III. Platicar excesivamente con cualquier persona, leer cualquier tipo de lectura, salvo sea de estudio de asuntos de trabajo, dormir en horas laborables y descuidar la atención al público.
+Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten, bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
 
-IV. Registrar la tarjeta de control de asistencia de otra persona o dejar que registre alguien más la suya.
+Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de condonarlas, el importe de ellas se considerará como parte de la contraprestación pactado.
 
-V. Faltar al trabajo sin causa justificada o sin permiso del jefe inmediato.
+Se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del cincuenta por ciento del valor de la propiedad.
 
-VI. Fumar en las áreas de trabajo prohibidas por la Coordinación de Servicios Médicos Municipales.
+En los inmuebles adquiridos durante el período de tres años anteriores, contados a partir de la fecha de la operación actual, el impuesto se calculará sobre el valor que resulte de disminuir del valor mayor, a que se refiere el párrafo primero, aquel valor que se tomó como base para el cálculo del impuesto en la última adquisición.
 
-VII. Conducir sin licencia cualquier vehículo propiedad Municipal.
+En la adquisición por prescripción positiva, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial; en la adquisición por herencia, a la fecha de la adjudicación; y en la información ad perpétuam, a la fecha de la resolución judicial.
 
-VIII. Sustraer de las instalaciones municipales útiles de trabajo o materia prima elaborada o cualquier objeto propiedad Municipal.
+###### Artículo 134.
 
-IX. Abandonar, aunque sea momentáneamente, sus labores, sin la autorización de su jefe inmediato.
+Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo, deberán contar con el Certificado de Valor Catastral o Catastral Provisional, actualizado a la fecha en que se hubiere realizado el acto generador del impuesto.
 
-X. Presentarse a sus labores con aliento alcohólico; bajo los efectos de bebidas embriagantes o bajo los efectos de narcóticos, enervantes o psicotrópicos, salvo que exista prescripción médica, en cuyo caso deberá hacerlo del conocimiento de su jefe superior.
+Para los efectos de este artículo la tesorería deberá emitir dicho certificado en un plazo no mayor a cinco días hábiles contados a partir de la fecha de la recepción de la solicitud, en el entendido de que de no expedirse este en el plazo señalado, se considerará como valor catastral el que señale el recibo del impuesto predial correspondiente al ejercicio en que se hubiere realizado el acto generador del impuesto. En este caso la autoridad se reserva sus derechos para emitir avalúo actualizado y cobrar a los sujetos del crédito y obligados solidarios, si existieren, las diferencias de la propiedad inmobiliaria que corresponda. El Notario Público deberá hacer constar esta circunstancia en el instrumento correspondiente.
 
-XI. Portar armas de cualquier naturaleza, durante las horas de trabajo y dentro de las instalaciones del H. Ayuntamiento, salvo que la naturaleza de sus actividades así lo exija.
+###### Artículo 135.
 
-XII. Proferir comentarios discriminatorios de género, que menoscaben, anulen, o faciliten burlas o humillaciones hacia las personas, en razón de su cuerpo, sexualidad o características personales;
+Además de los documentos a que se refiere el artículo anterior, los contribuyentes de este impuesto presentarán, ante quien se haga constar el acto objeto del impuesto, la última boleta del pago del impuesto predial, el pago de los derechos de agua potable y alcantarillado y de limpia pública, correspondientes al periodo de la operación y que por lo tanto acrediten estar al corriente. El Notario dará fe de haber tenido a la vista dichos comprobantes y los agregará al apéndice del protocolo.
 
-XIII. Efectuar actos de hostigamiento o acoso sexual, o cualquier otra acción de violencia de género y laboral.
+Las constancias de no adeudo en el pago de contribuciones municipales se expedirán por la Tesorería -previo pago de un salario mínimo por concepto de derechos de expedición- al momento de realizar el pago del impuesto por traslación de dominio.
 
-XIV. Conducir y utilizar el celular sin dispositivo manos libres en un vehículo propiedad municipal en movimiento.
+Las constancias de no adeudo que expida la Tesorería certifican únicamente el cumplimiento de los pagos por concepto de contribuciones, que realizó el contribuyente dentro del último periodo de pago en base a los valores que el mismo declaró, por lo que el Ayuntamiento se reserva el derecho de ejercer sus facultades de comprobación respecto a los valores que por omisiones en su declaración pudieran generar nuevos créditos por diferencias. Los contribuyentes podrán informar cualquier modificación o solicitar de manera voluntaria la actualización de sus valores catastrales a la Tesorería.
 
-XV. Conducir un vehículo propiedad municipal con licencia suspendida.
+Si existiere algún crédito por concepto de contribuciones por mejoras a favor del Estado o el Municipio, con fecha de vencimiento para el pago posterior a la fecha de la firma de la escritura, y el adquirente acepta o consiente dicho crédito los Notarios lo harán constar en el instrumento público.
 
-XVI. Las demás prohibiciones que le impone la Ley Federal del Trabajo, La Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, El Estatuto Jurídico para los servidores Públicos de los Gobiernos del Estado, Municipios y Organismos Descentralizados del Estado de Aguascalientes, Reglamento Interior de Trabajo del Municipio de Aguascalientes y este Código.
+###### Artículo 136.
 
-Para el caso de incumplir con lo previsto en las fracciones XIV y XV del presente artículo, se aplicará la sanción prevista en el artículo 138 fracción II de este Código.
+El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará, aplicando a la base gravable determinada la tasa del uno por ciento.
 
-###### ARTÍCULO 133.
+###### Artículo 137.
 
-Los trabajadores tendrán derecho a solicitar por escrito y obtener, a juicio de la presidencia municipal, permisos sin goce de sueldo, hasta por tres meses después de un año laborado.
+En las adquisiciones que se hagan constar en escritura pública, los Notarios calcularán el impuesto bajo su responsabilidad, lo enterarán una vez expensados para ello, mediante declaración que presentarán ante la Tesorería en la forma oficial autorizada y lo harán constar en el testimonio. En los demás casos, los contribuyentes enterarán el impuesto mediante la forma oficial autorizada ante dicha Tesorería.
 
-###### ARTÍCULO 134.
+Se presentará declaración por todas las operaciones, aun cuando no proceda el pago del impuesto.
 
-Todo lo relacionado con los riesgos profesionales y accidentes de trabajo, será regido por la Ley Federal del Trabajo y será incrementado con las prestaciones obtenidas a través de los convenios celebrados entre el H. Ayuntamiento y el Sindicato respectivo.
+Con la forma oficial de declaración deberán acompañarse:
 
-###### ARTÍCULO 135.
+I. Certificado de Valor Catastral o Catastral Provisional; y
 
-Las faltas de asistencia injustificadas que tengan los trabajadores se sancionarán, reduciendo de su salario el día no trabajado, y en caso de que compute más de tres faltas en el término de treinta días será motivo suficiente para rescindir la relación laboral, sin responsabilidad para el H. Ayuntamiento.
+II. Copia de la constancia de no adeudo y de la boleta de pago del impuesto predial correspondiente al ejercicio en que se realice la operación.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2015)</small>
+###### Artículo 138.
 
-ARTÍCULO 135 BIS.- Se otorgara un permiso especial con goce de sueldo a los trabajadores de cinco días laborales, por el nacimiento de sus hijos o hijas, de igual manera para los trámites de adopción de un infante, debiendo comprobarse eficazmente tal situación.
+Los adquirentes que celebren operaciones de constitución de usufructo, transmisión de éste o de la nuda propiedad, podrán optar por pagar el impuesto, considerando el cien por ciento de la base gravable.
 
-APARTADO CUARTO
+En este caso, cuando se consolide la propiedad, no se efectuará pago alguno por este concepto, pero se presentará declaración relacionándola con la anterior.
 
-Medidas Disciplinarias
+###### Artículo 139.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2015)</small>
+La Tesorería, en ejercicio de sus facultades de comprobación respecto de contribuyentes de este impuesto, cuando lo estime necesario, podrá solicitar de los contribuyentes que presenten el testimonio respectivo en original, para obtener una copia del mismo.
 
-###### ARTÍCULO 136.
+Si en la declaración se oculta superficie de terreno o de las construcciones consignadas en el antecedente de propiedad, independientemente de la diferencia de impuesto que resulte, se aplicará la sanción que corresponda.
 
-Para la imposición de medidas disciplinarias, el H. Ayuntamiento por conducto de la Dirección de Recursos Humanos de la Secretaría de Administración, será la unidad administrativa que conocerá y determinará los alcances de la sanción, no sin antes escuchar en defensa a la trabajadora o trabajador, con excepción de los casos de discriminación, violencia laboral, hostigamiento y acoso sexual, pues en tales casos será la Comisión para la Erradicación de la Violencia Laboral, la facultada para conocer y determinar los alcances de la sanción, de igual manera no sin antes escuchar en defensa a la trabajadora o trabajador.
+###### Artículo 140.
 
-###### ARTÍCULO 137.
+El pago de este impuesto se realizará dentro de los treinta días siguientes a la fecha en que sean firmadas las escrituras públicas correspondientes o, cuando se trate de resoluciones administrativas o judiciales o de documentos otorgados fuera del Estado, dentro de los treinta días siguientes a la fecha en que causen ejecutoria o sean autorizados.
 
-Las infracciones a los deberes y obligaciones que impone el presente Código a los funcionarios municipales, se castigarán de acuerdo a los antecedentes del trabajador, a su jerarquía y a la magnitud de la falta, sin perjuicio de cualquier responsabilidad penal o civil que pudiera resultar.
-
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2015)</small>
-
-###### ARTÍCULO 138.
-
-Cuando alguna trabajadora o trabajador viole alguna de las disposiciones señaladas en el artículo anterior, su superior levantará acta administrativa, pudiendo registrar escritorios, archiveros, y equipos de su trabajo ante dos testigos en la cual se harán constar los hechos en forma concreta asentando la infracción o causas que la motivaron, firmándola la trabajadora o trabajador, o en su caso, se le notificará en el domicilio que tenga registrado, remitiendo dicha acta a la Dirección de Recursos Humanos de la Secretaría de Administración o a la Comisión para la Erradicación de la Violencia Laboral, según corresponda, quienes podrá (sic) imponer fundadamente las siguientes medidas disciplinarias:
-
-I. Amonestación verbal o por escrito.
-
-II. Suspensión del trabajo de uno a quince días, sin goce de sueldo.
-
-III. Rescisión de la relación de trabajo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 2015)</small>
-
-APARTADO CUARTO BIS
-
-Del Consejo para la Igualdad sustantiva en materia Laboral y la Comisión para la Erradicación de la Violencia Laboral
-
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
-
-ARTÍCULO 138 BIS.- El Consejo para la Igualdad sustantiva en materia Laboral tiene por objeto establecer la coordinación entre las dependencias y entidades de la Administración Pública Municipal, a fin de implementar políticas y acciones para prevenir y erradicar la violencia laboral, así como los principios y modalidades para garantizar su acceso a un espacio laboral libre de violencia que favorezca el desarrollo y bienestar conforme a los principios de igualdad y no discriminación que permitan un desarrollo integral en las funciones y actividades que se desarrollan dentro de la Administración Pública Municipal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
-
-ARTÍCULO 138 TER.- El Consejo para la Igualdad sustantiva en materia Laboral tendrá como atribuciones las siguientes:
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-I. Implementar políticas sociales, laborales y culturales que justifiquen y alienten las relaciones humanas basadas en el respeto de los derechos humanos y sus garantías para su protección;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-II. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-III. Fortalecer el marco laboral para asegurar la sanción a quienes hostigan y acosan;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-IV. Promover y difundir entre las trabajadoras y trabajadores que el hostigamiento y el acoso sexual son conductas sancionadas por la ley, así como actos que discriminan a las personas y consecuentemente violan sus derechos humanos;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-V. Diseñar programas que atiendan el impacto de la violencia en las víctimas y de servicios reeducativos integrales para agresores y agresoras;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-VI. Establecer políticas y lineamientos en materia de igualdad laboral entre mujeres y hombres;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-VII. Garantizar la igualdad de oportunidades para mujeres y hombres dentro del ámbito laboral, mediante proyectos e instrumentos compensatorios como acciones afirmativas, que aceleren la igualdad de las mujeres en relación con los hombres, mismas que no se consideraran discriminatorias;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-VIII. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación en términos del ámbito laboral sin importar su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-IX. Fomentar que los procesos de contratación sean equitativos para mujeres y hombres;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-X. Impulsar liderazgos igualitarios dentro de la jerarquía laboral tanto para trabajadoras como trabajadores del Ayuntamiento;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XI. Promover el desempeño de las dependencias y entidades de la administración pública municipal para que asuman el compromiso de prevenir y atender la violencia laboral;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XII. Asegurar la optimización de recursos e instrumentos de todo tipo destinados para actuar en contra de la violencia laboral de conformidad con las disposiciones legales aplicables;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XIII. Propiciar el establecimiento de vínculos institucionales para el intercambio de información con dependencias, organismos, entidades u otras instituciones nacionales e internacionales;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-XIV. Organizar seminarios, simposios, conferencias, cursos, diplomados y otros actos relacionados con temas de interés que le permitan la consecución de sus fines, conformando un programa anual de capacitación para los y las servidores(as) públicos( as) del Municipio para la debida sensibilización y concientización, incluyendo los talleres de nuevas masculinidades;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XV. Cualquier otra que determine el H. Ayuntamiento del Municipio de Aguascalientes; y
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XVI. Las demás que de manera enunciativa y no limitativa comprendan y prevengan la violencia laboral.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
-
-ARTÍCULO 138 QUÁTER.- El Consejo para la Igualdad sustantiva en materia Laboral, estará integrado de la siguiente manera:
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-I. Presidente(a) Municipal, quien fungirá como Presidente(a) del mismo;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-II. Titular Presidente(a) de la Comisión Permanente de Igualdad y Género;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-III. Titular Presidente(a) de la Comisión Permanente de Derechos Humanos;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-IV. Titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, quien fungirá como Secretario(a) Ejecutivo(a) del Consejo;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-V. Titular de la Oficina Ejecutiva de la Presidencia Municipal;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-VI. Titular de la Coordinación General de Observatorio Ciudadano de Transparencia y Gestión Municipal;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-VII. Presidente(a) del Comité Municipal para el Desarrollo Integral de la Familia;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-VIII. Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-IX. Titular de la Coordinación General de Comunicación Social;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-X. Titular de la Contraloría Municipal;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XI. Titular de la Secretaría de Finanzas;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XII. Titular de la Secretaría de de (sic) Obras Publicas;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XIII. Titular de la Secretaría de Administración;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XIV. Titular de la Secretaría de Integración Social;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XV. Titular de la Secretaría de Desarrollo Urbano;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XVI. Titular de la Secretaría de Servicios Públicos;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XVII. Titular de la Secretaría de Seguridad Pública;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XVIII. Titular de la Secretaría de Medio Ambiente y Desarrollo Sustentable;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XIX. Titular del Instituto Municipal de la Mujer de Aguascalientes;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XX. Titular de la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XXI. Titular del Instituto Municipal de Planeación;
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XXII. Titular del Instituto Municipal Aguascalentense para la Cultura; y
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-XXIII. Secretario General del Sindicato Único de Trabajadores Estatales y Municipales de Aguascalientes (SUTEMA).
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
-
-Los integrantes del Consejo tendrán una representación exclusivamente honorífica y no podrán recibir compensación alguna por este motivo.
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
-
-ARTÍCULO 138 QUINQUIES.- Para la imposición de medidas disciplinarias relacionadas exclusivamente con la discriminación, violencia laboral, hostigamiento y acoso sexual, la Comisión para la Erradicación de la Violencia Laboral será la facultada para conocer y determinar los alcances de la sanción, no sin antes escuchar en defensa al trabajador y trabajadora.
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
-
-ARTÍCULO 138 SEXIES.- Para la interpretación, vigilancia y aplicación del Apartado Cuarto Bis del Título Tercero de la Normatividad Interna Municipal, se crea la Comisión para la Erradicación de la Violencia Laboral, la cual estará integrada de la siguiente manera:
-
-I. Titular Presidente(a) de la Comisión Permanente de Igualdad y Género, quien fungirá como Presidente(a) de la misma;
-
-II. Titular Presidente(a) de la Comisión Permanente de Derechos Humanos;
-
-III. El Síndico(a) Procurador;
-
-IV. Titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
-
-V. Titular de Secretaría de Administración;
-
-VI. Director(a) de Recursos Humanos de la Secretaría de Administración, quien fungirá como Secretario(a) Ejecutivo(a) de la Comisión;
-
-VII. Titular del Instituto Municipal de la Mujer de Aguascalientes;
-
-VIII. Titular de la Contraloría Municipal;
-
-IX. Secretario(a) General del Sindicato Único de Trabajadores al Servicio de los Gobiernos del Estado y sus Municipios (SUTEMA);
-
-X. Director(a) de Asuntos Jurídicos de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno; y
-
-XI. Tres integrantes (trabajadoras y trabajadores) que representen a la plantilla laboral del Municipio, electos a través de un mecanismo de insaculación apegado a las necesidades de la Comisión.
-
-El (La) Presidente(a) de la Comisión contará con voz y voto de calidad; el Representante de la Contraloría Municipal, el Secretario Ejecutivo y el (la) Director(a) de Asuntos Jurídicos de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno solamente contarán con voz; y los demás integrantes de la Comisión contarán con voz y voto.
-
-También serán integrantes eventuales de la Comisión los Jefes Inmediatos de las servidoras y servidores públicos sujetos al proceso de aplicación de sanciones, teniendo exclusivamente el derecho a voz.
-
-Los integrantes de la Comisión tendrán una representación exclusivamente honorífica y no podrán recibir compensación alguna por este motivo.
-
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2015)</small>
-
-ARTÍCULO 138 SEPTIS.- La Comisión tendrá las siguientes funciones:
-
-I. Resolver las denuncias que se planteen ante ella por conducto de laCoordinación (sic) de Prevención y Atención Integral de la Violencia de Género del Instituto Municipal de la Mujer de Aguascalientes, por desacato al presente Código, Código de Ética para la Administración Pública del Municipio de Aguascalientes, y el Reglamento Interior de Trabajo del Municipio de Aguascalientes, única y exclusivamente en los casos de discriminación, violencia laboral, hostigamiento y acoso sexual.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2016)</small>
-
-ARTÍCULO 138 OCTIES.- Para los efectos de la fracción VI del artículo anterior se entiende por:
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
-
-a) Hostigamiento sexual: El ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral. Se expresa en conductas verbales, físicas o psicológicas, relacionadas con la sexualidad de connotación lasciva. El hostigamiento sexual incluye provocaciones, insinuaciones o invitaciones, pero de manera reiterada, lo que implica que un acto aislado no es considerado en la definición.
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
-
-b) Acoso Sexual: La forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-c) Discriminación: Toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel,, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo, tal y como lo establece el artículo primero de la Ley Federal para prevenir y eliminar la Discriminación.
-
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2015)</small>
-
-ARTÍCULO 138 NOVIES.- Las conductas de las servidoras y servidores públicos del H. Ayuntamiento del Municipio de Aguascalientes contrarias al presente Código, el Código de Ética y al Reglamento Interior de Trabajo del Municipio de Aguascalientes, deberán ser denunciadas a la Comisión para la Erradicación de la Violencia Laboral por conducto de laCoordinación (sic) de Prevención y Atención Integral de la Violencia de Género del Instituto Municipal de la Mujer de Aguascalientes.
-
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2015)</small>
-
-ARTÍCULO 138 DECIES.- Conocida la denuncia o la vista de acta administrativa, la Comisión dará derecho de audiencia a las o a los probables infractores, y procederá a determinar si existió o no la falta, en su caso, dictando las medidas disciplinarias establecidas en el artículo 138 del presente Código, conforme al reglamento interior de la misma Comisión para la Erradicación de la Violencia Laboral, resolución que remitirá a la Dirección de Recursos Humanos de la Secretaría de Administración para su ejecución.
-
-APARTADO QUINTO
-
-Obligaciones del Municipio hacia sus Trabajadores
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
-
-###### ARTÍCULO 139.
-
-Son obligaciones del Municipio hacia las y los trabajadores de la Administración Pública Municipal, las siguientes:
-
-I. Pagar los salarios pactados y prestaciones a que tienen derecho.
-
-II. Proporcionar los útiles, instrumentos, materiales y equipo de trabajo para la ejecución eficiente de su trabajo contratado.
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-III. Tener a los trabajadores la debida consideración, absteniéndose de mal trato de palabra y obra. Impedir la inequidad del pago salarial, el examen de no gravidez, el despido por embarazo, así como por preferencia u orientación sexual, por discapacidad, por condición de salud y cualquier otro tipo de maltrato psíquico, social, económico, físico y sexual. Los mismos se consideran como actos u omisiones que dañan la autoestima, la integridad, la libertad y la dignidad de las personas; por lo que es imprescindible, informar, prevenir, sancionar y erradicar la discriminación y violencia laboral y en general las violencias existentes entre las trabajadoras y trabajadores del Municipio sin importar la relación jerárquica.
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-IV. Conceder los mismos derechos independientemente de su sexo, religión, raza, condición económica, social o política, origen étnico o racial, género, edad, discapacidad, condiciones de salud, embarazo, lengua, religión, opiniones, preferencia u orientación sexual, estado civil o cualquier otra análoga;
-
-V. Conceder el tiempo necesario para el ejercicio del voto en elecciones populares.
-
-VI. Proporcionar capacitación y adiestramiento de conformidad a las necesidades del H. Ayuntamiento y de sus trabajadores.
-
-VII. Adoptar las medidas de higiene y seguridad previstas por las leyes de la materia.
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
-
-VIII. Adoptar medidas para informar, atender y sancionar la discriminación, la violencia laboral, el acoso y hostigamiento sexual;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-IX. Adoptar criterios de igualdad sustantiva en materia de género que se vean reflejados en la igualdad laboral y no discriminación, a partir de analizar las desigualdades existentes entre mujeres y hombres, previstas por las leyes de la materia;
-
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
-X. Adoptar modelos de trabajo que involucren la utilización de los avances electrónicos y tecnológicos que abonen a la conciliación entre la vida familiar y laboral, buscando en todo momento que los hombres participen en la crianza de hijas e hijos; y
-
-XI. Las demás establecidas y que le imponen las leyes y reglamentos en la materia.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
-
-###### ARTÍCULO 140.
-
-Son días de descanso para los trabajadores del Municipio los siguientes: 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, jueves y viernes santos, el tercer lunes de marzo en conmemoración del 21 de marzo, 25 de abril, 1° de mayo; 23 de junio, 16 de septiembre, 2 de noviembre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, 12 y 25 de diciembre, así como el primero (sic) diciembre de cada seis años que sea toma de posesión del Ejecutivo Federal.
-
-### CAPÍTULO III. De la Entrega y Recepción de la Administración Pública Municipal
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Art. 126.
 
@@ -5929,81 +4175,51 @@ No podrá hacerse pago alguno que no esté comprendido en el Presupuesto o deter
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
-###### ARTÍCULO 141.
+###### Artículo 141.
 
-El Municipio institucionalizará de acuerdo a sus recursos el servicio civil de carrera, el cuál tendrá los siguientes propósitos:
+No se causará este impuesto, en las adquisiciones de bienes inmuebles que realicen la Federación, los Estados y los Municipios, para formar parte del dominio público. No causarán este impuesto las adquisiciones de inmuebles que se realicen en los siguientes casos:
 
-I. Garantizar la seguridad y estabilidad en el empleo.
+I. La constitución, disolución o liquidación de la sociedad conyugal;
 
-II. Fomentar la vocación de servicio, mediante una motivación adecuada.
+II. La devolución de los bienes inmuebles del enajenante, por la revocación, rescisión o anulación del contrato respectivo que consten en resolución judicial;
 
-III. Promover la capacitación permanente del personal.
+III. La división de la cosa común entre los copropietarios siempre que los valores de las partes adjudicadas a los partícipes no excedan de los valores de sus respectivas porciones y que no existan compensaciones en efectivo entre ellos;
 
-IV. Procurar la lealtad a la institución municipal.
+IV. Los actos constitutivos de fideicomiso de garantía, salvo que se realicen en cumplimiento de los fines de estos fideicomisos. Asimismo, no causarán este impuesto los actos constitutivos de fideicomisos estatales y bursátiles, así como las operaciones que los fideicomisos estatales realicen, cuando precisen la traslación del dominio de bienes inmuebles, con el fin de cumplir con su objeto público o de incorporarlos al dominio público; y
 
-V. Promover la eficiencia y eficacia de los servidores públicos municipales.
+V. Por los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
-VI. Mejorar las condiciones laborales de los servidores públicos municipales.
+En la enajenación de predios derivada de programas de regularización de la tenencia de la tierra, que realicen organismos federales, estatales o municipales, se pagará este impuesto con una cuota fija equivalente al cincuenta por ciento de un salario mínimo diario.
 
-VII. Garantizar promociones justas y otras formas de progreso laboral, con base en sus méritos.
+###### Artículo 142.
 
-VIII. Garantizar a los servidores públicos municipales, el ejercicio de los derechos que les reconocen las leyes y otros ordenamientos jurídicos.
+Los fedatarios son responsables solidarios con el contribuyente por el incumplimiento de las obligaciones que les imponen los artículos 129 y 137 de este Código. Además, deberán:
 
-IX. Contribuir al bienestar de los servidores públicos municipales y sus familias, mediante el desarrollo de actividades educativas, de asistencia, culturales, deportivas, recreativas y sociales.
+I. Comprobar que el inmueble motivo de la operación se encuentre al corriente en el pago del Impuesto Predial;
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+II. Hacer constar en la declaración a que se refiere el artículo 137 los datos solicitados para la identificación de los predios que permitan su regularización fiscal;
 
-X. Establecer la perspectiva de género, como forma de interacción entre las y los trabajadores del Municipio facilitando la construcción de nuevas masculinidades.
+III. Insertar en las escrituras o documentos que otorguen, los datos relativos al pago de este impuesto; y
 
-###### ARTÍCULO 142.
+IV. Abstenerse de autorizar escritura pública alguna, en la que hagan constar operaciones de traslado de dominio de bienes inmuebles, así como la constitución o transmisión de derechos reales sobre los mismos, si no han obtenido la constancia de no adeudo.
 
-Para la institucionalización del servicio civil de carrera, el Municipio establecerá:
+###### Artículo 143.
 
-I. Un plan de objetivos que medirán el proceso de institucionalización del servicio civil de carrera.
+Es objeto del Impuesto Sobre Espectáculos Públicos, la explotación de cualquier diversión o espectáculo público que se realice en forma eventual o habitual en el Municipio. Por diversión o espectáculo público debe entenderse toda función de esparcimiento, sea teatral, deportiva o de cualquier otra naturaleza semejante, que se verifique en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando el importe del boleto de entrada o de cualquier otro derecho de admisión, excepto cines.
 
-II. Las normas, políticas y procedimientos administrativos, que definirán que servidores públicos municipales participarán en el servicio civil de carrera.
+Quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, si para el acceso a ellos se paga alguna cantidad en dinero. Cuando los promotores que organicen espectáculos públicos, expidan pases u otorguen cortesías, causarán el Impuesto Sobre Espectáculos Públicos correspondiente, como si se hubiere cubierto el importe del boleto o cuota respectiva.
 
-III. Un estatuto del personal regulado por una metodología pedagógica y de medición del desempeño del trabajador.
+###### Artículo 144.
 
-IV. Un sistema de mérito para la selección, promoción, ascenso y estabilidad personal.
+Son sujetos del Impuesto Sobre Espectáculos Públicos, las personas físicas o morales que habitual o eventualmente promuevan, organicen o exploten las actividades señaladas en el artículo anterior.
 
-V. Una estructura administrativa que realice la planeación y ejecución del servicio civil de carrera.
+###### Artículo 145.
 
-VI. Un sistema de clasificación de puestos.
+Es base gravable del Impuesto Sobre Espectáculos Públicos, el monto total del importe de los boletos de entrada o derechos de admisión vendidos, y el equivalente a los pases o cortesías.
 
-VII. Un sistema de plan de salarios y tabulador de puestos.
+Cuando en un mismo local, se celebren diversos espectáculos explotados por una misma persona, que causen el impuesto a que se refiere este capítulo con tasas distintas, para determinar la base sobre la que deba pagarse, se aplicará la más alta.
 
-VIII. Un sistema de capacitación, actualización y desarrollo de personal.
-
-###### ARTÍCULO 143.
-
-El Municipio creará una comisión del servicio civil de carrera, como organismo auxiliar de éste, en el que participarán por parte del Ayuntamiento tres personas designadas por el Presidente Municipal a través de la Secretaría de Administración y otros tres representantes de los trabajadores integrados al servicio civil.
-
-###### ARTÍCULO 144.
-
-La comisión del servicio civil de carrera tendrá las siguientes funciones:
-
-I. Promover ante las dependencias y entidades de la administración pública municipal, la realización de los programas específicos del servicio civil de carrera.
-
-II. Promover mecanismos de coordinación entre las dependencias y entidades de la administración pública municipal, para uniformar y sistematizar los métodos de administración y desarrollo personal, encaminados a instrumentar el servicio civil de carrera.
-
-III. Determinar y proponer los elementos que permitan la adecuación e integración del marco jurídico administrativo que requiera la instauración del servicio civil de carrera.
-
-IV. Promover mecanismos de participación permanente, para integrar y unificar los planteamientos de las dependencias y entidades de la administración pública municipal, así como los correspondientes a las representaciones sindicales, en la instrumentación del servicio civil de carrera.
-
-V. Estudiar y emitir las recomendaciones necesarias para asegurar la congruencia de normas, sistemas y procedimientos del servicio civil de carrera, con los instrumentos del plan de desarrollo municipal.
-
-VI. Evaluar periódicamente los resultados de las acciones orientadas a la administración del servicio civil de carrera.
-
-VII. Las demás que señale el Ayuntamiento, que sean necesarias para el cumplimiento de su objeto.
-
-###### ARTÍCULO 145.
-
-En la aplicación del presente capítulo, se atenderá en lo conducente lo dispuesto por el estatuto jurídico de los Servidores Públicos al Servicio del Estado y del Municipio de Aguascalientes.
-
-### CAPÍTULO IV. Descentralización y Desconcentración Administrativa
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2008)</small>
+### CAPÍTULO II. DE LOS DERECHOS POR REGISTRO Y REFRENDO ANUAL DE TODA ACTIVIDAD ECONÓMICA
 
 ###### Art. 127.
 
@@ -6017,115 +4233,177 @@ Todo funcionario público, sin excepción alguna, antes de tomar posesión de su
 
 En tiempo de paz, ninguna autoridad militar puede ejercer más funciones que las que tengan exacta conexión con la disciplina militar. Solamente habrá Comandancias Militares fijas y permanentes en los castillos, fortalezas y almacenes que dependan inmediatamente del Gobierno de la Unión; o en los campamentos, cuarteles o depósitos que, fuera de las poblaciones, estableciere para la estación de las tropas.
 
-###### ARTÍCULO 146.
+###### Artículo 146.
 
-Las normas contenidas en este capítulo, regulan el proceso de entrega-recepción de las oficinas de las dependencias, unidades administrativas y entidades de la administración pública municipal, con objeto de asegurar la continuidad de sus trabajos y programas emprendidos.
+El Impuesto Sobre Espectáculos Públicos se causará, liquidará y pagará sobre base que en cada caso corresponda, las tarifas o tasas siguientes:
 
-La entrega-recepción de la administración municipal, es el proceso a través del cual los servidores públicos, al separarse de su empleo, cargo o comisión, preparan y entregan a quienes los sustituyan en sus funciones, los asuntos de su competencia, así como los recursos humanos, materiales y financieros que les hayan sido asignados para el ejercicio de sus atribuciones legales.
+I. Ferias, muestras, exposiciones y eventos similares así como carpas de representaciones teatrales, de fantoches, títeres, óptica, fenómenos animales, enanos, bufos, y similares, el tres por ciento sobre la entrada bruta;
 
-###### ARTÍCULO 147.
+II. Circos, el cuatro por ciento sobre la entrada bruta;
 
-La entrega-recepción de los asuntos y recursos que se encuentran a cargo de los servidores públicos salientes, constituyen un procedimiento legal-administrativo de orden informativo, de cumplimiento obligatorio y formal.
+III. Espectáculos deportivos:
 
-###### ARTÍCULO 148.
+a) Box, lucha libre y otros similares, el diez por ciento sobre la entrada bruta;
 
-Los sujetos al proceso de entrega-recepción serán el H. Ayuntamiento, el Presidente Municipal, el Secretario del H. Ayuntamiento y Director General de Gobierno, los Secretarios, los Coordinadores, los Delegados Municipales, los Comisarios Municipales, los que ocupen cargos hasta el nivel de Jefes de Departamento o equivalentes y aquellos de nivel inferior que por la naturaleza e importancia de sus funciones y por la responsabilidad del puesto o encargo que realizan, les sea solicitado por el titular de la dependencia, unidad administrativa o entidad y/o por la Contraloría Municipal.
+b) Carreras de automóviles, caballos, perros, bicicletas y motocicletas, el diez por ciento sobre la entrada bruta;
 
-Tratándose de entidades, son sujetos al proceso de entrega-recepción, los Directores Generales y los que dentro de ellas ocupen cargos con las características establecidas en el párrafo anterior.
+c) Béisbol, fútbol, básquetbol, tenis, pelota vasca y otros juegos de pelota, el cuatro por ciento sobre la entrada bruta.
 
-###### ARTÍCULO 149.
+IV. Corridas de toros, becerradas, novilladas, jaripeos y otros espectáculos similares, el cinco por ciento sobre los ingresos brutos obtenidos;
 
-La entrega-recepción de los asuntos y recursos públicos, se realizará cuando se dé cualquiera de los siguientes supuestos:
+V. Peleas de gallos y otros espectáculos similares, el diez por ciento sobre los ingresos brutos obtenidos;
 
-I. Al término del periodo constitucional de la administración pública municipal de Aguascalientes.
+VI. Representaciones teatrales de comedias, drama, ópera, opereta, zarzuela, revista, vodevil, variedades, ballet o revistas sobre hielo o acuáticas, conciertos y conferencias, el cuatro por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo;
 
-II. Por cualquier otra causa distinta al término del periodo constitucional que implique separación temporal o definitiva del cargo y cese de sus funciones de los servidores públicos señalados en el Artículo 148 del presente Código.
+VII. Exhibiciones y concursos, el nueve por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo;
 
-###### ARTÍCULO 150.
+VIII. Espectáculos diferentes a los anteriores, el diez por ciento sobre la entrada bruta; y
 
-La entrega-recepción se formalizará mediante acta administrativa que se acompañará de un informe escrito del servidor público saliente, autorizado bajo su firma, de las actividades principales realizadas por la oficina a su cargo, así como del estado que guarde, formando parte de la misma los informes, formatos, documentos y elementos anexos que señale la Contraloría Municipal en las disposiciones que al efecto expida. El acta será firmada por el servidor público saliente y el entrante, ante la presencia de dos testigos y la representación de la Contraloría Municipal.
+IX. Los no previstos en las fracciones anteriores, el diez por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo.
 
-Cuando así proceda, los servidores públicos salientes harán constar en el acta la renuncia o la causa o motivo de separación del empleo, cargo o comisión.
+Cuando el espectáculo se realice al 100% en beneficio de instituciones de asistencia pública legalmente constituidas, se aplicará la tasa del dos por ciento sobre el precio del boleto, en caso contrario pagará la cuota que corresponda.
 
-El servidor público que entrega la oficina a su cargo deberá elaborar, requisitar y suscribir el acta administrativa.
+###### Artículo 147.
 
-Los servidores públicos encargados de la recepción tendrán el derecho de que en el mismo acto de entrega se anoten al final del acta las observaciones que estimen pertinentes.
+El pago del Impuesto Sobre Espectáculos Públicos, se realizará en la forma siguiente:
 
-###### ARTÍCULO 151.
+I. Previo a la realización de la diversión o espectáculo público, en el caso de que se pueda determinar anticipadamente el monto del mismo. En este caso el pago es requisito para que se pueda celebrar el evento;
 
-La entrega-recepción se realizará en la fecha en que el servidor público saliente concluya su empleo, cargo o comisión o se de cualquiera de los supuestos contenidos en el Artículo 149 del presente Código.
+II. Cuando el monto del Impuesto no pueda determinarse anticipadamente o cuando se cause sobre el importe, de los boletos vendidos o cuotas de admisión recaudadas, diariamente, al finalizar el espectáculo, los interventores fiscales, designados por la autoridad municipal para vigilar la entrada a los mismos, harán la liquidación correspondiente y levantarán acta por duplicado, en la que se hará constar dicha liquidación. Un ejemplar del acta lo entregarán al causante y otro a la Tesorería. Con base en dicha liquidación, el contribuyente pagará el impuesto en la Tesorería que corresponda a los interventores fiscales;
 
-La entrega-recepción del Municipio y del H. Ayuntamiento se llevará a cabo ante Notario Público, una vez terminada la ceremonia de instalación y toma de protesta constitucional del H. Ayuntamiento electo.
+III. Si en la liquidación del impuesto hubiere error, la Tesorería determinará el impuesto causado, procediendo al cobro de la diferencia o a la devolución. En caso de que se hubiese pagado de menos, el contribuyente cubrirá la diferencia dentro de las veinticuatro horas siguientes a la notificación de la liquidación respectiva;
 
-###### ARTÍCULO 152.
+IV. Si el impuesto se causa conforme a cuotas correspondientes a períodos determinados, deberán pagarse:
 
-En la entrega de los organismos públicos descentralizados de la administración pública municipal, se observarán las disposiciones que previene el presente capítulo, el carácter legal que ostentan y al acuerdo que en tal sentido tome su órgano de gobierno.
+a) Si es mensual, dentro de los primeros diez días de cada mes; o
 
-Al término del periodo constitucional de la administración pública municipal de Aguascalientes, los organismos públicos descentralizados elaborarán, requisitarán y suscribirán el acta administrativa de su situación actual y de los recursos humanos, financieros, y materiales que tienen asignados para el ejercicio de sus atribuciones legales, conforme a las disposiciones que para la entrega-recepción establece este Código. Esta acta tendrá sólo carácter informativo.
+b) Si es bimestral o por un período mayor, dentro de los quince primeros días del término; y
 
-Al acta informativa del organismo municipal regulador del agua potable y alcantarillado se deberá integrar la documentación relativa al manejo de la concesión del servicio por parte de la empresa concesionaria.
+V. Si el espectáculo se clausura antes de la conclusión del término por el que se hubiere cubierto la cuota respectiva, quien haya hecho el pago tendrá derecho a que se le devuelva la parte proporcional que, de la cuota pagada, corresponda al tiempo comprendido entre la fecha de terminación de sus actividades gravables y la de la conclusión del plazo que haya cubierto con dicha cuota.
 
-###### ARTÍCULO 153.
+###### Artículo 148.
 
-Cuando el servidor público saliente no efectúe la entrega que señala este ordenamiento, será requerido por la Contraloría Municipal, para que en un término de cinco días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
+Son solidariamente responsables del pago del Impuesto Sobre Espectáculos Públicos, los propietarios o poseedores de inmuebles o establecimientos, en los que en forma permanente u ocasional, por cualquier acto o contrato se autorice a personas sujetas al pago de este impuesto, para que exploten diversiones o espectáculos públicos.
 
-En este supuesto, el servidor público entrante, al tomar posesión, levantará acta circunstanciada con asistencia de dos testigos, dejando constancia del estado en que se encuentran los asuntos y recursos, haciéndolo del conocimiento de su jefe inmediato, del titular de la dependencia, unidad administrativa o entidad y de la Contraloría Municipal para efecto de que inicie el Procedimiento Administrativo de Responsabilidades.
+###### Artículo 149.
 
-###### ARTÍCULO 154.
+Los sujetos del Impuesto Sobre Espectáculos Públicos tendrán las obligaciones siguientes:
 
-En el caso en que el servidor público que deba recibir aún no haya sido designado o nombrado, el Presidente Municipal en funciones o el electo en su caso o el titular de la dependencia, unidad administrativa o entidad de su adscripción, designará al que recibirá la oficina, comunicando a la Contraloría Municipal tal designación.
+I. Al solicitar la autorización, lo harán cuando menos siete días antes de la celebración o inicio del espectáculo, indicando en las formas aprobadas oficialmente:
 
-###### ARTÍCULO 155.
+a) Su nombre y domicilio;
 
-A partir de la fecha en que el servidor público saliente proporcione la información y documentación correspondiente, en los términos y forma establecidos en el Artículo 150 de este Código, se tendrá por formalmente realizada la entrega, aún y cuando el ciudadano habilitado para recibir, se rehúse a hacerlo, quedando el saliente relevado por ello de responsabilidad por lo que se refiere al acto de entrega.
+b) El tipo de evento a celebrarse;
 
-En este caso, el servidor público saliente deberá entregar los asuntos y recursos a su cargo al titular de su área de adscripción o a quien, en su caso, designe éste o el Presidente Municipal.
+c) La ubicación del local en que vaya a celebrarse;
 
-Tal situación, el servidor público saliente la asentará en el acta correspondiente y la hará del conocimiento de la Contraloría Municipal, a fin, de que ésta registre el hecho para los efectos legales procedentes.
+d) El día o días en que se celebrarán las funciones y la fecha y hora en que deberán dar inicio; y
 
-###### ARTÍCULO 156.
+e) El número de cada clase de localidades de que conste el local donde vaya a celebrarse el espectáculo.
 
-Las observaciones que surjan de la revisión al acta y sus anexos a que se refiere el Artículo 150 de este capítulo, deberán formularse por escrito ante la Contraloría Municipal por los servidores públicos entrantes, dentro de los treinta días hábiles contados a partir de la fecha de entrega-recepción; para tal efecto, la Contraloría Municipal requerirá de inmediato la presencia dentro de los tres días hábiles siguientes del servidor público saliente, el que estará obligado a realizar las aclaraciones que le sean requeridas en el tiempo señalado por la Contraloría, la que deberá levantar el acta correspondiente.
+II. Al serles concedida la autorización:
 
-###### ARTÍCULO 157.
+a) Presentar a la Tesorería la emisión total del boletaje de entrada a la diversión o espectáculo público, cuando menos cuatro días hábiles anteriores a aquél en que dé comienzo la función, con el propósito de que sean autorizados con el sello correspondiente.
 
-Con el propósito de facilitar el proceso de entrega-recepción, los titulares de las dependencias, unidades administrativas y entidades tomarán las medidas necesarias a fin de que se mantengan ordenados y permanentemente actualizados los informes, registros, controles y demás documentación relativa a los asuntos de su competencia y la información de los recursos humanos, materiales y financieros de que disponen para el ejercicio de sus funciones.
+b) Cada boleto deberá estar numerado progresivamente y contener el nombre de la empresa o persona que realice la función, precio de entrada o admisión, la identificación de la localidad a que de derecho, lugar, fecha y hora de la función.
 
-###### ARTÍCULO 158.
+c) Entregar a la Tesorería por duplicado y dentro del término a que se refiere la fracción anterior, el programa de la diversión o espectáculo público, los precios y horarios correspondientes, los cuales una vez autorizados, no podrán ser modificados.
 
-Con motivo de la entrega, el servidor público saliente no queda eximido de las responsabilidades en que hubiese incurrido durante el desempeño de su empleo, cargo o comisión.
+d) Dar aviso del cambio en los datos proporcionados en la fracción I de este artículo.
 
-###### ARTÍCULO 159.
+e) Dar aviso de la terminación o clausura de los espectáculos, cuando éstos se celebren por un periodo indefinido, por lo menos tres días antes de la terminación, que en su momento deberá comprobar a la Tesorería.
 
-El incumplimiento de las disposiciones del presente capítulo denominado "De la Entrega-Recepción de la Administración Pública Municipal" o de las que deriven del mismo, será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, sin perjuicio de cualquier otra responsabilidad en la que pudieran incurrir los servidores públicos.
+f) Los sujetos al pago de este impuesto, deberán otorgar toda clase de facilidades a los inspectores o interventores comisionados por la Tesorería, para que desempeñen su cometido proporcionándoles los documentos, datos e informes que se requieran para la determinación de este impuesto, la cual se efectuará al terminar cada función, elaborándose el acta respectiva por duplicado, cuya copia conservará el contribuyente.
 
-###### ARTÍCULO 160.
+g) Otorgar garantía suficiente, en términos de este Código, equivalente al número de boletos emitidos y del impuesto a causarse en términos del presente Código.
 
-La Contraloría Municipal, en el ámbito de su competencia, queda facultada para:
+h) Pagar los derechos por servicio de limpia, en caso necesario.
 
-I.- Dictar las disposiciones que se requieran para la adecuada aplicación y cumplimiento de este capítulo.
+i) Otorgar una garantía de limpieza pública por publicidad o promoción impresa, de 12 a 50 salarios mínimos, en términos de este Código, por la promoción y publicidad que se fije o se coloque en la vía pública del evento, misma que se devolverá a las 72 horas después de que el contribuyente realice el retiro de los carteles, anuncios y demás publicidad colocada en el municipio. Para el caso de que el contribuyente no retire la publicidad al término de las 72 horas señaladas, la autoridad procederá a retirar aquella con costo al contribuyente, sin que este tenga derecho a la devolución de la garantía otorgada, ya que se aplicará como multa por incumplimiento de la obligación contenida en el presente inciso de este artículo. El pago de este impuesto no libera a las personas físicas o morales que exploten o realicen diversiones o espectáculos públicos, de la obligación de tramitar y obtener cuando otros ordenamientos jurídicos lo determinen, las licencias o autorizaciones que se requieran para el desarrollo de las actividades a que se refiere este capítulo o para la prestación de servicios de otra naturaleza dentro del mismo local.
 
-II.- Vigilar el cumplimiento y aplicación del presente capítulo, así como de las disposiciones complementarias dictadas.
+###### Artículo 150.
 
-###### ARTÍCULO 161.
+Los representantes de la Tesorería, nombrados como inspectores o interventores y facultados para tal efecto, previa autorización por escrito, podrán intervenir la taquilla, suspender o clausurar cualquier diversión o espectáculo público, cuando los sujetos de este impuesto se nieguen a permitir que éstos cumplan con su comisión o cuando no se cumplan o se violen las disposiciones que establece el presente Capítulo.
 
-Para los gastos preoperativos de la nueva administración municipal, se asignará al Presidente Municipal electo, una partida especial que deberá establecerse en el Presupuesto de Egresos del último año de la administración, la cual deberá aplicarse conforme a las disposiciones administrativas que al efecto dicte la Contraloría Municipal en apoyo y cumplimiento de lo establecido en el Artículo 104 fracción II de este Código. La partida, así como su manejo y entrega, se deberá ceñir a las siguientes reglas generales.
+El Cabildo podrá autorizar el pago de cuotas fijas como impuesto, cuando no sea posible su determinación y pago en la forma y términos establecidos en este Capítulo o cuando no se compense el sostenimiento de su interventor.
 
-I. Con cargo a la partida especial asignada, la autoridad municipal sujetará las adquisiciones de bienes muebles y servicios requeridos por la Administración electa al sistema de compras regulado en el Reglamento de Adquisiciones, Arrendamientos y Servicios, bienes que deberán ser registrados en el tiempo y forma establecidos por los numerales 188 al 196 de este Código, ante el Departamento de Control Patrimonial, a fin de que pasen a formar parte del patrimonio del Municipio.
+###### Artículo 151.
 
-El resguardante de estos bienes lo será el Presidente Municipal electo.
+Quedan preferentemente afectos en garantía de este impuesto:
 
-II. Los gastos menores e imprevistos que con cargo a la partida especial asignada realice la administración electa quedan sujetos a las disposiciones que al efecto emita la Contraloría.
+I. Los bienes inmuebles en los que se exploten o realicen diversiones o espectáculos públicos, cuando sean propiedad del sujeto obligado al pago de este impuesto; y
 
-III. El personal requerido, será dado de alta en la nómina municipal, con cargo a la partida especial asignada.
+II. El equipo y las instalaciones que se utilicen en la diversión o espectáculo público, cuando sean propiedad del sujeto obligado al pago de este impuesto.
 
-### CAPÍTULO V. Del Archivo General Municipal
+###### Artículo 152.
 
-APARTADO PRIMERO
+Es objeto de este impuesto, la percepción de ingresos por la venta de boletos para la realización de loterías, rifas, sorteos, concursos y los juegos electrónicos de azar dentro del Municipio, así como la obtención de los premios correspondientes.
 
-Disposiciones Generales
+###### Artículo 153.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2010)</small>
+Son sujetos de este impuesto, las personas físicas o morales, que promuevan u organicen los eventos, así como quienes obtengan los premios a que se refiere el artículo anterior.
+
+###### Artículo 154.
+
+Es base gravable de este impuesto:
+
+I. El importe total de los boletos o billetes de participación vendidos;
+
+II. El importe total de los premios ofrecidos, en rifas o sorteos en que no se emitan billetes o que no tengan valor nominal; y
+
+III. El importe total del premio obtenido, si éste consiste en una cantidad determinada de dinero. Si los premios consisten en bienes distintos al dinero, se tendrá como base del impuesto, el valor que señalen a dichos bienes los organizadores.
+
+Si la Tesorería considera que el valor a que se refiere el párrafo anterior, no es el que realmente le corresponde, ordenará que se valúen los bienes en cuestión, por medio de peritos y el valor así determinado será la base gravable.
+
+Quienes promuevan u organicen los eventos a que se refiere este capítulo serán responsables de retener el impuesto que le corresponde pagar al ganador del premio y enterarlo a la Tesorería.
+
+###### Artículo 155.
+
+Este impuesto se causará, liquidará y pagará, aplicando a la base gravable determinada, la tasa del veinte por ciento sobre el valor nominal total de los boletos o billetes vendidos o, cuando el mismo no pueda determinarse, sobre el valor total de los premios ofrecidos.
+
+Las personas que obtengan premios por participar en loterías, rifas, sorteos o concursos pagarán una tasa del seis por ciento sobre el monto total del ingreso obtenido.
+
+###### Artículo 156.
+
+Este impuesto se deberá pagar en la Tesorería, a más tardar el día hábil siguiente a aquél en que se efectúen los eventos a que se refiere el presente capítulo.
+
+###### Artículo 157.
+
+Son responsables solidarios del pago de este impuesto, las personas físicas o morales, que promuevan u organicen loterías, rifas y sorteos de toda clase, respecto de la obligación de retener y enterar el impuesto que corresponda a cargo de quienes obtienen premios derivados de dichos eventos.
+
+###### Artículo 158.
+
+Las personas a quienes se conceda autorización para celebrar los eventos a que se refiere este capítulo, tendrán las siguientes obligaciones:
+
+I. Presentar a la Tesorería la emisión total del boletaje o billetes de participación, cuando menos quince días hábiles anteriores a aquél en que se realizará el evento de que se trate, con el propósito de que sean autorizados con el sello correspondiente;
+
+II. Numerar progresivamente cada boleto o billete, que contendrá el nombre de la persona o institución que organice el evento, el importe del boleto, la identificación del o los números claves de participación, lugar y fecha de celebración del evento, así como la descripción de los premios a ganar;
+
+III. Presentar a favor de la Tesorería dentro del plazo señalado en la fracción anterior alguna de las siguientes garantías: Depósito en efectivo, fianza de institución afianzadora autorizada u obligación solidaria asumida por tercero que compruebe su solvencia.
+
+Dicha garantía deberá ser al menos, por un importe igual al total de la emisión de boletos o billetes de participación.
+
+IV. Dar aviso a la Tesorería por escrito, a más tardar dos días hábiles anteriores a aquél señalado para efectuar los eventos de referencia, de cualquier modificación que se haga a los términos establecidos para la realización de los mismos;
+
+V. Otorgar toda clase de facilidades a los inspectores o interventores comisionados por la Tesorería para que desempeñen adecuadamente su cometido, proporcionándoles los documentos, datos e informes que se requieran para la determinación de este impuesto;
+
+VI. Retener y enterar el impuesto que corresponda, conforme a los artículos 154 y 156 de este Código, el día hábil siguiente al de la entrega de los premios, entretanto no se cancelarán las garantías otorgadas; y
+
+VII. Proporcionar constancia de retención de impuestos a la persona que obtenga el premio.
+
+###### Artículo 159.
+
+No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a los cuatrocientos salarios mínimos en el Municipio.
+
+###### Artículo 160.
+
+El Ayuntamiento podrá autorizar el pago de cuotas fijas como impuesto, cuando no sea posible su determinación y pago en la forma y términos establecidos en este Capítulo o cuando no se compense el sostenimiento de su interventor.
+
+###### Artículo 161.
+
+Es objeto de este impuesto, la explotación comercial de los juegos o aparatos siguientes: billar, dominó, dados, ajedrez, damas, boliche, aparatos electrónicos, tragamonedas, sinfonolas o similares, excepto cuando se trate de torneos gratuitos, lo cual se notificará y se comprobará previamente ante la Tesorería Municipal.
+
+### CAPÍTULO III. DE LOS DERECHOS POR OBRAS MATERIALES
 
 ###### Art. 130.
 
@@ -6209,1475 +4487,2319 @@ El Congreso de la Unión o la Comisión Permanente en su caso, harán el cómput
 
 Esta Constitución no perderá su fuerza y vigor, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público, se establezca un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, así los que hubieren figurado en el gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
 
-###### ARTÍCULO 162.
+###### Artículo 162.
 
-Para la más eficaz atención y despacho de los asuntos de la competencia de la Presidencia Municipal, ésta contará con los órganos administrativos desconcentrados y descentralizados que resulten necesarios, los que tendrán las facultades y obligaciones que se establezcan en los reglamentos de su creación.
+Son sujetos de este impuesto, las personas físicas o morales, ya sean propietarias o arrendatarias de los establecimientos donde tenga acceso el público, en que se practiquen los juegos a que se refiere este capítulo o se instale algún equipo de los enumerados en el artículo 161.
 
-> <small>(ADICIONADO, PO. 24 DE MAYO DE 2010)</small>
+###### Artículo 163.
 
-Para la creación de un órgano administrativo desconcentrado, descentralizado o un fideicomiso público, por parte del Honorable Ayuntamiento, se requerirá previamente un dictamen de la Comisión del ramo administrativo que corresponda, así como un dictamen de la Comisión de Hacienda que determine la viabilidad financiera y administrativa de la creación del órgano o fideicomiso propuesto, el cual deberá ser emitido tomando en cuenta el análisis elaborado por las Secretarías de Finanzas Públicas y de Administración.
+Este impuesto se causará mensualmente por cada establecimiento en que se instalen algunos de los aparatos o se practique algún juego de los mencionados en el artículo 161.
 
-###### ARTÍCULO 163.
+### CAPÍTULO IV. DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE Y DRENAJE DEL MUNCIPIO (SIC)
 
-Las autoridades municipales por sí o en coordinación podrán para otorgar un mejor servicio a la ciudadanía establecer un sistema de ventanilla única para trámites de licencias, permisos o autorizaciones, o apertura de negocios o industrias, en la cual se entregará toda la documentación y se le dará respuesta a los ciudadanos.
+###### Artículo 164.
 
-### CAPÍTULO VI. Sobre el Uso y Usufructo de Bienes Muebles, Propiedad Municipal o al Servicio Municipal
+Este impuesto se causará y pagará mensualmente de la siguiente manera:
 
-###### ARTÍCULO 164.
+I. Tratándose de tragamonedas, aparatos electrónicos, mesa o máquina de juego o similar, cuando esta no es de apuesta o juego de azar, la tarifa de 0.25 salarios mínimos, por máquina o aparato electrónico;
 
-El Archivo General Municipal de Aguascalientes, es la dependencia encargada de rescatar, resguardar, ordenar, catalogar, clasificar y difundir el acervo histórico existente en la misma, así como rescatar y recopilar aquellos documentos que por su importancia deban de permanecer en él. Es la entidad central de consulta del H. Ayuntamiento en el manejo del archivo tanto en el ámbito administrativo como en el histórico de la Administración Municipal. Para lograr una mejor coordinación, eficiencia y uniformidad normativa en esta materia, dependerá de la Secretaría de Administración.
+II. Tratándose de sinfonolas o aparatos similares, la tarifa será de 3 veces el salario mínimo por cada aparato.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+###### Artículo 165.
 
-###### ARTÍCULO 165.
+Este impuesto se pagará en la Tesorería los primeros cinco días de cada mes. El contribuyente podrá optar por pagar el impuesto a que se refiere este capítulo de manera anual o semestral, recibiendo para ello un descuento del 7%, si es anual, y del 3% si el pago se realiza en forma semestral.
 
-El Archivo General Municipal de Aguascalientes contará con un reglamento que establecerá las disposiciones que lo regulen.
+###### Artículo 166.
 
-###### ARTÍCULO 166.
+Las personas a quienes se conceda autorización para celebrar los eventos a que se refiere este capítulo, tendrán las siguientes obligaciones:
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+I. Solicitar previamente la licencia para celebrar los juegos o instalar los equipos mencionados en este capítulo a la autoridad competente;
 
-ARTÍCULO 166 BIS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2010)
+II. Dar aviso a la Tesorería de la iniciación de sus actividades, con cinco días de antelación cuando menos, indicando el número y fecha de oficio en que conste la licencia que se le haya concedido y la autoridad que la haya otorgado;
 
-###### ARTÍCULO 167.
+III. Dar aviso a la Tesorería del traspaso o traslado del negocio y de la terminación de las actividades gravadas, antes de que estos hechos ocurran; y
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+IV. Otorgar toda clase de facilidades a los inspectores o interventores comisionados por la Tesorería o por la autoridad competente para que desempeñen adecuadamente su cometido.
 
-ARTÍCULO 167 BIS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2010)
+###### Artículo 167.
 
-###### ARTÍCULO 168.
+La Tesorería podrá impedir la celebración de los juegos o la instalación de los equipos a que se refiere este capítulo cuando se carezca de la licencia respectiva, cuando no se pague el impuesto en términos de ley o cuando se impida a las autoridades fiscales cumplir su cometido.
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+###### Artículo 168.
 
-###### ARTÍCULO 169.
+La Tesorería podrá nombrar interventores para vigilar el cumplimiento de las obligaciones fiscales, a cargo de los sujetos del impuesto.
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+###### Artículo 169.
 
-###### ARTÍCULO 170.
+Es objeto de esta contribución, la realización de pagos por concepto de impuestos, derechos y productos que establece este Código, excepto el relativo al Impuesto sobre Traslación de Dominio de Bienes Inmuebles.
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+###### Artículo 170.
 
-###### ARTÍCULO 171.
+Son sujetos de esta contribución, quienes realicen los pagos a que se refiere el artículo anterior.
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+###### Artículo 171.
 
-###### ARTÍCULO 172.
+Es base de esta contribución el importe de los pagos por concepto de los impuestos, derechos y productos municipales.
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+###### Artículo 172.
 
-###### ARTÍCULO 173.
+Esta contribución se causará y pagará, aplicando a la base que corresponda, las tarifas o tasas siguientes:
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+I. Siete y medio por ciento adicional sobre el impuesto predial;
 
-APARTADO SEGUNDO
+II. Diez por ciento adicional sobre los impuestos sobre espectáculos públicos; sobre loterías, rifas, sorteos y concursos; sobre juegos permitidos; y sobre fraccionamientos; y
 
-De las Transferencias y Depuración Documental
+III. Diez por ciento adicional sobre los derechos y productos que establece el presente Código.
 
-###### ARTÍCULO 174.
+###### Artículo 173.
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+Esta contribución se liquidará y pagará junto con los impuestos, derechos o productos sobre los que recae y su pago se hará en el momento en que se haga el entero de estos últimos.
 
-###### ARTÍCULO 175.
+###### Artículo 174.
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+Es objeto de este impuesto la percepción de ingresos que obtengan los fraccionadores por la enajenación de lotes de terreno.
 
-###### ARTÍCULO 176.
+###### Artículo 175.
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+Son sujetos de este impuesto las personas físicas o morales que obtengan ingresos de acuerdo a lo establecido en el artículo anterior, siempre que el fraccionamiento se realice o surta sus efectos dentro del territorio del Municipio.
 
-###### ARTÍCULO 177.
+###### Artículo 176.
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+La base de este impuesto será el valor catastral del inmueble o el valor de operación consignado en escritura pública, si este último es mayor.
 
-ARTÍCULO 177 BIS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2010)
+###### Artículo 177.
 
-###### ARTÍCULO 178.
+Este impuesto se causará, liquidará y pagará aplicando a la base gravable determinada la tasa de uno al millar.
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2012)
+###### Artículo 178.
 
-### CAPÍTULO VII. De la Dirección de Justicia Municipal
+El pago de este impuesto deberá efectuarse en la Tesorería dentro de los veinte días siguientes a la fecha en que se hubiere causado.
 
-APARTADO PRIMERO
+### CAPÍTULO V. DE LOS DERECHOS POR EXPEDICIÓN DE CERTIFICADOS Y CONSTANCIAS
 
-Disposiciones Generales
+###### Artículo 179.
 
-###### ARTÍCULO 179.
+Las disposiciones de este Capítulo afectarán exclusivamente a aquellas operaciones que se encuentren comprendidas en la fracción I del artículo 9 de la Ley del Impuesto al Valor Agregado.
 
-El presente capítulo es de observancia general en todo el territorio del Municipio de Aguascalientes y sus disposiciones son de carácter obligatorio para los servidores públicos de las dependencias de dicho Municipio y tiene por objeto establecer las disposiciones a que deberán sujetarse todos los resguardantes y usuarios de bienes muebles y vehículos automotores propiedad o al servicio del Municipio de Aguascalientes, en cuanto a su control, uso, organización sistemática, entrega, recepción, asignación, reasignación, transferencias, registro, altas, bajas, custodia, resguardo, mantenimientos preventivos y correctivos, suministro de combustible, accesorios, lugares de resguardo, horarios de circulación, daños, robos parciales o totales, valuación, adquisición, reposición, sanciones y enajenación.
+###### Artículo 180.
 
-APARTADO PRIMERO
+Los sujetos de este impuesto deberán inscribirse en el registro municipal, dentro del plazo de los treinta días siguientes a la fecha en que hayan iniciado sus actividades, en la Tesorería, acompañando plano autorizado del fraccionamiento, en el que se señalará el área y número de lotes a enajenar.
 
-Disposiciones Generales
+Cuando un mismo contribuyente realice más de un fraccionamiento deberá registrarlos por separado, con observancia de lo dispuesto en el párrafo anterior.
 
-###### ARTÍCULO 180.
+###### Artículo 181.
 
-Para los efectos de este capítulo se entenderá por:
+Lo previsto en este Capítulo se aplicará sin perjuicio de las obligaciones que se deriven de la Ley de Catastro y de la Ley de Desarrollo Urbano Regional y Vivienda del Estado de Veracruz de Ignacio de la Llave o de cualquier legislación que llegare a sustituir dichas disposiciones.
 
-I. Municipio: Al Municipio de Aguascalientes.
+###### Artículo 182.
 
-II. Bien Mueble: A todo artículo propiedad o al servicio del Municipio, que pueda ser inventariado y registrado por el Departamento de Control Patrimonial, a través de etiquetas con código de barras o similares y que no sea clasificado por dicho departamento como bien consumible.
+Para los efectos de este impuesto se entenderá por:
 
-III. Control Patrimonial: Al Departamento de Control Patrimonial, dependiente de la Dirección de Recursos Materiales de la Secretaría de Administración del Municipio.
+I. Fraccionador: la persona física o moral que realice un fraccionamiento con fines de lucro;
 
-IV. Resguardante: Al servidor público municipal, custodio de un bien mueble y cuya responsabilidad sobre el mismo, ha quedado registrada mediante su firma en el resguardo correspondiente.
+II. Fraccionamiento: división, aprobada por la autoridad competente, de un terreno en lotes, con servicios de infraestructura y equipamiento urbanos;
 
-V. Usuario: Al servidor público municipal que utiliza de manera temporal o permanente un bien mueble y siempre inherente a la función que desempeñe.
+III. Valor Catastral: valor de un bien inmueble, que se obtiene al aplicar las técnicas de valuación establecidas en el Capítulo IV de la Ley de Catastro; y
 
-VI. Coordinación: A la Coordinación de Adquisiciones de la Secretaría de Administración del Municipio.
+IV. Enajenación: toda transmisión de propiedad, aun en la que el enajenante se reserve el dominio del bien enajenado.
 
-VII. Verificador Almacenista: Al servidor público adscrito a Control Patrimonial, cuya función principal es la de verificar que lo adquirido y entregado cumpla con todos los requisitos establecidos en la orden de compra y en la factura correspondiente.
+###### Artículo 183.
 
-VIII. Técnico Operativo: Al servidor público adscrito a Control Patrimonial, cuya función principal es el levantamiento físico de inventarios en las diversas áreas municipales y vehículos automotores.
+Es objeto de estos derechos la prestación de servicios por parte del Municipio, a través de sus dependencias o entidades, en sus funciones de derecho público.
 
-IX. Bien de Desecho: Al bien mueble que por su naturaleza ha terminado su vida útil.
+###### Artículo 184.
 
-X. Bien Obsoleto: Al bien mueble que no obstante que no haya terminado su vida útil y se encuentre en condiciones de uso, resulta obsoleto para el Municipio su utilización por razones técnicas o económicas.
+Son sujetos del pago de derechos las personas físicas o morales que reciban servicios prestados por el Municipio o por sus entidades, en funciones de derecho público.
 
-XI. Bien de Uso Común: Al bien mueble ubicado en áreas municipales de uso común y de utilidad general y que por lo mismo no posee resguardo.
+###### Artículo 185.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+Los derechos por la prestación de servicios deberán ser congruentes con el costo total del servicio, incluso el financiero, excepto cuando dichos costos tengan un carácter de administración del servicio.
 
-XII. Bien de Uso Público: Al bien mueble ubicado en lugares públicos y que por lo mismo no posee un resguardo y que son vigilados por integrantes operativos de la Secretaría de Seguridad Pública.
+###### Artículo 186.
 
-XIII. Resguardo: Al documento público expedido por Control Patrimonial, en el que consta la firma del resguardante y que contiene los datos del bien mueble.
+Los derechos por los servicios prestados por la administración pública municipal se causarán y pagarán conforme a las tasas, cuotas o tarifas que para cada caso señale este Código.
 
-XIV. Comisión: A la Comisión de Bienes Muebles, integrada por el Síndico Procurador, Síndico de Hacienda, Regidor de Hacienda, Secretario de Administración, Contralor Municipal, Director Jurídico. Director de Recursos Materiales, Director de Servicios Generales y por el Jefe del Departamento de Control Patrimonial.
+###### Artículo 187.
 
-XV. Palacio: Al Palacio Municipal, sede del H. Ayuntamiento del Municipio de Aguascalientes, sito en Plaza de la Patria S/N, esquina Calle Colón.
+Los derechos que, en su caso, se recauden por el otorgamiento de la concesión de bienes o servicios municipales, se ingresarán con arreglo a lo previsto en cada título de concesión.
 
-XVI. Dependencia Municipal o Unidad Administrativa: A las señaladas con tal carácter en este Código Municipal de Aguascalientes.
+###### Artículo 188.
 
-XVII. Vehículo Automotor: A todo medio de transporte impulsado mediante una fuerza mecánica o motriz, propiedad o al servicio del Municipio.
+Cuando se otorgue en concesión total o parcialmente un servicio público gravado por ley, el Ayuntamiento revisará que la tarifa que se cobre sea proporcional a la participación del concesionario en la prestación del servicio.
 
-XVIII. Taller: Al Departamento de Mantenimiento y Reparación de Vehículos de la Dirección de Servicios Generales de la Secretaría de Administración del Municipio.
+###### Artículo 189.
 
-###### ARTÍCULO 181.
+En el caso de servicios concesionados, el concesionario podrá convenir con las dependencias o entidades de que se trate, el mecanismo que permita el cobro oportuno del servicio.
 
-La aplicación e interpretación de este capítulo corresponde a Control Patrimonial y a la Comisión.
+###### Artículo 190.
 
-###### ARTÍCULO 182.
+Salvo disposición expresa en contrario, los derechos se pagarán ante la Tesorería o la entidad de que se trate, o en las oficinas que estas autoricen para tal efecto.
 
-Todos los bienes muebles deberán usarse exclusivamente por personal adscrito a las dependencias municipales y su uso será únicamente para desempeñar actividades propias de sus funciones.
+###### Artículo 191.
 
-Cualquier incumplimiento a esta disposición, será sancionado en los términos que se precisa en el apartado correspondiente de este capítulo.
+El pago de derechos deberá hacerse por el contribuyente, salvo disposición expresa en contrario, antes de que le sean prestados los servicios que solicite.
 
-###### ARTÍCULO 183.
+###### Artículo 192.
 
-Control Patrimonial realizará el levantamiento de inventarios físicos de bienes muebles y vehículos automotores en las distintas áreas municipales, cada vez que lo determine necesario y cuando menos una vez al año.
+Los administradores de bienes o servicios concesionados serán solidariamente responsables de que los concesionarios enteren con oportunidad y en los términos previstos en el título de concesión, los derechos respectivos.
 
-Es obligación del titular administrativo de cada dependencia o del titular de área, brindar el apoyo y asistencia solicitada por Control Patrimonial para la realización de los levantamientos de inventario físico.
+###### Artículo 193.
 
-###### ARTÍCULO 184.
+Son facultades de las autoridades fiscales, en materia de derechos:
 
-Es responsabilidad del titular administrativo de cada dependencia municipal, remitir a Control Patrimonial, un reporte mensual de movimientos sobre bienes muebles, independientemente de que no se hubiese suscitado movimiento alguno.
+I. Verificar su pago, así como la obtención oportuna por parte de los contribuyentes de la cédula de empadronamiento y la autorización, en su caso;
 
-###### ARTÍCULO 185.
+II. Auxiliar a los concesionarios de servicios en el cobro de tarifas; y
 
-La salida de bienes muebles ubicados en dependencias municipales y unidades administrativas, cuyas oficinas se encuentren fuera de Palacio, deberá efectuarse mediante el mismo procedimiento implementado en Palacio. Esto es, el responsable y/o titular del área deberá expedir y autorizar el vale de salida correspondiente.
+III. Las demás que prevén este ordenamiento, la legislación aplicable y los reglamentos administrativos.
 
-###### ARTÍCULO 186.
+###### Artículo 194.
 
-Los reportes de ciudadanos en relación al mal uso, abuso o excesos propinados sobre bienes muebles, serán atendidos por Control Patrimonial y se les dará el debido seguimiento para la aplicación de las sanciones que correspondan.
+Las cuotas señaladas en este Título para certificados o copias certificadas se refieren a documentos expedidos en hojas de papel que no excedan de treinta y cinco centímetros de largo por veinticuatro centímetros de ancho y que no deberán contener más de ochenta renglones, por ambos lados; los certificados o copias certificadas en hojas de mayor dimensión o mayor número de renglones causarán doble cuota.
 
-###### ARTÍCULO 187.
+La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentar el interesado el recibo que acredite su pago ante la Tesorería, o bien en las instituciones bancarias previamente autorizadas en los términos de este Código; ningún otro comprobante justificará el pago correspondiente.
 
-El Municipio bajo ninguna circunstancia, se hace responsable de ningún bien mueble propiedad particular; parcial o totalmente. El posible robo, mal uso o cualquier situación adversa al bien, será por cuenta y riesgo de su propietario.
+El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto anteriormente, será responsable de su pago.
 
-###### ARTÍCULO 188.
+La recepción del pago de derechos por parte de las autoridades fiscales, en el caso de solicitarse el otorgamiento de permisos, licencias o autorizaciones, sus ampliaciones o refrendos, no obliga a la autoridad a emitir una respuesta favorable, pero sí a devolver lo pagado en caso de negativa.
 
-Los bienes no inventariados y no registrados por Control Patrimonial, que formen parte intrínseca de un bien inmueble, serán responsabilidad exclusiva del titular del área correspondiente.
+La falta de pago, por sí misma, justifica la no prestación del servicio o la no expedición de la licencia, permiso o autorización de que se trate.
 
-###### ARTÍCULO 189.
+Cuando la ley establezca la obligación de pago de un refrendo de permisos, licencias o autorizaciones, sin especificar el plazo dentro del que debe solicitarse, se estará a lo que mediante disposiciones generales dé a conocer el Cabildo.
 
-Las dependencias municipales o unidades administrativas que posean un almacén para la custodia de bienes muebles, deberán implementar forzosamente, un sistema de almacén que permita el manejo ágil, eficiente y controlado del mismo. La responsabilidad para el desarrollo e implementación del sistema recaerá en el director de área de que se trate.
+###### Artículo 195.
 
-###### ARTÍCULO 190.
+Es objeto de este derecho el otorgamiento de la licencia de funcionamiento, permiso o autorización, registro o refrendo a negociaciones, giros o actividades económicas, cuya reglamentación y vigilancia corresponda a la autoridad municipal.
 
-Toda detección de bienes muebles que no ostenten el registro patrimonial y que no exista en el inventario general, será sujeto a una sanción administrativa, a quien haya ordenado la compra, por haber evadido el trámite administrativo correspondiente. Los responsables de este hecho serán el administrador del área y el director de área en su conjunto.
+###### Artículo 196.
 
-APARTADO SEGUNDO
+Los propietarios de negociaciones comerciales, industriales, de prestación de servicios, de comisión y, en general, de toda actividad económica, deberán empadronarse en la Tesorería o ante la autoridad municipal competente y obtener la cédula respectiva y, en su caso, la licencia o autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento se mantendrá vigente, hasta en tanto no se realice baja, cambio de giro o de domicilio, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas, en cuyo caso la vigencia de la cédula de empadronamiento de la licencia será de un año.
 
-De las Funciones de Control Patrimonial
+###### Artículo 197.
 
-###### ARTÍCULO 191.
+El inicio de actividades, la ampliación o el cambio de giro de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Tesorería, de conformidad con los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo.
 
-Corresponde exclusivamente a Control Patrimonial las siguientes funciones:
+###### Artículo 198.
 
-I. Registrar bienes muebles.
+Son sujetos de este derecho las personas físicas o morales que soliciten del Ayuntamiento la autorización de funcionamiento, registro o refrendo señalados en el artículo 195 de este Código o la licencia correspondiente.
 
-II. Elaborar, conservar, custodiar y tramitar para su firma, los resguardos correspondientes.
+###### Artículo 199.
 
-III. Mantener actualizado el inventario general de bienes muebles.
+El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
 
-IV. Detectar la ausencia de bienes muebles y proceder en consecuencia.
+En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero se deberán cumplir los requisitos que para su otorgamiento señalen los reglamentos municipales, incluyendo el pago de formas valoradas que no excederá de un salario mínimo.
 
-V. Revisar que lo señalado en la orden de compra y lo recibido coincidan con la factura.
+Se exceptúan de la no causación los giros comerciales que enajenen o expendan bebidas alcohólicas en forma total o parcial al público, en cuyo caso deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia. La omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
 
-VI. Determinar y aplicar sanciones sobre el uso y usufructo de bienes muebles, con base en lo señalado por el presente ordenamiento.
+###### Artículo 200.
 
-VII. Dictaminar la obsolescencia de bienes muebles.
+Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse el domicilio señalado en los mismos. Salvo en los casos y en las condiciones que señale el reglamento de comercio para este Municipio.
 
-VIII. Reasignar bienes muebles puestos a su disposición.
+###### Artículo 201.
 
-IX. Realizar las enajenaciones de bienes muebles que autorice el Cabildo.
+Los permisos o autorizaciones de carácter temporal, para giros comerciales que enajenen o expendan bebidas alcohólicas, tendrán un costo proporcional al número de días para el cual se expidan, en relación con la cuota que corresponda de acuerdo a su giro. En ningún caso el costo será menor al que corresponda a quince días de salario mínimo. Este costo será por punto de venta.
 
-X. Expedir vales de salida de palacio de bienes muebles.
+###### Artículo 202.
 
-XI. Registrar y autorizar las transferencias o reubicaciones solicitadas sobre bienes muebles.
+La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
 
-XII. Realizar altas de bienes muebles en el inventario general.
+Por la expedición de licencias a que este artículo se refiere, acorde con el catálogo establecido en el Reglamento de Comercio para este Municipio, se pagarán las cuotas siguientes:
 
-XIII. Analizar, evaluar y dictaminar la baja de bienes muebles en función de la operatividad de éstos, de la obsolescencia y del costo/beneficio.
+I. Por los trámites de licencias nuevas, refrendos y trámites relacionados con las licencias para los giros comerciales del Grupo A, se pagarán las siguientes cuotas:
 
-XIV. Detectar bienes muebles no clasificados como tales y proceder a su registro.
+Giro Salarios mínimos
 
-XV. Emitir avalúos sobre bienes muebles.
+Abarrotes en general Exento
 
-XVI. Determinar valores de reposición sobre bienes muebles.
+Abarrotes con venta de cerveza
 
-XVII. Determinar la vida útil de bienes muebles.
+en envase cerrado (botella cerrada) 50
 
-XVIII. Analizar, evaluar y determinar la viabilidad de uso sobre bienes muebles por parte de resguardantes o usuarios solicitantes en situaciones restringidas.
+Abarrotes con venta de cerveza, vinos y
 
-XIX. Turnar a la Contraloría Municipal, los asuntos que estime para fincar responsabilidades, en cuanto al uso y usufructo de bienes muebles.
+licores en envase cerrado y servicars 200
 
-XX. Realizar los levantamientos de inventarios físicos a los bienes muebles y vehículos automotores.
+Depósitos de cerveza 150
 
-XXI. Participar en la Comisión, en los términos que señale este capítulo.
+Tiendas de conveniencia y minisupers 300
 
-XXII. Las demás que le señale expresamente este capítulo, el Presidente Municipal y el Secretario de Administración.
+Vinaterías o licorerías 300
 
-APARTADO TERCERO
+Supermercados con venta de cerveza,
 
-Del Registro de Bienes Muebles
+vinos y licores en botella cerrada, agencias y
 
-###### ARTÍCULO 192.
+almacenes distribuidores 500
 
-Por cada bien mueble deberá existir un resguardo, con excepción de los bienes muebles de usos común y público.
+a) Los derechos por refrendos anuales se calcularán a razón del diez por ciento del costo de la licencia.
 
-###### ARTÍCULO 193.
+b) Los derechos por cambio de domicilio se calcularan en razón del cincuenta por ciento del costo de la licencia.
 
-Todo resguardo de bienes muebles deberá contener la siguiente información:
+Los derechos por los conceptos antes mencionados son acumulables y estarán sujetos al cumplimiento de las condiciones que para tal efecto señala el Reglamento de Comercio.
 
-a) Fecha.
+II. Por los trámites de licencias nuevas y refrendos relacionados con licencias para los giros comerciales del grupo B se pagaran las siguientes cuotas:
 
-b) Clave de adscripción.
+Giro Salarios mínimo
 
-c) Descripción del bien.
+Loncherías, taquerías, marisquerías,
 
-d) Nombre y firma del resguardante.
+fondas, coctelerías, torterías, pizzerías y
 
-e) Fecha de adquisición.
+similares con venta de cerveza únicamente
 
-f) Valor histórico de adquisición.
+con alimentos. 150
 
-g) Estado del bien.
+Restaurante familiar, hoteles y moteles 200
 
-###### ARTÍCULO 194.
+Restaurante con servicio de bar 300
 
-Todo bien mueble de nueva adquisición deberá ser entregado en Control Patrimonial para su registro en el inventario general y para la elaboración y tramitación del resguardo correspondiente.
+Video bar o billar 300
 
-###### ARTÍCULO 195.
+Pulquería 250
 
-Es responsabilidad y obligación de todo servidor público municipal, firmar dentro de los tres días hábiles posteriores al día de su recepción, los resguardos emitidos por Control Patrimonial; el incumplimiento a ésta disposición dará lugar a la aplicación de la sanción que determine Control Patrimonial e inclusive, a la reasignación de los bienes muebles objeto de los resguardos.
+Bar, cantina o cervecería 300
 
-###### ARTÍCULO 196.
+Bebidas para llevar (expendio de) 400
 
-Control Patrimonial mantendrá listados actualizados y pormenorizados de todos y cada uno de los bienes muebles adscritos a cada dependencia municipal.
+Clubes de servicio, club social y
 
-###### ARTÍCULO 197.
+club deportivo con servicio de bar o
 
-Control Patrimonial deberá verificar que la descripción de las partidas descritas en la orden de compra corresponda al bien mueble recibido y facturado, en caso de que exista discrepancia, no recibirá el bien ni sellará la factura, comunicándolo al proveedor para los efectos correspondientes.
+restaurante bar 300
 
-###### ARTÍCULO 198.
+Salón de fiestas, 300
 
-Queda estrictamente prohibido recibir bienes muebles directamente en la (sic) dependencias municipales, cuando la orden de compra señale que la entrega deberá realizarse en Control Patrimonial.
+Discotecas 1250
 
-###### ARTÍCULO 199.
+Cabaret o centro nocturno 2000
 
-Es responsabilidad del titular administrativo o director de área que recibió directamente de un proveedor un bien mueble, notificar inmediatamente a Control Patrimonial la entrega-recepción a satisfacción de los bienes requisitados, para su alta y registro en el inventario general.
+a) Los derechos por refrendos anuales se calcularán en razón del diez por ciento del costo de la licencia.
 
-###### ARTÍCULO 200.
+b) Los derechos por cambio de razón social o denominación se calcularán en razón del veinte por ciento del costo de la licencia.
 
-Todo bien mueble adquirido por un procedimiento ajeno al efectuado por la Coordinación, deberá ser registrado ante Control Patrimonial. Para tal efecto, es responsabilidad de cada comprador o administrador que hubiese incurrido en esa práctica, dar aviso dentro de los cinco días hábiles siguientes a Control Patrimonial, señalando el nombre del servidor público municipal que deberá suscribir el resguardo. En caso de incumplimiento, incurrirá en responsabilidad administrativa y se turnará el caso a la Contraloría Municipal para lo conducente.
+c) No se autoriza el cambio de domicilio para las licencias de los negocios tipo B, con venta de bebidas alcohólicas.
 
-###### ARTÍCULO 201.
+d) Los derechos por los conceptos a), b) son acumulables.
 
-Independientemente de la fuente del recurso con que se adquiere un bien mueble y del procedimiento de adquisición adoptado, es obligación del comprador, del administrador del área o del titular de la misma, según sea el caso, dar aviso inmediato a Control Patrimonial, para la alta y registro de (sic) bien.
+e) No se autorizan los cambios de giro.
 
-APARTADO CUARTO
+f) La cuota anual por hora adicional al horario establecido en el reglamento vigente, se cobrará a razón del 20 por ciento del costo por la licencia, misma que no podrá exceder de dos horas diarias, previa autorización del H. Ayuntamiento. Para el caso de que se solicite la ampliación del horario en periodo irregular, se pagara de manera proporcional a los meses completos que falten para concluir el año.
 
-De las Obligaciones de los Resguardantes y Usuarios
+#### SECCIÓN II. DE LOS DERECHOS POR ANUNCIOS COMERCIALES Y PUBLICIDAD
 
-###### ARTÍCULO 202.
+###### Artículo 203.
 
-Son obligaciones de los resguardantes y usuarios las siguientes:
+Es objeto de estos derechos la autorización que otorgue la autoridad municipal para la colocación de anuncios comerciales, en forma temporal o permanente, o para la realización de publicidad o promoción mediante altavoz fijo o móvil en la vía pública.
 
-I. Hacer buen uso y usufructo de los bienes muebles, en apego al manual de instrucciones del fabricante o a las indicaciones generales de uso, con el fin de garantizar su correcto funcionamiento y máximo aprovechamiento de los mismos. En caso de no existir indicaciones de uso, deberán solicitar asistencia y asesoría a servidores públicos conocedores de dichos bienes o al proveedor de los mismos.
+También es objeto de estos derechos la colocación de anuncios comerciales en el interior o exterior de los vehículos en los que se preste el servicio público de pasajeros.
 
-II. Notificar a Control Patrimonial a través del formato correspondiente, dentro de los cinco días hábiles siguientes a cuando ocurra el hecho, cuando un bien mueble se encuentre en forma permanente fuera de servicio y a su juicio deba ser dado de baja.
+Para efectos de este derecho se entiende por anuncios comerciales o publicidad todo medio que proporcione información, orientación o identifique un servicio profesional, marca, producto o establecimiento con fines de venta de bienes o servicios, en tanto se realice, ubique o desarrolle en la vía pública del Municipio o tenga efectos sobre ésta repercutiendo en la imagen urbana.
 
-III. Reportar a su superior jerárquico, dentro de los tres días hábiles siguientes a cuando ocurra el hecho, todo desperfecto sobre bienes muebles que impida la operatividad de los mismos.
+La expedición de licencias, permisos o autorizaciones a que se refiere esta Sección será anual o eventual.
 
-IV. Solicitar a Control Patrimonial el registro de bienes muebles de su propiedad, con el carácter de particular, a fin de que puedan hacer uso de los mismos en su área de trabajo.
+###### Artículo 204.
 
-V. Solicitar en tiempo y forma el mantenimiento preventivo y correctivo de los bienes muebles a su cargo.
+Son sujetos de este derecho, las personas físicas o morales que utilicen para anunciarse la vía pública del Municipio, los propietarios o usuarios de un inmueble que se utilice para colocar anuncios ajenos al mismo, los propietarios de los vehículos en los que se preste el servicio público de pasajeros, así como los promotores de cualquier empresa que soliciten anunciar y hacer publicidad en las modalidades que señala el primer párrafo del artículo anterior, debiendo solicitar en todos los casos la autorización correspondiente.
 
-VI. Garantizar la custodia de los bienes muebles bajo su responsabilidad.
+Son responsables solidarios en el pago de los derechos a que se refiere esta Sección, los propietarios o poseedores de predios, fincas o construcciones y lugares de espectáculos en los que se realicen los actos publicitarios, así como los promotores de eventos, propietarios o administradores de marcas o negocios anunciados. En el caso de la publicidad móvil en altavoz, será responsable solidario aquel que preste dicho servicio de publicidad.
 
-VII. Utilizar los bienes muebles única y exclusivamente para las funciones operativas del Municipio.
+Las autoridades municipales establecerán en sus reglamentos respectivos, o mediante disposiciones de carácter general, los requisitos para el otorgamiento de licencias, permisos o autorizaciones en su caso, para colocar anuncios, el plazo de su vigencia, así como sus características, dimensiones y espacios en que se fijen o instalen, el procedimiento para su colocación y los materiales, estructuras, soportes y sistemas de iluminación que se utilicen en su construcción. Asimismo establecerán las condiciones en que se autorice la publicidad móvil por medio de altavoz y en los vehículos en los que se preste el servicio de transporte público de pasajeros.
 
-VIII. Evitar transferencia o reubicaciones de los bienes muebles y en su caso, notificarlas a Control Patrimonial a través del formato correspondiente.
+###### Artículo 205.
 
-IX. Responder sobre cualquier situación que se presente, en relación con el bien mueble bajo su responsabilidad y en el supuesto de que un bien este resguardado por determinada persona y sea utilizado por otra, ambos fungirán como corresponsables del mismo y la Comisión determinará el grado de responsabilidad de cada uno para la aplicación de las sanciones correspondientes.
+Los derechos a que se refiere esta Sección, se cobrarán por la autorización respectiva, de acuerdo a las cuotas siguientes:
 
-X. Atender en tiempo y forma, los comunicados que Control Patrimonial les notifique en relación a los bienes muebles bajo su responsabilidad.
+I. Por la colocación de anuncios comerciales adosados o fijados al inmueble en la vía pública o tenga efectos sobre esta, repercutiendo en la imagen urbana, anualmente dos salarios mínimos por metro cuadrado o fracción en el área general, y cuatro salarios mínimos en el centro histórico, siempre que este se ajuste a lo establecido en el reglamento correspondiente;
 
-XI. Dar aviso a Control Patrimonial, cuando detecten que una etiqueta de registro patrimonial, se encuentre en malas condiciones.
+II. Por la colocación de anuncios comerciales del tipo bandera o similares en la vía pública o tengan efectos sobre ésta:
 
-APARTADO QUINTO
+a) Hasta 0.56 metros cuadrados: tres salarios mínimos anuales; y
 
-De las Prohibiciones de los Resguardantes y Usuarios
+b) De 0.57 metros cuadrados o más: siete salarios mínimos anuales.
 
-#### SECCION II.
+III. En el caso de la instalación de espectaculares se causará una cuota anual de ocho salarios mínimos por metro cuadrado;
 
-DE LA INICIATIVA Y FORMACION DE LAS LEYES.
+IV. Por la colocación eventual de anuncios comerciales en la vía pública o tenga efectos sobre esta, repercutiendo en la imagen urbana, no incluyendo sonido, cuatro salarios mínimos por evento de uno a ocho días naturales;
 
-###### ARTÍCULO 203.
+V. Por el anuncio de eventos en altavoz móvil, dos salarios mínimos por evento de uno a ocho días naturales;
 
-Queda estrictamente prohibido a los resguardantes y usuarios de bienes muebles y en general a los servidores públicos municipales lo siguiente:
+VI. Por el anuncio de eventos en altavoz fijo, dos salarios mínimos por evento de un día natural;
 
-I. Utilizar los bienes muebles en actividades de carácter particular, dentro o fuera de los horarios y lugares de trabajo.
+VII. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, seis salarios mínimos, anualmente;
 
-II. Causar intencionalmente daños o desperfectos en los bienes muebles.
+VIII. Por volantes de mano, por evento, de 1 a 3 millares, se cobrará un salario mínimo.
 
-III. Enajenar bienes de desecho o consumibles, independientemente de la naturaleza y estado de los mismos.
+IX. Por la colocación de carteles tamaño carta, por evento de uno a quince días, un salario mínimo por cada 25 carteles;
 
-IV. Intercambiar piezas que formen parte de los bienes muebles, ya sea entre éstos o de los mismos a un bien particular.
+X. Por la colocación de cartel doble carta, por evento, de uno a quince días, dos salarios mínimos por cada 25 carteles;
 
-V. Reubicar o transferir bienes muebles sin conocimiento de Control Patrimonial.
+XI. Por mampara, lona o bastidor 1.70 x.90 metros, un salario mínimo por cada una, por evento de uno a ocho días;
 
-VI. Retirar, rayar, maltratar e intercambiar las etiquetas patrimoniales de los bienes muebles.
+XII. Bambalina de 1.70 por.90 metros, adosada a fachada, dos salarios mínimos por unidad, de uno a ocho días naturales;
 
-APARTADO SEXTO
+XIII. Rótulos o publicidad eventuales en bardas con autorización de dueño: un salario mínimo por evento de uno a ocho días naturales;
 
-De la Salida de Bienes Muebles de Palacio Municipal
+XIV. Rótulos o publicidad permanente:
 
-###### ARTÍCULO 204.
+a) De 0.1 a 100 metros cuadrados: 10 salarios mínimos anuales.
 
-En Palacio Municipal toda salida de bienes muebles al exterior, deberá ser solicitada ante Control Patrimonial, única dependencia autorizada para expedir el vale de salida correspondiente. Quien no acate la presente disposición incurrirá en responsabilidades.
+b) De 100.1 metros cuadrados en adelante: 20 salarios mínimos anuales.
 
-###### ARTÍCULO 205.
+XV. Otros tipos de publicidad permitida, dos salarios mínimos por unidad publicitaria y por evento.
 
-Los directores o jefes administrativos de las dependencias y áreas ubicadas en Palacio, deberán registrar ante Control Patrimonial, el nombre, puesto y firma de las personas autorizadas para firmar vales de salida de Palacio, dichos vales deberán ser firmados por dos personas como máximo por cada dependencia de nivel jefe de departamento o director.
+No causarán los derechos previstos en esta Sección, la colocación de anuncios o cualquier acto publicitario, realizado con fines de asistencia o beneficencia pública; la publicidad de partidos políticos y de asociaciones religiosas y escuelas públicas; la publicidad de la Federación, del Estado o del Municipio, siempre y cuando se ajuste a los reglamentos aplicables, y la publicidad que se realice con fines nominativos para la identificación de la negociación, siempre y cuando se realice en el propio establecimiento, que no exceda de uno por establecimiento y sus medidas no sean superiores de seis metros cuadrados, en caso de que exceda se pagará la proporción al costo que refiere la fracción I del presente artículo.
 
-###### ARTÍCULO 206.
+###### Artículo 206.
 
-Se solicitará ante Control Patrimonial y en forma económica el vale de salida del bien mueble, debiendo personal del área solicitante, anotar los datos requeridos en el mismo con letra de molde y legible y procederá a obtener la firma de la persona autorizada y previamente registrada y de quien tramita el mismo, este último puede ser cualquier trabajador del área solicitante.
+Son objeto de este derecho los servicios que el Ayuntamiento preste, a solicitud o en rebeldía del usuario, por los conceptos siguientes:
 
-Firmado el vale de salida por la persona que lo tramita y por el Jefe de Departamento o Director solicitante, se obtendrá la firma del responsable de Control Patrimonial, ya que sin ésta, el personal de seguridad de Palacio no permitirá la salida del bien mueble.
+I. Alineamiento de predios, en términos de la Ley de Desarrollo Regional y Urbano y sus reglamentos;
 
-###### ARTÍCULO 207.
+II. Por asignación de número oficial e inspección de predios;
 
-Toda salida de bienes muebles deberá realizarse única y exclusivamente por la puerta de acceso principal a Palacio, a excepción de los vehículos que se encuentren en el estacionamiento de Palacio.
+III. Por licencias:
 
-###### ARTÍCULO 208.
+a) De construcción o ampliación;
 
-El vale de salida es un documento único, por lo tanto, no podrá ser remplazado por ningún otro documento análogo.
+b) Construcción de bardas;
 
-###### ARTÍCULO 209.
+c) De uso de suelo;
 
-Los vales de salida se expedirán de las 8:00 a las 15:00 horas en días hábiles.
+d) Por demoliciones;
 
-###### ARTÍCULO 210.
+e) Para albercas;
 
-El vale de salida deberá contener la siguiente información:
+f) Por remodelación o reconstrucción de fachadas o construcciones;
 
-I. Fecha.
+g) Autorización de uso y ocupación de suelo;
 
-II. Bien o bienes solicitados a salir de Palacio.
+h) De fraccionamiento, subdivisión, lotificación y relotificación de terrenos en términos de la Ley de Desarrollo Urbano Regional y Vivienda para el estado de Veracruz de Ignacio de la Llave y sus reglamentos;
 
-III. Registro patrimonial del bien o bienes.
+IV. Por deslinde de predios;
 
-IV. Adscripción de la dependencia.
+V. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación;
 
-V. Nombre y firma del solicitante.
+VI. Visto bueno de seguridad y operación;
 
-VI. Motivo y justificación de la solicitud.
+VII. Autorización de operación;
 
-VII. Periodo de ausencia del bien, no mayor a 15 días naturales.
+VIII. Por la evaluación de impacto ambiental;
 
-VIII. Nombre y firma de autorización por parte del Director o del Jefe del Departamento solicitante y del personal autorizado de Control Patrimonial.
+IX. La anuencia, evaluación y dictaminación para la autorización o modificación de régimen de propiedad en condominio;
 
-IX. Adscripción a donde va el bien mueble.
+X. Expedición de constancias de zonificación y uso de suelo;
 
-###### ARTÍCULO 211.
+XI. Evaluación y dictaminación para la autorización de proyecto de lotificación por superficie que se lotifica;
 
-Todo vale de salida:
+XII. Revisión y evaluación para la autorización de venta con reserva de dominio, así como traslado de dominio parcial o total. Por superficie que se traslada;
 
-I. Perderá vigencia si al tratar de extraer el bien mueble de Palacio, la fecha de expedición es mayor de tres días hábiles.
+XIII. Evaluación, determinación y actualización del monto de fianza;
 
-II. Deberá ser expedido en los formatos que emita Control Patrimonial.
+XIV. Por dictamen para la consideración de autorización de uso de suelo según clasificación por metro cuadrado;
 
-III. Tendrá una vigencia de 15 días naturales máximo y podrá ser renovado en casos excepcionales por una sola ocasión.
+XV. El estudio de factibilidad;
 
-IV. Control Patrimonial exigirá la devolución del bien mueble al vencimiento del vale.
+XVI. Por arrastre y traslado de vehículos o bienes colocados indebidamente en la vía pública; y
 
-V. Deberá ser hecho efectivo en horarios y días hábiles.
+XVII. Por dictamen municipal de desarrollo urbano.
 
-###### ARTÍCULO 212.
+###### Artículo 207.
 
-En los supuestos que la salida del bien mueble obedezca a la reubicación o transferencia temporal o permanente a otra dependencia o a la misma, además del vale de salida, se deberá anexar el formato correspondiente. La salida del bien podrá autorizarse, sin embargo, la autorización sobre la transferencia o reubicación del bien podrá negarse, en cuyo caso, Control Patrimonial exigirá la devolución del bien mueble a su lugar de origen.
+En el caso de la asignación de número oficial, una vez asignado éste y pagados los derechos, no se estará obligado a pagar nuevos derechos cuando se hagan cambios ordenados por el Ayuntamiento, en un plazo de cinco años, contado a partir de su otorgamiento.
 
-###### ARTÍCULO 213.
+###### Artículo 208.
 
-La falta de alguno de los requisitos señalados, dará lugar a negar la salida del bien mueble por parte de Control Patrimonial.
+Por lo que hace a las licencias de construcción o ampliación, se tomará como base la superficie total de las sumas de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que conste la construcción.
 
-APARTADO SÉPTIMO
+###### Artículo 209.
 
-De las Transferencias y Reubicaciones de Bienes Muebles
+Los derechos por la licencia de demolición tendrán como base la superficie horizontal total, que resulte de sumar las superficies horizontales parciales correspondientes a cada uno de los pisos que cubran las construcciones a demolerse.
 
-###### ARTÍCULO 214.
+###### Artículo 210.
 
-Todo bien mueble posee un determinado resguardante y una ubicación determinada. La ubicación y transferencia de un bien mueble no podrán cambiar a menos que se soliciten en los formatos correspondientes ante Control Patrimonial.
+En el caso de que el servicio se preste en rebeldía del usuario, se notificará a este el costo del mismo, para que, en un plazo de quince días hábiles, realice el pago correspondiente.
 
-###### ARTÍCULO 215.
+###### Artículo 211.
 
-Se entiende por transferencia de un bien mueble, el cambio de un resguardante a otro, no obstante estén adscritos en la misma dependencia o en otra.
+Los servicios de deslinde de predios tendrán como base la superficie del predio y se realizarán por peritos designados por el Ayuntamiento. Si practicado el deslinde resulta una diferencia en la superficie del predio, superior o inferior, sobre la que se utilizó como base para el pago de los derechos, se hará el ajuste correspondiente, procediendo al cobro o devolución, según el caso.
 
-###### ARTÍCULO 216.
+###### Artículo 212.
 
-Se entiende por reubicación de un bien mueble, el cambio del lugar en que se encuentra a otro, no obstante sea dentro de la misma dependencia o a otra.
+Los derechos a que se refiere este capítulo se causarán y pagarán en salarios mínimos, conforme a las siguientes cuotas:
 
-###### ARTÍCULO 217.
+Fracción Derechos Salarios
 
-Para que un bien mueble pueda ser reubicado o transferido, deberá solicitarse ante Control Patrimonial en los formatos previamente autorizados por éste y señalando claramente la causa o justificación del cambio.
+por obras mínimos
 
-###### ARTÍCULO 218.
+materiales
 
-La solicitud será analizada, evaluada y autorizada por Control Patrimonial, única dependencia en la materia.
+I Por derechos de alineamiento de predios. Por metro lineal se cobrará de la siguiente manera:
 
-###### ARTÍCULO 219.
+Residencial 0.70
 
-Transcurridos 15 días hábiles a partir de la recepción de la solicitud en Control Patrimonial, sin que exista notificación de éste, se entenderá que la solicitud fue autorizada.
+Medio 0.60
 
-###### ARTÍCULO 220.
+Interés Socia 0.50
 
-En los supuestos en que no sea autorizada la solicitud, Control Patrimonial lo notificará a la dependencia solicitante y exigirá la ubicación del bien mueble en su lugar de origen y/o continuará la vigencia de la firma en el resguardo correspondiente, del resguardante anterior.
+Popular 0.50
 
-###### ARTÍCULO 221.
+Comercial 0.80
 
-Es responsabilidad de todo resguardante y usuario, dar aviso a Control Patrimonial sobre las transferencias y reubicaciones de los bienes muebles a su cargo, independientemente de que el bien mueble vaya a ser utilizado en el mismo centro de costos o que el usuario o reguardante (sic) continúe siendo el mismo, pero hubiese cambiado su centro de trabajo y por cambio de adscripción.
+II Por asignación de número oficial e
 
-APARTADO OCTAVO
+inspección de predios, cada uno:
 
-De los Accidentes, Siniestros, Robos y Pérdidas Parciales o Totales
+Residencial 5
 
-###### ARTÍCULO 222.
+Medio 3
 
-Quién ocasione daños, perdidas o desperfectos a los bienes muebles, por el horario, las funciones que estuviese desempeñando o el grado de responsabilidad, cuando así lo juzgue conveniente la Comisión, deberá reparar el daño al Municipio en función de la cuantía del desperfecto y a lo establecido en el presente capítulo. Se exceptúa de lo anterior, cuando exista robo o porque el hecho se dé por causas de fuerza mayor o fortuita sin que haya negligencia del resguardante o usuario.
+Interés Social y Popular 3
 
-###### ARTÍCULO 223.
+Comercial 7
 
-Las actas administrativas que sean levantadas por el resguardante o usuario, de ninguna manera lo liberan de la responsabilidad correspondiente, no obstante lo anterior, el responsable afectado deberá forzosamente levantar el acta correspondiente ante el Agente del Ministerio Público, acompañado del Síndico Procurador; en su caso, se analizará y evaluará por la Comisión, quien tomará una decisión al respecto y cuya resolución será inapelable.
+III licencias:
 
-###### ARTÍCULO 224.
+a) De construcción o ampliación
 
-La reparación del daño al Municipio por robos o extravíos parciales o totales de los bienes muebles, será responsabilidad absoluta, en primera instancia del resguardante y previo análisis y resolución del caso por parte de la Comisión, del usuario; quienes deberán indemnizar al Municipio en función a lo establecido en el presente capítulo, salvo la excepción hecha en el Artículo 222 del presente Código.
+por metro cuadrado, se pagará
 
-###### ARTÍCULO 225.
+de la siguiente manera:
 
-Las pérdidas parciales sobre bienes muebles parte de un bien mueble mayor, deberán ser reintegradas por un bien de similares características del bien mueble perdido o extraviado, bajo la supervisión de Control Patrimonial, quién podrá o no aceptar en reposición el bien mueble de que se trate.
+Residencial 0.14
 
-###### ARTÍCULO 226.
+Medio 0.12
 
-En caso de detectarse la falta de partes o el total de un bien mueble resguardado, por cualquier causa robo, préstamo, extravío, Control Patrimonial solicitará inmediatamente al resguardante su reposición, en condiciones de operación y características similares. El plazo de reposición no deberá exceder de 10 días naturales a partir de la detección del faltante.
+Interés Social 0.03
 
-###### ARTÍCULO 227.
+Popular 0.01
 
-Sí el resguardante se negó a firmar de recibido el oficio por el que se solicita la reposición o no repone el bien, Control Patrimonial determinará el valor de reposición considerando el precio actual de un bien mueble de las mismas características del extraviado o de uno similar si éste ya no existe en el mercado, vida útil, vida útil consumida, fecha de adquisición, fecha de detección de la pérdida y depreciación. Posteriormente, turnará el caso a la Comisión para que previo acuerdo de ésta, se solicite a la Dirección de Recursos Humanos, la indemnización correspondiente, mediante descuentos en nómina al salario del trabajador usuario o resguardante, en el número y monto de los descuentos que determine la Comisión, hasta la amortización total de valor de reposición.
+Comercial 0.30
 
-###### ARTÍCULO 228.
+Industrial 0.40
 
-A la solicitud de descuentos, deberá acompañarse copia del acta de la sesión de la Comisión en la que se acordaron tales descuentos y la cual deberá señalar entre otros elementos, el bien por indemnizar, el precio de venta actual de un bien mueble nuevo de las mismas características que el extraviado, vida útil de (sic) bien, vida útil consumida, fecha de adquisición, fecha de detección de la pérdida, valor de reposición, forma de pago y nombre del resguardante o usuario responsable.
+Agropecuario 0.15
 
-APARTADO NOVENO
+De servicio 0.15
 
-De las Bajas y Reasignación de Bienes Muebles
+b) De construcción de bardas
 
-###### ARTÍCULO 229.
+por metro lineal en cualquier
 
-Cuando por razones de su operatividad, obsolescencia, daños, desperfectos o terminación de su vida útil, deban ser dados de baja bienes muebles de desecho, obsoletos o consumibles, los mismos se pondrán a disposición de Control Patrimonial, mediante la elaboración y llenado del formato correspondiente.
+caso: 0.25
 
-###### ARTÍCULO 230.
+c) De uso de suelo por
 
-La solicitud de baja deberá ser suscrita por el resguardante y por el Director o Jefe Administrativo de la dependencia de que se trate y será responsabilidad exclusiva de cada dependencia, hacer entrega de los bienes muebles sujetos a baja, en Control Patrimonial o en el domicilio que éste señale para tal efecto y considerando las características, peso y volumen de los bienes muebles de desecho, obsoletos o consumibles, Control Patrimonial determinará su ubicación hasta su enajenación.
+metro cuadrado se
 
-###### ARTÍCULO 231.
+cobrará de la siguiente
 
-La entrega de la solicitud de baja ante Control Patrimonial, no libera a la dependencia municipal, unidad administrativa y/o resguardante, de los daños, desperfectos, robos o pérdidas totales o parciales que sufran los bienes muebles sujetos a ser dados de baja, mientras se encuentren en posesión de las mismas.
+manera:
 
-###### ARTÍCULO 232.
+Residencial 0.03
 
-Recibidos los bienes muebles para baja por Control Patrimonial, éste procederá a determinar su posible enajenación o reasignación.
+Medio 0.25
 
-###### ARTÍCULO 233.
+Interés Social 0.10
 
-En los supuestos de enajenación de bienes muebles, Control Patrimonial integrará un expediente, que contenga mínimo lo siguiente:
+Popular 0.05
 
-I. Dictamen de Baja.
+Comercial 0.25
 
-II. Avalúo.
+Industrial 0.25
 
-III. Solicitud de Baja.
+d) Por demolición por
 
-IV. Fotografías del estado de uso y conservación en que se encuentra el bien mueble.
+metro cuadrado, se
 
-###### ARTÍCULO 234.
+cobrará de la siguiente
 
-Integrado el expediente, el mismo se remitirá a la Dirección de Asuntos Jurídicos de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a fin de que de estimarlo conveniente, se canalice al Cabildo para la autorización correspondiente.
+manera:
 
-###### ARTÍCULO 235.
+Residencial 0.17
 
-Autorizada la enajenación, Control Patrimonial procederá a llevarla a cabo en los términos que dicte dicha autorización y operará en su caso, la baja definitiva de los bienes muebles enajenados, en el Inventario General, a fin de que ya no integren patrimonio del Municipio.
+Medio 0.13
 
-###### ARTÍCULO 236.
+Interés Social 0.10
 
-En los casos en que Control Patrimonial determine que los bienes muebles puestos a su disposición por baja, pueden ser sujetos de seguirse aprovechando; periódicamente comunicará a las áreas municipales y por los medios que considere adecuados, la existencia de tales bienes muebles y en los supuestos que hubiese dependencias interesadas en los mismos, lo harán del conocimiento de Control Patrimonial para que éste proceda a su reasignación, mediante la emisión de los resguardos correspondientes.
+Popular 0.08
 
-###### ARTÍCULO 237.
+Comercial 0.21
 
-Los criterios de reasignación de bienes muebles por parte de Control Patrimonial son:
+Industrial 0.21
 
-I.- La subsidiariedad de las áreas.
+Agropecuario 0.10
 
-II.- La justificación de la solicitud.
+De Servicio 0.20
 
-III.- Los mutuos acuerdos entre las áreas.
+e) Por construcción de
 
-APARTADO DÉCIMO
+albercas por metro cúbico: 1.2
 
-Del Uso de Vehículos Automotores
+f) Por remodelación o
 
-###### ARTÍCULO 238.
+reconstrucción de fachadas
 
-los resguardantes y usuarios, serán responsables del menoscabo que sufran los Vehículos Automotores, por el mal uso que se les dé o falta de mantenimiento, así mismo, serán responsables de los accidentes, siniestros, robos o pérdida de sus auto partes o accesorios, cuando los daños se deriven de su negligencia, en los términos que prevé el presente capítulo.
+o construcciones, por
 
-###### ARTÍCULO 239.
+metro cuadrado
 
-El incumplimiento a las disposiciones previstas en este capítulo, será determinado por Control Patrimonial, aplicando las sanciones que correspondan de conformidad con lo dispuesto por el propio capítulo.
+se pagara de la
 
-###### ARTÍCULO 240.
+siguiente manera:
 
-Todo vehículo automotor deberá ser utilizado por el resguardante o usuario, única y exclusivamente para funciones de carácter oficial derivadas de la actividad pública que desempeñan.
+Residencial 0.14
 
-###### ARTÍCULO 241.
+Medio 0.12
 
-Son obligaciones de los resguardantes y usuarios en el uso de vehículos automotores las siguientes:
+Interés Social 0.03
 
-I. Portar su licencia de conducir vigente.
+Popular 0.01
 
-II. Portar la póliza de seguro del vehículo automotor y su tarjeta de circulación.
+Comercial 0.30
 
-III. Depositar el vehículo automotor en el lugar designando ante Control Patrimonial, para pernoctar los días y horarios que no este autorizada su circulación.
+Industrial 0.40
 
-IV. Verificar que las placas de circulación, estén colocadas en el lugar previsto por los reglamentos oficiales.
+Agropecuario 0.15
 
-V. En caso de robo, pérdida o extravío de alguna o las dos palcas (sic) de circulación, presentarse a la brevedad posible, ante la Procuraduría General de Justicia del Estado, para levantar el acta correspondiente, la cual tendrá que entregar en un término de tres días naturales a Control Patrimonial; de no ser así, el vehículo automotor podrá ser reasignado de manera inmediata por Control Patrimonial a otro resguardante designado por el titular del área correspondiente o superior.
+De servicio 0.15
 
-VI. Mostrar una identificación con fotografía que lo acredite como servidor público adscrito al Municipio, cuando se lo requiera personal de Control Patrimonial.
+g) Para autorización de
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+uso y ocupación en todo
 
-VII. Cubrir el importe de las multas que le sean impuestas por la Secretaría de Seguridad Pública.
+caso se cobrará: 3
 
-VIII. Acudir al centro de verificación vehicular en tiempo y forma según el vale expedido por el taller, de no ser así, deberá pagar la multa que origina su falta.
+h) Para fraccionar, subdividir,
 
-IX. Asegurarse que el vehículo automotor cuente con todas las calcomanías de identificación Institucional para su fácil detección y engomados correspondientes, que permitan su circulación.
+lotificar y relotificar
 
-X. Reportar de inmediato a la compañía de seguros y al encargado de siniestros de la Dirección de Recursos Materiales, los siniestros o colisiones que sufran los vehículos automotores.
+terrenos, por metro
 
-XI. Las demás que determinen este capítulo.
+cuadrado o fracción se
 
-###### ARTÍCULO 242.
+cobrará:
 
-Los directores o jefes administrativos de las dependencias municipales o unidades administrativas, deberán cerciorarse que los vehículos automotores a cargo de ellas, cuenten con la póliza vigente del seguro, copia de la tarjeta de circulación que corresponda, juego de placas y engomados.
+Habitacional:
 
-###### ARTÍCULO 243.
+Progresivo 0.006
 
-Todo los vehículos automotores, deberán portar las calcomanías que permitan su identificación como propiedad o al servicio del Municipio, así como la de identificación de días y horarios de circulación autorizados.
+Interés Social 0.00625
 
-Queda prohibido a los resguardantes y usuarios el retirar, rasgar o cubrir de cualquier forma las calcomanías a que se refiere el párrafo anterior la única autoridad facultada para retirar y colocar las calcomanías de imagen institucional y de identificación de días y horarios de circulación autorizados, será el taller.
+Medio 0.0145
 
-###### ARTÍCULO 244.
+Residencial 0.0212
 
-Sólo el Presidente Municipal o el Secretario de Administración, podrán por razones debidamente justificadas, autorizar por escrito la no portación de calcomanías de la imagen institucional en vehículos automotores.
+Residencial Alto 0.03
 
-La autorización deberá ser solicitada por el Secretario o titular de la dependencia a la que se encuentre adscrito el vehículo automotor del cual se solicita la no portación de calcomanías de la Imagen Institucional y una vez otorgada la autorización por escrito, deberá turnarse el original al taller para que éste proceda a retirarla y se deberá de enviar copia simple a Control Patrimonial.
+Campestre Urbano 0.03
 
-###### ARTÍCULO 245.
+Campestre Agropecuario 0.0125
 
-Queda estrictamente prohibido a los resguardantes y usuarios lo siguiente:
+Abasto, Comercio y
 
-I. Circular en estado de ebriedad, con aliento alcohólico o bajo la influencia de cualquier tipo de droga.
+Servicios 0.04
 
-II. Circular en los días y horarios no autorizados por Control Patrimonial.
+Industrial o agroindustrial 0.05
 
-III. Pernoctar el vehículo automotor en lugares distintos al señalado ante Control Patrimonial.
+Cementerios 0.00625
 
-IV. Incumplir la Ley de Vialidad para el Estado de Aguascalientes y demás normas, reglamentos o leyes estatales y federales en materia de circulación vehicular.
+Mixtos 0.04
 
-V. Utilizar el vehículo automotor en actividades de carácter particular dentro o fuera de horarios y lugares de trabajo.
+IV Por deslinde de
 
-VI. Permitir que personal no adscrito al Municipio o particulares conduzcan el vehículo automotor.
+predios, por metro
 
-VII. Colocar engomados distintos a los oficiales o cubrir éstos.
+cuadrado se
 
-VIII. Hacer modificaciones al vehículo automotor ya sean mecánicas o de estética en interiores o exteriores no autorizadas previamente por el taller.
+cobrará de la siguiente
 
-IX. Utilizar placas que no le corresponden al vehículo automotor.
+manera:
 
-X. Sobrepasar el límite de pasajeros.
+Residencial 0.03
 
-XI. Circular fuera de los límites territoriales del Municipio, sin permiso previo y por escrito de Control Patrimonial, a excepción de aquellos cuyo centro de trabajo se ubique fuera de los límites territoriales del Municipio.
+Medio 0.02
 
-XII. Las demás que determinen este capítulo.
+Interés Social 0.01
 
-###### ARTÍCULO 246.
+Popular 0.01
 
-El resguardante tendrá la obligación de llevar una bitácora de uso del vehículo, la cual deberá ser autorizada por Control Patrimonial, con base en el formato que expida, para el control de usuarios.
+Comercial 0.15
 
-El usuario deberá entregar el vehículo automotor en las mismas condiciones en las que lo recibió, de no ser así, el usuario esta obligado a reparar las fallas, desperfectos o faltantes que se detecten y determinen por el taller o Control Patrimonial, en un plazo máximo de 10 días naturales, posteriores a la detección.
+Industrial 0.20
 
-###### ARTÍCULO 247.
+V Por registro de planos
 
-En caso de un accidente vial, siniestro, robo o pérdida de auto partes el resguardante o usuario estarán sujetos a la responsabilidad administrativa que determine la Comisión, en los términos establecidos en el presente capítulo.
+por metro cuadrado, se
 
-###### ARTÍCULO 248.
+cobrará de la siguiente
 
-Queda estrictamente prohibido a todos resguardantes y usuarios, celebrar convenios en materia de accidentes viales.
+manera:
 
-La única autoridad facultada para celebrar este tipo de convenios, será el Sindico Procurador del Municipio.
+Residencial 3
 
-APARTADO DÉCIMO PRIMERO
+Medio 2
 
-Del Mantenimiento Preventivo y Suministro de Combustible
+Interés Social 1.5
 
-###### ARTÍCULO 249.
+Popular 0.5
 
-Todo resguardante o usuario tendrá la obligación de cumplir con las fechas y servicios de mantenimiento preventivo calendarizadas en la guía de servicios asignada para cada vehículo automotor por el taller.
+Comercial 4
 
-###### ARTÍCULO 250.
+Industrial 5
 
-Todo resguardante o usuario del vehículo automotor, al momento de abastecerlo de combustible, tendrá la obligación de llenar la ficha técnica de mantenimiento.
+De Servicio 5
 
-###### ARTÍCULO 251.
+VI Visto bueno de seguridad
 
-Todo resguardante o usuario deberá reportar de inmediato al taller cualquier falla, ruido o comportamiento anormal del vehículo automotor, presentando su solicitud de servicio autorizada.
+y operación, en todo caso
 
-Cualquier descompostura que se genere intencionalmente, por negligencia o por la falta de revisión y llenado de la ficha técnica de mantenimiento, previo dictamen que emita el taller, será atribuida al resguardante o usuario, quien deberá resarcir al Municipio del pago de la erogación efectuada por concepto de reparación.
+se pagarán: 6
 
-###### ARTÍCULO 252.
+VII Autorización de operación,
 
-Únicamente los vehículos automotores tendrán derecho a que se suministre combustible, mediante el procedimiento que para tal efecto establezca la Dirección de Recursos Materiales de la Secretaría de Administración del Municipio.
+en todo caso se pagarán: 15
 
-Queda estrictamente prohibido el suministro de combustible a vehículos propiedad de particulares, salvo autorización discrecional y por escrito del Presidente Municipal de Aguascalientes o del Secretario de Administración.
+VIII Por la evaluación de impacto
 
-###### ARTÍCULO 253.
+ambiental: 20
 
-A ningún vehículo automotor le podrá ser suministrado combustible si el resguardante o usuario no ha efectuado el llenado de la ficha técnica de mantenimiento.
+IX La anuencia, evaluación y
 
-###### ARTÍCULO 254.
+dictaminación para la autorización
 
-Cuando durante el abastecimiento de combustible se detecte que el odómetro este descompuesto, únicamente se le suministrarán 20 litros como máximo, debiendo el resguardante o usuario llevar de inmediato la unidad al taller para su reparación.
+o modificación de régimen
 
-El taller revisará el odómetro y determinará las causas que originaron la descompostura, de lo cual, emitirá un dictamen en el que se señale si la descompostura fue por negligencia o por falla de origen. Si resulta que se debió a una negligencia, se reportará de inmediato a Control Patrimonial para la aplicación de la sanción que proceda.
+de propiedad en condominio,
 
-###### ARTÍCULO 255.
+se cobrará en las siguientes
 
-Únicamente el resguardante o usuario, podrán trasladar a suministrar combustible al vehículo automotor.
+tarifas:
 
-###### ARTÍCULO 256.
+a) Habitacional
 
-Sólo personal de Control Patrimonial puede realizar trámites sobre cambio de placas, altas, bajas o cambio de adscripción del vehículo automotor.
+Hasta 70 metros cuadrados 2
 
-###### ARTÍCULO 257.
+Más de 70 metros cuadrados 3.5
 
-El resguardante o usuario a quien se le agote el combustible del vehículo automotor que utiliza, en la vía pública o en cualquier otro lugar, tendrá la obligación de trasladarlo a la estación de servicio de PEMEX autorizada y más cercana, para abastecerlo de combustible y los gastos originados serán cubiertos por el usuario o resguardante sin derecho a reembolso.
+b) Comercial y de servicios
 
-APARTADO DÉCIMO SEGUNDO
+Hasta 70 metros cuadrados 4
 
-Del Mantenimiento Correctivo
+Más de 70 metros cuadrados 6
 
-###### ARTÍCULO 258.
+c) Industrial
 
-Para efecto del mantenimiento correctivo del vehículo automotor, el usuario o resguardante deberá:
+Hasta 500 metros cuadrados 10
 
-I. Llenar la solicitud de servicio debidamente firmada y descrita la falla del vehículo automotor.
+Más de 500 metros cuadrados 20
 
-II. El taller revisará el vehículo automotor y determinará las causas que originaron la falla para proceder a dictaminar si es imputable al resguardante o usuario o la falla fue a consecuencia del uso normal. Sí la descompostura fue imputable al resguardante o usuario, éste deberá resarcir el pago al Municipio de la erogación efectuada por concepto de reparación.
+d) Agropecuario
 
-III. Anexo a la solicitud de servicio, deberá enviarse un Inventario del vehículo automotor, a fin de determinar a la entrada y salida del taller, las condiciones generales y accesorios del mismo.
+Hasta 5000 metros cuadrados 1
 
-###### ARTÍCULO 259.
+Más de 5000 metros cuadrados 2
 
-Queda prohibido al resguardante o usuario enviar los vehículos automotores a talleres externos sin la autorización escrita del Director de Servicios Generales de la Secretaría de Administración del Municipio o del Jefe del Taller.
+X Expedición de Constancia
 
-Si el resguardante o usuario traslada el vehículo automotor a un taller externo sin contar con la autorización a que se refiere el párrafo anterior, el costo de la reparación será atribuida al resguardante o usuario, debiendo el taller verificar la bitácora del vehículo para revisar que no se le hayan sustituido piezas.
+de zonificación y uso de suelo: 2
 
-###### ARTÍCULO 260.
+XI Evaluación y dictaminación
 
-Queda estrictamente prohibido que el resguardante o usuario haga intercambio de refacciones o accesorios entre vehículos automotores o entre éstos y un particular.
+para la autorización de proyecto
 
-APARTADO DÉCIMO TERCERO
+de lotificación por superficie que
 
-De los Accesorios
+se lotifica:
 
-###### ARTÍCULO 261.
+Hasta 5000 metros cuadrados 21
 
-Los vehículos automotores únicamente llevarán los accesorios que estén descritos en el resguardo o en el Inventario anexo al mismo.
+Más de 5000 hasta 10000
 
-###### ARTÍCULO 262.
+metros cuadrados 26
 
-El taller únicamente reparará o cambiará los accesorios descritos en el resguardo o en su anexo.
+XII Revisión y evaluación para
 
-En caso de que el resguardante o usuario coloque un accesorio distinto al descrito en el resguardo o en su anexo y éste sufra algún daño o deterioro, el taller no se hará cargo de la reparación o reposición.
+la autorización de venta con reserva
 
-###### ARTÍCULO 263.
+de dominio, así como traslado
 
-El resguardante o usuario será responsable de los gastos originados por alguna falla o desperfecto causado al vehículo automotor por algún accesorio diferente al descrito en el resguardo o su anexo, teniendo que resarcir el pago al Municipio por la erogación efectuada por el concepto de la reparación.
+de dominio parcial o total. Por
 
-###### ARTÍCULO 264.
+superficie que se traslada: 21
 
-Queda estrictamente prohibido la colocación de polarizado en los cristales del vehículo automotor.
+XIII Evaluación, determinación y
 
-APARTADO DÉCIMO CUARTO
+actualización del monto de fianza,
 
-De los Operativos de Supervisión o Detección de Vehículos Automotores
+por trámite: 10
 
-###### ARTÍCULO 265.
+XIV Por dictamen para la consideración
 
-A efecto de cumplir y hacer cumplir lo establecido en el presente capítulo, personal de Control Patrimonial, podrá efectuar en cualquier momento, operativos de supervisión o detección sobre el uso o usufructo de vehículos automotores, los cuales consistirán en la revisión que se haga a los vehículos automotores que se encuentren en circulación o estacionados dentro del territorio del Municipio.
+de autorización de uso de suelo, según
 
-El objetivo de estos operativos, es supervisar el debido cumplimiento de las disposiciones de este capítulo e identificar posibles irregularidades en el uso de los vehículos automotores por parte de los resguardantes y usuarios.
+clasificación, por metro cuadrado:
 
-###### ARTÍCULO 266.
+Vivienda 0.02
 
-Para efectuar un operativo de supervisión o detección de vehículos automotores, se requiere un oficio de habilitación para que determinado personal supervise el debido cumplimiento de las disposiciones de este capítulo. El oficio será suscrito por el Jefe del Departamento de Control Patrimonial para los casos en que el operativo sea realizado por personal adscrito a dicho departamento y suscrito por el Director de Recursos Materiales de la Secretaría de Administración, para los casos en que el operativo lo realice directamente el Jefe del Departamento de Control Patrimonial y en los que como mínimo se señalen los siguientes datos:
+Industria 0.07
 
-I. Fecha y lugar de expedición del oficio.
+Comercio y servicios 0.03
 
-II. El nombre y cargo de las personas habilitadas para la práctica del operativo.
+Agropecuario 0.03
 
-III. Fundamento legal y motivación.
+XV El estudio de factibilidad se
 
-IV. Fecha y hora en la que se efectuará el operativo.
+cobrará: en las siguientes tarifas:
 
-V. Lugar en el que se practicará el operativo.
+a) En rango de 1 a 200 metros cuadrados:
 
-VI. Vehículo o vehículos automotores autorizados para llevar a cabo el operativo.
+Popular 0
 
-VII. La firma autógrafa del servidor público que instruye el operativo.
+Interés Social
 
-###### ARTÍCULO 267.
+Medio 2
 
-El personal habilitado, el cual se integrará por tres personas como mínimo, para practicar operativos de supervisión o detección de vehículos automotores, deberá sujetarse al siguiente procedimiento:
+Residencial 2
 
-I. Requisitar el formato denominado "Operativo" expedido por el departamento, en el que se señale lo siguiente:
+Comercial 3
 
-a) Fecha, hora y lugar en la que se inicia el operativo.
+b) En rango de 200 a 1000 metros cuadrados:
 
-b) Fundamento legal y motivación del acto.
+Popular 1
 
-c) Nombre y edades de las personas que intervienen y la descripción del oficio de habilitación.
+Interés Social 2
 
-d) Domicilio del lugar donde se detectó el vehículo automotor.
+Medio 3
 
-e) Descripción completa del vehículo supervisado.
+Residencial 3
 
-f) Datos de identificación del resguardante o usuario con quienes se atiende, si lo hubiere en el momento de realizar el operativo o la razón de la negativa a identificarse, asentándose en este caso su media filiación.
+Comercial 4
 
-g) Relación de los hechos respecto del vehículo automotor.
+c) Más de 1000 metros cuadrados:
 
-h) Otorgar el uso de la voz y de prueba de sus afirmaciones al resguardante o usuario.
+Popular 2
 
-i) Observaciones del personal habilitado.
+Interés Social 2
 
-j) Fecha, hora y lugar en que se da por terminado el operativo al vehículo automotor.
+Medio 3
 
-k) Las firmas autógrafas de quienes intervinieron y en su caso, la razón de la negativa a firmar del resguardante o usuario.
+Residencial 3
 
-II. En caso de que el vehículo automotor supervisado o detectado cumpla con el presente capítulo, se permitirá que el resguardante o usuario continúe con sus labores normales.
+Comercial 5
 
-III. Cuando el resguardante o usuario de un vehículo automotor supervisado o detectado, incumpla cualquier disposición del presente capítulo, personal de Control Patrimonial podrá remitir el vehículo automotor al lugar de resguardo designado por la Dirección de Servicios Generales para tal efecto y a la brevedad el Titular de Control Patrimonial, determinará y aplicará la sanción que corresponda, de acuerdo con lo señalado en el apartado correspondiente de este capítulo.
+XVI Por arrastre y traslado de
 
-Cuando el personal autorizado para realizar operativos solicite a un vehículo automotor en circulación que se detenga y el usuario o resguardante haga caso omiso, deberá asentarse en el formato correspondiente los datos completos del vehículo y podrá solicitar el auxilio de la fuerza pública para lograr la detención del vehículo automotor o en su caso, Control Patrimonial a la brevedad posible, determinará la sanción que corresponda.
+vehículos o bienes colocados
 
-APARTADO DÉCIMO QUINTO
+indebidamente en la vía
 
-De la Circulación de Vehículos Automotores
+pública: 4
 
-###### ARTÍCULO 268.
+XVII Por dictamen municipal
 
-Todos los vehículos automotores que sean propiedad o se encuentren al servicio del gobierno municipal o de cualquiera de sus organismos descentralizados, sin excepción alguna, se encuentran sujetos a un horario de circulación, el cual estará identificado con una calcomanía adherible colocada en lugar visible en la parte posterior del vehículo, de acuerdo a la siguiente clasificación:
+de desarrollo urbano, se
 
-I. La calcomanía color verde, tendrá un horario de circulación de lunes a domingo durante las 24 horas del día, hábiles e inhábiles.
+cobrará por metro cuadrado
 
-II. La calcomanía color amarilla tendrá un horario de circulación de lunes a sábado de 8:00 a 20:00 horas.
+o fracción: 0.33
 
-III. La calcomanía color rojo tendrá un horario de circulación de lunes a viernes de 8:00 a 18:00 horas.
+###### Artículo 213.
 
-Los titulares de cada dependencia municipal o unidad administrativa, comunicarán a Control Patrimonial, debidamente justificado, el horario de circulación y lugar de resguardo para cada uno de los vehículos automotores bajo su adscripción. Este horario deberá ser respetado forzosamente por los resguardantes o usuarios.
+Es objeto de los derechos a que se refiere este Capítulo, la prestación de los servicios de distribución de agua potable, así como de conexión a los sistemas de drenaje y de distribución realizada directamente por el Ayuntamiento, mismas que se causarán de conformidad con la siguiente tabla de rangos:
 
-###### ARTÍCULO 269.
+TARIFA USO RANGO DE VALOR
 
-Cuando por necesidades del servicio se requiera que un vehículo automotor cambie del horario que tenía asignado a otro permanentemente, la solicitud de cambio deberá efectuarla el Director o Jefe Administrativo de la dependencia municipal o unidad administrativa, con el visto bueno del titular de ésta. Para cambios de horario temporales, se otorgará permiso provisional por escrito firmado por el Jefe de Control Patrimonial, previa solicitud y justificación del Director o Jefe Administrativo correspondiente.
+CATASTRAL Y/O GIRO
 
-###### ARTÍCULO 270.
+TARIFA 1 HABITACIONAL 0 A 200,000.00
 
-Para la expedición de permisos de circulación fuera del territorio del Municipio, las áreas solicitantes deberán sujetarse al siguiente procedimiento:
+TARIFA 2 HABITACIONAL 200,001.00 A 400,000.00
 
-I. Solicitar por escrito con 48 horas de anticipación ante Control Patrimonial el permiso para circular con los siguientes datos:
+TARIFA 3 HABITACIONAL 400,001.00 A 700,000.00
 
-a. Descripción del vehículo.
+TARIFA 4 HABITACIONAL 700,001.00 A 1,000,000.00
 
-b. Dependencia a la que pertenece.
+TARIFA 5 HABITACIONAL 1,000,001.00 A 2,000,000.00
 
-c. Nombre del resguardante o usuario del vehículo.
+TARIFA 6 HABITACIONAL 2,000,001.00 o más
 
-d. Número de placa de circulación.
+TARIFA 7 COMERCIAL Expendios de: farmacéuticos,
 
-e. El Estado y Municipio a los que se dirigirá.
+BAJO abarrotes, miscelánea, tlapalería,
 
-f. El motivo, fecha y horario de la comisión.
+CONSUMO ferretería, zapatería, refacciones,
 
-II. El Titular de Control Patrimonial expedirá el permiso correspondiente, por el horario, fecha y comisión solicitados y a nombre del resguardante o usuario correspondiente.
+alimentos menos de 4 mesas,
 
-###### ARTÍCULO 271.
+maderería, vidriería, material de
 
-Queda estrictamente prohibido a los resguardantes o usuarios hacer uso del vehículo automotor fuera de los horarios que correspondan al color de la calcomanía que porten y fuera del Municipio, sin el permiso correspondiente.
+construcción, carnes frías,
 
-APARTADO DÉCIMO SEXTO
+cremerías, fruterías, fumigadoras,
 
-De la Comisión
+gaseras, joyerías, relojerías,
 
-###### ARTÍCULO 272.
+jugueterías, librerías, llanteras,
 
-Los titulares de las dependencias municipales que integran la Comisión, tendrán los siguientes cargos honoríficos dentro de la misma:
+mercerías, mueblerías, ópticas,
 
-I. Presidente: Secretario de Administración.
+envíos y paqueterías,
 
-II. Secretario Ejecutivo: Contralor Municipal.
+perfumerías, sombrererías,
 
-III. Vocal: Síndico Procurador.
+tabaquerías, tapicerías,
 
-IV. Vocal: Síndico de Hacienda.
+torterías, verdulerías,
 
-V. Vocal: Regidor de la Comisión de Hacienda.
+veterinarias, vulcanizadoras;
 
-VI. Vocal: Director de Asuntos Jurídicos.
+talleres de: costura, carpintería,
 
-VII. Vocal: Director de Recursos Materiales.
+mecánicos, embobinados
 
-VIII. Vocal: Director de Servicios Generales.
+y eléctricos; agencias
 
-IX. Secretario Técnico: Jefe del Departamento de Control Patrimonial.
+de turismo, espectáculos,
 
-###### ARTÍCULO 273.
+bibliotecas, bienes raíces,
 
-Todos los integrantes de la Comisión tendrán derecho a voz y voto y para el caso de empate, el Presidente tendrá voto de calidad.
+oficinas diversas, despacho
 
-###### ARTÍCULO 274.
+jurídico, consultorios,
 
-Los integrantes de la Comisión podrán nombrar un suplente que los represente en casos de ausencia. Dichos suplentes tendrán derecho a voz y voto.
+estacionamiento,
 
-###### ARTÍCULO 275.
+estéticas, foto estudios,
 
-La Comisión celebrará sus sesiones en el recinto que el Presidente señale para tal efecto. Este lugar será inviolable, en consecuencia, se impedirá el acceso al mismo de la fuerza pública, salvo que lo solicite el Presidente.
+laboratorios clínicos notarías
 
-###### ARTÍCULO 276.
+y demás negociaciones
 
-La Comisión celebrará sesiones ordinarias y extraordinarias.
+similares.
 
-###### ARTÍCULO 277.
+TARIFA 8 COMERCIAL Bancos, casas de cambio,
 
-la Comisión podrá celebrar sesiones ordinarias las veces que estime necesarias y cuando menos una vez al mes, el día y hora que para tal efecto señale el Presidente. En dichas sesiones se tratarán los asuntos en cartera y generales.
+MEDIO tiendas de autoservicio,
 
-Los integrantes deberán ser convocados al menos con 48 horas de anticipación, anexándose a la convocatoria el orden del día respectivo.
+CONSUMO gimnasios, museos,
 
-###### ARTÍCULO 278.
+galerías de arte, auditorios,
 
-Las sesiones extraordinarias serán aquellas que se convoquen con 24 horas de anticipación y en ellas se tratan exclusivamente los asuntos de carácter urgente para los que fueron convocados sus integrantes.
+acuarios, carnicerías y demás
 
-###### ARTÍCULO 279.
+negociaciones similares.
 
-Para que exista quórum legal, se requiere la asistencia de al menos del cincuenta por ciento más uno de los integrantes de la Comisión.
+TARIFA 9 COMERCIAL Bares y cantinas,
 
-###### ARTÍCULO 280.
+ALTO estacionamiento
 
-Las sesiones tendrán el carácter de secretas, por lo tanto, no se permitirá el acceso a persona alguna, salvo que sea invitada de manera expresa por la Comisión.
+CONSUMO con baños públicos (WC),
 
-###### ARTÍCULO 281.
+escuelas particulares,
 
-Las votaciones podrán ser económicas y nominales, de acuerdo a lo siguiente:
+panaderías y similares,
 
-I. Económicas, consistirán el levantar la mano para los miembros que aprueben el acuerdo y no hacerlo los que voten en contra.
+restaurantes, supermercados,
 
-Esta votación se utilizará para la aprobación del orden del día y del acta de la sesión anterior.
+centros vacacionales,
 
-II. Nominales, consistirán en preguntar de manera personal a cada uno de los integrantes de la Comisión si aprueba o desaprueba el acuerdo respectivo, debiendo contestar los miembros si están a favor o en contra.
+hospitales o clínicas, terminales
 
-Esta votación se utilizará para todos los acuerdos distintos a los señalados en el punto anterior.
+de autobuses, cines, teatros,
 
-###### ARTÍCULO 282.
+cabarets, centros nocturnos,
 
-Los integrantes de la Comisión se abstendrán de conocer de los asuntos que involucren a cualquiera de las personas señaladas en el Artículo 70 fracción XIV de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+discotecas, arenas de boxeo
 
-###### ARTÍCULO 283.
+y lucha libre, plaza de toros,
 
-La aprobación de cualquier resolución podrá darse por unanimidad cuando todos los integrantes de la Comisión voten a favor y por mayoría cuando por lo menos el cincuenta por ciento más uno lo hagan.
+estadios, establos, granjas,
 
-###### ARTÍCULO 284.
+gasolineras, tortillerías, baños
 
-La Comisión tendrá las siguientes atribuciones:
+públicos, fuentes de sodas,
 
-I. Vigilar que se cumpla lo dispuesto en el presente capítulo.
+viveros, templos y demás
 
-II. Determinar la responsabilidad administrativa de los resguardantes y usuarios de bienes muebles, por los accidentes, robos y pérdidas totales o parciales y siniestros que sufran éstos, a fin de obtener la reparación del daño mediante la reposición de un bien de similares características y operatividad o la indemnización correspondiente.
+negociaciones similares.
 
-III. Determinar la responsabilidad de los servidores públicos municipales, por el intercambio de piezas en los bienes muebles.
+TARIFA 10 INDUSTRIAL Tintorerías, purificadoras de
 
-IV. Proponer al Presidente Municipal las normas, políticas y lineamientos en materia de bienes muebles, así como autorizar los supuestos no previstos en éstos.
+agua, lavanderías, baños
 
-V. Recomendar las medidas necesarias para evitar el probable incumplimiento de alguna disposición jurídica y/o administrativa relativa y aplicable a los bienes muebles.
+públicos, servicios de lavado
 
-VI. Acordar a favor o en contra los dictámenes propuestos por Control Patrimonial, con relación al uso y usufructo de bienes muebles así como de cualquier otra situación que se presente.
+de autos, servicios de lavado
 
-VII. Las demás que le sean conferidas por el Presidente de la Comisión y leyes aplicables.
+y engrasado, fábrica de hielo,
 
-###### ARTÍCULO 285.
+embotelladoras, fabricas de
 
-El Presidente de la Comisión tendrá las siguientes facultades y obligaciones:
+licores o refrescos, fabrica
 
-I. Convocar a las sesiones ordinarias y extraordinarias de la Comisión a través del Secretario Ejecutivo.
+de paletas y helados,
 
-II. Autorizar el proyecto de orden del día y analizar previamente los expedientes correspondientes a los asuntos que se tratarán en cada sesión.
+pasteurizadoras, bloqueras,
 
-III. Coordinar y dirigir las reuniones de la Comisión.
+alfarerías, y demás
 
-IV. En casos de empate emitir su voto de calidad, tomando las decisiones que juzgue adecuadas.
+negociaciones similares.
 
-V. En general, llevar a cabo todas aquellas funciones que se relacionen con la coordinación y dirección de la Comisión.
+TARIFA 11 HOTEL Casas de huéspedes
 
-###### ARTÍCULO 286.
+BAJO
 
-El Secretario Ejecutivo de la Comisión tendrá las siguientes facultades y obligaciones:
+CONSUMO
 
-I. Citar a las sesiones ordinarias y extraordinarias por acuerdo del Presidente.
+TARIFA 12 HOTEL Hoteles tres estrellas o menos
 
-II. Elaborar el orden del día de cada sesión y levantar las actas correspondientes que serán un resumen concreto y preciso del asunto.
+MEDIO
 
-III. Coordinarse con el Secretario Técnico, para la obtención de los expedientes que se requiera analizar.
+CONSUMO
 
-IV. Ejecutar y vigilar que se realicen a través de las distintas áreas los acuerdos y resoluciones que se tomen y los compromisos que se adquieran.
+TARIFA 13 HOTEL Hoteles cuatro y cinco estrellas
 
-V. Vigilar el oportuno cumplimiento de las sanciones que acuerde la Comisión, informando mensualmente los avances o retrasos de las mismas.
+ALTO
 
-###### ARTÍCULO 287.
+CONSUMO
 
-El Secretario Técnico de la Comisión tendrá las siguientes facultades y obligaciones:
+###### Artículo 214.
 
-I. Recabar toda la documentación que contenga la información de los casos que se dictaminarán en las sesiones de la Comisión.
+Es sujeto de estos derechos el propietario o poseedor del predio que solicite su conexión al sistema de distribución de agua potable o de alcantarillado, así como quien, con un carácter distinto, haga uso de estos servicios.
 
-II. Proponer a la Comisión los dictámenes correspondientes de cada asunto, llevando a la sesión la documentación adicional que pueda requerirse.
+Derechos que se causarán en atención a las tarifas que señala el artículo anterior, en un costo en salarios mínimos, de conformidad con las siguientes tarifas:
 
-III. Organizar y resguardar el archivo de la Comisión.
+Concepto Salarios mínimos
 
-###### ARTÍCULO 288.
+Conexión de Agua Tarifa 1 13.0
 
-Los Vocales de la Comisión tendrán las siguientes facultades y obligaciones:
+Conexión de Agua Tarifa 2 14.0
 
-I. Analizar los casos y asuntos que se sometan a su consideración y se consignen en el orden del día, apoyando su análisis sobre los dictámenes y documentos que lo sustenten.
+Conexión de Agua Tarifa 3 15.0
 
-II. Manifestar con objetividad e imparcialidad sus puntos de vista, sus propuestas y alternativas de solución, emitir su votación de aprobación o desaprobación de los asuntos tratados, a fin de que se pueda llegar a una resolución.
+Conexión de Agua Tarifa 4 16.0
 
-III. Firmar las actas, dictámenes y resoluciones que se decidan en la Comisión siempre y cuando hubiera asistido a la sesión correspondiente.
+Conexión de Agua Tarifa 5 17.0
 
-APARTADO DÉCIMO SÉPTIMO
+Conexión de Agua Tarifa 6 18.0
 
-De las Dependencias Rectoras en Diversas Materias
+Conexión de Agua Tarifa 7 30.5
 
-###### ARTÍCULO 289.
+Conexión de Agua Tarifa 8 36.5
 
-La Dirección de Servicios Generales, la Dirección de Modernización Tecnológica y la Dirección de Recursos Materiales de la Secretaría de Administración del Municipio, son las dependencias municipales rectoras en materias de usos y usufructo de vehículos automotores, equipos de cómputo y radiocomunicación respectivamente: A tal efecto están facultadas para dictar e implementar políticas y lineamientos en la materia. Dichas dependencias mantendrán un estrecho contacto con Control Patrimonial y con la Comisión, para coordinar esfuerzos y salvaguardar el buen uso de los bienes muebles.
+Conexión de Agua Tarifa 9 42.5
 
-APARTADO DÉCIMO OCTAVO
+Conexión de Agua Tarifa 10 48.5
 
-De las Sanciones
+Conexión de Agua Tarifa 11 55.0
 
-###### ARTÍCULO 290.
+Conexión de Agua Tarifa 12 55.0
 
-Cuando el resguardante o usuario infrinjan alguna de las disposiciones contenidas en el presente capítulo, Control Patrimonial podrá determinar y aplicar las sanciones siguientes:
+Conexión de Agua Tarifa 13 55.0
 
-A). AMONESTACIÓN POR ESCRITO, CON APERCIBIMIENTO DE SANCIÓN MAYOR, por violación a lo dispuesto en los Artículos 183 segundo párrafo, 184, 185, 190, 198, 202 fracciones de la I a la V, VIII y X; 203 fracciones V y VI, 221, 240, 241 fracciones I, II, III, IV, VI y X; 245 fracción X; 246 primer párrafo; 249, 250, 251 primer párrafo, 253 y 263.
+Conexión de Alcantarillado Tarifa 1 6.0
 
-B). REASIGNACIÓN DE LOS BIENES MUEBLES, A RESGUARDANTE DIVERSO DENTRO DE LA MISMA DEPENDENCIA MUNICIPAL, por violación a lo dispuesto por los Artículos 195, 202 fracción VII y 203 fracción I; 241 fracciones V y XI; 243 segundo párrafo y 245 fracción V.
+Conexión de Alcantarillado Tarifa 2 7.0
 
-C). REASIGNACIÓN DE LOS BIENES MUEBLES A RESGUARDANTE DIVERSO EN OTRA DEPENDENCIA MUNICIPAL, por violación a lo dispuesto por los artículos 203 fracción II; 245 fracciones I, II, III, IV, VI, VII, VIII, IX, XI; 248, 258, 267 párrafo final y 270.
+Conexión de Alcantarillado Tarifa 3 8.0
 
-D). REPOSICIÓN DE BIENES MUEBLES IGUALES O DE SIMILARES CARACTERÍSTICAS Y OPERATIVIDAD, por incurrir en los supuestos que señalan los artículos 222,224,225,226,231 y 238.
+Conexión de Alcantarillado Tarifa 4 9.0
 
-E). DESCUENTOS VÍA NÓMINA EN SU SALARIO, PARA CUBRIR EL IMPORTE DEL VALOR DE REPOSICIÓN DE BIENES MUEBLES, cuando éstos no hayan sido repuestos en los términos del inciso anterior y para el pago de multas a que se refieren los Artículos 241 fracciones VIII y IX; así como para el pago de las reparaciones que se señalan en los Artículos 249 segundo párrafo; 251 segundo párrafo; 253 segundo párrafo y 258 segundo párrafo. Siempre que el responsable se niegue a cubrir voluntariamente el importe señalado.
+Conexión de Alcantarillado Tarifa 5 10.0
 
-F). TURNO DEL CASO A LA CONTRALORÍA MUNICIPAL, para el fincamiento de responsabilidades administrativas y/o económicas, por violación a lo dispuesto en los Artículos 199, 200, 201, 203 fracción III y 204.
+Conexión de Alcantarillado Tarifa 6 11.0
 
-###### ARTÍCULO 291.
+Conexión de Alcantarillado Tarifa 7 14.0
 
-Todo lo no previsto en el presente capítulo, será resuelto por la Comisión.
+Conexión de Alcantarillado Tarifa 8 14.0
 
-### CAPÍTULO VIII. De las Faltas de Policía
+Conexión de Alcantarillado Tarifa 9 14.0
 
-APARTADO PRIMERO
+Conexión de Alcantarillado Tarifa 10 16.0
 
-Reglas Generales
+Conexión de Alcantarillado Tarifa 11 18.0
 
-###### ARTÍCULO 292.
+Conexión de Alcantarillado Tarifa 12 18.0
 
-En el Municipio de Aguascalientes la Justicia Municipal consiste en la valoración de las conductas presumiblemente constitutivas de faltas administrativas, tanto de Policía como de Vialidad, con el fin de determinar la sanción o medida de seguridad que en su caso corresponda y vigilar su cumplimiento.
+Conexión de Alcantarillado Tarifa 13 18.0
 
-###### ARTÍCULO 293.
+Reconexión de servicio 6.0
 
-La Dirección de Justicia Municipal dependerá de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno y será facultad exclusiva del Director de Justicia Municipal por sí o a través de los Jueces Municipales lo establecido en el artículo anterior.
+Cambio de Nombre 2.0
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+Reubicación de toma 4.0
 
-###### ARTÍCULO 294.
+Válvula limitadora de ½ 6.0
 
-El sistema de Justicia Municipal funcionará las 24 horas de los 365 días del año. Cada Juzgado actuará por turnos que estarán integrados por:
+###### Artículo 215.
 
-I. El Juez Municipal.
+Por los servicios de distribución de agua potable y alcantarillado que preste directamente el Ayuntamiento, en términos de este capítulo, se causarán los derechos correspondientes, de conformidad con las tarifas a que se refiere el artículo 213 del presente Código, fijándose una tarifa anual fundamentada en la capacidad de la demanda del usuario, la cual se determinara de la siguiente manera:
 
-II. Un receptor de detenidos.
+TARIFA USO CUOTA FIJA ANUAL
 
-III. Un encargado del depósito de pertenencias y cajero.
+(SALARIOS MINIMOS)
 
-IV. Un médico de guardia.
+TARIFA 1 Habitacional 3.5
 
-V. Un responsable del área de trabajo social.
+TARIFA 2 Habitacional 6.0
 
-VI. Oficiales custodios.
+TARIFA 3 Habitacional 9.0
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+TARIFA 4 Habitacional 11.5
 
-Se buscará una integración con igual número de mujeres que de hombres.
+TARIFA 5 Habitacional 16.5
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+TARIFA 6 Habitacional 20.5
 
-###### ARTÍCULO 295.
+TARIFA 7 Comercial Bajo consumo 14.0
 
-Para ser titular de la Dirección de Justicia Municipal, se requiere:
+TARIFA 8 Comercial Consumo medio 42.0
 
-I. Ser mexicano en pleno goce de sus derechos y vecino del Municipio por más de cinco años.
+TARIFA 9 Comercial Alto consumo 84.0
 
-II. Contar con el título de Licenciado en Derecho, con una antigüedad mínima de dos años y contar con cédula profesional para el ejercicio de la profesión.
+TARIFA 10 Industrial 243.0
 
-III. No haber sido sentenciado por la comisión de delito doloso alguno.
+TARIFA 11 Hotel Bajo consumo 243.0
 
-IV. Contar con experiencia comprobable en la materia de administración de justicia municipal.
+TARIFA 12 Hotel Consumo medio 364.0
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+TARIFA 13 Hotel Alto consumo 809.0
 
-###### ARTÍCULO 296.
+El alcantarillado sanitario se cobrará anualmente al 25% sobre el importe del consumo de agua.
 
-Son atribuciones de la persona titular de la Dirección de Justicia Municipal:
+La cuota fija anual antes señalada se causará hasta en tanto se establezca el cobro del suministro de agua por servicio medido, mismo que se causará tomando como base para ello el catálogo de tarifas a que se refiere el artículo 213 del presente Código, la que se determinará y causará de manera mensual en pesos mexicanos, por metro cúbico de agua consumido, establecido en el rango, con excepción de aquellos que consuman agua en un rango que no exceda de los diez metros cúbicos, cuya tarifa será única, causándose esta de la siguiente forma:
 
-I. Proveer en el ámbito de su competencia lo necesario para la debida impartición de la Justicia Municipal.
+H A B I T A C I O N A L
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+RANGO TA- TA- TA- TA- TA- TA-
 
-II. Examinar y proponer al Secretario del H. Ayuntamiento y Director General de Gobierno, el personal a integrar la Dirección de Justicia Municipal, así como los programas permanentes de capacitación, que invariablemente deberán contener los temas de acceso a la justicia y juzgar con perspectiva de género, así como de violencia contra las mujeres.
+RI- RI- RI- RI- RI- RI-
 
-III. Determinar discrecionalmente y de acuerdo a las necesidades del servicio, los horarios y turnos del personal que integra la Dirección de Justicia Municipal.
+FA FA FA FA FA FA
 
-IV. Ejercer por sí o por conducto del Juez en turno el mando de los oficiales custodios.
+1 2 3 4 5 6
 
-V. Informar al Secretario del H. Ayuntamiento y Director General de Gobierno, sobre los asuntos relevantes que se susciten en la Dirección.
+0-10 15.00 17.00 19.00 21.00 23.00 25.00
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+0-20 1.45 1.64 1.84 2.05 2.25 2.51
 
-VI. Elaborar planes y programas necesarios para la debida impartición de la Justicia Municipal, incluyendo la perspectiva de género.
+0-30 1.58 1.75 1.98 2.23 2.51 .81
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+0-40 1.80 2.01 2.24 2.51 2.81 3.12
 
-VII. Expedir constancias de no antecedentes policiales.
+0-60 2.01 2.24 2.51 2.81 3.12 3.42
 
-VIII. Vigilar el buen funcionamiento administrativo y operativo de la Dirección.
+0-80 2.21 2.47 2.77 3.12 3.42 3.71
 
-IX. Determinar la habilitación de Juzgados Municipales, con la autorización del Secretario del H. Ayuntamiento y Director General de Gobierno, en los lugares donde sea necesario de acuerdo a las necesidades del servicio, o bien interrumpir el funcionamiento de estos, cuando la prestación del servicio se vuelva inoperante.
+0-100 2.43 2.73 3.04 3.42 3.71 4.14
 
-X. Nombrar al oficial custodio encargado de la guardia, así como nombrar a los oficiales custodios encargados de la guardia por turnos. Las guardias podrán ser rotativas.
+0-120 2.65 2.96 3.29 3.71 4.14 4.57
 
-XI. Las demás que disponga éste Código y las leyes respectivas.
+0-150 2.96 3.29 3.71 4.14 4.57 5.00
 
-APARTADO SEGUNDO
+0-200 3.29 3.87 4.37 4.57 5.00 5.44
 
-De los Jueces Municipales de Seguridad Pública
+0-9999 3.87 4.37 4.87 5.41 5.91 6.41
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+COMERCIAL INDUSTRIAL HOTELES
 
-###### ARTÍCULO 297.
+RANGO TA- TA- TA- TA- TA- TA- TA-
 
-Para ser Juez(a) Municipal se requiere:
+RI- RI- RI- RI- RI- RI- RI-
 
-I. Ser mexicano en pleno goce de sus derechos y vecino del Municipio por más de tres años.
+FA FA FA FA FA FA FA
 
-II. Contar con título de Licenciado en Derecho y cédula profesional para el ejercicio de la profesión.
+7 8 9 10 11 12 13
 
-III. Aprobar el examen de conocimientos que aplique el Director de Justicia Municipal. Dicho examen deberá ser aprobado en su formato y contenido por el Secretario del H. Ayuntamiento y Director General de Gobierno.
+0-10 26.00 30.00 34.00 65.00 45.00 50.00 55.00
 
-IV. No haber sido sentenciado por delito doloso alguno.
+0-20 2.81 3.12 3.44 6.92 4.57 5.44 5.87
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+0-30 3.12 3.42 3.71 7.50 5.00 5.87 6.31
 
-V. Contar con conocimientos en materia de nuevas masculinidades y perspectiva de género.
+0-40 3.42 3.71 4.14 7.79 5.44 6.31 6.75
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+0-60 3.71 4.14 4.57 8.73 5.87 6.75 7.19
 
-###### ARTÍCULO 298.
+0-80 4.14 4.57 5.00 9.67 6.31 7.19 7.63
 
-Son atribuciones de Jueces y juezas Municipales:
+0-100 4.57 5.00 5.44 10.5 66.75 7.63 8.08
 
-I. Recibir, a través del receptor de detenidos, las personas que sean puestas a su disposición.
+0-120 5.00 5.44 5.87 11.44 7.19 8.08 8.52
 
-II. Analizar y valorar los hechos imputados al detenido, así como los objetos y pruebas con los que se cuente.
+0-150 5.44 5.87 6.31 12.91 7.63 8.52 8.95
 
-III. Determinar, en su caso, si los hechos que se le presentan son constitutivos de una falta administrativa o se presume algún delito.
+0-200 5.87 6.31 6.75 14.39 8.08 8.95 9.39
 
-IV. En su caso, imponer al infractor el arresto, la multa o medida de seguridad que corresponda y vigilar su cumplimiento.
+0-9999 6.89 7.37 7.80 16.73 9.10 10.00 10.50
 
-V. En caso de que se presuma que los hechos de que tiene conocimiento sean constitutivos de algún delito, el Juez Municipal suspenderá inmediatamente su intervención y pondrá al detenido y los objetos afectos, a disposición de la autoridad competente.
+Estos costos no incluyen el importe correspondiente al alcantarillado sanitario, que es del 25% del consumo facturado por concepto del servicio de agua, además de que los montos antes mencionados aumentaran conforme al incremento de los salarios mínimos generales para la zona de Orizaba.
 
-VI. Llevar el control administrativo del turno que se le asigne en el Juzgado.
+###### Artículo 216.
 
-VII. Llevar un registro de las personas que le fueron puestas a disposición y la determinación tomada.
+Cuando un promotor de vivienda, de industria, de edificios públicos o comerciales, así como el propietario de un inmueble que desea subdividirlo, de conformidad con el Reglamento vigente para la fusión, subdivisión, relotificación y fraccionamiento para el Estado de Veracruz, mismos que tienen la obligación de asegurar la dotación de los servicios básicos, deberá tramitar ante este Ayuntamiento las factibilidades de dotación de agua y alcantarillado sanitario, teniendo facultad el Ayuntamiento para otorgar dichas factibilidades, previo pago de los derechos a que se refiere este artículo los que se causarán, por vivienda, local, despacho o lote de la siguiente manera:
 
-VIII. Expedir cuando proceda las boletas de egreso correspondientes.
+Derecho Interés social Urbano medio Residencial
 
-IX. Rendir al Director de Justicia Municipal informe de hechos relevantes durante su turno.
+por (Salarios (Salarios (Salarios
 
-X. No abandonar su área de trabajo, aún habiendo concluido su turno, hasta que sea relevado por el Juez Municipal entrante.
+conexión mínimos) mínimos) mínimos)
 
-XI. Aplicar las medidas necesarias para la tutela y protección de los menores puestos a disposición.
+por vivienda
 
-XII. Llevar el control de la correspondencia y registro de todos los oficios en que intervenga con motivo del ejercicio de sus funciones.
+o lote:
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+Agua 20.5 30.5 40.5
 
-XIII. Dictar las medidas y lineamientos necesarios al personal de la Secretaría de Seguridad Pública para el buen funcionamiento del Juzgado.
+Alcantarillado 20.5 30.5 40.5
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+Usos
 
-XIV. Están facultados para aplicar las sanciones establecidas en el artículo 157 de la Ley de Vialidad del Estado de Aguascalientes, así como para llevar a cabo los procedimientos establecidos en el Capítulo Décimo Noveno del Reglamento de Tránsito del Municipio de Aguascalientes y aplicar sus respectivas sanciones. Lo anterior, independientemente de si el Juez Municipal esté adscrito o no a Tránsito y Movilidad.
+industriales,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2008)</small>
+comerciales
 
-XV. Para imponer, como sanción administrativa, el servicio comunitario, conforme a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 179 y 179 BIS de la Ley Municipal para el Estado de Aguascalientes y el Reglamento que para tal efecto expida el H. Ayuntamiento.
+y servicios. 2,020.5 salarios mínimos por litro por segundo
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2008)</small>
+requerido de agua potable, y para alcantarillado
 
-XVI. Las demás que se desprendan del presente Código y demás disposiciones legales aplicables.
+sanitario el 150% de la tarifa de agua.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+En caso de que la dotación del servicio no sea factible o no se realice el proyecto, el ayuntamiento devolverá el 90% del pago realizado.
 
-Tratándose de casos donde se presuma la existencia de algún tipo de violencia de género, independientemente del asunto de que se trate, queda prohibido efectuar procedimientos de conciliación, negociación o mediación.
+###### Artículo 217.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+El pago de los derechos previstos en este Capítulo se realizará sin perjuicio de cubrir las reparaciones necesarias al pavimento, cuyo costo será equivalente al de los materiales empleados y los de mano de obra, debiendo pagarse ambos conceptos antes de que se preste el servicio, mismos que se causaran, en salarios mínimos, de la siguiente manera:
 
-###### ARTÍCULO 299.
+Reposición de pavimento de concreto hidráulico por
 
-Lasy (sic) los Jueces Municipales, dentro de su turno serán la máxima autoridad tanto del Juzgado respectivo como del Centro de Detención adjunto y cuidarán estrictamente que se respeten los derechos humanos de los y las infractores(as) y su dignidad humana, quedando bajo su responsabilidad cualquier atentado en que incurra el personal del Juzgado, incluyendo actos de discriminación basada en edad, discapacidades, origen étnico, clase, condiciones de salud, religión; opiniones, sexo, orientación sexual, identidad sexo-génerica, estado civil o cualquier otra que tenga por objeto o por resultado, menoscabar o anular el reconocimiento, goce o ejercicio, independientemente de su estado civil, sobre la base de los Derechos Humanos y las libertades fundamentales en las esferas políticas, económicas, social, cultural, civil o en cualquier otra esfera.
+introducción de drenaje sanitario (por metro lineal). 25
 
-###### ARTÍCULO 300.
+Reposición de pavimento de asfalto por introducción
 
-Los Jueces Municipales podrán emitir órdenes para que sean practicadas visitas domiciliarias únicamente para cerciorarse del cumplimiento de disposiciones de policía en términos del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley del Procedimiento Administrativo para el Estado de Aguascalientes.
+de drenaje sanitario (por metro lineal). 20
 
-###### ARTÍCULO 301.
+Introducción de drenaje sanitario en terracerías sin
 
-El Juez Municipal al hacer su cambio de turno, deberá entregar documental y físicamente, al Juez Municipal entrante, los detenidos que se encuentren bajo su responsabilidad, indicando las causas y condiciones de su detención y permanencia.
+pavimento, incluye material de descarga de 6
 
-APARTADO TERCERO
+pulgadas de diámetro. (Por metro lineal). 12
 
-Del Receptor de Presuntos Infractores
+Ruptura y reposición de pavimento de concreto
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+hidráulico por introducción o trabajos de agua potable
 
-###### ARTÍCULO 302.
+(por metro lineal). 9
 
-La persona que reciba a presuntos infractores, deberá respetar en todo momento los derechos humanos del presunto infractor, tener grado de Licenciatura en Derecho, estará bajo la supervisión del juez municipal y tendrá, en orden progresivo, las siguientes obligaciones:
+Ruptura y reposición de pavimento de asfalto por
 
-I. La recepción de los detenidos que sean puestos a su disposición.
+introducción o trabajos de agua potable (por metro
 
-II. Recabar los datos de identificación de los presuntos infractores, la información de los hechos que motivaron su detención, los datos del denunciante o agraviado en caso de existir, así como cualquier otra circunstancia que revista interés para el caso.
+lineal) 7
 
-III. Remitir al infractor, al depósito de pertenencias a fin de que resguarden sus objetos personales.
+Pago por obra pública en alcantarillado sanitario
 
-IV. Solicitar y recabar de servicios médicos el examen psicofísico de los presuntos infractores puestos a disposición del Juez Municipal.
+(alquiler de Vactor por turno de 8 horas). 170
 
-V. Entregar la documentación necesaria al Juez Municipal en turno, a efecto de que imponga las sanciones correspondientes a los infractores.
+###### Artículo 218.
 
-VI. Llevar el control administrativo de su área.
+Los predios responderán preferentemente del pago de los derechos por el servicio de agua.
 
-APARTADO CUARTO
+En consecuencia, el Ayuntamiento tendrá acción real que podrá ejercitar contra el propietario o poseedor del inmueble.
 
-Del Encargado del Depósito de Pertenencia de los Infractores
+###### Artículo 219.
 
-###### ARTÍCULO 303.
+Estarán exentos de pago de los derechos por servicio de agua potable los gobiernos Federal, Estatal y Municipal, cuando dicho servicio se preste en locales o edificios pertenecientes a los mismos, que estén destinados a servicios públicos, de conformidad con lo establecido en el artículo 115, fracción IV, inciso c), de la Constitución Política de los Estados Unidos Mexicanos, y demás disposiciones aplicables.
 
-El encargado del depósito de pertenencias, será parte de la Secretaría de Finanzas Públicas y se encargará tanto de recibir las pertenencias de los presuntos infractores como de recibir el pago de las multas dentro de las instalaciones de los Juzgados Municipales.
+###### Artículo 220.
 
-Para efectos de su función como encargado del depósito de pertenencias, estará bajo el mando del Director de Justicia Municipal o del Juez Municipal en turno. Dicho Director podrá solicitar a la Secretaría de Finanzas Públicas el cambio del personal que considere pertinente adscrito a la Secretaría a su cargo.
+Las instituciones que tengan derecho a gozar de exención de pago de la contribución por el servicio de agua deberán solicitarla al Ayuntamiento.
 
-###### ARTÍCULO 304.
+Las mismas instituciones darán aviso al Ayuntamiento, en un plazo de diez días, cuando dejaren de existir las circunstancias que motivaron la exención para que, a partir de esa fecha, se cobre la contribución correspondiente.
 
-El encargado del depósito de pertenencias tendrá bajo su más estricta responsabilidad recibir, custodiar y devolver cuando proceda, todos los objetos, valores, dinero y documentos que depositen los infractores, previo recibo de inventario que se le expida.
+###### Artículo 221.
 
-###### ARTÍCULO 305.
+Los Notarios y demás fedatarios públicos, salvo mandamiento judicial, no autorizarán los testimonios que contengan los actos traslativos de dominio de bienes inmuebles, cuando no se acredite estar al corriente en el pago de los derechos previstos en este Capítulo.
 
-Cuando se recojan armas, objetos peligrosos, enervantes, psicotrópicos, estupefacientes o cualquier tipo de droga prohibida, u objeto motivo de la comisión de algún ilícito o cualquier objeto utilizado para delinquir, se pondrán inmediatamente a disposición del Juez Municipal para que proceda a su remisión, mediante oficio, a la autoridad competente.
+###### Artículo 222.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
+Las autoridades municipales no autorizarán el traspaso o traslado de un giro mercantil o industrial o el cambio de giro, mientras no se les acredite estar al corriente en el pago de derechos previstos en este Capítulo.
 
-APARTADO QUINTO
+###### Artículo 223.
 
-De los Jueces Municipales adscritos a Tránsito y Movilidad
+Son objeto de estos derechos la expedición de certificados, constancias y copias certificadas de documentos que obren en los archivos municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+###### Artículo 224.
 
-###### ARTÍCULO 306.
+Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
 
-Es facultad de los Jueces Municipales adscritos a Tránsito y Movilidad, la calificación y reconsideración de las sanciones a que se hagan acreedores los infractores del Reglamento de Tránsito del Municipio de Aguascalientes y la Ley de Vialidad del Estado de Aguascalientes. Además, contarán con las atribuciones establecidas en el artículo 298 del presente Código, para efecto de la aplicación del Reglamento de Tránsito del Municipio de Aguascalientes y la Ley de Vialidad del Estado de Aguascalientes, así como el Reglamento que en materia de servicio comunitario expida el H. Ayuntamiento.
+###### Artículo 225.
 
-En el caso de la multa, el monto de la misma será establecido por la Secretaría de Finanzas Públicas Municipales y será considerada como crédito fiscal.
+Los funcionarios facultados para prestar los servicios a que se refiere este Capítulo verificarán que previamente se hayan cubierto los derechos correspondientes.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+Los derechos por expedición de certificaciones y otros servicios, se causarán y pagarán conforme a las cuotas siguientes:
 
-###### ARTÍCULO 307.
+I. Certificado o certificaciones expedidos por funcionarios o empleados municipales, incluyendo la búsqueda de datos para expedirlos, por cada certificado, 1.20 salarios mínimos.
 
-Para ingresar al cuerpo de Jueces Municipales adscritos a Tránsito y Movilidad, se deberán de cumplir los requisitos a que se refiere el artículo 297 del presente Código.
+II. Copias de documentos que obren en los archivos de oficinas municipales:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+a) Por hoja escrita en una o ambas caras, un salario mínimo;
 
-###### ARTÍCULO 308.
+b) Además de los derechos que establece esta fracción, se cobrará por la búsqueda de los documentos de los que deba sacarse copia, cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la búsqueda, 0.30 salarios mínimos; y
 
-El Director de Justicia Municipal, acorde a las necesidades de la Dirección de Tránsito y Movilidad, asignará los horarios y turnos que deberán cubrir los Jueces Municipales comisionados a esta dependencia.
+III. En los casos no especificados, la tarifa por la expedición de verificaciones, constancias o dictámenes, por cada uno, tres salarios mínimos.
 
-Estos funcionarios llevarán el control y funcionamiento administrativo del tumo asignado, debiendo rendir diariamente informe de actividades al Director de Justicia Municipal.
+###### Artículo 226.
 
-###### ARTÍCULO 309.
+Son objeto de estos derechos los servicios que se presten en el Rastro Municipal o en los lugares autorizados, relativos al sacrificio de animales para el consumo humano, así como por el uso de los espacios e instalaciones del Rastro Municipal.
 
-En caso de ser procedente la imposición de la multa, la calificará conforme las disposiciones aplicables y la notificará personalmente.
+###### Artículo 227.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+Son sujetos de este derecho, las personas físicas o morales que hagan uso de los servicios descritos en el artículo anterior, sin perjuicio del cumplimiento de los requisitos sanitarios.
 
-Para calificación, reclasificación y reconsideración de las multas de tránsito, el Juez Municipal de Tránsito y Movilidad, deberá tomar en cuenta lo dispuesto en el artículo 21 Constitucional.
+###### Artículo 228.
 
-> <small>N. DE E. DEROGADO TERCER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011.</small>
+Es base de este derecho, cada animal en pie considerado por cabeza y por tipo; en el caso del uso de instalaciones como frigoríficos y corrales, se pagará por el tiempo utilizado de acuerdo a las cuotas que se establecen en el artículo siguiente.
 
-> <small>N. DE E. DEROGADO CUARTO PÁRRAFO, P.O. 8 DE AGOSTO DE 2011.</small>
+El Rastro Municipal no será responsable por la suspensión o el retraso de los servicios que presta, cuando obedezcan a fallas mecánicas, falta de energía eléctrica, captación de agua o circunstancias fortuitas no imputables al Rastro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+Tampoco será responsable por mermas, utilidades o pérdidas comerciales supuestas, ni por las acciones que ejerza autoridad diferente en demérito de la prestación del servicio.
 
-###### ARTICULO 310.
+###### Artículo 229.
 
-Los infractores que no estén de acuerdo con la calificación de alguna boleta de infracción, deberán recurrir ante el Juzgado Municipal comisionado a la Dirección de Tránsito y Movilidad dentro del término establecido en el artículo 144 fracción VI de la Ley de Vialidad para el Estado de Aguascalientes, a solicitar la reconsideración, que tiene como objeto, el confirmar, revocar o modificar la sanción impuesta.
+El pago de este derecho se efectuará previamente a la prestación del servicio, en la Tesorería o ante la oficina de esta en el Rastro. Los funcionarios encargados del Rastro Municipal no prestarán servicio alguno, si previamente no se comprueba que se pagaron los derechos correspondientes.
 
-El infractor que solicite la reconsideración deberá presentar en forma personal su licencia de conducir vigente, a efecto de acreditar los extremos de los Artículos 32 y 37 de la ley de Vialidad en el Estado. Sin este requisito el recurso se desechará de plano.
+Por la prestación de servicios que se proporcionan en los rastros públicos municipales se causarán derechos conforme a las cuotas siguientes:
 
-Acto seguido narrará en forma respetuosa una relación breve y concreta de los hechos que originaron la boleta de infracción, y expondrá a modo de alegatos los motivos por los cuales solicita la reconsideración de la calificación.
+Rastros públicos municipales Salarios mínimos
 
-El Juez Municipal resolverá de inmediato conforme a los hechos y alegatos presentados.
+I. Bovino, por cada animal 1.70
 
-###### ARTÍCULO 311.
+II. Porcino y equino, por cada animal 0.85
 
-El infractor que alegue su calidad de obrero, jornalero o asalariado deberá de acreditarlo a satisfacción del Juez, a efecto de proceder en consecuencia.
+III. Ovino y caprino, por cada animal 0.2 a 0.4
 
-APARTADO SEXTO
+IV. Aves u otras especies menores,
 
-Del Departamento de Servicios Médicos, Psicología y Trabajo Social
+por cada animal 0.01 a 0.02
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+V. Por uso de corrales después de transcurridas cuarenta y ocho horas del ingreso del animal, por día o fracción se pagará: 10% de las cantidades señaladas en las fracciones anteriores.
 
-###### ARTÍCULO 312.
+VI. Por uso de frigoríficos, después de transcurridas veinticuatro horas del ingreso del animal, por día o fracción se pagará: 10% de las cantidades señaladas en las fracciones anteriores.
 
-La Dirección de Justicia Municipal contará con personal médico, psicológico y de trabajo social a cargo de un Jefe(a) de Departamento, quien contará con las siguientes atribuciones:
+###### Artículo 230.
 
-I. Organizar y supervisar las distintas actividades que se realizan en el área a su cargo.
+Son objeto de estos derechos, los servicios de inhumación, cremación y exhumación de cadáveres o restos humanos, apertura y cierre de gavetas, depósito de restos en osario, construcción, reconstrucción y ampliación de monumentos, criptas o fosas.
 
-II. Asignar y dictar las instrucciones al personal a su cargo, para el buen funcionamiento de los consultorios médicos y psicológicos, así como el de las áreas de trabajo social.
+###### Artículo 231.
 
-III. Solicitar los materiales y equipo de trabajo para el departamento a su cargo.
+Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán en salarios mínimos, las cuotas siguientes:
 
-IV. Coordinar, supervisar y proponer planes y programas de trabajo al Director de Justicia Municipal.
+I. Inhumaciones por siete años y refrendo de fosas 15
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+II. Inhumaciones en fosas a veintiún años 20
 
-V. Elaborar certificados médicos a las personas detenidas y presentadas por autoridad distinta de la Secretaría de Seguridad Pública, con la que previamente se haya celebrado convenio de colaboración, así hecho saber por el Director de Justicia Municipal o por el Jefe del Departamento.
+III. Inhumaciones en fosas a perpetuidad 40
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+IV. Depósito de restos en osario por una
 
-VI. Participar en la programación y supervisión de cursos de capacitación, incluyendo en materia de derechos humanos, de violencia e igualdad de género y justicia con perspectiva de género.
+temporalidad de 7 años 20
 
-VII. Establecer el rol de turnos del personal a su cargo.
+V. Depósito de restos en el osario a perpetuidad 40
 
-VIII. Llevar el control administrativo de las personas que sean atendidas en los consultorios médicos, psicológicos y áreas de trabajo social.
+VI. Por licencia de Construcción, reconstrucción, ampliación o modificación de monumentos, criptas o fosas:
 
-IX. Proveer lo necesario a efecto de que se cuente con médico de guardia en los Juzgados Municipales en todo momento.
+a). Por bóveda 3
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+b). Por apertura de bóveda 7
 
-X. Verificar que el personal a su cargo evite prácticas de conciliación, mediación, negociación o atenciones psicológicas de familia o pareja en los casos donde exista violencia de cualquier tipo en contra de las mujeres.
+c). Por banqueta 4
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+d). Por construcción de monumento,
 
-XI. Las demás que se desprendan de éste Código, de los ordenamientos jurídicos vigentes y lasnormas (sic) administrativas que dicte la persona titular de la Dirección de Justicia Municipal.
+reconstrucción, ampliación o
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+modificación de monumentos, criptas
 
-#### SECCION IV.
+o fosas 10% sobre el costo
 
-DE LA COMISION PERMANENTE.
+cobrado por el
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1980)</small>
+constructor, según
 
-###### ARTÍCULO 313.
+costos autorizados
 
-Serán atribuciones del personal médico de Justicia Municipal:
+por el Ayuntamiento.
 
-I. Revisar el estado de salud de quienes son puestos a disposición del Juez Municipal, elaborando a cada uno el certificado médico de integridad psicofísica correspondiente, supervisando su salud, durante el tiempo que estén detenidos.
+VII. Exhumaciones 1
 
-II. Visitar a los detenidos al inicio de su turno, efectuando una revisión médica a cada uno de ellos y especificar la evolución en el certificado médico respectivo.
+VIII. Reinhumaciones 1
 
-III. Informar al Juez Municipal sobre la viabilidad de ingreso del detenido a celdas por motivos de su salud, y sugerir la salida de algún detenido que requiera atención en una institución médica o bien que por su estado de salud no sea adecuada la continuidad de su internamiento.
+IX. Cremaciones 12
 
-IV. Al concluir su turno, entregar de manera personal, física y documentalmente los detenidos en celdas, debiendo informar el estado de salud de cada uno a su relevo.
+X. Por uso de nicho a perpetuidad 60
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+XI. Por instalación de nuevas cenizas
 
-V. Elaborar certificados médicos a las personas detenidas y presentadas por autoridad distinta de la Secretaría de Seguridad Pública, con la que previamente se haya celebrado convenio de colaboración, así hecho saber por el Director de Justicia Municipal o por el Jefe del Departamento.
+en nichos o bóvedas 3
 
-VI. Elaborar informe por escrito de actividades al final del turno.
+XII. De igual forma pagarán una
 
-VII. Participar en las reuniones de trabajo programadas por sus superiores.
+cuota anual por mantenimiento de
 
-VIII. Efectuar revisión y atención médica a cualquier persona que por urgencia requiera de su atención, de acuerdo con la posibilidad material con que se cuente, y en caso de no ser así, enviar al hospital que corresponda a la persona que se trate.
+calles y limpieza en general 2
 
-IX. Impartir cursos de capacitación sobre prevención de enfermedades al público en general, previa orden jerárquica.
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2019)</small>
 
-X. Asistir a los cursos de capacitación a que sean enviados para su actualización.
+El Ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación de los servicios de inhumaciones y refrendo de fosas a que se refiere este artículo cuando se trate de los restos mortales de las víctimas directas e indirectas del delito de desaparición forzada de personas y la cometida por particulares, a efecto de garantizar el derecho previsto en la fracción IX del artículo 73 de la Ley en Materia de Desaparición de Personas para el Estado de Veracruz de Ignacio de la Llave.
 
-XI. Las demás que se desprendan de éste Código, de los ordenamientos jurídicos vigentes y las normas administrativas que dicte el Director de Justicia Municipal.
+###### Artículo 232.
 
-Los médicos durante su turno serán responsables del buen uso o cuidado del equipo medico, mobiliario, medicinas y material de curación con que cuente la dependencia.
+Son objeto de estos derechos los servicios de recolección, transporte y disposición final de los residuos sólidos que preste el Ayuntamiento a casa habitación, condominios, departamentos, unidades habitacionales o a sus similares; así como a comercios, industrias, prestadores de servicios o empresas de espectáculos públicos.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+###### Artículo 233.
 
-Proporcionar atención libre de cualquier tipo de discriminación, o estereotipos de sumisión de un género hacia otro.
+Son sujetos de estos derechos las personas físicas o morales que sean propietarias, poseedoras o usufructuarias de los predios en que se presten los servicios a que se refiere este capítulo.
 
-###### ARTÍCULO 314.
+El Ayuntamiento o los concesionarios podrán rechazar el manejo de residuos cuyas características los hagan de manejo especial, en tanto no se adopten las medidas necesarias para su manejo. Los residuos considerados como peligrosos por la legislación federal en ningún caso deberán ser manejados por el Ayuntamiento.
 
-Son atribuciones del personal de psicología y trabajo social:
+###### Artículo 234.
 
-I. Pasar lista a los detenidos en celdas al inicio de cada turno.
+La base gravable se determinará de la siguiente manera:
 
-II. Orientar a detenidos, infractores y a la población en general, en la solución de problemas sociales, familiares, vecinales, de adicciones, entre otros.
+I. Por el servicio prestado a los propietarios, poseedores o usufructuarios de inmuebles destinados a uso habitacional, se aplicará una cuota mensual, en términos del presente Capítulo; y
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+II. En los casos de establecimientos comerciales, industriales, prestadores de servicios y empresas de espectáculos públicos, se fijará una cuota por kilogramo o por metro cúbico, en razón del peso del volumen de los desechos.
 
-Tratándose de mujeres que vivan violencia familiar se abstendrán de orientaciones en pareja o familia, así como de conciliación, mediación o negociación.
+En caso de que se otorgue la concesión del servicio, las tarifas que cobren los concesionarios, se establecerán en el título de concesión respectivo.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+###### Artículo 235.
 
-III. Atender y encauzar a la autoridad competente a las personas extraviadas, en desventaja social, menores de edad y enfermos mentales que sean presentados por los integrantes operativos de la Secretaría de Seguridad Pública o remitidos por el Juez Municipal.
+El pago de derechos a que este Capítulo se refiere, deberá efectuarse:
 
-IV. Llevar el registro de actividad diaria.
+I. Tratándose de los sujetos señalados en la fracción I del artículo anterior, durante los primeros diez días de cada mes, pudiéndose optar por efectuar el pago de manera anual, durante los primeros dos meses del ejercicio fiscal;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+II. Tratándose de establecimientos comerciales, industriales o prestadores de servicios, el pago deberá realizarse dentro de los primeros quince días del mes siguiente a aquél en que se prestó el servicio; y
 
-V. Proponer y elaborar planes y programas de atención a personas y familias con problemas sociales, familiares, de adicción, entre otros, respetando en todo caso la autonomía e independencia de las mujeres, sin asignación de consideraciones sobre la responsabilidad de cuidado de la familia de manera exclusiva a estas.
+III. Tratándose de empresas de espectáculos públicos, el pago se hará conforme a lo dispuesto por el artículo 149, fracción II, inciso h).
 
-VI. Atender casos urgentes de violencia familiar, desamparo, intentos de suicidio, protección y asesoramiento a víctimas de faltas administrativas.
+###### Artículo 236.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+Los derechos a que este Capítulo se refiere, se causarán y pagarán mensualmente de conformidad con las cuotas siguientes:
 
-Lo anterior, en coordinación con los lineamientos establecidos por el Instituto Municipal de la Mujer de Aguascalientes, a efecto de que no apliquen estereotipos tradicionales a las mujeres y se favorezca la autonomía e independencia.
+Derechos a que este título se refiere Salarios mínimos
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+I. Por cada inmueble destinado a uso
 
-VII. Coadyuvar en la conciliación con la jueza o juezMunicipal (sic) cuando así se les requierasalvo (sic) en casos de violencia familiar.
+habitacional, de tipo:
 
-VIII. Elaborar ficha de registro de las personas atendidas, la cual deberá contener según sea el caso:
+Residencial 0.5
 
-a).- Copia de la Puesta a disposición del Juez.
+Medio 0.4
 
-b).- Certificado Médico.
+Interés social 0.3
 
-c).- Fotografía de la persona.
+Popular 0.2
 
-d).- Datos de identificación de la persona tales como, nombre, edad y fecha de nacimiento, estado civil, sexo, ocupación, nivel de estudios, domicilio y número telefónico si lo hubiere.
+II. Por cada industria o comercio,
 
-e).- Motivo de canalización al área.
+así como empresas que presenten
 
-f).- Diagnóstico Social.
+espectáculos públicos, por kilogramo
 
-g).- Plan de Acción.
+por metro cúbico, sin que en
 
-h).- Nombre de los padres o Tutores tratándose de menores o incapaces, y los datos de la persona a quien se le entrega el canalizado.
+ningún caso la cuota resulte menor
 
-i).- Conclusión debiendo entregar al Juez Municipal en turno copia de la ficha de registro.
+a la establecida para inmuebles de
 
-j).- Recibir para canalizar a la autoridad municipal o estatal, e incluso a instituciones de beneficencia pública o asociaciones civiles, según corresponda, a las personas abandonadas e incapaces de cuidarse así mismos que por su condición y en el lugar en que se encuentren estuvieren expuestas a algún tipo de peligro, debiendo notificar por escrito a la Comisión Estatal de los Derechos Humanos.
+uso habitacional de tipo residencial. 0.010
 
-IX. Las demás que asigne el Director.
+Los sujetos de esta contribución que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima.
 
-###### ARTÍCULO 315.
+Este plazo podrá prorrogarse hasta el día último del mes de febrero, por acuerdo del Cabildo, el que se comunicará al H. Congreso.
 
-El personal adscrito al Departamento de Servicios Médicos deberá abstenerse de abandonar su área de trabajo, aún concluido su turno, hasta que sea relevado por el personal entrante, debiéndose considerar su inobservancia como un abandono de lugar de trabajo sin causa justificada.
+###### Artículo 237.
 
-APARTADO SÉPTIMO
+Son objeto de estos derechos, los servicios de limpieza que el Ayuntamiento efectúe en predios no edificados, a solicitud o en rebeldía de sus propietarios o poseedores.
 
-De los Oficiales Custodios
+###### Artículo 238.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
+Son sujetos de estos derechos las personas físicas o morales que sean propietarias o poseedoras de predios, en los cuales el Ayuntamiento haya prestado los servicios a que se refiere este Capítulo.
 
-###### ARTÍCULO 316.
+###### Artículo 239.
 
-La guardia de los Juzgados Municipales se conformará por los elementos necesarios que cumplan con el perfil requerido, estén capacitados y tengan el trato humano digno que estarán adscritos a la Dirección de Justicia Municipal de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, los cuales laborarán en los diferentes Juzgados Municipales y estarán bajo el mando del Director de Justicia Municipal así como de los Jueces Municipales.
+El pago de estos derechos se enterará a la Tesorería, dentro del plazo de quince días siguientes a aquél en que se haya efectuado la limpieza.
 
-Los oficiales custodios no serán considerados elementos de seguridad pública por lo que para la recisión contractual de los mismos no estarán sujetos a los procesos de Honor y Justicia.
+Los derechos por limpieza de predios no edificados se causarán y pagarán de acuerdo al costo del arrendamiento de la maquinaria y la mano de obra utilizada para llevar a cabo el servicio. Los propietarios o poseedores de predios están obligados a realizar la limpieza de los mismos, para mantener la buena imagen del Municipio y evitar la proliferación de focos de infección y, en caso de no hacerlo, el servicio será prestado por el Ayuntamiento, a costa del propietario o poseedor, sin detrimento de las multas por detrimento o rebeldía que establece el Ayuntamiento.
 
-###### ARTÍCULO 317.
+###### Artículo 240.
 
-Los oficiales custodios que laborarán en los Centros Municipales de Detención Preventiva, estarán bajo el mando del Juez Municipal en turno en cada juzgado, y en su caso del Director de Justicia Municipal.
+Es objeto de este derecho, la prestación de los servicios de supervisión técnica sobre la explotación de bancos de material ubicados en el territorio del Municipio.
 
-###### ARTÍCULO 318.
+###### Artículo 241.
 
-Será responsabilidad de los oficiales custodios la seguridad e integridad de los detenidos, así como el resguardo de los Centros de Detención Municipal, debiendo informar de inmediato de cualquier anomalía al Juez Municipal en turno o en su caso al Director de Justicia Municipal.
+Son sujetos de este derecho, las personas físicas o morales que sean propietarias, poseedoras, usufructuarias, concesionarias y, en general, quienes bajo cualquier título realicen la extracción del material a que se refiere este Capítulo.
 
-APARTADO OCTAVO
+###### Artículo 242.
 
-Del Proceso ante el Juzgado Municipal
+Es base gravable el volumen de material extraído cuantificado en metros cúbicos o, en su defecto, por el lapso de explotación del banco de material.
 
-###### ARTÍCULO 319.
+Por los derechos a que se refiere este Capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.01 salarios mínimos.
 
-Los detenidos serán atendidos sucesivamente por el receptor de detenidos, según el orden en que fueron llegando.
+En el caso de que no sea posible determinar el volumen de material extraído, este derecho se pagará a razón de un salario mínimo diario.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+###### Artículo 243.
 
-###### ARTÍCULO 320.
+Son objeto de estos derechos los servicios siguientes, que se causarán y pagarán de conformidad con las cuotas que en cada caso se señalan:
 
-Antes de ser puesto a disposición del Juez, el detenido será identificado ante el receptor de detenidos mediante la aportación de nombre, datos personales, señas particulares y domicilio, acreditándose, de existir, con una identificación personal.
+I. Rectificación o cancelación de los datos asentados en la declaración inicial de traslado de dominio, a solicitud del interesado, 1 salario mínimo;
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+II. Expedición de una constancia de datos catastrales:
+
+a) Ordinaria (entrega no mayor a 4 días), 3 salarios mínimos;
+
+b) Urgente (entrega en veinticuatro horas), 6 salarios mínimos.
+
+III. Expedición de cartografía catastral propiedad del Municipio:
+
+a) Copias en papel heliográfico o bond por plano general de localidad, con curvas de nivel al metro y cuotas de crucero, en escala 1:2,000, por hoja:
+
+i) Ordinaria (entrega no mayor a 6 días), 4.5 salarios mínimos,
+
+ii) Urgente (entrega en veinticuatro horas), 9 salarios mínimos.
+
+b) Copias en papel heliográfico o bond por plano general de localidad, en escalas aproximadas 1:4,000, 1:5,000, 1:7,500 y 1:10,000:
+
+i) Ordinaria (entrega no mayor a seis días), 3 salarios mínimos,
+
+ii) Urgente (entrega en veinticuatro horas), 6 salarios mínimos.
+
+c) Copias en papel heliográfico o bond por plano manzanero de localidades catastradas, en escala 1:500 ó 1:1,000:
+
+i) De 1 hasta 100 planos, por plano, 4.5 salarios mínimos,
+
+ii) De 101 planos en adelante por plano, 3 salarios mínimos.
+
+d) Copias del plano de región catastral, sin escala, con nomenclatura y valores catastrales del suelo urbano, por hoja, 3 salarios mínimos.
+
+e) Copias del plano perimetral tamaño carta de un predio registrado en la cartografía catastral urbana, en escala 1:500, por plano:
+
+i) Ordinario (entrega no mayor a 6 días), 3 salarios mínimos,
+
+ii) Urgente (entrega en veinticuatro horas), 6 salarios mínimos.
+
+f) Cartografía digital en escala 1:1,000 en formatos DXF., DWG. y ARC/INFO., por km2:
+
+i) Cobertura de manzanas, 22 salarios mínimos,
+
+i) (sic) Cobertura de predios, 64 salarios mínimos,
+
+ii) Cobertura de construcciones, 64 salarios mínimos,
+
+iii) Cobertura de curvas de nivel a cada metro, 10 salarios mínimos.
+
+g) Copias de contacto de fotografías aéreas, en escalas 1:4,500, 1:10,000 y 1:20,000:
+
+i) En papel bond, imagen blanco y negro, en formato 23 x 23 cm., por copia, un salario mínimo,
+
+ii) Grabada con escáner e impresión en papel bond, blanco y negro, en formato 23 x 23 cm., por copia. 1.1 salario mínimo,
+
+iii) Grabada en disco compacto o memoria USB por copia, 5 salarios mínimos.
+
+IV. Por la certificación de cada plano catastral propiedad del Municipio, 5 salarios mínimos.
+
+Se exceptúan del pago de derechos por la expedición de cartografía catastral y copias de contacto de fotografías aéreas, las dependencias y organismos Federales, Estatales y Municipales, en los términos de los convenios de colaboración que se suscriban, previo cumplimiento de las disposiciones legales aplicables;
+
+V. La certificación de documentos públicos que obran en el archivo de la tesorería, 1 salario mínimo;
+
+VI. Por la expedición de una Cédula Catastral:
+
+a) Ordinaria (entrega en un plazo
+
+no mayor a 5 días): 7 salarios mínimos,
+
+b) Urgente (entrega hasta en
+
+cuarenta y ocho horas): 14 salarios mínimos; y
+
+VII. Por la expedición de un certificado de Valor Catastral o Catastral Provisional, para efectos del pago de Impuesto Sobre Traslación de Dominio de Bienes Inmuebles u otros, 10 salarios mínimos.
+
+###### Artículo 244.
+
+Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere este Capítulo.
+
+###### Artículo 245.
+
+Son objeto de estos derechos los servicios de inscripción de actos del estado civil y la expedición de copias de las actas respectivas, así como los servicios extraordinarios de celebración de matrimonios a domicilio, defunciones y los demás que señale la legislación en la materia.
+
+###### Artículo 246.
+
+Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
+
+###### Artículo 247.
+
+Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas siguientes:
+
+Derechos Salarios mínimos
+
+> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+
+I. Por la expedición ordinaria de copias de actas del Registro Civil, dentro del plazo de dos días, 1.00 incluyendo el papel sellado, por cada hoja, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
+
+> <small>(ADICIONADO, G.O. 10 DE MARZO DE 2021)</small>
+
+El ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación del servicio a que se refiere esta fracción, a aquellas personas que, siendo víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, soliciten la expedición de copias certificadas de su acta de registro de nacimiento o de la perteneciente a la víctima directa de la cual sean familiar.
+
+II. Por la expedición extraordinaria de las
+
+citadas copias en un plazo no mayor a
+
+un día 1.00
+
+> <small>(REFORMADA, G.O. 30 DE MAYO DE 2019)</small>
+
+III. Registro de nacimientos ordinarios
+
+y extemporáneos, cero; 1.00
+
+IV. Reconocimiento de hijos 1.00
+
+V. Adopciones 1.00
+
+VI. Celebración de matrimonios en
+
+oficina 1.00
+
+VII. Celebración de matrimonios a
+
+domicilio 20.00
+
+VIII. Inscripción de sentencias 10.00
+
+IX. Divorcios 15.00
+
+###### Artículo 248.
+
+Es objeto de estos derechos la ocupación de inmuebles del dominio público del Municipio, por la explotación del comercio mediante el uso de la vía pública en puestos fijos o semifijos, por medio de la instalación de casetas telefónicas o cualquier otro medio de comunicación, así como la utilización de otros bienes de uso común y sujetos de aquéllos las personas físicas o morales que reciban los servicios o derechos correspondientes a este capítulo.
+
+Las personas que utilicen espacios en mercados, así como en tianguis, deberán acreditar ante el Ayuntamiento, el permiso correspondiente al área que ocupen, a efecto de conformarse un padrón por cada mercado, debiendo el Ayuntamiento expedir una Cédula de Registro, previo el pago de derechos correspondientes.
+
+###### Artículo 249.
+
+Los derechos a que se refiere este capítulo se calcularán y pagarán de conformidad con las cuotas siguientes:
+
+Derechos Salarios mínimos
+
+I. La ocupación de espacios en el
+
+interior de los mercados municipales
+
+se pagará diariamente por metro
+
+cuadrado 0.05
+
+II. Las altas, traspasos y cambios,
+
+las que se efectuarán de conformidad
+
+con la normatividad aplicable, previa
+
+autorización del Ayuntamiento 25
+
+III. Las ampliaciones y arreglo o
+
+modificaciones de locales o áreas
+
+que ocupen, las que se efectuarán
+
+de conformidad con la normatividad
+
+aplicable, previa autorización del
+
+Ayuntamiento 15
+
+IV. La ocupación temporal de la vía
+
+pública o áreas municipales
+
+exceptuando las áreas verdes,
+
+por vehículos, aparatos mecánicos
+
+o electromecánicos, por tianguis,
+
+ferias o similares, puestos semifijos o
+
+ambulantes, se pagará diariamente
+
+por metro cuadrado o fracción, a
+
+razón de 0.125
+
+V. El estacionamiento en la vía
+
+pública, en los lugares señalados
+
+por el Ayuntamiento, se pagará,
+
+mediante utilización de
+
+parquímetros o cualquier otra
+
+forma que fije el Ayuntamiento,
+
+por hora o fracción a razón de 0.10
+
+VI. Por la ocupación del suelo
+
+con instalaciones visibles o no,
+
+subterráneas de cableado por
+
+cada diez metros lineales anuales 2
+
+VII. Por la ocupación de subsuelo
+
+con construcciones permanentes,
+
+se pagarán las siguientes cuotas:
+
+a) Instalaciones lineales de cable
+
+por cada diez metros anualmente 0.50
+
+b) Instalaciones no lineales por
+
+cada metro cuadrado o fracción
+
+por planta o piso de profundidad,
+
+anualmente 0.1375
+
+c) Instalaciones lineales de tubería
+
+de agua, por metro lineal, mensual 1
+
+d) Instalaciones lineales de tubería
+
+de cualquier tipo de combustible,
+
+por metro lineal mensualmente 3
+
+VIII. Por instalaciones de registro,
+
+cajas de válvulas y otras estructuras
+
+anualmente 3
+
+IX. Por cada poste de madera,
+
+metal, concreto o cualquier otro
+
+material, que sean propias, en
+
+comodato, concesionadas o bajo
+
+cualquier titulo que sean
+
+portadores de líneas conductoras
+
+de energía o señales de cualquier
+
+índole anualmente 0.5
+
+X. Por la explotación del comercio
+
+mediante el uso de la vía pública
+
+en puestos fijos o semifijos por
+
+medio de la instalación de casetas
+
+telefónicas o cualquier otro medio de
+
+comunicación, se cobrará
+
+mensualmente por cada caseta o
+
+medio tecnológico 1
+
+XI. Por puesto de revistas, de venta
+
+de alimentos o similares, diariamente 0.125
+
+Para el aseguramiento de las obligaciones respecto al uso de o aprovechamiento de bienes que formen parte de la Hacienda Municipal, el usuario deberá otorgar garantía que asegure el interés fiscal de conformidad con las disposiciones que señala el presente Código.
+
+###### Artículo 250.
+
+Es objeto de estas contribuciones la mejora o beneficio particular que tengan los bienes inmuebles, por la realización de las obras públicas de urbanización siguientes:
+
+I. Las de captación de agua;
+
+II. Las de instalación de tuberías de distribución de agua;
+
+III. Las de construcción o reconstrucción de alcantarillado, drenaje, desagüe, entubamiento de aguas de ríos, arroyos y canales;
+
+IV. Las de pavimentación de calles y avenidas;
+
+V. Las de apertura, ampliación y prolongación de calles y avenidas;
+
+VI. Las de construcción y reconstrucción de banquetas; y
+
+VII. Las de instalación de alumbrado público.
+
+###### Artículo 251.
+
+Son sujetos de las Contribuciones por Mejoras y están obligados a pagarlas, las personas físicas o morales propietarias o poseedoras de los bienes inmuebles que tengan una mejora o beneficio particular por la realización de obras públicas.
+
+###### Artículo 252.
+
+Para los efectos de este capítulo se entiende por beneficio o mejora general o particular que tengan los bienes inmuebles, el costo neto de la realización de una obra pública, conforme al artículo 255 de este Código.
+
+El beneficio o mejora particular es el resultado de aplicar los porcentajes siguientes, a los costos netos de las obras realizadas:
+
+Tratándose de las obras señaladas en el artículo 250 sobre el costo neto:
+
+I. Las comprendidas en la fracción I, cincuenta por ciento;
+
+II. Las comprendidas en la fracción II, ochenta y cinco por ciento; y
+
+III. Las comprendidas en las fracciones III a VII:
+
+a) Si las obras son realizadas en avenidas o calles de circulación intensa de vehículos o personas, cincuenta por ciento;
+
+b) Si las obras son realizadas en avenidas o calles de zonas residenciales de menor circulación de vehículos o personas setenta y cinco por ciento;
+
+c) Si las obras son realizadas en calles que sean utilizadas preponderantemente por quienes habiten los predios ochenta y cinco por ciento.
+
+###### Artículo 253.
+
+Para la determinación de las contribuciones por mejoras que se hará a través del sistema de derrama del beneficio particular, se atenderá a las siguientes reglas.
+
+I. Se obtendrá una cuota unitaria dividiendo el beneficio o mejora particular entre la suma de los metros cuadrados de superficie de los bienes inmuebles beneficiados;
+
+II. Tratándose de los casos comprendidos en el artículo 250, excepto las fracciones I y V, serán bienes inmuebles beneficiados:
+
+a) En materia de redes de distribución de agua, drenaje y alcantarillado, los de ambas aceras si se trata de una o más tuberías instaladas en la calle, pero que presten servicio a las dos; (sic) b) Si la tubería queda instalada en uno de los lados de la calle y sólo presta servicio a los de la acera más cercana, son beneficiados los de ésta;
+
+c) En los casos de banquetas, los adyacentes a las banquetas construidas en cada acera;
+
+d) En los casos de alumbrado público los de ambas aceras, independientemente de donde se coloquen los postes y lámparas;
+
+e) En los casos de pavimentación de calles y avenidas:
+
+1. Los de ambas aceras cuando la pavimentación cubra la totalidad del arroyo;
+
+2. Los de la acera más cercana a la faja pavimentada partiendo del eje del arroyo, si ésta cubre la mitad o menos de la mitad; y
+
+3. Los de ambas aceras cuando la obra de pavimentación cubra ambos lados del eje del arroyo en función al número de metros cuadrados de pavimento que cubra cada mitad del arroyo.
+
+III. Tratándose de los casos comprendidos en las fracciones I y V del artículo 250 serán bienes inmuebles beneficiados los que se señalen en la relación a que se refiere la fracción VI del artículo 255.
+
+###### Artículo 254.
+
+Las contribuciones por mejoras se causarán al terminarse y ponerse en servicio las obras; y se liquidarán y pagarán de acuerdo a lo siguiente:
+
+I. Se multiplicará la cuota unitaria por el número de metros cuadrados de superficie de cada inmueble beneficiado y el resultado será el importe de la contribución. Cuando se trate de inmuebles sujetos al régimen de propiedad en condominio divididos en pisos, de departamentos, viviendas o locales, se considerará que la totalidad del predio se beneficia con la obra de construcción o reconstrucción. La parte de los derechos a cargo de cada condómino se determinará dividiendo el monto que corresponda a todo el inmueble entre la superficie de construcción del mismo, exceptuando las áreas de uso común y multiplicando ese cociente por el número de metros que corresponda, al piso, departamento, vivienda o local de que se trate;
+
+II. Se pagarán:
+
+a) Cuando las obras se realicen con recursos provenientes de créditos, en los plazos máximos de los créditos recibidos para tal fin; y
+
+b) Cuando las obras se realicen con recursos propios, en un plazo máximo de tres años.
+
+El importe de la contribución que resulte, se dividirá entre el número de bimestres que comprenda el plazo que corresponda, cubriéndose en los meses de febrero, abril, junio, agosto, octubre y diciembre, debiéndose hacer el primer pago en el bimestre siguiente al en que se haya notificado dicho importe.
+
+###### Artículo 255.
+
+Los planes o proyectos, aprobados por el Ayuntamiento, referentes a la realización de cualquiera de las obras mencionadas en el artículo 250, deberán notificarse a los particulares de acuerdo a la Ley Orgánica del Municipio Libre y ser publicados por lo menos quince días antes de su inicio, para que los contribuyentes hagan las observaciones pertinentes, en un periódico de circulación local y en la tabla de avisos, conteniendo los datos siguientes:
+
+I. Naturaleza de la obra, especificando si se trata de construcción o reconstrucción de la existente;
+
+II. Determinación de la zona que se beneficia o mejora con la obra, así como de las afectaciones en su caso;
+
+III. Costo total de la obra que incluirá los siguientes conceptos:
+
+a) Importe del anteproyecto y del proyecto;
+
+b) Importe de materiales, mano de obra e indirectos a erogar con motivo de la ejecución material de la obra;
+
+c) Gastos por financiamiento, en su caso;
+
+d) Gastos por pago de indemnizaciones que deban cubrirse, en su caso;
+
+IV. Deducciones en su caso, por:
+
+a) Aportaciones de los Gobiernos Federal, Estatal y Municipal;
+
+b) Donativos de los particulares;
+
+c) Recuperaciones por venta de excedentes de bienes inmuebles expropiados;
+
+V. Costo neto;
+
+VI. Relación de bienes inmuebles afectados o beneficiados, señalando su propietario o poseedor, así como la fuente de información;
+
+VII. Relación de metros cuadrados de superficie por predio y su fuente de información;
+
+VIII. Cuota unitaria por metro cuadrado determinada en términos del artículo 253 fracción I; y
+
+IX. Plazo para el pago.
+
+La documentación que sustenta la realización de los proyectos de obra estará a disposición de las personas obligadas a pagar las contribuciones durante los quince días siguientes a la fecha de la publicación a que se refiere este artículo, pudiendo impugnar el acto durante los treinta días posteriores a la mencionada publicación.
+
+Las afectaciones de inmuebles se regirán por la Ley Orgánica del Municipio Libre y por la ley de la materia. Una vez que hayan ingresado al patrimonio municipal se regirán por lo que dispone este Código.
+
+###### Artículo 256.
+
+Para los efectos del artículo 254 de este Código se entiende por terminada y puesta en servicio la obra, el día en que el ejecutor de la misma, la entregue mediante acta circunstanciada al Ayuntamiento.
+
+###### Artículo 257.
+
+La falta de pago de dos cuotas bimestrales consecutivas hará exigible el total del crédito fiscal, el cual podrá recuperarse mediante el procedimiento administrativo de ejecución. La contribución a que se refiere este capítulo, afecta directamente a los predios beneficiados. En consecuencia, la Tesorería tendrá acción real, contra cualquier poseedor o propietario de los inmuebles beneficiados.
+
+###### Artículo 258.
+
+Los notarios y funcionarios con fe pública no autorizarán contrato alguno de compraventa, cesión o cualquier otro que tenga por objeto la enajenación de bienes inmuebles, si no se demuestra por medio de recibos o boletas y constancias de no adeudo, que el bien inmueble de que se trata está al corriente del pago de las contribuciones que establece este capítulo. En caso de que existan créditos no vencidos a la fecha de la escrituración, los fedatarios señalados anteriormente podrán autorizarla, siempre y cuando acepte el adquirente dicho crédito y se haga constar en el texto de la misma.
+
+###### Artículo 259.
+
+Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos del pago de las contribuciones por mejoras.
+
+###### Artículo 260.
+
+Los productos de su patrimonio, que obtenga el Ayuntamiento, en funciones de derecho privado, se causarán y pagarán ante la Tesorería, en términos de lo previsto por este Capítulo.
+
+###### Artículo 261.
+
+Quedan comprendidos como productos, los ingresos que obtiene el Municipio por concepto de:
+
+I. Venta de bienes de dominio privado, en términos del Libro Sexto de este Código;
+
+II. De arrendamiento de bienes muebles o inmuebles, considerados como bienes de dominio privado, en términos del Libro Sexto del presente Código;
+
+III. Explotación o enajenación de cualquier naturaleza de los bienes de propiedad municipal no destinados a servicio público;
+
+IV. Venta de impresos y papel especial que no causen derechos;
+
+V. Rendimientos financieros provenientes de capitales o valores a favor del Municipio;
+
+VI. Actividades de empresas o establecimientos en los que participe el Municipio;
+
+VII. Almacenaje o guarda de bienes; y
+
+VIII. Diversos.
+
+Los productos por conceptos diversos se cobrarán en términos de los contratos o de las concesiones correspondientes y de conformidad con las disposiciones legales aplicables
+
+###### Artículo 262.
+
+Los productos a que se refieren las fracciones I a IV del artículo anterior se sujetarán a las disposiciones del Libro Sexto de este Código; los de la fracción V, a los contratos que al efecto celebre el Ayuntamiento con la institución crediticia correspondiente; y los de la fracción VI, conforme a los rendimientos que se generen.
+
+###### Artículo 263.
+
+Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico-coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán por concepto de almacenaje, por períodos mensuales vencidos, las cuotas siguientes:
+
+I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día, 0.02 salarios mínimos; y
+
+II. Los semovientes depositados en predios propiedad del Municipio, diariamente por cabeza, 0.04 salarios mínimos.
+
+Además de las cuotas que señala esta fracción, se cobrará el importe de la manutención y el gasto del cuidado de los animales depositados.
+
+###### Artículo 264.
+
+Para el aseguramiento de las obligaciones respecto al uso o aprovechamiento de bienes de dominio privado municipales, el usuario deberá otorgar garantía que asegure el interés fiscal.
+
+###### Artículo 265.
+
+El Ayuntamiento tendrá los siguientes aprovechamientos:
+
+I. Multas administrativas: Todas las que no sean consideradas como multas fiscales en el presente Código;
+
+II. Reintegros e Indemnizaciones: Para el pago de reintegros e indemnizaciones se estará al dictamen de la autoridad correspondiente.
+
+En el caso de que se cause un daño imprudencial o intencional a los bienes municipales, la autoridad determinará el monto de la indemnización atendiendo al valor comercial de los bienes dañados o al de su reparación;
+
+III. Legados y donaciones recibidos; y
+
+IV. Aprovechamientos diversos.
+
+###### Artículo 266.
+
+Los aprovechamientos, se aplicarán y pagarán de conformidad con lo que establece este ordenamiento y las demás leyes fiscales que resulten aplicables.
+
+Los aprovechamientos se harán efectivos, según proceda en cada caso, atendiendo a la naturaleza y origen del crédito, en la vía judicial o por medio del procedimiento económico coactivo.
+
+###### Artículo 267.
+
+Las cantidades en efectivo o los bienes que el Ayuntamiento reciba por concepto de herencia, legado, donación o indemnización, se harán efectivos de acuerdo con las leyes respectivas y con las disposiciones de los testadores o donantes, o con sujeción a las resoluciones en que se decreten las indemnizaciones o a los convenios que respecto a ellas se celebren.
+
+###### Artículo 268.
+
+Las multas previstas en el Reglamento de Comercio en General de este Municipio se causarán de conformidad con lo establecido en (sic) del Bando de Policía y Gobierno de este Municipio, excepto las siguientes:
+
+a) Por el retiro de los anuncios tipos A, B o C (incluye altavoz móvil o perifoneo de cualquier tipo) por parte de la autoridad y colocar un anuncio sin licencia, será de 50 salarios mínimos.
+
+b) Colocar un anuncio en un lugar no autorizado será de 50 salarios mínimos.
+
+c) Proporcionar en la solicitud de licencia datos falsos o documentos falsos, será de 20 salarios mínimos.
+
+d) Que el responsable de las obras realice tareas de colocación de anuncios sin estar registrado ante la autoridad municipal, será de 50 salarios mínimos.
+
+e) Instalar, modificar, reparar u orientar anuncios de tipo C, sin la participación de un responsable de obra, será de 50 salarios mínimos.
+
+f) No retirar a tiempo los anuncios cuando haya vencido su licencia o permiso, será de 100 salarios mínimos.
+
+g) En todos los demás casos, instalar o colocar un anuncio cuyo contenido no se ajuste a este reglamento, su multa será de 100 salarios mínimos.
+
+h) Por no reparar en un plazo de 30 días naturales los anuncios dañados por efectos meteorológicos, agentes naturales imprevistos o por accidentes, será de 80 salarios mínimos.
+
+###### Artículo 269.
+
+Las participaciones que correspondan al Municipio en materia de ingresos federales, se integrarán a la Hacienda Pública Municipal, con arreglo a la normatividad aplicable, para ser destinadas a los fines previstos en el Presupuesto de Egresos del Municipio y demás disposiciones.
+
+###### Artículo 270.
+
+Las aportaciones federales son ingresos que percibe el Municipio, derivados de los fondos establecidos en el Capítulo V de la Ley de Coordinación Fiscal.
+
+###### Artículo 271.
+
+Los ingresos extraordinarios se causarán y recaudarán de conformidad con los ordenamientos, decretos, acuerdos o convenios que los establezcan y formarán parte de la Cuenta Pública.
+
+###### Artículo 272.
+
+Son atribuciones de la Tesorería, en materia de administración financiera, las siguientes:
+
+I. Recaudar, administrar, concentrar, custodiar, vigilar y situar los fondos municipales, así como los conceptos que deba percibir el Ayuntamiento, de conformidad con las disposiciones legales aplicables en materia de ingresos;
+
+II. La recepción de fondos ajenos en calidad de depósito;
+
+III. La guarda, custodia y control de fondos y valores de propiedad municipal;
+
+IV. La emisión, guarda, custodia, control, distribución y destrucción de formas valoradas;
+
+V. La programación y realización de pagos a terceros con cargo al presupuesto del Municipio;
+
+VI. La contratación de servicios bancarios o de seguros y fianzas que requiera el Ayuntamiento;
+
+VII. La constitución de garantías a favor o a cargo del Municipio, así como su guarda y custodia;
+
+VIII. Participar con voz en la formación y discusión de los presupuestos;
+
+IX. Informar al Ayuntamiento de los derechos que tenga a su favor el fisco municipal, para que sean ejercitados o deducidos por el Síndico;
+
+X. Supervisar, el primer día de cada mes, con la intervención de la Comisión de Hacienda, el corte de caja del movimiento de caudales del mes anterior. De este documento remitirán una copia al H. Congreso, así como a los Ediles que lo soliciten y, en su caso, contestar a estos, por escrito y en el término de diez días hábiles, las dudas que tuvieren;
+
+XI. Presentar al Ayuntamiento, dentro de los primeros quince días de cada mes, la cuenta del anterior para su glosa preventiva, debiendo aquél remitirla al H. Congreso dentro de los diez días siguientes;
+
+XII. Proporcionar todos los informes que el Ayuntamiento o alguno de los ediles le solicite;
+
+XIII. Proponer al Presidente el nombramiento o remoción de los servidores públicos y empleados de la Tesorería;
+
+XIV. Proponer al Cabildo, para su aprobación, el Reglamento Interior de la Tesorería; y
+
+XV. Las demás que expresamente le otorguen este Código, la Ley Orgánica del Municipio Libre y demás leyes del Estado.
+
+###### Artículo 273.
+
+La Tesorería emitirá los lineamientos bajo los cuales se brindarán los servicios que presta y dictará las reglas administrativas que establezcan los sistemas e instrucciones en la materia.
+
+###### Artículo 274.
+
+Son obligaciones de los servidores públicos que recauden, manejen, custodien o administren fondos o valores de la propiedad municipal o al cuidado del Ayuntamiento, en términos de este Código, la Ley Orgánica del Municipio Libre y otras disposiciones aplicables, las siguientes:
+
+I. Dar o presentar los avisos, datos, informes, libros, registros, padrones y demás documentos que se les exijan;
+
+II. Abstenerse de asentar hechos falsos o alterar los libros y documentos a que se refiere la fracción anterior; o coludirse con otras personas, aun cuando no estén sujetas a la vigilancia, con la mira de obtener algún beneficio para sí o para terceros;
+
+III. Abstenerse de faltar en cualquier otro caso a las obligaciones que le impongan este Código y las disposiciones reglamentarias; y
+
+IV. Otorgar las fianzas suficientes para garantizar el pago de las responsabilidades en que pudiere incurrir en el desempeño de su encargo, cuyas primas serán pagadas por el Ayuntamiento.
+
+###### Artículo 275.
+
+El servicio de recaudación y concentración de fondos podrá efectuarse por conducto de las instituciones bancarias, crediticias o comerciales que autorice la Tesorería.
+
+###### Artículo 276.
+
+Las instituciones bancarias, crediticias o comerciales pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Tesorería, misma que se establecerá en los contratos que con ellos se celebren.
+
+###### Artículo 277.
+
+La Tesorería y las entidades efectuarán los pagos que les correspondan con cargo al presupuesto del Municipio.
+
+La Tesorería ministrará los fondos en función de sus disponibilidades financieras y del calendario financiero autorizado.
+
+###### Artículo 278.
+
+El Ayuntamiento acordará anualmente las remuneraciones para sus integrantes y empleados de confianza, de acuerdo con los lineamientos que determine la Ley Orgánica del Municipio Libre.
+
+El pago por remuneraciones al personal de la Administración Pública Municipal centralizada se llevará a cabo por conducto de la Tesorería, con observancia de las disposiciones administrativas aplicables.
+
+###### Artículo 279.
+
+La Tesorería y las entidades solamente autorizarán el pago de anticipos que estén previstos en las disposiciones legales aplicables.
+
+Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
+
+###### Artículo 280.
+
+Los depósitos al cuidado o a disposición del Ayuntamiento, constituidos en dinero o en valores, prescribirán en los mismos términos del crédito fiscal, según dispone el presente Código.
+
+En los asuntos sobre los cuales se hayan constituido depósitos, que no se hubieren exigido por determinación judicial a favor de beneficiario, la Tesorería tendrá en cuenta el plazo fijado en el párrafo anterior y declarará de oficio la prescripción, así como la disposición de los depósitos respectivos a beneficio del fisco municipal.
+
+Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la devolución del depósito, se tomará como base la de la constitución del mismo, para efectos de la prescripción. Los depósitos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
+
+###### Artículo 281.
+
+La Tesorería establecerá los lineamientos generales para el otorgamiento de las garantías que deban constituirse a favor del Municipio en los actos y contratos que celebren las dependencias y entidades.
+
+El Municipio, a través de la Tesorería, será el beneficiario de todas las garantías que se otorguen.
+
+Lo anterior, sin perjuicio de las atribuciones del Síndico, en el caso de que el cobro de garantías genere procedimientos formal o materialmente jurisdiccionales.
+
+Corresponde a las dependencias y entidades integrar y remitir a la Tesorería los expedientes de contratos en los que se hubieren otorgado garantías de cumplimiento a favor del Municipio, para que ésta proceda a ejercitar los derechos que correspondan.
+
+###### Artículo 282.
+
+El Municipio está exento de otorgar garantías y depósitos para el cumplimiento de sus obligaciones de pago con cargo a su presupuesto, con excepción de las previstas para garantizar el pago de deuda pública municipal directa o contingente.
+
+###### Artículo 283.
+
+La Tesorería calificará, aceptará, registrará, conservará en guarda y custodia, sustituirá, cancelará, devolverá y hará efectivas, según proceda, las garantías que se otorguen a favor del Municipio.
+
+###### Artículo 284.
+
+La garantía del interés fiscal se constituirá en los casos y con las formalidades y requisitos previstos en el Libro Segundo de este Código.
+
+###### Artículo 285.
+
+Las garantías que reciba el Ayuntamiento por contratos administrativos, en concursos de obras y adquisiciones, anticipos, permisos, autorizaciones, concesiones y otras obligaciones de naturaleza no fiscal, se otorgarán a nombre del Municipio de Orizaba, Veracruz y se constituirán conforme a las formalidades que señalen las disposiciones legales aplicables.
+
+Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
+
+###### Artículo 286.
+
+La Tesorería ejercerá los derechos patrimoniales de los valores que representen inversiones financieras del Municipio.
+
+###### Artículo 287.
+
+Tratándose de empresas de participación municipal y de aquellas en que el Municipio tenga una participación minoritaria, el Cabildo designará al representante del Ayuntamiento ante los órganos de gobierno o las asambleas generales de accionistas o de socios de la entidad.
+
+###### Artículo 288.
+
+La Tesorería concentrará, revisará, integrará y custodiará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Ayuntamiento y elaborará los estados contables para su integración en la cuenta pública municipal.
+
+###### Artículo 289.
+
+La contabilidad de fondos municipales a cargo de la Tesorería deberá:
+
+I. Registrar diariamente la información del ingreso y del egreso efectuados;
+
+II. Conciliar la contabilidad con la información que registren las instituciones bancarias del movimiento de fondos de las cuentas municipales y la cuenta concentradora de la Tesorería;
+
+III. Establecer y mantener los registros necesarios que provean la información para el análisis económico, financiero y de toma de decisiones; y
+
+IV. Aportar los elementos que permitan determinar la responsabilidad de los servidores públicos en materia de manejo de fondos y valores mediante controles contables y administrativos.
+
+###### Artículo 290.
+
+Los ingresos resultantes de la recaudación se reflejarán de inmediato en los registros de la oficina receptora, salvo que se trate de instituciones bancarias, crediticias o comerciales autorizadas, en cuyo caso estas efectuarán el registro en los plazos establecidos en las autorizaciones relativas que emita la Tesorería.
+
+###### Artículo 291.
+
+Los bienes que excepcionalmente se reciban para el pago de adeudos a favor del Ayuntamiento, conforme a lo dispuesto en este Código, se registrarán en las cuentas de ingresos de la Tesorería.
+
+### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
+
+###### Artículo 292.
+
+Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes a los valores que representen inversiones financieras del Ayuntamiento, deberán registrarse en el sistema de contabilidad de fondos municipales.
+
+###### Artículo 293.
+
+Los créditos no fiscales a cargo del Municipio se registrarán en la contabilidad de las dependencias de la Administración Pública Municipal. La Tesorería comunicará a las dependencias y entidades la forma y plazos en que deban rendir cuenta del manejo de fondos, bienes y valores municipales.
+
+###### Artículo 294.
+
+En caso de que el Ayuntamiento cuente con varias cajas receptoras, la Tesorería vigilará y comprobará el funcionamiento adecuado de las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Ayuntamiento y el cumplimiento de las obligaciones que, a este respecto, incumben a los servidores públicos, a efecto de que se ajusten a las disposiciones legales respectivas. Para ello, tendrá las facultades siguientes:
+
+I. Efectuar visitas, inspecciones y auditorías que tengan por objeto la revisión de operaciones de los ingresos y los egresos, examinando los aspectos contables y legales correspondientes;
+
+II. Examinar si los remanentes presupuestarios, ingresos propios, disponibilidades financieras, contratación de servicios bancarios, cuentas bancarias y sus rendimientos, se ajustan a lo establecido en el presupuesto del Municipio y demás disposiciones que para el efecto expidan la Tesorería y la Contraloría en el ámbito de su competencia;
+
+III. Comprobar la existencia de los fondos y valores que obren en poder de las oficinas del Municipio;
+
+IV. Participar, con carácter obligatorio, en los actos relacionados con la instalación, entrega y clausura de oficinas del Municipio que administren fondos y valores, en la destrucción de valores que realicen las autoridades administrativas del Municipio y los demás que fije la Tesorería;
+
+V. Informar a las autoridades competentes acerca de las anomalías o deficiencias que se observen y recomendar las medidas preventivas y correctivas necesarias; y
+
+VI. Las demás que de manera expresa determinen este Código u otras leyes.
+
+###### Artículo 295.
+
+Los actos u omisiones de que tenga conocimiento la Tesorería, que impliquen incumplimiento de este Código y demás disposiciones legales, se comunicarán a la Contraloría y a la Comisión de Hacienda, para que se practiquen las investigaciones y auditorías necesarias. Si de ellas apareciere la probable responsabilidad administrativa de los servidores públicos, se impondrán las sanciones disciplinarias correspondientes, conforme al procedimiento previsto en el Código de la materia, de ser de carácter penal, el Síndico presentará la denuncia o querella respectiva.
+
+###### Artículo 296.
+
+Cuando con motivo del ejercicio de la facultad de vigilancia, la Tesorería determine fondos o valores sobrantes o faltantes, procederá como sigue:
+
+I. Si es sobrante, ordenará su registro en la contabilidad, haciéndolo del conocimiento de la dependencia para que lo concentre de inmediato; y
+
+II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, informará a la Contraloría o su equivalente, para los efectos que procedan conforme a la ley.
+
+###### Artículo 297.
+
+El Ayuntamiento, previa autorización del H. Congreso, podrá suscribir con el Estado, con Municipios, con organismos descentralizados, con entidades auxiliares de la Administración Pública de ambos órdenes de gobierno o con organismos autónomos, Convenios de Colaboración Administrativa, que tengan por objeto la ejecución de acciones en materia hacendaria municipal, entero de cuotas y aportaciones de seguridad social o prestación de servicios públicos.
+
+###### Artículo 298.
+
+En el caso de que la colaboración administrativa sea entre el Municipio y el Estado o sus organismos descentralizados, en materia de gasto o deuda, entero de cuotas y aportaciones de seguridad social o prestación de servicios públicos, los procedimientos y destinos del mismo serán los que se deriven de los convenios de colaboración, en los que también podrá determinarse la constitución de fondos para la ejecución de programas específicos.
+
+En los convenios de colaboración administrativa que el Ayuntamiento suscriba con el Estado o sus organismos descentralizados para el entero de cuotas y aportaciones de seguridad social, o para la prestación de algún servicio público, podrá pactarse que el Ayuntamiento, previo acuerdo de Cabildo y del H. Congreso, solicite al Gobierno del Estado el descuento directo aplicable a sus participaciones federales para realizar el entero al organismo que brinde la seguridad social a los trabajadores del Municipio o para aquel que preste el servicio público de que se trate.
+
+###### Artículo 299.
+
+Los convenios de colaboración administrativa que comprometan al Municipio por un plazo mayor a la gestión del Ayuntamiento de que se trate, deberán ser aprobados por el Cabildo y por el H. Congreso, en la forma y términos que señale la legislación aplicable.
+
+###### Artículo 300.
+
+El presente Capítulo tiene por objeto normar y regular el Presupuesto de Egresos.
+
+###### Artículo 301.
+
+La aplicación de este Capítulo será a cargo de la Comisión de Hacienda y del Presidente a través de la Tesorería.
+
+###### Artículo 302.
+
+El Presupuesto de Egresos para el Municipio será el que apruebe el Cabildo, a iniciativa de la Comisión de Hacienda, para solventar, durante el período de un año a partir del día primero de enero, las actividades, las obras y los servicios públicos previstos en los programas a cargo de las dependencias, así como los criterios especiales para su ejercicio y control.
+
+El Presupuesto de Egresos del Municipio será aprobado con base en los ingresos disponibles para cada ejercicio fiscal, dentro de los que se considerarán los obtenidos como consecuencia de la realización de las operaciones de financiamiento reguladas por este ordenamiento.
+
+Asimismo, contendrá las erogaciones previstas en cada año, correspondientes a las entidades a cuyos programas se destinen recursos comprendidos en la Ley de Ingresos del Municipio.
+
+###### Artículo 303.
+
+El gasto público municipal se basará en presupuestos que se formularán con apoyo en programas que señalen objetivos, metas de las dependencias y entidades responsables de su ejecución. Los presupuestos se elaborarán para cada año calendario y se fundarán en costos.
+
+###### Artículo 304.
+
+La Comisión de Hacienda, al examinar los presupuestos, cuidará que simultáneamente se defina el tipo y fuente de recursos para su financiamiento.
+
+###### Artículo 305.
+
+El Presupuesto de Egresos del Municipio comprenderá las previsiones de gasto público que habrán de realizar las entidades por conducto de la Tesorería.
+
+###### Artículo 306.
+
+Para la formulación del proyecto de Presupuesto de Egresos del Municipio, las entidades que deban quedar comprendidas en el mismo, elaborarán sus anteproyectos de presupuesto con base en los programas respectivos.
+
+Las entidades remitirán su respectivo anteproyecto presupuestal a la Tesorería, con sujeción a las normas que el Cabildo establezca por medio de la propia Tesorería.
+
+###### Artículo 307.
+
+La Comisión de Hacienda validará los proyectos de presupuesto de las dependencias y de las entidades que tengan a su cargo programas que deban quedar comprendidos en la integración del proyecto de presupuesto del Municipio.
+
+La Comisión de Hacienda, en coordinación con la Tesorería, queda facultada para formular el proyecto de presupuesto de las entidades, en el caso de que no le sea presentado en los plazos que al efecto se le hubiere señalado, sin perjuicio de la responsabilidad a que se haga acreedor el titular de la entidad omisa.
+
+###### Artículo 308.
+
+El proyecto de Presupuesto de Egresos del Municipio se integrará con los documentos que se refieran a:
+
+I. Descripción clara de los programas que sean la base del proyecto, en los que se señalen objetivos, metas y dependencias y entidades responsables de su ejecución, así como su costo estimado por programa;
+
+II. Explicación y comentarios de los principales programas y, en especial, de aquellos que abarquen dos o más ejercicios fiscales;
+
+III. Estimación de ingresos por cada concepto de contribuciones municipales, aprovechamientos, productos, participaciones y aportaciones federales, y demás ingresos; contenida en el presupuesto respectivo y propuesta de gastos del ejercicio fiscal para el que se propone;
+
+IV. Ingresos y gastos reales del último ejercicio fiscal;
+
+V. Tabulador de sueldos de los ediles, empleados de confianza y trabajadores de base, así como todos aquellos, cualquiera que sea su denominación, que presten servicios de manera subordinada permanentemente o de forma eventual al Ayuntamiento;
+
+VI. Estimación de los ingresos y gastos del ejercicio fiscal en curso, de acuerdo a su clasificación económica, administrativa y funcional;
+
+VII. Situación de la deuda pública al fin del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en curso e inmediatos siguientes;
+
+VIII. La contratación de operaciones de financiamiento que se someterán a la consideración del H. Congreso;
+
+IX. Situación de la Tesorería al fin del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en curso e inmediato siguiente;
+
+X. Comentarios sobre las condiciones económicas, financieras y hacendarías actuales y las que se prevén para el futuro; y
+
+XI. En general, toda la información que se considere útil para mostrar la proposición en forma clara y completa.
+
+###### Artículo 309.
+
+Con objeto de lograr un mejor aprovechamiento y eficiencia en el ejercicio de los recursos públicos, la Comisión de Hacienda, el Presidente y el Tesorero analizarán e integrarán, durante la segunda quincena de agosto, los proyectos de presupuestos de egresos elaborados por las Comisiones, así como de las dependencias y entidades.
+
+###### Artículo 310.
+
+La Comisión de Hacienda presentará al Cabildo, para su discusión y, en su caso, aprobación, los proyectos presupuestales de Ingresos y de Egresos del Municipio, durante el mes de septiembre del año anterior al de su vigencia, para su posterior remisión al H. Congreso.
+
+###### Artículo 311.
+
+Una vez aprobado el Presupuesto de Egresos y por causas supervenientes, podrá ser objeto de ampliación presupuestal o de creación de partidas, en cuyo caso, la Tesorería proveerá lo conducente para que sea agregada la correspondiente justificación del ingreso, si con tal proposición se altera el equilibrio presupuestal.
+
+La Ley de Ingresos del Municipio señalará los conceptos de ingresos ordinarios que se establecen en este Código, indicando el monto estimado a obtener por cada uno de ellos en el ejercicio fiscal.
+
+###### Artículo 312.
+
+La división de los capítulos en conceptos y partidas específicas se hará con base en el instructivo que al efecto emita el H. Congreso.
+
+El presupuesto se ejercerá con base en los calendarios financieros y de metas que se establezcan, conforme a los criterios, manuales y lineamientos que determine la Tesorería.
+
+#### SECCIÓN II. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
+
+###### Artículo 313.
+
+En cumplimiento de lo dispuesto en el artículo 107 de la Ley Orgánica del Municipio Libre, el Ayuntamiento presentará al H. Congreso, en el curso de la segunda quincena del mes de septiembre de cada año, el proyecto anual de Ley de Ingresos y el Presupuesto de Egresos del año siguiente.
+
+###### Artículo 314.
+
+Cuando las asignaciones establecidas en el presupuesto resultaren insuficientes para cubrir el servicio a que se destinen, las dependencias y entidades solicitarán al Presidente, a través de la Tesorería, las modificaciones correspondientes a su respectivo presupuesto. Dichas solicitudes se acompañarán con los informes que las justifiquen.
+
+Cuando se considere justificada la modificación, si existieran recursos suficientes, la Tesorería preparará la modificación para someterla a consideración del Presidente y del Cabildo que, en su caso, la aprobará, lo cual se hará del conocimiento del H. Congreso.
+
+###### Artículo 315.
+
+Cuando, con posterioridad a la aprobación del presupuesto, surjan situaciones extraordinarias o imprevisibles de la economía nacional que repercutan en el Municipio o cuando se trate de la aplicación de leyes, decretos o acuerdos para los que se requieran erogaciones adicionales no previstas, la Tesorería solicitará la aprobación del Cabildo para modificar el Presupuesto de Egresos, con el mismo procedimiento aplicable de la aprobación del presupuesto original y la propuesta de ingresos para cubrirlas.
+
+###### Artículo 316.
+
+La formulación de los programas institucionales se sujetará a la estructura programática aprobada por la Tesorería, de conformidad con los lineamientos que para tales fines expida.
+
+###### Artículo 317.
+
+El gasto público municipal comprende las erogaciones por concepto de gasto corriente, gasto de capital y servicio de la deuda pública que se realicen con recursos aprobados en la Ley de Ingresos del Municipio para la ejecución de programas a cargo de:
+
+I. Las dependencias;
+
+II. Los organismos;
+
+III. Las empresas de participación municipal mayoritaria; y
+
+IV. Los fideicomisos en que el fideicomitente sea el Ayuntamiento o alguna de las entidades mencionadas en las fracciones II y III.
+
+###### Artículo 318.
+
+La Tesorería efectuará los cobros y los pagos correspondientes a las erogaciones a cargo de las dependencias.
+
+Por lo que se refiere a las entidades, se estará a los términos que en cada caso se convengan, considerando la naturaleza de los programas a ejecutarse y las condiciones de pago que, en su caso, se pacten con contratistas, proveedores o cualquier otro tipo de acreedores.
+
+La ministración de los fondos correspondientes será autorizada en todos los casos por el Presidente y la Comisión de Hacienda, de conformidad con el Presupuesto de Egresos del Municipio.
+
+###### Artículo 319.
+
+Las entidades informarán a la Tesorería, dentro de los plazos y en la forma que esta les dé a conocer oportunamente, los elementos que permitan conocer el destino del presupuesto municipal ejercido.
+
+###### Artículo 320.
+
+Una vez concluida la vigencia de un Presupuesto de Egresos del Municipio, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que se hubieren contabilizado, debida y oportunamente, las operaciones correspondientes.
+
+En el ejercicio del gasto público no podrán mezclarse los presupuestos de dos o más años.
+
+En casos excepcionales, debidamente fundados, deberán existir recursos provisionados para el efecto de pagos en ejercicios posteriores o, en su defecto, se registrarán dichos pagos como deuda para el siguiente ejercicio.
 
 ###### ARTÍCULO 320
 
@@ -7709,1467 +6831,1221 @@ III.- En el caso de menores de 12 años, se remitirán a las áreas de psicolog�
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
-###### ARTÍCULO 321.
+###### Artículo 321.
 
-El Juez Municipal determinará la imposición de una medida de seguridad consistente en la retención del infractor en un área especial de observación habilitada para ello, bajo el cuidado y vigilancia médica, antes de que le sea determinada su situación jurídica, cuando de forma enunciativa más no limitativa, existan los siguientes supuestos:
+Quienes efectúen gasto público municipal estarán obligados a proporcionar a la Tesorería la información que se les solicite y a permitirle al personal de esta la práctica de visitas para verificar el cumplimiento de las obligaciones derivadas de este ordenamiento y de la normatividad expedida con base en él.
 
-I.- Si al momento de ser presentado ante el Juez, el detenido se encuentra intoxicado a grado tal que le sea imposible ejercer su derecho de audiencia y, por tanto, rendidos sus alegatos.
+###### Artículo 322.
 
-II.- Cuando el detenido sea agresivo y no haga posible el normal desarrollo del proceso al que se encuentra sujeto.
+El Ayuntamiento y el Órgano de Fiscalización Superior del Estado, en el ámbito de sus respectivas competencias, basados en las disposiciones de este Código y en los lineamientos que expida el H. Congreso, emitirán los criterios y lineamientos para la administración del gasto público municipal, los que serán de observancia obligatoria para las dependencias y entidades.
 
-III.- En caso de que el detenido pueda poner en riesgo su integridad física y la de las demás personas.
+###### Artículo 323.
 
-La medida de seguridad subsistirá hasta en tanto cesen los efectos de la intoxicación o cambie su comportamiento, pero, en ningún caso, podrá exceder de treinta y seis horas.
+El Cabildo asignará los recursos que se obtengan en exceso de los previstos en la Ley de Ingresos del Municipio, a los programas que considere prioritarios y autorizará los traspasos de partidas cuando sea procedente, dándole, en su caso, la participación que corresponda a entidades interesadas.
 
-En todo caso, la sanción impuesta deberá de computarse desde el momento en que el detenido hubiera sido puesto a disposición del Juez Municipal.
+Tratándose de ingresos extraordinarios derivados de empréstitos, el gasto deberá sujetarse a lo dispuesto por este ordenamiento, los parámetros establecidos en el Presupuesto de Egresos y las asignaciones que acuerde el Ayuntamiento por conducto de la Tesorería. En todo caso, la aplicación de esta disposición será informada al H. Congreso al rendir la cuenta pública.
 
-###### ARTÍCULO 322.
+###### Artículo 324.
 
-El receptor de detenidos, una vez recabados los datos de identificación remitirá al presunto infractor al depósito de pertenencias a fin de que recaben sus objetos personales, así mismo solicitará y recabará de servicios médicos el examen psicofísico de los presuntos infractores.
+El gasto público municipal se sujetará al monto autorizado por los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos para aquellas erogaciones cuyo monto no sea posible prever.
 
-El infractor, al entregar sus pertenencias al encargado del depósito de pertenencias, obtendrá el recibo de las mismas debidamente firmado por el propio encargado del depósito, igualmente, el recibo de pertenencias deberá ser firmado de conformidad por el propio detenido. Una vez que las pertenencias sean devueltas a los familiares, personas expresamente autorizadas o al propio infractor, se devolverá tal documento.
+###### Artículo 325.
 
-Cuando el infractor se niegue a firmar, el encargado del depósito recabará el nombre y firma de dos testigos de asistencia.
+El Cabildo determinará la forma en que deberán invertirse los subsidios que otorgue, cuyos beneficiarios proporcionarán a la Tesorería la información que se les solicite sobre la aplicación que hagan de los mismos, en la forma, plazos y términos que esta determine.
 
-Si el detenido no puede o no sabe leer o escribir, plasmará en el recibo de inventario la huella digital de su pulgar derecho.
+###### Artículo 326.
 
-###### ARTÍCULO 323.
+El Cabildo podrá autorizar la participación municipal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del H. Congreso.
 
-El receptor de detenidos entregará la documentación necesaria al Juez Municipal en turno a efecto de imponer las sanciones correspondientes.
+###### Artículo 327.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+No se podrá hacer pago alguno que no esté comprendido en el presupuesto de egresos autorizado o modificado conforme a los lineamientos que señala este Código.
 
-###### ARTÍCULO 324.
+###### Artículo 328.
 
-En términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el Juez Municipal sancionará con multa, arresto hasta por treinta y seis horas o servicio comunitario.
+Las entidades se abstendrán de formalizar o modificar convenios, cuando dicha modificación genere una erogación mayor y no se cuente con disponibilidad presupuestal en la partida correspondiente.
 
-En el segundo caso, habiendo sido notificado el infractor del monto de la multa, se le requerirá por el pago inmediato de la misma, y de no hacerlo, se le conmutará por arresto.
+###### Artículo 329.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+Las entidades serán responsables de la administración de los recursos municipales y federales de que dispongan para la realización de los programas a su cargo.
 
-En ningún caso, la sanción de arresto excederá las treinta y seis horas. La ejecución del servicio comunitario será en los términos del Reglamento que para tal efecto expida el H. Ayuntamiento.
+###### Artículo 330.
 
-Cuando el infractor alegue su calidad específica de obrero, jornalero o asalariado y así lo acredite a satisfacción del juzgador se reducirá el importe de la multa en términos del artículo 21 de la Constitución Federal.
+Tratándose de fondos estatales y, en su caso, federales, el Ayuntamiento y las entidades ejercerán y controlarán los recursos que les sean transferidos para la realización de los programas convenidos entre el Estado o la Federación y el Municipio, de manera que se aplique la normatividad correspondiente y las disposiciones específicas para su ejercicio.
 
-Inmediatamente que el infractor pague la multa, por su conducto o por interpósita persona, será puesto en absoluta libertad.
+###### Artículo 331.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+La Tesorería será responsable de llevar un padrón de servidores públicos autorizados para realizar y tramitar pagos con cargo a fondos públicos; para tal efecto se establecerán los criterios y los lineamientos procedentes.
 
-Podrá considerarse como trabajo comunitario, la asistencia a psicoterapias reeducativas para quien realice actos de violencia en la familia, en cuyo caso no podrán ser atendidos en los mismos horarios y lugares ni por las mismas personas que atienden a quienes sufren la violencia.
+Los servidores públicos que administren fondos y valores del Municipio caucionarán debidamente su manejo.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+###### Artículo 332.
 
-El modelo de intervención se articulará en coordinación con el Instituto Municipal de la Mujer de Aguascalientes, a efecto de que se proporcione con el enfoque de género y los estándares debidos para la atención de agresores.
+Tratándose de operaciones con cargo a partidas de dos o más ejercicios presupuestales, se desglosarán los montos que correspondan a cada uno de ellos.
 
-###### ARTÍCULO 325.
+En el caso de que el Ayuntamiento y las entidades requieran efectuar erogaciones por concepto de adeudos provenientes de ejercicios anteriores, los pagos se harán conforme a los montos establecidos con cargo a las partidas de gasto que correspondan y estén previstas en el presupuesto vigente, sin que su pago implique la asignación de recursos adicionales.
 
-El Juez Municipal, a efecto de aplicar las sanciones administrativas que señala este Código, deberá de verificar si existe adecuación de la conducta del infractor con la falta descrita.
+La procedencia de los pagos señalados en los párrafos anteriores será verificada por los órganos de control respectivos.
 
-###### ARTÍCULO 326.
+### CAPÍTULO VII. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
 
-Para fijar el importe de la multa económica, el Juez Municipal tomará en cuenta, la situación económica del infractor, su peligrosidad, la conducta desplegada al momento de ser detenido, y los antecedentes del infractor.
+###### Artículo 333.
 
-###### ARTÍCULO 327.
+Las entidades no contraerán obligaciones que impliquen comprometer recursos de los subsecuentes ejercicios presupuestales, así como tampoco celebrarán contratos o ejecutarán proyectos de infraestructura de largo plazo, ni otorgarán concesiones, permisos, licencias y autorizaciones o cualquier otro acto de naturaleza análoga, que implique la posibilidad de algún gasto contingente o adquirir obligaciones futuras.
 
-Una vez impuesta la sanción por el Juez que haya conocido del asunto, no podrá ser alterada por ningún motivo hasta la cumplimentación de la misma.
+En casos excepcionales, debidamente justificados, el Presidente y el Síndico, previo acuerdo de Cabildo y conforme a las disposiciones legales aplicables, podrán celebrar contratos de obras públicas, adquisiciones o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año. En estos casos, los compromisos excedentes serán cubiertos con la disponibilidad presupuestal de los años subsecuentes, siempre y cuando sea dentro de ese período constitucional.
 
-###### ARTÍCULO 328.
+Para los efectos del párrafo anterior, la Tesorería recabará los proyectos respectivos, mismos que contendrán la estimación de la cantidad total a erogar, el monto total de la operación, la justificación del gasto, el periodo de ejecución, el calendario de ministraciones e indicación de las áreas responsables de su ejercicio.
 
-Las sanciones pecuniarias se podrán conmutar:
+###### Artículo 334.
 
-I. Tres días de salario mínimo general vigente en el Estado, de cuatro a seis horas de arresto.
+Las entidades se sujetarán a las disposiciones legales referentes a la aprobación de su presupuesto y rendición de cuentas que se determinen en los ordenamientos que las crean, con observancia, en lo que les sea aplicable, de las disposiciones que sobre el ejercicio del gasto se detallan en este Título.
 
-II. Cuatro a Cinco días de salario mínimo general vigente en el Estado, de siete a diez horas de arresto.
+###### Artículo 335.
 
-III. Seis a Siete días de salario mínimo general vigente en el Estado, de once a trece horas de arresto.
+Las entidades también reportarán en tiempo y forma a la Tesorería la información presupuestal y contable que le solicite para la integración del presupuesto y de la cuenta pública del Municipio.
 
-IV. Ocho a Nueve días de salario mínimo general vigente en el Estado, de catorce a diecisiete horas de arresto.
+#### SECCIÓN II. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
 
-V. Diez días de salario mínimo general vigente en el Estado, de dieciocho a veinte horas de arresto.
+###### Artículo 336.
 
-VI. Once a Doce días de salario mínimo general vigente en el Estado, de veintiún a veinticuatro horas de arresto.
+La Tesorería dará a conocer el presupuesto de egresos autorizado por el Cabildo y el calendario a las dependencias y entidades, durante los primeros cinco días del mes de enero de cada año.
 
-VII. Trece días de salario mínimo general vigente en el Estado, de veinticinco a veintiocho horas de arresto.
+###### Artículo 337.
 
-VIII. Catorce a Quince días de salario mínimo general vigente en el Estado, de veintinueve a treinta y un horas de arresto.
+Con base en el presupuesto de egresos autorizado, las dependencias y entidades harán las adecuaciones que correspondan a sus programas operativos y calendarios anuales y los presentarán a la Tesorería antes de que concluya el mes de enero de cada año.
 
-IX. Dieciséis a Diecisiete días de salario mínimo general vigente en el Estado, de treinta y dos a treinta y cinco horas de arresto.
+Se faculta a la Tesorería para elaborar los calendarios, cuando éstos no se le hubieran presentado en tiempo y forma por las dependencias y entidades.
 
-X. Veinte días de salario mínimo general vigente en el Estado y superiores, treinta y seis horas de arresto.
+###### Artículo 338.
 
-###### ARTÍCULO 329.
+La Tesorería, con la supervisión de la Comisión de Hacienda, autorizará la suficiencia presupuestaria a las dependencias y entidades, conforme a la calendarización respectiva y al monto global estimado para atender los programas a ejecutar.
 
-En los centros de detención preventiva municipales se garantizará el derecho de los infractores a comunicarse con el exterior.
+###### Artículo 339.
 
-Sin perjuicio de lo anterior, los detenidos utilizarán los medios que en cada Centro de Detención se puedan proporcionar.
+En el ejercicio de sus presupuestos, las dependencias y entidades se sujetarán estrictamente a los calendarios de gasto que establezca la Tesorería.
 
-###### ARTÍCULO 330.
+Las dependencias y entidades respetarán la distribución presupuestal autorizada por la Tesorería.
 
-Se deberá notificar al infractor que cuenta con el término de treinta días naturales para reclamar la devolución de sus pertenencias, a partir del día siguiente al de su egreso.
+###### Artículo 340.
 
-###### ARTÍCULO 331.
+Los recursos presupuestales que no se hubieren destinado oportunamente a efectuar los pagos para los que fueron ministrados, se reintegrarán de inmediato a la Tesorería.
 
-Si transcurrido el término de treinta días naturales, las pertenencias no fueren reclamadas, o bien que abandonadas en la vía pública se ignore su dueño, se procederá de la siguiente manera:
+###### Artículo 341.
 
-El Director de Justicia Municipal, clasificará los bienes de los que se trate, en aquellos de los que se puedan ser útiles al sistema municipal de Desarrollo Integral para la Familia, de aquellos que por su condición física o jurídica no lo sean.
+Los montos presupuestales no devengados y las economías presupuestales, previa autorización del Cabildo, podrán aplicarse a programas prioritarios de las dependencias y entidades que los originen, conforme a los lineamientos administrativos que al efecto expida la Tesorería.
 
-En el primer caso pasados treinta días sin que hayan sido reclamados por quienes acrediten ser sus legítimos dueños, el Director levantará acta circunstanciada de las causas por las cuales llegaron a su posesión con la presencia de un representante de la Contraloría Municipal y ordenará su remisión al Sistema de Desarrollo Integral de la Familia Municipal para su disposición final.
+###### Artículo 342.
 
-Tratándose de los segundos, el Director remitirá en su caso, oficio a las autoridades competentes por medio del cual les comunique que pasados treinta días de su notificación se dispondrá la destrucción de los objetos, misma que se llevara a cabo en presencia del Director de Asuntos Jurídicos y de dos testigos de asistencia, así como de un representante de la Contraloría Municipal, levantándose acta circunstanciada de dicho procedimiento.
+Corresponde a las dependencias y entidades operar y controlar los fondos revolventes, los cuales se ejercerán de acuerdo a los criterios y lineamientos que emita la Tesorería.
 
-En ningún caso el personal del Municipio podrá obtener dominio de los bienes para sí o para sus cónyuges, ascendientes, descendientes y colaterales dentro del cuarto grado, consanguíneos o por afinidad.
+Las dependencias y entidades, durante los primeros cinco días hábiles del mes de enero, cancelarán los fondos revolventes del ejercicio del año anterior de sus áreas administrativas o, en su defecto, solicitarán a éstas la reintegración total de los recursos no ejercidos.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+###### Artículo 343.
 
-###### ARTICULO 332.
+Todas las dependencias y entidades informarán a la Tesorería, dentro de los primeros cinco días del mes de enero de cada año, el monto, estructura y características de su pasivo circulante al fin del año anterior.
 
-En caso de que cualquier persona adscrita a la Dirección de Justicia Municipal constatara que el infractor, al momento de su detención fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del personal de la Secretaría de Seguridad Pública, deberá de elaborar informe de hechos, para los efectos de remitirlo a la Dirección de Asuntos Internos de Seguridad Pública, con el objeto de proceder a los correctivos a que haya lugar, o en su caso dar vista al Ministerio Público.
+###### Artículo 344.
 
-### CAPÍTULO IX. De los Centros de Detención Preventiva
+Las ministraciones de fondos a las dependencias y entidades serán autorizadas por la Tesorería, de acuerdo con los programas y metas correspondientes.
 
-APARTADO PRIMERO
+###### Artículo 345.
 
-Disposiciones Generales
+La Tesorería, previo acuerdo del Presidente y de la Comisión de Hacienda, autorizará las transferencias de un área administrativa a otra o entre conceptos y partidas de gasto, para lo cual verificará previamente:
 
-###### ARTÍCULO 333.
+I. Que se justifique la aplicación de los recursos solicitados, en función de la disponibilidad y el cumplimiento de las metas;
 
-El presente capítulo contiene disposiciones de observancia general obligatoria en el Municipio de Aguascalientes y sanciona las faltas administrativas que alteran o ponen en peligro el orden público y la sana convivencia entre habitantes del Municipio.
+II. Que no se cuente con recursos ociosos o aplicados en operaciones que originen rendimientos de cualquier clase;
 
-###### ARTÍCULO 334.
+III. El avance programático presupuestal de los programas, subprogramas y proyectos, con el propósito de regular el ritmo de su ejecución con base en lo programado; y
 
-Constituye una falta administrativa la acción u omisión, individual o de grupo, realizada en vía pública o cuyos efectos se manifiesten en ella, o bien se altere o ponga en peligro el orden público o la integridad de las personas en su seguridad, tranquilidad y propiedades en los términos del presente Código Municipal.
+IV. Que la transferencia se efectúe de una partida no prioritaria a otra que sí lo sea.
 
-###### ARTÍCULO 335.
+###### Artículo 346.
 
-Se considera vía pública todo espacio de uso común que por la costumbre o por disposición de la autoridad competente, se encuentre destinado al libre tránsito, así como todo inmueble que de hecho se utilice para este fin, no siendo impedimento que el mismo sea de propiedad particular, al igual que el transporte del servicio público.
+El Presidente, por conducto de la Tesorería, previo acuerdo del Cabildo, efectuará las reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestales.
 
-###### ARTÍCULO 336.
+Para los efectos del párrafo anterior, se tomarán en cuenta las circunstancias económicas y sociales que priven en el Municipio y, en su caso, la naturaleza y características particulares de operación de las dependencias y entidades.
 
-El daño o perjuicio que pudiera causar una falta administrativa deberá reclamarse ante las autoridades judiciales o en la vía que corresponda.
+Los ajustes y reducciones que se efectúen en observancia de lo anterior, se realizarán en forma selectiva y sin afectar las metas sustantivas del gasto social y de los principales proyectos de inversión, optando preferentemente por aquellos de menor impacto social y económico.
 
-###### ARTÍCULO 337.
+###### Artículo 347.
 
-Las sanciones administrativas, serán aplicables cuando corresponda, sin perjuicio de las responsabilidades civiles o penales que con motivo de los mismos hechos de que se trata hayan incurrido los infractores.
+Los montos de ingresos excedentes a los previstos en la Ley de Ingresos del Municipio podrán generarse a partir de:
 
-APARTADO SEGUNDO
+I. Excedentes a las estimaciones en la recaudación de contribuciones municipales y rendimientos financieros;
 
-De las Faltas Contra la Seguridad Pública
+II. Remanentes que tengan las entidades entre sus ingresos y gastos netos que se consignen como erogaciones recuperables dentro de sus presupuestos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+III. Ingresos que obtenga el Municipio como consecuencia de la enajenación de bienes muebles o inmuebles no prioritarios; así como de los provenientes de la recuperación de seguros y fianzas; y
 
-###### ARTÍCULO 338.
+IV. Ingresos provenientes de apoyos adicionales del Gobierno Federal o Estatal.
 
-Son faltas contra la seguridad pública y se sancionarán con arresto hasta por treinta y seis horas o multa de cinco a treinta días de salario mínimo general vigente en el Estado, las siguientes:
+El Cabildo podrá asignar los recursos excedentes a los programas que considere convenientes. La Tesorería queda facultada para la ministración de los mismos.
 
-I. Causar, en los espectáculos y lugares públicos, falsas alarmas, lanzar voces o tomar actitudes que infundan o puedan infundir pánico en los presentes.
+De los movimientos que se efectúen en los términos de este artículo, el Ayuntamiento informará al H. Congreso al rendir la Cuenta Pública Municipal de dicho ejercicio.
 
-II. Almacenar, detonar cohetes, utilizar material peligroso, inflamable, explosivo, corrosivo, pólvora fría, hacer fogatas o utilizar negligentemente cualquier combustible o material inflamable, que pongan en peligro a la población y que no cuenten con los permisos correspondientes.
+Los recursos excedentes preferentemente se destinarán a gastos contingentes no previstos y a proyectos de inversión adicionales a realizarse durante el transcurso del ejercicio.
 
-III. Formar parte de grupos que causen molestias a las personas en lugares públicos o en la proximidad de los domicilios de éstas.
+#### SECCIÓN III. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
 
-IV. Encender o pretender detonar, utilizar material pirotécnico, explosivo o peligroso o elevar globos de fuego, sin autorización escrita de las autoridades correspondientes, sin la presencia del titular del permiso o cuando contando con dicha autorización, ésta sea utilizada negligentemente.
+###### Artículo 348.
 
-V. Penetrar o invadir, sin autorización, zonas o lugares de acceso prohibido en los centros de espectáculos, diversiones o recreo.
+En la administración de los recursos humanos, el Ayuntamiento se sujetará a lo dispuesto por este Código, la Ley Estatal del Servicio Civil, las condiciones generales de trabajo y demás disposiciones aplicables.
 
-VI. Organizar o tomar parte en juegos de cualquier índole, en vía pública, que pongan en peligro a las personas que en él (sic) transiten o que causen molestias a las familias que habitan en o cerca del lugar en que se desarrollen los juegos, a los peatones o a las personas que manejen cualquier clase de vehículos.
+###### Artículo 349.
 
-VII. Solicitar los servicios de la policía, de los bomberos o de establecimientos médicos o asistencias de emergencia, invocando hechos falsos.
+La dependencia encargada de la administración de los recursos humanos será la que designe el Cabildo.
 
-VIII. Transportar, sin la autorización correspondiente, sustancias que importen peligro para la población, quedando el vehículo bajo el resguardo de la autoridad competente.
+###### Artículo 350.
 
-IX. Portar cualquier objeto, que solo puede ser utilizado para agredir o causar algún daño y que no tenga aplicación en actividades laborales o recreativas.
+Para la contratación de personal deberá mediar opinión de la Tesorería, respecto de la disponibilidad presupuestal para cubrir sus salarios y prestaciones.
 
-X. Ingerir bebidas embriagantes en la vía pública.
+###### Artículo 351.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+El Municipio y sus entidades, en el ejercicio del presupuesto, en el capítulo de servicios personales deberán:
 
-XI. Realizar actos de violencia contra las mujeres de conformidad con los ordenamientos aplicables a la materia que regulan las formas y tipos de violencia de género.
+I. Apegarse estrictamente a los niveles establecidos en los tabuladores de sueldos aprobados por el Cabildo;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+II. Reducir el pago de horas extras y de compensaciones, a fin de optimizar los resultados del personal en horas normales de trabajo;
 
-XII. Realizar actos de violencia y discriminación contra cualquier persona, en los términos señalados por el artículo primero de la Constitución Política de los Estados Unidos Mexicanos.
+III. Tratándose de remuneraciones adicionales por jornadas y horas extraordinarias, así como de otras prestaciones del personal que labore en las entidades con asignación presupuestal que se rijan por contratos colectivos de trabajo, los pagos se efectuarán de acuerdo con las estipulaciones contractuales que se mantengan vigentes a esa fecha;
 
-APARTADO TERCERO
+IV. Vigilar permanentemente que no se realicen pagos por concepto de compensaciones de cualquier naturaleza, a título de representación en Juntas Directivas, Consejos, Comités Técnicos y otros;
 
-De las Faltas Contra el Civismo
+V. Sujetarse a los lineamientos existentes para realizar las erogaciones necesarias para el desempeño de comisiones oficiales;
 
-###### ARTÍCULO 339.
+VI. Vigilar que no se realicen pagos de servicios personales por medio de fondos revolventes; y
 
-Son faltas contra el civismo y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+VII. Vigilar que los servidores públicos, en el desempeño de su actividad, no incurran en duplicidad de funciones.
 
-I. Ocasionar disturbios, emitir gritos o interrumpir injustificadamente, un acto oficial con honores a la Bandera.
+###### Artículo 352.
 
-II. Hacer burla, signos de desprecio o cualquier otro que implique falta de respeto hacia los símbolos patrios, respetando en todo momento las creencias religiosas de los habitantes del Municipio.
+Las dependencias y entidades deberán analizar las estructuras orgánicas y ocupacionales, a efecto de promover su racionalización, sin detrimento de su eficiencia y productividad para cumplir con las prioridades que se establezcan el Plan Municipal de Desarrollo.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+###### Artículo 353.
 
-III. Portar insignias, ropas ó identificaciones de uso exclusivo de corporaciones policiales del Estado y sus Municipios, sin estar debidamente autorizado para ello.
+Los servidores públicos adscritos a las dependencias y entidades se abstendrán de intervenir o de participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier otro servidor, cuando tenga interés personal, familiar o de negocios en el caso y pueda derivar alguna ventaja o beneficio para ellos.
 
-APARTADO CUARTO
+###### Artículo 354.
 
-De las Faltas Contra la Propiedad Pública
+El Ayuntamiento y las entidades se abstendrán de contratar personas inhabilitadas en el servicio público municipal, estatal o federal, para desempeñar un empleo, cargo o comisión.
 
-###### ARTÍCULO 340.
+###### Artículo 355.
 
-Son faltas contra la propiedad pública y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+El Ayuntamiento y entidades no comprometerán los recursos del capítulo de servicios personales para ejercicios posteriores; asimismo, cualquier modificación a las estructuras orgánicas o remuneraciones se deberán cubrir con recursos presupuestales del ejercicio fiscal en que se realicen, de tal forma que no generen necesidades presupuestales adicionales en los años subsecuentes.
 
-I. Deteriorar intencionalmente bienes destinados al equipamiento urbano, o hacer uso indebido de los servicios públicos.
+###### Artículo 356.
 
-II. Hacer uso indebido de las casetas telefónicas o maltratar los buzones, nomenclaturas, expendios de timbres, señales indicadoras u otros aparatos de uso común colocados en la vía pública.
+Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
 
-III. Utilizar indebidamente los hidrantes públicos.
+###### Artículo 357.
 
-IV. Utilizar, remover o transportar césped, flores, tierra u otros materiales de las calles, plazas, mercados y demás lugares de uso común, sin autorización para ello.
+La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
 
-V. Maltratar o ensuciar las fachadas de los edificios o lugares públicos.
+### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS SÓLIDOS
 
-VI. Maltratar o hacer uso indebido de las estatuas, monumentos, postes, arbotantes, cobertizos, edificios o cualquier otro bien de uso público o causar deterioros en las calles, parques, paseos o lugares públicos.
+###### Artículo 358.
 
-VII. Cortar las ramas de los árboles de las calles y avenidas, sin autorización para ello o maltratarlos de cualquier manera.
+La contabilidad del Ayuntamiento y la correspondiente a las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución, a efecto de integrar la información que coadyuve a la toma de decisiones; así como a la verificación y evaluación de las actividades realizadas.
 
-VIII. Borrar, cubrir o alterar los números o letras con que están marcadas las casas o los letreros que designen las calles o plazas u ocupar los lugares destinados para ello con propaganda de cualquier clase.
+Los sistemas de contabilidad que establezcan los manuales e instructivos que el H. Congreso apruebe se operarán en forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2010)</small>
+###### Artículo 359.
 
-IX. Instalar en forma no autorizada conexiones a cualquiera de las instalaciones del sistema de redes de agua potable y alcantarillado municipal.
+Las dependencias y entidades suministrarán a la Tesorería mensualmente, la información presupuestal, contable, financiera y de otra índole que requiera la propia Tesorería.
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2010)</small>
+Será responsabilidad de cada entidad la confiabilidad de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales de la misma, adoptando para ello las medidas de control y depuración correspondientes.
 
-X. Destinar el agua potable de uso doméstico a otro no autorizado.
+A su vez, la Tesorería consolidará la información para que el Cabildo la apruebe y la remita al H. Congreso, a efectos de control legislativo del gasto.
 
-APARTADO QUINTO
+###### Artículo 360.
 
-De las Faltas Contra la Salubridad
+La Tesorería emitirá las instrucciones sobre la forma y términos en que las entidades comprendidas en el Presupuesto de Egresos del Municipio, deban llevar sus registros auxiliares y contabilidad y, en su caso, rendirle sus informes y cuentas para fines de contabilidad y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada entidad y podrá autorizar su modificación o simplificación, únicamente por lo que se refiere al gasto público contenido en el Presupuesto.
 
-###### ARTÍCULO 341.
+Las entidades someterán a la consideración de la Tesorería las modificaciones que valoren necesarias o convenientes a su sistema de contabilidad.
 
-Son faltas contra la salubridad y el ornato público y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+###### Artículo 361.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+Los estados financieros y demás información financiera, presupuestal y contable, serán consolidados por la Tesorería, la que será responsable de:
 
-I. Ensuciar, desviar o retener las corrientes de agua de los manantiales, cauces o arroyos, tanques o tinacos almacenadores, fuentes públicas, acueductos y tuberías de los servicios del Municipio;
+I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos del artículo 22 de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+II. Proporcionar al Presidente y a la Comisión de Hacienda la información que el Órgano de Fiscalización Superior del Estado requiera en el ejercicio de sus funciones;
 
-II. Arrojar en la vía pública animales muertos y/o sus partes, escombros o cualquier sustancia que contamine el ambiente;
+III. Coadyuvar con el Presidente y la Comisión de Hacienda en la solventación de las observaciones del Órgano de Fiscalización Superior del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+IV. Administrar y conservar la documentación que contenga la información necesaria para la comprobación, origen y aplicación del gasto público, por el plazo que señale la ley de la materia;
 
-III. Arrojar a los drenajes residuos, escombros, desechos materiales, sustancias toxicas, lodos y productos de los tratamientos de aguas residuales que contaminen o puedan obstruir su funcionamiento;
+V. Proporcionar al Presidente y a la Comisión de Hacienda la información necesaria para Justificar ante las autoridades competentes, la aplicación de recursos transferidos al Municipio de fondos estatales o federales, en los términos de los ordenamientos aplicables;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+VI. Efectuar el registro contable del patrimonio de bienes muebles e inmuebles del Municipio;
 
-IV. Arrojar o abandonar en la vía pública fuera de los depósitos colocados para tal fin, residuos o cualquier otro objeto;
+VII. Participar en la depuración de cuentas de balance; y
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+VIII. Las demás que le indique el Presidente y las que se deriven de otros ordenamientos.
 
-V. Arrojar en predios baldíos, residuos en cualquier estado y de cualquier especie;
+###### Artículo 362.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental, así como de las normas políticas y lineamientos que dicte el H. Congreso.
 
-VI. Orinar o defecar en la vía pública, en lugares distintos de los autorizados para ese efecto;
+#### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+###### Artículo 363.
 
-VII. Sacudir ropa, alfombras y otros objetos hacia la vía pública, tirar deshechos o desperdicios sobre la misma o en cualquier predio o lugar no autorizado;
+El H. Congreso, para efectos de la revisión de las cuentas públicas, emitirá los catálogos de cuentas a que se sujetarán las dependencias y entidades para el registro de sus operaciones financieras y presupuestales. Dichos catálogos estarán integrados por los siguientes grupos de cuentas:
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+I. Activo;
 
-VIII. Tener animales que originen mal olor, fauna nociva, ruidos o que causen cualquier otro tipo de molestia a los vecinos en zonas habitacionales;
+II. Pasivo;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+III. Hacienda Pública;
 
-IX. Realizar la quema de residuos, pasto seco, llantas o cualquier sustancia que cause contaminación al ambiente;
+IV. Ingresos;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+V. Egresos;
 
-X. Fumar en lugares expresamente prohibidos para ello;
+VI. Cuentas de Orden; y
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+VII. Presupuesto.
 
-XI. Descargar aguas residuales contaminantes contrarias al permiso otorgado por la autoridad municipal correspondiente; y
+###### Artículo 364.
 
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+El registro presupuestal de las erogaciones del Ayuntamiento y sus entidades se efectuará en las cuentas que para tal efecto establezca el H. Congreso, destinadas a captar los procesos siguientes:
 
-XII. Abstenerse de recoger las heces fecales arrojadas por animales de compañía a la vía pública, áreas verdes, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
+I. Asignación Presupuestal, que identifica el presupuesto de la dependencia o entidad y, en su caso modificada con autorización del Cabildo;
 
-APARTADO SEXTO
+II. Compromiso Presupuestal, referido al hecho consistente en que un monto se destina a un fin determinado, a través de un documento formal que ampara la operación; y
 
-De las Faltas Contra el Bienestar Colectivo
+III. Ejercicio Presupuestal, determinado por el acto de autorizar el pago correspondiente al avance de obra o a la adquisición de un bien o servicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+###### Artículo 365.
 
-###### ARTÍCULO 342.
+El Ayuntamiento y sus entidades registrarán en cuentas específicas los movimientos de sus fondos asignados.
 
-Son faltas contra el bienestar colectivo y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de salario mínimo general vigente en el Estado las siguientes:
+###### Artículo 366.
 
-I. Causar escándalo en la vía pública.
+Será responsabilidad de las dependencias y entidades la desagregación de las subcuentas, subsubcuentas y demás registros complementarios que permitan el suministro de información interna para la toma de decisiones administrativas, y para el control en la ejecución de las acciones, de acuerdo con sus necesidades específicas.
 
-II. Conducir en la vía pública animales peligrosos sin permiso de la autoridad y sin tomar las medidas de seguridad necesarias; o dejar el poseedor o el propietario del animal que éste transite libremente en la vía pública sin tomar las medidas de seguridad necesarias para evitar daños a terceros.
+###### Artículo 367.
 
-III. Hacer manifestaciones ruidosas en forma tal que produzcan disturbio o grave alteración del orden de un espectáculo o acto público.
+La contabilidad de las dependencias y entidades contendrá los registros auxiliares para los programas presupuestales que muestren de manera sistemática los avances financieros y de consecución de metas, con objeto de facilitar la evaluación en el ejercicio del gasto público.
 
-IV. Exigir gratificaciones por protección de automóviles estacionados en la vía pública.
+###### Artículo 368.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+El Ayuntamiento y sus entidades llevarán registros auxiliares que permitan el control y conocimiento individual de los distintos saldos integrantes de cada cuenta de balance o resultados.
 
-V. Ocupar un cajón de estacionamiento destinado a personas con discapacidad, sin serlo u obstruir las rampas especiales para ellos.
+###### Artículo 369.
 
-VI. Alterar el orden, arrojar cojines, líquidos o cualquier objeto, prender fuego o provocar altercados en los espectáculos o en la entrada de ellos.
+El Ayuntamiento y sus entidades están obligados a resguardar y conservar en su poder y bajo custodia de la Tesorería los libros, registros auxiliares e información correspondiente, así como los documentos originales justificativos y comprobatorios de sus operaciones financieras.
 
-VII. Producir ruido que por su volumen provoque malestar público con aparatos de sonido.
+###### Artículo 370.
 
-VIII. Ensayar las bandas de guerra o conjuntos musicales en lugares públicos, careciendo del permiso correspondiente o en lugares privados cuando el ruido generado ocasione molestias a los vecinos.
+El Ayuntamiento y sus entidades registrarán anualmente, como asiento de apertura en los libros principales y registros auxiliares de contabilidad, los saldos de las cuentas de balance del ejercicio inmediato anterior.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+###### Artículo 371.
 
-IX. Proferir palabras obscenas en la vía pública, insultar o hacer referencia a su sexualidad.
+Para el registro contable de las operaciones con base acumulativa, se observará lo siguiente:
 
-X. Causar daños a vecinos, transeúntes o vehículos, por omitir las medidas necesarias de aseguramiento de tiestos, plantas u otros objetos.
+I. En lo relativo a obras públicas, el presupuesto se considerará comprometido al momento de aprobarse la estimación del avance físico de las mismas, por las personas autorizadas para tal efecto;
 
-XI. Obstaculizar un sentido de circulación o la totalidad de cualquier vialidad primaria, secundaria o carretera, durante cualquier manifestación de los habitantes del Municipio.
+II. Cuando se trate de gastos que se eroguen en forma continua, como son los servicios personales, los alquileres y la energía eléctrica, entre otros, el presupuesto se considerará ejercido al momento de efectuarse el pago; y
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+III. El registro contable de los pagos correspondientes al pasivo flotante o circulante, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará con base en las instrucciones que sobre el particular gire el H. Congreso.
 
-XII. Realizar acoso, con palabras sea cual sea su contenido, ademanes sexuales o acciones físicas de seguimiento en contra de la niñez, la adolescencia, mujeres, hombres, adultos mayores, personas con discapacidad, independientemente de su identidad sexo-genérica, siempre y cuando no constituya algún delito.
+#### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+###### Artículo 372.
 
-XIII. Una perturbación relevante de la convivencia que afecte de manera grave, inmediata y directa a la tranquilidad o al ejercicio de derechos legítimos de otras personas como son la violencia familiar, comunitaria y de género.
+La Tesorería consolidará mensualmente la información que a continuación se detalla:
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+I. Estados Financieros, que comprenderán Balance General, Estado de Resultados y Estado de Origen y Aplicación de Recursos;
 
-XIV. Efectuar actos de discriminación o de violencia de cualquier tipo por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+II. Estados Contables, que incluirán Balanzas de Comprobación, Auxiliares de Cuentas Colectivas de Balance y Resultado y Conciliaciones Bancarias;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+III. Estados Presupuestarios, que consistirán en Estado Condensado de Ingresos, Estado Condensado de Egresos, Estado Analítico de Ingresos, Estado Analítico de Egresos, Estado de Avance Presupuestal y Estados Programáticos;
 
-XV. Efectuar trato diferenciado entre mujeres y hombres, así como cualquier persona por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra en la prestación de cualquier servicio o en el otorgamiento de algún derecho.
+IV. Estado de Deuda Pública; y
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+V. Estados Económicos, que contendrán la descripción de información general que permita el análisis de los resultados económicos en un período y la evolución de las finanzas públicas.
 
-XVI. Discriminar de cualquier forma a la niñez, la adolescencia, mujeres, hombres, adultos mayores, personas con discapacidad, independientemente de su identidad sexo-genérica mediante la negativa de la prestación de algún servicio y/o venta de algún bien, con las excepciones que se señalan y regulan en los ordenamientos jurídicos aplicables.
+###### Artículo 373.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+Las entidades enviarán a la Tesorería, dentro de los primeros diez días de cada mes, la misma información a que se refiere el artículo anterior.
 
-Para los casos de la fracción XII, se efectuará el reporte correspondiente al Instituto Municipal de la Mujer de Aguascalientes.
+###### Artículo 374.
 
-APARTADO SÉPTIMO
+Los beneficiarios de subsidios y transferencias con cargo al presupuesto del Municipio, rendirán trimestralmente, dentro de los primeros cinco días del mes siguiente, cuenta detallada de la aplicación de los fondos a las dependencias y entidades por el cual se les hubiere canalizado, así como la información y justificación correspondiente; las dependencias y entidades informarán con el mismo detalle a la Tesorería del ejercicio de estos recursos, dentro de los primeros quince días del mes siguiente.
 
-De las Faltas Contra la Integridad de las Personas y sus Bienes
+###### Artículo 375.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2015)</small>
+La Tesorería, previo acuerdo del Cabildo, hará del conocimiento de las dependencias y entidades sus requerimientos de información adicional, para lo cual dictará las normas y lineamientos necesarios.
 
-###### ARTÍCULO 343.
+#### SECCIÓN IV. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
 
-Son faltas con (sic) la integridad de las personas en su seguridad, tranquilidad y propiedades particulares y se sancionarán con arresto de hasta treinta y seis horas o multa de cinco a treinta días de Salario Mínimo Vigente en el Estado, las siguientes:
+###### Artículo 376.
 
-I. Provocar a cualquier animal para que ataque a una persona.
+La Tesorería emitirá y dará a conocer a las dependencias y entidades, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública del Municipio, a más tardar el día treinta de noviembre de cada año. En el último año de la administración, el plazo vencerá el treinta de septiembre.
 
-II. Causar molestias por cualquier medio, que impida el legítimo uso o disfrute de un inmueble.
+###### Artículo 377.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+Para efectos de la formulación de la cuenta pública, la información que proporcionen las dependencias y entidades estará debidamente clasificada, de conformidad con los lineamientos que para tal fin emita el H. Congreso.
 
-III. Dejar en descuido quien ejerza la guarda y custodia de una persona que padezca de una enfermedad mental y que éste deambule libremente en la vía pública cuando con ello se ponga en peligro su vida o la de otros.
+###### Artículo 378.
 
-IV. Arrojar contra una persona líquidos, polvos u otras sustancias, que puedan mojarla, ensuciarla, mancharla, o causarle malestar.
+Para la integración de la cuenta pública anual del Municipio, las entidades, previa aprobación de su titular, proporcionarán oportunamente a la Tesorería, la información a que se refiere el artículo 375.
 
-V. Turbar la tranquilidad de las personas con gritos, música o ruidos aún cuando éstos los provoquen animales domésticos de la pertenencia o bajo el cuidado del que debiendo impedirlo, no lo haga.
+###### Artículo 379.
 
-VI. Hacer bromas indecorosas o mortificantes o en cualquier otra forma molestar a una persona mediante el uso del teléfono.
+Corresponde a las entidades consolidar la información contable, financiera, presupuestal, programática y económica de la dependencia o entidad, de acuerdo con sus necesidades y para cumplir los requerimientos de la Tesorería. Las entidades cuidarán que la información consolidada que proporcionen a la Tesorería cumpla con las normas y lineamientos establecidos.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+#### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL H. CONGRESO
 
-VII. Dirigirse a una persona con frases o ademanes que afecten su integridad, asediarlo, intimidarlo o impedirle su libertad de acción en cualquier forma, en el caso de mujeres se considerarán además cualquier frase que les sea dirigida de manera ofensiva.
+###### Artículo 380.
 
-VIII. Maltratar, rayar, pintar o ensuciar las fachadas de los edificios o inmuebles de propiedad particular.
+La Tesorería será responsable de integrar la cuenta pública del Municipio, la cual será elaborada con la información que la misma genere y la que le remitan las entidades.
 
-IX. Maltratar, rayar, pintar o ensuciar los vehículos automotores o cualquier otro bien mueble propiedad privada.
+###### Artículo 381.
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+La Tesorería determinará la forma en que se presentarán los informes para la integración de la cuenta pública, para lo cual podrá solicitar a las dependencias y entidades la información complementaria y aclaraciones que considere convenientes.
 
-X. Deambular en lugar público en notorio estado de intoxicación producido por sustancias estimulantes o depresores del sistema nervioso central, contrariando el orden público o turbando la tranquilidad de los vecinos.
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2016)</small>
 
-XI. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2008)
+###### Artículo 382.
 
-XII. Comunicar dolosamente a una o más personas de la imputación que se hace a otra persona física de un hecho cierto o falso, que le cause deshonra, descrédito o afecte su reputación.
+La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la cuenta pública municipal del ejercicio inmediato anterior, durante el mes de enero de cada año. Tratándose del último año de la administración municipal, deberán someterla a la consideración del Cabildo durante el mes de diciembre, o bien, hasta el último día del mes de enero.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+###### Artículo 383.
 
-XIII. Formular toda clase de expresiones o realización de acciones destinadas a discriminar y manifestar desprecio a otra persona o con el fin de causarle una ofensa, siempre y cuando de ello tengan conocimiento otras personas y se ponga al ofendido en una situación de notable humillación pública.
+El Ayuntamiento presentará al H. Congreso, para su estudio, dictamen y aprobación, la Cuenta Pública del ejercicio presupuestal inmediato anterior, en los plazos establecidos en la ley de la materia.
 
-APARTADO OCTAVO
+De no presentarse en tiempo la Cuenta Pública al H. Congreso, el Presidente, los integrantes de la Comisión de Hacienda y el Tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del H. Congreso presentará de oficio la denuncia ante el Ministerio Público.
 
-De las Faltas Contra la Integridad Moral del Individuo
+###### Artículo 384.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+El control y la evaluación del gasto público municipal comprenden:
 
-###### ARTÍCULO 344.
+I. La supervisión permanente de los activos, pasivos, ingresos, costos y gastos;
 
-Son faltas contra la integridad moral de las personas y de la familia y se sancionarán con arresto de hasta por treinta y seis horas o multa de cinco a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+II. El seguimiento a las acciones durante el desarrollo de la ejecución de los programas aprobados; y
 
-I. Usar drogas, sustancias, plantas o semillas enervantes en la vía pública.
+III. La medición de la eficiencia y eficacia en la consecución de los objetivos y metas de los programas.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+###### Artículo 385.
 
-II. Invitar, inducir, promocionar o facilitar en la vía pública el comercio carnal, lo cual también es aplicable a quien se ostente como cliente de este comercio.
+El control y la evaluación del gasto público municipal se basarán en la información siguiente:
 
-III. Injuriar a las personas que asistan a un espectáculo o diversión con palabras, actitudes o gestos, por parte de los actores, jugadores, músicos o auxiliares del espectáculo o diversión.
+I. La contabilidad de las dependencias y entidades;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+II. Los análisis de las evaluaciones que en materia de presupuesto y gasto público se realicen a las dependencias y entidades conforme a los criterios que fije la Tesorería para tal efecto;
 
-IV. Faltar en la vía pública, al respeto o consideración que se debe a los adultos mayores, mujeres, niños, a personas con discapacidad y a cualquier persona por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra.
+III. Las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas; y
 
-V. Corregir con escándalo, vejar o maltratar a los menores, adultos mayores, al cónyuge, concubina o concubinario en la vía pública, o bien en el interior de un bien inmueble, siempre que cause efectos hacia el exterior o lo solicite un tercero.
+IV. Las demás fuentes y medios que se juzguen convenientes.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+###### Artículo 386.
 
-VI. Ejecutar, exhibir o asumir actitudes obscenas y/o sexuales, de manera pública.
+El seguimiento y medición del ejercicio del gasto público se realizará en la forma siguiente:
 
-VII. Asistir los menores de dieciocho años de edad a centros nocturnos, bares, pulquerías o cualquier otro lugar en que se prohíba su permanencia, esto con independencia de la sanción correspondiente a los establecimientos, de acuerdo con las disposiciones reglamentarias que las rijan.
+I. En reuniones entre la Tesorería y las dependencias y entidades en plazos que no sean mayores a un bimestre;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+II. Mediante visitas y auditorías, y
 
-VIII. Menospreciar o dar trato diferenciado entre mujeres y hombres, que pueda incitar a algún tipo de violencia.
+III. Por medio de los sistemas de seguimiento de realizaciones financieras y de metas que determinen la Tesorería y la Contraloría en su caso.
 
-###### ARTÍCULO 345.
+###### Artículo 387.
 
-Las personas que incurran en las faltas administrativas contempladas en este capítulo serán sancionadas en los términos precisados en este código.
+Con base en las conclusiones, informes y dictámenes que se deriven de las acciones comprendidas en el artículo anterior, la Tesorería, la Contraloría en su caso, y las dependencias y entidades, de conformidad con lo dispuesto por el presente Código y otros ordenamientos en la materia, efectuarán, según el caso, las siguientes actividades:
 
-APARTADO NOVENO
+I. Aplicación de medidas correctivas a las normas, lineamientos, sistemas y demás instrumentos utilizados en el manejo del gasto público municipal;
 
-De la Aplicación de Sanciones
+II. Adecuaciones presupuestarias;
 
-###### ARTÍCULO 346.
+III. Fincamiento de las responsabilidades que procedan, y
 
-Los arrestos impuestos como sanción se cumplirán siempre en los Centros de Detención Preventiva municipales.
+IV. Determinación de las previsiones que constituyan una de las bases para la programación presupuestación del ejercicio siguiente.
 
-###### ARTÍCULO 347.
+#### SECCIÓN II. DE LA CONTRALORÍA
 
-En el caso de la comisión de una falta no flagrante, que deba ser presentada ante el Juez Municipal, este mandará citar a los implicados, y en caso de desobediencia a dicha citación podrá hacerlos comparecer mediante el uso de la fuerza pública, previa orden de comparecencia por escrito, en la cual funde y motive su actuación, en términos de lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+###### Artículo 388.
 
-###### ARTÍCULO 348.
+El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI, de la Ley Orgánica del Municipio Libre, establecerá un órgano de control interno autónomo, el cual, para los efectos de este Código, se denominará Contraloría, que desarrollará funciones de control y evaluación.
 
-No serán sancionados por la Justicia Municipal los menores de 12 años de edad y los que por enfermedad mental sean jurídicamente incapaces. Sin perjuicio de lo anterior, el Juez, bajo su estricta responsabilidad y respeto a los derechos humanos, podrá dictar las medidas para su protección.
+###### Artículo 389.
 
-En estos casos estará facultado para ingresarles a espacios habilitados como áreas de observación, mismos que serán distintos de las celdas comunes.
+Corresponde a la Contraloría coordinar los sistemas de auditoría interna, así como de control y evaluación del origen y aplicación de recursos.
 
-Una vez dispuesto lo anterior, el personal de Trabajo Social y Psicología, se abocará a la localización de los familiares o personas encargadas de su guarda y protección, y en su defecto, se tomarán las medidas necesaria (sic) para remitirles a la institución especializada para su cuidado.
+Los sistemas de auditoría interna permitirán:
 
-De igual forma se destinarán espacios especiales para la reclusión de los menores de dieciocho años y mayores de doce, cuando por sus circunstancias lo ameriten.
+I. Verificar el cumplimiento de normas, objetivos, políticas y lineamientos;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+II. Promover la eficiencia y eficacia operativa; y
 
-###### ARTÍCULO 349.
+III. La protección de los activos y la comprobación de la exactitud y confiabilidad de la información financiera y presupuestal.
 
-La vigilancia sobre la comisión de faltas administrativas queda a cargo de las Direcciones de Policía Preventiva, de Tránsito y Movilidad y de la Dirección de Reglamentación, así como de la Coordinación Municipal de Protección Civil en el ámbito de su competencia, en los centros de espectáculos. La aplicación de las sanciones es facultad exclusiva de los Jueces Municipales.
+###### Artículo 390.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+La Contraloría verificará el cumplimiento de la normatividad en el ejercicio del gasto de las dependencias y entidades, quienes le proporcionarán toda la información que les solicite en el ejercicio de esta atribución.
 
-###### ARTÍCULO 350.
+###### Artículo 391.
 
-Los integrantes operativos de las Direcciones de Policía Preventiva, de Tránsito y Movilidad y el personal de la Dirección de Reglamentación, así como de la Coordinación Municipal de Protección Civil en el ámbito de su competencia, deberán poner a disposición inmediatamente ante el Juez Municipal competente al infractor. Si las circunstancias así lo ameritan, solicitarán el auxilio de los servicios médicos.
+La Contraloría, en caso de determinar la falta de aplicación de la normatividad en el ejercicio del gasto por parte de las dependencias y entidades, reportará tal situación al Cabildo e impondrá las medidas correctivas.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+###### Artículo 392.
 
-###### ARTÍCULO 351.
+Las auditorías al gasto público municipal podrán ser de tipo financiero, operacional, de resultado de programas y de legalidad, las cuales serán realizadas por la Contraloría y, en su caso por auditores externos.
 
-Toda persona que tenga una discapacidad, serán sancionados por las faltas que cometan, siempre que su impedimento no haya influido determinantemente sobre su responsabilidad en los hechos, pero el Juez podrá reducir hasta la mitad la sanción que señala este capítulo, si aparecen circunstancias que ameriten dicho tratamiento.
+###### Artículo 393.
 
-APARTADO DÉCIMO
+Los hechos, conclusiones, recomendaciones y, en general, los informes y resultados de las auditorías practicadas, facilitarán la medición de la eficiencia en la administración de los recursos y el cumplimiento de metas, para apoyar las actividades de evaluación del gasto público, la determinación de las medidas correctivas que sean conducentes y, en su caso, las responsabilidades que procedan.
 
-Complicidad, Concurso y Reincidencia
+Las actividades propias de la auditoría no obstaculizarán las labores operativas y trámites administrativos que directamente realicen las dependencias y entidades.
 
-###### ARTÍCULO 352.
+###### Artículo 394.
 
-Cuando una falta se ejecute con la participación de dos o más personas y no constare la forma en que dichas personas actuaron, pero sí su participación en el hecho, a cada una se le aplicará la sanción que para la falta señale este capítulo; sin embargo el Juez Municipal, discrecionalmente podrá duplicar la sanción pecuniaria si apareciere que los infractores se ampararon en la fuerza o anonimato del grupo para cometer en común la falta. Cuando se duplique la multa, el arresto no podrá exceder de treinta y seis horas.
+La Contraloría, con base en sus programas anuales de auditoría y sin perjuicio de lo establecido en otras disposiciones legales, realizará las actividades siguientes:
 
-###### ARTÍCULO 353.
+I. Evaluar los sistemas y procedimientos de las dependencias y entidades;
 
-Cuando el infractor cometa varias faltas, se le acumularán las sanciones correspondientes a cada una de ellas, pero el arresto no podrá exceder de treinta y seis horas.
+II. Revisar las operaciones, transacciones, registros, informes y estados financieros;
 
-###### ARTÍCULO 354.
+III. Comprobar el cumplimiento de las normas, disposiciones legales y políticas aplicables a la entidad, en el desarrollo de sus actividades;
 
-Cuando una falta pueda ser considerada bajo dos o más aspectos y cada uno de ellos merezca una sanción diversa, se impondrá la mayor.
+IV. Examinar la asignación y utilización de los recursos financieros, humanos y materiales;
 
-###### ARTÍCULO 355.
+V. Revisar el cumplimiento de los objetivos y metas fijados en los programas a cargo de la dependencia o entidad;
 
-El Juez Municipal podrá, a su juicio, amonestar o advertir; o bien reducir hasta la mínima las sanciones señaladas en este capítulo por la comisión de faltas de policía, de acuerdo con la peligrosidad en la conducta del infractor.
+VI. Participar en la determinación de indicadores para la realización de auditorías operacionales y de resultados de los programas;
 
-###### ARTÍCULO 356.
+VII. Analizar y opinar sobre la información que produzca la dependencia o entidad para efectos de evaluación;
 
-En el caso de reincidencia el Juez Municipal podrá duplicar el máximo de las sanciones pecuniarias que establece este capítulo.
+VIII. Promover la capacitación del personal de auditoría;
 
-Se considerará reincidente al que haya cometido la misma falta en un lapso menor a un año de ejecutada la primera u otra dentro de la misma clasificación de protección de valores que indica este capítulo.
+IX. Vigilar el cumplimiento de las medidas correctivas; y
 
-APARTADO DÉCIMO PRIMERO
+X. Las demás que determine el Cabildo.
 
-De la Prescripción
+###### Artículo 395.
 
-###### ARTÍCULO 357.
+La Contraloría elaborará un programa anual de auditoría, el cual contendrá:
 
-La acción para imponer las sanciones por las faltas señaladas en este capítulo, prescribirán en seis meses, que se contarán a partir del día en que se cometa la falta.
+I. Los tipos de auditoría que deben practicarse;
 
-### CAPÍTULO X. De la Junta Municipal de Reclutamiento
+II. Las dependencias y entidades, programas y actividades a examinar; y
 
-###### ARTÍCULO 358.
+III. Los períodos estimados de realización.
 
-El presente capítulo tiene como finalidad establecer los derechos y obligaciones que tienen las personas que por su conducta antisocial o antijurídica, se encuentren internadas en los Centros de Detención Preventiva Municipales, así como de los visitantes; las atribuciones de las autoridades competentes; las funciones de Justicia Municipal. Así mismo, establece las bases o reglas para el buen funcionamiento de dicha área y de las distintas autoridades administrativas encargadas de la vigilancia en el Centro de Detención Preventiva Municipal.
+###### Artículo 396.
 
-###### ARTÍCULO 359.
+La Contraloría mantendrá actualizados los manuales de normas, políticas, guías y procedimientos de auditoría y los manuales y guías de revisión para la práctica de auditorías especiales.
 
-El Centro de Detención Preventiva Municipal, es el inmueble destinado al internamiento de las personas que se encuentran cumpliendo una sanción de carácter administrativo o a disposición de alguna autoridad Investigadora, judicial ó administrativa, y de aquellas que se encuentran en espera de que se le resuelva su situación jurídica-legal.
+###### Artículo 397.
 
-Los Centros de Detención Preventiva Municipal contarán con instalaciones destinadas para el cuidado y observación de menores de edad, inimputables, personas que se encuentren cumpliendo con una medida de seguridad, observación médica, entre otras.
+La Contraloría, por cada una de las auditorías que se practiquen, recibirá un informe sobre el resultado de las mismas; estos informes se darán a conocer a los titulares de las dependencias y entidades auditadas para que, en su caso, ejecuten medidas tendientes a mejorar su gestión y el control interno, así como a corregir las desviaciones y deficiencias que se hubieren encontrado.
 
-###### ARTÍCULO 360.
+Si, como resultado de las auditorías, se advirtieren irregularidades que afecten a la Hacienda Pública Municipal, o contravengan el presente Código, se procederá en los términos de la Ley Orgánica del Municipio Libre, de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave, del Código de Procedimientos Administrativos, y las disposiciones civiles o penales aplicables, según sea el caso.
 
-El Centro de Detención Preventiva Municipal, podrá recibir a las personas que remitan por haber cometido faltas al presente ordenamiento; o en su defecto que se encuentren bajo la presunción de la comisión de un hecho delictuoso, así como aquellas personas que por su condición de inimputabilidad o por cualquier otro motivo se encuentren en observación o cumpliendo alguna medida de seguridad.
+###### Artículo 398.
 
-###### ARTÍCULO 361.
+La Contraloría tendrá a su cargo un control de las observaciones y recomendaciones derivadas de la auditoría, y hará el seguimiento sobre el cumplimiento de las medidas correctivas que se hubieren acordado.
 
-El Centro de Detención Preventiva Municipal, estará bajo la dirección administrativa del Director de Justicia Municipal, quien ejercerá dicha facultad por sí o por conducto del Juez Municipal.
+###### Artículo 399.
 
-APARTADO SEGUNDO
+Las dependencias y entidades enviarán a la Contraloría, en la forma y términos que ésta indique, los siguientes documentos:
 
-Competencia, responsabilidades y funciones
+I. Informe sobre el avance del cumplimiento de los programas anuales de las dependencias y entidades;
 
-###### ARTÍCULO 362.
+II. Informes de las observaciones derivadas de las auditorías, y
 
-Las autoridades administrativas competentes, con atribuciones para hacer cumplir el presente capítulo son:
+III. Informes sobre el seguimiento de las medidas correctivas aprobadas por el titular de la dependencia o entidad.
 
-I. El Presidente Municipal.
+###### Artículo 400.
 
-II. El Secretario del H. Ayuntamiento.
+Las dependencias y entidades proporcionarán los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar la Contraloría.
 
-III. El Director de Asuntos Jurídicos del Municipio.
+###### Artículo 401.
 
-IV. El Director de Justicia Municipal.
+El presente Libro tiene por objeto regular la planeación, contratación, ejercicio, control y vigilancia de la deuda pública del Municipio y de sus entidades.
 
-V. Los Jueces Municipales.
+Las operaciones de financiamiento serán pagaderas en moneda y territorio nacionales, en cumplimiento de los requisitos que en materia federal y estatal existan sobre el particular.
 
-VI. Los oficiales custodios comisionados a los Juzgados Municipales.
+Las operaciones de financiamiento que se otorguen con garantía del Estado, se regirán por el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
 
-###### ARTÍCULO 363.
+###### Artículo 402.
 
-Las autoridades señaladas en el artículo que antecede, con excepción de las mencionadas en las fracciones V y VI, tienen atribuciones para delegar sus funciones en el personal del municipio de su confianza designado para tal efecto, con el propósito de que se cumpla con los objetivos del presente Código.
+La deuda pública municipal, para efectos de este ordenamiento, está constituida por las obligaciones de pasivo, directas o contingentes, derivadas de financiamientos y a cargo del patrimonio de:
 
-###### ARTÍCULO 364.
+I. El Municipio;
 
-El Municipio podrá llevar a cabo toda clase de convenios con las autoridades estatales y federales, así como con diversas instituciones públicas o privadas, a fin de capacitar profesionalmente al personal encargado de la custodia y manutención de los internos en los Centros de Detención Municipales, así como para brindar un mejor servicio.
+II. Los organismos descentralizados;
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+III. Las empresas de participación municipal mayoritaria; y
 
-###### ARTÍCULO 365.
+IV. Los fideicomisos en los que el fideicomitente sea el Municipio o alguna de las entidades mencionadas en las fracciones II y III de este artículo.
 
-El personal que durante el desempeño y (sic) sus funciones esté relacionado con las actividades propias del centro preventivo, estará obligado a asistir al curso teórico-práctico de formación y actualización que organice y disponga la persona titular de la Dirección de Justicia Municipal de este municipio.
+###### Artículo 403.
 
-Estará también obligado a la capacitación que en materia de juzgar con perspectiva de género, le proporcione el Municipio.
+Para los efectos de este ordenamiento, se entiende por financiamiento la contratación de créditos, empréstitos o préstamos derivados de:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+I. La suscripción o emisión de títulos de crédito o cualquier otro documento pagadero a plazo;
 
-###### ARTÍCULO 366.
+II. La adquisición de bienes, así como la contratación de obras o servicios cuyo pago se pacte en plazos que excedan de un ejercicio presupuestal;
 
-La persona titular de la Dirección de Justicia Municipal, además de las atribuciones que tiene en relación con lo previsto en otros ordenamientos y en capítulos anteriores, tendrá las siguientes atribuciones:
+III. Los pasivos contingentes relacionados con los actos mencionados; y
 
-I. Organizar, dirigir y administrar los Centros de Detención Preventiva de este municipio.
+IV. La celebración de actos jurídicos análogos a los anteriores.
 
-II. Establecer reglas o normas de seguridad de los Centros de Detención Preventiva Municipal.
+El H. Congreso sólo autorizará la contratación de operaciones de financiamiento, directas o contingentes, cuando se trate de inversiones públicas productivas.
 
-III. Establecer las funciones y roles de labores de los oficiales custodios comisionados a los Centros de Detención Preventiva Municipales.
+###### Artículo 404.
 
-IV. Determinar los horarios, trámites y reglas que deben observarse en el proceso de visita para los internos.
+Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código, asuma el Municipio, por sí o por sus entidades, se destinarán a inversiones públicas productivas, entendiéndose como tales, aquellas creadas para la ejecución de obras, adquisición o manufactura de bienes y prestación de servicios, que produzcan directa o indirectamente un incremento en los ingresos del Municipio, o tengan una clara repercusión en beneficio de la sociedad y de la economía local.
 
-V. Establecer las normas que regirán, para la atención médica de los internos, así como los requisitos que deberán contener los dictámenes de los exámenes médicos que se les practiquen a las personas que vayan a ser internadas en los Centros de Detención Preventiva Municipales.
+###### Artículo 405.
 
-VI. Establecer los horarios en que se deben proporcionar los alimentos a los detenidos.
+Cuando las condiciones financieras del Ayuntamiento así lo hagan necesario, previo acuerdo del Cabildo, y cumpliendo con las disposiciones de la ley, se podrán contraer nuevas obligaciones, para la reestructuración de los créditos ya adquiridos.
 
-VII. Autorizar, por sí o a través del Juez Municipal en casos especiales las visitas fuera del horario establecido, de acuerdo a su amplio criterio y tomando en consideración la situación jurídica del interno, así como las demás condiciones y elementos existentes.
+###### Artículo 406.
 
-VIII. Ordenar las normas de higiene que deberán existir y prevalecer en los Centros de Detención Preventiva municipales.
+La Tesorería es la dependencia del Ayuntamiento encargada de la aplicación de las normas en materia de deuda pública y de expedir las disposiciones necesarias para su debido cumplimiento.
 
-IX. Establecer y llevar a cabo un sistema de identificación y control de registro de las personas internas en los Centros de Detención Preventiva municipales o que se encuentren ingresadas en los mismos por cualquier motivo.
+Quienes contraten financiamientos en representación de los sujetos a que se refiere el artículo 402 de este Código, serán responsables del estricto cumplimiento de este ordenamiento, de sus disposiciones reglamentarias y de las demás leyes aplicables, así como de las directrices de contratación que expida la Tesorería.
 
-X. Asimismo es facultad exclusiva del Director de Justicia Municipal, vigilar que el Juez Municipal en turno, cumpla cabalmente las atribuciones inherentes a su cargo.
+###### Artículo 407.
 
-XI. Vigilar que se respeten los derechos humanos de los detenidos.
+La deuda pública que contrate el Municipio será ordinaria y extraordinaria.
 
-XII. Vigilar que las normas de seguridad sean cumplidas y observadas por los oficiales custodios y demás personal municipal relacionadas con las tareas propias de los Centros de Detención Preventiva Municipales.
+La deuda pública ordinaria se contratará y ejercerá con base en el programa anual de financiamiento que anualmente apruebe el H. Congreso, mientras que la deuda pública extraordinaria la autorizará éste, para la contratación de financiamientos que se destinen a la atención de necesidades urgentes de liquidez, a enfrentar situaciones imprevisibles de la economía nacional, estatal y municipal y a sufragar las erogaciones que debieran efectuarse en virtud de algún acontecimiento futuro e incierto que altere la planeación financiera del Municipio y que no pudiera preverse en el programa anual de financiamiento.
 
-XIII. Vigilar se lleve a cabo el buen funcionamiento del Centro de Detención Preventiva Municipal.
+Las entidades públicas a que se refieren las fracciones II a IV del artículo 402, contratarán su deuda pública, con base en las autorizaciones específicas del H. Congreso.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+También se considera deuda extraordinaria la que autorice el H. Congreso del Estado, mediante decretos posteriores al inicio del ejercicio para la contratación de financiamientos que se destinen a inversiones públicas productivas.
 
-XIV. Solicitar se sancione administrativamente o disciplinariamente a cualquier integrante operativo de la Secretaría de Seguridad Pública o personal municipal que no cumplan o violen cualquier disposición del presente ordenamiento.
+###### Artículo 408.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+Corresponde al Cabildo, por conducto de la Tesorería y, en su caso, del Presidente y del Síndico:
 
-XV. Solicitar al Secretario de Seguridad Pública el cambio de cualquier integrante operativo comisionado a los Juzgados Municipales, siempre y cuando exista causa justificada para ello.
+I. Elaborar el programa anual de financiamiento con base en el cual se contratará y manejará la deuda pública;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+II. Emitir opinión sobre la procedencia del otorgamiento de garantía municipal, para la contratación de financiamientos a cargo de las entidades a que se refieren las fracciones II a IV del artículo 402 de este ordenamiento;
 
-XVI. Tener las veinticuatro horas de los trescientos sesenta y cinco días del año, oficiales custodios en las instalaciones del Centro de Detención Preventiva de referencia, encargados del buen funcionamiento del mismo.
+III. Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a los fines para los que fueron contratados;
 
-XVII. Realizar cursos teóricos-prácticos en materia de derecho y funciones de Centro de Detención Preventiva de personas detenidas, para la formación y actualización del personal de los centros.
+IV. Contratar y manejar la deuda pública del Municipio; afectar los ingresos, el derecho, o ambos, a las aportaciones federales que les correspondan, susceptibles de destinarse, como fuente de pago, garantía o ambos, para el cumplimiento de sus obligaciones; o en su caso, otorgar la garantía del Municipio para la realización de operaciones crediticias.
 
-XVIII. Asignar un área médica en la cual deberá existir un médico responsable de guardia, a fin de dar atención a los internos en los Centros de Detención Preventiva Municipal y determinar las condiciones físicas en las que se encuentran las personas que ingresan en calidad de arrestados o detenidos.
+V. Vigilar que la capacidad de pago del Municipio sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá supervisar en forma permanente el desarrollo del programa de financiamiento aprobado, así como la adecuada estructura financiera del propio Municipio;
 
-XIX. Las demás que se desprendan del presente Código o que le sean asignadas por el Presidente Municipal.
+VI. Vigilar que se hagan oportunamente los pagos de capital e intereses de los créditos contratados por el Municipio, y que las partidas destinadas a su amortización sean fijadas en el presupuesto de egresos respectivo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+VII. Participar en las negociaciones y suscribir los convenios que tengan por objeto, la reestructuración, conversión o consolidación de la deuda pública, a fin de reducir las cargas financieras del Municipio;
 
-###### ARTÍCULO 367.
+VIII. Llevar el registro de la deuda del sector público municipal, conforme a la normatividad respectiva e inscribirse y proporcionar la información que le sea requerida para efectos del Registro de Deuda Municipal que tiene a su cargo el H. Congreso, o en su caso, para efectos del Registro de Deuda Estatal que controla la Secretaría de Finanzas y Planeación del Gobierno del Estado;
 
-Jueces y juezas Municipales, además de las establecidas en el Código Municipal u otras disposiciones, tienen las siguientes atribuciones:
+IX. Sustituir su calidad de deudor directo al transferir total o parcialmente su obligación, cuando sus organismos descentralizados, empresas de participación municipal y fideicomisos se subroguen en los compromisos financieros contraídos originalmente por el Ayuntamiento; pudiendo también asumir la calidad de avalista;
 
-I. Llevar el control de los detenidos que ingresen diariamente a los Centros de Detención Preventiva Municipales.
+X. Informar trimestralmente al H. Congreso sobre el estado que guarda la deuda pública, así como proporcionar la información que este y el Ejecutivo del Estado le requieran; y
 
-II. Colaborar con las tareas de capacitación y actualización para el personal de los Centros de Detención Preventiva Municipales.
+XI. Las demás que le atribuya este ordenamiento, las que le sean delegadas conforme a la ley, y las que establezcan las normas aplicables. Los titulares de las entidades a que se refieren las fracciones II a IV del artículo 402 de este Código, ejercerán en el ámbito de su competencia y en lo conducente, las atribuciones enumeradas, y, adicionalmente, se encontrarán obligados a informar a la Tesorería, del estado que guarda la deuda que contraten, para los efectos de la fracción VIII de este artículo.
 
-III. Realizar las funciones delegadas por el Director de Justicia Municipal.
+###### Artículo 409.
 
-IV. Vigilar que se cumplan por parte del personal de Justicia Municipal con las obligaciones del presente capítulo.
+Corresponde al H. Congreso:
 
-V. Ordenar se realice toda diligencia necesaria a fin que se cumpla estrictamente con lo establecido en el presente capítulo, en relación con toda persona ingresada en los Centros de Detención Preventiva Municipales.
+I. Aprobar anualmente en la Ley de Ingresos los programas anuales de financiamiento del Ayuntamiento para cada ejercicio fiscal;
 
-VI. Dar conocimiento al Director de Justicia Municipal, de cualquier anomalía o contradicción que se realice con lo estipulado en el presente capítulo, con el propósito de que se corrija o se sancione al responsable.
+II. Autorizar a los Municipios la contratación de deuda pública extraordinaria, cuando a su juicio las circunstancias lo ameriten o estos cuenten con recursos suficientes para pagar los financiamientos correspondientes.
 
-VII. Estar al mando de los oficiales custodios que se encuentren de turno en los Centros de Detención Preventiva Municipales.
+III. Autorizar de manera expresa la contratación de endeudamiento por los Ayuntamientos, cuando los plazos de amortización de los créditos rebasen el término del periodo constitucional para el que fueron elegidos.
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+IV. Autorizar a las entidades de la administración pública paramunicipal la contratación de endeudamiento.
 
-VIII. Juzgar con perspectiva de género, considerando las desigualdades entre mujeres y hombres, en la comisión de las faltas administrativas que así lo requieran, resultando aplicable en los casos de presión, intimidación contra mujeres que hayan formulado quejas por actos de violencia de género.
+V. Autorizar la afectación en garantía de las participaciones federales que le correspondan al Municipio, informando al Ejecutivo del Estado; así como autorizar la afectación de los ingresos, el derecho, o ambos, a las aportaciones federales que le correspondan y que sean susceptibles de destinarse, como fuente de pago, garantía, o ambas, para el cumplimiento de sus obligaciones, en los términos de la legislación vigente.
 
-###### ARTÍCULO 368.
+VI. Verificar que todas las operaciones de deuda que realicen el Ayuntamiento y sus entidades, se apeguen a las disposiciones legales.
 
-Son facultades y obligaciones de los oficiales custodios, además de las que señale el Código Municipal, las siguientes:
+VII. Informar al Ejecutivo del Estado, con propósitos de registro, así como al Ayuntamiento, de cualquier observación que surja de la verificación a que se refiere la fracción anterior, sin perjuicio de las responsabilidades que originen.
 
-I. Recibir, custodiar y vigilar a toda persona ingresada a los Centros de Detención Preventiva Municipales.
+### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
 
-II. Llevar un registro de las personas que se internen en su turno, en las que se fijarán todos los datos pertinentes a su identidad, falta administrativa o probable delito cometido, así como la autoridad ante la cual se encuentra a disposición.
+###### Artículo 410.
 
-III. Llevar a cabo un riguroso registro de las órdenes de libertad de los internos.
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación:
 
-IV. Vigilar que antes de ingresar el detenido a los Centros de Detención Preventiva Municipales, dicha persona haya sido objeto de una revisión corporal, para impedir se introduzcan objetos de los prohibidos dentro de dicha área, para su seguridad y de los demás internos, o para evitar una evasión.
+I. A solicitud expresa del Ayuntamiento, proporcionar los informes, datos y cooperación técnica que requiera para la elaboración de programas financieros;
 
-V. Vigilar que antes de ingresar al detenido a la celda correspondiente, dicha persona haya sido sujeta a revisión y dictamen médico.
+II. Asesorar técnicamente y apoyar al Municipio y a las entidades a que se refiere el artículo 402 de este Código en la gestión, concertación y contratación de sus operaciones de deuda pública;
 
-VI. Vigilar que se cumpla el derecho de cualquier persona ingresada a comunicarse con el exterior, para ello, se utilizarán los medios que en cada Centro de Detención Municipal se puedan proporcionar.
+III. Promover y apoyar la operación de instrumentos y modalidades de financiamiento municipal, incluyendo adquisiciones consolidadas de bienes, pagaderas a plazo, constitución de fondos y otros que autoricen las leyes respectivas;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+IV. Expedir los certificados de afectación a los ingresos municipales en participaciones federales, cuando el Ayuntamiento los otorgue como garantía de financiamiento;
 
-VII. Exigir y ordenar a los integrantes operativos de la Secretaría de Seguridad Pública cualquier otra autoridad que remitan a los Centros de Detención Preventiva Municipal a personas por faltas administrativas o de cualquier otra índole, que notifiquen mediante la puesta disposición al Juez Municipal en turno los motivos de la detención ó presentación; apercibiéndolos a que en caso de omisión a lo indicado se harán acreedores a una sanción administrativa ó no se dará trámite de recepción de la persona en cuestión.
+V. Cuando el Estado sea avalista del Municipio, solicitar al Ayuntamiento la información sobre sus operaciones de financiamiento y sobre los saldos y circunstancias de su deuda pública; y
 
-VIII. Custodiar y vigilar en todo momento al detenido durante el procedimiento de calificación, revisión médica y en su caso hasta su internamiento en las celdas, igualmente cuando sea requerido ante la presencia del Juez Municipal o este último ordene su presencia ante cualquier otro miembro del personal adscrito a Justicia Municipal.
+VI. Las demás que le confieran este Código y otras leyes.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+# LIBRO TERCERO. DE LOS INGRESOS MUNICIPALES
 
-IX. Vigilar que no se den malos tratos, ni se ataque físicamente a los detenidos por el integrante operativo, estando obligado a reportar cualquier caso al Juez Municipal en turno, así como a su autoridad superior para la sanción a que se hiciera acreedor.
+## TÍTULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES Y DE LAS ATRIBUCIONES DE LAS AUTORIDADES FISCALES MUNICIPALES
 
-X. En caso de que se suscite un conato de riña, robos, evasión de internos o cualquier otro disturbio que ocurra dentro de los Centros de Detención Preventiva Municipal, deberán de dar conocimiento inmediato al Juez Municipal en turno, a fin de que determine el trámite legal a seguir.
+###### Artículo 411.
 
-XI. Dar aviso inmediato a la autoridad competente, en caso de que el interno necesite atención médica.
+A fin de que las entidades a que refieren las fracciones II a IV del artículo 402 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 408, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
 
-XII. Permitir el acceso a las personas visitantes de los internos en los horarios establecidos para tal efecto, siempre que reúnan y cumplan con los requisitos señalados, de conformidad al presente capítulo.
+###### Artículo 412.
 
-XIII. Llevar a cabo un registro de visitas, en el cual se contengan los datos personales del visitante, persona a quien va a visitar, la hora de entrada y de salida del visitante.
+El Ayuntamiento y las entidades, al solicitar autorización del H. Congreso para contratar financiamientos, indicarán:
 
-XIV. Vigilar que las personas visitantes no introduzcan objetos o sustancias ilegales al área de celdas y practicar una revisión minuciosa de los objetos y alimentos que lleven consigo.
+I. El monto de la deuda que se solicita contratar;
 
-XV. Acompañar por seguridad a cada persona visitante al área de detención de la persona a visitar, hasta el momento de su retiro.
+II. Las tasas de interés a pactar;
 
-XVI. Vigilar que en los edificios de los Centros de Detención Preventiva Municipales se efectúen rondas, cuando menos, cada treinta minutos.
+III. Las instituciones que podrán fungir como acreditantes;
 
-XVII. Vigilar el área de celdas, permanentemente, para salvaguardar la integridad física de los detenidos o internos, especialmente en los casos de personas agresivas o en estado depresivo.
+IV. Los plazos de amortización;
 
-XVIII. Vigilar que se cumpla con la normatividad aplicable.
+V. La denominación en que podrá contratarse;
 
-XIX. Las demás que determine el Director de Justicia Municipal por sí o a través de los Jueces Municipales.
+VI. El destino de los recursos;
 
-APARTADO TERCERO
+VII. Las condiciones suspensivas o resolutorias que rijan la vigencia de las obligaciones;
 
-Procedimiento
+VIII. La forma y tiempos de disposición de los recursos;
 
-###### ARTÍCULO 369.
+IX. Los períodos de inversión;
 
-El área de Jueces Municipales, en el ámbito de su competencia, supervisará que desde el momento en que sea presentada una persona como presunto responsable de la comisión de una falta administrativa, de un delito, o cualquier otro motivo de presentación, le sea elaborado el expediente administrativo de ingreso, a fin de llevar un control y estadísticas sobre el índice de la población que ingresa al Centro de Detención Preventiva Municipal y vigilar, supervisar y ordenar, a los oficiales custodios para que durante el procedimiento administrativo para el internamiento del detenido se apeguen a lo dispuesto en el presente ordenamiento.
+X. En su caso, las normas que resulten aplicables para la contratación de obras o servicios;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+XI. Las garantías que podrán otorgarse; y
 
-###### ARTÍCULO 370.
+XII. Los demás requisitos que fije el H. Congreso.
 
-Una vez que el integrante operativo ya sea Federal, Estatal o Municipal que realice la detención o presentación de la persona, deberá informar a un receptor de detenidos, sobre los hechos que motivan su actuación. De igual manera tendrán la obligación de informar todo lo relacionado con la detención al Juez Municipal en turno, para su debida calificación o para resolver la situación legal del presentado conforme a derecho.
+###### Artículo 413.
 
-###### ARTÍCULO 371.
+El Ayuntamiento, al someter al H. Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
 
-Antes de ingresar al área de internamiento, deberá elaborarse un dictamen a la persona detenida, siendo obligación del médico precisar si dicha persona presenta alguna lesión, las características de ésta en cuanto a su gravedad, tiempo de sanidad o si se requiere alguna atención médica especializada o su posible internamiento a alguna institución hospitalaria, así mismo deberá determinar en el mismo documento, con toda precisión, si dicha persona se encuentra bajo los efectos de alguna bebida embriagante, sustancia tóxica o enervante o en caso contrario, si no presenta ninguna de las circunstancias antes descritas. Por otra parte, el médico deberá expresar en forma clara y concreta si existe algún inconveniente que por su estado de salud física o mental la persona examinada no deba de ingresar al área de internamiento u observación. En el dictamen se precisará el nombre y firma del médico que elabora el documento así como su número de cédula profesional.
+###### Artículo 414.
 
-###### ARTÍCULO 372.
+Para la obtención y contratación de créditos y empréstitos, el Municipio y las entidades podrán ocurrir a Instituciones de banca de desarrollo, de banca nacional o cualquier institución de crédito o auxiliar de crédito que funcionen conforme a la legislación sobre la materia.
 
-El médico, además de las mencionadas en el artículo anterior y de las establecidas en éste Código y otros ordenamientos, tendrá las siguientes atribuciones:
+En todo caso se elegirá, entre diversas opciones, la que resulte más favorable para la obtención de recursos.
 
-I. Aplicar, en caso necesario, los primeros auxilios a los internos que así lo requieran y realizar las consultas y exámenes necesarios para corroborar el estado de salud de los detenidos e internos.
+###### Artículo 415.
 
-II. Controlar los medicamentos que se le deban administrar a los internos.
+Los proyectos a cargo de las dependencias del Ayuntamiento que requieran financiamiento para su realización, deberán producir los recursos suficientes para su amortización y las obligaciones que se asuman, en razón de que dichos financiamientos, no deberán ser superiores a la capacidad de pago del Ayuntamiento.
 
-III. Emitir opinión al Juez Municipal en turno, sobre el traslado de los detenidos e internos a instituciones hospitalarias, cuando así lo considere necesario.
+###### Artículo 416.
 
-###### ARTÍCULO 373.
+Las entidades mencionadas en las fracciones II a IV del artículo 402 de este ordenamiento, sólo requerirán autorización previa y expresa del Ayuntamiento, cuando el Municipio sea garante de sus créditos.
 
-Antes de ingresar al detenido al área de celdas y una vez elaborado su expediente administrativo y el dictamen médico correspondiente, deberá ser presentado ante el Juez Municipal en turno, a fin de que se lleve a cabo el procedimiento de calificación de conformidad a lo que establece el presente Código, salvo los casos de excepción señalados en el presente capítulo.
+La Tesorería, previo el análisis de la información que le remita la entidad pública solicitante, emitirá una opinión al Presidente, misma que será sometida por conducto de éste al Cabildo. La resolución que se emita se comunicará por escrito, a las entidades solicitantes, precisando en su caso, las características y condiciones en que los créditos puedan ser concertados.
 
-###### ARTÍCULO 374.
+En los demás casos, bastará que el órgano interno de cada entidad pública autorice la contratación de financiamiento, misma que deberá ser aprobada por el H. Congreso, en los términos de este Código.
 
-Ninguna persona detenida podrá ser internada en el Centro de Detención Preventiva Municipal portando cintas, cintos, lentes, cordones, cerillos, encendedores, cigarros, dinero, radio localizadores, teléfonos o cualquier otro objeto que ponga en peligro la integridad física del mismo interno o de sus compañeros de celda.
+### CAPÍTULO X. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE SUPERVISIÓN TÉCNICA SOBRE LA EXPLOTACIÓN DE BANCOS DE MATERIAL
 
-###### ARTÍCULO 375.
+###### Artículo 417.
 
-Ningún arresto administrativo podrá exceder del término de treinta y seis horas, de conformidad con el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+El H. Congreso vigilará que en la garantía que se otorgue para el pago de operaciones de financiamiento, no se afecte la continuidad, permanencia y generalidad de los servicios públicos, o que en general, no se cause un perjuicio al interés público.
 
-###### ARTÍCULO 376.
+###### Artículo 418.
 
-Será obligación de la Dirección de Justicia Municipal llevar a cabo un sistema de identificación, como medio de control administrativo de todos aquellos internos que se encuentren a su disposición. Para la identificación de los internos, además se podrá tomar una fotografía de frente y de perfil, así como las huellas dactilares las cuales se insertarán en el expediente administrativo de ingreso al Centro de Detención Preventiva Municipal. La información será confidencial y sólo podrá ser entregada cuando así sea requerido por las autoridades competentes y se realice dicha petición por escrito.
+El Municipio, previa autorización del Cabildo, podrá realizar operaciones en virtud de las cuales, los particulares, las entidades públicas, concesionarios o usuarios del sector privado o social se subroguen en los adeudos suscritos originalmente por el Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+###### Artículo 419.
 
-ARTÍCULO 376 BIS.- Tratándose de faltas administrativas vinculadas a cualquier tipo de violencia de género y en particular violencia familiar, se remitirá a la Secretaría de Seguridad Pública Municipal, la información del lugar, circunstancias y personas involucradas, para los efectos de establecer acciones preventivas y de proximidad policial de protección a las víctimas directas e indirectas.
+El Municipio, por conducto del Ayuntamiento, y las entidades podrán suscribir los contratos, pagarés, letras de cambio o cualquier otro título de crédito, que formalicen las operaciones a que se refiere este Libro. En el caso del Municipio, los contratos y convenios serán firmados por el Presidente, Síndico, Secretario y Tesorero municipales. Los títulos de crédito que se emitan serán firmados por el Presidente, Síndico y Tesorero municipales.
 
-APARTADO CUARTO
+En el caso de las entidades, los documentos a que se refiere este artículo serán suscritos por sus representantes legales.
 
-Derechos y Obligaciones del Interno
+De la misma forma se documentarán las operaciones por las que se substituyan como acreditado, cambien su calidad de deudores directos o avalistas o subroguen su deuda a terceros.
 
-###### ARTÍCULO 377.
+###### Artículo 420.
 
-Las personas detenidas en el Centro de Detención Preventiva Municipal, tienen derecho a que se les informe el motivo y causas de la detención, la razón por la que serán ingresados, a disposición de qué autoridad se encuentran o en su caso el arresto o multa que se les aplicará.
+Los montos derivados de la contratación de obligaciones directas a corto plazo se computarán como deuda pública municipal extraordinaria, requerirán la autorización previa del H. Congreso y reunirán los requisitos siguientes:
 
-###### ARTÍCULO 378.
+I. Que el saldo total acumulado de estos créditos no exceda al cinco por ciento de los ingresos ordinarios del ejercicio fiscal correspondiente;
 
-Los oficiales custodios deberán permitir el acceso a la o las personas que visiten al interno, las cuales deberán sujetarse al horario establecido, reglas de seguridad y el lugar que se destine para tal efecto, salvo que sea la primera visita en el día y hora que ingrese el interno al Centro de Detención Preventiva Municipal. El abogado defensor del interno tendrá acceso en cualquier tiempo que desee visitar a su cliente, siempre y cuando acredite ser abogado a través de su cédula profesional y el detenido lo acepte como su abogado defensor.
+II. Que el plazo de su vencimiento no rebase los cuarenta y cinco días;
 
-###### ARTÍCULO 379.
+III. Que su pago se realice al término del vencimiento y no rebase el periodo constitucional; y
 
-El interno podrá recibir alimentos que le sean proporcionados por sus familiares o personas de su confianza y en caso de que durante el transcurso de doce horas no reciba su dotación de alimentos, el Municipio deberá proporcionar las tres raciones de alimentos diarias durante su estancia en dicho lugar.
+IV. Que la operación no se contrate en el último trimestre de la gestión municipal para la que fueron electos. El Municipio y las entidades podrán contratar montos adicionales de financiamiento en obligaciones directas a corto plazo, cuando a juicio del Cabildo o del órgano de gobierno, según sea el caso, se presenten circunstancias económicas extraordinarias que así lo exijan.
 
-###### ARTÍCULO 380.
+###### Artículo 421.
 
-Los internos tendrán derecho a que el Municipio les brinde atención médica necesaria durante su internamiento, incluyendo el traslado a un centro hospitalario previa autorización expresa de la autoridad competente. Para dicho efecto el Municipio contará con un médico las veinticuatro horas del día en cada Centro de Detención Preventiva Municipal, quien contará con una área especial para desempeñar sus funciones, la cual deberá contar con el cuadro básico de medicamentos y material de curación suficiente, determinado por el Jefe del Departamento de Servicios Médicos Municipales, a fin de estar en condiciones de prestar los primeros auxilios a los detenidos.
+En la contratación de deuda se deberá buscar que se mantenga un correcto equilibrio financiero y que se cuente con los elementos económicos suficientes para hacer frente a las obligaciones contraídas.
 
-###### ARTÍCULO 381.
+###### Artículo 422.
 
-Será obligación de los internos y de las personas que se remitan al Centro de Detención Preventiva Municipal, mantener siempre y ante todo momento una buena actitud y dirigirse con el debido respeto y consideración ante el Juez Municipal.
+Las entidades mencionadas en las fracciones II a IV del artículo 402 de este Código, sólo podrán solicitar autorización para contratar empréstitos o créditos, previa acuerdo del órgano de gobierno interno correspondiente.
 
-###### ARTÍCULO 382.
+###### Artículo 423.
 
-El interno, durante el período que dure su estancia en el Centro de Detención Preventiva Municipal, deberá guardar el orden y respeto que se merecen los oficiales custodios así como el personal administrativo. Asimismo deberá evitar cualquier agresión física o verbal tanto con las demás personas que se encuentren internas, como con las personas que acudan de visita a dichas instalaciones.
+Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
 
-###### ARTÍCULO 383.
+###### Artículo 424.
 
-Será obligación del interno, mantener aseada el área donde se encuentra detenido, con el propósito de que esta permanezca en un buen estado higiénico, y evitar realizar cualquier desperfecto o daño a las instalaciones.
+Se podrá otorgar como fuente de pago o garantía, cualquier bien, derecho o ingreso que se encuentre dentro del patrimonio de quien contrate operaciones de financiamiento, directas o contingentes, si conforme a la ley no existe impedimento para tales efectos.
 
-###### ARTÍCULO 384.
+El Ayuntamiento podrá comprometer hasta el treinta por ciento de los ingresos municipales y de las participaciones federales, cuando no se afecten los programas de gasto corriente ni de inversión prioritaria.
 
-Será obligación del interno, reportar a las autoridades del Centro de Detención Preventiva Municipal, cualquier anomalía de que se percate.
+El Municipio y las entidades podrán otorgar en garantía ingresos hacendarios presentes y futuros, sin exceder el término de su administración, salvo autorización expresa del H. Congreso.
 
-###### ARTÍCULO 385.
+Los mecanismos de fuente de pago, garantía, o ambas, pueden instrumentarse a través de fideicomisos, mandatos irrevocables o cualquier otro autorizado por las disposiciones aplicables.
 
-Será obligación de los internos, acatar y cumplir las órdenes de las autoridades del Centro de Detención Preventiva Municipal.
+Los fideicomisos que se constituyan como fuente de pago, garantía, o ambas, de las obligaciones a cargo del Municipio no serán considerados, en ningún caso, parte de la administración pública paramunicipal, por lo que no les serán aplicables las disposiciones de las entidades paramunicipales.
 
-APARTADO QUINTO
+Dichos fideicomisos podrán prever que el fiduciario realice el pago a los acreedores conforme a las condiciones pactadas en los contratos respectivos y sólo podrán modificarse con el consentimiento de los acreedores fideicomisarios.
 
-Sanciones
+###### Artículo 425.
 
-###### ARTÍCULO 386.
+En los casos en que se requiera el aval del Gobierno del Estado respecto de obligaciones del Municipio o de las entidades, la solicitud se formulará por conducto del Ayuntamiento respectivo y contendrá su justificación, además de la autorización del Cabildo o del órgano de gobierno interno, según corresponda.
 
-El interno que no cumpla con las disposiciones de esta normatividad le serán aplicadas las siguientes sanciones:
+###### Artículo 426.
 
-I. Amonestación.
+Cuando los Municipios soliciten el aval del Gobierno del Estado, deberán cumplir con los siguientes requisitos:
 
-II. Suspensión de visita familiar.
+I. Que el importe a contratar se encuentre dentro del programa anual de financiamiento que haya sido aprobado por el H. Congreso en la Ley de Ingresos para el ejercicio correspondiente;
 
-III. Si está cumpliendo un arresto administrativo se le incrementará su sanción en multa y en arresto, siempre que no sea mayor a los límites que marca el presente Código, así como el arresto que no exceda del término de treinta y seis horas.
+II. Que medie autorización del H. Congreso;
 
-IV. En el supuesto caso en que el interno realice con su conducta, un hecho u omisión que de acuerdo con la ley se tipifique como delito se dará vista al Ministerio Público en el Estado, o bien a la autoridad competente.
+III. Que cuando se trate de operaciones a corto plazo, éstas reúnan los requisitos establecidos en el artículo 420 del presente ordenamiento;
 
-APARTADO SEXTO
+IV. Que el monto acumulado de los avales otorgados por el Gobierno del Estado no excedan del porcentaje a que se refiere el artículo 424 de este ordenamiento y la previsión contenida en la Ley de Ingresos del Estado, del ejercicio presupuestal correspondiente, en la partida expresa de asignación fiscal al Ayuntamiento;
 
-Distribución de Internamiento en Celdas, Medidas de Seguridad, Reglas de Internamiento y Órdenes de Libertad
+V. Que el Ayuntamiento haya acreditado que cuenta con elementos económicos suficientes para hacer frente a la obligación en los montos y plazos, conforme a su programación financiera; y
 
-###### ARTÍCULO 387.
+VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligaciones de información al Registro de Deuda Pública Municipal y, en su caso, Estatal. Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado.
 
-El área de celdas para el internamiento de las personas detenidas se distribuirá de la siguiente forma:
+###### Artículo 427.
 
-I. Área para internar a los menores de edad.
+Es responsabilidad de la Tesorería la vigilancia del cumplimiento de las obligaciones asumidas por el Municipio al contratar operaciones de financiamiento, y de las entidades a que se refieren las fracciones II a IV del artículo 402 de este Código, en el caso de que el Municipio actúe como su garante.
 
-II. Celdas para los que cumplen sanciones administrativas.
+Para tal efecto, las dependencias del Ayuntamiento y, en su caso, las entidades referidas, deberán proporcionar información a la Tesorería en la forma y términos que le sean requeridos.
 
-III. Celdas para mujeres.
+En todos los casos el titular de la dependencia o entidad de que se trate, será responsable de vigilar el cumplimiento de las obligaciones que se contraten.
 
-IV. Celdas para las personas que se encuentran a disposición de autoridades civiles.
+###### Artículo 428.
 
-V. Celdas para las personas que se encuentran afectados de sus facultades mentales.
+La Tesorería vigilará que se incluyan en el presupuesto de egresos del Municipio, los montos necesarios para satisfacer puntualmente los compromisos derivados de la contratación de financiamientos.
 
-VI. Celdas especiales para las personas que se encuentran cumpliendo con una medida de seguridad en espera de que le sea determinada su situación legal.
+La misma obligación corresponderá a los titulares de las entidades.
 
-VII. El Juez Municipal de turno podrá dictar las medidas y lineamientos necesarios a efecto de reforzar la seguridad de los internos.
+###### Artículo 429.
 
-###### ARTÍCULO 388.
+El Ayuntamiento y las entidades llevarán un registro interno de su deuda pública, pero deberán informar a la Tesorería, periódicamente, del estado que guarda la misma, para su registro.
 
-Las personas remitidas a los Centros de Detención Preventiva Municipales y que deban ser ingresados, una vez registrados y calificados, serán internadas en las celdas de dicha institución bajo las siguientes bases:
+En todo caso, la Tesorería o los titulares de las entidades rendirán los informes que les sean requeridos por las autoridades estatales competentes, para los efectos del Registro de Deuda Municipal y, en su caso, del Estatal.
 
-I. Las mujeres y hombres ocuparan celdas distintas.
+###### Artículo 430.
 
-II. Los menores de edad serán internados en el cuarto de observación designado para tal efecto.
+El Ayuntamiento, al solicitar la inscripción en el Registro de la Deuda Estatal, anexará a su petición lo siguiente:
 
-III. Las personas con alguna enfermedad infecto-contagiosa, con alguna enfermedad mental, depresivos o con una actitud agresiva, serán internados en celda distinta a los demás.
+I. El instrumento jurídico en que se haga constar la obligación cuyo registro solicita;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE AGOSTO DE 2011)</small>
+II. El acta de Cabildo en la que se autorice contratar y afectar, en garantía de pago de las obligaciones contraídas, los ingresos municipales propios y participaciones federales;
 
-IV. Los detenidos que forman parte de una corporación policial deberán ser internados en una sola celda.
+III. El acta de Cabildo en la que se autorice a afectar otras garantías distintas a las señaladas en la fracción anterior;
 
-V. Se tendrán las consideraciones del caso a los adultos mayores, así como a las personas con capacidades diferentes.
+IV. La autorización del H. Congreso; y
 
-###### ARTÍCULO 389.
+V. Información sobre el destino del crédito.
 
-Por ningún motivo se internará en el área de celdas a persona alguna que sea remitida por alguna autoridad administrativa o judicial, si no presenta el oficio que funde y motive la causa legal de su ingreso, el cual deberá contener los datos de la persona que será internada, así como la firma y sello de la autoridad ordenadora, el cual deberá estar dirigido al titular de la Dirección de Justicia Municipal, debiéndose acompañar el dictamen médico correspondiente elaborado en la fecha y hora reciente del internamiento.
+###### Artículo 431.
 
-###### ARTÍCULO 390.
+Todas las obligaciones que contraigan el Municipio y las entidades se inscribirán en el Registro de Deuda Pública Municipal.
 
-Cuando la autoridad administrativa o judicial que requiera al interno para alguna diligencia procesal, deberá solicitar su excarcelación provisional mediante oficio en el cual se indique el lugar donde habrá de ser remitido, el día y hora en que se requiera, debiéndose designar el o los oficiales de custodia necesarios, quienes deberán tomar las medidas preventivas de seguridad para que se cumpla con la orden dictada por la autoridad.
+###### Artículo 432.
 
-###### ARTÍCULO 391.
+En el Registro de Deuda Pública Municipal se anotarán los datos siguientes:
 
-Para que los oficiales custodios pueda (sic) dejar en libertad a un interno, deberá contar con la respectiva orden de libertad, misma que será por escrito con el nombre y firma del titular de la autoridad a quien se encuentra a su disposición el interno o en su defecto a quien se encuentra supliendo a dicho funcionario, así como el sello correspondiente.
+I. El número progresivo y fecha de inscripción;
 
-###### ARTÍCULO 392.
+II. Las características del acto jurídico, con identificación de las obligaciones contraídas, su objeto, plazo y monto;
 
-Como medida de seguridad y con el objeto de salvaguardar la integridad y los derechos humanos de los internos, el área de celdas deberá contar con cámaras de vídeo grabación.
+III. La fecha del acta de Cabildo donde se autoriza al Ayuntamiento a asumir obligaciones y en su caso a afectar garantías;
 
-APARTADO SÉPTIMO
+IV. La autorización del H. Congreso;
 
-Informática
+V. Las garantías afectadas;
 
-###### ARTÍCULO 393.
+VI. Las cancelaciones de las inscripciones, cuando se acredite el cumplimiento de las obligaciones que las generaron; y
 
-La Dirección de Justicia Municipal mantendrá actualizados los informes estadísticos relacionados con las personas que se encuentran internas en los Centros de Detención Preventiva Municipales, debiéndose rendir un informe diario y mensual sobre los índices de internamientos, el cual será entregado a la Secretaría del H. Ayuntamiento.
+VII. Las variaciones de los endeudamientos.
 
-APARTADO OCTAVO
+###### Artículo 433.
 
-Control de Visitas
+El número progresivo y la fecha de inscripción en el Registro de Deuda Pública Municipal darán preferencia a los acreditantes para los efectos de exigibilidad en el pago de las obligaciones.
 
-###### ARTÍCULO 394.
+###### Artículo 434.
 
-Los familiares de los internos tendrán derecho de realizar su visita en un horario de las nueve a las trece horas y de las catorce a las dieciséis horas de todos los días de la semana. Los oficiales custodios llevarán un control de visitas en un libro destinado para tal efecto en el que se asentará entre otros datos los siguientes:
+El H. Congreso, por conducto de la dependencia encargada del Registro, expedirá a todos aquellos que acrediten su interés jurídico, las certificaciones que soliciten respecto de las obligaciones inscritas en el Registro de Deuda Pública Municipal del Estado de Veracruz de Ignacio de la Llave.
 
-I. Fecha de la visita.
+###### Artículo 435.
 
-II. Nombre de la persona interna a visitar.
+El Municipio y las entidades tendrán las obligaciones siguientes:
 
-III. Nombre del visitante, fotografía y huella dactilar.
+I. Llevar registro de las operaciones a que se refiere este Libro;
 
-IV. Edad y firma del visitante.
+II. Comunicar al Ejecutivo del Estado, cuando éste actúe como aval, todos los datos relacionados con la contratación y reestructuración de créditos, así como los derivados de obligaciones contingentes, en un plazo no mayor de diez días hábiles, contado a partir de la celebración del acto; y
 
-V. Parentesco.
+III. Comunicar al H. Congreso el pago total o parcial de las obligaciones, para efectos de su inscripción en el Registro de Deuda Pública Municipal.
 
-VI. Hora de visita.
+###### Artículo 436.
 
-VII. Hora de salida.
+La inscripción en el Registro de Deuda Pública Municipal de las obligaciones a cargo del Municipio, confiere a los acreedores el derecho a que sus créditos, en caso de incumplimiento de pago por el Municipio, se cubran con cargo a los ingresos municipales en gravámenes y participaciones federales, que deba entregarles el Estado.
 
-###### ARTÍCULO 395.
+###### Artículo 437.
 
-El visitante deberá presentar una identificación para su ingreso al área de celdas, la cual se le devolverá una vez concluida la misma, en la inteligencia de que no deberá exceder dicha visita por más de quince minutos.
+Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismos requisitos y formalidades relativos a su autorización.
 
-###### ARTÍCULO 396.
+###### Artículo 438.
 
-Sin excepción de persona, se negará el acceso para ver a los internos o hablar con el Juez Municipal para pedir información de los detenidos a toda persona que acuda a este Centro de Detención Preventiva Municipal, cuando se presente:
+Las participaciones que corresponden al Municipio son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones derivadas o contraídas, con apego a las disposiciones legales, por el Municipio o sus entidades, que hayan requerido de afectación en garantía de dichas participaciones.
 
-I. En estado de ebriedad o bajo los influjos de alguna sustancia tóxica.
+El Municipio podrá afectar como fuente de garantía, pago, o ambas, de sus obligaciones, el derecho, los ingresos, o ambos, a las aportaciones federales que le correspondan, susceptibles de destinarse a dichos fines, en los términos de la legislación aplicable.
 
-II. Armado o con materiales que pongan en peligro la integridad de los detenidos, del personal custodio o administrativo.
+Las operaciones deberán estar debidamente inscritas en el registro de la Secretaría de Hacienda y Crédito Público, en el Registro Público de Deuda Municipal y en el Registro de Deuda Pública Estatal correspondiente, tratándose en este último de adeudos avalados por el Estado.
 
-III. Sin camisa o descalza.
+###### Artículo 439.
 
-IV. A menores de edad.
+En todos los casos en que se afecten participaciones, el Ayuntamiento, previa autorización del H. Congreso, podrá solicitar a la Secretaría de Finanzas y Planeación del Gobierno del Estado, que en su nombre y representación realice los pagos de las amortizaciones de operaciones de endeudamiento convenidas, descontando dichos montos de las participaciones que en ingresos federales le correspondan al Municipio.
 
-###### ARTÍCULO 397.
+En el caso de que se afecten aportaciones, el Ayuntamiento, podrá instrumentar como fuente de pago, garantía, o ambas, fideicomisos, mandatos irrevocables o cualquier otro mecanismo autorizado por las disposiciones aplicables.
 
-A su ingreso el visitante deberá portar un gafete de identificación que expresará la palabra "VISITANTE" devolviéndola contra la entrega de su identificación personal.
+Para todo lo no previsto en este Libro se estará a lo que señale el Código Financiero para el Estado de Veracruz de Ignacio de la Llave y el Código Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, según corresponda.
 
-###### ARTÍCULO 398.
+###### Artículo 440.
 
-Todos los visitantes deberán ser sometidos a una revisión corporal como medida de seguridad y por ningún motivo podrá ingresar al área de celdas con objetos que por su diseño o naturaleza implique algún riesgo para la integridad física de los internos, de los visitantes, oficiales custodios o administrativo de la institución, por lo que los alimentos también serán revisados de manera higiénica, para evitar que sean introducidos diversos objetos no permitidos, lo anterior a través de los oficiales custodios.
+El presente libro tiene por objeto definir y regular el dominio, uso, usufructo, aprovechamiento, enajenación, destino, registro y control de los bienes muebles e inmuebles que integran el patrimonio del Municipio y de sus entidades.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+###### Artículo 441.
 
-La revisión de mujeres visitantes, deberá de efectuarse por oficiales custodios mujeres, y el mismo deberá obedecer a los fines señalados, pero garantizando un trato respetuoso, sin comentarios inadecuados en relación a su género, orientación sexual o condición.
+El patrimonio del Municipio se compone de:
 
-###### ARTÍCULO 399.
+I. Bienes de dominio público; y
 
-Cuando algún funcionario relacionado con la procuración y administración de la justicia, ya sea del fuero común o federal en ejercicio de sus funciones, solicite su ingreso al área de celdas y acredite su personalidad, deberá proporcionársele las facilidades necesarias para que realice su visita. De igual forma se permitirá el acceso a los funcionarios de la Comisión Nacional de Derechos Humanos y del organismo protector de los derechos humanos en el Estado para que lleven a cabo sus funciones.
+II. Bienes de dominio privado.
 
-###### ARTÍCULO 400.
+###### Artículo 442.
 
-La persona que incurra en alguna irregularidad en relación a lo antes preceptuado, se pondrá a disposición del Juez Municipal en turno, para que deslinde responsabilidad administrativa de dicho visitante y en caso de la probable comisión de algún delito se dará vista al Agente del Ministerio Público en el Estado, o bien, a la autoridad competente según sea el caso.
+Son bienes de dominio público:
 
-APARTADO NOVENO
+I. Los de uso común;
 
-Oficiales Custodios
+II. Los destinados por el Municipio a un servicio público, y los equiparados a estos conforme a la ley;
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+III. Los monumentos históricos y artísticos, muebles e inmuebles, de propiedad municipal;
 
-###### ARTÍCULO 401.
+IV. Los muebles de propiedad municipal que, por su naturaleza no sean normalmente sustituibles, como los documentos y expedientes de las oficinas: los manuscritos, incunables, ediciones, libros, documentos, publicaciones, periódicos, mapas, folletos y grabados importantes o raros, así como las colecciones de esos bienes, los archivos, las fonograbaciones, películas, archivos fotográficos, cintas magnetofónicas y cualquier otro objeto que contenga imágenes y sonidos;
 
-Laspersonas (sic) que desempeñen el cargo de oficial custodio comisionados a los Centros de Detención Preventiva Municipal, deberán cumplir con sus responsabilidades en estricto apego a los derechos fundamentales de las personas internas, aplicando lo establecido por las Leyes, el presente Código Municipal y Reglamentos relacionados con su ámbito de competencia para el desarrollo de su trabajo.
+V. Las pinturas murales, las esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del Municipio o del patrimonio de las entidades;
 
-Por ningún motivo quienes desempeñen esta labor de custodia o personal administrativo solicitará a la persona interna o a sus familiares dádiva o emolumento alguno, pues en tal supuesto, se avisara a su jefe o jefa inmediato(a), quien deberá levantar el acta administrativa circunstanciada de los hechos que motiven la irregularidad detectada o reportada con el nombre y firma del quejoso o quejosa y de dos personas que atestigüen, procediendo conforme a derecho.
+VI. Los puentes y carreteras del dominio municipal;
 
-De igual forma se procederá en caso de presentarse acoso sexual y/o cualquier conducta irregular por parte de las personas que se desempeñen como oficiales custodios o personal administrativo a la persona interna o a sus familiares.
+VII. Los inmuebles adquiridos para destinarse a fines de utilidad pública;
 
-###### ARTÍCULO 402.
+VIII. Los montes y bosques propiedad del dominio del gobierno municipal, que se destinen a fines de interés públicos; y
 
-Como medida de seguridad entre los cambios de turno de los oficiales custodios, deberán realizar una revisión en el área de celdas, a fin de contabilizar todas y cada una de las personas que se encuentren internas y a disposición de las diversas autoridades. De igual forma se realizará una revisión a las instalaciones del área de celdas para verificar los objetos personales del interno que no sean de los prohibidos y verificar los accesos a dichas celdas y lugares de ventilación para evitar en todo momento que algún interno se evada de la justicia.
+IX. Los demás bienes del dominio municipal no considerados en las fracciones anteriores, que proporcionen un servicio público.
 
-###### ARTÍCULO 403.
+###### Artículo 443.
 
-Cualquier irregularidad que se detecte en el área de celdas deberá ser reportada de inmediato en forma verbal y mediante un parte informativo sobre los hechos que en forma concreta se describan y se tomarán las medidas de seguridad pertinentes.
+Son bienes de dominio privado:
 
-###### ARTÍCULO 404.
+I. Los no comprendidos en el artículo anterior;
 
-El Director de Justicia Municipal podrá ordenar se lleven a cabo operativos sin previo aviso a efecto de realizar revisiones minuciosas de los artículos personales de los oficiales custodios con la finalidad de verificar que éstos no porten algún objeto o sustancia ilegal entre sus pertenencias. Igualmente podrá ordenar les sean practicados exámenes médicos y psicológicos para comprobar su aptitud e integridad física para la prestación de sus servicios.
+II. Los inmuebles que formen parte del fundo legal no enajenados a particulares;
 
-APARTADO DÉCIMO
+III. Los excesos o demasías en inmuebles del fundo legal enajenados a particulares, si fueren mayores al diez por ciento de la superficie declarada en el título de propiedad;
 
-De los Traslados y el Personal
+IV. Los que hayan formado parte del patrimonio de las entidades que se extingan o liquiden, en la proporción que corresponda al Municipio;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+V. La totalidad o la parcialidad de los bienes del dominio público, que sean desafectados o desincorporados del mismo;
 
-###### ARTÍCULO 405.
+VI. Los bienes que adquiera el Municipio o que ingresen por vía de derecho público y tengan por objeto la constitución de reservas territoriales, el desarrollo urbano, ecológico y habitacional o la regularización de la tenencia de la tierra;
 
-Los detenidos por la probable comisión de delitos, deberán ser trasladados por los integrantes operativos que designe para tal efecto la Secretaría de Seguridad Pública, a los lugares que indiquen las autoridades competentes, procurando efectuarlo en forma rápida y con seguridad.
+VII. Los materiales y suministros adquiridos por el Municipio para la prestación de servicios públicos e igualmente para la ejecución de obras por administración directa o por contrato, cuando aquél hubiere asumido la obligación de adquirir los materiales; y
 
-###### ARTÍCULO 406.
+VIII. Los que el municipio adquiera legalmente, por vía de derecho común, a título de propios.
 
-El traslado deberá ser registrado en el libro que se lleve para dicha finalidad, señalando fecha y hora en que se lleve a cabo, el lugar del traslado y la causa y motivo del mismo. Corresponderá a los oficiales custodios hacer las anotaciones correspondientes.
+###### Artículo 444.
 
-###### ARTÍCULO 407.
+Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables. Los bienes de dominio privado serán de dominio público, cuando se apliquen o de hecho se utilicen a esos fines.
 
-El Centro de Detención Preventiva Municipal, deberá contar con el personal directivo, técnico, administrativo, de seguridad y custodia, que se requiera para su adecuado funcionamiento, de acuerdo con las reglas establecidas en el presente Código.
+### CAPÍTULO XI. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA TESORERÍA
 
-APARTADO DÉCIMO PRIMERO
+###### Artículo 445.
 
-Mantenimiento al Área de Celdas
+Los bienes del dominio privado del Municipio son susceptibles de enajenación, uso, usufructo o arrendamiento a particulares; también podrán gravarse o ser objeto de garantía de crédito. En todos los casos se requerirá acuerdo del Cabildo, aprobado por las dos terceras partes de sus integrantes, y la autorización del H. Congreso o de la Diputación Permanente.
 
-###### ARTÍCULO 408.
+Sólo en casos excepcionales, por razones debidamente fundadas y motivadas, el Ayuntamiento podrá, con el voto de las dos terceras partes de sus integrantes, desincorporar los bienes de uso común o los afectos o destinados a un servicio público para convertirlos en bienes de dominio privado, previa autorización del H. Congreso o, en su caso, de la Diputación Permanente.
 
-El Director de Justicia Municipal, podrá contratar el personal necesario para llevar a cabo el aseo en el área de celdas municipales y mantenerlas en óptimas condiciones, a fin de salvaguardar los derechos humanos de los internos, que ante cualquier situación legal en la que se encuentren, deben ser tratados con dignidad y respeto, de acuerdo a lo estipulado en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Aguascalientes.
+###### Artículo 446.
 
-###### ARTÍCULO 409.
+Los actos de adquisición, administración, uso, aprovechamiento, explotación o enajenación de los inmuebles municipales, así como la ejecución de obras de construcción, reconstrucción, modificación, adaptación, conservación, mantenimiento y demolición en los mismos, se sujetarán a las disposiciones del presente Libro y demás leyes y reglamentos aplicables.
 
-El Centro de Detención Preventiva Municipal deberá contar con personal capacitado en las diversas áreas de mantenimiento, a fin de que se encuentre en buenas condiciones.
+###### Artículo 447.
 
-### CAPITULO I
+Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
 
-###### ARTÍCULO 410.
+###### Artículo 448.
 
-A través de la Junta Municipal de Reclutamiento el Secretario del H. Ayuntamiento y Director General de Gobierno realiza las siguientes funciones:
+Son atribuciones del Ayuntamiento, respecto a sus bienes, las siguientes:
 
-I. Recibir y custodiar las Cartillas del Servicio Militar Nacional que anualmente ministra la Zona Miliar (sic) correspondiente.
+I. Vigilar la observancia del presente Código;
 
-II. Inscribir conscriptos de la clase y remisos.
+II. Programar la adquisición, uso, aprovechamiento, usufructo, destino, enajenación y arrendamiento de los bienes municipales;
 
-III. Inscribir conscriptos anticipados, cuando la Zona Militar lo autorice para tal efecto.
+III. Promover la titulación y registro de todos los bienes y derechos que formen parte de su patrimonio y, si procediere, de aquellos que se presuman de su propiedad, mediante escritura pública o título supletorio de dominio;
 
-IV. Entregar la Cartilla del Servicio Militar Nacional sin liberar en original, resguardando el duplicado y triplicado de la misma.
+IV. Realizar o promover, en su caso, los deslindes sobre sus bienes patrimoniales;
 
-V. Rendir informes mensuales a la Zona Militar del número de conscriptos inscritos, así como su tipo, es decir, la clase, anticipados y remisos, así como su grado de estudios.
+V. Ejecutar todas las acciones jurídicas y materiales tendientes a la reivindicación o recuperación de sus bienes;
 
-VI. Marcar las fechas en conjunto con la Zona Militar para la recepción e inscripción de conscriptos que se realiza a partir de la tercera semana de enero y hasta el día 15 de octubre del año.
+VI. Suscribir, por conducto del Presidente Municipal y del Síndico, los contratos que el H. Congreso o la Diputación Permanente autorice;
 
-VII. Una vez terminado el periodo de inscripción, entregar a la Zona Militar los duplicados y triplicados de las cartillas del Servicio Militar Nacional.
+VII. Intervenir, conforme a las leyes de la materia, en la regularización de la tenencia de la tierra en el Municipio;
 
-VIII. Entregar a la Zona Militar las cartillas sobrantes en original, duplicado y triplicado.
+VIII. Formular un inventario de todos los bienes y derechos municipales;
 
-IX. Entregar a la Zona Militar el balance general de conscriptos del Servicio Militar Nacional para la celebración del sorteo.
+IX. Establecer y mantener actualizado un registro de solicitudes y enajenaciones relativas a sus bienes;
 
-X. Organizar en conjunto con la Zona Militar el Sorteo del Servicio Militar Nacional.
+X. Ejercitar las acciones de rescisión administrativa respecto a los bienes municipales que establece este Código;
 
-XI. Entregar los resultados del Sorteo del Servicio Militar Nacional, así como la publicación en medios electrónicos del mismo.
+XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenación, considerando su ubicación y calidad. En ningún caso su valor será inferior al valor catastral o fiscal; y
 
-XII. Realizar el sellado de la Cartilla del Servicio Militar Nacional con el resultado para que sea encuartelada y obtenga su posterior liberación.
+XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
 
-XIII. Realizar la actualización de datos en los libros y en el sistema del registro de conscriptos, cuando la Zona Militar lo indique.
+###### Artículo 449.
 
-XIV. Realizar la búsqueda el número de matrícula del Servicio Militar Nacional para proporcionarlo al interesado cuando éste así lo requiera, ya sea para tramitar la reposición de la Cartilla del Servicio Militar Nacional, ante la Zona Militar o para cualquier otro fin.
+El municipio actualizará cada año, en el mes de enero, un inventario general y avalúo de los bienes que conforman el patrimonio municipal de cualquiera naturaleza que sean. El avalúo deberá ser practicado por peritos que cuenten con cédula profesional, instituciones de crédito, agentes especializados o corredores públicos, y deberá consignar, al menos, el valor comercial y el de realización inmediata. Concurrirán a su formulación el presidente municipal, la Comisión de Hacienda y Patrimonio Municipal y el tesorero.
 
-XV. Realizar publicidad constantemente para la inscripción de jóvenes al Servicio Militar Nacional.
+El inventario y el avalúo se extenderán por triplicado, y quedará un ejemplar en el archivo municipal, uno en la tesorería y el otro se remitirá al Congreso del Estado.
 
-XVI. En conjunto con la Zona Militar, publicar la fecha del Sorteo del Servicio Militar Nacional, así como el lugar y la hora de celebración del mismo.
+###### Artículo 450.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
+Los bienes se clasificarán en el inventario, agrupándolos de la siguiente manera:
 
-# LIBRO TERCERO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
+I. Muebles;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
+II. Inmuebles;
 
-## TITULO CUARTO.
+III. Derechos;
 
-DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS.
+IV. Valores mobiliarios, inmobiliarios, financieros y bursátiles;
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+V. Créditos; y
 
-###### ARTÍCULO 411.
+VI. Semovientes;
 
-El Ayuntamiento tendrá a su cargo la planeación, ejecución, administración y control de los servicios públicos que requiera la población del Municipio, tales como:
+Los documentos que por su naturaleza tengan incorporados valores o derechos estarán a cargo de la Tesorería para su custodia.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+###### Artículo 451.
 
-I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+Las dependencias de la administración pública municipal y las demás instituciones públicas y privadas que por cualquier concepto usen, administren o tengan a su cuidado bienes y recursos propiedad del Municipio proporcionarán información necesaria para la elaboración y actualización del inventario de bienes municipales.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+Lo anterior, sin perjuicio de la integración y actualización de los propios catálogos e inventarios de las entidades.
 
-II. Alumbrado público;
+###### Artículo 452.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica del Municipio Libre, ejercerá sus atribuciones para el establecimiento de los procedimientos de integración y recepción de la información para el funcionamiento y actualización del inventario; la comprobación del cumplimiento de las normas a que se refiere este capítulo, así como para verificar la existencia en almacenes de los documentos o bienes que constituyan el inventario y el destino o afectación final de éstos.
 
-III. Limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial de su competencia;
+###### Artículo 453.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+El Ayuntamiento, con apoyo en la Comisión de Hacienda, expedirá las normas relativas al dominio y la administración de los bienes muebles del Municipio, de conformidad con las disposiciones legales aplicables.
 
-IV. Mercados y centrales de abasto;
+###### Artículo 454.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+Las enajenaciones de los bienes muebles no podrán realizarse a favor de los servidores públicos municipales que, en cualquier forma, intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y serán nulos de pleno derecho.
 
-V. Panteones;
+###### Artículo 455.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+Las disposiciones de este capítulo regulan la adquisición y el arrendamiento de bienes inmuebles, para satisfacción de las necesidades de la Administración Pública Municipal.
 
-VI. Rastro;
+###### Artículo 456.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+Las dependencias de la Administración Pública Municipal presentarán al Cabildo un programa anual, que prevea sus necesidades inmobiliarias y contenga la información necesaria para fundar las políticas y decisiones en la materia.
 
-VII. Calles, parques, jardines y su equipamiento;
+Las adquisiciones de bienes inmuebles que se programen se orientarán al cumplimiento de los fines previstos en el Plan Municipal de Desarrollo.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2016)</small>
+En todos los casos, el Ayuntamiento verificará que el uso para el que se requieran los inmuebles sea compatible con las disposiciones vigentes en materia de desarrollo urbano y verificará la disponibilidad presupuestal para la adquisición de los mismos. Al momento de la adquisición deberá contarse con la partida presupuestal autorizada.
 
-VIII. Seguridad Pública y Tránsito; y
+###### Artículo 457.
 
-IX. Las demás necesarias para la organización y administración del Municipio.
+Para satisfacer los requerimientos de inmuebles que formulen las dependencias y entidades, la Comisión de Hacienda, con base en la información que proporcione el Inventario de bienes municipales, procederá conforme a las disposiciones aplicables.
 
-###### ARTÍCULO 412.
+###### Artículo 458.
 
-Para la adecuada prestación de los servicios, el Ayuntamiento elaborará y ejecutará planes y programas, para la conservación y reconstrucción de la infraestructura y equipamiento urbano, establecerá y controlará los sistemas apropiados y vigilará que se cumpla con lo estipulado en los ordenamientos municipales que regulen esta materia.
+Cuando el Municipio adquiera un inmueble, por vías de derecho privado, para cumplir con finalidades de orden público, en su caso, podrá convenir con los poseedores, derivados o precarios, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamientos, comodato o cualquier otro tipo de relación jurídica que les otorgue la posesión del bien, con la posibilidad de cubrir, en cada caso, la compensación que se considere procedente. El término para la desocupación y entrega del inmueble no excederá de un año.
 
-###### ARTÍCULO 413.
+###### Artículo 459.
 
-El H. Ayuntamiento reglamentará la organización, administración, funcionamiento, conservación, explotación y concesiones de los servicios públicos, en los términos de la Ley en materia Municipal que expida el Poder Legislativo del Estado.
+Las dependencias sólo podrán arrendar bienes inmuebles para su servicio, cuando previo informe que le rindan al Cabildo, este lo apruebe si no fuere posible o conveniente su adquisición.
 
-###### ARTÍCULO 414.
+Tanto el arrendamiento de inmuebles para oficinas públicas como la construcción, reconstrucción, adaptación, conservación y mantenimiento de las mismas, se realizará con la asesoría de la dependencia responsable de Obras Públicas.
 
-Los Servicios Públicos Municipales pueden prestarse:
+El Presidente, con la asesoría de la dependencia responsable de Obras Públicas, propondrá al Cabildo las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles destinados a oficinas públicas municipales.
 
-I. Por el Municipio y otro Municipio, en forma intermunicipal.
+###### Artículo 460.
 
-II. Por particulares a través de concesiones o convenios.
+En las distintas operaciones inmobiliarias en las que la Administración Pública Municipal sea parte, corresponderá a la Comisión de Hacienda:
 
-III. Por el Municipio y los particulares.
+I. Validar los avalúos de los inmuebles objeto de la operación de adquisición, enajenación o permuta o de cualquier otra autorizada por la ley cuando se requiera; y
 
-IV. Por el Municipio y el Estado.
+II. Validar la justipreciación de las rentas que el Municipio deba recaudar o pagar cuando tenga el carácter de arrendador o arrendatario.
 
-V. Por el Municipio y la Federación.
+#### SECCIÓN PRIMERA. DEL DOMINIO DE LOS BIENES
 
-VI. Por el Municipio, el Estado y la Federación.
+###### Artículo 461.
 
-###### ARTÍCULO 415.
+Para aprovechamientos especiales sobre los bienes de uso común o afectos o destinados a un servicio público, se requiere permiso o autorización, otorgados con las condiciones y requisitos que apruebe el Cabildo.
 
-Se requerirá la aprobación de las dos terceras partes del cabildo para celebrar los convenios u otorgar las concesiones a que se refiere el artículo anterior y en materia de concesiones para la prestación de los servicios públicos municipales, se estará a lo dispuesto por la Ley Municipal para el Estado de Aguascalientes.
+###### Artículo 462.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+Los permisos y autorizaciones sobre bienes de uso común y los destinados o afectos a un servicio público, no generan derechos reales, sólo otorgan, frente a la Administración Municipal y sin perjuicio de terceros, el derecho a realizar los usos o aprovechamientos de conformidad con las reglas y condiciones que establezcan las leyes y el permiso o autorización.
 
-###### ARTÍCULO 416.
+###### Artículo 463.
 
-Corresponde a la Secretaría de Servicios Públicos la prestación, por sí o por conducto de terceras personas a través de contratos o concesiones, de los servicios de Rastro Municipal, Limpia y Aseo Público, Panteones, Parques y Jardines, Alumbrado Público. De manera adicional a los referidos anteriormente deberá prestar de manera directa el servicio de control de población canina y felina.
+Los permisos o autorizaciones a que se refiere el artículo anterior, los concederá el Cabildo hasta por el lapso de un año, que podrá prorrogarse por igual término siempre que no exceda del periodo de la Administración que lo emite.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2011)</small>
+Los permisos o autorizaciones se otorgarán a título personal y serán intransferibles.
 
-### CAPÍTULO II. De los Panteones
+###### Artículo 464.
 
-###### ARTÍCULO 417.
+Serán nulos los permisos o autorizaciones que se otorguen en contravención a las disposiciones anteriores, además, serán revocados por las causas siguientes:
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+I. Dar un fin distinto al permiso o autorización o no usar el bien de acuerdo con lo dispuesto en éste Código, los reglamentos y permisos o autorizaciones;
 
-###### ARTÍCULO 418.
+II. Dejar de pagar en forma oportuna los derechos que se hayan fijado en el permiso o autorización;
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+III. Realizar obras no autorizadas por escrito;
 
-###### ARTÍCULO 419.
+IV. Dañar en forma reiterada ecosistemas como consecuencia del uso o aprovechamiento; o
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+V. Las demás previstas en este ordenamiento.
 
-###### ARTÍCULO 420.
+###### Artículo 465.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+Los inmuebles considerados, en términos de este Código, como bienes de dominio privado deberán destinarse prioritariamente al uso común o al servicio de las dependencias y entidades de la Administración Pública Municipal.
 
-###### ARTÍCULO 421.
+###### Artículo 466.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+Los inmuebles que no sean adecuados para destinarlos a los fines a que se refiere el artículo anterior podrán ser objeto de los siguientes actos de dominio y administración, sin perjuicio de lo dispuesto por la Ley Orgánica del Municipio Libre:
 
-###### ARTÍCULO 422.
+I. Enajenación a título oneroso; para adquirir o permutar otros inmuebles que se requieran para la prestación de los servicios a cargo de las dependencias de la Administración Pública Municipal; para el pago de indemnizaciones o adeudos en los que el municipio tenga el carácter de deudor; para la instalación de empresas particulares que contribuyan, a través de la generación de empleos, a elevar el nivel económico de la localidad; a particulares para la construcción de viviendas de interés social; y, en general, para promover el bienestar colectivo;
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+II. Enajenación a título gratuito, a favor de los gobiernos Federal, de los Estados o de los Municipios, para la prestación de servicios públicos, de personas físicas o morales de carácter privado, que realicen actividades de interés social y no persigan fines de lucro; y
 
-###### ARTÍCULO 423.
+III. Arrendamiento o comodato, según convengan al interés público, a favor de personas físicas o morales, públicas o privadas, de conformidad con la legislación aplicable.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+###### Artículo 467.
 
-###### ARTÍCULO 424.
+El Ayuntamiento, previa autorización del H. Congreso o, en su caso, de la Diputación Permanente, podrá conceder el uso o el usufructo de inmuebles considerados como bienes de dominio privado.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+###### Artículo 468.
 
-###### ARTÍCULO 425.
+En las distintas operaciones inmobiliarias en las que la Administración Pública Municipal sea parte, en materia de avalúos se estará a lo dispuesto por la Ley de Catastro.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+La transmisión de dominio, a título gratuito u oneroso, de los bienes inmuebles propiedad del Ayuntamiento sólo podrá realizarse mediante acuerdo del Ayuntamiento, emitido en términos de la legislación aplicable.
 
-###### ARTÍCULO 426.
+###### Artículo 469.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+En los casos de enajenación a título gratuito, el acuerdo del Ayuntamiento fijará el plazo máximo dentro del cual deberá iniciarse la utilización del bien para el objeto solicitado; en su defecto se entenderá que el plazo será de un año.
 
-###### ARTÍCULO 427.
+Si el beneficiario no hiciere uso del bien dentro del plazo previsto o destinare el inmueble a un uso distinto al autorizado, tanto el inmueble como sus mejoras, si las hubiere, se revertirán a favor del Municipio, sin derecho a repetir.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+Cuando la beneficiaria sea una persona física o moral de carácter privado y deje de cumplir con su objeto o se extinga, también procederá la reversión del bien y sus mejoras, si las hubiere, a favor del Municipio, sin derecho a repetir.
 
-###### ARTÍCULO 428.
+###### Artículo 470.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+En la enajenación de bienes el precio de venta no será menor al valor catastral actualizado, preferentemente será de contado y podrá realizarse a censo redimible en los supuestos previstos en el artículo siguiente.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2012)</small>
+###### Artículo 471.
 
-En caso de violación al precepto indicado, los animales podrán ser asegurados por los verificadores del municipio en cumplimiento de sus funciones, a instancia propia o mediante denuncia ciudadana. El verificador podrá solicitar el apoyo de la fuerza pública. Los gastos que se generen con motivo de estas acciones serán por cuenta del propietario o responsable del animal independientemente de las sanciones a que se haga acreedor.
+Toda enajenación onerosa de inmuebles que realice el Municipio deberá ser de contado, a excepción de las enajenaciones que se efectúen en beneficio de organismos, asociaciones de beneficencia o personas de escasos recursos y que tengan como finalidad resolver necesidades de vivienda de interés social, las que se verifiquen para la realización de actividades sociales y culturales, o las que se realicen teniendo por objeto el desarrollo de programas de interés social o popular, la incorporación de asentamientos irregulares al desarrollo urbano, el mejoramiento y la conservación de bienes públicos o con valor histórico o arqueológico, así como la integración económica de una zona o región.
 
-###### ARTÍCULO 429.
+###### Artículo 472.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+Mientras no esté totalmente pagado el precio, los compradores de inmuebles municipales no podrán hipotecarlos ni constituir sobre ellos derechos reales a favor de terceros, ni estarán facultados para derribar o modificar las construcciones sin acuerdo expreso del Ayuntamiento, mismo que se expedirá considerando el destino final de los bienes y la necesidad de su afectación, salvo excepción prevista en este Código.
 
-###### ARTÍCULO 430.
+En los contratos respectivos deberá estipularse que la falta de pago de tres mensualidades por concepto de los abonos a cuenta del precio y en su caso de los intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, dará origen a la rescisión del contrato.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+Lo dispuesto en este artículo y en el anterior, no será aplicable en el caso en el que los bienes inmuebles se afecten en fideicomiso público, en cuyo evento, será el Comité Técnico del mismo el que apruebe las enajenaciones considerando los fines del propio fideicomiso y sus reglas de comercialización.
 
-###### ARTÍCULO 431.
+###### Artículo 473.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+El Ayuntamiento procederá a regularizar las demasías a que se refiere la fracción III del artículo 443 de este Código, mediante requerimiento al poseedor de las mismas para que entere el pago a la Tesorería, de lo cual se informará al Registro Público de la Propiedad para que este realice la rectificación correspondiente.
 
-###### ARTÍCULO 432.
+El valor de las superficies a que se refiere el párrafo anterior se fijará conforme a lo dispuesto por la fracción XI del artículo 448.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+#### SECCIÓN SEGUNDA. DE LA VENTA DE INMUEBLES DE INTERÉS SOCIAL
 
-###### ARTÍCULO 433.
+###### Artículo 474.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+La enajenación de los bienes de dominio privado a los particulares, será para fines habitacionales; excepcionalmente y previa autorización del H. Congreso o de la Diputación Permanente, en su caso, para otros fines, de preferencia los de beneficio colectivo, debiendo satisfacer los requisitos, limitaciones, modalidades y procedimiento que imponen los siguientes artículos de este Código, la Ley de Desarrollo Regional y Urbano para el Estado de Veracruz, así como los planes de desarrollo Estatal, Regional o Municipal.
 
-###### ARTÍCULO 434.
+No podrán enajenarse los bienes de dominio privado a título gratuito u oneroso a las personas a que se refiere el artículo 454 de este Código.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+###### Artículo 475.
 
-###### ARTÍCULO 435.
+Serán requisitos para la enajenación a particulares con fines habitacionales, los siguientes:
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+I. Presentar ante el Ayuntamiento solicitud escrita en la que, bajo protesta de decir verdad, se proporcionen los datos requeridos por el mismo;
 
-###### ARTÍCULO 436.
+II. Tener modo honesto de vivir, ser mayor de edad y preferentemente jefe de familia;
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+III. Ser vecino del lugar de la ubicación del inmueble por lo menos desde un año antes de la solicitud;
 
-###### ARTÍCULO 437.
+IV. Acreditar, mediante constancia del Registro Público de la Propiedad, no ser propietario de bienes inmuebles;
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+V. Acreditar, mediante constancia expedida por fedatario público, si se encuentra en posesión del predio cuya compra pretende, o ha construido en el mismo; y
 
-###### ARTÍCULO 438.
+VI. Acompañar el plano del predio con la indicación de sus linderos, superficie y ubicación, si está en el supuesto de la fracción anterior.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+### CAPÍTULO XII. DE LOS DERECHOS POR LOS SERVICIOS DEL REGISTRO CIVIL
 
-###### ARTÍCULO 439.
+###### Artículo 476.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+Satisfechos los requisitos señalados en el artículo anterior, el Ayuntamiento, en sesión de Cabildo y en los términos dispuestos por la legislación aplicable, emitirá el Acuerdo correspondiente, en el cual de ser favorable al solicitante, deberán asentarse los datos del beneficiario y del bien a enajenar, así como el precio de venta y la forma de pago.
 
-###### ARTÍCULO 440.
+###### Artículo 477.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+Si la solicitud de enajenación fuere acordada favorablemente, el Ayuntamiento remitirá el expediente relativo al H. Congreso, a efecto de que este o la Diputación Permanente en su caso, previa inspección cuando así se requiera, emita el acuerdo respectivo, que deberá publicarse en la Gaceta Oficial y comunicarse al Ayuntamiento y al interesado.
 
-###### ARTÍCULO 441.
+###### Artículo 478.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+Autorizada por el H. Congreso o la Diputación Permanente la enajenación respectiva, se procederá a la elaboración del instrumento notarial, en el cual se insertarán el acuerdo emitido y las restricciones a que, de conformidad con lo dispuesto en esta Sección, estará sujeto el inmueble.
 
-###### ARTÍCULO 442.
+La escrituración se efectuará ante el Notario Público que elija el adquirente, dentro de la demarcación notarial que corresponda, según la ubicación del inmueble.
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+###### Artículo 479.
 
-###### ARTÍCULO 443.
+Serán limitaciones para la enajenación a particulares, las siguientes:
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+I. No podrán adquirir en propiedad por si ni por interpósita persona más de un inmueble;
 
-###### ARTÍCULO 444.
+II. La extensión superficial no excederá de doscientos metros cuadrados, salvo las situaciones que el Ayuntamiento, el H. Congreso del Estado o la Diputación Permanente en su caso, consideren excepcionales;
 
-(DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
+III. En caso de que el precio se pague a plazos, éstos no excederán de tres años, constituyéndose en garantía real el propio bien inmueble; y
 
-### CAPÍTULO III. De los Parques y Jardines
+IV. En ningún caso podrán enajenarse a particulares, áreas de equipamiento urbano de las unidades habitacionales.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+###### Artículo 480.
 
-###### ARTÍCULO 445.
+La enajenación a particulares se sujetará a las condiciones siguientes:
 
-El presente capítulo regula el establecimiento, operación, funcionamiento, y vigilancia de las inhumaciones, exhumaciones, traslados y cremaciones que se realicen en el Municipio de Aguascalientes.
+I. Obligarse a construir y habitar su vivienda, en un plazo de dos años a partir de la fecha de notificada la autorización de enajenación por el H. Congreso;
 
-###### ARTÍCULO 446.
+II. No gravar, ni arrendar o dar en uso, aprovechamiento o en usufructo el bien inmueble adquirido dentro de los dos años siguientes a la fecha de escrituración; se exceptúa de esta disposición el gravamen que se constituya para edificar su casa habitación, siempre que medie autorización expresa del Ayuntamiento; y
 
-El servicio de panteones es de interés público, el H. Ayuntamiento siempre tendrá la rectoría del mismo, pudiendo prestarlo en forma directa o por conducto de particulares.
+III. Si en el término de dos años, el adquirente no concluye el proceso de escrituración una vez obtenido el acuerdo para su enajenación, se procederá a la rescisión administrativa del mismo.
 
-###### ARTÍCULO 447.
+###### Artículo 481.
 
-En todo panteón deberá cumplirse con las obligaciones siguientes:
+Los Notarios Públicos al otorgar las escrituras o instrumentos que contengan las enajenaciones de inmuebles, estipularán en las mismas las condiciones a que se refiere el artículo anterior. La infracción será sancionada conforme al procedimiento establecido en la Ley del Notariado y demás disposiciones legales aplicables, sin perjuicio de otras responsabilidades que pudieren resultarles. Para su ejercicio se otorga acción pública.
 
-I. Donar al H. Ayuntamiento áreas, que quedarán afectadas permanentemente a:
-
-a) Vías internas para vehículos, incluyendo andadores.
-
-b) Estacionamiento para vehículos.
-
-c) Fajas de separación entre las fosas en su caso.
-
-d) Servicios generales.
-
-e) Faja perimetral.
-
-II. Instalar en forma adecuada, a los fines del panteón, los servicios de agua potable, drenaje, energía eléctrica y alumbrado, así como pavimentar las vías internas de circulación de peatones y vehículos y áreas de estacionamiento.
-
-III. Construir barda circundante.
-
-IV. Arbolar la franja perimetral y las vías internas de vehículos en su caso.
-
-V. Conservar y mantener los servicios, instalaciones y elementos generales del panteón.
-
-VI. Cumplir con las normas básicas de salubridad vigentes.
-
-###### ARTÍCULO 448.
-
-Son facultades de la autoridad municipal, en los panteones cuyo servicio se preste por conducto de particulares las siguientes:
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
-
-I. Realizar visitas de inspección y verificación por conducto de los inspectores y/o verificadores municipales a los panteones, a fin de comprobar que se cumpla con las obligaciones a que se refiere este Código;
-
-II. Solicitar informes de los servicios prestados y del número de lotes y superficies disponibles para las inhumaciones.
-
-III. Revisar los libros de registro que están obligados a llevar las administraciones de los panteones.
-
-IV. Declarar la caducidad, extinción o revocación de las concesiones que otorgue a particulares o la rescisión de los contratos de servicios.
-
-###### ARTÍCULO 449.
-
-Son obligaciones de la autoridad municipal en el servicio de panteones, independientemente que se preste de manera directa o por conducto de particulares, las siguientes:
-
-I. Ordenar el traslado de restos humanos, cuando el panteón sea desafectado del servicio a que está destinado.
-
-II. Exhumar o autorizar en su caso el depósito en el osario común, o la incineración de los restos humanos que hayan cumplido cinco años en la sepultura y los deudos no hayan gestionado la renovación contractual.
-
-III. Retirar o derrumbar con cargo al propietario los monumentos o cualquier otra construcción que no se encuentre dentro del alineamiento que debe tener la fosa o cripta.
-
-IV. Fijar la tarifa que deberá cobrarse por los servicios funerarios, de acuerdo a la Ley de Ingresos del Municipio.
-
-V. Declarar previa opinión de las autoridades sanitarias, que un panteón se encuentra saturado, para el efecto de que ya no se realicen en él más inhumaciones.
-
-VI. Imponer las sanciones a los infractores del presente Código.
-
-###### ARTÍCULO 450.
-
-Queda prohibido dentro y en los límites de los panteones, el establecimiento de locales comerciales, de puestos semi-fijos y comerciantes ambulantes, así como la introducción o venta de bebidas alcohólicas, o de personas en estado de ebriedad.
-
-###### ARTÍCULO 451.
-
-Son obligaciones de la autoridad municipal en los panteones en los que preste el servicio directamente las siguientes:
-
-I. Mantener en buen estado los panteones del Municipio.
-
-II. Procurar la exhumación de cadáveres que hayan sido sepultados en fosas arrendadas por tiempo determinado.
-
-III. Mantener el servicio de vigilancia permanente, con el fin de evitar la introducción de personas en horas no permitidas.
-
-IV. Evitar por todos los medios, la profanación de fosas o cualquier atentado contra sus accesorios.
-
-V. Evitar la introducción de personas en estado de ebriedad y bajo los efectos de narcóticos o sustancias psicotrópicas, y en su caso, desalojar y consignar a quienes alteren el orden de los panteones.
-
-VI. Procurar el buen estado de los jardines que se encuentran dentro de los panteones.
-
-###### ARTÍCULO 452.
-
-Los panteones deben estar limpios de basura o residuos orgánicos e inorgánicos, ya sea en las calzadas o jardines, como en los lotes, debiendo la administración instalar depósitos de basura. También deben de mantener limpios de materiales de construcción por lo que, una vez dejados de utilizar, deberán ser removidos por la administración del panteón.
-
-###### ARTÍCULO 453.
-
-La administración de los panteones, deberá tener vigilancia las 24 horas del día.
-
-###### ARTÍCULO 454.
-
-Son obligaciones de los administradores de los panteones, las siguientes:
-
-I. Especificar el número de lotes y superficies disponibles para las inhumaciones, así como la localización de los mismos.
-
-II. Llevar libro de registro de inhumaciones, en el cual se anotará el nombre, apellido, edad, nacionalidad, sexo y domicilio que tuvo el difunto, la causa que determinó la muerte y la oficialía del Registro Civil que expide el acta correspondiente, asentando el número de ésta y la ubicación de la fosa que ocupa.
-
-III. Llevar un registro de los actos jurídicos, que realice la Administración con los particulares y de las resoluciones de autoridad judicial.
-
-IV. Llevar un registro de exhumaciones, reinhumaciones y cremaciones.
-
-V. Rendir a las autoridades municipales, un informe mensual de la operación de los servicios funerarios.
-
-VI. Mantener el número de trabajadores necesarios dentro del panteón, hasta que haya realizado todos los servicios iniciados durante las horas reglamentarias.
-
-VII. Establecer como horas reglamentarias de las 7:00 a las 18:00 horas.
-
-VIII. Inhumar en las fosas seleccionadas por el difunto o sus familiares.
-
-IX. Cumplir con las tarifas que determine la autoridad municipal, para el cobro de los servicios funerarios, de acuerdo con la Ley de Ingresos y de Hacienda Municipal.
-
-###### ARTÍCULO 455.
-
-Sólo por causas de fuerza mayor o en caso fortuito se permitirá que la administración del panteón señale para la inhumación, una fosa distinta a la que deba hacerse, tal situación será temporal si la causa es superable.
-
-###### ARTÍCULO 456.
-
-La administración de un panteón, sólo podrá negarse a realizar los servicios de inhumación, reinhumación, exhumación y cremación de cadáveres, si su registro no coincide con el de la autoridad municipal o se desprende que quien solicita el servicio, no tiene derecho que derive de algún acto jurídico.
-
-###### ARTÍCULO 457.
-
-(DEROGADO, P.O. 13 DE ABRIL DE 2015)
-
-###### ARTÍCULO 458.
-
-(DEROGADO, P.O. 13 DE ABRIL DE 2015)
-
-###### ARTÍCULO 459.
-
-(DEROGADO, P.O. 13 DE ABRIL DE 2015)
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2015)</small>
-
-###### ARTICULO 460.
-
-La inhumación, incineración o cremación cuando la haya, se efectuará en los panteones legalmente establecidos, previo pago correspondiente de los derechos al Municipio.
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2015)</small>
-
-###### ARTÍCULO 461.
-
-Los restos humanos remitidos a los panteones de interés social para su inhumación, por hospitales dependientes del Estado o del Municipio, no causarán el pago de los derechos correspondientes, requiriéndose en todo caso la exhibición del certificado médico de defunción. La inhumación se llevará a cabo en fosa común o según lo ordene la autoridad competente.
-
-###### ARTÍCULO 462.
-
-Los cadáveres deberán embalsamarse, inhumarse, incinerarse o cremarse dentro de las cuarenta y ocho horas posteriores al fallecimiento, salvo autorización de la autoridad sanitaria, disposición del Ministerio Público o de la autoridad judicial.
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2015)</small>
-
-###### ARTICULO 463.
-
-Ninguna exhumación podrá verificarse antes de transcurrido seis años mínimo de haber sido inhumado para las personas mayores de quince años de edad y cinco años para las personas menores de quince años de edad al momento de su fallecimiento. salvo en los casos que señale el presente Código, o por orden de la autoridad judicial, en asuntos de su competencia.
-
-###### ARTÍCULO 464.
-
-Cuando la exhumación obedezca al traslado de los restos de un lugar a otro del panteón, la reinhumación se hará inmediatamente previo pago de derechos de exhumación.
-
-###### ARTÍCULO 465.
-
-Cuando la inhumación se realice al concluir los plazos a que se refiere este Código, se considerará como restos áridos, por lo que no requerirá de autorización alguna, debiendo depositar los restos en el lugar que señalen los deudos, o en el osario común si se trata de restos no reclamados por persona alguna.
-
-###### ARTÍCULO 466.
-
-Los cadáveres no pueden ser objeto de propiedad y siempre serán objeto de respeto y consideración.
-
-###### ARTÍCULO 467.
-
-Para los efectos de este Código, los cadáveres se clasifican de la siguiente manera:
-
-I. De personas conocidas.
-
-II. De personas desconocidas.
-
-Los cadáveres no reclamados dentro de las setenta y dos horas posteriores al fallecimiento y aquellos de los que se ignore su identidad serán considerados como de personas desconocidas y podrán ser donados a instituciones educativas con fines de docencia e investigación, previa autorización de la autoridad sanitaria. También podrán ser donados los cadáveres en los que el disponente originario haya otorgado su consentimiento por escrito, mismo que no podrá ser revocado por los disponentes secundarios.
-
-###### ARTÍCULO 468.
-
-Será la Secretaría de Salud y el Instituto de Salud del Estado de Aguascalientes en el ámbito de su competencia, quienes determinarán las técnicas y procedimientos que deberán aplicarse para la conservación, depósito y manejo de cadáveres y supervisarán las condiciones sanitarias de los locales en que se presten estos servicios.
-
-###### ARTÍCULO 469.
-
-La internación de cadáveres al territorio del Municipio y su traslado a otro Municipio, Entidad Federativa o al extranjero, sólo podrán hacerse mediante autorización de la Secretaría de Salud y previa satisfacción de los requisitos que establezcan los tratados y convenios internacionales, los reglamentos de esa Ley y otros previstos en la Legislación Federal, así como el pago de derechos municipales.
-
-###### ARTÍCULO 470.
-
-Para la práctica de necropsias en cadáveres de seres humanos, se requiere la orden del Ministerio Publico, de la autoridad judicial o autorización del disponente secundario correspondiente, salvo que exista orden por escrito del disponente originario.
-
-###### ARTÍCULO 471.
-
-Las instituciones educativas que obtengan cadáveres de personas desconocidas, serán depositarias de ellos durante diez días, con objeto de dar oportunidad al cónyuge, concubinario, concubina o familiares para reclamarlos. En este lapso los cadáveres permanecerán en las instituciones y únicamente recibirán el tratamiento para su conservación y el manejo sanitario que señalen las disposiciones respectivas.
-
-Una vez concluido el plazo correspondiente, sin reclamación, serán consideradas las instituciones educativas como disponentes secundarios.
-
-###### ARTÍCULO 472.
-
-Sólo podrá darse destino final a un feto previa expedición del certificado de muerte fetal.
-
-###### ARTÍCULO 473.
-
-Los derechos sobre inspección y vigilancia de las exhumaciones, de las operaciones relativas a la conservación y al traslado de los cadáveres, serán fijados por la Ley de Ingresos y cubiertos por los interesados en la forma que la misma Ley o disposiciones generales establezcan.
-
-###### ARTÍCULO 474.
-
-Los gastos que originen las inhumaciones, exhumaciones, conservación y traslado de cadáveres, inspección de panteones y en general todos los que cause la aplicación de este Código, en horas reglamentarias, serán por cuenta de las autoridades corporacionales o personas interesadas en ello y se cubrirán en los términos que determine la Ley de Ingresos del Municipio.
-
-###### ARTÍCULO 475.
-
-Se aplicarán las sanciones que previene este Código, a las personas que infrinjan cualquiera de las obligaciones que impone este capítulo, independientemente de lo dispuesto en la Legislación Penal, en caso de tratarse de delito.
-
-### CAPITULO IV. Del Manejo de los Residuos Sólidos Municipales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2016)</small>
-
-###### ARTÍCULO 476.
-
-Las áreas verdes públicas municipales representan sitios de esparcimiento, recreación, imagen urbana y equilibrio ecológico. Comprenden lo siguiente:
-
-I. Los parques, parques de cuota, jardines vecinales, jardines tradicionales y bosques urbanos;
-
-II. Las plazas, monumentos y fuentes públicas;
-
-III. Los camellones, triángulos y glorietas;
-
-IV. La vegetación ubicada en la franja de equipamiento de las banquetas;
-
-V. Los andadores arbolados; y
-
-VI. La zona federal adyacente a los arroyos que estén dentro de la mancha urbana, y cuya administración, custodia, conservación y mantenimiento haya sido transferida al Municipio a través de acuerdos o convenios.
-
-La Secretaría de Servicios Públicos por conducto de la Dirección de Parques y Jardines es la instancia encargada de llevar a cabo el mantenimiento y conservación de las áreas verdes, que comprende la producción, propagación y plantación de especies vegetales, así como el riego, poda, fertilización, prevención y control de plagas y enfermedades, y demás actividades necesarias para el buen desarrollo de dichas áreas.
-
-También es la responsable, en coordinación con la Secretaría de Medio Ambiente y Desarrollo Sustentable y otras autoridades, en el ámbito de sus respectivas competencias, de promover y regular entre los distintos sectores de la población, la participación en los programas de forestación, reforestación y plantación, vigilancia y conservación de las áreas verdes públicas.
-
-Las áreas verdes públicas y privadas, incluyéndose las de casas habitación cuando existiera la intención e interés de afectar especies vegetales, serán objeto de vigilancia y control del municipio, por lo que cualquier acción como creación, manejo, derribo, poda, reubicación de árboles y remoción de la cubierta vegetal, tendrán que ser previamente autorizados por la autoridad municipal correspondiente.
-
-Los criterios diseño, construcción, modificación, manejo, mantenimiento, conservación, protección y restauración de los parques, jardines y áreas verdes del Municipio de Aguascalientes, se regularán conforme lo establece el Reglamento de Parques, Jardines y Áreas Verdes del Municipio de Aguascalientes.
-
-###### ARTÍCULO 477.
-
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
-
-###### ARTÍCULO 478.
-
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
-
-###### ARTÍCULO 479.
-
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
-
-###### ARTÍCULO 480.
-
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
-
-###### ARTÍCULO 481.
-
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
+#### SECCIÓN TERCERA. DE LOS INMUEBLES BALDÍOS
 
 ###### ARTÍCULO 481
 
@@ -9183,51 +8059,191 @@ Los criterios diseño, construcción, modificación, manejo, mantenimiento, cons
 
 3.- (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
-###### ARTÍCULO 482.
+###### Artículo 482.
 
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
+Son terrenos baldíos, aquellos que ubicados en las zonas urbanas y suburbanas de los municipios, carecen de propietario, edificación y posesión particular.
 
-###### ARTÍCULO 483.
+###### Artículo 483.
 
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
+El Ayuntamiento, para preservar el interés general, podrá adjudicarse los terrenos baldíos mediante el procedimiento de ocupación, con el fin de destinarlos a un servicio público y requerimientos habitacionales de interés social. La autoridad catastral municipal elaborará un padrón actualizado de terrenos baldíos ubicados dentro de las zonas urbanas y suburbanas del municipio.
 
-###### ARTÍCULO 484.
+###### Artículo 484.
 
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
+El Ayuntamiento, para efectuar la adjudicación de los terrenos baldíos, se sujetará al procedimiento siguiente:
 
-###### ARTÍCULO 485.
+I. Informes de la oficina de catastro municipal de la existencia de un terreno baldío, y del Registro Público de la Propiedad y de Comercio, de la demarcación registral correspondiente, que hagan constar que el bien o bienes baldíos no se encuentran inscritos a favor de persona alguna;
 
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
+II. Recibidos los informes a que se refiere la fracción anterior, en sesión del Cabildo, se tomará el acuerdo para proceder a la adjudicación y se ordenará publicar dicho acuerdo, por una sola vez, en la tabla de avisos del palacio municipal, que contendrá la ubicación, superficie, medidas y colindancias; concediéndose el término de treinta días naturales, contados a partir del día siguiente a su publicación, para que comparezcan los interesados a deducir sus derechos en caso de que se consideren afectados;
 
-###### ARTÍCULO 486.
+III. Dicho acuerdo será notificado de manera personal a los colindantes;
 
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
+IV. Transcurrido el término señalado en la fracción II, y no existiendo oposición legítima de terceros, el Ayuntamiento emitirá el acuerdo declarando que el bien sujeto al procedimiento pasa a ser propiedad del Municipio; y
 
-###### ARTÍCULO 487.
+V. El acuerdo declarativo será publicado por única vez en la tabla de avisos del palacio municipal y en la Gaceta Oficial del estado, remitiéndose copia certificada del acuerdo de adquisición al Registro Público de la Propiedad y del Comercio que corresponda, para que se inscriba por primera vez como título de propiedad a favor del Municipio.
 
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
+###### Artículo 485.
 
-###### ARTÍCULO 488.
+Son causas de rescisión administrativa:
 
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
+I. La falsedad de los datos proporcionados por el adquirente en su solicitud;
 
-###### ARTÍCULO 489.
+II. El incumplimiento de las disposiciones de este Libro o de alguna de las cláusulas del contrato; o
 
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
+III. Mantener el lote baldío por más de dos años, contándose este término a partir de la fecha de notificada la autorización por el H. Congreso.
 
-###### ARTÍCULO 490.
+###### Artículo 486.
 
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
+Cuando el Ayuntamiento tenga conocimiento de alguna causa de rescisión administrativa de un contrato, a solicitud de parte o de oficio, sin mayor trámite el Síndico del Ayuntamiento procederá de la forma siguiente:
+
+I. Integrará un expediente con el nombre del beneficiario del inmueble, anotando el domicilio particular donde pueda ser notificado, la ubicación del lote, superficie y estado en que se encuentra, señalando la causal de que se trate, agregando copia certificada del contrato de compraventa, expedida por el Registro Público de la Propiedad;
+
+II. Integrado el expediente, dictará acuerdo de inicio del procedimiento administrativo de rescisión;
+
+III. El acuerdo recaído se notificará al propietario en su domicilio mediante instructivo de notificación o por edicto si se desconociere, publicándolo en la Gaceta Oficial del estado y en el periódico de mayor circulación en el lugar de ubicación del lote motivo del contrato, para que surta efectos de notificación personal;
+
+IV. El propietario del inmueble dispondrá del término de nueve días hábiles, contado a partir del en que surta efectos la notificación, para que por escrito manifieste lo que a su derecho convenga y para ofrecer pruebas, señalando domicilio para recibir notificaciones; de no hacerlo, las subsecuentes se harán en la tabla de avisos del Ayuntamiento;
+
+V. Hechas las manifestaciones y ofrecidas las pruebas, dentro de los tres días hábiles siguientes se señalará día y hora para su recepción. Las pruebas que sean admitidas serán recibidas y desahogadas en la misma audiencia, comparezca o no el oferente;
+
+VI. Si transcurrido el término a que se refiere la fracción IV de este artículo, el propietario no hiciere manifestación alguna, se practicará certificación de dicha circunstancia, turnándose el expediente al Cabildo, para resolver dentro de los tres días hábiles siguientes; y
+
+VII. Celebrada la audiencia, dentro de los tres días hábiles siguientes, el Cabildo dictará resolución conforme a derecho. Esta se notificará al interesado como se prevé en la fracción III de este artículo.
+
+###### Artículo 487.
+
+Al resolverse la rescisión administrativa de un contrato celebrado conforme a este Código, el interesado tendrá derecho a que se le reintegre únicamente la cantidad que hubiere pagado por el lote, solicitándolo por escrito al Ayuntamiento.
+
+###### Artículo 488.
+
+Contra la resolución de rescisión administrativa, el interesado podrá interponer dentro de los quince días hábiles siguientes a la fecha de la notificación de la misma, ante el propio Ayuntamiento, el recurso administrativo de revocación. Admitido el recurso deberá ser resuelto por votación mayoritaria de los miembros del cabildo dentro de igual término.
+
+La interposición del recurso suspenderá de plano la ejecución de la resolución.
+
+###### Artículo 489.
+
+Cuando no se haya hecho valer el recurso de revocación o haciéndolo, se confirme la resolución, se comunicará por oficio al Encargado del Registro Público de la Propiedad de la zona registral de la ubicación del lote, para que practique la anotación marginal correspondiente y el Ayuntamiento proceda a la recuperación física del predio y realice la variación del padrón catastral como consecuencia de la rescisión administrativa.
+
+###### Artículo 490.
+
+El Ayuntamiento, para recuperar los inmuebles como consecuencia de la rescisión administrativa prevista en este Título, se sujetará a las disposiciones del Código de Procedimientos Administrativos.
+
+T R A N S I T O R I O S
+
+Primero. El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. En términos del artículo 1 del Código número 302 Hacendario Municipal para el estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el municipio de Orizaba, Veracruz, a partir de la vigencia del presente Código.
+
+Tercero. En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
+
+Cuarto. El impuesto de traslación de dominio a que se refiere el Artículo 136 del presente Código, tratándose de casa habitación, en operaciones en que la base sea menor a la cantidad de ocho mil salarios, así como de terrenos con un valor máximo de dos mil cuatrocientos salarios mínimos, se pagará una tasa de medio por ciento de la base gravable determinada, la cual estará vigente a partir de la vigencia del presente y hasta el día 31 de diciembre de 2009.
+
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2009)</small>
+
+Quinto. Los derechos a que se refieren las fracciones I y IV, del artículo 249 de este Código, se causarán de la siguiente manera:
+
+a). A partir de la entrada en vigor del presente Decreto hasta el día 31 de diciembre de 2009, aplicando las siguientes cuotas:
+
+Fracción Derechos Costo
+
+I La ocupación de espacios en Mercado Melchor:
+
+el interior de los mercados $15.00
+
+municipales se pagará Mercado V.
+
+mensualmente, por local: Carranza $25.00
+
+Mercado Emiliano
+
+Zapata:$17.00
+
+IV La ocupación temporal de la 0.035 Salarios
+
+vía pública o áreas municipales mínimos
+
+por vehículos, aparatos
+
+mecánicos o electromecánicos
+
+por tianguis, ferias o similares,
+
+puestos semifijos o ambulantes,
+
+se pagará diariamente por metro
+
+cuadrado o fracción, a razón de:
+
+b). A partir del día 1 de enero de 2010 hasta el 31 de diciembre de 2010, aplicando las siguientes cuotas:
+
+Fracción Derechos Costo en salarios
+
+Mínimos
+
+I La ocupación de espacios en 0.04
+
+el interior de los mercados
+
+municipales se pagará
+
+mensualmente, por local:
+
+IV La ocupación temporal de la 0.05
+
+vía pública o áreas municipales,
+
+por vehículos, aparatos
+
+mecánicos o electromecánicos
+
+por tianguis, ferias o similares,
+
+puestos semifijos o ambulantes,
+
+se pagará diariamente por metro
+
+cuadrado o fracción, a razón de:
+
+DADO EN EL SALÓN DE SESIONES DE LA LXI LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE, A LOS TREINTA DÍAS DEL MES DE MARZO DEL AÑO DOS MIL NUEVE.
+
+FERNANDO GONZÁLEZ ARROYO
+
+DIPUTADO PRESIDENTE
+
+Rúbrica.
+
+HUGO ALBERTO VÁSQUEZ ZÁRATE
+
+DIPUTADO SECRETARIO
+
+Rúbrica.
+
+Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG s/n de los diputados presidente y secretario de la Sexagésima Primera Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los dos días del mes de abril del año dos mil nueve.
+
+A t e n t a m e n t e
+
+Sufragio efectivo. No reelección
+
+Licenciado Fidel Herrera Beltrán
+
+Gobernador del Estado
+
+Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO</small>
+
+G.O. 31 DE JULIO DE 2009.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+G.O. 10 DE ENERO DE 2014.
 
 ###### ARTÍCULO 491.
 
 (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
-### CAPITULO V. Reglamento de Colombofilia y Colombicultura
+### CAPÍTULO XIII
 
-ARTÍCULO 491 BIS.- (DEROGADO, P.O. 13 DE ENERO DE 2014; P.O. 11 DE ABRIL DE 2016)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2011)</small>
+DE LOS DERECHOS POR OCUPACIÓN DE INMUEBLES DEL DOMINIO PÚBLICO, EL USO DE LA VÍA PÚBLICA PARA FINES COMERCIALES, EN PUESTOS FIJOS O SEMIFIJOS, U OTROS BIENES DE USO COMÚN
 
 ###### ARTÍCULO 491
 
@@ -9325,19 +8341,11 @@ VII.- Abstenerse de recoger las heces fecales de sus mascotas que sean arrojadas
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE ENERO DE 2014)</small>
 
-### CAPÍTULO I. Del Permiso Ambiental de Funcionamiento
+### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+# LIBRO CUARTO. DE LA ADMINISTRACIÓN FINANCIERA MUNICIPAL
 
-# LIBRO CUARTO. DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
-
-## TITULO QUINTO.
-
-DE LOS ESTADOS DE LA FEDERACION.
-
-> <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
+## TÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES FISCALES
 
 ###### ARTÍCULO 492.
 
@@ -9543,9 +8551,7 @@ El Municipio proporcionará las facilidades administrativas e información u ori
 
 > <small>(ADICIONADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
-### CAPITULO II. De las Areas Naturales Protegidas
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
 
 ###### ARTÍCULO 497.
 
@@ -9627,9 +8633,7 @@ Cuando la SEMADESU reciba de la autoridad Estatal o Federal un instrumento de ev
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2016)</small>
 
-### CAPÍTULO III. De la Prevención y Control de la Contaminación
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
 
 ###### ARTÍCULO 499.
 
@@ -9767,9 +8771,7 @@ Las modificaciones al programa de manejo que resulten necesarias deberán seguir
 
 ARTÍCULO 503 TER- Las áreas naturales protegidas municipales deberán ser inscritas en los programas de ordenamiento ecológico del territorio, así como en el registro público de la propiedad.
 
-### CAPÍTULO IV. De los Recursos Naturales
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
 
 ###### ARTÍCULO 504.
 
@@ -10137,9 +9139,7 @@ Asimismo, la SEMADESU hará del conocimiento de las autoridades ambientales esta
 
 La SEMADESU vigilará, con base en las Normas Oficiales Mexicanas y demás lineamientos aplicables, los niveles de ruido que generan los establecimientos mercantiles y de servicios de su competencia.
 
-### CAPÍTULO V. De la Educación Ambiental
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
 
 ###### ARTÍCULO 532.
 
@@ -10169,9 +9169,7 @@ V. Apoyar en la elaboración y actualización del inventario de las especies de 
 
 (DEROGADO, P.O. 11 DE ABRIL DE 2016)
 
-### CAPÍTULO VI. De la Participación Social y la Coordinación Gubernamental
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
 
 ###### ARTÍCULO 534.
 
@@ -10201,9 +9199,7 @@ La Secretaría de Medio Ambiente y Desarrollo Sustentable, elaborará el Program
 
 La Secretaría de Medio Ambiente y Desarrollo Sustentable instrumentara, dará seguimiento y evaluara dicho programa.
 
-### CAPÍTULO VII. De la Denuncia Popular
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 537.
 
@@ -10255,15 +9251,9 @@ VII.- Expedir su reglamento interno.
 
 (DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
-### CAPITULO I. De la Seguridad Pública
+### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
-
-#### SECCION III.
-
-DE LAS FACULTADES DEL CONGRESO.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
+#### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
 
 ###### ARTÍCULO 539.
 
@@ -10361,17 +9351,13 @@ Asimismo, en el ámbito de su competencia, impondrá las sanciones procedentes p
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
-# LIBRO QUINTO. DE LA SEGURIDAD PÚBLICA EN EL MUNICIPIO DE AGUASCALIENTES
+# LIBRO QUINTO. DE LA DEUDA PÚBLICA
 
-## TITULO SEXTO.
+## TÍTULO QUINTO. DE LOS DELITOS FISCALES
 
-DEL TRABAJO Y DE LA PREVISION SOCIAL.
+### CAPÍTULO II. DEL GASTO PÚBLICO
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
-
-### CAPÍTULO II. Estructura Orgánica y Atribuciones
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+#### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
 ###### ARTÍCULO 544.
 
@@ -10435,9 +9421,9 @@ VII. Estrados para la fijación de acuerdos, avisos y circulares.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO III. Cargos, Grados y Mandos Jerárquicos
+### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+#### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
 
 ###### ARTÍCULO 548.
 
@@ -10861,9 +9847,9 @@ XVII. Las demás que le confiera el Secretario y las disposiciones legales aplic
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO I. Derechos y Obligaciones
+### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+#### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
 
 ###### ARTÍCULO 560.
 
@@ -10973,13 +9959,11 @@ Nadie podrá ingresar a la escala jerárquica y sus equivalencias, si no ha sido
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
 
-## TITULO SEPTIMO.
+## TÍTULO PRIMERO. DE LOS IMPUESTOS
 
-PREVENCIONES GENERALES.
+### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
-### CAPÍTULO II. Sanciones y Correctivos Disciplinarios
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+#### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
 
 ###### ARTÍCULO 565.
 
@@ -11331,9 +10315,7 @@ Cuando la autoridad competente solicite la intervención de los integrantes oper
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO III. Clasificación de las Faltas
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### ARTÍCULO 572.
 
@@ -11403,9 +10385,7 @@ Si el recurso resulta procedente, quedará sin efecto la sanción o correctivo d
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO I. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
 
 ###### ARTÍCULO 577.
 
@@ -11433,13 +10413,9 @@ Las sanciones de amonestación y arresto, a que se refiere este artículo serán
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
 
-## TITULO OCTAVO.
+## TÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS Y ENTIDADES MUNICIPALES
 
-DE LAS REFORMAS DE LA CONSTITUCION.
-
-### CAPÍTULO II. De los Procesos del Sistema Integral de Desarrollo Policial
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
 ###### ARTÍCULO 580.
 
@@ -11453,9 +10429,7 @@ El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente 
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO III. De los Ejes que Integran El Sistema Integral de Desarrollo Policial
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
 
 ###### ARTÍCULO 582.
 
@@ -11741,9 +10715,7 @@ Al concluir el servicio el integrante deberá entregar al servidor público desi
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO IV. Del Sistema Complementario de Seguridad Social
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
 
 ###### ARTÍCULO 597.
 
@@ -11805,9 +10777,7 @@ La imposición de las sanciones derivadas de un procedimiento disciplinario, apl
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO I. De la Comisión de Honor y Justicia
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
 
 ###### ARTÍCULO 602.
 
@@ -11821,13 +10791,9 @@ En ningún caso, se otorgarán prestaciones Complementarias de Seguridad Social 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
 
-## TITULO NOVENO.
+## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
-DE LA INVIOLABILIDAD DE LA CONSTITUCION.
-
-### CAPÍTULO II. De la Comisión del Servicio Profesional de Carrera Policial
-
-(REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
+### CAPÍTULO VII. DE LA AFECTACIÓN DE INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
 
 ###### ARTÍCULO 604.
 
@@ -12053,9 +11019,7 @@ Contra las determinaciones dictadas por el Secretario Técnico durante la audien
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO III. De la Comisión de Normatividad Interna
-
-(REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 614.
 
@@ -12131,7 +11095,7 @@ XVII. Las demás que de manera implícita o explícita le confieran los instrume
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO ÚNICO. De las Obras de Urbanización
+### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ###### ARTÍCULO 616.
 
@@ -12195,9 +11159,7 @@ La normatividad interna que al efecto se aprobare, surtirá efectos a los cinco 
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
-## TÍTULO QUINTO. Del Consejo Municipal de Consulta y Participación Ciudadana
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+## TÍTULO CUARTO. DE LOS PRODUCTOS
 
 ###### ARTÍCULO 619.
 
@@ -12377,9 +11339,9 @@ c) Cursos por estímulo: Aquellos cursos especiales que no forman parte integral
 
 Queda a consideración de los superiores jerárquicos que correspondan, el otorgar permisos de capacitación dentro de su horario de servicio de acuerdo a la evaluación que se realice de su desempeño y participación en las actividades del servicio.
 
-# LIBRO SEXTO. DE LAS CONSTRUCCIONES EN EL MUNICIPIO DE AGUASCALIENTES
+# LIBRO SEXTO. DE LOS BIENES MUNICIPALES
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
 
 ###### ARTÍCULO 629.
 
@@ -12461,7 +11423,9 @@ No deberán usarse los edificios o predios de manera que resulte violatorio de l
 
 El ejecutar o autorizar alguna obra dentro del Municipio sin sujetarse a los preceptos de este Libro, es proceder ilegalmente y motivará las sanciones que para el efecto indique el Título correspondiente.
 
-### CAPÍTULO I. De los Peritos
+### CAPÍTULO III. DEL INVENTARIO
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 633.
 
@@ -12497,9 +11461,9 @@ Será requisito indispensable haber obtenido la constancia de terminación de la
 
 ARTÍCULOS (SIC) 635.- La documentación necesaria y requisitos para la autorización de la licencia de construcción de obra de urbanización se encuentra detallada en el apartado de requisitos para licencias de construcción de este Código y como se indica, el proyecto correspondiente deberá cumplir con las condiciones, especificaciones y normas técnicas vigentes que se indiquen por parte de cada una de las instancias y/o dependencias correspondientes.
 
-## TÍTULO SEGUNDO. DE LOS PERITOS Y DE LAS LICENCIAS DE CONSTRUCCIÓN
+## TÍTULO SEXTO. DE LAS PARTICIPACIONES FEDERALES
 
-### CAPÍTULO II. De las Licencias de Construcción
+### CAPÍTULO I. DE LOS BIENES MUEBLES
 
 ###### ARTÍCULO 636.
 
@@ -12955,7 +11919,7 @@ La Secretaría dará aviso de la suspensión al Colegio de Profesionistas respec
 
 La suspensión se dictará por un lapso de tres meses a tres años o en casos extremos, podrá ser definitiva sin liberar al perito de la obligación de subsanar las irregularidades en que haya incurrido e independientemente de las sanciones administrativas o multas que le fuesen impuestas.
 
-### CAPÍTULO III. De La Autoconstrucción
+### CAPÍTULO II. DE LOS BIENES INMUEBLES
 
 ###### ARTÍCULO 647.
 
@@ -13115,7 +12079,7 @@ III. Para obras de beneficio social que se realicen en fraccionamientos populare
 
 IV. Cuando la Secretaría lo requiera.
 
-### CAPÍTULO I. De las Licencias de Construcción
+### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 653.
 
@@ -13155,7 +12119,7 @@ Se tendrá opción a solicitar a la Secretaría, dentro del plazo de vigencia de
 
 En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Secretaría y el dictamen del Instituto Nacional de Antropología e Historia, así como el haber cumplido con la Ley de Protección y Fomento del Patrimonio Cultural del Estado de Aguascalientes.
 
-## TÍTULO TERCERO. DE LOS REQUISITOS PARA LICENCIAS DE CONSTRUCCIÓN
+## TÍTULO SÉPTIMO. DE LAS APORTACIONES FEDERALES
 
 ### CAPÍTULO II. De los Requisitos para Otorgamiento de Licencia de Construcción para casas Habitación
 
@@ -13531,7 +12495,7 @@ IV. El Código Urbano para el Estado de Aguascalientes; y
 
 V. Cuando se demuestre que la obra cumple con este Libro y los demás ordenamientos legales respectivos, la Secretaría podrá conceder el registro de obra ejecutada al propietario, quien deberá presentar la documentación que se requiere para la regularización de la Licencia de Construcción, conforme a los instructivos de trámite que se indican en el Título tercero (sic) este Libro, exceptuando la presentación de la Bitácora de Obra.
 
-## TÍTULO CUARTO. PROYECTO ARQUITECTÓNICO
+## TÍTULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
 
 ### CAPÍTULO II. Espacios sin Construir
 
@@ -16357,7 +15321,7 @@ En todos los cementerios podrán construirse capillas para usos religiosos, debi
 
 Los propietarios de monumentos y capillas, están obligados a la conservación de ellos. Si alguna de estas construcciones amenaza ruina, la administración deberá requerir al propietario para que la repare o reconstruya. En el caso de que el propietario no sea encontrado en un lapso razonable, la Administración del cementerio pedirá a la Secretaría, autorización para demoler la construcción. Esta última comprobará el estado de ruina y dará autorización para que se haga la destrucción del monumento funerario o mausoleo por cuenta de la misma Administración.
 
-## TÍTULO QUINTO. REQUISITOS ESTRUCTURALES
+## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
 
 ### CAPÍTULO II. Características de las Edificaciones
 
@@ -17571,7 +16535,7 @@ En todo caso deberá comprobarse mediante exploraciones directas que el suelo do
 
 Por último, por lo que toca a las especificaciones que aparecen en las Normas sobre el diseño, construcción y pruebas de carga para cimentaciones de tipo profundo, no se descarta la posibilidad de que en un futuro se necesiten utilizar dichos sistemas en la ciudad de Aguascalientes.
 
-## TÍTULO SEXTO. EJECUCIÓN DE OBRAS
+## TÍTULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
 
 ### CAPÍTULO II. Materiales de Construcción y Obras en la Vía Pública
 
@@ -18249,7 +17213,7 @@ Los elementos ornamentales o decorativos que se incorporen a la construcción y 
 
 Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumentos y otros similares, deberán proyectarse y construirse de conformidad con lo dispuesto en este Libro.
 
-## TITULO SÉPTIMO. USO, OPERACIÓN Y MANTENIMIENTO
+## TÍTULO ÚNICO
 
 ### CAPÍTULO II. Mantenimiento
 
@@ -18337,7 +17301,7 @@ La orden de desocupación no prejuzga sobre los derechos u obligaciones que exis
 
 La Secretaría podrá clausurar como medida de seguridad, las obras terminadas o en ejecución, cuando ocurra alguna de las circunstancias previstas en este Libro.
 
-## TÍTULO OCTAVO. DE LA REGLAMENTACIÓN PARA LA AUTORIZACIÓN, CONTROL Y VIGILANCIA DE LOS USOS DE SUELO
+## TÍTULO PRIMERO. DE LOS BIENES EN GENERAL
 
 ### CAPÍTULO II. De los Requisitos para Solicitar las Autorizaciones de Constancia de Alineamiento y Compatibilidad Urbanística, Fusión, Subdivisión y Relotificación de Predios
 
@@ -19097,7 +18061,7 @@ La Secretaría una vez recibida la denuncia popular, integrará el expediente re
 
 El desahogo del procedimiento referido en este capítulo, no excederá de treinta días naturales, desde la fecha en que se reciba la denuncia, salvo que exista causa justificada que lo impida.
 
-## TÍTULO NOVENO. DE LA REGLAMENTACIÓN EN MATERIA DE ANUNCIOS
+## TÍTULO SEGUNDO. DEL DOMINIO Y ADMINISTRACIÓN DE LOS BIENES
 
 ### CAPÍTULO II. De los Trámites Administrativos y Registros
 
@@ -20571,9 +19535,7 @@ El desahogo del procedimiento referido en este capítulo, no excederá de quince
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ENERO DE 2014)</small>
 
-## TÍTULO PRIMERO. DE LA NORMATIVIDAD DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+## TÍTULO TERCERO
 
 ### CAPÍTULO II. De las Autoridades
 
@@ -25845,86 +24807,6 @@ La Suprema Corte de Justicia de la Nación, resolverá los amparos que estuviere
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, queda facultado para expedir la ley electoral, conforme a la cual deberán celebrarse, esta vez, las elecciones para integrar los Poderes de la Unión.
 
-###### Art. 10o.
-
-Los que hubieren figurado en el Gobierno emanado de la rebelión, contra el legítimo de la República, o cooperado a aquélla, combatiendo después con las armas en la mano, o sirviendo empleos o cargos de las facciones que han atacado al Gobierno Constitucionalista, serán juzgados por las leyes vigentes, siempre que no hubieren sido indultados por éste.
-
-###### Art. 11o.
-
-Entre tanto el Congreso de la Unión y los de los Estados legislan sobre los problemas agrario y obrero, las bases establecidas por esta Constitución para dichas leyes, se pondrán en vigor en toda la República.
-
-###### Art. 12o.
-
-Los mexicanos que hayan militado en el Ejército Constitucionalista, los hijos y viudas de éstos, y las demás personas que hayan prestado servicios a la causa de la Revolución o a la Instrucción Pública, tendrán preferencia para la adquisición de fracciones a que se refiere el artículo 27 y derecho a los descuentos que las leyes señalarán.
-
-###### Art. 13o.
-
-Quedan extinguidas de pleno derecho las deudas que por razón de trabajo hayan contraído los trabajadores, hasta la fecha de esta Constitución, con los patronos, sus familiares o intermediarios.
-
-> <small>(REFORMADO, D.O.F. 8 DE JULIO DE 1921)</small>
-
-###### Art. 14o.
-
-Queda suprimida la Secretaría de Justicia.
-
-###### Art. 15.
-
-Se faculta al C. Encargado del Poder Ejecutivo de la Unión para que expida la ley de responsabilidad civil aplicable a los autores, cómplices y encubridores de los delitos cometidos contra el orden constitucional en el mes de febrero de 1913 y contra el Gobierno Constitucionalista.
-
-###### Art. 16.
-
-El Congreso Constitucional en el período ordinario de sus sesiones, que comenzará el 1o. de septiembre de este año, expedirá todas las leyes orgánicas de la Constitución que no hubieren sido ya expedidas en el período extraordinario a que se refiere el artículo 6o. transitorio, y dará preferencia a las leyes relativas a Garantías Individuales, y artículos 30, 32, 33, 35, 36, 38, 107 y parte final del artículo 111 de esta Constitución.
-
-> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 1986)</small>
-
-###### Art. 17.
-
-Los Diputados que se elijan a la LIV Legislatura del Congreso de la Unión, durarán en funciones del 1o. de septiembre de 1988 hasta el 31 de octubre de 1991.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
-
-###### Art. 18.
-
-Los senadores que se elijan a las LIV y LV Legislaturas del Congreso de la Unión durarán en funciones del 1o. de septiembre de 1988 al 31 de octubre de 1994, y los que se elijan para la LIV Legislatura, que serán los nombrados en segundo lugar, durarán en funciones del 1o. de septiembre de 1988 al 31 de octubre de 1991.
-
-> <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
-
-Dada en el Salón de Sesiones del Congreso Constituyente en Querétaro, a treinta y uno de enero de mil novecientos diecisiete.- Presidente: Luis Manuel Rojas, Diputado por el Estado de Jalisco.- Primer Vice-Presidente: Gral. de División Cándido Aguilar, Diputado por el Estado de Veracruz.- Segundo Vice-Presidente: Gral. Brigadier Salvador González Torres, Diputado por el Estado de Oaxaca.- Diputado por el Estado de Aguascalientes: Daniel Cervantes.- Diputado por el Territorio de la Baja California: Ignacio Roel.- Diputados por el Estado de Coahuila: M. Aguirre Berlanga, José Ma. Rodríguez, Jorge E. Von Versen, Manuel Cepeda Medrano, José Rodríguez González (Suplente).- Diputado por el Edo. de Colima: Francisco Ramírez Villarreal.- Diputados por el Edo. de Chiapas: Enrique Suárez, Lisandro López, Daniel A. Cepeda, Cristóbal Ll. y Castillo, J. Amilcar Vidal.- Diputado por el Edo. de Chihuahua: Manuel M. Prieto.- Diputados por el Distrito Federal: Gral. Ignacio L. Pesqueira, Lauro López Guerra, Gerzayn Ugarte, Amador Lozano, Félix F. Palavicini, Carlos Duplán, Rafael L. de los Ríos, Arnulfo Silva, Antonio Norzagaray, Ciro B. Ceballos, Alfonso Herrera, Román Rosas y Reyes (Suplente), Lic. Francisco Espinosa (Suplente).- Diputados por el Edo. de Durango: Silvestre Dorador, Lic. Rafael Espeleta, Antonio Gutiérrez, Dr. Fernando Gómez Palacio, Alberto Terrones B., Jesús de la Torre.- Diputados por el Edo. de Guanajuato: Gral. Lic. Ramón Frausto, Ing. Vicente M. Valtierra, José N. Macías, David Peñaflor, José Villaseñor, Santiago Manrique, Lic. Hilario Medina, Manuel G. Aranda, Enrique Colunga, Ing. Ignacio López, Dr. Francisco Díaz Barriga, Nicolás Cano, Tte. Crnl. Gilberto N. Navarro, Luis Fernández Martínez, Luis M. Alcocer (Suplente), Ing. Carlos Ramírez Llaca.- Diputados por el Edo. de Guerrero: Fidel Jiménez, Fidel Guillén, Francisco Figueroa.- Diputados por el Edo. de Hidalgo: Antonio Guerrero, Leopoldo Ruiz, Lic. Alberto M. González, Rafael Vega Sánchez, Alfonso Cravioto, Matías Rodríguez, Ismael Pintado Sánchez, Lic. Refugio M. Mercado, Alfonso Mayorga.- Diputados por el Edo. de Jalisco: Marcelino Dávalos, Federico E. Ibarra, Manuel Dávalos Ornelas, Francisco Martín del Campo, Bruno Moreno, Gaspar Bolaños B., Juan de Dios Robledo, Ramón Castañeda y Castañeda, Jorge Villaseñor, Gral. Amado Aguirre, José I. Solórzano, Francisco Labastida Izquierdo, Ignacio Ramos Praslow, José Manzano, Joaquín Aguirre Berlanga, Gral. Brigadier Esteban B. Calderón, Paulino Machorro y Narváez, Crnl. Sebastián Allende, Jr.- Diputados por el Edo. de México: Aldegundo Villaseñor, Fernando Moreno, Enrique O'Fárril, Guillermo Ordorica, José J. Reynoso, Antonio Aguilar, Juan Manuel Giffard, Manuel A. Hernández, Enrique A. Enríquez, Donato Bravo Izquierdo, Rubén Martí.- Diputados por el Edo. de Michoacán: José P. Ruíz, Alberto Peralta, Cayetano Andrade, Uriel Avilés, Gabriel R. Cervera, Onésimo López Couto, Salvador Alcaraz Romero, Manuel Martínez Solórzano, Martín Castrejón, Lic. Alberto Alvarado, José Alvarez, Rafael Márquez, José Silva Herrera, Amadeo Betancourt, Francisco J. Múgica, Jesús Romero Flores.- Diputados por el Edo. de Morelos: Antonio Garza Zambrano, Alvaro L. Alcázar, José L. Gómez.- Diputados por el Edo. de Nuevo León: Manuel Amaya, Nicéforo Zambrano, Luis Ilizaliturri, Crnl. Ramón Gámez, Reynaldo Garza, Plutarco González, Lorenzo Sepúlveda (Suplente).- Diputados por el Edo. de Oaxaca: Juan Sánchez, Leopoldo Payán, Lic. Manuel Herrera, Lic. Porfirio Sosa, Lic. Celestino Pérez Jr., Crisóforo Rivera Cabrera, Crnl. José F. Gómez, Mayor Luis Espinosa.- Diputados por el Edo. de Puebla: Dr. Salvador R. Guzmán, Lic. Rafael P. Cañete, Miguel Rosales, Gabriel Rojana, Lic. David Pastrana Jaimes, Froylán C. Manjarrez, Tte. Crnl. Antonio de la Barrera, Mayor José Rivera, Crnl. Epigmenio A. Martínez, Pastor Rouaix, Crnl. de Ings. Luis T. Navarro, Tte. Crnl. Federico Dinorín, Gral. Gabino Bandera Mata, Crnl. Porfirio del Castillo, Crnl. Dr. Gilberto de la Fuente, Alfonso Cabrera, José Verástegui.- Diputados por el Edo. de Querétaro: Juan N. Frías, Ernesto Perrusquía.- Diputados por el Edo. de San Luis Potosí: Samuel M. Santos, Dr. Arturo Méndez, Rafael Martínez Mendoza, Rafael Nieto, Dionisio Zavala, Gregorio A. Tello, Rafael Curiel, Cosme Dávila (Suplente).- Diputados por el Edo. de Sinaloa: Pedro R. Zavala, Andrés Magallón, Carlos M. Ezquerro, Cándido Avilés, Emiliano C. García.- Diputados por el Edo. de Sonora: Luis G. Monzón, Ramón Ross.- Diputados por el Edo. de Tabasco: Lic. Rafael Martínez de Escobar, Santiago Ocampo, Carmen Sánchez Magallanes,- Diputados por el Edo. de Tamaulipas: Crnl. Pedro A. Chapa, Ceferino Fajardo, Fortunato de la Híjar, Emiliano Próspero Nafarrete.- Diputados por el Territorio de Tepic: Tte. Crnl. Cristóbal Limón, Mayor Marcelino Sedano, Juan Espinosa Bávara.- Diputados por el Edo. de Tlaxcala: Antonio Hidalgo, Ascensión Tépal, Modesto González y Galindo.- Diputados por el Edo. de Veracruz: Saúl Rodiles, Enrique Meza, Benito Ramírez G., Eliseo L. Céspedes, Adolfo G. García, Josafat F. Márquez, Alfredo Solares, Alberto Román, Silvestre Aguilar, Angel S. Juarico, Heriberto Jara, Victorio N. Góngora, Carlos L. Gracidas (Suplente), Marcelo Torres, Juan de Dios Palma, Galdino H. Casados, Fernando A. Pereyra.- Diputados por el Edo. de Yucatán: Enrique Recio, Miguel Alonso Romero, Héctor Victoria A.- Diputados por el Edo. de Zacatecas: Adolfo Villaseñor, Julián Adame, Jairo R. Dyer, Samuel Castañón, Andrés L. Arteaga, Antonio Cervantes, Crnl. Juan Aguirre Escobar.- Secretario: Fernando Lizardi, Diputado por el Edo. de Guanajuato.- Secretario: Ernesto Meade Fierro, Diputado por el Edo. de Coahuila.- Secretario: José M. Truchuelo, Diputado por el Edo. de Querétaro.- Secretario: Antonio Ancona Albertos, Diputado por el Edo. de Yucatán.- Prosecretario: Dr. Jesús López Lira, Diputado por el Edo. de Guanajuato.- Prosecretario: Fernando Castaños, Diputado por el Edo. de Durango.- Prosecretario: Juan de Dios Bojórquez, Diputado por el Edo. de Sonora.- Prosecretario: Flavio A. Bórquez, Diputado por el Edo. de Sonora.
-
-Por tanto, mando se imprima, circule y publique por bando solemne y pregón en toda la República para su debido cumplimiento.
-
-Dado en el Palacio Nacional de la Ciudad de Querétaro, el 5 de febrero de 1917.- V. CARRANZA.- Rúbrica.
-
-Al C. Lic. Manuel Aguirre Berlanga, Subsecretario Encargado del Despacho de Gobernación.- México.
-
-Lo que hónrome en comunicar a usted para su publicación y demás efectos.
-
-Constitución y Reformas.- México, cinco de febrero de mil novecientos diez y siete.- AGUIRRE BERLANGA.
-
-Al Ciudadano ..
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
-
-D.O.F. 8 DE JULIO DE 1921.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 24 DE NOVIEMBRE DE 1923.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 22 DE ENERO DE 1927.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 24 DE ENERO DE 1928.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 20 DE AGOSTO DE 1928.
-
-LEY QUE REFORMA LOS ARTICULOS 73, 74, 76, 79, 89, 94, 96, 97, 98, 99, 100 Y 111.
-
 ###### ARTICULO PRIMERO.
 
 La presente reforma entrará en vigor el día 15 de diciembre del año en curso.
@@ -25968,44 +24850,6 @@ Las reformas constitucionales a que se contrae la presente ley, entrarán en vig
 Los actuales Ministros de la Suprema Corte de Justicia de la Nación quedarán sujetos a la ratificación de sus nombramientos por el Presidente de la República, con aprobación del Senado.
 
 Los actuales Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, quedarán sujetos a la ratificación de sus nombramientos por el Presidente de la República, con aprobación de la Cámara de Diputados. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Ministros y Magistrados.
-
-###### ARTICULO 3o.
-
-Los actuales Magistrados de Circuito y Jueces de Distrito quedarán sujetos a la ratificación de sus nombramientos por la Suprema Corte de Justicia de la Nación, que decidirá si los ratifica dentro del término de sesenta días a contar de la fecha en que la misma Suprema Corte quede integrada, de acuerdo con el presente Decreto. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Magistrados y Jueces.
-
-###### ARTICULO 4o.
-
-Los actuales Jueces del Orden Común del Distrito Federal y de los Territorios, quedarán sujetos a la ratificación de sus nombramientos por el Tribunal Superior de Justicia del Distrito Federal, que decidirá si los ratifica dentro del término de sesenta días a contar de la fecha en que el mismo Tribunal Superior de Justicia quede integrado, de acuerdo con el presente Decreto. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Jueces.
-
-D.O.F. 20 DE AGOSTO DE 1928.
-
-LEY QUE REFORMA EL ARTICULO 52 Y EL PARRAFO CUARTO DE LA FRACCION III DEL ARTICULO 115.
-
-PRIMERO.- La reforma del artículo 52 constitucional entrará en vigor al verificarse las elecciones para integrar la Cámara de Diputados del XXXIV Congreso de la Unión, en el año de 1930.
-
-SEGUNDO.- La división territorial que servirá de base para la elección de los Diputados a la XXXIV Legislatura de la Unión, será con sujeción al presente Decreto.
-
-TERCERO.- Las reformas al párrafo cuarto de la fracción III del artículo 115 constitucional, surtirán sus efectos en las elecciones de diputados a las Legislaturas de los Estados, en las fechas en que, de conformidad con sus Constituciones Políticas locales y leyes electorales respectivas, se verifiquen, a partir de la promulgación de la presente ley.
-
-D.O.F. 20 DE AGOSTO DE 1928.
-
-LEY QUE REFORMA LAS BASES 1a., 2a., Y 3a. DE LA FRACCION VI DEL ARTICULO 73.
-
-Unico.- Esta ley entrará en vigor el día primero de enero de mil novecientos veintinueve.
-
-D.O.F. 6 DE SEPTIEMBRE DE 1929.
-
-LA LEY DE REFORMAS CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 7 DE FEBRERO DE 1931.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 19 DE DICIEMBRE DE 1931.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 27 DE ABRIL DE 1933.
 
 ###### ARTICULO PRIMERO.
 
@@ -26221,86 +25065,6 @@ D.O.F. 15 DE DICIEMBRE DE 1934.
 
 DECRETO QUE REFORMA EL ARTICULO 32.
 
-###### ARTICULO 1o.
-
-Se concede un plazo de seis meses a los agentes aduanales que en la actualidad funcionen sin tener la calidad de ciudadanos mexicanos por nacimiento para que hagan entrega de sus oficinas respectivas.
-
-###### ARTICULO 2o.
-
-Este Decreto entrará en vigor desde la fecha de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 16 DE ENERO DE 1935.
-
-###### ARTICULO 1o.
-
-La presente reforma entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
-
-###### ARTICULO 2o.
-
-Los bienes inmuebles ubicados en la nueva entidad federativa, que pasaron a ser propiedad de los Estados de Yucatán y Campeche, con motivo del Decreto de 24 de octubre de 1932, así como los que con posterioridad se hubieren destinado al servicio público, pertenecerán al territorio de Quintana Roo; lo mismo se observará respecto de los bienes muebles que tengan igual destino, ya se encuentren dentro de los inmuebles de referencia o fuera de ellos.
-
-###### ARTICULO 3o.
-
-La organización política y judicial del Territorio de Quitana (sic) Roo, se regirá transitoriamente, en tanto no se reformen las leyes en vigor, por las que le eran aplicables el 14 de diciembre de 1931, en todo lo que no pugnen con la Constitución Federal.
-
-###### ARTICULO 4o.
-
-Las deudas pendientes hasta la fecha en que entre en vigor esta reforma, y que hubieren contraído los Estados de Yucatán y Campeche, con motivo de la administración del territorio anexado, quedarán a cargo de los Erarios respectivos y a su favor, igualmente, los créditos pendientes constituídos por el mismo objeto.
-
-###### ARTICULO 5o.
-
-Los Estados de Yucatán y Campeche, una vez que entre en vigor esta reforma constitucional, harán entrega a las autoridades de la nueva entidad de los archivos y expedientes que obren en las Oficinas Administrativas y en los Tribunales del lugar.
-
-D.O.F. 18 DE ENERO DE 1935.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 6 DE DICIEMBRE DE 1937.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 12 DE AGOSTO DE 1938.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 31 DE DICIEMBRE DE 1938.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 11 DE SEPTIEMBRE DE 1940.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 9 DE NOVIEMBRE DE 1940.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 14 DE DICIEMBRE DE 1940.
-
-DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 14 DE DICIEMBRE DE 1940.
-
-DECRETO QUE ADICIONA LA BASE SEGUNDA DE LA FRACCION VI DEL ARTICULO 73.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 24 DE OCTUBRE DE 1942.
-
-UNICO.- La presente Ley entrará en vigor el día 1º del mes siguiente al en que sea publicada en el "Diario Oficial" de la Federación.
-
-D.O.F. 17 DE NOVIEMBRE DE 1942.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 18 DE NOVIEMBRE DE 1942.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 30 DE DICIEMBRE DE 1942.
-
 ###### ARTICULO QUINTO.
 
 Las Salas correspondientes de la Suprema Corte de Justicia resolverán los amparos directos, penales o del trabajo, por violaciones cometidas durante la secuela del procedimiento, que se hayan promovido con anterioridad a la fecha en que entren en vigor las presentes reformas y que, en lo sucesivo, de acuerdo con la fracción VI del artículo 107, serán de la competencia de los Tribunales Colegiados de Circuito.
@@ -26348,88 +25112,6 @@ D.O.F. 24 DE OCTUBRE DE 1967.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 25 DE OCTUBRE DE 1967.
-
-###### ARTICULO 1o.
-
-Estas reformas entrarán en vigor el mismo día que entren en vigor las reformas a la Ley Orgánica del Poder Judicial de la Federación y a la Ley Reglamentaria de los artículos 103 y 107 de la Constitución Federal, que habrán de expedirse como consecuencia de estas mismas reformas.
-
-###### ARTICULO 2o.
-
-Los ministros supernumerarios se constituirán en Sala Auxiliar para resolver los amparos contra leyes, que integran el rezago. La Sala Auxiliar dictará sentencia con sujeción a la jurisprudencia del Pleno y estudiará también cuando proceda los conceptos de violación que se refieran a cuestiones de legalidad. Estos asuntos se le turnarán desde luego si sobre su materia existe jurisprudencia, y los demás del rezago, a medida que la jurisprudencia del Pleno se vaya definiendo. Asimismo, resolverá sobre los asuntos que la Ley Orgánica del Poder Judicial de la Federación le encomiende para desahogar el rezago que exista en las Salas de la Suprema Corte de Justicia. Cuando la Sala Auxiliar hubiere de participar en la resolución de conflictos jurisprudenciales con cualquiera de las otras Salas, los ministros supernumerarios que la integren formarán parte del Pleno. Entre tanto funcione la Sala Auxiliar, los ministros que la integren no desempeñarán las atribuciones que como supernumerarios les asigna la ley.
-
-###### ARTICULO 3o.
-
-Los amparos contra sentencias definitivas dictadas por el Tribunal Fiscal de la Federación, pendientes de resolución ante los Juzgados de Distrito, que en términos de estas reformas deben ser directos, se remitirán a los Tribunales Colegiados de Circuito y en su caso a la Suprema Corte de Justicia.
-
-###### ARTICULO 4o.
-
-Los amparos directos o en revisión que en la actualidad radican en la Suprema Corte de Justicia y que, conforme a la ley, pasan a ser de la competencia de los Tribunales Colegiados de Circuito, se enviarán desde luego, para su resolución, al que corresponda. Si existen dos o más tribunales en un mismo circuito, se les distribuirán proporcionalmente.
-
-###### ARTICULO 5o.
-
-En los juicios de amparo a que se refiere la fracción V del artículo 107 y que, de acuerdo con las presentes reformas, deben ser turnados a la Suprema Corte de Justicia, ésta conocerá tanto de las violaciones procesales como del fondo del negocio.
-
-###### ARTICULO 6o.
-
-En los casos en que, en los Juzgados de Distrito, se hubiera pronunciado el fallo de primera instancia y contra él se hubiera interpuesto en tiempo el recurso de revisión, la sentencia será revisable por el tribunal que tendría competencia para conocer del amparo directo, según las presentes reformas.
-
-###### ARTICULO 7o.
-
-En los asuntos en trámite ante los Juzgados de Distrito, los Tribunales Colegiados de Circuito y la Suprema Corte de Justicia, en los que no se hubiera pronunciado resolución definitiva al entrar en vigor las presentes reformas, para decretar el sobreseimiento del amparo o la caducidad de la instancia, se requiere que transcurra un término de trescientos días, incluyendo los inhábiles, sin que el quejoso o el recurrente, en su caso, haya hecho promoción o se haya registrado acto procesal alguno en los autos. Dicho término se contará a partir del día siguiente en que entren en vigor estas reformas.
-
-###### ARTICULO 8o.
-
-Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias para la efectividad e inmediato cumplimiento de las presentes reformas.
-
-D.O.F. 22 DE DICIEMBRE DE 1969.
-
-UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 26 DE DICIEMBRE DE 1969.
-
-UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 6 DE JULIO DE 1971.
-
-DECRETO QUE REFORMA EL ARTICULO 74 Y ADICIONA EL ARTICULO 79.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 6 DE JULIO DE 1971.
-
-DECRETO QUE ADICIONA LA BASE 4a. DE LA FRACCION XVI DEL ARTICULO 73.
-
-UNICO.- La presente reforma entrará en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 22 DE OCTUBRE DE 1971.
-
-UNICO.- La presente reforma entrará en vigor el mismo día que entre en vigor la Ley Federal Reglamentaria a que la misma se refiere.
-
-D.O.F. 14 DE FEBRERO DE 1972.
-
-DECRETO QUE REFORMA Y ADICIONA LOS ARTICULOS 52, 54 FRACCIONES I, II Y III; 55 FRACCION II Y 58.
-
-TRANSITORIO.- Las presentes reformas y adiciones entrarán en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 14 DE FEBRERO DE 1972.
-
-DECRETO QUE REFORMA LA FRACCION XII DEL APARTADO A DEL ARTICULO 123.
-
-UNICO.- La presente reforma entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 10 DE NOVIEMBRE DE 1972.
-
-UNICO.- La presente reforma y adición entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 31 DE ENERO DE 1974.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 20 DE MARZO DE 1974.
-
-UNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 8 DE OCTUBRE DE 1974.
 
 ###### ARTICULO PRIMERO.
 
@@ -26975,53 +25657,63 @@ QUINTO. El Municipio realizará, a partir de la publicación del presente decret
 
 P.O. 4 DE ENERO DE 2016.
 
-## [N. DE E. TRANSITORIO DE LA “REFORMA DEL ARTÍCULO 138 OCTIES DEL CÓDIGO MUNICIPAL; Y REFORMA AL ARTÍCULO 16 DEL REGLAMENTO INTERIOR DE LA COMISIÓN PARA ERRADICACIÓN DE LA VIOLENCIA LABORAL”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 235 QUE REFORMA EL ARTÍCULO 122, PÁRRAFO PRIMERO, DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE ORIZABA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y EL ARTÍCULO 5, FRACCIÓN I, DE LA LEY DE INGRESOS DEL MUNICIPIO DE ORIZABA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2014”.]
 
-UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y serán aplicables incluso a los procedimientos que se encuentren en trámite.
+Único. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
 
-P.O. 4 DE ENERO DE 2016.
+G.O. 13 DE MARZO DE 2015.
 
-## [N. DE E. TRANSITORIO DE "REFORMAS Y ADICIONES AL ARTÍCULO 109 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 548 QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 246 DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y LOS CORRELATIVOS DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, ORIZABA, TIERRA BLANCA Y VERACRUZ".]
 
-ÚNICO.- Las disposiciones del presente Dictamen entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
 
-P.O. 4 DE ENERO DE 2016.
+Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIO DE LA “ADICIÓN DEL ARTÍCULO 1156 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+G.O. 8 DE JUNIO DE 2016.
 
-Único. La presente adición al Código Municipal de Aguascalientes entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 869 POR EL QUE SE REFORMA EL ARTÍCULO 382 DEL CÓDIGO NÚMERO 542 HACENDARIO PARA EL MUNICIPIO DE ORIZABA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-P.O. 11 DE ABRIL DE 2016.
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DICTAMEN QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+G.O. 26 DE DICIEMBRE DE 2017.
 
-Único.- Las presentes reformas al Código Municipal de Aguascalientes, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-P.O. 11 DE ABRIL DE 2016.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-## [N. DE E. TRANSITORIO DEL “DICTAMEN QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+G.O. 30 DE MAYO DE 2019.
 
-P.O. 11 DE ABRIL DE 2016.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 245 QUE ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ, Y A LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, ORIZABA, PAPANTLA, TIERRA BLANCA Y XALAPA, DEL ESTADO DE VERACRUZ".]
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 330, POR EL QUE "SE REFORMAN Y DEROGAN INCISOS DEL ARTÍCULO 1156 BIS, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-Único.- La presente reforma al Código Municipal de Aguascalientes entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 11 DE ABRIL DE 2016.
+G.O. 30 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIO DE LA “REFORMA DE LOS ARTÍCULOS 637, 639 Y 643 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 246 QUE REFORMA LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DE MINATITLÁN Y TUXPAN, AMBAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTES AL EJERCICIO FISCAL DEL AÑO 2019; Y LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, ORIZABA, TIERRA BLANCA Y VERACRUZ, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-ÚNICO: La presente reforma al Código Municipal de Aguascalientes entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
-P.O. 19 DE SEPTIEMBRE DE 2016.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIO DE “MODIFICACIONES Y ADICIONES A DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, ASÍ COMO AL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES”.]
+G.O. 15 DE OCTUBRE DE 2019.
 
-ÚNICO. La presente reforma entrará en vigor al día siguiente de su presentación en el Periódico oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 292 QUE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 73 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS, RECORRIÉNDOSE LAS SUBSECUENTES; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 230 DEL CÓDIGO HACENDARIO MUNICIPAL, ASÍ COMO A DIVERSAS DISPOSICIONES DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, MISANTLA, PAPANTLA, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-P.O. 3 DE OCTUBRE DE 2016.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 839 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO HACENDARIO MUNICIPAL, A LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, MISANTLA, ORIZABA, PAPANTLA, TIERRA BLANCA, VERACRUZ Y XALAPA, ASÍ COMO AL CÓDIGO DE DERECHOS Y A LA LEY DE CAMINOS Y PUENTES, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL".]
 
@@ -27059,84 +25751,6 @@ Se crean las comisiones estatales electorales de los Estados de Baja California 
 
 ###### ARTICULO OCTAVO.
 
-Se creará un comité distrital electoral en cada uno de los siete distritos electorales en que se dividan los Estados de Baja California Sur y Quintana Roo.
-
-Los comités distritales electorales estarán integrados por un presidente, un secretario y un vocal designados por las comisiones estatales electorales y por un comisionado de cada uno de los partidos políticos nacionales. Por cada miembro propietario se designará un suplente.
-
-###### ARTICULO NOVENO.
-
-Las comisiones estatales electorales, en su primera sesión, harán la división de los Estados de Baja California Sur y Quintana Roo, en siete distritos electorales y elaborarán el calendario de plazos a que se sujetará el proceso comicial.
-
-###### ARTICULO DECIMO.
-
-Podrán registrar fórmulas de candidatos para participar en las elecciones de las legislaturas constituyentes, los partidos políticos nacionales.
-
-###### ARTICULO DECIMO PRIMERO.
-
-En las elecciones de las legislaturas constituyentes se usarán las credenciales permanentes de elector expedidas por el Registro Nacional de Electores para las elecciones federales. Las delegaciones del Registro Nacional de Electores colaborarán y auxiliarán, dentro de sus funciones, a las comisiones estatales y comités distritales electorales.
-
-###### ARTICULO DECIMO SEGUNDO.
-
-Los comités distritales electorales expedirán la constancia de mayoría a las fórmulas de candidatos que la hayan obtenido. Las comisiones estatales electorales resolverán sobre el registro o negativa de registro de las constancias de mayoría.
-
-###### ARTICULO DECIMO TERCERO.
-
-Los presuntos diputados constituyentes, sin necesidad de citación, se reunirán en el recinto que señalen las convocatorias, el 25 de noviembre y constituidos en juntas preparatorias, nombrarán de entre sus miembros, en escrutinio secreto y a mayoría de votos, un Presidente, un Vicepresidente y un Secretario.
-
-En esta reunión, los presuntos diputados presentarán los documentos que los acrediten.
-
-Para la integración y funcionamiento de las juntas preparatorias, estudio y calificación de las elecciones e instalación de la legislatura constituyente, se aplicarán, en lo conducente, las disposiciones del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos.
-
-###### ARTICULO DECIMO CUARTO.
-
-Las comisiones estatales electorales enviarán a las juntas preparatorias los paquetes relativos a las elecciones de las legislaturas constituyentes y éstas procederán a calificar las elecciones de sus propios miembros. Sus resoluciones serán inapelables.
-
-###### ARTICULO DECIMO QUINTO.
-
-En tanto se expide la Constitución Política de cada uno de los Estados de Baja California Sur y Quintana Roo continuará vigente la legislación que ha regido en los Territorios, excepto en aquellos que pugne con su soberanía. La Hacienda Pública de los Estados se integrará con los ingresos y egresos que determinan las leyes fiscales de los territorios.
-
-El Congreso de la Unión decretará las leyes de ingresos y la Cámara de Diputados los presupuestos de egresos para el año fiscal de 1975, los que regirán provisionalmente en tanto los órganos competentes de los Estados decretan sus propias normas.
-
-###### ARTICULO DECIMO SEXTO.
-
-Mientras se constituye el Poder Judicial de los Estados de Baja California Sur y Quintana Roo conforme a sus respectivas constituciones políticas, la administración de justicia estará a cargo de un Tribunal Superior de Justicia compuesto de tres magistrados y del número y categoría de los juzgados que funcionan actualmente. Los magistrados serán nombrados por los gobernadores provisionales, y los jueces por los Tribunales Superiores de Justicia.
-
-Los gobernadores provisionales nombrarán también al Procurador General de Justicia del Estado respectivo y a los agentes del Ministerio Público.
-
-###### ARTICULO DECIMO SEPTIMO.
-
-El Ejecutivo Federal, por conducto de las Secretarías de Gobernación y del Patrimonio Nacional, determinará los bienes muebles e inmuebles cuyo dominio ceda a los Estados para formar parte del patrimonio de los mismos y, en su caso, de los Municipios.
-
-###### ARTICULO DECIMO OCTAVO.
-
-Los gobernadores provisionales durarán en su encargo hasta el día en que conforme a la Constitución Política de cada uno de los Estados, deban tomar posesión los gobernadores constitucionales electos.
-
-###### ARTICULO DECIMO NOVENO.
-
-Los ciudadanos que funjan como gobernadores provisionales, no podrán ser electos gobernadores constitucionales. Tampoco podrán ser electos diputados para integrar las legislaturas constitucionales, los que funjan con el carácter de propietarios en las constituyentes, ni los suplentes que llegaren a ejercer las funciones de éstos.
-
-###### ARTICULO VIGESIMO.
-
-Con base en los presupuestos de egresos correspondientes, los gobernadores provisionales harán las transferencias de partidas necesarias para cubrir las erogaciones que, en el ejercicio de sus funciones, requieran los poderes estatales.
-
-###### ARTICULO VIGESIMO PRIMERO.
-
-Se faculta al Ejecutivo Federal para dictar, por conducto de la Secretaría de Gobernación, las normas interpretativas y aclaratorias del presente decreto.
-
-###### ARTICULO VIGESIMO SEGUNDO.
-
-El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 31 DE DICIEMBRE DE 1974.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 6 DE FEBRERO DE 1975.
-
-DECLARATORIA QUE ADICIONA LA FRACCION XXXI DEL APARTADO A, DEL ARTICULO 123.
-
-###### ARTICULO OCTAVO.
-
 Los Magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales y los jueces del fuero común del mismo Distrito y Territorios Federales, actualmente en ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
 
 ###### ARTICULO NOVENO.
@@ -27158,23 +25772,3 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 7 DE ABRIL DE 1986.
 
 DECRETO QUE REFORMA LOS ARTICULOS 65, 66 Y 69, Y ADICIONA LOS ARTICULOS DECIMO SEPTIMO Y DECIMO OCTAVO TRANSITORIOS.
-
-###### ARTICULO 1o.
-
-Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y las Reformas a los Artículos 65, 66 y 69 surtirán sus efectos a partir del 1o. de septiembre de 1989.
-
-###### ARTICULO 2o.
-
-Los Artículos Transitorios Décimo Séptimo y Décimo Octavo de la Constitución surtirán sus efectos a partir del 1o. de septiembre de 1988.
-
-D.O.F. 7 DE ABRIL DE 1986.
-
-DECRETO QUE REFORMA LOS ARTICULOS 106 Y 107.
-
-UNICO.- El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 15 DE DICIEMBRE DE 1986.
-
-###### ARTICULO UNICO.
-
-Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
