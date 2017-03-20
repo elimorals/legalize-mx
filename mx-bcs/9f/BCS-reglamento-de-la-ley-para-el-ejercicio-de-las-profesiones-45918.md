@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-la-ley-para-el-ejercicio-de-las-profesiones-45918
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-20"
-last_updated: "2008-10-31"
+last_updated: "2017-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MARZO DE 2017.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de julio de 2005.
 
@@ -37,15 +37,15 @@ REGLAMENTO DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE BAJA CAL
 
 Las disposiciones del presente Reglamento tienen por objeto regular y controlar el ejercicio profesional dentro del Estado de Baja California Sur, en los términos que señala la Ley para el Ejercicio de las Profesiones del Estado de Baja California Sur.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 En lo sucesivo, cuando se hable de Ley en el presente Reglamento, se referirá a la Ley para el Ejercicio de las Profesiones del Estado de Baja California Sur; asimismo, cuando se hable de Dirección, se referirá a la Dirección de Profesiones, Educación Media Superior y Superior de la Secretaría de Educación Pública.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 2.
 
-Las autoridades estatales y municipales de Baja California Sur, antes de expedir cualquier nombramiento o de otorgar una comisión para el desempeño de alguna actividad de las comprendidas en los Artículos 5 y tercero transitorio de la Ley, deberán cerciorarse de que la persona designada posee título y cédula profesional debidamente requisitazos conforme a este Reglamento.
+Las autoridades estatales y municipales de Baja California Sur, antes de expedir cualquier nombramiento o de otorgar una comisión para el desempeño de alguna actividad de las comprendidas en los Artículos 5 y tercero transitorio de la Ley, deberán cerciorarse de que la persona designada posee título y cédula profesional debidamente requisitados conforme a este Reglamento.
 
 ###### Artículo 3.
 
@@ -61,7 +61,7 @@ El cumplimiento de las obligaciones impuestas por la Ley y por este Reglamento, 
 
 Para que las escuelas de enseñanza profesional puedan admitir a un alumno como numerario, deberán cerciorarse que cursó los estudios previos de educación media básica y preparatoria y dejar constancia de ellos en sus archivos. La inscripción de un alumno como numerario en una escuela profesional del sistema educativo nacional hace presumir, salvo prueba en contrario, que cursó los estudios previos aludidos. Esa presunción no obliga a la Dirección, la cual está facultada para pedir, en todo caso, las pruebas complementarias o directas de la veracidad de esos estudios.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 6.
 
@@ -123,7 +123,7 @@ c) Servicio social que haya prestado como requisito previo para obtener el títu
 
 A la solicitud a que se refiere el artículo anterior, el interesado deberá acompañar lo siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 I. Certificados de educación secundaria y bachillerato o equivalente, cuando se trate de estudios profesionales de tipo medio;
 
@@ -147,23 +147,23 @@ IX. Documento que acredite su identidad y nacionalidad;
 
 - Personas que hayan optado por la nacionalidad mexicana, certificado de nacionalidad o carta de naturalización, en su caso, los nacidos en territorio de la República de padre o madre extranjera y los nacidos en el extranjero de padre mexicano o madre mexicana, deberán acreditar su nacionalidad mexicana en los términos que señala el artículo 57 de la Ley de Nacionalidad y Naturalización, y su reglamento.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 - Extranjeros, copia certificada de su acta de nacimiento debidamente legalizada y copia certificada de su documentación migratoria.
 
 - Fotografías tamaño filiación, fondo blanco papel delgado, con retoque.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 11.
 
 En caso de imposibilidad de obtener las certificaciones a que se refiere la fracción VII del Artículo anterior o cuando se trate de estudios hechos antes de la vigencia de este Reglamento, de escuelas que no hayan pertenecido al sistema educativo oficial, se recibirá de los interesados cualquier prueba cuya validación será hecha por la Dirección.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 12.
 
-Cuando !a Dirección careciere de información sobre la escuela o institución en que el interesado hubiere hecho sus estudios, este queda obligado a proporcionar las pruebas conducentes y a comprobar la autenticidad de los mismos.
+Cuando la Dirección careciere de información sobre la escuela o institución en que el interesado hubiere hecho sus estudios, este queda obligado a proporcionar las pruebas conducentes y a comprobar la autenticidad de los mismos.
 
 ###### Artículo 13.
 
@@ -191,7 +191,7 @@ III. Los títulos profesionales y los grados académicos;
 
 IV. Los convenios que celebre el Ejecutivo Estatal por conducto de la Secretaría de Educación Pública, relativos al ejercicio profesional;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 V. Las resoluciones judiciales y arbitrales y demás actos y documentos que en cualquier forma afecten a instituciones educativas, colegios de profesionistas o profesionistas; y
 
@@ -205,7 +205,7 @@ Los actos y documentos que en los términos de la Ley y de este Reglamento deban
 
 Las inscripciones no prejuzgan, no convalidan actos o documentos que, conforme a la Ley, resulten nulos.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 19.
 
@@ -219,13 +219,13 @@ El registro surtirá efecto a partir de la fecha en que se realice la inscripci�
 
 La inscripción podrá solicitarse por todo aquel que tenga interés legítimo en asegurar el derecho cuyo registro se pida.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 22.
 
 La inscripción de una institución educativa no implica el reconocimiento de validez de los estudios que en ella se hagan.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 23.
 
@@ -233,13 +233,13 @@ Las inscripciones se harán en libros y tarjetas en los que deberán anotarse to
 
 ###### Artículo 24.
 
-(DEROGADO, P.O. 31 DE OCTUBRE DE 2008)
+(DEROGADO, B.O. 31 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 25.
 
-Una vez realizada la inscripción de un titulo profesional o grado académico, se entregará al profesionista de nacionalidad mexicana la cédula profesional correspondiente, con efectos de patente para el ejercicio profesional y para su identidad en actividades profesionales. En esta cédula aparecerá la fotografía y la firma del profesionista.
+Una vez realizada la inscripción de un título profesional o grado académico, se entregará al profesionista de nacionalidad mexicana la cédula profesional correspondiente, con efectos de patente para el ejercicio profesional y para su identidad en actividades profesionales. En esta cédula aparecerá la fotografía y la firma del profesionista.
 
 ###### Artículo 26.
 
@@ -291,7 +291,7 @@ Se entenderá que hay error de concepto cuando al expresar en la inscripción al
 
 ###### Artículo 32.
 
-Las inscripciones equivocadas no podrán corregirse por medio de entrerrenglonaduras. raspaduras, enmiendas o cualquier otro medio que no sea una inscripción en la que, con toda claridad, se rectifique la anterior aclarando el error cometido.
+Las inscripciones equivocadas no podrán corregirse por medio de entrerrenglonaduras, raspaduras, enmiendas o cualquier otro medio que no sea una inscripción en la que, con toda claridad, se rectifique la anterior aclarando el error cometido.
 
 ### CAPÍTULO V. Del ejercicio profesional
 
@@ -299,7 +299,7 @@ Las inscripciones equivocadas no podrán corregirse por medio de entrerrenglonad
 
 Los aranceles regirán únicamente para el caso en que no haya habido convenio entre el profesionista y su cliente con respecto a los honorarios, salvo los casos en que la Ley indique expresamente lo contrario.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 34.
 
@@ -309,7 +309,7 @@ Cuando no hubiere contrato celebrado y se trate de trabajos no comprendidos en l
 
 Cuando en causa de urgencia inaplazable se requieran los servicios de un profesionista en un lugar distinto de aquel en que ejerce su profesión, deberá valerse de los medios usuales de transporte, con cargo al cliente, y si eso no fuere posible, por la urgencia especial del caso o lo extraordinario de éste, el cliente está obligado a proporcionarle los medios para su traslado al lugar necesario, así como los elementos de seguridad adecuados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 36.
 
@@ -317,7 +317,7 @@ El profesionista está obligado a poner todos sus conocimientos científicos y r
 
 En caso de urgencia inaplazable, los servicios que se requieran al profesionista se prestarán en cualquier hora y en el sitio que sean solicitados, siempre que las condiciones materiales lo permitan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 37.
 
@@ -337,7 +337,7 @@ V. Cualquiera otra circunstancia que en el caso concreto pudiera haber influido 
 
 Para los efectos del artículo anterior del presente Reglamento, se entenderá por procedimiento secreto, aquel en el cual intervengan únicamente las partes y sus representantes y los auxiliares, sin que el juicio respectivo pueda mostrarse a ninguna otra persona, tampoco deberán expedirse copias certificadas de las constancias del mismo sino a las partes, en casos excepcionales a juicio y bajo responsabilidad del juzgador.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 39.
 
@@ -347,13 +347,13 @@ Cuando hubiere controversia entre el cliente y el profesionista sobre el servici
 
 No quedan sujetas a la Ley y este Reglamento, las prácticas que hagan los estudiantes como parte de sus cursos escolares y bajo la dirección y vigilancia de su (sic) maestros.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 41.
 
 Se entiende por pasante al estudiante que habiendo concluido sus estudios profesionales, no se haya titulado.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 42.
 
@@ -375,7 +375,7 @@ f) Someterse a la dirección y Consejo de un profesionista con título registrad
 
 Tratándose de estudiantes que hayan concluido sus estudios, se les autorizará como pasantes en el ejercicio profesional, siempre y cuando hagan la solicitud respectiva dentro del año de haberlos concluido.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 44.
 
@@ -403,13 +403,13 @@ Cada año, durante el mes de enero, los Colegios de Profesionistas darán a cono
 
 Los profesionistas que no pertenezcan a algún Colegio, deberán enviar en el mes de enero de cada año a la Dirección, una declaración de los términos en que se propongan cumplir con el servicio social, y en su caso, comprobarán en forma fehaciente el que ya hayan prestado.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 50.
 
 Cuando el servicio social sea prestado a título gratuito por los profesionistas, habrá lugar a que se haga mención de ello en su hoja de servicios.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 51.
 
@@ -423,59 +423,77 @@ La obligación de prestar el servicio social incluye a todos los profesionistas 
 
 El profesionista está obligado a poner toda su diligencia para prestar el servicio social sin perjuicio del derecho de reclamar la retribución respectiva de quien haya recibido el servicio, cuando no se haya estipulado expresamente que se prestaría en forma gratuita.
 
-### CAPÍTULO VII. De los colegios de profesionistas
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE MARZO DE 2017)</small>
+
+### CAPÍTULO VII. De la Colegiación
+
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2017)</small>
 
 ###### Artículo 54.
 
-Para la creación de los Colegios de Profesionistas se necesita autorización de la Dirección. Al efecto, se presentará ante la misma, solicitud que satisfaga los requisitos que exige la Ley, especificando las fechas de los títulos de sus componentes, así como el nombre de la escuela o institución en que los hayan adquirido.
+Para la creación de los colegios, federaciones y confederaciones de profesionistas, se necesita autorización de la Dirección. Al efecto, se presentará ante la misma, solicitud que satisfaga los requisitos que exige la Ley.
+
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2017)</small>
 
 ###### Artículo 55.
 
-Los Colegios de Profesionistas serán gobernados por la presidencia. En el acta de constitución se hará el nombramiento del primer presidente y las posteriores designaciones serán hechas en asamblea, a las que se citará a los miembros del colegio en la forma prevista por sus Estatutos y en caso de omisión por medio de convocatoria. Para el nombramiento de consejeros se requerirá la presencia del cincuenta por ciento, por lo menos, de los miembros del Colegio; si no hubiera quórum en la fecha señalada en la primera convocatoria, se citará por segunda vez y en esta ocasión el quórum quedara integrado con quienes concurran, tomándose la votación por mayoría absoluta de votos de los presentes.
+Todos los profesionistas de una misma profesión o rama, podrán organizarse y constituirse en Colegios de profesionistas, para el ejercicio de sus derechos y defensa de sus intereses de carácter profesional, en los términos de la Ley.
+
+El Gobierno y Administración de los Colegios se regirá por el Consejo Directivo compuesto como mínimo por los siguientes miembros: un Presidente, un Vicepresidente, un Secretario Propietario y un Suplente, que durará dos años en su ejercicio, salvo que los propios estatutos de cada colegio dispongan a un año, en cuyo caso el plazo no podrá exceder dos años, pudiendo reelegirse para un periodo inmediato, siempre que la mayoría simple (50% mas 1) del quórum legal en la asamblea debidamente convocada así lo apruebe.
+
+El mínimo de socios activos para la integración y registro de un Colegio de Profesionistas ante la Dirección, será de 50 miembros que deberán contar con título profesional, proporcionando específicamente la fecha de emisión y nombre de la Institución o escuela que lo expidió, y la cédula profesional en las carreras que sea obligatorio contar con estas.
+
+Para los egresados que obtengan su cédula de las carreras de nueva creación, que decidan colegiarse, deberá solicitar la emisión del dictamen a la Dirección de Profesiones a fin de que excepcionalmente determine el número de integrantes o las carreras afines que puedan ser consideradas para alcanzar el número mínimo establecido.
+
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2017)</small>
 
 ###### Artículo 56.
 
-El registro del Colegio deberá solicitarse dentro de los treinta días siguientes a la fecha de la escritura de protocolización del acta constitutiva y de los Estatutos. Los miembros del Colegio con título no registrado deberán hacer su solicitud de inscripción dentro de los noventa días siguientes.
+El registro del Colegio deberá solicitarse dentro de los noventa días naturales siguientes a la fecha de la escritura de protocolización del acta constitutiva, los estatutos y de su código de ética profesional.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+Los notarios ante los que se constituyan los colegios, deberán dar aviso a la Secretaría dentro de los siguientes diez días hábiles a la constitución.
+
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2017)</small>
 
 ###### Artículo 57.
 
-En el primer Cuatrimestre de cada año, los Colegios enviarán a la Dirección, una lista de los miembros que los integran para el efecto de comprobar si reúnen los requisitos de la Ley.
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+Dentro de los primeros diez días del mes de enero de cada año, los Colegios enviarán a la Dirección, una lista de los miembros que los integran para efecto de comprobar si reúnen los requisitos de la Ley, en caso de que el número mínimo de miembros haya disminuido, se le otorgará un plazo de 30 días hábiles para dar cumplimiento al artículo 55 del presente reglamento.
 
 ###### Artículo 58.
 
-Los profesionistas que pretendan formar parte de un colegio sin tener registrado su título, serán admitidos provisionalmente por el término de un año, y transcurrido éste sin haber cumplido con el requisito exigido, se rechazará su solicitud. La negativa del registro de un título profesional hará perder al interesado el carácter de miembro del colegio respectivo conforme a los estatutos de cada colegio de profesionistas.
+(DEROGADO, B.O. 20 DE MARZO DE 2017)
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 59.
 
 Para las elecciones de la presidencia, los socios podrán emitir su voto personalmente o por medio de apoderados; el poder será otorgado por escrito; pero en ningún caso un solo miembro podrá tener más de dos representaciones, con estricto apego a los estatutos de cada colegio de profesionistas.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2017)</small>
 
 ###### Artículo 60.
 
-Recibida la solicitud de inscripción de una asociación como colegio de profesionistas, se dará conocimiento de ella a los demás colegios ya registrados para que hagan sus observaciones en un término de treinta a cuarenta y cinco días, y con vista de ellas o transcurrido el término sin que las hayan hecho, de los documentos que exhibe el solicitante y de la investigación que haga la Dirección, procederá o no ha llevarla a cabo. Hecha la inscripción, a partir de ese momento adquiere el solicitante la categoría de colegio de profesionistas.
+Recibida la solicitud de inscripción de una asociación como colegio de profesionistas, se dará conocimiento de ella al Consejo Consultivo para la Vigilancia del Ejercicio Profesional, para conocimiento y autorización del registro correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2017)</small>
 
 ###### Artículo 61.
 
-Los Colegios de Profesionistas podrán constituirse en Federación de cada rama profesional o de grupo de ramas o en federación general, para ejercitar en asuntos comunes los derechos que la Ley les otorga individualmente.
+Los Colegios de una misma profesión o los afines, si así lo determinan, podrán constituirse en una Federación de Colegios con la finalidad de coordinar, fortalecer y optimizar el desarrollo de dicha profesión. Esta Federación estará conformada por un consejo directivo, el cual estará integrado por el presidente de cada colegio de la profesión correspondiente que decida integrarse.
+
+Los Colegios y las Federaciones por rama, si así lo determinan, podrán integrarse en un Confederación Estatal, como la organización pluridisciplinaria que reúna a los Colegios de todas las ramas en el Estado.
 
 ###### Artículo 62.
 
 Cuando un colegio se niegue a admitir como miembro a un profesionista que reúna los requisitos de la Ley, sin causa justificada, éste podrá recurrir la resolución ante la Dirección, la que, oyendo a las partes, resolverá lo que corresponda; la resolución que dicte es obligatoria para las mismas.
 
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2017)</small>
+
 ###### Artículo 63.
 
-Si el número de miembros de un colegio bajare del mínimo que exige la Ley, la Dirección le concederá un término que no exceda de un año para que lo complete; transcurrido este término sin haberlo logrado, se cancelará el registro.
+En caso de que se incumpla con los supuestos establecidos en los artículos 55 y 57 del presente reglamento, la Secretaría procederá a cancelar el registro del colegio de que se trate previa notificación por escrito y dentro de los 15 días hábiles posteriores al vencimiento de los plazos señalados.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 64.
 
@@ -501,7 +519,7 @@ a) Un Vicepresidente que será el o la titular de la Secretaría de Educación P
 
 b) Un Secretario Técnico que será el Director de Profesiones e Instituciones Formadoras y Actualizadoras de Docentes.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 c) Vocales, que serán los Presidentes de la Federación de Colegios y los Presidentes (sic) cada uno de los Colegios de Profesionistas, reconocidos legalmente, así como el directivo o su representante de cada una de las instituciones de estudios superiores del Estado.
 
@@ -531,13 +549,13 @@ Las reuniones ordinarias y extraordinarias del Consejo Consultivo para la Vigila
 
 El Consejo Consultivo para la Vigilancia en el Ejercicio Profesional tendrá necesariamente un Secretario Técnico, que se encargará de levantar el acta correspondiente después de cada sesión en la que se hará constar los acuerdos a que se hubiere llegado y que será firmada por todos los asistentes.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 71.
 
 El Vicepresidente del Consejo Consultivo para la Vigilancia en el Ejercicio Profesional será quien convoque a sesión ordinaria o extraordinaria del Consejo a petición de al menos la tercera parte de dicho Consejo.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 72.
 
@@ -573,7 +591,7 @@ La Dirección queda ampliamente facultada para ordenar la práctica de visitas y
 
 La infracción a los artículos 2 y 3 de este Reglamento, será motivo de responsabilidad para el infractor.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 80.
 
@@ -587,17 +605,15 @@ Para la imposición de las multas la Dirección tomará en cuenta las circunstan
 
 Para la imposición de sanciones, la Dirección previamente deberá oír al presunto infractor en una audiencia para la que lo citará por escrito y en caso de ofrecimiento de pruebas, podrá reunirlas en un término máximo de diez días contados a partir de la fecha de la audiencia, concluido el cual resolverá lo conducente.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 83.
 
 Recibida alguna queja, en caso de que la infracción deba ser sancionada por la Dirección o descubierta la infracción por la propia, ésta lo hará saber por correo certificado al profesionista como directo interesado, al Colegio que pertenezca y al Consejo Consultivo para la vigilancia en el ejercicio profesional, a fin de que emitan su opinión sobre el particular. Si la queja fuere en contra de un Colegio o Institución Educativa, la infracción se le hará saber únicamente al Consejo. En la misma comunicación se señalará día y hora para que tenga verificativo la audiencia en la que se rindan las pruebas que tuvieren que ofrecer los infractores.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2008)</small>
-
 ###### Artículo 84.
 
-El presente Reglamento podrá ser revisado, analizado y en caso de ser necesario modificado cada dos años o en cualquier momento cuando se presenten circunstancias que lo ameriten.
+(DEROGADO, B.O. 20 DE MARZO DE 2017)
 
 ## TRANSITORIOS
 
@@ -625,10 +641,22 @@ EL (SIC) SECRETARIA DE EDUCACIÓN PÚBLICA
 
 PROFRA. ROSALÍA MONTAÑO ACEVEDO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.]</small>
 
-P.O. 31 DE OCTUBRE DE 2008.
+B.O. 31 DE OCTUBRE DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MEDIANTE EL CUAL SE REFORMA EL REGLAMENTO DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Los Colegios legalmente constituidos y reconocidos oficialmente por la Secretaría de Educación Pública del Estado a la fecha de publicación del presente decreto, para efectos del artículo 55 párrafo tercero del presente Reglamento, deberá considerar como el número menor de integrantes para conservar su registro, el que, al momento de la vigencia del presente reglamento, tengan registrados y que no podrá ser menor de doce integrantes.
