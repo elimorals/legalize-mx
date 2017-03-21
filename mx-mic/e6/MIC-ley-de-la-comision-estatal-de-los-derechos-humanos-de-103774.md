@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-de-103774"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-21"
-last_updated: "2014-11-21"
+last_updated: "2017-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2017.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 21 de noviembre de 2014.
 
@@ -1055,7 +1055,9 @@ El titular de la Subcoordinación para la Atención a Grupos en Situación de Vu
 
 Estos grupos se integran, de manera explicativa más no limitativa en:
 
-I. Niñas y niños;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2017)</small>
+
+I. Niñas, niños y adolescentes;
 
 II. Personas con discapacidad;
 
@@ -1087,13 +1089,17 @@ V. No haber sido inhabilitado para ejercer el comercio, empleo, profesión o par
 
 VI. Haberse conducido en el ejercicio de su profesión con un constante respeto por la observancia de los Derechos Humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2017)</small>
+
 ###### Artículo 77.
 
-La Subcoordinación para la Atención a Grupos en Situación de Vulnerabilidad, tendrá las siguientes atribuciones:
+La Subcoordinacioin (sic) para la Atención a Grupos en Situación de Vulnerabilidad, tendrá las siguientes atribuciones:
 
 I. Brindar orientación y asesoría a cualquier persona que pertenezca a un grupo que se encuentre en situación de vulnerabilidad sobre el ejercicio de sus derechos, así como de los mecanismos legales existentes para la protección y defensa de los mismos;
 
-II. Evaluar el desarrollo en la sociedad de las políticas y medidas que afecten a los grupos en situación de vulnerabilidad;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2017)</small>
+
+II. Estudiar y evaluar el desarrollo en la sociedad de las políticas y medidas que afecten a los grupos en situación de vulnerabilidad, para el respeto y protección de sus derechos humanos;
 
 III. Impulsar y promover la suscripción de convenciones entre la Comisión y organizaciones protectoras de grupos en situación de vulnerabilidad, así como con universidades, centros académicos, gobiernos municipales e instituciones públicas y privadas que tengan por objeto atender el pleno respeto de los Derechos Humanos de estos grupos de la población;
 
@@ -1516,3 +1522,11 @@ ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 05 cinco días del mes de noviembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 342.- SE REFORMAN LOS ARTÍCULOS 75 Y 77 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
