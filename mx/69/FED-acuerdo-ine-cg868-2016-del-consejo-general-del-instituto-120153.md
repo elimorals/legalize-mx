@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg868-2016-del-consejo-general-del-instituto-120153
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-03-15"
-last_updated: "2017-03-15"
+last_updated: "2017-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120153&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-12-21"
 ---
 # ACUERDO INE/CG868/2016 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA INTEGRAR LOS RANGOS CORRESPONDIENTES A LOS CUERPOS DE LA FUNCION EJECUTIVA Y DE LA FUNCION TECNICA Y EL PROCEDIMIENTO PARA OTORGAR PROMOCIONES EN RANGO A LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL EN EL SISTEMA DEL INSTITUTO
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN LA PRIMERA SECCIÓN DEL D.O.F. DE 21 DE MARZO DE 2017, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA INTEGRAR LOS RANGOS CORRESPONDIENTES A LOS CUERPOS DE LA FUNCIÓN EJECUTIVA Y DE LA FUNCIÓN TÉCNICA Y EL PROCEDIMIENTO PARA OTORGAR PROMOCIONES EN RANGO A LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL EN EL SISTEMA DEL INSTITUTO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el 15 de marzo de 2017.
 
@@ -31,7 +33,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUE
 
 ANTECEDENTES
 
-[…]
+[...]
 
 CONSIDERANDO
 
@@ -60,3 +62,27 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 El anexo puede ser consultado en las (sic) siguiente dirección electrónica:
 
 http://www.ine.mx/archivos2/portal/historico/contenido/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CGacuerdos/2016/12_Diciembre/CGex201612-21/CGex201612-21-ap-14-a1.pdf
+
+D.O.F. 21 DE MARZO DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBE LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA SE APRUEBA LA MODIFICACIÓN A LOS ARTÍCULOS 21, FRACCIÓN I Y 24, FRACCIÓN I DE LOS LINEAMIENTOS PARA INTEGRAR LOS RANGOS CORRESPONDIENTES A LOS CUERPOS DE LA FUNCIÓN EJECUTIVA Y DE LA FUNCIÓN TÉCNICA Y EL PROCEDIMIENTO PARA OTORGAR PROMOCIONES EN RANGO A LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL EN EL SISTEMA DEL INSTITUTO, EN ACATAMIENTO A LA SENTENCIA EMITIDA EN EL EXPEDIENTE SUP-RAP-53/2017 POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN".]</small>
+
+Primero. Se aprueba la modificación a los artículos 21, fracción I y 24, fracción I de los Lineamientos para integrar los rangos correspondientes a los Cuerpos de la Función Ejecutiva y de la Función Técnica y el procedimiento para otorgar promociones en rango a los Miembros del Servicio Profesional Electoral Nacional en el sistema del Instituto, en acatamiento a la sentencia emitida en el expediente SUP-RAP-53/2017 por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.
+
+Segundo. Las modificaciones a los Lineamientos para integrar los rangos correspondientes a los Cuerpos de la Función Ejecutiva y de la Función Técnica y el procedimiento para otorgar promociones en rango a los Miembros del Servicio Profesional Electoral Nacional en el sistema del Instituto, es en los artículos 21, fracción I y 24, fracción I. Los que se aprueban en los siguientes términos:
+
+“Artículo 21. Para aspirar a obtener el Rango “C”, los miembros titulares del Servicio del Cuerpo de la Función Ejecutiva deberán cubrir los requisitos siguientes:
+
+I. Contar, al menos, con cuatro años de permanencia en el Servicio, al 31 de diciembre del ejercicio valorado;”
+
+“Artículo 24. Para aspirar a obtener el Rango “C”, los miembros titulares del Servicio del Cuerpo de la Función Técnica deberán cubrir los requisitos siguientes:
+
+I. Contar, al menos, con cuatro años de permanencia en el Servicio, al 31 de diciembre del ejercicio valorado;”
+
+Tercero. Se ordena al Secretario Ejecutivo del Instituto Nacional Electoral para que, a través de la Dirección Jurídica, informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación del cumplimiento dado a la Sentencia de mérito.
+
+Cuarto. Las presentes modificaciones a los Lineamientos entrarán en vigor, al día hábil siguiente al de su aprobación por parte del Consejo General del Instituto.
+
+Quinto. Se instruye a la DESPEN difundir entre los Miembros del Servicio Profesional Electoral Nacional del sistema para el Instituto, la modificación referida en el Punto Segundo del presente Acuerdo.
+
+Sexto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
