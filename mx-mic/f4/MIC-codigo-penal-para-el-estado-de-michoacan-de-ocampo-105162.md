@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2016-12-29"
+last_updated: "2017-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2017.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -843,11 +843,15 @@ IV. El estado del equipo, vías y demás condiciones de funcionamiento mecánico
 
 ### CAPÍTULO III. PUNIBILIDAD DE LA TENTATIVA
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2017)</small>
+
 ###### Artículo 71.
 
-Punibilidad de la tentativa
+Punibilidad de la tentativa.
 
-A quien resulte responsable de la comisión de un delito doloso cometido en grado de tentativa se le aplicarán la pena correspondiente al delito doloso consumado.
+A quien resulte responsable de la comisión de un delito cometido en grado de tentativa se le aplicará de seis meses hasta las dos terceras partes de la pena correspondiente al delito doloso consumado que el sujeto activo quiso realizar.
+
+En la aplicación de las consecuencias jurídicas señaladas en este artículo, el juez tomará en consideración, además de lo previsto en el artículo 65 de este Código, el mayor o menor grado de aproximación a la consumación del delito y la magnitud del peligro al que fue expuesto el bien jurídico.
 
 ### CAPÍTULO IV. PUNIBILIDAD EN LOS CASOS DE CONCURSO DE DELITOS Y DELITO CONTINUADO
 
@@ -1277,13 +1281,15 @@ Homicidio de persona menor de edad
 
 A quien dolosamente prive de la vida a una persona menor de dieciocho años de edad se le impondrá la pena de quince a treinta y cinco años de prisión.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2017)</small>
+
 ###### Artículo 120.
 
 Feminicidio
 
-El homicidio doloso de una mujer, se considerará feminicidio cuando se actualice alguna de las siguientes circunstancias:
+El homicidio doloso de una mujer, se consideraraí (sic) feminicidio cuando se actualice alguna de las siguientes circunstancias:
 
-I. Cuando existan con antelación actos que constituya violencia familiar o institucional del sujeto activo hacia la mujer;
+I. Cuando existan con antelación actos que constituya (sic) violencia familiar o institucional del sujeto activo hacia la mujer;
 
 II. Cuando el sujeto activo realice actos de violencia sexual, actos crueles, degradantes, mutile el cuerpo de la mujer, previo o posterior a la privación de la vida;
 
@@ -1293,7 +1299,7 @@ IV. Cuando existan antecedentes de violencia psicológica o abuso sexual del suj
 
 V. Cuando el cuerpo de la víctima sea expuesto de manera degradante en un lugar público.
 
-El feminicidio se considerará homicidio calificado.
+A quien cometa el delito de feminicidio se le impondrá una pena de veinte a cincuenta años de prisión.
 
 ###### Artículo 121.
 
@@ -1311,11 +1317,13 @@ IV. Cuando el cuerpo de la víctima sea expuesto de manera degradante, con el fi
 
 El homicidio en razón de la preferencia sexual se considerará homicidio calificado.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2017)</small>
+
 ###### Artículo 122.
 
 Homicidio calificado
 
-A quien cometa el delito de homicidio calificado se le impondrá de veinte a cuarenta años de prisión.
+A quien cometa el delito de homicidio calificado se le impondrá una pena de veinte a cincuenta años de prisión.
 
 ###### Artículo 123.
 
@@ -2629,6 +2637,8 @@ Las penas previstas en el artículo anterior se agravarán en un tercio, cuando 
 
 ### CAPÍTULO VII. NEGACIÓN DEL SERVICIO PÚBLICO
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2017)</small>
+
 ###### Artículo 238.
 
 Definición de servidor público
@@ -2823,13 +2833,15 @@ II. Las mismas sanciones se impondrán a quien teniendo la calidad de servidor p
 
 ###### Artículo 250.
 
-Negación del servicio público
+Negación del servicio público.
 
 Se impondrá prisión de dos a cinco años a quien teniendo la calidad de servidor público:
 
-I. Indebidamente niegue o retarde a los particulares la protección, el auxilio o el servicio que tenga obligación de otorgarles; o,
+I. Indebidamente niegue o retarde a los particulares la protección, el auxilio o el servicio que tenga obligación de otorgarles;
 
-II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerido legalmente por una autoridad competente para que le preste auxilio, se niegue a proporcionarlo.
+II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerido legalmente por una autoridad competente para que le preste auxilio, se niegue a proporcionarlo; o,
+
+III. Indebidamente niegue o retarde la expedición de las órdenes de protección emergente o preventiva, una denuncia o demanda, o cualquier otro tipo de medida de seguridad; y, a consecuencia de esta negativa o retardo perdiera la vida la víctima sujeta de violencia o alguno de sus descendientes en manos de su agresor.
 
 ### CAPÍTULO III. EJERCICIO ILEGAL DEL PROPIO DERECHO
 
@@ -3730,5 +3742,23 @@ Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamient
 P.O. 29 DE DICIEMBRE DE 2016.
 
 > <small>[N. DE E. TRANSITORIO ÚNICO DEL DECRETO NÚMERO 288 POR EL QUE "SE ADICIONA EL ARTÍCULO 177 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]</small>
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 338.- SE REFORMAN LOS ARTÍCULOS 120 Y 122 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 21 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 340.- SE REFORMA EL ARTÍCULO 250 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo.
+
+P.O. 21 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 341.- SE REFORMA EL ARTÍCULO 71 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
