@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2016-12-28"
+last_updated: "2017-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MARZO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -1004,23 +1004,27 @@ I. Encabezado o título de la propuesta;
 
 II. Planteamiento del problema que la iniciativa pretenda resolver;
 
-III. Argumentos que la sustenten;
+> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2017)</small>
 
-IV. Fundamento legal;
+III. Problemática desde la perspectiva de género, en su caso;
 
-V. Denominación del proyecto de ley o decreto;
+IV. Argumentos que la sustenten;
 
-VI. Ordenamientos a modificar;
+V. Fundamento legal;
 
-VII. Texto normativo propuesto;
+VI. Denominación del proyecto de ley o decreto;
 
-VIII. Artículos transitorios;
+VII. Ordenamientos a modificar;
 
-IX. Lugar;
+VIII. Texto normativo propuesto;
 
-X. Fecha, y
+IX. Artículos transitorios;
 
-XI. Nombre y rúbrica del iniciador.
+X. Lugar;
+
+XI. Fecha, y
+
+XII. Nombre y rúbrica del iniciador.
 
 #### Sección Tercera. Proposiciones
 
@@ -1134,21 +1138,25 @@ II. Nombre de la comisión o comisiones que lo presentan;
 
 III. Fundamento legal para emitir dictamen;
 
-IV. Antecedentes del procedimiento;
+> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2017)</small>
 
-V. Nombre del iniciador;
+IV. Contenido del asunto o asuntos, destacando los elementos más importantes, entre ellos el planteamiento del problema, así como la perspectiva de género, en su caso;
 
-VI. Contenido del asunto o asuntos, destacando los elementos más importantes, entre ellos el planteamiento del problema;
+V. Antecedentes del procedimiento;
 
-VII. Proceso de análisis, señalando las actividades realizadas, como entrevistas, comparecencias, audiencias públicas o foros, con el fin de tener mayores elementos para dictaminar;
+VI. Nombre del iniciador;
 
-VIII. En su caso, valoración de impacto presupuestal, regulatorio u otro;
+VII. Contenido del asunto o asuntos, destacando los elementos más importantes, entre ellos el planteamiento del problema;
 
-IX. Análisis y valoración de los argumentos del autor que sustentan el asunto o asuntos;
+VIII. Proceso de análisis, señalando las actividades realizadas, como entrevistas, comparecencias, audiencias públicas o foros, con el fin de tener mayores elementos para dictaminar;
 
-X. Análisis y valoración de los textos normativos propuestos, en su caso, explicando si se aprueban, modifican o desechan;
+IX. En su caso, valoración de impacto presupuestal, regulatorio u otro;
 
-XI. En caso de dictamen positivo:
+X. Análisis y valoración de los argumentos del autor que sustentan el asunto o asuntos;
+
+XI. Análisis y valoración de los textos normativos propuestos, en su caso, explicando si se aprueban, modifican o desechan;
+
+XII. En caso de dictamen positivo:
 
 a) El proyecto de decreto;
 
@@ -1158,13 +1166,13 @@ c) El texto normativo que se somete a la consideración del Pleno, y
 
 d) Los artículos transitorios;
 
-XII. En caso de dictamen negativo, el proyecto de acuerdo respectivo;
+XIII. En caso de dictamen negativo, el proyecto de acuerdo respectivo;
 
 > <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-XIII. En ambos casos el voto aprobatorio de la mayoría absoluta de las diputadas y de los diputados de la comisión o comisiones que dictaminan, que debe constar mediante firma autógrafa, y
+XIV. En ambos casos el voto aprobatorio de la mayoría absoluta de las diputadas y de los diputados de la comisión o comisiones que dictaminan, que debe constar mediante firma autógrafa, y
 
-XIV. Lugar y fecha de la Reunión de la comisión en que se aprueba.
+XV. Lugar y fecha de la Reunión de la comisión en que se aprueba.
 
 2. Deberá además, acompañarse de la lista de asistencia de la Reunión en que se aprobó, a efecto de verificar el quórum.
 
@@ -3919,5 +3927,11 @@ D.O.F. 14 DE NOVIEMBRE DE 2016.
 D.O.F. 28 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 78 Y 85 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE PERSPECTIVA DE GÉNERO”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
