@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-credito-para-los-trabajadores-al-6640"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-04"
-last_updated: "2016-08-10"
+last_updated: "2017-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,9 @@ state: "MOR"
 ---
 # LEY DEL INSTITUTO DE CREDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. EL DECRETO NÚMERO NOVECIENTOS OCHENTA Y OCHO, EXPEDIDO POR LA QUINCUAGÉSIMA TERCERA LEGISLATURA, PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2016, MODIFICÓ DE MANERA INTEGRAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
-
 LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE AGOSTO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO 988 PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -63,11 +59,13 @@ LEY DEL INSTITUTO DE CREDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL 
 
 La presente Ley es de observancia general, orden público e interés social, así como obligatoria para los sujetos señalados en este ordenamiento, y tiene por objeto regular el otorgamiento de las prestaciones que brinda el Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos a sus afiliados, conforme a su Reglamento y la normativa aplicable.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 2.
 
-La interpretación de la presente Ley corresponde a la persona Titular del Poder Ejecutivo Estatal, a través de la Secretaría o Dependencia coordinadora del sector al que pertenezca el Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos, con la opinión de la persona titular de la Dirección General de dicho Instituto.
+La interpretación de la presente Ley corresponderá a la autoridad competente.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
 A falta de disposición expresa, se aplicará supletoriamente la Ley de Procedimiento Administrativo para el Estado de Morelos, el Código Civil para el Estado Libre y Soberano de Morelos y el Código Procesal Civil para el Estado Libre y Soberano de Morelos, así como los principios de simplificación administrativa y los principios generales del derecho.
 
@@ -83,7 +81,9 @@ II. Afiliado, al trabajador o pensionista que, conforme a lo señalado en el Cap
 
 III. Amortización, al método por el cual se liquida un crédito en pagos parciales;
 
-IV. Aportación, a la cantidad en dinero que cubre el ente obligado por cada afiliado para que reciba los beneficios que otorga la presente Ley, correspondientes al 6% de las percepciones constantes de los afiliados;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
+IV. Aportación, a la cantidad en dinero que cubre el ente obligado por cada afiliado para que reciba los beneficios que otorga la presente Ley, en términos de lo dispuesto en el artículo 41 de la presente Ley;
 
 V. Beneficiario, a la persona física o moral designada por el afiliado para recibir las cuotas que aportó al Instituto;
 
@@ -105,6 +105,10 @@ XIII. Estatuto Orgánico, al Estatuto Orgánico del Instituto;
 
 XIV. Gobernador, a la persona titular del Poder Ejecutivo Estatal;
 
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2017)</small>
+
+XIV Bis. Ingresos totales, a toda percepción efectiva vía nómina, incluyendo dietas, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales, que perciban los afiliados;
+
 XV. Instituto, al organismo público descentralizado denominado Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos;
 
 XVI. Interés ordinario, a la tasa que se aplica sobre el capital insoluto generado durante el plazo pactado o la vigencia del crédito, cuya tasa se estipulará en el Reglamento y demás normativa aplicable;
@@ -117,7 +121,9 @@ XIX. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado
 
 XX. Manuales Administrativos, a los Manuales de Organización, de Políticas y Procedimientos y demás instrumentos normativos aprobados por el Instituto, mediante los cuales se indican los pasos que deban seguirse para el desarrollo de cada una de las actividades de las unidades administrativas que lo conforman;
 
-XXI. Pensionista, a la persona física que recibe periódicamente una cantidad de dinero por concepto de pensión;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
+XXI. Pensionista, a la persona física que recibe periódicamente una cantidad de dinero por concepto de pensión, resultante de su actividad en el servicio público, estatal o municipal;
 
 XXII. Percepción constante, al salario integrado por la suma de los emolumentos en efectivo que, en forma constante, recibe el afiliado por la prestación de sus servicios subordinados a los entes obligados;
 
@@ -205,11 +211,11 @@ X. Los que se obtengan por donaciones, herencias, legados y fideicomisos que se 
 
 XI. Cualquier otro concepto legalmente obtenido o constituido en favor del Instituto.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 9.
 
-Las cuotas de los afiliados correspondientes al 6% de su percepción constante, serán utilizadas preferentemente para el otorgamiento de créditos y se devolverán en los supuestos previstos en el Reglamento y demás normativa aplicable.
+Las cuotas de los afiliados correspondientes al 2.25% de los ingresos totales, serán utilizadas preferentemente para el otorgamiento de créditos y se devolverán en los supuestos previstos en el Reglamento y demás normativa aplicable.
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -239,49 +245,79 @@ Para el cumplimiento y desarrollo de sus funciones, el Instituto contará con la
 
 #### SECCIÓN CUARTA. DEL CONSEJO DIRECTIVO
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>[N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE MARZO DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO, PASANDO DE XII FRACCIONES A XI.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 12.
 
 El Consejo Directivo es la máxima autoridad del Instituto y se integra por:
 
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
 I. El Gobernador, quien lo presidirá por sí o por conducto del representante que designe al efecto;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
 II. Una persona representante del Poder Legislativo que, en ningún caso, podrá ser un Diputado al Congreso del Estado, en términos de lo previsto en la fracción V del artículo 81 de la Ley Orgánica;
 
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
 III. Una persona representante del Poder Judicial, que será la persona titular de la Presidencia del Tribunal Superior de Justicia del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
 IV. La persona titular de la Secretaría de Hacienda del Poder Ejecutivo Estatal;
 
-V. La persona titular de la Secretaría de Gobierno del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
-VI. La persona titular de la Secretaría del Trabajo del Poder Ejecutivo Estatal;
+V. La persona titular de la Secretaría de la Contraloría del Poder Ejecutivo Estatal;
 
-VII. La persona titular de la Secretaría de Administración del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
-VIII. La persona que ocupe la Consejería Jurídica del Poder Ejecutivo Estatal;
+VI. La persona titular de la Secretaría de Administración del Poder Ejecutivo Estatal;
 
-IX. La persona titular de la Secretaría General del Sindicato Único de Trabajadores del Poder Ejecutivo del Estado de Morelos y Entidades Paraestatales;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
-X. La persona titular de la Secretaría General del Sindicato Único de Trabajadores al Servicio del Poder Judicial del Estado de Morelos;
+VII. La persona titular de la Secretaría General del Sindicato Único de Trabajadores del Poder Ejecutivo del Estado de Morelos y Entidades Paraestatales;
 
-XI. La persona titular de la Secretaría General del Sindicato Único de Trabajadores al Servicio del Poder Legislativo del Estado de Morelos, y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
-XII. Una Persona representante de la Sección XIX del Sindicato Nacional de Trabajadores de la Educación.
+VIII. La persona titular de la Secretaría General del Sindicato Único de Trabajadores al Servicio del Poder Judicial del Estado de Morelos;
 
-Los cargos de los integrantes del Consejo Directivo serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
-Por cada integrante propietario, deberá designarse, por escrito, un suplente, el cual contará con las mismas facultades que el propietario. Dichos suplentes deberán contar con el nivel jerárquico inmediato inferior.
+IX. La persona titular de la Secretaría General del Sindicato Único de Trabajadores al Servicio del Poder Legislativo del Estado de Morelos;
 
-Para el caso de que el representante que designe el Gobernador para fungir como presidente del Consejo Directivo, sea un integrante de éste último en términos del presente artículo, dicho integrante deberá designar a su vez a la persona que lo supla, a fin de evitar la concentración de votos en una sola persona para la toma de decisiones.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
-En las sesiones del Consejo Directivo participarán el Director General y el Comisario Público con derecho a voz, pero sin voto.
+X. Una persona representante de la Sección XIX del Sindicato Nacional de Trabajadores de la Educación, y
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
+XI. Una persona representante de las agrupaciones y asociaciones de trabajadores pensionados y jubilados de los entes públicos.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
+Los cargos de los integrantes del Consejo Directivo serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+Por cada integrante propietario, deberá designarse, por escrito, un suplente, el cual contará con las mismas facultades que el propietario. Dichos suplentes deberán contar con el nivel jerárquico inmediato inferior.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+Para el caso de que el representante que designe el Gobernador para fungir como presidente del Consejo Directivo, sea un integrante de éste último en términos del presente artículo, dicho integrante deberá designar a su vez a la persona que lo supla, a fin de evitar la concentración de votos en una sola persona para la toma de decisiones.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+
+En las sesiones del Consejo Directivo participarán el Director General y el Comisario Público con derecho a voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+
 ###### Artículo 13.
 
-En las sesiones del Consejo Directivo, previa solicitud y autorización, podrá asistir un invitado nombrado por los representantes de las Asociaciones de Pensionados del Gobierno del Estado de Morelos, Ayuntamientos, Entidades estatales y municipales.
+En las sesiones del Consejo Directivo, previa solicitud y autorización, podrá asistir un invitado en representación de la parte patronal y trabajadora de los Ayuntamientos, organismos descentralizados, desconcentrados y paraestatales, con derecho a voz, pero sin voto, siempre y cuando se encuentren al corriente en el pago de sus cuotas al Instituto.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -591,17 +627,17 @@ El deudor solidario será preferentemente el cónyuge o el concubinario o concub
 
 ### CAPÍTULO V. DE LAS APORTACIONES, CUOTAS Y RETENCIONES
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 41.
 
-Tienen el carácter de obligatorias las aportaciones a cargo de los entes obligados, cuya base de cotización será el 6% sobre las percepciones constantes de los afiliados, las cuales deberán quedar consignadas en sus respectivos Presupuestos de Egresos.
+Tienen el carácter de obligatorias las aportaciones a cargo de los entes obligados, cuya base de cotización será el 2.25% sobre los ingresos totales, las cuales deberán quedar consignadas en sus respectivos Presupuestos de Egresos.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 42.
 
-Tienen el carácter de obligatorias las cuotas a cargo de los afiliados, cuya base de cotización será el 6% sobre sus percepciones constantes, mismas que serán retenidas por los entes obligados y enteradas al Instituto en términos de lo dispuesto en la presente Ley y demás normativa aplicable.
+Tienen el carácter de obligatorias las cuotas a cargo de los afiliados, cuya base de cotización será del 2.25% sobre sus ingresos totales, mismas que serán retenidas por los entes obligados y enteradas al Instituto en términos de los (sic) dispuesto en la presente Ley y demás normativa aplicable.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -884,3 +920,13 @@ SÉPTIMA. Dentro del plazo de ciento ochenta días hábiles, contados a partir d
 OCTAVA. Dentro de un plazo de diez días hábiles, contados a partir del inicio de la vigencia de este Decreto, el Director General deberá solicitar en el Registro Público de los Organismos Descentralizados del Estado de Morelos, a cargo de la Secretaría de Hacienda del Poder Ejecutivo Estatal, la inscripción de este instrumento jurídico, de conformidad con lo dispuesto en el artículo 86 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
 
 NOVENA. Los créditos y servicios concedidos con antelación al inicio de la vigencia del presente Decreto se regirán conforme a las disposiciones bajo las cuales fueron aprobados.
+
+P.O. 22 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS TRECE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS".]
+
+PRIMERA. Aprobado el presente Decreto se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los articulos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
