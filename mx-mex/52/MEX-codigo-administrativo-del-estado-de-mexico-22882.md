@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2017-01-23"
+last_updated: "2017-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 23 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MARZO DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1785,9 +1783,9 @@ I. Proporcionar servicios de salud a toda la población del Estado y mejorar la 
 
 II. Contribuir al adecuado desarrollo demográfico;
 
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 22 DE MARZO DE 2017)</small>
 
-III. Colaborar al bienestar social de la población mediante la prestación de servicios de salud, principalmente a niñas, niños, adolescentes, adultos mayores, indígenas y personas con discapacidad en estado de vulnerabilidad, para fomentar y propiciar su incorporación a una vida activa en lo económico y social.
+III. Colaborar al bienestar social de la población mediante la prestación de servicios de salud principalmente a niñas, niños, adolescentes, adultos mayores, indígenas y personas con discapacidad en situación de vulnerabilidad, favoreciendo su extensión cuantitativa y cualitativa, para fomentar y propiciar su incorporación a una vida activa en lo económico y social. El Estado garantizará la atención domiciliaria a los adultos mayores sin capacidad de trasladarse, discapacitados, mujeres embarazadas sin control prenatal, y a los enfermos con cuidados paliativos, así como el uso de unidades móviles para otorgar atención médica de primer nivel, de acuerdo a la suficiencia presupuestal existente.
 
 IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
@@ -3217,11 +3215,11 @@ I. Cuando los establecimientos a que se refieren los artículos 2.64 y 2.65 care
 
 II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de este Título y de las disposiciones que de él emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
 
-III. Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, con motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud; y
+III. Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, con motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud;
 
 IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
 
-V. Cuando se compruebe que las actividades que se realizan en un establecimiento violan las disposiciones sanitarias y constituyen un peligro grave para la salud;
+V. Cuando se compruebe que las actividades que se realizan en un establecimiento violan las disposiciones sanitarias y constituyen un peligro grave para la salud; y
 
 VI. Reincidencia por tercera ocasión.
 
@@ -11123,9 +11121,9 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 2.- Este Libro tiene por objeto además establecer:
 
-I. Las políticas para la producción de la información e investigación geográfica, estadística y catastral en apoyo al sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
+I. Las políticas para la producción de la información e investigación geográfica, estadística y catastral en apoyo al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
 
-II. El funcionamiento de los Sistemas estatal y municipales de información e investigación geográfica, estadística y catastral;
+II. El funcionamiento de los sistemas estatal y municipales de información e investigación geográfica, estadística y catastral;
 
 III. Los procesos de captación, integración, generación y organización de la información geográfica, estadística y catastral, y su divulgación acorde con lo establecido por la Ley de Transparencia y Acceso a la Información Pública del Estado de México;
 
@@ -11745,9 +11743,9 @@ V. Establecer las políticas y lineamientos de los servicios de informática par
 
 VI. Ser el interlocutor con las autoridades federales y municipales en materia de información e investigación geográfica, estadística y catastral;
 
-VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipales, en las materias de su competencia;
+VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipal, en las materias de su competencia;
 
-VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipal, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
+VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipales, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
 
 IX. Integrar y custodiar el acervo informativo y de investigaciones geográficas, estadísticas y catastrales del Estado de México;
 
@@ -13165,7 +13163,7 @@ II. Carril Confinado.- Es el carril en la infraestructura vial destinado para us
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-III. Evaluación técnica de incorporación e Impacto Vial. A la resolución de la Secretaría de Infraestructura emitida al seno de la Comisión Estatal de Factibilidad, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de Impacto regional, así corno las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto.
+III. Evaluación técnica de incorporación e Impacto Vial. A la resolución de la Secretaría de Infraestructura emitida al seno de la Comisión Estatal de Factibilidad, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de Impacto regional, así corno (sic) las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto.
 
 IV. Estación de Transferencia Modal.- Instalaciones con equipo tecnológico donde converge el transporte de alta capacidad con otro u otros medios de transporte;
 
@@ -18526,3 +18524,31 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 22 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 195.- POR EL QUE SE REFORMA LA FRACCIÓN III AL ARTÍCULO 2.21 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Ejecutivo del Estado emitirá las disposiciones reglamentarias que regulen el programa "Médico en tu Casa" en un plazo de 120 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Finanzas adoptará todas las medidas de racionalidad en el gasto que sean necesarias para financiar el programa "Médico en tu Casa".
+
+###### ARTÍCULO SEXTO.
+
+La Legislatura del Estado, al aprobar el presupuesto de egresos de cada ejercicio fiscal dispondrá de los recursos necesarios para la aplicación de estas reformas.
