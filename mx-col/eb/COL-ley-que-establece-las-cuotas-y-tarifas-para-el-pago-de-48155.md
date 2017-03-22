@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48155"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2017-01-24"
+last_updated: "2017-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2017.
 
 Ley publicada en el Suplemento No. 80 del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -83,7 +83,9 @@ b).- Para uso doméstico casa habitación (Zona Rural)
 
 Comprende:
 
-Jiliotupa, Aquiles Serdán (Tamala), Lázaro Cárdenas, La Presa, Las Trancas, Zinacamitlan, Las Conchas, Plan del Zapote, Cautan y 26 de Julio.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+
+- Jiliotupa, Aquiles Serdan (Tamala), Lázaro Cárdenas, La Presa, Las Trancas, Zinacamitlan, Las Conchas, Plan del Zapote, Cautan y 26 de Julio, el Galaje, San Gabriel, Higueras de Santa Rosa, Agua de la Virgen, el Capire, la Tepamera, la Tunita y Chamila.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
@@ -400,3 +402,9 @@ P.O. 24 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 228 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LAS LEYES QUE ESTABLECEN LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 22 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 279 SE REFORMA EL PÁRRAFO TERCERO DEL INCISO B) DEL ARTÍCULO 3° DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE IXTLAHUACÁN, COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
