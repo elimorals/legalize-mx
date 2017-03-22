@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2016-12-20"
+last_updated: "2017-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MARZO DE 2017.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1503,17 +1503,19 @@ Al entrar y salir del salón de sesiones el Gobernador y el Presidente del Tribu
 
 Las demás sesiones solemnes y las especiales que acuerde la Asamblea, se sujetarán al protocolo que previamente se determine en el respectivo orden del día.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 139.
 
-La comparecencia de los servidores públicos del Poder Ejecutivo, de los magistrados del Tribunal Superior de Justicia, de los titulares de los Organismos Autónomos y de los integrantes de los ayuntamientos de los municipios de la entidad, se llevará a cabo conforme a las siguientes reglas:
+La comparecencia de los servidores públicos del Poder Ejecutivo, de los magistrados del Tribunal Superior de Justicia, de los titulares de los Organismos Autónomos y de los integrantes de los ayuntamientos de los municipios de la entidad, se llevará a cabo, bajo protesta de decir la verdad, conforme a las siguientes reglas:
 
 I.- Para su recepción se designarán comisiones protocolarias;
 
 II.- El compareciente ocupará el lugar que al efecto le hubiere sido asignado;
 
-III.- El Presidente de la Legislatura le concederá el uso de la palabra para que en la tribuna, o desde su lugar, lleve a cabo la exposición general del asunto o asuntos que motiven su comparecencia;
+> <small>(REFORMADA, G.G. 22 DE MARZO DE 2017)</small>
+
+III.- El Presidente de la Legislatura o de la Comisión correspondiente, protestará al compareciente, posteriormente le concederá el uso de la palabra para que en la tribuna, o desde su lugar, lleve a cabo la exposición general del asunto o asuntos que motiven su comparecencia;
 
 IV.- Los coordinadores de las fracciones legislativas o los diputados designados por cada uno de éstos, tendrán una intervención hasta por 10 minutos, con el propósito de formular comentarios o plantear interrogantes de orden general sobre el asunto o asuntos que dieron origen a la comparecencia;
 
@@ -2531,8 +2533,16 @@ TERCERO. La integración de la Comisión de Protección Ambiental, así como los
 
 G.G. 20 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 177.- POR EL QUE SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 177 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 177.- POR EL QUE SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 177 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 194.- POR EL QUE SE REFORMA EL ARTÍCULO 139 EN SU PRIMER PÁRRAFO Y LA FRACCIÓN III DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
