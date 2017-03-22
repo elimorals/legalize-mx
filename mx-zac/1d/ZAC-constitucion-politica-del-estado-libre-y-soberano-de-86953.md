@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2016-09-14"
+last_updated: "2017-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2017.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -423,15 +425,21 @@ La mujer y el varón son iguales ante la ley y deben gozar de las mismas oportun
 
 Se reconoce la equidad entre los géneros como principio necesario para el desarrollo del pueblo zacatecano. El Estado promoverá este postulado para lograr una sociedad más justa y equitativa, y la ley determinará las facultades y acciones que deban aplicarse para el cumplimiento de este fin.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 23.
 
-En el Estado de Zacatecas funcionará una Comisión de Derechos Humanos del Estado de Zacatecas, como organismo descentralizado de la Administración Pública, de carácter autónomo, con personalidad jurídica, autonomía presupuestaria y de gestión, cuyos servicios serán gratuitos, encargado de la defensa y promoción de los derechos humanos. La Legislatura del Estado propondrá y designará a su Presidente y Consejeros, ajustándose a un procedimiento de consulta pública, el cual deberá ser transparente e informado, en los términos y condiciones que determine la ley; asimismo expedirá el ordenamiento que regule sus funciones, en concordancia con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
+En el Estado de Zacatecas funcionará una Comisión de Derechos Humanos del Estado de Zacatecas, como organismo descentralizado de la Administración Pública, de carácter autónomo, con personalidad jurídica, autonomía presupuestaria y de gestión, cuyos servicios serán gratuitos, encargado de la defensa y promoción de los derechos humanos, además, contará con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos de la Comisión, mismo que será designado por la votación (sic) las dos terceras partes de los miembros presentes de la Legislatura del Estado. La Legislatura del Estado propondrá y designará a su Presidente y Consejeros, ajustándose a un procedimiento de consulta pública, el cual deberá ser transparente e informado, en los términos y condiciones que determine la ley; y expedirá el ordenamiento que regule sus funciones, en concordancia con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
 La Comisión de Derechos Humanos del Estado de Zacatecas, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, la Legislatura del Estado o en sus recesos la Comisión Permanente, según corresponda, podrán llamar, a solicitud de la Comisión de Derechos Humanos del Estado de Zacatecas, a las autoridades o servidores públicos responsables para que comparezcan y expliquen el motivo de su negativa.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
+
 La Comisión de Derechos Humanos del Estado de Zacatecas, no será competente tratándose de asuntos electorales y jurisdiccionales.
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
 El Gobernador o la Legislatura del Estado, podrán solicitar a Comisión de Derechos Humanos del Estado de Zacatecas, investigar hechos que por sus características constituyan violaciones graves de derechos humanos. El desarrollo de este procedimiento ejercerá facultades de autoridad investigadora en los términos de ley, sin que autoridad alguna pueda negarle la información que requiera. La Comisión mantendrá la reserva de la información que se le proporcione con ese carácter. Cuando así proceda, presentará las denuncias ante la autoridad competente.
 
@@ -587,7 +595,9 @@ Sus resoluciones serán vinculatorias, definitivas e inatacables para los sujeto
 
 La Ley establecerá la información que se considere reservada o confidencial.
 
-El Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, se integrará por tres Comisionados, de acuerdo al procedimiento que establezca la Ley en la materia. Los comisionados del Instituto, no podrán tener otro empleo, cargo o comisión, con excepción de actividades en instituciones docentes, científicas o de beneficencia.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+
+El Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, se integrará por tres Comisionados, de acuerdo al procedimiento que establezca la ley de la materia. Los comisionados del Instituto, no podrán tener otro empleo, cargo o comisión, con excepción de actividades en instituciones docentes, científicas o de beneficencia. Además, contará con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del instituto, mismo que será designado por la votación las dos terceras partes de los miembros presentes de la Legislatura del Estado.
 
 En su conformación se procurará la equidad de género.
 
@@ -695,9 +705,9 @@ El Estado garantizará la certeza, imparcialidad, independencia, legalidad, máx
 
 I. Se ejercerá a través del Instituto Nacional Electoral y de un organismo público local electoral de carácter permanente, denominado Instituto Electoral del Estado de Zacatecas, que gozará de autonomía en su funcionamiento e independencia en sus decisiones, dotado de personalidad jurídica y patrimonio propio, en cuya integración participan los partidos políticos con registro y los ciudadanos, en los términos ordenados por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
-II. El Instituto Electoral del Estado de Zacatecas, es autoridad en la materia, profesional en el desempeño de sus actividades e independiente en sus decisiones. Contará con los órganos directivos, ejecutivos, técnicos y de vigilancia que le sean indispensables para el desempeño de su función. El Servicio Profesional Electoral Nacional determinará las bases para la incorporación del personal del Instituto al mismo. Podrá de acuerdo con la ley, introducir las modalidades y los avances tecnológicos para el ejercicio del sufragio popular, preservando su calidad de universal, libre, secreto y directo;
+II. El Instituto Electoral del Estado de Zacatecas, es autoridad en la materia, profesional en el desempeño de sus actividades e independiente en sus decisiones. Contará con los órganos directivos, ejecutivos, técnicos y de vigilancia que le sean indispensables para el desempeño de su función, así como con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del Instituto, mismo que será designado por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado. El Servicio Profesional Electoral Nacional determinará las bases para la incorporación del personal del Instituto al mismo. Podrá de acuerdo con la ley, introducir las modalidades y los avances tecnológicos para el ejercicio del sufragio popular, preservando su calidad de universal, libre, secreto y directo;
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -857,9 +867,11 @@ VII. Las impugnaciones de actos y resoluciones que violen los derechos de los ci
 
 VIII. Las demás que señalen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus leyes reglamentarias.
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
-C. El Tribunal de Justicia Electoral del Estado de Zacatecas contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento. Elaborará su anteproyecto de presupuesto de egresos y lo remitirá al Ejecutivo, a fin de que lo envíe a la Legislatura del Estado, para su estudio, discusión y, en su caso, aprobación; la Legislatura, será quien realice la revisión y fiscalización de los recursos asignados en términos de la Ley aplicable.
+C. El Tribunal de Justicia Electoral del Estado de Zacatecas contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento, así como con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del Tribunal, mismo que será designado por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado. Elaborará su anteproyecto de presupuesto de egresos y lo remitirá al Ejecutivo, a fin de que lo envíe a la Legislatura del Estado, para su estudio, discusión y, en su caso, aprobación; la Legislatura, será quien realice la revisión y fiscalización de los recursos asignados en términos de la Ley aplicable.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
 
 El Pleno del Tribunal, emitirá el Reglamento Interior, el Reglamento del Servicio Profesional de Carrera Jurisdiccional Electoral, así como los demás reglamentos y acuerdos generales que requiera para su adecuado funcionamiento.
 
@@ -1213,9 +1225,13 @@ Los Diputados que no concurran a una sesión, sin causa justificada o sin permis
 
 En la apertura de sesiones ordinarias del primer periodo de cada año de ejercicio de la Legislatura, el Gobernador o Gobernadora del Estado presentará un informe por escrito en el que manifieste el estado general que guarda la Administración Pública Estatal.
 
-Los diputados realizarán el análisis del informe y podrán solicitar al Gobernador o Gobernadora del Estado, ampliar la información mediante pregunta por escrito y citar a los titulares de las Dependencias y Entidades Paraestatales, así como al Procurador General de Justicia del Estado, quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley Orgánica del Poder Legislativo y su Reglamento General regularán el ejercicio de esta facultad.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
-El informe correspondiente al sexto año de ejercicio gubernamental será presentado, a más tardar, el último día del mes de julio del año que corresponda. La Comisión Permanente lo recibirá y convocará al Pleno de la Legislatura a periodo extraordinario de sesiones, el que se realizará dentro de los treinta días naturales siguientes a su recepción, para el sólo efecto de recibir a los titulares de las dependencias y entidades de la Administración Pública Estatal, así como al Procurador General de Justicia del Estado, quienes comparecerán a dar contestación a los cuestionamientos que los Diputados les formulen. Dentro del término referido, la Legislatura podrá solicitar al Titular del Poder Ejecutivo amplíe la información, mediante pregunta por escrito.
+Los diputados realizarán el análisis del informe y podrán solicitar al Gobernador o Gobernadora del Estado, ampliar la información mediante pregunta por escrito y citar a los titulares de las Dependencias y Entidades Paraestatales, así como al Fiscal General de Justicia del Estado, quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley Orgánica del Poder Legislativo y su Reglamento General regularán el ejercicio de esta facultad.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+
+El informe correspondiente al último año de ejercicio gubernamental será presentado, a más tardar, el último día del mes de julio del año que corresponda. La Comisión Permanente lo recibirá y convocará al Pleno de la Legislatura a periodo extraordinario de sesiones, el que se realizará dentro de los treinta días naturales siguientes a su recepción, para el sólo efecto de recibir a los titulares de las dependencias y entidades de la Administración Pública Estatal, así como al Fiscal General de Justicia del Estado, quienes comparecerán a dar contestación a los cuestionamientos que los Diputados les formulen. Dentro del término referido, la Legislatura podrá solicitar al Titular del Poder Ejecutivo amplié la información, mediante pregunta por escrito.
 
 #### SECCIÓN SEGUNDA. DE LA INICIATIVA Y FORMACIÓN DE LEYES
 
@@ -1333,13 +1349,11 @@ Sólo se autorizarán pasivos cuando se destinen para inversiones públicas prod
 
 Las solicitudes de autorización de créditos que se envíen a la Legislatura deberán acompañarse de la información financiera, programática, administrativa y económica que en cada caso justifique la medida.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
-XV. Expedir la Ley que regule la organización de la Entidad de Fiscalización Superior del Estado y las demás que normen la gestión, control y evaluación de los Poderes del Estado, Municipios y sus respectivos entes públicos.
+XV. Expedir las leyes que regulen la organización y facultades de la Auditoría Superior del Estado y las demás que normen la gestión, control y evaluación de los Poderes del Estado, Municipios y sus respectivos entes públicos, así como expedir la ley sobre el Sistema Estatal Anticorrupción, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional Anticorrupción, la presente Constitución y demás leyes aplicables;
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
-
-Evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Entidad de Fiscalización Superior del Estado, en los términos que disponga la ley. Al efecto, podrá requerirle informes sobre la evolución de los trabajos de fiscalización;
+Evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley. Al efecto, podrá requerirle informes sobre la evolución de los trabajos de fiscalización;
 
 XVI. Expedir las normas que regulen el proceso de planeación del desarrollo en el Estado y la participación de los sectores social y privado en la ejecución de acciones y programas;
 
@@ -1383,19 +1397,19 @@ XXX. Dirimir, en la vía concliatoria (sic), los conflictos políticos entre los
 
 Los conflictos de naturaleza contenciosa entre el Ejecutivo y los Municipios, y los de éstos entre sí, se resolverán sumariamente por el Tribunal Superior de Justicia;
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO No. 305, PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2009, SE REFORMAN EL PRIMER Y SEGUNDO PÁRRAFOS DE LA FRACCIÓN XXXI DEL ARTÍCULO 65, APARECIENDO PUNTOS SUSPENSIVOS DESPUÉS DE LOS CITADOS PARÁGRAFOS, HACIENDO ALUSIÓN A UN TERCER PÁRRAFO; SIN EMBARGO, EN EL DECRETO No. 147 PUBLICADO EN EL P.O. DE 15 DE MARZO DE 2000, SE ESTABLECIÓ REFORMAR LA FRACCIÓN REFERIDA PARA QUEDAR CONFORMADA POR DOS PÁRRAFOS.</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+XXXI. Revisar y resolver dentro de los siete meses siguientes a la recepción del Informe General Ejecutivo del Resultado de la Fiscalización Superior de las Cuentas Públicas del Gobierno Estatal, de los Municipios y de sus entes públicos paraestatales y paramunicipales, correspondientes al año anterior. Para el cumplimiento de las metas fijadas en los programas y proyectos de los presupuestos de egresos, podrá realizar auditorías sobre el desempeño.
 
-XXXI. Revisar y resolver dentro de los siete meses siguientes a la recepción de los Informes complementarios, sobre las cuentas públicas del Gobierno Estatal, de los Municipios y de sus entes públicos paraestatales y paramunicipales, correspondientes al año anterior y verificar los resultados de su gestión financiera y la utilización del crédito. Para el cumplimiento de las metas fijadas en los programas y proyectos de los presupuestos de egresos, podrá realizar auditorías sobre el desempeño.
-
-Para la revisión de las Cuentas Públicas la Legislatura se apoyará en la Entidad de Fiscalización Superior del Estado. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiera exactitud o justificación en los ingresos obtenidos, o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. Respecto de la revisión sobre el cumplimiento de los objetivos de los programas, dicha entidad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley;
+Para la revisión de las Cuentas Públicas la Legislatura se apoyará en la Auditoría Superior del Estado. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas, o no existiera exactitud o justificación en los ingresos obtenidos, o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. Respecto de la revisión sobre el cumplimiento de los objetivos de los programas, dicha entidad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley;
 
 XXXII. Recibir la Protesta de ley a los Diputados, al Gobernador, a los Magistrados del Poder Judicial y a los demás servidores públicos que deban rendirla ante ella;
 
 XXXIII. Convocar a elecciones extraordinarias en los casos en que, de conformidad con la legislación electoral, los órganos competentes hubieren declarado la nulidad de los comicios ordinarios;
 
-XXXIV. Nombrar o ratificar Magistrados y Consejeros en los términos de las leyes respectivas;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
+XXXIV. Nombrar o ratificar Magistrados y Consejeros en los términos de las leyes respectivas; aprobar, con la mayoría de los miembros presentes de la Legislatura, la designación que sobre el titular del órgano interno de control del Poder Ejecutivo realice el Gobernador del Estado y, designar por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en la presente Constitución;
 
 XXXV. Nombrar a la persona que deba sustituir al Gobernador del Estado en sus faltas temporales y absolutas, en los términos que expresa la Constitución;
 
@@ -1427,11 +1441,15 @@ XLV. Convocar y aprobar las peticiones de las consultas populares en los términ
 
 Convocar a foros de consulta a los ciudadanos, y llevarlos a cabo con el fin de obtener información y opiniones que contribuyan al ejercicio pleno de las atribuciones que esta Constitución le otorga;
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
-XLVI. Solicitar al titular del Ejecutivo la comparecencia de los Secretarios de Despacho, del Procurador General de Justicia del Estado, de los directores de corporaciones de seguridad pública, así como de los directores de la administración pública estatal.
+XLVI. Solicitar al titular del Ejecutivo la comparecencia de los Secretarios de Despacho, del Fiscal General de Justicia del Estado, de los directores de corporaciones de seguridad pública, así como de los directores de la administración pública estatal.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2000)</small>
 
 Podrá asimismo citar a los integrantes de los Ayuntamientos, así como a los directores de las administraciones públicas paraestatal y paramunicipal.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2000)</small>
 
 Todo lo anterior, a fin de que tales servidores públicos informen sobre el desempeño de su cargo;
 
@@ -1443,9 +1461,9 @@ XLVII. Investigar por sí o a través de sus comisiones, el desempeño de los ay
 
 XLVIII. Legislar en materia de transparencia gubernamental, acceso a la información pública y protección de datos personales en posesión de los sujetos obligados, así como en materia de organización y administración homogénea de los archivos, de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, las leyes generales en la materia y la presente Constitución;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
-XLIX. Nombrar a los comisionados del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales así como a los integrantes del Consejo Consultivo de dicha Comisión, en los términos establecidos en la ley; y
+XLIX. Nombrar a los comisionados del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, así como a los integrantes del Consejo Consultivo de dicha Comisión, en los términos establecidos en la ley; y
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
 
@@ -1513,101 +1531,67 @@ En la apertura de los periodos extraordinarios de sesiones el Gobernador del Est
 
 DE LA FISCALIZACIÓN SUPERIOR DEL ESTADO Y MUNICIPIOS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 71.
 
-Para dar cumplimiento a las facultades de la Legislatura en materia de revisión de cuentas públicas se apoyará en la Entidad de Fiscalización Superior del Estado, la cual tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
+Para dar cumplimiento a las facultades de la Legislatura en materia de revisión de cuentas públicas se apoyará en la Auditoría Superior del Estado, la cual tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+La Legislatura del Estado designará al titular de la Auditoría Superior del Estado por el voto de las dos terceras partes de sus miembros presentes. La Ley determinará el procedimiento para su designación. Dicho titular durará en su encargo siete años. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución.
 
-La Legislatura del Estado designará al titular de la Entidad de Fiscalización por las dos terceras partes de sus miembros presentes. La Ley determinará el procedimiento para su designación. Dicho titular durará en su encargo no menos de siete años. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución.
+Para ser titular de la Auditoría Superior del Estado se requiere contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades, cumplir además de los requisitos establecidos en las fracciones I, II, IV, y VI del artículo 97 de esta Constitución y los que señale la Ley. Durante su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+Los Poderes del Estado, los Municipios, los entes señalados en la fracción V de este artículo y los demás sujetos de fiscalización facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley. Asimismo, los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en la ley y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que señale la ley.
 
-Para ser titular de la Entidad de Fiscalización Superior del Estado se requiere contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades, cumplir además de los requisitos establecidos en las fracciones I, II, IV, y VI del artículo 97 de esta Constitución, los que señale la Ley. Durante su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere esta fracción.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
 
-Los Poderes del Estado, los Municipios, los entes señalados en la fracción V de este artículo y los demás sujetos de fiscalización facilitarán los auxilios que requiera la Entidad de Fiscalización Superior del Estado para el ejercicio de sus funciones, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley. Asimismo, los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Entidad de Fiscalización Superior del Estado, de conformidad con los procedimientos establecidos en la ley y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que señale la ley.
+Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior del Estado podrá solicitar información del ejercicio en curso, respecto de procesos concluidos.
 
-El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo.
-
-La Entidad de Fiscalización Superior del Estado tendrá a su cargo:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2013)</small>
+La Auditoría Superior del Estado tendrá a su cargo:
 
 I. Fiscalizar los ingresos y los egresos; el manejo, la custodia y la aplicación de los fondos y los recursos de los Poderes del Estado y Municipios y sus entes públicos paramunicipales y paraestatales, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos, establecidos conforme a las bases señaladas en el artículo 160 de esta Constitución, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas gubernamentales, a través de los informes que se rendirán en los términos que disponga la Ley.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+Sin perjuicio de los informes a que se refiere el párrafo anterior, en situaciones que determine la ley, podrá requerir a los sujetos de fiscalización la presentación de la documentación e informes relativos al ingreso, manejo y aplicación de los recursos públicos a su cargo. La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones, recomendaciones y acciones a promover que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-Sin perjuicio de los informes a que se refiere el párrafo anterior, en situaciones que determine la Ley, podrá requerir a los sujetos de fiscalización la presentación de la documentación e informes relativos al ingreso, manejo y aplicación de los recursos públicos a su cargo. Asimismo, sin perjuicio del principio de anualidad, la Entidad de Fiscalización Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y acciones a promover que, respectivamente, la Entidad de Fiscalización Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+También, sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la ley, derivado de denuncias, la Auditoría Superior del Estado, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior del Estado rendirá un informe específico a la Legislatura y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes;
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+II. Entregar a la Legislatura, dentro de los seis meses posteriores a su presentación, el informe individual de cada Cuenta Pública, así como el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, el cual se someterá a la consideración del Pleno de la Legislatura. El Informe General Ejecutivo será de carácter público y tendrá el contenido que determine la ley; éste último incluirá como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, los entes fiscalizados hayan presentado.
 
-También, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley, derivado de denuncias, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. La Entidad de Fiscalización Superior del Estado rendirá un informe específico a la Legislatura y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
+Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo y de los informes individuales de auditoría, se darán a conocer a los entes fiscalizados la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado para la elaboración de los referidos informes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+La Auditoría Superior del Estado enviará a los entes fiscalizados, los informes individuales de auditoría que les corresponda, a más tardar dentro de los 10 días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo a la Legislatura, mismos que contendrán las recomendaciones y acciones promovidas que correspondan para que, en un plazo de hasta 20 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo, se harán acreedores a las sanciones establecidas en la ley.
 
-II. Entregar el informe del resultado de la revisión de la Cuenta Pública a la Legislatura, dentro de los seis meses posteriores a su presentación. Dentro de dicho informe se incluirán las auditorías practicadas, los dictámenes de su revisión y el apartado correspondiente a la fiscalización del manejo de los recursos y la verificación del desempeño en el cumplimiento de los objetivos de los programas, así como un apartado específico con las observaciones de la Entidad de Fiscalización Superior que incluya las justificaciones y aclaraciones que, en su caso, los entes fiscalizados hayan presentado. Este informe del resultado será sometido a la consideración del pleno de la Legislatura y tendrá carácter público.
+Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa del Estado de Zacatecas, las cuales se sujetarán a los procedimientos y términos que señale la ley.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+La Auditoría Superior del Estado deberá pronunciarse mediante el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, en un plazo de 90 días hábiles sobre las respuestas emitidas por los entes fiscalizados, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
 
-Para tal efecto, de manera previa a la presentación del informe del resultado, se darán a conocer a los entes fiscalizados la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Entidad de Fiscalización Superior del Estado para la elaboración del informe del resultado de la revisión de la Cuenta Pública.
+En el caso de las recomendaciones, los entes fiscalizados deberán precisar ante la Auditoría Superior del Estado, las mejoras realizadas, las acciones emprendidas o, (sic) su caso, justificar su improcedencia.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
+La Auditoría Superior del Estado deberá entregar a la Legislatura dentro de los primeros tres días de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, la Auditoría incluirá los montos efectivamente resarcidos a la Hacienda Pública o al patrimonio de los entes públicos locales o municipales, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa del Estado.
 
-La Entidad de Fiscalización Superior del Estado enviará a los entes fiscalizados, a más tardar dentro de los 10 días hábiles posteriores a que sea entregado a la Legislatura el informe del resultado, las observaciones y acciones promovidas que correspondan para que, en un plazo de hasta 20 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en ley. Lo anterior, no aplicará a las denuncias penales y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que señale la ley.
+La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública a que se refiere este artículo. La ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+Los estados financieros y demás información presupuestaria, programática y contable que forman parte de la Cuenta Pública a que se refiere esta fracción, deberán elaborarse y presentarse con apego a la normatividad y técnicas establecidas en la legislación en materia de contabilidad gubernamental.
 
-La Entidad de Fiscalización Superior del Estado deberá pronunciarse en un plazo de 90 días hábiles sobre las respuestas emitidas por los entes fiscalizados, en caso de no hacerlo, se tendrán por atendidas las observaciones y acciones promovidas.
+III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos;
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
-
-En el caso de las recomendaciones al desempeño los entes fiscalizados deberán precisar ante la Entidad de Fiscalización Superior del Estado, las mejoras realizadas o, en su caso, justificar su improcedencia.
-
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
-
-La Entidad de Fiscalización Superior del Estado, deberá entregar a la Legislatura en los plazos que establezca la ley, un informe sobre la situación que guardan las observaciones y acciones promovidas.
-
-La entidad de Fiscalización Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo. La Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
-
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2013)</small>
-
-Los estados y demás información presupuestaria, programática y contable que forman parte de la Cuenta Pública a que se refiere esta fracción, deberán elaborarse y presentarse con apego a la normatividad y técnicas establecidas en la legislación en materia de contabilidad gubernamental.
-
-III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos; y
-
-IV. Determinar los daños y perjuicios que afecten a la Hacienda Pública del Estado o Municipios o al patrimonio de los entes públicos paraestatales y paramunicipales, y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Séptimo de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la Ley.
-
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2009)</small>
+IV. Derivado de sus investigaciones y una vez que cuente con las correspondientes conclusiones, la Auditoría Superior del Estado promoverá las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos estatales y municipales, y a los particulares vinculados con faltas administrativas graves;
 
 V. También fiscalizará los recursos que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en la ley y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
 Las entidades fiscalizadas a que se refiere el párrafo anterior, deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados, de acuerdo con los criterios que establezca la ley.
 
-La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad, y
+La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2009)</small>
+VI. Verificar el cumplimiento de los criterios generales que rigen la contabilidad gubernamental y la presentación homogénea de información financiera, patrimonial y de los ingresos y egresos de los entes públicos estatales y municipales.
 
-VI. Las sanciones y demás resoluciones de la Entidad de Fiscalización Superior del Estado, podrán ser impugnadas por los entes fiscalizados y, en su caso, por los servidores públicos afectados ante la propia Entidad de Fiscalización o ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
+VII. Vigilar la calidad de la información que proporcionen los entes públicos estatales y municipales, respecto al ejercicio y destino de los recursos públicos.
 
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2013)</small>
+VIII. Emitir los lineamientos y procedimientos técnicos conducentes al ejercicio de sus atribuciones, que deberán observar los entes públicos estatales y municipales, y
 
-VII. Verificar el cumplimiento de los criterios generales que rigen la contabilidad gubernamental y la presentación homogénea de información financiera, patrimonial y de los ingresos y egresos de los entes públicos estatales y municipales.
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2013)</small>
-
-VIII. Vigilar la calidad de la información que proporcionen los entes públicos estatales y municipales, respecto al ejercicio y destino de los recursos públicos.
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2013)</small>
-
-IX. Emitir los lineamientos y procedimientos técnicos conducentes al ejercicio de sus atribuciones, que deberán observar los entes públicos estatales y municipales, y
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2013)</small>
-
-X. Presentar a la Legislatura el Proyecto Anual de Fiscalización.
+IX. Informar a la Legislatura del Estado el Proyecto Anual de Fiscalización.
 
 ### CAPÍTULO SEGUNDO. DEL PODER EJECUTIVO
 
@@ -1725,7 +1709,9 @@ IX. Intervenir, en los términos que esta Constitución establece, en los proces
 
 X. Decretar expropiaciones por causa de utilidad pública en la forma que determine la ley, y aplicar las disposiciones de la Ley Reglamentaria de la Fracción XVII del Artículo 27 Constitucional;
 
-XI. Nombrar y remover libremente a los servidores de la Administración Pública estatal, en los términos de las leyes reglamentarias;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
+XI. Nombrar y remover libremente a los servidores de la Administración Pública estatal, en los términos de las leyes reglamentarias, con excepción del nombramiento del titular del órgano interno de control del Poder Ejecutivo del Estado, cuya designación será aprobada por la Legislatura;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -1739,9 +1725,9 @@ XV. Promover el desarrollo económico y social del Estado; iniciar e impulsar to
 
 XVI. Realizar visitas de trabajo a los Municipios del Estado, con el fin de evaluar su realidad política, económica y social e impulsar los programas de acciones que propicien su desarrollo integral;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
-XVII. Cuidar de la recaudación y administración de los ingresos del Estado, presentando anualmente a la Legislatura, a más tardar el 15 de febrero, la cuenta pública estatal correspondiente al año anterior; asegurar el manejo honesto, limpio y transparente de los recursos públicos; informar a la población cada tres meses sobre la situación que guardan las finanzas del Estado;
+XVII. Cuidar de la recaudación y administración de los ingresos del Estado, presentando anualmente a la Legislatura, a más tardar el 30 de abril, la cuenta pública estatal correspondiente al año anterior; asegurar el manejo honesto, limpio y transparente de los recursos públicos; informar a la población cada tres meses sobre la situación que guardan las finanzas del Estado;
 
 XVIII. Ordenar la inversión de los caudales públicos del Estado en los distintos ramos de la administración, de conformidad con lo prevenido por la ley;
 
@@ -1837,37 +1823,81 @@ Los reglamentos, decretos, acuerdos y demás disposiciones de carácter general 
 
 Los titulares de las dependencias del Ejecutivo serán responsables de las órdenes y providencias que autoricen con su firma, así como de toda falta, omisión o violación en que incurran con motivo del ejercicio de sus funciones.
 
-### CAPÍTULO TERCERO. DEL PODER JUDICIAL
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 128 PUBLICADO EN EL P.O. DE 22 DE MARZO DE 2017, SE ADVIERTE QUE CON LA ADICIÓN DEL PRESENTE CAPÍTULO SE OCUPA EL LUGAR DE LA ANTIGUA SECCIÓN CUARTA DENOMINADA "DEL MINISTERIO PÚBLICO".]</small>
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+### CAPÍTULO SEGUNDO BIS. DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS Y EL MINISTERIO PÚBLICO
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 87.
 
-La ley organizará al Ministerio Público del Estado, cuyos funcionarios serán nombrados y removidos por el Ejecutivo de acuerdo con la ley respectiva. El Ministerio Público estará presidido por un Procurador General de Justicia, quien deberá llenar los requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia. Será designado por el Gobernador, con la ratificación de la mayoría de los miembros de la Legislatura del Estado y podrá ser removido libremente por él.
+El Ministerio Público se organizará en una Fiscalía General de Justicia del Estado, que tendrá el carácter de organismo público autónomo dotado de personalidad jurídica y patrimonio propio y contará en su estructura con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos de la Fiscalía y será designado por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado.
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. D E. CON SUS FRACCIONES], P.O. 22 DE MARZO DE 2017)</small>
 
-La Procuraduría General de Justicia del Estado de Zacatecas, contará con una Fiscalía Especializada en Atención de Delitos Electorales, el Estado garantizará que cuente con los recursos humanos, financieros y materiales que requiera, para su efectiva operación. Su titular será designado por el Gobernador con la ratificación de las dos terceras partes de los integrantes de la Legislatura del Estado y podrá ser removido por aquél.
+La ley organizará a la Fiscalía General de Justicia del Estado, cuyos servidores públicos serán nombrados y removidos de acuerdo con la presente Constitución y la ley respectiva. Estará presidida por un Fiscal General de Justicia, quien durará en su encargo siete años y deberá llenar los requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia. Será designado y removido conforme al procedimiento siguiente:
+
+I. A los 30 días antes de concluir el período para el cual fue designado el Fiscal General, o en su caso, a partir de su ausencia definitiva, la Legislatura del Estado contará con veinte días para integrar una lista de, al menos, cinco candidatos al cargo, aprobada por el voto de las dos terceras partes de los miembros presentes, la cual enviará al Gobernador.
+
+Si el Gobernador no recibe la lista en el plazo antes señalado, enviará libremente a la Legislatura una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
+
+II. Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Gobernador formulará una terna y la enviará a la consideración de la Legislatura.
+
+III. La Legislatura, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+
+En caso de que el Gobernador no envíe la terna a que se refiere la fracción anterior, la Legislatura tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala la fracción I.
+
+Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+
+IV. El Fiscal General podrá ser removido por el Ejecutivo por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General de Justicia será restituido en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
+
+V. En los recesos de la Legislatura, la Comisión Permanente lo convocará de inmediato a periodo extraordinario para la designación o formulación de objeción a la remoción del Fiscal General.
+
+VI. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 22 DE MARZO DE 2017]</small>
+
+El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo un informe de actividades. Comparecerá ante la Legislatura del Estado, cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 22 DE MARZO DE 2017]</small>
+
+El Fiscal General de Justicia, los Fiscales especializados y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+
+La Fiscalía General de Justicia del Estado de Zacatecas, contará, al menos, con las Fiscalías Especializadas, en Atención de Delitos Electorales, de Combate a la Corrupción y de Derechos Humanos, el Estado garantizará que cuenten con los recursos humanos, financieros y materiales que requieran, para su efectiva operación, cuyos titulares serán nombrados por el Fiscal General de Justicia. El nombramiento y remoción de los fiscales antes referidos podrán ser objetados por la Legislatura del Estado, por el voto de las dos terceras partes de sus miembros presentes, en el plazo que fije la ley; si la Legislatura no se pronunciare en este plazo, se entenderá que no tiene objeción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 88.
 
-Son funciones del Ministerio Público: la persecución de los delitos del orden común ante los tribunales; solicitar las órdenes de aprehensión contra los inculpados; allegarse y requerir las pruebas que acrediten su responsabilidad; procurar que los procesos se sigan con toda regularidad para que la justicia sea eficaz, imparcial, pronta y expedita; pedir la aplicación de las penas y la reparación de los daños causados a las víctimas del delito, e intervenir en todos los demás asuntos que las leyes determinen.
+Son funciones del Ministerio Público: la persecución de los delitos del orden común ante los tribunales y juzgados; solicitar las medidas cautelares contra los imputados y órdenes de aprehensión contra los inculpados; allegarse, requerir y presentar las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurar que los procesos se sigan con toda regularidad para que la justicia sea eficaz, imparcial, pronta y expedita; pedir la aplicación de las penas y la reparación de los daños causados a las víctimas del delito e intervenir en todos los demás asuntos que las leyes determinen.
 
-Para la investigación de los delitos y persecución de los delincuentes, el Ministerio Público se auxiliará de la Policía Ministerial, la cual estará bajo el mando y la autoridad del Procurador.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General de Justicia, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Para la investigación de los delitos y persecución de los delincuentes, el Ministerio Público se auxiliará de la Policía Ministerial, la cual estará bajo el mando y la autoridad del Fiscal General de Justicia.
 
 En ejercicio de las funciones que le competan, tal Policía deberá ser auxiliada por los demás cuerpos de seguridad pública del Estado y sus Municipios.
 
 ###### Artículo 89.
 
-El Procurador General de Justicia será el representante legal del Gobierno e intervendrá personalmente en los negocios en que el Estado sea parte, y en las controversias y acciones a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos cuando se vea afectado el interés del Estado o de alguno de los Municipios; y por sí, o por conducto de sus agentes, cuando se perjudique el interés público o lo determinen las leyes. Será además el consejero jurídico del Gobierno del Estado.
+(DEROGADO, P.O. 22 DE MARZO DE 2017)
 
-El Procurador y sus agentes se someterán estrictamente a las disposiciones de la ley y serán responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+### CAPÍTULO TERCERO. DEL PODER JUDICIAL
 
-### CAPÍTULO CUARTO. DE LA JUSTICIA ADMINISTRATIVA
+#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
 
-#### SECCIÓN CUARTA. DEL MINISTERIO PÚBLICO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 90.
 
-El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal de lo Contencioso Administrativo, en un Tribunal Especializado en Justicia para Adolescentes, Juzgados de primera instancia y municipales.
+El ejercicio del Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal Especializado en Justicia para Adolescentes, Juzgados de primera instancia, de control y tribunales de enjuiciamiento.
 
 Corresponde a los tribunales del Estado la facultad de aplicar las leyes en asuntos del orden común, así como en materia federal cuando las leyes los faculten.
 
@@ -1891,17 +1921,19 @@ Los Magistrados del Poder Judicial y los Jueces percibirán remuneración adecua
 
 El Presupuesto de Egresos que anualmente sea autorizado, deberá incluir los tabuladores desglosados de las remuneraciones de todos los servidores públicos, observando las bases establecidas en el artículo 160 de esta Constitución.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+
 ###### Artículo 93.
 
-La competencia del Tribunal Superior de Justicia, el funcionamiento del Pleno y de las Salas, las atribuciones de Magistrados y Jueces, el número y competencia de los Juzgados de primera instancia y municipales, y las responsabilidades en que incurran los funcionarios y trabajadores del Poder Judicial del Estado, se regirán por lo que dispongan las leyes y los reglamentos respectivos conforme a esta Constitución.
+La competencia del Tribunal Superior de Justicia, el funcionamiento del Pleno y de las Salas, las atribuciones de Magistrados y Jueces, el número y competencia de los Juzgados de primera instancia, de control y tribunales de enjuiciamiento y las responsabilidades en que incurran los funcionarios y trabajadores del Poder Judicial del Estado, se regirán por lo que dispongan las leyes y los reglamentos respectivos conforme a esta Constitución.
 
 ###### Artículo 94.
 
 Los Magistrados y Jueces no podrán en ningún caso aceptar y desempeñar empleo o cargo de la Federación, de otros Estados, Municipios, instituciones, o de particulares, salvo los cargos honoríficos y los de docencia. La infracción de esta disposición será castigada con la pérdida del cargo.
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCIÓN SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
 
 ###### Artículo 95.
 
@@ -1947,7 +1979,9 @@ III. Poseer el día de la designación, con antigüedad mínima de diez años, t
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-V. No tener parentesco de consanguinidad hasta el tercer grado con los demás Magistrados del Tribunal Superior ni con el Procurador General de Justicia; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
+V. No tener parentesco de consanguinidad hasta el tercer grado con los demás Magistrados del Tribunal Superior ni con el Fiscal General de Justicia; y
 
 VI. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1991,13 +2025,15 @@ VI. Nombrar a los demás trabajadores al servicio del Poder Judicial, así como 
 
 VII. Conceder licencias a Magistrados, Jueces y trabajadores de confianza del Poder Judicial, según lo establezca su Ley Orgánica y reglamentos, así como a los trabajadores de base conforme a la Ley del Servicio Civil;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
-VIII. Supervisar el estado de la Administración de Justicia en los juzgados de primera instancia y municipales.
+VIII. Supervisar el estado de la Administración de Justicia en los Juzgados de primera instancia, de control y tribunales de enjuiciamiento;
 
 IX. Ejercer y administrar en forma autónoma el presupuesto de egresos que apruebe anualmente la Legislatura del Estado;
 
-X. Formular y aplicar los exámenes de oposición a los aspirantes a Jueces de primera instancia;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
+X. Formular y aplicar los exámenes de oposición a los aspirantes a Jueces de primera instancia, de control y de tribunales de enjuiciamiento;
 
 XI. Emitir opinión acerca de la legalidad de una ley antes de que sea publicada, siempre que lo solicite el Gobernador del Estado, la cual en ningún caso se hará pública; y
 
@@ -2031,9 +2067,7 @@ V. De la responsabilidad oficial de los Jueces en la forma que establezcan las l
 
 VI. De los demás asuntos que las leyes sometan a su jurisdicción.
 
-#### SECCIÓN SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2000)</small>
+#### SECCIÓN TERCERA. DEL TRIBUNAL ESTATAL ELECTORAL
 
 ###### Artículo 102.
 
@@ -2043,19 +2077,23 @@ VI. De los demás asuntos que las leyes sometan a su jurisdicción.
 
 (DEROGADO, P.O. 12 DE JULIO DE 2014)
 
-#### SECCIÓN TERCERA. DEL TRIBUNAL ESTATAL ELECTORAL
+#### SECCIÓN CUARTA. DE LOS JUECES DE PRIMERA INSTANCIA Y MUNICIPALES
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 104.
 
-Los Jueces de primera instancia serán nombrados por el pleno del Tribunal Superior de Justicia mediante concurso de oposición.
+Los Jueces de primera instancia, de control y de tribunales de enjuiciamiento serán nombrados por el pleno del Tribunal Superior de Justicia mediante concurso de oposición.
 
 ###### Artículo 105.
 
 Los Jueces de primera instancia durarán en su cargo tres años, al término de los cuales, si fueren ratificados, sólo podrán ser privados de sus puestos en los términos del Título VII de esta Constitución y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+
 ###### Artículo 106.
 
-Habrá en el Estado el numero de Jueces de primera instancia que determine la Ley Orgánica del Poder Judicial, con la jurisdicción, atribuciones y deberes que la misma les señale.
+Habrá en el Estado el número de Jueces de primera instancia, de control y tribunales de enjuiciamiento que determine la Ley Orgánica del Poder Judicial, con la jurisdicción, atribuciones y deberes que la misma les señale.
 
 ###### Artículo 107.
 
@@ -2067,7 +2105,9 @@ II. Tener veinticinco años cumplidos el día de su designación, título de lic
 
 III. Gozar de buena reputación y observar buena conducta;
 
-IV. No tener parentesco de consanguinidad hasta el tercer grado con los Magistrados del Tribunal Superior ni con el Procurador General de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
+IV. No tener parentesco de consanguinidad hasta el tercer grado con los Magistrados del Tribunal Superior ni con el Fiscal General de Justicia del Estado; y
 
 V. Aprobar el examen de oposición respectivo.
 
@@ -2087,7 +2127,7 @@ Los Jueces municipales tendrán las facultades y obligaciones que les atribuya l
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE MAYO DE 2000)</small>
 
-#### SECCIÓN CUARTA. DE LOS JUECES DE PRIMERA INSTANCIA Y MUNICIPALES
+#### SECCIÓN QUINTA. DEL JURADO POPULAR
 
 ###### Artículo 110.
 
@@ -2097,21 +2137,55 @@ Los Jueces municipales tendrán las facultades y obligaciones que les atribuya l
 
 (DEROGADO, P.O. 10 DE MAYO DE 2000)
 
-### CAPÍTULO PRIMERO. DE LA ESTRUCTURA
-
-#### SECCIÓN QUINTA. DEL JURADO POPULAR
-
-###### Artículo 112.
-
-El Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, forma parte del Poder Judicial del Estado. Conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública estatal o municipal e intermunicipal y los particulares, dotado de plena jurisdicción y autonomía para dictar y ejecutar sus resoluciones, así como de las sanciones y demás resoluciones de la Entidad de Fiscalización Superior del Estado.
-
-###### Artículo 113.
-
-El Tribunal se integra por un Magistrado propietario y los supernumerarios que se requieran, los cuales serán designados por la Legislatura del Estado y deberán satisfacer los mismos requisitos que se exigen para los Magistrados del Poder Judicial.
+### CAPÍTULO CUARTO. DE LA JUSTICIA ADMINISTRATIVA
 
 #### SECCIÓN PRIMERA. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+
+###### Artículo 112.
+
+El Tribunal de Justicia Administrativa del Estado de Zacatecas, es un organismo jurisdiccional con personalidad jurídica y patrimonio propio, dotado de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones. Conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública estatal o municipal e intermunicipal y los particulares; asimismo impondrá, de acuerdo a la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Responsabilidades Administrativas, la presente Constitución, la ley de responsabilidades del Estado y demás leyes aplicables, las sanciones a los servidores públicos por responsabilidad administrativa grave; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal o municipal o al patrimonio de los entes públicos locales o municipales e impondrán a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otras responsabilidades, las sanciones económicas, la inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas, así como el resarcimiento de los daños y perjuicios ocasionados a los entes o la hacienda pública.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Contará con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del Tribunal y será designado por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+
+###### Artículo 113.
+
+El Tribunal se integra por tres Magistrados, los cuales serán designados por la Legislatura del Estado, durarán en su encargo siete años y deberán satisfacer los mismos requisitos que se exigen para los Magistrados del Tribunal Superior de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+El procedimiento de designación de los Magistrados, deberá comenzar treinta días previos a la conclusión del periodo por el que fueron nombrados.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+La Legislatura del Estado, contará con veinte días para integrar una lista de ocho candidatos, la cual deberá ser aprobada por las dos terceras partes de los miembros presentes y será enviada al Gobernador. Si el Gobernador no recibe la lista en el plazo señalado, enviará libremente a la Legislatura una lista de cinco personas y designará provisionalmente a los tres Magistrados, quienes ejercerán sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, los Magistrados designados podrán formar parte de la lista.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+De ser enviada por la Legislatura la lista en el plazo señalado en el párrafo anterior, dentro de los diez días siguientes el Gobernador formulará una lista de cinco personas y la enviará a la consideración de la Legislatura.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Con base en la lista, la Legislatura previa comparecencia de las personas propuestas, designará a los tres Magistrados que integrarán el Tribunal por el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+En caso de que el Gobernador no envíe la lista a que se refiere el párrafo anterior, la Legislatura tendrá diez días para designar a los Magistrados de entre los candidatos de la lista que en un principio envío al Gobernador.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará a los Magistrados de entre los candidatos que integren la lista a que se refiere el párrafo anterior o, en su caso, de la lista de cinco personas que puso a consideración de la Legislatura.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Los Magistrados solo podrán ser removidos de sus cargos por las causas graves que señale la ley.
+
+#### SECCIÓN SEGUNDA. DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
 
 ###### Artículo 114.
 
@@ -2123,7 +2197,7 @@ El Tribunal de Conciliación y Arbitraje se integra con tres Magistrados, por lo
 
 ## TÍTULO V. DEL MUNICIPIO LIBRE
 
-### CAPÍTULO SEGUNDO. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
+### CAPÍTULO PRIMERO. DE LA ESTRUCTURA
 
 ###### Artículo 116.
 
@@ -2287,7 +2361,9 @@ El Ayuntamiento se integrará por un Presidente, un Síndico y el número de Reg
 
 El Ayuntamiento es depositario de la función pública municipal y constituye la primera instancia de gobierno, con el propósito de recoger y atender las necesidades colectivas y sociales, así como para articular y promover el desarrollo integral y sustentable del Municipio.
 
-Los Ayuntamientos crearán las dependencias y entidades de la administración pública municipal necesarias para cumplir con las atribuciones de su competencia.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Los Ayuntamientos crearán las dependencias y entidades de la administración pública municipal necesarias para cumplir con las atribuciones de su competencia; contarán con órganos internos de control designados en los términos de las leyes de la materia.
 
 La competencia que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución otorgan al gobierno municipal, será ejercida exclusivamente por el Ayuntamiento y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
@@ -2351,9 +2427,7 @@ IX. De acuerdo con lo que determine la ley reglamentaria, en los centros de pobl
 
 Los integrantes de los órganos auxiliares en los términos que señale la ley reglamentaria, tendrán el carácter de Delegados Municipales, no se considerarán parte del Ayuntamiento pero podrán asistir a las sesiones públicas y abiertas que éste celebre, para exponer los asuntos que atañen a la comunidad que representan, teniendo voz pero no voto.
 
-### CAPÍTULO TERCERO. DE LA CREACIÓN, FUSIÓN, RESTITUCIÓN Y SUPRESIÓN DE MUNICIPIOS
-
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
+### CAPÍTULO SEGUNDO. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
 
 ###### Artículo 119.
 
@@ -2539,15 +2613,17 @@ Los Municipios podrán convenir con el gobierno del Estado, asumir la prestació
 
 Los Ayuntamientos someterán a la consideración de la Legislatura la aprobación de sus leyes de ingresos y tendrán facultades para aprobar los respectivos presupuestos de egresos con base en la disponibilidad de sus ingresos, tomando en cuenta las prioridades que fijen los planes de desarrollo y los programas operativos anuales del año que corresponda, debiendo observar las normas que expida el Poder Legislativo en cuanto a manejo presupuestal y cuenta pública, como las relativas a las remuneraciones que por el desempeño de su función, empleo, cargo, comisión o responsabilidad, contengan los tabuladores de remuneraciones previstos en sus respectivos presupuestos de egresos para sus servidores públicos.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
-A más tardar el 15 de febrero del año siguiente a la conclusión del año fiscal, el Ayuntamiento enviará a la Legislatura la cuenta pública, junto con los informes y documentos que justifiquen la aplicación de los ingresos y egresos, el cumplimiento de las metas propuestas en el Plan Municipal y en los programas operativos anuales, así como el manejo del crédito y la situación de la deuda pública; lo anterior, sin perjuicio del informe trimestral que rendirá a la Legislatura.
+A más tardar el 30 de abril del año siguiente a la conclusión del año fiscal, el Ayuntamiento enviará a la Legislatura la cuenta pública, junto con los informes y documentos que justifiquen la aplicación de los ingresos y egresos, el cumplimiento de las metas propuestas en el Plan Municipal y en los programas operativos anuales, así como el manejo del crédito y la situación de la deuda pública.
 
 ###### Artículo 122.
 
 Los miembros del Ayuntamiento, el Presidente Municipal y los servidores públicos de la administración municipal, son personalmente responsables de los actos que en el ejercicio de sus funciones ejecuten en contravención de las leyes.
 
-Los Ayuntamientos y la Legislatura, en el ámbito de sus competencias, conocerán y sancionarán estos actos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas; cuando las acciones constituyan delito, conocerán las autoridades competentes.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Los órganos internos de control de los ayuntamientos, en el ámbito de sus competencias, conocerán y sancionarán estos actos en los términos de las leyes de responsabilidades administrativas; cuando las acciones constituyan delito, conocerán las autoridades competentes.
 
 ###### Artículo 123.
 
@@ -2555,7 +2631,9 @@ Las actas, registros, constancias y demás documentos que expidan los Ayuntamien
 
 > <small>(ADICIONADA [N. DE E. REFORMADA] SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-### CAPÍTULO CUARTO. SUSPENSIÓN O DESAPARICIÓN DE AYUNTAMIENTOS
+### CAPÍTULO TERCERO. DE LA CREACIÓN, FUSIÓN, RESTITUCIÓN Y SUPRESIÓN DE MUNICIPIOS
+
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 124.
 
@@ -2587,7 +2665,7 @@ Cuando dos o más Municipios limítrofes no satisfagan dichas condiciones, la Le
 
 Cuando exista duda respecto de la línea divisoria entre dos o más Municipios, los Ayuntamientos la fijarán de común acuerdo, el cual someterán a la aprobación de la Legislatura. En el caso de que no hubiere acuerdo, los Ayuntamientos podrán ocurrir ante el Tribunal Superior de Justicia del Estado a efecto de que, una vez que los haya oido y recibido las pruebas ofrecidas, resuelva en forma definitiva.
 
-### CAPÍTULO QUINTO. DEL GOBIERNO MUNICIPAL
+### CAPÍTULO CUARTO. SUSPENSIÓN O DESAPARICIÓN DE AYUNTAMIENTOS
 
 ###### Artículo 125.
 
@@ -2621,9 +2699,9 @@ Si la falta absoluta del Ayuntamiento acontece en los dos últimos años de su e
 
 Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente o se procederá según lo disponga la ley.
 
-### CAPÍTULO PRIMERO. DE LA ESTRUCTURA
+### CAPÍTULO QUINTO. DEL GOBIERNO MUNICIPAL
 
-#### SECCIÓN SEGUNDA. DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
+#### SECCIÓN PRIMERA. DEL GOBIERNO Y DE LAS DEPENDENCIAS MUNICIPALES
 
 ###### Artículo 127.
 
@@ -2633,17 +2711,17 @@ La Ley Orgánica del Municipio Libre determinará las facultades y obligaciones 
 
 #### SECCIÓN SEGUNDA. DE LA REPRESENTACIÓN Y PERSONERÍA DEL AYUNTAMIENTO
 
-#### SECCIÓN PRIMERA. DEL GOBIERNO Y DE LAS DEPENDENCIAS MUNICIPALES
-
 ###### Artículo 128.
 
 El Presidente Municipal tendrá a su cargo la representación del Gobierno del Municipio y la ejecución de las resoluciones del Ayuntamiento.
 
 El Síndico municipal asumirá la representación jurídica en los juicios en que el Ayuntamiento sea parte. A falta o negativa del Síndico, tal personería recaerá en el Presidente Municipal.
 
-## TÍTULO VI. DEL SISTEMA ECONÓMICO DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2017)</small>
 
-### CAPÍTULO SEGUNDO. DE LA PROPIEDAD INMOBILIARIA Y LOS ASENTAMIENTOS HUMANOS
+## TÍTULO VI. DEL SISTEMA ECONÓMICO DEL ESTADO Y DEL SISTEMA ESTATAL ANTICORRUPCIÓN
+
+### CAPÍTULO PRIMERO. DE LA ESTRUCTURA
 
 ###### Artículo 129.
 
@@ -2677,7 +2755,7 @@ El Estado promoverá las condiciones para el desarrollo rural integral sustentab
 
 El desarrollo rural integral sustentable a que se refiere el párrafo anterior, también tendrá entre sus fines que el Estado garantice el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
 
-### CAPÍTULO TERCERO. DEL PATRIMONIO Y LA HACIENDA PÚBLICA DEL ESTADO
+### CAPÍTULO SEGUNDO. DE LA PROPIEDAD INMOBILIARIA Y LOS ASENTAMIENTOS HUMANOS
 
 ###### Artículo 132.
 
@@ -2703,7 +2781,9 @@ Se consideran de utilidad pública la ordenación de los asentamientos humanos; 
 
 El Ejecutivo del Estado y los Ayuntamientos ejercerán las atribuciones que en materia de desarrollo urbano les otorgan las leyes, así como las que se refieren a la organización y operación de los fraccionamientos rurales en los términos del párrafo tercero y la fracción XVII del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
-### CAPÍTULO CUARTO. DEL PATRIMONIO Y LA HACIENDA DEL MUNICIPIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2017)</small>
+
+### CAPÍTULO TERCERO. DEL PATRIMONIO, LA HACIENDA PÚBLICA DEL ESTADO Y EL SISTEMA ESTATAL ANTICORRUPCIÓN
 
 ###### Artículo 137.
 
@@ -2716,6 +2796,30 @@ La hacienda pública será administrada por el Ejecutivo en la forma que preveng
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
 Los caudales de la hacienda pública estatal se administrarán con eficiencia, eficacia, economía, transparencia y honradez y no podrán ser empleados, por ningún concepto, en beneficio exclusivo de alguno de los Municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Se crea el Sistema Estatal Anticorrupción que será la instancia de coordinación entre las autoridades, órganos, organismos y tribunales competentes para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como la fiscalización y control de recursos públicos. La ley establecerá las bases para el cumplimiento de su objeto, la cual se sujetará a las siguientes bases mínimas:
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado, de la Fiscalía Especializada en Combate a la Corrupción, el titular del órgano interno de control del Poder Ejecutivo del Estado, por el Presidente del Tribunal de Justicia Administrativa del Estado de Zacatecas y del titular del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales; así como por un representante del Tribunal Superior de Justicia y otro del Comité de Participación Ciudadana;
+
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley;
+
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la ley:
+
+a) El establecimiento de mecanismos de coordinación con el Sistema Nacional Anticorrupción, acorde a los emitidos por dicho Sistema;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones estatales y municipales competentes;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades estatales y municipales en materia de fiscalización y control de los recursos públicos;
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas. Para este efecto deberán observar las metodologías que emita el Sistema Nacional Anticorrupción.
 
 ###### Artículo 139.
 
@@ -2757,11 +2861,11 @@ Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, la pre
 
 Cuando las licitaciones a que se hace referencia en el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán los procedimientos, requisitos, bases, reglas y demás elementos para garantizar la economía, eficiencia, imparcialidad y honradez.
 
-Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título VII de esta Constitución.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
-### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES OFICIALES
+Los servidores públicos y los particulares serán responsables del cumplimiento de estas bases en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Responsabilidades Administrativas, esta Constitución y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+### CAPÍTULO CUARTO. DEL PATRIMONIO Y LA HACIENDA DEL MUNICIPIO
 
 ###### Artículo 145.
 
@@ -2789,23 +2893,31 @@ La hacienda de los Municipios del Estado se formará en los términos de la frac
 
 Asimismo, se integrará con los ingresos provenientes del impuesto sobre diversiones y espectáculos públicos y de los relativos al funcionamiento y operación de establecimientos destinados al almacenaje, distribución, venta y consumo de bebidas alcohólicas, en la forma y términos que determine la ley de la materia.
 
-## TÍTULO VII. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2017)</small>
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE JUICIO POLÍTICO
+## TÍTULO VII. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES O HECHOS DE CORRUPCIÓN Y PATRIMONIAL DEL ESTADO
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2017)</small>
+
+### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 147.
 
-Para los efectos de las responsabilidades a que se refiere este Título, se reputará como servidores públicos a los representantes de elección popular estatales y municipales; a los miembros del Poder Judicial del Estado; a los funcionarios y empleados de los Poderes Legislativo y Ejecutivo; a los Magistrados de otros tribunales, a los integrantes del Instituto Estatal Electoral y, en general, a toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza al servicio de la Administración Pública centralizada y paraestatal, municipal y paramunicipal, así como de los organismos públicos autónomos, quienes serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones.
+Para los efectos de las responsabilidades a que se refiere esta Constitución, se reputará como servidores públicos a los representantes de elección popular estatales y municipales; a los miembros del Poder Judicial del Estado; a los funcionarios y empleados de los Poderes Legislativo y Ejecutivo; a los integrantes, del Instituto Electoral del Estado, de la Comisión de Derechos Humanos del Estado, del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, de la Fiscalía General de Justicia del Estado, del Tribunal de Justicia Administrativa del Estado de Zacatecas, a los Magistrados de otros tribunales y, en general, a toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza al servicio de la Administración Pública centralizada y paraestatal, municipal, paramunicipal e intermunicipal, quienes serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Los servidores públicos a los que se refiere este artículo, estarán obligados a presentar anualmente, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes, de conformidad con lo que determinen las leyes aplicables.
 
 Son inatacables las declaraciones y resoluciones que de conformidad con lo dispuesto en este Título, expidan la Legislatura o el Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 148.
 
-El Gobernador del Estado, los Diputados a la Legislatura local y los Magistrados del Tribunal Superior de Justicia, así como los miembros de los organismos a los que esta Constitución les otorgue autonomía, serán responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
+El Gobernador del Estado, los Diputados a la Legislatura local y los Magistrados del Tribunal Superior de Justicia, así como los miembros de los organismos a los que esta Constitución les otorgue autonomía, serán responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes generales y federales, así como por el manejo indebido de fondos y recursos.
 
 El Gobernador del Estado durante el tiempo de su encargo y mediante juicio político o en su caso declaración de procedencia, sólo podrá ser acusado por violaciones graves y sistemáticas a la Constitución Política local, por actos u omisiones que obstruyan o impidan el libre ejercicio de la función de los derechos electorales y por delitos graves del orden común.
 
@@ -2813,29 +2925,59 @@ El Gobernador del Estado durante el tiempo de su encargo y mediante juicio polí
 
 En los casos en que los servidores públicos del Estado a quienes sea aplicable lo dispuesto por el segundo párrafo del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, hayan sido objeto de juicio político ante el Congreso de la Unión y éste comunique a la Legislatura del Estado la resolución declaratoria de condena, el órgano Legislativo local procederá a decretar la destitución del servidor público y su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+
 ###### Artículo 150.
 
-La Legislatura del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, y las demás normas tendientes a sancionar a quienes teniendo este carácter incurran en responsabilidades, de conformidad con las siguientes prevenciones:
+La Legislatura del Estado, de acuerdo con la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Responsabilidades Administrativas, expedirá la Ley que establezca las responsabilidades administrativas de los servidores públicos y particulares vinculados con faltas administrativas, de conformidad a las siguientes prevenciones:
 
 I. Se impondrán, mediante juicio político, las sanciones de destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones a los servidores públicos señalados en el artículo siguiente, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
 No procede el juicio político por la mera expresión de ideas;
 
-II. La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
-III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+II. La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal;
 
-Se oirá en defensa al inculpado, y los procedimientos para la aplicación de las sanciones se desarrollarán autónomamente. No podrán imponerse dos veces sanciones de la misma naturaleza por una sola conducta.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
+III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Los procedimientos para la aplicación de las sanciones se desarrollarán autónomamente. No podrán imponerse dos veces sanciones de la misma naturaleza por una sola conducta.
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o con motivo del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y la privación de la propiedad de dichos bienes, además de las penas distintas que correspondan.
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Legislatura respecto de las conductas a las que se refiere el presente artículo.
 
-### CAPÍTULO TERCERO. DE LA DECLARACIÓN DE PROCEDENCIA
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control, y serán resueltas por el Tribunal de Justicia Administrativa del Estado. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+La ley, establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+Los entes públicos estatales y municipales tendrán órganos internos de control, con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas que son distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos; así como presentar denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción, no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+
+La Auditoría Superior del Estado y el órgano interno de control del Poder Ejecutivo del Estado, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa.
+
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE JUICIO POLÍTICO
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 151.
 
-Podrán ser sujetos de juicio político, los Diputados a la Legislatura del Estado; los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Electoral del Estado, del Tribunal de lo Contencioso Administrativo y del Tribunal de Conciliación y Arbitraje; el Procurador General de Justicia del Estado; el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral del Estado de Zacatecas; los Jueces del fuero común; los miembros de los Ayuntamientos; los Secretarios de despacho del Ejecutivo; los miembros de los organismos a los que esta Constitución les otorgue autonomía y los directores generales, o sus equivalentes, de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones similares a éstas y fideicomisos públicos
+Podrán ser sujetos de juicio político, los Diputados a la Legislatura del Estado; los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Electoral del Estado, del Tribunal de Justicia Administrativa; el Fiscal General de Justicia del Estado; el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral del Estado de Zacatecas; los Jueces del fuero común; los miembros de los Ayuntamientos; los Secretarios de despacho del Ejecutivo; los miembros de los organismos a los que esta Constitución les otorgue autonomía y los directores generales, o sus equivalentes, de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones similares a éstas y fideicomisos públicos.
 
 ###### Artículo 152.
 
@@ -2843,7 +2985,7 @@ Todo juicio político deberá iniciarse ante la Legislatura del Estado, la que a
 
 Si la resolución fuese condenatoria, el propio Jurado de Instrucción ordenará su separación inmediata del cargo y dará vista con el expediente al Tribunal Superior de Justicia para que como Jurado de Sentencia, determine el tiempo durante el cual permanecerá inhabilitado
 
-### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO TERCERO. DE LA DECLARACIÓN DE PROCEDENCIA
 
 ###### Artículo 153.
 
@@ -2863,13 +3005,15 @@ Las sanciones económicas no podrán exceder de tres tantos de los beneficios ob
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá de declaración de procedencia.
 
-### CAPÍTULO QUINTO. DE LA PRESCRIPCIÓN
+### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 154.
 
-Tratándose de responsabilidades administrativas de los servidores públicos, la ley de la materia determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, eficiencia y eficacia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, podrán consistir en suspensión, destitución o inhabilitación, así como en sanciones económicas que deberán establecerse de acuerdo con los beneficios obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+Tratándose de responsabilidades administrativas de los servidores públicos y de particulares vinculados con faltas administrativas, la ley de la materia determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, eficiencia y eficacia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, podrán consistir en suspensión, destitución o inhabilitación, así como en sanciones económicas que deberán establecerse de acuerdo con los beneficios obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO QUINTO. DE LA PRESCRIPCIÓN
 
 ###### Artículo 155.
 
@@ -2877,11 +3021,13 @@ El procedimiento de juicio político sólo podrá iniciarse durante el periodo e
 
 La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que hace referencia el artículo 151.
 
-La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencias de los actos u omisiones a que hace referencia la fracción III del artículo 150. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+
+La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencias de los actos u omisiones. Cuando dichos actos u omisiones fuesen graves, los plazos de prescripción no serán inferiores a siete años.
 
 ## TÍTULO VIII. PREVENCIONES GENERALES
 
-### CAPÍTULO PRIMERO. DE LAS REFORMAS
+### CAPÍTULO ÚNICO
 
 ###### Artículo 156.
 
@@ -2941,7 +3087,7 @@ Si no pudieren cumplirse las prevenciones de los artículos anteriores, se estar
 
 ## TÍTULO IX. DE LA CONSTITUCIÓN
 
-### CAPÍTULO SEGUNDO. DE LA INVIOLABILIDAD
+### CAPÍTULO PRIMERO. DE LAS REFORMAS
 
 ###### Artículo 164.
 
@@ -2960,6 +3106,8 @@ Se estimará que aprueban las adiciones o reformas aquellos Ayuntamientos que en
 ###### Artículo 165.
 
 Satisfechos los requisitos señalados por el artículo anterior, la Legislatura expedirá el decreto respectivo y lo remitirá al Ejecutivo para su promulgación y publicación
+
+### CAPÍTULO SEGUNDO. DE LA INVIOLABILIDAD
 
 ###### Artículo 166.
 
@@ -3534,3 +3682,47 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo segundo. El Honorable Ayuntamiento de Trinidad García de la Cadena, emitirá los Acuerdos de Cabildo respectivos, a efecto de adecuar el Bando de Policía y Buen Gobierno y sus reglamentos a lo previsto en este Decreto.
 
 Artículo tercero. Este Decreto deberá notificarse al Instituto Nacional de Estadística y Geografía (INEGI) y al Instituto Nacional para el Federalismo y el Desarrollo Municipal (INAFED), lo anterior para los efectos legales a que haya lugar.
+
+P.O. 22 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 128.- SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS EN MATERIA DE SISTEMA ESTATAL ANTICORRUPCIÓN”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+Artículo segundo. La Legislatura del Estado deberá expedir las leyes que instruyan la organización y funcionamiento del Sistema Estatal Anticorrupción, de la Fiscalía General de Justicia del Estado de Zacatecas, del Tribunal de Justicia Administrativa del Estado de Zacatecas y la Ley de Responsabilidades Administrativas; así como las reformas a la legislación derivada de los artículos 65 fracción XV, 71, 112, 113, 118 y 122 de este Decreto, en un plazo que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del mismo.
+
+Artículo tercero. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen a los artículos 71, 82 fracción XVII, 87, 88, 112, 113, 118, 121, 122, 138, 147, 150 y 155, entrarán en vigor en la misma fecha en que lo hagan las leyes a que se refiere el Transitorio Segundo del presente Decreto.
+
+La autonomía constitucional de la Fiscalía General de Justicia del Estado entrará en vigor en los términos previstos en la declaratoria que al efecto emita la Legislatura del Estado, previa solicitud del titular del Poder Ejecutivo del Estado de Zacatecas.
+
+Artículo cuarto. En tanto se expiden y reforman las leyes a que se refiere el Segundo Transitorio, continuará aplicándose la legislación en materia de responsabilidades administrativas de los servidores públicos, así como de fiscalización y control de recursos públicos que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
+
+Artículo quinto. Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Artículo sexto. El Ejecutivo del Estado transferirá los recursos humanos, financieros y materiales con los que cuenta actualmente la Procuraduría General de Justicia del Estado de Zacatecas, a la Fiscalía General de Justicia del Estado de Zacatecas.
+
+El proceso de entrega recepción se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas y demás leyes aplicables.
+
+El titular de la Procuraduría General de Justicia del Estado, ratificado mediante Decreto número 3 aprobado por la Honorable Sexagésima Segunda Legislatura del Estado y publicado en Suplemento al número 77 del Periódico Oficial, Órgano del Gobierno del Estado correspondiente al 24 de septiembre de 2016, continuará en su encargo, hasta en tanto se realice un nuevo nombramiento en los términos del artículo 87 de la Constitución Política del Estado Libre y Soberano de Zacatecas.
+
+El titular a que se refiere el párrafo anterior, podrá participar en el procedimiento que deberá llevarse a cabo para la designación del Fiscal General de Justicia.
+
+Los servidores públicos que a la entrada en vigor del presente Decreto formen parte de la Procuraduría General de Justicia del Estado de Zacatecas, conservarán sus derechos laborales y de seguridad social.
+
+El Procurador General de Justicia del Estado continuará ejerciendo las funciones de representación legal del Gobierno en los negocios en que el Estado sea parte, y en las controversias y acciones a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos cuando se vea afectado el interés del Estado o de alguno de los Municipios; y por sí, o por conducto de sus agentes, cuando se perjudique el interés público o lo determinen las leyes, hasta en tanto se realice el nombramiento del Fiscal General de Justicia del Estado.
+
+Los asuntos en los que la Procuraduría General de Justicia del Estado ejerza la representación del Estado, así como aquellos en que haya ejercitado las controversias y acciones de inconstitucionalidad previstas en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, que se encuentren en trámite a la entrada en funciones del Fiscal General de Justicia del Estado, deberán remitirse dentro de los veinte días hábiles siguientes a su designación a la dependencia del Ejecutivo Estatal que tenga a su cargo la Coordinación Jurídica Gubernamental
+
+Los recursos humanos, financieros y materiales que la Procuraduría General de Justicia del Estado destine para la atención y desahogo de los procedimientos a que se refiere el párrafo anterior, serán transferidos a la dependencia que tenga a su cargo la Coordinación Jurídica Gubernamental.
+
+Artículo séptimo. El Poder Judicial del Estado transferirá los recursos humanos, financieros y materiales con los que cuenta actualmente el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, al Tribunal de Justicia Administrativa del Estado de Zacatecas.
+
+Dicho proceso se realizará en los términos del párrafo segundo del artículo sexto transitorio.
+
+Los servidores públicos que a la entrada en vigor del presente Decreto formen parte del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, conservarán sus derechos laborales y de seguridad social.
+
+El Magistrado del Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, designado mediante Decreto número 434 emitido por la Honorable Quincuagésima Octava Legislatura del Estado y publicado en Suplemento 3 al número 1 del Periódico Oficial, Órgano del Gobierno del Estado correspondiente al 3 de enero del 2007, continuará en su encargo exclusivamente por el tiempo en que haya sido nombrado. Los restantes Magistrados que integrarán dicho Tribunal serán designados una vez que entre en vigor la ley orgánica respectiva.
+
+Artículo octavo. Dentro de los diez días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado o, en su caso, la Comisión Permanente, deberá aprobar la designación del titular de la Secretaría de la Función Pública que se encuentra en funciones.
+
+Artículo noveno. Las leyes correspondientes establecerán la duración en el cargo de los titulares de los órganos internos de control de los entes públicos a que se refiere el presente Decreto.
