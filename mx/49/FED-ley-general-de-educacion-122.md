@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2016-06-01"
+last_updated: "2017-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MARZO DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -48,11 +48,11 @@ Esta Ley regula la educación que imparten el Estado -Federación, entidades fed
 
 La función social educativa de las universidades y demás instituciones de educación superior a que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las leyes que rigen a dichas instituciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE MARZO DE 2017)</small>
 
 ###### Artículo 2o.
 
-Todo individuo tiene derecho a recibir educación de calidad en condiciones de equidad, por lo tanto, todos los habitantes del país tienen las mismas oportunidades de acceso y permanencia en el sistema educativo nacional, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+Todo individuo tiene derecho a recibir educación de calidad en condiciones de equidad, por lo tanto, todos los habitantes del país tienen las mismas oportunidades de acceso, tránsito y permanencia en el sistema educativo nacional, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
 > <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
@@ -318,7 +318,13 @@ VII.- (DEROGADA, D.O.F. 11 DE SEPTIEMBRE DE 2013)
 
 VIII.- Fijar los requisitos pedagógicos de los planes y programas de educación inicial que, en su caso, formulen los particulares;
 
-IX.- Regular un sistema nacional de créditos, de revalidación y de equivalencias, que faciliten el tránsito de educandos de un tipo o modalidad educativo a otro;
+> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2017)</small>
+
+VIII Bis.- Expedir, para el caso de los estudios de educación básica, normas de control escolar, las cuales deberán facilitar la inscripción, reinscripción, promoción, regularización, acreditación y certificación de estudios de los educandos;
+
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2017)</small>
+
+IX.- Regular un marco nacional de cualificaciones y un sistema nacional de créditos académicos, que faciliten el tránsito de educandos por el sistema educativo nacional;
 
 > <small>(ADICIONADA, D.O.F. 10 DE JUNIO DE 2013)</small>
 
@@ -349,6 +355,10 @@ XIV.- Las necesarias para garantizar el carácter nacional de la educación bás
 Corresponden de manera exclusiva a las autoridades educativas locales, en sus respectivas competencias, las atribuciones siguientes:
 
 I.- Prestar los servicios de educación inicial, básica -incluyendo la indígena-, especial, así como la normal y demás para la formación de maestros;
+
+> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2017)</small>
+
+I Bis.- Vigilar que las autoridades escolares cumplan con las normas a las que se refiere la fracción VIII Bis del artículo 12;
 
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -404,7 +414,17 @@ II.- Determinar y formular planes y programas de estudio, distintos de los previ
 
 II Bis.- Ejecutar programas para la inducción, actualización, capacitación y superación de maestros de educación media superior, los que deberán sujetarse, en lo conducente, a lo dispuesto por la Ley General del Servicio Profesional Docente;
 
-III.- Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción V del artículo 13, de acuerdo con los lineamientos generales que la Secretaría expida;
+> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2017)</small>
+
+III.- Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción V del artículo 13, de acuerdo con los lineamientos generales que la Secretaría expida. Asimismo, podrán autorizar o delegar, según sea el caso, que las instituciones particulares con reconocimiento de validez oficial de estudios y las instituciones públicas que en sus regulaciones no cuenten con la facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los planes y programas que impartan, de acuerdo con los lineamientos generales que la Secretaría expida en términos del artículo 63 de esta Ley.
+
+Las autoridades educativas podrán revocar las referidas autorizaciones cuando se presente algún incumplimiento que en términos de los mencionados lineamientos amerite dicha sanción. Lo anterior con independencia de las infracciones que pudieran configurarse, en términos de lo previsto en el capítulo VIII de esta Ley.
+
+Las constancias de revalidación y equivalencia de estudios deberán ser registradas en el Sistema de Información y Gestión Educativa, en los términos que establezca la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2017)</small>
+
+III Bis.- Suscribir los acuerdos y convenios que faciliten el tránsito nacional e internacional de estudiantes, así como promover la suscripción de tratados en la materia;
 
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -668,15 +688,13 @@ Lo contemplado en la presente sección, incluye también las evaluaciones señal
 
 ### CAPITULO III. DE LA EQUIDAD EN LA EDUCACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 32.
 
-Las autoridades educativas tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos.
+Las autoridades educativas tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos.
 
-> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2009)</small>
-
-Dichas medidas estarán dirigidas, de manera preferente, a los grupos y regiones con mayor rezago educativo o que enfrentan condiciones económicas y sociales de desventaja en términos de lo dispuesto en los artículos 7o. y 8o. de esta Ley.
+Dichas medidas estarán dirigidas, de manera preferente, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, en términos de lo dispuesto en los artículos 7o. y 8o. de esta Ley.
 
 ###### ARTICULO 33.
 
@@ -725,6 +743,14 @@ IX.- Impulsarán programas y escuelas dirigidos a los padres de familia o tutore
 X.- Otorgarán estímulos a las organizaciones de la sociedad civil y a las cooperativas de maestros que se dediquen a la enseñanza;
 
 XI.- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
+
+> <small>(ADICIONADA, D.O.F. 22 DE MARZO DE 2017)</small>
+
+XI Bis.- Garantizar el acceso a la educación básica y media superior, aun cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos de calidad.
+
+Las autoridades educativas ofrecerán opciones que faciliten la obtención de los documentos referidos, así como, en el caso de la educación básica y media superior, la ubicación por grado, ciclo escolar o nivel educativo que corresponda, conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y, en su caso, saberes que previa evaluación demuestren los educandos.
+
+Las autoridades educativas promoverán acciones similares para el caso de la educación superior;
 
 > <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2010)</small>
 
@@ -784,9 +810,11 @@ El tipo medio-superior comprende el nivel de bachillerato, los demás niveles eq
 
 El tipo superior es el que se imparte después del bachillerato o de sus equivalentes. Está compuesto por la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende la educación normal en todos sus niveles y especialidades.
 
+> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 38.
 
-La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas para responder a las características lingüísticas y culturales de cada uno de los diversos grupos indígenas del país, así como de la población rural dispersa y grupos migratorios.
+La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas para responder a las características lingüísticas y culturales de cada uno de los diversos grupos indígenas del país, así como de la población rural dispersa y grupos migratorios. Para el caso de los servicios educativos correspondientes a los tipos medio superior y superior, las autoridades educativas promoverán acciones similares.
 
 ###### ARTICULO 39.
 
@@ -1008,9 +1036,11 @@ II.- Con instalaciones que satisfagan las condiciones higiénicas, de seguridad,
 
 III.- Con planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la preescolar, la primaria, la secundaria, la normal, y demás para la formación de maestros de educación básica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 56.
 
-Las autoridades educativas publicarán, en el órgano informativo oficial correspondiente, una relación de las instituciones a las que hayan concedido autorización o reconocimiento de validez oficial de estudios. Asimismo publicarán, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
+Las autoridades educativas publicarán, en el órgano informativo oficial correspondiente y en sus portales electrónicos, una relación de las instituciones a las que hayan concedido autorización o reconocimiento de validez oficial de estudios, así como de aquellas a las que hayan autorizado a revalidar o equiparar estudios. Asimismo publicarán, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
 
 > <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1072,23 +1102,27 @@ En el caso de educación inicial deberán, además, contar con personal que acre
 
 Los estudios realizados dentro del sistema educativo nacional tendrán validez en toda la República.
 
-Las instituciones del sistema educativo nacional expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes. Dichos certificados, constancias, diplomas, títulos y grados tendrán validez en toda la República.
+> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+
+Las instituciones del sistema educativo nacional expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes. Dichos certificados, constancias, diplomas, títulos y grados deberán registrarse en el Sistema de Información y Gestión Educativa y tendrán validez en toda la República.
 
 La Secretaría promoverá que los estudios con validez oficial en la República sean reconocidos en el extranjero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 61.
 
-Los estudios realizados fuera del sistema educativo nacional podrán adquirir validez oficial, mediante su revalidación, siempre y cuando sean equiparables con estudios realizados dentro de dicho sistema.
+Los estudios realizados fuera del sistema educativo nacional podrán adquirir validez oficial, mediante su revalidación, para lo cual deberá cumplirse con las normas y criterios generales que determine la Secretaría conforme a lo previsto en el artículo 63 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 La revalidación podrá otorgarse por niveles educativos, por grados escolares, créditos académicos, por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 62.
 
-Los estudios realizados dentro del sistema educativo nacional podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados escolares, créditos académicos, asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+Los estudios realizados dentro del sistema educativo nacional podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados o ciclos escolares, créditos académicos, asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva, la cual deberá facilitar el tránsito de educandos en el sistema educativo nacional.
 
 ###### ARTICULO 63.
 
@@ -1098,7 +1132,21 @@ La Secretaría podrá revalidar y otorgar equivalencias de estudios distintos a 
 
 Las autoridades educativas locales otorgarán revalidaciones y equivalencias únicamente cuando estén referidas a planes y programas de estudio que se impartan en sus respectivas competencias.
 
-Las revalidaciones y equivalencia otorgadas en términos del presente artículo tendrán validez en toda la República.
+> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2017)</small>
+
+Las autoridades educativas e instituciones que otorguen revalidaciones y equivalencias promoverán la simplificación de dichos procedimientos, atendiendo a los principios de celeridad, imparcialidad, flexibilidad y asequibilidad. Además, promoverán la utilización de mecanismos electrónicos de verificación de autenticidad de documentos expedidos fuera y dentro del sistema educativo nacional.
+
+> <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
+
+Las revalidaciones y equivalencias otorgadas en términos del presente artículo tendrán validez en toda la República.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2017)</small>
+
+Las autoridades educativas podrán autorizar o delegar, según sea el caso, que las instituciones particulares con reconocimiento de validez oficial de estudios y las instituciones públicas que en sus regulaciones no cuenten con la facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los planes y programas que impartan, de acuerdo con los lineamientos generales que la Secretaría expida.
+
+> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 2017)</small>
+
+Las autoridades educativas podrán revocar las referidas autorizaciones, cuando se presente algún incumplimiento que en términos de los mencionados lineamientos amerite dicha sanción. Lo anterior con independencia de las infracciones que pudieran configurarse, en términos de lo previsto en el capítulo VIII de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -1773,3 +1821,21 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Las autoridades educativas instrumentarán los programas y acciones encaminados al cumplimiento de lo previsto en el presente Decreto, con base en lo dispuesto en el numeral 2 del artículo 4 de la Convención sobre los Derechos de las Personas con Discapacidad, y con los recursos que para el efecto se asignen en el Presupuesto de Egresos de la Federación y los presupuestos de egresos de las entidades federativas.
 
 Tercero. En los niveles de educación básica, normal, media superior y superior, las autoridades educativas, en el ámbito de su competencia, establecerán en un plazo no mayor a 180 días criterios generales para realizar los ajustes razonables que garanticen la educación inclusiva, con atención al principio de progresividad.
+
+D.O.F. 22 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE EDUCACIÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Educación Pública en el presente ejercicio fiscal y subsecuentes, por lo que cualquier modificación a su estructura orgánica derivada de la aplicación de este Decreto se realizará mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+
+Cuarto.- En un plazo no mayor a doce meses, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Educación Pública emitirá la normatividad a la que se refiere la fracción IX del artículo 12 reformada por el presente Decreto.
+
+Quinto.- Para la emisión de los lineamientos, normas y criterios a los que se refieren los artículos 14, fracción III, y 63, contenidos en el presente Decreto, la Secretaría dispondrá de 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Sexto.- Las instituciones públicas de educación superior a las que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos podrán celebrar convenios con la autoridad educativa federal para que la información relacionada con sus trámites de revalidación y equiparación de estudios, en tanto información pública, de acuerdo con la fracción II del artículo 75 de la Ley General de Transparencia y Acceso a la Información Pública, sea incorporada al Sistema de Información y Gestión Educativa.
+
+Séptimo.- Con base en lo dispuesto en la fracción XI Bis del artículo 33, contenida en el presente Decreto, las autoridades educativas podrán coordinarse con otras instituciones para implementar planes de emergencia y acciones afirmativas dirigidos a atender a las personas en situación de vulnerabilidad a las que se refiere el segundo párrafo del artículo 32.
