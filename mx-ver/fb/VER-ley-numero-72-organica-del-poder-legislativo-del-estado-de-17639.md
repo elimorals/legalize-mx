@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2017-02-06"
+last_updated: "2017-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MARZO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -761,6 +761,18 @@ Las Comisiones del Congreso serán Permanentes, Especiales y de Protocolo y Cort
 
 Las Comisiones Permanentes tendrán la competencia que se deriva de su denominación y las especiales las de los asuntos que motivaron su integración.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 22 DE MARZO DE 2017)</small>
+
+Es obligación de las Comisiones permanentes y especiales, publicar su programa anual de trabajo, así como las convocatorias, orden del día y documentos de apoyo, con 24 horas de anticipación de cada sesión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 22 DE MARZO DE 2017)</small>
+
+Es obligación de las Comisiones permanentes y especiales, publicar la lista de asistencia, documentos, actas, registro de votación, minutas, acuerdos, dictámenes, comunicaciones, producto de cada una de las sesiones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 22 DE MARZO DE 2017)</small>
+
+Las obligaciones establecidas en los dos párrafos anteriores, deberán ser publicadas en el Portal Oficial del Congreso del Estado dentro de las cuarenta y ocho horas siguientes a la celebración de las sesiones.
+
 > <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 39.
@@ -837,7 +849,9 @@ XXXIV. Seguridad Social;
 
 XXXV. Trabajo y Previsión Social;
 
-XXXVI. Transparencia y Acceso a la Información;
+> <small>(REFORMADA, G.O. 22 DE MARZO DE 2017)</small>
+
+XXXVI. De Transparencia, Acceso a la Información y Parlamento Abierto.
 
 XXXVII. Transporte, Tránsito y Vialidad;
 
@@ -1217,6 +1231,52 @@ X. Establecer un banco de información del ámbito municipal, que sirva de base 
 
 XI. Las demás que expresamente le señalen el Congreso o la Diputación Permanente, en su caso, así como las leyes y reglamentos aplicables.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 22 DE MARZO DE 2017)</small>
+
+## TÍTULO QUINTO. DE PARLAMENTO ABIERTO, TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 22 DE MARZO DE 2017)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, G.O. 22 DE MARZO DE 2017)</small>
+
+###### Artículo 62.
+
+Toda la información del Congreso es pública y sólo podrá ser reservada temporalmente en los términos que fijan las disposiciones en la materia.
+
+Toda persona sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso a la información pública del Congreso.
+
+Las entidades responsables del Congreso deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones.
+
+El Congreso contemplará la inclusión de principios, políticas y mecanismos de apertura gubernamental en materia de transparencia, rendición de cuentas y participación ciudadana, impulsando preferentemente la utilización de tecnologías de la información mediante su función legislativa.
+
+La Comisión Permanente de Transparencia, Acceso a la Información y Parlamento Abierto, vigilará el cumplimiento de los mecanismos para implementar el Parlamento Abierto.
+
+> <small>(ADICIONADO, G.O. 22 DE MARZO DE 2017)</small>
+
+###### Artículo 63.
+
+La conducción de las actividades y políticas en materia del derecho de acceso a la información pública, protección de datos personales, archivo, transparencia y apertura gubernamental del Congreso, estará a cargo del Comité de Transparencia del Congreso del Estado. La Comisión Permanente de Transparencia, Acceso a la Información y Parlamento Abierto coadyuvará con el Comité de Transparencia en el correcto desempeño de sus funciones.
+
+> <small>(ADICIONADO, G.O. 22 DE MARZO DE 2017)</small>
+
+###### Artículo 64.
+
+Toda la publicación de información parlamentaria se hará siguiendo los principios de datos abiertos y de cobertura de información pública, utilizando formatos que sean legibles por máquinas, reutilizables y publicables.
+
+> <small>(ADICIONADO, G.O. 22 DE MARZO DE 2017)</small>
+
+###### Artículo 65.
+
+Para el correcto monitoreo y evaluación del trabajo realizado por cada legislador, se instituye la figura de Perfil Legislativo. En el Portal Oficial del Congreso del Estado se podrá acceder al Perfil Legislativo de cada uno de los legisladores, mismo que de manera ágil pondrá a disposición de la ciudadanía el listado de iniciativas, documentos y puntos de acuerdo presentados por cada legislador ante el pleno o la diputación permanente, el estado que guarda el trámite legislativo para cada documento; el registro de asistencia, tanto a las sesiones ordinarias del pleno, de la diputación permanente y de los períodos extraordinarios, como de la asistencia a las sesiones de las Comisiones, Comités y otros Órganos Administrativos y de Gobierno de los cuales forme parte.
+
+> <small>(ADICIONADO, G.O. 22 DE MARZO DE 2017)</small>
+
+###### Artículo 66.
+
+Para garantizar la participación directa de los ciudadanos en el proceso legislativo, a partir de la interacción con el Congreso del Estado sobre temas de su interés, se crea el Proyecto Ciudadano. Esta herramienta digital, en el portal oficial del Congreso del Estado, será la plataforma a partir de la cual el ciudadano podrá proponer, a comisiones o a legisladores en particular, a través de encuestas, foros de consulta y un buzón de sugerencias, de manera periódica, temas sobre los cuales legislar.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente ley deberá publicarse en la Gaceta Oficial del Estado y entrará en vigor el día 5 de noviembre de este año, con arreglo a lo dispuesto por su artículo tercero transitorio.
@@ -1560,3 +1620,11 @@ G.O. 6 DE FEBRERO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 255 POR EL QUE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
