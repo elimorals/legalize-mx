@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-economia-del-estado-844
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-15"
-last_updated: "2011-12-15"
+last_updated: "2017-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA DEL ESTADO DE SONORA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE MARZO DE 2017.
 
 Reglamento publicado en el Número 48, Sección V del Boletín Oficial del Estado de Sonora, el jueves 15 de diciembre de 20011.
 
@@ -39,9 +39,11 @@ La Secretaría de Economía, como una dependencia del Poder Ejecutivo del Estado
 
 Cuando en este Reglamento se haga referencia a la Secretaría y al Secretario, se entenderá hecho a la Secretaría de Economía y al Secretario su titular.
 
+> <small>(REFORMADO, B.O. 23 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 2°.
 
-Para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría contará con las siguientes unidades administrativas y órgano descentrado:
+Para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría contará con las siguientes unidades administrativas y órgano descentrado (sic):
 
 I. Unidades administrativas:
 
@@ -51,23 +53,23 @@ b) Subsecretaría de Desarrollo Económico;
 
 c) Subsecretaría de Impulso a la Comercialización;
 
-d) Dirección General de Vinculación;
+d) Dirección General de Vinculación e Industria Manufacturera;
 
 e) Dirección General de Comercialización;
 
 f) Dirección General de Sectores Tecnológicos;
 
-g) Dirección General de Industria Manufacturera;
+g) Dirección General de Desarrollo Empresarial;
 
 h) Dirección General de Minería;
 
 i) Dirección General de Administración;
 
-j) Dirección General Operativa;
+k) (sic) Dirección General de Seguimiento;
 
-k) Dirección General de Seguimiento; y
+l) Dirección General Jurídica; y
 
-l) Unidad Jurídica.
+m) Unidad de Transparencia.
 
 II. Órgano desconcentrado:
 
@@ -151,7 +153,15 @@ XXXI. Diseñar estrategias para incrementar la participación de la sociedad, en
 
 XXXII. Proponer a la Secretaría de Comunicación Social la integración y desarrollo de programas de difusión y de comunicación social para dar a conocer a la opinión pública los objetivos y programas del sector y el avance de los proyectos, que en materia de economía, ejecuta la Secretaría; y
 
-XXXIII. Las demás que las disposiciones legales le confieran expresamente, así como aquellas otras que le confiera el Titular del Poder Ejecutivo.
+XXXIII. (DEROGADA, B.O. 23 DE MARZO DE 2017)
+
+> <small>(ADICIONADA, B.O. 23 DE MARZO DE 2017)</small>
+
+XXXIV. Garantizar el desarrollo económico y regional a través de esquemas financieros, para ejecutarse de forma directa o por conducto de terceros; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 23 DE MARZO DE 2017)</small>
+
+XXXV. Las demás que las disposiciones legales le confieran expresamente, así como aquellas otras que le confiera el Titular del Poder Ejecutivo.
 
 El Secretario podrá delegar, sin perjuicio de su ejercicio en forma directa, las atribuciones contenidas en las fracciones XXIV, XXV, XXVI, XXVII, XXVIII y XXIX de este artículo expidiendo los acuerdos relativos que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
 
@@ -217,7 +227,9 @@ VI. Elaborar una agenda proactiva de promoción respecto a los diversos programa
 
 VII. Promover la adopción de programas de calidad basados en las Normas Oficiales Mexicanas o similares para fomentar la certificación y acreditación de las empresas en el Estado, con la finalidad de lograr el desarrollo de las empresas en los diferentes sectores económicos;
 
-VIII. Desarrollar sistemas estadísticos de información básica relativa a las actividades económicas del Estado;
+> <small>(REFORMADA, B.O. 23 DE MARZO DE 2017)</small>
+
+VIII. Fomentar una cultura emprendedora y generadora de nuevos negocios, brindando a los emprendedores apoyos integrales para su crecimiento.
 
 IX. Promover el crecimiento sano y la integración del desarrollo económico con los diversos sectores económicos y sociales de la Entidad; y
 
@@ -253,15 +265,21 @@ XII. Identificar áreas de oportunidad para que, en coordinación con las divers
 
 XIII. Las demás que le señale el Secretario o le confieran otras disposiciones, legales aplicables.
 
-### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES, COORDINACIONES GENERALES Y DE LAS UNIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 23 DE MARZO DE 2017)</small>
+
+### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES
+
+> <small>(REFORMADO, B.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 9°.
 
-Al frente de cada una de las Direcciones Generales, habrá un Director General, al frente de cada Coordinación General habrá un Coordinador General y al frente de cada Unidad habrá un Jefe de Unidad, quienes técnica y administrativamente serán los responsables del funcionamiento de la unidad administrativa a su cargo y se auxiliarán, según corresponda, por el personal técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto.
+Al frente de cada una de las Direcciones Generales, habrá un Director General, quienes técnica y administrativamente serán los responsables del funcionamiento de la unidad administrativa a su cargo y se auxiliarán, según corresponda, por el personal técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 10.
 
-Los Directores Generales, Coordinadores Generales y Jefes de Unidad tendrán las siguientes atribuciones genéricas:
+Los Directores Generales tendrán las siguientes atribuciones genéricas:
 
 I. Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendadas a la unidad administrativa bajo su responsabilidad;
 
@@ -309,37 +327,53 @@ XXII. Coadyuvar en el cumplimiento de la normatividad expedida para el control, 
 
 XXIII. Las demás que le confieran las disposiciones legales aplicables y el superior jerárquico dentro de la esfera de sus atribuciones.
 
-### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES, DE LAS COORDINACIONES GENERALES Y DE LAS UNIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 23 DE MARZO DE 2017)</small>
+
+### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES
+
+> <small>(REFORMADO, B.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
-La Dirección General de Vinculación estará adscrita a la Subsecretaría de Desarrollo Económico, y le corresponden las siguientes atribuciones:
+La Dirección General de Vinculación e Industria Manufacturera estará adscrita a la Subsecretaría de Desarrollo Económico, y le corresponden las siguientes atribuciones:
 
-I. Ejecutar las acciones tendientes a promover y fomentar el crecimiento y desarrollo de la industria en la entidad, procurando la integración de ésta con los diversos sectores productivos;
+I. Apoyar la elaboración de los programas de la Secretaría y coadyuvar al seguimiento de las acciones que resulten de la ejecución de dichos programas;
 
-II. Apoyar la elaboración de los programas de la Secretaría y coadyuvar al seguimiento de las acciones que resulten de la ejecución de dichos programas;
+II. Participar en la elaboración de convenios de promoción industrial y aprovechamiento de la infraestructura económica para la ubicación regional adecuada de la industria, conforme a las prioridades establecidas en el Plan Estatal de Desarrollo;
 
-III. Participar en la elaboración de convenios de promoción industrial y aprovechamiento de la infraestructura económica para la ubicación regional adecuada de la industria, conforme a las prioridades establecidas en el Plan Estatal de Desarrollo;
+III. Proponer las acciones de concertación de carácter técnico con las instituciones educativas de nivel superior, centros de investigación y desarrollo tecnológico, así como los sectores social y privado, a fin de que se adecuen sus programas a los requerimientos en materia industrial y promoción de desarrollo y adaptación de nuevas tecnologías;
 
-IV. Establecer acciones conjuntas con las instituciones públicas y privadas, para la elaboración de estudios y proyectos encaminados a prever y solucionar la problemática existente en materia industrial;
+IV. Apoyar a las unidades administrativas de la Secretaría, brindando asesoría a los usuarios interesados en obtener los servicios que ésta otorga; y, en su caso canalizarlos con el área correspondiente;
 
-V. Proponer las acciones de concertación de carácter técnico con las instituciones educativas de nivel superior, centros de investigación y desarrollo tecnológico, así como los sectores social y privado, a fin de que se adecuen sus programas a los requerimientos en materia industrial y promoción de desarrollo y adaptación de nuevas tecnologías;
+V. Promover e impulsar, de manera conjunta con organismos empresariales, instituciones educativas, organizaciones no gubernamentales y agrupaciones de profesionistas, la organización y realización de foros, talleres, seminarios, ferias, exposiciones, congresos y eventos que impulsen la economía del Estado y el fortalecimiento de empresas;
 
-VI. Apoyar a las unidades administrativas de la Secretaría brindando asesoría a los usuarios interesados en obtener los servicios que ésta otorga y, en su caso, canalizarlos con el área correspondiente;
+VI. Fomentar mecanismos de vinculación para la industria y las instituciones de educación superior, así como de los demás sectores productivos en la entidad con organismos e instituciones similares, ya sea en el territorio nacional o internacional, para el fortalecimiento y desarrollo de la actividad económica del Estado;
 
-VII. Promover e impulsar, en coordinación con la Dirección General de Industria Manufacturera, y de manera conjunta con organismos empresariales, instituciones educativas, organizaciones no gubernamentales y agrupaciones de profesionistas, la organización y realización de foros, talleres, seminarios, ferias, exposiciones, congresos y eventos que impulsen la economía del Estado y el fortalecimiento de empresas;
+VII. Vincular acciones entre el Poder Ejecutivo del Estado con los diferentes sectores productivos y cámaras empresariales, a fin de proponer la conjunción de esfuerzos en la detección y atención de todas aquellas situaciones que afectan las operaciones productivas de los empresarios sonorenses;
 
-VIII. Fomentar mecanismos de vinculación para la industria y las instituciones de educación superior, así como de los demás sectores productivos en la entidad con organismos e instituciones similares, ya sea en el territorio nacional o internacional, para el fortalecimiento y desarrollo de la actividad económica del Estado;
+VIII. Coordinar el sistema de enlace con los municipios del Estado de Sonora, como apoyo de las distintas áreas de la Secretaría, dando a conocer los programas y servicios que ésta ofrece a empresas y emprendedores;
 
-IX. Operar un sistema de información estadístico, referente a los indicadores macroeconómicos, sectoriales y laborales, a nivel estatal y nacional;
+IX. Integrar, operar y mantener actualizado el Padrón Estatal de Organismos y Cámaras empresariales de Sonora;
 
-X. Fortalecer la participación de la Secretaría dentro del Consejo Estatal de Vinculación;
+X. Promover e impulsar la creación, instalación y desarrollo de establecimientos de los sectores industriales, haciendo más atractiva la inversión en este sector en materia de desarrollo de proveeduría e inter proveeduría de insumos;
 
-XI. Vincular acciones entre el Poder Ejecutivo del Estado con los diferentes sectores productivos y cámaras empresariales, a fin de proponer la conjunción de esfuerzos en la detección y atención de todas aquellas situaciones que afectan las operaciones productivas de los empresarios sonorenses;
+XI. Promover las condiciones necesarias ante el sector empresarial y asociaciones industriales de la entidad de las micros, pequeñas y medianas empresas del sector industrial para que se generen entre éstas la relación y el interés por las cadenas productivas para el crecimiento del ingreso, por las exportaciones locales, por la competitividad y el combate al desempleo;
 
-XII. Promover el establecimiento de Centros de Formación de Capital Humano de Alto Nivel, estratégicamente ubicados en los municipios del Estado, para fomentar el desarrollo de mano de obra calificada en procesos industriales, prioritarios para la industrialización de la entidad; y
+XII. Desarrollar la ampliación de la planta productiva en las áreas aeroespacial, automotriz, eléctrica y electrónica, en las diferentes regiones de la entidad, mediante el aprovechamiento de los recursos naturales, vocaciones, potencial productivo, ubicación geográfica, mercados actuales y potenciales;
 
-XIII. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y le encomiende su superior jerárquico.
+XIII. Integrar, como fase superior en la organización de la industria maquiladora y manufacturera, cadenas de proveeduría y potenciar el esfuerzo individual de las unidades industriales, como una forma de participación eficiente en la conducción de los programas de fomento de las actividades industriales;
+
+XIV. Impulsar la competitividad de los procesos secundarios dentro del sector industrial para asegurar una buena calidad, bajo costo y entrega a tiempo de los productos respectivos, en la entidad;
+
+XV. Concurrir en la ejecución de la política de fomento Industrial y en el diseño de estrategias para elevar la productividad, calidad y competitividad;
+
+XVI. Promover la implantación de programas de transferencia tecnológica en apoyo al desarrollo industrial y aprovechamiento de la proveeduría;
+
+XVII. Coordinarse con las dependencias estatales, federales y municipales y con organismos que incidan en el desarrollo sectorial sobre la industria;
+
+XIII (SIC). Participar, de conformidad con la normatividad aplicable, en comisiones, comités, grupos de trabajo y órganos o consejos directivos de las instituciones y organismos que atiendan asuntos vinculados con el sector industrial, así como en negociaciones internacionales; y
+
+XIX. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 12.
 
@@ -397,37 +431,51 @@ XVI. Las demás que le confieran las disposiciones legales y reglamentarias apli
 
 ###### ARTÍCULO 14.
 
-La Dirección General de Industria Manufacturera estará adscrita al Secretario y le corresponden las siguientes atribuciones:
+(DEROGADO, B.O. 23 DE MARZO DE 2017)
 
-I. Ejecutar las acciones tendientes a promover y fomentar el crecimiento y desarrollo de la industria maquiladora y manufacturera en la entidad; y procurar su integración con los diversos sectores económicos y sociales;
+> <small>(ADICIONADO, B.O. 23 DE MARZO DE 2017)</small>
 
-II. Promover e impulsar la creación, instalación y desarrollo de establecimientos de la industria manufacturera, haciendo más atractiva la inversión en este sector en materia de desarrollo de proveeduría e interproveeduría de insumos;
+ARTÍCULO 14 BIS.- La Dirección General de Desarrollo Empresarial, estará adscrita a la Subsecretaría de Desarrollo Económico y le corresponden las siguientes atribuciones:
 
-III. Elaborar y coordinar la ejecución del Programa Estatal para el Desarrollo de la Industria Maquiladora y Manufacturera;
+I. Ejecutar las acciones tendientes a promover y fomentar el crecimiento y desarrollo de (sic) Micro, Pequeña y Mediana empresa (MIPYMES) de la Entidad; procurar su integración con los diversos sectores económicos y sociales; y elevar la eficiencia y competitividad de las mismas.
 
-IV. Gestionar y promover entre el gobierno de la entidad y el sector empresarial, la búsqueda de inversiones, alianzas y nuevos mercados en la industria maquiladora y manufacturera;
+II. Promover e impulsar la creación de nuevas empresas sonorenses, a través del apoyo para la operación de incubadoras de negocios en todas sus modalidades;
 
-V. Promover las condiciones necesarias ante el sector empresarial y asociaciones industriales de la entidad de las micros, pequeñas y medianas industrias maquiladoras y manufactureras para que se generen entre éstas la relación y el interés por las cadenas productivas para el crecimiento del ingreso, por las exportaciones locales, por la competitividad y el combate al desempleo;
+III. Apoyar la elaboración de los programas de la Dependencia y de las Entidades que corresponde coordinar a ésta en materia de creación, capacitación, productividad y competitividad de MIPYMES; y coadyuvar al seguimiento de las acciones que resulten de la ejecución de dichos programas;
 
-VI. Desarrollar la ampliación de la planta productiva en las áreas aeroespacial, automotriz, médica y electrónica, en las diferentes regiones de la entidad, mediante el aprovechamiento de los recursos naturales, vocaciones, potencial productivo, ubicación geográfica, mercados actuales y potenciales;
+IV. Promover y, en su caso, participar en la celebración de acuerdos de coordinación y convenios de concertación entre los sectores público, privado y social, orientados a la promoción y capacitación para el mejoramiento de la productividad y competitividad de las MIPYMES, conforme a las prioridades establecidas en el Plan Estatal de Desarrollo;
 
-VII. Integrar, como fase superior en la organización de la industria maquiladora y manufacturera, cadenas de proveeduría y potenciar el esfuerzo individual de las unidades industriales, como una forma de participación eficiente en la conducción de los programas de fomento de las actividades industriales;
+V. Difundir entre los Organismos y Cámaras Empresariales del Estado sobre los servicios con que cuenta el Gobierno Estatal, en apoyo a las MIPYMES;
 
-VIII. Impulsar la competitividad de los procesos secundarios dentro del sector industrial para asegurar una buena calidad, bajo costo y entrega a tiempo de los productos respectivos, en la entidad;
+VI. Impulsar de manera conjunta con los organismos empresariales, la participación, organización y celebración de seminarios, ferias, exposiciones y congresos que se realicen en la Entidad y a nivel nacional.
 
-IX. Concurrir en la ejecución de la política de fomento industrial y en el diseño de estrategias para elevar la productividad, calidad y competitividad;
+VII. Impulsar en conjunto con la Dirección General de Vinculación, una estrecha relación del Gobierno Estatal con los municipios de la Entidad, para promover el aprovechamiento óptimo de los diferentes Instrumentos de apoyo a las MIPYMES con que cuenta el gobierno en sus tres niveles;
 
-X. Promover la implantación de programas de transferencia tecnológica en apoyo al desarrollo industrial y aprovechamiento de la proveeduría;
+VIII. Coordinar los programas de esta Dirección General con las diferentes áreas de la Secretaria de Economía, para apoyar de manera integral a las Micro, Pequeñas y Medianas empresas (MIPYMES) a través de la conjunción de los programas de las unidades administrativas.
 
-XI. Coordinarse con las dependencias estatales, federales y municipales y con organismos que incidan en el desarrollo sectorial sobre la industria;
+IX. Impulsar programas en los cuales se otorgue asistencia técnica y gestoría, relativas al establecimiento, operación, capacitación, productividad y competitividad de las MIPYMES;
 
-XII. Participar en el diseño de la política industrial del Estado;
+X. Coadyuvar a la Dirección General de Vinculación en las acciones de concertación con las instituciones educativas de nivel superior o de carácter técnico y con los sectores social y privado, a fin de que se adecuen sus programas a los requerimientos de las MIPYMES, así como participar, cuando así lo soliciten dichas instituciones, en los cursos, seminarios y prácticas que se realicen;
 
-XIII. Dar seguimiento a los programas del sector industrial para vigilar su cumplimiento;
+XI. Fomentar y apoyar en coordinación con la Dirección de Sectores Tecnológicos, la realización de Proyectos de Innovación y Desarrollo Tecnológico entre las MIPYMES del Estado;
 
-XIV. Participar, de conformidad con la normatividad aplicable, en comisiones, comités, grupos de trabajo y órganos o consejos directivos de las instituciones y organismos que atiendan asuntos vinculados con el sector industrial, así como en negociaciones internacionales; y
+XII. Promover entre las empresas los apoyos existentes orientados a la modernización de las MIPYMES, impulsando al sector empresarial a la adaptación e incorporación de nuevas metodologías administrativas y tecnológicas;
 
-XV. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y le encomiende su superior jerárquico.
+XIII. Implementar y coordinar la ejecución de programas (sic) certificación que permitan el desarrollo de las MIPYMES Sonorenses a través de sus buenas prácticas de producción, administración y ventas.
+
+XIV. Vigilar la operatividad de las incubadoras de negocios establecidas en el Estado, a fin de asegurar que sus acciones y resultados, respondan a las necesidades económicas y sociales, regionales y estatales;
+
+XV. Dar a conocer y poner a disposición pública, material informativo de los servicios y programas que se ofrecen en ésta área administrativa en apoyo a las MIPYMES del Estado de Sonora;
+
+XVI. Apoyar en la revisión de proyectos productivos que emanen de las incubadoras de negocios para poder evaluar su vialidad técnica y económica y poderle dar un seguimiento oportuno con las instituciones financieras en la que pueda aplicar;
+
+XVII. Integrar el Padrón Estatal de Emprendedores, el cual contenga la información relevante de la mayor parte de los emprendedores del Estado, agrupados por sector productivo, giro de los proyectos y municipio;
+
+XVIII. Ofrecer a los empresarios y emprendedores del Estado, asesoría y consultoría especializada que les permita definir el destino de su negocio, así como el acceso a información de los programas de Fomento Económico del Gobierno del Estado de Sonora y del Gobierno Federal;
+
+XIX. Organizar foros y encuentros del Secretario de Economía con las Cámaras Empresariales y los diferentes sectores productivos del Estado, en los cuales, se podrán evaluar las acciones realizadas en beneficio del crecimiento económico de Sonora y;
+
+XX. Las demás que le señale su superior jerárquico o le confieran otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -455,7 +503,19 @@ X. Desarrollar un sistema estadístico de información básica, relativo a las d
 
 XI. Publicar y difundir el resultado de los estudios e investigaciones geológicas y mineras, realizadas por esta unidad administrativa; y
 
-XII. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y le encomiende su superior jerárquico.
+XII. (DEROGADA, B.O. 23 DE MARZO DE 2017)
+
+> <small>(ADICIONADA, B.O. 23 DE MARZO DE 2017)</small>
+
+XIII. Llevar a cabo acciones de interlocución que conlleven a la sana convivencia entre posesionarios, concesionarios y comunidades;
+
+> <small>(ADICIONADA, B.O. 23 DE MARZO DE 2017)</small>
+
+XIV. Apoyar a los empresarios con asistencia técnica en impacto ambiental; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 23 DE MARZO DE 2017)</small>
+
+XV. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 16.
 
@@ -493,27 +553,7 @@ XV. Las demás que le confieran las disposiciones legales y reglamentarias aplic
 
 ###### ARTÍCULO 17.
 
-La Dirección General Operativa estará adscrita directamente al Secretario y le corresponden las siguientes atribuciones:
-
-I. Coordinar la operación y evaluación de los proyectos y programas estratégicos a cargo de la Secretaria;
-
-II. Dirigir la realización de estudios, análisis e investigaciones que sean necesarios para la elaboración de los programas y proyectos estratégicos de la dependencia, así como realizar las gestiones que se requieran para su ejecución;
-
-III. Coadyuvar en el establecimiento de las medidas y disposiciones necesarias para el mejoramiento en la operación de los programas y proyectos a cargo de las unidades administrativas de la Secretaría;
-
-IV. Tramitar ante las instancias competentes la autorización de permisos, licencias, y demás requisitos que le sean de su competencia, a fin de poner en marcha y ejecutar los proyectos estratégicos encomendados;
-
-V. Colaborar con las diferentes unidades administrativas de la Secretaría, en la organización de eventos y reuniones en que vaya a estar presente el Secretario;
-
-VI. Ser el enlace institucional con la Secretaría de Comunicación Social del Gobierno del Estado para el desarrollo de la estrategia general de comunicación del Gobierno, así como las actividades que le corresponden en el sistema de trabajo establecido por dicha Oficina;
-
-VII. Dar seguimiento y supervisar la aplicación del Manual de Comunicación de la Secretaría; y participar en sus actualizaciones y mantenimiento;
-
-VIII. Definir las estrategias de la Secretaría para evaluar las políticas de comunicación;
-
-IX. Promover, por conducto de la Secretaría de Comunicación Social, la presentación de los funcionarios de la Secretaría en noticieros de radio y televisión cuando la estrategia de comunicación así lo requiera; y
-
-X. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y le encomiende el Secretario.
+(DEROGADO, B.O. 23 DE MARZO DE 2017)
 
 ###### ARTÍCULO 18.
 
@@ -533,9 +573,11 @@ VI. Implementar y mantener el Sistema Integral de Archivos; y
 
 VII. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y le encomiende el Secretario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
-La Unidad Jurídica estará adscrita directamente al Secretario y le corresponden las siguientes atribuciones:
+La Dirección General Jurídica estará adscrita directamente al Secretario y le corresponden las siguientes atribuciones:
 
 I. Fijar, sistematizar y unificar los criterios de interpretación de las leyes y de otras disposiciones jurídicas que normen el funcionamiento de la Secretaría y difundirlos, así como proponer al Secretario los que deban publicarse;
 
@@ -559,7 +601,55 @@ X. Intervenir y representar al Secretario en los asuntos laborales en los que te
 
 XI. Realizar los estudios e investigaciones jurídicas relacionados con las atribuciones de la Secretaría; y
 
-XII. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y le encomiende el Secretario.
+XII. (DEROGADA, B.O. 23 DE MARZO DE 2017)
+
+> <small>(ADICIONADA, B.O. 23 DE MARZO DE 2017)</small>
+
+XIII. Proporcionar apoyo, asesoría jurídica y técnica en forma directa al Secretario, en todos aquellos asuntos que éste le encomiende; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 23 DE MARZO DE 2017)</small>
+
+XIV. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y le encomiende el Secretario.
+
+> <small>(ADICIONADO, B.O. 23 DE MARZO DE 2017)</small>
+
+ARTÍCULO 19 BIS.- La Unidad de Transparencia estará adscrita directamente al Secretario, y tendrá a su cargo las siguientes atribuciones:
+
+I. Recabar y difundir la información a que se refieren los Capítulos II, III, IV y V del Título Quinto de la Ley General de Transparencia y Acceso a la Información Pública, como la correspondiente del Capítulo Sexto de la Ley de Transparencia y Acceso a la Información Pública del Estado y propiciar que las Áreas la actualicen periódicamente, conforme la normatividad aplicable;
+
+II. Recibir y dar trámite a las solicitudes de acceso a la información;
+
+III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
+
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
+
+V. Efectuar las notificaciones a los solicitantes;
+
+VI. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
+
+VII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
+
+VIII. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+IX. Fomentar la transparencia y accesibilidad al interior de la Secretaría;
+
+X. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la presente Ley y en las demás disposiciones aplicables;
+
+XI. Remitir al Instituto Sonorense de Transparencia Informativa, Acceso a la Información Pública y Protección de Datos Personales, el recurso de revisión que se presente en forma electrónica o por escrito ante la Unidad de Transparencia, dentro del plazo que señala la Ley de Transparencia y Acceso a la información Pública del Estado de Sonora;
+
+XII. Coadyuvar en la administración, sistematización, archivo y resguardo de la información clasificada como reservada y confidencial de las unidades administrativas de la Secretaría;
+
+XIII. Requerir información y documentación a las unidades administrativas de la Secretaría, a efecto de cumplir con sus atribuciones;
+
+XIV. Recabar, publicar y actualizar la información pública de oficio de la Secretaría como sujeto obligado oficial;
+
+XV. Contestar en tiempo y forma el recurso de revisión, así como rendir pruebas, de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora y sus Lineamientos;
+
+XVI. Dar a conocer al sujeto obligado de la Secretaría, la resolución que recaiga al recurso de revisión, a efecto de que cumplimente en tiempo y forma la misma;
+
+XVII. Dar aviso al Secretario en el caso de que alguna de las Unidades Administrativas de la Secretaría se niegue a colaborar con la Dirección General de Unidad de Transparencia, a efecto de que le ordene realizar sin demora las acciones conducentes. Cuando persista la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento de la autoridad competente para que ésta inicie, en su caso, el procedimiento de responsabilidad respectivo, y
+
+XVIII. Las demás que le confieran las disposiciones legales aplicables y le delegue expresamente el Secretario, dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO VII. DEL ÓRGANO DESCONCENTRADO
 
@@ -593,7 +683,15 @@ XII. Brindar asesoría técnica en materia de mejora regulatoria a las dependenc
 
 XIII. Asesorar sobre mejora regulatoria a los municipios del Estado que lo soliciten y celebrar convenios con éstos para tal efecto; y
 
-XIV. Las demás que le confieran otras disposiciones legales y reglamentarias aplicables y le encomiende el Secretario.
+XIV. (DEROGADA, B.O. 23 DE MARZO DE 2017)
+
+> <small>(ADICIONADA, B.O. 23 DE MARZO DE 2017)</small>
+
+XV. Crear un catálogo estatal que incluya todos los trámites y servicios estatales y municipales, con el objeto de generar seguridad jurídica y facilitar su cumplimiento mediante el uso de la tecnología de la información; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 23 DE MARZO DE 2017)</small>
+
+XVI. Las demás que le confieran otras disposiciones legales y reglamentarias aplicables y le encomiende el Secretario.
 
 ### CAPÍTULO VIII. DE LA SUPLENCIA DE FUNCIONARIOS
 
@@ -606,6 +704,18 @@ Durante las ausencias temporales del Secretario, el despacho y resolución de lo
 En las ausencias temporales de uno o varios titulares de las unidades administrativas, éstos serán suplidos por los servidores públicos que designe el Secretario.
 
 De igual forma las ausencias definitivas de dichos servidores públicos, serán suplidas por los servidores públicos que designe mediante oficio el Secretario, y surtirán efectos legales hasta que se emita el nombramiento respectivo por quien corresponda.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 23 DE MARZO DE 2017)</small>
+
+### CAPÍTULO IX. DEL CONTROL Y VIGILANCIA
+
+> <small>(ADICIONADO, B.O. 23 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 23.
+
+Las funciones de control de la Secretaría de Economía, estarán a cargo del Órgano Interno de Control, órgano desconcentrado de la Secretaría de la Contraloría General, el cual despachará en las oficinas de la Dependencia asignada, estando jerárquica, administrativa y funcionalmente dependiente de la Contraloría, ejerciendo lo conducente en los términos de los artículos 18 y 19 del Reglamento Interior de la Secretaría de la Contraloría General y demás ordenamientos jurídicos y disposiciones generales aplicables.
+
+La Secretaría de Economía para la operación de dicho Órgano de Control, proporcionará los recursos materiales, servicios generales e instalaciones físicas adecuadas y necesarias para su funcionamiento, proporcionando la colaboración técnica y toda la información requerida para el cumplimiento de las funciones que le corresponde desarrollar.
 
 ## TRANSITORIOS
 
@@ -639,4 +749,22 @@ EL SECRETARIO DE GOBIERNO
 
 HÉCTOR LARIOS CÓRDOVA
 
-> <small>N. DE E. VÉASE ORGANIGRAMA EN EL B.O. DEL 15 DE DICIEMBRE DE 2011, PAGINA 19.</small>
+> <small>[N. DE E. VÉASE ORGANIGRAMA EN EL B.O. DEL 15 DE DICIEMBRE DE 2011, PAGINA 19.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia en el presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de organización, de procedimientos y, en su caso, de servicios al público deberán expedirse dentro de los sesenta días posteriores a la publicación de este Reglamento Interior. El titular de la Secretaría de Economía queda facultado para resolver las cuestiones que se presentan en tanto se expidan los mencionados manuales administrativos.
