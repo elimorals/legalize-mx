@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2016-12-21"
+last_updated: "2017-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -103,9 +103,9 @@ XV.- Ruta Difusora.- Es por la cual se transporta a usuarios, de y hacia diversa
 
 XVI.- Ruta Troncal.- Es la que a partir de terminales de integración, conecta rutas alimentadoras, difusoras e intersectoriales;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
 
-XVII.- Secretaría.- La Secretaría de Desarrollo Urbano y Medio Ambiente;
+XVII.- Secretaría.- La Secretaría General de Gobierno;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
 
@@ -179,9 +179,9 @@ Son autoridades en materia de transporte público, las siguientes:
 
 I.- El Gobernador Constitucional del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
 
-II.- El Secretario de Desarrollo Urbano y Medio Ambiente;
+II.- El Secretario General de Gobierno;
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA] P.O. 17 DE FEBRERO DE 2012)</small>
 
@@ -205,9 +205,9 @@ VII.- Los titulares de las dependencias municipales competentes en materia de tr
 
 VIII.- Los titulares de las dependencias en materia de tránsito en los Municipios, y
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
 
-IX.- Los Delegados Regionales dependientes de la Secretaría de Desarrollo Urbano y Medio Ambiente, en términos de la estructura orgánica de la Secretaría.
+IX.- Los Delegados Regionales dependientes de la Secretaría General de Gobierno, en términos de la estructura orgánica de la Secretaría.
 
 ### CAPÍTULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO
 
@@ -429,15 +429,21 @@ Los Comités deberán de tomar en cuenta en todos los casos los estudios técnic
 
 En aquellos municipios en los que requiera el interés público, se creará un Comité Municipal de Transporte, como un organismo técnico y de consulta que promueva la participación social en la consecución de los fines que esta ley establece, integrado por representantes de los sectores empresarial, comercial, industrial, educativo, social y sindical a convocatoria del Presidente Municipal de las personas que los mismos designen y cumplan con los requisitos del Artículo 18 de esta ley.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-El Comité Municipal estará integrado por un Presidente, un Vicepresidente, un Secretario, un Secretario Técnico, que serán nombrados por el Presidente Municipal, dos representantes de las rutas propuestos por el Presidente de la Comisión de Transporte y el número de vocales que sean necesarios que serán conformados por los representantes de los sectores empresarial, comercial, educativo, social y sindical, así como un representante del Gobierno del Estado que será designado por el Titular de la Secretaría de Desarrollo Urbano y Medio Ambiente. Los designados durarán en su cargo tres años y no podrán ser reelectos para el periodo inmediato.
+El Comité Municipal estará integrado por un Presidente, un Vicepresidente, un Secretario, un Secretario Técnico, que serán nombrados por el Presidente Municipal, dos representantes de las rutas propuestos por el Presidente de la Comisión de Transporte y el número de vocales que sean necesarios que serán conformados por los representantes de los sectores empresarial, comercial, educativo, social y sindical, así como un representante del Gobierno del Estado que será designado por el Titular de la Secretaría General de Gobierno. Los designados durarán en su cargo tres años y no podrán ser reelectos para el periodo inmediato.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
 En el caso de los municipios en donde se cuente con Delegado del Transporte Público, será éste quien funja como Secretario Técnico.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
+
 El Titular de la dependencia municipal en materia de Tránsito, asistirá a las reuniones del Comité, con voz sin voto.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
 En aquellos municipios que estén integrados en una zona conurbada podrá crearse un Comité Municipal de transporte regional, en el cual el presidente de dicho comité será nombrado de común acuerdo por los Presidentes Municipales que integren la zona conurbada.
 
@@ -2084,3 +2090,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-147, MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS, LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS, LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
