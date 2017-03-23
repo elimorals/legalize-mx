@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2017-02-24"
+last_updated: "2017-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -797,6 +797,10 @@ XXVI. De Desarrollo Económico.
 
 XXVII. De la niñez y la familia.
 
+> <small>(ADICIONADA, G.O. 23 DE MARZO DE 2017)</small>
+
+XXVIII. Transparencia y Acceso a la Información.
+
 ###### Artículo 41.
 
 Además de las señaladas en el artículo anterior, el Ayuntamiento podrá formar las Comisiones de carácter permanente o transitorias que requiera, conforme a las necesidades del servicio público. Asimismo, para su mejor prestación, podrá reasignar o reagrupar las funciones y servicios públicos señalados en el artículo 35, fracción XXV, debiendo notificarlo al Congreso del Estado.
@@ -1404,6 +1408,24 @@ III. Promover y destinar mayores recursos orientados a políticas públicas y ac
 IV. Realizar un diagnóstico municipal sobre la situación de la niñez y la Adolescencia en el Municipio, que pueda orientar en la cuantificación de la violencia, exclusión, distinción, restricción o cualquier tipo de discriminación que tenga por objeto menoscabar o anular el reconocimiento, goce o ejercicio pleno de derechos humanos de las niñas, niños y adolescentes, donde se ponga especial énfasis en las personas menores en situación de mayor riesgo o vulnerabilidad de manera urgente; y
 
 V. Coadyuvar en la detección y orientación de denuncia en materia de trata de personas, en específico, lo referente a niñas, niños y adolescentes observando en todo momento los principios rectores, entre ellos el interés superior de la niñez.
+
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2017)</small>
+
+Artículo 60 terdecies. Son atribuciones de la Comisión de Transparencia y Acceso a la Información:
+
+I. Proponer, en coordinación con la Unidad de Transparencia, estrategias y lineamientos que permitan dotar al Ayuntamiento de las herramientas propias de un Gobierno Abierto, con miras de fortalecer, de forma coordinada, mecanismos de acceso a la información municipal;
+
+II. Impulsar acciones para que el titular de la Unidad de Transparencia y el personal a su cargo, reciban capacitación continua y cuente con lo necesario para el eficaz y eficiente desempeño de sus funciones;
+
+III. Supervisar que la Unidad de Transparencia realice sus funciones debidamente, y en caso de que así no lo sea, informar al Cabildo para que determine lo conducente, para lo cual llevará a cabo inspecciones de vigilancia con la finalidad de garantizar que los ciudadanos ejerzan su derecho de acceso a la información;
+
+IV. Promover la realización de cursos y talleres que fomenten en los servidores públicos municipales una cultura sustentada en los principios de transparencia y de rendición de cuentas;
+
+V. Proponer al Cabildo, la elaboración de políticas públicas en materia de transparencia y la celebración de acuerdos de coordinación con los tres niveles de Gobierno, con organismos públicos y privados e instituciones académicas;
+
+VI. Organizar eventos, foros, mesas de trabajo con el propósito de discutir y generar propuestas en materia de transparencia y Gobierno Abierto, para lo cual podrá fomentar la coordinación necesaria con universidades y organismos especializados en el tema; y
+
+VII. Lo que para tal efecto señale la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave y otras disposiciones legales aplicables.
 
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA, COMISARIO MUNICIPAL Y ORGANISMOS AUXILIARES
 
@@ -3918,3 +3940,11 @@ G.O. 24 DE FEBRERO DE 2017.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 256 QUE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 40 Y EL ARTÍCULO 60 TERDECIES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
