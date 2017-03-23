@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-defensoria-publica-para-el-estado-de-tamaulipas-94639
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-07"
-last_updated: "2016-06-16"
+last_updated: "2017-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
 
 Ley publicada en el Anexo al Extraordinario No. 3 del Periódico Oficial del Estado de Tamaulipas, el viernes 7 de junio de 2013.
 
@@ -137,29 +137,33 @@ I. La Dirección General del Instituto de Defensoría Pública;
 
 II. La Dirección de Defensoría Pública;
 
-III. La Dirección de Asesorías;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
 
-IV. La Dirección de Planeación y Desarrollo Administrativo;
+III. La Dirección de Asesoría y Capacitación;
+
+IV. (DEROGADA, P.O. 23 DE MARZO DE 2017)
 
 V. Los Coordinadores Regionales;
 
 VI. Los Jefes de los Departamentos siguientes:
 
-a) Defensoría Pública;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-b) Asesoría Pública;
+a) Defensorías Públicas;
+
+b) (DEROGADO, P.O. 23 DE MARZO DE 2017)
 
 c) Asistencia Técnica y Pericial;
 
 d) Supervisión;
 
-e) Trabajo Social;
+e) (DEROGADO, P.O. 23 DE MARZO DE 2017)
 
 f) Administrativo;
 
 g) Informática; y
 
-h) Capacitación y Actualización.
+h) (DEROGADO, P.O. 23 DE MARZO DE 2017)
 
 VII. Los Defensores Públicos en materia penal;
 
@@ -892,3 +896,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Todos los procesos y recursos iniciados con las disposiciones que mediante el presente Decreto, se reforman o adicionan, deberán concluirse con el procedimiento mediante el cual se iniciaron; sin embargo, para efecto de la competencia jurisdiccional en materia penal de los juzgados menores, se atenderá al contenido de las declaratorias emitidas por el Congreso del Estado para la operación del Sistema de Justicia Penal Acusatorio y Oral, conforme a las fechas de vigencia, territorio y delitos en ellas precisados.
+
+P.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-147 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS, LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS, LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS”.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
