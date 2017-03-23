@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-del-distrito-federal-15815"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-02"
-last_updated: "2014-11-28"
+last_updated: "2017-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15815&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2000-01-10"
 ---
 # LEY DE VIVIENDA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DE LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 23 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE VIVIENDA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE MARZO DE 2017 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 2 de marzo de 2000.
 
@@ -681,3 +683,39 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE CONTIENE LAS OBSERVACIONES RESPECTO DEL DIVERSO POR EL QUE SE EXPIDE LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Titular de la Jefatura de Gobierno de la Ciudad de México para su respectiva promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley de Vivienda del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal, el día 2 de marzo del 2000.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones administrativas que se opongan al presente ordenamiento.
+
+###### ARTÍCULO SEXTO.
+
+El Jefe de Gobierno de la Ciudad de México deberá emitir, en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto, el Reglamento de la Ley que se crea, el cual deberá prever las condiciones de habitabilidad que aquí se encuentran, así como estar armonizado con el marco legal internacional en materia de derechos humanos, firmado y ratificado por México.
+
+###### ARTÍCULO SÉPTIMO.
+
+Con la finalidad de que la Secretaría y el Instituto puedan cumplir con lo que establece la presente Ley, deberá contar con el presupuesto adecuado y la estructura administrativa necesaria.
+
+###### ARTÍCULO OCTAVO.
+
+Una vez que se haya promulgado la Constitución de la Ciudad de México, el órgano legislativo, en un plazo de 180 días hábiles, se llevará a cabo la armonización de esta Ley con toda la legislación en la materia, y la correspondiente a los derechos estrechamente interrelacionados con el derecho a la vivienda, de acuerdo con los lineamientos del Programa de Derechos Humanos.
