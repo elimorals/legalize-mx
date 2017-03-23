@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2016-05-05"
+last_updated: "2017-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE MARZO DE 2017.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -4076,31 +4076,11 @@ ARTICULO 425 (DEROGADO, D.O.F. 14 DE MARZO DE 1973)
 
 ### CAPITULO IX. De las sentencias ejecutoriadas y cosa juzgada
 
-> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 426.
 
-Hay cosa juzgada cuando la sentencia causa ejecutoria o cuando las partes celebran un convenio emanado del procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE AGOSTO DE 2013)</small>
-
-Causan ejecutoria por ministerio de ley:
-
-> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
-
-I. Las sentencias pronunciadas en juicios cuyo monto sea inferior a la cantidad que el artículo 691 establece para que un juicio sea apelable. Dichas cantidades se actualizarán en los términos del artículo 62. Se exceptúan los interdictos, los asuntos de competencia de los jueces de lo familiar y las relativas a la materia de arrendamiento inmobiliario.
-
-II. Las sentencias de segunda instancia;
-
-III. Las que resuelvan una queja;
-
-IV. Las que dirimen o resuelven una competencia;
-
-V. Las demás que se declaran irrevocables por prevención expresa de la ley;
-
-VI. Las sentencias que no puedan ser recurridas por ningún medio ordinario; y
-
-VII. Los convenios emanados del procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal.
+Hay cosa juzgada cuando la sentencia causa ejecutoria, cuando las partes celebran un convenio emanado del procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, o cuando las partes celebran convenios como resultado de la mediación comunitaria prevista en las leyes de la Ciudad de México.
 
 ARTICULO 427
 
@@ -4250,11 +4230,11 @@ X.- Los convenios emanados del procedimiento de mediación que cumplan con los r
 
 XI.- Los demás a los que se les reconozca ese carácter por la Ley.
 
-> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 444.
 
-Las sentencias que causen ejecutoria y los convenios judiciales, los convenios celebrados ante la Procuraduría Federal del Consumidor, los convenios celebrados ante la Procuraduría Social del Distrito Federal, los convenios emanados del procedimiento de mediación que cumplan con los requisitos previstos en la Ley de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, los convenios ante los Juzgados Cívicos tratándose de daños culposos causados con motivo del tránsito de vehículos, los convenios de transacción, los laudos que emitan las propias Procuradurías antes mencionadas y los laudos arbitrales o juicios de contadores, motivarán ejecución, si el interesado no intentare la vía de apremio.
+Las sentencias que causen ejecutoria y los convenios judiciales, los convenios celebrados ante la Procuraduría Federal del Consumidor, los convenios celebrados ante la Procuraduría Social de la Ciudad de México, los convenios emanados del procedimiento de mediación, incluidos los de mediación comunitaria prevista en las leyes de la Ciudad de México, que cumplan con los requisitos previstos en la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, los convenios celebrados ante los Juzgados Cívicos tratándose de daños culposos causados con motivo del tránsito de vehículos, los convenios de transacción, los laudos que emitan las propias Procuradurías antes mencionadas y los laudos arbitrales o juicios de contadores, motivarán ejecución, si el interesado no intentare la vía de apremio.
 
 ARTICULO 445
 
@@ -4864,9 +4844,9 @@ ARTICULO 500
 
 Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio o en virtud de pacto comisorio expreso, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo que sea.
 
-> <small>(REFORMADO. G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
-Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y la Procuraduría Social del Distrito Federal, así como los laudos emitidos por dichas Procuradurías; en la ejecución de convenios emanados del procedimiento de mediación que cumplan con los requisitos previstos en la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, y los celebrados ante los Juzgados Cívicos, tratándose de daños culposos causados con motivo del tránsito de vehículos.
+Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y la Procuraduría Social de la Ciudad de México, así como los laudos emitidos por dichas Procuradurías; en la ejecución de convenios emanados del procedimiento de mediación, incluidos los de mediación comunitaria prevista en las leyes de la Ciudad de México, que cumplan con los requisitos previstos en la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, y los celebrados ante los Juzgados Cívicos, tratándose de daños culposos causados con motivo del tránsito de vehículos.
 
 ARTICULO 501
 
@@ -8396,7 +8376,7 @@ La documentación que presenten los solicitantes extranjeros en idioma distinto 
 
 La documentación correspondiente deberá estar apostillada o legalizada por el Cónsul mexicano.
 
-VI. En el auto admisorio que le recaiga a la solicitud inicial de adopción, el Juez señalará fecha para la audiencia, laque se deberá desahogar dentro de los diez días siguientes al mismo.
+VI. En el auto admisorio que le recaiga a la solicitud inicial de adopción, el Juez señalará fecha para la audiencia, la que se deberá desahogar dentro de los diez días siguientes al mismo.
 
 > <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
 
@@ -11343,3 +11323,23 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan todas las disposiciones contrarias a este decreto.
+
+G.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE CONTIENE LAS OBSERVACIONES AL DIVERSO POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SECUNDO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Secretaría de Finanzas incluirá en el Programa Operativo de la Administración Pública de la Ciudad de México para el ejercicio 2017, la dotación de los recursos humanos así como los servicios y equipo necesarios, conforme a las disponibilidades presupuestales, a partir de la propuesta que le formule la Consejería Jurídica y de Servicios Legales, para el cumplimiento de las atribuciones que le confiere el presente decreto.
+
+CUARTO. Los mediadores comunitarios en activo en las Delegaciones Políticas con diploma expedido por el Tribunal Superior de Justicia de la Ciudad de México, deberán someterse obligatoriamente a un procedimiento de capacitación y actualización en razón de la entrada en vigor del presente decreto para tener derecho a ser certificados y registrados por la Consejería Jurídica y de Servicios Legales.
+
+QUINTO. La Dirección Ejecutiva de Justicia Cívica, elaborará los Lineamientos de Justicia Cívica, en un término de seis meses, contados a partir de la entrada en vigor del presente Decreto, recopilando las circulares emitidas, los cuales deberán de ser actualizados periódicamente.
+
+SEXTO. En un término de seis meses, contados a partir de la entrada en vigor del presente Decreto, se deberán de realizar las reformas correspondientes, en el Reglamento de la Ley de Cultura Cívica de la Ciudad de México.
+
+SÉPTIMO. El Tribunal Superior de Justicia de la Ciudad de México, por conducto de su Centro de Justicia Alternativa, continuará con los programas de formación de mediadores comunitarios así como en el diseño y consolidación de los programas delegacionales de mediación comunitaria en coordinación con la Dirección Ejecutiva de Justicia Cívica de la Consejería Jurídica y de Servicios Legales.
+
+OCTAVO. Se derogan las disposiciones que se opongan al presente Decreto.
