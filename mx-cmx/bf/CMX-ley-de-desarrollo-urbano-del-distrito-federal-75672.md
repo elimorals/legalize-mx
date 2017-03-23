@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2017-03-16"
+last_updated: "2017-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -274,11 +274,15 @@ XVI. Autorizar, negar, cancelar o condicionar las solicitudes e inscripciones de
 
 XVII. Autorizar a personas físicas con registro de peritos en desarrollo urbano, para llevar a cabo estudios de impacto urbano;
 
-XVIII. Recibir y registrar la manifestación de polígonos de actuación y, según proceda, la autorización de las relotificaciones, cambios de uso de suelo, fusiones, subdivisiones, transferencias de potencialidad, manifestaciones de construcción y demás medidas que resulten adecuadas para la materialización de los polígonos autorizados, así como expedir las licencias correspondientes.
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2017)</small>
 
-De tales, registros, autorizaciones y licencias informará para su conocimiento y registro, a la Delegación o Delegaciones en que se ubique el polígono de actuación;
+XVIII. Recibir y registrar la manifestación de polígonos de actuación y, según proceda, la autorización de las relotificaciones, cambios de uso de suelo, fusiones, subdivisiones, transferencias de potencialidad, manifestaciones de construcción y demás medidas que resulten adecuadas para la materialización de los polígonos autorizados, así como expedir las licencias correspondientes, debiendo agotar previamente el Procedimiento de Publicitación Vecinal tramitado ante la Delegación que corresponda conforme a las disposiciones establecidas en esta Ley y sus Reglamentos.
 
-XIX. Recibir y registrar las manifestaciones de polígonos de actuación, así como emitir los dictámenes correspondientes, previamente a la presentación de la manifestación de construcción ante la Delegación;
+De tales, registros, autorizaciones y licencias se deberá realizar previamente de manera obligatoria el Procedimiento de Publicitación Vecinal, informando para su conocimiento y registro, a la Delegación o Delegaciones en que se ubique el polígono de actuación;
+
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2017)</small>
+
+XIX. Recibir y registrar las manifestaciones de polígonos de actuación, emitir los dictámenes correspondientes, y agotar el Procedimiento de Publicitación Vecinal previamente a la presentación de la manifestación de construcción ante la Delegación conforme a las disposiciones establecidas en esta Ley y sus Reglamentos;
 
 XX. Solicitar a la autoridad competente, que ejecute medidas de seguridad en los casos que corresponda, conforme a las determinaciones que la propia Secretaría dicte en aplicación de sus atribuciones;
 
@@ -324,9 +328,13 @@ I. Participar con la Secretaría en la elaboración y modificación de los proye
 
 II. Vigilar el cumplimiento de los Programas en el ámbito de su Delegación;
 
-III. Expedir las licencias y permisos correspondientes a su demarcación territorial, en el ámbito de su competencia, conforme a las disposiciones de esta Ley;
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2017)</small>
 
-IV. Recibir las manifestaciones de construcción e integrar el registro de las mismas en su Delegación conforme a las disposiciones aplicables, verificando previamente a su registro que la manifestación de construcción cumpla con los requisitos previstos y se proponga respecto de suelo urbano;
+III. Expedir las licencias y permisos correspondientes a su demarcación territorial, en el ámbito de su competencia, debiendo sustanciar de manera obligatoria el Procedimiento de Publicitación Vecinal, en los casos en que así proceda conforme a las disposiciones de esta Ley y sus Reglamentos;
+
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2017)</small>
+
+IV. Recibir las manifestaciones de construcción e integrar el registro de las mismas en su Delegación conforme a las disposiciones aplicables, verificando previamente a su registro que la manifestación de construcción cumpla (sic) requisitos previstos en el Reglamento, y se proponga respecto de suelo urbano así como con el Procedimiento de Publicitación Vecinal; en los casos que así procede conforme a las disposiciones de esta Ley y sus Reglamentos.
 
 V. Coordinarse con la Secretaría para la realización de la consulta pública prevista para la elaboración de los Programas;
 
@@ -1368,6 +1376,96 @@ En los casos de aquellas obras y actividades donde, además del dictamen de impa
 
 Para la construcción, ampliación, reparación o modificación de una obra, sea que requiera o no de dictamen de impacto urbano, el interesado deberá efectuar el pago de aprovechamientos y derechos correspondientes en los términos que señale el Código Fiscal del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2017)</small>
+
+###### Artículo 94 Bis.
+
+El Procedimiento de Publicitación vecinal, se tramitara ante la Delegación que corresponda a la ubicación del predio, bajo el procedimiento y requisitos establecidos en esta Ley.
+
+El Procedimiento de Publicitación Vecinal es un requisito indispensable para la procedencia del registro de manifestación de construcción tipo B o C, así como para la expedición de permisos o licencias referentes a cambios de uso de suelo, fusiones, subdivisiones, transferencias de potencialidad, afectaciones y restricciones de construcción, edificación, modificación, ampliación, reparación, demolición de construcciones y demás medidas que establezca esta Ley referente a las modalidades previstas en el artículo 53 del Reglamento de Construcciones para el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2017)</small>
+
+###### Artículo 94 Ter.
+
+Para la Construcción, ampliación, reparación o modificación de una obra, de las previstas en el artículo 53 del Reglamento de Construcciones para el Distrito Federal, y previamente a la solicitud de tramitación de permisos, licencias, autorizaciones, registros de manifestaciones, y demás actos administrativos referentes a cambios de uso de suelo, los solicitantes deberán agotar el procedimiento de publicitación vecinal en los términos que señala esta Ley.
+
+No procederá la tramitación de los actos administrativos mencionados anteriormente, cuando el predio o inmueble se localice en suelo de conservación y no se haya agotado el procedimiento de publicitación vecinal.
+
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2017)</small>
+
+###### Artículo 94 Quater.
+
+El propietario o poseedor del predio o inmueble, el Director Responsable de Obra y los Corresponsables deberán sujetarse al procedimiento de publicitación vecinal previo a la solicitud de tramitación de permisos, licencias, autorizaciones, registro de manifestaciones o demás actos administrativos referentes a cambios de uso de suelo, únicamente en las modalidades previstas por el artículo 53 del Reglamento de Construcciones para el Distrito Federal en los siguientes términos:
+
+I. El procedimiento de publicitación vecinal fungirá como herramienta preventiva de conflictos y/o afectaciones a la ciudadanía y el entorno urbano, es un requisito indispensable para la procedencia del registro de manifestación de construcción, así como para la expedición de permisos o licencias referentes a cambios de uso de suelo como fusiones, subdivisiones, transferencias de potencialidad, afectaciones y restricciones de construcción, edificación, modificación, ampliación, reparación, demolición de construcciones y demás medidas que establezca esta Ley;
+
+II. El interesado deberá presentar ante la Ventanilla Única de la Delegación donde se realice la obra, formato de Solicitud de Constancia de Publicitación Vecinal;
+
+III. El formato de Solicitud de Constancia de Publicitación Vecinal deberá estar suscrito por el propietario del predio o inmueble que se trate, el cual deberá contener el nombre, denominación o razón social del o los interesados, domicilio para oír y recibir notificaciones; ubicación y superficie del predio de que se trate; nombre, número de registro y domicilio del Director Responsable de obra y, en su caso, del o de los Corresponsables acompañada de los siguientes requisitos, mismos que tienen relación con los previstos en el Reglamento de Construcciones del Distrito Federal:
+
+a) Constancia de alineamiento y número oficial vigente, y cualquiera de los documentos siguientes: certificado único de zonificación de uso de suelo específico y factibilidades o certificado de acreditación de uso del suelo por derechos adquiridos o el resultado de la consulta del Sistema de Información Geográfica relativo al uso y factibilidades del predio;
+
+b) Un tanto del proyecto arquitectónico de la obra en planos a escala, debidamente acotados con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se debe incluir, como mínimo: croquis de localización del predio, levantamiento del estado actual, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera; cortes y fachadas; cortes por fachada, cuando colinden en vía pública y detalles arquitectónicos interiores y de obra exterior; plantas, cortes e isométricos en su caso, de las instalaciones hidrosanitarias, eléctricas, gas, instalaciones especiales y otras, mostrando las trayectorias de tuberías, alimentaciones y las memorias correspondientes;
+
+c) Estos planos deben acompañarse de la memoria descriptiva, la cual contendrá como mínimo: el listado de locales construidos y áreas libres de que consta la obra, con la superficie y el número de ocupantes o usuarios de cada uno; los requerimientos mínimos de acceso y desplazamiento de personas con discapacidad, cumpliendo con las Normas correspondientes; coeficientes de ocupación y de utilización del suelo, de acuerdo a los Programas General, Delegacionales y/o Parciales, en su caso;
+
+d) La descripción de los dispositivos que provean el cumplimiento de los requerimientos establecidos por la Ley en cuanto a salidas y muebles hidrosanitarios, niveles de iluminación y superficies de ventilación de cada local, visibilidad en salas de espectáculos, resistencia de los materiales al fuego, circulaciones y salidas de emergencia, equipos de extinción de fuego, y diseño de las instalaciones hidrosanitarias, eléctricas, de gas y otras que se requieran.
+
+Estos documentos deben estar firmados por el propietario o poseedor, por el Director Responsable de Obra y los Corresponsables en Diseño Urbano y Arquitectónico y en Instalaciones, en su caso;
+
+e) Un tanto del proyecto estructural de la obra en planos debidamente acotados, con especificaciones que contengan una descripción completa y detallada de las características de la estructura incluyendo su cimentación.
+
+Se especificarán en ellos los datos esenciales del diseño como las cargas vivas y los coeficientes sísmicos considerados y las calidades de materiales. Se indicarán los procedimientos de construcción recomendados, cuando éstos difieran de los tradicionales.
+
+Deberán mostrarse en planos los detalles de conexiones, cambios de nivel y aberturas para ductos;
+
+f) Los planos anteriores deben incluir el proyecto de protección a colindancias y el estudio de mecánica de suelos cuando proceda, de acuerdo con lo establecido en el Reglamento de Construcciones para el Distrito Federal.
+
+Estos documentos deben estar firmados por el Director Responsable de Obra y el Corresponsable en Seguridad Estructural, en su caso;
+
+g) Responsiva del Director Responsable de Obra del proyecto de la obra, así como de los Corresponsables en los supuestos señalados en el artículo 36 del Reglamento de Construcciones;
+
+h) Presentar dictamen favorable del estudio de impacto urbano o impacto urbano-ambiental, para los casos señalados en la fracción III del artículo 51 del Reglamento de construcciones;
+
+i) Presentar acuse de recibo del aviso de ejecución de obras ante la Secretaría del Medio Ambiente, cuando se trate de proyectos habitacionales de más de 20 viviendas;
+
+j) Cuando se trate de zonas de conservación del Patrimonio Histórico, Artístico y Arqueológico de la Federación o área de conservación patrimonial de la Ciudad de México, se requiere además, cuando corresponda, el dictamen técnico de la Secretaría de Desarrollo Urbano y Vivienda, el visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia, así como la responsiva de un Corresponsable en Diseño Urbano y Arquitectónico;
+
+k) En el caso de ampliaciones, modificaciones o reparaciones en edificaciones existentes, se debe presentar, de la obra original, la licencia de construcción especial o el registro de manifestación de construcción o el registro de obra ejecutada, así como indicar en planos la edificación original y el área donde se realizarán estos trabajos;
+
+IV. Presentado el formato de solicitud de constancia acompañado de los requisitos establecidos, el solicitante deberá fijar en lugar visible al exterior del predio una Cédula de Publicitación, con el fin de dar a conocer a los vecinos y comités vecinales que tengan interés legitimo, los alcances de la obra que se va a realizar;
+
+V. La Cédula de Publicitación se colocará en lugares visibles al exterior del predio o inmueble por un periodo de 15 días hábiles contados a partir del día siguiente a la presentación de solicitud, y deberá contener;
+
+a) Datos de identificación del registro de manifestación de construcción.
+
+b) Superficie del predio.
+
+c) Descripción sintética de la obra o acción de que se trate.
+
+d) Número de niveles a construir.
+
+e) Normas de ordenación general que se pretendan aplicar.
+
+VI. Dentro del periodo de publicitación, los Ciudadanos vecinos de la zona donde se encuentre el predio o inmueble sujeto al procedimiento, podrán solicitar información con el fin de corroborar la legalidad de la obra, o en su caso, podrán manifestar su inconformidad ante la Delegación correspondiente;
+
+VII. La manifestación de inconformidad será promovida por el ciudadano que acredite tener interés legítimo y tendrá como finalidad hacer del conocimiento de la Delegación, presuntas irregularidades, infracciones, afectaciones patrimoniales o en su modo de vida causadas por las referidas irregularidades o infracciones que involucren directamente la obra sujeta a procedimiento;
+
+VIII. La Delegación deberá transparentar e informar a los vecinos que lo soliciten, los alcances de la obra y si ha cumplido o no con los requisitos establecidos;
+
+IX. La manifestación de inconformidad deberá presentarse por escrito ante la Delegación, acreditando el interés legítimo del interesado, fundando los motivos de su inconformidad en el nexo causal existente entre la posible infracción o irregularidad aducida y el patrimonio afectado, o bien entre dichas infracciones o irregularidades y su modo de vida, debiendo adjuntar al escrito de manifestación de inconformidad las constancias con que se cuente;
+
+X. La Delegación en un término que no excederá de 5 días hábiles, emitirá opinión técnica en la cual considerará fundada o infundada la manifestación de inconformidad; de considerarlo necesario, con la manifestación de inconformidad, la Delegación por conducto de la Dirección de Obras y Desarrollo Urbano Delegacional correrá traslado al interesado y a las autoridades cuyos actos se presuman irregulares para que en el término de tres días hábiles a partir del en (sic) que surta efectos la notificación personal al efecto realizada, manifiesten lo que a su interés convenga.
+
+El interesado y la autoridad podrán acompañar a su escrito de contestación, los documentos que consideren pertinentes para acreditar la legalidad de los actos reclamados. Solo será admisible la prueba documental.
+
+La autoridad delegacional citará a las partes involucradas a una audiencia de desahogo de pruebas y alegatos, y en un término que no excederá de 5 días hábiles, emitirá opinión técnica en la cual considerará fundada o infundada la manifestación de inconformidad.
+
+XI. Transcurrido el plazo de publicitación sin que haya mediado manifestaciones de inconformidad, o aun habiéndose presentado, estas se hayan declarado infundadas en su totalidad, la Delegación entregará la Constancia de Publicitación al solicitante; la cual deberá ser entregada por el interesado como un requisito indispensable para la recepción del registro de manifestación de construcción;
+
+XII. En caso de que se considere fundada la manifestación de inconformidad, cuando el proyecto no cumpla con las disposiciones legales aplicables, o contravenga lo establecido en la presente Ley, no procederá la entrega de Constancia de Publicitación Vecinal, por lo que el proyecto deberá ajustarse a la normatividad aplicable en materia de desarrollo urbano y de volverse a intentar su aprobación requerirá nuevamente la consulta para la obtención de la constancia de publicitación.
+
 ## Título Séptimo. De las Medidas de Seguridad y de las Sanciones
 
 ### Capítulo Primero. De las Medidas de Seguridad
@@ -1673,3 +1771,15 @@ SEGUNDO. Las menciones que a la Comisión de Regulación Especial u órganos col
 TERCERO. Las Comisiones de Regulación Especial: para Álvaro Obregón; para Gustavo A. Madero; .de (sic) Milpa Alta; para Tláhuac; para Tlalpan; en Xochimilco; y en Iztapalapa, así como el Programa de Unidad de Mejoramiento Ambiental y Desarrollo Comunitario (UMADEC) de Milpa Alta; remitirán a la Comisión de Evaluación de Asentamientos Humanos Irregulares, a solicitud de su presidente, la totalidad de los expedientes que hayan sido de su conocimiento, tanto los concluidos como los que sigan abiertos a la fecha de la solicitud. La omisión de atender la solicitud señalada, será causa de responsabilidad administrativa.
 
 CUARTO. Remítase el presente Decreto al Jefe de Gobierno del Distrito Federal, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 23 DE MARZO DE 2017.
+
+> <small>[N. DE E. A TRANSITORIOS DEL “DECRETO QUE CONTIENE LAS OBSERVACIONES AL DIVERSO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]</small>
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Todas las disposiciones legales que contravengan esta reforma, se entienden como derogadas.
+
+CUARTO.- El Jefe de Gobierno tendrá ciento treinta días hábiles a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones necesarias al Reglamento de Construcciones del Distrito Federal y demás ordenamientos vinculados.
