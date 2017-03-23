@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2016-12-21"
+last_updated: "2017-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -142,8 +144,6 @@ Las fechas se escribirán con letra e igualmente los números cuando representen
 Se dejarán los márgenes necesarios a efecto de permitir la lectura por ambos lados una vez agregada la actuación a los autos.
 
 Deberán ser autorizadas por el secretario a quien corresponde dar fe o certificar el acto, y no surtirán efectos legales si falta este requisito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -285,8 +285,6 @@ VIII.- Siempre se presentarán originales, salvo las copias de ley. Los interesa
 
 La enumeración anterior no es limitativa, por lo que las partes deberán consignar además en sus promociones todos aquellos datos que faciliten su comprensión y trámite. En la inteligencia de que, de no resultar verdadero alguno de los datos señalados bajo protesta a que se refiere la anterior fracción IV, se le impondrá multa de conformidad con la fracción II, del artículo 15 de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 22 Bis.
@@ -306,8 +304,6 @@ Cuando por las singulares características de un documento u otro anexo, el sist
 Las promociones electrónicas y sus anexos, deberán estar siempre signadas a través de la firma electrónica avanzada de quien promueve.
 
 El titular del órgano jurisdiccional tendrá la facultad de solicitar a las partes, cuando así lo considere necesario, la presentación física de cualquiera de los documentos o medios de prueba que electrónicamente le hayan sido presentados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PRIMER PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -335,8 +331,6 @@ Los autos que se perdieren serán repuestos a costa del responsable de la pérdi
 
 La reposición se substanciará en la vía incidental, y, sin necesidad de acuerdo judicial, el secretario hará constar, desde luego, la existencia anterior y falta posterior del expediente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 Los jueces deberán investigar de oficio la existencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho, incluyendo los registros que consten en el Expediente Electrónico.
@@ -344,8 +338,6 @@ Los jueces deberán investigar de oficio la existencia de las piezas de autos de
 Las partes están obligadas a aportar para la reposición de los expedientes, las copias de documentos, escritos, diligencias o resoluciones judiciales que obren en su poder, y el juez tendrá las más amplias facultades para usar de los medios de apremio que autoriza la ley.
 
 En el caso en que resulte que alguna de las partes o sus representantes o abogados son responsables, como autores, coautores o encubridores, de la sustracción o pérdida del expediente, se hará la consignación correspondiente para la imposición de las sanciones penales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -400,8 +392,6 @@ Los magistrados, Procurador General de Justicia y jueces propietarios en ejercic
 ###### ARTICULO 36.
 
 Las partes deberán presentar sus promociones en la oportunidad procesal debida, y de ninguna manera anticipadamente. La no observancia de esta prevención dará lugar a que se tenga por no hecha la manifestación o petición contenida en el escrito cuya presentación es extemporánea.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -705,15 +695,11 @@ El juez al acordar lo relativo a la autorización a que se refiere este artícul
 
 Así mismo, las partes podrán solicitar la autorización para sí o por persona autorizada en los términos que establecen los párrafos anteriores, el acceso a la Página Electrónica que para tal efecto tiene el Poder Judicial del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos del Órgano Jurisdiccional, lo que les permitirá consultar en forma completa el expediente electrónico.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 Igualmente, si así lo desean, las partes podrán autorizar que a través del correo electrónico, y mediante el sistema del Tribunal Electrónico del Poder Judicial del Estado, se les realicen notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se otorgue este tipo de autorización, generándose en cada diligencia electrónica un registro que contendrá folio, juzgado, expediente, fecha y hora de cada notificación, el cual será agregado a los autos y se tendrá por legalmente practicada la notificación hecha por este medio, surtiendo sus efectos en los términos previstos por el artículo 63 de este Código.
 
 Se excluye de la anterior forma de notificación el emplazamiento a juicio y las demás que el juez así lo considere conveniente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -2993,8 +2979,6 @@ Para acreditar hechos o circunstancias que tengan relación con el negocio que s
 
 En el caso de registros y archivos electrónicos, la parte oferente deberá expresar con toda exactitud el nombre completo del sistema operativo y del programa o aplicación que lo ejecuta, o en su lugar la página electrónica de la cual fue obtenido; el Juzgador, deberá requerir al oferente para que proporcione los medios necesarios para el desahogo de la probanza en el caso de que el Supremo Tribunal de Justicia no cuente con ellos; si los medios proporcionados al respecto resultaren inadecuados, la prueba en comento se declarará desierta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 Los registros electrónicos generados y publicados en el Expediente Electrónico, únicamente podrán ofrecerse precisando la parte conducente que se desea aportar como prueba, así como el nombre de las partes, número de expediente, tipo de juicio, juzgado en el que se tramita o tramitó el procedimiento respectivo, y cualquier otro dato que permita al juez su localización electrónica. Para establecer su valor probatorio deberá estarse a lo que dispone el tercer párrafo del artículo 410 de este Código.
@@ -3217,19 +3201,13 @@ El valor de las pruebas fotográficas, taquigráficas y otras cualesquiera aport
 
 Las fotografías de personas, lugares, edificios, construcciones, papeles, documentos y objetos de cualquier especie, deberán contener la certificación correspondiente que acredite el lugar, tiempo y circunstancias en que fueron tomadas, así como que corresponden a lo representado en ellas, para que constituyan prueba plena.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 Los registros electrónicos generados y publicados en el Tribunal Electrónico, harán prueba plena.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 Los demás registros electrónicos, archivos magnéticos, archivos electrónicos y cualesquiera otros elementos proporcionados por la ciencia, cuando contengan firma electrónica avanzada o sello digital, hacen prueba plena, salvo prueba en contrario.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -6253,7 +6231,9 @@ I.- Los legatarios o sus representantes, exhibirán al notario la copia certific
 
 II.- El notario dará a conocer, por medio de una publicación en un periódico de los de mayor circulación de la localidad, que ante él se está tramitando la titulación notarial de la adquisición derivada del testamento público simplificado, los nombres del testador y los legatarios, y en su caso, su parentesco y se convocará a los que se consideren con derecho a la herencia y a los acreedores para que dentro del término de diez días se presente a deducir su derecho;
 
-III.- El notario recabará del Archivo General de Notarías y del Registro Público de la Propiedad del Estado, las constancias relativas a la existencia o inexistencia del testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos, siempre que no existiere oposición;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
+
+III.- El notario recabará del Departamento de Archivo de la Dirección de Asuntos Notariales de la Secretaría General de Gobierno y del Instituto Registral y Catastral del Estado de Tamaulipas, las constancias relativas a la existencia o inexistencia del testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos, siempre que no existiere oposición;
 
 IV.- De ser procedente, el notario redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso, y la conformidad expresa de los legatarios en aceptar el legado, documentos que se inscribirán en el Registro Público de la Propiedad. En su caso, se podrá hacer constar la repudiación expresa; y,
 
@@ -8098,3 +8078,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-147 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS, LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS, LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
