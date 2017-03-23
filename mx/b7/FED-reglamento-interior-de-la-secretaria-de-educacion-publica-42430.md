@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-42430
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-21"
-last_updated: "2016-02-08"
+last_updated: "2017-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42430&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-20"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2017.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de enero de 2005.
 
@@ -71,9 +71,9 @@ V. Oficialía Mayor;
 
 VI. Jefatura de la Oficina del Secretario;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-VII. Unidad de Asuntos Jurídicos;
+VII. Unidad de Asuntos Jurídicos y Transparencia;
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -131,13 +131,17 @@ XXVII. Dirección General de Educación Indígena;
 
 XXVIII. Dirección General de Formación Continua, Actualización y Desarrollo Profesional de Maestros de Educación Básica;
 
-XXIX. Dirección General de Personal;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXIX. Dirección General de Recursos Humanos y Organización;
 
 > <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
 XXX. Dirección General de Presupuesto y Recursos Financieros;
 
-XXXI. Dirección General de Innovación, Calidad y Organización;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXXI. Dirección General del Sistema de Administración de la Nómina Educativa Federalizada;
 
 XXXII. Dirección General de Recursos Materiales y Servicios;
 
@@ -173,7 +177,9 @@ XL. Unidad de Seguimiento de Compromisos e Instrucciones Presidenciales en el Se
 
 XLI. Coordinación General de Atención Ciudadana, y
 
-B.- Órganos desconcentrados:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MARZO DE 2017)</small>
+
+B.- Órganos administrativos desconcentrados:
 
 I. Administración Federal de Servicios Educativos en el Distrito Federal;
 
@@ -235,9 +241,9 @@ El Secretario, para la mejor distribución y desarrollo del trabajo, podrá:
 
 I. Conferir aquellas facultades que sean delegables a servidores públicos subalternos, sin perjuicio de su ejercicio directo, expidiendo los acuerdos relativos que deberán ser publicados en el Diario Oficial de la Federación, y
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-II. Autorizar por escrito a servidores públicos subalternos para que realicen actos y suscriban documentos que formen parte del ejercicio de sus facultades delegables. Dichas autorizaciones deberán registrarse en la Unidad de Asuntos Jurídicos.
+II. Autorizar por escrito a servidores públicos subalternos para que realicen actos y suscriban documentos específicos que formen parte del ejercicio de sus facultades delegables, siempre y cuando la atribución no esté conferida expresamente a otro servidor público en este Reglamento. Dichas autorizaciones deberán registrarse en la Unidad de Asuntos Jurídicos y Transparencia.
 
 ###### ARTÍCULO 5.
 
@@ -269,9 +275,9 @@ XI. Expedir el manual de organización general de la Secretaría que deberá pub
 
 XII. Expedir, con sujeción a lo dispuesto por la Ley de la materia y su Reglamento, los nombramientos de directores generales y titulares de las unidades administrativas de la Secretaría y emitir los lineamientos conforme a los cuales deberán expedirse los nombramientos relativos a los demás rangos del Sistema de Servicio Profesional de Carrera;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XIII. Acordar con los Subsecretarios, el Oficial Mayor, el Jefe de la Oficina del Secretario y el Titular de la Unidad de Asuntos Jurídicos, los asuntos de sus respectivas competencias, así como supervisar el ejercicio de las atribuciones de los titulares de las unidades administrativas bajo su adscripción directa;
+XIII. Acordar con los Subsecretarios, el Oficial Mayor, el Jefe de la Oficina del Secretario y el Titular de la Unidad de Asuntos Jurídicos y Transparencia, los asuntos de sus respectivas competencias, así como supervisar el ejercicio de las atribuciones de los titulares de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública que se encuentren bajo su adscripción directa;
 
 XIV. Aprobar el anteproyecto de presupuesto de egresos de la Secretaría y de sus órganos desconcentrados y, en su caso, las modificaciones a éstos, así como dar su conformidad a los de las entidades paraestatales del sector coordinado por ella;
 
@@ -321,15 +327,19 @@ VIII. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2012)
 
 IX. Suscribir los documentos relativos al ejercicio de las facultades que le hayan sido delegadas, autorizadas o le correspondan por suplencia;
 
-X. Expedir copias certificadas de las constancias que obren en los archivos de las unidades administrativas a su cargo, previo pago de los derechos correspondientes, excepto cuando deban ser exhibidas en procedimientos judiciales o contencioso-administrativos y, en general, para cualquier proceso o averiguación;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+X. Expedir copias certificadas de los documentos que se encuentren en los archivos de la unidad administrativa a su cargo, incluyendo archivos y documentos electrónicos;
 
-XI. Establecer la coordinación necesaria con los demás Subsecretarios, el Oficial Mayor, el Jefe de la Oficina del Secretario, el Titular de la Unidad de Asuntos Jurídicos y el Titular de la Coordinación General de Delegaciones Federales de la Secretaría de Educación Pública, así como con las demás unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública para el mejor despacho de los asuntos competencia de la Secretaría;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XI. Establecer la coordinación necesaria con los demás Subsecretarios, el Oficial Mayor, el Jefe de la Oficina del Secretario, el Titular de la Unidad de Asuntos Jurídicos y Transparencia y el Titular de la Coordinación General de Delegaciones Federales de la Secretaría de Educación Pública, así como con las demás unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública para el mejor despacho de los asuntos competencia de dicha Secretaría;
 
 XII. Adscribir al personal de las unidades administrativas de su responsabilidad y decidir sobre sus movimientos dentro de tales unidades;
 
-XIII. Proponer al Secretario la delegación o las autorizaciones para ejercer facultades en favor de servidores subalternos, en asuntos competencia de la Subsecretaría;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XIII. Proponer al Secretario la delegación de facultades en servidores públicos subalternos;
 
 XIV. Acordar con los titulares de las unidades administrativas adscritos a la Subsecretaría;
 
@@ -341,9 +351,19 @@ XVII. Formular los anteproyectos de programas y de presupuesto que le correspond
 
 XVIII. Proponer, en el ámbito de su competencia, lineamientos y normas para el mejor funcionamiento de los órganos desconcentrados de la Secretaría;
 
-XIX. Vigilar que se cumpla con las disposiciones aplicables en los asuntos de su competencia, y
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XIX. Vigilar que se cumpla con las disposiciones jurídicas aplicables en los asuntos de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XIX Bis. Gestionar ante la Oficialía Mayor el ejercicio y control del presupuesto autorizado a las unidades administrativas adscritas a la Subsecretaría, así como la provisión de los recursos materiales, servicios generales y sistemas informáticos requeridos para el cumplimiento de sus atribuciones, y
 
 XX. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal deban ser ejercidas por los titulares de ellas directamente.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MARZO DE 2017)</small>
+
+Cada Subsecretaría contará con una coordinación administrativa, con el objeto de atender las necesidades de recursos financieros, humanos y materiales de las unidades administrativas que se le adscriban.
 
 ### CAPÍTULO IV. DE LAS FACULTADES DEL OFICIAL MAYOR
 
@@ -407,7 +427,9 @@ XIX. Proveer lo necesario para el control, suministro, conservación, rehabilita
 
 XX. Promover lo necesario para el control, conservación, mantenimiento y, en general, el buen uso y servicio de los inmuebles destinados a la Secretaría, así como planear y prever los requerimientos inmobiliarios y, en su caso, determinar la causa de utilidad pública para la adquisición, mediante expropiación, de esta clase de bienes;
 
-XXI. Expedir copias certificadas de las constancias que obren en los archivos de las unidades administrativas que tenga adscritas, previo pago de los derechos correspondientes, excepto cuando deban ser exhibidas en procedimientos judiciales o contencioso-administrativos y, en general, para cualquier proceso o averiguación;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXI. Expedir copias certificadas de los documentos que se encuentren en los archivos de la unidad administrativa a su cargo, incluyendo archivos y documentos electrónicos;
 
 XXII. Coordinar el establecimiento y operación del programa interno de protección civil para el personal, instalaciones, bienes e información de la Dependencia;
 
@@ -415,7 +437,9 @@ XXIII. Observar y vigilar el cumplimiento por parte de las unidades administrati
 
 XXIV. Diseñar, implantar y evaluar las políticas y procesos para la innovación gubernamental y calidad en la Secretaría y proponerlos para las entidades agrupadas en el sector que le corresponde coordinar;
 
-XXV. Integrar, dar seguimiento y evaluar el programa anual de actividades para la transparencia y el combate a la corrupción en la Secretaría y proponerlo a las entidades agrupadas en el sector que le corresponde coordinar;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXV. Integrar, dar seguimiento y evaluar en términos de las disposiciones jurídicas aplicables, el programa anual de actividades para el combate a la corrupción en la Secretaría de Educación Pública, así como proponer dicho programa a las entidades paraestatales sectorizadas a dicha Dependencia;
 
 XXVI. Someter a la aprobación del Secretario las medidas técnicas y administrativas para la organización, funcionamiento, desconcentración, simplificación, descentralización y modernización administrativas de la Secretaría;
 
@@ -437,11 +461,29 @@ XXIX Bis. Coordinar la integración del programa operativo anual de la Secretar�
 
 XXIX Ter. Coordinar las acciones necesarias a efecto de promover al interior de la Secretaría de Educación Pública los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XXX. Someter al Secretario para su aprobación, con la participación de la Subsecretaría de Planeación, Evaluación y Coordinación, el anteproyecto de presupuesto de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría y, para su conformidad, los anteproyectos de presupuesto de las entidades paraestatales sectorizadas a dicha Secretaría, y
+XXX. Someter al Secretario para su aprobación, con la participación de la Subsecretaría de Planeación, Evaluación y Coordinación, el anteproyecto de presupuesto de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública y, para su conformidad, los anteproyectos de presupuesto de las entidades paraestatales sectorizadas a dicha Secretaría;
 
-XXXI. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal, deban ser ejercidas por los titulares de ellas directamente.
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXXI. Someter al Secretario para su aprobación y difundir las estrategias, lineamientos y criterios técnicos (sic) que deberán sujetarse las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública, en relación con los programas de modernización administrativa, calidad, mejora de procesos, mejora regulatoria, ahorro y combate a la corrupción;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXXII. Promover que las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública establezcan, difundan y mejoren los estándares de calidad de los servicios que brindan;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXXIII. Difundir y promover la instrumentación de procesos de cambio exitosos de la mejora de la gestión entre las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXXIV. Las demás que le confieran otras disposiciones jurídicas y las que le encomiende el Secretario, así como las que correspondan a las unidades administrativas que se le adscriban.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MARZO DE 2017)</small>
+
+La Oficialía Mayor contará con una coordinación administrativa, con el objeto de atender las necesidades de recursos financieros, humanos y materiales de las unidades administrativas que se le adscriban.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
@@ -461,7 +503,7 @@ Al frente de la Jefatura de la Oficina del Secretario habrá un Jefe de Oficina,
 
 I. Coordinar y dar seguimiento a los asuntos relacionados con las unidades administrativas adscritas al Secretario y, en su caso, convocar a sus titulares;
 
-II. Coordinar las acciones y programas inherentes a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en el ámbito de competencia de la Secretaría;
+II. (DEROGADA, D.O.F. 23 DE MARZO DE 2017)
 
 III. Brindar el apoyo que se requiera para la realización de las acciones que correspondan a la Secretaría en relación con los órganos legislativos, en coordinación con la Secretaría de Gobernación;
 
@@ -491,11 +533,19 @@ X. Planear, programar, organizar, promover, dirigir, ejecutar y evaluar acciones
 
 XI. Fungir como enlace entre la Secretaría y las asociaciones de padres de familia y proponer las disposiciones que regulen la organización y el funcionamiento de las mismas, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares;
 
-> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XII. Recibir las solicitudes, sugerencias y planteamientos que presenten ciudadanos y organizaciones de la sociedad civil ante la Secretaría, canalizarlas a las áreas competentes y darles seguimiento, así como sistematizar y proporcionar información a la ciudadanía sobre las actividades, trámites y servicios del sector educativo, y
+XII. Recibir las solicitudes, sugerencias y planteamientos que presenten ciudadanos y organizaciones de la sociedad civil a la Secretaría de Educación Pública, canalizarlas a las instancias competentes y darles seguimiento, así como sistematizar y proporcionar información a la ciudadanía sobre las actividades, trámites y servicios del sector educativo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XII Bis. Gestionar ante la Oficialía Mayor el ejercicio y control del presupuesto autorizado a las unidades administrativas que le sean adscritas, así como la provisión de los recursos materiales, servicios generales y sistemas informáticos requeridos para el cumplimiento de sus atribuciones, y
 
 XIII. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal deban ser ejercidas por los titulares de ellas directamente.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MARZO DE 2017)</small>
+
+La Jefatura de la Oficina del Secretario contará con una coordinación administrativa, con el objeto de atender las necesidades de recursos financieros, humanos y materiales de las unidades administrativas que se le adscriban.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 24 DE ENERO DE 2013)</small>
 
@@ -517,7 +567,13 @@ III. Acordar con su superior jerárquico la resolución de los asuntos cuya tram
 
 IV. Emitir los dictámenes, opiniones e informes que les sean solicitados por su superior jerárquico;
 
-V. Proponer a su superior jerárquico el ingreso, las promociones, las licencias y las remociones del personal de la dirección general o unidad administrativa a su cargo;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+V. Intervenir, conforme a las disposiciones jurídicas aplicables y previo acuerdo con su superior jerárquico, en la selección, contratación, desarrollo, capacitación, promoción, adscripción, licencias y separaciones del personal a su cargo, así como gestionar la validación de sus movimientos ante la Dirección General de Recursos Humanos y Organización;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+V Bis. Integrar, de conformidad con las disposiciones jurídicas aplicables, la información de los expedientes laborales del personal a su cargo;
 
 VI. Elaborar, de conformidad con los lineamientos de las unidades administrativas competentes de la Secretaría, proyectos para modificar la estructura del área a su cargo;
 
@@ -527,21 +583,31 @@ VIII. Coordinar sus actividades con las demás direcciones generales o unidades 
 
 IX. Firmar y notificar los acuerdos de trámite, las resoluciones o acuerdos de las autoridades superiores y aquellos que se emitan con fundamento en las atribuciones que les correspondan;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-X. Autorizar por escrito, conforme a las necesidades del servicio y de acuerdo con su superior jerárquico, a los servidores públicos subalternos para que, previo registro de dicha autorización en la Unidad de Asuntos Jurídicos, firmen documentación relacionada con los asuntos que competan a la dirección general o unidad administrativa a su cargo;
+X. Autorizar por escrito, conforme a las necesidades del servicio y de acuerdo con su superior jerárquico, a los servidores públicos subalternos para que, previo registro de dicha autorización en la Unidad de Asuntos Jurídicos y Transparencia, firmen documentación relacionada con los asuntos que competan a la dirección general o unidad administrativa a su cargo, siempre que la atribución no esté conferida expresamente a otro servidor público en este Reglamento;
 
 XI. Proporcionar, de conformidad con los lineamientos de las unidades administrativas competentes de la Secretaría, la información, datos, cooperación o asesoría técnica que les sea requerida por otras dependencias y entidades de la administración pública federal o por unidades administrativas de la propia Secretaría;
 
-> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XII. Incorporar a la base de datos correspondiente las incidencias del personal bajo su responsabilidad que, en los términos de la normatividad respectiva, permitan efectuar el pago de remuneraciones de acuerdo a su asignación presupuestal y a los analíticos de plazas-horas-puestos, aprobados por la Dirección General de Presupuesto y Recursos Financieros;
+XII. Incorporar a la base de datos que administra la Dirección General de Recursos Humanos y Organización las incidencias del personal a su cargo que permitan efectuar el pago de sus remuneraciones, en términos de las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XIII. Imponer, las sanciones laborales a que se haga acreedor el personal adscrito a la dirección general o unidad administrativa a su cargo, en los términos previstos en las Condiciones Generales de Trabajo, previo dictamen que emita la Unidad de Asuntos Jurídicos;
+XIII. Imponer las sanciones laborales a que se haga acreedor el personal a su cargo, en los términos previstos en las Condiciones Generales de Trabajo y demás disposiciones jurídicas aplicables, previo dictamen que emita la Unidad de Asuntos Jurídicos y Transparencia;
 
-XIV. Expedir copias certificadas de las constancias que obren en los archivos de la unidad administrativa a su cargo, previo pago de los derechos correspondientes, excepto cuando deban ser exhibidas en procedimientos judiciales o contencioso-administrativos y, en general, para cualquier proceso o averiguación, y
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XIII Bis. Autorizar y vigilar el ejercicio del presupuesto asignado a la unidad administrativa a su cargo, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XIV. Expedir copias certificadas de los documentos que se encuentren en los archivos de la unidad administrativa a su cargo, incluyendo archivos y documentos electrónicos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XIV Bis. Supervisar y vigilar el cumplimiento de los contratos, convenios o pedidos derivados de los procedimientos de contratación realizados en materias de obra pública y servicios relacionados con las mismas y de adquisiciones, arrendamientos y servicios, cuando funjan como áreas requirentes, así como realizar las demás acciones que les correspondan como áreas requirentes en términos de las disposiciones jurídicas en dichas materias, y
 
 XV. Las demás que las disposiciones legales y administrativas les confieran y las que les encomiende el Secretario.
 
@@ -575,11 +641,11 @@ XI. Diseñar y producir materiales informativos y de difusión para radio, telev
 
 XII. Gestionar, promover y regular la transmisión por radio y televisión de materiales informativos y de difusión de la Secretaría, de los órganos desconcentrados y de las entidades paraestatales que lo requieran.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 13.
 
-Corresponde a la Unidad de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
+Corresponde a la Unidad de Asuntos Jurídicos y Transparencia el ejercicio de las atribuciones siguientes:
 
 I. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2016)
 
@@ -645,13 +711,15 @@ XIV. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2016)
 
 XV. Substanciar y resolver los procedimientos administrativos de nulidad, revocación, cancelación, reconsideración, revisión y, en general, todos aquellos que tiendan a modificar o extinguir derechos u obligaciones generados por resoluciones que dicte la Secretaría, con excepción de aquellos que hubiesen sido encomendados a otras unidades administrativas de la misma;
 
-XVI. Expedir copias certificadas de las constancias que obren en los archivos de la Secretaría cuando deban ser exhibidas en procedimientos judiciales o contencioso-administrativos y, en general, para cualquier proceso, procedimiento o averiguación;
+XVI. (DEROGADA, D.O.F. 23 DE MARZO DE 2017)
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
 
 XVII. Dictaminar los proyectos de convenios y contratos que, en su caso, deban suscribir los servidores públicos de la Secretaría, en el ejercicio de sus funciones, y llevar un registro de dichos instrumentos jurídicos;
 
-XVIII. Proponer al Secretario la normatividad general en materia de delegación y autorización para ejercer atribuciones;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XVIII. Proponer al Secretario las disposiciones jurídicas en materia de delegación de atribuciones;
 
 XIX. Tramitar ante las dependencias competentes, la expedición de las resoluciones necesarias para la incorporación de bienes inmuebles al dominio público de la Federación cuando éstos se destinen al servicio de la Secretaría, así como brindar apoyo a las unidades administrativas de la Dependencia y a las entidades paraestatales coordinadas por ella en la tramitación de las gestiones necesarias para adecuar la situación jurídica de los inmuebles que posean o administren cuando aquéllas lo soliciten;
 
@@ -659,11 +727,13 @@ XX. Registrar los instrumentos normativos que emitan el Secretario y las unidade
 
 XXI. Llevar el registro de las personas acreditadas para efectuar trámites ante las unidades administrativas a que se refiere el artículo 2 de este Reglamento;
 
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXI Bis. Realizar las funciones de Unidad de Transparencia de la Secretaría de Educación Pública en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables;
+
 XXII. Remitir para su publicación en el Diario Oficial de la Federación las disposiciones y lineamientos generales de la Secretaría y del sector educativo que así lo ameriten, así como difundir los acuerdos del Secretario que no se divulguen por dicho órgano oficial;
 
-> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
-
-XXIII. Otorgar o negar, dentro del ámbito de competencia de la Secretaría, las autorizaciones a que se refieren los artículos 39 bis y 40 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales;
+XXIII. (DEROGADA, D.O.F. 23 DE MARZO DE 2017)
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -673,9 +743,9 @@ XXIV. Auxiliar y asesorar a los servidores públicos responsables de las unidade
 
 XXV. Formar parte de la Comisión de Estudios Jurídicos del Gobierno Federal.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2017)</small>
 
-Para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el Titular de la Unidad de Asuntos Jurídicos, podrá auxiliarse, entre otros, por los Directores de Procesos Jurisdiccionales, de Normatividad y Consulta, de Asuntos Laborales, de Proyectos Jurídicos Especiales, y de Convenios y Apoyo en Adquisiciones, Obra Pública y Servicios, así como por los subdirectores y jefes de departamento que de dicha Unidad dependan.
+Para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el Titular de la Unidad de Asuntos Jurídicos y Transparencia, podrá auxiliarse, entre otros, por los Directores de Procesos Jurisdiccionales, de Normatividad y Consulta, de Asuntos Laborales, de Proyectos Jurídicos Especiales, de Convenios y Apoyo en Adquisiciones, Obra Pública y Servicios, y de Información y Análisis Institucional, así como por los subdirectores y jefes de departamento que se encuentren adscritos a dicha Unidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2013)</small>
 
@@ -1041,9 +1111,9 @@ VIII. Registrar la creación de los Colegios de Profesionistas y la de sus Feder
 
 IX. Participar en la instrumentación de medidas que tiendan a elevar la calidad de los servicios profesionales;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-X. Comunicar a la Unidad de Asuntos Jurídicos las conductas presumiblemente delictivas o las infracciones previstas en la Ley Reglamentaria del Artículo 5o. Constitucional, Relativo al Ejercicio de las Profesiones en el Distrito Federal, a efecto de que se presenten las querellas y denuncias que correspondan, y
+X. Comunicar a la Unidad de Asuntos Jurídicos y Transparencia las conductas que presuntamente podrían considerarse como delitos o infracciones a la Ley Reglamentaria del Artículo 5o. Constitucional, Relativo al Ejercicio de las Profesiones en el Distrito Federal, en términos de dicha Ley, a efecto de que se presenten las querellas y denuncias que correspondan, y
 
 XI. Proponer la adopción de medidas de coordinación que permitan uniformar las normas a que deba sujetarse el ejercicio profesional en toda la República y promover la distribución geográfica y por rama de los profesionales conforme a las necesidades del país.
 
@@ -1107,15 +1177,31 @@ XVI. Substanciar y resolver los procedimientos por los que se retire el reconoci
 
 XVII. Inspeccionar y vigilar en términos de la Ley General de Educación, los servicios educativos a los que les haya otorgado el reconocimiento de validez oficial conforme a la fracción XV de este artículo y, en su caso, imponer las sanciones procedentes;
 
-XVIII. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XVIII. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, de conformidad con las disposiciones generales que para tal efecto expida la Secretaría de Educación Pública;
 
 XIX. Impulsar investigaciones sobre la educación a que se refiere este artículo con los centros e instituciones de investigación y de formación de profesores;
 
-XX. Definir normas y políticas en materia de equipamiento y mantenimiento de planteles, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XXI. Emitir opinión técnica sobre la factibilidad de establecer nuevos planteles dependientes de la Secretaría, que impartan la educación a que se refiere este artículo, y
+XX. Definir, conforme a las disposiciones jurídicas aplicables, el equipamiento y mantenimiento de los planteles dependientes de la Secretaría de Educación Pública en los que se imparta la educación a que se refiere este artículo, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo para dichos planteles;
 
-XXII. Proporcionar a los organismos descentralizados de los gobiernos de las entidades federativas que impartan la educación a que se refiere este artículo, la asistencia académica, técnica y pedagógica que acuerde la propia Secretaría.
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XX Bis. Autenticar los certificados parciales o totales y, en su caso, títulos que expidan los particulares con reconocimiento de validez oficial de estudios respecto de la educación a que se refiere este artículo;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXI. Emitir opinión técnica sobre la factibilidad de establecer nuevos planteles dependientes de la Secretaría de Educación Pública, en los que se imparta la educación a que se refiere este artículo;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXII. Proporcionar a los organismos descentralizados de los gobiernos de las entidades federativas que impartan la educación a que se refiere este artículo, la asistencia académica, técnica y pedagógica que acuerde la Secretaría de Educación Pública, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXIII. Formular, en coordinación con las dependencias de la Administración Pública Federal que pretendan establecer instituciones para impartir la educación a que se refiere este artículo, los planes y programas de estudio de dichas instituciones, en términos de los instrumentos jurídicos que suscriban con la Secretaría de Educación Pública con base en lo previsto en el artículo 18 de la Ley General de Educación.
 
 ###### ARTÍCULO 24.
 
@@ -1175,17 +1261,33 @@ XVI. Estudiar y resolver en términos del artículo 55 de la Ley General de Educ
 
 XVII. Substanciar y resolver los procedimientos por los que se retire el reconocimiento de validez oficial de los estudios a que se refiere este artículo;
 
-XVIII. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XVIII. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, de conformidad con las disposiciones generales que para tal efecto expida la Secretaría de Educación Pública;
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
 XIX. Inspeccionar y vigilar en términos de la Ley General de Educación, los servicios educativos a los que les haya otorgado el reconocimiento de validez oficial conforme a la fracción XVI de este artículo y, en su caso, imponer las sanciones procedentes;
 
-XX. Definir normas y políticas en materia de equipamiento y mantenimiento de planteles dependientes de la Secretaría, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XXI. Emitir opinión técnica sobre la factibilidad de establecer nuevos planteles dependientes de la Secretaría, que impartan la educación a que se refiere este artículo, y
+XX. Definir, conforme a las disposiciones jurídicas aplicables, el equipamiento y mantenimiento de los planteles dependientes de la Secretaría de Educación Pública en los que se imparta la educación a que se refiere este artículo, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo para dichos planteles;
 
-XXII. Asesorar a las autoridades educativas locales, cuando lo soliciten, en la elaboración de planes estatales para actualizar y desarrollar la educación a la que se refiere este artículo.
+(REFORMADA, D.O.F. 23 DE MARZO DE 2017)V
+
+XXI. Emitir opinión técnica sobre la factibilidad de establecer nuevos planteles dependientes de la Secretaría de Educación Pública, en los que se imparta la educación a que se refiere este artículo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXI Bis. Autenticar los certificados parciales o totales y, en su caso, títulos que expidan los particulares con reconocimiento de validez oficial de estudios respecto de la educación a que se refiere este artículo;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXII. Asesorar a las autoridades educativas locales, cuando lo soliciten, en la elaboración de planes y programas de estudio estatales para actualizar y desarrollar la educación a que se refiere este artículo, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXIII. Formular, en coordinación con las dependencias de la Administración Pública Federal que pretendan establecer instituciones para impartir la educación a que se refiere este artículo, los planes y programas de estudio de dichas instituciones, en términos de los instrumentos jurídicos que suscriban con la Secretaría de Educación Pública con base en lo previsto en el artículo 18 de la Ley General de Educación.
 
 ###### ARTÍCULO 25.
 
@@ -1215,7 +1317,9 @@ VIII. Formular disposiciones técnicas y administrativas para organizar, operar,
 
 VIII Bis. Organizar y operar en las escuelas a su cargo el Servicio de Asistencia Técnica a la Escuela a que se refiere la Ley General del Servicio Profesional Docente;
 
-IX. Emitir opinión técnica sobre la factibilidad de establecer nuevos centros educativos dependientes de la Secretaría que impartan la educación a que se refiere este artículo;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+IX. Emitir opinión técnica sobre la factibilidad de establecer nuevos planteles dependientes de la Secretaría de Educación Pública, en los que se imparta la educación a que se refiere este artículo;
 
 X. Diseñar y promover criterios y estándares nacionales de calidad y de pertinencia que permitan evaluar los conocimientos, habilidades, destrezas y competencias de los estudiantes de este tipo educativo;
 
@@ -1255,9 +1359,21 @@ XX. Substanciar y resolver los procedimientos por los que se retire el reconocim
 
 XXI. Inspeccionar y vigilar en términos de la Ley General de Educación, los servicios educativos a los que les haya otorgado el reconocimiento de validez oficial conforme a la fracción XIX de este artículo y, en su caso, imponer las sanciones procedentes;
 
-XXII. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, y
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XXIII. Definir normas y políticas en materia de equipamiento y mantenimiento de planteles dependientes de la Secretaría, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo.
+XXII. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, de conformidad con las disposiciones generales que para tal efecto expida la Secretaría de Educación Pública;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXII Bis. Autenticar los certificados parciales o totales y, en su caso, títulos que expidan los particulares con reconocimiento de validez oficial de estudios respecto de la educación a que se refiere este artículo;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXIII. Definir, conforme a las disposiciones jurídicas aplicables, el equipamiento y mantenimiento de los planteles dependientes de la Secretaría de Educación Pública en los que se imparta la educación a que se refiere este artículo, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo para dichos planteles, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXIV. Formular, en coordinación con las dependencias de la Administración Pública Federal que pretendan establecer instituciones para impartir la educación a que se refiere este artículo, los planes y programas de estudio de dichas instituciones, en términos de los instrumentos jurídicos que suscriban con la Secretaría de Educación Pública con base en lo previsto en el artículo 18 de la Ley General de Educación.
 
 ###### ARTÍCULO 26.
 
@@ -1299,7 +1415,9 @@ VII Quintus. Formular las propuestas a que se refieren las fracciones I a V del 
 
 VIII. Verificar, en términos de la Ley General de Educación, que las normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje aprobados para la educación a que se refiere este artículo, se cumplan en los planteles de la Secretaría;
 
-IX. Emitir opinión técnica sobre la factibilidad de establecer nuevos centros educativos dependientes de la Secretaría, que impartan estudios de bachillerato;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+IX. Emitir opinión técnica sobre la factibilidad de establecer nuevos planteles dependientes de la Secretaría de Educación Pública, en los que se imparta la educación a que se refiere este artículo;
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
@@ -1339,11 +1457,21 @@ XVI. Estudiar y resolver en términos del artículo 55 de la Ley General de Educ
 
 XVII. Substanciar y resolver los procedimientos por los que se retire el reconocimiento de validez oficial de los estudios a que se refiere este artículo;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XVIII. Inspeccionar y vigilar en términos de la Ley General de Educación, los servicios educativos a los que les haya otorgado el reconocimiento de validez oficial conforme a la fracción XVI de este artículo y, en su caso, imponer las sanciones procedentes, y
+XVIII. Inspeccionar y vigilar en términos de la Ley General de Educación, los servicios educativos a los que les haya otorgado el reconocimiento de validez oficial conforme a la fracción XVI de este artículo y, en su caso, imponer las sanciones procedentes;
 
-XIX. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, de conformidad con los lineamientos aplicables.
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XVIII Bis. Autenticar los certificados parciales o totales y, en su caso, títulos que expidan los particulares con reconocimiento de validez oficial de estudios respecto de la educación a que se refiere este artículo;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XIX. Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, de conformidad con las disposiciones generales que para tal efecto expida la Secretaría de Educación Pública, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XX. Formular, en coordinación con las dependencias de la Administración Pública Federal que pretendan establecer instituciones para impartir la educación a que se refiere este artículo, los planes y programas de estudio de dichas instituciones, en términos de los instrumentos jurídicos que suscriban con la Secretaría de Educación Pública con base en lo previsto en el artículo 18 de la Ley General de Educación.
 
 ###### ARTÍCULO 27.
 
@@ -1375,11 +1503,25 @@ X. Substanciar y resolver los procedimientos por los que se retire el reconocimi
 
 XI. Inspeccionar y vigilar en términos de la Ley General de Educación, los servicios educativos a los que les haya otorgado el reconocimiento de validez oficial conforme a la fracción IX de este artículo y, en su caso, imponer las sanciones procedentes;
 
-XII. Definir normas y políticas en materia de equipamiento y mantenimiento de planteles, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XIII. Dictaminar sobre la creación de planteles destinados a impartir la educación a que se refiere este artículo, y
+XII. Definir, conforme a las disposiciones jurídicas aplicables, el equipamiento y mantenimiento de los planteles dependientes de la Secretaría de Educación Pública en los que se imparta la educación a que se refiere este artículo, así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo para dichos planteles;
 
-XIV. Proporcionar a los organismos descentralizados de los gobiernos de las entidades federativas que impartan educación análoga a la que se refiere este artículo, la asistencia académica, técnica y pedagógica que acuerde la Secretaría.
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XIII. Emitir opinión técnica sobre la factibilidad de establecer nuevos planteles dependientes de la Secretaría de Educación Pública, en los que se imparta la educación a que se refiere este artículo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XIII Bis. Autenticar los certificados parciales o totales y, en su caso, títulos que expidan los particulares con reconocimiento de validez oficial de estudios respecto de la educación a que se refiere este artículo;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XIV. Proporcionar a los organismos descentralizados de los gobiernos de las entidades federativas que impartan la educación a que se refiere este artículo, la asistencia académica, técnica y pedagógica que acuerde la Secretaría de Educación Pública, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XV. Formular, en coordinación con las dependencias de la Administración Pública Federal que pretendan establecer instituciones para impartir la educación a que se refiere este artículo, los planes y programas de estudio de dichas instituciones, en términos de los instrumentos jurídicos que suscriban con la Secretaría de Educación Pública con base en lo previsto en el artículo 18 de la Ley General de Educación.
 
 ###### ARTÍCULO 28.
 
@@ -1421,7 +1563,9 @@ VIII. Difundir, en coordinación con las unidades administrativas competentes de
 
 IX. Promover el desarrollo de proyectos de investigación educativa en materia de planes y programas de estudios y métodos, procesos y enfoques pedagógicos para la educación básica;
 
-X. Llevar el registro de los planes y programas de estudio oficiales;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+X. Llevar el registro de los planes y programas de estudio oficiales correspondientes a la educación básica;
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
@@ -1567,17 +1711,19 @@ Las propuestas a que se refieren las fracciones I a IV de este artículo se debe
 
 El ejercicio de las atribuciones a que se refiere este artículo deberá sujetarse a los lineamientos, medidas, programas, acciones y demás disposiciones generales que deriven de la Ley General del Servicio Profesional Docente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 34.
 
-Corresponde a la Dirección General de Personal el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Recursos Humanos y Organización el ejercicio de las atribuciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
 I. Proponer, de conformidad con las disposiciones jurídicas aplicables, normas para regular el sistema de administración y desarrollo del personal de la Secretaría, difundir las vigentes y vigilar su cumplimiento;
 
-> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-II. Vigilar, en coordinación con la Unidad de Asuntos Jurídicos y demás unidades administrativas competentes de la Secretaría, la observancia de la normativa laboral aplicable;
+II. Vigilar, en coordinación con la Unidad de Asuntos Jurídicos y Transparencia y demás unidades administrativas competentes de la Secretaría de Educación Pública, la observancia de la normativa laboral aplicable;
 
 > <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
@@ -1587,9 +1733,13 @@ III. Proponer, conforme a las políticas y a las normas relativas, las estructur
 
 IV. Autorizar el diseño y los mecanismos de impartición de los programas de capacitación y desarrollo para el personal de apoyo y asistencia a la educación de la Secretaría, así como administrar el proceso de capacitación del personal de mando;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-V. Tramitar, registrar y controlar los movimientos e incidencias del personal de las unidades administrativas de la Secretaría de Educación Pública, así como demás documentos que acrediten la situación laboral de sus trabajadores, excepto de aquéllas en las que dicha atribución sea conferida a otra unidad administrativa de dicha Secretaría;
+IV Bis. Expedir, de conformidad con las disposiciones jurídicas aplicables, los nombramientos del personal de base y de confianza de las unidades administrativas de la Secretaría de Educación Pública, con excepción de los que competa al Secretario en términos de lo previsto en este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+V. Validar los movimientos del personal de las unidades administrativas de la Secretaría de Educación Pública, así como tramitar, registrar y controlar las incidencias de dicho personal y demás documentos que acrediten su situación laboral y que integren su expediente laboral, excepto de aquellas situaciones laborales cuyo trámite o registro esté conferido a otra unidad administrativa de la Secretaría de Educación Pública;
 
 > <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
@@ -1629,9 +1779,9 @@ XVI. Coordinar la aplicación de los Sistemas de Estímulos y Recompensas previs
 
 XVII. Proponer un sistema de desempeño del personal basado en sus resultados y darle el seguimiento relativo;
 
-> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XVIII. Administrar y operar el proceso de control de plazas del personal de las unidades administrativas de la Secretaría, así como dar seguimiento y atención a los acuerdos de la comisión encargada de los cambios interestatales. En el caso de las plazas con nivel de mando, esta atribución deberá ejercerse en coordinación con la Dirección General de Innovación, Calidad y Organización;
+XVIII. Administrar y operar el proceso de control de plazas del personal de las unidades administrativas de la Secretaría de Educación Pública, así como coordinar los procesos de movilidad de su personal;
 
 > <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
@@ -1649,13 +1799,51 @@ XX. Administrar las plazas vacantes del personal de apoyo y asistencia a la educ
 
 XXI. Implementar, en su ámbito de competencia, las acciones para cubrir las prestaciones al personal de las unidades administrativas de la Secretaría y, en su caso, de sus órganos desconcentrados que se deriven de las condiciones generales de trabajo y de los acuerdos existentes con la organización sindical correspondiente, así como programar, planear y coordinar las actividades sociales, culturales y recreativas que la Secretaría determine organizar como prestaciones para el personal de sus unidades administrativas que tenga derecho a éstas;
 
-> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XXII. Instrumentar el Sistema del Servicio Profesional de Carrera en la Secretaría de conformidad con las disposiciones jurídicas aplicables, y
+XXII. Administrar y operar el Sistema del Servicio Profesional de Carrera en la Secretaría de Educación Pública, de conformidad con las disposiciones jurídicas aplicables;
 
-> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XXIII. Instrumentar, operar, controlar y evaluar los sistemas de desarrollo profesional de carrera del personal de apoyo y asistencia a la educación que se establezcan en la Secretaría.
+XXIII. Administrar, operar, controlar y evaluar los sistemas de desarrollo profesional de carrera del personal de apoyo y asistencia a la educación que se establezcan en la Secretaría de
+
+Educación Pública;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXIV. Implementar al interior de la Secretaría de Educación Pública el Código de Ética de los Servidores Públicos del Gobierno Federal, así como el código de conducta de los servidores públicos de la Secretaría de Educación Pública, y verificar el cumplimiento de dichas disposiciones;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXV. Proponer al Oficial Mayor los lineamientos, normas, procedimientos e instrumentos técnicos para autorizar las modificaciones organizacionales de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXVI. Proponer al Oficial Mayor la metodología y lineamientos administrativos y técnicos que se requieran para la elaboración, actualización y difusión de los manuales de organización, de procedimientos y de servicios al público, así como los demás documentos administrativos necesarios para el mejor funcionamiento de la Secretaría de Educación Pública y supervisar su aplicación;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXVII. Dictaminar las propuestas de modificación a las estructuras orgánicas de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública, así como en su caso, gestionar su autorización ante las instancias competentes;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXVIII. Llevar el registro de la estructura orgánica de la Secretaría de Educación Pública y del manual de organización, así como tramitar el registro electrónico de los manuales de procedimientos y de servicios al público ante la Secretaría de la Función Pública;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXIX. Integrar y validar técnica y operativamente el Manual de Organización General de la Secretaría de Educación Pública y, en su caso, sus modificaciones;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXX. Apoyar a los órganos administrativos desconcentrados de la Secretaría de Educación Pública, así como a los planteles educativos dependientes de dicha Secretaría en la elaboración y actualización de sus manuales de organización, de procedimientos y de servicios al público;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXXI. Realizar diagnósticos organizacionales, propuestas de reestructura o reingeniería de procesos y de organización de estructuras que optimicen los recursos humanos de la Secretaría de Educación Pública, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XXXII. Participar en el ámbito de sus atribuciones, con la Dirección General del Sistema de Administración de la Nómina Educativa Federalizada, en la conciliación de los movimientos de personal relacionados con el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo a que se refiere la Ley de Coordinación Fiscal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
@@ -1663,35 +1851,41 @@ XXIII. Instrumentar, operar, controlar y evaluar los sistemas de desarrollo prof
 
 Corresponde a la Dirección General de Presupuesto y Recursos Financieros el ejercicio de las siguientes atribuciones:
 
-> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-I. Analizar y, en su caso, determinar y tramitar las adecuaciones presupuestarias procedentes;
+I. Analizar y gestionar ante la Secretaría de Hacienda y Crédito Público la autorización de las adecuaciones presupuestarias que soliciten las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública y las entidades paraestatales sectorizadas a ésta, que les permitan cumplir con los objetivos y metas de los programas presupuestarios autorizados, así como las demás que se requieran para la administración del presupuesto y, en su caso, aquellas adecuaciones que con motivo de ajustes presupuestarios se tengan que realizar;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-II. Proporcionar a la Dirección General de Evaluación de Políticas y a la Dirección General de Planeación, Programación y Estadística Educativa, la información necesaria, incluyendo el número y tipo de adecuaciones presupuestarias realizadas, para evaluar la inversión de recursos públicos que llevó a cabo la Secretaría de Educación Pública;
+II. Proporcionar a la Dirección General de Evaluación de Políticas y a la Dirección General de Planeación, Programación y Estadística Educativa, la información que requieran, incluyendo las variaciones al presupuesto autorizado, para evaluar el ejercicio de los recursos autorizados a la Secretaría de Educación Pública;
 
 > <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
 III. Proponer la normativa, de conformidad con las disposiciones jurídicas aplicables, de las actividades de la administración de recursos financieros cuya aplicación corresponda a las unidades administrativas de la Secretaría, a sus órganos desconcentrados y a las entidades coordinadas sectorialmente, así como difundirlas y verificar su cumplimiento;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-IV. Operar y controlar el ejercicio del presupuesto de egresos de la Secretaría de Educación Pública, excepto el de servicios personales para lo cual deberá coordinarse con la Dirección General de Personal;
+IV. Operar y controlar el ejercicio del presupuesto de egresos de la Secretaría de Educación Pública, excepto el de servicios personales, para lo cual deberá coordinarse con la Dirección General de Recursos Humanos y Organización;
 
 > <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
 V. Establecer las normas y procedimientos para el manejo de recursos en efectivo, de conformidad con las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-VI. Difundir las normas y procedimientos a que deba sujetarse la contabilidad presupuestaria y patrimonial de la Secretaría; consolidar la información contable y presupuestaria de la misma en términos de las disposiciones aplicables; formular, en lo que compete a la Secretaría, los reportes financieros necesarios para la integración de la Cuenta Pública, y atender los requerimientos de información periódica de la Secretaría de Hacienda y Crédito Público y las instancias de fiscalización respectivas;
+VI. Difundir ante los órganos administrativos desconcentrados de la Secretaría de Educación Pública y las entidades paraestatales sectorizadas a dicha dependencia, las normas y procedimientos a que deba sujetarse la contabilidad gubernamental y presentar ante las instancias correspondientes los informes presupuestarios, programáticos y contables que se requieran, conforme a las disposiciones jurídicas aplicables;
 
-VII. Conciliar y depurar las cuentas que rindan las oficinas pagadoras, las unidades administrativas de la Secretaría responsables del ejercicio presupuestal y la información que se deba rendir a la Secretaría de Hacienda y Crédito Público y a cualquier otra instancia competente;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-VIII. Verificar de manera previa a su pago que la documentación justificativa y comprobatoria del gasto se ajuste a las disposiciones que lo regulan;
+VII. Conciliar y depurar las cuentas contables de ingresos y egresos asociadas al ejercicio presupuestario, así como la información necesaria que permita rendir los informes contables y presupuestarios que requieran las autoridades competentes;
 
-IX. Conciliar los resultados de las cuentas bancarias abiertas para el pago de las remuneraciones al personal de la Secretaría;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+VIII. Verificar de manera previa que los pagos que autoricen las unidades administrativas de la Secretaría de Educación Pública con cargo a sus presupuestos, cuenten con la documentación justificativa y comprobatoria, así como con la disponibilidad presupuestaria;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+IX. Fungir como ventanilla única para gestionar las autorizaciones ante la Tesorería de la Federación de cuentas bancarias que excepcionalmente deban abrirse para la operación de los programas presupuestarios autorizados a la Secretaría de Educación Pública, de conformidad con las disposiciones jurídicas aplicables; conciliar los resultados de las cuentas bancarias de la dependencia, así como solicitar a las instituciones de crédito la cancelación de dichas cuentas cuando así lo determine la Tesorería de la Federación;
 
 X. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2016)
 
@@ -1699,13 +1893,17 @@ X. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2016)
 
 XI. Proponer al Oficial Mayor, de conformidad con las disposiciones jurídicas aplicables, la aprobación de los oficios de liberación de inversión de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública;
 
-> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XII. Asesorar a los titulares de las unidades responsables en asuntos relacionados con las materias contables y de administración presupuestal;
+XII. Asesorar a los titulares de las unidades administrativas de la Secretaría de Educación Pública en asuntos relacionados con las materias contables y de administración presupuestaría;
 
-> <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XIII. Desarrollar y coordinar las actividades de programación del presupuesto y gasto de la Secretaría destinado a los diversos niveles, tipos y modalidades de educación, así como del sector educativo en su conjunto;
+XII Bis. Proponer al Oficial Mayor, los mecanismos que permitan administrar los recursos presupuestarios autorizados a la Secretaría de Educación Pública con eficacia, eficiencia, racionalidad, austeridad y transparencia para cumplir con los objetivos de los programas presupuestarios autorizados, así como difundir y operar dichos mecanismos;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XIII. Desarrollar y coordinar las actividades de programación, presupuestación y gasto de la Secretaría de Educación Pública, en congruencia con las prioridades programáticas que determine en coordinación con la Dirección General de Planeación, Programación y Estadística Educativa;
 
 > <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
@@ -1719,9 +1917,9 @@ XV. Desarrollar, integrar y difundir la información necesaria para la programac
 
 XVI. Proponer al Oficial Mayor, de conformidad con las disposiciones jurídicas aplicables, los lineamientos para la elaboración de los anteproyectos de presupuesto de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública, así como los de las entidades paraestatales sectorizadas a dicha Secretaría, que incluyan el gasto en actividades, programas y proyectos educativos especiales y las transferencias a las entidades federativas;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XVII. Integrar los anteproyectos de presupuesto global y del programa de inversión y obra pública del sector educativo, conjuntamente con las unidades administrativas competentes de la Secretaría de Educación Pública y de las entidades paraestatales sectorizadas a dicha Secretaría;
+XVII. Establecer el mecanismo de planeación de los programas y proyectos de inversión de la Secretaría de Educación Pública, el cual deberá atender las necesidades que se requieran en función de los objetivos y metas de las unidades administrativas y órganos administrativos desconcentrados de dicha Secretaría, y de las entidades paraestatales sectorizadas a ésta, así como gestionar ante la Secretaría de Hacienda y Crédito Público el registro de los programas y proyectos de inversión e incorporar al anteproyecto de presupuesto las previsiones correspondientes para llevar a cabo dichos programas y proyectos;
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
@@ -1731,85 +1929,57 @@ XVIII. Gestionar ante la Secretaría de Hacienda y Crédito Público, la aprobac
 
 XIX. Proponer a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública y a las entidades paraestatales sectorizadas a dicha Secretaría, en coordinación con la Dirección General de Planeación, Programación y Estadística Educativa, criterios y prioridades para la orientación del gasto público en los diferentes tipos, niveles y modalidades del servicio educativo;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XX. Evaluar el ejercicio del presupuesto, en coordinación con la Subsecretaría de Planeación, Evaluación y Coordinación, en lo referente a la ejecución de los programas y políticas educativas;
+XX. Evaluar el ejercicio del presupuesto, en coordinación con la Dirección General de Planeación, Programación y Estadística Educativa, en lo referente a la ejecución de los programas y políticas educativas;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XXI. Ser la ventanilla única de las entidades federativas para atender las consultas y solicitudes en materia de servicios personales relacionados con el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
+XX Bis. Gestionar el otorgamiento de pasajes que requieran los servidores públicos de la Secretaría de Educación Pública, para el desempeño de las comisiones oficiales, así como aquellos pasajes que se requieran para el cumplimiento de los objetivos de los programas autorizados a dicha Secretaría, y
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XXI. (DEROGADA, D.O.F. 23 DE MARZO DE 2017)
 
-XXII. Administrar y operar, en términos de la Ley de Coordinación Fiscal, la Ley General de Contabilidad Gubernamental y demás disposiciones jurídicas aplicables, los sistemas que dichas disposiciones jurídicas determinen para el funcionamiento del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo en materia de servicios personales;
+XXII. (DEROGADA, D.O.F. 23 DE MARZO DE 2017)
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XXIII. (DEROGADA, D.O.F. 23 DE MARZO DE 2017)
 
-XXIII. Gestionar y tramitar el pago a que se refiere el artículo 26-A de la Ley de Coordinación Fiscal, así como los demás trámites administrativos que las disposiciones jurídicas aplicables determinen para el funcionamiento del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
+XXIV. (DEROGADA, D.O.F. 23 DE MARZO DE 2017)
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+XXV. (DEROGADA, D.O.F. 23 DE MARZO DE 2017)
 
-XXIV. Retener y enterar las cantidades que por concepto de impuestos federales y seguridad social deban cubrirse respecto de los pagos que se realicen con cargo al Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, de conformidad con las disposiciones jurídicas aplicables, así como otras cantidades que, en su caso, deban retenerse con base en la instrucción que reciba de la autoridad educativa de la entidad federativa;
-
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
-
-XXV. Integrar y difundir la información del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo en materia de servicios personales;
-
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
-
-XXVI. Elaborar en coordinación con la Secretaría de Hacienda y Crédito Público, los lineamientos que se deben emitir en materia de gasto de operación del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, conforme a lo previsto en la Ley de Coordinación Fiscal, y
+XXVI. (DEROGADA, D.O.F. 23 DE MARZO DE 2017)
 
 > <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
 XXVII. Integrar y dar seguimiento a los programas y acciones en materia de control interno institucional, así como fungir como enlace en los procesos que de ellos se deriven.
 
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 36.
 
-Corresponde a la Dirección General de Innovación, Calidad y Organización el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General del Sistema de Administración de la Nómina Educativa Federalizada el ejercicio de las atribuciones siguientes:
 
-I. Proponer y aplicar las estrategias, los lineamientos y los criterios técnicos a que deberán sujetarse las unidades administrativas de la Secretaría, en relación con los programas de modernización, calidad total, mejora de procesos, desregulación, ahorro, transparencia y combate a la corrupción;
+I. Elaborar en coordinación con la Secretaría de Hacienda y Crédito Público, las disposiciones que se deben emitir en materia de gasto de operación del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, conforme a lo previsto en la Ley de Coordinación Fiscal;
 
-II. Difundir entre las unidades administrativas de la Secretaría y en sus órganos desconcentrados los programas, políticas y criterios técnicos en materia de calidad, innovación y modernización administrativa;
+II. Ser la ventanilla única de las entidades federativas para atender las consultas y solicitudes en materia de servicios personales relacionados con el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
 
-III. Promover, coordinar y dar seguimiento a las acciones para la calidad total, mejora de procesos, desregulación, ahorro, transparencia y combate a la corrupción en la Secretaría y sus órganos desconcentrados, de conformidad con la normatividad aplicable;
+III. Administrar y operar el proceso de control de plazas relacionadas con el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
 
-IV. Promover que las unidades administrativas de la Secretaría establezcan, difundan y mejoren progresivamente estándares de calidad de los servicios que brindan;
+IV. Conciliar con la participación que en el ámbito de sus atribuciones correspondan a la Dirección General de Recursos Humanos y Organización y a la Coordinación Nacional del Servicio Profesional Docente y, conforme a las disposiciones jurídicas aplicables, los movimientos de servicios personales relacionados con el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
 
-V. Contribuir a la implantación y observancia del código de ética de los servidores públicos de la Secretaría;
+V. Administrar y operar, en términos de la Ley de Coordinación Fiscal, la Ley General de Contabilidad Gubernamental y demás disposiciones jurídicas aplicables, los sistemas que dichas disposiciones jurídicas determinen para el funcionamiento del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo en materia de servicios personales;
 
-VI. Proponer e impulsar el establecimiento de prácticas administrativas que contribuyan a prevenir actos de corrupción;
+VI. Gestionar y tramitar el pago a que se refiere el artículo 26-A de la Ley de Coordinación Fiscal, así como realizar los demás trámites administrativos que determinen las disposiciones jurídicas para el funcionamiento del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
 
-VII. Verificar y evaluar la observancia de los programas, las políticas y los criterios técnicos en materia de innovación, calidad total, modernización, mejora de procesos, desregulación, ahorro, transparencia y combate a la corrupción en la Secretaría;
+VII. Retener y enterar las cantidades que por concepto de impuestos federales y seguridad social deban cubrirse respecto de los pagos que se realicen con cargo al Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, de conformidad con las disposiciones jurídicas aplicables, así como otras cantidades que, en su caso, deban retenerse con base en la instrucción que reciba de la autoridad educativa de la entidad federativa;
 
-VIII. Desarrollar investigaciones en materia de innovación y calidad para determinar las mejores prácticas aplicables en el ámbito de la Secretaría;
+VIII. Integrar y difundir la información del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo en materia de servicios personales;
 
-IX. Difundir los procesos de cambio exitosos entre las unidades administrativas que integran la Secretaría y el marco metodológico utilizado en los mismos;
+IX. Formular el anteproyecto de presupuesto de servicios personales relacionados con el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, y gestionar las adecuaciones presupuestarias y modificaciones, así como controlar su ejercicio conforme a las disposiciones jurídicas aplicables;
 
-X. Impulsar el proceso de mejora continua y coordinar los mecanismos y acciones que permitan captar la opinión de la ciudadanía sobre los programas y servicios a cargo de la Secretaría;
+X. Desarrollar y dar mantenimiento, con la participación que en el ámbito de sus atribuciones corresponda a la Dirección General de Tecnologías de la Información y Comunicaciones, el sistema de administración de nómina previsto en el artículo 26-A de la Ley de Coordinación Fiscal, y
 
-XI. Promover y desarrollar proyectos que generen recursos para financiar estrategias de innovación y calidad, de acuerdo con las normas aplicables;
-
-XII. Proponer y dar seguimiento a un sistema de desempeño basado en resultados, en coordinación con la Dirección General de Personal;
-
-XIII. Formular y proponer lineamientos, normas, procedimientos e instrumentos técnicos para autorizar las modificaciones organizacionales de la Secretaría y de los órganos desconcentrados;
-
-XIV. Formular y proponer la metodología y los lineamientos administrativos y técnicos que se requieran para la elaboración, actualización y difusión de los manuales de organización específicos, de procedimientos y demás documentos administrativos relativos al mejor funcionamiento de la Secretaría y supervisar su aplicación adecuada;
-
-XV. Formular y proponer al Oficial Mayor el establecimiento, modificación o derogación de los lineamientos, normas, procedimientos e instrumentos para regular los estudios, la verificación y evaluación de las estructuras organizacionales, puestos, procesos y servicios que sean competencia de la Secretaría;
-
-XVI. Proponer y dirigir los estudios y proyectos de desarrollo administrativo que se consideren estratégicos;
-
-XVII. Dictaminar y validar técnicamente las propuestas de modificación organizacional de las unidades administrativas, órganos desconcentrados y entidades coordinadas, así como en su caso, gestionar su autorización;
-
-XVIII. Llevar el registro de la estructura orgánica de la Secretaría y de los manuales de organización y de procedimientos autorizados;
-
-XIX. Integrar y difundir el Manual de Organización General de la Secretaría;
-
-XX. Apoyar a los órganos desconcentrados de la Secretaría, así como a los planteles dependientes de ésta en la elaboración y actualización permanente de sus manuales de organización y de procedimientos;
-
-XXI. Verificar y evaluar las estructuras organizacionales, puestos, procesos y servicios de los servidores públicos y unidades administrativas, incluidos los correspondientes al órgano interno de control, a que se refiere el artículo 2o. de este Reglamento, y
-
-XXII. Promover, en términos de las disposiciones jurídicas aplicables, la descentralización de los trámites y servicios hacia las entidades federativas.
+XI. Proporcionar apoyo y asesoría a las entidades federativas para la mejora de procesos, innovación y transparencia en materia de servicios personales relacionados con el Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo.
 
 ###### ARTÍCULO 37.
 
@@ -1823,9 +1993,9 @@ II. Analizar las requisiciones, evaluar los programas y presupuesto de adquisici
 
 II Bis. Elaborar los programas anuales de adquisiciones, arrendamientos y servicios, de obras públicas y servicios relacionados con las mismas, de conservación y de mantenimiento de bienes de la Secretaría de Educación Pública, e integrar el anteproyecto de presupuesto anual para la adquisición de bienes de inversión de dicha Secretaría;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-III. Tramitar la adquisición de bienes y la contratación de los servicios de apoyo que requieran las unidades administrativas de la Secretaría de Educación Pública, y desarrollar los procesos de licitaciones públicas, de invitaciones a cuando menos tres personas, y de adjudicaciones directas, relativos a la adquisición de recursos materiales y a la contratación de arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, así como realizar los actos jurídicos y administrativos inherentes a ellos;
+III. Tramitar la adquisición de bienes y la contratación de los servicios de apoyo que requieran las unidades administrativas de la Secretaría de Educación Pública, y desarrollar los procesos de contrataciones públicas para la adquisición de recursos materiales y de arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, así como realizar los actos jurídicos y administrativos inherentes a ellos, incluida su terminación o rescisión;
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
@@ -1849,17 +2019,21 @@ X. Supervisar el establecimiento y operación de los servicios de seguridad en l
 
 XI. Coordinar el establecimiento y operación de los programas de protección civil en las unidades administrativas de la Secretaría y asesorar en la materia a los planteles en que se imparte educación de los tipos medio superior y superior, así como a las entidades del sector educativo;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XII. Elaborar, en coordinación con la Unidad de Asuntos Jurídicos, los contratos y convenios de obra pública, adquisiciones, arrendamientos y de prestación de servicios de la Secretaría de Educación Pública y suscribirlos, así como realizar los trámites necesarios ante las autoridades competentes y las instituciones respectivas para recuperar las garantías otorgadas por proveedores y contratistas;
+XII. Elaborar y suscribir previo dictamen favorable de la Unidad de Asuntos Jurídicos y Transparencia, los contratos y convenios de obra pública, adquisiciones, arrendamientos y de prestación de servicios de la Secretaría de Educación Pública, así como realizar los trámites necesarios ante las autoridades competentes y las instituciones respectivas para recuperar las garantías otorgadas por proveedores y contratistas;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XII Bis. Elaborar, en coordinación con la Unidad de Asuntos Jurídicos, los contratos y convenios de arrendamiento de inmuebles, previa justificación de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública, conforme a las disposiciones jurídicas aplicables, así como suscribirlos, y
+XII Bis. Elaborar y suscribir previo dictamen favorable de la Unidad de Asuntos Jurídicos y Transparencia, los contratos y convenios de arrendamiento de inmuebles, previa justificación de las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública, conforme a las disposiciones jurídicas aplicables, y
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
 XIII. Vigilar y supervisar que las obras de construcción, reparación, adaptación, mantenimiento, conservación o acondicionamiento que realice por sí o a través de terceros contratados, se ejecuten conforme a las especificaciones de los contratos y proyectos respectivos.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MARZO DE 2017)</small>
+
+Para el ejercicio de las atribuciones previstas en las fracciones III, XII y XII Bis de este artículo, el Director General de Recursos Materiales y Servicios se auxiliará de los directores generales adjuntos de Adquisiciones y Seguimiento Normativo e Informático, y de Inmuebles y de Servicios, Almacenes e Inventarios.
 
 > <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
@@ -1880,6 +2054,10 @@ V. Apoyar a las unidades administrativas de la Secretaría que realicen funcione
 VI. Elaborar los estudios de viabilidad y emitir, cuando proceda, dictamen para la adquisición de bienes y servicios informáticos requeridos por las unidades administrativas y, en su caso, emitir opinión en la materia a los órganos desconcentrados de la Secretaría;
 
 VII. Proporcionar bienes y servicios de tecnologías de la información y comunicaciones a las unidades administrativas de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+VII Bis. Participar en el ámbito de sus atribuciones, con la Dirección General del Sistema de Administración de la Nómina Educativa Federalizada, en el desarrollo y mantenimiento del sistema de administración de nómina previsto en el artículo 26-A de la Ley de Coordinación Fiscal;
 
 VIII. Evaluar y fomentar proyectos orientados a la optimización del gasto y la inversión en materia de tecnologías de la información y comunicaciones en las unidades administrativas de la Secretaría, así como coordinar sus actividades con otras dependencias y entidades de la Administración Pública Federal que proporcionen servicios de tecnologías de la información y comunicaciones, a efecto de intercambiar información y asesoría que facilite a la Secretaría un mejor cumplimiento de las atribuciones que tiene encomendadas, y
 
@@ -1911,15 +2089,13 @@ VI. Elaborar y, en su caso, conducir el desarrollo de estudios prospectivos que 
 
 VII. Auxiliar al Subsecretario de Planeación, Evaluación y Coordinación en la elaboración de los informes oficiales que le encomiende el Secretario;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-VIII. Contribuir al desarrollo y coordinación de un sistema nacional de planeación en el que participen las subsecretarías y los órganos administrativos desconcentrados de la Secretaría de Educación Pública, las entidades paraestatales sectorizadas a dicha Secretaría y el Instituto Nacional para la Evaluación de la Educación;
+VIII. Contribuir al desarrollo y coordinación de un sistema nacional de planeación en materia educativa en el que participen las subsecretarías y los órganos administrativos desconcentrados de la Secretaría de Educación Pública, así como las entidades paraestatales sectorizadas a dicha Secretaría;
 
 IX. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
-> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
-
-X. Coordinar y operar, con la participación de las entidades federativas, las entidades paraestatales, las unidades administrativas y los órganos desconcentrados del sector educativo, el padrón nacional de alumnos, docentes, instituciones y centros escolares;
+X. (DEROGADA, D.O.F. 23 DE MARZO DE 2017)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE FEBRERO DE 2016)</small>
 
@@ -1943,9 +2119,9 @@ XVI. Fungir como enlace de la Secretaría de Educación Pública con el Institut
 
 XVII. Establecer lineamientos y coordinar la difusión de información, estadística e indicadores del sector educativo;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-XVIII. Proponer el calendario escolar aplicable en toda la República para cada ciclo lectivo de la educación preescolar, primaria y secundaria, así como la normal y demás para la formación de maestros de educación básica;
+XVIII. Proponer el calendario escolar aplicable en toda la República para cada ciclo lectivo de la educación preescolar, primaria y secundaria, así como la normal y demás para la formación de maestros de educación básica, así como elaborar la propuesta de lineamientos a los que deberán sujetarse las autoridades educativas locales para autorizar los ajustes al calendario escolar;
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
@@ -2029,17 +2205,17 @@ IV. Proponer, en coordinación con las instancias correspondientes de la Secreta
 
 V. Proponer y evaluar las políticas de la Secretaría de Educación Pública en materia de autorización y reconocimiento de validez oficial de estudios, en los términos establecidos en la Ley General de Educación;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-VI. Estudiar y resolver las solicitudes para otorgar el reconocimiento de validez oficial de estudios para educación superior, en el ámbito de competencia de la Secretaría de Educación Pública;
+VI. Estudiar y resolver en términos del artículo 55 de la Ley General de Educación, las solicitudes de reconocimiento de validez oficial de estudios de educación superior, en el ámbito de competencia de la Secretaría de Educación Pública;
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
 VII. Substanciar y resolver los procedimientos que retiren el reconocimiento de validez oficial de estudios a que se refiere este artículo;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-VII Bis. Autenticar los certificados, títulos, diplomas o grados que se expidan por las instituciones educativas de educación superior distintas a las de educación normal y demás para la formación de maestros de educación básica;
+VII Bis. Autenticar los certificados, títulos, diplomas o grados que expidan las instituciones de educación superior a las que les haya otorgado el reconocimiento de validez oficial de estudios en términos de la fracción VI de este artículo;
 
 > <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
@@ -2057,9 +2233,9 @@ IX. Otorgar revalidaciones y equivalencias de estudios para la educación superi
 
 X. Diseñar, aplicar y, en su caso, coordinar la implementación de estrategias, acciones y mecanismos para la inspección y vigilancia de los servicios educativos que se presten en las escuelas particulares incorporadas al Sistema Educativo Nacional o que, sin estar incorporados a dicho Sistema, deban cumplir con las disposiciones de la Ley General de Educación, así como, en su caso, imponer las sanciones procedentes;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
 
-X. Bis. Definir los criterios y lineamientos para el diseño y aplicación de instrumentos que permitan evaluar los resultados de los servicios educativos impartidos por instituciones particulares de educación superior, conforme a lo dispuesto en la Ley General de Educación;
+X Bis. Establecer los lineamientos para el diseño de instrumentos que permitan evaluar los resultados de los servicios educativos impartidos por instituciones de educación superior a las que les haya otorgado el reconocimiento de validez oficial de estudios en términos de la fracción VI de este artículo, así como para la aplicación de dichos instrumentos, conforme a lo dispuesto en la Ley General de Educación;
 
 XI. Establecer los mecanismos operativos que garanticen el cumplimiento por parte de los particulares de los requisitos pedagógicos de los planes y programas de educación inicial, así como de las medidas que establece la Ley General de Educación para su impartición;
 
@@ -2069,7 +2245,9 @@ XII. Establecer lineamientos generales conforme a los cuales los particulares co
 
 XIII. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2016)
 
-XIV. Proponer, de conformidad con las unidades administrativas competentes, las bases de coordinación que deban suscribirse entre la Secretaría y otras dependencias de la Administración Pública Federal para la formulación de los planes y programas de estudio de las instituciones educativas establecidas por el Poder Ejecutivo Federal, por conducto de dichas dependencias;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+XIV. Proponer, en colaboración con las unidades administrativas competentes de la Secretaría de Educación Pública, los instrumentos jurídicos correspondientes para la coordinación en la formulación de los planes y programas de estudio de educación superior que se impartan en instituciones educativas establecidas por las dependencias de la Administración Pública Federal en términos del artículo 18 de la Ley General de Educación;
 
 XV. Elaborar y mantener actualizada la estadística de las escuelas particulares que funcionen con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría;
 
@@ -2079,9 +2257,7 @@ XVI. Evaluar e interpretar las normas en materia de autorización y de reconocim
 
 XVII. Evaluar e interpretar las normas en materia de revalidación y de equivalencia de estudios, así como asesorar a las demás unidades administrativas de la Secretaría, a sus órganos desconcentrados, a sus organismos públicos descentralizados y a las autoridades educativas locales, en el cumplimiento de éstas;
 
-> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
-
-XVIII. Evaluar la prestación del servicio educativo en las escuelas particulares que funcionen con autorización o con reconocimiento de validez oficial de estudios otorgados por la Secretaría;
+XVIII. (DEROGADA, D.O.F. 23 DE MARZO DE 2017)
 
 XIX. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2016)
 
@@ -2097,7 +2273,9 @@ II. Coordinar, operar y mantener actualizado el Sistema de Información y Gesti�
 
 III. Asegurar que el Sistema de Información y Gestión Educativa esté integrado por el registro nacional de emisión, validación e inscripción de documentos académicos; las estructuras ocupacionales; las plantillas de personal de las escuelas; los módulos correspondientes a los datos sobre la formación, trayectoria y desempeño profesional del personal, así como la información, elementos y mecanismos necesarios para la operación del Sistema Educativo Nacional;
 
-IV. Coordinar las acciones necesarias con la Dirección General de Presupuesto y Recursos Financieros, así como con las autoridades educativas de los estados, a fin de que el Sistema de Información y Gestión Educativa sirva para los propósitos señalados en la Ley de Coordinación Fiscal respecto del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2017)</small>
+
+IV. Coordinar las acciones necesarias con la Dirección General del Sistema de Administración de la Nómina Educativa Federalizada, así como con las autoridades educativas de las entidades federativas, a fin de que el Sistema de Información y Gestión Educativa sirva para los propósitos señalados en la Ley de Coordinación Fiscal respecto del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
 
 V. Impulsar la participación de las autoridades educativas locales en la actualización e integración permanente del Sistema de Información y Gestión Educativa;
 
@@ -2311,9 +2489,9 @@ Las ausencias del Titular del Órgano Interno de Control, así como las de los t
 
 Las ausencias de los Subsecretarios y del Oficial Mayor serán suplidas por los titulares de las direcciones generales y demás unidades administrativas que de ellos dependan, en los asuntos de sus respectivas competencias.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2017)</small>
 
-ARTÍCULO 54 BIS.- Las ausencias del titular de la Unidad de Asuntos Jurídicos serán suplidas por los Directores de Procesos Jurídico Administrativos, de Normatividad y Consulta, de Asuntos Laborales, de Proyectos Jurídicos Especiales y Jurídico de Apoyo en Adquisiciones, Obra Pública y Servicios. Las ausencias de los Directores adscritos a la Unidad de Asuntos Jurídicos, serán suplidas por los Subdirectores que de ellos dependan. Las ausencias de los Subdirectores adscritos a las Direcciones de la Unidad de Asuntos Jurídicos, serán suplidas por los Jefes de Departamento que de ellos dependan.
+ARTÍCULO 54 BIS.- Las ausencias del titular de la Unidad de Asuntos Jurídicos y Transparencia serán suplidas por los Directores de Procesos Jurisdiccionales, de Normatividad y Consulta, de Asuntos Laborales, de Proyectos Jurídicos Especiales, de Convenios y Apoyo en Adquisiciones, Obra Pública y Servicios, y de Información y Análisis Institucional, en los asuntos de sus respectivas competencias. Las ausencias de los Directores adscritos a la Unidad de Asuntos Jurídicos y Transparencia, serán suplidas por los Subdirectores que de ellos dependan Las ausencias de los Subdirectores adscritos a las Direcciones de la Unidad de Asuntos Jurídicos y Transparencia, serán suplidas por los Jefes de Departamento que de ellos dependan.
 
 ###### ARTÍCULO 55.
 
@@ -2468,3 +2646,17 @@ CUARTO.- La Secretaría de Educación Pública deberá, dentro de los ciento och
 QUINTO.- Los recursos humanos, financieros y materiales asignados a las unidades administrativas de la Secretaría de Educación Pública que modifican su competencia en virtud de lo dispuesto en el presente Decreto serán reasignados a las unidades administrativas que asumen las correspondientes atribuciones, de conformidad con las disposiciones jurídicas aplicables.
 
 SEXTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Educación Pública en el presente ejercicio fiscal, por lo que cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos en trámite que son atendidos por las unidades administrativas que desaparecen o modifican sus atribuciones en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas a las que se les otorga la competencia conforme a este ordenamiento.
+
+TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Educación Pública en el presente ejercicio fiscal, por lo que cualquier modificación a su estructura orgánica se realizará mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+
+CUARTO.- La Secretaría de Educación Pública deberá, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, realizar las modificaciones correspondientes a los acuerdos, manuales y demás disposiciones administrativas conforme a lo previsto en el presente Decreto.
+
+QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales, circulares, lineamientos y demás disposiciones administrativas, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría de Educación Pública que desaparecen, modifican sus atribuciones o cambian de denominación por virtud del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas y órganos administrativos desconcentrados que resulten competentes conforme al mismo.
