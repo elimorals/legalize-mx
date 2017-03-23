@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-59685"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-15"
-last_updated: "2016-12-21"
+last_updated: "2017-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 15 de enero de 2008.
 
@@ -145,11 +145,11 @@ V. Solicitar ante el Ejecutivo del Estado el examen correspondiente y ser aproba
 
 2. El requisito de práctica se acreditará con el certificado del Notario y el oficio de contestación de la Dirección de Asuntos Notariales. El término a que se refiere la fracción III del artículo 12 empezará a correr a partir de la fecha de este último oficio.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 14.
 
-El otorgamiento de la patente de aspirante al cargo de Notario se comunicará a la Dirección de Asuntos Notariales y se publicará en el Periódico Oficial del Estado, debiendo registrar los aspirantes su firma en la Secretaría del Trabajo.
+El otorgamiento de la patente de aspirante al cargo de Notario se comunicará a la Dirección de Asuntos Notariales y se publicará en el Periódico Oficial del Estado, debiendo registrar los aspirantes su firma en la Secretaría General de Gobierno.
 
 ###### ARTICULO 15.
 
@@ -201,9 +201,9 @@ Los exámenes para obtener la patente de aspirante o el fíat de Notario, se des
 
 1. El examen para la obtención de la patente de aspirante al ejercicio del Notariado consistirá en sendas pruebas teórica y una práctica, que se realizarán el día, hora y lugar que oportunamente señale el Director de Asuntos Notariales.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-2. La prueba práctica consistirá en la redacción de un instrumento notarial y, en su caso, el cálculo de los impuestos correspondientes, cuyo tema será sorteado de diez propuestos por el Colegio de Notarios del Estado y aprobados por el Director de Asuntos Notariales. Los temas colocados en sobres cerrados, serán sellados por el Subsecretario de Servicios y Gestión Gubernamental de la Secretaría del Trabajo y por el Presidente del Colegio de Notarios del Estado.
+2. La prueba práctica consistirá en la redacción de un instrumento notarial y, en su caso, el cálculo de los impuestos correspondientes, cuyo tema será sorteado de diez propuestos por el Colegio de Notarios del Estado y aprobados por el Director de Asuntos Notariales. Los temas colocados en sobres cerrados, serán sellados por el Titular de la Subsecretaría de Legalidad y Servicios Gubernamentales de la Secretaría General de Gobierno y por el Presidente del Colegio de Notarios del Estado.
 
 3. La prueba teórica consistirá en las preguntas o interpelaciones que los miembros del jurado harán al sustentante, sobre el caso jurídico-notarial al que se refiera el tema que le haya correspondido.
 
@@ -241,9 +241,9 @@ Los exámenes para obtener la patente de aspirante o el fíat de Notario, se des
 
 1. El Presidente del jurado, una vez tomada la decisión de este cuerpo sobre la calificación del sustentante o de quien resultó triunfador en el examen de oposición, lo dará a conocer en público.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-2.- Asimismo, comunicará al Ejecutivo del Estado el resultado del examen, a quien remitirá la documentación relativa, por conducto del Secretario del Trabajo.
+2. Asimismo, comunicará al Ejecutivo del Estado el resultado del examen, a quien remitirá la documentación relativa, por conducto del Secretario General de Gobierno.
 
 ###### ARTICULO 23.
 
@@ -267,9 +267,9 @@ I. Otorgar y mantener actualizada la garantía por el equivalente a quinientas v
 
 II. Proveerse a su costa de sello y protocolo;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
 
-III. Registrar su sello y firma en los libros correspondientes de la Secretaría del Trabajo, del Registro Público de la Propiedad Inmueble y del Comercio y de la Dirección de Asuntos Notariales;
+III. Registrar su sello y firma en los libros correspondientes de la Secretaría General de Gobierno, del Instituto Registral y Catastral del Estado de Tamaulipas y de la Dirección de Asuntos Notariales;
 
 IV. Otorgar la protesta legal ante el Ejecutivo del Estado en forma homóloga a la que se desprende del artículo 158 de la Constitución Política del Estado para los servidores públicos; e
 
@@ -283,25 +283,25 @@ La garantía que otorgue el Notario se aplicará al pago de las multas que se le
 
 ###### ARTICULO 26.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-1. Los fíats de los Notarios y las patentes de aspirantes al cargo de Notario, se registrarán en los libros que al efecto llevarán, con el título de "Registro de Notarios", la Secretaría del Trabajo, por conducto de la Dirección de Permisos y Legalizaciones, el Registro Público de la Propiedad Inmueble y del Comercio; el Colegio de Notarios del Estado y el Colegio de Notarios del Distrito Judicial que le corresponda.
+1. Los fíats de los Notarios y las patentes de aspirantes al cargo de Notario, se registrarán en los libros que al efecto llevarán, con el título de "Registro de Notarios", la Secretaría General de Gobierno, por conducto de la Dirección de Permisos y Legalizaciones, el Instituto Registral y Catastral del Estado de Tamaulipas; el Colegio de Notarios del Estado y el Colegio de Notarios del Distrito Judicial que le corresponda.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-2. Los acuerdos de adscripción de Aspirantes Adscritos a una Notaría, se llevarán en un Libro con el título de "Registro de Aspirantes a Notarios", independiente a los señalados en el párrafo que antecede, que al efecto llevará, la Secretaría del Trabajo, por conducto de la Dirección de Permisos y Legalizaciones.
+2. Los acuerdos de adscripción de Aspirantes Adscritos a una Notaría, se llevarán en un Libro con el título de "Registro de Aspirantes a Notarios", independiente a los señalados en el párrafo que antecede, que al efecto llevará, la Secretaría General de Gobierno, por conducto de la Dirección de Permisos y Legalizaciones.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 3. Los libros contendrán las menciones necesarias para conocer con precisión los datos principales de la Notaría y su titular, así como una muestra de la firma y sello del Notario. En ellos se anotarán las separaciones temporales o definitivas y las designaciones para suplir esas faltas. Al terminar la separación del cargo se anotará también la razón correspondiente.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 27.
 
-1. El Notario debe comenzar a ejercer sus funciones dentro del plazo de 60 días posteriores a que haya rendido protesta de su cargo. Al hacerla dará aviso al público por medio del Periódico Oficial del Estado y lo comunicará a la Secretaría del Trabajo, al Registro Público de la Propiedad Inmueble y del Comercio y a la Dirección de Asuntos Notariales.
+1. El Notario debe comenzar a ejercer sus funciones dentro del plazo de 60 días posteriores a que haya rendido protesta de su cargo. Al hacerla dará aviso al público por medio del Periódico Oficial del Estado y lo comunicará a la Secretaría General de Gobierno, al Instituto Registral y Catastral del Estado de Tamaulipas y a la Dirección de Asuntos Notariales.
 
-2. Quedará sin efecto el fíat otorgado al Notario si no se encarga del ejercicio de sus funciones dentro del plazo fijado y no podrá otorgarse otro nuevo al interesado, a menos que exista causa justificada para ello a juicio del Secretario del Trabajo, con la opinión del Director de Asuntos Notariales.
+2. Quedará sin efecto el fíat otorgado al Notario si no se encarga del ejercicio de sus funciones dentro del plazo fijado y no podrá otorgarse otro nuevo al interesado, a menos que exista causa justificada para ello a juicio del Secretario General de Gobierno, con la opinión del Director de Asuntos Notariales.
 
 ###### ARTICULO 28.
 
@@ -329,9 +329,11 @@ X. Intervenir, cuando el interesado opte por esta vía y no por la judicial, con
 
 XI. Intervenir en los demás actos que esta ley u otros ordenamientos jurídicos autoricen.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 29.
 
-En el ejercicio de su profesión, los Notarios deben guardar reserva sobre lo pasado ante su fe y están sujetos a las disposiciones del Código Penal sobre el secreto profesional, salvo los informes obligatorios que deben rendir con sujeción a las leyes respectivas y de los actos que deban inscribirse en el Registro Público de la Propiedad Inmueble y de Comercio, de los cuales podrán enterarse las personas que no hubiesen intervenido en ellos y siempre que a juicio del Notario tengan algún interés legítimo en el asunto y aun no se haya efectuado la inscripción respectiva.
+En el ejercicio de su profesión, los Notarios deben guardar reserva sobre lo pasado ante su fe y están sujetos a las disposiciones del Código Penal para el Estado de Tamaulipas sobre el secreto profesional, salvo los informes obligatorios que deben rendir con sujeción a las leyes respectivas y de los actos que deban inscribirse en el Instituto Registral y Catastral del Estado de Tamaulipas, de los cuales podrán enterarse las personas que no hubiesen intervenido en ellos y siempre que a juicio del Notario tengan algún interés legítimo en el asunto y aun no se haya efectuado la inscripción respectiva.
 
 ###### ARTICULO 30.
 
@@ -377,9 +379,9 @@ Los Notarios no podrán recibir ni conservar en depósito sumas de dinero ni doc
 
 1. El aspirante a quien se hubiere expedido patente podrá actuar como Adscrito en determinada Notaría del lugar donde radique.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-2. El acuerdo para actuar como Adscrito a alguna Notaría será autorizado por el Ejecutivo del Estado por conducto de la Secretaría del Trabajo, a solicitud del Notario titular y se publicará en el Periódico Oficial del Estado, comunicándose a la Dirección de Asuntos Notariales y al Registro Público de la Propiedad Inmueble y del Comercio. Dicho acuerdo cesará sus efectos al momento en que el adscrito se separe de su función en la Notaría respectiva.
+2. El acuerdo para actuar como Adscrito a alguna Notaría será autorizado por el Ejecutivo del Estado por conducto de la Secretaría General de Gobierno, a solicitud del Notario titular y se publicará en el Periódico Oficial del Estado, comunicándose a la Dirección de Asuntos Notariales y al Instituto Registral y Catastral del Estado de Tamaulipas. Dicho acuerdo cesará sus efectos al momento en que el adscrito se separe de su función en la Notaría respectiva.
 
 ###### ARTICULO 37.
 
@@ -421,9 +423,9 @@ Cuando ocurra alguna de las causas por las que termina el cargo de Notario, el A
 
 3. El Notario que actúa en el Protocolo del Notario ausente, tendrá todas y cada una de las atribuciones y funciones legales de éste en el ejercicio de su cargo.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-4. Los convenios para designación de suplencia, serán autorizados por la Secretaría del Trabajo del Estado e inscritos en el Registro Público de la Propiedad Inmueble y del Comercio, y se publicarán en el Periódico Oficial del Estado.
+4. Los convenios para designación de suplencia, serán autorizados por la Secretaría General de Gobierno del Estado e inscritos en el Instituto Registral y Catastral del Estado de Tamaulipas y se publicarán en el Periódico Oficial del Estado.
 
 ###### ARTICULO 43.
 
@@ -439,9 +441,9 @@ Cuando ocurra alguna de las causas por las que termina el cargo de Notario, el A
 
 6. Si el Protocolo perteneciera al Notario faltante, el que se encuentre en funciones deberá gestionar ante el Ejecutivo del Estado, dentro de los 60 días siguientes, el cambio de número de su fiat y proveerse de nuevo sello con el Número de la Notaría correspondiente al Notario faltante. Mientras tanto, seguirá actuando en el mismo Protocolo con su número y sello anteriores. Quedará vacante la Notaría correspondiente al Notario que substituya al que falte.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-7. Los convenios de asociación deberán aprobarse por la Secretaría del Trabajo, notificarse al Registro Público de la Propiedad Inmueble y del Comercio, haciéndose la publicación que corresponda en el Periódico Oficial del Estado. Su disolución deberá hacerse del conocimiento en los mismos términos.
+7. Los convenios de asociación deberán aprobarse por la Secretaría General de Gobierno, notificarse al Instituto Registral y Catastral del Estado de Tamaulipas haciéndose la publicación que corresponda en el Periódico Oficial del Estado. Su disolución deberá hacerse del conocimiento en los mismos términos.
 
 ###### ARTICULO 44.
 
@@ -455,11 +457,11 @@ III. Mutuo acuerdo de los interesados.
 
 ### CAPITULO VI. DE LA SEPARACION TEMPORAL Y SUBSTITUCION DEL NOTARIO
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 45.
 
-En los casos de enfermedad o algún otro motivo grave que imposibilite temporalmente al Notario para el desempeño de su función, el Ejecutivo del Estado, por conducto del Secretario del Trabajo, autorizará la suspensión de las funciones por el tiempo que dure la imposibilidad, sin perjuicio de lo que establece el artículo 50 de la presente ley.
+En los casos de enfermedad o algún otro motivo grave que imposibilite temporalmente al Notario para el desempeño de su función, el Ejecutivo del Estado, por conducto del Secretario General de Gobierno, autorizará la suspensión de las funciones por el tiempo que dure la imposibilidad, sin perjuicio de lo que establece el artículo 50 de la presente ley.
 
 ###### ARTICULO 46.
 
@@ -483,9 +485,9 @@ Al ocurrir la ausencia temporal del Notario, si hubiere Adscrito y obtuviere la 
 
 ###### ARTICULO 49.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2017)</small>
 
-1. El Ejecutivo del Estado, por conducto del Secretario del Trabajo, impondrá la suspensión temporal del Notario:
+1. El Ejecutivo del Estado, por conducto del Secretario General de Gobierno, impondrá la suspensión temporal del Notario:
 
 I. Como sanción administrativa por faltas en el ejercicio de sus funciones notariales, siguiendo los trámites establecidos en la presente Ley; o
 
@@ -513,9 +515,9 @@ V. Por resolución del Ejecutivo del Estado, fundada en las causas que establece
 
 Son causas para motivar la cancelación del fíat de Notario:
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
 
-I. La disminución de la garantía otorgada según el monto exigido en el artículo 24, párrafo 1, fracción I de esta ley, si el Notario no la actualiza en un término de 30 días, después de que sea requerido para ello por el Ejecutivo del Estado, a través de la Secretaría del Trabajo;
+I. La disminución de la garantía otorgada según el monto exigido en el artículo 24, párrafo 1, fracción I de esta ley, si el Notario no la actualiza en un término de 30 días, después de que sea requerido para ello por el Ejecutivo del Estado, a través de la Secretaría General de Gobierno;
 
 II. La falta de probidad comprobada por sentencia ejecutoriada que condene al Notario por delitos de falsedad o patrimoniales;
 
@@ -591,7 +593,9 @@ V. No exista oposición fundada por algún interesado. En caso de oposición, la
 
 ###### ARTICULO 63.
 
-1. Si se pierde o altera el sello, el Notario deberá proveerse de otro, el cual tendrá un signo especial que lo distinga del anterior. Esta circunstancia que hará del conocimiento de la Dirección de Asuntos Notariales. Asimismo, ésta deberá asegurar a la brevedad el sello del Notario que fallezca o deje de ejercer definitivamente el cargo, para su posterior resguardo en el Archivo General.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
+
+1. Si se pierde o altera el sello, el Notario deberá proveerse de otro, el cual tendrá un signo especial que lo distinga del anterior. Esta circunstancia que hará del conocimiento de la Dirección de Asuntos Notariales. Asimismo, ésta deberá asegurar a la brevedad el sello del Notario que fallezca o deje de ejercer definitivamente el cargo, para su posterior resguardo en el Departamento de Archivo.
 
 2. Si apareciera el sello perdido, el Notario no podrá hacerse uso de él y lo entregará personalmente a la Dirección de Asuntos Notariales para que se destruya, levantándose un acta en que conste la diligencia respectiva. Un ejemplar del acta será depositada en la Dirección de Asuntos Notariales y otra la conservará el Notario.
 
@@ -693,11 +697,11 @@ En el Protocolo no se dejará más espacio entre cada instrumento que el indispe
 
 3. Los Apéndices de cada juego de folios del Protocolo se entregarán al mismo tiempo del que le corresponda y se depositarán seguidamente de éste, en la Dirección de Asuntos Notariales.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 79.
 
-El Director de Asuntos Notariales dará aviso al Ejecutivo del Estado, por conducto del Secretario del Trabajo, cuando los Notarios no cumplan la obligación de entregar el Protocolo en la forma que lo establece el artículo 78 de esta ley.
+El Director de Asuntos Notariales dará aviso al Ejecutivo del Estado, por conducto del Secretario General de Gobierno, cuando los Notarios no cumplan la obligación de entregar el Protocolo en la forma que lo establece el artículo 78 de esta ley.
 
 ###### ARTICULO 80.
 
@@ -745,9 +749,9 @@ Dentro de los 60 días siguientes a la fecha en que se cierre el Protocolo, se p
 
 1. Cuando por cualquier circunstancia haya lugar a clausurar el Protocolo y no se trate del cambio normal de los juegos de folios por haberse terminado, la diligencia se efectuará siempre con la intervención de un representante del Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-2. Al cerrar los juegos de folios del Protocolo, el interventor designado por conducto del Secretario del Trabajo, procederá a poner la razón a que se refieren los artículos 84 y 85 de esta ley en cada juego de folios, agregando además la causa que motive el acto y todas las circunstancias que estime convenientes, suscribiendo dicha razón con su firma.
+2. Al cerrar los juegos de folios del Protocolo, el interventor designado por conducto del Secretario General de Gobierno, procederá a poner la razón a que se refieren los artículos 84 y 85 de esta ley en cada juego de folios, agregando además la causa que motive el acto y todas las circunstancias que estime convenientes, suscribiendo dicha razón con su firma.
 
 3. El interventor designado para participar en la clausura de un Protocolo cuidará que el inventario correspondiente contenga todo el acervo documental a cargo del Notario, incluyendo los testamentos cerrados que se tuviere en guarda, expedientes judiciales y demás documentos del archivo.
 
@@ -861,7 +865,9 @@ IV. El Notario hará constar las declaraciones que hagan los otorgantes como ant
 
 V. El acto jurídico que se celebra se expresará en forma precisa; si se trata de convenio o contrato, sus cláusulas serán redactadas con claridad y concisión, atendiendo a la naturaleza del acto;
 
-VI. Tratándose de bienes inmuebles determinará su naturaleza, ubicación, extensión, colindancias, y relacionará, cuando menos, el último título de propiedad del bien o del derecho a que se refiere la escritura, citando su inscripción en el Registro Público de la Propiedad Inmueble y del Comercio o la razón por la cual aún no está inscrito;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
+
+VI. Tratándose de bienes inmuebles determinará su naturaleza, ubicación, extensión, colindancias, y relacionará, cuando menos, el último título de propiedad del bien o del derecho a que se refiere la escritura, citando su inscripción en el Instituto Registral y Catastral del Estado de Tamaulipas o la razón por la cual aún no está inscrito;
 
 VII. Se expresarán las renuncias de derechos que convengan las partes y que no vayan contra las leyes prohibitivas o de interés público, ni contra las buenas costumbres;
 
@@ -1031,9 +1037,9 @@ Cuando se realice el cotejo de una copia de partida parroquial con su original, 
 
 ###### ARTICULO 114.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-1. El Ejecutivo del Estado, por conducto de la Secretaría del Trabajo, requerirá a los Notarios de la Entidad, para que colaboren en la prestación de servicios notariales, cuando se trate de asuntos de interés social o de cumplir programas de atención a la ciudadanía en general. En estos casos, el Ejecutivo del Estado fijará las condiciones para la prestación del servicio, considerando las características de los propios servicios, el nivel socioeconómico de la población beneficiada y la opinión del Colegio de Notarios.
+1. El Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, requerirá a los Notarios de la Entidad, para que colaboren en la prestación de servicios notariales, cuando se trate de asuntos de interés social o de cumplir programas de atención a la ciudadanía en general. En estos casos, el Ejecutivo del Estado fijará las condiciones para la prestación del servicio, considerando las características de los propios servicios, el nivel socioeconómico de la población beneficiada y la opinión del Colegio de Notarios.
 
 2. En la prestación de estos servicios se designará al Notario que corresponda por turno en la adscripción respectiva, procurando distribuir equitativamente este servicio social, entre los Notarios.
 
@@ -1043,15 +1049,15 @@ Cuando se realice el cotejo de una copia de partida parroquial con su original, 
 
 1. Los Notarios podrán desempeñar funciones de árbitro o de mediador y conocerán de los asuntos que le soliciten a los interesados conforme a los planteamientos o compromisos respectivos, observando para su trámite las formas, procedimientos y restricciones que establece el Código de Procedimientos Civiles para el Estado de Tamaulipas, el Código de Comercio, la Ley de Mediación para el Estado de Tamaulipas y demás leyes aplicables.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-2. Para desempeñarse como mediadores, los Notarios deberán contar con la certificación respectiva, expedida por la Secretaría del Trabajo, a través de la Dirección.
+2. Para desempeñarse como mediadores, los Notarios deberán contar con la certificación respectiva, expedida por la Secretaría General de Gobierno, a través de la Dirección.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 116.
 
-El Colegio de Notarios del Estado de Tamaulipas coordinará a los Notarios que desempeñen la función de árbitro o mediador, sin perjuicio de las facultades de control que corresponda ejercer a la Secretaría del Trabajo, a través de la Dirección.
+El Colegio de Notarios del Estado de Tamaulipas coordinará a los Notarios que desempeñen la función de árbitro o mediador, sin perjuicio de las facultades de control que corresponda ejercer a la Secretaría General de Gobierno, a través de la Dirección.
 
 ###### ARTICULO 117.
 
@@ -1123,7 +1129,9 @@ Cada trimestre, la Dirección y el Colegio de Notarios del Estado proporcionará
 
 4. Cuando se expida un testimonio se pondrá en nota complementaria la fecha de la expedición, el número de fojas de que conste el Testimonio, el número ordinal que corresponda a éste, para quién se expide y a qué título.
 
-5. Las constancias sobre los asientos de inscripción puestas por el Registro Público de la Propiedad Inmueble y del Comercio al calce de los Testimonios, serán extractadas o transcritas por el Notario en la nota complementaria correspondiente.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
+
+5. Las constancias sobre los asientos de inscripción puestas por el Instituto Registral y Catastral del Estado de Tamaulipas al calce de los Testimonios, serán extractadas o transcritas por el Notario en la nota complementaria correspondiente.
 
 ### CAPITULO XVII. VALOR DE LOS INSTRUMENTOS Y TESTIMONIOS NOTARIALES
 
@@ -1235,9 +1243,9 @@ b) Por falta grave de probidad en el ejercicio de sus funciones; o
 
 c) Por no desempeñar personalmente sus funciones.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-3. Las sanciones a que se refieren las fracciones I, II y III del párrafo anterior, serán impuestas por el Secretario del Trabajo y las comprendidas en la fracción IV requieren acuerdo expreso del Gobernador del Estado.
+3. Las sanciones a que se refieren las fracciones I, II y III del párrafo anterior, serán impuestas por el Secretario General de Gobierno y las comprendidas en la fracción IV requieren acuerdo expreso del Gobernador del Estado.
 
 4. Lo dispuesto en este Artículo es aplicable también a los Adscritos. En caso de que éstos incurran en contravención a lo dispuesto en el párrafo 3 del artículo 39 de esta ley serán sancionados conforme a la fracción II del párrafo 2 de este artículo.
 
@@ -1267,23 +1275,23 @@ IV. Desahoga la garantía de audiencia, el Ejecutivo dictará la resolución def
 
 1. Cada año, si el Ejecutivo estima conveniente, se practicará una visita ordinaria a todas las Notarías del Estado. Esta visita ordinaria se referirá al año anterior.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-2. El Gobernador del Estado, por conducto del Secretario del Trabajo, designará visitadores que nombrará y removerá libremente, quienes tendrán a su cargo la práctica de las visitas a las Notarías para vigilar su funcionamiento regular y su apego a la ley.
+2. El Gobernador del Estado, por conducto del Secretario General de Gobierno, designará visitadores que nombrará y removerá libremente, quienes tendrán a su cargo la práctica de las visitas a las Notarías para vigilar su funcionamiento regular y su apego a la ley.
 
 3. El nombramiento de visitador debe recaer en abogado con título expedido legalmente.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 137.
 
-Las visitas generales se efectuarán cuando el Ejecutivo del Estado, por conducto del Secretario del Trabajo, determine practicar una inspección a todas las notarías o para conocer el funcionamiento de cualquier notaría y se practicarán por conducto de la Dirección de Asuntos Notariales.
+Las visitas generales se efectuarán cuando el Ejecutivo del Estado, por conducto del Secretario General de Gobierno, determine practicar una inspección a todas las notarías o para conocer el funcionamiento de cualquier notaría y se practicarán por conducto de la Dirección de Asuntos Notariales.
 
 ###### ARTICULO 138.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-1. El Ejecutivo del Estado, por conducto del Secretario del Trabajo, ordenará visitas especiales a una Notaría cuando mediante queja o por comunicado del Director de Asuntos Notariales, se cuente con elementos sobre presuntas violaciones a la ley por parte del Notario.
+1. El Ejecutivo del Estado, por conducto del Secretario General de Gobierno, ordenará visitas especiales a una Notaría cuando mediante queja o por comunicado del Director de Asuntos Notariales, se cuente con elementos sobre presuntas violaciones a la ley por parte del Notario.
 
 2. En el caso previsto en el párrafo anterior, la visita se concretará exclusivamente a la investigación de la irregularidad denunciada o detectada de que se trate.
 
@@ -1301,7 +1309,9 @@ Las visitas generales se efectuarán cuando el Ejecutivo del Estado, por conduct
 
 1. El Notario o quien lo sustituya en sus funciones conforme a derecho, deberá estar presente al hacerse la inspección para hacer las aclaraciones que le solicite el visitador o que él juzgue convenientes.
 
-2. Las visitas se efectuarán en el despacho de la Notaría y en horas hábiles, salvo que el Protocolo se encuentre depositado en el Archivo General de Notarías o en el Juzgado de Primera Instancia.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
+
+2. Las visitas se efectuarán en el despacho de la Notaría y en horas hábiles, salvo que el Protocolo se encuentre depositado en el Departamento de Archivo o en el Juzgado de Primera Instancia.
 
 ###### ARTICULO 141.
 
@@ -1327,29 +1337,33 @@ IV. El visitador cuidará de observar que estén encuadernados, completos y empa
 
 Los visitadores practicarán la inspección inmediatamente después de que reciban la orden respectiva y darán cuenta de su resultado al Director de Asuntos Notariales, tan luego como haya terminado su visita.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 143.
 
-El Secretario del Trabajo, con base en el informe del Director de Asuntos Notariales dará cuenta al Ejecutivo del Estado de las irregularidades de que conozca en la función del Notario, con motivo de las visitas de inspección que se practique (sic), para que resuelva lo procedente.
+El Secretario General de Gobierno, con base en el informe del Director de Asuntos Notariales dará cuenta al Ejecutivo del Estado de las irregularidades de que conozca en la función del Notario, con motivo de las visitas de inspección que se practique, para que resuelva lo procedente.
 
 ### CAPITULO XX. DE LA DIRECCION DE ASUNTOS NOTARIALES
 
 ###### ARTICULO 144.
 
-1. La Dirección de Asuntos Notariales residirá en la capital del Estado, y tendrá a su cargo el despacho de todos los negocios relacionados con el ejercicio del notariado, así como la organización, conservación y guarda del Archivo General de Notarías.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
+
+1. La Dirección de Asuntos Notariales residirá en la capital del Estado, y tendrá a su cargo el despacho de todos los negocios relacionados con el ejercicio del notariado, así como la organización, conservación y guarda del Departamento de Archivo.
 
 2. La Dirección estará a cargo de un Director de Asuntos Notariales, quien será nombrado y removido libremente por el Gobernador del Estado y tiene categoría de confianza.
 
 3. Para el desempeño de su función, la Dirección contará con los visitadores que determine el Ejecutivo del Estado, quienes deberán tener título de Licenciado en derecho y conocimientos sobre la función notarial, y ejercerán las funciones que le sean encomendadas, así como por el demás personal que se le asigne conforme al presupuesto de egresos.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-4. En la ausencia de nombramiento del Director de Asuntos Notariales o sus vacantes, desempeñará la función el Subsecretario de Servicios y Gestión Gubernamental de la Secretaría del Trabajo.
+4. En la ausencia de nombramiento del Director de Asuntos Notariales o sus vacantes, desempeñará la función el Titular de la Subsecretaría de Legalidad y Servicios Gubernamentales de la Secretaría General de Gobierno.
 
 ###### ARTICULO 145.
 
-El Archivo General de la Dirección de Asuntos Notariales se formará:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2017)</small>
+
+El Departamento de Archivo de la Dirección de Asuntos Notariales se formará:
 
 I. Con los expedientes personales de todos los Notarios del Estado;
 
@@ -1361,7 +1375,9 @@ IV. Con los sellos que deban depositarse o inutilizarse en los términos de esta
 
 V. Con el registro de sellos y firmas de Notarios y funcionarios que actúen con ese carácter; y
 
-VI. Con los documentos propios del Archivo General de Notarías.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
+
+VI. Con los documentos propios del Departamento de Archivo.
 
 ###### ARTICULO 146.
 
@@ -1373,27 +1389,33 @@ Son atribuciones del Director de Asuntos Notariales:
 
 I. Llevar el registro de sellos y firmas de Notarios y funcionarios públicos que actúen con ese carácter;
 
-II. Conservar, administrar y guardar los Protocolos, Apéndices, anexos y documentos que constituyan el Archivo General de Notarías;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
+
+II. Conservar, administrar y guardar los Protocolos, Apéndices, anexos y documentos que constituyan el Departamento de Archivo;
 
 III. Comunicar al Ejecutivo del Estado las irregularidades y violaciones de a la (sic) ley que advierta por sí o como resultado de las visitas en el funcionamiento del notariado;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
 
-IV. Comunicar al Ejecutivo del Estado, por conducto del Secretario del Trabajo, las deficiencias o irregularidades que advierta en los Protocolos remitidos a la Dirección;
+IV. Comunicar al Ejecutivo del Estado, por conducto del Secretario General de Gobierno, las deficiencias o irregularidades que advierta en los Protocolos remitidos a la Dirección;
 
 V. Proporcionar requisitados los juegos de folios del Protocolo que soliciten los Notarios, el Libro Indice de Asuntos de Jurisdicción Voluntaria y proveerlos de sello;
 
 VI. Inutilizar los sellos de los Notarios cuando proceda conforme a derecho;
 
-VII. Expedir copias certificadas y testimonios de los instrumentos inscritos en los Protocolos depositados en el Archivo General de Notarías a las partes que hayan intervenido en el acto a que se refiere, o por mandamiento judicial, así como de los documentos que integran los expedientes personales de los Notarios del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
+
+VII. Expedir copias certificadas y testimonios de los instrumentos inscritos en los Protocolos depositados en el Departamento de Archivo a las partes que hayan intervenido en el acto a que se refiere, o por mandamiento judicial, así como de los documentos que integran los expedientes personales de los Notarios del Estado;
 
 VIII. Llevar el registro de Notarios y funcionarios que actúen con este carácter con expresión de la fecha de su nombramiento y de la que hayan dejado de ejercer el cargo, así como sus separaciones temporales;
 
-IX. Formar el índice general del Archivo General de Notarias;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+IX. Formar el índice general del Departamento de Archivo;
 
-X. Solicitar del Ejecutivo del Estado, por conducto del Secretario del Trabajo, la práctica de visitas especiales cuando tenga conocimiento de irregularidad por queja;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
+
+X. Solicitar del Ejecutivo del Estado, por conducto del Secretario General de Gobierno, la práctica de visitas especiales cuando tenga conocimiento de irregularidad por queja;
 
 XI. Vigilar el funcionamiento general de las Notarías a través de los visitadores a su mando;
 
@@ -1401,7 +1423,9 @@ XII. Conceder licencia al personal de la oficina, con base en los lineamientos q
 
 XIII. Imponer al personal de la Dirección de Asuntos Notariales las correcciones disciplinarias que procedan y, en su caso, hacer del conocimiento de la Contraloría Gubernamental las conductas que puedan implicar responsabilidad administrativa;
 
-XIV. Autorizar en definitiva, las escrituras que hayan sido previamente firmadas por y ante los Notarios cuyos protocolos hubieren sido depositados en el Archivo por cualquiera de las causas previstas en la presente ley, y llenar todos los requisitos previos y posteriores a la autorización;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
+
+XIV. Autorizar en definitiva, las escrituras que hayan sido previamente firmadas por y ante los Notarios cuyos protocolos hubieren sido depositados en el Departamento de Archivo por cualquiera de las causas previstas en la presente ley, y llenar todos los requisitos previos y posteriores a la autorización;
 
 XV. Llevar un registro de los testamentos que autoricen los Notarios, de los cuales haya recibido aviso en cumplimiento de lo dispuesto por la presente ley y rendir los informes que le soliciten;
 
@@ -1409,9 +1433,13 @@ XVI. Rendir los informes y la cooperación técnica que le sean requeridos por o
 
 XVII. Llevar el control de las actas que se levanten con motivo de las visitas que practique por sí, o a través de los visitadores de la oficina a su cargo;
 
-XVIII. Celebrar convenios con instituciones públicas o privadas para acrecentar, conservar y difundir el acervo documental del Archivo General de Notarías;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
 
-XIX. Estudiar y proponer técnicas de conservación y métodos para el respaldo de la documentación e información que obre en el Archivo General de Notarías;
+XVIII. Celebrar convenios con instituciones públicas o privadas para acrecentar, conservar y difundir el acervo documental del Departamento de Archivo;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
+
+XIX. Estudiar y proponer técnicas de conservación y métodos para el respaldo de la documentación e información que obre en el Departamento de Archivo;
 
 XX. Dar apoyo a las autoridades judiciales y administrativas en el cumplimiento de sus funciones y atribuciones;
 
@@ -1451,9 +1479,9 @@ Cuando el Ejecutivo del Estado solicite la opinión de la Comisión de Honor y J
 
 1. El Colegio de Notarios del Estado estará a cargo de un Consejo Directivo compuesto por un Presidente, un Vicepresidente, un Secretario, un Tesorero y un Vocal por cada Colegio Local.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-2. Por la importancia del servicio que sus miembros prestan a la sociedad, el Ejecutivo, a través de la Secretaría del Trabajo, coadyuvará con el Colegio de Notarios del Estado en sus programas de capacitación y actualización notarial.
+2. Por la importancia del servicio que sus miembros prestan a la sociedad, el Ejecutivo, a través de la Secretaría General de Gobierno, coadyuvará con el Colegio de Notarios del Estado en sus programas de capacitación y actualización notarial.
 
 ###### ARTICULO 152.
 
@@ -1505,9 +1533,9 @@ La separación en el ejercicio del notariado importa la de cualquier cargo direc
 
 ###### ARTICULO 159.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-1. El Notario podrá interponer el recurso de inconformidad contra las resoluciones emitidas respecto de las quejas presentadas en su contra, el cual deberá presentarse por escrito ante el Gobernador del Estado, por conducto de la Secretaría del Trabajo, dentro de los diez días siguientes a la notificación de la resolución recurrida.
+1. El Notario podrá interponer el recurso de inconformidad contra las resoluciones emitidas respecto de las quejas presentadas en su contra, el cual deberá presentarse por escrito ante el Gobernador del Estado, por conducto de la Secretaría General de Gobierno, dentro de los diez días siguientes a la notificación de la resolución recurrida.
 
 2. El escrito por el cual se interponga el recurso de inconformidad, se sujetará a los siguientes requisitos:
 
@@ -1607,9 +1635,9 @@ Para la recepción de los medios de prueba, deberán observarse los preceptos qu
 
 ###### ARTICULO 172.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-1. Para estar en condiciones de conocer los asuntos a que se refieren los artículos 162 y 163 de esta ley, los Notarios deberán contar con la certificación respectiva, expedida por la Secretaría del Trabajo.
+1. Para estar en condiciones de conocer los asuntos a que se refieren los artículos 162 y 163 de esta ley, los Notarios deberán contar con la certificación respectiva, expedida por la Secretaría General de Gobierno.
 
 2. Se retirará la certificación si se comprueba el ejercicio indebido en trámite de Jurisdicción Voluntaria, sin menoscabo de la sanción de falta de probidad que se aplicaría para casos graves en ese aspecto.
 
@@ -1701,9 +1729,9 @@ IV. Poderes que se refieran a bienes muebles, cuando el valor del bien sea super
 
 7. La comparecencia del Notario a que se refiere el párrafo anterior, no podrá efectuarse mediante apoderado o representante legal.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-8. La comparecencia previa a que se refiere el párrafo 6 de este artículo también deberá realizarse cuando el Ejecutivo del Estado, por conducto del Secretario del Trabajo, proporcione a los Notarios interesados el certificado, cuando actúe como prestador de servicios de certificación.
+8. La comparecencia previa a que se refiere el párrafo 6 de este artículo también deberá realizarse cuando el Ejecutivo del Estado, por conducto del Secretario General de Gobierno, proporcione a los Notarios interesados el certificado, cuando actúe como prestador de servicios de certificación.
 
 9. Los datos de identidad que el Gobierno del Estado obtenga con motivo de la comparecencia, no quedarán comprendidos dentro de lo dispuesto por los artículos 80 de esta ley, 18 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y 27 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
 
@@ -1751,9 +1779,9 @@ vii) Si se ofrece un servicio de terminación de vigencia de los certificados; y
 
 viii) Proporcionar los servicios de acceso al registro de certificados. A dicho registro podrá accederse por medios electrónicos.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-2. Las facultades mencionadas podrán ser ejercidas directamente en cualquier tiempo por el Ejecutivo del Estado por conducto del Secretario del Trabajo, pudiendo hacerla en forma separada o conjunta con las personas autorizadas en los términos de esta fracción.
+2. Las facultades mencionadas podrán ser ejercidas directamente en cualquier tiempo por el Ejecutivo del Estado por conducto del Secretario General de Gobierno, pudiendo hacerla en forma separada o conjunta con las personas autorizadas en los términos de esta fracción.
 
 ###### ARTICULO 181.
 
@@ -1940,3 +1968,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-147 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS, LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS, LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
