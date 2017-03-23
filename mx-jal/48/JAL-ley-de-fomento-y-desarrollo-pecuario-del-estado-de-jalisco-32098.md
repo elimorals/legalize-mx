@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2016-11-10"
+last_updated: "2017-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -1247,7 +1247,7 @@ III. En el campo o potreros donde se encuentren animales que representen un peli
 
 ###### Artículo 108.
 
-Sólo podrán sacrificarse los animales sometidos a encierro veinticuatro horas antes del mismo o de acuerdo a lo previsto en la norma oficial mexicana respectiva, con el objeto de efectuar la inspección antemorten por los médicos veterinarios zootecnistas oficiales o particulares aprobados, dándoles un descanso adecuado, y sólo después de realizar la revisión administrativa de la documentación y verificación del medio de identificación de los animales por parte del inspector de ganadería y de las autoridades municipales.
+Sólo podrán sacrificarse los animales sometidos a encierro veinticuatro horas antes del mismo o de acuerdo a lo previsto en la norma oficial mexicana respectiva, con el objeto de efectuar la inspección antemorten (sic) por los médicos veterinarios zootecnistas oficiales o particulares aprobados, dándoles un descanso adecuado, y sólo después de realizar la revisión administrativa de la documentación y verificación del medio de identificación de los animales por parte del inspector de ganadería y de las autoridades municipales.
 
 ###### Artículo 109.
 
@@ -1579,9 +1579,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. La Secretaría de Desarrollo Rural gestionará ante la Secretaría de Planeación, Administración y Finanzas, la inclusión en el proyecto de Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal 2016, los conceptos necesarios para la debida implementación de la Credencial Única Agroalimentaria.
 
-> <small>(REFORMADO, 27 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-TERCERO. Para efectos de la implementación de la Credencial Única Agroalimentaria, el Ejecutivo Estatal mediante acuerdo determinará los plazos para la inscripción de las personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, tendrán un plazo hasta el día 31 de diciembre del año 2016 para quedar debidamente inscritas en el Registro y obtener su "Credencial Única Agroalimentaria".
+TERCERO. Para efectos de la implementación de la Credencial Única Agroalimentaria, las personas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, tendrán hasta el día 31 de julio del año 2017 para quedar debidamente inscritas en el Registro y obtener su Credencial Única Agroalimentaria.
 
 CUARTO. La Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal de 2016, deberá establecer un descuento para aquellas personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, que deseen cambiar su credencial vigente por la Credencial Única Agroalimentaria. Dicho descuento será en proporción al tiempo de vigencia que tengan las credenciales cuya renovación se lleve a cabo.
 
@@ -1612,3 +1612,9 @@ P.O. 10 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 25906/LXI/16 QUE ADICIONA EL ARTÍCULO 16 BIS DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26289/LXI/17 QUE REFORMA EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO 25538/LX/2015”.]
+
+ÚNICO. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
