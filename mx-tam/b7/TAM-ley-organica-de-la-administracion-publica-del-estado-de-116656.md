@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2016-11-15"
+last_updated: "2017-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -299,7 +299,9 @@ XIII. Dar trámite a las atribuciones del Gobernador del Estado en términos de 
 
 XIV. Coordinar la prestación de los servicios del Registro Civil, conforme a las leyes que lo rigen;
 
-XV. Tramitar y expedir los nombramientos que otorgue el Gobernador para el ejercicio de la función notarial; organizar, administrar y vigilar el Archivo General de Notarías, autorizar los libros que deben utilizar los notarios en el desempeño de sus funciones, así como disponer la práctica periódica de visitas de inspección;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2017)</small>
+
+XV. Tramitar y expedir los nombramientos que otorgue el Gobernador para el ejercicio de la función notarial; organizar, administrar y vigilar la Dirección de Asuntos Notariales, autorizar los libros que deben utilizar los notarios en el desempeño de sus funciones, así como disponer la práctica periódica de visitas de inspección;
 
 XVI. Conducir y poner en ejecución las políticas y los programas de Gobierno Estatal en materia de protección ciudadana y coordinar, en términos de la ley respectiva, el ejercicio de las atribuciones del Ejecutivo Estatal que correspondan en relación con la Federación, las Entidades Federativas y los municipios; así mismo, establecer los mecanismos de coordinación con las autoridades competentes, en materia de prevención y atención de emergencias originadas por fenómenos naturales;
 
@@ -1406,3 +1408,11 @@ El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondi
 ###### ARTÍCULO TERCERO.
 
 Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
+
+P.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-147 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS, LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS, LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
