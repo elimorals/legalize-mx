@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-ejercicio-profesional-en-el-estado-de-tamaulipas-8088"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2016-12-21"
+last_updated: "2017-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -53,11 +53,11 @@ Esta Ley es de orden público e interés social; sus disposiciones regirán en e
 
 Cuando determinados aspectos relacionados con alguna rama o especialidad profesional no se encuentren regulados en esta Ley, pero sí en una diversa Ley local, se aplicará ésta última.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 3.
 
-La aplicación de esta Ley corresponde al Ejecutivo del Estado, por conducto de la Dirección de Permisos y Legalizaciones de la Secretaría del Trabajo, a la que, para los efectos de esta Ley, se aludirá en su texto como "la Dirección".
+La aplicación de esta Ley corresponde al Ejecutivo del Estado, por conducto de la Dirección de Permisos y Legalizaciones de la Secretaría General de Gobierno, a la que, para los efectos de esta Ley, se aludirá en su texto como "la Dirección".
 
 ### CAPITULO II. Del Título Profesional y de las Profesiones que lo requieran para su ejercicio
 
@@ -353,9 +353,9 @@ b).- La Universidad Autónoma de Tamaulipas, y las instituciones universitarias 
 
 c).- El Colegio de Tamaulipas, en términos de la Ley que lo rige.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-La legalización de los títulos mencionados en este artículo quedará a cargo de la Secretaría del Trabajo, cuya facultad podrá delegar su titular en los servidores públicos de la dependencia.
+La legalización de los títulos mencionados en este artículo quedará a cargo de la Secretaría General de Gobierno, cuya facultad podrá delegar su titular en los servidores públicos de la dependencia.
 
 ### CAPITULO IV
 
@@ -431,7 +431,7 @@ Respecto a los mexicanos no avecindados en el Estado, o aquellos que siendo avec
 
 Los extranjeros sólo podrán ejercer en el Estado las profesiones técnico científicas que son objeto de esta Ley, cuando no haya profesionales en el Estado, en alguna de las siguientes formas:
 
-l.- Ser profesores de especialidades, siempre y cuando a juicio del Departamento de Profesiones acusen competencia profesional.
+I.- Ser profesores de especialidades, siempre y cuando a juicio del Departamento de Profesiones acusen competencia profesional.
 
 II.- Actuar como investigadores en laboratorios o instituciones de carácter esencialmente académico o científico.
 
@@ -907,11 +907,11 @@ Los que ejerzan una profesión de las comprendidas en el Artículo 5 de esta Ley
 
 Cuando se ofendan los derechos de la sociedad, podrá suspenderse al profesionista en el ejercicio de su función hasta por el término de seis años. Si ya estuviese suspendido podrá decretarse nuevamente la medida que computará cuando termine la primera sanción y se impondrá una multa de sólo veinticinco veces el valor diario de la Unidad de Medida y Actualización hasta tres veces la cantidad que hubiere recibido con motivo del servicio prestado.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 66.
 
-El profesionista que se considere afectado por una sanción impuesta por la Dirección podrá interponer recurso de revisión ante el Subsecretario de Servicios y Gestión Gubernamental de la Secretaría General de Gobierno, dentro del término de quince días a partir de la notificación, quien resolverá lo conducente en un término igual.
+El profesionista que se considere afectado por una sanción impuesta por la Dirección podrá interponer recurso de revisión ante el Titular de la Subsecretaría de Legalidad y Servicios Gubernamentales de la Secretaría General de Gobierno, dentro del término de quince días a partir de la notificación, quien resolverá lo conducente en un término igual.
 
 ## TITULO III
 
@@ -919,11 +919,11 @@ El profesionista que se considere afectado por una sanción impuesta por la Dire
 
 ### CAPÍTULO ÚNICO. De la Dirección de Permisos y Legalizaciones
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 67.
 
-La Dirección tendrá a su cargo la supervisión del ejercicio profesional en el Estado. Dependerá de la Secretaría del Trabajo y tendrá las atribuciones que establecen esta Ley, la de Educación Pública y demás disposiciones relativas.
+La Dirección tendrá a su cargo la supervisión del ejercicio profesional en el Estado. Dependerá de la Secretaría General de Gobierno y tendrá las atribuciones que establecen esta Ley, la de Educación Pública y demás disposiciones relativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1077,13 +1077,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 384.- ÚNICO.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 282 DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+P.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-147 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS, LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS, LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 29 DE DICIEMBRE DE 2021.
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 590.- REFORMAS A LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2021 Y REFORMAS AL PRESUPUESTO DE EGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2021".]
 
