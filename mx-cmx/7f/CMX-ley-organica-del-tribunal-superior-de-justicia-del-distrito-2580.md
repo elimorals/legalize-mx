@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2015-08-20"
+last_updated: "2017-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1996-01-09"
 ---
 # LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MARZO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -1576,43 +1578,31 @@ IV. Las demás que deriven de la ley y los acuerdos para el efecto emita el Cons
 
 ### CAPÍTULO VI. De la Justicia Civil de Cuantía Menor, del Proceso Oral Civil y Penal de Delitos no graves
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 71.
 
 Los Jueces de lo Civil de Cuantía Menor conocerán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
-
-I. De los negocios de jurisdicción concurrente, cuya suerte principal sea inferior a la cantidad que el artículo 1340 del Código de Comercio establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 1253 fracción VI del citado código, a excepción de aquellos asuntos previstos en el artículo 1390 bis de dicho código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I. De los negocios de jurisdicción concurrente, cuya suerte principal sea inferior a la cantidad que el artículo 1340 del Código de Comercio establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 50 fracción II de esta Ley.
 
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
 
 II. De las diligencias preliminares de consignación, con la misma limitación a que se refiere la fracción inmediata anterior;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+III. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes;
 
-III. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes, en el ámbito de su competencia;
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV. Del Juicio de Pago de Daños Culposos causados con motivo del Tránsito de Vehículos, establecido en el capítulo IV, del Título Séptimo, del Código de Procedimientos Civiles para el Distrito Federal, independientemente del monto que se demande como pago y en los términos y plazos que se señalan en dicho capítulo; y
 
-> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2017)</small>
 
-IV. Del Juicio de Pago de Daños Culposos causados con motivo del Tránsito de Vehículos, establecido en el capítulo IV, del Título Séptimo, del Código de Procedimientos Civiles para el Distrito Federal, independientemente del monto que se demande como pago y en los términos y plazos que se señalan en dicho capítulo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
-
-V. De juicios contenciosos que versen sobre adeudos de cuotas de mantenimiento, intereses o sanciones por incumplimiento a la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, y de las resoluciones y convenios celebrados ante la Procuraduría Social del Distrito Federal.
+V. De juicios contenciosos que versen sobre adeudos de cuotas de mantenimiento, intereses o sanciones por incumplimiento a la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, de las resoluciones y convenios celebrados ante la Procuraduría Social de la Ciudad de México, así como del cumplimiento por la vía de apremio de los convenios celebrados como resultado de la mediación comunitaria prevista en las leyes de la Ciudad de México.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3432,7 +3422,7 @@ IV. Resolver, por causa justificada, sobre la remoción de Jueces y Magistrados,
 
 V. Vigilar que se cumplan las disposiciones que sobre la carrera judicial señale esta Ley, y aprobar los planes y programas del Instituto de Estudios Judiciales;
 
-> <small>(REFORMADA , G.O. 20 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
 
 VI. Conocer y resolver las quejas que no sean de carácter jurisdiccional, así como los procedimientos oficiosos contra actos u omisiones de los miembros del Consejo de la Judicatura del Distrito Federal, Magistrados, Jueces y demás servidores de la administración de Justicia, así como integrantes de las Unidades de Gestión Judicial del Sistema Procesal Penal Acusatorio, haciendo la sustanciación correspondiente y, en su caso, imponer la medida disciplinaria procedente; así como conocer y resolver las quejas a que hace referencia el Artículo 135 del Código Nacional de Procedimientos Penales;
 
@@ -3860,7 +3850,7 @@ En cualquier etapa del proceso disciplinario, se podrá acordar la suspensión t
 
 > <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
 
-La suspensión temporal cesará cuando así lo determine el Pleno del Consejo de la Judicatura o hasta que se emita en el mismo procedimiento, la resolución de primera instancia..
+La suspensión temporal cesará cuando así lo determine el Pleno del Consejo de la Judicatura o hasta que se emita en el mismo procedimiento, la resolución de primera instancia.. (sic)
 
 > <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
 
@@ -4090,7 +4080,7 @@ XIII.- Celebrar audiencia sin estar presentes todas las partes que en ella debe 
 
 XIV.- No realizar previo apercibimiento, el cumplimiento de la resolución proveniente del procedimiento de queja a que se refiere los Artículos 215 Bis a 215 Bis 5 de esta Ley Orgánica;
 
-XV.-Las demás que le confiera (sic) las leyes, reglamentos y acuerdos del Consejo de la Judicatura del Distrito Federal.
+XV.- Las demás que le confiera (sic) las leyes, reglamentos y acuerdos del Consejo de la Judicatura del Distrito Federal.
 
 (ADICIONADO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 1 DE JULIO DE 2003)
 
@@ -5015,3 +5005,23 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Se derogan todas las disposiciones contrarias a este Decreto.
+
+G.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE CONTIENE LAS OBSERVACIONES AL DIVERSO POR EL QUE SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Secretaría de Finanzas incluirá en el Programa Operativo de la Administración Pública de la Ciudad de México para el ejercicio 2017, la dotación de los recursos humanos así como los servicios y equipo necesarios, conforme a las disponibilidades presupuestales, a partir de la propuesta que le formule la Consejería Jurídica y de Servicios Legales, para el cumplimiento de las atribuciones que le confiere el presente decreto.
+
+CUARTO. Los mediadores comunitarios en activo en las Delegaciones Políticas con diploma expedido por el Tribunal Superior de Justicia de la Ciudad de México, deberán someterse obligatoriamente a un procedimiento de capacitación y actualización en razón de la entrada en vigor del presente decreto para tener derecho a ser certificados y registrados por la Consejería Jurídica y de Servicios Legales.
+
+QUINTO. La Dirección Ejecutiva de Justicia Cívica, elaborará los Lineamientos de Justicia Cívica, en un término de seis meses, contados a partir de la entrada en vigor del presente Decreto, recopilando las circulares emitidas, los cuales deberán de ser actualizados periódicamente.
+
+SEXTO. En un término de seis meses, contados a partir de la entrada en vigor del presente Decreto, se deberán de realizar las reformas correspondientes, en el Reglamento de la Ley de Cultura Cívica de la Ciudad de México.
+
+SÉPTIMO. El Tribunal Superior de Justicia de la Ciudad de México, por conducto de su Centro de Justicia Alternativa, continuará con los programas de formación de mediadores comunitarios así como en el diseño y consolidación de los programas delegacionales de mediación comunitaria en coordinación con la Dirección Ejecutiva de Justicia Cívica de la Consejería Jurídica y de Servicios Legales.
+
+OCTAVO. Se derogan las disposiciones que se opongan al presente Decreto.
