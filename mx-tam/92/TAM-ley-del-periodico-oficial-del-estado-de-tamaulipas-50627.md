@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-periodico-oficial-del-estado-de-tamaulipas-50627"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-10"
-last_updated: "2006-05-10"
+last_updated: "2017-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DEL PERIODICO OFICIAL DEL ESTADO DE TAMAULIPAS
 
-LEY DEL PERIODICO OFICIAL DEL ESTADO DE TAMAULIPAS
+LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 10 de mayo de 2006.
 
@@ -153,7 +153,7 @@ b) El Escudo de Tamaulipas;
 
 c) El nombre "PERIODICO OFICIAL";
 
-d) La leyenda impresa "ORGANO DEL GOBIERNO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULlPAS";
+d) La leyenda impresa "ORGANO DEL GOBIERNO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS";
 
 e) Los datos de autorización del Registro Postal;
 
@@ -195,7 +195,9 @@ En aquellos casos que una ley, reglamento, autoridad judicial o administrativa, 
 
 1. No se publicará documento alguno, cualquiera que sea su naturaleza jurídica, si no consta en original, debidamente firmado y sellado por aquel de quien procede.
 
-2. Para los efectos del párrafo anterior, la Dirección General de Asuntos Jurídicos de la Secretaría General de Gobierno o el responsable de la impresión del Periódico Oficial, podrá requerir al ordenante o solicitante el debido cumplimiento de las formalidades.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
+
+2. Para los efectos del párrafo anterior, la Coordinación General de Legalidad de la Secretaría General de Gobierno o el responsable de la impresión del Periódico Oficial, podrá requerir al ordenante o solicitante el debido cumplimiento de las formalidades.
 
 ###### ARTICULO 14.
 
@@ -270,3 +272,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los treinta días del mes de marzo del año dos mil seis.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION".-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-147 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS, LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS, LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS”.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
