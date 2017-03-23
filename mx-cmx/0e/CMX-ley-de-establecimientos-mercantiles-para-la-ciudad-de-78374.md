@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2015-06-08"
+last_updated: "2017-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MARZO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -262,9 +262,11 @@ Los titulares de las ventanillas únicas que operan en la Delegación, brindará
 
 DE LAS OBLIGACIONES Y PROHIBICIONES DE LOS TITULARES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 2017)</small>
+
 ###### Artículo 10.
 
-Los Titulares de los establecimientos mercantiles de bajo impacto, impacto vecinal e impacto zonal tienen las siguientes obligaciones:
+Las personas titulares de los establecimientos mercantiles de bajo impacto, impacto vecinal e impacto zonal tienen las siguientes obligaciones:
 
 Apartado A:
 
@@ -358,13 +360,23 @@ I. Exhibir en un lugar visible al público y con caracteres legibles:
 
 Información de la ubicación y números telefónicos de los sitios de taxis debidamente autorizados por la Secretaría de Transporte y Vialidad del Distrito Federal;
 
-II. Colocar en el exterior del establecimiento mercantil una placa con dimensiones mínimas de 60 por 40 centímetros con caracteres legibles que contenga:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 2017)</small>
+
+II. Colocar en el exterior del establecimiento mercantil una placa con dimensiones mínimas de 60 x 40 centímetros con caracteres legibles que contenga:
 
 a) En su caso, la especificación de que se trata de un Club Privado;
 
 b) El número telefónico y la página electrónica que establezcan las Delegaciones y el Instituto de Verificación Administrativa del Distrito Federal, para la atención de quejas ciudadanas sobre irregularidades en el funcionamiento de los establecimientos mercantiles;
 
-c) La leyenda que establezca que en el establecimiento mercantil no se discrimina el ingreso a ninguna persona;
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
+
+c) La leyenda que establezca lo siguiente:
+
+En este establecimiento NO DISCRIMINAMOS.
+
+En la CDMX se prohíbe negar, excluir o distinguir el acceso o prestación del servicio a cualquier persona o colectivo social por su origen étnico, nacional, raza, lengua, sexo, género, edad, discapacidad, condición jurídica, social o económica, identidad indígena, identidad de género, apariencia física, condiciones de salud, religión, formas de pensar, orientación o preferencia sexual, por tener tatuajes o cualquier otra razón que tenga como propósito impedir el goce y ejercicio de los derechos humanos.
+
+Acompañará a la leyenda de la que se hace mención en el párrafo inmediato anterior el número telefónico de Locatel y los logotipos del Gobierno del Distrito Federal y del Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México;
 
 d) Que no existe consumo mínimo ni la modalidad de barra libre;
 
@@ -382,7 +394,9 @@ VIII. Los establecimientos de impacto zonal, deberán tener alcoholímetros o me
 
 El titular o empleado deberá sugerirle al conductor que sea notorio su estado de ebriedad que no conduzca;
 
-IX. Los establecimientos mercantiles de impacto zonal, deberán contar con sistemas de recuperación de aguas grises y sistemas de ahorro de agua, asimismo contar con focos de bajo consumo de energía y con mingitorios de los llamados secos.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 2017)</small>
+
+IX. Los establecimientos mercantiles de impacto zonal, deberán contar con sistemas de recuperación de aguas grises y sistemas de ahorro de agua, asimismo contar con focos de bajo consumo de energía y mingitorios de los llamados secos. Los establecimientos mercantiles de impacto vecinal establecidos en las fracciones I, II, y, V del artículo 19 de esta Ley, deberán contar con muebles de baños especiales o adaptados para niñas y niños.
 
 Respecto a las botellas vacías de vinos y licores todas deberán romperse, a fin de evitar que sean comercializadas y reutilizadas para la venta de bebidas adulteradas; y
 
@@ -756,7 +770,7 @@ En los establecimientos mercantiles donde se sirvan bebidas alcohólicas al cope
 
 ###### Artículo 30.
 
-Los límites máximos permisibles para las emisiones sonoras dentro de establecimientos mercantiles se determinan en función de decibeles ponderados en A (dB(A)). Dentro de los establecimientos mercantiles los límites máximos de emisiones sonoras, sin importar su fuente, se llevará acabo dentro del rango y horarios que se indican a continuación, sin perjuicio de las obligaciones especificas que en materia de horarios establezcan estas y otras leyes:
+Los límites máximos permisibles para las emisiones sonoras dentro de establecimientos mercantiles se determinan en función de decibeles ponderados en A (dB(A)). Dentro de los establecimientos mercantiles los límites máximos de emisiones sonoras, sin importar su fuente, se llevará acabo (sic) dentro del rango y horarios que se indican a continuación, sin perjuicio de las obligaciones especificas que en materia de horarios establezcan estas y otras leyes:
 
 a) De las 6:00 a 22:00 horas 85 dB (A), y
 
@@ -1524,7 +1538,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del 
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de enero del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 14 DE FEBRERO DE 2012.
 
@@ -1595,3 +1609,15 @@ G.O. 8 DE JUNIO DE 2015.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Los logotipos se podrán descargar de la página web del COPRED para coadyuvar a la inserción de los mismos en la placa.
+
+CUARTO.- Los establecimientos mercantiles de giros de impacto vecinal e impacto zonal deberán de colocar las nuevas placas con la leyenda establecida en un término no mayor a 120 días hábiles, a partir de la publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
