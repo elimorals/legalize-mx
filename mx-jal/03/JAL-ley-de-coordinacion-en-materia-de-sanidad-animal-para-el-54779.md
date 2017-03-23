@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-en-materia-de-sanidad-animal-para-el-54779"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-22"
-last_updated: "2016-10-27"
+last_updated: "2017-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
 
 Ley publicada en la Sección IX al Periódico Oficial del Estado de Jalisco, el jueves 22 de febrero de 2007.
 
@@ -73,7 +73,7 @@ Las actividades de sanidad animal tienen como finalidad el diagnosticar y preven
 
 ###### Artículo 4.
 
-Previo convenio con la federación, el gobierno del Estado podrá llevar a cabo la supervisón, control, regulación y movilización de cualquier sustancia activa beta-agonistas o cualquier otro tipo de sustancia prohibida para uso, consumo o terminación de animales, que perjudique la salud de éstos o la humana.
+Previo convenio con la federación, el gobierno del Estado podrá llevar a cabo la supervisón (sic), control, regulación y movilización de cualquier sustancia activa beta-agonistas o cualquier otro tipo de sustancia prohibida para uso, consumo o terminación de animales, que perjudique la salud de éstos o la humana.
 
 ###### Artículo 5.
 
@@ -121,7 +121,7 @@ Ley: La Ley de Coordinación en materia de Sanidad Animal para el estado de Jali
 
 Medidas de reducción de riesgos de contaminación: Disposiciones que establecen procedimientos y criterios aplicables en el manejo de bienes de origen animal, a fin de reducir la probabilidad de contaminación;
 
-Medidas zoosanitarias: Disposiciones para prevenir, controlar o erradicar la introducción, radicación o propagación de una plaga o enfermedad, y de los riesgos provenientes de aditivos, contaminantes, toxinas, residuos de betagonista o cualquier otra sustancia prohibida y organismos causantes de enfermedades y daños que afecten a los animales y a la salud humana;
+Medidas zoosanitarias: Disposiciones para prevenir, controlar o erradicar la introducción, radicación o propagación de una plaga o enfermedad, y de los riesgos provenientes de aditivos, contaminantes, toxinas, residuos de betagonista (sic) o cualquier otra sustancia prohibida y organismos causantes de enfermedades y daños que afecten a los animales y a la salud humana;
 
 Organismos auxiliares: Aquellos autorizados por la Secretaría de Desarrollo Rural, constituidos por las organizaciones de los sectores involucrados que coadyuvan en la sanidad animal;
 
@@ -225,7 +225,7 @@ X. El Comité de Fomento y Protección Pecuaria del Estado de Jalisco, S.C.
 
 Compete a la Secretaría en lo concerniente a la sanidad animal, sin menoscabo de las otras atribuciones previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, o las establecidas por algún otro ordenamiento local, las siguientes atribuciones y obligaciones:
 
-l. Incluir en el Programa Estatal de Desarrollo Pecuario la protección a la sanidad animal y a la salud humana;
+I. Incluir en el Programa Estatal de Desarrollo Pecuario la protección a la sanidad animal y a la salud humana;
 
 II. Coordinarse en las actividades zoosanitarias con las dependencias tanto federales, estatales y municipales, los organismos auxiliares y particulares vinculados a la materia;
 
@@ -661,7 +661,7 @@ C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
 
-N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+> <small>[N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 12 DE NOVIEMBRE DE 2015.
 
@@ -669,9 +669,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. La Secretaría de Desarrollo Rural gestionará ante la Secretaría de Planeación, Administración y Finanzas, la inclusión en el proyecto de Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal 2016, los conceptos necesarios para la debida implementación de la Credencial Única Agroalimentaria.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-TERCERO. Para efectos de la implementación de la Credencial Única Agroalimentaria, el Ejecutivo Estatal mediante acuerdo determinará los plazos para la inscripción de las personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, tendrán un plazo hasta el día 31 de diciembre del año 2016 para quedar debidamente inscritas en el Registro y obtener su "Credencial Única Agroalimentaria".
+TERCERO. Para efectos de la implementación de la Credencial Única Agroalimentaria, las personas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, tendrán hasta el día 31 de julio del año 2017 para quedar debidamente inscritas en el Registro y obtener su Credencial Única Agroalimentaria.
 
 CUARTO. La Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal de 2016, deberá establecer un descuento para aquellas personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, que deseen cambiar su credencial vigente por la Credencial Única Agroalimentaria. Dicho descuento será en proporción al tiempo de vigencia que tengan las credenciales cuya renovación se lleve a cabo.
 
@@ -682,3 +682,9 @@ P.O. 27 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25897/LXI/16 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 25538/LX/2015”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26289/LXI/17 QUE REFORMA EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO 25538/LX/2015".]
+
+ÚNICO. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
