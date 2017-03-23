@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-proteccion-civil-para-el-municipio-de-valle-50303
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-28"
-last_updated: "2005-10-28"
+last_updated: "2017-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE VALLE DE SANTIAGO, GUANAJUATO
 
-REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE VALLE DE SANTIAGO, GUANAJUATO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SISTEMA MUNICIPAL DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE VALLE DE SANTIAGO, GUANAJUATO, PUBLICADO EN EL P.O. DE 23 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE VALLE DE SANTIAGO, GUANAJUATO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 28 de octubre de 2005.
 
@@ -43,7 +45,7 @@ El presente reglamento es de observancia general y obligatoria en el Municipio d
 
 ###### Artículo 2.
 
-Este reglamento tiene por objeto establecer y regular el Sistema Municipal de Protección Civil; las acciones y políticas de Protección Civil; la salvaguarda en casos de emergencia, siniestro o desastre, de las personas y la sociedad, así de como sus bienes, el entorno y el funcionamiento de los servicios públicos vitales y equipamiento estratégico.
+Este reglamento tiene por objeto establecer y regular el Sistema Municipal de Protección Civil; las acciones y políticas de Protección Civil; la salvaguarda en casos de emergencia, siniestro o desastre, de las personas y la sociedad, así de como (sic) sus bienes, el entorno y el funcionamiento de los servicios públicos vitales y equipamiento estratégico.
 
 ###### Artículo 3.
 
@@ -1215,9 +1217,9 @@ La declaratoria de emergencia tendrá validez y surtirá sus efectos desde el mo
 
 ###### Artículo 103.
 
-La Unidad Municipal de Protección Civil ante situaciones extraordinarias de esta naturaleza, coordinará las acciones de emergencia que se implementen a fin de atender las necesidades prioritarias a la población civil.
+La Unidad Municipal de Protección Civil ante situaciones extraordinarias de esta naturaleza, coordinará las acciones de emergencia que se implementen a fin de atender las necesidades prioritarias a (sic) la población civil.
 
-Estas acciones entre otras, serán en materia de protección de la vida, salud, alimentación, atención medica, vestido, albergue temporal, reestablecimiento de las vías de comunicación, limpieza de escombros y derrumbes en las calles, carreteras y caminos, así como las tendientes a la rehabilitación de las redes del servicio de energía eléctrica y agua potable para reanudar dichos servicios.
+Estas acciones entre otras, serán en materia de protección de la vida, salud, alimentación, atención medica, vestido, albergue temporal, reestablecimiento (sic) de las vías de comunicación, limpieza de escombros y derrumbes en las calles, carreteras y caminos, así como las tendientes a la rehabilitación de las redes del servicio de energía eléctrica y agua potable para reanudar dichos servicios.
 
 ###### Artículo 104.
 
@@ -1333,7 +1335,7 @@ La denuncia o reporte ciudadano podrá hacerse de manera verbal o escrita, en am
 
 ###### Artículo 118.
 
-Recibida la denuncia o reporte, la Unidad Municipal de Protección Civil ordenará la investigación correspondiente, en su caso, podrá practicar las diligencias e inspecciones necesarias levantando acta circunstanciada al respecto, a efecto de verificar y comprobar los hechos denunciados, así como decretar de manera fundada y motivada las mediadas pertinentes.
+Recibida la denuncia o reporte, la Unidad Municipal de Protección Civil ordenará la investigación correspondiente, en su caso, podrá practicar las diligencias e inspecciones necesarias levantando acta circunstanciada al respecto, a efecto de verificar y comprobar los hechos denunciados, así como decretar de manera fundada y motivada las mediadas (sic) pertinentes.
 
 #### SECCION SEGUNDA. DE LAS MEDIDAS DE SEGURIDAD
 
@@ -1496,3 +1498,15 @@ PRESIDENTE MUICIPAL (SIC)
 LIC. J. JESÚS SALMERON HERNÁNDEZ
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SISTEMA MUNICIPAL DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE VALLE DE SANTIAGO, GTO.”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO.- Se abroga el Reglamento de Protección Civil para el Municipio de Valle de Santiago, Gto., que fue publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato en fecha 28 de octubre del año 2005 y se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- El Consejo Municipal de Protección Civil deberá integrarse y entrar en funciones dentro de los sesenta días siguientes a la entrada en vigor del presente Reglamento.
