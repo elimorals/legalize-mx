@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-para-el-estado-de-coahuila-de-zaragoza-115892"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-01"
-last_updated: "2016-08-01"
+last_updated: "2017-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 1 de agosto de 2016.
 
@@ -1925,9 +1925,9 @@ f) Cuando dentro de los procesos a que se refiere este artículo exista un solo 
 
 ###### Artículo 173.
 
-(NOTA: EL 27 DE OCTUBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2016 Y SUS ACUMULADAS 79/2016, 80/2016 Y 81/2016, DECLARÓ LA INVALIDEZ DEL PÁRRAFO 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE OCTUBRE DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2017)</small>
 
-1. UNA VEZ DETERMINADOS LOS TOPES DE GASTO DE CAMPAÑA PARA LA ELECCIÓN DE QUE SE TRATE, EL CONSEJO GENERAL DEL INSTITUTO DETERMINARÁ LOS TOPES DE GASTO DE PRECAMPAÑA POR PRECANDIDATO, TOMANDO EN CONSIDERACIÓN EL TIPO DE ELECCIÓN PARA LA QUE PRETENDA SER POSTULADO. EL TOPE SERÁ EQUIVALENTE AL QUINCE POR CIENTO DEL ESTABLECIDO PARA LAS CAMPAÑAS, SEGÚN LA ELECCIÓN DE QUE SE TRATE.
+1. A más tardar, quince días antes del inicio de las precampañas, el Consejo General del Instituto determinará los topes de gasto de precampaña por precandidato, tomando en consideración el tipo de elección para la que pretenda ser postulado. El tope será el equivalente al quince por ciento del resultado que se obtenga en el procedimiento establecido en la ley, para fijar los topes de gastos de campaña, según la elección de que se trate. El Instituto podrá realizar ambos cálculos, de precampaña y campaña, en un mismo acuerdo, sin que rebase el plazo fijado en este artículo.
 
 2. El Consejo General del Instituto Nacional determinará los requisitos y plazos que cada precandidato debe cubrir al presentar su informe de ingresos y gastos de precampaña.
 
@@ -1945,7 +1945,7 @@ f) Cuando dentro de los procesos a que se refiere este artículo exista un solo 
 
 2. En caso de no hacerlo, se solicitará a las autoridades municipales el retiro de dicha propaganda, aplicando el costo de los trabajos de retiro con cargo a la ministración del financiamiento público que corresponda al partido.
 
-3. La violación a lo dispuesto por el presente artículo será sancionado (sic) en los términos del presente Código.
+3. La violación a lo dispuesto por el presente artículo será sancionado en los términos del presente Código.
 
 ### CAPÍTULO TERCERO. DE LAS CAMPAÑAS ELECTORALES
 
@@ -5503,6 +5503,10 @@ CUARTO.- Se incorporará al patrimonio del Tribunal, el presupuesto, la totalida
 
 QUINTO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2017)</small>
+
+SEXTO.- La jornada electoral, que corresponda a las elecciones ordinarias para Ayuntamientos en el año 2018, concurrente con las elecciones federales, habrá de celebrarse el primer domingo de julio de dicho año.
+
 DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila de Zaragoza, el día primero del mes de agosto del año dos mil dieciséis.
 
 DIPUTADO PRESIDENTE
@@ -5538,3 +5542,19 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 809.- SE REFORMA EL PÁRRAFO 1 DEL ARTÍCULO 173 Y SE ADICIONA UN ARTÍCULO SEXTO TRANSITORIO, AL DECRETO 518 QUE EXPIDE EL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En cumplimiento al Resolutivo Séptimo de la Sentencia dictada por el Pleno de la Suprema Corte de Justicia de la Nación, en la Acción de Inconstitucionalidad 79/2016 y sus acumuladas 79/2016, 80/2016 y 81/2016, publíquese en el Periódico Oficial del Estado, el texto íntegro de la misma sentencia, notificada a este Congreso en fecha 24 de febrero de 2017.
+
+TERCERO.- Háganse las anotaciones correspondientes, al calce de los artículos respectivos, en el texto del Código Electoral para el Estado de Coahuila, respecto a la declaración de invalidez de los artículos 10, párrafo 1, inciso f), en la porción normativa "así como carta de antecedentes penales y certificado médico de la prueba de antidoping", 20, párrafo 2, 62, párrafo 1, inciso c), 70, párrafo 3, 164, 165, 173, párrafo 1, 195, párrafos 2 y 3, 371, párrafo 1, inciso c), 385 y 388 del Código Electoral para el Estado de Coahuila de Zaragoza, numerales señalados en el Resolutivo Quinto de la Sentencia dictada por el Pleno de la Suprema Corte de Justicia de la Nación, en la Acción de Inconstitucionalidad 79/2016 y sus acumuladas 79/2016, 80/2016 y 81/2016.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+QUINTO.- Infórmese a la Suprema Corte de Justicia de la Nación de la expedición del presente decreto, dictado en cumplimiento de la sentencia de la Acción de Inconstitucionalidad 79/2016 y sus acumuladas 79/2016, 80/2016 y 81/2016.
