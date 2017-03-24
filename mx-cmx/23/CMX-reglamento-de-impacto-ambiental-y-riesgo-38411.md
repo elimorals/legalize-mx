@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-impacto-ambiental-y-riesgo-38411"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-26"
-last_updated: "2014-10-28"
+last_updated: "2017-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38411&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-10"
 
 REGLAMENTO DE IMPACTO AMBIENTAL Y RIESGO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE MARZO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 26 de marzo de 2004.
 
@@ -164,9 +164,11 @@ Compete a las Delegaciones del Distrito Federal emitir las resoluciones correspo
 
 ### CAPÍTULO II. DE LAS OBRAS O ACTIVIDADES QUE REQUIEREN AUTORIZACIÓN EN MATERIA DE IMPACTO AMBIENTAL Y RIESGO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE MARZO DE 2017)</small>
+
 ###### Artículo 6.
 
-Quienes pretendan realizar alguna de las siguientes obras o actividades, previamente a su ejecución requerirán obtener la autorización en materia de impacto ambiental de la Secretaría o Delegación en su caso:
+Quienes pretendan realizar alguna de las siguientes obras o actividades, previamente a su ejecución requerirán obtener la autorización en materia de impacto ambiental de la Secretaría:
 
 A) PROGRAMAS:
 
@@ -534,7 +536,9 @@ I. Conjuntos habitacionales que se ubiquen en cualquiera de los siguientes supue
 
 II. Conjuntos habitacionales cuyos predios que afecten barranca, cañada, suelo de conservación, cuerpo de agua o área natural protegida.
 
-K) ACTIVIDADES CONSIDERADAS RIESGOSAS, EN TÉRMINOS DE LA LEY:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE MARZO DE 2017)</small>
+
+K) ACTIVIDADES CONSIDERADAS RIESGOSAS EN TÉRMINOS DE LA LEY:
 
 I. Tratamiento y envasado de leche;
 
@@ -582,7 +586,7 @@ XXII. Fabricación de orfebrería de oro y plata;
 
 XXIII. Construcción y operación de plantas industriales;
 
-XXIV. Construcción y operación de hornos crematorios;
+XXIV. (DEROGADA. G.O. 24 DE MARZO DE 2017)
 
 XXV. Producción o elaboración y almacenamiento de explosivos relacionados con juegos pirotécnicos, cohetes y otros artículos elaborados a base de pólvora;
 
@@ -1998,7 +2002,7 @@ Séptimo.- La Secretaría instrumentará un sistema electrónico para la present
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diez días del mes de enero del año 2004.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 28 DE OCTUBRE DE 2014.
 
@@ -2009,3 +2013,11 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Aquellas personas que lleven a cabo actividades incluidas en el apartado K) fracciones XXVI y XXVII de este Reglamento bajo el amparo de una autorización de impacto ambiental otorgada con anterioridad a la entrada en vigor del presente Decreto, contarán con un término de 3 (tres) meses contados a partir de la entrada en vigor de este Decreto, para llevar a cabo la actualización del estudio de riesgo que deberá sujetarse a reporte semestral y visto bueno de la Dirección General conforme a lo dispuesto por (sic) artículo 42 Bis; el cual en lo sucesivo se someterá al procedimiento de reporte y visto bueno previsto por el Capítulo VI Bis de este Reglamento.
 
 CUARTO. Aquellas personas que lleven a cabo actividades incluidas en el apartado K) fracciones XXVI y XXVII de este Reglamento sin contar con la autorización de impacto ambiental correspondiente por no haberse requerido debido a la posterior entrada en vigor de la legislación ambiental en el Distrito Federal, deberán someter a consideración de la Dirección General el estudio de riesgo que deberá sujetarse a reporte semestral y visto bueno conforme a lo dispuesto por (sic) artículo 42 Bis dentro un término de 3 (tres) meses contados a partir de la entrada en vigor de este Decreto y, en lo sucesivo, someterse al procedimiento de reporte y visto bueno previsto por el Capítulo VI Bis de este Reglamento.
+
+G.O. 24 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE IMPACTO AMBIENTAL Y RIESGO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
