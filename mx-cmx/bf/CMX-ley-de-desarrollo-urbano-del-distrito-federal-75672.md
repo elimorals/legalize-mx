@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2017-03-23"
+last_updated: "2017-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE MARZO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -1618,11 +1618,13 @@ III. La reincidencia.
 
 En contra de las resoluciones que dicten o ejecuten las autoridades de la Administración Pública, en aplicación de esta Ley, sus reglamentos o de los instrumentos de planeación, los afectados podrán interponer el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Distrito Federal o intentar el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2017)</small>
+
 ###### Artículo 106.
 
-Las personas físicas o morales o los órganos de representación ciudadana, que se consideren afectados por construcciones, cambios de uso del suelo o cambios del destino del suelo u otros aprovechamientos de inmuebles que contravengan lo establecido en esta Ley, en su Reglamento, en el Reglamento de Construcciones para el Distrito Federal y en los Programas, podrán ejercer acción pública ante el Tribunal de lo Contencioso Administrativo del Distrito Federal.
+La acción pública es el instrumento jurídico por medio del cual el Tribunal, conoce de manera directa las situaciones fácticas o jurídicas contra los (sic) que se inconformen las personas físicas o morales que acrediten tener interés legítimo o los órganos de representación ciudadana, que se consideren afectados en su patrimonio o en su esfera jurídica, que incida directamente en la armonía de la comunidad del accionante, por construcciones, cambios de uso del suelo o cambios del destino del suelo u otros aprovechamientos de inmuebles, que contravengan lo establecido en la Ley de Desarrollo Urbano del Distrito Federal, en su Reglamento, en el Reglamento de Construcciones del Distrito Federal y en los Programas ambientales y de desarrollo urbano vigentes.
 
-Para dar trámite a la acción pública, bastará que se presente por escrito y que se indiquen los hechos, las presuntas infracciones cometidas, los datos de la autoridad o autoridades presuntamente infractoras, el nombre y domicilio del actor, así como los medios de prueba con que cuenten.
+Para dar trámite a la acción pública se deberá estar conforme a lo dispuesto en el título XVI de la Ley Orgánica del Tribunal de lo Contencioso Administrativo del Distrito Federal.
 
 ## Título Noveno. De los delitos contra la Regulación Urbana
 
@@ -1783,3 +1785,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Todas las disposiciones legales que contravengan esta reforma, se entienden como derogadas.
 
 CUARTO.- El Jefe de Gobierno tendrá ciento treinta días hábiles a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones necesarias al Reglamento de Construcciones del Distrito Federal y demás ordenamientos vinculados.
+
+G.O. 24 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE CONTIENE LAS OBSERVACIONES AL DIVERSO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL Y DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Remítase el presente Decreto al Jefe de Gobierno de la Ciudad de México, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial de la Ciudad de México.
