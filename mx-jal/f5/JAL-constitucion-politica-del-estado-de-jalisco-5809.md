@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2017-02-21"
+last_updated: "2017-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -3679,7 +3679,7 @@ P.O. 26 DE NOVIEMBRE DE 2016.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
-SEGUNDO. El Congreso del Estado dispondrá de un plazo de cuatro meses posteriores a la entrada en vigor del presente decreto, para aprobar una minuta de reforma constitucional complementaria en materia anticorrupción relativas a fiscalización superior, responsabilidades y justicia administrativa, para los efectos del artículo 117 de la Constitución Política del Estado de Jalisco.
+SEGUNDO. (DEROGADO, P.O. 24 DE MARZO DE 2017)
 
 TERCERO. El Congreso del Estado deberá expedir y armonizar la legislación secundaria al presente decreto en materia anticorrupción a más tardar el 18 de julio de 2017.
 
@@ -3690,3 +3690,9 @@ P.O. 21 DE FEBRERO DE 2017.
 PRIMERO. Envíese el presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco, para los efectos del artículo 117 de la Constitución Política del Estado de Jalisco.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 24 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26310/LXI/17, QUE DEROGA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 25886/LXI/16 Y ANEXO".]
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial El Estado de Jalisco.
