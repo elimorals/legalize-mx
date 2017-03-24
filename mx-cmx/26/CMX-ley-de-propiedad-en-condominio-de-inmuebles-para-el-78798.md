@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-propiedad-en-condominio-de-inmuebles-para-el-78798"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-27"
-last_updated: "2015-01-13"
+last_updated: "2017-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78798&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-20"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE MARZO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de enero de 2011.
 
@@ -180,17 +180,51 @@ I.- El inmueble cumpla con las características señaladas en el Artículo 3 de 
 
 II.- El número de unidades de propiedad privativa no sea superior a 120; y
 
-III.- En caso de que el proyecto original sufra modificaciones, en cuanto al número de unidades de propiedad privativas o ampliación o reducción o destino de áreas y bienes de uso común, la Asamblea General a través de la persona que la misma designe o quien constituyó el Régimen de Propiedad en Condominio tendrán la obligación de modificar la escritura constitutiva ante Notario Público en un término no mayor de seis meses contados a partir de la notificación del término de la manifestación de obra y permiso de ocupación que realice ante el Órgano Político Administrativo, conforme a lo dispuesto por el Artículo 11 de esta Ley.
+> <small>(REFORMADA, G.O. 24 DE MARZO DE 2017)</small>
+
+III.- Se obtengan previamente, de la Delegación, las licencias de construcción especial procedentes, la Cédula de Publicitación, y el registro de la Manifestación de Construcción, tipo "B" o "C";
+
+> <small>(ADICIONADA, G.O. 24 DE MARZO DE 2017)</small>
+
+IV.- Se obtengan previamente, de la Secretaría de Desarrollo Urbano y Vivienda, el Certificado Único de Zonificación de Uso del Suelo y el dictamen de impacto urbano correspondiente, y
+
+> <small>(ADICIONADA, G.O. 24 DE MARZO DE 2017)</small>
+
+V.- Se obtenga previamente, de la Secretaría del Medio Ambiente, la autorización de impacto ambiental correspondiente.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E ANTES FRACCIÓN III], G.O. 24 DE MARZO DE 2017)</small>
+
+En caso de que el proyecto original sufra modificaciones, en cuanto al número de unidades de propiedad privativas o ampliación o reducción o destino de áreas y bienes de uso común, la Asamblea General a través de la persona que la misma designe o quien constituyó el Régimen de Propiedad en Condominio tendrán la obligación de modificar la escritura constitutiva ante Notario Público en un término no mayor de seis meses contados a partir de la fecha del aviso por escrito que el propietario debe dar a la Delegación sobre la terminación de la obra ejecutada, independientemente de que la respectiva autorización de uso y ocupación haya sido o no expedida por el Órgano Político Administrativo, conforme a lo dispuesto por el Artículo 65 del Reglamento de Construcciones para el Distrito Federal y 11 de esta Ley.
+
+(REPUBLICADO, G.O. 24 DE MARZO DE 2017)
 
 En ningún caso podrá el constituyente del Régimen de Propiedad en Condominio reservarse el derecho a hacer modificaciones al proyecto, si ya se ha trasmitido la propiedad de la unidad de propiedad privativa, aun que dicha transmisión no se haya formalizado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE MARZO DE 2017)</small>
+
 ###### Artículo 9.
 
-Para constituir el Régimen de Propiedad en Condominio, el propietario o propietarios deberán manifestar su voluntad en Escritura Pública, en la cual se hará constar:
+Para constituir el Régimen de Propiedad en Condominio, se hará constar en escritura pública:
 
-> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, G.O. 24 DE MARZO DE 2017)</small>
 
-I. Que se tuvo a la vista y se agrega copia al apéndice de la escritura, la manifestación de Construcción tipo B o C y/o Licencia de construcción especial en su caso; o a falta de estás la constancia de regularización de construcción.
+l. La manifestación de voluntad del propietario o propietarios del inmueble, de constituir el régimen de propiedad en condominio;
+
+> <small>(ADICIONADA, G.O. 24 DE MARZO DE 2017)</small>
+
+I Bis. Que el notario tuvo a la vista, y que agrega copia al apéndice de la escritura, de:
+
+a) El último título de propiedad del bien, de conformidad con lo dispuesto en el artículo 102, fracción IV, de la Ley del Notariado para el Distrito Federal, o disposición legal equivalente;
+
+b) Las licencias de construcción especial procedentes;
+
+c) La Manifestación de Construcción, tipo "B" o "C", y su respectivo registro otorgado por la autoridad competente;
+
+d) El Certificado Único de Zonificación de Uso del Suelo y el dictamen de impacto urbano, que expida la Secretaría de Desarrollo Urbano y Vivienda;
+
+e) La autorización de impacto ambiental que expida la Secretaría del Medio Ambiente, y
+
+f) La copia de una póliza de fianza que el propietario del inmueble deberá entregar a la Delegación, para garantizar la conformidad de la construcción con el proyecto, y en su caso, el cumplimiento de las medidas de mitigación, compensación, o integración urbana ordenadas en el dictamen de impacto urbano o autorización de impacto ambiental correspondiente. El monto de la fianza será determinado por el titular de la Dirección General que entre sus facultades tenga la de registrar las Manifestaciones de Construcción, y deberá corresponder al avalúo comercial que emita un valuador certificado por la autoridad competente de la Ciudad de México, avalúo que deberá versar tanto sobre la edificación como sobre el terreno donde pretenda construirse. En caso de que la obra requiera de dictamen de impacto urbano o autorización de impacto ambiental, el monto de la fianza se incrementará en un 50% de la cantidad que resulte del avalúo comercial practicado. El término de la fianza, cuando la obra no requiera de dictamen de impacto urbano, corresponderá a la fecha de la autorización de uso y ocupación. El término de la fianza, cuando la obra requiera de dictamen de impacto urbano, corresponderá a la fecha en que la Secretaría de Desarrollo Urbano y Vivienda, o en su caso, la Secretaría del Medio Ambiente, declaren cumplidas las medidas ordenadas en el dictamen o autorización respectivo.
 
 II.- La descripción de cada unidad de propiedad privativa; número, ubicación, colindancias, medidas, áreas y espacios para estacionamiento de uso exclusivo, si los hubiera, que lo componen más el porcentaje de indiviso que le corresponde;
 
@@ -220,11 +254,17 @@ La Escritura Constitutiva del Régimen de Propiedad en Condominio de Inmuebles, 
 
 Cualquier modificación a la Escritura Constitutiva y su Reglamento Interno, se acordará en Asamblea General Extraordinaria, a la que deberán asistir por lo menos la mayoría simple de los condóminos; sin embargo, para su modificación se deberá requerir un mínimo de votos que representen el 75 % del valor total del condominio. En caso de que alguno de los instrumentos mencionados sufra alguna modificación, éste deberá ser notificado a la Procuraduría.
 
-> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, G.O. 24 DE MARZO DE 2017)</small>
 
 ###### Artículo 12.
 
-En toda escritura de adquisición de una unidad de propiedad privativa, se hará constar que se entregó al interesado una copia simple de la Escritura Constitutiva y Reglamento Interno, asimismo que tiene conocimiento pleno de lo señalado en el artículo 28 de esta Ley.
+En toda escritura pública que contenga un contrato de adquisición de una unidad de propiedad privativa, el notario deberá:
+
+l. Relacionar la escritura pública constitutiva del Régimen de Propiedad en Condominio, y citar los datos de su inscripción en el Registro Público de la Propiedad y de Comercio, de conformidad con lo dispuesto en el artículo 102, fracción IV, de la Ley del Notariado para el Distrito Federal, o disposición legal equivalente;
+
+II. Entregar al interesado una copia simple de la escritura pública constitutiva del Régimen de Propiedad en Condominio y copia simple del Reglamento Interno del condominio, y hacer constar la entrega de cada uno de esos documentos, y
+
+III. Leerle al interesado los artículos 7, 16, 28, 86 y 87 de esta Ley, y hacer constar que le fueron leídos y que tiene conocimiento pleno de lo señalado en esos preceptos.
 
 ###### Artículo 13.
 
@@ -391,6 +431,20 @@ Para la ejecución de obras en las áreas y bienes de uso común e instalaciones
 I.- Las obras necesarias para mantener el condominio en buen estado de seguridad, estabilidad y conservación, y para que los servicios funcionen normal y eficazmente, se efectuarán por el Administrador previa manifestación de construcción tipo B o C, en su caso, de las autoridades competentes de la administración pública, de conformidad con la Asamblea General, con cargo al fondo de gastos de mantenimiento y administración debiendo informar al respecto en la siguiente Asamblea General. Cuando este fondo no baste o sea preciso efectuar obras no previstas, el Administrador convocará a Asamblea General Extraordinaria, a fin de que, conforme lo prevenga el reglamento, resuelva lo conducente;
 
 II.- Para realizar obras que se traduzcan en mejor aspecto o mayor comodidad, que no aumenten el valor del condominio u obras que sin ser necesarias si lo aumenten, previa convocatoria de acuerdo a lo establecido en artículo 34 de la presente Ley;
+
+> <small>(REFORMADA, G.O. 24 DE MARZO DE 2017)</small>
+
+III. El propietario o propietarios del condominio, en caso de enajenación, responderán por el saneamiento para el caso de evicción;
+
+> <small>(ADICIONADA, G.O. 24 DE MARZO DE 2017)</small>
+
+III Bis. Tratándose de construcciones nuevas y de construcciones en proyecto, el propietario o propietarios originales del condominio serán responsables por los defectos o vicios ocultos de las construcciones, extinguiéndose las acciones correspondientes hasta la modificación o demolición, según sea el caso, del área afectada de la construcción de que se trate. También serán responsables por el incumplimiento de las medidas ordenadas en el dictamen de impacto urbano o autorización de impacto ambiental respectivo, en cuyo caso las acciones correspondientes se extinguirán al cabo de diez años contados a partir de la fecha de la autorización de uso y ocupación de la edificación cuya construcción dio lugar al dictamen o autorización que hubiere dispuesto tales medidas.
+
+Si el propietario fuere una persona jurídica, cada socio que la integre, o cada persona física que la hubiere integrado disuelta que fuere, asumirá individualmente la responsabilidad que por su naturaleza a cada uno le resulte aplicable; en caso de fallecimiento, la responsabilidad la asumirá su respectivo patrimonio representado por el albacea correspondiente, o en su caso, su heredero;
+
+> <small>(ADICIONADA, G.O. 24 DE MARZO DE 2017)</small>
+
+III Ter. Cuando las acciones de responsabilidad a las que se refiere la fracción anterior, se ejerzan dentro de los tres años siguientes a la entrega del área afectada, se tendrá en cuenta la póliza de fianza prevista en el artículo 9, fracción I Bis, inciso f), de esta Ley; cuando las acciones se ejerzan después del plazo indicado, la indemnización se calculará conforme a la inflación, con base en el Índice Nacional de Precios al Consumidor;
 
 III.- El propietario o propietarios del condominio en caso de enajenación, responderán por el saneamiento para el caso de evicción. Tratándose de construcciones nuevas, el propietario o propietarios originales del condominio, serán responsables por los defectos o vicios ocultos de las construcciones, extinguiéndose las acciones correspondientes a los tres años posteriores a la entrega del área afectada;
 
@@ -1429,3 +1483,13 @@ G.O. 13 DE ENERO DE 2015.
 PRIMERO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 24 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE CONTIENE LAS OBSERVACIONES RESPECTO DEL DIVERSO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El Ejecutivo Local contará con un plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para adecuar a sus disposiciones las respectivas del Reglamento de la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal y el Reglamento de Construcciones para el Distrito Federal.
+
+TERCERO. Remítase el presente Decreto al Jefe de Gobierno del Distrito Federal, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial del Distrito Federal.
