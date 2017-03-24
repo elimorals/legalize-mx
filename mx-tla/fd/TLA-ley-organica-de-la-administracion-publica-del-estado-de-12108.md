@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "2015-12-30"
+last_updated: "2017-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TLA"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TLAXCALA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS QUINTO, SÉPTIMO Y DÉCIMO SEXTO TRANSITORIOS DEL DECRETO NÚMERO 177, PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 5 DE JULIO DE 2013, CUANDO EN OTROS ORDENAMIENTOS JURÍDICOS SE MENCIONE A LA SECRETARÍA DE TURISMO SE ENTENDERÁ QUE SE HACE REFERENCIA A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO; CUANDO SE REFIERA A LA COORDINACIÓN DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE TLAXCALA Y A LA SECRETARÍA DE TURISMO, SE ENTENDERÁ ASIGNADO A LA SECRETARÍA DE PLANEACIÓN Y FINANZAS Y A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO, RESPECTIVAMENTE; LAS MENCIONES RESPECTO DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA Y DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO, SE ENTENDERÁN REFERIDAS A LOS ÓRGANOS QUE INTEGRARÁN EL DESPACHO DEL GOBERNADOR DEL ESTADO.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -36,8 +38,6 @@ Que por conducto de la Secretaría del Honorable Congreso del Estado, se me ha c
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA.
 
 NUMERO 162
-
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS QUINTO, SÉPTIMO Y DÉCIMO SEXTO TRANSITORIOS DEL DECRETO NÚMERO 177, PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 5 DE JULIO DE 2013, CUANDO EN OTROS ORDENAMIENTOS JURÍDICOS SE MENCIONE A LA SECRETARÍA DE TURISMO SE ENTENDERÁ QUE SE HACE REFERENCIA A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO; CUANDO SE REFIERA A LA COORDINACIÓN DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE TLAXCALA Y A LA SECRETARÍA DE TURISMO, SE ENTENDERÁ ASIGNADO A LA SECRETARÍA DE PLANEACIÓN Y FINANZAS Y A LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO, RESPECTIVAMENTE; LAS MENCIONES RESPECTO DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA Y DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO, SE ENTENDERÁN REFERIDAS A LOS ÓRGANOS QUE INTEGRARÁN EL DESPACHO DEL GOBERNADOR DEL ESTADO.</small>
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TLAXCALA
 
@@ -153,7 +153,9 @@ Secretaría de Gobierno
 
 Secretaría de Planeación y Finanzas
 
-Secretaría de Turismo y Desarrollo Económico
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2017)</small>
+
+Secretaría de Desarrollo Económico
 
 Secretaría de Obras Públicas Desarrollo Urbano y Vivienda
 
@@ -164,6 +166,14 @@ Secretaría de Salud
 Secretaría de Comunicaciones y Transportes
 
 Secretaría de Fomento Agropecuario
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MARZO DE 2017)</small>
+
+Secretaría de Turismo
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MARZO DE 2017)</small>
+
+Secretaría de Políticas Públicas y Participación Ciudadana
 
 Procuraduría General de Justicia
 
@@ -603,73 +613,39 @@ k) Las demás que le confiera el Ejecutivo del Estado y otras disposiciones lega
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2017)</small>
 
-SECRETARIA DE TURISMO Y DESARROLLO ECONOMICO
+SECRETARIA DE DESARROLLO ECONOMICO
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 33.
 
-La Secretaría de Turismo y Desarrollo Económico es la encargada de conducir en coordinación con las autoridades federales del ramo, las políticas y programas de desarrollo turístico y desarrollo económico que comprenda lo relacionado a la inversión, la producción, la distribución de la industria, su fomento y consolidación en el Estado de Tlaxcala.
+La Secretaría de Desarrollo Económico es la encargada de conducir, en coordinación con las autoridades federales del ramo, las políticas y programas de desarrollo económico que comprenda lo relacionado a la inversión, la producción, la distribución de la industria, su fomento y consolidación en el Estado de Tlaxcala.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 34.
 
-A la Secretaría de Turismo y Desarrollo Económico, le corresponde el despacho de los asuntos siguientes:
-
-I. EN MATERIA DE TURISMO:
-
-a) Elaborar y ejecutar los programas de promoción, fomento y desarrollo del turismo en el Estado;
-
-b) Promover el desarrollo de la infraestructura turística y estimular la participación de los sectores social y privado en esta actividad; así como proponer al Gobernador del Estado, la declaración de zonas turísticas y elaborar los proyectos de reglamento correspondientes;
-
-c) Organizar espectáculos, congresos, excursiones, audiciones, ferias, representaciones artísticas y todos los eventos culturales, tradicionales y folklóricos para atraer al turismo nacional y extranjero a la entidad, difundiendo la riqueza cultural, artesanal y artística del Estado de Tlaxcala; así como concertar con los prestadores de servicios turísticos la integración de una oferta conjunta y de calidad que permita incrementar la afluencia y la estancia de los visitantes a la entidad;
-
-d) Promover la conservación adecuada y la protección del medio ambiente, natural y cultural especialmente en las zonas de mayor relevancia turística en el Estado; gestionar la ejecución de obras y la creación de infraestructura básica y turística, con la participación de los tres niveles de gobierno y de los sectores sociales y privados;
-
-e) Elaborar, promover y organizar programas de capacitación, investigación y desarrollo para los servicios turísticos;
-
-f) Elaborar, coordinar y supervisar el desarrollo de programas de planeación y evaluación turística dentro del Estado;
-
-g) Promover la coordinación de los prestadores de servicios turísticos;
-
-h) Auxiliar a las autoridades federales en la vigilancia de la aplicación de los precios y tarifas autorizadas y registradas en la prestación de los servicios turísticos, conforme a las disposiciones legales aplicables;
-
-i) Estimular la formación de asociaciones, comités, patronatos y otras organizaciones de carácter público, privado, social y mixto de naturaleza turística;
-
-j) Regular, orientar y estimular las medidas de protección al turismo y vigilar su cumplimiento, en coordinación con los organismos del Gobierno Federal;
-
-k) Promover y facilitar el intercambio y desarrollo turístico nacional e internacional, que tenga como destino turístico el Estado de Tlaxcala, en coordinación con las autoridades competentes;
-
-l) Proporcionar al turismo la información, orientación y auxilio que le asiste, de acuerdo con esta Ley y con las disposiciones relativas aplicables;
-
-m) Formular y difundir la información oficial en materia de turismo;
-
-n) Llevar estadísticas de los servicios, sitios visitantes y demás relacionados con el turismo en el Estado de Tlaxcala, e
-
-o) Las demás que le confiera el Ejecutivo del Estado.
-
-II. EN MATERIA DE DESARROLLO ECONÓMICO:
+A la Secretaría de Desarrollo Económico, le corresponde el despacho de los asuntos siguientes:
 
 a) Planear y prever las necesidades para el establecimiento de la expansión industrial, procurando un adecuado equilibrio entre la actividad industrial y otras actividades que se realicen en el Estado;
 
-b) Impulsar en coordinación con las Entidades del Gobierno Federal, la producción industrial en el Estado;
+b) Impulsar, en coordinación con las Entidades del Gobierno Federal, la producción industrial en el Estado;
 
 c) Apoyar el desenvolvimiento de las empresas establecidas en el Estado;
 
 d) Fomentar y promover, incentivar y estimular el establecimiento de la infraestructura en el Estado, para el desarrollo de la industria;
 
-e) Promover y en su caso, organizar la investigación, capacitación y mejoramiento de la tecnología industrial;
+e) Promover y, en su caso, organizar la investigación, capacitación y mejoramiento de la tecnología industrial;
 
-f) Asesorar, estimular y en su caso auxiliar en los trámites necesarios para el establecimiento de nuevas industrias;
+f) Asesorar, estimular y, en su caso, auxiliar en los trámites necesarios para el establecimiento de nuevas industrias;
 
-g) Fomentar y estimular e integrar la pequeña y mediana industria;
+g) Fomentar, estimular e integrar la pequeña y mediana industria;
 
 h) Organizar y patrocinar exposiciones, ferias, congresos y eventos para el mayor desarrollo industrial;
 
-i) Analizar, evaluar y proponer y concertar acciones de colaboración entre los sectores público y privado en materia de desarrollo, productividad y competitividad de la planta y cadenas productivas en el Estado;
+i) Analizar, evaluar, proponer y concertar acciones de colaboración entre los sectores público y privado en materia de desarrollo, productividad y competitividad de la planta y cadenas productivas en el Estado;
 
 j) Establecer mecanismos de coordinación de acciones entre las dependencias del sector público y los organismos del sector privado en materia de desarrollo económico;
 
@@ -681,7 +657,7 @@ m) Participar en la mejora regulatoria y la simplificación administrativa;
 
 n) Promover la definición de los estímulos y apoyos necesarios a fin de facilitar el establecimiento y operación de las empresas, atendiendo tanto a criterios de generación de empleo como de calidad estratégica y prioritaria;
 
-o) Impulsar la modernización empresarial, particularmente a las micros, pequeñas y medianas empresas, a fin de mejorar sus procesos productivos, comerciales y de servicios con el propósito de coadyuvar a la penetración y permanencia de más y mejores productos tlaxcaltecas en el mercado Estatal, Nacional e Internacional, e
+o) Impulsar la modernización empresarial, particularmente a las micros, pequeñas y medianas empresas, a fin de mejorar sus procesos productivos, comerciales y de servicios con el propósito de coadyuvar a la penetración y permanencia de más y mejores productos elaborados en el Estado, en el mercado Estatal, Nacional e Internacional, e (sic)
 
 p) Las demás que le señalen las disposiciones legales aplicables.
 
@@ -925,25 +901,83 @@ XV.- Las demás que le confiera el ejecutivo del Estado.
 
 SECRETARIA DE TURISMO
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 43.
 
-(DEROGADO, P.O. 5 DE JULIO DE 2013)
+La Secretaría de Turismo es la encargada de conducir, en coordinación con las autoridades federales y estatales del ramo, las políticas y programas de desarrollo turístico en el Estado de Tlaxcala.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 44.
 
-(DEROGADO, P.O. 5 DE JULIO DE 2013)
+A la Secretaría de Turismo le corresponde el despacho de los asuntos siguientes:
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES CONTRALORIA] Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+a) Elaborar y ejecutar los programas de promoción, fomento y desarrollo del turismo en el Estado;
 
-SECRETARIA DE LA FUNCION PUBLICA
+b) Promover el desarrollo de la infraestructura turística y estimular la participación de los sectores social y privado en esta actividad; así como proponer al Gobernador del Estado, la declaración de zonas turísticas y elaborar los proyectos de reglamento correspondientes;
+
+c) Organizar espectáculos, congresos, excursiones, audiciones, ferias, representaciones artísticas y todos los eventos culturales, tradicionales y folklóricos para atraer al turismo nacional y extranjero a la Entidad, difundiendo la riqueza cultural, artesanal y artística del Estado de Tlaxcala, así como concertar con los prestadores de servicios turísticos la integración de una oferta conjunta y de calidad que permita incrementar la afluencia y la estancia de los visitantes a la Entidad;
+
+d) Promover la conservación adecuada y la protección del medio ambiente, natural y cultural especialmente en las zonas de mayor relevancia turística en el Estado; gestionar la ejecución de obras y la creación de infraestructura básica y turística, con la participación de los tres órdenes de gobierno y de los sectores social y privado;
+
+e) Fomentar la responsabilidad social empresarial en el sector turístico, como parte del compromiso de las autoridades con la promoción del desarrollo sostenible;
+
+f) Promover el respeto a los territorios de población indígena y fomentar su integración en proyectos turísticos;
+
+g) Incentivar alianzas entre empresarios, operadores y comunidad en general, con la finalidad de que el desarrollo del sector turístico sea participativo e inclusivo, para garantizar la eficacia de la estrategia integral;
+
+h) Elaborar, promover y organizar programas de capacitación, investigación y desarrollo para los servicios turísticos;
+
+i) Elaborar, coordinar y supervisar el desarrollo de programas de planeación turística dentro del Estado;
+
+j) Promover la coordinación de los prestadores de servicios turísticos;
+
+k) Auxiliar a las autoridades federales en la vigilancia de la aplicación de los precios y tarifas autorizadas y registradas en la prestación de los servicios turísticos, conforme a las disposiciones legales aplicables;
+
+l) Estimular la formación de asociaciones, comités, patronatos y otras organizaciones de carácter público, privado, social y mixto de naturaleza turística;
+
+m) Regular, orientar y estimular las medidas de protección al turismo y vigilar su cumplimiento, en coordinación con los organismos del Gobierno Federal;
+
+n) Promover y facilitar el intercambio y desarrollo turístico nacional e internacional, que tenga como destino turístico el Estado de Tlaxcala, en coordinación con las autoridades competentes;
+
+o) Proporcionar a los turistas la información, orientación y auxilio que le asiste, de acuerdo con esta Ley y con las disposiciones relativas aplicables;
+
+p) Formular y difundir la información oficial en materia de turismo;
+
+q) Llevar estadísticas de los servicios, sitios visitantes y demás relacionados con el turismo en el Estado de Tlaxcala, e (sic)
+
+r) Las demás que le confiera el Poder Ejecutivo del Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2017)</small>
+
+SECRETARIA DE POLITICAS PUBLICAS Y PARTICIPACION CIUDADANA
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 45.
 
-(DEROGADO, P.O. 5 DE JULIO DE 2013)
+La Secretaría de Políticas Publicas y Participación Ciudadana es la encargada de coordinar, proponer y sugerir, en coordinación con las demás dependencias de la administración pública, la implementación de las políticas públicas que sean necesarias para el mejor desempeño del Gobierno del Estado de Tlaxcala.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 46.
 
-(DEROGADO, P.O. 5 DE JULIO DE 2013)
+A la Secretaría de Políticas Públicas y Participación Ciudadana le corresponde el despacho de los asuntos siguientes:
+
+a) Coordinar y realizar diagnósticos, estudios, análisis y propuestas para la atención de problemas públicos que atañen a la población del Estado, con el objeto de fomentar la innovación en la formulación e implementación de las políticas públicas;
+
+b) Llevar a cabo consultas ciudadanas, foros y establecer mecanismos que fomenten la participación de los ciudadanos en las decisiones de gobierno, coadyuvando en estas tareas con otras dependencias y entidades de la administración pública estatal;
+
+c) Realizar la vinculación con centros de estudios privados, dependencias y organismos federales, estatales y municipales, así como con organismos internacionales y entidades públicas y privadas internacionales para el intercambio de información, mejores prácticas y la realización colaborativa de estudios y análisis de políticas públicas;
+
+d) Generar reportes y mecanismos de consulta para divulgar la información estadística del Estado de Tlaxcala;
+
+e) Sugerir al Gobierno del Estado nuevas políticas públicas o reformas a las existentes con el objetivo de mejorar el impacto de las acciones emprendidas por el Gobierno;
+
+f) Coadyuvar al Gobierno del Estado en su interacción con otros Poderes del Estado y otros actores sociales en lo concerniente al diseño, implementación y evaluación de políticas públicas, e (sic)
+
+g) Las demás que le confiera el Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -1460,3 +1494,53 @@ El presente Decreto entrará en vigor el día hábil siguiente al de su publicac
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 24 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 8.- POR EL QUE SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto el Gobernador del Estado, a través de las instancias competentes, reorganizará la estructura de las Dependencias, para la creación, fusión o disolución de las unidades administrativas que se estimen necesarias.
+
+###### ARTÍCULO TERCERO.
+
+Las unidades administrativas de la Secretaría de Turismo y Desarrollo Económico que pasen a la Secretaría de Turismo o a la Secretaría de Desarrollo Económico, con motivo de lo establecido en el presente Decreto, se transferirán incluyendo los recursos humanos que sean necesarios, así como los financieros y materiales que la unidad administrativa haya utilizado para la atención de los asuntos que conoció.
+
+###### ARTÍCULO CUARTO.
+
+Cuando se mencione a la Secretaría de Turismo y Desarrollo Económico en otros ordenamientos jurídicos se entenderá que se hace referencia a la Secretaría de Turismo o de Desarrollo Económico, conforme a la competencia que a cada una se le otorga, de conformidad con este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos en trámite, así como los juicios, recursos y procedimientos que con motivo de la entrada en vigor de este Decreto deban pasar de una Dependencia o Entidad a otra, continuarán tramitándose por las unidades administrativas de la Dependencia o instancia que la sustituya.
+
+###### ARTÍCULO SEXTO.
+
+Todo instrumento legal, jurídico o administrativo en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a la Secretaría de Turismo y Desarrollo Económico, por virtud del mismo, se entenderá asignado a la Secretaría de Turismo o Secretaría de Desarrollo Económico, conforme a la competencia que a cada una se le otorga, de conformidad con este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los derechos y obligaciones contractuales contraídos por la Secretaría de Turismo y Desarrollo Económico serán atribuidos a la Secretaría de Turismo o a la Secretaría de Desarrollo Económico, conforme a la competencia que a cada una se le otorga, de conformidad con este Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La Secretaría de Planeación y Finanzas del Gobierno del Estado queda facultada para realizar las transferencias o resectorización presupuestarias y la adscripción de los recursos humanos que sean necesarios para la debida observancia de este Decreto, con la intervención que le corresponda a la Oficialía Mayor de Gobierno, así como para realizar las adecuaciones a los ramos, programas de inversión y programas operativos que se requieran para el Presupuesto de Egresos del ejercicio fiscal en curso y subsecuentes, debiendo integrar en la cuenta pública correspondiente el informe sobre el uso que haga de esta facultad.
+
+###### ARTÍCULO NOVENO.
+
+El Gobernador del Estado de Tlaxcala expedirá los reglamentos y acuerdos administrativos para mejor proveer el presente Decreto dentro de los ciento veinte días siguientes a su entrada en vigor.
+
+En tanto no se realicen las reformas a que se refiere el párrafo anterior, las dependencias señaladas en este Decreto seguirán aplicando los reglamentos vigentes en todo aquello que no lo contravengan.
+
+###### ARTÍCULO DÉCIMO.
+
+Las obligaciones laborales de la Secretaría de Turismo y Desarrollo Económico serán asumidas por los órganos o unidades administrativas de readscripción, respetando los derechos de los trabajadores, en términos de las disposiciones legales aplicables.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al contenido de este Decreto.
