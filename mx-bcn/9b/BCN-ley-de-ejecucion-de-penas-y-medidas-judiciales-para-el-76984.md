@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-penas-y-medidas-judiciales-para-el-76984"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2015-10-23"
+last_updated: "2017-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DE LA DECLARATORIA EXPEDIDA POR LA H. XXII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 24 DE MARZO DE 2017, "EL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, EMITE LA DECLARATORIA PARA EL INICIO DE LA VIGENCIA DE LA LEY NACIONAL DE EJECUCIÓN PENAL EN EL TERRITORIO DEL ESTADO DE BAJA CALIFORNIA".]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2015, LAS MENCIONES QUE SE HAGA RESPECTO A LA SUBPROCURADURÍA CONTRA LA DELINCUENCIA ORGANIZADA, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO.</small>
+LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
 
@@ -1664,3 +1664,19 @@ Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada par
 P.O. 23 DE OCTUBRE DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado
+
+P.O. 24 DE MARZO DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA DECLARATORIA PARA INICIO DE LA VIGENCIA DE LA LEY NACIONAL DE EJECUCIÓN PENAL EN EL TERRITORIO DEL ESTADO DE BAJA CALIFORNIA.]</small>
+
+DECLARATORIA
+
+ÚNICO.- El Congreso del Estado de Baja California, emite la declaratoria para el inicio de la vigencia de la Ley Nacional de Ejecución Penal en el territorio del Estado de Baja California, en los siguientes términos:
+
+PRIMERO.- Se declara la vigencia de la Ley Nacional de Ejecución Penal en el territorio del Estado de Baja California, en los términos establecidos en los artículos Primero y Segundo Transitorio, cumplimentando el trámite legislativo y procesal correspondiente.
+
+## TRANSITORIOS
+
+PRIMERO.- Ordénese la publicación del presente decreto en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Remítase copia de la presente declaratoria al Poder Judicial del Estado; así como a los H. Ayuntamientos del Estado; Entidades Federativas y Congreso de la Unión para su conocimiento.
