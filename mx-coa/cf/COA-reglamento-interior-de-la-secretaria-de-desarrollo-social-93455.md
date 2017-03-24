@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-desarrollo-social-93455
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-22"
-last_updated: "2017-03-14"
+last_updated: "2017-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2017.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 22 de marzo de 2013.
 
@@ -1221,6 +1221,66 @@ XI. Organizar, compilar y coordinar los expedientes unitarios de los programas d
 
 XII. Elaborar, revisar, recopilar e integrar la documentación comprobatoria de la operación de los programas de su competencia.
 
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XIII. Establecer en el ámbito de su competencia las políticas y procedimientos para la celebración de contratos y convenios adicionales o modificatorios de las obras públicas y servicios relacionados con las mismas, de conformidad con las disposiciones jurídicas que a cada caso correspondan;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XIV. Coordinar y operar la unidad de enlace con el sistema electrónico de contrataciones gubernamentales, para programar, elaborar y difundir las convocatorias, bases de licitación y demás documentación relativa para contratar las obras públicas y servicios relacionados con las mismas que lleve a cabo la Secretaría;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XV. Programar, realizar, elaborar y firmar las licitaciones y concursos, para contratar las obras públicas y servicios relacionados con las mismas, de responsabilidad de la Secretaría, revisando que la documentación cumpla con las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XVI. Emitir las convocatorias de los procedimientos de contratación de obras a realizar por la Secretaría, para su publicación en el Diario Oficial de la Federación, el Periódico Oficial del Gobierno del Estado y en los diarios de mayor circulación de la entidad, según corresponda de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XVII. Realizar y presidir los procedimientos de contratación, licitaciones y los concursos, levantando las actas correspondientes, así como emitir dictamen y adjudicar los contratos de obra pública, conforme a las leyes de la materia y a las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XVIII. Proporcionar información de las convocatorias, concursos realizados y contrataciones realizadas a las instancias competentes;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XIX. Formular y elaborar las solicitudes de cotización para contratar por adjudicación directa, las obras públicas y servicios relacionados con las mismas;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XX. Formular y suscribir los contratos y los convenios adicionales o modificatorios de obra, adquisiciones y servicios de la Secretaría de conformidad con las disposiciones jurídicas de la materia, verificando que se hayan cubierto los requerimientos para su autorización;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XXI. Dirigir las actividades de recepción, registro, revisión, evaluación y seguimiento de documentos que deberán quedar integrados como anexos a los diversos contratos y convenios adicionales o modificatorios en que participe la Secretaría;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XXII. Elaborar el informe relativo a la estadística y registro de licitaciones, concursos, contratos y convenios adicionales o modificatorios adjudicados por la Secretaría;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XXIII. Tramitar, en el ámbito de su competencia, la cancelación de las fianzas de anticipo y de cumplimientos de contratos y convenios cuando proceda, de acuerdo a lo previsto en los contratos y convenios correspondientes, así como exigir el cumplimiento de contratos de obra por los contratista (sic) y proveedores de servicios de obra pública;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XXIV. Participar en los procedimientos de rescisión de contratos en los términos de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XXV. Inscribir a los contratistas o proveedores participantes en cada concurso, siempre que hubieran cumplido con los requisitos establecidos del procedimiento de contratación correspondiente;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XXVI. Integrar los expedientes de las licitaciones, concursos y contratos, verificando que cuenten con toda la documentación requerida y el control del archivo correspondiente;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2017)</small>
+
+XXVII. Proporcionar información de las convocatorias, concursos realizados y contrataciones realizadas, a la Unidad de Transparencia de la Secretaría.
+
 ###### Artículo 38.
 
 Corresponde a la Dirección General de Supervisión, de la Subsecretaría de Infraestructura Social, las facultades y obligaciones siguientes:
@@ -1511,13 +1571,11 @@ SEGUNDO. Los asuntos pendientes al entrar en vigor el presente Decreto y que con
 
 TERCERO. "La Subsecretaría de Desarrollo Social de la Región Centro Desierto contará con un o una Titular y los recursos humanos, materiales y financieros que le sean autorizados conforme a las disposiciones legales aplicables.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1591.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
+P.O. 24 DE MARZO DE 2017.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
-SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal que se opongan a lo dispuesto en el presente Decreto.
-
-P.O. 20 DE ABRIL DE 2019.
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 596.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
 
