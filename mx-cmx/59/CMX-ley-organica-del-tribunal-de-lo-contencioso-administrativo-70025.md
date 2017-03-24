@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-de-lo-contencioso-administrativo-7002
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-10"
-last_updated: "2014-11-28"
+last_updated: "2017-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70025&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-28"
 
 LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE MARZO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de septiembre de 2009.
 
@@ -442,7 +442,13 @@ XI. De las resoluciones que dicten negando a las personas físicas o morales la 
 
 El particular podrá optar por esta vía o acudir ante la instancia judicial competente; y
 
-XII. De los demás que expresamente señalen ésta u otras Leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE MARZO DE 2017)</small>
+
+XII. La acción pública promovida por personas físicas o morales que acrediten tener interés legítimo o los órganos de representación vecinal por presuntas violaciones a cambios de uso del suelo o cambios del destino del suelo u otros aprovechamientos de inmuebles; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 24 DE MARZO DE 2017)</small>
+
+XIII. De los demás que expresamente señalen ésta u otras Leyes.
 
 > <small>(REFORMADO, G.O. 24 DE JULIO DE 2012)</small>
 
@@ -1278,7 +1284,13 @@ IX. Cuando hubieren cesado los efectos de los actos o resoluciones impugnados, o
 
 X. Contra actos o resoluciones que deban ser revisados de oficio por las autoridades administrativas del Distrito Federal, y dentro del plazo legal establecido para tal efecto; y
 
-XI. En los demás casos en que la improcedencia esté establecida en algún otro precepto de esta Ley.
+> <small>(ADICIONADA, G.O. 24 DE MARZO DE 2017)</small>
+
+XI. Contra actos o resoluciones que se hayan emitido en cumplimiento de sentencia de la acción pública;
+
+(REUBICADA, G.O. 24 DE MARZO DE 2017)
+
+XII. En los demás casos en que la improcedencia esté establecida en algún otro precepto de esta Ley.
 
 Las causas de improcedencia son de estudio preferente, deberán quedar probadas plenamente y se analizarán de oficio o a petición de parte.
 
@@ -1676,6 +1688,126 @@ Si la sentencia ordena la reposición del procedimiento administrativo o realiza
 
 A falta de disposición expresa que establezca el plazo respectivo en la vía sumaria, se aplicará el de tres días.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE MARZO DE 2017)</small>
+
+## TITULO XVI. DE LA ACCIÓN PÚBLICA
+
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2017)</small>
+
+###### ARTÍCULO 162.
+
+La acción pública es el instrumento jurídico por medio del cual el Tribunal, conoce de manera directa las situaciones fácticas o jurídicas contra los que se inconformen las personas físicas o morales que acrediten tener interés legítimo o los órganos de representación ciudadana, que se consideren afectados en su patrimonio o en su esfera jurídica, que incida directamente en la armonía de la comunidad del accionante, por construcciones, cambios de uso del suelo o cambios del destino del suelo u otros aprovechamientos de inmuebles, que contravengan lo establecido en la Ley de Desarrollo Urbano del Distrito Federal, en su Reglamento, en el Reglamento de Construcciones del Distrito Federal y en los Programas ambientales y de desarrollo urbano vigentes.
+
+La acción pública se interpondrá por escrito dirigido al Tribunal dentro de los cuarenta y cinco días hábiles siguientes a la fecha en que se tuvo conocimiento de las situaciones fácticas o jurídicas previstas en el párrafo anterior, y deberá contener los siguientes requisitos formales:
+
+I. Nombre del accionante o en su caso, de quien promueva en su nombre; debiendo señalar domicilio para recibir notificaciones dentro de la Ciudad de México;
+
+II. Indicar una relación sucinta de los hechos que motivaron el inicio de la acción pública;
+
+III. Señalar las presuntas infracciones cometidas, debiendo indicar las situaciones de hecho y de derecho por las cuales se considera que existe una violación a la Ley de Desarrollo Urbano del Distrito Federal, su reglamento, el Reglamento de Construcciones del Distrito Federal o los programas ambientales y de desarrollo urbano vigentes, motivada por construcciones, cambios de uso del suelo o cambios del destino del suelo u otros aprovechamientos de inmuebles afectados, debiendo el accionante establecer un nexo causal entre la infracción aducida y el patrimonio afectado o bien en su esfera jurídica, que incida directamente en la armonía de la comunidad del accionante;
+
+IV. Señalar a la autoridad o autoridades presuntamente infractoras y el domicilio para ser notificadas;
+
+V. Nombre y domicilio del tercero perjudicado;
+
+VI. La pretensión que se deduce;
+
+VII. La firma del accionante, si éste no supiere o no pudiere firmar, lo hará un tercero a su ruego, poniendo el primero su huella digital;
+
+VIII. Las pruebas con que se cuenten;
+
+Una vez admitida la acción pública se deberá emplazar a la Procuraduría Ambiental y del Ordenamiento Territorial en su carácter de autoridad ambiental garante del cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial.
+
+Bastará que se tenga por acreditado el interés legítimo de las personas físicas o morales que promuevan la Acción Pública, cuando se desprenda de la fracción II de éste artículo, presuntas violaciones a los Derechos Humanos, previa acreditación con cualquier documento legal o elemento idóneo que compruebe fehacientemente que se trata de la persona agraviada.
+
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2017)</small>
+
+###### Artículo 163.
+
+Posterior a la demanda y contestación, salvo lo dispuesto en el artículo anterior, no se admitirán al accionante ni al demandado, respectivamente, otros documentos que los que se hallen en alguno de los casos siguientes:
+
+I. Ser de fecha posterior a dichos escritos;
+
+II. Los de fecha anterior, respecto de los cuales, manifieste bajo protesta decir verdad, no haber tenido conocimiento de su existencia; y
+
+III. Los que no haya sido posible obtener con anterioridad por causas que no sean imputables a la parte interesada, y siempre que acredite que los haya solicitado dentro del término señalado en el artículo anterior.
+
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2017)</small>
+
+###### Artículo 164.
+
+El accionante podrá solicitar la suspensión de los trabajos que motivaron el inicio de la acción pública en cualquier etapa del procedimiento, los cuales tendrán por objeto que las cosas permanezcan en el estado en que se encuentran al momento de decretarse la misma, para ello se deberá constituir personal adscrito al Tribunal con el objeto de que se levante acta circunstanciada del lugar, a efecto de cerciorarse que no varíen las condiciones en las cuales se concedió. La suspensión procederá siempre que la autoridad o autoridades presuntamente infractoras no acrediten la legalidad de las situaciones fácticas a las que se refiere el artículo 162.
+
+No se otorgará la suspensión, si es en perjuicio del interés público o si se contravinieren disposiciones de orden público.
+
+La suspensión también podrá consistir en la orden de custodia del folio real del predio, al Registro Público de la Propiedad y de Comercio de la Ciudad de México, de conformidad con el capítulo VII de la presente ley.
+
+Tratándose de actividades reguladas, que requieran de concesión, licencia, permiso, autorización aviso o registro y el tercero perjudicado no exhiba dicha documental, la suspensión procederá de oficio debiendo detener los trabajos de obra que se realicen en el inmueble materia de la acción pública; para ello las autoridades emplazadas serán auxiliares en el ámbito de su competencia para la ejecución y cumplimiento de la medida cautelar.
+
+El Tribunal determinará los casos en los que proceda el otorgamiento de la suspensión una vez que se hayan cumplido los requisitos previstos en éste artículo.
+
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2017)</small>
+
+###### Artículo 165.
+
+No encontrándose irregularidades en la demanda, o subsanadas éstas, el Magistrado Instructor mandará emplazar a las demás partes para que contesten dentro del término de quince días.
+
+Cuando alguna autoridad que deba ser parte en el juicio no fuese señalada por el accionante, el Magistrado Instructor, de oficio, ordenará se le corra traslado de la acción pública y sus anexos para que conteste en el término a que se refiere el primer párrafo de este precepto.
+
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2017)</small>
+
+###### Artículo 166.
+
+La autoridad o autoridades, al rendir su contestación de acción pública expresarán:
+
+I. Las consideraciones de hecho y de derecho que permitan entender al accionante de una manera clara y precisa la legalidad del acto, debiendo señalar el ámbito de su competencia en el asunto y hasta dónde llega su intervención en la acción intentada;
+
+II. Se referirá concretamente a cada uno de los hechos que el accionante le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo cómo ocurrieron, según sea el caso;
+
+III. Las pruebas que ofrezca;
+
+IV. A manera de conclusión expondrá brevemente si el acto que motivo la acción pública es legal o manifestar que en el ejercicio de autocontrol a que están obligadas todas las autoridades han variado las condiciones en las que se otorgó o bien que el tercero perjudicado no se apegó a las mismas.
+
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2017)</small>
+
+###### Artículo 167.
+
+La sentencia se pronunciará por mayoría de votos de los Magistrados integrantes de la Sala, dentro de los treinta días siguientes a aquél en el que se hayan recibido todas las contestaciones de las autoridades emplazadas.
+
+Si la mayoría de los Magistrados están de acuerdo con el proyecto, el Magistrado que no lo esté, podrá señalar que emite su voto en contra o formular su voto particular.
+
+En caso de que el proyecto no sea aceptado por los demás Magistrados de la Sala, el Magistrado Instructor engrosará la sentencia con los argumentos de la mayoría y el proyecto quedará como voto particular.
+
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2017)</small>
+
+###### Artículo 168.
+
+Las sentencias que emitan las Salas del Tribunal, no necesitan formulismo alguno, pero deberán contener:
+
+I. La fijación clara y precisa de los puntos controvertidos, fundando y motivando la legalidad o no de la acción planteada, así como el examen y valoración de las pruebas que se hubieren admitido;
+
+II. Los términos en los que deberán ser ejecutadas las acciones por parte de las autoridades emplazadas, así como el plazo correspondiente para ello, que no excederá de quince días contados a partir de que la sentencia quede firme;
+
+III. Los efectos de la sentencia dictada en la acción pública serán:
+
+a) Si del análisis de las documentales se desprende la ausencia de elementos de validez en relación al acto que motivó la acción pública, el Tribunal ordenará la nulidad del acto y en su caso ordenará a las autoridades emplazadas como auxiliares del cumplimiento de la sentencia, en razón de su competencia, la imposición del estado de clausura, demolición del inmueble o bien su restitución tratándose de inmuebles catalogados, misma que deberá cumplirse en un plazo no mayor de cinco días hábiles contados a partir de que la sentencia quede firme.
+
+b) Si del análisis de las documentales se desprende que se hayan realizado trabajos de obra sin mediar documentación que acredite la legalidad de la misma, el Tribunal ordenará a la autoridad competente realice todas las acciones necesarias con el objeto de demoler la construcción estimada ilegal, situación que deberá cumplirse en un plazo no mayor de 5 días hábiles contados a partir de que la sentencia quede firme, quedando obligado el propietario, poseedor o tenedor a pagar los gastos de ejecución en que hubiere incurrido la Administración Pública de la Ciudad de México con motivo de la ejecución de la demolición;
+
+c) Si del análisis de las documentales se desprende que un inmueble catalogado que constituya el patrimonio arqueológico, histórico, artístico o cultural de la Ciudad de México haya resultado afectado, se ordenará a la Dirección del Patrimonio Cultural Urbano de la Secretaria de Desarrollo Urbano y Vivienda implementen las medidas necesarias para reintegrar, reparar, restaurar o en su caso revitalizar el área afectada, para ello la Secretaría deberá informar dentro de los quince días hábiles siguientes el tiempo estimado para la elaboración de los trabajos, quedando obligado el propietario, poseedor o tenedor a pagar los gastos de ejecución en que hubiere incurrido la Administración Pública de la Ciudad de México;
+
+d) Si de las documentales se desprende que en la emisión del acto administrativo materia de la acción pública medio error, dolo, mala fe, por parte de las autoridades, el Tribunal ordenará se dé vista al Órgano Interno de Control de la autoridad competente con el objeto de que se inicie el procedimiento correspondiente;
+
+e) Reconocimiento de parámetros de legalidad de los actos que motivaron la acción pública; y
+
+f) Sobreseer el juicio en los términos de Ley.
+
+> <small>(ADICIONADO, G.O. 24 DE MARZO DE 2017)</small>
+
+###### Artículo 169.
+
+En contra de las sentencias que se dicten con motivo de la acción pública prevista en este capítulo, procederá el recurso de apelación señalado en el artículo 137 de esta Ley.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -1773,3 +1905,11 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 24 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE CONTIENE LAS OBSERVACIONES AL DIVERSO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL Y DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Remítase el presente Decreto al Jefe de Gobierno de la Ciudad de México, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial de la Ciudad de México.
