@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4078
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-27"
-last_updated: "2009-10-23"
+last_updated: "2017-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE URIANGATO, GUANAJUATO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE URIANGATO, GUANAJUATO, PUBLICADO EN EL P.O. DE 23 DE OCTUBRE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO DEL REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE URIANGATO, GUANAJUATO Y DEL REGLAMENTO DE LA UNIDAD DE TRANSPARENCIA PARA EL MUNICIPIO DE URIANGATO, GUANAJUATO, PUBLICADOS EN EL P.O. DE 23 DE OCTUBRE DE 2009 Y P.O. DE 24 DE MARZO DE 2017, RESPECTIVAMENTE; EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE URIANGATO GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2009 (ABROGADO).
+
+(REPUBLICADA SU ABROGACIÓN, P.O. 24 DE MARZO DE 2017)
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de agosto de 2004.
 
@@ -495,9 +497,9 @@ J. Jesús Martínez Muñoz
 
 Secretario del H. Ayuntamiento
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
-P.O. 23 DE OCTUBRE 2009.
+P.O. 23 DE OCTUBRE DE 2009.
 
 Artículo Primero. El presente reglamento, entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, de acuerdo a lo dispuesto en el Artículo 61 de la Constitución Política del Estado de Guanajuato.
 
@@ -506,3 +508,27 @@ Artículo Segundo. El presente Reglamento, al momento de su entrada en vigor abr
 Artículo Tercero. La Unidad de acceso a la Información Pública contará con el presupuesto, estructura física y administrativa y medios informáticos que resulten necesarios para el ejercicio de sus funciones.
 
 Artículo Cuarto. La capacitación a cada uno de los servidores de las Dependencias y Entidades de la Administración Pública Municipal, deberá ser proporcionada por la Unidad de Acceso a la Información Pública del Municipio de Uriangato, Guanajuato.
+
+P.O. 24 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA UNIDAD DE TRANSPARENCIA PARA EL MUNICIPIO DE URIANGATO, GTO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el anterior reglamento de la Unidad de Acceso a la Información Pública para el Municipio de Uriangato Guanajuato publicado en el Periódico Oficial del Gobierno del Estado, número 138, Segunda parte de fecha 27 de Agosto del 2004.
+
+###### ARTÍCULO TERCERO.
+
+Los medios de impugnación y las solicitudes de acceso a la información, instaurados antes de la entrada en vigor del presente decreto, se tramitarán hasta su conclusión conforme a las disposiciones vigentes a su inicio.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones señaladas en los artículos de periodo de reserva y ampliación del mismo del presente reglamento, serán aplicadas sólo a aquella información que surja al momento de la entrada (sic). No surtirá efectos para la información ya generada y clasificada como reservada, a la cual le seguirán aplicando los plazos de reserva, ampliación y reglas de la ley que se abroga.
+
+###### ARTÍCULO QUINTO.
+
+Las obligaciones contenidas en el presente reglamento deberán cumplirse por el Comité de Transparencia y Unidad de Transparencia, en el momento de entrada en vigor del mismo.
