@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2017-03-21"
+last_updated: "2017-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2017.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1711,7 +1711,9 @@ Si se emplease violencia física o psicológica o el agente se valiese de la fun
 
 ### CAPÍTULO II. ABUSO SEXUAL
 
-### CAPÍTULO III. HOSTIGAMIENTO SEXUAL
+### CAPÍTULO III. HOSTIGAMIENTO Y ACOSO SEXUAL
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2017)</small>
 
 ### CAPÍTULO IV. ESTUPRO
 
@@ -1795,15 +1797,25 @@ VII. Un embarazo no deseado; y,
 
 VIII. Una enfermedad incurable.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2017)</small>
+
 ### CAPÍTULO III. DESAPARICIÓN FORZADA DE PERSONAS
 
 ###### Artículo 169.
 
-Hostigamiento sexual
+Se impondrán de seis meses a dos años de prisión o de treinta a ciento veinte veces el valor diario de la unidad de medida y actualización; a quien valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o de cualquier otra clase que implique subordinación, solicite a otra persona de forma reiterada para sí o para un tercero, cualquier tipo de acto de naturaleza sexual.
 
-A quien solicite a otra persona de forma reiterada, para sí o para un tercero, cualquier tipo de acto de naturaleza sexual, se le impondrá de seis meses a dos años de prisión.
+Si el sujeto activo fuera servidor público y utilizare los medios o circunstancias que el cargo proporciona, además de la pena señalada, será destituido del cargo.
 
-Cuando exista relación jerárquica derivada de relaciones laborales, docentes, domesticas o de cualquier clase que impliquen subordinación entre los sujetos activos y pasivo, la pena se incrementará hasta en una tercera parte.
+Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2017)</small>
+
+Artículo 169 bis. Acoso sexual.
+
+Se impondrán de seis meses a un año de prisión o de treinta a ciento veinte veces el valor diario de la unidad de medida y actualización, a quien en beneficio suyo o de un tercero persiga, asedie física o verbalmente a persona de cualquier sexo, con fines sexuales no consentidos a otra persona.
+
+Cuando la víctima sea especialmente vulnerable, por razón de su edad, discapacidad o situación, se impondrán de uno a cuatro años de prisión y de cuarenta a ciento ochenta veces el valor diario de la unidad de medida y actualización.
 
 Este delito se perseguirá por querella.
 
@@ -3762,3 +3774,9 @@ P.O. 21 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 341.- SE REFORMA EL ARTÍCULO 71 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 339 POR EL QUE "SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO QUINTO Y EL ARTÍCULO 169; Y SE ADICIONA UN ARTÍCULO 169 BIS AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
