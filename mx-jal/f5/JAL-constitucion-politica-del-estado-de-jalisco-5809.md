@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2017-03-24"
+last_updated: "2017-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE MARZO DE 2017.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -713,7 +715,7 @@ La solicitud a que se refiere el párrafo anterior podrá presentarse en cualqui
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 26 DE NOVIEMBRE DE 2016, PÁGINA 4.]</small>
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 25 DE MARZO DE 2017)
 
 XII. El Instituto Electoral y de Participación Social del Estado de Jalisco deberá, en su caso, solicitar la colaboración del Instituto Nacional Electoral a fin de superar el secreto bancario, fiduciario y fiscal en los actos de fiscalización que realice a las finanzas de los partidos políticos, agrupaciones políticas locales, aspirantes, precandidatos y candidatos, en términos de lo dispuesto en el artículo 41 de la Constitución federal y lo que determinen las leyes;
 
