@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-del-comite-de-planeacion-para-el-10320"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-05-30"
-last_updated: "1981-05-30"
+last_updated: "2017-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE COLIMA
 
-REGLAMENTO INTERIOR DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE COLIMA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL COMITÉ DE PLANEACIÓN DEMOCRÁTICA PARA EL DESARROLLO DEL ESTADO DE COLIMA, PUBLICADO EN EL SUPLEMENTO NO. 1 AL NÚMERO 21 DEL P.O. DE 25 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COLIMA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 30 de mayo de 1981.
 
@@ -440,3 +442,15 @@ ARTICULO, UNICO.- El presente reglamento entrará en vigor el día siguiente al 
 SUFRAGIO EFECTIVO. NO REELECCION
 
 Colima, Col., a 12 de mayo de 1981.- La Gobernadora Const. del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno LIC CARLOS DE LA MADRID VIRGEN.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL COMITÉ DE PLANEACIÓN DEMOCRÁTICA PARA EL DESARROLLO DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga el Reglamento Interior del Comité de Planeación Democrática para el Desarrollo del Estado de Colima, publicado el 30 de Mayo de 1981 en el Periódico Oficial "El Estado de Colima".
+
+TERCERO. Se derogan las disposiciones jurídicas y administrativas que se contrapongan con lo establecido en el presente Reglamento Interior.
