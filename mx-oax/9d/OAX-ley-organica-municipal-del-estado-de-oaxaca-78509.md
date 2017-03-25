@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2017-03-10"
+last_updated: "2017-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -815,9 +815,13 @@ XIX.- Transparencia y Acceso a la Información y
 
 XX.- De Asuntos Indígenas, y
 
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2017)</small>
 
-XXI.- Las demás que apruebe el Ayuntamiento.
+XXI.- De Derechos Humanos, y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2017)</small>
+
+XXII.- Las demás que apruebe el Ayuntamiento.
 
 La Comisión de Hacienda estará integrada por el Presidente, el Síndico o los Síndicos y el Regidor de Hacienda; será presidida por el Presidente Municipal. Las demás comisiones estarán presididas por el regidor de la materia.
 
@@ -2609,7 +2613,7 @@ Al C.
 
 NOTA: Las presentes firmas corresponden al Decreto No. 2107, aprobado por la Sexagésima Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, mediante el cual se aprueba la Ley Orgánica Municipal del Estado de Oaxaca.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 29 DE DICIEMBRE DE 2010.
 
@@ -2744,3 +2748,9 @@ P.O. 10 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 573.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 579.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXI Y SE ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
