@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-de-la-secretaria-de-desarrollo-social-76225
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-20"
-last_updated: "2010-06-20"
+last_updated: "2017-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE DURANGO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE DURANGO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 26 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 20 de junio de 2010.
 
@@ -501,7 +503,7 @@ XI. Supervisar la logística para la realización de las reuniones de análisis,
 
 XII. Vigilar el cumplimiento de la normatividad en materia de transparencia y acceso a la información pública;
 
-XIII. Recibir y atender las solicitudes de acceso a la información pública; y (sic)
+XIII. Recibir y atender las solicitudes de acceso a la información pública; y
 
 XIV. En coordinación con las áreas administrativas de la Secretaría proponer al Comité la información que se considera deba ser clasificada; y
 
@@ -661,7 +663,7 @@ XVII. Elaborar y promover la aplicación de estrategias para disminuir la pobrez
 
 XVIII. Proponer al Secretario, los mecanismos e instrumentos que promuevan y consoliden la participación de representantes indígenas en los órganos de planeación estatales y municipales;
 
-XIX. Vigilar y dar seguimiento a los programas presupuestales y operativos de las áreas de su adscripción; y (sic)
+XIX. Vigilar y dar seguimiento a los programas presupuestales y operativos de las áreas de su adscripción; y
 
 XX. Participar con los Gobiernos Federal y Municipales en los programas especiales instrumentados para la atención de los migrantes en sus visitas a nuestro país;
 
@@ -904,3 +906,15 @@ LIC. JOSÉ OLIVERIO REZA CUELLAR
 LA SECRETARIA DE DESARROLLO SOCIAL
 
 DRA. ANA BRICIA MURO GONZÁLEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR.- DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Durango.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social del Estado de Durango publicado en el Periódico Oficial del Estado de Durango de fecha catorce de mayo de dos mil diez.
+
+TERCERO.- En tanto se expidan los manuales de organización y de procedimientos y de servicios al público, el Titular de la Secretaría queda facultado para resolver las cuestiones que conforme a dichos manuales se deban regular.
