@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-para-definir-46184"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-12"
-last_updated: "2014-01-06"
+last_updated: "2017-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46184&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-08-18"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION PARA DEFINIR TRATAMIENTOS Y MEDICAMENTOS ASOCIADOS A ENFERMEDADES QUE OCASIONAN GASTOS CATASTROFICOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN PARA DEFINIR TRATAMIENTOS Y MEDICAMENTOS ASOCIADOS A ENFERMEDADES QUE OCASIONAN GASTOS CATASTRÓFICOS, PUBLICADO EN EL D.O.F. DE 27 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN PARA DEFINIR TRATAMIENTOS Y MEDICAMENTOS ASOCIADOS A ENFERMEDADES QUE OCASIONAN GASTOS CATASTRÓFICOS
 
-TEXTO ORIGINAL MODIFICADO POR FE DE ERRATAS, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 6 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 12 de septiembre de 2005.
 
@@ -230,3 +232,17 @@ Para efectos de la modificación del Reglamento se requiere la unanimidad de vot
 UNICO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a los dieciocho días del mes de agosto de dos mil cinco.- La Presidenta de la Comisión, Mercedes Juan.- Rúbrica.- El Comisionado Nacional de Protección Social en Salud, Juan Antonio Fernández Ortiz.- Rúbrica.- El Coordinador General de los Institutos Nacionales de Salud, Jaime Sepúlveda Amor.- Rúbrica.- El Director de Prestaciones Médicas, IMSS, Onofre Muñoz Hernández.- Rúbrica.- El Subdirector General Médico, ISSSTE, Manuel Urbina Fuentes.- Rúbrica.- El Director de la Facultad de Medicina, UNAM, José Narro Robles.- Rúbrica.- El Director General del Instituto Politécnico Nacional, José Enrique Villa Rivera.- Rúbrica.- El Director General de Sanidad, SEDENA, Norberto Manuel Heredia Jarero.- Rúbrica.- El Director General Interino de Sanidad Naval, SEMAR, Miguel A. López Campos.- Rúbrica.- El Presidente de la Academia Mexicana de Cirugía, Angel Porfirio Cervantes Pérez.- Rúbrica.- El Presidente de la Academia Nacional de Medicina, Misael Uribe Esquivel.- Rúbrica.- El Secretario General Ejecutivo de ANUIES, Rafael López Castañares.- Rúbrica.- El Presidente Ejecutivo de FUNSALUD, Manuel Ruíz de Chávez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN PARA DEFINIR TRATAMIENTOS Y MEDICAMENTOS ASOCIADOS A ENFERMEDADES QUE OCASIONAN GASTOS CATASTRÓFICOS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Comisión para Definir Tratamientos y Medicamentos Asociados a Enfermedades que Ocasionan Gastos Catastróficos, publicado en el Diario Oficial de la Federación el día 12 de septiembre del 2005.
+
+TERCERO. En un plazo no mayor de 90 días hábiles de la entrada en vigor de este Reglamento, se publicará en el Diario Oficial de la Federación la lista actualizada de las enfermedades que ocasionan gastos catastróficos.
+
+CUARTO. Las solicitudes de definición y de actualización de enfermedades que ocasionan gastos catastróficos que se encuentren pendientes de resolución a la entrada en vigor de este Reglamento, se resolverán conforme a la normativa vigente al momento de su presentación.
