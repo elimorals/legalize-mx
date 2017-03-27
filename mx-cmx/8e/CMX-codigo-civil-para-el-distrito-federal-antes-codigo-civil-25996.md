@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2016-07-13"
+last_updated: "2017-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -19,9 +19,11 @@ scjn_last_update: "2026-08-20"
 ---
 # CODIGO CIVIL PARA EL DISTRITO FEDERAL -ANTES CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL-
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE MARZO DE 2017.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -42,8 +44,6 @@ Disposiciones preliminares
 ###### ARTICULO 1°.
 
 Las disposiciones de este Código regirán en el Distrito Federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 2008)</small>
 
@@ -192,8 +192,6 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 ## TITULO SEGUNDO. De las personas morales
 
 ### CAPITULO I. Disposiciones generales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
@@ -793,8 +791,6 @@ El Juez del Registro Civil hará del conocimiento de los pretendientes inmediata
 
 Los cursos prenupciales serán impartidos por el personal profesional capacitado que determine el Director General del Registro Civil. Estos cursos versarán sobre temas como la prevención de la violencia familiar, salud sexual y reproductiva, planificación familiar, el respeto a la equidad de género, relaciones de pareja, fines del matrimonio, derechos y obligaciones de los cónyuges, el régimen patrimonial en las capitulaciones matrimoniales, entre otros aspectos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 98.
@@ -1007,8 +1003,6 @@ Si el divorcio administrativo se hiciere en oficina distinta de aquella en que s
 
 ### CAPITULO XI. De la Rectificación, Modificación y Aclaración de las Actas del Registro Civil
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 117.
@@ -1129,8 +1123,6 @@ Cuando se recobre la capacidad legal para administrar, se presente la persona de
 
 La rectificación de un acta del estado civil no puede hacerse sino ante el Juez del Registro Civil y en el caso de anotación (sic) divorcio en el acta de matrimonio ante el Juez de lo Familiar, con excepción del administrativo, los cuales se sujetarán a las prescripciones de este Código y del Reglamento respectivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 135.
@@ -1143,8 +1135,6 @@ II. Por enmienda, cuando se solicite variar algún nombre u otro dato esencial q
 
 III. Por existencia de errores mecanográficos y ortográficos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 ARTICULO 135 BIS.- Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género.
@@ -1156,8 +1146,6 @@ Se entenderá por identidad de género la convicción personal e interna, tal co
 Los efectos de la nueva acta de nacimiento para identidad de género realizados, serán oponibles a terceros desde de su levantamiento.
 
 Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
@@ -1177,8 +1165,6 @@ El acta de nacimiento primigenia quedará reservada y no se publicará ni expedi
 
 Una vez cumpliendo (sic) el trámite se enviarán los oficios con la información, en calidad de reservada, a la Secretaría de Gobernación, Secretaría de Finanzas, Secretaría de Educación Pública, Secretaría de Salud, Secretaría de Relaciones Exteriores, Instituto Nacional Electoral, Tribunal Superior de Justicia del Distrito Federal, Procuraduría General de la República, Centro Nacional de Información del Sistema Nacional y al Consejo de la Judicatura Federal, para los efectos legales procedentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 ARTÍCULO 135 QUATER.- Además de lo señalado en el artículo anterior, para el levantamiento del acta correspondiente, se deberá cumplir con los siguientes requisitos:
@@ -1194,8 +1180,6 @@ Así como manifestar lo siguiente:
 IV. El nombre completo y los datos registrales asentados en el acta primigenia;
 
 V. El nombre solicitado sin apellidos y, en su caso, el género solicitado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
@@ -1215,23 +1199,17 @@ III.- Los herederos de las personas comprendidas en las dos fracciones anteriore
 
 IV.- Los que según los artículos 348, 349 y 350, pueden continuar o intentar la acción de que en ellos se trata.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 137.
 
 El trámite de rectificación de acta seguirá en la forma que establezca el Reglamento del Registro Civil del Distrito Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 ###### ARTICULO 138.
 
 La sentencia que cause ejecutoria por divorcio y adopción se comunicará al Juez del Registro Civil y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
@@ -1246,8 +1224,6 @@ Las copias certificadas de constancias de los procedimientos de jurisdicción vo
 ## TITULO QUINTO. Del matrimonio
 
 ### CAPITULO II. De los requisitos para contraer matrimonio
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -1941,8 +1917,6 @@ Las donaciones entre cónyuges no se revocarán por la superveniencia de hijos, 
 
 ### CAPITULO XI. Del concubinato
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 235.
@@ -2443,8 +2417,6 @@ También se da parentesco por consanguinidad, entre el hijo producto de reproduc
 
 En el caso de la adopción, se equiparará al parentesco por consanguinidad aquél que existe entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 294.
@@ -2487,8 +2459,6 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 ### CAPITULO IV. Del Registro de Deudores Alimentarios Morosos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 (ADICIONADO, G.O. 18 DE AGOSTO DE 2011) (REUBICADO [N. DE E. ANTES ARTÍCULO 323 SÉPTIMUS], G.O. 9 DE MAYO DE 2014)
 
 ARTICULO 323 OCTAVUS.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 309 del presente Código. Dicho registro contendrá:
@@ -2506,8 +2476,6 @@ IV. Numero de pagos incumplidos y monto del adeudo alimentario;
 V. Órgano jurisdiccional que ordena el registro; y
 
 VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 (ADICIONADO, G.O. 18 DE AGOSTO DE 2011) (REUBICADO [N. DE E. ANTES ARTÍCULO 323 OCTAVUS], G.O. 9 DE MAYO DE 2014)
 
@@ -2605,13 +2573,9 @@ El obligado a proporcionar alimentos cumple su obligación, asignando una pensi�
 
 Aquella persona que incumpla con lo señalado con el párrafo anterior por un periodo de noventa días se constituirá en deudor alimentario moroso. El Juez de lo Familiar ordenará al Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos, proporcionando al Registro los datos de identificación del deudor alimentario que señala el artículo 323 Septimus, los cuales le serán proporcionados al Juez por el acreedor alimentario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
 El deudor alimentario moroso que acredite ante el Juez que han sido pagados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -2814,8 +2778,6 @@ En el supuesto de que el menor presente un grado de alienación parental severo,
 A fin de asegurar el bienestar del menor, y en caso de que, por su edad, resulte imposible que viva con el otro progenitor, el departamento de psicología del Tribunal Superior de Justicia del Distrito Federal, evaluando a los parientes más cercanos del niño, determinará qué persona quedará encargada de su cuidado; mientras recibe el tratamiento respectivo que haga posible la convivencia con el progenitor no alienador.
 
 El tratamiento para el niño alienado será llevado a cabo en el Departamento de Alienación Parental del Servicio Médico Forense del Tribunal Superior de Justicia del Distrito Federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -5638,8 +5600,6 @@ El Ministerio Público velará por los intereses del ausente, será oído en tod
 ###### ARTICULO 723.
 
 El patrimonio familiar es una institución de interés público, que tiene como objeto afectar uno o más bienes para proteger económicamente a la familia y sostener el hogar. El patrimonio familiar puede incluir la casa-habitación y el mobiliario de uso doméstico y cotidiano; una parcela cultivable o los giros industriales y comerciales cuya explotación se haga entre los miembros de la familia; así como los utensilios propios de su actividad, siempre y cuando no exceda su valor, de la cantidad máxima fijada por este ordenamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -9533,8 +9493,6 @@ ARTICULO 1,911.- El incapaz que cause daño debe repararlo, salvo que la respons
 
 ARTICULO 1,912.- Cuando al ejercitar un derecho se causa daño a otro, hay obligación de indemnizarlo si se demuestra que el derecho sólo se ejercitó a fin de causar el daño, sin utilidad para el titular del derecho.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 1,913.- Cuando una persona hace uso de mecanismos, instrumentos, aparatos, vehículos automotores o substancias peligrosas por sí mismos, por la velocidad que desarrollen, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, está obligada a responder del daño que cause, aunque no obre ilícitamente, a no ser que demuestre que ese daño se produjo por culpa o negligencia inexcusable de la víctima.
@@ -9594,8 +9552,6 @@ ARTICULO 1,924.- Los patrones y los dueños de establecimientos mercantiles est�
 ARTICULO 1,925.- Los jefes de casa o los dueños de hoteles o casas de hospedaje están obligados a responder de los daños y perjuicios causados por sus sirvientes en el ejercicio de su encargo.
 
 ARTICULO 1,926.- En los casos previstos por los artículos 1923, 1924 y 1925 el que sufra el daño puede exigir la reparación directamente del responsable, en los términos de este Capítulo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL.</small>
 
 > <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2008)</small>
 
@@ -12853,6 +12809,90 @@ ARTICULO 2,938.- Los que tienen derecho de exigir la constitución de hipoteca n
 
 ARTICULO 2,939.- Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2,935 no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 2,995, fracción I, salvo lo dispuesto en el capítulo IX, del título IX, del libro primero.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 27 DE MARZO DE 2017)</small>
+
+### CAPITULO III BIS. DE LA HIPOTECA INVERSA
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2017)</small>
+
+ARTICULO 2,939 BIS.- Es inversa la hipoteca que se constituye sobre un inmueble, que es la vivienda habitual y propia de la persona adulta mayor, para garantizar la deuda que le concede la entidad financiera para cubrir sus necesidades económicas de vida, en los términos de este Capítulo. También se puede constituir sobre diverso inmueble, a condición de que sea propiedad de la persona adulta mayor.
+
+Para efectos de ejercer la hipoteca inversa el adulto mayor podrá requerir la constitución de un fideicomiso a su favor en el cual actuará como fideicomitente la entidad financiera acreditante, como fiduciario una institución financiera diferente del acreditante y como fideicomisario la Secretaría de Desarrollo Social de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2017)</small>
+
+ARTICULO 2,939 TER.- Contrato de Hipoteca Inversa es aquel por el cuál la entidad financiera se obliga a pagar una cantidad de dinero predeterminada a la persona adulta mayor o a su beneficiario que deberá ser su cónyuge, concubina o concubinario de edad igual o superior a los 60 años; ya sea en una sola exhibición o de forma periódica hasta agotar el monto del crédito otorgado, directamente o a través del fideicomiso al que se refiere el artículo anterior, y la persona adulta mayor se obliga a garantizar hipotecando un inmueble de su propiedad en los términos de este capítulo.
+
+El capital prestado puede ser dispuesto por el adulto mayor de dos formas diferentes: en una sola exhibición o mediante pagos periódicos hasta agotar el monto del crédito otorgado.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2017)</small>
+
+ARTICULO 2,939 QUATER.- Están autorizados para otorgar la hipoteca inversa las instituciones privadas del sistema bancario mexicano, actuando en nombre propio así como las demás entidades financieras, instituciones sociales e instituciones públicas, siempre que cuenten con facultades para ello.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2017)</small>
+
+ARTICULO 2,939 QUINQUIES.- Los términos de la contratación de la hipoteca inversa se establecen previo avalúo de la institución debidamente facultada para considerar el valor comercial de mercado del inmueble que deberá actualizarse cada dos años, para estar acorde con la plusvalía que el bien inmueble adquiera con el tiempo.
+
+El costo de dicho avalúo será cubierto por la entidad financiera.
+
+El contrato de hipoteca inversa, además de lo pactado, estará sujeto a lo siguiente:
+
+I. La cantidad pactada entre la entidad financiera y el adulto mayor debe ser suficiente para que éste último cumpla sus necesidades básicas; no podrá ser inferior al 70% de valor comercial del inmueble establecido en el avalúo;
+
+II. El solicitante o los beneficiarios que él designe deben ser personas de 60 años o más;
+
+III. El tutor, siempre que se encuentre en los supuestos señalados en el presente Capítulo, podrá, con autorización judicial, constituir hipoteca inversa para garantizar un crédito otorgado a favor de su pupilo o incapaz;
+
+IV. La persona adulta mayor dispondrá del importe del préstamo conforme a los plazos que correspondan a las disposiciones periódicas mediante las cuales podrá acceder al importe objeto de la hipoteca inversa;
+
+V. La persona adulta mayor o su cónyuge, concubina o concubinario de edad igual o superior a los 60 años, serán los únicos beneficiarios de los pagos periódicos a que hace referencia el Artículo 2939 Ter;
+
+VI. En su caso, cumplir las condiciones que se establezcan, para atender lo dispuesto en el Artículo 2939 Sexies;
+
+VII. La entidad financiera solo podrá exigir la deuda y la garantía ejecutable cuando fallezca la persona adulta mayor y el beneficiario si lo hubiere, respetando las condiciones que le concede la fracción II del Artículo 2939 Sexies, respecto a la amortización de la deuda;
+
+VIII. La persona adulta mayor podrá realizar un pago total o parcial anticipado, sin penalización alguna;
+
+IX. La persona adulta mayor habitará vitaliciamente el inmueble hipotecado, no obstante, la persona adulta mayor podrá arrendar de manera parcial o total el inmueble hipotecado, siempre y cuando, cuente con la autorización expresa de la entidad financiera y los términos y condiciones del arrendamiento se establezcan en el contrato correspondiente, sin afectar la naturaleza propia de la hipoteca inversa;
+
+X. Los intereses que se generen por el capital no podrán ser mayores al promedio resultante de la tasa de interés interbancario de equilibrio y las tasas de interés de los instrumentos hipotecarios tradicionales, y serán solamente sobre las cantidades efectivamente entregadas a la persona adulta mayor;
+
+XI. El contrato deberá incluir las especificaciones del incremento anual que tendrá la pensión otorgada a la persona adulta mayor;
+
+XII. La hipoteca inversa se sujetará a lo previsto en los artículos 2921, 2922, y 2923 de éste Código.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2017)</small>
+
+ARTICULO 2,939 SEXIES.- La amortización del capital se sujetará a las siguientes normas:
+
+I. Cuando fallezca la persona adulta mayor y su beneficiario, en caso de haberlo, sus herederos podrán abonar a la entidad financiera la totalidad del adeudo existente y vencido, quienes tendrán preferencia sobre cualquier cesión que se pretenda de dicho crédito hasta en tanto no se decidan en la forma de pago;
+
+II. Cualquier cesión en contra de lo establecido en la fracción anterior será nula, sin compensación por la cancelación del gravamen y pago del adeudo;
+
+III. Los herederos de la persona adulta mayor podrán optar también por reestructurar el crédito, ya sea conservando la garantía o incluyendo una adicional o a través de diverso financiamiento otorgado por institución pública o privada, con el consentimiento y autorización de la entidad financiera;
+
+IV. Transcurridos 30 días hábiles después del fallecimiento de la persona adulta mayor sin que los herederos hayan efectuado el pago o manifestado la intención de reestructurar el crédito, se entenderá su intención de no pagar el adeudo, por lo que la entidad financiera estará en condiciones de ceder el cobro del crédito sin restricción alguna o solicitar su adjudicación o venta legal para efectuar el cobro hasta donde alcance el valor del bien inmueble hipotecado si el valor del inmueble fuera mayor que el adeudo se devolverá el remanente a los herederos.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2017)</small>
+
+ARTICULO 2,939 SEPTIES.- El inmueble hipotecado no podrá ser trasmitido por acto inter vivos sin el conocimiento y autorización previo (sic) de la entidad financiera. El incumplimiento de esta obligación le conferirá a la entidad financiera el derecho de declarar vencido anticipadamente el total del adeudo y exigible a la fecha.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2017)</small>
+
+ARTICULO 2,939 OCTIES.- La extinción de la hipoteca inversa tiene lugar cuando fallezca la persona adulta mayor beneficiada, así como su cónyuge, concubina o concubinario nombrado como beneficiario, se extinga el capital pactado y los herederos de la persona adulta mayor decidan no reembolsar los débitos vencidos, con sus intereses, en este supuesto la entidad financiera podrá obtener el recobro hasta donde alcance el bien inmueble hipotecado, pudiendo solicitar su adjudicación o su venta.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2017)</small>
+
+ARTICULO 2,939 NONIES.- En caso de incumplimiento de la entidad financiera en las ministraciones pactadas, la persona adulta mayor o el fideicomiso a favor de la persona adulta mayor estarán en condiciones de solicitar la recisión del contrato y exigir el pago de los daños y perjuicios, o en su caso, el pago de la pena pactada. Además, se tendrá la deuda como liquidada y no generará más interés; debiendo la entidad financiera liberar a su costa el gravamen correspondiente. Para el caso de que se constituya una nueva hipoteca inversa sobre el mismo inmueble, ésta tendrá prelación respecto de la anterior.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2017)</small>
+
+ARTICULO 2,939 DECIES.- En lo no previsto en este Código, la hipoteca inversa se regirá supletoriamente por lo dispuesto en la legislación que en cada caso resulte aplicable.
+
+> <small>(ADICIONADO, G.O. 27 DE MARZO DE 2017)</small>
+
+ARTICULO 2,939 UNDECIES.- En materia de hipoteca inversa, no serán aplicables los artículos 2907, 2908 y 2909 de este Código.
+
 ### CAPITULO IV. De la extinción de las hipotecas
 
 ARTICULO 2,940.- La hipoteca produce todos sus efectos jurídicos contra tercero mientras no sea cancelada su inscripción.
@@ -13029,6 +13069,10 @@ II.- Si los acreedores hubieren hecho novación de la deuda o de cualquir (sic) 
 
 ARTICULO 2,992.- Los acreedores que obtuvieren la separación de bienes, no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
+## TITULO SEGUNDO. Del registro publico
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
+
 ### CAPITULO III. De algunos acreedores preferentes sobre determinados bienes
 
 ARTICULO 2,993.- Con el valor de los bienes que se mencionan serán pagados preferentemente:
@@ -13056,10 +13100,6 @@ IX.- Los créditos anotados en el Registro de la Propiedad, en virtud de mandami
 > <small>(ADICIONADA, G.O. 27 DE ENERO DE 2011)</small>
 
 X.- Los créditos a que se refiere el artículo 28 de la nueva Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal.
-
-## TITULO SEGUNDO. Del registro publico
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO IV. Acreedores de primera clase
 
@@ -13591,19 +13631,13 @@ VI.- Las fianzas legales o judiciales, de acuerdo con lo establecido en el artí
 
 VII.- Los convenios emanados del procedimiento de mediación que cumplan con los requisitos previstos por el artículo 38 de la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2011)</small>
 
 VIII.- Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE AGOSTO DE 2011)</small>
 
 IX.- Cualquier otro título que sea anotable, de acuerdo con este Código u otras Leyes, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -14740,3 +14774,13 @@ G.O. 13 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE CONTIENE LAS OBSERVACIONES AL DIVERSO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- La Secretaría de Desarrollo Social de la Ciudad de México constituirá el o los fideicomisos a que se refiere esta reforma definiendo en los contratos correspondientes las facultades del mismo.
