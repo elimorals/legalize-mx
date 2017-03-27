@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-procuraduria-general-de-justicia-del-8394"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-30"
-last_updated: "2015-12-11"
+last_updated: "2017-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 11 DE DICIEMBRE DE 2015; Y EL TRANSITORIO ARTÍCULO SÉPTIMO DE LA LEY NÚMERO 180, ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 27 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO UNA VEZ QUE SE CONCLUYA EL ÚLTIMO PROCESO PENAL SEGUIDO BAJO LAS REGLAS DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE SONORA, Y ENTRE EN VIGOR Y EN SU TOTALIDAD EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 11 DE DICIEMBRE DE 2015. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ QUE ENTRE EN VIGOR Y EN SU TOTALIDAD EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2015 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE MARZO DE 2017 (ABROGADO).
 
 Ley publicada en la Sección Octava del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1991.
 
@@ -942,3 +942,47 @@ Artículo Primero. La presente Ley entrará en vigor, previa su publicación en 
 Artículo Segundo. La Ley Orgánica de la Procuraduría General, publicada en el Boletín Oficial del Gobierno del Estado de Sonora número 53, sección VIII, de fecha 30 de diciembre de 1991, continuará su aplicación en los casos que se tramiten bajo el régimen del Código de Procedimientos Penales del Estado de Sonora y quedará abrogada, una vez entre en vigor y en su totalidad el Código Nacional de Procedimientos Penales.
 
 Artículo Tercero. Dentro del término de noventa días siguientes al inicio de la vigencia de la presente Ley, deberán expedirse los reglamentos que se requieran para su pleno cumplimiento.
+
+B.O. DE 27 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 180, ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del plazo de noventa días naturales contados a partir de la entrada en vigor de la presente Ley, el Fiscal General deberá emitir el Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Sonora; en tanto, los protocolos que establece esta Ley deberán ser emitidos dentro de los 180 días siguientes a la entrada en vigor de esta norma jurídica. Hasta en tanto se expiden el Reglamento y las demás disposiciones normativas, se seguirán aplicando las anteriormente existentes en lo que no se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos iniciados durante la vigencia de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora, continuarán desahogándose hasta su conclusión, con las leyes y normas vigentes en el momento de su iniciación.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Procuraduría General de Justicia del Estado de Sonora pasarán a formar parte de la Fiscalía General del Estado de Sonora.
+
+El personal que formaba parte de la Procuraduría General de Justicia del Estado de Sonora conservará la antigüedad, derechos y prestaciones de que gozaba.
+
+Así mismo, los asuntos a cargo de la Procuraduría General de Justicia del Estado, las Agencias Especializadas y demás unidades administrativas, pasarán al conocimiento para su integración hasta su total resolución, a las nuevas Fiscalías y áreas correlativas creadas para tales efectos en esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor de la presente Ley, las menciones o referencias que se hagan a la Procuraduría General de Justicia del Estado de Sonora en las leyes, reglamentos, lineamientos, normas, directrices, decretos, acuerdos, guías, fideicomisos, fondos, contratos, estatutos, políticas, procedimientos, circulares, oficios, cuentas, instrumentos jurídicos y disposiciones de cualquier naturaleza, se entenderán referidas a la Fiscalía General del Estado de Sonora.
+
+###### ARTÍCULO SEXTO.
+
+Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones normativas a las unidades y áreas administrativas que cambian de denominación o desaparecen por virtud de la presente Ley, se entenderán hechas o conferidas a las unidades y áreas administrativas que correspondan conforme a lo establecido en la misma.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Ley Orgánica de la Procuraduría General, publicada en el Boletín Oficial del Gobierno del Estado de Sonora número 53, sección VIII, de fecha 30 de diciembre de 1991, continuará su aplicación en los casos que se tramiten bajo el régimen del Código de Procedimientos Penales del Estado de Sonora y quedará abrogada, una vez se concluya el último proceso penal seguido bajo sus reglas, y entre en vigor y en su totalidad el Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+Las menciones que se realicen en la presente Ley y demás leyes, reglamentos, acuerdos, circulares y documentos oficiales, respecto de la Agencia Ministerial de Investigación Criminal, se entenderán que se refieren a la Policía Estatal Investigadora.
