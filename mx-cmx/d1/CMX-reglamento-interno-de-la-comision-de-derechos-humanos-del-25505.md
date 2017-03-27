@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-del-25505
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2016-07-14"
+last_updated: "2017-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25505&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-06-20"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE MARZO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de agosto de 2002.
 
@@ -354,21 +354,19 @@ En el informe anual se incluirán los datos que se señalan en el artículo 57 d
 
 ARTÍCULO 23 BIS.- Para el cumplimiento de las tareas sustantivas y administrativas de esta Comisión, se establecerán Programas que conforme al objeto legal de la misma se dividirán en:
 
-> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+I. (DEROGADA, G.O. 27 DE MARZO DE 2017)
 
-I. Programa de Conducción Interinstitucional; integrado por la Secretaría Ejecutiva, la Dirección General Jurídica, la Dirección Ejecutiva de Vinculación Estratégica y la Dirección Ejecutiva de Asuntos Legislativos y Evaluación.
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+II. Programa de Defensa, integrado por las Visitadurías Generales, la Dirección Ejecutiva de Vinculación Estratégica, la Dirección General de Quejas y Orientación, la Dirección Ejecutiva de Seguimiento y la Dirección General Jurídica. La o el titular de la Primera Visitaduría General conducirá el adecuado funcionamiento de este programa, bajo las directrices que instruya la o el Presidente.
 
-II. Programa de Defensa; integrado por las Visitadurías Generales, la Secretaría Ejecutiva, la Dirección Ejecutiva de Vinculación Estratégica, la Coordinación de Vinculación con la Sociedad Civil y de Políticas Públicas, la Dirección General de Quejas y Orientación y la Dirección Ejecutiva de Seguimiento.
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
+III. Programa de Promoción y Difusión, integrado por la Coordinación de Vinculación con la Sociedad Civil y de Políticas Públicas, la Dirección General de Comunicación por los Derechos Humanos, la Dirección Ejecutiva de Educación por los Derechos Humanos, la Dirección Ejecutiva del Centro de Investigación Aplicada en Derechos Humanos, la Dirección Ejecutiva de Asuntos Legislativos y Evaluación y la Dirección General de Administración. La o el titular de la Dirección General de Comunicación por los Derechos Humanos conducirá el adecuado funcionamiento de este programa, bajo las directrices que instruya la o el Presidente.
 
-III. Programa de Promoción y Difusión, integrado por la Secretaría Ejecutiva, la Coordinación de Vinculación con la Sociedad Civil y de Políticas Públicas, la Dirección General de Comunicación por los Derechos Humanos y la Dirección Ejecutiva de Educación por los Derechos Humanos.
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
-
-IV. Programa de Fortalecimiento Institucional, integrado por la Secretaría Ejecutiva, la Contraloría Interna, la Dirección General de Administración, la Dirección General Jurídica, el Centro de Investigación Aplicada en Derechos Humanos, la Coordinación de Tecnologías de Información y Comunicación y la Coordinación del Servicio Profesional en Derechos Humanos.
+IV. Programa de Fortalecimiento Institucional, integrado por la Secretaría Ejecutiva, la Contraloría Interna, la Dirección General de Administración, la Dirección General Jurídica, la Coordinación de Tecnologías de Información y Comunicación y la Coordinación del Servicio Profesional en Derechos Humanos. La o el titular de la Secretaría Ejecutiva conducirá el adecuado funcionamiento de este programa, bajo las directrices que instruya la o el Presidente.
 
 Al efecto la o el Presidente determinará las directrices bajo las cuales se realizarán las tareas programáticas, así como los lineamientos y políticas generales a los que habrán de sujetarse estos Programas, debiendo observar políticas transversales de eficiencia en el gasto, protección al derecho humano a un medio ambiente sano, equidad de género, igualdad sustantiva de las personas, no discriminación, respeto e integración de personas con discapacidad y en general de aquellas en situación de vulnerabilidad por discriminación.
 
@@ -426,9 +424,9 @@ XIII. La Coordinación de Vinculación con la Sociedad Civil y de Políticas Pú
 
 XIV. La Coordinación del Servicio Profesional en Derechos Humanos.
 
-> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MARZO DE 2017)</small>
 
-ARTÍCULO 26 BIS.- La Secretaría Ejecutiva es el área de apoyo de la Comisión, que bajo las directrices que instruya la o el Presidente conducirá el adecuado desarrollo de los programas institucionales y transversales dando seguimiento y evaluando las tareas programáticas, lineamientos y políticas generales.
+ARTÍCULO 26 BIS.- La Secretaría Ejecutiva es el área de apoyo de la Comisión, que, bajo las directrices que instruya la o el Presidente, conducirá el adecuado desarrollo del Programa de Fortalecimiento Institucional y de los programas transversales, dando seguimiento y evaluando las tareas programáticas, lineamientos y políticas generales.
 
 > <small>(REFORMADO, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
@@ -684,13 +682,17 @@ II. Con el personal profesional, técnico y administrativo necesario para el cum
 
 Para el cumplimiento de sus atribuciones, la Contraloría Interna contará con:
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-I. Una Dirección de Normatividad, Verificación y Dictaminación, y
+l. Una Dirección de Rendición de Cuentas, Verificación y Dictamen, que para efectos legales fungirá como autoridad investigadora.
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-II. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
+II. Una Dirección de Normativa, Revisora y Resolutiva, que para efectos legales fungirá como autoridad substanciadora y resolutora, y
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2017)</small>
+
+III. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
 
 > <small>(F. DE E., G.O. 7 DE NOVIEMBRE DE 2014)</small>
 
@@ -804,9 +806,9 @@ XIII. Coordinar con el apoyo de la Dirección General de Administración, las ta
 
 XIV. Coordinar las acciones de colaboración para el fortalecimiento institucional del sistema no jurisdiccional de protección de los derechos humanos;
 
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-XV. Coordinar los Programas de Conducción Interinstitucional, Fortalecimiento Institucional y formar parte de la articulación del programa de defensa y participar en las sesiones de los diferentes Programas de la Comisión, para atender los temas relacionados con el gobierno interno;
+XV. Coordinar las sesiones del Programa de Fortalecimiento Institucional y formar parte de la articulación de los programas de defensa y de promoción y difusión para atender los temas relacionados con el gobierno interno;
 
 > <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
 
@@ -882,15 +884,31 @@ XI. Dar seguimiento al Programa de Derechos Humanos en lo que le corresponde a l
 
 XII. Coordinar para el logro de sus objetivos en materia de defensa, promoción, fortalecimiento de capacidades y fomento de marcos políticos y legislativos, las siguientes Relatorías:
 
-i. Relatoría para la Libertad de Expresión;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-ii. Relatoría para la Atención a Defensoras y Defensores de Derechos Humanos;
+i. Relatoría por el Derecho a la Libertad de Expresión;
 
-iii. Relatoría por los Derechos de las Mujeres y la Equidad de Género;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-iv. Relatoría por los Derechos de la Infancia y de la Juventud;
+ii. Relatoría por el Derecho a Defender los Derechos Humanos;
+
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
+
+iii. Relatoría por los Derechos de las Mujeres y la Igualdad de Género;
+
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
+
+iv. Relatoría por los Derechos de las Niñas y los Niños;
 
 v. Relatoría por los Derechos de las Personas con Discapacidad,
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2017)</small>
+
+vi. Relatoría por los Derechos de las Personas Migrantes, Refugiadas y Sujetas de Protección internacional, y
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2017)</small>
+
+vii. Relatoría por los Derechos de las Personas Jóvenes
 
 > <small>(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2014)</small>
 
@@ -1372,35 +1390,69 @@ La Contraloría Interna tendrá las atribuciones siguientes:
 
 I. Auxiliar a la o el Presidente y al Consejo en el ámbito de su competencia informándoles de las acciones que le sean encomendadas;
 
-> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-II. Vigilar que se establezca un sistema de control interno en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros y patrimoniales, así como revisar su cumplimiento conforme a los criterios de un gasto eficiente;
+II. Vigilar que se establezca un sistema de control interno en materia de programación, presupuestación y administración de recursos humanos, materiales, financieros y patrimoniales, con énfasis en el aspecto preventivo, que proporcione seguridad razonable en cuanto al adecuado uso de los recursos, el debido control de la gestión y el desempeño, así como, revisar y dar seguimiento a su cumplimiento y el alcance de las metas fijadas, conforme a la normatividad aplicable y los criterios de un gasto eficiente;
 
-III. Planear, realizar y supervisar todo tipo de auditorias para promover la eficiencia en el manejo, custodia y aplicación de los recursos, formulando las observaciones y recomendaciones que deriven de dichas auditorias;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-IV. Dar seguimiento a las observaciones y recomendaciones que formule la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, así como las de la propia Contraloría Interna;
+III. Planear, realizar y supervisar todo tipo de intervenciones y auditorías a los órganos y áreas de apoyo de la Comisión, con el objeto de verificar, evaluar y determinar, en términos cualitativos y cuantitativos, el manejo, custodia y aplicación de los recursos, el ejercicio del gasto público, el resultado de la gestión financiera, la eficiencia en sus operaciones y su desempeño en cuanto al cumplimiento de los objetivos contenidos en los programas, así como, formular los reportes, observaciones, recomendaciones, informes y dictámenes que se deriven y darles seguimiento, para salvaguardar la legalidad, honradez, lealtad, imparcialidad, eficiencia, eficacia, economía, transparencia y confidencialidad, que deben observar las y los servidores públicos;
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-V. Participar en los procedimientos y demás actos que tengan lugar en materia de adquisiciones, arrendamientos, prestación de servicios y obra, a fin de vigilar que se cumpla con la normatividad aplicable; resolver de las inconformidades que presenten los proveedores, así como de los procedimientos administrativos para declarar la procedencia de impedimento a proveedores para participar en licitaciones públicas, invitaciones restringidas, adjudicaciones directas y celebración de contratos, acorde con lo establecido en la normatividad en la materia;
+IV. Dar seguimiento a l a (sic) atención y solventación de las observaciones y recomendaciones que formule la Auditoría Superior de la Ciudad de México, derivadas de la revisión de la cuenta pública de la Comisión, hasta su conclusión o dictamen y, en su caso, fincar las responsabilidades a que haya lugar;
 
-VI. Integrar el padrón de los servidores públicos de la Comisión obligados a presentar declaración de su situación patrimonial, recibiéndolas o en su caso requiriéndolas, a fin de llevar el registro y seguimiento de la evolución de la situación patrimonial correspondiente;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-VII. Asistir a los actos de entrega-recepción de los servidores públicos de la Comisión, de mandos medios, superiores y homólogos, con motivo de la separación del cargo, empleo o comisión, a fin de verificar que se cumpla con las disposiciones normativas aplicables;
+V. Participar en los procedimientos y demás actos que tengan lugar en materia de adquisiciones, arrendamientos, desincorporación de activos, servicios y obra pública, a fin de vigilar que se cumpla con la normatividad aplicable; así como, sustanciar y resolver las inconformidades que se presenten y los procedimientos administrativos para declarar la procedencia de impedimento a p roveedores (sic), arrendadores, prestadores de servicios o contratistas para participar en procedimientos de adjudicación y celebración de contratos o pedidos, acorde con lo establecido en la normatividad en la materia;
 
-VIII. Recibir, investigar y resolver las quejas y denuncias que se presenten contra servidores y ex servidores públicos de la Comisión y aplicar las sanciones que procedan en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos aplicable;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-IX. Instaurar los procedimientos administrativos disciplinarios internos, con motivo de quejas y denuncias formuladas contra servidores y ex servidores públicos de la Comisión y como resultado de las auditorias practicadas;
+VI. Integrar el padrón de las y los servidores públicos de la Comisión obligados a presentar declaración patrimonial, de intereses y constancia de presentación de declaración fiscal, recibiéndolas o, en su caso, requiriéndolas, a fin de registrar, inscribir y mantener actualizada la información correspondiente en los sistemas respectivos, así como, llevar el seguimiento de la evolución y la verificación de su situación patrimonial y de intereses, en su caso;
 
-X Recibir, substanciar y resolver los recursos de revocación que se presenten en contra de las resoluciones en los procedimientos señalados en la fracción anterior, de conformidad con la Ley Federal de Responsabilidades de los Servidores Públicos aplicable, así como defender los intereses de la Contraloría Interna en cualquier medio de impugnación, y
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
+VII. Intervenir en los actos de entrega-recepción de los recursos a cargo de las y los servidores públicos de la Comisión, con niveles de mandos medios y superiores u homólogos, así como, de las y los que sean requeridos en forma expresa por el tipo de funciones desempeñadas, con motivo de la asunción o separación del cargo, empleo o comisión, a fin de verificar que se cumpla con las disposiciones normativas aplicables;
 
-XI. A través de su titular, expedir y certificar copias de los documentos y constancias que obren en sus archivos.
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 14 DE JULIO DE 2016)</small>
+VIII. A través de la Dirección que funja como autoridad investigadora, actuar como órgano de orientación y gestión, en apoyo de las personas que acudan ante ella con motivo de supuestas irregularidades administrativas al interior de la Comisión y, en su caso, recibir, radicar e investigar las quejas y denuncias que se presenten o formulen contra las y los servidores y ex servidores públicos de la Comisión o particulares que presuntamente hayan incurrido en responsabilidad administrativa, integrar los expedientes respectivos, acordar lo conducente y, en su caso, turnar su resolución a la autoridad substanciadora para que inicie el procedimiento de determinación de responsabilidad administrativa;
 
-XII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
+
+IX. A través de la Dirección que funja como autoridad substanciadora y resolutora, instaurar, substanciar y, en su caso, resolver los procedimientos de responsabilidad administrativa de su competencia, que proceda incoar con motivo de las quejas y denuncias formuladas contra las y los servidores y ex servidores públicos de la Comisión o como resultado de las revisiones, auditorías o intervenciones practicadas; determinar las responsabilidades que resulten, imponer las sanciones_administrativas (sic) y hacer las exhortaciones que procedan, notificar sus resoluciones, verificar su ejecución y, en su caso, dar vista a las autoridades competentes de los hechos que impliquen responsabilidad penal, en los términos de la ley de responsabilidades de los servidores públicos vigente en la Ciudad de México y demás disposiciones aplicables;
+
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
+
+X. Recibir, substanciar y resolver los recursos de revocación que se presenten en contra de las resoluciones en los procedimientos señalados en la fracción anterior, de conformidad con la ley de responsabilidades de los servidores públicos vigente en la Ciudad de México y demás disposiciones aplicables, así como, defender sus intereses y los de la Comisión en cualquier medio de impugnación derivado de los asuntos de su competencia;
+
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
+
+XI. Llevar el registro de las y los servidores públicos sancionados en el ámbito de la Comisión, intervenir en la instrumentación y seguimiento de los convenios de colaboración en las materias de su competencia, que celebre la o el Presidente, consultar los sistemas relacionados y verificar la información declarada o registrada;
+
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2017)</small>
+
+XII. Emitir el código de ética que deberá observar el personal de la Comisión y los demás lineamientos e i nstrumentos (sic) normativos de su competencia, los cuales deberá presentar previamente a l a (sic) o el Presidente y deberán conocer y opinar quienes integren del (sic) Consejo; así como, participar, en coordinación con la Secretaría Ejecutiva, en la elaboración de proyectos normativos o de reformas a los ordenamientos que tengan por objeto regular el control eficiente del gasto público, facilitar la rendición de cuentas, evitar actos irregulares e impulsar el fortalecimiento institucional;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2017)</small>
+
+XIII. Observar, en la selección de sus integrantes, un sistema que garantice la igualdad de oportunidades en el acceso a l a (sic) función pública, con base en el mérito y los mecanismos más adecuados y eficientes para su adecuada profesionalización;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2017)</small>
+
+XIV. Proponer a la Dirección General de Administración, la contratación de auditores externos u ot ros (sic) prestadores de servicios, para realizar trabajos en materia de revisión y auditoría, que resulten necesarios o coadyuven al cumplimiento de sus funciones de control y seguimiento, conforme a las normas, programas y objetivos establecidos;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2017)</small>
+
+XV. Requerir a l os (sic) órganos y áreas de apoyo de la Comisión, a las autoridades y oficinas públicas, a las y los servidores públicos adscritos, a las entidades e instituciones o a los particulares involucrados, la información necesaria para el desempeño de sus funciones;
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2017)</small>
+
+XVI. A través de su titular, expedir y certificar copias de los documentos y constancias que obren en sus expedientes o archivos, y
+
+> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2017)</small>
+
+XVII. Las demás que le confieran las leyes, el presente Reglamento, la o el Presidente y otros ordenamientos aplicables.
 
 ### CAPÍTULO IV. Del Consejo de la Comisión
 
@@ -2791,5 +2843,21 @@ SEGUNDO. Las referencias que se hagan en la normativa interna a la Consultoría 
 TERCERO. Las adecuaciones a la normativa interna deberán presentarse dentro del término de ciento ochenta días hábiles posteriores a la entrada en vigor, para su aprobación ante el Consejo de la Comisión.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO 9/2016 DEL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL, POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL”.]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 8/2017 DEL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL, POR EL QUE SE APRUEBA REFORMAR, ADICIONAR Y DEROGAR DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL”.]
+
+TRANSITORIOS DEL ACUERDO
+
+PRIMERO. Las presentes reformas al Reglamento Interno de la Comisión de Derechos Humanos del Distrito Federal, aprobadas en sesión ordinaria de fecha quince de marzo de 2017, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, quedando sin efectos todas aquellas disposiciones que las contravengan.
+
+SEGUNDO. Las adecuaciones a la normativa interna, incluido el Catálogo General de Cargos y Puestos de la Comisión de Derechos Humanos del Distrito Federal, deberán presentarse dentro del término de ciento ochenta días naturales posteriores a la entrada en vigor, para su aprobación ante el Consejo de la Comisión.
+
+TERCERO. La ocupación de los cargos y puestos de las áreas de apoyo que se reestructuran, se realizará atendiendo a la disponibilidad presupuestal.
+
+## TRANSITORIO
 
 ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
