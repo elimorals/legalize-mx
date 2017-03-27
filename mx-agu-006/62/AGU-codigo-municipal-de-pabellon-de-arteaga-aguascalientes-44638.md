@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2017-02-13"
+last_updated: "2017-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2017.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -2298,6 +2298,10 @@ b).- Coordinación de Gabinete;
 c).- Departamento de Comunicación Social y Relaciones Públicas;
 
 d).- Departamento de Atención a la ciudadanía;
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2017)</small>
+
+e).- Unidad de Transparencia.
 
 II.- Secretaría del H. Ayuntamiento:
 
@@ -24278,6 +24282,18 @@ Se derogan todas las disposiciones jurídicas de carácter reglamentario municip
 P.O. 13 DE FEBRERO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DE LA “REFORMA AL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente acuerdo.
+
+P.O. 27 DE MARZO DE 2017.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE ADICIONA EL INCISO E) A LA FRACCIÓN I DEL ARTÍCULO 203, DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA”.]</small>
 
 ###### ARTÍCULO PRIMERO.
 
