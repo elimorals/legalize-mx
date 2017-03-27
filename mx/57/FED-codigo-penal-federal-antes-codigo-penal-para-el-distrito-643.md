@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2016-07-18"
+last_updated: "2017-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "1931-08-13"
 ---
 # CODIGO PENAL FEDERAL -ANTES CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL-
 
+[NOTA 1. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL ARTÍCULO PRIMERO DEL "DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EJECUCIÓN PENAL; SE ADICIONAN LAS FRACCIONES XXXV, XXXVI Y XXXVII Y UN QUINTO PÁRRAFO, Y SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 225 DEL CÓDIGO PENAL FEDERAL", PUBLICADO EN EL D.O.F. DE 16 DE JUNIO DE 2016, SE SEÑALA QUE "A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY, SE DEROGAN LAS NORMAS CONTENIDAS EN EL CÓDIGO PENAL FEDERAL Y LEYES ESPECIALES DE LA FEDERACIÓN RELATIVAS A LA REMISIÓN PARCIAL DE LA PENA, LIBERTAD PREPARATORIA Y SUSTITUCIÓN DE LA PENA DURANTE LA EJECUCIÓN."]
+
+[NOTA 2. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO", PUBLICADO EN LA EDICIÓN VESPERTINA DEL D.O.F. 17 DE JUNIO DE 2016, SE SEÑALA QUE "LAS DISPOSICIONES DEL PRESENTE DECRETO RELATIVAS A LA EJECUCIÓN PENAL, ENTRARÁN EN VIGOR UNA VEZ QUE ENTRE EN VIGOR LA LEGISLACIÓN EN LA MATERIA PREVISTA EN EL ARTÍCULO 73, FRACCIÓN XXI, INCISO C) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS."]
+
 CÓDIGO PENAL FEDERAL
 
-[NOTA 1. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL ARTÍCULO PRIMERO DEL "DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EJECUCIÓN PENAL; SE ADICIONAN LAS FRACCIONES XXXV, XXXVI Y XXXVII Y UN QUINTO PÁRRAFO, Y SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 225 DEL CÓDIGO PENAL FEDERAL", PUBLICADO EN EL D.O.F. DE 16 DE JUNIO DE 2016, SE SEÑALA QUE “A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY, SE DEROGAN LAS NORMAS CONTENIDAS EN EL CÓDIGO PENAL FEDERAL Y LEYES ESPECIALES DE LA FEDERACIÓN RELATIVAS A LA REMISIÓN PARCIAL DE LA PENA, LIBERTAD PREPARATORIA Y SUSTITUCIÓN DE LA PENA DURANTE LA EJECUCIÓN.”]
-
-[NOTA 2. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO”, PUBLICADO EN LA EDICIÓN VESPERTINA DEL D.O.F. 17 DE JUNIO DE 2016, SE SEÑALA QUE “LAS DISPOSICIONES DEL PRESENTE DECRETO RELATIVAS A LA EJECUCIÓN PENAL, ENTRARÁN EN VIGOR UNA VEZ QUE ENTRE EN VIGOR LA LEGISLACIÓN EN LA MATERIA PREVISTA EN EL ARTÍCULO 73, FRACCIÓN XXI, INCISO C) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.”]
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2017.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1987,7 +1987,7 @@ ARTICULO 139 ter.- Se aplicará pena de cinco a quince años de prisión y de do
 
 > <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
 
-ARTICULO 139 quáter.- Se impondrá la misma pena señalada en el artículo 139 de este Código, sin perjuicio de las penas que corresponden por los demás delitos que resulten, al que por cualquier medio que fuere ya sea directa o indirectamente, aporte o recaude fondos económicos o recursos de cualquier naturaleza, con conocimiento de que serán destinados para financiar o apoyar actividades de individuos u organizaciones terroristas, o para ser utilizados, o pretendan ser utilizados, directa o indirectamente, total o parcialmente, para la comisión, en territorio nacional o en el extranjero, de cualquiera de los delitos previstos en los ordenamientos legales siguientes:
+ARTICULO 139 quater.- Se impondrá la misma pena señalada en el artículo 139 de este Código, sin perjuicio de las penas que corresponden por los demás delitos que resulten, al que por cualquier medio que fuere ya sea directa o indirectamente, aporte o recaude fondos económicos o recursos de cualquier naturaleza, con conocimiento de que serán destinados para financiar o apoyar actividades de individuos u organizaciones terroristas, o para ser utilizados, o pretendan ser utilizados, directa o indirectamente, total o parcialmente, para la comisión, en territorio nacional o en el extranjero, de cualquiera de los delitos previstos en los ordenamientos legales siguientes:
 
 I. Del Código Penal Federal, los siguientes:
 
@@ -2135,7 +2135,7 @@ ARTICULO 148 ter.- Se impondrá pena de cinco a diez años de prisión y de cien
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2014)</small>
 
-ARTICULO 148 quáter.- Se aplicará pena de seis a doce años de prisión y de doscientos a seiscientos días multa al que amenace con cometer el delito de terrorismo a que se refieren las fracciones I a III del artículo 148 Bis.
+ARTICULO 148 quater.- Se aplicará pena de seis a doce años de prisión y de doscientos a seiscientos días multa al que amenace con cometer el delito de terrorismo a que se refieren las fracciones I a III del artículo 148 Bis.
 
 (REUBICADO [N. DE E. ANTES TÍTULO CUARTO], D.O.F. 29 DE JULIO DE 1970)
 
@@ -2213,7 +2213,7 @@ Si quien propicie la evasión fuese servidor público, se le incrementará la pe
 
 ###### ARTICULO 151.
 
-El artículo anterior no comprende a los ascendientes, descendientes, cónyuge o hermanos del prófugo, ni a sus parientes por afinidad hasta el segundo grado, pues están exentos de toda sanción, excepto el caso de que hayan proporcionado la fuga por medio de la violencia en las personas o fuerza en las cosas.
+(DEROGADO, D.O.F. 27 DE MARZO DE 2017)
 
 > <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1986)</small>
 
@@ -2221,15 +2221,17 @@ El artículo anterior no comprende a los ascendientes, descendientes, cónyuge o
 
 Al que favorezca al mismo tiempo, o en un solo acto, la evasión de varias personas privadas de libertad por la autoridad competente, se le impondrá hasta una mitad más de las sanciones privativas de libertad señaladas en el artículo 150, según corresponda.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 153.
 
-Si la reaprehensión del prófugo se lograre por gestiones del responsable de la evasión, se aplicarán a éste de diez a ciento ochenta jornadas de trabajo en favor de la comunidad, según la gravedad del delito imputado al preso o detenido.
+Si la reaprehensión del prófugo se lograre por gestiones del responsable de la evasión, se aplicarán a éste de diez a ciento ochenta jornadas de trabajo en favor de la comunidad, según la gravedad del delito imputado al preso o detenido, salvo lo dispuesto por el artículo 150, segundo párrafo.
+
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 154.
 
-Al preso que se fugue no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerciere violencia en las personas, en cuyo caso la pena aplicable será de seis meses a tres años de prisión.
+A la persona privada de su libertad que se fugue, se le impondrán de seis meses a tres años de prisión, esta pena se incrementará en un tercio cuando la persona obre de concierto con otra u otras personas privadas de su libertad y se fugue alguna de ellas o ejerciere violencia en las personas.
 
 ### CAPITULO II. Quebrantamiento de sanción
 
@@ -2773,7 +2775,7 @@ ARTICULO 199 ter.- A quien cometa el delito previsto en el artículo 466 de la L
 
 > <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2012)</small>
 
-ARTICULO 199 quáter.- Se sancionará de cuatro a siete años de prisión y hasta setenta días multa a quien implante a una mujer un óvulo fecundado, cuando hubiere utilizado para ello un óvulo ajeno o esperma de donante no autorizado, sin el consentimiento expreso de la paciente, del donante o con el consentimiento de una menor de edad o de una incapaz para comprender el significado del hecho o para resistirlo.
+ARTICULO 199 quater.- Se sancionará de cuatro a siete años de prisión y hasta setenta días multa a quien implante a una mujer un óvulo fecundado, cuando hubiere utilizado para ello un óvulo ajeno o esperma de donante no autorizado, sin el consentimiento expreso de la paciente, del donante o con el consentimiento de una menor de edad o de una incapaz para comprender el significado del hecho o para resistirlo.
 
 Si el delito se realiza con violencia o de ella resulta un embarazo, la pena aplicable será de cinco a catorce años y hasta ciento veinte días multa.
 
@@ -3909,7 +3911,7 @@ XII.- Obligar al imputado a declarar, usando la incomunicación, intimidación o
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA ¨[N. DE E. ADICIONADA], D.O.F. 18 DE JULIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 18 DE JULIO DE 2016)</small>
 
 XIII.- Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio conforme a lo que establece el Código Nacional de Procedimientos Penales;
 
@@ -5095,7 +5097,7 @@ ARTICULO 343 ter.- Se equipara a la violencia familiar y se sancionará con seis
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
-ARTICULO 343 quáter.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
+ARTICULO 343 quater.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
 (REUBICADO [N. DE E. ANTES TÍTULO VIGÉSIMO PRIMERO], D.O.F. 29 DE JULIO DE 1970)
 
@@ -5581,7 +5583,7 @@ Se aplicarán hasta las dos terceras partes de las penas a las que se refiere es
 
 > <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-ARTICULO 366 quáter.- Las penas a que se refiere el artículo anterior se reducirán en una mitad cuando:
+ARTICULO 366 quater.- Las penas a que se refiere el artículo anterior se reducirán en una mitad cuando:
 
 I. El traslado o entrega del menor se realice sin el propósito de obtener un beneficio económico indebido, o
 
@@ -5631,7 +5633,7 @@ ARTICULO 368 bis.- Se sancionará con pena de tres a diez años de prisión y ha
 
 ARTICULO 368 ter.- Al que comercialice en forma habitual objetos robados, a sabiendas de esta circunstancia y el valor intrínseco de aquéllos sea superior a quinientas veces el salario, se le sancionará con una pena de prisión de seis a trece años y de cien a mil días multa.
 
-ARTICULO 368 quáter.- (DEROGADO, D.O.F. 12 DE ENERO DE 2016)
+ARTICULO 368 quater.- (DEROGADO, D.O.F. 12 DE ENERO DE 2016)
 
 > <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
 
@@ -6769,7 +6771,7 @@ Este Decreto entrará en vigor tres días después de su publicación en el "Dia
 
 D.O.F. 9 DE MARZO DE 1946.
 
-DECRETO QUE REFORMA EL ARTÍCULO 85 Y 366 FRACCION V DEL CÓDIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES.
+DECRETO QUE REFORMA EL ARTÍCULO 85 Y 366 FRACCIÓN V DEL CÓDIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES.
 
 ###### ARTICULO UNICO.
 
@@ -7099,7 +7101,7 @@ TERCERO.- Se derogan los artículos 119 a 122, del Código Penal para el Distrit
 
 D.O.F. 30 DE DICIEMBRE DE 1991.
 
-DECRETO QUE REFORMA LOS ARTÍCULOS 51, 55, 70, 90, 160, 162, 173, 176, 178, 182, 185, 187, 194, 226, 243, 247, 248, 249, 279, 280, 282, 289, 336, 336 BIS, 341, 380, 386 Y 399 BIS; ADICIONA LOS ARTÍCULOS 65, 74, 173 Y 282 Y DEROGA LOS ARTICULOS 171, 177, 184, 186, 190, 255, 256, 306 Y 400 DEL CÓDIGO PENAL.
+DECRETO QUE REFORMA LOS ARTÍCULOS 51, 55, 70, 90, 160, 162, 173, 176, 178, 182, 185, 187, 194, 226, 243, 247, 248, 249, 279, 280, 282, 289, 336, 336 BIS, 341, 380, 386 Y 399 BIS; ADICIONA LOS ARTÍCULOS 65, 74, 173 Y 282 Y DEROGA LOS ARTÍCULOS 171, 177, 184, 186, 190, 255, 256, 306 Y 400 DEL CÓDIGO PENAL.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -7487,7 +7489,7 @@ DECRETO QUE REFORMA LOS ARTÍCULOS 85, FRACCIÓN II Y 205 BIS, PRIMER PÁRRAFO D
 
 D.O.F. 14 DE JUNIO DE 2012.
 
-DECRETO QUE REFORMA LOS ARTÍCULOS 30, 31, 31-BIS, 85, 93, 107 BIS, 225, 260, 261, 262, 265, 266, 272, 261, 316, 323, 325, 343 BIS, 343 TER Y 390; SE ADICIONAN LOS ARTÍCULOS 149 TER, 199 TER, 199 QUÁTER, 199 QUINTUS, 199 SEXTUS Y 390 BIS; SE DEROGAN LOS ARTÍCULOS 310, 365 Y 365 BIS, DEL CÓDIGO PENAL FEDERAL.
+DECRETO QUE REFORMA LOS ARTÍCULOS 30, 31, 31-BIS, 85, 93, 107 BIS, 225, 260, 261, 262, 265, 266, 272, 261, 316, 323, 325, 343 BIS, 343 TER Y 390; SE ADICIONAN LOS ARTÍCULOS 149 TER, 199 TER, 199 QUATER, 199 QUINTUS, 199 SEXTUS Y 390 BIS; SE DEROGAN LOS ARTÍCULOS 310, 365 Y 365 BIS, DEL CÓDIGO PENAL FEDERAL.
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -7938,3 +7940,9 @@ Tercero.- Una vez que entre en vigencia la Ley General para Prevenir, Investigar
 Los procedimientos iniciados antes de la vigencia de dicha ley continuarán su sustanciación de conformidad con este Código.
 
 Cuarto.- Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+D.O.F. 27 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 153 Y 154, Y SE DEROGA EL ARTÍCULO 151 DEL CÓDIGO PENAL FEDERAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
