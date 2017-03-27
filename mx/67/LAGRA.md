@@ -4,7 +4,7 @@ identifier: "LAGRA"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-26"
-last_updated: "2016-12-19"
+last_updated: "2017-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAGRA"
 
 LEY AGRARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 26 de febrero de 1992.
 
@@ -526,9 +526,13 @@ La propiedad de los solares se acreditará con el documento señalado en el art�
 
 En cada ejido la asamblea podrá resolver sobre el deslinde de las superficies que considere necesarias para el establecimiento de la parcela escolar, la que se destinará a la investigación, enseñanza y divulgación de prácticas agrícolas que permitan un uso más eficiente de los recursos humanos y materiales con que cuenta el ejido. El reglamento interno del ejido normará el uso de la parcela escolar.
 
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 2017)</small>
+
 ###### Artículo 71.
 
-La asamblea podrá reservar igualmente una superficie en la extensión que determine, localizada de preferencia en las mejores tierras colindantes con la zona de urbanización, que será destinada al establecimiento de una granja agropecuaria o de industrias rurales aprovechadas por las mujeres mayores de dieciséis años del núcleo de población. En esta unidad se podrán integrar instalaciones destinadas específicamente al servicio y protección de la mujer campesina.
+La asamblea podrá reservar igualmente una superficie en la extensión que determine, localizada de preferencia en las mejores tierras colindantes con la zona de urbanización, que será destinada al establecimiento de la unidad agrícola industrial de la mujer, la cual deberá ser aprovechada por las mujeres mayores de dieciséis años del núcleo de población.
+
+En esta unidad se podrán integrar instalaciones destinadas específicamente al servicio y protección de la mujer campesina, su objeto será la realización y coordinación de actividades productivas, de asistencia mutua, aprovechamiento de recursos, comercialización o cualquier otra actividad que promueva el desarrollo económico y social de las mujeres dentro del núcleo agrario.
 
 > <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -809,6 +813,10 @@ Las uniones de ejidos podrán establecer empresas especializadas que apoyen el c
 Los ejidos y comunidades, de igual forma podrán establecer empresas para el aprovechamiento de sus recursos naturales o de cualquier índole, así como la prestación de servicios. En ellas podrán participar ejidatarios, grupos de mujeres campesinas organizadas, hijos de ejidatarios, comuneros, avecindados y pequeños productores.
 
 Las empresas a que se refieren los dos párrafos anteriores podrán adoptar cualquiera de las formas asociativas previstas por la ley.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2017)</small>
+
+Las mujeres pertenecientes a un núcleo agrario sin importar el carácter que tengan dentro del mismo, podrán organizarse como Unidad Agrícola Industrial de la Mujer y éstas a su vez en uniones, cumpliendo con los requisitos que señala el presente Título. La denominación social irá seguida de las palabras Unidad Agrícola Industrial de la Mujer o su abreviatura, UAIM.
 
 ###### Artículo 109.
 
@@ -1418,9 +1426,9 @@ IV. El magistrado podrá hacer libremente las preguntas que juzgue oportunas a c
 
 V. Si el demandado no compareciere o se rehusara a contestar las preguntas que se le hagan, el tribunal podrá tener por ciertas las afirmaciones de la otra parte, salvo cuando se demuestre que no compareció por caso fortuito o fuerza mayor a juicio del propio tribunal; y
 
-> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2017)</small>
 
-VI. En cualquier estado de la audiencia y en todo caso antes de pronunciar el fallo, el tribunal exhortará a las partes a una composición amigable. Si se lograra la aveniencia (sic), se dará por terminado el juicio y se suscribirá el convenio respectivo, el que una vez calificado y, en su caso, aprobado por el tribunal, tendrá el carácter de sentencia. En caso contrario, el tribunal oirá los alegatos de las partes, para lo cual concederá el tiempo necesario a cada una y en seguida pronunciará su fallo en presencia de ellas de una manera clara y sencilla.
+VI. En cualquier estado de la audiencia y en todo caso antes de pronunciar el fallo, el tribunal exhortará a las partes a una composición amigable. Si se lograra la avenencia, se dará por terminado el juicio y se suscribirá el convenio respectivo, el cual deberá cumplir con los principios de exhaustividad, congruencia y equidad, el que una vez calificado y, en su caso, aprobado por el tribunal, tendrá el carácter de sentencia ejecutoriada. En caso contrario, el tribunal oirá los alegatos de las partes, para lo cual concederá el tiempo necesario a cada una y en seguida pronunciará su fallo en presencia de ellas de una manera clara y sencilla.
 
 > <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
 
@@ -1582,7 +1590,7 @@ México, D.F., a 23 de febrero de 1992.- Dip. María Esther Scherman Leaño, Pre
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal a los veintitrés días del mes de febrero de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O.F. 9 DE JULIO DE 1993.
 
@@ -1635,5 +1643,17 @@ D.O.F. 19 DE DICIEMBRE DE 2016.
 D.O.F. 19 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL INCISO B) DEL ARTÍCULO 80 DE LA LEY AGRARIA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 71 Y SE ADICIONA UN OCTAVO PÁRRAFO AL ARTÍCULO 108 DE LA LEY AGRARIA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 185 DE LA LEY AGRARIA”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
