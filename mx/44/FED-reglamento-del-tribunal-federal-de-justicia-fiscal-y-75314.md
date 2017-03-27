@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-tribunal-federal-de-justicia-fiscal-y-75314"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-17"
-last_updated: "2017-03-10"
+last_updated: "2017-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "2010-04-27"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO ESPECÍFICO E/JGA/8/2017 DE LA JUNTA DE GOBIERNO Y ADMINISTRACIÓN DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, PUBLICADO EN EL D.O.F. DE 10 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2017 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA PARA DAR CUMPLIMIENTO AL ARTÍCULO 61 DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MARZO DE 2017 (ABROGADO).
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 27 DE MARZO DE 2017.]</small>
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 17 de junio de 2010.
 
@@ -823,7 +823,9 @@ D.O.F. 10 DE MARZO DE 2017.
 
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL PUNTO DEL "ACUERDO ESPECÍFICO E/JGA/8/2017 DE LA JUNTA DE GOBIERNO Y ADMINISTRACIÓN DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, RELATIVO A LA ABROGACIÓN DEL ACUERDO E/JGA/13/2010 POR EL QUE SE EXPIDIÓ EL REGLAMENTO DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA PARA DAR CUMPLIMIENTO AL ARTÍCULO 61 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL”.]</small>
 
-Único. Se Abroga el Acuerdo E/JGA/13/2010 por el que se expidió el Reglamento del Tribunal Federal de Justicia Fiscal y Administrativa para dar cumplimiento al artículo 61 de la Ley de Transparencia y Acceso a la Información Pública Gubernamental, dictado por la Junta de Gobierno y Administración en sesión de veintisiete de abril de dos mil diez.
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 2017)</small>
+
+Único. Se Abroga el Acuerdo E/JGA/13/2010 por el que se expidió el Reglamento del Tribunal Federal de Justicia Fiscal y Administrativa para dar cumplimiento al artículo 61 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 ## TRANSITORIO
 
