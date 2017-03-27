@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-82-organica-de-la-procuraduria-general-de-110873"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-11"
-last_updated: "2016-05-02"
+last_updated: "2017-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 82 ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
+> <small>[N. DE E. VÉASE NUEVA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 27 DE MARZO DE 2017.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE MARZO DE 2017.
 
 Ley publicada en Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 11 de diciembre de 2015.
 
@@ -1308,3 +1310,47 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 A partir del día siguiente de la entrada en vigor del presente Decreto, la Procuraduría General de Justicia del Estado contará con un plazo de 60 días hábiles para la elaboración y publicación en el Boletín Oficial del Gobierno del Estado, del protocolo de actuación para la investigación en el delito de feminicidio con perspectiva de género para el Estado de Sonora.
+
+B.O. 27 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 180, ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del plazo de noventa días naturales contados a partir de la entrada en vigor de la presente Ley, el Fiscal General deberá emitir el Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Sonora; en tanto, los protocolos que establece esta Ley deberán ser emitidos dentro de los 180 días siguientes a la entrada en vigor de esta norma jurídica. Hasta en tanto se expiden el Reglamento y las demás disposiciones normativas, se seguirán aplicando las anteriormente existentes en lo que no se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos iniciados durante la vigencia de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora, continuarán desahogándose hasta su conclusión, con las leyes y normas vigentes en el momento de su iniciación.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Procuraduría General de Justicia del Estado de Sonora pasarán a formar parte de la Fiscalía General del Estado de Sonora.
+
+El personal que formaba parte de la Procuraduría General de Justicia del Estado de Sonora conservará la antigüedad, derechos y prestaciones de que gozaba.
+
+Así mismo, los asuntos a cargo de la Procuraduría General de Justicia del Estado, las Agencias Especializadas y demás unidades administrativas, pasarán al conocimiento para su integración hasta su total resolución, a las nuevas Fiscalías y áreas correlativas creadas para tales efectos en esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la entrada en vigor de la presente Ley, las menciones o referencias que se hagan a la Procuraduría General de Justicia del Estado de Sonora en las leyes, reglamentos, lineamientos, normas, directrices, decretos, acuerdos, guías, fideicomisos, fondos, contratos, estatutos, políticas, procedimientos, circulares, oficios, cuentas, instrumentos jurídicos y disposiciones de cualquier naturaleza, se entenderán referidas a la Fiscalía General del Estado de Sonora.
+
+###### ARTÍCULO SEXTO.
+
+Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones normativas a las unidades y áreas administrativas que cambian de denominación o desaparecen por virtud de la presente Ley, se entenderán hechas o conferidas a las unidades y áreas administrativas que correspondan conforme a lo establecido en la misma.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Ley Orgánica de la Procuraduría General, publicada en el Boletín Oficial del Gobierno del Estado de Sonora número 53, sección VIII, de fecha 30 de diciembre de 1991, continuará su aplicación en los casos que se tramiten bajo el régimen del Código de Procedimientos Penales del Estado de Sonora y quedará abrogada, una vez se concluya el último proceso penal seguido bajo sus reglas, y entre en vigor y en su totalidad el Código Nacional de Procedimientos Penales.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+Las menciones que se realicen en la presente Ley y demás leyes, reglamentos, acuerdos, circulares y documentos oficiales, respecto de la Agencia Ministerial de Investigación Criminal, se entenderán que se refieren a la Policía Estatal Investigadora.
