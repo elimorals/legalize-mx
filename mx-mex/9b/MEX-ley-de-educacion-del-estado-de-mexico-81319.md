@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2016-12-20"
+last_updated: "2017-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE MARZO DE 2017.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -625,7 +625,9 @@ XIX. Establecer, de forma paulatina y conforme a la suficiencia presupuestal, es
 
 XX. Establecer y fomentar sistemas de educación a distancia, mediante el uso de tecnologías de la información y la comunicación;
 
-XXI. Otorgar becas, así como estímulos a los educandos que lo requieran por su situación socioeconómica y desempeño académico, en términos de la reglamentación respectiva;
+> <small>(REFORMADA, G.G. 28 DE MARZO DE 2017)</small>
+
+XXI. Otorgar becas, así como estímulos a los educandos que lo requieran por su situación socioeconómica y desempeño académico; también otorgará y verificará la asignación de beca-salario, de acuerdo con la suficiencia presupuestal disponible, observando en todo momento los términos de la normatividad aplicable, así mismo, diseñará y dará seguimiento a las respectivas actividades comunitarias de reciprocidad, con el objetivo primordial de evitar la deserción escolar por motivos económicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE AGOSTO DE 2016)</small>
 
@@ -2888,3 +2890,35 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 28 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 196.- POR EL QUE SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 27 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Ejecutivo del Estado, emitirá las disposiciones reglamentarias que regulen el programa "Beca-Salario" en un plazo de noventa días a partir de la entrada en vigor del presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Finanzas adoptará todas las medidas de racionalidad en el gasto que sean necesarias para financiar el programa "Beca-Salario".
+
+###### ARTÍCULO SEXTO.
+
+La Legislatura del Estado, al aprobar el presupuesto de egresos de cada ejercicio fiscal dispondrá de los recursos necesarios para financiar el programa "Beca Salario", los que no podrán ser inferiores a los aprobados o autorizados en el ejercicio fiscal anterior.
+
+###### ARTÍCULO SÉPTIMO.
+
+El apoyo al que accederán los beneficiarios del Programa Beca Salario, se realizará considerando la suficiencia presupuestal, con base en lo establecido en las reglas de operación que para efecto se emita.
