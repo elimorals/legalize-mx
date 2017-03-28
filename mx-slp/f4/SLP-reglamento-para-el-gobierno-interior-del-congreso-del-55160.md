@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2017-03-07"
+last_updated: "2017-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2017.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -373,9 +373,11 @@ Para tal efecto, el Congreso del Estado recibirá de la Auditoría Superior del 
 
 Cuando el Congreso esté funcionando en calidad de Gran Jurado, no tendrá receso.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 25.
 
-Todas las sesiones de apertura y clausura de periodos ordinarios y extraordinarios serán solemnes, y contarán con la asistencia de representantes de los poderes Ejecutivo y Judicial. En estas sesiones no se tratará ningún otro asunto.
+Todas las sesiones de apertura y clausura de periodos ordinarios y extraordinarios serán solemnes, y contarán con la asistencia de representantes de los poderes, Ejecutivo, y Judicial, quienes deberán ostentar como mínimo el cargo de Secretarios de Estado y Magistrados, respectivamente. En estas sesiones no se tratará ningún otro asunto.
 
 ###### ARTICULO 26.
 
@@ -875,9 +877,27 @@ I. La fecha de turno de la iniciativa; determinando si se trata de ley, decreto,
 
 II. Si se trata de una iniciativa de ley, el dictamen tendrá una parte en la que se hará referencia a su constitucionalidad, con relación a las constituciones federal y local; sus antecedentes; estructura jurídica; justificación, y pertinencia; además, un cuadro comparativo entre las leyes vigentes y la iniciativa propuesta. Asimismo, expondrá con precisión las modificaciones, ajustes de contenido normativo y estructura que haya realizado, en su caso, la comisión, con los argumentos y razones que los sustenten; así como la valoración técnico-jurídica que de la misma se haya hecho, y que dé lugar a su aprobación o desechamiento por improcedencia. Igualmente, contendrá una parte resolutiva en la que se establezca si el dictamen se aprueba en sus términos; se aprueba con modificaciones de la comisión; se desecha; o se formula con carácter suspensivo a efecto de definir un tiempo razonable para su resolución definitiva;
 
-III. De tratarse de un decreto, el dictamen propuesto contendrá las consideraciones y la resolución sobre el asunto, y
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE MARZO DE 2017)</small>
 
-IV. Para los acuerdos administrativos o económicos, o puntos de acuerdo, se presentarán en el planteamiento, los argumentos de discusión y la respuesta positiva o negativa.
+III. De tratarse de un decreto, el dictamen propuesto deberá contener las consideraciones y la resolución sobre el asunto;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE MARZO DE 2017)</small>
+
+IV. Para los acuerdos administrativos o económicos, o puntos de acuerdo, se presentarán en el planteamiento, los argumentos de discusión y la respuesta positiva o negativa, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 28 DE MARZO DE 2017)</small>
+
+V. Lista que contenga la siguiente información:
+
+a) Nombre de la comisión.
+
+b) Nombres de las o los diputados que la integran.
+
+c) Firma autógrafa de las legisladoras o legisladores de la comisión o comisiones que dictaminan.
+
+d) Sentido del voto: a favor; en contra; o abstención.
+
+e) Al calce, datos del turno del dictamen que se está firmando.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2012)</small>
 
@@ -1295,9 +1315,11 @@ Los asuntos que sean de la competencia exclusiva de las comisiones deberán ser 
 
 Las comisiones permanentes serán las constituidas para todo el periodo constitucional de una Legislatura.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 143.
 
-Si en razón de su competencia es necesario turnar un mismo asunto a dos o más comisiones, éstas deberán dictaminar, preferentemente, de manera conjunta; correspondiendo la elaboración del dictamen a aquélla a la que haya sido turnado el asunto en primer término.
+Si en razón de su competencia es necesario turnar un mismo asunto a dos o más comisiones, éstas deberán dictaminar, preferentemente, de manera conjunta; correspondiendo la elaboración del dictamen a aquélla a la que haya sido turnado el asunto en primer término; en caso de que el asunto no haya sido resuelto en términos del artículo 92 de la Ley Orgánica del Poder Legislativo del Estado de San Luis Potosí, cualquiera de las comisiones podrá, en el lapso de veinte días naturales, elaborar el dictamen respectivo y presentarlo ante el Pleno para su votación; en este caso, la Coordinación General de Servicios Parlamentarios lo hará del conocimiento del resto de las comisiones, quienes al no manifestarse en el término de diez días hábiles, se entenderá que están conformes con el sentido del dictamen que se haya presentado. De no ser coincidentes con el sentido del dictamen, podrán presentar uno diverso, en tal caso, éstos se someterán a la consideración del Pleno.
 
 #### Sección Tercera. De las Comisiones Jurisdiccionales
 
@@ -1339,9 +1361,9 @@ I. Instalar legalmente la comisión o comité que presida, dentro de la semana s
 
 II. Presentar con oportunidad para su aprobación, el proyecto de plan anual de trabajo a que se refiere el artículo 138 de este Reglamento, el cual deberá ser congruente con la agenda legislativa;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
 
-III. Elaborar el orden del día de las reuniones de la comisión o comité, y anexarla a la convocatoria de la misma;
+III. Elaborar el citatorio y el orden del día de las reuniones de la comisión o comité respectivo. Por lo que hace al orden del día, éste deberá ser enviado a la dirección de correo electrónico que expresamente cada diputado haya autorizado para tal efecto ante quien presida, debiendo adjuntar digitalmente la totalidad de los dictámenes y documentos que vayan a ser tratados; para ello marcará copia al presidente o la presidenta, a efecto de hacer constar la remisión de los documentos correspondientes;
 
 IV. Citar a los integrantes de su comisión o comité para el desempeño de su cometido;
 
@@ -1375,9 +1397,15 @@ I. Pasar lista de asistencia en las reuniones a las que se haya citado conforme 
 
 II. Firmar las actas aprobadas y, en su caso, cuidar de su redacción y archivo, con el apoyo de la secretaría técnica de la comisión o comité correspondiente;
 
-III. Apoyar al Presidente de la comisión o comité en la lectura de dictámenes y demás documentos que se presenten a la misma, y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
 
-IV. Las demás que le atribuya la ley.
+III. Apoyar al Presidente de la comisión o comité en la lectura de dictámenes y demás documentos que se presenten a la misma;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2017)</small>
+
+IV. Expedir las certificaciones que se soliciten, previa autorización del Presidente, y
+
+V. Las demás que le atribuya la ley.
 
 #### Sección Sexta. De las Reuniones de las Comisiones y Comités
 
@@ -1397,15 +1425,15 @@ En la votación de los dictámenes, acuerdos o resoluciones, los diputados deber
 
 Cuando un diputado tenga un voto particular sobre un dictamen, deberá hacerlo del conocimiento del presidente de la comisión y presentarlo por escrito, a fin de adjuntarlo al dictamen previo a su entrega a la Secretaría del Congreso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 151.
 
-El presidente de la comisión o comité deberá citar a las reuniones ordinarias, con por lo menos cuarenta y ocho horas de anticipación, anexando al citatorio, el orden del día y los proyectos de dictámenes o asuntos que vayan a discutirse, recabando el acuse de recibo correspondiente.
+El presidente de la comisión o comité deberá citar a las reuniones ordinarias con por lo menos cuarenta y ocho horas de anticipación, y enviará, el orden del día; y los proyectos de dictámenes o asuntos que vayan a discutirse, en medio digital a la dirección de correo electrónico de cada uno de sus integrantes, los que se entenderán como documentos anexos al citatorio respectivo; recabando en éste el acuse de recibo correspondiente.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
 
-Cuando así lo acuerden, podrán obviar este trámite y determinar la fecha y hora de la reunión siguiente al final de cada reunión, asentándolo en el acta respectiva no obstante, se deberá entregar el orden del día y documentos que vayan a someterse a discusión, con la anticipación que señala el párrafo anterior.
+Cuando así lo acuerden, podrán obviar este trámite y determinar la fecha y hora de la reunión siguiente al final de cada reunión, asentándolo en el acta respectiva; no obstante, se deberá entregar el orden del día y documentos que vayan a someterse a discusión, en los mismos términos y con la anticipación que señala el párrafo anterior.
 
 Para las reuniones extraordinarias, cuando la urgencia del caso lo amerite, bastará con que el presidente o algún otro integrante, en atención a la trascendencia del caso a tratar, lo hagan del conocimiento inmediato de los diputados localizables.
 
@@ -1493,9 +1521,11 @@ Cuando un asunto por su naturaleza haya quedado sin materia sobre la cual resolv
 
 Las comisiones y comités resolverán los asuntos que se les turnen, conforme al orden cronológico en que hayan sido turnados, la urgencia, obvia resolución y factibilidad de resolverse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 157.
 
-El presidente de cada comisión dará cuenta a los integrantes de la misma, de los asuntos que hayan sido turnados a ésta a partir de la última reunión de la comisión, proporcionándoles a los diputados que lo soliciten, copias fotostáticas de los expedientes relativos; asimismo, previo acuerdo con los integrantes de la misma, determinará:
+El presidente de cada comisión dará cuenta a los integrantes de la misma, de los asuntos que hayan sido turnados a ésta a partir de la última reunión de la comisión, proporcionándoles a los diputados que lo soliciten, copias digitalizadas en archivo electrónico que contenga los expedientes relativos; asimismo, previo acuerdo con los integrantes de la misma, determinará:
 
 I. Si únicamente se toma conocimiento, caso en el que la comisión o comité deberá remitir al promovente acuse de recibo, en un término no mayor de diez días hábiles de la fecha de turno;
 
@@ -2492,6 +2522,54 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 7 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0580.- SE ADICIONA AL ARTÍCULO 126 EN SU FRACCIÓN II INCISO C) PÁRRAFO SEGUNDO, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0590.- SE REFORMA Y ADICIONA EL ARTÍCULO 148 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0591.- SE REFORMA Y ADICIONA EL ARTÍCULO 86 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0592.- SE REFORMA Y ADICIONA EL ARTÍCULO 92 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMA EL ARTÍCULO 143 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0593.- SE REFORMA EL ARTÍCULO 25 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0594.- SE REFORMA LOS ARTÍCULOS 146, 151 Y 157 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0594 BIS.- SE REFORMA EL ARTÍCULO 86 Y ADICIONA AL MISMO ARTÍCULO 86 LA FRACCIÓN V, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO".]
 
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
