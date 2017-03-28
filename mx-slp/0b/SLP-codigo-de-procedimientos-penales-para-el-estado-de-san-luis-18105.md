@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2017-02-07"
+last_updated: "2017-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "SLP"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO Y SU TRANSITORIO ÚNICO DEL DECRETO NÚMERO 752, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 30 DE SEPTIEMBRE DE 2014.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2017 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2017.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE MARZO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO 564 PUBLICADO EN EL P.O. DE 7 DE FEBRERO DE 2017.]</small>
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
