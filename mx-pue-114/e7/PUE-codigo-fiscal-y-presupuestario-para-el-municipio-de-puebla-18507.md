@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2013-12-30"
+last_updated: "2017-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2017.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -1073,7 +1073,9 @@ IV. Que no haya créditos fiscales exigibles a su cargo, porque de haberlos, cua
 
 V. Que si se trata de ingresos correspondientes a ejercicios fiscales anteriores, exista partida que reporte la erogación en el presupuesto de egresos del Municipio y saldo disponible; y
 
-VI. Que se dicte acuerdo escrito del Presidente, cuando su monto exceda de una cantidad equivalente a un salario mínimo diario general vigente en el Municipio, elevado al año.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
+
+VI. Que se dicte acuerdo escrito del Presidente, cuando su monto exceda de una cantidad equivalente al valor diario de una unidad de medida y actualización, elevado al año.
 
 ###### Artículo 48.
 
@@ -2589,39 +2591,43 @@ Comete el delito de defraudación fiscal, quien haciendo uso de engaños o aprov
 
 El delito de defraudación fiscal se sancionará:
 
-I. Con prisión de dos meses a cuatro años y multa de cincuenta a ciento cincuenta días de salario, si el monto de lo defraudado no excede de doscientas veces el salario mínimo diario general vigente en el Municipio; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
 
-II. Con prisión de dos a cinco años y multa de cien a doscientos cincuenta días de salario, si el monto de lo defraudado excede de doscientas veces el salario mínimo diario general vigente en el Municipio.
+l. Con prisión de dos meses a cuatro años y multa del equivalente al valor diario de cincuenta a ciento cincuenta unidades de medida y actualización, si el monto de lo defraudado no excede del equivalente al valor diario de doscientas unidades de medida y actualización, y
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
+
+II. Con prisión de dos a cinco años y multa del equivalente al valor diario de cien a doscientos cincuenta unidades de medida y actualización, si el monto de lo defraudado excede del equivalente al valor diario de doscientas unidades de medida y actualización.
 
 ###### Artículo 96.
 
 Comete el delito de quebrantamiento de sellos o marcas oficiales, quien sin derecho los altere, destruya o retire, habiendo sido colocados con finalidad fiscal para identificar o asegurar documentación, negociaciones o establecimientos sujetos a comprobación de obligaciones fiscales o impida por cualquier medio que se logre el propósito para el que fueron colocados.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
 
 ###### Artículo 97.
 
-Al que cometa el delito de quebrantamiento de sellos o marcas oficiales colocados por autoridad fiscal en el ejercicio de sus facultades, se le impondrá la pena de dos meses a tres años de prisión y multa de cuarenta a ochenta veces el salario mínimo diario general vigente en el Municipio, calculados al momento en que se impone la sanción.
+Al que cometa el delito de quebrantamiento de sellos o marcas oficiales colocados por autoridad fiscal en el ejercicio de sus facultades, se le impondrá la pena de dos meses a tres años de prisión y multa del equivalente al valor diario de cuarenta a ochenta unidades de medida y actualización, calculados al momento en que se impone la sanción.
 
 ###### Artículo 98.
 
 Comete el delito de falsificación o uso de medios de control fiscal, quien sin autorización grabe, manufacture, imprima, troquele, altere o forme con fragmentos de aquéllos las matrices, punzones, dados, clichés, negativos, engomados, placas o comprobantes de pago, que se utilicen como medio de control fiscal; o los use, los ponga en circulación, los venda a sabiendas de su falsificación o los ostente como pago de contribuciones, en perjuicio del Erario del Municipio.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
 
 ###### Artículo 99.
 
-El delito de falsificación o uso de medios de control fiscal, se sancionará con prisión de seis meses a cinco años y multa de sesenta a ciento veinte veces el salario mínimo diario general vigente en el Municipio, calculados al momento en que se impone la sanción.
+El delito de falsificación o uso de medios de control fiscal, se sancionará con prisión de seis meses a cinco años y multa del equivalente al valor diario de sesenta a ciento veinte unidades de medida y actualización calculados al momento en que se impone la sanción.
 
 ###### Artículo 100.
 
 Comete el delito de usurpación de funciones fiscales, la persona que ordene o practique actos propios de la autoridad fiscal, sin estar autorizado para hacerlo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
 
 ###### Artículo 101.
 
-El delito de usurpación de funciones fiscales, se sancionará con prisión de uno a seis años y multa de ochenta a ciento sesenta veces el salario mínimo diario general vigente en el Municipio, calculados al momento en que se impone la sanción.
+El delito de usurpación de funciones fiscales, se sancionará con prisión de uno a seis años y multa del equivalente al valor diario de ochenta a ciento sesenta unidades de medida y actualización calculados al momento en que se impone la sanción.
 
 ###### Artículo 102.
 
@@ -2631,9 +2637,13 @@ Comete el delito de disposición indebida de bienes, el depositario o intervento
 
 El delito de disposición indebida de bienes por depositarios o interventores, se sancionará:
 
-I. Con prisión de tres meses a tres años y multa de cincuenta a ciento cincuenta días de salario, si el valor de lo dispuesto no excede de doscientas veces el salario mínimo diario general vigente en el Municipio; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
 
-II. Con prisión de uno a cuatro años y multa de cien a doscientos cincuenta días de salario, si el valor de lo dispuesto excede de doscientas veces el salario mínimo diario general vigente en el Municipio.
+I. Con prisión de tres meses a tres años y multa del equivalente al valor diario de cincuenta a ciento cincuenta unidades de medida y, si el valor de lo dispuesto no excede del equivalente al valor diario de doscientas unidades de medida y actualización, y
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
+
+II. Con prisión de uno a cuatro años y multa del equivalente al valor diario de cien a doscientos cincuenta unidades de medida y actualización, si el valor de lo dispuesto excede del equivalente al valor diario de doscientas unidades de medida y actualización.
 
 ## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
@@ -3111,9 +3121,9 @@ El remate deberá ser convocado por la autoridad fiscal para una fecha fijada de
 
 La convocatoria se fijará en sitio visible y usual de la oficina ejecutora y en los lugares públicos municipales, que ésta juzgue convenientes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a doscientas veces el salario mínimo diario general vigente en el Municipio calculados al momento de emitirse el avalúo, la convocatoria se publicará en el periódico de mayor circulación en el Municipio a juicio de la oficina ejecutora, dos veces con intervalo de siete días, la última publicación se hará cuando menos diez días hábiles antes de la fecha del remate.
+En el caso de que el valor de los bienes exceda de una cantidad equivalente al valor diario de doscientas unidades de medida y actualización calculados al momento de emitirse el avalúo, la convocatoria se publicará en el periódico de mayor circulación en el Municipio a juicio de la oficina ejecutora, dos veces con intervalo de siete días, la última publicación se hará cuando menos diez días hábiles antes de la fecha del remate.
 
 ###### Artículo 144.
 
@@ -3419,9 +3429,13 @@ Cuando en un mismo acto el contribuyente deba efectuar el pago de dos o más con
 
 Se concede la exención de los derechos previstos en la Ley de Ingresos del Municipio y demás ordenamientos o acuerdos de orden tributario, que se generen por la prestación de servicios a cargo de las dependencias y entidades, vinculados con la edificación o adquisición de vivienda de interés social o popular, a quienes la adquieran o construyan a través de la gestoría de la Comisión de Vivienda del Estado de Puebla, para tal efecto se entiende por:
 
-Vivienda de interés social.- Aquélla cuyo valor al término de su edificación, no exceda del resultado de multiplicar por quince el salario mínimo general vigente en el Estado de Puebla, elevado al año.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
 
-Vivienda de interés popular.- Aquélla cuyo valor al término de su edificación, no exceda del resultado de multiplicar por veinticinco el salario mínimo general vigente en el Estado de Puebla, elevado al año.
+Vivienda de interés social.- Aquella cuyo valor al término de su edificación, no exceda del resultado de multiplicar por el valor diario de quince unidades de medida y actualización, elevado al año.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
+
+Vivienda de interés popular.- Aquella cuyo valor al término de su edificación, no exceda del resultado de multiplicar por el valor diario de veinticinco unidades de medida y actualización, elevado al año.
 
 Esta disposición es aplicable, sólo en el caso de que el Municipio, suscriba convenio con el Estado.
 
@@ -3771,7 +3785,7 @@ SUJETOS. Son sujetos de este impuesto, las personas físicas, morales o unidades
 
 BASE. Es base gravable de este impuesto:
 
-I. El importe total de los boletos o billetes de participación vendidos; y (sic)
+I. El importe total de los boletos o billetes de participación vendidos; y
 
 II. El importe total del premio obtenido, si éste consiste en una cantidad determinada de dinero.
 
@@ -4413,9 +4427,9 @@ III. Que tiene la capacidad jurídica para solicitar la renovación de la licenc
 
 La expedición de las licencias a que se refiere el párrafo anterior, se pagará de conformidad a las cuotas, tasas y tarifas asignadas a cada giro para el ejercicio correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
 
-En el caso que para la expedición de la autorización para la colocación de publicidad se obligue el solicitante a retirarla del lugar en el que la coloque, deberá otorgar fianza expedida por afianzadora debidamente autorizada a favor de la Tesorería, por un monto de 500 a 1,500 días de salario mínimo diario vigente en el Municipio de Puebla al momento de su otorgamiento, para garantizar el retiro de la misma.
+En el caso que para la expedición de la autorización para la colocación de publicidad se obligue el solicitante a retirarla del lugar en el que la coloque, deberá otorgar fianza expedida por afianzadora debidamente autorizada a favor de la Tesorería, por el equivalente al valor diario de quinientas a mil quinientas unidades de medida y actualización, al momento de su otorgamiento, para garantizar el retiro de la misma.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -5307,15 +5321,19 @@ Los responsables garantizarán a través de embargo precautorio y en forma indiv
 
 Las responsabilidades que se constituyan tendrán por objeto indemnizar por los daños y perjuicios que se ocasionen a la Hacienda Pública Municipal, las que tendrán el carácter de créditos fiscales y se fijarán por la Contraloría en cantidad líquida, misma que se exigirá se cubra desde luego, sin perjuicio de que, en su caso, la Tesorería las haga efectivas a través del Procedimiento Administrativo de Ejecución.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
+
 ###### Artículo 319.
 
-La Contraloría, podrá dispensar las responsabilidades en que se incurra, siempre que los hechos que las constituyan no revistan un carácter delictuoso, ni se deban a culpa grave o descuido notorio del responsable, y que los daños causados no excedan de cien veces el salario mínimo diario vigente en el Estado, calculados al momento de la determinación de los daños causados, rindiendo informe al Ayuntamiento sobre dicha situación.
+La Contraloría, podrá dispensar las responsabilidades en que se incurra, siempre que los hechos que las constituyan no revistan un carácter delictuoso, ni se deban a culpa grave o descuido notorio del responsable, y que los daños causados no excedan del equivalente al valor diario de cien unidades de medida y actualización, calculados al momento de la determinación de los daños causados, rindiendo informe al Ayuntamiento sobre dicha situación.
 
-La Contraloría podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan de cien veces el salario mínimo diario vigente en el Estado, por incosteabilidad práctica de cobro. En los demás casos propondrá su cancelación al Presidente, previa fundamentación.
+La Contraloría podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan del equivalente al valor diario de cien unidades de medida y actualización, por incosteabilidad práctica de cobro. En los demás casos propondrá su cancelación al Presidente, previa fundamentación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2017)</small>
 
 ###### Artículo 320.
 
-La Contraloría, podrá imponer como corrección disciplinaria a los servidores públicos de las entidades a que se refiere el artículo 286 fracción II de este ordenamiento, que en el desempeño de sus funciones incurran en faltas que ameriten el fincamiento de responsabilidades, multa por el importe de cien a mil veces el salario mínimo general diario vigente en el Estado al momento de determinarse la falta.
+La Contraloría, podrá imponer como corrección disciplinaria a los servidores públicos de las entidades a que se refiere el artículo 286 fracción II de este ordenamiento, que en el desempeño de sus funciones incurran en faltas que ameriten el fincamiento de responsabilidades, multa por el importe del equivalente al valor diario de cien a mil unidades de medida y actualización al momento de determinarse la falta.
 
 La multa a que se refiere el párrafo anterior se aplicará, en su caso, a los particulares que en forma dolosa participen en los actos que originen la responsabilidad.
 
@@ -5651,9 +5669,11 @@ Las operaciones inmobiliarias, incluso las enajenaciones que realicen los organi
 
 La Contraloría en el ámbito de su competencia vigilará o coordinará sus funciones con las Contralorías internas de los organismos, con el objeto de vigilar el cumplimiento de las obligaciones que emanan de las disposiciones contenidas en esta parte.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
+
 ###### Artículo 353.
 
-En los casos en que en este Capítulo, se señalen días de salario mínimo para determinar las sanciones, se entenderá que se trata del salario mínimo general vigente en el Estado de Puebla, al momento de imponerse la sanción.
+En los casos en que en este Capítulo, se señalen unidades de medida y actualización para determinar las sanciones, se entenderá que se trata del valor diario de las unidades de medida y actualización, al momento de imponerse la sanción.
 
 ###### Artículo 354.
 
@@ -6095,9 +6115,11 @@ En los contratos respectivos deberá estipularse que la falta de pago de tres me
 
 Lo dispuesto en este artículo y en el anterior, no será aplicable en el caso en el que los bienes inmuebles se afecten en fideicomiso público, en cuyo evento, será el Comité Técnico del mismo el que apruebe las enajenaciones considerando los fines del propio fideicomiso y sus reglas de comercialización.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
+
 ###### Artículo 403.
 
-En la enajenación de inmuebles que realice el Gobierno Municipal, a favor de personas de escasos recursos, para satisfacer necesidades habitacionales, no requerirá el otorgamiento de escritura ante Notario Público, sino sólo el contrato relativo, cuando el valor del inmueble no exceda de la suma que resulte de multiplicar por diez el salario mínimo general elevado al año que corresponda al Estado de Puebla.
+En la enajenación de inmuebles que realice el Gobierno Municipal, a favor de personas de escasos recursos, para satisfacer necesidades habitacionales, no requerirá el otorgamiento de escritura ante Notario Público, sino sólo el contrato relativo, cuando el valor del inmueble no exceda de la suma que resulte de multiplicar por el equivalente al valor diario de diez unidades de medida y actualización elevado al año que corresponda al Estado de Puebla.
 
 ###### Artículo 404.
 
@@ -6143,7 +6165,9 @@ Corresponde a la Tesorería, la enajenación de los bienes muebles de propiedad 
 
 Salvo los casos comprendidos en el párrafo siguiente, la enajenación se hará mediante licitación pública.
 
-La Tesorería bajo su responsabilidad, podrá optar por enajenar bienes muebles sin sujetarse a licitación pública, cuando ocurran condiciones o circunstancias extraordinarias o imprevisibles, o situaciones de emergencia, no existan por lo menos tres postores idóneos o capacitados legalmente para presentar ofertas, o el monto de los bienes no exceda del equivalente a quinientos días de salario mínimo general vigente en el Estado de Puebla al momento de su enajenación.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
+
+La Tesorería bajo su responsabilidad, podrá optar por enajenar bienes muebles sin sujetarse a licitación pública, cuando ocurran condiciones o circunstancias extraordinarias o imprevisibles, o situaciones de emergencia, no existan por lo menos tres postores idóneos o capacitados legalmente para presentar ofertas, o el monto de los bienes no exceda del equivalente al valor diario de quinientas unidades de medida y actualización al momento de su enajenación.
 
 Con excepción del último caso mencionado en el párrafo anterior, el enajenante, en un plazo que no excederá de veinte días hábiles contados a partir de la fecha en que se hubiere autorizado la operación, lo hará del conocimiento de la Contraloría, acompañando la documentación que justifique tal determinación.
 
@@ -6233,11 +6257,11 @@ El Ayuntamiento determinará las normas y procedimientos para la integración y 
 
 ### CAPÍTULO VII. SANCIONES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
 
 ###### Artículo 421.
 
-Se sancionará con multa de cien a diez mil veces el salario mínimo general diario vigente para el Estado de Puebla a quien, vencido el término señalado en la concesión, permiso o autorización que se haya otorgado para la explotación, uso o aprovechamiento de un bien del dominio público, no lo devolviere a la autoridad correspondiente dentro del término de treinta días naturales siguientes a la fecha del requerimiento administrativo que le sea formulado por la SAU o por el titular del organismo de que se trate según el caso.
+Se sancionará con multa del equivalente al valor diario de cien a diez mil unidades de medida y actualización a quien, vencido el término señalado en la concesión, permiso o autorización que se haya otorgado para la explotación, uso o aprovechamiento de un bien del dominio público, no lo devolviere a la autoridad correspondiente dentro del término de treinta días naturales siguientes a la fecha del requerimiento administrativo que le sea formulado por la SAU o por el titular del organismo de que se trate según el caso.
 
 ###### Artículo 422.
 
@@ -6253,11 +6277,11 @@ Las sanciones previstas en este artículo, se aplicarán a los concesionarios qu
 
 En los casos a que se refieren los dos artículos que anteceden, independientemente de la intervención de las autoridades a quienes corresponda perseguir y sancionar los delitos cometidos, la autoridad administrativa podrá recuperar directamente la tenencia material de los bienes de que se trate, en la forma establecida en la parte III del Libro II del presente Código.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
 
 ###### Artículo 424.
 
-A los Notarios Públicos que autoricen actos o contratos en contra de las disposiciones de este ordenamiento, independientemente de la responsabilidad en que incurran, la SAU podrá sancionarlos con multa de veinte a cinco mil veces el salario mínimo general diario vigente para el Estado de Puebla.
+A los Notarios Públicos que autoricen actos o contratos en contra de las disposiciones de este ordenamiento, independientemente de la responsabilidad en que incurran, la SAU podrá sancionarlos con multa del equivalente al valor diario de veinte a cinco mil unidades de medida y actualización.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -6956,3 +6980,11 @@ Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Para la aplicación del Título Quinto Capítulo I de este Código, en lo que se refiere a las notificaciones electrónicas, surtirá sus efectos una vez que las autoridades fiscales que integran el H. Ayuntamiento del Municipio de Puebla, cuenten con la firma electrónica avanzada autorizada por la Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla.
+
+P.O. 28 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Queda sin efecto cualquier acto o disposición que se oponga al presente Decreto.
