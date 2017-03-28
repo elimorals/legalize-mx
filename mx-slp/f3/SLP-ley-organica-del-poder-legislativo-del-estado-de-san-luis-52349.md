@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2017-03-07"
+last_updated: "2017-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -997,9 +999,9 @@ La Comisión de Vigilancia no podrá ser integrada por quien haya formado parte 
 
 El turno de los asuntos que se presenten al Congreso del Estado, se hará conforme a la competencia que determina la presente Ley para cada comisión. En caso de que algún diputado disienta del turno determinado por el Presidente de la Directiva, solicitará que el mismo sea puesto a la consideración de la Asamblea para que ésta determine lo conducente.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
 
-Las iniciativas deberán dictaminarse por las comisiones aprobándolas en sus términos, con modificaciones de las comisiones o, en su caso, desechándolas por improcedentes, en un término máximo de seis meses. Si la complejidad de la misma lo requiere, la comisión citada en primer término podrá solicitar hasta dos prórrogas de tres meses cada una a la Directiva.
+Las iniciativas deberán dictaminarse por las comisiones aprobándolas en sus términos, con modificaciones de las comisiones o, en su caso, desechándolas por improcedentes, en un término máximo de seis meses. Si la complejidad de la misma lo requiere, cualquiera de las comisiones que compartan el turno de una iniciativa podrá solicitar a la Directiva hasta dos prórrogas de tres meses cada una. La solicitud que realice cualquiera de las comisiones, así como el acuerdo por el que la Directiva resuelva, serán publicados en la Gaceta Parlamentaria, en el registro de iniciativas.
 
 Los asuntos de trámite que se turnen a comisiones deberán desahogarse en un plazo máximo de tres meses. La comisión podrá acordar que estos asuntos puedan ser desahogados por el Presidente y Secretario de cada comisión.
 
@@ -1014,6 +1016,10 @@ Por determinación del Pleno, en caso de que los asuntos propuestos por ciudadan
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
 
 Para el caso de las iniciativas presentadas por los diputados; el Gobernador del Estado; el Supremo Tribunal de Justicia; y los ayuntamientos, que no hayan sido resueltas en los plazos dispuestos en los párrafos anteriores, el Presidente de la Directiva, o de la Diputación Permanente, declarará su caducidad en términos de los artículos, 11 fracción XIV, y 157 fracción III, del Reglamento para el Gobierno Interior del Congreso del Estado, y sólo podrán volver a ser promovidas hasta el siguiente periodo ordinario.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2017)</small>
+
+Las comisiones que compartan el turno de una iniciativa, un asunto de trámite o punto de acuerdo, serán solidaria y subsidiariamente responsables de su dictaminación, motivo por el cual, y sólo para el caso de que no hayan sido resueltos en los términos establecidos en los párrafos anteriores, cualquiera de las comisiones podrá elaborar el dictamen respectivo y presentarlo ante el Pleno, siempre que la Directiva no haya declarado su caducidad, y que se hayan publicado las prórrogas en la Gaceta Parlamentaria. En este caso, una vez entregado el dictamen, la Coordinación General de Servicios Parlamentarios lo hará del conocimiento del resto de las comisiones, quienes al no manifestarse en el término de diez días hábiles, se entenderá que están conformes con el sentido del dictamen presentado.
 
 ###### ARTICULO 93.
 
@@ -1623,19 +1629,13 @@ II. Del Instituto de Investigaciones Legislativas;
 
 III. De Orientación, Gestoría y Quejas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 IV. De Reforma para la Competitividad y Desarrollo Sustentable del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 V. De Información, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -1715,13 +1715,9 @@ El Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado
 
 ARTICULO 124 TER. El Comité de Información estará integrado y actuará en términos y conforme a las funciones establecidas por la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ARTICULO 124 QUÁTER. El Comité del Sistema de Gestión de Calidad se integrará dentro del primer trimestre del inicio de cada Legislatura; el Vicepresidente será el Presidente de la Directiva; y el Secretario el Presidente de la Junta de Coordinación Política. El Presidente del Comité y los vocales se elegirán de entre los diputados que integran la Legislatura, de conformidad con lo establecido en el artículo 122 de esta Ley. De igual forma, serán parte del Comité, el oficial mayor; y el contralor interno, sólo con derecho a voz.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -2013,8 +2009,6 @@ El Congreso del Estado instituye el servicio parlamentario de carrera para sus t
 
 ### Capítulo VI. De la Gaceta Parlamentaria
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
 (REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2011) [N. DE E. ANTES ARTÍCULO 142, P.O. 7 DE MAYO DE 2013.]
 
 ###### ARTICULO 145.
@@ -2037,15 +2031,11 @@ V. Informes del Congreso, y
 
 VI. Asistencias de los diputados y actas de las sesiones plenarias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
 La información de la Gaceta deberá actualizarse en la página del Congreso del Estado en internet, dentro de las cuarenta y ocho horas siguientes a cada sesión del Pleno o de la Diputación Permanente; sin perjuicio de la publicación y notificación a los diputados conforme al párrafo primero de este artículo.
 
 La antelación de la publicación de la Gaceta podrá ser dispensada, en los casos en que la ley establezca plazos perentorios para la aprobación o el conocimiento de determinados asuntos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
@@ -2432,6 +2422,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 7 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0580.- SE ADICIONA AL ARTÍCULO 126 EN SU FRACCIÓN II INCISO C) PÁRRAFO SEGUNDO, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0592.- SE REFORMA Y ADICIONA EL ARTÍCULO 92 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMA EL ARTÍCULO 143 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
