@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2016-12-21"
+last_updated: "2017-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -313,13 +313,17 @@ VI. El derecho al acceso, disposición y saneamiento de agua para consumo person
 
 VII. El derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
 
-VIII. El derecho a la cultura física y la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia; y
+VIII.- El derecho a la cultura física y la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia;
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
 
-IX. El derecho de acceder de manera libre y universal a internet.
+IX.- El derecho de acceder de manera libre y universal a internet; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2017)</small>
+
+X.- El derecho de acceso a la cultura y el disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones, con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -4525,7 +4529,7 @@ El Consejo de la Judicatura emitirá el Reglamento de la Escuela Judicial, donde
 
 P.O. 21 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-91 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-91 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4534,6 +4538,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos del Estado, deberán realizar las adecuaciones de homologación derivadas del presente Decreto, que correspondan a las disposiciones normativas que hayan expedido en el ejercicio de las atribuciones de su competencia y que se encuentren vigentes, en un plazo que no exceda del 28 de enero de 2017, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por las relativas a la Unidad de Medida y Actualización.
+
+P.O. 28 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-142 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VIII Y IX, Y SE ADICIONA LA FRACCIÓN X, AL ARTÍCULO 17, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEXTO.
 
