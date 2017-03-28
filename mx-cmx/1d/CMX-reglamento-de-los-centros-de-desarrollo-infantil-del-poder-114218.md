@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-los-centros-de-desarrollo-infantil-del-poder-1142
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-04-26"
-last_updated: "2016-04-26"
+last_updated: "2017-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114218&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-04-06"
 ---
 # REGLAMENTO DE LOS CENTROS DE DESARROLLO INFANTIL DEL PODER JUDICIAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO 25-50/2016 QUE EMITE EL REGLAMENTO DE LOS CENTROS DE DESARROLLO INFANTIL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 28 DE MARZO DE 2017; ÚLTIMO ORDENAMIENTO QUE SURTIRÁ SUS EFECTOS A PARTIR DEL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL BOLETÍN JUDICIAL DEL TRIBUNAL.]</small>
+
 REGLAMENTO DE LOS CENTROS DE DESARROLLO INFANTIL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE MARZO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 26 de abril de 2016.
 
@@ -172,7 +174,7 @@ El cronograma de actividades será elaborado por el Consejo Técnico, se apegar�
 
 ###### Artículo 11.
 
-Corresponde al Área de Pedagogía de los CENDl, la aplicación de programas educativos que conlleven a un adecuado desarrollo de las aptitudes físicas e intelectuales de las niñas y los niños de acuerdo con su edad aunado al conocimiento de sí mismos y de su entorno social.
+Corresponde al Área de Pedagogía de los CENDI, la aplicación de programas educativos que conlleven a un adecuado desarrollo de las aptitudes físicas e intelectuales de las niñas y los niños de acuerdo con su edad aunado al conocimiento de sí mismos y de su entorno social.
 
 ###### Artículo 12.
 
@@ -316,7 +318,7 @@ I Las niñas y los niños deberán presentarse diariamente al CENDI sin haber in
 
 II Cuando, por circunstancias especiales, el niño o la niña haya ingerido alimentos antes de su entrada al CENDI, este hecho deberá ser informado durante el filtro.
 
-III La alimentación que se proporcione a las niñas y los niños se hará de acuerdo al cuadro básico de menús aprobado para cada edad por la Secretaría de Salud y y / o por la SEP.
+III La alimentación que se proporcione a las niñas y los niños se hará de acuerdo al cuadro básico de menús aprobado para cada edad por la Secretaría de Salud y / o por la SEP.
 
 IV Los horarios de alimentación, según las edades, deben ser informados a las y los trabajadores.
 
@@ -392,7 +394,7 @@ Infecciones Vías Respiratorias Altas
 
 -Pediculosis: piojos y liendres
 
--Candidosis: infección por hongos :
+-Candidosis: infección por hongos:
 
 a). Mucosas: algodoncillo en boca
 
@@ -640,7 +642,7 @@ XIII. En su caso, durante la hora de lactancia establecida en la fracción II de
 
 XIV. Colaborar con el CENDI en la realización de actividades relacionadas con el servicio que éste presta;
 
-XV. El trabajador o la trabajador actualizarán anualmente su fotografía y la de su niño o la niña, así como la de las personas autorizadas para recogerlos;
+XV. El trabajador o la trabajador (sic) actualizarán anualmente su fotografía y la de su niño o la niña, así como la de las personas autorizadas para recogerlos;
 
 XVI. Abstenerse de intervenir en los aspectos pedagógicos y/o laborales;
 
@@ -691,3 +693,17 @@ Artículo Segundo.- El presente Acuerdo abroga el Reglamento anterior y todas aq
 Artículo Tercero.- La Coordinación de Comunicación Social diseñará e imprimirá, para su distribución entre los padres de los niños y de las niñas del servicio, un cuadernillo que contenga el presente ordenamiento.
 
 CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 66, FRACCIÓN V, DEL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, LA LICENCIADA ZAIRA LILIANA JIMENEZ SEADE, SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO DE PUBLICACIÓN DE ACUERDO 25-50/2016”.]
+
+Artículo Primero.- El presente Acuerdo surtirá sus efectos a partir del día siguiente de su publicación en el Boletín Judicial del Tribunal. Por otra parte, publíquese por una sola vez en la Gaceta Oficial de la Ciudad de México.
+
+Artículo Segundo.- El presente Acuerdo abroga el Reglamento anterior y todas aquellas disposiciones administrativas internas relativas al funcionamiento de los CENDI que se opongan a este ordenamiento normativo.
+
+Artículo Tercero.- La Coordinación de Comunicación Social diseñará e imprimirá, para su distribución entre los padres, madres y/o tutores de las niñas y/o los niños del servicio, un cuadernillo que contenga el presente ordenamiento.
+
+Artículo Cuarto.- Lo no previsto en el presente reglamento será normado por el Consejo con base en la facultad que le confiere el artículo 122 constitucional en relación con el numeral 201, fracción I de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal.
