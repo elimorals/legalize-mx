@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2014-07-03"
+last_updated: "2017-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE MARZO DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -1740,7 +1740,9 @@ Se comprenden dentro de este título aquellos órganos no jurisdiccionales que t
 
 Para el cumplimiento de sus funciones los órganos no jurisdiccionales y dependientes del Consejo, contarán con la estructura y el personal determinados por el Pleno del Consejo y el presupuesto asignado.
 
-Artículo 159 Los servidores públicos que se desempeñen como titulares de los órganos no jurisdiccionales y dependientes del Consejo, deberán cumplir con los requisitos previstos en la Ley Orgánica para cada uno de los cargos, así como aquellos que para tal efecto señale el Acuerdo General o Reglamento que los regule, aprobado por el Pleno del Consejo.
+###### Artículo 159.
+
+Los servidores públicos que se desempeñen como titulares de los órganos no jurisdiccionales y dependientes del Consejo, deberán cumplir con los requisitos previstos en la Ley Orgánica para cada uno de los cargos, así como aquellos que para tal efecto señale el Acuerdo General o Reglamento que los regule, aprobado por el Pleno del Consejo.
 
 ###### Artículo 160.
 
@@ -1769,6 +1771,20 @@ X. Aplicar e instrumentar, en su ámbito de competencia, los acuerdos, ordenamie
 XI. Rendir en el mes de noviembre de cada ejercicio, al Pleno del Consejo, un Informe Anual de Labores correspondiente al área de su competencia, independientemente de los informes especiales que les sean requeridos por el mismo o por la Comisión respectiva; y
 
 XII. Las demás que le sean asignadas por la Ley Orgánica, este Reglamento, y demás Acuerdos Generales que para tal efecto emita el Pleno del Consejo.
+
+> <small>(ADICIONADO, G.O. 28 DE MARZO DE 2017)</small>
+
+###### Artículo 160 Bis.
+
+Los titulares de las áreas administrativas y de apoyo judicial del Tribunal y del Consejo, así como de las direcciones y subdirecciones que orgánicamente dependan de ellos, serán suplidos en sus ausencias por el servidor público subordinado que ocupe el cargo de estructura inmediato inferior, hasta el nivel de jefatura de unidad departamental del área administrativa ó de apoyo judicial que corresponda.
+
+Si en las direcciones y subdirecciones antes citadas más de un servidor público ocupa el cargo inmediato inferior, el titular del área administrativa ó de apoyo judicial designará a quien suplirá la ausencia.
+
+En caso de que los titulares de las áreas administrativas ó de apoyo judicial así como de las direcciones y subdirecciones que orgánicamente dependan de ellos sean señalados como autoridades demandadas en juicios contenciosos administrativos, ya sea del ámbito federal o l ocal (sic), así como autoridades responsables en los juicios de a mparo (sic), podrán ser representados en sus ausencias, por el servidor público subordinado que ocupe el cargo de estructura inmediato inferior hasta el nivel de jefatura de unidad departamental del área administrativa ó de apoyo judicial que corresponda.
+
+Si más de un servidor público ocupa el cargo inmediato inferior, lo representará en sus ausencias, el que designe el titular del área administrativa ó de apoyo judicial.
+
+De igual forma, los titulares de las áreas administrativas, ó de apoyo judicial, podrán designar delegados o autorizados en dichos juicios, a los servidores públicos subordinados que laboren en su área, hasta el nivel de jefatura de unidad departamental.
 
 > <small>(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE ENERO DE 2009)</small>
 
@@ -2097,3 +2113,13 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y para su mayor difusión en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Incorpórese el texto de este decreto y las modificaciones respectivas en la página Web del Consejo de la Judicatura del Distrito Federal.
+
+G.O. 28 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO DE PUBLICACIÓN DE ACUERDO 22-06/2017".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia de la Ciudad de México.
+
+SEGUNDO.- Publíquese en el Boletín Judicial del Tribunal Superior de Justicia de la Ciudad de México y para su mayor difusión en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Incorpórese el texto que se adiciona al Reglamento Interior del Consejo de la Judicatura de la Ciudad de México, en la página web del propio Consejo.
