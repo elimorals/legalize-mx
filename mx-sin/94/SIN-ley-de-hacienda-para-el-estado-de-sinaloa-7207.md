@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2016-12-28"
+last_updated: "2017-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -109,13 +109,9 @@ III.- Las adquisiciones que realicen la Federación, el Estado o sus Municipios,
 
 IV.- Las adquisiciones que realicen las agencias distribuidoras de vehículos nuevos, siempre y cuando, reciban a cuenta el vehículo de motor usado por parte del propietario, para que éste adquiera a su nombre un vehículo nuevo en la propia agencia de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. REPUBLICADA] SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO II. IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -123,21 +119,15 @@ ART. 9o.- Están obligadas al pago del impuesto previsto en este Capítulo, las 
 
 Para los efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ART. 10.- Los contribuyentes pagarán el impuesto a que se refiere este Capítulo, por año de calendario, durante los tres primeros meses, ante las oficinas autorizadas, salvo que en el apartado correspondiente se establezca disposición en contrario.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ART. 11.- El impuesto se pagará en las oficinas en las que la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa autorice el registro, alta del vehículo o expida el permiso provisional para circulación en traslado de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas de la mencionada Secretaría, siempre y cuando el domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público se encuentre dentro del territorio del Estado de Sinaloa.
 
 El pago antes mencionado podrá realizarse de manera simultánea con los derechos por los servicios de control vehicular establecidos en esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -179,8 +169,6 @@ VIII. Valor total del vehículo, el precio de enajenación del fabricante, ensam
 
 En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ART. 13.- Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
@@ -192,8 +180,6 @@ II. Quienes reciban vehículos en consignación o comisión, para su enajenació
 III. Los servidores públicos competentes que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo, a favor del Estado de Sinaloa o del impuesto sobre tenencia o uso de vehículos previsto en la legislación federal, ya sea a favor de la Entidad, de otros Estados o de la Federación, según sea el caso, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de la obligación que corresponda.
 
 Las autoridades competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio del Estado de Sinaloa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -213,13 +199,9 @@ ART. 14 BIS-1.- En los casos en que los contribuyentes obligados a realizar el p
 
 No será sujeto de devolución o compensación, el importe cubierto en exceso en otra entidad federativa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ART. 15.- La Federación, el Distrito Federal, los Estados, los Municipios, sus organismos descentralizados, autónomos o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo; con las excepciones que señala el artículo 15-A, de esta ley; aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -245,13 +227,9 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, III y IV de este artículo, deberán comprobar ante la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa que se encuentran comprendidos en dichos supuestos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 #### SECCIÓN I. VEHÍCULOS NUEVOS Y DE HASTA NUEVE AÑOS MODELO ANTERIOR DISPOSICIONES GENERALES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -299,19 +277,13 @@ Diciembre 0.08
 
 Tratándose de vehículos usados, el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo en la entidad, aplicándose el factor correspondiente contenido en la tabla que antecede.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ART. 15-C.- Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA [N. DE E. REPUBLICADA] CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 #### SECCIÓN II. AUTOMÓVILES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -349,25 +321,17 @@ Para los efectos de esta fracción, peso bruto vehicular es el peso del vehícul
 
 Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA [N. DE E. REPUBLICADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 #### SECCIÓN III. OTROS VEHÍCULOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ART. 15-E.- En esta sección se establecen las disposiciones aplicables a las aeronaves y motocicletas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ART. 15-F.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $9,557.39 para aeronaves de pistón, turbohélice y helicópteros; y por la cantidad de $10,294.49 para aeronaves de reacción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -391,25 +355,17 @@ límite inferior
 
 407,882.93 En adelante 27,711.67 16.8
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ART. 15-H.- Para los efectos de lo dispuesto en los artículos 15-D, 15-G y 15-F de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ART. 15-I.- Las autoridades competentes, para expedir los certificados de aeronavegabilidad y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere este apartado, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA [N. DE E. REPUBLICADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 #### SECCIÓN IV. VEHÍCULOS USADOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -447,8 +403,6 @@ II. La cantidad obtenida conforme a la fracción anterior se actualizará de con
 
 Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ART. 15-K.- Tratándose de automóviles de fabricación nacional o importada, de hasta nueve años modelo (sic) anteriores al de aplicación de este Capítulo, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
@@ -480,8 +434,6 @@ Años de antigüedad Factor de depreciación
 b) La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con lo dispuesto en el artículo 15-H de esta Ley; al resultado se le aplicará la tarifa a que hace referencia el artículo 15-D de esta Ley.
 
 Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -737,23 +689,33 @@ ART. 34.- Las infracciones a las disposiciones contenidas en este capítulo ser�
 
 #### SECCIÓN PRIMERA. DEL IMPUESTO SOBRE LA OBTENCIÓN DE PREMIOS
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
 
-ART. 34 bis. Es objeto de este impuesto, el ingreso por obtención de premios en efectivo, en especie o en valor de servicios, que perciban las personas físicas y las morales derivado de la celebración de loterías, rifas, sorteos y concursos de toda clase, autorizados legalmente, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento haya sido enajenado o distribuido en el territorio del Estado, siempre que el evento se lleve a cabo en esta entidad federativa o el premio se entregue en la misma.
+ART. 34 BIS. Es objeto de este impuesto, el ingreso por obtención de premios en efectivo, en especie o en valor de servicios, que perciban las personas físicas, personas morales y unidades económicas sin personalidad jurídica, derivado de la celebración de rifas, loterías, sorteos y concursos de toda clase, autorizados legalmente, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento haya sido enajenado o distribuido en el territorio del Estado, siempre que el evento se lleve a cabo en esta entidad federativa o el premio se entregue en la misma.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 Se considera que el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento se enajenó o distribuyó en el Estado, aun cuando por dicho acto no se haya efectuado cobro alguno.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
 También es objeto de este impuesto la percepción de premios derivados de la celebración de juegos con apuestas legalmente permitidos. Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas, independientemente del nombre con el que se les designe, aquellos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 Igualmente se consideran juegos con apuestas, aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que la obtención del premio no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
 Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 De igual forma, quedan comprendidos en los juegos con apuestas, aquellos establecimientos autorizados por autoridad competente en los que se reciban, capten, crucen o exploten apuestas.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-1. Para los efectos de esta Ley se entiende por:
+ART. 34 BIS-1. Para los efectos de esta Ley se entiende por:
 
 I. Concurso, todo evento en el cual sean necesarias habilidades, aptitudes, características literarias, musicales, artísticas, académicas, deportivas o de cualquier otra índole que resulten indispensables para participar en dicho evento y acordes al objetivo del mismo, y de cuya participación tenga como objetivo la obtención de un premio.
 
@@ -765,23 +727,33 @@ III. Para los efectos de este impuesto, se considera apuesta el monto susceptibl
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-2. Son sujetos de este Impuesto:
+ART. 34 BIS-2. Son sujetos de este Impuesto:
 
-I. Las personas físicas y las morales que obtengan ingresos por concepto de premios derivados de rifas, loterías, sorteos, concursos de toda clase y juegos con apuestas, en los términos del Artículo 34 bis de esta Ley.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
 
-II. Las unidades económicas sin personalidad jurídica, que obtengan ingresos derivados del cobro de premios de loterías, rifas, sorteos y concursos en términos del artículo 34 bis de esta Ley.
+I. Las personas físicas y las morales que obtengan ingresos por concepto del cobro de premios derivados de rifas, loterías, sorteos, concursos de toda clase y juegos con apuestas, en los términos del Artículo 34 bis de esta Ley.
 
-Se consideran sujetos de este Impuesto, las personas a que alude este artículo, que obtengan los premios gravados por este impuesto en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
 
-a) Que el evento se desarrolle fuera del Estado y el premio se entregue en el mismo.
+II. Las unidades económicas sin personalidad jurídica, que obtengan ingresos derivados del cobro de premios de rifas, loterías, sorteos, concursos de toda clase y juegos con apuestas, en términos del artículo 34 bis de esta Ley.
 
-b) Que el organizador sea residente de otra entidad federativa y el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento, se haya enajenado o distribuido en el Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
 
-c) Que el evento se desarrolle en el Estado y el premio se entregue en otra entidad federativa.
+Se consideran sujetos de este impuesto, las personas a que alude este artículo, que obtengan los premios gravados por este impuesto en los casos siguientes:
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+a) Que el evento se desarrolle fuera del Estado y el premio se cobre o entregue en esta entidad federativa.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+b) Que el organizador resida en otra entidad federativa y el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento, con independencia de la entidad donde se haya enajenado o distribuido el premio se haga efectivo en el Estado.
+
+c) (DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-3. Es base de este Impuesto:
+ART. 34 BIS-3. Es base de este Impuesto:
 
 I. Tratándose de premios en efectivo, el monto total del ingreso por los premios obtenidos.
 
@@ -791,13 +763,13 @@ a) El valor de la facturación de compra tratándose de bienes muebles.
 
 b) El valor comercial vigente en el momento de su entrega tratándose de bienes inmuebles.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+ART. 34 BIS-4. El monto del impuesto se calculará, aplicando a la base gravable a que alude el artículo anterior la tasa del 6%.
+
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-4. El monto del impuesto se calculará, aplicando a la base gravable a que alude el artículo anterior la tasa del 9%.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
-
-ART. 34 bis-5. Las personas o instituciones que organicen, celebren los eventos, o entreguen los premios a que se refiere el Artículo 34 bis de esta Ley, están obligados a retener el impuesto que causen los sujetos mencionados en el Artículo 34 bis-2 de esta Ley.
+ART. 34 BIS-5. Las personas o instituciones que organicen, celebren los eventos, o entreguen los premios a que se refiere el Artículo 34 bis de esta Ley, están obligados a retener el impuesto que causen los sujetos mencionados en el Artículo 34 bis-2 de esta Ley.
 
 La retención del impuesto prevista en el párrafo anterior deberá efectuarse al momento de realizar la entrega del premio.
 
@@ -805,15 +777,15 @@ Los organismos públicos descentralizados de la Administración Pública Federal
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-6. Este impuesto se causará en el momento en que se efectúe el pago o entrega del premio, por los organizadores del evento.
+ART. 34 BIS-6. Este impuesto se causará en el momento en que se efectúe el pago o entrega del premio, por los organizadores del evento.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+ART. 34 BIS-7. Los retenedores a que se refiere el artículo 34 bis-5 de esta Ley, efectuarán el entero del impuesto a más tardar el día 15 del mes siguiente a aquél en que se causó, excepto los casos previstos en el último párrafo del artículo 34 bis-8, presentando para tal efecto declaración ante las oficinas, instituciones o medios electrónicos autorizados en términos del Código Fiscal del Estado de Sinaloa que corresponda al domicilio del organizador del evento y con alguno de los medios de pago autorizados. Dicho pago se considerará definitivo.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-7. Los retenedores a que se refieren los Artículos 34 bis-2 y 34 bis-5 de esta Ley, efectuarán el entero del impuesto a más tardar el día 15 del mes siguiente a aquél en que se causó, presentando para tal efecto declaración ante las oficinas, instituciones o medios electrónicos autorizados en términos del Código Fiscal del Estado de Sinaloa que corresponda al domicilio del organizador del evento y con alguno de los medios de pago autorizados. Dicho pago se considerará definitivo.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
-
-ART. 34 bis-8. Las personas o instituciones que organicen, celebren los eventos o entreguen los premios a que se refiere esta Ley, además de efectuar las retenciones y entero de este impuesto, tendrán las siguientes obligaciones:
+ART. 34 BIS-8. Las personas o instituciones que organicen, celebren los eventos o entreguen los premios a que se refiere esta Ley, además de efectuar las retenciones y entero de este impuesto, tendrán las siguientes obligaciones:
 
 I. Proporcionar al contribuyente que obtenga el premio constancia de retención del impuesto.
 
@@ -825,7 +797,7 @@ Se exceptúa de la obligación de retener el impuesto al ganador del premio cuan
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-9. Los ingresos provenientes de la obtención de premios derivados de la celebración de loterías, rifas, sorteos o concursos que sean donados por el contribuyente a instituciones de beneficencia y asistencia social ubicadas en el Estado de Sinaloa, se considerarán exentos del pago de este impuesto hasta por el monto de lo donado.
+ART. 34 BIS-9. Los ingresos provenientes de la obtención de premios derivados de la celebración de loterías, rifas, sorteos o concursos que sean donados por el contribuyente a instituciones de beneficencia y asistencia social ubicadas en el Estado de Sinaloa, se considerarán exentos del pago de este impuesto hasta por el monto de lo donado.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -833,17 +805,17 @@ ART. 34 bis-9. Los ingresos provenientes de la obtención de premios derivados d
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-10. Son objeto de este impuesto las actividades de prestación de servicios consistentes en juegos con apuestas que se realicen en el territorio del Estado, independientemente del nombre con el que se les designe y que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos, y su Reglamento, así como los juegos y concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas o que en su desarrollo utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares.
+ART. 34 BIS-10. Son objeto de este impuesto las actividades de prestación de servicios consistentes en juegos con apuestas que se realicen en el territorio del Estado, independientemente del nombre con el que se les designe y que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos, y su Reglamento, así como los juegos y concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas o que en su desarrollo utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares.
 
 Quedan comprendidos en los juegos con apuestas, aquellos en los que sólo se reciban, capten, crucen o exploten apuestas y en los concursos aquellos en los que intervenga directa o indirectamente el azar.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-11. Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que en el territorio del Estado realicen las actividades de prestación de servicios a que se refiere el artículo 34 bis-10 de esta Ley, independientemente de que se trate de administradores, organizadores o anfitriones de algún establecimiento donde se lleve a cabo la prestación de los servicios. Son también sujetos de este impuesto las personas que paguen los premios, cuando sean distintas de las mencionadas en este artículo.
+ART. 34 BIS-11. Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que en el territorio del Estado realicen las actividades de prestación de servicios a que se refiere el artículo 34 bis-10 de esta Ley, independientemente de que se trate de administradores, organizadores o anfitriones de algún establecimiento donde se lleve a cabo la prestación de los servicios. Son también sujetos de este impuesto las personas que paguen los premios, cuando sean distintas de las mencionadas en este artículo.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-12. Será base de este Impuesto:
+ART. 34 BIS-12. Será base de este Impuesto:
 
 I. En los de juegos con apuestas, el monto total de las apuestas, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 
@@ -855,25 +827,25 @@ Tratándose de premios en especie, en los eventos a que se refieren las fraccion
 
 Cuando el monto de las disminuciones a que se refieren las fracciones anteriores de este artículo sea superior a la base gravable correspondiente al mes de que se trate, la diferencia se amortizará en los meses siguientes hasta agotarse.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-ART. 34 bis-13. Este impuesto se determinará aplicando una tasa del 9% sobre la base del impuesto a que se refiere el artículo anterior.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
-
-ART. 34 bis-14. Este impuesto se causa en el momento que se entreguen a los participantes fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o en el momento de participación en el concurso.
+ART. 34 BIS-13. Este impuesto se determinará aplicando una tasa del 6% sobre la base del impuesto a que se refiere el artículo anterior.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-15. No se pagará este impuesto cuando la prestación del servicio a que se refiere este impuesto se realice por organismos o instituciones de enseñanza con reconocimiento de validez oficial de estudios, de asistencia social o de beneficencia, debidamente autorizadas por las Leyes de la materia.
+ART. 34 BIS-14. Este impuesto se causa en el momento que se entreguen a los participantes fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o en el momento de participación en el concurso.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-16. Los sujetos obligados al pago del impuesto a que se refiere esta Sección, realizarán el pago a más tardar el día 20 del mes siguiente a aquél al que corresponda el pago, presentando para tal efecto declaración ante las oficinas, instituciones o medios electrónicos autorizados en términos del Código Fiscal del Estado de Sinaloa que corresponda al domicilio del organizador del evento y con alguno de los medios de pago autorizados. Dicho pago se considerará definitivo.
+ART. 34 BIS-15. No se pagará este impuesto cuando la prestación del servicio a que se refiere este impuesto se realice por organismos o instituciones de enseñanza con reconocimiento de validez oficial de estudios, de asistencia social o de beneficencia, debidamente autorizadas por las Leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-17. Las personas físicas, morales o unidades económicas sin personalidad jurídica, que organicen, celebren, enajenen o vendan directamente o a través de terceras personas, billetes, boletos, contraseñas o cualquier otro comprobante que permita participar en los eventos a que se refiere el objeto de los impuestos a que se refiere esta sección, tendrán las siguientes obligaciones:
+ART. 34 BIS-16. Los sujetos obligados al pago del impuesto a que se refiere esta Sección, realizarán el pago a más tardar el día 20 del mes siguiente a aquél al que corresponda el pago, presentando para tal efecto declaración ante las oficinas, instituciones o medios electrónicos autorizados en términos del Código Fiscal del Estado de Sinaloa que corresponda al domicilio del organizador del evento y con alguno de los medios de pago autorizados. Dicho pago se considerará definitivo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 BIS-17. Las personas físicas, morales o unidades económicas sin personalidad jurídica, que organicen, celebren, enajenen o vendan directamente o a través de terceras personas, billetes, boletos, contraseñas o cualquier otro comprobante que permita participar en los eventos a que se refiere el objeto de los impuestos a que se refiere esta sección, tendrán las siguientes obligaciones:
 
 I. Solicitar su inscripción en el registro estatal de contribuyentes, utilizando para tales efectos las formas aprobadas.
 
@@ -883,7 +855,7 @@ III. Conservar a disposición de las autoridades fiscales y exhibir cuando se le
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-18. El impuesto a que se refiere esta Sección no dará lugar a incrementos en los precios señalados por los contribuyentes, ni se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase.
+ART. 34 BIS-18. El impuesto a que se refiere esta Sección no dará lugar a incrementos en los precios señalados por los contribuyentes, ni se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -891,7 +863,7 @@ ART. 34 bis-18. El impuesto a que se refiere esta Sección no dará lugar a incr
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-19. Están obligadas al pago del impuesto establecido en este capítulo las personas físicas y morales que, en el territorio del Estado de Sinaloa, en forma habitual o profesional, realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria no reguladas por leyes y autoridades financieras, respecto de aquellos bienes dados en prenda que no sean recuperados por el deudor prendario y sean posteriormente enajenados. El impuesto se causará en la fecha en la que el bien dado en prenda se enajene al público en general.
+ART. 34 BIS-19. Están obligadas al pago del impuesto establecido en este capítulo las personas físicas y morales que, en el territorio del Estado de Sinaloa, en forma habitual o profesional, realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria no reguladas por leyes y autoridades financieras, respecto de aquellos bienes dados en prenda que no sean recuperados por el deudor prendario y sean posteriormente enajenados. El impuesto se causará en la fecha en la que el bien dado en prenda se enajene al público en general.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -903,13 +875,13 @@ ART. 34 bis-19. Están obligadas al pago del impuesto establecido en este capít
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-20. El impuesto se calculará aplicando la tasa del 5% a la diferencia entre el monto del avalúo que sirve de base para el otorgamiento del crédito prendario y el monto de la enajenación del bien otorgado en garantía prendaria que celebren los sujetos de este impuesto con el público en general.
+ART. 34 BIS-20. El impuesto se calculará aplicando la tasa del 5% a la diferencia entre el monto del avalúo que sirve de base para el otorgamiento del crédito prendario y el monto de la enajenación del bien otorgado en garantía prendaria que celebren los sujetos de este impuesto con el público en general.
 
 El monto del avalúo es la valoración del bien mueble dado en prenda, que queda consignado en la boleta o billete de empeño, contrato o cualquier otra denominación que se otorgue al documento en el que se formalice el préstamo otorgado, los intereses pactados y cualquier otro gasto por parte, del prestamista, así como el plazo para la recuperación del bien dado en prenda.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-21. El pago de este impuesto se efectuará mediante declaración mensual definitiva que presentarán los contribuyentes en las oficinas autorizadas por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, a más tardar el día 17 del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate.
+ART. 34 BIS-21. El pago de este impuesto se efectuará mediante declaración mensual definitiva que presentarán los contribuyentes en las oficinas autorizadas por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, a más tardar el día 17 del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -917,7 +889,7 @@ ART. 34 bis-21. El pago de este impuesto se efectuará mediante declaración men
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-22. Son obligaciones de los sujetos del impuesto:
+ART. 34 BIS-22. Son obligaciones de los sujetos del impuesto:
 
 I. Llevar y conservar los registros contables y administrativos de conformidad con las leyes y demás disposiciones aplicables.
 
@@ -2583,7 +2555,7 @@ mercantiles, se causarán: 10.00
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-VIl.- Por la inscripción de contratos de créditos refaccionarios, de habilitación o avío, en cuenta corriente o cualquier otro contrato de crédito de naturaleza mercantil, con o sin garantías prendarias, hipotecarias o fiduciarias causarán derechos aplicando la tasa del 0.25% del importe del crédito sin tomar en cuenta los intereses o créditos adicionales para el refinanciamiento de los mismos, sin que el monto de los derechos exceda de 250 veces el valor diario de la Unidad de Medida y Actualización.
+VII.- Por la inscripción de contratos de créditos refaccionarios, de habilitación o avío, en cuenta corriente o cualquier otro contrato de crédito de naturaleza mercantil, con o sin garantías prendarias, hipotecarias o fiduciarias causarán derechos aplicando la tasa del 0.25% del importe del crédito sin tomar en cuenta los intereses o créditos adicionales para el refinanciamiento de los mismos, sin que el monto de los derechos exceda de 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2725,7 +2697,7 @@ ART. 62.- La base de este derecho es el tipo de licencia que se otorgue en los t
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-l. Por el otorgamiento de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, deberá cubrirse el equivalente al número de veces el valor diario de la Unidad de Medida y Actualización de acuerdo a la siguiente:
+I. Por el otorgamiento de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, deberá cubrirse el equivalente al número de veces el valor diario de la Unidad de Medida y Actualización de acuerdo a la siguiente:
 
 T A R I F A
 
@@ -3025,17 +2997,17 @@ ART. 78.- Para la restauración de las áreas alteradas en sus condiciones natur
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-ART. 78 bis.- Son objeto de este derecho, el estudio y trámite de la solicitud para la autorización o su revalidación, la expedición de la autorización o su revalidación, la inscripción en el Registro de Prestadores de Servicios Privados de Seguridad de la empresa, organismo o institución así como de su personal y la supervisión de los prestadores de los Servicios Privados de Seguridad que otorguen el servicio en la Entidad.
+ART. 78 BIS.- Son objeto de este derecho, el estudio y trámite de la solicitud para la autorización o su revalidación, la expedición de la autorización o su revalidación, la inscripción en el Registro de Prestadores de Servicios Privados de Seguridad de la empresa, organismo o institución así como de su personal y la supervisión de los prestadores de los Servicios Privados de Seguridad que otorguen el servicio en la Entidad.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-ART. 78 bis-1.- Son sujetos de este derecho aquellas personas físicas o morales, ésta última, con cláusula de exclusión de extranjeros, que proporcionen o pretendan proporcionar los Servicios Privados de Seguridad de personas o bienes, traslado y custodia de fondos y valores y de investigaciones privadas en el Estado de Sinaloa. Quedan comprendidas en esta clasificación las personas morales legalmente constituidas, cuyo objeto social consista exclusivamente en la prestación del servicio para la vigilancia o custodia de locales.
+ART. 78 BIS-1.- Son sujetos de este derecho aquellas personas físicas o morales, ésta última, con cláusula de exclusión de extranjeros, que proporcionen o pretendan proporcionar los Servicios Privados de Seguridad de personas o bienes, traslado y custodia de fondos y valores y de investigaciones privadas en el Estado de Sinaloa. Quedan comprendidas en esta clasificación las personas morales legalmente constituidas, cuyo objeto social consista exclusivamente en la prestación del servicio para la vigilancia o custodia de locales.
 
 Asimismo, son sujetos las personas físicas o morales que organicen y tengan operando de manera interna servicios privados de seguridad así como establecimientos destinados a la prestación de servicios y que se encuentren bajo la responsabilidad directa de la empresa o institución que los organice.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-ART. 78 bis-2.- La base gravable de este derecho es la modalidad en el que el solicitante pretenda prestar los servicios privados de seguridad, en los términos de la Ley de Seguridad Pública del Estado, conforme a la siguiente:
+ART. 78 BIS-2.- La base gravable de este derecho es la modalidad en el que el solicitante pretenda prestar los servicios privados de seguridad, en los términos de la Ley de Seguridad Pública del Estado, conforme a la siguiente:
 
 TARIFA
 
@@ -3137,7 +3109,7 @@ DERECHOS POR BUSQUEDA DE INFORMACION PUBLICA NO DISPONIBLE, POR REPRODUCCION Y E
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2003)</small>
 
-ART. 78 bis-3.- Por la reproducción de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, se causarán derechos conforme a la siguiente:
+ART. 78 BIS-3.- Por la reproducción de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, se causarán derechos conforme a la siguiente:
 
 T A R I F A
 
@@ -3213,25 +3185,25 @@ b).- Disco compacto grabado: 0.125
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ART. 78 bis-4.- Por el envío de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, al domicilio del solicitante, se causarán derechos por una cantidad equivalente a 1.25 veces el valor diario de la Unidad de Medida y Actualización.
+ART. 78 BIS-4.- Por el envío de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, al domicilio del solicitante, se causarán derechos por una cantidad equivalente a 1.25 veces el valor diario de la Unidad de Medida y Actualización.
 
 (NOTA: EL 28 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ART. 78 bis-5.- Por la búsqueda exhaustiva de información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas que no se encuentre disponible en el momento, se causarán derechos por una cantidad equivalente a 2 veces el valor diario de la Unidad de Medida y Actualización.
+ART. 78 BIS-5.- Por la búsqueda exhaustiva de información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas que no se encuentre disponible en el momento, se causarán derechos por una cantidad equivalente a 2 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2003)</small>
 
-ART. 78 bis-6.- Cuando en esta Ley se tenga fijado el cobro de algún derecho, por la reproducción de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, no se aplicará la tarifa que señala este Capítulo.
+ART. 78 BIS-6.- Cuando en esta Ley se tenga fijado el cobro de algún derecho, por la reproducción de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, no se aplicará la tarifa que señala este Capítulo.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ART. 78 bis-7.- Por la revalidación anual de autorización o de reconocimiento de validez oficial de estudios, emitida por la autoridad educativa estatal, se cubrirá una vez el valor diario de la Unidad de Medida y Actualización por cada alumno inscrito.
+ART. 78 BIS-7.- Por la revalidación anual de autorización o de reconocimiento de validez oficial de estudios, emitida por la autoridad educativa estatal, se cubrirá una vez el valor diario de la Unidad de Medida y Actualización por cada alumno inscrito.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-ART. 78 bis-8. Cuando por el pago de los derechos contenidos en este Título, se determine una cuota en fracciones de centavos, se ajustará esta a la unidad inmediata siguiente si se trata de fracciones de cincuenta centavos o superior y cuando la fracción sea inferior a cincuenta centavos, el ajuste se hará a la unidad inmediata anterior.
+ART. 78 BIS-8. Cuando por el pago de los derechos contenidos en este Título, se determine una cuota en fracciones de centavos, se ajustará esta a la unidad inmediata siguiente si se trata de fracciones de cincuenta centavos o superior y cuando la fracción sea inferior a cincuenta centavos, el ajuste se hará a la unidad inmediata anterior.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -3239,7 +3211,7 @@ ART. 78 bis-8. Cuando por el pago de los derechos contenidos en este Título, se
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 78 bis-9. Los derechos por los servicios a que se refiere este capítulo, se pagarán conforme a la siguiente:
+ART. 78 BIS-9. Los derechos por los servicios a que se refiere este capítulo, se pagarán conforme a la siguiente:
 
 CONCEPTO VECES EL VALOR DIARIO
 
@@ -3295,7 +3267,7 @@ DERECHOS POR LA PRESTACIÓN DE SERVICIOS Y USO O GOCE DE BIENES DEL DOMINIO PÚB
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 78 Bis-10. Los Organismos Descentralizados como personas jurídicas, cuyo objetivo primordial es auxiliar a la Administración Pública Centralizada en la realización de actividades correspondientes a las áreas estratégicas o prioritarias del Gobierno del Estado, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, conforme a los rubros, conceptos, cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, los que deberán ser publicados en el Periódico Oficial "El Estado de Sinaloa", para tener vigencia y aplicabilidad.
+ART. 78 BIS-10. Los Organismos Descentralizados como personas jurídicas, cuyo objetivo primordial es auxiliar a la Administración Pública Centralizada en la realización de actividades correspondientes a las áreas estratégicas o prioritarias del Gobierno del Estado, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, conforme a los rubros, conceptos, cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, los que deberán ser publicados en el Periódico Oficial "El Estado de Sinaloa", para tener vigencia y aplicabilidad.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -4285,10 +4257,8 @@ QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo 
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 158.- POR EL QUE SE REFORMA LA FRACCIÓN XXXII DEL ARTÍCULO 8 DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MÉXICO”.]
+P.O. 29 DE MARZO DE 2017.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 103 POR EL QUE “SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 34 BIS, Y LOS ARTÍCULOS 34 BIS-2, 34 BIS-4, 34 BIS-7 Y 34 BIS-13 DE LA LEY DE HACIENDA DEL ESTADO DE SINALOA”.]
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
