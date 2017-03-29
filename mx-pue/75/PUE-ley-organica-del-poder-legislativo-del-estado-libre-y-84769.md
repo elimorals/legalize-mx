@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2016-08-12"
+last_updated: "2017-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -37,7 +37,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y II, 69 fracción II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21 y 24 fracciones I y II del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -1329,13 +1331,13 @@ XXXII.- Organizaciones No Gubernamentales;
 
 XXXIII.- Cultura;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
 
-XXXIV.- Participación Ciudadana; y
+XXXIV.- Participación Ciudadana y Combate a la Corrupción; y
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
 
-XXXV.- De la Familia y su Desarrollo Integral.
+XXXV.- De la Familia y los Derechos de la Niñez.
 
 #### SECCIÓN TERCERA. DE LAS COMISIONES TRANSITORIAS
 
@@ -1399,7 +1401,9 @@ I.- Adquisiciones, Arrendamientos y Servicios;
 
 II.- Diario de Debates, Crónica Legislativa y Asuntos Editoriales;
 
-III.- Gestoría y Quejas;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
+
+III.- Atención Ciudadana;
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
 
@@ -2542,5 +2546,43 @@ SEGUNDO. La Comisión General de Transportes y Movilidad estará conformada por 
 TERCERO. Los asuntos en trámite presentados o turnados a la Comisión General de Transportes, pasaran a ser competencia de la Comisión General de Transportes y Movilidad.
 
 CUARTO. Todos los actos suscritos por la Comisión General de Transportes y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión General de Transportes y Movilidad.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA FRACCIÓN XXXIV Y LOS INCISOS B), C) Y D), Y ADICIONA LOS INCISOS E) Y F), AL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Comisión de Participación Ciudadana y Combate a la Corrupción estará conformada por los mismos integrantes de la Comisión de Participación Ciudadana que cambia de denominación.
+
+TERCERO. Los asuntos en trámite presentados o turnados a la Comisión de Participación Ciudadana, pasarán a ser competencia de la Comisión de Participación Ciudadana y Combate a la Corrupción.
+
+CUARTO. Todos los actos suscritos por la Comisión de Participación Ciudadana y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión de Participación Ciudadana y Combate a la Corrupción.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXXV DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA FRACCIÓN XXXV Y LOS INCISOS A), D), E) Y F), Y ADICIONA LOS INCISOS G) Y H), TODOS DEL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Los asuntos en trámite que se encuentren turnados a la Comisión de la Familia y su Desarrollo Integral con motivo de la entrada en vigor de este Decreto deberán pasar a la Comisión de la Familia y los Derechos de la Niñez.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 133 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA FRACCIÓN III Y SUS INCISOS A), B), C), D) Y E) DEL ARTÍCULO 51 Y LAS FRACCIONES XI Y XII DEL 230 TER; Y ADICIONA LOS INCISOS F) Y G), A LA FRACCIÓN III DEL ARTÍCULO 51, TODOS DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Comité de Atención Ciudadana estará conformado por los mismos integrantes del Comité de Gestoría y Quejas que cambia de denominación.
+
+TERCERO. Los asuntos en trámite presentados o turnados al Comité de Gestoría y Quejas pasarán a ser competencia del Comité de Atención Ciudadana.
+
+CUARTO. Todos los actos suscritos por el Comité de Gestoría y Quejas y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos al Comité de Atención Ciudadana.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
