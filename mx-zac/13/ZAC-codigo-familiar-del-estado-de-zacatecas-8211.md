@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2016-08-17"
+last_updated: "2017-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -411,13 +413,21 @@ Dictada la resolución judicial definitiva que autoriza la adopción, el Juez qu
 
 La falta de registro de la adopción no quita a ésta sus efectos legales, pero sujeta al responsable a lo dispuesto por el artículo veintisiete de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 58.
 
-El acta de adopción contendrá el nombre, apellidos, edades y domicilios del adoptante o adoptantes y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción.
+En la adopción simple se levantará un acta de adopción que contendrá el nombre, apellidos, edades y domicilios del adoptante o adoptantes y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+Extendida el acta de la adopción, se harán las anotaciones en la del nacimiento del adoptado y se archivará la copia de las diligencias relativas, bajo el mismo número del acta de adopción.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 59.
 
-Extendida el acta de la adopción, se anotará la del nacimiento del adoptado y se archivará la copia de las diligencias relativas, bajo el mismo número del acta de adopción.
+En la adopción plena se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos y se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado, ni su condición de tal, salvo providencia dictada en juicio.
 
 ###### ARTICULO 60.
 
@@ -467,11 +477,11 @@ IV. Bajo qué régimen matrimonial desean celebrar su matrimonio.
 
 Al escrito a que se refiere el artículo anterior se acompañarán:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
 
-I. El acta de nacimiento de los pretendientes o en su defecto, la resolución en la que se registre la dispensa de edad a un menor de edad emitida por el Juez;
+I. El acta de nacimiento de los pretendientes;
 
-II. La constancia de que prestan su consentimiento para que el matrimonio se formalice, las personas que, en su caso ejerzan sobre ellos la patria potestad o los tengan bajo su custodia;
+II. (DEROGADA, P.O. 29 DE MARZO DE 2017)
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -499,9 +509,11 @@ VIII. Constancia expedida por el Oficial del Registro Civil en la que acrediten 
 
 En el caso de que los pretendientes, por falta de conocimiento no puedan redactar el convenio a que se refiere la fracción V, del artículo anterior podrán acudir a la instancia de mediación del Poder Judicial del Estado. Para su orientación y elaboración o bien, lo redactará el Oficial del Registro Civil con los datos que los mismos pretendientes le suministren.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 68.
 
-El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores hará que los pretendientes y ascendientes o tutores que deban prestar su consentimiento reconozcan ante él, por separado, sus firmas. Las declaraciones de los testigos a que se refiere la fracción tercera del artículo sesenta y seis serán ratificadas, bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de las firmas que calcen el certificado médico, ordenando la ratificación correspondiente ante su presencia.
+El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores hará que los pretendientes reconozcan ante él, por separado, sus firmas. Las declaraciones de los testigos a que se refiere la fracción tercera del artículo sesenta y seis serán ratificadas, bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de las firmas que calcen el certificado médico, ordenando la ratificación correspondiente ante su presencia.
 
 ###### ARTICULO 69.
 
@@ -519,11 +531,11 @@ Se levantará luego el acta de matrimonio en la cual se hará constar:
 
 I. Los nombres, apellidos, nacionalidad, edades, ocupaciones, domicilios y lugares de nacimiento de los contrayentes;
 
-II. Si son mayores o menores de edad;
+II. (DEROGADA, P.O. 29 DE MARZO DE 2017)
 
 III. Los nombres, apellidos, nacionalidad, ocupación y domicilio de los padres;
 
-IV. El consentimiento de estos últimos, de los abuelos o tutores en su caso, o el de las autoridades que deban suplirlos;
+IV. (DEROGADA, P.O. 29 DE MARZO DE 2017)
 
 V. Que no hubo impedimento para el matrimonio o que, habiéndolo, se dispensó;
 
@@ -749,39 +761,33 @@ También es requisito para contraer matrimonio, la asistencia previa de los inte
 
 Las Oficialías del Registro Civil podrán celebrar los convenios de colaboración respectivos con las dependencias y entidades que consideren pertinentes, para recibir el apoyo profesional y técnico necesario para la realización de dichos cursos.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
-
 ###### ARTICULO 107.
 
-Los menores de edad, no pueden contraer matrimonio sin consentimiento del que o de los que ejerzan la patria potestad.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 108.
 
-A falta, negativa o imposibilidad de quienes ejerzan la patria potestad, el Juez de lo Familiar de la residencia de los interesados podrá conceder las dispensas de edad.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 109.
 
 (DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
-
 ###### ARTICULO 110.
 
-Si el Juez no concede dispensas de edad para que se celebre el matrimonio, los interesados pueden recurrir la decisión ante el Tribunal Superior de Justicia del Estado, en los términos que disponga el Código de Procedimientos Civiles para el Estado.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 111.
 
-El ascendiente o tutor que ha prestado su consentimiento para que se celebre un matrimonio, firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlo a menos que haya causa justa para ello.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 112.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, a menos que exista justa causa para ello.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 113.
 
-El Juez que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento una vez que lo haya otorgado, sino por causa superveniente.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ### CAPITULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL MATRIMONIO
 
@@ -793,9 +799,11 @@ Impedimento es todo hecho que legalmente prohíbe la celebración del matrimonio
 
 Son impedimentos para contraer matrimonio:
 
-I. La falta de edad requerida por la Ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
 
-II. La falta de consentimiento, del que o de los que ejerzan la patria potestad, del tutor o de la autoridad política;
+I. La falta de edad requerida por la Ley;
+
+II. (DEROGADA, P.O. 29 DE MARZO DE 2017)
 
 III. El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
@@ -819,9 +827,9 @@ IX. Padecer alguno de los estados de discapacidad a que se refiere la fracción 
 
 X. El matrimonio subsistente con persona distinta de aquella con quien se pretende contraer.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en la línea colateral desigual, así como aquellos en los que esté prevista la libre manifestación del consentimiento del o de los contrayentes, que desestimen formalmente el impedimento.
+De estos impedimentos sólo son dispensables el parentesco de consanguinidad en la línea colateral desigual, así como aquellos en los que esté prevista la libre manifestación del consentimiento del o de los contrayentes, que desestimen formalmente el impedimento.
 
 ###### ARTICULO 115.
 
@@ -911,9 +919,11 @@ Los cónyuges y los hijos, en materia de alimentos tendrán derecho preferente s
 
 Los cónyuges tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite uno de los cónyuges el consentimiento del otro, salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 130.
 
-El marido y la mujer menores de edad tendrán la administración de sus bienes, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos, y un tutor para sus negocios judiciales. Cada cónyuge puede disponer libremente de los frutos de su trabajo cumpliendo previamente la obligación de contribuir a los gastos de la familia.
+Cada cónyuge puede disponer libremente de los frutos de su trabajo cumpliendo previamente la obligación de contribuir a los gastos de la familia.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1063,11 +1073,11 @@ La administración de la sociedad corresponde a ambos cónyuges; pero puede conv
 
 Los actos de dominio sólo podrán realizarse por ambos cónyuges de común acuerdo.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 153.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los cónyuges. Debiendo tramitarse ante el Juez Familiar o ante Notario Público, y cualquiera de los cónyuges deberá hacer llegar al Oficial del Registro Civil que corresponda, copia certificada de la resolución o testimonio en que se haga constar el cambio, para que se hagan las anotaciones en el acta de matrimonio. Lo anterior previo el pago de derechos correspondientes. Los términos en que se determinen los derechos y obligaciones objeto del convenio pueden establecerse como resultado de un procedimiento de mediación. En los casos que alguno o ambos cónyuges fueren menores de edad, el convenio relativo sólo tendrá validez después de ser autorizado por el Juez de lo Familiar o Juez Municipal.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los cónyuges. Debiendo tramitarse ante el Juez Familiar o ante Notario Público, y cualquiera de los cónyuges deberá hacer llegar al Oficial del Registro Civil que corresponda, copia certificada de la resolución o testimonio en que se haga constar el cambio, para que se hagan las anotaciones en el acta de matrimonio. Lo anterior previo el pago de derechos correspondientes. Los términos en que se determinen los derechos y obligaciones objeto del convenio pueden establecerse como resultado de un procedimiento de mediación.
 
 ###### ARTICULO 154.
 
@@ -1125,11 +1135,11 @@ En el régimen de separación de bienes, los cónyuges conservarán la propiedad
 
 La separación puede comprender no sólo los bienes de que sean dueños los consortes al celebrarse el matrimonio sino también los que adquieran después. La separación de bienes puede ser absoluta o parcial.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 166.
 
-Durante el matrimonio, si así lo acuerdan los cónyuges, la separación de bienes puede terminar para ser sustituida por la sociedad .conyugal o el régimen mixto, debiendo tramitarse ante el Juez Familiar o ante Notario Público, y cualquiera de los cónyuges deberá hacer llegar al Oficial del Registro Civil que corresponda, copia certificada de la resolución o testimonio en que se haga constar el cambio, para que se hagan las anotaciones en el acta de matrimonio. Lo anterior previo el pago de derechos correspondientes. Pero si son los cónyuges menores de edad se precisará autorización judicial.
+Durante el matrimonio, si así lo acuerdan los cónyuges, la separación de bienes puede terminar para ser sustituida por la sociedad conyugal o el régimen mixto, debiendo tramitarse ante el Juez Familiar o ante Notario Público, y cualquiera de los cónyuges deberá hacer llegar al Oficial del Registro Civil que corresponda, copia certificada de la resolución o testimonio en que se haga constar el cambio, para que se hagan las anotaciones en el acta de matrimonio. Lo anterior previo el pago de derechos correspondientes.
 
 ###### ARTICULO 167.
 
@@ -1175,9 +1185,11 @@ I. Las donaciones que antes del matrimonio hace un prometido a otro; y
 
 II. Las donaciones que un extraño hace a alguno de los prometidos o a ambos, en consideración al futuro matrimonio.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 176.
 
-Los prometidos menores de edad pueden hacer donaciones antenupciales; pero sólo con la intervención de sus padres o tutores o con aprobación judicial. Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a lo dispuesto por esta ley.
+Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a lo dispuesto por esta ley.
 
 ###### ARTICULO 177.
 
@@ -1241,33 +1253,21 @@ III. Que se haya celebrado en contravención a las solemnidades y formalidades s
 
 La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error dentro del término de treinta días después de conocerlo, se tiene por ratificado el consentimiento, y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
-
 ###### ARTICULO 185.
 
-Cuando el hombre o la mujer sean menores de edad al contraer matrimonio, dejará de ser causa de nulidad:
-
-I. Cuando haya habido hijos;
-
-II. Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años, y ni él ni el otro cónyuge hubieran intentado la nulidad.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 186.
 
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tenga conocimiento del matrimonio.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 187.
 
-Cesa esta causa de nulidad:
-
-I. Si han pasado los treinta días sin que se haya pedido;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-II. Si dentro de este término los que ejercen la patria potestad han consentido expresamente en el matrimonio, o tácitamente haciendo donaciones a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la descendencia como de los cónyuges en el Registro Civil, o practicando otros actos que a juicio del Juez de lo Familiar sean tan conducentes al efecto como los expresados.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 188.
 
-La nulidad por falta de consentimiento del tutor o del Juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda, se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 189.
 
@@ -1479,7 +1479,7 @@ Si alguno de los cónyuges o ambos, tuvieren duda respecto de los términos en q
 
 ###### ARTICULO 225.
 
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 226.
 
@@ -1707,6 +1707,10 @@ El parentesco de consanguinidad es el vinculo que existe entre personas que desc
 
 También se considera parentesco por consanguinidad, el vínculo existente entre el hijo producto de la reproducción asistida y los cónyuges o concubinos que hubieren procurado el nacimiento.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+En la adopción plena, se equiparará al parentesco por consanguinidad aquél que existe entre adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
+
 ###### ARTICULO 247.
 
 El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
@@ -1717,11 +1721,11 @@ Disuelto el matrimonio desaparece el parentesco por afinidad.
 
 Se asimila al parentesco por afinidad la relación que resulta del concubinato, entre el concubinario y los parientes de la concubina y entre los parientes de éste con aquélla. Esta asimilación sólo comprende los parientes consanguíneos en línea recta ascendiente o descendiente sin limitación de grado; y su único efecto es constituir un impedimento para el matrimonio.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 249.
 
-El parentesco civil es el que nace de la adopción, se equipara al parentesco por consanguinidad y es aquél que existe entre el adoptado, los adoptantes, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
+El parentesco civil es el que nace de la adopción simple; y es aquel que existe solamente entre el adoptante y el adoptado.
 
 ###### ARTICULO 250.
 
@@ -1949,7 +1953,7 @@ Por lo tanto, bastará con que el interesado acredite ante el Juez del conocimie
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2006)</small>
 
-### CAPITULO TERCERO. DE LA FlLIACION DE LOS HIJOS
+### CAPITULO TERCERO. DE LA FILIACION DE LOS HIJOS
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -2079,6 +2083,8 @@ II. Los nacidos dentro de los trescientos días siguientes al en que cesó, la v
 
 ### CAPITULO SEPTIMO. DE LA ADOPCION
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 306.
 
 La filiación de los hijos se prueba con el acta de nacimiento.
@@ -2097,9 +2103,9 @@ En defecto de esa posesión de estado son admisibles todos los medios ordinarios
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO OCTAVO. DE LA ADOPCION INTERNACIONAL
+### CAPÍTULO OCTAVO. DE LA ADOPCIÓN PLENA
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 309.
 
@@ -2155,9 +2161,9 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
+### CAPÍTULO NOVENO. DE LA ADOPCIÓN SIMPLE
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 316.
 
@@ -2185,7 +2191,9 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
-### CAPITULO SEGUNDO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
+### CAPÍTULO DÉCIMO. DE LA ADOPCIÓN INTERNACIONAL
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 322.
 
@@ -2357,35 +2365,43 @@ III. A percibir la porción hereditaria que fije la ley en caso de intestado, o 
 
 La acción que compete al hijo para reclamar su estado puede ser intentada por éste o sus herederos, si murió antes de cumplir veinticinco años, o si cayó en estado de incapacidad antes de esa edad, muriendo después en el mismo estado.
 
-### CAPITULO TERCERO. DE LOS MODOS DE ACABARSE, PERDERSE Y SUSPENDERSE LA PATRIA POTESTAD
+### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 351.
 
-La adopción es un parentesco civil resultante del acto jurídico mediante el cual una o más personas asumen respecto de un menor de edad o de un incapacitado los derechos y obligaciones inherentes a la filiación de sangre.
+La adopción es un parentesco equiparado al consanguíneo o civil, resultante del acto jurídico mediante el cual una o más personas asumen respecto de uno o varios menores de edad o incapacitados los derechos inherentes a la filiación de sangre.
 
 ###### ARTICULO 352.
 
 Para adoptar se necesita ser mayor de veinticinco años de edad, en pleno ejercicio de sus derechos. Aunque sean mayores de edad deben tener el o los presuntos adoptantes diecisiete años más que el adoptado y la adopción debe ser benéfica a éste.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 353.
 
-El marido y la mujer podrán adoptar conjuntamente cuando los dos estén conformes en considerar al adoptado como hijo. La adopción hecha sólo por uno de los cónyuges, no puede tener lugar sin el consentimiento del otro y, en caso de incapacidad, por su representante legal.
+Los cónyuges o concubinos podrán adoptar conjuntamente cuando los dos estén conformes en considerar al adoptado como hijo. La adopción hecha sólo por uno de los cónyuges o concubinos, no puede tener lugar sin el consentimiento del otro y, en caso de incapacidad, por su representante legal.
 
 ###### ARTICULO 354.
 
 Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 355.
 
-Con la adopción, el adoptado se integra plenamente como miembro de la familia del o de los adoptantes y tiene todos los derechos y obligaciones inherentes a un hijo biológico. El parentesco derivado de ella, existe entre él y los adoptantes; entre el adoptado y las familias del o de los que lo adopten.
+La adopción hecha por extranjeros radicados legalmente en México, se rige por las disposiciones de este Código; sin embargo, en igualdad de circunstancias, se dará preferencia a mexicanos sobre extranjeros.
 
 ###### ARTICULO 356.
 
 El tutor no puede adoptar al pupilo sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 357.
 
-El menor o incapacitado que hayan sido adoptados podrán impugnar la adopción dentro del año siguiente a la mayor edad, o a la fecha en que haya desaparecido la incapacidad.
+El menor o incapacitado que hayan sido adoptados en forma simple podrán impugnar la adopción dentro del año siguiente a la mayoría de edad, o a la fecha en que haya desaparecido la incapacidad.
 
 ###### ARTICULO 358.
 
@@ -2451,15 +2467,97 @@ El Juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 La adopción procede aun cuando el adoptante o adoptantes tengan hijos, si se acredita plenamente que tienen la solvencia moral y material para formarlos, educarlos y cuidarlos. Aunque sobrevengan hijos al o a los adoptantes, ésta subsistirá.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+###### ARTICULO 364 Bis.
 
-### CAPITULO SEGUNDO. DE LA TUTELA TESTAMENTARIA
+La adopción tendrá lugar, cuando además de los requisitos previstos por este Código y demás legislación aplicable, el Sistema Estatal para el Desarrollo Integral de la Familia, verifique y certifique que:
+
+I. Con fundamento en valoraciones psicológicas, económicas, de trabajo social y todas aquellas que sean necesarias:
+
+a) Los futuros padres adoptivos son adecuados y aptos para adoptar;
+
+b) El menor o incapacitado es adoptable;
+
+c) La adopción responde al interés superior del niño;
+
+II. Las personas, instituciones y autoridades cuyo consentimiento se requiera para la adopción, así como los adoptantes, han sido convenientemente asesorados y debidamente informados de las consecuencias jurídicas, familiares y sociales de la adopción, en particular con relación al mantenimiento o ruptura, en virtud de la adopción, de los vínculos entre el menor o incapacitado y su familia biológica;
+
+III. Tales personas, instituciones y autoridades han dado su consentimiento libremente y por escrito, sin que medie pago o compensación de clase alguna, y
+
+IV. Teniendo en cuenta la edad, desarrollo evolutivo, cognoscitivo y el grado de madurez del menor o incapacitado:
+
+a) Ha sido convenientemente asesorado y debidamente informado sobre las consecuencias de la adopción y de su consentimiento a la adopción, cuando éste sea necesario;
+
+b) Se han tomado en consideración los deseos y opiniones del menor o incapacitado, y
+
+c) El consentimiento del menor o incapacitado a la adopción, cuando sea necesario, ha sido dado libremente y por escrito, sin que medie pago o compensación de clase alguna.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2017)</small>
+
+### CAPITULO SEGUNDO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
+
+###### ARTICULO 364 Ter.
+
+El adoptado bajo la forma de adopción plena se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+###### ARTICULO 364 Quáter.
+
+La adopción plena extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado con alguno: de los progenitores del adoptado no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+###### ARTICULO 364 Quinquies.
+
+La adopción plena es irrevocable, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en la filiación biológica.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+###### ARTICULO 364 Sexies.
+
+Para que la adopción plena pueda tener efectos, además de las personas a que se refiere el artículo 359 de este Código, deberá otorgar su consentimiento el padre o madre del menor que se pretende adoptar, salvo que exista al respecto declaración judicial de abandono.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+###### ARTICULO 364 Septies.
+
+Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes y contando con autorización judicial:
+
+I. Para efectos de impedimento para contraer matrimonio, y
+
+II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuere menor de edad se requerirá el consentimiento de los adoptantes.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+###### ARTICULO 364 Octies.
+
+No pueden adoptar mediante adopción plena, las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2017)</small>
+
+### CAPITULO TERCERO. DE LOS MODOS DE ACABARSE, PERDERSE Y SUSPENDERSE LA PATRIA POTESTAD
+
+###### ARTICULO 364 Nonies.
+
+Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, no crea ningún vínculo jurídico entre el adoptado y la familia del adoptante, ni entre éste y la familia de aquél, salvo los impedimentos para contraer matrimonio.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+###### ARTICULO 364 Decies.
+
+Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad que será transferida al padre adoptivo.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+ARTICULO 364 Undecies.- La adopción simple podrá convertirse en plena siempre que se cumplan los requisitos y se realice el procedimiento aplicable a esta última.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 365.
 
-La adopción puede revocarse:
+La adopción simple puede revocarse:
 
 I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, en los términos establecidos por esta Ley;
 
@@ -2470,6 +2568,10 @@ II. Por ingratitud del adoptado;
 III. Por maltrato, abandono o costumbres desordenadas, en los términos de la Ley Estatal de los Derechos de las Niñas, los Niños y los Adolescentes, así como en los casos de violencia familiar, de acuerdo a lo dispuesto en el artículo 283 bis. de este Código. La revocación se tramitará de conformidad a lo dispuesto por el Código de Procedimientos Civiles.
 
 En este caso, el Ministerio Público, en protección al menor, ordenará la separación inmediata del adoptado; lo pondrá a la protección y cuidado de los ascendientes a los que legalmente les corresponda el ejercicio de la patria potestad; a su falta o impedimento, el menor pasará a la custodia del Sistema Estatal para el Desarrollo Integral de la Familia, y dentro de las veinticuatro horas siguientes pedirá al Juez la revocación de la adopción, quien deberá resolver en un término de setenta y dos horas a partir de la fecha de la solicitud.
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2017)</small>
+
+IV. Por impugnación del vínculo hecha por el adoptado dentro del año siguiente a la mayoría de edad, o a la fecha en que haya desaparecido la incapacidad.
 
 ###### ARTICULO 366.
 
@@ -2497,9 +2599,11 @@ En el caso de revocación por ingratitud, ésta deja de producir efectos desde q
 
 Las resoluciones que dicten los Jueces aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción. Igualmente al Consejo Estatal de los Derechos del Niño para los efectos del seguimiento de su situación.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPITULO TERCERO. DE LA TUTELA LEGITIMA DE LOS MENORES
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 369 Bis.
 
@@ -2531,7 +2635,7 @@ ARTICULO 369 Quintus.- Una vez decretada la adopción, el Sistema Estatal para e
 
 ## TITULO CUARTO. DE LA PATRIA POTESTAD
 
-### CAPITULO CUARTO. DE LA TUTELA DE LAS PERSONAS CON INCAPACIDAD NATURAL Y LEGAL
+### CAPITULO SEGUNDO. DE LA TUTELA TESTAMENTARIA
 
 ###### ARTICULO 370.
 
@@ -2621,7 +2725,7 @@ Además del Ministerio Público tiene acción para demandar la pérdida de la pa
 
 El que está sujeto a la patria potestad no puede comparecer en Juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho.
 
-### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS EN ESTABLECIMIENTOS DE BENEFICENCIA
+### CAPITULO TERCERO. DE LA TUTELA LEGITIMA DE LOS MENORES
 
 ###### ARTICULO 384.
 
@@ -2707,7 +2811,7 @@ Los Jueces tienen facultad para tomar las medidas necesarias para impedir que, p
 
 Las personas que ejerzan la patria potestad, deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
-### CAPITULO SEXTO. DE LA TUTELA DATIVA
+### CAPITULO CUARTO. DE LA TUTELA DE LAS PERSONAS CON INCAPACIDAD NATURAL Y LEGAL
 
 ###### ARTICULO 401.
 
@@ -2799,7 +2903,7 @@ II. Cuando por su mal estado habitual de salud, no puedan atender debidamente a 
 
 ## TITULO QUINTO. DE LA TUTELA
 
-### CAPITULO SEPTIMO. DE LAS PERSONAS INHABILES PARA LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
+### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS EN ESTABLECIMIENTOS DE BENEFICENCIA
 
 ###### ARTICULO 408.
 
@@ -2821,7 +2925,7 @@ IV. (DEROGADA, P.O. 15 DE JULIO DE 1992)
 
 ###### ARTICULO 410.
 
-Los menores de edad emancipados por razón del matrimonio tienen incapacidad legal para los actos relativos a la disposición de sus derechos sobre inmuebles.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 411.
 
@@ -2907,7 +3011,7 @@ El Juez de Primera Instancia del domicilio del incapacitado, y si no lo hubiere,
 
 El Juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
-### CAPITULO OCTAVO. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
+### CAPITULO SEXTO. DE LA TUTELA DATIVA
 
 ###### ARTICULO 428.
 
@@ -2959,7 +3063,7 @@ Si por un nombramiento condicional de tutor, o por cualquier otro motivo, faltar
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicando a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
+### CAPITULO SEPTIMO. DE LAS PERSONAS INHABILES PARA LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
 
 ###### ARTICULO 440.
 
@@ -2995,7 +3099,7 @@ La falta temporal del tutor legítimo se suplirá en los términos establecidos 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 1992)</small>
 
-### CAPITULO DECIMO. DEL DESEMPEÑO DE LA TUTELA
+### CAPITULO OCTAVO. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 444.
 
@@ -3021,7 +3125,7 @@ A falta de tutor testamentario y de persona que con apego a los artículos anter
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquél derecho.
 
-### CAPITULO DECIMO PRIMERO. DE LAS CUENTAS DE LA TUTELA
+### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
 
 ###### ARTICULO 450.
 
@@ -3035,7 +3139,7 @@ Los directores de los hospitales y demás instituciones de beneficencia, donde s
 
 En el caso del artículo anterior, no es necesario el discernimiento del cargo.
 
-### CAPITULO DECIMO SEGUNDO. DE LA EXTINCION DE LA TUTELA
+### CAPITULO DECIMO. DEL DESEMPEÑO DE LA TUTELA
 
 ###### ARTICULO 453.
 
@@ -3101,7 +3205,7 @@ Si el menor sujeto a tutela dativa en los términos establecidos en este Capítu
 
 Siempre que por cualquier circunstancia, no existiere tutela ni quien ejerciere la patria potestad, en tanto se provee a la tutela que corresponda, le será nombrado un tutor dativo por el Juez de Primera Instancia del lugar.
 
-### CAPITULO DECIMO TERCERO. DE LA ENTREGA DE LOS BIENES
+### CAPITULO DECIMO PRIMERO. DE LAS CUENTAS DE LA TUTELA
 
 ###### ARTICULO 463.
 
@@ -3179,7 +3283,7 @@ En el caso de que se trata en el artículo anterior, se proveerá a la tutela co
 
 Absuelto un tutor, volverá al ejercicio de su cargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de dos años de prisión.
 
-### CAPITULO DECIMO CUARTO. DEL CURADOR
+### CAPITULO DECIMO SEGUNDO. DE LA EXTINCION DE LA TUTELA
 
 ###### ARTICULO 471.
 
@@ -3227,7 +3331,7 @@ El tutor que, sin excusa o desechada la que hubiere propuesto, no desempeña la 
 
 Muerto el tutor que está desempeñando la tutela, sus herederos o ejecutores testamentarios deberán dar aviso al Juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
 
-### CAPITULO DECIMO QUINTO. DEL ESTADO DE INCAPACIDAD O INTERDICCION
+### CAPITULO DECIMO TERCERO. DE LA ENTREGA DE LOS BIENES
 
 ###### ARTICULO 479.
 
@@ -3311,7 +3415,7 @@ Si los tutores son varios, sólo se exigirá, a cada uno de ellos, garantía por
 
 El Juez responde subsidiariamente con el tutor de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
 
-### CAPITULO UNICO. DE LA EMANCIPACION, DE LA MENOR EDAD Y LA MAYOR EDAD
+### CAPITULO DECIMO CUARTO. DEL CURADOR
 
 ###### ARTICULO 493.
 
@@ -3581,7 +3685,7 @@ En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitad
 
 Para que pueda hacerse en la retribución de los tutores, el aumento extraordinario que permite el artículo 544, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
 
-### CAPITULO PRIMERO. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
+### CAPITULO DECIMO QUINTO. DEL ESTADO DE INCAPACIDAD O INTERDICCION
 
 ###### ARTICULO 547.
 
@@ -3657,7 +3761,7 @@ La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan s
 
 Hasta pasado un mes de la rendición y aprobación definitiva de las cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
 
-### CAPITULO SEGUNDO. DE LA DECLARACION DE AUSENCIA
+### CAPITULO UNICO. DE LA EMANCIPACION, DE LA MENOR EDAD Y LA MAYOR EDAD
 
 ###### ARTICULO 563.
 
@@ -3671,7 +3775,7 @@ II. Cuando el incapacitado sujeto a tutela entre a la patria potestad.
 
 La muerte, incapacidad del tutor o ausencia declarada legalmente termina la tutela con relación al tutor. Tan pronto como llegue a conocimiento del Juez que un tutor ha muerto, o ha sido declarado incapaz o ausente, promoverá de inmediato el nombramiento del nuevo tutor.
 
-### CAPITULO TERCERO. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
+### CAPITULO PRIMERO. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
 
 ###### ARTICULO 565.
 
@@ -3725,7 +3829,7 @@ Todas las acciones por hechos relativos a la administración de la tutela que el
 
 Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
 
-### CAPITULO CUARTO. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
+### CAPITULO SEGUNDO. DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 578.
 
@@ -3765,7 +3869,7 @@ El menor que hubiere cumplido catorce años si tiene discernimiento.
 
 ###### ARTICULO 587.
 
-Los menores de edad emancipados por razón del matrimonio.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 588.
 
@@ -3801,7 +3905,7 @@ El curador tiene derecho a ser relevado de la curaduría, pasados diez años des
 
 En los casos en que conforme a esta ley tenga que intervenir un curador, cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo se le cubrirán conforme a derecho.
 
-### CAPITULO QUINTO. DE LA PRESUNCION DE MUERTE
+### CAPITULO TERCERO. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
 ###### ARTICULO 594.
 
@@ -3835,11 +3939,11 @@ Los menores de edad no pueden alegar la nulidad en las obligaciones que hubieren
 
 ## TITULO SEXTO
 
-### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO DE LOS DERECHOS EVENTUALES DEL AUSENTE
+### CAPITULO CUARTO. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
 
 ###### ARTICULO 601.
 
-El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se extinga, el cónyuge emancipado que sea menor, no recaerá en la patria potestad.
+(DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 ###### ARTICULO 602.
 
@@ -3849,7 +3953,7 @@ I. De la autorización judicial para la enajenación, gravamen o hipoteca de bie
 
 II. De un tutor para los negocios judiciales;
 
-III. Del consentimiento del que lo emancipó para contraer nuevo matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad ha muerto, o está incapacitado legalmente, necesita el consentimiento del ascendiente a quien corresponda darlo, y en su defecto el del Juez.
+III. (DEROGADA, P.O. 29 DE MARZO DE 2017)
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
@@ -3893,7 +3997,7 @@ El mayor de edad dispone libremente de su persona y de sus bienes y tiene capaci
 
 ## TITULO SEPTIMO. DE LOS AUSENTES E IGNORADOS
 
-### CAPITULO SEPTIMO. DISPOSICIONES GENERALES
+### CAPITULO QUINTO. DE LA PRESUNCION DE MUERTE
 
 ###### ARTICULO 610.
 
@@ -4001,7 +4105,7 @@ Cada seis meses, en el día correspondiente al que hubiere sido nombrado el repr
 
 El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante de los daños y perjuicios que siga el ausente, y es causa legítima de remoción.
 
-### CAPITULO UNICO
+### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO DE LOS DERECHOS EVENTUALES DEL AUSENTE
 
 ###### ARTICULO 632.
 
@@ -4049,7 +4153,7 @@ La declaración de ausencia se publicará por una vez en el Periódico Oficial y
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá las mismas instancias que el Código de Procedimientos Civiles asigne a los negocios de mayor interés.
 
-### CAPITULO PRIMERO
+### CAPITULO SEPTIMO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 641.
 
@@ -4129,7 +4233,7 @@ Muerto el que haya obtenido la posesión provisional, le sucederán sus heredero
 
 Si el ausente se presenta o si prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes, con deducción de la mitad de los frutos y rentas, que quedarán a beneficio de los que han tenido la posesión provisional.
 
-### CAPITULO SEGUNDO. DE LA PERSONALIDAD JURIDICA DE LA FAMILIA
+### CAPITULO UNICO
 
 ###### ARTICULO 659.
 
@@ -4147,7 +4251,7 @@ Si no hubiere sociedad conyugal y el cónyuge presente no fuere heredero ni tuvi
 
 Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
 
-### CAPITULO TERCERO. LOS CONSEJOS DE FAMILIA
+### CAPITULO PRIMERO
 
 ###### ARTICULO 663.
 
@@ -4215,9 +4319,7 @@ La sentencia que declare la presunción de muerte de uno de los cónyuges, termi
 
 En el caso en que el cónyuge presente no fuere heredero, tendrá derecho a alimentos.
 
-### CAPITULO CUARTO. DE LA PROTECCION DE LAS PERSONAS CON DISCAPACIDAD, NIÑOS y ADULTOS MAYORES
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+### CAPITULO SEGUNDO. DE LA PERSONALIDAD JURIDICA DE LA FAMILIA
 
 ###### ARTICULO 674.
 
@@ -4239,7 +4341,7 @@ Lo dispuesto en los artículos anteriores, debe entenderse sin perjuicio de las 
 
 Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, o sus acciones no sean ejercitadas por sus representantes o por sus causahabientes.
 
-### CAPITULO QUINTO. DE LA PLANIFICACION Y CONTROL DE LA NATALIDAD
+### CAPITULO TERCERO. LOS CONSEJOS DE FAMILIA
 
 ###### ARTICULO 679.
 
@@ -4258,6 +4360,10 @@ El ausente y sus herederos tienen acción para reclamar los daños y perjuicios 
 El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
 
 ## TITULO OCTAVO. DEL PATRIMONIO DE FAMILIA
+
+### CAPITULO CUARTO. DE LA PROTECCION DE LAS PERSONAS CON DISCAPACIDAD, NIÑOS y ADULTOS MAYORES
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 683.
 
@@ -4430,6 +4536,8 @@ El Ministerio Público será oído en la extinción y en la reducción del patri
 Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó, o pasan a sus herederos si aquél hubiere fallecido.
 
 ## TITULO NOVENO. DEL NOMBRE DE LA MUJER CASADA, SOLTERA, VIUDA O DIVORCIADA
+
+### CAPITULO QUINTO. DE LA PLANIFICACION Y CONTROL DE LA NATALIDAD
 
 ###### ARTICULO 704.
 
@@ -4699,7 +4807,7 @@ OCTAVO.- La dote ya constituida será regida por las disposiciones de la ley baj
 
 Comuníquese al Ejecutivo del Estado para su promulgación y publicación.
 
-D A D O en la Sala de Comisiones de la H. Quincuagésima Primera Legislatura del Estado, a los veinticuatro días del mes de abril de mil novecientos ochenta y seis.- Diputado Presidente.- Profr. Leobardo Martínez Gallegos.- Rúbrica.- Diputado Secretario.- Martha Veyna de García.- Rúbrica.- Diputado Secretario .- Felipe de Jesús Ortiz H.- Rúbrica.
+D A D O en la Sala de Comisiones de la H. Quincuagésima Primera Legislatura del Estado, a los veinticuatro días del mes de abril de mil novecientos ochenta y seis.- Diputado Presidente.- Profr. Leobardo Martínez Gallegos.- Rúbrica.- Diputado Secretario.- Martha Veyna de García.- Rúbrica.- Diputado Secretario.- Felipe de Jesús Ortiz H.- Rúbrica.
 
 Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
@@ -4830,3 +4938,19 @@ Artículo primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
 
 Artículo tercero.- Los Ayuntamientos de los cincuenta y ocho municipios del Estado, contarán con un plazo de 180 días naturales contados a partir del día siguiente (sic) la entrada en vigor del presente Decreto, para llevar a cabo las acciones necesarias e implementar la realización de los cursos prematrimoniales materia del presente instrumento legislativo.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 656.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, CÓDIGO CIVIL Y CÓDIGO DE PROCEDIMIENTOS CIVILES, TODOS DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Poder Ejecutivo dentro del término de noventa días naturales contados a partir del día siguiente al de la publicación del Presente Decreto, deberá armonizar con las disposiciones de éste, los reglamentos correspondientes.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 657.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR Y EL CÓDIGO DE PROCEDIMIENTOS CIVILES, AMBOS DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan las disposiciones del presente Decreto.
