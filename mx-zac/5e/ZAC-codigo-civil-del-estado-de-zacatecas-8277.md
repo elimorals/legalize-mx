@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2014-12-31"
+last_updated: "2017-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO CIVIL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -141,7 +143,7 @@ En el capítulo de las obligaciones de dar, se determinan los deberes del obliga
 
 En la cesión de créditos, se aclara, cuando hay cesión de créditos o derechos personales y sus consecuencias jurídicas.
 
-En el capítulo de la subrogación se hace referencia a la subrogación convencional y a las acciones del subrogado, así como a las subrogación real.
+En el capítulo de la subrogación se hace referencia a la subrogación convencional y a las acciones del subrogado, así como a las (sic) subrogación real.
 
 En el capítulo relativo al ofrecimiento de pago y a la consignación, se amplía la redacción de los artículos sin modificar su contenido y se subsana una omisión actual con la adición de un capítulo que se denomina:
 
@@ -2481,7 +2483,9 @@ V.- Cuando el testamento no contiene institución de heredero o legatario.
 
 782.- Tienen derecho a heredar por sucesión legítima:
 
-I.- Los descendientes, cónyuge o concubino, ascendientes y parientes colaterales dentro del cuarto grado;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
+
+I.- Los descendientes, cónyuges o concubino, adoptados y adoptantes, ascendientes y parientes colaterales dentro del cuarto grado;
 
 II.- A falta de los anteriores, la Universidad Autónoma de Zacatecas, "Francisco García Salinas";
 
@@ -2505,7 +2509,9 @@ III.- El Estado, por conducto de su Secretaría de Educación Pública y Servici
 
 790.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, los que se fijarán de acuerdo a lo preceptuado en los artículos 571, 573 y 575 de este Código.
 
-791.- El adoptado hereda como un hijo, pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+791.- El adoptado hereda como un hijo, pero, tratándose de adopción simple, no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
 
 792.- Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos, siendo aplicable lo dispuesto en el artículo 790 de este ordenamiento.
 
@@ -2521,9 +2527,13 @@ III.- El Estado, por conducto de su Secretaría de Educación Pública y Servici
 
 797.- Los miembros de cada línea y en el mismo grado, en el caso del artículo anterior, dividirán entre ellos por partes iguales, la porción que a la línea corresponda.
 
-798.- Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-799.- Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
+798.- Tratándose de adopción simple, si concurren los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+799.- Tratándose de adopción simple, si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
 
 800.- Los ascendientes naturales tienen derecho de heredar a sus descendientes reconocidos en los términos de este Capítulo.
 
@@ -8142,3 +8152,11 @@ P.O. 31 DE DICIEMBRE DE 2014.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 656.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, CÓDIGO CIVIL Y CÓDIGO DE PROCEDIMIENTOS CIVILES, TODOS DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Poder Ejecutivo dentro del término de noventa días naturales contados a partir del día siguiente al de la publicación del Presente Decreto, deberá armonizar con las disposiciones de éste, los reglamentos correspondientes.
