@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2017-02-24"
+last_updated: "2017-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -140,7 +140,13 @@ X. Los pueblos y comunidades indígenas tienen derecho a elegir, en los Municipi
 
 Elegir a los representantes de su gobierno interno de conformidad con sus normas, procedimientos y prácticas tradicionales, garantizando la participación de las mujeres en condiciones de paridad frente a los varones, respetando el pacto federal y la soberanía del Estado.
 
-XI.- La ley reconocerá a los integrantes de los pueblos y comunidades indígenas el derecho a su etnicidad y al etnodesarrollo, residan temporal o permanentemente en el territorio del Estado de Morelos;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
+
+XI.- La ley reconocerá a los integrantes de los pueblos y comunidades indígenas el derecho a su etnicidad y al etnodesarrollo, residan temporal o permanentemente en el territorio del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+Así mismo, la Ley deberá garantizar que cualquier forma del Registro Civil pueda ser redactada y expedida en la lengua indígena del interesado, a petición expresa de éste;
 
 XII.- De conformidad con el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, el Estado y los municipios, con la participación de las comunidades, establecerán las instituciones y las políticas para garantizar el desarrollo humano y social de los pueblos y comunidades indígenas. La ley incorporará las bases que la Constitución Federal y la presente Constitución refieren, así como establecerá los mecanismos y procedimientos para el cumplimiento de esta obligación en los siguientes aspectos:
 
@@ -3118,9 +3124,9 @@ Las discusiones que, en su caso, se realicen para la formulación de la polític
 
 El matrimonio es la unión voluntaria de dos personas, con igualdad de derechos y obligaciones, con el propósito de desarrollar una comunidad de vida y ayudarse mutuamente. La celebración, registro y certificación de los hechos y actos constitutivos, modificativos o extintivos del estado civil de las personas, son de exclusiva competencia del Registro Civil en los términos que establezcan las leyes de la materia y tendrán la fuerza y validez que las mismas les atribuyan.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-En el estado se garantizará el derecho a la identidad de las personas a través del registro de nacimiento gratuito.
+El Estado garantizará el derecho a la identidad de las personas, con el registro inmediato a su nacimiento sin costo alguno. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2016)</small>
 
@@ -5159,3 +5165,17 @@ SEGUNDA. Una vez aprobado por el Constituyente Permanente, la presente reforma f
 TERCERA. LOS MAGISTRADOS QUE SE ENCUENTREN EN FUNCIONES EN EL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE MORELOS, EN EL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS, ASÍ COMO LOS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, AL HACERSE LA DECLARATORIA A LA QUE SE REFIERE LA DISPOSICIÓN TRANSITORIA PRIMERA, POR ESTA ÚNICA OCASIÓN, DURARÁN EN SU ENCARGO HASTA CUMPLIR VEINTE AÑOS CONTADOS A PARTIR DE LA FECHA DE SU PRIMERA DESIGNACIÓN, SIN PERJUICIO DE LA APLICACIÓN DE LA DISPOSICIÓN CONSTITUCIONAL QUE ESTABLECE EL RETIRO FORZOSO POR RAZÓN DE EDAD Y GOZARÁN DEL HABER DE RETIRO EN LA FORMA Y TÉRMINOS QUE DETERMINEN LOS ORDENAMIENTOS CORRESPONDIENTES.
 
 CUARTA. En un plazo no mayor a los sesenta días hábiles, contados a partir de la Declaratoria a la que se refiere la Disposición Transitoria Primera, deberán hacerse las adecuaciones pertinentes a la legislación secundaria.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, RESPECTO A LAS ACTAS DE NACIMIENTO”.]
+
+PRIMERA.- Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano Oficial de difusión del Gobierno del estado de Morelos; lo anterior, conforme a dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDA.- Las reformas, adiciones y derogaciones contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto, así como quedan sin efectos los actos derivados.
+
+CUARTA.- El Poder Ejecutivo del Estado, a través de la Dirección General del Registro Civil, podrá celebrar los convenios necesarios con las Dependencias Federales o Estatales competentes en la materia, para hacer efectiva la observancia del Artículo Primero del presente Decreto.
+
+QUINTA.- El Ejecutivo del Estado contará con 90 días hábiles, posteriores a la entrada en vigor del presente decreto, para realizar las modificaciones correspondientes al Reglamento del Registro Civil del Estado de Morelos.
