@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "2014-12-13"
+last_updated: "2017-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
@@ -3929,15 +3931,11 @@ V.- No tendrán aplicación las reglas formales de apreciación de las pruebas, 
 
 555.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+556.- (DEROGADO, P.O. 29 DE MARZO DE 2017)
 
-556.- Cuando se solicite que el juez supla el consentimiento para que un menor pueda contraer matrimonio, oirá a los interesados en una junta en la que recibirá las pruebas y dictará resolución, levantándose una sola acta con las diligencias. Si la resolución fuere favorable, se expedirá desde luego copia certificada para su representación al Oficial del Registro Civil. Si fuere adversa sin necesidad de apelación se remitirá el expediente al Tribunal Superior de Justicia para que, oyendo a los interesados, confirme o revoque la determinación.
-
-El menor de edad que, deseando contraer matrimonio, necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al juez que determine sobre el particular. El juez después de levantar la información correspondiente, oyendo a los padres y sin formalidades especiales, decidirá si la decreta.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 557.- Recibida del Oficial del Registro Civil el acta levantada con motivo del impedimento, el juez citará al denunciante si lo hubiere, y a los interesados a una audiencia en la que los oirá, recibirá las pruebas y dictará su resolución. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios. El juicio se hará constar en una sola acta cuando termine en un sólo día. La resolución que recaiga será inapelable.
-
-En los casos en que el actor solicite dispensa para contraer matrimonio con la persona que está bajo su guarda, o se celebrase el matrimonio en contravención a la prohibición legal, el juez, a petición de la autoridad administrativa o de cualquier interesado, nombrará un tutor interino que se encargue de representar al menor, reciba los bienes y los administre mientras se concede la dispensa.
 
 558.- Se tramitarán conforme a las reglas de este artículo las diferencias que surjan entre marido y mujer:
 
@@ -3979,7 +3977,7 @@ Puede decretar como medida provisional y mientras se dicta sentencia, la separac
 
 562.- Sólo las personas a quienes el Código Familiar del Estado concede este derecho pueden pedir la nulidad del matrimonio. El derecho para pedirla no es transmisible por herencia o de cualquiera otra manera; pero los herederos podrán continuar la acción ya comenzada por el autor de la herencia.
 
-563.- En los juicios sobre nulidad de matrimonio, los cónyuges menores de edad necesitan de un tutor para litigar. La demanda será suscrita también con la firma del menor y con la huella dígito-pulgar derecha del mismo, quien la ratificará en la presencia judicial.
+563.- (DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 564.- La nulidad del matrimonio se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
 
@@ -4073,9 +4071,11 @@ Cuando el convenio no fuere susceptible de aprobación, no podrá decretarse la 
 
 577.- El divorcio necesario sólo puede ser demandado por el cónyuge que no haya dado causa a él. La acción de divorcio sólo podrá ejercitarse por los cónyuges.
 
-578.- Los cónyuges menores de edad necesitan de un tutor o de representante legítimo para litigar en asuntos de divorcio. La demanda será suscrita también con la firma del menor y con la huella dígito-pulgar derecha del mismo, quien la ratificará en la presencia judicial; pero no se exigirán estos requisitos cuando el cónyuge padezca enajenación mental.
+578.- (DEROGADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)
 
-Los cónyuges pueden hacerse representar por procuradores; pero el poder deberá ser especial y expreso.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+En asuntos de divorcio los cónyuges pueden hacerse representar por procuradores; pero el poder deberá ser especial y expreso.
 
 579.- El Ministerio Público tendrá intervención en los juicios de divorcio necesario; pero la facultad para rendir pruebas quedará limitada a ofrecer sólo las que sirvan para el mantenimiento del vínculo.
 
@@ -4207,9 +4207,7 @@ La resolución que se dicte no es apelable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
 
-###### Artículo 596.
-
-Para que se autorice la adopción, el que pretenda adoptar a alguna persona deberá acreditar:
+596.- Para que se autorice la adopción, el que pretenda adoptar a alguna persona deberá acreditar:
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -4217,7 +4215,9 @@ I.- Que es mayor de veinticinco años y que tiene, por lo menos diecisiete años
 
 II.- (DEROGADA, P.O. 3 DE OCTUBRE DE 2007)
 
-III.- Que existe común acuerdo entre marido y mujer para considerar al adoptado como hijo, en el caso de que la adopción se pida por personas que estén unidas en matrimonio, pudiendo hacerse aunque tengan descendientes;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
+
+III.- Que existe común acuerdo para considerar al adoptado como hijo, en el caso de que la adopción se pida por personas que estén unidas en matrimonio o concubinato, pudiendo hacerse aunque tengan descendientes;
 
 IV.- Que el adoptante o adoptantes tienen medios bastantes para promover a la subsistencia y educación del adoptado como de hijo propio, según las circunstancias de la persona que trata de adoptarse, y
 
@@ -4225,19 +4225,17 @@ IV.- Que el adoptante o adoptantes tienen medios bastantes para promover a la su
 
 V.- Que el adoptante o adoptantes acrediten que están en aptitud de adoptar.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-En la petición inicial deberá manifestarse el nombre y edad de la persona a quien se va adoptar, y si es menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido. Si el adoptado es menor o incapacitado y no está sujeto a patria potestad o tutela, se le proveerá de tutor especial para que lo represente. En la misma petición se deberán anexar las pruebas que cumplan los requisitos exigidos en el Código Familiar del Estado en relación a la adopción en esta entidad federativa y respecto de la adopción internacional, además de acreditarse las exigidas en el presente artículo.
+En la petición inicial deberá manifestarse si la adopción será plena o simple; el nombre y edad de la persona a quien se va adoptar, y si es menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido. Si el adoptado es menor o incapacitado y no está sujeto a patria potestad o tutela, se le proveerá de tutor especial para que lo represente. En la misma petición se deberán anexar las pruebas que cumplan los requisitos exigidos en el Código Familiar del Estado en relación a la adopción en esta entidad federativa y respecto de la adopción internacional, además de acreditarse las exigidas en el presente artículo.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 596 BIS.- Para tramitar la Adopción Internacional se acreditarán los requisitos para ser adoptante que señala el Código Familiar del Estado y los tratados internacionales en la materia.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-###### Artículo 597.
-
-Rendidas las justificaciones que se exigen en los artículos anteriores, y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 359 y 360 del Código Familiar del Estado, el juez resolverá lo que corresponda, dentro del tercer día siguiente al auto de radicación.
+597. Rendidas las justificaciones que se exigen en los artículos anteriores, y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 359, 360, 364 Bis y 364 Sexies del Código Familiar del Estado, el juez resolverá lo que corresponda, dentro del tercer día siguiente al auto de radicación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -4245,11 +4243,19 @@ Rendidas las justificaciones que se exigen en los artículos anteriores, y obten
 
 Si la revocación se pide por ingratitud del adoptado, el juez mandará substanciar el procedimiento en juicio oral, entendiéndose con el adoptado si tuviere más de dieciocho años o con un tutor especial que se le nombre y además con el Ministerio Público. Para demostrar los hechos que constituyan la ingratitud son admisibles toda clase de pruebas.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-599.- La impugnación de la adopción o la revocación, en los casos de los artículos 357 y 365 fracción II del Código Familiar del Estado, se ventilarán en juicio oral.
+599. La impugnación de la adopción o la revocación, en los casos de los artículos 357 y 365 fracciones II y IV del Código Familiar del Estado, se ventilarán en juicio oral.
 
 600.- Cuando el adoptado sea menor de edad o incapacitado, los procedimientos para autorizar la adopción o para impugnarla o revocarla, se seguirán con el Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+600 Bis.- La adopción simple, podrá convertirse en plena a solicitud de los padres adoptivos, si se cumple con los requisitos y se realiza el procedimiento, previstos para ésta última.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+600 Ter.- Autorizada la conversión, el juez debe ordenar al Oficial del Registro Civil correspondiente que cancele el acta de adopción y elabore un acta de nacimiento, en los términos del artículo 59 del Código Familiar del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
@@ -4485,9 +4491,11 @@ La autorización otorgada en estos casos quedará sin efecto cuando los padres o
 
 637.- Las demandas de emancipación procederán en los casos previstos en el Capítulo Único, Título Sexto del Libro Segundo del Código Familiar del Estado.
 
-La emancipación por matrimonio del menor se produce de pleno derecho y sin necesidad de declaración judicial.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
 
-En los demás casos, la demanda de emancipación se tramitará oyendo al menor y a los padres o tutores en una audiencia en la que se recibirán las pruebas que presenten los interesados.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+La demanda de emancipación se tramitará oyendo al menor y a los padres o tutores en una audiencia en la que se recibirán las pruebas que presenten los interesados.
 
 La resolución no es apelable, y hecha la emancipación, no puede ser revocada.
 
@@ -5425,7 +5433,9 @@ IV.- Citará a los herederos y al Ministerio Público a una junta que se celebra
 
 I.- Los descendientes, ascendientes y cónyuges, mediante la presentación de los certificados del Registro Civil que acrediten la relación. Deben declarar además, bajo protesta de decir verdad, cuáles otros parientes del autor de la sucesión existen dentro de los mismos grados. La cónyuge, si no existen descendientes o ascendientes, debe declarar, además, si existen colaterales;
 
-II.- El adoptante o adoptado deben exhibir una copia del acta de adopción y hacer, además la declaración a que se refiere el artículo anterior;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
+
+II.- En el caso de adopción simple, el adoptante o adoptado deben exhibir una copia del acta de adopción y hacer, además la declaración a que se refiere la fracción anterior;
 
 III.- Los colaterales acreditarán su relación con el causante con las partidas del Registro Civil correspondiente y además con información testimonial que ofrezcan de que no existan ascendientes o descendientes o cónyuge del finado o que se encuentren en alguno de los casos de herencia concurrente a que se refiere el Código Civil, y
 
@@ -6320,3 +6330,19 @@ P.O. 13 DE DICIEMBRE DE 2014.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 656.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, CÓDIGO CIVIL Y CÓDIGO DE PROCEDIMIENTOS CIVILES, TODOS DEL ESTADO DE ZACATECAS".]
+
+PRIMERO. El presente decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Poder Ejecutivo dentro del término de noventa días naturales contados a partir del día siguiente al de la publicación del Presente Decreto, deberá armonizar con las disposiciones de éste, los reglamentos correspondientes.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 657.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR Y EL CÓDIGO DE PROCEDIMIENTOS CIVILES, AMBOS DEL ESTADO DE ZACATECAS".]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan las disposiciones del presente Decreto.
