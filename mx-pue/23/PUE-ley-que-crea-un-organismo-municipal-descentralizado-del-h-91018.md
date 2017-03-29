@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-un-organismo-municipal-descentralizado-del-h-91018
 country: "mx"
 rank: "ley"
 publication_date: "1973-08-21"
-last_updated: "2016-04-18"
+last_updated: "2017-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "PUE"
 
 LEY QUE CREA UN ORGANISMO MUNICIPAL DESCENTRALIZADO DEL H. AYUNTAMIENTO DE PUEBLA, BAJO LA DENOMINACIÓN "INDUSTRIAL DE ABASTOS PUEBLA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE PUEBLA DEL 18 DE ABRIL DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 21 de agosto de 1973.
 
@@ -43,7 +41,9 @@ D E C R E T O
 
 EL H. XLV CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-C O N S I D E R A N D O:..
+C O N S I D E R A N D O:
+
+[...]
 
 Que estando satisfechos los requisitos que establecen los Artículos 49 fracción I, 51 fracción I, 52, 59, 71 fracción VII de la Constitución Política del Estado y 76, 77 fracción IX, 83, 105 y 119 del Reglamento para el Gobierno Interior de este H. Congreso,
 
@@ -185,15 +185,21 @@ VII. Un Regidor miembro de la Comisión de Servicios Públicos, quien fungirá c
 
 Los miembros del Consejo de Administración, en su carácter de servidores públicos conservarán y ejercerán las facultades que les confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, la Ley Orgánica Municipal, el Código Fiscal y Presupuestario para el Municipio de Puebla, el Código Reglamentario para el Municipio de Puebla y demás ordenamientos y disposiciones legales, independientemente de las establecidas en el presente Decreto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO OCTAVO.
 
-En ausencia del Presidente del Consejo de Administración, las sesiones serán presididas por el Secretario Ejecutivo y en ausencia de ambos por el Síndico Municipal; para efectos de la votación, el Presidente suplente ejercerá su derecho, a un voto que será conforme a las funciones que en ese momento desempeñe y hará uso del voto de calidad conferido al Presidente del Consejo, únicamente para el caso de empate de la votación.
+En ausencia del Presidente del Consejo de Administración, las sesiones serán presididas por un suplente previamente designado mediante oficio; y en ausencia de ambos por el Secretario Ejecutivo; para efectos de la votación, el Presidente suplente ejercerá su derecho a voto que será conforme a las funciones que en ese momento desempeñe y hará uso del voto de calidad conferido al Presidente del Consejo, únicamente para el caso de empate de la votación.
 
-Las ausencias de los vocales serán cubiertas por un suplente previamente designado, y tendrá las mismas facultades que el propietario, incluyendo el derecho a voto.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+La ausencia del Secretario Ejecutivo y de los vocales será cubierta por un suplente previamente designado mediante oficio, y tendrá las mismas facultades que el propietario, incluyendo el derecho a voto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Los cargos en el Consejo de Administración, serán honoríficos, por lo tanto no recibirán retribución por esta actividad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Para el mejor cumplimiento de sus funciones el Consejo de Administración, podrá mediante acuerdo invitar a las sesiones a representantes de dependencias y entidades de los tres niveles de gobierno, así como organizaciones sociales y privadas, cuyas actividades o intereses coincidan con los del Organismo, sin que su participación implique que formen parte del mismo; cuando dichos representantes convocados asistan a sesiones, tendrán derecho a voz pero no a voto.
 
@@ -516,3 +522,11 @@ P.O. 22 DE MARZO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Queda sin efecto cualquier acto o disposición que se oponga el (sic) presente Decreto.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO OCTAVO, DEL DECRETO DE LEY QUE CREA EL ORGANISMO MUNICIPAL DESCENTRALIZADO DENOMINADO “INDUSTRIAL DE ABASTOS DE PUEBLA””.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Queda sin efecto cualquier acto o disposición que se oponga al presente Decreto.
