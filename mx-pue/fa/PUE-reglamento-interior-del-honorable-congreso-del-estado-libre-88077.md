@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2016-08-12"
+last_updated: "2017-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -37,11 +37,11 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 102, 115, 119, 123 fracción I, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 23 y 24 fracción I del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide el siguiente:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO SIN NÚMERO, MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA Y AL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO EN EL P.O. 15 DE ABRIL DE 2013, LAS REFERENCIAS QUE A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO SE HAGAN EN TODO INSTRUMENTO LEGAL, JURÍDICO O ADMINISTRATIVO Y NORMA EN SENTIDO FORMAL O MATERIAL A LA COMISIÓN GENERAL INSPECTORA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO O A SU TITULAR, SE ENTENDERÁN HECHAS A LA COMISIÓN GENERAL INSPECTORA DE LA AUDITORÍA SUPERIOR DEL ESTADO O A SU RESPECTIVO TITULAR.</small>
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
@@ -805,33 +805,69 @@ e) Iniciativas que soliciten la inscripción de nombres, leyendas o apotegmas en
 
 f) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
 
-XXXIV.- Participación Ciudadana:
+XXXIV.- PARTICIPACIÓN CIUDADANA Y COMBATE A LA CORRUPCIÓN:
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2014)</small>
 
 a) Adecuar el marco jurídico local en materia de participación ciudadana, con la finalidad de realizar las modificaciones y armonizaciones necesarias para implementar los instrumentos correspondientes en la materia;
 
-b) Proponer e impulsar las actividades legislativas que permitan incrementar la participación ciudadana;
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-c) Promover y garantizar la participación ciudadana en la toma de decisiones; y
+b) Proponer e impulsar las actividades legislativas que permitan incrementar la participación ciudadana y combate a la corrupción;
 
-d) Las demás que le confiera este Reglamento, las leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+c) Participar activamente en el análisis, formulación y discusión para la instrumentación del marco legal, referentes a la prevención y combate a la corrupción, en los diferentes órdenes de gobierno y en la sociedad de nuestro Estado, así como contribuir a construir las vías institucionales que permitan combatir la corrupción e incrementar la participación ciudadana en las diferentes instancias del Estado;
 
-XXXV.- DE LA FAMILIA Y SU DESARROLLO INTEGRAL:
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-a) Revisar el marco normativo en el que se establece todo lo relacionado a la familia, a su protección y desarrollo, así como el de asistencia social y desarrollo humano;
+d) Coadyuvar, participar y coordinar las tareas legislativas de su competencia en el proceso legislativo, a fin de lograr la integración de un marco normativo que permita prevenir y combatir la corrupción en nuestro Estado, así como promover la participación de la sociedad civil y la ciudadanía en general, en las distintas actividades gubernamentales;
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+e) Promover la vinculación entre las autoridades y la sociedad, con el fin de lograr gobiernos, que rindan cuentas y colaborar en la prevención y combate a la corrupción; y
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+f) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
+
+XXXV.- DE LA FAMILIA Y LOS DERECHOS DE LA NIÑEZ:
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+a) Revisar el marco normativo con todo lo relacionado a la familia, a su protección y desarrollo integral y social; así como lo correspondiente a los derechos de la niñez, su asistencia social y desarrollo humano;
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 b) Revisar la normatividad, política, planes y programas de desarrollo humano y asistencia social a nivel nacional;
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 c) Atender las políticas públicas que vean a la familia poblana de manera integral, a través de la colaboración e interrelación del Poder Legislativo con los sistemas estatal y municipales de desarrollo integral de la familia en el Estado de Puebla;
 
-d) Organizar foros, mesas de trabajo, estudios y demás acciones de investigación que estén encaminadas a fortalecer y sobretodo garantizar que aterricen en la realidad social, los derechos de la familia;
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-e) Dar seguimiento de manera integral, a las políticas públicas nacionales, estatales y municipales que impactan en el territorio del Estado de Puebla en temas relacionados con la familia, siempre desde una posición de respeto a los valores de: libertad, equidad, igualdad de derechos y deberes, solidaridad y respeto recíproco, y
+d) Organizar foros, mesas de trabajo, estudios y demás actividades de investigación que estén encaminadas a fortalecer y sobretodo garantizar que aterricen en la realidad social, los derechos de la familia, así como de los niños, niñas y adolescentes;
 
-f) Las demás que se deriven de su denominación de atender el derecho de familia.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+e) Dar seguimiento de manera integral, a las políticas públicas nacionales, estatales y municipales que impactan en el territorio del Estado de Puebla en temas relacionados con la familia y la niñez, siempre desde una posición de respeto a los valores de: libertad, equidad, igualdad de derechos y deberes, solidaridad y respeto recíproco;
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+f) Promover y realizar acciones encaminadas al respeto de los derechos humanos de las niñas, niños y adolescentes a través de la vinculación interinstitucional y la sociedad civil;
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+g) Armonizar la legislación estatal atendiendo los principales retos y problemática de la niñez; y
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+h) Las demás que se deriven de su denominación de atender el derecho de familia, así como los derechos de la niñez.
 
 #### SECCIÓN SEGUNDA. DE LAS COMISIONES TRANSITORIAS
 
@@ -887,17 +923,37 @@ f) Publicar revistas o ediciones periódicas con los Decretos y Acuerdos aprobad
 
 g) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-III.- GESTORÍA Y QUEJAS:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
 
-a) Atender las solicitudes y quejas de las personas que de manera pacífica, respetuosa y ordenada se dirijan al Congreso del Estado, turnándolas a las Dependencias, Entidades o Comisiones Generales de acuerdo al ámbito de su competencia;
+III.- ATENCIÓN CIUDADANA:
 
-b) Dar seguimiento a los asuntos que el Congreso del Estado, por medio de este Comité, remita a las diferentes dependencias y entidades a que hace referencia el inciso anterior;
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-c) Prestar atención a los asuntos planteados al Congreso del Estado que no correspondan en particular a otro órgano del mismo;
+a) Atender y tramitar las solicitudes, peticiones y quejas, individuales o colectivas referentes a un problema concreto y particular, que de manera pacífica, respetuosa y ordenada se dirijan al Congreso del Estado, turnándolas a las Dependencias y Entidades Paraestatales, de acuerdo al ámbito de su competencia;
 
-d) Definir las políticas y lineamientos para la mejor atención ciudadana y eficaz gestoría; y
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-e) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+b) Dar seguimiento a los asuntos que el Congreso del Estado, por medio de este Comité, remita a las diferentes Dependencias y Entidades Paraestatales a que hace referencia el inciso anterior;
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+c) Proponer al Órgano de Gobierno las políticas y lineamientos para la eficaz atención ciudadana y gestoría;
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+d) Realizar jornadas de atención y gestión ciudadana, por sí o conjuntamente con la administración pública local, para otorgar orientación e información respecto de los distintos trámites y servicios de los asuntos de mayor interés ciudadano;
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+e) Instalar módulos de atención, orientación y quejas ciudadanas en lugares en donde se consideren estratégicos, que estarán bajo la dirección del Comité, conforme a la Normatividad del Ejercicio del Presupuesto del Congreso del Estado;
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+f) Proponer la celebración de convenios entre el Congreso del Estado y la administración pública local, para la instalación de los módulos a que se refiere la fracción anterior, y
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+g) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2014)</small>
 
@@ -2879,9 +2935,13 @@ IX.- Coordinarse con las áreas de los tres niveles de gobierno que promueven la
 
 X.- Brindar asesoría y orientación profesional a personas, grupos y organizaciones sociales, canalizadas por los Diputados;
 
-XI.- Coadyuvar en la atención y seguimiento de los asuntos que le sean turnados por el Comité de Gestoría y Quejas; y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
 
-XII.- Las demás que le asigne la Mesa Directiva, el Comité de Gestoría y Quejas o el Secretario General.
+XI.- Coadyuvar en la atención y seguimiento de los asuntos que le sean turnados por el Comité de Atención Ciudadana, y
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
+
+XII.- Las demás que le asigne la Mesa Directiva, el Comité de Atención Ciudadana o el Secretario General.
 
 > <small>(ADICIONADO, P.O. 29 DE MARZO DE 2016)</small>
 
@@ -3162,5 +3222,43 @@ SEGUNDO. La Comisión General de Transportes y Movilidad estará conformada por 
 TERCERO. Los asuntos en trámite presentados o turnados a la Comisión General de Transportes, pasaran a ser competencia de la Comisión General de Transportes y Movilidad.
 
 CUARTO. Todos los actos suscritos por la Comisión General de Transportes y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión General de Transportes y Movilidad.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA FRACCIÓN XXXIV Y LOS INCISOS B), C) Y D), Y ADICIONA LOS INCISOS E) Y F), AL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Comisión de Participación Ciudadana y Combate a la Corrupción estará conformada por los mismos integrantes de la Comisión de Participación Ciudadana que cambia de denominación.
+
+TERCERO. Los asuntos en trámite presentados o turnados a la Comisión de Participación Ciudadana, pasarán a ser competencia de la Comisión de Participación Ciudadana y Combate a la Corrupción.
+
+CUARTO. Todos los actos suscritos por la Comisión de Participación Ciudadana y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión de Participación Ciudadana y Combate a la Corrupción.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXXV DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA FRACCIÓN XXXV Y LOS INCISOS A), D), E) Y F), Y ADICIONA LOS INCISOS G) Y H), TODOS DEL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Los asuntos en trámite que se encuentren turnados a la Comisión de la Familia y su Desarrollo Integral con motivo de la entrada en vigor de este Decreto deberán pasar a la Comisión de la Familia y los Derechos de la Niñez.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 133 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA FRACCIÓN III Y SUS INCISOS A), B), C), D) Y E) DEL ARTÍCULO 51 Y LAS FRACCIONES XI Y XII DEL 230 TER; Y ADICIONA LOS INCISOS F) Y G), A LA FRACCIÓN III DEL ARTÍCULO 51, TODOS DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Comité de Atención Ciudadana estará conformado por los mismos integrantes del Comité de Gestoría y Quejas que cambia de denominación.
+
+TERCERO. Los asuntos en trámite presentados o turnados al Comité de Gestoría y Quejas pasarán a ser competencia del Comité de Atención Ciudadana.
+
+CUARTO. Todos los actos suscritos por el Comité de Gestoría y Quejas y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos al Comité de Atención Ciudadana.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
