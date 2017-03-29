@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-digital-del-estado-de-888
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-07"
-last_updated: "2014-02-10"
+last_updated: "2017-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 29 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 7 de agosto de 2012.
 
 EL CONSEJO DIRECTIVO DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 9 FRACCIÓN V DEL DECRETO DEL EJECUTIVO DEL ESTADO DE MÉXICO, POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 En razón de lo anterior, se expide el siguiente:
 
@@ -423,10 +427,24 @@ Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 10 DE FEBRERO DE 2014.
 
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Universidad Digital del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 07 de agosto de 2012.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+QUINTO.- Las autoridades administrativas procederán a hacer explícita la igualdad de género cuando se refiere a personas y a órganos de la Institución.
