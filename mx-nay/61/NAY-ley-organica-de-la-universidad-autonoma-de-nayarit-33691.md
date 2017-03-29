@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-universidad-autonoma-de-nayarit-33691"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-23"
-last_updated: "2017-02-11"
+last_updated: "2017-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 23 de agosto de 2003.
 
@@ -215,7 +215,9 @@ VII. Aprobar y vigilar la correcta administración y aplicación del presupuesto
 
 VIII. Expedir los nombramientos que le correspondan conforme a la legislación universitaria, y recibir la protesta de ley;
 
-IX. (DEROGADA, P.O. 11 DE FEBRERO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2017)</small>
+
+IX. Designar al Titular del Órgano Interno de Control de la Universidad Autónoma de Nayarit, y de acuerdo con esta Ley, el Estatuto de Gobierno y las demás leyes aplicables, reglamentar su integración y funcionamiento;
 
 X. Aprobar la adquisición y destino de los bienes de la Universidad, en los términos de las leyes y normatividad que resulten aplicables;
 
@@ -313,9 +315,9 @@ f) Los demás requisitos que se establecen en esta ley y el Estatuto de Gobierno
 
 Las facultades y obligaciones del Rector de la Universidad, se establecerán en el Estatuto de Gobierno, las cuales de manera enunciativa y no limitativa, comprenderán:
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
 
-I. En lo administrativo: las relativas a nombramientos y remociones de los titulares de las dependencias y demás funcionarios universitarios cuya competencia no esté reservada al Consejo General Universitario o al H. Congreso del Estado de Nayarit, y las de dirigir y supervisar el funcionamiento de la administración general de la Universidad para que ésta cumpla con su objeto y principios;
+I. En lo administrativo: las relativas a nombramientos y remociones de los titulares de las dependencias y demás funcionarios universitarios cuya competencia no esté reservada al Consejo General Universitario y las de dirigir y supervisar el funcionamiento de la administración general de la Universidad para que ésta cumpla con su objeto y principios;
 
 II. En lo académico: las relacionadas con la organización, coordinación y vigilancia de las funciones académicas sustantivas, de conformidad con el sistema de planeación y los programas respectivos;
 
@@ -537,11 +539,63 @@ La Universidad Autónoma de Nayarit contará con un Órgano Interno de Control a
 
 En su desempeño el Órgano Interno de Control se sujetará a los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
 
-El titular del Órgano Interno de Control de la Universidad Autónoma de Nayarit será designado por el H. Congreso del Estado de Nayarit, en la forma y términos que determine la Ley Orgánica del Poder Legislativo del Estado de Nayarit. Durará seis años en el cargo y podrá ser reelecto por una sola vez.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE MARZO DE 2017)</small>
 
-El Órgano Interno de Control contará con los recursos presupuestales necesarios para el debido cumplimiento de sus atribuciones.
+El titular del Órgano Interno de Control será designado mediante la votación por cédula de las dos terceras partes de los integrantes del Consejo General Universitario, conforme a la normatividad universitaria, previa convocatoria pública abierta que emita para el registro de aspirantes. El Consejo deberá designar una Comisión especial para llevar a cabo el proceso de designación, la cual tendrá las atribuciones que determine la regulación interna o por disposición expresa del Consejo General Universitario, en este orden. Para desahogar el procedimiento de designación se estará a lo siguiente:
 
-Será un órgano administrativo de la Universidad Autónoma de Nayarit y mantendrá la coordinación técnica para el cumplimiento de sus funciones con el Sistema Local Anticorrupción.
+I. La Convocatoria que emita el Consejo General Universitario deberá ser aprobada por la mayoría de sus integrantes. La convocatoria regulará el proceso de designación conforme a esta Ley, la normatividad interna de la Universidad Autónoma de Nayarit y las determinaciones del Consejo General Universitario; deberá ser difundida en cuando menos dos periódicos de mayor circulación en el estado, así como en la página oficial de la Universidad Autónoma de Nayarit por un período no menor a quince días naturales. Lo no previsto en las leyes correspondientes o en la convocatoria lo resolverán los órganos competentes o en su defecto el Consejo General Universitario, previo proyecto de la Comisión especial;
+
+II. Una vez recibidos los registros de aspirantes se deberán realizar las entrevistas respectivas, a cada uno de ellos, a fin de que los consejeros universitarios escuchen las exposiciones de motivos y propuestas para ocupar la Titularidad del Órgano Interno de Control de la Universidad Autónoma de Nayarit;
+
+III. Una vez desahogado el punto anterior el Consejo General Universitario convocará a sus integrantes a realizar una única sesión para designar al Titular del Órgano Interno de Control de la Universidad Autónoma de Nayarit, debiendo ser por el voto de las dos terceras partes de sus integrantes;
+
+IV. En caso de que en la primera ronda de votación no se alcancen los votos necesarios para la designación, se hará una segunda ronda de votación considerando únicamente a los tres candidatos que más votos hubieren obtenido;
+
+V. En el supuesto de no haber alcanzado las dos terceras partes de la votación en la segunda ronda, se hará una tercera ronda de votación, tomando en consideración únicamente a los dos aspirantes que obtengan la mayoría de votos, y
+
+VI. De no lograrse la votación de las dos terceras partes de los integrantes del Consejo General Universitario para designar a alguno de los dos aspirantes finalistas, será designado Titular del Órgano Interno de Control, el aspirante que hubiere obtenido la mayoría de los votos. El acta de resultados deberá hacer constar el escrutinio y cómputo de cada votación.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+El titular del Órgano Interno de Control de la Universidad Autónoma de Nayarit durará en su cargo un periodo de seis años, sin derecho a reelección bajo ningún supuesto.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE MARZO DE 2017)</small>
+
+Para ocupar la titularidad del Órgano Interno de Control de la Universidad Autónoma de Nayarit se requiere:
+
+I. Ser ciudadano mexicano, en pleno goce de sus derechos políticos y civiles, además de contar con residencia en el Estado no menor de tres años anteriores a la fecha de la designación;
+
+II. Tener cuando menos treinta y cinco años cumplidos al día del nombramiento;
+
+III. Tener título profesional en las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución facultada para ello, y con la antigüedad mínima de cinco años;
+
+IV. Contar con experiencia profesional o conocimientos de cuando menos cinco años en el control, manejo y fiscalización de recursos;
+
+V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de la libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza, enriquecimiento ilícito o (sic) cometido contra la administración pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
+
+VI. No ser o haber sido dirigente de partido político o asociación política a nivel nacional, estatal o municipal;
+
+VII. No ser o haber sido candidato o ejercido cargo de elección popular seis años antes de la designación;
+
+VIII. No ser ministro de ningún culto religioso, en los cinco años anteriores a su designación;
+
+IX. No ser o haber sido dirigente de sindicato o asociación estudiantil de la Universidad Autónoma de Nayarit;
+
+X. No haber ocupado áreas de dirección administrativa o financiera de la Universidad Autónoma de Nayarit seis años antes de la designación;
+
+XI. No tener o haber tenido cualquier tipo de relación laboral o administrativa durante los seis años previos a la designación con la Universidad Autónoma de Nayarit o con la administración pública estatal o municipal;
+
+XII. No ser o haber sido consejero del Consejo General Universitario seis años antes de la designación, y
+
+XIII. No ser o haber sido Director de alguna Unidad Académica de la Universidad Autónoma de Nayarit seis años antes de la designación.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+La persona que sea designada Titular del Órgano Interno de Control, no podrá tener relación laboral con la Universidad Autónoma de Nayarit durante los dos años posteriores al término de su cargo.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+
+El Órgano Interno de Control contará con los recursos presupuestales necesarios para el debido cumplimiento de sus atribuciones. Será un órgano administrativo de la Universidad Autónoma de Nayarit y mantendrá una relación de coordinación técnica para el cumplimiento de sus funciones con el Sistema Local Anticorrupción.
 
 > <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
 
@@ -549,7 +603,9 @@ Será un órgano administrativo de la Universidad Autónoma de Nayarit y mantend
 
 Además de las atribuciones señaladas con anterioridad, el Órgano Interno de Control será competente para:
 
-I. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Local Anticorrupción;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
+
+I. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades en términos de las leyes de la materia, los establecidos por el Sistema Local Anticorrupción y las demás leyes aplicables;
 
 II. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales, según corresponda en el ámbito de su competencia, y
 
@@ -561,11 +617,15 @@ III. Presentar denuncias por hechos que las leyes señalen como delitos de corru
 
 Para prevenir la comisión de faltas administrativas y hechos de corrupción, el Órgano Interno de Control, realizará las siguientes acciones:
 
-I. Previo diagnóstico que al efecto realice, podrá implementar acciones para orientar el criterio que en situaciones específicas deberán observar los Servidores Universitarios de la Universidad Autónoma de Nayarit en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Local Anticorrupción;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
+
+I. Previo diagnóstico que al efecto realice, podrá proponer la implementación de acciones para orientar el criterio que en situaciones específicas deberán observar los Servidores Universitarios de la Universidad Autónoma de Nayarit en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Local Anticorrupción;
 
 II. Corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa;
 
-III. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2017)</small>
+
+III. Proponer los procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
 
 IV. Efectuar visitas a los demás organismos internos de la Universidad para solicitar la exhibición de los libros y documentos indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
 
@@ -575,11 +635,11 @@ VI. Recibir y resguardar las declaraciones patrimoniales que deban presentar los
 
 VII. Las demás que establezcan las leyes de la materia y los lineamientos emitidos por el Sistema Local Anticorrupción.
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### Artículo 40.
 
-El Órgano Interno de Control deberá valorar las recomendaciones que haga el Comité Coordinador del Sistema Local Anticorrupción a las autoridades, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno y con ello la prevención de faltas administrativas y hechos de corrupción. Asimismo, deberá informar a dicho Comité de la atención que se dé a éstas y, en su caso, sus avances y resultados.
+El Órgano Interno de Control deberá valorar las recomendaciones que haga el Comité Coordinador del Sistema Local Anticorrupción a las autoridades, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno y con ello la prevención de faltas administrativas y hechos de corrupción.
 
 > <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
 
@@ -629,12 +689,26 @@ Artículo único.- El presente Decreto entrará en vigor al día siguiente de su
 
 P.O. 11 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS A LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA, DE NAYARIT”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS A LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA, DE NAYARIT".]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, con las salvedades previstas en los transitorios siguientes.
 
-SEGUNDO. A partir de la entrada en vigor del presente decreto el H. Congreso del Estado iniciará el procedimiento respectivo para la designación del titular del Órgano Interno de Control.
+SEGUNDO. (DEROGADO, P.O. 29 DE MARZO DE 2017)
 
 TERCERO. En un plazo que no deberá exceder del día 18 de julio del presente año, la Universidad Autónoma de Nayarit deberá adecuar la legislación universitaria de acuerdo al presente decreto.
 
 CUARTO. Se deberán realizar las adecuaciones presupuestarias a efecto de lograr el debido funcionamiento del Órgano Interno de Control creado en el presente decreto.
+
+P.O. 29 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA, DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- La Universidad Autónoma de Nayarit deberá realizar las modificaciones normativas a que haya lugar a más tardar el primero de junio del dos mil diecisiete.
+
+TERCERO.- La designación del titular del Órgano Interno de Control de la Universidad Autónoma de Nayarit deberá realizarse a más tardar el día primero de junio del año dos mil diecisiete.
+
+CUARTO.- Se deroga el transitorio segundo del decreto por el que se reforman, adicionan y derogan diversos artículos de la Ley Orgánica de la Universidad Autónoma de Nayarit, publicado con fecha 11 de febrero del 2017. Se declara sin efectos la convocatoria y el proceso de designación de titular del Órgano Interno de Control realizado por el Congreso del Estado de Nayarit, exclusivamente en lo que refiere a la Universidad Autónoma de Nayarit.
+
+QUINTO.- Para su conocimiento y efectos conducentes, notifíquese el presente decreto al titular del Poder Ejecutivo del Estado de Nayarit, al titular de la Auditoría Superior del Estado de Nayarit y al Rector de la Universidad Autónoma de Nayarit.
