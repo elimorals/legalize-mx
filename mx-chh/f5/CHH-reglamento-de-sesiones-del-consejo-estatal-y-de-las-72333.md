@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-sesiones-del-consejo-estatal-y-de-las-72333"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-19"
-last_updated: "2016-01-02"
+last_updated: "2017-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72333&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO DE SESIONES DEL CONSEJO ESTATAL Y DE LAS ASAMBLEAS MUNICIPALES DEL INSTITUTO ESTATAL ELECTORAL DE CHIHUAHUA (ANTES: REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y DE LAS ASAMBLEAS MUNICIPALES DEL INSTITUTO ESTATAL ELECTORAL, ANTES REGLAMENTO DE SESIONES DE LA ASAMBLEA GENERAL Y ASAMBLEAS MUNICIPALES DEL INSTITUTO ESTATAL ELECTORAL)
 
+> <small>[N. DE E. EL ACUERDO No. IEE/CE20/2017, PUBLICADO EN EL FOLLETO ANEXO AL NÚMERO 25 DEL P.O. DE 29 DE MARZO DE 2017, MODIFICÓ DE FORMA INTEGRAL EL CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+
 REGLAMENTO DE SESIONES DEL CONSEJO ESTATAL Y DE LAS ASAMBLEAS MUNICIPALES DEL INSTITUTO ESTATAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 2009.
 
@@ -41,595 +43,617 @@ PRIMERO.- Se propone someter a consideración del Consejo General la aprobación
 
 REGLAMENTO DE SESIONES DEL CONSEJO ESTATAL Y DE LAS ASAMBLEAS MUNICIPALES DEL INSTITUTO ESTATAL ELECTORAL
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPÍTULO PRIMERO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-DISPOSICIONES GENERALES.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 1.
 
-El presente Reglamento tiene por objeto regular el funcionamiento y desarrollo de las sesiones del Consejo Estatal, las Asambleas Distritales y de las Asambleas Municipales del Instituto Estatal Electoral.
+El presente Reglamento tiene por objeto regular los actos preparatorios, funcionamiento y desarrollo de las sesiones del Consejo Estatal y de las Asambleas Municipales del Instituto Estatal Electoral.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 2.
 
-Para la interpretación y aplicación de las disposiciones generales de este Reglamento, se atenderá a lo establecido expresamente en la Ley General de Instituciones y Procedimientos Electorales, la Ley Electoral del Estado y las demás aplicables, a los criterios gramatical, sistemático y funcional, los principios rectores en materia electoral y a las prácticas que garanticen la libre expresión ordenada de los integrantes del Consejo y de las Asambleas, que permitan la eficiencia de los acuerdos que ellas (sic) tomen.
+Para la aplicación e interpretación de las disposiciones de este Reglamento, se atenderá a lo establecido expresamente en la Ley General de Instituciones y Procedimientos Electorales, la Ley Electoral del Estado de Chihuahua y demás ordenamientos aplicables; a los criterios gramatical, sistemático y funcional, los principios rectores en materia electoral y a las prácticas que garanticen la libre expresión ordenada de los integrantes del Consejo y de las Asambleas, que permitan el correcto desarrollo de las sesiones y la preparación de las mismas.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 3.
 
 Para los efectos del presente Reglamento, se entiende por:
 
-a) Ley: Ley Electoral del Estado de Chihuahua;
+a) Ley: Ley Electoral del Estado de Chihuahua.
 
-b) Reglamento: El Reglamento de Sesiones del Consejo Estatal y de las Asambleas Municipales;
+b) Reglamento: El Reglamento de Sesiones del Consejo Estatal y de las Asambleas Municipales del Instituto Estatal Electoral.
 
-c) Instituto: El Instituto Estatal Electoral;
+c) Instituto: El Instituto Estatal Electoral.
 
-d) Consejo: El Consejo Estatal del Instituto Estatal Electoral;
+d) Consejo: El Consejo Estatal del Instituto Estatal Electoral.
 
-e) Asamblea: Cada una de las sesenta y siete Asambleas Municipales;
+e) Asamblea: Las asambleas municipales del Instituto Estatal Electoral.
 
-f) Consejeros: Los Consejeros Electorales del Consejo Estatal o Asambleas Municipales del Instituto Estatal Electoral;
+f) Consejero Presidente: El Consejero (a) Presidente del Consejo Estatal o Consejero (a) Presidente de Asamblea Municipal.
 
-g) Secretario: El Secretario Ejecutivo del Consejo Estatal y el Secretario de cada una de las Asambleas Municipales.
+g) Consejeros: Las Consejeras y los Consejeros Electorales del Consejo Estatal o asambleas municipales del Instituto Estatal Electoral.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+h) Secretario: El Secretario Ejecutivo del Consejo Estatal y el Secretario de cada una de las Asambleas Municipales.
 
-### CAPÍTULO SEGUNDO
+i) Representantes: Las y los representantes de partidos políticos y candidatos independientes acreditados ante el Consejo o Asamblea.
 
-ATRIBUCIONES DE LOS CONSEJEROS PRESIDENTES, CONSEJEROS ELECTORALES Y SECRETARIOS DEL CONSEJO ESTATAL Y DE LAS ASAMBLEAS MUNICIPALES.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+### CAPÍTULO SEGUNDO. ATRIBUCIONES DEL CONSEJERO PRESIDENTE, CONSEJEROS Y SECRETARIO
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 4.
 
-El Consejero Presidente del Consejo y de las Asambleas, dentro del ámbito de su competencia, además de presidirlas y participar en sus debates, tendrá las siguientes atribuciones:
+El Consejero Presidente tendrá las atribuciones siguientes:
 
-a) Convocar por escrito y con anticipación, tratándose de sesiones ordinarias, cuando menos 48 horas a los integrantes del Consejo o Asamblea a las sesiones, a efecto de que puedan incluir sus propuestas en el orden del día, tratándose de sesiones extraordinarias, cuando menos 24 horas a efecto de que asistan a la sesión.
+a) Convocar por escrito a los integrantes del Consejo o Asamblea a la celebración de sesión pública.
 
-b) Instalar y levantar la sesión y declarar los recesos que convengan;
+b) Instalar y dar por terminadas las sesiones, así como declarar los recesos que se aprueben.
 
-c) Conducir la sesión y tomar las medidas necesarias para su adecuado desarrollo;
+c) Conducir la sesión y tomar las medidas necesarias para su adecuado desarrollo.
 
-d) Conceder el uso de la palabra, en el orden que le sea solicitada;
+d) Conceder el uso de la palabra en el orden que le sea solicitada.
 
-e) Consultar a los integrantes del Consejo o Asamblea si los temas del orden del día han sido suficientemente discutidos, para hacer la declaratoria correspondiente;
+e) Consultar a los integrantes del Consejo o Asamblea si los temas del orden del día han sido suficientemente discutidos, para hacer la declaratoria correspondiente.
 
-f) Ordenar al Secretario que someta a votación los proyectos de acuerdos y/o resoluciones del Consejo o Asamblea;
+f) Solicitar se sometan a votación los proyectos de acuerdo y/o resoluciones.
 
-g) Mantener o llamar al orden;
+g) Mantener o llamar al orden, en su caso, haciendo uso de las medidas disciplinarias dispuestas en el artículo 21 de este Reglamento.
 
-h) Vigilar el cumplimiento de los acuerdos tomados por el Consejo o Asamblea;
+h) Emitir voto de calidad en caso de empate.
 
-i) Emitir voto de calidad en caso de empate, y
+i) Vigilar la correcta aplicación de este Reglamento.
 
-j) Vigilar la correcta aplicación de este Reglamento.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 5.
 
-Los Consejeros Electorales del Consejo y de las Asambleas dentro del ámbito de su competencia, tendrán las siguientes atribuciones:
+Los Consejeros, tendrán las atribuciones siguientes:
 
-a) Concurrir y ejercer su derecho de voz y voto en las sesiones del Consejo o Asamblea respectiva;
+a) Integrar el Pleno para resolver colegiadamente, los asuntos de su competencia.
 
-b) Integrar el Pleno del Consejo y Asamblea respectiva para resolver, colegiadamente, los asuntos de su competencia;
+b) Concurrir y ejercer su derecho de voz y voto en las sesiones.
 
-c) Formular proyectos y puntos de acuerdo y someterlos a consideración de las comisiones correspondientes para que por conducto del Secretario, se dé cuenta al Consejo o Asamblea con la oportunidad debida;
+c) Formular proyectos y puntos de acuerdo, por sí o mediante comisión, para que por conducto del Secretario, se dé cuenta al Consejo o Asamblea con la oportunidad debida.
 
-d) Integrar las comisiones y subcomisiones que determine el Consejo o Asamblea;
+d) Integrar las comisiones y subcomisiones que determinen el Consejo o Asamblea.
 
-e) Argumentar el sentido de su voto, por escrito presentado en la misma sesión o verbal, en éste último caso deberá constar en el contenido del acta;
+e) Argumentar el sentido de su voto, por escrito o verbal, en este último caso deberá constar en el contenido del acta.
 
-f) Las demás que la Ley y este Reglamento les otorga o que el Consejo o Asamblea les confiera.
+f) Solicitar al Consejero Presidente, se someta a votación la declaración de recesos en el desarrollo de las sesiones.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+g) Las demás que la Ley y los Reglamentos del Instituto les otorgan o que el Consejo o Asamblea les confiera.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 6.
 
-El Secretario del Consejo y las Asambleas dentro del ámbito de su competencia, tendrá las siguientes atribuciones:
+El Secretario, tendrá las atribuciones siguientes:
 
-a) Preparar el orden del día de las sesiones del Consejo o Asamblea; declarar el quórum legal necesario para sesionar; dar fe de lo actuado y acordado en las sesiones, y levantar el acta correspondiente.
+a) Preparar el orden del día de las sesiones, declarar el quórum legal necesario para sesionar; dar fe de lo actuado y acordado en las sesiones, y levantar el acta correspondiente.
 
-b) Notificar a los miembros del Consejo o Asamblea el proyecto del orden del día, a fin de que los integrantes de la misma soliciten por escrito la inclusión de los puntos que consideren deberán ser tratados. Lo anterior, con dos días de anticipación a la fecha probable de la sesión;
+b) Notificar a los miembros del Consejo o Asamblea el proyecto del orden del día.
 
-c) Reducir y circular con toda oportunidad entre los integrantes del Consejo o Asamblea, los documentos y anexos necesarios para la compresión y discusión de los asuntos contenidos en el orden del día;
+c) Circular con la debida oportunidad entre los integrantes del Consejo o Asamblea, los documentos y anexos necesarios para la compresión y discusión de los asuntos contenidos en el orden del día.
 
-d) Participar con derecho a voz en las sesiones;
+d) Participar con voz en las sesiones.
 
-e) Pasar lista de asistencia a los integrantes del Consejo o Asamblea y llevar el registro de la misma;
+e) Tomar lista de asistencia a los integrantes del Consejo o Asamblea y llevar el registro de la misma.
 
-f) Levantar el acta de las sesiones y someterla a la aprobación del Consejo o Asamblea;
+f) Levantar el acta de las sesiones y someterla a la aprobación del Consejo o Asamblea.
 
-g) Llevar el cómputo del tiempo de las intervenciones para los efectos previstos en el presente Reglamento;
+g) Tomar el tiempo de las intervenciones para los efectos previstos en el presente Reglamento.
 
-h) Solicitar la dispensa de la lectura de los documentos previamente distribuidos y que forman parte del orden del día;
+h) Solicitar la dispensa de la lectura de los documentos previamente circulados y que forman parte del orden del día.
 
-i) Dar cuenta al Consejo o Asamblea de los escritos presentados y de los proyectos de dictámenes de las comisiones y subcomisiones establecidas;
+i) Dar cuenta al Consejo o Asamblea de los escritos presentados y de los proyectos de dictámenes de las direcciones, comisiones y subcomisiones del Instituto.
 
-j) Tomar la votación de los integrantes del Consejo o Asamblea con derecho a voto y dar a conocer su resultado;
+j) Solicitar a los integrantes del Consejo, las aclaraciones o precisiones que estime necesarias para efecto de asegurar la integridad y exhaustividad de las actas de sesión correspondientes.
 
-k) Informar sobre el cumplimiento de los acuerdos tomados por el Consejo o Asamblea;
+k) Aclarar dentro del desarrollo de sesión sobre algún punto de los proyectos circulados, que haya sido modificado previamente a la celebración de la sesión o requiera de mayor precisión.
 
-l) Llevar el archivo y registro de las actas de sesiones;
+l) Tomar las votaciones correspondientes y dar a conocer su resultado.
 
-m) Las demás que la Ley y este Reglamento le otorgue o que el Consejero Presidente le encomiende.
+m) Informar sobre el cumplimiento de los acuerdos o resoluciones tomadas por el Consejo o Asamblea, cuando así le sea solicitado.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+n) Realizar el engrose de los acuerdos o resoluciones aprobadas por el Consejo, así como la inclusión, en su caso, de los votos particulares o aclaraciones presentadas en tiempo por los Consejeros.
 
-### CAPÍTULO TERCERO
+o) Llevar el archivo y registro de las actas de sesiones.
 
-ATRIBUCIONES DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS O COALICIONES.
+p) Las demás que la Ley y los Reglamentos del Instituto le otorgan.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+### CAPÍTULO TERCERO. ATRIBUCIONES DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS Y CANDIDATOS INDEPENDIENTES
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 7.
 
-Son atribuciones de los representantes de los partidos políticos o coaliciones las siguientes:
+Son atribuciones de los Representantes las siguientes:
 
-a).- Concurrir y ejercer su derecho de voz en las sesiones del Consejo o Asamblea respectiva;
+a) Integrar el Pleno del Consejo o Asamblea respectiva y participar en las sesiones.
 
-b).- Integrar el Pleno del Consejo o Asamblea respectiva para participar, opinar y proponer las resoluciones que colegiadamente junto con los demás integrantes del Consejo o Asamblea se traten y que sean asunto de su competencia;
+b) Concurrir y ejercer su derecho de voz en las sesiones del Consejo o Asamblea respectiva.
 
-c).- Integrar las comisiones y subcomisiones que determine el Consejo o Asamblea;
+c) Integrar las comisiones y subcomisiones que determine el Consejo o Asamblea.
 
-d).- Formular proyectos y puntos de acuerdo y someterlos a consideración de las comisiones en que se participe, para que por conducto del Consejero Electoral en la Comisión correspondiente, lo (sic) turne al Secretario y este de cuenta al Consejo o Asamblea con la oportunidad debida;
+d) Formular proyectos y puntos de acuerdo y someterlos a consideración de las comisiones en que se participe, para que en su caso, por conducto de la Comisión correspondiente, se turne al Secretario y este dé cuenta al Consejo o Asamblea con la oportunidad debida.
 
-e).- Enviar con dos días de anticipación las propuestas que se pida incluir a los puntos a tratar en el orden del día de las sesiones ordinarias;
+e) Presentar con la anticipación debida las propuestas que solicite incluir a los puntos a tratar en el orden del día de las sesiones ordinarias.
 
-f).- Alternarse si así lo consideran necesario durante las sesiones el representante propietario y el representante suplente; y
+f) Alternarse, si así lo consideran necesario durante las sesiones, el representante propietario y el representante suplente.
 
-g).- Las demás que la Ley y este Reglamento les otorgue o que el Consejo o la Asamblea les confiere.
+g) Las demás que la Ley y este Reglamento les otorgue o que el Consejo o la Asamblea les confiere.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPÍTULO CUARTO
+### CAPÍTULO CUARTO. TIPOS DE SESIONES Y SU DURACIÓN
 
-DE LOS TIPOS DE SESIONES Y SU DURACIÓN.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 8.
 
 Las sesiones del Consejo y las Asambleas son ordinarias, extraordinarias y especiales:
 
-a) Son ordinarias cuando estas deban de celebrarse de acuerdo a lo que establece la Ley.
+a) Son ordinarias las que deban celebrarse de acuerdo a lo que establece la Ley, con la periodicidad que disponga el Consejo o Asamblea.
 
-b) Son extraordinarias aquéllas sesiones convocadas por el Consejero Presidente cuando lo estime necesario, o a petición que por escrito le sea formulada por la mayoría de los Consejeros Electorales o de los representantes de los partidos políticos, conjunta o separadamente, para tratar asuntos determinados.
+b) Son extraordinarias las convocadas por el Consejero Presidente cuando lo estime necesario, o a petición que por escrito le sea formulada por la mayoría de los Consejeros o de los Representantes conjunta o separadamente, para tratar asuntos determinados.
 
-c) Son especiales las que se celebren con el único objeto de r3gistrar (sic) las candidaturas que procedan por tipo de elección.
+c) Son especiales las que se celebren con el objeto de resolver sobre el registro de candidatas y candidatos o realizar los cómputos municipales, distritales y estatal.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 9.
 
-Las sesiones no podrán exceder de cuatro horas de duración. No obstante el Consejo o Asamblea, por mayoría de votos y sin debate, podrá decidir prolongarlas hasta por tres horas más.
+Las sesiones durarán el tiempo necesario para el desahogo de los asuntos previstos en el orden del día
 
-Aquéllas sesiones que sean suspendidas por exceder el límite de tiempo establecido, serán continuadas el día siguiente a su suspensión.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 10.
 
-El Consejo o Asamblea podrá declararse en sesión permanente cuando así lo estime conveniente, para el tratamiento de asuntos que su propia naturaleza o por disposición de la Ley no deben interrumpirse.
+1. El Consejo o Asamblea podrá declararse en sesión permanente cuando así lo estime conveniente, para el tratamiento de asuntos que por su naturaleza o por disposición de la Ley no deban interrumpirse.
 
-Cuando el Consejo o Asamblea se haya declarado previamente en sesión permanente no operará el límite de tiempo a que se refiere el artículo anterior y terminará hasta agotar el orden del día.
+2. Durante estas sesiones no se discutirá ni dará cuenta de asunto que no esté comprendido en el orden del día aprobado. Si se presenta alguno con carácter de urgente, el Consejo o Asamblea decidirá por mayoría de votos si se discute en la sesión permanente o se reserva para tratarlo en sesión posterior.
 
-Durante estas sesiones no se discutirá ni dará cuenta de asunto que no esté comprendido dentro del orden del día aprobado. Si se presentase alguno con carácter de urgente, el Consejo o Asamblea decidirá por mayoría de votos si se discute en la sesión permanente o se reserva para tratarlo en sesión posterior.
-
-El Consejero Presidente previa consulta con los integrantes con derecho a voto del Consejo o Asamblea podrá declarar los recesos que sean necesarios durante las sesiones permanentes.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
-El Consejo y las Asambleas, en su primera sesión, establecerán la periodicidad de las sesiones ordinarias que habrán de celebrarse durante el proceso electoral.
+El Consejo y las Asambleas, en su sesión de instalación, establecerán la periodicidad de las sesiones ordinarias que habrán de celebrarse durante el proceso electoral.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPÍTULO QUINTO
+### CAPÍTULO QUINTO. CONVOCATORIA DE LAS SESIONES
 
-CONVOCATORIA DE LAS SESIONES.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 12.
 
-A toda sesión precederá una convocatoria la cual deberá contener lugar y fecha de expedición, la mención de ser ordinaria, extraordinaria o especial, así como lugar, fecha y hora de celebración.
+1. A toda sesión precederá convocatoria del Consejero Presidente, que deberá contener:
 
-A las convocatorias a sesión deberá acompañarse el proyecto de orden del día a que se sujetará la misma y los documentos necesarios para el conocimiento de los asuntos contenidos en él, los cuales, podrán ser entregados en medios electrónicos para facilitar su circulación, de igual forma, siempre y cuando exista acuerdo o autorización por parte de los integrantes del Consejo o Asamblea, la convocatoria podrá ser notificada a través de correo electrónico.
+a) Lugar y fecha de expedición.
 
-Tratándose de las resoluciones concernientes a medios de impugnación y procedimientos sancionadores administrativos, los proyectos de resolución sólo serán distribuidos a los miembros del Consejo o Asamblea con derecho a voto. Lo anterior, sin perjuicio de que los proyectos sean circulados en la sesión correspondiente al resto de los integrantes del Consejo o Asamblea.
+b) Tipo de sesión.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+c) Lugar, fecha y hora de celebración.
+
+2. A las convocatorias deberá acompañarse:
+
+a) El proyecto de orden del día.
+
+b) Los documentos necesarios para el conocimiento de los asuntos correspondientes, los cuales, podrán ser entregados en medios electrónicos, salvo el caso de sesión urgente, evento en el que los proyectos correspondientes serán circulados a los miembros del Consejo en la sesión respectiva.
+
+3. La convocatoria podrá ser notificada a través de correo electrónico a las cuentas oficiales o aquellas que para tal efecto hayan sido registradas por los representantes. Asimismo, podrán notificarse por la misma vía, los acuerdos y resoluciones emitidos por el Consejo o las Asambleas, a los Representantes que no obstante haber sido notificados o citados debidamente a la sesión, no se hayan presentado a la misma.
+
+4. La notificación antes descrita, se tendrá por realizada en la fecha y hora que arroje el servidor electrónico correspondiente, en el apartado de correo enviado.
+
+5. Tratándose de las resoluciones, los proyectos sólo serán distribuidos a los miembros del Consejo o Asamblea con derecho a voto. Lo anterior, sin perjuicio de que los proyectos sean circulados en la sesión correspondiente al resto de los integrantes del Consejo o Asamblea.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 13.
 
-Los Consejeros Electorales y representantes de partidos políticos, podrán solicitar al Consejo o Asamblea, la discusión en 'Asuntos Generales' de puntos que no requieran examen previo de documentos o que sean de obvia y urgente resolución.
+En las sesiones ordinarias, los Consejeros y Representantes podrán plantear al Consejo o Asamblea, la discusión de Asuntos Generales para su respuesta en la misma sesión. En caso de que el tema requiera examen previo de documentos o mayor análisis, se tomará nota y agendará para sesión posterior, debiendo acordar lo conducente a la temporalidad para la atención del asunto.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
-En las sesiones extraordinarias, solamente podrán ser tratados aquéllos asuntos para las que fueron convocadas.
+1. En las sesiones extraordinarias solo podrán ser tratados aquéllos asuntos para las que fueron convocadas.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+2. No se considerará como asunto no listado, aquellos temas que guarden relación directa con alguno de los proyectos del orden del día, y que en el desarrollo de la sesión se solicite sea agregado a la resolución o acuerdo respectivo, por alguno de los integrantes del Consejo, previa votación del punto en lo particular.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 15.
 
-Las (sic) convocatoria deberá constar por escrito y ser notificada a los integrantes del Consejo o Asamblea:
+La convocatoria deberá constar por escrito y ser notificada a los integrantes del Consejo o Asamblea, conforme a lo siguiente:
 
-1. Tratándose de sesiones ordinarias, cuando menos con cuarenta y ocho horas de anticipación a la hora programada para su celebración.
+a) Las sesiones ordinarias, cuando menos con cuarenta y ocho horas de anticipación a la hora programada para su celebración.
 
-2. Tratándose de sesiones extraordinarias, cuando menos veinticuatro horas de anticipación a la hora programada para su celebración.
+b) Las sesiones extraordinarias, cuando menos veinticuatro horas antes de la programada para su celebración.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 16.
 
-En caso de urgencia no será necesaria convocatoria escrita cuando se encuentren presentes en el mismo local todos los integrantes del Consejo o Asamblea, en tal supuesto podrán sesionar válidamente.
+1. En caso de urgencia no será necesaria convocatoria escrita, cuando se encuentren presentes durante el desarrollo de una sesión la mayoría de los integrantes del Consejo o Asamblea, o bien, podrá convocarse por escrito sin necesidad de observar la anticipación que señala este reglamento, cuando por disposición legal o requerimiento de autoridad, hubiere que dictar algún acuerdo o resolución dentro de un plazo perentorio. En este caso, habrá de justificarse en la convocatoria el supuesto que corresponda y resultará aplicable lo establecido en el ARTÍCULO 12, numeral 2, inciso b), de este Reglamento.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPÍTULO SEXTO
+### CAPÍTULO SEXTO. ORDEN DEL DÍA
 
-DEL ORDEN DEL DÍA.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-Los asuntos a tratar en las sesiones se listarán en el orden del día, cuidando en lo posible la prelación siguiente;
+Los asuntos a tratar en las sesiones se listarán en el orden del día, cuidando en lo posible la prelación siguiente:
 
-a) Lista de Asistencia;
+a) Lista de Asistencia.
 
-b) Declaración formal del quórum;
+b) Declaración formal del quórum.
 
-c) Lectura del orden del día y aprobación o modificación en su caso;
+c) Lectura del orden del día y aprobación o modificación en su caso.
 
-d) Lectura del acta de la sesión anterior, para su aprobación en su caso;
+d) Lectura del acta de la sesión anterior, para su aprobación en su caso.
 
-e) Seguimiento de asuntos pendientes;
+e) Seguimiento de asuntos pendientes.
 
-f) Informes de Coordinaciones y Comisiones;
+f) Rendición de informes.
 
-g) Dictámenes de acuerdos, para su discusión y aprobación; y
+g) Proyectos de acuerdo.
 
-h) Asuntos Generales.
+h) Proyectos de resolución.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+i) Asuntos Generales, en caso de sesión ordinaria.
 
-### CAPÍTULO SÉPTIMO
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-DEL QUÓRUM LEGAL.
+### CAPÍTULO SÉPTIMO. QUÓRUM LEGAL
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 18.
 
-El quórum válido para que sesione el Consejo Estatal, es la mayoría de sus miembros con derecho a voto. En el caso de las Asambleas deberán estar presentes la mayoría de sus miembros, en ambas deberá estar presente el Consejero Presidente.
+El quórum válido para que sesione el Consejo o Asamblea, es la mayoría de sus miembros con derecho a voto, salvo los casos en que por Ley se requiera mayoría calificada. En todo caso deberá estar presente el Consejero Presidente.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 19.
 
-Si llegada la hora prevista para la sesión no se reúne el quórum, se dará un término de espera de treinta minutos. Si transcurrido dicho tiempo aún no se logra la integración del quórum se hará constar tal situación, celebrándose la sesión de acuerdo a la Ley, dentro de las veinticuatro horas siguientes a la programada en la convocatoria; debiendo transcurrir como mínimo un lapso de 8 horas y se sesionará con los Consejeros Electorales que se encuentren presentes, siendo sus acuerdos válidos y obligatorios.
+Si llegada la hora prevista para la sesión no se reúne el quórum, se esperará treinta minutos, con declaración del Consejero Presidente. Si transcurrido dicho tiempo aún no se logra la integración del quórum, se consultará si se mantiene la espera, si no se aprueba, se hará constar tal situación, debiéndose celebrar la sesión correspondiente dentro de las veinticuatro horas siguientes a la programada en la convocatoria, con un espacio mínimo de ocho horas.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPÍTULO OCTAVO
+### CAPÍTULO OCTAVO. INSTALACIÓN Y DESARROLLO DE LAS SESIONES
 
-DE LA INSTALACIÓN Y DEL DESARROLLO DE LAS SESIONES.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
-El día y hora fijados para la sesión se reunirán en la Sala de Sesiones o lugar correspondiente, los integrantes del Consejo o Asamblea, asistirá el personal necesario del Instituto, el Representante de la Vocalía Estatal del Registro Federal de Electores y, en su caso el personal del Instituto Nacional Electoral que sea necesario de conformidad a los temas a tratar en la sesión.
+1. Las sesiones se celebraran en el domicilio oficial del Consejo o Asamblea, salvo acuerdo previo del Consejero Presidente, en el que se justifique y anuncie el cambio de sede, por razones de seguridad o imposibilidad material para su adecuado desarrollo.
 
-El Consejero Presidente declarará instalada la misma previa toma de lista de asistencia y certificación del quórum por el Secretario.
+2. El día y hora fijados para la sesión se reunirán en la Sala de Sesiones o lugar correspondiente, los integrantes del Consejo o Asamblea, y, en su caso, el personal del Instituto Nacional Electoral, en calidad de invitado.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+3. Una vez certificada la existencia del quórum, el Consejero Presidente declarará instalada la sesión.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 21.
 
-Las sesiones del Consejo o Asamblea, serán públicas. El público asistente deberá permanecer en silencio y abstenerse de cualquier manifestación.
+1. Las sesiones del Consejo o Asamblea serán públicas. Durante el desarrollo de las sesiones, o previo a declarar su inicio, los integrantes y el público en general, se abstendrán de interrumpir o alterar el orden de los debates y discusiones de los puntos a tratar en el orden del día.
 
-El Consejero Presidente podrá ordenar la expulsión de aquellas personas que no sean integrantes del Consejo o Asamblea, cuando alteren el orden de la sesión. En tal supuesto se les invitará a abandonar la sala. En caso de que no atiendan esta petición podrá solicitarse el auxilio de la fuerza pública, previo acuerdo del Consejo o Asamblea.
+2. Cuando se altere el orden de la sesión, el Consejero Presidente podrá tomar cualquiera de las medidas siguientes:
 
-Durante el desarrollo de las sesiones, los integrantes y el público en general, deberán evitar, en todo momento la interrupción de los debates y discusiones de los puntos a tratar en el orden del día.
+a) Exhortar a mantener el orden.
 
-En todo momento el Consejero Presidente podrá tomar las medidas conducentes por las alteraciones al párrafo anterior.
+b) Conminar a abandonar el local.
 
-Las sesiones podrán suspenderse por grave alteración del orden en la sala, en tal caso se podrá mandar desalojar incluso con el uso de la fuerza pública, a efecto de continuar la sesión, o en su caso, suspenderla para reanudarse dentro de las veinticuatro horas siguientes.
+c) Solicitar el uso de la fuerza pública.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+d) Suspender la sesión por alteración grave.
+
+3. En caso de suspensión de la sesión, esta deberá reanudarse dentro de las siguientes veinticuatro horas, a menos que se apruebe un plazo mayor.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 22.
 
-Instalada la sesión, serán discutidos y, en su caso, votados los asuntos contenidos en el orden del día, salvo cuando en base a consideraciones fundadas, el Consejo o Asamblea acuerde posponer la discusión o votación de algún asunto en particular, sin que ello implique la contravención de disposiciones legales.
+El Consejo o Asamblea, podrá acordar posponer el estudio o discusión de alguno de los puntos del orden del día, siempre que exista razón que lo justifique y que con ello no se contravengan disposiciones legales.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-Al aprobarse el orden del día se dispensará la lectura de los documentos que hayan sido previamente circulados entre los integrantes del Consejo o Asamblea.
+1. Al aprobarse el orden del día se dispensará la lectura de los documentos que hayan sido previamente circulados entre los integrantes del Consejo o Asamblea.
 
-El Consejo o Asamblea podrá acordar, sin debate, la lectura total o parcial de cualquier documento.
+2. El Consejo o Asamblea podrá acordar, sin debate, la lectura total o parcial de cualquier documento.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+3. En caso de que en el orden del día se listen proyectos relacionados con temas similares, o que por su naturaleza exista algún vínculo asociativo o conexidad, se podrá dar cuenta conjunta de los mismos para ser votados en un solo acto, sin que tal circunstancia implique la emisión del voto en forma uniforme o la imposibilidad de los Consejeros para razonar su voto sobre alguno de los proyectos en particular.
+
+4. El Consejero Presidente podrá solicitar la aprobación de recesos, en los eventos en que considere necesario otorgar mayor tiempo para el análisis de algún proyecto o con el fin de poner a la vista de los integrantes del Consejo o Asamblea alguna constancia o actuación que obre en los archivos del instituto.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 24.
 
-Los integrantes del Consejo o Asamblea y cualquier persona presente con derecho a voz, sólo podrán hacer uso de la palabra con la autorización previa del Consejero Presidente y en el orden solicitado.
+1. Los integrantes del Consejo o Asamblea, sólo podrán hacer uso de la palabra con la autorización previa del Consejero Presidente y en el orden solicitado.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+2. Podrán además hacer uso de la palabra durante las sesiones, personal técnico o invitado, cuando se considere necesaria su intervención para la realización de aclaraciones o que se brinde asesoría sobre temas específicos respecto de algún punto del orden del día.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 25.
 
-En caso de que el Consejero Presidente se ausente momentáneamente de la mesa de deliberaciones, será suplido por el Consejero Electoral que él mismo designe.
+Cuando el Consejero Presidente se ausente de la sesión, será suplido por el Consejero que él mismo designe. En caso de que el Consejero Presidente no designe a su suplente temporal, el Secretario anunciará como tal al Consejero decano.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 26.
 
-En caso de ausencia o falta del Secretario, a la sesión se podrá llamar a su suplente de encontrarse presente, o en su caso, sus funciones serán realizadas por un miembro del Instituto designado por el Consejo o Asamblea.
+En caso de ausencia o falta del Secretario, será llamado a la sesión a su suplente, de no encontrarse éste presente, sus funciones serán realizadas por el Director Jurídico del Instituto, o en su caso, por quien designe el Consejero Presidente.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 27.
 
-Al iniciar la discusión de cada punto del orden del día, el Consejero Presidente abrirá una lista de oradores en la que se inscribirán todos los integrantes del Consejo o Asamblea que quieran hacer uso de la palabra para ese asunto en particular.
+1. Al iniciar la discusión de cada punto del orden del día, el Consejero Presidente abrirá una lista de oradores en la que se inscribirán todos los integrantes del Consejo o Asamblea que quieran hacer uso de la palabra durante una ronda de discusión.
 
-Los integrantes del Consejo o Asamblea podrán intervenir por una sola vez en esta ronda. Los oradores inscritos podrán hacer uso de la palabra hasta por quince minutos como máximo, salvo autorización previa del Consejo o Asamblea por un tiempo mayor.
+2. Los integrantes del Consejo o Asamblea podrán intervenir una vez en la ronda, siguiendo el orden en que se inscribieron hasta por ocho minutos como máximo.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 28.
 
-Después de haber intervenido todos los oradores que se inscribieron en la primera ronda, el Consejero Presidente preguntará a los integrantes del Consejo o Asamblea, si el punto está suficientemente discutido y en caso de no ser así, se realizará una segunda ronda de debates.
+1. Después de la intervención de todos los oradores que se inscribieron en la primera ronda, el Consejero Presidente consultará si el punto está suficientemente discutido, en cuyo caso, solicitará al Secretario que tome la votación o que continúe con el desahogo del orden del día.
 
-Bastará que un solo integrante del Consejo o Asamblea pida la palabra, para que la segunda ronda se lleve a cabo. En esta segunda ronda los oradores se inscribirán y participarán de acuerdo con las reglas fijadas para la primera ronda, pero sus intervenciones no podrán exceder de diez minutos.
+2. De no considerarse agotada la discusión, se abrirá una segunda ronda de debate en la que las intervenciones de los oradores no deberán exceder de cinco minutos cada una. De ser necesario, se abrirá una tercera y última ronda de debate, las intervenciones durante ésta no podrán exceder de tres minutos.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+3. Se aplicarán a la segunda y tercera rondas las mismas reglas que las correspondientes a la primera.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 29.
 
-El Secretario podrá hacer uso de la palabra en cualquiera de las dos rondas a efecto de aclarar o informar, así como para exponer elementos técnicos o documentales del punto en discusión.
+El Secretario podrá hacer uso de la palabra en cualquiera de las tres rondas, a efecto de aclarar o informar, así como para exponer elementos técnicos o documentales del punto en discusión.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 30.
 
 Durante el transcurso del debate, cualquier integrante del Consejo o Asamblea podrá pedir informes o aclaraciones sobre una cuestión a cualquiera de las personas presentes en la sesión con derecho a voz, mediante moción.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 31.
 
-En el curso de las deliberaciones los integrantes del Consejo o Asamblea y las personas presentes con derecho a voz, se abstendrán de entablar polémicas o debates en forma de diálogo, así como de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos en debate.
+1. En el curso de las deliberaciones los integrantes del Consejo o Asamblea y las personas presentes con derecho a voz, se abstendrán de entablar polémicas o debates en forma de diálogo, así como de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos en debate.
 
-En caso de ocurrir una alusión personal, el aludido podrá responder en un tiempo que no exceda de dos minutos.
+2. En caso de presentarse una alusión personal, el aludido podrá solicitar réplica para ejercerla en un tiempo que no exceda de dos minutos.
 
-El Consejero Presidente no permitirá a quien propicie la respuesta, que insista en la polémica. De no acatar lo anterior el Consejero Presidente ya no le permitirá el uso de la palabra en relación al punto de que se trate.
+3. El Consejero Presidente no permitirá que quien propicie la respuesta, insista en la polémica. De no acatar lo anterior, el Consejero Presidente negará el uso de la palabra en relación a la alusión de que se trate.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 32.
 
-Los oradores no podrán ser interrumpidos, salvo por medio de una moción siguiendo las reglas para ellas establecidas.
+1. Los oradores no podrán ser interrumpidos, salvo por medio de una moción siguiendo las reglas establecidas en este Reglamento.
 
-Del mismo modo el Consejero Presidente podrá interrumpir al orador para indicarle que se ha agotado el tiempo de exposición, exhortarlo para que se apegue a la cuestión en debate, para llamarlo al orden o para preguntarle si desea contestar alguna interpelación que desee formularle a algún otro integrante del Consejo o Asamblea.
+2. Del mismo modo, el Consejero Presidente podrá interrumpir al orador para indicarle que se ha agotado el tiempo de exposición, exhortarlo para que se apegue a la cuestión en debate, para llamarlo al orden o para preguntarle si desea contestar alguna interpelación que desee formularle algún otro integrante del Consejo o Asamblea.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 33.
 
-Si el orador se aparta de la cuestión en debate, o hace referencia que ofenda a cualquiera de los integrantes del Consejo o Asamblea, el Consejero Presidente realizará una advertencia.
+Si el orador se aparta de la cuestión en debate, o hace referencia que ofenda a cualquiera de los integrantes del Consejo o Asamblea o realice comentarios con contenido discriminatorio en relación a cualquier persona, género o categoría descrita en el artículo 1 de la Constitución Política de los Estados Unidos Mexicanos, el Consejero Presidente realizará la advertencia de retirarle el uso de la palabra en caso de reincidir durante la discusión del punto del orden del día de que se trate.
 
-Si el orador recibiera tres advertencias, el Consejero Presidente le retirará el uso de la palabra en relación al punto en debate.
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+### CAPÍTULO NOVENO. MOCIONES
 
-### CAPÍTULO NOVENO
-
-DE LAS VOTACIONES.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 34.
 
-Son susceptibles de formularse por los integrantes del Consejo o Asamblea, durante el desarrollo de la sesión, las mociones de orden, aclaración, procedimiento y las mociones al orador.
+1. Los integrantes del Consejo o Asamblea, durante el desarrollo de la sesión, podrán formular mociones de orden, de aclaración y mociones al orador.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+2. Toda moción tendrá una duración máxima de dos minutos.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 35.
 
-Es moción de orden toda proposición que tenga los siguientes objetivos:
+1. Es moción de orden las proposiciones que tengan alguno de los objetivos siguientes:
 
-a) Solicitar aplazar la discusión de un asunto por tiempo determinado o indeterminado;
+a) Solicitar aplazar la discusión de un asunto por tiempo determinado o indeterminado.
 
-b) Solicitar algún receso durante la sesión;
+b) Solicitar algún receso durante la sesión.
 
-c) Solicitar que el debate atienda en particular un aspecto de la resolución;
+c) Solicitar que el debate atienda en particular un aspecto de la resolución.
 
-d) Solicitar la suspensión de la sesión por alguna de las causas establecidas en este Reglamento;
+d) Solicitar la suspensión de la sesión por alguna de las causas establecidas en este Reglamento.
 
-e) Pedir la suspensión de una intervención que no se ajuste al orden, que se aparte del punto a discusión, o que sea ofensiva o calumniosa para algún miembro del Consejo;
+e) Pedir la suspensión de una intervención que no se ajuste al orden, que se aparte del punto a discusión, o que sea ofensiva o calumniosa para algún miembro del Consejo o Asamblea.
 
-f) Ilustrar la discusión con la lectura breve de algún documento;
+f) Solicitar la aclaración del procedimiento específico de votación de un punto en particular.
 
-g) Solicitar la aclaración del procedimiento específico de votación de un punto en particular; y
+g) Pedir la aplicación del Reglamento, debiendo precisar la disposición que se considera inobservada.
 
-h) Pedir la aplicación del Reglamento
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 36.
 
-Es moción de aclaración toda proposición que tenga los siguientes objetivos:
+Es moción de aclaración las proposiciones que tengan alguno de los objetivos siguientes:
 
-a) Ilustrar la discusión con la lectura breve de un documento;
+a) Ilustrar la discusión con la lectura breve de un documento.
 
-b) Precisar brevemente alguna cuestión directamente con el punto que esté en debate;
+b) Precisar brevemente alguna cuestión directamente con el punto que esté en debate.
 
 c) Hacer una pregunta o en general solicitar una aclaración sobre algún punto del debate.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 37.
 
-Es moción de procedimiento toda proposición que pida la aplicación del presente Reglamento o la Ley.
+1. Toda moción deberá formularse al Consejero Presidente, quien la aceptará o negará de plano. En caso de que la acepte, tomará las medidas conducentes, de ser desechada la moción, la sesión seguirá su curso.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+2. En caso que la moción de orden sea para solicitar algún receso en la sesión, el Consejero Presidente deberá someterla a la consideración del Consejo o Asamblea.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 38.
 
-Cualquier integrante del Consejo o Asamblea, podrá hacer mociones al orador que esté haciendo el uso de la palabra, con el objeto de hacerle una pregunta o solicitarle una aclaración sobre algún punto de su intervención.
+1. Cualquier integrante del Consejo o Asamblea, podrá hacer mociones al orador que esté haciendo el uso de la palabra, con el objeto de hacerle una pregunta o solicitarle una aclaración sobre algún punto de su intervención.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+2. El Consejero Presidente consultará al orador si acepta la moción, en cuyo caso, quien presente la moción tendrá el uso de la palabra por un minuto para hacer su planteamiento. Para dar respuesta, el orador contará con un minuto, adicional al tiempo que compone su intervención sobre el punto principal, en caso de que no hubiera concluido.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 39.
 
-Toda moción deberá formularse al Consejero Presidente, sin exceder un minuto en el planteamiento, quien la aceptará o negará. En caso de que la acepte tomará las medidas conducentes, de ser desechada la moción, la sesión seguirá su curso.
+Cada integrante del Consejo o la Asamblea podrá plantear un máximo de dos mociones por punto del orden del día.
 
-En caso que la moción de orden sea para solicitar algún receso en la sesión, el Consejero Presidente deberá de someterla a la consideración del Consejo o Asamblea.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+### CAPÍTULO DÉCIMO. VOTACIONES
 
-### CAPÍTULO DÉCIMO
-
-DE LA COMUNICACIÓN DE ACUERDOS Y RESOLUCIONES.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 40.
 
-Los acuerdos y resoluciones del Consejo o Asamblea se tomarán por mayoría simple de los votos emitidos por sus integrantes presentes con derecho a voto.
+Los acuerdos y resoluciones del Consejo o Asamblea se tomarán por mayoría simple de votos de los integrantes presentes con derecho a voto, salvo que la Ley disponga otra cosa.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 41.
 
-La votación podrá ser nominal o económica, según lo acuerde la Asamblea en esta última forma.
+1. La votación se realizará ordinariamente de manera económica o, en caso de así acordarlo el Consejo o Asamblea, de forma nominal.
 
-a) Es votación nominal aquélla que se expresa públicamente, en forma verbal e individual, quedando anotado el nombre del Consejero y el sentido de su voto, pudiendo expresarse inclusive la razón del mismo.
+a) Votación económica, es la que se efectúa a través del Secretario, quien pone a consideración el punto, votándose en forma conjunta.
 
-b) Es votación económica la que se efectúa a través del Secretario quien pone a consideración el punto, votándose en forma conjunta.
+b) Votación nominal, es aquélla que se expresa públicamente, en forma verbal e individual. El Secretario anotará el nombre del Consejero y el sentido de su voto, quien podrá expresar la razón del mismo.
 
-Cualquier votación se tomará, contando el número de votos a favor, el número de votos en contra y, en su caso las abstenciones.
+2. Cualquier votación se tomará, contando el número de votos a favor, el número de votos en contra y, en su caso, las abstenciones.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 42.
 
-La votación nominal se efectúa de la siguiente manera:
+1. La votación nominal se efectúa de la manera siguiente:
 
-a) Cada Consejero Electoral dirá, individualmente y por separado, el sentido de su voto, ya sea a favor, en contra o abstención. Cada Consejero tendrá la libertad de expresar en forma concisa las razones en que funda el sentido de su voto.
+a) Cada Consejero manifestará individualmente y por separado, el sentido de su voto, ya sea a favor, en contra o abstención. Tendrá la libertad de expresar en forma concisa las razones en que funda el sentido de su voto o motivos de su abstención.
 
-b) El Secretario anotará el nombre de los integrantes del Consejo o Asamblea y el sentido de su voto.
+b) El Secretario anotará el nombre del Consejero y el sentido del voto.
 
-c) El Secretario tomará enseguida el voto del Consejero Presidente, en la misma forma anterior, anotando el sentido del mismo.
+c) El Secretario tomará enseguida el voto y su sentido, del Consejero Presidente.
 
-d) A continuación el Secretario hará el cómputo de los votos, y dará a conocer el resultado.
+d) A continuación, el Secretario realizará el cómputo de los votos, y dará a conocer el resultado.
 
-e) Si hubiera empate, el voto de calidad del Consejero Presidente decidirá la votación.
+e) En caso de empate, el voto de calidad del Consejero Presidente decidirá la votación.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 43.
 
-La votación se hará en lo general y en lo particular, siempre y cuando así lo solicite un integrante del Consejo.
+1. La votación se hará en lo general y en lo particular, siempre y cuando así lo solicite un integrante del Consejo.
 
-a) La votación en lo general, será sobre la aprobación o rechazo a la totalidad de un proyecto de acuerdo, resolución o reglamento, considerando que su contenido en lo general sea apropiado o no para la situación que se pretenda normar.
+a) La votación en lo general, será sobre la aprobación o rechazo al sentido de un proyecto de acuerdo, resolución o reglamento, considerando que su contenido en lo general sea o no apropiado.
 
-b) La votación en lo particular, será sobre la aprobación o rechazo de algún artículo o punto de acuerdo de un proyecto presentado ante el Consejo o Asamblea. Esta reserva será precisada en el diario de debates respectivo, para su establecimiento como antecedente.
+b) La votación en lo particular, será sobre la aprobación o rechazo de algún artículo o punto específico de un proyecto presentado ante el Consejo o Asamblea, o bien, respecto de propuestas de modificación presentadas durante la discusión. Esta reserva será precisada en el diario de debates respectivo, para su establecimiento como antecedente.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+2. En caso de requerirse, primero se votará el punto del orden del día en lo general y posteriormente en lo particular sobre los aspectos que correspondan.
+
+3. En caso de que se anuncie voto particular por escrito por algún Consejero, deberá presentarse ante la Secretaría Ejecutiva dentro de las veinticuatro horas siguientes a la conclusión de la sesión respectiva. Una vez transcurrido este plazo, se engrosará la resolución.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 44.
 
-Ningún integrante del Consejo o Asamblea con derecho a voto, podrá salir de la sala de sesiones mientras se realice la votación.
+Ningún integrante del Consejo o Asamblea con derecho a voto, podrá abandonar la sala de sesiones mientras se realiza la votación.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPÍTULO DÉCIMO PRIMERO
+### CAPÍTULO DÉCIMO PRIMERO. COMUNICACIÓN DE ACUERDOS Y RESOLUCIONES
 
-DE LAS ACTAS DE SESIONES Y DIARIOS DE DEBATES.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 45.
 
-Dentro de los tres días siguientes a la sesión en que fueron aprobados, el Secretario deberá remitir a los integrantes del Consejo o Asamblea, copia de los acuerdos y resoluciones tomados.
+Dentro de los tres días siguientes a la sesión en que fueron aprobados, el Secretario deberá publicar por estrados y en la página oficial de internet, los acuerdos y resoluciones tomados.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 46.
 
-Dentro de los tres días siguientes a la sesión en que fueron aprobados, se comunicará a las sesenta y siete Asambleas los acuerdos tomados por el Consejo, para su debido cumplimiento y eficacia.
+1. Dentro de los tres días siguientes a la sesión en que fueron aprobados, se comunicará, en su caso, a las Asambleas los acuerdos tomados por el Consejo, para su debido cumplimiento.
 
-En caso de ser necesario y por su urgencia, se puede acordar por el Consejo reducir el plazo establecido.
+2. En caso de ser necesario y por su urgencia, se puede acordar por el Consejo reducir el plazo establecido.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 47.
 
-Las Asambleas deberán comunicar al Consejo, dentro de las veinticuatro horas siguientes a la sesión, los acuerdos que hayan sido aprobados.
+Las Asambleas deberán comunicar al Consejo, los acuerdos o resoluciones que hayan sido aprobadas, dentro de las veinticuatro horas siguientes a la sesión respectiva.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 48.
 
-El Consejo Estatal ordenará la publicación, en el Periódico Oficial del Estado, de los acuerdos y resoluciones de carácter general, así como aquellos que el propio Consejo determine.
+1. El Consejo ordenará la publicación en el Periódico Oficial del Estado, de los acuerdos y resoluciones de carácter general, así como aquellos que determine.
 
-Para la publicación en el Periódico Oficial del Estado, el Secretario remitirá a la autoridad correspondiente, dentro de los cinco días siguientes a su aprobación, los acuerdos o resoluciones adoptados.
+2. Para la publicación en el Periódico Oficial del Estado, el Secretario remitirá a la autoridad correspondiente, dentro de los cinco días siguientes a su aprobación, los acuerdos o resoluciones adoptados.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPÍTULO DÉCIMO SEGUNDO
+### CAPÍTULO DÉCIMO SEGUNDO. ACTAS DE SESIONES Y DIARIOS DE DEBATES
 
-DE LOS IMPEDIMENTOS, EXCUSA Y RECUSACIÓN.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 49.
 
-De cada sesión se levantará un proyecto de acta, que contendrá los datos de identificación de la sesión, la lista de asistencia, los puntos del orden del día, un extracto del sentido de las intervenciones de los oradores y el sentido del voto de sus integrantes así como los acuerdos y resoluciones aprobadas.
+1. De cada sesión se levantará un proyecto de acta, que contendrá los datos de identificación de la sesión, la lista de asistencia, los puntos del orden del día, un extracto del sentido de las intervenciones de los oradores y el sentido del voto de sus integrantes, así como los acuerdos y resoluciones aprobadas.
 
-El proyecto de acta deberá someterse a aprobación en la siguiente sesión de que se trate.
+2. El proyecto de acta deberá someterse a la aprobación del Consejo o Asamblea, en sesión posterior.
 
-El Secretario deberá entregar a los integrantes del Consejo o Asamblea copia del proyecto dentro del término de cuarenta y ocho horas siguientes a su celebración.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 50.
 
-Mediante instrumentos magnéticos se grabará cada sesión íntegramente. Esto para su trascripción posterior, misma que se archivará consecutivamente como diario de debates, el cual estará a disposición del público en general para su consulta y del cual se podrá expedir copia certificada a quien la solicite por escrito.
+Cada sesión se grabará íntegramente, luego se trascribirá y archivará consecutivamente como diario de debates, que deberá estar a disposición del público en general para su consulta y del cual se podrá expedir copia certificada a quien la solicite por escrito.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
-### CAPÍTULO DÉCIMO TERCERO
+### CAPÍTULO DÉCIMO TERCERO. IMPEDIMENTOS, EXCUSA Y RECUSACIÓN
 
-DE LAS INFRACCIONES.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 51.
 
-El Presidente o cualquiera de los Consejeros Electorales, estarán impedidos para intervenir, en cualquier forma, en la atención, trámite o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
+1. El Consejero Presidente o cualquiera de los Consejeros, estarán impedidos para intervenir, de cualquier forma, en la atención, trámite y resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio o perjuicio para él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte en los últimos tres años.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+2. En caso de que se presente alguno de los supuestos descritos en el párrafo anterior, el Consejero de que se trate deberá excusarse de conocer del asunto durante la sesión correspondiente. La excusa deberá aprobarse por la mayoría de los Consejeros, sin considerar el voto de quien la fórmula.
+
+3. Cualquiera de los integrantes del Consejo o Asamblea, podrá recusar a algún Consejero o Consejeros, hasta antes de iniciar la discusión del asunto respectivo, expresando el motivo y los hechos o circunstancias en que sustenta su petición, y en su caso, las pruebas con las que cuente, mismas que deberán ser exhibidas en el momento, para agregarse al acta correspondiente. Solo serán admisibles aquellas pruebas que por su naturaleza puedan tenerse por desahogadas con su mera exhibición dentro de la sesión.
+
+4. El Consejo o Asamblea deberá resolver la cuestión de inmediato, con el fin de seguir en el desarrollo de la sesión.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+
+### CAPÍTULO DÉCIMO CUARTO. INFRACCIONES
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 52.
 
-El incumplimiento a las disposiciones de este Reglamento será causa de responsabilidad administrativa en los términos del Libro Sexto, de la Ley.
+El incumplimiento a las disposiciones de este Reglamento será causa de responsabilidad administrativa en los términos del Libro Sexto de la Ley y demás ordenamientos internos.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -664,3 +688,9 @@ SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
 TERCERO.- Se ordena tomar las previsiones conducentes para que la normatividad contenida en la página Web del Instituto Estatal Electoral se actualice.
 
 CUARTO.- Se instruye al Encargado del Despacho de la Secretaría Ejecutiva para que se publique el presente acuerdo en el Periódico Oficial del Estado, acorde con lo establecido en el artículo 63, de la Ley Electoral del Estado de Chihuahua.
+
+P.O. 29 DE MARZO DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO NO. IEE/CE20/2017 QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Las modificaciones aprobadas se plasman en el anexo adjunto y forman parte integral del presente acuerdo. Dichas modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
