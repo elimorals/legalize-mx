@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2017-03-19"
+last_updated: "2017-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -297,7 +297,7 @@ En lo no previsto en la presente Ley se aplicarán en forma supletoria los Códi
 
 ## TÍTULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I
 
 ###### ARTÍCULO 8.
 
@@ -331,13 +331,13 @@ VIII. Proporcionar orientación a la población respecto de la importancia de la
 
 IX. Impulsar campañas de difusión acerca del contenido nutricional de los diferentes alimentos;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
 
-X. Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, garanticen un combate eficiente al sobrepeso, obesidad, desnutrición y trastornos de la conducta alimentaria y cuyos avances y resultados sean objeto de evaluación;
+X. Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, garanticen un combate eficiente al sobrepeso, obesidad, desnutrición, diabetes y trastornos de la conducta alimentaria y cuyos avances y resultados sean objeto de evaluación;
 
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
 
-XI. Impulsar en los pueblos y comunidades indígenas los servicios de salud, a fin de que puedan gozar del máximo nivel posible de salud física y mental, fomentando la nutrición de la población indígena Infantil; así como procurar que el personal de las instituciones de salud pública que prestan servicio en los pueblos y comunidades indígenas, cuenten con los conocimientos básicos sobre la lengua, cultura y costumbres de los mismos, a fin de que las respeten, asegurando el derecho de integrantes de los pueblos y comunidades indígenas a recibir la información necesaria en materia de salud en su propia lengua.
+XI. Impulsar en los pueblos y comunidades indígenas los servicios de salud, a fin de que puedan gozar del máximo nivel posible de salud física y mental, fomentando la nutrición de la población indígena infantil, implementar programas para atención de personas con discapacidad; así como procurar que el personal de las instituciones de salud pública que prestan servicio en los pueblos y comunidades indígenas, cuenten con los conocimientos básicos sobre la lengua, cultura y costumbres de los mismos, a fin de que las respeten, asegurando el derecho de integrantes de los pueblos y comunidades indígenas a recibir la información necesaria en materia de salud en su propia lengua;
 
 > <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
@@ -381,9 +381,9 @@ XIV. Promover e impulsar la participación de la comunidad del Estado en el cuid
 
 XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
 
-XVI. Instaurar programas de nutrición, para prevenir y atender la obesidad y el sobrepeso en el (sic) población duranguense; y
+XVI. Instaurar programas de nutrición, para prevenir y atender la diabetes, la obesidad y el sobrepeso en la población duranguense; y
 
 XVII. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
 
@@ -413,11 +413,159 @@ La competencia de las autoridades sanitarias en la planeación, regulación, org
 
 El Gobierno del Estado, con la participación que corresponda al Comité de Planeación para el Desarrollo del Estado, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios de los Sistemas Nacional y Estatal de Salud.
 
-### CAPÍTULO I. DE LA SECRETARÍA DE SALUD
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MARZO DE 2017)</small>
+
+### CAPÍTULO II. DEL CONSEJO ESTATAL DE SALUD
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+ARTÍCULO 14 BIS 1.- El Consejo Estatal de Salud para el Estado de Durango es un organismo de coordinación de las instituciones públicas que conforman el Sistema Estatal de Salud, que tiene por objeto la planeación, programación y evaluación de los servicios de salud en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+ARTÍCULO 14 BIS 2.- El Consejo Estatal de Salud se integra por:
+
+I. Un Presidente, que será el Secretario de Salud de Durango;
+
+II. Un Secretario Ejecutivo, nombrado por el Gobernador del Estado;
+
+III. Nueve Consejeros, que serán los siguientes:
+
+a) El Secretario General de Gobierno en el Estado;
+
+b) El Secretario de Educación en el Estado;
+
+c) El Director de los Servicios de Salud de Durango;
+
+d) El Director del Sistema Estatal para el Desarrollo Integral de la Familia en Durango;
+
+e) El titular de la Unidad Estatal de Protección Civil;
+
+f) El Director de Planeación de Servicios de Salud de Durango;
+
+g) El Director de Administración de los Servicios de Salud de Durango;
+
+h) El Director del Régimen Estatal de Protección en Salud; y
+
+i) El Presidente de la Red Duranguense de Municipios por la Salud;
+
+IV. Siete vocales, que serán los siguientes:
+
+a) El Delegado del Instituto Mexicano del Seguro Social en el Estado;
+
+b) El Delegado Estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+c) El titular o representante de los servicios médicos de la Secretaría de la Defensa Nacional en Durango;
+
+d) El Delegado de la Benemérita Cruz Roja Mexicana en el Estado;
+
+e) El Presidente del Colegio Médico de Durango;
+
+f) El titular del Consejo o en su defecto Comisión contra las Adicciones; y
+
+g) El titular del área de Enseñanza, Capacitación e Investigación en Salud de los Servicios de Salud de Durango.
+
+V. El Diputado presidente de la Comisión de Salud Publica en el Congreso del Estado, con carácter de invitado.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+ARTÍCULO 14 BIS 3.- Los Consejeros que integren el Consejo contaran con voz y voto, los vocales únicamente con voz, pudiendo el Presidente apoyarse en ellos para la exposición de temas.
+
+Todos los cargos del Consejo son honoríficos y no recibirán percepción alguna por integrarse al mismo.
+
+Los integrantes del Consejo Estatal de Salud podrán designar a sus respectivos suplentes.
+
+A invitación de su Presidente, y previa aceptación por escrito, podrán participar en las sesiones del Consejo Estatal de Salud con voz, pero sin voto, cualquier integrante de los sectores público, social y privado que puedan contribuir a la realización del objeto del Consejo Estatal de Salud.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+ARTÍCULO 14 BIS 4.- El Consejo Estatal de Salud tendrá las siguientes funciones:
+
+I. Coadyuvar a consolidar el Sistema Estatal de Salud, apoyando los sistemas jurisdiccionales y municipales de salud;
+
+II. Proponer lineamientos para la coordinación de acciones de atención en las materias de salubridad del Estado;
+
+III. Formular recomendaciones para la unificación de criterios que permitan el correcto cumplimiento de los programas de salud pública;
+
+IV. Opinar sobre la congruencia de las acciones a realizar para la integración y funcionamiento de los servicios municipales de salud, así como de las instancias públicas prestadoras de servicios de atención médica;
+
+V. Formular propuestas para homologar la prestación de los servicios de atención medica;
+
+VI. Apoyar, a petición de los municipios, la evaluación de sus programas de salud;
+
+VII. Fomentar la cooperación técnica y logística entre los servicios de salud que prestan las diversas instituciones públicas y privadas en el Estado;
+
+VIII. Promover en los Municipios los programas prioritarios de salud;
+
+IX. Estudiar y proponer esquemas de financiamiento complementario para la atención de la salud pública;
+
+X. Proponer medidas para coordinar acciones en el marco del Sistema Estatal de Salud;
+
+XI. Proponer acciones tendientes a la integración funcional del Sistema Estatal de Salud;
+
+XII. Rendir informe, sobre las acciones que realizan ante situaciones de contingencia;
+
+XIII. Opinar sobre los proyectos de convenios de coordinación para la prestación de servicios de atención médica de las instituciones públicas del Sistema Estatal de Salud;
+
+XIV. Establecer comisiones y grupos de trabajo que sean necesarios para el estudio de temas que contribuyan al correcto desempeño del Consejo Estatal de Salud y apoyen la consecución de sus objetivos; y
+
+XV. Las demás que sean necesarias para el cumplimiento de su objetivo.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+ARTÍCULO 14 BIS 5.- El Consejo Estatal de Salud contará con un Secretariado Ejecutivo de carácter permanente que dependerá del Secretario de Salud, y contara con las siguientes atribuciones:
+
+I. Coordinar las reuniones estatales del Consejo Estatal de Salud;
+
+II. Emitir las convocatorias para las reuniones del Consejo Estatal de Salud;
+
+III. Levantar y firmar las actas y acuerdos tomados en las reuniones del Consejo Estatal de Salud;
+
+IV. Promover y dar seguimiento a los acuerdos que emanen de las reuniones del Consejo Estatal de Salud entre las diferentes unidades administrativas de la Secretaria de Salud y las instituciones prestadoras de servicios de salud, así como los acuerdos tomados en comisiones permanentes y grupos de trabajo;
+
+V. Supervisar la entrega oportuna de la información que deban rendir los organismos integrantes del Consejo Estatal de Salud y gestionar las medidas aplicables, de acuerdo con los lineamientos que establezcan las unidades administrativas competentes;
+
+VI. Atender y dar respuesta a las solicitudes en materia de transparencia y acceso a la información pública gubernamental, dirigidas al Consejo Estatal de Salud;
+
+VII. Coordinar la interrelación de las unidades administrativas de la Secretaria de Salud y los municipios para el fortalecimiento de los servicios de salud;
+
+VIII. Identificar los factores que afectan la operación de los servicios de salud en los municipios y gestionar ante las autoridades administrativas de la Secretaria de Salud, en el ámbito de su competencia, las medidas aplicables;
+
+IX. Instrumentar las directrices que fije el Secretario de Salud, para la consolidación y cumplimiento de las acciones previstas en el Programa Nacional de Salud en esta Entidad Federativa;
+
+X. Controlar la ejecución de los programas que señale el Secretario de Salud en los municipios en coordinación con las unidades administrativas competentes;
+
+XI. Contribuir a la evaluación de los objetivos del Programa Sectorial de Salud;
+
+XII. Registrar y dar seguimiento a los compromisos que las unidades administrativas de la Secretaría realicen con los servicios de salud de los municipios;
+
+XIII. Expedir certificaciones de los documentos que obren en sus archivos;
+
+XIV. Participar en la formulación e instrumentación de los proyectos y programas específicos que determine el Presidente del Consejo o el Secretario de Salud, en coordinación con las unidades administrativas competentes, en apoyo al desarrollo de los programas de salud;
+
+XV. Realizar los trabajos que considere necesarios para apoyar el desempeño de las funciones del Consejo Estatal de Salud; y
+
+XVI. Las demás que determine el Presidente del Consejo o el Secretario de Salud y las que establezcan las Reglas de Operación del Consejo Estatal de Salud.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+ARTÍCULO 14 BIS 6.- El funcionamiento del Consejo Estatal de Salud y de su Secretariado Ejecutivo, serán definidos en su Reglamento Interno.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+ARTÍCULO 14 BIS 7.- La Secretaría elaborará los proyectos de modelos de convenios de coordinación para la prestación de servicios de atención médica de las instituciones públicas del Sistema Estatal de Salud, que someterá a la opinión del Consejo Estatal de Salud.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+ARTÍCULO 14 BIS 8.- El Consejo Estatal de Salud podrá acordar la integración de las comisiones y grupos de trabajo que considere, por el tiempo necesario, para la atención de actividades específicas, los cuales estarán integrados por los representantes que, previa aceptación de los mismos, para el efecto designen los miembros del propio Consejo Estatal de Salud, quienes deberán tener como mínimo el nivel de director general, tratándose de la Administración Pública Centralizada, o sus equivalentes en el sector paraestatal y en los municipios.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+ARTÍCULO 14 BIS 9.- Las actividades que llevan a cabo los integrantes de las comisiones y grupos de trabajo, se realizaran con los recursos humanos, materiales y financieros de las dependencias y entidades de las Administración Pública Estatal que los integren.
 
 ## TÍTULO TERCERO. DISTRIBUCIÓN DE COMPETENCIAS
 
-### CAPÍTULO II. DEL ORGANISMO DESCENTRALIZADO SERVICIOS DE SALUD DE DURANGO
+### CAPÍTULO I. DE LA SECRETARÍA DE SALUD
 
 ###### ARTÍCULO 15.
 
@@ -535,7 +683,7 @@ El Gobierno del Estado podrá celebrar convenios de coordinación y cooperación
 
 La coordinación de la prestación de los servicios de asistencia social que establece esta Ley se llevará a cabo por el Gobierno del Estado a través de la Secretaría y el Organismo, quien promoverá la interrelación de acciones que en el campo de asistencia social lleven a cabo las instituciones públicas y privadas.
 
-### CAPÍTULO III. DE LOS AYUNTAMIENTOS
+### CAPÍTULO II. DEL ORGANISMO DESCENTRALIZADO SERVICIOS DE SALUD DE DURANGO
 
 ###### ARTÍCULO 22.
 
@@ -745,7 +893,27 @@ A.- En materia de salubridad general:
 
 I. La atención médica, preferentemente en beneficio de grupos vulnerables;
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+I Bis. La protección social en salud;
+
 II. La atención materno-infantil;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+II Bis. El programa de nutrición materno-infantil en los pueblos y comunidades indígenas;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+II Bis 1. Salud Visual;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+II Bis 2. Auditiva;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+II Bis 3. Bucodental;
 
 III. La planificación familiar;
 
@@ -763,9 +931,9 @@ VIII. La información relativa a las condiciones, recursos y servicios de salud;
 
 IX. La educación para la salud, proporcionado (sic) a la población información básica, científicamente validada y sistematizada, tendiente a desarrollar habilidades, actitudes y prácticas relacionadas con los alimentos y la alimentación para favorecer la adopción de una dieta adecuada, a nivel individual, familiar y colectivo, tomando en cuenta las condiciones económicas, geográficas, culturales y sociales, resaltando la importancia del consumo de alimentos naturales, como alternativa a la ingesta de alimentos nocivos para la salud.
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
 
-X. Establecer un sistema permanente de orientación y vigilancia en materia de nutrición, la obesidad y los trastornos de la conducta alimentaria, encaminado a limitar el consumo de alimentos con bajo contenido nutricional y alto contenido calórico e impulsar la actividad física;
+X. Establecer un sistema permanente de orientación y vigilancia en materia de nutrición, diabetes, la obesidad y los trastornos de la conducta alimentaria, encaminado a limitar el consumo de alimentos con bajo contenido nutricional y alto contenido calórico e impulsar la actividad física;
 
 XI. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
@@ -839,7 +1007,7 @@ Para la verificación y control sanitario de los establecimientos a que se refie
 
 En lo conducente, los Municipios serán corresponsables con la Secretaría y el Organismo en la verificación y control sanitario de los establecimientos a que se refiere el apartado B de este artículo, de conformidad con lo establecido en la presente Ley y demás disposiciones generales aplicables.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LOS AYUNTAMIENTOS
 
 ###### ARTÍCULO 35.
 
@@ -885,7 +1053,7 @@ Los municipios del Estado, previo acuerdo entre sus Ayuntamientos y en el ámbit
 
 ## TÍTULO CUARTO. PRESTACIÓN DE LOS SERVICIOS DE SALUD
 
-### CAPÍTULO II. ATENCIÓN MÉDICA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 40.
 
@@ -949,9 +1117,7 @@ I. Garantizar a la población la disponibilidad de medicamentos esenciales bási
 
 II. El cumplimiento de las disposiciones legales aplicables por parte de los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración.
 
-### CAPÍTULO III. SALUD PÚBLICA
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+### CAPÍTULO II. ATENCIÓN MÉDICA
 
 ###### ARTÍCULO 46.
 
@@ -969,15 +1135,17 @@ III. Paliativas, que incluyen el cuidado integral para preservar la calidad de v
 
 IV. De rehabilitación, que incluyen acciones tendientes a corregir la invalidez física y mental.
 
-### CAPÍTULO IV
+### CAPÍTULO III. SALUD PÚBLICA
 
-ASISTENCIA SOCIAL, PREVENCIÓN DE DISCAPACIDADES.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 47.
 
-Las acciones de Salud Pública comprenden, entre otras, la prevención y control de enfermedades, principalmente las crónico degenerativas y las causadas por los malos hábitos en la alimentación de los duranguenses, como la obesidad y el sobrepeso, además de atender los accidentes, la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la información relativa a las condiciones, recursos y servicios de salud de la entidad.
+Las acciones de Salud Pública comprenden, entre otras, la prevención y control de enfermedades, principalmente las crónico degenerativas, la diabetes y las causadas por los malos hábitos en la alimentación de los duranguenses, como la obesidad y el sobrepeso, además de atender los accidentes, la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la información relativa a las condiciones, recursos y servicios de salud de la entidad.
 
-### CAPÍTULO V. PRESTADORES DE SERVICIOS DE SALUD
+### CAPÍTULO IV
+
+ASISTENCIA SOCIAL, PREVENCIÓN DE DISCAPACIDADES.
 
 ###### ARTÍCULO 48.
 
@@ -986,6 +1154,10 @@ Son actividades básicas de asistencia social:
 I. La atención a personas que, por sus carencias socioeconómicas o por problemas de discapacidad se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
 II. La atención en establecimientos especializados a la infancia y adultos mayores en estado de abandono o desamparo y personas con discapacidad sin recursos;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+II Bis. Diseñar programas a fin de proteger el derecho a la salud de los pueblos y comunidades indígenas que sufren alguna discapacidad;
 
 III. La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la senectud;
 
@@ -1061,7 +1233,7 @@ VI. Promoción para adecuar facilidades urbanísticas y arquitectónicas a las n
 
 VII. La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
-### CAPÍTULO VI. USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACIÓN DE LA COMUNIDAD
+### CAPÍTULO V. PRESTADORES DE SERVICIOS DE SALUD
 
 ###### ARTÍCULO 61.
 
@@ -1113,7 +1285,7 @@ La Secretaría, el Organismo y la COPRISED, en el ámbito de sus competencias y 
 
 La Secretaría y el Organismo coadyuvarán con las autoridades educativas competentes para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, y estimulará su participación en el Sistema Estatal de Salud como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultores de las autoridades sanitarias, cuando éstas lo requieran.
 
-### CAPÍTULO VII. ATENCIÓN MATERNO-INFANTIL
+### CAPÍTULO VI. USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACIÓN DE LA COMUNIDAD
 
 ###### ARTÍCULO 69.
 
@@ -1189,7 +1361,7 @@ Se concede acción popular para denunciar por escrito ante las autoridades sanit
 
 Hecha la denuncia, la autoridad sanitaria correspondiente se abocará al conocimiento de los hechos conforme a las disposiciones de esta Ley y demás ordenamientos aplicables y mediante los procedimientos, en lo conducente, del control sanitario establecido en el Título Decimoquinto de la presente Ley.
 
-### CAPÍTULO VIII. SERVICIOS DE PLANIFICACIÓN FAMILIAR
+### CAPÍTULO VII. ATENCIÓN MATERNO-INFANTIL
 
 ###### ARTÍCULO 81.
 
@@ -1211,13 +1383,19 @@ III.- La revisión de retina y tamiz auditivo al prematuro;
 
 IV.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+V.- El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida;
+
+nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida;(sic)
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2014)</small>
 
-V.- La vigilancia del crecimiento y desarrollo de los recién nacidos hasta los dos años de edad, así como detectar de manera temprana los problemas de neurodesarrollo y patología que pudieran tener, para lo cual se contará con una Cartilla Estatal de Neurodesarrollo, la cual se entregará de manera gratuita por las instituciones públicas y privadas del sector salud; y
+VI.- La vigilancia del crecimiento y desarrollo de los recién nacidos hasta los dos años de edad, así como detectar de manera temprana los problemas de neurodesarrollo y patología que pudieran tener, para lo cual se contará con una Cartilla Estatal de Neurodesarrollo, la cual se entregará de manera gratuita por las instituciones públicas y privadas del sector salud; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2014)</small>
 
-VI.- La promoción de la integración y el bienestar familiar.
+VII.- La promoción de la integración y el bienestar familiar.
 
 ###### ARTÍCULO 82.
 
@@ -1233,9 +1411,15 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria tendiente a mejorar el estado nutricional del grupo materno-infantil; y
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
 
-III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de las y los menores de cinco años.
+II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria tendiente a mejorar el estado nutricional del grupo materno-infantil;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+III. Acciones de diagnóstico y atención temprana de la displasia en el desarrollo de cadera, durante el crecimiento y desarrollo de los menores de 5 años, y
+
+IV. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de las y los menores de cinco años.
 
 ###### ARTÍCULO 85.
 
@@ -1265,7 +1449,7 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 La Secretaría y el Organismo así como las autoridades educativas estatales promoverán el cuidado de la salud de los alumnos, durante el ciclo escolar.
 
-### CAPÍTULO IX. SALUD MENTAL
+### CAPÍTULO VIII. SERVICIOS DE PLANIFICACIÓN FAMILIAR
 
 ###### ARTÍCULO 88.
 
@@ -1309,7 +1493,7 @@ Los Comités de Salud a que se refiere el artículo 82 de esta Ley, promoverán 
 
 La Secretaría y el Organismo coadyuvarán con la Secretaría de Salud del Gobierno Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales de salud.
 
-### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
+### CAPÍTULO IX. SALUD MENTAL
 
 ###### ARTÍCULO 92.
 
@@ -1349,11 +1533,11 @@ El área administrativa que el Ejecutivo Estatal determine, prestará atención 
 
 Para tales efectos, dicha estructura administrativa establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
-### CAPÍTULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
 
 ## TÍTULO QUINTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
+### CAPÍTULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### ARTÍCULO 97.
 
@@ -1385,7 +1569,7 @@ En el caso de que exista convenio entre el Gobierno del Estado y el Ejecutivo Fe
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título; diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones, deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### CAPÍTULO ÚNICO. ACCIONES Y BASES PARA LA INVESTIGACIÓN
+### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
 ###### ARTÍCULO 101.
 
@@ -1413,7 +1597,7 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 
 El Gobierno del Estado, con la participación de las instituciones de educación superior, elaborará programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPÍTULO ÚNICO. DE LA CAPTACIÓN Y SUMINISTRO
+### CAPÍTULO ÚNICO. ACCIONES Y BASES PARA LA INVESTIGACIÓN
 
 ###### ARTÍCULO 106.
 
@@ -1439,7 +1623,7 @@ V. Promover la participación voluntaria de profesionales, técnicos y auxiliare
 
 La Secretaría y el Organismo propondrán a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
 
-I. Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos; y
+I.- Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos; y
 
 II.- El perfil de los profesionales para la salud en sus etapas de formación.
 
@@ -1455,7 +1639,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TÍTULO SEXTO. INVESTIGACIÓN PARA LA SALUD
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DE LA CAPTACIÓN Y SUMINISTRO
 
 ###### ARTÍCULO 111.
 
@@ -1523,7 +1707,7 @@ Asimismo, fortalecerá las actividades docentes vinculadas a la investigación p
 
 ## TÍTULO SÉPTIMO. INFORMACIÓN PARA LA SALUD
 
-### CAPÍTULO II. EDUCACIÓN PARA LA SALUD
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 118.
 
@@ -1547,7 +1731,7 @@ La Secretaría y el Organismo establecerán centros de información y de documen
 
 ## TÍTULO OCTAVO. PROMOCIÓN DE LA SALUD
 
-### CAPÍTULO III. NUTRICIÓN Y ORIENTACIÓN ALIMENTARIA
+### CAPÍTULO II. EDUCACIÓN PARA LA SALUD
 
 ###### ARTÍCULO 121.
 
@@ -1569,7 +1753,7 @@ V. Ejercicios para la Salud; y
 
 VI. Fomento sanitario.
 
-### CAPÍTULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPÍTULO III. NUTRICIÓN Y ORIENTACIÓN ALIMENTARIA
 
 ###### ARTÍCULO 123.
 
@@ -1601,7 +1785,7 @@ VI. Establecerán campañas de capacitación y sensibilización dirigidas a serv
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ABRIL DE 2011)</small>
 
-### CAPÍTULO V. EJERCICIO PARA LA SALUD
+### CAPÍTULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTÍCULO 125.
 
@@ -1615,13 +1799,13 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 La Secretaría y el Organismo tendrán a su cargo:
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
 
-I. Operar un sistema permanente de vigilancia epidemiológica de la nutrición, la obesidad y los trastornos de la conducta alimentaria, encaminado a limitar el consumo de alimentos con bajo contenido nutricional y alto contenido calórico e impulsar la actividad física;
+I.- Operar un sistema permanente de vigilancia epidemiológica de la nutrición, la diabetes, la obesidad y los trastornos de la conducta alimentaria, encaminado a limitar el consumo de alimentos con bajo contenido nutricional y alto contenido calórico e impulsar la actividad física;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
 
-II. Normar y vigilar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a la prevención, tratamiento y control de la desnutrición, sobrepeso, obesidad y trastornos de la conducta alimentaria y promover hábitos alimentarios adecuados y estilos de vida saludables, especialmente en los grupos sociales más vulnerables;
+II.- Normar y vigilar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a la prevención, tratamiento y control de la desnutrición, diabetes, sobrepeso, obesidad y trastornos de la conducta alimentaria y promover hábitos alimentarios adecuados y estilos de vida saludables, especialmente en los grupos sociales más vulnerables;
 
 III. Vigilar el establecimiento, operación y evaluación de servicios de nutrición en las zonas que se determinen, procurando que los mismos se alleguen a todos los habitantes del Estado, promoviendo políticas asistenciales en beneficio de los grupos más desprotegidos;
 
@@ -1637,9 +1821,9 @@ V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo 
 
 VI. Difundir en los ámbitos familiar, escolar y laboral los buenos hábitos alimenticios y el mejoramiento de la calidad nutricional;
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
 
-VII. En coordinación con las dependencias del sector educativo, llevar a cabo el seguimiento de talla, peso y masa corporal de la población escolar en educación básica, con la finalidad de garantizar el acceso de los educandos a los servicios de prevención, detección y tratamiento de padecimientos como sobrepeso, obesidad y trastornos de la conducta alimentaria, y
+VII.- En coordinación con las dependencias del sector educativo, llevar a cabo el seguimiento de talla, peso y masa corporal de la población escolar en educación básica, con la finalidad de garantizar el acceso de los educandos a los servicios de prevención, detección y tratamiento de padecimientos como sobrepeso, diabetes, obesidad y trastornos de la conducta alimentaria;
 
 > <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2011)</small>
 
@@ -1657,7 +1841,7 @@ IX.- Llevar a cabo campañas de información acerca de los riesgos del consumo d
 
 X.- Promover con las autoridades correspondientes la prohibición de venta de bebidas energizantes a menores de edad.
 
-### CAPÍTULO VI. SALUD OCUPACIONAL
+### CAPÍTULO V. EJERCICIO PARA LA SALUD
 
 ###### ARTÍCULO 128.
 
@@ -1703,7 +1887,7 @@ No se podrán descargar aguas residuales sin el tratamiento que señalan los cri
 
 La Secretaría y el Organismo, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración de distritos de riego, orientarán a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, sustancias tóxicas y desperdicios o basura.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VI. SALUD OCUPACIONAL
 
 ###### ARTÍCULO 134.
 
@@ -1723,7 +1907,7 @@ III. Promover la capacitación y actualización continua de los trabajadores de 
 
 Para la mayor eficacia de las acciones a las que se refiere el artículo anterior, se creará el Centro Estatal Interinstitucional del Ejercicio para el Cuidado de la Salud del que formarán parte representantes de los sectores público, social y privado del Estado.
 
-### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 137.
 
@@ -1735,7 +1919,7 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 ## TÍTULO NOVENO. PREVENCIÓN Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPÍTULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTÍCULO 139.
 
@@ -1751,7 +1935,7 @@ III. Coadyuvar en la aplicación de los programas y actividades que establezca l
 
 Corresponde a la Secretaría y el Organismo, en coordinación con las autoridades sanitarias federales, realizar actividades de vigilancia epidemiológica, de prevención, control e investigación de enfermedades transmisibles, no transmisibles y accidentes.
 
-### CAPÍTULO IV. ACCIDENTES
+### CAPÍTULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTÍCULO 141.
 
@@ -1865,7 +2049,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 La Secretaría y el Organismo determinarán los casos en que se deba proceder a las (sic) descontaminación microbiana o parasitaria, desinfección, desinfectación, desinfestación, u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPÍTULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHÓLICAS
+### CAPÍTULO IV. ACCIDENTES
 
 ###### ARTÍCULO 156.
 
@@ -1889,9 +2073,9 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPÍTULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPÍTULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHÓLICAS
 
-### CAPÍTULO III. PROGRAMA CONTRA LA FÁRMACO-DEPENDENCIA
+### CAPÍTULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTÍCULO 159.
 
@@ -1915,7 +2099,7 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 ## TÍTULO DÉCIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. PROGRAMA CONTRA LA FÁRMACO-DEPENDENCIA
 
 ###### ARTÍCULO 160.
 
@@ -1941,7 +2125,7 @@ IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 V. Los demás casos que ameriten su estudio y análisis.
 
-### CAPÍTULO I. DE LA DONACIÓN DE ÓRGANOS Y TRASPLANTES
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 162.
 
@@ -1958,6 +2142,44 @@ IV. La prohibición de fumar en el interior de los edificios públicos, con exce
 V. Reglamentación para el control del consumo del tabaco; y
 
 VI. Las demás que determinen las autoridades competentes.
+
+### CAPÍTULO I. DE LA DONACIÓN DE ÓRGANOS Y TRASPLANTES
+
+###### ARTÍCULO 163.
+
+La Secretaría y el Organismo, realizarán acciones coordinadas con la Secretaría de Salud del Gobierno Federal en la ejecución, en el territorio del Estado, del programa nacional contra la fármaco dependencia, en los términos del acuerdo de coordinación que al efecto celebren ambos órdenes de Gobierno.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+###### Artículo 164.
+
+El Gobierno del Estado en coordinación con la Secretaría de Salud del Gobierno Federal, para evitar y prevenir el consumo de sustancias que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+
+I. Participar en la elaboración del Programa Nacional de Salud para la Prevención y Tratamiento de la farmacodependencia;
+
+II. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos;
+
+III. Coordinar y promover con los sectores público, privado y social las acciones para prevenir la farmacodependencia;
+
+IV. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia;
+
+V. Diseñar políticas públicas adecuadas para cumplir con las campañas permanentes de información y orientación al público sobre la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos, proporcionar información y brindar atención médica y tratamientos a quienes consuman estas sustancias, campañas de educación para la prevención de adicciones y coordinarse con los sectores público social y privado;
+
+VI. Crear y mantener un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social de farmacodependencia;
+
+VII. Celebrará convenios de colaboración con instituciones nacionales e internacionales en materia de farmacodependencia;
+
+VIII. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente, de conformidad con el artículo 192 Quáter de la Ley General de Salud; y
+
+IX. Supervisar a las instituciones y organismos públicos y privados para que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, apegándose al respeto de la integridad y libre decisión del farmacodependiente.
+
+En coordinación con los gobiernos municipales, el Gobierno del Estado determinará y ejercerá medidas de control en el expendio de sustancias inhalantes.
+
+###### ARTÍCULO 165.
+
+A los establecimientos que vendan o utilicen substancias inhalantes o ingeribles con efectos psicotrópicos que no se ajusten a las medidas de control establecidas por el gobierno estatal y los Ayuntamientos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
+
+## TÍTULO DÉCIMO PRIMERO. PUBLICIDAD EN MATERIA DE SALUD
 
 ### CAPITULO II. DONACIÓN DE ORGANOS
 
@@ -2021,41 +2243,29 @@ ARTÍCULO 173 BIS 16.- El Centro Estatal de Trasplantes hará constar el mérito
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2011)</small>
 
-###### ARTÍCULO 163.
+###### ARTÍCULO 166.
 
-La Secretaría y el Organismo, realizarán acciones coordinadas con la Secretaría de Salud del Gobierno Federal en la ejecución, en el territorio del Estado, del programa nacional contra la fármaco dependencia, en los términos del acuerdo de coordinación que al efecto celebren ambos órdenes de Gobierno.
+La Secretaría y el Organismo, realizarán acciones de publicidad que se refieran a la salud en coordinación con la Secretaría de Salud del Gobierno Federal, en el territorio del Estado, en los términos de los acuerdos de coordinación celebrados y los que en el futuro celebren.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+###### ARTÍCULO 167.
 
-###### Artículo 164.
+La Secretaría y el Organismo, autorizarán y verificarán la publicidad relacionada con la prestación de servicios de salud, de instrumental y material médico y de productos higiénicos, que cuenten con registro sanitario y de procedimientos de embellecimiento.
 
-El Gobierno del Estado en coordinación con la Secretaría de Salud del Gobierno Federal, para evitar y prevenir el consumo de sustancias que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+###### ARTÍCULO 168.
 
-I. Participar en la elaboración del Programa Nacional de Salud para la Prevención y Tratamiento de la farmacodependencia;
+Corresponderá a la Secretaría y al Organismo, la verificación de la actividad publicitaria de alimentos y bebidas no alcohólicas; productos de aseo, artículos de perfumería, belleza, y cualquier otro que se promueva y que pueda afectar la salud, en los medios de difusión local.
 
-II. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos;
+###### ARTÍCULO 169.
 
-III. Coordinar y promover con los sectores público, privado y social las acciones para prevenir la farmacodependencia;
+El monitoreo de medios publicitarios locales y de la publicidad de bebidas alcohólicas, tabaco, medicamentos de libre venta, plaguicidas, fertilizantes y sustancias tóxicas, le compete a la Secretaría y al Organismo.
 
-IV. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia;
+> <small>(REFORMADA SE DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2011)</small>
 
-V. Diseñar políticas públicas adecuadas para cumplir con las campañas permanentes de información y orientación al público sobre la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos, proporcionar información y brindar atención médica y tratamientos a quienes consuman estas sustancias, campañas de educación para la prevención de adicciones y coordinarse con los sectores público social y privado;
+## TÍTULO DÉCIMO SEGUNDO. DONACIÓN, TRANSPLANTES (SIC) Y PÉRDIDA DE LA VIDA
 
-VI. Crear y mantener un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social de farmacodependencia;
+DISPOSICIONES COMUNES
 
-VII. Celebrará convenios de colaboración con instituciones nacionales e internacionales en materia de farmacodependencia;
-
-VIII. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente, de conformidad con el artículo 192 Quáter de la Ley General de Salud; y
-
-IX. Supervisar a las instituciones y organismos públicos y privados para que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, apegándose al respeto de la integridad y libre decisión del farmacodependiente.
-
-En coordinación con los gobiernos municipales, el Gobierno del Estado determinará y ejercerá medidas de control en el expendio de sustancias inhalantes.
-
-###### ARTÍCULO 165.
-
-A los establecimientos que vendan o utilicen substancias inhalantes o ingeribles con efectos psicotrópicos que no se ajusten a las medidas de control establecidas por el gobierno estatal y los Ayuntamientos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
-
-## TÍTULO DÉCIMO PRIMERO. PUBLICIDAD EN MATERIA DE SALUD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2011)</small>
 
 ### CAPÍTULO III. TRASPLANTES
 
@@ -2149,32 +2359,6 @@ En los términos que precisen las disposiciones reglamentarias, los establecimie
 
 ARTÍCULO 123 (SIC) BIS 26.- La Secretaría de Salud del Estado, asignará al Centro Estatal de Trasplantes, los recursos económicos necesarios para su operación, funcionamiento y cumplimiento de su programa anual de trabajo.
 
-###### ARTÍCULO 166.
-
-La Secretaría y el Organismo, realizarán acciones de publicidad que se refieran a la salud en coordinación con la Secretaría de Salud del Gobierno Federal, en el territorio del Estado, en los términos de los acuerdos de coordinación celebrados y los que en el futuro celebren.
-
-###### ARTÍCULO 167.
-
-La Secretaría y el Organismo, autorizarán y verificarán la publicidad relacionada con la prestación de servicios de salud, de instrumental y material médico y de productos higiénicos, que cuenten con registro sanitario y de procedimientos de embellecimiento.
-
-###### ARTÍCULO 168.
-
-Corresponderá a la Secretaría y al Organismo, la verificación de la actividad publicitaria de alimentos y bebidas no alcohólicas; productos de aseo, artículos de perfumería, belleza, y cualquier otro que se promueva y que pueda afectar la salud, en los medios de difusión local.
-
-###### ARTÍCULO 169.
-
-El monitoreo de medios publicitarios locales y de la publicidad de bebidas alcohólicas, tabaco, medicamentos de libre venta, plaguicidas, fertilizantes y sustancias tóxicas, le compete a la Secretaría y al Organismo.
-
-> <small>(REFORMADA SE DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2011)</small>
-
-## TÍTULO DÉCIMO SEGUNDO. DONACIÓN, TRANSPLANTES (SIC) Y PÉRDIDA DE LA VIDA
-
-DISPOSICIONES COMUNES
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2011)</small>
-
-### CAPÍTULO II (SIC). CONTROL SANITARIO DE LA DISPOSICIÓN DE SANGRE HUMANA
-
 ###### ARTÍCULO 170.
 
 En lo relativo a la donación, transplantes (sic) y pérdida de la vida, la competencia de la Secretaría y el Organismo, será determinada por los acuerdos de coordinación que se celebren entre el Gobierno Estatal y la Secretaría de Salud a nivel federal.
@@ -2265,6 +2449,8 @@ ARTÍCULO 173 BIS 6.- Se considerará disposición ilícita de órganos, tejidos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2011)</small>
 
+### CAPÍTULO II (SIC). CONTROL SANITARIO DE LA DISPOSICIÓN DE SANGRE HUMANA
+
 ### CAPÍTULO III. DE LA LIPOSUCCIÓN
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
@@ -2287,10 +2473,6 @@ Para la imposición de sanciones actuará como disposición Supletoria lo previs
 
 ### CAPÍTULO ÚNICO
 
-### CAPÍTULO ÚNICO. ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
-
 ###### ARTÍCULO 174.
 
 Le corresponde a la Secretaría y al Organismo, en los términos de las funciones descentralizadas a la entidad, organizar, operar, supervisar, evaluar los servicios de control y vigilancia sanitaria de la disposición de sangre, sus componentes, productos y derivados, con fines terapéuticos, docentes y de investigación.
@@ -2309,15 +2491,17 @@ La disposición de sangre humana, componentes sanguíneos y células progenitora
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2012)</small>
 
+### CAPÍTULO ÚNICO. ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+
 ### CAPÍTULO I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
-
 ## TÍTULO DÉCIMO TERCERO. INSUMOS PARA LA SALUD
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTÍCULO 178.
 
@@ -2343,9 +2527,7 @@ VII. Las demás que les competan conforme a la presente Ley, y demás disposicio
 
 ## TÍTULO DÉCIMO CUARTO. DEL CONTROL SANITARIO DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTÍCULO 180.
 
@@ -2359,7 +2541,9 @@ De conformidad con las disposiciones generales aplicables que expida la Secretar
 
 ## TÍTULO DÉCIMO QUINTO. SALUBRIDAD LOCAL
 
-### CAPÍTULO V. LIMPIEZA PÚBLICA
+### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 182.
 
@@ -2405,9 +2589,7 @@ El Ejecutivo Estatal publicará en el Periódico Oficial del Estado, las normas 
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a partir del día siguiente al de su publicación.
 
-### CAPÍTULO VI. RASTROS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO V. LIMPIEZA PÚBLICA
 
 ###### ARTÍCULO 188.
 
@@ -2417,7 +2599,9 @@ Los vendedores, locatarios y las personas cuya actividad esté vinculada con los
 
 Los establecimientos semifijos y móviles destinados a la venta de alimentos para consumo inmediato, deberán cumplir con las disposiciones generales aplicables y las que se establezcan en el reglamento respectivo.
 
-### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO VI. RASTROS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 190.
 
@@ -2451,7 +2635,7 @@ Cuando los edificios, construcciones o terrenos representen un peligro sanitario
 
 Cuando se pretenda llevar a cabo una construcción en terrenos pantanosos o que hubiesen estado destinados a basureros o cementerios, los interesados deberán comunicar estas circunstancias a la autoridad sanitaria, a fin de que ésta dicte las medidas que juzgue pertinentes con el objeto de evitar riesgos a la salud pública.
 
-### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTÍCULO 197.
 
@@ -2477,7 +2661,7 @@ Los cadáveres deberán inhumarse, incinerarse o embalsamarse entre las doce y l
 
 La Secretaría y el Organismo determinarán el tiempo mínimo que han de permanecer los restos en las fosas. Mientras este plazo no termine, sólo podrán efectuarse las exhumaciones autorizadas por las autoridades sanitarias y las ordenadas por la autoridad judicial, previo cumplimiento de los requisitos sanitarios establecidos.
 
-### CAPÍTULO IX. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
+### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTÍCULO 202.
 
@@ -2505,7 +2689,7 @@ Las autoridades municipales correspondientes, fijarán lugares especiales para d
 
 Los Municipios deberán establecer depósitos de basura en los parques, jardines, paseos y otros lugares de la vía pública que estén dentro de su jurisdicción, además de ordenar la fumigación periódica de los mismos.
 
-### CAPÍTULO X. PROSTITUCIÓN
+### CAPÍTULO IX. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 205.
 
@@ -2525,7 +2709,7 @@ En uso de la prerrogativa referida en el artículo 184 de esta Ley, la COPRISED 
 
 En el reglamento correspondiente se establecerán los requisitos sanitarios relativos a la procedencia, manejo, tratamiento, cuidado y conservación de los animales destinados al sacrificio, así como las medidas de funcionamiento que deberán cumplir los vehículos para transportar a dichos animales.
 
-### CAPÍTULO XI. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPÍTULO X. PROSTITUCIÓN
 
 ###### ARTÍCULO 208.
 
@@ -2559,7 +2743,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 No se podrán verter desechos o líquidos que conduzcan los caños, en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso y consumo humano. En todo caso, deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPÍTULO XII. PREVENCIÓN Y CONTROL DE RABIA EN ANIMALES Y SERES HUMANOS
+### CAPÍTULO XI. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTÍCULO 215.
 
@@ -2569,7 +2753,7 @@ Las condiciones y requisitos sanitarios que deban reunir los establecimientos a 
 
 Para el funcionamiento de los establecimientos a que se refiere este capítulo, se requiere de aviso de funcionamiento.
 
-### CAPÍTULO XIII. DE LAS ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+### CAPÍTULO XII. PREVENCIÓN Y CONTROL DE RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTÍCULO 217.
 
@@ -2581,9 +2765,7 @@ Cuando se trate de enfermedades de emergencia, graves o cuando así lo requiera 
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social deberán, a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como llevar a cabo la notificación a que se refiere el artículo 144 de esta Ley.
 
-### CAPÍTULO I. AUTORIZACIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO XIII. DE LAS ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
 
 ###### ARTÍCULO 219.
 
@@ -2605,13 +2787,15 @@ No podrán ejercer la prostitución los menores de edad y las personas que padez
 
 El Estado y los Ayuntamientos elaborarán y ejecutarán programas asistenciales, dirigidos a quienes se dediquen a la prostitución, privilegiando los cursos para la capacitación y el trabajo; debiendo procurar en lo posible la creación de bolsas de trabajo para su incorporación al sector productivo.
 
-### CAPÍTULO II. REVOCACIONES DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 224.
 
 Para la construcción y acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, se deberán cumplir los requisitos que señala el artículo 185 de esta Ley.
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO II. REVOCACIONES DE AUTORIZACIONES SANITARIAS
 
 ###### ARTÍCULO 225.
 
@@ -2645,9 +2829,7 @@ Las autoridades sanitarias, en coordinación con los Ayuntamientos, mantendrán 
 
 Además de los establecimientos a que se refiere el artículo 225 de esta Ley, los Ayuntamientos deberán instalar una perrera para la guarda temporal de estos animales.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO III. CERTIFICADOS
 
 ###### ARTÍCULO 229.
 
@@ -2655,7 +2837,7 @@ Los baños públicos, albercas, gimnasios, centros de reunión y espectáculos, 
 
 ## TÍTULO DÉCIMO SEXTO. AUTORIZACIÓN Y CERTIFICADOS
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -2681,7 +2863,7 @@ Las autorizaciones sanitarias por tiempo determinado, podrán prorrogarse en los
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
-La solicitud deberá presentarse a la COPRISED, en los términos del Reglamento respectivo, con una antelación de treinta días al vencimiento de la autorización. Sólo procederá la prórroga cuando se continúen satisfaciendo los requisitos que señale (sic) esta Ley y las demás disposiciones aplicables y previo pago de los derechos correspondientes.
+La solicitud deberá presentarse a la COPRISED, en los términos del Reglamento respectivo, con una antelación de treinta días al vencimiento de la autorización. Sólo procederá la prórroga cuando se continúen satisfaciendo los requisitos que señale esta Ley y las demás disposiciones aplicables y previo pago de los derechos correspondientes.
 
 Cuando cambien de ubicación los establecimientos, requerirán de nueva licencia sanitaria.
 
@@ -2709,7 +2891,7 @@ Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autor
 
 Los derechos a que se refiere esta Ley, se regirán por lo dispuesto en la legislación fiscal aplicable y los convenios de coordinación que celebren en la materia el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -2777,7 +2959,9 @@ La COPRISED emitirá la resolución que corresponda al concluir la audiencia o d
 
 La resolución de revocación surtirá efectos de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 248.
 
@@ -2807,7 +2991,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TÍTULO DÉCIMO SÉPTIMO. VIGILANCIA SANITARIA
 
-### CAPÍTULO IV. DELITOS
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 252.
 
@@ -2911,9 +3095,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TÍTULO DÉCIMO OCTAVO. MEDIDAS DE SEGURIDAD, SANCIONES Y DELITOS
 
-### CAPÍTULO V. RECURSO DE INCONFORMIDAD
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO IV. DELITOS
 
 ###### ARTÍCULO 264.
 
@@ -3023,7 +3205,9 @@ En este caso, los responsables de la publicidad procederán a suspender el mensa
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPÍTULO VI. PRESCRIPCIÓN
+### CAPÍTULO V. RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 277.
 
@@ -3134,6 +3318,8 @@ II. A la persona que en rebeldía se niegue a cumplir los requisitos y disposici
 Esta sanción será procedente si previamente se hubiere dictado cualquier otra de las previstas en este capítulo.
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+
+### CAPÍTULO VI. PRESCRIPCIÓN
 
 ###### ARTÍCULO 292.
 
@@ -3546,3 +3732,59 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 30 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 124.- QUE CONTIENE DIVERSAS REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 125.- QUE CONTIENE DIVERSAS REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 126.- QUE CONTIENE DIVERSAS REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Acuerdo por el que se crea el Consejo Estatal de Salud en el Estado de Durango, publicado en el Periódico Oficial del Gobierno del Estado de Durango en fecha 02 de enero de 2014.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo Estatal de Salud, deberá realizar las adecuaciones que considere necesarias a su Reglamento Interior, dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 30 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 127.- QUE CONTIENE DIVERSAS REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
