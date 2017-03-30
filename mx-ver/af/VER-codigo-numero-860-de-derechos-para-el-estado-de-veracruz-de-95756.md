@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2017-03-15"
+last_updated: "2017-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2017.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -1341,21 +1341,25 @@ pericial: 14 salarios mínimos
 
 Canje trianual: 6 salarios mínimos
 
-> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2017)</small>
 
-III. Expedición de licencia permanente de
+III. Expedición de licencia de automovilista,
 
-automovilista, tipo C para conducir
+tipo C para conducir únicamente automóviles
 
-automóviles y motocicletas de servicio
-
-particular, de acuerdo con el
+de servicio particular, de acuerdo con el
 
 Reglamento de la Ley de Tránsito
 
-y Seguridad Vial, previo examen
+y Transporte, previo examen
 
-médico y pericial: 12 salarios mínimos
+médico y pericial: 12.7232 unidades de
+
+medida y actualización.
+
+Canje Trianual: 5.3013 unidades de medida
+
+y actualización.
 
 > <small>(REFORMADA, G.O. 7 DE JUNIO DE 2016)</small>
 
@@ -1467,6 +1471,16 @@ del servicio de transporte público
 
 en cualquiera de sus modalidades: 3 salarios mínimos
 
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2017)</small>
+
+La revista vehicular extemporánea
+
+del servicio de transporte público
+
+en cualquiera de sus modalidades: 5.3013 unidades de medida
+
+y actualización.
+
 f) La realización de los estudios
 
 para la modificación o ampliación
@@ -1574,6 +1588,16 @@ escolar, exclusivo de turismo y
 transporte de personal de empresas: 200 salarios mínimos
 
 b) Rural mixto: 150 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2017)</small>
+
+XIV. Por la inscripción al Padrón de Concesiones
+
+o de prestadores del servicio de transporte
+
+público en cualquiera de sus modalidades: 13.2534 unidades de medida
+
+y actualización.
 
 No se causarán estos derechos cuando la transferencia se realice por personas físicas para constituir una moral, siempre y cuando la aportación a la sociedad sea la concesión. Cuando la persona física enajene o transfiera su titularidad en la sociedad, se generará el pago previsto en esta fracción.
 
@@ -6938,3 +6962,13 @@ G.O. 15 DE MARZO DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 260 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTE, Y REFORMA Y ADICIONA DISPOSICIONES DEL CÓDIGO DE DERECHOS, AMBOS ORDENAMIENTOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Ejecutivo del Estado contará con un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, a efecto de realizar las modificaciones reglamentarias correspondientes.
