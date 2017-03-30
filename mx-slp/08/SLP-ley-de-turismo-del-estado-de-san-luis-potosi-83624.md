@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2016-10-18"
+last_updated: "2017-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -33,7 +33,9 @@ DECRETO 744
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Todo lo expuesto, conforme a las circunstancias que adquiere el turismo como sector prioritario para favorecer la inversión pública y privada, es congruente con los avances de la tecnología y las exigencias ciudadanas de mejorar el servicio turístico que promueven las instituciones públicas, concentrando su objetivo, en favorecer una mejor prestación del mismo a las personas que desean hacer de San Luis Potosí, un remanso y punto de llegada.
 
@@ -891,7 +893,9 @@ k) El Secretario de Desarrollo Social y Regional.
 
 l) El Director de la Junta Estatal de Caminos.
 
-m) El Coordinador para la Atención de los Pueblos Indígenas.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2017)</small>
+
+m) El director del Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí.
 
 n) El Director General de Protección Civil Estatal.
 
@@ -1102,3 +1106,11 @@ P.O. 18 DE OCTUBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 30 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0595.- SE REFORMA EL ARTÍCULO 85 DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado ''Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
