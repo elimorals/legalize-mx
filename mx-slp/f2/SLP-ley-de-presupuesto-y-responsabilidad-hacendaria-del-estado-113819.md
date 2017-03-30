@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2017-03-16"
+last_updated: "2017-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -296,7 +296,9 @@ Los montos establecidos en la Ley de Ingresos, y los que ejerzan en el ejercicio
 
 El gasto total propuesto por los ejecutores del gasto, en el proyecto de Presupuesto de Egresos, aquél que apruebe el Congreso del Estado o en su caso, el cabildo, y el que se ejerza en el ejercicio fiscal, no deberá presentar déficit presupuestario.
 
-En caso de que al cierre del ejercicio fiscal resulte una diferencia negativa entre el ingreso y el gasto total mayor al cuatro por ciento de los ingresos totales, la Secretaría, en el caso del Poder Ejecutivo, y las tesorerías en el caso de los municipios, deberán presentar una justificación de tal diferencia en la Cuenta Pública correspondiente.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2017)</small>
+
+En caso de que al cierre del ejercicio fiscal resulte una diferencia negativa entre el ingreso y el gasto total se aplicará lo establecido en los artículos, 6º, y 7º de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; además, la Secretaría, en el caso del Poder Ejecutivo, y las tesorerías en el caso de los municipios, deberán presentar una justificación de tal diferencia en la Cuenta Pública correspondiente.
 
 Los poderes, Legislativo; y Judicial, y los entes autónomos, en la programación y presupuestación de sus respectivos proyectos, así como en la ejecución de sus presupuestos aprobados, deberán ajustarse a los montos autorizados.
 
@@ -308,11 +310,19 @@ Sin perjuicio de lo dispuesto en el artículo 48 de esta Ley, no procederá pago
 
 Las iniciativas de ley o de Decreto que se presenten a la consideración del Congreso del Estado deberán ir acompañadas por una evaluación del impacto presupuestario del mismo, la cual será validada por el Ejecutivo Estatal, previo a su aprobación.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+La aprobación y ejecución de nuevas obligaciones financieras derivadas de la normatividad estatal, se realizará en el marco del principio de balance presupuestario sostenible, por lo cual se sujetarán a la capacidad financiera de la Entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-El Ejecutivo Estatal, por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos, con cargo a los excedentes que, en su caso, resulten de los ingresos autorizados en la Ley de Ingresos, conforme a lo siguiente:
+El Ejecutivo Estatal, por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos, con cargo a los ingresos excedentes derivados de ingresos de libre disposición que, en su caso, resulten de los ingresos autorizados en la Ley de Ingresos, conforme a lo siguiente:
 
-I. Los excedentes de ingresos que resulten de la Ley de Ingresos, distintos a los previstos en las fracciones II y III de este artículo, se destinarán preferentemente a la amortización anticipada de la deuda pública; al pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones; así como al pago del incremento del gasto programable respecto del presupuestado;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
+
+I. Los excedentes de ingresos que resulten de la Ley de Ingresos, distintos a los previstos en las fracciones II y III de este artículo, se destinarán el cincuenta por ciento preferentemente a la amortización anticipada de la deuda pública; al pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones; así como al pago del incremento del gasto programable respecto del presupuestado;
 
 II. En el caso de los ingresos que tengan un destino específico por disposición expresa de leyes de carácter fiscal, o conforme a éstas se cuente con autorización de la Secretaría para utilizarse en un fin específico, ésta podrá autorizar las ampliaciones a los presupuestos de las dependencias o entidades que los generen, hasta por el monto de los ingresos excedentes obtenidos que determinen dichas leyes o, en su caso, la Secretaría, y
 
@@ -321,6 +331,10 @@ III. Los excedentes de ingresos propios de las entidades se destinarán a las mi
 El Ejecutivo Estatal reportará en los informes trimestrales, y en, la Cuenta Pública, las erogaciones adicionales realizadas en los términos del presente artículo.
 
 Los municipios deberán solicitar a sus respectivos cabildos, el ejercicio de los gastos que contengan las características señaladas en este artículo.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+Los ingresos excedentes derivados de ingresos de libre disposición del Estado y los municipios podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando el Estado y los municipios se clasifiquen en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas emitido por la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTÍCULO 21.
 
@@ -548,7 +562,13 @@ h) Un apartado que contenga las principales variaciones que se proponen con resp
 
 i) La información que permita distinguir el gasto regular de operación; el gasto adicional que se propone, y las propuestas de ajustes al gasto.
 
-j) La estimación de las amortizaciones y el pago de intereses de la deuda pública para el año que se presupuesta y de los siguientes dos ejercicios fiscales, y
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
+
+j) La estimación de las amortizaciones y el pago de intereses de la deuda pública para el año que se presupuesta y de los siguientes dos ejercicios fiscales.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+k) Un apartado que prevea recursos para atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionados por la ocurrencia de desastres naturales, de conformidad a lo establecido en la Ley de Disciplina Financiera de la (sic) Entidades Federativas y los Municipios, y
 
 III. Los anexos informativos, los cuales contendrán:
 
@@ -1189,3 +1209,11 @@ Para el ejercicio fiscal 2019, éstas deberán contar con un veinte por ciento d
 Para el ejercicio fiscal 2020, éstas deberán contar con un treinta por ciento del total de sus recursos, que tenga como origen una fuente legal diversa al financiamiento otorgado con cargo al Presupuesto de Egresos del Estado.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0596.- SE REFORMA (SIC) LOS ARTÍCULOS 18, 20 Y 37; Y SE ADICIONA A LOS ARTÍCULOS, 19 PÁRRAFO ÚLTIMO, 20 PÁRRAFO ÚLTIMO, Y 37 EN SU FRACCIÓN II EL INCISO K), DE Y A LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+Primero. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
