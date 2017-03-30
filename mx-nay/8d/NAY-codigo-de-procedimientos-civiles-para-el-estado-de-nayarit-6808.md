@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2016-11-08"
+last_updated: "2017-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -3861,15 +3861,13 @@ En el caso de menores que cuenten con la edad de entre cinco a diez años, la di
 
 En cualquier estado del juicio el Juez podrá ordenar que la custodia de los hijos quede al cuidado de uno de los padres o de otra persona, y podrá además, de oficio o a petición de parte, acordar las medidas precautorias que juzgue adecuadas
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2017)</small>
 
 ###### ARTICULO 507 Bis.
 
-Podrá ejercitarse acción para retener o recuperar la posesión de derechos paterno-filiales.
+En todo momento se podrá ejercitar acción para retener o recuperar el ejercicio de las relaciones paterno-filiales. Para resolver dichas acciones el juez garantizará que las niñas, niños y adolescentes expresen de manera libre su opinión conforme a su edad, su desarrollo evolutivo, cognitivo y madurez, caso contrario el juez considerará lo señalado en el artículo 409 del Código Civil.
 
-> <small>(F. DE E., P.O. 10 DE ENERO DE 2001)</small>
-
-Cuando se trate de la posesión de estado de hijos menores de siete años, éstos deberán permanecer al lado de su madre, salvo que ésta realice actos inmorales que tiendan a la corrupción de aquellos o tenga hábito de embriaguez o haga uso indebido y persistente de drogas enervantes que amenacen causar la ruina de sus hijos.
+Al momento de decidir sobre la guarda, custodia y patria potestad el juez deberá considerar cualquier medio probatorio que genere convicción ponderando en todo momento el interés superior del menor para garantizar su pleno y libre desarrollo.
 
 ###### ARTICULO 508.
 
@@ -5378,3 +5376,9 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 30 DE MARZO DE 2017.
+
+[N DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 507 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT, EN MATERIA DE RELACIONES PATERNO FILIALES”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
