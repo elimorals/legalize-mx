@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2016-12-20"
+last_updated: "2017-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -261,8 +263,6 @@ I. A la presente, Ley Ambiental del Estado de San Luis Potosí, la Ley;
 
 II. A la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la LGEEPA;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
 III. A la Secretaría de Medio Ambiente y Recursos Naturales, la SEMARNAT;
@@ -409,8 +409,6 @@ II. La aplicación de los principios e instrumentos de política ambiental previ
 
 III. La participación en la formulación, aprobación y expedición de los planes de ordenamiento ecológico del territorio a que se refiere el artículo 20 Bis 4 de la LGEEPA, en los términos en ella previstos, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dichos planes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
 
 III BIS. Expedir los reglamentos para el cumplimiento de las atribuciones que le otorga esta Ley;
@@ -441,8 +439,6 @@ XIII. Requerir a quienes realicen actividades contaminantes, la instalación de 
 
 XIV. La vigilancia del cumplimiento de las normas oficiales mexicanas expedidas por la federación, en las materias y supuestos a que se refieren las fracciones III, IV, VI y VII del artículo 8 de la LGEEPA, así como de la normatividad estatal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
 XV. Solicitar a la SEMARNAT exija la instalación de equipos de control de emisiones, en los casos de actividades que se realicen en la Entidad y sean de competencia federal;
@@ -452,8 +448,6 @@ XVI. (DEROGADA, P.O. 1 DE AGOSTO DE 2013)
 XVII. Aplicar las medidas de tránsito y vialidad necesarias para reducir los niveles de emisión de contaminantes a la atmósfera de los vehículos automotores, incluso limitar su circulación cuando los niveles de emisión de contaminantes excedan los máximos permisibles, establecidos en la normatividad ambiental;
 
 XVIII. La formulación y conducción de la política municipal de información y difusión en materia ambiental;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -484,8 +478,6 @@ XXVII. Aplicar por sí o a través de los organismos operadores del agua, las cu
 XXVIII. Elaborar informes periódicos sobre el estado del ambiente en el respectivo municipio;
 
 XXIX. Celebrar con la federación, el Estado y los sectores social y privado, convenios de concertación para la realización de acciones en las materias de esta Ley y que se encuentren en su órbita de competencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -581,8 +573,6 @@ XVII. La gestión ambiental municipal, así como la descentralización de funcio
 
 En la planeación estatal del desarrollo se deberá incorporar la política ambiental y el ordenamiento ecológico del territorio de la Entidad, que se establezcan de conformidad con la LGEEPA, esta Ley y las demás disposiciones en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
 
 En la planeación y realización de las acciones a cargo de las dependencias y entidades de la administración pública estatal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno del Estado para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental que establezcan el Plan Estatal de Desarrollo, el Programa Estatal de Acción ante el Cambio Climático, y los programas correspondientes.
@@ -590,8 +580,6 @@ En la planeación y realización de las acciones a cargo de las dependencias y e
 ###### ARTICULO 14.
 
 Los instrumentos mediante los cuales el Estado y los ayuntamientos, en su caso, llevarán a cabo los propósitos de la política ambiental, son los siguientes:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -629,19 +617,13 @@ II. La vocación de cada zona o región en función de sus recursos naturales, l
 
 III. El deterioro ambiental existente en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
 IV. El equilibrio dinámico que debe existir entre los asentamientos humanos y sus condiciones ambientales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
 V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -747,11 +729,43 @@ I. Creación de parques estatales en determinadas áreas de las localidades care
 
 II. Establecimiento de reservas estatales en las que exista uno o más ecosistemas en buen estado de preservación o mantenimiento;
 
-III. Constitución de otras áreas y elementos naturales protegidos de jurisdicción local para efectos de su control, prevención de su deterioro, mejoramiento de sus condiciones naturales o restauración de éstas.
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+III. Protección de monumentos naturales estatales en áreas que contengan uno o varios elementos naturales, consistentes en lugares u objetos naturales que, por su carácter único o excepcional, interés estético, valor histórico o científico, se resuelva incorporar a un régimen de protección absoluta. Tales monumentos no tienen la variedad de ecosistemas, ni la superficie necesaria para ser incluidos en otras categorías de manejo;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+IV. Establecimiento de áreas de protección de recursos hídricos estatales, destinados a la preservación de zonas de protección de cuerpos o cauces de agua perenes o no de jurisdicción estatal, previa declaratoria expedida por el propio titular del Ejecutivo, en los términos de la fracción V del artículo 6° de la Ley de Aguas para el Estado de San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+V. Determinación de áreas de protección estatal de la flora y la fauna, donde se promueva la realización de actividades inherentes a la preservación, repoblación, propagación, aclimatación, refugio, investigación y aprovechamiento sustentable de especies de flora y fauna, así como las relativas a educación y difusión en la materia;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+VI. Establecimiento de santuarios naturales estatales en zonas caracterizadas por una considerable riqueza de flora o fauna, o por la presencia de especies, subespecies o hábitats de distribución restringida. Dichas áreas abarcarán cañadas, vegas, relictos, grutas, cavernas, cenotes, u otras unidades topográficas o geográficas que requieran ser preservadas o protegidas;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
+
+VII. Establecimiento de áreas estatales destinadas voluntariamente a la conservación, conforme los términos del artículo 29 Bis de este Ordenamiento;
+
+VIII. Constitución de otras áreas y elementos naturales protegidos de jurisdicción local para efectos de su control, prevención de su deterioro, mejoramiento de sus condiciones naturales o restauración de éstas.
 
 La constitución de otras áreas a que se refiere el párrafo anterior, la categoría de éstas y sus procedimientos respectivos se establecerán en el decreto de creación del Sistema Estatal de Areas Naturales Protegidas, y
 
-IV. Regulación de los usos del suelo, el aprovechamiento de los recursos naturales y la realización de actividades, cuando los fenómenos de deterioro ambiental lo exijan en forma inminente.
+IX. Regulación de los usos del suelo, el aprovechamiento de los recursos naturales y la realización de actividades, cuando los fenómenos de deterioro ambiental lo exijan en forma inminente.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+ARTICULO 29 BIS. Las organizaciones sociales, personas morales, públicas o privadas, los pueblos indígenas y demás personas interesadas, podrán destinar voluntariamente a la conservación predios de su propiedad, mismos que establecerán, administrarán y manejarán conforme a lo siguiente:
+
+I. Una vez expedido el decreto correspondiente, la Secretaría de Ecología y Gestión Ambiental extenderá certificado en los términos del Reglamento;
+
+II. Las áreas estatales destinadas voluntariamente a la conservación se administrarán por su propietario, y se manejarán conforme al plan de manejo definido en conjunto con la Secretaría de Ecología y Gestión Ambiental;
+
+III. Cuando en las áreas estatales destinadas voluntariamente a la conservación se realice el aprovechamiento sustentable de recursos naturales, los productos obtenidos podrán ostentar un sello de sustentabilidad expedido por la Secretaría de Ecología y Gestión Ambiental, conforme al procedimiento previsto en el Reglamento, y
+
+IV. El Reglamento establecerá los procedimientos relativos a la modificación de superficies o planes de manejo, así como la transmisión, extinción o prórroga de los certificados expedidos por la Secretaría de Ecología y Gestión Ambiental.
 
 ###### ARTICULO 30.
 
@@ -894,8 +908,6 @@ La SEGAM o el organismo público descentralizado que se hubiese creado, llevará
 En el registro se consignarán los datos relacionados con el establecimiento del área de que se trate, los contenidos de la declaratoria respectiva, así como los relativos a su inscripción en el Registro Público de la Propiedad y del Comercio correspondiente.
 
 La SEGAM promoverá ante las autoridades responsables de cada área, la incorporación de apropiadas reglas de manejo que incluyan la conservación, administración, desarrollo y vigilancia de las áreas integrantes del sistema.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -1095,8 +1107,6 @@ IV. Proyecto, memoria descriptiva, especificaciones técnicas para la explotaci�
 
 V. Dictamen de factibilidad otorgado por el Municipio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
 VI. Autorizaciones, cuando corresponda, de la SEMARNAT para cambio de uso del suelo de terrenos forestales o de aptitud preferentemente forestal; y de la CNA, en su caso, para la protección de mantos freáticos; y de la Secretaría de la Defensa Nacional para el uso, almacenamiento y transporte de pólvora y explosivos, y
@@ -1239,25 +1249,17 @@ c). En general todas aquellas que no sean de competencia estatal o federal.
 
 Para la protección a la atmósfera la SEGAM considerará los siguientes criterios:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
 I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las zonas del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
 II. Las emisiones de contaminantes a la atmósfera, sean de fuentes artificiales o naturales, deben ser reducidas y controladas para asegurar una calidad del aire satisfactoria para el bienestar de la población y del ambiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2011)</small>
 
 III. La mitigación de los efectos que coadyuvan en el cambio climático, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2011)</small>
 
@@ -1279,8 +1281,6 @@ V. Establecerán y operarán sistemas de verificación de emisiones de vehículo
 
 VI. Llevarán un registro de los centros de verificación vehicular y mantendrán actualizado un informe de los resultados obtenidos en la medición de las emisiones contaminantes realizadas en dichos centros;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
 VII. Llevarán a cabo campañas para racionalizar el uso del automóvil particular, así como para la afinación y mantenimiento de los motores, y promover la utilización de combustibles menos contaminantes;
@@ -1295,19 +1295,13 @@ X. Establecerán requisitos y procedimientos para regular las emisiones del tran
 
 XI. Emitirán las disposiciones y establecerán las medidas tendientes a evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados, solventes y otras; así como las quemas con fines de desmontes o deshierbe de terrenos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
 XII. Tomarán las medidas preventivas para evitar contingencias ambientales por contaminación atmosférica;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
 XIII. Formularán y aplicarán estrategias para la atención, prevención y adaptabilidad de los efectos del cambio climático, utilizando un enfoque precautorio, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -1388,8 +1382,6 @@ III. La quema de cualquier tipo de desecho y residuo sólido y líquido, incluye
 Los simulacros de incendios podrán ser autorizados por la SEGAM en coordinación con las autoridades de Protección Civil en el Estado, bajo las condiciones de seguridad que el caso amerite, previa solicitud e informes de su ubicación, así como de los materiales que serán empleados como combustibles.
 
 Los productores, agricultores, ganaderos, así como todos aquellos que realicen actividades similares en áreas ubicadas fuera de los centros de población, por sí o a través de las asociaciones o grupos en que se encuentren constituidos, deberán elaborar un plan de prevención de contingencias ambientales, mismo que deberán presentar previamente a la ejecución de cualquier quema a cielo abierto ante la SEGAM para ser evaluado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -1774,8 +1766,6 @@ VIII. De instalación de centros de acopio de residuos sólidos reciclables, tal
 ###### ARTICULO 114.
 
 La prevención y control de las contingencias ambientales que se generen en el territorio de la Entidad, corresponderá al Sistema Estatal de Protección Civil.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -2986,3 +2976,13 @@ P.O. 20 DE DICIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+P.O. 30 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0597.- SE ADICIONA AL ARTÍCULO 29 CINCO FRACCIONES Y EL ARTÍCULO 29 BIS, DE Y A LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. El Reglamento señalado en el artículo 29 Bis que se adiciona, se expedirá por el Ejecutivo del Estado en un término que no exceda de ciento veinte días posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO. Se derogan todas aquellas disposiciones legales y administrativas que se opongan a este Decreto.
