@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2016-10-22"
+last_updated: "2017-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -521,8 +523,6 @@ VII. La Comisión de Asuntos Migratorios, tendrá a su cargo la elaboración de 
 
 VIII. La Comisión de Atención a Movimientos Sociales se encargará de atender y canalizar de forma institucional las peticiones y propuestas que formulen las organizaciones civiles y ciudadanas ante el Congreso del Estado, rindiendo un informe escrito mensual de estas gestiones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ADICIONADA, P.O. 26 DE OCTUBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO PUBLICADO EL 29 DE ENERO DE 2011, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
 
 IX. La Comisión de Ciencia, Tecnología e Innovación ejercerá las siguientes atribuciones:
@@ -611,11 +611,9 @@ XXIV. La Comisión de Gobernación efectuará los estudios relativos a conflicto
 
 XXV. La Comisión de Hacienda, tendrá a su cargo el estudio de las leyes fiscales del Estado y las de los Municipios y dictaminará sobre aquellos casos que se presenten relativos a modificaciones básicas a dichas leyes. Esta Comisión será la encargada de recibir de la Secretaria de Finanzas del Gobierno del Estado, las cantidades de dinero presupuestado para el pago de dietas a los Diputados y sueldos de los empleados y trabajadores de la Legislatura, coordinando sus tareas con el Tesorero;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
 
-XXVI. La Comisión de Honor, Justicia y Régimen Parlamentario conocerá de todos aquellos casos en que los Diputados violen reiteradamente las disposiciones contenidas en la Ley Orgánica del Poder Legislativo y de su Reglamento, escuchará en audiencia a los Diputados infractores, y de ser procedente, los amonestará en privado o en público en caso de reincidencia.
-
-Así mismo serán de su competencia preparar proyectos de ley o decreto para adecuar las normas que rigen la actividad del Congreso, de dictaminar las propuestas que se presenten en esta materia y de resolver las consultas que en el mismo ámbito decidan plantearle los organismos constituidos en virtud de esta Ley, y aquellas que se refieran al protocolo.
+XXVI. La Comisión de Estudios Legislativos conocerá, estudiará, analizará y dictaminará las iniciativas de leyes y decretos, presentadas ante el Congreso, respecto a la Ley Orgánica del Poder Legislativo del Estado de Oaxaca, el Reglamento Interior del Congreso del Estado de Oaxaca y las normas que rijan las actividades del Congreso.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -1725,8 +1723,14 @@ SEGUNDO. En un término de treinta días siguientes a la publicación de la pres
 
 P.O. 22 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2085.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA Y SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2085.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA Y SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Los integrantes de la Comisión Permanente de Atención a la Zona Económica Especial serán nombrados a propuesta de la Junta de Coordinación Política del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
+
+P.O. 30 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 577.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 37 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Estado.
