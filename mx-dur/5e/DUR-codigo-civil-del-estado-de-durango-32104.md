@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2017-03-16"
+last_updated: "2017-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -3383,9 +3383,9 @@ ART. 722.- Sólo puede constituirse el patrimonio de la familia con bienes sitos
 
 ART. 723.- Cada familia sólo puede constituir un patrimonio. Los que constituyen subsistiendo el primero no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2017)</small>
 
-ART. 724.- El valor máximo permitido en términos de ley, respecto de los bienes que conforman el patrimonio de la familia, será de 75 salarios mínimos generales vigentes en el Estado, elevados al año. El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente tampoco será embargable; pero el valor original y su incremento, si podrán disminuirse para encuadrarse dentro de los límites establecidos por este Código.
+ART. 724.- El valor máximo permitido en términos de ley, respecto de los bienes que conforman el patrimonio de la familia, será de 86 Unidades de Medida y Actualización, elevadas al año. El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente tampoco será embargable; pero el valor original y su incremento, si podrán disminuirse para encuadrarse dentro de los límites establecidos por este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -10604,3 +10604,11 @@ P.O. 16 DE MARZO DE 2017.
 PRIMERO.- El presente decreto entra en vigor a los 60 días de su publicación en el Periódico Oficial del Gobierno del Estado, lapso durante el cual, deberá llevarse a cabo la capacitación de notarios y personal que designaren al efecto, para operar los sistemas informáticos y formatos que se llegaren a determinar. Lo mismo se hará en lo que concierne a la Dirección General de Notarias y su personal.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 123.- QUE CONTIENE REFORMAS AL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
