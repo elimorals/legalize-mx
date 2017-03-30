@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2016-11-09"
+last_updated: "2017-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 589 DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -917,6 +917,10 @@ III. Al solicitante se le detecte alguna incapacidad física o mental, clínicam
 
 IV. La documentación o informes proporcionados sean falsos.
 
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2017)</small>
+
+Cuando se trate de renovar una licencia expedida en otra entidad federativa o de la Federación, la expedición de la misma se entenderá por primera vez o como licencia inicial.
+
 ###### Artículo 59.
 
 Cuando el titular de una licencia, por prescripción médica, deba usar lentes, prótesis o aparatos ortopédicos, éstas restricciones se harán constar en la licencia.
@@ -1070,6 +1074,10 @@ Los conductores y los pasajeros se abstendrán de arrojar, depositar o abandonar
 ###### Artículo 73.
 
 A los conductores de vehículos de transporte público les queda prohibido abastecer de combustible a los mismos con pasaje a bordo.
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2017)</small>
+
+El pago del servicio por abastecimiento de combustible de las unidades destinadas al transporte público, en cualquiera de sus modalidades y submodalidades, será preferentemente mediante tarjeta de prepago, vales, convenios o cualquier otro medio reconocido por la ley, para cuyo efecto el titular de la concesión adoptará las medidas pertinentes a fin de cumplir con esta disposición.
 
 ###### Artículo 74.
 
@@ -1527,9 +1535,11 @@ Las características y requisitos para prestar el servicio de transporte públic
 
 La Dirección de Transporte podrá modificar las rutas en las que se preste el servicio de transporte público de pasajeros concesionado, de acuerdo con los estudios que realice sobre las necesidades de los usuarios. Las extensiones de ruta formarán parte de las concesiones otorgadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2017)</small>
+
 ###### Artículo 120.
 
-Los vehículos que se utilicen para prestar el servicio de transporte público reunirán las características, condiciones técnicas, uniformidad de color y demás requisitos que, para tal efecto, fijen esta Ley y su Reglamento.
+Los vehículos que se utilicen para prestar el servicio de transporte público reunirán las características, condiciones técnicas, engomados respectivos, uniformidad de color por municipio y demás requisitos que, para tal efecto, fijen esta Ley y su Reglamento.
 
 Los vehículos mencionados en el párrafo anterior deberán ser, por lo menos, del modelo correspondiente al año del otorgamiento de la concesión, en lo subsecuente estarán en circulación mientras el concesionario compruebe que la unidad está en condiciones de prestar el servicio con seguridad y comodidad para los usuarios y aprueben la verificación vehicular correspondiente.
 
@@ -1541,9 +1551,13 @@ A los vehículos destinados a las modalidades de urbano, suburbano, foráneo y r
 
 Los vehículos que presten el servicio en las modalidades de urbano, suburbano y foráneo deberán estar equipados con gobernadores electrónicos de velocidad variable, circuitos para cerrar automáticamente sus puertas y que impidan que se abran mientras el vehículo se encuentre en movimiento o no permitan la marcha de la unidad si las puertas están abiertas; un sistema de posicionamiento global electrónico y dispositivos de conteo de pasajeros.
 
-> <small>(ADICIONADO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2017)</small>
 
-Para contribuir a mejorar la movilidad, la Secretaría promoverá la firma de convenios para la prestación del servicio en la modalidad de Transporte Escolar, en el que participen padres de familia, Secretaría de Educación de Veracruz y los concesionarios.
+Los vehículos destinados al servicio de transporte público en las submodalidades de urbano, suburbano y foráneo, deberán contar con un botón de pánico que permita al usuario emitir una alerta de agresión.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2017)</small>
+
+Para contribuir a mejorar la movilidad, la Secretaría promoverá la firma de convenios para la prestación del servicio en la modalidad de transporte escolar, en el que participen padres de familia, la Secretaría de Educación de Veracruz y los concesionarios.
 
 ###### Artículo 121.
 
@@ -1551,7 +1565,9 @@ Los vehículos contarán con equipo anticontaminante y cumplirán con las normas
 
 Los concesionarios procurarán otorgar las condiciones de accesibilidad para personas con capacidades diferentes, de la tercera edad y mujeres en período de gestación.
 
-La instalación de publicidad en los vehículos del servicio de transporte público se sujetará a las disposiciones que determine la autoridad de Transporte.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2017)</small>
+
+La instalación de publicidad en los vehículos del servicio de transporte público se sujetará a las disposiciones que determine la autoridad de transporte. Se prohíbe la instalación de propaganda política en las unidades del servicio de transporte público en todas las modalidades y submodalidades previstas en el artículo 118 de esta Ley.
 
 El transporte de materiales y residuos peligrosos se realizará de conformidad con la reglamentación correspondiente.
 
@@ -1591,33 +1607,47 @@ En el caso de las concesiones para prestar el servicio de transporte público de
 
 Para el otorgamiento de concesiones para prestar el servicio de transporte público de pasajeros en su modalidad de rural mixto carga-pasaje y previa la formulación del estudio socioeconómico y técnico que realice la Dirección de Transporte, el titular de la concesión cuya vigencia haya expirado, tendrá preferencia a que se le otorgue otra en la modalidad que corresponda, para la misma localidad y municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2017)</small>
 
 ###### Artículo 126.
 
-A las personas físicas sólo se les otorgará una concesión para prestar el servicio de transporte público de pasajeros en las modalidades de taxi, exclusivo de turismo, recreativo, escolar o rural mixto carga-pasaje; y hasta tres concesiones en las modalidades de urbano, suburbano, foráneo, carga en general y carga materialista.
+Las personas físicas podrán obtener hasta cinco concesiones en la modalidad de pasajeros. En las demás modalidades podrán obtener hasta tres concesiones.
 
-En los términos que establece el artículo 123 de esta Ley, a las personas morales se les otorgarán las concesiones que resulten necesarias para las modalidades de urbano, suburbano, foráneo, exclusivo de turismo, para personal de empresas y carga especializada.
+En los términos que establece el artículo 123 de esta Ley, las personas morales podrán obtener las concesiones ya existentes para la modalidad de pasajeros y de carga especializada, sin que ello implique el otorgamiento de nuevas concesiones.
 
-> <small>(REFORMADO, G.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2017)</small>
 
 ###### Artículo 127.
 
-Las concesiones que se otorguen para prestar el servicio de transporte público en la modalidad de taxi se equipararán al patrimonio familiar, y por lo mismo son inalienables, inembargables e intransferibles, salvo en caso de gran necesidad debidamente acreditada, a juicio del Secretario. Su regulación y control se regirán por las disposiciones aplicables del Código Civil para el Estado de Veracruz de Ignacio de la Llave.
+Las concesiones que se otorguen para prestar el servicio de transporte público, en la modalidad de pasajeros, submodalidad de taxi, se equipararán al patrimonio familiar, y por lo mismo son inalienables e inembargables.
 
-Con la excepción señalada en el párrafo anterior, los derechos que ampara una concesión para prestar el servicio de transporte público en todas las demás modalidades podrán ser transferidos a terceros, previa autorización escrita otorgada por la Secretaría, siempre que se cumpla con las condiciones y requisitos establecidos en la presente Ley y su Reglamento.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2017)</small>
 
-Para que la Secretaría otorgue la autorización de transferencia de derechos a que se refiere el párrafo anterior, se requerirá que:
+Los derechos que ampara una concesión para prestar el servicio de transporte público podrán ser transferidos a terceros, previa autorización de la Dirección de Transporte, siempre que se cumpla con las condiciones y requisitos establecidos en la Ley y Reglamento de la materia, además de que:
 
-I. El titular de la concesión haya ejercido el derecho que de ella emana, cuando menos cinco años antes de la presentación de la solicitud de transferencia;
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 30 DE MARZO DE 2017)</small>
+
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2017)</small>
+
+I. El titular de la concesión haya ejercido el derecho que de ella emana, cuando menos dos años antes de la presentación de la solicitud de transferencia;
+
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
 
 II. Haya una solicitud por escrito del concesionario y del aspirante a los derechos derivados de la concesión;
 
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
+
 III. Los documentos del concesionario y del aspirante cumplan con todo lo dispuesto en el Reglamento de esta Ley;
+
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
 
 IV. El interesado cubra ante la oficina de Hacienda del Estado de la localidad el importe de los derechos respectivos; y
 
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
+
 V. Con motivo de la transferencia no se infrinja ninguna disposición legal o reglamentaria.
+
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2011)</small>
 
 El Gobierno del Estado no otorgará otra concesión, en la misma modalidad, al concesionario que haya transferido sus derechos.
 
@@ -1675,9 +1705,17 @@ X. Inscribirse en el Registro de Transporte Público;
 
 XI. Prestar el servicio de manera gratuita, por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias o causas análogas que les informe la Secretaría de Seguridad Pública;
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2017)</small>
 
-XII. Proporcionar a la Dirección de Transporte los padrones de los operadores de las unidades concesionadas, con la periodicidad que indique el Reglamento;
+XII. Inscribir en el Registro Estatal de Conductores de la Dirección de Transporte a los operarios del o los vehículos que tengan autorizados para la prestación del servicio de transporte público con la periodicidad que indique el reglamento, para cuyo efecto, entre otros requisitos, deberá presentarse certificado médico y antidoping expedido por una institución pública de salud o privada debidamente certificada, por el que se acredite que el conductor u operador a inscribirse no es adicto a estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares y que no padece enfermedades que le impidan utilizar unidades de motor y ello ponga en riesgo la seguridad de los usuarios.
+
+Para los efectos del párrafo anterior, los concesionarios están obligados a exigir que el conductor u operador de la unidad destinada al servicio de transporte público se practique los exámenes médicos correspondientes, con la periodicidad que indique el reglamento.
+
+No se autorizará el registro a los conductores que presenten alguna adicción a estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares o hayan intervenido en la comisión de actos ilícitos en la prestación del servicio de transporte público;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2017)</small>
+
+XII Bis. Proporcionar a sus conductores u operadores la tarjeta de prepago, vales, convenios o cualquier otro medio reconocido por la ley para servicio de abastecimiento de combustible para las unidades destinadas al transporte público;
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -1729,31 +1767,61 @@ X. El vehículo, una terminal o un servicio conexo no reúnan las condiciones de
 
 XI. Se cometan, de manera reiterada, infracciones a las disposiciones contenidas en la presente Ley y su Reglamento; y
 
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2017)</small>
 
-XII. Se preste el servicio de transporte público en cualquiera de sus modalidades en una localidad distinta a aquella para la cual se otorgó la concesión.
+XII. Se preste el servicio de transporte público en cualquiera de sus modalidades en una localidad distinta a aquella para la cual se otorgó la concesión;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2017)</small>
+
+XIII. En la prestación del servicio, el vehículo sea conducido por quien carezca de la licencia correspondiente a la modalidad de que se trate o teniéndola esté suspendida su vigencia; y
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2017)</small>
+
+XIV. Que el conductor de la unidad opere la misma en estado de ebriedad, bajo el influjo de sustancias tóxicas o psicotrópicas o con temeridad. Se entiende que el conductor opera con temeridad cuando circula o conduce la unidad vehicular del servicio de transporte público, sin tomar las medidas mínimas de seguridad que marcan esta Ley y su Reglamento, y pone en peligro la vida o la integridad de cualquier persona o pone en riesgo los bienes de las mismas e incluso los propios. En relación a la causal señalada, a quien incurra en ella se le retirará de manera permanente la licencia de manejo.
 
 No procederá la suspensión cuando el concesionario pruebe que previamente adoptó las medidas idóneas para impedir la causa que la origina. Cuando el responsable sea el conductor del vehículo, se le suspenderá la licencia para conducir hasta por el término que se indica en el artículo 61 de esta Ley, independientemente de las sanciones que le puedan ser aplicadas en los términos de esta Ley y su Reglamento.
 
-> <small>(REFORMADO, G.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2017)</small>
 
 ###### Artículo 133.
 
-Las concesiones terminan por:
+Las concesiones se cancelarán por:
+
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
 
 I. Renuncia del titular;
 
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
+
 II. Revocación;
+
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
 
 III. Rescate;
 
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
+
 IV. Desaparición del objeto o de la finalidad de la concesión;
 
-V. Liquidación o quiebra; y
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+V. Liquidación o quiebra;
 
-VI. Fallecimiento del titular, cuando las personas con derecho a heredar no procedan a notificar el hecho a la Dirección de Transporte, en el término de los sesenta días naturales siguientes.
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2017)</small>
+
+VI. Fallecimiento del titular, cuando las personas con derecho a heredar no procedan a notificar el hecho a la Dirección de Transporte, en el término de los tres años siguientes;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2017)</small>
+
+VII. Cuando sin causa justa, el concesionario o permisionario no cumpla con los lineamientos, planes y programas, que en materia de transporte emita la autoridad del ramo;
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2017)</small>
+
+VIII. Cuando sean otorgadas violándose las disposiciones legales y reglamentarias en la materia; y
+
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2017)</small>
+
+IX. En los demás casos previstos en la Ley.
 
 ###### Artículo 134.
 
@@ -1787,17 +1855,17 @@ X. Se instalen en un vehículo de transporte público placas de circulación o a
 
 XI. Se cause la muerte de alguna persona con la unidad vehicular autorizada para prestar el servicio de transporte público y, además, concurra alguna de las causas señaladas en la fracción VII de este artículo;
 
-> <small>(ADICIONADA, G.O. 13 DE ABRIL DE 2011)</small>
+XII. (DEROGADA, G.O. 30 DE MARZO DE 2017)
 
-XII. En la prestación del servicio, el vehículo sea conducido por quien carezca de la licencia correspondiente a la modalidad de que se trate o teniéndola esté suspendida su vigencia; y
+XIII. (DEROGADA, G.O. 30 DE MARZO DE 2017)
 
-> <small>(ADICIONADA, G.O. 13 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2017)</small>
 
-XIII. Que el conductor de la unidad opere la misma en estado de ebriedad, bajo el influjo de sustancias toxicas o psicotrópicas o con temeridad. Se entiende que el conductor opera con temeridad cuando circula o conduce la unidad vehicular del servicio de transporte público, sin tomar las medidas mínimas de seguridad que marcan esta Ley y su Reglamento, y pone en peligro la vida, la integridad de cualquier persona o pone en riesgo los bienes de las mismas e incluso los propios.
+XIV. En la prestación del servicio de transporte público, el vehículo autorizado sea utilizado en la comisión de delitos contra la salud o delincuencia organizada, una vez acreditada la responsabilidad penal del concesionario, ya sea ésta de carácter intencional o por encubrimiento; y
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2014)</small>
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2017)</small>
 
-XIV. En la prestación del servicio de transporte público, el vehículo autorizado sea utilizado en la comisión de delitos contra la salud o delincuencia organizada, una vez acreditada la responsabilidad penal del concesionario, ya sea ésta de carácter intencional o por encubrimiento.
+XV. El vehículo autorizado para la prestación del servicio de transporte público sea abastecido de combustible fuera de estaciones legalmente establecidas para ese fin.
 
 ###### Artículo 135.
 
@@ -2316,3 +2384,13 @@ G.O. 9 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 260 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y TRANSPORTE, Y REFORMA Y ADICIONA DISPOSICIONES DEL CÓDIGO DE DERECHOS, AMBOS ORDENAMIENTOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Ejecutivo del Estado contará con un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, a efecto de realizar las modificaciones reglamentarias correspondientes.
