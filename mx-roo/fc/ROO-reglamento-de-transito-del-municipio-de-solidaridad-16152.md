@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-transito-del-municipio-de-solidaridad-16152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2017-02-17"
+last_updated: "2017-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE TRÁNSITO DEL MUNICIPIO SOLIDARIDAD EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de noviembre de 1999.
 
@@ -609,13 +609,19 @@ Sólo en caso de estar ausente el conductor del vehículo, la autoridad de trán
 
 Toda persona que porte licencia de conducir vigente, expedida por autoridad facultada para ello, de otra entidad federativa o del extranjero, podrá manejar en el Municipio de Solidaridad el tipo de vehículo que la misma señale, independientemente del lugar en que se haya registrado el vehículo. No procederá esta disposición para los operadores de vehículos de servicio público de transporte.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2017)</small>
 
 ###### Artículo 53.
 
-La Dirección de Tránsito expedirá las licencias de conducción de vehículos que podrán tener una vigencia de 2 a 5 años. En caso de licencias de conducir para el servicio público sólo se expedirán licencias con vigencia máxima de 1 año.
+La Dirección de Tránsito expedirá las licencias de conducción de vehículos que podrán tener una vigencia de 2 a 5 años. En caso de licencias de conducir para el servicio público sólo se expedirán licencias con vigencia máxima de 2 años.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2015)</small>
 
 No serán válidos las licencias o permisos de conducir, ya sean locales, nacionales o extranjeros, que presenten tachaduras, enmendaduras, alteraciones o cualesquier daño que impida la legibilidad de alguno de los datos contenidos en el documento.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+
+Todo prestador de servicio público a quien se le haya expedido licencia de conducir con vigencia máxima de 2 años, quedará sujeto a revisión de seguridad pública a efecto de verificar sus antecedentes, buscando garantizar la seguridad de los usuarios. El no permitir o negarse a la revisión será motivo de revocación de la licencia expedida.
 
 ###### Artículo 54.
 
@@ -1325,7 +1331,7 @@ Los propietarios de vehículos registrados, que no hubieran presentado éstos a 
 
 ###### Artículo 119.
 
-.Es obligación de los conductores evitar las emisiones de humos y gases tóxicos que en forma ostensible puedan rebasar los limites máximos permitidos, por lo que se les retendrá la tarjeta de circulación, la cual les será devuelta en caso de que se compruebe que las emisiones correspondientes están dentro de los limites establecidos.
+Es obligación de los conductores evitar las emisiones de humos y gases tóxicos que en forma ostensible puedan rebasar los limites máximos permitidos, por lo que se les retendrá la tarjeta de circulación, la cual les será devuelta en caso de que se compruebe que las emisiones correspondientes están dentro de los limites establecidos.
 
 ###### Artículo 120.
 
@@ -2209,7 +2215,7 @@ P.O. 31 DE MARZO DE 2015.
 
 P.O. 17 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE MODIFICA DIVERSOS ORDENAMIENTOS DEL MUNICIPIO DE SOLIDARIDAD, DEL ESTADO DE QUINTANA ROO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO, EN CUMPLIMIENTO AL DECRETO DE REFORMAS Y ADICIONES A LOS ARTÍCULOS 26, APARTADO B, 41 Y 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE FECHA 28 DE ENERO DE 2016, APROBADO EN LA NOVENA SESIÓN ORDINARIA DEL H. AYUNTAMIENTO DE SOLIDARIDAD, QUINTANA ROO, CELEBRADO EL 24 DE ENERO DE 2017".]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE MODIFICA DIVERSOS ORDENAMIENTOS DEL MUNICIPIO DE SOLIDARIDAD, DEL ESTADO DE QUINTANA ROO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO, EN CUMPLIMIENTO AL DECRETO DE REFORMAS Y ADICIONES A LOS ARTÍCULOS 26, APARTADO B, 41 Y 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE FECHA 28 DE ENERO DE 2016, APROBADO EN LA NOVENA SESIÓN ORDINARIA DEL H. AYUNTAMIENTO DE SOLIDARIDAD, QUINTANA ROO, CELEBRADO EL 24 DE ENERO DE 2017”.]
 
 PRIMERO.- LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.
 
@@ -2218,3 +2224,11 @@ SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES DE IGUAL O MENOR JERARQUÍA QUE SE 
 TERCERO.- PUBLÍQUESE EL PRESENTE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTAN ROO
 
 CUARTO.- CUANDO SE UTILICE EN ORDENAMIENTOS Y DEMÁS DISPOSICIONES COMO ÍNDICE, BASE DE CÁLCULO O REFERENCIAS EL (SIC) SALARIO MÍNIMO EN ASUNTOS NO RELACIONADOS CON LA POLÍTICA SALARIAL Y LAS PRESTACIONES QUE DE ELLA EMANAN, SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.
+
+P.O. 30 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE REFORMA AL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 53 DEL REGLAMENTO DE TRÁNSITO DEL MUNICIPIO DE SOLIDARIDAD, QUINTANA ROO”.]
+
+PRIMERO.- LAS PRESENTES REFORMAS Y ADICIONES ENTRARAN EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.
+
+SEGUNDO.- SE DEROGAN LAS DISPOSICIONES NORMATIVAS MUNICIPALES QUE SE OPONGAN A LAS PRESENTES.
