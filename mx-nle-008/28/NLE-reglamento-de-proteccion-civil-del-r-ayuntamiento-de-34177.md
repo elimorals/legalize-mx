@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-del-r-ayuntamiento-de-34177"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-03"
-last_updated: "2011-02-04"
+last_updated: "2017-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL DEL R. AYUNTAMIENTO DE BUSTAMANTE, N.L
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE BUSTAMANTE, PUBLICADO EN EL P.O. DE 4 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS SEGUNDO DEL REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE BUSTAMANTE, PUBLICADOS EN EL P.O. DE 4 DE FEBRERO DE 2011 Y 31 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO DE PROTECCIÓN CIVIL DEL AYUNTAMIENTO DE BUSTAMANTE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2011 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de octubre de 2003.
 
@@ -765,7 +765,7 @@ La Dirección Municipal de Protección Civil, vigilará en el ámbito de su comp
 
 ###### ARTICULO 73.
 
-Es obligación de los propietarios, responsables, encargados u ocupantes de los inmuebles, obras o establecimientos, permitir el acceso y dar las facilidades necesarias, para el desarrollo de la inspección, así como proporcionar la información que conduzca a la verificación del las normas de este Reglamento.
+Es obligación de los propietarios, responsables, encargados u ocupantes de los inmuebles, obras o establecimientos, permitir el acceso y dar las facilidades necesarias, para el desarrollo de la inspección, así como proporcionar la información que conduzca a la verificación del (sic) las normas de este Reglamento.
 
 ###### ARTICULO 74.
 
@@ -777,7 +777,7 @@ A los Inspectores designados para llevar a efecto la vigilancia e inspección, s
 
 I. Realizar visitas de inspección a los establecimientos que regula este Reglamento.
 
-II. Solicitar el apoyo policiaco en el caso de oposición de parte del propietario o encargado del establecimiento, para que se cumpla con la diligencia de inspección o clausura por violación del presente Reglamento.
+II. Solicitar el apoyo policíaco en el caso de oposición de parte del propietario o encargado del establecimiento, para que se cumpla con la diligencia de inspección o clausura por violación del presente Reglamento.
 
 III. Las que le otorgue el presente Reglamento y demás leyes aplicables.
 
@@ -1004,6 +1004,16 @@ SECRETARIO DEL R. AYUNTAMIENTO
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de Protección Civil del Municipio de Bustamante, Nuevo León, publicado en el Periódico Oficial del Estado del día 03 de octubre de 2003, sus reformas y demás disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Publíquese el presente reglamento en el portal electrónico de Internet del municipio para cumplimiento del artículo 9 de la Ley de Acceso a la Información Pública del Estado de Nuevo León y en la Gaceta Municipal para su debida difusión.
+
+P.O. 31 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE BUSTAMANTE, N. L.”.]
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
