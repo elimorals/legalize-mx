@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2016-12-30"
+last_updated: "2017-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -3789,7 +3789,9 @@ XXI. Dirección de Ingresos: La Dirección de Ingresos de la Tesorería Municipa
 
 XXII. Dirección de Tránsito: La Dirección de Tránsito Municipal;
 
-XXIII. Dispositivos de Control Vial: Señales, marcas, semáforos y cualquier otro dispositivo, para el efecto, que se colocan sobre o adyacente a las calles y carreteras por una autoridad pública, para prevenir, regular y guiar a los usuarios de las mismas;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+XXIII. Dispositivos de Control de Tránsito: Señales, marcas, semáforos y cualquier otro dispositivo, para el efecto, que se colocan sobre o adyacente a las calles y carreteras por una autoridad pública, para prevenir, regular y guiar a los usuarios de las mismas;
 
 XXIV. Dispositivo de movilidad asistida: Herramienta que permite el desplazamiento de personas con alguna discapacidad o con movilidad limitada, tales como silla de ruedas, silla de ruedas motorizada, andadera, bastón o perro guía;
 
@@ -3805,7 +3807,9 @@ XXIX. Municipio: El Municipio de Puebla;
 
 XXX. Paradero: Lugar de estación temporal de las unidades que integran el sistema de transporte público masivo;
 
-XXXI. Peatón: Persona que transita a pie, por la Vía Pública, en zonas privadas con acceso al público, y/o auxiliándose de dispositivos de movilidad asistida en el caso de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+XXXI. Peatón: Persona que transita en zonas públicas o privadas con acceso al público, a pie o auxiliándose de dispositivos de movilidad asistida, en el caso de las personas con discapacidad;
 
 XXXII. Persona con discapacidad: Es aquella que tenga deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que al interactuar con diversas barreras puedan impedir su participación en la sociedad en igualdad de condiciones con los demás;
 
@@ -3817,19 +3821,37 @@ XXXIV. Unidad de Medida y Actualización: Referencia económica en pesos para de
 
 XXXV. Secretaría: La Secretaría de Seguridad Pública y Tránsito Municipal;
 
-XXXVI. Seguridad Vial: Conjunto de medidas tendentes a preservar la integridad física y patrimonial de las personas con motivo de su tránsito en las Vías Públicas;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-XXXVII. Señalética: Signo o demarcación colocado por la autoridad competente con el objeto de regular, advertir o encauzar la movilidad;
+XXXVI. Seguridad Vial: Conjunto de políticas y sistemas orientados a la prevención de incidentes viales;
 
-XXXVIII. Sistema de Transporte Público: Es la interacción entre la red vial, redes de transporte, modos de transporte y operadores que se complementan con el objetivo de garantizar la movilidad de las personas, cumpliendo determinados patrones de eficiencia, seguridad y costo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2017)</small>
 
-XXXIX. Terminal de Transferencia: Punto principal de estación del cual parten las unidades que integran el Sistema de Transporte Público Masivo RUTA;
+XXXVII. SEMOVI: Secretaría de Movilidad del Honorable Ayuntamiento del Municipio de Puebla;
 
-XL. Terminal electrónica de infracción digital: Una terminal punto de venta que cuenta con un sistema de recepción de pago de infracciones de manera electrónica;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-XLI. Troncal: Consiste en la vía principal de desplazamiento de las unidades que integran el Sistema de Transporte Público Masivo RUTA;
+XXXVIII. Señalética: Signo o demarcación colocado por la autoridad competente con el objeto de regular, advertir o encauzar la movilidad;
 
-XLII. Vía peatonal: Aquella destinada a la circulación exclusiva o prioritaria de peatones y en la que el acceso a vehículos está restringida a reglas especificadas. Éstas incluyen:
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+XXXIX. Sistema de Transporte Público: Es la interacción entre la red vial, redes de transporte, modos de transporte y operadores que se complementan con el objetivo de garantizar la movilidad de las personas cumpliendo determinados patrones de eficiencia, seguridad y costo;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+XL. Terminal de Transferencia: Punto principal de estación del cual parten las unidades que integran el sistema de transporte público masivo RUTA;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+XLI. Terminal electrónica de infracción digital: Una terminal punto de venta que cuenta con un sistema de recepción de pago de infracciones de manera electrónica;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+XLII. Troncal: Consiste en la vía principal de desplazamiento de las unidades que integran el sistema de transporte público masivo RUTA;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+XLIII. Vía peatonal: Aquella destinada a la circulación exclusiva o prioritaria de peatones y en la que el acceso a vehículos está restringida a reglas especificadas. Estas incluyen:
 
 a. Cruces peatonales,
 
@@ -3843,19 +3865,29 @@ e. Puentes peatonales,
 
 f. Calles peatonales y andadores,
 
-g. Calles de prioridad peatonal;
+g. Calles de prioridad peatonal.
 
-XLIII. Vía Primaria: Aquella que por su anchura, longitud, señalización y equipamiento, posibilita un amplio volumen de tránsito vehicular;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-XLIV. Vía Pública: Todo espacio de uso común destinado al tránsito de peatones y vehículos, así como a la prestación de servicios públicos y colocación de mobiliario urbano;
+XLIV. Vía Primaria: Aquella que por su anchura, longitud, señalización y equipamiento, posibilita un amplio volumen de tránsito vehicular;
 
-XLV. Vía Secundaria: Aquella que permite la circulación al interior de las colonias, barrios y pueblos;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-XLVI. Zona 30: Espacio urbano cuyo tránsito vehicular permite una velocidad máxima de 30 kilómetros por hora, como son: calles del Centro Histórico, locales, zonas escolares, hospitales, parques, centros comerciales, de espectáculos y demás centros de reunión determinados por la Dirección de Tránsito;
+XLV. Vía Pública: Todo espacio de uso común destinado al tránsito de peatones y vehículos, así como a la prestación de servicios públicos y colocación de mobiliario urbano;
 
-XLVII. Zona de Monumentos: Es la superficie territorial o de terreno urbano, en donde se encuentran ubicados varios inmuebles considerados como patrimonio histórico o cultural, por declaración de autoridad competente; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-XLVIII. Zona escolar: Zona de la vía situada frente a una institución educativa, y que se extiende a los lados de los lugares de acceso, hasta en un radio de 50 metros.
+XLVI. Vía Secundaria: Aquella que permite la circulación al interior de las colonias, barrios y pueblos;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+XLVII. Zona 30: Espacio urbano cuyo tránsito vehicular permite una velocidad máxima de 30 kilómetros por hora, como son: calles del Centro Histórico, locales, zonas escolares, hospitales, parques, centros comerciales, de espectáculos y demás centros de reunión determinados por la Dirección de Tránsito; y
+
+XLVIII. Zona de Monumentos: Es la superficie territorial o de terreno urbano, en donde se encuentran ubicados varios inmuebles considerados como patrimonio histórico o cultural, por declaración de autoridad competente; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2017)</small>
+
+XLIX. Zona escolar: Zona de la vía situada frente a una institución educativa, y que se extiende a los lados de los lugares de acceso, hasta en un radio de 50 metros.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4085,8 +4117,6 @@ III. Los vehículos deban circular o cruzar una Ciclovía y en esta haya ciclist
 
 IV. Circulen sobre un carril de acuerdo a la presente Sección.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 263.
@@ -4095,7 +4125,9 @@ Son obligaciones de los ciclistas, las siguientes:
 
 I. Dar preferencia al peatón en todos los casos;
 
-II. Respetar las señales de tránsito, las indicaciones de los Agentes y los dispositivos de Control Vial;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+II. Respetar las señales de tránsito, las indicaciones de los Agentes y los Dispositivos de Control de Tránsito;
 
 III. Transitar en el sentido de la circulación vehicular;
 
@@ -4517,21 +4549,19 @@ V. Ancho máximo de la carga que se transporte: 2.5 metros.
 
 (DEROGADO, P.O. 2 DE MARZO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 282.
 
-Podrá circular el camión remolque por las vías de circulación del Centro Histórico y Zona de Monumentos con previa solicitud de permiso y autorización de la Dirección de Tránsito, no debiendo exceder de los 14.63 m. de largo, así como cumplir con las especificaciones señaladas en el artículo anterior.
+Podrá circular el camión remolque por las vías de circulación del Centro Histórico y Zona de Monumentos con previa solicitud de permiso y autorización de la SEMOVI, no debiendo exceder de los 14.63 m. de largo así como cumplir con las especificaciones señaladas en el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 283.
 
-Deberán circular el tractocamión articulado y el tractocamión doblemente articulado en Vías Primarias, previa solicitud de permiso y autorización de la Dirección de Tránsito, quien determinará las rutas y horarios en que podrán hacerlo.
+Deberán circular el tractocamión articulado y el tractocamión doblemente articulado en vías primarias previa solicitud de permiso y autorización de la SEMOVI, quien determinará las rutas y horarios en que podrán hacerlo.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 Queda estrictamente prohibida la circulación de los autotransportes en las vialidades del Centro Histórico y Zona de Monumentos, así como en las Vías Secundarias y demás vialidades de circulación menor.
 
@@ -4747,8 +4777,6 @@ APARTADO III
 
 DE LOS VEHÍCULOS DESTINADOS AL TRANSPORTE MERCANTIL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 296.
@@ -4763,13 +4791,15 @@ III. Los transportistas de carnes y/o vísceras deben llevar una caja de carga a
 
 IV. Para transportar alimentos, animales o desechos, será obligatorio, además de llevarlos debidamente cubiertos, contar con el permiso respectivo, en el que de otorgarse, deben especificarse el horario, ruta y cumplimiento de las disposiciones sanitarias aplicables;
 
-V. Para el transporte de maquinaria u objetos que excedan de las dimensiones permitidas en el presente Capítulo deberán contar con la previa autorización de la Dirección de Tránsito, en el que de otorgarse, deben especificarse el horario, ruta y cumplimiento de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+V. Para el transporte de maquinaria u objetos que excedan de las dimensiones permitidas en el presente Capítulo deberán contar con la previa autorización de la SEMOVI, en el que de otorgarse, deben especificarse el horario, ruta y cumplimiento de las disposiciones aplicables;
 
 VI. El transporte de ganado debe hacerse con las precauciones debidas; y
 
-VII. Los transportistas de carga y distribución de mercancías deberán obedecer las precauciones previstas por la Dirección de Tránsito cuando por el peso de lo transportado se produzca trepidación y no podrán viajar más de dos personas en la cabina del conductor.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+VII. Los transportistas de carga y distribución de mercancías deberán obedecer las precauciones previstas por la SEMOVI cuando por el peso de lo transportado se produzca trepidación y no podrán viajar más de dos personas en la cabina del conductor.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
@@ -4781,7 +4811,9 @@ I. Debe efectuarse en vehículos adaptados exclusivamente para tal objeto o en l
 
 II. En el caso de materias inflamables, los vehículos deben llevar cadenas metálicas que vayan en contacto con el piso;
 
-III. En todos los casos, los vehículos deben estar dotados, como mínimo, de un extinguidor de incendio y no podrán circular dentro del primer cuadro de la Ciudad ni en sectores de intenso tránsito o de alta densidad poblacional, salvo que la Dirección de Tránsito, en coordinación con la Unidad Operativa Municipal de Protección Civil, conceda permiso para ello, fijando la ruta y horario respectivo;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+III. En todos los casos, los vehículos deben estar dotados, como mínimo, de un extinguidor de incendio y no podrán circular dentro del primer cuadro de la Ciudad ni en sectores de intenso tránsito o de alta densidad poblacional, salvo que la SEMOVI en coordinación con la Dirección de Tránsito y la Unidad Operativa Municipal de Protección Civil, conceda permiso para ello, fijando la ruta y horario respectivo;
 
 IV. No podrán estacionarse en zonas densamente pobladas o unidades habitacionales, más que por el tiempo indispensable para distribuir los productos que transportan;
 
@@ -4797,15 +4829,15 @@ APARTADO IV
 
 DEL TRANSPORTE DE CARGA Y DISTRIBUCIÓN DE MERCANCÍAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 298.
 
 Las maniobras para carga y descarga de bultos, materiales y mercancía en general, se sujetarán a las siguientes disposiciones:
 
-I. Tanto en las arterias de tránsito libre, como en las consideradas de circulación restringidas que correspondan a zonas comerciales, oficinas y edificios públicos, se permitirá la circulación de vehículos destinados al servicio de carga y las maniobras de carga y descarga, sólo dentro de las horas que determine la Dirección de Tránsito;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+I. Tanto en las arterias de tránsito libre, como en las consideradas de circulación restringidas que correspondan a zonas comerciales, oficinas y edificios públicos, se permitirá la circulación de vehículos destinados al servicio de carga y las maniobras de carga y descarga, sólo dentro de las horas que determine la SEMOVI;
 
 II. Durante las maniobras de carga y descarga, no deberá impedirse la circulación de peatones ni de vehículos, salvo en caso de riesgo, debiendo usarse el equipo adecuado para que tales maniobras se lleven a cabo en condiciones satisfactorias;
 
@@ -5063,41 +5095,49 @@ VIII. Queda prohibido cruzar una intersección cuando los semáforos lo permitan
 
 Al oscurecer, los conductores deben encender las luces blancas fijas de los vehículos, usando la media intensidad para las calles iluminadas y sectores de intenso tránsito, quedando el uso de la luz entera para las calzadas y calles con iluminación deficiente, en cuyo caso los conductores, cuando se encuentren con otros vehículos circulando delante o en sentido contrario, estarán obligados a disminuir la intensidad de la misma, procurando, en todo caso evitar deslumbramientos a otros vehículos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 2017)</small>
 
 APARTADO II
 
-DE LAS SEÑALES UTILIZADAS PARA REGULAR EL TRÁNSITO
+DE LAS SEÑALES UTILIZADAS PARA REGULAR LA MOVILIDAD
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 316.
 
-La Dirección de Tránsito, utilizará las siguientes señales fijas:
+La SEMOVI y la Dirección de Tránsito, utilizará las siguientes señales fijas:
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 I. PREVENTIVAS.- Son de color amarillo y tienen por objeto advertir al usuario la existencia y naturaleza de un peligro en el camino;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 II. RESTRICTIVAS.- Son de color rojo, tienen por objeto indicar la existencia de limitaciones físicas, prohibiciones y disposiciones reglamentarias que regulan el tránsito; y
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 III. INFORMATIVAS.- Son de color azul, sirven para guiar al usuario a lo largo de su ruta, indicándole las calles o caminos que encuentre, nombre de poblaciones, lugares de interés, distancia y recomendaciones que debe observar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 317.
 
-Los semáforos son Dispositivos de Control Vial que sirven para regular y dirigir el tránsito de vehículos y peatones en calles y caminos, mediante la emisión de señales de luz de colores, con el siguiente orden cíclico y significado:
+Los semáforos son Dispositivos de Control de Tránsito que sirven para regular y dirigir el tránsito de vehículos y peatones en calles y caminos, mediante la emisión de señales de luz de colores, con el siguiente orden cíclico y significado:
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 I. VERDE.- Señal de "siga", para que los vehículos continúen de frente, doblen a la derecha o izquierda siempre y cuando no exista alguna señal que prohíba tal maniobra, otorgando en todo momento la prioridad del cruce peatonal;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 II. AMBAR.- Señal de ''prevención" para que los vehículos y peatones que estén frente al semáforo, disminuyan la velocidad y anticipen que está a punto de aparecer la luz roja; y
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 III. ROJO.- Señal de "alto", para que todos los vehículos y peatones que avancen hacia el semáforo detengan la marcha inmediatamente, dado que los vehículos de la intersección tendrán la señal de siga.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 Las indicaciones de los semáforos tendrán preferencia sobre cualquier otra señal o regla general de circulación y cuando en un crucero los semáforos no estén funcionando y ningún Agente esté dirigiendo el tránsito, los conductores están obligados a tomar todas las precauciones debidas, debiendo sujetarse a las demás señales existentes y, en su defecto, a las reglas generales sobre circulación previstas en la Sección VII del presente Capítulo.
 
@@ -5145,15 +5185,15 @@ En los casos de aglomeración de vehículos, darán una serie de toques cortos a
 
 En todos los casos a que se refiere este artículo, los Agentes se situarán en lugares donde sean visibles, convenientemente iluminados, y con el equipo que los haga notorios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 320.
 
 Para la debida protección de las señales, se prohíbe:
 
-I. Mover o destruir, parcial o totalmente, los Dispositivos de Control Vial instalados en las Vías Públicas del Municipio; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+I. Mover o destruir, parcial o totalmente, los Dispositivos de Control de Tránsito instalados en las Vías Públicas del Municipio; y
 
 II. Adosar o colocar propaganda, letreros u otra clase de objetos, cuando por su forma, dibujo o colocación, puedan obstruir, dar lugar a confusión o entorpecer la comprensión de la señalética de circulación.
 
@@ -5179,15 +5219,13 @@ Se prohíbe el uso de la Vía Pública para toda clase de competencia y juegos o
 
 (DEROGADO, P.O. 2 DE MARZO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 322.
 
-Las vialidades que de acuerdo al Programa de Desarrollo Urbano vigente sean determinadas como primarias, secundarias, radiales viales, circuitos viales, Centro Histórico además de las que determine la Dirección de Tránsito serán consideradas de intensa movilidad y tránsito.
+Las vialidades que de acuerdo al Programa de Desarrollo Urbano vigente sean determinadas como primarias, secundarias, radiales viales, circuitos viales, Centro Histórico además de las que determine la SEMOVI serán consideradas de intensa movilidad y tránsito.
 
-En estas vialidades se establecerán disposiciones especiales en materia de límites de velocidad, carga y descarga, paraderos bases y sitios, cierres por obras y las demás que establezca la Dirección de Tránsito.
+En estas vialidades se establecerán disposiciones especiales en materia de límites de velocidad, carga y descarga, paraderos bases y sitios, cierres por obras y las demás que establezca la SEMOVI.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5197,19 +5235,25 @@ APARTADO IV
 
 DE LA VÍA PÚBLICA PARA ESTACIONAMIENTO DE VEHÍCULOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 323.
 
-El estacionamiento en la Vía Pública se permitirá solamente en los lugares que determine el Ayuntamiento, por conducto de la Dirección de Tránsito.
+El estacionamiento en la Vía Pública se permitirá solamente en los lugares que determine el Ayuntamiento, por conducto de la SEMOVI.
 
-I. La Dirección de Tránsito colocará el señalamiento en las vialidades en que se prohíba el estacionamiento, así como las zonas y cajones respectivos, usando señales uniformes, claras, visibles, fácilmente comprensivas y colocadas en forma ordenada, pudiendo precisar además el máximo de tiempo que en ellos se permita e instalar los dispositivos que considere convenientes;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+I. La SEMOVI colocará el señalamiento en las vialidades en que se prohíba el estacionamiento, así como las zonas y cajones respectivos, usando señales uniformes, claras, visibles, fácilmente comprensivas y colocadas en forma ordenada, pudiendo precisar además el máximo de tiempo que en ellos se permita e instalar los dispositivos que considere convenientes;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 II. En las calles en donde se permita el estacionamiento de vehículos, los conductores de éstos están obligados a estacionarlos sobre el lado izquierdo de la dirección en que circulen, salvo casos en que el análisis técnico permita efectuar estacionamientos en el lado opuesto;
 
-III. En todo caso los conductores deben observar estrictamente las disposiciones relativas a estacionamientos en "cordón" o en "batería" que sobre el particular apruebe la misma Dirección; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+III. En todo caso los conductores deben observar estrictamente las disposiciones relativas a estacionamientos en "cordón" o en "batería" que sobre el particular apruebe la SEMOVI; y
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos para ese efecto, ni a menos de diez metros de la esquina en donde no se encuentre marcada la limitación correspondiente; tampoco podrá estacionarse en o cerca de una curva, o la cima donde el vehículo no pueda ser visto por otro a una distancia de seguridad, de acuerdo con la velocidad permitida en la vía.
 
@@ -5315,8 +5359,6 @@ REGLAS GENERALES DE APLICACIÓN
 
 El gobierno municipal es competente para aplicar los preceptos que regulen la seguridad vial y movilidad en todo su territorio. En las Vías Públicas ubicadas en la extensión territorial del Municipio que estén bajo la jurisdicción de las autoridades estatales o federales no serán aplicables las disposiciones del presente Capitulo, salvo acuerdo, convenio o disposición en contrario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 329.
@@ -5327,75 +5369,61 @@ I. El Ayuntamiento;
 
 II. La Secretaría;
 
-III. La Dirección de Tránsito;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2017)</small>
 
-IV. Los Agentes; y
+III. La SEMOVI
 
-V. La Dirección de Ingresos.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+IV. La Dirección de Tránsito
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2017)</small>
+
+V. Los Agentes; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2017)</small>
+
+VI. Dirección de Ingresos.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 330.
 
 La Secretaría a través de la Dirección de Tránsito vigilará en forma permanente que la movilidad se lleve a cabo conforme a las disposiciones de este Capítulo, para lo cual tendrá las siguientes atribuciones:
 
-I. Realizar programas y acciones encaminados al mejoramiento, control, fluidez y progreso de la movilidad peatonal, motorizada y no motorizada;
+I. Definir y realizar, en coordinación con las instancias respectivas del Gobierno Federal y Estatal, los operativos, funciones comunes o concurrentes y demás medidas preventivas y de seguridad vial que sean necesarias, conforme a lo dispuesto en el presente Capítulo;
 
-II. En el ámbito de su competencia evaluar y, en su caso, aprobar los estudios de impacto vial que soliciten los interesados, en asuntos relacionados al otorgamiento de uso de suelo;
+II. Coadyuvar con la SEMOVI en la impartición (sic) educación vial y demás temas relativos a la movilidad, a través de sus programas de prevención;
 
-III. Coadyuvar a definir las estrategias que permitan una mejor planeación en materia de estacionamientos, sitios, terminales y otras construcciones que repercutan directamente en la movilidad;
+III. Infraccionar por contravenir las disposiciones del presente Capítulo y cuando se registre a través de un cinemómetro que fueron excedidos los límites de velocidad, deberá contener los mismos requisitos que los determinados para un Acta de Infracción;
 
-IV. Definir y realizar, en coordinación con las instancias respectivas del Gobierno Federal y Estatal, los operativos, funciones comunes o concurrentes y demás medidas preventivas y de seguridad vial que sean necesarias, conforme a lo dispuesto en el presente Capítulo;
+IV. Instalar programas para la prevención de accidentes generados por la ingesta de alcohol u otras substancias tóxicas, para conductores de vehículos motorizados con el fin de salvaguardar la vida, integridad física y propiedad de los conductores, pasajeros y peatones;
 
-V. Fomentar e impartir educación vial y demás temas relativos a la movilidad, en coordinación con instituciones, planteles educativos y los demás sectores de la sociedad;
+V. Cuidar que las aceras, calles y demás vías de circulación o lugares de tránsito para peatones, ciclistas y vehículos estén siempre dispuestos para la circulación, debiendo intervenir en todos los casos en que se realicen obras y trabajos que alteren o impidan el libre tránsito y movilidad;
 
-VI. Colocar, aplicar y mantener la señalética horizontal y vertical;
+VI. Vigilar el cumplimiento de los límites de velocidad con el cual podrán circular los vehículos en las vías, de acuerdo con la ubicación, clasificación y demás condiciones de las mismas;
 
-VII. Verificar y autorizar la colocación de los moderadores de velocidad;
+VII. Coadyuvar en el ámbito de su competencia con las autoridades federales y estatales, en la realización de los estudios técnicos que se requieran para el establecimiento de los horarios, tarifas e itinerarios del servicio público de transporte, los cuales serán determinados por las instancias competentes;
 
-VIII. Hacer uso de dispositivos tecnológicos que permitan obtener datos para conocer la velocidad de los vehículos motorizados y el modo en que circulan en la Vía Pública, entre otras;
+VIII. Procurar la seguridad vial y la de los usuarios del transporte público así como salvaguardar la integridad física de los peatones y ciclistas, estableciendo medidas que permitan eliminar las conductas que violan las disposiciones en la materia, en términos del presente Capítulo;
 
-IX. Instalar cinemómetros en las vialidades y en el horario que para tal efecto designe, con base en la intensidad vehicular respectiva y a fin de permitir la obtención de datos que conlleven a la identificación y control del cumplimiento de los límites de velocidad de los vehículos;
+IX. Designar los Agentes necesarios para realizar las funciones de su competencia;
 
-> <small>(F. DE E., P.O. 28 DE JULIO DE 2015)</small>
+X. Coordinar a través del Departamento de Servicios Periciales, los trabajos periciales y la elaboración de dictámenes en materia (sic) movilidad y seguridad vial, en el ámbito de su competencia;
 
-X. Infraccionar por contravenir las disposiciones del presente Capítulo y cuando se registre a través de un cinemómetro que fueron excedidos los límites de velocidad, deberá contener los mismos requisitos que los determinados para un Acta de Infracción;
+XI. Vigilar, verificar o inspeccionar los vehículos que circulen en las Vías Públicas del Municipio, pudiendo realizar los operativos conducentes e implementar tecnologías, mecanismos y metodologías que propicien la prevención y la vigilancia de las disposiciones en la materia y en su caso determinar las infracciones;
 
-XI. Instalar programas para la prevención de accidentes generados por la ingesta de alcohol u otras substancias tóxicas, para conductores de vehículos motorizados con el fin de salvaguardar la vida, integridad física y propiedad de los conductores, pasajeros y peatones;
+XII. Requerir y verificar la documentación que deben portar los conductores de los vehículos, para que aquellos puedan conducir y éstos circular;
 
-XII. Cuidar que las aceras, calles y demás vías de circulación o lugares de tránsito para peatones, ciclistas y vehículos estén siempre dispuestos para la circulación, debiendo intervenir en todos los casos en que se realicen obras y trabajos que alteren o impidan el libre tránsito y movilidad;
+XIII. Otorgar a las autoridades administrativas y judiciales, el auxilio que requieran de acuerdo a la ley para el debido ejercicio de sus funciones y la ejecución de sus resoluciones;
 
-XIII. Realizar el estudio para la colocación de reductores de velocidad de acuerdo a la opinión técnica del área competente, con el fin de evitar accidentes viales y obstrucciones a la circulación;
+XIV. Proporcionar a las personas físicas o jurídicas colectivas que acrediten conforme a derecho su interés jurídico, las constancias que le sean útiles para justificar que han cumplido con las disposiciones de la materia o de cualquier otro documento público de naturaleza similar, así como de la información que requieran de los expedientes de la propia Secretaría, siempre que en este caso realicen su petición por escrito, señalen el expediente de que se trata y los datos que requieran, y que la información no sea de carácter reservado o confidencial;
 
-XIV. Fijar de manera general, el límite máximo y mínimo de velocidad con el cual podrán circular los vehículos en las vías, de acuerdo con la ubicación, clasificación y demás condiciones de las mismas;
+XV. Establecer horarios específicos para operaciones de carga y descarga, dictar disposiciones especiales sobre estacionamientos, sitios, bases y terminales, e incluso restringir la circulación en las Vías Públicas municipales, cuando la densidad vehicular, la concentración de personas o vehículos, el desarrollo de marchas o desfiles, la realización de mítines, manifestaciones o reuniones públicas, o alguna otra circunstancia similar, impongan la necesidad de recurrir a tales medidas para ordenar el tránsito y garantizar la seguridad de las personas;
 
-XV. Señalar los lugares autorizados para estacionamiento de vehículos en la Vía Pública y la forma en que deban hacerlo, tomando en consideración los movimientos, circulación y concentración de vehículos y de personas;
+XVI. Regular las señales realizadas por Agentes para dirigir el tránsito;
 
-XVI. Coadyuvar en el ámbito de su competencia con las autoridades federales y estatales, en la realización de los estudios técnicos que se requieran para el establecimiento de los horarios, tarifas e itinerarios del servicio público de transporte, los cuales serán determinados por las instancias competentes;
-
-XVII. Vigilar la seguridad vial y la de los usuarios del transporte público, así como salvaguardar la integridad física de los peatones y ciclistas, estableciendo medidas que permitan eliminar las conductas que violan las disposiciones en la materia, en términos del presente Capítulo;
-
-XVIII. Designar los Agentes necesarios para realizar las funciones de su competencia;
-
-XIX. Coordinar a través del Departamento de Servicios Periciales, los trabajos periciales y la elaboración de dictámenes en materia de movilidad y seguridad vial, en el ámbito de su competencia;
-
-XX. Vigilar, verificar o inspeccionar los vehículos que circulen en las Vías Públicas del Municipio, pudiendo realizar los operativos conducentes e implementar tecnologías, mecanismos y metodologías que propicien la prevención y la vigilancia de las disposiciones en la materia y en su caso determinar las infracciones;
-
-XXI. Requerir y verificar la documentación que deben portar los conductores de los vehículos, para que aquellos puedan conducir y éstos circular;
-
-XXII. Otorgar a las autoridades administrativas y judiciales, el auxilio que requieran de acuerdo a la ley para el debido ejercicio de sus funciones y la ejecución de sus resoluciones;
-
-XXIII. Proporcionar a las personas físicas o jurídicas colectivas que acrediten conforme a derecho su interés jurídico, las constancias que le sean útiles para justificar que han cumplido con las disposiciones de la materia o de cualquier otro documento público de naturaleza similar, así como de la información que requieran de los expedientes de la propia Secretaría, siempre que en este caso realicen su petición por escrito, señalen el expediente de que se trata y los datos que requieran, y que la información no sea de carácter reservado o confidencial;
-
-XXIV. Establecer horarios específicos para operaciones de carga y descarga, dictar disposiciones especiales sobre estacionamientos, sitios, bases y terminales, e incluso restringir la circulación en las Vías Públicas municipales, cuando la densidad vehicular, la concentración de personas o vehículos, el desarrollo de marchas o desfiles, la realización de mítines, manifestaciones o reuniones públicas, o alguna otra circunstancia similar, impongan la necesidad de recurrir a tales medidas para ordenar el tránsito y garantizar la seguridad de las personas;
-
-XXV. Determinar y supervisar la instalación de señales mecánicas y luminosas, reflejantes, así como los dispositivos tecnológicos que indiquen las prevenciones que deben observar los peatones y conductores de vehículos para su correcta circulación, así como regular las señales realizadas por Agentes para dirigir el tránsito;
-
-El proyecto e instalación de dispositivos y marcas de señalamiento, se harán con base en el Manual de Dispositivos para el Control de Tránsito en Calles y Carreteras de la Secretaría de Comunicaciones y Transportes o en las normas oficiales de carácter técnico que lo sustituyan.
-
-XXVI. Establecer medidas de seguridad y ejecutarlas por los Agentes. Se consideran medidas de seguridad:
+XVII. Establecer medidas de seguridad y ejecutarlas por los Agentes. Se consideran medidas de seguridad:
 
 a) Retención de alguno de los siguientes documentos: licencia de conducir, tarjeta de circulación, placas de vehículos o permiso de circulación;
 
@@ -5405,15 +5433,45 @@ c) Inmovilización al transporte de carga y distribución de mercancías mediant
 
 d) Proponer la inhabilitación del infractor para conducir en el Municipio por un tiempo determinado no menor de 15 días, ni mayor de un año.
 
-XXVII. Marcar sobre el pavimento de las calles, con pintura de color blanco o amarillo o con alguna otra señal que considere adecuada, las líneas necesarias para canalizar las diferentes corrientes de circulación y para indicar los lugares en donde los vehículos deben efectuar "alto" al finalizar las calles; así como para delimitar las zonas de seguridad o paso de peatones. En la misma forma se pintarán flechas que indiquen la dirección que deban tomar los vehículos;
+XVIII. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
 
-XXVIII. Señalar las zonas o lugares de la Vía Pública en donde el estacionamiento esté prohibido o sujeto a horarios especiales, limitado a vehículos oficiales. En todo caso, se debe procurar que los accesos vehiculares a inmuebles de propiedad pública o privada se mantengan libres de obstáculos;
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
 
-XXIX. En los casos en que se pretenda abrir, operar o modificar un estacionamiento público, el proyecto respectivo debe someterse a la Secretaría para que, a través de la Dirección de Tránsito lo revise y apruebe su impacto en la movilidad del Municipio. La aprobación del proyecto que en su caso emita el titular de la Secretaría será un requisito indispensable para que los interesados obtengan la autorización de uso de suelo y, en su caso, la cédula de empadronamiento o registro y la autorización o licencia de funcionamiento respectivas;
+###### Artículo 330 Bis.
+
+La SEMOVI vigilará en forma permanente que la movilidad se lleve a cabo conforme a las disposiciones de este Capítulo, para lo cual tendrá las siguientes atribuciones:
+
+I. Realizar programas y acciones encaminados al mejoramiento, control, fluidez y progreso de la movilidad peatonal, motorizada y no motorizada;
+
+II. Coadyuvar a definir las estrategias que permitan una mejor planeación en materia de estacionamientos, sitios, terminales y otras construcciones que repercutan directamente en la movilidad;
+
+III. Fomentar e impartir educación vial y demás temas relativos a la movilidad, en coordinación con instituciones, planteles educativos y los demás sectores de la sociedad;
+
+IV. Colocar, aplicar y mantener la señalética horizontal y vertical;
+
+V. Verificar y autorizar la colocación de los moderadores de velocidad;
+
+VI. Hacer uso de dispositivos tecnológicos que permitan obtener datos para conocer la velocidad de los vehículos motorizados y el modo en que circulan en la Vía Pública, entre otras;
+
+VII. Instalar cinemómetros en las vialidades y en el horario que para tal efecto designe, con base en la intensidad vehicular respectiva y a fin de permitir la obtención de datos que conlleven a la identificación y control del cumplimiento de los límites de velocidad de los vehículos;
+
+VIII. Realizar el estudio para la colocación de reductores de velocidad de acuerdo a la opinión técnica del área competente con el fin de evitar accidentes viales y obstrucciones a la circulación;
+
+IX. Fijar de manera general, el límite máximo y mínimo de velocidad con el cual podrán circular los vehículos en las vías, de acuerdo con la ubicación, clasificación y demás condiciones de las mismas;
+
+X. Señalar los lugares autorizados para estacionamiento de vehículos en la Vía Pública y la forma en que deban hacerlo, tomando en consideración los movimientos, circulación y concentración de vehículos y de personas;
+
+XI. Determinar y supervisar la instalación de señales mecánicas y luminosas, reflejantes, así como los dispositivos tecnológicos que indiquen las prevenciones que deben observar los peatones y conductores de vehículos para su correcta circulación, así como el proyecto e instalación de dispositivos y marcas de señalamiento, se harán con base en el Manual de Dispositivos para el Control de Tránsito en Calles y Carreteras de la Secretaría de Comunicaciones y Transportes o en las normas oficiales de carácter técnico que lo sustituyan;
+
+XII. Marcar sobre el pavimento de las calles, con pintura de color blanco o amarillo o con alguna otra señal que considere adecuada, las líneas necesarias para canalizar las diferentes corrientes de circulación y para indicar los lugares en donde los vehículos deben efectuar "alto" al finalizar las calles; así como para delimitar las zonas de seguridad o paso de peatones. En la misma forma se pintarán flechas que indiquen la dirección que deban tomar los vehículos;
+
+XIII. Señalar las zonas o lugares de la Vía Pública en donde el estacionamiento esté prohibido o sujeto a horarios especiales, limitado a vehículos oficiales. En todo caso, se debe procurar que los accesos vehiculares a inmuebles de propiedad pública o privada se mantengan libres de obstáculos;
+
+XIV. En los casos en que se pretenda abrir, operar o modificar un estacionamiento público, el proyecto respectivo debe someterse a la SEMOVI a través de la Dirección de Seguridad Vial, para su revisión y, en su caso, aprobación del impacto en la movilidad del Municipio. La aprobación del proyecto que en su caso emita el titular de la SEMOVI será un requisito indispensable para que los interesados obtengan la autorización de uso de suelo y, en su caso, la cédula de empadronamiento o registro y la autorización o licencia de funcionamiento respectivas;
 
 El estacionamiento de vehículos en inmuebles distintos a la Vía Pública estará permitido siempre que el inmueble y el prestador del servicio cumplan las condiciones y requisitos municipales en materia de desarrollo urbano y construcciones; y
 
-XXX. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
+XV. Las demás que les confieran este Capítulo, así como las disposiciones que resulten aplicables y los convenios celebrados con aprobación del Ayuntamiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -5627,13 +5685,13 @@ f) En los casos de licencia provisional cuando el conductor de dieciséis a diec
 
 Suspendida o cancelada una licencia, la Dirección de Tránsito tomará nota en los registros respectivos y coadyuvará con las autoridades competentes apoyando en la aplicación de las resoluciones respectivas, mediante la retención de la licencia que hubiere sido suspendida o cancelada y la remisión del titular al Ministerio Público, cuando haya desobedecido dicha resolución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 344.
 
-Los encargados de ejecutar obras o trabajos en la Vía Pública deberán colocar moderadores de velocidad; los responsables de centros comerciales, espectáculos, estacionamientos, gasolineras, ferias y los que impliquen una concentración masiva de personas o vehículos, además de cumplir con las autorizaciones, permisos y licencias municipales correspondientes, tendrán la obligación de colocar las señales de tránsito y Dispositivos de Control Vial que sean necesarios e implementar señalética que advierta la existencia de excavaciones, materiales acumulados, maquinaria, construcciones en desarrollo y otros obstáculos, que signifiquen un peligro para los vehículos y peatones, debiendo atender todas las indicaciones que la Dirección de Tránsito efectúe.
+Los encargados de ejecutar obras o trabajos en la Vía Pública deberán colocar moderadores de velocidad; los responsables de centro (sic) comerciales, espectáculos, estacionamientos, gasolineras, ferias y los que impliquen una concentración masiva de personas o vehículos, además de cumplir con las autorizaciones, permisos y licencias municipales correspondientes, tendrán la obligación de colocar las señales de tránsito y Dispositivos de Control de Tránsito que sean necesarios e implementar señalética que advierta la existencia de excavaciones, materiales acumulados, maquinaria, construcciones en desarrollo y otros obstáculos, que signifiquen un peligro para los vehículos y peatones, debiendo atender todas las indicaciones que la Dirección de Tránsito efectúe.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 En caso de desobediencia o negligencia de lo dispuesto en el párrafo anterior, la Dirección de Tránsito deberá informar a la autoridad competente para que aplique las sanciones correspondientes. Si se produce algún accidente de tránsito, las personas responsables del incumplimiento deberán resarcir a los conductores y peatones afectados los daños y perjuicios causados por tal motivo.
 
@@ -5645,47 +5703,55 @@ APARTADO II
 
 BASES, SITIOS Y PARADEROS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 345.
 
 Para los efectos de estaciones, terminales, bases y/o sitios, se entiende por:
 
-I. Estaciones, Estaciones Terminales, Terminales o Terminales de Trasferencia.- Las instalaciones auxiliares del transporte público, mercantil de personas, RUTA y de transporte de carga y distribución de mercancías, establecidas en el Municipio en los términos previstos por la legislación aplicable, que son destinadas a la llegada, concentración, estacionamiento y salida de vehículos utilizados para la prestación de los servicios; el ascenso, descenso y transbordo de pasajeros, así como a la recepción, almacenamiento, carga, descarga y despacho de equipaje o mercancías, dependiendo del tipo de terminal establecida, requerirán dictamen emitido por la Dirección de Tránsito;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-II. Bases.- Los predios de propiedad particular o superficies de la infraestructura vial, que se pueden determinar como áreas de servicio auxiliar para el transporte público y que se establezcan conforme a la legislación estatal, debiendo estar ubicadas en el lugar que el itinerario respectivo señale como puntos de origen y destino, para ser utilizadas para estacionar sus vehículos antes de iniciar o al terminar el recorrido de sus rutas por las empresas o concesionarios del servicio público de transporte, sin exceder el número de unidades permitido, o en su defecto, servir de referencia de paso, de acuerdo con las condiciones de operación vehicular de la zona en que estén localizadas. Las bases requerirán dictamen emitido por la Dirección de Tránsito; y
+I. Estaciones, Estaciones Terminales, Terminales o Terminales de Trasferencia. Las instalaciones auxiliares del transporte público, mercantil de personas, RUTA y de transporte de carga y distribución de mercancías, establecidas en el Municipio en los términos previstos por la legislación aplicable, que son destinadas a la llegada, concentración, estacionamiento y salida de vehículos utilizados para la prestación de los servicios; el ascenso, descenso y transbordo de pasajeros, así como a la recepción, almacenamiento, carga, descarga y despacho de equipaje o mercancías, dependiendo del tipo de terminal establecida, requerirán dictamen emitido por la SEMOVI;
 
-III. Sitios.- Los predios de propiedad particular o lugares de la Vía Pública, que se determinen como áreas de servicio auxiliar para el transporte mercantil de personas y que se establezcan conforme a lo previsto por la legislación estatal, para ser utilizadas por las empresas o permisionarios a estacionar sus vehículos durante su horario de servicio, sin exceder el número de unidades permitido, y a los que el usuario pueda acudir para su contratación. Los sitios requerirán dictamen emitido por la Dirección de Tránsito.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+II. Bases. Los predios de propiedad particular o superficies de la infraestructura vial, que se pueden determinar cómo áreas de servicio auxiliar para el transporte público y que se establezcan conforme a la legislación estatal, debiendo estar ubicadas en el lugar que el itinerario respectivo señale como puntos de origen y destino, para ser utilizadas para estacionar sus vehículos antes de iniciar o al terminar el recorrido de sus rutas por las empresas o concesionarios del servicio público de transporte, sin exceder el número de unidades permitido, o en su defecto, servir de referencia de paso, de acuerdo con las condiciones de operación vehicular de la zona en que estén localizadas. Las bases requerirán dictamen emitido por la SEMOVI; y
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+III. Sitios. Los predios de propiedad particular o lugares de la Vía Pública, que se determinen como áreas de servicio auxiliar para el transporte mercantil de personas y que se establezcan conforme a lo previsto por la legislación estatal, para ser utilizadas por las empresas o permisionarios a estacionar sus vehículos durante su horario de servicio, sin exceder el número de unidades permitido, y a los que el usuario pueda acudir para su contratación. Los sitios requerirán dictamen emitido por la SEMOVI.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 346.
 
-Para el establecimiento de terminales de competencia federal o estatal, bases y sitios en el Municipio, los concesionarios o interesados en su instalación deberán obtener previamente dictamen favorable de la Secretaría respecto de su ubicación y funcionamiento, sin perjuicio de las demás obligaciones que las disposiciones municipales aplicables les imponga en materia de desarrollo urbano, construcciones, ecología y establecimientos mercantiles.
+Para el establecimiento de terminales de competencia federal o estatal, bases y sitios en el Municipio, los concesionarios o interesados en su instalación deberán obtener previamente dictamen favorable de la SEMOVI respecto de su ubicación y funcionamiento, sin perjuicio de la (sic) demás obligaciones que las disposiciones municipales aplicables les imponga en materia de desarrollo urbano, construcciones, ecología y establecimientos mercantiles.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 347.
 
-Para que los interesados obtengan dictamen favorable emitido por la Dirección de Tránsito, deberán cumplir los siguientes requisitos:
+Para que los interesados obtengan dictamen favorable emitido por la SEMOVI, deberán cumplir los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 I. En el caso de terminales, establecerse en lugares distintos a la Vía Pública, dentro de predios o locales amplios, adecuados para permitir la concentración y estacionamiento de los vehículos, con las oficinas e instalaciones que sean necesarias;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 II. En el caso de bases y sitios, establecerse de manera preferente, en lugares distintos a la Vía Pública, dentro de predios adecuados o, en su defecto, en áreas de la infraestructura vial desarrolladas especialmente para ello;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
 III. Que los lugares a que se refieren las dos fracciones anteriores, estén ubicados en zonas permitidas de acuerdo con el Programa de Desarrollo Urbano del Municipio, con uso de suelo compatible y de tal manera que el impacto en el tránsito municipal de dichos lugares no resulte negativo;
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
+
 IV. Que la ubicación de bases y sitios no se encuentre en calles o avenidas de gran densidad de circulación, por donde transiten dos o más líneas de servicio público de transporte ni a menos de 500 metros de otra base o sitio ya establecido; y
 
-V. Los demás que determinen las autoridades competentes, en los diferentes rubros relacionados con la autorización, instalación, operación y modificación de terminales, bases y sitios.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+V. Los demás que determinen las autoridades competentes, en los diferentes rubros relacionados con la autorización, instalación, operación y modificación de terminales, bases y sitios.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
@@ -5693,7 +5759,9 @@ V. Los demás que determinen las autoridades competentes, en los diferentes rubr
 
 La tramitación de los dictámenes a que se refiere esta Sección, se sujetará a las siguientes disposiciones:
 
-I. La solicitud se hará por escrito ante la Dirección de Tránsito, proporcionando los siguientes datos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
+
+I. La solicitud se hará por escrito ante la SEMOVI, proporcionando los siguientes datos:
 
 a) Nombre y dirección del solicitante;
 
@@ -5705,13 +5773,17 @@ d) Las características de los vehículos motivo de la solicitud, indicando si h
 
 e) La clase de servicio que se pretenda prestar y el número de vehículos que vayan a estacionarse.
 
-II. Admitida la solicitud, la Dirección de Tránsito procederá a inspeccionar el lugar de que se trate y verificará el cumplimiento de los requisitos respectivos;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-III. Cumplido lo anterior, se elaborará el proyecto de dictamen correspondiente y el Secretario de Seguridad Pública y Tránsito Municipal resolverá lo conducente; y
+II. Admitida la solicitud, la SEMOVI procederá a inspeccionar el lugar de que se trate y verificará el cumplimiento de los requisitos respectivos;
 
-IV. En caso de ser favorable el dictamen, el Secretario de Seguridad Pública y Tránsito Municipal debe indicar el número máximo de unidades que se permita estacionar al mismo tiempo, el cual no podrá ser superior a cinco en el caso de bases o sitios en la Vía Pública; tratándose de una base, si sólo servirá de referencia de paso o control.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+III. Cumplido lo anterior, se elaborará el proyecto de dictamen correspondiente y el Titular de la SEMOVI resolverá lo conducente; y
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+IV. En caso de ser favorable el dictamen, el Titular de la SEMOVI debe indicar el número máximo de unidades que se permita estacionar al mismo tiempo, el cual no podrá ser superior a cinco en el caso de bases o sitios en la Vía Pública; tratándose de una base, si sólo servirá de referencia de paso o control.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
@@ -5723,7 +5795,9 @@ I. Impedir que se hagan reparaciones o adecuaciones a los vehículos, si las bas
 
 II. Vigilar que los vehículos se estacionen dentro de las zonas señaladas y sin infringir el presente Capítulo;
 
-III. Evitar que los vehículos se estacionen de manera que bloqueen o dificulten la visibilidad de la señalética y Dispositivos de Control Vial;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+III. Evitar que los vehículos se estacionen de manera que bloqueen o dificulten la visibilidad de la señalética y Dispositivos de Control de Tránsito;
 
 IV. Cuidar que las aceras o camellones correspondientes a los lugares autorizados se conserven en buen estado de limpieza y que el personal al servicio de las unidades guarde en ellos la debida compostura y atienda al público con cortesía;
 
@@ -5731,13 +5805,13 @@ V. Prevenir y evitar que en dichos lugares se propicien o realicen actos graves,
 
 VI. Las demás que se contengan en los ordenamientos vigentes o establezcan las autoridades competentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 350.
 
-En caso de que la Dirección de Tránsito considere conveniente para la movilidad del Municipio, suprimir o cambiar de ubicación las estaciones, terminales, bases o sitios que constituyan un problema para la circulación, podrá concertar con los interesados las medidas conducentes, sin perjuicio de que el Ayuntamiento, en cualquier tiempo, pueda solicitar al Gobierno del Estado que autorice su supresión, su cambio de ubicación, incluso que cancele el permiso o revoque la concesión otorgada, cuando se incumpla lo dispuesto en este Capítulo o de alguna otra forma se afecte el interés público.
+En caso de que la SEMOVI considere conveniente para la movilidad del Municipio, suprimir o cambiar de ubicación las estaciones, terminales, bases o sitios que constituyan un problema para la circulación, podrá concertar con los interesados las medidas conducentes, sin perjuicio de que el Ayuntamiento, en cualquier tiempo, pueda solicitar al Gobierno del Estado que autorice su supresión su cambio de ubicación, incluso que cancele el permiso o revoque la concesión otorgada, cuando se incumpla lo dispuesto en este Capítulo o de alguna otra forma se afecte el interés público.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 Si la instancia competente autoriza la supresión o cambio de ubicación de alguna base o sitio, el interesado podrá solicitar que se le autorice otro lugar para el establecimiento de la nueva base o sitio de acuerdo con esta Sección, o bien, su incorporación a otros ya establecidos.
 
@@ -33825,6 +33899,10 @@ No se considerará como sanción la cancelación de licencias expedidas a Boxead
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
+## TÍTULO ÚNICO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2017)</small>
+
 ### CAPÍTULO 37. DEL GOBIERNO DIGITAL
 
 > <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
@@ -34212,6 +34290,10 @@ Los servidores públicos que infrinjan las disposiciones contenidas en el presen
 # LIBRO NOVENO
 
 > <small>(ADICIONADO CON EL CAPÍTULO, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+
+### CAPÍTULO 38. DE LA ECONOMÍA SOCIAL Y SOLIDARIA EN EL MUNICIPIO
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 2276.
 
@@ -35633,17 +35715,41 @@ III. A quien elimine, borre o impida que cualquier archivo sea enviado y recibid
 
 En caso de que el ciudadano haga uso indebido de la firma electrónica avanzada en documento apócrifo se hará acreedor a las sanciones que establece éste Código sin perjuicio de aquéllas de carácter penal.
 
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2017)</small>
+
+# LIBRO DÉCIMO PRIMERO
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2017)</small>
+
 ###### Artículo 2377.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+El Ayuntamiento de Puebla, debe fomentar e implementar una política permanente de combate a la pobreza, a la desigualdad económica y social, a través de la Economía Social, cuyo objetivo es el desarrollo y fortalecimiento de la economía del municipio, con especial atención a los sectores más vulnerables.
+
+El Ayuntamiento de Puebla, deberá de manera preferentecontratar, (sic) adquirir o allegarse de bienes o servicios provenientes de proveedores emanados de las iniciativas y empresas de economía social que estén registrados en el padrón respectivo.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 2378.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+El Sector Social de la Economía, a quien dicho programa está dirigido, es el conjunto de personas o grupos sociales que se adhieren para la producción, distribución y consumo de bienes y servicios. El cual funciona como un sistema socioeconómico incluyente, basado en relaciones de solidaridad, cooperación y reciprocidad, democrático y participativo, privilegiando al trabajo y al ser humano, conformados y administrados en forma asociativa, para satisfacer las necesidades de sus integrantes y de las comunidades donde se desarrollan.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 2379.
 
-(DEROGADO, P.O. 7 DE SEPTIEMBRE DE 2012)
+El Sector Social de la Economía en el Municipio de Puebla, estará integrado por las siguientes formas de organización:
+
+I. Ejidos;
+
+II. Comunidades;
+
+III. Organizaciones de trabajadores;
+
+IV. Sociedades Cooperativas, asociaciones, personas físicas, y
+
+V. Empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores, y
+
+VI. En general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios debidamente establecidas.
 
 ###### Artículo 2380.
 
@@ -36468,3 +36574,29 @@ SEGUNDO. Los Lineamientos para el Funcionamiento de los Mercados Temporales ubic
 TERCERO. El Comité Asesor de los Mercados Temporales contará con cinco días naturales, a partir de la entrada en vigor de los presentes Lineamientos, para su debida instalación.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a los presentes Lineamientos.
+
+P.O. 31 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL CONSIDERANDO XXIII DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 17 DE MARZO DE 2017, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE MOVILIDAD URBANA, POR EL QUE SE MODIFICA LA ESTRUCTURA ORGÁNICA DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, PARA LA ADMINISTRACIÓN 2014-2018; SE CREA LA SECRETARÍA DE MOVILIDAD DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA; SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MOVILIDAD DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA; SE MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA; SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, Y SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y SUSTENTABILIDAD DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. El presente Reglamento entrará en vigor a partir del día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y administrativas que se contravengan a lo establecido en el presente Reglamento.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 17 DE MARZO DE 2017, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE MOVILIDAD URBANA, POR EL QUE SE MODIFICA LA ESTRUCTURA ORGÁNICA DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, PARA LA ADMINISTRACIÓN 2014-2018; SE CREA LA SECRETARÍA DE MOVILIDAD DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA; SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MOVILIDAD DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA; SE MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA; SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, Y SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y SUSTENTABILIDAD DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
+
+TERCERO. Derivado del presente dictamen, durante el ejercicio fiscal 2017, el Presupuesto de Egresos que fue asignado a la Secretaría de Seguridad Pública y Tránsito Municipal deberá ser modificado conforme a la estructura orgánica que aprueba el Honorable Cabildo del Municipio de Puebla.
+
+CUARTO. Se fija un plazo perentorio de 120 días naturales siguientes a partir de su entrada en vigor para que se asignen a las unidades administrativas de nueva creación o transfieran de una unidad administrativa a otra, los recursos humanos, materiales y financieros, de conformidad con el presente Dictamen.
+
+P.O. 31 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 17 DE MARZO DE 2017, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD, POR EL QUE SE ADICIONA EL "LIBRO DÉCIMO PRIMERO", "TÍTULO ÚNICO" "CAPÍTULO 38" DENOMINADO "DE LA ECONOMÍA SOCIAL Y SOLIDARIA EN EL MUNICIPIO", CON LOS ARTÍCULOS 2377 AL 2379 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. Las disposiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Dictamen.
