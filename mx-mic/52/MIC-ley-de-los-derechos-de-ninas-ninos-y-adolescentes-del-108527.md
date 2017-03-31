@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2016-11-18"
+last_updated: "2017-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2017.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -423,7 +423,9 @@ Niñas, niños y adolescentes tienen derecho a no ser discriminados, por lo que 
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán:
 
-I. Llevar a cabo acciones especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, en situación de calle, cualquier forma de trabajo infantil o cualquiera otra condición de marginalidad;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+I. Llevar a cabo acciones especiales para sensibilizar, prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en exclusión social, situación de calle, cualquier forma de trabajo infantil o cualquiera otra condición de vulnerabilidad;
 
 II. Adoptar medidas y realizar acciones afirmativas, cuando sean necesarias, para garantizar que niñas y adolescentes tengan igualdad de trato y oportunidades que los niños y los adolescentes;
 
@@ -451,6 +453,12 @@ Las autoridades estatales y municipales, estarán obligadas de manera subsidiari
 
 Las leyes estatales en el ámbito de sus respectivas competencias, establecerán como edad mínima para contraer matrimonio los 18 años.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
+
+###### Artículo 31 Bis.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, estarán obligadas a desarrollar y ejecutar programas, políticas públicas y acciones integrales, para apoyar en forma efectiva a niñas, niños y adolescentes en situación de calle, considerando sus necesidades básicas.
+
 (REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2016) (F. DE E., P.O. 25 DE JULIO DE 2016)
 
 ### CAPÍTULO IX. DERECHO DE ACCESO A UNA VIDA LIBRE DE MALTRATO O VIOLENCIA Y A LA INTEGRIDAD PERSONAL
@@ -465,6 +473,10 @@ Niñas, niños y adolescentes tienen derecho a vivir en un contexto libre de mal
 
 Las niñas, niños y adolescentes tienen derecho a la protección contra toda forma de maltrato o violencia, de venta, trata de personas, explotación, abandono o crueldad, abuso sexual, psicológico o físico.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
+
+Las niñas, niños y adolescentes tienen derecho a la paz, a no ser privados de la vida en ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2016)</small>
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar las medidas necesarias para que niñas, niños y adolescentes vivan en contextos familiares, escolares, vecinales y estatales libres de violencia, por lo que deberán:
@@ -477,7 +489,17 @@ III. Adoptar las medidas apropiadas de conformidad con la legislación correspon
 
 IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes, para su desarrollo integral; y,
 
-V. Elaborar protocolos de atención en los que se considere su situación familiar, su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como para la reparación integral del daño.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2017)</small>
+
+V. Elaborar protocolos de atención en los que se considere su situación familiar, su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como para la reparación integral del daño;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
+
+VI. Promover campañas de concientización sobre las formas positivas, no violentas y participativas de la crianza de niñas, niños y adolescentes, así como el diseño de políticas públicas de educación para la paz como política de Estado; y,
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2017)</small>
+
+VII. Realizar estudios periódicos que analicen el alcance de la violencia contra niñas, niños y adolescentes en todos los medios de comunicación, determinando las medidas idóneas para prevenir y atender esta expresión de violencia, dirigiéndolas tanto a menores que asistan a la escuela como a los no escolarizados.
 
 ### CAPÍTULO X. DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
@@ -1111,7 +1133,7 @@ XXVI. Promover campañas de difusión para prevenir cualquier forma de maltrato 
 
 ###### Artículo 72.
 
-Corresponden a las autoridades estatales en el ámbito de su (sic)competencias, las atribuciones siguientes:
+Corresponden a las autoridades estatales en el ámbito de su (sic) competencias, las atribuciones siguientes:
 
 I. Garantizar el cabal cumplimiento de la presente Ley, la Ley General y de los tratados internacionales aplicables, en la medida que favorezcan la protección del interés superior de la niñez;
 
@@ -1652,5 +1674,11 @@ P.O. 19 DE AGOSTO DE 2016.
 P.O. 18 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 188.- MEDIANTE EL CUAL SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 343 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 29, Y SE ADICIONA EL ARTÍCULO 31 BIS, ASÍ COMO EL PÁRRAFO TERCERO Y LAS FRACCIONES VI Y VII AL ARTÍCULO 32 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
