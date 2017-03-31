@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-las-mujeres-nuevo-leon-35808"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-17"
-last_updated: "2010-12-24"
+last_updated: "2017-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2003.
 
@@ -49,9 +49,11 @@ El Instituto Estatal de las Mujeres es un organismo público descentralizado de 
 
 El objeto general del Instituto es promover y fomentar las condiciones que posibiliten la no discriminación, la equidad, la igualdad de oportunidades, de trato entre los géneros, de la toma de decisiones y de los beneficios del desarrollo; el ejercicio pleno de todos los derechos de las mujeres y su participación equitativa en la vida política, económica y social del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2017)</small>
+
 ###### Artículo 4.
 
-Esta Ley garantiza a todas las mujeres que se encuentren en el territorio del Estado de Nuevo León, sin importar origen étnico, regional-nacional, idioma, edad, capacidades diferentes, condición social, condiciones de salud, convicciones, preferencias sexuales, estado civil, color, cultura, capacidad económica, religión, dogma o cualesquier otra, su derecho a los programas, servicios y acciones que se deriven del presente ordenamiento, bajo los principios de:
+Esta Ley garantiza a todas las mujeres que se encuentren en el territorio del Estado de Nuevo León, sin importar origen étnico, regional-nacional, idioma, edad, discapacidad, condición social, condiciones de salud, convicciones, preferencias sexuales, estado civil, color, cultura, capacidad económica, religión, dogma o cualesquier otra, su derecho a los programas, servicios y acciones que se deriven del presente ordenamiento, bajo los principios de:
 
 Transversalidad, en las políticas públicas con perspectiva de género en las distintas dependencias y entidades de la Administración Pública Estatal, a partir de la ejecución coordinada de programas.
 
@@ -559,7 +561,7 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN MARTÍNEZ DONDÉ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 14 DE JULIO DE 2006.
 
@@ -576,3 +578,9 @@ P.O. 3 DE DICIEMBRE DE 2010.
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 244. SE REFORMA POR MODIFICACIÓN EL PÁRRAFO PRIMERO DEL ARTICULO 4 DE LA LEY DEL INSTITUTO ESTATAL DE LAS MUJERES".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
