@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2016-12-30"
+last_updated: "2017-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CODIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA - ANTES CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA -
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -539,19 +541,19 @@ La reparación del daño a cargo del sentenciado, tiene carácter de pena públi
 
 La reparación del daño a la víctima debe ser integral, y comprende las medidas de restitución, rehabilitación, compensación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica. Cada una de estas medidas será implementada a favor de la víctima teniendo en cuenta la gravedad, magnitud así como las circunstancias y características del hecho victimizante, y en consecuencia, como mínimas, a cargo del sentenciado serán:
 
-> <small>(REFORMADA P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
 I.- El restablecimiento de las cosas al estado en que se encontraban antes de cometerse el delito;
 
-> <small>(REFORMADA P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
 II.- La restitución de la cosa obtenida por el delito, incluyendo sus frutos y accesorios y, si no fuese posible, el pago de su valor actualizado. Si se trata de bienes fungibles, el Juez, sin necesidad de recurrir a prueba pericial, podrá condenar a la entrega de un objeto igual al que fuese materia del delito;
 
-> <small>(REFORMADA P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
 III.- La reparación del daño material y moral sufrido; y
 
-> <small>(REFORMADA P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
 IV.- El resarcimiento de los perjuicios ocasionados.
 
@@ -1113,11 +1115,9 @@ La presente disposición es aplicable salvo lo ordenado en los artículos 85 Bis
 
 Cuando con el delito de imprudencia se cause homicidio o lesiones de las enumeradas en los artículos 307 y 308 fracciones IV y V de este ordenamiento legal, se sancionará de dos a nueve años de prisión, si el acusado, al cometer el delito, se hallaba en estado de embriaguez, superior al primer grado o bajo el efecto de enervantes, estupefacientes o psicotrópicos o cualquier sustancia que produzca un efecto similar, o si el conductor se da a la fuga o abandona el lugar del accidente.
 
-(NOTA: EL 20 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2016, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS “SUSPENSIÓN O” Y “LA DURACIÓN DE LA SUSPENSIÓN SERÁ SEÑALADA EN SENTENCIA Y COMENZARÁ CONFORME LA FRACCIÓN II DEL ARTÍCULO 64 DE ESTE CÓDIGO” Y, EN VÍA DE CONSECUENCIA, LA DE LAS PORCIONES RESTANTES DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE SEPTIEMBRE DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
-
-ADEMÁS SE SANCIONARÁ CON LA SUSPENSIÓN O CANCELACIÓN DEFINITIVA DE LA LICENCIA PARA CONDUCIR VEHÍCULOS AUTOMOTORES EXPEDIDA POR CUALQUIER INSTANCIA. LA DURACIÓN DE LA SUSPENSIÓN SERÁ SEÑALADA EN SENTENCIA Y COMENZARÁ CONFORME LA FRACCIÓN II DEL ARTÍCULO 64 DE ESTE CÓDIGO.
+Además se sancionará con la suspensión o cancelación definitiva de la licencia para conducir vehículos automotores expedida por cualquier instancia. La duración de la suspensión podrá ser de uno a diez años.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -3473,8 +3473,6 @@ Cualquier persona que tenga conocimiento de la comisión del delito de violació
 
 #### SECCIÓN CUARTA. VIOLENCIA FAMILIAR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 279.
@@ -3573,17 +3571,13 @@ Las mismas sanciones se impondrán a los terceros que recibieren al menor y a la
 
 Se considera como violencia familiar la agresión física, moral o patrimonial de manera individual o reiterada que se ejercita en contra de un miembro de la familia por otro integrante de la misma, con la afectación a la integridad física o psicológica o de ambas, independientemente de que puedan producir afectación orgánica.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 Comete el delito de violencia familiar el cónyuge; la cónyuge; concubino; concubina; pariente consanguíneo en línea recta sin limitación de grado; pariente colateral consanguíneo o por afinidad, hasta el cuarto grado; adoptado; adoptante; madrastra; padrastro; hijastra; hijastro; pupilo; pupila o tutor que intencionalmente incurra en la conducta descrita en el párrafo anterior, contra cualquier integrante de la familia que se encuentre habitando en la misma casa de la víctima. En el caso de que el pasivo sea mujer, debe entenderse que el delito de violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad de matrimonio, concubinato o mantenga o hayan mantenido una relación de hecho.
 
-(NOTA: EL 4 DE MARZO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE SEPTIEMBRE DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
-
-A quien cometa el delito de violencia familiar, se le impondrán de dos a ocho años de prisión Y MULTA DE CINCUENTA A CIENTO CINCUENTA DÍAS DE SALARIO; y estará sujeto a tratamiento integral para su rehabilitación por un tiempo que no rebase la sanción privativa de la libertad que se haya impuesto, así como la pérdida de la patria potestad, de los derechos hereditarios y de alimentos.
+A quien cometa el delito de violencia familiar, se le impondrán de dos a ocho años de prisión y multa de cincuenta hasta ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito; y estará sujeto a tratamiento integral para su rehabilitación por un tiempo que no rebase la sanción privativa de la libertad que se haya impuesto, así como la pérdida de la patria potestad, de los derechos hereditarios y de alimentos.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3781,7 +3775,7 @@ IV.- Cuando los plagiarios obren en grupo o banda.
 
 V.- Cuando se cometa robo de infante.
 
-> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -6512,3 +6506,19 @@ P.O. 30 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor a los diez días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 85 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR VIRTUD DEL CUAL SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 284 BIS DEL CÓDIGO PENAL DEL ESTADO LIBR Y SOBERANO DE PUEBLA.]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
