@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2016-07-01"
+last_updated: "2017-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2017.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -689,6 +689,8 @@ El Secretario Ejecutivo del Sistema, contará con el personal administrativo nec
 
 ### Capítulo I. Generalidades
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
+
 Protección y seguridad de servidores públicos
 
 ### Capítulo II. Limitantes en el otorgamiento de las medidas de Protección
@@ -707,15 +709,21 @@ Contarán con protección y seguridad personal durante el tiempo de su encargo o
 
 I. Gobernador del Estado;
 
-II. Secretario de Gobierno;
+II. Secretario de Gobierno; y
 
-III. Secretario de Seguridad Pública;
+III. Secretario de Seguridad Pública.
 
-IV. Los Presidentes Municipales; y
+La protección y seguridad personal será otorgada de manera proporcional al periodo laborado, que en ningún caso será superior a tres años.
 
-V. Los funcionarios municipales que ejerzan la dirección de las funciones operativas.
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
 
-El Gobernador podrá otorgar un periodo mayor atendiendo a las circunstancias que lo justifiquen.
+Protección y seguridad de servidores públicos municipales
+
+###### Artículo 37
+
+1. El Presidente y el funcionario municipal que de manera exclusiva y directa ejerzan la dirección de las funciones en materia de seguridad pública tendrán derecho a protección y seguridad personal durante el tiempo de su encargo o al gozar de licencia, así como por un periodo de un año al cesar en sus funciones siempre y cuando no sea removido por una causa grave imputable a ellos.
+
+La protección y seguridad personal será otorgada de manera proporcional al periodo laborado, que en ningún caso será superior a un año.
 
 Otros sujetos de medidas de protección y providencias
 
@@ -723,13 +731,15 @@ Otros sujetos de medidas de protección y providencias
 
 De acuerdo a la naturaleza del riesgo, de la amenaza recibida o bien por las funciones que desempeña, también tendrán derecho a recibir las medidas de protección el cónyuge, concubina, concubinario, descendientes y ascendientes en primer grado, durante el mismo periodo de tiempo en que la reciba el servidor público.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2017)</small>
+
 Protección y seguridad de otros servidores públicos
 
 ###### Artículo 39.
 
-El Gobernador del Estado, en acuerdo con el Secretario de Seguridad Pública, podrá otorgar a otros servidores públicos que estén desempeñando o hayan desempeñado cargos de alto riesgo en materia de seguridad pública, la prerrogativa establecida en el artículo que antecede para su protección y seguridad personal, cuando existan motivos que hagan presumir fundadamente situaciones de riesgo para éstos.
+El Gobernador del Estado, en acuerdo con el Secretario de Seguridad Pública, podrá otorgar a otros servidores públicos que estén desempeñando cargos de alto riesgo en materia de seguridad pública, la prerrogativa establecida en el artículo 37 para su protección y seguridad personal, cuando existan motivos que hagan presumir fundadamente situaciones de riesgo para éstos.
 
-Asimismo, podrá tomar este acuerdo el Presidente Municipal, con el Ayuntamiento.
+Asimismo, podrá tomar este acuerdo el Presidente Municipal, con el Ayuntamiento en terminos del artículo 37-1.
 
 Naturaleza de los datos de protección y seguridad
 
@@ -744,6 +754,10 @@ Centro de Evaluación y Control de Confianza del Estado
 ###### Artículo 41.
 
 Las medidas de protección se otorgarán siempre que no se comprometa la suficiencia de recursos humanos y materiales para la prestación del servicio de seguridad en el Estado o municipios y bajo ninguna circunstancia se permitirá que los recursos humanos y materiales destinados a la protección, sean utilizados para atender asuntos personales, siendo su única función la seguridad del servidor o exservidor público. La infracción a lo dispuesto en este artículo será motivo del retiro de las medidas de protección.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
+
+En el caso de los exfuncionarios, las medidas de protección se cancelarán de manera inmediata cuando cambien su residencia fuera del Estado o se incorporen a otra área de la administración pública que por su naturaleza les otorgue una protección similar.
 
 Limitantes de las medidas de protección y providencias
 
@@ -2856,3 +2870,9 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 178, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 37 Y 39 Y SE ADICIONAN LOS ARTÍCULOS 37-1 Y 41 CON UN SEGUNDO PÁRRAFO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
