@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2016-11-22"
+last_updated: "2017-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -39,7 +39,9 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN XL Y ARTÍCULO 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-C O N S I D E R A N D O…
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto, se expide el siguiente:
 
@@ -209,11 +211,21 @@ XXII. Tender a la comprensión de los problemas de la Entidad, procurando la int
 
 XXIII. Promover y fomentar la competitividad de los educandos, entendida ésta como la capacidad del estado para sostener y expandir su participación en la población y combatir el desempleo;
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-XXIV. Atender las situaciones derivadas de la vida familiar, social o comunitaria del educando, cuando éstas incidan negativamente en el desempeño académico; y
+XXIV. Atender las situaciones derivadas de la vida familiar, social o comunitaria del educando, cuando éstas incidan negativamente en el desempeño académico;
 
-XXV. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XXV. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de 18 años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XXVI. Fomentar entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto a las mejores prácticas para hacer uso apropiado de internet y de las redes sociales; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XXVII. Prevenir la comisión de delitos en materia de tecnologías y cibernética advirtiendo de los riesgos por el uso de internet y las redes sociales.
 
 Los fines anteriores se realizarán gradual y coordinadamente, según la edad, el desarrollo mental de los educandos, tipo y grado de educación. En las escuelas normales, formadoras de docentes y en las de posgrados para docentes, se les dedicará una mayor atención, un estudio más profundo y un mayor número de prácticas operativas a dichos fines, a efecto de preparar mejor a quienes se dedicarán al ejercicio docente.
 
@@ -1017,9 +1029,17 @@ XI. Promoverá mayor participación de la sociedad en la educación, así como e
 
 XII. Realizará actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior;
 
-XIII. Establecerá, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-XIV. Impulsará esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria.
+XIII. Establecerá, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XIV. Impulsará esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XV. Promoverá la enseñanza de una lengua extranjera en particular el idioma inglés, para aumentar las habilidades de los alumnos de educación básica, apoyándose con el material humano y didáctico necesarios para tal efecto.
 
 Las autoridades educativas estatal y municipal llevarán a cabo medidas tendientes a propiciar condiciones sociales que incidan en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
@@ -1614,3 +1634,15 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 264 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 89 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 267 POR EL QUE SE REFORMAN LAS FRACCIONES XXIV Y XXV Y SE ADICIONAN LAS FRACCIONES XXVI Y XXVII AL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
