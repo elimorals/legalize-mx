@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2017-03-04"
+last_updated: "2017-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -65,8 +67,6 @@ Para los efectos de la presente Ley, cuando en ella se exprese Constitución: se
 
 El Congreso se integra por el número de Diputados que disponen la Constitución y el Código Electoral del Estado de Colima.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 4°.
@@ -91,8 +91,6 @@ El primer período iniciará precisamente el primero de octubre y concluirá el 
 
 Se consideran días hábiles para el trabajo legislativo y parlamentario, todos los comprendidos dentro de cada uno de los períodos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 7°.
@@ -101,8 +99,6 @@ El Recinto Legislativo es inviolable. Queda prohibido a toda fuerza pública, te
 
 Dentro del Recinto Legislativo se prohíbe a toda persona fumar, ingerir bebidas alcohólicas y portar armas de fuego.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 8°.
@@ -110,8 +106,6 @@ Dentro del Recinto Legislativo se prohíbe a toda persona fumar, ingerir bebidas
 El Congreso o una comisión legislativa podrá citar a cualquier servidor público de la Administración Pública Estatal o Paraestatal, Municipal o Paramunicipal, o a personas físicas o morales que hayan manejado recursos de la hacienda pública, en los siguientes casos:
 
 I.- Cuando se encuentre en estudio una iniciativa para la expedición o reformas de un ordenamiento relacionado con el área de su competencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -134,8 +128,6 @@ Serán nulos de pleno derecho los actos realizados en contravención a este art�
 ###### ARTICULO 11.
 
 Esta Ley, sus reformas y adiciones, así como su Reglamento, no necesitan promulgación del Gobernador del Estado, ni podrán ser objeto de veto, únicamente le serán turnadas para los efectos de su publicación. Es competencia exclusiva de los Diputados, la presentación de iniciativas de reforma, adición, abrogación o derogación de la presente Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -201,8 +193,6 @@ II.- Elegir y ser electos para integrar los diversos órganos del Congreso;
 
 III.- Formar parte de un grupo parlamentario;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 IV.- Participar con voz y voto en las sesiones del Congreso con excepción de aquellas en que sea declarada su ausencia o se incorporen después del pase de lista, en cuyo caso participarán únicamente con voz pero sin voto;
@@ -242,8 +232,6 @@ III.- Asistir puntualmente a las sesiones, tanto del Congreso, como de las comis
 IV.- Permanecer en el salón de sesiones durante el desarrollo de las mismas;
 
 V.- Conducirse con respeto en sus intervenciones, durante las sesiones y trabajos legislativos en los que participen;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -337,8 +325,6 @@ I.- Recibir de la Oficialía Mayor:
 
 a).- Las constancias que los Consejos Municipales Electorales o el Consejo General Electoral hayan entregado a cada Diputado electo, conforme lo establece el Código Electoral del Estado; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 b).- La notificación de las resoluciones firmes del Tribunal Electoral del Estado recaídas a los recursos de que haya conocido, de acuerdo con lo establecido en la Ley Estatal del Sistema de Medios de Impugnación en Materia Electoral.
@@ -358,8 +344,6 @@ IV.- Citará de manera fehaciente, a los Diputados electos, a una junta previa q
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
 V.- Entregará en su oportunidad y por inventario, a la Directiva Provisional de la Legislatura entrante, la totalidad de los documentos electorales a que se refiere la fracción I de este artículo, así como el inventario de los bienes muebles, situación financiera, instalaciones del Poder Legislativo y la documentación propia de las actividades legislativas pendientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -390,8 +374,6 @@ e).- A continuación, el Presidente de la Directiva Provisional nombrará dos co
 f).- El Presidente de la Directiva Provisional citará a sesión solemne de instalación de la nueva Legislatura, conforme lo establecido en el artículo siguiente;
 
 g).- Finalmente, el Presidente de la Directiva Provisional entregará la documentación a que se refiere la fracción IV del artículo anterior, al Presidente de la Directiva del primer período ordinario de sesiones, en la sesión de instalación de la Legislatura, quien en su momento los turnará a la Comisión de Gobierno.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -489,8 +471,6 @@ El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, �
 
 En caso de ausencia del Presidente o cuando este debiera abandonar el Recinto, el Vicepresidente estará facultado a firmar las resoluciones que expida el Congreso y la correspondencia que tenga el carácter de urgente y así lo requiera.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 De igual manera en ausencia justificada del Presidente, tendrá la representación legal del Congreso en los términos de la fracción II del artículo 42 de esta Ley.
@@ -534,8 +514,6 @@ VIII.- Conducir los debates;
 IX.- Dar curso reglamentario a los negocios y determinar los trámites que deban recaer en los asuntos con que se dé cuenta al Congreso;
 
 X.- Someter a discusión y votación los dictámenes que presenten las Comisiones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -627,8 +605,6 @@ XI.- Supervisar las funciones de la Oficialía Mayor en cuanto a la Secretaría 
 
 XII.- Proporcionar la documentación necesaria para la edición del Diario de los Debates;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 XIII.- Turnar, una vez aprobado, el proyecto anual de presupuesto de egresos del Poder Legislativo al Gobernador del Estado, para los efectos de la Ley de Presupuesto y Gasto Publico Estatal; y
@@ -691,13 +667,9 @@ V.- Elaborar, conjuntamente con la Comisión de Hacienda y Presupuesto, el antep
 
 VI.- Ejercer el presupuesto de egresos del Poder Legislativo e informar por escrito trimestralmente a la Asamblea;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 VII.- Autorizar las condiciones generales de trabajo de los servidores públicos del Congreso, a propuesta de la Oficialía Mayor; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 VIII.- (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
@@ -750,8 +722,6 @@ El Congreso contará con el número de comisiones que requiera el cumplimiento d
 I.- Permanentes; y
 
 II.- Especiales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -825,15 +795,11 @@ XXIII.- Protección Civil.
 
 Estas comisiones permanentes serán por todo el ejercicio constitucional. A petición de uno de sus miembros o de un Grupo Parlamentario, podrán proponerse cambios en su conformación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 57.
 
 Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas y demás asuntos que les sean turnados por la Directiva o la Asamblea y presentarán por escrito su dictamen en los plazos previstos por el artículo 92 del presente ordenamiento que iniciaran a partir del día siguiente de recibir los expedientes respectivos. Las comisiones dispondrán de recursos económicos para el desempeño de sus programas, de conformidad con las disponibilidades presupuestales del Congreso; el Presidente de cada comisión presentará anualmente el programa de trabajo correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -987,8 +953,6 @@ Las sesiones del Congreso serán: ordinarias o extraordinarias, podrán ser púb
 
 Durante los períodos ordinarios, el Congreso celebrará sesiones cuantas veces sea necesario, para el oportuno despacho de los negocios de su competencia, debiendo hacerlo, cuando menos, una vez por semana. Lo acontecido en estas será consignado en el Libro de Actas correspondiente y publicado en el Periódico Oficial del Estado; igualmente quedará asentado en el Diario de Debates del Congreso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 74.
@@ -1002,8 +966,6 @@ En las sesiones, los Diputados ocuparán las curules sin preferencia alguna en e
 Las sesiones del Congreso se celebrarán en los días y horas en que sean convocadas y podrán ser diferidas, previo acuerdo emitido por la Comisión de Gobierno Interno y Acuerdos Parlamentarios y del Presidente de la Mesa Directiva o de la Comisión Permanente.
 
 El acta de la sesión con la que se clausura un período ordinario, las funciones de la Comisión Permanente y las de cada una de las sesiones extraordinarias deberán ser discutidas y aprobadas en la misma sesión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1021,13 +983,9 @@ II.- Las comunicaciones que se dirijan a la Legislatura con la nota de reservado
 
 III.- Los demás asuntos que la Directiva califique de reservados o cuando se desahoguen asuntos que uno o más Diputados soliciten se trate en esta clase de sesiones, con la aprobación de la mayoría simple.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 A las sesiones secretas podrán asistir, además de los Diputados, los servidores públicos del Congreso que sean estrictamente necesarios, quienes están obligados a guardar la más absoluta reserva de ley sobre los asuntos tratados en ellas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1053,8 +1011,6 @@ e).- Rinda el Gobernador el informe preceptuado en el artículo 31 de la Constit
 
 f).- Ocurran en visita delegaciones parlamentarias del Congreso de la Unión, de los Congresos de los Estados o de otros países;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 g).- Rindan protesta los Magistrados de los Tribunales Administrativos y Electorales; los Consejeros del Instituto Electoral del Estado y el Presidente y Consejeros de la Comisión de Derechos Humanos del Estado, de acuerdo con las leyes respectivas;
@@ -1075,21 +1031,25 @@ I.- Lista de asistencia;
 
 II.- Declaración en su caso de quórum legal e instalación de la Asamblea;
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-III.- Elección de la Mesa Directiva únicamente en los casos señalados en el artículo 107 de esta Ley;
+III.- Honores a la Bandera;
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-IV.- Desarrollo del asunto que dio origen a la sesión;
+IV.- Elección de la Mesa Directiva Únicamente en los casos señalados en el artículo 107 de esta Ley;
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-V.- Convocatoria a sesión ordinaria; y
+V.- Desarrollo del asunto que dio origen la sesión;
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-VI.- Clausura.
+VI.- Convocatoria a sesión ordinaria; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+VII.- Clausura.
 
 El acta que se levante con motivo de una sesión solemne, sin sujetarse al trámite de discusión y aprobación, deberá mandarse publicar en los términos que sea redactada y aprobada por la Directiva o la Comisión Permanente.
 
@@ -1133,15 +1093,11 @@ Las iniciativas podrán ser de ley, de decreto, de acuerdo y de acuerdo económi
 
 I.- Es iniciativa de ley, aquella resolución directa, impersonal y general que otorgue derechos o imponga obligaciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 II.- Es iniciativa de decreto, aquella resolución concreta, individual y personalizada que otorgue derechos o imponga obligaciones;
 
 III.- Es iniciativa de acuerdo, toda resolución del Congreso que, por su naturaleza, no requiera de la promulgación del Ejecutivo; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1156,8 +1112,6 @@ Las iniciativas se turnarán por medio electrónico a las comisiones legislativa
 ###### ARTICULO 86.
 
 Ninguna iniciativa de ley o decreto se presentará a la Asamblea, sin que antes haya sido analizada y dictaminada por la comisión o comisiones correspondientes; esta exigencia sólo podrá dispensarse, en aquellos asuntos que a juicio del Congreso, tengan el carácter de urgentes, no ameriten mayor examen o cuyo trámite se hubiese dispensado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1247,8 +1201,6 @@ Cuando en la presente Ley o en su Reglamento no se señale expresamente el tipo 
 
 Habrá tres tipos de votaciones: nominal, económica y secreta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 97.
@@ -1328,8 +1280,6 @@ En los recesos del Congreso, funcionará una Comisión Permanente integrada por 
 ###### ARTICULO 105.
 
 La Comisión Permanente se instalará al siguiente día en que el Congreso cierre su período ordinario de sesiones. Comunicará al Ejecutivo del Estado y al Poder Judicial su instalación, igual comunicación se hará a las autoridades que se señalan en el artículo 37 de la presente ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1551,6 +1501,12 @@ SEGUNDO.- La Comisión de Gobierno Interno y Acuerdos Parlamentarios deberá ses
 
 P.O. 4 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 271 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 50 Y ADICIONAR (SIC) LOS ARTÍCULOS 63 BIS Y 63 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 271 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 50 Y ADICIONAR (SIC) LOS ARTÍCULOS 63 BIS Y 63 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación debiéndose publicar en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 261 POR EL QUE SE REFORMA EL ARTÍCULO 79 BIS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
