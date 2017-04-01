@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-la-juventud-61001"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2008-04-12"
+last_updated: "2017-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA JUVENTUD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA JUVENTUD, PUBLICADO EN EL P.O. DE 1 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
 JESÚS SILVERIO CAVAZOS CEBALLOS, Gobernador Constitucional del Estado Libre y Soberano de Colima, en ejercicio de la facultad que al Ejecutivo a mi cargo le confiere el artículo 58, fracción III, de la Constitución Política del Estado Libre y Soberano de Colima y con fundamento en lo dispuesto por los artículos 3, 12, y 24 BIS 5 de la Ley Orgánica de la Administración Pública del Estado; y
 
-C O N S I D E R A N D O:.
+C O N S I D E R A N D O:
+
+[...]
 
 CUARTO.- Que el artículo 24 BIS 5 de la Ley Orgánica de la Administración Pública del Estado establece las atribuciones de la Secretaría de la Juventud, y que en base a éstas y asumiendo su responsabilidad social, se crea el presente Reglamento.
 
@@ -596,3 +600,17 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en la residencia del Poder Ejecutivo, en Palacio de Gobierno a los trece días del mes de marzo del dos mil ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica. EL SECRETARIO DE LA JUVENTUD, LIC. JOSÉ MANUEL ROMERO COELLO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA JUVENTUD”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. En (sic) el presente reglamento es de nueva creación, por lo que el anterior de fecha 12 de abril del 2008 se abroga, quedando sin efectos legales.
+
+TERCERO. Los procedimientos, y demás asuntos que se encuentren en curso, o pendientes de resolución a la entrada en vigor del presente Reglamento, que conforme al mismo deban pasar de una Unidad Administrativa a otra, continuarán su trámite y serán resueltos por la Unidad Administrativa competente en los términos del presente Reglamento.
+
+CUARTO. Los trabajadores que con motivo de la aplicación del presente Reglamento deban quedar adscritos a una Unidad Administrativa diferente a su actual centro de trabajo, continuarán laborando en las mismas condiciones laborales, con pleno reconocimiento de los derechos que hubieren generado.
