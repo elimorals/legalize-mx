@@ -4,7 +4,7 @@ identifier: "COL-ley-de-residuos-solidos-del-estado-de-colima-50291"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-08"
-last_updated: "2016-11-22"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 8 de abril de 2006.
 
@@ -123,23 +123,33 @@ XXX. Reglamento: Al Reglamento de la Ley de Residuos Sólidos del Estado de Coli
 
 XXXI. Relleno sanitario: la obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos ubicados en sitios adecuados al ordenamiento ecológico, mediante el cual los residuos sólidos se depositan y compactan al menor volumen práctico posible y se cubren con material natural o sintético para prevenir y minimizar la generación de contaminantes al ambiente y reducir los riesgos a la salud;
 
-XXXII. Residuos de manejo especial: Los que requieran sujetarse de planes de manejo específico con el propósito de seleccionarlos, acopiarlos, trasportarlos, aprovechar su valor o sujetarlos a tratamiento o disposición final de manera ambientalmente adecuada y controlada;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ABRIL DE 2017)</small>
 
-XXXIII. Residuos urbanos: los generados en casa habitación, unidad habitacional o similares que resulten de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalaje o empaques, los provenientes de cualquier actividad que genere residuos sólidos con características domiciliarias y los resultantes de la limpieza de las vías públicas y áreas comunes, siempre que no estén considerados por esta Ley como residuos de manejo especial;
+XXXII. Residuos Electrónicos: son aquellos productos usados, caducos, retirados del comercio o desechados, manufacturados por las industrias de la electrónica o de tecnologías de la información, que requieren de corriente eléctrica o campos electromagnéticos para su operación o funcionamiento, y cuya vida útil haya terminado incluyendo los aditamentos, accesorios, periféricos, consumibles y subconjuntos que los componen al momento de ser desechados;
 
-XXXIV. Residuos orgánicos: Todo residuo sólido biodegradable;
+XXXIII. Residuos de manejo especial: Los que requieran sujetarse de planes de manejo específico con el propósito de seleccionarlos, acopiarlos, transportarlos, aprovechar su valor o sujetarlos a tratamiento o disposición final de manera ambientalmente adecuada y controlada;
 
-XXXV. Residuos inorgánicos: Todo residuo que no tenga características de residuo orgánico y que pueda ser susceptible a un proceso de valorización para su reutilización y reciclaje, tales como vidrio, papel, cartón, plástico, laminados de materiales reciclables, aluminio y metales no peligrosos y demás no considerados como manejo especial;
+XXXIV. Residuos urbanos: los generados en casa habitación, unidad habitacional o similares que resulten de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalaje o empaques, los provenientes de cualquier actividad que genere residuos sólidos con características domiciliarias y los resultantes de la limpieza de las vías públicas y áreas comunes, siempre que no estén considerados por esta Ley como residuos de manejo especial;
 
-XXXVI. Residuos sólidos: El material, producto o subproducto que sin ser considerado como peligroso, se descarte o deseche y que sea susceptible de ser aprovechado o requiera sujetarse a métodos de tratamiento o disposición final;
+XXXV. Residuos orgánicos: Todo residuo sólido biodegradable;
 
-XXVII. Reutilización: El empleo de un residuo sólido sin que medie un proceso de transformación;
+XXXVI. Residuos inorgánicos: Todo residuo que no tenga características de residuo orgánico y que pueda ser susceptible a un proceso de valorización para su reutilización y reciclaje, tales como vidrio, papel, cartón, plástico, laminados de materiales reciclables, aluminio y metales no peligrosos y demás no considerados como de manejo especial;
 
-XXXVIII. Secretaría: La Secretaría de Desarrollo Urbano del Estado de Colima;
+XXXVII. Residuos sólidos: El material, producto o subproducto que sin ser considerado como peligroso, se descarte o deseche y que sea susceptible de ser aprovechado o requiera sujetarse a métodos de tratamiento o disposición final;
 
-XXXIX. Secretaría de Salud: A la Secretaría de Salud y Bienestar Social del Estado de Colima, y
+XXXVIII. Reutilización: El empleo de un residuo sólido sin que medie un proceso de transformación;
 
-XL. Tratamiento: el procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XXXIX. Secretaría: La Secretaría de Infraestructura y Desarrollo Urbano del Estado de Colima;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XL. Secretaría de Salud: A la Secretaría de Salud y Bienestar Social del Estado de Colima; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XLI. Tratamiento: el procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad.
 
 ## TITULO SEGUNDO. DE LA COMPETENCIA
 
@@ -263,7 +273,7 @@ X. Solicitar autorización de la Secretaría para el otorgamiento de las declara
 
 XI. Solicitar a la Secretaría la realización de estudios con relación a las propuestas que éstas le envíen para otorgar concesiones para la prestación del servicio público de limpia de competencia de los Ayuntamientos y, en su caso, aprobar dichas concesiones;
 
-XII. Participar, bajo la coordinación de la Secretaría, en la atención de los asuntos de los efectos que genere la realización de los servicios de limpia que se realicen en el Municipio y que afecten o puedan afectar a otro Municipio;
+XII. Participar, bajo la coordinación de la Secretaría, en la atención de los asuntos de los efectos que genere la realización de los servicios de limpia que se realicen en el Municipio y que afecten o puedan afectar u otro Municipio;
 
 XIII. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley, su Reglamento y demás disposiciones aplicables;
 
@@ -543,7 +553,9 @@ IV. Los de servicios de transporte, generados como consecuencia de las actividad
 
 V. Los residuos de la demolición, mantenimiento y construcción civil en general;
 
-VI. Los residuos tecnológicos provenientes de las industrias de informática, fabricantes de productos electrónicos o de vehículos automotores y otros que al transcurrir su vida útil y que, por sus características, requieran de un manejo específico;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+VI. Los residuos electrónicos previstos en la fracción XXXII del artículo 3° de esta Ley y que por sus características requieran de un manejo específico;
 
 VII. Los lodos deshidratados;
 
@@ -988,3 +1000,11 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 268 POR EL QUE SE REFORMA LA FRACCIÓN XXXII, HACIÉNDOSE UN CORRIMIENTO DE LAS FRACCIONES XXXIII A LA XL; Y SE ADICIONA LA FRACCIÓN XLI AL ARTÍCULO 3; Y SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 31, TODOS DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El presente Decreto se dará a conocer a través de Oficialía Mayor, a los diez Ayuntamientos del Estado de Colima.
