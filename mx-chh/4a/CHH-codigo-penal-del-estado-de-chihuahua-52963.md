@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2017-02-22"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -479,13 +479,9 @@ Tratándose del delito de homicidio doloso en perjuicio de mujeres o menores de 
 
 Cuando varios delitos dolosos sean cometidos por miembros de corporaciones policíacas, autoridades ministeriales, judiciales o de ejecución de penas y medidas judiciales, en cualquier grado de participación, deberá imponérseles la pena que corresponda para cada uno de ellos, pudiendo aumentarse a la suma total de la pena impuesta, de una a dos terceras partes de aquélla, aun cuando con ello se exceda el máximo de la pena de prisión temporal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 211)</small>
 
 En la hipótesis prevista en el párrafo anterior, la penalidad siempre se aumentará de una a dos terceras partes a la suma total de la pena impuesta, si entre los delitos cometidos se encuentra el Homicidio, Extorsión, Robo, Amenazas o Daños, en los supuestos del artículo 237.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
@@ -653,7 +649,7 @@ En los casos de los delitos contra la libertad y seguridad sexual de las persona
 
 Con independencia del que se pueda causar en otros, se presume la existencia de daño moral en los siguientes delitos:
 
-l. Tráfico de menores cuando se realice a cambio de un beneficio económico;
+I. Tráfico de menores cuando se realice a cambio de un beneficio económico;
 
 II. Violencia familiar;
 
@@ -2013,13 +2009,9 @@ La pena de prisión se aumentará en una mitad, cuando la privación de la liber
 
 ### CAPÍTULO III
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
 ###### Artículo 159.
 
 (DEROGADO, P.O. 7 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2011)</small>
 
@@ -2029,11 +2021,7 @@ La pena de prisión se aumentará en una mitad, cuando la privación de la liber
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
 Artículo 160 bis. (DEROGADO, P.O. 12 DE FEBRERO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 ###### Artículo 161.
 
@@ -2043,13 +2031,9 @@ Artículo 160 bis. (DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
 (DEROGADO, P.O. 23 DE OCTUBRE DE 2010) (REPUBLICADO, P.O. 12 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
 ###### Artículo 163.
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 ###### Artículo 164.
 
@@ -2715,6 +2699,10 @@ II. Si excediera de una pero no de diez cabezas, se aplicará prisión de cuatro
 
 III. Cuando el número de cabezas fuera mayor de diez, se aplicará prisión de seis a quince años y multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
+
+Cuando en el robo concurra alguna de las hipótesis contempladas en las fracciones I, II, III, VI, X o XI del artículo 211 de este Código, la penalidad se aumentará en una cuarta parte. Si concurriera cualquiera de las hipótesis contempladas en las fracciones II o III del artículo 212, la pena a imponer se aumentará en un tercio.
+
 ###### Artículo 217.
 
 El robo de ganado asnal, ovino, caprino o porcino, se sancionará conforme a las normas siguientes:
@@ -2731,7 +2719,9 @@ II. Si excedieran de diez cabezas, se aplicará prisión de tres a ocho años y 
 
 Las mismas penas a que se refieren los artículos anteriores, se aplicarán a quienes realicen conductas consistentes en:
 
-I. Herrar, modificar o destruir los fierros, marcas o señales, que sirvan para identificar la propiedad de semovientes, sin el consentimiento de quien deba otorgarlo.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+I. Herrar, modificar o destruir los fierros, marcas o señales, o aretes oficiales, que sirvan para identificar la propiedad de semovientes, sin el consentimiento de quien deba otorgarlo.
 
 II. Transportar dolosamente ganado robado.
 
@@ -3915,7 +3905,7 @@ Las penas se aumentarán en una mitad, cuando el objeto falsificado o alterado s
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
 
 ###### Artículo 329.
 
@@ -4267,9 +4257,17 @@ II.- Se trate de un área natural protegida del Estado.
 
 ###### Artículo 361.
 
-A quien introduzca ganado bovino al Estado o lo movilice sin cumplir con las normas oficiales, se le impondrán de tres años seis meses a seis años de prisión y de mil a diez mil días multa.
+A quien introduzca ganado bovino al Estado o lo movilice en contravención a lo establecido en el Capítulo Cuarto del Título Tercero de la Ley de Ganadería del Estado de Chihuahua, se le impondrán de tres años seis meses a seis años de prisión y de mil a diez mil días multa.
 
-Si la introducción se realiza con la intención de comercializarlo para exportación, se le impondrán de cinco años seis meses a siete años de prisión y de cinco mil a diez mil días multa.
+Se aplicarán las mismas sanciones a quien movilice ganado dentro del territorio estatal, en contravención a lo establecido en el Capítulo Tercero del Título Tercero de la Ley de Ganadería del Estado de Chihuahua.
+
+Si las conductas anteriores se realizan con la intención de comercializarlo para exportación, se le impondrán de cinco años seis meses a siete años de prisión y de cinco mil a diez mil días multa.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
+
+###### Artículo 361 Bis.
+
+A quien aplique o reutilice los aretes oficiales que no correspondan al ganado, fierro y Unidad de Producción Pecuaria o Prestador de Servicios Ganaderos registrados originalmente, o reasigne, aplique o reutilice aretes oficiales de una zona de estatus sanitario inferior a otra de mayor, se le impondrá de tres años seis meses a seis años de prisión y de mil a diez mil días multa.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
 
@@ -4962,3 +4960,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1131/2015 I P.O., MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 218, ASÍ COMO EL ARTÍCULO 361; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 216 Y UN ARTÍCULO 361 BIS, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+La reforma al artículo 216 del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas a los artículos 218 y 361, así como la adición del artículo 361 bis, entrarán en vigor al mismo tiempo en que lo haga el Decreto No. 1037/ 2015 I P.O., por el que se expide la Ley de Ganadería del Estado de Chihuahua.
