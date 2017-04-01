@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-para-el-fomento-a-la-lectura-y-al-libro-51624"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-02"
-last_updated: "2006-09-02"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL PARA EL FOMENTO A LA LECTURA Y AL LIBRO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento Número 3 al Periódico Oficial del Estado de Colima, el sábado 2 de septiembre de 2006.
 
@@ -37,7 +37,7 @@ EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN E
 
 C O N S I D E R A N D O
 
-.
+[...]
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -51,41 +51,127 @@ Se aprueba la Ley Estatal para el Fomento a la Lectura y al Libro, para quedar c
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2017)</small>
+
 ###### Artículo 1°.
 
-La Ley tiene por objeto organizar los esfuerzos del Gobierno Estatal, para fomentar la lectura entre los colimenses y dotar al gobierno de los instrumentos normativos necesarios, para aprovechar las políticas federales en la materia y alentar la participación de los Gobiernos Municipales.
+La Ley es de orden público, de interés social, de observancia en todo el territorio del Estado, y tiene por objeto organizar los esfuerzos del Gobierno Estatal, para fomentar la lectura entre los colimenses y dotar al gobierno de los instrumentos normativos necesarios, para aprovechar las políticas federales en la materia y alentar la participación de los Gobiernos Municipales.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2017)</small>
+
+Igualmente, tiene como objetivos específicos, los siguientes:
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+I. Propiciar la generación de políticas, programas, proyectos y acciones dirigidas al fomento y promoción de la lectura;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+II. Formular y estimular la edición, distribución y comercialización del libro y las publicaciones periódicas;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+III. Fomentar y apoyar el establecimiento y desarrollo de librerías, bibliotecas y otros espacios públicos y privados para la lectura y difusión del libro; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+IV. Hacer accesible el libro en igualdad de condiciones en todo el territorio estatal, para aumentar su disponibilidad y acercarlo al lector.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
 
 ###### Artículo 2°.
 
-La Ley se fundamenta en la convicción de que la lectura, y en especial la lectura de libros, es un elemento fundamental para el progreso individual y colectivo, y que el grado de desarrollo de una sociedad, puede medirse por el número y calidad de sus lectores, así como por la infraestructura que sostiene a la lectura.
+El fomento a la lectura y el libro se establece en esta Ley en el marco de las garantías constitucionales de libertad de escribir, editar y publicar libros sobre cualquier materia, propiciando el acceso a la lectura y el libro en toda la población; ya que esta última es un elemento fundamental para el progreso individual y colectivo y que el grado de desarrollo de una sociedad, puede medirse por el número y calidad de sus lectores, así como por la infraestructura que sostiene a la lectura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2017)</small>
 
 ###### Artículo 3°.
 
-El Gobierno Estatal, mediante las disposiciones de esta Ley:
+El Gobierno Estatal, a través de sus dependencias, mediante las disposiciones de esta Ley, tendrá las atribuciones siguientes:
 
-I. Fomentará el hábito de la lectura entre los colimenses;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-II. Buscará elevar los niveles de lectura de libros;
+I. Fomentar el hábito de la lectura entre los colimenses;
 
-III. Alentará la producción local de libros con especial dedicación a las obras de autores locales; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-IV. Facilitará a la población interesada el acceso a los libros, participando activamente en las políticas federales relativas a su distribución y circulación.
+II. Buscar elevar los niveles de lectura de libros;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+III. Alentar la producción local de libros con especial dedicación a las obras de autores locales;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+IV. Estimular la capacitación y formación profesional de los diferentes actores de la cadena del libro y promotores de la lectura;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+V. Impulsar la creación de un Programa de Fomento para el Libro y la Lectura, y poner en práctica las políticas y estrategias contenidas en éste;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+VI. Fomentar el acceso al libro y la lectura, promoviendo que se formen lectores cuya comprensión lectora corresponda al nivel educativo que cursan, en coordinación con las autoridades educativas locales;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+VII. Garantizar la distribución oportuna, completa y eficiente de los libros de texto gratuitos, así como de los acervos para bibliotecas escolares y de aula y otros materiales educativos indispensables en la formación de lectores en las escuelas de educación básica y normal, en coordinación con las autoridades educativas locales;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+VIII. Diseñar políticas para incorporar, en la formación inicial y permanente de maestros, directivos, bibliotecarios y equipos técnicos, contenidos relativos al fomento a la lectura y la adquisición de competencias comunicativas que coadyuven a la formación de lectores, en colaboración con las autoridades educativas locales;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+IX. Considerar la opinión de las autoridades educativas locales, de los maestros y de los diversos sectores sociales para el diseño de políticas de fomento a la lectura y el libro;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+X. Promover el acceso y distribución de libros, fortaleciendo el vínculo entre escuelas y bibliotecas públicas, en colaboración con las autoridades educativas locales, las instituciones de educación superior e investigación, la iniciativa privada y otros actores interesados;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XI. Impulsar carreras técnicas y profesionales en el ámbito de la edición, la producción, promoción y difusión del libro y la lectura, en colaboración con autoridades educativas, instituciones de educación media superior y superior y la iniciativa privada;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XII. Promover, conjuntamente con la iniciativa privada, acciones que estimulen la formación de lectores;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XIII. Estimular y facilitar la participación de la sociedad civil en el desarrollo de acciones que promuevan la formación de lectores entre la población abierta; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XIV. Facilitar a la población interesada el acceso a los libros, participando activamente en las políticas federales relativas a su distribución y circulación.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
+
+###### Artículo 3° Bis.
+
+Las Secretarías de Cultura y de Educación, son las instancias responsables de incentivar y promover la concurrencia, vinculación y congruencia de los programas y acciones de los distintos órdenes de gobierno, con base en los objetivos, estrategias y prioridades de la política estatal de fomento a la lectura y el libro.
 
 ###### Artículo 4°.
 
 Para el cumplimiento de estos objetivos, el Gobierno Estatal promoverá una adecuada coordinación de esfuerzos con las familias, las escuelas, las instituciones públicas y privadas de educación superior, las instituciones y organismos dedicados a la cultura, las organizaciones cívicas, las empresas privadas, los medios de comunicación y las distintas dependencias de gobierno, siempre dentro de sus atribuciones legales. Se promoverá, además, la participación de ciudadanos especialmente interesados en la promoción cultural y el fomento a la lectura.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
+
 ###### Artículo 5°.
 
-El Gobierno Estatal intervendrá activamente, de acuerdo a su ámbito de responsabilidad, en las políticas destinadas al fomento a la lectura, diseñadas y aplicadas por el Gobierno Federal.
+El Gobierno Estatal intervendrá activamente, de acuerdo a su ámbito de responsabilidad, en las políticas destinadas al fomento a la lectura y el libro, diseñadas y aplicadas por el Gobierno Federal.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
 
 ###### Artículo 6°.
 
-El Gobierno Estatal promoverá la activa participación de los Gobiernos Municipales en las tareas establecidas por esta Ley. De igual forma, estimulará en ellos la creación de comisiones municipales de fomento a la lectura, involucrándolas en el diseño y aplicación de estrategias estatales.
+El Gobierno Estatal promoverá la activa participación de los Gobiernos Municipales en las tareas establecidas por esta Ley. De igual forma, estimulará en ellos la creación de comisiones municipales de fomento a la lectura y al libro, involucrándolas en el diseño y aplicación de estrategias estatales.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
 
 ###### Artículo 7°.
 
-El Gobierno Estatal promoverá la participación de las escuelas públicas de todos los niveles establecidas en la entidad, así como de los colegios e instituciones educativas privadas, en la celebración de actividades relacionadas con el fomento a la lectura.
+El Gobierno Estatal promoverá la participación de las escuelas públicas de todos los niveles establecidas en la entidad, así como de los colegios e instituciones educativas privadas, en la celebración de actividades relacionadas con el fomento a la lectura y al libro.
 
 ###### Artículo 8°.
 
@@ -103,9 +189,11 @@ El Gobierno Estatal creará una Comisión con el fin de apoyarse en el diseño, 
 
 Se entenderá como Comisión a la Comisión Estatal para el Fomento a la Lectura y el Libro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2017)</small>
+
 ###### Artículo 11.
 
-La Comisión estará integrada por el Gobernador del Estado, en calidad de Presidente, por los Secretarios de Cultura, Educación y Planeación en calidad de Vicepresidentes y por un Secretario Técnico designado por el Gobernador del Estado.
+La Comisión estará integrada por el Gobernador del Estado, en calidad de Presidente, por los Secretarios de Cultura, en su calidad de Vicepresidente; de Educación y de Planeación y Finanzas, en su calidad de vocales, y por un Secretario Técnico designado por el Gobernador del Estado.
 
 Se invitará en calidad de integrantes, en un número que no será superior a los veinte, a representantes de instituciones de educación superior radicadas en la entidad, de organismos cívicos y sociales y de las distintas cámaras empresariales.
 
@@ -113,9 +201,11 @@ También serán integrantes los representantes de cultura de cada Gobierno Munic
 
 Los integrantes de la Comisión no percibirán remuneración alguna en el desempeño de su función.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2017)</small>
+
 ###### Artículo 12.
 
-La Comisión estará obligada a sesionar por lo menos dos veces al año. Una de esas sesiones será para dar a conocer las actividades previstas para el año en curso, de acuerdo al Plan Estatal de Fomento a la Lectura y al Libro, y la otra para analizar las actividades realizadas.
+La Comisión estará obligada a sesionar por lo menos dos veces al año. Una de esas sesiones será para dar a conocer las actividades previstas para el año en curso, de acuerdo al Programa de Fomento para la Lectura y el Libro, y la otra para analizar las actividades realizadas.
 
 Estas actividades se explicarán y analizarán en dos vertientes: las relacionadas con el fomento a la lectura y las relativas a la producción, distribución y circulación de libros.
 
@@ -143,7 +233,9 @@ La Comisión estará obligada a remitir un informe de actividades anual al Gober
 
 Las funciones de la Comisión serán las siguientes:
 
-I. Elaborar el plan Estatal para el Fomento a la Lectura y el Libro;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+I. Elaborar el Programa de Fomento para la Lectura y el Libro;
 
 II. Coordinar las actividades relativas al Mes de la Lectura Colimense;
 
@@ -187,9 +279,11 @@ XXI. Diseñar paquetes de apoyo, por parte del Gobierno Estatal, para estimular 
 
 XXII. Las demás que le indique el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2017)</small>
+
 ###### Artículo 18.
 
-El Gobierno del Estado, con la asesoría y participación de la Comisión, así como de las Secretarías de Cultura, Educación y Planeación, estimulará, de acuerdo a la disponibilidad que le permitan sus finanzas, las iniciativas individuales o colectivas de creación, edición, publicación y distribución de libros. Los estímulos podrán consistir en los siguientes:
+El Gobierno del Estado, con la asesoría y participación de la Comisión, así como de las Secretarías de Cultura, de Educación y de Planeación y Finanzas, estimulará, de acuerdo a la disponibilidad que le permitan sus finanzas, las iniciativas individuales o colectivas de creación, edición, publicación y distribución de libros. Los estímulos podrán consistir en los siguientes:
 
 I. Apoyos directos, en efectivo o en especie, de acuerdo a las recomendaciones de la Comisión;
 
@@ -292,3 +386,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día quince del mes de agosto del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE EDUCACIÓN, MTRO. CARLOS FLORES DUEÑAS. Rúbrica. EL SECRETARIO DE PLANEACIÓN, LIC. HUMBERTO SILVA OCHOA. Rúbrica. LA SECRETARIA DE CULTURA, LICDA. ANA CECILIA GARCÍA LUNA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 259 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL PARA EL FOMENTO A LA LECTURA Y EL LIBRO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
