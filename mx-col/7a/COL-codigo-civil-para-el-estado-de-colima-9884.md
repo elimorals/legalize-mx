@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2016-11-22"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -861,15 +861,21 @@ La infracción de este artículo produce responsabilidad para los Agentes del Mi
 
 ART. 54.- Las declaraciones de nacimientos se harán presentando al niño ante el Oficial del Registro Civil en su Oficina, en la casa paterna, o donde aquel hubiere nacido.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
 
-ART. 55.- Tienen obligación de declarar el nacimiento, el padre, la madre, o ambos, dentro de los ciento ochenta días siguientes a éste.
+ART. 55.- Tienen obligación de declarar el nacimiento al Oficial del Registro Civil, el padre, la madre, o ambos, las autoridades municipales, ejidales, comunales y tradicional indígena, los médicos, cirujanos o comadronas que hubieren asistido al parto dentro de los tres días siguientes; debiendo emitir el acta de nacimiento en los siguientes tres días hábiles.
 
-Las autoridades municipales, ejidales, comunales y tradicional indígena, los médicos, cirujanos o comadronas que hubieren asistido al parto, tienen la obligación de dar aviso del nacimiento al oficial del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna. Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior estará a cargo del Director o de la persona encargada de la administración.
 
-Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior estará a cargo del Director o de la persona encargada de la administración.
+Recibido el aviso, el Oficial del Registro Civil, deberá emitir el acta de nacimiento respectiva dentro de los tres días hábiles siguientes.
 
-Recibido el aviso, el oficial del Registro Civil, tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
+
+ART. 55 BIS.- Ningún menor que haya nacido en hospitales privados o del Estado podrá salir del mismo sin haber sido previamente registrado ante el Oficial del Registro Civil.
+
+En los casos que se dé a luz en comunidades rurales o indígenas, casas particulares y/o lugares externos a sanatorios privados o del Estado, el Oficial del Registro Civil deberá adoptar las medidas necesarias para que el menor, en no más de tres días hábiles, obtenga su registro y acta de nacimiento.
+
+La Dirección del Registro Civil determinará las instituciones médicas públicas y privadas, en las que instalarán los Módulos del Registro Civil para registrar a los ahí nacidos antes de abandonar dichos establecimientos, en coordinación y bajo supervisión de la propia Dirección del Registro Civil.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -885,19 +891,17 @@ Los interesados podrán realizar el Registro Extemporáneo de nacimiento por la 
 
 ART. 57.- En las poblaciones en que no haya oficial del Registro, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará la constancia respectiva, que los interesados llevarán al oficial del Registro que corresponda, para que asiente el acta.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
 
-ART. 58.- El acta de nacimiento se registrará con asistencia de dos testigos que identificarán al padre, a la madre, o a ambos cuando éstos sean quienes presenten al hijo, declararán sobre la nacionalidad de éstos y podrán ser designados por los interesados; el acta contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre o nombres, el apellido del padre, el apellido de la madre o los que le corresponda, la mención de si se presenta vivo o muerto, la impresión dactilar y la Clave Unica del Registro Nacional de Población que se asigna al registrado.
+ART. 58.- El acta de nacimiento se registrará con asistencia de dos testigos que identificarán al padre, a la madre, o a ambos cuando éstos sean quienes presenten al hijo, declararán sobre la nacionalidad de éstos y podrán ser designados por los interesados; el acta contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre o nombres, los apellidos de los padres en el orden que de común acuerdo determinen, o los que le corresponda, la mención de si se presenta vivo o muerto, la impresión dactilar y la Clave Única del Registro Nacional de Población que se asigne al registrado.
+
+El orden que sea asignado para el primer hijo o hija, deberá prevalecer para los posteriores que tuvieren los mismos padres.
 
 Si no se proporcionan los nombres de los padres, el oficial del Registro Civil le pondrá nombre y apellido. Haciéndose constar esta circunstancia en acta por separado que se agregará al apéndice. Queda prohibido mostrar ésta última acta, a menos que medie orden judicial. No podrá asentarse por ningún motivo que el hijo es de padres desconocidos.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2011)</small>
-
 El Oficial del Registro Civil, exhortará a quien se presente a registrar el nacimiento de un menor, que el nombre propio con el que se pretende registrar no sea peyorativo, discriminatorio, infamante, denigrante, carente de significado, o que constituya un signo, símbolo o siglas, números, o bien, que exponga al registrado a ser objeto de burla o humillaciones que pudieran afectar la dignidad, el autoestima o la identidad de la persona.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
-
-El oficial del registro civil expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+El oficial del registro civil expedirá gratuitamente la primera copia certificada del acta de registro (sic) nacimiento.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
@@ -1563,9 +1567,7 @@ De estos impedimentos sólo es dispensable el parentesco de consanguinidad en l�
 
 ART. 157.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-ART. 158.- La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
+ART. 158.- (DEROGADO, P.O. 1 DE ABRIL DE 2017)
 
 ART. 159.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2016)
 
@@ -2225,7 +2227,9 @@ En el caso de que uno de los cónyuges carezca de bienes o que durante el matrim
 
 I.- En caso de ser divorcio necesario sea el cónyuge inocente, por lo que también tendrá derecho a que el culpable lo indemnice por los daños y perjuicios que el divorcio le haya causado; y
 
-II.- En caso de divorcio voluntario por vía judicial, la mujer tendrá derecho a recibir alimentos por un lapso máximo de diez años, siempre y cuando no tenga ingresos suficientes o no contraiga nuevas nupcias o se una en concubinato. El mismo derecho tendrá el varón que se encuentre imposibilitado para trabajar y carezca de ingresos suficientes mientras no contraiga nuevas nupcias o se una en concubinato.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+II. En caso de divorcio voluntario por vía judicial, cualquiera de los cónyuges tendrá derecho a recibir alimentos por un lapso máximo de diez años, siempre y cuando no tenga ingresos suficientes o no contraiga nuevas nupcias o se una en concubinato.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2007)</small>
 
@@ -2481,15 +2485,7 @@ ART. 332.- Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la raz�
 
 ART. 333.- Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 
-ART. 334.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del periodo prohibido por el artículo 158, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
-
-I.- Se presume que el hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
-
-II.- Se presume que el hijo es del segundo marido si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
-
-El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye;
-
-III.- El hijo se presume nacido fuera de matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+ART. 334.- (DEROGADO, P.O. 1 DE ABRIL DE 2017)
 
 ART. 335.- El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera es nulo.
 
@@ -4715,7 +4711,7 @@ ART. 841.- Las servidumbres establecidas por utilidad pública o comunal, para m
 
 > <small>(F. DE E., P.O. 2 DE ABRIL DE 1955)</small>
 
-ART. 842.- Nadie puede construir cerca de una pared ajena o de co-propiedad, fosos, cloacas, acueductos, hornos, fraguas, chimeneas, establos, ni instalar depósitos de materias corrosivas, máquinas de vapor o fábricas destinadas a usos que pueden ser peligrosos o nocivos, sin guardar las distancias prescritas por los reglamentos o sin construir las obras de resguardo necesarias, con sujeción a lo que prevengan los mismos reglamentos o a falta de ellos, a lo que se determine por juicio pericial.
+ART. 842.- Nadie puede construir cerca de una pared ajena o de copropiedad, fosos, cloacas, acueductos, hornos, fraguas, chimeneas, establos, ni instalar depósitos de materias corrosivas, máquinas de vapor o fábricas destinadas a usos que pueden ser peligrosos o nocivos, sin guardar las distancias prescritas por los reglamentos o sin construir las obras de resguardo necesarias, con sujeción a lo que prevengan los mismos reglamentos o a falta de ellos, a lo que se determine por juicio pericial.
 
 ART. 843.- Nadie puede plantar árboles cerca de una heredad ajena sino a la distancia de dos metros de la línea divisoria, si la plantación se hace de árboles grandes, y de un metro, si la plantación se hace de arbustos o árboles pequeños.
 
@@ -7191,7 +7187,7 @@ III.- Por un sistema de información programado por el emisor o en su nombre par
 
 ART. 1702 D.- Se presume que un mensaje de datos ha sido enviado por el emisor y, por lo tanto, el destinatario, podrá actuar en consecuencia, cuando:
 
-I.- Haya aplicado en forma adecuada el procedimiento acordado previamente con el emisor, con el fin de establecer que el mensaje de datos provenía efectivamente de este; y
+I.- Haya aplicado en forma adecuada el procedimiento acordado previamente con el emisor, con el fin de establecer que el mensaje de datos provenía efectivamente de éste; y
 
 II.- El mensaje de datos que reciba el destinatario o la parte que confía, resulte de los actos de un Intermediario que le haya dado acceso a algún método utilizado por el emisor para identificar un mensaje de datos como propio.
 
@@ -11472,3 +11468,21 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 242 POR EL QUE SE DEROGAN LOS ARTÍCULOS 158 Y 334 DEL NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 245 POR EL QUE SE REFORMA EL ARTÍCULO 58 Y LA FRACCIÓN II, DEL ARTÍCULO 287, AMBOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 273 POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 55 Y 55 BIS, AMBOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
