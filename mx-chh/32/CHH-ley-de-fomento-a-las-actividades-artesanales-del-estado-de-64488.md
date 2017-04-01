@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-6448
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-05"
-last_updated: "2016-10-03"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 5 de noviembre de 2008.
 
@@ -183,7 +183,9 @@ V. Las demás que se consideren como necesarias y viables para la obtención de 
 
 El Titular del Poder Ejecutivo Estatal, a través de la Secretaría, deberá:
 
-I. Promover aquellas artesanías contempladas dentro del Catálogo que para tal efecto emita la Casa de las Artesanías del Estado de Chihuahua;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+I. Promover aquellas artesanías contempladas dentro del Catálogo que para tal efecto emita el organismo público descentralizado denominado “Fomento y Desarrollo Artesanal del Estado de Chihuahua” (FODARCH).
 
 II. Generar centros de capacitación que fomenten el autoempleo en elaboración de productos artesanales;
 
@@ -233,7 +235,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
 
-P.O. 3 DE OCTUBRE DE 2016
+P.O. 3 DE OCTUBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
 
@@ -308,3 +310,21 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFDEC/0303/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO, CUARTO; QUINTO, INCISO M); SÉPTIMO, PRIMER PÁRRAFO, INCISOS A) AL E), Y SEGUNDO Y TERCER PÁRRAFOS; DÉCIMO; DECIMOTERCERO, FRACCIÓN III, Y DECIMOSÉPTIMO; SE ADICIONAN A LOS ARTÍCULOS QUINTO, EL INCISO N); SÉPTIMO, PRIMER PÁRRAFO, INCISOS F) Y G) Y UN CUARTO PÁRRAFO; Y SE DEROGA EL ARTÍCULO UNDÉCIMO, TODOS DEL DECRETO NO. 463/94 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia que se haga en las diversas leyes, decretos, acuerdos o disposiciones legislativas y/o administrativas, laborales, bancarias, civiles o de cualquier índole o naturaleza relativas a la denominación de "Casa de las Artesanías del Estado de Chihuahua", se entiende referida a partir de la entrada en vigor del presente Decreto, al Organismo Público Descentralizado "Fomento y Desarrollo Artesanal del Estado de Chihuahua", por sus siglas FODARCH, en todos sus términos; por tanto, todos los compromisos, obligaciones, disposiciones o análogas de cualquier tipo, quedan en términos idénticos relativos y referidos a la segunda denominación, y subsistentes en todos sus alcances precisamente respecto al mencionado Organismo Público Descentralizado, denominado "Fomento y Desarrollo Artesanal del Estado de Chihuahua".
+
+Igualmente quedan subsistentes todos los compromisos, obligaciones, deudas y demás análogas, a cargo del organismo indicado como "Fomento y Desarrollo Artesanal del Estado de Chihuahua" en los términos del presente artículo, y subsistentes de igual manera todos los títulos, propiedades, posesiones, acciones o derechos que correspondían o que en un futuro pudieran corresponder al otrora denominado "Casa de las Artesanías del Estado de Chihuahua", ahora a favor de "Fomento y Desarrollo Artesanal del Estado de Chihuahua".
+
+###### ARTÍCULO TERCERO.
+
+Háganse por parte de quien ocupe la Dirección de "Fomento y Desarrollo Artesanal del Estado de Chihuahua", todas las modificaciones documentales a que haya lugar, para que la razón social del Organismo quede ahora como "Fomento y Desarrollo Artesanal del Estado de Chihuahua".
