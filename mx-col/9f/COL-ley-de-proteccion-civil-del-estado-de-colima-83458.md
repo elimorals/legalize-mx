@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-83458"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2016-11-22"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 29 de octubre de 2011.
 
@@ -663,7 +663,9 @@ II. El Secretario General de Gobierno, que será el Secretario Ejecutivo;
 
 III. El Director General, Titular de la UEPC, que será el Secretario Técnico del Consejo Estatal;
 
-IV. El Presidente de la Comisión de Seguridad Pública, Protección Civil, Prevención y Readaptación Social del Congreso del Estado;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+IV. Los Presidentes de las Comisiones de Seguridad Pública, Protección Civil, Prevención y Reinserción Social del Congreso del Estado
 
 V. Un representante por cada uno de los siguientes organismos o asociaciones representativos de la población del Estado, los cuales serán designados por sus órganos de gobierno:
 
@@ -678,6 +680,10 @@ d) Colegio de Arquitectos;
 e) Cámara Mexicana de la Industria de la Construcción;
 
 f) Cámara Nacional del Comercio;
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
+
+g) Colegio de Valuadores;
 
 VI. Un representante por cada una de las dependencias del Poder Ejecutivo Estatal siguientes:
 
@@ -1655,6 +1661,14 @@ i) Los demás criterios que determine la UEPC.
 
 Los espacios oficiales en los medios de difusión, podrán ser utilizados mediante convenio, para informar a los habitantes del Estado sobre los programas de protección civil, conforme lo establezca la presente Ley.
 
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
+
+###### Artículo 104 Bis.
+
+En el ámbito de su competencia, los integrantes del Consejo Estatal que menciona el artículo 33 de la presente ley, deberán recibir la capacitación adecuada en materia de protección civil, previa a tomar el cargo y posteriormente una vez al año en el mes de enero.
+
+Los comisarios municipales deberán recibir la capacitación previa a tomar protesta de su cargo y de igual manera recibir capacitación una vez al año en el mes de enero.
+
 ### Capítulo II. De las Unidades Internas de Protección Civil
 
 ###### Artículo 105.
@@ -2148,3 +2162,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 247 POR EL QUE SE REFORMA LA FRACCIÓN IV; ADICIONA EL INCISO G) DE LA FRACCIÓN V, AMBOS DEL ARTÍCULO 33 Y SE ADICIONA EL ARTÍCULO 104 BIS, TODOS DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
