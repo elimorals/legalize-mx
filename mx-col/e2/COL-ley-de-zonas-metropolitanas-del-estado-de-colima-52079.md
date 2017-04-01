@@ -4,7 +4,7 @@ identifier: "COL-ley-de-zonas-metropolitanas-del-estado-de-colima-52079"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-07"
-last_updated: "2006-10-07"
+last_updated: "2017-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ZONAS METROPOLITANAS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento No. 5 del Periódico Oficial del Estado de Colima, el sábado 7 de octubre de 2006.
 
@@ -37,7 +37,7 @@ EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN E
 
 C O N S I D E R A N D O
 
-.
+[...]
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -251,6 +251,14 @@ IX. Elaborar los proyectos de carácter metropolitano derivados de las acciones 
 
 X. Las demás que le confiera la Comisión y la legislación aplicable.
 
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
+
+Los programas de desarrollo urbano realizados por los organismos municipales de planeación metropolitana, que tendrán un período de gestión mayor a los Ayuntamientos, trascenderán, al término de sus administraciones municipales, garantizando el desarrollo equilibrado y sustentable en las zonas metropolitanas, con respeto y en beneficio a toda la sociedad del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
+
+Los trabajos de desarrollo urbano elaborados por los organismos municipales, serán coordinados por un responsable capacitado con el tema Metropolitano, acreditado por el titular del Ejecutivo del Estado; y avalado por los demás integrantes que señala el artículo 20 de la presente Ley.
+
 ### CAPÍTULO IV. DEL CONSEJO METROPOLITANO DE PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 22.
@@ -338,3 +346,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 02 días del mes de octubre del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE DESARROLLO URBANO, ING. EDUARDO GUTIÉRREZ NAVARRETE. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 236 POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 21 DE LA LEY DE ZONAS METROPOLITANAS DEL ESTADO DE COLMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
