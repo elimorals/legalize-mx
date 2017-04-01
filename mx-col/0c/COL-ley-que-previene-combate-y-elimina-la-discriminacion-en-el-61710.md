@@ -4,7 +4,7 @@ identifier: "COL-ley-que-previene-combate-y-elimina-la-discriminacion-en-el-6171
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-14"
-last_updated: "2016-06-18"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,11 @@ state: "COL"
 
 LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 18 DE JUNIO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO 101 PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial en el Estado de Colima, el sábado 14 de junio de 2008.
 
-LIC. JESÚS SILVERIO CAVAZOS CEVALLOS, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
+LIC. JESÚS SILVERIO CAVAZOS CEBALLOS, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
 
@@ -37,7 +35,9 @@ DECRETO
 
 HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
 
-CONSIDERANDOS .
+CONSIDERANDOS
+
+[...]
 
 Por lo anteriormente expuesto, se expide el siguiente:
 
@@ -87,25 +87,23 @@ Queda prohibida toda práctica discriminatoria que tenga por objeto o efecto imp
 
 Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana y un retroceso a su propia condición, que deben combatirse.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
-
-###### Artículo 3º.
-
-Corresponde al Estado promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas. Los poderes públicos Estatales y Municipales deberán eliminar aquellos obstáculos que limiten en los hechos su ejercicio e impidan el pleno desarrollo de las personas así como su efectiva participación en la vida política, económica, cultural y social del país y promoverán la participación de las autoridades en la eliminación de dichos obstáculos.
-
-Se considera discriminatoria toda ley o acto que, siendo de aplicación igual para todas las personas, produzca consecuencias perjudiciales para las personas o grupos en situación de vulnerabilidad.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
 
 ###### Artículo 3°.
 
-Para los efectos de esta Ley se entiende por discriminación toda distinción, exclusión o restricción que, basada en el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, el embarazo, la lengua, las ideologías o creencias religiosas, las opiniones, las preferencias sexuales, el estado civil el trabajo desempeñado, las costumbres, la raza, o cualquier otra, tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de los individuos, y la igualdad real de oportunidades de los individuos.
+Corresponde al Estado promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas. Los poderes públicos Estatales y Municipales deberán eliminar aquellos obstáculos que limiten en los hechos su ejercicio e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, laboral, cultural y social del país y promoverán la participación de las autoridades en la eliminación de dichos obstáculos.
 
-Se considera discriminatoria toda ley o acto que, siendo de aplicación igual para todas las personas, produzca consecuencias perjudiciales para las personas o grupos en situación de vulnerabilidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2017)</small>
 
 ###### Artículo 4°.
 
-Toda autoridad, órgano público estatal o municipal y servidor público que actúe o se desempeño en el Estado, con independencia de la esfera pública a que pertenezca, deberá abstenerse de efectuar prácticas discriminatorias por acción u omisión y deberán eliminar aquellos obstáculos que limiten su ejercicio e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, cultural y social del país.
+Toda autoridad, órgano público estatal o municipal y servidor público que actúe o se desempeñe en el Estado, con independencia de la esfera pública a que pertenezca, deberá abstenerse de efectuar prácticas discriminatorias por acción u omisión y deberán eliminar aquellos obstáculos que limiten su ejercicio e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, laboral, cultural y social del país.
 
 Es obligación de las personas físicas que habiten transitoria, permanentemente o se encuentren en tránsito en el territorio estatal, y de las personas morales que realicen actividades sociales o comerciales en el mismo, abstenerse de efectuar prácticas discriminatorias, ya sea por acción u omisión.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
+
+Ninguna persona física o moral podrá establecer actos discriminatorios como estereotipos sexistas o rangos de edad, en las convocatorias de ofertas laborales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -129,7 +127,7 @@ VII. Las distinciones, exclusiones, restricciones o preferencias que se hagan en
 
 VIII. En general, todas las que no tengan el propósito de anular o menoscabar los derechos, y libertades o la igualdad de oportunidades de las personas ni de atentar contra la dignidad humana.
 
-###### Articulo 6°.
+###### Artículo 6°.
 
 Corresponde la aplicación de esta Ley:
 
@@ -185,7 +183,9 @@ III. Establecer contenidos, métodos o instrumentos pedagógicos en que se asign
 
 IV. Prohibir la libre elección de empleo;
 
-V. Restringir las oportunidades de acceso, permanencia y ascenso en el empleo, especialmente por razón de género, edad o estado civil;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+V. Restringir las oportunidades de acceso, permanencia y ascenso en el empleo, especialmente por razón de género, edad, estado civil o por estereotipos sexistas;
 
 VI. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajo de Igual valor;
 
@@ -259,7 +259,9 @@ XV. Todas las demás que se contemplan en la legislación de Protección de los 
 
 Son conductas que discriminan a las personas adultas mayores, las siguientes:
 
-I. Impedir el acceso al empleo y la permanencia en el mismo, en igualdad de condiciones, salvo en los casos expresamente determinados por la Ley;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+I. Impedir el acceso al empleo con base en rangos de edad o estereotipos sexistas, así como la permanencia en el mismo, en igualdad de condiciones, salvo en los casos expresamente determinados por la ley;
 
 II. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público;
 
@@ -315,7 +317,7 @@ IV. Impedir la asignación de nombres en el Registro Civil;
 
 V. Limitar su derecho de asociación y de información;
 
-VI. Restringir el acceso al empleo,iIncluidos los empleos calificados y las medidas de promoción y ascenso;
+VI. Restringir el acceso al empleo, incluidos los empleos calificados y las medidas de promoción y ascenso;
 
 VII. Negar una igual remuneración por un trabajo de igual valor;
 
@@ -465,7 +467,7 @@ X. Impedir o negar su participación en la toma de decisiones de política públ
 
 XI. Todas las demás que se contemplen en las Leyes en la materia.
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN] , P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 11 DE JUNIO DE 2016)</small>
 
 ### CAPÍTULO III. DE LAS MEDIDAS GENERALES DE NIVELACIÓN, MEDIDAS DE INCLUSIÓN Y ACCIONES AFIRMATIVAS
 
@@ -1236,3 +1238,9 @@ P.O. 11 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 101 SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA, Y SE DESECHA LA INICIATIVA DE LEY CON PROYECTO DE DECRETO, PRESENTADA POR EL DIPUTADO FEDERICO RANGEL LOZANO, Y DEMÁS INTEGRANTES DEL GRUPO PARLAMENTARIO DEL PARTIDO REVOLUCIONARIO INSTITUCIONAL".]
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 257 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA".]
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
