@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fiscalizacion-superior-del-estado-69947"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2016-11-22"
+last_updated: "2017-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Ley publicada en la Edición Especial al Periódico Oficial del Estado de Colima, el viernes 21 de agosto de 2009.
 
@@ -1065,7 +1065,9 @@ I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políti
 
 II.- Tener por lo menos treinta y tres años cumplidos al día de su designación;
 
-III.- Contar, el día de su designación, con antigüedad mínima de ocho años, con título y cédula profesional de contador público, licenciado en derecho, licenciado en economía, licenciado en administración y licenciado en arquitectura, expedido por autoridad o institución legalmente facultada para ello; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+III.- Contar, el día de su designación, con antigüedad mínima de ocho años, con título y cédula profesional de contador público, licenciado en derecho, licenciado en economía, licenciado en administración, licenciado en arquitectura, en ingeniería civil o profesiones afines, según corresponda, expedido por autoridad o institución legalmente facultada para ello; y
 
 IV.- Contar al momento de su designación con una experiencia de cinco años en actividades o funciones relacionadas con el control y fiscalización del gasto público, política presupuestaria; evaluación del gasto público, del desempeño y de políticas públicas, o manejo de recursos.
 
@@ -1318,3 +1320,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 270 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 85 DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
