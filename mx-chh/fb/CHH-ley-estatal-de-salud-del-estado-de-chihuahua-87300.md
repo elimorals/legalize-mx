@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2017-02-22"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -2141,7 +2141,9 @@ En lo relativo a los conceptos de donador o donante, receptor, órgano, tejido, 
 
 La Secretaría desarrollará el Programa de Medicina Transfusional, con el fin de generar en la sociedad una cultura altruista de la donación y garantizar los servicios de recolección y asignación de los hemocomponentes, para abastecer con autosuficiencia de sangre segura.
 
-La Secretaría, a través del Centro Estatal de Medicina Transfusional, implementará una red estatal de servicios de transfusión sanguínea, mediante un modelo regionalizado en el que se incluyan las instituciones de salud de los sectores público, privado y social.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
+
+La Secretaría, a través del Centro Estatal de Medicina Transfusional, implementará una red estatal de servicios de transfusión sanguínea, mediante un modelo regionalizado en el que se incluyan las instituciones de salud de los sectores público, privado y social. Esta red deberá garantizar que los requisitos establecidos serán conforme a lo establecido en la Norma Oficial Mexicana en la materia, evitando con ello cualquier acto de discriminación hacia el potencial donador, donadora o donante.
 
 El Centro establecerá el registro estatal de los donadores de sangre voluntarios y altruistas, con la finalidad de obtener la información que contribuya a cubrir la necesidad.
 
@@ -3709,7 +3711,7 @@ P.O. 1 DE OCTUBRE DE 2016.
 
 P.O. 22 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXV/RFCLC/0266/2017 I P.E. POR EL QUE "SE REFORMAN LOS ARTÍCULOS 377, 378, 379 Y 380 DE LA LEY ESTATAL DE SALUD".]
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXV/RFCLC/0266/2017 I P.E. POR EL QUE “SE REFORMAN LOS ARTÍCULOS 377, 378, 379 Y 380 DE LA LEY ESTATAL DE SALUD".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3722,3 +3724,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0277/2017 III P.E., MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 219 DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
