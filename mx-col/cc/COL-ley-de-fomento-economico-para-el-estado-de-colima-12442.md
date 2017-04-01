@@ -4,7 +4,7 @@ identifier: "COL-ley-de-fomento-economico-para-el-estado-de-colima-12442"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-29"
-last_updated: "2016-11-22"
+last_updated: "2017-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de agosto de 1998.
 
@@ -139,11 +139,15 @@ XXII.- Promover la participación del Estado en eventos nacionales e internacion
 
 XXIII.- Impulsar el establecimiento de las industrias maquiladoras de exportación;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-XXIV.- Incentivar la generación de empleos para personas mayores de 45 años de edad, y
+XXIV.- incentivar la generación de empleos para personas mayores de 45 años de edad;
 
-XXV.- Las demás que sean necesarias para el cumplimiento del objeto y fines propuestos en la presente Ley.
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XXV.- Promover, en coordinación con las autoridades competentes, programas de certificación enfocados a las artes, técnicas u oficios, con el objetivo de impulsar la competitividad y el desarrollo de éstas actividades impulsadas por micro, pequeños o medianos empresarios; y
+
+XXVI.- Las demás que sean necesarias para el cumplimiento del objeto y fines propuestos en la presente Ley.
 
 ### CAPITULO II. DE LAS EMPRESAS SUJETAS A FOMENTO
 
@@ -495,9 +499,15 @@ XVI.- Orientar los objetivos y estrategias de fomento económico para la elabora
 
 XVII.- Promover el empleo de personas mayores de 45 años de edad en las empresas colimenses;
 
-XVIII.- Expedir su reglamento interior, y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
 
-XIX.- Las demás que se deriven de esta Ley.
+XVIII.- Expedir su reglamento interior;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2017)</small>
+
+XIX.- Opinar respecto a las artes, técnicas u oficios respecto de los cuales se considere necesario promoverse programas de certificación para hacer más competitivos esos mercados; y
+
+XX.- Las demás que se deriven de esta Ley.
 
 ###### ARTICULO 24.
 
@@ -800,3 +810,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 1 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 262, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROMOCIÓN E IMPULSO AL JOVEN EMPRENDEDOR DEL ESTADO DE COLIMA Y DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
