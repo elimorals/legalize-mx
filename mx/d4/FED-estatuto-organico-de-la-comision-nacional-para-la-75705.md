@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-75705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-16"
-last_updated: "2016-07-05"
+last_updated: "2017-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-06-29"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2017.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de julio de 2010.
 
@@ -143,11 +143,13 @@ e) De Comunicación Social;
 
 f) De Promoción y Desarrollo Educativo;
 
-g) De Evaluación de Productos de Crédito y Captación;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
+g) De Evaluación de Productos de Instituciones de Crédito y Sociedades Financieras de Objeto Múltiple, Entidades Reguladas;
 
-h) De Evaluación de Productos de Seguros y Fianzas;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+h) De Evaluación de Productos de Instituciones de Seguros y Fianzas;
 
 > <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
 
@@ -307,7 +309,9 @@ i. Delegación Regional Occidente: Subdelegaciones de Aguascalientes, Colima, Gu
 
 ii. Delegación Regional Centro: Subdelegaciones de Estado de México, Hidalgo, Morelos, Puebla y Tlaxcala.
 
-iii. Delegación Regional Metropolitana: Subdelegaciones Metropolitana Central, Metropolitana Norte, Metropolitana Oriente y Metropolitana Centro Histórico.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+iii. Delegación Regional Metropolitana: Subdelegaciones Metropolitana Central, Metropolitana Norte, Metropolitana Oriente y Metropolitana Metro.
 
 b) A la Dirección General de Delegaciones Norte-Sur:
 
@@ -337,7 +341,9 @@ II. Llevar un registro de los acuerdos tomados en las sesiones de la Junta, comu
 
 III. Informar a los miembros de la Junta sobre el estado que guardan los acuerdos tomados;
 
-IV. Expedir y certificar las constancias que las autoridades competentes le requieran en ejercicio de sus atribuciones, así como las que le sean solicitadas de conformidad a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+IV. Expedir y certificar las constancias que las autoridades competentes le requieran en ejercicio de sus atribuciones, así como las que le sean solicitadas de conformidad a la Ley Federal de Transparencia y Acceso a la Información Pública;
 
 V. Rendir periódicamente informes al Presidente de la Junta, respecto del seguimiento que se dé a la ejecución de los acuerdos emitidos;
 
@@ -469,7 +475,9 @@ VII Bis. Notificar los actos, acuerdos y resoluciones que se deriven de los proc
 
 VIII. Coordinarse con las demás unidades administrativas de la Comisión Nacional para el mejor ejercicio de las funciones que les son atribuidas;
 
-IX. Expedir copia certificada de las constancias de los expedientes relativos a los asuntos de su competencia, previo pago de su costo cuando así proceda, así como las que les sean solicitadas de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental u otras disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+IX. Expedir copia certificada de las constancias de los expedientes relativos a los asuntos de su competencia, previo pago de su costo cuando así proceda, así como las que les sean solicitadas de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública u otras disposiciones aplicables;
 
 > <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -581,9 +589,13 @@ XXXII. Vigilar que las Instituciones Financieras cumplan con las disposiciones l
 
 XXXIII. Llevar a cabo la supervisión de las Instituciones Financieras, en el ámbito de su respectiva competencia;
 
-> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-XXXIV. Ordenar, previa opinión de la Dirección General de Servicios Legales, e informar al Comité de Supervisión, los programas de cumplimiento forzoso, que llevarán a cabo las Instituciones Financieras con motivo de las observaciones e irregularidades detectadas en las facultades de supervisión, dentro de su respectivo ámbito de competencia;
+XXXIV. Ordenar los programas de cumplimiento forzoso, que llevarán a cabo las Instituciones Financieras con motivo de las observaciones e irregularidades detectadas en las facultades de supervisión, dentro de su respectivo ámbito de competencia, e informar al Comité de Supervisión;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+XXXIV Bis. Llevar a cabo el procedimiento de cancelación de registro a las Sociedades Financieras de Objeto Múltiple, en términos de las Disposiciones Legales aplicables;
 
 > <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2016)</small>
 
@@ -677,17 +689,33 @@ XX. Elaborar y difundir de publicaciones institucionales, campañas informativas
 
 XXI. Dar seguimiento a la información divulgada por los medios de comunicación acerca de las actividades de la Comisión Nacional, informando de ello a las unidades administrativas de la misma;
 
-XXII. Coordinar la distribución de las publicaciones desarrolladas por la Comisión Nacional para el cumplimiento de sus fines, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-XXIII. Diseñar y desarrollar estrategias que permitan consolidar la imagen y posicionamiento de la Comisión Nacional ante la población en general.
+XXII. Coordinar la distribución de las publicaciones desarrolladas por la Comisión Nacional para el cumplimiento de sus fines;
 
-> <small>(ADICIONADA, D.O.F. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-XXIV. Remitir a la Dirección General de Arbitraje y Sanciones, en un plazo que no excederá de treinta días hábiles contado a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los casos en los que probablemente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se inicie el procedimiento de sanción correspondiente.
+XXIII. Diseñar y desarrollar estrategias que permitan consolidar la imagen y posicionamiento de la Comisión Nacional ante la población en general;
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Análisis de Servicios y Productos Financieros, las contenidas en las fracciones I, III, IV, V, VII, X, XI, XIII, XV y XXIV; el del Buró de Entidades Financieras, las contenidas en las fracciones III Bis y XXIV; el de Promoción y Desarrollo Educativo, las contenidas en las fracciones I, II, V a VIII, X, XII a XV, XX y XXIV; el de Comunicación Social, las contenidas en las fracciones IX, y XVI a XXIV.
+XXIV. Remitir a la Dirección General de Arbitraje y Sanciones, en un plazo que no excederá de treinta días hábiles contado a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los casos en los que probablemente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se inicie el procedimiento de sanción correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+XXV. Llevar a cabo la supervisión de las Instituciones Financieras, en el ámbito de su respectiva competencia;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+XXVI. Ordenar los programas de cumplimiento forzoso, que llevarán a cabo las Instituciones Financieras con motivo de las observaciones e irregularidades detectadas en las facultades de supervisión, dentro de su respectivo ámbito de competencia, e informar al Comité de Supervisión, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+XXVII. Revisar, ordenar modificaciones y autorizar, en el ámbito de su competencia, los programas de autocorrección de las Instituciones Financieras.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Análisis de Servicios y Productos Financieros, las contenidas en las fracciones I, III, IV, V, VII, X, XI, XIII, XV y XXIV; el del Buró de Entidades Financieras, las contenidas en las fracciones III Bis y XXIV a XXVII; el de Promoción y Desarrollo Educativo, las contenidas en las fracciones I, II, V a VIII, X, XII a XV, XX y XXIV; el de Comunicación Social, las contenidas en las fracciones IX, y XVI a XXIV.
 
 ###### Artículo 16.
 
@@ -731,15 +759,17 @@ X. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
 XI. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
-XII. Ordenar, previa opinión de la Dirección General de Servicios Legales, la suspensión del uso de los modelos de contratos de adhesión utilizados por las Entidades Financieras, hasta en tanto sean modificados;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+XII. Ordenar la suspensión del uso de los modelos de contratos de adhesión utilizados por las Entidades Financieras, hasta en tanto sean modificados;
 
 XIII. Autorizar los contratos de adhesión que así lo requieran, previo a su operación e inscripción en el Registro de Contratos de Adhesión;
 
 XIV. Integrar y mantener actualizado en términos de ley, el Registro de Contratos de Adhesión;
 
-> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-XIV Bis. Determinar la existencia de cláusulas abusivas en los contratos de adhesión y ordenar a las Instituciones Financieras la supresión de éstas, previa opinión de la Dirección General de Servicios Legales;
+XIV Bis. Determinar la existencia de cláusulas abusivas en los contratos de adhesión y ordenar a las Instituciones Financieras la supresión de éstas;
 
 > <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -749,9 +779,9 @@ XVI. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
 XVII. Requerir, revisar y, en su caso, autorizar a las Instituciones Financieras la información que dirijan a los Usuarios, relativa a las características de sus operaciones activas, pasivas y de servicios;
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-XVIII. Analizar y, en su caso, ordenar la suspensión, previa opinión de la Dirección General de Servicios Legales, de la publicidad y de la información que induzca a error dirigida a los Usuarios sobre los servicios y productos financieros que ofrezcan las Instituciones Financieras, así como aquella que no cumpla con las disposiciones de carácter general que la Comisión Nacional emita para tal efecto;
+XVIII. Analizar y, en su caso, ordenar la suspensión de la publicidad y de la información que induzca a error dirigida a los Usuarios sobre los servicios y productos financieros que ofrezcan las Instituciones Financieras, así como aquella que no cumpla con las disposiciones de carácter general que la Comisión Nacional emita para tal efecto;
 
 XIX. Elaborar, previa opinión de la Dirección General de Servicios Legales los proyectos y actualizar el contenido técnico y operativo de las disposiciones de carácter general que emita la Comisión Nacional;
 
@@ -759,7 +789,9 @@ XX. Vigilar que las Instituciones Financieras cumplan con las disposiciones lega
 
 XXI. Solicitar a las Sociedades Financieras de Objeto Múltiple, Entidades No Reguladas, que le exhiban las autorizaciones de las personas respecto de las cuales hayan solicitado información a las sociedades de información crediticia;
 
-XXII. Solicitar, previa opinión de la Dirección General de Servicios Legales, a las autoridades competentes en materia de radio, televisión y otros medios de prensa, la suspensión de la difusión de publicidad, en términos de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+XXII. Solicitar a las autoridades competentes en materia de radio, televisión y otros medios de prensa, la suspensión de la difusión de publicidad, en términos de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
 
 > <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -773,11 +805,13 @@ XXII Ter. Vigilar que las entidades financieras den por terminados los créditos
 
 XXII Quáter. Vigilar que las Instituciones de Crédito que abran cuentas propias con destino a catástrofes naturales cumplan con las disposiciones aplicables;
 
-XXIII. Fungir como Titular de la Unidad de Enlace coordinando las actividades de atención y resolución a las solicitudes de acceso a la información pública gubernamental que se reciban en la Comisión Nacional, en términos de (sic) Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+XXIII. Fungir como Titular de la Unidad de Transparencia coordinando las actividades de atención y resolución a las solicitudes de acceso a la información pública que se reciban en la Comisión Nacional, en términos de Ley Federal de Transparencia y Acceso a la Información Pública;
 
-XXIV. Establecer, en coordinación con la Dirección General de Dictaminación y Supervisión, el Programa Anual de Supervisión de las Sociedades Financieras de Objeto Múltiple, Entidades No Reguladas, con base en los lineamientos que al efecto emita la Comisión Nacional;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+XXIV. Integrar, en coordinación con las Direcciones Generales de Dictaminación y Supervisión, de Educación Financiera y de Desarrollo Financiero, Estadístico y de Tecnologías de Información, el Programa Anual de Supervisión, con base en los lineamientos que al efecto emita la Comisión Nacional;
 
 XXV. Proponer a la Dirección General de Dictaminación y Supervisión, la realización de visitas de inspección especiales, así como visitas de verificación especiales;
 
@@ -797,9 +831,9 @@ XXV Quáter. Revisar, ordenar modificaciones y autorizar, en el ámbito de su co
 
 XXVI. Supervisar que las Instituciones Financieras no incurran en actividades que se apartan de las sanas prácticas;
 
-> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-XXVII. Ordenar, previa opinión de la Dirección General de Servicios Legales, e informar al Comité de Supervisión, los programas de cumplimiento forzoso, que llevarán a cabo las Instituciones Financieras con motivo de las observaciones e irregularidades detectadas en las facultades de supervisión, dentro de su respectivo ámbito de competencia;
+XXVII. Ordenar los programas de cumplimiento forzoso, que llevarán a cabo las Instituciones Financieras con motivo de las observaciones e irregularidades detectadas en las facultades de supervisión, dentro de su respectivo ámbito de competencia, así como el resultado que se obtenga con motivo de dichas visitas, e informar al Comité de Supervisión;
 
 XXVIII. Publicar, cuando se considere pertinente, los resultados de los programas de supervisión en materia de transparencia financiera;
 
@@ -807,9 +841,9 @@ XXVIII. Publicar, cuando se considere pertinente, los resultados de los programa
 
 XXIX. Solicitar a la Dirección General de Arbitraje y Sanciones la orden de suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
-(REFORMADO, D.O.F. 29 DE MAYO DE 2015) (F. DE E., D.O.F. 9 DE JUNIO DE 2015)
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia; el de Evaluación de Productos de Crédito y Captación las contenidas en las fracciones I a IX, XII a XV, XVII a XX, XXII a XXII Quáter y de XXV Bis a XXIX; el de Evaluación de Productos de Seguros y Fianzas, las contenidas en las fracciones I a IX, XII, XIV Bis, XV, XVIII a XX, XXVI y XXVIII; el de Evaluación de Productos de Sociedades Financieras de Objeto Múltiple ENR y Uniones de Crédito, las contenidas en las fracciones I a IX, XII, XIII, XIV Bis, XV, XVII a XXII, XXII Ter, XXIV a XXIX, y el de Evaluación de Productos de Entidades de Ahorro y Crédito Popular, las contenidas en las fracciones I a IX, XII, XIII, XIV Bis, XV, XVII a XX, XXII, XXII Ter, XXIII, XXV Bis a XXIX.
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia; el de Evaluación de Productos de Instituciones de Crédito y Sociedades Financieras de Objeto Múltiple, Entidades Reguladas las contenidas en las fracciones I a IX, XII a XV, XVII a XX, XXII a XXII Quáter y de XXV Bis a XXIX; el de Evaluación de Productos de Instituciones de Seguros y Fianzas, las contenidas en las fracciones I a IX, XII, XIV Bis, XV, XVIII a XX, XXVI y XXVIII; el de Evaluación de Productos de Sociedades Financieras de Objeto Múltiple, Entidades No Reguladas y Uniones de Crédito, las contenidas en las fracciones I a IX, XII, XIII, XIV Bis, XV, XVII a XXII, XXII Ter, XXIV a XXIX, y el de Evaluación de Productos de Entidades de Ahorro y Crédito Popular, las contenidas en las fracciones I a IX, XII, XIII, XIV Bis, XV, XVII a XX, XXII, XXII Ter, XXIII, XXV Bis a XXIX.
 
 ###### Artículo 17.
 
@@ -821,13 +855,13 @@ II. Coadyuvar con la Dirección General de Evaluación y Vigilancia en el establ
 
 III. Realizar las visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas, conforme al Programa Anual de Supervisión de la Comisión Nacional;
 
-> <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-IV. Solicitar a la Comisión Nacional Bancaria y de Valores, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección ordinarias y especiales a las Unidades Especializadas de las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas;
+IV. Solicitar a la Comisión Nacional Bancaria y de Valores, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección ordinarias y especiales del Programa Anual de Supervisión, para requerir información y documentación sobre el cumplimiento de las Unidades Especializadas de las Instituciones Financieras, así como el resultado que se obtenga con motivo de dichas visitas;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-V. Requerir a las Delegaciones Regionales o Subdelegaciones la realización de visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas;
+V. Requerir a las Delegaciones la realización de visitas de verificación a las sociedades financieras de objeto múltiple, entidades no reguladas, respecto del Programa Anual de Supervisión;
 
 VI. Determinar, en coordinación con la Dirección General de Evaluación y Vigilancia, la realización de visitas de inspección especiales, así como visitas de verificación especiales;
 
@@ -835,13 +869,15 @@ VI. Determinar, en coordinación con la Dirección General de Evaluación y Vigi
 
 VII. Recabar, durante las visitas de verificación que realice, elementos que sirvan para acreditar hechos, actos u omisiones de los cuales pueda presumirse la violación a disposiciones cuya supervisión se encuentre conferida a la Comisión Nacional;
 
-VIII. Expedir y notificar los oficios de comisión para el ejercicio de las atribuciones previstas en las fracciones III y V anteriores;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+VIII. Expedir y notificar los oficios de comisión y las órdenes de visita para el ejercicio de las atribuciones previstas en las fracciones III y V anteriores;
 
 IX. Aprobar el informe general de las visitas efectuadas por cada Verificador;
 
-> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-IX Bis. Enviar a la Dirección General de Evaluación y Vigilancia, los resultados de las acciones realizadas en ejercicio de la facultad de verificación;
+IX Bis. Enviar a las Direcciones Generales de Evaluación y Vigilancia, de Educación Financiera y de Desarrollo Financiero, Estadístico y de Tecnologías de Información los resultados de las acciones realizadas en ejercicio de la facultad de verificación;
 
 > <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -851,17 +887,17 @@ IX Ter. Revisar, ordenar modificaciones y autorizar, en el ámbito de su compete
 
 IX Quáter. Llevar a cabo la supervisión de las Instituciones Financieras, en el ámbito de su respectiva competencia;
 
-> <small>(ADICIONADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-IX Quinquies. Ordenar, previa opinión de la Dirección General de Servicios Legales, e informar al Comité de Supervisión, los programas de cumplimiento forzoso, que llevarán a cabo las Instituciones Financieras con motivo de las observaciones e irregularidades detectadas en las facultades de vigilancia y verificación, dentro de su respectivo ámbito de competencia;
+IX Quinquies. Ordenar los programas de cumplimiento forzoso, que llevarán a cabo las Instituciones Financieras con motivo de las observaciones e irregularidades detectadas en las facultades de vigilancia, inspección y verificación, e informar al Comité de Supervisión;
 
 X. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
 XI. (DEROGADA, D.O.F. 2 DE JUNIO DE 2014)
 
-> <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-XII. Requerir el cumplimiento de las obligaciones de las Unidades Especializadas respecto al artículo 50 Bis de la Ley;
+XII. Vigilar y requerir el cumplimiento de las obligaciones de las Unidades Especializadas respecto al artículo 50 Bis de la Ley y las Disposiciones de carácter general respectivas;
 
 XIII. (DEROGADA, D.O.F. 18 DE OCTUBRE DE 2011)
 
@@ -1149,9 +1185,9 @@ XLII. Establecer los lineamientos con base en los cuales se ejercerán las funci
 
 XLII Bis. Fungir como secretario del Comité de Supervisión;
 
-XLIII. Opinar, previa solicitud de la Dirección General de Evaluación y Vigilancia, sobre la modificación o la suspensión del uso de los modelos de contratos de adhesión utilizados por las Entidades Financieras;
+XLIII. (DEROGADA, D.O.F. 3 DE ABRIL DE 2017)
 
-XLIV. Opinar, previa solicitud de la Dirección General de Evaluación y Vigilancia, sobre la suspensión de la publicidad que realicen las Entidades Financieras;
+XLIV. (DEROGADA, D.O.F. 3 DE ABRIL DE 2017)
 
 > <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2014)</small>
 
@@ -1495,9 +1531,9 @@ XLVII. Formular, proponer, instrumentar, ejecutar, controlar y evaluar los progr
 
 XLVIII. Vigilar el cumplimiento de la normativa en materia de organización y conservación de archivos.
 
-> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Administración de Personal, las contenidas en las fracciones I a IV, VI a XXVI y XXXI; el Director de Recursos Materiales y Servicios Generales, las contenidas en las fracciones XXXIII a XLII; el Director de Gestión y Control Documental, las contenidas en las fracciones XLIII a XLVIII.
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Administración de Personal, las contenidas en las fracciones I a IV, VI a XXVI y XXXI; el Director de Recursos Materiales y Servicios Generales, las contenidas en las fracciones XXXIII a XLV; el Director de Gestión y Control Documental, las contenidas en las fracciones XLVI a XLVIII.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2016)</small>
 
@@ -1597,6 +1633,10 @@ Las atribuciones establecidas en el presente artículo serán ejercidas directam
 
 Las Delegaciones Regionales y Subdelegaciones adscritas a estas últimas, además de las atribuciones que les corresponden conforme al presente Estatuto Orgánico, realizarán las que por acuerdo se les deleguen.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+La Subdelegación Metropolitana Metro ubicará módulos dentro de las estaciones de la red del Sistema de Transporte Colectivo Metro.
+
 > <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2016)</small>
 
 ###### Artículo 25.
@@ -1661,7 +1701,9 @@ b) Metropolitana Norte,
 
 c) Metropolitana Oriente y
 
-d) Metropolitana Centro Histórico.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+d) Metropolitana Metro.
 
 > <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
@@ -1719,9 +1761,9 @@ f) Yucatán.
 
 VII. La Subdelegación en Cd. Juárez, en los municipios de Ascensión, Buenaventura, Casas Grandes, Galeana, Gómez Farías, Guadalupe Distrito Bravo, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes, Ojinaga y Praxedis G. Guerrero, todos ellos del Estado de Chihuahua;
 
-> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
 
-VIII. Las Subdelegaciones Metropolitana Central, Metropolitana Norte, Metropolitana Oriente y Metropolitana Centro Histórico, en todas las demarcaciones territoriales de la Ciudad de México y en los municipios conurbados a la misma, y
+VIII. Las Subdelegaciones Metropolitana Central, Metropolitana Norte, Metropolitana Oriente y Metropolitana Metro, en todas las demarcaciones territoriales de la Ciudad de México y en los municipios conurbados a la misma, con independencia de la demarcación territorial, municipio o, en su caso, estaciones del Sistema de Transporte Colectivo Metro en el que se encuentren ubicadas.
 
 > <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2016)</small>
 
@@ -1921,7 +1963,9 @@ II. Llevar un registro de los acuerdos tomados en las sesiones, dando seguimient
 
 III. Informar a los miembros de los Consejos Consultivos sobre el estado que guardan los acuerdos tomados;
 
-IV. Expedir y certificar las constancias que las autoridades competentes le requieran en ejercicio de sus atribuciones, así como las que le sean solicitadas de conformidad a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2017)</small>
+
+IV. Expedir y certificar las constancias que las autoridades competentes le requieran en ejercicio de sus atribuciones, así como las que le sean solicitadas de conformidad a la Ley Federal de Transparencia y Acceso a la Información Pública;
 
 V. Rendir periódicamente informes al presidente del Consejo Consultivo, respecto del seguimiento que se dé a la ejecución de los acuerdos emitidos por los mismos;
 
@@ -2094,6 +2138,14 @@ Tercero. Los Consejos Consultivos Regionales deberán ser instalados a los trein
 D.O.F. 5 DE JULIO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DE LAS "REFORMAS, ADICIONES Y DEROGACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS".]
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las actuaciones que hayan sido iniciadas por unidades administrativas distintas a las competentes, de acuerdo a las presentes reformas, adiciones y derogaciones serán concluidas por aquellas áreas a las cuales este ordenamiento les otorga las atribuciones correspondientes.
+
+D.O.F. 3 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS, ADICIONES Y DEROGACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS”.]
 
 PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
