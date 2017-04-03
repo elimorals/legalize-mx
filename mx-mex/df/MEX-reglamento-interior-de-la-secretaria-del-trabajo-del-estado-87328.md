@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-del-trabajo-del-estado-873
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-16"
-last_updated: "2012-05-30"
+last_updated: "2017-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87328&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO, PUBLICADO EN LA G.G. DE 3 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 3 DE ABRIL DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta de Gobierno del Estado de México, el viernes 16 de marzo de 2012.
 
@@ -479,10 +481,22 @@ LIC. ERNESTO JAVIER NEMER ÁLVAREZ
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 30 DE MAYO DE 2012.
 
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE ABRIL DE 2017
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO”.]
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Reglamento Interior de la Secretaría del Trabajo, publicado en el Periódico Oficial “Gaceta del Gobierno” el 16 de marzo de 2012.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Reglamento.
