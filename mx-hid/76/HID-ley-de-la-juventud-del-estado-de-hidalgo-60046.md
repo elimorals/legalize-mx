@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2016-08-15"
+last_updated: "2017-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2017.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
 MIGUEL ÁNGEL OSORIO CHONG, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
 
-QUE LA LlX LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+QUE LA LIX LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
 
 DECRETO NÚM. 540
 
@@ -319,9 +319,11 @@ El trabajo para los jóvenes menores de edad será motivo de las normas de prote
 
 El Gobierno promoverá con las instancias correspondientes de los Gobiernos Estatal y Federal, los lineamientos que incentiven la creación, promoción y protección del empleo de los jóvenes.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2017)</small>
+
 ###### Artículo 26.
 
-Las Dependencias y Entidades de los Gobiernos Estatal y Municipales, y Organismos Públicos Autónomos, apoyarán, en la medida de sus posibilidades, los proyectos productivos y empresariales de los jóvenes; y adoptarán las medidas apropiadas para promover y proteger los derechos de los jóvenes trabajadores conforme a la Ley Federal del Trabajo.
+Las Dependencias y Entidades de los Gobiernos Estatal y Municipales, y Organismos Públicos Autónomos, apoyarán, en la medida de sus posibilidades, los proyectos productivos y empresariales de los jóvenes, adoptarán las medidas apropiadas para promover y proteger los derechos de los jóvenes trabajadores conforme a la legislación en la materia y promoverán la inclusión laboral de jóvenes con discapacidad, basada en habilidades y competencias laborales.
 
 ###### Artículo 27.
 
@@ -737,7 +739,7 @@ XXIV.- Establecer, con sujeción a las disposiciones relativas, las normas y bas
 
 XXV.- Presentar anualmente a la Junta de Gobierno, el informe del desempeño de las actividades del Instituto, incluido el ejercicio del presupuesto de ingresos y egresos y estados financieros correspondientes;
 
-XXVI.- Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe el Instituto y presentar a la Junta de Gobierno cuando menos dos veces al año, la evaluación de gestión con el detalle que previamente se (sic) acuerdo con la propia Junta de Gobierno, escuchando al Comisario, tomando las acciones correspondientes para corregir las deficiencias que detectaren;
+XXVI.- Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe el Instituto y presentar a la Junta de Gobierno cuando menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerdo (sic) con la propia Junta de Gobierno, escuchando al Comisario, tomando las acciones correspondientes para corregir las deficiencias que detectaren;
 
 XXVII.- Ejecutar las disposiciones generales y acuerdos que dicte la Junta de Gobierno;
 
@@ -1017,8 +1019,6 @@ SECRETARIA
 
 DIP. TATIANA TONANTZIN P. ANGELES MORENO.
 
-cdv
-
 EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS TREINTA Y UN DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
@@ -1043,12 +1043,18 @@ El presente Decreto entrará en vigor al día siguiente al de su Publicación en
 
 P.O. 25 DE JULIO DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 676 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE JUVENTUD DEL ESTADO DE HIDALGO".]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 676 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE JUVENTUD DEL ESTADO DE HIDALGO".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 P.O. 15 DE AGOSTO DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 691 QUE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 43; Y UNA FRACCIÓN XXIV AL ARTÍCULO 58, DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 691 QUE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 43; Y UNA FRACCIÓN XXIV AL ARTÍCULO 58, DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 171 POR EL QUE SE REFORMA EL ARTÍCULO 26 DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
