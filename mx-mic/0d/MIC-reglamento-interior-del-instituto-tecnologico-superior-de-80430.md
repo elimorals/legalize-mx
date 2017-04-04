@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-tecnologico-superior-de-80430
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-14"
-last_updated: "2011-03-14"
+last_updated: "2017-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE HUETAMO, MICHOACAN
 
-REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE HUETAMO, MICHOACAN
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE HUETAMO, MICHOACÁN, PUBLICADO EN EL P.O. DE 4 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE HUETAMO, MICHOACÁN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017 (ABROGADO).
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el lunes 14 de marzo de 2011.
 
@@ -360,3 +362,13 @@ La Secretaria de Educación
 Graciela Carmina Andrade García Peláez
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE HUETAMO, MICHOACÁN”.]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento Interior del Instituto Tecnológico Superior de Huetamo, Michoacán, publicado en la Quinta Sección, Tomo CLI, número 25 del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha lunes 14 de marzo de 2011, y se dejan sin efecto todas aquellas disposiciones de carácter administrativo que se oponga al presente Reglamento.
