@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-compras-gubernamentales-120302"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-03-18"
-last_updated: "2017-03-18"
+last_updated: "2017-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACION DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, PARA EL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE ABRIL DE 2017 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, PARA EL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE ABRIL DE 2017.]</small>
 
 Reglamento publicado en la Sección VI al Número 6 del Periódico Oficial del Estado de Jalisco, el sábado 18 de marzo de 2017.
 
@@ -55,11 +55,13 @@ REGLAMENTO DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN D
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(F. DE E., P.O. 4 DE ABRIL DE 2017)</small>
+
 ###### Artículo 1.
 
 El presente ordenamiento tiene como objeto desarrollar en el ámbito administrativo los procedimientos que deberán observar las Dependencias y Entidades de la Administración Pública del Poder Ejecutivo del Estado, en relación a las operaciones que regula la Ley de Compras Gubernamentales, Enajenaciones y Contratación de Servicios del Estado de Jalisco y Municipios, sujetándose a los procedimientos que se establecen para la adquisición y enajenación de bienes, así como a la contratación de servicios en lo que respecte al patrimonio público.
 
-Además, los Comités de las Entidades de la Administración Pública Paraestatal del Poder Ejecutivo del Estado, deberán emitir los lineamientos necesarios para la aplicación de esta Ley, mismos que deberán estar armonizados con el presente Reglamento, autorizados por sus órganos de gobierno, y contar con el visto bueno de la unidad administrativa de la Secretaría, encargada de ser el vínculo entre la Administración Pública Centralizada y la Paraestatal, además de la Subsecretaría. Así mismo, podrán celebrar convenios con la Secretaría para que, por conducto de la Subsecretaría, la Administración Pública Centralizada, con observancia de las disposiciones legales aplicables, lleve a cabo la contratación de sus adquisiciones o servicios, tomando en cuenta la naturaleza, fines y metas de los propios organismos.
+Además, los Comités de las Entidades de la Administración Pública Paraestatal del Poder Ejecutivo del Estado, deberán emitir los lineamientos necesarios para la aplicación de esta Ley, mismos que deberán estar armonizados con el presente Reglamento, autorizados por sus órganos de gobierno, y contar con el visto bueno de la unidad administrativa de la Secretaría, encargada de ser el vínculo entre la Administración Pública Centralizada y la Paraestatal, además de la Subsecretaría. Así mismo, las Entidades de la Administración Pública Paraestatal podrán celebrar convenios con la Secretaría para que, por conducto de la Subsecretaría, la Administración Pública Centralizada, con observancia de las disposiciones legales aplicables, lleve a cabo la contratación de sus adquisiciones o servicios, tomando en cuenta la naturaleza, fines y metas de los propios organismos.
 
 ###### Artículo 2.
 
@@ -749,21 +751,23 @@ La Contraloría solicitará a los Comités correspondientes, por conducto del Se
 
 Con la información que se remita por parte de los Comités, la Contraloría hará la determinación referida en el artículo 37 numeral 2 de la Ley y la designación de los testigos sociales que deban cubrir dichas contrataciones, de acuerdo a su perfil y a las características de la compra.. (sic)
 
+> <small>(F. DE E., P.O. 4 DE ABRIL DE 2017)</small>
+
 ###### Artículo 83.
 
 En la designación de testigo social que realice la Contraloría, deberán considerarse los siguientes aspectos:
 
 I. La existencia de suficiencia presupuestal del ente público para efectuar la contraprestación de los servicios del testigo social;
 
-III (sic). La determinación del testigo social conforme a la especialización, capacidad, experiencia y preparación académica para prestar sus servicios, de ser el caso;
+II. La determinación del testigo social conforme a la especialización, capacidad, experiencia y preparación académica para prestar sus servicios, de ser el caso;
 
-IV. Se haya efectuado la solicitud cuando menos veinte días hábiles previos a la intervención del testigo social en el procedimiento de mérito;
+III. Se haya efectuado la solicitud cuando menos veinte días hábiles previos a la intervención del testigo social en el procedimiento de mérito;
 
-V. Que la contratación respectiva cause un impacto en los programas sustantivos del ente público;
+IV. Que la contratación respectiva cause un impacto en los programas sustantivos del ente público;
 
-VI. Exista un alto requerimiento para hacer más transparente el proceso, o que a consideración del Comité, la ejecución comprenda un porcentaje significativo del presupuesto y por lo tanto, un requerimiento especial de transparentar procedimientos, únicamente para el caso de adjudicaciones directas; y
+V. Exista un alto requerimiento para hacer más transparente el proceso, o que a consideración del Comité, la ejecución comprenda un porcentaje significativo del presupuesto y por lo tanto, un requerimiento especial de transparentar procedimientos, únicamente para el caso de adjudicaciones directas; y
 
-VII. Cualquier otro aspecto que se prevea en (sic) Lineamientos.
+VI. Cualquier otro aspecto que se prevea en (sic) Lineamientos.
 
 El incumplimiento de cualquiera de los supuestos previstos en las fracciones I y III de este artículo por parte de la Unidad centralizada de compras, o la relativa en las Entidades, será causa de responsabilidad administrativa.
 
@@ -1779,7 +1783,9 @@ DÉCIMO. Todos los procedimientos que hayan comenzado a sustanciarse en observan
 
 DÉCIMO PRIMERO. El control y administración de los datos relativos al Sistema de Manifiestos de Vínculos y Relaciones y de Declaraciones de Integridad y No Colusión, del Sistema relativo al Registro de Servidores Públicos, así como del Sistema relativo al Padrón de Testigos Sociales, se llevará por la Contraloría a partir de que entren en operación las plataformas electrónicas correspondientes.
 
-Así lo acordó el Gobernador del Estado ante los secretarios General de Gobierno, de Planeación, Administración y Finanzas, y de Medio Ambiente y Desarrollo Territorial, quienes lo refrendan.
+> <small>(F. DE E., P.O. 4 DE ABRIL DE 2017)</small>
+
+Así lo acordó el Gobernador del Estado ante los secretarios General de Gobierno, de Planeación, Administración y Finanzas, y la Contraloría del Estado, quienes lo refrendan.
 
 JORGE ARISTÓTELES SANDOVAL DÍAZ
 
