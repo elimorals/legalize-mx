@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2017-02-21"
+last_updated: "2017-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -2269,91 +2271,247 @@ V. Autorizar, previamente, los pagos o erogaciones de fondos que deban hacerse c
 
 VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la preparación del mismo para el ejercicio fiscal siguiente, deberá realizar estudios de carácter presupuestal, con el propósito de formar estadística razonada, respecto al desenvolvimiento de los servicios públicos, y determinar si su costo corresponde a la función que desarrollan, con fines de economía y eficiencia en el ejercicio del gasto público.
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>[N. DE E. EL DECRETO NUMERO 26305/LXI/17, PUBLICADO EN LA SECCIÓN VI DEL P.O. DE 4 DE ABRIL DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE TÍTULO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2017)</small>
 
 ## TITULO SEGUNDO. Del Presupuesto de Egresos
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2017)</small>
 
-### CAPITULO I. De la Estructura
+### CAPITULO I. De la Preparación del Presupuesto
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 206.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El gasto público del municipio se basará en el presupuesto que se elaborará para cada año calendario y su preparación comprenderá todas aquellas tareas que se señalan en el presente capítulo.
+
+El Plan Municipal de Desarrollo y los programas que de él se deriven serán base fundamental para la elaboración anual del proyecto de presupuesto de egresos del municipio
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 207.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El Presidente Municipal, a través de la Tesorería o el área Encargada de la Hacienda, determinará los lineamientos del gasto, así como las políticas y normas que se aplicarán durante la elaboración del anteproyecto de presupuesto de egresos, a los cuales tendrán que sujetarse las dependencias y entidades municipales mencionadas en el artículo 20 de esta Ley.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 208.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+La Tesorería o el área Encargada de la Hacienda emitirá los manuales e instructivos para la formulación de los anteproyectos de presupuesto de egresos y los remitirá oportunamente a las dependencias y entidades municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 209.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+La Tesorería o el área Encargada de la Hacienda realizará estudios pertinentes con el propósito de formular una política de gasto público razonada respecto al desenvolvimiento de los indicadores de impacto en la sociedad y de contar con criterios financieros que permitan incrementar la eficiencia en el aprovechamiento de los arbitrios del municipio.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+Los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto de presupuesto de egresos, podrán ser hasta por el 2.5 por ciento de los ingresos totales del municipio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 210.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El importe del presupuesto de egresos, no deberá exceder de la estimación de los ingresos señalados para el ejercicio correspondiente por la Ley de Ingresos y de los excedentes que provengan del ejercicio inmediato anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 211.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+Para la formulación del proyecto de presupuesto de egresos del gobierno municipal, de las dependencias y entidades municipales elaborarán sus anteproyectos con base en los programas respectivos, ajustándose a los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad, proporcionalidad y perspectiva de género, así como a los montos que establezca el Presidente Municipal, por conducto de la Tesorería o el área Encargada de la Hacienda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 212.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+Los anteproyectos de presupuesto a que se refiere el presente artículo deben contener las plantillas de personal en las que se especifiquen los empleos públicos del municipio y se señale el total de las remuneraciones a que tengan derecho cada uno de los servidores públicos municipales, las cuales deben ser acordes a lo dispuesto por los artículos 127 de la Constitución Política de los Estados Unidos Mexicanos y 111 de la Constitución Política del Estado de Jalisco, así como a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones legales aplicables, sin que bajo ninguna circunstancia, puedan incorporarse ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+En materia de servicios personales, se observará lo siguiente:
 
-### CAPITULO II. De la Estimación del Monto
+I. La asignación global de recursos para servicios personales que se apruebe en el Presupuesto de Egresos, tendrá como límite, el producto que resulte de aplicar al monto aprobado en el Presupuesto de Egresos del ejercicio inmediato anterior, una tasa de crecimiento equivalente al valor que resulte menor entre:
+
+a) El 3 por ciento de crecimiento real, y
+
+b) El crecimiento real del Producto Interno Bruto señalado para el ejercicio que se está presupuestando. En caso de que el Producto Interno Bruto presente una variación real negativa para el ejercicio que se está presupuestando, se deberá considerar un crecimiento real igual a cero.
+
+Se exceptúa del cumplimiento de la presente fracción, el monto erogado por sentencias laborales definitivas emitidas por la autoridad competente.
+
+Los gastos en servicios personales que sean estrictamente indispensables para la implementación de nuevas leyes federales o locales, así como reformas a las mismas, podrán autorizarse sin sujetarse al límite establecido en la presente fracción, hasta por el monto que específicamente se requiera para dar cumplimiento a lo establecido en esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2017)</small>
+
+### CAPITULO II. De la Estructura del Presupuesto
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 213.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+La estructura del proyecto de presupuesto de egresos, tendrá una base programática y se le dará una sustentación lo suficientemente amplia, que abarque todas las responsabilidades del Gobierno Municipal por conducto de todas sus entidades y dependencias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 214.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El proyecto de Presupuesto de Egresos del Municipio se integrará con los documentos que se refieren a:
+
+I. Exposición de motivos en la que se señalen los efectos políticos, económicos y sociales que se pretendan lograr;
+
+II. Descripción de los programas que integran el proyecto de presupuesto de egresos, señalando objetivos y prioridades globales, así como las dependencias y entes públicos municipales, responsables de su ejecución;
+
+III. Matrices de indicadores para resultados de cada una de las dependencias y entes públicos municipales;
+
+IV. Informe de los avances en el cumplimiento de los objetivos y metas de desarrollo establecidas en el Plan Municipal y de cada una de las Matrices de Indicadores para Resultados aplicados durante el año;
+
+V. Explicación y justificación de los principales programas, en especial de aquellos que abarquen dos o más ejercicios presupuestales; y de las diferentes partidas del presupuesto;
+
+VI. Estimación de ingresos y proporción de gastos del ejercicio presupuestal para el que se proponen;
+
+VII. Las proyecciones del presupuesto de egresos considerando los criterios generales de política económica y con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un periodo de tres años en adición al ejercicio fiscal en cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
+
+VIII. Presentación según su clasificación: por dependencia, por objeto del gasto y programática;
+
+IX. Ingresos y gastos estimados del ejercicio presupuestal en curso;
+
+X. Situación de la deuda pública al fin del ejercicio presupuestal en curso y estimación de la que se tendrá al cierre del que se propone, incluyendo el saldo total de la deuda, condiciones de contratación, calendario de vencimiento de las obligaciones contraídas en el ejercicio inmediato anterior y la aplicación de los recursos a proyectos de inversión, así como su impacto en relación con el Presupuesto de Egresos;
+
+XI. Plantillas de personal por jornada y por nivel, conforme lo dispuesto en el artículo 10, fracción II, de la Ley de la Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Asimismo, un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada cuatro años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente;
+
+XII. Programas de obra pública o similar que detalle proyectos de obra, su ubicación, el costo por cada una y el número de habitantes que se verán beneficiados, así como la cantidad asignada para cada caso en el Presupuesto de Egresos; y el capítulo específico que incorpore las erogaciones multianuales para proyectos de inversión en infraestructura;
+
+XIII. Situación que guardan las obligaciones de pago derivadas de los contratos de asociación público-privada para el desarrollo de proyectos de inversión en infraestructura anual o multianual, o de prestación de servicios que en ejercicios anteriores fueron autorizados por el Ayuntamiento;
+
+XIV. Descripción de los riesgos relevantes para las finanzas municipales, incluyendo los montos de Deuda Contingente, acompañados de su propuesta de acción para enfrentarlos;
+
+XV. Los resultados de las finanzas públicas que abarquen un periodo de los tres últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin; y
+
+XVI. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
+
+La proyección y resultados a que se refiere (sic) las fracciones VII y XV, comprenderán sólo un año para el caso de los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Dichos Municipios contarán con el apoyo técnico de la Secretaría de Planeación, Administración y Finanzas para cumplir con lo previsto en este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 215.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El proyecto de Presupuestos de Egresos de los Municipios se deberán elaborar conforme a lo establecido en esta Ley, en la Ley General de Contabilidad Gubernamental y las normas que emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; debiendo ser congruentes con los planes estatales y municipales de desarrollo y los programas derivados de los mismos e incluirán cuando menos objetivos anuales, estrategias y metas.
 
-### CAPITULO III. De la Iniciativa, Discusión y Aprobación
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2017)</small>
+
+### CAPITULO III. De la Iniciativa, Aprobación y Reformas al Presupuesto
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 216.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El Presidente Municipal deberá presentar al Ayuntamiento, para su aprobación a más tardar el primer día hábil del mes de diciembre de cada año, el proyecto de presupuesto de egresos que reúna los requisitos señalados en esta ley, para ejercer en el año siguiente, y deberá transcurrir un plazo mínimo de diez días antes de que el Ayuntamiento proceda a su discusión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 217.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El Ayuntamiento dará trámite a la Iniciativa del proyecto de Presupuesto de Egresos presentado, procediendo a su estudio y análisis para su aprobación.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 218.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+El Presupuesto de Egresos deberá ser aprobado a más tardar el 30 de diciembre. En caso de que para el día 31 de diciembre no sea aprobado el Presupuesto de Egresos correspondiente se aplicará el ejercicio del año inmediato anterior, incluyendo sus modificaciones.
 
-### CAPITULO IV. De su Ejercicio
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2017)</small>
+
+### CAPITULO IV. Del Ejercicio del Gasto
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 219.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos y en sus modificaciones posteriores o con cargo a Ingresos excedentes, atendiendo lo establecido en el artículo 21 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Los Municipios deberán revelar en la cuenta pública y en los informes que periódicamente entreguen al Congreso del Estado, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado.
+
+Los recursos que integran la hacienda municipal deben ser ejercidos en forma directa por los ayuntamientos, o bien, por quienes ellos autoricen en sus reglamentos.
+
+El Gasto total propuesto por el Ayuntamiento del Municipio en el proyecto de Presupuesto de Egresos, el aprobado y el que se ejerza en el año fiscal, deberán contribuir al Balance presupuestario sostenible.
+
+Se considerará que el Balance presupuestario cumple con el principio de sostenibilidad, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El Financiamiento Neto que, en su caso, se contrate por parte del Municipio y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con el artículo 46 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 220.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+Se podrá incurrir en un balance presupuestario de recursos disponibles negativo, solo mediante aprobación del Congreso del Estado, cuando:
+
+I. Se presente una caída en el Producto Interno Bruto nacional en término (sic) reales, y lo anterior origine una caída en las participaciones federales con respecto a lo aprobado en el Presupuesto de Egresos de la Federación, y ésta no logre compensarse con los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+
+II. Sea necesario cubrir el costo de la reconstrucción provocada por los desastres naturales declarados en los términos de la Ley General de Protección Civil, o
+
+III. Se tenga la necesidad de prever un costo mayor al 2 por ciento del Gasto no etiquetado observado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior, derivado de la implementación de ordenamientos jurídicos o medidas de política fiscal que, en ejercicios fiscales posteriores, contribuyan a mejorar ampliamente el Balance presupuestario de recursos disponibles negativo, ya sea porque generen mayores ingresos o menores gastos permanentes; es decir, que el valor presente neto de dicha medida supere ampliamente el costo de la misma en el ejercicio fiscal que se implemente.
+
+Debido a las razones excepcionales a que se refiere este artículo, el Ayuntamiento podrá proponer al Congreso del Estado que apruebe un Balance presupuestario de recursos disponibles negativo, para lo cual deberá presentar una iniciativa (sic) contenga cuando menos los siguientes elementos:
+
+a) Las razones excepcionales que justifican el Balance presupuestario de recursos disponibles negativos (sic), conforme a lo establecido en este artículo;
+
+b) Las fuentes de recursos necesarias y el monto específico para cubrir el Balance presupuestario de recursos negativo; y
+
+c) El número de ejercicios fiscales y las acciones requeridas para que dicho Balance presupuestario de recursos disponibles negativo sea eliminado y se restablezca el Balance presupuestario de recursos disponibles sostenible.
+
+En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de Ingresos correspondiente, los ayuntamientos a efecto de cumplir con el principio de sostenibilidad del balance presupuestario y del balance presupuestario de recursos disponibles, de acuerdo con la en (sic) la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, deberán aplicar ajustes al Presupuesto de Egresos en los rubros de gasto en el siguiente orden:
+
+a) Gastos de comunicación social;
+
+b) Gasto corriente que no constituya un subsidio entregado directamente a la población, y
+
+c) Gasto en servicios personales, prioritariamente las erogaciones por concepto de percepciones extraordinarias.
+
+En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
+
+En caso de registrase (sic) ingresos excedentes derivados de ingresos de libre disposición, estos ingresos se deberán destinar en términos de lo establecido por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 221.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+Una vez aprobado el Presupuesto de Egresos, para el ejercicio del gasto, el Gobierno Municipal deberá observar las disposiciones siguientes:
+
+I. Sólo podrán comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria, identificando la fuente de ingresos;
+
+II. Podrán realizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos con cargo a los Ingresos excedentes de libre disposición que obtengan, en los términos del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativos (sic) y los Municipios, con la autorización previa del Ayuntamiento.
+
+Si alguna de las asignaciones vigentes en el presupuesto de egresos municipal resulta insuficiente para cubrir las necesidades que originen las funciones encomendadas al gobierno y administración pública municipal, el ayuntamiento puede decretar las ampliaciones necesarias previa justificación de los ingresos adicionales o en su caso la compensación mediante reducciones en otras previsiones de gasto, en las que habrá de soportarse el nuevo gasto, siempre y cuando no se altere el balance presupuestario.
+
+Los ayuntamientos podrán prever para su último año de gestión administrativa, en sus respectivos presupuestos de egresos un capítulo específico para el proceso de entrega-recepción del órgano de gobierno municipal y de la administración pública que le deriva con el objeto de eficientar, agilizar y transparentar este proceso.
+
+La partida prevista para el proceso de entrega-recepción, deberá cumplir en forma estricta con los criterios de racionalidad, austeridad y disciplina presupuestal;
+
+III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil.
+
+Para los propósitos señalados en el párrafo anterior, cada Gobierno Municipal deberá contar con un área encargada de evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de proyectos de Inversión pública productiva del municipio.
+
+Tratándose de proyectos de Inversión pública productiva que se pretendan contratar bajo un esquema de Asociación Público-Privada, los municipios y sus Entes Públicos municipales deberán acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado.
+
+Dichas evaluaciones deberán ser públicas a través de las páginas oficiales de Internet del municipio;
+
+IV. Sólo procederá hacer pagos con base en el Presupuesto de Egresos autorizado, y por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
+
+V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente.
+
+La Tesorería o área Encargada de la Hacienda Municipal contará con un sistema de registro y control de las erogaciones de servicios personales;
+
+VI. Deberán tomar medidas para racionalizar el Gasto corriente.
+
+Los ahorros y economías generados como resultado de la aplicación de dichas medidas, así como los ahorros presupuestarios y las economías que resulten por concepto de un costo financiero de la Deuda Pública menor al presupuestado, deberán destinarse en primer lugar a corregir desviaciones del Balance presupuestario de recursos disponibles negativo, y en segundo lugar a los programas prioritarios del municipio;
+
+VII. En materia de subsidios se deberá identificar la población objetivo, el propósito o destino principal y la temporalidad de su otorgamiento. Los mecanismos de distribución, operación y administración de los subsidios deberán garantizar que los recursos se entreguen a la población objetivo y reduzcan los gastos administrativos del programa correspondiente.
+
+La información señalada en el párrafo anterior deberá hacerse pública a través de las páginas oficiales de Internet del municipio, y
+
+VIII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio.
+
+Los Municipios y sus Entes Públicos deberán observar lo previsto en este artículo con excepción de la fracción III, segundo párrafo de dicho artículo, el cual sólo será aplicable para los Municipios de más de 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
+
+Las autorizaciones a las que se hace mención en dichos artículos serán realizadas por las autoridades municipales.
+
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO V. De las Modificaciones
 
@@ -3752,3 +3910,21 @@ P.O. 21 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26212/LXI/16 QUE REFORMA LOS ARTÍCULOS 23-BIS, 44, 44 BIS, 112, 114, 197, FRACCIÓN X, 257, 259 A Y 259 B DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor a los diez días hábiles siguientes al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26305/LXI/17 QUE REFORMA LOS ARTÍCULOS 37 Y 79 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL Y REFORMA EL TÍTULO SEGUNDO DEL LIBRO CUARTO, JUNTO CON LOS CAPÍTULOS QUE LOS INTEGRAN, ASÍ COMO LOS ARTÍCULOS 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220 y 221 DE LA LEY DE HACIENDA MUNICIPAL, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el en el (sic) periódico oficial El Estado de Jalisco.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Tercero. El artículo 212 de la Ley de Hacienda Municipal del Estado de Jalisco entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 212 de la Ley de Hacienda Municipal del Estado de Jalisco hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+Cuarto. Los ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia el artículo 219 de la Ley de Hacienda Municipal del Estado de Jalisco, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
+
+Adicionalmente los ingresos excedentes de libre disposición podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018, siempre y cuando el ayuntamiento se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+Quinto. El porcentaje a que hace referencia el artículo 209 de la Ley de Hacienda Municipal del Estado de Jalisco, relativo a los adeudos del ejercicio fiscal anterior (Adefas) de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
