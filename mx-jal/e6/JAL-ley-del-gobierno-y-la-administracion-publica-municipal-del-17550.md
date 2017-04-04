@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2017-01-28"
+last_updated: "2017-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MAYO DE 2017 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -653,9 +655,19 @@ Son obligaciones de los Ayuntamientos, las siguientes:
 
 I. Presentar al Congreso del Estado las iniciativas de sus leyes de ingresos a mas tardar el día 31 de agosto de cada año; en caso de no hacerlo, se tomarán como iniciativas las leyes que hubiesen regido durante el año fiscal inmediato anterior. Los ayuntamientos pueden solicitar al Congreso del Estado las ampliaciones que a su juicio ameriten sus leyes de ingresos ya aprobadas.
 
-Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, en los términos de la ley estatal en materia de responsabilidades de los servidores públicos;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
+
+Las iniciativas de leyes de ingresos se deberán presentar cumpliendo con las disposiciones y requisitos establecidos en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios, la Ley de Hacienda Municipal del Estado de Jalisco así como las normas que para tal efecto emita el Consejo Nacional de Armonización Contable.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
+
+Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, en los términos de la ley estatal en materia de responsabilidades de los servidores públicos, así como de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 II. Aprobar y aplicar su presupuesto de egresos, bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación social y vecinal;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
+
+La aprobación de (sic) presupuesto de egresos y en su caso la aplicación del gasto público municipal, se sujetarán a las disposiciones y requisitos establecidos en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Hacienda Municipal del Estado de Jalisco, la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco, y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable;
 
 III. Remitir a la Auditoría Superior a más tardar el día veinte de cada mes, la cuenta detallada de los movimientos de fondos ocurridos en el mes anterior; a más tardar el día último de julio, el corte del primer semestre; y a más tardar el día último de febrero, el corte general del año inmediato anterior;
 
@@ -685,7 +697,9 @@ XV. Ejercer en coordinación con la Federación y el Gobierno del Estado, en el 
 
 XVI. Solicitar a la Secretaría de Cultura previo a emitir licencia de construcción relativa a inmuebles inventariados como Patrimonio Cultural, el dictamen técnico en los términos de la Ley de Patrimonio Cultural del Estado de Jalisco y sus Municipios; y
 
-XVII. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+
+XVII. Las demás que les establezcan la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado de Jalisco, y demás leyes, tanto federales como locales, y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1341,63 +1355,27 @@ Además de los ingresos que forman parte de la Hacienda Municipal, los municipio
 
 El ejercicio de las aportaciones federales para fines específicos debe preverse en los presupuestos de egresos de los municipios y formará parte de la cuenta pública municipal, y deberá cumplir con las disposiciones en materia de transparencia.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Artículo 79.
 
-El Congreso del Estado debe aprobar las leyes de ingresos de los municipios. Los presupuestos de egresos deben ser aprobados por los Ayuntamientos, con base en sus ingresos disponibles, planes municipales de desarrollo, programas que señalen los objetivos, las metas con base en indicadores de desempeño y las unidades responsables de su ejecución, traducidos en capítulos, conceptos y partidas presupuestales, así como a los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad y proporcionalidad.
+El Congreso del Estado debe aprobar las leyes de ingresos de los municipios sujetándose a las disposiciones y requisitos establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Los presupuestos de egresos deben ser aprobados por los Ayuntamientos, con base en sus ingresos disponibles, de conformidad con la Ley de Hacienda Municipal del Estado de Jalisco y los criterios generales de política económica.
 
-Dichos indicadores de desempeño corresponden a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año expresado en términos de cobertura, eficiencia, impacto económico y social, calidad y equidad.
+Los presupuestos municipales estarán basados en los programas que señalen los objetivos y las metas con base en indicadores de desempeño. Los indicadores de desempeño corresponden a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año expresado en términos de cobertura, eficiencia, impacto económico y social, calidad y equidad.
 
-Asimismo, los presupuestos se sujetan a las siguientes reglas:
+Tanto las leyes de ingresos y los presupuestos de egresos deberán ser congruentes con los criterios generales de política económica y las estimaciones de las participaciones y transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación, así como aquellas transferencias de la Entidad Federativa correspondiente.
 
-I. El Presidente Municipal, deberá presentar a los integrantes del Ayuntamiento, el Proyecto de Presupuesto de Egresos para el ejercicio fiscal del año siguiente, junto con los anexos a que se refiere la fracción II de este artículo, a más tardar el primer día hábil del mes de diciembre y deberá transcurrir un plazo mínimo de diez días antes de que el Ayuntamiento proceda a su discusión.
+Adicionalmente, la iniciativa de leyes de ingresos deberán (sic) incluir lo siguiente:
 
-Los ayuntamientos deben aprobar sus presupuestos de egresos, a más tardar, el día veinte de diciembre del año anterior al en que deben regir, considerando su actividad económica preponderante, la extensión de su territorio, las actividades prioritarias de sus habitantes, la amplitud de sus servicios públicos, la forma de distribución de la población, la prioridad de la obra pública y sus endeudamientos.
+I. Proyecciones de finanzas públicas, considerando las premisas empleadas en los Criterios Generales de Política Económica.
 
-En caso de que para el día veinte de diciembre no sea aprobado el Presupuesto de Egresos correspondiente, se aplica el ejercido el año inmediato anterior, incluyendo sus modificaciones.
+Las proyecciones se realizarán con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un periodo de tres años en adición al ejercicio fiscal en cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
 
-Los recursos que integran la hacienda municipal deben ser ejercidos en forma directa por los ayuntamientos, o bien, por quienes ellos autoricen en sus reglamentos;
+II. Descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de deuda contingente, acompañados de propuestas de acción para enfrentarlos;
 
-II. Los presupuestos de egresos de los municipios, deben contener:
+III. Los resultados de las finanzas públicas que abarquen un periodo de los tres últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin, y
 
-a) La información detallada de la situación hacendaria del Municipio durante el último ejercicio fiscal, con las condiciones previstas para el próximo;
-
-b) La estimación de los ingresos que se estimen recaudar, para el próximo ejercicio fiscal;
-
-c) Previsiones de egresos en relación a cada capítulo, concepto y partida para el sostenimiento de las actividades oficiales, obras o servicios públicos, en el siguiente ejercicio fiscal;
-
-d) Las plantillas de personal en las que se especifiquen los empleos públicos del municipio y se señale el total de las retribuciones a que tengan derecho cada uno de los servidores públicos municipales, las cuales deben ser acordes a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables, sin que bajo ninguna circunstancia, puedan incorporarse ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración; y
-
-e) Los informes financieros y datos estadísticos que se estimen convenientes para la mejor determinación de la política hacendaria y del programa de gobierno; y
-
-III. Las previsiones de egresos se deben clasificar conforme a su naturaleza de acuerdo con las siguientes bases:
-
-a) Capítulos fundamentales de autorización:
-
-I. Servicios Personales;
-
-II. Materiales y Suministros;
-
-III. Servicios Generales;
-
-IV. Subsidios y Subvenciones;
-
-V. Bienes Muebles e Inmuebles;
-
-VI. Obras Públicas;
-
-VII. Erogaciones Diversas; y
-
-VIII. Deuda Pública.
-
-b) Los capítulos respectivos se dividen en conceptos, o sea, en grupos de autorización de naturaleza semejante; y
-
-c) Los conceptos se dividen a su vez en partidas que representen en forma específica el gasto público.
-
-Si alguna de las asignaciones vigentes en el presupuesto de egresos resulta insuficiente para cubrir las necesidades que originen las funciones encomendadas al gobierno y administración pública municipal, el Ayuntamiento puede decretar las ampliaciones necesarias previa justificación que de éstas se haga.
-
-Los ayuntamientos podrán prever para su último año de gestión administrativa, en sus respectivos presupuestos de egresos un capítulo específico para el proceso de entrega-recepción del órgano de gobierno municipal y de la administración pública que le deriva con el objeto de eficientar, agilizar y transparentar este proceso.
+Las proyecciones y resultados a que se refieren las fracciones I y III precedentes, respectivamente, comprenderán sólo un año para el caso de los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -2682,3 +2660,21 @@ SEGUNDO. En tanto se actualizan las Leyes de Ingresos de los municipios, los der
 TERCERO. En el cuerpo del texto de la Carta de Origen se deberá especificar que solamente tendrá validez para trámites ante la Secretaría de Relaciones Exteriores.
 
 CUARTO. La Secretaría General del Gobierno del Estado de Jalisco gestionará con los Ayuntamientos del Estado la unificación de criterios, costos, producción y emisión de un formato único de la Carta de Origen.
+
+P.O. 4 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26305/LXI/17 QUE REFORMA LOS ARTÍCULOS 37 Y 79 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL Y REFORMA EL TÍTULO SEGUNDO DEL LIBRO CUARTO, JUNTO CON LOS CAPÍTULOS QUE LOS INTEGRAN, ASÍ COMO LOS ARTÍCULOS 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220 Y 221 DE LA LEY DE HACIENDA MUNICIPAL, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el en el (sic) periódico oficial El Estado de Jalisco.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Tercero. El artículo 212 de la Ley de Hacienda Municipal del Estado de Jalisco entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 212 de la Ley de Hacienda Municipal del Estado de Jalisco hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+Cuarto. Los ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia el artículo 219 de la Ley de Hacienda Municipal del Estado de Jalisco, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
+
+Adicionalmente los ingresos excedentes de libre disposición podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018, siempre y cuando el ayuntamiento se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+Quinto. El porcentaje a que hace referencia el artículo 209 de la Ley de Hacienda Municipal del Estado de Jalisco, relativo a los adeudos del ejercicio fiscal anterior (Adefas) de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
