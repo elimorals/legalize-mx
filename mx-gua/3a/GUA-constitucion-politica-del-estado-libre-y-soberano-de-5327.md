@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2017-02-03"
+last_updated: "2017-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,17 @@ state: "GUA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 64, PUBLICADO EN EL P.O. 17 DE MAYO DE 2013, TODA REFERENCIA QUE EN LAS LEYES, DECRETOS U OTROS ORDENAMIENTOS EXISTA AL MUNICIPIO DE "SILAO", SE ENTENDERÁN HECHAS AL "MUNICIPIO DE SILAO DE LA VICTORIA".]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
 El C. LIC. AGUSTIN ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, a sus habitantes, hace saber:
 
 Que la XXVI H. Legislatura del mismo, con el carácter de Congreso Constituyente, se ha servido decretar la siguiente
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 64, PUBLICADO EN EL P.O. 17 DE MAYO DE 2013, TODA REFERENCIA QUE EN LAS LEYES, DECRETOS U OTROS ORDENAMIENTOS EXISTA AL MUNICIPIO DE "SILAO", SE ENTENDERÁN HECHAS AL "MUNICIPIO DE SILAO DE LA VICTORIA".</small>
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NUMERO 176, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2014, SE EXTINGUEN EL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO Y EL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO, Y LOS RECURSOS HUMANOS Y MATERIALES PASARÁN A FORMAR PARTE DEL PATRIMONIO DE LAS AUTORIDADES ELECTORALES ADMINISTRATIVA Y JURISDICCIONAL LOCALES, SIN MENOSCABO DE LOS DERECHOS ADQUIRIDOS DE LOS TRABAJADORES.</small>
 
 CONSTITUCION.
 
@@ -563,7 +561,9 @@ Los ciudadanos guanajuatenses tienen el derecho de afiliarse, individual y libre
 
 El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que lo hagan de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación.
 
-Apartado A. Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo, así como establecer las reglas para garantizar la paridad entre los géneros, en las candidaturas a diputados al Congreso del Estado y regidores en el caso de los ayuntamientos. Para ello tendrán el derecho de postular candidatos por sí mismos o a través de coaliciones en los términos que establezca la Ley de la materia. En las candidaturas a diputado y regidor, las fórmulas de propietario y suplente deberán ser del mismo género, tratándose de candidatos bajo el principio de representación proporcional, las listas se integrarán de manera alternada entre los géneros. En el caso de candidatos a diputados locales uninominales cada partido o coalición deberá postular el cincuenta por ciento de las fórmulas de un mismo género salvo cuando el número de registros sea impar, en cuyo caso habrá una fórmula más de un género.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2017)</small>
+
+Apartado A. Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo, así como establecer las reglas para garantizar la paridad entre los géneros, en las candidaturas a diputados al Congreso del Estado, a Presidentes Municipales, Síndicos y Regidores. En el caso de candidaturas integradas por fórmulas de propietario y suplente estas deberán ser del mismo género, para ello tendrán el derecho de postular candidatos por sí mismos o a través de coaliciones, en los términos que establezca la Ley de la materia.
 
 Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatal y municipal.
 
@@ -3956,3 +3956,13 @@ P.O. 3 DE FEBRERO DE 2017.
 Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 4 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMA EL ARTÍCULO 17, APARTADO A, PÁRRAFO PRIMERO DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Congreso del Estado deberá adecuar la Ley de Instituciones yProcedimientos (sic) Electorales para el Estado de Guanajuato, a más tardar el 25 de mayo del presente año.
+
+Artículo Tercero. El Titular del Ejecutivo del Estado deberá publicar las adecuaciones referidas en el artículo anterior, por lo menos noventa días antes de que inicie el proceso electoral próximo inmediato.
