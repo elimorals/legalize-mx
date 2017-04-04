@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-general-del-estado-de-jalisco-92908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2017-03-04"
+last_updated: "2017-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 27 de febrero de 2013.
 
@@ -135,29 +135,33 @@ II. La Fiscalía Central;
 
 III. La Fiscalía Especial en materia de Delitos Electorales;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ABRIL DE 2017)</small>
 
-IV. La (sic) Comisionado de Seguridad Pública;
+IV. La Fiscalía Especializada en Personas Desaparecidas;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
 
-V. Las Fiscalías Regionales;
+V. La Comisaría de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
 
-VI. La Fiscalía de Derechos Humanos;
+VI. Las Fiscalías Regionales;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
 
-VII. La Fiscalía de Reinserción Social;
+VII. La Fiscalía de Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
 
-VIII. Los Agentes del Ministerio Público; y
+VIII. La Fiscalía de Reinserción Social;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
 
-IX. Las instancias disciplinarias o comisiones de honor y justicia que establezca el reglamento.
+IX. Las agencias del Ministerio Público; y
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+
+X. Las instancias disciplinarias o comisiones de honor y justicia que establezca el reglamento.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -232,6 +236,22 @@ Artículo 8º bis. La Fiscalía Especial en materia de Delitos Electorales será
 Contará con los recursos humanos, financieros y materiales que requiera para su efectiva operación.
 
 El titular será nombrado conforme a lo previsto por la Constitución Política del Estado de Jalisco y durará en el cargo lo establecido en la misma.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2017)</small>
+
+###### Artículo 8° Ter.
+
+La Fiscalía Especializada en Personas Desaparecidas, será competente para dirigir, coordinar y supervisar las investigaciones para la búsqueda y localización de personas desaparecidas y, en su caso, su identificación forense, para perseguir los delitos relacionados con la desaparición de personas, así como la prevención de este ilícito.
+
+Contará por lo menos con las siguientes áreas y las demás que se señalen en el reglamento de la presente ley:
+
+I. Coordinación de Atención Ciudadana;
+
+II. Dirección General de Búsqueda de Personas Desaparecidas;
+
+III. Dirección General de Investigación de Personas Desaparecidas; y
+
+IV. Dirección General de Análisis y Contexto.
 
 ###### Artículo 9º.
 
@@ -1202,3 +1222,13 @@ P.O. 4 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 26282/LXI/17 QUE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26317/LXI/17 QUE REFORMA EL ARTÍCULO 4° EN SUS FRACCIONES IV, V, VI, VII, VIII, IX Y X; Y SE ADICIONA EL ARTÍCULO 8° TER DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se concede un término de 90 días hábiles para que el Gobernador del Estado realice las adecuaciones reglamentarias correspondientes.
+
+TERCERO. Se autoriza al Gobernador del Estado para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, efectúe las gestiones y los cambios presupuestales y administrativos correspondientes para el cumplimiento del presente decreto, dentro de los siguientes ciento ochenta días hábiles posteriores a su publicación.
