@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2017-02-28"
+last_updated: "2017-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 28 DE FEBRERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -239,13 +237,13 @@ Los Diputados que se presenten o sean llamados al ejercicio del cargo, con poste
 
 Los Diputados tienen la misma categoría e iguales derechos, obligaciones y garantías, los cuales serán efectivos a partir de que rindan la protesta de ley.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
+
 ###### Artículo 24.
 
-Los Diputados gozan del fuero que les otorga la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política para el Estado de Guanajuato; el que cesará cuando queden separados del cargo. En demandas del orden civil, mercantil y laboral, no gozarán de fuero alguno.
+A los diputados no podrá exigírseles responsabilidad legal alguna por las opiniones que manifiesten en el desempeño de sus cargos, ni ser reconvenidos o enjuiciados por ellas.
 
-Asimismo, no podrá exigírselas responsabilidad legal alguna por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos o enjuiciados por ellas.
-
-Los diputados son responsables por los delitos, faltas u omisiones que cometan durante el tiempo de su encargo, pero no podrán ser detenidos ni ejercitarse en su contra acción penal, hasta que, seguido el procedimiento constitucional, se declare que ha lugar a la acusación y como consecuencia de ello, se proceda a la separación del cargo y la sujeción a la acción de los tribunales.
+Los diputados son responsables por los delitos, faltas u omisiones que cometan durante el tiempo de su encargo.
 
 ###### Artículo 25.
 
@@ -515,11 +513,21 @@ III. Formular las medidas necesarias para el desarrollo de los debates y discusi
 
 IV. Cuidar que las iniciativas, dictámenes, propuestas, mociones, comunicados y demás escritos, cumplan con las normas que regulan su formulación y presentación; y
 
-V. Las demás que le atribuyen la Ley, los ordenamientos aplicables y los acuerdos del Pleno o de la Diputación Permanente.
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2017)</small>
+
+V. La elaboración de las declaratorias de separación del cargo derivadas de las resoluciones dictadas por la Cámara de Diputados en Juicio de Procedencia, por delitos del orden federal en contra de servidores públicos que refiere la Constitución Política de los Estados Unidos Mexicanos, en términos del segundo párrafo del artículo 216 de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2017)</small>
+
+VI. La elaboración de las declaratorias de separación o restitución del cargo de servidores públicos que refiere la Constitución Política para el Estado de Guanajuato; y
+
+VII. Las demás que le atribuyen la Ley, los ordenamientos aplicables y los acuerdos del Pleno o de la Diputación Permanente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Artículo 55.
 
-La Presidencia de la Mesa Directiva preside el Congreso del Estado, ostenta la representación del Poder Legislativo y expresa su unidad; garantiza el fuero constitucional de los Diputados y vela por la inviolabilidad del Recinto Oficial.
+La Presidencia de la Mesa Directiva preside el Congreso del Estado, ostenta la representación del Poder Legislativo, expresa su unidad y vela por la inviolabilidad del Recinto Oficial.
 
 La Presidencia de la Mesa Directiva al dirigir las sesiones velará por el equilibrio entre las libertades de los Diputados de los Grupos Parlamentarios, de las Representaciones Parlamentarias, y en su caso, de los Diputados Independientes la eficacia en el cumplimiento de las funciones del Congreso del Estado. Asimismo, hará prevalecer el interés general del Congreso del Estado por encima de los intereses particulares o de grupo.
 
@@ -825,7 +833,7 @@ Las Comisiones clausurarán sus trabajos durante la primera quincena del mes de 
 
 ###### Artículo 77.
 
-El Pleno, a petición de cualquiera de sus integrantes y previo estudio por parte de la Mesa Directiva de los motivos invocados, podrá remover o dispensar temporal o definitivamente de una Comisión a cualquiera de sus integrantes, siempre que sea aprobado por el voto de las dos terceras partes de los presentes, haciendo la elección la Asamblea, del Diputado que sustituya, ya sea con carácter temporal o definitivo.
+El Pleno, a petición de cualquiera de sus integrantes y previo estudio por parte de la Mesa Directiva de los motivos invocados, podrá remover o dispensar temporal o definitivamente de una Comisión c (sic) cualquiera de sus integrantes, siempre que sea aprobado por el voto de las dos terceras partes de los presentes, haciendo la elección la Asamblea, del Diputado que sustituya, ya sea con carácter temporal o definitivo.
 
 Para que pueda proponerse la remoción de un diputado de la Comisión que forme parte, deberá seguirse el procedimiento señalado en el artículo 49 de la presente Ley.
 
@@ -1399,7 +1407,7 @@ II. Las solicitudes de desaparición de ayuntamientos o Concejos Municipales, as
 
 III. Las resoluciones dictadas por la Cámara de Senadores en juicio político, a los servidores públicos que refiere la Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Las resoluciones dictados por la cámara de Diputados en Juicio de Procedencia, por delitos del orden federal en contra de servidores públicos que refiere la Constitución Federal; y
+IV. (DEROGADA, P.O. 4 DE ABRIL DE 2017)
 
 V. Otros análogos, que a juicio de la Presidencia del Congreso del Estado, sean materia de tratamiento por esta Comisión.
 
@@ -1629,7 +1637,9 @@ Si por falta de cuórum no pudiera iniciarse la sesión una hora después de la 
 
 Son materia de sesión privada:
 
-I. Las acusaciones que se hagan en contra de servidores públicos a que se refieren los artículos 125 y 127 de la Constitución Política para el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+
+I. Las acusaciones que se hagan en contra de servidores públicos a que se refiere el artículo 125 de la Constitución Política para el Estado de Guanajuato;
 
 II. Las comunicaciones que con la nota de «reservado» dirijan al Congreso del Estado, a los Poderes Ejecutivo y Judicial, los ayuntamientos o Concejos Municipales, en su caso, y cualquier Poder de otra entidad federativa o las autoridades de la Federación;
 
@@ -1663,7 +1673,7 @@ VI. Las demás que acuerde el Pleno.
 
 ###### Artículo 148.
 
-El Congreso del Estado se erigirá en Jurado de Procedencia cuando se ocupe de los asuntos a los que se refiere la Constitución Política para el Estado de Guanajuato. A la apertura de la sesión correspondiente, la Presidencia de la Mesa Directiva hará la declaratoria en ese sentido.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 149.
 
@@ -2019,7 +2029,9 @@ II. Las que tengan por objeto elegir al Gobernador interino o sustituto, en tér
 
 III. Las demás que tengan por objeto que el Congreso del Estado designe o nombre personas para ocupar un cargo público, o recibir premios o estímulos; y
 
-IV. Las que tengan por objeto la resolución de los dictámenes producidos durante el procedimiento en contra de los titulares a que se refieren los artículos 125, 126 y 127 de la Constitución Política para el Estado de Guanajuato.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+
+IV. Las que tengan por objeto la resolución de los dictámenes producidos durante el procedimiento en contra de los titulares a que se refiere el artículo 125 de la Constitución Política para el Estado de Guanajuato.
 
 ###### Artículo 194.
 
@@ -2159,7 +2171,9 @@ El consejo consultivo contará con el apoyo de una secretaría técnica adscrita
 
 La presidencia del consejo consultivo recaerá en alguno de los representantes de las fracciones III, IV o V del presente artículo, el cual será rotativo por año entre cada uno de ellos.
 
-### Capítulo I. Substanciación de las acusaciones contra servidores públicos que gozan de Fuero Constitucional
+### Capítulo I. Declaratoria de separación del cargo
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Artículo 212.
 
@@ -2189,169 +2203,125 @@ Los Diputados o personal a su cargo no pueden aceptar dádivas o pagos en efecti
 
 Cualquier infracción a esta norma será sancionada con la remoción de las Comisiones Legislativas de las que forme parte, en términos de lo que disponga la presente Ley.
 
-## TÍTULO NOVENO. Del Jurado de Procedencia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ABRIL DE 2017)</small>
+
+## TÍTULO NOVENO. Procedimientos Constitucionales
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ABRIL DE 2017)</small>
 
 ### Capítulo III. Procedimiento para Declarar la Imposibilidad de los Municipios para Ejercer una Función o Prestar un Servicio Público
 
 ###### Artículo 215.
 
-Para la substanciación de las causas que se formen a los funcionarios a los que se refiere la Constitución Política para el Estado de Guanajuato se observarán las reglas establecidas en el presente capítulo.
+Para la separación o restitución del cargo de los servidores públicos a los que se refiere el artículo 127 de la Constitución Política para el Estado de Guanajuato se observarán las reglas establecidas en el presente capítulo.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Artículo 216.
 
-Recibida una declaración o una solicitud de procedencia, se turnará a la Comisión de Responsabilidades misma que substanciará el proceso hasta ponerlo en estado de declarar si ha o no lugar a formación de causa, proponiendo un dictamen al Congreso erigido en Jurado de Procedencia, para su discusión y en su caso, aprobación.
+Recibida la copia certificada del auto de vinculación a proceso penal que de acuerdo al artículo 19 de la Constitución Federal, amerite prisión preventiva oficiosa; la sentencia condenatoria firme que amerite pena privativa de la libertad tratándose de delitos dolosos; o la solicitud por parte del interesado de restitución del cargo por existir una resolución absolutoria, la Mesa Directiva elaborará la Declaratoria de separación o en su caso de restitución del cargo, a efecto de remitirla al Pleno del Congreso del Estado para su conocimiento en la Sesión Ordinaria inmediata siguiente, lo anterior de conformidad con los artículos 126, 127, 129 y 130 de la Constitución Política para el Estado de Guanajuato.
 
-Tratándose de delitos federales, la declaración de procedencia deberá ser formulada por la Cámara de Diputados del Congreso de la Unión, de conformidad con lo dispuesto en el artículo 111 de la Constitución Política de los Estados Unidos Mexicanos.
+Tratándose de delitos federales, la declaratoria de separación del cargo se dará una vez recibida la declaración de procedencia formulada por la Cámara de Diputados del Congreso de la Unión, de conformidad con lo dispuesto en el artículo 111 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Tratándose de delitos del orden común, la solicitud de procedencia deberá ser formulada por la Procuraduría General de Justicia del Estado.
+En los recesos las declaratorias elaboradas por la mesa directiva, se remitirán de inmediato a la Diputación Permanente para los efectos correspondientes.
 
 ###### Artículo 217.
 
-La Comisión de Responsabilidades radicará la declaración de procedencia o la solicitud, según sea el caso, dentro de las setenta y dos horas siguientes a la fecha en que se le haya tunado.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 218.
 
-Recibida por la Comisión de Responsabilidades la declaratoria o solicitud de procedencia, según corresponda, ésta substanciará la causa de la siguiente forma:
-
-I. Se radicará en el orden que le corresponda;
-
-II. Se notificará a las partes el inicio del procedimiento dentro de los cinco días hábiles siguientes al de la radicación.
-
-La notificación deberá contener:
-
-a) El acuerdo donde la Comisión radica la solicitud o declaratoria de procedencia y da por iniciado el procedimiento;
-
-b) La citación a la audiencia de derecho, señalando día, hora y lugar en que ésta se desahogará, apercibiendo a la parte acusada que de no comparecer por sí o por su defensa, se le tendrá por conforme con la solicitud o declaratorio de procedencia según se trate;
-
-c) Se requerirá a la persona inculpada para que en caso de designar defensa de su parte, lo acredite ante la Comisión mediante poder notarial o por sí mismo al inicio de la audiencia de derecho; y
-
-d) Se acompañará copia simple de la declaratoria o solicitud de procedencia, según se trate;
-
-III. Se le requerirá para que en el término de tres días hábiles, señale domicilio en la ciudad de Guanajuato, para oír y recibir todo tipo de notificaciones y documentos, así como a las personas autorizadas para tal efecto, apercibiéndole que de no hacerlo así se le notificará en la Secretaría General del Congreso del Estado; y
-
-IV. Se le señalarán los nombres de los Diputados Integrantes de la Comisión, propietarios y suplentes.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 219.
 
-La audiencia de derecho se desahogará en un término no menor de cinco días hábiles ni mayor de diez, contado a partir del día siguiente a aquél en que surta efectos la notificación señalada en la fracción II del artículo anterior.
-
-De la audiencia, se levantará acta circunstanciada por parte de la Secretaría de la Comisión.
-
-La audiencia se desarrollará de la siguiente manera:
-
-I. Se declarará abierta la audiencia por quien presida la Comisión;
-
-II. Se certificará la asistencia o inasistencia de las partes por la Secretaría de la Comisión, quién además dará cuenta de las promociones que existieren para su acuerdo por la Presidencia;
-
-III. A solicitud del acusado, la Presidencia instruirá a quien ostente la Secretaría para que dé lectura a la solicitud o declaratoria de procedencia, según corresponda;
-
-IV. En su caso, la Presidencia tomará protesta a la defensa, concediendo el uso de la voz al solicitante y en segundo lugar al acusado o su defensa para que manifiesten lo que a su interés convenga;
-
-V. La persona acusada o su defensa, durante su intervención, podrán aportar las pruebas que estimen pertinentes, para el solo objeto de acreditar la improcedencia de la solicitud o declaratoria, dichas pruebas serán admitidas por quien ostente la Presidencia, siempre que por su naturaleza puedan ser desahogadas en la misma audiencia; y
-
-VI. Una vez desahogadas las pruebas se declarará cerrada la audiencia, firmando en el acta correspondiente quienes integren la Comisión y las partes si así lo quisieren.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 220.
 
-Si por cualquier circunstancia imputable a los Diputados la audiencia no se pudiere celebrar en la fecha señalada, la Presidencia citará para celebrar la audiencia dentro de los cinco días hábiles siguientes a que haya cesado la circunstancia referida. Debiendo citar a las partes por lo menos con veinticuatro horas de anticipación a la celebración de la audiencia de derecho.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 221.
 
-Concluidas las diligencias a que se refieren los artículos anteriores, la Comisión de Responsabilidades, dentro de los diez días hábiles siguientes, presentará un dictamen sobre si ha lugar o no a realizar la declaratoria de procedencia.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 222.
 
-Los trámites que en el procedimiento dicte la Presidencia, podrán ser reclamados por cualquier miembro de la Comisión y se resolverá por mayoría simple.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 223.
 
-El Congreso del Estado erigido en Jurado de Procedencia declarará, en su caso, haber lugar a formación de causa, siempre que así se determine por el voto de las dos terceras partes de sus integrantes.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 224.
 
-La defensa de la persona acusada podrá asistirla en todos los actos de la indagación y en la sesión en que se discutirá el dictamen de la Comisión de Responsabilidades. Los Diputados que integren el Congreso del Estado no podrán ejercer el cargo de defensores.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
-Si la parte acusada cuenta con más de una persona defensora, en su acreditación hará saber a la Comisión quien de éstas tendrá el uso de la voz.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Artículo 225.
 
-Siempre que exista una relación de un delito del fuero común con un delito del orden federal, la Comisión terminará su dictamen con dos proposiciones; una que corresponda al delito federal y otra relativa al delito del fuero común; ambas propuestas de haber o no lugar a formación de causa.
+Siempre que exista una relación de un delito del fuero común con un delito del orden federal, la Mesa Directiva elaborará la declaratoria con dos proposiciones, una que corresponda al delito federal y otra relativa al delito del fuero común; ambas serán en el sentido de declarar la separación del cargo.
 
 ###### Artículo 226.
 
-Las partes tienen derecho a recusar con expresión de causa, a quienes integren la Comisión. El Congreso del Estado erigido en Jurado de Procedencia, calificará las causas de la recusación, admitiéndolas o desechándolas y en su caso, se procederá a insacular a otro miembro de la Comisión.
-
-Sólo podrá recusarse a algún miembro de la Comisión, dentro de los tres días hábiles siguientes al de la notificación de inicio del procedimiento salvo que se trate de causas supervenientes para lo cual contará con un término de tres días hábiles contados a partir del día siguiente al que se da la causa o tenga conocimiento de la misma.
-
-Son causas de recusación de quienes integran la Comisión:
-
-I. Tener interés directo o indirecto en el asunto;
-
-II. Tener dicho interés su cónyuge, sus parientes consanguíneos, en línea recta, sin limitación de grado, los colaterales dentro del cuarto y los afines dentro del segundo;
-
-III. Tener al Servidor Público de que se trate, su cónyuge o sus descendientes en primer grado, relación de intimidad con alguna de las personas interesadas, nacida de algún acto religioso o civil, sancionado o respetado por la costumbre;
-
-IV. Ser pariente por consanguinidad o afinidad de quien o quienes ostenten la defensa del Servidor Público de que se trate, en los mismos grados a que se refiere la fracción II;
-
-V. Haber hecho promesas o amenazas, o manifestado de otro modo su odio o afecto por el Servidor Público de que se trate;
-
-VI. Admitir por si, su cónyuge o alguno de sus descendientes en primer grado, dádivas o servicios de alguna de las partes, después de iniciado el procedimiento;
-
-VII. Haber abogado, procurado, testificado o peritado, en el asunto de que se trate;
-
-VIII. Haber externado su opinión antes del fallo por cualquier motivo;
-
-IX. Haber juzgado, arbitrado o asesorado respecto a algún punto que afecte a la substancia de la cuestión, en el mismo proceso o en algún otro;
-
-X. Seguir por sí o alguno de las personas de que trata la fracción II contra la persona servidora pública un proceso civil, como actor o demandado, o una causa criminal como acusador, querellante o denunciante;
-
-XI. Ser contraparte o alguna de las personas de que trata la fracción II, del Servidor Público, en negocio administrativo que afecte sus derechos; y
-
-XII. Estar en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 227.
 
-Quienes integren la Comisión sólo pueden excusarse de conocer de un asunto cuando se actualice alguno de los supuestos del artículo anterior.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 228.
 
-Calificadas las recusaciones no volverán a admitirse otras, salvo que estuvieren fundadas en motivo superveniente.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 229.
 
-Siempre que el Congreso del Estado hubiere de resolver sobre recusaciones de los miembros de la Comisión de Responsabilidades, lo hará luego que se le dé cuenta. Con este fin quien presida la Mesa Directiva o la Diputación Permanente, en su caso, convocará a sesión, la que tendrá lugar después de recibido el aviso de la Comisión.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 230.
 
-Los dictámenes de la Comisión de Responsabilidades se discutirán en sesión privada.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
 ###### Artículo 231.
 
-Concluido el proceso, la Comisión dará aviso a la Mesa Directiva del Congreso del Estado para que señale el día en que deba tener lugar la discusión, debiendo las Secretarías comunicar a la parte acusada y acusadora, con una anticipación de tres a diez días hábiles, según se estime conveniente.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
 
-Llegado el día señalado y abierta la sesión, el Presidente declarará erigido el Congreso en Jurado de Procedencia. Hecha esta declaración, se dará lectura íntegra de la declaración o solicitud de procedencia así como del dictamen, oyendo al acusador si concurriere, al acusado o su defensor, o a ambos si uno y otro pidieren la palabra y en una sola sesión no interrumpida, continuará la discusión hasta declarar por el voto de las dos terceras partes, si existen elementos o no para formular la declaratoria de procedencia, según que se trate de delito federal o del orden común, terminando con esto la sesión de Jurado de Procedencia.
-
-Sólo se concederá el uso de la palabra por dos veces a cada una de las partes, quienes; en la réplica y dúplica, deberán alegar las cuestiones que consideren pertinentes en relación al proceso. Los turnos de la parte acusada los podrá agotar por sí o por su defensa.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Artículo 232.
 
-La resolución que al respecto tome el Congreso del Estado, no prejuzga los fundamentos de la imputación.
+La declaratoria de separación del cargo que realice el Congreso del Estado, no prejuzga los fundamentos de la imputación.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Artículo 233.
 
-Inmediatamente después que el Jurado de Procedencia pronuncie su declaración, se suspenderá del cargo al acusado, quedando en consecuencia, privado del fuero.
+Inmediatamente después que el Congreso del Estado tenga conocimiento de la declaración de separación del cargo, se notificará al servidor público, así como al juez competente que emitió el auto de vinculación al proceso o sentencia condenatoria, quedando en consecuencia, separado del cargo el servidor público.
 
-Tratándose de delito del fuero común sé notificará inmediatamente a la persona titular de la Procuraduría General de Justicia del Estado, para que proceda a su consignación.
+En caso de delito del orden federal se notificará la separación del cargo inmediatamente a la Cámara de Diputados del Congreso de la Unión y a la Delegación de la Procuraduría General de la República en el Estado.
 
-En caso de delito del orden federal se notificará inmediatamente a la Cámara de Diputados del Congreso de la Unión y a la Delegación de la Procuraduría General de la República en el Estado.
+Tratándose de vinculación a proceso, una vez separado el servidor público, conocerá del proceso el juez competente.
 
 ###### Artículo 234.
 
-Cuando una o más Diputados integrantes del Congreso del Estado sean acusadoras de algún Servidor Público sujeto al Jurado de Procedencia, no tendrán voto en el fallo que se pronuncie contra el acusado, en el proceso.
+(DEROGADO, P.O. 4 DE ABRIL DE 2017)
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Artículo 235.
 
-Se aplicará supletoriamente la ley que regule los procedimientos y la justicia administrativa en el Estado, aplicable al momento de realizados los hechos que dieron origen a la solicitud de declaración de procedencia, en lo concerniente a la valoración de pruebas.
+Una vez notificada la declaratoria de separación del cargo, se procederá de la siguiente manera, tratándose de:
+
+I. Diputados, la Presidencia de la Mesa Directiva mandará llamar al suplente para que rinda la protesta de ley;
+
+II. Titular del Poder Ejecutivo, se procederá de conformidad con lo establecido en la Constitución Política para el Estado de Guanajuato;
+
+III. Magistrados del Poder Judicial, así como Magistrados del Tribunal de Justicia Administrativa, se procederá a llamar al Supernumerario;
+
+IV. Consejeros del Poder Judicial, se procederá de conformidad con lo establecido en la Constitución Política para el Estado de Guanajuato; y
+
+V. Integrantes del Ayuntamiento, se procederá de conformidad con la Ley Orgánica Municipal del Estado de Guanajuato.
 
 ### Capítulo IV. Procedimiento para la Erección de un Nuevo Municipio
 
@@ -3138,3 +3108,11 @@ Primer Secretario
 DIPUTADO J. JESÚS OVIEDO HERRERA
 
 Segundo Secretario
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 180, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
