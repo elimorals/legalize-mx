@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-integracion-al-desarrollo-de-las-personas-con-76524
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-10"
-last_updated: "2016-03-03"
+last_updated: "2017-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76524&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-09-09"
 
 LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 10 de septiembre de 2010.
 
@@ -490,15 +490,19 @@ El DIF-DF determinará el medio idóneo para hacer entrega del apoyo económico 
 
 El derecho no estará condicionado a la carencia de recursos económicos por parte de los posibles derechohabientes.
 
+> <small>(REFORMADO, G.O. 4 DE ABRIL DE 2017)</small>
+
 ###### Artículo 42.
 
-EL DIF-DF está obligado a elaborar y mantener actualizado el padrón de derechohabientes, mismo que deberá publicar a más tardar el 31 de enero de cada año en la Gaceta Oficial del Distrito Federal, así como remitirlo antes del 30 de noviembre de cada año a la Asamblea Legislativa.
+EL DIF-DF está obligado a elaborar y mantener actualizado el padrón de derechohabientes, en términos de lo dispuesto en el Capítulo Séptimo de la Ley de Desarrollo Social para el Distrito Federal, en lo concerniente a las personas con discapacidad, sin que ello implique un mayor proceso administrativo.
 
 ###### Artículo 43.
 
 Son requisitos para obtener el derecho al apoyo económico, los siguientes:
 
-I. Acreditar su discapacidad con documento expedido por alguna institución pública de salud del Distrito Federal, avalado y ratificado por el DIF-DF.
+> <small>(REFORMADA, G.O. 4 DE ABRIL DE 2017)</small>
+
+I. Acreditar su discapacidad con documento expedido por alguna institución pública de salud de la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 3 DE MARZO DE 2016)</small>
 
@@ -809,3 +813,11 @@ SEGUNDO.- El presente Decreto entrará en vigor el 1º de enero de 2016.
 TERCERO.- El DIF-DF tomará las medidas necesarias para actualizar el padrón de beneficiarios conforme a esta modificación a fin de que se pueda solicitar oportunamente la suficiencia presupuestal para el Ejercicio Fiscal 2016.
 
 CUARTO.- El Jefe de Gobierno del Distrito Federal solicitará en el Proyecto de Presupuesto la asignación correspondiente al padrón de beneficiarios que integre el DIF-DF.
+
+G.O. 4 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
