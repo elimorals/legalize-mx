@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2017-03-04"
+last_updated: "2017-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -579,7 +579,9 @@ XXII. Las demás que fijen las leyes.
 
 La prisión consiste en la privación de la libertad personal, con la posibilidad de imposición de trabajo y estudio obligatorios, y se ejecutará en los establecimientos y con las modalidades que al efecto señale el presente Código y la ley general en materia de ejecución de penas y medidas de seguridad, o en los convenios celebrados con la federación u otras entidades federativas.
 
-La prisión podrá durar de tres días a cincuenta años. En toda pena de prisión que se imponga en una sentencia, se computará el tiempo de la detención.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
+
+La prisión podrá durar de tres días a setenta años. En toda pena de prisión que se imponga en una sentencia, se computará el tiempo de la detención.
 
 El trabajo en prisión consiste en la prestación de servicios remunerados, en el centro penitenciario, cuando existan las condiciones necesarias para ello y en los términos de la legislación aplicable.
 
@@ -3699,45 +3701,7 @@ Cuando el homicidio se cometa en riña inesperada, al provocador de la misma, y 
 
 ### CAPITULO X. Feminicidio
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
-
-###### Art. 232
-
-Bis. Se impondrán de veinticinco a cuarenta y cinco años de prisión a la persona que cometa el delito de feminicidio.
-
-Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género y concurran una o más de las siguientes conductas:
-
-I. Cuando exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo, amistad o cualquier otra relación de hecho;
-
-II. Cuando exista o haya existido entre el activo y la víctima una relación laboral, docente o cualquier otra que implique confianza, subordinación o superioridad;
-
-III. Cuando el sujeto activo haya cometido actos de odio o misoginia contra la víctima;
-
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
-
-IV. Cuando el sujeto activo haya realizado actos de violencia familiar en contra de la víctima;
-
-V. Cuando de la escena del crimen se desprendan indicios de humillación o denigración de parte del sujeto activo hacia la víctima;
-
-VI. Cuando el sujeto activo haya infringido lesiones infamantes, degradantes o mutilaciones a la víctima, previas o posteriores a la privación de la vida;
-
-VII. Cuando el sujeto activo haya cometido sobre la víctima otro delito, de tipo sexual;
-
-VIII. Cuando el sujeto activo actúe por motivos de homofobia;
-
-IX. Cuando existan antecedentes de amenazas, acoso o lesiones del sujeto activo contra la víctima;
-
-X. Cuando el cuerpo de la víctima sea expuesto o arrojado en lugar público, y
-
-XI. Cuando la víctima haya sido incomunicada.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
-
-Cuando la víctima sea persona menor de edad o persona con discapacidad, se impondrán de treinta a cincuenta años de prisión.
-
-En caso de que no se acredite el feminicidio se aplicarán las reglas del homicidio o parricidio, según corresponda.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2017)</small>
 
 ###### Art. 218.
 
@@ -3904,6 +3868,64 @@ Se impondrán de uno a cuatro meses de prisión, por la sola circunstancia de qu
 ### CAPITULO VII. Administración Fraudulenta
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+
+###### Art. 232 Bis.
+
+Se impondrán de cuarenta a setenta años de prisión y multa de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización, a la persona que cometa el delito de feminicidio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2017)</small>
+
+Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes conductas o circunstancias:
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+I. Cuando exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo, amistad o cualquier otra relación de hecho;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+II. Cuando exista o haya existido entre el activo y la víctima una relación laboral, docente o cualquier otra que implique confianza, subordinación o superioridad;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+III. Cuando el sujeto activo haya cometido actos de odio o misoginia contra la víctima;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+IV. Cuando el sujeto activo haya realizado actos de violencia familiar en contra de la víctima;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+
+V. Cuando de la escena del hecho se desprendan indicios de humillación o denigración de parte del sujeto activo hacia la víctima;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+
+VI. Cuando el sujeto activo haya infligido lesiones infamantes, degradantes o mutilaciones a la víctima, previas o posteriores a la privación de la vida;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+
+VII. Cuando la víctima presente signos de violencia sexual de cualquier tipo, infligidos por el o los autores del feminicidio;
+
+VIII. Cuando el sujeto activo actúe por motivos de homofobia;
+
+IX. Cuando existan antecedentes de amenazas, acoso o lesiones del sujeto activo contra la víctima;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+
+X. Cuando el cuerpo de la víctima sea expuesto o arrojado en lugar público; o
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+
+XI. Cuando la víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
+
+En caso de que no se acredite el feminicidio se aplicarán las reglas del homicidio o parricidio, según corresponda.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ## TITULO DECIMO OCTAVO. ENCUBRIMIENTO Y ADQUISICION ILEGITIMA DE BIENES MATERIALES DE UN DELITO
 
@@ -5881,7 +5903,7 @@ SEXTO. La constitución de la Comisión Interinstitucional deberá realizarse en
 
 La Comisión Interinstitucional deberá aprobar en un plazo máximo de sesenta días naturales a partir de su constitución el Programa Estatal para Prevenir, Combatir y Erradicar la Trata de personas y remitir a la Secretaria General de Gobierno para su publicación.
 
-P.O. 8 DE SEPTIEMBRE DE. 2012.
+P.O. 8 DE SEPTIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -6192,5 +6214,11 @@ P.O. 4 DE MARZO DE 2017.
 P.O. 4 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26286/LXI/17 QUE REFORMA EL ARTÍCULO 236 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26318/LXI/17 QUE REFORMA LOS ARTÍCULOS 29 Y 232 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
