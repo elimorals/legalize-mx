@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2017-02-21"
+last_updated: "2017-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,131 +21,139 @@ state: "JAL"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA DEL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO
 
-LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL DECRETO NUMERO NUEVE, PUBLICADA EN EL P.O. DE 22 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2017.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
+Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de octubre de 2002.
 
-Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+El Ciudadano Ingeniero José Antonio Tellería Beltrán, Presidente Municipal Constitucional de Pachuca de Soto, Estado de Hidalgo, a sus habitantes hace saber:
 
-Enrique Alvarez del Castillo, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber:
+Que el Honorable Ayuntamiento, en uso de las facultades que le confiere el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como la fracción II del Artículo 141 de la Constitución Política del Estado Libre y Soberano de Hidalgo y el Artículo 49 fracciones I y II, de la Ley Orgánica Municipal del Estado de Hidalgo, ha tenido a bien expedir el siguiente:
 
-Que por la Secretaría del H. Congreso del Estado se me ha comunicado el siguiente
+DECRETO MUNICIPAL NUMERO 23
 
-DECRETO
+QUE CONTIENE EL REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA DEL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO.
 
-Número 11558. El Congreso del Estado decreta:
+CONSIDERANDO
 
-Ley de Hacienda Municipal del estado de Jalisco
+PRIMERO.- Que uno de los objetivos de la actual Administración Municipal, es crear los ordenamientos legales necesarios a fin de lograr una correcta administración de los recursos, buscando en todo momento el respeto a los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia con que debe desempeñarse toda función pública.
+
+SEGUNDO.- Que la Ley Orgánica Municipal del Estado de Hidalgo, otorga la facultad al H. Ayuntamiento para aprobar Reglamentos que organicen la Administración Pública Municipal que regulen las materias, procedimientos, funciones y servicios públicos de su competencia.
+
+TERCERO.- Que es una estrategia de esta Administración Municipal, lograr una Gestión de Gobierno efectiva y de bienestar social, sustentada en la capacidad de acción conjunta con la sociedad, promoviendo así una cultura cívica en el manejo de los recursos.
+
+CUARTO.- Que es necesario que la Comisión de Transparencia del Municipio de Pachuca de Soto, cuente con un ordenamiento jurídico adecuado mediante el cual se regule el desarrollo de las Sesiones que celebre la Comisión de Transparencia del Municipio de Pachuca de Soto, así como sus atribuciones y facultades.
+
+QUINTO.- Derivado de la reforma al Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el Municipio de Pachuca de Soto, ha iniciado un proceso de adecuación en su Marco Jurídico a efecto de consolidar la autonomía municipal.
+
+SEXTO.- Toda vez que la Ley Orgánica Municipal del Estado de Hidalgo, faculta a los Ayuntamientos a aprobar disposiciones de observancia general que aseguren la participación ciudadana y vecinal de sus habitantes, el H. Ayuntamiento asume su responsabilidad implementando las acciones, por lo cual se crea la Comisión de Transparencia del Municipio de Pachuca de Soto, como un Organo de Consulta y Participación Ciudadana encargado de auxiliar a la Contraloría Interna Municipal en. la vigilancia de los recursos humanos y materiales a fin de salvaguardar los principios de legalidad, imparcialidad, lealtad, eficiencia y honradez en la Administración Pública Municipal y a efecto de cumplir con los diversos compromisos adquiridos con la ciudadanía en el sentido de gobernar de manera eficiente y eficaz.
+
+Por lo anteriormente expuesto y fundado, los integrantes del Honorable Ayuntamiento de Pachuca de Soto, Estado de Hidalgo, han tenido a bien expedir el siguiente:
+
+DECRETO MUNICIPAL NUMERO 23
+
+QUE CONTIENE EL REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA DEL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO.
 
 # LIBRO PRIMERO. Disposiciones Preliminares
 
 ## TITULO UNICO
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1.
+###### ARTICULO 1.
 
-El presente Reglamento es de interés público y tiene por objeto regular las atribuciones y funciones otorgadas al Municipio por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Hidalgo.
+El presente Reglamento tiene por objeto regular la integración, atribuciones, facultades y funcionamiento de la Comisión de Transparencia del Municipio de Pachuca de Soto.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
+###### ARTICULO 2.
 
-###### ARTÍCULO 2.
+La Comisión de Transparencia del Municipio de Pachuca de Soto, es el Organo de Consulta y Participación Ciudadana encargada de auxiliar a la Secretaría de la Contraloría Municipal en la vigilancia de los recursos humanos y materiales, a fin de salvaguardar los principios de legalidad, imparcialidad, lealtad, eficiencia y honradez en la Administración Pública Municipal.
 
-Están obligados a la estricta observancia de este Reglamento los funcionarios, empleados e integrantes de los órganos auxiliares de colaboración Municipal que integran la administración pública central, y sus órganos administrativos desconcentrados, las entidades paramunicipales, así como los particulares que tengan relación con recursos o programas de la Administración Pública Municipal, debiendo observar en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
+###### ARTICULO 3.
 
-###### ARTÍCULO 3.
+Corresponde al H. Ayuntamiento:
 
-Este ordenamiento es aplicable en la jurisdicción territorial que comprende el Municipio de Pachuca de Soto, Hidalgo, de conformidad con la Ley Orgánica Municipal del Estado de Hidalgo.
+I.- Aprobar y evaluar el cumplimiento del Plan Anual de Fortalecimiento de la transparencia Municipal;
 
-###### ARTÍCULO 4.
+II.- Designar de entre los Regidores integrantes del H. Ayuntamiento, a quien deba integrar la Comisión de Transparencia del Municipio de Pachuca de Soto;
 
-Para efectos del presente Reglamento se entenderá por:
+III.- Designar de entre los ciudadanos que reúnan los requisitos de la convocatoria, a los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto, así como al Presidente de la misma; y
 
-I. Administración Pública Municipal: El conjunto de las secretarías y entidades que componen la administración pública Municipal;
+IV.-Tomar protesta a los miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto.
 
-II. Constitución Federal; Constitución Política de los Estados Unidos Mexicanos;
+###### ARTICULO 4.
 
-III. Atribución: Facultad que da el cargo que se ejerce;
+Corresponde a la Comisión de Transparencia del Municipio de Pachuca de Soto:
 
-IV. Autoridad: A la persona, órgano u organismo que ejerce una Potestad que le ha sido conferida legalmente para desempeñar una función pública o para dictar, al efecto, resoluciones cuya obediencia es indeclinable, bajo la prescripción de sanción y la posibilidad legal de su ejecución forzosa en su caso capaz de modificar la esfera jurídica de los particulares;
+I.- Elaborar y someter a consideración del H. Ayuntamiento, el Plan Anual de Fortalecimiento de la Transparencia Municipal;
 
-V. Ayuntamiento: Máximo Órgano de Gobierno del Municipio;
+II.- Coadyuvar con la Secretaría de la Contraloría Municipal, en el cumplimiento del Plan Anual de Fortalecimiento de la Transparencia Municipal;
 
-VI. Competencia: A la protestad de un órgano de jurisdicción para ejercerla en un caso concreto, en su caso, a la idoneidad reconocida a un órgano de autoridad para dar vida a determinados actos jurídicos o administrativos; constituye la medida de las facultades que corresponden a cada uno de los órganos de la Administración Pública Municipal;
+III.- Celebrar las Sesiones Ordinarias, Extraordinarias o Solemnes, que se requieran para el cumplimiento de sus funciones;
 
-VII. Constitución Estatal: La Constitución Política del Estado Libre y Soberano de Hidalgo;
+IV.- Promover la integración y participación de órganos de consulta, organismos ciudadanos públicos o privados, para el cumplimiento del Plan Anual de Fortalecimiento de la Transparencia Municipal;
 
-VIII. Dependencia: Órgano de la Administración Pública Centralizada;
+V.- Promover estudios e investigaciones que aporten medios, métodos de control e indicadores para el Fortalecimiento de la Transparencia en la Administración Pública Municipal;
 
-IX. Empresas de participación municipal: A la persona moral en las (sic) que el Gobierno Municipal aporte o sea propietario del cincuenta por ciento o más del capital social o de las acciones de la empresa; o bien, que en la constitución de su capital se hagan figurar acciones de serie especial que únicamente pueden ser suscritas por el Gobierno Municipal; o que el Gobierno Municipal pueda nombrar la mayoría de los miembros del Consejo de Administración, Junta Directiva u Órgano de Gobierno equivalente, designe al presidente, director gerente, o tenga facultades para vetar los acuerdos de la Asamblea General de Accionistas, del Consejo de Administración o de la Junta Directiva u Órgano de Gobierno equivalente;
+VI.- Realizar sondeos y encuestas con los habitantes del Municipio, que permitan conocer aquellos índices que afecten el Desarrollo de las Funciones de la Administración Pública Municipal;
 
-X. Entidades: A los organismos descentralizados y empresas de participación Municipal;
+VII.- Organizar y trabajar en Subcomisiones Permanentes o Transitorias, para el estudio, examen y propuestas de solución a los asuntos que les sean turnados;
 
-XI. Facultad: A la posibilidad jurídica que tiene una autoridad de ejecutar, bajo su responsabilidad, determinados actos administrativos;
+VIII.- Resolver respecto de los Proyectos de Acuerdo que presenten las Subcomisiones;
 
-XII. Fideicomiso de la Administración Pública Municipal: A la persona moral en los (sic) que el fideicomitente sea el Gobierno Municipal o de cualquier secretaría o entidad de la Administración Pública Municipal;
+IX.- Remover a los miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto, cuando incurran en cualquiera de los supuestos del Artículo 13 del presente Reglamento; y
 
-XIII. Función: Al conjunto de actividades afines y coordinadas necesarias para alcanzar los objetivos de la institución, de cuyo ejercicio generalmente es responsable un órgano o unidad administrativa; se definen a partir de las disposiciones jurídico-administrativas contenidas en el Manual de Organización;
+X.- Las demás que establezca expresamente el H. Ayuntamiento y el presente Ordenamiento.
 
-XIV. Gobierno Municipal: A la manera de cómo se constituye el Poder Público Soberano del Municipio de Pachuca de Soto, que de conformidad a lo previsto en la Constitución Federal y en la Constitución Estatal es a través de un Ayuntamiento integrado por la o el Presidente Municipal, las y los síndicos y regidores municipales;
+###### ARTICULO 5.
 
-XV. Ley Orgánica: La Ley Orgánica Municipal para el Estado de Hidalgo;
+El Plan Anual de Fortalecimiento de la Transparencia Municipal, es el documento que integra los compromisos y propuestas de los miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto; a efecto de abatir la corrupción, transparentar el manejo de los recursos humanos y materiales, así como salvaguardar los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en la Administración Pública Municipal.
 
-XVI. Inversión Física: Obras públicas que se ejecuten con recursos del Municipio, el Estado o la Federación;
+El Informe de los resultados obtenidos de la ejecución del Plan Anual de Fortalecimiento de la Transparencia Municipal, deberá presentarse en los meses de junio y diciembre de cada año.
 
-XVII. Municipio: Al Municipio de Pachuca de Soto, como base o célula soberana de la división territorial y de la organización política y administrativa del Estado de Hidalgo;
+###### ARTICULO 6.
 
-XVIII. Órgano Administrativo Desconcentrado: La persona moral de la Administración Pública Municipal con personalidad jurídica y autonomía de gestión;
+Corresponde al Presidente de la Comisión de Transparencia del Municipio de Pachuca:
 
-XIX. Organismos Descentralizados Municipales: Personas morales de derecho público creadas por Decreto, con personalidad jurídica y patrimonio propios, constituido éste con fondos o bienes provenientes de la AdministraciónPública (sic) Municipal Central, cuyo objetivo y fin es la prestación de un servicio público o social, la explotación de bienes o recursos propiedad del Municipio, la investigación científica y tecnológica o la obtención y aplicación de recursos para fines de asistencia y seguridad social;
+I.- Informar verbalmente y por escrito al H. Ayuntamiento semestralmente, sobre los resultados obtenidos del Plan Anual de Fortalecimiento de la Transparencia Municipal;
 
-XX. Plan Municipal de Desarrollo: El instrumento diseñado para alcanzar determinados objetivos, en que se definen, en espacio y tiempo, los medios utilizables para su alcance. En tal virtud, en él se contemplan en forma ordenada y coherente las metas, estrategias, políticas, directrices y tácticas, así como los instrumentos y acciones que se utilizarán para llegar a los fines deseados; es un instrumento dinámico sujeto a modificaciones en sus componentes, en función de la periódica evaluación de sus resultados;
+II.- Presidir las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto y en su caso ejercer voto de calidad;
 
-XXI. Política: Al criterio de acción que es elegido como guía en el proceso de toma de decisiones al poner en práctica o ejecutar las estrategias, programas y proyectos específicos del nivel institucional;
+III.- Convocar a Sesiones Ordinarias, Extraordinarias y Solemnes, por conducto del Secretario Ejecutivo, debiendo indicar la fecha, hora, lugar y. Orden del Día;
 
-XXII. Presidente Municipal: A la o a el Titular del Ayuntamiento de Pachuca de Soto, Hidalgo;
+IV.- Expedir los nombramientos a los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto; y
 
-XXIII. Programa: A la unidad financiera y administrativa en la que se agrupan diversas actividades con un cierto grado de homogeneidad respecto del producto o resultado final, a la cual se le asignan recursos humanos, materiales y financieros con el fin de que produzca bienes o servicios destinados a la satisfacción total o parcial de los objetivos señalados a una función, dentro del marco de la planeación;
+V.- Vigilar el cumplimiento de los Acuerdos de la Comisión de Transparencia del Municipio de Pachuca de Soto, así como la ejecución del Plan Anual de Fortalecimiento de la Transparencia Municipal.
 
-XXIV. Programas de inversión: A la unidad financiera y administrativa en la que se agrupan diversas actividades que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura como a la adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, y rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, y mantenimiento;
+###### ARTICULO 7.
 
-XXV. Ramo: A la previsión de gasto con el mayor nivel de agregación en el Presupuesto de Egresos del Municipio;
+. Corresponde al Secretario Ejecutivo de la Comisión de Transparencia del Municipio de. Pachuca de Soto:
 
-XXVI. Reglamento Interior: Al Reglamento Interior de la Administración Pública Municipal;
+I.- Expedir la Convocatoria Pública, para la selección de los ciudadanos que formarán parte de la Comisión de Transparencia del Municipio de Pachuca de Soto;
 
-XXVII. Titular: A la o él Servidor Público designado por la o el Presidente Municipal para encabezar una Secretaría dentro de la Administración Pública Municipal.
+II.- Presentarse por lo menos quince minutos antes de la hora señalada, para el inicio de la Sesión de la Comisión de Transparencia del Municipio de Pachuca de Soto, a fin de corroborar que el lugar respectivo se encuentre en condiciones adecuadas para celebrar la Sesión correspondiente;
 
-XXVIII. Servidor Público: Toda persona física que preste a una institución pública del Municipio un trabajo personal subordinado de carácter material o intelectual, o de ambos géneros, mediante el pago de un sueldo;
+III.- Estar presente en las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto;
 
-XXIX. Sistema de Control Interno: Serie de procedimientos diseñados y establecidos por los titulares de las secretarías, con la finalidad de disminuir riesgos en la ejecución de actividades y, de esta forma, desarrollar eficaz y eficientemente las actividades encaminadas al cumplimiento de los objetivos, programas y proyectos de la Administración Pública Municipal;
+IV.- Pasar lista de asistencia a los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto y comprobar que exista el Quórum requerido;
 
-XXX. Sistema Financiero Municipal: Al conjunto de instituciones y organismos del Gobierno del Municipio de Pachuca de Soto que se caracterizan por realizar una o varias de las actividades tendientes a la captación, administración, regulación, orientación y canalización de los recursos económicos;
+V.- Moderar las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto y otorgar el uso de la voz a quien tenga derecho a ello;
 
-XXXI. Unidad administrativa: A las direcciones generales, direcciones de área, subdirecciones y jefaturas de departamento; y
+VI.- Presidir las Sesiones que celebre la Comisión de Transparencia del Municipio de Pachuca de Soto, en ausencia de su Presidente;
 
-XXXII. Secretaría: A la Dependencia que forma parte de la Administración Pública Municipal Centralizada, y que tiene por objeto el estudio, planeación y despacho de los negocios de orden administrativo que por ley se le encomiendan.
+VII.- Elaborar las minutas, constancias y demás documentos que integren el Archivo de la Comisión de Transparencia del Municipio de Pachuca de Soto;
 
-###### ARTÍCULO 5.
+VIII:- Levantar las Actas de las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto;
 
-El Municipio de Pachuca de Soto, Estado de Hidalgo, es gobernado por un Ayuntamiento de elección directa, y se renovará cada cuatro años; sus miembros cumplirán con los requisitos que establecen la Constitución Estatal, la Ley Orgánica y el marco jurídico vigente en la materia.
+IX.- Llevar el libro de Actas de las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto, donde se asienten todos los asuntos tratados y los acuerdos tomados;
 
-El Ayuntamiento conforme a la Constitución Federal estará integrado por la o el Presidente Municipal, síndicos y regidores, cuya organización y funcionamiento en su conjunto, se describirá en la disposición reglamentaria correspondiente.
+X.- Llevar el archivo y registro de la documentación que se generen por la Comisión de Transparencia del Municipio de Pachuca de Soto;
 
-###### ARTÍCULO 6.
+XI.- Publicar en los medios de comunicación, las acciones que realice la Comisión de Transparencia del Municipio de Pachuca de Soto; y
 
-El día 5 de Septiembre del año de la elección Municipal, en sesión pública y solemne, se instalará el Ayuntamiento de conformidad con los Artículos 127, 131 y 132 de la Constitución Estatal.
-
-Las sesiones del Ayuntamiento serán presididas por el Presidente Municipal y moderadas por quien designe el Reglamento Interior del H. Ayuntamiento de Pachuca de Soto, Hidalgo.
-
-###### ARTÍCULO 7.
-
-El Municipio está investido de personalidad jurídica propia de conformidad con el Artículo 115 Constitucional Federal y la ejercerá para los actos de derecho público por conducto del Ayuntamiento; en el caso de la representación legal de sus intereses, lo hará por conducto de la o el Síndico Jurídico.
-
-La o el Presidente Municipal asumirá la representación jurídica del Ayuntamiento en los litigios en que éste fuera parte y conforme a la Ley Orgánica y demás disposiciones jurídicas aplicables.
+XII.- Las demás que le sean conferidas por el H. Ayuntamiento.
 
 ###### Art. 1°.
 
@@ -275,41 +283,67 @@ Los impuestos, contribuciones especiales, derechos, aprovechamientos, participac
 
 Los productos se regularán por las disposiciones legales indicadas en el párrafo anterior o por lo que, en su caso, prevengan los contratos o concesiones respectivas.
 
-### CAPITULO II. De las Autoridades Fiscales, sus Atribuciones y del Procedimiento Administrativo
+### CAPITULO SEGUNDO. DE LA INTEGRACION Y FUNCIONAMIENTO
 
-###### ARTÍCULO 8.
+###### ARTICULO 8.
 
-Las relaciones entre el Ayuntamiento, los Poderes del Estado y de la Federación, se regirán por la Constitución Federal, la Constitución Local, la Ley Orgánica, las disposiciones enmarcadas en el presente Reglamento Interior y las señaladas en otras disposiciones legales y reglamentarias vigentes.
+La Comisión de Transparencia del Municipio de Pachuca de Soto, estará integrada por:
 
-###### ARTÍCULO 9.
+I.- Un Funcionario de la Administración Pública Municipal, designado por el Presidente Municipal de Pachuca de Soto, con derecho a voz y voto;
 
-A la o el Presidente Municipal le corresponde las atribuciones, facultades, funciones y obligaciones que le señalen la Constitución Federal, la Constitución Estatal, la Ley Orgánica y las demás disposiciones jurídicas relativas vigentes en el Estado.
+II.- Un Regidor integrante del H. Ayuntamiento, con derecho a voz y voto;
 
-La o el Presidente Municipal deberá dar cumplimiento a los acuerdos tomados por el Ayuntamiento y vigilar el cumplimiento de los reglamentos y demás disposiciones de carácter general que emita dicho cuerpo colegiado y ajustará su actuación a lo dispuesto en este ordenamiento, en la Ley Orgánica y en el Bando de Policía y Gobierno correspondiente. En caso de facultades no exclusivas, podrá delegarlas en términos de la normatividad municipal.
+III.- Un Secretario Ejecutivo, que será el Secretario de la Contraloría Municipal, con derecho a voz y voto; y
 
-###### ARTÍCULO 10.
+IV.- Cuatro Ciudadanos Representantes: 2 de la Iniciativa Privada, uno del Area Social y uno del Area Académica, de entre los cuales elegirán al Presidente de la Comisión de Transparencia del Municipio de Pachuca de Soto, todos con derecho a voz y voto.
 
-Para el despacho de los asuntos que competan a la Administración Pública Municipal, la o él Presidente Municipal se auxiliará de las secretarías y entidades que señala el presente Reglamento, el presupuesto de egresos y las demás disposiciones jurídicas vigentes en el Municipio.
+###### ARTICULO 9.
 
-###### ARTÍCULO 11.
+Los Titulares de las Dependencias de la Administración Pública Municipal, podrán participar en las Sesiones que realice la Comisión de Transparencia del Municipio de Pachuca de Soto, con derecho a voz, previa invitación que al efecto expida el Secretario Ejecutivo por acuerdo de la Comisión o invitación del Presidente de la misma.
 
-La o el Presidente Municipal podrá crear las unidades administrativas necesarias para promover, coordinar o asesorar programas o funciones prioritarias o estratégicas que requiera el desarrollo integral del Municipio, conforme lo señala la Ley Orgánica.
+Asimismo, deberán participar en los trabajos de las Subcomisiones de la Comisión de Transparencia del Municipio de Pachuca de Soto, cuando por la naturaleza del asunto que se trate se relacione con su área, previa invitación que al efecto emita el Coordinador de cada Subcomisión.
 
-###### ARTÍCULO 12.
+###### ARTICULO 10.
 
-La o el Presidente Municipal para el despacho de los asuntos del orden administrativo, además de las secretarías previstas en el presente ordenamiento, contará con entidades paramunicipales, conforme al artículo 117 del presente Reglamento.
+Los requisitos para ser Ciudadano integrante de la Comisión de Transparencia del Municipio de Pachuca de Soto, son los siguientes:
 
-###### ARTÍCULO 13.
+I.- Ser ciudadano mexicano en pleno goce de sus derechos;
 
-La o el Presidente Municipal podrá convenir, de acuerdo con lo que establece la Ley Orgánica, con el Ejecutivo Estatal, con otros ayuntamientos del Estado de Hidalgo, con entidades federativas, y en su caso, con la Autoridad Federal, la prestación de servicios públicos, la administración de tributos, la ejecución de obras o la realización de cualquier propósito de beneficio colectivo, en los términos que establezcan el Artículo 115 Constitucional, la Constitución Estatal, y las demás Leyes del Estado.
+II.- Contar por lo menos con cinco años de residencia en el Municipio de Pachuca de Soto, anteriores al día de la elección;
 
-###### ARTÍCULO 14.
+III.- Edad mínima de veinticinco años a la fecha de la elección;
 
-La o el Presidente Municipal designará las secretarías municipales que deberán coordinarse en los asuntos que por su naturaleza, deban intervenir varias de ellas, o bien con sus similares de la Administración Pública Estatal o Federal, así como con las de otros Municipios cuando así sea necesario.
+IV.- No desempeñar cargo público o por honorarios en la Federación, Estados o Municipios; y
 
-Las entidades paramunicipales de la Administración Pública municipal podrán integrarse a estas comisiones, cuando se traten asuntos relacionados con su objeto.
+V.- No ser miembro o militante de algún partido o agrupación política.
 
-Estas comisiones podrán ser transitorias, permanentes o especiales y se integrarán por los titulares o representantes de las secretarías interesadas. Serán presididas por el o la titular o representante de la dependencia que la o el Presidente Municipal determine para la coordinación de los trabajos asignados.
+Los cargos de los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto, tienen el carácter de honorarios.
+
+###### ARTICULO 11.
+
+La duración en el cargo de los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto, será por el mismo período que dure la Administración Pública Municipal que los designe.
+
+###### ARTICULO 12.
+
+La Comisión de Transparencia del Municipio de Pachuca de Soto, deberá ser instalada en un plazo no mayor de 60 días naturales posteriores al inicio de cada Administración Pública Municipal, de conformidad con el presente Reglamento.
+
+###### ARTICULO 13.
+
+Son causas de remoción del cargo de los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto:
+
+I.- Para los Servidores Públicos, cualquiera de las establecidas en la Ley de
+
+Responsabilidades de los Servidores Públicos del Estado de Hidalgo;
+
+II.- Para los integrantes ciudadanos, cuando en el ejercicio de sus funciones generen violaciones a las garantías individuales y sociales; y
+
+III.- Faltar por tres ocasiones consecutivas sin justificación, a las Sesiones que se convoquen debidamente para los trabajos del Pleno de la Comisión de Transparencia del Municipio de Pachuca de Soto.
+
+###### ARTICULO 14.
+
+Los ciudadanos miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto, podrán solicitar autorización al Pleno de la misma, para dejar de participar definitivamente como parte de la Comisión.
+
+Dentro de los treinta días naturales posteriores a la separación del cargo que apruebe el Pleno de la Comisión de Transparencia del Municipio de Pachuca de Soto, deberá expedirse una nueva Convocatoria.
 
 ###### Art. 20.
 
@@ -515,95 +549,41 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones fiscales, estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva, no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los servidores públicos encargados de la administración y la defensa de los intereses fiscales del municipio, a las autoridades judiciales en proceso del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias.
 
-### CAPITULO III. De los Sujetos, sus Derechos y Obligaciones
+### CAPITULO TERCERO. DE LAS SESIONES
 
-###### ARTÍCULO 15.
+###### ARTICULO 15.
 
-La o el Presidente Municipal tendrá las atribuciones que señalan la Constitución Federal, la Constitución Estatal y la Ley Orgánica, así como las siguientes:
+Las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto, podrán tener el carácter de Ordinarias, Extraordinarias o Solemnes.
 
-I. Presidir la Administración Pública Municipal;
+El Quórum para la validez de los trabajos realizados por la Comisión de Transparencia del Municipio de Pachuca de Soto, requiere de la asistencia de más de la mitad de sus integrantes.
 
-II. Establecer, a través de la dependencia correspondiente, los criterios generales para que en las secretarías y entidades de la Administración Pública Municipal se implementen políticas públicas y disposiciones de carácter general, en materia de planeación, programación, política presupuestal, información, evaluación y coordinación institucional, que permitan el uso eficiente de los recursos públicos asignados en el presupuesto de egresos autorizado;
+###### ARTICULO 16.
 
-III. Instruir a las y a los titulares de las secretarías y entidades el establecimiento de criterios para la instrumentación de los procedimientos y lineamientos para la elaboración, integración, ejecución y evaluación de los programas a su cargo;
+Las Sesiones Ordinarias, se deberán llevar a cabo el primer martes hábil de cada mes.
 
-IV. Supervisar que las y los titulares de las secretarías y entidades establezcan acciones y estrategias mediante las cuales se de seguimiento al cumplimiento de los objetivos, metas y compromisos establecidos en los planes y programas municipales en concordancia con el Plan Municipal de Desarrollo;
+Las Sesiones Extraordinarias, se podrán celebrar cuantas veces se considere necesario y deberán ser convocadas por escrito por el Presidente de la Comisión de Transparencia del Municipio de Pachuca de Soto.
 
-V. Instruir a la dependencia responsable, la implementación de medidas que permitan que el ejercicio del gasto público, se realice en los términos que señalan las disposiciones fiscales, administrativas y legales correspondientes, considerando su correlación con el Plan Municipal de Desarrollo y el cumplimiento de los programas a cargo de las secretaría y entidades de la Administración Pública Municipal;
+###### ARTICULO 17.
 
-VI. Proveer de conformidad con los recursos disponibles, a fin de que dentro del territorio del Municipio, se establezcan las medidas necesarias que permitan la observancia de las leyes, reglamentos y normas que en materia de ecología y medio ambiente sean competencia del Municipio;
+Serán Solemnes las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto, en las que se desahoguen los siguientes asuntos:
 
-VII. Fomentar las actividades económicas, incluida la turística, dentro del territorio del Municipio, promoviendo en lo conducente, la celebración de los convenios de coordinación correspondientes con los Gobiernos Estatal y Federal;
+I.- Cuando concurran a las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto, personalidades distinguidas de los sectores público, privado, social o académico, a consideración expresa y previa aprobación del Pleno; y
 
-VIII. Conducir la política de coordinación del Municipio con autoridades de los Gobiernos Federal, Estatal y de los municipios de la Zona Metropolitana de Pachuca de Soto, para atender de manera integral los asuntos de carácter metropolitano;
+II.- Las demás que acuerden previamente los miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto.
 
-IX. Establecer mediante las secretarías responsables, los mecanismos que garanticen la aplicación de la normatividad en materia de transparencia y acceso a la información pública, de aquellas obligaciones que sean competencia del Municipio;
+###### ARTICULO 18.
 
-X. Coadyuvar en materia electoral, según le señalen las leyes o los convenios que para ese efecto se celebren con la Autoridad Estatal y Federal;
+Las Actas de las Sesiones de la Comisión de Transparencia del Municipio de Pachuca de Soto, deberán contener:
 
-XI. Representar jurídicamente al Municipio en todos aquellos actos administrativos cuando esté legalmente facultado para ello;
+I.- Orden del día;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
+II.- Nombre de quienes participen;
 
-XII. Nombrar y remover libremente a los servidores de la Administración Pública Municipal, observando el principio de paridad de género.
+III.- Día y hora de apertura y clausura;
 
-XIII. Crear e implementar las comisiones administrativas que permitan el mejor desempeño y atención de los asuntos de la Administración Pública Municipal; y
+IV.- Observaciones, correcciones y aprobación del Acta anterior; y
 
-XIV. Las demás establecidas en los ordenamientos jurídicos correspondientes.
-
-Todos los acuerdos, convenios y contratos que emita, irán acompañados de la firma de la o el Titular de la Secretaría General Municipal, a efecto de dar fe de los mismos.
-
-###### ARTÍCULO 16.
-
-La Administración Pública del Municipio está conformada por Secretarías, constituidas para apoyar a la o el Presidente Municipal en el desahogo de asuntos del orden administrativo.
-
-###### ARTÍCULO 17.
-
-Para el despacho de los asuntos de los diversos ramos de la Administración Pública del Municipio, auxiliarán a la o el Presidente Municipal las siguientes secretarías:
-
-I. Unidades de Apoyo de la o el Presidente Municipal;
-
-II. Secretaría General Municipal;
-
-III. Secretaría de Planeación y Evaluación;
-
-IV. Secretaría de la Tesorería Municipal;
-
-V. Secretaría de Servicios Públicos Municipales;
-
-VI. Secretaría de Medio Ambiente y Desarrollo Sustentable.
-
-VII. Secretaría de Obras Públicas, Desarrollo Urbano, Vivienda y Movilidad;
-
-VIII. Secretaría de Seguridad Pública, Tránsito y Vialidad;
-
-IX. Secretaría de Desarrollo Humano y Social;
-
-X. Secretaría de Desarrollo Económico;
-
-XI. Secretaría de Administración; y
-
-XII. Secretaría de Contraloría y Transparencia.
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-XIII. Secretaría Municipal de las Mujeres.
-
-###### ARTÍCULO 18.
-
-Cada Secretaría estará a cargo de un Titular al cual se denominará Secretaria o Secretario, que será nombrado y removido libremente por la o el Presidente Municipal; así mismo, en el marco jurídico aplicable en la Federación y el Estado para los Municipios, según sea el caso, deberá cubrir los requisitos siguientes:
-
-I. Ser ciudadano en pleno goce de sus derechos políticos y civiles;
-
-II. Tener conocimiento y la capacidad técnica suficiente para desempeñar el cargo;
-
-III. Ser de reconocida honorabilidad y honradez;
-
-IV. No haber sido condenado mediante sentencia ejecutoria, por delito doloso;
-
-V. No ser ministro de algún culto religioso; y
-
-VI. No contar con inhabilitación vigente para desempeñarse en un cargo, empleo o comisión en el servicio público.
+V.- Relación sucinta, ordenada y clara de cuanto se trate y acuerde en las Sesiones.
 
 ###### Art. 29.
 
@@ -765,139 +745,41 @@ En los casos de cambio de nombre, denominación o razón social, domicilio o act
 
 Cuando un establecimiento sea objeto de traspaso, simultáneamente al aviso correspondiente, el adquirente deberá cumplir con la obligación de registrarse o empadronarse.
 
-### CAPITULO IV. Del Nacimiento y Extinción de los Créditos Fiscales
+### CAPITULO CUARTO. DE LAS DISCUSIONES
 
-###### ARTÍCULO 19.
+###### ARTICULO 19.
 
-Las y los titulares de las secretarías vigilarán, en el ámbito de su competencia, el cumplimiento de las Leyes, Reglamentos, Bandos, Circulares y demás disposiciones legales y normativas federales, estatales y municipales, así como de losplanes (sic), programas y todas aquellas disposiciones y acuerdos que emanen del Ayuntamiento y tendrán las siguientes obligaciones ante la o el PresidenteMunicipal (sic), independientemente de las derivadas a su cargo y responsabilidad:
+No podrá ser puesto a discusión, ningún documento que no hubiese sido integrado en el Orden del Día o como punto adicional en los términos que establece el presente Reglamento.
 
-I. Rendir un informe trimestral de sus actividades y tareas a que se circunscriben sus secretarías y entregarlo a la o a él Presidente Municipal o al servidor público que para tal efecto designe;
+###### ARTICULO 20.
 
-II. Proporcionar a la o a el Presidente Municipal o al Ayuntamiento en su caso, la información que al momento se requiera sobre cualquier asunto que sea de su competencia;
+Los asuntos que pretendan incluirse en el Orden del Día, como puntos adicionales por los miembros de la Comisión de Transparencia del Municipio de Pachuca, deberán especificarse de manera breve y se votará su inclusión por el Pleno de la misma.
 
-III. Atender a los ciudadanos cuando presenten cualquier queja por irregularidad en la prestación de los servicios públicos o violación a los derechos humanos, informando a éstos sobre el seguimiento de su queja;
+###### ARTICULO 21.
 
-IV. Facilitar la comunicación intersecretarial, aportando toda la información, apoyo y asistencia que se les requiera por quien designe la o él Presidente Municipal, para efectos de seguimiento, evaluación, coordinación y supervisión de acciones de cada Secretaría en la búsqueda del mejoramiento y cumplimiento de los servicios públicos y del Plan Municipal de Desarrollo;
+Una vez leído un Proyecto de Acuerdo o Documento incluido en el Orden del Día, será sometido a discusión del Pleno por el Secretario Ejecutivo.
 
-V. Desempeñar las comisiones que la o el Presidente Municipal les encomiende y mantenerle informado de éstas y del desarrollo de las actividades de la Secretaría a su cargo;
+###### ARTICULO 22.
 
-VI. Formular la instrumentación y coordinación de los sistemas de programación, evaluación y coordinación institucional de su Secretaría y asegurar su vinculación con el Plan Municipal de Desarrollo;
+Durante la discusión de un asunto en Pleno, los integrantes de la Comisión de Transparencia del Municipio de Pachuca, podrán hacer uso de la palabra hasta por dos ocasiones, sin excederse en cada intervención de tres minutos. Los Representantes integrantes de la Subcomisión autora del documento, podrán hacer uso de la palabra en la discusión cuantas veces sea necesario.
 
-VII. Integrar la información técnica para la instrumentación y desarrollo de los programas y actividades a su cargo, procurando la aplicación de las políticas informáticas establecidas y el uso racional de la infraestructura respectiva;
+###### ARTICULO 23.
 
-VIII. Colaborar con las dependencias Municipales competentes en la instrumentación, supervisión y control del presupuesto, promoviendo la interrelación de los programas bajo su responsabilidad con los programas similares de las (sic) Administración Pública Estatal y Federal, que se desarrollen en la entidad;
+Cuando se hubiese propuesto una modificación al contenido del documento sometido a discusión, el Secretario Ejecutivo preguntará a cada uno de los autores del mismo si están de acuerdo con la modificación, en este caso, someterá a votación el documento con la modificación aprobada por los autores, de lo contrario, el documento se votará como originalmente se presentó.
 
-IX. Asistir, supervisar, asesorar y dar apoyo técnico sobre los asuntos a su cargo, a los órganos auxiliares y entidades paramunicipales, a los diversos órdenes y niveles de gobierno; asimismo, a los sectores social y privado, y a los particulares;
+###### ARTICULO 24.
 
-X. Evaluar periódicamente los programas de su competencia, así como acordar con la o el Presidente Municipal, el despacho de los asuntos encomendados a la Secretaría; además, recibir en acuerdo ordinario a los titulares de los órganos administrativos subordinados y a cualquier funcionario;
+Iniciada la Sesión, sólo podrá ser suspendida por las siguientes causas:
 
-XI. Conocer y resolver, en coordinación con la Dirección General Jurídica de la Secretaría General, los recursos administrativos que sean interpuestos;
+I.- Por desintegración del Quórum;
 
-XII. Establecer los lineamientos internos necesarios que aseguren que el ejercicio del gasto público asignado a la secretaría, cuente con la documentación justificativa y comprobatoria que reúna los requisitos fiscales, administrativos y legales en la materia; y que ésta se envíe a la Secretaría de la Tesorería conforme a los plazos y términos establecidos para tal fin;
+II.- Por Acuerdo de las dos terceras partes de los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto presentes en la Sesión, en cuyo caso quien preside la Sesión deberá fijar el día y la hora en que ésta deba continuar; y
 
-XIII. Vigilar que el ejercicio del presupuesto de su Secretaría, se encuentre debidamente alineado al presupuesto autorizado;
+III.- Cuando se vea afectado el orden y seguridad del Recinto o integridad de los miembros presentes.
 
-XIV. Coordinar la integración del proyecto de Ley de Ingresos, cuando corresponda, y de Presupuesto de Egresos de su Secretaría y someterlo a consideración de la Secretaría de la Tesorería;
+###### ARTICULO 25.
 
-XV. Establecer las prioridades para que en su Secretaría se integre la estructura programática presupuestal conforme a los lineamientos establecidos y someterla a consideración de la Secretaría de la Tesorería;
-
-XVI. Suscribir los nombramientos y realizar las remociones del personal de las distintas áreas de las secretarías, previo acuerdo con la o el Presidente Municipal;
-
-XVII. Racionalizar las estructuras de su Secretaría, respetando el techo presupuestal asignado y los lineamientos de racionalidad y austeridad que para tal efecto se emitan por la o el Presidente Municipal;
-
-XVIII. Proponer al Presidente Municipal la actualización constante del marco jurídico municipal aplicable en su ámbito de competencia; y
-
-XIX. Las demás que les señalen la o el Presidente Municipal y la normatividad vigente en la materia.
-
-Con el propósito de procurar mayor eficiencia en el despacho de los asuntos de la Administración Pública Municipal, las secretarías quedan obligadas a coordinarse entre sí cuando la naturaleza de sus funciones así lo requiera, así también, proporcionar la información que entre ellas se soliciten.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2020)</small>
-
-###### ARTÍCULO 20.
-
-Para la organización y administración de los servicios públicos en el Municipio, se habrán de nombrar, de acuerdo a sus propias atribuciones legales, por la o el Presidente Municipal, los funcionarios y empleados necesarios para el cumplimiento de los planes, programas y proyectos, en concordancia a lo establecido por el presupuesto de egresos que se formule anualmente para el Municipio.
-
-La o el Presidente Municipal deberá observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de la administración municipal.
-
-###### ARTÍCULO 21.
-
-Las y los titulares de las secretarías a que se refiere este Reglamento, podrán delegar en sus subalternos cualesquiera de sus facultades, salvo aquellas que por Ley u otras disposiciones señalen que deban ser ejercidas directamente por ellos.
-
-###### ARTÍCULO 22.
-
-Los servidores públicos municipales, al tomar posesión de su cargo, deberán rendir formalmente la protesta de fiel desempeño ante la o el Presidente Municipal y recibir del funcionario saliente el inventario de los bienes que quedarán bajo su custodia así como la relación de los asuntos en trámite y documentación relativa elaborando el acta de entrega recepción correspondiente conforme a la Ley Orgánica y demás normatividad aplicable.
-
-###### ARTÍCULO 23.
-
-Para el cumplimiento de sus atribuciones y despacho de los asuntos que le competen a la o al Presidente Municipal, se crea un cuerpo de apoyo administrativo que depende directamente de él, tal y como se detalla a continuación:
-
-I. Secretaría Particular:
-
-a) Dirección de Giras y Logística;
-
-b) Dirección de Relaciones Públicas; y
-
-c) Dirección de Atención Telefónica SERVITEL.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 5 DE SEPTIEMBRE DE 2016)</small>
-
-II. Secretaria Ejecutiva del Sistema Municipal de Protección Integral de Niñas, Niños y Adolescentes:
-
-a) Dirección de Estadística y Planeación Estratégica; y
-
-b) Dirección Jurídica.
-
-###### ARTÍCULO 24.
-
-A la Secretaría Particular le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Coordinar y mantener actualizada la agenda oficial de actividades que desarrolle la o el Presidente Municipal;
-
-II. Atender la correspondencia y turno de los asuntos, previo acuerdo con la o el Presidente Municipal;
-
-III. Proporcionar atención a los funcionarios, representantes de grupos y demás personas que soliciten audiencia con la o el Presidente Municipal;
-
-IV. Elaborar los informes relativos al avance de los asuntos, acuerdos y peticiones canalizadas y atendidas por parte de la o el Presidente Municipal;
-
-V. Formular las políticas y lineamientos para brindar atención y orientación a la ciudadanía en la solicitud de audiencia, trámites, servicios, quejas y denuncias; asimismo, proceder a la canalización y seguimiento ante las diferentes áreas competentes de la Administración Pública Municipal para su atención inmediata;
-
-VI. Coordinar la recepción, durante las giras de trabajo, eventos y actividades oficiales, de las peticiones y solicitudes dirigidas a la o el Presidente Municipal;
-
-VII. Dirigir las acciones de control y seguimiento de las peticiones y solicitudes entregadas a la o el Presidente Municipal;
-
-VIII. Ordenar la coordinación de las estrategias y acciones abocadas a garantizar y verificar que la organización y desarrollo de los eventos cumplan con las condiciones, medidas y dispositivos adecuados y de seguridad para la o el Presidente Municipal y a los asistentes o, en su caso, sugerir otras alternativas;
-
-IX. Coordinar con las diferentes áreas de la Administración Pública Municipal, la información técnica y de organización de los diferentes eventos y reuniones en los que participa la o el Presidente Municipal;
-
-X. Establecer comunicación con las diferentes dependencias de los gobiernos Federal y Estatal, para la coordinación y organización de eventos donde participa la o él Presidente Municipal;
-
-XI. Coordinar la operación del servicio Telefónico Servitel para la captación de demandas ciudadanas respecto de los servicios públicos municipales que requiere, verificando su adecuada canalización hacia las secretarías y entidades de la Administración Pública Municipal;
-
-XII. Informar mensualmente a la o al Presidente Municipal o al funcionario que éste designe sobre el estado que guardan los asuntos a su cargo; y
-
-XIII. Las demás que determine la o el Presidente Municipal.
-
-###### ARTÍCULO 25.
-
-A la Dirección de Giras y Logística le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Recibir durante las giras de trabajo, eventos y actividades oficiales, las peticiones y solicitudes dirigidas a la o al Presidente Municipal turnándolas al secretario particular para su atención;
-
-II. Programar, coordinar y supervisar la logística en las giras de trabajo, eventos y actividades oficiales de la o el Presidente Municipal;
-
-III. Proporcionar apoyo logístico en las giras de trabajo, eventos y actividades oficiales en donde la o el Presidente Municipal participe;
-
-IV. Coordinar y vigilar que la organización de los eventos cumpla con las medidas y dispositivos apropiados para la seguridad de la o el Presidente Municipal y a (sic) los asistentes de los mismos;
-
-V. Establecer con las áreas de la Administración Pública Municipal los mecanismos de coordinación y vinculación para la adecuada recepción en giras de trabajo de los asuntos planteados por la sociedad;
-
-VI. Establecer mecanismos de coordinación con la Secretaría Particular, para la realización de los actos públicos en los cuales intervenga la o el Presidente Municipal, así como secretarías y entidades paramunicipales vigilando que éstas aporten la información necesaria que garantice su eficiente organización;
-
-VII. Elaborar el plan de trabajo con base en la información que le sea turnada sobre la agenda y eventos en los que participara la o el Presidente Municipal;
-
-VIII. Informar mensualmente a la o el Presidente Municipal o al funcionario que éste designe sobre el estado que guardan los asuntos a su cargo; y
-
-IX. Las demás que determine la o él Presidente Municipal.
+Cuando la discusión derive en cuestiones diversas al tema tratado, el Secretario Ejecutivo hará moción de orden que haga volver al tema de discusión.
 
 ###### Art. 42.
 
@@ -1181,287 +1063,61 @@ Unicamente el Congreso del Estado, mediante disposición de carácter general, p
 
 ## TITULO PRIMERO. Impuestos
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO QUINTO. DE LAS VOTACIONES
 
-###### ARTÍCULO 26.
+###### ARTICULO 26.
 
-A la Dirección de Relaciones Públicas le corresponderá el ejercicio de las siguientes atribuciones:
+Podrán votar los Acuerdos en el Pleno de la Comisión de Transparencia del Municipio de Pachuca de Soto, exclusivamente quienes tengan derecho expreso a ello.
 
-I. Dirigir, coordinar y asesorar la ejecución de las actividades orientadas a la divulgación de información y de mejora de la imagen institucional de la Administración Pública Municipal;
+###### ARTICULO 27.
 
-II. Participar en la organización y supervisión de los actos oficiales en que participe la o el Presidente Municipal, los integrantes del Ayuntamiento y áreas de la Administración Pública Municipal;
+Para los efectos del presente Reglamento, las votaciones se entenderán de la siguiente manera:
 
-III. Conducir y ejecutar las actividades de protocolo y relaciones públicas del Gobierno Municipal con representantes e instituciones nacionales e internacionales;
+I.- UNANIMIDAD: Cuando el voto del total de los integrantes asistentes sea en un mismo sentido;
 
-IV. Recibir y atender a comisiones o delegaciones que visiten el Municipio;
+II.- MAYORIA ABSOLUTA: Aquélla que implique más de la mitad de los votos de integrantes;
 
-V. Programar y establecer las acciones necesarias para el desarrollo y fortalecimiento de las relaciones públicas entre la o el Presidente Municipal y los diversos sectores de la sociedad;
+III.- MAYORIA CALIFICADA: Requiere el voto de las dos terceras partes de los integrantes en un mismo sentido; y
 
-VI. Participar en coordinación con las dependencias responsables en actividades conmemorativas del mes patrio, informes de gobierno y demás eventos cívicos;
+IV.- MAYORIA SIMPLE: La que alcance el mayor número de votos, pero no los suficientes para llegar a la Mayoría Absoluta.
 
-VII. Informar mensualmente a la o al Presidente Municipal o al funcionario que éste designe sobre el estado que guardan los asuntos a su cargo;
+###### ARTICULO 28.
 
-VIII. Elaborar y mantener actualizado el directorio de la Administración Pública Municipal, Estatal, Federal y organizaciones de la sociedad civil, que permita establecer contacto con éstos para la celebración de eventos a los que convoca la o el Presidente Municipal;
+Los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto, podrán ejercer el voto de las formas siguientes:
 
-IX. Elaborar, bajo la supervisión del Secretario Particular, las listas de invitados y las confirmaciones de asistencia a los eventos que convoque la o el Presidente Municipal; y
+I.- Votación Nominal;
 
-X. Las demás que determine la o el Presidente Municipal.
+II.- Votación Económica; y
 
-###### ARTÍCULO 27.
+III.- Por Cédula.
 
-A la Dirección de Atención Telefónica SERVITEL le corresponderá el ejercicio de las siguientes atribuciones:
+###### ARTICULO 29.
 
-I. Operar y dar mantenimiento al servicio telefónico SERVITEL;
+Se harán Votaciones Nominales, en todos aquellos casos en que a solicitud de por lo menos dos terceras partes de los miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto, así lo acuerden.
 
-II. Recibir las peticiones efectuadas por la ciudadanía a través del servicio telefónico SERVITEL;
+###### ARTICULO 30.
 
-III. Clasificar las peticiones ciudadanas recibidas y canalizarlas a las aéreas correspondientes para su adecuada atención según su competencia;
+La Votación Nominal, se efectuará de la siguiente forma:
 
-IV. Realizar el seguimiento de la atención que brindan las secretarías y las entidades, respecto de los asuntos que les son turnados por el SERVITEL para su atención;
+I.- El Secretario Ejecutivo, mencionará en voz alta el nombre y apellidos de cada miembro de la Comisión de Transparencia del Municipio de Pachuca de Soto, iniciando siempre con el Presidente de la misma y anotando el sentido de su voto o bien su abstención;
 
-V. Rendir los informes con la periodicidad que le indique la o el Titular de la Secretaría Particular, respecto de la atención de la demanda ciudadana que se capte a través del servicio telefónico SERVITEL;
+II.- Después de escuchar el sentido de la votación, el Secretario Ejecutivo anotará los que voten en forma afirmativa, negativa y las abstenciones; y
 
-VI. Brindar la asesoría que le sea requerida vía telefónica, respecto de los principales trámites y servicios que brinda el Municipio; y
+III.- Concluida la votación, el Secretario Ejecutivo procederá a efectuar el cómputo y dirá el número total de cada lista.
 
-XI (SIC). Las demás que determine la o el Presidente Municipal.
+###### ARTICULO 31.
 
-> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+Las demás Votaciones sobre Resoluciones o Acuerdos de la Comisión de Transparencia del Municipio de Pachuca de Soto, serán de forma económica, consistiendo únicamente en levantar la mano quienes estén a favor.
 
-ARTÍCULO 27 bis.- A la Secretaría Ejecutiva le corresponderá el despacho de las siguientes atribuciones:
+###### ARTICULO 32.
 
-I. Coordinar las acciones entre las dependencias y las entidades competentes de la Administración Pública Municipal que deriven del presente reglamento;
+Cuando se empate la votación en cualquiera de sus formas, el Presidente de la Comisión de Transparencia del Municipio de Pachuca de Soto, tendrá la facultad de ejercer voto de calidad para definir el resultado.
 
-II. Llevar a cabo la coordinación operativa del Sistema Municipal;
+###### ARTICULO 33.
 
-III. Elaborar el anteproyecto del Programa Municipal para someterlo a consideración de los miembros del Sistema;
+Las Resoluciones o Acuerdos de la Comisión de Transparencia del Municipio de Pachuca de Soto, se tomarán por mayoría de votos de los integrantes presentes, a excepción de aquellos casos en los que se requiera otro tipo de votación.
 
-IV. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Municipal;
-
-V. Elaborar y mantener actualizado el Manual de Organización y Operación del Sistema Municipal de Protección;
-
-VI. Compilar los acuerdos que se tomen en las sesiones del Sistema Municipal de Protección, llevar el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
-
-VII. Apoyar al Sistema Municipal de Protección en la ejecución y seguimiento de los acuerdos y resoluciones emitidos;
-
-VIII. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, nacionales e internacionales;
-
-IX. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes con el fin de difundirlos a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos;
-
-X. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos, en razón de edad, sexo, entidad federativa, escolaridad y discapacidad;
-
-XI. Informar cada cuatro meses al Sistema Municipal de Protección y a su Presidenta o Presidente, sobre sus actividades;
-
-XII. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado;
-
-XIII. Asesorar y apoyar a las dependencias y entidades que lo requieran para el ejercicio de sus atribuciones en la materia;
-
-XIV. Coordinarse con las Secretarias Ejecutivas del Sistema Estatal y de los municipios del Estado para la articulación del Programa Estatal de Protección;
-
-XV. Solicitar a las y los integrantes del Sistema Municipal la información requerida para dar respuesta a la solicitud del Sistema Estatal y Nacional de Información, y a su vez crear el Sistema Municipal de Información; y
-
-XVI. Las demás que le encomiende El o la Presidenta o el Sistema Nacional de Protección Integral, que señale el presente reglamento y demás ordenamientos aplicables.
-
-> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
-
-ARTÍCULO 27 ter.- A la Dirección de Estadística y Planeación Estratégica le corresponderá el despacho de las siguientes atribuciones:
-
-I. Conformar un sistema de información a nivel Municipal, con el objeto de contar con datos desagregados que permitan monitorear los progresos alcanzados en el cumplimiento de los derechos de niñas, niños y adolescentes en el Municipio, incluyendo indicadores cualitativos y cuantitativos;
-
-II. Apoyar a él o la Secretaria Ejecutiva en la elaboración del Programa Municipal de Protección, con el análisis de los datos arrojados por el sistema de información;
-
-III. Llevar a cabo el seguimiento, monitoreo y evaluación de la ejecución del Programa Municipal;
-
-IV. Sistematizar la información que las y los integrantes del Sistema Municipal rindan cuatrimestralmente a la Secretaría Ejecutiva;
-
-V. Realizar anualmente un análisis del presupuesto destinado a la protección de los derechos de niñas, niños y adolescentes;
-
-VI. Desarrollar mecanismos de consulta ciudadana con metodologías con enfoque de derechos de infancia y adolescencia;
-
-VII. Proponer de manera conjunta con el o la Secretaria Ejecutiva elaborar políticas públicas y revisar las ya existentes relacionadas con los derechos de niñas, niños y adolescentes;
-
-VIII. Poner a consideración de la Secretaría Ejecutiva los programas o acciones a implementar a favor de las niñas, niños y adolescentes; y
-
-IX. Las demás que le encomiende el o la Secretaria Ejecutiva del Sistema Municipal de Protección y los demás ordenamiento (sic) legales aplicables.
-
-> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
-
-ARTÍCULO 27 quater.- A la Dirección Jurídica le corresponderá el despacho de las siguientes atribuciones:
-
-XXII. (SIC) El desarrollo de instrumentos de colaboración y coordinación, así como acciones de concertación con instancias públicas y privadas, nacionales e internacionales, que contribuyan al cumplimiento de la Secretaría Ejecutiva;
-
-XXIII. Establecer los mecanismos jurídicos de coordinación con otros sistemas municipales de protección que desarrollen programas, acciones y políticas en beneficio de niñas, niños y adolescentes, en términos de las disposiciones aplicables;
-
-XXIV. Elaborar los proyectos de reforma, reglamentos o de cualquier instrumento jurídico que le solicite la Secretaría Ejecutiva;
-
-XXV. Auxiliar a la Coordinación Jurídica y Procuraduría Municipal de Protección a Niñas, Niños, Adolescentes y las Familias en las medidas que ésta determine tendientes a la protección y restitución de derechos de niñas, niños y adolescentes en el ámbito de sus atribuciones;
-
-XXVI. Compilar los acuerdos que se tomen en las sesiones del Sistema Municipal de Protección, llevar el archivo de éstos y de los instrumentos jurídicos que deriven; y
-
-XXVII. Las demás que le encomiende el o la Secretaria Ejecutiva del Sistema Municipal de Protección o demás ordenamientos legales.
-
-###### ARTÍCULO 28.
-
-La Secretaría General Municipal es una dependencia de la Administración Pública Municipal, encargada de apoyar y auxiliar a la o el Presidente Municipal en la regulación y conducción de la política interior del Municipio, con el propósito de conseguir la convivencia armónica y la paz social, a través de una administración eficaz y eficiente en el manejo de los recursos asignados.
-
-La o el Titular de la Secretaría General Municipal auxiliará al Ayuntamiento ocupando la Secretaría del Ayuntamiento, asistiendo a las sesiones con voz informativa y sin derecho a voto, tomará asistencia en las sesiones, las votaciones y dará cuenta al pleno del resultado, informará del cumplimiento de las resoluciones, firmará junto con la o el Presidente Municipal todos los acuerdos y resoluciones, certificará el Libro de Actas y los Actos del Ayuntamiento.
-
-###### ARTÍCULO 29.
-
-A la o el Titular de la Secretaría General Municipal, le corresponderá el despacho de las siguientes atribuciones de carácter indelegable:
-
-I. Suplir a la o a el Presidente Municipal en los términos que señale la normatividad vigente;
-
-II. Desempeñar la función de Secretario de la Junta Municipal de Reclutamiento;
-
-III. Asistir a todas las sesiones del Ayuntamiento con derecho a voz; y
-
-IV. Certificar los documentos que señala la Ley Orgánica en los términos que la misma establece.
-
-###### ARTÍCULO 30.
-
-A la o el Titular de la Secretaría General Municipal le corresponderá el despacho de las siguientes atribuciones:
-
-I.- Instrumentar estrategias que aseguren en los términos de la Constitución Federal, la aplicación de sanciones por infracciones a los Reglamentos Municipales vigentes;
-
-II.- Formular estrategias y lineamientos abocados a la coordinación de las relaciones de la o el Presidente Municipal con los demás miembros del Ayuntamiento, así como con los poderes públicos del Estado y de la Federación;
-
-III.- Formular estrategias que contribuyan al desarrollo político municipal, así como fomentar la participación ciudadana en los asuntos públicos;
-
-IV.- Promover la participación ciudadana y generar las condiciones que permitan la construcción de acuerdos políticos y consensos sociales para que, en los términos de la Constitución Local y de las leyes, se mantengan las condiciones de gobernabilidad democrática;
-
-V.- Cumplir con las acciones previstas en el Reglamento Interior del H. Ayuntamiento, en referencia a la celebración de las Sesiones del Cabildo y, en su caso, de las Comisiones del Ayuntamiento;
-
-VI.- Supervisar y evaluar el cotejo, revisión y firma de las certificaciones de las actas del Registro del Estado Familiar; asimismo, todo lo relacionado con los procesos y procedimientos en dicha materia;
-
-VII.- Supervisar la observancia del Reglamento para el Funcionamiento de Establecimientos Mercantiles y Espectáculos Públicos del Municipio, sobre los criterios aplicables a la celebración de espectáculos, horarios y características generales conducentes; en su caso, instruir lo necesario a efecto de que se produzcan las visitas de verificación correspondientes, evaluando los procesos y procedimientos previstos en la normatividad aplicable en la materia;
-
-VIII.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2019)
-
-IX.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2019)
-
-X.- Diseñar las políticas, programas y lineamientos municipales en materia de protección civil, bomberos y gestión integral de riesgos; a efecto de dar cumplimiento a lo previsto en la Ley Orgánica;
-
-XI.- Definir las estrategias y procedimientos para establecer el Sistema Municipal de Protección Civil;
-
-XII.- Establecer las bases de coordinación y concertación, mediante las cuales se promueva la integración de las unidades internas municipales de protección civil de las dependencias públicas, privadas y sociales, cuando éstas se encuentren establecidas dentro del territorio municipal;
-
-XIII.- Coordinar, promover y dar seguimiento a los planes, programas, proyectos y acciones en materia de desarrollo metropolitano, de conformidad con las disposiciones jurídicas aplicables;
-
-XIV.- Proponer mecanismos de coordinación del Municipio con autoridades de los Gobiernos Federal, Estatal y de los municipios de la Zona Metropolitana de Pachuca de Soto, para atender de manera integral los asuntos de carácter metropolitano;
-
-XV.- Representar a la o el Presidente Municipal en las comisiones u órganos metropolitanos que le sean encomendados;
-
-XVI.- Formular, con la intervención de las o los Síndicos, políticas y lineamientos en materia de elaboración, registro, seguimiento y evaluación del inventario general y registro en libros especiales de los bienes muebles e inmuebles propiedad del Municipio, de dominio público y de dominio privado, expresando todos los datos de identificación, valor y destino de los mismos;
-
-XVII.- Establecer y diseñar las políticas y estrategias en materia de comunicación social e información y someterlas a consideración de la o el Presidente Municipal para que sean implementadas por el Gobierno Municipal;
-
-XVIII.- Coadyuvar con las autoridades Federales y Estatales en el desarrollo de los procesos electorales dentro del ámbito de competencia del Municipio; y
-
-XIX.- Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal, Estatal yMunicipal (sic), aplicable a su ámbito de competencia y la o el Presidente Municipal.
-
-###### ARTÍCULO 31.
-
-Para el despacho de los asuntos que le competen, durante las ausencias temporales de la o el titular de la Secretaría, éste será suplido por la persona que designe la o el Presidente Municipal.
-
-###### ARTÍCULO 32.
-
-Para el cumplimiento de las atribuciones y funciones a su cargo, la o el titular de la Secretaría General Municipal contará con la siguiente estructura:
-
-I.- Coordinación General Jurídica;
-
-a).- Dirección de lo Contencioso;
-
-1) Departamento de la Junta de Reclutamiento;
-
-b).- Dirección de la Oficialía del Registro del Estado Familiar;
-
-II.- Secretaría Técnica;
-
-III.- Dirección de Desarrollo Político;
-
-IV.- Dirección de Vinculación Ciudadana;
-
-V.- Dirección de Reglamentos y Espectáculos;
-
-VI.- Dirección de Protección Civil, Bomberos y Gestión Integral de Riesgos; y
-
-VII.- Dirección de Comunicación Social.
-
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
-
-ARTÍCULO 32 BIS.- La Secretaría Técnica de la Secretaría General Municipal, es el órgano de vinculación entre la propia Secretaría General Municipal y los diferentes niveles de gobierno, las dependencias municipales, organizaciones no gubernamentales y la sociedad en general, y tendrá las siguientes atribuciones:
-
-I.- Definir y dar seguimiento a las metas del gobierno municipal.
-
-II.- Revisar la propuesta de los Manuales de Organización y Procedimientos de la estructura orgánica para que sea presentada al titular de la Secretaría General Municipal;
-
-III.- Ejecutar los programas que le correspondan en el contexto del Plan Municipal de Desarrollo y de la reglamentación interior de la administración municipal;
-
-IV.- Auxiliar a la persona titular de la Secretaría General Municipal en la conducción de política interior del municipio;
-
-V.- Coordinar las acciones de los Consejos de Colaboración y delegados municipales;
-
-VI.- Auxiliar en la atención de la audiencia ciudadana a la persona titular de la Secretaría, previo acuerdo.
-
-VII.- Elaborar fichas técnicas de las reuniones que presida la persona titular de la Secretaría y de los acuerdos que se establezcan, tanto con otras dependencias del municipio, del Estado y las organizaciones sociales;
-
-VIII.- Realizar el registro, dar seguimiento y Vigilar el cumplimiento de los acuerdos, convenios, contratos y otros, celebrados con las diferentes áreas de la Secretaría y con otras Dependencias u organizaciones sociales, hasta concluir el proceso
-
-IX.- Coordinar, supervisar y evaluar a las direcciones de área de la Secretaría General Municipal, respecto de sus funciones encomendadas; y
-
-X.- Coordinarse técnicamente con el Oficial Mayor del Ayuntamiento para que las Sesiones de Cabildo se lleven a cabo de acuerdo a lo programado y autorizado previamente por dicho órgano colegiado.
-
-###### ARTÍCULO 33.
-
-A la Dirección General Jurídica le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Coordinar a las diferentes áreas jurídicas de las secretarías y entidades, estableciendo lineamientos, criterios y mecanismos para la atención de los asuntos de carácter legal del Municipio;
-
-II. Emitir los lineamientos, criterios y demás disposiciones para la recepción, atención, desahogo, coordinación, control, seguimiento y evaluación para el desahogo de juicios, demandas y actos jurídicos de las diversas materias que sea parte y conozcan las secretarías y entidades municipales, a través de las unidades administrativas que se hayan asignadas para tal efecto;
-
-III. Proponer y dirigir los programas, proyectos y acciones convenientes para constituir o defender los intereses y derechos del Municipio;
-
-IV. Dictaminar y proponer al Titular de la Secretaría los casos en que se requiera iniciar acciones jurídicas para defender los intereses y derechos del Municipio;
-
-V. Asistir en las controversias en que tenga interés jurídico el Municipio, las diversas secretarías y entidades de la Administración Pública Municipal, en los ámbitos civil, laboral, contencioso administrativo, amparo, penal, fiscal o cualquier otro en el que se vea involucrado el Municipio;
-
-VI. Conocer de toda controversia jurisdiccional en la que el Municipio sea parte;
-
-VII. Asistir jurídicamente al Ayuntamiento y a la o el Síndico Jurídico manteniendo una coordinación y vinculación permanente en los asuntos en que ésta intervenga;
-
-VIII. Atender los asuntos jurídicos que requieran las secretarías o entidades, así como el seguimiento de los asuntos judiciales y contenciosos-administrativos en los que el Municipio sea parte;
-
-IX. Fijar criterios de interpretación y de la aplicación de las disposiciones jurídicas que normen el funcionamiento de la Administración Pública Municipal;
-
-X. Tramitar y resolver los recursos administrativos previstos en la Ley, en el Bando de Policía y Gobierno del Ayuntamiento y los que se interpongan en contra de resoluciones que dicten las Unidades Administrativas del Municipio, así como aquellos que deriven de las leyes y reglamentos de competencia municipal o de aquellos derivados de Convenios de Coordinación o de delegación de facultades federales y estatales, por acuerdo del Presidente Municipal;
-
-XI. Atender y encargarse jurídicamente de la defensa de las autoridades administrativas y de los servidores públicos del Municipio, en los procedimientos de carácter civil, penal, laboral o administrativos por actos derivados del ejercicio de sus funciones, con todas las facultades generales y las especiales que se requieran;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
-
-XI BIS. Promover los servicios de defensoría de oficio a quienes no cuenten con defensor particular, cuando sea competencia de las autoridades municipales.
-
-XII. Prestar asesoría jurídica a las secretarías y entidades de la Administración Pública Municipal en materia jurídica;
-
-XIII. Emitir criterios básicos para la atención de los asuntos jurídicos, que reciban las secretarías y entidades de la Administración Pública Municipal;
-
-XIV. Revisar y rubricar los contratos y convenios en los que el Municipio sea parte;
-
-XV. Revisar que todos los actos jurídicos de carácter administrativo de la Administración Pública Municipal, cumplan con los requisitos y formalidades legales;
-
-XVI. Supervisar que los informes previos y justificados que deban rendir las autoridades municipales en juicios de amparo requeridos por los juzgados de la Federación se encuentren debidamente fundados y motivados;
-
-XVII. Emitir los criterios para la elaboración de actas administrativas, levantadas a los servidores públicos municipales con motivo de actos u omisiones en el desempeño de sus funciones, cargos o comisiones;
-
-XVIII. Contribuir, en los términos previstos en el Reglamento Interior del Registro del Estado Familiar de Pachuca de Soto, en la coordinación de las actividades del Registro;
-
-XIX. Supervisar la adecuada administración y control del Registro del Estado Familiar promoviendo acciones que faciliten la realización de trámites y el otorgamiento de los servicios que brinda;
-
-XX. Supervisar el desahogo de los litigios hasta su conclusión, en los cuales sea parte la o él Presidente Municipal o los servidores públicos en el desempeño de sus funciones;
-
-XXI. Intervenir en el estudio y formulación de las concesiones administrativas de los servicios públicos que corresponda otorgar al Ayuntamiento, así como en los procedimientos administrativos de revocación o cancelación de las mismas; y
-
-XXII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+Si finaliza la exposición de un asunto y nadie solicita el uso de la palabra o se hubiere agotado el número de oradores o bien, cuando se considere suficientemente discutido el asunto a juicio de quien presida la Sesión, éste será sometido a votación.
 
 ###### Art. 67.
 
@@ -1471,241 +1127,57 @@ Los Impuestos se liquidarán y pagarán, de conformidad con las tarifas, tasas o
 
 En el caso de celebrarse convenios entre los gobiernos Estatal y Municipal para la recaudación de los Impuestos establecidos en este título se estará a lo señalado en los convenios respectivos.
 
-### CAPITULO II. Impuesto sobre Actividades Comerciales Industriales y de Prestación de Servicios
+### CAPITULO SEXTO. DE LAS SUBCOMISIONES
 
-###### ARTÍCULO 34.
+###### ARTICULO 34.
 
-A la Dirección de Desarrollo Político le corresponderá el ejercicio de las siguientes atribuciones:
+La Comisión de Transparencia del Municipio de Pachuca de Soto, para el mejor desempeño de sus funciones, se organizará en Subcomisiones Permanentes o Transitorias.
 
-I. Ejecutar las acciones de concertación con los representantes de los diversos sectores de la sociedad civil;
+###### ARTICULO 35.
 
-II. Atender los asuntos de gobernabilidad que planteen los ciudadanos y sus organizaciones, colaborando en la solución de los problemas planteados;
+Dentro de los siguientes 30 días a la instalación de la Comisión de Transparencia del Municipio de Pachuca de Soto, sus miembros se constituirán en Subcomisiones Permanentes para el estudio, examen y resolución de los asuntos que les sean turnados.
 
-III. Crear registros que generen información necesaria para garantizar la gobernabilidad democrática y armónica, previniendo los conflictos políticos, sociales y económicos que afecten a la Administración Pública Municipal;
+Las Subcomisiones Transitorias, se constituirán por Acuerdo del Pleno de la Comisión de Transparencia del Municipio de Pachuca de Soto, por las dos terceras partes de sus integrantes.
 
-IV. Realizar análisis de la problemática social, así como desahogar las consultas que se turnen al respecto;
+###### ARTICULO 36.
 
-V. Informar de manera inmediata a la o el Titular de la Secretaría sobre conflictos sociales generados en el Municipio;
+Cada Subcomisión, estará integrada por miembros de la Comisión de Transparencia del Municipio de Pachuca de Soto, que sean designados por el Pleno de la misma y por Funcionarios de la Administración Pública Municipal, atendiendo a la naturaleza de los asuntos a tratar y debiendo nombrar un Coordinador.
 
-VI. Informar a la o el Titular de la Secretaría sobre posibles conflictos sociales que se puedan generar en el Municipio;
+###### ARTICULO 37.
 
-VII. Acompañar a la o el Presidente Municipal, a la o el Titular de la Secretaría o a las o los Secretarios de la Administración Pública Municipal en los recorridos o visitas que realicen a las colonias, barrios o fraccionamientos de la ciudad y proveerles de la información necesaria sobre los mismos;
+Los integrantes de la Comisión de Transparencia del Municipio de Pachuca de Soto, deberán formar parte de por lo menos una Subcomisión.
 
-VIII. Realizar visitas a las colonias, barrios o fraccionamientos de la ciudad y entrevistarse con los líderes para conocer la problemática de las mismas;
+###### ARTICULO 38.
 
-IX. Proveer, previo acuerdo con la o el Titular de la Secretaría, de la información necesaria que requiera la Dirección de Giras y Logística de la o el Presidente Municipal o cualquier Secretaría de la Administración Pública Municipal;
+Las Subcomisiones Permanentes serán las siguientes:
 
-X. Crear y mantener actualizado un registro de las organizaciones políticas, sociales, asociaciones, clubes, instituciones públicas y privadas y en general, de todas las organizaciones existentes en el Municipio;
+I.- DE DIAGNOSTICO Y PLANEACION ESTRATEGICA: Cuya competencia será elaborar los mecanismos para la detección y corrección de deficiencias y problemas en las diferentes áreas de la Administración Pública Municipal;
 
-XI. Mantener abiertos los canales de comunicación y atención permanente con los grupos políticos, sectores y organizaciones respectivos del Municipio; y
+II.- DE DIFUSION INSTITUCIONAL: Cuya competencia será buscar y proponer los mecanismos óptimos para dar a conocer a los habitantes del Municipio de Pachuca de Soto, los avances y resultados del Plan Anual de Fortalecimiento de la Transparencia Municipal; y
 
-XII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+III.- DE SUPERVISION: Cuya competencia será promover los métodos de control y evaluación para el cumplimiento del Plan Anual de Fortalecimiento de la Transparencia Municipal.
 
-###### ARTÍCULO 35.
+###### ARTICULO 39.
 
-A la Dirección de Vinculación Ciudadana le corresponderá el ejercicio de las siguientes atribuciones:
+Los asuntos que hayan sido turnados a las Subcomisiones, deberán ser presentados para su votación al Pleno de la Comisión de Transparencia del Municipio de Pachuca de Soto, en un plazo no mayor de 30 días hábiles contados a partir del día siguiente al de la celebración de-la Reunión de Trabajo de la Subcomisión respectiva.
 
-I. Ejecutar las estrategias y lineamientos que faciliten y fomenten la participación ciudadana en los asuntos públicos;
+En el caso de que los asuntos tengan el carácter de urgente resolución, serán analizados y resueltos dentro de la Sesión en que sean presentados.
 
-II. Recibir, atender y remitir a las instancias competentes del Municipio, las peticiones que formule la ciudadanía y las diversas instituciones, órganos o asociaciones;
+###### ARTICULO 40.
 
-III. Recibir, atender, orientar y apoyar a los Consejos Ciudadanos de Colaboración Municipal de los diferentes barrios, colonias y fraccionamientos del Municipio;
+Si algún integrante de la Comisión de Transparencia del Municipio de Pachuca de Soto o de las Subcomisiones, tuviere interés personal en algún asunto, dejará de conocer inmediatamente de éste, debiendo excusarse mediante escrito presentado ante el Secretario Ejecutivo.
 
-IV. Propiciar que las actividades de la ciudadanía y los diversos órganos o asociaciones se desarrollen dentro del marco legal establecido;
+El Secretario Ejecutivo informará dicho asunto, en la siguiente Sesión a la Comisión de Transparencia del Municipio de Pachuca de Soto.
 
-V. Dar seguimiento, ante las diferentes secretarías municipales, a las solicitudes que realice la ciudadanía y las diversas instituciones, órganos o asociaciones al Municipio;
+###### ARTICULO 41.
 
-VI. Crear procedimientos para fomentar y canalizar la participación de la ciudadanía y las diversas instituciones, órganos o asociaciones;
+Cuando un asunto por su naturaleza involucre la competencia de dos o más Subcomisiones, el Presidente de la Comisión de Transparencia del Municipio de Pachuca de Soto, determinará cuál de ellas será la convocante para el desahogo de los trabajos.
 
-VII. Crear y mantener abiertos canales de comunicación con los Consejos Ciudadanos de Colaboración Municipal de los diferentes barrios, colonias y fraccionamientos del Municipio;
+Las Subcomisiones involucradas, deberán celebrar las Reuniones necesarias para mejor proveer el asunto, previa Convocatoria.
 
-VIII. Ejecutar las acciones de la Administración Pública del Municipio en materia de participación ciudadana;
+###### ARTICULO 42.
 
-IX. Crear y mantener actualizado un registro de los Consejos Ciudadanos de Colaboración Municipal de los diferentes barrios, colonias y fraccionamientos del Municipio; y
-
-X. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 36.
-
-A la Dirección de lo Contencioso le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Coordinarse conforme a los lineamientos emitidos por la Dirección General con las áreas jurídicas de las secretarías y entidades para el desahogo de los asuntos jurídicos;
-
-II. Analizar y formular las demandas que interponga el Municipio, para su atención en coordinación con el área jurídica de la Secretaría o Entidad correspondiente;
-
-III. Elaborar los escritos de contestación de las demandas instauradas en contra del Municipio y someterlas a consideración del Director General Jurídico;
-
-IV. Intervenir y dar seguimiento, hasta la resolución en última instancia, a los juicios en los que el Municipio sea parte;
-
-V. Fungir, junto con el área jurídica de la Secretaría o Entidad correspondiente como Delegado de las autoridades administrativas municipales en los juicios de Amparo y Contencioso Administrativo;
-
-VI. Coordinar con los titulares de las áreas jurídicas de las Secretarías y Entidades municipales involucradas en un juicio, la obtención de la información y/o documentación que se requiera;
-
-VII. Elaborar y someter a consideración del Director General Jurídico los contratos y convenios y en general los instrumentos legales que requiera la Presidencia Municipal y darle el seguimiento correspondiente;
-
-VIII. Supervisar que los actos jurídicos de carácter administrativo de la Administración Pública Municipal, cumplan con los requisitos y formalidades legales;
-
-IX. Elaborar los informes previos y justificados que deban rendir las autoridades municipales en juicios de amparo requeridos por los juzgados de la Federación;
-
-X. Tratar con los secretarios, jueces y magistrados que sean los encargados de resolver los juicios de los que la Presidencia Municipal sea parte y se tengan asignados;
-
-XI. Revisar los asuntos relacionados con las quejas haciendo valer las causales de improcedencia que sean aplicables;
-
-XII. Contestar las quejas interpuestas contra los servidores públicos municipales ante las Comisiones de Derechos Humanos Estatal y Nacional;
-
-XIII. Procurar el avenimiento y la conciliación de los intereses en asuntos de carácter familiar o vecinal, buscando con ello lograr una convivencia armónica y pacífica entre los involucrados en este tipo de conflictos;
-
-XIV. Ejercer de oficio las funciones conciliatorias cuando de alguna infracción se deriven daños y perjuicios que deban reclamarse por la vía civil y en su caso, obtener la reparación del daño o dejar a salvo los derechos del ofendido, debiendo fijar el monto del daño a reparar;
-
-XV. Emitir los citatorios de comparecencia, los cuales no excederán de tres veces dirigidos a la misma persona y cuyo domicilio se ubique dentro del Municipio, previa solicitud del interesado;
-
-XVI. Coordinar los trabajos de la Junta Municipal de Reclutamiento;
-
-XVII. Apoyar a las secretarías y entidades paramunicipales en la elaboración de actas administrativas, levantadas a los servidores públicos municipales con motivo de actos u omisiones en el desempeño de sus funciones, cargos o comisiones;
-
-XVIII. Asistir jurídicamente al Ayuntamiento y a la o el Síndico Procurador Jurídico manteniendo una coordinación y vinculación permanente en los asuntos en que ésta intervenga, cuando así le sea instruido por el Director General Jurídico;
-
-XIX. Integrar los expedientes de los asuntos jurídicos de la Secretaría; y
-
-XX. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 37.
-
-A la Dirección de la Oficialía del Registro del Estado Familiar le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Autorizar la expedición de actas del estado familiar de las personas dentro de su jurisdicción;
-
-II. Constatar y dar fe del registro de los actos del estado familiar relativos a (sic) nacimiento, reconocimiento de hijos, matrimonio, concubinato, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros dentro de su jurisdicción;
-
-III. Celebrar ceremonias de matrimonio dentro de su jurisdicción;
-
-IV. Inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, la de haber perdido la capacidad legal para administrar bienes y las resoluciones definitivas del estado familiar de las personas;
-
-V. Resguardar y custodiar los libros donde se encuentran inscritos los actos del Registro del Estado Familiar;
-
-VI. Dar cumplimiento a las resoluciones dictadas por autoridades judiciales;
-
-VII. Vigilar que las formas en que se hayan asentado los actos del estado familiar de las personas, no contengan raspaduras, enmendaduras o tachaduras;
-
-VIII. Realizar las inscripciones que le sean remitidas de las aclaraciones de actas del estado familiar;
-
-IX. Coordinar, en vinculación con la Dirección General Jurídica, los procesos y procedimientos previstos en el Reglamento Interior del Registro (sic) Estado Familiar de Pachuca de Soto, Hidalgo y las diferentes disposiciones jurídicas en la materia;
-
-X. Proporcionar, previo acuerdo con el Director General Jurídico, y de conformidad con las disposiciones jurídicas aplicables, la información que en materia registral le sea solicitada por las instituciones autorizadas, de carácter económica, política, civil y educativa; y
-
-XI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 38.
-
-A la Dirección de Reglamentos y Espectáculos le corresponderá el ejercicio de las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
-
-I. Implementar el procedimiento para la expedición y renovación de permisos para espectáculos públicos, así como las ampliaciones de giros y horarios de conformidad con las disposiciones reglamentarias en la materia;
-
-II. Autorizar, renovar, negar o cancelar previa validación y firma del Titular de la Secretaría, los procedimientos correspondientes que le faculte el reglamento aplicable en la materia;
-
-III. Ordenar y efectuar visitas de verificación a los establecimientos mercantiles y espectáculos públicos, de conformidad con los procedimientos establecidos para tal efecto;
-
-IV. Imponer las sanciones conducentes por infracciones cometidas a las disposiciones jurídicas y administrativas aplicables en la materia;
-
-V. Conocer y resolver, en coordinación con la Dirección General Jurídica, los recursos administrativos interpuestos sobre actos administrativos emitidos por la Dirección, en el ejercicio de sus funciones;
-
-VI. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2019)
-
-VII. Buscar establecer mecanismos de colaboración con las distintas Cámaras de Comercio, con la finalidad de coadyuvar a la prestación de mejores servicios a la ciudadanía;
-
-VIII. Ordenar la suspensión de actividades para el público en los establecimientos mercantiles y espectáculos públicos en fechas u horas determinadas, con el objeto de preservar el orden y la seguridad pública, cuando el caso así lo requiera;
-
-IX. Vigilar el adecuado cumplimiento de las disposiciones jurídicas y administrativas aplicables en el ámbito de su competencia;
-
-X. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2019)
-
-XI. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2019)
-
-XII. Establecer mecanismos de coordinación, cooperación y vinculación intergubernamentales e intermunicipales, para el adecuado cumplimiento de sus funciones; y
-
-XIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 39.
-
-A la Dirección de Protección Civil, Bomberos y Gestión Integral de Riesgos le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Diseñar, integrar y establecer el Sistema Municipal de Protección Civil;
-
-II. Diseñar, promover y ejecutar el Plan Municipal de Contingencias para situaciones de emergencia causada por fenómenos destructivos de origen humano o natural;
-
-III. Elaborar y mantener actualizado el Atlas Municipal de Riesgos y el censo del capital humano y de organizaciones de la sociedad civil, materiales y de infraestructura, incluyendo albergues y centros de atención, que estén disponibles en el Municipio para asegurar la eficacia del auxilio;
-
-IV. Coordinar a las secretarías municipales e instituciones privadas responsables de la operación de los diversos servicios vitales y estratégicos del municipio a fin de prevenir situaciones de emergencia;
-
-V. Organizar las funciones y operación del Consejo Municipal de Protección Civil y sus grupos especializados de trabajo;
-
-VI. Elaborar y emitir opiniones técnicas, en el ámbito de su competencia, sobre las medidas de seguridad que deben cumplir los establecimientos e instituciones sociales privadas y en su caso públicas, para su adecuado funcionamiento; así como aquellos relativos a inmuebles que se encuentren en zonas de riesgo o en condiciones inseguras;
-
-VII. Ordenar y practicar las visitas de verificación e inspección a los establecimientos e inmuebles, a fin de vigilar el cumplimiento de las disposiciones en materia de protección civil;
-
-VIII. Controlar, supervisar, dar seguimiento y evaluar el apoyo que deban tener y proporcionar los centros de acopio, en los refugios temporales y en los albergues, destinados para recibir y brindar ayuda a la población afectada en casos de desastre o siniestro;
-
-IX. Diseñar y dirigir las acciones de capacitación para la sociedad en materia de protección civil, coadyuvando en la promoción de la cultura de autoprotección y promover lo conducente ante las autoridades del sector educativo;
-
-X. Inspeccionar, controlar y vigilar que los establecimientos del sector público, privado y social, cumplan con lo estipulado en la legislación vigente en materia de protección civil para prevenir alguna contingencia;
-
-XI. Formular la evaluación en casos de contingencia, emergencia o desastre e informar de inmediato a su superior jerárquico y a la o al Presidente Municipal;
-
-XII. Rendir informe a la o al Titular de la Secretaría, para que a su vez informe a la o a el Presidente Municipal, respecto de los acontecimientos registrados en su jurisdicción;
-
-XIII. Imponer sanciones por infracciones a las disposiciones en materia (sic) protección civil de conformidad con la normatividad establecida para tal efecto;
-
-XIV. Organizar, coordinar y supervisar al cuerpo de bomberos del Municipio de Pachuca, así como al área de gestión integral de riesgos;
-
-XV. Proporcionar el auxilio a la población que así lo requiera en materia de rescate y bomberos, cuando ocurran percances en sus personas o en sus bienes dentro de la jurisdicción del Municipio; y
-
-XVI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 40.
-
-A la Dirección de Comunicación Social, le corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Proponer y diseñar las políticas y estrategias en materia de comunicación social e información y someterlas a consideración de la o el Titular de la Secretaría para que sean implementadas por el Gobierno Municipal;
-
-II. Fungir como enlace permanente entre la Administración Pública Municipal y los medios de comunicación social;
-
-III. Recibir y canalizar la información oficial que determine la o el Titular de la Secretaría hacia los medios de comunicación social;
-
-IV. Elaborar, coordinar y dar seguimiento a las campañas de difusión en los medios de comunicación e información disponibles sobre las acciones y avances de la Administración Pública Municipal;
-
-V. Establecer y coordinar canales de comunicación permanentes con las secretarías y entidades de la Administración Pública Municipal, a fin de asegurar la debida vinculación y difusión de información oportuna sobre las acciones derivadas de la gestión gubernamental que sean de interés a las mismas;
-
-VI. Efectuar el seguimiento y monitoreo de la información que se transmita y publique en los medios de comunicación sobre las actividades de la o el Presidente Municipal y de la Administración Pública Municipal;
-
-VII. Coordinar las estrategias y acciones para brindar el apoyo a los actos oficiales para cubrir la información;
-
-VIII. Dirigir las acciones para la elaboración, registro, seguimiento y evaluación de las campañas de difusión en los medios de comunicación e información disponible sobre políticas, programas, acciones, actividades, avances e información general del Gobierno Municipal;
-
-IX. Auxiliar, apoyar y asistir en los actos oficiales en que acuda la o el Presidente Municipal, vigilando la adecuada difusión de estos eventos;
-
-X. Conducir estrategias, lineamientos y acciones para la difusión estratégica en los medios de comunicación de los informes del Presidente Municipal;
-
-XI. Elaborar, registrar, dar seguimiento y evaluación del monitoreo de la información que se transmita y publique en los medios de comunicación social sobre las actividades de la o el Presidente Municipal y de los integrantes de la Administración Pública Municipal;
-
-XII. Revisar el contenido de los comunicados y textos oficiales informativos, crónicas, revistas, impresión de boletines y folletos de las actividades realizadas por el Gobierno Municipal para su inserción en los medios de comunicación;
-
-XIII. Coordinar, con la Secretaría Particular y la Secretaría (sic) Planeación y Evaluación de la Presidencia Municipal, la emisión de comunicados y la participación en eventos, giras, ponencias y demás actos, en los cuales acuda la o el Presidente Municipal, estando a cargo de la debida difusión ante los medios de comunicación social;
-
-XIV. Informar mensualmente a la o el Presidente Municipal o al funcionario que este designe sobre el estado que guardan los asuntos a su cargo;
-
-XV. Coordinar y dirigir la elaboración de la Gaceta Municipal en los términos del Reglamento de la Gaceta Municipal de Pachuca de Soto; y
-
-XVI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
-
-###### ARTÍCULO 41.
-
-La Junta Municipal de Reclutamiento tendrá como funciones específicas la inscripción de los conscriptos para el Servicio Militar Nacional; la expedición de Cartillas a conscriptos, remisos y anticipados, y; en general, la organización de los actos relativos al Reclutamiento Militar hasta sus consecuencias finales, procediendo siempre de acuerdo a los lineamientos e instrucciones de la Secretaría de la Defensa Nacional, a través de los ordenamientos legales aplicables.
-
-###### ARTÍCULO 42.
-
-La Secretaría de Planeación y Evaluación es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal en la conducción de la política para laevaluación (sic) de las metas y objetivos derivados del Plan Municipal de Desarrollo, la coordinación de los proyectos estratégicos, las relaciones interinstitucionales, así como en el fomento a la innovación gubernamental, con el propósito de instrumentar acciones comprometidas con una administración eficaz y eficiente.
+Las Subcomisiones, fundamentarán por escrito sus Proyectos con proposiciones claras y precisas.
 
 ###### Art. 69.
 
@@ -4169,439 +3641,73 @@ En todo lo no previsto por la presente Ley, se atenderá a lo dispuesto en las d
 
 ## TRANSITORIOS
 
-Primero. Esta Ley entrará en vigor tres días después de su publicación en el Periódico Oficial El Estado de Jalisco.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-Segundo. Se abrogan las disposiciones contenidas en la Ley de Hacienda Municipal, contenida en Decreto Número 4720, expedido por el Congreso del Estado, junto con sus reformas.
+SEGUNDO.- En un plazo no mayor de 40 días naturales posteriores a la fecha de publicación, deberá de integrarse la Comisión de Transparencia del Municipio de Pachuca de Soto de conformidad con el presente Ordenamiento.
 
-Tercero. Los procedimientos iniciados y que se encuentren en trámite con anterioridad a la vigencia de esta Ley, se regirán por las disposiciones en vigor en la época de su iniciación y, las resoluciones que se dicten tendrán definitividad para los efectos del Juicio de Garantías, sin que contra las mismas pueda promoverse el Juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
+TERCERO.- El primer Informe de los resultados obtenidos de la Ejecución del Plan Anual de Fortalecimiento de la Transparencia Municipal, deberá presentarse en el mes de diciembre de 2002.
 
-Cuarto. Para calcular el importe de las cantidades en dinero a que alude esta Ley, se tendrá como base el salario mínimo general vigente en cada municipio.
+Dado en el Salón de Cabildos de la Presidencia Municipal de Pachuca de Soto, Estado de Hidalgo, a los ocho días del mes de agosto del año dos mil dos.
 
-Salón de Sesiones del Congreso del Estado
+EL Síndico Procurador
 
-Guadalajara, Jal., a 15 de marzo de 1984
+C. Miguel Ángel Ortega Jiménez
 
-Diputado Presidente
+Regidores
 
-Francisco Ruiz Guerrero
+C. José Francisco García Osuna
 
-Dip. Secretario
+C. Sonia Leslie Del Villar Sosa
 
-Dr. Carlos González Guevara
+C. Roque Delfino Licona Meníndez
 
-Dip. Secretario
+C. José Enrique Maqueda Hernández
 
-Ing. Salvador Farías Chávez
+C. Sofio Martínez Hernández
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+C. Marisol Vargas Barcena
 
-Dado en Palacio del Poder Ejecutivo del Estado, a los diecinueve días del mes de marzo de mil novecientos ochenta y cuatro.
+C. Encarnación Villegas Hernández
 
-El Gobernador Constitucional del Estado
+C. Enrique Pichardo Monzalvo
 
-Lic. Enrique Alvarez del Castillo
+C. Hilda Georgina Pineda López
 
-El Secretario General de Gobierno
+C. David Reyes Razo
 
-Lic. Eugenio Ruiz Orozco
+C. Quintín Serrano Guzmán
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+C. Angel Eleazar Sosa Beiza
 
-P.O. 31 DE MARZO DE 1990.
+C. Alejandra Villalpando Rentería
 
-Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+C. Esteban Jesús Mercado Mercado
 
-P.O. 1 DE ENERO DE 1991.
+C. Maricela Tinoco Moreno
 
-Unico. El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco.
+C. Joel Trejo Mendoza
 
-P.O. 29 DE JUNIO DE 1991.
+En uso de las facultades que me confiere la fracción III del Artículo 144 de la Constitución Política del Estado Libre y Soberano de Hidalgo y la fracción III del Artículo 52 de la Ley Orgánica Municipal, tengo a bien sancionar el presente Decreto para su debido cumplimiento.
 
-Artículo Primero. Los predios cuyo valor se determine en operaciones translativas de dominio, a partir del 1º. de julio de 1991, pagarán el Impuesto Predial únicamente sobre el valor de tablas de terreno y construcción, vigentes para cada Municipio, y aprobado por las Juntas Tabuladoras correspondientes.
+Dado en el Palacio Municipal de Pachuca de Soto, Estado de Hidalgo, a los ocho días del mes de agosto del año dos mil dos.
 
-Artículo Segundo. El presente Decreto entrará en vigor el día 1º. primero de julio de 1991 mil novecientos noventa y uno, previa su publicación en el Periódico Oficial El Estado de Jalisco".
+El Presidente Municipal Constitucional
 
-P.O. 16 DE ENERO DE 1992.
+Ing. José Antonio Tellería Beltrán
 
-Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+Con fundamento en la fracción V del Artículo 93 de la Ley Orgánica Municipal del Estado de Hidalgo, tengo a bien refrendar la presente sanción.
 
-P.O. 6 DE FEBRERO DE 1993.
+El Secretario General Municipal
 
-Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+Lic. Armando Madariaga Nava.
 
-P.O. 30 DE DICIEMBRE DE 1993.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-DECRETO NUMERO 15311.
+P.O. 22 DE MARZO DE 2010.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1996)</small>
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
-PRIMERO.- Las asociaciones religiosas, legalmente constituidas, que hubieren obtenido la declaratoria de procedencia por parte de la Secretaría de Gobernación, a partir del 16 de julio de 1992 a la fecha de publicación del presente decreto, podrán beneficiarse con la exención del pago del Impuesto Sobre Transmisiones Patrimoniales, hasta el 31 de diciembre de 1997.
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 30 DE DICIEMBRE DE 1993.
-
-DECRETO NUMERO 15315.
-
-Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 8 DE OCTUBRE DE 1994.
-
-UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 11 DE MAYO DE 1995.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 22 DE AGOSTO DE 1996.
-
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 31 DE OCTUBRE DE 1996.
-
-ÚNICO.- El presente decreto entrará en vigor ocho días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 5 DE DICIEMBRE DE 1996.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 9 DE ENERO DE 1997.
-
-Único. El presente decreto entrará en vigor el día 1º de enero de 1997, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 25 DE ENERO DE 1997.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 28 DE JUNIO DE 1997.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 9 DE DICIEMBRE DE 1997.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-Primero.- El presente decreto entrará en vigor en su totalidad el día 1º de enero de 1998, para los municipios de Guadalajara y Zapopan. Para Los Municipios de Puerto Vallarta, Tepatitlán de Morelos, Tlaquepaque, Tonalá y Villa Corona, Jalisco, regirán a partir del día 1º de enero de 1998, salvo las disposiciones relativas al impuesto predial que entrarán en vigor el día 1º de enero de 1999. Para los demás municipios de la entidad empezarán a surtir efectos el día 1º de enero de 1998, salvo las disposiciones del impuesto predial que entrarán en vigor el día 1º de enero del año 2000.
-
-Segundo.- Se derogan todas aquellas disposiciones que se opongan a (sic) al presente decreto.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1997)</small>
-
-Tercero.- Publíquese el texto íntegro de este decreto en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 27 DE DICIEMBRE DE 1997.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 19 DE FEBRERO DE 1998.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 29 DE AGOSTO DE 1998.
-
-ÚNICO. Este decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 31 DE DICIEMBRE DE 1998.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 25 DE FEBRERO DE 1999.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 1 DE ABRIL DE 1999.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 3 DE JUNIO DE 1999.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 7 DE AGOSTO DE 1999.
-
-ÚNICO.- Este decreto entrará en vigor al día 1°/01/00 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 7 DE DICIEMBRE DE 1999.
-
-ÚNICO.- El presente Decreto entrará en vigor el día primero de Enero del año 2000, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 25 DE JULIO DE 2000.
-
-Único.- Este Decreto entrará en vigor el 1 de febrero del 2001, previa publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 23 DE ENERO DE 2001.
-
-ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 3 DE FEBRERO DE 2001.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 21 DE JULIO DE 2001.
-
-DECRETO NUMERO 19112.
-
-ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 21 DE JULIO DE 2001.
-
-DECRETO NUMERO 19113.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 12 DE FEBRERO DE 2002.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
-
-P.O. 21 DE MAYO DE 2002.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 11 DE SEPTIEMBRE DE 2003.
-
-PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-TERCERO.- Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
-
-CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2004, una partida que haga frente a su responsabilidad patrimonial.
-
-P.O. 30 DE DICIEMBRE DE 2003.
-
-PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco", aplicándose lo dispuesto en los siguientes artículos transitorios.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
-
-TERCERO. La Auditoría Superior iniciará sus funciones a la entrada en vigor del presente decreto, y su titular será el actual Contador Mayor de Hacienda, hasta el 31 de julio del año 2004.
-
-CUARTO. La revisión de la cuenta pública, que incluye el informe de avance de gestión financiera, conforme a las disposiciones de la ley contenida en el artículo primero de este decreto, se efectuará a partir de la cuenta pública del año 2004. Las revisiones de las cuentas públicas de los años 1999, 2000, 2001, 2002 y 2003 se efectuarán conforme a las disposiciones vigentes en dichos ejercicios.
-
-QUINTO. En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a la Contaduría Mayor de Hacienda, se entenderán referidos a la Auditoría Superior del Estado; igualmente, cuando se haga referencia al Contador Mayor, se entenderá referido al Auditor Superior.
-
-SEXTO. Todos los inmuebles, equipos, archivos, expedientes, papeles y, en general, los bienes de la Contaduría Mayor de Hacienda, pasarán a la Auditoría Superior del Estado quedando destinados y afectos a su servicio. La Auditoría Superior del Estado igualmente se subroga en todos los derechos y obligaciones de aquella.
-
-Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar parte de la Auditoría Superior del Estado, respetándose sus derechos en los términos de ley.
-
-SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
-
-OCTAVO. Dentro del término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, deberá expedirse el Reglamento Interno de la Auditoría Superior del Estado de Jalisco.
-
-P.O. 28 DE FEBRERO DE 2004.
-
-DECRETO NUMERO 20439.
-
-Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 28 DE FEBRERO DE 2004.
-
-DECRETO NUMERO 20440.
-
-Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 4 DE MAYO DE 2004.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 26 DE AGOSTO DE 2004.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
-
-P.O. 23 DE JUNIO DE 2005.
-
-ÚNICO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Jalisco" y tendrá efectos a partir del 11 de enero de 2005.
-
-P.O. 7 DE JULIO DE 2005.
-
-ÚNICO. El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 11 DE NOVIEMBRE DE 2006.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 7 DE DICIEMBRE DE 2006.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 4 DE ENERO DE 2007.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 25 DE ENERO DE 2007.
-
-PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO.- Tratándose de la cuenta pública municipal de los Ayuntamientos del Estado, correspondiente a los meses del ejercicio fiscal del año 2007, ésta deberá presentarse conforme a las disposiciones que estuvieron en vigor antes de la entrada en vigor de este decreto.
-
-TERCERO.- En lo conducente, cuando en las disposiciones legales o administrativas de aplicación municipal; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a ramos, partidas y claves, se entenderán referidos a capítulos, conceptos y partidas.
-
-P.O. 5 DE JULIO DE 2008.
-
-Primero. El presente decreto entrará en vigor al día 1.° de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-Envíese la minuta correspondiente al Poder Ejecutivo del Estado, para los efectos del artículo 31 de la Constitución Política del estado de Jalisco, una vez que haya entrado en vigor la reforma constitucional contenida en la minuta de decreto 22222.
-
-Segundo. Se abroga la Ley de Fiscalización Superior del Estado de Jalisco publicada en el periódico oficial El Estado de Jalisco, el 30 de diciembre de 2003 y sus respectivas reformas; asimismo, se derogan todas las disposiciones legales que se opongan al presente decreto.
-
-Tercero. El actual Auditor Superior del Estado, durará en el cargo hasta el 31 de julio de 2008, al término del cual podrá ser nuevamente designado. Para lo cual deberán observarse los requisitos y procedimientos establecidos en los artículos 29, 30 y 31 de la Ley de Fiscalización y Auditoría Pública del Estado de Jalisco y sus Municipios.
-
-Cuarto. En caso de no haber designación de Auditor Superior del Estado al día primero de agosto de 2008, el actual titular continuará en el cargo, en tanto no sea electo uno nuevo o no sea aprobado el actual conforme los procedimientos establecidos en la ley.
-
-Quinto. Los sujetos auditables podrán acogerse a los procedimientos y disposiciones que establece la presente ley en la revisión de las cuentas públicas o estados financieros correspondientes a los ejercicios fiscales que no se hubieren dictaminado por la Auditoría Superior del Estado, mediante solicitud dirigida al Auditor Superior del Estado de Jalisco.
-
-La Auditoría Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
-
-Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el presente artículo tendrán un término de quince días a partir de la entrega de su solicitud para proporcionar el domicilio al que se refiere el artículo 5 de esta ley.
-
-En caso que los sujetos auditables que no se acojan a este decreto, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco, vigente en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
-
-Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoría Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
-
-Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoría Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior.
-
-Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoría Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
-
-Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
-
-Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoría Superior del Estado.
-
-Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
-
-P.O. 31 DE DICIEMBRE DE 2009.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 30 DE OCTUBRE DE 2010.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 3 DE MARZO DE 2011.
-
-UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 11 DE OCTUBRE DE 2011.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 29 DE OCTUBRE DE 2011.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 15 DE DICIEMBRE DE 2011.
-
-PRIMERO. El presente decreto entrará en vigor a los treinta días de su publicación en el periódico oficial El Estado de Jalisco.
-
-SEGUNDO. Noventa días hábiles después de la publicación del presente decreto, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado de Jalisco, emitirá la norma ambiental que establece las especificaciones técnicas para la instalación de sistemas de naturación.
-
-P.O. 27 DE DICIEMBRE DE 2011.
-
-DECRETO NÚMERO 23910/LIX/11, POR EL QUE SE REFORMAN LOS ARTÍCULOS 36, 63, PÁRRAFO TERCERO, 318, PÁRRAFO PRIMERO, 319 Y 320 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
-
-UNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 27 DE DICIEMBRE DE 2011.
-
-DECRETO NÚMERO 23911/LIX/11, POR EL QUE SE ADICIONAN UNA FRACCIÓN XVI AL ARTÍCULO 112, UNA FRACCIÓN VII AL ARTÍCULO 131-BIS, Y UN QUINTO PÁRRAFO AL ARTÍCULO 147, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-SEGUNDO. Treinta días hábiles después de la publicación del presente decreto, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado de Jalisco emitirá los lineamientos para la expedición de las constancias respectivas a los contribuyentes que acrediten el cumplimiento de los beneficios fiscales implementados en el presente decreto.
-
-P.O. 27 DE DICIEMBRE DE 2011.
-
-DECRETO NÚMERO 23955/LIX/11, POR EL QUE SE REFORMA EL ARTÍCULO 147 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
-
-PRIMERO. Los artículos primero y segundo del presente decreto, relativos (sic) la Ley de Hacienda Municipal y el Código Urbano para el Estado de Jalisco, entrarán en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-SEGUNDO. El artículo tercero del presente decreto, relativo a la Ley de Ingresos del municipio de Guadalajara, Jalisco, para el ejercicio fiscal de 2012, entrará en vigor el día 1.° de enero de 2012, previa su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 18 DE AGOSTO DE 2012.
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO. El Titular del Poder Ejecutivo, los Ayuntamientos y los organismos operadores, en el ámbito de sus respectivas competencias, deberán expedir o promover se emitan o modifiquen los reglamentos necesarios para la aplicación del presente Decreto en un término de noventa días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
-
-> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
-
-TERCERO. Los Ayuntamientos procederán a emitir los reglamentos municipales para regular la prestación de los servicios de agua potable, alcantarillado, drenaje y tratamiento de sus aguas residuales, conforme a sus atribuciones constitucionales y las disposiciones que se establecen en el presente decreto y en la Ley del Gobierno y la Administración Pública Municipal.
-
-CUARTO. Los Ayuntamientos y los organismos operadores deberán constituir, integrar y operar su respectivo consejo tarifario, en un término no mayor de treinta días naturales contados (sic) partir del día siguiente de la entrada en vigor del presente decreto.
-
-Los Consejos Tarifarios deberán establecer la tarifa para el ejercicio fiscal 2013 a más tardar el 30 de septiembre de 2012. En caso de que no se haya realizado en dicha fecha, se actualizarán las tarifas vigentes conforme al índice nacional de precios al consumidor al mes de noviembre de 2012, para su vigencia a partir del año 2013.
-
-QUINTO. Los Ayuntamientos y sus organismos operadores, para asumir la administración de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, con la atribución de autorizar sus cuotas o tarifas conforme las disposiciones de la presente Ley, será necesario hayan cumplido con:
-
-> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
-
-I. Constituir el Consejo Tarifario, de conformidad con las disposiciones del presente Decreto; y
-
-II. Formular y aprobar los instrumentos administrativos necesarios para adecuarse a las presentes reformas.
-
-> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
-
-SEXTO. A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de aplicación correspondiente a ese Municipio.
-
-P.O. 23 DE AGOSTO DE 2012.
-
-ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 8 DE ABRIL DE 2014.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 31 DE JULIO DE 2014.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 5 DE AGOSTO DE 2014.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 26 DE AGOSTO DE 2014.
-
-PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO. Se abroga la Ley de Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios.
-
-TERCERO. El Ejecutivo del Estado contará con el término no mayor de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, para expedir el Reglamento de la presente Ley.
-
-CUARTO. La Secretaría contará con un término de ciento ochenta días hábiles para integrar y publicar el inventario del patrimonio Cultural del Estado de Jalisco, sin perjuicio de que se actualice posteriormente.
-
-QUINTO. La Secretaría de Cultura contará con un término de noventa días para instituir un Centro de Información del Patrimonio Cultural del Estado.
-
-SEXTO. Los bienes que se encuentren protegidos por la Ley (sic) Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del Patrimonio Cultural, en los términos de la presente ley.
-
-P.O. 9 DE OCTUBRE DE 2014.
-
-DECRETO NÚMERO 24966/LX/14 POR EL QUE SE REFORMA EL ARTÍCULO 173 FRACCIONES II Y III; Y SE ADICIONA UN ARTÍCULO 170 BIS Y UNA FRACCIÓN IV AL ARTÍCULO 173 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
-
-ÚNICO. El presente decreto entrará en vigor el 1.° de enero de 2015, previa publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 9 DE OCTUBRE DE 2014.
-
-DECRETO NÚMERO 24967/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 20 Y 316 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
-
-ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 2 DE DICIEMBRE DE 2014.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 21 DE MARZO DE 2015.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-SEGUNDO. Treinta días hábiles después de la publicación del presente decreto, la dependencia municipal competente en la materia, emitirá los lineamientos para la emisión de las constancias respectivas a los particulares que acrediten el cumplimiento de los lineamientos de la norma estatal de naturación de techo.
-
-De igual forma la Tesorería, treinta días hábiles después de la publicación emitirá los lineamientos para aplicar las reducciones a las que se refiere el presente decreto.
-
-P.O. 11 DE OCTUBRE DE 2016.
+SEGUNDO.- El personal que se encontraba ejerciendo las actividades establecidas en el Reglamento Municipal abrogado pasará a disposición de la secretaría de la Contraloría Municipal a efecto de que en coordinación con la Secretaría de Administración Municipal determinen sus (sic) situación jurídica. Por lo que hace a los recursos materiales se reasignarán previo acuerdo entre las Secretarías antes citadas.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
 
