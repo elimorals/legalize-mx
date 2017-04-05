@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-asistencia-y-prevencion-de-la-violencia-familiar-8607"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-08"
-last_updated: "2014-12-18"
+last_updated: "2017-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8607&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-06-26"
 
 LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE ABRIL DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 8 de julio de 1996 y republicada en la Primera Sección del Diario Oficial de la Federación, el martes 9 de julio de 1996.
 
@@ -86,23 +86,35 @@ I.- Generadores de Violencia Familiar: Quienes realizan actos de maltrato físic
 
 II.- Receptores de Violencia Familiar: Los grupos o individuos que sufren el maltrato físico, verbal, psicoemocional o sexual en su esfera biopsicosexual; y
 
-> <small>(REFORMADA, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE ABRIL DE 2017)</small>
 
-III.- Violencia Familiar: Aquel acto de poder u omisión intencional, recurrente o cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional o sexualmente a cualquier miembro de la familia dentro o fuera del domicilio familiar, que tengan parentesco o lo hayan tenido por afinidad civil; matrimonio, concubinato o mantengan una relación de hecho, y que tiene por efecto causar daño, y que puede ser de cualquiera de las siguientes clases:
+III.- Violencia Familiar: Aquel acto de poder u omisión intencional, recurrente o cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexualmente, económicamente, patrimonialmente o contra los derechos reproductivos, a cualquier miembro de la familia dentro o fuera del domicilio familiar, que tengan parentesco o lo hayan tenido por afinidad, civil; matrimonio, concubinato o mantengan una relación de hecho, y que tiene por efecto causar daño, y que puede ser de cualquiera de las siguientes clases:
 
-> <small>(REFORMADO, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 2017)</small>
 
-a) Maltrato Físico.- Todo acto de agresión intencional en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar inmovilizar o causar daño a la integridad física del otro, encaminado hacia su sometimiento y control;
+A) Violencia Física.- Todo acto de agresión intencional en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro, encaminado hacia su sometimiento y control;
 
-> <small>(REFORMADO, G.O. 2 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 2017)</small>
 
-b) Maltrato Psicoemocional.- Al patrón de conducta consistente en actos u omisiones repetitivos cuyas formas de expresión pueden ser: prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias, de abandono y que provoquen en quien las recibe, deterioro, disminución o afectación a su estructura de personalidad.
+B) Violencia Psicoemocional.- Al patrón de conducta consistente en actos u omisiones repetitivos, cuyas formas de expresión pueden ser: prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias, de abandono y que provoquen en quien las recibe, deterioro, disminución o afectación a su estructura de personalidad.
 
-Todo acto que se compruebe que ha sido realizado con la intención de causar daño moral a un menor de edad, será considerado maltrato emocional en los términos de este artículo, aunque se argumente como justificación la educación y formación del menor.
+Todo acto que se compruebe que ha sido realizado con la intención de causar un daño moral a un menor de edad, será considerado maltrato emocional en los términos de este artículo, aunque se argumente como justificación la educación y formación del menor.
 
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 2017)</small>
 
-c) Maltrato Sexual.- Al patrón de conducta consistente en actos u omisiones reiteradas y cuyas formas de expresión pueden ser: obligar a las personas mencionadas en la fracción III de este artículo, a la realización de prácticas sexuales no deseadas o que generen dolor, practicar la celotipia para el control, manipulación o dominio de la pareja y que generen un daño. Así como los delitos establecidos en el Libro Segundo, Parte Especial, Título Quinto, del Código Penal para el Distrito Federal, es decir, contra la libertad y la Seguridad Sexuales y el Normal Desarrollo Psicosexual, respecto a los cuales la presente Ley sólo surte efectos en el ámbito asistencial y preventivo.
+C) Violencia Sexual.- Patrón de conducta consistente en actos u omisiones reiteradas y cuyas formas de expresión pueden ser: obligar a las personas mencionadas en la fracción III de este artículo, a la realización de prácticas sexuales no deseadas o que generen dolor, practicar la celotipia para el control, manipulación o dominio de la pareja y que generen un daño. Así como los delitos establecidos en el Libro Segundo, Parte Especial, Título Quinto, del Código Penal para el Distrito Federal, es decir, contra la libertad y la Seguridad Sexuales (sic) y el Normal Desarrollo Psicosexual, respecto a los cuales la presente Ley sólo surte efectos en el ámbito asistencial y preventivo.
+
+> <small>(ADICIONADO, G.O. 5 DE ABRIL DE 2017)</small>
+
+D) Violencia Patrimonial: todo acto u omisión que ocasiona daño ya sea de manera directa o indirecta, a los bienes muebles o inmuebles, en menoscabo de su patrimonio; también puede consistir en la perturbación a la posesión, a la propiedad, la sustracción, destrucción, menoscabo, desaparición, ocultamiento o retención de objetos, documentos personales, bienes o valores, derechos patrimoniales o recursos económicos;
+
+> <small>(ADICIONADO, G.O. 5 DE ABRIL DE 2017)</small>
+
+E) Violencia Económica: toda acción u omisión que afecta la economía del sujeto pasivo, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas y puede consistir en la restricción o limitación de los recursos económicos;
+
+> <small>(ADICIONADO, G.O. 5 DE ABRIL DE 2017)</small>
+
+F) Violencia contra los derechos reproductivos: toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como el acceso a servicios de aborto seguro en el marco previsto en los ordenamientos relativos para la interrupción legal del embarazo, a servicios de atención prenatal, así como a servicios obstétricos de emergencia.
 
 > <small>(REFORMADO, G.O. 2 DE JULIO DE 1998)</small>
 
@@ -236,17 +248,17 @@ XI. Solicitar al Ministerio Público o a la autoridad jurisdiccional, según cor
 
 XII. Solicitar a la Secretaría de Seguridad Pública del Distrito Federal información que sea captada con equipos o sistemas tecnológicos, de conformidad con la Ley que Regula el Uso de Tecnología para la Seguridad Pública del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE ABRIL DE 2017)</small>
 
-###### ARTÍCULO 13.
+###### Artículo 13.
 
-La Secretaría de Gobierno del Distrito Federal, deberá:
+La consejería Jurídica y de Servicios Legales de la Ciudad de México, deberá:
 
 I. Coadyuvar a través del Registro Civil a la difusión del contenido y alcances de la presente Ley;
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 2017)</small>
 
-II. Promover la capacitación y sensibilización de los defensores públicos y personal profesional auxiliar, que presten sus servicios en la Defensoría Pública del Distrito Federal, en materia familiar y penal, a efecto de mejorar la atención de los receptores de la violencia familiar que requieran la intervención de dicha defensoría; y
+II. Promover la capacitación y sensibilización de los defensores públicos y personal profesional auxiliar, que presten sus servicios en la Defensoría Pública de la Ciudad de México, en materia familiar y penal, a efecto de mejorar la atención de los receptores de la violencia familiar que requieran la intervención de dicha defensoría; y
 
 III. Emitir los lineamientos técnico-jurídicos a que se sujetará el procedimiento a que alude el Título Cuarto, Capítulo I de la Ley.
 
@@ -541,3 +553,15 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 5 DE ABRIL DE 2017.
+
+> <small>[N. DE E. A TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL DISTRITO FEDERAL".]</small>
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+Las presentes reformas, adiciones y derogación a la Ley entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
