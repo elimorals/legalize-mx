@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2014-11-28"
+last_updated: "2017-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACIÓN DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE ABRIL DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -274,7 +274,9 @@ XX. Prestar servicios bibliotecarios a través de bibliotecas públicas, a fin d
 
 XXI. Promover la investigación pedagógica para elevar la calidad del sistema educativo.
 
-XXII. Desarrollar innovaciones pedagógicas para mejorar la calidad educativa.
+> <small>(REFORMADA, G.O. 5 DE ABRIL DE 2017)</small>
+
+XXII. Desarrollar innovaciones pedagógicas para mejorar la calidad educativa. Así como promover el desarrollo de competencias digitales de alumnos y docentes, para el mejor uso y aprovechamiento del internet, los dispositivos y recursos tecnológicos.
 
 XXIII. Evaluar permanentemente los métodos y técnicas de formación y capacitación del personal docente para la planificación, desarrollo y evaluación del proceso educativo.
 
@@ -1382,7 +1384,7 @@ La integración y funcionamiento de los consejos de escuela, de zona, de delegac
 
 ###### Artículo 176.
 
-En cada uno de los establecimientos de educación básica y medía (sic) superior que integran el sistema educativo del Distrito Federal, los que ejercen la patria potestad o tutores podrán constituirse en asociaciones de padres de familia, para intervenir en las siguientes funciones:
+En cada uno de los establecimientos de educación básica y media superior que integran el sistema educativo del Distrito Federal, los que ejercen la patria potestad o tutores podrán constituirse en asociaciones de padres de familia, para intervenir en las siguientes funciones:
 
 I. Defender los derechos que en materia educativa tienen sus asociados.
 
@@ -1652,7 +1654,7 @@ TERCERO.- El Jefe de Gobierno del Distrito Federal deberá asignar anualmente la
 
 CUARTO.- El Jefe de Gobierno del Distrito Federal en conjunto con las autoridades educativas del Distrito Federal, incluirán en los Programas Educativos de los niveles de Educación Media Superior y Superior, como materia con valor curricular, las actividades relacionadas con la Educación Física y Deporte.
 
-QUINTO.- De acuerdo al presupuesto anual todos los recursos destinados a la práctica de actividades relacionadas con la Educación Física y el Deporte deberán ir etiquetadas para tal fin.
+QUINTO.- De acuerdo al presupuesto anual todos los recursos destinados a la práctica de actividades relacionadas con la Educación Física y el Deporte deberán ir etiquetadas (sic) para tal fin.
 
 G.O. 22 DE JULIO DE 2010.
 
@@ -1693,3 +1695,15 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 5 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- La Asamblea Legislativa del Distrito Federal atendiendo a la suficiencia presupuestal deberá considerar recursos suficientes en el Presupuesto de Egresos del Distrito Federal, a efecto de cumplir con lo establecido en el artículo 13 fracción XXII, conforme a los programas y las reglas de operación que emita la Secretaría de Educación del Distrito Federal para tal objetivo.
+
+CUARTO.- La Secretaría de Educación del Distrito Federal, deberá enviar a la Asamblea Legislativa del Distrito Federal una relación con los programas enfocados a atender lo establecido por el artículo 13 fracción XXII y emitir las reglas de operación de los programas para cumplir con los objetivos del presente decreto en un lapso de 90 días contados a partir de la publicación del presente decreto.
