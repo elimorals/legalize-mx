@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-del-instituto-electoral-del-estado-de-27990
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-30"
-last_updated: "2010-11-19"
+last_updated: "2017-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE
 
-> <small>[N. DE E. EL ACUERDO NO. CG/015/10, EXPEDIDO POR EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 19 DE NOVIEMBRE DE 2010, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
-
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2017.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el jueves 30 de enero de 2003.
 
@@ -79,27 +77,47 @@ IV. Consejo General: El Consejo General del Instituto Electoral del Estado de Ca
 
 V. Consejeros: Los Consejeros Electorales del Consejo General;
 
-VI. Presidente: El Consejero Presidente del Consejo General;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+VI. Presidente: La Presidencia del Consejo General;
 
 VII. Secretario Ejecutivo: El Secretario Ejecutivo del Consejo General;
 
-VIII. Mandos Superiores: Consejeros Electorales del Consejo General y
-
-Secretario Ejecutivo;
+VIII. Mandos Superiores: Consejeros Electorales del Consejo General y Secretario Ejecutivo;
 
 IX. Representantes de Partidos: Los Representantes de los Partidos Políticos acreditados ante el Consejo General;
 
 X. Junta General: La Junta General Ejecutiva del Instituto;
 
-XI. Mandos Medios: Directores Ejecutivos y Titulares de los Órganos
+XI. Mandos Medios: Directores Ejecutivos y Titulares de los Órganos Técnicos;
 
-Técnicos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XII. Dirección: La Dirección Ejecutiva de Administración y Prerrogativas del Instituto;
+XII. Dirección de Administración: La Dirección Ejecutiva de Administración y Prerrogativas del Instituto;
 
 XIII. Consejos Distritales: Los Consejos Electorales Distritales del Instituto; y
 
 XIV. Consejos Municipales: Los Consejos Electorales Municipales del Instituto.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XV. DESPEN: Dirección Ejecutiva del Servicio Profesional Electoral Nacional del Instituto Nacional Electoral;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XVI. Estatuto: Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XVII. Ley de Instituciones: Ley de Instituciones y Procedimientos Electorales del Estado de Campeche;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XVIII. Ley General: Ley General de Instituciones y Procedimientos Electorales, y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XIX. Servicio: Servicio Profesional Electoral Nacional.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -154,6 +172,10 @@ a) Contraloría Interna;
 b) Asesoría Jurídica; y
 
 c) Unidad de Fiscalización de los Recursos de los Partidos Políticos y Agrupaciones Políticas; y
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+d) Unidad de Vinculación con el Instituto Nacional.
 
 IV. Órgano en materia de Transparencia:
 
@@ -219,23 +241,31 @@ Todo Informe, Dictamen, Proyecto de Resolución o Acuerdo que emita cualquiera d
 
 ### Capítulo Tercero. De las Comisiones del Consejo General
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Art. 7.
 
-Las Comisiones previstas en los artículos 173 y 174 del Código, contribuyen al desempeño de las atribuciones del Consejo General y ejercen las facultades que les confieren el citado ordenamiento legal, los acuerdos y resoluciones que emita el propio Consejo General.
+Las Comisiones previstas en los artículos 272 y 273 de la Ley de Instituciones, contribuyen al desempeño de las atribuciones del Consejo General y ejercen las facultades que les confieren el citado ordenamiento legal, los acuerdos y resoluciones que emita el propio Consejo General.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 En este sentido, el Consejo General contará con las siguientes comisiones:
 
 I. Prerrogativas y Partidos Políticos, Organización Electoral, y Capacitación Electoral y Educación Cívica; y
 
-II. Las demás que el Consejo General integre para el mejor desempeño de sus atribuciones.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+II. De Seguimiento al Servicio Profesional Electoral Nacional, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2017)</small>
+
+III. Las demás que el Consejo General integre para el mejor desempeño de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Art. 8.
 
-Las Comisiones de Prerrogativas y Partidos Políticos, de Organización Electoral, y de Capacitación Electoral y Educación Cívica, funcionarán de manera permanente y se integrarán con un máximo de 3 Consejeros Electorales aprobados por el Consejo General. Las demás Comisiones que, para el mejor desempeño de sus atribuciones integre el Consejo General, funcionarán en la forma que establezca el correspondiente Acuerdo, presididas siempre por un Consejero Electoral. Las primeras tendrán cada una como Secretario Técnico al Director Ejecutivo que al efecto establezca el Código; las segundas tendrán como Secretario Técnico al Director Ejecutivo que determine el Acuerdo respectivo, quien asistirá a las reuniones con derecho a voz pero sin voto.
+Las Comisiones de Prerrogativas y Partidos Políticos, de Organización Electoral, de Capacitación Electoral y Educación Cívica, y de Seguimiento al Servicio Profesional Electoral Nacional, funcionarán de manera permanente y se integrarán con un máximo de 3 Consejeros Electorales aprobados por el Consejo General. Las demás Comisiones que, para el mejor desempeño de sus atribuciones integre el Consejo General, funcionarán en la forma que establezca el correspondiente Acuerdo, presididas siempre por un Consejero Electoral. Las comisiones tendrán cada una como Secretario Técnico al Director Ejecutivo, al titular del Órgano Técnico, del Área Administrativa Especializada o Área Administrativa, que al efecto establezca la Ley de Instituciones, o determine el Acuerdo respectivo, acorde a la naturaleza de sus funciones; quien funja como titular de la Secretaría Técnica asistirá a las reuniones con derecho a voz pero sin voto.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -615,49 +645,91 @@ XI. Las demás que le confiera el Código u otras disposiciones aplicables.
 
 La Secretaría Ejecutiva es un Órgano Ejecutivo de carácter unipersonal. Su titular actuará como Secretario Ejecutivo del Consejo General y se encargará de coordinar la Junta General y de conducir la administración, supervisar y ejecutar, en su caso, el adecuado cumplimiento de los Acuerdos, Dictámenes y Resoluciones de uno y otro órgano.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Art. 38.
 
-Para el cumplimiento de las atribuciones que el Código le confiere, corresponde al Secretario Ejecutivo:
+Para el cumplimiento de las atribuciones que la Ley de Instituciones le corresponde al Secretario Ejecutivo:
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 I. Supervisar y ejecutar, en su caso, el adecuado cumplimiento de los acuerdos y resoluciones del Consejo General y de la Junta General;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 II. Acordar los asuntos de su competencia con el Presidente;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 III. Preparar, revisar y dar seguimiento a los Acuerdos y Resoluciones que expida la Junta General, de conformidad con los criterios emitidos en las reuniones de la misma;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 IV. Coordinar las actividades de las Direcciones Ejecutivas y Órganos Técnicos del Instituto, de conformidad con lo dispuesto en este Reglamento; y recibir en acuerdo ordinario a sus titulares;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 V. Colaborar con las Comisiones del Consejo General, a solicitud de éstas;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 VI. Establecer los mecanismos para la adecuada coordinación de acciones entre la Junta General, las Direcciones Ejecutivas y los Órganos Técnicos;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 VII. Coordinar y supervisar la integración de los archivos de las áreas del Instituto;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 VIII. Coordinar y dirigir las actividades de la Unidad de Acceso a la Información Pública del Instituto, señaladas en el Código y en la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 IX. Expedir, en su caso, copia certificada de los documentos que obren en los archivos del Instituto;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 X. Ejercer, en su caso, la representación legal del Instituto en los procedimientos administrativos y judiciales en los que éste sea parte;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XI. Elaborar un catálogo de los Acuerdos y demás disposiciones que emita el Consejo General;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 XII. Proveer lo necesario para la publicación en el Periódico Oficial del Estado de los resolutivos de Acuerdos y Resoluciones que emite el Consejo General, y demás actos o instrumentos que por su propia naturaleza deban ser publicados;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XIII. Suscribir junto con el Presidente convenios y contratos a nombre del Instituto;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 XIV. Supervisar la elaboración del cronograma electoral relativo a las elecciones ordinarias o extraordinarias que se requieran y de las convocatorias respectivas;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XV. Realizar las acciones conducentes para sustanciar y formular los proyectos de Acuerdo o Resolución de los procedimientos administrativos sancionadores, en los términos del Código y del Reglamento de la materia;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 XVI. Suscribir mancomunadamente con los titulares de la Dirección Ejecutiva de Administración y Prerrogativas y/o del Departamento de Contabilidad, las cuentas bancarias a nombre del Instituto;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XVII. Conducir la administración en los términos de la fracción XV del artículo 181 del Código;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 XVIII. Recibir los avisos de recuento de votos en la totalidad de las casillas en los Distritos, Municipios y Secciones Municipales en los que se acrediten los supuestos legales previstos en el artículo 426 del Código;
 
-XIX. Las demás que le confiera el Código u otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2017)</small>
+
+XIX. Fungir como autoridad resolutora del Procedimiento Laboral Disciplinario, de acuerdo a las facultades establecidas en el Estatuto y lineamientos en la materia, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE ABRIL DE 2017)</small>
+
+XX. Las demás que le confiera la Ley de Instituciones y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -733,17 +805,25 @@ Corresponde a la Dirección Ejecutiva de Administración y Prerrogativas:
 
 1. En materia de Administración:
 
-I. Establecer y aplicar las políticas generales, criterios técnicos y lineamientos a que se sujetarán los programas de administración de personal, recursos materiales y servicios generales, recursos financieros y de organización del Instituto;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+I. Establecer y aplicar las políticas generales, criterios técnicos y lineamientos a que se sujetarán los programas de administración de personal, recursos humanos, materiales y servicios generales, recursos financieros y de organización del Instituto;
 
 II. Dirigir y realizar la elaboración de los documentos normativo administrativos necesarios para el desarrollo de las funciones del Instituto, sometiéndolos a la aprobación de la Junta General;
 
-III. Organizar y dirigir la administración de los recursos materiales, financieros, así como la administración del personal del Instituto;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+III. Organizar y dirigir la administración de los recursos humanos, materiales, financieros, así como la administración del personal del Instituto;
 
 IV. Elaborar el anteproyecto de presupuesto de egresos del Instituto y turnarlo al Presidente, a la Comisión de Prerrogativas y Partidos Políticos, al Secretario Ejecutivo y a la Contraloría Interna;
 
-V. Diseñar y establecer los mecanismos necesarios que permitan evaluar los resultados obtenidos en los programas de administración de los recursos materiales y financieros de organización y administración del personal;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-VI. Llevar a cabo la selección, reclutamiento, formación y desarrollo del personal, en coordinación con el Secretario Ejecutivo;
+V. Diseñar y establecer los mecanismos necesarios que permitan evaluar los resultados obtenidos en los programas de administración de los recursos humanos, materiales y financieros de organización y administración del personal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+VI. Llevar a cabo la selección, reclutamiento, formación, desarrollo y evaluación del personal de la Rama Administrativa;
 
 VII. Elaborar los nombramientos del personal que labore para el Instituto y presentarlos para su firma al Presidente de la Junta General y del Secretario Ejecutivo;
 
@@ -753,31 +833,49 @@ IX. Formular el inventario de los bienes patrimoniales del Instituto, mantenerlo
 
 X. Elaborar los formatos de resguardo del mobiliario y equipo, e informar al Secretario Ejecutivo;
 
-XI. Coordinar y supervisar las actividades en materia informática del Instituto;
+XI. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
 XII. Elaborar dictámenes, solicitar avalúos y demás trámites respecto de bienes no útiles para las actividades del Instituto, conforme a las disposiciones establecidas por el Reglamento de la materia;
 
 XIII. Recibir los recursos financieros de la Secretaría de Finanzas del Gobierno del Estado; y
 
-XIV. Las demás que le confieran el Código u otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2017)</small>
 
-2. En materia de Prerrogativas y Partidos Políticos:
+XIV. Ministrar el financiamiento público aprobado para los partidos y agrupaciones políticas, y en su caso, candidatos independientes;
 
-I. Planear, dirigir y supervisar la elaboración del programa de Prerrogativas y Partidos Políticos;
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-II. Presentar a la Junta General el antedicho programa de prerrogativas;
+XV. Elaborar el Plan Anual de Capacitación para el personal de la Rama Administrativa y presentarlo ante la Junta General en el mes de julio del año anterior a su ejecución;
 
-III. Establecer las políticas generales, criterios técnicos y lineamientos a que se sujetará el indicado programa;
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-IV. Realizar el procedimiento de liquidación de bienes de aquellos partidos que pierdan su registro, de conformidad con lo establecido en el artículo 144 del Código; y
+XVI. Realizar el procedimiento de liquidación de bienes de aquellos partidos que pierdan su registro, conforme a la normatividad aplicable, y
 
-V. Las demás que le confieran el Código u otras disposiciones aplicables.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE ABRIL DE 2017)</small>
+
+XVII. Las demás que le confieran la Ley de Instituciones u otras disposiciones aplicables.
+
+2. (DEROGADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)
+
+I. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
+
+II. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
+
+III. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
+
+IV. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
+
+V. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 43.
 
 Corresponde a la Dirección Ejecutiva de Organización Electoral:
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
+1. En materia de Organización Electoral:
 
 I. Elaborar y ejecutar los programas de organización electoral;
 
@@ -787,15 +885,21 @@ III. Supervisar y coordinar las actividades de organización electoral que reali
 
 IV. Autorizar el correspondiente programa de visitas de supervisión a los Consejos Distritales y Municipales del Instituto;
 
-V. Llevar a cabo programas de reclutamiento, selección, capacitación y control de los ciudadanos que participarán como asistentes electorales;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+V. Llevar a cabo programas de reclutamiento, selección, capacitación y control de los ciudadanos que participarán como asistentes electorales, en caso de que dicha función fuera delegada por el Instituto Nacional;
 
 VI. Coadyuvar en su caso, en la elaboración del proyecto de la convocatoria para la designación de los consejeros distritales y municipales, así como en el procedimiento de selección;
 
-VII. Elaborar y presentar a la Junta General el proyecto de convocatoria para la selección y reclutamiento de asistentes electorales;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+VII. Elaborar y presentar a la Junta General el proyecto de convocatoria para la selección y reclutamiento de asistentes electorales, en caso de que dicha función fuera delegada por el Instituto Nacional;
 
 VIII. Evaluar periódicamente los programas que le sean autorizados;
 
-IX. Observar el cumplimiento, en materia de organización electoral, de los Acuerdos y demás disposiciones que emitan el Consejo General y la Junta General, así como dar seguimiento a su observancia por los órganos del Instituto;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+IX. Dar cumplimiento, en materia de organización electoral, a los acuerdos y demás disposiciones que emitan el Consejo General, la Junta General, así como los emitidos por el Instituto Nacional;
 
 X. Elaborar un catálogo de los Acuerdos y demás disposiciones que emitan el Consejo General y la Junta General, cuya observancia le corresponda;
 
@@ -803,19 +907,29 @@ XI. Supervisar que la instalación de las casillas se realice de acuerdo con las
 
 XII. Elaborar el Cronograma Electoral en el que se asentará la calendarización de actividades y eventos relacionados con el proceso electoral;
 
-XIII. Elaborar las convocatorias de las elecciones ordinarias o en su caso extraordinarias, en los términos establecidos en el Código;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XIV. Elaborar el Manual de Escrutinio y Cómputo Distrital y Municipal, que incluya el procedimiento para el recuento total y parcial de votos, y someterlo a la aprobación del Consejo General;
+XIII. Elaborar las convocatorias de las elecciones ordinarias o en su caso, extraordinarias, en los términos establecidos en la Ley de Instituciones y demás normatividad aplicable;
 
-XV. Realizar, asesorar y apoyar las diversas actividades relativas a la integración, instalación y funcionamiento de los Consejos Distritales y Municipales;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XVI. Coadyuvar con el Presidente y el Secretario Ejecutivo en la recepción de solicitudes de registro de candidatos, así como realizar el procedimiento de registro, validando la documentación presentada y verificando el cumplimiento de los requisitos legales, de conformidad con lo establecido en el Código de la materia, para someterlo a consideración del Consejo General;
+XIV. Elaborar los documentos necesarios para el Escrutinio y Cómputo Distrital y Municipal, que incluyan los procedimientos para el recuento total y parcial de votos, y someterlos a la aprobación del Consejo General;
 
-XVII. Coadyuvar con el Presidente del Consejo General en el registro supletorio de representantes de casilla, de conformidad con lo establecido en el Código de la materia;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XVIII. Establecer mecanismos para la supervisión de los procesos de impresión y producción de la documentación y materiales electorales;
+XV. Asesorar y coadyuvar en las actividades relativas a la integración, instalación y funcionamiento de los Consejos Distritales y Municipales, para los procesos electorales locales ordinarios, extraordinarios y en su caso, mecanismos de participación ciudadana;
 
-XIX. Elaborar las especificaciones técnicas de la documentación, material electoral y del Programa de Resultados Electorales Preliminares;
+XVI. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XVII. Coadyuvar, en su caso, con la Presidencia en el registro supletorio de representantes de casilla, conforme la Ley de Instituciones y demás normatividad aplicable, emitido por el Instituto Nacional;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XVIII. Elaborar el diseño con especificaciones técnicas y coordinar la producción de documentación y materiales electorales para las elecciones locales, y en su caso, los relativos a mecanismos de participación ciudadana, con base en la legislación local y la normatividad aplicable que al efecto emita el Instituto Nacional;
+
+XIX. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
 XX. Presentar a la Junta General Ejecutiva del Instituto las propuestas de sedes de los Consejos Electorales Distritales y Municipales;
 
@@ -823,13 +937,93 @@ XXI. Coordinar con la Dirección Ejecutiva de Administración y Prerrogativas lo
 
 XXII. Coordinar y dar seguimiento a las actividades de los Consejos Electorales Distritales y Municipales relativas al proceso electoral;
 
-XXIII. Recabar la información de los resultados de cada una de las elecciones que se realicen, con la finalidad de integrar las estadísticas electorales;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XXIV. Mantener actualizado el marco cartográfico electoral del Estado;
+XXIII. Recabar la información de los resultados de cada una de las elecciones que se realicen, con la finalidad de integrar las estadísticas electorales y en su caso, de los mecanismos de participación ciudadana para su procesamiento, análisis y difusión, así como su remisión al área correspondiente del Instituto Nacional, para su integración a la estadística nacional;
 
-XXV. Diseñar y operar un programa de información sobre el desarrollo de la jornada electoral; y
+XXIV. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
-XXVI. Las demás que le confieran el Código u otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXV. Coordinar y supervisar el diseño y ejecución del Sistema de Información de la Jornada Electoral (SIJE) o equivalente para dar cuenta de la información que se genere el día de la jornada electoral y, en su caso, coordinar la logística para la recopilación de información requerida para conteos rápidos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2017)</small>
+
+XXVI. Elaborar y coordinar la logística para el acompañamiento en los recorridos y visitas de examinación a los lugares donde se instalarán las casillas electorales, con los órganos desconcentrados del Instituto Nacional y presentar, en su caso, observaciones; difundir las listas de ubicación de casillas en la página de internet del Instituto y en otros medios que estime pertinentes;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXVII. Realizar los recorridos de acompañamiento y coadyuvar en la supervisión de instalación de las casillas de acuerdo con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXVIII. Operar el Sistema de Información de la Jornada Electoral (SIJE), así como de los demás programas que se establezcan acorde a la naturaleza de sus funciones, conforme a la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXIX. Coordinarse con el Instituto Nacional para vigilar y verificar la recolección de la documentación y expedientes de la casilla para su entrega a los Consejos Distritales y Municipales;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXX. Coordinar y supervisar la instalación de las bodegas y de los espacios de custodia así como los procedimientos para la recepción, resguardo, conteo, sellado, enfajillado y distribución de la documentación y materiales electorales;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXI. Instrumentar, recibir y dar seguimiento a los trámites para la recepción de solicitudes de los ciudadanos que quieran participar como observadores electorales y, en su caso, de los mecanismos de participación ciudadana en el ámbito local así como, en su caso, apoyar en la capacitación correspondiente para promover el ejercicio de derechos políticos y electorales;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXII. Incorporar a los sistemas informáticos del Instituto Nacional la información de las solicitudes de acreditación para observadores electorales, así como de los representantes de los partidos políticos y candidatos independientes ante mesas directivas de casilla y generales;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXIII. Coordinar la entrega de las listas nominales a los partidos políticos locales acreditados y en su caso, candidatos independientes o partidos políticos nacionales;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXIV. Coordinar y vigilar la destrucción de la documentación y materiales electorales utilizados y sobrantes de los procesos electorales que se lleven a cabo y en su caso, los mecanismos de participación ciudadana, así como el confinamiento del líquido indeleble;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXV. Actuar como Secretario Técnico de las Comisiones que en razón de sus funciones le correspondan;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXVI. Coordinar la logística y operatividad para el cómputo de los resultados de las elecciones y, en su caso, de los procedimientos de participación ciudadana, para garantizar la emisión de los resultados y declaración de validez de las elecciones correspondientes;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXVII. Acordar con el Secretario Ejecutivo los asuntos de su competencia, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXVIII. Las demás que le confieran la Ley de Instituciones u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+2. En materia de Prerrogativas:
+
+I. Planear y supervisar la elaboración del Programa de Prerrogativas y Partidos Políticos y someterlo a consideración de la respectiva Comisión;
+
+II. Establecer las políticas generales, criterios técnicos y lineamientos a que se sujetará el indicado Programa;
+
+III. Coadyuvar en la inscripción del nombramiento de representantes de partidos políticos y, en su caso, de candidatos independientes ante el Consejo General, en los términos establecidos por la Ley de Instituciones y demás normatividad aplicable;
+
+IV. Instrumentar el proceso de registro de partidos políticos locales, así como los convenios, coaliciones, candidaturas independientes y los que correspondan en términos de la legislación aplicable;
+
+V. Coordinar y evaluar el proceso de la asignación de los recursos públicos otorgados a los partidos políticos y candidatos independientes;
+
+VI. Supervisar la coordinación del Instituto con el Instituto Nacional, con el propósito de garantizar a los partidos políticos y candidatos el acceso a la radio y televisión, a la que tienen derecho;
+
+VII. Dirigir y coordinar el trámite de las solicitudes para la constitución de partidos políticos y agrupaciones políticas locales, con el fin de promover la participación en el ejercicio de los derechos políticos;
+
+VIII. Realizar los estudios necesarios para la determinación de topes de gastos de precampaña y campaña, para la aprobación del Consejo General;
+
+IX. Coadyuvar con la Presidencia y la Secretaría Ejecutiva en la recepción de solicitudes y en el procedimiento de registro de candidatos, así como realizar el procedimiento de registro, validando la documentación presentada y verificando el cumplimiento de los requisitos legales, de conformidad con lo establecido en la Ley de Instituciones, para someterlo a consideración del Consejo General;
+
+X. Actuar como Secretario Técnico de la Comisión de Prerrogativas, y
+
+XI. Las que le confieran la Ley de Instituciones y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -837,33 +1031,85 @@ XXVI. Las demás que le confieran el Código u otras disposiciones aplicables.
 
 Corresponde a la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica:
 
-I. Establecer las políticas generales, criterios técnicos y lineamientos a que se sujetarán las actividades de capacitación electoral y educación cívica;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-II. Desarrollar los programas de capacitación electoral y educación cívica;
+I. Establecer las políticas generales, programas, criterios técnicos y lineamientos a que se sujetarán las actividades de capacitación electoral, en caso de que dicha función sea delegada por el Instituto Nacional;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+II. Desarrollar e implementar las políticas generales, programas, criterios técnicos y lineamientos correspondientes a las actividades de educación cívica conforme a la normatividad aplicable;
 
 III. Llevar a cabo programas de reclutamiento, selección, capacitación y control de los capacitadores que participarán en los cursos correspondientes en el año electoral;
 
-IV. Elaborar y presentar a la Junta General el proyecto de convocatoria para la selección y reclutamiento de capacitadores electorales;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-V. Presentar a la Junta General los programas de capacitación electoral y educación cívica, y vigilar su ejecución;
+IV. Elaborar y presentar a la Junta General el proyecto de convocatoria para la selección y reclutamiento de capacitadores electorales, en caso de que dicha función sea delegada por el INE;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+V. Presentar a la Comisión correspondiente los programas de capacitación electoral y vigilar su ejecución, en caso de que dicha función sea delegada por el Instituto Nacional;
 
 VI. Evaluar periódicamente el cumplimiento de los programas que le sean autorizados;
 
-VII. Coadyuvar en el proceso de insaculación de ciudadanos para la selección de los funcionarios de Mesas Directivas de Casilla;
+VII. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
-VIII. Evaluar la capacitación de los ciudadanos insaculados para integrar las Mesas Directivas de Casilla;
+VIII. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
-IX. Dirigir y supervisar la investigación, análisis y preparación del material didáctico que requieren los programas de capacitación electoral y educación cívica;
+IX. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
-X. Promover la celebración de convenios con otras instituciones con la finalidad de divulgar la cultura democrática y la educación cívica;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XI. Coordinar los programas de investigación que en materia de educación cívica se requieran;
+X. Promover y coordinar la celebración de convenios con otras instituciones con la finalidad de divulgar la cultura democrática y la educación cívica;
 
-XII. Diseñar y coordinar las campañas de difusión institucional;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XI. Realizar investigaciones en materia de educación cívica con la finalidad de elaborar propuestas de programas;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XII. Diseñar y coordinar las campañas de difusión institucional y demás que le sean encomendadas;
 
 XIII. Coordinar la elaboración de la memoria del proceso electoral correspondiente; y
 
-XIV. Las demás que le confieran el Código u otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2017)</small>
+
+XIV. Colaborar con la Dirección de Administración en los procesos de inducción del personal de la Rama Administrativa, conforme a los criterios que se emitan en la materia por el Instituto Nacional;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XV. Colaborar con la Dirección de Administración y el Órgano de Enlace en los procesos de inducción y capacitación de los miembros del Servicio, conforme al Estatuto y demás normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XVI. Proponer y colaborar en la adaptación e implementación de contenidos, modelos y metodologías de educación cívica y formación ciudadana diseñados por el Instituto Nacional;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XVII. Elaborar los informes que requiera el Instituto Nacional en materia de educación cívica en la entidad;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XVIII. Coadyuvar en la elaboración de los documentos necesarios para el Escrutinio y Cómputo Distrital y Municipal, que incluyan los procedimientos para el recuento total y parcial de votos, y someterlos a la aprobación del Consejo General;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XIX. Elaborar un calendario de visitas a instituciones e instancias estatales para fomentar la cultura cívica democrática;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XX. Coadyuvar, en su caso, en la capacitación de supervisores electorales, capacitadores-asistentes electorales y observadores electorales respecto a las elecciones locales en los términos dispuestos por el Instituto Nacional y demás normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXI. Presentar a la Comisión correspondiente los programas de educación cívica y vigilar su ejecución;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXII. Coordinar el desarrollo de las acciones derivadas de los compromisos que se establezcan en los convenios suscritos en materia de educación cívica con el Instituto Nacional, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE ABRIL DE 2017)</small>
+
+XXIII. Las demás que le confieran la Ley de Instituciones y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -983,6 +1229,36 @@ IV. Las demás que les confieran el Código u otras disposiciones aplicables.
 
 La Unidad de Acceso a la Información Pública del Instituto se encargará de atender las solicitudes recibidas en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Campeche, el Código y la Ley de la materia aplicable, y funcionará conforme al calendario y horario de labores aprobados para el Instituto.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+###### Art. 49 Bis.
+
+Corresponde a la Unidad de Vinculación:
+
+I. Informar a la Presidencia los lineamientos, criterios y disposiciones que emita el Instituto Nacional para el cumplimiento de las funciones delegadas al Instituto;
+
+II. Dar seguimiento a las actividades delegadas al Instituto;
+
+III. Promover la coordinación entre el Instituto y el Instituto Nacional para el desarrollo de la función electoral;
+
+IV. Coordinar la realización de estudios e informes solicitados por el Instituto Nacional que, en su caso, resulten procedentes;
+
+V. Elaborar en el año anterior al de la elección que corresponda, el calendario y el plan integral de coordinación con el Instituto Nacional para el proceso electoral local y someterlo a consideración del Consejo General;
+
+VI. Integrar los informes anuales de las distintas áreas que rinda el Instituto, respecto del ejercicio de facultades delegadas a la Unidad de Vinculación del Instituto Nacional;
+
+VII. Someter a consideración del Consejo General del Instituto, los proyectos de acuerdos y disposiciones necesarias para la coordinación con el Instituto Nacional;
+
+VIII. Apoyar a la Presidencia en la coordinación entre las distintas áreas del Instituto y el Instituto Nacional, en materia de vinculación;
+
+IX. Fungir como órgano de enlace del Servicio Profesional Electoral Nacional, con las atribuciones conferidas por el Estatuto;
+
+X. Actuar como Secretario Técnico de la Comisión de Seguimiento al Servicio Profesional Electoral Nacional;
+
+XI. Elaborar el Plan anual de trabajo de la Comisión de Seguimiento al Servicio Profesional Electoral Nacional y someterlo a la aprobación de la Comisión; y
+
+XII. Las demás que le confiera la Presidencia del Consejo General, La Ley de Instituciones y demás normatividad aplicable.
+
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 ## Título Tercero. Del personal de base y eventual del Instituto, y sus relaciones de trabajo
@@ -1001,11 +1277,11 @@ La Unidad de Acceso a la Información Pública del Instituto se encargará de at
 
 El presente título regula las relaciones de trabajo de los servidores públicos que laboran en el Instituto y el régimen de seguridad social aplicable.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Art. 51.
 
-Integran el personal de base los servidores públicos que, una vez asignados en una plaza presupuestal, presten sus servicios al Instituto de manera regular y realicen actividades que no sean de carácter eventual, y que no se encuentren dentro de lo señalado en el artículo 9 de la Ley Federal del Trabajo.
+Integran el personal del Instituto los miembros del Servicio y el personal de la Rama Administrativa que, una vez asignados en una plaza presupuestal, presten sus servcios (sic) al Instituto de manera regular y realicen actividades que no sean de carácter eventual, y que no se encuentren dentro de lo señalado en el artículo 9 de la Ley Federal del Trabajo.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -1024,6 +1300,12 @@ IV. El Código de Procedimientos Civiles del Estado de Campeche;
 V. Los Principios Generales de Derecho; y
 
 VI. La Equidad.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+###### Art. 52 Bis.
+
+La Junta General vigilará y supervisará, en todas sus etapas y procedimientos, los asuntos relativos al personal de la Rama Administrativa y eventual del Instituto; para tal efecto, podrá emitir recomendaciones y formular propuestas. En el caso de los miembros del Servicio, se estará a lo dispuesto en el Estatuto y los Lineamientos en la materia.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -1049,11 +1331,11 @@ Los mandos medios y superiores gozarán, según corresponda, de los derechos, pr
 
 La Junta General vigilará y supervisará, en todas sus etapas y procedimientos, los asuntos relativos al personal de base y eventual del Instituto; para tal efecto, podrá emitir recomendaciones y formular propuestas.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Art. 57.
 
-La Dirección proporcionará a la Junta General toda la información que ésta le requiera sobre el personal de base y eventual.
+La Dirección de Administración proporcionará a la Junta General toda la información que ésta le requiera sobre el personal del Instituto y eventual.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -1191,7 +1473,9 @@ I. Ser asignado en alguno de los puestos de la estructura ocupacional;
 
 II. Recibir las remuneraciones determinadas en los tabuladores institucionales, así como las demás que establezca la Junta General de acuerdo con las posibilidades presupuestales;
 
-III. Recibir prestaciones laborales, económicas, estímulos y las demás que se establezcan en este Reglamento;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+III. Recibir prestaciones laborales, económicas, incentivos y las demás que se establezcan en este Reglamento;
 
 IV. Recibir los apoyos y la autorización correspondiente para participar en los programas de capacitación, formación y desarrollo de personal;
 
@@ -1209,107 +1493,195 @@ X. Recibir las indemnizaciones y demás prestaciones que le correspondan, deriva
 
 XI. Recibir el pago de la liquidación que corresponda, cuando deje de prestar sus servicios definitivamente al Instituto, en los términos de las leyes aplicables;
 
-XII. Participar en los ascensos y promociones de acuerdo con el presente Reglamento, teniendo preferencia el personal con mayor antigüedad y mejor desempeño en sus labores;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XII. Tratándose del personal de la Rama Administrativa, para los ascensos y promociones, se tendrá preferencia por los servidores con mejor desempeño en sus labores;
 
 XIII. Solicitar hasta 9 días de permisos económicos con goce del sueldo al año, siempre y cuando el servidor haya cumplido un año de servicio en el Instituto y no se encuentre en curso un Proceso Electoral; podrán otorgarse hasta 3 días en un mismo mes, previa autorización del Titular que corresponda, debiendo el servidor público darlo a conocer a la Dirección en forma inmediata; no podrán acumularse más de 3 días económicos en forma consecutiva;
 
-XIV. Recibir los cursos de capacitación que le permitan realizar con calidad y eficiencia las funciones que tiene encomendadas, de conformidad con los programas y políticas generales del Instituto;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XV. Disfrutar de licencia con o sin goce de sueldo, de días de descanso y de vacaciones de acuerdo a este Reglamento;
+XIV. Recibir los cursos de capacitación, cuyo programa implementará la Dirección de Administración, como una vía para fomentar el desarrollo individual y su desempeño profesional, que le ayude en el cumplimiento de las metas y objetivos institucionales, conforme a su disponibilidad presupuestaria;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XV. Disfrutar de licencia con o sin goce de sueldo, de días de descanso y de vacaciones, para el caso del personal de la Rama Administrativa de acuerdo a este Reglamento, y tratándose de miembros del Servicio conforme al Estatuto;
 
 XVI. Ser tratado en forma amable, respetuosa, diligente e imparcial, por parte de sus superiores jerárquicos, compañeros y subordinados si los tuviere, en el desempeño de su trabajo;
 
 XVII. Recibir las prestaciones de seguridad social que marca la Ley de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche; y
 
-XVIII. Los demás que establezcan este Reglamento, la legislación aplicable y los que apruebe la Junta General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+XVIII. Tratándose de miembros del Servicio participar en los ascensos y promociones de conformidad con el Estatuto, el Lineamiento en la materia y de acuerdo con el presente Reglamento, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE ABRIL DE 2017)</small>
+
+XIX. Los demás que establezcan este Reglamento, la legislación aplicable y los que apruebe la Junta General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Art. 70.
 
-Son obligaciones del personal de base:
+Son obligaciones del personal del Instituto:
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 I. Coadyuvar al cumplimiento de los fines del Instituto;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 II. Ejercer sus funciones con estricto apego a los principios de certeza, imparcialidad, independencia, legalidad y objetividad;
 
-III. Desempeñar las labores inherentes a su puesto con la calidad, cuidado, esmero, eficiencia y eficacia que requiere la realización de las actividades del Instituto, sujetándose a las instrucciones de sus superiores jerárquicos, a las que le impone este Reglamento y demás ordenamientos aplicables. En ningún caso estará obligado a acatarlas, cuando de su ejecución pudiera desprenderse la comisión de un delito;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+III. Desempeñar las labores inherentes a su cargo con la calidad, cuidado, esmero, eficiencia y eficacia que requiere la realización de las actividades del Instituto, sujetándose a las instrucciones de sus superiores jerárquicos, a las que le impone este Reglamento y demás ordenamientos aplicables. En ningún caso estará obligado a acatarlas, cuando de su ejecución pudiera desprenderse la comisión de un delito;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 IV. Laborar con su equipo de trabajo con actitud dinámica, propositiva, y respetuosa;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 V. Conducirse en todo tiempo con imparcialidad, legalidad y objetividad respecto de las posiciones de los Partidos y Agrupaciones Políticas, y sus candidatos, militantes y dirigentes, procurando que las relaciones de comunicación con ellos se lleven a cabo con cordialidad y respeto;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 VI. Guardar absoluta reserva y confidencialidad sobre los asuntos de que conozca con motivo de su trabajo;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 VII. Participar en todos los cursos de capacitación que determine el Instituto;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 VIII. Someterse a la evaluación que sobre el desempeño de sus labores se les aplique;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 IX. Observar y hacer cumplir las disposiciones de orden jurídico, técnico, y administrativo que emitan los órganos competentes del Instituto;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 X. Proporcionar los datos personales que, para efectos de su relación laboral con el Instituto se le soliciten, presentando la documentación comprobatoria que corresponda, y comunicar oportunamente cualquier cambio sobre dicha información;
 
-XI. Cumplir con eficiencia todas las funciones que se le confieran, así como desarrollar sus actividades en el lugar y área de adscripción que determinen las autoridades del Instituto. Hacer un uso correcto del uniforme, identificaciones, documentos, correspondencia, fondos, bienes y herramientas que se le asignen para el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XI. Cumplir con eficiencia todas las funciones propias de su cargo, así como desarrollar sus actividades en el lugar y área de adscripción que se haya determinado. Hacer uso correcto del uniforme, identificaciones, documentos, correspondencia, fondos, bienes y herramientas que se le asignen para el desempeño de sus funciones;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XII. Asistir puntualmente a sus labores, cumpliendo los horarios establecidos;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 XIII. Cumplir las comisiones de trabajo que, por necesidades del Instituto se le encomienden en lugar y áreas distintos al de su adscripción durante los periodos y en los términos que determinen las autoridades de este organismo;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XIV. Cubrir la reparación del daño causado a los bienes del Instituto, cuando del procedimiento administrativo instruido por la Contraloría Interna del Instituto, quede demostrado que éstos le son imputables;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 XV. Proporcionar, en su caso, la información y documentación necesarias al servidor público del Instituto que se designe para suplirlo en sus ausencias;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XVI. Atender los requerimientos que emita la Contraloría Interna del Instituto;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 XVII. Conducirse en todo momento con rectitud y respeto hacia los demás; y
 
-XVIII. Las demás que le confieran el Código u otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+XVIII. Las demás que le confieran la Ley de Instituciones u otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Art. 71.
 
-El personal de base y eventual tendrán prohibido:
+El personal del Instituto y eventual tendrán prohibido:
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 I. Participar en asuntos de partidos políticos que no sean competencia del Instituto, salvo en los casos que tenga autorización para ello;
 
-II. Emitir opinión pública, o efectuar manifestaciones de cualquier naturaleza, a favor o en contra de Partidos y Agrupaciones Políticas, así como de sus dirigentes, candidatos o militantes. Quedarán exceptuadas las declaraciones autorizadas que se formulen con motivo de sus debates sobre el Instituto, la ejecución de sus programas o el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-III. Realizar actos a favor o en contra de Partidos y Agrupaciones Políticas, así como de sus dirigentes, candidatos o militantes;
+II. Emitir opinión pública, o efectuar manifestaciones de cualquier naturaleza, a favor o en contra de Partidos y Agrupaciones Políticas, así como de sus dirigentes, candidatos o militantes, candidatos independientes y organizaciones. Quedarán exceptuadas las declaraciones autorizadas que se formulen con motivo de sus debates sobre el Instituto, la ejecución de sus programas o el desempeño de sus funciones;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+III. Emitir manifestaciones, actos y omisiones de cualquier naturaleza a favor o en contra de Partidos y Agrupaciones Políticas, así como de sus dirigentes, candidatos afiliados o militantes;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 IV. Incurrir en actos u omisiones que pongan en peligro su seguridad, la del personal del Instituto o la de terceros que por cualquier motivo se encuentren en sus instalaciones, o los bienes al cuidado o propiedad del Instituto;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 V. Acumular más de 3 faltas de asistencia en un mismo mes, sin causa justificada o sin autorización expresa del Titular que corresponda;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 VI. Concurrir a su lugar de adscripción o al desempeño de sus actividades en estado de ebriedad, o bajo la influencia de estupefacientes o psicotrópicos, salvo que estos últimos hayan sido ingeridos por prescripción médica;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 VII. Ausentarse de su lugar de adscripción o abandonar sus actividades sin autorización expresa de su superior jerárquico inmediato;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 VIII. Desatender su trabajo en las horas de labores;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 IX. Hacer anotaciones inexactas o alteraciones en documentos o en información procesada electrónicamente, archivada o en trámite; falsificar documentos, firmas, sellos, calcas, troqueles, credenciales, así como cualquier otro material de carácter oficial;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 X. Hacer uso indebido de los teléfonos u otros medios de comunicación del Instituto;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 XI. Permitir o promover la permanencia de personas no autorizadas dentro de las instalaciones del Instituto;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XII. Permitir que otras personas, sin autorización previa, operen o hagan uso del equipo, mobiliario y materiales confiados a su cuidado;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 XIII. Llevar a cabo cualquier actividad ajena a sus funciones, en las instalaciones del Instituto;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XIV. Dictar o ejecutar órdenes cuya realización u omisión transgredan las disposiciones legales aplicables en materia electoral;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 XV. Permanecer en las instalaciones del Instituto o introducirse en ellas fuera de sus horas de actividades, salvo que exista causa justificada y autorización expresa de su superior jerárquico inmediato;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XVI. Marcar, firmar o alterar la tarjeta, lista o cualquier otro medio de control de asistencia, o solicitar a algún tercero que lo haga, con la finalidad de no reportar al Instituto sus inasistencias, o las de algún compañero o subordinado, al centro o lugar donde laboren;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 XVII. Permitir la intromisión de cualquier persona en asuntos del Instituto, sean o no de su competencia, sin autorización expresa del superior jerárquico;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 XVIII. Desempeñar funciones distintas a las del cargo o puesto que tiene asignado, sin autorización expresa del superior jerárquico;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 XIX. Incumplir las instrucciones de su superior jerárquico relativas al desempeño de sus labores; y
 
-XX. Las demás que le imponga el Código, este Reglamento y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XX. Las demás que le imponga la Ley de Instituciones, este Reglamento y otros ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -1469,41 +1841,71 @@ Todo acto u omisión del personal del Instituto que configure responsabilidad ad
 
 Corresponderá a la Contraloría Interna del Instituto la investigación y determinación de las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en dicha Ley Reglamentaria, en el Código y demás normatividad legal y reglamentaria aplicable, así como la imposición de las sanciones que correspondan en cada caso.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE ABRIL DE 2017)</small>
+
+### Capítulo Noveno. De los Miembros del Servicio Profesional Electoral Nacional
+
+Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+###### Art. 88 Bis.
+
+El Servicio del Instituto contará con personal calificado en su estructura, a través de los mecanismos contenidos en el Estatuto y los lineamientos en la materia, que en todo momento será considerado como personal de confianza.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+###### Art. 88 Ter.
+
+En lo referente a los mecanismos de selección, ingreso, ocupación de plazas, incorporación temporal, encargados de despacho, reingreso al Servicio, rotación, cambios de adscripción capacitación, actividades externas, disponibilidad, profesionalización, promoción e incentivos, evaluación del desempeño, titularidad, permanencia, disciplina y conciliación de conflictos, se estará a lo estipulado por el Estatuto y los Lineamientos en la materia.
+
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
-
-### Capítulo Primero. Del Catálogo de Puestos
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 #### Sección Segunda. De las Condiciones Generales de Trabajo
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2017)</small>
 
-### Capítulo Segundo. De los Salarios
+### Capítulo Primero. De los Catálogos de Puestos y Cargos
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Art. 89.
 
-El Catálogo de puestos es el documento en el que se establece la clasificación y descripción de los diversos cargos y puestos que integran la estructura orgánica del Instituto.
+En base a su estructura orgánica, el Instituto dispondrá de los siguientes Catálogos:
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+a) Catálogo de Puestos de la Rama Administrativa.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+b) Catálogo de Cargos y Puestos del Servicio.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Art. 90.
 
-La elaboración del Catálogo, así como sus actualizaciones, es responsabilidad de la Dirección, la cual lo someterá a la aprobación de la Junta General. El Catálogo será actualizado anualmente y deberá tomar en cuenta la estructura de cada uno de los órganos que integran el Instituto.
+La elaboración y actualización del Catálogo de Puestos de la Rama Administrativa, es responsabilidad de la Dirección de Administración, la cual lo someterá a la aprobación de la Junta General.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Art. 91.
 
-El Catálogo deberá contener, como mínimo, los elementos siguientes:
+El Catálogo de Puestos de la Rama Administrativa deberá contener, como mínimo, los siguientes elementos:
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 I. Identificación, homologación y, en su caso, compactación de los cargos y puestos;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 II. Responsabilidad de cada cargo y puesto;
 
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 III. Clasificación y agrupación de cargos y puestos por área de adscripción, clave y nivel presupuestal, a partir del cargo de Consejero Presidente del Consejo General, y
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 IV. Cédulas de identificación por cado uno de los cargos y puestos, en las que se precisará:
 
@@ -1519,15 +1921,31 @@ e) Relaciones de autoridad y comunicación con cargos o puestos superiores y sim
 
 f) Descripción de requisitos mínimos que se deberán acreditar para su ocupación.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Art. 92.
 
-El Instituto tendrá dos tabuladores de remuneraciones:
+El Instituto tendrá los siguientes tabuladores de puestos y salarios:
 
-I. Tabulador General; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
-II. Tabulador de Consejos Distritales y Municipales.
+I. De manera permanente:
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+a) Del personal de la Rama Administrativa y Eventual;
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+b) De los Miembros del Servicio Profesional Electoral Nacional; y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
+II. Durante el proceso electoral:
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+a) De Consejos Distritales y Municipales.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -1537,7 +1955,7 @@ Los tabuladores y remuneraciones aplicables a todo el personal del Instituto ser
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
-### Capítulo Tercero. De los Horarios, las Vacaciones y los Días de Descanso
+### Capítulo Segundo. De los Salarios
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -1603,7 +2021,7 @@ El pago del salario y, en su caso, de las prestaciones adicionales se hará dire
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
-### Capítulo Cuarto. De las Licencias y los Permisos
+### Capítulo Tercero. De los Horarios, las Vacaciones y los Días de Descanso
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -1733,7 +2151,7 @@ XIII. Los demás que señale el Calendario Oficial de Labores del Instituto y lo
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
-### Capítulo Quinto. De los Riesgos Profesionales
+### Capítulo Cuarto. De las Licencias y los Permisos
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -1815,7 +2233,7 @@ Cuando un trabajador del Instituto necesite ausentarse de la oficina en que labo
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
-### Capítulo Sexto. De las Prestaciones Económicas y Sociales
+### Capítulo Quinto. De los Riesgos Profesionales
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -1837,9 +2255,9 @@ En caso de riesgos profesionales, el superior jerárquico inmediato deberá elab
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
-### Capítulo Séptimo. Del Régimen de Seguridad Social de los Trabajadores del Instituto
+### Capítulo Sexto. De las Prestaciones Económicas y Sociales
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 125.
 
@@ -1862,6 +2280,10 @@ VII. Organizar eventos sociales, culturales y recreativos; y
 VIII. Las demás que al efecto apruebe la Junta General.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+### Capítulo Séptimo. Del Régimen de Seguridad Social de los Trabajadores del Instituto
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 126.
 
@@ -1888,3 +2310,7 @@ P.O. 19 DE NOVIEMBRE DE 2010.
 Primero.- El presente Reglamento entrará en vigor al día siguiente de su aprobación por parte del Consejo General.
 
 Segundo.- Se derogan todas las disposiciones administrativas y reglamentarias en lo que se opongan al contenido del presente Reglamento.
+
+P.O. 5 DE ABRIL DE 2017.
+
+> <small>[N. DE E. EL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE, POR EL QUE SE MODIFICA EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE CAMPECHE, EN CUMPLIMIENTO AL ARTÍCULO QUINTO TRANSITORIO DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE CAMPECHE VIGENTE.]</small>
