@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-comision-consultiva-estatal-de-96187"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-18"
-last_updated: "2013-09-18"
+last_updated: "2017-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 18 de septiembre de 2013.
 
@@ -33,7 +33,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas, en ejercicio de la facultad que me confiere el artículo 47 de la Constitución Política del Estado de Chiapas; con fundamento en los artículos 5°, 8°, y 23 de la Ley Orgánica de la Administración Pública del Estado; y,
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o
+
+[...]
 
 Por los fundamentos y consideraciones antes expuestos, el Ejecutivo a mi cargo tiene a bien expedir el siguiente:
 
@@ -390,3 +392,17 @@ Tercero.- En cumplimiento a lo previsto en el Artículo 8° de la Ley Orgánica 
 Dado en el Seno de la Comisión Consultiva Estatal de Seguridad y Salud en el Trabajo en la ciudad de Tuxtla Gutiérrez, Chiapas; el día dieciséis del mes de julio del año dos mil trece.
 
 Gobierno del Estado de Chiapas: Manuel Velasco Coello, Gobernador del Estado.- Óscar Eduardo Ramírez Aguilar, Secretario General de Gobierno.- Manuel Sobrino Durán, Secretario del Trabajo.- Carlos Eugenio Ruiz Hernández, Secretario de Salud.- Carlos O. Morales Vázquez, Secretario de Medio Ambiente e Historia Natural.- Gobierno Federal: César Augusto Rodríguez Cal y Mayor, Delegado de la Secretaría del Trabajo y Previsión Social en el Estado de Chiapas.- Miguel Ángel Navarro Quintero, Delegado del Instituto Mexicano del Seguro Social.- Luis Fernando Torres García, Encargado del Despacho de la Delegación de la Secretaría del Medio Ambiente y Recursos Naturales.- Organizaciones de Patrones: Eric Enrique Aguilar Gómez, Presidente de la Cámara Mexicana de la Industria de la Construcción, Delegación Chiapas.- Marina Arias Albores, Presidenta del Consejo Coordinador Empresarial.- Arturo López Chavarría, Presidente del Centro Empresarial de Chiapas S.P.- Organizaciones de Trabajadores: María de Jesús Olvera Rojas, Secretaria General Confederación de Trabajadores de México en el Estado de Chiapas (CTM).- Juan Ramón García Rodríguez, Secretario General Confederación Revolucionaria de Obreros y Campesinos en el Estado de Chiapas (CROC).- Gerardo Ortega López, Secretario General Confederación Regional Obrera Mexicana en el Estado (CROM).- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 1855-A-2017 REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO DEL ESTADO DE CHIAPAS”.]
+
+Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- Se abroga el Reglamento Interior de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo del Estado de Chiapas, publicado en el Periódico Oficial del Estado número 057, de fecha 18 de septiembre de 2013.
+
+Tercero.- Se derogan todas las disposiciones que se opongan al presente Reglamento Interior.
+
+Cuarto.- Publíquese el presente Reglamento Interior en el Periódico Oficial.
