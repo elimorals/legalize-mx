@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2017-03-08"
+last_updated: "2017-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2002-07-11"
 ---
 # CODIGO PENAL PARA EL DISTRITO FEDERAL -ANTES NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL-
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE ABRIL DE 2017.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -77,8 +79,6 @@ ARTÍCULO 8 (Principio de aplicación extraterritorial de la ley penal). Este C�
 I. Produzcan efectos dentro del territorio del Distrito Federal; o
 
 II. Sean permanentes o continuados y se sigan cometiendo en el territorio del Distrito Federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -194,8 +194,6 @@ IV. Que cuando hayan estado presentes en su ejecución, no hayan hecho cuanto es
 
 ARTÍCULO 26 (Autoría indeterminada). Cuando varios sujetos intervengan en la comisión de un delito y no pueda precisarse el daño que cada quien produjo, para su punibilidad se estará a lo previsto en el artículo 82 de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 27 (Responsabilidad penal en el seno de una persona moral o jurídica).
@@ -212,8 +210,6 @@ Y en estas circunstancias cometa un hecho que la ley señale como delito, respon
 
 Se entenderá por administrador, la persona que realiza actos de administración en una persona moral o jurídica, sea cual fuere el nombre o denominación que reciba conforme a las leyes aplicables o según la naturaleza jurídica del acto por el cual así se asuma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 27 BIS (Responsabilidad Penal de una Persona Moral o Jurídica).-
@@ -228,13 +224,9 @@ Cuando la empresa, organización, grupo o cualquier otra clase de entidad o agru
 
 Quedan exceptuados de la responsabilidad de la persona moral o jurídica, las instituciones estatales, pero cuando aquélla utilice a éstas últimas para cometer un delito será sancionada por el delito o delitos cometidos. Lo anterior también será aplicable a los fundadores, administradores o representantes que se aprovechen de alguna institución estatal para eludir alguna responsabilidad penal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 27 TER En caso de que se imponga la sanción de multa por la comisión de un delito, tanto a la persona física como a la persona moral o jurídica, el juez deberá observar el principio de proporcionalidad para la imposición de las sanciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -262,8 +254,6 @@ b).- La disolución aparente.
 
 Se considerará que existe disolución aparente de la persona moral o jurídica, cuando ésta continúe su actividad económica y se mantenga la identidad sustancial de clientes, proveedores y empleados, o de la parte más relevante de todos ellos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 27 QUINTUS Serán circunstancias atenuantes de la responsabilidad penal de la persona moral o jurídica haber realizado, con posterioridad a la comisión del delito, las siguientes conductas:
@@ -287,8 +277,6 @@ No hay concurso cuando las conductas constituyan un delito continuado.
 En caso de concurso de delitos se estará a lo dispuesto en el artículo 79 de este Código.
 
 ### CAPÍTULO V. CAUSAS DE EXCLUSIÓN DEL DELITO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -384,15 +372,11 @@ I. Supervisión de la autoridad;
 
 II. Prohibición de ir a un lugar determinado u obligación de residir en él;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 III. Tratamiento de inimputables o imputables disminuidos;
 
 IV. Tratamiento de deshabituación o desintoxicación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -410,13 +394,9 @@ c. Ordenar vigilancia por parte de la Secretaría de Seguridad Pública del Dist
 
 d. Ordenar la custodia por parte de la Procuraduría General de Justicia del Distrito Federal, a la víctima o víctimas indirectas, en los casos en que las circunstancias de riesgo lo ameriten, por el tiempo que determine el juez.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 El Ministerio Público podrá aplicar las medidas de protección que se mencionan en la legislación de procedimientos penales aplicable al Distrito Federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -426,67 +406,45 @@ I. Suspensión;
 
 II. Disolución;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 III. Prohibición de realizar determinados negocios, operaciones o actividades;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 IV. Remoción;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 V. Intervención;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 VI. Clausura;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 VII. Retiro de mobiliario urbano, incluidas casetas telefónicas o parte de ellas, cuando éstos no hayan sido removidos por otra autoridad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 VIII. Custodia de folio real o de persona moral o jurídica;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 IX. Inhabilitación para obtener subvenciones y ayudas públicas, para contratar con el sector público y para gozar de beneficios e incentivos fiscales o sociales, por un plazo de hasta de quince años; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 X. La reparación del daño.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Las consecuencias jurídicas señaladas en las fracciones I, V, VI, VII, VIII y IX las podrá acordar el juez como medida cautelar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Las sanciones previstas para la persona moral o jurídica podrán incrementarse hasta la mitad cuando ésta sea utilizada como instrumento con el fin de cometer delitos. Se entenderá que la persona moral o jurídica se encuentra en esta circunstancia, cuando su actividad lícita sea menos relevante que la actividad delictiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -570,8 +528,6 @@ El momento en que cesó la consumación, si el delito es permanente; o
 
 El momento de consumación de la última conducta, si el delito es continuado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 38 BIS (Días de multa para la persona moral o jurídica). La multa consiste en el pago de una cantidad de dinero al Gobierno del Distrito Federal fijada por días multa. Los mínimos y máximos atenderán a cada delito en particular.
@@ -616,8 +572,6 @@ ARTÍCULO 42 (Alcance de la reparación del daño). La reparación del daño com
 
 I. El restablecimiento de las cosas en el estado en que se encontraban antes de cometerse el delito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 II. La restitución de la cosa obtenida por el delito, incluyendo sus frutos y accesorios y, si no fuese posible, el pago de su valor actualizado. Si se trata de bienes fungibles, el juez podrá condenar a la entrega de un objeto igual al que fuese materia de delito sin necesidad de recurrir a informe o prueba pericial;
@@ -627,8 +581,6 @@ III. La reparación del daño moral sufrido por la víctima o las personas con d
 IV. El resarcimiento de los perjuicios ocasionados; y
 
 V. El pago de salarios o percepciones correspondientes, cuando por lesiones se cause incapacidad para trabajar en oficio, arte o profesión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -683,8 +635,6 @@ ARTÍCULO 50 (Aplicación de las garantías de la libertad caucional). Cuando el
 Al ordenarse que se hagan efectivas esas garantías, el Juez prevendrá a la autoridad competente que ponga su importe a disposición del Tribunal para los efectos de este artículo.
 
 En los casos en que el Ministerio Público resuelva el no ejercicio de la acción penal, y estuviere garantizada la libertad caucional del inculpado, en todo o en parte, con dinero en efectivo o en billetes de depósito, sin que sean reclamados por éste en un plazo de noventa días, posteriores a su legal notificación, se aplicarán al Fondo de Apoyo a la Procuración de Justicia
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -792,33 +742,23 @@ ARTÍCULO 67 (Aplicación y alcances). Cuando el sujeto haya sido sentenciado po
 
 Cuando se trate de penas no privativas o restrictivas de libertad, el tratamiento no excederá de seis meses.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO XIII
 
 SUSPENSIÓN, DISOLUCIÓN, PROHIBICIÓN DE REALIZAR DETERMINADOS NEGOCIOS, OPERACIONES O ACTIVIDADES, REMOCIÓN, INTERVENCIÓN, CLAUSURA, RETIRO DE MOBILIARIO URBANO, CUSTODIA O RESGUARDO DE FOLIOS, INHABILITACIÓN Y REPARACIÓN DEL DAÑO DE LAS PERSONAS MORALES O JURÍDICAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 68 (Alcances y duración de las consecuencias para las personas morales). La suspensión consistirá en la cesación de la actividad de la persona moral o jurídica durante el tiempo que determine el Juez en la sentencia, la cual no podrá exceder de cinco años.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 La disolución consistirá en la conclusión definitiva de toda actividad social de la persona moral o jurídica, que no podrá volverse a constituir por las mismas personas en forma real o encubierta. La conclusión de toda actividad social se hará sin perjuicio de la realización de los actos necesarios para la disolución y liquidación total. El Juez designará en el mismo acto un liquidador que procederá a cumplir todas las obligaciones contraídas hasta entonces por la persona moral o jurídica, inclusive las responsabilidades derivadas del delito cometido, observando las disposiciones legales sobre prelación de créditos, conforme a la naturaleza de éstos y de la entidad objeto de la liquidación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 La prohibición de realizar determinados negocios, operaciones o actividades, se referirá exclusivamente a las que determine el juzgador, mismas que deberán tener relación directa con el delito cometido. La prohibición podrá ser definitiva o temporal, en este último caso, el juez podrá imponerla hasta por cinco años. Los administradores y el comisario de la sociedad serán responsables ante el Juez, del cumplimiento de esta prohibición e incurrirán en las penas que establece este Código por desobediencia a un mandato de autoridad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -828,43 +768,29 @@ Para hacer la designación, el juez podrá atender la propuesta que formulen los
 
 Cuando concluya el período previsto para la administración sustituta, la designación de los nuevos administradores se hará en la forma ordinaria prevista por las normas aplicables a estos actos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 La intervención consiste en la vigilancia de las funciones que realizan los órganos de representación de la persona moral o jurídica y se ejercerá con las atribuciones que la ley confiere al interventor, hasta por tres años.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 La clausura consistirá en el cierre de todos o algunos de los locales o establecimientos de la persona moral o jurídica por un plazo de hasta cinco años.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 La inhabilitación consiste en la falta de capacidad para obtener subvenciones y ayudas públicas, para contratar con el sector público y para gozar de beneficios e incentivos fiscales o de seguridad social, por un plazo de hasta quince años.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Para la aplicación de la reparación del daño, se estará a lo previsto en este Código y el juez podrá establecer como garantía para la misma, el otorgamiento de billete de depósito, una cantidad en efectivo o cualquiera otra medida a satisfacción de la víctima u ofendido del delito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 El retiro de mobiliario urbano, incluidas casetas telefónicas o parte de ellas, cuando éstos no hayan sido removidos por otra autoridad, consiste en la remoción que realice personal de cualquier institución de seguridad pública por orden del juez. El mobiliario urbano quedará en resguardo del área que corresponda de la Procuraduría General de Justicia del Distrito Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Para la custodia del folio real o de persona moral o jurídica se estará a lo dispuesto en la Ley Registral para el Distrito Federal, su reglamento y demás ordenamientos jurídicos aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -931,8 +857,6 @@ VII. Las circunstancias del activo y pasivo, antes y durante la comisión del de
 VIII. Las demás circunstancias especiales del agente, que sean relevantes para determinar la posibilidad que tuvo de haber ajustado su conducta a las exigencias de la norma.
 
 Para la adecuada aplicación de las penas y medidas de seguridad, el Juez deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho y, en su caso, requerirá los dictámenes periciales tendientes a conocer la personalidad del sujeto y los demás elementos conducentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1012,8 +936,6 @@ ARTÍCULO 78 (Punibilidad de la tentativa). La punibilidad aplicable a la tentat
 
 En la aplicación de las penas o medidas de seguridad a que se refiere este artículo, el juzgador tendrá en cuenta, además de lo previsto en el artículo 72 de este Código, el mayor o menor grado de aproximación a la consumación del delito y la magnitud del peligro en que se puso al bien jurídico protegido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Este artículo será aplicable para los casos en que la persona moral o jurídica incurra en una tentativa.
@@ -1023,8 +945,6 @@ Este artículo será aplicable para los casos en que la persona moral o jurídic
 ARTÍCULO 79 (Aplicación de la sanción en el caso de concurso de delitos). En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, si las sanciones aplicables son de la misma naturaleza; cuando sean de diversa naturaleza podrán imponerse las penas correspondientes a los restantes delitos. En ningún caso, la pena aplicable podrá exceder de los máximos señalados en el Título Tercero del Libro Primero de este Código.
 
 En caso de concurso real, se impondrá la pena del delito que merezca la mayor, la cual podrá aumentarse con las penas que la ley contempla para cada uno de los delitos restantes, sin que exceda del máximo señalado en el artículo 33 de este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1037,8 +957,6 @@ ARTÍCULO 81 (Punibilidad de la complicidad). Para los casos a que se refieren l
 ARTÍCULO 82 (Punibilidad de la autoría indeterminada). Para el caso previsto en el artículo 26 de este Código, la penalidad será de las tres cuartas partes del mínimo a las tres cuartas partes del máximo de las penas o medidas de seguridad correspondientes para el delito cometido, según su modalidad.
 
 ### CAPÍTULO VI. ERROR VENCIBLE Y EXCESO EN LAS CAUSAS DE LICITUD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1148,25 +1066,17 @@ VIII. Amnistía;
 
 IX. Prescripción;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 X. Supresión del tipo penal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 XI. Existencia de una sentencia anterior dictada en proceso seguido por los mismos hechos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 XII. Anulación de la sentencia; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1189,8 +1099,6 @@ ARTÍCULO 98 (Extinción por muerte). La muerte del inculpado extingue la preten
 ### CAPÍTULO IV. RECONOCIMIENTO DE INOCENCIA
 
 ARTÍCULO 99 (Pérdida del efecto de la sentencia por reconocimiento de la inocencia del sentenciado). Cualquiera que sea la pena o la medida de seguridad impuesta en sentencia que cause ejecutoria, procederá la anulación de ésta, cuando se pruebe que el sentenciado es inocente del delito por el que se le juzgó. El reconocimiento de inocencia produce la extinción de las penas o medidas de seguridad impuestas y de todos sus efectos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1235,8 +1143,6 @@ ARTÍCULO 104 (Extinción por amnistía). La amnistía extingue la pretensión p
 ARTÍCULO 105 (Efectos y características de la prescripción). La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad, y para ello bastará el transcurso del tiempo señalado por la ley.
 
 ARTÍCULO 106 (La resolución en torno de la prescripción se dictará de oficio o a petición de parte). La resolución en torno de la prescripción se dictará de oficio o a petición de parte.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1303,8 +1209,6 @@ ARTÍCULO 117 (Cuando el sentenciado hubiere extinguido ya una parte de su sanci
 ARTÍCULO 118 (Interrupción de la prescripción de la potestad para ejecutar la pena o medida de seguridad). La prescripción de la potestad para ejecutar la pena o medida privativa de la libertad, sólo se interrumpe con la aprehensión del sentenciado, aunque se ejecute por otro delito diverso o por la formal solicitud de entrega que el Ministerio Público haga al de otra entidad federativa, en que aquél se encuentre detenido, en cuyo caso subsistirá la interrupción hasta en tanto la autoridad requerida niegue dicha entrega o desaparezca la situación legal del detenido que motive aplazar su cumplimiento.
 
 La prescripción de la potestad de las demás sanciones se interrumpirá por cualquier acto de autoridad competente para hacerlas efectivas. También se interrumpirá la prescripción de las penas pecuniarias, por las promociones que el ofendido o persona a cuyo favor se haya decretado dicha reparación, haga ante la autoridad correspondiente y por las actuaciones que esa autoridad realice para ejecutarlas, así como por el inicio de juicio ejecutivo ante autoridad civil usando como título la sentencia condenatoria correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1386,8 +1290,6 @@ Al que prive de la vida a otro en riña se le impondrá de cuatro a doce años d
 
 Al que cause a otro un daño o alteración en su salud, se le impondrán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 I. (DEROGADA, G.O. 16 DE FEBRERO DE 2011)
 
 II. De seis meses a dos años de prisión, cuando tarden en sanar más de quince días y menos de sesenta;
@@ -1401,8 +1303,6 @@ V. De tres a cinco años de prisión, cuando disminuyan alguna facultad o el nor
 VI. De tres a ocho años de prisión, si producen la pérdida de cualquier función orgánica, de un miembro, de un órgano o de una facultad, o causen una enfermedad incurable o una deformidad incorregible; y
 
 VII. De tres a ocho años de prisión, cuando pongan en peligro la vida.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 16 DE FEBRERO DE 2011)</small>
 
@@ -1698,7 +1598,7 @@ Si resultan hijos a consecuencia de la comisión de alguno de los delitos previs
 
 ### CAPÍTULO VI. RETENCIÓN Y SUSTRACCIÓN DE MENORES O INCAPACES
 
-> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 156.
 
@@ -1934,9 +1834,9 @@ Si la recuperación de la víctima se logra por datos proporcionados por el incu
 
 ###### ARTÍCULO 171.
 
-Al que sin tener relación de parentesco, a que se refiere el artículo 173 de este Código, o de tutela de un menor de edad o incapaz, lo retenga sin el consentimiento de quien ejerza su custodia legítima o su guarda, se le impondrá prisión de uno a cinco años y de cien a quinientos días de multa.
+Al que sin tener relación de parentesco, a que se refiere el artículo 173 de este Código, o de tutela de un menor de edad o incapaz, lo retenga sin el consentimiento de quien ejerza su custodia legítima o su guarda, se le impondrá prisión de tres a siete años y multa de trescientas veces a ochocientas veces la unidad de Cuenta de la Ciudad de México vigente.
 
-A quien bajo los mismos supuestos del párrafo anterior los sustraiga de su custodia legítima o su guarda, se le impondrá de cinco a quince años de prisión y de doscientos a mil días multa.
+A quien bajo los mismos supuestos del párrafo anterior los sustraiga de su custodia legítima o su guarda, se le impondrá de cinco a quince años de prisión y de doscientas veces a mil veces la unidad de Cuenta de la Ciudad de México vigente.
 
 > <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2007,6 +1907,10 @@ Si se ejerciera violencia física o moral, la pena prevista se aumentará en una
 ###### ARTÍCULO 176.
 
 Al que sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual, la obligue a observarlo o la haga ejecutarlo, se le impondrá de uno a seis años de prisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 5 DE ABRIL DE 2017)</small>
+
+Para los efectos de este artículo, se entiende por acto sexual, cualquier acción dolosa, son (sic) sentido lascivo y caracterizada por un contenido sexual, que se ejerza sobre el sujeto pasivo.
 
 Si se hiciere uso de violencia física o moral, la pena prevista se aumentará en una mitad.
 
@@ -2117,8 +2021,6 @@ ARTÍCULO 190 TER. Cuando el responsable tenga parentesco, conviva o habite ocas
 > <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2007)</small>
 
 ### CAPÍTULO ÚNICO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -2296,8 +2198,6 @@ Cuando se trate de Servidor Público, Ministro de Culto Religioso, así como tod
 
 En todos los casos el juez acordará las medidas para impedir al sujeto activo tener cualquier tipo de contacto o relación con la víctima.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 192.
@@ -2331,8 +2231,6 @@ Para los efectos de éste Artículo, se tendrá por consumado el delito aun cuan
 > <small>(REFORMADO, G.O. 22 DE JULIO DE 2005)</small>
 
 Cuando no sean comprobables el salario o los ingresos del deudor alimentario, para efectos de cubrir los alimentos o la reparación del daño, se determinarán con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -2410,8 +2308,6 @@ IV. El incapaz sobre el que se es tutor o curador;
 
 V. La persona con la que se haya constituido sociedad en convivencia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Se le impondrá de uno a seis años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por este Código y la legislación de procedimientos penales aplicable al Distrito Federal; además se sujetará al agente a tratamiento especializado que para personas agresoras de violencia familiar refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia, el que en ningún caso excederá del tiempo impuesto en la pena de prisión, independientemente de las sanciones que correspondan por cualquier otro delito.
@@ -2419,8 +2315,6 @@ Se le impondrá de uno a seis años de prisión, pérdida de los derechos que te
 > <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2011)</small>
 
 En caso de que la víctima padezca algún trastorno mental diagnosticado, se aumentará en una mitad la pena que corresponda, para lo cual el juzgador valorará el tipo de rehabilitación o tratamiento médico al que estuviere sujeta la víctima para la imposición de las sanciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO PENÚLTIMO PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -2458,8 +2352,6 @@ IX. Exista imposibilidad material de la víctima de denunciar.
 
 Para los efectos del presente capítulo se entiende por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 I. Violencia física: A todo acto doloso en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro;
@@ -2493,8 +2385,6 @@ V. Tengan relación con los hijos de su pareja, siempre que no los hayan procrea
 VI. Tengan relación con la pareja de alguno de sus progenitores.
 
 Este delito se perseguirá por querella.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -2633,8 +2523,6 @@ ARTÍCULO 209 BIS. Al que con la intención de requerir el pago de una deuda, ya
 Al que se introduzca a un departamento, vivienda, aposento o dependencia de una casa habitación sin motivo justificado, sin orden de autoridad competente, furtivamente, con engaño, violencia o sin permiso de la persona autorizada para darlo, se le impondrá de seis meses a dos años de prisión o de cincuenta a cien días multa.
 
 Si el hecho se realiza por dos o más personas o por servidor público en ejercicio de sus funciones o con motivo de ellas, la pena será de uno a cuatro años de prisión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -2884,15 +2772,11 @@ Las mismas penas previstas en el artículo anterior se impondrán:
 
 I. Al propietario o poseedor de una cosa mueble, que sin tener la libre disposición sobre la misma a virtud de cualquier título legítimo en favor de tercero, disponga de ella con perjuicio de otro;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 II. Al que haga aparecer como suyo, sin ser de su propiedad, un depósito que garantice la libertad caucional de una persona o cualquiera de las garantías de las previstas en la legislación de procedimientos penales aplicable al Distrito Federal;
 
 III. Al que, habiendo recibido mercancías con subsidio o en franquicia para darles un destino determinado, las distraiga de ese destino o desvirtúe en cualquier forma los fines perseguidos con el subsidio o la franquicia; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3096,8 +2980,6 @@ IV. Prisión de tres a siete años y de cuatrocientos a seiscientos días multa,
 
 Cuando los daños sean causados por culpa, sólo se impondrá al responsable multa hasta por el valor de los daños y perjuicios causados, y se le condenará a la reparación de éstos. Si se repara el daño antes de que el Ministerio Público ejercite acción penal, se extinguirá la pretensión punitiva. Se sobreseerá el juicio, si el inculpado repara los daños y perjuicios, antes de que se dicte sentencia en segunda instancia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
 No se considerará delito:
@@ -3122,8 +3004,6 @@ III. Archivos públicos o notariales;
 
 IV. Bibliotecas, museos, templos, escuelas o edificios, monumentos públicos y aquellos bienes que hayan sido declarados como patrimonio cultural; o
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
 
 V. Mieses o cultivos de cualquier género.
@@ -3131,8 +3011,6 @@ V. Mieses o cultivos de cualquier género.
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
 Cuando el delito se cometa culposamente, en las hipótesis previstas en este artículo, se impondrá la mitad de las penas a que se refiere el artículo 239 de este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -3145,8 +3023,6 @@ I. El agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes
 II. No auxilie a la víctima del delito o se dé a la fuga.
 
 Se impondrá además, suspensión de los derechos en cuyo ejercicio hubiese cometido el delito, por un lapso igual al de la pena de prisión que se le imponga, o si es servidor público, inhabilitación por el mismo lapso para obtener otro empleo, cargo o comisión de la misma naturaleza.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
@@ -3262,13 +3138,9 @@ Cuando el miembro de la pandilla sea o haya sido servidor público de alguna cor
 
 Se impondrán prisión de cuatro a ocho años y de cien a mil días multa al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS SEGUNDO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### ARTÍCULO 254.
 
 (DEROGADO, G.O. 13 DE SEPTIEMBRE DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS SEGUNDO Y TERCERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTÍCULO 255.
 
@@ -3450,19 +3322,13 @@ Cuando el monto de los beneficios a que hace referencia este artículo exceda mi
 
 Se le impondrán de tres a diez años de prisión y de cien a mil días multa a:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 I. El servidor público que por sí o por interpósita persona, utilizando la violencia física o moral inhiba o intimide a cualquier persona, para evitar que ésta o un tercero denuncie, formule querella o aporte información, antecedentes, datos, medios de prueba o pruebas relativas a la presunta comisión de un delito o sobre la presunta comisión de algún servidor público en una conducta sancionada por la legislación penal o por la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 II. Las mismas sanciones se impondrán al servidor público que por sí o por interpósita persona, ejerza represalia contra persona que ha formulado denuncia o querella o aportado información, antecedentes, datos, medios de prueba o pruebas sobre la presunta comisión de un delito o sobre la presunta comisión de algún servidor público en una conducta sancionada por la legislación penal o por la Ley Federal de Responsabilidades de los Servidores Públicos, o ejerza cualquier represalia contra persona ligada por vínculo afectivo o de negocios con el denunciante, querellante o informante;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3640,8 +3506,6 @@ Cuando el delito se cometa por varias personas de común acuerdo, se impondrá d
 
 ### CAPÍTULO IV. SIMULACIÓN DE ELEMENTOS DE PRUEBA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 286.
@@ -3694,8 +3558,6 @@ Al que cometa un delito en contra de un servidor o agente de la autoridad en el 
 
 ### CAPÍTULO III. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 324 Se impondrán prisión de seis a doce años, de cien a trescientos días multa y suspensión para ejercer la profesión, por un tiempo igual al de la pena de prisión, al médico en ejercicio que:
@@ -3704,21 +3566,15 @@ I. Estando en presencia de un lesionado o habiendo sido requerido para atender a
 
 II. Se niegue a prestar asistencia a un enfermo cuando éste corra peligro de muerte o de una enfermedad o daño más grave y, por las circunstancias del caso, no pueda recurrir a otro médico ni a un servicio de salud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Si la víctima u ofendido de este delito es una niña, niño, menor de edad, adolescente o persona inimputable, incapaz, adulto mayor o integrante o miembro de una comunidad o pueblo indígena, las sanciones previstas en este artículo se triplicarán.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 325 Al médico que habiéndose hecho cargo de la atención de un lesionado, deje de prestar el tratamiento sin dar aviso inmediato a la autoridad competente, o no cumpla con las obligaciones que le impone la legislación de la materia, se le impondrán de tres a siete años de prisión y de cien a trescientos días multa.
 
 Si la víctima u ofendido de este delito es una niña, niño, menor de edad, adolescente o persona inimputable, incapaz, adulto mayor o integrante o miembro de una comunidad o pueblo indígena, las sanciones previstas en este artículo se triplicarán.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3770,31 +3626,21 @@ RESPONSABILIDAD DE DIRECTORES, ENCARGADOS, ADMINISTRADORES O EMPLEADOS DE CENTRO
 
 Se impondrán de dos a ocho años de prisión y de cien a cuatrocientos días multa, al servidor público que:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 I. Detenga a un individuo durante la averiguación previa o investigación de un hecho que la ley señale como delito, fuera de los casos señalados por la ley, o lo retenga por más tiempo del previsto en el párrafo décimo del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 II. Obligue al imputado, acusado o inculpado a declarar;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 III. Ejercite la acción penal o pretensión punitiva cuando no preceda denuncia o querella;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 IV. Realice una aprehensión sin poner al aprehendido a disposición del juez sin dilación alguna, en el término señalado por el párrafo cuarto del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3806,43 +3652,29 @@ VI. No otorgue la libertad provisional bajo caución durante la averiguación pr
 
 VII. Otorgue la libertad provisional bajo caución durante la averiguación previa cuando no se reúnan los requisitos previstos en el artículo 556 o se actualicen uno o varios supuestos del artículo 556 Bis, ambos del Código de Procedimientos Penales para el Distrito Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 VIII. Se abstenga de iniciar una averiguación previa o una investigación de un hecho que la ley señale como delito, cuando sea puesto a su disposición un probable responsable o un imputado de delito doloso que sea perseguible de oficio;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 IX. Practique cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 X. Fabrique, altere o simule elementos, datos o medios de prueba para incriminar o exculpar a otro;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 XI. Aplique un criterio de oportunidad fuera de los casos señalados en la ley o la legislación procesal penal aplicable al Distrito Federal; o
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 XII. Altere o permita la alteración de los indicios, huellas o vestigios del hecho delictivo, así como de los instrumentos, objetos o productos del delito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Las sanciones previstas en el primer párrafo de este artículo se duplicarán cuando la persona imputada, acusada o procesada sea integrante o miembro de un pueblo o comunidad indígena.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3894,15 +3726,11 @@ Se impondrán de dos a ocho años de prisión y de cincuenta a trescientos días
 
 I. Ordene la aprehensión de un individuo por delito que no amerite pena privativa de libertad o no preceda denuncia o querella;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 II. Obligue al inculpado, imputado o acusado a declarar;
 
 III. Ordene la práctica de cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3911,8 +3739,6 @@ IV. No tome al inculpado su declaración preparatoria en audiencia pública y de
 V. No dicte auto de formal prisión o de libertad de un detenido, dentro de las setenta y dos horas siguientes a que lo pongan a su disposición, a no ser que el inculpado haya solicitado la ampliación del plazo;
 
 VI. Prolongue injustificadamente la prisión preventiva, sin sentencia definitiva, por más tiempo del que como máximo fija la Constitución;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3926,27 +3752,19 @@ VIII. Demore injustificadamente el cumplimiento de la resolución judicial en la
 
 IX. Inicie un proceso penal contra un servidor público con fuero.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Las sanciones previstas en el primer párrafo de este artículo se duplicarán cuando la persona imputada, acusada o procesada sea integrante o miembro de un pueblo o comunidad indígena.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 299 BIS Se impondrán de cuatro a dieciséis años de prisión y de cien a seiscientos días multa, al servidor público que no imponga una medida cautelar cuando se encuentre en peligro la víctima u ofendido del delito de violencia familiar, delitos contra la mujer, lesiones o se trate de la protección de niñas, niños, integrantes de pueblos o comunidades indígenas, discapacitados o adultos mayores.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 299 TER Se impondrá de siete a veinte años de prisión y de doscientos a seiscientos días multa e inhabilitación por siete años, al servidor público que no imponga una medida cautelar en los supuestos señalados en el artículo anterior, y la persona imputada, acusada o procesada sea una persona moral o jurídica.
 
 La sanción prevista en el párrafo anterior podrá triplicarse cuando se trate de los delitos previstos en el Título Sexto, Libro Segundo de este Código relativos al libre desarrollo de la personalidad cometidos en contra de las personas mayores y menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho o personas que no tengan la capacidad de resistir la conducta.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -4030,8 +3848,6 @@ Al evadido no se le impondrá pena o medida de seguridad alguna, salvo que obre 
 
 Cuando un particular cometa o participe en alguno de los delitos previsto en este Capítulo, se le impondrá la mitad de las sanciones establecidas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ## TÍTULO VIGÉSIMO PRIMERO. DELITOS COMETIDOS POR PARTICULARES ANTE EL MINISTERIO PÚBLICO, AUTORIDAD JUDICIAL O ADMINISTRATIVA
@@ -4046,8 +3862,6 @@ Al que para obtener un beneficio indebido para sí o para otro, simule un acto j
 
 Este delito se perseguirá por querella, salvo que la cuantía o monto exceda de cinco mil veces la Unidad de Cuenta de la Ciudad de México vigente, al momento de realizarse el hecho.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 310 BIS Al que para obtener un beneficio indebido para sí o para otro, altere antecedentes, medios o datos de prueba y los presente en la audiencia intermedia o de debate, o realice cualquier otro acto tendente a inducir a error al órgano jurisdiccional o administrativo, con el fin que se señala en el artículo anterior, se le impondrá la sanción prevista en el artículo anterior. Este delito se perseguirá por querella, en los términos del artículo anterior.
@@ -4059,8 +3873,6 @@ ARTÍCULO 310 BIS Al que para obtener un beneficio indebido para sí o para otro
 Quien al declarar ante autoridad en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad en relación con los hechos que motivan la intervención de ésta, será sancionado con pena de dos a seis años de prisión y de cien a trescientos días multa.
 
 Si la falsedad en declaración se refiere a las circunstancias o accidentes de los hechos que motivan la intervención de la autoridad, la pena será de uno a tres años de prisión y de cincuenta a ciento cincuenta días multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -4092,8 +3904,6 @@ Además de las penas a que se refieren los artículos anteriores, se suspenderá
 
 Se impondrá de seis meses a dos años prisión o de noventa a ciento cincuenta días de trabajo en favor de la comunidad, al que ante una autoridad judicial o administrativa en ejercicio de sus funciones, oculte o niegue su nombre o apellido o se atribuya uno distinto del verdadero, u oculte o niegue su domicilio o designe como tal uno distinto del verdadero.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
@@ -4101,8 +3911,6 @@ Se impondrá de seis meses a dos años prisión o de noventa a ciento cincuenta 
 ###### ARTÍCULO 318.
 
 Al que con el propósito de inculpar a alguien como responsable de un delito ante la autoridad judicial, simule en su contra la existencia de antecedentes, datos, medios de prueba o pruebas materiales que hagan presumir su responsabilidad, se le impondrán de uno a cinco años de prisión y de cien a trescientos días multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -4118,31 +3926,21 @@ II. Asista o ayude a dos o más contendientes o partes con intereses opuestos en
 
 III. A sabiendas, alegue hechos falsos o se apoye en leyes inexistentes o derogadas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 IV. Promueva cualquier incidente, recurso o medio de impugnación notoriamente improcedente, que entorpezca el juicio o cualquier otra etapa del procedimiento ordinario o del procedimiento para personas jurídicas o morales que motive su dilación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 V. Como defensor de un inculpado, se concrete a aceptar el cargo, sin promover elementos de prueba ni diligencias tendientes a la defensa adecuada del inculpado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 VI. Como defensor de un inculpado, no ofrezca ni desahogue los datos o medios de prueba fundamentales para la defensa dentro de los plazos previstos por la ley, teniendo la posibilidad de hacerlo; o
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 VII. Como representante o asesor jurídico de la víctima o el ofendido, se concrete a aceptar el cargo sin realizar gestiones, trámites o promociones relativas a su representación o asesoría.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -4150,27 +3948,19 @@ Si el responsable de los delitos previstos en este artículo es un defensor o as
 
 ### CAPÍTULO I. DELITOS CONTRA EL AMBIENTE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 320.
 
 Se impondrán de seis meses a cinco años de prisión y de cien a quinientos días multa, a quien después de la ejecución de un delito y sin haber participado en éste:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 I.- Ayude en cualquier forma al delincuente a eludir las investigaciones o a sustraerse de ésta;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 II.- Oculte o favorezca el ocultamiento del responsable del delito, u oculte, altere, inutilice, destruya, remueva o haga desaparecer los indicios, instrumentos u otros elementos de prueba o pruebas del delito;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -4238,8 +4028,6 @@ Por actos de maltrato o crueldad y lo relativo a éste capítulo, se estará a l
 
 Se impondrá de seis a doce años de prisión y de cuatrocientos a ochocientos días multa al médico que:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 I. Realice una operación quirúrgica innecesaria o la realice con el fin de obtener un lucro o de ocultar el resultado de una intervención anterior;
@@ -4247,8 +4035,6 @@ I. Realice una operación quirúrgica innecesaria o la realice con el fin de obt
 II. Simule la práctica de una intervención quirúrgica; o
 
 III. Sin autorización del paciente o de la persona que ante la imposibilidad o incapacidad de aquél pueda legítimamente otorgarla, salvo en casos de urgencia, realice una operación quirúrgica que por su naturaleza ponga en peligro la vida del enfermo o cause la pérdida de un miembro o afecte la integridad de una función vital.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -4452,13 +4238,9 @@ IV. Un área verde en suelo urbano.
 
 Las penas previstas en este artículo se aumentarán en una mitad cuando la ocupación o invasión se realice con violencia, así como a quien instigue, promueva, dirija o incite la comisión de las conductas anteriores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 343 BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, a quien dolosamente haga un uso distinto al permitido del uso de suelo u obtenga un beneficio económico derivado de éstas conductas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4480,8 +4262,6 @@ III.- Una barranca; o
 
 IV.- Un área verde en suelo urbano.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
 
 Las penas previstas en este artículo se disminuirán en una mitad cuando, las actividades realizadas, aún siendo diferentes a las previstas en el uso de suelo correspondiente, se encuentren previstas en el programa o programas de ordenamiento ecológico del Distrito Federal, o en el Programa o Programas de Desarrollo Urbano aplicables.
@@ -4490,33 +4270,23 @@ Las penas previstas en este artículo se disminuirán en una mitad cuando, las a
 
 No se considerará violatorio del uso de suelo el supuesto establecido en el artículo 37 de la Ley de Establecimientos Mercantiles.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 344.
 
 Se le impondrán de 1 a 5 años de prisión y de 300 a 1,500 días multa, a quien descargue o deposite hasta un metro cúbico de residuos sólidos de la industria de la construcción en algún lugar no autorizado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
 
 Se le impondrán de 3 a 9 años de prisión y de 1,000 a 5,000 días multa, a quien descargue o deposite más de un metro cúbico de residuos sólidos de la industria de la construcción en algún lugar no autorizado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2011)</small>
 
 Las mismas penas señaladas en el presente artículo se aplicarán a quien transporte residuos de la industria de la construcción, sin contar con el pago de derechos respectivo o sin la documentación comprobatoria que acredite su disposición final o reciclaje en un lugar autorizado por las autoridades competentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral o jurídica, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, multa hasta por quinientos días multa, debiendo reparar el daño que en su caso se hubiere provocado, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4554,13 +4324,9 @@ IV. Un área verde en suelo urbano.
 
 Las penas previstas en este artículo se aumentarán en una mitad cuando el área afectada sea igual o mayor a cinco hectáreas o se afecten recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 345 BIS. Se le impondrán de tres meses a cinco años de prisión y de 500 a 2,000 días multa, al que derribe, tale, o destruya parcialmente u ocasione la muerte de uno o más árboles.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4576,13 +4342,9 @@ IV. En una barranca; o
 
 V. En un área verde en suelo urbano.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral o jurídica, a ésta se le impondrá la consecuencia jurídica consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, multa hasta por quinientos días multa, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4630,8 +4392,6 @@ d. Una zona de recarga de mantos acuíferos; o
 
 e. Un área verde en suelo urbano.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral o jurídica, a ésta se le impondrá la consecuencia jurídica consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, multa hasta por quinientos días multa, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
@@ -4646,19 +4406,13 @@ Se le impondrán de seis meses a cinco años de prisión y de 500 a 2,000 días 
 
 ARTÍCULO 347 BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, al que:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
 
 I. Altere, permita la alteración u opere en forma indebida cualquier equipo o programa utilizado para la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Distrito Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
 
 II. Venda uno o más documentos que acrediten la aprobación de la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Distrito Federal; o
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4668,13 +4422,9 @@ III. Posea o use un documento que acredite la aprobación de la verificación ve
 
 ARTÍCULO 347 TER. Se le impondrán de seis meses a tres años de prisión y de 20 a 500 días multa:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
 
 I. Al propietario, responsable, técnico, empleado o prestador de servicios, dentro de los centros de verificación vehicular, que por sí o por interpósita persona, solicite o reciba dinero o cualquier otra dádiva para la aprobación de la verificación vehicular, o por cualquier motivo cobre una cantidad superior a la autorizada oficialmente; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4698,8 +4448,6 @@ El Juez, de oficio o a petición de parte, podrá reducir las penas correspondie
 
 A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo dictamen técnico favorable emitido por la autoridad ambiental competente en el Distrito Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2011)</small>
 
 En los casos en que la persona procesada demuestre mediante dictamen técnico, que se ha reparado totalmente el daño ambiental causado y que además se han llevado a cabo acciones tendientes a favorecer el equilibrio ecológico o a establecer medidas permanentes de protección a un ecosistema, el Juez podrá determinar que no se le imponga sanción penal alguna. Sólo se podrá hacer uso de este beneficio por una sola vez.
@@ -4721,8 +4469,6 @@ II. La suspensión, modificación o demolición de las construcciones, obras o a
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ARTÍCULO 349 BIS. Tratándose de los delitos previstos en este título, el trabajo a favor de la comunidad, consistirá en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4938,7 +4684,7 @@ POR LA MESA DIRECTIVA.- DIP. HIRAM ESCUDERO ÁLVAREZ, PRESIDENTE.- SECRETARIA, D
 
 En cumplimiento a lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Ciudad de México, a los once días del mes de julio del dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL.- LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTÍZ PINCHETTI.- FIRMA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.]</small>
 
 G.O. 3 DE OCTUBRE DE 2002.
 
@@ -5543,6 +5289,22 @@ Artículo Tercero.- Los procedimientos que se hayan iniciado antes de la entrada
 G.O. 8 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 224 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 5 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 171 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 5 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 176 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
 
