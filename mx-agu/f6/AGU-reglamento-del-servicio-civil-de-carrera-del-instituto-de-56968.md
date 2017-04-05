@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-servicio-civil-de-carrera-del-instituto-de-56968
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-10"
-last_updated: "2007-09-10"
+last_updated: "2017-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "AGU"
 ---
 # REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALlENTES
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de septiembre de 2007.
 
-INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALlENTES
+INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
 
-CONTADOR PÚBLICO LUIS EMILIO LÓPEZ GONZÁLEZ, COMISIONADO PRESIDENTE DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALlENTES; DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTICULO 49 CUARTO PÁRRAFO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALlENTES; Y
+CONTADOR PÚBLICO LUIS EMILIO LÓPEZ GONZÁLEZ, COMISIONADO PRESIDENTE DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES; DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTICULO 49 CUARTO PÁRRAFO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES; Y
 
 CONSIDERANDO:
 
@@ -37,7 +39,7 @@ En Decreto Número 169, de fecha del 22 de mayo del 2006, que contiene la Ley de
 
 Por lo anteriormente expuesto y fundado, se emite el siguiente:
 
-REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALlENTES
+REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -63,7 +65,7 @@ III. PLENO: Al órgano máximo de dirección y administración del Instituto, in
 
 IV. REGLAMENTO DEL SERVICIO CIVIL: Al presente Reglamento del Servicio Civil de Carrera del Instituto de Transparencia.
 
-V. CATÁLOGO: Al Catálogo de Puestos del lnstituto de Transparencia del Estado de Aguascalientes.
+V. CATÁLOGO: Al Catálogo de Puestos del Instituto de Transparencia del Estado de Aguascalientes.
 
 VI. SERVICIO: Al Servicio Civil de Carrera del Instituto.
 
@@ -1002,3 +1004,33 @@ C.P. Luis Emilio López González, COMISIONADO PRESIDENTE.
 Lic. César Octavio López Rodríguez, COMISIONADO.
 
 Lic. Jorge Alejandro Doring Zuazo, COMISIONADO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto de Transparencia del Estado de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de enero del año 2007, así como sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento del Servicio Civil de Carrera del Instituto de Transparencia del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, el 10 de septiembre del año 2007, así como sus reformas y adiciones.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan al presente Reglamento Interior del Instituto de Transparencia del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Las controversias e interpretaciones que deriven de este instrumento legal, serán resueltas por el Pleno del Instituto de Transparencia del Estado de Aguascalientes.
+
+###### ARTÍCULO SEXTO.
+
+Envíese a la Secretaría General de Gobierno para su publicación en el Periódico Oficial del Estado, de conformidad con el artículo 4° de la Ley del Periódico Oficial del Estado de Aguascalientes.
