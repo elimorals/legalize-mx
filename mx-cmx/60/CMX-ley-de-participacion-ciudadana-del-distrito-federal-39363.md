@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2016-11-17"
+last_updated: "2017-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE ABRIL DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -1116,15 +1116,17 @@ La asamblea ciudadana deberá aprobar o modificar el programa general de trabajo
 
 Las asambleas ciudadanas también aprobarán los diagnósticos y propuestas de desarrollo integral que se le presenten, los que podrán ser tomados en cuenta en los términos de los artículos 83, 84 y 85 de esta Ley.
 
-(REFORMADO, G.O. 26 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2016)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Artículo 83.
 
-En el Distrito Federal existe el presupuesto participativo que es aquel sobre el cual los ciudadanos deciden respecto a la forma en que se aplican recursos en proyectos específicos en las colonias y pueblos originarios en que se divide el territorio del Distrito Federal.
+En el Distrito Federal existe el presupuesto participativo que es aquel sobre el cual los ciudadanos deciden respecto a la forma en que se aplican los recursos en proyectos específicos en las colonias y pueblos originarios en que se divide el territorio del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 13 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 2017)</small>
 
-Los recursos del presupuesto participativo corresponderán al 3 por ciento del presupuesto anual de las Delegaciones. Los rubros generales a los que se destinará la aplicación de dichos recursos serán los de obras y servicios, equipamiento, infraestructura urbana, prevención del delito, además de los que estén en beneficio de actividades recreativas, deportivas y culturales de las colonias o pueblos del Distrito Federal.
+Los recursos del presupuesto participativo corresponderán al 3 por ciento del presupuesto anual de las Delegaciones. Los rubros generales a los que se destinará la aplicación de dichos recursos en las colonias o pueblos originarios del Distrito Federal, serán los de: obras y servicios, equipamiento, infraestructura urbana, prevención del delito, actividades recreativas, deportivas y culturales.
+
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2011)</small>
 
 Los recursos de presupuesto participativo serán ejercidos en los capítulos 2000, 3000, 4000, 5000 y 6000 conforme a lo dispuesto en el Clasificador por Objeto del Gasto vigente.
 
@@ -1136,15 +1138,25 @@ En el caso de las erogaciones con cargo al Capítulo 4000 las Delegaciones, debe
 
 Las erogaciones a que se refiere el párrafo anterior, deberán realizarse en apego con lo dispuesto en el Decreto de Presupuesto de Egresos del Distrito Federal del año correspondiente en lo relativo al ejercicio directo de los recursos por las Delegaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE ABRIL DE 2017)</small>
 
-El Jefe de Gobierno y La Asamblea Legislativa están respectivamente obligados a incluir y aprobar en el decreto anual de presupuesto de egresos:
+El Jefe de Gobierno y la Asamblea Legislativa están obligados a incluir y aprobar respectivamente en el decreto anual de presupuesto de egresos del Distrito Federal:
+
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2011)</small>
 
 a) El monto total de recursos al que asciende el presupuesto participativo por Delegación, el que corresponderá al tres por ciento del presupuesto total anual de aquéllas;
 
+> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2011)</small>
+
 b) Los recursos de presupuesto participativo correspondientes a cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal. Para tal efecto, el monto total de recursos de presupuesto participativo de cada una de las Delegaciones se dividirá entre el número de colonias y pueblos originarios que existan en aquéllas, de modo que la asignación de recursos sea igualitaria, y
 
-c) Los rubros específicos en que se aplicarán los recursos de presupuesto participativo en todas y cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal, de conformidad con los resultados de la consulta ciudadana que sobre la materia le remita el Instituto Electoral.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE ABRIL DE 2017)</small>
+
+c) Los rubros específicos en que se aplicarán los recursos de presupuesto participativo en todas y cada una de las colonias y pueblos originarios en que se divide el territorio del Distrito Federal, de conformidad con los resultados de la consulta ciudadana que sobre la materia remita el Instituto Electoral.
+
+> <small>(ADICIONADO, G.O. 5 DE ABRIL DE 2017)</small>
+
+Corresponderá a la Contraloría General y las Contralorías Internas conocer y sancionar en materia de presupuesto participativo, en términos de la Ley de la materia.
 
 > <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2016)</small>
 
@@ -2806,7 +2818,7 @@ La Asamblea Legislativa del Distrito Federal por medio de la Comisión de Partic
 
 ### CAPÍTULO VIII. DE LA PARTICIPACIÓN DE LOS COMITÉS CIUDADANOS EN EL PRESUPUESTO PARTICIPATIVO
 
-> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE ABRIL DE 2017)</small>
 
 #### SECCIÓN PRIMERA. DEL PLEBISCITO, REFERÉNDUM E INICIATIVA POPULAR
 
@@ -2870,7 +2882,9 @@ El Jefe de Gobierno, las Dependencias, la Asamblea Legislativa y los Jefes Deleg
 
 ###### Artículo 199.
 
-El presupuesto participativo es aquel sobre el que los ciudadanos deciden respecto a su aplicación en las colonias que conforman al Distrito Federal, y que se haya establecido en los artículos 83 y 84 de la presente Ley.
+El presupuesto participativo es aquel sobre el que los ciudadanos deciden respecto a su aplicación en las colonias y pueblos que conforman el Distrito Federal y que se haya establecido en el artículo 83 y 84 de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 El presupuesto participativo ascenderá en forma anual a entre el 1 y 3% de los presupuestos de egresos totales anuales de las Delegaciones que apruebe la Asamblea Legislativa. Estos recursos serán independientes de los que las Delegaciones contemplen para acciones de gobierno o programas específicos de cualquier tipo que impliquen la participación de los ciudadanos en su administración, supervisión o ejercicio.
 
@@ -2986,7 +3000,7 @@ El Jefe de Gobierno y los Jefes Delegacionales facilitarán los espacios necesar
 
 El Instituto Electoral, en conjunto con los Comités Ciudadanos, será el encargado de validar los resultados de las consultas ciudadanas. Los resultados de las consultas serán públicos en todo momento.
 
-Para el supuesto previsto en el inciso a) del párrafo primero del artículo 84 de la presente Ley, la convocatoria deberá ser emitida dentro de los primeros quince días del mes de mayo de cada año. Para el supuesto previsto en el inciso b) del párrafo primero del artículo 84 referido, la convocatoria será lanzada dentro de los primeros quince días del mes de diciembre de cada año.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 5 DE ABRIL DE 2017)</small>
 
 III. Las demás que establecen la presente Ley y otras disposiciones aplicables.
 
@@ -4323,3 +4337,11 @@ CUARTO. Las Delegaciones Políticas deberán emitir dentro de los 90 días sigui
 QUINTO. El Jefe de Gobierno de la Ciudad de México, deberá emitir en los próximos 60 días siguientes a la aprobación del presente decreto, un listado de las instituciones académicas consideradas como de reconocido prestigio y de la cual saldrán los especialistas que formen parte de los órganos técnicos colegiados de las jefaturas delegacionales.
 
 SEXTO. El Jefe de Gobierno de la Ciudad de México y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas atribuciones, proveerán los recursos económicos suficientes, a fin de dar cumplimiento a l a (sic) difusión y atribuciones del órgano técnico colegiado.
+
+G.O. 5 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL".]
+
+PRIMERO. Remítase el presente Decreto al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
