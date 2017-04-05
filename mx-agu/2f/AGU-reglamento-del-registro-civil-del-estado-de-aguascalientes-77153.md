@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-registro-civil-del-estado-de-aguascalientes-7715
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-01"
-last_updated: "2016-07-18"
+last_updated: "2017-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "AGU"
 
 REGLAMENTO DE LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2017.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 1 de noviembre de 2010.
 
 ING. LUIS ARMANDO REYNOSO FEMAT, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, en ejercicio de la facultad que me confiere la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y los Artículos 10 y 11 de la Ley Orgánica de la Administración Pública del Gobierno del Estado;
 
-CONSIDERANDO:...
+CONSIDERANDO:
+
+[...]
 
 En esta tesitura el Código Civil para el Estado Libre y Soberano de Aguascalientes, establece las normas a que está sujeta la Dirección del Registro Civil en el Estado como un Registro de carácter público y de interés social, por medio de la cual el Estado inscribe y da publicidad a los actos constitutivos o modificativos del estado civil de las personas; que del contenido de los preceptos relativos se desprende la obligación y la necesidad en algunos casos, de reglamentar determinadas acciones para el buen funcionamiento de la Dirección General; implica la claridad de conceptos y normas a que está sujeto el trabajo de los servidores públicos que en dicha entidad laboran; que para cumplir eficazmente con ello, se hace necesario actualizar la reglamentación, las atribuciones de la misma, abrogando el reglamento existente, debido a que no contempla con fidelidad como se realizan actualmente los actos registrales, incluyendo algunos trámites que con el desarrollo e implementación de las nuevas tecnologías de la información en la operación del mismo, así como las modificaciones que ha sufrido el Código Civil desde la publicación del Reglamento interno que actualmente rige al Registro Civil y los cambios en los procedimientos para llevar a cabo la inscripción y dación de publicidad de los actos del estado civil de las personas, dando cumplimiento a lo establecido por el Titular del Ejecutivo Estatal en el Plan Estatal de Desarrollo directriz 2 reto 10 correspondiente a la Gobernabilidad y el reto 7 que tipifica la participación democrática, referenciando la cohesión y dinámica poblacional en el rubro de la Modernización Integral del Registro Civil. Por tales razones, he tenido a bien expedir el nuevo Reglamento Interno del Registro Civil en los siguientes términos:
 
@@ -71,23 +73,33 @@ IX. Dirección General. Dirección General del Registro Civil perteneciente a la
 
 X. Copia Certificada. La certificación del Acta expedida por el Registro Civil, copia fiel del registro original que obra en los libros que se ubican en el Archivo Histórico de la Dirección General, para los fines legales que los usuarios del mismo requieran;
 
-XI. Formato Valorado. Formato Único del Registro Civil impresas (sic) en papel especial con 14 niveles de seguridad, en las que se asientan los hechos y actos del estado civil y aquellas en las que se expiden certificaciones de éstos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XII. Acta Certificada. Extracto del Acta expedida por el Registro Civil, contiene los datos esenciales del registro original, impreso en formato valorado para los fines legales que los usuarios del mismo requieran;
+XI. Formato Valorado. Formato único del Registro Civil impreso en papel especial dotado de niveles de seguridad, en las que se asientan los hechos y actos del estado civil y aquellas en las que se expiden certificaciones de éstos;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XII. Acta certificada. Extracto del Acta expedida por el Registro Civil que contiene los datos esenciales del registro original, impreso en formato valorado, o en su caso según los lineamientos establecidos por el Registro Nacional de Población, para los fines legales que los usuarios del mismo requieran;
 
 XIII. Director General. Director General del Registro Civil;
 
-XIV. Registro Civil. Registro de carácter público y de interés social, por medio de la cual (sic) el Estado inscribe, autoriza, certifica y da publicidad a los actos constitutivos o modificativos del estado civil de las personas;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XIV. Registro Civil. Registro de carácter público y de interés social, por medio del cual el estado inscribe, autoriza, certifica y da publicidad a los actos constitutivos o modificativos del estado civil de las personas;
 
 XV. Hecho. Todo acto tendiente a producir consecuencias jurídicas;
 
 XVI. Unidad Central. Sede de la Dirección General del Registro Civil;
 
-XVII. Oficialía Foránea. Oficina dependiente de la Dirección General del Registro Civil, circunscrita fuera de la oficina central y dentro del territorio del Estado, se realizan registros de nacimientos, matrimonio, defunción, reconocimiento de hijos, la expedición de la clave única de registro de población, copias y Actas certificadas de los "Formatos del Registro Civil";
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XVII. Oficialía Foránea. Oficina dependiente de la Dirección General del Registro Civil, circunscrita fuera de la unidad central y dentro del territorio del Estado, donde se realizan registros de nacimiento, matrimonio, defunción, reconocimiento de hijos, rectificaciones administrativas exclusivamente en lo que se refiere a la fracción XVII del artículo 83 del presente reglamento, expedición de la Clave Única de Registro de Población, copias y actas certificadas de los "Formatos Únicos del Registro Civil";
 
 XVIII. Oficiales del Registro Civil. Servidores públicos, cuya función es asentar los actos del estado civil de la personas, dando fe de los hechos o actos que se realicen en su respectiva oficialía;
 
-XIX. Constancias de Inexistencia. Oficio expedido por parte del Director General indicando que no existe registro alguno en los libros que obran en el Archivo Histórico de la Dirección General del Registro Civil en la búsqueda de un determinado acto registral, para los fines legales que el interesado requiera;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XIX. Constancia de Inexistencia. Documento expedido por parte del Director General indicando que no existe registro alguno en los libros que obran en el Archivo Histórico de la Dirección General del Registro Civil derivado de la búsqueda de un determinado acto registral, para los fines legales que el interesado requiera;
 
 XX. Es Parte. La persona o personas que intervienen en el registro del acto relativo al estado civil, expresándole al Oficial del Registro Civil, su voluntad de que se realice;
 
@@ -95,17 +107,23 @@ XXI. Los Declarantes. Son las personas que hacen conocer al Oficial del Registro
 
 XXII. Constancias. Refieren la existencia del registro de un acto relativo al estado civil de las personas, en los archivos de la Dirección del Registro Civil;
 
-XXIII. El Registro. Es el acto solemne por medio del cual el Oficial del Registro Civil asienta todos los actos correspondientes al estado civil de las personas; éste debe realizarlos con todos los requisitos exigidos por la Ley;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XXIV. Registro Extemporáneo de nacimiento. Es aquel que se efectúe con posterioridad a los seis meses y menores de 18 años, en que ocurrió el alumbramiento;
+XXIII. El Registro. Es el acto solemne por medio del cual el Oficial del Registro Civil asienta todos los actos y hechos correspondientes al estado civil de las personas; este debe realizarlos con todos los requisitos exigidos por la ley;
 
-XXV. Identificación Oficial. Credencial de elector, Pasaporte, Matricula Consular, Credencial del IMSS, Cédula de Identificación Ciudadana;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXIV. Registro extemporáneo de nacimiento. Es aquel que se efectúe con posterioridad a los 3 meses y antes de los 18 años, en que ocurrió el alumbramiento. En los casos relativos a mayores de 18 años se estará a lo dispuesto por el artículo 37 del presente reglamento;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXV. Identificación Oficial. Credencial de elector, Pasaporte, Matrícula Consular, Credencial del IMSS, Cartilla Militar. Tratándose de menores de edad les podrá ser aceptada la documentación relativa a boletas y certificados expedidos por el Instituto de Educación de Aguascalientes.
 
 XXVI. Abrogación. Es la derogación total de una ley por una disposición de igual o mayor jerarquía que la sustituida;
 
 XXVII. Reglamento. Al presente Reglamento del Registro Civil del Estado de Aguascalientes; y
 
-XXVIII. Oficinas Descentralizadas. Oficinas ubicadas en los hospitales de carácter público, en las cuales sólo se realizan registros de nacimientos, defunciones, la expedición de la Clave Única de Registro de Población, Actas certificadas.
+XXVIII. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
 ###### Artículo 3°.
 
@@ -113,9 +131,13 @@ Los hechos que se declaren y los actos que se realicen en las oficinas del Regis
 
 Tratándose de levantamiento de actas de registro de nacimiento y matrimonio, podrán celebrarse fuera del horario y de las oficinas del Registro Civil, previo al pago de los derechos correspondientes:
 
-a) Los hechos y actos registrales que se efectúen respecto del estado civil de las personas ante el Registro Civil, causarán los derechos que establezca la Ley de Ingresos y Egresos del Estado del ejercicio fiscal en curso; y
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
 
-b) Los pagos por derechos correspondientes deben efectuarse, en los lugares previamente designados por la Secretaría de Fianzas (sic) del Estado.
+a) Los hechos y actos registrales que se efectúen respecto del estado civil de las personas ante el Registro Civil, causarán los derechos que establezca la Ley de Ingresos correspondiente al ejercicio fiscal en que se celebre el mismo; y
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+b) Los pagos por derechos correspondientes deben efectuarse, en los lugares previamente designados por la Secretaria de Finanzas del Estado.
 
 ### CAPÍTULO II. Estructura y Funcionamiento de la Dirección General del Registro Civil
 
@@ -139,19 +161,25 @@ b) Para ser Director General, se requiere:
 
 4) Comprobar residencia efectiva en el Estado de Aguascalientes, no mínima de cinco años anteriores a su nombramiento;
 
-5) No haber recibido sentencia condenatoria por delito culposo; y
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+5) Ser de reconocida probidad, y
 
 6) No encontrase inhabilitado para ejercer la profesión, gozar de buena reputación personal y profesional;
 
 c) Su función se basa en los 3 vértices que rigen la operación del Registro Civil:
 
-1) Misión. Proporcionar certeza jurídica e identidad única al estado civil de las personas, inscribiendo los registros y emitiendo certificaciones de los diversos actos registrales, así como asignar y expedir la Clave Única de Registro de Población, a través de una simplificación de trámites, apoyados en un alto sentido Humano y de Servicio, tecnología de punta, Servidores Públicos constantemente capacitados, con oficinas descentralizadas y cercanas a la Ciudadanía, además de ofrecer Servicios complementarios de clase Mundial, para corresponder a la voluntad del Gobierno del Estado y la Federación, así como lo demande la sociedad;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+1) Misión. Proporcionar certeza jurídica e identidad única al estado civil de las personas, inscribiendo los registros y emitiendo certificaciones de los diversos actos registrales, así como asignar y expedir la Clave Única del Registro de Población, a través de una simplificación de trámites, apoyados en un alto sentido humano y de servicio, tecnología de punta, servidores públicos constantemente capacitados, con Oficinas cercanas a la ciudadanía, además de ofrecer servicios complementarios de clase mundial, para corresponder a la voluntad del Gobierno de (sic) Estado y la Federación, así como lo demande la sociedad.
 
 2) Visión. Implementar acciones de impacto positivo para la Población en General, que se traduzcan en beneficios palpables inmediatos en los Servicios del Registro Civil, ofrecer un servicio ágil con tecnología de punta y con Oficialías integradas que brinden éste, con calidad, de manera pronta y expedita, que establezca nuevos vínculos con la ciudadanía, que esté siempre cerca de la gente, basado atención (sic) personalizada por funcionarios altamente capacitados y comprometidos con la institución, asimismo; se establecerán alianzas estratégicas con otras Dependencia (sic) Gubernamentales, Federales, Estatales y Municipales, todo ello con el fin de ofrecer Servicios innovadores; y
 
 3) Objetivo. Hacer constar de una manera auténtica a través de un sistema organizado, todos los actos relacionados con el estado civil de las personas, mediante la intervención de funcionarios estatales dotados de fe pública, a fin de que las actas y testimonios que otorguen, tengan un valor probatorio pleno, en juicio y fuera de él;
 
-d) Son Facultades y Atribuciones del Director General:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
+d) Son Facultades y Obligaciones del Director General.
 
 I. Dirigir, organizar, coordinar, supervisar y evaluar el servicio del registro de los hechos y actos del estado civil de las personas;
 
@@ -167,9 +195,13 @@ IV. Proponer al Secretario General de Gobierno, el nombramiento y cambio de los 
 
 V. Establecer políticas de rotación de personal de acuerdo a las necesidades del servicio, incluyendo a los Oficiales del Registro Civil, a jurisdicción distinta de aquella para la que hubieren sido designados originalmente, así como a los Encargados de Secciones que conforman la Dirección General del Registro Civil;
 
-VI. Proponer la apertura de nuevas Oficialías de acuerdo a las necesidades sociodemográficas del Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-VII. Autorizar, ordenar la impresión y distribución de los (sic) "Actas" del Registro Civil, así como establecer la normativa organizacional, autorizar, operar la captura y procesamiento de las bases de datos de registro informático, en donde deban asentarse o registrarse los actos concernientes al estado civil de las personas;
+VI. Autorizar la apertura o cierre de Oficialías Foráneas de acuerdo a la demanda y las necesidades sociodemográficas del Estado.
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+VII. Autorizar la impresión y distribución de las "Actas certificadas" del Registro Civil, de acuerdo a la base de datos del sistema informático, así como establecer lineamientos para la captura y procesamiento de la información del archivo histórico del Registro Civil.
 
 VIII. Autorizar que las "Actas" del Registro Civil que integran los Volúmenes correspondientes del Registro y existentes en el archivo, sean consultados por los interesados, previa identificación, en horas hábiles, permitiendo tomar los apuntes o notas que sean necesarios; excepto de aquellos que sean considerados como de información confidencial de conformidad con lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Aguascalientes;
 
@@ -183,9 +215,13 @@ XII. Emitir las resoluciones administrativas que declaran disuelto el vinculo ma
 
 XIII. Atender las consultas que le soliciten las autoridades e interesados;
 
-XIV. Autorizar con su firma, autógrafa o electrónica, la expedición de copias certificadas de las "Actas" del Registro Civil que obren en los volúmenes del archivo a su cargo, así como las Constancias y Actas certificadas que se expidan con motivo de la información existente en la base de datos de registro informático;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XV. Proponer a la Secretaría General de Gobierno la suscripción de acuerdos en coordinación con las entidades públicas interesadas en la promoción y extensión de los servicios del Registro Civil;
+XIV. Autorizar con su firma, autógrafa o electrónica, las "Actas" o Asentamientos, copias certificadas de las "Actas" del Registro Civil que obren en los volúmenes del archivo a su cargo, así como las Constancias, Actas Certificadas y Anotaciones Marginales que se expidan con motivo de la información existente en la base de datos del Registro Informático.
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XV. Proponer a la Secretaria General de Gobierno la suscripción de acuerdos y convenios en coordinación y/o colaboración con las entidades públicas y privadas interesadas en los servicios que presta el Registro Civil.
 
 XVI. Delimitar la jurisdicción de cada Oficialía;
 
@@ -211,7 +247,9 @@ XXV. Promover campañas tendientes a regularizar los diversos hechos y actos del
 
 XXVI. Emitir lineamientos y criterios operativos para el buen funcionamiento del Registro Civil, conforme a las disposiciones jurídicas aplicables;
 
-XXVII. Representar al Registro Civil en los juicios y procedimientos relativos al estado civil en lo que sea parte;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXVII. Representar al Registro Civil en los juicios y procedimientos relativos al estado civil en los que sea parte;
 
 XXVIII. Suplir la firma del oficial del Registro Civil en los actos registrales, debido a las ausencias de los mismos de sus respectivas oficinas, en caso de que éstas sean por causas de fuerza mayor, ya sea por enfermedad o muerte;
 
@@ -221,27 +259,45 @@ XXX. Autorizar los registros de nacimiento, reconocimientos y matrimonios en los
 
 XXXI. Expedir constancias de Inexistencia de Nacimiento, Matrimonio y Defunción;
 
-XXXII. Designar a las personas autorizadas para llevar a cabo matrimonios a domicilio a su nombre, en el municipio capital;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XXXIII. Vigilar y proceder en consecuencia en caso de que los empleados reciban o exijan a los ciudadanos dádivas; emolumentos, compensaciones, gratificaciones o estímulos, por la prestación de sus servicios, en caso de encontrar evidencias de estás practicas son objeto de levantamiento de actas administrativas, las cuales serán turnadas por el Director General a la Contraloría General del Estado con la finalidad de que lleve las dirigencias (sic) correspondientes y en su momento dictamine las sanciones que corresponden acorde a la Ley de Responsabilidades a los Trabajadores al Servicio del Estado, esto es aplicable para todos y cada uno de los trabajadores de la Dirección General del Registro Civil en la Entidad;
+XXXII. Designar mediante oficio de comisión a las personas autorizadas para llevar a cabo matrimonios a domicilio a su nombre, en el municipio capital y en su caso en el Estado;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXIII. Vigilar y proceder en consecuencia en caso de que los empleados reciban o exijan a los ciudadanos dádivas, emolumentos, compensaciones, gratificaciones o estímulos, por la prestación de sus servicios, en caso de encontrar evidencias de estas prácticas serán objeto de levantamiento de actas administrativas, las cuales serán turnadas por el Director General a la dependencia encargada del control, evaluación, fiscalización y rendición de cuentas de la administración pública del Estado; con la finalidad de que lleve las diligencias correspondientes y en su momento dictamine las sanciones que correspondan acorde a la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, esto es aplicable para todos y cada uno de los trabajadores de la Dirección General del Registro Civil en la Entidad.
 
 XXXIV. Solicitar a la Secretaría de Finanzas específicamente en trámites administrativos en casos de extrema necesidad, pobreza y por cuestiones humanitarias, previa aprobación del estudio socioeconómico del Sistema para el Desarrollo Integral de la Familia en el Estado y una vez otorgado el visto bueno del mismo, la condonación del pago, remitiendo un reporte, indicando las causas, copia del trámite y los datos del beneficiario, éste irá dirigido a la Secretaría General de Gobierno, al Subsecretario de Ingresos de la Secretaría de Finanzas, para su aprobación;
 
-XXXV. Emplear la firma electrónica avanzada, con la finalidad de dar certeza a los trámites en la Dirección General, asimismo, determinará las oficialías foráneas que podrá utilizar la misma en aquellos casos que así lo justifique y una vez que el Código Civil en el Estado de Aguascalientes sea adecuado y tipifique el empleo de ésta en los servicios del Registro Civil;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XXXVI. Poner a disposición de personal a la Dirección Administrativa de la Secretaría General de Gobierno a todo aquél trabajador que lleven (sic) a cabo conductas impropias, nocivas en contra de la institución y el buen nombre de la misma, a fin de que la autoridad jurisdiccional correspondiente con base en el marco jurídico que nos rige, establezca la sanción aplicable de acuerdo a la Ley de Responsabilidades de los Servidores Públicos al Servicio del Estado y el Estatuto Jurídico de los trabajadores;
+XXXV. Emplear la firma electrónica avanzada, con la finalidad de dar certeza a los trámites en la Dirección General, asimismo, determinará las Oficialías Foráneas que podrán utilizar la misma en aquellos casos que así lo justifiquen;
 
-XXXVII. Presentar al inicio del sexenio el plan de trabajo al momento de tomar posesión del cargo ante el Secretario General de Gobierno a fin de que sea incluido en el Plan Estatal de Desarrollo del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XXXVIII. Asistir a las reuniones Regionales, Nacionales y de carácter especial a las que sea requerido por el Registro Nacional de Población e Identificación Personal;
+XXXVI. Poner a disposición de la Dirección Administrativa de la Secretaria General de Gobierno a todo aquel trabajador que lleve a cabo conductas impropias o nocivas en contra de la institución y el buen nombre de la misma, a fin de que la autoridad jurisdiccional correspondiente con base en el marco jurídico que nos rige, establezca la sanción aplicable de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y al Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados;
 
-XXXIX. Coadyuvar en el cumplimiento de los compromisos de los anexos de Transferencia de Recursos Federales para los proyectos de Modernización Integral del Registro Civil. Asimismo, vigilar que los recursos sean empleados en los fines mencionados en las bases, programas y objetivos signados en cada unos (sic) de ellos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XL. Nombrar a los titulares de las Oficialías Locales, Foráneas, del Registro Civil Móvil, Secciones de la Dirección General;
+XXXVII. Presentar el plan de trabajo ante el Secretario General de Gobierno cuando le sea requerido por éste para ser incluido en el Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXVIII. Asistir o en su caso designar representante en las reuniones Regionales, Nacionales y de carácter especial a las que sea requerido por el Registro Nacional de Población e Identificación Personal;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXIX. Coadyuvar en el cumplimiento de los compromisos de los anexos de transferencia de recursos federales para los proyectos de modernización integral del Registro Civil. Asimismo, vigilar que los recursos sean empleados en los fines mencionados en las bases, programas y objetivos signados en cada uno de ellos;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XL. Nombrar a los titulares de las Oficialías Foráneas, del Registro Civil Móvil y las Secciones de la Dirección General.
 
 XLI. Ordenar la restricción para la expedición de actas por doble registro en actos registrales, hasta que exista sentencia ejecutoria de nulidad por parte del juez correspondiente, que libere el mismo, indicando clara y fehacientemente cual de los (sic) ellos prevalecerá como valido;
 
-XLII. Remitir un informe de los Actos Registrales que se celebren cada mes en el Estado, ante la Secretaría General de Gobierno y a la Contraloría General del Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XLII. Remitir un informe de los Actos Registrales que se celebren cada mes en el Estado, ante la Secretaría General de Gobierno y a la dependencia encargada del control, evaluación, fiscalización y rendición de cuentas de la administración pública del Estado.
 
 XLIII. Clasificar la Información de acuerdo a lo que establece la Ley de Transparencia y Acceso a la Información Pública para el Estado de Aguascalientes;
 
@@ -249,9 +305,9 @@ XLIV. Proporcionar los datos que le sean solicitados por las Embajadas y Consula
 
 XLV. Solicitar asesoría consultiva y técnica a la Secretaría General de Gobierno, así como al Registro Nacional de Población e Identificación Personal;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XLVI. Ordenar a los Coordinadores de Formatos Valorados y de Oficialías, realizar las supervisiones ordinarias o extraordinarias necesarias a los apéndices, bases de datos y documentos relacionados con los actos registrales celebrados en las Secciones de la Dirección General, Oficialías Locales, Foráneas y Oficinas descentralizadas, las mismas se harán en presencia del Oficial del Registro Civil o encargado de Sección correspondiente y los resultados se asentarán en un Acta circunstanciada que al efecto se elabore, la cual deberá firmarse por el personal que haya intervenido, designado previamente por el Director General. La supervisión podrá ser de carácter físico o técnico. En caso de encontrar anomalías, serán turnadas a las autoridades competentes para su evaluación y aplicación de las medidas correspondientes que las leyes y estatutos jurídicos que nos (sic) rigen, y conforme a lo establecido en el artículo 16 del presente reglamento, la periodicidad de las supervisiones extraordinarias no podrá ser en un plazo mayor a 6 meses y las ordinarias se realizarán mensualmente;
+XLVI. Ordenar a los Coordinadores de Formatos Valorados y de Oficialías, realizar las supervisiones necesarias a los apéndices, bases de datos y documentos relacionados con los actos registrales celebrados en las Secciones de la Unidad Central y Oficialías Foráneas, las mismas se harán en presencia del Oficial del Registro Civil o encargado de la Sección correspondiente y los resultados se asentarán en un Acta circunstanciada que al afecto se elabore, la cual deberá firmarse por el personal que haya intervenido, designado previamente por el Director General. La supervisión podrá ser de carácter físico y/o técnico. En caso de encontrar anomalías serán turnadas a las autoridades competentes para su evaluación, y aplicación de las medidas correspondientes;
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
@@ -275,7 +331,9 @@ III. Acreditar práctica profesional en materia civil por un término mínimo de
 
 IV. No encontrarse inhabilitado para ejercer la profesión, gozar de buena reputación personal y profesional;
 
-V. No tener antecedentes penales por delito culposo y ser de reconocida probidad; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+V. Ser de reconocida probidad; y
 
 VI. No ser ministro de algún culto religioso o militar en servicio activo.
 
@@ -333,37 +391,61 @@ Para ser Coordinador del Registro Civil se requiere:
 
 2) No encontrarse inhabilitado para ejercer la profesión, gozar de buena reputación personal y profesional;
 
-3) No tener antecedentes penales por delito culposo, ser de reconocida probidad; y
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+3) Ser de reconocida probidad; y
 
 4) No ser ministro de algún culto religioso o militar en servicio activo.
 
 Los Coordinadores de Formatos Valorados y de Oficialías serán suplidos en sus ausencias temporales por el servidor público inmediato inferior en un plazo que no exceda los 20 días.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Artículo 7°.
 
-Son facultades y atribuciones de la Coordinación de Formatos Valorados:
+Son Facultades y Obligaciones de la Coordinación de Formatos Valorados:
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 I. Cumplir y hacer cumplir los acuerdos y circulares que se emitan;
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
 II. Guardar, custodiar y administrar los formatos valorados;
 
-III. Administrar a las Oficialías Locales, Foráneas, Registro Civil Móvil y Oficinas Descentralizadas, al área de actas foráneas, al archivo, a los Centros de Atención y Servicios, y de acuerdo a sus necesidades, los formatos de hojas valoradas, previo el pago de los derechos ante la Secretaría de Finanzas; así mismo administrará al área de nacimientos de la oficina central con motivo de la primer acta gratuita, comprobando el encargado del área que corresponda la entrega;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-IV. Solicitar la licitación de la compra de formatos de asentamientos y de papel valorado para la expedición de certificaciones de todo tipo de actas y constancias de Inexistencia;
+III. Administrar a la Unidad Central, Oficialías Foráneas, Registro Civil Móvil, al área de actas foráneas, al archivo, a los Centros de Atención y Servicios, de acuerdo a sus necesidades, los formatos de hojas valoradas, previo al pago de los derechos ante la Secretaría de Finanzas; así mismo administrará el área de nacimientos de la oficina central con motivo de la primer acta gratuita, comprobando el encargado del área que corresponda, la entrega;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+IV. Solicitar al Director General gestione la licitación para la compra de formatos de asentamientos y de papel valorado para la expedición de certificaciones de todo tipo de acta y constancias;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 V. Coadyuvar con la Dirección General y la Secretaría General de Gobierno en la comprobación de los recursos federales y estatales tipificados en los anexos de transferencias que la Federación realiza a través del Registro Nacional de Población y el Gobierno del Estado a través de la Dirección General del Registro Civil perteneciente a la Secretaría General de Gobierno, enviando copias de las facturas certificadas por la Secretaría de Fiscalización y Rendición de Cuentas, a la Dirección Administrativa de la Secretaría General de Gobierno, mismos que deberán corresponder al ejercicio fiscal en curso, para su compulsa y posterior aprobación;
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
 VI. Suministrar los insumos necesarios para el desempeño de las funciones propias de la institución, dotándole al personal y a cada sección de los insumos y materiales necesarios para su operación;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 VII. Elaborar y solicitar mensualmente a la Dirección Administrativa de la Secretaría General de Gobierno, las requisiciones para dar puntual cumplimiento a la fracción anterior;
 
-VIII. Informar de forma inmediata al Director General de las anomalías que se presenten debido a la administración de los formatos valorados entregados a los Oficiales del Registro Civil y demás empleados administrativos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+VIII. Informar de forma inmediata al Director General de las anomalías que se presenten debido a la administración de los formatos valorados entregados a los oficiales del registro, demás empleados administrativos y al encargado del suministro de papel en los centros de servicio;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 IX. Elaborar un informe mensual y anual de los pagos realizados por la venta de formatos valorados, por los Oficiales del Registro Civil y demás personal;
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
 X. Conservar los recibos originales expedidos por la Secretaría de Finanzas que avalen la venta de los formatos valorados expedidos; y
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 XI. Las demás funciones que le sean encomendadas por el Director General.
 
@@ -371,45 +453,81 @@ XI. Las demás funciones que le sean encomendadas por el Director General.
 
 (DEROGADO, P.O. 18 DE JULIO DE 2016)
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Artículo 9°.
 
-Son facultades y atribuciones de la Coordinación de Oficialías:
+Son Facultades y Obligaciones de la Coordinación de Oficialías:
 
-I. Realizar los estudios socio demográficos que deben realizarse en los Municipios a fin de proponer al Director General, la creación de nuevas Oficialías o el cambio de ubicación de las ya existentes;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+I. Realizar los estudios sociodemográficos que deben realizarse en los municipios a fin de proponer al Director General, la creación, cierre o cambio de ubicación de oficialías;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 II. Vigilar el cumplimiento de las disposiciones legales y de las circulares que se emitan, así como de las recomendaciones que se dicten para el adecuado manejo y mantenimiento de los sistemas de informática y equipos de cómputo;
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
 III. Enviar a la Dirección Jurídica el registro de firmas y rúbricas auténticas de los Oficiales del Registro Civil;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 IV. Supervisar los formatos del Registro Civil y los apéndices de los registros relativos al estado civil de las personas, realizados en todas las Oficialías del Registro Civil;
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
 V. Verificar que las correcciones de los registros se transcriban en los volúmenes que obran en los archivos, y en la base de datos del sistema informático autorizado;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 VI. Revisar que los volúmenes existentes en los archivos de las Oficialías se encuentren en perfecto estado;
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
 VII. Supervisar que se efectúen las anotaciones que correspondan en los volúmenes de los formatos del Registro Civil, de las Oficialías y en la base de datos del sistema informático autorizado;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 VIII. Vigilar que las Oficialías cuenten con los formatos del Registro Civil y los elementos materiales y sistemáticos necesarios para asentar los registros del estado civil de las personas;
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
 IX. Poner en conocimiento de la Dirección Administrativa de la Secretaría General de Gobierno, las ausencias, faltas y omisiones en que incurran los Oficiales del Registro Civil;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 X. Proponer al Director General la delimitación de la jurisdicción de cada Oficialía, sobre la base de los estudios correspondientes;
 
-XI. Realizar visitas de supervisión a las Oficialías, cuando menos una vez cada mes;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XI. Realizar visitas de supervisión a las Oficialías, cuando el Director General se lo instruya;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 XII. Realizar en coordinación con la Dirección Jurídica, programas permanentes de capacitación para Oficiales del Registro Civil, que permita la actualización de los conocimientos teóricos y prácticos que conforman el marco jurídico, para la elaboración de registros, expedición de constancias y actas, mediante procedimientos mecánicos, electrónicos, y/o informáticos y demás elementos necesarios para el desempeño de la función registral;
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
 XIII. Resolver las dudas y consultas que los Oficiales del Registro Civil le formulen en el desempeño de sus funciones;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 XIV. Coordinar con las autoridades de los Ayuntamientos, la difusión de los servicios del Registro Civil;
 
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
+
 XV. Elaborar informes mensual y anual de actividades;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 XVI. Cumplir con todas las funciones que le encomienden el Director General y el Director Jurídico;
 
-XVII. Gestionar la ubicación de las Oficialías locales y foráneas, en edificios gubernamentales, estatales, federales y delegaciones municipales; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XVII. Gestionar la ubicación de las Oficialías Foráneas en edificios públicos; y
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2016)</small>
 
 XVIII. Las demás funciones que le sean encomendadas por el Director General y el Director Jurídico.
 
@@ -431,23 +549,27 @@ Para ser Encargado de Sección del Registro Civil se requiere:
 
 3) No encontrase inhabilitado para ejercer la profesión, gozar de buena reputación personal y profesional;
 
-4) No tener antecedentes penales por delito culposo, ser de reconocida probidad;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+4) Ser de reconocida probidad; y
 
 5) No ser ministro de algún culto religioso o militar en servicio activo; y
 
-6) Acreditar examen psicométrico y valoración de conocimientos por parte de la Secretaría de Gestión e Innovación, que valide que son aptos para el desempeño de sus funciones por la importancia y responsabilidad de su cargo.
+6) (DEROGADO, P.O. 5 DE ABRIL DE 2017)
 
 ###### Artículo 11.
 
 (DEROGADO, P.O. 18 DE JULIO DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Artículo 12.
 
-Son facultades y atribuciones de la Sección de Estadística:
+Son Facultades y Obligaciones del Encargado de la Sección de Estadística:
 
-I. Recabar la información estadística de las oficialías del Registro Civil y las oficinas descentralizadas de los registros de los hechos y actos del estado civil de las personas que se realicen en la Entidad;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+I. Recabar la información estadística de las oficialías del Registro Civil de los registros de los hechos y actos del estado civil de las personas que se realicen en la Entidad;
 
 II. Concentrar, procesar, cuantificar y clasificar la información recabada del movimiento poblacional de las Oficialías, mediante estadísticas elaboradas y presentadas mensualmente por cada una de ellas, vigilando el cumplimiento de esta obligación impuesta a los Oficiales del Registro Civil;
 
@@ -457,33 +579,47 @@ IV. Elaborar gráficas de información y comparación referentes a los movimient
 
 V. Proporcionar información estadística a organismos e Instituciones Federales, Estatales y Municipales que la soliciten, previa autorización de la Secretaría General de Gobierno;
 
-VI. Supervisar y procesar la información registral recabada de los (sic) oficialías y oficinas descentralizadas, mediante procedimientos manuales, mecánicos, electrónicos y/o informáticos, para integrar los movimientos poblacionales al archivo de la Dirección General del Registro Civil;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-VII. Informar a la Dirección, la Subdirección y a la Coordinación de Oficialías, de los Oficiales del Registro Civil que no cumplan con el informe mensual de los actos registrales levantados en sus oficialías;
+VI. Supervisar y procesar la información registral recabada de las oficialías, mediante procedimientos manuales, mecánicos, electrónicos y/o informáticos, para integrar los movimientos poblacionales al archivo de la Dirección General del Registro Civil;
 
-VIII. Elaborar informe mensual y anual de actividades;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-IX. El jefe del departamento de Estadística será suplido en sus ausencias temporales por el colaborador más cercano en un plazo que no exceda los 20 días; y
+VII. Informar a la Dirección General y a la Coordinación de Oficialías, de los Oficiales del Registro Civil que no cumplan con el informe mensual de los actos registrales levantados en sus oficialías;
 
-X. Realizar las demás funciones que le encomiende el Director General y el Subdirector.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2016)</small>
+VIII. Elaborar informe mensual y anual de actividades de la Dirección General del Registro Civil;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+IX. El Encargado de Sección de Estadística será suplido en sus ausencias temporales por el colaborador más cercano en un plazo que no exceda los veinte días; y
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+X. Realizar las demás funciones que le encomiende el Director General;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Artículo 13.
 
-Son facultades y atribuciones de la Sección de Archivo:
+Son Facultades y Obligaciones del Encargado de la Sección de Archivo:
 
 I. Conservar y resguardar los libros que contienen las actas de los Asentamientos, documentos y apuntes que se relacionen con los actos regístrales del Registro Civil;
 
 II. Administrar el archivo del Registro Civil, así como tener actualizados los índices y catálogos de las actas del estado civil de las personas, mediante procedimientos mecánicos y los avances tecnológicos disponibles;
 
-III. Realizar y actualizar en su caso, el inventario de los volúmenes existentes en el archivo de la Dirección General del Registro Civil, así como en las oficialías y oficinas descentralizadas, en caso de haber faltante proceder a la reposición de los mismos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+III. Realizar y actualizar en su caso, el inventario de volúmenes existentes en el archivo de la Dirección General del Registro Civil, así como en las oficialías, en caso de haber faltante proceder a la reposición de los mismos;
 
 IV. Apoyar a la Coordinación de Oficialías en la realización de las anotaciones que correspondan en los "Formatos del Registro Civil" de los volúmenes del archivo del Registro Civil;
 
 V. Recibir de las secciones que generan anotaciones marginales, que modifiquen, rectifiquen, aclaren, complementen, revoquen o anulen el contenido de las actas del estado civil de las personas y pegarlas en el registro correspondiente;
 
-VI. Auxiliar a la Coordinación de Informática en la implantación de los programas de automatización, mediante procedimientos mecánicos, electrónicos e informáticos, de los volúmenes del archivo del Registro Civil, así como inventariar el equipo y material necesario para tal efecto;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+VI. Auxiliar al personal de Soporte Técnico en la implementación de los programas de automatización, mediante procedimientos mecánicos, electrónicos e informáticos, de los volúmenes del archivo del Registro Civil, así como inventariar el equipo y material necesario para tal efecto;
 
 VII. Resguardar los legajos que contienen los documentos que se generan de los diferentes actos registrales durante un periodo máximo de 5 años, aunado a los años establecidos por el Archivo General en el Estado;
 
@@ -491,7 +627,9 @@ VIII. Realizar la búsqueda necesaria en los libros y expedir las constancias de
 
 IX. Organizar y vigilar el taller de encuadernación de los "Formatos de Registro Civil", así como llevar el inventario de la maquinaria existente en el mismo y de los insumos que se utilicen;
 
-X. Suspender la expedición de copias fotostáticas certificadas, constancias y actas, en el caso de duplicidad de registros, contando con el auxilio del Departamento Jurídico y la Coordinación de Informática en los procedimientos administrativos, informáticos y judiciales de corrección correspondientes, así como la restricción de ésta hasta que el juez dicte la sentencia ejecutoria correspondiente, libere el mismo, indicando clara y fehacientemente cual de los (sic) ellos prevalecerá como valido;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+X. Suspender la expedición de copias fotostáticas certificadas, constancias y actas, en el caso de duplicidad de registros, contando con el auxilio de la Dirección Jurídica y el personal de soporte técnico en los procedimientos administrativos, informáticos y judiciales de corrección correspondientes, así como la restricción de ésta hasta que el Juez dicte la sentencia ejecutoria correspondiente, libere el mismo indicando clara y fehacientemente cuál de ellos prevalecerá como válido;
 
 XI. Proponer la rehabilitación y empastado de los volúmenes existentes que correspondan;
 
@@ -501,15 +639,23 @@ XIII. Enviar al Archivo General del Estado los legajos debidamente relacionados 
 
 XIV. Expedición de copias simples o certificadas que se encuentran en los libros originales y legajos de los actos registrales correspondientes, previa solicitud del interesado, tomando en cuenta sí la información se encuentra clasificada como reservada o confidencial de acuerdo a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Aguascalientes, previo pago de los derechos correspondientes con la autorización del Director General;
 
-XV. El jefe del departamento de Archivo será suplido en sus ausencias temporales por el colaborador más cercano en un plazo que no exceda los 20 días; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XVI. Realizar las demás funciones que le encomiende el Director General y el Subdirector.
+XV. El Encargado de (sic) Sección de Archivo será suplido en ausencias temporales por el colaborador más cercano en un plazo que no exceda los veinte días; y
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XVI. Realizar las demás funciones que le encomiende el Director General;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Artículo 14.
 
-Las Oficialías del Registro Civil, Adscritas a la Dirección General, al frente se encuentran servidores públicos denominados "Oficiales del Registro Civil", quienes tendrán fe pública en el desempeño de sus funciones.
+Las Oficialías del Registro Civil, Adscritas a la Dirección General, son en las que se encuentran a cargo servidores públicos denominados "Oficiales del Registro Civil", quienes tendrán fe pública en el desempeño de sus funciones.
 
-En cada una de las cabeceras de los Municipios habrá, cuando menos un Oficial del Registro Civil, que ejercerá sus funciones sólo en la jurisdicción que le corresponda.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+En cada una de las cabeceras de los Municipios habrá, cuando menos un Oficial del Registro Civil, que ejercerá sus funciones sólo en la jurisdicción que le corresponda, salvo en los casos que la Directora General tome determinaciones específicas sobre la competencia de su circunscripción por ausencias de otros Oficiales.
 
 Cuando en un Municipio funcione más de una oficialía, cada una de ellas llevará un número y nombre que la identifique, el que será progresivo de acuerdo a la fecha de su creación.
 
@@ -523,19 +669,23 @@ b) Para ser Oficial del Registro Civil se requiere:
 
 2) Contar con Licenciatura en Derecho y cédula profesional vigente debidamente Registrada ante el Registro Nacional de Profesiones;
 
-3) No tener antecedentes penales por delito culposo, ser de reconocida probidad;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+3) Ser de reconocida probidad;
 
 4) No ser ministro de algún culto religioso o militar en servicio activo; y
 
-5) Acreditar examen psicométrico y valoración de conocimientos por parte de la Secretaría de Gestión e Innovación, que valide que son aptos para el desempeño de sus funciones por la importancia y responsabilidad de su cargo;
+5) (DEROGADO, P.O. 5 DE ABRIL DE 2017)
 
-c) Los requisitos establecidos en el presente artículo en el inciso b) fracciones 3 y 5 sólo serán aplicables a los nuevos funcionarios que pretendan ocupar el cargo de Oficial del Registro Civil en la Institución y no podrá (sic) ser aplicados retroactivamente a los que ya ostentan el mismo en la actualidad; y
+c) (DEROGADO, P.O. 5 DE ABRIL DE 2017)
 
 d) Los Oficiales del Registro Civil tendrán las atribuciones que les confiere el Código Civil vigente en el Estado, el presente Reglamento y demás leyes relativas a los actos del estado civil de las personas, en la jurisdicción de sus respectivas Oficialías.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
 ###### Artículo 15.
 
-Son facultades y atribuciones del (sic) los Oficiales del Registro Civil:
+Son Facultades y Obligaciones de los Oficiales del Registro Civil:
 
 I. Otorgar la Protesta de Ley para el ejercicio de su cargo;
 
@@ -571,33 +721,45 @@ XVI. Entregar a la Coordinación de Oficialías los "Formatos de Registro Civil"
 
 XVII. Fijar en lugar visible de la Oficialía el importe de los derechos que causan los servicios que presta el Registro Civil;
 
-XVIII. Contestar oportunamente, con el auxilio del Jefe del Departamento Jurídico, las demandas interpuestas en su contra y continuar los procedimientos respectivos, informando de los resultados a la Dirección del Registro Civil;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XVIII. Contestar oportunamente, con el auxilio del Director Jurídico, las demandas interpuestas en su contra y continuar los procedimientos respectivos, informando de los resultados a la Dirección del Registro Civil;
 
 XIX. Organizar las labores de la Oficialía a su cargo, de manera que los trámites que realicen sean oportunos y eficaces;
 
-XX. Proponer a la Subdirección y a la Coordinación Administrativa los períodos de vacaciones de la Oficialía a su cargo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XXI. Determinar las guardias de personal que atenderán los trámites relacionados con los asuntos a su cargo;
+XX. Proponer a la Dirección y a la Coordinación de Oficialías los períodos de vacaciones de la Oficialía a su cargo;
 
-XXII. Informar a la Coordinación Administrativa de las ausencias, faltas u omisiones en que incurran los empleados adscritos a la Oficialía a su cargo;
+XXI. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
-XXIII. Solicitar a la Dirección General a través de su Departamento de Archivo, la encuadernación de los volúmenes de los "Formatos de Registro Civil", una vez satisfechos los requisitos legales;
+XXII. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
-XXIV. En caso de pérdida o destrucción de los "Formatos de Registro Civil", con apoyo del Departamento Jurídico, presentar la denuncia de este hecho ante el Ministerio Público correspondiente;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXIII. Solicitar a la Dirección General a través de su Encargado de Archivo, la encuadernación de los volúmenes de los "Formatos de Registro Civil", una vez satisfechos los requisitos legales;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXIV. En caso de pérdida o destrucción de los "Formatos de Registro Civil", con apoyo de la Dirección Jurídica, presentar la denuncia de este hecho ante el Ministerio Público correspondiente;
 
 XXV. Concentrar en la Dirección General del Registro Civil los volúmenes que a ésta correspondan;
 
-XXVI. Elaborar y mantener actualizado el inventario de la totalidad de los bienes de la Oficialía a su cargo, en coordinación con los titulares de la Coordinación de Oficialías y la Subdirección;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXVI. Elaborar y mantener actualizado el inventario de la totalidad de los bienes de la Oficialía a su cargo, en coordinación con el titular de la Coordinación de Oficialías;
 
 XXVII. Integrar y conservar los apéndices de los volúmenes;
 
 XXVIII. Elaborar los índices de los volúmenes de la Oficialía a su cargo;
 
-XXIX. En los registros relativos a matrimonio, proporcionar a los interesados información sobre planeación familiar, igualdad jurídica del varón y la mujer, así como para la organización y desarrollo de la familia;
+XXIX. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
-XXX. Verificar que los extranjeros que intervengan en cualquier acto relacionado con el estado civil de las personas y que celebren un registro en la Oficialía a su cargo, comprueben su legal estancia en el país, de acuerdo a lo dispuesto por la ley General de Población. En lo relativo a registros de matrimonio y divorcio, exigirá la autorización correspondiente expedida por la Secretaría de Gobernación a través del Instituto Nacional de Migración, debiendo informar a éste y a la Dirección General del Registro Civil mediante oficio, anexando copia del registro realizado y el apéndice del mismo;
+XXX. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
-XXXI. Expedir las órdenes de inhumación o cremación, cuando se le requiera, previos los trámites de ley;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXI. Expedir las órdenes de inhumación o cremación, cuando se le requiera, previos los trámites de ley, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda;
 
 XXXII. Informar quincenalmente o cuando se les solicite, a la Dirección General del Registro Civil, sobre las labores desarrolladas;
 
@@ -607,13 +769,21 @@ XXXIV. Custodiar los sellos oficiales;
 
 XXXV. Resguardar y disponer del papel seguridad en el que se expiden las actas certificadas del estado civil de las personas;
 
-XXXVI. Recoger los documentos presentados ante ellos cuando se detecte su contenido apócrifo, falsedad en el material en que se encuentra inscrito, así como la suplantación de identidades se dará vista al Ministerio Público a fin de que lleve a cabo las dirigencias (sic) correspondientes;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XXXVII. Entregar al Director General, Coordinadores Administrativo y de Oficialías, copia el (sic) vale cancelado de hojas valoradas para la expedición de certificaciones de los diferentes actos registrales, así como la copia del recibo de pago correspondiente;
+XXXVI. Recoger los documentos presentados ante ellos cuando se detecte su contenido apócrifo, falsedad en el material en que se encuentra inscrito, así como la suplantación de identidades se dará vista al Ministerio Público a fin de que lleve a cabo las diligencias correspondientes;
 
-XXXVIII. Entregar al Director General y al Coordinador de Oficialías copia de recibo de pago de los matrimonios, Reconocimientos, Registros Extemporáneos, así como de cada uno de los conceptos tipificados en la ley de Ingresos que les aplique en sus funciones de acuerdo al ejercicio fiscal del año en curso, dicho reporte será entregado de manera quincenal y en casos extremos y sólo por causas de fuerza mayor, de manera mensual, el incumplimiento de dicha obligación quedarán (sic) sujetos a la aplicación de las sanciones administrativas previstas en la Ley de Responsabilidades de los Servidores Públicos al Servicio del Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-XXXIX. Presentar informe quincenal al Coordinador Administrativo y de Oficialías, de las hojas valoradas canceladas, así como los formatos de Asentamiento repuestos por los mismos, además de la entrega física de éstos al Coordinador administrativo, aunado a la entrega de los apéndices correspondientes a los actos registrales celebrados en sus oficinas en el periodo correspondiente, este último se debe entregar a la Coordinación de Oficialías sin excepción alguna, ni retraso de ninguna índole, el incumplimiento de estas disposiciones conllevará el levantamiento del acta administrativa correspondiente por parte del Director General turnando la misma a las autoridades jurisdiccionales correspondientes;
+XXXVII. Entregar quincenalmente al Coordinador de Hojas Valoradas copia del vale cancelado de hojas valoradas para la expedición de certificaciones de los diferentes actos registrales, así como el recibo de pago correspondiente, aunado (sic) las hojas valoradas canceladas;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXVIII. Entregar al Encargado de (sic) Sección de Estadísticas los recibos de pago de los matrimonios, Reconocimientos, Registros Extemporáneos, así como de cada uno de los conceptos previstos en la ley de Ingresos que les aplique en sus funciones de acuerdo al ejercicio fiscal del año en curso, dicho reporte será entregado de manera quincenal y en casos extremos y sólo por causas de fuerza mayor, de manera mensual, al incumplimiento de dicha obligación recaerá la aplicación de las sanciones administrativas previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XXXIX. Entregar al Encargado de Sección de Estadísticas los formatos de Asentamiento cancelados. Así mismo la entrega de los apéndices correspondientes a los actos registrales celebrados en sus oficinas en el periodo correspondiente, se deberán entregar al Coordinador de Oficialías sin excepción alguna, ni retraso de ninguna índole. El incumplimiento de estas disposiciones conllevará el levantamiento del acta administrativa correspondiente por parte del Director General turnando la misma a las autoridades jurisdiccionales correspondientes;
 
 XL. Una vez que el acto registral sea leído en voz alta y verificado por los interesados, en caso de existir errores u omisiones, los Oficiales del Registro Civil podrán validar y corregir éstos, médiate (sic) la validación al momento del asentamiento correspondiente; y
 
@@ -687,7 +857,9 @@ I. Los daños y perjuicios que causen por los delitos y faltas administrativas e
 
 II. Recibir dinero en efectivo, por lo que deberán canalizar los pagos de los servicios tipificados en la ley de ingresos correspondiente al año en curso, a través de las cajas de finanzas instaladas para tal efecto en la institución y en las principales cabeceras Municipales, en el caso de las oficialías en donde no se encuentre cercana una de éstas, pagarán en la caja ubicada en la Dirección General del Registro Civil el importe de los servicios prestados los días hábiles más cercanos a la quincena y fin de mes según corresponde;
 
-III. Recibir o exigir a los ciudadanos dádivas, emolumentos, compensaciones, gratificaciones o estímulos, por la prestación de sus servicios, son objeto de levantamiento de Actas Administrativas, las cuales serán turnadas a la Contraloría General del Estado con la finalidad de que lleve las dirigencias (sic) correspondientes y en su momento dictamine las sanciones que corresponden acorde a la Ley de Responsabilidades a los Trabajadores al Servicio del Estado; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+III. Recibir o exigir a los ciudadanos dádivas, emolumentos, compensaciones, gratificaciones o estímulos, por la prestación de sus servicios, son objeto de levantamiento de Actas Administrativas, las cuales serán turnadas a la dependencia encargada del control, evaluación, fiscalización y rendición de cuentas de la administración pública del Estado, con la finalidad de que lleve las diligencias correspondientes y en su momento dictamine las sanciones que correspondan acorde a la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes; y
 
 IV. Fungir como testigos de los actos de registro del estado civil de las personas que se celebren en las oficinas en que laboran.
 
@@ -703,9 +875,11 @@ III. Los declarantes; y
 
 IV. Los testigos que corroboren el acto.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
 ###### Artículo 20.
 
-En caso de la cancelación del acto registral programado, se levantará un acta circunstanciada en caso de que éste no se lleve a cabo por causas de fuerza mayor, mismas que no podrán ser imputadas a la Dirección General del Registro Civil, ni al personal autorizado por ésta para la (sic) celebrar los mimos (sic).
+En caso de la cancelación del acto registral programado, se levantará un acta circunstanciada en caso de que éste no se lleve a cabo por causas de fuerza mayor, mismas que no podrán ser imputadas a la Dirección General del Registro Civil, ni al personal autorizado por ésta para la celebración de los mismos.
 
 ###### Artículo 21.
 
@@ -713,7 +887,9 @@ Las Secciones.
 
 La Dirección General del Registro Civil en la unidad central organiza sus actividades y establece Secciones.
 
-El Director General designará a una persona encargada para cada una de ellas, estas dependen de la Subdirección, y se encuentran divididas de la siguiente manera:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
+El Director General designará a una persona encargada para cada una de ellas, y se encuentran divididas de la siguiente manera:
 
 I. Nacimiento;
 
@@ -747,7 +923,9 @@ III. Actas. Documento que muestra los datos fundamentales del mismo.
 
 De la certificación de actas en formato único valorado:
 
-I. La Expedición de las actas del estado civil de las personas, se efectuara en las oficinas del Registro Civil, en las Oficialías locales, foráneas, en el Registro Civil Móvil, oficinas descentralizadas, y Centros de Atención y de Servicio de Gobierno del Estado (CAS);
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+I. La Expedición de las actas del estado civil de las personas, se efectuara en la Unidad Central, Oficialías Foráneas, en el Registro Civil Móvil y Centros de Atención y de Servicio de Gobierno del Estado (CAS);
 
 II. Los actos registrales que serán expedidos previa autorización del Director General son:
 
@@ -775,7 +953,9 @@ A quien lo solicite, deberán expedírsele copias certificadas, constancias o ac
 
 I. Las constancias y actas deberán extenderse en las formas establecidas e impresas en papel especial, en formato único acorde a los estándares de seguridad establecidos por el Registro Nacional de Población e Identificación Personal.
 
-Se autentificarán con el nombre, firma y sello del Oficial del Registro Civil autorizado y contendrán la firma del empleado que las hubiere elaborado y/o cotejado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+Se autentificarán con el nombre, firma y sello del Oficial del Registro Civil autorizado. El empleo de la clave personal del Sistema Informático del Registro Civil (SIRC) se equipara a la firma autógrafa del empleado que la utilice, y que hubiere elaborado o cotejado el trámite.
 
 II. Para la expedición de las Copias Fotostáticas de los "Formatos de Registro Civil" en donde consten los actos del registro del estado civil de las personas, deberán certificarse por el Oficial autorizado para ello;
 
@@ -861,15 +1041,19 @@ X. La totalidad de los registros que se realicen en los términos indicados en e
 
 ### CAPÍTULO III. De la Supervisión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
 ###### Artículo 28.
 
-La Dirección General del Registro Civil, en coordinación con la Subdirección y las Coordinaciones, propondrá las supervisiones que considere necesarias de la siguiente manera:
+La Dirección General del Registro Civil, en conjunto con las Coordinaciones, instruirá las supervisiones que considere necesarias de la siguiente manera:
 
-I. Las visitas de supervisión se efectuarán una vez al mes en cada oficialía y en las diversas secciones del Registro Civil, con el objeto de verificar el debido cumplimiento de las obligaciones y facultades de los oficiales del Registro Civil y demás personal a su cargo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-II. Las visitas de supervisión pueden ser ordinarias o extraordinarias. Serán ordinarias las que sean, programadas periódicamente (una vez al mes), con la finalidad de que se realicen sobre todos los registros y documentos de la Oficialía, cuidando que los volúmenes del Registro Civil se lleven debidamente. Tendrán el carácter de extraordinarias, las que se lleven a cabo de manera sorpresiva y serán realizadas por lo menos una vez cada seis meses;
+I. Las visitas de supervisión se efectuarán a orden expresa del Director General, en cada oficialía y en las diversas secciones del Registro Civil, con el objeto de verificar el debido cumplimiento de las facultades y obligaciones del personal del Registro Civil, levantándose acta circunstanciada, en presencia del Oficial, encargado de sección o personal que intervenga en ella. Dicha acta deberá contener las firmas de los involucrados;
 
-III. Las supervisiones, sean ordinarias o extraordinarias, deberán ser realizadas en presencia del Oficial del Registro Civil. Los resultados se consignarán en el acta respectiva, misma que deberá firmarse por las personas que hayan intervenido en la supervisión;
+II. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
+
+III. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
 IV. El oficial y todo el personal a su cargo deberán facilitar la práctica de las supervisiones, proporcionando la información y documentación requerida para la debida integración del acta circunstanciada, y
 
@@ -913,9 +1097,11 @@ d) En caso de que el oficial o personal de la oficialía se negare a firmar esta
 
 II. Las actas circunstanciadas serán turnadas al Director General.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
 ###### Artículo 31.
 
-De existir irregularidades en contravención con las leyes aplicables en la materia, el Director General, integrará el expediente y lo turnara a la Contraloría General del Estado para que se proceda, sin perjuicio a las disposiciones contenidas en la ley de responsabilidades de los servidores públicos del Estado de Aguascalientes.
+De existir irregularidades en contravención con las leyes aplicables en la materia, el Director General, integrará el expediente y lo turnará a la dependencia encargada del control, evaluación, fiscalización y rendición de cuentas de la administración pública del Estado para que se proceda, sin perjuicio a las disposiciones contenidas en la ley de responsabilidades de los servidores públicos del Estado de Aguascalientes.
 
 ### CAPÍTULO IV. De los Apéndices
 
@@ -947,7 +1133,9 @@ c) Copia certificada del acta de defunción del cónyuge; y
 
 d) Copia certificada de la sentencia judicial ejecutoria que declaré la renuncia a la paternidad por parte del marido, dando cumplimiento a lo establecido con el articulo 351 del Código Civil;
 
-VIII. En caso de que el nacimiento haya ocurrido en otro Estado, deberá presentar constancia de inexistencia de registro de una vigencia no mayor a 3 meses a partir del nacimiento del menor;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+VIII. En caso de que el nacimiento haya ocurrido en otro Estado, deberá presentar constancia de inexistencia de registro de una vigencia no mayor a tres meses a partir de la expedición de la misma;
 
 IX. En caso de que el alumbramiento se haya realizado con una partera, deberán presentar copia de la autorización expida (sic) el Instituto de Salud del Estado de Aguascalientes o el Instituto Mexicano del Seguro Social que le otorgan el derecho para ejercer la profesión; y
 
@@ -961,23 +1149,31 @@ Para los efectos de los Artículo (sic) 133 de la Constitución Política de los
 
 En casos de fuerza mayor y bajo la ausencia de la madre y padre del menor, previa autorización del Ministerio Público, los ascendentes maternos podrán realizar el registro correspondiente sin la necesidad de presentar poder notarial alguno, únicamente bajo los apellidos maternos y en caso de que exista solicitud de paternidad por parte del padre, está deberá llevarse a cabo bajo las instancias judiciales correspondientes tipificadas en el Código Civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
 ###### Artículo 35.
 
-En caso de que el padre o madre sean extranjeros, además de los que establece el artículo 30 del presente reglamento, se debe presentar:
+En caso de que el padre o madre sean extranjeros, además de los que establece el artículo 32 del presente reglamento, se debe presentar:
 
-I. Acreditación de su legal estancia en el país, vigente en original y copia;
+I. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
 II. Acta de nacimiento o matrimonio legalizada o apostillada; y
 
 III. En caso de que sea originaria de un país con idioma distinto al español, presentar traducción por un perito oficial autorizado por el Poder Judicial del Estado o Escuela de Idiomas debidamente legalizada ante las autoridades competentes en la materia, misma que podrá ser presentada en copia certificada por un Notario Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
 ###### Artículo 36.
 
-Los "Formatos de Registro Civil" correspondientes a los registros extemporáneos de nacimiento, deberán contener los datos previstos por la Ley, y en su apéndice se agregarán los documentos con ellos relacionados, aunado a los requisitos establecidos en el artículo 30 del presente reglamento son los siguientes:
+Los "Formatos de Registro Civil" correspondientes a los registros extemporáneos de nacimiento, deberán contener los datos previstos por la Ley, y en su apéndice se agregarán los documentos con ellos relacionados, aunado a los requisitos establecidos en el artículo 32 del presente reglamento son los siguientes:
 
-I. Constancia de inexistencia de registro de nacimiento que comprenda por lo menos 2 meses anterior (sic) a la fecha de nacimiento del menor, emitida por el Jefe del Departamento de Archivo y autorizado por el Director General;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-II. En caso de no ser originario del Estado de Aguascalientes, será necesaria la presentación de la constancia de inexistencia del registro de nacimiento, que comprenda por lo menos tres meses a partir de la fecha de su nacimiento de acuerdo al certificado de nacimiento expedido por la institución que certifique el mismo, emitida por el Registro Civil más cercano al lugar donde ocurrió el alumbramiento;
+I. Constancia de inexistencia de registro de nacimiento que comprenda desde el día que tuvo verificativo su nacimiento hasta la fecha en que se pretende realizar el registro, emitida por el Encargado de Archivo y autorizado por el Director General;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+II. En caso de no ser originario del Estado de Aguascalientes, será necesaria la presentación de la constancia de inexistencia del registro de nacimiento, que comprenda desde el día que tuvo verificativo su nacimiento hasta la fecha en que se pretende realizar el registro, de acuerdo al certificado de nacimiento expedido por la institución que certifique el mismo, emitida por el Registro Civil más cercano al lugar donde ocurrió el alumbramiento;
 
 III. Las constancias de inexistencia tendrán una vigencia de 3 meses contados a partir de la fecha de su expedición;
 
@@ -1053,7 +1249,9 @@ V. Comparecencia con identificación oficial de quién ejerza la patria potestad
 
 VI. Copia certificada de la resolución judicial ejecutoriada que ordene el registro de reconocimiento;
 
-VII. Si el reconocedor es extranjero, presentará las constancias que acrediten su legal estancia en el país, acta de nacimiento apostillada o legalizada y en los casos en que su país de origen no corresponda al habla hispana, traducción al español del mismo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+VII. Si el reconocedor es extranjero, presentará acta de nacimiento apostillada por la autoridad apostillante correspondiente o legalizada según sea el caso y cuando su país de origen no corresponda al habla hispana, traducción al español del mismo realizada por un perito oficial autorizado por el Supremo Tribunal de Justicia del Estado, y a falta de éste, se procederá de conformidad con el artículo 295 del Código de Procedimientos Civiles del Estado de Aguascalientes;
 
 VIII. Comprobante del domicilio declarado, por el reconocedor y el reconocido;
 
@@ -1065,7 +1263,13 @@ XI. Obligatoriedad de la presentación del reconocido para la toma de la huella 
 
 XII. El menor de edad podrá reconocer a un hijo, previo consentimiento de quien o quienes ejerzan sobre él la patria potestad o de la persona bajo cuya tutela se encuentre.
 
-Por falta de consentimiento de los padres, el ministerio público manifestará su conformidad o inconformidad en un término no mayor a 5 días.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+Por falta de consentimiento de los padres, el ministerio público manifestará su conformidad o inconformidad en términos del Código Civil del Estado.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+XIII. Cuando el reconocedor se encuentre recluido en algún Centro de Reinserción Social en el Estado, este deberá exhibir por medio de la persona que otorgará el consentimiento la constancia que acredite su reclusión así como una solicitud por escrito para efecto de que el Oficial del Registro Civil pueda acudir a la sede de dicho centro a recabar su firma en el acta de reconocimiento.
 
 ###### Artículo 42.
 
@@ -1091,7 +1295,9 @@ VII. Cuando los padres no vivan juntos, y si hubiera un convenio acerca del (sic
 
 VIII. La copia certificada de la resolución judicial ejecutoriada que ordene el registro de reconocimiento;
 
-IX. Si el reconocedor es extranjero, presentará las constancias que acrediten su legal estancia en el país y que el alumbramiento del reconocido tuvo lugar en el Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+IX. Si el reconocedor es extranjero, presentará acta de nacimiento apostillada por la autoridad apostillante correspondiente o legalizada por el Cónsul Mexicano en el país de origen en los Países no alineados al tratado de la Convención de (sic) Haya, en caso de que ésta se encuentre asentada en un idioma distinto al castellano deberá acompañarse de la correspondiente traducción realizada por un perito oficial autorizado por el Supremo Tribunal de Justicia del Estado, y a falta de éste, se procederá de conformidad con el artículo 295 del Código de Procedimientos Civiles del Estado de Aguascalientes;
 
 X. Los demás documentos que con el registro pudieran relacionarse.
 
@@ -1129,7 +1335,9 @@ b) A falta de padres, el tutor; y
 
 c) A falta de éstos, negativa o imposibilidad de las personas mencionadas en los incisos anteriores el Juez de lo Familiar suplirá el consentimiento;
 
-XI. Constancia del curso prematrimonial impartido por el Sistema para el Desarrollo Integral de la Familia en el Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
+XI. Constancia del curso prematrimonial impartido por el Sistema para el Desarrollo Integral de la Familia en el Estado o por el Registro Civil.
 
 Quedarán exentos de este requisito los divorciados, viudos, mayores de 40 años, discapacitados, y todos aquellos que comprueben que por causas laborales o de residencia no puedan asistir a las mismas y presenten cartas de las empresas, o instituciones públicas o privadas en las que laboran, detallando su impedimento, asimismo, aquellos que comprueben fehacientemente su residencia fuera de la Entidad quedarán exentos de dicho requisito;
 
@@ -1145,19 +1353,23 @@ XVI. En caso de que alguno o ambos contrayentes presente alguna discapacidad, de
 
 XVII. Los demás documentos que con el registro pudiesen relacionarse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
 ###### Artículo 46.
 
-Los extranjeros que pretendan contraer matrimonio con mexicanos en el Estado, deberán presentar además de los requisitos establecidos en el artículo anterior lo siguiente:
+Los extranjeros que pretendan contraer matrimonio en el Estado, deberán presentar además de los requisitos establecidos en el artículo anterior lo siguiente:
 
-I. Presentar la autorización de acuerdo a lo dispuesto por la Ley General de Población, en lo relativo a registros de matrimonio de ciudadanos extranjeros en México, expedida por la Secretaría de Gobernación a través del Instituto Nacional de Migración;
+I. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
 II. Acta de nacimiento apostillada o legalizada por el Cónsul Mexicano en el país de origen en los países no alineados al tratado de la Convención de Haya, en caso de que ésta se encuentre asentada en un idioma distinto al castellano deberá acompañarse de la correspondiente traducción realizada por un perito oficial autorizado por el Supremo Tribunal de Justicia del Estado;
 
-III. Comprobante de su legal estancia en el país así como de su identidad y calidad migratoria;
+III. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
-IV. Para el caso de que alguno de los pretendientes obtenga de la Secretaria de Relaciones Exteriores carta de naturalización de mexicano, se presentará la copia certificada por notario público de ésta y no será necesaria la presentación del acta de nacimiento del país del que es originario: y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-V. Cuando ambos contrayentes sean extranjeros, deberán presentar los requisitos que señala este ordenamiento, acreditando su legal estancia en el país así como su calidad migratoria en términos de la Ley General de Población.
+IV. Para el caso de que alguno de los pretendientes obtenga de la Secretaria de Relaciones Exteriores carta de naturalización de mexicano, se presentará la copia certificada por notario público de ésta; y
+
+V. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
 ###### Artículo 47.
 
@@ -1181,7 +1393,9 @@ VIII. Si el finado será inhumando (sic) en otro Estado y su fallecimiento ocurr
 
 IX. La Dirección General del Registro Civil, levantará un padrón de defunciones de extranjeros fallecidos en la Entidad, éste debe contener los datos del acta correspondiente, con número y años consecutivos, del cual será responsable de la sección correspondiente;
 
-X. En los casos en que el finado sea de nacionalidad extranjera, se presentará la documentación relativa a su legal estancia en el país y acta de nacimiento apostillada o legalizada por el Cónsul Mexicano en el país de origen en los Países no alineados al tratado de la Convención de Haya, en caso de que ésta se encuentre asentada en un idioma distinto al castellano deberá acompañarse de la correspondiente traducción realizada por un perito oficial autorizado por el Supremo Tribunal de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+X. En los casos en que el finado sea de nacionalidad extranjera, se presentará acta de nacimiento apostillada por la autoridad apostillante correspondiente o legalizada por el Cónsul Mexicano en el país de origen en los Países no alineados al tratado de la Convención de (sic) Haya, en caso de que ésta se encuentre asentada en un idioma distinto al castellano deberá acompañarse de la correspondiente traducción realizada por un perito oficial autorizado por el Supremo Tribunal de Justicia del Estado; en su caso ante la imposibilidad de presentar lo anterior, se podrá aceptar carta de identidad nacional debidamente expedida por el Cónsul correspondiente; y
 
 XI. Los demás documentos que con el registro pudieran relacionarse.
 
@@ -1241,15 +1455,7 @@ V. Inscribir la anotación marginal del acto civil celebrado en las actas de nac
 
 ###### Artículo 52.
 
-Los requisitos relacionados con un registro de adopción simple son:
-
-I. Copia certificada de la sentencia judicial ejecutoriada;
-
-II. Oficio del Juez en el que ordena el asentamiento;
-
-III. Acta certificada o notariada de nacimiento del adoptado con fecha de expedición no mayor de 5 años; y
-
-IV. Pago de los derechos correspondientes.
+(DEROGADO, P.O. 5 DE ABRIL DE 2017)
 
 ###### Artículo 53.
 
@@ -1275,7 +1481,9 @@ VIII. Pago de los derechos correspondientes.
 
 Normatividad aplicable para el registro de las adopciones son:
 
-I. Dictada la sentencia definitiva que autorice la adopción el adoptando (sic) o los adoptantes dentro del término de quince días se presentarán ante el encargado de la sección correspondiente del registro civil a realizar el asentamiento del acta.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
+I. Dictada la sentencia definitiva que autorice la adopción, el adoptado o los adoptantes dentro del término de quince días contados a partir de la fecha de expedición del oficio emitido por la autoridad correspondiente, se presentarán ante el encargado de la sección correspondiente del registro civil a realizar el asentamiento del acta.
 
 La falta del registro de adopción no sustrae a ésta sus efectos legales; pero se aplicará al responsable la multa señalada en el artículo 73 del Código Civil;
 
@@ -1287,7 +1495,9 @@ III. Realizado el registro de la adopción plena se hará la anotación correspo
 
 Los requisitos relacionados con un registro de tutela son:
 
-I. Copia certificada de la resolución judicial que la otorgue;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+I. Copia certificada de la resolución judicial que así lo declaré, así como el oficio correspondiente;
 
 II. Discernimiento del cargo;
 
@@ -1299,19 +1509,25 @@ IV. El pago de los derechos correspondientes.
 
 Los requisitos relacionados con un registro referente a la incapacidad legal para administrar bienes, la ausencia o la presunción de muerte de alguna persona son:
 
-I. La copia certificada de la sentencia ejecutoriada que lo (sic) así lo declare;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+I. Copia certificada de la resolución judicial que la otorgue, así como el oficio correspondiente;
 
 II. Los demás documentos relacionados con el registro; y
 
 III. El pago de los derechos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
 ###### Artículo 57.
 
-Los requisitos relacionados con inscripción de las sentencias ejecutoriadas respecto a las rectificaciones, anotaciones marginales, nulidades y capitulaciones matrimoniales, serán:
+Los requisitos relacionados con la inscripción de las sentencias ejecutorias respecto a las rectificaciones, anotaciones marginales, nulidades, capitulaciones matrimoniales, serán:
 
 I. Copia certificada de la sentencia;
 
-II. Oficio del juez dirigido al nombre de (sic) Director General con fecha de expedición no mayor de 3 años;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+II. Oficio del Juez dirigido al Director General.
 
 III. En el caso de nulidad de acta se debe inscribir el asentamiento, transcribiendo los puntos resolutivos de la sentencia judicial;
 
@@ -1329,7 +1545,9 @@ I. Solicitud por escrito para inscribir la misma por parte del interesado, en su
 
 II. Acta de nacimiento apostillada o legalizada por el Cónsul Mexicano en el país de origen en los países no alineados al tratado de la Convención de Haya en original o copia certificada por notario público;
 
-III. En caso de que ésta se encuentre asentada en un idioma distinto al castellano deberá acompañarse de la correspondiente traducción realizada por un perito oficial autorizado por el Supremo Tribunal de Justicia del Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+III. En caso de que ésta se encuentre asentada en un idioma distinto al castellano deberá acompañarse de la correspondiente traducción realizada por un perito oficial autorizado por el Supremo Tribunal de Justicia del Estado, y a falta de éste, se procederá de conformidad con el artículo 295 del Código de Procedimientos Civiles del Estado de Aguascalientes;
 
 IV. Acta de nacimiento mexicana certificada o notariada del padre o madre, con fecha de expedición no mayor a 5 años;
 
@@ -1347,9 +1565,11 @@ I. Solicitud por escrito para inscribir la misma por parte del interesado(s);
 
 II. Acta de matrimonio apostillada o legalizada por el Cónsul Mexicano en el país de origen en los países no alineados al tratado de la Convención de Haya en original o copia certificada por notario público;
 
-III. En caso de que ésta se encuentre asentada en un idioma distinto al castellano deberá acompañarse de la correspondiente traducción realizada por un perito oficial autorizado por el Supremo Tribunal de Justicia del Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-IV. Acta de nacimiento certificada o notariada del padre o madre mexicana, con fecha de expedición no mayor a 5 años;
+III. En caso de que ésta se encuentre asentada en un idioma distinto al castellano deberá acompañarse de la correspondiente traducción realizada por un perito oficial autorizado por el Supremo Tribunal de Justicia del Estado, y a falta de éste, se procederá de conformidad con el artículo 295 del Código de Procedimientos Civiles del Estado de Aguascalientes;
+
+IV. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
 V. Acta de nacimiento mexicana certificada o notariada del(os) contrayente(s), con fecha de expedición no mayor a 5 años;
 
@@ -1367,9 +1587,11 @@ I. Solicitud por escrito para inscribir la misma por parte del familiar del fina
 
 II. Acta de matrimonio apostillada o legalizada por el Cónsul Mexicano en el país de origen en los países no alineados al tratado de la Convención de Haya en original o copia certificada por notario público;
 
-III. En caso de que ésta se encuentre asentada en un idioma distinto al castellano deberá acompañarse de la correspondiente traducción realizada por un perito oficial autorizado por el Supremo Tribunal de Justicia del Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
 
-IV. Acta de nacimiento mexicana certificada o notariada del padre o madre, con fecha de expedición no mayor a 5 años;
+III. En caso de que ésta se encuentre asentada en un idioma distinto al castellano deberá acompañarse de la correspondiente traducción realizada por un perito oficial autorizado por el Supremo Tribunal de Justicia del Estado, y a falta de éste, se procederá de conformidad con el artículo 295 del Código de Procedimientos Civiles del Estado de Aguascalientes;
+
+IV. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
 V. Acta de nacimiento del finado para acreditar su nacionalidad mexicana, con fecha de expedición no mayor a 5 años;
 
@@ -1451,11 +1673,13 @@ IV. La Inscripción del registro de matrimonio contendrá:
 
 a) Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
 
-b) Si son mayores o menores de edad;
+b) (DEROGADO, P.O. 5 DE ABRIL DE 2017)
 
 c) Los nombres, apellidos, domicilio y nacionalidad de los padres;
 
-d) El consentimiento de éstos, de los o (sic) tutores, o de las autoridades que deban suplirlos; si los contrayentes son menores de edad;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+d) El consentimiento de éstos;
 
 e) Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
@@ -1503,21 +1727,29 @@ g) Nombre, apellidos, número de cédula profesional y domicilio del médico que
 
 h) Nombre, apellidos, edad, nacionalidad, ocupación, domicilio del declarante y testigos, grado de parentesco con el finado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2017)</small>
+
 ###### Artículo 65.
 
-El procedimiento relacionado con el (sic) la Inscripción de sentencia de divorcio se hará constar:
+El procedimiento relacionado con la Inscripción de (sic) sentencia de divorcio constará de lo siguiente:
 
-I. La solicitud del registro correspondiente la podrán llevar a cabo el divorciado(s);
+I. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
-II. Presentar los requisitos establecidos en el artículo 48 del presente reglamento, según sea el caso aplicable al mismo, cumpliendo con la normativa establecida en él Código Civil;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+II. Presentar los requisitos establecidos en el artículo 51 del presente reglamento, según sea el caso aplicable al mismo, cumpliendo con las disposiciones establecidas en el Código Civil;
 
 III. Los registros se harán mediante los sistemas informáticos autorizados y se imprimirán por triplicado, y
 
 IV. La Inscripción del registro de divorcio contendrá:
 
-a) Los nombres, apellidos, edad, domicilio y nacionalidad de los divorciados;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
 
-b) La fecha y lugar en que se celebró el matrimonio; y
+a) Los nombres, apellidos, edad y nacionalidad de los divorciados, así como los datos registrales de las actas de nacimiento de los mismos;
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+b) La fecha, lugar y demás datos registrales del matrimonio; y
 
 c) La parte resolutiva de la sentencia judicial o resolución administrativa, en su caso; fecha de la resolución; autoridad que la dictó y fecha en que causó ejecutoria cuando se trate de sentencia judicial.
 
@@ -1525,9 +1757,11 @@ c) La parte resolutiva de la sentencia judicial o resolución administrativa, en
 
 El procedimiento relacionado con la Inscripción de adopción hará constar:
 
-I. La solicitud del registro correspondiente la podrán llevar a cabo el adoptante(s) y el(la) que da su consentimiento o el que tengan la tutela o patria potestad de éste, salvo las excepciones previstas en la ley;
+I. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
-II. Presentar los requisitos establecidos en el artículo 49 del presente reglamento, según sea el caso aplicable al mismo, cumpliendo con la normativa establecida en él Código Civil;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+II. Presentar los requisitos establecidos en el artículo 53 del presente reglamento, según sea el caso aplicable al mismo, cumpliendo con las disposiciones establecidas en el Código Civil;
 
 III. Los registros se harán mediante los sistemas informáticos autorizados y se imprimirán por triplicado;
 
@@ -1537,21 +1771,25 @@ a) El nombre, apellidos, fecha, lugar de nacimiento y domicilio del adoptado;
 
 b) El nombre, apellidos, fecha, lugar de nacimiento y domicilio del adoptante(s), incluyendo su nacionalidad;
 
-c) El nombre y demás generales de la persona o personas cuyo consentimiento hubiere sido necesario para la adopción; y
+c) (DEROGADO, P.O. 5 DE ABRIL DE 2017)
 
 d) Los datos esenciales de la resolución judicial, fecha en que causó ejecutoria y tribunal que la dictó;
 
 V. En el caso de adopción plena, se cancelará el registro de nacimiento, si lo hubiere, y se extenderá un nuevo registro de nacimiento; y
 
-VI. Realizado el registro de adopción, se hará la anotación correspondiente en el registro de nacimiento del adoptado, y se archivará la copia de las diligencias relativas en el apéndice respectivo poniéndole el mismo número del registro de adopción.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+VI. Realizado el registro de adopción, se hará la anotación correspondiente en el registro de nacimiento primigenio del adoptado, y se archivará la copia de las diligencias relativas en el apéndice respectivo poniéndole el mismo número del registro de adopción.
 
 ###### Artículo 67.
 
 El procedimiento relacionado con la Inscripción de tutela hará constar:
 
-I. La solicitud del registro correspondiente la podrán llevar a cabo el que tengan (sic) la tutela de éste en la sentencia judicial correspondiente, salvo las excepciones previstas en la ley;
+I. (DEROGADA, P.O. 5 DE ABRIL DE 2017)
 
-II. Presentar los requisitos establecidos en el artículo 52 del presente reglamento, según sea el caso aplicable al mismo, cumpliendo con la normativa establecida en él Código Civil;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+II. Presentar los requisitos establecidos en el artículo 55 del presente reglamento, según sea el caso aplicable al mismo, cumpliendo con las disposiciones establecidas en el Código Civil;
 
 III. Los registros se harán mediante los sistemas informáticos autorizados y se imprimirán por triplicado; y
 
@@ -1681,11 +1919,15 @@ III. No se harán raspaduras ni se permitirá borrar lo escrito;
 
 IV. No deberán dejarse espacios en blanco; si por algún motivo no debieron anotarse datos en cualquiera de éstos, los espacios que debiesen ocupar se cerrarán con guiones; y
 
-V. Inválida el registro cualquier alteración, borradura o enmendadura que se realizara posteriormente al asentamiento, salvo que se realice la anotación al margen validándola.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2017)</small>
+
+V. Cualquier alteración, borradura o enmendadura que se realizara posteriormente al asentamiento, dará a lugar la restricción temporal, en lo que refiere a la expedición de acta certificada; y se estará a lo dispuesto por el artículo 128 del Código Civil del Estado, salvo que se realice la anotación al margen validándola.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Artículo 79.
 
-Los documentos proporcionados por los interesados, se anotarán anteponiéndoles el número de "Formato de Registro Civil" se sellará con el sello de la Oficialía, se reunirán y se formarán los apéndices correspondientes.
+Los documentos proporcionados por los interesados, se reunirán y se formarán los apéndices correspondientes.
 
 ###### Artículo 80.
 
@@ -1697,7 +1939,13 @@ Cuando por algún impedimento u otra causa justificada no pueda autorizarse un r
 
 El registro de los actos del estado civil celebrados por mexicanos en el extranjero, se hará transcribiendo su contenido en el volumen correspondiente.
 
-El encargado de la sección de Inserciones extranjeras, cuidarán (sic) que la autenticidad de las constancias presentadas, se compruebe con la Legalización del Servicio Diplomático Mexicano en el país de origen o el Apostille del documento correspondiente. Si las constancias estuvieron redactadas en idioma diferente al español, se requerirá además que los interesados presenten traducción realizada por perito oficial autorizado por el Supremo Tribunal de Justicia en el Estado o en casos especiales utilizar alguna Escuela de Idiomas, Legalmente Establecida en el Estado y reconocida por la Secretaría General de Gobierno.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+El encargado de la sección de Inserciones extranjeras cuidará que la autenticidad de las constancias presentadas, se compruebe con la Legalización del Servicio Exterior Mexicano en el país de origen o el Apostille del documento correspondiente. Si las constancias estuvieron redactadas en idioma diferente al castellano, se requerirá además que los interesados presenten traducción realizada por perito oficial autorizado por el Supremo Tribunal de Justicia en el Estado y a falta de éste, se procederá de conformidad con el artículo 295 del Código de Procedimientos Civiles del Estado de Aguascalientes;
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+Lo dispuesto en el presente artículo aplicará exclusivamente a los registros de (sic) relativos a nacimientos, matrimonios y defunciones donde intervengan mexicanos en el extranjero, tratándose de actos o resoluciones judiciales no contemplados se regirán por lo dispuesto en el artículo 46 del Código Civil del Estado de Aguascalientes en relación al Código Federal de Procedimientos Civiles en su capítulo II.
 
 ### CAPÍTULO III. Rectificaciones Administrativas
 
@@ -1797,13 +2045,17 @@ Sólo son admisibles como medios de prueba para el trámite de rectificación ad
 
 ### CAPÍTULO IV. Del Acuerdo de Rectificación Administrativa
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
 ###### Artículo 87.
 
-Los puntos resolutivos del acuerdo a que se refiere la fracción IV del artículo 83, deberán anotarse en el libro del acto registral a través de una anotación marginal firmada por el Director General, archivándose en el apéndice el acuerdo de aclaración y los demás documentos relacionados con éste.
+Los puntos resolutivos del acuerdo a que se refiere la fracción IV del artículo 85, deberán anotarse en el libro del acto registral a través de una anotación marginal firmada por el Director General, archivándose en el apéndice el acuerdo y los demás documentos relacionados con éste.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
 
 ###### Artículo 88.
 
-Dictado el acuerdo, si éste procediera, se remitirá un tanto del mismo y de la documentación correspondiente al Oficial del Registro Civil o a los encargados de las oficinas descentralizadas que corresponda y que deba realizar las anotaciones marginales.
+Dictado el acuerdo, si éste procediera, se remitirá un tanto de la anotación marginal para que el Oficial del Registro Civil que corresponda lo adhiera en el registro del libro original.
 
 ### CAPÍTULO V. Del Procedimiento para rectificación, aclaración y/o complementación por vía Administrativa
 
@@ -1841,7 +2093,9 @@ d) El Director del Registro Civil emitirá una resolución, en el (sic) que resu
 
 e) Contra la resolución administrativa que se dicte al efecto, no procederá recurso alguno;
 
-f) De las resoluciones que aprueben la solicitud de aclaración de datos, complementación de los mismos o la eliminación de lo que sea contrario o ajeno al registro, se enviará al Jefe del Departamento de Archivo y al Oficial del Registro Civil correspondiente, para que se efectúen las anotaciones respectivas; y
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+f) De las resoluciones que aprueben la solicitud de aclaración de datos, complementación de los mismos o la eliminación de lo que sea contrario o ajeno al registro, se enviará al Encargado de Archivo y al Oficial del Registro Civil correspondiente, para que se efectúen las anotaciones respectivas; y
 
 g) De igual manera, el otro tanto de la documentación será integrado al archivo del Registro Civil haciéndose la anotación correspondiente en el otro ejemplar en los términos señalados.
 
@@ -1895,7 +2149,9 @@ Respecto de esta clase de anotaciones, una vez realizadas, la expedición de los
 
 Las anotaciones correspondientes a la adopción, tendrán la siguiente normatividad:
 
-a) Realizado el registro de adopción, el encargado de sección anotará en el de nacimiento del adoptado, el nombre de la persona por quien fue adoptado, el número del registro relativo, la fecha de la adopción y la especificación de la Oficialía en cuyos volúmenes consta ésta, así como el nombre que a partir de ese momento se llamará el adoptado y se generará su clave única de registro de población correspondiente; y
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+a) Realizado el registro de adopción, se hará la anotación correspondiente en los términos señalados por el artículo 79 del Código Civil del Estado, y se generará su clave única de registro de población correspondiente; y
 
 b) El encargado de sección que reciba copia certificada de una resolución judicial que deje sin efecto una adopción registrada en los volúmenes a su cargo, anotará en el registro de adopción, el hecho de su cancelación en virtud de mediar sentencia ejecutoriada que así lo determina, la fecha y los datos relativos al Juzgado en que fue pronunciada y el número de expediente en que obra la resolución, mismo (sic), anotará en el registro de nacimiento de aquél de cuyo estado se trate, que la adopción quedó cancelada, y la fecha de cancelación en cumplimiento de la resolución judicial que la dejó sin efecto.
 
@@ -1917,11 +2173,11 @@ b) El Oficial del Registro Civil o el encargado de sección que realice un regis
 
 c) El Oficial del Registro Civil o el encargado de sección que realice un registro de matrimonio relativo a quienes hubieren obtenido la dispensa de algún impedimento, anotará en qué consiste y la clase de documento con que se comprueba la dispensa otorgada por la Autoridad Judicial o bien si se trata de autorización expresa de los padres, ascendientes o tutores, en su caso; y
 
-d) Cuando se conceda el permiso a un extranjero para que contraiga matrimonio con un mexicano(a), el Oficial del Registro Civil o encargado de sección que realice el registro correspondiente, anotará el número de oficio y fecha del permiso expedido por Instituto (sic) Nacional de Migración en el espacio previsto en los "Formatos de Registro Civil", así como elaborará el oficio correspondiente par (sic) que el Director General informe del acto celebrado al Delegado del Instituto Nacional de Migración en el Estado.
+d) (DEROGADO, P.O. 5 DE ABRIL DE 2017)
 
 ###### Artículo 100.
 
-El Oficial del Registro Civil o el encargado de sección que realice el registro del estado civil, cualquiera que sea su naturaleza, en la que intervenga algún extranjero, anotará los datos relativos a los documentos que se hubieren exhibido para comprobar su legal estancia en el país, debiendo agregar copias simples de éstos al apéndice respectivo, con las excepciones que establece la ley general de población.
+(DEROGADO, P.O. 5 DE ABRIL DE 2017)
 
 ###### Artículo 101.
 
@@ -1999,7 +2255,9 @@ VIII. Identificación Oficial vigente con fotografía de los cónyuges; y
 
 IX. Certificación por parte del responsable de la sección correspondiente de la inexistencia de hijos registrados en el Estado;
 
-d) Una vez reunidos los requisitos establecidos en el Artículo 128 fracción c) del presente reglamento, el oficial del Registro Civil levantará un acta de presentación de divorcio administrativo, en la que se asentará la fecha hora y lugar en el que tendrá verificativo la ratificación del divorcio, el cual deberá efectuarse quince días hábiles contados a partir del día siguiente de la presentación;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+d) Una vez reunidos los requisitos establecidos en el presente artículo de este reglamento, el oficial del Registro Civil levantará un documento de presentación de divorcio administrativo, en el que se asentará la fecha hora y lugar en el que tendrá verificativo la ratificación del divorcio, el cual deberá efectuarse quince días naturales contados a partir del día siguiente de la presentación, en caso que al realizar el cómputo de los días la ratificación cayera en día inhábil se recorrerá al siguiente día hábil;
 
 e) Recibida la solicitud, se remitirá inmediatamente oficio y copia simple de todos los documentos al Agente del Ministerio Público competente, haciéndole mención del día y hora en que tendrá verificativo su ratificación para que comparezca o manifieste lo que a su representación social competa, comunicándolo (sic) por escrito su consentimiento o su oposición;
 
@@ -2009,7 +2267,9 @@ g) Cuando exista oposición por parte del Agente del Ministerio Público o de la
 
 h) Llegado el día y hora para la ratificación de la solicitud presentada y de no existir oposición del Director General o del Agente del Ministerio Público, se levantará el acta de comparecencia, en donde constará la voluntad libre de las partes para seguir con el trámite solicitado, la exhortación para que se reconcilien hecha por el Director General, y asentado el resultado, se procederá a su firma al margen y al calce por los interesados, los testigos de asistencia y el Director General del Registro Civil, debiendo proceder a dictar la resolución administrativa respectiva y al registro inmediato del divorcio, en caso de declararlo procedente, previo el pago de los derechos correspondientes, aunado a la inscripción de las anotaciones marginales correspondientes en el acta de matrimonio y de nacimiento de los divorciados; y
 
-i) Tratándose de extranjeros, deberán presentar su legal estancia en el país y la autorización expedida por la Delegación del Instituto Nacional de Migración en el Estado, que les permitan realizar el divorcio administrativo y demás documentos a que se refiere el presente artículo inciso c), con la única diferencia de reemplazar a la fracción III del mismo; presentando Acta de nacimiento apostillada o legalizada por el Cónsul Mexicano en el país de origen en los países no alineados al tratado de la convención de la Haya, en caso de que esta se encuentre asentada en un idioma distinto al castellano deberá acompañarse de la correspondiente traducción realizada por un perito oficial del Registro Civil autorizado por el Supremo Tribunal de Justicia del Estado.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2017)</small>
+
+i) Tratándose de extranjeros, deberán presentar Acta de nacimiento apostillada por la autoridad apostillante correspondiente o legalizada por el Cónsul Mexicano en el país de origen en los países no alineados al tratado de la convención de la Haya, o copia certificada de la misma, en caso de que esta se encuentre asentada en un idioma distinto al castellano deberá acompañarse de la correspondiente traducción realizada por un perito oficial del Registro Civil autorizado por el Supremo Tribunal de Justicia del Estado, y a falta de éste, se procederá de conformidad con el artículo 295 del Código de Procedimientos Civiles del Estado de Aguascalientes.
 
 ### CAPÍTULO II. De la Reposición de Volumen o Registros
 
@@ -2060,3 +2320,11 @@ P.O. 18 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE CONTIENE DIVERSAS REFORMAS, ADICIONES Y DEROGACIONES AL REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
