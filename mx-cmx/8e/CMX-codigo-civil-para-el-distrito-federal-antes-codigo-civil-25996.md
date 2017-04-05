@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2017-03-27"
+last_updated: "2017-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE ABRIL DE 2017.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -1345,9 +1345,7 @@ III.- El parentesco de consanguinidad, sin limitación de grado en línea recta 
 
 IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
-> <small>(REFORMADA, G.O. 13 DE JULIO DE 2016)</small>
-
-V.- La violencia familiar cometida por alguno de los pretendientes;
+V.- (DEROGADA, G.O. 5 DE ABRIL DE 2017)
 
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
@@ -1873,11 +1871,11 @@ Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
 
 Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 228.
 
-Las donaciones antenupciales hechas entre los futuros cónyuges serán revocadas cuando, durante el matrimonio, el donatario realiza conductas de adulterio, violencia familiar, abandono de las obligaciones alimentarias u otras que sean graves a juicio del Juez de lo Familiar, cometidas en perjuicio del donante o sus hijos.
+Las donaciones ante nupciales hechas entre los futuros conyugues serán revocadas cuando, durante el matrimonio, el donatario realiza conductas de violencia familiar, abandono de las obligaciones alimentarias, sostenga relaciones sexuales con persona distinta a su conyugue u otras que sean graves a juicio del juez de lo familiar, cometidas en perjuicio del donante o sus hijos.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -1965,7 +1963,7 @@ La acción que nace de esta clase de nulidad y la que dimana del parentesco de a
 
 ###### ARTICULO 243.
 
-(DEROGADO, G.O. 13 DE JULIO DE 2016)
+(DEROGADO, G.O. 13 DE JULIO DE 2016) (REPUBLICADA SU DEROGACIÓN, G.O. 5 DE ABRIL DE 2017)
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2803,13 +2801,11 @@ II.- Los hijos nacidos dentro de los trescientos días siguientes a la disoluci�
 
 Contra la presunción a que se refiere el artículo anterior, se admitirán como pruebas las de haber sido físicamente imposible al cónyuge varón haber tenido relaciones sexuales con su cónyuge, durante los primeros ciento veinte días de los trescientos que han precedido al nacimiento, así como aquellas que el avance de los conocimientos científicos pudiere ofrecer.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 326.
 
-El cónyuge varón no puede impugnar la paternidad de los hijos alegando adulterio de la madre aunque ésta declare que no son hijos de su cónyuge, a no ser que el nacimiento se le haya ocultado, o que demuestre que no tuvo relaciones sexuales dentro de los primeros ciento veinte días de los trescientos anteriores al nacimiento.
-
-Tampoco podrá impugnar la paternidad de los hijos que durante el matrimonio conciba su cónyuge mediante técnicas de fecundación asistida, si hubo consentimiento expreso en tales métodos.
+El cónyuge varón no puede impugnar la paternidad de los hijos que durante el matrimonio conciba su cónyuge mediante técnicas de fecundación asistida, si hubo consentimiento expreso en tales métodos.
 
 ###### ARTICULO 327.
 
@@ -14784,3 +14780,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
 
 TERCERO.- La Secretaría de Desarrollo Social de la Ciudad de México constituirá el o los fideicomisos a que se refiere esta reforma definiendo en los contratos correspondientes las facultades del mismo.
+
+G.O. 5 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
