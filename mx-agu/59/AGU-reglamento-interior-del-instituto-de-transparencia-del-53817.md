@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-transparencia-del-53817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-29"
-last_updated: "2011-12-05"
+last_updated: "2017-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALlENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de enero de 2007.
 
@@ -85,7 +87,7 @@ El Instituto se regirá para su organización y funcionamiento por las disposici
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2009)</small>
 
-###### Articulo 6°.
+###### Artículo 6°.
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, el Instituto contará con la siguiente estructura:
 
@@ -345,7 +347,7 @@ IV. Ser el vocero oficial del Pleno;
 
 V. Proponer al Pleno la aprobación de medidas internas tendientes al buen desempeño del Instituto;
 
-VI. Enviar al Poder Ejecutivo, una vez aprobado en sesión extraordinaria, el proyecto anual del Presupuesto de Egresos del Instituto, para que se integre al Presupuesto de Egresos de dicho Poder y gestionar su aprobación; esto conforme al Articulo 48 Fracción XIX de la Ley;
+VI. Enviar al Poder Ejecutivo, una vez aprobado en sesión extraordinaria, el proyecto anual del Presupuesto de Egresos del Instituto, para que se integre al Presupuesto de Egresos de dicho Poder y gestionar su aprobación; esto conforme al Artículo 48 Fracción XIX de la Ley;
 
 VII. Coordinar las acciones del Secretario Ejecutivo;
 
@@ -784,3 +786,31 @@ P.O. 15 DE AGOSTO DE 2011.
 P.O. 5 DE DICIEMBRE DE 2011.
 
 ÚNICO. La presente reforma fue aprobada por UNANIMIDAD de votos de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, en sesión ordinaria de fecha treinta de noviembre del año dos mil once y entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto de Transparencia del Estado de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de enero del año 2007, así como sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento del Servicio Civil de Carrera del Instituto de Transparencia del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, el 10 de septiembre del año 2007, así como sus reformas y adiciones.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan al presente Reglamento Interior del Instituto de Transparencia del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Las controversias e interpretaciones que deriven de este instrumento legal, serán resueltas por el Pleno del Instituto de Transparencia del Estado de Aguascalientes.
+
+###### ARTÍCULO SEXTO.
+
+Envíese a la Secretaría General de Gobierno para su publicación en el Periódico Oficial del Estado, de conformidad con el artículo 4° de la Ley del Periódico Oficial del Estado de Aguascalientes.
