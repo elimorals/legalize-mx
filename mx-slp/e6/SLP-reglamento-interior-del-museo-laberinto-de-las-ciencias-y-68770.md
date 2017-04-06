@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-museo-laberinto-de-las-ciencias-y-68770
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-09"
-last_updated: "2009-05-09"
+last_updated: "2017-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL MUSEO LABERINTO DE LAS CIENCIAS Y LAS ARTES DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DEL MUSEO LABERINTO DE LAS CIENCIAS Y LAS ARTES DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DEL MUSEO LABERINTO DE LAS CIENCIAS Y LAS ARTES DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2017.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 9 de mayo de 2009.
 
@@ -58,13 +58,19 @@ II. Un Director General.
 
 Para el desempeño de sus funciones, el Director General del Museo, contará con las siguientes áreas de trabajo:
 
-l. Dirección Operativa;
+l. Dirección Operativa,
 
-II. Dirección Interinstitucional;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-III. Dirección de Experiencias Educativas;
+II. Dirección de Administración;
 
-IV. Dirección de Comercialización;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+III. Dirección de Ingeniería, Mantenimiento y Sistemas, y
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+IV. Unidad de Transparencia.
 
 V. Dirección de Administración;
 
@@ -174,7 +180,49 @@ XV. Promover la participación de los organismos oficiales y de la sociedad civi
 
 XVI. Proponer las reformas al presente Reglamento, de acuerdo a las condiciones que en su momento requieran su modificación, y
 
-XVII. Las demás que contribuyan al logro de los objetivos primordiales del Museo, acorde con su naturaleza y vocación.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XVII. Nombrar al Coordinador de Archivos quien se encargará de regular y supervisar la organización de los archivos y la elaboración de los instrumentos de control archivístico referidos en la Ley de Archivos del Estado de San Luis Potosí y demás disposiciones legales aplicables, además realizará las funciones que de manera enunciativa y no limitativa se enumeran en el artículo 31 de los Lineamientos Generales para la Gestión de Archivos publicados el 14 de febrero de 2013 en el Periódico Oficial del Estado de San Luis Potosí y otra normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XVIII. Las demás que contribuyan a (sic) logro de los objetivos primordiales del Museo, con su naturaleza y vocación.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 14 BIS. El responsable de la Unidad de Transparencia, es quien atenderá y gestionara las solicitudes de acceso a la información, así como todas las solicitudes que se realicen en ejercicio de la acción de protección de datos personales, y tendrá las siguientes funciones:
+
+I. Recabar y difundir la información a que se refieren la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, o en su caso, conforme a la normatividad aplicable, y propiciar que las áreas la actualicen periódicamente;
+
+II. Recibir y dar trámite a las solicitudes de acceso a la información;
+
+III. Auxiliar a particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
+
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la Información;
+
+(sic) Efectuar las notificaciones a los solicitantes;
+
+VI. Sugerir al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
+
+VII. Proponer (sic) personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
+
+VIII. Llevar el registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
+
+IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+X. Fomentar la transparencia y accesibilidad al interior del sujeto obligado;
+
+XI. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en esta Ley y en las demás disposiciones aplicables, y
+
+XII. Las demás que se desprendan de la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 14 TER. En cumplimiento a lo ordenado por los artículos 24, Fracción I y 43 de la Ley General de Transparencia y Acceso a la Información Pública; 24 Fracción I y 43 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, se constituye el Comité de Transparencia del Museo Laberinto de las Ciencias y las Artes de San Luis Potosí, que está compuesto por un número impar, y sus integrantes no podrán depender jerárquicamente entre sí dentro de la estructura funcional del Museo; tampoco podrán reunirse dos o más de estos integrantes en una sola persona.
+
+Cuando se presente el caso, el titular del Museo tendrá que nombrar a la persona que supla al subordinado.
+
+El Comité de Transparencia mencionado tendrá las funciones que señalan los artículos 44 de la Ley General de Transparencia y Acceso a la Información Pública, así como 52 de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí.
 
 ### CAPÍTULO IV. DE LAS OBLIGACIONES GENERALES DE LOS RESPONSABLES DE LAS DIRECCIONES DE TRABAJO DEL MUSEO
 
@@ -222,9 +270,13 @@ III. Supervisar y coordinar las actividades con cada una de las direcciones que 
 
 IV. Mantener comunicación con la Dirección de Ingeniería y Mantenimiento con la finalidad de que la operación general del Museo sea la más efectiva;
 
-V. Mantener comunicación estrecha con la Dirección de Experiencias Educativas, Dirección de Comercialización, mediante la creación de un plan operativo con las diferentes direcciones y áreas del Museo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-VI. Responsabilizar y sensibilizar al personal de cada área de los objetivos y funciones que se les asignen;
+V. Mantener comunicación con la Dirección de Ingeniería, Mantenimiento y Sistemas con la finalidad de que la operación general del Museo sea la más efectiva;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+VI. Crear y ejecutar un plan operativo con las diferentes direcciones y áreas del Museo;
 
 VII. Establecer un mecanismo para detectar errores y crear e implementar soluciones para corregirlos;
 
@@ -234,191 +286,57 @@ IX. Coordinar con la Dirección de Comercialización la óptima operación y ate
 
 X. Crear e impulsar propuestas en coordinación con la Dirección de Experiencias Educativas para atender a grupos en situación especial;
 
-XI. Supervisar los contenidos de los programas de capacitación, reclutamiento y selección;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XII. Mantener comunicación con la Dirección de Comercialización para elaborar estadísticas que se generen con el funcionamiento diario del museo;
+XI. Coordinar la óptima operación y atención de los grupos escolares programados para visitar el Museo, de tal forma que no se rebase la capacidad operativa del mismo;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XII. Crear e impulsar propuestas para atender a grupos en situación especial;
 
 XIII. Mantener comunicación con la Dirección de Administración para coordinar el óptimo desarrollo de la logística del Museo, así como generar estadísticas financieras;
 
-XIV. Dar seguimiento a los acuerdos celebrados con la Secretaría de Desarrollo Urbano, Vivienda y Obras Pública y el Papalote Museo del Niño, todo lo relativo a la obra y contenidos del Museo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XIV. Elaborar las estadísticas que se generen con el funcionamiento diario del Museo:
 
 XV. Mantener comunicación con la Dirección de Sistemas a fin de que todas las actividades especiales sean incluidas en el programa electrónico de venta por taquillas y controlar el funcionamiento de las redes, sistemas y conexiones con las que trabaja el Museo;
 
 XVI. Supervisar el cumplimiento de la normatividad administrativa del Gobierno del Estado;
 
-XVII. Crear en coordinación a la Dirección de Ingeniería y Mantenimiento y la Dirección de Sistemas un programa de mantenimiento de seguimiento y corrección de problemas para las exhibiciones;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XVII. Mantener comunicación con la Dirección de Ingeniería, Mantenimiento y Sistemas a fin de que todas las actividades especiales sean incluidas en el programa electrónico de venta por taquillas y controlar el funcionamiento de las redes, sistemas y conexiones con las que trabaja el Museo;
 
 XVIII. Coordinar con la Dirección de Ingeniería y Mantenimiento el cumplimiento de las normas generales de seguridad, limpieza y funcionamiento general del Museo, y
 
-XIX. Realizar todas aquellas acciones necesarias para el cumplimiento del plan anual de trabajo del Museo, así como aquellas que determine la Junta de Gobierno o el Director General.
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XIX. Crear en coordinación con la Dirección de Ingeniería, Mantenimiento y Sistemas, u (sic) programa de mantenimiento de seguimiento y corrección de problemas para las exhibiciones;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XX. Coordinar con la Dirección de Ingeniería, Mantenimiento y Sistemas el cumplimiento de las normas generales de seguridad, limpieza y funcionamiento general del Museo; y
+
+XXI. Realizar todas aquellas acciones necesarias para el cumplimiento del plan anual de trabajo del Museo, así como aquellas que determine la Junta de Gobierno o el Director General.
 
 #### SECCIÓN III. DE LAS ATRIBUCIONES Y OBLIGACIONES DEL DIRECTOR INTERINSTITUCIONAL
 
 ###### ARTÍCULO 17.
 
-El Director Institucional tendrá las siguientes atribuciones y obligaciones;
-
-I. Colaborar en la elaboración del programa y presupuesto anual del Museo;
-
-II. Apoyar a la Dirección General en las reuniones de la Junta de Gobierno;
-
-III. Desarrollar y ejecutar el programa de procuración de fondos a fin de garantizar la asistencia al Museo de niños de comunidades de alta y muy alta marginación, así como grupos de capacidades especiales;
-
-IV. Definir el calendario de actividades académicas y artísticas;
-
-V. Supervisar y coordinar las actividades de las direcciones que integran el Museo;
-
-VI. Conocer el público y las instituciones con las que establezcan redes de colaboración para así poder anticipar y satisfacer cada necesidad relacionada con sus temas de interés no sólo una vez sino de manera repetida a través del tiempo;
-
-VII. Establecer estrategias que hagan posible experiencias de aprendizaje de alta calidad y servicios personalizados por encima de las exhibiciones y las colecciones;
-
-VIII. Establecer y mantener una red de relaciones con todas las instituciones municipales y comunitarias, con el objeto de conjuntar esfuerzos para dar cumplimiento a los fines para los que fue creado el Museo;
-
-IX. Crear redes de vinculación, con la comunidad científica, universitaria, educativa formal y no formal, artística y empresarial, con el objeto de conjuntar esfuerzos para dar cumplimiento a los fines para los que fue creado el Museo;
-
-X. Proponer al Director General la firma de conveníos con las diversas instancias del Gobierno Federal y Gobierno de Estado que tengan coincidencias de contenidos, misión, visión y objetivos con el Museo;
-
-XI. Establecer en coordinación con la Dirección General los programas de divulgación, aprendizaje significativo y de conexiones;
-
-XII. Diseñar e implementar proyectos que contemplen no sólo al niño y al joven, sino también a la familia como "el visitante" y que se enfoquen a satisfacer de manera simultánea los intereses de aprendizaje de niños y adultos;
-
-XIII. Establecer relaciones y experiencias de aprendizaje significativo personalizadas y de calidad de largo plazo para cada visitante interesado;
-
-XIV. Dar seguimiento a las exposiciones programadas;
-
-XV Contactar y coordinar las actividades académicas a través de las instituciones educativas y de investigación;
-
-XVI. Revisar los contenidos de los convenios que se celebren con las diferentes instituciones educativas y de investigación con la finalidad de obtener la aprobación de la Dirección General;
-
-XVII. Supervisar los contenidos y revisar las propuestas que propicien el intercambio de experiencias científicas y culturales entre la comunidad científica y público en general;
-
-XVIII. Aplicar los criterios de dirección artística determinados por la Dirección General con la finalidad de garantizar que se cumplan las metas y objetivos;
-
-XIX. Realizar propuestas de programación artística y de artes visuales;
-
-XX. Coordinar la realización de proyectos artísticos en conjunto con el Gobierno Federal, Gobierno Estatal y los ayuntamientos del Estado de San Luis Potosí;
-
-XXI. Coordinar y supervisar el desarrollo de las actividades artísticas;
-
-XXII. Coordinar la relación con las asociaciones nacionales e internacionales de museos interactivos de ciencia, arte y tecnología;
-
-XXIII. Coordinar la comunicación ejecutiva y proyectos de colaboración con el Papalote Museo del Niño, y
-
-XXIV. Realizar todas aquellas acciones necesarias para el cumplimiento del plan anual de trabajo del Museo, así como aquellas que determine la Junta de Gobierno o el Director General.
+(DEROGADO, P.O. 6 DE ABRIL DE 2017)
 
 #### SECCIÓN IV. DE LAS ATRIBUCIONES Y OBLIGACIONES DEL DIRECTOR DE EXPERIENCIAS EDUCATIVAS
 
 ###### ARTÍCULO 18.
 
-El Director de Experiencias Educativas tendrá las siguientes atribuciones y obligaciones:
-
-I. Ejecutar las instrucciones que determine la Dirección General relacionadas con los aspectos operativos del área;
-
-II. Dirigir el esquema operativo conformado por la Unidad de Relaciones Públicas, Coordinadores, Supervisores, Auxiliares, Especialistas y estudiantes que realizan el servicio social o prácticas profesionales, para atender las necesidades del Museo;
-
-III. Revisar que los procedimientos de cada sala se cumplan según el programa educativo del Museo;
-
-IV. En coordinación con la Dirección Operativa, dar seguimiento a la corrección del funcionamiento general del Museo;
-
-V. Realizar el presupuesto para el programa educativo anual del área;
-
-VI. Mantener comunicación con la Unidad de Relaciones Públicas para informar sobre el número de visitantes diarios, así como incidentes o acontecimientos importantes surgidos durante el día;
-
-VII. Verificar el correcto uso de las exhibiciones que operan en las diferentes salas con que cuenta el Museo;
-
-VIII. Definir las políticas de ingreso de estudiantes para realizar el servicio social o prácticas profesionales;
-
-IX. Atender el control administrativo de altas, bajas, suplencias y permisos de los estudiantes que realizan el servicio social o prácticas profesionales;
-
-X. Vigilar y determinar las directrices del reglamento de los estudiantes que realizan el servicio social o prácticas profesionales;
-
-XI. Mantener informados a los estudiantes que realizan el servicio social o prácticas profesionales, auxiliares y supervisores en relación con los cambios y modificaciones de dinámicas y exhibiciones, eventos especiales y cualquier otra necesidad que se requieran en las salas que conforman el Museo;
-
-XII. Apoyar las necesidades relacionadas con la operación de talleres, conferencias, visitas a escuelas y eventos especiales;
-
-XIII. Apoyar a la Dirección de Comercialización para las necesidades operativas relacionadas con los estudiantes que realizan el servicio social o prácticas profesionales en los eventos especiales;
-
-XIV Atender las necesidades que se requieren en el servicio que se ofrece a los visitantes, relacionado con los estudiantes que realizan el servicio social o prácticas profesionales, en colaboración con la Unidad de Relaciones Públicas;
-
-XV. Comunicar de manera inmediata cualquier situación que amerite la presencia de los Servicios Médicos a la Unidad de Relaciones Públicas;
-
-XVI. Entregar reporte semanal a la Dirección General;
-
-XVII. Coordinarse con la Dirección Operativa para la realización y entrega de reportes diarios y de un plan operativo del Museo, y
-
-XVIII. Realizar todas aquellas acciones necesarias para el cumplimiento del plan anual de trabajo del Museo, así como aquellas que determine la Junta de Gobierno o el Director General.
+(DEROGADO, P.O. 6 DE ABRIL DE 2017)
 
 #### SECCIÓN V. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LA DIRECCIÓN DE COMERCIALIZACIÓN
 
 ###### ARTÍCULO 19.
 
-El Director de Comercialización tendrá las siguientes atribuciones:
-
-I. Asegurar el posicionamiento de la marca "Laberinto" en el mercado estatal, nacional e internacional;
-
-II. Planificar y dirigir la política de promoción y venta de todos los productos y servicios afines al Museo;
-
-III. Elaborar los planes y acciones a corto y mediano plazo para conseguir los objetivos marcados, diseñando las estrategias necesarias y supervisando su aplicación;
-
-IV. Investigar el mercado, previendo la evolución del mismo y anticipando las medidas necesarias para adaptarse a las nuevas tendencias;
-
-V. Dirigir las actividades de las subdirecciones a cargo de la Dirección de Comercialización;
-
-VI. Fijar la política de precios y condiciones de venta, así como los canales de distribución, previa consulta y aprobación de la Dirección General;
-
-VII. Responsabilizarse de la negociación y seguimiento con proveedores para establecer alianzas comerciales;
-
-VIII. Llevar a cabo las acciones de seguimiento necesarias para asegurar la máxima efectividad en la consecución de objetivos;
-
-IX. Reportar a la Dirección General los ingresos por taquilla, venta de grupos escolares, venta de tienda de regalos y actividades especiales;
-
-X. Aprobar las campañas publicitarias;
-
-XI. Mantener comunicación con la Dirección Operativa a fin de elaborar estadísticas que se generan en el Museo;
-
-XII. Desarrollar y administrar los contenidos la página de internet en coordinación con el Director de Sistemas;
-
-XIII. Supervisar el uso de la imagen "Laberinto";
-
-XIV. Supervisar las campañas de promoción en medios electrónicos e impresos;
-
-XV. Supervisar el diseño, producción y comercialización de los artículos informativos y promocionales del Museo;
-
-XVI. Supervisar la aplicación del manual de identidad del Museo;
-
-XVII. Trabajar conjuntamente con la Coordinación General de Comunicación Social del Gobierno del Estado;
-
-XVIII. Supervisar las políticas de venta a grupos escolares así como el cumplimiento de las metas anuales;
-
-XIX. Propiciar la realización de actividades especiales en los diferentes espacios del Museo con la finalidad de recaudar ingresos adicionales;
-
-XX. Coordinar la atención a medios informativos locales, nacionales e internacionales;
-
-XXI. Garantizar el óptimo funcionamiento de los servicios generales que se ofrecen al público en general tal como el local comercial y el área de comida;
-
-XXII. Coordinar con la Dirección de Experiencias Educativas la calidad del servicio al público;
-
-XXIII. Coordinar en colaboración con la Dirección de Experiencias Educativas la realización de actividades especiales, especialmente en horario nocturno;
-
-XXIV. Reportar semanalmente a la Dirección de Administración los ingresos generados;
-
-XXV. Trabajar en colaboración con la Dirección de ingeniería y Mantenimiento a fin de garantizar el óptimo desarrollo de las actividades especiales;
-
-XXVI. Trabajar en coordinación con la Dirección de Ingeniería y Mantenimiento a fin de garantizar la señalética necesaria en las exhibiciones;
-
-XXVII. Trabajar en coordinación con la Dirección de Administración y la Dirección de Sistemas a fin de garantizar que la operación de las taquillas corresponda a las actividades, promociones y servicios que publicita el Museo;
-
-XXVIII. Coordinar con las Direcciones de Administración y de Sistemas el óptimo funcionamiento del sistema de venta de boletos y el servicio de atención a (sic) público en taquillas;
-
-XXIX. Coordinar con la Dirección de Experiencias Educativas la correcta aplicación de contenidos de exhibiciones e imagen del Museo;
-
-XXX. Supervisar la correcta aplicación del plan de tarifas y el reglamento de actividades especiales;
-
-XXXI. Elaborar en coordinación con la Dirección General el programa de comercialización de la sala 3D y del Museo en general;
-
-XXXII. Elaborar en coordinación con la Dirección de Experiencias Educativas las estrategias de reclutamiento de los estudiantes que realicen el servicio social o prácticas profesionales, y
-
-XXXIII. Realizar todas aquellas acciones necesarias para el cumplimiento del plan anual de trabajo del Museo, así como aquellas que determine la Junta de Gobierno o el Director General.
+(DEROGADO, P.O. 6 DE ABRIL DE 2017)
 
 #### SECCIÓN VI. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LA DIRECCIÓN DE ADMINISTRACIÓN
 
@@ -470,9 +388,11 @@ XXI. Realizar las demás que determine la Junta de Gobierno y la Dirección Gene
 
 #### SECCIÓN VII. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LA DIRECCIÓN DE INGENIERÍA Y MANTENIMIENTO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 21.
 
-El Director de Ingeniería y Mantenimiento tendrá las siguientes atribuciones y obligaciones:
+El Director de Ingeniería, Mantenimiento y Sistemas, tendrá las siguientes atribuciones y obligaciones:
 
 I. Desarrollar en coordinación con la Dirección Operativa, planes y programas de mantenimiento a la infraestructura, servicios y exhibiciones del Museo;
 
@@ -486,17 +406,25 @@ V. Participar en la ingeniería y desarrollo tecnológico de las exhibiciones pa
 
 VI. Proporcionar los servicios generales de mantenimiento a todas las áreas del Museo;
 
-VII. Coordinar con la Dirección de Experiencias Educativas las actividades de capacitación y simulacros para la seguridad y protección civil del Museo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-VIII. Analizar y autorizar en coordinación con la Dirección de Sistemas los programas de mantenimiento a las exhibiciones, infraestructura, mobiliario y equipo, hardware y software, asegurando su cumplimiento para evaluar la calidad de servicio;
+VII. Coordinar las actividades de capacitación y simulacros para la seguridad y protección civil del Museo;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+VIII. Analizar y autorizar los programas de mantenimiento a las exhibiciones, infraestructura, mobiliario y equipo, hardware y software, asegurando su cumplimiento para evaluar la calidad del servicio;
 
 IX. Impulsar el desarrollo de programas de innovación y tecnología;
 
-X. Coordinar con el Director de Experiencias Educativas y el Director Interinstitucional la asesoría técnica para el diseño y desarrollo de exhibiciones;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+X. Coordinar la asesoría técnica para el diseño y desarrollo de exhibiciones;
 
 XI. Coordinar con el Subdirector de Relaciones Públicas las actividades del personal de vigilancia;
 
-XII. Crear en coordinación con la Dirección Operativa y la Dirección de Sistemas un programa de mantenimiento de seguimiento y corrección de problemas en exhibiciones;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XII. Coordinar con la Dirección Operativa un programa de mantenimiento, seguimiento y corrección de problemas en exhibiciones;
 
 XIII. Supervisar la operación de la red contra incendios;
 
@@ -518,9 +446,13 @@ XXI. Supervisar los trabajos de limpieza y seguridad del Museo;
 
 XXII. Supervisar el mantenimiento de las áreas verdes del Museo;
 
-XXIII. Coordinar con la Dirección de Comercialización el uso correcto de la señalética;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XXIV. Coordinar con la Dirección de Sistemas la operación del sistema de voz y datos;
+XXIII. Coordinar con la Dirección Operativa el uso correcto de la señalética.
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XXIV. Coordinar la operación del sistema de voz y datos;
 
 XXV. Supervisar el funcionamiento de riego;
 
@@ -536,35 +468,7 @@ XXIX. Realizar todas aquellas acciones necesarias para el cumplimiento del plan 
 
 ###### ARTÍCULO 22.
 
-El Director de Sistemas tendrá las siguientes atribuciones y obligaciones:
-
-I. Diseñar, instalar y mantener la infraestructura de los equipos de cómputo del Museo;
-
-II. Diseñar, instalar y dar mantenimiento a las redes, y programas que se utilizan en la tienda, taquilla, y conmutador para el buen funcionamiento del Museo;
-
-III. Garantizar la operación de los sistemas informáticos del área de oficinas del Museo;
-
-IV. Elaborar y vigilar que se cumplan las políticas, normas y procedimientos que se implementen en materia de informática para el Museo;
-
-V. Proponer a las unidades administrativas del Museo acciones para el mejoramiento de los procesos y de los servicios que proporcionan, promoviendo y validando sistemas de automatización;
-
-VI. Supervisar los estudios de factibilidad y emitir dictámenes para la adquisición de equipos y software;
-
-VII. Programar y realizar el mantenimiento de equipos e instalaciones de cómputo en las área (sic) de oficinas, taquillas y tienda para asegurar su disponibilidad y la oportunidad de sus servicios;
-
-VIII. Garantizar la señal permanente entre la sala, redes y conexiones y el sitio de internet del Museo;
-
-IX. Garantizar el óptimo funcionamiento del sistema de voz y datos del Museo en coordinación con la Dirección de Ingeniería y Mantenimiento;
-
-X. Garantizar la compatibilidad del sistema operativo del Museo, el sistema de administración, el sistema de inventario de almacenes, sistema de tienda, sistema de taquilla, página de internet, sistema de voz y datos y el sistema de exhibiciones;
-
-XI. Coordinar, diseñar y desarrollar proyectos de informática;
-
-XII. Dar seguimiento en coordinación con la Dirección de Comercialización a la Página Web del Museo;
-
-XIII. Coordinar con la Dirección Operativa, Dirección de Ingeniería y Mantenimiento, Dirección de Comercialización, Dirección de Administración y Dirección de Experiencias Educativas un programa operativo de sistemas y funcionamiento del Museo, y
-
-XIV. Realizar todas aquellas acciones necesarias para el cumplimiento del plan anual de trabajo del Museo, así como aquellas que determine la Junta de Gobierno o el Director General.
+(DEROGADO, P.O. 6 DE ABRIL DE 2017)
 
 ### CAPÍTULO V. DE LA FORMA DE SUPLIR LAS AUSENCIAS DE LOS FUNCIONARIOS DEL MUSEO
 
@@ -599,3 +503,13 @@ EL SECRETARIO DE CULTURA
 ING. ROBERTO VÁZQUEZ DÍAZ
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE SE EMITEN “REFORMAS AL REGLAMENTO INTERIOR DEL MUSEO LABERINTO DE LAS CIENCIAS Y LAS ARTES DE SAN LUIS POTOSÍ”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
