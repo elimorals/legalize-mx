@@ -4,7 +4,7 @@ identifier: "DUR-ley-ganadera-para-el-estado-de-durango-51620"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-13"
-last_updated: "2013-12-05"
+last_updated: "2017-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GANADERA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de agosto de 2006.
 
@@ -1717,7 +1717,7 @@ Las bases a que se sujetarán los concursantes y los jurados calificadores en la
 
 Todos los animales de cualquier especie que se pretenda exhibir en las exposiciones, deberán ser sometidos a la revisión fenotípica correspondiente por personal de la Secretaría, en coordinación con SAGARPA y los organizadores de la misma.
 
-### CAPÍTULO II. LA SANIDAD DE lOS ANIMALES EN EXPOSICIÓN
+### CAPÍTULO II. LA SANIDAD DE LOS ANIMALES EN EXPOSICIÓN
 
 ###### ARTÍCULO 201.
 
@@ -2371,87 +2371,139 @@ Las violaciones a lo dispuesto por esta ley, su reglamento y demás disposicione
 
 Las personas físicas o morales que incumplan lo establecido en esta ley o su reglamento serán sancionadas pecuniariamente cuando incurran en las siguientes conductas:
 
-I. Al que no manifieste el ejercicio de la explotación pecuaria en los términos de esta ley, se hará acreedor a una multa equivalente a cien días de salario mínimo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+I. Al que no manifieste el ejercicio de la explotación pecuaria en los términos de esta ley, se hará acreedor a una multa equivalente a cien veces de la unidad de medida y actualización;
 
 II. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2013)
 
-III. A quien haciendo uso de una servidumbre de paso o vía pecuaria, permita el apareamiento con animales que no le pertenezcan se hará acreedor a una multa de cincuenta a trescientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-IV. Al que falsifique o altere el documento de transmisión de propiedad, guía de tránsito u orden de sacrificio, se hará acreedor a una multa equivalente de mil a diez mil días de salario mínimo;
+III. A quien haciendo uso de una servidumbre de paso o vía pecuaria, permita el apareamiento con animales que no le pertenezcan se hará acreedor a una multa de cincuenta a trescientas veces la unidad de medida y actualización;
 
-V. A los dueños de saladeros, curtidurías, talabarterías, textiles y demás establecimientos dedicados a la industrialización de pieles, productos y subproductos pecuarios, que no presenten la documentación a que les obliga la ley, se harán acreedores a una multa equivalente de cien a doscientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-VI. Al que ordene o transporte cualquier especie doméstica productiva y no se detenga para su revisión correspondiente en los puntos de verificación e inspección estatal, se le impondrá una multa equivalente de cien a quinientos días de salario mínimo;
+IV. Al que falsifique o altere el documento de transmisión de propiedad, guía de tránsito u orden de sacrificio, se hará acreedor a una multa equivalente de mil a diez mil veces la unidad de medida y actualización;
 
-VII. A quien se le detenga con animales orejanos sin la autorización correspondiente, y sin comprobar la legítima propiedad, se hará acreedor a una multa equivalente de dos mil a diez mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-VIII. A quien se le detenga con animales mostrencos sin la autorización correspondiente, y sin comprobar la legítima propiedad, se hará acreedor a una multa equivalente de dos mil a diez mil días de salario mínimo;
+V. A los dueños de saladeros, curtidurías, talabarterías, textiles y demás establecimientos dedicados a la industrialización de pieles, productos y subproductos pecuarios, que no presenten la documentación a que les obliga la ley, se harán acreedores a una multa equivalente de cien a doscientas veces la unidad de medida y actualización;
 
-IX. A quien transporte ganado, sus productos o subproductos sin ampararse con la guía de tránsito correspondiente, se hará acreedor a una multa equivalente de cincuenta a quinientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-X. Al propietario o usuario que no construya y no dé mantenimiento a los cercos de los terrenos utilizados como agostaderos, se le impondrá una multa equivalente de cincuenta a doscientos días de salario mínimo;
+VI. Al que ordene o transporte cualquier especie doméstica productiva y no se detenga para su revisión correspondiente en los puntos de verificación e inspección estatal, se le impondrá una multa equivalente de cien a quinientas veces la unidad de medida y actualización;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XI. A la persona que movilice o lleve a cabo compraventa, ordene o realice el trasporte de animales afectados por enfermedad infectocontagiosa, se le aplicará una multa equivalente de dos mil quinientos a diez mil días de salario mínimo;
+VII. A quien se le detenga con animales orejanos sin la autorización correspondiente, y sin comprobar la legítima propiedad, se hará acreedor a una multa equivalente de dos mil a diez mil veces la unidad de medida y actualización;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XII. A quien movilice o comercialice animales que hayan salido reactores a las pruebas de tuberculina con motivo distinto al sacrificio, se le impondrá una multa equivalente de doscientos a mil días de salario mínimo por animal;
+VIII. A quien se le detenga con animales mostrencos sin la autorización correspondiente, y sin comprobar la legítima propiedad, se hará acreedor a una multa equivalente de dos mil a diez mil veces la unidad de medida y actualización;
 
-XIII. Al que abandone un animal o animales muertos por enfermedad infectocontagiosa sin incinerarlos o enterrarlos, se le impondrá una multa equivalente de cien a doscientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XIV. Al propietario de ganado que se introduzca dos o más veces en predios ajenos causando daños, se le impondrá una sanción de entre cien y quinientos días de salario mínimo;
+IX. A quien transporte ganado, sus productos o subproductos sin ampararse con la guía de tránsito correspondiente, se hará acreedor a una multa equivalente de cincuenta a quinientas veces la unidad de medida y actualización;
 
-XV. A quien introduzca ganado al Estado proveniente de otras entidades federativas sin haber acreditado su legal procedencia se le aplicará una multa equivalente de cinco mil a diez mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XVI. A quien expida guías de tránsito para movilizar ganado de zonas de alta a baja prevalencia, se le impondrá de dos mil quinientos a diez mil días de salario mínimo;
+X. Al propietario o usuario que no construya y no dé mantenimiento a los cercos de los terrenos utilizados como agostaderos, se le impondrá una multa equivalente de cincuenta a doscientas veces la unidad de medida y actualización;
 
-XVII. A quien introduzca ganado de otro Estado y lo movilice hacia otros estados haciéndolo pasar como originario del Estado de Durango, se le sancionará con multa equivalente de diez mil a veinte mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XVIII. A quien una vez obtenido el visto bueno de la Secretaría para la movilización, altere la documentación o cualquier otra identificación o sustituya el ganado, se le impondrá multa de cinco mil a quince mil días de salario mínimo;
+XI. A la persona que movilice o lleve a cabo compraventa, ordene o realice el trasporte de animales afectados por enfermedad infectocontagiosa, se le aplicará una multa equivalente de dos mil quinientas a diez mil veces la unidad de medida y actualización;
 
-XIX. A quien incumpla con el último párrafo del artículo 149 de esta ley, se hará acreedor de una multa equivalente de cinco mil a quince mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XII. A quien movilice o comercialice animales que hayan salido reactores a las pruebas de tuberculina con motivo distinto al sacrificio, se le impondrá una multa equivalente de doscientas a mil veces la unidad de medida y actualización;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XIII. Al que abandone un animal o animales muertos por enfermedad infectocontagiosa sin incinerarlos o enterrarlos, se le impondrá una multa equivalente de cien a doscientas veces la unidad de medida y actualización;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XIV. Al propietario de ganado que se introduzca dos o más veces en predios ajenos causando daños, se le impondrá una sanción de entre cien y quinientas veces la unidad de medida y actualización;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XV. A quien introduzca ganado al Estado proveniente de otras entidades federativas sin haber acreditado su legal procedencia se le aplicará una multa equivalente de cinco mil a diez mil veces la unidad de medida y actualización;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XVI. A quien expida guías de tránsito para movilizar ganado de zonas de alta a baja prevalencia, se le impondrá de dos mil quinientas a diez mil veces la unidad de medida y actualización;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XVII. A quien introduzca ganado de otro estado y lo movilice hacia otros estados haciéndolo pasar como originario del Estado de Durango, se le sancionará con multa equivalente de diez mil a veinte mil veces la unidad de medida y actualización;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XVIII. A quien una vez obtenido el visto bueno de la Secretaría para la movilización, altere la documentación o cualquier otra identificación o sustituya el ganado, se le impondrá multa de cinco mil a quince mil veces la unidad de medida y actualización;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XIX. A quien incumpla con el último párrafo del artículo 149 de esta ley, se hará acreedor de una multa equivalente de cinco mil a quince mil veces de la unidad de medida y actualización;
 
 XX. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2013)
 
-XXI. A quien transfiera autorizaciones Rara la internación de ganado, productos o subproductos, se le sancionará con multa equivalente de cien a quince mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XXII. Al propietario o encargado de ganado que provoque accidentes en las vías públicas estatales de comunicación, se le aplicará una multa equivalente de cinco mil a diez mil días de salario mínimo;
+XXI. A quien transfiera autorizaciones para la internación de ganado, productos o subproductos, se le sancionará con multa equivalente de cien a quince mil veces la unidad de medida y actualización;
 
-XXIII. Al que participe en una acción encaminada a la adulteración mediante mezclas de otros productos o por cualquier otro medio, de la miel, y los productos de la colmena, jalea real, el polen y propóleos, se le aplicará una multa equivalente de cincuenta a cien días de salario mínimo, y (sic)
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XXIV. Al que realice cualquier operación o contrato con el despojo de algún animal muerto por causa desconocida o enfermedad infecto-contagiosa, se hará acreedor de una multa equivalente de cien a cinco mil días de salario mínimo.
+XXII. Al propietario o encargado de ganado que provoque accidentes en las vías públicas estatales de comunicación, se le aplicará una multa equivalente de cinco mil a diez mil veces la unidad de medida y actualización;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XXV. A quien proporcione o asiente datos falsos en el formato único de factura que ampare la propiedad de los animales, en las guías de tránsito o las altere de cualquier forma se le aplicará una multa equivalente de dos mil quinientos a diez mil días de salario mínimo;
+XXIII. Al que participe en una acción encaminada a la adulteración mediante mezclas de otros productos o por cualquier otro medio, de la miel, y los productos de la colmena, jalea real, el polen y propóleos, se le aplicará una multa equivalente de cincuenta a cien veces la unidad de medida y actualización,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XXVI. A quien ponga en riesgo el estatus sanitario alcanzado en la actividad ganadera en la entidad, se le impondrá una multa equivalente de diez mil a veinte mil días de salario mínimo;
+XXIV. Al que realice cualquier operación o contrato con el despojo de algún animal muerto por causa desconocida o enfermedad infecto-contagiosa, se hará acreedor de una multa equivalente de cien a cinco mil veces la unidad de medida y actualización.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XXVII. A quien autorice o movilice ganado sin la documentación necesaria se le impondrá una multa equivalente de diez mil a veinte mil días de salario mínimo;
+XXV. A quien proporcione o asiente datos falsos en el formato único de factura que ampare la propiedad de los animales, en las guías de tránsito o las altere de cualquier forma se le aplicará una multa equivalente de dos mil quinientas a diez mil veces la unidad de medida y actualización;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-XXVIII. A quien evada las casetas de inspección ganadera se le impondrá multa equivalente de cuatrocientos a mil días de salario mínimo.
+XXVI. A quien ponga en riesgo el estatus sanitario alcanzado en la actividad ganadera en la entidad, se le impondrá una multa equivalente de diez mil a veinte mil veces la unidad de medida y actualización;
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-ARTÍCULO 313 BIS. Se impondrá multa equivalente de cinco mil a veinte mil días de salario mínimo general vigente en el Estado, al momento de cometerse la infracción se deberá herrar el ganado con las siglas C.N., independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+XXVII. A quien autorice o movilice ganado sin la documentación necesaria se le impondrá una multa equivalente de diez mil a veinte mil veces la unidad de medida y actualización; y
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+XXVIII. A quien evada las casetas de inspección ganadera se le impondrá multa equivalente de cuatrocientas a mil veces la unidad de medida y actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 313 BIS. Se impondrá multa equivalente de cinco mil a veinte mil veces la unidad de medida y actualización, al momento de cometerse la infracción se deberá herrar el ganado con las siglas C.N., independientemente de las penas que correspondan por los delitos en que hubieren incurrido, a quienes:
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 I. Introduzcan ganado al Estado o zona de baja prevalencia, sin cumplir con las disposiciones sanitarias en vigor;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 II. Hagan parecer como nacido en una zona de baja prevalencia o en el Estado, ganado proveniente de otra Entidad del país o zona de alta prevalencia;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 III. Comercialicen para exportación el ganado clasificado como lechero o media leche;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 IV. A quien movilice ganado de una zona de alta prevalencia a zona de baja prevalencia sin cumplir con los requisitos establecidos;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
+
 V. A quien proporcione información falsa para la aplicación de los identificadores de SINIIGA; y
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2013)</small>
 
 VI. A quien reutilice los identificadores de SINIIGA.
 
@@ -2459,7 +2511,9 @@ VI. A quien reutilice los identificadores de SINIIGA.
 
 ARTICULO 313 BIS 1. En los demás casos de incumplimiento de obligaciones a cargo de particulares, la Secretaría podrá imponer las siguientes sanciones, separada o simultáneamente:
 
-I. Multa de quinientos a dos mil días de salario mínimo al momento de cometerse la infracción; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+I. Multa de quinientas a dos mil veces la unidad de medida y actualización al momento de cometerse la infracción; y
 
 II. Aseguramiento de ganado, productos, subproductos, implementos, documentación, vehículos o cualquier otro objeto o maquinaria que sean utilizados en su cuidado, control, movilización o introducción al Estado o zona de baja prevalencia.
 
@@ -2479,25 +2533,39 @@ A los inspectores, autoridades civiles y municipales, que otorguen guías, factu
 
 Al inspector de ganado que incurra en las conductas que a continuación se enuncian, se le impondrán las siguientes sanciones:
 
-I. Multa de cien a mil días de salario mínimo vigente en el Estado cuando documente ganado que proceda de zonas que no le corresponda;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-II. Multa de cien a dos mil días de salario mínimo vigente en el Estado cuando se dedique directa o indirectamente a la compraventa de ganado, sus productos y/o subproductos pecuarios;
+I. Multa de cien a mil veces la unidad de medida y actualización cuando documente ganado que proceda de zonas que no le corresponda;
 
-III. Multa de cincuenta a quinientos días de salario mínimo vigente en el Estado cuando niegue el servicio de su competencia que le sea solicitado;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-IV. Multa de cien a diez mil días de salario mínimo vigente en el Estado cuando expida, cancele o convalide sin causa justificada la documentación que pruebe la legítima propiedad, sanidad y/o movilización de ganado sus productos y/o subproductos, y
+II. Multa de cien a dos mil veces la unidad de medida y actualización cuando se dedique directa o indirectamente a la compraventa de ganado, sus productos y/o subproductos pecuarios;
 
-V. Multa de cien a diez mil días de salario mínimo vigente en el Estado cuando proporcione los formatos de las guías de tránsito y sello oficial a personas ajenas al servicio de inspección.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
 
-A la autoridad que no expida el acta circunstanciada a que hace referencia el artículo 95 de esta ley, se le impondrá multa de cincuenta a quinientos días de salario mínimo vigente en el Estado.
+III. Multa de cincuenta a quinientas veces la unidad de medida y actualización cuando niegue el servicio de su competencia que le sea solicitado;
 
-Para los efectos de lo dispuesto en el presente artículo, por salario mínimo, se entenderá el vigente en el Estado de Durango, al momento de cometerse la infracción.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+IV. Multa de cien a diez mil veces la unidad de medida y actualización, cancele o convalide sin causa justificada la documentación que pruebe la legítima propiedad, sanidad y/o movilización de ganado sus productos y/o subproductos; y
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2017)</small>
+
+V. Multa de cien a diez mil veces la unidad de medida y actualización cuando proporcione los formatos de las guías de tránsito y sello oficial a personas ajenas al servicio de inspección.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2017)</small>
+
+A la autoridad que no expida el acta circunstanciada a que hace referencia el artículo 95 de esta ley, se le impondrá multa de cincuenta a quinientas veces la unidad de medida y actualización.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2017)</small>
+
+Para los efectos de lo dispuesto en el presente artículo, por unidad de medida y actualización, se entenderá a la publicada por el Instituto Nacional de Estadística y Geografía (INEGI), de conformidad con la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
 
 En caso de reincidencia en la comisión de infracciones o faltas a que alude el presente artículo, la sanción pecuniaria se incrementará hasta un cien por ciento.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2017)</small>
 
-ARTICULO 315 BIS. El técnico autorizado que aplique los identificadores de SINIIGA sin cumplir con los requisitos establecidos en la normatividad de la materia, se le impondrá una sanción de mil a cinco mil días de salario mínimo vigente en el Estado y será inhabilitado en el desempeño de sus funciones por la Secretaría.
+ARTICULO 315 BIS. El técnico autorizado que aplique los identificadores de SINIIGA sin cumplir con los requisitos establecidos en la normatividad de la materia, se le impondrá una sanción de mil a cinco mil veces la unidad de medida y actualización y será inhabilitado en el desempeño de sus funciones por la Secretaría.
 
 ###### ARTÍCULO 316.
 
@@ -2539,7 +2607,9 @@ El Gobernador del Estado, deberá decretar en su caso, que los recursos económi
 
 Cuando en esta ley se faculte a la Autoridad Municipal para imponer sanciones, corresponderá al Presidente Municipal dictar el acuerdo relativo.
 
-En los casos en que esta ley no especifique la sanción correspondiente, pero otorgue competencia a la Autoridad Municipal, ésta se limitará a aplicar multas de cincuenta a ciento cincuenta veces el salario mínimo general diario, sin perjuicio de poner en conocimiento de la Secretaría o de otra autoridad municipal o estatal competente los hechos que pudieran constituir infracción o delito y cuya sanción no sea de su competencia.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2017)</small>
+
+En los casos en que esta ley no especifique la sanción correspondiente, pero otorgue competencia a la Autoridad Municipal, ésta se limitará a aplicar multas de cincuenta a ciento cincuenta veces la unidad de medida y actualización, sin perjuicio de poner en conocimiento de la Secretaría o de otra autoridad municipal o estatal competente los hechos que pudieran constituir infracción o delito y cuya sanción no sea de su competencia.
 
 ### CAPÍTULO III. DE LA DEFENSA DE PARTICULARES
 
@@ -2602,3 +2672,15 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 6 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 128.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY GANADERA PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+
+TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
