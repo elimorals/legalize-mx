@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-adultas-mayores-de-la-15819
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2016-10-05"
+last_updated: "2017-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15819&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-10"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 6 DE ABRIL DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 7 de marzo de 2000.
 
@@ -315,6 +315,12 @@ La Secretaria de Salud de la Ciudad de México, implementará programas y concer
 ###### Artículo 14.
 
 Las instituciones publicas, privadas y sociales, que otorguen atención médica, deberán contar con personal que posea vocación, capacidad y conocimientos en el cuidado de las personas adultas mayores.
+
+> <small>(ADICIONADO, G.O. 6 DE ABRIL DE 2017)</small>
+
+###### Artículo 14 Bis.
+
+La Secretaría de Salud de la Ciudad de México contará con, al menos, un Centro de Geriatría y Gerontología para brindar los servicios señalados en el artículo 12 de la presente Ley.
 
 ### CAPITULO IV. DE LA SECRETARIA DE DESARROLLO SOCIAL
 
@@ -701,3 +707,11 @@ SEGUNDO.- La presente Ley entrará en vigor el día siguiente de su publicación
 TERCERO.- La Secretaria de Finanzas de la Ciudad de México, destinará para el ejercicio 2016 los recursos necesarios para que la Secretaria de Salud de la Ciudad de México, pueda cumplir con lo dispuesto en el presente decreto.
 
 CUARTO.- La Asamblea Legislativa del Distrito Federal autorizará para el ejercicio fiscal 2017, los recursos presupuestales necesarios para que la Secretaria de Salud de la Ciudad de México pueda cumplir con lo dispuesto en el presente decreto.
+
+G.O. 6 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 14 BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
