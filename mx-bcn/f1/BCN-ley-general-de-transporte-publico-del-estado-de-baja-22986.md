@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-transporte-publico-del-estado-de-baja-22986"
 country: "mx"
 rank: "ley_general"
 publication_date: "2001-11-09"
-last_updated: "2013-08-23"
+last_updated: "2017-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE TRANSPORTE PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -108,6 +108,10 @@ VIII.- A que se destinen espacios exclusivos para personas con discapacidad;
 IX.- A que se acondicionen para el ascenso y descenso de personas con discapacidad; y
 
 X.- A realizar quejas ante la autoridad que corresponda cuando se sienta agraviado en sus derechos.
+
+REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE ABRIL DE 2017)
+
+XI.- A que se destinen espacios para la transportación de bicicletas en el transporte público, de acuerdo a las condiciones que se establezcan en los reglamentos respectivos.
 
 ###### ARTICULO 3.
 
@@ -600,3 +604,9 @@ SEGUNDO.- Los Municipios de la Entidad, deberán adecuar en un plazo no mayor de
 P.O. 23 DE AGOSTO DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 467 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 Y 37 DE LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA REFORMA AL ARTÍCULO 2 BIS DE LA LEY GENERAL DE TRANSPORTE PÚBLICO DEL ESTADO DE BAJA CALIFORNIA; SE APRUEBA REFORMA AL ARTÍCULO 22 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; Y SE CREA LA LEY DE FOMENTO PARA USO DE LA BICICLETA Y PROTECCIÓN AL CICLISTA PARA EL ESTADO”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
