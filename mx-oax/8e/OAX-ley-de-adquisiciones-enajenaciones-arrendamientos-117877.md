@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-adquisiciones-enajenaciones-arrendamientos-117877"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2017-03-18"
+last_updated: "2017-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
 
 Ley publicada en la Séptima Sección al Número 46 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -195,9 +195,11 @@ V. Conocer y resolver sobre la solución de controversias por los actos que cont
 
 VI. Las demás que esta Ley y las disposiciones que de ella deriven le confieran.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 11.
 
-Las Dependencias y Entidades serán responsables de que en la instrumentación y ejecución de las acciones que deban llevar a cabo en cumplimiento de esta Ley, se observen criterios de economía, eficacia, eficiencia, imparcialidad, honradez, legalidad y transparencia que aseguren las mejores condiciones para la Administración Pública Estatal.
+Las Dependencias y Entidades serán responsables de que en la instrumentación y ejecución de las acciones que deben llevar a cabo en cumplimiento de esta Ley, se observen criterios de máxima publicidad, economía, eficacia, eficiencia, imparcialidad, honradez, legalidad y transparencia, que aseguren las mejores condiciones para la Administración Pública Estatal.
 
 ###### Artículo 12.
 
@@ -575,9 +577,11 @@ La licitación inicia con la publicación o invitación de la convocatoria y con
 
 ### CAPÍTULO VI. DE LAS EXCEPCIONES A LA LICITACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 45.
 
-La selección del procedimiento de adjudicación directa que realicen las Dependencias y Entidades deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia, que aseguren las mejores condiciones para el Estado. El acreditamiento de los criterios mencionados y la justificación de las razones para el ejercicio de la opción, deberá constar por escrito y ser firmado por el titular de la Dependencia o la Entidad.
+La selección del procedimiento de adjudicación directa que realicen las Dependencias y Entidades deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de máxima publicidad, economía, eficacia, eficiencia, imparcialidad, honradez, legalidad y transparencia, que aseguren las mejores condiciones para el Estado. El acreditamiento de los criterios mencionados y la justificación de las razones para el ejercicio de la opción, deberá constar por escrito y ser firmado por el titular de la Dependencia o la Entidad.
 
 En cualquier supuesto se invitará a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, y cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto de la contratación a celebrarse.
 
@@ -1244,3 +1248,9 @@ P.O. 18 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 576.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO NÚMERO 564 EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA Y PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE OAXACA EL VEINTIOCHO DE ENERO DE DOS MIL DIECISIETE".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 580.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 11 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 45 DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
