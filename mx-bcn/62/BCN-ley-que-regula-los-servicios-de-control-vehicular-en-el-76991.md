@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2016-09-09"
+last_updated: "2017-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -57,6 +57,10 @@ Baja Temporal.- Trámite a través del cual se suspende el alta en el Registro E
 
 Calcomanía.- Aditamento plástico de identificación y clasificación vehicular, coincidente con las placas y la tarjeta de circulación, que debe ser colocado al interior del vehículo y claramente visible al exterior del mismo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2017)</small>
+
+Ciclista.- Conductor de un vehículo de tracción humana a pedales;
+
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 Reposición de Placas de Circulación.- Trámite que debe realizarse para la obtención de nuevas placas de circulación únicamente por los supuestos previstos en esta ley.
@@ -77,11 +81,19 @@ Identificación Oficial.- Documento que contiene los datos básicos de identific
 
 Instituciones Autorizadas.- Empresa, entidad gubernamental o establecimiento autorizado mediante convenio suscrito por el titular de la Secretaría para expedir los elementos de identificación vehicular.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2017)</small>
+
+Jerarquía de Movilidad Urbana.- Es la consideración de todos los usuarios de las vías públicas, estableciendo prioridad de paso de acuerdo a la vulnerabilidad que cada uno de estos actores presenta dentro de los desplazamientos urbanos.
+
 Ley.- Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California.
 
 Ley de Ingresos.- Ley de Ingresos del Estado de Baja California, del ejercicio fiscal que corresponda.
 
 Licencia de Conducir.- Documento que contiene la autorización que concede el Estado a través de la Secretaría a una persona física, por tiempo determinado, para conducir vehículos de acuerdo a la clasificación para la que se expida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2017)</small>
+
+Movilidad Urbana.- Capacidad de desplazarse sin contratiempos de un lugar a otro por las vías públicas dentro de la ciudad y que incluye la movilidad de vehículos, ciclistas y peatones.
 
 Oficina Recaudadora.- Las Recaudaciones de Rentas del Estado, incluyendo las Subrecaudaciones Auxiliares de Rentas.
 
@@ -745,7 +757,9 @@ IV.- Presentar certificado médico, expedido por institución pública o privada
 
 V.- Aprobar el examen práctico de manejo de vehículo de acuerdo al tipo de licencia de conducir que se solicita;
 
-VI.- Aprobar el examen teórico de conocimientos que en materia de tránsito se aplique;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+VI.- Aprobar el examen teórico de conocimientos que en materia de tránsito y movilidad urbana se aplique, con énfasis en el respeto al peatón y ciclista;
 
 VII.- Saber leer y escribir español, con las excepciones que se establezcan mediante reglas de carácter general que emita la Secretaría;
 
@@ -756,6 +770,10 @@ IX.- Presentar el vehículo que corresponda, con placas de circulación vigentes
 X.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de
 
 Ingresos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2017)</small>
+
+En los exámenes a que se refieren las fracciones V y VI de este artículo, la Secretaría deberá incluir aspectos que acrediten que los interesados conocen las reglas básicas de convivencia vial entre los distintos componentes de la jerarquía de movilidad urbana.
 
 La Secretaría determinará la documentación idónea para acreditar los requisitos establecidos en el presente artículo.
 
@@ -1052,3 +1070,9 @@ P.O. 9 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 574 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 2 Y 24 DE LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 467 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 Y 37 DE LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA REFORMA AL ARTÍCULO 2 BIS DE LA LEY GENERAL DE TRANSPORTE PÚBLICO DEL ESTADO DE BAJA CALIFORNIA; SE APRUEBA REFORMA AL ARTÍCULO 22 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; Y SE CREA LA LEY DE FOMENTO PARA EL USO DE LA BICICLETA Y PROTECCIÓN AL CICLISTA PARA EL ESTADO”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
