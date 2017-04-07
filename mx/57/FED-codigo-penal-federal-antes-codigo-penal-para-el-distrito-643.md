@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2017-03-27"
+last_updated: "2017-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ABRIL DE 2017.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -6499,9 +6499,9 @@ I. Capture, dañe o prive de la vida a algún ejemplar de tortuga o mamífero ma
 
 II. Capture, transforme, acopie, transporte o dañe ejemplares de especies acuáticas declaradas en veda;
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2017)</small>
 
-II Bis.- De manera dolosa capture, transforme, acopie, transporte, destruya o comercie con las especies acuáticas denominadas abulón y langosta, dentro o fuera de los periodos de veda, sin contar con la autorización que corresponda, en cantidad que exceda 10 kilogramos de peso y cuando las conductas a que se refiere la presente fracción se cometan por una asociación delictuosa, en los términos del artículo 164 de este Código, se estará a lo dispuesto en el artículo 194 del Código Federal de Procedimientos Penales;
+II Bis. De manera dolosa capture, transforme, acopie, transporte, destruya o comercie con las especies acuáticas denominadas abulón, camarón, pepino de mar y langosta, dentro o fuera de los periodos de veda, sin contar con la autorización que corresponda, en cantidad que exceda 10 kilogramos de peso.
 
 III. Realice actividades de caza, pesca o captura con un medio no permitido, de algún ejemplar de una especie de fauna silvestre, o ponga en riesgo la viabilidad biológica de una población o especie silvestres;
 
@@ -7946,3 +7946,9 @@ D.O.F. 27 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 153 Y 154, Y SE DEROGA EL ARTÍCULO 151 DEL CÓDIGO PENAL FEDERAL”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 420 DEL CÓDIGO PENAL FEDERAL Y SE ADICIONA EL ARTÍCULO 2o. DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
