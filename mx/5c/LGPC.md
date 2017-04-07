@@ -4,7 +4,7 @@ identifier: "LGPC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2014-06-03"
+last_updated: "2017-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPC"
 
 LEY GENERAL DE PROTECCIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE ABRIL DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -188,7 +188,9 @@ Las políticas públicas en materia de protección civil, se ceñirán al Plan N
 
 I. La identificación y análisis de riesgos como sustento para la implementación de medidas de prevención y mitigación;
 
-II. Promoción de una cultura de responsabilidad social dirigida a la protección civil con énfasis en la prevención y autoprotección respecto de los riesgos y peligros que representan los agentes perturbadores y su vulnerabilidad;
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2017)</small>
+
+II. Promoción, desde la niñez, de una cultura de responsabilidad social dirigida a la protección civil con énfasis en la prevención y autoprotección respecto de los riesgos y peligros que representan los agentes perturbadores y su vulnerabilidad;
 
 III. Obligación del Estado en sus tres órdenes de gobierno, para reducir los riesgos sobre los agentes afectables y llevar a cabo las acciones necesarias para la identificación y el reconocimiento de la vulnerabilidad de las zonas bajo su jurisdicción;
 
@@ -196,9 +198,17 @@ IV. El fomento de la participación social para crear comunidades resilientes, y
 
 V. Incorporación de la gestión integral del riesgo, como aspecto fundamental en la planeación y programación del desarrollo y ordenamiento del país para revertir el proceso de generación de riesgos;
 
-VI. El establecimiento de un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil en los tres órdenes de gobierno, y
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2017)</small>
 
-VII. El conocimiento y la adaptación al cambio climático, y en general a las consecuencias y efectos del calentamiento global provocados por el ser humano y la aplicación de las tecnologías.
+VI. El establecimiento de un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil en los tres órdenes de gobierno;
+
+> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2017)</small>
+
+VII. El conocimiento y la adaptación al cambio climático, y en general a las consecuencias y afectos (sic) del calentamiento global provocados por el ser humano y la aplicación de las tecnologías, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE ABRIL DE 2017)</small>
+
+VIII. La atención prioritaria para la población vulnerable.
 
 ###### Artículo 5.
 
@@ -993,3 +1003,9 @@ D.O.F. 3 DE JUNIO DE 2014.
 DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 2, FRACCIÓN XVI, Y EL ARTÍCULO 82; SE ADICIONA LA FRACCIÓN XXI, RECORRIENDO EL ORDEN DE LAS FRACCIONES SUBSECUENTES AL ARTÍCULO 2 Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 20 DE LA LEY GENERAL DE PROTECCIÓN CIVIL.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 4 DE LA LEY GENERAL DE PROTECCIÓN CIVIL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
