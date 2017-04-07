@@ -4,7 +4,7 @@ identifier: "COA-ley-de-adquisiciones-arrendamientos-y-contratacion-de-66143"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2016-03-04"
+last_updated: "2017-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -67,17 +67,17 @@ I. Secretaría: La Secretaría de Finanzas del Estado de Coahuila de Zaragoza;
 
 II. Órgano de Control: La Secretaría de Fiscalización y Rendición de Cuentas del Estado de Coahuila de Zaragoza;
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-III. Dependencias: Las Secretarías del ramo, la Procuraduría General de Justicia del Estado y las unidades administrativas adscritas a las mismas, así como aquellas encargadas del trámite de los asuntos que correspondan directamente al Gobernador del Estado;
+III. Dependencias: Las señaladas en la Ley Orgánica de la Administración Pública del Estado, el Código Municipal para el Estado de Coahuila de Zaragoza, incluyendo sus órganos desconcentrados y unidades administrativas adscritas a los Poderes del Estado y los Municipios;
 
 IV. Entidades: Los organismos públicos descentralizados estatales o municipales, las empresas de participación estatal o municipal mayoritaria, los fideicomisos en donde el fideicomitente sea el Gobierno del Estado y los organismos públicos de participación ciudadana;
 
 V. Convocante: La Dependencia o Entidad responsable del proceso de licitación, adjudicación o contratación.
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-VI. Proveedor: Toda persona, debidamente inscrita en el padrón a que se refiere el capítulo tercero de este título, que por virtud del contrato respectivo, tenga obligación de suministrar al estado o municipios, bienes o servicios o proporcionar inmuebles para arrendamiento. Cuando tengan su domicilio fiscal en Coahuila de Zaragoza, tendrán el carácter de proveedores locales.
+VI. Proveedor: Toda persona, debidamente inscrita en el padrón a que se refiere el capítulo tercero de este título, que por virtud del contrato respectivo, tenga obligación de suministrar al estado o municipios, bienes o servicios o proporcionar bienes muebles e inmuebles para arrendamiento. Cuando tengan su domicilio fiscal en Coahuila de Zaragoza, tendrán el carácter de proveedores locales;
 
 VII. Tratados: Instrumentos jurídicos regidos por el derecho internacional público, celebrados por escrito entre el Gobierno de los Estados Unidos Mexicanos y uno o varios sujetos de Derecho Internacional Público, ya sea que para su aplicación, requiera o no la celebración de acuerdos en materias específicas, cualquiera que sea su denominación, mediante los cuales los Estados Unidos Mexicanos asume compromisos.
 
@@ -93,13 +93,59 @@ XI. Comité: Comité de Adquisiciones del Gobierno del Estado de Coahuila;
 
 XII. Unidad: Aquellas áreas de la administración pública del Estado que tengan a su cargo las acciones de administración relativas a adquisiciones, arrendamientos y servicios.
 
-(ADICIONADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
-
-XIII. CompraNet: Sistema electrónico de contrataciones gubernamentales.
+XIII. (DEROGADA, P.O. 7 DE ABRIL DE 2017).
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 XIV. Proveedores Salarialmente Responsables: Los proveedores que hayan comprobado fehacientemente, a través de la documentación o cualquier otra prueba idónea, que sus trabajadores y los que laboren para terceros que presten servicios en sus instalaciones perciban un salario equivalente a 1.18 veces la Unidad de Cuenta del Estado de Coahuila de Zaragoza o en su caso el salario mínimo general vigente en la capital del estado, sí este fuese mayor al múltiplo de la Unidad de Cuenta antes referido, y cumplir con sus obligaciones en materia de seguridad social.
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XV. Subasta Electrónica Inversa: Modalidad utilizada en las licitaciones públicas, en la que los licitantes, al presentar sus proposiciones, tienen la posibilidad de que, con posterioridad a la presentación y apertura de sus propuestas técnica y económica vía electrónica, realicen una o más ofertas inversas de descuentos que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su propuesta técnica;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XVI. Testigo Social: Las personas físicas que pertenezcan o no a organizaciones no gubernamentales, así como las propias organizaciones no gubernamentales, que cuenten con el registro correspondiente ante el Órgano de Control, las cuales a solicitud de las dependencias y entidades, por acuerdo entre ellas y la Secretaría a solicitud de esta última o del Órgano de Control, podrán participar con derecho a voz en las contrataciones que lleven a cabo las dependencias y entidades, emitiendo al término de su participación un testimonio público sobre el desarrollo de las mismas;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XVII. Investigación de Mercado: La verificación de la existencia de bienes, arrendamientos o servicios, de proveedores a nivel nacional o internacional y del precio estimado basado en la información que se obtenga en la propia dependencia o entidad, de organismos públicos o privados, de fabricantes de bienes o prestadores de servicios, o de una combinación de dichas fuentes de información;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XVIII. Dictamen Técnico: Documento suscrito por el funcionario autorizado por la convocante, en el que se motiva y fundamenta el resultado de evaluación de los requisitos legales, administrativos, técnicos y económicos solicitados a los licitantes que participan en un proceso de contratación;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XIX. Precio Máximo: Límite superior al que puede llegar un precio;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XX. Puja: Término utilizado en las subastas, se refiere a la cantidad que ofrece un licitante para mejorar una oferta de precio;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XXI. Bienes y Servicios Objetivamente Definidos: Aquellos con patrones de calidad y desempeño definidos objetivamente, determinados por características usuales en el mercado o que han sido estandarizados;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XXII. Precio no Aceptable: es aquél que derivado de la investigación de mercado realizada, resulte superior en un diez por ciento al ofertado respecto del que se observa como mediana en dicha investigación o en su defecto, el promedio de las ofertas presentadas en la misma licitación;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XXIII. Criterio de Evaluación Binario: Consiste en la verificación exhaustiva del cumplimiento de los requisitos legales, administrativos, económicos y técnicos solicitados en las bases de la licitación y la comparación de los precios ofertados por cada licitante, la asignación del contrato será a los licitantes que resultan solventes porque cumplen con la totalidad de los requisitos solicitados y oferte el precio más económico;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XXIV. Criterio de Evaluación por Puntos y Porcentajes: Consiste en la verificación exhaustiva de los requisitos legales y técnicos solicitados en las bases de la licitación mediante la asignación de puntos o unidades porcentuales que los licitantes alcancen de acuerdo al grado de cumplimiento de los rubros y subrubros de las propuestas técnicas y económicas que integran la proposición para que sean consideradas como solventes.
+
+La convocante llevará a cabo en primer término, la evaluación de las propuestas técnicas de todos los licitantes participantes y solo procederá a hacer la evaluación de las propuestas económicas de aquellas proposiciones técnicas que resultaron solventes por haber obtenido la puntuación o unidades porcentuales iguales o superiores al mínimo establecido en las bases de la licitación; la asignación del contrato se hará al licitante que resulte con la mayor puntuación como resultado de la suma de los puntos o unidades obtenidas en su propuesta técnica y la obtenida en su propuesta económica; y
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XXV. Criterio de Evaluación de Costo Beneficio: Consiste en la evaluación de la información que los licitantes deben presentar como parte de su proposición de acuerdo a lo solicitado en las bases de la licitación y el método de evaluación del costo beneficio que se utilizará, el cual deberá ser medible y comprobable, considerando los conceptos que serán objeto de evaluación, tales como mantenimiento, operación, consumibles, rendimiento u otros elementos vinculados con el factor de temporalidad o volumen de consumo.
+
+La adjudicación del contrato se hará a favor del licitante cuya proposición presente el mayor beneficio neto, mismo que corresponderá al resultado que se obtenga de considerar el precio del bien, del arrendamiento o del servicio, más el de los conceptos que se hayan previsto en el criterio de evaluación.
 
 ###### Artículo 3.
 
@@ -255,15 +301,19 @@ Tratándose de bienes cuyo proceso de fabricación sea superior a 90 días, la C
 
 La Secretaría podrá autorizar el pago de suscripciones, seguros o de otros servicios, en los que no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 17.
 
-En los procedimientos de contratación de carácter internacional, las Dependencias y Entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamiento de bienes producidos en el país, con un margen hasta del diez por ciento de preferencia en el precio respecto de los bienes de importaciones, el (sic) caso de concurso para la adquisición de bienes o servicios, en igualdad de condiciones, se dará preferencia a personas con discapacidad o a la empresa que cuente con personal con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seis meses; antigüedad que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social.
+En los procedimientos de contratación de carácter internacional, las Dependencias y Entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la adquisición y arrendamiento de bienes producidos en el país, con un margen hasta del quince por ciento de preferencia en el precio respecto de los bienes de importaciones, (sic) el caso de concurso para la adquisición de bienes o servicios, en igualdad de condiciones, se dará preferencia a personas con discapacidad o a la empresa que cuente con personal con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seis meses; antigüedad que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 18.
 
-Aplicando el principio establecido en el artículo 34 fracción V de la presente Ley, en igualdad de circunstancias en la propuesta técnica, la convocante deberá tomar en cuenta para la emisión del fallo a los contratistas y proveedores locales, así como a las micro, pequeñas y medianas empresas de la entidad, dándoles un margen de preferencia de hasta el 5% de su propuesta económica, siempre que se garantice el objeto a que se refiere el artículo 43 de esta Ley.
+Aplicando el principio establecido en el artículo 34 fracción V de la presente Ley, en igualdad de circunstancias en la propuesta técnica, cuando se haya utilizado el criterio de evaluación binario, la convocante deberá tomar en cuenta para la emisión del fallo a los contratistas y proveedores locales, así como a las micro, pequeñas y medianas empresas de la entidad, dándoles un margen de preferencia de hasta el quince por ciento de su propuesta económica, siempre que se garantice el objeto a que se refiere el artículo 43 de esta Ley.
+
+La aplicación del criterio de evaluación binario será procedente en aquellos casos en que la convocante no requiera vincular las condiciones que deberán cumplir los proveedores con las características y especificaciones de los bienes a adquirir o a arrendar o de los servicios a contratar porque éstos se encuentran estandarizados en el mercado y el factor preponderante que considera para la adjudicación del contrato es el precio más bajo.
 
 ###### Artículo 19.
 
@@ -313,9 +363,9 @@ El Órgano de Control hará del conocimiento de las dependencias, entidades y de
 
 Para toda adquisición o contratación de los servicios definidos en esta Ley, que se realicen en total o parte con fondos estatales, las dependencias, entidades y municipios, sólo podrán aceptar proposiciones y celebrar contrato, con las personas físicas y morales inscritas en el Padrón cuyo Certificado de Aptitud esté vigente en la fecha de presentación y apertura de las proposiciones. En el caso de Invitación a cuando menos tres personas se vigilará que los licitantes que se encuentren inscritos y vigentes a la fecha de la presentación de sus proposiciones, así mismo para el caso de adjudicación directa se solicitará el Certificado antes de la firma del contrato o la asignación del pedido.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-Para la evaluación de las solicitudes de inscripción o refrendo, el Órgano de Control podrá verificar en forma espontánea el domicilio fiscal y las instalaciones del solicitante, así mismo verificar infraestructura, maquinaria, personal capacitado y demás que considere importantes para dicha evaluación. Lo anterior podrá llevarse a cabo durante la evaluación o inclusive posterior a la emisión del Certificado de Aptitud. Si no fuera permitida por el solicitante o su personal, la evaluación antes referida, el tramite será suspendido y en el caso de ser posterior a la emisión del Certificado de Aptitud, éste podrá ser suspendido y en su caso cancelado en el Padrón de Proveedores de la Administración Pública Estatal.
+Para la evaluación de las solicitudes de inscripción o refrendo, el Órgano de Control deberá verificar en forma programada el domicilio fiscal y las instalaciones del solicitante, así mismo verificar infraestructura, maquinaria, personal capacitado y demás que relacionadas con la actividad del solicitante que considere importantes para dicha evaluación, lo que se hará constar mediante el acta correspondiente. Lo anterior podrá llevarse a cabo durante la evaluación o inclusive posterior a la emisión del Certificado de Aptitud. Si no fuera permitida por el solicitante o su personal, la evaluación antes referida, el tramite será cancelado y en el caso de ser posterior a la emisión del Certificado de Aptitud, éste deberá ser cancelado en el Padrón de Proveedores de la Administración Pública Estatal.
 
 ###### Artículo 23.
 
@@ -327,21 +377,35 @@ I. Solicitarlo en los formatos que, para el efecto, apruebe el Órgano de Contro
 
 II. Tratándose de sociedades o asociaciones, deberán acompañar copia certificada del acta constitutiva y de sus reformas; debidamente inscritas en el Registro Público de la Propiedad, Sección Comercio;
 
-III. Acreditamiento del o los representantes y/o apoderado (s) legal (es);
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+III. Acreditamiento del o los representantes o del o los apoderados legales, así como identificación oficial y su currículum vitae;
 
 IV. Demostrar su solvencia económica y capacidad para la producción o suministro de mercancías, materias primas y demás bienes muebles y, en su caso, para el arrendamiento de éstos o la prestación de servicios;
 
-V. Acreditar haber cumplido con las inscripciones y registros que exigen las disposiciones de orden fiscal o administrativo y Seguridad Social.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-VI. Acreditar mediante la exhibición de los documentos respectivos, que es productor o comerciante legalmente establecido;
+V. Acreditar pertenecer a la Cámara Empresarial correspondiente, contar con el Registro del Sistema de Información Empresarial Mexicano vigente; y haber cumplido con las inscripciones, registros y declaraciones que exigen las disposiciones de orden fiscal o administrativo y Seguridad Social.
 
-VII. Pagar previamente los derechos establecidos en el ordenamiento correspondiente, y
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+VI. Acreditar mediante la exhibición de los documentos respectivos, que es productor o comerciante legalmente establecido; así mismo, deberán presentar una relación de las empresas del sector privado y de las dependencia o entidades de los tres órdenes de gobierno, de las cuales sean o hayan sido proveedores.
 
-VIII. Los demás documentos e información que el Órgano de Control considere pertinentes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE ABRIL DE 2017)</small>
 
-Las personas físicas deberán acreditarse con su acta de nacimiento, debiendo cumplir con los requisitos de este Artículo, excepto los de las fracciones II y III.
+VII. La georreferenciación de los domicilios de las sociedades o asociaciones o personas físicas solicitantes, así como fotografías del interior y exterior de la empresa, negociación o establecimiento comercial.
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+VIII. Pagar previamente los derechos establecidos en el ordenamiento correspondiente, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE ABRIL DE 2017)</small>
+
+IX. Los demás documentos e información que el Órgano de Control considere pertinentes.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Las personas físicas deberán acreditarse con su acta de nacimiento e identificación oficial, así mismo deberán exhibir currículum vitae, debiendo cumplir con los requisitos de este Artículo, excepto los de las fracciones II y III.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -359,11 +423,11 @@ Además de la revisión documental, se podrán realizar las consultas que se con
 
 Las personas interesadas en inscribirse vía electrónica en el padrón, deberán atender los lineamientos que al efecto emita el Órgano de Control.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 24.
 
-Los interesados presentarán su solicitud ante el Órgano de Control el cual, dentro de un término de veinte días hábiles siguientes a su presentación, resolverá sobre la inscripción en el padrón. Transcurrido este plazo sin que haya respuesta, se tendrá por inscrito al solicitante, debiendo expedir el Órgano de Control, el Certificado de Aptitud.
+Los interesados presentarán su solicitud con los documentos señalados en el artículo 23 de esta ley ante el Órgano de Control el cual, dentro de un término de veinte días hábiles siguientes a su presentación, resolverá sobre la inscripción en el padrón, este término podrá prorrogarse por diez días más, debiendo expedir el Órgano de Control, el Certificado de Aptitud.
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -381,7 +445,9 @@ El Certificado de Aptitud deberá estar vigente y será requisito indispensable 
 
 El Certificado de Aptitud, y en su caso, la calidad de Salarialmente Responsable, en el Padrón de Proveedores de la Administración Pública Estatal, tendrá una vigencia anual y podrá revalidarse anualmente siempre y cuando no se incurra en alguna de las causales de suspensión o cancelación.
 
-Los proveedores que tengan interés en continuar inscritos en el Padrón, y en su caso, conservar la calidad de Salarialmente Responsable, podrán presentar su solicitud de refrendo ante el Órgano de control, dentro de los treinta días hábiles anteriores al vencimiento de su Certificado de Aptitud, la cual deberá ser acompañada con la información y documentos complementarios que procedan, en los términos del artículo anterior.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Los proveedores que tengan interés en continuar inscritos en el Padrón, y en su caso, conservar la calidad de Salarialmente Responsable, podrán presentar su solicitud de refrendo ante el Órgano de control, dentro de los treinta días hábiles anteriores al vencimiento de su Certificado de Aptitud, la cual deberá ser acompañada con la información y documentos actualizados y complementarios que procedan, en los términos del artículo anterior.
 
 La inscripción y la revalidación causarán los derechos que establezca la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
 
@@ -625,21 +691,31 @@ a) Con tres cotizaciones.
 
 b) Monto menor, según lo dispuesto en el presupuesto de egresos de cada ejercicio.
 
-El procedimiento de licitación pública nacional, invitación a cuando menos tres personas y adjudicación directa, se ajustarán a los montos establecidos en el presupuesto de egresos del ejercicio correspondiente.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+El procedimiento de licitación pública nacional, invitación a cuando menos tres personas y adjudicación directa, se ajustarán a lo dispuesto por esta ley.
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, forma y tiempo de pago, penas convencionales, anticipos y garantías; debiendo las Dependencias y Entidades proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-Los proveedores que deseen participar en algún procedimiento de contratación, deberán de presentar el manifiesto de no conflicto de intereses y dar cumplimiento al Código de Conducta en los términos de los artículos siguientes.
+Los proveedores que deseen participar en algún procedimiento de contratación, en igualdad de condiciones, deberán contar con experiencia en la actividad que desarrollan, además presentar el manifiesto de no conflicto de intereses y dar cumplimiento al Código de Conducta en los términos de los artículos siguientes.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-La licitación pública inicia con la publicación de la convocatoria, por una sola vez en uno de los diarios de mayor circulación en el Municipio y la región en donde haya de ser adquirido o arrendado el bien o prestado el servicio y, en el caso de la invitación a cuando menos tres personas, con la entrega de la primera invitación; ambos procedimientos concluyen con la firma del contrato.
+La licitación pública inicia con la publicación de la convocatoria en el medio de difusión electrónica que establezca el Órgano de Control, y se publicará un resumen de la misma por una sola vez en uno de los diarios de mayor circulación en el Municipio y la región en donde haya de ser adquirido o arrendado el bien o prestado el servicio y, en el caso de la invitación a cuando menos tres personas, se inicia el proceso con la entrega de la primera invitación; ambos procedimientos concluyen con la firma del contrato.
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-Las dependencias y entidades pondrán a disposición pública, a través de los medios de difusión electrónica que establezca el Órgano de Control, la información que obre en su base de datos correspondiente a las convocatorias, bases de las licitaciones y el manifiesto de no conflicto de intereses y, en su caso, sus modificaciones; las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los contratos adjudicados; así como otra información relativa a las materias que regula esta Ley, con excepción de aquella que, de conformidad con las disposiciones aplicables, sea de naturaleza reservada, en los términos establecidos en la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza.
+Las dependencias y entidades y los municipios del Estado pondrán a disposición pública, a través del medio de difusión electrónica que establezca el Órgano de Control, la información que obre en su base de datos correspondiente a las convocatorias, bases de las licitaciones y el manifiesto de no conflicto de intereses y, en su caso, sus modificaciones; las actas de las juntas de aclaraciones y de visita a instalaciones, las actas de los actos de presentación y apertura de proposiciones y los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los contratos adjudicados; así como otra información relativa a las materias que regula esta Ley, con excepción de aquella que, de conformidad con las disposiciones aplicables, sea de naturaleza reservada, en los términos establecidos en la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+En las licitaciones públicas se podrá utilizar la modalidad de subasta electrónica inversa, siempre que se cumpla con los requisitos establecidos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Tratándose de licitaciones públicas en las que participen de manera individual micro, pequeñas y medianas empresas nacionales, debidamente constituidas y estratificadas, conforme a la Ley para el Desarrollo de la Competitividad de las Micros, Pequeña y Mediana Empresa, no se aplicará la modalidad de subasta electrónica inversa de descuento.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -737,6 +813,104 @@ El Órgano de Control operará y se encargará del sistema de certificación de 
 
 El Órgano de Control deberá aceptar la certificación de medios de identificación electrónica que realicen las dependencias y entidades, las entidades federativas y el Distrito Federal, así como terceros facultados por autoridad competente en la materia, cuando los sistemas de certificación empleados se ajusten a las disposiciones que emita el Órgano de Control.
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+###### Artículo 43-A.
+
+La licitación pública conforme a los medios que se utilicen, podrá ser:
+
+I. Presencial, en la cual los licitantes exclusivamente podrán presentar sus proposiciones en forma documental y por escrito, en sobre cerrado, durante el acto de presentación y apertura de proposiciones, o bien, si así se prevé en la convocatoria a la licitación, mediante el uso del servicio postal o de mensajería.
+
+La o las juntas de aclaraciones, el acto de presentación y apertura de proposiciones y el acto de fallo, se realizarán de manera presencial, a los cuales podrán asistir los licitantes, sin perjuicio de que el fallo pueda notificarse por escrito conforme a lo dispuesto por el artículo 60 de esta Ley;
+
+II. Electrónica, en la cual exclusivamente se permitirá la participación de los licitantes a través del medio de difusión electrónica que establezca el Órgano de Control comunicaciones producirán los efectos que señala el artículo 43 antepenúltimo párrafo de esta Ley.
+
+La o las juntas de aclaraciones, el acto de presentación y apertura de proposiciones y el acto de fallo, sólo se realizarán a través del medio de difusión electrónica que establezca el Órgano de Control y sin la presencia de los licitantes en dichos actos, y
+
+III. Mixta, en la cual los licitantes, a su elección, podrán participar en forma presencial o electrónica en la o las juntas de aclaraciones, el acto de presentación y apertura de proposiciones y el acto de fallo.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+###### Artículo 43-B.
+
+Para la aplicación de la modalidad de subasta electrónica inversa, se atenderá lo siguiente:
+
+I. Se llevará a cabo exclusivamente a través del medio de difusión electrónica que establezca el Órgano de Control, mediante licitaciones públicas electrónicas, cuando se utilicen los criterios de evaluación binario o puntos y porcentajes conforme a las disposiciones que sobre el uso de dicho medio se encuentren vigentes;
+
+II. Los bienes o servicios objeto de la licitación, deberán tener características técnicas objetivamente definidas, por encontrarse estandarizadas en el mercado;
+
+III. Deberá verificarse, mediante investigación de mercado, que existe competitividad suficiente, al constatar la existencia de al menos cinco licitantes potenciales que cumplen con la capacidad y experiencia requeridas para la contratación, de acuerdo con la naturaleza de la licitación;
+
+IV. El precio de contratación para cada partida o grupo de partidas, deberá estimarse de acuerdo a los resultados de la investigación de mercado;
+
+V. Verificar que se pueda realizar la evaluación legal y técnica de las proposiciones, en un término máximo de veinticuatro horas, contadas a partir de la conclusión del acto de presentación y apertura de proposiciones;
+
+VI. El volumen de los bienes o servicios a licitar, debe resultar conveniente para la convocante, por generar economías a escala, lo cual será determinado por el área contratante;
+
+VII. El número de partidas o grupo de partidas a licitar en cada procedimiento no excederá de los máximos autorizados para su difusión en el medio electrónico establecido por el Órgano de Control;
+
+VIII. Cuando se trate de licitaciones públicas dirigidas a MIPYMES, o cuando de la investigación de mercado se advierta la participación individual de éstas con empresas que por su capacidad de producción o económica representen una competencia desigual, la dependencia o entidad se abstendrá de utilizar esta modalidad;
+
+IX. No se aplicarán precios máximos de referencia;
+
+X. En el acta en la que se haga constar el acto de presentación y apertura de proposiciones recibidas por vía electrónica, el servidor público que presida la licitación pública señalará fecha y hora en la que los licitantes que hayan cumplido con los requisitos legales y técnicos establecidos en la convocatoria a la licitación pública, podrán hacer sus ofertas inversas a través del medio de difusión electrónica que establezca el Órgano de Control;
+
+XI. Las MIPYMES podrán participar cuando realicen proposiciones conjuntas; en el caso de que participen en la licitación pública de manera individual no podrán presentar ofertas inversas de descuento, sin que ello impida continuar con el procedimiento de contratación;
+
+XII. La dependencia o entidad responsable de la contratación, deberá estar autorizada por el Órgano de Control, para hacer uso de los medios remotos de comunicación electrónica y recibir proposiciones a través de esta vía, y
+
+XIII. Verificar que en su caso, se cuenta con las fórmulas de ajuste que permitan homologar las proposiciones de los licitantes nacionales o extranjeros, cuando la convocante permita a éstos presentar sus ofertas con distintas características, entre otras el lugar o forma de entrega, a fin de evitar que se favorezca a algún participante.
+
+Previo al inicio del procedimiento de contratación, el titular del área responsable para llevar a cabo el mismo, deberá constatar que se cumplen los requisitos contenidos en este artículo.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+###### Artículo 43-C.
+
+Atendiendo al impacto que la contratación tenga en los programas sustantivos en la dependencia o entidad, en las licitaciones públicas, e invitaciones a cuando menos tres personas deberán participar testigos sociales, en la forma y términos señalados en los lineamientos para regular la participación de testigos sociales, que para el efecto emita el Órgano de Control, conforme a lo siguiente:
+
+I. Se deberá crear un comité de designación de testigos sociales integrado en los términos que establezcan los lineamientos señalados en el párrafo anterior y tendrá como objetivo asegurar la designación de los testigos sociales, con imparcialidad, fomentando la transparencia, mediante su participación en los procesos de contratación de las adquisiciones de bienes, arrendamiento de bienes, obra pública y servicios relacionados con las mismas, que lleven a cabo las dependencias y entidades.
+
+El comité podrá efectuar las sugerencias que considere necesarias para mejorar la participación de los testigos sociales, así como cualquier otra recomendación relacionada con los mismos, y determinará la cancelación del registro de los testigos sociales que incurran en las acciones previstas en los lineamientos.
+
+II. El Órgano de Control, tendrá a su cargo el padrón público de testigos sociales, quienes podrán participar en todas las etapas de los procedimientos de licitación pública, a los que se refiere esta Ley, con voz, y emitirán un testimonio final que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en la página electrónica de cada dependencia o entidad y el medio de difusión electrónica que establezca el Órgano de Control y se integrará al expediente respectivo;
+
+III. Los testigos sociales serán seleccionados mediante convocatoria pública, emitida por el Órgano de Control;
+
+IV. El Órgano de Control, acreditará como testigos sociales a aquéllas personas que cumplan con los siguientes requisitos:
+
+a) Ser ciudadano mexicano en ejercicio de sus derechos o extranjero cuya condición migratoria permita la función a desarrollar;
+
+b) Cuando se trate de una organización no gubernamental, acredite que se encuentra constituida conforme a las disposiciones legales aplicables y que no persigue fines de lucro;
+
+c) No haber sido sentenciado con pena privativa de libertad;
+
+d) No ser servidor público en activo en México o en el extranjero. Asimismo, no haber sido servidor público Federal o de una Entidad Federativa durante al menos un año previo a la fecha en que se presente su solicitud para ser acreditado;
+
+e) No haber sido sancionado como servidor público por autoridad federal, estatal, municipal o por autoridad competente en el extranjero;
+
+f) Presentar currículo en el que se acrediten los grados académicos, la especialidad correspondiente, la experiencia laboral y, en su caso, docente, así como los reconocimientos que haya recibido a nivel académico y profesional;
+
+g) Asistir a los cursos de capacitación que imparte el Órgano de Control sobre esta Ley;
+
+h) Presentar manifestación escrita bajo protesta de decir verdad que se abstendrá de participar en contrataciones en las que pudiese existir conflicto de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tienen vinculación académica, de negocios o familiar; y
+
+i) No estar registrado como persona física en el padrón de proveedores y contratistas de la Administración Pública Estatal, o formar parte de sociedades como accionista o socio.
+
+V. Los testigos sociales tendrán las funciones siguientes:
+
+a) Proponer conforme a su experiencia y considerando las disposiciones legales o administrativas vigentes, los aspectos que mejoren el trato igualitario, la calidad y precio, así como las acciones que promuevan la eficiencia, eficacia, transparencia de las contrataciones y el combate a la corrupción.
+
+b) Proponer a las dependencias, entidades y al Órgano de Control, mejoras para fortalecer la transparencia, imparcialidad y las disposiciones legales en materia de adquisiciones, arrendamientos y servicios;
+
+c) Dar seguimiento al establecimiento de las acciones que se recomendaron derivadas de su participación en las contrataciones, y
+
+d) Emitir al final de su participación el testimonio correspondiente, del cual entregarán un ejemplar al Órgano de Control en un plazo no mayor a tres días hábiles. Dicho testimonio deberá publicarse dentro del mismo plazo en la página de internet de la dependencia o entidad que corresponda, y permanecer al menos durante los tres meses posteriores a la fecha de su publicación. Asimismo, el Órgano de Control, difundirá dicho testimonio durante el mismo plazo, a través del medio electrónico que el mismo tenga autorizado.
+
+En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio al Órgano de Control, dentro de un plazo de veinticuatro horas, en días hábiles a partir de la celebración del acto que corresponda.
+
+Se podrá exceptuar la participación de los testigos sociales en aquéllos casos en que los procedimientos de contrataciones contengan información clasificada como reservada que pongan en riesgo la seguridad en los términos de las disposiciones legales aplicables.
+
 ###### Artículo 44.
 
 En el caso de que las operaciones a las que se refiere esta Ley deban cubrirse a crédito, será necesario obtener la autorización de la Secretaría, sin perjuicio de aquella que, en su caso, deba otorgar el Congreso del Estado al Ejecutivo, conforme a las Leyes aplicables.
@@ -785,9 +959,11 @@ Las dependencias y entidades, previa resolución motivada, solicitarán autoriza
 
 ### CAPÍTULO SEGUNDO. DE LOS PROCEDIMIENTOS Y CONTRATOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 51.
 
-Para llevarse a cabo los procedimientos de licitaciones públicas, las convocatorias, que podrán referirse a una o más de las operaciones reguladas en este ordenamiento, se publicarán por una sola vez en uno de los diarios de mayor circulación en el municipio o la región en donde haya de ser adquirido o arrendado el bien o prestado el servicio y, contendrá cuando menos:
+Para llevarse a cabo los procedimientos de licitaciones públicas, las convocatorias, que podrán referirse a una o más de las operaciones reguladas en este ordenamiento, se publicarán invariablemente en el medio de difusión electrónica autorizado por el Órgano de Control y por una sola vez en uno de los diarios de mayor circulación en el municipio o la región en donde haya de ser adquirido o arrendado el bien o prestado el servicio y, contendrá cuando menos:
 
 I. El nombre, denominación o razón social de la Dependencia o Entidad convocante;
 
@@ -827,17 +1003,19 @@ XIII. Los criterios generales conforme a los cuales se adjudicará el contrato.
 
 En igualdad de condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, se preferirá a las personas físicas o morales que hayan acreditado ser Proveedores Salarialmente Responsables, como factor para determinar la adjudicación.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 52.
 
-Las bases que emitan las dependencias y entidades para las licitaciones públicas se pondrán a disposición de los interesados, tanto en el domicilio señalado por las mismas, como en los medios de difusión electrónica que establezca el Órgano de Control, a partir del día en que se publique la convocatoria y hasta, inclusive, el séptimo día natural anterior al acto de presentación y apertura de proposiciones, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente durante este período y contendrán, en lo aplicable, lo siguiente:
+Las bases que emitan las dependencias y entidades para las licitaciones públicas se pondrán a disposición para su venta a los interesados invariablemente en el medio electrónico autorizado por el Órgano de Control y en el domicilio señalado por las mismas, a partir del día en que se publique la convocatoria y hasta, inclusive, el séptimo día natural anterior al acto de presentación y apertura de proposiciones, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente durante este período y deberán contener, en lo aplicable, lo siguiente:
 
 I. Nombre, denominación o razón social de la Dependencia o Entidad convocante;
 
 II. Forma en que se acreditará la existencia y personalidad jurídica del licitante;
 
-III. La fecha, hora y lugar de celebración de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
+
+III. Cuando se trate de licitaciones públicas presenciales o mixtas, la fecha, hora y lugar de celebración de:
 
 a) Acto de la primera junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen;
 
@@ -847,19 +1025,29 @@ c) Acto de fallo técnico y económico,
 
 d) Firma del contrato;
 
-IV. Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación, así como el hecho de que algún licitante haya acordado con otro u otros elevar los precios de los bienes o servicios. O cualquier otro acto que tenga como fin obtener una ventaja sobre los demás licitantes;
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Para el caso de licitaciones públicas electrónicas, se señalará la fecha y hora en las cuales se llevarán a cabo estos eventos a través del medio electrónico autorizado por el Órgano de Control, así como la firma del contrato cuando se prevea que éste se suscribirá haciendo uso de este medio;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+IV. Señalamiento de las causas expresas de desechamiento que afecten directamente la solvencia de las proposiciones entre las que se incluirá la comprobación de que algún licitante ha acordado con otro u otros elevar los precios de los bienes o servicios, o cualquier otro acto que tenga como fin obtener una ventaja sobre los demás licitantes;
 
 V. Idioma o idiomas, además del español, en que podrán presentarse las proposiciones. Los anexos técnicos y folletos podrán presentarse en el idioma del país de origen de los bienes o servicios, acompañados de una traducción simple al español.
 
 Tratándose de bienes y servicios en los que se requiera que las especificaciones técnicas, las proposiciones, anexos técnicos y folletos se presenten en un idioma diferente del español, previa autorización del titular del área solicitante, se podrá establecer el idioma extranjero en que se formulen y presenten dichos documentos sin la traducción respectiva;
 
-VI. Moneda en que se cotizará y efectuará el pago respectivo. En licitaciones públicas nacionales, las propuestas y el pago de bienes o servicios se realizarán en pesos mexicanos. Tratándose de adquisición de boletos de avión y el aseguramiento de bienes, las propuestas se podrán presentar en la moneda extranjera que determine la Convocante y su pago se podrá realizar en moneda nacional al tipo de cambio vigente en la fecha en que éste se realice. En todo caso, se aplicará lo que dispongan las disposiciones específicas en la materia.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-En licitaciones internacionales, en que la Convocante determine efectuar los pagos a proveedores extranjeros en moneda extranjera, los licitantes nacionales podrán presentar sus proposiciones en la misma moneda extranjera que determine la Convocante. No obstante, el pago que se realice en el territorio nacional deberá hacerse en moneda nacional y al tipo de cambio vigente en la fecha en que se haga dicho pago. Tratándose de proveedores extranjeros, los pagos podrán hacerse en el extranjero en la moneda determinada en las bases respectivas;
+VI. Moneda en que se cotizará y efectuará el pago respectivo. En licitaciones públicas nacionales, las propuestas y el pago de bienes o servicios se realizarán en pesos mexicanos. Tratándose de adquisición de boletos de avión y el aseguramiento de bienes, las propuestas se podrán presentar en la moneda extranjera que determine la Convocante, no obstante, el pago que se realice en el territorio nacional deberá hacerse en moneda nacional y al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación el día hábil bancario inmediato anterior a aquél en que se haga el pago. La equivalencia del peso mexicano con otras monedas extranjeras, se calculará atendiendo a la cotización que rija para estas últimas contra el dólar de los Estados Unidos de América, en los mercados internacionales el día en que se haga el pago.
+
+En licitaciones internacionales, en que la Convocante determine efectuar los pagos a proveedores extranjeros en moneda extranjera, los licitantes nacionales podrán presentar sus proposiciones en la misma moneda extranjera que determine la Convocante. No obstante, el pago que se realice en el territorio nacional deberá hacerse en moneda nacional y al tipo de cambio, de acuerdo a lo señalado en la fracción inmediata anterior. Tratándose de proveedores extranjeros, los pagos podrán hacerse en el extranjero en la moneda determinada en las bases respectivas;
 
 VII. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes podrán ser negociadas;
 
-VIII. Criterios para la evaluación de las propuestas y adjudicación de los contratos de conformidad a lo establecido por el artículo 58 de esta Ley;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+VIII. Criterios para la evaluación de las propuestas y adjudicación de los contratos de conformidad a lo establecido por el artículo 58 de esta Ley, mismos que pueden ser el binario, puntos y porcentajes, de acuerdo a las disposiciones que para su aplicación emita el Órgano de Control y el de costo beneficio;
 
 IX. Descripción completa de los bienes o servicios, o indicación de los sistemas empleados para identificación de los mismos; información específica que requieran respecto a mantenimiento, asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; normas técnicas de calidad de acuerdo a los estamentos legales correspondientes y especificaciones, aplicables; dibujos, cantidades, muestras y pruebas que se realizarán, así como métodos para ejecutarlas; período de garantía y, en su caso, otras opciones adicionales de cotización.
 
@@ -887,9 +1075,13 @@ XVII. En el caso de contratos abiertos, la información a que alude el artículo
 
 XVIII. Las penas convencionales que serán aplicables por atraso en la entrega de los bienes o en la prestación de los servicios, en los términos señalados en el artículo 76 de esta Ley;
 
-XIX. Instrucciones para elaborar y entregar las proposiciones y garantías; y
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-XX. La indicación de que, en los casos de licitación internacional, en la que la convocante determine que los pagos se harán en moneda extranjera, los proveedores nacionales, exclusivamente para fines de comparación, podrán presentar la parte del contenido importado de sus proposiciones en la moneda extranjera que determine la Convocante, pero el pago se efectuará en moneda nacional al tipo de cambio vigente en la fecha en que se haga el pago de los bienes.
+XIX. Instrucciones para elaborar y entregar las proposiciones y garantías;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XX. La indicación de que, en los casos de licitación internacional, en la que la convocante determine que los pagos se harán en moneda extranjera, los proveedores nacionales, exclusivamente para fines de comparación, podrán presentar la parte del contenido importado de sus proposiciones en la moneda extranjera que determine la Convocante, pero el pago se efectuará en moneda nacional al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación el día hábil bancario inmediato anterior a aquél en que se haga el pago;
 
 XXI. La indicación de que el licitante ganador que no firme el contrato en los términos establecidos en esta Ley por causas imputables al mismo, será sancionado en los términos del artículo 84 de esta Ley;
 
@@ -905,9 +1097,9 @@ XXVI. Las previsiones relativas a los términos y condiciones a las que se sujet
 
 XXVII. El señalamiento de las licencias, autorizaciones y permisos que conforme a otras disposiciones sea necesario contar para la adquisición o arrendamiento de bienes y prestación de los servicios correspondientes, cuando sean del conocimiento de la Convocante;
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-XXVIII. La indicación de que no podrán participar las personas físicas o morales inhabilitadas por resolución del Órgano de Control, en los términos de este ordenamiento;
+XXVIII. La indicación de que no podrán participar las personas físicas o morales inhabilitadas por resolución del Órgano de Control, en los términos de este ordenamiento y las que se encuentren inhabilitadas por resolución de autoridades competentes;
 
 XXIX. Así mismo, la indicación a los participantes de presentar manifestación bajo protesta de decir verdad de que por su conducto o interpósita persona, no participan en los procedimientos de contratación establecidos en esta Ley, personas físicas o morales que se encuentren inhabilitadas en los términos del párrafo anterior, con el propósito de evadir los efectos de la inhabilitación, tomando en consideración los supuestos siguientes:
 
@@ -929,17 +1121,81 @@ XXX. La indicación de que en caso de violaciones en materia de derechos inheren
 
 XXXI. El tipo y modelo de contrato.
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Para la participación, adjudicación o contratación de adquisiciones, arrendamientos o servicios no podrán establecerse requisitos que tengan por objeto limitar la libre participación, el proceso de competencia o libre concurrencia. En ningún caso se deberán establecer requisitos o condiciones imposibles de cumplir.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Se entenderá que no se limita la libre participación, cuando con la investigación de mercado correspondiente al procedimiento de contratación, se constate la existencia de al menos tres probables proveedores que pudieran cumplir los requisitos solicitados en las bases del proceso.
+
 ###### Artículo 53.
 
 Todo interesado que satisfaga los requisitos de la convocatoria, las bases y las especificaciones de la licitación tendrá derecho a presentar proposiciones, según el tipo de licitación de que se trate conforme a lo señalado en los artículos 42 y 43 de esta Ley.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 54.
 
-En licitaciones públicas nacionales, el plazo para la presentación y apertura de proposiciones no será menor de siete días y hasta un máximo de quince días naturales, contados a partir de la fecha de publicación de la convocatoria.
+En licitaciones públicas nacionales, el plazo para la presentación y apertura de proposiciones no será menor de diez días y hasta un máximo de quince días naturales, contados a partir de la fecha de publicación de la convocatoria, salvo que se requiera llevar a cabo más de una junta de aclaraciones, en cuyo caso se deberá considerar que entre la fecha de la última junta de aclaraciones y la presentación y apertura de proposiciones deberán existir siete días naturales.
 
 El plazo para la presentación y apertura de proposiciones de las licitaciones internacionales no podrá ser inferior a veinte días naturales, contados a partir de la fecha de publicación de la convocatoria.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+###### Artículo 54-A.
+
+Para la junta de aclaraciones se considerará lo siguiente:
+
+El acto será presidido por el servidor público designado por la convocante, quién deberá ser asistido por un representante del área técnica o usuaria de los bienes, arrendamientos o servicios objeto de la contratación, a fin de que se resuelvan en forma clara y precisa las dudas y planteamientos de los licitantes relacionados con los aspectos contenidos en la convocatoria y en las bases.
+
+Las personas que pretendan solicitar aclaraciones a los aspectos contenidos en la convocatoria o en las bases, deberán presentar el recibo de pago de las bases de la licitación; caso contrario, solo se aceptará su asistencia con el carácter de observador.
+
+Las solicitudes de aclaración, deberán enviarse a más tardar veinticuatro horas antes de la fecha y hora en que se vaya a realizar la junta de aclaraciones, utilizando el formato que la convocante incluya en el paquete de anexos de la licitación, y se presentarán conforme a lo siguiente:
+
+I. Por escrito, en el domicilio señalado por la dependencia o entidad en la convocatoria y en las bases, para llevar a cabo la junta de aclaraciones, cuando se trate de licitaciones públicas presenciales;
+
+II. Cuando se trate de licitaciones públicas electrónicas, a través del medio de difusión electrónica que establezca el Órgano de Control, y
+
+III. En licitaciones públicas mixtas, a elección del licitante, en el domicilio que señale la dependencia o entidad en la convocatoria y en las bases, para llevar a cabo la junta de aclaraciones, o a través del medio de difusión electrónica que establezca el Órgano de Control.
+
+En cualquiera de los casos señalados en las fracciones anteriores, se acompañará a la solicitud de aclaración correspondiente una versión electrónica de la misma que permita a la convocante su clasificación e integración por temas para facilitar su respuesta en la junta de aclaraciones de que se trate. Cuando la versión electrónica esté contenida en un medio físico, éste le será devuelto al licitante en la junta de aclaraciones respectiva.
+
+La convocante tomará como hora de recepción de las solicitudes de aclaración del licitante, la que indique el sello de recepción de la convocante y, tratándose de las solicitudes que se hagan llegar a la convocante a través del medio de difusión electrónica autorizado por el Órgano de Control, la hora que registre este sistema al momento de su envío.
+
+En su caso, al concluir cada junta de aclaraciones deberá señalar la fecha y hora para la celebración de ulteriores juntas de aclaraciones, considerando que entre la última de estas y el acto de presentación y apertura de proposiciones deberá existir un plazo de siete días naturales.
+
+De cada junta de aclaraciones se levantará acta en la que se harán constar los cuestionamientos formulados por los interesados y las respuestas de la convocante. En el acta correspondiente a la última junta de aclaraciones se indicará expresamente esta circunstancia.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+###### Artículo 54-B.
+
+La junta de aclaraciones, se llevará a cabo conforme a lo siguiente:
+
+I. En la fecha y hora establecida para la primera junta de aclaraciones en las licitaciones públicas presenciales, el servidor público que la presida procederá a dar contestación a las solicitudes de aclaración, mencionando el nombre del o los licitantes que las presentaron. La convocante podrá optar por dar contestación a dichas solicitudes de manera individual o de manera conjunta tratándose de aquéllas que hubiera agrupado por corresponder a un mismo punto o apartado de las bases de la licitación pública.
+
+El servidor público que presida la junta de aclaraciones podrá suspender la sesión, en razón del número de solicitudes de aclaración recibidas o del tiempo que se emplearía en darles contestación, informando a los licitantes la hora y, en su caso, fecha o lugar, en que se continuará con la junta de aclaraciones.
+
+En las licitaciones presenciales, una vez que la convocante termine de dar respuesta a las solicitudes de aclaración, se dará inmediatamente oportunidad a los licitantes presentes para que, en el mismo orden de los puntos o apartados de la convocatoria a la licitación pública en que se dio respuesta, formulen las preguntas que estimen pertinentes en relación con las respuestas recibidas. El servidor público que presida la junta de aclaraciones, atendiendo al número de preguntas, informará a los licitantes si éstas serán contestadas en ese momento o si se suspende la sesión para reanudarla en hora o fecha posterior.
+
+II. En las licitaciones públicas electrónicas, la convocante procederá a enviar, a través del medio de difusión electrónica que establezca el Órgano de Control, las contestaciones a las solicitudes de aclaraciones recibidas, a partir de la hora y fecha señaladas en las bases, para la celebración de la junta de aclaraciones. Cuando en razón del número de solicitudes de aclaración recibidas o algún otro factor no imputable a la convocante y que sea acreditable, el servidor público que presida la junta de aclaraciones, informará a los licitantes si éstas serán enviadas en ese momento o si se suspenderá la sesión para reanudarla en hora o fecha posterior a efecto de que las respuestas sean remitidas.
+
+Con el envío de las respuestas a que se refiere el párrafo anterior la convocante informará a los licitantes, atendiendo al número de solicitudes de aclaración contestadas, el plazo que éstos tendrán para formular las preguntas que consideren necesarias en relación con las respuestas remitidas. Dicho plazo no podrá ser inferior a seis ni superior a cuarenta y ocho horas. Una vez recibidas las preguntas, la convocante informará a los licitantes el plazo máximo en el que enviará las contestaciones correspondientes.
+
+III. En las licitaciones públicas mixtas, la convocante en la junta de aclaraciones presencial dará contestación a las solicitudes de aclaración a los licitantes presentes. Las respuestas serán enviadas a los licitantes que participan por medios de difusión electrónicos; la convocante tomará las previsiones necesarias para que los licitantes que participen de manera presencial o electrónica reciban, en la medida de lo posible, las respuestas de manera simultánea.
+
+Para la recepción y contestación de las solicitudes de aclaración, así como de las preguntas a las respuestas dadas por la convocante, aplicarán las disposiciones previstas en este artículo para las juntas de aclaraciones presenciales o electrónicas, según corresponda.
+
+IV. La convocante estará obligada a dar contestación, en forma clara y precisa, tanto a las solicitudes de aclaración como a las preguntas que los licitantes formulen respecto de las respuestas dadas por la convocante en la junta de aclaraciones.
+
+V. Será responsabilidad del titular del área requirente y del titular del área técnica, o bien sólo el de esta última cuando también tenga el carácter de área requirente, que asista un representante de las mismas, con los conocimientos técnicos suficientes que permitan dar respuesta clara y precisa a los planteamientos de los licitantes, a las juntas de aclaraciones a los que fueron convocados.
+
+El servidor público que presida la junta de aclaraciones en ningún caso permitirá que como respuesta a las solicitudes de aclaración se remita al licitante de manera general a lo previsto en las bases de la licitación pública. En caso de que la respuesta a la solicitud de aclaración remita a las bases de la licitación pública, deberá señalar el apartado específico de la misma en que se encuentre la respuesta al planteamiento.
+
+VI. Las solicitudes de aclaración que sean recibidas con posterioridad al plazo previsto en el artículo 54-A de la Ley, no serán contestadas por la convocante por resultar extemporáneas, debiéndose integrar al expediente respectivo; en caso de que algún licitante presente nuevas solicitudes de aclaración en la junta correspondiente las deberá entregar por escrito y la convocante las recibirá, pero no les dará respuesta. En ambos supuestos, si el servidor público que presida la junta de aclaraciones considera necesario citar a una ulterior junta, la convocante deberá tomar en cuenta dichas solicitudes para responderlas, y
+
+VII. Si derivado de la o las juntas de aclaraciones se determina posponer la fecha de celebración del acto de presentación y apertura de proposiciones, la modificación respectiva a la convocatoria a la licitación pública deberá publicarse a través del medio de difusión electrónica que establezca el Órgano de Control; en este caso, el diferimiento deberá considerar la existencia de un plazo de al menos siete días naturales desde el momento en que concluya la junta de aclaraciones hasta el momento del acto de presentación y apertura de proposiciones.
 
 ###### Artículo 55.
 
@@ -953,11 +1209,11 @@ II. En el caso de las bases de la licitación, se publique un aviso en el Diario
 
 No será necesario hacer la publicación del aviso a que se refiere esta fracción, cuando las modificaciones deriven de las juntas de aclaraciones, para lo cual será responsabilidad de los licitantes que no asistan, obtener una copia de la misma en el domicilio de la convocante, siempre que hayan adquirido las bases de la correspondiente licitación.
 
-(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-Si derivado de las juntas de aclaraciones se determina posponer la fecha de celebración del acto de presentación y apertura de proposiciones, la modificación respectiva a la convocatoria de la licitación pública deberá publicarse en CompraNet; en este caso, el diferimiento deberá considerar la existencia de un plazo de al menos siete días naturales previos a la fecha del acto de presentación y apertura de proposiciones, contados desde el momento en que se concluya la última junta de aclaraciones, y
+Si derivado de las juntas de aclaraciones se determina posponer la fecha de celebración del acto de presentación y apertura de proposiciones, la modificación respectiva a la convocatoria de la licitación pública deberá publicarse en el medio de difusión electrónica que establezca el Órgano de Control; en este caso, el diferimiento deberá considerar la existencia de un plazo de al menos siete días naturales previos a la fecha del acto de presentación y apertura de proposiciones, contados desde el momento en que se concluya la última junta de aclaraciones, y
 
-III. En el caso de las bases de licitación, o las modificaciones de éstas, se (sic) de la misma difusión que se haya dado a la documentación original, o bien, cuando las modificaciones deriven de las juntas de aclaraciones, se ponga a disposición o se entregue copia del acta respectiva a cada uno de los licitantes que hayan adquirido las bases de la correspondiente licitación.
+III. En el caso de las bases de licitación, o las modificaciones de éstas, se de la misma difusión que se haya dado a la documentación original, o bien, cuando las modificaciones deriven de las juntas de aclaraciones, se ponga a disposición o se entregue copia del acta respectiva a cada uno de los licitantes que hayan adquirido las bases de la correspondiente licitación.
 
 Las modificaciones de que trata este artículo en ningún caso podrán consistir en la sustitución de los bienes o servicios convocados originalmente, adición de otros de distintos rubros o en variación significativa de sus características.
 
@@ -965,43 +1221,125 @@ Cualquier modificación a las bases de la licitación, derivada del resultado de
 
 En las juntas de aclaraciones, las Dependencias o Entidades resolverán las dudas o cuestionamientos que sobre las bases de licitación les formulen los interesados, debiendo constar solo aquellas que no tengan respuesta en el contenido de las propias bases y sus anexos, en el acta respectiva que para tal efecto se levante.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 56.
 
-La entrega de proposiciones se hará por escrito en sobre cerrado, que contendrá las propuestas técnica y económica y acompañada, cuando así se disponga en las bases de la licitación, de un dispositivo magnético que contenga fielmente la información de lo solicitado en las bases de licitación.
+La entrega de los documentos que conforman las propuestas técnica y económica, se hará en la forma y medios que se prevean en las bases de la licitación.
 
 Al acto de apertura de proposiciones podrá invitarse a funcionarios o representantes de los sectores, público privado y social que se considere conveniente para atestiguar el acto.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 57.
 
-El acto de presentación y apertura de proposiciones se llevará a cabo conforme a lo siguiente:
+El acto de presentación y apertura de proposiciones presenciales y mixtas se llevará a cabo el día, en el lugar y a la hora señalada en la convocatoria y en las bases de la licitación, conforme a lo siguiente:
 
-Una vez iniciado el acto presentación y apertura de proposiciones, los participantes que se hayan presentado en tiempo, entregarán a la convocante al ser llamados en el mismo orden en que registraron su asistencia a este evento; un solo sobre, debidamente cerrado en forma inviolable de tal forma que no permita fácilmente la introducción o retiro de documentos hasta ser abierto en acto público y deberá contener cuando menos el nombre del licitante y el número de la licitación en cada una de las hojas que integran la propuesta. Cuando la cantidad de información requiera la presentación en paquetes o cajas, también deberán estar cerrados de forma inviolable e identificados según corresponda.
+I. El acto será presidido por el titular del Área contratante de la convocante o por el servidor público que éste designe, quien será el único facultado para tomar todas las decisiones durante la realización del acto, en los términos de esta Ley;
 
-Recibidas las proposiciones, el funcionario público facultado para presidir el acto, procederá a la apertura del sobre que contiene las propuestas técnicas y económicas, efectuará una revisión cuantitativa y mencionará en voz alta si se presenta cada uno de los documentos y requisitos solicitados en las bases y dará lectura al importe total de las propuestas aceptadas que cubran los requisitos exigidos.
+II. A partir de la hora señalada para el inicio del acto de presentación y apertura de proposiciones, el servidor público que lo presida no deberá permitir el acceso a ningún licitante ni observador, o servidor público ajeno al proceso. Iniciado el acto, se procederá a registrar a los asistentes, salvo aquéllos que ya se hubieren registrado, en cuyo caso se pasará lista a los mismos;
 
-Por lo menos un licitante, si asistiere alguno, y el servidor público de la Convocante facultado para presidir el acto o el servidor público que éste designe, rubricarán las partes de las propuestas que previamente haya determinado la convocante en las bases de licitación, las que para estos efectos constarán documentalmente.
+III. En las licitaciones públicas mixtas, el servidor público que presida el acto de presentación y apertura de proposiciones, tomará las previsiones necesarias para recibir simultáneamente las proposiciones de los licitantes que participen de manera presencial o de aquellos licitantes que las enviaron a través del medio de difusión electrónica establecido por el Órgano de Control, y determinará si la apertura de los sobres iniciará con los que fueron recibidos de manera presencial o las recibidas en forma electrónica. El acto no podrá concluir hasta en tanto se hayan abierto todos los sobres recibidos, y
 
-Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que se harán constar las propuestas aceptadas para su posterior evaluación y el importe de cada una de ellas, así como las que hubieren sido desechadas y las causas que lo motivaron; el acta será firmada por los asistentes y se pondrá a su disposición o se les entregará copia de la misma; la falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de su notificación.
+IV. En el acto (sic) presentación y apertura de proposiciones, los licitantes que participen de manera presencial al ser llamados en el mismo orden en que registraron su asistencia a este evento, deberán entregar al servidor público que presida el acto, su sobre debidamente cerrado en forma inviolable, de tal forma que no permita fácilmente la introducción o retiro de documentos hasta ser abierto en este acto público, conteniendo sus proposiciones técnicas y económicas, acompañadas de un dispositivo magnético y la documentación complementaria que se haya solicitado en las bases de la licitación.
 
-En caso de que el fallo de la licitación no se realice en la fecha señalada en la convocatoria ni en las bases, la convocante señalará fecha, lugar y hora en que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los veinte días naturales siguientes a la fecha de presentación de proposiciones y podrá diferirse, siempre que el nuevo plazo fijado no exceda de veinte días naturales contados a partir del plazo establecido originalmente para el fallo.
+Dicho sobre deberá contener en su parte frontal cuando menos el nombre del licitante, el número de la licitación, el objeto de la licitación y la mención de que contiene la propuesta técnica y propuesta económica.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+En caso de que el licitante presente sus proposiciones en dos sobres, no será motivo para su descalificación.
 
-Los documentos de las propuestas técnicas y económicas desechadas en el acto de la presentación y apertura de proposiciones, y que no fueron objeto de evaluación técnica o económica, se introducirán nuevamente a su sobre original, mismo que debidamente sellado en forma inviolable, se turnará a firma de los participantes y se conservará por la convocante hasta transcurridos quince días contados a partir de la fecha en que se hubiere vencido el plazo para la formalización del contrato en los términos establecidos en las bases o en esta Ley, salvo que exista alguna inconformidad en trámite, en cuyo caso las propuestas deberán conservarse hasta la total conclusión de la inconformidad e instancias subsecuentes; agotados dichos términos, la convocante podrá proceder a su devolución o destrucción.
+Cuando la cantidad de información requiera la presentación en paquetes o cajas, también deberán estar cerrados de forma inviolable, e identificados según corresponda.
+
+Recibidas las proposiciones, se procederá a la apertura del sobre haciéndose constar la verificación cuantitativa de la documentación presentada, sin que ello implique la evaluación de su contenido; por lo que, en el caso de que algún licitante omita la presentación de algún documento o faltare algún requisito, no serán desechadas en ese momento, haciéndose constar el documento faltante o el requisito no cumplido, en el acta del evento y en el formato de recepción de los documentos que integran la proposición. Con posterioridad a este evento, se realizará la evaluación integral de las proposiciones, el resultado de dicha revisión o análisis, se dará a conocer en el fallo correspondiente.
+
+Los licitantes que participen por medios de difusión electrónicos, procederán a enviar sus proposiciones para su entrega, a través del medio autorizado por el Órgano de Control, atendiendo las disposiciones que se encuentren vigentes para el uso de la plataforma del sistema, una vez recibido, se procederá a la apertura del sobre, haciéndose constar la verificación cuantitativa de la documentación presentada a través de este medio, sin que ello implique la evaluación de su contenido; por lo que, en el caso de que algún licitante omita la presentación de algún documento o faltare algún requisito, no serán desechadas en ese momento, haciéndose constar el documento faltante o el requisito no cumplido, en el acta del evento y en el formato de recepción de los documentos que integran la proposición.
+
+En licitaciones presenciales o mixtas, no será motivo de desechamiento la falta de identificación o de acreditación de la representación de la persona que solamente entregue la proposición, pero ésta sólo podrá participar durante el desarrollo del acto con el carácter de observador.
+
+Por lo menos un licitante, si asistiere alguno, y el servidor público de la convocante facultado para presidir el acto o el servidor público que éste designe, rubricarán las partes de las propuestas que previamente haya determinado la convocante en las bases de licitación, las que para estos efectos constarán documentalmente.
+
+Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que se harán constar las propuestas aceptadas para su posterior evaluación detallada y el importe de cada una de ellas, así como los documentos y requisitos que en su caso, el licitante haya omitido entregar o cumplir en este acto; el acta será firmada por los asistentes y se les entregará copia de la misma; poniéndose a disposición de los que no hayan asistido para efectos de su notificación a partir de esa fecha a través del medio de difusión electrónica que establezca el Órgano de Control; la falta de firma de algún licitante no invalidará su contenido y efectos.
+
+En caso de que el fallo de la licitación no se realice en la fecha señalada en la convocatoria ni en las bases, la convocante señalará la fecha, lugar y hora en que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los veinte días naturales siguientes a la fecha de presentación de proposiciones y podrá diferirse, siempre que el nuevo plazo fijado no exceda de veinte días naturales contados a partir del plazo establecido originalmente para el fallo, notificando a los licitantes la nueva fecha a través del medio de difusión electrónica que establezca el Órgano de Control.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+###### Artículo 57-A.
+
+En las licitaciones en que se prevea el uso de la modalidad de subastas electrónicas inversas, la presentación y apertura de proposiciones se llevará a cabo conforme a lo siguiente:
+
+I. Los licitantes enviarán sus proposiciones técnicas y económicas a través del medio de difusión electrónica que establezca el Órgano de Control, en los términos que se establecen en la presente Ley y en las bases de la licitación;
+
+II. El servidor público que presida el acto de presentación y apertura de proposiciones, procederá a bajar del medio de difusión electrónica autorizado por el Órgano de Control, las proposiciones recibidas; determinará el tiempo que se otorgará para su evaluación y será responsable de que la evaluación legal y técnica se realice en ese tiempo;
+
+III. Una vez recibidas las proposiciones, se procederá a la apertura de cada una, haciéndose constar la documentación presentada, sin que ello implique la evaluación de su contenido; por lo que, en el caso de que algún licitante omita la presentación de algún documento o faltare algún requisito, no serán desechadas en ese momento, haciéndose constar ello en el acta correspondiente;
+
+IV. En el acta del acto de presentación y apertura de proposiciones se registrará, por cada partida o grupo de partidas, el importe de cada una de las proposiciones, así como el nombre o razón social de los licitantes que las presentaron, clasificándolas en orden ascendente, iniciando con la que haya ofertado el precio menor, el cual será el máximo al que podrá ser adjudicado el contrato respectivo;
+
+V. El servidor público que presida el acto de presentación y apertura de proposiciones, al concluir éste, difundirá a través del medio de difusión electrónica que establezca el Órgano de Control, el acta correspondiente, en la cual señalará la fecha, hora y lugar en el que los licitantes que cumplan con los requisitos legales y técnicos establecidos en la convocatoria a la licitación, podrán presentar sus ofertas electrónicas inversas;
+
+VI. Inmediatamente después de concluir el acto de presentación y apertura de proposiciones, se realizará la evaluación integral de las proposiciones para lo cual se dispondrá de un plazo máximo de veinticuatro horas;
+
+VII. Por lo menos un minuto antes de la hora señalada para el inicio de presentación de las ofertas electrónicas inversas, el servidor público que presida el acto enviará un aviso a los licitantes calificados para participar, comunicándoles el precio más bajo ofertado en el acto de presentación y apertura de proposiciones dando a conocer igualmente la o las partidas en las cuales cada licitante podrá presentar sus pujas, además rubricará las proposiciones técnico económicas;
+
+VIII. Si el procedimiento de contratación se compone de varias partidas o grupos de partidas, el servidor público que presida el acto determinará si las pujas se harán individualmente por cada una de las partidas o grupos o de manera simultánea, así como el orden en que se presentarán las ofertas;
+
+IX. Una vez concluida la presentación de las pujas de todas las partidas o grupos de éstas que integran la oferta electrónica inversa, el servidor público que presida el acto, emitirá el fallo motivado y fundado, en el que hará constar una reseña cronológica de los actos del procedimiento, el análisis de las proposiciones y las razones para admitirlas o desecharlas.
+
+Los licitantes sólo podrán presentar una proposición en cada procedimiento de contratación y una vez recibida en la fecha, hora y lugar establecidos, ésta no podrá retirarse o dejarse sin efecto, por lo que se considerará vigente hasta la conclusión del proceso.
+
+El horario a que se sujetarán el acto de presentación y apertura de proposiciones y el desarrollo de la oferta electrónica inversa será el que corresponda a la hora que aparezca en el medio de difusión electrónica que establezca el Órgano de Control, el cual se encontrará a la vista de los usuarios del mismo.
+
+La convocante determinará en las bases de la licitación, los aspectos que permitan el adecuado desarrollo de la oferta electrónica inversa, tomando en cuenta las previsiones establecidas por el Órgano de Control, para el uso del medio de difusión electrónica para el desahogo del proceso en esta modalidad, tales como, la precisión de que se podrá utilizar la oferta electrónica inversa ascendente o descendente; los formatos que se requisitarán; la manera en que los licitantes acreditarán que están capacitados para participar en la oferta electrónica inversa o cómo podrán obtener la capacitación respectiva y obtener las claves de acceso y certificado digital; definir el múltiplo mínimo y máximo que será permitido entre una y otra puja; si el precio a ofertar estará referido al unitario del bien o servicio o al total de la partida, y si para el caso de existir grupo de partidas, las pujas se presentarán sólo sobre el total del agrupamiento o sobre cada una de las que integran el grupo, previéndose que en este supuesto la reducción del precio a una de estas subpartidas deberá reflejarse en el total ofertado para el grupo.
+
+El servidor público que presida el acto podrá interrumpir la presentación de ofertas de una partida o grupo de éstas, cuando se presenten problemas técnicos o por cualquier causa debidamente justificada que afecte el adecuado desarrollo de la modalidad.
+
+Cuando el servidor público que presida el acto determine la interrupción de la oferta electrónica inversa, el procedimiento podrá continuar si las causas de la interrupción fueren superadas dentro de las dos horas posteriores a la misma; en caso contrario, la licitación podrá ser cancelada en forma total o parcial por el propio servidor público en términos de lo dispuesto por el último párrafo del artículo 61 de la ley y se podrá emitir una nueva convocatoria por la o las partidas pendientes de someterse a oferta electrónica inversa.
+
+El procedimiento de contratación que hubiera sido cancelado en los términos del párrafo anterior, no será contabilizado para efectos de la excepción para no llevar a cabo la licitación pública prevista en el artículo 64 fracción X de la presente Ley.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 58.
 
-Las Dependencias y Entidades para hacer la evaluación de las proposiciones, deberán verificar que las mismas cumplan con los requisitos solicitados en las bases de licitación considerando los criterios de evaluación y adjudicación de las propuestas establecidos (sic) en las bases de licitación.
+Las Dependencias y Entidades para hacer la evaluación de las proposiciones, deberán verificar que las mismas cumplan con los requisitos solicitados en las bases de licitación considerando los criterios de evaluación y adjudicación de las propuestas, establecidos en las propias bases de licitación.
 
-No serán objeto de evaluación, las condiciones establecidas por las convocantes que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus propuestas.
+Las condiciones que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación, así como cualquier otro requisito cuyo incumplimiento, por sí mismo, o deficiencia en su contenido no afecte la solvencia de las proposiciones, no serán objeto de evaluación, y se tendrán por no establecidas. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus proposiciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+Entre los requisitos cuyo incumplimiento no afecta la solvencia de la proposición, se considerarán:
+
+a) El proponer un plazo de entrega menor al solicitado, en cuyo caso, de resultar adjudicado y de convenir a la convocante pudiera aceptarse;
+
+b) El omitir aspectos que puedan ser cubiertos con información contenida en la propia propuesta técnica o económica;
+
+c) El no observar los formatos establecidos, si se proporciona de manera clara la información requerida;
+
+d) El no observar requisitos que carezcan de fundamento legal, y
+
+e) Cualquier otro que no tenga por objeto determinar objetivamente la solvencia de la proposición presentada.
+
+En ningún caso la convocante o los licitantes podrán suplir o corregir las deficiencias de las proposiciones presentadas.
+
+> <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 59.
 
-Una vez hecha la evaluación de las proposiciones, y atendiendo, en su caso, la opinión y dictamen del Comité, el contrato se adjudicará a aquel cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas, y que en su caso haya acreditado ser proveedor Salarialmente Responsable.
+Una vez hecha la evaluación de las proposiciones y atendiendo, en su caso, la opinión y dictamen del Comité, el contrato se adjudicará al licitante cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante, garantice satisfactoriamente el cumplimiento de las obligaciones respectivas, y en su caso a:
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+I. Quien haya acreditado ser Proveedor Salarialmente Responsable;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+II. La proposición que haya obtenido el mejor resultado de acuerdo al criterio de evaluación indicado en las bases de la licitación correspondiente;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+III. Quien haya ofertado un precio que se encuentre dentro del presupuesto autorizado para la contratación, de lo contrario podrá ser desechada, salvo lo previsto en el artículo 61 de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+IV. Quien oferte el precio más bajo en el caso de que se hubiere aplicado el criterio de evaluación binario o bien el que resulte del uso de la modalidad de subasta electrónica inversa, siempre y cuando la proposición resulte solvente técnica y económicamente.
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -1015,11 +1353,53 @@ Si las propuestas a que se refiere el párrafo anterior, existieran dos o más p
 
 La convocante emitirá un dictamen en el que hará constar el análisis de las proposiciones admitidas y se hará mención de las proposiciones desechadas con motivo de la evaluación técnica o económica.
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+###### Artículo 59-A.
+
+La convocante emitirá un dictamen de fallo, que contendrá como mínimo:
+
+I. Introducción, nombre de la dependencia o entidad que emite el fallo, fundamento legal para la emisión del fallo, número de la licitación o invitación, objeto de la licitación;
+
+II. En orden cronológico, señalar el fundamento legal de la publicación de la convocatoria, indicando la fecha de publicación en el medio de difusión electrónica establecido por el Órgano de Control y en su caso el periódico de circulación local o el número y la fecha de la invitación a por lo menos tres personas y el nombre de cada uno de los licitantes invitados;
+
+III. De las bases: su fundamento legal y el período de tiempo que se ponen a disposición de los licitantes.; (sic)
+
+IV. De la junta de aclaraciones: su fundamento legal, la fecha, hora y lugar en que se lleva a cabo, y una síntesis de los asuntos y acuerdos;
+
+V. Del acto de presentación y apertura de proposiciones: su fundamento legal, la fecha, hora y lugar en que se lleva a cabo, señalando el nombre, número de partidas, conceptos o paquetes y el importe total de la propuesta económica de cada uno de los licitantes;
+
+VI. De la evaluación técnica y económica: señalar el fundamento legal y el período de tiempo en que se lleva a cabo la evaluación de las proposiciones, anotando:
+
+a) El nombre de cada uno de los licitantes, el número de partidas, conceptos, paquetes o lotes que se desecharon, expresando todas las razones legales, técnicas o económicas que sustentan tal determinación e indicando los puntos de las bases de la licitación que en cada caso se incumpla.
+
+b) El nombre de cada uno de los licitantes, el número de partidas, conceptos, paquetes o lotes que resultaron solventes, incluido su monto. Se presumirá la solvencia de las proposiciones cuando no se señale expresamente incumplimiento alguno.
+
+c) En caso de que se determine que el precio de una proposición no es aceptable o no es conveniente, se deberá anexar copia de la investigación de precios realizada o del cálculo correspondiente.
+
+VII. Del fallo: señalar el fundamento legal, fecha, hora y lugar en que se hacen del conocimiento de los licitantes, los resultados del fallo, y el fundamento legal, fecha, hora y lugar para la firma del contrato, plazos de entrega de los bienes o inicio de los servicios y fundamento legal y plazo de entrega de las fianzas de garantía de cumplimiento del contrato, y
+
+VIII. Nombre, cargo y firma del servidor público que lo emite, señalando sus facultades de acuerdo con los ordenamientos jurídicos que rijan a la convocante, indicando también el nombre y cargo de los responsables de la evaluación de las proposiciones.
+
+En caso de que se declaren desiertas, partidas, conceptos, lotes o paquetes de una licitación, o una licitación completa, porque se determine que sus precios no fueren aceptables conforme al resultado de la investigación de mercado que en su caso se realice por la convocante, dichos resultados se deberán incluir en el presente dictamen.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 60.
 
-En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en el acto de presentación y apertura de proposiciones, levantándose el acta respectiva que firmarán los asistentes, a quienes se entregará copia de la misma. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de su notificación. En sustitución de esa junta, las Dependencias y Entidades podrán optar por notificar el fallo de la licitación por escrito a cada uno de los licitantes, siempre y que así lo hayan establecido en la convocatoria y en las bases de la licitación, dentro de los cinco días naturales siguientes a su emisión.
+Cuando la licitación sea presencial o mixta, en junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en el acto de presentación y apertura de proposiciones, levantándose el acta respectiva que firmarán los asistentes, a quienes se entregará copia de la misma y se subirá al medio de difusión electrónica que establezca el Órgano de Control el mismo día en que se celebre la junta. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de su notificación.
+
+A los licitantes que no asistieran a la junta pública, se les enviará por correo electrónico un aviso informándoles que el acta del fallo se encuentra a su disposición en el medio de difusión electrónica que establezca el Órgano de Control.
+
+Con la notificación del fallo por el que se adjudica el contrato, las obligaciones derivadas de éste, serán exigibles y obligará a la dependencia o entidad y a la persona a quien se haya adjudicado, a firmar el contrato en la fecha, hora y lugar previstos en el propio fallo, o bien en la convocatoria y en las bases de la licitación pública y en defecto de tales previsiones, dentro de los diez días naturales siguientes al de la citada notificación. Asimismo, con la notificación del fallo la dependencia o entidad procederá a solicitar los bienes o servicios mediante requisiciones, fincamiento de pedidos u órdenes de servicio, según corresponda.
+
+En sustitución de esa junta, las Dependencias y Entidades podrán optar por notificar el fallo de la licitación por escrito a cada uno de los licitantes, dentro de los cinco días naturales siguientes a su emisión siempre y que así lo hayan establecido en la convocatoria y en las bases de la licitación.
 
 Contra la resolución que contenga el fallo no procederá recurso alguno; sin embargo, procederá la inconformidad que se interponga por los licitantes en los términos del artículo 96 de esta Ley.
+
+Cuando se advierta en el fallo la existencia de un error aritmético, mecanográfico o de cualquier otra naturaleza, que no afecte el resultado de la evaluación realizada por la convocante, dentro de los cinco días hábiles siguientes a su notificación y siempre que no se haya firmado el contrato, el titular del área responsable del procedimiento de contratación procederá a su corrección, con la intervención de su superior jerárquico, aclarando o rectificando el mismo, mediante el acta administrativa correspondiente, en la que se harán constar los motivos que lo originaron y las razones que sustentan su enmienda, hecho que se notificará a los licitantes que hubieran participado en el procedimiento de contratación, remitiendo copia de la misma al Órgano de Control dentro de los cinco días hábiles posteriores a la fecha de su firma.
+
+Si el error cometido en el fallo no fuera susceptible de corrección conforme a lo dispuesto en el párrafo anterior, el servidor público responsable dará vista de inmediato al Órgano de Control, a efecto de que, previa intervención de oficio, se emitan las directrices para su reposición.
 
 ###### Artículo 61.
 
@@ -1033,9 +1413,25 @@ c) Si vencido el plazo de venta de las bases de la licitación, ningún interesa
 
 Tratándose de licitaciones en las que una o varias partidas se declaren desiertas, la convocante podrá proceder, sólo respecto a esas partidas, a celebrar una nueva licitación, o bien un procedimiento de invitación a cuando menos tres personas o de adjudicación directa, según corresponda.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-Las dependencias y entidades podrán cancelar una licitación, partidas o conceptos incluidos en éstas, por caso fortuito o fuerza mayor. De igual manera, podrán cancelar cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad para adquirir o arrendar los bienes o contratar la prestación de los servicios, y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio a la propia dependencia o entidad. Así mismo, podrán cancelar la licitación cuando el monto de las ofertas resulte superior al presupuesto autorizado. La determinación de dar por cancelada la licitación, partidas o conceptos, deberá precisar el acontecimiento que motiva la decisión, la cual se hará del conocimiento de los licitantes.
+Las dependencias y entidades podrán cancelar una licitación, partidas o conceptos incluidos en éstas, por caso fortuito o fuerza mayor. De igual manera, podrán cancelar cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad para adquirir o arrendar los bienes o contratar la prestación de los servicios, y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio a la propia dependencia o entidad. Así mismo, podrán cancelar una licitación, partidas o conceptos incluidos en éstas cuando el proceso de contratación se haya llevado a cabo mediante el uso de la modalidad de oferta electrónica inversa y durante el acto de presentación y apertura de proposiciones se presenten fallas técnicas que impidan la continuidad del mismo.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Cuando el monto de las ofertas económicas resulte superior al presupuesto autorizado y de no adquirirse los bienes, se afecte el buen funcionamiento de la administración pública estatal, o se ponga en peligro el inicio oportuno de las operaciones de algún programa de gobierno, las dependencias y entidades podrán tramitar la autorización de los recursos adicionales y la modificación del expediente técnico, en su caso, dentro del plazo permitido por esta Ley para la emisión del dictamen de fallo, o previo acuerdo con el licitante, hacer los ajustes de las cantidades que resulten convenientes de cada partida o partidas y solo adquirir la cantidad de unidades que puedan ser cubiertas con el presupuesto original asignado para la licitación, o desechar las propuestas e iniciar un nuevo proceso.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Lo anterior, deberá justificarse por escrito y anexar al expediente de la licitación correspondiente, sin perjuicio de las sanciones que resulten por las deficiencias en la elaboración del presupuesto original, para la adquisición, arrendamiento de bienes, o la contratación de servicios.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+En el caso de ajuste de cantidades, se deberá dejar constancia escrita en el dictamen de fallo, en la que se explique plenamente la razón que justifique la decisión tomada.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+La determinación de dar por cancelada la licitación, partidas o conceptos, deberá precisar el acontecimiento que motiva la decisión, la cual se hará del conocimiento de los licitantes.
 
 ###### Artículo 62.
 
@@ -1045,27 +1441,29 @@ En este caso, los precios de los bienes o servicios contenidos en una misma part
 
 ### CAPÍTULO TERCERO. DE LAS EXCEPCIONES A LA LICITACION PÚBLICA
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 63.
 
-La Unidad, la Secretaría y las Dependencias y Entidades, en los supuestos a que se refiere el presente capítulo, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos (sic) adquisiciones, arrendamientos y de servicios a través de los procedimientos de invitación a cuando menos tres personas o adjudicación directa.
+La Unidad, la Secretaría y las Dependencias y Entidades, en los supuestos a que se refiere el presente capítulo, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisiciones, arrendamientos y servicios a través de los procedimientos de invitación a cuando menos tres personas o adjudicación directa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+La selección del procedimiento que realicen las dependencias y entidades, se hará constar en un dictamen de excepción para no llevar a cabo la licitación pública, el cual deberá ser firmado por el titular del área usuaria y el funcionario responsable de la unidad adquirente de los bienes o servicios, el dictamen deberá contener la justificación de las razones para el ejercicio de la opción y estar fundado en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia, que aseguren las mejores condiciones de oferta, oportunidad, precio, calidad, financiamiento y promoción de Proveedores Salarialmente Responsables para el Estado según las circunstancias que concurran en cada caso; además dicho dictamen contendrá:
 
-La selección del procedimiento que realicen las dependencias y entidades, se hará constar en un dictamen, el cual deberá ser firmado por el titular del área usuaria y el funcionario responsable de la unidad adquirente de los bienes o servicios, el dictamen deberá contener la justificación de las razones para el ejercicio de la opción y estar fundado en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren al Estado las mejores condiciones de oferta, oportunidad, precio, calidad, financiamiento y promoción de Proveedores Salarialmente Responsables, según las circunstancias que concurran en cada caso; además dicho dictamen contendrá:
+I. Introducción.- Identificación de la dependencia o entidad, sus funciones, objetivos y metas, de conformidad con la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, reglamento interno y demás aplicables;
 
-I. El valor del contrato;
+II. Antecedentes.- El objeto de la contratación, destino final de los bienes o servicios, importe estimado de la contratación, referencias de la disponibilidad presupuestal, plazo de entrega de los bienes o el inicio de servicios;
 
-II. Una descripción general de los bienes o servicios correspondientes;
+III. Investigación de mercado y cotizaciones.- Comprobación de la existencia de proveedores o fabricantes de bienes o prestadores de servicios, descripción de los bienes o servicios y sus precios;
 
-III. La nacionalidad del proveedor; y
+IV. Justificación.- Acreditamiento de los criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia, que fundamentan y motivan la selección del procedimiento de contratación en los términos del artículo 63 de esta ley;
 
-IV. El origen de los bienes.
+V. Fundamento legal.- La sustentación del procedimiento de excepción, con fundamento en los supuestos del artículo 64 de la ley que resulten aplicables, y
+
+VI. Fallo.- La decisión derivada de la evaluación técnica, económica, legal, condiciones de precio, calidad, oportunidad, financiamiento, disponibilidad y tiempo de entrega de bienes o inicio de los servicios, nombre del proveedor asignado, nacionalidad, origen de los bienes y monto del contrato.
 
 En cualquier supuesto se invitará a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, y cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
-
-En estos casos, el titular del área responsable de la contratación, a más tardar el último día hábil de cada mes, enviará a la Secretaría, al Órgano de Control y, en su caso, al órgano interno de control en la dependencia o entidad de que se trate, un informe relativo a los contratos formalizados durante el mes calendario inmediato anterior, acompañando el dictamen previsto en este artículo, en el que se hará constar el análisis de la o las propuestas y las razones para la adjudicación del contrato. No será necesario rendir este informe en las operaciones que se realicen al amparo del artículo 64, fracción XVII, de este ordenamiento.
+En estos casos, el titular del área responsable de la contratación, a más tardar el último día hábil de cada mes, enviará a la Secretaría, al Órgano de Control y, en su caso, al Órgano Interno de Control en la dependencia o entidad de que se trate, un informe relativo a los contratos formalizados durante el mes calendario inmediato anterior, acompañando el dictamen previsto en este artículo, en el que se hará constar el análisis de la o las propuestas y las razones para la adjudicación del contrato. No será necesario rendir este informe en las operaciones que se realicen al amparo del artículo 64, fracción XVII, de este ordenamiento.
 
 ###### Artículo 64.
 
@@ -1078,6 +1476,10 @@ II. Peligre o se altere el orden social, la economía, los servicios públicos, 
 III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, debidamente justificados;
 
 IV. Se realicen con fines exclusivamente de prevención o readaptación social o para garantizar la seguridad del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+No quedan comprendidos en los supuestos a que se refiere esta fracción, los requerimientos de bienes de consumo para usos administrativos que tengan los sujetos de esta ley.
 
 V. Derivado de caso fortuito o fuerza mayor, no sea posible obtener bienes o servicios mediante el procedimiento de licitación pública en el tiempo requerido para atender la eventualidad de que se trate, en este supuesto, las cantidades o conceptos deberán limitarse a lo estrictamente necesario para afrontarla;
 
@@ -1103,9 +1505,9 @@ XII. Cuando se requiera de adquisiciones o arrendamiento de bienes o materiales 
 
 XIII. Cuando sea necesaria la adquisición de cualquier tipo de bienes o servicios, en que sea preciso guardar la confidencialidad de los mismos, o que cuya difusión pueda implicar algún riesgo para el Estado en cualquier aspecto. O bien, cuya finalidad sea la obtención de información necesaria para determinar acciones o decisiones de gobierno.
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-XIV. Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados, semovientes y bienes usados. Tratándose de estos últimos, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practicarán las instituciones de crédito, peritos valuadores autorizados o demás habilitados para ello conforme a las disposiciones aplicables. El avalúo no deberá tener una vigencia mayor de seis meses a la firma del contrato.
+XIV. Se trate de adquisiciones de bienes perecederos, granos, y productos alimenticios básicos semiprocesados, o semovientes.
 
 XV. Se trate de servicios de consultorías, asesorías, estudios, investigaciones o capacitación, debiendo aplicar el procedimiento de invitación a cuando menos tres personas, entre las que se incluirán instituciones de educación superior y centros de investigación. Si la materia de los servicios se refiriese a información reservada en los términos de la Ley de Acceso a la Información, o su difusión pudiera afectar el interés público o comprometer información de naturaleza confidencial para el Gobierno del Estado, podrá autorizarse la contratación mediante adjudicación directa;
 
@@ -1125,23 +1527,39 @@ XXII. Se trate de equipos especializados, sustancias y materiales de origen quí
 
 XXIII. Se acepte la adquisición de bienes o la prestación de servicios a título de dación en pago, en los términos de la Ley de la materia.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XXIV. Cuando se trate de bienes usados, siempre que el precio de adquisición no sea mayor al que se determine mediante avalúo que practicarán las instituciones de crédito, peritos valuadores autorizados o demás habilitados para ello conforme a las disposiciones aplicables. El avalúo no deberá tener una vigencia mayor de seis meses a la firma del contrato.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 65.
 
-Sin perjuicio de lo dispuesto en el artículo anterior, las dependencias y entidades, bajo su responsabilidad, podrán contratar adquisiciones, arrendamientos y servicios, sin sujetarse al procedimiento de licitación pública, a través de los procedimientos de invitación a cuando menos tres personas, cuando el importe de la operación sea de más de 4,460 y hasta un máximo de 17,850 días de salario mínimo general vigente en la capital del estado, o bien mediante el de adjudicación directa, mediante tres cotizaciones cuando el importe de la operación sea de hasta 4,460 días de salario mínimo general vigente en la capital del estado; en caso de que el monto de la adquisición sea menor de 305 días de salario mínimo general vigente en la capital del estado, podrá llevarse a cabo con una sola cotización, siempre que se garantice el adecuado abasto de los bienes requeridos.
+Sin perjuicio de lo dispuesto en el artículo anterior, las dependencias y entidades, bajo su responsabilidad, podrán contratar adquisiciones, arrendamientos y servicios, de acuerdo a los montos de cada operación, a través del procedimiento de invitación a cuando menos tres personas, sin sujetarse al procedimiento de licitación pública, siempre que éstas no se fraccionen, para evitar llevar a cabo la licitación pública, cuando el importe de la operación sea de más de 4,460 y hasta un máximo de 17,850 días de salario mínimo general vigente en el capital del estado, sin considerar el Impuesto al Valor Agregado, siempre y cuando para la asignación del contrato, se cuente con un mínimo de tres propuestas susceptibles de analizarse técnicamente.
 
-(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+Las dependencias y entidades, bajo su responsabilidad, podrán contratar adquisiciones, arrendamientos y servicios, mediante el procedimiento de adjudicación directa, siempre que éstas no se fraccionen, para evitar llevar a cabo la licitación pública, cuando se cuente con tres cotizaciones y el importe de la operación sea de hasta 4,460 días de salario mínimo general vigente en la capital del estado; sin considerar el Impuesto al Valor Agregado.
 
-La suma de los montos de los contratos que se realicen al amparo de este artículo no podrá exceder del treinta por ciento del presupuesto autorizado a las dependencias y entidades para realizar la adquisición de bienes, arrendamiento de bienes muebles y contratación de servicios de cada ejercicio presupuestario.
+Cuando el monto de cada operación para la adquisición, arrendamiento de bienes o la prestación de servicios, sea menor de 305 días de salario mínimo general vigente en la capital del estado, sin considerar el Impuesto al Valor Agregado; podrá llevarse a cabo con una sola cotización.
 
-En estos casos, únicamente se invitará a personas cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse.
+En estos casos, únicamente se invitará a personas cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse y que cuenten con los recursos legales, técnicos y económicos suficientes para satisfacer oportunamente las necesidades de la convocante, y con experiencia y conocimientos técnicos comprobados, para la comercialización de los bienes o la prestación de los servicios requeridos.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
-
-En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, el titular del área responsable de la contratación en la Dependencia o Entidad podrá adjudicar directamente el contrato, previa autorización escrita de su superior jerárquico, prefiriendo a aquellas personas físicas o morales que además de no haber tenido incumplimientos durante el ejercicio fiscal en curso en la Administración Pública Estatal, conforme a la información publicada por la áreas mencionadas, se encuentren identificadas en el padrón de Proveedores como Salarialmente Responsables.
+En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, el titular del área responsable de la contratación en la Dependencia o Entidad podrá adjudicar directamente el contrato, previa autorización escrita de su superior jerárquico, prefiriendo a aquellas personas físicas o morales que además de no haber tenido incumplimientos durante el ejercicio fiscal en curso en la Administración Pública Estatal, conforme a la información publicada por las áreas mencionadas, se encuentren identificadas en el Padrón de Proveedores como Salarialmente Responsables.
 
 Para fomentar el desarrollo y la participación de las empresas estatales, micro, pequeñas y medianas, las Dependencias y Entidades procurarán que en las operaciones comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo, se invite a empresas con domicilio fiscal en el Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+###### Artículo 65-A.
+
+Para efectos del primero y segundo párrafo del artículo 65 de la ley, se considerará que existe fraccionamiento de las operaciones, cuando en las contrataciones involucradas se presenten las siguientes circunstancias:
+
+I. Todas estén fundadas en el artículo 65 de la ley y la suma de los importes de cada una, superen el monto máximo permitido en el mismo artículo para cada operación de acuerdo al número de salarios mínimos;
+
+II. Los bienes o servicios objeto de las contrataciones sean exactamente los mismos;
+
+III. Las operaciones se efectúen en un sólo ejercicio fiscal;
+
+IV. El área contratante o el área requirente pudieron prever las contrataciones en un sólo procedimiento, sin que se haya realizado de esta forma.
 
 ###### Artículo 66.
 
@@ -1151,17 +1569,25 @@ El procedimiento de invitación a cuando menos tres personas se sujetará a lo s
 
 I. El acto de presentación y apertura de proposiciones podrá hacerse sin la presencia de los correspondientes licitantes, cuando así se haya establecido en las bases de licitación, pero invariablemente se invitará a un representante del Órgano de Control y del órgano interno de control de la dependencia o entidad, en su caso;
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-II. Para llevar a cabo la adjudicación correspondiente, se deberá contar con al menos tres propuestas económicas solventes, de lo contrario se declarará desierta;
+II. Para llevar a cabo la adjudicación correspondiente, se deberá contar con al menos tres propuestas susceptibles de analizarse técnicamente;
 
-III. En las invitaciones se indicarán, como mínimo, la cantidad y descripción completa de los bienes o servicios requeridos, o indicación de los sistemas empleados para identificación de los mismos, plazo de entrega, el cual se fijará de acuerdo a las necesidades o premura del requerimiento de los mismos y lugar de entrega, así como condiciones de pago;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+III. En caso de que no se presenten el mínimo de proposiciones señalado en el párrafo anterior, se podrá optar por declarar desierta la invitación, o bien, continuar con el procedimiento y evaluar las proposiciones presentadas. En caso de que sólo se haya presentado una propuesta, la convocante podrá adjudicarle el contrato si considera que reúne las condiciones requeridas, o bien proceder a la adjudicación directa conforme al último párrafo de este artículo, previa justificación ante el Comité, de las razones que motivaron dicha decisión, misma que deberá constar por escrito.
+
+A las invitaciones, se anexarán las bases de la licitación elaboradas de acuerdo a lo dispuesto en el artículo 52 del presente ordenamiento legal;
 
 IV. Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo al tipo de bienes o servicios requeridos, así como a la complejidad para elaborar la propuesta. Dicho plazo no podrá ser inferior a cuatro días naturales a partir de que se entregó la última invitación;
 
 V. A las demás disposiciones de esta Ley que resulten aplicables, siendo optativo para la Convocante la realización de la junta de aclaraciones, y
 
 El procedimiento por invitación a cuando menos tres personas se ajustará en lo conducente a lo dispuesto por el Capítulo Segundo, Título Tercero de esta Ley, exceptuando lo referente a la convocatoria. Para estos efectos, la invitación que emita la convocante sustituirá a la convocatoria.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, el titular del área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato siempre que no se modifiquen los requisitos establecidos en dichas invitaciones.
 
 (ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -1179,9 +1605,13 @@ IV. Para la dependencia o entidad será opcional celebrar una junta de aclaracio
 
 V. Las cotizaciones y demás documentación que haya solicitado la dependencia o entidad, podrán recibirse a través del servicio postal o de mensajería, por medios remotos de comunicación electrónica o en el domicilio de la dependencia o entidad solicitante;
 
-VI. La dependencia o entidad deberá elaborar cuadros técnicos y económicos comparativos de las cotizaciones recibidas, donde se precise el resultado de la evaluación realizada;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-VII. La dependencia o entidad podrá asignar con solo una propuesta económica solvente el contrato o pedido respectivo, previa comprobación de que los precios propuestos resultan aceptables de acuerdo a los precios existentes en el mercado;
+VI. La dependencia o entidad deberá elaborar cuadros técnicos y económicos comparativos de las cotizaciones recibidas, donde se precise el resultado de la evaluación realizada; y en base a éstos, elaborar el dictamen de fallo, o a falta de este último, dejar constancia escrita en que se sustente la adjudicación;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+VII. La dependencia o entidad podrá asignar el contrato o pedido respectivo, a la oferta cuyo precio sea el más bajo, con solo una propuesta económica solvente, una vez cumplidos los requisitos técnicos, legales y económicos solicitados, previa comprobación de que los precios propuestos resultan aceptables de acuerdo a los precios existentes en el mercado;
 
 VIII. La dependencia o entidad deberá formular el contrato o pedido respectivo, de conformidad con sus políticas, bases y lineamientos, mismo que debe reunir los requisitos mínimos del artículo 68 de la presente Ley, y
 
@@ -1251,7 +1681,9 @@ En los contratos que se celebren para la adjudicación de bienes o la prestació
 
 Las Dependencias y Entidades que requieran de un mismo bien o servicio de manera reiterada, podrán celebrar contratos abiertos conforme a lo siguiente:
 
-I. Se establecerá la cantidad mínima y máxima de bienes por adquirir o arrendar; o bien, el presupuesto mínimo y máximo que podrá ejercerse en la adquisición, el arrendamiento o la prestación del servicio. La cantidad o presupuesto mínimo que se requiera no podrá ser inferior al cuarenta por ciento de la cantidad o presupuesto máximo que se establezca.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
+
+I. Se establecerá la cantidad mínima y máxima de bienes por adquirir o arrendar; o bien, el presupuesto mínimo y máximo que podrá ejercerse en la adquisición, el arrendamiento o la prestación del servicio. La cantidad o presupuesto mínimo que se requiera no podrá ser inferior al sesenta por ciento de la cantidad o presupuesto máximo que se establezca.
 
 En casos de bienes que se fabriquen en forma exclusiva para las Dependencias y Entidades, la cantidad o presupuesto mínimo que se requiera no podrá ser inferior al ochenta por ciento de la cantidad o presupuesto máximo que se establezca.
 
@@ -1854,3 +2286,21 @@ P.O. 4 DE MARZO DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación, y deberá publicarse en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Comuníquese este Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales procedentes.
+
+P.O. 7 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 782.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; ASÍ COMO TAMBIÉN, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Las disposiciones relativas al uso de la modalidad de subasta electrónica inversa, serán aplicables dentro de los ciento ochenta días después de la entrada en vigor del presente Decreto.
+
+SEGUNDO.- Los proveedores y contratistas inscritos en el padrón de proveedores y padrón de contratistas, deberán actualizar la información y documentación a que se refiere el presente decreto en el término que establezca la autoridad competente.
+
+TERCERO.- La Secretaría de Fiscalización y Rendición de Cuentas, la Secretaría de Infraestructura y Transporte, la Secretaría de Finanzas y demás dependencias competentes, deberán llevar a cabo todas las acciones que resulten necesarias para la implementación de lo establecido en la presente reforma.
+
+CUARTO.- Los procedimientos de contratación que se encuentren en curso a la entrada en vigor del presente decreto, serán tramitados hasta su conclusión de conformidad con las disposiciones vigentes al momento en que fueron iniciados.
+
+QUINTO.- La Secretaría de Fiscalización y Rendición de Cuentas, dentro de los 30 días hábiles siguientes a la publicación de este Decreto, deberá emitir los lineamientos para regular la participación de los testigos sociales.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
