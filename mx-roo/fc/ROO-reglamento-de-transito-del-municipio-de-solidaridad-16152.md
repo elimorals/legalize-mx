@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-transito-del-municipio-de-solidaridad-16152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2017-03-30"
+last_updated: "2017-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "ROO"
 REGLAMENTO DE TRÁNSITO DEL MUNICIPIO SOLIDARIDAD EN EL ESTADO DE QUINTANA ROO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017)
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de noviembre de 1999.
 
@@ -231,7 +233,7 @@ V.- Dirigir acciones coordinadas con otras Direcciones de Tránsito municipales,
 
 VI.- Disponer las medidas adecuadas para una vigilancia, supervisión y control de vehículos automotores para preservar el ambiente y salvaguardar la seguridad de las personas, mediante la verificación periódica de las condiciones mecánicas y de equipo de los vehículos;
 
-VII.- Planificar, coordinar y ordenar el tránsito municipal proponiendo al Presidente Municipal los proyectos respectivos para su aprobación, cuando esto sea necesario;
+VII.- Planificar, coordinar y ordenar el tránsito municipal proponiendo al Presidente Municipal los proyectos respectivos para su aprobación, cuando ésto sea necesario;
 
 VIII.- Expedir, conforme a las disposiciones de este Reglamento, licencias para el manejo y tránsito de vehículos;
 
@@ -609,7 +611,7 @@ Sólo en caso de estar ausente el conductor del vehículo, la autoridad de trán
 
 Toda persona que porte licencia de conducir vigente, expedida por autoridad facultada para ello, de otra entidad federativa o del extranjero, podrá manejar en el Municipio de Solidaridad el tipo de vehículo que la misma señale, independientemente del lugar en que se haya registrado el vehículo. No procederá esta disposición para los operadores de vehículos de servicio público de transporte.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2017)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2017) (REPUBLICADO, P.O. 7 DE ABRIL DE 2017)
 
 ###### Artículo 53.
 
@@ -619,7 +621,7 @@ La Dirección de Tránsito expedirá las licencias de conducción de vehículos 
 
 No serán válidos las licencias o permisos de conducir, ya sean locales, nacionales o extranjeros, que presenten tachaduras, enmendaduras, alteraciones o cualesquier daño que impida la legibilidad de alguno de los datos contenidos en el documento.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2017)</small>
+(ADICIONADO, P.O. 30 DE MARZO DE 2017) (REPUBLICADO, P.O. 7 DE ABRIL DE 2017)
 
 Todo prestador de servicio público a quien se le haya expedido licencia de conducir con vigencia máxima de 2 años, quedará sujeto a revisión de seguridad pública a efecto de verificar sus antecedentes, buscando garantizar la seguridad de los usuarios. El no permitir o negarse a la revisión será motivo de revocación de la licencia expedida.
 
@@ -1357,7 +1359,7 @@ IV.- Producir con su vehículo ruidos innecesarios por no estar provisto de un s
 
 ###### Artículo 123.
 
-Para parar o estacionar un vehículo en la vía pública, se deberán observar las siguiente reglas:
+Para parar o estacionar un vehículo en la vía pública, se deberán observar las siguiente (sic) reglas:
 
 I.- El vehículo deberá quedar orientado en el sentido de la circulación;
 
@@ -2099,7 +2101,7 @@ III.- Por las infracciones que resultaran si al cambiar de propietario o de plac
 
 ###### Artículo 196.
 
-Si la persona a quien se le haya suspendido o revocado la licencia de manejar, conduce vehículos durante la suspensión o posterior a la cancelación, será consignado al juez calificador correspondiente
+Si la persona a quien se le haya suspendido o revocado la licencia de manejar, conduce vehículos durante la suspensión o posterior a la cancelación, será consignado al juez calificador correspondiente.
 
 ###### Artículo 197.
 
@@ -2226,6 +2228,8 @@ TERCERO.- PUBLÍQUESE EL PRESENTE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTAN
 CUARTO.- CUANDO SE UTILICE EN ORDENAMIENTOS Y DEMÁS DISPOSICIONES COMO ÍNDICE, BASE DE CÁLCULO O REFERENCIAS EL (SIC) SALARIO MÍNIMO EN ASUNTOS NO RELACIONADOS CON LA POLÍTICA SALARIAL Y LAS PRESTACIONES QUE DE ELLA EMANAN, SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.
 
 P.O. 30 DE MARZO DE 2017.
+
+REPUBLICADO, P.O. 7 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE REFORMA AL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 53 DEL REGLAMENTO DE TRÁNSITO DEL MUNICIPIO DE SOLIDARIDAD, QUINTANA ROO”.]
 
