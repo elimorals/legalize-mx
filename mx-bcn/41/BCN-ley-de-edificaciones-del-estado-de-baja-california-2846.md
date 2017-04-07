@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2016-10-21"
+last_updated: "2017-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -491,9 +491,13 @@ ESTACIONAMIENTOS.
 
 Se entiende por estacionamiento, el espacio de propiedad pública o privada aprobado por la Autoridad, destinado a guardar vehículos, permitiendo que las maniobras necesarias de acceso, circulación y salida, se realicen en forma ordenada y segura. Por cajón de estacionamiento, se entenderá la superficie que ocupa un vehículo estacionado con amplitud suficiente para abordar y/o descender de él.
 
-Toda edificación debe contar con área de estacionamiento, con el número mínimo de cajones de acuerdo a su tipo y ubicación, para lo cual se establecerán las disposiciones relativas a las características dimensionales de los cajones, su distribución geométrica, las normas mínimas de seguridad, la ubicación de los accesos y las circulaciones de vehículos y peatones dentro de los estacionamientos públicos y privados. De igual forma se establecerán en los Reglamentos y Normas Técnicas Complementarias las características y condiciones de operación de los estacionamientos públicos de cuota.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-Los estacionamientos públicos o privados deberán contar con cajones de estacionamiento con espacio suficiente para las personas minusválidas, en los términos que determinen los reglamentos respectivos.
+Toda edificación debe contar con área de estacionamiento de carácter gratuito, con el número mínimo de cajones de acuerdo a su tipo y ubicación, para lo cual se establecerán las disposiciones relativas a las características dimensionales de los cajones, su distribución geométrica, las normas mínimas de seguridad, la ubicación de los accesos y las circulaciones de vehículos y peatones dentro de los estacionamientos públicos y privados. De igual forma se establecerán en los Reglamentos y Normas Técnicas Complementarias las características y condiciones de operación de los estacionamientos públicos de cuota.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Los estacionamientos públicos o privados deberán contar con cajones de estacionamiento con espacio suficiente para las personas minusválidas, así como con espacios destinados para estacionar y resguardar bicicletas, en los términos que determinen los reglamentos respectivos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
@@ -1121,7 +1125,7 @@ PLACA DE CONTROL.
 
 Se deberá establecer en los Reglamentos respectivos las características de la placa de control, la cual contendrá como mínimo la información relativa a la obra y una leyenda alusiva al uso del edificio.
 
-Esta obligación se aplicará para las edificaciones de todo tipo, excepto los casos previstos en los Artículo 59 y 68 de esta Ley.
+Esta obligación se aplicará para las edificaciones de todo tipo, excepto los casos previstos en los Artículo (sic) 59 y 68 de esta Ley.
 
 ### CAPITULO II. Responsables
 
@@ -1201,7 +1205,7 @@ Cuando se trate de personas morales que actúen como Responsable Director de Obr
 
 En todo caso, tanto la persona física como la persona moral, son responsables solidarios, en los términos que para ello señala la Legislación común.
 
-Los reglamentos determinarán las modalidades para el cumplimiento de las disposiciones establecidas en la Artículo 69 y 70 de esta Ley.
+Los reglamentos determinarán las modalidades para el cumplimiento de las disposiciones establecidas en la (sic) Artículo 69 y 70 de esta Ley.
 
 ###### ARTICULO 71.
 
@@ -1412,3 +1416,19 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 629 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 61 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 467 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 Y 37 DE LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA REFORMA AL ARTÍCULO 2 BIS DE LA LEY GENERAL DE TRANSPORTE PÚBLICO DEL ESTADO DE BAJA CALIFORNIA; SE APRUEBA REFORMA AL ARTÍCULO 22 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; Y SE CREA LA LEY DE FOMENTO PARA USO DE LA BICICLETA Y PROTECCIÓN AL CICLISTA PARA EL ESTADO”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se instruye a la Comisión de Desarrollo Metropolitano, Conurbación, Infraestructura, Comunicaciones y Transportes del Congreso del Estado, para que por conducto de su Presidente, convoque dentro de los tres meses siguientes a la entrada en vigor de la presenta reforma, a sesión de trabajo en donde se inicien los estudios y consultas necesarias para promover y desarrollar en el Estado acciones que permitan impulsar y generar la creación de infraestructura ciclista y mejores condiciones de movilidad urbana en la que se privilegie la convivencia en la vía pública de todos los actores que forman parte de la movilidad urbana, promoviendo el respeto entre todos ellos, destacando la importancia que cada uno tiene en la dinámica de la ciudad y priorizando la circulación de aquellos que se encuentran en desventaja de accesibilidad contra los transportes motorizados.
+
+Para efecto de lo establecido en el párrafo anterior, el citado Presidente deberá convocar a las diversas Dependencias y Entidades del Poder Ejecutivo que de acuerdo a sus atribuciones, tengan participación en las materia (sic) que comprendan los estudios de movilidad urbana, entre las que deberán incluirse a la Secretaría de Infraestructura y Desarrollo Urbano, a la Secretaría de Educación y Bienestar Social, Secretaría de Protección al Ambiente, y al Instituto del Deporte y la Cultura Física. En el ámbito municipal se convocará a cada uno de los Presidentes Municipales, par que designen las autoridades que en ese ámbito deban comparecen a las sesiones de trabajo. Asimismo, deberá convocarse a los sectores y organizaciones ciclistas organizados en el Estado, incluyendo a los promoventes de la incitativa ciudadana que generó el presente Decreto.
+
+TERCERO.- Los estudios y consultas a que se refiere el artículo anterior, deberán quedar terminados a más tardar dentro de los 12 meses siguientes a la entra (sic) en vigor de la presente reforma, y en ella deberá incluir la creación de un Programa de Movilidad no Motorizada a nivel Estatal que considere la elaboración y ejecución de proyectos de infraestructura ciclista a nivel estatal en colaboración con los Institutos y Direcciones de Planeación de cada uno de los municipios de esta entidad federativa; la elaboración de un manual de tránsito aplicable en los municipios de Baja California que contenga los temas referentes a la convivencia en vialidades entre peatones, ciclistas y automovilistas; la aplicación de un examen de conducir a nivel estatal que contenga lo vertido en dicho manual, la difusión de la importancia de la jerarquía de movilidad urbana a través de una campaña a nivel estatal que promueva los principios de convivencia y respeto hacia todos los usuarios de la vía pública.
+
+CUARTO.- A más tardar dentro de los 6 meses siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado y los Ayuntamientos del Estado, deberán llevar a cabo acciones para mejorar el respeto del peatón y el ciclista además de la promoción del uso de la bicicleta como medio de transporte. Asimismo en el mismo plazo, deberá iniciar en el ámbito de sus respectivas competencias, programas y acciones que incentiven entre sus propios empleados y los de los sectores productivos el uso responsable de la bicicleta. Estas acciones deberán considerar también la promoción de cultura vial en los ciclistas, a fin de asegurar su integridad física.
+
+QUINTO.- Se recomienda a los Ayuntamientos del Estado, que en un plazo no mayor a 6 meses siguientes a la entrada en vigor del presente Decreto, realicen los ajustes necesarios a sus reglamentos de tránsito, a fin de que regulen en los mismos, la convivencia vial de los ciclistas y automovilistas, así como las condiciones bajo las cuales, el transporte público estará obligado a transportar las bicicletas de los usuarios.
