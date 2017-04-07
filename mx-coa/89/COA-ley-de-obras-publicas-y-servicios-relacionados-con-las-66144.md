@@ -4,7 +4,7 @@ identifier: "COA-ley-de-obras-publicas-y-servicios-relacionados-con-las-66144"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2016-03-04"
+last_updated: "2017-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -73,7 +73,7 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. Comité: Comité de apoyo para la adjudicación y fallo de los concursos de obra pública;
 
-II. CompraNet: El sistema electrónico de contrataciones gubernamentales;
+II. (DEROGADA, P.O. 7 DE ABRIL DE 2017)
 
 III. Contratista o proveedor local: Persona física o moral con domicilio fiscal en el Estado de Coahuila de Zaragoza, que celebre contratos de obras públicas o de servicios relacionados con las mismas en los términos de este ordenamiento jurídico;
 
@@ -101,13 +101,17 @@ XIII. Padrón de Contratistas: Registro administrativo en el que se inscribe a l
 
 XIV. Contratistas Salarialmente Responsables: Los Contratistas que hayan comprobado fehacientemente, a través de la documentación o cualquier otra prueba idónea, que sus trabajadores y los que laboren para terceros que presten servicios en sus instalaciones perciban un salario equivalente a 1.18 veces la Unidad de Cuenta del Estado de Coahuila de Zaragoza o en su caso el salario mínimo general vigente en la capital del estado, sí este fuese mayor al múltiplo de la Unidad de Cuenta antes referido, y cumplir con sus obligaciones en materia de seguridad social.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-XV. Secretaría: La Secretaría de Finanzas del Estado de Coahuila de Zaragoza, y
+XV. Secretaría: La Secretaría de Finanzas del Estado de Coahuila de Zaragoza;
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-XVI. Sobre cerrado: Cualquier medio que contenga la proposición del licitante cuyo contenido solo puede ser conocido en el acto de presentación y apertura de proposiciones en los términos de la Ley.
+XVI. Sobre cerrado: Cualquier medio que contenga la proposición del licitante cuyo contenido solo puede ser conocido en el acto de presentación y apertura de proposiciones en los términos de la Ley, y
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XVII. Testigo Social: Las personas físicas que pertenezcan o no a organizaciones no gubernamentales, así como las propias organizaciones no gubernamentales, que cuenten con el registro correspondiente ante el Órgano de Control, las cuales a solicitud de las dependencias y entidades, por acuerdo entre ellas y la Secretaría o a solicitud de esta última, o del Órgano de Control, podrán participar con derecho a voz en las contrataciones que lleven a cabo las dependencias y entidades, emitiendo al término de su participación un testimonio público sobre el desarrollo de las mismas.
 
 ###### Artículo 3.
 
@@ -154,6 +158,12 @@ VIII. Los estudios que tengan por objeto rehabilitar, corregir, sustituir o incr
 IX. Los estudios de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología entre otros, y
 
 X. Todos aquéllos de naturaleza análoga.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+###### Artículo 4-A.
+
+El Órgano de Control, queda facultado para interpretar esta Ley para efectos administrativos y dictará las disposiciones administrativas que sean estrictamente necesarias para su adecuado cumplimiento. Las disposiciones de carácter general, se publicarán en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -257,7 +267,9 @@ Cualquier persona podrá promover y presentar a consideración de los Órganos E
 
 Los Órganos Ejecutores que realicen obras públicas y servicios relacionados con las mismas, sea por contrato o por administración directa, así como los contratistas con quienes aquellas contraten, observarán las disposiciones que en materia de asentamientos humanos, desarrollo urbano, ambientales y construcción rijan en el ámbito federal, estatal y municipal.
 
-Los Órganos Ejecutores, cuando sea el caso, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Los Órganos Ejecutores, cuando sea el caso, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas. En las convocatorias a la licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista.
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -343,7 +355,9 @@ El Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Públ
 
 I. Revisar, analizar y dictaminar sobre los procedimientos de licitación para la adjudicación de la obra pública propuestas por las dependencias y entidades de la Administración Pública del Estado;
 
-II. Revisar que las bases del concurso y las convocatorias de obra pública para las licitaciones públicas e invitación a cuando menos tres personas, se apeguen a lo previsto por las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+II. Revisar que las convocatorias de obra pública para las licitaciones públicas e invitación a cuando menos tres personas, se apeguen a lo previsto por las disposiciones aplicables;
 
 III. Emitir opinión y dictamen respecto a los expedientes que le sean sometidos, a efecto de que sirvan de base para el fallo que corresponda emitir a la dependencia o entidad ejecutora;
 
@@ -375,11 +389,13 @@ II. Invitación a cuando menos tres personas, o
 
 III. Adjudicación directa.
 
-En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, plazos de ejecución, normalización, forma y tiempo de pago, penas convencionales, anticipos y garantías; debiendo los Órganos Ejecutores proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
+En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, plazos de ejecución, normalización, forma y tiempo de pago, penas convencionales, anticipos y garantías; debiendo los Órganos Ejecutores proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante. Aplicando el principio establecido en el artículo 15 fracción VI de la presente Ley, en los procedimientos de contratación nacional e internacional, si en igualdad de circunstancias resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, ésta deberá tomar en cuenta para la emisión del fallo a los contratistas locales, así como a las micro, pequeñas y medianas empresas de la entidad, dándoles un margen de preferencia de hasta el quince por ciento de su propuesta económica, siempre que se garantice el objeto a que se refiere el artículo 43 de esta Ley.
 
-Los contratistas o proveedores que deseen participar en algún procedimiento de contratación, deberán de presentar el manifiesto de no conflicto de intereses y dar cumplimiento al Código de Conducta en los términos de los artículos siguientes.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Los contratistas o proveedores que deseen participar en algún procedimiento de contratación, en igualdad de condiciones, deberán contar con experiencia en la actividad que desarrollen, además presentar el manifiesto de no conflicto de intereses y dar cumplimiento al Código de Conducta en los términos de los artículos siguientes.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -389,9 +405,9 @@ La licitación pública se inicia con la publicación de la convocatoria y, en e
 
 La Secretaría, mediante reglas de carácter general y tomando en cuenta la opinión del Órgano de Control, determinará los criterios para la aplicación de las reservas, mecanismos de transición u otros supuestos establecidos en la propia Ley.
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-Las dependencias y entidades pondrán a disposición pública, a través de los medios de difusión electrónica que establezca el Órgano de Control para tal efecto, la información que obre en su base de datos relacionada con las convocatorias, bases de las licitaciones y el manifiesto de no conflicto de intereses, así como sus modificaciones en su caso; las actas de las juntas de aclaraciones y de visita a instalaciones; los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los contratos adjudicados; así como otra información relativa a las materias que regula esta Ley, con excepción de aquella que sea de naturaleza reservada, en los términos establecidos en la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza.
+Los Órganos Ejecutores pondrán a disposición pública, a través del medio de difusión electrónica que establezca el Órgano de Control, la información que obre en su base de datos relacionada con las convocatorias a las licitaciones y el manifiesto de no conflicto de intereses, así como sus modificaciones en su caso; las actas de las juntas de aclaraciones y de visita a instalaciones; los fallos de dichas licitaciones o las cancelaciones de éstas, y los datos relevantes de los contratos adjudicados; así como otra información relativa a las materias que regula esta Ley, con excepción de aquella que sea de naturaleza reservada, en los términos establecidos en la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2016)</small>
 
@@ -511,155 +527,209 @@ c) Cuando habiéndose realizado una de carácter nacional, no se presenten propu
 
 Podrá negarse la participación a extranjeros en licitaciones internacionales, cuando con el país del cual sean nacionales no se tenga celebrado un tratado y ese país no conceda un trato recíproco a los licitantes, contratistas, bienes o servicios mexicanos.
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+###### Artículo 29-A.
+
+En las licitaciones públicas, e invitaciones a cuando menos tres personas podrán participar testigos sociales, en la forma y términos señalados en los lineamientos para regular la participación de testigos sociales, que para el efecto emita el Órgano de Control, atendiendo al impacto que la contratación tenga en los programas sustantivos de la dependencia o entidad, conforme a lo siguiente:
+
+I. Se deberá crear un comité de designación de testigos sociales integrado en los términos que establezcan los lineamientos señalados en el párrafo anterior y tendrá como objetivo asegurar la designación de los testigos sociales, con imparcialidad, fomentando la transparencia, mediante su participación en los procesos de contratación de las adquisiciones de bienes, arrendamiento de bienes, obra pública y servicios relacionados con las mismas, que lleven a cabo las dependencias y entidades.
+
+El comité podrá efectuar las sugerencias que considere necesarias para mejorar la participación de los testigos sociales, así como cualquier otra recomendación relacionada con los mismos, y determinará la cancelación del registro de los testigos sociales que incurran en las acciones previstas en los lineamientos.
+
+II. El Órgano de Control, tendrá a su cargo el padrón público de testigos sociales, quienes podrán participar en todas las etapas de los procedimientos de licitación pública, a los que se refiere esta ley, con voz, y emitirán un testimonio final que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en la página electrónica de cada dependencia o entidad, en el medio de difusión electrónica que dicho órgano establezca y se integrará al expediente respectivo;
+
+III. Los testigos sociales serán seleccionados mediante convocatoria pública, emitida por el Órgano de Control;
+
+IV. El Órgano de Control, podrá acreditar como testigos sociales a aquellas personas que cumplan con los siguientes requisitos:
+
+a) Ser ciudadano mexicano en ejercicio de sus derechos o extranjero cuya condición migratoria permita la función a desarrollar;
+
+b) Cuando se trate de una organización no gubernamental, acreditar que se encuentra constituida conforme a las disposiciones legales aplicables y que no persigue fines de lucro;
+
+c) No haber sido sentenciado por delito doloso con pena privativa de libertad;
+
+d) No ser servidor público en activo en México o en el extranjero. Asimismo, no haber sido servidor público federal o de una entidad federativa durante al menos un año previo a la fecha en que se presente su solicitud para ser acreditado;
+
+e) No haber sido sancionado con inhabilitación o destitución de algún cargo como servidor público, ya sea federal, estatal, municipal o por autoridad competente en el extranjero;
+
+f) Presentar currículo en el que se acrediten los grados académicos, la especialidad correspondiente, la experiencia laboral y, en su caso, docente, así como los reconocimientos que haya recibido a nivel académico y profesional;
+
+g) Asistir a los cursos de capacitación que imparte el Órgano de Control sobre esta ley;
+
+h) Presentar manifestación escrita bajo protesta de decir verdad de que se abstendrá de participar en contrataciones en las que pudiese existir conflicto de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tienen vinculación académica, de negocios o familiar, y
+
+i) No estar registrado como persona física en el padrón de proveedores y contratistas de la administración pública estatal, o formar parte de sociedades como accionista, socio, o empleado.
+
+V. Los testigos sociales tendrán las funciones siguientes:
+
+a) Proponer conforme a su experiencia y considerando las disposiciones legales o administrativas vigentes, los aspectos que mejoren el trato igualitario, la calidad y precio, así como las acciones que promuevan la eficiencia, eficacia, transparencia de las contrataciones y el combate a la corrupción.
+
+b) Proponer a las dependencias, entidades y al Órgano de Control, mejoras para fortalecer la transparencia, imparcialidad y el cumplimiento a las disposiciones legales en materia de obras públicas y servicios relacionados con las mismas;
+
+c) Dar seguimiento a las recomendaciones efectuadas en las contrataciones en las que haya participado, y
+
+d) Emitir al final de su participación el testimonio correspondiente, del cual entregarán un ejemplar al Órgano de Control en un plazo no mayor a tres días hábiles. Dicho testimonio deberá publicarse dentro del mismo plazo en la página de internet de la dependencia o entidad que corresponda, y permanecer al menos durante los tres meses posteriores fecha de su publicación. Asimismo, el Órgano de Control, difundirá durante el mismo plazo, dicho testimonio en el medio de difusión electrónica que tenga autorizado.
+
+En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio dentro de un plazo de 24 horas al Órgano de Control.
+
+Se podrá exceptuar la participación de los testigos sociales en aquéllos casos en que los procedimientos de contrataciones contengan información clasificada como reservada que pongan en riesgo la seguridad en los términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 30.
 
-Las convocatorias podrán referirse a una o más obras públicas o servicios relacionados con las mismas, se publicarán en el Periódico Oficial del Gobierno del Estado, en COMPRANET y en un diario de circulación en el lugar o lugares donde se vaya a realizar la obra, y contendrán cuando menos:
+Las convocatorias a la licitación pública, que emitan los Órganos Ejecutores se difundirán mediante la publicación de un resumen, a través del medio de difusión electrónica que establezca el Órgano de Control, en el Periódico Oficial del Gobierno del Estado y en un diario de circulación en el lugar o lugares donde se vaya a realizar la obra.
+
+El resumen, podrá referirse a una o más obras, o servicios relacionados con las mismas y deberá contener entre otros elementos, el objeto de la licitación, el volumen de la obra, el número de la licitación, las fechas en que se llevará a cabo cada uno de los actos de la licitación y la fecha de su publicación en el medio de difusión electrónica que establezca el Órgano de Control.
+
+La convocatoria y sus anexos, se pondrán a disposición de los licitantes, para su consulta y venta, en el domicilio señalado en la convocatoria y en el medio de difusión electrónica que establezca el Órgano de Control, a partir de que se publique el resumen y hasta el sexto día natural anterior a la fecha programada para el acto de presentación y apertura de proposiciones.
+
+La responsabilidad de adquirir la convocatoria será exclusiva de los interesados y dependiendo de la complejidad y magnitud de los trabajos debe contener lo siguiente:
 
 I. El nombre, denominación o razón social de la dependencia o entidad convocante;
 
-II. El numero de Oficio de Autorización de Liberación de Recursos emitido por la Secretaría;
+II. El número de Oficio de Autorización de Liberación de Recursos emitido por la Secretaría;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+III. La indicación de que el licitante deberá contar con el registro en el padrón de contratistas ante el Órgano de Control vigente a la fecha de presentación de propuestas;
 
-III. La indicación de que se deberá contar con el registro en el padrón de contratistas ante el Órgano de Control vigente a la fecha de presentación de propuestas y que en su caso este contenga la anotación con la que acredite la calidad de Contratistas (sic) Salarialmente Responsable.
-
-IV. La forma en que los licitantes deberán acreditar su existencia legal, la experiencia y capacidad técnica en obras similares y capacidad financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
+IV. La forma en que los licitantes deberán acreditar su existencia legal y personalidad jurídica para efecto de la suscripción de las proposiciones y en su caso firma del contrato;
 
 V. La indicación de que el licitante deberá proporcionar una dirección de correo electrónico;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
+VI. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las convocatorias a la licitación y, en su caso, el costo y forma de pago de las mismas;
 
-VI. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de licitación y, en su caso, el costo y forma de pago de las mismas; cuando las bases impliquen un costo, este será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación; igualmente, los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que establezca el órgano de control;
+Cuando las convocatorias impliquen un costo, éste será fijado sólo en razón de la recuperación de las erogaciones derivadas de su publicación y la reproducción de los documentos que se entreguen; los interesados las podrán revisar previamente a su pago, este último será requisito para participar en la licitación;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
-
-VII. Moneda o monedas que podrán presentarse en las proposiciones. En los casos en que se permita hacer la cotización en moneda extranjera se deberá establecer que el pago que se realice en el territorio nacional se hará en moneda nacional y al tipo de cambio de la fecha en que se haga dicho pago, así como el mecanismo, periodos de revisión y los porcentajes máximos de ajuste de costos a que se sujetará el contrato;
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
+VII. Moneda o monedas en que podrán presentarse las proposiciones. En los casos en que se permita hacer la cotización en moneda extranjera se deberá establecer que el pago que se realice en el territorio nacional se hará en moneda nacional y al tipo de cambio que el Banco de México, publique en el Diario Oficial de la Federación, del día hábil bancario anterior a la fecha en que se haga el pago;
 
 VIII. Las condiciones de pago de acuerdo al tipo de contrato a celebrar;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
+IX. Las fechas, horas y lugares de la celebración de los siguientes actos:
 
-IX. Fechas, horarios y lugares de los actos del proceso de licitación; Junta de aclaraciones, visita al sitio de los trabajos, en caso de que proceda, acto de recepción de propuestas, y acto de fallo y adjudicación del o los contratos;
+a) Visitas al sitio de realización de los trabajos;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
+b) Las juntas de aclaraciones, siendo optativa la asistencia a las reuniones que en su caso se realicen, mismas que deberán llevarse a cabo dentro del período comprendido entre el cuarto día natural siguiente a aquél en que se publique la convocatoria y hasta el sexto día natural previo al acto de presentación y apertura de proposiciones;
 
-X. La especialidad de acuerdo al Padrón de Contratistas, así como la experiencia de ejecutar obras similares, que se requiera para participar en la licitación;
+c) Los actos de recepción y apertura de proposiciones;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
+El acto en el que se dará a conocer el fallo y la adjudicación y firma del contrato.
+
+X. La especialidad que debe tener el licitante para poder participar en el proceso de contratación, misma que deberá corresponder a la registrada en el Padrón de Contratistas.
 
 XI. La indicación de si la licitación es nacional o internacional; y en caso de ser internacional, si se realizará o no bajo la cobertura del capítulo de compras del sector público de algún tratado, y el idioma o idiomas, además del español, en que podrán presentarse las proposiciones;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
+XII. La descripción general de la obra o del servicio y el lugar en donde se llevarán a cabo los trabajos, así como, en su caso, información específica sobre las partes de los trabajos que podrán subcontratarse;
 
-XII. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes, podrán ser negociadas;
+XIII. Plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha estimada de inicio de los mismos;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
+XIV. Porcentaje, forma y términos de las garantías que deban otorgarse y del anticipo que en su caso se otorgue;
 
-XIII. La descripción general de la obra o del servicio y el lugar en donde se llevarán a cabo los trabajos, así como, en su caso, información específica sobre las partes de los trabajos que podrán subcontratarse;
+XV. La indicación de que no podrán participar las personas que se encuentren en los supuestos del artículo 50 de esta Ley.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
+XVI. La indicación de que cualquier persona podrá asistir a los diferentes actos de la licitación en calidad de observador, sin necesidad de adquirir la convocatoria, registrando previamente su participación;
 
-XIV. Plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha estimada de inicio de los mismos;
+XVII. Señalamiento de las causas expresas de desechamiento que afecten directamente la solvencia de las propuestas, entre las que se incluirán la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
+XVIII. La indicación de que ninguna de las condiciones contenidas en la convocatoria de la licitación, así como en las proposiciones presentadas por los licitantes y contrato podrán ser negociadas;
 
-XV. Porcentaje, forma y términos de las garantías que deban otorgarse y del anticipo que en su caso se otorgue;
+XIX. Criterios claros y detallados para la evaluación de las propuestas y la adjudicación de los contratos, de conformidad con lo establecido por el artículo 37 de esta Ley;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+XX. La descripción detallada de los proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones generales y particulares de construcción aplicables, en el caso de las especificaciones particulares, deberán ser firmadas por el responsable del proyecto;
 
-XVI. La indicación de que no podrán participar las personas que se encuentren en los supuestos del artículo 50 de esta Ley.
+XXI. Tratándose de servicios relacionados con las obras públicas, los términos de referencia que deberán precisar el objeto y alcances del servicio; las especificaciones generales y particulares; el producto esperado, y la forma de presentación, así como los tabuladores de las cámaras industriales y colegios de profesionales que deberán servir de referencia para determinar los sueldos y honorarios profesionales del personal técnico;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+XXII. Relación de materiales y equipo de instalación permanente que, en su caso, proporcione la convocante, debiendo acompañar los programas de suministro correspondientes;
 
-XVII. La indicación de que cualquier persona podrá asistir a los diferentes actos de la licitación en calidad de observador, sin necesidad de adquirir las bases, registrando previamente su participación;
+XXIII. La indicación de que por ningún motivo se recibirán del contratista adjudicado, conceptos de obra contratados que no cuenten con las especificaciones y la calidad requeridas en el expediente técnico. Por lo que en caso de existir conceptos de obra que no cumplan con las especificaciones y la calidad requeridas deberán realizar lo conducente para garantizar que dichos conceptos cumplan con lo requerido, sin costo alguno para el Estado;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+XXIV. El modelo de contrato al que se sujetarán las partes, diferenciando las de obras y los de servicios, el que deberá contener los requisitos a que se refiere el artículo 45 de esta Ley;
 
-XVIII. Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación, así como la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
+XXV. Tratándose de contratos a precios unitarios o mixtos en su parte correspondiente, las dependencias o entidades, deberán señalar el procedimiento de ajuste de costos que deberá aplicarse, e incorporar como anexo de la convocatoria el catálogo de conceptos conteniendo, descripción, unidades de medición y cantidades, el mismo deberá estar firmado por el responsable del proyecto; y contener, la relación de conceptos de trabajo más significativos, de los cuales los licitantes, deberán presentar el análisis y la relación de los costos básicos de materiales, mano de obra, maquinaria y equipo de construcción que intervienen en dichos análisis. En todos los casos se deberá prever que cada concepto de trabajo esté debidamente integrado y soportado, preferentemente, en las especificaciones de construcción y normas de calidad solicitadas, procurando que estos conceptos sean congruentes con las cantidades de trabajo requeridos por el proyecto;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+XXVI. La indicación de que el licitante ganador que no firme el contrato por causas imputables al mismo será sancionado en los términos del artículo 78 y 79 de esta Ley;
 
-XIX. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes y contrato podrán ser negociadas;
+XXVII. En su caso, términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas por medios remotos de comunicación electrónica. El uso de estos medios para enviar sus proposiciones, no limita en ningún caso, el derecho de los licitantes de asistir a los diferentes actos derivados de una licitación;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
-
-XX. Criterios claros y detallados para la evaluación de las propuestas y la adjudicación de los contratos, de conformidad con lo establecido por el artículo 37 de esta Ley:
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
-
-XXI. Proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones generales y particulares de construcción aplicables, en el caso de las especificaciones particulares, deberán ser firmadas por el responsable del proyecto;
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
-
-XXII. Tratándose de servicios relacionados con las obras públicas, los términos de referencia que deberán precisar el objeto y alcances del servicio; las especificaciones generales y particulares; el producto esperado, y la forma de presentación, así como los tabuladores de las cámaras industriales y colegios de profesionales que deberán servir de referencia para determinar los sueldos y honorarios profesionales del personal técnico;
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
-
-XXIII. Relación de materiales y equipo de instalación permanente que, en su caso, proporcione la convocante, debiendo acompañar los programas de suministro correspondientes;
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
-
-XXIV. La indicación de que por ningún motivo se recibirán conceptos de obra contratados que no cuenten con las especificaciones y la calidad requeridas en el expediente técnico. Por lo que en caso de existir conceptos de obra que no cumplan con las especificaciones y la calidad requeridas deberán realizar lo conducente para garantizar que dichos conceptos cumplan con lo requerido, sin costo alguno para el Estado;
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
-
-XXV. Modelo de contrato al que se sujetarán las partes, diferenciando las de obras y los de servicios;
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
-
-XXVI. Tratándose de contratos a precio alzado o mixtos en su parte correspondiente, a las condiciones de pago;
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
-
-XXVII. Tratándose de contratos a precios unitarios o mixtos en su parte correspondiente, el procedimiento de ajuste de costos que deberá aplicarse, así como el catálogo de conceptos, cantidades y unidades de medición, debe ser firmado por el responsable del proyecto; y la relación de conceptos de trabajo más significativos, de los cuales deberán presentar análisis y relación de los costos básicos de materiales, mano de obra, maquinaria y equipo de construcción que intervienen en dichos análisis. En todos los casos se deberá prever que cada concepto de trabajo esté debidamente integrado y soportado, preferentemente, en las especificaciones de construcción y normas de calidad solicitadas, procurando que estos conceptos sean congruentes con las cantidades de trabajo requeridos por el proyecto;
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
-
-XXVIII. La indicación de que el licitante ganador que no firme el contrato por causas imputables al mismo será sancionado en los términos del artículo 78 y 79 de esta Ley;
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
-
-XXIX. En su caso, términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas por medios remotos de comunicación electrónica. El uso de estos medios para enviar sus proposiciones, no limita en ningún caso, el derecho de los licitantes de asistir a los diferentes actos derivados de una licitación;
-
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
-
-XXX. La indicación de que no podrán participar las personas físicas o morales inhabilitadas o suspendidas en el Padrón de Contratistas del Estado por resolución del Órgano de Control, por la Secretaría de la Función Pública Federal o cualquier otra autoridad competente;
+XVIII (SIC). La indicación de que no podrán participar las personas físicas o morales inhabilitadas o suspendidas en el Padrón de Contratistas del Estado por resolución del Órgano de Control, por la Secretaría de la Función Pública Federal o cualquier otra autoridad competente;
 
 Asimismo, la indicación de que los participantes deberán presentar manifestación bajo protesta de decir verdad de que por su conducto, no participan en los procedimientos de contratación establecidos en esta ley, personas físicas o morales que se encuentren inhabilitadas en los términos del párrafo anterior, con el propósito de evadir los efectos de la inhabilitación, tomando en consideración, entre otros, los supuestos siguientes:
 
-A. Personas morales en cuyo capital social participen personas físicas o morales que se encuentren inhabilitadas en términos del primer párrafo de esta fracción;
+a) Personas morales en cuyo capital social participen personas físicas o morales que se encuentren inhabilitadas en términos del primer párrafo de esta fracción;
 
-B. Personas morales que en su capital social participen personas morales en cuyo capital social, a su vez, participen personas físicas o morales que se encuentren inhabilitadas en términos del primer párrafo de esta fracción, y
+b) Personas morales que en su capital social participen personas morales en cuyo capital social, a su vez, participen personas físicas o morales que se encuentren inhabilitadas en términos del primer párrafo de esta fracción, y
 
-C. Personas físicas que participen en el capital social de personas morales que se encuentren inhabilitadas.
+c) Personas físicas que participen en el capital social de personas morales que se encuentren inhabilitadas.
 
 La participación social deberá tomarse en cuenta al momento de la infracción que hubiere motivado la inhabilitación. La falsedad en la manifestación a que se refiere esta fracción será sancionada en los términos de la Ley.
 
 En caso de omisión en la entrega del escrito a que se refiere esta fracción, o si de la información y documentación con que cuente el Órgano de Control se desprende que personas físicas o morales pretenden evadir los efectos de la inhabilitación, las dependencias y entidades se abstendrán de firmar los contratos correspondientes;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+XXIX. Tratándose de propuestas conjuntas en los términos del artículo 35 (sic) presente ordenamiento jurídico, la indicación del porcentaje mínimo de capital contable que deberá comprobar el licitante local y la proporción de la obra que obligadamente tiene que llevar a cabo el mismo licitante local, que en ambos casos deberá ser al menos del 50 por ciento. Para esto último deberá comprobar a satisfacción de la convocante, que cuenta con suficientes recursos financieros y técnicos;
 
-XXXI. Tratándose de propuestas conjuntas en los términos del artículo 35 presente ordenamiento jurídico, la indicación del porcentaje mínimo de capital contable que deberá comprobar el licitante local y la proporción de la obra que obligadamente tiene que llevar a cabo el mismo licitante local, que en ambos casos deberá ser al menos del 50 por ciento. Para esto último deberá comprobar a satisfacción de la convocante, que cuenta con suficientes recursos financieros y técnicos;
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
-
-XXXII. La relación de documentos que los licitantes deberán integrar a sus proposiciones;
+XXX. La relación de documentos que los licitantes deberán integrar a sus proposiciones;
 
 Se deberá señalar que para corroborar la calidad de Contratista Salarialmente Responsable, además de la revisión documental, la autoridad convocante podrá realizar las consultas que considere necesarias ante las instancias competentes.
 
 Se indicará la obligación de la persona física o moral que fungirá como contratista, de mantenerse como Contratista Salarialmente Responsable, en tanto dure el contrato, cuando éste sea el factor que determinó la adjudicación, mediante la entrega periódica de los documentos emitidos por la autoridad competente que permitan a la convocante corroborarlo.
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+XXXI. Señalar un domicilio del licitante dentro del Estado de Coahuila de Zaragoza, para oír y recibir notificaciones;
 
-XXXIII. Señalar un domicilio convencional dentro del Estado de Coahuila de Zaragoza para oír y recibir notificaciones;
+XXXII. La forma en que los licitantes deberán demostrar la experiencia y capacidad técnica en obras similares y capacidad financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+XXXIII. Señalar el porcentaje, forma y términos de las garantías del cumplimiento del contrato y la correspondiente a la calidad de los trabajos, vicios ocultos y cualquier otra responsabilidad que le resulte;
 
-XXXIV. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación.
+XXXIV. La convocante deberá incluir, la descripción detallada de los proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones generales y particulares de construcción aplicables, en el caso de las especificaciones particulares, deberán ser firmadas por el responsable del proyecto;
+
+XXXV. El señalamiento de que el licitante, para intervenir en el procedimiento deberá presentar un escrito firmado por su representante legal, en el que manifieste bajo protesta de decir verdad, que su representada, conoce el sitio de realización de los trabajos y sus condiciones ambientales; y que para la preparación de sus propuestas, ha considerado las normas de calidad de los materiales y las especificaciones generales y particulares de construcción que la dependencia o entidad convocante les ha proporcionado con motivo de su participación en el proceso de contratación, asimismo que ha considerado en la integración de las proposiciones, los materiales y equipos de instalación permanente y el programa de suministro, que en su caso, le proporcionará la propia convocante;
+
+XXXVI. El señalamiento de que el licitante para intervenir en el procedimiento de contratación deberá presentar;
+
+a) Currículo de cada uno de los profesionales técnicos a su servicio, que serán responsables de la dirección, administración y ejecución de las obras, los que deberán tener experiencia en obras con características técnicas y magnitud similares;
+
+b) Relación de maquinaria y equipo de construcción, indicando si son de su propiedad, arrendados con o sin opción a compra, su ubicación física, modelo y usos actuales, así como la fecha en que se dispondrá de estos insumos en el sitio de los trabajos conforme al programa presentado; tratándose de maquinaria o equipo de construcción arrendado, con o sin opción a compra, deberá presentarse carta compromiso de arrendamiento y disponibilidad;
+
+c) Programa calendarizado mensual por concepto y cantidad de obra de acuerdo al catálogo de conceptos, rubricado en su totalidad por el licitante, sin incluir precios;
+
+d) Presupuesto por partidas y general, asentados con número y letra los precios unitarios; los cuales deberán corresponder a los análisis presentados por el licitante, no debiendo modificar ningún aspecto de identificación, descripción o cuantificación del concepto. En caso de que haya discrepancia entre los precios con número y letra, se tomarán los de letra como correctos;
+
+e) Programa de equipo y medidas de Seguridad e Higiene que el licitante implementará con motivo de la obra licitada;
+
+f) Programa calendarizado mensual por concepto de obra, con subtotales por partida y montos de acuerdo al catálogo de conceptos, rubricado en su totalidad por el licitante;
+
+XXXVII. El licitante deberá presentar los programas calendarizados y cuantificados para los siguientes rubros:
+
+a) De los materiales, expresado en volúmenes e importes.
+
+b) De maquinaria y equipo en horas efectivas de trabajo e importes.
+
+c) De utilización de personal profesional, técnico, administrativo y de servicios encargado de la dirección, supervisión y administración de los trabajos expresados en horas-hombre e importes.
+
+d) De mano de obra de campo que se utilizará en la obra, expresado en jornadas e importes.
+
+e) El resumen de programas.
+
+XXXVIII. El licitante deberá presentar carpeta de análisis de precios unitarios, que contenga los análisis correspondientes a cada uno de los conceptos de obra y que representen el total del monto de la propuesta, en el caso de que la carpeta del licitante no cumpla con este requisito, se considerará como no presentada y su proposición será desechada en el acto o durante la revisión detallada de las propuestas, además la carpeta de análisis de precios unitarios deberá contener:
+
+a) Análisis, cálculo e integración del factor de salario real, conforme a lo dispuesto en la convocatoria.
+
+b) Análisis de costos básicos de materiales y mano de obra.
+
+c) Análisis de costo horario de equipo y maquinaria que se utilizará en el proceso de construcción, el costo horario deberá calcularse considerando el precio de equipos nuevos y deberá presentar el total de los análisis de maquinaria y equipo relacionados en su propuesta.
+
+d) Análisis del factor de indirectos, separando indirectos de campo e indirectos de oficinas centrales.
+
+Los licitantes deberán prever que los análisis de precios unitarios se presentarán estructurados, conforme a las indicaciones contenidas en la convocatoria, del mismo modo en la convocatoria, deberá indicarse el procedimiento de análisis de precios unitarios y el cargo por utilidad.
+
+XXXIX. Si para verificar el cumplimiento de las especificaciones solicitadas se requiere de la realización de pruebas, la convocante precisará el método y el resultado mínimo que deberá obtenerse;
+
+XL. La convocante deberá señalar si el contrato abarcará más de un ejercicio fiscal:
+
+XLI. La convocante, podrá incluir en la convocatoria los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación;
+
+XLII. La convocante deberá incluir en la convocatoria, la relación de documentos que los licitantes deberán integrar a sus proposiciones, atendiendo al tipo de contrato, características, magnitud y complejidad de los trabajos;
+
+XLIII. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación.
 
 ###### Artículo 31.
 
@@ -671,17 +741,29 @@ XXXIV. Los demás requisitos generales que, por las características, complejida
 
 El plazo para la presentación y apertura de propuestas de las licitaciones internacionales no podrá ser inferior a veinte días naturales, contados a partir de la fecha de publicación de la convocatoria.
 
-En licitaciones nacionales, el plazo para la presentación y apertura de propuestas será cuando menos, de quince días naturales contados a partir de la fecha de publicación de la convocatoria.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-Los plazos de las etapas del proceso de licitación se establecen a partir de la publicación de la convocatoria y son los siguientes:
+En licitaciones nacionales, el plazo para la presentación y apertura de propuestas será cuando menos, de quince días naturales contados a partir de la fecha de publicación del resumen de la convocatoria.
 
-I. La venta y consulta de bases será a partir de la publicación de la convocatoria y hasta el sexto día natural previo al acto de presentación y apertura de proposiciones;
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-II. La junta de aclaraciones se podrá llevar a cabo a partir del cuarto día natural contado a partir de la fecha de publicación de la convocatoria y hasta el sexto día natural previo al acto de presentación y apertura de proposiciones;
+Los plazos de las etapas del proceso de licitación se establecen a partir de la publicación del resumen de la convocatoria en el medio de difusión electrónica que establezca el Órgano de Control, en el Periódico Oficial del Gobierno del Estado y en un diario de circulación en el lugar o lugares donde se vaya a realizar la obra y son los siguientes:
 
-III. La visita al sitio en donde se desarrollaran los trabajos, se podrá llevar a cabo a partir del cuarto día natural contado a partir de la fecha de publicación de la convocatoria y hasta el sexto día natural previo al acto de presentación y apertura de proposiciones;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-IV. El acto de presentación de propuestas tanto la técnica como la economica será cuando menos quince días naturales después de la fecha de publicación de la convocatoria;
+I. La venta y consulta de la convocatoria será a partir de la fecha de la publicación del resumen de la misma y hasta el sexto día natural previo al acto de presentación y apertura de proposiciones;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+II. La junta de aclaraciones se podrá llevar a cabo a partir del cuarto día natural contado a partir de la fecha de publicación del resumen de la convocatoria y hasta el sexto día natural previo al acto de presentación y apertura de proposiciones;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+III. La visita al sitio en donde se desarrollarán los trabajos, se podrá llevar a cabo a partir del cuarto día natural contado a partir de la fecha de publicación del resumen de la convocatoria y hasta el sexto día natural previo al acto de presentación y apertura de proposiciones;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+IV. El acto de presentación de propuestas técnica y económica será cuando menos quince días naturales después de la fecha de publicación del resumen de la convocatoria;
 
 V. El acto de fallo y adjudicación de contratos tendrá lugar dentro de los treinta días naturales posteriores a la fecha programada para el acto de presentación de proposiciones, en casos justificados el plazo podrá prorrogarse por un período de hasta treinta días naturales más, contados a partir de la fecha programada y señalada originalmente para el fallo y adjudicación de contratos.
 
@@ -691,27 +773,29 @@ Cuando no puedan observarse los plazos para la presentación y apertura de propo
 
 Las garantías que deban otorgar los contratistas de obra pública y de servicios relacionados con las mismas, serán constituidas a favor de la Secretaría o de las Tesorerías Municipales según sea el caso, salvo que se trate de empresas de participación Estatal o Municipal Mayoritarias, en cuyo caso las garantías se constituirán a su favor.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 34.
 
-Los Órganos Ejecutores, siempre que ello no tenga por objeto limitar el número de licitantes, podrán modificar los plazos u otros aspectos establecidos en la convocatoria o en las bases de licitación, a partir de la fecha en que sea publicada la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de propuestas, siempre que:
+Los Órganos Ejecutores, siempre que ello no tenga por objeto limitar el número de licitantes, podrán modificar los plazos u otros aspectos establecidos en la convocatoria a la licitación, a partir de la fecha de la publicación del resumen y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de propuestas a través de los mismos medios utilizados para su publicación, a fin de que los interesados concurran ante la propia dependencia o entidad para conocer, de manera específica, las modificaciones respectivas.
 
-I. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación, y
+No será necesario hacer la publicación cuando las modificaciones deriven de las juntas de aclaraciones, siempre que a más tardar el sexto día natural previo al acto de presentación y apertura de proposiciones, se ponga a disposición o se entregue copia del acta respectiva a cada uno de los licitantes que hayan adquirido la convocatoria de la correspondiente licitación.
 
-II. En el caso de las bases de la licitación, se difundan por los mismos medios en que se difundieron éstas, a fin de que los interesados concurran ante la propia dependencia o entidad para conocer, de manera específica, las modificaciones respectivas.
+En las juntas de aclaraciones, las convocantes resolverán en forma clara (sic) precisa las dudas o cuestionamientos que sobre las convocatorias a la licitación les formulen los interesados, debiendo constar todo ello en el acta que para tal efecto se levante. De proceder las modificaciones en ningún caso podrán consistir en la sustitución o variación sustancial de los trabajos convocados originalmente, o bien, en la adición de otros distintos.
 
-No será necesario hacer la publicación cuando las modificaciones deriven de las juntas de aclaraciones, siempre que a más tardar en el plazo señalado en este artículo, se ponga a disposición o se entregue copia del acta respectiva a cada uno de los licitantes que hayan adquirido las bases de la correspondiente licitación.
+Cualquier modificación derivada del resultado de la o las juntas de aclaraciones, será considerada como parte integrante de las propias convocatorias a la licitación.
 
-En las juntas de aclaraciones, las convocantes resolverán en forma clara precisa las dudas o cuestionamientos que sobre las bases de licitación les formulen los interesados, debiendo constar todo ello en el acta que para tal efecto se levante. De proceder las modificaciones en ningún caso podrán consistir en la sustitución o variación sustancial de los trabajos convocados originalmente, o bien, en la adición de otros distintos.
-
-Cualquier modificación a las bases de la licitación, derivada del resultado de la o las juntas de aclaraciones, será considerada como parte integrante de las propias bases de licitación.
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 35.
 
-La entrega de las propuestas presenciales se hará en sobre cerrado, en los términos solicitados en las bases de la licitación y acompañada, cuando así se disponga en las bases de licitación, de un dispositivo magnético, preferentemente disco compacto, introducido en el sobre que contenga fielmente reproducida la información de la propuesta y de los anexos indicados, y en su caso, la anotación correspondiente que acredite a las personas físicas o morales participantes ser Contratistas Salarialmente Responsables, de conformidad a lo señalado en el presente ordenamiento. La documentación distinta a la propuesta técnica y económica que específicamente señale la convocante en las bases de la licitación, podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
+La entrega de las propuestas presenciales se hará en sobre cerrado, en los términos solicitados en las convocatorias a la licitación y acompañadas, cuando así se disponga en las mismas, de un dispositivo magnético, preferentemente disco compacto, introducido en el sobre que contenga fielmente reproducida la información de la propuesta y de los anexos indicados, y en su caso, la anotación correspondiente que acredite a las personas físicas o morales participantes ser Contratistas Salarialmente Responsables, de conformidad a lo señalado en el presente ordenamiento. La documentación distinta a la propuesta técnica y económica que específicamente señale la convocante en las convocatorias a la licitación, podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 Dos o más personas podrán presentar conjuntamente propuestas sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión y a satisfacción de la dependencia o entidad, las partes de los trabajos que cada persona se obligará a ejecutar, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas. En caso de que participen contratistas en conjunto, todos estos deberán acreditar la calidad de Salarialmente Responsable.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 En todos los casos, se deberá preferir la especialidad, experiencia en obras similares o servicios similares y capacidad técnica de los interesados, así como a aquellos contratistas que, en su caso, hayan ejecutado obras con contratos terminados en costo y tiempo.
 
@@ -727,23 +811,31 @@ II. El servidor público facultado para presidir el acto y al menos uno de los l
 
 III. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que se deberá asentar la relación de las propuestas aceptadas y el importe total de cada una de ellas;
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-El acta será firmada por los asistentes, la falta de firma de algún licitante no invalidará su contenido y efectos, se pondrá a su disposición a la dirección del correo electrónico que al efecto hayan señalado en su propuesta. Asimismo se difundirá a través de CompraNet.
+El acta será firmada por los asistentes, la falta de firma de algún licitante no invalidará su contenido y efectos, se pondrá a su disposición a la dirección del correo electrónico que al efecto hayan señalado en su propuesta. Asimismo se difundirá a través del medio de difusión electrónica que establezca el Órgano de Control.
 
 IV. En el acta a que se refiere la fracción anterior se señalará lugar, fecha y hora en que se dará a conocer el fallo de la licitación.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 37.
 
-Las dependencias y entidades, para hacer la evaluación de las propuestas, deberán verificar que las mismas cumplan con los requisitos solicitados en las bases de licitación, para tal efecto, la convocante deberá establecer previamente los procedimientos y los criterios claros y detallados para determinar la solvencia de las propuestas, dependiendo de las características, complejidad y magnitud de los trabajos por realizar.
+Las dependencias y entidades, para hacer la evaluación de las propuestas, deberán verificar que las mismas cumplan con los requisitos solicitados en las convocatorias a la licitación, para tal efecto, la convocante deberá establecer previamente los procedimientos y los criterios claros y detallados para determinar la solvencia de las propuestas, dependiendo de las características, complejidad y magnitud de los trabajos por realizar.
+
+(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
 Tratándose de obras públicas, deberán verificar, entre otros aspectos, el cumplimiento de las condiciones legales exigidas al licitante; que los recursos propuestos por el licitante sean los necesarios para ejecutar satisfactoriamente las cantidades de trabajo establecidas conforme al programa de ejecución y que el análisis, cálculo e integración de los precios sean acordes con las condiciones de costos vigentes en la zona o región donde se ejecuten los trabajos. En ningún caso podrán utilizarse mecanismos de puntos y porcentajes en su evaluación.
 
-Tratándose de servicios relacionados con las obras públicas, deberán verificar, entre otros aspectos, el cumplimiento de las condiciones legales exigidas al licitante; que el personal propuesto por el licitante cuente con la experiencia, capacidad y recursos suficientes para la realización de los trabajos solicitados por la convocante; que los tabuladores de sueldos sean acordes a los requisitos de las bases de licitación; que la integración de las plantillas y el tiempo de ejecución correspondan al servicio ofertado. Atendiendo a las características propias de cada servicio y siempre y cuando se demuestre su conveniencia, se utilizarán mecanismos de puntos y porcentajes para evaluar las propuestas, salvo en los casos de asesorías y consultorías en que invariablemente deberán utilizarse estos mecanismos, de acuerdo con los lineamientos que para tal efecto emitirá el Órgano de Control en el reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Tratándose de servicios relacionados con las obras públicas, deberán verificar, entre otros aspectos, el cumplimiento de las condiciones legales exigidas al licitante; que el personal propuesto por el licitante cuente con la experiencia, capacidad y recursos suficientes para la realización de los trabajos solicitados por la convocante; que los tabuladores de sueldos sean acordes a los requisitos de las convocatorias a la licitación; que la integración de las plantillas y el tiempo de ejecución correspondan al servicio ofertado. Atendiendo a las características propias de cada servicio y siempre y cuando se demuestre su conveniencia, se utilizarán mecanismos de puntos y porcentajes para evaluar las propuestas, salvo en los casos de asesorías y consultorías en que invariablemente deberán utilizarse estos mecanismos, de acuerdo con los lineamientos que para tal efecto emita el Órgano de Control.
+
+(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
 No serán objeto de evaluación las condiciones establecidas por las convocantes, que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación, así como cualquier otro requisito, cuyo incumplimiento por sí mismo, no afecte la solvencia de las propuestas. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus propuestas.
+
+(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
 Una vez hecha la evaluación de las propuestas, se determinará cuál o cuáles reúnen las condiciones legales, técnicas y económicas requeridas por la convocante y garantizan satisfactoriamente el cumplimiento de las obligaciones respectivas y en consecuencia serán consideradas solventes conforme a los criterios de evaluación establecidos.
 
@@ -751,23 +843,25 @@ Una vez hecha la evaluación de las propuestas, se determinará cuál o cuáles 
 
 La convocante emitirá un dictamen que servirá como base para el fallo, en el que se harán constar los criterios utilizados para la evaluación de las propuestas; una reseña cronológica de los actos del procedimiento; el análisis de las proposiciones y las razones técnicas o económicas para admitirlas o desecharlas; el nombre de los licitantes cuyas propuestas fueron aceptadas por haber cumplido con los requisitos solicitados, y en su caso, si estos son Contratistas Salarialmente Responsables debidamente acreditados; el nombre de los licitantes cuyas propuestas fueron desechadas como resultado del análisis cualitativo; la relación de los licitantes cuyas propuestas calificaron como solventes de menor a mayor de acuerdo a sus montos; asimismo se asentará la fecha y lugar de elaboración así como el nombre, firma y cargo de los servidores públicos encargados de su elaboración y aprobación.
 
-Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición que resulte económicamente más conveniente para el Estado.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2013)</small>
+Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición que resulte económicamente más conveniente para el Estado, o en su caso, de conformidad con el párrafo tercero del artículo 25 de la presente ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 38.
 
-En junta pública, a la que libremente podrán asistir los licitantes que hubieren participado en el acto de presentación y apertura de proposiciones, se dará a conocer el fallo de la licitación; levantándose el acta respectiva, que firmarán los asistentes, a quienes se les enviará a la dirección del correo electrónico que al efecto hayan señalado en su propuesta, poniéndose además a disposición de los que no hayan asistido en CompraNet, para efecto de su notificación. La falta de firma de algún licitante no invalidará el contenido y efectos de acta.
+En junta pública, a la que libremente podrán asistir los licitantes que hubieren participado en el acto de presentación y apertura de proposiciones, se dará a conocer el fallo de la licitación; levantándose el acta respectiva, que firmarán los asistentes, a quienes se les enviará a la dirección del correo electrónico que al efecto hayan señalado en su propuesta, poniéndose además a disposición de los que no hayan asistido a través del medio de difusión electrónica que establezca el Órgano de Control, para efecto de su notificación. La falta de firma de algún licitante no invalidará el contenido y efectos del acta.
 
 En el mismo acto de fallo o adjunta a la comunicación referida, las dependencias y entidades proporcionarán por escrito a los licitantes la información acerca de las razones por las cuales su propuesta no resultó ganadora.
 
 Contra la resolución que contenga el fallo, únicamente procederá la inconformidad que se interponga por los licitantes en los términos del artículo 84 de esta Ley.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 39.
 
-Las dependencias y entidades procederán a declarar desierta una licitación pública y deberán expedir una segunda convocatoria, cuando ninguna de las propuestas presentadas reúna los requisitos de las bases de la licitación o sus precios de insumos no fueren aceptables; o bien, cuando los recursos autorizados no sean suficientes para cubrir el monto de las propuestas económicas presentadas por los licitantes; en caso de que la segunda convocatoria se declarare desierta se procederá a la asignación directa.
+Las dependencias y entidades procederán a declarar desierta una licitación pública y deberán expedir una segunda convocatoria, cuando ninguna de las propuestas presentadas reúna los requisitos de la primer convocatoria a la licitación o sus precios de insumos no fueren aceptables; o bien, cuando los recursos autorizados no sean suficientes para cubrir el monto de las propuestas económicas presentadas por los licitantes; en caso de que la segunda convocatoria se declarare desierta se procederá a la asignación directa.
 
 Las dependencias y entidades podrán cancelar una licitación por caso fortuito o fuerza mayor. De igual manera, podrán cancelar cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad de contratar los trabajos y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio a la propia dependencia o entidad. La determinación de dar por cancelada la licitación, deberá precisar el acontecimiento que motiva la decisión, la cual se hará del conocimiento de los licitantes.
 
@@ -813,9 +907,9 @@ VI. Derivado de caso fortuito o fuerza mayor, no sea posible ejecutar los trabaj
 
 VII. Se hubiere rescindido el contrato respectivo por causas imputables al contratista que hubiere resultado ganador en una licitación. En estos casos la dependencia o entidad podrá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora no sea superior al diez por ciento. Tratándose de procedimientos de contratación en los que se hayan considerado puntos y porcentajes como método para la evaluación de las proposiciones, se podrá adjudicar a la propuesta que siga en calificación a la del ganador;
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-VIII. Se realicen dos licitaciones públicas que hayan sido declaradas desiertas, siempre que no se modifiquen los requisitos esenciales señalados en las bases de licitación;
+VIII. Se realicen dos licitaciones públicas que hayan sido declaradas desiertas, siempre que no se modifiquen los requisitos esenciales señalados en las convocatorias a la licitación;
 
 IX. Se trate de trabajos de mantenimiento, restauración, reparación y demolición de inmuebles, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos, cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
 
@@ -837,17 +931,37 @@ XIII. Se hayan declarado desiertos dos procedimientos de invitación a cuando me
 
 Cuando los concursantes satisfagan la totalidad de los requerimientos de la convocante y reúnan las condiciones legales, técnicas, económicas, financieras y administrativas y por lo tanto se presente en igualdad de condiciones, se preferirá, con base en la revisión de los documentos aportados, a la persona física o moral que haya acreditado ser un Contratista Salarialmente Responsable en términos de lo establecido en la presente ley.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 42.
 
-Sin perjuicio de lo señalado en el artículo anterior, las dependencias y entidades, bajo su responsabilidad, podrán contratar obras públicas sin sujetarse al procedimiento de licitación pública, a través de invitación a cuando menos tres personas, cuando el importe de cada contrato sea de más de 13,300 y hasta un máximo de 53,550 días de salario mínimo general vigente en la capital del estado, o bien de adjudicación directa con cuando menos tres cotizaciones, cuando el monto del contrato no exceda de 13,300 días de salario mínimo general, vigente en la capital del estado al momento de iniciar el procedimiento de contratación. Tratándose de servicios relacionados con las obras, podrán contratar sin sujetarse al procedimiento de licitación pública, a través de invitación a cuando menos tres personas cuando el importe de cada contrato sea de más de 4,463 y hasta un máximo de 17,853 días de salario mínimo general vigente al momento de iniciar el procedimiento de contratación, o de adjudicación directa con cuando menos tres cotizaciones si el monto del contrato no exceda de 4,463 días de salario mínimo general vigente en la capital del estado al momento de iniciar el procedimiento de contratación, siempre que los contratos no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
+Sin perjuicio de lo señalado en el artículo anterior, las dependencias y entidades, bajo su responsabilidad, podrán contratar obras públicas sin sujetarse al procedimiento de licitación pública siempre que los contratos no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo, en los siguientes casos:
 
-La suma de los montos de los contratos que se realicen al amparo de este artículo no podrá exceder del veinte por ciento del presupuesto autorizado a las dependencias y entidades para realizar obras públicas y servicios relacionados con las mismas en cada ejercicio presupuestario.
+I. A través de invitación a cuando menos tres personas, cuando el importe de cada contrato sea de más de 13,300 y hasta un máximo de 53,550 días de salario mínimo general vigente en la capital del estado, sin considerar el Impuesto al Valor Agregado, y
 
-En casos excepcionales, el titular de la dependencia, bajo su responsabilidad, podrá fijar un porcentaje mayor al indicado en este artículo, debiéndolo hacer del conocimiento de la Secretaria.
+II. A través de adjudicación directa con por lo menos tres cotizaciones, cuando el monto del contrato no exceda de 13,300 días de salario mínimo general vigente en la capital del estado al momento de iniciar el procedimiento de contratación, sin considerar el Impuesto al Valor Agregado.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+###### Artículo 42-A.
+
+Tratándose de servicios relacionados con las obras públicas, las dependencias y entidades, podrán contratar sin sujetarse al procedimiento de licitación pública, siempre que los contratos no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo, en los casos siguientes:
+
+I. A través de invitación a cuando menos tres personas cuando el importe de cada contrato sea de más de 4,463 y hasta un máximo de 17,853 días de salario mínimo general vigente en la capital del estado al momento de iniciar el procedimiento de contratación, sin considerar el Impuesto al Valor Agregado, y
+
+II. Por medio de adjudicación directa con cuando menos tres cotizaciones si el monto del contrato no exceda de 4,463 días de salario mínimo general vigente en la capital del estado al momento de iniciar el procedimiento de contratación, sin considerar el Impuesto al Valor Agregado.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+###### Artículo 42-B.
+
+La suma de los montos de los contratos que se realicen al amparo de los artículos 42 y 42-A, no podrá exceder del veinte por ciento del presupuesto autorizado a las dependencias y entidades para realizar obras públicas y servicios relacionados con las mismas en cada ejercicio presupuestario.
+
+En casos excepcionales, el titular de la dependencia, bajo su responsabilidad, podrá fijar un porcentaje mayor al indicado en este artículo, debiéndolo hacer del conocimiento de la Secretaría y el Órgano de Control.
 
 En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, el titular del área responsable de la contratación de los trabajos en la dependencia o entidad podrá adjudicar directamente el contrato.
+
+En los supuestos de los artículos 42 y 42-A, de esta Ley, únicamente se invitará a personas cuyas actividades comerciales o profesionales estén relacionadas con las obras o servicios objeto del contrato a celebrarse y que cuenten con los recursos legales, técnicos y económicos suficientes para satisfacer oportunamente las necesidades de la convocante, y con experiencia y conocimientos técnicos para la realización de las obras o la prestación de los servicios requeridos.
 
 ###### Artículo 43.
 
@@ -859,7 +973,9 @@ II. El acto presentación y apertura de proposiciones podrá hacerse sin la pres
 
 III. Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres propuestas susceptibles de análisis y contar con tres propuestas económicas solventes, de lo contrario se declarará desierta;
 
-IV. En las bases se indicarán, según las características, complejidad y magnitud de los trabajos, aquellos aspectos que correspondan al artículo 31 de esta Ley;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+IV. En las convocatorias se indicarán, según las características, complejidad y magnitud de los trabajos, aquellos aspectos que correspondan al artículo 30 de esta Ley;
 
 V. Los plazos para la presentación de las proposiciones se fijarán para cada contrato, atendiendo a las características, complejidad y magnitud de los trabajos; dicho plazo no podrá ser menor a diez días naturales contados a partir de la fecha en que se entregó la última invitación;
 
@@ -879,7 +995,9 @@ El procedimiento de adjudicación directa, se sujetará a lo siguiente:
 
 I. La dependencia o entidad deberá solicitar cotizaciones por escrito a por lo menos tres contratistas que cuenten con registro vigente en el Padrón de Contratistas, a excepción de las contrataciones que se lleven a cabo en los casos previstos en los supuestos de las fracciones II, IV, VI, X y XI, del artículo 41 de la presente Ley, en cuyo caso el proceso podrá llevarse a cabo con solo un contratista.
 
-II. La dependencia o entidad deberá entregar los documentos y la información que permita la participación de los contratistas en igualdad de condiciones, la preparación de sus cotizaciones y el cumplimiento de los requisitos que resulten aplicables en los términos del artículo 31 de la presente Ley.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+II. La dependencia o entidad deberá entregar los documentos y la información que permita la participación de los contratistas en igualdad de condiciones, la preparación de sus cotizaciones y el cumplimiento de los requisitos que resulten aplicables en los términos del artículo 30 de la presente Ley.
 
 III. La solicitud de cotización se formulará a las personas físicas y morales que tengan capacidad legal, técnica y económica para cumplir con el contrato que en su caso se les asigne.
 
@@ -889,11 +1007,19 @@ V. Las cotizaciones y la demás documentación que haya solicitado la dependenci
 
 VI. La dependencia o entidad deberá elaborar cuadros técnicos y económicos comparativos de las cotizaciones recibidas.
 
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
 VII. La dependencia o entidad, deberá realizar el análisis técnico y económico de las cotizaciones recibidas mediante los cuadros comparativos correspondientes, debiendo elaborar el dictamen que servirá de base para el fallo atendiendo al resultado de la evaluación técnica y económica.
 
-Solo podrá asignarse el contrato si se cuenta con tres propuestas económicas solventes.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-VIII. Cumplido todo lo anterior, la dependencia o entidad elaborará el contrato respectivo, en los términos del artículo 45 de la presente Ley.
+VIII. Solo podrá asignarse el contrato sí se cuenta con tres propuestas económicas solventes.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Cumplido todo lo anterior, la dependencia o entidad elaborará el contrato respectivo, en los términos del artículo 45 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
 
 Para efectos del presente artículo, las garantías serán exigibles en los términos previstos en los artículos 46 y 47 de esta Ley.
 
@@ -913,7 +1039,9 @@ Las proposiciones que presenten los contratistas para la celebración de estos c
 
 III. Mixtos, cuando contengan una parte de los trabajos sobre la base de precios unitarios y otra, a precio alzado.
 
-Las dependencias y entidades podrán incorporar en las bases de licitación las modalidades de contratación que tiendan a garantizar al Estado las mejores condiciones en la ejecución de los trabajos, siempre que con ello no desvirtúen el tipo de contrato que se haya licitado.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Las dependencias y entidades podrán incorporar en las convocatorias a la licitación las modalidades de contratación que tiendan a garantizar al Estado las mejores condiciones en la ejecución de los trabajos, siempre que con ello no desvirtúen el tipo de contrato que se haya licitado.
 
 Los trabajos cuya ejecución comprendan más de un ejercicio presupuestal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, quedando únicamente sujetos a la autorización presupuestal para cada ejercicio.
 
@@ -937,7 +1065,9 @@ V. Domicilio convencional dentro del Estado de Coahuila de Zaragoza para oír y 
 
 VI. El precio a pagar por los trabajos objeto del contrato. En el caso de contratos mixtos, la parte y su monto que será sobre la base de precios unitarios y la que corresponda a precio alzado;
 
-VII. El plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha de inicio y conclusión de los mismos, así como los plazos para verificar la terminación de los trabajos y la elaboración del finiquito referido en el artículo 64 de esta Ley, este último plazo no podrá exceder de sesenta días naturales, los cuales deben ser establecidos de acuerdo con las características, complejidad y magnitud de los trabajos;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+VII. El plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha de inicio y conclusión de los mismos, así como los plazos para verificar la terminación de los trabajos y la elaboración del finiquito referido en el artículo 64 de esta Ley, este último plazo no podrá exceder de sesenta días naturales, los cuales deben ser establecidos de acuerdo con las características, complejidad y magnitud de los trabajos y comunicarse por escrito al licitante, indicando la fecha, lugar y hora para esta actividad;
 
 VIII. Porcentajes, número y fechas de las exhibiciones y amortización de los anticipos que en su caso se otorguen;
 
@@ -955,7 +1085,9 @@ XII. Penalizaciones económicas a cargo de los contratistas que prevean posibles
 
 XIII. Términos en que el contratista, en su caso, reintegrará las cantidades que en cualquier forma, hubiere recibido en exceso por la contratación o durante la ejecución de los trabajos, para lo cual se utilizará el procedimiento establecido en el artículo 55 de esta Ley;
 
-XIV. Procedimiento de ajuste de costos que deberá ser el determinado desde las bases de la licitación por la dependencia o entidad, el cual deberá regir durante la vigencia del contrato;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XIV. Procedimiento de ajuste de costos que deberá ser el determinado desde la convocatoria a la licitación por la dependencia o entidad, el cual deberá regir durante la vigencia del contrato;
 
 XV. Causales y procedimiento mediante los cuales la dependencia o entidad podrá dar por rescindido el contrato en los términos del artículo 61 de esta Ley;
 
@@ -969,17 +1101,19 @@ XVIII. Los procedimientos mediante los cuales las partes, entre sí, resolverán
 
 XIX. La obligación de la persona física o moral que fungirá como contratista, de mantenerse como Contratista Salarialmente Responsable, en tanto dure el contrato, cuando éste haya sido el factor que determinó la adjudicación.
 
-Para los efectos de esta Ley, las bases de licitación, el contrato, sus anexos y la bitácora de los trabajos son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan en el contrato no deberán modificar las condiciones previstas en las bases de licitación.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Para los efectos de esta Ley, las bases de licitación, el contrato, sus anexos y la bitácora de los trabajos son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan en el contrato no deberán modificar las condiciones previstas en las convocatorias a la licitación.
 
 En la formalización de los contratos, podrán utilizarse los medios de comunicación electrónica que al efecto autorice el Órgano de Control.
 
 En la elaboración, control y seguimiento de la bitácora, se podrán utilizar medios remotos de comunicación electrónica, que al efecto autorice el Órgano de Control.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 46.
 
-La adjudicación del contrato obligará al Órgano Ejecutor y a la persona en quien hubiere recaído dicha adjudicación, a formalizar el documento relativo en la fecha que se haya establecido en las bases de la licitación, que no será posterior a los quince días naturales siguientes al de la notificación del fallo. No podrá formalizarse contrato alguno que no se encuentre garantizado de acuerdo con lo dispuesto en el artículo 47 de esta Ley.
+La adjudicación del contrato obligará al Órgano Ejecutor y a la persona en quien hubiere recaído dicha adjudicación, a formalizar el documento relativo en la fecha que se haya establecido en las convocatorias a la licitación, que no será posterior a los quince días naturales siguientes al de la notificación del fallo. No podrá formalizarse contrato alguno que no se encuentre garantizado de acuerdo con lo dispuesto en el artículo 47 de esta Ley.
 
 Si el interesado no firmare el contrato por causas imputables al mismo, en la fecha o plazo establecido en el párrafo anterior será sujeto a lo establecido en los artículos 78 y 79 de esta Ley, no obstante, la dependencia o entidad podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente proposición solvente que resulte económicamente más conveniente para el Estado, de conformidad con lo asentado en el dictamen a que se refiere el artículo 37 de esta Ley, y así sucesivamente en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora, no sea superior al diez por ciento.
 
@@ -987,31 +1121,41 @@ Si el interesado no firmare el contrato por causas imputables al mismo, en la fe
 
 Cuando la proposición ganadora de la licitación haya sido presentada en forma conjunta, el contrato deberá ser firmado por el representante legal de cada una de las participantes, a quienes se considerará, para efectos del procedimiento y del contrato, como responsables solidarios o mancomunados, según se establezca en el propio contrato.
 
-Si la dependencia o entidad no firmare el contrato respectivo o cambia las condiciones de las bases de licitación que motivaran el fallo correspondiente, el licitante ganador, sin incurrir en responsabilidad, no estará obligado a ejecutar los trabajos. En este supuesto, la dependencia o entidad, a solicitud escrita del licitante, cubrirá los gastos no recuperables en que hubiere incurrido para preparar y elaborar su propuesta, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-El contratista a quien se adjudique el contrato, no podrá hacerlo ejecutar por otro; pero, con autorización previa del titular del área responsable de la ejecución de los trabajos en la dependencia o entidad de que se trate, podrá hacerlo respecto de partes del contrato o cuando adquiera materiales o equipos que incluyan su instalación en las obras. Esta autorización previa no se requerirá cuando la dependencia o entidad señale específicamente en las bases de la licitación, las partes de los trabajos que podrán ser objeto de subcontratación. En todo caso, el contratista seguirá siendo el único responsable de la ejecución de los trabajos y de la calidad de estos ante la dependencia o entidad.
+Si la dependencia o entidad no firmare el contrato respectivo o cambia las condiciones de las convocatorias a la licitación que motivaron el fallo correspondiente, el licitante ganador, sin incurrir en responsabilidad, no estará obligado a ejecutar los trabajos. En este supuesto, la dependencia o entidad, a solicitud escrita del licitante, cubrirá los gastos no recuperables en que hubiere incurrido para preparar y elaborar su propuesta, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+El contratista a quien se adjudique el contrato, no podrá hacerlo ejecutar por otro; pero, con autorización previa del titular del área responsable de la ejecución de los trabajos en la dependencia o entidad de que se trate, podrá hacerlo respecto de partes del contrato o cuando adquiera materiales o equipos que incluyan su instalación en las obras. Esta autorización previa no se requerirá cuando la dependencia o entidad señale específicamente en las convocatorias a la licitación, las partes de los trabajos que podrán ser objeto de subcontratación. En todo caso, el contratista seguirá siendo el único responsable de la ejecución de los trabajos y de la calidad de estos ante la dependencia o entidad.
 
 Los derechos y obligaciones que se deriven de los contratos no podrán cederse en forma parcial o total en favor de cualesquiera otra persona, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo caso se deberá contar con el consentimiento de la dependencia o entidad de que se trate.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 47.
 
-Los contratistas que celebren los contratos a que se refiere esta Ley deberán garantizar:
+Los contratistas que celebren los contratos a que se refiere esta Ley deberán garantizar mediante póliza de fianza expedida por institución afianzadora mexicana autorizada conforme a derecho:
 
-I. Los anticipos que, en su caso reciban. Estas garantías deberán constituirse dentro de los quince días naturales siguientes a la fecha de notificación del fallo, o en un período menor contra entrega del anticipo, por la totalidad del monto de los mismos;
+I. Los anticipos que en su caso reciban y correspondan a trabajos que se realicen en el mismo período presupuestario, deberán constituirse en el lugar y fecha establecidos en el contrato, dentro de los quince días naturales siguientes a la fecha de notificación del fallo, o en un período o menor contra entrega del anticipo, por la totalidad del monto de los mismos.
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+II. Los anticipos que en su caso reciban y correspondan a trabajos que se realicen en más de un ejercicio presupuestario, deberán constituirse en el lugar y fecha establecidos en el contrato, dentro de los quince días naturales siguientes a la fecha en la que la dependencia o entidad notifique por escrito al contratista el monto del anticipo que se le otorgará, atendiendo a la inversión autorizada al contrato para el ejercicio de que se trate.
 
-II. El cumplimiento de los contratos. Esta garantía deberá constituirse dentro de los quince días naturales siguientes a la fecha de notificación del fallo, por un mínimo del diez por ciento y hasta un máximo del veinte por ciento del total del contrato.
+III. El cumplimiento de los contratos. Esta garantía deberá constituirse dentro de los quince días naturales siguientes a la fecha de notificación del fallo, por un mínimo del diez por ciento y hasta un máximo del veinte por ciento del total del contrato, y en su caso se hará efectiva por el monto total de la obligación garantizada.
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+IV. La garantía de la calidad de la construcción o del servicio contratado, vicios ocultos y daños y perjuicios que por inobservancia o negligencia de parte del contratista se pudieren causar al Órgano Ejecutor contratante o a terceros, durante un período de 18 meses después de la recepción de los trabajos o servicios objeto del contrato, por el equivalente a un mínimo del diez por ciento y hasta un máximo del veinte por ciento del monto de los trabajos.
 
-III. La garantía de la calidad de la construcción o del servicio contratado, vicios ocultos y daños y perjuicios que por inobservancia o negligencia de parte del contratista se pudieren causar al Órgano Ejecutor contratante o a terceros, durante un período de 18 meses después de la recepción de los trabajos o servicios objeto del contrato, por el equivalente a un mínimo del diez por ciento y hasta un máximo del veinte por ciento del monto de los trabajos.
+Para los efectos de este artículo, los titulares de las dependencias o los órganos de gobierno de las entidades fijarán en las convocatorias a la licitación, la firma y el porcentaje a los que deberán sujetarse las garantías que deban constituirse.
 
-Para los efectos de este artículo, los titulares de las dependencias o los órganos de gobierno de las entidades fijarán las bases, la forma y el porcentaje a los que deberán sujetarse las garantías que deban constituirse.
+En los casos señalados en el artículo 41, fracciones X y XI de esta Ley, así como en el caso de adjudicación directa previsto por el artículo 42 de este ordenamiento, el titular de la dependencia o entidad, bajo su responsabilidad, podrá exceptuar a los contratistas de presentar la garantía del cumplimiento, mediante autorización por escrito, en cuyo caso no deberán aceptarse cargos por el costo de dicho concepto; sin embargo deberá exigirse la garantía de los defectos, vicios ocultos y cualquier otra responsabilidad que resulte, en los términos del artículo 66 de esta Ley.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+Cuando los trabajos se realicen en más de un ejercicio presupuestario, la garantía de cumplimiento deberá sustituirse en el o los siguientes ejercicios en proporción al monto autorizado para el ejercicio presupuestal de que se trate, considerando los trabajos faltantes de ejecutar conforme al programa convenido, actualizando los importes de acuerdo con los ajustes de costos autorizados y las modificaciones contractuales. En estos casos la garantía de cumplimiento sustituta deberá ser entregada a la dependencia o entidad dentro de los 15 días naturales siguientes a la fecha en que el monto de la inversión autorizada se notifique al contratista.
 
-En los casos señalados en el artículo 41, fracciones X y XI de esta Ley, así como en el caso de adjudicación directa previsto por el artículo 42 de este ordenamiento, el titular de la dependencia o entidad, bajo su responsabilidad, podrá exceptuar a los contratistas de presentar la garantía del cumplimiento, mediante la autorización por escrito que en su caso corresponda.
+A petición del contratista, la dependencia o entidad podrá acceder a que no se sustituya la garantía otorgada en el primer ejercicio fiscal, siempre que continúe vigente y su importe mantenga la misma proporción que la del primer ejercicio en relación con el valor actualizado de los trabajos faltantes por ejecutar en cada ejercicio siguiente.
+
+Las dependencias y entidades, una vez cumplidas las obligaciones del contratista a su satisfacción y entregada la garantía de vicios ocultos y daños y perjuicios a que se refiere la fracción III, del presente artículo y cuando los anticipos se encuentren totalmente amortizados procederán inmediatamente a través del servidor público facultado para ello, a:
+
+Levantar el acta administrativa que dé por extinguidos los derechos y obligaciones derivados del contrato, a efecto de que se inicien los trámites para la cancelación de la garantía de cumplimiento del contrato.
 
 ###### Artículo 48.
 
@@ -1145,9 +1289,13 @@ El retraso en el programa de ejecución convenido por falta de pago de estimacio
 
 El retraso en el pago de estimaciones no implica el diferir en igual plazo la fecha de terminación de los trabajos, salvo que lo solicite el contratista y se formalice a través del convenio respectivo. No procederá dicho diferimiento cuando el retraso en el pago derive de causas imputables al contratista.
 
-En los proyectos de infraestructura productiva de largo plazo, la forma de estimar los trabajos y los plazos para su pago deberá establecerse en las bases de licitación y en el contrato correspondiente.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
-Las dependencias y entidades deberán establecer en sus bases de licitación y en los contratos que se celebren al amparo de esta ley, que el pago a contratistas podrá realizarse a través del sistema de factoraje electrónico denominado Cadenas Productivas implementado por el gobierno del estado en coordinación con Nacional Financiera S.N.C.
+En los proyectos de infraestructura productiva de largo plazo, la forma de estimar los trabajos y los plazos para su pago deberá establecerse en las convocatorias a la licitación y en el contrato correspondiente.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Las dependencias y entidades deberán establecer en sus convocatorias a la licitación y en los contratos que se celebren al amparo de esta ley, que el pago a contratistas podrá realizarse a través del sistema de factoraje electrónico denominado Cadenas Productivas implementado por el gobierno del estado en coordinación con Nacional Financiera S.N.C.
 
 ###### Artículo 55.
 
@@ -1229,6 +1377,10 @@ Cuando durante la ejecución de los trabajos se requiera la realización de cant
 
 No será aplicable el porcentaje que se establece en el primer párrafo de este artículo, cuando se trate de contratos cuyos trabajos se refieran al mantenimiento o restauración de los inmuebles a que hace mención el artículo 5° de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, en los que no sea posible determinar el catálogo de conceptos, las cantidades de trabajo, las especificaciones correspondientes o el programa de ejecución.
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Las dependencias y entidades deberán solicitar al contratista, el endoso de la fianza de garantía de cumplimiento del contrato, cuando se lleven a cabo convenios modificatorios o adicionales que impliquen cambios en el plazo o el monto originalmente contratados.
+
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
 ###### Artículo 60.
@@ -1303,13 +1455,15 @@ Determinado el saldo total, la dependencia o entidad pondrá a disposición del 
 
 A la conclusión de las obras públicas, los órganos ejecutores, deberán informar a la Secretaría, solicitando se proceda a registrar en las oficinas de Catastro y del Registro Público de la Propiedad, los títulos de propiedad correspondientes de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las obras públicas y su inclusión en el catálogo e inventario de los bienes y recursos del estado y municipios.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
 ###### Artículo 66.
 
 Concluidos los trabajos, el contratista quedará obligado a responder de los defectos que resultaren en los mismos, de los vicios ocultos y de cualquier otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo y en la legislación aplicable.
 
-Los trabajos se garantizarán durante un plazo de 18 meses por el cumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los trabajos, los contratistas, a su elección, deberán constituir fianza en los términos contenidos en el artículo 47 del presente ordenamiento legal.
+Los trabajos se garantizarán durante un plazo de 18 meses por el cumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los trabajos, los contratistas deberán constituir sus fianzas en los términos contenidos en el artículo 47 del presente ordenamiento legal, mismas que se sujetarán a los términos, plazos y condiciones establecidos en el contrato y son independientes a las penas convencionales a que se refiere la fracción XI, del artículo 45 de esta Ley.
+
+Cuando aparezcan defectos, vicios ocultos o cualquier otra responsabilidad atribuible al contratista en los trabajos realizados dentro del plazo cubierto por la garantía a que se refiere el presente artículo, la dependencia o entidad deberá hacerlo del conocimiento de la afianzadora, a efecto de que ésta no sea cancelada y notificarlo por escrito al contratista, para que éste haga las correcciones o reposiciones correspondientes, dentro de un plazo máximo de treinta días naturales; transcurrido este término sin que se hayan realizado, la dependencia o entidad procederá a hacer efectiva la garantía. Si la reparación requiere de un plazo mayor, las partes podrán convenirlo, debiendo continuar vigente la garantía, el ajuste correspondiente se realizará mediante endoso de la fianza.
 
 Quedarán a salvo los derechos de las dependencias y entidades para exigir el pago de las cantidades no cubiertas de la indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme a este artículo.
 
@@ -1393,9 +1547,11 @@ II. Los Órganos Ejecutores conservarán en forma ordenada y sistemática toda l
 
 III. Las propuestas desechadas durante la licitación pública o invitación a cuando menos tres personas, en el momento de la presentación y apertura de ofertas, deberán ser devueltas a los licitantes, una vez transcurridos treinta días naturales contados a partir de la fecha en que se dé a conocer el fallo respectivo, salvo que exista alguna inconformidad en trámite, en cuyo caso las propuestas deberán conservarse hasta la total conclusión de la inconformidad e instancias subsecuentes; agotados dichos términos la convocante deberá proceder a su devolución o destrucción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 76.
 
-El Órgano de Control, en el ejercicio de sus facultades, podrá verificar, en cualquier tiempo, que las obras públicas y servicios relacionados con las mismas se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables, bases de la licitación, anexos, actas, contratos, fianzas y todos los documentos relacionados con el proceso de contratación. Si el órgano de control determina la nulidad total del procedimiento de contratación por causas imputables a la convocante, la dependencia o entidad reembolsará a los licitantes los gastos no recuperables en que hayan incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
+El Órgano de Control, en el ejercicio de sus facultades, podrá verificar, en cualquier tiempo, que las obras públicas y servicios relacionados con las mismas se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables; convocatorias a la licitación, anexos, actas, contratos, fianzas y todos los documentos relacionados con el proceso de contratación. Si el Órgano de Control determina la nulidad total del procedimiento de contratación por causas imputables a la convocante, la dependencia o entidad reembolsará a los licitantes los gastos no recuperables en que hayan incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
 
 El Órgano de Control, podrá realizar las visitas e inspecciones que estime pertinentes a las dependencias y entidades que realicen obras públicas y servicios relacionados con las mismas, e igualmente podrá solicitar a los servidores públicos y a los contratistas que participen en ellos todos los datos e informes relacionados con los actos de que se trate.
 
@@ -1497,7 +1653,9 @@ Los actos, convenios, contratos y negocios jurídicos que las dependencias y ent
 
 Podrá interponerse inconformidad ante el Órgano de Control por actos del procedimiento de contratación que contravengan las disposiciones que rigen las materias objeto de esta Ley, cuando dichos actos se relacionen con:
 
-I. La convocatoria, las bases de licitación o la junta de aclaraciones, siempre que el interesado haya adquirido las bases y manifestado su objeción, así como los argumentos y razones jurídicas que la funden, en la propia junta de aclaraciones;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
+
+I. La convocatoria a la licitación o la junta de aclaraciones, siempre que el interesado haya adquirido la convocatoria y manifestado su objeción, así como los argumentos y razones jurídicas que la funden, en la propia junta de aclaraciones;
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -1507,7 +1665,9 @@ II. Los actos cometidos durante el acto de presentación y apertura de proposici
 
 III. En este caso, la inconformidad sólo podrá presentarse por el licitante dentro de los diez días hábiles siguientes a la notificación del acto respectivo, o
 
-IV. Los actos y omisiones por parte de la convocante que impidan la formalización del contrato en los términos establecidos en las bases o en esta Ley.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+IV. Los actos y omisiones por parte de la convocante que impidan la formalización del contrato en los términos establecidos en las convocatorias o en esta Ley.
 
 En esta hipótesis, la inconformidad sólo podrá presentarse por quien haya resultado adjudicado, dentro de los diez días hábiles siguientes a aquél en que se hubiere vencido el plazo para la formalización del contrato.
 
@@ -1611,7 +1771,9 @@ El Órgano de Control hará del conocimiento de las dependencias, entidades y de
 
 Para toda obra pública o de servicios relacionados con las mismas que se realicen en total o parte con fondos estatales, las dependencias, entidades y municipios, sólo podrán aceptar proposiciones y celebrar contrato, con las personas físicas y morales inscritas en el Padrón cuyo Certificado de Aptitud esté vigente en la fecha de presentación y apertura de las proposiciones. En el caso de Invitación a cuando menos tres personas solo se invitará a los licitantes que se encuentren inscritos y vigentes a la fecha de inicio del procedimiento de contratación, así mismo en el caso de adjudicación directa.
 
-Para la evaluación de las solicitudes de inscripción o refrendo el Órgano de Control podrá verificar en forma espontánea el domicilio fiscal y las instalaciones del solicitante, así mismo verificar infraestructura, maquinaria, personal capacitado y demás que considere importantes para dicha evaluación. Lo anterior podrá llevarse a cabo durante la evaluación o inclusive posterior a la emisión del Certificado de Aptitud. Si no fuera permitida por el solicitante o su personal, la evaluación antes referida, el tramite será suspendido y en el caso de ser posterior a la emisión del Certificado de Aptitud podrá ser suspendido y en su caso cancelado en el Padrón de Contratistas de la Administración Pública Estatal.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Para la evaluación de las solicitudes de inscripción o refrendo el Órgano de Control deberá verificar en forma programada el domicilio fiscal y las instalaciones del solicitante, así mismo verificar infraestructura, maquinaria, personal capacitado y demás relacionadas con la actividad del solicitante que considere importantes para dicha evaluación, lo que se hará constar mediante el acta correspondiente. Lo anterior podrá llevarse a cabo durante la evaluación o inclusive posterior a la emisión del Certificado de Aptitud. Si no fuera permitida por el solicitante o su personal, la evaluación antes referida, el trámite para la expedición de dicho certificado será cancelado y en el caso de ser posterior a la emisión del Certificado de Aptitud éste deberá ser cancelado y en su caso cancelado en el Padrón de Contratistas de la Administración Pública Estatal.
 
 ###### Artículo 94.
 
@@ -1621,19 +1783,35 @@ I. Solicitarlo en los formatos que, para el efecto, apruebe el Órgano Estatal d
 
 II. Tratándose de sociedades o asociaciones deberán acompañar copia certificada del acta constitutiva y de sus reformas, debidamente inscritas en el Registro Público de la Propiedad, Sección Comercio;
 
-III. Acreditamiento del o los representantes y/o apoderado (s) legal (es);
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+III. Acreditamiento del o los representantes o del o los apoderados legales, así como identificación oficial y su currículum vitae;
 
 IV. Demostrar su solvencia económica y financiera, su experiencia técnica y su capacidad y recursos técnicos, para cumplir los compromisos contractuales con la Administración Pública Estatal en materia de obra pública y servicios relacionados con la Misma.
 
-V. Acreditar haber cumplido con las inscripciones y registros que exigen las disposiciones de orden fiscal o administrativo y Seguridad Social.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-VI. Pagar previamente los derechos establecidos en el ordenamiento correspondiente, y
+V. Acreditar pertenecer a la Cámara Empresarial correspondiente, contar con el Registro del Sistema de Información Empresarial Mexicano Vigente; y haber cumplido con las inscripciones, registros y declaraciones que exigen las disposiciones de orden fiscal o administrativo y Seguridad Social:
 
-VII. Los demás documentos e información que el Órgano de Control considere pertinentes. Las personas físicas deberán acreditarse con su acta de nacimiento, debiendo cumplir con los requisitos de este Artículo, excepto los de las fracciones II y III.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+VI. Acreditar mediante la exhibición de los documentos respectivos, que es productor o comerciante legalmente establecido; así mismo, deberán presentar una relación de las empresas del sector privado y de las dependencia o entidades de los tres órdenes de gobierno, de las cuales sean o hayan sido proveedores.
 
-Las personas interesadas en acreditar su calidad de Contratista Salarialmente Responsable, deberán presentar constancias de declaraciones informativas anuales de naturaleza fiscal, de movimiento de alta o de modificación de sueldo en materia de seguridad social y de pago del Impuesto Sobre la Renta.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+VII. La georreferenciación de los domicilios de las sociedades o asociaciones o personas físicas solicitantes, así como fotografías del interior y exterior de la empresa, negociación o establecimiento comercial.
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+VIII. Pagar previamente los derechos establecidos en el ordenamiento correspondiente, y
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+IX. Los demás documentos e información que el Órgano de Control considere pertinentes.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Las personas físicas deberán acreditarse con su acta de nacimiento e identificación oficial, así mismo deberán exhibir curriculum vitae, debiendo cumplir con los requisitos de este Artículo, excepto los de las fracciones II y III.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1647,9 +1825,11 @@ Además de la revisión documental, la autoridad podrá realizar las consultas q
 
 Las personas interesadas en inscribirse vía electrónica en el padrón, deberán atender los lineamientos que al efecto emita el Órgano de Control.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 95.
 
-Los interesados presentarán su solicitud ante el Órgano de Control, el cual, dentro de un término de veinte días hábiles siguientes al de la presentación de la solicitud, resolverá sobre la inscripción en el padrón. Transcurrido este plazo sin que haya respuesta se tendrá por inscrito al solicitante, debiendo expedir el Órgano de Control, en ese caso, el Certificado de Aptitud. Dicho plazo dará inicio una vez que el solicitante presente todos los requisitos solicitados.
+Los interesados presentarán su solicitud con los documentos señalados en el artículo 94 de esta ley ante el Órgano de Control el cual, dentro de un término de veinte días hábiles siguientes a su presentación, resolverá sobre la inscripción en el padrón, este término podrá prorrogarse por diez días más, debiendo expedir el Órgano de Control, el Certificado de Aptitud.
 
 El Órgano de Control, expedirá al interesado el Certificado de Aptitud que servirá para acreditar su calidad de Contratista o Prestador de Servicios relacionados con la obra pública, legalmente establecido, su existencia si es persona moral y su solvencia económica y capacidad para contratar con las dependencias y entidades de la Administración Pública Estatal, los trabajos de obra pública y los servicios relacionados con las Mismas, en los procesos de contratación en que comparezca.
 
@@ -1665,7 +1845,9 @@ El Certificado de Aptitud deberá estar vigente y será requisito indispensable 
 
 El Registro en el Padrón de Contratistas de la Administración Pública Estatal, y en su caso, la calidad de Contratistas Salarialmente Responsables, tendrá una vigencia anual y podrá revalidarse anualmente siempre y cuando no se incurra en alguna de las causales de suspensión o cancelación.
 
-Los contratistas que tengan interés en continuar inscritos en el Padrón, y en su caso, conservar la calidad de Salarialmente Responsables podrán presentar su solicitud de refrendo ante el Órgano de Control, dentro de los treinta días hábiles anteriores al vencimiento de su Certificado de Aptitud, la cual deberá ser acompañada con la información y documentos complementarios que procedan, en los términos del artículo anterior.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Los contratistas que tengan interés en continuar inscritos en el Padrón, y en su caso, conservar la calidad de Salarialmente Responsables podrán presentar su solicitud de refrendo ante el Órgano de Control, dentro de los treinta días hábiles anteriores al vencimiento de su Certificado de Aptitud, la cual deberá ser acompañada con la información y documentos actualizados y complementarios que procedan, en los términos del artículo anterior.
 
 La inscripción y la revalidación causarán los derechos que establezca la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
 
@@ -1801,7 +1983,9 @@ Establecer en la convocatoria pública o invitación a los licitantes, el requis
 
 Apegarse a la información asentada en la Solicitud de Inscripción en el Padrón de Contratistas de la Administración Pública Estatal, para el acreditamiento: legal, fiscal, laboral, capacidad técnica, capacidad financiera del Contratista y el acreditamiento legal y físico de sus apoderados o representantes legales.
 
-Solamente en los casos en que por la magnitud y complejidad de la obra, la convocante requiera que los licitantes comprueben un capital contable mayor; previa autorización del titular de la dependencia o entidad, deberán señalar en la convocatoria y en las bases de licitación, como requisito; la presentación de Estados Financieros dictaminados para efectos fiscales, por Contador Público autorizado y debidamente acreditado ante la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Solamente en los casos en que por la magnitud y complejidad de la obra, la convocante requiera que los licitantes comprueben un capital contable mayor; previa autorización del titular de la dependencia o entidad, deberán señalar en la convocatoria a la licitación, como requisito; la presentación de Estados Financieros dictaminados para efectos fiscales, por Contador Público autorizado y debidamente acreditado ante la Secretaría de Hacienda y Crédito Público.
 
 ###### Artículo 101.
 
@@ -1924,3 +2108,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Dentro de un plazo de quince días los Órganos de Control Interno de la Administración Pública del Estado y de los Municipios en el ámbito de sus respectivas competencias, deberán expedir el Código de Conducta y en su caso, los formatos de Manifiesto de No Conflicto de Intereses de acuerdo con el presente Decreto.
 
 TERCERO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
+
+P.O. 7 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 782.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; ASÍ COMO TAMBIÉN, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Las disposiciones relativas al uso de la modalidad de subasta electrónica inversa, serán aplicables dentro de los ciento ochenta días después de la entrada en vigor del presente Decreto.
+
+SEGUNDO.- Los proveedores y contratistas inscritos en el padrón de proveedores y padrón de contratistas, deberán actualizar la información y documentación a que se refiere el presente decreto en el término que establezca la autoridad competente.
+
+TERCERO.- La Secretaría de Fiscalización y Rendición de Cuentas, la Secretaría de Infraestructura y Transporte, la Secretaría de Finanzas y demás dependencias competentes, deberán llevar a cabo todas las acciones que resulten necesarias para la implementación de lo establecido en la presente reforma.
+
+CUARTO.- Los procedimientos de contratación que se encuentren en curso a la entrada en vigor del presente decreto, serán tramitados hasta su conclusión de conformidad con las disposiciones vigentes al momento en que fueron iniciados.
+
+QUINTO.- La Secretaría de Fiscalización y Rendición de Cuentas, dentro de los 30 días hábiles siguientes a la publicación de este Decreto, deberá emitir los lineamientos para regular la participación de los testigos sociales.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
