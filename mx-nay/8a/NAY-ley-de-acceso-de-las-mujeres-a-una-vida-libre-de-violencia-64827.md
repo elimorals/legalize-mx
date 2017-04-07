@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2016-10-25"
+last_updated: "2017-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -43,9 +43,13 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAY
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 1.
 
-La presente ley tiene por objeto regular y garantizar el derecho de acceso de las mujeres una vida libre de violencia, sus disposiciones son de orden público y de observancia general en todo el Estado.
+La presente ley tiene por objeto establecer los principios y criterios que, desde la perspectiva de género, orienten las políticas públicas para reconocer, promover, proteger y garantizar el derecho de las mujeres a una vida libre de violencia, así como para prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+
+Sus disposiciones son de orden público, interés social y observancia general en el Estado.
 
 ###### Artículo 2.
 
@@ -57,7 +61,13 @@ Son sujetos de los derechos que establece la presente ley, las mujeres que se en
 
 Todos los mecanismos, medidas, disposiciones y protocolos que surjan o se implementen de la presente ley, buscarán eliminar las diversas modalidades y tipos de la violencia contra las mujeres.
 
-El presente ordenamiento se interpretará de conformidad a los preceptos consagrados en la Constitución de la República, la Constitución Local y los Tratados y Convenciones Internacionales, en materia de Derechos Humanos de las Mujeres suscritos y ratificados por México.
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+Esta ley garantiza a toda mujer, independientemente de clase, raza, grupo étnico, orientación sexual, cultura, educación, edad y religión, los derechos inherentes a la persona humana, siéndoles aseguradas las oportunidades y facilidades para vivir sin violencia, y preservar su salud física y mental.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
+El presente ordenamiento se interpretará de conformidad con los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nayarit y los Tratados y Convenciones Internacionales, en materia de Derechos Humanos de las Mujeres suscritos y ratificados por México.
 
 La aplicación y vigilancia del cumplimiento de esta ley corresponderá al Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia del Estado de Nayarit.
 
@@ -107,15 +117,19 @@ XX. Tipos de Violencia: Las formas en que pueden presentarse cualquiera de las m
 
 XXI. Tolerancia de la Violencia: La acción u omisión permisiva de la sociedad o de las instituciones que favorecen la existencia o permanencia de la violencia, incrementando la prevalencia de la discriminación y violencia de género;
 
-XXII. Violencia de Género: El mecanismo de control social de acción u omisión que se ejerce hacia las mujeres a partir de su género, que causa muerte, daño físico, sexual, psicológico, patrimonial, o económico, tanto en el ámbito público como en el privado; y
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+XXII. Violencia de Género: Toda conducta, acción u omisión, en contra de la mujer, que de manera directa o indirecta, tanto en el ámbito público como en el privado, basada en una relación desigual de poder, afecte su vida, libertad, dignidad, integridad física, psicológica, sexual, económica o patrimonial, como así también su seguridad personal, y
 
 XXIII. Victimización: El impacto psicoemocional de cada tipo y modalidad de la violencia hacia las mujeres.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 5.
 
-Son principios rectores que garantizan el acceso de las mujeres al derecho a una vida libre de violencia en un ambiente adecuado que favorezca el desarrollo y bienestar de las mujeres:
+Para el cumplimiento de los fines de la presente ley deberán de garantizarse los siguientes principios rectores:
 
 I. La no discriminación;
 
@@ -127,21 +141,27 @@ IV. El respeto a la dignidad de las mujeres;
 
 V. El pluralismo social y la multiculturalidad de las mujeres; y
 
-VI. La perspectiva de género que permite incorporar a la mujer como sujeto social.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+VI. La transversalidad y perspectiva de género.
 
 Consecuentemente el Estado y los Municipios implementarán los mecanismos para acelerar el adelanto de las mujeres y la materialización de los principios señalados.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 6.
 
-La Administración Pública Estatal, Municipal, los órganos de procuración y administración de justicia, así como el Congreso del Estado, en el ejercicio de sus atribuciones y funciones asumirán los principios rectores señalados e incorporarán los ejes de acción a la política pública que implementen, buscando en todo momento la armonización normativa y judicial con las convenciones Belém do Pará y la CEDAW.
+La Administración Pública Estatal, Municipal, los órganos de procuración y administración de justicia, así como el Congreso del Estado, en el ejercicio de sus atribuciones y funciones asumirán los principios rectores señalados e incorporarán los ejes de acción a la política pública que permitan asegurar a las mujeres las condiciones para el ejercicio efectivo de los derechos a la vida, a la seguridad, a la salud, a la educación, a la alimentación, a la cultura, a la vivienda, al acceso a la justicia, al deporte, al esparcimiento, al trabajo, a la libertad, a la dignidad y al respeto.
 
 ## TÍTULO SEGUNDO. DE LAS MODALIDADES Y TIPOS DE VIOLENCIA DE GÉNERO
 
 ### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+
 ###### Artículo 7.
 
-La violencia familiar es todo acto de dominio, para intencionalmente someter, controlar o agredir de manera física, verbal, psicoemocional, sexual, patrimonial o económica a las mujeres, dentro o fuera del domicilio familiar realizado por quien tenga vínculo por consanguinidad o haya tenido relación de parentesco por afinidad o civil, por matrimonio, concubinato, mantengan o hayan mantenido una relación de hecho.
+La violencia familiar es todo acto de dominio, para intencionalmente someter, controlar o agredir de manera física, verbal, psicoemocional, sexual, patrimonial o económica a las mujeres, dentro o fuera del domicilio familiar realizado por quien tenga vínculo por consanguinidad o haya tenido relación de parentesco por afinidad o civil, por matrimonio, concubinato, noviazgo, mantengan o hayan mantenido una relación de hecho.
 
 ###### Artículo 8.
 
@@ -221,7 +241,7 @@ La violencia institucional son las acciones u omisiones de los servidores públi
 
 Se considerará violencia institucional:
 
-l. La denegación de justicia, completa, pronta e imparcial;
+I. La denegación de justicia, completa, pronta e imparcial;
 
 II. La omisión de aviso a la autoridad que corresponda sobre actos de violencia consagrados en la presente ley, y;
 
@@ -405,7 +425,9 @@ I. Modelos y modalidades psicoterapéuticas que no fomenten el control o ejercic
 
 II. Diseñar modelos de abordaje terapéuticos que consideren la victimización temporal que eviten la condición terciaria;
 
-III. La asistencia jurídica gratuita, para las mujeres, en materia de derecho familiar, penal y administrativa;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+III. La asistencia jurídica, integral y oportuna, para las mujeres, que padecen cualquier tipo de violencia, asegurándoles el acceso gratuito, rápido, transparente y eficaz a los servicios creados para tal fin.
 
 IV. Orientarse hacia la obtención de la reparación del daño material y moral; y
 
@@ -419,7 +441,7 @@ La atención de quien genera violencia familiar, se efectuará como una estrateg
 
 Sólo se podrá prestar atención especializada a quien ejerza, provoque o genere violencia familiar con los siguientes lineamientos:
 
-l. El modelo psicoterapéutico que se implemente será registrado y validado por dos instituciones públicas o privadas, en cuanto a su efectividad y contenidos, el refrendo del mismo se realizará semestralmente;
+I. El modelo psicoterapéutico que se implemente será registrado y validado por dos instituciones públicas o privadas, en cuanto a su efectividad y contenidos, el refrendo del mismo se realizará semestralmente;
 
 II. Contar con una institución pública o privada reconocida, que funja como supervisor clínico de los profesionales que proporcionan el apoyo psicoterapéutico.
 
@@ -427,7 +449,7 @@ II. Contar con una institución pública o privada reconocida, que funja como su
 
 La atención de la violencia laboral y docente, en el Estado y los Municipios, impulsará:
 
-l. Establecer convenios con el sector público y privado para la eliminación de prácticas discriminatorias;
+I. Establecer convenios con el sector público y privado para la eliminación de prácticas discriminatorias;
 
 II. Monitorear permanentemente las actividades laborales y educativas en coordinación con las autoridades federales y estatales;
 
@@ -485,7 +507,13 @@ II.- Detección de factores de riesgo y las circunstancias en las que se present
 
 III.- Intervención temprana y mediata en determinadas modalidades y tipos de la violencia;
 
-IV.- Capacitación psicológica y jurídica transversal a los servidores públicos del Estado y Municipios, en particular sobre detección de factores de riesgo anualmente; y
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+IV.- Capacitación permanente psicológica y jurídica transversal a los servidores públicos del Estado y Municipios, que se impartirán de manera integral y específica según su área de actuación, en particular sobre detección de factores de riesgo anualmente; y
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+V.- Realizar campañas de educación y capacitación orientadas a la comunidad para informar, concientizar y prevenir la violencia contra las mujeres en los ámbitos en que desarrollen sus relaciones interpersonales.
 
 La identificación de los factores protectores por cada uno de los tipos de victimización, a partir del impacto que genera la violencia de género, se integrarán a los modelos preventivos de detección. Sin perjuicio de las estrategias de difusión y visibilización de la violencia de género y consecuencias individuales y colectivas.
 
@@ -721,7 +749,7 @@ Las facultades antes señaladas serán desempeñadas a través de las Dependenci
 
 Corresponde a la Secretaría General de Gobierno desempeñar las siguientes facultades:
 
-l. Diseñar la política integral con perspectiva de género, para promover la cultura del respeto a los derechos de las mujeres;
+I. Diseñar la política integral con perspectiva de género, para promover la cultura del respeto a los derechos de las mujeres;
 
 II. Elaborar el programa estatal con sus ejes de acción y atendiendo a sus principios rectores, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres conjuntamente con las autoridades integrantes del sistema estatal;
 
@@ -787,7 +815,7 @@ XII. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Salud, las siguientes funciones:
 
-l. Diseñar la política de salud para la prevención, atención y erradicación de la violencia contra las mujeres con perspectiva de género;
+I. Diseñar la política de salud para la prevención, atención y erradicación de la violencia contra las mujeres con perspectiva de género;
 
 II. Participar en la elaboración del programa estatal para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en coordinación con las autoridades integrantes del sistema estatal;
 
@@ -797,7 +825,9 @@ IV. Proporcionar atención médica con perspectiva de género a las mujeres víc
 
 V. Establecer programas de capacitación anual para el personal del sector salud, respecto de la violencia contra las mujeres, garantizando la atención a las víctimas;
 
-VI. Aplicar la Norma Oficial Mexicana NOM-190-SSA1-1999, PRESTACION DE SERVICIOS DE SALUD. CRITERIOS PARA LA ATENCION MÉDICA DE LA VIOLENCIA FAMILIAR;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
+
+VI. Aplicar la Norma Oficial Mexicana NOM-046-SSA2-2005. Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención.
 
 VII. Apoyar a las autoridades e instituciones estatales encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando en su caso, los apoyos técnicos y profesionales y la información estadística que se requiera para tal efecto;
 
@@ -843,7 +873,7 @@ XII.- Las demás previstas para el cumplimiento de la presente ley.
 
 Corresponde a la Dirección General de Seguridad Pública:
 
-l. Diseñar la política en materia de seguridad pública para la prevención, atención y erradicación de la violencia contra las mujeres con perspectiva de género;
+I. Diseñar la política en materia de seguridad pública para la prevención, atención y erradicación de la violencia contra las mujeres con perspectiva de género;
 
 II. Participar en la elaboración del programa estatal para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en coordinación, con las autoridades integrantes del sistema estatal;
 
@@ -972,3 +1002,9 @@ P.O. 25 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT".]
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 7 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT".]
+
+Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
