@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "2016-10-11"
+last_updated: "2017-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -453,9 +451,11 @@ XXIX. Las demás atribuciones que le otorguen la presente Ley y otras disposicio
 
 El Catastro Municipal, en el cumplimiento de sus atribuciones, observará las normas técnicas y reglamentarias que al efecto se expidan.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2017)</small>
+
 ###### Artículo 15.
 
-La autoridad catastral aplicará las clasificaciones existentes hasta que el Congreso del Estado defina los límites de un centro de población. Una vez que éstos sean aprobados, la autoridad catastral en su caso procederá a su actualización, observando las definiciones y criterios de la Ley de Desarrollo Urbano del Estado de Jalisco.
+La autoridad catastral aplicará las clasificaciones existentes hasta que el Congreso del Estado defina los límites de un centro de población. Una vez que éstos sean aprobados, la autoridad catastral en su caso procederá a su actualización, observando las definiciones y criterios del Código Urbano para el Estado de Jalisco.
 
 ###### Artículo 16.
 
@@ -765,7 +765,9 @@ Las personas físicas o jurídicas que obtengan la autorización para urbanizar 
 
 I. Copia del oficio de la autorización otorgada por el ayuntamiento en que esté ubicado el predio;
 
-II. La información contenida en el Proyecto Definitivo de Urbanización, previsto en la Ley de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2017)</small>
+
+II. La información contenida en el Proyecto Definitivo de Urbanización, previsto en el Código Urbano para el Estado de Jalisco;
 
 III. Comprobante de que se está al corriente en el pago del impuesto predial de la cuenta en que esté registrado el predio, actualizado al bimestre de la fecha de recepción de obras, de la autorización para vender, o de cuando se oferten los predios o fincas en venta, preventa, apartado u otros actos de enajenación;
 
@@ -1470,3 +1472,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26313/LXI/17 QUE REFORMA LOS ARTÍCULOS 15 Y 44, FRACCIÓN II, DE LA LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
