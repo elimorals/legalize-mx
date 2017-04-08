@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-estado-de-chihuahua-para-el-ejercicio-11778
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2017-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL 2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 31 de diciembre de 2016.
 
@@ -677,17 +677,25 @@ Los derechos que se causen por la prestación de los servicios que realice la Di
 
 Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta 50 centavos se ajusten a la unidad inmediata anterior, y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO NOVENO.
 
-Los derechos que se causen por la prestación de los servicios que realice la Dirección de División de Vialidad y Tránsito por concepto de Derecho de Control Vehicular deberán pagarse dentro de los primeros tres meses del año 2017.
+Los derechos que se causen por la prestación de los servicios que realice la Dirección de División de Vialidad y Tránsito, por concepto de Derecho de Control Vehicular, deberán pagarse dentro de los primeros cuatro meses del año 2017.
 
-Se autoriza a la Secretaría de Hacienda para que otorgue a los contribuyentes que realicen el pago en los términos establecidos en el párrafo anterior y estén al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos, en derecho de control vehicular e infracciones impuestas por las autoridades de tránsito, así como tener licencia de conducir vigente; los estímulos fiscales sobre los derechos establecidos en el Apartado IX, numeral 5 de la Tarifa de Derechos anexa a esta Ley las cantidades que a continuación se señalan, respectivamente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2017)</small>
+
+Se autoriza a la Secretaría de Hacienda, para que otorgue a los contribuyentes que realicen el pago en los términos establecidos en el párrafo anterior y que estén al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos, en derecho de control vehicular e infracciones impuestas por las autoridades de tránsito, y que cuenten con licencia de conducir vigente; los estímulos fiscales sobre los derechos establecidos en el Apartado IX, del numeral 5, de la Tarifa de Derechos anexa a esta Ley, consistentes en la aplicación de las cantidades que a continuación se señalan, respectivamente:
 
 a) En el mes de enero un estímulo de $700.00
 
 b) En el mes de febrero un estímulo de $600.00
 
 c) En el mes de marzo un estímulo de $500.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2017)</small>
+
+d) En el mes de abril un estímulo de $500.00
 
 Los contribuyentes que no cumplan con los requisitos del presente artículo deberán pagar el costo de los derechos respectivos que establece la Tarifa para el Cobro de Derechos que forma parte integrante de la presente Ley.
 
@@ -4416,3 +4424,13 @@ cada uno. 12.13
 1.6 Disco DVD grabable (DVD_+R),
 
 cada uno. 16.68
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLIE/0309/2017 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO NOVENO DE LA LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA, PARA EL EJERCICIO FISCAL 2017”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para aquellos contribuyentes que hayan pagado el derecho de control vehicular establecido en el apartado IX, numeral 5 de la tarifa de derechos anexa a la Ley de Ingresos del Estado de Chihuahua, para el Ejercicio Fiscal 2017, dentro del periodo que comprende del primero de abril de 2017 a la fecha de entrada en vigor a que se refiere el Artículo Primero Transitorio que antecede, podrán solicitar la devolución de la cantidad que resulte como diferencia entre el monto pagado en dicho periodo y el que se hubiese pagado de haberse aplicado el estímulo que por este Decreto se autoriza para el mes de abril de 2017.
