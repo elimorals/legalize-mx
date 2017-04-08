@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2017-03-08"
+last_updated: "2017-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -573,7 +573,9 @@ XVII. Otorgar concesiones o contratar la prestación de servicios públicos;
 
 XVIII. Asignar los ramos de su administración a comisiones integradas por uno o más regidores;
 
-XIX. Designar a los titulares de la Secretaría del Ayuntamiento y Contraloría Municipal a propuesta del presidente municipal;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2017)</small>
+
+XIX. Designar a los titulares de la Secretaría del Ayuntamiento, Contraloría Municipal, y al Director de Seguridad Pública, a propuesta del Presidente Municipal.
 
 XX. Participar en el ámbito de su competencia en los términos de las leyes federales y estatales de la materia, y en coordinación con la federación y el Estado, en la planeación y regulación del desarrollo de los centros urbanos involucrados en los procesos de conurbación;
 
@@ -1277,7 +1279,9 @@ XIV. Cumplir y hacer cumplir, dentro de su competencia, las disposiciones conten
 
 XV. Tener el mando de la fuerza pública municipal, con las restricciones señaladas en esta y otras leyes;
 
-XVI. Para el cumplimiento de sus facultades y obligaciones, el presidente municipal se auxiliará de los órganos administrativos que esta Ley establece, y tendrá la facultad de nombrar y remover libremente a sus titulares y demás servidores públicos con las excepciones que ésta y otras leyes señalan;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2017)</small>
+
+XVI. Para el cumplimiento de sus facultades y obligaciones, el Presidente Municipal se auxiliará de los órganos administrativos que esta Ley establece, y tendrá la facultad de nombrar y remover libremente a sus titulares y demás servidores públicos, salvo los casos de la Secretaría del Ayuntamiento, la Contraloría Municipal y la Dirección de Seguridad Pública, cuyos titulares serán nombrados por el Cabildo, o el Concejo Municipal en su caso, a propuesta del Presidente Municipal. Las excepciones previstas en el párrafo anterior no restringen la facultad del presidente municipal para la remoción de dichos servidores, en su caso;
 
 XVII. (DEROGADA, P.O. 2 DE JULIO DE 2014)
 
@@ -1869,17 +1873,23 @@ Atento a lo señalado en el artículo anterior, los ayuntamientos en los términ
 
 Asimismo, los municipios podrán celebrar convenios con el Estado sobre la organización, funcionamiento y dirección técnica de los cuerpos de seguridad pública, policía preventiva y tránsito, o la prestación directa o coordinada, de éste último servicio por parte del Estado, si así se considera conveniente, para su eficaz prestación.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2017)</small>
+
 ###### Artículo 89.
 
-Los presidentes municipales o primeros concejales municipales, serán los jefes superiores de los cuerpos de seguridad pública, policía preventiva municipal y tránsito y designarán a los directores de dichos cuerpos en los términos de las leyes y reglamentos que resulten aplicables.
+Los presidentes municipales o primeros concejales municipales, serán los jefes de los cuerpos de seguridad pública, policía preventiva y tránsito, teniendo la facultad de nombrar directamente al Director de Tránsito y proponer al Cabildo, o al Concejo Municipal en su caso, el nombramiento del titular de la Dirección de Seguridad Pública, en los términos de la presente Ley y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 90.
 
 La policía preventiva municipal acatará las órdenes que el gobernador del Estado le transmita por conducto del presidente o en su caso del primer concejal, en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2017)</small>
+
 ###### Artículo 91.
 
-Los directores y los demás integrantes de los cuerpos de seguridad pública, policía preventiva y tránsito y de bomberos serán designados preferentemente de los egresados de los centros de capacitación o colegios que la Secretaría de Seguridad Pública tenga funcionando. Al personal que ingrese por otro conducto, se le deberá dar la capacitación necesaria para el mejor desempeño de sus funciones.
+Para ser designado Director de Seguridad Pública se requiere ser ciudadano mexicano por nacimiento, en pleno ejercicio (sic) sus derechos políticos y civiles y no tener otra nacionalidad, tener cuando menos treinta y cinco años cumplidos el día de la designación, tener reconocida buena conducta y no haber sido sentenciado por delito doloso o inhabilitado como servidor público, ni estar sujeto a proceso penal, comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública, así como previamente haber acreditado la prueba de confianza y demás señaladas por el Sistema Nacional de Seguridad Pública. El nombramiento de Director de Seguridad Pública, deberá ser aprobado por los integrantes del Cabildo correspondiente.
+
+Los demás integrantes de los cuerpos de seguridad pública y policía preventiva serán designados preferentemente de entre los egresados de los centros de capacitación, Institutos o colegios que la Secretaría de Seguridad Pública tenga funcionando atendiendo al contenido del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y del artículo 6 de la Ley General del Sistema Nacional de Seguridad pública.
 
 ###### Artículo 92.
 
@@ -3928,3 +3938,11 @@ Las disposiciones en materia de equilibrio presupuestario y responsabilidad hace
 ###### ARTÍCULO QUINTO.
 
 Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y III del Título Primero de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero del Decreto por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado el 27 de abril de 2016 en el Diario Oficial de la Federación; y los que apliquen de acuerdo al artículo 21 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+P.O. 8 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 084 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 29, FRACCIÓN XIX, 65, FRACCIÓN XVI, 89 Y 91, TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente decreto.
