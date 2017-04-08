@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2016-12-31"
+last_updated: "2017-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -70,9 +70,13 @@ Las participaciones Federales y Estatales que correspondan a los municipios en l
 
 ### CAPÍTULO III. De las participaciones Federales y Estatales a los municipios
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+###### Artículo 4º.
+
+El Fondo Municipal de Participaciones se integrará con los recursos que perciba el Estado procedentes del Fondo General de Participaciones, de la recaudación del Impuesto Especial sobre Producción y Servicios y del Impuesto sobre Automóviles Nuevos, así mismo del Fondo de Fomento Municipal, en los términos de la Ley Federal de Coordinación Fiscal, por los ingresos estatales derivados de los Impuestos sobre Nóminas, y Hospedaje.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 4°.
 
@@ -88,9 +92,7 @@ I. El 22% del total de las percepciones que obtenga el Estado correspondientes a
 
 II. El 100% de lo que reciba el estado del fondo de fomento municipal en forma directa;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
-
-III. El 22% del importe que perciba en forma directa por concepto de Participaciones federales del Impuesto Sobre Tenencia o Uso de Vehículos;
+III. (DEROGADA, P.O. 8 DE ABRIL DE 2017)
 
 IV. El 22% del importe que perciba por concepto de participaciones del impuesto especial sobre producción y servicios;
 
@@ -583,3 +585,11 @@ P.O. 31 DE DICIEMBRE DE 2016.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", salvo lo previsto en el transitorio siguiente:
 
 SEGUNDO. Las reformas a los incisos a) y b) de la fracción II del artículo 9 de la Ley de Coordinación Fiscal del Estado de Jalisco con sus Municipios, entrarán en vigor a partir del 1 de enero de 2017.
+
+P.O. 8 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26311/LXI/17 QUE REFORMA LOS ARTÍCULOS 4º Y 5º LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS”.]
+
+PRIMERO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
+
+SEGUNDO. En tanto existan adeudos de particulares en materia de Impuesto de Tenencia o Uso de Vehículos, de ejercicios fiscales anteriores al 2010, se aplicarán las disposiciones previstas en los artículos 4 y 5 anteriores a la entrada en vigor del presente decreto.
