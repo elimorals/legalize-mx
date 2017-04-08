@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2016-12-24"
+last_updated: "2017-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -5563,6 +5563,12 @@ TERCERO.- En el ejercicio fiscal 2015, el plazo señalado en el Artículo 41 Z B
 
 CUARTO.- En el ejercicio fiscal 2015, el plazo señalado en el Artículo 53, fracción IV, Segundo párrafo, de la Ley de Hacienda del Estado de Colima, para el pago del derecho por la renovación anual de la calcomanía fiscal vehicular se amplía hasta el día 30 de abril del mismo año.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2017)</small>
+
+QUINTO.- Los sujetos obligados al pago del derecho por las revalidaciones anuales de concesiones y permisos del servicio de transporte público previstos en el artículo 55 B, fracción IV, incisos de la a) a la j), correspondiente al ejercicio fiscal 2017, deberán efectuarlo a más tardar el 31 de mayo de 2017, gozando de la condonación al 100% de los recargos y multas que se hayan generado.
+
+Por lo que respecta al pago del derecho por las revalidaciones anuales de concesiones y permisos del servicio de transporte público, correspondiente a los ejercicios fiscales 2016 y anteriores, que sea cubierto por los contribuyentes a más tardar el 31 de mayo de 2017, éstos gozarán de la condonación al 100% de los recargos y multas que se hayan generado.
+
 El Gobernador Constitucional del Estado dispondrá se publique, circule y observe.
 
 La Comisión que suscribe solicita atentamente que, de ser aprobado el presente dictamen, se expidan los decretos correspondientes
@@ -6258,3 +6264,9 @@ P.O. 24 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 182 POR EL QUE SE REFORMA EL ARTÍCULO 57 FRACCIÓN XIV, EN SUS INCISOS A), B), C) Y D), DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 8 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 284 POR EL QUE SE APRUEBA AMPLIAR EL PLAZO PARA LA REVALIDACIÓN ANUAL DE LAS CONCESIONES O PERMISOS DEL SERVICIO PÚBLICO DE TRANSPORTE, EN SUS DISTINTAS MODALIDADES".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima"
