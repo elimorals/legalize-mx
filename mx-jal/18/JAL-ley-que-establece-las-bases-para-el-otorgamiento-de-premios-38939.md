@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-389
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-27"
-last_updated: "2017-03-16"
+last_updated: "2017-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 27 de diciembre de 2003.
 
@@ -277,9 +277,9 @@ VII. Condecoración "José María Vigil": a las personas que se distingan en Bib
 
 VIII. Condecoración "Al Merito Deportivo": a los jaliscienses que se distingan como deportistas destacados y se hayan hecho acreedores a la admiración, respeto y reconocimiento por causa de la proyección deportiva que realicen o hayan realizado por la misma población de Jalisco.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2017)</small>
 
-IX. Condecoración "Fray Antonio Alcalde": a las personas físicas o jurídicas que se distingan por ser benefactoras sociales humanitarias, o se destaquen en la defensa de los derechos humanos;
+IX. Condecoración "Fray Antonio Alcalde", a las personas físicas o jurídicas que se distingan por ser benefactoras sociales humanitarias;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2017)</small>
 
@@ -289,9 +289,9 @@ X. Condecoración "Salvador López Chávez": a las personas físicas o jurídica
 
 XI. Condecoración "Mariano Bárcena y Ramos": a quien se haya destacado en la labor científica y tecnológica;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2017)</small>
 
-XII. Condecoración "Guillermo González Camarena": a jóvenes que se hayan distinguido por su labor en el campo de la innovación, ciencia y tecnología; y
+XII. Condecoración "Guillermo González Camarena", a personas que se hayan distinguido por su labor en el campo de la innovación, ciencia y tecnología;
 
 > <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -303,7 +303,13 @@ b) Narrativa;
 
 c) Dramaturgia; y
 
-d) Ensayo literario.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2017)</small>
+
+d) Ensayo literario; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2017)</small>
+
+XIV. Condecoración "Francisco Tenamaxtli", a quien se haya destacado en la promoción efectiva y defensa de los derechos humanos.
 
 ###### Artículo 20.
 
@@ -351,7 +357,7 @@ VI. Las situaciones no previstas en la presente ley serán resueltas por acuerdo
 
 ###### Artículo 21.
 
-Las comisiones señaladas en el artículo anterior podrán allegarse todos (sic) los medios de convicción necesarios a efecto de dictaminar sobre los méritos de los candidatos.
+Las comisiones señaladas en el artículo anterior podrán allegarse (sic) todos los medios de convicción necesarios a efecto de dictaminar sobre los méritos de los candidatos.
 
 En todo momento, las Comisiones de Educación, de Cultura y de Ciencia y Tecnología, mediante acuerdo interno, tendrá la facultad de solicitar los informes que juzgue oportunos a toda clase de autoridades e instituciones públicas o privadas, así como copias certificadas de los documentos que obren en oficinas y archivos públicos.
 
@@ -451,7 +457,7 @@ P.O. 8 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
-P.O. 25 DE JUNIO DE 2016
+P.O. 25 DE JUNIO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25845/LXI/2016 QUE REFORMA LOS ARTÍCULOS 9, 10, 17, 18 Y 19 DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO”.]
 
@@ -459,6 +465,12 @@ P.O. 25 DE JUNIO DE 2016
 
 P.O. 16 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26302/LXI/17 QUE REFORMA LOS ARTÍCULOS 19 Y 20 DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26302/LXI/17 QUE REFORMA LOS ARTÍCULOS 19 Y 20 DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 8 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26312/LXI/17 QUE REFORMA EL ARTÍCULO 19 DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
