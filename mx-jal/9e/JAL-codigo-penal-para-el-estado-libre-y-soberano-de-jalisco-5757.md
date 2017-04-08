@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2017-04-04"
+last_updated: "2017-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -590,6 +590,26 @@ El trabajo en prisión consiste en la prestación de servicios remunerados, en e
 ###### Art. 30.
 
 La pena de prisión produce la suspensión de los derechos políticos, así como los de tutela, curatela, apoderado, defensor, albacea, perito, depositario, interventor, síndico o representante de ausentes, y dejará de surtir sus efectos al momento en que la autoridad ejecutora dé por cumplida la referida pena de prisión, sea por compurgación total o por obtención de beneficios, y se informará de ello, mediante oficio, a las autoridades que hayan tenido conocimiento de tal situación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2017)</small>
+
+Inmediatamente después de dictar auto de libertad, el juez informará del hecho a los titulares de la Fiscalía General, del Instituto Jalisciense de Ciencias Forenses y demás autoridades que corresponda, con la finalidad de restituir los derechos suspendidos en los términos del párrafo anterior y cancelar el registro para efectos de la emisión de la constancia de antecedentes penales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE ABRIL DE 2017)</small>
+
+Tratándose de sentencias por los delitos graves no procederá cancelación alguna.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2017)</small>
+
+Art. 30 bis. La constancia relativa a los antecedentes penales sólo se podrá extender en los siguientes supuestos:
+
+I. Cuando la soliciten las autoridades administrativas y judiciales competentes, para fines de investigación criminal, procesales o por requerimiento de autoridad judicial;
+
+II. Cuando sea solicitada por ser necesaria para ejercitar un derecho o cumplir un deber legalmente previstos; y
+
+III. En los casos específicos en los que la normatividad lo establezca como requisito para desempeñar un empleo, cargo o comisión en el servicio público, o bien para el ingreso a instituciones de seguridad pública o privada, así como cuando por la naturaleza del empleo o por razones de interés público se considere exigible.
+
+Dicha constancia será una compulsa de la ficha signalética.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -3209,7 +3229,7 @@ El responsable de alguno de los delitos señalados en este artículo perderá el
 
 ### CAPITULO VIII. Abandono de familiares
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2017)</small>
 
 ###### Art. 178.
 
@@ -3285,7 +3305,9 @@ Se impondrán de quince días a dos años de prisión al hombre o mujer que teng
 
 ###### Art. 183.
 
-A la persona que sin causa justificada incumpla con la obligación de dar alimentos a aquellos que tienen derecho a recibirlos, se le impondrá pena de seis meses a cuatro años de prisión y multa de cien a cuatrocientos días, suspensión o pérdida de la tutela o custodia en caso de ser titular de este derecho respecto de su acreedor alimentario, y pago como reparación del daño de las cantidades no suministradas oportunamente, mismas que deberán ser garantizadas por medio del depósito en cualquiera de las formas señaladas por la ley.
+A la persona que sin causa justificada incumpla con la obligación de dar alimentos a aquellos que tienen derecho a recibirlos, se le impondrá pena de seis meses a cuatro años de prisión y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización, suspensión o pérdida de la tutela o custodia en caso de ser titular de este derecho respecto de su acreedor alimentario, y pago como reparación del daño de las cantidades no suministradas oportunamente, mismas que deberán ser garantizadas por medio del depósito en cualquiera de las formas señaladas por la ley.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
 Para los efectos de este artículo, se tendrá por consumado el delito aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban la ayuda de un tercero.
 
@@ -3309,13 +3331,13 @@ Art. 183 C. Si la omisión en el cumplimiento de las obligaciones alimentarias, 
 
 Los delitos a que se refieren los artículos anteriores se perseguirán por querella de la parte ofendida, de sus familiares consanguíneos o de cualquier persona física o jurídica que de hecho tenga a su cuidado al ofendido.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2017)</small>
+
 ###### Art. 185.
 
-Para que el perdón concedido por el ofendido o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiese dejado de ministrar por concepto de alimentos, en los términos de la Ley Civil.
+Para que el perdón concedido por el ofendido o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiese dejado de ministrar por concepto de alimentos en los términos que señala el Código Civil del Estado de Jalisco.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
-
-Art. 185 A. Para que el perdón concedido por el ofendido o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiese dejado de ministrar por concepto de alimentos, en los términos que señala el Código Civil del estado de Jalisco; el pago de todas las cantidades deberá ser garantizado por medio del depósito en cualquiera de las formas señaladas por la ley.
+Art. 185 A. (DEROGADO, P.O. 8 DE ABRIL DE 2017)
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
@@ -5903,7 +5925,7 @@ SEXTO. La constitución de la Comisión Interinstitucional deberá realizarse en
 
 La Comisión Interinstitucional deberá aprobar en un plazo máximo de sesenta días naturales a partir de su constitución el Programa Estatal para Prevenir, Combatir y Erradicar la Trata de personas y remitir a la Secretaria General de Gobierno para su publicación.
 
-P.O. 8 DE SEPTIEMBRE DE 2012.
+P.O. 8 DE SEPTIEMBRE DE. 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -6219,6 +6241,18 @@ P.O. 4 DE MARZO DE 2017.
 
 P.O. 4 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26318/LXI/17 QUE REFORMA LOS ARTÍCULOS 29 Y 232 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26318/LXI/17 QUE REFORMA LOS ARTÍCULOS 29 Y 232 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26314/LXI/17 QUE REFORMA EL ARTÍCULO 30 Y SE ADICIONA EL ARTÍCULO 30- BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26315/LXI/17 QUE REFORMAN LOS ARTÍCULOS 183 Y 185 Y DEROGA EL ARTÍCULO 185-A DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
