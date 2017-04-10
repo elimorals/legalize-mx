@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-tribunal-electoral-del-estado-de-hidalgo-10497
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-22"
-last_updated: "2014-12-22"
+last_updated: "2017-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -505,9 +505,11 @@ III. No haber sido condenado por delito doloso que merezca pena privativa de lib
 
 Durante el periodo de su encargo, los Magistrados no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación del Tribunal, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
+
 ###### Artículo 37.
 
-Concluido su encargo, los Magistrados no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un periodo equivalente a una cuarta parte del tiempo que hayan ejercido el cargo.
+Concluido su encargo, las y los Magistrados no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, dentro de los dos años siguientes a la conclusión de su encargo.
 
 ###### Artículo 38.
 
@@ -534,3 +536,11 @@ PRESIDENTE, DIP. ISMAEL GADOTH TAPIA BENITEZ.- RÚBRICA; SECRETARIA DIP. MA. EUG
 EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS DIECIOCHO DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL CATORCE. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 174 POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
