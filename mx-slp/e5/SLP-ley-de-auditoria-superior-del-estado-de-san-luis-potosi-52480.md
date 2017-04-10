@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2016-09-17"
+last_updated: "2017-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 10 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2017 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -34,6 +36,8 @@ DECRETO 499
 LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI DECRETA LO SIGUIENTE:
 
 EXPOSICION DE MOTIVOS
+
+[...]
 
 LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
@@ -1422,3 +1426,31 @@ P.O. 17 DE SEPTIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará, en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0602.- LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la Ley del Sistema Estatal Anticorrupción, de la Ley de Responsabilidades Administrativas del Estado y Municipios de San Luis Potosí y de las nuevas facultades del Tribunal Estatal de Justicia Administrativa, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
+
+TERCERO. Se abroga la Ley de Auditoría Superior del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 30 de mayo de 2006, conforme a lo dispuesto en los artículos transitorios subsecuentes; y se derogan todas las disposiciones legales que contravengan o se opongan a la presente Ley.
+
+CUARTO. Los procedimientos administrativos iniciados de conformidad con la Ley de Auditoría Superior del Estado de San Luis Potosí que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley de Auditoría Superior del Estado de San Luis Potosí que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta Pública del año 2016.
+
+QUINTO. Las funciones de fiscalización y revisión de la Auditoría Superior del Estado previstas en la presente Ley entrarán en vigor a partir de la revisión de la Cuenta Pública del año 2017.
+
+SEXTO. Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores, entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, por lo que hace a las atribuciones de la Comisión de Vigilancia como de la Unidad de Evaluación y Control, deberá actualizar su reglamentación interna conforme a lo previsto en esta Ley en un plazo no mayor a 180 días hábiles contados a partir de la vigencia del presente Decreto.
+
+OCTAVO. La Unidad de Evaluación y Control entrará en funciones a partir del ejercicio fiscal 2018, a fin de que el Congreso del Estado y la Auditoría Superior del Estado realicen las adecuaciones a sus respectivos presupuestos.
+
+NOVENO. La Auditoría Superior del Estado deberá expedir su Reglamento Interno así como actualizar y, en su caso, publicar la normatividad que conforme a sus atribuciones deba expedir, en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
+
+DÉCIMO. Las referencias hechas en esta Ley a la Fiscalía General del Estado, se entenderán hechas a la Procuraduría General de Justicia del Estado, en tanto se llevan a cabo las reformas conducentes a la Ley Orgánica de esa dependencia y a las demás leyes que corresponda.
+
+DÉCIMO PRIMERO. El Congreso del Estado tendrá treinta (sic) contados a partir de la Publicación del presente Decreto en el Periódico Oficial del Estado, “Plan de San Luis”, para elegir al Contralor Interno de la Auditoría Superior del Estado.
+
+En tanto se de la elección del contralor interno de la Auditoría Superior del Estado, la Comisión designará de forma transitoria a la persona que se encargará de la entrega-recepción y el desahogo de los asuntos de competencia de la misma.
