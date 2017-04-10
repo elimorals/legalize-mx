@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-administrativa-del-estado-de-san-luis-potosi-16
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2015-04-25"
+last_updated: "2017-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ Y DEL CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADOS EN EL P.O. DE 10 DE ABRIL DE 2017 Y P.O. DE 18 DE JULIO DE 2017, RESPECTIVAMENTE; EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2017 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 30 de abril de 1997.
 
@@ -1558,3 +1560,45 @@ P.O. 25 DE ABRIL DE 2015.
 PRIMERO. Este Decreto entrará en vigor a los noventa días naturales siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0603.- LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor el 19 de julio de 2017, previa su publicación en el Periódico Oficial del Estado "Plan de San Luis", con excepción de los artículos transitorios, Tercero, y Cuarto de este Decreto, cuya vigencia iniciará al día siguiente de la publicación antes señalada; y sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. A partir de la entrada en vigor de este Decreto, se abroga la Ley de Justicia Administrativa del Estado, publicada en el Periódico Oficial del Estado el 30 de abril de 1997.
+
+TERCERO. El Titular del Ejecutivo del Estado, deberá remitir al Congreso del Estado a más tardar en el periodo ordinario de Sesiones de la Legislatura inmediato anterior a la entrada en vigor de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, y el Código Procesal Administrativo del Estado de San Luis Potosí, la propuesta para ocupar el cargo de Magistrado que se integrará al Tribunal Estatal de Justicia Administrativa de San Luis Potosí, a efecto de que dicho Tribunal pueda conformarse con la estructura orgánica que establece el presente ordenamiento. El Magistrado electo será adscrito a una de las Salas del Tribunal o en su caso a la Sala Superior del mismo, según lo determine conforme a este Ley, el Pleno de dicho órgano jurisdiccional.
+
+CUARTO. Por única ocasión, acorde a lo ordenado en el artículo Transitorio Tercero del Decreto de Reforma a la Constitución Política del Estado publicada en el Periódico Oficial del Estado "Plan de San Luis" el tres de marzo del dos mil dieciséis, los magistrados del entonces Tribunal de lo Contencioso Administrativo del Estado, que concluyen su primer período constitucional durante el presente mes y año, y a efecto de ajustar el período de su encargo al término dispuesto en el tercer párrafo del artículo 123 de la Constitución Política local vigente, continuarán ejerciendo el cargo de Magistrados del Tribunal Estatal de Justicia Administrativa por un período único e improrrogable de cuatro años, contados a partir de la fecha en que concluya su respectivo nombramiento, sin posibilidad de ejercer el cargo más allá de ese lapso. Durante el ejercicio de su cargo solo podrán ser removidos del mismo por las causas graves que señala la ley. Posteriormente el nombramiento de los magistrados de dicho Tribunal, se llevará a cabo de conformidad con el procedimiento establecido en el artículo 96 de la Constitución Política Estatal.
+
+En lo concerniente a la Magistratura que a la fecha resulta vacante por conclusión del segundo periodo, el Magistrado en cuestión deberá ser designado de manera inmediata, acorde al proceso constitucional señalado.
+
+QUINTO. Los juicios iniciados con anterioridad a la entrada en vigor de la Ley Orgánica del Tribunal Estatal de Justicia Administrativa de San Luis Potosí y aquellos que se verifiquen antes de la entrada en vigor de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, y el Código Procesal Administrativo del Estado de San Luis Potosí, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+SEXTO. A la fecha de entrada en vigor de la presente Ley, todas las menciones al Tribunal de lo Contencioso Administrativo del Estado que se hagan en la normatividad estatal, se entenderán referidas al Tribunal Estatal de Justicia Administrativa de San Luis Potosí.
+
+SÉPTIMO. El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Tribunal expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento.
+
+OCTAVO. Lo dispuesto en la fracción XXX del artículo 21 de esta Ley, se implementará dentro de los veinticuatro meses siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. El Tribunal deberá expedir su Reglamento Interior dentro de los noventa días siguientes a la entrada en vigor de este Decreto.
+
+DÉCIMO. El Tribunal deberá expedir el Estatuto de Carrera del mismo, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. Los servidores públicos que venían ejerciendo encargos administrativos que desaparecen o se transforman conforme a lo dispuesto por esta Ley, continuarán desempeñando los mismos cargos hasta que el Pleno acuerde la creación de los nuevos órganos administrativos y decida sobre las designaciones mediante acuerdos específicos.
+
+DÉCIMO SEGUNDO. A partir de la entrada en vigor de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, el Tribunal contará con la Sala Superior Unitaria y cuando menos tres Salas Unitarias.
+
+DÉCIMO TERCERO. Para efectos del artículo 48 de la que con este Decreto se expide, el Presidente del Tribunal de lo Contencioso Administrativo del Estado que se encuentre en funciones a la entrada en vigor de este Decreto, no podrá ser nombrado Presidente del Tribunal que establece esta Ley en el periodo inmediato al que concluye.
+
+DÉCIMO CUARTO. El Pleno del Tribunal dispondrá por acuerdo, la entrada en vigor del juicio en línea, considerando sus recursos tecnológicos y disponibilidad presupuestal; sin embargo, dicho término no podrá exceder de dos años posteriores a la entrada en vigor del presente decreto.
+
+DÉCIMO QUINTO. Los trabajadores sindicalizados y de base sindicalizable que se encuentren prestando sus servicios en el Tribunal de lo Contencioso Administrativo de San Luis Potosí a la fecha de entrada en vigor de este Decreto, seguirán prestándolos de igual forma en el Tribunal Estatal de Justicia Administrativa que se crea en virtud del presente Decreto y conservarán para tal efecto, los derechos adquiridos y prestaciones laborales con las que cuenten, debiendo respetarse los compromisos suscritos con las representaciones sindicales que corresponda en los respectivos contratos colectivos.
+
+Lo dispuesto en el segundo párrafo del artículo 37 de esta Ley, se aplicará solo a los trabajadores que contrate a partir de la entrada en vigor de la misma el Tribunal Estatal de Justicia Administrativa.
+
+DÉCIMO SEXTO. El Pleno del Tribunal podrá determinar que la Sala Unitaria Especializada en Responsabilidades Administrativas, auxilio de las demás Salas Unitarias en tanto el número de asuntos que conozca, así lo permita.
+
+DÉCIMO SÉPTIMO. El titular del órgano de control interno del Tribunal de Justicia Administrativa, será designado por el Congreso del Estado, en un periodo no mayor de treinta días, contado a partir de la publicación del presente Decreto.
