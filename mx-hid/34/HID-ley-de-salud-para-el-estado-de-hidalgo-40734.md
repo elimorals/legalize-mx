@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2016-12-31"
+last_updated: "2017-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -112,6 +114,10 @@ XV.- La prevención y el control de los efectos nocivos de los factores ambienta
 XVI.- La salud ocupacional;
 
 XVII.- La prevención y el control de enfermedades transmisibles;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2017)</small>
+
+XVII Bis.- La promoción del uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer la infección del VIH/SIDA y demás enfermedades de transmisión sexual;
 
 XVIII.- La prevención y el control de las enfermedades no transmisibles y accidentes;
 
@@ -245,8 +251,6 @@ XXIV.- La sanidad en los límites con otras Entidades Federativas; y
 
 XXV.- Las demás materias que establezca esta ley u otras disposiciones generales aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SÉPTIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 Con la finalidad de organizar, operar, supervisar y evaluar los servicios previstos en las fracciones XI y XII del inciso A; V sub-inciso c) del inciso B; y II, III, IV, V, VI, VII, XI, XVI, XVII, XX, XXI y XXII del inciso C de este Artículo, se establecerá una comisión integrada por esta Secretaría, la Secretaría de Medio Ambiente y Ordenamiento Territorial, y la Procuraduría ambiental y del Ordenamiento Territorial, en la cual participarán en el ámbito de sus respectivas competencias y facultades, de conformidad con lo previsto en el Reglamento que para tal efecto expida el Ejecutivo.
@@ -289,13 +293,9 @@ VIII.- Promover, coordinar y realizar la evaluación de programas y servicios de
 
 IX.- Promover el establecimiento de un sistema de información básico en materia de salud, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
 X.- Promover, coordinar y realizar la evaluación de programas y servicios de salud relacionados con la prevención del alcoholismo, el tabaquismo y la fármacodependencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -879,8 +879,6 @@ Para los efectos de esta Ley, se entiende por reclusorio o centro de readaptaci�
 
 Corresponde al Gobierno del Estado integrar, dirigir y administrar en forma permanente los servicios médicos que se presten en reclusorios y centros de readaptación social, a efecto de otorgar oportuna y eficientemente la atención a los internos, para lo cual, los directores de dichas instituciones deberán de proveer de todos los elementos para prevenir y, en su caso, contrarrestar los riesgos y daños en la vida y salud de los internos, pudiendo solicitar el apoyo a la Secretaría de Salud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 Corresponde al Gobierno del Estado integrar, dirigir y administrar en forma permanente los servicios médicos, incluida la rehabilitación de la farmacodependencia, que se presten en reclusorios y centros de readaptación social, a efecto de otorgar oportuna y eficientemente la atención a los internos, para lo cual, los directores de dichas instituciones deberán de proveer de todos los elementos para prevenir y, en su caso, contrarrestar los riesgos y daños en la vida y salud de los internos, pudiendo solicitar el apoyo a la Secretaría de Salud.
@@ -1025,8 +1023,6 @@ Queda prohibido el transporte publico de carne en vehículos que no cumplan con 
 
 ### CAPITULO XXIII. ESTABLECIMIENTOS PARA LA REHABILITACION DE PERSONAS CON ADICCIONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 126.
@@ -1064,8 +1060,6 @@ Se prohíbe la comercialización no autorizada de artículos o productos en el i
 ### CAPITULO XXV
 
 PREVENCIÓN Y REHABILITACIÓN DEL ALCOHOLISMO, TABAQUISMO Y LA FÁRMACODEPENDENCIA.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1109,15 +1103,11 @@ La Autoridad Municipal será la responsable de la autorización de estos giros.
 
 Se entiende por establecimientos especializados en adicciones, a las instituciones de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 141.
 
 Los establecimientos a que se refiere este capítulo requieren de licencia sanitaria y cumplirán los requisitos señalados en el Artículo 16 de esta Ley. Asimismo, deberán contar con un responsable quien deberá ser un profesional de las disciplinas para la salud; y en el caso de los grupos de ayuda mutua, éste podrá ser un adicto en recuperación, que tenga dos años como mínimo de abstinencia en el consumo de sustancias psicoactivas y en su proceso de rehabilitación; las instalaciones serán las adecuadas para una atención oportuna y éticamente responsable, evitando que constituyan un riesgo para los usuarios, conforme a lo que establezca el Reglamento correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1145,8 +1135,6 @@ III.- La realización de Programas de Prevención y Control de Enfermedades Buco
 
 IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud dental de la población.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
@@ -1155,13 +1143,9 @@ IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de 
 
 Se crea el Consejo Estatal Contra las Adiciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las Adicciones que regula el presente Capítulo, así como proponer y evaluar los programas a que se refieren los Artículos 142 bis 2 y 142 bis 3 de esta Ley. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal y Estatal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1175,13 +1159,9 @@ II. La educación sobre los efectos del alcohol en la salud y en las relaciones 
 
 III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 Programa Contra el Tabaquismo
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1195,13 +1175,9 @@ II. La educación sobre los efectos del tabaco en la salud y en las relaciones s
 
 III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el tabaquismo en los grupos de población considerados de alto riesgo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 Programa Contra la Farmacodependencia
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1215,8 +1191,6 @@ II.- La educación sobre los efectos del uso de estupefacientes, substancias psi
 
 III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la fármacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 142 Bis 6.
@@ -1224,8 +1198,6 @@ III.- La educación e instrucción a la familia y a la comunidad sobre la forma 
 La Secretaría de Salud elaborará un Programa Estatal contra la fármacodependencia, y lo ejecutará en coordinación con Dependencias y Entidades del Sector Salud y con los Gobiernos Municipales.
 
 Este programa establecerá los procedimientos y criterios para la prevención, tratamiento y control de las adicciones y será de observancia obligatoria para los prestadores de servicios de salud del Sistema Estatal de Salud en todo el territorio y en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1711,7 +1683,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 13 DE OCTUBRE DE 2008.
 
@@ -1770,3 +1742,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 10 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 173.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 28 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO Y ADICIONA LA FRACCIÓN XVII BIS, AL INCISO A, DEL ARTÍCULO 3 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
