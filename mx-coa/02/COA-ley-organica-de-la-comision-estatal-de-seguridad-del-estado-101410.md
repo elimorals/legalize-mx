@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-comision-estatal-de-seguridad-del-estado-101
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-06-10"
-last_updated: "2016-03-09"
+last_updated: "2017-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de junio de 2014.
 
@@ -1569,6 +1569,10 @@ Las atribuciones de las unidades señaladas en el artículo que antecede serán 
 
 Fuerza Coahuila para el desempeño de las funciones de prevención, inteligencia, reacción, procesal y seguridad penitenciaria, contará con las unidades administrativas y el personal que requiera y el presupuesto lo permita, de acuerdo a la regionalización que se establezca, mismas que estarán bajo el mando directo e inmediato de un Coordinador General.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+En las zonas metropolitanas del Estado, se debe crear un grupo de policía metropolitana de Fuerza Coahuila, cuya competencia, funciones, integración, mando y demás elementos necesarios para su operación se establecerán en el acuerdo que emita el Ejecutivo del Estado, en la Ley del Sistema, en esta Ley, en las demás disposiciones aplicables y convenios de colaboración que se celebren observando lo dispuesto en el artículo 9 de la Ley del Sistema.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### Artículo 62.
@@ -1884,3 +1888,11 @@ SEGUNDO. Hasta en tanto no se constituya el Órgano de Control Interno de la Com
 TERCERO. Hasta en tanto no se constituya la Dirección del Servicio Profesional de Carrera Policial en la Comisión Estatal de Seguridad, la Dirección General de los Institutos Superiores de Estudios de Seguridad Pública, será la encargada de atender sus atribuciones y asuntos.
 
 CUARTO. Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
+
+P.O. 11 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 830.- SE MODIFICA EL INCISO C EN LA FRACCIÓN I DEL ARTÍCULO 76: SE ADICIONA EL INCISO D EN LA FRACCIÓN I DEL ARTÍCULO 76, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SE ADICIONA UN SEGUNDO PÁRRADO (SIC) AL ARTÍCULO 61, DE LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
