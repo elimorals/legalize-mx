@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-comision-estatal-de-agua-y-19955"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-12-17"
-last_updated: "2000-08-07"
+last_updated: "2017-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE AGUA Y SANEAMIENTO DE PUEBLA
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DEL AGUA Y SANEAMIENTO DE PUEBLA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 11 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2000.
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA Y SANEAMIENTO DE PUEBLA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 17 de diciembre de 1997.
 
@@ -35,7 +37,9 @@ EDUARDO VAZQUEZ VALDES, Presidente del Consejo de Administración de la Comisió
 
 Que los integrantes del Honorable Consejo de Administración de la Comisión Estatal de Agua y Saneamiento de Puebla, tuvieron a bien:
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 En mérito de lo expuesto y en uso de las facultades que me confieren los Artículos 12, 14 fracción 1, 16, 23 fracción VII y 24 fracción XIV de la Ley de Agua y Saneamiento del Estado de Puebla hemos tenido a bien expedir el siguiente:
 
@@ -662,3 +666,25 @@ Los asuntos que con motivo de este Decreto deban pasar de una Unidad Administrat
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE EXPIDE EL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se abroga el Decreto por el que se expide el Reglamento Interior de la Comisión Estatal de Agua y Saneamiento de Puebla, publicado en el Periódico Oficial del Estado de fecha diecisiete de diciembre de mil novecientos noventa y siete.
+
+TERCERO. Se dejan sin efecto todas aquellas disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO. Derivado de la entrada en vigor del presente Reglamento, las unidades administrativas de la Comisión Estatal de Agua y Saneamiento de Puebla, deberán realizar las modificaciones conducentes en los sellos, declaraciones, avisos, manifiestos y demás documentos oficiales que utilizan para el adecuado desarrollo de sus funciones.
+
+QUINTO. Los asuntos pendientes, al entrar en vigor este Reglamento que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquellas a las cuales se les haya atribuido competencia en este Reglamento.
+
+SEXTO. Las unidades administrativas del Organismo, en cumplimiento a las medidas de racionalidad y eficiencia para el ejercicio del gasto, seguirán utilizando las formas oficiales, formatos y demás papelería existente en los que conste su denominación anterior, hasta que se agoten.
+
+SÉPTIMO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a unidades administrativas que se desaparecen, se crean o modifican su denominación, se entenderá atribuida a las unidades administrativas a que se refiere el presente Ordenamiento y a las que atribuya la competencia específica que en cada caso se relacione.
+
+OCTAVO. Dentro de los sesenta días siguientes a la publicación del presente Decreto, las unidades administrativas de la Comisión Estatal de Agua y Saneamiento de Puebla, deberán llevar a cabo la transferencia de los asuntos a su cargo, a las que le sean conferidas las facultades que correspondan, conforme este Reglamento.
+
+NOVENO. La Comisión Estatal de Agua y Saneamiento de Puebla, ejercerá las atribuciones previstas en las disposiciones legales y normativas que le son aplicables, y atenderá los asuntos que le fueron asignados por la Secretaría de Infraestructura, Movilidad y Transportes.
