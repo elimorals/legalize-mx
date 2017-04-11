@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-494-de-fomento-y-desarrollo-turistico-para-el-104930
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-11"
-last_updated: "2014-11-11"
+last_updated: "2017-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 494 DE FOMENTO Y DESARROLLO TURISTICO PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY NÚMERO 494 DE FOMENTO Y DESARROLLO TURÍSTICO PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS TREINTA DÍAS SIGUIENTES AL DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el martes 11 de noviembre de 2014.
 
@@ -525,11 +525,15 @@ A los Ayuntamientos les corresponderá establecer en su ámbito programas que im
 
 En apego a la Ley Número 817, para las Personas con Discapacidad del Estado de Guerrero, o como en el futuro se le denomine, la Secretaría con el apoyo y en coordinación de las dependencias y entidades federales, estatales y municipales competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2017)</small>
+
 ###### Artículo 25.
 
-Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas.
+Es obligación de los prestadores de servicios turísticos, hacer que las personas con discapacidad cuenten con los servicios e instalaciones con accesibilidad conforme a la legislación, regulaciones administrativas y Normas Oficiales Mexicanas vigentes.
 
-La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+Será obligación de las autoridades estatal y municipal que los edificios públicos con afluencia turística, cuenten con los servicios e instalaciones para el aseguramiento de la accesibilidad a los mismos, conforme a la normatividad vigente.
 
 La Secretaría y los Ayuntamientos, vigilarán que lo dispuesto en este capítulo se cumpla.
 
@@ -573,7 +577,13 @@ III. Turismo Rural: Modalidad en la cual el turista participa en actividades de 
 
 IV. Turismo Cultural: Es aquel que ofrece visitas a sitios históricos y arqueológicos en el Estado, con recorridos dirigidos por guías de turistas especializados e investigadores encargados del estudio y protección de dichos lugares;
 
-V. Las demás que establezcan los reglamentos que deriven de la presente Ley.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2017)</small>
+
+V. Turismo Recreativo: Las actividades de esparcimiento y diversión desarrolladas en lugares creados para ello tales como discotecas, bares, teatros, cines, restaurantes, cafeterías, parque (sic) acuáticos y balnearios, instalaciones recreativas y demás análogas o similares;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2017)</small>
+
+VI. Las demás que establezcan los reglamentos que deriven de la presente Ley.
 
 En todo lo no previsto en el presente Capítulo serán aplicables las disposiciones que las normas oficiales mexicanas establecen sobre la materia.
 
@@ -1341,7 +1351,9 @@ IX. Expedir, aún sin solicitud del turista, factura detallada, nota de consumo 
 
 X. Profesionalizar a sus trabajadores y empleados, en los términos de las leyes respectivas, en coordinación con la Secretaría;
 
-XI. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a toda persona de cualquier condición;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2017)</small>
+
+XI. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a las personas en situación de discapacidad;
 
 XII. Cumplir con las características y requisitos exigidos, de acuerdo a su clasificación y certificación de estándares de calidad, en términos de la presente Ley;
 
@@ -1572,3 +1584,21 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. JESÚS MARTÍNEZ GARNELO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 432 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 494 DE FOMENTO Y DESARROLLO TURÍSTICO PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese al Titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales procedentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
