@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-divorcio-del-estado-de-guerrero-5130"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-13"
-last_updated: "2012-03-09"
+last_updated: "2017-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE DIVORCIO DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DIVORCIO DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de marzo de 1990.
 
@@ -263,13 +265,11 @@ Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán
 
 ## TITULO V. DIVORCIO INCAUSADO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 27.
 
-El divorcio incausado podrá solicitarse unilateralmente por cualesquiera de los cónyuges ante el Juez competente, manifestando su voluntad de no querer continuar con el matrimonio, sin que sea necesario señalar la causa por el cual lo solicita, siempre que haya transcurrido cuando menos un año de la celebración del matrimonio.
+El divorcio incausado podrá solicitarse unilateralmente por cualesquiera de los cónyuges ante el juez competente, manifestando su voluntad de no querer continuar con el matrimonio, sin que sea necesario señalar la causa por el cual lo solicita.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -634,3 +634,15 @@ Los Juicios de divorcio pendientes al entrar en vigor el presente Decreto, segui
 ###### ARTICULO TERCERO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 11 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 437 POR EL QUE SE REFORMA EL ARTÍCULO 27 DE LA LEY DE DIVORCIO DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales conducentes.
