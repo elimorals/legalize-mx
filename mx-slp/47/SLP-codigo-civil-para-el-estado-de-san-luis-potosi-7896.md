@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2016-11-10"
+last_updated: "2017-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -7109,7 +7109,9 @@ III.- Cuando un heredero paga con sus bienes propios alguna deuda de la herencia
 
 IV.- Cuando el que adquiere un inmueble paga a un acreedor que tiene sobre él un crédito hipotecario anterior a la adquisición.
 
-ART. 1892.- Cuando la deuda fuere pagada por el deudor con dinero que un tercero le prestare con ese objeto el prestamista quedará subrogado por ministerio de la Ley en los derechos del acreedor, si el préstamo constare en título auténtico en que se declare que el dinero fué prestado para el pago de la misma deuda. Por falta de esta circunstancia, el que prestó sólo tendrá los derechos que exprese su respectivo contrato.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+ART. 1892.- Cuando la deuda fuere pagada por el deudor con dinero que un tercero le prestare con ese objeto, el prestamista quedará subrogado por ministerio de Ley en los derechos, privilegios, acciones y garantías del acreedor, si el préstamo constare en documento auténtico en que se declare que el dinero fue prestado para el pago de la misma deuda. Por falta de esta circunstancia, el que prestó sólo tendrá los derechos que expresa su respectivo contrato.
 
 ART. 1893.- No habrá subrogación parcial en deudas de solución indivisible.
 
@@ -10470,5 +10472,13 @@ P.O. 10 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0422 BIS.- SE ADICIONA LOS ARTÍCULOS, 614 BIS, 614 TER, 614 QUÁTER, Y 615 BIS, AL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0606.- SE REFORMA EL ARTÍCULO 1892 DEL CÓDIGO CIVIL DEL ESTADO".]
+
+PRIMERO. Este Decreto estará vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
