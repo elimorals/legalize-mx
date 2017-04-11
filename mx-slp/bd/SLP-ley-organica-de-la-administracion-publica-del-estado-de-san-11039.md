@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2017-02-28"
+last_updated: "2017-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -527,9 +527,7 @@ XLV. Vigilar y evaluar la ejecución de los programas sectoriales, institucional
 
 XLVI. Establecer y coordinar el funcionamiento del Sistema Estatal de Información, así como coordinar la información geográfica y estadística de la Entidad;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2006)</small>
-
-XLVII. Establecer los lineamientos y coordinar los programas de innovación gubernamental relativos al diseño de procesos, tecnologías de la información y sistemas de gestión de la calidad que busquen la eficiencia, transparencia y competitividad, así como el desarrollo institucional del Estado;
+XLVII. (DEROGADA, P.O. 11 DE ABRIL DE 2017)
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
@@ -1337,59 +1335,125 @@ La Procuraduría General de Justicia es el órgano del Ejecutivo del Estado al q
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
-### CAPITULO IV. DEL SISTEMA ESTATAL DE CONTROL DEL EJECUTIVO ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2017)</small>
+
+### CAPITULO IV. DEL SISTEMA ESTATAL DE CONTROL INTERNO DEL EJECUTIVO ESTATAL
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 43.
 
-Los actos de los servidores públicos de la administración pública del Estado, se sujetarán a un Sistema Estatal de Control, mediante el cual se vigila su apego a la normatividad establecida y la transparente aplicación de los recursos del erario.
+Los actos de los servidores públicos de la administración pública del Estado, se sujetarán a un Sistema Estatal de Control Interno, mediante el cual se vigila su apego a la normatividad establecida y la transparente aplicación de los recursos del erario.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 44.
 
-Para efecto de lo establecido en el artículo inmediato anterior, el Gobernador del Estado contará con la Contraloría General del Estado, a quien le corresponde el despacho de los siguientes asuntos:
+Para efecto de lo establecido en el artículo inmediato anterior, el Gobernador del Estado contará con la Contraloría General del Estado, a la que corresponde el despacho de los siguientes asuntos:
 
-I. Desarrollar y coordinar el Sistema Estatal de Control de la administración pública estatal;
+I. Desarrollar y coordinar el Sistema Estatal de Control Interno de la administración pública estatal;
 
-II. Establecer y vigilar el cumplimiento de las normas de control, fiscalización y auditoría que deban observar las dependencias y entidades de la administración pública estatal;
+II. Establecer y vigilar el cumplimiento de las normas de control, fiscalización, y auditoría que deban observar las dependencias y entidades de la administración pública estatal;
 
-III. Vigilar la correcta aplicación de las leyes de ingresos y del presupuesto de egresos del Estado;
+III. Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Estatal, para lo cual podrá requerir de las dependencias competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador de los Sistemas, Nacional y Estatal Anticorrupción;
 
-IV. Establecer en coordinación con la Contaduría Mayor de Hacienda del Estado, las bases generales para la práctica de revisiones y auditorías en la administración pública estatal y llevar a cabo las que se requieran;
+IV. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a las dependencias y entidades de la Administración Pública Estatal, por si o a través (sic) los órganos internos de control, en la promoción de su cumplimiento;
 
-V. Opinar sobre la idoneidad de los sistemas y normas de registro y contabilidad, de administración de recursos humanos, materiales y financieros, de contratación de obra pública, de adquisición de bienes, de contratación de servicios, de contratación de deuda pública y de manejo de fondos y valores;
+V. Inspeccionar el ejercicio del gasto público estatal y la obtención de los ingresos, y su apego y congruencia a las respectivas leyes, reglamentos, reglas y lineamientos aplicables;
 
-VI. Comprobar el cumplimiento, por parte de las dependencias y entidades de la administración pública estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, inversión, adquisiciones, obra pública, servicios, deuda, sistema de registro y contabilidad, personal, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de muebles e inmuebles y demás activos y recursos materiales, fondos y valores de la propiedad o al cuidado del Ejecutivo del Estado;
+VI. Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de revisiones y auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Estatal y en la Fiscalía General del Estado, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
 
-VII. Coordinar acciones y, en su caso, celebrar convenios con la Contaduría Mayor de Hacienda del Estado para el cumplimiento de sus funciones;
+VII. Opinar sobre la idoneidad de los sistemas y normas de registro y contabilidad, de administración de recursos humanos, materiales y financieros, de contratación de obra pública, de adquisición de bienes, de contratación de servicios, de contratación de deuda pública y de manejo de fondos y valores;
 
-VIII. Intervenir en los convenios de concertación con la Secretaría de Contraloría y Desarrollo Administrativo de la Federación y con las Contralorías Municipales en relación a recursos federales, así como vigilar su ejecución y cumplimiento;
+VIII. Comprobar por sí o a través de los órganos internos de control, el cumplimiento por parte de las dependencias y entidades de la administración pública estatal de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento e inversión; adquisiciones, obra pública, servicios; deuda, sistema de registro y contabilidad, personal, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de muebles e inmuebles y demás activos y recursos materiales; fondos y valores de la propiedad o al cuidado del Ejecutivo del Estado;
 
-IX. Informar a la ciudadanía, y publicar en el Periódico Oficial del Estado, por lo menos una vez al año, el resultado final de la evaluación, fiscalización y auditoría de las dependencias y entidades de la administración pública, así como de la recepción, seguimiento y avance o resolución de los asuntos a que se refiere la fracción XI de este artículo;
+IX. Coordinar acciones y, en su caso, celebrar convenios con la Auditoría Superior del Estado para el cumplimiento de sus funciones;
 
-X. Recibir, registrar, verificar, e investigar las declaraciones de situación patrimonial de los servidores públicos del Ejecutivo, de acuerdo con las leyes y reglamentos vigentes;
+X. Presidir de forma dual con el Auditor Superior del Estado, el Comité Rector del Sistema Estatal de Fiscalización;
 
-XI. Atender las quejas y denuncias que presente la ciudadanía derivadas de las actuaciones de los servidores públicos del Ejecutivo del Estado;
+XI. Participar en el Sistema Nacional de Fiscalización, en términos de lo previsto por la Ley General del Sistema Nacional Anticorrupción;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+XII. Intervenir en los convenios de concertación con el órgano interno de control de la Federación y con las contralorías municipales en relación a recursos federales, así como vigilar su ejecución y cumplimiento;
 
-XII. Conocer e investigar los actos u omisiones de los servidores públicos que pudieran constituir responsabilidades administrativas o delitos, aplicando las sanciones que correspondan en los términos que las leyes señalen y, en su caso, presentar las denuncias y querellas en nombre del Estado y ante las autoridades competentes; además, llevar un registro relativo a las sanciones impuestas; la inhabilitación para desempeñar empleos, cargos o comisiones de los servidores públicos en la administración estatal; y los medios de impugnación y su resolución con carácter definitivo, para lo cual deberá realizar la captura, así como el envío oportuno y veraz de la información a la Auditoría Superior del Estado, para ser inscrita en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, en términos de la Ley de Responsabilidades de los Servidores Públicos;
+XIII. Informar a la ciudadanía, y publicar en el Periódico Oficial del Estado, por lo menos una vez al año, el resultado final de la evaluación, fiscalización y auditoría de las dependencias y entidades de la administración pública, así como de la recepción, seguimiento y avance o resolución de los asuntos a que se refiere la fracción XI de este artículo;
 
-XIII. Fiscalizar la obra pública federal programada para el Estado, en coordinación con la Secretaría de la Contraloría y Desarrollo Administrativo de la Federación;
+XIV. Recibir y registrar las declaraciones patrimoniales, la constancia de presentación de declaración fiscal y la declaración de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables;
 
-XIV. Apoyar a los Ayuntamientos en la implantación de sistemas y órganos de control y evaluación municipal, coordinadamente con la Contaduría Mayor de Hacienda del Estado;
+XV. Atender las quejas y denuncias que presente la ciudadanía derivadas de las actuaciones de los servidores públicos del Ejecutivo del Estado;
 
-XV. Inspeccionar y vigilar la aplicación de los subsidios y fondos que el Estado otorgue a los municipios, dependencias y entidades de la administración pública estatal;
+XVI. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Estatal y de los particulares, que pudieran constituir responsabilidades administrativas; así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado de San Luis Potosí, por sí, o por conducto de los órganos internos de control que correspondan a cada área de la Administración Pública Estatal; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Estatal de Justicia Administrativa y, cuando se trate de faltas administrativas graves o de faltas administrativas de particulares, emitir el informe de presunta responsabilidad administrativa y ejercer la acción que corresponda ante ese Tribunal o ante la Auditoría Superior del Estado; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en materia de Delitos Relacionados con Hechos de Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
-XVI. Intervenir, en coordinación con la Oficialía Mayor, en la entrega y recepción de las oficinas de las dependencias y entidades de la administración pública estatal, elaborando el inventario que deba levantarse en cada caso y verificando la exactitud del que presente cada titular;
+XVII. Llevar en la administración pública estatal, el registro de los servidores públicos sujetos a procedimientos administrativos instaurados, de los sancionados e inhabilitados, de los recursos e impugnaciones que se hayan hecho valer y, en su caso, las resoluciones por las que se dejen sin efectos las resoluciones dictadas; para lo cual deberá realizar la captura, así como el envío oportuno y veraz de la información a la Secretaria Ejecutiva del Sistema Estatal Anticorrupción, en términos de lo previsto por la Ley del Sistema Estatal Anticorrupción, y de la Ley de Responsabilidades Administrativas del Estado y Municipios de San Luis Potosí;
 
-XVII. Auxiliar a las dependencias y entidades de la administración pública en el establecimiento de sistemas para la prevención de irregularidades en los procesos administrativos y para el diseño de sistemas de control;
+XVIII. Fiscalizar de manera coordinada con el Órgano Interno de Control de la Federación, la obra pública federal programada para el Estado, en los términos de los convenios, acuerdos o programas conjuntos de trabajo;
 
-XVIII. Normar, coordinar y evaluar el desempeño de las contralorías internas de cada una de las dependencias, así como en aquellas entidades en las que se estime conveniente su implantación;
+XIX. Apoyar a los ayuntamientos en la implantación de sistemas y órganos de control y evaluación municipal, en el marco del Sistema Estatal de Fiscalización y los convenios particulares que se establezcan;
 
-XIX. Vigilar la existencia y desempeño de comisarios en los órganos de gobierno de las entidades de la administración pública estatal;
+XX. Inspeccionar y vigilar la aplicación de los subsidios y fondos que el Estado otorgue mediante convenio a los municipios, dependencias y entidades de la administración pública estatal; y en su caso los que otorgue la federación, previo acuerdo con ésta;
 
-XX. Designar a los auditores externos de las entidades de la administración pública paraestatal y controlar sus actividades; y
+XXI. Intervenir por sí o a través de los órganos internos de control, en los procesos de entrega y recepción de las oficinas de las dependencias y entidades de la administración pública estatal, a efecto de verificar el procedimiento a seguir y conocer de las incidencias que pudieran resultar en faltas administrativas;
 
-XXI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XXII. Auxiliar a las dependencias y entidades de la administración pública en la prevención de irregularidades en los procesos administrativos;
+
+XXIII. Normar, coordinar y evaluar el desempeño de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y de la Fiscalía General del Estado;
+
+XXIV. Designar y remover libremente a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y de la Fiscalía General del Estado, quienes dependerán jerárquica y funcionalmente de la Contraloría General del Estado; asimismo, designar y remover libremente a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control, quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales, representando al Titular de dicha Contraloría General;
+
+XXV. Designar y remover para el mejor desarrollo del Sistema Estatal de Control Interno de la Gestión Gubernamental, delegados de la propia Contraloría ante las dependencias y órganos desconcentrados de la Administración Pública Estatal centralizada y comisarios públicos de los órganos de gobierno o vigilancia de las entidades de la Administración Pública Paraestatal y de la Fiscalía General del Estado; así como normar y controlar su desempeño;
+
+XXVI. Designar y remover a los auditores externos de las entidades de la administración pública paraestatal, así como normar y controlar su desempeño;
+
+XXVII. Promover la innovación gubernamental y la mejora de la gestión pública en las dependencias y entidades de la Administración Pública Estatal, bajo los principios de participación ciudadana, transparencia, rendición de cuentas e innovación, y con criterios de eficacia, legalidad, eficiencia y simplificación administrativa, para lo cual podrá emitir normas, lineamientos específicos y manuales; así mismo, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias;
+
+XXVIII. En base a la política y lineamientos para la administración de los recursos humanos que expida la Oficialía Mayor del Poder Ejecutivo, desarrollar y aplicar mecanismos de verificación, certificación y evaluación de conocimientos, competencias y cumplimiento de metas individuales de los servidores públicos de la administración pública estatal;
+
+XXIX. Colaborar en el marco de los Sistemas Nacionales Anticorrupción y de Fiscalización, así como con los correspondientes en la Entidad, en el establecimiento de las bases y principios de coordinación necesarios que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+XXX. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables;
+
+XXXI. Suspender de acuerdo a lo establecido en la normatividad aplicable, en el manejo, custodia o administración de recursos y valores de la propiedad o al cuidado del Gobierno del Estado, a los servidores públicos responsables de irregularidades, interviniendo los recursos y valores correspondientes, dando aviso de ello al titular de la dependencia o ente de que se trate y, en su caso, a la Secretaría de Finanzas para la sustitución correspondiente;
+
+XXXII. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Ejecutivo Estatal, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal y de la Fiscalía General del Estado, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover ante las autoridades competentes las acciones que procedan para corregir las irregularidades detectadas;
+
+XXXIII. Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal;
+
+XXXIV. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+
+XXXV. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Nacional Anticorrupción, en materia de combate a la corrupción en la Administración Pública Estatal;
+
+XXXVI. Establecer un sistema para seleccionar a los integrantes de los órganos internos de control sujetos a su designación, que garantice la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
+
+XXXVII. Emitir el Código de Ética de los servidores públicos de la administración pública estatal y las Reglas de Integridad para el ejercicio de la función pública;
+
+XXXVIII. Ordenar la realización de visitas de inspección en las dependencias y entidades de la administración pública estatal y en la Fiscalía; con el objeto de prevenir, detectar e inhibir prácticas de corrupción y conflictos de interés de los servidores públicos, así como cuando sean necesarias para la investigación de faltas administrativas;
+
+XXXIX. Recibir, tramitar y resolver las inconformidades o impugnaciones que formulen los particulares con motivo de los actos realizados por los servidores públicos de las dependencias y entidades de la administración pública estatal, en materia de adquisiciones, arrendamientos, obras públicas y servicios relacionados con las mismas, y
+
+XL. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+ARTICULO 44 BIS. Los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y de sus áreas de auditoría, quejas y responsabilidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la promoción de la innovación gubernamental, mejora de la gestión pública y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
+
+Los órganos internos de control de las entidades que cuenten con un régimen específico de control interno, se sujetarán a las funciones y organización establecidas en las disposiciones mediante las que se crea la respectiva entidad.
+
+Los órganos internos de control, en ejercicio de su función de auditoría, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción y otras afines a la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Estatal Anticorrupción la Contraloría General del Estado respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Estatal y presentación de informes por parte de dichos órganos.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+ARTICULO 44 TER. Las unidades encargadas de la función de auditoría de la Contraloría General del Estado y los órganos internos de control de la Administración Pública Estatal formarán parte del Sistema Estatal de Fiscalización e incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley del Sistema Estatal Anticorrupción y las mejores prácticas que considere el referido Sistema.
+
+Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+ARTICULO 44 QUATER. Los titulares de las unidades encargadas de la función de auditoría de la Contraloría General del Estado y de los órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha Contraloría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal Estatal de Justicia Administrativa y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en materia de Delitos relacionados con Hechos de Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+
+Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Estatal Anticorrupción, tanto las dependencias y entidades, así como la Contraloría General del Estado, implementarán las acciones pertinentes para mejora de la gestión.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+ARTICULO 44 QUINQUE. Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
 
 ### CAPITULO V. DE LA CONSEJERIA JURIDICA
 
@@ -1885,8 +1949,16 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 28 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0574.- SE REFORMA Y ADICIONA EL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0574.- SE REFORMA Y ADICIONA EL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0604.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO IV, LOS ARTÍCULOS, 43, Y 44; ADICIONA LOS ARTÍCULOS, 44 BIS, 44 TER, 44 QUÁTER, Y 44 QUINQUE, Y DEROGA DEL ARTÍCULO 33 LA FRACCIÓN XLVII, DE Y A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis", sin perjuicio de lo previsto en las disposiciones transitorias del diverso por el que se expide la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí; y la Ley del Sistema Estatal Anticorrupción de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones legales que contravengan o se opongan al presente Decreto.
