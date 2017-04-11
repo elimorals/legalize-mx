@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2017-04-07"
+last_updated: "2017-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -491,17 +491,19 @@ ESTACIONAMIENTOS.
 
 Se entiende por estacionamiento, el espacio de propiedad pública o privada aprobado por la Autoridad, destinado a guardar vehículos, permitiendo que las maniobras necesarias de acceso, circulación y salida, se realicen en forma ordenada y segura. Por cajón de estacionamiento, se entenderá la superficie que ocupa un vehículo estacionado con amplitud suficiente para abordar y/o descender de él.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
-Toda edificación debe contar con área de estacionamiento de carácter gratuito, con el número mínimo de cajones de acuerdo a su tipo y ubicación, para lo cual se establecerán las disposiciones relativas a las características dimensionales de los cajones, su distribución geométrica, las normas mínimas de seguridad, la ubicación de los accesos y las circulaciones de vehículos y peatones dentro de los estacionamientos públicos y privados. De igual forma se establecerán en los Reglamentos y Normas Técnicas Complementarias las características y condiciones de operación de los estacionamientos públicos de cuota.
+Toda edificación debe contar con área de estacionamiento, con el número mínimo de cajones de acuerdo a su tipo y ubicación, para lo cual se establecerán las disposiciones relativas a las características dimensionales de los cajones, su distribución geométrica, las normas mínimas de seguridad, la ubicación de los accesos y las circulaciones de vehículos y peatones dentro de los estacionamientos públicos y privados.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
-Los estacionamientos públicos o privados deberán contar con cajones de estacionamiento con espacio suficiente para las personas minusválidas, así como con espacios destinados para estacionar y resguardar bicicletas, en los términos que determinen los reglamentos respectivos.
+Los estacionamientos públicos o privados deberán contar con cajones de estacionamiento suficiente para las personas discapacitadas, así como espacios destinados para estacionar y resguardar bicicletas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2017)</small>
 
 Los estacionamientos de uso público deberán cumplir las siguientes condiciones:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 a) Se reservará espacios de estacionamiento para los vehículos que transportan o son conducidos por personas con discapacidad, en proporción a la cantidad total de espacios dentro del predio, de acuerdo con el siguiente cuadro:
 
@@ -521,11 +523,19 @@ Más de 400 estacionamientos 16 más 1 por cada 100
 
 adicionales
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 b) Los estacionamientos accesibles se ubicarán lo más cerca que sea posible a algún ingreso accesible a la edificación, de preferencia en el mismo nivel que éste; debiendo acondicionarse una ruta accesible entre dichos espacios e ingreso. La ruta accesible al frente de espacios de estacionamiento, se deberá prever que ningún objeto invada esa ruta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 c) Las dimensiones mínimas de los espacios de estacionamiento accesibles, serán de 3.80 x (sic) 5.00 metros.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 d) Los espacios de estacionamiento accesibles estarán identificados mediante avisos individuales en el piso y, además, un aviso adicional soportado por poste o colgado, según sea el caso, que permita identificar, a distancia, la zona de estacionamientos accesibles.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 e) Los obstáculos para impedir el paso de vehículos deberán estar separados por una distancia mínima de 90 centímetros y tener una altura mínima de 80 centímetros. No podrán tener elementos salientes que representen riesgo para el peatón.
 
@@ -1432,3 +1442,9 @@ TERCERO.- Los estudios y consultas a que se refiere el artículo anterior, deber
 CUARTO.- A más tardar dentro de los 6 meses siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado y los Ayuntamientos del Estado, deberán llevar a cabo acciones para mejorar el respeto del peatón y el ciclista además de la promoción del uso de la bicicleta como medio de transporte. Asimismo en el mismo plazo, deberá iniciar en el ámbito de sus respectivas competencias, programas y acciones que incentiven entre sus propios empleados y los de los sectores productivos el uso responsable de la bicicleta. Estas acciones deberán considerar también la promoción de cultura vial en los ciclistas, a fin de asegurar su integridad física.
 
 QUINTO.- Se recomienda a los Ayuntamientos del Estado, que en un plazo no mayor a 6 meses siguientes a la entrada en vigor del presente Decreto, realicen los ajustes necesarios a sus reglamentos de tránsito, a fin de que regulen en los mismos, la convivencia vial de los ciclistas y automovilistas, así como las condiciones bajo las cuales, el transporte público estará obligado a transportar las bicicletas de los usuarios.
+
+P.O. 11 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 69 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 22 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Baja California.
