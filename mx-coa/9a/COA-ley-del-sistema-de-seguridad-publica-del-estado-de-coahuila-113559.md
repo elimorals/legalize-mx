@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-09"
-last_updated: "2016-03-09"
+last_updated: "2017-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 9 de marzo de 2016.
 
@@ -1207,6 +1207,8 @@ V. Seguridad penitenciaria: que comprende la protección de los centros penitenc
 
 VI. Procesal: que implica la protección de las instalaciones, el personal de los tribunales así como de los intervinientes en el proceso penal, y, de requerirse, el traslado y la vigilancia de los imputados.
 
+> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA AL ARTÍCULO 76 PUBLICADA EN EL P.O. 11 DE ABRIL DE 2017, SE ADVIERTE QUE SE REESTRUCTURARON LOS NUMERALES DE ESTE ARTÍCULO]</small>
+
 ###### Artículo 76.
 
 Clasificación de las corporaciones policiales
@@ -1214,8 +1216,6 @@ Clasificación de las corporaciones policiales
 Para el debido ejercicio de las atribuciones enumeradas en el artículo anterior, las corporaciones policiales se clasificarán de la siguiente manera:
 
 I. De prevención especial y general del delito y para sancionar las faltas administrativas:
-
-II. (SIC)
 
 a) Fuerza Coahuila, que es la corporación policial del Gobierno del Estado de Coahuila de Zaragoza a cargo de la CES, la cual tendrá competencia en todo el Estado, para desempeñar las funciones siguientes:
 
@@ -1231,9 +1231,17 @@ a) Fuerza Coahuila, que es la corporación policial del Gobierno del Estado de C
 
 b) El Cuerpo Especializado de Seguridad Pública de la PRONNIF; y
 
-c) Las Policías Preventivas Municipales con competencia en las circunscripciones territoriales que les correspondan.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
-III. En la investigación y persecución del delito, bajo la conducción y mando del Ministerio Público:
+c) Los grupos especializados de policía metropolitana que se conformarán con elementos de Fuerza Coahuila y cuando así se convenga con los ayuntamientos respectivos, con integrantes de las Policías Preventivas Municipales.
+
+La competencia, funciones, integración, mando y demás elementos necesarios para la operación de las policías metropolitanas, se establecerán en el acuerdo que emita el Ejecutivo del Estado, en esta ley, en la Ley Orgánica de la Comisión Estatal de Seguridad Pública, en convenios de colaboración que se celebren observando lo dispuesto en el artículo 9 de esta ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+d) Las Policías Preventivas Municipales con competencia en las circunscripciones territoriales que les correspondan.
+
+II. En la investigación y persecución del delito, bajo la conducción y mando del Ministerio Público:
 
 a) La Policía Investigadora a cargo de la Procuraduría, la cual tendrá competencia en todo el Estado, y
 
@@ -3778,3 +3786,13 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 830.- SE MODIFICA EL INCISO C EN LA FRACCIÓN I DEL ARTÍCULO 76; SE ADICIONA EL INCISO D EN LA FRACCIÓN I DEL ARTÍCULO 76, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 61, DE LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
