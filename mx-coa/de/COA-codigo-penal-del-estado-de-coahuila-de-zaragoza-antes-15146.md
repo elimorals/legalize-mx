@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2016-11-16"
+last_updated: "2017-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # CODIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA -ANTES CODIGO PENAL DE COAHUILA-
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -135,11 +137,17 @@ ARTÍCULO 8 (PRINCIPIO DE CULPABILIDAD)
 
 No podrá aplicarse pena alguna, si la acción o la omisión no han sido realizadas culpablemente al concretar el tipo penal de que se trate, sin causa de licitud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+ARTÍCULO 9 (PRINCIPIO DE PROPORCIONALIDAD EN LA PRISIÓN PREVENTIVA OFICIOSA, LA INDIVIDUALIZACIÓN DE LA PENA Y MEDIDAS DE SEGURIDAD).
 
-ARTÍCULO 9 (PRINCIPIO DE PROPORCIONALIDAD EN LA INDIVIDUALIZACIÓN DE LA PENA Y MEDIDAS DE SEGURIDAD)
+(NOTA: EL 5 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 28/2017, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE ABRIL DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 829 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Para que se imponga una medida cautelar de prisión preventiva oficiosa, se tomarán en consideración los argumentos que justifique el ministerio público. SOLO POR DELITO GRAVE HABRÁ LUGAR A LA PRISIÓN PREVENTIVA OFICIOSA.
+
+(NOTA: EL 5 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 28/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE ABRIL DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 829 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+SE CONSIDERAN COMO DELITOS GRAVES QUE AMERITAN PRISIÓN PREVENTIVA OFICIOSA LOS SUPUESTOS ESTABLECIDOS EN EL ARTÍCULO 113 FRACCIÓN III DE ESTE CÓDIGO.
 
 La medida de la pena de prisión que se imponga estará en relación con la gravedad concreta de la conducta del sujeto en el hecho delictuoso que cometió o en el que participó culpablemente, según las circunstancias que concurrieron al mismo, sin perjuicio de disminuirle la pena impuesta por compensación parcial de su culpabilidad o del daño, y en su caso, de sustituirla, suspenderla o reducirla, con las condiciones que establezca la ley, para cumplir con los fines del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1955,8 +1963,6 @@ El Estado sufragará los costos del sistema de monitoreo electrónico de localiz
 
 V. (Legitimación para pedir la concesión de condena condicional y otros aspectos relacionados con ella). El juzgador del juicio resolverá sobre la condena condicional, pero en su defecto, el sentenciado o su defensor, al igual que las víctimas directas o indirectas, o sus representantes legítimos, o sus abogados, podrán en cualquier tiempo pedir al juez de ejecución, la concesión o revocación de la condena condicional, así como en su caso, la modificación o conmutación del sustitutivo, o bien, de la privación o suspensión de derechos o de las medidas de seguridad impuestas, con inclusión de su cancelación, según lo previsto en este capítulo y en el artículo 129 de este código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
 ARTÍCULO 113 (CONDICIONES PARA QUE PROCEDA LA CONDENA CONDICIONAL)
@@ -1991,9 +1997,9 @@ III. (No se trate de otros delitos graves). Que no se trate de cualquiera de los
 
 8) Abuso sexual propio o impropio mediante violencia física que haya ocasionado lesiones de las clasificadas como leves o de mayor gravedad en los artículos 338 parte final, a 342 del código penal, o en perjuicio de persona menor de trece años de edad, de los artículos 397 párrafo último y 398 párrafo último.
 
-> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
-9) Robo de vehículo automotor, o si intervino típicamente un miembro de seguridad pública o privada, ya sean consumados o en grado de tentativa, de los artículos 52, 53 y 415 fracciones I, VI y IX.
+9) Robo en su modalidad agravante por cometerse en local destinado a la industria, comercio, almacén o bodega en horas de la noche previsto en el artículo 414 fracción III; robo con violencia física, moral o psicológica señalada en la fracción I, robo cometido a vivienda, aposento o cuarto que esté habitado o destinado a la habitación previsto en la fracción II, robo que haya recaído en vehículo automotor señalado en la fracción VI, robo con intervención de un miembro de seguridad pública o privada contemplado en la fracción IX y robo sirviéndose de un menor previsto en la fracción X todos del artículo 415, ya sean consumados o en grado de tentativa, según lo prevén los artículos 52 y 53 de este código.
 
 10) Robo con medios oficiales falsos, del artículo 415 fracción IV.
 
@@ -2007,7 +2013,9 @@ III. (No se trate de otros delitos graves). Que no se trate de cualquiera de los
 
 14) Cuando el delito por el que se condene se haya cometido con cualquiera de las circunstancias calificativas previstas en el artículo 272-BIS de este código.
 
-15) Los delitos contra la salud relativos al comercio y suministro de narcóticos en su modalidad de narcomenudeo, previstos en los artículos 475 y 476 de la Ley General de Salud.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+15) Los delitos contra la salud en su modalidad de narcomenudeo por comercio, suministro y posesión con estos fines, previstos en los artículos 475 y 476 de la Ley General de Salud.
 
 16) (Otros delitos que motivan la improcedencia). Que no se trate de un delito doloso cometido contra una persona menor de trece años de edad, en el que se le hayan causado lesiones de las clasificadas como leves o de mayor gravedad en los artículos 338 parte final, a 342 de este código, ni se trate de un delito doloso con la intervención de una persona menor de dieciocho años de edad, o valiéndose de la misma.
 
@@ -4683,7 +4691,7 @@ No se sancionará a quien compre, venda, enajene de cualquier manera o transport
 
 > <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2015)</small>
 
-ARTÍCULO 293 BIS 7. PRESTACIÓN DEL SERVICIO DE RASTRO, PROCESAMIENTO O INDUSTRIALlZACION DE CARNE DE ANIMAL, SUS PRODUCTOS Y SUBPRODUCTOS. Se le impondrá de dos a cinco años de prisión y de cien a trescientos días multa, a quien preste el servicio de rastro, procese o industrialice carne de animal, sus productos y subproductos, sin contar con los permisos o autorizaciones de las autoridades competentes, o no reúna los requisitos sanitarios establecidos en la Ley de Fomento Ganadero para el Estado de Coahuila, la Ley Estatal de Salud o cualquier otra disposición aplicable en materia de sanidad.
+ARTÍCULO 293 BIS 7. PRESTACIÓN DEL SERVICIO DE RASTRO, PROCESAMIENTO O INDUSTRIALIZACION DE CARNE DE ANIMAL, SUS PRODUCTOS Y SUBPRODUCTOS. Se le impondrá de dos a cinco años de prisión y de cien a trescientos días multa, a quien preste el servicio de rastro, procese o industrialice carne de animal, sus productos y subproductos, sin contar con los permisos o autorizaciones de las autoridades competentes, o no reúna los requisitos sanitarios establecidos en la Ley de Fomento Ganadero para el Estado de Coahuila, la Ley Estatal de Salud o cualquier otra disposición aplicable en materia de sanidad.
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
@@ -6191,9 +6199,9 @@ XI. VALES O DISPOSITIVOS ELECTRÓNICOS. Cuando el objeto del robo sean vales de 
 
 MODALIDADES ESPECIALMENTE AGRAVANTES DEL ROBO. Se aplicará de tres a doce años de prisión y multa, con independencia del valor de lo robado, cuando concurra cualquiera de las circunstancias siguientes:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2017)</small>
 
-I. VIOLENCIA O INTIMIDACION EN LAS PERSONAS. Se cometa empleando violencia o intimidación en las personas; o cuando se hayan empleado armas de fuego o utilizado cualquier instrumento u objeto con apariencia, forma o configuración de éstas; o cuando una vez consumado se utilice alguno de estos medios para conservar la cosa robada, procurar la fuga o lograr la impunidad del hecho.
+I. VIOLENCIA EN LAS PERSONAS. Se cometa empleando violencia física, moral o psicológica en las personas; o cuando se hayan empleado armas o utilizado cualquier instrumento u objeto con apariencia, forma o configuración de éstas; o cuando una vez consumado se utilice alguno de estos medios para conservar la cosa robada, procurar la fuga o lograr la impunidad del hecho.
 
 II. VIVIENDA, APOSENTO O CUARTO QUE ESTÉN HABITADOS O DESTINADOS A HABITACIÓN. El hecho se ejecute en vivienda, aposento o cuarto que estén habitados o destinados para habitación; comprendiéndose en esta denominación no sólo los que están fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos.
 
@@ -7084,3 +7092,9 @@ P.O. 16 DE NOVIEMBRE DE 2016.
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 829.- SE REFORMA EL ARTÍCULO 9, LOS INCISOS 9 Y 15 DE LA FRACCIÓN III DEL ARTÍCULO 113 Y LA FRACCIÓN I DEL ARTÍCULO 415 DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
