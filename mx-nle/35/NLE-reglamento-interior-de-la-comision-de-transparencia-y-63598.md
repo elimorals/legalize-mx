@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-comision-de-transparencia-y-63598"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-20"
-last_updated: "2015-10-07"
+last_updated: "2017-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 22 DE MARZO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 20 de agosto de 2008.
 
@@ -1620,3 +1622,15 @@ P.O. 7 DE OCTUBRE DE 2015.
 PRIMERO: El presente acuerdo entrará en vigor a los 02-dos días siguientes al de su aprobación.
 
 SEGUNDO: Publíquese el presente acuerdo en el Periódico Oficial del Estado, de conformidad con el artículo 104, fracción V, inciso j, de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+P.O. 22 DE MARZO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- El presente Reglamento deberá publicarse en el Periódico Oficial del Estado de Nuevo León.
+
+TERCERO.- Se abroga el Reglamento Interior de la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León, publicado en el Periódico Oficial del Estado el 20 de agosto de 2008.
+
+CUARTO.- La Comisión deberá expedir los lineamientos necesarios para el ejercicio de sus atribuciones y ajustarse orgánicamente de conformidad con lo previsto en el presente reglamento y deberán incorporarse todos los servidores públicos necesarios para que la Comisión pueda ejercer sus funciones debidamente siempre y cuando el presupuesto de egresos asignado lo permita.
