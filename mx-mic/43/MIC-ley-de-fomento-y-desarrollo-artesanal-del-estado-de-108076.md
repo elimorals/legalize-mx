@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-y-desarrollo-artesanal-del-estado-de-108076"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-21"
-last_updated: "2015-05-21"
+last_updated: "2017-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,39 @@ state: "MIC"
 ---
 # LEY DE FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+LEY QUE REGULA EL ALMACENAJE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:11 DE DICIEMBRE DE 1998.
 
-Ley publicada en la Novena Sección del Periódico Oficial del Estado de Michoacán, el jueves 21 de mayo de 2015.
+Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga" el 31 de Diciembre de 1991
 
-SALVADOR JARA GUERRERO, Gobernador del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+LIC. ENRIQUE BURGOS GARCIA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo , sabed que:
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente:
+LA QUIINCUAGESIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 DE LA CONSTITUCION POLITICA LOCAL Y
 
-DECRETO
+C O N S I D E R A N D O
 
-EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
+Que los efectos del abuso de las bebidas alcohólicas representa uno de los problemas fundamentales de salud pública en el Estado, pues provoca graves problemas en los ámbitos familiar, social, deportivo, laboral y educativo.
 
-NÚMERO 492
+Que la dignidad de la persona humana, su libertad y su destino trascendente, tienen la primacía sobre cualesquiera fines y procedimientos del Estado como comunidad política y social que busca el bien público de la sociedad.
+
+Que el estado, en su afán de indagar cuales son las causas de los conflictos, su alcance y sus consecuencias, también busca soluciones de fondo, que podrán a la larga, llevar a la sociedad a un modelo de vida armónica en general, y a un estado de bienestar físico, mental y social, en atención del provecho particular de cada individuo.
+
+Que una de las soluciones para disminuir los problemas relacionados con el consumo de bebidas alcohólicas es la reglamentación y control del almacenaje, distribución, venta y consumo de las mismas.
+
+Que es mandato Constitucional la preservación de la salud pública como lo establecen los artículos 4 y 73 fracción XVI de la Constitución Política de los Estados Unidos Mexicanos y 73 y 219 de la Ley General de Salud, que establecen como responsabilidad de los gobiernos de las entidades federativas el fomento y la promoción de la salud mental, así como determinar la ubicación y horario de funcionamiento de los establecimientos donde se expenden bebidas alcohólicas.
+
+Que el número de personas adictas a las bebidas alcohólicas es elevado e incide en el individuo como tal, en el medio social y en la economía familiar propicia accidentes de tránsito y laborales crean adicción en quienes las consumen,
+
+Que la sociedad de Querétaro a manifestado en diferentes foros y a través de sus organizaciones y representantes la necesidad de regular el almacenaje, distribución, venta y consumo de bebidas alcohólicas cuyo abuso pueden contribuir a lesionar la imagen pública del estado y de sus habitantes.
+
+Por lo anterior, la propia Legislatura ha tenido a bien expedir la siguiente
+
+LEY QUE REGULA EL ALMACENAJE, VENTA Y
+
+CONSUMO DE BEBIDAS ALCOHOLICAS EN EL
+
+ESTADO DE QUERETARO.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -43,460 +61,564 @@ Se expide la Ley de Fomento y Desarrollo Artesanal del Estado de Michoacán de O
 
 LEY DE FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO PRIMERO
 
-###### ARTÍCULO 1.
+DISPOSICIONES GENERALES.
 
-La presente Ley es de interés social y observancia general, sus disposiciones se aplican en todo el territorio del Estado y tiene por objeto fomentar, preservar, proteger y promover el desarrollo de la actividad artesanal y mejorar el nivel de vida de los artesanos michoacanos.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
 
-###### ARTÍCULO 2.
+###### ARTICULO 1.
 
-Para efectos de esta Ley se entiende por:
+La aplicación de esta ley corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, y la Secretaría de Planeación y Finanzas.
 
-I. Artesanía. Actividad realizada manualmente en forma individual, familiar o colectiva, que tiene por objeto transformar productos o substancias orgánicas inorgánicas en artículos nuevos con valor histórico, cultural y estético, que pueden ser tradicionales o de creación contemporánea y cumplen con una función socialmente reconocida; producidos con maestría, habilidad y originalidad, reconociéndose como obras de arte y parte de la cultura, el folklor y el patrimonio del Estado;
+###### ARTICULO 2.
 
-II. Artesano. Persona que con sensibilidad creativa, transforma las materias primas manualmente y con habilidades naturales o dominio técnico en artesanías;
+Son objeto de regulación de esta ley las personas físicas, morales y unidades económicas distintas a sus miembros, que en el territorio del estado de Querétaro tengan establecimientos o locales dedicados al almacenaje, venta y consumo de debidas alcohólicas, excepto de alcohol no potable o aquel utilizado para fines cuyo consumo se haga por métodos distintos a su ingestión directa, o bajo receta médica.
 
-III. Instituto. El Instituto del Artesano Michoacano;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-IV. Consejería Jurídica. La Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo;
+###### ARTICULO 3.
 
-V. Consejo. El Consejo Estatal de las Artesanías;
+Para los efectos de esta ley se consideran bebidas alcohólicas los líquidos potables que a la temperatura de 15 grados centígrados tengan concentración alcohólica de 2 grados G. L. o mayor.
 
-VI. Ley. Ley de Fomento y Desarrollo Artesanal del Estado de Michoacán de Ocampo;
+### CAPITULO SEGUNDO.. DE LOS ESTABLECIMIENTOS Y LUGARES
 
-VII. Estado. El Estado Libre y Soberano de Michoacán de Ocampo;
+REGULADOS.
 
-VIII. Gobernador. El Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-IX. Junta. La Junta de Gobierno del Instituto del Artesano Michoacano;
+###### ARTICULO 4.
 
-X. Fondo. El Fondo de Apoyo para los Artesanos; y,
+Para los efectos de esta ley y con relación a los líquidos descritos en el artículo anterior, se extiende por:
 
-XI. Sector artesanal. El constituido por individuos, talleres, empresas, entes de capacitación, y sociedades y asociaciones de artesanos de acuerdo a las figuras asociativas previstas en la Ley.
+Almacenaje: La actividad dirigida a conservarlos en forma transitoria, con carácter de mercancía, dentro de locales cerrados o abiertos.
 
-###### ARTÍCULO 3.
+Venta: La actividad dirigida a enajenar o comercializar el producto, o exhibirlo con ese fin.
 
-Las artesanías originarias del Estado, serán consideradas como parte de su patrimonio y relevantes en su historia, identidad y cultura.
+###### ARTICULO 5.
 
-### CAPÍTULO II. DE LAS AUTORIDADES RESPONSABLES EN LA APLICACIÓN DE LA LEY
+En el Estado de Querétaro, sólo podrán almacenarse, venderse y consumirse bebidas alcohólicas, en los establecimientos locales que esta ley autorice.
 
-###### ARTÍCULO 4.
+###### ARTICULO 6.
 
-La aplicación de la presente Ley corresponde a:
+El almacenaje, venta y consumo de bebidas alcohólicas en el Estado de Querétaro se regirá por las disposiciones de esta ley y supletoriamente, por el Código Fiscal, la Ley de Salud y las demás que regulen la materia.
 
-I. El Gobernador;
+###### ARTICULO 7.
 
-II. Los Ayuntamientos;
+Los establecimientos y lugares mencionados en esta ley se clasifican de la siguiente manera:
 
-III. La Secretaría de Desarrollo Económico;
+TIPO I.- Pulquería, cervecería y cantina
 
-IV. La Secretaría de Salud;
+TIPO II. Bar, Restaurantes, Restaurantes- Bar, fondas, Cenadurías, Loncherías, Ostionerías, Cafés cantantes, Peñas, Centros Turísticos, Balnearios, Centros sociales, Centros Nocturnos y discotecas.
 
-V. La Secretaría de Educación;
+TIPO III.- Tiendas de Autoservicio, Abarrotes, Misceláneas, Vinaterías, Depósitos de Cerveza, y bodegas de Vinos y Licores.
 
-VI. La Secretaría de Turismo; y,
+TIPO IV. Lugares en donde se puede autorizar en forma eventual y transitoria la venta y consumo de bebidas alcohólicas: Bailes Públicos, Kermesses, Plazas de Toros, Lienzos charros, Estudios, Arenas de Box y Lucha y otros lugares en que se presenten espectáculos artísticos o deportivos.
 
-VII. El Instituto del Artesano Michoacano.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-###### ARTÍCULO 5.
+###### ARTICULO 8.
 
-Corresponde al Gobernador del Estado, el ejercicio de las atribuciones siguientes:
+Para los efectos del articulo anterior, los establecimientos y lugares donde se realice el almacenaje, venta y consumo de bebidas alcohólicas en cualquiera de sus presentaciones, se clasifican en categorías para determinar el pago de los derechos por la expedición, regularización o refrendo de la licencia, tomándose, en cuenta el Giro, Lugar de Ubicación y Capital Social.
 
-I. Vigilar y promover en el ámbito de su competencia, el cumplimiento de la presente Ley, por conducto del Instituto del Artesano Michoacano y demás dependencias y entidades que tengan relación con el sector artesanal del Estado;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. Promover las acciones necesarias de coordinación entre los ayuntamientos y el Ejecutivo del Estado, para el cumplimiento de la presente Ley; y,
+###### ARTICULO 9.
 
-III. Las demás que le establezcan otras disposiciones legales o reglamentarias aplicables.
+Para el caso de los establecimientos contemplados en el articulo 7 de la presente Ley, se entenderán por:
 
-###### ARTÍCULO 6.
+I.- Bar.- Es el establecimiento que de manera independiente o anexo o dentro de las instalaciones destinadas a otro giro, vende preponderantemente, bebidas alcohólicas al copeo para su consumo en el mismo local, excepto alcohol, pudiendo de manera complementaria presentar música viva, grabada o videograbada;
 
-Corresponde a los Ayuntamientos, el ejercicio de las atribuciones siguientes:
+II.- Cantina.- Establecimiento en el que preponderantemente se expenden bebidas alcohólicas, al copeo para consumirse en el mismo lugar;
 
-I. Vigilar y promover en el ámbito de su competencia, a través de las autoridades municipales, el cumplimiento de la presente Ley;
+III.- Cervecería.- establecimiento dedicado exclusivamente a la venta de cerveza al menudeo de cualquier tipo y forma de envase, para consumirse en el interior de dicho establecimiento;
 
-II. Contemplar en su Plan Operativo Anual, lo necesario para implementar programas de difusión de la actividad artesanal y mecanismos de apoyo a la comercialización de artesanías;
+IV.- Centros Turísticos y Balnearios.- Lugares de recreación en donde se autoriza en forma moderada, la venta de bebidas alcohólicas en envase abierto, cualquiera que sea su presentación;
 
-III. Coadyuvar en la habilitación y regularización de espacios destinados al comercio de artesanías; y,
+V.- Restaurante o Restaurante- Bar.- Establecimientos autorizados para expender en forma accesoria bebidas alcohólicas, con alimentos, en envase abierto, debiendo contar con las instalaciones necesarias de cocina para la preparación de los alimentos;
 
-IV. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+VI.- Centro Nocturno o Centro Social.- Establecimiento en donde se presentan espectáculos o variedades, y cuenta con pista de baile, música en vivo o grabada y se expenden bebidas alcohólicas en envase abierto o al copeo, con acceso restringido únicamente para mayores de 18 años;
 
-###### ARTÍCULO 7.
+VII.- Discoteca.- Establecimiento que cuenta con pista para bailar y ofrecer música grabada o en vivo, con música continua desde su inicio y autorización para expender bebidas alcohólicas;
 
-Corresponde a la Secretaría de Desarrollo Económico, el ejercicio de las atribuciones siguientes:
+VIII.- Fondas, Cenadurías, Loncherías, Ostionerías, o Marisquerías y Taquerías.- Son los establecimientos autorizados para vender en forma accesoria bebidas alcohólicas, en envase abierto, con alimentos;
 
-I. Implementar los programas necesarios que permitan a los artesanos acceder a créditos;
+IX.- Cafés Cantantes.- Son los establecimientos autorizados para la venta de bebidas alcohólicas en envase abierto, excepto alcohol, con o sin alimentos, y que cuenten con música en vivo o grabada, espectáculos artísticos, o pista de baile;
 
-II. Establecer campañas de capacitación sobre comercialización de productos artesanales;
+X.- Peña.- Establecimiento que proporciona servicio de restaurante con venta de bebidas alcohólicas en forma accesoria y en el que ejecutan música local, regional o folklórica, por conjuntos o solistas;
 
-III. Establecer campañas de difusión y promoción del arte popular, que contribuyan al conocimiento y comercialización de piezas artesanales;
+XI.- Vinatería.- Establecimiento donde se venden bebidas alcohólicas exclusivamente en envase cerrado, no autorizándose la venta de alcohol;
 
-IV. Ser conducto gestor de los artesanos ante dependencias y entidades estatales, federales y organismos internacionales, para obtener recursos económicos y capacitación de cualquier índole que tenga por objeto fortalecer la actividad artesanal; y,
+XII.- Deposito de cerveza. Establecimiento donde se expende exclusivamente cerveza en envase cerrado;
 
-V. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XIII.- Bodega o Almacén de Vinos y Licores.- Establecimiento autorizado para guardar bebidas alcohólicas y realizar la venta de las mismas al mayoreo, considerándose como tal, cuando la venta se realice por una caja o mas;
 
-###### ARTÍCULO 8.
+XIV.- Tienda de Autoservicio, Abarrotes, Misceláneas y Similares.- Establecimientos que vender al publico bebidas alcohólicas en envase cerrado como actividad integrante a otro giro o servicio.
 
-Corresponde a la Secretaría de Salud, el ejercicio de las atribuciones siguientes:
+###### ARTICULO 10.
 
-I. Contemplar campañas de afiliación al sistema de seguridad social, dirigidas especialmente al sector artesanal;
+Pulquería es el establecimiento destinado exclusivamente a la venta de pulque al menudeo, ya sea de barril o envasado.
 
-II. Impulsar campañas difusivas sobre el riesgo de utilizar diversas materias primas nocivas para la salud en el desarrollo de la actividad artesanal;
+### CAPITULO TERCERO.
 
-III. Establecer programas de capacitación en el uso y manejo de diversas sustancias peligrosas para la salud en el desarrollo de la actividad artesanal; y,
+DE LAS REGLAS DE FUNCIONAMIENTO.
 
-IV. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+###### ARTICULO 11.
 
-###### ARTÍCULO 9.
+Los establecimientos y lugares regulados por esta ley, se sujetarán a los horarios y ubicaciones que establezca el Reglamento de Policía y Gobierno Municipal, o en su caso, a las limitaciones que en la especie les determinen otras leyes o las autoridades competentes.
 
-Corresponde a la Secretaría de Educación, el ejercicio de las atribuciones siguientes:
+###### ARTICULO 12.
 
-I. Establecer dentro de los planes y programas de estudios las asignaturas que promuevan el conocimiento de la cultura artesanal del Estado; y,
+En las cantinas, cervecerías y pulquerías deberán instalarse puertas, mamparas, biombos, cortinas o cualquier otro objeto que impida la visibilidad desde el exterior hacia el interior del local.
 
-II. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+Deberán igualmente, reunir las condiciones de construcción, higiene y mobiliario que prevengan los ordenamientos respectivos y las disposiciones sanitarias. Tendrán entrada exclusivamente por la vía pública, sin que exista comunicación interior con habitaciones u otros lugares ajenos al giro.
 
-###### ARTÍCULO 10.
+###### ARTICULO 13.
 
-Corresponde a la Secretaría de Turismo, el ejercicio de las atribuciones siguientes:
+Los centros turísticos son aquellos que por sus bellezas naturales, adaptaciones arquitectónicas, tradición folklórica u otras circunstancias semejantes, a juicio de la autoridad competente, constituyen sitios de descanso y atracción para los turistas.
 
-I. Contemplar la actividad artesanal y todo lo que derive de ella dentro de sus programas de promoción turística;
+Durante los días y horas en que ofrezcan servicios o atracciones propias de sus condiciones naturales o artificiales, podrán funcionar un departamento de bar o cervecería que se regirá por las disposiciones de esta ley.
 
-II. Promover que en cada una de las regiones turísticas del Estado se cuente con un establecimiento donde se puedan exhibir, promocionar y comercializar las artesanías, preferentemente de la región o localidad de que se trate.
+###### ARTICULO 14.
 
-Así mismo, dentro de los programas de promoción que se tengan contemplados anualmente en el ámbito local, nacional o internacional, se contemplará dentro de los atractivos del Estado a la artesanía michoacana; y,
+En los restaurantes, cenadurías, fondas, loncherías, cafés cantantes, peñas, taquerias u otros giros similares, previa licencia, podrán consumirse cerveza y vino de mesa, siempre y cuando se sirva con alimentos.
 
-III. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+En los restaurantes de acuerdo con su categoría podrá funcionar un anexo de bar, durante los días y horas en que preste el servicio principal.
 
-### CAPÍTULO III. DEL INSTITUTO DEL ARTESANO MICHOACANO
+Para determinar la categoría de un restaurante se tomará en cuenta; su ubicación, capital invertido, presentación y calidad del servicio principal.
 
-###### ARTÍCULO 11.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
 
-Se crea el Instituto del Artesano Michoacano, como un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio.
+En los Hoteles se podrán instalar como servicios complementarios, previa autorización, servibares en las habitaciones y restaurantes con servicio de bar, loa que quedarán sujetos a los requisitos y condiciones de esta ley.
 
-###### ARTÍCULO 12.
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
 
-El Instituto del Artesano Michoacano se integrará por:
+Podrán funcionar como anexo o servicio complementario de bar, en los establecimientos mencionados en el presente artículo, siempre y cuando se encuentren sus instalaciones debidamente separadas de su actividad principal y su funcionamiento sea independiente.
 
-I. La Junta de Gobierno;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-II. La Dirección General; y,
+###### ARTICULO 15.
 
-III. Las áreas administrativas que apruebe la Junta de Gobierno.
+En los clubes sociales u otros lugares semejantes, podrá autorizarse el funcionamiento de un departamento de bar, siempre que este servicio se preste únicamente a los socios y a sus invitados dentro de los días y horas en que se les proporcionen los demás servicios propios de esos establecimientos.
 
-###### ARTÍCULO 13.
+Los establecimientos a que se refiere este artículo podrán permitir la celebración de baquetes(sic) en sus salones donde se haga consumo de bebidas alcohólicas sin autorización previa, cuando intervengan personas que no sean socios, siempre que se trate de eventos sin costo para los asistentes.
 
-La Junta de Gobierno se integrará por:
+> <small>(REFORMADO P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. El Gobernador quien fungirá como presidente;
+###### ARTICULO 16.
 
-II. El Titular de la Secretaría de Desarrollo Económico;
+Para los efectos del artículo anterior se entenderá por clubes sociales u otros similares, exclusivamente aquellos establecimientos que se sostengan con la cooperación de sus socios y para la recreación de los mismos.
 
-III. El Titular de la Secretaría de Finanzas y Administración;
+###### ARTICULO 17.
 
-IV. El Titular de la Coordinación de Contraloría del Gobierno del Estado;
+Se prohibe la venta o consumo de bebidas alcohólicas:
 
-V. El Titular de la Coordinación de Planeación para el Desarrollo del Gobierno del Estado;
+I. En la vía pública, parques y plazas públicas;
 
-VI. El Titular de la Secretaría de Cultura;
+II. En los ejidos y centros de producción rural considerados como centros de trabajo;
 
-VII. El Titular de la Secretaría de Turismo del Gobierno del Estado; y,
+III. En los centros de trabajo de naturaleza distinta a los descritos en esta ley, y en las instituciones educativas;
 
-VIII. El Titular de la Secretaría de Pueblos Indígenas del Gobierno del Estado.
+IV. En cualquier evento en donde predominen menores de edad;
 
-Cada uno de los miembros propietarios de la Junta deberá nombrar su respectivo suplente.
+V. En dependencias gubernamentales, salvo eventos especiales debidamente autorizados;
 
-###### ARTÍCULO 14.
+VI. En centros hospitalarios, de concentración de fuerzas públicas de bomberos, penitenciarios, correctivos y cualquier otro con fines similares; y
 
-La Junta se reunirá por lo menos trimestralmente.
+VII. En el interior y exterior de cines, teatros o sitios para espectáculos públicos, salvo los casos de excepción, debidamente autorizados.
 
-Podrá sesionar válidamente con la asistencia de la mitad más uno de los integrantes y las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
+VIII. En los días y horas en que se celebren algún acontecimiento o festividad cívica de interés nacional o local, por acuerdo de la autoridad competente.
 
-###### ARTÍCULO 15.
+###### ARTICULO 18.
 
-La Junta tendrá las siguientes funciones:
+Se prohibe la venta de bebidas alcohólicas, en envase abierto o cerrado:
 
-I. Aprobar, en su caso, el proyecto de presupuesto anual del Instituto, presentado por el Director General;
+I. A los menores de edad, y
 
-II. De acuerdo con esta Ley, vigilar el cumplimiento de las atribuciones asignadas al Instituto;
+II. A los miembros uniformados de las corporaciones policíacas o militares y, en general, a las personas que porten cualquier clase de arma, o se encuentren en notorio estado de ebriedad o bajo la influencia de alguna droga enervante.
 
-III. Analizar y en su caso, aprobar los informes administrativos y financieros del Instituto, presentados por el Director General;
+###### ARTICULO 19.
 
-IV. Vigilar el cumplimiento del plan anual de trabajo del Instituto;
+Para los efectos de esta ley, se considera como:
 
-V. Establecer políticas, lineamientos generales y prioridades a las que se sujetará el Instituto;
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
 
-VI. Aprobar en su caso, el Programa Estatal de Fomento Artesanal y los programas del Instituto, que le presente el Director General;
+a).- LICENCIA DE OPERACION: El documento expedido por la Secretaría de Gobierno, que permita el almacenaje, venta y consumo de bebidas alcohólicas expedida a personas física o moral con el carácter de intransferible para un giro y para un domicilio específico e inamovible. Podrá cancelarse por infracciones a esta ley o a los reglamentos que de ella emanen o por así requerido el interés público.
 
-VII. Recibir del Director General los informes anuales sobre el funcionamiento del Instituto y, en su caso, sugerir la aplicación de las medidas necesarias para el cumplimiento de los programas, objetivos y metas; y,
+b).- AUTORIZACION: El documento expedido con carácter provisional para persona física o moral específica, y en sitio inamovible; podrá ser revocado por violaciones a este ordenamiento o los reglamentos que de ella emanen o porque así lo requiera el interés público.
 
-VIII. Definir, en general, los mecanismos y acciones que permitan el cumplimiento de las funciones y atribuciones del Instituto, así como medir el costo beneficio, trasparencia y productividad del Instituto.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-###### ARTÍCULO 16.
+c).- REFRENDO.- Es el acto por el cual se autoriza la vigencia de la licencia por un año, que corresponde del 1ªde enero al 31 de diciembre del ejercicio en el que se solicita.
 
-La Junta, para su funcionamiento acatará lo dispuesto en la Ley de Entidades Paraestatales del Estado de Michoacán.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-###### ARTÍCULO 17.
+d).- REGULARIZACION.- Acto por el cual se autoriza la contribuyente a realizar modificaciones de la licencia de operación, previa solicitud que haga a la autoridad, quien determinara sobre su procedencia.
 
-El Instituto será dirigido por un Director General, quien contará con la estructura administrativa que autorice la Junta, previo estudio.
+###### ARTICULO 20.
 
-###### ARTÍCULO 18.
+Las licencias y autorizaciones a que se refiere esta ley son actos administrativos subordinados al interés público y se otorga con el carácter de personales, por tanto, en ningún caso podrán ser objeto de cesión, arrendamiento o gravamen.
 
-El Director General del Instituto será designado por el Gobernador, y tendrá las siguientes funciones:
+> <small>(REFORMADO PRIMER PARRAFO ,P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-I. Representar legalmente al organismo;
+###### ARTICULO 21.
 
-II. Formular el plan anual de trabajo y el programa estatal de fomento artesanal, contemplando el desarrollo de las atribuciones del Instituto y el fortalecimiento de la actividad artesanal en el Estado y presentarlo ante la Junta para su aprobación;
+Los interesados en obtener licencia o autorización de almacenaje, distribución, venta y consumo para los establecimientos a los que se refiere esta Ley, deberán presentar solicitud por escrito ante la Secretaría de Gobierno, con los siguientes datos o documentos:
 
-III. Elaborar el proyecto del Reglamento interior del Instituto y presentarlo para su análisis a las instancias competentes;
+I. Nombre, razón o denominación social, denominación y nacionalidad del solicitante. Se prohibe emplear nombres de héroes o pronombres, así como denominaciones que lesionen la moral o las buenas costumbres. Si el solicitante es extranjero, deberá comprobar que está autorizado por la Secretaría de Gobernación para dedicarse a esa actividad en los términos de la Ley General de Población;
 
-IV. Nombrar y remover al personal del Instituto;
+II. Ubicación del local donde pretende establecerse;
 
-V. Ejecutar los acuerdos tomados por el Consejo;
+III. Clase de giro y nombre del mismo;
 
-VI. Implementar los conductos y estrategias que le permitan tener contacto directo con los artesanos y conocer a detalle su situación;
+IV. Actividad o actividades que se pretendan proporcionar en el establecimiento, así como información del capital invertido en muebles y enseres;
 
-VII. Establecer e instrumentar un sistema de evaluación, seguimiento y trasparencia para las actividades artesanales e implementar y ejecutar las políticas, planes, programas y servicios que correspondan;
+V. Dictamen de uso de suelo expedido por la autoridad competente;
 
-VIII. Cumplir y hacer cumplir los acuerdos emanados de la Junta de Gobierno; y,
+VI. La autorización de la Dirección de Salud del Estado respecto a las condiciones sanitarias del mismo.
 
-IX. Todas las acciones encaminadas a fortalecer al sector artesanal en el Estado.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-El Director General del Instituto deberá contar con experiencia en el sector de las artesanías de Michoacán; así mismo, y conocimiento técnico en la materia.
+VII.- Autorización del Ayuntamiento del Municipio que corresponda.
 
-###### ARTÍCULO 19.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-Corresponde al Instituto del Artesano Michoacano, el ejercicio de las atribuciones siguientes:
+VIII.- Visto bueno de la Unidad Estatal de Protección civil, en su caso.
 
-I. Diseñar, evaluar, administrar y promover acciones que tengan por objeto fortalecer e impulsar la actividad artesanal, al interior de la Entidad y fuera de la misma;
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-II. Actualizar permanentemente el censo y registro de Artesanos del Estado de Michoacán, así como los datos que el Instituto considere necesarios;
+Los requisitos a lo que se refieren las fracciones V y VI, solo serán exigibles tratándose de licencia de operación.
 
-III. Difundir a través de medios la actividad artesanal e incrementar el acervo artesanal representando todas las manifestaciones artesanales del Estado;
+###### ARTICULO 22.
 
-IV. Celebrar acuerdos o convenios con los Gobiernos Federal, Estatales o municipales, así mismo con instituciones u organizaciones privadas que tengan como fin el desarrollo de la actividad artesanal;
+Satisfechos los requisitos del artículo anterior, el Ejecutivo del Estado discrecionalmente, otorgará la licencia o autorización correspondiente, debiendo el interesado cubrir el pago respectivo.
 
-V. Impulsar la investigación y adopción de nuevas técnicas y diseños relacionados con la producción artesanal, preservando la autenticidad y calidad de las artesanías michoacanas;
+### CAPITULO CUARTO.
 
-VI. Propiciar la conservación y crecimiento de los talleres familiares existentes, como una medida para resguardar la tradición y la formación de nuevos artesanos;
+DE LAS LICENCIAS Y AUTORIZACIONES.
 
-VII. Apoyar a los artesanos en sus gestiones ante las instituciones de crédito, y brindarles la asesoría necesaria para la obtención de financiamientos adecuados;
+###### ARTICULO 23.
 
-VIII. Difundir ante la comunidad local, nacional e internacional la cultura artesanal del Estado, utilizando los medios de comunicación;
+El refrendo de las licencias a que se refiere esta ley se sujetará en lo conducente a las mismas disposiciones de su expedición.
 
-IX. Planear, fomentar, asesorar y apoyar la celebración de eventos regionales, estatales, nacionales e internacionales que promocionen la artesanía del Estado de Michoacán;
+> <small>(REFORMADO P.O. 11 DE DICIEMBRE DE 1998)</small>
 
-X. Generar e impulsar cadenas productivas para la explotación de artículos artesanales;
+###### ARTICULO 24.
 
-XI. Fomentar en la comunidad científica, académica y tecnológica la participación de especialistas en trabajos de investigación que contribuyan al desarrollo de la actividad artesanal en el Estado de Michoacán;
+El refrendo de las licencias establecidas por esta Ley deberá pagarse anualmente, durante los meses de mayo, junio y julio.
 
-XII. Establecer normas de calidad en los productos artesanales, en coordinación con las autoridades competentes;
+###### ARTICULO 25.
 
-XIII. Fomentar, orientar y dar seguimiento a las organizaciones de artesanos;
+La Secretaría de Gobierno, la Secretaría de Planeación y Finanzas y la Secretaría de Educación, son las dependencias competentes del Ejecutivo para verificar y comprobar el exacto cumplimiento de las disposiciones de esta ley, para lo cual estarán facultadas para realizar los actos y diligencias necesarias en los términos previstos por las leyes aplicables.
 
-XIV. Reconocer, estimular y motivar al artesano, su producción promoviendo permanentemente eventos, y en base a su esfuerzo, habilidad, creatividad y producción reconocerles anualmente en el Día del Artesano;
+###### ARTICULO 26.
 
-XV. Establecer, dentro de la geografía del Estado de Michoacán, regiones artesanales, con la finalidad de tener un contacto directo con estas y que el desarrollo artesanal sea integral;
+Para la inspección y vigilancia del cumplimiento de las disposiciones de esta ley serán hábiles las veinticuatro horas del día, los trescientos sesenta y cinco días del año.
 
-XVI. Asesorar a los artesanos sobre sus obligaciones y derechos en materia fiscal, y la tramitología que esto conlleva;
+###### ARTICULO 27.
 
-XVII. Promover e implementar modelos de acopio y abasto de materia prima en beneficio de los artesanos;
+Las inspecciones fiscales y administrativas, se sujetarán a las siguientes bases:
 
-XVIII. Fortalecer la cultura de respeto al medio ambiente en la producción artesanal a través de la práctica de aprovechamientos sustentables de los recursos naturales y las formas de trabajo;
+I.- El inspector deberá contar con orden por escrito que contendrá la fecha, ubicación del establecimiento por inspeccionar, el objeto de la visita, el fundamento legal, así como el nombre y la fecha de la autoridad que expida la orden;
 
-XIX. Realizar estudios de mercado e implementar esquemas de comercialización de los productos artesanales, incrementando la producción artesanal. Privilegiando esquemas de promoción y difusión del arte popular;
+II.- Los Inspectores practicarán la visita dentro de las 24 horas siguientes a la expedición de la orden;
 
-XX. Apoyar a los artesanos con la comercialización de sus productos, garantizando una justa ganancia para ellos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-XXI. Organizar y dignificar la producción artesanal, en pleno respeto a los usos, creencias, costumbres, cultura y tradiciones, ofertando el producto con oportunidad, calidad y cantidad de demanda;
+III.- El inspector deberá identificarse con el propietario, encargado o su representante y le hará entrega de la orden de inspección.
 
-XXII. Promover la educación y cultura artesanal. La artesanía como valor de identidad nacional, arte, cultura y tradición; por medio de programas dirigidos a la sociedad en general, con el objeto de darle un valor real a la artesanía, sin que sea concebida como un objeto ornamental o utilitario, sino como un producto único e irrepetible con una carga histórica importante;
+IV. De toda visita de inspección se levantará acta circunstanciada por triplicado, en formas numeradas y foliadas en las que se expresará lugar, fecha y nombre de la persona con quien se entienda la diligencia, así como el resultado de la misma; el acta deberá ser firmada por el inspector, por la persona con quien se entendió la diligencia, si desea hacerlo, y por dos testigos de asistencia, quienes estarán presentes durante el desarrollo de la misma, propuestos por esta o en su rebeldía por el inspector;
 
-XXIII. Realizar acciones de preservación y rescate de técnicas y productos artesanales en riesgo o que ya no se practiquen siendo representativas de una comunidad o región;
+V. El Inspector comunicará al interesado, haciéndolo constar en el acta, que cuenta con tres días hábiles para presentar ante la autoridad las pruebas y alegatos que a su derecho convengan; y
 
-XXIV. Impulsar la organización y registro de marcas colectivas, la certificación de los artesanos y sus productos;
+VI. Uno de los ejemplares legibles del acta se entregará a la persona con la que se entendió la diligencia; otro de los ejemplares quedará en poder de la autoridad calificadora y el original se remitirá a la Secretaría de Gobierno.
 
-XXV. Atender las necesidades de asistencia técnica, capacitación, y consultoría administrativa y comercial que impacten en la cadena productiva, así como la innovación artesanal y nuevos diseños artesanales como una prioridad en los programas a desarrollar; y,
+###### ARTICULO 28.
 
-XXVI. Todos aquellos programas, acciones y actividades que tiendan a desarrollar y fortalecer la actividad artesanal en el Estado.
+Transcurrido en plazo a que se refiere a la persona fracción V del artículo anterior, la Secretaría de Planeación y Finanzas calificará el acto dentro de un término de tres días hábiles, considerando la gravedad de la infracción, si existe reincidencia, las circunstancias que hubieren concurrido, las pruebas aportadas los alegatos formulados en su caso y dictará la resolución que proceda, debidamente fundada y motivada, notificándola al interesado para los efectos procedentes e informando a la Secretaría de Gobierno.
 
-###### ARTÍCULO 20.
+###### ARTICULO 29.
 
-Corresponderá al Instituto promover y concretar acciones para que los artesanos cuenten con apoyos sociales y estímulos fiscales.
+Constituyen infracciones a la presente ley, las siguientes:
 
-###### ARTÍCULO 21.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-El Instituto podrá celebrar convenios de colaboración con instituciones académicas y entidades públicas o privadas que tengan por objeto desarrollar la actividad artesanal en todos los rubros de interés.
+I.- Almacenar, vender, o consumir bebidas alcohólicas en los establecimientos y lugares que no cuenten con la licencia o el refrendo correspondiente.
 
-###### ARTÍCULO 22.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-Para el cumplimiento de la presente Ley, el Instituto actualizará las ramas de la producción artesanal utilizadas en el Estado.
+II.- Distribuir bebidas alcohólicas particulares que no cuenten con licencia o autorización para vender o consumir en establecimientos
 
-### CAPÍTULO IV. DEL CONSEJO ESTATAL DE LAS ARTESANÍAS
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-###### ARTÍCULO 23.
+III.- Transportar bebidas alcohólicas sin la autorización correspondiente.
 
-El Consejo Estatal de las Artesanías es un órgano de consulta, asesoría y apoyo técnico del Instituto que tiene por objeto integrar estrategias y mecanismos que impulsen el desarrollo de la actividad artesanal en el Estado.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-###### ARTÍCULO 24.
+IV.- Vender bebidas alcohólicas en lugares prohibidos por este ordenamiento, las autoridades competentes o las leyes y reglamentos de la materia
 
-Estudiar y analizar en lo general las necesidades y la problemática que enfrente el sector artesanal, así como proponer alternativas que alienten su crecimiento y consoliden sus niveles de rentabilidad a favor del desarrollo de los artesanos del Estado y la permanencia de sus valores tradicionales.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-###### ARTÍCULO 25.
+V.- Vender directamente al publico bebidas alcohólicas fuera del establecimiento.
 
-El Consejo estará integrado por:
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-I. El Gobernador, quien fungirá como presidente;
+VI.- Tener el establecimiento vista del exterior al interior, o acceso por lugares distintos a la vía publica, o comunicación con viviendas o lugares ajenos al giro, cuando la venta sea en envase abierto sin alimentos; hecha excepción de los bares debidamente autorizados.
 
-II. El Titular de la Secretaría Desarrollo Económico del Estado;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-III. El Titular de la Secretaría de Turismo del Estado;
+VII.- Dar en cesión, arrendamiento o permitir que se constituya algún gravamen sobre la licencia, así como cambiar el domicilio o titular de la misma.
 
-IV. El Titular de la Secretaría de Salud del Estado;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-V. El Titular de la Secretaría de Cultura del Estado;
+VIII.- No colocar en la portezuela del vehículo en el que se realiza el porteo, el nombre, domicilio, razón social y numero de registro de empadronamiento del contribuyente.
 
-VI. El Titular de la Secretaría de Educación del Estado;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VII. El Presidente de la Comisión de Cultura y Artes del Congreso del Estado;
+IX.- Operar fuera del horario autorizado.
 
-VIII. El Presidente de la Comisión de Industria, Comercio y Servicios del Congreso del Estado;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-IX. El Presidente de la Comisión de Turismo del Congreso del Estado;
+X.- Vender bebidas alcohólicas, excepto en envase cerrado, a miembros uniformados de las corporaciones policiacas y militares, y a personas que porten armas o se encuentren en notorio estado de ebriedad o bajo la influencia de alguna droga enervante.
 
-X. El Presidente de la Unión Estatal de Artesanos de Michoacán;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-XI. Un artesano por cada una de las regiones artesanales en el Estado;
+XI.- Vender bebidas alcohólicas los días y horas en que exista prohibición expresa del Ejecutivo del Estado o de la autoridad municipal correspondiente.
 
-XII. El Presidente del Consejo Coordinador Empresarial del Estado de Michoacán;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-XIII. Un representante de la Cámara Nacional de Comercio, Servicios y Turismo, a propuesta de las cámaras en los municipios adheridas a esa organización, existentes en el Estado;
+XII.- Vender bebidas alcohólicas distintas o en forma diversa a la que permita la licencia o autorización correspondiente.
 
-XIV. El Director General del Instituto del Artesano Michoacano; y,
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-XV. El Director General del Instituto de Capacitación para el Trabajo del Estado de Michoacán.
+XIII.- Vender bebidas alcohólicas en cualquier forma y presentación a menores de edad.
 
-El cargo de consejero es de carácter honorífico.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-Los consejeros podrán designar a un suplente con derecho a voz y voto, para que asista a las sesiones que al titular se le imposibiliten.
+XIV.- Permitir menores de 16 años de edad atender los establecimientos regulados por esta Ley.
 
-###### ARTÍCULO 26.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-El Consejo deberá invitar a universidades, instituciones y entidades públicas, federales, locales y municipales, privadas y sociales que se determinen, además a personas relacionadas con la actividad artesanal en el Estado, con participación única y exclusivamente con derecho a voz.
+XV.- Permitir el acceso a menores de edad a establecimientos donde se expendan predominantemente bebidas alcohólicas.
 
-###### ARTÍCULO 27.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-El Consejo llevará a cabo, por lo menos, una sesión ordinaria cada cuatro meses. Podrá sesionar de manera extraordinaria las veces que considere necesarias.
+XVI.- Negarse a mostrar al personal autorizado la licencia o autorización correspondiente, cuantas veces le sea requerida.
 
-###### ARTÍCULO 28.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-Las sesiones sólo serán válidas con la asistencia de la mitad más uno de los integrantes del Consejo.
+XVII.- Obstaculizar o no permitir que se lleve a cabo la inspección ordenada por la autoridad competente.
 
-###### ARTÍCULO 29.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1994)</small>
 
-Las resoluciones, acuerdos y acciones se tomarán por mayoría simple de votos de los asistentes a la Sesión.
+XVIII.- Permitir en el interior del establecimiento, consumir bebidas alcohólicas a menores de edad.
 
-### CAPÍTULO V. DE LOS DERECHOS DE LOS ARTESANOS
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1994)</small>
 
-###### ARTÍCULO 30.
+XIX.- Incitar por cualquier tipo de propaganda, el consumo en exceso de bebidas alcohólicas.
 
-Son derechos de los artesanos:
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1994)</small>
 
-I. Acceder a los programas gubernamentales de apoyo al sector artesanal;
+XX.- Si algún establecimiento que cuente con licencia para la venta de bebidas alcohólicas, sin causa justificada y sin la autorización correspondiente, deja de funcionar por más de sesenta días, es causa de la cancelación de la licencia respectiva.
 
-II. Organizarse a través de la constitución de las figuras jurídicas que consideren pertinentes;
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1994)</small>
 
-III. Recibir la asesoría necesaria por parte de las dependencias del poder ejecutivo, con el fin de coadyuvar en el desarrollo integral de la actividad artesanal;
+XXI.- No realizar el refrendo de la licencia en los términos y fechas que se establezcan en el calendario emitido por la autoridad competente.
 
-IV. Recibir una justa remuneración económica por la comercialización de sus productos, y más aún cuando esta se haga por medio del Instituto del Artesano Michoacano o alguna otra dependencia del Poder Ejecutivo del Estado;
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1994)</small>
 
-V. Ser tratados de manera digna y respetuosa;
+XXII.- En general, la inobservancia de cualquiera de las disposiciones de esta ley y demás relativas en la materia.
 
-VI. Participar en el censo y registro de artesanos del Estado;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-VII. Expresar de manera directa la problemática que lo aqueje ante las instancias gubernamentales pertinentes, con la intención de obtener apoyo y solución de los mismos; y,
+### CAPITULO QUINTO
 
-VIII. Participar en los concursos, ferias, muestras y toda actividad que organice el Instituto.
+DE LAS INSPECCIONES.
 
-### CAPÍTULO VI. DEL DESARROLLO ARTESANAL SUSTENTABLE
+###### ARTICULO 30.
 
-###### ARTÍCULO 31.
+Las sanciones que se impondrán a los infractores de la presente ley, consistirán en:
 
-Para establecer una cultura ecológica en el sector artesanal se deberá promover entre los artesanos del Estado el aprovechamiento sustentable de los recursos naturales susceptibles de ser utilizados como materias primas para la elaboración de artesanías.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1994)</small>
 
-###### ARTÍCULO 32.
+I.- Multa hasta por una cantidad equivalente de cincuenta hasta cincuenta mil veces el salario mínimo correspondiente a la zona económica de la Capital de Estado.
 
-El Instituto en coordinación con las dependencias competentes y Ayuntamientos, fomentará la utilización de insumos artesanales alternos en aquellas zonas donde de conformidad con los criterios ecológicos, disposiciones administrativas normas oficiales y/o disposiciones jurídicas aplicables, no sea posible la explotación de recursos naturales.
+II.- Clausura;
 
-###### ARTÍCULO 33.
+III.- Suspensión de la licencia o autorización;
 
-Privilegiando el respeto a las diferencias culturales, la libre determinación de las comunidades y la conservación de los ecosistemas en el aprovechamiento de los insumos para la producción, el Instituto, apoyará preferentemente al productor artesanal para la extracción, recolección y utilización de aquellas materias primas de origen natural que no pueden ser sujetas a una explotación masiva.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1994)</small>
 
-### CAPÍTULO VII. DEL FONDO DE APOYO PARA LOS ARTESANOS
+IV.- Revocación o cancelación;
 
-###### ARTÍCULO 34.
+ADICIONADA, P.O. 1 DE ENERO DE 1994)
 
-Se crea el Fondo de Apoyo para los Artesanos con la finalidad de generar recursos para fortalecer la actividad artesanal en el Estado.
+V.- Clausura temporal o definitiva del establecimiento.
 
-###### ARTÍCULO 35.
+### CAPITULO SEXTO.
 
-El patrimonio del Fondo se integra por:
+INFRACCIONES.
 
-I. Los recursos presupuestales que reciba del Ejecutivo del Estado;
+###### ARTICULO 31.
 
-II. Los recursos que obtenga por medio de la gestión ante organismos públicos y privados, municipales, estatales, nacionales e internacionales;
+Contra el acuerdo del Secretario de Gobierno que niegue la expedición de la licencia o el refrendo de la misma o que revoque una que se encuentre en vigor, procederá el recurso de revocación en los términos previstos por el Código Fiscal del Estado.
 
-III. Todo recurso o bien que pueda obtenerse por cualquier título, herencia, legado o donación; y,
+Dicho recurso procederá también en contra de la calificación de las sanciones.
 
-IV. Todo otro ingreso no previsto en los incisos anteriores.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-###### ARTÍCULO 36.
+###### ARTICULO 32.
 
-Los recursos del Fondo podrán destinarse a:
+Se entiende por porteo, el transporte de bebidas alcohólicas en cantidades que excedan de diez litros.
 
-I. La obtención de equipo, obra civil, herramientas y materiales para artesanos que presenten un nivel de marginación;
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-II. Brindar apoyo en especie para los artesanos que pierdan sus herramientas de trabajo por medio de fenómenos meteorológicos;
+###### ARTICULO 33.
 
-III. Programas de comercialización nacional e internacional;
+El porteo de bebidas alcohólicas se llevara a cabo por las personas, que, en términos de la presente Ley, cuenten con Licencia de operación o autorización, previo el pago de los derechos que establezcan las leyes fiscales. En todo caso debe contarse con la documentación que ampare el producto.
 
-IV. Programas de preservación y fomento de la tradición artesanal;
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-V. Créditos para el fortalecimiento de la actividad artesanal; y,
+### CAPITULO SEPTIMO. DEL PORTEO
 
-VI. Cualquier otra acción propuesta por el Consejo, previa aprobación por parte de la Junta.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-###### ARTÍCULO 37.
+###### ARTICULO 34.
 
-El Instituto estará facultado para ejercer los recursos del Fondo en los términos de la presente Ley y su reglamento.
+Los porteadores tendrán las siguientes obligaciones:
 
-### CAPÍTULO VIII. DE LAS SANCIONES
+I.- Empadronarse en la Dirección de Ingresos, obteniendo la cédula empadronamiento correspondiente y registrar el vehículo autorizado para el porteo;
 
-###### ARTÍCULO 38.
+II.- Colocar en la portezuela del vehículo, nombre domicilio, razón social y numero de registro de empadronamiento.
 
-Los servidores públicos que no cumplan con eficacia y diligencia las obligaciones que les señala esta Ley, serán sancionados conforme a la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipio (sic) o la autoridad estatal o federal competente de acuerdo a la materia.
+III.- Comprobar mediante facturas la procedencia del producto.
+
+IV.- Dar aviso de cambio del vehículo utilizado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 35.
+
+La infracción a cualquiera de las disposiciones del articulo anterior dará lugar a las sanciones a que se refiere el Capitulo Sexto de esta Ley. Lo anterior sin perjuicio de que , al detectarse el porteo de bebidas alcohólicas sin la debida documentación que ampare el producto, la autoridad fiscal proceda de inmediato al decomiso del mismo, el cual garantizara el interés fiscal a pagar por el infractor.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 36.
+
+Se entiende por clandestinaje, el almacenaje, distribución, venta y consumo de bebidas alcohólicas en los establecimientos y lugares que no cuenten con la licencia o autorización correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
+
+###### ARTICULO 37.
+
+Independientemente de la sanción que en términos de esta Ley corresponda al clandestinaje, se procederá de inmediato a retener el producto, como garantía del crédito que se origine con motivo de la infracción.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+### CAPITULO OCTAVO. CLANDESTINAJE
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 38.
+
+Cuando el producto decomisado sea de fácil descomposición, la autoridad procederá de inmediato a venderlo y la cantidad que se obtenga de su venta garantizara el interés fiscal. De no ser posible su venta, se procederá a la destrucción del mismo, levantando acta circunstanciada en presencia de dos testigos.
 
 T R A N S I T O R I O S
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+###### ARTICULO PRIMERO.
 
-SEGUNDO. Se abroga la Ley de Fomento Artesanal del Estado de Michoacán de Ocampo.
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
-TERCERO. El Gobernador realizará las acciones necesarias a fin de integrar e instalar el Consejo Estatal de las Artesanías en un plazo no mayor a 90 días posteriores a la publicación del presente Decreto.
+###### ARTICULO SEGUNDO.
 
-CUARTO. El Director General del Instituto deberá elaborar el reglamento interior y presentarlo a las instancias competentes en un plazo no mayor a 45 días posteriores a la publicación del presente Decreto.
+El proceso de refrendo, por esta única vez, podrá extenderse hasta el 30 de junio de 1992.
 
-QUINTO. La Junta deberá aprobar el reglamento Interior del Instituto en un Plazo no mayor a 60 días a partir de la publicación del presente Decreto.
+###### ARTICULO TERCERO.
 
-SEXTO. El personal sindicalizado que se encuentre adscrito a la Casa de las Artesanías del Estado de Michoacán de Ocampo, pasará a formar parte del Instituto, respetándose sus derechos laborales. El personal de confianza será reconsiderado por la Junta en términos de la presente Ley.
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente.
 
-SÉPTIMO. Una vez que entre en vigor la presente Ley, el Ejecutivo a través de la Secretaría de Finanzas y Administración, creará la Unidad Programática Presupuestal del Instituto del Artesano Michoacano y se realizarán las acciones necesarias para que se constituya el Fondo de Apoyo para los Artesanos previsto en el Capítulo VII de esta Ley.
+LO TENDRA ENTENDIDO EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARA SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
-El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
+DADA EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO A LOS VEINTISIETE DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y UNO.
 
-DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 05 cinco días del mes de marzo de 2015 dos mil quince.
+DIPUTADO PRESIDENTE
 
-ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. SARBELIO AUGUSTO MOLINA VÉLEZ.- PRIMERA SECRETARIA.- DIP. ADRIANA GABRIELA CEBALLOS HERNÁNDEZ.- SEGUNDO SECRETARIO.- DIP. LEONARDO GUZMÁN MARES.- TERCERA SECRETARIA.- DIP. DANIELA DE LOS SANTOS TORRES. (Firmados).
+C. GILBERTO UGALDE CAMPOS.
 
-En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 07 siete días del mes de abril del año 2015 dos mil quince.
+VICEPRESIDENTE.
 
-SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- LIC. JAIME AHUIZOTL ESPARZA CORTINA.- (Firmados).
+LIC. VENANCIO CORREA ORDOÑEZ
+
+DIPUTADO SECRETARIO
+
+LIC. JUAN VARGAS OCAMPO
+
+DIPUTADO SECRETARIO
+
+LIC. JACARANDA LOPEZ SALAS.
+
+EN CUMPLIMIENTO A LO DISPUESTO POR LA FRACCION PRIMERA DEL ARTICULO 57 DE LA CONSTITUCION POLITICA DEL ESTADO, Y PARA SU DEBIDA PUBLICACION Y OBSERVANCIA, EXPIDO LA PRESENTE LEY EN LA RESIDENCIA OFICIAL DEL PODER LEGISLATIVO DEL ESTADO A LOS TREINTA Y UN DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y UNO.
+
+A T E N T A M E N T E .
+
+SUFRAGIO EFECTIVO. NO REELECCION.
+
+LIC. ENRIQUE BURGOS GARCIA
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. JESUS RODRIGUEZ HERNANDEZ
+
+SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 30 DE DICIEMBRE DE 1992
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se oponga a la presente Ley.
+
+P.O. 1 DE ENERO DE 1994
+
+PRIMERO.- Esta Ley entrará en vigor del día primero de enero de 1994.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+TERCERO.- Sólo y exclusivamente para el ejercicio fiscal de 1994, los servicios prestados por el Registro Público de la Propiedad, a las viviendas de interés social o popular, relativo a la inscripción de compra-venta de inmuebles y constitución de hipoteca, se causarán cuatro días de salario mínimo, en lugar de lo establecido en el artículo 188 de la Ley General de Hacienda del Estado.
+
+CUARTO.- Sólo y exclusivamente para el ejercicio fiscal de 1994, los derechos establecidos en los artículos 189 al 205 de la Ley General de Hacienda del Estado, tratándose de inmuebles de interés social o popular causarán un 50% del valor establecido.
+
+QUINTO.- Sólo y exclusivamente para el ejercicio fiscal de 1994, para los efectos del artículo 209 de la Ley General de Hacienda del Estado, los derechos por la expedición de constancias para vivienda de interés social o popular expedida por la Dirección de Catastro, causará un día de salario mínimo.
+
+SEXTO.- Sólo y exclusivamente para el ejercicio fiscal de 1994, los inmuebles adquiridos por las asociaciones religiosas estarán exentas del impuesto por las operaciones de traslado e dominio y otras operaciones inmobiliarias contempladas en la Ley General de Hacienda de los Municipios.
+
+> <small>(F. DE E., P.O. 28 DE ABRIL DE 1994)</small>
+
+SÉPTIMO.- Sólo y exclusivamente para el ejercicio fiscal de 1994, en las operaciones de traslado de dominio y otras operaciones inmobiliarias contempladas en la Ley General de Hacienda de los Municipios, se concederá una deducción de 15 veces el salario mínimo general vigente elevado al año, en la base del impuesto de los inmuebles de interés social o popular, en favor del primer adquirente de los inmuebles.
+
+OCTAVO.- Para los efectos de las Leyes Generales de Hacienda del Estado así como la de los Municipios, se consideran inmuebles de interés social, aquellos cuyo valor total no excede de quince veces el salario mínimo general vigente elevado al año, y popular aquellos cuyo valor total no excedan de veinticinco veces el salario mínimo vigente elevado al año.
+
+P.O. 31 DE DICIEMBRE DE 1996
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor a partir del día 1º de enero de 1997.
+
+11 DE DICIEMBRE DE 1998
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor a partir del día 1º de enero de 1999.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" para que surta sus efectos legales.
