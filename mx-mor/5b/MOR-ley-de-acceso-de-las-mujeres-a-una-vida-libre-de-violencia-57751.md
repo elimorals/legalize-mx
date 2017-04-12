@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2015-08-19"
+last_updated: "2017-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -265,9 +265,21 @@ Violencia en el noviazgo: son todos los actos de violencia física, sexual, mora
 
 El Estado y los Municipios participaran de manera conjunta en la implementación de Políticas Públicas para prevenir, identificar, atender y resolver esta modalidad de violencia, realizando acciones y programas de prevención de la violencia en el noviazgo en adolescentes y jóvenes, a través de mecanismos de información y campañas para erradicar los roles, estereotipos sexistas, las prácticas de resolución violentas de conflictos, la misoginia y la legitimación social al uso de la violencia.
 
-### CAPÍTULO VII. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO I. DE LOS MODELOS DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN Y DE LOS EJES DE ACCIÓN
+### CAPÍTULO VI BIS. DE LA VIOLENCIA POLÍTICA
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+###### Artículo 19 Quater.
+
+La Violencia política es cualquier acción, conducta u omisión, que basada en elementos de género, tenga por objeto o resultado menoscabar, anular, obstaculizar o restringir el reconocimiento o ejercicio de los derechos políticos de las mujeres, su participación en asuntos públicos, o de las prerrogativas inherentes a un cargo público.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+Artículo 19 Quintus.- Las autoridades de los distintos órdenes de gobierno, el Instituto Morelense de Procedimientos Electorales y Participación Ciudadana, la Fiscalía General del Estado de Morelos, el Tribunal Electoral del Estado de Morelos y los demás integrantes del Sistema Estatal, coordinarán las acciones e instrumentos interinstitucionales que permitan avanzar en materia de combate de la violencia política contra las mujeres.
+
+### CAPÍTULO VII. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 20.
 
@@ -303,7 +315,7 @@ VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de da
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO II. DE LOS MODELOS DE ATENCIÓN
+### CAPÍTULO I. DE LOS MODELOS DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN Y DE LOS EJES DE ACCIÓN
 
 ###### Artículo 21.
 
@@ -353,7 +365,7 @@ VI.- Metas cualitativas y cuantitativas, y
 
 VII.- Mecanismos de evaluación y medición.
 
-### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN
+### CAPÍTULO II. DE LOS MODELOS DE ATENCIÓN
 
 #### SECCIÓN PRIMERA. DEL GOBIERNO DEL ESTADO DE MORELOS
 
@@ -457,7 +469,7 @@ La permanencia de las mujeres en los refugios no podrá ser mayor a tres meses a
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO IV. DE LOS MODELOS DE SANCIÓN
+### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN
 
 ###### Artículo 33.
 
@@ -475,7 +487,7 @@ IV.- La capacitación psicológica y jurídica transversal de los servidores pú
 
 La identificación de los factores protectores por cada uno de los tipos de victimización, a partir del impacto que genera la violencia contra las mujeres, se integrará a los modelos preventivos de detección que se efectúen, sin perjuicio de las estrategias de difusión y visibilización de la violencia contra las mujeres y sus consecuencias individuales y colectivas.
 
-### CAPÍTULO V. DE LOS MODELOS DE ERRADICACIÓN
+### CAPÍTULO IV. DE LOS MODELOS DE SANCIÓN
 
 ###### Artículo 35.
 
@@ -489,7 +501,7 @@ III.- Los procedimientos ágiles que no mermen el empoderamiento de las mujeres,
 
 IV.- El registro de los modelos ante la Secretaría Ejecutiva del Sistema.
 
-### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA CONTRA LAS MUJERES Y DEL AGRAVIO COMPARADO
+### CAPÍTULO V. DE LOS MODELOS DE ERRADICACIÓN
 
 ###### Artículo 36.
 
@@ -503,9 +515,7 @@ III.- La armonización normativa y judicial que revise las normas y la interpret
 
 ## TÍTULO CUARTO. DE LOS MECANISMOS GARANTES
 
-### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
-
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA CONTRA LAS MUJERES Y DEL AGRAVIO COMPARADO
 
 ###### Artículo 37.
 
@@ -527,7 +537,9 @@ Para los efectos anticipados de cualquier agravio comparado, la Consejería Jur�
 
 La Mesa de Armonización legislativa a que hace alusión el artículo anterior de esta ley, será parte del Sistema Estatal, ante quién rendirá informe anual de las iniciativas de ley que presenten el Congreso del Estado o el Ejecutivo Estatal, con motivo de la armonización normativa sistemática que se realice para erradicar la discriminación y la violencia contra las mujeres.
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL
+### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### Artículo 41.
 
@@ -571,7 +583,7 @@ Las autoridades jurisdiccionales serán las competentes para valorar las órdene
 
 ## TÍTULO QUINTO. DEL SISTEMA ESTATAL Y PROGRAMA ESTATAL
 
-### CAPÍTULO II. DEL PROGRAMA ESTATAL
+### CAPÍTULO I. DEL SISTEMA ESTATAL
 
 ###### Artículo 43.
 
@@ -625,7 +637,7 @@ Dicho Sistema Estatal será presidido por el Secretario de Gobierno, recayendo l
 
 Al Sistema Estatal podrán ser invitados los servidores públicos o miembros de la sociedad civil que sea procedente, a las sesiones ordinarias o extraordinarias, de conformidad con lo señalado en el reglamento de la ley.
 
-### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO II. DEL PROGRAMA ESTATAL
 
 ###### Artículo 48.
 
@@ -677,9 +689,11 @@ IX.- La operación de las dependencias e instituciones encargadas de la atenció
 
 X.- Se llevará a cabo seguimiento a los medios de comunicación para evitar que se fomenten (sic) la violencia de género, estos deberán promover la erradicación de todo tipo de violencia, fortaleciendo el respeto a los derechos humanos y la dignidad de las mujeres.
 
-### CAPÍTULO II. DE LOS MUNICIPIOS Y DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL
+### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
 ## TÍTULO SEXTO
+
+### CAPÍTULO II. DE LOS MUNICIPIOS Y DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL
 
 #### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
 
@@ -1242,3 +1256,11 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan con lo dispuesto por el presente decreto.
+
+P.O. 12 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS SEIS POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, Y DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, CON EL PROPÓSITO DE COMBATIR DE MANERA INTEGRAL LA VIOLENCIA POLÍTICA EN CONTRA DE LAS MUJERES".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
