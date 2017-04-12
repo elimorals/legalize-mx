@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2017-03-08"
+last_updated: "2017-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -115,7 +115,7 @@ Desde la formulación del citado proyecto del Instituto Nacional de Ciencias Pen
 
 Esos sustitutivos, que también aquí se recogen ahora, son el tratamiento en libertad (artículo 30), la semilibertad (artículo 31) y el trabajo en favor de la comunidad (artículo 32), además de la multa y la suspensión condicional de la ejecución de la condena. De esta forma se renueva la reacción penal frente al delito, que ya no queda encomendada, con la frecuencia que se acostumbró, a la pena privativa de la libertad. Como antes se dijo, estas medidas operan a título de sustitutivos, pero también, en varios casos, como penas aplicables directamente al delito cometido.
 
-Si bien es cierto que los sustitutivos ofrecen ventajas notables sobre la prisión, también lo es que el empleo excesivo de aquéllos, sin el debido cuidado, y la indiscriminada y expansiva sustitución de la pena privativa de libertad, producto de un entusiasmo de buena fe, pero escasamente documentado, traen consigo problemas mayores que los que concurren a resolver y determinan, a la postre, el descrédito de las medidas no privativas de la libertad, con la consecuente tentación de retroceder en este ámbito del desarrollo normativo. Esto se ha visto en la legislación federal y del Distrito Federal, cuya experiencia y novedades se tomaron en cuenta en este ordenamiento.
+Si bien es cierto que los sustitutivos ofrecen ventajas notables sobre la prisión, también lo es que el empleo excesivo de aquéllos, sin el debido cuidado, y la indiscriminada y expansiva sustitución de la pena privativa de la libertad, producto de un entusiasmo de buena fe, pero escasamente documentado, traen consigo problemas mayores que los que concurren a resolver y determinan, a la postre, el descrédito de las medidas no privativas de libertad, con la consecuente tentación de retroceder en este ámbito del desarrollo normativo. Esto se ha visto en la legislación federal y del Distrito Federal, cuya experiencia y novedades se tomaron en cuenta en este ordenamiento.
 
 Por ello se ha puesto cuidado en evitar que los sustitutivos excedan los términos que deben corresponderles por ahora; el éxito en este punto depende de la racionalidad del sistema adoptado, en sí mismo, y de la buena aplicación por parte de las autoridades correspondientes, con las que debe concurrir la sociedad. A esta racionalidad y prudencia, consecuentes con el verdadero desarrollo del régimen penal, contribuye otra apreciación, que el Código recoge: el diverso tratamiento que se da a los casos de delito doloso y a los supuestos de delito culposo (artículo 73), natural en un ordenamiento que subraya la importancia de la culpabilidad del agente.
 
@@ -3645,6 +3645,16 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por las
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por la fracción VI, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días-multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+###### ARTICULO 272 Bis.
+
+Se equipara al delito de abuso de autoridad y se aplicará una pena de uno a tres años de prisión, de cincuenta hasta trescientos días-multa y destitución o inhabilitación hasta por dos años para desempeñar otro empleo, cargo o comisión, al servidor público cuando:
+
+I. Ejerza cualquier tipo de violencia contra un servidor público por elección o designación, para obtener contra su voluntad, la renuncia o licencia al cargo que ejercen, y
+
+II. Aproveche el estado de embarazo, parto o puerperio de una servidora pública por elección o designación, para impedir o negarle el ejercicio de su mandato.
+
 ### CAPITULO XIX. ULTRAJE Y USO INDEBIDO DE INSIGNIAS PUBLICAS
 
 ### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
@@ -4900,3 +4910,11 @@ P.O. 8 DE MARZO DE 2017.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 12 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS SEIS.- POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, Y DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, CON EL PROPÓSITO DE COMBATIR DE MANERA INTEGRAL LA VIOLENCIA POLÍTICA EN CONTRA DE LAS MUJERES”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
