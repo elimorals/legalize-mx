@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-transporte-publico-del-estado-de-87645"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-19"
-last_updated: "2015-03-17"
+last_updated: "2017-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "SLP"
 
 REGLAMENTO DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
 MARCELO DE LOS SANTOS FRAGA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, CON FUNDAMENTO EN LOS ARTICULOS 80 FRACCIONES I Y III, Y 83 DE LA CONSTITUCION POLITICA DEL ESTADO, ASI COMO EN LOS ARTICULOS 2° Y 12 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Que además de las anteriores, se han establecido diversas regulaciones tendentes a agilizar, las diversas relaciones administrativas que en términos de la Ley se establecen entre las autoridades del transporte, los concesionarios y los usuarios, sin demerito de la certeza jurídica que debe revestir todo acto enmarcado en una actividad de servicio público, de conformidad con lo expuesto y los fundamentos legales señalados, tengo a bien expedir el siguiente:
 
@@ -1815,6 +1817,152 @@ d) Modalidad del servicio que presta o prestaba, y
 
 e) En su caso, motivo de la baja del operador.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+ARTICULO 121 BIS. Requisitos para el registro de las empresas de redes de transporte, representantes legales, mandatarios y apoderados.
+
+I. Solicitud en el formato que emita la Secretaría, la cual contendrá, cuando menos, los siguientes datos:
+
+a) Razón o denominación social;
+
+b) Inscripción en la sección de empresas de redes de transporte;
+
+c) Nombre del representante legal, precisando las facultades con que cuenta;
+
+d) Nombre de cada uno de los apoderados o mandatarios y las facultades con las que cada uno cuenta; y
+
+e) Domicilio en la ciudad Capital del Estado, en el que se le notificará todo lo concerniente a la prestación de servicio.
+
+II. A la solicitud deberá adjuntarse la documentación siguiente:
+
+a) Copia certificada del acta constitutiva de la sociedad debidamente registrada ante el Instituto Registral y Catastral;
+
+b) Copia certificada del instrumento notarial en la que conste la representación legal de los apoderados o mandatarios de la empresa, no será necesario cumplir con este requisito si la representación legal consta en el acta constitutiva de la sociedad;
+
+c) Copia certificada de identificación oficial de cada uno de los apoderados o mandatarios;
+
+d) Copia certificada de la Cédula de Registro Federal de Contribuyente de la sociedad;
+
+e) Original y copia del convenio señalado en el artículo 71 BIS fracción II de la Ley, previamente celebrado con el Ejecutivo del Estado, por conducto de la Secretaría.
+
+f) Original y copia de la documentación que acredite que la empresa es propietaria, subsidiaria o que cuenta con los respectivos derechos de explotación, o en su defecto, que posee los respectivos acuerdos comerciales, para la promoción, uso y explotación respecto de la aplicación tecnológica que ocupará para brindar el servicio correspondiente;
+
+g) Listado de las tarifas de cobro o el método por virtud del cual se calcularán;
+
+h) Listado de las aplicaciones móviles y portales de internet asociadas a la plataforma tecnológica.
+
+i) Original y copia de constancia de inscripción ante la Secretaría de los vehículos afectos al servicio, en términos del artículo 121 TER del presente Reglamento;
+
+j) Original y copia de la constancia de inscripción ante la Secretaría de los prestadores del servicio, llámense afiliados, socios, operadores, conductores, asociados o propietarios afectos a la empresa de red de transporte, en términos del artículo 121 QUATER del presente Reglamento; y
+
+k) Original y copia del pago de derechos correspondiente.
+
+Conforme a lo dispuesto por la fracción II del artículo 71 TER de la Ley, el registro de las empresas de redes de transporte deberá ser renovado anualmente, previo dictamen de aprobación por parte de la Secretaría.
+
+Una vez presentada la solicitud o renovación de las empresas de redes de transporte, la Secretaría emitirá el registro correspondiente dentro del plazo que no podrá exceder tres meses. Transcurrido el plazo aplicable, se entenderá la resolución en sentido negativo al promovente.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+ARTICULO 121 TER. Las empresas de redes de transporte deberán inscribir sus vehículos afectos al servicio público de transporte, presentando original para su cotejo y copia simple, de los documentos siguientes:
+
+I. Solicitud de registro en formato que proporcione la Secretaría;
+
+II. Factura, carta factura o documento que acredite la propiedad o legal posesión del vehículo;
+
+III. Copia certificada de identificación oficial del propietario del vehículo;
+
+IV. Comprobante de domicilio del propietario del vehículo;
+
+V. Copia certificada de la Cédula del Registro Federal de Contribuyentes del propietario del vehículo;
+
+VI. Copia certificada de la tarjeta de circulación del vehículo;
+
+VII. Comprobante del último pago de los impuestos y derechos que establezcan los ordenamientos legales aplicables con respecto al vehículo;
+
+VIII. Póliza del seguro contratado de daños a pasajeros y terceros, que garantice su responsabilidad civil ante accidentes que puedan presentarse; y
+
+IX. Comprobante de haber cumplido con el programa de verificación vehicular que emita la Secretaría de Ecología y Gestión Ambiental en el Estado, por cada uno de los vehículos registrados.
+
+En adición a lo previo, se deberá presentar en formato electrónico editable tipo hoja de cálculo, los generales de cada vehículo registrado, esto es al menos, marca, modelo, placas, número de serie, así como el nombre de su propietario.
+
+Las previsiones de este artículo son sin perjuicio de las disposiciones administrativas y legales, presentes y futuras, que en materia de control vehicular existan en el Estado.
+
+Los vehículos destinados para la prestación del servicio, además de contar con bolsas de aire y frenos antibloqueo o su equivalente, no podrán ser mayor a cinco años de antigüedad.
+
+El registro de vehículos de las empresas de redes de transporte será renovado anualmente, conforme a lo dispuesto por el artículo 71 QUÁTER de la Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+ARTICULO 121 QUÁTER. Las empresas de redes de transporte deberán inscribir a sus prestadores de servicios, llámense afiliados, socios, operadores, conductores, asociados o propietarios de los vehículos o quienes presten el servicio; presentando los siguientes datos y documentos:
+
+I. Solicitud de registro en formato que proporcione la Secretaría;
+
+II. Nombre y domicilio del prestador de servicio;
+
+III. Comprobante de domicilio del prestador de servicio;
+
+IV. Indicar el vehículo en que se prestará el servicio, el cual deberá estar registrado ante la Secretaría conforme a lo previsto en el artículo 121 TER de este Reglamento.
+
+V. Copia certificada de la Cédula del Registro Federal de Contribuyentes del propietario del prestador de servicio;
+
+VI. Copia certificada de la licencia que acredite al prestador de servicio como automovilista o chofer del servicio particular;
+
+VII. Copia certificada de identificación oficial del prestador de servicio; y
+
+VIII. Constancias que acrediten de (sic) que el prestador de servicio ha realizado cursos de capacitación, exámenes toxicológicos, psicométricos y de salud, expedidas máximo con sesenta días naturales de antelación a la fecha de presentación de la solicitud de Registro.
+
+En adición a lo previo, se deberá presentar en formato electrónico editable tipo hoja de cálculo, los generales de cada operador del servicio, esto es al menos, nombre, número de licencia, datos generales sobre su curso de capacitación, exámenes toxicológicos, psicométricos y de salud.
+
+El registro de los prestadores de servicios de las empresas de redes de transporte será renovado anualmente, conforme a lo dispuesto por el artículo 71 QUÁTER de la Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+ARTICULO 121 QUINQUIES. Las empresas de redes de transporte, que obtengan su registro ante la Secretaría, están obligadas a presentar los avisos correspondientes en caso de modificación o extinción en cualquiera de las situaciones sujetas a registro, preponderando los avisos que se refieran a los supuestos siguientes:
+
+I. Baja en el servicio de vehículos. Indicando las causas que la motiven, dentro de los quince días siguientes a que tenga conocimiento;
+
+II. Cualquier modificación en las características de los vehículos registrados y/o aumento ó disminución de éstos, dentro de los quince días siguientes al en que ocurra el hecho, y
+
+III. Altas y bajas de los prestadores de servicio indicando, cuando menos, lo siguiente:
+
+a) Nombre y domicilio del operador;
+
+b) Número de licencia;
+
+c) Credencial de elector;
+
+d) Vehículo en que presta o prestaba el servicio, y
+
+e) En su caso, motivo de la baja del operador.
+
+IV. Cambio de domicilio legal, en caso de que omita este aviso, se le seguirá notificando en su perjuicio en el domicilio que tenga registrado.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+ARTICULO 121 SEXTIES. Para efecto de conservar la vigencia de su Registro las empresas de redes de transporte deberán:
+
+I. Cumplir con los estándares de calidad de operación que marque la Ley, este Reglamento y la Secretaría;
+
+II. Mantener en las aplicaciones móviles y portales de internet asociadas a la plataforma tecnológica, de manera visible, permanente y de fácil acceso al público, las condiciones de la prestación del servicio y las tarifas de cobro o el método por virtud del cual se calcularán;
+
+III. Prestar todas las facilidades e información disponible que le requieran las autoridades federales, estatales y municipales en el ejercicio de sus funciones y dentro de la esfera de sus competencias;
+
+IV. Enviar a la dirección de correo electrónico registrada por el usuario, un comprobante que acredite el pago del servicio, dicho recibo deberá contener, al menos:
+
+a) El origen y destino del viaje;
+
+b) La distancia recorrida, así como el tiempo real que se ocupo para llegar al destino del viaje; y
+
+c) Un desglose del cobro efectuado en la tarifa total pagada.
+
+V. Responder como obligados solidarios de los prestadores del servicio registrados ante su plataforma, o la que en todo caso promueva, por la responsabilidad civil frente a terceros, que pudiera surgir con motivo de la prestación de dicho servicio, únicamente durante el tiempo de la prestación de dicho servicio y en caso de que dicho vehículo no cuente con seguro vigente que cubra dicha responsabilidad civil frente a terceros y sólo hasta por un monto igual a las sumas aseguradas que debió haber contratado el propietario del vehículo para tal riesgo; y
+
+VI. No incurrir en alguna de las causales de suspensión o revocación del registro.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+ARTICULO 121 SEPTIES. La Secretaría podrá suspender o revocar el registro de las empresas de redes de transporte, mediante aviso y previa vista, cuando determine que la empresa ha violado intencionalmente las disposiciones de este Reglamento o de la Ley, o bien se haya puesto en peligro la seguridad pública.
+
 ## TITULO QUINTO. MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ### CAPITULO I. DE LA APLICACIÓN DE LAS MEDIDAS DE SEGURIDAD
@@ -2070,3 +2218,11 @@ P.O. 17 DE MARZO DE 2015.
 Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 12 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO ADMINISTRATIVO QUE ADICIONA DIVERSOS ARTÍCULOS AL REGLAMENTO DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los 18 días del mes de abril del 2017, previa publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
