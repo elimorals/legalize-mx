@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-y-desarrollo-artesanal-del-estado-de-108076"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-21"
-last_updated: "2015-05-21"
+last_updated: "2017-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
 
 Ley publicada en la Novena Sección del Periódico Oficial del Estado de Michoacán, el jueves 21 de mayo de 2015.
 
@@ -53,7 +55,9 @@ La presente Ley es de interés social y observancia general, sus disposiciones s
 
 Para efectos de esta Ley se entiende por:
 
-I. Artesanía. Actividad realizada manualmente en forma individual, familiar o colectiva, que tiene por objeto transformar productos o substancias orgánicas inorgánicas en artículos nuevos con valor histórico, cultural y estético, que pueden ser tradicionales o de creación contemporánea y cumplen con una función socialmente reconocida; producidos con maestría, habilidad y originalidad, reconociéndose como obras de arte y parte de la cultura, el folklor y el patrimonio del Estado;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2017)</small>
+
+I. Artesanía. Actividad realizada de forma manual, individual, familiar o colectiva, que tiene por objeto transformar materias orgánicas e inorgánicas en piezas con valor histórico, cultural, simbólico, utilitario o estético, que pueden ser tradicionales o de creación contemporánea y cumplen con una función socialmente reconocida; producida con maestría, habilidad y originalidad, reconociendo el producto de dicha actividad, como manifestaciones de la herencia histórica y expresiones artísticas que constituyen el patrimonio cultural de Michoacán;
 
 II. Artesano. Persona que con sensibilidad creativa, transforma las materias primas manualmente y con habilidades naturales o dominio técnico en artesanías;
 
@@ -71,9 +75,17 @@ VIII. Gobernador. El Titular del Poder Ejecutivo del Estado de Michoacán de Oca
 
 IX. Junta. La Junta de Gobierno del Instituto del Artesano Michoacano;
 
-X. Fondo. El Fondo de Apoyo para los Artesanos; y,
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2017)</small>
 
-XI. Sector artesanal. El constituido por individuos, talleres, empresas, entes de capacitación, y sociedades y asociaciones de artesanos de acuerdo a las figuras asociativas previstas en la Ley.
+X. Fondo. El fondo de apoyo para los artesanos;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2017)</small>
+
+XI. Sector artesanal. El constituido por individuos, familias, talleres, empresas, entes de capacitación, sociedades y asociaciones de artesanos de acuerdo con las figuras asociativas previstas en la Ley y de las formas tradicionales de organización establecidas en las diferentes comunidades que realizan actividad artesanal; y,
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2017)</small>
+
+XII. Marca Colectiva. Registro que tiene por objeto diferenciar en el mercado, los productos de sus miembros respecto de los productos de terceros; así como identificar el origen geográfico, proteger el proceso tradicional de producción y otras características particulares de las piezas artesanales, que se obtiene a través de las asociaciones o sociedades de productores artesanales legalmente constituidas ante el Instituto Mexicano de la Propiedad Intelectual,
 
 ###### ARTÍCULO 3.
 
@@ -133,7 +145,15 @@ III. Establecer campañas de difusión y promoción del arte popular, que contri
 
 IV. Ser conducto gestor de los artesanos ante dependencias y entidades estatales, federales y organismos internacionales, para obtener recursos económicos y capacitación de cualquier índole que tenga por objeto fortalecer la actividad artesanal; y,
 
-V. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2017)</small>
+
+V. Brindar asesoría legal y fiscal para la organización, constitución, trámite y permanencia de marcas colectivas artesanales del estado; procurando otorgar las facilidades necesarias para la comercialización y exportación de sus productos, así como coadyuvar en la protección tanto de los diseños artesanales como de los procesos tradicionales implicados;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2017)</small>
+
+VI. Implementar programas dirigidos al fortalecimiento, capacitación, apoyo económico, logístico y de promoción de las marcas colectivas artesanales del estado, gestionando su participación en ferias y exposiciones; y,
+
+VII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -193,9 +213,13 @@ II. El Titular de la Secretaría de Desarrollo Económico;
 
 III. El Titular de la Secretaría de Finanzas y Administración;
 
-IV. El Titular de la Coordinación de Contraloría del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2017)</small>
 
-V. El Titular de la Coordinación de Planeación para el Desarrollo del Gobierno del Estado;
+IV. El Titular de la Secretaría de Contraloría del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2017)</small>
+
+V. El Titular de la Coordinación General de Gabinete y Planeación;
 
 VI. El Titular de la Secretaría de Cultura;
 
@@ -500,3 +524,17 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 07 siete días del mes de abril del año 2015 dos mil quince.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- LIC. JAIME AHUIZOTL ESPARZA CORTINA.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 344 POR EL QUE “SE REFORMAN LAS FRACCIONES I, X Y XI DEL ARTÍCULO 2, LAS FRACCIONES IV Y V DEL ARTÍCULO 13; SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 2 Y LAS FRACCIONES V Y VI RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 7 DE LA LEY DE FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
