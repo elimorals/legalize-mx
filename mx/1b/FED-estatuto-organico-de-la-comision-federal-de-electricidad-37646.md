@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-37646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-10"
-last_updated: "2014-03-31"
+last_updated: "2017-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2004-01-08"
 ---
 # ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, PUBLICADO EN EL D.O.F. DE 12 DE ABRIL DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2017 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de marzo de 2004.
 
@@ -391,7 +393,7 @@ VI. Suscribir los documentos relativos al ejercicio de sus facultades y las que 
 
 VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obren en sus archivos. Asimismo, expedir, a petición del interesado, copias certificadas de los documentos que obren en los archivos de las respectivas unidades administrativas de la Comisión, en términos de lo dispuesto en el artículo 42 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y 51 de su Reglamento.
 
-VIII. Asegurar el buen uso y preservar los bienes asignados a la Dirección a su cargo, y (sic)
+VIII. Asegurar el buen uso y preservar los bienes asignados a la Dirección a su cargo, y
 
 > <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 2013)</small>
 
@@ -465,7 +467,7 @@ I. Planear, ejecutar y supervisar los proyectos de infraestructura productiva de
 
 II. Presidir el Comité Central de Obras Públicas, Prestación de Servicios Relacionados con las Mismas y Pidiregas, y coordinar los programas correspondientes.
 
-III. Emitir las convocatorias y bases de licitación de los proyectos de infraestructura productiva de largo plazo, llevar a cabo su proceso de licitación, la firma de los contratos respectivos y supervisar las actividades de apoyo a los licitantes ganadores en el cierre financiero, y (sic)
+III. Emitir las convocatorias y bases de licitación de los proyectos de infraestructura productiva de largo plazo, llevar a cabo su proceso de licitación, la firma de los contratos respectivos y supervisar las actividades de apoyo a los licitantes ganadores en el cierre financiero, y
 
 IV. Promover la inversión privada en proyectos de infraestructura eléctrica para el corto, mediano y largo plazos;
 
@@ -629,7 +631,7 @@ I. Establecer las normas, objetivos y metas para garantizar la disponibilidad, c
 
 II. Dirigir la planeación, estudios, proyectos, programas y presupuestos para la operación de las instalaciones de generación.
 
-III. Planear, coordinar y supervisar las acciones relacionadas con la operación y mantenimiento de las centrales generadoras que integran el Sistema Eléctrico Nacional, y (sic)
+III. Planear, coordinar y supervisar las acciones relacionadas con la operación y mantenimiento de las centrales generadoras que integran el Sistema Eléctrico Nacional, y
 
 IV. Dirigir el proceso de administración de contratos con productores externos de energía eléctrica;
 
@@ -811,7 +813,7 @@ VI. Verificar el cumplimiento de las obligaciones técnicas derivadas de los con
 
 VII. Elaborar y dar seguimiento de los programas de licitaciones de los proyectos de infraestructura productiva de largo plazo.
 
-VIII. Planear y dar seguimiento a la factibilidad del suministro y transporte de combustibles de los proyectos de infraestructura productiva de largo plazo, y (sic)
+VIII. Planear y dar seguimiento a la factibilidad del suministro y transporte de combustibles de los proyectos de infraestructura productiva de largo plazo, y
 
 IX. Integrar los anexos técnicos de los contratos de proyectos de infraestructura productiva de largo plazo.
 
@@ -833,7 +835,7 @@ IV. Dirigir la elaboración de proyectos y estudios y prestar servicios a tercer
 
 V. Supervisar la elaboración de especificaciones técnicas para las bases de licitación y participar en el proceso de evaluación de las propuestas que se reciban en las licitaciones de los proyectos de infraestructura productiva de largo plazo que le correspondan.
 
-VI. Participar en la solución de los problemas correspondientes a los aspectos sociales, de afectaciones y ambientales con el objeto de permitir la construcción de los proyectos a cargo de la Subdirección, y (sic)
+VI. Participar en la solución de los problemas correspondientes a los aspectos sociales, de afectaciones y ambientales con el objeto de permitir la construcción de los proyectos a cargo de la Subdirección, y
 
 VII. Supervisar la construcción de las obras civiles y el montaje de equipos electromecánicos de los proyectos a cargo de la Subdirección.
 
@@ -1003,7 +1005,7 @@ A la Coordinación de Protecciones, Comunicación y Control le corresponde, adem
 
 I. Coordinar la aplicación de las políticas, estrategias y especificaciones en las especialidades de protecciones, comunicaciones y control.
 
-II. Coordinar el análisis de las estadísticas de falla, de comportamiento de equipos y sistemas de protecciones, comunicaciones y control, y (sic)
+II. Coordinar el análisis de las estadísticas de falla, de comportamiento de equipos y sistemas de protecciones, comunicaciones y control, y
 
 III. Coordinar los estudios para mejorar los sistemas de protecciones, comunicaciones y control.
 
@@ -2398,3 +2400,57 @@ D.O.F. 31 DE MARZO DE 2014.
 PRIMERO. Las presentes reformas al Estatuto Orgánico de la Comisión Federal de Electricidad entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los asuntos que se encuentren en trámite en las Áreas que dirigen los Titulares de Auditoría Interna y Quejas en las oficinas regionales, serán atendidos y resueltos por los Titulares de Auditoría A y B, así como por el Titular de Responsabilidades y Quejas, de acuerdo a sus respectivas facultades y personal de apoyo, con fundamento en los artículos 82 del Reglamento Interior de la Secretaría de la Función Pública y segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación del 2 de enero de 2013.
+
+D.O.F. 12 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD”.]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de la Comisión Federal de Electricidad, publicado en el Diario Oficial de la Federación el 10 de marzo de 2004, y sus reformas. Así mismo, se derogan todas las disposiciones internas que se opongan al presente Estatuto.
+
+TERCERO. Los derechos de los trabajadores no se verán afectados por la implementación de la estructura básica que se autoriza mediante la emisión del presente Estatuto.
+
+CUARTO. La implementación de la estructura básica prevista en el presente Estatuto, se realizará mediante adecuaciones presupuestarias compensadas que no implicarán incrementar el presupuesto de servicios personales del ejercicio fiscal en curso.
+
+La información relativa a la estructura orgánica plasmada en el presente Estatuto se remitirá exclusivamente para conocimiento a la Secretaría de Hacienda y Crédito Público.
+
+QUINTO. Las Direcciones Corporativas y la Subdirección Corporativa de Estrategia y Regulación comprendidas en este Estatuto, sustituyen a las Direcciones y Subdirección de Programación previstas en el Estatuto que se abroga, conforme a la siguiente tabla:
+
+ESTATUTO ABROGADO ESTATUTO ACTUAL
+
+Dirección de Operación Dirección Corporativa de Operaciones
+
+Dirección de Finanzas Dirección Corporativa de Finanzas
+
+Dirección de Administración Dirección Corporativa de Administración
+
+Dirección de Proyectos de Dirección Corporativa de Ingeniería y
+
+Inversión Financiada Proyectos de Infraestructura
+
+Dirección de Modernización Dirección Corporativa de Negocios
+
+Comerciales
+
+Abogado General de la Oficina del Abogado General
+
+Comisión
+
+Subdirección de Programación Subdirección Corporativa de Estrategia
+
+y Regulación
+
+SEXTO. Los asuntos que se encuentren en trámite en las unidades administrativas establecidas en el Estatuto que se abroga, serán atendidos por las áreas de la Comisión previstas en el presente Estatuto o las que se establezcan en los manuales de organización que asuman las funciones que correspondían a dichas unidades. Lo anterior, tomando en consideración lo señalado en el transitorio QUINTO.
+
+Hasta en tanto no se emitan los manuales de organización, las áreas no comprendidas en este Estatuto tendrán las funciones que el Estatuto que se abroga les confiere para la atención de los asuntos de su competencia en lo que no se oponga al presente Estatuto.
+
+Los titulares de las áreas establecidas en el presente Estatuto ejercerán las funciones que éste les asigna con independencia de la denominación de la función que a la fecha ostenten; lo anterior, hasta que se actualice la denominación de su función conforme a lo establecido en este ordenamiento. Las funciones de representación legal asignadas al Coordinador de Asuntos Contenciosos serán ejercidas por el Gerente de Asuntos Contenciosos, hasta en tanto se expida el documento relativo a la función de Coordinador.
+
+Los actos jurídicos emitidos conforme a las facultades que otorgaba el Estatuto que se abroga continuarán vigentes para todos los efectos legales a que haya lugar, en lo que no se opongan a las disposiciones del presente Estatuto y en tanto se emitan nuevos actos jurídicos que sustituyan a los anteriores.
+
+SÉPTIMO.- Las facultades establecidas en el Estatuto que se abroga y que actualmente corresponden a empresas productivas subsidiarias, de conformidad con los Términos para la estricta separación legal de la Comisión Federal de Electricidad y los respectivos acuerdos de creación, continuarán siendo desempeñadas por las áreas que determinen los consejos de administración y los directores generales de cada una de las empresas productivas subsidiarias, hasta en tanto cada una de ellas emita su propio estatuto orgánico.
+
+OCTAVO. Las facultades relativas a la rescisión administrativa de contratos, en los casos en que proceda, serán ejercidas en los términos del Estatuto que se abroga.
+
+NOVENO. En tanto no sea aprobado el manual de organización específico de la Gerencia de Centrales Nucleoeléctricas, dicha Unidad de Negocio tendrá la estructura y las funciones con las que actualmente cuenta y estará sujeta a la normatividad interna que actualmente la rige.
