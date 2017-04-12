@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2016-12-29"
+last_updated: "2017-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -2943,9 +2943,9 @@ En la comparecencia el juez de instrucción debe informar al interesado que pued
 
 En el auto de admisión de la demanda, el juez de instrucción además, tomará las siguientes medidas:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2017)</small>
 
-I. Fijará de inmediato una pensión provisional equivalente a una vez el valor diario de la Unidad de Medida y Actualización, salvo que de las pruebas aportadas hasta ese momento, se deduzca una capacidad económica diferente; decisión contra la cual no se admitirá recurso alguno;
+I. Fijará de inmediato una pensión provisional equivalente a una UMA diaria, por cada uno de los acreedores alimentistas, salvo que de las pruebas aportadas hasta ese momento, se deduzca una capacidad económica diferente; decisión contra la cual no se admitirá recurso alguno;
 
 II. Enseguida lo comunicará a su fuente laboral, para que la deposite ante el juzgado del conocimiento o haga la entrega directa de la misma al que exige los alimentos a elección de este;
 
@@ -7542,3 +7542,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 12 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 348 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 464, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
