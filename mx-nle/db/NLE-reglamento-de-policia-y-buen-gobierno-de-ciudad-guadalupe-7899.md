@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2016-08-24"
+last_updated: "2017-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -1135,6 +1135,78 @@ DE LA ACTUALIZACION DE ESTE REGLAMENTO.
 
 En la medida en que se modifiquen las condiciones socioeconómicas de este Municipio, en virtud de su crecimiento demográfico, surgimiento y desarrollo de actividades productivas; modificación de las condiciones políticas y múltiples aspectos de la vida comunitaria, este R. Ayuntamiento adecuará su Reglamentación Municipal, con el fin de preservar su Autoridad Institucional y propiciar el desarrollo armónico de la Sociedad.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2017)</small>
+
+## TITULO VIII. DEL PROCEDIMIENTO DE AUDIENCIA PARA INFRACCIONES DE TRÁNSITO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2017)</small>
+
+### CAPITULO UNICO. DEL PROCEDIMIENTO DE AUDIENCIA PARA INFRACCIONES DE TRÁNSITO
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+###### ARTICULO 64.
+
+El procedimiento al que se refiere el presente capitulo es optativo en lo referente con el Reglamento de Procedimiento Administrativo para el Municipio de Ciudad Guadalupe, Nuevo León, siendo este público, sumario y oral, el cual se desahogará de la siguiente forma;
+
+a) Del conocimiento, el cual se hace consistir en que el presunto infractor acuda personalmente ante el Juez Calificador en turno a hacer valer su derecho de audiencia en un término no mayor a 5 días hábiles a partir de la notificación de la infracción o tener conocimiento fehaciente de la infracción cometida, en la que deberán ofrecer las pruebas de su intención en caso contrario se considerará que no está de acuerdo en someterse a este procedimiento.
+
+b) En su caso se procederá al desahogo de la audiencia de pruebas y alegatos.
+
+c) Dictado de la Resolución.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+###### ARTICULO 65.
+
+El Juez Calificador en turno determinará la procedencia de la infracción impuesta e impugnada. Por lo cual deberá, al momento de desahogar la audiencia correspondiente contar con toda la información inherente al caso. Tendiendo (sic) acceso a la base de datos tecnológica y de archivos de la cual se generó dicha infracción.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+###### ARTICULO 66.
+
+El Juez Calificador en turno garantizará el derecho de audiencia al presunto infractor, quien ofrecerá las pruebas de su intención que considere necesarias para la comprobación de su dicho; las cuales serán calificadas, valoradas y desahogadas por el Juez Calificador; en el entendido de que dicha audiencia quedará registrada en audio y video; asignándole un número de registro y quedará en resguardo de la autoridad para los efectos legales a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+###### ARTICULO 67.
+
+Todo procedimiento concluirá con la resolución que corresponda, la cual será emitida por el Juez Calificador, quien podrá solicitar un receso al finalizar la misma, para que en el acto proceder a notificar de forma personal al presunto infractor la resolución.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+###### ARTICULO 68.
+
+El procedimiento se inicia con la presentación del presunto infractor ante el Juez Calificador en turno, debiendo llevar consigo los siguientes documentos:
+
+I.- Infracción o notificación de la Foto Infracción.
+
+II.- Tarjeta de Circulación y la papelería que acredite la propiedad del vehículo;
+
+III.- Identificación oficial vigente; y
+
+IV.- Para el caso de personas morales, testimonio del Acta Constitutiva ó copia certificada de la persona moral de que se trate, así como el Poder e identificación oficial vigente del representante legal.
+
+El Juez Calificador en turno recibirá al presunto infractor y levantará el acta de comparecencia correspondiente, fijándole fecha para el desahogo de la audiencia conforme al procedimiento contenido en el presente capítulo.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+###### ARTICULO 69.
+
+Al comparecer el presunto infractor ante el Juez Calificador en turno y una vez desahogada la audiencia oral de pruebas y alegatos, se dará por concluida la misma, y en ese momento el asunto quedará en estado de resolución; pudiéndose dictar en el acto la resolución correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+###### ARTICULO 70.
+
+En todo caso el Juez Calificador en turno tendrá facultades de allegarse de cualquier medio que lo lleve al conocimiento de la verdad.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
+
+###### ARTICULO 71.
+
+Si al tener conocimiento de los hechos, el Juez Calificador en turno considera o sospecha que constituyen un delito, suspenderá su intervención y dará vista del asunto al Ministerio Público.
+
 ## ARTÍCULOS TRANSITORIOS.
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
@@ -1290,3 +1362,9 @@ SEGUNDO.- Instrúyase a la Dirección General de Comunicación Social, a la Secr
 TERCERO.- Instrúyase a la Secretaría de Seguridad Pública y a l (sic) Secretaría De Prevención Social, para que a través de sus áreas correspondientes implementen y lleven a cabo operativos de prevención y de respuesta expedita a la queja de los vecinos sobre alteración de la paz y la tranquilidad producida por ruido de los vecinos, a fin de dar vigencia a la normatividad aquí acordada.
 
 CUARTO.- Instrúyase por parte del Presidente Municipal al titular de la Secretaría del Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 12 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 06 DE ABRIL DE 2017, SE APRUEBA LA REFORMA POR ADICIÓN DEL TÍTULO VIII DENOMINADO "DEL PROCEDIMIENTO DE AUDIENCIA PARA INFRACCIONES DE TRÁNSITO", CAPÍTULO ÚNICO, DENOMINADO "DEL PROCEDIMIENTO DE AUDIENCIA PARA INFRACCIONES DE TRÁNSITO", DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DE CIUDAD GUADALUPE, N.L.".]
+
+ÚNICO.- La presente reforma al Reglamento de Policía y Buen Gobierno de Ciudad Guadalupe, Nuevo León, entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
