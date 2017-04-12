@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-instituciones-y-procedimientos-electorales-para-10160
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-30"
-last_updated: "2014-06-30"
+last_updated: "2017-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el lunes 30 de junio de 2014.
 
@@ -4467,15 +4467,19 @@ VIII. La contratación en forma directa o por terceras personas, de tiempo en cu
 
 IX. La difusión de propaganda política o electoral que contenga expresiones que denigren a las instituciones y a los propios partidos o coaliciones, o que calumnien a los precandidatos, candidatos o cualquier persona;
 
-X. El incumplimiento de las obligaciones establecidas en materia de transparencia y acceso a la información;
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2017)</small>
 
-XI. El incumplimiento de las reglas establecidas para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos;
+X. Cualquier acción, tolerancia u omisión, que basadas en elementos de género, tengan por objeto o resultado menoscabar, anular, obstaculizar o restringir el reconocimiento, goce o ejercicio de los derechos político electorales o de las prerrogativas inherentes a un cargo público;
 
-XII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Morelense;
+XI. El incumplimiento de las obligaciones establecidas en materia de transparencia y acceso a la información;
 
-XIII. La negativa a entregar la información requerida por el Instituto Morelense, entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento, y
+XII. El incumplimiento de las reglas establecidas para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos;
 
-XIV. La comisión de cualquier otra falta de las previstas en este Código.
+XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Morelense;
+
+XIV. La negativa a entregar la información requerida por el Instituto Morelense, entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento, y
+
+XV. La comisión de cualquier otra falta de las previstas en este Código.
 
 ###### Artículo 385.
 
@@ -4491,9 +4495,13 @@ IV. Omitir en los informes respectivos los recursos recibidos, en dinero o en es
 
 V. No presentar el informe de gastos de precampaña o campaña establecidos en este Código;
 
-VI. Exceder el tope de gastos de precampaña o campaña establecido en este Código, y
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2017)</small>
 
-VII. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+VI. Cualquier acción, tolerancia u omisión, que basadas en elementos de género, tengan por objeto o resultado menoscabar, anular, obstaculizar o restringir el reconocimiento, goce o ejercicio de los derechos político electorales o de las prerrogativas inherentes a un cargo público;
+
+VII. Exceder el tope de gastos de precampaña o campaña establecido en este Código, y
+
+VIII. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 ###### Artículo 386.
 
@@ -4525,9 +4533,13 @@ l) La obtención de bienes inmuebles con recursos provenientes del financiamient
 
 m) La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas, instituciones o los partidos políticos;
 
-n) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Morelense, y
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2017)</small>
 
-ñ) El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
+n) Cualquier acción, tolerancia u omisión, que basadas en elementos de género, tengan por objeto o resultado menoscabar, anular, obstaculizar o restringir el reconocimiento, goce o ejercicio de los derechos político electorales o de las prerrogativas inherentes a un cargo público;
+
+ñ) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Morelense, y
+
+o) El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
 
 ###### Artículo 387.
 
@@ -4814,3 +4826,13 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS SEIS POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, Y DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, CON EL PROPÓSITO DE COMBATIR DE MANERA INTEGRAL LA VIOLENCIA POLÍTICA EN CONTRA DE LAS MUJERES".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
