@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2017-03-01"
+last_updated: "2017-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -439,6 +439,22 @@ XXIV. Cumplir con lo establecido en el último párrafo, del artículo 1°, de l
 
 XXV. Realizar el procedimiento establecido en la Ley de Entrega Recepción de la Administración Pública para el Estado de Morelos y sus Municipios, en los términos señalados en la misma, en caso de que el servidor público concluya su función, renuncie o por cualquier otra causa se separe de su empleo, cargo o comisión.
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2017)</small>
+
+XXVI. Garantizar el acceso de un servidor público por elección o designación al ejercicio de su función o a la realización de programas, proyectos o actividades inherentes a la misma;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2017)</small>
+
+XXVII. Garantizar que un servidor público por elección o designación integre comisiones, comités y otras instancias inherentes a su cargo o asista a las sesiones, o reuniones de los mismos;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2017)</small>
+
+XXVIII. Abstenerse de imponer estereotipos de género en la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo, así como la asignación de responsabilidades que tengan como propósito la limitación del ejercicio de sus funciones, y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2017)</small>
+
+XXIX. Garantizar las retribuciones, emolumentos o prerrogativas a que tienen derecho los funcionarios públicos en el ejercicio de un cargo de elección popular o por designación.
+
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 28.
@@ -509,7 +525,9 @@ II. Cuando se trate de infracciones a los deberes contenidos en las fracciones I
 
 III. Cuando se trate de infracciones a los deberes contenidos en las fracciones II, III, IV, VIII, IX, XV y XVI, se impondrá al servidor público responsable la sanción de destitución;
 
-IV. Cuando se trate de infracciones a los deberes contenidos en las fracciones X y XII, se impondrá al servidor público responsable la sanción de inhabilitación temporal hasta por seis años;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2017)</small>
+
+IV. Cuando se trate de infracciones a los deberes contenidos en las fracciones X, XII y XXVI a la XXIX se impondrá al servidor público responsable la sanción de destitución o inhabilitación temporal hasta por seis años;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2010)</small>
 
@@ -1140,3 +1158,11 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 12 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS SEIS POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, Y DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, CON EL PROPÓSITO DE COMBATIR DE MANERA INTEGRAL LA VIOLENCIA POLÍTICA EN CONTRA DE LAS MUJERES”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
