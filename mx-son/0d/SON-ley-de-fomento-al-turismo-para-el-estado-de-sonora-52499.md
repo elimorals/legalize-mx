@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-al-turismo-para-el-estado-de-sonora-52499"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-14"
-last_updated: "2010-12-16"
+last_updated: "2017-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE ABRIL DE 2017.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de diciembre de 2006.
 
@@ -83,11 +83,19 @@ VIII.- Empresas de intercambio.- Empresas de sistemas de intercambio de servicio
 
 IX.- Empresas de servicios.- Empresas de servicios para la práctica de actividades turísticas, que se dedican a promover, comercializar o arrendar, cualquier insumo necesario para el desarrollo o realización de cualquier actividad turística que requiera la conducción de guías especializados;
 
+> <small>(ADICIONADA, B.O. 12 DE ABRIL DE 2017)</small>
+
+IX BIS.- Imagen Turística: El patrimonio del Estado que comprende los atractivos naturales, culturales, ecológicos, calidad en los servicios turísticos y de naturaleza similar; junto con la adecuada ordenación territorial, así como la infraestructura turística que aunada a la promoción, tiene la vocación de atraer turistas al Estado;
+
 X.- Normas oficiales mexicanas.- Aquellas normas regulatorias emitidas por la autoridad federal competente en materia turística, que tienen por objeto establecer las características y especificaciones que deben de cumplirse de forma obligatoria en la prestación de los servicios de naturaleza turística, de conformidad con lo establecido en la Ley Federal de Turismo y la Ley Federal sobre Metrología y Normalización;
 
 XI.- Operador receptivo o tour operador receptivo.- Empresa que se encarga de comercializar y promocionar turísticamente al Estado de Sonora internacionalmente a través de operadores mayoristas, siendo el operador receptivo un exportador de la oferta de servicios turísticos e importador de divisas internacionales;
 
 XII.- Operador mayorista.- Empresa que compra paquetes turísticos al operador receptivo y los comercializa a las agencias de viajes de cualquier país del mundo;
+
+> <small>(ADICIONADA, B.O. 12 DE ABRIL DE 2017)</small>
+
+XII BIS.- Patrimonio Turístico: Conjunto de bienes materiales e inmateriales que pueden utilizarse para satisfacer la demanda turística;
 
 XIII.- Promoción turística.- Planeación y programación de la publicidad y difusión por cualquier medio de la información especializada, actividades, destinos, atractivos y servicios que el Estado y los municipios, en su caso, ofrecen en materia de turismo, con el fin de incrementar la afluencia turística a Sonora;
 
@@ -163,9 +171,17 @@ IX.- Participar en las instancias estatales y nacionales que se constituyan para
 
 X.- Coadyuvar en la vigilancia de las disposiciones de la presente ley, en los términos de los convenios de coordinación correspondientes;
 
-XI.- Promover la integración de un Consejo Municipal de Turismo, el cual podrá ser integrado por los sectores público, social y privado; y
+> <small>(REFORMADA, B.O. 12 DE ABRIL DE 2017)</small>
 
-XII.- Las demás que le confiera esta ley y otros ordenamientos legales.
+XI.- Promover la integración de un Consejo Municipal de Turismo, el cual podrá ser integrado por los sectores público, social y privado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 12 DE ABRIL DE 2017)</small>
+
+XII.- Salvaguardar la imagen turística del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 12 DE ABRIL DE 2017)</small>
+
+XIII.- Las demás que le confiera esta ley y otros ordenamientos legales.
 
 ### CAPÍTULO II. DE LA COORDINACIÓN Y CONCERTACIÓN
 
@@ -231,7 +247,9 @@ V.- Desarrollar campañas integrales de promoción que posicionen los productos 
 
 VI.- Colaborar con las autoridades competentes en la promoción y fomento de las actividades turísticas en el Estado;
 
-VII.- Fomentar y promover el turismo social y el turismo alternativo, en coordinación con las dependencias y entidades estatales y con la participación de los sectores social y privado;
+> <small>(REFORMADA, B.O. 12 DE ABRIL DE 2017)</small>
+
+VII.- Fomentar y promover el turismo social, turismo de salud y el turismo alternativo, en coordinación con las dependencias y entidades estatales y con la participación de los sectores social y privado;
 
 VIII.- Inducir la participación de los sectores público, social y privado en la planeación, ejecución y evaluación de las acciones de fomento y promoción turística;
 
@@ -505,9 +523,17 @@ IX.- Atención y facilitación de la actividad turística;
 
 X.- Capacitación a los prestadores de servicios turísticos;
 
-XI.- Mecanismos de estímulo y financiamiento a la actividad turística; y
+> <small>(REFORMADA, B.O. 12 DE ABRIL DE 2017)</small>
 
-XII.- Mecanismos de coordinación y concertación con los sectores públicos, sociales y privados para el impulso y fomento de la actividad turística.
+XI.- Mecanismos de estímulo y financiamiento a la actividad turística;
+
+> <small>(REFORMADA, B.O. 12 DE ABRIL DE 2017)</small>
+
+XII.- Mecanismos de coordinación y concertación con los sectores públicos, sociales y privados para el impulso y fomento de la actividad turística; y
+
+> <small>(ADICIONADA, B.O. 12 DE ABRIL DE 2017)</small>
+
+XIII.- Turismo de Salud.
 
 ###### ARTÍCULO 30.
 
@@ -565,9 +591,17 @@ VI.- Contar invariablemente con personal que domine plenamente el idioma castell
 
 VII.- Crear las condiciones propicias para que las personas con discapacidad puedan utilizar sus servicios, de conformidad con lo dispuesto por la Ley de Integración Social para Personas con Discapacidad del Estado de Sonora;
 
-VIII.- Observar estrictamente las disposiciones de las Leyes Federal de Turismo y de Protección al Consumidor, Normas Oficiales Mexicanas, la presente ley y su reglamento y demás normatividad relativa al desempeño de su actividad; y
+> <small>(REFORMADA, B.O. 12 DE ABRIL DE 2017)</small>
 
-IX.- Las demás que les señalen la presente ley, su reglamento y las demás disposiciones normativas que de ella emanen.
+VIII.- Observar estrictamente las disposiciones de las Leyes Federal de Turismo y de Protección al Consumidor, Normas Oficiales Mexicanas, la presente ley y su reglamento y demás normatividad relativa al desempeño de su actividad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 12 DE ABRIL DE 2017)</small>
+
+IX.- Participar en el cuidado de la imagen turística del Estado mediante la observancia de las obligaciones a su cargo establecidas en esta Ley, y los demás ordenamientos que incidan en el turismo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 12 DE ABRIL DE 2017)</small>
+
+X.- Las demás que les señalen la presente ley, su reglamento y las demás disposiciones normativas que de ella emanen.
 
 ### CAPÍTULO II. DE LA CAPACITACIÓN
 
@@ -579,9 +613,17 @@ La Cofetur promoverá la celebración de acuerdos y convenios de coordinación d
 
 La Cofetur llevará una relación de los centros de enseñanza dedicados a la capacitación en materia turística, con reconocimiento oficial o autorización por las autoridades educativas competentes, con el objeto de dar a conocer a los prestadores de servicios turísticos que así lo soliciten información sobre la validez oficial, el nivel académico y los programas ofrecidos por dichos planteles educativos.
 
+> <small>(REFORMADO, B.O. 12 DE ABRIL DE 2017)</small>
+
 ###### ARTÍCULO 37.
 
 La Cofetur promoverá la firma de acuerdos y convenios de coordinación con centros de enseñanza para la vinculación escuela-empresa-gobierno, cuyo objetivo sea desarrollar proyectos conjuntos y dar opinión técnica con relación sobre los planes y programas que dichos centros ofrecen, lo anterior con el propósito fundamental de vincular en la práctica real a estudiantes de turismo con el sector empresarial.
+
+Con la finalidad de promover un servicio de calidad turística en la entidad, la Cofetur, en coordinación con las Secretarías del Trabajo y Previsión Social estatal y federal, establecerá programas de capacitación para los trabajadores y empleados que presten servicios turísticos.
+
+En los citados programas se deberá considerar la instrucción para la adecuada atención a las personas con discapacidad.
+
+A su vez, serán incluidos en los programas de capacitación, materias referentes a la cultura de la legalidad para fomentar la protección de los niños, niñas y adolescentes frente a la explotación sexual y/o laboral en la industria turística.
 
 ### CAPÍTULO III. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
 
@@ -735,13 +777,31 @@ Podrán ser promovidas como zonas de desarrollo turístico prioritario aquellas 
 
 Tratándose de la ejecución de proyectos de inversión turística en zonas de desarrollo turístico prioritario, la autoridad competente emitirá las autorizaciones correspondientes en los términos que señala la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado, escuchando previamente la opinión de la Cofetur.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 12 DE ABRIL DE 2017)</small>
+
+La franja costera y en particular las playas, en cuanto recurso turístico básico del Estado de Sonora, serán objeto de especial protección. A estos efectos, las actividades e instalaciones turísticas se desarrollarán y ejecutarán con respeto a las previsiones de la legislación de costas y de la normativa e instrumentos de ordenación del territorio y medio ambiente.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 12 DE ABRIL DE 2017)</small>
+
 La Cofetur promoverá ante la autoridad competente la elaboración o actualización de los planes de desarrollo urbano de los centros poblacionales ubicados en zonas de desarrollo turístico prioritario, así como la armonía de éstas con el medio físico y ecológico y la consideración en la infraestructura que se desarrolle de las necesidades de las personas con discapacidad.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 12 DE ABRIL DE 2017)</small>
+
+### CAPÍTULO VII. DEL TURISMO DE SALUD
+
+> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 62 BIS.- Para los efectos de esta Ley, se entenderá que el Turismo de Salud es una actividad estratégica para la política de turismo, que comprende desarrollar una infraestructura sanitaria y de recuperación para turistas que demandan una alta especialización, el acceso más rápido y menores costos.
 
 ### CAPÍTULO ÚNICO. DE LAS VISITAS DE VERIFICACIÓN
 
 ### CAPÍTULO ÚNICO. SANCIONES Y RECURSOS
 
 ## TÍTULO OCTAVO. DE LAS VISITAS DE VERIFICACIÓN
+
+### CAPÍTULO ÚNICO. DE LAS SITUACIONES DE EMERGENCIA, DESASTRE O IMPACTO SOCIAL
+
+> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 63.
 
@@ -821,6 +881,28 @@ El recurso se sustanciará en los términos que prevea el reglamento de la prese
 
 Contra la resolución del recurso de revocación, procede el de revisión ante el Tribunal de lo Contencioso Administrativo.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 12 DE ABRIL DE 2017)</small>
+
+## TÍTULO DÉCIMO. DE LAS SITUACIONES DE EMERGENCIA, DESASTRE O IMPACTO SOCIAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 12 DE ABRIL DE 2017)</small>
+
+###### ARTÍCULO 73.
+
+El Titular de la Unidad Estatal de Protección, conjuntamente con el Consejo Estatal de Protección Civil, velará por la seguridad de los turistas y los prestadores de servicios turísticos en el Estado, cuando se presente alguna contingencia que ponga en riesgo su integridad física y patrimonial.
+
+> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2017)</small>
+
+###### ARTÍCULO 74.
+
+Atendiendo a lo dispuesto en el artículo anterior, la Unidad Estatal de Protección Civil y los Ayuntamientos como medida preventiva difundirán entre los turistas y los prestadores de servicios turísticos, las precauciones que deban tomarse en función de la contingencia de que se trate, así como los albergues y refugios acreditados por el Consejo Estatal de Protección Civil.
+
+> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2017)</small>
+
+###### ARTÍCULO 75.
+
+La Unidad Estatal de Protección Civil y los Municipios, en el ámbito de sus respectivas competencias, vigilarán que los prestadores de servicios turísticos cumplan con las disposiciones establecidas en la Ley de Protección Civil del Estado de Sonora.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -867,7 +949,7 @@ EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUBIAL ASTIAZARAN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DEL REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DEL REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 B.O. 16 DE DICIEMBRE DE 2010.
 
@@ -877,8 +959,16 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 
 ###### ARTÍCULO SEGUNDO.
 
-Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Derechos Humanos, deberá emitir la convocatoria a que se refiere el artículo 13 de Ley (sic) de Derechos de los Pueblos y Comunidades Indígenas de Sonora, para los efectos de lo dispuesto en el artículo 19 de la Ley que Crea la Comisión Estatal de Derechos Humanos.
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Derechos Humanos, deberá emitir la convocatoria a que se refiere el artículo 13 de (sic) Ley de Derechos de los Pueblos y Comunidades Indígenas de Sonora, para los efectos de lo dispuesto en el artículo 19 de la Ley que Crea la Comisión Estatal de Derechos Humanos.
 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 12 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 118, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
