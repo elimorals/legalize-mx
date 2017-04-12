@@ -4,7 +4,7 @@ identifier: "SON-ley-de-desarrollo-social-del-estado-de-sonora-50024"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-30"
-last_updated: "2015-06-15"
+last_updated: "2017-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE ABRIL DE 2017.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 30 de marzo de 2006.
 
@@ -222,6 +222,98 @@ Sin perjuicio de las anteriores, el Consejo Consultivo podrá integrar adicional
 Las comisiones de trabajo se integrarán, por decisión del Consejo Consultivo, con un número impar de consejeros titulares de dicho órgano colegiado, pudiendo los consejeros formar parte de más de una comisión.
 
 Los asuntos que se turnen a las comisiones de trabajo serán dictaminados por éstas dentro del plazo que para cada caso determine el Consejo Consultivo. Dichos dictámenes se presentarán para decisión definitiva ante el propio Consejo.
+
+> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 12 BIS.- El Consejo Consultivo implementará la creación de la Estrategia Estatal de Inclusión Social para el Combate a la Pobreza por Carencias, como una comisión permanente de trabajo con la finalidad de solventar de manera integral las principales carencias que afectan el núcleo familiar.
+
+> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 12 BIS 1.- La Estrategia Estatal de Inclusión Social para el Combate a la Pobreza por Carencias, trabajará sobre objetivos focalizados y contará con las siguientes mesas de trabajo para su desarrollo:
+
+I.- Calidad y espacios de la vivienda;
+
+II.- Servicios básicos en la vivienda;
+
+III.- Rezago en educación;
+
+IV.- Acceso a los servicios de salud;
+
+V.- Apoyo en alimentación;
+
+VI.- Inclusión en cuanto a seguridad social; y
+
+VII.- Apoyo para mejora en ingreso y/o empleo.
+
+> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 12 BIS 2.- La Estrategia Estatal de Inclusión Social para el Combate a la Pobreza por Carencias, estará integrada por:
+
+I.- Un Coordinador, que será el Secretario de Desarrollo Social del Estado de Sonora;
+
+II.- Un Coordinador Operativo, nombrado por el Secretario Técnico del Consejo Consultivo; y
+
+III.- Los titulares de las siguientes dependencias y entidades de la Administración Pública Estatal y, por invitación, de la federal:
+
+1.- Secretaría de Desarrollo Social (SEDESOL);
+
+2.- Secretaría de Salud del Estado de Sonora;
+
+3.- Secretaría de Educación Pública (SEP);
+
+4.- Secretaría de Educación y Cultura del Estado de Sonora (SEC);
+
+5.- Secretaría de Infraestructura y Desarrollo Urbano del Estado de Sonora (SIDUR);
+
+6.- Secretaría de Economía (SE);
+
+7.- Secretaría de Economía del Estado de Sonora;
+
+8.- Secretaría del Trabajo y Previsión Social (STPS);
+
+9.- Secretaría del Trabajo del Estado de Sonora (ST);
+
+10.- Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT);
+
+11.- Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA);
+
+12.- Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura del Estado de Sonora (SAGARHPA);
+
+13.- Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU);
+
+14.- Sistema para el Desarrollo Integral de la Familia del Estado de Sonora (DIF Sonora);
+
+15.- Instituto Mexicano del Seguro Social (IMSS);
+
+16.- Consejo Estatal para la Concertación de la Obra Pública (CECOP);
+
+17.- Instituto Sonorense de Educación para los Adultos (ISEA);
+
+18.- Comisión de Vivienda del Estado de Sonora (COVES);
+
+19.- Comisión Nacional para el Desarrollo de los Pueblos Indígenas (CDI);
+
+20.- Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas de Sonora (CEDIS);
+
+21.- Comisión Federal de Electricidad (CFE);
+
+22.- Comisión Nacional del Agua (CONAGUA);
+
+23.- Comisión Estatal del Agua (CEA);
+
+24.- Instituto Nacional de Economía Social (INAES);
+
+25.- Instituto Sonorense de la Juventud (ISJ);
+
+26.- Programa para la Inclusión Social PROSPERA;
+
+27.- Instituto Nacional para las Personas Adultas Mayores (INAPAM);
+
+28.- Liconsa, S.A. de C.V.; y
+
+29.- Diconsa, S.A. de C.V.
+
+Las atribuciones y funciones de la Estrategia Estatal de Inclusión Social para el Combate a la Pobreza por Carencias, se establecerán en los reglamentos, manuales y demás ordenamientos legales correspondientes.
 
 ###### ARTÍCULO 13.
 
@@ -716,3 +808,19 @@ B.O. 15 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 12 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 119, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La integración a que se refiere el artículo 12 BIS 2 deberá formalizarse dentro del término de 80 días naturales a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de la Estrategia Estatal de Inclusión Social para el Combate a la Pobreza por Carencias deberá publicarse en el Boletín Oficial del Gobierno del Estado dentro de los 60 días naturales a partir de la entrada en vigor de este Decreto.
