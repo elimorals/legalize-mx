@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-establece-el-derecho-de-via-y-su-aprovechamiento-en-119
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-20"
-last_updated: "1997-09-20"
+last_updated: "2017-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY QUE ESTABLECE EL DERECHO DE VIA Y SU APROVECHAMIENTO EN LAS VIAS TERRESTRES DE COMUNICACION ESTATAL DE SAN LUIS POTOSI
 
-LEY QUE ESTABLECE EL DERECHO DE VIA Y SU APROVECHAMIENTO EN LAS VIAS TERRESTRES DE COMUNICACION ESTATAL
+LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2017.
 
 Ley publicada en el Número Extraordinario Número Anexo del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de septiembre de 1997.
 
@@ -183,9 +183,7 @@ c) Periodo de vigencia solicitada; y
 
 d) Ubicación del tramo solicitado que se pretende utilizar.
 
-II.- Planos de proyecto, cuando se trate de ejecución de obras de carácter
-
-permanentes;
+II.- Planos de proyecto, cuando se trate de ejecución de obras de carácter permanentes;
 
 III.- Dimensiones del objeto mueble a instalar tratándose de estanquillos y anuncios publicitarios; y
 
@@ -325,13 +323,17 @@ Si el visitado no se encontrare en la primera búsqueda, se le dejará citatorio
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 37.
 
-A quienes sin permiso previamente otorgado obstruya o invada de cualquier manera el Derecho de Vía, se aplicará una sanción de uno a cincuenta salarios mínimos vigentes en la región, sin prejuicio de la obligación del particular a remover la instalación u objeto mueble del área invadida; o regularizar su situación solicitando el permiso correspondiente.
+A quienes sin permiso previamente otorgado obstruya o invada de cualquier manera el Derecho de Vía, se aplicará una sanción de una a cincuenta unidades de medida y actualización vigente, sin perjuicio de la obligación del particular a remover la instalación u objeto mueble del área invadida; o regularizar su situación solicitando el permiso correspondiente.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 38.
 
-A quien sin permiso previamente otorgado invada el Derecho de Vía mediante la ejecución de obras de carácter permanente dentro de éste, se le aplicará una sanción de uno hasta trescientos salarios mínimos vigentes en la región, lo anterior sin menoscabo de la obligación del particular a regularizar su situación o demoler a su costa la obra ejecutada.
+A quien sin permiso previamente otorgado invada el Derecho de Vía mediante la ejecución de obras de carácter permanente dentro de éste, se le aplicará una sanción de una hasta trescientas unidades de medida y actualización vigente, lo anterior sin menoscabo de la obligación del particular a regularizar su situación o demoler a su costa la obra ejecutada.
 
 > <small>(F. DE E., P. O. 10 DE OCTUBRE 1997)</small>
 
@@ -339,9 +341,11 @@ A quien sin permiso previamente otorgado invada el Derecho de Vía mediante la e
 
 Cuando se invada el derecho de vía con objetos muebles y éstos se encuentren abandonados, la Junta Estatal de Caminos considerará la peligrosidad que representen, pudiendo retirarlos procediendo, al aseguramiento previo inventario que al efecto se realice señalando el lugar donde serán depositados.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2017)</small>
+
 ###### ARTICULO 40.
 
-A las personas que incurran en la omisión a que se refiere el artículo cuarto transitorio de esta ley, se les impondrá una multa consistente de uno a cincuenta salarios mínimos vigentes en el Estado tomando en consideración el área que ocupen y la actividad que desempeñen.
+A las personas que incurran en la omisión a que se refiere el artículo cuarto transitorio de esta Ley, se les impondrá una multa consistente de una a cincuenta unidades de medida y actualización vigente tomando en consideración el área que ocupen y la actividad que desempeñen.
 
 ###### ARTICULO 41.
 
@@ -414,3 +418,13 @@ El Secretario General de Gobierno
 DR. JESUS EDUARDO NOYOLA BERNAL
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0607.- SE REFORMA LOS ARTÍCULOS 81, 129 Y 132 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ; ASÍ MISMO EL ARTÍCULO 93 DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ; LOS ARTÍCULOS 61 Y 68 DE LA LEY PARA LA REGULARIZACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ, Y LOS ARTÍCULOS 37, 38, Y 40 DE LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
