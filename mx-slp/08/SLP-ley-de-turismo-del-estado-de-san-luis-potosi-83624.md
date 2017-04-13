@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2017-03-30"
+last_updated: "2017-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -1025,7 +1025,9 @@ I. Amonestación;
 
 II. Apercibimiento, y
 
-III. Multa de diez hasta cien veces el salario mínimo general diario vigente para el Estado.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2017)</small>
+
+III. Multa de diez hasta cien unidades de medida y actualización vigente.
 
 Tratándose de quejas presentadas por los turistas contra prestadores de servicios turísticos, la Secretaría las turnará a la Procuraduría Federal de Protección al Consumidor, la que conocerá de su recepción, desahogo y resolución y, en su caso, arbitraje y sanción, en los términos de la Ley de Protección al Consumidor.
 
@@ -1114,3 +1116,11 @@ P.O. 30 DE MARZO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado ''Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0607.- SE REFORMA (SIC) LOS ARTÍCULOS 81, 129 Y 132 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ; ASI MISMO EL ARTÍCULO 93 DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ; LOS ARTÍCULOS 61 Y 68 DE LA LEY PARA LA REGULARIZACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ, Y LOS ARTÍCULOS 37, 38, Y 40 DE LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
