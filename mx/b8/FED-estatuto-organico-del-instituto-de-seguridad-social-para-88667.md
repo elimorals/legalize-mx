@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-social-para-88667"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-30"
-last_updated: "2016-12-02"
+last_updated: "2017-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88667&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-07-23"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DEL 24 DE ABRIL DE 2017, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2017.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de julio de 2012.
 
@@ -89,15 +91,9 @@ XIII. Un Organo Interno de Control, que se regirá conforme a lo dispuesto por e
 
 ### CAPITULO SEGUNDO. De la Junta Directiva
 
-ART. 4.- Además de las atribuciones y funciones que la Ley de este Instituto concede a la Junta Directiva, la misma observará los siguientes lineamientos.
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2017)</small>
 
-La Junta Directiva celebrará por lo menos dos sesiones al mes y cuantas sean necesarias para la debida marcha del Instituto.
-
-Con dos sesiones al mes se pueden ajustar las semanas a los días feriados, además se podrá convocar a sesiones extraordinarias en caso de requerirlo.
-
-La Junta Directiva actuará válidamente con seis de sus miembros y sus resoluciones se tomarán por mayoría de votos de los miembros presentes. En caso de no asistir el Presidente y Vicepresidente de la Junta Directiva, se suspenderá la sesión.
-
-De no contar con quórum, se considerará reunión de trabajo y los asuntos que se traten serán sometidos a consideración de la Junta Directiva para su posterior aprobación por el pleno de ésta. En caso de ser reunión de trabajo, no se numerará y se corre el número a la siguiente sesión.
+ART. 4.- La Junta Directiva actuará válidamente con seis de sus miembros y sus resoluciones se tomarán por mayoría de votos de los miembros presentes. En caso de no asistir el Presidente y Vicepresidente de la Junta Directiva, se suspenderá la sesión, levantándose el Acta Circunstanciada correspondiente y estableciendo la nueva fecha de sesión.
 
 ART. 5.- Para la celebración de las sesiones de la Junta Directiva se emitirá convocatoria por el Director General o por el Secretario de ésta, en su caso. La convocatoria se hará llegar a los miembros de la Junta Directiva con una anticipación no menor de cinco días hábiles a la fecha de la cita y se acompañará del orden del día y de la documentación correspondiente de los asuntos a tratar.
 
@@ -299,7 +295,9 @@ II. Realizar el estudio de los antecedentes relativos a los haberes de retiro, p
 
 III. Notificar al personal militar o familiares peticionarios, las resoluciones emitidas por la Junta Directiva que concedan, nieguen, modifiquen, suspendan o declaren insubsistentes los haberes de retiro, las pensiones y las compensaciones, de conformidad con lo establecido en los artículos 204 y 208 de la Ley de este Instituto;
 
-IV. Notificar a las Secretarías de la Defensa Nacional o de Marina, en su caso, así como al militar o a sus familiares peticionarios tanto la resolución definitiva emitida por la Junta Directiva, como la aprobación o negativa de la sanción emitida por la Secretaría de Hacienda y Crédito Público, respecto a los haberes de retiro, pensiones y compensaciones, de conformidad con el artículo 201 de la Ley de este Instituto;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+IV. Notificar a las Secretarías de la Defensa Nacional o de Marina, en su caso, así como al militar o a sus familiares peticionarios, éstos últimos a través del servicio postal mexicano, tanto la resolución definitiva emitida por la Junta Directiva, como la aprobación o negativa de la sanción emitida por la Secretaría de Hacienda y Crédito Público, respecto a los haberes de retiro, pensiones y compensaciones, de conformidad con el artículo 201 de la Ley de este Instituto.
 
 V. Cubrir a los familiares de los militares extintos que han iniciado el trámite de pensión el 50% del haber o haber de retiro que percibía el militar fallecido, en tanto se concluye el trámite de pensión como lo prevé el artículo 197 de la propia Ley de este Instituto;
 
@@ -307,7 +305,9 @@ VI. Remitir a la Secretaría de Hacienda y Crédito Público, la resolución emi
 
 VII. Integrar los expedientes correspondientes a los haberes de retiro, pensiones y compensaciones para su inclusión en la nómina de retirados y pensionados;
 
-VIII. Expedir las tarjetas de filiación a los militares retirados, pensionistas y representantes legales, para que puedan ejercer su derecho, respecto al beneficio económico otorgado, con vigencia de cuatro años;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+VIII. Tramitar la expedición de las tarjetas de filiación que se otorguen por primera vez a los militares retirados y pensionistas para que puedan ejercer su derecho, respecto al beneficio económico otorgado.
 
 > <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2015)</small>
 
@@ -337,15 +337,33 @@ XX. Garantizar el pago de la nómina mensual a los militares en situación de re
 
 XXI. Conciliar y comprobar los recursos puestos a disposición de este Instituto, para el pago de la nómina mensual ante la Secretaría de Hacienda y Crédito Público;
 
-XXII. Autorizar las reexpediciones y regularizaciones de pago en territorio nacional y el extranjero de los beneficiarios que no cobraron su haber de retiro, pensión o compensación;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2017)</small>
 
-XXIII. Tramitar los cambios de radicación de pago de haber de retiro, pensión o compensación en territorio nacional y el extranjero, a los beneficiarios que los soliciten;
+XXII. Tramitar ante la Secretaría de Hacienda y Crédito Público, las reexpediciones y regularizaciones de pago en territorio Nacional y el Extranjero, por haber de retiro, pensión o compensación, pagas (sic) de defunción y ayudas para gastos de sepelio.
 
-XXIV. Elaborar oportunamente las convocatorias de becas para el ciclo escolar correspondiente y someterlas a la aprobación de la Junta Directiva para su difusión;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2017)</small>
 
-XXV. Dar respuesta a todas y cada una de las peticiones e inconformidades presentadas por los militares y familiares, respecto a las prestaciones cuyo trámite es competencia de esta Dirección, en términos del artículo 8/o Constitucional, y
+XXIII.- Tramitar los cambios de radicación de pago de haber de retiro, pensión o compensación a los beneficiarios que lo soliciten; así como las notificaciones correspondientes.
 
-XXVI. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+XXIV. Elaborar la convocatoria de becas para el ciclo escolar correspondiente y someter a la aprobación de la Junta Directiva, la calendarización del proceso.
+
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+XXV. Efectuar los descuentos a que se refiere el artículo 32 de la Ley del ISSFAM, al personal militar en situación de retiro, pensionistas y por compensación.
+
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+XXVI. Efectuar el cambio de cuota una vez otorgada una pensión si aparecen otros familiares con derecho, de manera preventiva en los casos establecidos en el artículo 42 de la Ley del ISSFAM.
+
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+XXVII. Realizar la recuperación de los importes que hayan cobrado los pensionistas en el lapso que transcurrió entre la resolución de la H. Junta Directiva y la materialización del pago, cuando se realice extensiva de pensión.
+
+XXVIII. Dar respuesta a todas y cada una de las peticiones e inconformidades presentadas por los militares y familiares, respecto a las prestaciones cuyo trámite es competencia de esta Dirección, en términos del artículo 8/o Constitucional, y
+
+XXIX. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
 
 ART. 18.- La Dirección de Prestaciones Sociales y de Salud tendrá las siguientes funciones y facultades:
 
@@ -395,7 +413,9 @@ XXII. Registrar la afiliación que remiten las Secretarías de la Defensa Nacion
 
 XXIII. Expedir las cédulas de identificación de los derechohabientes de militares en activo y situación de retiro con base al registro que remiten las Secretarías de la Defensa Nacional y de Marina, asentando el término de la vigencia del derecho;
 
-XXIV. Autorizar la renovación de las tarjetas de filiación de los militares en situación de retiro, pensionistas y representantes legales para que puedan ejercer sus derechos, concedidos por la Ley de este Instituto, con vigencia de cuatro años;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+XXIV. Expedir las tarjetas de filiación por primera vez y autorizar su renovación de los militares en situación de retiro y pensionistas para que puedan ejercer sus derechos.
 
 XXV. Expedir las cédulas de identificación de los hijos mayores de 25 años que autorice la Dirección General de este Instituto, para que ejerciten su derecho al servicio médico;
 
@@ -409,7 +429,9 @@ XXIX. Elaborar y mantener actualizados los registros de los trámites competenci
 
 XXX. Expedir la clave única de registro de población al personal militar en situación de retiro, sus derechohabientes y pensionistas, y al personal civil que labora en el Instituto en los casos que se requiera;
 
-XXXI. Planear y coordinar la revista de supervivencia para verificar la existencia de los militares en situación de retiro y pensionistas, de conformidad con el artículo 29 de la Ley de este Instituto;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+XXXI. Planear y coordinar la revista de supervivencia para verificar la existencia de los militares en situación de retiro y pensionistas, de conformidad con el artículo 29 de la Ley de este Instituto, y continuar percibiendo el beneficio económico otorgado.
 
 XXXII. Elaborar y ejecutar programas y proyectos de trabajo social;
 
@@ -423,9 +445,13 @@ XXXVI. Proporcionar información y orientación a los miembros de las Fuerzas Ar
 
 XXXVII. Gestionar y dar seguimiento a los trámites relacionados con las solicitudes de las prestaciones que otorga este Instituto, hasta su conclusión;
 
-XXXVIII. Dar respuesta a todas y cada una de las peticiones e inconformidades presentadas, respecto a las prestaciones cuyo trámite sea de su competencia, en términos del artículo 8/o Constitucional, y
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2017)</small>
 
-XXXIX. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
+XXXVIII. Se podrán realizar visitas aleatorias como medio de orientación social a los militares en situación de retiro, derechohabientes y pensionistas, cuando se requiera.
+
+XXXIX. Dar respuesta a todas y cada una de las peticiones e inconformidades presentadas, respecto a las prestaciones cuyo trámite sea de su competencia, en términos del artículo 8/o Constitucional, y
+
+XL. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
 
 ART. 19.- La Dirección de Vivienda tendrá las siguientes funciones y facultades:
 
@@ -453,7 +479,9 @@ X. Identificar los incidentes de cartera vencida de créditos hipotecarios para 
 
 XI. Dictaminar y gestionar la liquidación de los saldos insolutos, con recursos del fondo de autoaseguramiento para créditos hipotecarios que resulten procedentes, en los casos de fallecimiento del militar y situación de retiro por inutilidad contraída en actos del servicio o como consecuencia de ellos, clasificada en primera o segunda categoría, como se establece en el artículo 111 de la Ley de este Instituto;
 
-XII. Administrar las Unidades Habitacionales propiedad del Instituto para asegurar su buen funcionamiento, de acuerdo a la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+XII. Administrar las Unidades Habitacionales propiedad del Instituto para asegurar su buen funcionamiento, y mantener vigentes los servicios municipales y títulos de concesión que procedan, de acuerdo a la normatividad aplicable.
 
 XIII. Elaborar y aplicar programas de mantenimiento menor tendientes a la conservación de las Unidades Habitacionales patrimonio de este Instituto;
 
@@ -481,7 +509,9 @@ III. Verificar la ejecución de los proyectos contratados en aspectos técnicos,
 
 IV. Llevar a cabo los procedimientos de contratación, competencia de esta Dirección;
 
-V. Realizar estudios preliminares, técnicos y de factibilidad para la ejecución de obras públicas y servicios relacionados con las mismas; así como gestionar las licencias, permisos, factibilidades y autorizaciones correspondientes;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+V. Realizar estudios preliminares, técnicos y de factibilidad para la ejecución de obras públicas y servicios relacionados con las mismas que lleve a cabo el Instituto; así como gestionar las licencias, permisos, factibilidades y autorizaciones correspondientes a nivel local y federal, para la realización de la obra, incluyendo todos los servicios municipales, debiendo entregar las licencias y permisos al área que operará los inmuebles para su consecuente administración, una vez concluida la obra.
 
 VI. Realizar visitas técnicas de inspección cuando se requiera, a los inmuebles que pretenden adquirir los militares así como aquellos inmuebles propiedad del personal que recibe el beneficio del Crédito Hipotecario que otorga este Instituto para construcción, remodelación, ampliación, reparación y mejora de su vivienda, a fin de verificar que el avance físico de los trabajos antes citados corresponde a los recursos entregados;
 
@@ -495,7 +525,9 @@ X. Gestionar la recuperación de fianzas y pólizas de garantía, derivadas de l
 
 XI. Participar en los trámites para la recuperación de las primas aseguradas, en casos de daños ocasionados por siniestros en los inmuebles patrimonio o en destino del Instituto, diferentes de las Unidades Habitacionales; y de éstas cuando rebasen los montos máximos autorizados para adjudicación directa, de conformidad a lo estipulado en el Presupuesto de Egresos de la Federación;
 
-XII. Participar técnicamente con la Dirección Administrativa en el proceso de regularización y/o adquisición de los bienes inmuebles donados o comprados, según sea el caso, y
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+XII. Elaborar los estudios y documentos técnicos que requiera la Dirección Administrativa para el proceso de regularización y/o adquisición de los bienes inmuebles donados o comprados, según sea el caso.
 
 XIII. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
 
@@ -571,7 +603,9 @@ XVII. Proponer los anteproyectos de presupuesto anual del Instituto de las parti
 
 XVIII. Asegurar la prestación de los servicios generales que requiere el Instituto para garantizar mejores condiciones de trabajo de los empleados, a fin de cubrir las necesidades de operación del Instituto;
 
-XIX. Administrar y llevar el registro de los bienes inmuebles propiedad y en destino del Instituto;
+> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+XIX. Administrar y llevar el registro de los bienes inmuebles propiedad y en destino del Instituto; concentrando al efecto la información y documentación relativa al patrimonio inmobiliario.
 
 XX. Representar al Instituto ante las Instancias competentes para dar destino final a los bienes muebles;
 
@@ -583,9 +617,13 @@ XXIII. Establecer y aplicar el Programa de Protección Civil en el Instituto;
 
 XXIV. Aplicar los Lineamientos de Viáticos y Pasajes para el otorgamiento de recursos al personal del Instituto, a fin de que den cumplimiento a las comisiones que les sean asignadas;
 
-XXV. Dar respuesta a todas y cada una de las peticiones e inconformidades que le sean presentadas, cuyo trámite es competencia de esta Dirección, en términos del artículo 8/o Constitucional, y
+> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2017)</small>
 
-XXVI. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
+XXV. Administrar la correspondencia, entrada y salida de la documentación institucional, remitiendo de manera expedita a las Unidades Administrativas o Dependencias, Entidades y Organismos, para la atención del asunto correspondiente.
+
+XXVI. Dar respuesta a todas y cada una de las peticiones e inconformidades que le sean presentadas, cuyo trámite es competencia de esta Dirección, en términos del artículo 8/o Constitucional, y
+
+XXVII. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable, la Junta Directiva o el Director General.
 
 ART. 23.- La Dirección de Tecnologías de Información, Planeación y Comunicación Social tendrá las siguientes funciones y facultades:
 
@@ -685,7 +723,9 @@ ART. 28.- En las ausencias del Secretario de la Junta Directiva, asumirá sus fu
 
 ART. 29.- El Coordinador de Asesores de la Dirección General y el Coordinador Administrativo, serán suplidos en sus ausencias temporales por el Servidor Público que designe el Director General.
 
-ART. 30.- Los Directores de las Unidades Administrativas serán suplidos en sus ausencias temporales por el Subdirector al que le corresponda evacuar el trámite.
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2017)</small>
+
+ART. 30.- Las ausencias de los Directores y Subdirectores de las Unidades Administrativas serán suplidas por los servidores públicos de la jerarquía inmediata inferior que designen, o bien, al que le corresponda evacuar el trámite.
 
 ART. 31.- Las ausencias del Titular del Organo Interno de Control, así como las de los Titulares de las Areas de Auditoría y de Responsabilidades y Quejas, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
 
@@ -726,3 +766,9 @@ D.O.F. 2 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA AL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS”.]
 
 ÚNICO.- La presente reforma al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIO DE "REFORMAS Y ADICIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS".]
+
+ÚNICO.- Las presentes reformas y adiciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
