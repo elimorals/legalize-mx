@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-regulacion-de-la-firma-electronica-avanzada-del-902
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-16"
-last_updated: "2014-12-18"
+last_updated: "2017-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA REGULACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de octubre de 2012.
 
@@ -653,7 +653,9 @@ III. Notificar a la autoridad certificadora correspondiente de cualquier limitac
 
 IV. Pagar los derechos correspondientes al ejercicio de esta actividad;
 
-V. Garantizar las responsabilidades en que pudiere incurrir en el ejercicio de su actividad, debiendo otorgar y mantener vigente ante la autoridad certificadora, el equivalente a 1000 veces el salario mínimo vigente en la zona económica que corresponda al Estado,
+> <small>(REFORMADA, P. O. 13 DE ABRIL DE 2017)</small>
+
+V. Garantizar las responsabilidades en que pudiere incurrir en el ejercicio de su actividad, debiendo otorgar y mantener vigente ante la autoridad certificadora, el equivalente a mil veces unidades de medida y actualización vigente;
 
 VI. Notificar de la conclusión de sus actividades, cuando así lo decidan, a las autoridades certificadoras de acuerdo a lo establecido en los Reglamentos de ésta Ley, y
 
@@ -701,7 +703,9 @@ Atendiendo a la gravedad de la infracción, las autoridades certificadoras podr�
 
 I. amonestación por escrito;
 
-II. Multa de diez a doscientos días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P. O. 13 DE ABRIL DE 2017)</small>
+
+II. Multa de diez a doscientas unidades de medida y actualización vigente;
 
 III. Suspensión de la autorización para prestar sus servicios al público, de un mes a tres años, y
 
@@ -756,3 +760,11 @@ P.O. 18 DE DICIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga toda disposición contraria al presente Decreto.
+
+P.O. 13 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0607.- SE REFORMA (SIC) LOS ARTÍCULOS 81, 129 Y 132 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ; ASI MISMO EL ARTÍCULO 93 DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ; LOS ARTÍCULOS 61 Y 68 DE LA LEY PARA LA REGULARIZACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ, Y LOS ARTÍCULOS 37, 38, Y 40 DE LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
